@@ -1,0 +1,93 @@
+{
+  "app": {
+    "name": "Rabbi Zidni Ilma",
+    "tagline": "Seigneur, augmente ma science"
+  },
+  "nav": {
+    "home": "Accueil",
+    "courses": "Cours",
+    "about": "À propos",
+    "search": "Rechercher"
+  },
+  "home": {
+    "hero": {
+      "title": "Apprenez les sciences islamiques",
+      "subtitle": "Une plateforme éducative complète pour approfondir vos connaissances religieuses",
+      "cta": "Commencer l'apprentissage"
+    },
+    "features": {
+      "title": "Pourquoi nous choisir ?",
+      "quality": {
+        "title": "Contenu de qualité",
+        "description": "Des cours élaborés par des savants qualifiés"
+      },
+      "accessible": {
+        "title": "Accessible à tous",
+        "description": "Apprenez à votre rythme, où que vous soyez"
+      },
+      "structured": {
+        "title": "Parcours structuré",
+        "description": "Une progression pédagogique adaptée à chaque niveau"
+      }
+    }
+  },
+  "courses": {
+    "title": "Nos cours",
+    "filter": "Filtrer par",
+    "levels": {
+      "all": "Tous les niveaux",
+      "beginner": "Débutant",
+      "intermediate": "Intermédiaire",
+      "advanced": "Avancé"
+    },
+    "categories": {
+      "all": "Toutes les catégories",
+      "quran": "Coran",
+      "tajweed": "Tajweed",
+      "fiqh": "Fiqh",
+      "aqeedah": "Aqida",
+      "hadith": "Hadith",
+      "seerah": "Sîra"
+    },
+    "lessons": "leçons",
+    "lesson": "leçon",
+    "duration": "Durée",
+    "startCourse": "Commencer le cours",
+    "continueCourse": "Continuer le cours",
+    "progress": "Progression",
+    "noCourses": "Aucun cours trouvé"
+  },
+  "lesson": {
+    "tableOfContents": "Table des matières",
+    "markComplete": "Marquer comme terminé",
+    "completed": "Terminé",
+    "nextLesson": "Leçon suivante",
+    "previousLesson": "Leçon précédente",
+    "backToCourse": "Retour au cours"
+  },
+  "common": {
+    "loading": "Chargement...",
+    "error": "Une erreur s'est produite",
+    "notFound": "Page non trouvée",
+    "save": "Enregistrer",
+    "cancel": "Annuler",
+    "close": "Fermer",
+    "confirm": "Confirmer",
+    "back": "Retour",
+    "next": "Suivant",
+    "previous": "Précédent"
+  },
+  "accessibility": {
+    "skipToContent": "Aller au contenu principal",
+    "openMenu": "Ouvrir le menu",
+    "closeMenu": "Fermer le menu",
+    "darkMode": "Mode sombre",
+    "lightMode": "Mode clair",
+    "changeLanguage": "Changer de langue"
+  },
+  "footer": {
+    "copyright": "© {year} Rabbi Zidni Ilma. Tous droits réservés.",
+    "madeWith": "Fait avec",
+    "forUmmah": "pour la Oumma"
+  }
+}

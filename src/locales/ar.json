@@ -1,0 +1,93 @@
+{
+  "app": {
+    "name": "وَقُل رَّبِّ زِدْنِي عِلْمًا",
+    "tagline": "وَقُل رَّبِّ زِدْنِي عِلْمًا"
+  },
+  "nav": {
+    "home": "الرئيسية",
+    "courses": "الدورات",
+    "about": "من نحن",
+    "search": "بحث"
+  },
+  "home": {
+    "hero": {
+      "title": "تعلّم العلوم الشرعية",
+      "subtitle": "منصة تعليمية شاملة لتعميق معرفتك الدينية",
+      "cta": "ابدأ التعلّم"
+    },
+    "features": {
+      "title": "لماذا تختارنا؟",
+      "quality": {
+        "title": "محتوى عالي الجودة",
+        "description": "دورات أعدّها علماء مؤهلون"
+      },
+      "accessible": {
+        "title": "متاح للجميع",
+        "description": "تعلّم بالوتيرة التي تناسبك، أينما كنت"
+      },
+      "structured": {
+        "title": "مسار منظّم",
+        "description": "تدرّج تعليمي مناسب لكل مستوى"
+      }
+    }
+  },
+  "courses": {
+    "title": "دوراتنا",
+    "filter": "تصفية حسب",
+    "levels": {
+      "all": "جميع المستويات",
+      "beginner": "مبتدئ",
+      "intermediate": "متوسط",
+      "advanced": "متقدم"
+    },
+    "categories": {
+      "all": "جميع التصنيفات",
+      "quran": "القرآن الكريم",
+      "tajweed": "التجويد",
+      "fiqh": "الفقه",
+      "aqeedah": "العقيدة",
+      "hadith": "الحديث",
+      "seerah": "السيرة النبوية"
+    },
+    "lessons": "دروس",
+    "lesson": "درس",
+    "duration": "المدة",
+    "startCourse": "ابدأ الدورة",
+    "continueCourse": "تابع الدورة",
+    "progress": "التقدم",
+    "noCourses": "لم يتم العثور على دورات"
+  },
+  "lesson": {
+    "tableOfContents": "فهرس المحتويات",
+    "markComplete": "وضع علامة مكتمل",
+    "completed": "مكتمل",
+    "nextLesson": "الدرس التالي",
+    "previousLesson": "الدرس السابق",
+    "backToCourse": "العودة إلى الدورة"
+  },
+  "common": {
+    "loading": "جارٍ التحميل...",
+    "error": "حدث خطأ",
+    "notFound": "الصفحة غير موجودة",
+    "save": "حفظ",
+    "cancel": "إلغاء",
+    "close": "إغلاق",
+    "confirm": "تأكيد",
+    "back": "رجوع",
+    "next": "التالي",
+    "previous": "السابق"
+  },
+  "accessibility": {
+    "skipToContent": "انتقل إلى المحتوى الرئيسي",
+    "openMenu": "فتح القائمة",
+    "closeMenu": "إغلاق القائمة",
+    "darkMode": "الوضع الداكن",
+    "lightMode": "الوضع الفاتح",
+    "changeLanguage": "تغيير اللغة"
+  },
+  "footer": {
+    "copyright": "© {year} وَقُل رَّبِّ زِدْنِي عِلْمًا. جميع الحقوق محفوظة.",
+    "madeWith": "صُنع بـ",
+    "forUmmah": "للأمة الإسلامية"
+  }
+}

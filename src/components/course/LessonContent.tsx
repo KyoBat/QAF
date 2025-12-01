@@ -1,0 +1,147 @@
+/**
+ * LessonContent Component
+ * Affiche le contenu d'une leçon avec le markdown parsé
+ * Utilise UNIQUEMENT les design tokens
+ */
+
+'use client'
+
+import ReactMarkdown from 'react-markdown'
+import { useLocale } from '@/components/providers'
+import { cn } from '@/lib/utils'
+import type { Lesson } from '@/lib/schemas'
+
+interface LessonContentProps {
+  lesson: Lesson
+  className?: string
+}
+
+export function LessonContent({ lesson, className }: LessonContentProps) {
+  const { locale, isRTL } = useLocale()
+  const content = lesson.content[locale as keyof typeof lesson.content] || lesson.content.fr
+
+  return (
+    <div className={cn('prose-content', isRTL && 'text-right', className)}>
+      <ReactMarkdown
+        components={{
+          h1: ({ children }) => (
+            <h1 className={cn(
+              'text-3xl font-bold text-foreground mb-6 mt-8',
+              isRTL && 'font-arabic'
+            )}>
+              {children}
+            </h1>
+          ),
+          h2: ({ children }) => (
+            <h2 className={cn(
+              'text-2xl font-semibold text-foreground mb-4 mt-6',
+              isRTL && 'font-arabic'
+            )}>
+              {children}
+            </h2>
+          ),
+          h3: ({ children }) => (
+            <h3 className={cn(
+              'text-xl font-semibold text-foreground mb-3 mt-4',
+              isRTL && 'font-arabic'
+            )}>
+              {children}
+            </h3>
+          ),
+          p: ({ children }) => (
+            <p className="text-muted-foreground mb-4 leading-relaxed">
+              {children}
+            </p>
+          ),
+          ul: ({ children }) => (
+            <ul className={cn(
+              'list-disc mb-4 space-y-2',
+              isRTL ? 'mr-6' : 'ml-6'
+            )}>
+              {children}
+            </ul>
+          ),
+          ol: ({ children }) => (
+            <ol className={cn(
+              'list-decimal mb-4 space-y-2',
+              isRTL ? 'mr-6' : 'ml-6'
+            )}>
+              {children}
+            </ol>
+          ),
+          li: ({ children }) => (
+            <li className="text-muted-foreground">{children}</li>
+          ),
+          blockquote: ({ children }) => (
+            <blockquote className={cn(
+              'italic my-4 text-muted-foreground bg-muted/50 py-2 rounded-lg',
+              isRTL 
+                ? 'border-r-4 border-primary pr-4 pl-4' 
+                : 'border-l-4 border-primary pl-4 pr-4'
+            )}>
+              {children}
+            </blockquote>
+          ),
+          code: ({ children, className }) => {
+            const isInline = !className
+            if (isInline) {
+              return (
+                <code className="bg-muted px-1.5 py-0.5 rounded text-sm font-mono">
+                  {children}
+                </code>
+              )
+            }
+            return (
+              <code className={className}>{children}</code>
+            )
+          },
+          pre: ({ children }) => (
+            <pre className="bg-muted p-4 rounded-lg overflow-x-auto mb-4">
+              {children}
+            </pre>
+          ),
+          table: ({ children }) => (
+            <div className="overflow-x-auto mb-4">
+              <table className="w-full border-collapse">
+                {children}
+              </table>
+            </div>
+          ),
+          th: ({ children }) => (
+            <th className={cn(
+              'border border-border px-4 py-2 bg-muted font-semibold',
+              isRTL ? 'text-right' : 'text-left'
+            )}>
+              {children}
+            </th>
+          ),
+          td: ({ children }) => (
+            <td className={cn(
+              'border border-border px-4 py-2',
+              isRTL ? 'text-right' : 'text-left'
+            )}>
+              {children}
+            </td>
+          ),
+          strong: ({ children }) => (
+            <strong className="font-semibold text-foreground">{children}</strong>
+          ),
+          a: ({ children, href }) => (
+            <a 
+              href={href} 
+              className="text-primary hover:underline"
+              target={href?.startsWith('http') ? '_blank' : undefined}
+              rel={href?.startsWith('http') ? 'noopener noreferrer' : undefined}
+            >
+              {children}
+            </a>
+          ),
+        }}
+      >
+        {content}
+      </ReactMarkdown>
+    </div>
+  )
+}
+
+export type { LessonContentProps }
