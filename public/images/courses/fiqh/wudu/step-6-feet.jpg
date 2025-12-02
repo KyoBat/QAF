@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <rect fill="#e3f2fd" width="400" height="300"/>
+  <circle cx="200" cy="120" r="50" fill="#bbdefb"/>
+  <text x="200" y="125" text-anchor="middle" font-family="Arial" font-size="24" fill="#1976d2">6</text>
+  <text x="200" y="200" text-anchor="middle" font-family="Arial" font-size="16" fill="#1976d2">غسل الرجلين</text>
+  <text x="200" y="225" text-anchor="middle" font-family="Arial" font-size="12" fill="#666">Washing the Feet</text>
+</svg>
