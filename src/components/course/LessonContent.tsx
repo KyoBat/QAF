@@ -66,12 +66,19 @@ export function LessonContent({ lesson, className }: LessonContentProps) {
             <ol className={cn(
               'list-decimal mb-4 space-y-2',
               isRTL ? 'mr-6' : 'ml-6'
-            )}>
+            )}
+            style={{ counterReset: 'list-item' }}
+            >
               {children}
             </ol>
           ),
           li: ({ children }) => (
-            <li className="text-muted-foreground">{children}</li>
+            <li className={cn(
+              'text-muted-foreground',
+              '[&>ul]:mt-2 [&>ol]:mt-2'
+            )}>
+              {children}
+            </li>
           ),
           blockquote: ({ children }) => (
             <blockquote className={cn(

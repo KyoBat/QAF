@@ -11,7 +11,7 @@ import { content as contentEn } from './en'
 export const lesson003: Lesson = {
   id: 'lesson-003',
   duration: '35 min',
-  order: 3,
+  order: 10,
   title: {
     fr: 'Les Impuretés (Najassa)',
     ar: 'النجاسة وأحكامها',

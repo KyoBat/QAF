@@ -11,7 +11,7 @@ import { content as contentEn } from './en'
 export const lesson006: Lesson = {
   id: 'lesson-006',
   duration: '30 min',
-  order: 6,
+  order: 8,
   title: {
     fr: 'Les Ablutions Sèches (Tayammum)',
     ar: 'التيمم',

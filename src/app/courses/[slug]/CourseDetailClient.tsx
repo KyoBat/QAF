@@ -51,16 +51,19 @@ export function CourseDetailClient({ course }: CourseDetailClientProps) {
   const { locale, t, isRTL } = useLocale()
   const { isLessonCompleted, getCourseProgress } = useProgressStore()
 
+  // Sort lessons by order
+  const sortedLessons = [...course.lessons].sort((a, b) => a.order - b.order)
+
   const title = course.title[locale as keyof typeof course.title] || course.title.fr
   const description = course.description[locale as keyof typeof course.description] || course.description.fr
   const categoryLabel = categoryLabels[course.category]?.[locale] || course.category
   const levelLabel = levelLabels[course.level]?.[locale] || course.level
 
-  const progress = getCourseProgress(course.slug, course.lessons.length)
-  const completedLessons = course.lessons.filter(l => isLessonCompleted(course.slug, l.id)).length
+  const progress = getCourseProgress(course.slug, sortedLessons.length)
+  const completedLessons = sortedLessons.filter(l => isLessonCompleted(course.slug, l.id)).length
 
   // Find first incomplete lesson for "Continue" button
-  const nextLesson = course.lessons.find(l => !isLessonCompleted(course.slug, l.id)) || course.lessons[0]
+  const nextLesson = sortedLessons.find(l => !isLessonCompleted(course.slug, l.id)) || sortedLessons[0]
 
   return (
     <div className="py-8 lg:py-12">
@@ -143,7 +146,7 @@ export function CourseDetailClient({ course }: CourseDetailClientProps) {
               </CardHeader>
               <CardContent className="p-0">
                 <div className="divide-y divide-border">
-                  {course.lessons.map((lesson, index) => {
+                  {sortedLessons.map((lesson, index) => {
                     const lessonTitle = lesson.title[locale as keyof typeof lesson.title] || lesson.title.fr
                     const isCompleted = isLessonCompleted(course.slug, lesson.id)
 
@@ -243,7 +246,7 @@ export function CourseDetailClient({ course }: CourseDetailClientProps) {
                       'text-sm text-muted-foreground mt-2',
                       isRTL && 'text-right'
                     )}>
-                      {completedLessons}/{course.lessons.length} {t('courses.lessons')}
+                      {completedLessons}/{sortedLessons.length} {t('courses.lessons')}
                     </p>
                   </div>
                 )}

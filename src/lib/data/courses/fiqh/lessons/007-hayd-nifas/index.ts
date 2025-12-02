@@ -11,7 +11,7 @@ import type { Lesson } from '@/lib/schemas'
 export const lesson007: Lesson = {
   id: 'lesson-007',
   duration: '40 min',
-  order: 7,
+  order: 9,
   title: {
     ar: 'أحكام الحيض والنفاس',
     en: 'Rulings on Menstruation and Postpartum Bleeding',

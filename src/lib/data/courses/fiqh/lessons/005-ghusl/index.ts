@@ -11,7 +11,7 @@ import { content as contentEn } from './en'
 export const lesson005: Lesson = {
   id: 'lesson-005',
   duration: '40 min',
-  order: 5,
+  order: 7,
   title: {
     fr: 'Les Grandes Ablutions (Ghusl)',
     ar: 'الغسل',
