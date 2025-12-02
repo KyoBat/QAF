@@ -76,5 +76,90 @@ Basé sur le hadith de Uthman ibn Affan (qu'Allah l'agrée) décrivant le Wudu d
 ![Guide étape par étape du Wudu](/images/courses/fiqh/wudu-steps.jpg)
 
 ---
+
+## 7. L'Essuyage sur les Khuffs et les Chaussettes (Al-Masah)
+
+Par miséricorde d'Allah envers Ses serviteurs, Il a permis d'essuyer sur les chaussons en cuir (khuffayn) et les chaussettes ordinaires au lieu de laver les pieds, facilitant ainsi les choses pour les musulmans, surtout par temps froid et en voyage.
+
+### Définitions
+
+| Terme | Définition |
+| :--- | :--- |
+| **Khuff (pl. Khuffayn)** | Chaussure en cuir qui couvre les pieds y compris les chevilles |
+| **Jawrab (pl. Jawrabayn)** | Chaussettes en coton, laine, nylon ou matériaux similaires |
+
+### Légitimité de l'Essuyage
+
+L'essuyage sur les khuffs est établi par de nombreux hadiths authentiques (Mutawatir). L'Imam Ahmad a dit : « Je n'ai aucun doute concernant l'essuyage sur les khuffs ; il y a quarante hadiths du Messager d'Allah ﷺ à ce sujet. »
+
+Al-Mughirah ibn Shu'bah (qu'Allah l'agrée) a rapporté : **« J'étais avec le Prophète ﷺ en voyage, et je me suis baissé pour enlever ses khuffs, mais il a dit : 'Laisse-les, car je les ai mis en état de pureté.' Puis il a essuyé dessus. »** (Unanimement reconnu).
+
+### Conditions pour Essuyer sur les Khuffs et Chaussettes
+
+1. **Les porter en état de pureté complète :** Après avoir fait le Wudu ou le Ghusl.
+   - Preuve : La parole du Prophète : « Car je les ai mis en état de pureté. »
+
+2. **Ils doivent couvrir les pieds y compris les chevilles.**
+
+3. **Ils doivent être purs (Tahir) :** On ne peut pas essuyer sur des chaussures impures.
+
+4. **L'essuyage doit être dans la période prescrite :**
+
+| Statut | Durée |
+| :--- | :--- |
+| **Résident** | Un jour et une nuit (24 heures) |
+| **Voyageur** | Trois jours et nuits (72 heures) |
+
+> **Début de la période :** À partir du premier essuyage après avoir rompu le Wudu, selon l'avis le plus fort.
+
+### Comment Essuyer
+
+1. **Mouiller les mains avec de l'eau.**
+2. **Essuyer le dessus de la chaussette/khuff** des orteils vers le tibia.
+3. **Essuyer une seule fois** (la répétition n'est pas recommandée).
+4. **Essuyer la droite avec la main droite et la gauche avec la main gauche** (ou les deux ensemble).
+
+> ⚠️ **Note :** L'essuyage se fait sur le **dessus de la chaussure**, pas sur le dessous.
+
+Ali ibn Abi Talib (qu'Allah l'agrée) a dit : **« Si la religion était basée sur l'opinion, essuyer le dessous du khuff serait plus logique qu'essuyer le dessus. Mais j'ai vu le Messager d'Allah ﷺ essuyer le dessus de ses khuffs. »** (Rapporté par Abu Dawud avec une chaîne authentique).
+
+### Ce qui Invalide l'Essuyage
+
+L'essuyage devient invalide et le lavage des pieds devient obligatoire dans ces cas :
+
+1. **Expiration de la période :** Si la période se termine alors qu'on est en état de pureté, il suffit d'enlever les chaussettes et de laver les pieds (pas besoin de refaire tout le Wudu).
+
+2. **Enlever les chaussettes/khuffs :** Si on les enlève après avoir essuyé dessus.
+   - **Avis le plus fort :** La pureté est invalidée et le lavage des pieds est requis.
+
+3. **Survenue d'une impureté majeure :** Comme la Janabah ou les menstrues.
+
+### Questions Importantes
+
+| Question | Réponse |
+| :--- | :--- |
+| Peut-on essuyer sur des chaussettes trouées ? | ✅ Oui, selon l'avis le plus fort, tant qu'elles sont encore appelées chaussettes |
+| Peut-on essuyer sur des chaussettes transparentes ? | ✅ Oui, selon l'avis le plus fort |
+| Peut-on porter une chaussette sur une autre et essuyer la supérieure ? | ✅ Oui, si la seconde a été mise en état de pureté |
+| Et si on porte un khuff sur un autre ? | On essuie sur celui du dessus s'il a été mis en état de pureté |
+| Peut-on essuyer sur les chaussures ? | ✅ Oui, si elles couvrent les chevilles |
+
+### L'Essuyage sur les Attelles et Bandages (Jabirah)
+
+**Jabirah :** Ce qui est placé sur une fracture ou une blessure, comme un plâtre ou un bandage.
+
+**Règle :** Il est permis d'essuyer dessus, et tout le bandage doit être essuyé (pas seulement le dessus).
+
+**Différence entre Khuff et Jabirah :**
+
+| Khuff | Jabirah |
+| :--- | :--- |
+| Doit être mis en état de pureté | Non requis |
+| A une limite de temps | Pas de limite (jusqu'au retrait) |
+| Seul le dessus est essuyé | Tout le bandage est essuyé |
+| Spécifique aux pieds | Peut être sur n'importe quel membre |
+
+---
+
 *Le Prophète ﷺ a dit : « Celui qui fait le Wudu comme ce Wudu qui est le mien, puis prie deux Rak'ahs sans y laisser errer ses pensées, ses péchés passés lui seront pardonnés. » (Rapporté par Al-Bukhari et Muslim).*
 `;

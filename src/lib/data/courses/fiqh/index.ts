@@ -10,8 +10,9 @@ import { lesson003 } from './lessons/003-najassa'
 import { lesson004 } from './lessons/004-wudu'
 import { lesson005 } from './lessons/005-ghusl'
 import { lesson006 } from './lessons/006-tayammum'
+import { lesson007 } from './lessons/007-hayd-nifas'
 
 export const fiqhCourse: Course = {
   ...fiqhMeta,
-  lessons: [lesson001, lesson002, lesson003, lesson004, lesson005, lesson006],
+  lessons: [lesson001, lesson002, lesson003, lesson004, lesson005, lesson006, lesson007],
 }

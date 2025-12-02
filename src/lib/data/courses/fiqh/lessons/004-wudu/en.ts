@@ -67,5 +67,90 @@ Based on the Hadith of Uthman ibn Affan (may Allah be pleased with him) describi
 ![Step-by-step Wudu Guide](/images/courses/fiqh/wudu-steps.jpg)
 
 ---
+
+## 7. Wiping Over the Khuffayn and Socks (Al-Masah)
+
+Out of Allah's mercy upon His servants, He permitted wiping over leather socks (khuffayn) and regular socks instead of washing the feet, making things easier for Muslims especially in cold weather and during travel.
+
+### Definitions
+
+| Term | Definition |
+| :--- | :--- |
+| **Khuff (pl. Khuffayn)** | Leather footwear that covers the feet including the ankles |
+| **Jawrab (pl. Jawrabayn)** | Socks made of cotton, wool, nylon, or similar materials |
+
+### Legitimacy of Wiping
+
+Wiping over the khuffayn is established through numerous authentic hadiths (Mutawatir). Imam Ahmad said: "I have no doubt about wiping over the khuffayn; there are forty hadiths from the Messenger of Allah ﷺ regarding it."
+
+Al-Mughirah ibn Shu'bah (may Allah be pleased with him) narrated: **"I was with the Prophet ﷺ on a journey, and I bent down to remove his khuffs, but he said: 'Leave them, for I put them on while in a state of purity.' Then he wiped over them."** (Agreed upon).
+
+### Conditions for Wiping Over Khuffayn and Socks
+
+1. **Wearing them while in a state of complete purity:** After performing Wudu or Ghusl.
+   - Evidence: The Prophet's saying: "For I put them on while in a state of purity."
+
+2. **They must cover the feet including the ankles.**
+
+3. **They must be pure (Tahir):** One cannot wipe over impure footwear.
+
+4. **Wiping must be within the prescribed time period:**
+
+| Status | Duration |
+| :--- | :--- |
+| **Resident** | One day and night (24 hours) |
+| **Traveler** | Three days and nights (72 hours) |
+
+> **Start of the period:** From the first wiping after breaking Wudu, according to the strongest opinion.
+
+### How to Wipe
+
+1. **Wet your hands with water.**
+2. **Wipe over the top of the sock/khuff** from the toes towards the shin.
+3. **Wipe once only** (repetition is not recommended).
+4. **Wipe the right with the right hand and the left with the left hand** (or both together).
+
+> ⚠️ **Note:** Wiping is done on the **top of the footwear**, not the bottom.
+
+Ali ibn Abi Talib (may Allah be pleased with him) said: **"If the religion were based on opinion, wiping the bottom of the khuff would make more sense than wiping the top. But I saw the Messenger of Allah ﷺ wiping over the top of his khuffs."** (Narrated by Abu Dawud with an authentic chain).
+
+### What Invalidates the Wiping
+
+Wiping becomes invalid and washing the feet becomes obligatory in these cases:
+
+1. **Expiry of the time period:** If the period ends while one is in a state of purity, they only need to remove the socks and wash their feet (not repeat the entire Wudu).
+
+2. **Removing the socks/khuffs:** If removed after wiping over them.
+   - **Strongest opinion:** Purity is invalidated and washing the feet is required.
+
+3. **Occurrence of major impurity:** Such as Janabah or menstruation.
+
+### Important Questions
+
+| Question | Answer |
+| :--- | :--- |
+| Can one wipe over socks with holes? | ✅ Yes, according to the strongest opinion, as long as they are still called socks |
+| Can one wipe over transparent socks? | ✅ Yes, according to the strongest opinion |
+| Can one wear a sock over another sock and wipe the outer one? | ✅ Yes, if the second was put on while in purity |
+| What if one wears a khuff over another khuff? | Wipe over the outer one if worn while in purity |
+| Can one wipe over shoes? | ✅ Yes, if they cover the ankles |
+
+### Wiping Over Splints and Bandages (Jabirah)
+
+**Jabirah:** What is placed over a fracture or wound, such as a cast or bandage.
+
+**Ruling:** It is permissible to wipe over it, and the entire bandage should be wiped (not just the top).
+
+**Difference between Khuff and Jabirah:**
+
+| Khuff | Jabirah |
+| :--- | :--- |
+| Must be put on while in purity | Not required |
+| Has a time limit | No time limit (until removed) |
+| Only the top is wiped | The entire bandage is wiped |
+| Specific to the feet | Can be on any limb |
+
+---
+
 *The Prophet ﷺ said: "He who performs Wudu like this Wudu of mine and then offers two Rak'ahs of prayer without allowing his thoughts to be distracted, his past sins will be forgiven." (Narrated by Al-Bukhari and Muslim).*
 `;
