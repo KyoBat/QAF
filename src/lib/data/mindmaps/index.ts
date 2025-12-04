@@ -38,7 +38,7 @@ export function getMindMapByLocale(data: MindMapDataMultiLang, locale: string): 
 }
 
 // ============================================
-// AQEEDAH - Introduction (001-introduction)
+// AQEEDAH - Introduction (lesson-001 in aqeedah)
 // ============================================
 export const introductionAqeedahData: MindMapDataMultiLang = {
   id: 'root',
@@ -92,6 +92,76 @@ export const introductionAqeedahData: MindMapDataMultiLang = {
         { id: 'heart', label: { ar: 'القلب', en: 'Heart', fr: 'Cœur' }, icon: '❤️' },
         { id: 'tongue', label: { ar: 'اللسان', en: 'Tongue', fr: 'Langue' }, icon: '👅' },
         { id: 'limbs', label: { ar: 'الجوارح', en: 'Limbs', fr: 'Membres' }, icon: '🙌' },
+      ],
+    },
+  ],
+};
+
+// ============================================
+// FIQH - Introduction (lesson-001 in fiqh)
+// ============================================
+export const introductionFiqhData: MindMapDataMultiLang = {
+  id: 'root',
+  label: { ar: 'علم الفقه', en: 'Science of Fiqh', fr: 'Science du Fiqh' },
+  icon: '⚖️',
+  color: '#1e3a5f',
+  children: [
+    {
+      id: 'definition',
+      label: { ar: 'تعريف الفقه', en: 'Definition', fr: 'Définition' },
+      icon: '📖',
+      color: '#2d6a4f',
+      children: [
+        { id: 'linguistic', label: { ar: 'لغة: الفهم العميق', en: 'Linguistic: Deep understanding', fr: 'Linguistique: Compréhension profonde' }, icon: '💡' },
+        { id: 'technical', label: { ar: 'اصطلاحاً: الأحكام الشرعية العملية', en: 'Technical: Practical rulings', fr: 'Technique: Règles pratiques' }, icon: '📜' },
+      ],
+    },
+    {
+      id: 'sources',
+      label: { ar: 'مصادر الفقه', en: 'Sources of Fiqh', fr: 'Sources du Fiqh' },
+      icon: '📚',
+      color: '#7b2cbf',
+      children: [
+        { id: 'quran', label: { ar: 'القرآن الكريم', en: 'The Quran', fr: 'Le Coran' }, icon: '📖' },
+        { id: 'sunnah', label: { ar: 'السنة النبوية', en: 'The Sunnah', fr: 'La Sunna' }, icon: '🕌' },
+        { id: 'ijma', label: { ar: 'الإجماع', en: 'Ijma (Consensus)', fr: 'Ijma (Consensus)' }, icon: '🤝' },
+        { id: 'qiyas', label: { ar: 'القياس', en: 'Qiyas (Analogy)', fr: 'Qiyas (Analogie)' }, icon: '⚖️' },
+      ],
+    },
+    {
+      id: 'madhabs',
+      label: { ar: 'المذاهب الأربعة', en: 'Four Schools', fr: 'Quatre Écoles' },
+      icon: '🏛️',
+      color: '#0891b2',
+      children: [
+        { id: 'hanafi', label: { ar: 'الحنفي', en: 'Hanafi', fr: 'Hanafite' }, icon: '1️⃣' },
+        { id: 'maliki', label: { ar: 'المالكي', en: 'Maliki', fr: 'Malikite' }, icon: '2️⃣' },
+        { id: 'shafii', label: { ar: 'الشافعي', en: 'Shafi\'i', fr: 'Shafiite' }, icon: '3️⃣' },
+        { id: 'hanbali', label: { ar: 'الحنبلي', en: 'Hanbali', fr: 'Hanbalite' }, icon: '4️⃣' },
+      ],
+    },
+    {
+      id: 'rulings',
+      label: { ar: 'الأحكام التكليفية', en: 'Legal Rulings', fr: 'Statuts Légaux' },
+      icon: '📋',
+      color: '#c9184a',
+      children: [
+        { id: 'wajib', label: { ar: 'الواجب', en: 'Obligatory (Wajib)', fr: 'Obligatoire (Wajib)' }, icon: '⭐' },
+        { id: 'mustahab', label: { ar: 'المستحب', en: 'Recommended (Mustahab)', fr: 'Recommandé (Mustahab)' }, icon: '👍' },
+        { id: 'mubah', label: { ar: 'المباح', en: 'Permissible (Mubah)', fr: 'Permis (Mubah)' }, icon: '✅' },
+        { id: 'makruh', label: { ar: 'المكروه', en: 'Disliked (Makruh)', fr: 'Détestable (Makruh)' }, icon: '👎' },
+        { id: 'haram', label: { ar: 'الحرام', en: 'Forbidden (Haram)', fr: 'Interdit (Haram)' }, icon: '🚫' },
+      ],
+    },
+    {
+      id: 'virtue',
+      label: { ar: 'فضل تعلم الفقه', en: 'Virtue of Learning Fiqh', fr: 'Mérite d\'Apprendre le Fiqh' },
+      icon: '🌟',
+      color: '#9c6644',
+      children: [
+        { id: 'hadith', label: { ar: 'من يرد الله به خيراً يفقهه في الدين', en: 'Whom Allah wants good for...', fr: 'Celui pour qui Allah veut du bien...' }, icon: '📜' },
+        { id: 'worship', label: { ar: 'العبادة على بصيرة', en: 'Worship with knowledge', fr: 'Adorer en connaissance' }, icon: '🕋' },
+        { id: 'halal-haram', label: { ar: 'تمييز الحلال والحرام', en: 'Distinguish lawful/unlawful', fr: 'Distinguer licite/illicite' }, icon: '⚖️' },
       ],
     },
   ],
@@ -297,17 +367,34 @@ export const wuduData: MindMapDataMultiLang = {
 
 // ============================================
 // Map lesson IDs to their MindMap data
+// Format: 'course-slug:lesson-id' for unique identification
 // ============================================
 export const lessonMindMapsMultiLang: Record<string, MindMapDataMultiLang> = {
-  'lesson-001': introductionAqeedahData,
-  'lesson-014': arkanTawhidData,
-  'lesson-002': taharaData,
-  'lesson-004': wuduData,
+  // Aqeedah lessons
+  'aqeedah:lesson-001': introductionAqeedahData,
+  'aqeedah:lesson-014': arkanTawhidData,
+  // Fiqh lessons
+  'fiqh:lesson-001': introductionFiqhData,
+  'fiqh:lesson-002': taharaData,
+  'fiqh:lesson-004': wuduData,
 };
 
 // Get mindmap by lesson ID with locale
-export function getMindMapForLesson(lessonId: string, locale: string = 'fr'): MindMapData | undefined {
-  const data = lessonMindMapsMultiLang[lessonId];
-  if (!data) return undefined;
-  return getMindMapByLocale(data, locale);
+// Supports both 'course:lesson-id' format and legacy 'lesson-id' format
+export function getMindMapForLesson(lessonId: string, locale: string = 'fr', courseSlug?: string): MindMapData | undefined {
+  // Try with course slug first if provided
+  if (courseSlug) {
+    // Normalize course slug (remove 'bases-' prefix, etc.)
+    const normalizedSlug = courseSlug.includes('aqeedah') ? 'aqeedah' : 
+                          courseSlug.includes('fiqh') ? 'fiqh' : courseSlug;
+    const key = `${normalizedSlug}:${lessonId}`;
+    const data = lessonMindMapsMultiLang[key];
+    if (data) return getMindMapByLocale(data, locale);
+  }
+  
+  // Fallback: try legacy format without course prefix
+  const legacyData = lessonMindMapsMultiLang[lessonId];
+  if (legacyData) return getMindMapByLocale(legacyData, locale);
+  
+  return undefined;
 }

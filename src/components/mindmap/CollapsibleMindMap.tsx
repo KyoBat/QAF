@@ -13,6 +13,8 @@ import ReactFlow, {
   Background,
   BackgroundVariant,
   NodeProps,
+  useReactFlow,
+  ReactFlowProvider,
 } from 'reactflow';
 import 'reactflow/dist/style.css';
 
@@ -273,13 +275,15 @@ interface CollapsibleMindMapProps {
   locale?: string;
 }
 
-export default function CollapsibleMindMap({ 
+// Composant interne qui utilise useReactFlow
+function CollapsibleMindMapInner({ 
   data, 
   title, 
   className = '',
   defaultExpanded = false,
   locale = 'fr'
 }: CollapsibleMindMapProps) {
+  const { fitView } = useReactFlow();
   // Translations
   const translations = {
     ar: { expandAll: 'فتح الكل', collapseAll: 'إغلاق الكل', openBranch: 'اضغط لفتح الفرع', closeBranch: 'اضغط لإغلاق الفرع' },
@@ -340,11 +344,19 @@ export default function CollapsibleMindMap({
     };
     addAllIds(data);
     setExpandedNodes(allIds);
-  }, [data]);
+    // Déclencher fitView après un court délai pour laisser le temps aux nodes de se créer
+    setTimeout(() => {
+      fitView({ padding: 0.3, duration: 400 });
+    }, 50);
+  }, [data, fitView]);
 
   const collapseAll = useCallback(() => {
     setExpandedNodes(new Set([data.id]));
-  }, [data.id]);
+    // Recentrer après collapse
+    setTimeout(() => {
+      fitView({ padding: 0.3, duration: 400 });
+    }, 50);
+  }, [data.id, fitView]);
 
   return (
     <div className={`w-full ${className}`} dir="ltr">
@@ -403,5 +415,14 @@ export default function CollapsibleMindMap({
         </span>
       </div>
     </div>
+  );
+}
+
+// Composant wrapper avec ReactFlowProvider
+export default function CollapsibleMindMap(props: CollapsibleMindMapProps) {
+  return (
+    <ReactFlowProvider>
+      <CollapsibleMindMapInner {...props} />
+    </ReactFlowProvider>
   );
 }

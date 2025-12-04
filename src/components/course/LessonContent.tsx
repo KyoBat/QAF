@@ -29,15 +29,16 @@ const CollapsibleMindMap = dynamic(
 
 interface LessonContentProps {
   lesson: Lesson
+  courseSlug?: string
   className?: string
 }
 
-export function LessonContent({ lesson, className }: LessonContentProps) {
+export function LessonContent({ lesson, courseSlug, className }: LessonContentProps) {
   const { locale, isRTL } = useLocale()
   const content = lesson.content[locale as keyof typeof lesson.content] || lesson.content.fr
   
-  // Get MindMap data for this lesson with current locale
-  const mindMapData = getMindMapForLesson(lesson.id, locale)
+  // Get MindMap data for this lesson with current locale and course context
+  const mindMapData = getMindMapForLesson(lesson.id, locale, courseSlug)
   
   // Title for mind map based on locale
   const mindMapTitle = locale === 'ar' 

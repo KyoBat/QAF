@@ -182,7 +182,7 @@ export function LessonPageClient({ data }: LessonPageClientProps) {
             {/* Lesson Content */}
             <Card className="mb-8">
               <CardContent className="pt-6">
-                <LessonContent lesson={lesson} />
+                <LessonContent lesson={lesson} courseSlug={course.slug} />
               </CardContent>
             </Card>
 
