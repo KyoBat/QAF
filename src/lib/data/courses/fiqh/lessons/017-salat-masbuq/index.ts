@@ -15,6 +15,7 @@ export const lesson017: Lesson = {
     en: 'Prayer of the Late-Comer',
     fr: 'Prière du Retardataire',
   },
+  duration: '25 min',
   content: {
     ar: contentAr,
     en: contentEn,
