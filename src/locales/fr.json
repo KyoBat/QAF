@@ -11,9 +11,26 @@
   },
   "home": {
     "hero": {
-      "title": "Apprenez les sciences islamiques",
-      "subtitle": "Une plateforme éducative complète pour approfondir vos connaissances religieuses",
-      "cta": "Commencer l'apprentissage"
+      "title": "Maîtrisez les Sciences Islamiques",
+      "subtitle": "Un parcours éducatif structuré pour approfondir votre compréhension du Dîn",
+      "cta": "Commencer votre voyage"
+    },
+    "stats": {
+      "courses": "Cours",
+      "lessons": "Leçons",
+      "languages": "Langues"
+    },
+    "categoriesPreview": {
+      "subtitle": "Découvrez une variété de cours en sciences islamiques"
+    },
+    "featured": {
+      "title": "Cours à la Une",
+      "new": "Nouveau",
+      "startNow": "Commencer"
+    },
+    "cta": {
+      "title": "Commencez votre parcours d'apprentissage aujourd'hui",
+      "subtitle": "Rejoignez des milliers d'étudiants qui apprennent les sciences islamiques"
     },
     "features": {
       "title": "Pourquoi nous choisir ?",
@@ -33,6 +50,7 @@
   },
   "courses": {
     "title": "Nos cours",
+    "viewAll": "Voir tout",
     "filter": "Filtrer par",
     "levels": {
       "all": "Tous les niveaux",
@@ -51,6 +69,8 @@
     },
     "lessons": "leçons",
     "lesson": "leçon",
+    "courses": "cours",
+    "course": "cours",
     "duration": "Durée",
     "startCourse": "Commencer le cours",
     "continueCourse": "Continuer le cours",
@@ -87,7 +107,7 @@
   },
   "footer": {
     "copyright": "© {year} Rabbi Zidni Ilma. Tous droits réservés.",
-    "madeWith": "Fait avec",
+    "madeWith": "Fait avec la foi",
     "forUmmah": "pour la Oumma"
   }
 }

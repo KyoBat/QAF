@@ -11,9 +11,26 @@
   },
   "home": {
     "hero": {
-      "title": "Learn Islamic Sciences",
-      "subtitle": "A comprehensive educational platform to deepen your religious knowledge",
-      "cta": "Start Learning"
+      "title": "Master Islamic Sciences",
+      "subtitle": "A structured educational journey to deepen your understanding of the Deen",
+      "cta": "Start Your Journey"
+    },
+    "stats": {
+      "courses": "Courses",
+      "lessons": "Lessons",
+      "languages": "Languages"
+    },
+    "categoriesPreview": {
+      "subtitle": "Discover a variety of courses in Islamic sciences"
+    },
+    "featured": {
+      "title": "Featured Course",
+      "new": "New",
+      "startNow": "Start Now"
+    },
+    "cta": {
+      "title": "Start Your Learning Journey Today",
+      "subtitle": "Join thousands of students learning Islamic sciences"
     },
     "features": {
       "title": "Why Choose Us?",
@@ -33,6 +50,7 @@
   },
   "courses": {
     "title": "Our Courses",
+    "viewAll": "View All",
     "filter": "Filter by",
     "levels": {
       "all": "All Levels",
@@ -51,6 +69,8 @@
     },
     "lessons": "lessons",
     "lesson": "lesson",
+    "courses": "courses",
+    "course": "course",
     "duration": "Duration",
     "startCourse": "Start Course",
     "continueCourse": "Continue Course",
@@ -87,7 +107,7 @@
   },
   "footer": {
     "copyright": "© {year} Rabbi Zidni Ilma. All rights reserved.",
-    "madeWith": "Made with",
+    "madeWith": "Made with faith",
     "forUmmah": "for the Ummah"
   }
 }

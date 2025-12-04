@@ -24,7 +24,7 @@ export const tajweedMeta: CourseMeta = {
   instructor: 'Sheikh Ahmad Al-Qari',
   image: '/images/courses/tajweed.svg',
   tags: ['tajweed', 'quran', 'recitation', 'beginner'],
-  featured: true,
+  featured: false,
   published: true,
   resources: [
     {

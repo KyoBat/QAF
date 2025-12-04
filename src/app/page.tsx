@@ -1,14 +1,27 @@
 'use client'
 
 import Link from 'next/link'
-import { BookOpen, Users, GraduationCap, ChevronRight, Star } from 'lucide-react'
+import { BookOpen, Users, GraduationCap, ChevronRight, Star, Clock, Sparkles } from 'lucide-react'
 import { Button } from '@/components/ui/button'
 import { Card, CardContent } from '@/components/ui/card'
+import { Badge } from '@/components/ui/badge'
 import { useLocale } from '@/components/providers'
 import { cn } from '@/lib/utils'
+import { coursesData, getFeaturedCourses } from '@/lib/data/courses/index'
 
 export default function HomePage() {
   const { locale, t, isRTL } = useLocale()
+
+  // Récupération des cours publiés
+  const allCourses = coursesData.filter(c => c.published)
+  
+  // Calcul dynamique des stats
+  const totalCourses = allCourses.length
+  const totalLessons = allCourses.reduce((acc, course) => acc + course.lessons.length, 0)
+  
+  // Cours à la une (premier cours featured ou le cours Fiqh Salat)
+  const featuredCourses = getFeaturedCourses()
+  const featuredCourse = featuredCourses[0] || allCourses.find(c => c.slug === 'fiqh-salat') || allCourses[0]
 
   const features = [
     {
@@ -29,9 +42,9 @@ export default function HomePage() {
   ]
 
   const stats = [
-    { value: '5+', label: locale === 'ar' ? 'دورات' : locale === 'en' ? 'Courses' : 'Cours' },
-    { value: '15+', label: locale === 'ar' ? 'دروس' : locale === 'en' ? 'Lessons' : 'Leçons' },
-    { value: '3', label: locale === 'ar' ? 'لغات' : locale === 'en' ? 'Languages' : 'Langues' },
+    { value: totalCourses.toString(), label: t('home.stats.courses') },
+    { value: `${totalLessons}+`, label: t('home.stats.lessons') },
+    { value: '3', label: t('home.stats.languages') },
   ]
 
   return (
@@ -40,7 +53,8 @@ export default function HomePage() {
       <section className="relative py-20 lg:py-32 overflow-hidden">
         {/* Background Pattern */}
         <div className="absolute inset-0 bg-gradient-to-br from-primary/5 via-background to-primary/10" />
-        <div className="absolute inset-0 bg-[url('/pattern.svg')] opacity-5" />
+        <div className="absolute inset-0 bg-[url('/pattern.svg')] bg-repeat opacity-30 dark:hidden" />
+        <div className="absolute inset-0 bg-[url('/pattern-dark.svg')] bg-repeat opacity-25 hidden dark:block" />
         
         <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className={cn(
@@ -146,6 +160,102 @@ export default function HomePage() {
         </div>
       </section>
 
+      {/* Featured Course Section */}
+      {featuredCourse && (
+        <section className="py-20">
+          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div className={cn('text-center mb-12', isRTL && 'font-arabic')}>
+              <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-amber-500/10 text-amber-600 dark:text-amber-400 text-sm font-medium mb-4">
+                <Sparkles className="h-4 w-4" />
+                <span>{t('home.featured.title')}</span>
+              </div>
+            </div>
+
+            <Card className="overflow-hidden border-2 border-primary/20 hover:border-primary/40 transition-all duration-300">
+              <div className={cn(
+                'grid md:grid-cols-2 gap-0',
+                isRTL && 'md:grid-flow-col-dense'
+              )}>
+                {/* Course Image/Illustration */}
+                <div className="relative bg-gradient-to-br from-primary/20 via-primary/10 to-primary/5 p-8 flex items-center justify-center min-h-[300px]">
+                  <div className="text-center">
+                    <div className="text-8xl mb-4">⚖️</div>
+                    <Badge variant="secondary" className="gap-1">
+                      <Star className="h-3 w-3 fill-current" />
+                      {t('home.featured.new')}
+                    </Badge>
+                  </div>
+                  {/* Decorative elements */}
+                  <div className="absolute top-4 left-4 w-20 h-20 border border-primary/20 rounded-full" />
+                  <div className="absolute bottom-4 right-4 w-32 h-32 border border-primary/10 rounded-full" />
+                </div>
+
+                {/* Course Info */}
+                <CardContent className={cn('p-8 flex flex-col justify-center', isRTL && 'text-right')}>
+                  <div className="mb-4">
+                    <Badge variant="outline" className="mb-3">
+                      {t(`courses.categories.${featuredCourse.category}`)}
+                    </Badge>
+                    <h3 className={cn(
+                      'text-2xl sm:text-3xl font-bold text-foreground mb-3',
+                      isRTL && 'font-arabic'
+                    )}>
+                      {featuredCourse.title[locale]}
+                    </h3>
+                    <p className="text-muted-foreground mb-4">
+                      {featuredCourse.description[locale]}
+                    </p>
+                  </div>
+
+                  {/* Course Meta */}
+                  <div className={cn(
+                    'flex flex-wrap gap-4 mb-6 text-sm text-muted-foreground',
+                    isRTL && 'flex-row-reverse'
+                  )}>
+                    <div className="flex items-center gap-2">
+                      <BookOpen className="h-4 w-4" />
+                      <span>{featuredCourse.lessons.length} {t('courses.lessons')}</span>
+                    </div>
+                    <div className="flex items-center gap-2">
+                      <Clock className="h-4 w-4" />
+                      <span>{featuredCourse.duration}</span>
+                    </div>
+                    <div className="flex items-center gap-2">
+                      <GraduationCap className="h-4 w-4" />
+                      <span>{t(`courses.levels.${featuredCourse.level}`)}</span>
+                    </div>
+                  </div>
+
+                  {/* Lessons Preview */}
+                  <div className="mb-6">
+                    <div className="flex flex-wrap gap-2">
+                      {featuredCourse.lessons.slice(0, 4).map((lesson, idx) => (
+                        <Badge key={lesson.id} variant="secondary" className="text-xs">
+                          {idx + 1}. {lesson.title[locale].slice(0, 25)}{lesson.title[locale].length > 25 ? '...' : ''}
+                        </Badge>
+                      ))}
+                      {featuredCourse.lessons.length > 4 && (
+                        <Badge variant="outline" className="text-xs">
+                          +{featuredCourse.lessons.length - 4}
+                        </Badge>
+                      )}
+                    </div>
+                  </div>
+
+                  {/* CTA */}
+                  <Button size="lg" asChild className="gap-2 w-fit">
+                    <Link href={`/courses/${featuredCourse.slug}`}>
+                      <span>{t('home.featured.startNow')}</span>
+                      <ChevronRight className={cn('h-5 w-5', isRTL && 'rotate-180')} />
+                    </Link>
+                  </Button>
+                </CardContent>
+              </div>
+            </Card>
+          </div>
+        </section>
+      )}
+
       {/* Categories Preview */}
       <section className="py-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -161,17 +271,12 @@ export default function HomePage() {
                 {t('courses.title')}
               </h2>
               <p className="text-muted-foreground">
-                {locale === 'ar' 
-                  ? 'اكتشف مجموعة متنوعة من الدورات في العلوم الإسلامية' 
-                  : locale === 'en'
-                  ? 'Discover a variety of courses in Islamic sciences'
-                  : 'Découvrez une variété de cours en sciences islamiques'
-                }
+                {t('home.categoriesPreview.subtitle')}
               </p>
             </div>
             <Button variant="outline" asChild className="gap-2">
               <Link href="/courses">
-                <span>{locale === 'ar' ? 'عرض الكل' : locale === 'en' ? 'View All' : 'Voir tout'}</span>
+                <span>{t('courses.viewAll')}</span>
                 <ChevronRight className={cn('h-4 w-4', isRTL && 'rotate-180')} />
               </Link>
             </Button>
@@ -180,30 +285,33 @@ export default function HomePage() {
           {/* Category Cards */}
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
             {[
-              { key: 'tajweed', emoji: '📖', count: 1 },
-              { key: 'fiqh', emoji: '⚖️', count: 1 },
-              { key: 'aqeedah', emoji: '💫', count: 1 },
-              { key: 'seerah', emoji: '🌙', count: 1 },
-            ].map((category) => (
-              <Link 
-                key={category.key}
-                href={`/courses?category=${category.key}`}
-                className="group"
-              >
-                <Card className="p-6 text-center hover:border-primary/30 hover:shadow-md transition-all duration-300">
-                  <div className="text-4xl mb-3">{category.emoji}</div>
-                  <h3 className={cn(
-                    'font-semibold text-foreground mb-1 group-hover:text-primary transition-colors',
-                    isRTL && 'font-arabic'
-                  )}>
-                    {t(`courses.categories.${category.key}`)}
-                  </h3>
-                  <p className="text-sm text-muted-foreground">
-                    {category.count} {category.count > 1 ? t('courses.lessons') : t('courses.lesson')}
-                  </p>
-                </Card>
-              </Link>
-            ))}
+              { key: 'tajweed', emoji: '📖' },
+              { key: 'fiqh', emoji: '⚖️' },
+              { key: 'aqeedah', emoji: '💫' },
+              { key: 'seerah', emoji: '🌙' },
+            ].map((category) => {
+              const count = allCourses.filter(c => c.category === category.key).length
+              return (
+                <Link 
+                  key={category.key}
+                  href={`/courses?category=${category.key}`}
+                  className="group"
+                >
+                  <Card className="p-6 text-center hover:border-primary/30 hover:shadow-md transition-all duration-300">
+                    <div className="text-4xl mb-3">{category.emoji}</div>
+                    <h3 className={cn(
+                      'font-semibold text-foreground mb-1 group-hover:text-primary transition-colors',
+                      isRTL && 'font-arabic'
+                    )}>
+                      {t(`courses.categories.${category.key}`)}
+                    </h3>
+                    <p className="text-sm text-muted-foreground">
+                      {count} {count > 1 ? t('courses.courses') : t('courses.course')}
+                    </p>
+                  </Card>
+                </Link>
+              )
+            })}
           </div>
         </div>
       </section>
@@ -215,20 +323,10 @@ export default function HomePage() {
             'text-3xl sm:text-4xl font-bold text-primary-foreground mb-4',
             isRTL && 'font-arabic'
           )}>
-            {locale === 'ar' 
-              ? 'ابدأ رحلتك التعليمية اليوم' 
-              : locale === 'en'
-              ? 'Start Your Learning Journey Today'
-              : 'Commencez votre parcours d\'apprentissage aujourd\'hui'
-            }
+            {t('home.cta.title')}
           </h2>
           <p className="text-lg text-primary-foreground/80 mb-8">
-            {locale === 'ar'
-              ? 'انضم إلى الآلاف من الطلاب الذين يتعلمون العلوم الإسلامية'
-              : locale === 'en'
-              ? 'Join thousands of students learning Islamic sciences'
-              : 'Rejoignez des milliers d\'étudiants qui apprennent les sciences islamiques'
-            }
+            {t('home.cta.subtitle')}
           </p>
           <Button 
             size="lg" 

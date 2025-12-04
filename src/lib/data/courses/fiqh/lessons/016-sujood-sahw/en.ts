@@ -1,9 +1,197 @@
 /**
  * Fiqh - Lesson 016: Prostration of Forgetfulness (Sujood as-Sahw)
- * English content placeholder
+ * English Content
  */
 
-export const content = `# Prostration of Forgetfulness (Coming Soon)
+export const content = `# The Fiqh of Prayer
 
-**English content will be added after the Arabic version is finalized.**
+## The Prostration of Forgetfulness in Detail
+
+All praise be to Allah who established a remedy for every deficiency in prayer. May peace and blessings be upon the one who forgot in his prayer to teach us. The prostration of forgetfulness is from Allah's mercy upon His servants, as He made it a means to rectify the deficiency and error that occurs in prayer due to forgetfulness.
+
+> The Prophet ﷺ said: **"I am only a human being like you, I forget as you forget. When I forget, remind me"** — Agreed upon (Al-Bukhari 401, Muslim 572)
+
+---
+
+## Definition of the Prostration of Forgetfulness
+
+**As-Sahw linguistically:** Inattention and forgetfulness.
+
+**Terminologically:** Two prostrations that the worshipper performs to repair the deficiency that occurred in his prayer due to addition, omission, or doubt.
+
+---
+
+## The Three Causes of the Prostration of Forgetfulness
+
+### First Cause: Addition in Prayer
+
+| Type of Addition | Ruling | Proof |
+|------------------|--------|-------|
+| **Adding a physical pillar** (like an extra bowing or prostration) | Prostration of forgetfulness after salam | Hadith of Ibn Mas'ud on addition — Al-Bukhari (1226) |
+| **Adding a complete rak'a** | If he realizes before completing it, he returns, sits, makes tashahhud and prostrates | Hadith of Dhu al-Yadayn — Al-Bukhari (1229) |
+| **Adding a statement in the wrong place** (like reciting Al-Fatiha in prostration) | No prostration according to the correct view | Because it is a legislated dhikr in general |
+| **Speaking out of forgetfulness** | Prostration of forgetfulness after salam | Hadith of Dhu al-Yadayn — Muslim (573) |
+
+#### 📌 Hadith of Dhu al-Yadayn (The Foundation for Addition)
+
+On the authority of Abu Hurayra رضي الله عنه: **The Messenger of Allah ﷺ led us in one of the two afternoon prayers — Dhuhr or 'Asr — and he made salam after two rak'at, then he went to a wooden post in the qibla direction of the mosque and leaned against it, appearing angry. The hasty people left saying: The prayer has been shortened! Among the people were Abu Bakr and 'Umar, but they hesitated to speak to him. Among them was a man called Dhu al-Yadayn who said: O Messenger of Allah, have you forgotten or has the prayer been shortened? He said: "I have not forgotten and it has not been shortened." He said: Have you forgotten, O Messenger of Allah? He said: "Is it as Dhu al-Yadayn says?" They said: Yes. So he stepped forward and prayed what he had missed, then he made salam, then he made takbir and prostrated like his usual prostration or longer, then he raised his head and made takbir, then he made takbir and prostrated like his usual prostration or longer, then he raised his head and made takbir.** — Agreed upon
+
+> 📌 **Key Point:** The Prophet ﷺ prostrated after salam because he had added in the prayer (salam before completion and speaking).
+
+---
+
+### Second Cause: Omission in Prayer
+
+| Type of Omission | Ruling | Proof |
+|------------------|--------|-------|
+| **Omitting a pillar** | Not compensated by prostration of forgetfulness, must be performed | Because prayer is not valid without the pillar |
+| **Deliberately omitting an obligation** | Prayer is invalid | For deliberately leaving the obligation |
+| **Forgetting an obligation** | Prostration of forgetfulness before salam | Hadith of Ibn Buhayna — Al-Bukhari (829) |
+
+#### 📌 Hadith of Abdullah ibn Buhayna (The Foundation for Omission)
+
+On the authority of Abdullah ibn Buhayna رضي الله عنه: **The Prophet ﷺ led them in Dhuhr, and he stood after the first two rak'at and did not sit (meaning he omitted the first tashahhud). The people stood with him. When he finished the prayer and the people were waiting for his salam, he made takbir while sitting, and prostrated twice before making salam, then he made salam.** — Agreed upon (Al-Bukhari 829, Muslim 570)
+
+> 📌 **Key Point:** The Prophet ﷺ prostrated before salam because he had omitted from the prayer (left out the first tashahhud).
+
+---
+
+### Third Cause: Doubt in Prayer
+
+#### a) Doubt with one option predominating
+
+| Situation | What to do | When to prostrate |
+|-----------|------------|-------------------|
+| Doubts whether he prayed 3 or 4 and thinks it's 4 | He builds on what predominates (4) | He prostrates after salam |
+
+**Proof:** Hadith of Ibn Mas'ud رضي الله عنه that the Prophet ﷺ said: **"When one of you doubts in his prayer, let him seek what is correct and complete upon it, then prostrate two prostrations"** — Agreed upon (Al-Bukhari 401, Muslim 572)
+
+#### b) Equal doubt (nothing predominates)
+
+| Situation | What to do | When to prostrate |
+|-----------|------------|-------------------|
+| Doubts whether he prayed 3 or 4 and nothing predominates | He builds on the lesser (3) and adds a rak'a | He prostrates before salam |
+
+**Proof:** Hadith of Abu Sa'id al-Khudri رضي الله عنه that the Prophet ﷺ said: **"When one of you doubts in his prayer and does not know how many he prayed, three or four, let him discard the doubt and build on what he is certain of, then prostrate two prostrations before making salam. If he has prayed five, they will make his prayer even, and if he has prayed a complete four, they will be a humiliation for Shaytan"** — Reported by Muslim (571)
+
+---
+
+## Golden Rule on When to Prostrate for Forgetfulness
+
+| Cause | When to Prostrate | Reasoning |
+|-------|-------------------|-----------|
+| **Addition** | After salam | Because the prostration is an addition, so it's fitting for it to be after |
+| **Omission** | Before salam | To repair the deficiency before exiting the prayer |
+| **Doubt with predominance** | After salam | Because he built on probability, as if he added |
+| **Equal doubt** | Before salam | Because he built on the lesser, as if he omitted |
+
+> 💡 **Summary Rule:** Addition and predominance = after salam, Omission and equality = before salam.
+
+---
+
+## How to Perform the Prostration of Forgetfulness
+
+### Steps for prostration before salam:
+1. After finishing the final tashahhud and prayers upon the Prophet ﷺ
+2. Make takbir and prostrate for the first prostration
+3. Say in it: **"Subhana rabbi al-a'la"** (once or more)
+4. Rise while making takbir and sit briefly
+5. Make takbir and prostrate for the second prostration like the first
+6. Rise while making takbir and make salam
+
+### Steps for prostration after salam:
+1. Make salam from your prayer
+2. Make takbir and prostrate for the first prostration
+3. Rise while making takbir and sit briefly
+4. Make takbir and prostrate for the second prostration
+5. Rise and make the final tashahhud
+6. Make salam
+
+> **Note:** Scholars have differed regarding the tashahhud after the prostration of forgetfulness performed after salam, and the safer approach is to do it.
+
+---
+
+## Special Rulings for the Prostration of Forgetfulness
+
+### 1. The follower's (ma'mum) forgetfulness behind the imam
+
+| Situation | Ruling |
+|-----------|--------|
+| The follower forgets alone | He does not prostrate, the imam carries it for him |
+| The imam forgets | The follower follows him in prostration obligatorily |
+| The latecomer forgets in what he makes up | He prostrates for himself after completing his prayer |
+
+**Proof:** His statement ﷺ: **"The imam is only appointed to be followed... and when he prostrates, prostrate"** — Agreed upon
+
+### 2. Repeated forgetfulness in the same prayer
+
+| Situation | Ruling |
+|-----------|--------|
+| He forgets twice or more | One prostration at the end of prayer suffices |
+| A pre-salam and post-salam forgetfulness combine | The pre-salam one is given precedence according to the correct view |
+
+### 3. Forgetting the prostration of forgetfulness
+
+| Situation | Ruling |
+|-----------|--------|
+| He remembers shortly after salam | He prostrates even if the gap was long according to the correct view |
+| The gap is very long or he left the mosque | It is waived and he owes nothing |
+
+### 4. Forgetfulness in voluntary prayer
+
+Its ruling is like forgetfulness in obligatory prayer, due to the generality of the proofs.
+
+---
+
+## Situations Where Prostration of Forgetfulness is Not Legislated
+
+| Situation | Reason |
+|-----------|--------|
+| Leaving a sunnah | The sunnah is not compensated |
+| Doubt after salam | Doubt after completing the act of worship is not considered |
+| Frequent doubts (waswas) | They are not given attention |
+| Deliberately omitting a pillar | The prayer is invalid and there is no remedy |
+
+---
+
+## Practical Table: What to Do If...?
+
+| Situation | Ruling | When to Prostrate |
+|-----------|--------|-------------------|
+| You forgot the first tashahhud and stood | If you fully stood up, don't return, and prostrate for forgetfulness | Before salam |
+| You made salam after two rak'at by mistake | Complete your prayer and prostrate for forgetfulness | After salam |
+| You doubt whether you prayed 2 or 3 | Build on the lesser (2) and complete | Before salam |
+| You added a bowing in a rak'a | Nothing on you if it was by mistake, and you prostrate | After salam |
+| You recited Al-Fatiha in prostration by mistake | No prostration on you | — |
+| You forgot the tasbih in bowing | You prostrate for forgetfulness for leaving an obligation | Before salam |
+
+---
+
+## Mind Map — Prostration of Forgetfulness
+
+| Axis | Detail |
+|------|--------|
+| **Causes** | Addition — Omission — Doubt |
+| **Timing** | Before salam (omission/equal doubt) — After salam (addition/predominant doubt) |
+| **Method** | Two prostrations with a sitting between them, with takbir |
+| **The follower** | He follows his imam, and prostrates for what he makes up |
+| **Forgetting** | He prostrates when he remembers as long as the gap isn't very long |
+
+---
+
+## Evaluation Questions
+
+1. What is the difference between prostration of forgetfulness before and after salam?
+2. What does someone do if he doubts whether he prayed 3 or 4 and nothing predominates?
+3. Does the follower prostrate for forgetfulness if he forgets alone behind the imam?
+4. What is the ruling on someone who forgets the prostration of forgetfulness until he leaves the mosque?
+5. Mention a hadith about prostration of forgetfulness for addition and another for omission.
+
+---
+
+## Closing Supplication of the Lesson
+
+> **O Allah, forgive us our forgetfulness, our error, and our deliberate acts. Help us to establish prayer in the way that pleases You, and make us among the humble and tranquil in their prayer.**
+
+All praise be to Allah who taught us what we did not know, and who placed in His legislation ease and mercy. Let us strive to learn these rulings and apply them.
 `;

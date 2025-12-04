@@ -24,7 +24,7 @@ export const fiqhPurificationMeta: CourseMeta = {
   instructor: 'Sheikh Muhammad Al-Faqih',
   image: '/images/courses/fiqh.svg',
   tags: ['fiqh', 'purification', 'worship'],
-  featured: true,
+  featured: false,
   published: true,
   resources: [
     {

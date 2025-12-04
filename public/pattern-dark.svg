@@ -4,8 +4,8 @@
       <!-- Fond transparent -->
       <rect width="40" height="40" fill="transparent"/>
       
-      <!-- Motif géométrique islamique traditionnel -->
-      <g stroke="#0d9488" fill="none" opacity="0.4">
+      <!-- Motif géométrique islamique traditionnel - Couleur claire pour fond sombre -->
+      <g stroke="#5eead4" fill="none" opacity="0.4">
         <!-- Étoile à 8 branches principale -->
         <polygon 
           points="20,4 24,12 32,12 26,18 28,26 20,22 12,26 14,18 8,12 16,12" 
