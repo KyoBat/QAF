@@ -981,12 +981,482 @@ export const salatMasbuqData: MindMapDataMultiLang = {
 };
 
 // ============================================
+// AQEEDAH - Tawheed Rububiyyah (002)
+// ============================================
+export const tawheedRububiyyahData: MindMapDataMultiLang = {
+  id: 'root',
+  label: { ar: 'توحيد الربوبية', en: 'Tawheed Ar-Rububiyyah', fr: 'Tawheed Ar-Rububiyyah' },
+  icon: '🌍',
+  color: '#1e3a5f',
+  children: [
+    {
+      id: 'definition',
+      label: { ar: 'التعريف', en: 'Definition', fr: 'Définition' },
+      icon: '📖',
+      color: '#2d6a4f',
+      children: [
+        { id: 'meaning', label: { ar: 'الرب = المالك المدبر', en: 'Rabb = Master & Manager', fr: 'Rabb = Maitre et Gestionnaire' }, icon: '💡' },
+        { id: 'unique', label: { ar: 'الله وحده الرب', en: 'Allah alone is Lord', fr: 'Allah seul est Seigneur' }, icon: '☝️' },
+      ],
+    },
+    {
+      id: 'pillars',
+      label: { ar: 'الأركان الأربعة', en: 'Four Pillars', fr: 'Les Quatre Piliers' },
+      icon: '🏛️',
+      color: '#7b2cbf',
+      children: [
+        { id: 'khalq', label: { ar: '١. الخَلْق', en: '1. Creation', fr: '1. La Création' }, icon: '🌱' },
+        { id: 'rizq', label: { ar: '٢. الرِّزْق', en: '2. Provision', fr: '2. La Subsistance' }, icon: '🍞' },
+        { id: 'mulk', label: { ar: '٣. المُلْك', en: '3. Sovereignty', fr: '3. La Souveraineté' }, icon: '👑' },
+        { id: 'tadbir', label: { ar: '٤. التَّدْبِير', en: '4. Management', fr: '4. La Gestion' }, icon: '⚙️' },
+      ],
+    },
+    {
+      id: 'proofs',
+      label: { ar: 'الأدلة', en: 'Proofs', fr: 'Preuves' },
+      icon: '📜',
+      color: '#0891b2',
+      children: [
+        { id: 'quran', label: { ar: '﴿اللَّهُ خَالِقُ كُلِّ شَيْءٍ﴾', en: 'Allah is Creator of all', fr: 'Allah est Créateur de tout' }, icon: '📖' },
+        { id: 'fitrah', label: { ar: 'الفطرة السليمة', en: 'Natural instinct', fr: 'Instinct naturel (Fitrah)' }, icon: '❤️' },
+        { id: 'aql', label: { ar: 'العقل السليم', en: 'Sound reasoning', fr: 'Raisonnement sain' }, icon: '🧠' },
+      ],
+    },
+    {
+      id: 'warning',
+      label: { ar: 'تحذير مهم', en: 'Important Warning', fr: 'Avertissement Important' },
+      icon: '⚠️',
+      color: '#c9184a',
+      children: [
+        { id: 'mushrikun', label: { ar: 'المشركون أقروا بها', en: 'Mushrikun acknowledged it', fr: 'Les Mushrikun la reconnaissaient' }, icon: '❗' },
+        { id: 'not-enough', label: { ar: 'لا تكفي وحدها', en: 'Not sufficient alone', fr: 'Ne suffit pas seule' }, icon: '🚫' },
+        { id: 'requires', label: { ar: 'تستلزم توحيد الألوهية', en: 'Requires Uluhiyyah', fr: 'Exige le Tawheed Uluhiyyah' }, icon: '➡️' },
+      ],
+    },
+    {
+      id: 'fruits',
+      label: { ar: 'ثمرات الإيمان بها', en: 'Fruits of Belief', fr: 'Fruits de cette Foi' },
+      icon: '🌟',
+      color: '#9c6644',
+      children: [
+        { id: 'tawakkul', label: { ar: 'التوكل على الله', en: 'Trust in Allah', fr: 'Confiance en Allah' }, icon: '🤲' },
+        { id: 'tranquility', label: { ar: 'طمأنينة القلب', en: 'Peace of heart', fr: 'Sérénité du coeur' }, icon: '😌' },
+        { id: 'gratitude', label: { ar: 'الشكر لله', en: 'Gratitude to Allah', fr: 'Gratitude envers Allah' }, icon: '🙏' },
+      ],
+    },
+  ],
+};
+
+// ============================================
+// AQEEDAH - Tawheed Uluhiyyah (003)
+// ============================================
+export const tawheedUluhiyyahData: MindMapDataMultiLang = {
+  id: 'root',
+  label: { ar: 'توحيد الألوهية', en: 'Tawheed Al-Uluhiyyah', fr: 'Tawheed Al-Uluhiyyah' },
+  icon: '🕋',
+  color: '#1e3a5f',
+  children: [
+    {
+      id: 'definition',
+      label: { ar: 'التعريف', en: 'Definition', fr: 'Définition' },
+      icon: '📖',
+      color: '#2d6a4f',
+      children: [
+        { id: 'meaning', label: { ar: 'إفراد الله بالعبادة', en: 'Worship Allah alone', fr: 'Adorer Allah seul' }, icon: '☝️' },
+        { id: 'importance', label: { ar: 'أهم أنواع التوحيد', en: 'Most important type', fr: 'Type le plus important' }, icon: '⭐' },
+        { id: 'mission', label: { ar: 'دعوة جميع الرسل', en: 'Call of all Messengers', fr: 'Appel de tous les Messagers' }, icon: '📢' },
+      ],
+    },
+    {
+      id: 'types-ibadah',
+      label: { ar: 'أنواع العبادة', en: 'Types of Worship', fr: "Types d'Adoration" },
+      icon: '🤲',
+      color: '#7b2cbf',
+      children: [
+        { id: 'salah', label: { ar: 'الصلاة', en: 'Prayer', fr: 'Prière' }, icon: '🕌' },
+        { id: 'dua', label: { ar: 'الدعاء', en: 'Supplication', fr: 'Invocation' }, icon: '🙏' },
+        { id: 'dhikr', label: { ar: 'الذكر', en: 'Remembrance', fr: 'Rappel' }, icon: '📿' },
+        { id: 'nidhr', label: { ar: 'النذر', en: 'Vow', fr: 'Voeu' }, icon: '📜' },
+        { id: 'dhabh', label: { ar: 'الذبح', en: 'Sacrifice', fr: 'Sacrifice' }, icon: '🐑' },
+        { id: 'tawakkul', label: { ar: 'التوكل', en: 'Reliance', fr: 'Confiance' }, icon: '💪' },
+      ],
+    },
+    {
+      id: 'heart-worship',
+      label: { ar: 'عبادات القلب', en: 'Heart Worship', fr: 'Adorations du Coeur' },
+      icon: '❤️',
+      color: '#c9184a',
+      children: [
+        { id: 'khawf', label: { ar: 'الخوف', en: 'Fear', fr: 'Crainte' }, icon: '😰' },
+        { id: 'raja', label: { ar: 'الرجاء', en: 'Hope', fr: 'Espoir' }, icon: '🌅' },
+        { id: 'mahabbah', label: { ar: 'المحبة', en: 'Love', fr: 'Amour' }, icon: '💕' },
+        { id: 'khushu', label: { ar: 'الخشوع', en: 'Humility', fr: 'Humilité' }, icon: '🙇' },
+      ],
+    },
+    {
+      id: 'shirk',
+      label: { ar: 'نواقض التوحيد', en: 'Nullifiers', fr: 'Annulatifs' },
+      icon: '🚫',
+      color: '#dc2626',
+      children: [
+        { id: 'shirk-akbar', label: { ar: 'الشرك الأكبر', en: 'Major Shirk', fr: 'Shirk Majeur' }, icon: '❌' },
+        { id: 'shirk-asghar', label: { ar: 'الشرك الأصغر', en: 'Minor Shirk', fr: 'Shirk Mineur' }, icon: '⚠️' },
+        { id: 'riya', label: { ar: 'الرياء', en: 'Showing off', fr: 'Ostentation' }, icon: '👁️' },
+      ],
+    },
+    {
+      id: 'evidence',
+      label: { ar: 'الدليل', en: 'Evidence', fr: 'Preuve' },
+      icon: '📜',
+      color: '#0891b2',
+      children: [
+        { id: 'ayah', label: { ar: '﴿وَمَا خَلَقْتُ الْجِنَّ وَالْإِنسَ إِلَّا لِيَعْبُدُونِ﴾', en: 'Created to worship', fr: 'Créés pour adorer' }, icon: '📖' },
+        { id: 'hadith', label: { ar: 'حق الله على العباد', en: "Allah's right on servants", fr: "Droit d'Allah sur Ses serviteurs" }, icon: '🕌' },
+      ],
+    },
+  ],
+};
+
+// ============================================
+// AQEEDAH - Tawheed Asma wa Sifat (004)
+// ============================================
+export const tawheedAsmaSifatData: MindMapDataMultiLang = {
+  id: 'root',
+  label: { ar: 'توحيد الأسماء والصفات', en: 'Tawheed Al-Asma wa Sifat', fr: 'Tawheed des Noms et Attributs' },
+  icon: '✨',
+  color: '#1e3a5f',
+  children: [
+    {
+      id: 'definition',
+      label: { ar: 'التعريف', en: 'Definition', fr: 'Définition' },
+      icon: '📖',
+      color: '#2d6a4f',
+      children: [
+        { id: 'ithbat', label: { ar: 'إثبات ما أثبته الله لنفسه', en: 'Affirm what Allah affirmed', fr: "Affirmer ce qu'Allah a affirmé" }, icon: '✅' },
+        { id: 'nafy', label: { ar: 'نفي ما نفاه الله عن نفسه', en: 'Negate what Allah negated', fr: "Nier ce qu'Allah a nié" }, icon: '❌' },
+      ],
+    },
+    {
+      id: 'principles',
+      label: { ar: 'القواعد الأربع', en: 'Four Principles', fr: 'Quatre Règles' },
+      icon: '📋',
+      color: '#7b2cbf',
+      children: [
+        { id: 'no-tamthil', label: { ar: 'لا تمثيل', en: 'No resemblance', fr: 'Pas de ressemblance' }, icon: '1️⃣' },
+        { id: 'no-takyif', label: { ar: 'لا تكييف', en: 'No asking how', fr: 'Pas de questionnement sur le comment' }, icon: '2️⃣' },
+        { id: 'no-tatil', label: { ar: 'لا تعطيل', en: 'No denial', fr: 'Pas de négation' }, icon: '3️⃣' },
+        { id: 'no-tahrif', label: { ar: 'لا تحريف', en: 'No distortion', fr: 'Pas de déformation' }, icon: '4️⃣' },
+      ],
+    },
+    {
+      id: 'key-verse',
+      label: { ar: 'الآية الجامعة', en: 'Key Verse', fr: 'Verset Clé' },
+      icon: '📖',
+      color: '#0891b2',
+      children: [
+        { id: 'laysa', label: { ar: '﴿لَيْسَ كَمِثْلِهِ شَيْءٌ﴾', en: 'Nothing is like Him', fr: 'Rien ne Lui ressemble' }, icon: '☝️' },
+        { id: 'sami-basir', label: { ar: '﴿وَهُوَ السَّمِيعُ الْبَصِيرُ﴾', en: 'He is All-Hearing, All-Seeing', fr: 'Il est Audient et Clairvoyant' }, icon: '👂' },
+      ],
+    },
+    {
+      id: 'examples',
+      label: { ar: 'أمثلة الأسماء', en: 'Examples of Names', fr: 'Exemples de Noms' },
+      icon: '💎',
+      color: '#9c6644',
+      children: [
+        { id: 'rahman', label: { ar: 'الرحمن', en: 'The Most Merciful', fr: 'Le Tout Miséricordieux' }, icon: '❤️' },
+        { id: 'alim', label: { ar: 'العليم', en: 'The All-Knowing', fr: "L'Omniscient" }, icon: '🧠' },
+        { id: 'qadir', label: { ar: 'القدير', en: 'The All-Powerful', fr: 'Le Tout-Puissant' }, icon: '💪' },
+        { id: 'hakim', label: { ar: 'الحكيم', en: 'The All-Wise', fr: 'Le Sage' }, icon: '📚' },
+      ],
+    },
+    {
+      id: 'deviant-groups',
+      label: { ar: 'الفرق المنحرفة', en: 'Deviant Groups', fr: 'Groupes Déviants' },
+      icon: '⚠️',
+      color: '#c9184a',
+      children: [
+        { id: 'muattilah', label: { ar: 'المعطلة (نفاة)', en: 'Muattilah (Deniers)', fr: 'Muattilah (Négateurs)' }, icon: '🚫' },
+        { id: 'mushabbihah', label: { ar: 'المشبهة (ممثلة)', en: 'Mushabbihah (Anthropomorphists)', fr: 'Mushabbihah (Anthropomorphistes)' }, icon: '👤' },
+        { id: 'ahlussunnah', label: { ar: 'أهل السنة (الوسط)', en: 'Ahlus-Sunnah (Middle)', fr: 'Ahlus-Sunnah (Juste Milieu)' }, icon: '✅' },
+      ],
+    },
+  ],
+};
+
+// ============================================
+// AQEEDAH - Les Anges (005)
+// ============================================
+export const malaikaData: MindMapDataMultiLang = {
+  id: 'root',
+  label: { ar: 'الإيمان بالملائكة', en: 'Belief in Angels', fr: 'La Foi aux Anges' },
+  icon: '👼',
+  color: '#1e3a5f',
+  children: [
+    {
+      id: 'nature',
+      label: { ar: 'طبيعتهم', en: 'Their Nature', fr: 'Leur Nature' },
+      icon: '✨',
+      color: '#2d6a4f',
+      children: [
+        { id: 'light', label: { ar: 'مخلوقون من نور', en: 'Created from light', fr: 'Créés de lumière' }, icon: '💡' },
+        { id: 'obey', label: { ar: 'لا يعصون الله', en: 'Never disobey Allah', fr: "N'ont jamais désobéi à Allah" }, icon: '✅' },
+        { id: 'wings', label: { ar: 'لهم أجنحة', en: 'Have wings', fr: 'Ont des ailes' }, icon: '🪽' },
+        { id: 'no-eat', label: { ar: 'لا يأكلون ولا يشربون', en: 'Do not eat or drink', fr: 'Ne mangent ni ne boivent' }, icon: '🚫' },
+      ],
+    },
+    {
+      id: 'named-angels',
+      label: { ar: 'الملائكة المسمون', en: 'Named Angels', fr: 'Anges Nommés' },
+      icon: '📜',
+      color: '#7b2cbf',
+      children: [
+        { id: 'jibril', label: { ar: 'جبريل - الوحي', en: 'Jibril - Revelation', fr: 'Jibril - Révélation' }, icon: '📖' },
+        { id: 'mikail', label: { ar: 'ميكائيل - الرزق', en: 'Mikail - Provision', fr: 'Mikail - Subsistance' }, icon: '🌧️' },
+        { id: 'israfil', label: { ar: 'إسرافيل - الصور', en: 'Israfil - Trumpet', fr: 'Israfil - Trompette' }, icon: '📯' },
+        { id: 'malak-mawt', label: { ar: 'ملك الموت', en: 'Angel of Death', fr: 'Ange de la Mort' }, icon: '💀' },
+        { id: 'malik', label: { ar: 'مالك - خازن النار', en: 'Malik - Guardian of Hell', fr: "Malik - Gardien de l'Enfer" }, icon: '🔥' },
+      ],
+    },
+    {
+      id: 'functions',
+      label: { ar: 'وظائفهم', en: 'Their Functions', fr: 'Leurs Fonctions' },
+      icon: '⚙️',
+      color: '#0891b2',
+      children: [
+        { id: 'throne', label: { ar: 'حملة العرش', en: 'Carriers of Throne', fr: 'Porteurs du Trône' }, icon: '🏛️' },
+        { id: 'scribes', label: { ar: 'الكتبة', en: 'Scribes', fr: 'Scribes' }, icon: '✍️' },
+        { id: 'guardians', label: { ar: 'الحفظة', en: 'Guardians', fr: 'Gardiens' }, icon: '🛡️' },
+        { id: 'grave', label: { ar: 'منكر ونكير', en: 'Munkar & Nakir', fr: 'Munkar et Nakir' }, icon: '⚰️' },
+        { id: 'mountains', label: { ar: 'ملك الجبال', en: 'Angel of Mountains', fr: 'Ange des Montagnes' }, icon: '🏔️' },
+      ],
+    },
+    {
+      id: 'effects',
+      label: { ar: 'آثار الإيمان بهم', en: 'Effects of Belief', fr: 'Effets de cette Foi' },
+      icon: '🌟',
+      color: '#9c6644',
+      children: [
+        { id: 'awareness', label: { ar: 'مراقبة النفس', en: 'Self-awareness', fr: 'Conscience de soi' }, icon: '👁️' },
+        { id: 'love', label: { ar: 'محبتهم', en: 'Love for them', fr: 'Les aimer' }, icon: '❤️' },
+        { id: 'gratitude', label: { ar: 'شكر الله', en: 'Gratitude to Allah', fr: 'Gratitude envers Allah' }, icon: '🙏' },
+      ],
+    },
+  ],
+};
+
+// ============================================
+// AQEEDAH - Les Livres (006)
+// ============================================
+export const kutubData: MindMapDataMultiLang = {
+  id: 'root',
+  label: { ar: 'الإيمان بالكتب', en: 'Belief in the Books', fr: 'La Foi aux Livres' },
+  icon: '📚',
+  color: '#1e3a5f',
+  children: [
+    {
+      id: 'definition',
+      label: { ar: 'التعريف', en: 'Definition', fr: 'Définition' },
+      icon: '📖',
+      color: '#2d6a4f',
+      children: [
+        { id: 'meaning', label: { ar: 'كلام الله المنزل', en: "Allah's revealed speech", fr: "Parole d'Allah révélée" }, icon: '💬' },
+        { id: 'guidance', label: { ar: 'هداية للبشر', en: 'Guidance for mankind', fr: "Guide pour l'humanité" }, icon: '🧭' },
+      ],
+    },
+    {
+      id: 'named-books',
+      label: { ar: 'الكتب المسماة', en: 'Named Books', fr: 'Livres Nommés' },
+      icon: '📜',
+      color: '#7b2cbf',
+      children: [
+        { id: 'quran', label: { ar: 'القرآن - محمد ﷺ', en: 'Quran - Muhammad ﷺ', fr: 'Coran - Muhammad ﷺ' }, icon: '📗' },
+        { id: 'tawrat', label: { ar: 'التوراة - موسى', en: 'Torah - Musa', fr: 'Torah - Moussa' }, icon: '📘' },
+        { id: 'injil', label: { ar: 'الإنجيل - عيسى', en: 'Gospel - Isa', fr: 'Évangile - Issa' }, icon: '📕' },
+        { id: 'zabur', label: { ar: 'الزبور - داود', en: 'Psalms - Dawud', fr: 'Psaumes - Dawoud' }, icon: '📙' },
+        { id: 'suhuf', label: { ar: 'صحف إبراهيم وموسى', en: 'Scriptures of Ibrahim & Musa', fr: "Feuillets d'Ibrahim et Moussa" }, icon: '📄' },
+      ],
+    },
+    {
+      id: 'quran-special',
+      label: { ar: 'خصائص القرآن', en: 'Quran Distinctions', fr: 'Particularités du Coran' },
+      icon: '⭐',
+      color: '#0891b2',
+      children: [
+        { id: 'final', label: { ar: 'الكتاب الخاتم', en: 'Final Book', fr: 'Livre Final' }, icon: '🔚' },
+        { id: 'preserved', label: { ar: 'محفوظ من التحريف', en: 'Preserved from distortion', fr: 'Préservé de toute falsification' }, icon: '🛡️' },
+        { id: 'abrogates', label: { ar: 'ناسخ لما قبله', en: 'Abrogates previous books', fr: 'Abroge les livres précédents' }, icon: '✅' },
+        { id: 'universal', label: { ar: 'للناس كافة', en: 'For all mankind', fr: "Pour toute l'humanité" }, icon: '🌍' },
+      ],
+    },
+    {
+      id: 'belief-content',
+      label: { ar: 'ما يجب الإيمان به', en: 'What to Believe', fr: "Ce qu'il faut croire" },
+      icon: '✅',
+      color: '#9c6644',
+      children: [
+        { id: 'from-allah', label: { ar: 'أنها من عند الله', en: 'They are from Allah', fr: "Ils viennent d'Allah" }, icon: '☝️' },
+        { id: 'named', label: { ar: 'الإيمان بما سُمي', en: 'Believe in named ones', fr: 'Croire aux nommés' }, icon: '📝' },
+        { id: 'general', label: { ar: 'الإيمان بما لم يُسمَّ', en: 'Believe in unnamed ones', fr: 'Croire aux non-nommés' }, icon: '📦' },
+      ],
+    },
+  ],
+};
+
+// ============================================
+// AQEEDAH - Les Prophètes (007)
+// ============================================
+export const rusulData: MindMapDataMultiLang = {
+  id: 'root',
+  label: { ar: 'الإيمان بالرسل', en: 'Belief in the Messengers', fr: 'La Foi aux Messagers' },
+  icon: '🕌',
+  color: '#1e3a5f',
+  children: [
+    {
+      id: 'difference',
+      label: { ar: 'الفرق', en: 'Difference', fr: 'Différence' },
+      icon: '📖',
+      color: '#2d6a4f',
+      children: [
+        { id: 'nabi', label: { ar: 'النبي: أوحي إليه', en: 'Prophet: Received revelation', fr: 'Prophète : A reçu révélation' }, icon: '💭' },
+        { id: 'rasul', label: { ar: 'الرسول: أوحي وأُمر بالتبليغ', en: 'Messenger: Commanded to convey', fr: 'Messager : Ordonné de transmettre' }, icon: '📢' },
+      ],
+    },
+    {
+      id: 'ulul-azm',
+      label: { ar: 'أولو العزم', en: 'Ulul-Azm', fr: 'Les Ulul-Azm' },
+      icon: '⭐',
+      color: '#7b2cbf',
+      children: [
+        { id: 'nuh', label: { ar: 'نوح عليه السلام', en: 'Nuh (Noah)', fr: 'Nouh (Noé)' }, icon: '🚢' },
+        { id: 'ibrahim', label: { ar: 'إبراهيم عليه السلام', en: 'Ibrahim (Abraham)', fr: 'Ibrahim (Abraham)' }, icon: '🔥' },
+        { id: 'musa', label: { ar: 'موسى عليه السلام', en: 'Musa (Moses)', fr: 'Moussa (Moïse)' }, icon: '🌊' },
+        { id: 'isa', label: { ar: 'عيسى عليه السلام', en: 'Isa (Jesus)', fr: 'Issa (Jésus)' }, icon: '✝️' },
+        { id: 'muhammad', label: { ar: 'محمد ﷺ', en: 'Muhammad ﷺ', fr: 'Muhammad ﷺ' }, icon: '☪️' },
+      ],
+    },
+    {
+      id: 'message',
+      label: { ar: 'رسالتهم الواحدة', en: 'Their One Message', fr: 'Leur Message Unique' },
+      icon: '☝️',
+      color: '#0891b2',
+      children: [
+        { id: 'tawhid', label: { ar: 'التوحيد', en: 'Tawhid', fr: 'Tawhid' }, icon: '🕋' },
+        { id: 'ibadah', label: { ar: 'عبادة الله وحده', en: 'Worship Allah alone', fr: 'Adorer Allah seul' }, icon: '🤲' },
+        { id: 'reject-taghut', label: { ar: 'اجتناب الطاغوت', en: 'Reject false gods', fr: 'Rejeter les fausses divinités' }, icon: '🚫' },
+      ],
+    },
+    {
+      id: 'traits',
+      label: { ar: 'صفاتهم', en: 'Their Traits', fr: 'Leurs Qualités' },
+      icon: '💎',
+      color: '#9c6644',
+      children: [
+        { id: 'sidq', label: { ar: 'الصدق', en: 'Truthfulness', fr: 'Véracité' }, icon: '✅' },
+        { id: 'amanah', label: { ar: 'الأمانة', en: 'Trustworthiness', fr: 'Fidélité' }, icon: '🔐' },
+        { id: 'tabligh', label: { ar: 'التبليغ', en: 'Conveying', fr: 'Transmission' }, icon: '📢' },
+        { id: 'fatanah', label: { ar: 'الفطانة', en: 'Wisdom', fr: 'Sagesse' }, icon: '🧠' },
+      ],
+    },
+    {
+      id: 'seal',
+      label: { ar: 'خاتم النبيين', en: 'Seal of Prophets', fr: 'Sceau des Prophètes' },
+      icon: '🔚',
+      color: '#c9184a',
+      children: [
+        { id: 'last', label: { ar: 'لا نبي بعده ﷺ', en: 'No prophet after him ﷺ', fr: 'Aucun prophète après lui ﷺ' }, icon: '🏁' },
+        { id: 'universal', label: { ar: 'رسالته عالمية', en: 'His message is universal', fr: 'Son message est universel' }, icon: '🌍' },
+      ],
+    },
+  ],
+};
+
+// ============================================
+// AQEEDAH - Le Jour Dernier (008)
+// ============================================
+export const yawmAkhirData: MindMapDataMultiLang = {
+  id: 'root',
+  label: { ar: 'الإيمان باليوم الآخر', en: 'Belief in the Last Day', fr: 'La Foi au Jour Dernier' },
+  icon: '⚖️',
+  color: '#1e3a5f',
+  children: [
+    {
+      id: 'names',
+      label: { ar: 'أسماء هذا اليوم', en: 'Names of This Day', fr: 'Noms de ce Jour' },
+      icon: '📜',
+      color: '#2d6a4f',
+      children: [
+        { id: 'qiyamah', label: { ar: 'يوم القيامة', en: 'Day of Resurrection', fr: 'Jour de la Résurrection' }, icon: '🌅' },
+        { id: 'hisab', label: { ar: 'يوم الحساب', en: 'Day of Reckoning', fr: 'Jour du Compte' }, icon: '📋' },
+        { id: 'din', label: { ar: 'يوم الدين', en: 'Day of Recompense', fr: 'Jour de la Rétribution' }, icon: '⚖️' },
+        { id: 'saa', label: { ar: 'الساعة', en: 'The Hour', fr: "L'Heure" }, icon: '⏰' },
+      ],
+    },
+    {
+      id: 'stages',
+      label: { ar: 'مراحل اليوم الآخر', en: 'Stages', fr: 'Étapes' },
+      icon: '📊',
+      color: '#7b2cbf',
+      children: [
+        { id: 'death', label: { ar: 'الموت', en: 'Death', fr: 'La Mort' }, icon: '💀' },
+        { id: 'grave', label: { ar: 'القبر', en: 'The Grave', fr: 'La Tombe' }, icon: '⚰️' },
+        { id: 'bath', label: { ar: 'البعث', en: 'Resurrection', fr: 'Résurrection' }, icon: '🌱' },
+        { id: 'hashr', label: { ar: 'الحشر', en: 'Gathering', fr: 'Rassemblement' }, icon: '👥' },
+        { id: 'hisab-stage', label: { ar: 'الحساب', en: 'Reckoning', fr: 'Jugement' }, icon: '📖' },
+        { id: 'sirat', label: { ar: 'الصراط', en: 'The Bridge', fr: 'Le Pont' }, icon: '🌉' },
+      ],
+    },
+    {
+      id: 'grave-trial',
+      label: { ar: 'فتنة القبر', en: 'Trial of the Grave', fr: 'Épreuve de la Tombe' },
+      icon: '❓',
+      color: '#0891b2',
+      children: [
+        { id: 'questions', label: { ar: 'الأسئلة الثلاثة', en: 'Three Questions', fr: 'Trois Questions' }, icon: '3️⃣' },
+        { id: 'lord', label: { ar: 'من ربك؟', en: 'Who is your Lord?', fr: 'Qui est ton Seigneur ?' }, icon: '☝️' },
+        { id: 'religion', label: { ar: 'ما دينك؟', en: 'What is your religion?', fr: 'Quelle est ta religion ?' }, icon: '☪️' },
+        { id: 'prophet', label: { ar: 'من نبيك؟', en: 'Who is your prophet?', fr: 'Qui est ton prophète ?' }, icon: '🕌' },
+      ],
+    },
+    {
+      id: 'outcomes',
+      label: { ar: 'المصير', en: 'Outcomes', fr: 'Destinées' },
+      icon: '🎯',
+      color: '#c9184a',
+      children: [
+        { id: 'jannah', label: { ar: 'الجنة', en: 'Paradise', fr: 'Paradis' }, icon: '🌴' },
+        { id: 'nar', label: { ar: 'النار', en: 'Hellfire', fr: 'Enfer' }, icon: '🔥' },
+      ],
+    },
+    {
+      id: 'effects',
+      label: { ar: 'آثار الإيمان', en: 'Effects of Belief', fr: 'Effets de cette Foi' },
+      icon: '🌟',
+      color: '#9c6644',
+      children: [
+        { id: 'fear', label: { ar: 'الخوف من الله', en: 'Fear of Allah', fr: "Crainte d'Allah" }, icon: '😰' },
+        { id: 'hope', label: { ar: 'الرجاء في رحمته', en: 'Hope in His mercy', fr: 'Espoir en Sa miséricorde' }, icon: '🌅' },
+        { id: 'prepare', label: { ar: 'الاستعداد بالعمل', en: 'Prepare with deeds', fr: 'Se préparer par les actes' }, icon: '💪' },
+        { id: 'patience', label: { ar: 'الصبر على البلاء', en: 'Patience in trials', fr: 'Patience dans les épreuves' }, icon: '🙏' },
+      ],
+    },
+  ],
+};
+
+// ============================================
 // Map lesson IDs to their MindMap data
 // Format: 'course-slug:lesson-id' for unique identification
 // ============================================
 export const lessonMindMapsMultiLang: Record<string, MindMapDataMultiLang> = {
   // Aqeedah lessons
   'aqeedah:lesson-001': introductionAqeedahData,
+  'aqeedah:lesson-002': tawheedRububiyyahData,
+  'aqeedah:lesson-003': tawheedUluhiyyahData,
+  'aqeedah:lesson-004': tawheedAsmaSifatData,
+  'aqeedah:lesson-005': malaikaData,
+  'aqeedah:lesson-006': kutubData,
+  'aqeedah:lesson-007': rusulData,
+  'aqeedah:lesson-008': yawmAkhirData,
   'aqeedah:lesson-009': qadarData,
   'aqeedah:lesson-014': arkanTawhidData,
   // Fiqh lessons

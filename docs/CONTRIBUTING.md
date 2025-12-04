@@ -17,7 +17,8 @@ Ce document définit les standards et conventions à respecter pour toute contri
 7. [Internationalisation (i18n)](#-internationalisation-i18n)
 8. [Tests](#-tests)
 9. [Git & Commits](#-git--commits)
-10. [Checklist de Validation](#-checklist-de-validation)
+10. [Créer des MindMaps Interactives](#-créer-des-mindmaps-interactives)
+11. [Checklist de Validation](#-checklist-de-validation)
 
 ---
 
@@ -653,6 +654,259 @@ feat/xxx          # Nouvelles features
 fix/xxx           # Corrections
 content/xxx       # Nouveau contenu
 ```
+
+---
+
+## 🗺️ Créer des MindMaps Interactives
+
+Les mindmaps sont des visualisations pédagogiques interactives basées sur **ReactFlow**. Elles permettent aux étudiants de visualiser les concepts clés d'une leçon de manière structurée.
+
+### 1. Architecture des MindMaps
+
+```
+src/
+├── components/
+│   └── mindmap/
+│       ├── MindMap.tsx           # Composant ReactFlow principal
+│       ├── CollapsibleMindMap.tsx # Wrapper avec toggle
+│       └── index.ts              # Export public
+│
+└── lib/
+    └── data/
+        └── mindmaps/
+            └── index.ts          # 📌 Registre central des mindmaps
+```
+
+### 2. Structure des données MindMap
+
+Les mindmaps utilisent un format **multilingue** (AR/EN/FR) avec une structure hiérarchique :
+
+```typescript
+// src/lib/data/mindmaps/index.ts
+
+import type { MindMapData } from '@/components/mindmap';
+
+// Type pour les labels multilingues
+interface MultiLangLabel {
+  ar: string;
+  en: string;
+  fr: string;
+}
+
+// Type pour les données MindMap avec traductions
+export interface MindMapDataMultiLang {
+  id: string;                        // ID unique du nœud
+  label: MultiLangLabel;             // Texte dans les 3 langues
+  children?: MindMapDataMultiLang[]; // Sous-nœuds (optionnel)
+  color?: string;                    // Couleur hex (optionnel)
+  icon?: string;                     // Emoji (optionnel)
+}
+```
+
+### 3. Créer une nouvelle MindMap
+
+#### Étape 1 : Définir les données
+
+Ajoutez votre mindmap dans `src/lib/data/mindmaps/index.ts` :
+
+```typescript
+// ============================================
+// NOM_DU_COURS - Titre de la leçon (lesson-XXX)
+// ============================================
+export const maNouvelleMindMap: MindMapDataMultiLang = {
+  id: 'root',
+  label: { 
+    ar: 'العنوان الرئيسي',     // Arabe (obligatoire)
+    en: 'Main Title',          // Anglais (obligatoire)
+    fr: 'Titre Principal'      // Français (obligatoire)
+  },
+  icon: '📚',                   // Emoji représentatif
+  color: '#1e3a5f',            // Couleur du nœud racine
+  children: [
+    {
+      id: 'branch-1',
+      label: { ar: 'الفرع الأول', en: 'First Branch', fr: 'Première Branche' },
+      icon: '🔹',
+      color: '#2d6a4f',
+      children: [
+        { 
+          id: 'child-1-1', 
+          label: { ar: 'العنصر ١', en: 'Item 1', fr: 'Élément 1' },
+          icon: '•'
+        },
+        { 
+          id: 'child-1-2', 
+          label: { ar: 'العنصر ٢', en: 'Item 2', fr: 'Élément 2' },
+          icon: '•'
+        },
+      ],
+    },
+    {
+      id: 'branch-2',
+      label: { ar: 'الفرع الثاني', en: 'Second Branch', fr: 'Deuxième Branche' },
+      icon: '🔸',
+      color: '#7b2cbf',
+      children: [
+        // ... sous-éléments
+      ],
+    },
+  ],
+};
+```
+
+#### Étape 2 : Enregistrer dans le mapping
+
+Ajoutez la mindmap au registre `lessonMindMapsMultiLang` :
+
+```typescript
+// Format: 'cours-slug:lesson-id'
+export const lessonMindMapsMultiLang: Record<string, MindMapDataMultiLang> = {
+  // Cours Aqeedah
+  'aqeedah:lesson-001': introductionAqeedahData,
+  'aqeedah:lesson-009': qadarData,
+  
+  // Cours Fiqh
+  'fiqh:lesson-001': introductionFiqhData,
+  'fiqh:lesson-002': taharaData,
+  
+  // ➕ Votre nouvelle mindmap
+  'mon-cours:lesson-XXX': maNouvelleMindMap,
+};
+```
+
+### 4. Palette de couleurs recommandée
+
+| Couleur | Hex | Usage |
+|---------|-----|-------|
+| 🔵 Bleu foncé | `#1e3a5f` | Nœud racine |
+| 🟢 Vert foncé | `#2d6a4f` | Définitions, bases |
+| 🟣 Violet | `#7b2cbf` | Piliers, fondamentaux |
+| 🔴 Rouge rosé | `#c9184a` | Avertissements, erreurs |
+| 🟤 Marron | `#9c6644` | Applications pratiques |
+| 🔵 Cyan | `#0891b2` | Preuves, évidences |
+| 💚 Émeraude | `#059669` | Recommandations, vertus |
+| 💜 Violet clair | `#7c3aed` | Cas particuliers |
+
+### 5. Bonnes pratiques pédagogiques
+
+#### Structure hiérarchique
+```
+📌 Concept Central (1 seul)
+├── 📂 Branche 1 (3-6 branches max)
+│   ├── 📄 Sous-concept 1.1
+│   ├── 📄 Sous-concept 1.2
+│   └── 📄 Sous-concept 1.3
+├── 📂 Branche 2
+│   └── ...
+```
+
+#### Règles de contenu
+
+| Règle | ✅ Bon | ❌ Mauvais |
+|-------|--------|-----------|
+| Longueur | `الصلاة` / `Prayer` | `The act of praying to Allah five times daily` |
+| Précision | `الركوع` / `Ruku` | `Bending` |
+| Cohérence | Termes techniques AR | Translittération uniquement |
+| Icônes | 1 emoji par nœud | 3+ emojis |
+
+#### Quand créer une MindMap ?
+
+| Leçon | MindMap recommandée |
+|-------|---------------------|
+| Introduction à un sujet | ✅ Oui (vue d'ensemble) |
+| Liste de conditions/piliers | ✅ Oui (mémorisation) |
+| Règles détaillées | ✅ Oui (structure) |
+| Histoire/récit | ❌ Non (timeline mieux) |
+| Exercices pratiques | ❌ Non (texte suffit) |
+
+### 6. Exemple complet : MindMap du Wudu
+
+```typescript
+export const wuduData: MindMapDataMultiLang = {
+  id: 'root',
+  label: { ar: 'الوضوء', en: 'Wudu (Ablution)', fr: 'Le Wudu (Ablutions)' },
+  icon: '🚿',
+  color: '#1e3a5f',
+  children: [
+    {
+      id: 'conditions',
+      label: { ar: 'شروط الصحة', en: 'Conditions', fr: 'Conditions de Validité' },
+      icon: '✅',
+      color: '#2d6a4f',
+      children: [
+        { id: 'islam', label: { ar: 'الإسلام', en: 'Islam', fr: 'Islam' }, icon: '☪️' },
+        { id: 'sanity', label: { ar: 'العقل', en: 'Sanity', fr: 'Raison' }, icon: '🧠' },
+        { id: 'intention', label: { ar: 'النية', en: 'Intention', fr: 'Intention' }, icon: '❤️' },
+        { id: 'pure-water', label: { ar: 'الماء الطهور', en: 'Pure Water', fr: 'Eau Pure' }, icon: '💧' },
+      ],
+    },
+    {
+      id: 'obligatory',
+      label: { ar: 'الفرائض', en: 'Obligatory Acts', fr: 'Actes Obligatoires' },
+      icon: '⭐',
+      color: '#7b2cbf',
+      children: [
+        { id: 'face', label: { ar: 'غسل الوجه', en: 'Wash face', fr: 'Laver le visage' }, icon: '😊' },
+        { id: 'arms', label: { ar: 'غسل اليدين', en: 'Wash arms', fr: 'Laver les bras' }, icon: '💪' },
+        { id: 'head', label: { ar: 'مسح الرأس', en: 'Wipe head', fr: 'Essuyer la tête' }, icon: '👤' },
+        { id: 'feet', label: { ar: 'غسل الرجلين', en: 'Wash feet', fr: 'Laver les pieds' }, icon: '🦶' },
+      ],
+    },
+    {
+      id: 'nullifiers',
+      label: { ar: 'النواقض', en: 'Nullifiers', fr: 'Annulatifs' },
+      icon: '❌',
+      color: '#c9184a',
+      children: [
+        { id: 'exit', label: { ar: 'الخارج من السبيلين', en: 'What exits passages', fr: 'Ce qui sort des 2 voies' }, icon: '🚽' },
+        { id: 'sleep', label: { ar: 'النوم المستغرق', en: 'Deep sleep', fr: 'Sommeil profond' }, icon: '😴' },
+      ],
+    },
+  ],
+};
+```
+
+### 7. Tester votre MindMap
+
+```bash
+# 1. Vérifier la compilation
+npm run build
+
+# 2. Lancer en local
+npm run dev
+
+# 3. Naviguer vers la leçon avec la mindmap
+# http://localhost:3000/courses/[cours]/lessons/[lesson-id]
+```
+
+### 8. Fonction utilitaire
+
+Pour récupérer une mindmap dans un composant :
+
+```typescript
+import { getMindMapForLesson } from '@/lib/data/mindmaps';
+
+// Dans un composant de leçon
+const mindmapData = getMindMapForLesson('lesson-001', 'ar', 'fiqh');
+
+if (mindmapData) {
+  return <MindMap data={mindmapData} title="خريطة المفاهيم" />;
+}
+```
+
+### 9. Checklist MindMap
+
+Avant de commit une nouvelle mindmap :
+
+- [ ] Nœud racine avec `id: 'root'`
+- [ ] Labels en 3 langues (ar, en, fr)
+- [ ] Icône emoji pour chaque branche principale
+- [ ] Couleurs distinctes par niveau
+- [ ] Maximum 6 branches au niveau 1
+- [ ] Maximum 6 sous-éléments par branche
+- [ ] IDs uniques pour tous les nœuds
+- [ ] Enregistrée dans `lessonMindMapsMultiLang`
+- [ ] Build passant (`npm run build`)
 
 ---
 
