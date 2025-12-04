@@ -42,6 +42,56 @@ Fournir une plateforme **gratuite** d'apprentissage des sciences islamiques, acc
 | Police arabe | Amiri |
 | Icône | Livre ouvert (BookOpen) sur fond emerald |
 
+### Stack Technique
+
+| Technologie | Version | Usage |
+|-------------|---------|-------|
+| **Next.js** | 14.2.x | Framework React avec App Router, SSG |
+| **React** | 18.x | Bibliothèque UI |
+| **TypeScript** | 5.x | Typage statique (mode strict) |
+| **Tailwind CSS** | 3.4.x | Styling utility-first |
+| **Zustand** | 4.x | State management (locale, theme, progress) |
+| **Radix UI** | - | Composants accessibles (Dialog, Select, Tabs) |
+| **Lucide React** | - | Icônes SVG |
+| **React Markdown** | - | Rendu Markdown avec remark-gfm |
+| **ReactFlow** | 11.x | Visualisation mindmaps |
+| **Vitest** | 2.x | Tests unitaires |
+| **Zod** | 3.x | Validation de schémas |
+
+### Dépendances clés
+
+```bash
+# Core
+next react react-dom typescript
+
+# Styling
+tailwindcss postcss autoprefixer
+class-variance-authority  # Variants de composants
+clsx tailwind-merge       # Utilitaires classes
+
+# UI
+@radix-ui/react-dialog
+@radix-ui/react-select
+@radix-ui/react-tabs
+@radix-ui/react-accordion
+@radix-ui/react-slot
+lucide-react
+
+# State & Data
+zustand                   # State management
+zod                       # Validation
+
+# Content
+react-markdown
+remark-gfm               # GitHub Flavored Markdown
+reactflow                # Mindmaps
+
+# Testing
+vitest
+@testing-library/react
+jsdom
+```
+
 ---
 
 ## 🏗️ Architecture & Structure
