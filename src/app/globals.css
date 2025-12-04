@@ -43,10 +43,8 @@
 
     --radius: 0.75rem;
 
-    /* Fonts */
-    --font-sans: 'Inter', system-ui, sans-serif;
-    --font-arabic: 'Amiri', 'Traditional Arabic', serif;
-    --font-mono: 'JetBrains Mono', monospace;
+    /* Fonts - now using next/font variables */
+    --font-mono: var(--font-geist-mono), 'JetBrains Mono', monospace;
   }
 
   .dark {

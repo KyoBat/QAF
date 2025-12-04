@@ -62,9 +62,9 @@ const config: Config = {
         sm: 'calc(var(--radius) - 4px)',
       },
       fontFamily: {
-        sans: ['var(--font-sans)'],
-        arabic: ['var(--font-arabic)'],
-        mono: ['var(--font-mono)'],
+        sans: ['var(--font-sans)', 'system-ui', 'sans-serif'],
+        arabic: ['var(--font-arabic)', 'Traditional Arabic', 'serif'],
+        mono: ['var(--font-mono)', 'monospace'],
       },
       keyframes: {
         'accordion-down': {
