@@ -31,6 +31,13 @@ export interface LessonContent {
 
 export interface Lesson extends LessonMeta, LessonContent {}
 
+export interface LessonSection {
+  id: string
+  title: LocalizedString
+  description?: LocalizedString
+  lessonIds: string[]
+}
+
 export interface CourseMeta {
   id: string
   slug: string
@@ -51,4 +58,5 @@ export interface CourseMeta {
 
 export interface Course extends CourseMeta {
   lessons: Lesson[]
+  sections?: LessonSection[]
 }

@@ -1,6 +1,6 @@
 'use client';
 
-import React, { useCallback, useMemo } from 'react';
+import React, { useMemo } from 'react';
 import ReactFlow, {
   Node,
   Edge,
@@ -151,8 +151,8 @@ export default function MindMap({ data, title, className = '' }: MindMapProps) {
     [data]
   );
 
-  const [nodes, setNodes, onNodesChange] = useNodesState(initialNodes);
-  const [edges, setEdges, onEdgesChange] = useEdgesState(initialEdges);
+  const [nodes, _setNodes, onNodesChange] = useNodesState(initialNodes);
+  const [edges, _setEdges, onEdgesChange] = useEdgesState(initialEdges);
 
   return (
     <div className={`w-full ${className}`} dir="ltr">

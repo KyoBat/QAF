@@ -49,6 +49,21 @@ export const LessonSchema = z.object({
   order: z.number().int().positive(),
 })
 
+export const LessonSectionSchema = z.object({
+  id: z.string().min(1),
+  title: z.object({
+    fr: z.string().min(1),
+    ar: z.string().min(1),
+    en: z.string().min(1),
+  }),
+  description: z.object({
+    fr: z.string(),
+    ar: z.string(),
+    en: z.string(),
+  }).optional(),
+  lessonIds: z.array(z.string().min(1)).min(1),
+})
+
 // Full Course Schema
 export const CourseSchema = z.object({
   id: z.string().min(1, 'ID requis'),
@@ -75,6 +90,7 @@ export const CourseSchema = z.object({
   featured: z.boolean().default(false),
   createdAt: z.string().datetime().optional(),
   updatedAt: z.string().datetime().optional(),
+  sections: z.array(LessonSectionSchema).optional(),
 })
 
 // Partial schemas for forms/updates
@@ -99,6 +115,7 @@ export type CourseResource = z.infer<typeof CourseResourceSchema>
 export type CourseLevel = z.infer<typeof CourseLevelSchema>
 export type CourseCategory = z.infer<typeof CourseCategorySchema>
 export type Lesson = z.infer<typeof LessonSchema>
+export type LessonSection = z.infer<typeof LessonSectionSchema>
 export type Course = z.infer<typeof CourseSchema>
 export type CourseCreate = z.infer<typeof CourseCreateSchema>
 export type CourseUpdate = z.infer<typeof CourseUpdateSchema>

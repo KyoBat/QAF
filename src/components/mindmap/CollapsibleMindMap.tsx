@@ -109,8 +109,8 @@ const nodeTypes = {
   collapsible: CollapsibleNode,
 };
 
-// Fonction pour compter les descendants visibles
-function countVisibleDescendants(
+// Fonction pour compter les descendants visibles (currently unused but kept for future use)
+function _countVisibleDescendants(
   node: MindMapData, 
   expandedNodes: Set<string>
 ): number {
@@ -118,7 +118,7 @@ function countVisibleDescendants(
   
   let count = node.children.length;
   for (const child of node.children) {
-    count += countVisibleDescendants(child, expandedNodes);
+    count += _countVisibleDescendants(child, expandedNodes);
   }
   return count;
 }
@@ -130,8 +130,8 @@ function generateNodesAndEdges(
   onToggle: (id: string) => void,
   parentId: string | null = null,
   level: number = 0,
-  index: number = 0,
-  siblingCount: number = 1,
+  _index: number = 0,
+  _siblingCount: number = 1,
   direction: 'left' | 'right' = 'right',
   yOffset: number = 0
 ): { nodes: Node[]; edges: Edge[]; height: number } {
@@ -195,7 +195,7 @@ function generateNodesAndEdges(
   // Traiter les enfants si le node est expanded
   if (hasChildren && isExpanded) {
     const children = data.children!;
-    let currentYOffset = y;
+    const _currentYOffset = y;
 
     // Pour le niveau 0, diviser les enfants entre gauche et droite
     if (level === 0) {

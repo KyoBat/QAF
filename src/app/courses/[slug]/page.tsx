@@ -13,11 +13,24 @@ interface CoursePageProps {
 
 // Generate static params for all courses
 export async function generateStaticParams() {
-  return coursesData
+  const params = coursesData
     .filter(course => course.published)
     .map((course) => ({
       slug: course.slug,
     }))
+
+  // Legacy aliases to preserve backward compatibility
+  const legacySlugs: Record<string, string> = {
+    'bases-fiqh-ibadat': 'bases-fiqh-ibadat-purification',
+  }
+
+  Object.entries(legacySlugs).forEach(([alias, target]) => {
+    if (coursesData.some(course => course.slug === target)) {
+      params.push({ slug: alias })
+    }
+  })
+
+  return params
 }
 
 // Generate metadata for SEO

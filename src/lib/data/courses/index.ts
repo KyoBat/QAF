@@ -5,7 +5,7 @@
 
 import { Course } from './types'
 import { tajweedCourse } from './tajweed'
-import { fiqhCourse } from './fiqh'
+import { fiqhPurificationCourse, fiqhSalatCourse } from './fiqh'
 import { aqeedahCourse } from './aqeedah'
 import { aqeedah2Course } from './aqeedah-2'
 import { seerahCourse } from './seerah'
@@ -16,7 +16,7 @@ export * from './types'
 
 // Export des cours individuels
 export { tajweedCourse } from './tajweed'
-export { fiqhCourse } from './fiqh'
+export { fiqhPurificationCourse, fiqhSalatCourse } from './fiqh'
 export { aqeedahCourse } from './aqeedah'
 export { aqeedah2Course } from './aqeedah-2'
 export { seerahCourse } from './seerah'
@@ -25,16 +25,22 @@ export { hadithCourse } from './hadith'
 // Export de la liste complète des cours
 export const coursesData: Course[] = [
   tajweedCourse,
-  fiqhCourse,
+  fiqhPurificationCourse,
+  fiqhSalatCourse,
   aqeedahCourse,
   aqeedah2Course,
   seerahCourse,
   hadithCourse,
 ]
 
+const legacySlugAliases: Record<string, string> = {
+  'bases-fiqh-ibadat': fiqhPurificationCourse.slug,
+}
+
 // Utilitaires pour accéder aux cours
 export function getCourseBySlug(slug: string): Course | undefined {
-  return coursesData.find((course) => course.slug === slug)
+  const normalizedSlug = legacySlugAliases[slug] ?? slug
+  return coursesData.find((course) => course.slug === normalizedSlug)
 }
 
 export function getCourseById(id: string): Course | undefined {

@@ -47,12 +47,17 @@ const levelVariants: Record<CourseLevel, 'success' | 'warning' | 'info'> = {
   advanced: 'info',
 }
 
+type CourseLesson = Course['lessons'][number]
+
 export function CourseDetailClient({ course }: CourseDetailClientProps) {
   const { locale, t, isRTL } = useLocale()
   const { isLessonCompleted, getCourseProgress } = useProgressStore()
 
   // Sort lessons by order
   const sortedLessons = [...course.lessons].sort((a, b) => a.order - b.order)
+  const lessonsById = new Map(sortedLessons.map((lesson) => [lesson.id, lesson] as const))
+  const lessonIndexMap = new Map(sortedLessons.map((lesson, index) => [lesson.id, index] as const))
+  const hasSections = Array.isArray(course.sections) && course.sections.length > 0
 
   const title = course.title[locale as keyof typeof course.title] || course.title.fr
   const description = course.description[locale as keyof typeof course.description] || course.description.fr
@@ -64,6 +69,65 @@ export function CourseDetailClient({ course }: CourseDetailClientProps) {
 
   // Find first incomplete lesson for "Continue" button
   const nextLesson = sortedLessons.find(l => !isLessonCompleted(course.slug, l.id)) || sortedLessons[0]
+
+  const renderLessonRow = (lesson: CourseLesson) => {
+    const lessonTitle = lesson.title[locale as keyof typeof lesson.title] || lesson.title.fr
+    const isCompleted = isLessonCompleted(course.slug, lesson.id)
+    const lessonIndex = lessonIndexMap.get(lesson.id)
+    const displayNumber = typeof lessonIndex === 'number' ? lessonIndex + 1 : undefined
+
+    return (
+      <Link
+        key={lesson.id}
+        href={`/courses/${course.slug}/lessons/${lesson.id}`}
+        className={cn(
+          'flex items-center gap-4 p-4 hover:bg-muted/50 transition-colors',
+          isRTL && 'flex-row-reverse'
+        )}
+      >
+        <div className={cn(
+          'flex-shrink-0 w-10 h-10 rounded-full flex items-center justify-center text-sm font-medium',
+          isCompleted 
+            ? 'bg-success/20 text-success' 
+            : 'bg-muted text-muted-foreground'
+        )}>
+          {isCompleted ? (
+            <CheckCircle2 className="h-5 w-5" />
+          ) : (
+            <span>{displayNumber ?? '?'}</span>
+          )}
+        </div>
+
+        <div className={cn('flex-1 min-w-0', isRTL && 'text-right')}>
+          <h3 className={cn(
+            'font-medium text-foreground truncate',
+            isRTL && 'font-arabic'
+          )}>
+            {lessonTitle}
+          </h3>
+          <div className={cn(
+            'flex items-center gap-2 text-sm text-muted-foreground mt-1',
+            isRTL && 'flex-row-reverse'
+          )}>
+            <Clock className="h-3.5 w-3.5" />
+            <span>{lesson.duration}</span>
+            {lesson.videoUrl && (
+              <>
+                <span>•</span>
+                <PlayCircle className="h-3.5 w-3.5" />
+                <span>{locale === 'ar' ? 'فيديو' : locale === 'en' ? 'Video' : 'Vidéo'}</span>
+              </>
+            )}
+          </div>
+        </div>
+
+        <ChevronRight className={cn(
+          'h-5 w-5 text-muted-foreground flex-shrink-0',
+          isRTL && 'rotate-180'
+        )} />
+      </Link>
+    )
+  }
 
   return (
     <div className="py-8 lg:py-12">
@@ -145,67 +209,55 @@ export function CourseDetailClient({ course }: CourseDetailClientProps) {
                 </h2>
               </CardHeader>
               <CardContent className="p-0">
-                <div className="divide-y divide-border">
-                  {sortedLessons.map((lesson, index) => {
-                    const lessonTitle = lesson.title[locale as keyof typeof lesson.title] || lesson.title.fr
-                    const isCompleted = isLessonCompleted(course.slug, lesson.id)
+                {hasSections ? (
+                  <div className="flex flex-col">
+                    {course.sections!.map((section, sectionIndex) => {
+                      const sectionLessons = section.lessonIds
+                        .map((lessonId) => lessonsById.get(lessonId))
+                        .filter((lesson): lesson is CourseLesson => Boolean(lesson))
 
-                    return (
-                      <Link
-                        key={lesson.id}
-                        href={`/courses/${course.slug}/lessons/${lesson.id}`}
-                        className={cn(
-                          'flex items-center gap-4 p-4 hover:bg-muted/50 transition-colors',
-                          isRTL && 'flex-row-reverse'
-                        )}
-                      >
-                        {/* Lesson Number / Status */}
-                        <div className={cn(
-                          'flex-shrink-0 w-10 h-10 rounded-full flex items-center justify-center text-sm font-medium',
-                          isCompleted 
-                            ? 'bg-success/20 text-success' 
-                            : 'bg-muted text-muted-foreground'
-                        )}>
-                          {isCompleted ? (
-                            <CheckCircle2 className="h-5 w-5" />
-                          ) : (
-                            <span>{index + 1}</span>
-                          )}
-                        </div>
+                      if (sectionLessons.length === 0) return null
 
-                        {/* Lesson Info */}
-                        <div className={cn('flex-1 min-w-0', isRTL && 'text-right')}>
-                          <h3 className={cn(
-                            'font-medium text-foreground truncate',
-                            isRTL && 'font-arabic'
-                          )}>
-                            {lessonTitle}
-                          </h3>
-                          <div className={cn(
-                            'flex items-center gap-2 text-sm text-muted-foreground mt-1',
-                            isRTL && 'flex-row-reverse'
-                          )}>
-                            <Clock className="h-3.5 w-3.5" />
-                            <span>{lesson.duration}</span>
-                            {lesson.videoUrl && (
-                              <>
-                                <span>•</span>
-                                <PlayCircle className="h-3.5 w-3.5" />
-                                <span>{locale === 'ar' ? 'فيديو' : locale === 'en' ? 'Video' : 'Vidéo'}</span>
-                              </>
+                      const sectionTitle = section.title[locale as keyof typeof section.title] || section.title.fr
+                      const sectionDescription = section.description
+                        ? section.description[locale as keyof typeof section.description] || section.description.fr
+                        : undefined
+
+                      return (
+                        <div
+                          key={section.id}
+                          className={cn(sectionIndex > 0 && 'border-t border-border')}
+                        >
+                          <div
+                            className={cn(
+                              'px-4 py-3 bg-muted/40 border-b border-border',
+                              isRTL && 'text-right font-arabic'
+                            )}
+                          >
+                            <h3 className={cn(
+                              'text-base font-semibold text-foreground',
+                              isRTL && 'leading-relaxed'
+                            )}>
+                              {sectionTitle}
+                            </h3>
+                            {sectionDescription && (
+                              <p className="text-sm text-muted-foreground mt-1">
+                                {sectionDescription}
+                              </p>
                             )}
                           </div>
+                          <div className="divide-y divide-border">
+                            {sectionLessons.map((lesson) => renderLessonRow(lesson))}
+                          </div>
                         </div>
-
-                        {/* Arrow */}
-                        <ChevronRight className={cn(
-                          'h-5 w-5 text-muted-foreground flex-shrink-0',
-                          isRTL && 'rotate-180'
-                        )} />
-                      </Link>
-                    )
-                  })}
-                </div>
+                      )
+                    })}
+                  </div>
+                ) : (
+                  <div className="divide-y divide-border">
+                    {sortedLessons.map((lesson) => renderLessonRow(lesson))}
+                  </div>
+                )}
               </CardContent>
             </Card>
 
