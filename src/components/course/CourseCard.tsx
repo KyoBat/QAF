@@ -2,6 +2,7 @@
  * CourseCard Component
  * Affiche une carte de cours avec les informations essentielles
  * Utilise UNIQUEMENT les design tokens
+ * Supporte Course complet ou CourseListItem léger
  */
 
 'use client'
@@ -15,9 +16,13 @@ import { Progress } from '@/components/ui/progress'
 import { useLocale } from '@/components/providers'
 import { cn } from '@/lib/utils'
 import type { Course, CourseCategory, CourseLevel } from '@/lib/schemas'
+import type { CourseListItem } from '@/lib/data/courses/courses-list'
+
+// Union type pour accepter les deux formats
+type CourseData = Course | CourseListItem
 
 interface CourseCardProps {
-  course: Course
+  course: CourseData
   progress?: number
   className?: string
 }
@@ -48,6 +53,22 @@ const levelVariants: Record<CourseLevel, 'success' | 'warning' | 'info'> = {
   advanced: 'info',
 }
 
+// Helper pour obtenir le nombre de leçons
+function getLessonsCount(course: CourseData): number {
+  if ('lessonsCount' in course) {
+    return course.lessonsCount
+  }
+  return course.lessons.length
+}
+
+// Helper pour obtenir l'instructeur
+function getInstructor(course: CourseData): string | undefined {
+  if ('instructor' in course) {
+    return course.instructor
+  }
+  return undefined
+}
+
 export function CourseCard({ course, progress, className }: CourseCardProps) {
   const { locale, t, isRTL } = useLocale()
   
@@ -55,6 +76,8 @@ export function CourseCard({ course, progress, className }: CourseCardProps) {
   const description = course.description[locale as keyof typeof course.description] || course.description.fr
   const categoryLabel = categoryLabels[course.category]?.[locale] || course.category
   const levelLabel = levelLabels[course.level]?.[locale] || course.level
+  const lessonsCount = getLessonsCount(course)
+  const instructor = getInstructor(course)
 
   return (
     <Card className={cn(
@@ -108,18 +131,20 @@ export function CourseCard({ course, progress, className }: CourseCardProps) {
           <div className={cn('flex items-center gap-1.5', isRTL && 'flex-row-reverse')}>
             <BookOpen className="h-4 w-4" />
             <span>
-              {course.lessons.length} {course.lessons.length > 1 ? t('courses.lessons') : t('courses.lesson')}
+              {lessonsCount} {lessonsCount > 1 ? t('courses.lessons') : t('courses.lesson')}
             </span>
           </div>
         </div>
 
-        <div className={cn(
-          'flex items-center gap-1.5 mt-3 text-sm text-muted-foreground',
-          isRTL && 'flex-row-reverse'
-        )}>
-          <User className="h-4 w-4" />
-          <span>{course.instructor}</span>
-        </div>
+        {instructor && (
+          <div className={cn(
+            'flex items-center gap-1.5 mt-3 text-sm text-muted-foreground',
+            isRTL && 'flex-row-reverse'
+          )}>
+            <User className="h-4 w-4" />
+            <span>{instructor}</span>
+          </div>
+        )}
 
         {/* Progress bar if applicable */}
         {progress !== undefined && progress > 0 && (
