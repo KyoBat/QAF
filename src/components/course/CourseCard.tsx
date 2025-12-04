@@ -8,12 +8,13 @@
 'use client'
 
 import Link from 'next/link'
-import { Clock, BookOpen, User, ChevronRight } from 'lucide-react'
+import { Clock, BookOpen, User, ChevronRight, CheckCircle2 } from 'lucide-react'
 import { Card, CardHeader, CardContent, CardFooter } from '@/components/ui/card'
 import { Badge } from '@/components/ui/badge'
 import { Button } from '@/components/ui/button'
 import { Progress } from '@/components/ui/progress'
 import { useLocale } from '@/components/providers'
+import { useProgressStore } from '@/lib/store'
 import { cn } from '@/lib/utils'
 import type { Course, CourseCategory, CourseLevel } from '@/lib/schemas'
 import type { CourseListItem } from '@/lib/data/courses/courses-list'
@@ -23,7 +24,6 @@ type CourseData = Course | CourseListItem
 
 interface CourseCardProps {
   course: CourseData
-  progress?: number
   className?: string
 }
 
@@ -69,8 +69,9 @@ function getInstructor(course: CourseData): string | undefined {
   return undefined
 }
 
-export function CourseCard({ course, progress, className }: CourseCardProps) {
+export function CourseCard({ course, className }: CourseCardProps) {
   const { locale, t, isRTL } = useLocale()
+  const { getCourseProgress } = useProgressStore()
   
   const title = course.title[locale as keyof typeof course.title] || course.title.fr
   const description = course.description[locale as keyof typeof course.description] || course.description.fr
@@ -78,6 +79,9 @@ export function CourseCard({ course, progress, className }: CourseCardProps) {
   const levelLabel = levelLabels[course.level]?.[locale] || course.level
   const lessonsCount = getLessonsCount(course)
   const instructor = getInstructor(course)
+  
+  // Get progress from store
+  const progress = getCourseProgress(course.slug, lessonsCount)
 
   return (
     <Card className={cn(
@@ -87,6 +91,16 @@ export function CourseCard({ course, progress, className }: CourseCardProps) {
       {/* Featured indicator */}
       {course.featured && (
         <div className="absolute top-0 right-0 w-0 h-0 border-t-[40px] border-t-primary border-l-[40px] border-l-transparent" />
+      )}
+      
+      {/* Progress completed indicator */}
+      {progress === 100 && (
+        <div className="absolute top-3 left-3 z-10">
+          <div className="flex items-center gap-1 px-2 py-1 bg-success/90 text-success-foreground rounded-full text-xs font-medium">
+            <CheckCircle2 className="h-3 w-3" />
+            <span>{locale === 'ar' ? 'مكتمل' : locale === 'en' ? 'Complete' : 'Terminé'}</span>
+          </div>
+        </div>
       )}
 
       <CardHeader className="pb-3">
@@ -147,16 +161,16 @@ export function CourseCard({ course, progress, className }: CourseCardProps) {
         )}
 
         {/* Progress bar if applicable */}
-        {progress !== undefined && progress > 0 && (
+        {progress > 0 && (
           <div className="mt-4">
             <div className={cn(
               'flex items-center justify-between text-xs text-muted-foreground mb-1',
               isRTL && 'flex-row-reverse'
             )}>
               <span>{t('courses.progress')}</span>
-              <span>{progress}%</span>
+              <span className="font-medium">{progress}%</span>
             </div>
-            <Progress value={progress} />
+            <Progress value={progress} className="h-1.5" />
           </div>
         )}
       </CardContent>

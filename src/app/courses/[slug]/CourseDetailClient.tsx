@@ -11,6 +11,7 @@ import { Card, CardHeader, CardContent } from '@/components/ui/card'
 import { Badge } from '@/components/ui/badge'
 import { Button } from '@/components/ui/button'
 import { Progress } from '@/components/ui/progress'
+import { Breadcrumb } from '@/components/ui/breadcrumb'
 import { ResourceCard } from '@/components/course'
 import { useLocale } from '@/components/providers'
 import { useProgressStore } from '@/lib/store'
@@ -69,6 +70,12 @@ export function CourseDetailClient({ course }: CourseDetailClientProps) {
 
   // Find first incomplete lesson for "Continue" button
   const nextLesson = sortedLessons.find(l => !isLessonCompleted(course.slug, l.id)) || sortedLessons[0]
+
+  // Breadcrumb items
+  const breadcrumbItems = [
+    { label: t('nav.courses'), href: '/courses' },
+    { label: title },
+  ]
 
   const renderLessonRow = (lesson: CourseLesson) => {
     const lessonTitle = lesson.title[locale as keyof typeof lesson.title] || lesson.title.fr
@@ -133,16 +140,7 @@ export function CourseDetailClient({ course }: CourseDetailClientProps) {
     <div className="py-8 lg:py-12">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         {/* Breadcrumb */}
-        <nav className={cn(
-          'flex items-center gap-2 text-sm text-muted-foreground mb-6',
-          isRTL && 'flex-row-reverse'
-        )}>
-          <Link href="/courses" className="hover:text-foreground transition-colors">
-            {t('nav.courses')}
-          </Link>
-          <ChevronRight className={cn('h-4 w-4', isRTL && 'rotate-180')} />
-          <span className="text-foreground truncate">{title}</span>
-        </nav>
+        <Breadcrumb items={breadcrumbItems} className="mb-6" />
 
         <div className="grid lg:grid-cols-3 gap-8">
           {/* Main Content */}

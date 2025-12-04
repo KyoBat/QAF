@@ -6,6 +6,7 @@
 'use client'
 
 import Link from 'next/link'
+import { useState } from 'react'
 import { 
   ChevronRight, 
   ChevronLeft, 
@@ -13,11 +14,20 @@ import {
   Circle,
   BookOpen,
   Clock,
-  ArrowLeft
+  ArrowLeft,
+  Menu
 } from 'lucide-react'
 import { Card, CardContent } from '@/components/ui/card'
 import { Button } from '@/components/ui/button'
 import { Progress } from '@/components/ui/progress'
+import { Breadcrumb } from '@/components/ui/breadcrumb'
+import {
+  Sheet,
+  SheetContent,
+  SheetHeader,
+  SheetTitle,
+  SheetTrigger,
+} from '@/components/ui/sheet'
 import { LessonContent, YouTubeEmbed, ResourceCard } from '@/components/course'
 import { useLocale } from '@/components/providers'
 import { useProgressStore } from '@/lib/store'
@@ -42,6 +52,7 @@ export function LessonPageClient({ data }: LessonPageClientProps) {
   const { lesson, course, prevLesson, nextLesson, lessonNumber, totalLessons } = data
   const { locale, t, isRTL } = useLocale()
   const { isLessonCompleted, markLessonComplete, getCourseProgress } = useProgressStore()
+  const [isSheetOpen, setIsSheetOpen] = useState(false)
 
   const title = lesson.title[locale as keyof typeof lesson.title] || lesson.title.fr
   const courseTitle = course.title[locale as keyof typeof course.title] || course.title.fr
@@ -54,11 +65,108 @@ export function LessonPageClient({ data }: LessonPageClientProps) {
     }
   }
 
+  // Breadcrumb items
+  const breadcrumbItems = [
+    { label: t('nav.courses'), href: '/courses' },
+    { label: courseTitle, href: `/courses/${course.slug}` },
+    { label: title },
+  ]
+
+  // Lessons navigation component (shared between sidebar and sheet)
+  const LessonsNav = () => (
+    <nav className="space-y-1 max-h-[60vh] lg:max-h-96 overflow-y-auto">
+      {course.lessons.map((l, index) => {
+        const lessonTitle = l.title[locale as keyof typeof l.title] || l.title.fr
+        const isActive = l.id === lesson.id
+        const isLessonDone = isLessonCompleted(course.slug, l.id)
+
+        return (
+          <Link
+            key={l.id}
+            href={`/courses/${course.slug}/lessons/${l.id}`}
+            onClick={() => setIsSheetOpen(false)}
+            className={cn(
+              'flex items-center gap-2 p-2 rounded-lg text-sm transition-colors',
+              isActive 
+                ? 'bg-primary/10 text-primary' 
+                : 'text-muted-foreground hover:bg-muted hover:text-foreground',
+              isRTL && 'flex-row-reverse'
+            )}
+          >
+            {isLessonDone ? (
+              <CheckCircle2 className="h-4 w-4 text-success flex-shrink-0" />
+            ) : (
+              <Circle className="h-4 w-4 flex-shrink-0" />
+            )}
+            <span className={cn(
+              'truncate',
+              isRTL && 'font-arabic'
+            )}>
+              {index + 1}. {lessonTitle}
+            </span>
+          </Link>
+        )
+      })}
+    </nav>
+  )
+
   return (
     <div className="py-8 lg:py-12">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        {/* Mobile Header with Sheet trigger */}
+        <div className="lg:hidden mb-6">
+          <div className={cn(
+            'flex items-center justify-between gap-4 mb-4',
+            isRTL && 'flex-row-reverse'
+          )}>
+            <Breadcrumb items={breadcrumbItems} showHome={false} className="flex-1 min-w-0" />
+            
+            <Sheet open={isSheetOpen} onOpenChange={setIsSheetOpen}>
+              <SheetTrigger asChild>
+                <Button variant="outline" size="sm" className="gap-2 flex-shrink-0">
+                  <Menu className="h-4 w-4" />
+                  <span className="hidden sm:inline">
+                    {locale === 'ar' ? 'الدروس' : locale === 'en' ? 'Lessons' : 'Leçons'}
+                  </span>
+                </Button>
+              </SheetTrigger>
+              <SheetContent side={isRTL ? 'left' : 'right'} className="w-[85%] sm:w-[400px]">
+                <SheetHeader>
+                  <SheetTitle className={cn(isRTL && 'text-right font-arabic')}>
+                    {t('lesson.tableOfContents')}
+                  </SheetTitle>
+                </SheetHeader>
+                
+                {/* Progress in sheet */}
+                <div className="mt-4 mb-4 pb-4 border-b border-border">
+                  <h3 className={cn(
+                    'font-semibold text-foreground line-clamp-2 mb-2',
+                    isRTL && 'text-right font-arabic'
+                  )}>
+                    {courseTitle}
+                  </h3>
+                  <Progress value={progress} className="h-1.5" />
+                  <p className={cn(
+                    'text-xs text-muted-foreground mt-1',
+                    isRTL && 'text-right'
+                  )}>
+                    {progress}% {locale === 'ar' ? 'مكتمل' : locale === 'en' ? 'complete' : 'terminé'}
+                  </p>
+                </div>
+                
+                <LessonsNav />
+              </SheetContent>
+            </Sheet>
+          </div>
+          
+          {/* Mobile Progress Bar */}
+          <div className="mb-4">
+            <Progress value={progress} className="h-1" />
+          </div>
+        </div>
+
         <div className="grid lg:grid-cols-4 gap-8">
-          {/* Sidebar - Table of Contents */}
+          {/* Sidebar - Table of Contents (Desktop) */}
           <aside className="hidden lg:block lg:col-span-1">
             <Card className="sticky top-24">
               <CardContent className="p-4">
@@ -96,53 +204,16 @@ export function LessonPageClient({ data }: LessonPageClientProps) {
                 )}>
                   {t('lesson.tableOfContents')}
                 </h3>
-                <nav className="space-y-1 max-h-96 overflow-y-auto">
-                  {course.lessons.map((l, index) => {
-                    const lessonTitle = l.title[locale as keyof typeof l.title] || l.title.fr
-                    const isActive = l.id === lesson.id
-                    const isLessonDone = isLessonCompleted(course.slug, l.id)
-
-                    return (
-                      <Link
-                        key={l.id}
-                        href={`/courses/${course.slug}/lessons/${l.id}`}
-                        className={cn(
-                          'flex items-center gap-2 p-2 rounded-lg text-sm transition-colors',
-                          isActive 
-                            ? 'bg-primary/10 text-primary' 
-                            : 'text-muted-foreground hover:bg-muted hover:text-foreground',
-                          isRTL && 'flex-row-reverse'
-                        )}
-                      >
-                        {isLessonDone ? (
-                          <CheckCircle2 className="h-4 w-4 text-success flex-shrink-0" />
-                        ) : (
-                          <Circle className="h-4 w-4 flex-shrink-0" />
-                        )}
-                        <span className={cn(
-                          'truncate',
-                          isRTL && 'font-arabic'
-                        )}>
-                          {index + 1}. {lessonTitle}
-                        </span>
-                      </Link>
-                    )
-                  })}
-                </nav>
+                <LessonsNav />
               </CardContent>
             </Card>
           </aside>
 
           {/* Main Content */}
           <main className="lg:col-span-3">
-            {/* Breadcrumb - Mobile */}
-            <div className={cn(
-              'lg:hidden flex items-center gap-2 text-sm text-muted-foreground mb-4',
-              isRTL && 'flex-row-reverse'
-            )}>
-              <Link href={`/courses/${course.slug}`} className="hover:text-foreground transition-colors">
-                {t('lesson.backToCourse')}
-              </Link>
+            {/* Breadcrumb - Desktop */}
+            <div className="hidden lg:block mb-6">
+              <Breadcrumb items={breadcrumbItems} />
             </div>
 
             {/* Lesson Header */}

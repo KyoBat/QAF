@@ -18,3 +18,15 @@ export {
   SelectItem,
   SelectSeparator,
 } from './select'
+export { Breadcrumb, type BreadcrumbItem, type BreadcrumbProps } from './breadcrumb'
+export {
+  Sheet,
+  SheetPortal,
+  SheetOverlay,
+  SheetTrigger,
+  SheetClose,
+  SheetContent,
+  SheetHeader,
+  SheetTitle,
+  SheetDescription,
+} from './sheet'
