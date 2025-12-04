@@ -22,7 +22,7 @@ export const aqeedahMeta: CourseMeta = {
   level: 'beginner',
   duration: '6h 00min',
   instructor: 'Sheikh Ibrahim Al-Aqidi',
-  image: '/images/courses/aqeedah.jpg',
+  image: '/images/courses/aqeedah.svg',
   tags: ['aqeedah', 'faith', 'pillars', 'tawheed', 'iman'],
   featured: true,
   published: true,

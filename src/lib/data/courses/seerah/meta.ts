@@ -22,7 +22,7 @@ export const seerahMeta: CourseMeta = {
   level: 'intermediate',
   duration: '12h 00min',
   instructor: 'Dr. Yasir Al-Siyari',
-  image: '/images/courses/seerah.jpg',
+  image: '/images/courses/seerah.svg',
   tags: ['seerah', 'prophet', 'history', 'biography'],
   featured: false,
   published: true,

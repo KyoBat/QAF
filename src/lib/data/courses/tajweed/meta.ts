@@ -22,7 +22,7 @@ export const tajweedMeta: CourseMeta = {
   level: 'beginner',
   duration: '6h 30min',
   instructor: 'Sheikh Ahmad Al-Qari',
-  image: '/images/courses/tajweed-intro.jpg',
+  image: '/images/courses/tajweed.svg',
   tags: ['tajweed', 'quran', 'recitation', 'beginner'],
   featured: true,
   published: true,

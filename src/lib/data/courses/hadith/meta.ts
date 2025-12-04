@@ -22,7 +22,7 @@ export const hadithMeta: CourseMeta = {
   level: 'intermediate',
   duration: '7h 30min',
   instructor: 'Sheikh Khalid Al-Muhaddith',
-  image: '/images/courses/hadith.jpg',
+  image: '/images/courses/hadith.svg',
   tags: ['hadith', 'isnad', 'authentication', 'sciences'],
   featured: false,
   published: true,
