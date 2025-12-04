@@ -270,14 +270,25 @@ interface CollapsibleMindMapProps {
   title?: string;
   className?: string;
   defaultExpanded?: boolean;
+  locale?: string;
 }
 
 export default function CollapsibleMindMap({ 
   data, 
   title, 
   className = '',
-  defaultExpanded = false 
+  defaultExpanded = false,
+  locale = 'fr'
 }: CollapsibleMindMapProps) {
+  // Translations
+  const translations = {
+    ar: { expandAll: 'فتح الكل', collapseAll: 'إغلاق الكل', openBranch: 'اضغط لفتح الفرع', closeBranch: 'اضغط لإغلاق الفرع' },
+    en: { expandAll: 'Expand All', collapseAll: 'Collapse All', openBranch: 'Click to expand', closeBranch: 'Click to collapse' },
+    fr: { expandAll: 'Tout ouvrir', collapseAll: 'Tout fermer', openBranch: 'Cliquer pour ouvrir', closeBranch: 'Cliquer pour fermer' },
+  };
+  const t = translations[locale as keyof typeof translations] || translations.fr;
+  const isRTL = locale === 'ar';
+
   // État pour tracker quels nodes sont expanded
   const [expandedNodes, setExpandedNodes] = useState<Set<string>>(() => {
     const initial = new Set<string>();
@@ -348,14 +359,14 @@ export default function CollapsibleMindMap({
               className="px-3 py-1.5 text-sm bg-green-500 text-white rounded-lg hover:bg-green-600 transition-colors flex items-center gap-1"
             >
               <span>+</span>
-              <span>فتح الكل</span>
+              <span>{t.expandAll}</span>
             </button>
             <button
               onClick={collapseAll}
               className="px-3 py-1.5 text-sm bg-slate-500 text-white rounded-lg hover:bg-slate-600 transition-colors flex items-center gap-1"
             >
               <span>−</span>
-              <span>إغلاق الكل</span>
+              <span>{t.collapseAll}</span>
             </button>
           </div>
         </div>
@@ -381,14 +392,14 @@ export default function CollapsibleMindMap({
       </div>
       
       {/* Légende */}
-      <div className="mt-4 flex justify-center gap-4 text-sm text-slate-600 dark:text-slate-400" dir="rtl">
+      <div className={`mt-4 flex justify-center gap-4 text-sm text-slate-600 dark:text-slate-400 ${isRTL ? 'flex-row-reverse' : ''}`} dir={isRTL ? 'rtl' : 'ltr'}>
         <span className="flex items-center gap-1">
           <span className="inline-flex items-center justify-center w-5 h-5 rounded-full bg-white border-2 border-green-500 text-xs font-bold">+</span>
-          اضغط لفتح الفرع
+          {t.openBranch}
         </span>
         <span className="flex items-center gap-1">
           <span className="inline-flex items-center justify-center w-5 h-5 rounded-full bg-white border-2 border-slate-500 text-xs font-bold">−</span>
-          اضغط لإغلاق الفرع
+          {t.closeBranch}
         </span>
       </div>
     </div>

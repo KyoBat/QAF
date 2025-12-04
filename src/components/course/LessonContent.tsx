@@ -6,11 +6,26 @@
 
 'use client'
 
+import dynamic from 'next/dynamic'
 import ReactMarkdown from 'react-markdown'
 import remarkGfm from 'remark-gfm'
 import { useLocale } from '@/components/providers'
 import { cn } from '@/lib/utils'
 import type { Lesson } from '@/lib/schemas'
+import { getMindMapForLesson } from '@/lib/data/mindmaps'
+
+// Import dynamique du MindMap pour éviter les erreurs SSR
+const CollapsibleMindMap = dynamic(
+  () => import('@/components/mindmap/CollapsibleMindMap'),
+  { 
+    ssr: false,
+    loading: () => (
+      <div className="w-full h-[400px] bg-slate-100 dark:bg-slate-800 rounded-xl flex items-center justify-center my-6">
+        <div className="animate-pulse text-slate-500">جاري تحميل الخريطة الذهنية...</div>
+      </div>
+    ),
+  }
+)
 
 interface LessonContentProps {
   lesson: Lesson
@@ -20,6 +35,16 @@ interface LessonContentProps {
 export function LessonContent({ lesson, className }: LessonContentProps) {
   const { locale, isRTL } = useLocale()
   const content = lesson.content[locale as keyof typeof lesson.content] || lesson.content.fr
+  
+  // Get MindMap data for this lesson with current locale
+  const mindMapData = getMindMapForLesson(lesson.id, locale)
+  
+  // Title for mind map based on locale
+  const mindMapTitle = locale === 'ar' 
+    ? 'الخريطة الذهنية التفاعلية' 
+    : locale === 'en' 
+      ? 'Interactive Mind Map' 
+      : 'Carte Mentale Interactive'
 
   return (
     <div className={cn('prose-content', isRTL && 'text-right', className)}>
@@ -149,6 +174,18 @@ export function LessonContent({ lesson, className }: LessonContentProps) {
       >
         {content}
       </ReactMarkdown>
+      
+      {/* Interactive MindMap at the end of lesson */}
+      {mindMapData && (
+        <div className="mt-10 pt-8 border-t border-border">
+          <CollapsibleMindMap 
+            data={mindMapData}
+            title={mindMapTitle}
+            defaultExpanded={false}
+            locale={locale}
+          />
+        </div>
+      )}
     </div>
   )
 }
