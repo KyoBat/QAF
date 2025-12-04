@@ -168,6 +168,76 @@ export const introductionFiqhData: MindMapDataMultiLang = {
 };
 
 // ============================================
+// AQEEDAH - Qadar (009-destin)
+// ============================================
+export const qadarData: MindMapDataMultiLang = {
+  id: 'root',
+  label: { ar: 'الإيمان بالقدر', en: 'Belief in Divine Decree', fr: 'La Foi au Destin' },
+  icon: '📜',
+  color: '#1e3a5f',
+  children: [
+    {
+      id: 'maratib',
+      label: { ar: 'مراتب القدر الأربعة', en: 'Four Levels of Qadar', fr: 'Les Quatre Niveaux du Qadar' },
+      icon: '🔢',
+      color: '#2d6a4f',
+      children: [
+        { id: 'ilm', label: { ar: '١. العلم', en: '1. Knowledge', fr: '1. La Science' }, icon: '🧠' },
+        { id: 'kitabah', label: { ar: '٢. الكتابة', en: '2. Writing', fr: '2. L\'Écriture' }, icon: '📝' },
+        { id: 'mashiah', label: { ar: '٣. المشيئة', en: '3. Will', fr: '3. La Volonté' }, icon: '⚡' },
+        { id: 'khalq', label: { ar: '٤. الخلق', en: '4. Creation', fr: '4. La Création' }, icon: '🌟' },
+      ],
+    },
+    {
+      id: 'ilm-detail',
+      label: { ar: 'العلم الإلهي', en: 'Divine Knowledge', fr: 'La Science Divine' },
+      icon: '🧠',
+      color: '#7b2cbf',
+      children: [
+        { id: 'past', label: { ar: 'ما كان', en: 'What was', fr: 'Ce qui a été' }, icon: '⏮️' },
+        { id: 'present', label: { ar: 'ما هو كائن', en: 'What is', fr: 'Ce qui est' }, icon: '▶️' },
+        { id: 'future', label: { ar: 'ما سيكون', en: 'What will be', fr: 'Ce qui sera' }, icon: '⏭️' },
+        { id: 'hypothetical', label: { ar: 'لو كان كيف يكون', en: 'What would be', fr: 'Ce qui serait' }, icon: '❓' },
+      ],
+    },
+    {
+      id: 'lawh-mahfuz',
+      label: { ar: 'اللوح المحفوظ', en: 'Preserved Tablet', fr: 'Tablette Préservée' },
+      icon: '📖',
+      color: '#0891b2',
+      children: [
+        { id: 'written-before', label: { ar: 'كُتب قبل الخلق', en: 'Written before creation', fr: 'Écrit avant la création' }, icon: '✍️' },
+        { id: '50000-years', label: { ar: 'قبل ٥٠ ألف سنة', en: '50,000 years before', fr: '50 000 ans avant' }, icon: '📅' },
+        { id: 'everything', label: { ar: 'كل شيء مكتوب', en: 'Everything is written', fr: 'Tout est écrit' }, icon: '📋' },
+      ],
+    },
+    {
+      id: 'mawqif',
+      label: { ar: 'موقف المؤمن من القدر', en: 'Believer\'s Attitude', fr: 'Attitude du Croyant' },
+      icon: '🤲',
+      color: '#c9184a',
+      children: [
+        { id: 'rida', label: { ar: 'الرضا', en: 'Contentment', fr: 'Agrément' }, icon: '😊' },
+        { id: 'sabr', label: { ar: 'الصبر', en: 'Patience', fr: 'Patience' }, icon: '💪' },
+        { id: 'istirja', label: { ar: 'الاسترجاع', en: 'Saying Inna lillah', fr: 'Dire Inna lillah' }, icon: '🙏' },
+        { id: 'no-blame', label: { ar: 'عدم التسخط', en: 'No resentment', fr: 'Pas de ressentiment' }, icon: '❌' },
+      ],
+    },
+    {
+      id: 'firaq',
+      label: { ar: 'مذاهب الفرق في القدر', en: 'Sects on Qadar', fr: 'Sectes sur le Qadar' },
+      icon: '⚠️',
+      color: '#9c6644',
+      children: [
+        { id: 'qadariyyah', label: { ar: 'القدرية (نفاة)', en: 'Qadariyyah (Deniers)', fr: 'Qadariyyah (Négateurs)' }, icon: '🚫' },
+        { id: 'jabriyyah', label: { ar: 'الجبرية (غلاة)', en: 'Jabriyyah (Extremists)', fr: 'Jabriyyah (Extrémistes)' }, icon: '⛓️' },
+        { id: 'ahlussunnah', label: { ar: 'أهل السنة (الوسط)', en: 'Ahlus-Sunnah (Middle)', fr: 'Ahlus-Sunnah (Milieu)' }, icon: '✅' },
+      ],
+    },
+  ],
+};
+
+// ============================================
 // AQEEDAH - Arkan Tawhid (014-arkan-tawhid)
 // ============================================
 export const arkanTawhidData: MindMapDataMultiLang = {
@@ -917,6 +987,7 @@ export const salatMasbuqData: MindMapDataMultiLang = {
 export const lessonMindMapsMultiLang: Record<string, MindMapDataMultiLang> = {
   // Aqeedah lessons
   'aqeedah:lesson-001': introductionAqeedahData,
+  'aqeedah:lesson-009': qadarData,
   'aqeedah:lesson-014': arkanTawhidData,
   // Fiqh lessons
   'fiqh:lesson-001': introductionFiqhData,

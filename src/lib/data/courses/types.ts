@@ -17,11 +17,30 @@ export interface Resource {
   description?: string
 }
 
+/**
+ * Structure de données pour les Mind Maps
+ */
+export interface MindMapData {
+  id: string
+  label: string
+  labelAr?: string
+  children?: MindMapData[]
+  color?: string
+  icon?: string
+}
+
+export interface LessonMindMap {
+  id: string
+  title: LocalizedString
+  data: MindMapData
+}
+
 export interface LessonMeta {
   id: string
   duration: string
   order: number
   videoUrl?: string
+  mindmaps?: LessonMindMap[]
 }
 
 export interface LessonContent {

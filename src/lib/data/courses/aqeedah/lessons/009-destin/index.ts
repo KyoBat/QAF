@@ -7,6 +7,7 @@ import { Lesson } from '../../../types'
 import { content as contentFr } from './fr'
 import { content as contentAr } from './ar'
 import { content as contentEn } from './en'
+import { maratibQadarMindMap } from '../../mindmaps'
 
 export const lesson009: Lesson = {
   id: 'lesson-009',
@@ -22,4 +23,15 @@ export const lesson009: Lesson = {
     ar: contentAr,
     en: contentEn
   },
+  mindmaps: [
+    {
+      id: 'maratib-qadar',
+      title: {
+        fr: 'Les Quatre Niveaux du Qadar',
+        ar: 'مراتب القدر الأربعة',
+        en: 'The Four Levels of Qadar',
+      },
+      data: maratibQadarMindMap,
+    },
+  ],
 }

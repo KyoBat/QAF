@@ -7,6 +7,7 @@ import { Lesson } from '../../../types'
 import { content as contentFr } from './fr'
 import { content as contentAr } from './ar'
 import { content as contentEn } from './en'
+import { aqsamTawhidMindMap, shurutKalimahMindMap } from '../../mindmaps'
 
 export const lesson014: Lesson = {
   id: 'lesson-014',
@@ -22,4 +23,24 @@ export const lesson014: Lesson = {
     ar: contentAr,
     en: contentEn,
   },
+  mindmaps: [
+    {
+      id: 'aqsam-tawhid',
+      title: {
+        fr: 'Les Trois Types de Tawhid',
+        ar: 'أقسام التوحيد الثلاثة',
+        en: 'The Three Types of Tawhid',
+      },
+      data: aqsamTawhidMindMap,
+    },
+    {
+      id: 'shurut-kalimah',
+      title: {
+        fr: 'Les Conditions de La ilaha illa Allah',
+        ar: 'شروط لا إله إلا الله',
+        en: 'Conditions of La ilaha illa Allah',
+      },
+      data: shurutKalimahMindMap,
+    },
+  ],
 }
