@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 144">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#10b981"/>
+      <stop offset="100%" style="stop-color:#059669"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- Background circle -->
+  <rect width="144" height="144" rx="28" fill="url(#bg)"/>
+  
+  <!-- Book icon -->
+  <g transform="translate(32, 32)">
+    <!-- Open book -->
+    <path d="M40 15 L40 70 Q20 60 5 70 L5 20 Q20 10 40 15 Z" 
+          fill="white" opacity="0.9"/>
+    <path d="M40 15 L40 70 Q60 60 75 70 L75 20 Q60 10 40 15 Z" 
+          fill="white" opacity="0.95"/>
+    
+    <!-- Book spine -->
+    <line x1="40" y1="15" x2="40" y2="70" stroke="white" stroke-width="2" opacity="0.5"/>
+    
+    <!-- Text lines left -->
+    <line x1="12" y1="30" x2="32" y2="28" stroke="#059669" stroke-width="2" stroke-linecap="round" opacity="0.4"/>
+    <line x1="12" y1="40" x2="32" y2="38" stroke="#059669" stroke-width="2" stroke-linecap="round" opacity="0.4"/>
+    <line x1="12" y1="50" x2="28" y2="48" stroke="#059669" stroke-width="2" stroke-linecap="round" opacity="0.4"/>
+    
+    <!-- Text lines right -->
+    <line x1="48" y1="28" x2="68" y2="30" stroke="#059669" stroke-width="2" stroke-linecap="round" opacity="0.4"/>
+    <line x1="48" y1="38" x2="68" y2="40" stroke="#059669" stroke-width="2" stroke-linecap="round" opacity="0.4"/>
+    <line x1="52" y1="48" x2="68" y2="50" stroke="#059669" stroke-width="2" stroke-linecap="round" opacity="0.4"/>
+  </g>
+</svg>

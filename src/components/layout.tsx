@@ -157,66 +157,46 @@ export function Header() {
 }
 
 export function Footer() {
-  const { locale, t } = useLocale()
+  const { locale, t, isRTL } = useLocale()
   const year = new Date().getFullYear()
-
-  // Textes multilingues pour le message de sadaqa jariya
-  const sadaqaMessage = {
-    ar: 'هذا المشروع مجاني ابتغاء وجه الله. إن أردتم دعمه، ادعوا لنا ولوالدينا ولجميع المسلمين',
-    en: 'This project is free, seeking only the pleasure of Allah. If you wish to support it, make du\'a for us, our parents, and all Muslims',
-    fr: 'Ce projet est gratuit, uniquement pour l\'agrément d\'Allah. Si vous souhaitez le soutenir, faites une du\'a pour nous, nos parents et tous les musulmans',
-  }
-
-  // Du'a - Hadiths authentiques
-  const duaText = {
-    ar: '« اللَّهُمَّ إِنِّي أَعُوذُ بِكَ أَنْ أُشْرِكَ بِكَ وَأَنَا أَعْلَمُ، وَأَسْتَغْفِرُكَ لِمَا لَا أَعْلَمُ »\n« اللَّهُمَّ انْفَعْنِي بِمَا عَلَّمْتَنِي، وَعَلِّمْنِي مَا يَنْفَعُنِي، وَزِدْنِي عِلْمًا »',
-    en: '"O Allah, I seek refuge in You from associating anything with You knowingly, and I seek Your forgiveness for what I do not know"\n"O Allah, benefit me with what You have taught me, teach me what will benefit me, and increase me in knowledge"',
-    fr: '« Ô Allah, je cherche refuge auprès de Toi contre le fait de T\'associer quoi que ce soit sciemment, et je Te demande pardon pour ce que j\'ignore »\n« Ô Allah, fais-moi bénéficier de ce que Tu m\'as enseigné, enseigne-moi ce qui me sera utile, et augmente ma science »',
-  }
-
-  const duaSource = {
-    ar: 'صحيح الأدب المفرد • صحيح الترمذي',
-    en: 'Sahih Al-Adab Al-Mufrad • Sahih At-Tirmidhi',
-    fr: 'Sahih Al-Adab Al-Mufrad • Sahih At-Tirmidhi',
-  }
-
-  const lang = locale as keyof typeof sadaqaMessage
 
   return (
     <footer className="bg-gray-50 dark:bg-gray-900 border-t border-gray-200 dark:border-gray-800">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-        {/* Section Sadaqa Jariya */}
-        <div className="text-center mb-8 pb-6 border-b border-gray-200 dark:border-gray-700">
-          <div className="inline-flex items-center justify-center w-12 h-12 bg-emerald-100 dark:bg-emerald-900/30 rounded-full mb-4">
-            <span className="text-2xl">🤲</span>
-          </div>
-          <p className="text-gray-600 dark:text-gray-400 mb-4 max-w-2xl mx-auto">
-            {sadaqaMessage[lang]}
+      {/* Section Du'a - Séparée et plus discrète */}
+      <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
+        <div className={cn(
+          "bg-emerald-50/50 dark:bg-emerald-900/10 rounded-xl p-4 text-center",
+          isRTL && "font-arabic"
+        )}>
+          <p className={cn(
+            "text-emerald-700 dark:text-emerald-400",
+            locale === 'ar' ? 'text-lg leading-loose' : 'text-sm italic'
+          )}>
+            {locale === 'ar' 
+              ? '« اللَّهُمَّ انْفَعْنِي بِمَا عَلَّمْتَنِي، وَعَلِّمْنِي مَا يَنْفَعُنِي، وَزِدْنِي عِلْمًا »'
+              : locale === 'en'
+              ? '"O Allah, benefit me with what You have taught me, teach me what will benefit me, and increase me in knowledge"'
+              : '« Ô Allah, fais-moi bénéficier de ce que Tu m\'as enseigné, enseigne-moi ce qui me sera utile, et augmente ma science »'
+            }
           </p>
-          <blockquote className="bg-emerald-50 dark:bg-emerald-900/20 rounded-xl p-4 max-w-2xl mx-auto border border-emerald-200 dark:border-emerald-800">
-            <p className={`text-emerald-800 dark:text-emerald-300 font-medium ${locale === 'ar' ? 'text-xl font-arabic' : 'text-base italic'}`} dir={locale === 'ar' ? 'rtl' : 'ltr'}>
-              {duaText[lang]}
-            </p>
-            <cite className="block mt-2 text-sm text-emerald-600 dark:text-emerald-400">
-              — {duaSource[lang]}
-            </cite>
-          </blockquote>
         </div>
+      </div>
 
-        {/* Footer classique */}
-        <div className="flex flex-col md:flex-row items-center justify-between gap-4">
-          <div className="flex items-center gap-2">
-            <BookOpen className="w-5 h-5 text-emerald-600" />
-            <span className="font-semibold text-gray-900 dark:text-white">{t('app.name')}</span>
+      {/* Footer compact */}
+      <div className="border-t border-gray-200 dark:border-gray-800">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
+          <div className="flex flex-col sm:flex-row items-center justify-between gap-4 text-sm text-gray-500 dark:text-gray-400">
+            <div className="flex items-center gap-2">
+              <BookOpen className="w-4 h-4 text-emerald-600" />
+              <span className="font-medium text-gray-700 dark:text-gray-300">{t('app.name')}</span>
+            </div>
+            
+            <p>{t('footer.copyright', { year })}</p>
+            
+            <p className="flex items-center gap-1">
+              {t('footer.madeWith')}
+            </p>
           </div>
-          
-          <p className="text-sm text-gray-500 dark:text-gray-400">
-            {t('footer.copyright', { year })}
-          </p>
-          
-          <p className="text-sm text-gray-500 dark:text-gray-400">
-            {t('footer.madeWith')}
-          </p>
         </div>
       </div>
     </footer>

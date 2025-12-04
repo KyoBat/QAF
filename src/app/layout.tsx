@@ -95,9 +95,11 @@ export const metadata: Metadata = {
     },
   },
   icons: {
-    icon: "/favicon.ico",
-    shortcut: "/favicon-16x16.png",
-    apple: "/apple-touch-icon.png",
+    icon: [
+      { url: "/favicon.svg", type: "image/svg+xml" },
+      { url: "/icons/icon-192x192.svg", sizes: "192x192", type: "image/svg+xml" },
+    ],
+    apple: "/icons/icon-192x192.svg",
   },
   manifest: "/site.webmanifest",
 };

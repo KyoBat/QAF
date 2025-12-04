@@ -4,6 +4,7 @@ import { createContext, useContext, useEffect, useState } from 'react'
 import { useLocaleStore, useThemeStore } from '@/lib/store'
 import { locales, getTranslation, interpolate, type Locale } from '@/locales'
 import { ToastProvider } from '@/components/ui/toast'
+import { OnboardingModal } from '@/components/ui/onboarding'
 
 // Theme Provider
 interface ThemeContextType {
@@ -115,6 +116,7 @@ export function Providers({ children }: { children: React.ReactNode }) {
       <LocaleProvider>
         <ToastProvider>
           {children}
+          <OnboardingModal />
         </ToastProvider>
       </LocaleProvider>
     </ThemeProvider>

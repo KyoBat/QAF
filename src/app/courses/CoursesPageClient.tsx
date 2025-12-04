@@ -1,13 +1,15 @@
 /**
  * Courses Page Client Component
  * Gère les filtres et l'affichage interactif des cours
+ * Avec persistance URL et empty states
  */
 
 'use client'
 
-import { useState, useMemo, useEffect } from 'react'
-import { useSearchParams } from 'next/navigation'
-import { CourseCard, CourseFilters } from '@/components/course'
+import { useState, useMemo, useEffect, useCallback } from 'react'
+import { useSearchParams, useRouter, usePathname } from 'next/navigation'
+import { CourseCard, CourseFilters, CourseCardSkeleton } from '@/components/course'
+import { EmptyState } from '@/components/ui/empty-state'
 import { useLocale } from '@/components/providers'
 import { cn } from '@/lib/utils'
 import type { CourseFilters as Filters } from '@/lib/schemas'
@@ -20,7 +22,10 @@ interface CoursesPageClientProps {
 export function CoursesPageClient({ initialCourses }: CoursesPageClientProps) {
   const { locale, t, isRTL } = useLocale()
   const searchParams = useSearchParams()
+  const router = useRouter()
+  const pathname = usePathname()
   const [filters, setFilters] = useState<Filters>({})
+  const [isLoading, setIsLoading] = useState(true)
 
   // Initialiser les filtres depuis l'URL
   useEffect(() => {
@@ -33,7 +38,26 @@ export function CoursesPageClient({ initialCourses }: CoursesPageClientProps) {
       level: level as Filters['level'] || undefined,
       search: search || undefined,
     })
+    setIsLoading(false)
   }, [searchParams])
+
+  // Persister les filtres dans l'URL
+  const updateFilters = useCallback((newFilters: Filters) => {
+    setFilters(newFilters)
+    
+    const params = new URLSearchParams()
+    if (newFilters.category) params.set('category', newFilters.category)
+    if (newFilters.level) params.set('level', newFilters.level)
+    if (newFilters.search) params.set('search', newFilters.search)
+    
+    const queryString = params.toString()
+    router.push(queryString ? `${pathname}?${queryString}` : pathname, { scroll: false })
+  }, [router, pathname])
+
+  // Reset tous les filtres
+  const resetFilters = useCallback(() => {
+    updateFilters({})
+  }, [updateFilters])
 
   // Filter courses based on current filters
   const filteredCourses = useMemo(() => {
@@ -86,35 +110,29 @@ export function CoursesPageClient({ initialCourses }: CoursesPageClientProps) {
         {/* Filters */}
         <CourseFilters 
           filters={filters} 
-          onFiltersChange={setFilters}
+          onFiltersChange={updateFilters}
           className="mb-8"
         />
 
         {/* Courses Grid */}
-        {filteredCourses.length > 0 ? (
+        {isLoading ? (
+          <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
+            {Array.from({ length: 6 }).map((_, i) => (
+              <CourseCardSkeleton key={i} />
+            ))}
+          </div>
+        ) : filteredCourses.length > 0 ? (
           <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
             {filteredCourses.map((course) => (
               <CourseCard key={course.id} course={course} />
             ))}
           </div>
         ) : (
-          <div className={cn(
-            'text-center py-16',
-            isRTL && 'font-arabic'
-          )}>
-            <div className="text-6xl mb-4">📚</div>
-            <h3 className="text-xl font-semibold text-foreground mb-2">
-              {t('courses.noCourses')}
-            </h3>
-            <p className="text-muted-foreground">
-              {locale === 'ar'
-                ? 'جرب تعديل معايير البحث'
-                : locale === 'en'
-                ? 'Try adjusting your search criteria'
-                : 'Essayez de modifier vos critères de recherche'
-              }
-            </p>
-          </div>
+          <EmptyState 
+            type="no-results" 
+            searchTerm={filters.search}
+            onReset={resetFilters}
+          />
         )}
       </div>
     </div>
