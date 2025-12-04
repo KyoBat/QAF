@@ -30,3 +30,5 @@ export {
   SheetTitle,
   SheetDescription,
 } from './sheet'
+export { Command, type CommandProps, type SearchResult } from './command'
+export { ToastProvider, useToast, type Toast, type ToastType } from './toast'

@@ -31,6 +31,7 @@ import {
 import { LessonContent, YouTubeEmbed, ResourceCard } from '@/components/course'
 import { useLocale } from '@/components/providers'
 import { useProgressStore } from '@/lib/store'
+import { useToast } from '@/components/ui/toast'
 import { cn } from '@/lib/utils'
 import { isYouTubeUrl } from '@/lib/utils/resources'
 import type { Course, Lesson } from '@/lib/schemas'
@@ -52,6 +53,7 @@ export function LessonPageClient({ data }: LessonPageClientProps) {
   const { lesson, course, prevLesson, nextLesson, lessonNumber, totalLessons } = data
   const { locale, t, isRTL } = useLocale()
   const { isLessonCompleted, markLessonComplete, getCourseProgress } = useProgressStore()
+  const { success } = useToast()
   const [isSheetOpen, setIsSheetOpen] = useState(false)
 
   const title = lesson.title[locale as keyof typeof lesson.title] || lesson.title.fr
@@ -62,6 +64,21 @@ export function LessonPageClient({ data }: LessonPageClientProps) {
   const handleMarkComplete = () => {
     if (!isCompleted) {
       markLessonComplete(course.slug, lesson.id)
+      
+      // Show toast notification
+      const toastTitle = locale === 'ar' 
+        ? 'تم إكمال الدرس!' 
+        : locale === 'en' 
+        ? 'Lesson completed!'
+        : 'Leçon terminée !'
+      
+      const toastDesc = locale === 'ar'
+        ? `${lessonNumber} من ${totalLessons} دروس مكتملة`
+        : locale === 'en'
+        ? `${lessonNumber} of ${totalLessons} lessons completed`
+        : `${lessonNumber} sur ${totalLessons} leçons terminées`
+      
+      success(toastTitle, toastDesc)
     }
   }
 

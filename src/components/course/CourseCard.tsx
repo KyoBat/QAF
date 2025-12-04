@@ -8,6 +8,7 @@
 'use client'
 
 import Link from 'next/link'
+import Image from 'next/image'
 import { Clock, BookOpen, User, ChevronRight, CheckCircle2 } from 'lucide-react'
 import { Card, CardHeader, CardContent, CardFooter } from '@/components/ui/card'
 import { Badge } from '@/components/ui/badge'
@@ -53,6 +54,19 @@ const levelVariants: Record<CourseLevel, 'success' | 'warning' | 'info'> = {
   advanced: 'info',
 }
 
+// Category icons/emojis for placeholder
+const categoryEmojis: Record<CourseCategory, string> = {
+  quran: '📖',
+  tajweed: '🎙️',
+  tafsir: '📚',
+  hadith: '📜',
+  fiqh: '⚖️',
+  aqeedah: '💫',
+  seerah: '🌙',
+  arabic: '🔤',
+  other: '📕',
+}
+
 // Helper pour obtenir le nombre de leçons
 function getLessonsCount(course: CourseData): number {
   if ('lessonsCount' in course) {
@@ -88,20 +102,44 @@ export function CourseCard({ course, className }: CourseCardProps) {
       'group relative overflow-hidden transition-all duration-300 hover:shadow-lg hover:border-primary/20',
       className
     )}>
-      {/* Featured indicator */}
-      {course.featured && (
-        <div className="absolute top-0 right-0 w-0 h-0 border-t-[40px] border-t-primary border-l-[40px] border-l-transparent" />
-      )}
-      
-      {/* Progress completed indicator */}
-      {progress === 100 && (
-        <div className="absolute top-3 left-3 z-10">
-          <div className="flex items-center gap-1 px-2 py-1 bg-success/90 text-success-foreground rounded-full text-xs font-medium">
-            <CheckCircle2 className="h-3 w-3" />
-            <span>{locale === 'ar' ? 'مكتمل' : locale === 'en' ? 'Complete' : 'Terminé'}</span>
-          </div>
+      {/* Course Image or Placeholder */}
+      <Link href={`/courses/${course.slug}`} className="block relative">
+        <div className="relative h-40 bg-gradient-to-br from-primary/10 via-primary/5 to-muted overflow-hidden">
+          {course.image && course.image !== '/images/courses/default.jpg' ? (
+            <Image
+              src={course.image}
+              alt={title}
+              fill
+              className="object-cover transition-transform duration-300 group-hover:scale-105"
+              sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
+            />
+          ) : (
+            <div className="absolute inset-0 flex items-center justify-center">
+              <span className="text-6xl opacity-30 group-hover:scale-110 transition-transform duration-300">
+                {categoryEmojis[course.category]}
+              </span>
+            </div>
+          )}
+          
+          {/* Gradient overlay */}
+          <div className="absolute inset-0 bg-gradient-to-t from-background/80 via-transparent to-transparent" />
         </div>
-      )}
+        
+        {/* Featured indicator */}
+        {course.featured && (
+          <div className="absolute top-0 right-0 w-0 h-0 border-t-[40px] border-t-primary border-l-[40px] border-l-transparent" />
+        )}
+        
+        {/* Progress completed indicator */}
+        {progress === 100 && (
+          <div className="absolute top-3 left-3 z-10">
+            <div className="flex items-center gap-1 px-2 py-1 bg-success/90 text-success-foreground rounded-full text-xs font-medium shadow-sm">
+              <CheckCircle2 className="h-3 w-3" />
+              <span>{locale === 'ar' ? 'مكتمل' : locale === 'en' ? 'Complete' : 'Terminé'}</span>
+            </div>
+          </div>
+        )}
+      </Link>
 
       <CardHeader className="pb-3">
         <div className="flex items-start justify-between gap-2 mb-2">

@@ -3,6 +3,7 @@
 import { createContext, useContext, useEffect, useState } from 'react'
 import { useLocaleStore, useThemeStore } from '@/lib/store'
 import { locales, getTranslation, interpolate, type Locale } from '@/locales'
+import { ToastProvider } from '@/components/ui/toast'
 
 // Theme Provider
 interface ThemeContextType {
@@ -112,7 +113,9 @@ export function Providers({ children }: { children: React.ReactNode }) {
   return (
     <ThemeProvider>
       <LocaleProvider>
-        {children}
+        <ToastProvider>
+          {children}
+        </ToastProvider>
       </LocaleProvider>
     </ThemeProvider>
   )

@@ -4,8 +4,21 @@ import Link from 'next/link'
 import { useState } from 'react'
 import { Menu, X, Sun, Moon, Globe, BookOpen } from 'lucide-react'
 import { useLocale, useTheme } from '@/components/providers'
+import { Command } from '@/components/ui/command'
 import { locales, type Locale } from '@/locales'
 import { cn } from '@/lib/utils'
+import { coursesData } from '@/lib/data/courses/index'
+
+// Prepare courses data for Command search
+const commandCourses = coursesData.map(course => ({
+  slug: course.slug,
+  title: course.title,
+  description: course.description,
+  lessons: course.lessons.map(lesson => ({
+    id: lesson.id,
+    title: lesson.title,
+  })),
+}))
 
 export function Header() {
   const { locale, setLocale, t, isRTL } = useLocale()
@@ -54,6 +67,9 @@ export function Header() {
 
           {/* Actions */}
           <div className="flex items-center gap-1">
+            {/* Search Command */}
+            <Command courses={commandCourses} />
+
             {/* Theme */}
             <button
               onClick={toggleTheme}
