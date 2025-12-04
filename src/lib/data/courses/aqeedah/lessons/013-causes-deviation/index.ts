@@ -11,7 +11,7 @@ import { content as contentEn } from './en'
 export const lesson013: Lesson = {
   id: 'lesson-013',
   duration: '40 min',
-  order: 13,
+  order: 14,
   title: {
     fr: 'Les Causes de Déviation de la Croyance Authentique',
     ar: 'أسباب الانحراف عن العقيدة الصحيحة',

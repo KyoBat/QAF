@@ -390,4 +390,26 @@ The Messenger of Allah ﷺ said:
 
 > O Allah, show us the truth as truth and grant us to follow it, and show us falsehood as falsehood and grant us to avoid it.
 > O Allah, teach us what benefits us, let us benefit from what You have taught us, and increase us in knowledge.
-> My Lord, increase me in knowledge. 📖`
+> My Lord, increase me in knowledge. 📖
+
+---
+
+## 🗺️ Mind Map: Summary of the Lesson
+
+| 🎯 Main Concept | 📋 Elements | 📝 Details |
+|:---|:---|:---|
+| **🔷 AQEEDAH** | 📖 Meaning | Firm belief without doubt |
+| | ⚖️ Importance | Foundation of Islam |
+| | 🔑 Source | Quran & Authentic Sunnah |
+| **🏛️ THE 6 PILLARS OF FAITH** | 1️⃣ Allah | Existence, Lordship, Divinity, Names & Attributes |
+| | 2️⃣ Angels | Creatures of light, obey Allah |
+| | 3️⃣ Books | Torah, Gospel, Psalms, Quran |
+| | 4️⃣ Messengers | From Adam to Muhammad ﷺ |
+| | 5️⃣ Last Day | Resurrection, Judgment, Paradise, Hell |
+| | 6️⃣ Divine Decree | Knowledge, Writing, Will, Creation |
+| **📜 HADITH OF JIBRIL** | 📍 Place | Gathering of Companions with Prophet ﷺ |
+| | ❓ Questions | Islam, Iman, Ihsan, the Hour |
+| | 🎯 Purpose | "To teach you your religion" |
+| **💡 WHAT IS FAITH?** | ❌ Not just | Simple knowledge |
+| | ✅ But | Heart + Tongue + Limbs |
+| | 🔍 Example | Iblis knows but doesn't believe |`

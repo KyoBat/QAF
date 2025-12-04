@@ -11,7 +11,7 @@ import { content as contentEn } from './en'
 export const lesson014: Lesson = {
   id: 'lesson-014',
   duration: '45 min',
-  order: 14,
+  order: 4,
   title: {
     fr: 'Les Piliers et Catégories du Tawhid',
     ar: 'أركان التوحيد وأقسامه',

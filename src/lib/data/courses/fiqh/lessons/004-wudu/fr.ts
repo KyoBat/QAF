@@ -162,4 +162,37 @@ L'essuyage devient invalide et le lavage des pieds devient obligatoire dans ces 
 ---
 
 *Le Prophète ﷺ a dit : « Celui qui fait le Wudu comme ce Wudu qui est le mien, puis prie deux Rak'ahs sans y laisser errer ses pensées, ses péchés passés lui seront pardonnés. » (Rapporté par Al-Bukhari et Muslim).*
-`;
+
+---
+
+## 🗺️ Carte Mentale : Résumé du Wudu
+
+| 🎯 Concept Principal | 📋 Éléments | 📝 Détails |
+|:---|:---|:---|
+| **✅ CONDITIONS DE VALIDITÉ** | Islam | Non valide pour mécréant |
+| | Raison | Non valide pour fou |
+| | Discernement | Âge ~7 ans |
+| | Intention | Dans le cœur |
+| | Eau pure | Tahur (pure & purifiante) |
+| | Enlever barrières | Vernis, peinture, etc. |
+| **🔷 ACTES OBLIGATOIRES (FARAID)** | 1️⃣ | Laver le visage |
+| | 2️⃣ | Laver mains jusqu'aux coudes |
+| | 3️⃣ | Essuyer la tête |
+| | 4️⃣ | Laver pieds jusqu'aux chevilles |
+| | 5️⃣ | Ordre (Tartib) |
+| | 6️⃣ | Continuité (Muwalah) |
+| **🌟 ACTES RECOMMANDÉS (SUNAN)** | 📿 Bismillah | Au début |
+| | 🪥 Siwak | Avant rincer bouche |
+| | 3️⃣ | Laver mains 3 fois |
+| | 💨 Mubalaghah | Rincer abondamment (sauf jeûne) |
+| | ✋ Droite d'abord | Commencer par côté droit |
+| | 🔁 3 fois | Chaque membre (sauf tête) |
+| **❌ ANNULATIFS** | 🚽 | Ce qui sort des 2 voies |
+| | 😴 | Sommeil profond |
+| | 🤕 | Perte de conscience |
+| | ✋ | Toucher parties intimes |
+| | 🐪 | Manger viande de chameau |
+| **🧦 ESSUYAGE SUR CHAUSSETTES** | ⏱️ Résident | 24 heures |
+| | 🧳 Voyageur | 72 heures |
+| | ✅ Condition | Portées en état de pureté |
+| | 📍 Méthode | Essuyer dessus seulement |`;

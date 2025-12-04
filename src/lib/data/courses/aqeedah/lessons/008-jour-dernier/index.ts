@@ -10,8 +10,8 @@ import { content as contentEn } from './en'
 
 export const lesson008: Lesson = {
   id: 'lesson-008',
-  duration: '65 min',
-  order: 8,
+  duration: '55 min',
+  order: 11,
   title: {
     fr: 'La Foi au Jour Dernier (Al-Yawm Al-Akhir)',
     ar: 'الإيمان باليوم الآخر',

@@ -174,4 +174,28 @@ Avec l'eau ou son substitut. Détails dans la leçon sur la Najassa.
 ---
 
 *Le Prophète ﷺ a dit : **« La purification est la moitié de la foi. »** (Rapporté par Muslim).*
-`
+
+---
+
+## 🗺️ Carte Mentale : Résumé de la Tahara
+
+| 🎯 Concept Principal | 📋 Éléments | 📝 Détails |
+|:---|:---|:---|
+| **💧 CATÉGORIES D'EAU** | 🟢 Tahur | Pure & Purifiante → ✅ Wudu/Ghusl valide |
+| | 🟡 Tahir | Pure seulement → ❌ Wudu/Ghusl invalide |
+| | 🔴 Najis | Impure → ❌ Boire & usage interdit |
+| **🟢 EAU TAHUR (EXEMPLES)** | 🌧️ Pluie | ✅ Pure |
+| | 🌊 Mer | ✅ «Son eau est purifiante» |
+| | 🏔️ Rivières/Sources | ✅ Dans leur état naturel |
+| | 💎 Zamzam | ✅ Meilleure de toutes les eaux |
+| | ❄️ Neige/Grêle | ✅ Une fois fondue |
+| **🟡 EAU TAHIR (EXEMPLES)** | ☕ Thé/Café | Changée par une substance pure |
+| | 🌹 Eau de rose | Extraite des fleurs |
+| | 🍲 Bouillon | Mélangé avec substance pure |
+| **🔴 EAU NAJIS** | 📏 Règle | Si goût/couleur/odeur changé par impureté |
+| | 🔧 Comment purifier | Ajouter de l'eau, ou attendre changement naturel |
+| **🚿 ENLEVER L'IMPURETÉ** | Hadath (Rituelle) | Wudu pour mineure, Ghusl pour majeure |
+| | Khabath (Physique) | Laver avec eau ou substitut |
+| **🧹 AUTRES OUTILS DE PURIFICATION** | 🏜️ Terre | Pour le Tayammum |
+| | 🪨 Pierres | Pour l'Istijmar |
+| | 🐄 Tannage | Purifie les peaux d'animaux |`

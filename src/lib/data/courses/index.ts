@@ -7,6 +7,7 @@ import { Course } from './types'
 import { tajweedCourse } from './tajweed'
 import { fiqhCourse } from './fiqh'
 import { aqeedahCourse } from './aqeedah'
+import { aqeedah2Course } from './aqeedah-2'
 import { seerahCourse } from './seerah'
 import { hadithCourse } from './hadith'
 
@@ -17,6 +18,7 @@ export * from './types'
 export { tajweedCourse } from './tajweed'
 export { fiqhCourse } from './fiqh'
 export { aqeedahCourse } from './aqeedah'
+export { aqeedah2Course } from './aqeedah-2'
 export { seerahCourse } from './seerah'
 export { hadithCourse } from './hadith'
 
@@ -25,6 +27,7 @@ export const coursesData: Course[] = [
   tajweedCourse,
   fiqhCourse,
   aqeedahCourse,
+  aqeedah2Course,
   seerahCourse,
   hadithCourse,
 ]

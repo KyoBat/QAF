@@ -11,7 +11,7 @@ import { content as contentEn } from './en'
 export const lesson010: Lesson = {
   id: 'lesson-010',
   duration: '50 min',
-  order: 10,
+  order: 3,
   title: {
     fr: 'Les Preuves de l\'Existence d\'Allah',
     ar: 'الأدلة على وجود الله',

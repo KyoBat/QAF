@@ -390,4 +390,26 @@ Le Messager d'Allah ﷺ a dit :
 
 > Ô Allah, montre-nous la vérité comme vérité et accorde-nous de la suivre, et montre-nous le faux comme faux et accorde-nous de l'éviter.
 > Ô Allah, enseigne-nous ce qui nous est utile, fais-nous bénéficier de ce que Tu nous as enseigné, et augmente-nous en science.
-> Seigneur, augmente ma science. 📖`
+> Seigneur, augmente ma science. 📖
+
+---
+
+## 🗺️ Carte Mentale : Résumé de la Leçon
+
+| 🎯 Concept Principal | 📋 Éléments | 📝 Détails |
+|:---|:---|:---|
+| **🔷 LA AQEEDAH** | 📖 Signification | Croyance ferme sans doute |
+| | ⚖️ Importance | Fondement de l'Islam |
+| | 🔑 Source | Coran & Sunna authentique |
+| **🏛️ LES 6 PILIERS DE LA FOI** | 1️⃣ Allah | Existence, Seigneurie, Divinité, Noms & Attributs |
+| | 2️⃣ Anges | Créatures de lumière, obéissent à Allah |
+| | 3️⃣ Livres | Torah, Évangile, Psaumes, Coran |
+| | 4️⃣ Messagers | D'Adam à Muhammad ﷺ |
+| | 5️⃣ Jour Dernier | Résurrection, Jugement, Paradis, Enfer |
+| | 6️⃣ Destin | Science, Écriture, Volonté, Création |
+| **📜 HADITH DE JIBRIL** | 📍 Lieu | Assemblée des Compagnons avec le Prophète ﷺ |
+| | ❓ Questions | Islam, Iman, Ihsan, l'Heure |
+| | 🎯 But | «Pour vous enseigner votre religion» |
+| **💡 QU'EST-CE QUE LA FOI ?** | ❌ Pas juste | Une simple connaissance |
+| | ✅ Mais | Cœur + Langue + Membres |
+| | 🔍 Exemple | Iblis sait mais ne croit pas |`

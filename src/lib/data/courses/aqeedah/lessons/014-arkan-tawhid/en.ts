@@ -255,4 +255,27 @@ We affirm for Allah only what He has affirmed for Himself, and negate only what 
 > O Allah, make us among the people of Tawhid, and let us die upon Tawhid.
 > O Allah, we seek refuge in You from associating anything with You that we know, and we seek Your forgiveness for what we do not know.
 
-وَقُل رَّبِّ زِدْنِي عِلْمًا. 📖`
+وَقُل رَّبِّ زِدْنِي عِلْمًا. 📖
+
+---
+
+## 🗺️ Mind Map: The Categories of Tawhid
+
+| 🎯 Category | 📋 Definition | 📝 Examples | ⚠️ Its Opposite |
+|:---|:---|:---|:---|
+| **🔷 TAWHID AR-RUBUBIYYAH** | Allah's uniqueness in His actions | Creation, Provision, Life/Death | Denying Allah's existence |
+| | | Sovereignty, Management | Associating partners in His actions |
+| **🔶 TAWHID AL-ULUHIYYAH** | Allah's uniqueness in servants' actions | Supplication, Sacrifice, Vow | Shirk in worship |
+| | | Fear, Hope, Love, Reliance | Directing worship to other than Allah |
+| **🔹 TAWHID AL-ASMA WAS-SIFAT** | Allah's uniqueness in Names & Attributes | The All-Knowing, The Merciful | Denial (Ta'til) |
+| | | The Hearing, The Seeing | Anthropomorphism (Tamthil) |
+| | | The Establishment upon the Throne | Distortion (Tahrif) |
+| **📜 LA ILAHA ILLA ALLAH** | 🚫 Negation | No deity worthy of worship | --- |
+| | ✅ Affirmation | Except Allah | --- |
+| **🔑 ITS CONDITIONS** | 1. Knowledge | Knowing its meaning | Ignorance |
+| | 2. Certainty | Firm conviction | Doubt |
+| | 3. Acceptance | Accepting its implications | Rejection |
+| | 4. Submission | Acting according to it | Abandonment |
+| | 5. Truthfulness | Heart matches tongue | Lying |
+| | 6. Sincerity | Wanting Allah's Face | Showing off |
+| | 7. Love | Loving Allah & His Messenger | Hatred |`

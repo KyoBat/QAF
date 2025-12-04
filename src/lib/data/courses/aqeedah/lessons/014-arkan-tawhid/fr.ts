@@ -255,4 +255,27 @@ Nous n'affirmons pour Allah que ce qu'Il a affirmé pour Lui-même, et ne nions 
 > Ô Allah, fais de nous des gens du Tawhid, et fais-nous mourir sur le Tawhid.
 > Ô Allah, nous cherchons refuge auprès de Toi contre le fait de T'associer quelque chose que nous savons, et nous Te demandons pardon pour ce que nous ne savons pas.
 
-وَقُل رَّبِّ زِدْنِي عِلْمًا. 📖`
+وَقُل رَّبِّ زِدْنِي عِلْمًا. 📖
+
+---
+
+## 🗺️ Carte Mentale : Les Catégories du Tawhid
+
+| 🎯 Catégorie | 📋 Définition | 📝 Exemples | ⚠️ Son Opposé |
+|:---|:---|:---|:---|
+| **🔷 TAWHID AR-RUBUBIYYAH** | Unicité d'Allah dans Ses actes | Création, Provision, Vie/Mort | Nier l'existence d'Allah |
+| | | Souveraineté, Gestion | Associer dans Ses actes |
+| **🔶 TAWHID AL-ULUHIYYAH** | Unicité d'Allah dans les actes des serviteurs | Invocation, Sacrifice, Vœu | Shirk dans l'adoration |
+| | | Crainte, Espoir, Amour, Confiance | Diriger l'adoration vers autre qu'Allah |
+| **🔹 TAWHID AL-ASMA WAS-SIFAT** | Unicité d'Allah dans Ses Noms & Attributs | Le Savant, Le Miséricordieux | Négation (Ta'til) |
+| | | L'Entendant, Le Voyant | Anthropomorphisme (Tamthil) |
+| | | L'Établissement sur le Trône | Déformation (Tahrif) |
+| **📜 LA ILAHA ILLA ALLAH** | 🚫 Négation | Pas de divinité digne d'adoration | --- |
+| | ✅ Affirmation | Sauf Allah | --- |
+| **🔑 SES CONDITIONS** | 1. La Science | Connaître sa signification | L'ignorance |
+| | 2. La Certitude | Conviction ferme | Le doute |
+| | 3. L'Acceptation | Accepter ses implications | Le rejet |
+| | 4. La Soumission | Agir selon elle | L'abandon |
+| | 5. La Véracité | Cœur conforme à la langue | Le mensonge |
+| | 6. La Sincérité | Vouloir le Visage d'Allah | L'ostentation |
+| | 7. L'Amour | Aimer Allah & Son Messager | La haine |`

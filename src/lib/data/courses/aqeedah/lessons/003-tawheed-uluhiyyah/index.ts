@@ -11,7 +11,7 @@ import { content as contentEn } from './en'
 export const lesson003: Lesson = {
   id: 'lesson-003',
   duration: '55 min',
-  order: 3,
+  order: 6,
   title: {
     fr: "Tawheed Al-Uluhiyyah - L'Unicité dans l'Adoration",
     ar: 'توحيد الألوهية',

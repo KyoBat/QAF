@@ -11,7 +11,7 @@ import { content as contentEn } from './en'
 export const lesson011: Lesson = {
   id: 'lesson-011',
   duration: '40 min',
-  order: 11,
+  order: 2,
   title: {
     fr: 'Les Sources de la Croyance Authentique',
     ar: 'مصادر تلقي العقيدة الصحيحة',

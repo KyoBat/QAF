@@ -11,7 +11,7 @@ import { content as contentEn } from './en'
 export const lesson004: Lesson = {
   id: 'lesson-004',
   duration: '55 min',
-  order: 4,
+  order: 7,
   title: {
     fr: 'Tawheed Al-Asma wa Sifat (Unicité des Noms et Attributs)',
     ar: 'توحيد الأسماء والصفات',

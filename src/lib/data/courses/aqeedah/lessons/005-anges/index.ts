@@ -10,8 +10,8 @@ import { content as contentEn } from './en'
 
 export const lesson005: Lesson = {
   id: 'lesson-005',
-  duration: '50 min',
-  order: 5,
+  duration: '45 min',
+  order: 8,
   title: {
     fr: 'La Foi aux Anges (Al-Mala\'ika)',
     ar: 'الإيمان بالملائكة',

@@ -10,8 +10,8 @@ import { content as contentEn } from './en'
 
 export const lesson009: Lesson = {
   id: 'lesson-009',
-  duration: '55 min',
-  order: 9,
+  duration: '50 min',
+  order: 12,
   title: {
     fr: 'La Foi au Destin (Al-Qadr)',
     ar: 'الإيمان بالقدر',

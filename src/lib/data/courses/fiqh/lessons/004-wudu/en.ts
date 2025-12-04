@@ -153,4 +153,37 @@ Wiping becomes invalid and washing the feet becomes obligatory in these cases:
 ---
 
 *The Prophet ﷺ said: "He who performs Wudu like this Wudu of mine and then offers two Rak'ahs of prayer without allowing his thoughts to be distracted, his past sins will be forgiven." (Narrated by Al-Bukhari and Muslim).*
-`;
+
+---
+
+## 🗺️ Mind Map: Summary of Wudu
+
+| 🎯 Main Concept | 📋 Elements | 📝 Details |
+|:---|:---|:---|
+| **✅ CONDITIONS OF VALIDITY** | Islam | Not valid for disbeliever |
+| | Sanity | Not valid for insane |
+| | Discernment | Age ~7 years |
+| | Intention | In the heart |
+| | Pure water | Tahur (pure & purifying) |
+| | Remove barriers | Nail polish, paint, etc. |
+| **🔷 OBLIGATORY ACTS (FARAID)** | 1️⃣ | Washing the face |
+| | 2️⃣ | Washing hands to elbows |
+| | 3️⃣ | Wiping the head |
+| | 4️⃣ | Washing feet to ankles |
+| | 5️⃣ | Order (Tartib) |
+| | 6️⃣ | Continuity (Muwalah) |
+| **🌟 RECOMMENDED ACTS (SUNAN)** | 📿 Bismillah | At the beginning |
+| | 🪥 Siwak | Before rinsing mouth |
+| | 3️⃣ | Washing hands 3 times |
+| | 💨 Mubalaghah | Rinsing thoroughly (except fasting) |
+| | ✋ Right first | Start with right side |
+| | 🔁 3 times | Each limb (except head) |
+| **❌ NULLIFIERS** | 🚽 | Whatever exits private parts |
+| | 😴 | Deep sleep |
+| | 🤕 | Loss of consciousness |
+| | ✋ | Touching private part |
+| | 🐪 | Eating camel meat |
+| **🧦 WIPING OVER SOCKS** | ⏱️ Resident | 24 hours |
+| | 🧳 Traveler | 72 hours |
+| | ✅ Condition | Put on while in purity |
+| | 📍 Method | Wipe top of sock only |`;

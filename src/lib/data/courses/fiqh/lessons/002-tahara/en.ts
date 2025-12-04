@@ -174,4 +174,28 @@ With water or its substitute. Details in the Najasah lesson.
 ---
 
 *The Prophet ﷺ said: **"Purification is half of faith."** (Narrated by Muslim).*
-`
+
+---
+
+## 🗺️ Mind Map: Summary of Tahara
+
+| 🎯 Main Concept | 📋 Elements | 📝 Details |
+|:---|:---|:---|
+| **💧 CATEGORIES OF WATER** | 🟢 Tahur | Pure & Purifying → ✅ Wudu/Ghusl valid |
+| | 🟡 Tahir | Pure only → ❌ Wudu/Ghusl invalid |
+| | 🔴 Najis | Impure → ❌ Drinking & use forbidden |
+| **🟢 TAHUR WATER (EXAMPLES)** | 🌧️ Rain | ✅ Pure |
+| | 🌊 Sea | ✅ "Its water is purifying" |
+| | 🏔️ Rivers/Springs | ✅ In their natural state |
+| | 💎 Zamzam | ✅ Best of all waters |
+| | ❄️ Snow/Hail | ✅ When melted |
+| **🟡 TAHIR WATER (EXAMPLES)** | ☕ Tea/Coffee | Changed by a pure substance |
+| | 🌹 Rose water | Extracted from flowers |
+| | 🍲 Broth | Mixed with pure substance |
+| **🔴 NAJIS WATER** | 📏 Rule | If taste/color/smell changed by impurity |
+| | 🔧 How to purify | Add water, or wait for natural change |
+| **🚿 REMOVING IMPURITY** | Hadath (Ritual) | Wudu for minor, Ghusl for major |
+| | Khabath (Physical) | Wash with water or substitute |
+| **🧹 OTHER PURIFICATION TOOLS** | 🏜️ Earth | For Tayammum |
+| | 🪨 Stones | For Istijmar |
+| | 🐄 Tanning | Purifies animal skins |`

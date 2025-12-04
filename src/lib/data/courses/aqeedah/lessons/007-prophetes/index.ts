@@ -10,8 +10,8 @@ import { content as contentEn } from './en'
 
 export const lesson007: Lesson = {
   id: 'lesson-007',
-  duration: '60 min',
-  order: 7,
+  duration: '50 min',
+  order: 10,
   title: {
     fr: 'La Foi aux Prophètes et Messagers (Ar-Rusul)',
     ar: 'الإيمان بالأنبياء والرسل',
