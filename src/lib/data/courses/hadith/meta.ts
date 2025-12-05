@@ -25,7 +25,7 @@ export const hadithMeta: CourseMeta = {
   image: '/images/courses/hadith.svg',
   tags: ['hadith', 'isnad', 'authentication', 'sciences'],
   featured: false,
-  published: true,
+  published: false, // En cours de préparation
   resources: [],
   createdAt: '2025-03-01T00:00:00.000Z',
   updatedAt: '2025-03-01T00:00:00.000Z',

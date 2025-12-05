@@ -25,7 +25,7 @@ export const seerahMeta: CourseMeta = {
   image: '/images/courses/seerah.svg',
   tags: ['seerah', 'prophet', 'history', 'biography'],
   featured: false,
-  published: true,
+  published: false, // En cours de préparation
   resources: [
     {
       type: 'article',

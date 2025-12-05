@@ -25,7 +25,7 @@ export const tajweedMeta: CourseMeta = {
   image: '/images/courses/tajweed.svg',
   tags: ['tajweed', 'quran', 'recitation', 'beginner'],
   featured: false,
-  published: true,
+  published: false, // En cours de préparation
   resources: [
     {
       type: 'pdf',
