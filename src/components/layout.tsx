@@ -2,9 +2,10 @@
 
 import Link from 'next/link'
 import { useState } from 'react'
-import { Menu, X, Sun, Moon, Globe, BookOpen } from 'lucide-react'
+import { Menu, X, Sun, Moon, Globe, BookOpen, Mail } from 'lucide-react'
 import { useLocale, useTheme } from '@/components/providers'
 import { Command } from '@/components/ui/command'
+import { NewsletterForm } from '@/components/ui/newsletter'
 import { locales, type Locale } from '@/locales'
 import { cn } from '@/lib/utils'
 import { coursesData } from '@/lib/data/courses/index'
@@ -162,10 +163,39 @@ export function Footer() {
 
   return (
     <footer className="bg-gray-50 dark:bg-gray-900 border-t border-gray-200 dark:border-gray-800">
-      {/* Section Du'a - Séparée et plus discrète */}
+      {/* Newsletter Section */}
+      <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+        <div className={cn(
+          "flex flex-col md:flex-row items-center gap-6 p-6 bg-emerald-50 dark:bg-emerald-900/20 rounded-2xl",
+          isRTL && "md:flex-row-reverse"
+        )}>
+          <div className={cn(
+            "flex-1 text-center md:text-left",
+            isRTL && "md:text-right"
+          )}>
+            <div className="flex items-center justify-center md:justify-start gap-2 mb-2">
+              <Mail className="h-5 w-5 text-emerald-600" />
+              <h3 className={cn(
+                "text-lg font-semibold text-gray-900 dark:text-white",
+                isRTL && "font-arabic"
+              )}>
+                {t('newsletter.title')}
+              </h3>
+            </div>
+            <p className="text-sm text-gray-600 dark:text-gray-400">
+              {t('newsletter.subtitle')}
+            </p>
+          </div>
+          <div className="w-full md:w-80">
+            <NewsletterForm variant="compact" />
+          </div>
+        </div>
+      </div>
+
+      {/* Section Du'a */}
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
         <div className={cn(
-          "bg-emerald-50/50 dark:bg-emerald-900/10 rounded-xl p-4 text-center",
+          "bg-white/50 dark:bg-gray-800/50 rounded-xl p-4 text-center",
           isRTL && "font-arabic"
         )}>
           <p className={cn(

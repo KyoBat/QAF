@@ -5,6 +5,7 @@
 
 'use client'
 
+import { useMemo } from 'react'
 import Link from 'next/link'
 import { Clock, BookOpen, User, ChevronRight, PlayCircle, CheckCircle2 } from 'lucide-react'
 import { Card, CardHeader, CardContent } from '@/components/ui/card'
@@ -55,10 +56,31 @@ export function CourseDetailClient({ course }: CourseDetailClientProps) {
   const { isLessonCompleted, getCourseProgress } = useProgressStore()
 
   // Sort lessons by order
-  const sortedLessons = [...course.lessons].sort((a, b) => a.order - b.order)
-  const lessonsById = new Map(sortedLessons.map((lesson) => [lesson.id, lesson] as const))
-  const lessonIndexMap = new Map(sortedLessons.map((lesson, index) => [lesson.id, index] as const))
+  const sortedLessons = useMemo(() => 
+    [...course.lessons].sort((a, b) => a.order - b.order),
+    [course.lessons]
+  )
+  
+  const lessonsById = useMemo(() => 
+    new Map(sortedLessons.map((lesson) => [lesson.id, lesson] as const)),
+    [sortedLessons]
+  )
+  
+  const lessonIndexMap = useMemo(() => 
+    new Map(sortedLessons.map((lesson, index) => [lesson.id, index] as const)),
+    [sortedLessons]
+  )
+  
   const hasSections = Array.isArray(course.sections) && course.sections.length > 0
+
+  // Mémoriser les statuts de complétion pour éviter les appels répétés
+  const completionStatus = useMemo(() => {
+    const status: Record<string, boolean> = {}
+    for (const lesson of sortedLessons) {
+      status[lesson.id] = isLessonCompleted(course.slug, lesson.id)
+    }
+    return status
+  }, [sortedLessons, course.slug, isLessonCompleted])
 
   const title = course.title[locale as keyof typeof course.title] || course.title.fr
   const description = course.description[locale as keyof typeof course.description] || course.description.fr
@@ -66,10 +88,16 @@ export function CourseDetailClient({ course }: CourseDetailClientProps) {
   const levelLabel = levelLabels[course.level]?.[locale] || course.level
 
   const progress = getCourseProgress(course.slug, sortedLessons.length)
-  const completedLessons = sortedLessons.filter(l => isLessonCompleted(course.slug, l.id)).length
+  const completedLessonsCount = useMemo(() => 
+    Object.values(completionStatus).filter(Boolean).length,
+    [completionStatus]
+  )
 
   // Find first incomplete lesson for "Continue" button
-  const nextLesson = sortedLessons.find(l => !isLessonCompleted(course.slug, l.id)) || sortedLessons[0]
+  const nextLesson = useMemo(() => 
+    sortedLessons.find(l => !completionStatus[l.id]) || sortedLessons[0],
+    [sortedLessons, completionStatus]
+  )
 
   // Breadcrumb items
   const breadcrumbItems = [
@@ -296,7 +324,7 @@ export function CourseDetailClient({ course }: CourseDetailClientProps) {
                       'text-sm text-muted-foreground mt-2',
                       isRTL && 'text-right'
                     )}>
-                      {completedLessons}/{sortedLessons.length} {t('courses.lessons')}
+                      {completedLessonsCount}/{sortedLessons.length} {t('courses.lessons')}
                     </p>
                   </div>
                 )}

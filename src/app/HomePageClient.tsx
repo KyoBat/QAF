@@ -2,10 +2,11 @@
 
 import Link from 'next/link'
 import dynamic from 'next/dynamic'
-import { ChevronRight, Star, Sparkles } from 'lucide-react'
+import { ChevronRight, Star, Sparkles, Mail } from 'lucide-react'
 import { Button } from '@/components/ui/button'
 import { Card, CardContent } from '@/components/ui/card'
 import { Badge } from '@/components/ui/badge'
+import { NewsletterForm } from '@/components/ui/newsletter'
 import { useLocale } from '@/components/providers'
 import { cn } from '@/lib/utils'
 import type { Course } from '@/lib/data/courses/types'
@@ -329,6 +330,29 @@ export default function HomePageClient({
               )
             })}
           </div>
+        </div>
+      </section>
+
+      {/* Newsletter Section */}
+      <section className="py-20 bg-muted/30">
+        <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+          <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-primary/10 text-primary text-sm font-medium mb-6">
+            <Mail className="h-4 w-4" />
+            <span>{t('newsletter.title')}</span>
+          </div>
+          
+          <h2 className={cn(
+            'text-3xl sm:text-4xl font-bold text-foreground mb-4',
+            isRTL && 'font-arabic'
+          )}>
+            {t('newsletter.subtitle')}
+          </h2>
+          
+          <p className="text-muted-foreground mb-8 max-w-xl mx-auto">
+            {t('newsletter.privacy')}
+          </p>
+
+          <NewsletterForm variant="hero" />
         </div>
       </section>
 

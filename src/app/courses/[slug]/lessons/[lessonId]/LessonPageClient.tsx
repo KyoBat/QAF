@@ -6,7 +6,7 @@
 'use client'
 
 import Link from 'next/link'
-import { useState } from 'react'
+import { useState, useMemo, useCallback } from 'react'
 import { 
   ChevronRight, 
   ChevronLeft, 
@@ -56,6 +56,15 @@ export function LessonPageClient({ data }: LessonPageClientProps) {
   const { success } = useToast()
   const [isSheetOpen, setIsSheetOpen] = useState(false)
 
+  // Mémoriser les statuts de complétion pour éviter les appels répétés dans LessonsNav
+  const completionStatus = useMemo(() => {
+    const status: Record<string, boolean> = {}
+    for (const l of course.lessons) {
+      status[l.id] = isLessonCompleted(course.slug, l.id)
+    }
+    return status
+  }, [course.lessons, course.slug, isLessonCompleted])
+
   const title = lesson.title[locale as keyof typeof lesson.title] || lesson.title.fr
   const courseTitle = course.title[locale as keyof typeof course.title] || course.title.fr
   const isCompleted = isLessonCompleted(course.slug, lesson.id)
@@ -89,13 +98,13 @@ export function LessonPageClient({ data }: LessonPageClientProps) {
     { label: title },
   ]
 
-  // Lessons navigation component (shared between sidebar and sheet)
-  const LessonsNav = () => (
+  // Lessons navigation component - mémorisé avec useCallback
+  const LessonsNav = useCallback(() => (
     <nav className="space-y-1 max-h-[60vh] lg:max-h-96 overflow-y-auto">
       {course.lessons.map((l, index) => {
         const lessonTitle = l.title[locale as keyof typeof l.title] || l.title.fr
         const isActive = l.id === lesson.id
-        const isLessonDone = isLessonCompleted(course.slug, l.id)
+        const isLessonDone = completionStatus[l.id]
 
         return (
           <Link
@@ -125,7 +134,7 @@ export function LessonPageClient({ data }: LessonPageClientProps) {
         )
       })}
     </nav>
-  )
+  ), [course.lessons, course.slug, lesson.id, locale, isRTL, completionStatus, setIsSheetOpen])
 
   return (
     <div className="py-8 lg:py-12">

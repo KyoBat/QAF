@@ -174,5 +174,18 @@
       "courses": "Discover Courses",
       "contact": "Contact Us"
     }
+  },
+  "newsletter": {
+    "title": "Stay Updated",
+    "subtitle": "Get new courses and weekly reminders",
+    "placeholder": "Your email address",
+    "subscribe": "Subscribe",
+    "loading": "Subscribing...",
+    "successTitle": "Successfully subscribed!",
+    "successMessage": "You'll receive our content soon. Barak Allahu feekum!",
+    "success": "Subscribed!",
+    "errorInvalid": "Please enter a valid email address",
+    "errorGeneric": "An error occurred. Please try again.",
+    "privacy": "No spam. 1 email/week max. One-click unsubscribe."
   }
 }
