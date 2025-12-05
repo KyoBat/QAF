@@ -223,9 +223,6 @@ export function Footer() {
             </div>
 
             <nav className="flex items-center gap-4">
-              <Link href="/courses" className="hover:text-emerald-600 transition-colors">
-                {t('nav.courses')}
-              </Link>
               <Link href="/about" className="hover:text-emerald-600 transition-colors">
                 {t('nav.about')}
               </Link>
