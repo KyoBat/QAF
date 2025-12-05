@@ -30,6 +30,7 @@ export function Header() {
   const navLinks = [
     { href: '/', label: t('nav.home') },
     { href: '/courses', label: t('nav.courses') },
+    { href: '/about', label: t('nav.about') },
   ]
 
   return (
@@ -220,6 +221,15 @@ export function Footer() {
               <BookOpen className="w-4 h-4 text-emerald-600" />
               <span className="font-medium text-gray-700 dark:text-gray-300">{t('app.name')}</span>
             </div>
+
+            <nav className="flex items-center gap-4">
+              <Link href="/courses" className="hover:text-emerald-600 transition-colors">
+                {t('nav.courses')}
+              </Link>
+              <Link href="/about" className="hover:text-emerald-600 transition-colors">
+                {t('nav.about')}
+              </Link>
+            </nav>
             
             <p>{t('footer.copyright', { year })}</p>
             
