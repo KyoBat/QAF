@@ -117,5 +117,62 @@
     "copyright": "© {year} TahaLearn. All rights reserved.",
     "madeWith": "Made with faith",
     "forUmmah": "for the Ummah"
+  },
+  "about": {
+    "badge": "Our Mission",
+    "hero": {
+      "title": "Making Islamic Knowledge Accessible to All",
+      "subtitle": "A 100% free platform dedicated to teaching authentic Islamic sciences, available in Arabic, French and English."
+    },
+    "mission": {
+      "badge": "Our Mission",
+      "title": "Why Does TahaLearn Exist?",
+      "description": "We believe every Muslim deserves access to quality religious education, based on the Quran and authentic Sunnah, without financial or linguistic barriers. TahaLearn was born from this conviction."
+    },
+    "values": {
+      "title": "Our Core Values",
+      "subtitle": "The principles that guide our work every day",
+      "sincerity": {
+        "title": "Sincerity (الإخلاص)",
+        "description": "Every lesson is created for Allah alone, without seeking profit or fame."
+      },
+      "authenticity": {
+        "title": "Authenticity (الصحة)",
+        "description": "Verified content from reliable sources: Quran, sahih hadiths, and recognized scholars."
+      },
+      "accessibility": {
+        "title": "Accessibility (التيسير)",
+        "description": "Free, ad-free, available 24/7 on all devices."
+      },
+      "universality": {
+        "title": "Universality (العالمية)",
+        "description": "Trilingual content to reach Muslims worldwide."
+      }
+    },
+    "features": {
+      "quran": "Quranic verses with precise references",
+      "hadith": "Authentic hadiths (Bukhari, Muslim, etc.)",
+      "references": "Sources and references for every information",
+      "trilingual": "Full content in 3 languages (AR/FR/EN)",
+      "progressive": "Learning path from beginner to advanced",
+      "noAds": "No ads, no subscription"
+    },
+    "stats": {
+      "courses": "Available courses",
+      "lessons": "Complete lessons",
+      "languages": "Languages",
+      "free": "Free"
+    },
+    "whyFree": {
+      "title": "Why Is It Free?",
+      "hadith": "Reported by Abu Dawud, At-Tirmidhi - Sahih Hadith",
+      "description": "The Prophet ﷺ taught us that concealing religious knowledge is a grave sin. We therefore chose to make all our content free and accessible, because Islamic knowledge is a right for every Muslim, rich or poor."
+    },
+    "cta": {
+      "title": "Ready to Start Your Journey?",
+      "subtitle": "Join thousands of students learning Islamic sciences",
+      "courses": "Discover Courses",
+      "contact": "Contact Us"
+    }
   }
 }

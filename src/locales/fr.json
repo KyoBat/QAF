@@ -117,5 +117,62 @@
     "copyright": "© {year} TahaLearn. Tous droits réservés.",
     "madeWith": "Fait avec la foi",
     "forUmmah": "pour la Oumma"
+  },
+  "about": {
+    "badge": "Notre Mission",
+    "hero": {
+      "title": "Rendre le savoir islamique accessible à tous",
+      "subtitle": "Une plateforme 100% gratuite dédiée à l'enseignement des sciences islamiques authentiques, disponible en arabe, français et anglais."
+    },
+    "mission": {
+      "badge": "Notre Mission",
+      "title": "Pourquoi TahaLearn existe ?",
+      "description": "Nous croyons que chaque musulman mérite d'accéder à un enseignement religieux de qualité, basé sur le Coran et la Sunna authentique, sans barrière financière ni linguistique. TahaLearn est né de cette conviction."
+    },
+    "values": {
+      "title": "Nos valeurs fondamentales",
+      "subtitle": "Les principes qui guident notre travail au quotidien",
+      "sincerity": {
+        "title": "Sincérité (الإخلاص)",
+        "description": "Chaque leçon est créée pour Allah seul, sans recherche de profit ni de renommée."
+      },
+      "authenticity": {
+        "title": "Authenticité (الصحة)",
+        "description": "Contenu vérifié avec des sources fiables : Coran, hadiths sahih et avis des savants reconnus."
+      },
+      "accessibility": {
+        "title": "Accessibilité (التيسير)",
+        "description": "Gratuit, sans publicité, disponible 24/7 sur tous les appareils."
+      },
+      "universality": {
+        "title": "Universalité (العالمية)",
+        "description": "Contenu trilingue pour atteindre les musulmans du monde entier."
+      }
+    },
+    "features": {
+      "quran": "Versets coraniques avec références précises",
+      "hadith": "Hadiths authentiques (Bukhari, Muslim, etc.)",
+      "references": "Sources et références pour chaque information",
+      "trilingual": "Contenu complet en 3 langues (AR/FR/EN)",
+      "progressive": "Parcours pédagogique du débutant à l'avancé",
+      "noAds": "Aucune publicité, aucun abonnement"
+    },
+    "stats": {
+      "courses": "Cours disponibles",
+      "lessons": "Leçons complètes",
+      "languages": "Langues",
+      "free": "Gratuit"
+    },
+    "whyFree": {
+      "title": "Pourquoi c'est gratuit ?",
+      "hadith": "Rapporté par Abu Dawud, At-Tirmidhi - Hadith Sahih",
+      "description": "Le Prophète ﷺ nous a enseigné que cacher le savoir religieux est un péché grave. Nous avons donc fait le choix de rendre tout notre contenu gratuit et accessible, car la science islamique est un droit pour chaque musulman, riche ou pauvre."
+    },
+    "cta": {
+      "title": "Prêt à commencer votre voyage ?",
+      "subtitle": "Rejoignez des milliers d'étudiants qui apprennent les sciences islamiques",
+      "courses": "Découvrir les cours",
+      "contact": "Nous contacter"
+    }
   }
 }
