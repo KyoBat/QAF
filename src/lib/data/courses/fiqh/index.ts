@@ -3,7 +3,7 @@
  */
 
 import { Course } from '../types'
-import { fiqhPurificationMeta, fiqhSalatMeta } from './meta'
+import { fiqhPurificationMeta, fiqhSalatMeta, fiqhSalawatKhassaMeta } from './meta'
 import { lesson001 } from './lessons/001-introduction'
 import { lesson002 } from './lessons/002-tahara'
 import { lesson003 } from './lessons/003-najassa'
@@ -21,6 +21,17 @@ import { lesson014 } from './lessons/014-salat-obligatory-actions'
 import { lesson015 } from './lessons/015-salat-sunan-nullifiers'
 import { lesson016 } from './lessons/016-sujood-sahw'
 import { lesson017 } from './lessons/017-salat-masbuq'
+import { lesson018 } from './lessons/018-salat-jamaa'
+// Prières Spéciales (Cours séparé)
+import { lesson019 } from './lessons/019-salat-musafir'
+import { lesson020 } from './lessons/020-salat-marid'
+import { lesson021 } from './lessons/021-salat-jumuah'
+import { lesson022 } from './lessons/022-salat-eidayn'
+import { lesson023 } from './lessons/023-salat-janaza'
+import { lesson024 } from './lessons/024-salat-kusuf'
+import { lesson025 } from './lessons/025-salat-istisqa'
+import { lesson026 } from './lessons/026-sujud-tilawa-shukr'
+import { lesson027 } from './lessons/027-qada-fawait'
 
 export const fiqhPurificationCourse: Course = {
   ...fiqhPurificationMeta,
@@ -75,6 +86,7 @@ export const fiqhSalatCourse: Course = {
     lesson015,
     lesson016,
     lesson017,
+    lesson018,
   ],
   sections: [
     {
@@ -97,6 +109,48 @@ export const fiqhSalatCourse: Course = {
         'lesson-015',
         'lesson-016',
         'lesson-017',
+        'lesson-018',
+      ],
+    },
+  ],
+}
+
+export const fiqhSalawatKhassaCourse: Course = {
+  ...fiqhSalawatKhassaMeta,
+  lessons: [
+    lesson019,
+    lesson020,
+    lesson021,
+    lesson022,
+    lesson023,
+    lesson024,
+    lesson025,
+    lesson026,
+    lesson027,
+  ],
+  sections: [
+    {
+      id: 'bab-salawat-khassa',
+      title: {
+        fr: 'Chapitre : Prières Spéciales',
+        ar: 'باب الصلوات الخاصة',
+        en: 'Chapter: Special Prayers',
+      },
+      description: {
+        fr: 'Les règles des prières liées à des situations particulières : voyage, maladie, vendredi, fêtes, funérailles et autres.',
+        ar: 'أحكام الصلوات المتعلقة بحالات خاصة: السفر، المرض، الجمعة، العيدين، الجنازة وغيرها.',
+        en: 'Rulings on prayers related to special situations: travel, illness, Friday, Eids, funerals, and others.',
+      },
+      lessonIds: [
+        'lesson-019',
+        'lesson-020',
+        'lesson-021',
+        'lesson-022',
+        'lesson-023',
+        'lesson-024',
+        'lesson-025',
+        'lesson-026',
+        'lesson-027',
       ],
     },
   ],

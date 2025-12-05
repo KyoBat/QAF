@@ -1,7 +1,7 @@
 'use client'
 
 import Link from 'next/link'
-import { BookOpen, Users, GraduationCap, ChevronRight, Star, Clock, Sparkles } from 'lucide-react'
+import { BookOpen, GraduationCap, ChevronRight, Star, Clock, Sparkles, Gift, ShieldCheck, Globe } from 'lucide-react'
 import { Button } from '@/components/ui/button'
 import { Card, CardContent } from '@/components/ui/card'
 import { Badge } from '@/components/ui/badge'
@@ -25,12 +25,18 @@ export default function HomePage() {
 
   const features = [
     {
-      icon: BookOpen,
+      icon: Gift,
+      title: t('home.features.free.title'),
+      description: t('home.features.free.description'),
+      highlight: true,
+    },
+    {
+      icon: ShieldCheck,
       title: t('home.features.quality.title'),
       description: t('home.features.quality.description'),
     },
     {
-      icon: Users,
+      icon: Clock,
       title: t('home.features.accessible.title'),
       description: t('home.features.accessible.description'),
     },
@@ -38,6 +44,11 @@ export default function HomePage() {
       icon: GraduationCap,
       title: t('home.features.structured.title'),
       description: t('home.features.structured.description'),
+    },
+    {
+      icon: Globe,
+      title: t('home.features.multilingual.title'),
+      description: t('home.features.multilingual.description'),
     },
   ]
 
@@ -127,8 +138,38 @@ export default function HomePage() {
             </h2>
           </div>
 
-          <div className="grid md:grid-cols-3 gap-8">
-            {features.map((feature, index) => (
+          {/* Feature principale: Gratuit */}
+          <div className="mb-8">
+            <Card className="relative overflow-hidden border-2 border-primary/30 bg-gradient-to-br from-primary/5 to-primary/10 hover:border-primary/50 transition-all duration-300">
+              <CardContent className="py-8">
+                <div className={cn(
+                  'flex flex-col md:flex-row items-center justify-center gap-6 text-center md:text-start',
+                  isRTL && 'font-arabic md:flex-row-reverse'
+                )}>
+                  <div className="w-16 h-16 rounded-2xl bg-primary/20 flex items-center justify-center shrink-0">
+                    <Gift className="h-8 w-8 text-primary" />
+                  </div>
+                  <div>
+                    <div className="flex items-center justify-center md:justify-start gap-2 mb-2">
+                      <h3 className="text-2xl font-bold text-primary">
+                        {features[0].title}
+                      </h3>
+                      <Badge variant="secondary" className="bg-primary/20 text-primary border-0">
+                        ✨
+                      </Badge>
+                    </div>
+                    <p className="text-muted-foreground text-lg max-w-xl">
+                      {features[0].description}
+                    </p>
+                  </div>
+                </div>
+              </CardContent>
+            </Card>
+          </div>
+
+          {/* Autres features */}
+          <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-6">
+            {features.slice(1).map((feature, index) => (
               <Card 
                 key={index} 
                 className="relative overflow-hidden group hover:border-primary/30 transition-all duration-300"
@@ -149,7 +190,7 @@ export default function HomePage() {
                     </h3>
 
                     {/* Description */}
-                    <p className="text-muted-foreground">
+                    <p className="text-muted-foreground text-sm">
                       {feature.description}
                     </p>
                   </div>

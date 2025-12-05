@@ -34,17 +34,25 @@
     },
     "features": {
       "title": "Why Choose Us?",
+      "free": {
+        "title": "100% Free",
+        "description": "Beneficial knowledge at no cost, because Islamic knowledge is everyone's right"
+      },
       "quality": {
-        "title": "Quality Content",
-        "description": "Courses developed by qualified scholars"
+        "title": "Authentic Content",
+        "description": "Verified verses and hadiths with proper references"
       },
       "accessible": {
-        "title": "Accessible to All",
-        "description": "Learn at your own pace, wherever you are"
+        "title": "Learn Anytime",
+        "description": "Available 24/7 on all devices, ad-free"
       },
       "structured": {
-        "title": "Structured Path",
-        "description": "A pedagogical progression adapted to each level"
+        "title": "Guided Progression",
+        "description": "From beginner to advanced, step by step"
+      },
+      "multilingual": {
+        "title": "Three Languages",
+        "description": "Full content in Arabic, French and English"
       }
     }
   },

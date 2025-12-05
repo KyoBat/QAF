@@ -34,17 +34,25 @@
     },
     "features": {
       "title": "Pourquoi nous choisir ?",
+      "free": {
+        "title": "100% Gratuit",
+        "description": "Un savoir bénéfique sans aucun frais, car la science religieuse est un droit pour tous"
+      },
       "quality": {
-        "title": "Contenu de qualité",
-        "description": "Des cours élaborés par des savants qualifiés"
+        "title": "Contenu authentique",
+        "description": "Versets et hadiths vérifiés avec sources et références"
       },
       "accessible": {
-        "title": "Accessible à tous",
-        "description": "Apprenez à votre rythme, où que vous soyez"
+        "title": "Apprenez quand vous voulez",
+        "description": "Disponible 24/7 sur tous vos appareils, sans publicité"
       },
       "structured": {
-        "title": "Parcours structuré",
-        "description": "Une progression pédagogique adaptée à chaque niveau"
+        "title": "Progression guidée",
+        "description": "Du débutant à l'avancé, étape par étape"
+      },
+      "multilingual": {
+        "title": "Trois langues",
+        "description": "Contenu complet en arabe, français et anglais"
       }
     }
   },

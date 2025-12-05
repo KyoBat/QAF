@@ -5,7 +5,7 @@
 
 import { Course } from './types'
 import { tajweedCourse } from './tajweed'
-import { fiqhPurificationCourse, fiqhSalatCourse } from './fiqh'
+import { fiqhPurificationCourse, fiqhSalatCourse, fiqhSalawatKhassaCourse } from './fiqh'
 import { aqeedahCourse } from './aqeedah'
 import { aqeedah2Course } from './aqeedah-2'
 import { seerahCourse } from './seerah'
@@ -16,7 +16,7 @@ export * from './types'
 
 // Export des cours individuels
 export { tajweedCourse } from './tajweed'
-export { fiqhPurificationCourse, fiqhSalatCourse } from './fiqh'
+export { fiqhPurificationCourse, fiqhSalatCourse, fiqhSalawatKhassaCourse } from './fiqh'
 export { aqeedahCourse } from './aqeedah'
 export { aqeedah2Course } from './aqeedah-2'
 export { seerahCourse } from './seerah'
@@ -27,6 +27,7 @@ export const coursesData: Course[] = [
   tajweedCourse,
   fiqhPurificationCourse,
   fiqhSalatCourse,
+  fiqhSalawatKhassaCourse,
   aqeedahCourse,
   aqeedah2Course,
   seerahCourse,

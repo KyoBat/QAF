@@ -33,11 +33,33 @@
 5. **Sunan At-Tirmidhi** - Pour les avis des savants
 6. **Sunan An-Nasa'i** - Pour les variantes
 
-### Sources Secondaires (Fiqh Hanbali - Programme Zad)
-1. **Zad Al-Mustaqni'** - Texte de référence
-2. **Ar-Rawd Al-Murbi'** - Explication détaillée
-3. **Al-Mughni** d'Ibn Qudama - Pour les divergences
-4. **Majmu' Al-Fatawa** d'Ibn Taymiyya
+### 🎯 Approche Multi-Madhhab (4 Écoles)
+
+> **Priorité pour le public francophone :** 🟡 Maliki (Maghreb, Afrique de l'Ouest)
+
+| Priorité | École | % Mondial | Livres de Référence |
+|----------|-------|-----------|---------------------|
+| 🥇 | **Maliki** | 15% | Al-Mudawwana, Mukhtasar Khalil, Sharh Al-Kharshi |
+| 🥈 | **Hanafi** | 45% | Al-Hidaya, Radd Al-Muhtar (Ibn Abidin) |
+| 🥉 | **Shafi'i** | 28% | Al-Umm, Minhaj At-Talibin, Fath Al-Wahhab |
+| 4️⃣ | **Hanbali** | 4% | Zad Al-Mustaqni', Al-Mughni, Ar-Rawd Al-Murbi' |
+
+### Format de Présentation des Avis
+
+Pour chaque question de Fiqh avec divergence :
+
+```markdown
+### 📋 Avis des 4 Écoles
+
+| École | Avis | Preuve |
+|-------|------|--------|
+| 🟡 **Maliki** | [Avis principal] | [Hadith/Verset] |
+| 🟢 Hanafi | [Avis] | [Preuve] |
+| 🔵 Shafi'i | [Avis] | [Preuve] |
+| 🟣 Hanbali | [Avis] | [Preuve] |
+
+> 💡 **Pour les francophones (Maghreb/Afrique) :** L'avis Maliki est [explication]
+```
 
 ---
 
@@ -106,10 +128,18 @@ src/lib/data/courses/fiqh/lessons/
 ## 🤖 AGENT 1 : Leçon 018 - صلاة الجماعة (La Prière en Groupe)
 
 ### Contexte
-Tu es un savant musulman spécialisé en Fiqh Hanbali, créant du contenu éducatif pour TahaLearn.
+Tu es un savant musulman expert en Fiqh comparé des 4 écoles sunnites, créant du contenu éducatif pour TahaLearn.
+**Public cible :** Francophones (Maghreb, Afrique de l'Ouest) → **Priorité à l'école Malikite**.
 
 ### Mission
 Créer la leçon complète sur **La Prière en Groupe (صلاة الجماعة)** en 3 langues (FR, AR, EN).
+
+### ⚠️ Approche Multi-Madhhab Obligatoire
+Pour chaque règle avec divergence, présenter les 4 avis dans cet ordre :
+1. 🟡 **Maliki** (en premier et détaillé)
+2. 🟢 Hanafi
+3. 🔵 Shafi'i  
+4. 🟣 Hanbali
 
 ### Contenu Requis
 
@@ -117,13 +147,16 @@ Créer la leçon complète sur **La Prière en Groupe (صلاة الجماعة)*
 - Importance de la prière en groupe dans l'Islam
 - Hadith : « La prière en groupe est supérieure de 27 degrés » (Bukhari 645, Muslim 650)
 
-#### 2. Le Statut Juridique (الحكم)
-- **Avis 1 :** Obligation individuelle (فرض عين) - Avis de l'école Hanbalite
-  - Preuve : « وَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ وَارْكَعُوا مَعَ الرَّاكِعِينَ » (Al-Baqara 43)
-  - Hadith de l'aveugle : « لَا أَجِدُ لَكَ رُخْصَةً » (Muslim 653)
-  - Hadith de brûler les maisons (Bukhari 644, Muslim 651)
-- **Avis 2 :** Obligation communautaire (فرض كفاية)
-- **Avis 3 :** Sunna Mu'akkada
+#### 2. Le Statut Juridique (الحكم) - ⚠️ DIVERGENCE
+
+| École | Avis | Preuve principale |
+|-------|------|-------------------|
+| 🟡 **Maliki** | **Sunna Mu'akkada** | La pratique constante du Prophète ﷺ |
+| 🟢 Hanafi | Sunna Mu'akkada (wajib selon certains) | Idem |
+| 🔵 Shafi'i | Fard Kifaya | Pour manifester le rite de l'Islam |
+| 🟣 Hanbali | Fard 'Ayn | Hadith de l'aveugle + brûler les maisons |
+
+> 💡 **Pour les Malikites :** La jama'a est fortement recommandée mais son abandon n'est pas un péché majeur.
 
 #### 3. Les Mérites (فضائل صلاة الجماعة)
 - 27 degrés de supériorité
@@ -180,10 +213,14 @@ Créer 4 fichiers :
 ## 🤖 AGENT 2 : Leçon 019 - صلاة المسافر (La Prière du Voyageur)
 
 ### Contexte
-Tu es un savant musulman spécialisé en Fiqh Hanbali, créant du contenu éducatif pour TahaLearn.
+Tu es un savant musulman expert en Fiqh comparé des 4 écoles sunnites, créant du contenu éducatif pour TahaLearn.
+**Public cible :** Francophones (Maghreb, Afrique de l'Ouest) → **Priorité à l'école Malikite**.
 
 ### Mission
 Créer la leçon complète sur **La Prière du Voyageur (صلاة المسافر)** en 3 langues.
+
+### ⚠️ Approche Multi-Madhhab Obligatoire
+Pour chaque règle avec divergence, présenter les 4 avis (🟡 Maliki en premier).
 
 ### Contenu Requis
 
@@ -209,19 +246,27 @@ Créer la leçon complète sur **La Prière du Voyageur (صلاة المسافر
   - Maghrib + Isha
 - **Preuve :** Hadith de Mu'adh à Tabuk (Muslim 706)
 
-#### 4. Distance du Voyage (مسافة القصر)
-- **Distance minimale :** ~80 km (4 burud = 16 farsakh)
-- **Preuve :** Pratique d'Ibn Abbas et Ibn Umar
-- **Voyage par avion :** La distance compte, pas le moyen
+#### 4. Distance du Voyage (مسافة القصر) - ⚠️ DIVERGENCE
 
-#### 5. Durée de Séjour (مدة الإقامة)
-- **Règle :** Si intention de rester + de 4 jours → prier en complet
-- **Preuves :**
-  - Le Prophète ﷺ à La Mecque lors de la conquête (19 jours mais sans intention de résidence)
-  - Ibn Abbas : « Si tu résides 15 jours, accomplis la prière »
-- **Cas particuliers :**
-  - Attente sans durée déterminée
-  - Études ou travail temporaire
+| École | Distance minimale | Équivalent moderne |
+|-------|-------------------|-------------------|
+| 🟡 **Maliki** | **4 burud (48 miles)** | **~77-81 km** |
+| 🟢 Hanafi | 3 jours de marche | ~80-90 km |
+| 🔵 Shafi'i | 2 marhalah (16 farsakh) | ~80 km |
+| 🟣 Hanbali | 16 farsakh | ~80 km |
+
+> 💡 **Consensus approximatif :** ~80 km, avec légères variations
+
+#### 5. Durée de Séjour (مدة الإقامة) - ⚠️ DIVERGENCE IMPORTANTE
+
+| École | Durée max pour raccourcir | Détails |
+|-------|---------------------------|---------|
+| 🟡 **Maliki** | **4 jours complets** | Au-delà = résident, prier complet |
+| 🟢 Hanafi | 15 jours | Intention de rester 15 jours = résident |
+| 🔵 Shafi'i | 4 jours (sans jour d'arrivée/départ) | Comme Maliki |
+| 🟣 Hanbali | 4 jours | Même règle |
+
+> 💡 **Cas pratique Maliki :** Voyage de 5 jours à Paris → raccourcir les 4 premiers jours, compléter le 5ème
 
 #### 6. Règles Pratiques
 - Quand commence le voyage ?
@@ -240,6 +285,10 @@ Créer la leçon complète sur **La Prière du Voyageur (صلاة المسافر
 ---
 
 ## 🤖 AGENT 3 : Leçon 020 - صلاة المريض (La Prière du Malade)
+
+### Contexte
+Tu es un savant musulman expert en Fiqh comparé des 4 écoles sunnites, créant du contenu éducatif pour TahaLearn.
+**Public cible :** Francophones → **Priorité à l'école Malikite**.
 
 ### Mission
 Créer la leçon sur **La Prière du Malade** en 3 langues.
@@ -289,6 +338,12 @@ Créer la leçon sur **La Prière du Malade** en 3 langues.
 
 ## 🤖 AGENT 4 : Leçon 021 - صلاة الجمعة (La Prière du Vendredi)
 
+### Contexte
+Tu es un savant musulman expert en Fiqh comparé des 4 écoles sunnites, créant du contenu éducatif pour TahaLearn.
+**Public cible :** Francophones → **Priorité à l'école Malikite**.
+
+### ⚠️ Approche Multi-Madhhab Obligatoire
+
 ### Contenu Requis
 
 #### 1. Statut et Importance
@@ -303,11 +358,15 @@ Créer la leçon sur **La Prière du Malade** en 3 langues.
 - Être sain (non malade)
 - Hadith : « الجمعة حق واجب على كل مسلم في جماعة إلا أربعة: عبد مملوك، أو امرأة، أو صبي، أو مريض » (Abu Dawud 1067)
 
-#### 3. Conditions de Validité
-- Le temps (après le zénith)
-- Le nombre minimum (3 ou 40 selon les avis)
-- Le lieu de résidence
-- Les deux khutbas
+#### 3. Conditions de Validité - ⚠️ DIVERGENCE
+
+| Condition | 🟡 Maliki | 🟢 Hanafi | 🔵 Shafi'i | 🟣 Hanbali |
+|-----------|-----------|-----------|------------|------------|
+| Nombre min. | **12 hommes** | Imam + 3 | 40 hommes | 40 hommes |
+| Lieu | Ville/village établi | Ville avec sultan | Lieu de résidence | Lieu de résidence |
+| Permission sultan | Non requise | Requise (ancien avis) | Non | Non |
+
+> 💡 **Avis Maliki :** 12 hommes résidents suffisent, sans besoin d'autorisation officielle
 
 #### 4. Les Piliers de la Khutba
 - Louange à Allah
@@ -338,12 +397,22 @@ Créer la leçon sur **La Prière du Malade** en 3 langues.
 
 ## 🤖 AGENT 5 : Leçon 022 - صلاة العيدين (La Prière des Deux Fêtes)
 
+### Contexte
+Tu es un savant musulman expert en Fiqh comparé des 4 écoles sunnites, créant du contenu éducatif pour TahaLearn.
+**Public cible :** Francophones → **Priorité à l'école Malikite**.
+
+### ⚠️ Approche Multi-Madhhab Obligatoire
+
 ### Contenu Requis
 
-#### 1. Statut Juridique
-- Fard Kifaya (obligation communautaire) - Avis Hanbalite
-- Sunna Mu'akkada selon d'autres
-- Le Prophète ﷺ ne l'a jamais délaissée
+#### 1. Statut Juridique - ⚠️ DIVERGENCE
+
+| École | Avis |
+|-------|------|
+| 🟡 **Maliki** | **Sunna Mu'akkada** |
+| 🟢 Hanafi | Wajib (obligatoire) |
+| 🔵 Shafi'i | Fard Kifaya |
+| 🟣 Hanbali | Fard Kifaya |
 
 #### 2. Temps de la Prière
 - Après le lever du soleil d'une hauteur de lance (~15-20 min)
@@ -354,12 +423,16 @@ Créer la leçon sur **La Prière du Malade** en 3 langues.
 - Le Musalla (en plein air) est préféré
 - Hadith : Le Prophète ﷺ sortait vers le Musalla
 
-#### 4. Description de la Prière
-- 2 rak'at
-- **1ère rak'a :** 7 takbirat après takbirat al-ihram
-- **2ème rak'a :** 5 takbirat après le lever
-- Ce qu'on dit entre les takbirat
-- Sourates recommandées : Al-A'la et Al-Ghashiya
+#### 4. Description de la Prière - ⚠️ DIVERGENCE SUR LES TAKBIRAT
+
+| École | 1ère Rak'a | 2ème Rak'a |
+|-------|------------|------------|
+| 🟡 **Maliki** | **7 takbirat (avec celle d'ihram)** | **6 takbirat (avec celle du lever)** |
+| 🟢 Hanafi | 3 takbirat supplémentaires | 3 takbirat supplémentaires |
+| 🔵 Shafi'i | 7 takbirat (sans ihram) | 5 takbirat (sans lever) |
+| 🟣 Hanbali | 7 takbirat (sans ihram) | 5 takbirat (sans lever) |
+
+> 💡 **Méthode Malikite :** La takbirat al-ihram compte dans les 7
 
 #### 5. La Khutba du Eid
 - Après la prière (contrairement à Jumu'ah)
@@ -382,6 +455,12 @@ Créer la leçon sur **La Prière du Malade** en 3 langues.
 
 ## 🤖 AGENT 6 : Leçon 023 - صلاة الجنازة (La Prière Funéraire)
 
+### Contexte
+Tu es un savant musulman expert en Fiqh comparé des 4 écoles sunnites, créant du contenu éducatif pour TahaLearn.
+**Public cible :** Francophones → **Priorité à l'école Malikite**.
+
+### ⚠️ Approche Multi-Madhhab Obligatoire
+
 ### Contenu Requis
 
 #### 1. Statut
@@ -397,13 +476,16 @@ Créer la leçon sur **La Prière du Malade** en 3 langues.
 - Pas d'inclinaison ni de prosternation
 - 4 takbirat
 
-#### 4. Ce qu'on récite
-| Takbira | Ce qu'on lit |
-|---------|--------------|
-| 1ère | Al-Fatiha |
-| 2ème | Prière sur le Prophète ﷺ (comme dans le tashahhud) |
-| 3ème | Du'a pour le mort |
-| 4ème | Du'a puis taslim |
+#### 4. Ce qu'on récite - ⚠️ DIVERGENCE
+
+| Takbira | 🟡 Maliki | 🟢 Hanafi | 🔵 Shafi'i | 🟣 Hanbali |
+|---------|-----------|-----------|------------|------------|
+| 1ère | **Du'a (pas de Fatiha)** | Thana | Al-Fatiha | Al-Fatiha |
+| 2ème | Du'a pour le mort | Salat 'ala Nabi | Salat 'ala Nabi | Salat 'ala Nabi |
+| 3ème | Du'a pour le mort | Du'a pour le mort | Du'a pour le mort | Du'a pour le mort |
+| 4ème | Du'a puis taslim | Du'a puis taslim | Du'a puis taslim | Du'a puis taslim |
+
+> 💡 **Spécificité Malikite :** Pas de récitation de la Fatiha, uniquement des du'as
 
 #### 5. Du'a pour le Mort
 - « اللهم اغفر له وارحمه وعافه واعف عنه وأكرم نزله ووسع مدخله واغسله بالماء والثلج والبرد ونقه من الخطايا كما ينقى الثوب الأبيض من الدنس » (Muslim 963)
@@ -421,6 +503,12 @@ Créer la leçon sur **La Prière du Malade** en 3 langues.
 
 ## 🤖 AGENT 7 : Leçon 024 - صلاة الكسوف والخسوف (La Prière de l'Éclipse)
 
+### Contexte
+Tu es un savant musulman expert en Fiqh comparé des 4 écoles sunnites, créant du contenu éducatif pour TahaLearn.
+**Public cible :** Francophones → **Priorité à l'école Malikite**.
+
+### ⚠️ Approche Multi-Madhhab Obligatoire
+
 ### Contenu Requis
 
 #### 1. Définition et Sagesse
@@ -436,11 +524,16 @@ Créer la leçon sur **La Prière du Malade** en 3 langues.
 #### 3. Temps
 - Du début à la fin de l'éclipse
 
-#### 4. Description (Méthode Hanbalite)
-- 2 rak'at
-- Chaque rak'a contient 2 inclinaisons
-- Récitation longue dans la 1ère (comme Al-Baqara)
-- Récitation moins longue dans la 2ème
+#### 4. Description - ⚠️ DIVERGENCE MAJEURE
+
+| École | Structure de chaque Rak'a |
+|-------|---------------------------|
+| 🟡 **Maliki** | **2 inclinaisons par rak'a** (comme Shafi'i/Hanbali) |
+| 🟢 Hanafi | **1 seule inclinaison** (comme prière normale) |
+| 🔵 Shafi'i | 2 inclinaisons par rak'a |
+| 🟣 Hanbali | 2 inclinaisons par rak'a |
+
+> 💡 **Méthode Malikite :** 2 rak'at avec 2 ruku' chacune (total 4 ruku')
 
 #### 5. Étapes Détaillées
 1. Takbirat al-ihram
@@ -461,6 +554,12 @@ Créer la leçon sur **La Prière du Malade** en 3 langues.
 ---
 
 ## 🤖 AGENT 8 : Leçon 025 - صلاة الاستسقاء (La Prière pour la Pluie)
+
+### Contexte
+Tu es un savant musulman expert en Fiqh comparé des 4 écoles sunnites, créant du contenu éducatif pour TahaLearn.
+**Public cible :** Francophones → **Priorité à l'école Malikite**.
+
+### ⚠️ Approche Multi-Madhhab Obligatoire
 
 ### Contenu Requis
 
@@ -492,6 +591,12 @@ Créer la leçon sur **La Prière du Malade** en 3 langues.
 
 ## 🤖 AGENT 9 : Leçon 026 - سجود التلاوة والشكر (Prosternations de Récitation et Remerciement)
 
+### Contexte
+Tu es un savant musulman expert en Fiqh comparé des 4 écoles sunnites, créant du contenu éducatif pour TahaLearn.
+**Public cible :** Francophones → **Priorité à l'école Malikite**.
+
+### ⚠️ Approche Multi-Madhhab Obligatoire
+
 ### Contenu Requis
 
 #### 1. Sujud At-Tilawa
@@ -499,24 +604,16 @@ Créer la leçon sur **La Prière du Malade** en 3 langues.
 - **Statut :** Sunna Mu'akkada
 - **Hadith :** « إذا قرأ ابن آدم السجدة فسجد اعتزل الشيطان يبكي » (Muslim 81)
 
-#### 2. Les 15 Positions de Sajda dans le Coran
-| # | Sourate | Verset |
-|---|---------|--------|
-| 1 | Al-A'raf | 206 |
-| 2 | Ar-Ra'd | 15 |
-| 3 | An-Nahl | 50 |
-| 4 | Al-Isra | 109 |
-| 5 | Maryam | 58 |
-| 6 | Al-Hajj | 18 |
-| 7 | Al-Hajj | 77 |
-| 8 | Al-Furqan | 60 |
-| 9 | An-Naml | 26 |
-| 10 | As-Sajdah | 15 |
-| 11 | Sad | 24 |
-| 12 | Fussilat | 38 |
-| 13 | An-Najm | 62 |
-| 14 | Al-Inshiqaq | 21 |
-| 15 | Al-Alaq | 19 |
+#### 2. Les Positions de Sajda dans le Coran - ⚠️ DIVERGENCE
+
+| École | Nombre de Sajda | Différences notables |
+|-------|-----------------|----------------------|
+| 🟡 **Maliki** | **11 positions** | Exclut les sajda de Sourate Sad, An-Najm, Al-Inshiqaq, Al-Alaq |
+| 🟢 Hanafi | 14 positions | Exclut la 2ème du Hajj |
+| 🔵 Shafi'i | 14 positions | Inclut les 2 du Hajj |
+| 🟣 Hanbali | 15 positions | Toutes incluses |
+
+> 💡 **Positions Malikites (11) :** Al-A'raf, Ar-Ra'd, An-Nahl, Al-Isra, Maryam, Al-Hajj (1ère), Al-Furqan, An-Naml, As-Sajdah, Fussilat, Al-Hajj (2ème selon certains)
 
 #### 3. Conditions
 - La pureté est-elle requise ?
@@ -539,19 +636,28 @@ Créer la leçon sur **La Prière du Malade** en 3 langues.
 
 ## 🤖 AGENT 10 : Leçon 027 - قضاء الفوائت (Le Rattrapage des Prières Manquées)
 
+### Contexte
+Tu es un savant musulman expert en Fiqh comparé des 4 écoles sunnites, créant du contenu éducatif pour TahaLearn.
+**Public cible :** Francophones → **Priorité à l'école Malikite**.
+
+### ⚠️ Approche Multi-Madhhab Obligatoire
+
 ### Contenu Requis
 
 #### 1. L'Obligation du Rattrapage
 - Hadith : « من نسي صلاة أو نام عنها فكفارتها أن يصليها إذا ذكرها » (Bukhari 597, Muslim 684)
 
-#### 2. Causes du Manquement
-| Cause | Rattrapage ? |
-|-------|-------------|
-| Oubli | ✅ Obligatoire |
-| Sommeil | ✅ Obligatoire |
-| Apostasie puis retour | ❌ Non requis (selon les Hanbalites) |
-| Délaissement volontaire | ✅ Obligatoire avec repentir |
-| Folie/Inconscience | ❌ Non requis |
+#### 2. Causes du Manquement - ⚠️ DIVERGENCE
+
+| Cause | 🟡 Maliki | 🟢 Hanafi | 🔵 Shafi'i | 🟣 Hanbali |
+|-------|-----------|-----------|------------|------------|
+| Oubli | ✅ Rattraper | ✅ Rattraper | ✅ Rattraper | ✅ Rattraper |
+| Sommeil | ✅ Rattraper | ✅ Rattraper | ✅ Rattraper | ✅ Rattraper |
+| Délaissement volontaire | ✅ **Rattraper + Tawba** | ✅ Rattraper | ✅ Rattraper | ✅ Rattraper |
+| Apostasie puis retour | ✅ **Rattraper** | ❌ Non requis | ❌ Non requis | ❌ Non requis |
+| Folie/Inconscience | ❌ Non requis | ❌ Non requis | ❌ Non requis | ❌ Non requis |
+
+> 💡 **Spécificité Malikite :** L'apostat revenu à l'Islam doit rattraper les prières de sa période d'apostasie
 
 #### 3. Le Moment du Rattrapage
 - Immédiatement après s'en souvenir

@@ -56,3 +56,29 @@ export const fiqhSalatMeta: CourseMeta = {
   createdAt: '2025-12-04T00:00:00.000Z',
   updatedAt: '2025-12-04T00:00:00.000Z',
 }
+
+export const fiqhSalawatKhassaMeta: CourseMeta = {
+  id: 'course-002c',
+  slug: 'bases-fiqh-salawat-khassa',
+  title: {
+    fr: 'Les Prières Spéciales en Islam',
+    ar: 'الصلوات الخاصة في الإسلام',
+    en: 'Special Prayers in Islam',
+  },
+  description: {
+    fr: 'Maîtrisez les règles des prières spéciales selon les quatre écoles : voyageur, malade, Jumu\'ah, Eid, funéraire, éclipse, pluie et rattrapage.',
+    ar: 'أتقن أحكام الصلوات الخاصة وفق المذاهب الأربعة: صلاة المسافر، المريض، الجمعة، العيدين، الجنازة، الكسوف، الاستسقاء وقضاء الفوائت.',
+    en: 'Master the rulings of special prayers across the four schools: traveler, sick, Jumu\'ah, Eid, funeral, eclipse, rain prayer, and make-up prayers.',
+  },
+  category: 'fiqh',
+  level: 'beginner',
+  duration: '5h 00min',
+  instructor: 'Sheikh Muhammad Al-Faqih',
+  image: '/images/courses/fiqh.svg',
+  tags: ['fiqh', 'prayer', 'salah', 'special-prayers', 'worship'],
+  featured: false,
+  published: true,
+  resources: [],
+  createdAt: '2025-12-05T00:00:00.000Z',
+  updatedAt: '2025-12-05T00:00:00.000Z',
+}
