@@ -5,6 +5,7 @@ import { Analytics } from "@vercel/analytics/react";
 import { SpeedInsights } from "@vercel/speed-insights/next";
 import { Providers } from "@/components/providers";
 import { Header, Footer } from "@/components/layout";
+import { OrganizationJsonLd, WebSiteJsonLd } from "@/components/seo";
 import "./globals.css";
 
 // Polices Google optimisées
@@ -46,16 +47,16 @@ export const viewport: Viewport = {
 
 // Metadata avec OpenGraph complet
 export const metadata: Metadata = {
-  metadataBase: new URL("https://rabbi-zidni-ilma.vercel.app"),
+  metadataBase: new URL("https://www.tahalearn.com"),
   title: {
-    default: "Rabbi Zidni Ilma - وَقُل رَّبِّ زِدْنِي عِلْمًا",
-    template: "%s | Rabbi Zidni Ilma",
+    default: "TahaLearn - وَقُل رَّبِّ زِدْنِي عِلْمًا | Sciences Islamiques Gratuites",
+    template: "%s | TahaLearn",
   },
-  description: "Plateforme d'apprentissage des sciences islamiques : Tajweed, Fiqh, Aqeedah, Hadith, Seerah. Cours gratuits en français, arabe et anglais.",
-  keywords: ["Islam", "Quran", "Coran", "Tajweed", "Fiqh", "Aqeedah", "Hadith", "Seerah", "Arabic", "Sciences islamiques", "Apprentissage", "Zad Academy"],
-  authors: [{ name: "Zad Academy", url: "https://zadacademy.com" }],
-  creator: "Zad Academy",
-  publisher: "Zad Academy",
+  description: "Plateforme d'apprentissage des sciences islamiques 100% GRATUITE : Tajweed, Fiqh, Aqeedah, Seerah. Cours en français, arabe et anglais avec preuves du Coran et Sunna.",
+  keywords: ["Islam", "Quran", "Coran", "Tajweed", "Fiqh", "Aqeedah", "Hadith", "Seerah", "Sciences islamiques", "Apprentissage", "Gratuit", "TahaLearn", "Prière", "Zakat"],
+  authors: [{ name: "TahaLearn", url: "https://www.tahalearn.com" }],
+  creator: "TahaLearn",
+  publisher: "TahaLearn",
   formatDetection: {
     email: false,
     address: false,
@@ -65,25 +66,25 @@ export const metadata: Metadata = {
     type: "website",
     locale: "fr_FR",
     alternateLocale: ["ar_SA", "en_US"],
-    url: "https://rabbi-zidni-ilma.vercel.app",
-    siteName: "Rabbi Zidni Ilma",
-    title: "Rabbi Zidni Ilma - Sciences Islamiques",
-    description: "Apprenez les sciences islamiques : Tajweed, Fiqh, Aqeedah, Hadith et Seerah. Cours gratuits multilingues.",
+    url: "https://www.tahalearn.com",
+    siteName: "TahaLearn",
+    title: "TahaLearn - Sciences Islamiques Gratuites",
+    description: "Apprenez les sciences islamiques gratuitement : Tajweed, Fiqh, Aqeedah et Seerah. Cours en français, arabe et anglais.",
     images: [
       {
         url: "/og-image.png",
         width: 1200,
         height: 630,
-        alt: "Rabbi Zidni Ilma - Plateforme d'apprentissage islamique",
+        alt: "TahaLearn - Plateforme d'apprentissage islamique gratuite",
       },
     ],
   },
   twitter: {
     card: "summary_large_image",
-    title: "Rabbi Zidni Ilma - Sciences Islamiques",
+    title: "TahaLearn - Sciences Islamiques Gratuites",
     description: "Apprenez les sciences islamiques gratuitement",
     images: ["/og-image.png"],
-    creator: "@zadacademy",
+    creator: "@tahalearn",
   },
   robots: {
     index: true,
@@ -113,6 +114,10 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="fr" suppressHydrationWarning>
+      <head>
+        <OrganizationJsonLd />
+        <WebSiteJsonLd />
+      </head>
       <body
         className={`${inter.variable} ${amiri.variable} ${geistSans.variable} ${geistMono.variable} antialiased min-h-screen flex flex-col font-sans`}
       >
