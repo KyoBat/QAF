@@ -1,7 +1,7 @@
 import type { Metadata, Viewport } from "next";
 import localFont from "next/font/local";
 import { Inter, Amiri } from "next/font/google";
-import { Analytics } from "@vercel/analytics/react";
+import { Analytics } from "@vercel/analytics/next";
 import { Providers } from "@/components/providers";
 import { Header, Footer } from "@/components/layout";
 import "./globals.css";
