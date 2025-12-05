@@ -26,20 +26,7 @@ export const aqeedah2Meta: CourseMeta = {
   tags: ['aqeedah', 'tawheed', 'intermediate', 'pillars', 'detailed'],
   featured: false,
   published: true,
-  resources: [
-    {
-      type: 'pdf',
-      title: 'العقيدة الواسطية',
-      url: '/resources/wasitiyyah.pdf',
-      description: 'متن شيخ الإسلام ابن تيمية',
-    },
-    {
-      type: 'pdf',
-      title: 'كتاب التوحيد',
-      url: '/resources/kitab-tawhid.pdf',
-      description: 'للإمام محمد بن عبد الوهاب',
-    },
-  ],
+  resources: [],
   createdAt: '2025-02-15T00:00:00.000Z',
   updatedAt: '2025-12-04T00:00:00.000Z',
 }

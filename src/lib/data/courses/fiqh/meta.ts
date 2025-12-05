@@ -26,13 +26,7 @@ export const fiqhPurificationMeta: CourseMeta = {
   tags: ['fiqh', 'purification', 'worship'],
   featured: false,
   published: true,
-  resources: [
-    {
-      type: 'pdf',
-      title: 'Manuel de Fiqh Al-Ibadat - Purification',
-      url: '/resources/fiqh-ibadat-manual.pdf',
-    },
-  ],
+  resources: [],
   createdAt: '2025-01-20T00:00:00.000Z',
   updatedAt: '2025-12-04T00:00:00.000Z',
 }
@@ -58,13 +52,7 @@ export const fiqhSalatMeta: CourseMeta = {
   tags: ['fiqh', 'prayer', 'salah', 'worship'],
   featured: false,
   published: true,
-  resources: [
-    {
-      type: 'pdf',
-      title: 'Manuel de Fiqh Al-Ibadat - Salat',
-      url: '/resources/fiqh-ibadat-manual.pdf',
-    },
-  ],
+  resources: [],
   createdAt: '2025-12-04T00:00:00.000Z',
   updatedAt: '2025-12-04T00:00:00.000Z',
 }

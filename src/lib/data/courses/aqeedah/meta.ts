@@ -26,14 +26,7 @@ export const aqeedahMeta: CourseMeta = {
   tags: ['aqeedah', 'faith', 'pillars', 'tawheed', 'iman'],
   featured: true,
   published: true,
-  resources: [
-    {
-      type: 'pdf',
-      title: 'Les trois fondements (Al-Usul Al-Thalatha)',
-      url: '/resources/usul-thalatha.pdf',
-      description: "Texte de l'Imam Muhammad ibn Abd Al-Wahhab",
-    },
-  ],
+  resources: [],
   createdAt: '2025-02-01T00:00:00.000Z',
   updatedAt: '2025-02-01T00:00:00.000Z',
 }
