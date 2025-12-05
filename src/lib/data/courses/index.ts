@@ -11,6 +11,7 @@ import { aqeedah2Course } from './aqeedah-2'
 import { seerahCourse } from './seerah'
 import { hadithCourse } from './hadith'
 import { siyamCourse } from './siyam'
+import { hajjCourse } from './hajj'
 
 // Export des types
 export * from './types'
@@ -23,6 +24,7 @@ export { aqeedah2Course } from './aqeedah-2'
 export { seerahCourse } from './seerah'
 export { hadithCourse } from './hadith'
 export { siyamCourse } from './siyam'
+export { hajjCourse } from './hajj'
 
 // Export de la liste complète des cours
 export const coursesData: Course[] = [
@@ -36,6 +38,7 @@ export const coursesData: Course[] = [
   seerahCourse,
   hadithCourse,
   siyamCourse,
+  hajjCourse,
 ]
 
 const legacySlugAliases: Record<string, string> = {
