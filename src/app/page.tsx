@@ -86,7 +86,7 @@ export default function HomePage() {
               isRTL && 'flex-row-reverse'
             )}>
               <Button size="lg" asChild className="gap-2">
-                <Link href="/courses">
+                <Link href={`/courses/${featuredCourse?.slug}`}>
                   <span>{t('home.hero.cta')}</span>
                   <ChevronRight className={cn('h-5 w-5', isRTL && 'rotate-180')} />
                 </Link>
