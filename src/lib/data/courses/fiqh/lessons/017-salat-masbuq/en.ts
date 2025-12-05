@@ -5,7 +5,7 @@
 
 export const content = `# The Fiqh of Prayer
 
-## Lesson 017 — Prayer of the Late-Comer (Masbuq)
+## Prayer of the Late-Comer (Masbuq)
 
 All praise be to Allah who encouraged us to pray in congregation. May peace and blessings be upon the one who said: **"Prayer in congregation is superior to praying alone by twenty-seven degrees."** The masbuq is one who missed part of the prayer with the imam, and he has special rulings that must be learned.
 

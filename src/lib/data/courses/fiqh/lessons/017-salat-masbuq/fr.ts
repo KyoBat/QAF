@@ -5,7 +5,7 @@
 
 export const content = `# Le Fiqh de la Prière
 
-## Leçon 017 — La Prière du Retardataire (Masbuq)
+## La Prière du Retardataire (Masbuq)
 
 Louange à Allah qui nous a encouragés à la prière en groupe. Que la paix et les bénédictions soient sur celui qui a dit : **« La prière en groupe est supérieure à la prière individuelle de vingt-sept degrés »**. Le masbuq est celui qui a manqué une partie de la prière avec l'imam, et il a des règles particulières qu'il faut apprendre.
 
