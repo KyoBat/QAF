@@ -3,7 +3,7 @@
  */
 
 import { Course } from '../types'
-import { fiqhPurificationMeta, fiqhSalatMeta, fiqhSalawatKhassaMeta } from './meta'
+import { fiqhPurificationMeta, fiqhSalatMeta, fiqhSalawatKhassaMeta, fiqhZakatMeta } from './meta'
 import { lesson001 } from './lessons/001-introduction'
 import { lesson002 } from './lessons/002-tahara'
 import { lesson003 } from './lessons/003-najassa'
@@ -32,6 +32,16 @@ import { lesson024 } from './lessons/024-salat-kusuf'
 import { lesson025 } from './lessons/025-salat-istisqa'
 import { lesson026 } from './lessons/026-sujud-tilawa-shukr'
 import { lesson027 } from './lessons/027-qada-fawait'
+// Zakat (Cours séparé)
+import { lesson028 } from './lessons/028-zakat-introduction'
+import { lesson029 } from './lessons/029-zakat-conditions'
+import { lesson030 } from './lessons/030-zakat-monnaies'
+import { lesson031 } from './lessons/031-zakat-commerce'
+import { lesson032 } from './lessons/032-zakat-betail'
+import { lesson033 } from './lessons/033-zakat-agricole'
+import { lesson034 } from './lessons/034-zakat-fitr'
+import { lesson035 } from './lessons/035-zakat-beneficiaires'
+import { lesson036 } from './lessons/036-zakat-calcul'
 
 export const fiqhPurificationCourse: Course = {
   ...fiqhPurificationMeta,
@@ -151,6 +161,47 @@ export const fiqhSalawatKhassaCourse: Course = {
         'lesson-025',
         'lesson-026',
         'lesson-027',
+      ],
+    },
+  ],
+}
+
+export const fiqhZakatCourse: Course = {
+  ...fiqhZakatMeta,
+  lessons: [
+    lesson028,
+    lesson029,
+    lesson030,
+    lesson031,
+    lesson032,
+    lesson033,
+    lesson034,
+    lesson035,
+    lesson036,
+  ],
+  sections: [
+    {
+      id: 'bab-zakat',
+      title: {
+        fr: 'Chapitre : Zakat',
+        ar: 'باب الزكاة',
+        en: 'Chapter: Zakat',
+      },
+      description: {
+        fr: 'Les règles de l\'aumône obligatoire : conditions, types de richesse, taux, bénéficiaires et calcul pratique.',
+        ar: 'أحكام الزكاة: الشروط، أنواع الأموال، المقادير، المصارف والحساب العملي.',
+        en: 'Rulings on obligatory charity: conditions, wealth types, rates, beneficiaries, and practical calculation.',
+      },
+      lessonIds: [
+        'lesson-028',
+        'lesson-029',
+        'lesson-030',
+        'lesson-031',
+        'lesson-032',
+        'lesson-033',
+        'lesson-034',
+        'lesson-035',
+        'lesson-036',
       ],
     },
   ],

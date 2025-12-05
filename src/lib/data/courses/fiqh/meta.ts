@@ -82,3 +82,29 @@ export const fiqhSalawatKhassaMeta: CourseMeta = {
   createdAt: '2025-12-05T00:00:00.000Z',
   updatedAt: '2025-12-05T00:00:00.000Z',
 }
+
+export const fiqhZakatMeta: CourseMeta = {
+  id: 'course-002d',
+  slug: 'bases-fiqh-zakat',
+  title: {
+    fr: 'Le Fiqh de la Zakat',
+    ar: 'فقه الزكاة',
+    en: 'Fiqh of Zakat',
+  },
+  description: {
+    fr: 'Maîtrisez toutes les règles de la Zakat : conditions d\'obligation, types de richesse (monnaie, commerce, bétail, agriculture), Zakat Al-Fitr, bénéficiaires et calcul pratique.',
+    ar: 'أتقن جميع أحكام الزكاة: شروط الوجوب، أنواع الأموال (النقود، التجارة، الأنعام، الزروع)، زكاة الفطر، المصارف والحساب العملي.',
+    en: 'Master all Zakat rulings: conditions of obligation, wealth types (currency, trade, livestock, agriculture), Zakat Al-Fitr, beneficiaries, and practical calculation.',
+  },
+  category: 'fiqh',
+  level: 'beginner',
+  duration: '4h 30min',
+  instructor: 'Sheikh Muhammad Al-Faqih',
+  image: '/images/courses/fiqh.svg',
+  tags: ['fiqh', 'zakat', 'charity', 'pillar-of-islam', 'worship'],
+  featured: true,
+  published: true,
+  resources: [],
+  createdAt: '2025-12-05T00:00:00.000Z',
+  updatedAt: '2025-12-05T00:00:00.000Z',
+}
