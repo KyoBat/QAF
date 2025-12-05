@@ -86,6 +86,9 @@ export const metadata: Metadata = {
     images: ["/og-image.png"],
     creator: "@tahalearn",
   },
+  verification: {
+    google: "qGxX55exC0cDNkEVe9uKGnUtrFVguLWpU80if3Pu3k0",
+  },
   robots: {
     index: true,
     follow: true,
