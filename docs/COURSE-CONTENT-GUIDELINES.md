@@ -437,26 +437,69 @@ lessons/
 
 ### Template `index.ts`
 
-```typescript
-import type { Lesson } from '@/types'
-import { content as contentFr } from './fr'
-import { content as contentAr } from './ar'
-import { content as contentEn } from './en'
+> ⚠️ **IMPORTANT** : Respecter strictement le format des types pour éviter les erreurs de build.
 
-export const lesson001: Lesson = {
-  id: '001-titre-lecon',
+```typescript
+/**
+ * Fiqh - Lesson XXX: [Titre arabe]
+ * [Description courte]
+ */
+
+import type { Lesson } from '@/lib/schemas/course';
+import { content as contentFr } from './fr';
+import { content as contentAr } from './ar';
+import { content as contentEn } from './en';
+
+export const lessonXXX: Lesson = {
+  id: 'lesson-XXX',           // Format: 'lesson-XXX' (ex: 'lesson-028')
   title: {
     fr: 'Titre en français',
     ar: 'العنوان بالعربية',
     en: 'Title in English',
   },
-  duration: 15,
-  type: 'text',
+  duration: '30 min',         // ⚠️ STRING obligatoire (ex: '25 min', '1h 30min')
   content: {
     fr: contentFr,
     ar: contentAr,
     en: contentEn,
   },
+  order: 1,                   // ⚠️ NUMBER obligatoire (position dans le cours)
+};
+
+export default lessonXXX;
+```
+
+### ⚠️ Erreurs Courantes à Éviter dans `index.ts`
+
+| ❌ Erreur | ✅ Correct | Explication |
+|-----------|-----------|-------------|
+| `duration: 30` | `duration: '30 min'` | Duration doit être une **string** |
+| `order: '1'` | `order: 1` | Order doit être un **number** |
+| `id: 'fiqh-028-zakat'` | `id: 'lesson-028'` | Format standard : `lesson-XXX` |
+| `import { Lesson } from '@/types'` | `import type { Lesson } from '@/lib/schemas/course'` | Import correct du type |
+| Pas de `order` | `order: 5` | Propriété obligatoire |
+| `export const lesson028ZakatIntro` | `export const lesson028` | Nom court : `lessonXXX` |
+
+### Correspondance `lessonIds` dans les Sections
+
+Les `lessonIds` dans la définition du cours doivent correspondre aux `id` des leçons :
+
+```typescript
+// Dans fiqh/index.ts - Définition du cours
+export const fiqhZakatCourse: Course = {
+  ...fiqhZakatMeta,
+  lessons: [lesson028, lesson029, ...],
+  sections: [
+    {
+      id: 'bab-zakat',
+      title: { fr: 'Chapitre : Zakat', ... },
+      lessonIds: [
+        'lesson-028',    // ✅ Doit correspondre à lesson028.id
+        'lesson-029',    // ✅ Doit correspondre à lesson029.id
+        // ...
+      ],
+    },
+  ],
 }
 ```
 
