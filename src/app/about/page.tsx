@@ -199,7 +199,7 @@ export default function AboutPage() {
               </Link>
             </Button>
             <Button size="lg" variant="outline" asChild className="gap-2 bg-transparent border-primary-foreground/30 text-primary-foreground hover:bg-primary-foreground/10">
-              <a href="mailto:contact@tahalearn.com">
+              <a href="mailto:tahalearnacademy@gmail.com">
                 <Mail className="h-5 w-5" />
                 <span>{t('about.cta.contact')}</span>
               </a>

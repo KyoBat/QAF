@@ -24,7 +24,7 @@ export function OrganizationJsonLd() {
     ],
     contactPoint: {
       '@type': 'ContactPoint',
-      email: 'contact@tahalearn.com',
+      email: 'tahalearnacademy@gmail.com',
       contactType: 'customer service',
       availableLanguage: ['French', 'Arabic', 'English'],
     },

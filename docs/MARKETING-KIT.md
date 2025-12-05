@@ -249,7 +249,7 @@ Wassalamou alaykoum wa rahmatullahi wa barakatuh,
 
 [Votre nom]
 TahaLearn
-contact@tahalearn.com
+tahalearnacademy@gmail.com
 tahalearn.com
 ```
 
