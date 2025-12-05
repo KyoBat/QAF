@@ -1444,6 +1444,140 @@ export const yawmAkhirData: MindMapDataMultiLang = {
 };
 
 // ============================================
+// SIYAM - Leçon 001: Introduction au Jeûne
+// ============================================
+export const siyamIntroductionData: MindMapDataMultiLang = {
+  id: 'root',
+  label: { ar: 'الصيام', en: 'Fasting (Siyam)', fr: 'Le Jeûne (Siyam)' },
+  icon: '🌙',
+  color: '#1e3a5f',
+  children: [
+    {
+      id: 'definition',
+      label: { ar: 'التعريف', en: 'Definition', fr: 'Définition' },
+      icon: '📖',
+      color: '#2d6a4f',
+      children: [
+        { id: 'linguistic', label: { ar: 'لغة: الإمساك', en: 'Linguistically: Abstention', fr: 'Linguistique: Abstention' }, icon: '📝' },
+        { id: 'legal', label: { ar: 'شرعاً: الإمساك عن المفطرات', en: 'Legally: Abstaining from invalidators', fr: 'Légal: Abstention des invalidateurs' }, icon: '⚖️' },
+        { id: 'timing', label: { ar: 'من الفجر إلى الغروب', en: 'From dawn to sunset', fr: 'De l\'aube au coucher' }, icon: '🌅' },
+        { id: 'intention', label: { ar: 'بنية', en: 'With intention', fr: 'Avec intention' }, icon: '❤️' },
+      ],
+    },
+    {
+      id: 'prescription',
+      label: { ar: 'المشروعية', en: 'Prescription', fr: 'Prescription' },
+      icon: '📜',
+      color: '#7b2cbf',
+      children: [
+        { id: 'quran', label: { ar: 'القرآن: البقرة 183', en: 'Quran: Al-Baqara 183', fr: 'Coran: Al-Baqara 183' }, icon: '📖' },
+        { id: 'sunnah', label: { ar: 'السنة: حديث أركان الإسلام', en: 'Sunnah: Pillars hadith', fr: 'Sunna: Hadith des piliers' }, icon: '📚' },
+        { id: 'ijma', label: { ar: 'الإجماع', en: 'Consensus', fr: 'Consensus (Ijma\')' }, icon: '🤝' },
+      ],
+    },
+    {
+      id: 'wisdom',
+      label: { ar: 'الحكم والفضائل', en: 'Wisdom & Virtues', fr: 'Sagesses & Vertus' },
+      icon: '✨',
+      color: '#c9184a',
+      children: [
+        { id: 'taqwa', label: { ar: 'التقوى', en: 'Piety (Taqwa)', fr: 'Piété (Taqwa)' }, icon: '🙏' },
+        { id: 'purify', label: { ar: 'تزكية النفس', en: 'Soul purification', fr: 'Purification de l\'âme' }, icon: '💎' },
+        { id: 'empathy', label: { ar: 'الشعور بالفقراء', en: 'Empathy for poor', fr: 'Empathie envers les pauvres' }, icon: '❤️' },
+        { id: 'forgiveness', label: { ar: 'غفران الذنوب', en: 'Sins forgiven', fr: 'Pardon des péchés' }, icon: '🌟' },
+      ],
+    },
+    {
+      id: 'types',
+      label: { ar: 'أنواع الصيام', en: 'Types of Fasting', fr: 'Types de Jeûne' },
+      icon: '📋',
+      color: '#9c6644',
+      children: [
+        { id: 'wajib', label: { ar: 'واجب: رمضان، القضاء، النذر', en: 'Obligatory: Ramadan, make-up, vow', fr: 'Obligatoire: Ramadan, rattrapage, vœu' }, icon: '⭐' },
+        { id: 'mustahab', label: { ar: 'مستحب: الإثنين، الخميس، عرفة', en: 'Recommended: Mon/Thu, Arafah', fr: 'Recommandé: Lun/Jeu, Arafah' }, icon: '💚' },
+        { id: 'haram', label: { ar: 'حرام: العيدين', en: 'Forbidden: Two Eids', fr: 'Interdit: Les deux Eids' }, icon: '🚫' },
+        { id: 'makruh', label: { ar: 'مكروه: الجمعة منفرداً', en: 'Disliked: Friday alone', fr: 'Détestable: Vendredi seul' }, icon: '⚠️' },
+      ],
+    },
+  ],
+};
+
+// ============================================
+// SIYAM - Leçon 002: Conditions d'Obligation
+// ============================================
+export const siyamConditionsData: MindMapDataMultiLang = {
+  id: 'root',
+  label: { ar: 'شروط وجوب الصيام', en: 'Conditions of Obligation', fr: 'Conditions d\'Obligation' },
+  icon: '📋',
+  color: '#1e3a5f',
+  children: [
+    {
+      id: 'islam',
+      label: { ar: 'الإسلام', en: 'Islam', fr: 'L\'Islam' },
+      icon: '☪️',
+      color: '#2d6a4f',
+      children: [
+        { id: 'muslim-only', label: { ar: 'المسلم فقط', en: 'Muslim only', fr: 'Musulman uniquement' }, icon: '✅' },
+        { id: 'conversion', label: { ar: 'الإسلام يجب ما قبله', en: 'Islam erases what preceded', fr: 'L\'Islam efface ce qui précède' }, icon: '🔄' },
+      ],
+    },
+    {
+      id: 'puberty',
+      label: { ar: 'البلوغ', en: 'Puberty', fr: 'La Puberté' },
+      icon: '👤',
+      color: '#7b2cbf',
+      children: [
+        { id: 'signs-male', label: { ar: 'الاحتلام، الشعر، 15 سنة', en: 'Wet dream, hair, 15 years', fr: 'Éjaculation, poils, 15 ans' }, icon: '👦' },
+        { id: 'signs-female', label: { ar: 'الحيض، الشعر، 15 سنة', en: 'Menses, hair, 15 years', fr: 'Menstrues, poils, 15 ans' }, icon: '👧' },
+        { id: 'child-training', label: { ar: 'تعويد الصبي مستحب', en: 'Training child recommended', fr: 'Habituer l\'enfant recommandé' }, icon: '📚' },
+      ],
+    },
+    {
+      id: 'reason',
+      label: { ar: 'العقل', en: 'Reason', fr: 'La Raison' },
+      icon: '🧠',
+      color: '#c9184a',
+      children: [
+        { id: 'insane', label: { ar: 'المجنون: لا قضاء', en: 'Insane: no make-up', fr: 'Fou: pas de rattrapage' }, icon: '❌' },
+        { id: 'unconscious', label: { ar: 'المغمى عليه', en: 'Unconscious', fr: 'Inconscient' }, icon: '😴' },
+      ],
+    },
+    {
+      id: 'ability',
+      label: { ar: 'القدرة', en: 'Ability', fr: 'La Capacité' },
+      icon: '💪',
+      color: '#9c6644',
+      children: [
+        { id: 'sick', label: { ar: 'المريض: قضاء', en: 'Sick: make-up', fr: 'Malade: rattrapage' }, icon: '🤒' },
+        { id: 'traveler', label: { ar: 'المسافر: قضاء', en: 'Traveler: make-up', fr: 'Voyageur: rattrapage' }, icon: '✈️' },
+        { id: 'pregnant', label: { ar: 'الحامل والمرضع: قضاء', en: 'Pregnant/nursing: make-up', fr: 'Enceinte/allaitante: rattrapage' }, icon: '🤰' },
+        { id: 'elderly', label: { ar: 'الشيخ الكبير: فدية', en: 'Elderly: fidya', fr: 'Vieillard: fidya' }, icon: '👴' },
+      ],
+    },
+    {
+      id: 'residence',
+      label: { ar: 'الإقامة', en: 'Residence', fr: 'La Résidence' },
+      icon: '🏠',
+      color: '#0077b6',
+      children: [
+        { id: 'travel-choice', label: { ar: 'المسافر مخير', en: 'Traveler has choice', fr: 'Voyageur a le choix' }, icon: '🔀' },
+        { id: 'maliki-view', label: { ar: 'المالكية: الصوم أفضل', en: 'Maliki: fasting better', fr: 'Malikite: jeûner préférable' }, icon: '🟡' },
+      ],
+    },
+    {
+      id: 'no-impediment',
+      label: { ar: 'عدم الموانع', en: 'No Impediments', fr: 'Absence d\'Empêchements' },
+      icon: '🚫',
+      color: '#d00000',
+      children: [
+        { id: 'menses', label: { ar: 'الحيض: حرام + قضاء', en: 'Menses: forbidden + make-up', fr: 'Menstrues: interdit + rattrapage' }, icon: '🔴' },
+        { id: 'postpartum', label: { ar: 'النفاس: حرام + قضاء', en: 'Postpartum: forbidden + make-up', fr: 'Lochies: interdit + rattrapage' }, icon: '🔴' },
+      ],
+    },
+  ],
+};
+
+// ============================================
 // Map lesson IDs to their MindMap data
 // Format: 'course-slug:lesson-id' for unique identification
 // ============================================
@@ -1470,6 +1604,9 @@ export const lessonMindMapsMultiLang: Record<string, MindMapDataMultiLang> = {
   'fiqh:lesson-015': salatSunanNullifiersData,
   'fiqh:lesson-016': sujoodSahwData,
   'fiqh:lesson-017': salatMasbuqData,
+  // Siyam lessons
+  'siyam:lesson-001': siyamIntroductionData,
+  'siyam:lesson-002': siyamConditionsData,
 };
 
 // Get mindmap by lesson ID with locale
@@ -1479,6 +1616,7 @@ export function getMindMapForLesson(lessonId: string, locale: string = 'fr', cou
   if (courseSlug) {
     // Normalize course slug (remove 'bases-' prefix, etc.)
     const normalizedSlug = courseSlug.includes('aqeedah') ? 'aqeedah' : 
+                          courseSlug.includes('siyam') ? 'siyam' :
                           courseSlug.includes('fiqh') ? 'fiqh' : courseSlug;
     const key = `${normalizedSlug}:${lessonId}`;
     const data = lessonMindMapsMultiLang[key];
