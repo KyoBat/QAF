@@ -1,6 +1,6 @@
 {
   "app": {
-    "name": "Rabbi Zidni Ilma",
+    "name": "TahaLearn",
     "tagline": "Seigneur, augmente ma science"
   },
   "nav": {
@@ -106,7 +106,7 @@
     "changeLanguage": "Changer de langue"
   },
   "footer": {
-    "copyright": "© {year} Rabbi Zidni Ilma. Tous droits réservés.",
+    "copyright": "© {year} TahaLearn. Tous droits réservés.",
     "madeWith": "Fait avec la foi",
     "forUmmah": "pour la Oumma"
   }

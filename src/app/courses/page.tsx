@@ -10,7 +10,7 @@ import { getCoursesListData } from '@/lib/data/courses/courses-list'
 import { CoursesPageClient } from './CoursesPageClient'
 
 export const metadata: Metadata = {
-  title: 'Cours | Rabbi Zidni Ilma',
+  title: 'Cours | TahaLearn',
   description: 'Découvrez nos cours de sciences islamiques : Tajweed, Fiqh, Aqeedah, Seerah et plus encore.',
 }
 

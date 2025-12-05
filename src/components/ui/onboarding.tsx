@@ -39,9 +39,9 @@ export function OnboardingModal() {
     {
       icon: Sparkles,
       title: {
-        fr: 'Bienvenue sur Qaf ! 🎉',
-        ar: 'مرحباً بك في قاف! 🎉',
-        en: 'Welcome to Qaf! 🎉',
+        fr: 'Bienvenue sur TahaLearn ! 🎉',
+        ar: 'مرحباً بك في طه للتعلم! 🎉',
+        en: 'Welcome to TahaLearn! 🎉',
       },
       description: {
         fr: 'Votre plateforme gratuite pour apprendre les sciences islamiques. Commençons par personnaliser votre expérience.',

@@ -1,6 +1,6 @@
 {
   "app": {
-    "name": "Rabbi Zidni Ilma",
+    "name": "TahaLearn",
     "tagline": "My Lord, increase me in knowledge"
   },
   "nav": {
@@ -106,7 +106,7 @@
     "changeLanguage": "Change language"
   },
   "footer": {
-    "copyright": "© {year} Rabbi Zidni Ilma. All rights reserved.",
+    "copyright": "© {year} TahaLearn. All rights reserved.",
     "madeWith": "Made with faith",
     "forUmmah": "for the Ummah"
   }
