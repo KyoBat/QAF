@@ -331,32 +331,6 @@ export default function HomePageClient({
           </div>
         </div>
       </section>
-
-      {/* CTA Section */}
-      <section className="py-20 bg-primary">
-        <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-          <h2 className={cn(
-            'text-3xl sm:text-4xl font-bold text-primary-foreground mb-4',
-            isRTL && 'font-arabic'
-          )}>
-            {t('home.cta.title')}
-          </h2>
-          <p className="text-lg text-primary-foreground/80 mb-8">
-            {t('home.cta.subtitle')}
-          </p>
-          <Button 
-            size="lg" 
-            variant="secondary" 
-            asChild 
-            className="gap-2"
-          >
-            <Link href="/courses">
-              <span>{t('home.hero.cta')}</span>
-              <ChevronRight className={cn('h-5 w-5', isRTL && 'rotate-180')} />
-            </Link>
-          </Button>
-        </div>
-      </section>
     </div>
   )
 }
