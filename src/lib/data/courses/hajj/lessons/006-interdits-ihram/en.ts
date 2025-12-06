@@ -3,15 +3,15 @@
  * English Content - Following redaction guidelines
  */
 
-export const content = `# Prohibitions During Ihram (محظورات الإحرام)
+export const content = `# 📜 مَحْظُورَاتُ الإِحْرَام — Prohibitions During Ihram
 
-## Introduction
-
-The state of Ihram sanctifies the pilgrim and requires them to abandon certain normally permissible acts. **These prohibitions (mahzurat) symbolize complete detachment from the material world** and remind the pilgrim that they are entirely consecrated to Allah during this blessed period. A precise understanding of these prohibitions and their compensations (fidya) enables the pilgrim to perform a Hajj in accordance with the Sunnah.
+> The state of Ihram sanctifies the pilgrim and requires them to abandon certain normally permissible acts. **These prohibitions (mahzurāt) symbolize complete detachment from the material world** and remind the pilgrim that they are entirely consecrated to Allah during this blessed period.
 
 ---
 
-## 📖 Foundational Quranic Text
+## 📖 Foundational Text (النص التأسيسي)
+
+### 🔷 The Verse of Prohibitions
 
 > **﴿ فَمَن فَرَضَ فِيهِنَّ الْحَجَّ فَلَا رَفَثَ وَلَا فُسُوقَ وَلَا جِدَالَ فِي الْحَجِّ ﴾**
 > *"Whoever undertakes the Hajj therein: no sexual relations (rafath), no transgression (fusuq), no disputing (jidal) during Hajj"*
@@ -23,7 +23,7 @@ The state of Ihram sanctifies the pilgrim and requires them to abandon certain n
 
 ---
 
-## 📜 Reference Hadith
+### 🔷 The Hadith of Clothing
 
 > عَنِ ابْنِ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا أَنَّ رَجُلًا سَأَلَ رَسُولَ اللَّهِ ﷺ: مَا يَلْبَسُ الْمُحْرِمُ؟ فَقَالَ: **« لاَ يَلْبَسُ الْقَمِيصَ وَلاَ الْعَمَائِمَ وَلاَ السَّرَاوِيلاَتِ وَلاَ الْبَرَانِسَ وَلاَ الْخِفَافَ، إِلَّا أَنْ لاَ يَجِدَ نَعْلَيْنِ فَلْيَلْبَسِ الْخُفَّيْنِ، وَلْيَقْطَعْهُمَا حَتَّى يَكُونَا أَسْفَلَ مِنَ الْكَعْبَيْنِ. وَلاَ يَلْبَسْ مِنَ الثِّيَابِ شَيْئًا مَسَّهُ زَعْفَرَانٌ أَوْ الْوَرْسُ »**
 
@@ -33,21 +33,22 @@ From Ibn 'Umar رضي الله عنهما, a man asked the Messenger of Allah �
 
 ---
 
-## 🗣️ Scholarly Statements
+## 🎓 Scholarly Statements (أقوال العلماء)
 
-> **Imam Malik** رحمه الله said in *Al-Mudawwana*: "The muhrim abstains from what beautifies and perfumes him, for Ihram is a state of humility and submission before Allah."
-
-> **Ibn Rushd** رحمه الله explains in *Bidayat al-Mujtahid*: "The prohibitions of Ihram are divided into categories: those concerning the body (clothing, perfume), those concerning flesh (hunting, intercourse), and those concerning speech (disputing, obscenity)."
-
-> **Al-Qurtubi** رحمه الله comments: "Rafath refers to intercourse and everything that leads to it in word or deed. Fusuq encompasses all disobedience to Allah. Jidal is the disputing that leads to anger and distancing from Allah."
-
-> **Khalil ibn Ishaq** رحمه الله summarizes in *Al-Mukhtasar*: "The prohibitions of Ihram are nine: fitted clothing, head covering, perfume, shaving, cutting nails, hunting, intercourse, marriage contract, and covering the face for women."
+| Scholar | Statement |
+|---------|----------|
+| **Imam Mālik** رحمه الله | *"The muhrim abstains from what beautifies and perfumes him, for Ihram is a state of humility and submission before Allah."* — *Al-Mudawwana* |
+| **Ibn Rushd** رحمه الله | *"The prohibitions of Ihram are divided into categories: those concerning the body (clothing, perfume), those concerning flesh (hunting, intercourse), and those concerning speech."* — *Bidāyat al-Mujtahid* |
+| **Al-Qurtubī** رحمه الله | *"Rafath refers to intercourse and everything that leads to it in word or deed."* — *Tafsīr* |
+| **Khalīl ibn Ishāq** رحمه الله | *"The prohibitions of Ihram are nine: fitted clothing, head covering, perfume, shaving, cutting nails, hunting, intercourse, marriage contract, and covering the face for women."* — *Al-Mukhtaṣar* |
 
 ---
 
-## 🔤 Linguistic Analysis
+## 🔍 Linguistic Analysis (التحليل اللغوي)
 
-| Arabic Term | Transliteration | Root | Technical Definition |
+### 📜 Vocabulary of Prohibitions
+
+| Term | Arabic | Root | Meaning |
 |-------------|-----------------|------|---------------------|
 | **محظورات** | Mahzurat | ح-ظ-ر | Prohibitions, acts forbidden during Ihram |
 | **رفث** | Rafath | ر-ف-ث | Sexual intercourse and all obscene speech |

@@ -3,15 +3,15 @@
  * English Content - Following redaction guidelines
  */
 
-export const content = `# The Obligations of Hajj (واجبات الحج)
+export const content = `# 📜 وَاجِبَاتُ الحَجّ — The Obligations of Hajj
 
-## Introduction
-
-The obligations of Hajj (wajibat) constitute an intermediate level between the pillars (arkan) and the recommended acts (sunan). **Their omission does not invalidate Hajj but requires compensation through sacrifice** (dam). This fundamental distinction allows the pilgrim to understand the hierarchy of ritual acts and act accordingly in case of unintentional omission.
+> The obligations of Hajj (wājibāt) constitute an intermediate level between the pillars (arkān) and the recommended acts (sunan). **Their omission does not invalidate Hajj but requires compensation through sacrifice** (dam).
 
 ---
 
-## 📖 Foundational Quranic Text
+## 📖 Foundational Text (النص التأسيسي)
+
+### 🔷 The Verse of Completion
 
 > **﴿ وَأَتِمُّوا الْحَجَّ وَالْعُمْرَةَ لِلَّهِ ﴾**
 > *"And complete the Hajj and 'Umrah for Allah"*
@@ -21,7 +21,7 @@ This divine command encompasses the performance of all Hajj acts: pillars, oblig
 
 ---
 
-## 📜 Reference Hadith
+### 🔷 The Hadith of Obligations
 
 > عَنْ عَبْدِ الرَّحْمَنِ بْنِ يَعْمَرَ الدِّيلِيِّ قَالَ: شَهِدْتُ رَسُولَ اللَّهِ ﷺ وَهُوَ وَاقِفٌ بِعَرَفَةَ وَأَتَاهُ نَاسٌ مِنْ أَهْلِ نَجْدٍ فَقَالُوا: يَا رَسُولَ اللَّهِ، كَيْفَ الْحَجُّ؟ قَالَ: **« الْحَجُّ عَرَفَةُ، فَمَنْ جَاءَ قَبْلَ صَلَاةِ الْفَجْرِ مِنْ لَيْلَةِ جَمْعٍ فَقَدْ تَمَّ حَجُّهُ »**
 
@@ -33,21 +33,22 @@ This hadith distinguishes the essential pillar ('Arafat) from other obligatory o
 
 ---
 
-## 🗣️ Scholarly Statements
+## 🎓 Scholarly Statements (أقوال العلماء)
 
-> **Imam Malik** رحمه الله said in *Al-Muwatta'*: "The obligations of Hajj are acts that must be performed, and if they are omitted, a sacrifice is required, but the Hajj remains valid."
-
-> **Ibn Rushd** رحمه الله explains in *Bidayat al-Mujtahid*: "Scholars unanimously agree that omitting a wajib does not invalidate Hajj, unlike omitting a rukn. The disagreement lies in the details of what is wajib and what is sunnah."
-
-> **Al-Qurtubi** رحمه الله comments: "The command to complete Hajj in its entirety (itmam) includes all its acts: what is obligatory by nature and what is obligatory as a complement."
-
-> **Khalil ibn Ishaq** رحمه الله enumerates in *Al-Mukhtasar* the Maliki obligations: "The wajibat are six: Ihram from the Miqat, staying overnight at Muzdalifa, staying overnight at Mina, stoning the Jamarat, shaving or trimming, and the Farewell Tawaf."
+| Scholar | Statement |
+|---------|----------|
+| **Imam Mālik** رحمه الله | *"The obligations of Hajj are acts that must be performed, and if they are omitted, a sacrifice is required, but the Hajj remains valid."* — *Al-Muwatta'* |
+| **Ibn Rushd** رحمه الله | *"Scholars unanimously agree that omitting a wājib does not invalidate Hajj, unlike omitting a rukn."* — *Bidāyat al-Mujtahid* |
+| **Al-Qurtubī** رحمه الله | *"The command to complete Hajj in its entirety includes all its acts."* — *Tafsīr* |
+| **Khalīl ibn Ishāq** رحمه الله | *"The wājibāt are six: Ihram from the Miqat, staying at Muzdalifa, staying at Mina, stoning the Jamarat, shaving or trimming, and the Farewell Tawaf."* — *Al-Mukhtaṣar* |
 
 ---
 
-## 🔤 Linguistic Analysis
+## 🔍 Linguistic Analysis (التحليل اللغوي)
 
-| Arabic Term | Transliteration | Root | Technical Definition |
+### 📜 Vocabulary of Obligations
+
+| Term | Arabic | Root | Meaning |
 |-------------|-----------------|------|---------------------|
 | **واجب** | Wajib | و-ج-ب | That which is established, required — an act whose performance is demanded |
 | **دم** | Dam | د-م-م | Blood — by extension, expiatory sacrifice |

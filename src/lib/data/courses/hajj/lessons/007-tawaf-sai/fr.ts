@@ -3,11 +3,9 @@
  * Contenu en Français - Conforme au guide de rédaction
  */
 
-export const content = `# Le Tawaf et le Sa'i (الطواف والسعي)
+export const content = `# 📜 الطَّوَافُ وَالسَّعْيُ — Le Tawaf et le Sa'i
 
-## Introduction
-
-Le Tawaf (circumambulation) autour de la Ka'ba et le Sa'i (parcours) entre Safa et Marwa sont parmi les rites les plus emblématiques du pèlerinage. **Le Tawaf al-Ifâda est un pilier du Hajj, tandis que le Sa'i en est également un pilier selon la majorité des savants.** Ces deux rites relient le pèlerin à l'histoire prophétique : le Tawaf rappelle la dévotion des prophètes depuis Ibrahim عليه السلام, et le Sa'i commémore la recherche d'eau de Hâjar عليها السلام pour son fils Ismâ'îl.
+> Le Tawaf (circumambulation) autour de la Ka'ba et le Sa'i (parcours) entre Safa et Marwa sont parmi les rites les plus emblématiques du pèlerinage. **Le Tawaf al-Ifâda est un pilier du Hajj, tandis que le Sa'i en est également un pilier selon la majorité des savants.** Ces deux rites relient le pèlerin à l'histoire prophétique : le Tawaf rappelle la dévotion des prophètes depuis Ibrahim عليه السلام, et le Sa'i commémore la recherche d'eau de Hâjar عليها السلام pour son fils Ismâ'îl.
 
 ---
 
@@ -33,19 +31,18 @@ D'après Jâbir رضي الله عنه décrivant le Hajj du Prophète ﷺ : **�
 
 ---
 
-## 🗣️ Paroles des Savants
+## 🎓 Paroles des Savants
 
-> **L'Imam Mâlik** رحمه الله a dit dans *Al-Muwatta'* : « Le Tawaf al-Ifâda est le Tawaf obligatoire (du Hajj), c'est le Tawaf du rite (tawâf az-ziyâra), et sans lui le Hajj n'est pas complet. »
-
-> **Ibn Rushd** رحمه الله explique dans *Bidâyat al-Mujtahid* : « Les savants sont unanimes sur l'obligation du Tawaf al-Ifâda. Ils divergent sur le Sa'i : la majorité en fait un pilier, les Hanafites le considèrent comme obligatoire (wâjib) mais non pilier. »
-
-> **Al-Qurtubî** رحمه الله commente le verset sur Safa et Marwa : « L'expression "nulle faute" fut révélée car certains Compagnons hésitaient à faire le Sa'i, pensant que c'était une pratique de la Jâhiliyya. Le verset confirme son obligation. »
-
-> **Khalîl ibn Ishâq** رحمه الله énonce dans *Al-Mukhtasar* : « Les piliers du Hajj sont quatre : l'Ihram, le Wuqûf, le Tawaf al-Ifâda, et le Sa'i. »
+| Savant | Ouvrage | Citation |
+|--------|---------|----------|
+| **L'Imam Mâlik** رحمه الله | *Al-Muwatta'* | « Le Tawaf al-Ifâda est le Tawaf obligatoire (du Hajj), c'est le Tawaf du rite (tawâf az-ziyâra), et sans lui le Hajj n'est pas complet. » |
+| **Ibn Rushd** رحمه الله | *Bidâyat al-Mujtahid* | « Les savants sont unanimes sur l'obligation du Tawaf al-Ifâda. Ils divergent sur le Sa'i : la majorité en fait un pilier, les Hanafites le considèrent comme obligatoire (wâjib) mais non pilier. » |
+| **Al-Qurtubî** رحمه الله | *Tafsîr* | « L'expression "nulle faute" fut révélée car certains Compagnons hésitaient à faire le Sa'i, pensant que c'était une pratique de la Jâhiliyya. Le verset confirme son obligation. » |
+| **Khalîl ibn Ishâq** رحمه الله | *Al-Mukhtasar* | « Les piliers du Hajj sont quatre : l'Ihram, le Wuqûf, le Tawaf al-Ifâda, et le Sa'i. » |
 
 ---
 
-## 🔤 Analyse Linguistique
+## 🔍 Analyse Linguistique
 
 | Terme Arabe | Translittération | Racine | Définition Technique |
 |-------------|------------------|--------|---------------------|

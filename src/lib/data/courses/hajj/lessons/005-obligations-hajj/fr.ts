@@ -3,15 +3,15 @@
  * Contenu en Français - Conforme au guide de rédaction
  */
 
-export const content = `# Les Obligations du Hajj (واجبات الحج)
+export const content = `# 📜 وَاجِبَاتُ الحَجّ — Les Obligations du Hajj
 
-## Introduction
-
-Les obligations du Hajj (wâjibât) constituent un niveau intermédiaire entre les piliers (arkân) et les actes recommandés (sunan). **Leur omission n'invalide pas le Hajj mais nécessite une compensation par le sacrifice** (dam). Cette distinction fondamentale permet au pèlerin de comprendre la hiérarchie des actes rituels et d'agir en conséquence en cas de manquement involontaire.
+> Les obligations du Hajj (wājibāt) constituent un niveau intermédiaire entre les piliers (arkān) et les actes recommandés (sunan). **Leur omission n'invalide pas le Hajj mais nécessite une compensation par le sacrifice** (dam).
 
 ---
 
-## 📖 Texte Coranique Fondateur
+## 📖 Texte Fondateur (النص التأسيسي)
+
+### 🔷 Le Verset de l'Accomplissement
 
 > **﴿ وَأَتِمُّوا الْحَجَّ وَالْعُمْرَةَ لِلَّهِ ﴾**
 > *« Accomplissez pour Allah le Hajj et la 'Umra dans leur intégralité »*
@@ -33,22 +33,23 @@ Ce hadith distingue le pilier essentiel ('Arafat) des autres actes obligatoires 
 
 ---
 
-## 🗣️ Paroles des Savants
+## 🎓 Paroles des Savants (أقوال العلماء)
 
-> **L'Imam Mâlik** رحمه الله a dit dans *Al-Muwatta'* : « Les obligations du Hajj sont des actes que l'on doit accomplir, et si on les délaisse, on doit un sacrifice, mais le Hajj reste valide. »
-
-> **Ibn Rushd** رحمه الله explique dans *Bidâyat al-Mujtahid* : « Les savants sont unanimes sur le fait que l'omission d'un wâjib ne rend pas le Hajj invalide, contrairement à l'omission d'un rukn. La divergence porte sur le détail de ce qui est wâjib et de ce qui est sunna. »
-
-> **Al-Qurtubî** رحمه الله commente : « L'ordre d'accomplir le Hajj dans son intégralité (itmâm) implique tous ses actes : ce qui est obligatoire par nature et ce qui est obligatoire comme complément. »
-
-> **Khalîl ibn Ishâq** رحمه الله énumère dans *Al-Mukhtasar* les obligations malikites : « Les wâjibât sont au nombre de six : l'Ihram depuis le Miqat, le Mabit à Muzdalifa, le Mabit à Mina, le jet des Jamarat, le rasage ou la coupe, et le Tawaf d'adieu. »
+| Savant | Citation |
+|--------|----------|
+| **Imam Mālik** رحمه الله | *« Les obligations du Hajj sont des actes que l'on doit accomplir, et si on les délaisse, on doit un sacrifice, mais le Hajj reste valide. »* — *Al-Muwatta'* |
+| **Ibn Rushd** رحمه الله | *« Les savants sont unanimes sur le fait que l'omission d'un wājib ne rend pas le Hajj invalide, contrairement à l'omission d'un rukn. »* — *Bidāyat al-Mujtahid* |
+| **Al-Qurtubī** رحمه الله | *« L'ordre d'accomplir le Hajj dans son intégralité (itmām) implique tous ses actes : ce qui est obligatoire par nature et ce qui est obligatoire comme complément. »* — *Tafsīr* |
+| **Khalīl ibn Ishāq** رحمه الله | *« Les wājibāt sont au nombre de six : l'Ihram depuis le Miqat, le Mabit à Muzdalifa, le Mabit à Mina, le jet des Jamarat, le rasage ou la coupe, et le Tawaf d'adieu. »* — *Al-Mukhtaṣar* |
 
 ---
 
-## 🔤 Analyse Linguistique
+## 🔍 Analyse Linguistique (التحليل اللغوي)
 
-| Terme Arabe | Translittération | Racine | Définition Technique |
-|-------------|------------------|--------|---------------------|
+### 📜 Vocabulaire des Obligations
+
+| Terme | Arabe | Racine | Signification |
+|-------|-------|--------|---------------|
 | **واجب** | Wâjib | و-ج-ب | Ce qui est établi, requis — acte dont l'accomplissement est exigé |
 | **دم** | Dam | د-م-م | Sang — par extension, sacrifice expiatoire |
 | **مبيت** | Mabît | ب-ي-ت | Passer la nuit — séjour nocturne obligatoire |

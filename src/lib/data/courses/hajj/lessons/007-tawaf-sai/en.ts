@@ -3,11 +3,9 @@
  * English Content - Following redaction guidelines
  */
 
-export const content = `# Tawaf and Sa'i (الطواف والسعي)
+export const content = `# 📜 الطَّوَافُ وَالسَّعْيُ — Tawaf and Sa'i
 
-## Introduction
-
-Tawaf (circumambulation) around the Ka'ba and Sa'i (walking) between Safa and Marwa are among the most emblematic rites of pilgrimage. **Tawaf al-Ifada is a pillar of Hajj, while Sa'i is also a pillar according to the majority of scholars.** These two rites connect the pilgrim to prophetic history: Tawaf recalls the devotion of prophets since Ibrahim عليه السلام, and Sa'i commemorates Hajar's عليها السلام search for water for her son Isma'il.
+> Tawaf (circumambulation) around the Ka'ba and Sa'i (walking) between Safa and Marwa are among the most emblematic rites of pilgrimage. **Tawaf al-Ifada is a pillar of Hajj, while Sa'i is also a pillar according to the majority of scholars.** These two rites connect the pilgrim to prophetic history: Tawaf recalls the devotion of prophets since Ibrahim عليه السلام, and Sa'i commemorates Hajar's عليها السلام search for water for her son Isma'il.
 
 ---
 
@@ -33,19 +31,18 @@ From Jabir رضي الله عنه describing the Prophet's ﷺ Hajj: **"When we 
 
 ---
 
-## 🗣️ Scholarly Statements
+## 🎓 Scholarly Statements
 
-> **Imam Malik** رحمه الله said in *Al-Muwatta'*: "Tawaf al-Ifada is the obligatory Tawaf (of Hajj), it is the Tawaf of the rite (tawaf az-ziyara), and without it Hajj is not complete."
-
-> **Ibn Rushd** رحمه الله explains in *Bidayat al-Mujtahid*: "Scholars are unanimous on the obligation of Tawaf al-Ifada. They differ on Sa'i: the majority considers it a pillar, the Hanafis consider it obligatory (wajib) but not a pillar."
-
-> **Al-Qurtubi** رحمه الله comments on the verse about Safa and Marwa: "The expression 'no blame' was revealed because some Companions hesitated to perform Sa'i, thinking it was a practice of Jahiliyya. The verse confirms its obligation."
-
-> **Khalil ibn Ishaq** رحمه الله states in *Al-Mukhtasar*: "The pillars of Hajj are four: Ihram, Wuquf, Tawaf al-Ifada, and Sa'i."
+| Scholar | Source | Quote |
+|---------|--------|-------|
+| **Imam Malik** رحمه الله | *Al-Muwatta'* | "Tawaf al-Ifada is the obligatory Tawaf (of Hajj), it is the Tawaf of the rite (tawaf az-ziyara), and without it Hajj is not complete." |
+| **Ibn Rushd** رحمه الله | *Bidayat al-Mujtahid* | "Scholars are unanimous on the obligation of Tawaf al-Ifada. They differ on Sa'i: the majority considers it a pillar, the Hanafis consider it obligatory (wajib) but not a pillar." |
+| **Al-Qurtubi** رحمه الله | *Tafsir* | "The expression 'no blame' was revealed because some Companions hesitated to perform Sa'i, thinking it was a practice of Jahiliyya. The verse confirms its obligation." |
+| **Khalil ibn Ishaq** رحمه الله | *Al-Mukhtasar* | "The pillars of Hajj are four: Ihram, Wuquf, Tawaf al-Ifada, and Sa'i." |
 
 ---
 
-## 🔤 Linguistic Analysis
+## 🔍 Linguistic Analysis
 
 | Arabic Term | Transliteration | Root | Technical Definition |
 |-------------|-----------------|------|---------------------|

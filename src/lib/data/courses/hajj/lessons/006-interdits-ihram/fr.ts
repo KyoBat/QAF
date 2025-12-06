@@ -3,15 +3,15 @@
  * Contenu en Français - Conforme au guide de rédaction
  */
 
-export const content = `# Les Interdits de l'Ihram (محظورات الإحرام)
+export const content = `# 📜 مَحْظُورَاتُ الإِحْرَام — Les Interdits de l'Ihram
 
-## Introduction
-
-L'état d'Ihram sacralise le pèlerin et lui impose de renoncer à certains actes normalement licites. **Ces interdictions (mahzûrât) symbolisent le détachement total du monde matériel** et rappellent au pèlerin qu'il est entièrement consacré à Allah durant cette période bénie. La compréhension précise de ces interdits et de leurs compensations (fidya) permet au pèlerin d'accomplir un Hajj conforme à la Sunna.
+> L'état d'Ihram sacralise le pèlerin et lui impose de renoncer à certains actes normalement licites. **Ces interdictions (mahzūrāt) symbolisent le détachement total du monde matériel** et rappellent au pèlerin qu'il est entièrement consacré à Allah durant cette période bénie.
 
 ---
 
-## 📖 Texte Coranique Fondateur
+## 📖 Texte Fondateur (النص التأسيسي)
+
+### 🔷 Le Verset des Interdits
 
 > **﴿ فَمَن فَرَضَ فِيهِنَّ الْحَجَّ فَلَا رَفَثَ وَلَا فُسُوقَ وَلَا جِدَالَ فِي الْحَجِّ ﴾**
 > *« Quiconque s'y impose le Hajj : point de rapport charnel (rafath), ni de perversité (fusûq), ni de dispute (jidâl) durant le Hajj »*
@@ -23,7 +23,7 @@ L'état d'Ihram sacralise le pèlerin et lui impose de renoncer à certains acte
 
 ---
 
-## 📜 Hadith Référence
+### 🔷 Le Hadith des Vêtements
 
 > عَنِ ابْنِ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا أَنَّ رَجُلًا سَأَلَ رَسُولَ اللَّهِ ﷺ: مَا يَلْبَسُ الْمُحْرِمُ؟ فَقَالَ: **« لاَ يَلْبَسُ الْقَمِيصَ وَلاَ الْعَمَائِمَ وَلاَ السَّرَاوِيلاَتِ وَلاَ الْبَرَانِسَ وَلاَ الْخِفَافَ، إِلَّا أَنْ لاَ يَجِدَ نَعْلَيْنِ فَلْيَلْبَسِ الْخُفَّيْنِ، وَلْيَقْطَعْهُمَا حَتَّى يَكُونَا أَسْفَلَ مِنَ الْكَعْبَيْنِ. وَلاَ يَلْبَسْ مِنَ الثِّيَابِ شَيْئًا مَسَّهُ زَعْفَرَانٌ أَوْ الْوَرْسُ »**
 
@@ -33,21 +33,22 @@ D'après Ibn 'Umar رضي الله عنهما, un homme demanda au Messager d'Al
 
 ---
 
-## 🗣️ Paroles des Savants
+## 🎓 Paroles des Savants (أقوال العلماء)
 
-> **L'Imam Mâlik** رحمه الله a dit dans *Al-Mudawwana* : « Le muhrim s'abstient de ce qui l'embellit et le parfume, car l'Ihram est un état d'humilité et de soumission devant Allah. »
-
-> **Ibn Rushd** رحمه الله explique dans *Bidâyat al-Mujtahid* : « Les interdits de l'Ihram se divisent en catégories : ce qui concerne le corps (vêtements, parfum), ce qui concerne la chair (chasse, rapports), et ce qui concerne la parole (dispute, obscénité). »
-
-> **Al-Qurtubî** رحمه الله commente : « Le rafath désigne les rapports intimes et tout ce qui y conduit en paroles ou en actes. Le fusûq englobe toute désobéissance à Allah. Le jidâl est la dispute qui mène à la colère et à l'éloignement d'Allah. »
-
-> **Khalîl ibn Ishâq** رحمه الله résume dans *Al-Mukhtasar* : « Les interdits de l'Ihram sont neuf : vêtement cousu, couvre-chef, parfum, rasage, coupe des ongles, chasse, rapport intime, contrat de mariage, et couverture du visage pour la femme. »
+| Savant | Citation |
+|--------|----------|
+| **Imam Mālik** رحمه الله | *« Le muhrim s'abstient de ce qui l'embellit et le parfume, car l'Ihram est un état d'humilité et de soumission devant Allah. »* — *Al-Mudawwana* |
+| **Ibn Rushd** رحمه الله | *« Les interdits de l'Ihram se divisent en catégories : ce qui concerne le corps (vêtements, parfum), ce qui concerne la chair (chasse, rapports), et ce qui concerne la parole (dispute, obscénité). »* — *Bidāyat al-Mujtahid* |
+| **Al-Qurtubī** رحمه الله | *« Le rafath désigne les rapports intimes et tout ce qui y conduit en paroles ou en actes. »* — *Tafsīr* |
+| **Khalīl ibn Ishāq** رحمه الله | *« Les interdits de l'Ihram sont neuf : vêtement cousu, couvre-chef, parfum, rasage, coupe des ongles, chasse, rapport intime, contrat de mariage, et couverture du visage pour la femme. »* — *Al-Mukhtaṣar* |
 
 ---
 
-## 🔤 Analyse Linguistique
+## 🔍 Analyse Linguistique (التحليل اللغوي)
 
-| Terme Arabe | Translittération | Racine | Définition Technique |
+### 📜 Vocabulaire des Interdits
+
+| Terme | Arabe | Racine | Signification |
 |-------------|------------------|--------|---------------------|
 | **محظورات** | Mahzûrât | ح-ظ-ر | Interdictions, actes prohibés pendant l'Ihram |
 | **رفث** | Rafath | ر-ف-ث | Rapport charnel et tout propos obscène |
