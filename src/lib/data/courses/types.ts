@@ -62,7 +62,7 @@ export interface CourseMeta {
   slug: string
   title: LocalizedString
   description: LocalizedString
-  category: 'tajweed' | 'fiqh' | 'aqeedah' | 'seerah' | 'hadith' | 'quran' | 'arabic' | 'tafsir' | 'other'
+  category: 'tajweed' | 'fiqh' | 'aqeedah' | 'seerah' | 'hadith' | 'quran' | 'arabic' | 'tafsir' | 'history' | 'other'
   level: 'beginner' | 'intermediate' | 'advanced'
   duration: string
   instructor: string

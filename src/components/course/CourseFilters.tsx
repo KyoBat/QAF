@@ -37,6 +37,7 @@ const categories: { value: CourseCategory | 'all'; labels: Record<string, string
   { value: 'aqeedah', labels: { fr: 'Aqeedah', ar: 'العقيدة', en: 'Aqeedah' } },
   { value: 'seerah', labels: { fr: 'Seerah', ar: 'السيرة', en: 'Seerah' } },
   { value: 'arabic', labels: { fr: 'Langue Arabe', ar: 'اللغة العربية', en: 'Arabic Language' } },
+  { value: 'history', labels: { fr: 'Histoire', ar: 'التاريخ', en: 'History' } },
 ]
 
 // Labels pour les niveaux

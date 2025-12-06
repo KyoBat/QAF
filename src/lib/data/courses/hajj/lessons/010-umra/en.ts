@@ -3,15 +3,13 @@
  * English Content
  */
 
-export const content = `# Al-'Umra: The Lesser Pilgrimage (العُمْرَة)
+export const content = `# 📜 العُمْرَةُ — Al-'Umra: The Lesser Pilgrimage
 
-## Introduction
-
-'Umra is the "lesser pilgrimage" that can be performed at any time of the year, unlike Hajj which has specific dates. It constitutes a visit to Allah's Sacred House, an act of worship that purifies the soul and brings the servant closer to his Lord. Though less complex than Hajj, 'Umra possesses immense spiritual value and represents for many Muslims their first contact with the holy sites.
+> 'Umra is the "lesser pilgrimage" that can be performed at any time of the year, unlike Hajj which has specific dates. It constitutes a visit to Allah's Sacred House, an act of worship that purifies the soul and brings the servant closer to his Lord. Though less complex than Hajj, 'Umra possesses immense spiritual value and represents for many Muslims their first contact with the holy sites.
 
 ---
 
-## 📜 Foundational Texts (النصوص الأساسية)
+## 📖 Foundational Text (النص التأسيسي)
 
 ### The Quran
 
@@ -34,23 +32,14 @@ export const content = `# Al-'Umra: The Lesser Pilgrimage (العُمْرَة)
 
 ---
 
-## 🎓 Scholarly Opinions (أقوال العلماء)
+## 🎓 Scholarly Statements (أقوال العلماء)
 
-> **Imam Malik (رحمه الله)** said:
-> "'Umra is a Sunnah, and I do not know anyone among the people of knowledge who made it obligatory. However, I do not like that anyone should leave it."
-> — [Al-Mudawwana, 1/367]
-
-> **Imam Ibn Rushd (رحمه الله)** explained:
-> "The scholars have differed on the obligation of 'Umra. Malik and Abu Hanifa say it is Sunnah. Ash-Shafi'i and Ahmad say it is obligatory once in a lifetime, like Hajj. The difference stems from the interpretation of the verse 'Complete the Hajj and 'Umra for Allah.'"
-> — [Bidayat al-Mujtahid, 2/96]
-
-> **Imam an-Nawawi (رحمه الله)** said:
-> "'Umra is obligatory once in a lifetime according to our school. Its evidence is the verse 'Complete the Hajj and 'Umra for Allah,' which commands both together."
-> — [Al-Majmu', 7/6]
-
-> **Ibn al-Qayyim (رحمه الله)** wrote:
-> "The Prophet ﷺ performed four 'Umras, all in the month of Dhul-Qi'da, except the one with the Farewell Hajj. He never performed 'Umra from Makkah going out to Tan'im, as that was not his practice."
-> — [Zad al-Ma'ad, 2/89]
+| Scholar | Source | Quote |
+|---------|--------|-------|
+| **Imam Malik** رحمه الله | *Al-Mudawwana* | "'Umra is a Sunnah, and I do not know anyone among the people of knowledge who made it obligatory. However, I do not like that anyone should leave it." |
+| **Imam Ibn Rushd** رحمه الله | *Bidayat al-Mujtahid* | "The scholars have differed on the obligation of 'Umra. Malik and Abu Hanifa say it is Sunnah. Ash-Shafi'i and Ahmad say it is obligatory once in a lifetime, like Hajj. The difference stems from the interpretation of the verse 'Complete the Hajj and 'Umra for Allah.'" |
+| **Imam an-Nawawi** رحمه الله | *Al-Majmu'* | "'Umra is obligatory once in a lifetime according to our school. Its evidence is the verse 'Complete the Hajj and 'Umra for Allah,' which commands both together." |
+| **Ibn al-Qayyim** رحمه الله | *Zad al-Ma'ad* | "The Prophet ﷺ performed four 'Umras, all in the month of Dhul-Qi'da, except the one with the Farewell Hajj. He never performed 'Umra from Makkah going out to Tan'im, as that was not his practice." |
 
 ---
 

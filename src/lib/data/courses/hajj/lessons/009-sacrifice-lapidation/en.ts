@@ -3,15 +3,13 @@
  * English Content
  */
 
-export const content = `# The Sacrifice and Stoning: The Rites of Eid (الهدي والرمي)
+export const content = `# 📜 الهَدْيُ وَالرَّمْيُ — The Sacrifice and Stoning
 
-## Introduction
-
-The sacrifice (Hady) and stoning (Ramy) are among the most important rites of Hajj, performed primarily on the day of Eid al-Adha (10th Dhul-Hijja) at Mina. The sacrifice commemorates the trial of Ibrahim عليه السلام with his son Isma'il, while stoning symbolizes the rejection of Satan. These rites are both acts of worship and profound symbols of faith and submission to Allah.
+> The sacrifice (Hady) and stoning (Ramy) are among the most important rites of Hajj, performed primarily on the day of Eid al-Adha (10th Dhul-Hijja) at Mina. The sacrifice commemorates the trial of Ibrahim عليه السلام with his son Isma'il, while stoning symbolizes the rejection of Satan. These rites are both acts of worship and profound symbols of faith and submission to Allah.
 
 ---
 
-## 📜 Foundational Texts (النصوص الأساسية)
+## 📖 Foundational Text (النص التأسيسي)
 
 ### The Quran
 
@@ -34,23 +32,14 @@ The sacrifice (Hady) and stoning (Ramy) are among the most important rites of Ha
 
 ---
 
-## 🎓 Scholarly Opinions (أقوال العلماء)
+## 🎓 Scholarly Statements (أقوال العلماء)
 
-> **Imam Malik (رحمه الله)** said:
-> "The sacrifice of the Mutamatti' (one performing Hajj Tamattu') and the Qarin (one combining Hajj and 'Umra) is obligatory. If he cannot find something to sacrifice, he fasts three days during Hajj, the best being the last one on the day of Arafat, and seven days when he returns home."
-> — [Al-Mudawwana, 1/409]
-
-> **Imam Ibn Rushd (رحمه الله)** explained:
-> "The scholars are unanimous on the obligation of sacrifice for the Mutamatti' and Qarin. They differ on the question: is it gratitude for the ease of combining two acts of worship, or compensation for abandoning Hajj Ifrad which was the practice of the people of Makkah?"
-> — [Bidayat al-Mujtahid, 2/183]
-
-> **Imam al-Qurtubi (رحمه الله)** said:
-> "The stoning of the pillars is a purely ritual act of worship (ta'abbudi). Its meaning is not to stone Satan himself, as he is not there, but to commemorate the act of Ibrahim عليه السلام and manifest obedience to Allah."
-> — [Al-Jami' li Ahkam al-Quran, 3/1]
-
-> **Ibn al-Qayyim (رحمه الله)** wrote:
-> "Know that the purpose of sacrifice is neither the meat nor the blood, but the piety that accompanies it. Allah says: 'Their meat will not reach Allah, nor will their blood, but what reaches Him is piety from you.'"
-> — [Zad al-Ma'ad, 2/315]
+| Scholar | Source | Quote |
+|---------|--------|-------|
+| **Imam Malik** رحمه الله | *Al-Mudawwana* | "The sacrifice of the Mutamatti' (one performing Hajj Tamattu') and the Qarin (one combining Hajj and 'Umra) is obligatory. If he cannot find something to sacrifice, he fasts three days during Hajj, the best being the last one on the day of Arafat, and seven days when he returns home." |
+| **Imam Ibn Rushd** رحمه الله | *Bidayat al-Mujtahid* | "The scholars are unanimous on the obligation of sacrifice for the Mutamatti' and Qarin. They differ on the question: is it gratitude for the ease of combining two acts of worship, or compensation for abandoning Hajj Ifrad which was the practice of the people of Makkah?" |
+| **Imam al-Qurtubi** رحمه الله | *Al-Jami' li Ahkam al-Quran* | "The stoning of the pillars is a purely ritual act of worship (ta'abbudi). Its meaning is not to stone Satan himself, as he is not there, but to commemorate the act of Ibrahim عليه السلام and manifest obedience to Allah." |
+| **Ibn al-Qayyim** رحمه الله | *Zad al-Ma'ad* | "Know that the purpose of sacrifice is neither the meat nor the blood, but the piety that accompanies it. Allah says: 'Their meat will not reach Allah, nor will their blood, but what reaches Him is piety from you.'" |
 
 ---
 

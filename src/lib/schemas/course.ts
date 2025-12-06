@@ -26,6 +26,7 @@ export const CourseCategorySchema = z.enum([
   'aqeedah',    // العقيدة
   'seerah',     // السيرة
   'arabic',     // اللغة العربية
+  'history',    // التاريخ الإسلامي
   'other',      // أخرى
 ])
 

@@ -12,6 +12,7 @@ import { seerahCourse } from './seerah'
 import { hadithCourse } from './hadith'
 import { siyamCourse } from './siyam'
 import { hajjCourse } from './hajj'
+import { historyImamsCourse } from './history'
 
 // Export des types
 export * from './types'
@@ -25,10 +26,12 @@ export { seerahCourse } from './seerah'
 export { hadithCourse } from './hadith'
 export { siyamCourse } from './siyam'
 export { hajjCourse } from './hajj'
+export { historyImamsCourse } from './history'
 
 // Export de la liste complète des cours
 export const coursesData: Course[] = [
   hadithCourse,
+  historyImamsCourse,
   tajweedCourse,
   fiqhPurificationCourse,
   fiqhSalatCourse,

@@ -3,15 +3,13 @@
  * Contenu en Français
  */
 
-export const content = `# Al-'Umra : Le Petit Pèlerinage (العُمْرَة)
+export const content = `# 📜 العُمْرَةُ — Al-'Umra : Le Petit Pèlerinage
 
-## Introduction
-
-La 'Umra est le « petit pèlerinage » qui peut être accompli à tout moment de l'année, contrairement au Hajj qui a des dates précises. Elle constitue une visite de la Maison Sacrée d'Allah, un acte d'adoration qui purifie l'âme et rapproche le serviteur de son Seigneur. Bien qu'elle soit moins complexe que le Hajj, la 'Umra possède une valeur spirituelle immense et représente pour beaucoup de musulmans leur premier contact avec les lieux saints.
+> La 'Umra est le « petit pèlerinage » qui peut être accompli à tout moment de l'année, contrairement au Hajj qui a des dates précises. Elle constitue une visite de la Maison Sacrée d'Allah, un acte d'adoration qui purifie l'âme et rapproche le serviteur de son Seigneur. Bien qu'elle soit moins complexe que le Hajj, la 'Umra possède une valeur spirituelle immense et représente pour beaucoup de musulmans leur premier contact avec les lieux saints.
 
 ---
 
-## 📜 Textes Fondateurs (النصوص الأساسية)
+## 📖 Texte Fondateur (النص التأسيسي)
 
 ### Le Coran
 
@@ -41,21 +39,12 @@ La 'Umra est le « petit pèlerinage » qui peut être accompli à tout moment d
 
 ## 🎓 Paroles des Savants (أقوال العلماء)
 
-> **L'Imam Malik (رحمه الله)** a dit :
-> « La 'Umra est une Sunnah, et je ne connais personne parmi les gens de science qui l'ait rendue obligatoire. Cependant, je n'aime pas qu'on la délaisse. »
-> — [Al-Mudawwana, 1/367]
-
-> **L'Imam Ibn Rushd (رحمه الله)** a expliqué :
-> « Les savants ont divergé sur l'obligation de la 'Umra. Malik et Abu Hanifa disent qu'elle est Sunnah. Ash-Shafi'i et Ahmad disent qu'elle est obligatoire une fois dans la vie, comme le Hajj. La divergence vient de l'interprétation du verset 'Accomplissez le Hajj et la 'Umra pour Allah'. »
-> — [Bidayat al-Mujtahid, 2/96]
-
-> **L'Imam an-Nawawi (رحمه الله)** a dit :
-> « La 'Umra est obligatoire une fois dans la vie selon notre école. Sa preuve est le verset 'Accomplissez le Hajj et la 'Umra pour Allah', qui ordonne les deux ensemble. »
-> — [Al-Majmu', 7/6]
-
-> **Ibn al-Qayyim (رحمه الله)** a écrit :
-> « Le Prophète ﷺ a accompli quatre 'Umra, toutes durant le mois de Dhul-Qi'da, sauf celle qui était avec le Hajj d'adieu. Il n'a jamais fait de 'Umra depuis La Mecque vers le Tan'im, car cela n'était pas de sa pratique. »
-> — [Zad al-Ma'ad, 2/89]
+| Savant | Ouvrage | Citation |
+|--------|---------|----------|
+| **L'Imam Malik** رحمه الله | *Al-Mudawwana* | « La 'Umra est une Sunnah, et je ne connais personne parmi les gens de science qui l'ait rendue obligatoire. Cependant, je n'aime pas qu'on la délaisse. » |
+| **L'Imam Ibn Rushd** رحمه الله | *Bidayat al-Mujtahid* | « Les savants ont divergé sur l'obligation de la 'Umra. Malik et Abu Hanifa disent qu'elle est Sunnah. Ash-Shafi'i et Ahmad disent qu'elle est obligatoire une fois dans la vie, comme le Hajj. La divergence vient de l'interprétation du verset 'Accomplissez le Hajj et la 'Umra pour Allah'. » |
+| **L'Imam an-Nawawi** رحمه الله | *Al-Majmu'* | « La 'Umra est obligatoire une fois dans la vie selon notre école. Sa preuve est le verset 'Accomplissez le Hajj et la 'Umra pour Allah', qui ordonne les deux ensemble. » |
+| **Ibn al-Qayyim** رحمه الله | *Zad al-Ma'ad* | « Le Prophète ﷺ a accompli quatre 'Umra, toutes durant le mois de Dhul-Qi'da, sauf celle qui était avec le Hajj d'adieu. Il n'a jamais fait de 'Umra depuis La Mecque vers le Tan'im, car cela n'était pas de sa pratique. » |
 
 ---
 

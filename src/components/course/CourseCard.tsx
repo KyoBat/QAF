@@ -38,6 +38,7 @@ const categoryLabels: Record<CourseCategory, Record<string, string>> = {
   aqeedah: { fr: 'Aqeedah', ar: 'العقيدة', en: 'Aqeedah' },
   seerah: { fr: 'Seerah', ar: 'السيرة', en: 'Seerah' },
   arabic: { fr: 'Arabe', ar: 'العربية', en: 'Arabic' },
+  history: { fr: 'Histoire', ar: 'التاريخ', en: 'History' },
   other: { fr: 'Autre', ar: 'أخرى', en: 'Other' },
 }
 
@@ -64,6 +65,7 @@ const categoryEmojis: Record<CourseCategory, string> = {
   aqeedah: '💫',
   seerah: '🌙',
   arabic: '🔤',
+  history: '🏛️',
   other: '📕',
 }
 

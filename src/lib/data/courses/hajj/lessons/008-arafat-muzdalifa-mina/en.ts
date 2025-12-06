@@ -3,15 +3,13 @@
  * English Content
  */
 
-export const content = `# Arafat, Muzdalifa and Mina: The Essential Stages of Hajj (عرفة ومزدلفة ومنى)
+export const content = `# 📜 عَرَفَةُ وَمُزْدَلِفَةُ وَمِنَى — Arafat, Muzdalifa and Mina
 
-## Introduction
-
-These three sacred locations constitute the very heart of the pilgrimage. Arafat, Muzdalifa, and Mina form a spiritual journey that every pilgrim must accomplish in a specific order and at determined times. The Wuquf at Arafat is the very essence of Hajj, the night at Muzdalifa is a major obligation, and the stay at Mina with its stoning rites crowns this spiritual journey. Understanding these stages is essential to perform a valid and accepted Hajj.
+> These three sacred locations constitute the very heart of the pilgrimage. Arafat, Muzdalifa, and Mina form a spiritual journey that every pilgrim must accomplish in a specific order and at determined times. The Wuquf at Arafat is the very essence of Hajj, the night at Muzdalifa is a major obligation, and the stay at Mina with its stoning rites crowns this spiritual journey. Understanding these stages is essential to perform a valid and accepted Hajj.
 
 ---
 
-## 📜 Foundational Texts (النصوص الأساسية)
+## 📖 Foundational Text (النص التأسيسي)
 
 ### The Quran
 
@@ -34,23 +32,14 @@ These three sacred locations constitute the very heart of the pilgrimage. Arafat
 
 ---
 
-## 🎓 Scholarly Opinions (أقوال العلماء)
+## 🎓 Scholarly Statements (أقوال العلماء)
 
-> **Imam Malik (رحمه الله)** said:
-> "Whoever misses Arafat has missed the Hajj. And whoever arrives at Arafat at night, before the dawn of the Day of Sacrifice, even for an instant, has attained the Hajj."
-> — [Al-Mudawwana, 1/423]
-
-> **Imam Ibn Rushd (رحمه الله)** explained:
-> "The scholars are unanimous that the Wuquf at Arafat is the most important pillar of Hajj, because the Prophet ﷺ said: 'Hajj is Arafat.' And they differ on the status of the night at Muzdalifa and the stoning of the pillars."
-> — [Bidayat al-Mujtahid, 2/107]
-
-> **Imam an-Nawawi (رحمه الله)** said:
-> "The standing at Arafat begins after the zenith of the 9th day and extends until the dawn of the 10th. It is obligatory to stay until sunset according to our school, and it is a recommendation according to others."
-> — [Al-Majmu', 8/100]
-
-> **Ibn al-Qayyim (رحمه الله)** wrote:
-> "Muzdalifa is called 'al-Mash'ar al-Haram' (the Sacred Monument), and 'Jam'' because pilgrims gather there, and 'Muzdalifa' because one draws near to Allah after departing from Arafat."
-> — [Zad al-Ma'ad, 2/254]
+| Scholar | Source | Quote |
+|---------|--------|-------|
+| **Imam Malik** رحمه الله | *Al-Mudawwana* | "Whoever misses Arafat has missed the Hajj. And whoever arrives at Arafat at night, before the dawn of the Day of Sacrifice, even for an instant, has attained the Hajj." |
+| **Imam Ibn Rushd** رحمه الله | *Bidayat al-Mujtahid* | "The scholars are unanimous that the Wuquf at Arafat is the most important pillar of Hajj, because the Prophet ﷺ said: 'Hajj is Arafat.' And they differ on the status of the night at Muzdalifa and the stoning of the pillars." |
+| **Imam an-Nawawi** رحمه الله | *Al-Majmu'* | "The standing at Arafat begins after the zenith of the 9th day and extends until the dawn of the 10th. It is obligatory to stay until sunset according to our school, and it is a recommendation according to others." |
+| **Ibn al-Qayyim** رحمه الله | *Zad al-Ma'ad* | "Muzdalifa is called 'al-Mash'ar al-Haram' (the Sacred Monument), and 'Jam'' because pilgrims gather there, and 'Muzdalifa' because one draws near to Allah after departing from Arafat." |
 
 ---
 

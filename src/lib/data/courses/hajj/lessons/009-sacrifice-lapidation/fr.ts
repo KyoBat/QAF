@@ -3,15 +3,13 @@
  * Contenu en Français
  */
 
-export const content = `# Le Sacrifice et la Lapidation : Les Rites de l'Aïd (الهدي والرمي)
+export const content = `# 📜 الهَدْيُ وَالرَّمْيُ — Le Sacrifice et la Lapidation
 
-## Introduction
-
-Le sacrifice (Hady) et la lapidation (Ramy) sont parmi les rites les plus importants du Hajj, accomplis principalement le jour de l'Aïd al-Adha (10 Dhul-Hijja) à Mina. Le sacrifice commémore l'épreuve d'Ibrahim عليه السلام avec son fils Isma'il, tandis que la lapidation symbolise le rejet de Satan. Ces rites sont à la fois des actes d'adoration et des symboles profonds de la foi et de la soumission à Allah.
+> Le sacrifice (Hady) et la lapidation (Ramy) sont parmi les rites les plus importants du Hajj, accomplis principalement le jour de l'Aïd al-Adha (10 Dhul-Hijja) à Mina. Le sacrifice commémore l'épreuve d'Ibrahim عليه السلام avec son fils Isma'il, tandis que la lapidation symbolise le rejet de Satan. Ces rites sont à la fois des actes d'adoration et des symboles profonds de la foi et de la soumission à Allah.
 
 ---
 
-## 📜 Textes Fondateurs (النصوص الأساسية)
+## 📖 Texte Fondateur (النص التأسيسي)
 
 ### Le Coran
 
@@ -41,21 +39,12 @@ Le sacrifice (Hady) et la lapidation (Ramy) sont parmi les rites les plus import
 
 ## 🎓 Paroles des Savants (أقوال العلماء)
 
-> **L'Imam Malik (رحمه الله)** a dit :
-> « Le sacrifice du Mutamatti' (qui fait le Hajj Tamattu') et du Qarin (qui combine Hajj et 'Umra) est obligatoire. S'il ne trouve pas de quoi sacrifier, il jeûne trois jours pendant le Hajj, dont le meilleur est avant le jour d'Arafat, et sept jours quand il rentre chez lui. »
-> — [Al-Mudawwana, 1/409]
-
-> **L'Imam Ibn Rushd (رحمه الله)** a expliqué :
-> « Les savants sont unanimes sur l'obligation du sacrifice pour le Mutamatti' et le Qarin. Ils divergent sur la question : est-ce un remerciement pour la facilité d'avoir combiné deux adorations, ou une compensation pour avoir délaissé le Hajj Ifrad qui était la pratique des gens de La Mecque ? »
-> — [Bidayat al-Mujtahid, 2/183]
-
-> **L'Imam al-Qurtubi (رحمه الله)** a dit :
-> « La lapidation des stèles est une adoration purement rituelle (ta'abbudi). Son sens n'est pas de lapider Satan lui-même, car il ne se trouve pas là, mais de commémorer l'acte d'Ibrahim عليه السلام et de manifester son obéissance à Allah. »
-> — [Al-Jami' li Ahkam al-Quran, 3/1]
-
-> **Ibn al-Qayyim (رحمه الله)** a écrit :
-> « Sache que le but du sacrifice n'est ni la viande ni le sang, mais la piété qui l'accompagne. Allah dit : 'Ni leurs chairs ni leurs sangs n'atteindront Allah, mais ce qui L'atteint, c'est votre piété.' »
-> — [Zad al-Ma'ad, 2/315]
+| Savant | Ouvrage | Citation |
+|--------|---------|----------|
+| **L'Imam Malik** رحمه الله | *Al-Mudawwana* | « Le sacrifice du Mutamatti' (qui fait le Hajj Tamattu') et du Qarin (qui combine Hajj et 'Umra) est obligatoire. S'il ne trouve pas de quoi sacrifier, il jeûne trois jours pendant le Hajj, dont le meilleur est avant le jour d'Arafat, et sept jours quand il rentre chez lui. » |
+| **L'Imam Ibn Rushd** رحمه الله | *Bidayat al-Mujtahid* | « Les savants sont unanimes sur l'obligation du sacrifice pour le Mutamatti' et le Qarin. Ils divergent sur la question : est-ce un remerciement pour la facilité d'avoir combiné deux adorations, ou une compensation pour avoir délaissé le Hajj Ifrad qui était la pratique des gens de La Mecque ? » |
+| **L'Imam al-Qurtubi** رحمه الله | *Al-Jami' li Ahkam al-Quran* | « La lapidation des stèles est une adoration purement rituelle (ta'abbudi). Son sens n'est pas de lapider Satan lui-même, car il ne se trouve pas là, mais de commémorer l'acte d'Ibrahim عليه السلام et de manifester son obéissance à Allah. » |
+| **Ibn al-Qayyim** رحمه الله | *Zad al-Ma'ad* | « Sache que le but du sacrifice n'est ni la viande ni le sang, mais la piété qui l'accompagne. Allah dit : 'Ni leurs chairs ni leurs sangs n'atteindront Allah, mais ce qui L'atteint, c'est votre piété.' » |
 
 ---
 
