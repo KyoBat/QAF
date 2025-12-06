@@ -1,239 +1,341 @@
 /**
- * Hadith Essentiels - Leçon 005: L'Affaire du Croyant est Étonnante
- * Contenu en Français
+ * Sciences du Hadith - Leçon 005: عجباً لأمر المؤمن
+ * L'Affaire du Croyant est Étonnante - L'Optimisme Islamique
+ * Contenu en Français - Approche Savante et Qualitative
  */
 
-export const content = `# L'Affaire du Croyant est Étonnante (عجباً لأمر المؤمن)
+export const content = `# 📜 عجباً لأمر المؤمن — L'Affaire du Croyant est Étonnante
 
-## Le Hadith
-
-> **عَنْ صُهَيْبٍ رَضِيَ اللهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ ﷺ:**
->
-> **« عَجَبًا لأَمْرِ الْمُؤْمِنِ، إِنَّ أَمْرَهُ كُلَّهُ خَيْرٌ، وَلَيْسَ ذَاكَ لأَحَدٍ إِلاَّ لِلْمُؤْمِنِ، إِنْ أَصَابَتْهُ سَرَّاءُ شَكَرَ فَكَانَ خَيْرًا لَهُ، وَإِنْ أَصَابَتْهُ ضَرَّاءُ صَبَرَ فَكَانَ خَيْرًا لَهُ »**
->
-> *« Comme l'affaire du croyant est étonnante ! Tout son sort est un bien, et cela n'est accordé à personne d'autre que le croyant. S'il lui arrive un bonheur, il remercie, et c'est un bien pour lui. Et s'il lui arrive un malheur, il patiente, et c'est un bien pour lui. »*
->
-> — **[Muslim (2999)]**
+> Ce hadith est un **fondement de la psychologie islamique** et un remède contre l'anxiété et le désespoir. Il offre une vision transformatrice qui fait de chaque moment de la vie une opportunité de bien.
 
 ---
 
-## Introduction
+## 📖 Texte du Hadith (متن الحديث)
 
-Ce hadith est un **remède contre l'anxiété** et la **dépression**. Dans un monde où beaucoup souffrent de troubles mentaux, le Prophète ﷺ nous offre une vision qui transforme notre rapport aux événements de la vie.
+### 🔷 Texte Arabe avec Tashkil
 
-C'est un hadith de **psychologie islamique** avant l'heure.
+عَنْ **صُهَيْبِ بْنِ سِنَانٍ** رَضِيَ اللهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللهِ ﷺ:
 
----
+**« عَجَبًا لِأَمْرِ الْمُؤْمِنِ، إِنَّ أَمْرَهُ كُلَّهُ خَيْرٌ، وَلَيْسَ ذَاكَ لِأَحَدٍ إِلَّا لِلْمُؤْمِنِ، إِنْ أَصَابَتْهُ سَرَّاءُ شَكَرَ فَكَانَ خَيْرًا لَهُ، وَإِنْ أَصَابَتْهُ ضَرَّاءُ صَبَرَ فَكَانَ خَيْرًا لَهُ »**
 
-## 1. Explication du Hadith
+### 🔷 Traduction Française
 
-### 1.1 Analyse des termes
+D'après **Suhayb ibn Sinan** — qu'Allah l'agrée — le Messager d'Allah ﷺ a dit :
 
-| Expression | Signification |
-|------------|---------------|
-| **عَجَبًا** | Comme c'est étonnant ! Merveilleux ! |
-| **لأَمْرِ الْمُؤْمِنِ** | L'affaire/la situation du croyant |
-| **كُلَّهُ خَيْرٌ** | Tout est un bien |
-| **سَرَّاء** | Bonheur, aisance, joie |
-| **ضَرَّاء** | Malheur, difficulté, épreuve |
-| **شَكَرَ** | Il a remercié |
-| **صَبَرَ** | Il a patienté |
-
-### 1.2 Le Principe Fondamental
-
-**Pour le croyant sincère, TOUT est un bien :**
-
-| Situation | Réaction | Résultat |
-|-----------|----------|----------|
-| Bonheur (سَرَّاء) | Gratitude (شُكْر) | Bien → Récompense |
-| Malheur (ضَرَّاء) | Patience (صَبْر) | Bien → Récompense |
-
-**C'est une équation gagnante à 100%.**
+**« Comme l'affaire du croyant est étonnante ! Tout son sort est un bien, et cela n'est accordé à personne d'autre que le croyant : s'il lui arrive un bonheur, il remercie, et c'est un bien pour lui ; et s'il lui arrive un malheur, il patiente, et c'est un bien pour lui. »**
 
 ---
 
-## 2. Le Privilège du Croyant
+### 📚 Référencement (التخريج)
 
-### 2.1 Pourquoi « seulement le croyant » ?
+| Source | Numéro | Statut |
+|--------|--------|--------|
+| **Sahih Muslim** | 2999 | ✅ Sahih |
+| **Musnad Ahmad** | 18455 | ✅ Sahih |
+| **Sahih Ibn Hibban** | 2896 | ✅ Sahih |
 
-Le hadith précise : *« Cela n'est accordé à personne d'autre que le croyant »*
+> 💡 Ce hadith est rapporté exclusivement par Muslim et non par Al-Bukhari, mais il fait partie des hadiths les plus cités pour son message universel sur l'optimisme du croyant.
 
-| Personne | Face au bonheur | Face au malheur |
+---
+
+## 🎓 Importance de ce Hadith (منزلة الحديث)
+
+### 📌 Paroles des Savants
+
+| Savant | Citation |
+|--------|----------|
+| **Imam An-Nawawi** رحمه الله | *« Ce hadith contient un principe immense : le croyant est toujours gagnant, quelle que soit sa situation. »* — *Sharh Sahih Muslim* |
+| **Ibn Al-Qayyim** رحمه الله | *« Ce hadith est un remède pour les cœurs malades et un fondement de la tranquillité de l'âme. »* — *Madarij As-Salikin* |
+| **Ibn Rajab Al-Hanbali** رحمه الله | *« Il enseigne que la foi transforme les épreuves en bénédictions et les bienfaits en occasions de rapprochement d'Allah. »* — *Jami' Al-'Ulum wal-Hikam* |
+| **Al-Qurtubi** رحمه الله | *« C'est un privilège exclusif du croyant sincère, qui voit en tout chose la sagesse divine. »* — *Al-Mufhim* |
+
+### 📌 Pourquoi ce Hadith est-il Fondamental ?
+
+1. **Psychologie islamique** : Il établit une vision du monde qui élimine l'anxiété existentielle
+2. **Équation gagnante** : Le croyant est toujours dans le bien, peu importe les circonstances
+3. **Exclusivité** : Ce privilège est réservé au croyant sincère uniquement
+4. **Équilibre émotionnel** : Il enseigne la juste réaction face au bonheur et au malheur
+5. **Thérapie spirituelle** : C'est un remède contre la dépression et le désespoir
+
+---
+
+## 🔍 Analyse Linguistique (التحليل اللغوي)
+
+### 📜 Vocabulaire du Hadith
+
+| Terme Arabe | Translittération | Signification |
+|-------------|------------------|---------------|
+| **عَجَبًا** | 'Ajaban | Étonnement, émerveillement |
+| **لِأَمْرِ** | li-Amri | Pour l'affaire, la situation |
+| **الْمُؤْمِنِ** | al-Mu'min | Le croyant |
+| **كُلَّهُ خَيْرٌ** | Kulluhu Khayr | Tout est un bien |
+| **سَرَّاءُ** | Sarrā' | Bonheur, aisance, joie |
+| **ضَرَّاءُ** | Ḍarrā' | Malheur, difficulté, adversité |
+| **شَكَرَ** | Shakara | Il a remercié, montré de la gratitude |
+| **صَبَرَ** | Ṣabara | Il a patienté |
+
+### 📐 Analyse Grammaticale (الإعراب)
+
+| Élément | Fonction | Explication |
+|---------|----------|-------------|
+| **عَجَبًا** | مفعول مطلق لفعل محذوف | Expression d'étonnement (تعجب) |
+| **لِأَمْرِ** | جار ومجرور | Complément de cause |
+| **الْمُؤْمِنِ** | مضاف إليه | Complément du nom |
+| **أَمْرَهُ كُلَّهُ** | مبتدأ + توكيد | Sujet avec emphase (tout son affaire) |
+| **خَيْرٌ** | خبر المبتدأ | Attribut du sujet |
+
+### 🔎 Subtilité Linguistique
+
+Les mots **سَرَّاء** et **ضَرَّاء** sont sur le schème **فَعْلَاء** qui exprime l'intensité. Ce ne sont pas de simples joies ou peines, mais des moments forts de bonheur ou d'épreuve.
+
+> Le mot **عَجَبًا** exprime l'émerveillement du Prophète ﷺ lui-même devant ce privilège accordé aux croyants.
+
+---
+
+## 📚 Explication Détaillée (الشرح المفصل)
+
+### 🔷 Le Sens Apparent (المعنى الظاهر)
+
+Le Prophète ﷺ s'émerveille d'un fait extraordinaire :
+
+> **Pour le croyant sincère, CHAQUE situation de la vie se transforme en bien.**
+
+C'est une **équation à 100% de réussite** :
+
+| Situation | Réaction Correcte | Résultat |
+|-----------|-------------------|----------|
+| **Bonheur** (سَرَّاء) | **Gratitude** (شُكْر) | ✅ Bien → Récompense |
+| **Malheur** (ضَرَّاء) | **Patience** (صَبْر) | ✅ Bien → Récompense |
+
+### 🔷 Les Leçons Tirées (الفوائد المستنبطة)
+
+| # | Leçon | Explication |
+|---|-------|-------------|
+| 1️⃣ | **Exclusivité du croyant** | Ce privilège n'est pas pour tout le monde |
+| 2️⃣ | **La foi transforme la réalité** | Les mêmes événements ont des effets différents selon la foi |
+| 3️⃣ | **Deux piliers essentiels** | Shukr et Sabr sont les clés de cette équation |
+| 4️⃣ | **Pas de situation perdante** | Le croyant est toujours gagnant |
+| 5️⃣ | **Vision optimiste obligatoire** | Le pessimisme contredit ce hadith |
+
+### 🔷 Le Privilège Exclusif du Croyant
+
+| Personne | Face au Bonheur | Face au Malheur |
 |----------|-----------------|-----------------|
-| **Non-croyant** | Jouissance sans gratitude | Désespoir, révolte |
-| **Croyant faible** | Oublie Allah | Se plaint, s'effondre |
-| **Croyant sincère** | Shukr → Récompense | Sabr → Récompense |
-
-### 2.2 La Vision Transformée
-
-Le croyant voit le monde différemment :
-
-| Vision mondaine | Vision du croyant |
-|-----------------|-------------------|
-| « J'ai perdu mon travail = catastrophe » | « Peut-être qu'Allah me prépare mieux » |
-| « Je suis malade = punition » | « Mes péchés sont expiés » |
-| « J'ai de l'argent = je suis fort » | « C'est un test, dois-je remercier ? » |
+| **Non-croyant** | Jouissance sans gratitude | Désespoir, révolte, dépression |
+| **Croyant faible** | Oublie Allah, s'attribue le mérite | Se plaint, s'effondre |
+| **Croyant sincère** | Shukr → Récompense divine | Sabr → Expiation + Récompense |
 
 ---
 
-## 3. Application Moderne 📱
+## 🕌 Avis des Madhahib (آراء المذاهب)
 
-### 3.1 Face à l'Anxiété
+### Position sur le Sabr et le Shukr
 
-L'anxiété vient souvent de la peur de l'avenir. Ce hadith enseigne :
+| Madhab | Position | Référence |
+|--------|----------|-----------|
+| 🟢 **Hanafi** | Le sabr et le shukr sont des stations spirituelles (maqamat) obligatoires | *Ihya 'Ulum Ad-Din* |
+| 🟡 **Maliki** | La gratitude dans l'aisance est aussi difficile que la patience dans l'épreuve | *Tartib Al-Madarik* |
+| 🔵 **Shafi'i** | Le croyant doit cultiver les deux qualités pour réaliser ce hadith | *Al-Majmu'* |
+| 🟣 **Hanbali** | Ce hadith prouve que la foi complète requiert sabr et shukr | *Madarij As-Salikin* |
 
-| Pensée anxieuse | Réponse du hadith |
-|-----------------|-------------------|
-| « Et si je perds mon travail ? » | Si ça arrive, je patienterai → bien |
-| « Et si je tombe malade ? » | Si ça arrive, je patienterai → bien |
-| « Et si je n'y arrive pas ? » | Quelle que soit l'issue, c'est un bien |
+> **Débat classique** : Quel est le plus méritoire, le riche reconnaissant (الغني الشاكر) ou le pauvre patient (الفقير الصابر) ? Les savants ont divergé, mais ce hadith montre que les deux sont dans le bien.
 
-**L'anxiété diminue quand on sait que toutes les issues sont des biens.**
+---
 
-### 3.2 Face à la Dépression
+## 📖 Preuves Complémentaires (الشواهد)
 
-La dépression vient souvent du passé et du sentiment de perte :
+### Du Coran (من القرآن)
 
-| Pensée dépressive | Réponse du hadith |
+#### 1. L'ordre de patience et gratitude
+
+> **﴿ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِّكُلِّ صَبَّارٍ شَكُورٍ ﴾**
+>
+> *« Il y a en cela des signes pour tout homme patient et reconnaissant. »*
+>
+> — **[Ibrahim : 5, Luqman : 31, Saba : 19, Ash-Shura : 33]**
+
+#### 2. L'épreuve comme purification
+
+> **﴿ وَلَنَبْلُوَنَّكُم بِشَيْءٍ مِّنَ الْخَوْفِ وَالْجُوعِ وَنَقْصٍ مِّنَ الْأَمْوَالِ وَالْأَنفُسِ وَالثَّمَرَاتِ ۗ وَبَشِّرِ الصَّابِرِينَ ﴾**
+>
+> *« Nous vous éprouverons par la peur, la faim, la perte de biens, de vies et de récoltes. Annonce la bonne nouvelle aux patients. »*
+>
+> — **[Al-Baqarah : 155]**
+
+#### 3. La gratitude qui augmente les bienfaits
+
+> **﴿ لَئِن شَكَرْتُمْ لَأَزِيدَنَّكُمْ ﴾**
+>
+> *« Si vous êtes reconnaissants, Je vous augmenterai certainement. »*
+>
+> — **[Ibrahim : 7]**
+
+### De la Sunna (من السنة)
+
+#### Hadith de l'expiation des péchés
+
+> **« مَا يُصِيبُ الْمُسْلِمَ مِنْ نَصَبٍ وَلَا وَصَبٍ وَلَا هَمٍّ وَلَا حَزَنٍ وَلَا أَذًى وَلَا غَمٍّ، حَتَّى الشَّوْكَةِ يُشَاكُهَا، إِلَّا كَفَّرَ اللَّهُ بِهَا مِنْ خَطَايَاهُ »**
+>
+> *« Aucune fatigue, maladie, souci, tristesse, mal ou chagrin n'atteint le musulman, même une épine qui le pique, sans qu'Allah n'expie par cela une partie de ses péchés. »*
+>
+> — **[Al-Bukhari (5641) et Muslim (2573)]**
+
+#### Hadith de la jalousie envers le patient
+
+> **« عَجِبَ رَبُّنَا مِنْ عَبْدِهِ إِذَا قَالَ: رَبِّ اغْفِرْ لِي ذُنُوبِي، إِنَّهُ لَا يَغْفِرُ الذُّنُوبَ إِلَّا أَنْتَ »**
+>
+> *« Notre Seigneur s'émerveille de Son serviteur quand il dit : Seigneur, pardonne-moi mes péchés, car nul ne pardonne les péchés si ce n'est Toi. »*
+>
+> — **[Ahmad et Abu Dawud]**
+
+---
+
+## 🌍 Applications Modernes (التطبيقات المعاصرة)
+
+### 📱 Face aux Difficultés de la Vie Moderne
+
+| Situation Moderne | ❌ Réaction Sans Foi | ✅ Réaction du Croyant |
+|-------------------|---------------------|----------------------|
+| **Perte d'emploi** | Dépression, anxiété, désespoir | Sabr + Confiance → Allah prépare mieux |
+| **Maladie grave** | Révolte contre le destin | Sabr → Expiation + Élévation |
+| **Échec aux examens** | Effondrement, perte de confiance | Sabr → Leçon + Nouvelle opportunité |
+| **Problèmes conjugaux** | Colère, divorce impulsif | Sabr + Effort → Récompense |
+
+### 🎉 Face aux Bonheurs de la Vie
+
+| Situation Positive | ❌ Réaction Sans Foi | ✅ Réaction du Croyant |
+|--------------------|---------------------|----------------------|
+| **Promotion au travail** | Orgueil, « je le mérite » | Shukr → Hamdulillah, c'est d'Allah |
+| **Naissance d'un enfant** | Fierté personnelle | Shukr → Responsabilité + Gratitude |
+| **Richesse soudaine** | Dépenses excessives | Shukr → Sadaqa + Modération |
+| **Bonne santé** | Insouciance | Shukr → Utiliser cette santé pour Allah |
+
+### 💡 Transformer sa Vision Quotidienne
+
+| Vision Pessimiste | Vision du Croyant |
 |-------------------|-------------------|
-| « J'ai tout perdu » | Si j'ai patienté, j'ai gagné la récompense |
-| « Rien ne va jamais » | Chaque épreuve patientée est un bien |
-| « Je n'ai plus d'espoir » | L'espoir est dans la récompense d'Allah |
-
-### 3.3 Exemples Concrets
-
-| Épreuve moderne | Sabr en action | Résultat |
-|-----------------|----------------|----------|
-| **Perte d'emploi** | Chercher activement + confiance en Allah | Bien |
-| **Rupture/Divorce** | Accepter le décret + améliorer sa pratique | Bien |
-| **Maladie** | Se soigner + patience dans la douleur | Bien |
-| **Échec aux examens** | Réessayer + accepter le qadar | Bien |
-| **Décès d'un proche** | Istirja' + patience | Bien |
+| « J'ai perdu mon travail = catastrophe » | « Peut-être qu'Allah me prépare mieux » |
+| « Je suis malade = punition » | « Mes péchés sont expiés, je me rapproche d'Allah » |
+| « J'ai de l'argent = je suis fort » | « C'est un test, dois-je remercier correctement ? » |
+| « Personne ne m'aide = je suis seul » | « Allah est avec les patients » |
 
 ---
 
-## 4. Le Shukr (Gratitude) : Clé du Bonheur
+## ⚠️ Erreurs à Éviter (المحاذير)
 
-### 4.1 Qu'est-ce que le Shukr ?
+### 🚨 Fausses Compréhensions
 
-| Composante | Description |
-|------------|-------------|
-| **Du cœur** | Reconnaître qu'Allah est la source du bienfait |
-| **De la langue** | Dire « Alhamdulillah », remercier |
-| **Des actes** | Utiliser le bienfait dans l'obéissance |
+| Erreur | Correction |
+|--------|------------|
+| **« Tout ira bien automatiquement »** | Non, le bien vient avec la RÉACTION correcte (sabr/shukr) |
+| **« Je n'ai pas besoin de faire d'efforts »** | Le sabr inclut l'action, pas la passivité |
+| **« Le bonheur est toujours bon »** | Seulement si tu remercies, sinon c'est une épreuve |
+| **« Le malheur est toujours mauvais »** | Pour le croyant patient, c'est une purification |
 
-### 4.2 Comment Pratiquer le Shukr Quotidiennement ?
+### 🔴 Ce que ce Hadith ne Dit Pas
 
-| Moment | Action |
+| Fausse Conclusion | Vérité |
+|-------------------|--------|
+| « Ne fais aucun effort pour changer ta situation » | Le sabr inclut l'effort + l'acceptation du résultat |
+| « Sois content de l'injustice » | Combattre l'injustice fait partie du sabr |
+| « N'exprime jamais ta tristesse » | Le Prophète ﷺ a pleuré, la tristesse naturelle est permise |
+| « Le bonheur mondain est mauvais » | Non, il faut juste l'accompagner de gratitude |
+
+---
+
+## ❓ Questions Fréquentes
+
+### « Comment pratiquer le sabr concrètement ? »
+
+| Niveau | Action |
 |--------|--------|
-| Au réveil | « Alhamdulillah pour cette journée » |
-| Après chaque repas | « Alhamdulillah pour cette nourriture » |
-| Après la prière | « Alhamdulillah de pouvoir prier » |
-| Le soir | Lister 3 choses pour lesquelles tu es reconnaissant |
+| **Langue** | Dire « Inna lillahi wa inna ilayhi raji'un » + ne pas se plaindre |
+| **Cœur** | Accepter le décret d'Allah, ne pas avoir de ressentiment |
+| **Corps** | Ne pas faire d'actes de désespoir (se frapper, déchirer ses vêtements) |
+| **Action** | Chercher des solutions tout en acceptant le résultat |
 
-### 4.3 Le Shukr Face aux Réseaux Sociaux
+### « Comment pratiquer le shukr concrètement ? »
 
-| Piège | Remède |
-|-------|--------|
-| Voir la vie « parfaite » des autres | Remercier pour ce que TU as |
-| Comparer ses faiblesses | Remercier pour tes forces |
-| Vouloir toujours plus | Remercier pour le présent |
+| Niveau | Action |
+|--------|--------|
+| **Langue** | Dire « Alhamdulillah » sincèrement et fréquemment |
+| **Cœur** | Reconnaître que tout vient d'Allah, pas de soi-même |
+| **Corps** | Utiliser le bienfait dans l'obéissance à Allah |
+| **Partage** | Donner aux autres une partie de ce qu'Allah t'a donné |
 
----
+### « Pourquoi le malheur du croyant est-il un bien ? »
 
-## 5. Le Sabr (Patience) : Clé de l'Épreuve
-
-### 5.1 Les Trois Types de Sabr
-
-| Type | Description | Exemple |
-|------|-------------|---------|
-| **Sabr 'ala at-ta'a** | Patience dans l'obéissance | Se lever pour Fajr |
-| **Sabr 'an al-ma'siya** | Patience face aux péchés | Résister à une tentation |
-| **Sabr 'ala al-musiba** | Patience face aux épreuves | Accepter une perte |
-
-### 5.2 Ce que le Sabr N'EST PAS
-
-| Fausse idée | Vérité |
-|-------------|--------|
-| « Ne rien faire » | Le sabr inclut l'effort et l'action |
-| « Ne pas pleurer » | Les larmes sont permises, pas les lamentations |
-| « Ne pas se soigner » | Se soigner fait partie du sabr |
-| « Tout accepter passivement » | Changer ce qu'on peut, accepter ce qu'on ne peut pas |
-
-### 5.3 Comment Pratiquer le Sabr ?
-
-| Moment difficile | Action de Sabr |
-|------------------|----------------|
-| Annonce d'une mauvaise nouvelle | « Inna lillahi wa inna ilayhi raji'un » |
-| Douleur physique | Dhikr, invocations |
-| Perte financière | Confiance en Ar-Razzaq |
-| Conflit relationnel | Prendre du recul, invoquer |
+| Raison | Explication |
+|--------|-------------|
+| **Expiation des péchés** | Les épreuves effacent les fautes |
+| **Élévation des degrés** | Celui qui patiente a des rangs plus élevés |
+| **Rapprochement d'Allah** | L'épreuve fait qu'on invoque plus |
+| **Détachement du dunya** | On se rappelle que ce monde est temporaire |
+| **Développement du caractère** | La patience forge l'âme |
 
 ---
 
-## 6. Hadiths Complémentaires
+## 🎯 Action Concrète
 
-### Sur les Épreuves
+### 📌 Défi de la Semaine
 
-> **« مَا يُصِيبُ الْمُسْلِمَ مِنْ نَصَبٍ وَلاَ وَصَبٍ وَلاَ هَمٍّ وَلاَ حُزْنٍ وَلاَ أَذًى وَلاَ غَمٍّ، حَتَّى الشَّوْكَةِ يُشَاكُهَا، إِلاَّ كَفَّرَ اللَّهُ بِهَا مِنْ خَطَايَاهُ »**
+**Pendant 7 jours, à chaque événement de ta journée :**
+
+| Si c'est positif | Si c'est négatif |
+|------------------|------------------|
+| Dis **« Alhamdulillah »** consciemment | Dis **« Inna lillahi wa inna ilayhi raji'un »** |
+| Réfléchis : comment remercier par les actes ? | Réfléchis : quelle leçon ? Quelle action ? |
+| Note-le dans un carnet de gratitude | Note-le comme une opportunité de sabr |
+
+### 📝 Journal Quotidien
+
+| Jour | Événement Positif + Shukr | Événement Difficile + Sabr |
+|------|---------------------------|----------------------------|
+| Lundi | | |
+| Mardi | | |
+| Mercredi | | |
+| Jeudi | | |
+| Vendredi | | |
+| Samedi | | |
+| Dimanche | | |
+
+### 📝 Invocation
+
+> **اللَّهُمَّ اجْعَلْنِي مِنَ الشَّاكِرِينَ فِي السَّرَّاءِ، وَمِنَ الصَّابِرِينَ فِي الضَّرَّاءِ، وَارْزُقْنِي حُسْنَ الظَّنِّ بِكَ فِي كُلِّ أَحْوَالِي**
 >
-> *« Tout ce qui touche le musulman comme fatigue, maladie, souci, tristesse, nuisance ou angoisse, même l'épine qui le pique, Allah lui expie par cela une partie de ses péchés. »*
-> — [Al-Bukhari et Muslim]
-
-### Sur la Gratitude
-
-> **« مَنْ لاَ يَشْكُرُ النَّاسَ لاَ يَشْكُرُ اللَّهَ »**
->
-> *« Celui qui ne remercie pas les gens ne remercie pas Allah. »*
-> — [Ahmad, Tirmidhi]
+> *« Ô Allah, fais de moi quelqu'un qui remercie dans l'aisance, qui patiente dans l'adversité, et accorde-moi de bien penser de Toi en toutes circonstances. »*
 
 ---
 
-## 7. Action Concrète
+## 📝 Résumé des Points Clés
 
-### Défi de la Semaine : Le Journal de Gratitude et Patience
-
-Chaque soir, note :
-
-| Colonne 1 | Colonne 2 |
-|-----------|-----------|
-| **3 choses pour lesquelles je dis Alhamdulillah** | **1 épreuve où j'ai patienté aujourd'hui** |
-| 1. | |
-| 2. | |
-| 3. | |
-
-### Invocation Quotidienne
-
-> **« اللَّهُمَّ أَعِنِّي عَلَى ذِكْرِكَ وَشُكْرِكَ وَحُسْنِ عِبَادَتِكَ »**
->
-> *« Ô Allah, aide-moi à Te mentionner, à Te remercier et à T'adorer de la meilleure manière. »*
+| # | Point Clé |
+|---|-----------|
+| 1️⃣ | Pour le croyant sincère, TOUTE situation est un bien |
+| 2️⃣ | Ce privilège est exclusif au croyant (pas aux autres) |
+| 3️⃣ | L'équation : Bonheur + Shukr = Bien / Malheur + Sabr = Bien |
+| 4️⃣ | Le sabr n'est pas passivité, il inclut l'effort et l'acceptation |
+| 5️⃣ | Le shukr n'est pas que verbal, il se traduit en actes |
+| 6️⃣ | Ce hadith est un remède contre l'anxiété et la dépression |
 
 ---
 
-## Résumé
+## 📚 Sources et Références
 
-| Point Clé | Leçon |
-|-----------|-------|
-| **1** | Pour le croyant, TOUT est un bien (bonheur ou malheur) |
-| **2** | Bonheur + Gratitude = Bien |
-| **3** | Malheur + Patience = Bien |
-| **4** | C'est un privilège exclusif du croyant sincère |
-| **5** | Le Shukr se pratique du cœur, de la langue et des actes |
-| **6** | Le Sabr n'est pas passivité mais acceptation active |
-| **7** | Cette vision guérit l'anxiété et la dépression |
-
----
-
-## Sources
-
-- **Sahih Muslim** - Hadith n°2999
-- **Sahih Al-Bukhari** - Hadiths sur la patience
-- **'Uddat As-Sabirin** - Ibn Al-Qayyim
-- **At-Tibyan fi Adab Hamalat Al-Quran** - Imam An-Nawawi
+| Ouvrage | Auteur |
+|---------|--------|
+| **Sahih Muslim** | Imam Muslim |
+| **Sharh Sahih Muslim** | Imam An-Nawawi |
+| **Madarij As-Salikin** | Ibn Al-Qayyim |
+| **Jami' Al-'Ulum wal-Hikam** | Ibn Rajab Al-Hanbali |
+| **'Uddat As-Sabirin** | Ibn Al-Qayyim |
+| **Al-Mufhim** | Imam Al-Qurtubi |
 
 ---
 
 **والله أعلم**
 
-*« Ô Allah, fais de nous des gens qui remercient dans l'aisance et patientent dans l'épreuve. »*
-`
+*Ô Allah, fais de nous des croyants sincères qui remercient dans l'aisance et patientent dans l'adversité.*
+
+**اللَّهُمَّ اجْعَلْنَا مِنَ الشَّاكِرِينَ الصَّابِرِينَ الرَّاضِينَ بِقَضَائِكَ**
+`;
