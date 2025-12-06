@@ -1,6 +1,7 @@
 /**
- * Hadith Essentiels - Leçon 004: Délaisser ce qui ne te concerne pas
- * Index de la leçon
+ * Sciences du Hadith - Leçon 004: من حسن إسلام المرء تركه ما لا يعنيه
+ * Délaisser ce qui ne te concerne pas - L'Excellence de l'Islam
+ * Leave What Does Not Concern You
  */
 
 import { Lesson } from '../../../types'
@@ -10,12 +11,12 @@ import { content as contentEn } from './en'
 
 export const lesson004: Lesson = {
   id: 'lesson-004',
-  duration: '30 min',
+  duration: '35 min',
   order: 4,
   title: {
     fr: 'Délaisser ce qui ne te concerne pas',
-    ar: 'ترك ما لا يعني',
-    en: 'Leave What Doesn\'t Concern You',
+    ar: 'من حسن إسلام المرء تركه ما لا يعنيه',
+    en: 'Leave What Does Not Concern You',
   },
   content: {
     fr: contentFr,
