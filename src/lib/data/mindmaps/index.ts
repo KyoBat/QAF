@@ -1578,6 +1578,152 @@ export const siyamConditionsData: MindMapDataMultiLang = {
 };
 
 // ============================================
+// HAJJ - Introduction (lesson-001)
+// ============================================
+export const hajjIntroductionData: MindMapDataMultiLang = {
+  id: 'root',
+  label: { ar: 'مقدمة في الحج', en: 'Introduction to Hajj', fr: 'Introduction au Hajj' },
+  icon: '🕋',
+  color: '#1e3a5f',
+  children: [
+    {
+      id: 'definition',
+      label: { ar: 'تعريف الحج', en: 'Definition of Hajj', fr: 'Définition du Hajj' },
+      icon: '📖',
+      color: '#2d6a4f',
+      children: [
+        { id: 'linguistic', label: { ar: 'لغة: القصد إلى معظم', en: 'Linguistic: Intent to venerated', fr: 'Linguistique: Intention vers vénéré' }, icon: '📚' },
+        { id: 'technical', label: { ar: 'اصطلاحا: قصد البيت الحرام', en: 'Technical: Intent to Sacred House', fr: 'Technique: Intention vers Maison Sacrée' }, icon: '📜' },
+      ],
+    },
+    {
+      id: 'pillar',
+      label: { ar: 'الركن الخامس', en: 'Fifth Pillar', fr: 'Cinquième Pilier' },
+      icon: '🏛️',
+      color: '#7b2cbf',
+      children: [
+        { id: 'shahada', label: { ar: 'الشهادة', en: 'Shahada', fr: 'Shahada' }, icon: '1️⃣' },
+        { id: 'salat', label: { ar: 'الصلاة', en: 'Salat', fr: 'Salat' }, icon: '2️⃣' },
+        { id: 'zakat', label: { ar: 'الزكاة', en: 'Zakat', fr: 'Zakat' }, icon: '3️⃣' },
+        { id: 'sawm', label: { ar: 'الصيام', en: 'Sawm', fr: 'Sawm' }, icon: '4️⃣' },
+        { id: 'hajj', label: { ar: 'الحج ⭐', en: 'Hajj ⭐', fr: 'Hajj ⭐' }, icon: '5️⃣' },
+      ],
+    },
+    {
+      id: 'uniqueness',
+      label: { ar: 'ما يميز الحج', en: 'Uniqueness of Hajj', fr: 'Unicité du Hajj' },
+      icon: '✨',
+      color: '#c9184a',
+      children: [
+        { id: 'body', label: { ar: 'عبادة بدنية', en: 'Bodily worship', fr: 'Adoration corporelle' }, icon: '🚶' },
+        { id: 'wealth', label: { ar: 'عبادة مالية', en: 'Financial worship', fr: 'Adoration financière' }, icon: '💰' },
+        { id: 'heart', label: { ar: 'عبادة قلبية', en: 'Heart worship', fr: 'Adoration du cœur' }, icon: '❤️' },
+        { id: 'unity', label: { ar: 'وحدة الأمة', en: 'Unity of Ummah', fr: 'Unité de la Oumma' }, icon: '🤝' },
+      ],
+    },
+    {
+      id: 'vocabulary',
+      label: { ar: 'مصطلحات الحج', en: 'Hajj Vocabulary', fr: 'Vocabulaire du Hajj' },
+      icon: '📖',
+      color: '#0891b2',
+      children: [
+        { id: 'manasik', label: { ar: 'المناسك', en: 'Manasik (Rites)', fr: 'Manasik (Rites)' }, icon: '📋' },
+        { id: 'ihram', label: { ar: 'الإحرام', en: 'Ihram', fr: 'Ihram' }, icon: '🧕' },
+        { id: 'tawaf', label: { ar: 'الطواف', en: 'Tawaf', fr: 'Tawaf' }, icon: '🔄' },
+        { id: 'sai', label: { ar: 'السعي', en: "Sa'i", fr: "Sa'i" }, icon: '🏃' },
+        { id: 'wuquf', label: { ar: 'الوقوف', en: 'Wuquf', fr: 'Wuquf' }, icon: '⛰️' },
+      ],
+    },
+    {
+      id: 'virtues',
+      label: { ar: 'فضائل الحج', en: 'Virtues of Hajj', fr: 'Mérites du Hajj' },
+      icon: '🌟',
+      color: '#9c6644',
+      children: [
+        { id: 'sins-erased', label: { ar: 'محو الذنوب', en: 'Sins erased', fr: 'Péchés effacés' }, icon: '🧹' },
+        { id: 'paradise', label: { ar: 'الجنة جزاؤه', en: 'Paradise reward', fr: 'Paradis en récompense' }, icon: '🏞️' },
+        { id: 'ibrahim-call', label: { ar: 'إجابة نداء إبراهيم', en: "Answer Ibrahim's call", fr: "Réponse à l'appel d'Ibrahim" }, icon: '📢' },
+      ],
+    },
+  ],
+};
+
+// ============================================
+// HAJJ - Conditions d'Obligation (lesson-002)
+// ============================================
+export const hajjConditionsData: MindMapDataMultiLang = {
+  id: 'root',
+  label: { ar: 'شروط وجوب الحج', en: 'Conditions of Obligation', fr: "Conditions d'Obligation" },
+  icon: '📋',
+  color: '#1e3a5f',
+  children: [
+    {
+      id: 'islam',
+      label: { ar: 'الإسلام', en: 'Islam', fr: "L'Islam" },
+      icon: '☪️',
+      color: '#2d6a4f',
+      children: [
+        { id: 'muslim-only', label: { ar: 'المسلم فقط', en: 'Muslim only', fr: 'Musulman uniquement' }, icon: '✅' },
+        { id: 'convert', label: { ar: 'الإسلام يجب ما قبله', en: 'Islam erases past', fr: "L'Islam efface le passé" }, icon: '🔄' },
+      ],
+    },
+    {
+      id: 'puberty',
+      label: { ar: 'البلوغ', en: 'Puberty', fr: 'La Puberté' },
+      icon: '👤',
+      color: '#7b2cbf',
+      children: [
+        { id: 'child-hajj', label: { ar: 'حج الصبي: نفل', en: 'Child Hajj: voluntary', fr: "Hajj enfant: surérogatoire" }, icon: '👦' },
+        { id: 'must-redo', label: { ar: 'يعيده بعد البلوغ', en: 'Must redo after puberty', fr: 'Doit refaire après puberté' }, icon: '🔁' },
+      ],
+    },
+    {
+      id: 'reason',
+      label: { ar: 'العقل', en: 'Reason', fr: 'La Raison' },
+      icon: '🧠',
+      color: '#c9184a',
+      children: [
+        { id: 'insane', label: { ar: 'المجنون: لا حج عليه', en: 'Insane: no Hajj', fr: 'Fou: pas de Hajj' }, icon: '❌' },
+        { id: 'mentally-ill', label: { ar: 'فاقد العقل معذور', en: 'Mentally ill excused', fr: 'Malade mental excusé' }, icon: '🏥' },
+      ],
+    },
+    {
+      id: 'freedom',
+      label: { ar: 'الحرية', en: 'Freedom', fr: 'La Liberté' },
+      icon: '🔓',
+      color: '#0891b2',
+      children: [
+        { id: 'slave', label: { ar: 'العبد: لا يجب عليه', en: 'Slave: not obligatory', fr: 'Esclave: pas obligatoire' }, icon: '⛓️' },
+        { id: 'if-hajj', label: { ar: 'لو حج: يعيده حرا', en: 'If Hajj: redo when free', fr: 'Si Hajj: refaire libre' }, icon: '🔄' },
+      ],
+    },
+    {
+      id: 'istita',
+      label: { ar: 'الاستطاعة', en: 'Istita\'a (Ability)', fr: "L'Istita'a (Capacité)" },
+      icon: '💪',
+      color: '#9c6644',
+      children: [
+        { id: 'financial', label: { ar: 'مالية: الزاد والراحلة', en: 'Financial: provision & mount', fr: 'Financière: provisions & monture' }, icon: '💰' },
+        { id: 'physical', label: { ar: 'بدنية: القدرة على السفر', en: 'Physical: able to travel', fr: 'Physique: capacité de voyager' }, icon: '🚶' },
+        { id: 'security', label: { ar: 'أمن الطريق', en: 'Road safety', fr: 'Sécurité du chemin' }, icon: '🛡️' },
+        { id: 'time', label: { ar: 'سعة الوقت', en: 'Sufficient time', fr: 'Temps suffisant' }, icon: '⏰' },
+      ],
+    },
+    {
+      id: 'woman',
+      label: { ar: 'شرط المرأة', en: "Woman's Condition", fr: 'Condition de la Femme' },
+      icon: '👩',
+      color: '#d00000',
+      children: [
+        { id: 'mahram', label: { ar: 'المحرم', en: 'Mahram', fr: 'Mahram' }, icon: '👨‍👩‍👧' },
+        { id: 'maliki-view', label: { ar: 'المالكية: رفقة مأمونة', en: 'Maliki: safe company', fr: 'Malikite: compagnie sûre' }, icon: '🟡' },
+        { id: 'jumhur', label: { ar: 'الجمهور: محرم لازم', en: 'Majority: Mahram required', fr: 'Majorité: Mahram obligatoire' }, icon: '⚖️' },
+      ],
+    },
+  ],
+};
+
+// ============================================
 // Map lesson IDs to their MindMap data
 // Format: 'course-slug:lesson-id' for unique identification
 // ============================================
@@ -1607,6 +1753,11 @@ export const lessonMindMapsMultiLang: Record<string, MindMapDataMultiLang> = {
   // Siyam lessons
   'siyam:lesson-001': siyamIntroductionData,
   'siyam:lesson-002': siyamConditionsData,
+  // Hajj lessons
+  'fiqh-hajj:lesson-001': hajjIntroductionData,
+  'fiqh-hajj:lesson-002': hajjConditionsData,
+  'hajj:lesson-001': hajjIntroductionData,
+  'hajj:lesson-002': hajjConditionsData,
 };
 
 // Get mindmap by lesson ID with locale
@@ -1617,6 +1768,7 @@ export function getMindMapForLesson(lessonId: string, locale: string = 'fr', cou
     // Normalize course slug (remove 'bases-' prefix, etc.)
     const normalizedSlug = courseSlug.includes('aqeedah') ? 'aqeedah' : 
                           courseSlug.includes('siyam') ? 'siyam' :
+                          courseSlug.includes('hajj') ? 'hajj' :
                           courseSlug.includes('fiqh') ? 'fiqh' : courseSlug;
     const key = `${normalizedSlug}:${lessonId}`;
     const data = lessonMindMapsMultiLang[key];

@@ -1,194 +1,385 @@
 /**
- * Hajj - Leçon 002: Conditions d'Obligation
- * Contenu en Français
+ * Hajj - Leçon 002: Conditions d'Obligation du Hajj
+ * Qui doit accomplir le Pèlerinage - Critères et Exceptions
+ * Contenu en Français - Approche Savante et Qualitative
  */
 
-export const content = `# Les Conditions d'Obligation du Hajj (شروط وجوب الحج)
+export const content = `# 📜 شُرُوطُ وُجُوبِ الحَجّ — Les Conditions d'Obligation du Hajj
 
-## Introduction
+> Ces conditions déterminent **qui** est tenu d'accomplir le Hajj. Les savants ont méticuleusement défini ces critères pour que chaque musulman sache s'il est concerné par cette obligation. La condition clé est **l'Istita'a** (الاستطاعة) — la capacité.
 
-Le Hajj est obligatoire pour tout musulman qui remplit certaines conditions précises. Allah تعالى a lié cette obligation à la capacité (الاستطاعة), montrant ainsi la miséricorde de l'Islam.
+---
+
+## 📖 Texte Fondateur (النص التأسيسي)
+
+### 🔷 Le Verset de la Capacité
 
 > **﴿ وَلِلَّهِ عَلَى النَّاسِ حِجُّ الْبَيْتِ مَنِ اسْتَطَاعَ إِلَيْهِ سَبِيلًا ﴾**
 >
-> *« Et c'est un devoir envers Allah pour les gens qui en ont les moyens (Istita'a), d'aller faire le pèlerinage de la Maison. »* [Âl-Imrân : 97]
+> *« Et c'est un devoir envers Allah pour les gens qui ont la capacité (Istita'a), d'aller faire le pèlerinage de la Maison. »* [Âl-Imrân : 97]
+
+### 🔷 Le Hadith des Provisions et de la Monture
+
+عَنِ ابْنِ عُمَرَ رَضِيَ اللهُ عَنْهُمَا أَنَّ النَّبِيَّ ﷺ قَالَ:
+
+**« السَّبِيلُ: الزَّادُ وَالرَّاحِلَةُ »**
+
+*« La voie (Sabîl) [mentionnée dans le verset] c'est : les provisions et la monture. »*
+
+### 📚 Référencement (التخريج)
+
+| Source | Numéro | Statut |
+|--------|--------|--------|
+| **Sunan At-Tirmidhi** | 813 | ⚠️ Hasan |
+| **Sunan Ibn Majah** | 2896 | ⚠️ Hasan |
+| **Sunan Ad-Daraqutni** | 2677 | ⚠️ Hasan bi-shawahid |
+| **Mustadrak Al-Hakim** | 1612 | ✅ Sahih (selon Al-Hakim) |
 
 ---
 
-## 1. Les Conditions d'Obligation (شروط الوجوب)
+## 🎓 Paroles des Savants (أقوال العلماء)
 
-Ces conditions déterminent **sur qui** le Hajj est obligatoire :
+| Savant | Citation |
+|--------|----------|
+| **Imam Malik** رحمه الله | *« L'Istita'a est différente selon chaque personne : pour certains c'est la monture, pour d'autres la marche, et pour d'autres encore la richesse suffisante. »* — *Al-Mudawwana* |
+| **Ibn Abd Al-Barr** رحمه الله | *« Les savants sont unanimes que le Hajj n'est obligatoire qu'une seule fois dans la vie, et seulement pour celui qui en a **la capacité physique et financière**. »* — *Al-Istidhkar* |
+| **Al-Qadi 'Iyad** رحمه الله | *« Les conditions d'obligation sont **cinq** : l'Islam, la puberté, la raison, la liberté et l'Istita'a. Cette dernière est la plus complexe. »* — *Ikmal Al-Mu'lim* |
+| **Ibn Rushd Al-Hafid** رحمه الله | *« La divergence sur l'Istita'a provient de l'**interprétation du mot سَبِيلًا** dans le verset. Chaque école l'a défini selon ses principes. »* — *Bidayat Al-Mujtahid* |
+| **Sheikh Khalil** رحمه الله | *« Le Hajj est obligatoire sur tout musulman libre, pubère, sain d'esprit, **capable physiquement et financièrement**, avec **sécurité du chemin**. »* — *Mukhtasar Khalil* |
 
-### 📌 1.1 L'Islam (الإسلام)
+---
 
-Le Hajj n'est pas obligatoire sur le non-musulman, car les actes d'adoration ne sont valides qu'avec l'Islam.
+## 🔍 Analyse Linguistique (التحليل اللغوي)
 
-> Le Prophète ﷺ a dit à Mu'adh رضي الله عنه : **« فَأَخْبِرْهُمْ أَنَّ اللَّهَ افْتَرَضَ عَلَيْهِمْ خَمْسَ صَلَوَاتٍ... »**
-> — [Al-Bukhari (1395), Muslim (19)]
+### 📜 Vocabulaire des Conditions
 
-### 📌 1.2 La Puberté (البلوغ)
+| Terme | Arabe | Racine | Signification |
+|-------|-------|--------|---------------|
+| **الشُّرُوط** | Ash-Shuroot | ش ر ط | Les conditions (pluriel de شَرْط) |
+| **الوُجُوب** | Al-Wujub | و ج ب | L'obligation, le devoir impératif |
+| **الاسْتِطَاعَة** | Al-Istita'a | ط و ع | La capacité, le pouvoir de faire |
+| **السَّبِيل** | As-Sabil | س ب ل | Le chemin, la voie, le moyen |
+| **الزَّاد** | Az-Zad | ز و د | Les provisions de voyage |
+| **الرَّاحِلَة** | Ar-Rahila | ر ح ل | La monture (ce qui permet de voyager) |
+| **المَحْرَم** | Al-Mahram | ح ر م | Parent avec qui le mariage est interdit |
+| **البُلُوغ** | Al-Bulugh | ب ل غ | La puberté, atteindre l'âge adulte |
 
-Le Hajj n'est pas obligatoire sur l'enfant impubère. Cependant, s'il accomplit le Hajj, il est valide comme acte surérogatoire.
+### 📐 Analyse du Verset
 
-> Ibn Abbas رضي الله عنهما rapporte qu'une femme éleva un enfant et dit : « Celui-ci a-t-il un Hajj ? » Le Prophète ﷺ répondit : **« نَعَمْ، وَلَكِ أَجْرٌ »** *« Oui, et toi tu as une récompense. »*
+| Segment | Analyse |
+|---------|---------|
+| **مَنِ اسْتَطَاعَ** | Pronom relatif + verbe au passé = condition |
+| **إِلَيْهِ** | Préposition + pronom = vers lui (le pèlerinage) |
+| **سَبِيلًا** | Complément d'objet = un chemin/moyen |
+
+### 💡 Point de Balaghah
+
+Le mot **سَبِيلًا** (un chemin) est indéterminé (نكرة), ce qui lui donne une portée **générale**. Cela permet aux savants d'interpréter la "capacité" de façon **large** : financière, physique, sécuritaire, etc.
+
+---
+
+## 📚 Explication Détaillée (الشرح المفصل)
+
+### 1️⃣ Les Cinq Conditions d'Obligation
+
+#### 📌 Condition 1 : L'Islam (الإسلام)
+
+Le Hajj n'est pas obligatoire sur le non-musulman, et s'il l'accomplit, il n'est pas valide.
+
+| Règle | Explication |
+|-------|-------------|
+| **Non-musulman** | Pas d'obligation |
+| **Converti après Hajj** | Doit refaire le Hajj |
+| **Nouveau converti** | Obligatoire dès qu'il en a la capacité |
+
+#### 📌 Condition 2 : La Puberté (البلوغ)
+
+L'enfant impubère n'a pas l'obligation du Hajj. S'il l'accomplit, c'est un Hajj surérogatoire.
+
+> **Hadith :** Une femme éleva un enfant et dit : « Celui-ci a-t-il un Hajj ? » Le Prophète ﷺ dit : **« نَعَمْ، وَلَكِ أَجْرٌ »** — *« Oui, et toi tu as une récompense. »*
 > — [Muslim (1336)]
 
-**Note importante :** Cet enfant devra refaire le Hajj après sa puberté, car le premier ne compte pas comme Hajj obligatoire.
+| Situation | Règle |
+|-----------|-------|
+| **Hajj avant puberté** | Valide comme Nafl |
+| **Après puberté** | Doit refaire le Hajj Fard |
+| **Devient pubère pendant Hajj** | Compte comme Hajj Fard (selon certains) |
 
-### 📌 1.3 La Raison (العقل)
+#### 📌 Condition 3 : La Raison (العقل)
 
-Le fou (المجنون) n'est pas responsable légalement et le Hajj ne lui est pas obligatoire.
+Le fou (المجنون) n'est pas responsable et le Hajj ne lui est pas obligatoire.
 
-> Le Prophète ﷺ a dit : **« رُفِعَ الْقَلَمُ عَنْ ثَلاَثَةٍ: عَنِ النَّائِمِ حَتَّى يَسْتَيْقِظَ، وَعَنِ الصَّبِيِّ حَتَّى يَحْتَلِمَ، وَعَنِ الْمَجْنُونِ حَتَّى يَعْقِلَ »**
-> *« La plume est levée pour trois personnes : le dormeur jusqu'à son réveil, l'enfant jusqu'à sa puberté, et le fou jusqu'à ce qu'il retrouve la raison. »*
-> — [Abu Dawud (4403), authentifié par Al-Albani]
+> **Hadith :** **« رُفِعَ الْقَلَمُ عَنْ ثَلاَثَةٍ: عَنِ النَّائِمِ حَتَّى يَسْتَيْقِظَ، وَعَنِ الصَّبِيِّ حَتَّى يَحْتَلِمَ، وَعَنِ الْمَجْنُونِ حَتَّى يَعْقِلَ »**
+> *« La plume est levée pour trois : le dormeur jusqu'à son réveil, l'enfant jusqu'à sa puberté, et le fou jusqu'à ce qu'il retrouve la raison. »*
+> — [Abu Dawud (4403)]
 
-### 📌 1.4 La Liberté (الحرية)
+#### 📌 Condition 4 : La Liberté (الحرية)
 
-L'esclave n'a pas l'obligation du Hajj car il n'a pas la maîtrise de sa personne ni de ses biens.
+L'esclave n'a pas l'obligation du Hajj car il ne possède ni sa personne ni ses biens.
+
+> **Note historique :** Cette condition était pertinente à l'époque de l'esclavage. Aujourd'hui, elle est mentionnée pour la complétude juridique.
+
+#### 📌 Condition 5 : La Capacité (الاستطاعة)
+
+C'est la condition **principale** et la plus **détaillée**. Elle comprend trois volets :
 
 ---
 
-## 2. La Capacité (الاستطاعة)
+### 2️⃣ Les Trois Volets de l'Istita'a
 
-C'est la condition clé mentionnée dans le Coran. Elle comprend plusieurs aspects :
+#### 🔷 A. La Capacité Physique (الاستطاعة البدنية)
 
-### 📌 2.1 La Capacité Physique (الاستطاعة البدنية)
-
-Le pèlerin doit être **physiquement capable** d'accomplir les rites :
-- Pouvoir voyager
-- Pouvoir marcher pour les rites essentiels
-- Ne pas avoir de maladie qui empêche le voyage
-
-**Cas de l'incapable permanent :**
-
-Celui qui ne peut pas accomplir le Hajj physiquement de façon permanente (vieillesse, maladie incurable) doit **mandater quelqu'un** pour le faire à sa place s'il en a les moyens financiers.
-
-> Un homme vint au Prophète ﷺ et dit : « Mon père est très âgé et ne peut ni faire le Hajj ni voyager. Dois-je faire le Hajj pour lui ? » Le Prophète ﷺ dit : **« حُجَّ عَنْ أَبِيكَ »** *« Fais le Hajj pour ton père. »*
-> — [Abu Dawud (1810)]
-
-### 📌 2.2 La Capacité Financière (الاستطاعة المالية)
-
-Le pèlerin doit avoir **les moyens financiers** pour :
+Le pèlerin doit être physiquement capable de :
 
 | Élément | Description |
 |---------|-------------|
-| **Frais de voyage** | Transport aller-retour |
-| **Hébergement** | Logement pendant le Hajj |
-| **Nourriture** | Provisions suffisantes |
-| **Besoins de la famille** | Laisser de quoi subvenir à sa famille pendant son absence |
-| **Dettes** | Régler les dettes exigibles ou obtenir l'accord du créancier |
+| **Voyager** | Pouvoir supporter le voyage |
+| **Marcher** | Pour les rites essentiels (Tawaf, Sa'i, Arafat) |
+| **Rester debout** | Pour les longues stations |
 
-> Le Prophète ﷺ a dit : **« السَّبِيلُ: الزَّادُ وَالرَّاحِلَةُ »**
-> *« La voie (Sabîl) c'est les provisions et la monture. »*
-> — [At-Tirmidhi (813), Ibn Majah (2896)]
+**Cas de l'incapacité permanente :**
 
-### 📌 2.3 La Sécurité du Chemin (أَمْنُ الطَّرِيق)
+| Situation | Règle 🟡 Malikite |
+|-----------|-------------------|
+| **Vieillesse** | Doit mandater quelqu'un |
+| **Maladie incurable** | Doit mandater quelqu'un |
+| **Paralysie** | Doit mandater quelqu'un |
+| **Maladie temporaire** | Attend la guérison |
 
-Le chemin vers La Mecque doit être **sûr**. S'il y a :
-- Guerre
-- Brigands
-- Danger pour la vie ou les biens
+> **Hadith de la Khath'amiyyah :** Une femme dit : « Mon père est très âgé et ne peut tenir sur une monture. Puis-je faire le Hajj pour lui ? » Le Prophète ﷺ dit : **« نَعَمْ »** — *« Oui. »*
+> — [Al-Bukhari (1513), Muslim (1334)]
 
-Le Hajj n'est pas obligatoire dans l'immédiat.
+#### 🔷 B. La Capacité Financière (الاستطاعة المالية)
+
+| Élément | Obligatoire |
+|---------|-------------|
+| **Transport aller-retour** | ✅ Oui |
+| **Hébergement** | ✅ Oui |
+| **Nourriture** | ✅ Oui |
+| **Besoins de la famille** | ✅ Laisser de quoi subvenir |
+| **Dettes exigibles** | ✅ Régler avant ou accord du créancier |
+| **Dettes différées** | ⚠️ Pas d'obstacle selon les Malikites |
+
+#### 🔷 C. La Sécurité du Chemin (أَمْنُ الطَّرِيق)
+
+| Danger | Règle |
+|--------|-------|
+| **Guerre** | Hajj différé |
+| **Brigands** | Hajj différé |
+| **Épidémie grave** | Hajj différé |
+| **Fermeture des frontières** | Hajj différé |
 
 ---
 
-## 3. Condition Spécifique à la Femme : Le Mahram
+## 🕌 Avis des Madhahib (آراء المذاهب)
 
-### 📌 La question du Mahram (المَحْرَم)
+### ⚠️ Divergence sur le Mahram pour la Femme
 
-Le Mahram est un homme avec qui le mariage est interdit de façon permanente (père, frère, fils, oncle, mari...).
-
-### ⚠️ Divergence entre les Écoles
+C'est l'une des grandes divergences en fiqh du Hajj :
 
 | École | Avis | Argument |
 |-------|------|----------|
-| 🟡 **Maliki** | **Pas obligatoire si sécurité** | Le Mahram est pour la protection ; si sécurité assurée avec groupe de femmes de confiance, c'est suffisant |
-| 🟢 Hanafi | Obligatoire | Hadith de l'interdiction de voyager sans Mahram |
-| 🔵 Shafi'i | Non obligatoire (avec conditions) | Femmes de confiance ou sécurité du voyage suffisent |
-| 🟣 Hanbali | Obligatoire | Même avis que les Hanafites |
+| 🟡 **Maliki** | **Non obligatoire si sécurité** | Le Mahram est pour la protection ; groupe de femmes de confiance suffit |
+| 🟢 **Hanafi** | Obligatoire | Hadith explicite |
+| 🔵 **Shafi'i** | Non obligatoire (avec conditions) | Femmes de confiance suffisent |
+| 🟣 **Hanbali** | Obligatoire | Même avis que Hanafites |
 
-> 💡 **Position Malikite :** 
-> L'Imam Malik رحمه الله considère que l'objectif du Mahram est d'assurer la protection et l'honneur de la femme. Si elle voyage avec un groupe de femmes de confiance sur une route sûre, le Hajj lui est obligatoire.
+> 💡 **Position Malikite détaillée :**
+> 
+> L'Imam Malik رحمه الله considère que l'**objectif** (المقصد) du Mahram est d'assurer la **protection et l'honneur** de la femme. 
+> 
+> Si elle voyage :
+> - Avec un **groupe de femmes de confiance** (رُفْقَة مَأْمُونَة)
+> - Sur un **chemin sûr**
+> - Avec des **moyens suffisants**
+> 
+> Alors le Hajj lui est **obligatoire** même sans Mahram.
 
 **Le hadith de référence :**
 
-> Le Prophète ﷺ a dit : **« لاَ تُسَافِرِ الْمَرْأَةُ إِلاَّ مَعَ ذِي مَحْرَمٍ »**
+> **« لاَ تُسَافِرِ الْمَرْأَةُ إِلاَّ مَعَ ذِي مَحْرَمٍ »**
 > *« La femme ne doit pas voyager sauf avec un Mahram. »*
 > — [Al-Bukhari (1862), Muslim (1341)]
 
-Les Malikites interprètent ce hadith comme une recommandation pour la protection, pas une condition absolue pour le Hajj.
+**Interprétation Malikite :** Ce hadith concerne les voyages ordinaires pour la protection. Pour le Hajj (obligation divine), la sécurité peut être assurée autrement.
+
+### ⚠️ Divergence sur l'Endettement pour le Hajj
+
+| École | Avis |
+|-------|------|
+| 🟡 **Maliki** | **Non recommandé** — L'Istita'a exclut l'endettement |
+| 🟢 **Hanafi** | Non obligatoire de s'endetter |
+| 🔵 **Shafi'i** | Non obligatoire de s'endetter |
+| 🟣 **Hanbali** | Non obligatoire de s'endetter |
+
+> 💡 **Consensus :** Aucune école n'oblige de s'endetter pour le Hajj. Celui qui n'a pas les moyens n'est **pas concerné** par l'obligation.
 
 ---
 
-## 4. Le Hajj pour Autrui (الحج عن الغير)
+## 📖 Preuves Complémentaires (الشواهد)
 
-### 📌 Quand est-ce permis ?
+### De la Sunna (من السنة)
 
-On peut accomplir le Hajj au nom d'une autre personne dans ces cas :
+**1. La plume levée :**
 
-| Cas | Règle |
-|-----|-------|
-| **Décédé** | Permis, surtout s'il avait les moyens et n'a pas pu |
-| **Personne âgée incapable** | Permis s'il a les moyens |
-| **Malade chronique** | Permis s'il ne peut pas se rétablir |
-| **Personne capable** | Interdit - doit le faire lui-même |
+> **« رُفِعَ الْقَلَمُ عَنْ ثَلاَثَةٍ... »**
+> — [Abu Dawud (4403), At-Tirmidhi (1423)]
 
-### 📌 Hadith de la Khath'amiyyah
+**2. Le Hajj pour autrui :**
 
-> Une femme de Khath'am dit : « Ô Messager d'Allah ! L'obligation d'Allah envers Ses serviteurs concernant le Hajj a trouvé mon père très âgé, incapable de tenir sur une monture. Puis-je faire le Hajj pour lui ? » Le Prophète ﷺ dit : **« نَعَمْ »** *« Oui. »*
-> — [Al-Bukhari (1513), Muslim (1334)]
+> Un homme dit : « Mon père est très âgé. Puis-je faire le Hajj pour lui ? » Le Prophète ﷺ dit : **« حُجَّ عَنْ أَبِيكَ »** — *« Fais le Hajj pour ton père. »*
+> — [Abu Dawud (1810), An-Nasai (2634)]
 
-### 📌 Conditions du Hajj pour autrui
+**3. Analogie avec la dette :**
 
-1. **Celui qui fait le Hajj** doit avoir déjà accompli son propre Hajj obligatoire
-2. **Le mandant** doit être dans l'incapacité permanente ou décédé
-3. **Les frais** sont à la charge du mandant (ou de sa succession)
+> Une femme dit : « Ma mère a fait vœu de Hajj mais est morte sans l'accomplir. Puis-je le faire pour elle ? » Le Prophète ﷺ dit : **« أَرَأَيْتِ لَوْ كَانَ عَلَى أُمِّكِ دَيْنٌ أَكُنْتِ قَاضِيَتَهُ؟ اقْضُوا اللَّهَ، فَاللَّهُ أَحَقُّ بِالْوَفَاءِ »**
+> *« Si ta mère avait une dette, l'aurais-tu remboursée ? Remboursez donc à Allah, car Allah mérite le plus qu'on s'acquitte envers Lui. »*
+> — [Al-Bukhari (1852)]
 
 ---
 
-## 5. Quand le Hajj Devient-il Obligatoire ?
+## 🌍 Applications Modernes (التطبيقات المعاصرة)
 
-### 📌 L'immédiateté de l'obligation
+### 📋 Situations Contemporaines
 
-Selon l'avis majoritaire des savants, le Hajj est obligatoire **immédiatement** (على الفَوْر) dès que les conditions sont réunies.
+| Situation | ✅ Hajj obligatoire ? | Explication |
+|-----------|----------------------|-------------|
+| **Salarié avec économies suffisantes** | ✅ Oui | Capacité financière remplie |
+| **Étudiant sans revenus** | ❌ Non | Pas de capacité financière |
+| **Retraité en bonne santé** | ✅ Oui | Si capacité financière |
+| **Femme sans Mahram** | ✅ Oui (🟡 Malikite) | Si voyage en groupe sécurisé |
+| **Personne endettée** | ⚠️ Dépend | Dettes exigibles = attendre |
+| **Malade chronique stable** | ✅ Oui | Si peut voyager |
+| **Personne en fauteuil roulant** | ✅ Oui | Si peut accomplir les rites (avec aide) |
 
-> Le Prophète ﷺ a dit : **« تَعَجَّلُوا إِلَى الْحَجِّ - يَعْنِي الْفَرِيضَةَ - فَإِنَّ أَحَدَكُمْ لاَ يَدْرِي مَا يَعْرِضُ لَهُ »**
-> *« Hâtez-vous d'accomplir le Hajj obligatoire, car l'un de vous ne sait pas ce qui peut lui arriver. »*
-> — [Ahmad (2869)]
+### 📱 Le Hajj à l'Ère Moderne
 
-### 📌 Le péché de retarder
+| Question moderne | Réponse |
+|------------------|---------|
+| **Visa refusé** | Pas d'obligation cette année |
+| **Quotas de pays** | Pas d'obligation si non sélectionné |
+| **Pandémie** | Sécurité non assurée = différé |
+| **Voyage organisé coûteux** | Si moins cher possible, c'est le minimum |
+| **Économiser pour les enfants** | Si enfants à charge, priorité à eux |
 
-Celui qui a la capacité et retarde le Hajj sans excuse valable commet un péché selon la majorité des savants.
+### 💼 Le Hajj et les Obligations Professionnelles
 
----
-
-## 🎯 Résumé
-
-| Condition | Description |
-|-----------|-------------|
-| **Islam** | Le non-musulman n'est pas concerné |
-| **Puberté** | L'enfant peut faire un Hajj surérogatoire |
-| **Raison** | Le fou n'est pas responsable |
-| **Liberté** | L'esclave n'a pas l'obligation |
-| **Capacité physique** | Pouvoir accomplir le voyage et les rites |
-| **Capacité financière** | Provisions, transport, besoins de la famille |
-| **Sécurité** | Chemin sûr |
-| **Mahram (femme)** | 🟡 Non obligatoire si sécurité assurée (Malikite) |
-
----
-
-## 📚 Sources
-
-1. Sahih Al-Bukhari - Imam Al-Bukhari رحمه الله
-2. Sahih Muslim - Imam Muslim رحمه الله
-3. Sunan Abu Dawud - Imam Abu Dawud رحمه الله
-4. Al-Mudawwana - Imam Malik رحمه الله
-5. Bidayat Al-Mujtahid - Ibn Rushd رحمه الله
-6. Al-Mughni - Ibn Qudama رحمه الله
+| Situation | Solution |
+|-----------|----------|
+| **Congés limités** | Planifier à l'avance, Hajj prioritaire |
+| **Refus de l'employeur** | Si capacité = démissionner ou négocier |
+| **Entrepreneur** | Déléguer temporairement |
+| **Fonctionnaire** | Demander congé exceptionnel |
 
 ---
 
-والله أعلم - Et Allah sait mieux
+## ⚠️ Erreurs à Éviter (المحاذير)
+
+### 🚨 Erreurs Courantes
+
+| Erreur | Correction |
+|--------|------------|
+| ❌ « Je n'ai pas de Mahram donc pas d'obligation » | ✅ 🟡 Les Malikites permettent sans Mahram si sécurité |
+| ❌ « J'attendrai d'être riche » | ✅ Dès moyens suffisants = obligation |
+| ❌ « Je dois rembourser mon prêt maison d'abord » | ✅ Dettes différées n'empêchent pas |
+| ❌ « Le Hajj est trop cher, je ne peux pas » | ✅ Évaluer honnêtement ses économies |
+| ❌ « Mes parents refusent » | ✅ Pour le Hajj Fard, pas besoin de permission |
+
+### 🚨 Cas Limites
+
+| Situation | Règle |
+|-----------|-------|
+| **Hajj avec argent douteux (شبهة)** | Valide mais récompense diminuée |
+| **Hajj payé par autrui** | Valide et obligation levée |
+| **Hajj gagné à un concours** | Valide |
+| **Hajj offert par le gouvernement** | Valide |
+
+---
+
+## ❓ Questions Fréquentes
+
+### « Je suis endetté. Dois-je faire le Hajj ? »
+
+**Réponse :** Cela dépend du type de dette :
+- **Dette exigible immédiatement** : Non, rembourser d'abord ou obtenir l'accord du créancier
+- **Dette à long terme (prêt immobilier)** : Oui, le Hajj est obligatoire selon les Malikites
+
+### « Ma femme peut-elle partir sans moi ? »
+
+**Réponse Malikite :** Oui, si elle voyage avec un **groupe de femmes de confiance** et que le voyage est **sécurisé**.
+
+### « Mon enfant de 10 ans peut-il faire le Hajj ? »
+
+**Oui**, mais c'est un Hajj **surérogatoire**. Il devra refaire le Hajj après sa puberté pour s'acquitter de l'obligation.
+
+### « Puis-je faire le Hajj pour ma mère décédée ? »
+
+**Oui**, c'est permis et recommandé. Condition : avoir déjà accompli **votre propre Hajj** obligatoire.
+
+### « Le visa est refusé. Suis-je en péché ? »
+
+**Non.** La capacité inclut la possibilité d'accès. Si le visa est refusé, l'obstacle est indépendant de votre volonté.
+
+---
+
+## 🎯 Action Concrète
+
+### 📌 Défi de la Semaine
+
+**Évalue ta situation :**
+
+| Critère | ✅ ou ❌ |
+|---------|---------|
+| Es-tu musulman(e) adulte ? | |
+| As-tu les moyens financiers ? | |
+| Es-tu en bonne santé ? | |
+| Ta famille sera-t-elle prise en charge ? | |
+| Tes dettes exigibles sont-elles réglées ? | |
+| Le chemin est-il sûr ? | |
+
+**Si tout est ✅ → Le Hajj t'est OBLIGATOIRE !**
+
+### 📝 Invocation
+
+> **اللَّهُمَّ يَسِّرْ لِي حَجَّ بَيْتِكَ الحَرَامِ، وَارْزُقْنِي الاسْتِطَاعَةَ وَالعَافِيَةَ**
+>
+> *« Ô Allah, facilite-moi le pèlerinage à Ta Maison Sacrée, et accorde-moi la capacité et la bonne santé. »*
+
+---
+
+## 📝 Résumé des Points Clés
+
+| # | Condition | Détail |
+|---|-----------|--------|
+| 1️⃣ | **Islam** | Non-musulman non concerné |
+| 2️⃣ | **Puberté** | Enfant peut faire Hajj Nafl |
+| 3️⃣ | **Raison** | Fou exempté |
+| 4️⃣ | **Liberté** | Esclave exempté (historique) |
+| 5️⃣ | **Capacité physique** | Sinon mandater quelqu'un |
+| 6️⃣ | **Capacité financière** | Transport + logement + provisions + famille |
+| 7️⃣ | **Sécurité** | Chemin sûr obligatoire |
+| 8️⃣ | **Mahram (femme)** | 🟡 Non obligatoire si sécurité (Malikite) |
+
+---
+
+## 📚 Sources et Références
+
+| Ouvrage | Auteur |
+|---------|--------|
+| **Al-Mudawwana Al-Kubra** | Imam Malik رحمه الله (via Sahnun) |
+| **Al-Istidhkar** | Ibn Abd Al-Barr رحمه الله |
+| **Ikmal Al-Mu'lim** | Al-Qadi 'Iyad رحمه الله |
+| **Bidayat Al-Mujtahid** | Ibn Rushd Al-Hafid رحمه الله |
+| **Mukhtasar Khalil** | Sheikh Khalil رحمه الله |
+| **Al-Mughni** | Ibn Qudama رحمه الله |
+| **Sahih Al-Bukhari** | Imam Al-Bukhari رحمه الله |
+| **Sahih Muslim** | Imam Muslim رحمه الله |
+
+---
+
+**والله أعلم**
+
+*Ô Allah, accorde-nous la capacité d'accomplir le Hajj et accepte-le de nous.*
+
+**اللَّهُمَّ ارْزُقْنَا الاسْتِطَاعَةَ لِحَجِّ بَيْتِكَ وَتَقَبَّلْهُ مِنَّا**
 `
