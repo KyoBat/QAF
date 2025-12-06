@@ -1,181 +1,285 @@
 /**
  * Hajj - Leçon 004: Les Piliers du Hajj
- * Contenu en Français
+ * Les Fondements Incontournables du Pèlerinage
+ * Contenu en Français - Approche Savante et Qualitative
  */
 
-export const content = `# Les Piliers du Hajj (أركان الحج)
+export const content = `# 📜 أَرْكَانُ الحَجّ — Les Piliers du Hajj
 
-## Introduction
-
-Les piliers (arkân) sont les actes essentiels sans lesquels le Hajj n'est pas valide. Leur omission ne peut être compensée par un sacrifice.
+> Les piliers (Arkân) sont les **actes fondamentaux** sans lesquels le Hajj n'est pas valide. Contrairement aux obligations (Wajibât), leur omission **ne peut être compensée** par un sacrifice. Le pèlerin doit les accomplir pour que son Hajj soit accepté.
 
 ---
 
-## 1. Les Quatre Piliers du Hajj
+## 📖 Texte Fondateur (النص التأسيسي)
 
-### 🟡 Position Malikite
+### 🔷 Le Hadith d'Arafat
 
-| N° | Pilier | Référence |
-|----|--------|-----------|
-| 1 | **L'Ihram** (الإحرام) | Intention d'entrer dans les rites |
-| 2 | **Le Wuquf à Arafat** (الوقوف بعرفة) | Présence à Arafat |
-| 3 | **Le Tawaf al-Ifada** (طواف الإفاضة) | Circumambulation de la Ka'ba |
-| 4 | **Le Sa'i** (السعي) | Parcours entre Safa et Marwa |
+عَنْ عَبْدِ الرَّحْمَنِ بْنِ يَعْمَرَ الدِّيلِيِّ رَضِيَ اللهُ عَنْهُ أَنَّ النَّبِيَّ ﷺ قَالَ:
+
+**« الحَجُّ عَرَفَةُ، فَمَنْ أَدْرَكَ لَيْلَةَ عَرَفَةَ قَبْلَ طُلُوعِ الْفَجْرِ مِنْ لَيْلَةِ جَمْعٍ فَقَدْ تَمَّ حَجُّهُ »**
+
+*« Le Hajj, c'est Arafat. Celui qui atteint Arafat avant l'aube de la nuit de Muzdalifa, son Hajj est complet. »*
+
+### 🔷 Le Verset du Tawaf
+
+> **﴿ ثُمَّ لْيَقْضُوا تَفَثَهُمْ وَلْيُوفُوا نُذُورَهُمْ وَلْيَطَّوَّفُوا بِالْبَيْتِ الْعَتِيقِ ﴾**
+>
+> *« Puis, qu'ils mettent fin à leurs interdits, qu'ils accomplissent leurs vœux, et qu'ils fassent le Tawaf autour de l'Antique Maison. »* [Al-Hajj : 29]
+
+### 📚 Référencement (التخريج)
+
+| Source | Numéro | Statut |
+|--------|--------|--------|
+| **Sunan At-Tirmidhi** | 889 | ✅ Sahih |
+| **Sunan An-Nasai** | 3016 | ✅ Sahih |
+| **Sunan Abu Dawud** | 1949 | ✅ Sahih |
+| **Sunan Ibn Majah** | 3015 | ✅ Sahih |
 
 ---
 
-## 2. Premier Pilier : L'Ihram
+## 🎓 Paroles des Savants (أقوال العلماء)
 
-### 📌 2.1 Définition
+| Savant | Citation |
+|--------|----------|
+| **Imam Malik** رحمه الله | *« Les piliers du Hajj sont quatre : l'Ihram, le Wuquf à Arafat, le Tawaf Al-Ifada et le Sa'i. Celui qui en omet un, son Hajj est **invalide** jusqu'à ce qu'il l'accomplisse. »* — *Al-Mudawwana* |
+| **Ibn Rushd Al-Jadd** رحمه الله | *« Le Wuquf à Arafat est le **pilier suprême** car le Prophète ﷺ a dit : "Le Hajj, c'est Arafat". Aucun autre pilier n'a reçu cette distinction. »* — *Al-Muqaddimat* |
+| **Al-Qadi 'Iyad** رحمه الله | *« Le Tawaf Al-Ifada est mentionné par le Coran avec un ordre impératif, ce qui prouve qu'il est un **pilier obligatoire**. »* — *Ikmal Al-Mu'lim* |
+| **Sheikh Khalil** رحمه الله | *« Les piliers sont : l'Ihram, le Wuquf même un instant, le Tawaf Al-Ifada, et le Sa'i entre Safa et Marwa. »* — *Mukhtasar Khalil* |
+| **Ibn Abd Al-Barr** رحمه الله | *« Les savants sont unanimes que manquer Arafat **annule le Hajj**, et que le pèlerin doit se désacraliser par une 'Umra et revenir l'année suivante. »* — *Al-Istidhkar* |
+
+---
+
+## 🔍 Analyse Linguistique (التحليل اللغوي)
+
+### 📜 Vocabulaire des Piliers
+
+| Terme | Arabe | Racine | Signification |
+|-------|-------|--------|---------------|
+| **الرُّكْن** | Ar-Rukn | ر ك ن | Pilier, fondement essentiel (pl. أركان) |
+| **الوُقُوف** | Al-Wuquf | و ق ف | Station, fait de se tenir debout |
+| **عَرَفَة** | 'Arafa | ع ر ف | Lieu de connaissance/reconnaissance |
+| **الطَّوَاف** | At-Tawaf | ط و ف | Circumambulation, tourner autour |
+| **الإِفَاضَة** | Al-Ifada | ف ي ض | Déferlment, écoulement (sortie d'Arafat) |
+| **السَّعْي** | As-Sa'i | س ع ي | Marche rapide, effort |
+| **الصَّفَا** | As-Safa | ص ف و | Pierre lisse, pureté |
+| **المَرْوَة** | Al-Marwa | م ر و | Pierre blanche |
+
+### 📐 Analyse du Hadith
+
+| Segment | Analyse |
+|---------|---------|
+| **الحَجُّ عَرَفَةُ** | جملة اسمية — proposition nominale d'identification |
+| **عَرَفَةُ** | خبر مرفوع — attribut au nominatif (le Hajj = Arafat) |
+| **مَنْ أَدْرَكَ** | اسم شرط — pronom conditionnel (quiconque atteint) |
+| **فَقَدْ تَمَّ** | جواب الشرط — réponse conditionnelle (alors il est complet) |
+
+### 💡 Point de Balaghah
+
+L'expression **« الحَجُّ عَرَفَةُ »** est une **métonymie** (مجاز مرسل) : le Hajj entier est identifié à un seul de ses piliers, montrant l'**importance capitale** du Wuquf. C'est comme dire "la prière est la prosternation" - on met en avant l'élément le plus noble.
+
+---
+
+## 📚 Explication Détaillée (الشرح المفصل)
+
+### 1️⃣ Premier Pilier : L'Ihram (الإحرام)
+
+#### 📌 Définition
 L'intention ferme d'entrer dans l'état de sacralisation pour accomplir le Hajj.
 
-### 📌 2.2 Conditions de validité
+#### 📌 Ce qui le constitue
 
-| Condition | Explication |
-|-----------|-------------|
-| **L'intention** | Doit être précise et sincère |
-| **Le lieu** | Avant ou au Miqat |
-| **Le temps** | Durant les mois du Hajj |
+| Élément | Statut | Détail |
+|---------|--------|--------|
+| **L'intention** | Pilier | Doit viser le Hajj spécifiquement |
+| **La Talbiya** | Sunnah mu'akkada | Recommandée fortement |
+| **Le lieu** | Condition | Avant ou au Miqat |
+| **Le temps** | Condition | Durant les mois du Hajj |
 
-> 💡 **L'Ihram sans intention** : N'est pas valide. Le simple port des vêtements blancs ne suffit pas.
-
----
-
-## 3. Deuxième Pilier : Le Wuquf à Arafat
-
-### 📌 3.1 Le pilier essentiel
-
-> Le Prophète ﷺ a dit : **« الحَجُّ عَرَفَةُ »**
-> « Le Hajj c'est Arafat »
-> — [At-Tirmidhi (889), An-Nasa'i (3016)]
-
-### 📌 3.2 Conditions du Wuquf
-
-| Condition | Détail |
-|-----------|--------|
-| **Le jour** | 9 Dhul-Hijja |
-| **Le temps** | Du déclin du soleil jusqu'à l'aube du 10 |
-| **Le lieu** | Les limites d'Arafat (sauf 'Uranah) |
-| **L'état** | En état d'Ihram |
-
-### 📌 3.3 Durée minimale
-
-| Madhhab | Durée minimale |
-|---------|----------------|
-| 🟡 **Malikite** | **Un instant, de jour ou de nuit** |
-| 🟢 Hanafite | Un instant après le déclin |
-| 🔵 Shafiite | Un instant de jour ou de nuit |
-| 🟣 Hanbalite | Un instant de nuit obligatoire |
-
-> ⚠️ **Celui qui manque Arafat** : Son Hajj est invalide. Il doit se désacraliser par une 'Umra et refaire le Hajj l'année suivante.
+> ⚠️ **Important :** Le simple port des vêtements blancs sans intention NE constitue PAS l'Ihram.
 
 ---
 
-## 4. Troisième Pilier : Tawaf al-Ifada
+### 2️⃣ Deuxième Pilier : Le Wuquf à Arafat (الوقوف بعرفة)
 
-### 📌 4.1 Définition
-Aussi appelé Tawaf az-Ziyara, c'est la circumambulation autour de la Ka'ba après le Wuquf à Arafat.
+#### 📌 Le pilier suprême
 
-> **﴿ وَلْيَطَّوَّفُوا بِالْبَيْتِ الْعَتِيقِ ﴾**
-> « Et qu'ils accomplissent les circuits autour de l'Antique Maison »
-> [Al-Hajj : 29]
+C'est le pilier **le plus important** du Hajj. Le Prophète ﷺ l'a identifié au Hajj lui-même.
 
-### 📌 4.2 Conditions de validité
+#### 📌 Conditions du Wuquf
+
+| Condition | Détail | Preuve |
+|-----------|--------|--------|
+| **Le jour** | 9 Dhul-Hijja | Pratique prophétique |
+| **Le temps** | Du Zawal jusqu'à l'aube du 10 | Hadith |
+| **Le lieu** | Limites d'Arafat (sauf vallée de 'Uranah) | Hadith |
+| **L'état** | En Ihram | Consensus |
+| **La durée** | Un instant suffit | 🟡 Position Malikite |
+
+#### 📌 Durée minimale selon les écoles
+
+| Madhhab | Durée | Précision |
+|---------|-------|-----------|
+| 🟡 **Malikite** | **Un instant, jour ou nuit** | Le plus souple |
+| 🟢 Hanafite | Un instant après le Zawal | De jour obligatoirement |
+| 🔵 Shafiite | Un instant, jour ou nuit | Comme les Malikites |
+| 🟣 Hanbalite | Partie de la nuit obligatoire | Plus strict |
+
+#### 📌 Conséquence du manquement
+
+| Situation | Règle |
+|-----------|-------|
+| **Atteint Arafat avant Fajr du 10** | Hajj valide |
+| **Manque Arafat complètement** | Hajj **invalide** → se désacraliser par 'Umra → refaire le Hajj l'année suivante |
+
+---
+
+### 3️⃣ Troisième Pilier : Le Tawaf Al-Ifada (طواف الإفاضة)
+
+#### 📌 Définition
+Aussi appelé **Tawaf Az-Ziyara**, c'est la circumambulation autour de la Ka'ba après le retour d'Arafat. C'est le Tawaf **obligatoire** du Hajj.
+
+#### 📌 Conditions de validité
 
 | Condition | Explication |
 |-----------|-------------|
 | **Le nombre** | 7 tours complets |
-| **Le début** | De la Pierre Noire |
-| **Le sens** | La Ka'ba à gauche |
-| **La pureté rituelle** | 🟡 Obligatoire (Malikite) |
+| **Le point de départ** | La Pierre Noire (الحجر الأسود) |
+| **Le sens** | Ka'ba à gauche (sens anti-horaire) |
+| **Inclure le Hijr** | Tourner autour du Hijr Ismail |
+| **Pureté rituelle** | 🟡 Obligatoire (Malikite) |
 | **Couvrir la 'awra** | Obligatoire |
+| **À l'intérieur du Masjid** | Obligatoire |
 
-### 📌 4.3 Le temps du Tawaf
+#### 📌 Temps du Tawaf Al-Ifada
 
-| Période | Statut |
-|---------|--------|
-| **Après minuit du 10 Dhul-Hijja** | Début autorisé |
-| **Jour du 10 (Eid)** | Temps préféré |
-| **Jusqu'à fin Dhul-Hijja** | Autorisé sans pénalité |
-| **Après Dhul-Hijja** | 🟡 Doit un sacrifice (Malikite) |
+| Moment | Statut |
+|--------|--------|
+| **Après minuit du 10 Dhul-Hijja** | Permis de commencer |
+| **Jour du 10 (Jour de l'Aïd)** | Temps optimal |
+| **11, 12, 13 Dhul-Hijja** | Permis sans pénalité |
+| **Après les jours de Mina** | Permis avec Makruh |
+| **Après Dhul-Hijja** | 🟡 Dam obligatoire (Malikite) |
 
 ---
 
-## 5. Quatrième Pilier : Le Sa'i
+### 4️⃣ Quatrième Pilier : Le Sa'i (السعي)
 
-### 📌 5.1 Définition
-Le parcours entre les monts Safa et Marwa, en commémoration de Hajar عليها السلام.
+#### 📌 Définition
+Le parcours entre les monts **Safa** et **Marwa**, en commémoration de **Hajar** عليها السلام qui cherchait de l'eau pour son fils Ismaïl.
 
-> **﴿ إِنَّ الصَّفَا وَالْمَرْوَةَ مِنْ شَعَائِرِ اللَّهِ ﴾**
-> « Certes, Safa et Marwa sont parmi les symboles d'Allah »
-> [Al-Baqara : 158]
-
-### 📌 5.2 Conditions de validité
+#### 📌 Conditions de validité
 
 | Condition | Détail |
 |-----------|--------|
-| **Le nombre** | 7 trajets (Safa vers Marwa = 1) |
+| **Le nombre** | 7 trajets (aller = 1, retour = 2, etc.) |
 | **Le début** | Commencer par Safa |
+| **La fin** | Terminer à Marwa |
 | **L'ordre** | Après un Tawaf valide |
-| **L'intention** | Présente |
+| **Parcourir toute la distance** | Obligatoire |
 
-### 📌 5.3 Divergence : Pilier ou Obligation ?
+#### 📌 Statut du Sa'i : Pilier ou Obligation ?
 
-| Madhhab | Statut du Sa'i |
-|---------|----------------|
-| 🟡 **Malikite** | **Pilier (Rukn)** |
-| 🟢 Hanafite | Obligation (Wajib) - compensable |
-| 🔵 Shafiite | Pilier (Rukn) |
-| 🟣 Hanbalite | Pilier (Rukn) |
+| Madhhab | Statut | Conséquence si omis |
+|---------|--------|---------------------|
+| 🟡 **Malikite** | **Pilier (Rukn)** | Hajj invalide jusqu'à son accomplissement |
+| 🟢 Hanafite | Obligation (Wajib) | Compensable par un dam |
+| 🔵 Shafiite | Pilier (Rukn) | Hajj invalide jusqu'à son accomplissement |
+| 🟣 Hanbalite | Pilier (Rukn) | Hajj invalide jusqu'à son accomplissement |
 
 ---
 
-## 6. Tableau comparatif des écoles
+## ⚖️ Divergences entre les Écoles (مسائل الخلاف)
 
-### ⚠️ Nombre de piliers selon les écoles
+### 🔹 Nombre de piliers
 
-| Madhhab | Piliers | Détail |
-|---------|---------|--------|
+| Madhhab | Nombre | Piliers |
+|---------|--------|---------|
 | 🟡 **Malikite** | **4** | Ihram, Wuquf, Tawaf, Sa'i |
-| 🟢 Hanafite | 2 | Wuquf, Tawaf (Sa'i = wajib) |
-| 🔵 Shafiite | 4 | Ihram, Wuquf, Tawaf, Sa'i |
+| 🟢 Hanafite | 2 | Wuquf, Tawaf (Ihram = condition, Sa'i = wajib) |
+| 🔵 Shafiite | 4 | Ihram, Wuquf, Tawaf, Sa'i + Rasage (5 selon certains) |
 | 🟣 Hanbalite | 4 | Ihram, Wuquf, Tawaf, Sa'i |
 
----
+### 🔹 La pureté rituelle pour le Tawaf
 
-## 7. Conséquences de l'omission d'un pilier
-
-| Pilier omis | Conséquence |
-|-------------|-------------|
-| **Ihram** | Hajj non commencé |
-| **Wuquf à Arafat** | Hajj invalide |
-| **Tawaf al-Ifada** | Hajj incomplet jusqu'à son accomplissement |
-| **Sa'i** | Hajj incomplet jusqu'à son accomplissement |
-
-> ⚠️ **Important** : Contrairement aux obligations, les piliers ne peuvent être compensés par un sacrifice. Ils doivent être accomplis.
+| Madhhab | Statut de la Tahara |
+|---------|---------------------|
+| 🟡 **Malikite** | **Condition de validité** |
+| 🟢 Hanafite | Obligation (si omise : dam) |
+| 🔵 Shafiite | Condition de validité |
+| 🟣 Hanbalite | Condition de validité |
 
 ---
 
-## 🎯 Résumé
+## 📊 Applications Modernes (التطبيقات المعاصرة)
 
-| Pilier | Essence | Temps |
-|--------|---------|-------|
-| **Ihram** | Intention + Talbiya | Mois du Hajj |
-| **Wuquf** | Présence à Arafat | 9 Dhul-Hijja |
-| **Tawaf al-Ifada** | 7 tours de Ka'ba | Après le 10 Dhul-Hijja |
-| **Sa'i** | 7 trajets Safa-Marwa | Après Tawaf |
-
----
-
-## 📚 Sources
-
-1. Sahih Al-Bukhari
-2. Sahih Muslim
-3. Sunan At-Tirmidhi
-4. Al-Mudawwana - Imam Malik
-5. Bidayat al-Mujtahid - Ibn Rushd
+| Situation | Règle |
+|-----------|-------|
+| **Tawaf en fauteuil roulant** | Valide, peut être poussé par autrui |
+| **Sa'i sur les étages supérieurs** | Valide (même espace vertical) |
+| **Tawaf avec flux menstruel** | Doit attendre la purification |
+| **Oubli d'un tour de Tawaf** | Doit le compléter |
+| **Wuquf depuis le Mont Rahma** | Valide et recommandé |
+| **Wuquf inconscient (évanoui)** | 🟡 Invalide (Malikite : nécessite conscience) |
 
 ---
 
-واللَّهُ أَعْلَم
+## ❓ Questions Fréquentes (FAQ)
+
+### Q1 : Que faire si je manque le Wuquf à Arafat ?
+**R :** Votre Hajj est invalide. Vous devez vous désacraliser par une 'Umra et revenir accomplir le Hajj l'année suivante.
+
+### Q2 : Puis-je faire le Tawaf Al-Ifada avant le jour de l'Aïd ?
+**R :** Selon la majorité, le Tawaf Al-Ifada ne peut commencer qu'après minuit du 10 Dhul-Hijja.
+
+### Q3 : Le Sa'i peut-il être fait avant le Tawaf ?
+**R :** Non selon les Malikites. Le Sa'i doit suivre un Tawaf valide.
+
+### Q4 : Combien de temps ai-je pour faire le Tawaf Al-Ifada ?
+**R :** Jusqu'à la fin de Dhul-Hijja sans pénalité. Après, un dam est dû selon les Malikites.
+
+### Q5 : Le Tawaf et le Sa'i peuvent-ils être délégués ?
+**R :** Non, ce sont des piliers personnels qui doivent être accomplis par le pèlerin lui-même.
+
+---
+
+## 🎯 Synthèse (الخلاصة)
+
+| Pilier | Essence | Temps | Non-accompli = |
+|--------|---------|-------|----------------|
+| **Ihram** | Intention d'entrer dans les rites | Mois du Hajj, au Miqat | Hajj non commencé |
+| **Wuquf** | Présence à Arafat | 9 Dhul-Hijja (Zawal → Fajr) | Hajj invalide |
+| **Tawaf Al-Ifada** | 7 tours de la Ka'ba | Après le 10 Dhul-Hijja | Hajj incomplet |
+| **Sa'i** | 7 trajets Safa-Marwa | Après un Tawaf | Hajj incomplet |
+
+---
+
+## ✅ Action Concrète / Défi
+
+**Cette semaine :**
+1. 📝 Mémorisez les 4 piliers et leur ordre
+2. 🗺️ Visualisez le parcours : Miqat → Arafat → Muzdalifa → Mina → Ka'ba → Safa-Marwa
+3. 💭 Réfléchissez à la sagesse de chaque pilier
+
+---
+
+## 🤲 Invocation (دعاء)
+
+<div class="duaa">
+
+**اللَّهُمَّ أَعِنِّي عَلَى أَدَاءِ مَنَاسِكِي كَمَا يُرْضِيكَ عَنِّي**
+
+*« Ô Allah, aide-moi à accomplir mes rites d'une manière qui Te satisfasse. »*
+
+</div>
+
+---
+
+## 📚 Références
+
+1. **Sahih Al-Bukhari** — Imam Al-Bukhari
+2. **Sahih Muslim** — Imam Muslim
+3. **Sunan At-Tirmidhi** — Imam At-Tirmidhi
+4. **Al-Mudawwana** — Imam Malik / Sahnun
+5. **Mukhtasar Khalil** — Sheikh Khalil Al-Maliki
+6. **Bidayat Al-Mujtahid** — Ibn Rushd Al-Hafid
 `
