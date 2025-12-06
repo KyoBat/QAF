@@ -1,18 +1,24 @@
-import { Lesson } from '../../../types'
-import { content as contentFr } from './fr'
+/**
+ * Leçon 010 : الدين النصيحة
+ * La Religion c'est le Conseil Sincère
+ */
 
-export const lesson010: Lesson = {
-  id: 'lesson-010',
-  duration: '40 min',
-  order: 10,
+import { content as contentFr } from './fr';
+import { content as contentAr } from './ar';
+import { content as contentEn } from './en';
+
+export const lesson010 = {
+  id: '010-nasiha',
   title: {
-    fr: 'La Religion c\'est le Conseil',
+    fr: 'La Religion c\'est le Conseil Sincère',
     ar: 'الدين النصيحة',
-    en: 'Religion is Sincere Advice',
+    en: 'The Religion is Sincere Advice'
   },
+  duration: '35 min',
+  order: 10,
   content: {
     fr: contentFr,
-    ar: contentFr,
-    en: contentFr,
-  },
-}
+    ar: contentAr,
+    en: contentEn
+  }
+};

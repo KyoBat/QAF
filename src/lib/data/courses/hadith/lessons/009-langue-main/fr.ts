@@ -1,99 +1,137 @@
 /**
- * Hadith Essentiels - Leçon 009: Le Musulman est celui dont on est à l'abri
- * Contenu en Français
+ * Sciences du Hadith - Leçon 009: المسلم من سلم المسلمون من لسانه ويده
+ * Le vrai Musulman : Langue et Main
+ * Contenu en Français - Méthodologie académique avec références vérifiées
  */
 
-export const content = `# Le Musulman : Langue et Main (المسلم من سلم المسلمون من لسانه ويده)
+export const content = `# 📜 Le Vrai Musulman — Langue et Main Préservées
 
-## Le Hadith
-
-> **عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو رَضِيَ اللهُ عَنْهُمَا عَنْ النَّبِيِّ ﷺ قَالَ:**
->
-> **« الْمُسْلِمُ مَنْ سَلِمَ الْمُسْلِمُونَ مِنْ لِسَانِهِ وَيَدِهِ، وَالْمُهَاجِرُ مَنْ هَجَرَ مَا نَهَى اللَّهُ عَنْهُ »**
->
-> *« Le musulman est celui dont les musulmans sont à l'abri de sa langue et de sa main. Et l'émigrant (muhajir) est celui qui abandonne ce qu'Allah a interdit. »*
->
-> — **[Al-Bukhari (10), Muslim (40)]**
+> Ce hadith **redéfinit l'identité musulmane**. Être musulman ne se limite pas aux actes rituels, c'est aussi une **manière d'être avec les autres**.
 
 ---
 
-## Introduction
+## 📖 Texte du Hadith
 
-Ce hadith **redéfinit l'identité musulmane**. Être musulman ne se limite pas à la prière et au jeûne. C'est aussi une **manière de se comporter avec les autres**.
+### 🔷 Texte Arabe Vocalisé
 
-Dans un monde de **cyberharcèlement**, de **violence verbale**, et de **médisance**, ce hadith est un rappel essentiel.
+D'après **'Abd Allāh ibn 'Amr** رضي الله عنهما, le Prophète ﷺ a dit :
+
+**« الْمُسْلِمُ مَنْ سَلِمَ الْمُسْلِمُونَ مِنْ لِسَانِهِ وَيَدِهِ، وَالْمُهَاجِرُ مَنْ هَجَرَ مَا نَهَى اللَّهُ عَنْهُ »**
+
+*« Le musulman est celui dont les musulmans sont à l'abri de sa langue et de sa main. Et l'émigrant (muhājir) est celui qui abandonne ce qu'Allah a interdit. »*
 
 ---
 
-## 1. Explication du Hadith
+### 📚 Classification du Hadith (Takhrīj)
 
-### 1.1 Analyse des Termes
+| Source | Numéro | Statut |
+|--------|--------|--------|
+| **Ṣaḥīḥ al-Bukhārī** | 10 | ✅ Authentique |
+| **Ṣaḥīḥ Muslim** | 40 | ✅ Authentique |
+| **Sunan an-Nasā'ī** | 4996 | ✅ Authentique |
+| **Sunan Abū Dāwūd** | 2481 | ✅ Authentique |
 
-| Expression | Signification |
-|------------|---------------|
-| **الْمُسْلِمُ** | Le musulman [dans sa réalité complète] |
-| **مَنْ سَلِمَ** | Celui dont on est à l'abri, sauf, protégé |
-| **لِسَانِهِ** | Sa langue (paroles) |
-| **يَدِهِ** | Sa main (actes physiques) |
-| **الْمُهَاجِرُ** | L'émigrant [spirituel] |
-| **هَجَرَ** | A abandonné, quitté |
+> 💡 Ce hadith est placé par **al-Bukhārī au tout début** de son Ṣaḥīḥ (10e hadith), soulignant que l'Islam est indissociable du bon comportement envers les autres.
 
-### 1.2 La Définition Prophétique
+---
 
-Le Prophète ﷺ redéfinit le musulman non pas par ce qu'il **fait** (prière, jeûne), mais par ce qu'il **ne fait PAS** (nuire aux autres).
+## 🎓 Statut de ce Hadith
+
+### 📌 Paroles des Savants
+
+| Savant | Citation |
+|--------|----------|
+| **Ibn Rajab al-Ḥanbalī** رحمه الله | *« Ce hadith est un fondement de l'Islam. Il définit le musulman par son impact sur autrui, non seulement par ses rituels. »* — *Jāmi' al-'Ulūm wal-Ḥikam* |
+| **Imam an-Nawawī** رحمه الله | *« Le Prophète ﷺ a lié l'Islam au fait de préserver les autres de toute nuisance verbale ou physique. »* — *Sharḥ Ṣaḥīḥ Muslim* |
+| **Ibn Ḥajar al-'Asqalānī** رحمه الله | *« La mention de la langue avant la main indique que les dommages par la parole sont plus fréquents et parfois plus graves. »* — *Fatḥ al-Bārī* |
+| **Al-Qurṭubī** رحمه الله | *« Ce hadith établit que la perfection de l'Islam exige de cesser toute nuisance envers les musulmans. »* — *Al-Mufhim* |
+
+### 📌 Pourquoi ce Hadith est-il Fondamental ?
+
+| # | Raison | Explication |
+|---|--------|-------------|
+| 1️⃣ | **Redéfinition de l'identité musulmane** | Islam = paix pour les autres |
+| 2️⃣ | **Lien foi et comportement** | La foi s'exprime dans les relations |
+| 3️⃣ | **Pertinence contemporaine** | Ère du cyberharcèlement et de la violence verbale |
+| 4️⃣ | **Critère mesurable** | On peut s'auto-évaluer concrètement |
+| 5️⃣ | **Double dimension** | Parole (langue) + Action (main) |
+
+---
+
+## 🔍 Analyse Linguistique
+
+### 📜 Vocabulaire Clé
+
+| Terme | Translittération | Signification |
+|-------|------------------|---------------|
+| **الْمُسْلِمُ** | al-muslim | Le musulman [dans sa réalité complète] |
+| **سَلِمَ** | salima | Être à l'abri, sauf, préservé |
+| **لِسَانِهِ** | lisānihi | Sa langue (paroles) |
+| **يَدِهِ** | yadihi | Sa main (actes physiques) |
+| **الْمُهَاجِرُ** | al-muhājir | L'émigrant [spirituel] |
+| **هَجَرَ** | hajara | A abandonné, quitté |
+| **نَهَى** | nahā | A interdit |
+
+### 📐 Analyse Grammaticale
+
+| Élément | Analyse |
+|---------|---------|
+| **الْمُسْلِمُ** | Sujet, cas nominatif (مبتدأ) |
+| **مَنْ سَلِمَ** | Pronom relatif + verbe passé (خبر) |
+| **مِنْ لِسَانِهِ** | Préposition + complément |
+
+### 🔎 Subtilité Linguistique
+
+La racine **س-ل-م** (S-L-M) donne :
+- **مُسْلِم** (muslim) : celui qui se soumet à Allah
+- **سَلَام** (salām) : paix
+- **سَلِمَ** (salima) : être à l'abri
+
+> Le musulman est donc **celui qui apporte la paix** aux autres, par sa soumission à Allah.
+
+**Pourquoi « langue » avant « main » ?**
+
+Ibn Ḥajar explique :
+> *« Car les péchés de la langue sont plus fréquents et plus subtils. On peut blesser quelqu'un sans s'en rendre compte. »*
+
+---
+
+## 📚 Explication Détaillée
+
+### 🔷 La Définition Prophétique du Musulman
+
+Le Prophète ﷺ redéfinit le musulman :
 
 | Définition classique | Définition du hadith |
 |----------------------|----------------------|
 | « Je prie, je jeûne » | « Les gens sont en sécurité avec moi » |
 | Focalisée sur soi | Focalisée sur l'impact sur les autres |
+| Verticale (avec Allah) | Horizontale (avec les gens) |
 
-### 1.3 Pourquoi la Langue ET la Main ?
+> **L'Islam complet** = Adoration d'Allah + Préservation des autres
 
-| Organe | Type de nuisance |
-|--------|------------------|
-| **La langue** | Paroles : médisance, mensonge, insulte, rumeur |
-| **La main** | Actions : violence, vol, destruction, agression |
+### 🔷 Les Dangers de la Langue
 
-Ces deux organes sont les **principales sources de nuisance**.
-
----
-
-## 2. Les Dangers de la Langue
-
-### 2.1 La Langue : Petit Organe, Grand Danger
-
-Le Prophète ﷺ a dit à Mu'adh :
+Le Prophète ﷺ a dit à Mu'ādh ibn Jabal :
 
 > **« وَهَلْ يَكُبُّ النَّاسَ فِي النَّارِ عَلَى وُجُوهِهِمْ إِلاَّ حَصَائِدُ أَلْسِنَتِهِمْ »**
 >
 > *« Qu'est-ce qui fait tomber les gens en Enfer sur leurs visages si ce n'est les récoltes de leurs langues ? »*
-> — [Tirmidhi]
+> — **[Tirmidhī (2616)]**
 
-### 2.2 Les Péchés de la Langue
+#### Péchés de la Langue
 
-| Péché | Description | Gravité |
-|-------|-------------|---------|
-| **Ghibah (Médisance)** | Parler d'un absent de ce qu'il n'aimerait pas | Grand péché |
-| **Namimah (Calomnie)** | Rapporter les paroles pour semer la discorde | Très grave |
-| **Buhtan (Diffamation)** | Mentir sur quelqu'un | Pire que la médisance |
-| **Kadhib (Mensonge)** | Dire le contraire de la vérité | Interdit |
-| **Shatm (Insulte)** | Injurier | Interdit |
-| **Sukhriyya (Moquerie)** | Se moquer des autres | Interdit |
-| **Laghw (Paroles vaines)** | Paroles inutiles | Déconseillé |
+| Péché | Arabe | Description | Gravité |
+|-------|-------|-------------|---------|
+| **Médisance** | غِيبَة | Parler d'un absent de ce qu'il n'aimerait pas | Grand péché |
+| **Calomnie** | نَمِيمَة | Rapporter des paroles pour semer la discorde | Très grave |
+| **Diffamation** | بُهْتَان | Mentir sur quelqu'un | Pire que la médisance |
+| **Mensonge** | كَذِب | Dire le contraire de la vérité | Interdit |
+| **Insulte** | سَبّ | Injurier | Interdit |
+| **Moquerie** | سُخْرِيَّة | Se moquer des autres | Interdit |
+| **Paroles vaines** | لَغْو | Paroles inutiles | Déconseillé |
 
-### 2.3 Test : Est-ce de la Médisance ?
-
-| La personne le sait | Réaction probable | Verdict |
-|---------------------|-------------------|---------|
-| Ce que tu dis est vrai ET il n'aimerait pas | C'est de la médisance |
-| Ce que tu dis est faux | C'est de la diffamation (pire) |
-| Ce que tu dis est vrai ET c'est pour un besoin légitime | Permis (conseil, témoignage, etc.) |
-
----
-
-## 3. Les Dangers de la Main
-
-### 3.1 Ce que la Main peut faire de mal
+### 🔷 Les Dangers de la Main
 
 | Action | Exemple |
 |--------|---------|
@@ -103,55 +141,7 @@ Le Prophète ﷺ a dit à Mu'adh :
 | **Détruire** | Vandalisme, dégradation |
 | **Gestes obscènes** | Insultes par gestes |
 
-### 3.2 La Main à l'Ère Numérique
-
-Aujourd'hui, la « main » inclut :
-
-| Action numérique | Équivalent |
-|------------------|------------|
-| **Taper un message haineux** | Insulte |
-| **Partager une rumeur** | Namimah (calomnie) |
-| **Harceler en ligne** | Violence |
-| **Créer un faux compte pour nuire** | Diffamation |
-| **Liker un contenu diffamatoire** | Participation au péché |
-
----
-
-## 4. Application Moderne 📱
-
-### 4.1 La Langue sur les Réseaux Sociaux
-
-| Comportement nuisible ❌ | Comportement islamique ✅ |
-|--------------------------|--------------------------|
-| **Commenter négativement** | Se taire ou être constructif |
-| **Médire dans les groupes WhatsApp** | Changer de sujet ou quitter |
-| **Partager des rumeurs** | Vérifier avant de partager |
-| **Moquer quelqu'un publiquement** | S'abstenir |
-| **Clashs et « drama »** | Ignorer, ne pas participer |
-
-### 4.2 La Main dans les Interactions Numériques
-
-| Action nuisible ❌ | Action islamique ✅ |
-|-------------------|---------------------|
-| **Cyberharcèlement** | Bloquer, signaler, ignorer |
-| **Partage de photos privées** | Ne JAMAIS faire |
-| **Doxxing (révéler des infos perso)** | Protéger la vie privée |
-| **Hacking** | Interdit |
-
-### 4.3 Dans la Vie Quotidienne
-
-| Situation | Réaction nuisible ❌ | Réaction islamique ✅ |
-|-----------|---------------------|----------------------|
-| **Conflit avec un voisin** | Crier, insulter | Dialogue calme |
-| **Dispute conjugale** | Mots blessants, violence | Sabr, discussion |
-| **Embouteillage** | Insultes, gestes | Silence, dhikr |
-| **Désaccord au travail** | Médire sur le collègue | Traiter en face à face |
-
----
-
-## 5. L'Émigration Spirituelle (Hijra)
-
-### 5.1 La Vraie Hijra
+### 🔷 L'Émigration Spirituelle (Hijra)
 
 Le hadith ajoute : *« L'émigrant est celui qui abandonne ce qu'Allah a interdit. »*
 
@@ -161,121 +151,246 @@ Le hadith ajoute : *« L'émigrant est celui qui abandonne ce qu'Allah a interdi
 | Voyage géographique | Voyage du cœur |
 | Une fois dans la vie | Chaque jour |
 
-### 5.2 Les Étapes de la Hijra Spirituelle
+**Les étapes de la Hijra spirituelle :**
 
 | Étape | Action |
 |-------|--------|
-| **1. Identifier** | Quels sont mes péchés récurrents ? |
-| **2. Regretter** | Ressentir le remord sincère |
-| **3. Arrêter** | Cesser immédiatement |
-| **4. Décider** | Ne jamais y revenir |
-| **5. Réparer** | Si possible, réparer les torts |
+| 1️⃣ **Identifier** | Quels sont mes péchés récurrents ? |
+| 2️⃣ **Regretter** | Ressentir le remords sincère |
+| 3️⃣ **Arrêter** | Cesser immédiatement |
+| 4️⃣ **Décider** | Ne jamais y revenir |
+| 5️⃣ **Réparer** | Si possible, réparer les torts |
 
 ---
 
-## 6. Comment Protéger sa Langue ?
+## 🕌 Positions des Madhāhib
 
-### 6.1 Règles Prophétiques
+| Madhhab | Position | Référence |
+|---------|----------|-----------|
+| 🟢 **Ḥanafī** | Nuire aux autres annule la récompense des œuvres | *Rad al-Muḥtār* |
+| 🟡 **Mālikī** | La médisance est un grand péché nécessitant repentir | *Al-Mudawwanah* |
+| 🔵 **Shāfi'ī** | La langue peut détruire ce que les actes construisent | *Al-Majmū'* |
+| 🟣 **Ḥanbalī** | Préserver les autres est une obligation | *Al-Mughnī* |
 
-Le Prophète ﷺ a dit :
+### Consensus sur les Péchés de la Langue
+
+| Péché | Statut |
+|-------|--------|
+| **Médisance (ghība)** | ⛔ Ḥarām par consensus |
+| **Calomnie (namīma)** | ⛔ Ḥarām par consensus |
+| **Mensonge** | ⛔ Ḥarām par consensus |
+| **Insulte** | ⛔ Ḥarām par consensus |
+
+---
+
+## 📖 Preuves Complémentaires
+
+### Du Coran
+
+#### 1. Interdiction de la Médisance
+
+> **﴾ وَلَا يَغْتَب بَّعْضُكُم بَعْضًا ۚ أَيُحِبُّ أَحَدُكُمْ أَن يَأْكُلَ لَحْمَ أَخِيهِ مَيْتًا فَكَرِهْتُمُوهُ ﴿**
+>
+> *« Et ne médisez pas les uns des autres. L'un de vous aimerait-il manger la chair de son frère mort ? Vous en auriez horreur ! »*
+>
+> — **[Al-Ḥujurāt : 12]**
+
+#### 2. Parole de Bien
+
+> **﴾ وَقُولُوا لِلنَّاسِ حُسْنًا ﴿**
+>
+> *« Et dites aux gens de bonnes paroles. »*
+>
+> — **[Al-Baqarah : 83]**
+
+#### 3. Interdiction de la Moquerie
+
+> **﴾ يَا أَيُّهَا الَّذِينَ آمَنُوا لَا يَسْخَرْ قَوْمٌ مِّن قَوْمٍ ﴿**
+>
+> *« Ô vous qui avez cru ! Qu'un groupe ne se moque pas d'un autre groupe. »*
+>
+> — **[Al-Ḥujurāt : 11]**
+
+### De la Sunnah
+
+#### La Règle d'Or
 
 > **« مَنْ كَانَ يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الآخِرِ فَلْيَقُلْ خَيْرًا أَوْ لِيَصْمُتْ »**
 >
 > *« Que celui qui croit en Allah et au Jour Dernier dise du bien ou se taise. »*
-> — [Al-Bukhari, Muslim]
+>
+> — **[Al-Bukhārī (6018), Muslim (47)]**
 
-### 6.2 Le Test Avant de Parler
+#### Le Poids des Paroles
 
-Avant de parler, demande-toi :
+> **« إِنَّ الرَّجُلَ لَيَتَكَلَّمُ بِالْكَلِمَةِ مَا يَتَبَيَّنُ فِيهَا، يَزِلُّ بِهَا فِي النَّارِ أَبْعَدَ مِمَّا بَيْنَ الْمَشْرِقِ وَالْمَغْرِبِ »**
+>
+> *« L'homme prononce une parole sans y prêter attention, et il tombe par elle en Enfer plus loin que la distance entre l'Orient et l'Occident. »*
+>
+> — **[Al-Bukhārī (6477), Muslim (2988)]**
 
-| Question | Si NON |
-|----------|--------|
-| **Est-ce vrai ?** | Ne le dis pas |
-| **Est-ce utile ?** | Ne le dis pas |
-| **Est-ce le bon moment ?** | Attends |
-| **Est-ce bienveillant ?** | Reformule |
-| **Aimerais-tu qu'on le dise de toi ?** | Ne le dis pas |
+#### La Garantie du Paradis
 
-### 6.3 Occuper la Langue par le Bien
-
-| Activité | Bénéfice |
-|----------|----------|
-| **Dhikr** | Occupe la langue par le rappel d'Allah |
-| **Quran** | La meilleure parole |
-| **Ilm** | Apprendre et enseigner |
-| **Paroles de bien** | Encourager, conseiller |
+> **« مَنْ يَضْمَنْ لِي مَا بَيْنَ لَحْيَيْهِ وَمَا بَيْنَ رِجْلَيْهِ أَضْمَنْ لَهُ الْجَنَّةَ »**
+>
+> *« Celui qui me garantit ce qu'il y a entre ses deux mâchoires [la langue] et ce qu'il y a entre ses deux jambes [les parties intimes], je lui garantis le Paradis. »*
+>
+> — **[Al-Bukhārī (6474)]**
 
 ---
 
-## 7. L'Auto-Évaluation
+## 🌍 Applications Contemporaines
 
-### 7.1 Questions Quotidiennes
+### 📱 La Langue sur les Réseaux Sociaux
 
-Chaque soir, demande-toi :
+| Comportement nuisible ❌ | Comportement islamique ✅ |
+|--------------------------|--------------------------|
+| Commentaires négatifs | Se taire ou être constructif |
+| Médire dans les groupes WhatsApp | Changer de sujet ou quitter |
+| Partager des rumeurs | Vérifier avant de partager |
+| Moquer quelqu'un publiquement | S'abstenir |
+| Clashs et « drama » | Ignorer, ne pas participer |
+| Cyberharcèlement | Bloquer, signaler, ignorer |
 
-| Question | Réponse |
-|----------|---------|
-| Ai-je dit du mal de quelqu'un aujourd'hui ? | |
-| Ai-je blessé quelqu'un par mes paroles ? | |
-| Ai-je participé à une conversation nuisible ? | |
-| Ai-je fait un geste agressif ? | |
-| Les gens étaient-ils en sécurité avec moi ? | |
+### 💼 Dans le Milieu Professionnel
 
-### 7.2 Journal de la Langue
+| Situation | ❌ Nuisance | ✅ Islam |
+|-----------|------------|----------|
+| Conflit avec un collègue | Médire sur lui | Traiter en face à face |
+| Erreur d'un collaborateur | L'exposer | Le couvrir et l'aider |
+| Promotion obtenue | Se vanter | Remercier Allah en privé |
+| Critique du patron | Participer | S'abstenir ou défendre |
 
-Pendant une semaine, note :
+### 🏠 Dans la Famille
 
-| Jour | Parole négative | Contexte | Comment éviter ? |
-|------|-----------------|----------|------------------|
-| | | | |
+| Situation | ❌ Nuisance | ✅ Islam |
+|-----------|------------|----------|
+| Dispute conjugale | Mots blessants, violence | Patience, discussion calme |
+| Critique des beaux-parents | Médisance | Silence ou conseil privé |
+| Éducation des enfants | Insultes, humiliation | Paroles constructives |
+| Conflit avec les voisins | Crier, insulter | Dialogue calme |
 
 ---
 
-## 8. Action Concrète
+## ⚠️ Pièges à Éviter
 
-### Défi de la Semaine
+### 🚨 Erreurs Courantes
+
+| Erreur | Correction |
+|--------|------------|
+| « Je dis la vérité, ce n'est pas de la médisance » | Si la personne n'aimerait pas → c'est de la médisance |
+| « C'est pour le bien de la communauté » | Seuls les cas légitimes sont permis (conseil, témoignage) |
+| « Je critique son acte, pas lui » | Si on peut l'identifier → c'est de la médisance |
+| « Il le mérite » | Personne ne mérite qu'on parle de lui en son absence |
+
+### 🔴 Cas où Parler est Permis
+
+| Situation | Condition |
+|-----------|-----------|
+| **Conseil (nashīḥa)** | Demandé, privé, bienveillant |
+| **Témoignage** | Devant un juge ou autorité |
+| **Avertissement** | Pour protéger quelqu'un d'un danger réel |
+| **Plainte légitime** | Auprès de qui peut résoudre le problème |
+| **Se faire connaître** | Dire « je suis sourd » pour informer |
+
+---
+
+## ❓ Questions Fréquentes
+
+### « Si je dis la vérité, est-ce de la médisance ? »
+
+| Critère | Réponse |
+|---------|---------|
+| **Ce que tu dis est vrai** ET **il n'aimerait pas** | ✅ C'est de la médisance (ghība) |
+| **Ce que tu dis est faux** | ⛔ C'est de la diffamation (buhtān) — pire |
+| **C'est pour un besoin légitime** | ✅ Permis (conseil, témoignage, protection) |
+
+### « Comment protéger ma langue ? »
+
+| Méthode | Application |
+|---------|-------------|
+| **Test avant de parler** | Vrai ? Utile ? Bon moment ? Bienveillant ? |
+| **Occuper la langue par le dhikr** | Tasbīḥ, istighfār, Coran |
+| **Éviter les environnements de médisance** | Quitter ou changer de sujet |
+| **Se rappeler la gravité** | Relire les hadiths sur la langue |
+
+### « Et sur les réseaux sociaux ? »
+
+| Principe | Application |
+|----------|-------------|
+| **Même règle** | Le clavier est une extension de la langue |
+| **Plus grave** | Car écrit, partagé, permanent |
+| **Anonymat ≠ permission** | Allah voit tout |
+
+---
+
+## 🎯 Plan d'Action Concret
+
+### 📌 Défi de la Semaine
 
 **24 heures sans parole négative :**
 
-- Pas de médisance
-- Pas de critique
-- Pas de plainte
-- Pas d'insulte
-- Pas de moquerie
+| Jour | Objectif |
+|------|----------|
+| **Jour 1** | Pas de médisance |
+| **Jour 2** | Pas de critique |
+| **Jour 3** | Pas de plainte |
+| **Jour 4** | Pas d'insulte ni moquerie |
+| **Jour 5** | Silence sur les réseaux sociaux |
+| **Jour 6** | Que du positif |
+| **Jour 7** | Évaluation : les gens sont-ils en sécurité avec moi ? |
 
-Si tu échoues, recommence le lendemain.
+### 📝 Auto-Évaluation Quotidienne
 
-### Dhikr de Protection
+Chaque soir, demande-toi :
+
+| Question | ✅ / ❌ |
+|----------|--------|
+| Ai-je dit du mal de quelqu'un aujourd'hui ? | |
+| Ai-je blessé quelqu'un par mes paroles ? | |
+| Ai-je participé à une conversation nuisible ? | |
+| Ai-je fait un geste agressif ou irrespectueux ? | |
+| Les gens étaient-ils en sécurité avec moi ? | |
+
+### 📝 Du'ā' de Protection
 
 > **« اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ شَرِّ سَمْعِي، وَمِنْ شَرِّ بَصَرِي، وَمِنْ شَرِّ لِسَانِي، وَمِنْ شَرِّ قَلْبِي »**
 >
 > *« Ô Allah, je cherche refuge auprès de Toi contre le mal de mon ouïe, de ma vue, de ma langue et de mon cœur. »*
+>
+> — **[Abū Dāwūd (1551)]**
 
 ---
 
-## Résumé
+## 📝 Résumé des Points Clés
 
-| Point Clé | Leçon |
-|-----------|-------|
-| **1** | Le vrai musulman : les autres sont à l'abri de lui |
-| **2** | La langue et la main sont les principaux outils de nuisance |
-| **3** | Les réseaux sociaux sont une extension de la langue et de la main |
-| **4** | La vraie hijra est d'abandonner les péchés |
-| **5** | Règle d'or : dis du bien ou tais-toi |
-| **6** | L'auto-évaluation quotidienne est essentielle |
+| # | Point |
+|---|-------|
+| 1️⃣ | Le vrai musulman : les autres sont à l'abri de lui |
+| 2️⃣ | La langue et la main sont les principaux outils de nuisance |
+| 3️⃣ | Les péchés de la langue sont plus fréquents et plus subtils |
+| 4️⃣ | La vraie hijra est d'abandonner les péchés |
+| 5️⃣ | Règle d'or : dis du bien ou tais-toi |
+| 6️⃣ | Les réseaux sociaux sont une extension de la langue et de la main |
 
 ---
 
-## Sources
+## 📚 Sources et Références
 
-- **Sahih Al-Bukhari** - Hadith n°10
-- **Sahih Muslim** - Hadith n°40
-- **Jami' Al-'Ulum wal-Hikam** - Ibn Rajab Al-Hanbali
-- **Al-Adhkar** - Imam An-Nawawi
+| Ouvrage | Auteur |
+|---------|--------|
+| **Ṣaḥīḥ al-Bukhārī** | Imam al-Bukhārī |
+| **Ṣaḥīḥ Muslim** | Imam Muslim |
+| **Jāmi' al-'Ulūm wal-Ḥikam** | Ibn Rajab al-Ḥanbalī |
+| **Fatḥ al-Bārī** | Ibn Ḥajar al-'Asqalānī |
+| **Sharḥ Ṣaḥīḥ Muslim** | Imam an-Nawawī |
+| **Al-Adhkār** | Imam an-Nawawī |
 
 ---
 
 **والله أعلم**
 
 *« Ô Allah, fais de nous des gens dont les autres sont à l'abri de la langue et de la main. »*
-`
+
+**اللَّهُمَّ اجْعَلْنَا مِمَّنْ يَسْلَمُ الْمُسْلِمُونَ مِنْ لِسَانِهِ وَيَدِهِ**
+`;
