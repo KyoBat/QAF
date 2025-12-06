@@ -28,6 +28,7 @@ export { hajjCourse } from './hajj'
 
 // Export de la liste complète des cours
 export const coursesData: Course[] = [
+  hadithCourse,
   tajweedCourse,
   fiqhPurificationCourse,
   fiqhSalatCourse,
@@ -36,7 +37,6 @@ export const coursesData: Course[] = [
   aqeedahCourse,
   aqeedah2Course,
   seerahCourse,
-  hadithCourse,
   siyamCourse,
   hajjCourse,
 ]
