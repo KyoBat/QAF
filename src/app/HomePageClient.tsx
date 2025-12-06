@@ -40,10 +40,10 @@ export default function HomePageClient({
   ]
 
   const categories = [
-    { key: 'tajweed', emoji: '📖' },
+    { key: 'hadith', emoji: '📜' },
     { key: 'fiqh', emoji: '⚖️' },
     { key: 'aqeedah', emoji: '💫' },
-    { key: 'seerah', emoji: '🌙' },
+    { key: 'tajweed', emoji: '📖' },
   ]
 
   return (
