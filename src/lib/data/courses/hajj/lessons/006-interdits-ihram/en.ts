@@ -1,211 +1,248 @@
 /**
- * Hajj - Lesson 006: Prohibitions During Ihram
- * English Content
+ * Hajj - Lesson 006: Prohibitions During Ihram (محظورات الإحرام)
+ * English Content - Following redaction guidelines
  */
 
-export const content = `# Prohibitions During Ihram (Mahdhurat al-Ihram)
+export const content = `# Prohibitions During Ihram (محظورات الإحرام)
 
 ## Introduction
 
-The state of Ihram involves the prohibition of certain normally permissible acts. These prohibitions symbolize the pilgrim's detachment from worldly life.
+The state of Ihram sanctifies the pilgrim and requires them to abandon certain normally permissible acts. **These prohibitions (mahzurat) symbolize complete detachment from the material world** and remind the pilgrim that they are entirely consecrated to Allah during this blessed period. A precise understanding of these prohibitions and their compensations (fidya) enables the pilgrim to perform a Hajj in accordance with the Sunnah.
 
 ---
 
-## 1. Categories of Prohibitions
+## 📖 Foundational Quranic Text
 
-| Category | Prohibitions | Compensation |
-|----------|--------------|--------------|
-| **Related to appearance** | Clothing, shaving, nails | Fidya |
-| **Related to fragrance** | All types of perfume | Fidya |
-| **Related to relations** | Intercourse, marriage | Variable |
+> **﴿ فَمَن فَرَضَ فِيهِنَّ الْحَجَّ فَلَا رَفَثَ وَلَا فُسُوقَ وَلَا جِدَالَ فِي الْحَجِّ ﴾**
+> *"Whoever undertakes the Hajj therein: no sexual relations (rafath), no transgression (fusuq), no disputing (jidal) during Hajj"*
+> — [Al-Baqara: 197]
+
+> **﴿ وَلَا تَحْلِقُوا رُءُوسَكُمْ حَتَّىٰ يَبْلُغَ الْهَدْيُ مَحِلَّهُ ﴾**
+> *"And do not shave your heads until the offering has reached its place of sacrifice"*
+> — [Al-Baqara: 196]
 
 ---
 
-## 2. Clothing Prohibitions (For Men)
+## 📜 Reference Hadith
 
-### 📌 2.1 What is Prohibited for Men
+> عَنِ ابْنِ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا أَنَّ رَجُلًا سَأَلَ رَسُولَ اللَّهِ ﷺ: مَا يَلْبَسُ الْمُحْرِمُ؟ فَقَالَ: **« لاَ يَلْبَسُ الْقَمِيصَ وَلاَ الْعَمَائِمَ وَلاَ السَّرَاوِيلاَتِ وَلاَ الْبَرَانِسَ وَلاَ الْخِفَافَ، إِلَّا أَنْ لاَ يَجِدَ نَعْلَيْنِ فَلْيَلْبَسِ الْخُفَّيْنِ، وَلْيَقْطَعْهُمَا حَتَّى يَكُونَا أَسْفَلَ مِنَ الْكَعْبَيْنِ. وَلاَ يَلْبَسْ مِنَ الثِّيَابِ شَيْئًا مَسَّهُ زَعْفَرَانٌ أَوْ الْوَرْسُ »**
 
-| Prohibited | Description |
-|------------|-------------|
-| **Fitted clothing** | Any garment that follows the body shape |
-| **Head covering** | Turban, hat, cap |
-| **Closed footwear** | That covers the heel |
-| **Gloves** | Anything covering the hands |
+From Ibn 'Umar رضي الله عنهما, a man asked the Messenger of Allah ﷺ: "What may the muhrim (one in Ihram) wear?" He replied: **"He does not wear a shirt, turban, trousers, hooded cloak, or leather socks (khuff) — unless he cannot find sandals, then he may wear khuff cut below the ankles. And he should not wear any garment touched by saffron or wars (a dye plant)."**
 
-> The Prophet ﷺ said about the muhrim: **"He does not wear shirt, turban, trousers, hooded cloak, or leather socks"**
-> — [Al-Bukhari (1542), Muslim (1177)]
+— [Al-Bukhari (1542), Muslim (1177)]
 
-### 📌 2.2 What is Permitted
+---
 
-| Permitted | Explanation |
-|-----------|-------------|
+## 🗣️ Scholarly Statements
+
+> **Imam Malik** رحمه الله said in *Al-Mudawwana*: "The muhrim abstains from what beautifies and perfumes him, for Ihram is a state of humility and submission before Allah."
+
+> **Ibn Rushd** رحمه الله explains in *Bidayat al-Mujtahid*: "The prohibitions of Ihram are divided into categories: those concerning the body (clothing, perfume), those concerning flesh (hunting, intercourse), and those concerning speech (disputing, obscenity)."
+
+> **Al-Qurtubi** رحمه الله comments: "Rafath refers to intercourse and everything that leads to it in word or deed. Fusuq encompasses all disobedience to Allah. Jidal is the disputing that leads to anger and distancing from Allah."
+
+> **Khalil ibn Ishaq** رحمه الله summarizes in *Al-Mukhtasar*: "The prohibitions of Ihram are nine: fitted clothing, head covering, perfume, shaving, cutting nails, hunting, intercourse, marriage contract, and covering the face for women."
+
+---
+
+## 🔤 Linguistic Analysis
+
+| Arabic Term | Transliteration | Root | Technical Definition |
+|-------------|-----------------|------|---------------------|
+| **محظورات** | Mahzurat | ح-ظ-ر | Prohibitions, acts forbidden during Ihram |
+| **رفث** | Rafath | ر-ف-ث | Sexual intercourse and all obscene speech |
+| **فسوق** | Fusuq | ف-س-ق | Departure from obedience, sin |
+| **فدية** | Fidya | ف-د-ي | Ransom, expiatory compensation |
+| **مَخِيط** | Makhit | خ-ي-ط | Sewn — tailored garment |
+| **طِيب** | Tib | ط-ي-ب | Perfume, any fragrant substance |
+| **صَيْد** | Sayd | ص-ي-د | Hunting, terrestrial game |
+
+---
+
+## 📚 Detailed Explanation
+
+### 1. Classification of Prohibitions
+
+The prohibitions of Ihram are classified into **four main categories** according to their consequences:
+
+| Category | Prohibitions | Consequence of Transgression |
+|----------|--------------|------------------------------|
+| **1. Invalidation of Hajj** | Sexual intercourse before Arafat | Hajj invalid + complete + repeat + sacrifice |
+| **2. Fidya required** | Clothing, perfume, shaving, nails | Fast 3 days OR feed 6 poor OR sheep |
+| **3. Value sacrifice** | Hunting | Equivalent of the animal or its value |
+| **4. No compensation** | Disputing, marriage (invalid) | Sin without material compensation |
+
+### 2. Clothing Prohibitions for Men
+
+> The Prophet ﷺ said: **"He does not wear a shirt or turban..."**
+
+| What is PROHIBITED | Explanation |
+|--------------------|-------------|
+| **Al-Qamis (shirt)** | Any garment with sleeves |
+| **Al-'Ama'im (turbans)** | Any tied head covering |
+| **As-Sarawilat (trousers)** | Garment covering the lower body |
+| **Al-Baranis (hooded cloaks)** | Garment with hood |
+| **Al-Khifaf (leather socks)** | Footwear covering ankles |
+
+| What is PERMITTED | Justification |
+|-------------------|---------------|
+| **Izar and Rida'** | Two unsewn pieces (wrapped) |
+| **Sandals (na'layn)** | Expose the ankles |
 | **Belt** | To hold the Izar |
 | **Watch, glasses** | Not considered clothing |
-| **Umbrella** | For sun protection |
-| **Natural shade** | Trees, buildings |
+| **Umbrella, tent** | Shade not attached to body |
 
----
+### 3. Clothing Prohibitions for Women
 
-## 3. Prohibitions for Women
-
-### 📌 3.1 What is Prohibited
-
-| Prohibited | Description |
-|------------|-------------|
-| **Niqab** | Face veil |
-| **Gloves** | Anything covering hands |
-
-> The Prophet ﷺ said: **"The woman in Ihram does not wear Niqab or gloves"**
+> The Prophet ﷺ said: **"The woman in Ihram does not wear niqab or gloves"**
 > — [Al-Bukhari (1838)]
-
-### 📌 3.2 How Can She Cover Her Face?
-
-| Madhhab | Position |
-|---------|----------|
-| 🟡 **Maliki** | **Permissible to let fabric hang over face without tying** |
-| 🟢 Hanafi | Permissible with fabric away from face |
-| 🔵 Shafi'i | Permissible without touching face |
-| 🟣 Hanbali | Permissible with hanging fabric |
-
----
-
-## 4. Fragrance (Perfume)
-
-### 📌 4.1 What is Prohibited
-
-| Prohibited | Examples |
-|------------|----------|
-| **Body perfume** | Oud, musk, incense |
-| **Scented soaps** | With lingering fragrance |
-| **Scented oils** | Aromatic oils |
-| **Perfumed clothes** | Soaked in perfume |
-
-> The Prophet ﷺ said about the muhrim: **"Nor a garment touched by saffron or wars"**
-> — [Al-Bukhari (1542)]
-
-### 📌 4.2 Exceptions
-
-| Exception | Status |
-|-----------|--------|
-| **Perfume applied BEFORE Ihram** | Permitted even if scent remains |
-| **Unscented soap** | Permitted |
-| **Scented food** | Permitted if not applied to body |
-
-> Aisha رضي الله عنها said: "I perfumed the Prophet ﷺ for his Ihram, and I could see the shine of musk on his head."
-> — [Al-Bukhari (1539)]
-
----
-
-## 5. Hair and Nails
-
-### 📌 5.1 What is Prohibited
-
-| Prohibited | Description |
-|------------|-------------|
-| **Shaving hair** | All or part |
-| **Cutting hair** | From any body part |
-| **Cutting nails** | Hands and feet |
-
-> **"And do not shave your heads until the offering reaches its place of sacrifice"**
-> [Al-Baqara: 196]
-
-### 📌 5.2 Case of Necessity
-
-> **"Whoever among you is ill or has an ailment of the head: ransom of fasting, charity, or sacrifice"**
-> [Al-Baqara: 196]
-
-| Fidya Option | Detail |
-|--------------|--------|
-| **Fasting** | 3 days |
-| **Charity** | Feed 6 poor people |
-| **Sacrifice** | One sheep |
-
----
-
-## 6. Marital Relations
-
-### 📌 6.1 Severity of the Prohibition
-
-| Act | Consequence |
-|-----|-------------|
-| **Intercourse before Arafat** | Hajj invalid + complete + repeat + camel sacrifice |
-| **Intercourse after Arafat** | Hajj valid but camel sacrifice |
-| **Intimacy without intercourse** | Sacrifice (sheep) |
-
-> **"Whoever undertakes Hajj: no sexual relations, no transgression, no disputing during Hajj"**
-> [Al-Baqara: 197]
-
-### 📌 6.2 Marriage During Ihram
-
-| Act | Status |
-|-----|--------|
-| **Getting married** | Prohibited and invalid |
-| **Marrying someone** | Prohibited |
-| **Proposing marriage** | Prohibited |
-
-> The Prophet ﷺ said: **"The muhrim does not marry, give in marriage, nor propose"**
-> — [Muslim (1409)]
-
----
-
-## 7. Hunting
-
-### 📌 7.1 Prohibition of Hunting
-
-> **"Land game is forbidden to you while you are in Ihram"**
-> [Al-Ma'ida: 96]
 
 | Prohibited | Detail |
 |------------|--------|
-| **Hunting** | Any wild land animal |
-| **Assisting in hunting** | Pointing, guiding |
-| **Eating hunted game** | If hunted for him |
+| **The Niqab** | Face veil with opening for eyes |
+| **Gloves (quffazayn)** | Anything sewn for the hands |
 
-### 📌 7.2 What is Permitted
+**Question: How can she cover her face in front of non-mahram men?**
 
-| Permitted | Reason |
-|-----------|--------|
-| **Sea animals** | Authorized by Quran |
-| **Domestic animals** | Not wild |
-| **5 harmful creatures** | Crow, kite, scorpion, mouse, rabid dog |
+| Madhhab | Solution |
+|---------|----------|
+| 🟡 **Maliki** | **Let fabric hang over face (sadl) without tying** |
+| 🔵 Shafi'i | Permitted if fabric doesn't touch face |
+| 🟣 Hanbali | Permitted with hanging khimar |
+
+### 4. Prohibition of Perfume
+
+> عَنْ عَائِشَةَ رَضِيَ اللَّهُ عَنْهَا قَالَتْ: **"I used to perfume the Messenger of Allah ﷺ for his Ihram before he entered Ihram, and for his desacralization before he made Tawaf of the House."**
+> — [Al-Bukhari (1539), Muslim (1189)]
+
+| PROHIBITED | PERMITTED |
+|------------|-----------|
+| Applying perfume after Ihram | Perfume applied **before** Ihram (even if scent remains) |
+| Strongly scented soaps | Neutral or lightly scented soaps |
+| Scented oils on body | Scented food (eaten, not applied) |
+| Clothes saturated with perfume | Natural scents (flowers, fruits) |
+
+### 5. Shaving and Cutting Nails
+
+> **﴿ وَلَا تَحْلِقُوا رُءُوسَكُمْ حَتَّىٰ يَبْلُغَ الْهَدْيُ مَحِلَّهُ ۚ فَمَن كَانَ مِنكُم مَّرِيضًا أَوْ بِهِ أَذًى مِّن رَّأْسِهِ فَفِدْيَةٌ مِّن صِيَامٍ أَوْ صَدَقَةٍ أَوْ نُسُكٍ ﴾**
+> — [Al-Baqara: 196]
+
+| Prohibited | Compensation |
+|------------|--------------|
+| Shaving all or part of head | **Fidya: fast 3 days OR feed 6 poor OR sheep** |
+| Cutting body hair | Same |
+| Cutting fingernails/toenails | Same |
+
+**Case of medical necessity:** The verse explicitly permits fidya for one suffering from illness or ailment of the head.
+
+### 6. Marital Relations and Marriage
+
+This is **the most severe prohibition** as it can invalidate Hajj.
+
+| Act | Timing | Consequence |
+|-----|--------|-------------|
+| **Sexual intercourse** | Before first desacralization (before Arafat) | **Hajj invalid** — must complete + repeat next year + camel sacrifice |
+| **Sexual intercourse** | After first desacralization (after Tawaf al-Ifada) | Hajj valid + camel sacrifice |
+| **Foreplay** | Any time | Sheep sacrifice |
+
+> The Prophet ﷺ said: **"The muhrim does not marry, give in marriage, nor propose marriage."**
+> — [Muslim (1409)]
+
+### 7. Hunting
+
+> **﴿ وَحُرِّمَ عَلَيْكُمْ صَيْدُ الْبَرِّ مَا دُمْتُمْ حُرُمًا ﴾**
+> *"Land game is forbidden to you while you are in Ihram"*
+> — [Al-Ma'ida: 96]
+
+| PROHIBITED | PERMITTED |
+|------------|-----------|
+| Hunting any wild land animal | Sea animals (fish, etc.) |
+| Assisting in hunting (pointing, guiding) | Domestic animals (sheep, chicken) |
+| Eating game hunted for oneself | Game hunted by non-muhrim (not for oneself) |
+| | **5 harmful creatures**: crow, kite, scorpion, mouse, rabid dog |
 
 ---
 
-## 8. Compensation Table (Fidya)
+## ⚖️ Differences Between Schools
 
-| Prohibition | Compensation |
-|-------------|--------------|
-| **Prohibited clothing** | Fast 3 days OR feed 6 poor OR sheep |
-| **Perfume** | Same |
-| **Shaving** | Same |
-| **Cutting nails** | Same |
-| **Intercourse before Arafat** | Hajj invalid + camel |
-| **Intercourse after Arafat** | Camel |
-| **Hunting** | Equivalent of animal hunted |
+| Prohibition | 🟡 Maliki | 🟢 Hanafi | 🔵 Shafi'i | 🟣 Hanbali |
+|-------------|----------|----------|-----------|-----------|
+| **Covering face (men)** | Permitted | Makruh | Prohibited | Prohibited |
+| **Covering face (women)** | Sadl permitted | With distance | Without touching | Sadl permitted |
+| **Wearing gloves** | Prohibited for all | Prohibited for all | Prohibited for all | Prohibited for all |
+| **Lingering perfume from before Ihram** | Permitted | Makruh | Permitted | Permitted |
 
 ---
 
-## 🎯 Summary
+## 🌍 Modern Applications
 
-| Category | Examples | Compensation |
-|----------|----------|--------------|
-| **Clothing (men)** | Fitted garments, head covering | Fidya |
-| **Clothing (women)** | Niqab, gloves | Fidya |
-| **Fragrance** | Any scented substance | Fidya |
-| **Body** | Shaving, nails | Fidya |
-| **Relations** | Intercourse, marriage | Heavy sacrifice |
-| **Hunting** | Land game | Equivalent |
-
----
-
-## 📚 Sources
-
-1. Sahih Al-Bukhari
-2. Sahih Muslim
-3. Al-Mudawwana - Imam Malik
-4. Bidayat al-Mujtahid - Ibn Rushd
+| Contemporary Situation | Jurisprudential Solution |
+|------------------------|--------------------------|
+| **Scented shampoo/soap** | Avoid strong fragrances; neutral soaps preferred |
+| **Scented sunscreen** | Use unscented or very lightly scented creams |
+| **Scented medications** | Permitted in case of medical necessity |
+| **Deodorant** | Unscented permitted; scented prohibited |
+| **Surgery requiring shaving** | Permitted with fidya |
+| **Medical sewn garments** | Permitted in medical necessity with fidya |
 
 ---
 
-And Allah knows best
+## ⚠️ Common Mistakes
+
+| Mistake | Correction |
+|---------|------------|
+| Thinking any white garment is permitted | It's the **cut** (unsewn) that matters, not color |
+| Believing women cannot cover their faces | They can with **sadl** (untied fabric) |
+| Using "natural" perfume thinking it's permitted | All perfume is prohibited, natural or synthetic |
+| Accidentally removing some hair | Give proportional sadaqa or fast |
+| Believing marriage is only makruh | It is **haram** and the contract is **invalid** |
+
+---
+
+## ❓ Frequently Asked Questions (FAQ)
+
+**Q1: What if I apply perfume by forgetfulness?**
+> Forgetfulness does not incur sin but fidya remains obligatory according to some scholars. The perfumed area should be washed immediately.
+
+**Q2: Can I brush my teeth with toothpaste?**
+> Yes, as long as the toothpaste is not strongly scented. Siwak is preferable.
+
+**Q3: Can I cut a broken nail?**
+> Only the part causing discomfort, with proportional fidya.
+
+**Q4: My wife and I are traveling together for Hajj. What precautions?**
+> Avoid all affectionate gestures and intimacy. Sleep separately if possible. Temptation is a test of Ihram.
+
+---
+
+## ✅ Practical Action / Challenge
+
+**Preparation for Ihram:**
+1. **Prepare** a special Hajj toiletry bag (neutral soap, unscented deodorant, unscented cream)
+2. **Memorize** the fidya table to react quickly in case of transgression
+3. **Practice** wearing the Izar and Rida' at home to get accustomed
+
+---
+
+## 🤲 Du'a of the Day
+
+> **اللَّهُمَّ اجْعَلْ إِحْرَامِي خَالِصًا لِوَجْهِكَ، وَأَعِنِّي عَلَى حِفْظِ حُرُمَاتِكَ**
+
+*"O Allah, make my Ihram sincere for Your Face, and help me preserve Your sacred prohibitions"*
+
+---
+
+## 📚 References
+
+1. **Al-Muwatta'** — Imam Malik ibn Anas
+2. **Al-Mudawwana** — Imam Malik (reported by Sahnun)
+3. **Bidayat al-Mujtahid** — Ibn Rushd al-Hafid
+4. **Al-Mukhtasar** — Khalil ibn Ishaq
+5. **Tafsir al-Qurtubi** — Imam Al-Qurtubi
+6. **Sahih Al-Bukhari** — Imam Al-Bukhari
+7. **Sahih Muslim** — Imam Muslim
+
+---
+
+*Wa Allahu a'lam* — And Allah knows best
 `

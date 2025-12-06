@@ -1,197 +1,237 @@
 /**
- * Hajj - Leçon 005: Les Obligations du Hajj
- * Contenu en Français
+ * Hajj - Leçon 005: Les Obligations du Hajj (واجبات الحج)
+ * Contenu en Français - Conforme au guide de rédaction
  */
 
 export const content = `# Les Obligations du Hajj (واجبات الحج)
 
 ## Introduction
 
-Les obligations (wâjibât) sont des actes que le pèlerin doit accomplir. Contrairement aux piliers, leur omission peut être compensée par un sacrifice (dam).
+Les obligations du Hajj (wâjibât) constituent un niveau intermédiaire entre les piliers (arkân) et les actes recommandés (sunan). **Leur omission n'invalide pas le Hajj mais nécessite une compensation par le sacrifice** (dam). Cette distinction fondamentale permet au pèlerin de comprendre la hiérarchie des actes rituels et d'agir en conséquence en cas de manquement involontaire.
 
 ---
 
-## 1. Différence entre Pilier et Obligation
+## 📖 Texte Coranique Fondateur
+
+> **﴿ وَأَتِمُّوا الْحَجَّ وَالْعُمْرَةَ لِلَّهِ ﴾**
+> *« Accomplissez pour Allah le Hajj et la 'Umra dans leur intégralité »*
+> — [Al-Baqara : 196]
+
+Cette injonction divine englobe l'accomplissement de tous les actes du pèlerinage : piliers, obligations et recommandations. L'intégralité (itmâm) implique de ne rien négliger des rites prescrits.
+
+---
+
+## 📜 Hadith Référence
+
+> عَنْ عَبْدِ الرَّحْمَنِ بْنِ يَعْمَرَ الدِّيلِيِّ قَالَ: شَهِدْتُ رَسُولَ اللَّهِ ﷺ وَهُوَ وَاقِفٌ بِعَرَفَةَ وَأَتَاهُ نَاسٌ مِنْ أَهْلِ نَجْدٍ فَقَالُوا: يَا رَسُولَ اللَّهِ، كَيْفَ الْحَجُّ؟ قَالَ: **« الْحَجُّ عَرَفَةُ، فَمَنْ جَاءَ قَبْلَ صَلَاةِ الْفَجْرِ مِنْ لَيْلَةِ جَمْعٍ فَقَدْ تَمَّ حَجُّهُ »**
+
+D'après 'Abd ar-Rahmân ibn Ya'mar ad-Dîlî : « J'étais présent auprès du Messager d'Allah ﷺ alors qu'il stationnait à 'Arafat. Des gens de Najd vinrent lui demander : "Ô Messager d'Allah, comment s'accomplit le Hajj ?" Il répondit : **"Le Hajj, c'est 'Arafat. Quiconque arrive avant la prière du Fajr de la nuit de Jam' (Muzdalifa), son Hajj est complet."** »
+
+— [Rapporté par At-Tirmidhi (889), An-Nasâ'î (3016), Abû Dâwûd (1949) — Authentifié]
+
+Ce hadith distingue le pilier essentiel ('Arafat) des autres actes obligatoires ou recommandés.
+
+---
+
+## 🗣️ Paroles des Savants
+
+> **L'Imam Mâlik** رحمه الله a dit dans *Al-Muwatta'* : « Les obligations du Hajj sont des actes que l'on doit accomplir, et si on les délaisse, on doit un sacrifice, mais le Hajj reste valide. »
+
+> **Ibn Rushd** رحمه الله explique dans *Bidâyat al-Mujtahid* : « Les savants sont unanimes sur le fait que l'omission d'un wâjib ne rend pas le Hajj invalide, contrairement à l'omission d'un rukn. La divergence porte sur le détail de ce qui est wâjib et de ce qui est sunna. »
+
+> **Al-Qurtubî** رحمه الله commente : « L'ordre d'accomplir le Hajj dans son intégralité (itmâm) implique tous ses actes : ce qui est obligatoire par nature et ce qui est obligatoire comme complément. »
+
+> **Khalîl ibn Ishâq** رحمه الله énumère dans *Al-Mukhtasar* les obligations malikites : « Les wâjibât sont au nombre de six : l'Ihram depuis le Miqat, le Mabit à Muzdalifa, le Mabit à Mina, le jet des Jamarat, le rasage ou la coupe, et le Tawaf d'adieu. »
+
+---
+
+## 🔤 Analyse Linguistique
+
+| Terme Arabe | Translittération | Racine | Définition Technique |
+|-------------|------------------|--------|---------------------|
+| **واجب** | Wâjib | و-ج-ب | Ce qui est établi, requis — acte dont l'accomplissement est exigé |
+| **دم** | Dam | د-م-م | Sang — par extension, sacrifice expiatoire |
+| **مبيت** | Mabît | ب-ي-ت | Passer la nuit — séjour nocturne obligatoire |
+| **رمي** | Ramy | ر-م-ي | Jet, lancer — action de lapider les stèles |
+| **حلق** | Halq | ح-ل-ق | Rasage — action de raser entièrement la tête |
+| **تقصير** | Taqsîr | ق-ص-ر | Raccourcissement — couper une partie des cheveux |
+| **وداع** | Wadâ' | و-د-ع | Adieu — dernier tawaf avant le départ |
+
+---
+
+## 📚 Explication Détaillée
+
+### 1. Différence Fondamentale : Pilier vs Obligation
 
 | Aspect | Pilier (Rukn) | Obligation (Wâjib) |
 |--------|---------------|-------------------|
-| **Omission** | Invalide le Hajj | Ne l'invalide pas |
-| **Compensation** | Impossible | Par un sacrifice |
-| **Exemples** | Wuquf, Tawaf | Ihram du Miqat, Muzdalifa |
+| **Nature** | Élément constitutif du Hajj | Acte complémentaire requis |
+| **Omission** | **Invalide le Hajj** | Ne l'invalide pas |
+| **Compensation** | Impossible — doit être accompli | Par un sacrifice (dam) |
+| **Remplacement** | Aucun remplacement possible | Sacrifice ou jeûne |
 
----
+### 2. Les Six Obligations selon le Madhhab Malikite
 
-## 2. Les Obligations selon le Madhhab Malikite
+#### 🟡 Première Obligation : L'Ihram depuis le Miqat
 
-### 🟡 Liste des Obligations
+> Le Prophète ﷺ a dit : **« هُنَّ لَهُنَّ وَلِمَنْ أَتَى عَلَيْهِنَّ مِنْ غَيْرِ أَهْلِهِنَّ مِمَّنْ أَرَادَ الْحَجَّ وَالْعُمْرَةَ »**
+> *« Ces Miqat sont pour leurs habitants et pour quiconque y passe venant d'ailleurs avec l'intention du Hajj ou de la 'Umra »*
+> — [Al-Bukhârî (1526), Muslim (1181)]
 
-| N° | Obligation | Description |
-|----|------------|-------------|
-| 1 | **Ihram depuis le Miqat** | Entrer en Ihram avant/au Miqat |
-| 2 | **Nuit à Muzdalifa** | Passer une partie de la nuit |
-| 3 | **Nuits à Mina** | Nuits de Tashriq (11, 12, 13) |
-| 4 | **Jet des Jamarat** | Lapider les stèles |
-| 5 | **Rasage/Taille** | Halq ou Taqsir |
-| 6 | **Tawaf al-Wada'** | Tawaf d'adieu |
+| Situation | Statut |
+|-----------|--------|
+| Ihram avant le Miqat | Valide mais makrûh |
+| Ihram au Miqat | Conforme à la Sunna |
+| Ihram après le Miqat | **Sacrifice obligatoire (dam)** |
+| Retour au Miqat pour l'Ihram | Annule l'obligation du dam |
 
----
-
-## 3. Première Obligation : Ihram depuis le Miqat
-
-### 📌 3.1 Règle
-
-> Le Prophète ﷺ a dit concernant les Miqat : **« هُنَّ لَهُنَّ وَلِمَنْ أَتَى عَلَيْهِنَّ مِنْ غَيْرِ أَهْلِهِنَّ »**
-> « Ils sont pour leurs habitants et pour quiconque y passe sans y habiter »
-> — [Al-Bukhari (1526)]
-
-### 📌 3.2 Règles
-
-| Situation | Règle |
-|-----------|-------|
-| **Ihram avant le Miqat** | Valide mais déconseillé |
-| **Ihram au Miqat** | Sunnah |
-| **Ihram après le Miqat** | 🟡 Doit un sacrifice |
-
----
-
-## 4. Deuxième Obligation : Nuit à Muzdalifa
-
-### 📌 4.1 Description
-Muzdalifa est le lieu entre Arafat et Mina où le pèlerin passe la nuit du 9 au 10 Dhul-Hijja.
+#### 🟡 Deuxième Obligation : Le Mabit à Muzdalifa
 
 > **﴿ فَإِذَا أَفَضْتُم مِّنْ عَرَفَاتٍ فَاذْكُرُوا اللَّهَ عِندَ الْمَشْعَرِ الْحَرَامِ ﴾**
-> « Quand vous déferlez d'Arafat, invoquez Allah près du Monument Sacré »
-> [Al-Baqara : 198]
+> *« Puis, quand vous déferlez depuis 'Arafat, invoquez Allah près du Mash'ar al-Harâm (Muzdalifa) »*
+> — [Al-Baqara : 198]
 
-### 📌 4.2 Durée minimale selon les écoles
+C'est la nuit du 9 au 10 Dhul-Hijja, après le départ de 'Arafat.
 
-| Madhhab | Durée minimale |
-|---------|----------------|
-| 🟡 **Malikite** | **Descendre, même brièvement** |
-| 🟢 Hanafite | Du Fajr au lever du soleil |
-| 🔵 Shafiite | Un moment après minuit |
-| 🟣 Hanbalite | Majeure partie de la nuit |
+| Madhhab | Durée Minimale Requise |
+|---------|------------------------|
+| 🟡 **Malikite** | **Un arrêt, même bref (nuzûl)** |
+| 🟢 Hanafite | Présence à l'aube (du Fajr au lever) |
+| 🔵 Shafiite | Un instant après minuit |
+| 🟣 Hanbalite | La majeure partie de la nuit |
 
----
+#### 🟡 Troisième Obligation : Le Mabit à Mina
 
-## 5. Troisième Obligation : Nuits à Mina
+Les nuits des jours de Tashrîq (11, 12, 13 Dhul-Hijja).
 
-### 📌 5.1 Description
-Le pèlerin doit passer les nuits des jours de Tashriq (11, 12, 13 Dhul-Hijja) à Mina.
+> Le Prophète ﷺ **« رَخَّصَ لِلْعَبَّاسِ بْنِ عَبْدِ الْمُطَّلِبِ أَنْ يَبِيتَ بِمَكَّةَ لَيَالِيَ مِنًى مِنْ أَجْلِ سِقَايَتِهِ »**
+> *« a accordé une dispense à Al-'Abbâs ibn 'Abd al-Muttalib de passer les nuits de Mina à La Mecque en raison de son rôle d'abreuvement (des pèlerins) »*
+> — [Al-Bukhârî (1745), Muslim (1315)]
 
-> Le Prophète ﷺ passa les nuits de Mina et y accomplit les rites.
-> — [Al-Bukhari (1742)]
+Cette dispense montre que le Mabit est une obligation, car seules les obligations peuvent faire l'objet de dispenses légales.
 
-### 📌 5.2 Règles
+#### 🟡 Quatrième Obligation : Le Jet des Jamarat (Ramy)
 
-| Règle | Détail |
-|-------|--------|
-| **Obligation** | Passer la majeure partie de chaque nuit |
-| **Dispense** | Gardiens et abreuveurs (exemptés) |
-| **Départ anticipé** | Autorisé le 12 si on part avant le coucher du soleil |
+| Jour | Stèles à Lapider | Nombre Total |
+|------|------------------|--------------|
+| 10 Dhul-Hijja (Yawm an-Nahr) | Al-'Aqaba uniquement | 7 cailloux |
+| 11 Dhul-Hijja | Petite → Moyenne → Grande | 21 cailloux |
+| 12 Dhul-Hijja | Petite → Moyenne → Grande | 21 cailloux |
+| 13 Dhul-Hijja (si non ta'ajjul) | Petite → Moyenne → Grande | 21 cailloux |
 
-> **﴿ فَمَن تَعَجَّلَ فِي يَوْمَيْنِ فَلَا إِثْمَ عَلَيْهِ ﴾**
-> « Celui qui se hâte en deux jours ne commet pas de péché »
-> [Al-Baqara : 203]
+**Total : 70 cailloux** (ou 49 en cas de départ anticipé le 12)
 
----
+#### 🟡 Cinquième Obligation : Le Halq ou Taqsir
 
-## 6. Quatrième Obligation : Jet des Jamarat
+> Le Prophète ﷺ a invoqué : **« اللَّهُمَّ اغْفِرْ لِلْمُحَلِّقِينَ »** ثَلَاثًا، قَالُوا: وَالْمُقَصِّرِينَ؟ قَالَ: **« وَالْمُقَصِّرِينَ »**
+> *« Ô Allah, pardonne à ceux qui rasent » — trois fois. Ils dirent : "Et ceux qui raccourcissent ?" Il dit : « Et ceux qui raccourcissent »*
+> — [Al-Bukhârî (1727), Muslim (1301)]
 
-### 📌 6.1 Description
-Lapider les trois stèles (Jamarat) représentant les lieux où Ibrahim عليه السلام repoussa Shaytan.
+| Catégorie | Prescription |
+|-----------|--------------|
+| Homme | Halq (rasage) préférable, Taqsir permis |
+| Femme | Taqsir uniquement (longueur d'une phalange) |
 
-### 📌 6.2 Programme de lapidation
+#### 🟡 Sixième Obligation : Le Tawaf d'Adieu (Tawaf al-Wadâ')
 
-| Jour | Jamarat | Nombre de cailloux |
-|------|---------|-------------------|
-| **10 Dhul-Hijja (Eid)** | Grande (Al-'Aqaba) uniquement | 7 |
-| **11 Dhul-Hijja** | Petite → Moyenne → Grande | 7 + 7 + 7 = 21 |
-| **12 Dhul-Hijja** | Petite → Moyenne → Grande | 7 + 7 + 7 = 21 |
-| **13 Dhul-Hijja** | Petite → Moyenne → Grande | 7 + 7 + 7 = 21 |
-
-**Total : 70 cailloux** (ou 49 si départ le 12)
-
-### 📌 6.3 Conditions de validité
-
-| Condition | Explication |
-|-----------|-------------|
-| **Type de projectile** | Pierre/caillou |
-| **Nombre** | 7 par stèle |
-| **Tomber dans le bassin** | Obligatoire |
-| **Temps** | Après le zénith (sauf le 10) |
-
----
-
-## 7. Cinquième Obligation : Rasage ou Taille
-
-### 📌 7.1 Options
-
-| Option | Description | Mérite |
-|--------|-------------|--------|
-| **Halq** (rasage) | Raser entièrement la tête | Meilleur pour l'homme |
-| **Taqsir** | Couper au moins 3 cm | Permis |
-
-> Le Prophète ﷺ invoqua trois fois pour ceux qui rasent et une fois pour ceux qui raccourcissent.
-> — [Al-Bukhari (1727), Muslim (1301)]
-
-### 📌 7.2 Règles pour la femme
-La femme ne fait que le Taqsir (raccourcir d'environ la longueur d'une phalange).
-
----
-
-## 8. Sixième Obligation : Tawaf al-Wada'
-
-### 📌 8.1 Description
-Le Tawaf d'adieu, accompli juste avant de quitter La Mecque.
-
-> Le Prophète ﷺ a dit : **« لا يَنْفِرَنَّ أَحَدٌ حَتَّى يَكُونَ آخِرُ عَهْدِهِ بِالْبَيْتِ »**
-> « Que personne ne parte avant que son dernier acte soit au Temple »
+> Le Prophète ﷺ a dit : **« لَا يَنْفِرَنَّ أَحَدٌ حَتَّى يَكُونَ آخِرُ عَهْدِهِ بِالْبَيْتِ »**
+> *« Que personne ne parte sans que son dernier acte soit (la visite) de la Maison »*
 > — [Muslim (1327)]
 
-### 📌 8.2 Exemptions
-
-| Catégorie | Statut |
-|-----------|--------|
-| **Femme en menstruation** | Exemptée |
-| **Femme en lochies** | Exemptée |
-| **Résidents de La Mecque** | 🟡 Pas obligatoire (selon certains) |
+**Exemptions :** La femme en menstrues ou en lochies est dispensée (hadith d'Ibn 'Abbâs).
 
 ---
 
-## 9. Compensation des obligations omises
+## ⚖️ Divergences entre Écoles
 
-### 📌 Règle générale
+| Obligation | 🟡 Malikite | 🟢 Hanafite | 🔵 Shafiite | 🟣 Hanbalite |
+|------------|-------------|-------------|-------------|--------------|
+| **Ihram au Miqat** | Wâjib | Wâjib | Wâjib | Wâjib |
+| **Mabit à Muzdalifa** | Wâjib | Sunna (présence au Fajr wâjib) | Wâjib | Wâjib |
+| **Mabit à Mina** | Wâjib | Sunna | Wâjib | Wâjib |
+| **Ramy** | Wâjib | Wâjib | Wâjib | Wâjib |
+| **Halq/Taqsir** | Wâjib | Wâjib | **Rukn** | Wâjib |
+| **Tawaf al-Wadâ'** | Wâjib | Wâjib | Wâjib | Wâjib |
 
-| Omission | Compensation |
-|----------|--------------|
-| **Une obligation** | Un sacrifice (mouton) |
-| **Plusieurs obligations** | Un sacrifice par omission |
-| **Incapacité de sacrifier** | Jeûner 10 jours |
-
----
-
-## 🎯 Résumé des Obligations
-
-| Obligation | Jour | Compensation si omise |
-|------------|------|----------------------|
-| **Ihram au Miqat** | Avant entrée | Sacrifice |
-| **Nuit à Muzdalifa** | 9-10 Dhul-Hijja | Sacrifice |
-| **Nuits à Mina** | 11-12-13 Dhul-Hijja | Sacrifice |
-| **Jet des Jamarat** | 10-13 Dhul-Hijja | Sacrifice |
-| **Halq/Taqsir** | 10 Dhul-Hijja | Sacrifice |
-| **Tawaf al-Wada'** | Avant le départ | Sacrifice |
+**Note :** Pour les Shafiites, le Halq/Taqsir est un pilier (rukn) et non une simple obligation.
 
 ---
 
-## 📚 Sources
+## 🌍 Applications Modernes
 
-1. Sahih Al-Bukhari
-2. Sahih Muslim
-3. Al-Mudawwana - Imam Malik
-4. Bidayat al-Mujtahid - Ibn Rushd
+### Gestion des Foules et Dispenses
+
+| Situation Contemporaine | Solution Jurisprudentielle |
+|------------------------|---------------------------|
+| **Incapacité de rester à Mina** (manque de place) | Rester dans les zones adjacentes autorisées |
+| **Impossibilité de lapider en journée** | Les savants autorisent le ramy de nuit selon les besoins |
+| **Délégation du Ramy** | Permise pour les malades, personnes âgées, femmes enceintes |
+| **Halq collectif le jour du Eid** | Valide, l'essentiel est qu'il soit accompli |
+
+### Compensation Financière du Dam
+
+Le pèlerin qui omet une obligation doit :
+1. **Sacrifier un mouton** à La Mecque (préférablement)
+2. **Distribuer la viande aux pauvres** du Haram
+3. **En cas d'incapacité financière** : jeûner 10 jours (3 pendant le Hajj + 7 au retour)
 
 ---
 
-واللَّهُ أَعْلَم
+## ⚠️ Erreurs Courantes
+
+| Erreur | Correction |
+|--------|------------|
+| Croire qu'omettre un wâjib annule le Hajj | Le Hajj reste valide mais incomplet — dam obligatoire |
+| Négliger le Tawaf d'adieu par oubli | Revenir si possible, sinon dam |
+| Lapider avant le temps prescrit | Invalide — à refaire dans le temps |
+| Quitter Mina avant le coucher du soleil le 12 pour éviter le 13 | Permis par le Coran [Al-Baqara : 203] |
+| Penser que la femme doit faire le Halq | Elle ne fait que le Taqsir |
+
+---
+
+## ❓ Questions Fréquentes (FAQ)
+
+**Q1 : Que faire si j'ai omis une obligation par ignorance ?**
+> L'ignorance n'annule pas l'obligation du dam. Cependant, on n'encourt pas de péché si l'omission était involontaire.
+
+**Q2 : Peut-on cumuler plusieurs dam pour plusieurs omissions ?**
+> Selon la majorité, chaque obligation omise nécessite son propre dam. Certains hanafites permettent un seul dam pour des omissions de même nature.
+
+**Q3 : Le Tawaf al-Wadâ' s'applique-t-il aux résidents de La Mecque ?**
+> 🟡 Selon les Malikites, non. Les autres écoles l'exigent même des Mecquois.
+
+**Q4 : Que faire si je ne peux pas sacrifier ?**
+> Jeûner 10 jours : 3 pendant le Hajj et 7 après le retour chez soi.
+
+---
+
+## ✅ Action Concrète / Défi
+
+**Avant votre Hajj :**
+1. **Mémorisez** la liste des 6 obligations malikites et leur ordre chronologique
+2. **Préparez** un budget pour un éventuel dam (environ 100-150€ actuellement)
+3. **Identifiez** les situations où une délégation est permise (ramy pour les personnes vulnérables)
+
+---
+
+## 🤲 Invocation du Jour
+
+> **اللَّهُمَّ أَعِنِّي عَلَى إِتْمَامِ مَنَاسِكِي، وَاجْعَلْ حَجِّي مَبْرُورًا وَذَنْبِي مَغْفُورًا**
+
+*« Ô Allah, aide-moi à accomplir mes rites dans leur intégralité, rends mon Hajj agréé et pardonne mes péchés »*
+
+---
+
+## 📚 Références
+
+1. **Al-Muwatta'** — Imam Mâlik ibn Anas
+2. **Bidâyat al-Mujtahid** — Ibn Rushd al-Hafîd
+3. **Al-Mukhtasar** — Khalîl ibn Ishâq
+4. **Tafsîr al-Qurtubî** — Imam Al-Qurtubî
+5. **Sahîh Al-Bukhârî** — Imam Al-Bukhârî
+6. **Sahîh Muslim** — Imam Muslim
+
+---
+
+*Wa Allâhu a'lam* — واللَّهُ أَعْلَم
 `
