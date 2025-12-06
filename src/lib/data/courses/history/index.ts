@@ -7,11 +7,13 @@ import { Course } from '../types'
 import { historyImamsMeta } from './meta'
 import { lesson001 } from './lessons/001-age-dor'
 import { lesson002 } from './lessons/002-maitres-communs'
+import { lesson003 } from './lessons/003-rencontres'
 
 export const historyImamsCourse: Course = {
   ...historyImamsMeta,
   lessons: [
     lesson001,
     lesson002,
+    lesson003,
   ],
 }
