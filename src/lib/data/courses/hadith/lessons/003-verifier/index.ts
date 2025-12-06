@@ -10,12 +10,12 @@ import { content as contentEn } from './en'
 
 export const lesson003: Lesson = {
   id: 'lesson-003',
-  duration: '30 min',
+  duration: '35 min',
   order: 3,
   title: {
-    fr: 'Vérifier avant de Parler',
+    fr: 'Vérifier avant de Transmettre',
     ar: 'التثبت قبل النقل',
-    en: 'Verify Before Speaking',
+    en: 'Verify Before Transmitting',
   },
   content: {
     fr: contentFr,

@@ -1,243 +1,361 @@
 /**
- * Hadith Essentiels - Leçon 006: Sois dans ce monde comme un étranger
- * Contenu en Français
+ * Sciences du Hadith - Leçon 006: كن في الدنيا كأنك غريب
+ * Sois dans ce Monde comme un Étranger - Le Détachement du Dunya
+ * Contenu en Français - Approche Savante et Qualitative
  */
 
-export const content = `# Sois dans ce monde comme un étranger (كن في الدنيا كأنك غريب)
+export const content = `# 📜 كن في الدنيا كأنك غريب — Sois dans ce Monde comme un Étranger
 
-## Le Hadith
+> Ce hadith est un **fondement du détachement spirituel** (الزهد) et un remède contre le matérialisme de notre époque. Il enseigne la juste relation avec ce monde sans le rejeter.
 
-> **عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ رَضِيَ اللهُ عَنْهُمَا قَالَ: أَخَذَ رَسُولُ اللَّهِ ﷺ بِمَنْكِبِي فَقَالَ:**
+---
+
+## 📖 Texte du Hadith (متن الحديث)
+
+### 🔷 Texte Arabe avec Tashkil
+
+عَنْ **عَبْدِ اللهِ بْنِ عُمَرَ** رَضِيَ اللهُ عَنْهُمَا قَالَ: أَخَذَ رَسُولُ اللهِ ﷺ بِمَنْكِبِي فَقَالَ:
+
+**« كُنْ فِي الدُّنْيَا كَأَنَّكَ غَرِيبٌ، أَوْ عَابِرُ سَبِيلٍ »**
+
+وَكَانَ ابْنُ عُمَرَ رَضِيَ اللهُ عَنْهُمَا يَقُولُ:
+
+**« إِذَا أَمْسَيْتَ فَلَا تَنْتَظِرِ الصَّبَاحَ، وَإِذَا أَصْبَحْتَ فَلَا تَنْتَظِرِ الْمَسَاءَ، وَخُذْ مِنْ صِحَّتِكَ لِمَرَضِكَ، وَمِنْ حَيَاتِكَ لِمَوْتِكَ »**
+
+### 🔷 Traduction Française
+
+D'après **Abdullah ibn 'Umar** — qu'Allah les agrée tous deux — : Le Messager d'Allah ﷺ me prit par l'épaule et dit :
+
+**« Sois dans ce monde comme un étranger ou un voyageur de passage. »**
+
+Et Ibn 'Umar — qu'Allah les agrée — disait :
+
+**« Si tu arrives au soir, n'attends pas le matin ; et si tu arrives au matin, n'attends pas le soir. Prends de ta santé pour ta maladie, et de ta vie pour ta mort. »**
+
+---
+
+### 📚 Référencement (التخريج)
+
+| Source | Numéro | Statut |
+|--------|--------|--------|
+| **Sahih Al-Bukhari** | 6416 | ✅ Sahih |
+| **Sunan At-Tirmidhi** | 2333 | ✅ Sahih |
+| **Musnad Ahmad** | 4764 | ✅ Sahih |
+| **Shu'ab Al-Iman** | Al-Bayhaqi, 10248 | ✅ Sahih |
+
+> 💡 L'Imam An-Nawawi رحمه الله a inclus ce hadith dans ses **40 Hadiths** (n°40), le plaçant comme conclusion parfaite pour sa collection.
+
+---
+
+## 🎓 Importance de ce Hadith (منزلة الحديث)
+
+### 📌 Paroles des Savants
+
+| Savant | Citation |
+|--------|----------|
+| **Imam An-Nawawi** رحمه الله | *« Ce hadith est un fondement dans le court espoir (قصر الأمل) et le détachement du monde. »* — *Sharh Al-Arba'in* |
+| **Ibn Rajab Al-Hanbali** رحمه الله | *« Ce hadith contient un conseil global pour la vie du croyant dans ce monde. »* — *Jami' Al-'Ulum wal-Hikam* |
+| **Ibn Al-Qayyim** رحمه الله | *« Le cœur de l'étranger est toujours tourné vers sa patrie, et la patrie du croyant est le Paradis. »* — *Madarij As-Salikin* |
+| **Al-Fudayl ibn 'Iyad** رحمه الله | *« Le détachement n'est pas d'interdire le licite, mais que le cœur ne soit pas attaché à ce qui est dans la main. »* |
+
+### 📌 Pourquoi ce Hadith est-il Fondamental ?
+
+1. **Remède au matérialisme** : À l'ère de la consommation excessive
+2. **Vision juste du dunya** : Ni rejet total, ni attachement excessif
+3. **Préparation à la mort** : Vivre chaque jour comme le dernier
+4. **Liberté intérieure** : Se libérer de l'esclavage des possessions
+5. **Focus sur l'au-delà** : Garder l'objectif final en vue
+
+---
+
+## 🔍 Analyse Linguistique (التحليل اللغوي)
+
+### 📜 Vocabulaire du Hadith
+
+| Terme Arabe | Translittération | Signification |
+|-------------|------------------|---------------|
+| **كُنْ** | Kun | Sois (impératif) |
+| **الدُّنْيَا** | ad-Dunyā | Le monde d'ici-bas |
+| **كَأَنَّكَ** | Ka'annaka | Comme si tu étais |
+| **غَرِيبٌ** | Gharīb | Étranger, inconnu |
+| **عَابِرُ سَبِيلٍ** | 'Ābiru Sabīl | Voyageur de passage |
+| **مَنْكِبِي** | Mankibī | Mon épaule |
+
+### 📐 Analyse Grammaticale (الإعراب)
+
+| Élément | Fonction | Explication |
+|---------|----------|-------------|
+| **كُنْ** | فعل أمر ناقص | Impératif de كان |
+| **فِي الدُّنْيَا** | جار ومجرور (خبر كن) | Attribut de كن |
+| **كَأَنَّكَ** | حرف تشبيه + اسم | Particule de comparaison |
+| **غَرِيبٌ** | خبر كأن | Attribut de كأن |
+| **عَابِرُ سَبِيلٍ** | معطوف على غريب | Coordonné à غريب |
+
+### 🔎 Subtilité Linguistique
+
+Le Prophète ﷺ a utilisé **أَوْ** (ou) et non **وَ** (et), ce qui indique une gradation :
+
+> **L'étranger** (غريب) est moins détaché que **le voyageur de passage** ('ābiru sabīl).
+
+L'étranger peut rester longtemps, le voyageur ne fait que traverser.
+
+---
+
+## 📚 Explication Détaillée (الشرح المفصل)
+
+### 🔷 Le Geste du Prophète ﷺ
+
+Le Prophète ﷺ a pris Ibn 'Umar par l'épaule (أَخَذَ بِمَنْكِبِي). Ce geste indique :
+
+| Signification | Explication |
+|---------------|-------------|
+| **Importance** | Ce conseil est capital |
+| **Affection** | Proximité et bienveillance |
+| **Attention** | « Écoute bien ce que je vais te dire » |
+| **Transmission** | Comme un père à son fils |
+
+### 🔷 Les Deux Images
+
+| Image | Caractéristiques | Application |
+|-------|------------------|-------------|
+| **L'étranger (غَرِيب)** | Ne connaît pas les gens, pas d'attaches, nostalgique de sa patrie | Le croyant est nostalgique du Paradis |
+| **Le voyageur (عَابِرُ سَبِيل)** | Ne s'installe pas, prend le strict nécessaire, toujours en mouvement | Le croyant ne s'attache pas au dunya |
+
+### 🔷 Le Commentaire d'Ibn 'Umar
+
+| Conseil | Signification Profonde |
+|---------|------------------------|
+| **« N'attends pas le matin »** | La mort peut venir cette nuit |
+| **« N'attends pas le soir »** | La mort peut venir aujourd'hui |
+| **« Prends de ta santé pour ta maladie »** | Profite de ta force pour adorer avant de tomber malade |
+| **« Prends de ta vie pour ta mort »** | Prépare ta rencontre avec Allah maintenant |
+
+### 🔷 Les Leçons Tirées (الفوائد المستنبطة)
+
+| # | Leçon | Explication |
+|---|-------|-------------|
+| 1️⃣ | **Le dunya est temporaire** | Nous ne sommes que de passage |
+| 2️⃣ | **Le cœur doit être détaché** | Posséder sans être possédé |
+| 3️⃣ | **Vivre chaque jour pleinement** | Comme si c'était le dernier |
+| 4️⃣ | **Se préparer pour l'au-delà** | La vraie patrie est le Paradis |
+| 5️⃣ | **Court espoir (قصر الأمل)** | Ne pas reporter les bonnes actions |
+
+---
+
+## 🕌 Avis des Madhahib (آراء المذاهب)
+
+### Position sur le Zuhd (Détachement)
+
+| Madhab | Position | Référence |
+|--------|----------|-----------|
+| 🟢 **Hanafi** | Le zuhd est dans le cœur, pas dans l'apparence | *Al-Hidayah* |
+| 🟡 **Maliki** | Le détachement n'interdit pas les biens licites | *Al-Mudawwana* |
+| 🔵 **Shafi'i** | Le zuhd est de ne pas se réjouir de ce qu'on a ni s'attrister de ce qu'on perd | *Al-Umm* |
+| 🟣 **Hanbali** | C'est de délaisser ce qui ne bénéficie pas pour l'au-delà | *Madarij As-Salikin* |
+
+> **Définition du Zuhd selon les savants** : Ce n'est PAS de tout rejeter, mais de ne pas laisser le dunya occuper le cœur.
+
+---
+
+## 📖 Preuves Complémentaires (الشواهد)
+
+### Du Coran (من القرآن)
+
+#### 1. La nature du dunya
+
+> **﴿ اعْلَمُوا أَنَّمَا الْحَيَاةُ الدُّنْيَا لَعِبٌ وَلَهْوٌ وَزِينَةٌ وَتَفَاخُرٌ بَيْنَكُمْ ﴾**
 >
-> **« كُنْ فِي الدُّنْيَا كَأَنَّكَ غَرِيبٌ، أَوْ عَابِرُ سَبِيلٍ »**
+> *« Sachez que la vie d'ici-bas n'est que jeu, divertissement, parure et rivalité entre vous. »*
 >
-> **وَكَانَ ابْنُ عُمَرَ يَقُولُ: « إِذَا أَمْسَيْتَ فَلاَ تَنْتَظِرِ الصَّبَاحَ، وَإِذَا أَصْبَحْتَ فَلاَ تَنْتَظِرِ الْمَسَاءَ، وَخُذْ مِنْ صِحَّتِكَ لِمَرَضِكَ، وَمِنْ حَيَاتِكَ لِمَوْتِكَ »**
+> — **[Al-Hadid : 20]**
+
+#### 2. La comparaison avec le voyage
+
+> **﴿ وَمَا الْحَيَاةُ الدُّنْيَا إِلَّا مَتَاعُ الْغُرُورِ ﴾**
 >
-> *« Sois dans ce monde comme un étranger ou un voyageur de passage. »*
-> 
-> *Et Ibn 'Umar disait : « Si tu arrives au soir, n'attends pas le matin, et si tu arrives au matin, n'attends pas le soir. Prends de ta santé pour ta maladie, et de ta vie pour ta mort. »*
+> *« Et la vie d'ici-bas n'est que jouissance trompeuse. »*
 >
-> — **[Al-Bukhari (6416)]**
+> — **[Al-Hadid : 20]**
 
----
+#### 3. L'au-delà est meilleur
 
-## Introduction
+> **﴿ وَالْآخِرَةُ خَيْرٌ وَأَبْقَىٰ ﴾**
+>
+> *« Alors que l'au-delà est meilleur et plus durable. »*
+>
+> — **[Al-A'la : 17]**
 
-Dans un monde de **consommation**, de **Black Friday**, de **course aux likes** et de **matérialisme**, ce hadith est un appel au réveil. Le Prophète ﷺ nous rappelle notre vraie nature : nous ne sommes que de passage.
+### De la Sunna (من السنة)
 
-C'est un hadith contre **l'attachement excessif** au dunya.
+#### Hadith de la comparaison au cavalier
 
----
+> **« مَا لِي وَلِلدُّنْيَا، مَا أَنَا فِي الدُّنْيَا إِلَّا كَرَاكِبٍ اسْتَظَلَّ تَحْتَ شَجَرَةٍ، ثُمَّ رَاحَ وَتَرَكَهَا »**
+>
+> *« Qu'ai-je à voir avec le monde ? Je ne suis dans ce monde que comme un cavalier qui s'est abrité à l'ombre d'un arbre, puis est reparti en le laissant. »*
+>
+> — **[At-Tirmidhi (2377) et Ibn Majah (4109)]**
 
-## 1. Explication du Hadith
-
-### 1.1 Le Geste du Prophète ﷺ
-
-Le Prophète ﷺ a pris Ibn 'Umar par l'épaule. Ce geste indique :
-
-- **Importance** du conseil
-- **Affection** et proximité
-- **Attention** qu'il faut y prêter
-
-### 1.2 Les Deux Images
-
-| Image | Signification |
-|-------|---------------|
-| **L'étranger (غَرِيب)** | Quelqu'un qui ne connaît pas bien le lieu, qui n'y a pas d'attaches profondes |
-| **Le voyageur de passage (عَابِرُ سَبِيل)** | Quelqu'un qui traverse, qui ne s'installe pas |
-
-Le voyageur de passage est **encore plus détaché** que l'étranger.
-
-### 1.3 Le Commentaire d'Ibn 'Umar
-
-Ibn 'Umar رضي الله عنهما a parfaitement compris et a ajouté des conseils pratiques :
-
-| Conseil | Signification |
-|---------|---------------|
-| « N'attends pas le matin » | La mort peut venir cette nuit |
-| « N'attends pas le soir » | La mort peut venir aujourd'hui |
-| « Prends de ta santé pour ta maladie » | Profite de ta force pour adorer |
-| « Prends de ta vie pour ta mort » | Prépare ta rencontre avec Allah |
-
----
-
-## 2. Ce que ce Hadith N'est PAS
-
-### Clarifications Importantes
-
-| Fausse interprétation | Vérité |
-|-----------------------|--------|
-| « Ne travaille pas, ne gagne pas d'argent » | Le Prophète ﷺ travaillait et encourageait le travail |
-| « Ne te marie pas, n'aie pas de famille » | Le mariage est Sunna |
-| « Vis dans la pauvreté » | La richesse n'est pas interdite si bien acquise |
-| « Ne profite de rien » | Les plaisirs licites sont permis |
-
-**Le hadith parle du CŒUR, pas du mode de vie extérieur.**
-
----
-
-## 3. Les Caractéristiques de l'Étranger
-
-### 3.1 Comment vit un étranger/voyageur ?
-
-| Comportement | Application spirituelle |
-|--------------|------------------------|
-| Ne s'attache pas aux biens | Ton cœur n'est pas esclave des possessions |
-| Prend le nécessaire | Pas d'accumulation excessive |
-| Pense au retour (chez lui) | Pense à l'au-delà |
-| N'entre pas dans les disputes locales | Évite les fitnas de ce monde |
-| Voyage léger | Vie simple |
-
-### 3.2 Ce que l'étranger NE fait PAS
-
-| Comportement à éviter | En pratique |
-|-----------------------|-------------|
-| Construire des palais | Course au luxe et au statut |
-| S'enraciner profondément | Oublier l'au-delà |
-| Se disputer pour des terres | Conflits pour le dunya |
-| Accumuler ce qu'il ne peut emporter | Thésauriser sans limite |
-
----
-
-## 4. Application Moderne 📱
-
-### 4.1 Face au Consumérisme
-
-| Piège moderne | Pensée de l'étranger |
-|---------------|---------------------|
-| **Black Friday** | « Ai-je vraiment besoin de ça ? » |
-| **Dernier iPhone** | « Mon téléphone actuel fonctionne » |
-| **Voiture de luxe** | « Elle m'emmène du point A au B » |
-| **Grande maison** | « Combien de pièces j'utilise vraiment ? » |
-| **Vêtements de marque** | « C'est pour impressionner qui ? » |
-
-### 4.2 Face aux Réseaux Sociaux
-
-| Piège moderne | Pensée de l'étranger |
-|---------------|---------------------|
-| **Course aux likes** | « Je ne suis que de passage ici » |
-| **Comparaison aux autres** | « Leur dunya ne m'intéresse pas » |
-| **FOMO (peur de manquer)** | « L'au-delà m'attend » |
-| **Image parfaite** | « Seul Allah connaît ma réalité » |
-| **Influenceurs lifestyle** | « Ce n'est pas ma destination » |
-
-### 4.3 Face à l'Anxiété Professionnelle
-
-| Anxiété | Pensée de l'étranger |
-|---------|---------------------|
-| « Je dois grimper les échelons » | « Mon vrai succès est auprès d'Allah » |
-| « Si je perds mon job... » | « Ce n'est qu'une étape du voyage » |
-| « Je dois tout avoir avant 30 ans » | « Je prépare mon éternité » |
-
----
-
-## 5. L'Équilibre : Vivre dans le Dunya sans y être Attaché
-
-### 5.1 Le Modèle du Prophète ﷺ
-
-Le Prophète ﷺ :
-
-- **Possédait** des biens mais **donnait** énormément
-- **Était marié** mais **priorisait** l'adoration
-- **Mangeait** mais souvent **jeûnait**
-- **Travaillait** mais pour **Allah**
-
-### 5.2 L'Équilibre Pratique
-
-| Domaine | Attachement ❌ | Détachement ✅ |
-|---------|---------------|----------------|
-| Argent | « C'est MA richesse » | « Je suis un gestionnaire pour Allah » |
-| Maison | « Je vis pour ma maison » | « C'est un abri temporaire » |
-| Travail | « Mon identité = mon job » | « C'est un moyen, pas une fin » |
-| Famille | « Je ne peux vivre sans eux » | « Ils sont un amanah d'Allah » |
-
-### 5.3 Le Cœur Libre
-
-Un savant a dit :
-
-> *« Le zuhd (détachement) n'est pas de ne rien posséder, mais de ne rien laisser te posséder. »*
-
----
-
-## 6. Préparer sa Mort : Les Conseils d'Ibn 'Umar
-
-### 6.1 « Prends de ta santé pour ta maladie »
-
-| Quand tu es en bonne santé | Ce que tu dois faire |
-|---------------------------|---------------------|
-| Tu peux prier debout | Profites-en au maximum |
-| Tu peux jeûner | Multiplie les jeûnes surérogatoires |
-| Tu peux travailler | Gagne halal et donne en charité |
-| Tu peux lire le Coran | Mémorise, étudie |
-| Tu peux faire le Hajj | Ne repousse pas |
-
-### 6.2 « Prends de ta vie pour ta mort »
-
-| Ce que tu dois préparer | Comment |
-|------------------------|---------|
-| Tes bonnes œuvres | Constance dans les adorations |
-| Tes relations | Pardonner, se réconcilier |
-| Tes biens | Testament, sadaqa jariya |
-| Ta famille | Les éduquer sur le dîn |
-
----
-
-## 7. Les 5 Avant les 5
-
-Le Prophète ﷺ a dit :
+#### Hadith des cinq avant cinq
 
 > **« اغْتَنِمْ خَمْسًا قَبْلَ خَمْسٍ: شَبَابَكَ قَبْلَ هَرَمِكَ، وَصِحَّتَكَ قَبْلَ سَقَمِكَ، وَغِنَاكَ قَبْلَ فَقْرِكَ، وَفَرَاغَكَ قَبْلَ شُغْلِكَ، وَحَيَاتَكَ قَبْلَ مَوْتِكَ »**
 >
 > *« Profite de cinq avant cinq : ta jeunesse avant ta vieillesse, ta santé avant ta maladie, ta richesse avant ta pauvreté, ton temps libre avant ton occupation, et ta vie avant ta mort. »*
-> — [Al-Hakim, authentifié]
+>
+> — **[Al-Hakim, authentifié par Al-Albani]**
 
 ---
 
-## 8. Action Concrète
+## 🌍 Applications Modernes (التطبيقات المعاصرة)
 
-### Défi de la Semaine
+### 📱 Face au Matérialisme Moderne
 
-**Chaque matin, dis-toi :**
+| Situation | ❌ Attachement Excessif | ✅ Attitude de l'Étranger |
+|-----------|------------------------|--------------------------|
+| **Dernier iPhone** | Attendre des heures, s'endetter | Utiliser ce qui suffit, sans obsession |
+| **Black Friday** | Acheter l'inutile car « c'est en promo » | N'acheter que le nécessaire |
+| **Réseaux sociaux** | Être esclave des likes et followers | Utiliser avec modération pour le bien |
+| **Carrière** | Sacrifier famille et santé pour la réussite | Travailler dignement, sans perdre l'essentiel |
 
-> *« Aujourd'hui, je suis un voyageur. Qu'est-ce qui compte vraiment ? »*
+### 🏠 Dans la Vie Quotidienne
 
-### Exercice Pratique
+| Domaine | Attachement Excessif | Détachement Sain |
+|---------|---------------------|------------------|
+| **Maison** | Décoration excessive, toujours insatisfait | Un foyer confortable et fonctionnel |
+| **Voiture** | Dernier modèle, crédit énorme | Ce qui répond au besoin |
+| **Vêtements** | Marques, mode, collection | Vêtements décents et suffisants |
+| **Nourriture** | Gaspillage, excès | Manger pour vivre, pas vivre pour manger |
 
-Fais une liste :
+### 💔 Ce que ce Hadith N'est PAS
 
-| Colonne 1 | Colonne 2 |
-|-----------|-----------|
-| **Ce que j'emporterai dans ma tombe** | **Ce que je laisserai derrière** |
-| Mes prières | Ma voiture |
-| Ma charité | Mon compte Instagram |
-| Mon Coran | Mes vêtements de marque |
-| Ma patience | Ma maison |
+| Fausse Interprétation | Vérité |
+|-----------------------|--------|
+| « Ne travaille pas » | Le Prophète ﷺ travaillait et encourageait le travail |
+| « Ne te marie pas » | Le mariage est Sunna fortement recommandée |
+| « Vis dans la pauvreté » | La richesse licite n'est pas interdite |
+| « Ne profite de rien » | Les plaisirs licites sont permis |
 
----
-
-## Résumé
-
-| Point Clé | Leçon |
-|-----------|-------|
-| **1** | Ce monde n'est qu'un lieu de passage |
-| **2** | L'étranger ne s'attache pas profondément |
-| **3** | Détachement du cœur, pas du mode de vie |
-| **4** | Profite de ta santé et jeunesse pour l'au-delà |
-| **5** | Possède les biens, ne les laisse pas te posséder |
-| **6** | Prépare ta mort chaque jour |
+> **Le hadith parle du CŒUR, pas du mode de vie extérieur.**
 
 ---
 
-## Sources
+## ⚠️ Erreurs à Éviter (المحاذير)
 
-- **Sahih Al-Bukhari** - Hadith n°6416
-- **Jami' Al-'Ulum wal-Hikam** - Ibn Rajab Al-Hanbali
-- **Az-Zuhd** - Imam Ahmad
-- **Madarij As-Salikin** - Ibn Al-Qayyim
+### 🚨 Extrêmes à Éviter
+
+| Extrême | Problème | Équilibre |
+|---------|----------|-----------|
+| **Rahbaniyah (monachisme)** | Interdit en Islam, rejette le licite | Profiter du licite sans s'y attacher |
+| **Matérialisme** | Le cœur est esclave du dunya | Posséder sans être possédé |
+| **Négligence des responsabilités** | Sous prétexte de zuhd | Travailler, subvenir aux besoins de sa famille |
+| **Tristesse permanente** | Croire que le détachement = dépression | Le croyant est joyeux mais pas attaché |
+
+### 🔴 Signes d'Attachement Excessif
+
+| Signe | Question à se Poser |
+|-------|---------------------|
+| **Tristesse excessive lors d'une perte** | Est-ce que je pleure plus pour le dunya que pour mes péchés ? |
+| **Joie excessive lors d'un gain** | Est-ce que le dunya me fait oublier le shukr ? |
+| **Sacrifice de l'ibadah pour le dunya** | Ai-je raté des prières pour le travail ? |
+| **Pensées constantes sur les possessions** | À quoi je pense le plus ? |
+
+---
+
+## ❓ Questions Fréquentes
+
+### « Comment être détaché tout en travaillant et gagnant de l'argent ? »
+
+| Niveau | Explication |
+|--------|-------------|
+| **La main** | Peut tenir les biens du monde |
+| **Le cœur** | Ne doit pas être attaché à ces biens |
+
+> *Al-Hasan Al-Basri* رحمه الله a dit : « Le dirham dans la main ne nuit pas, mais le dirham dans le cœur détruit. »
+
+### « Le Prophète ﷺ et les Sahaba étaient-ils pauvres par choix ? »
+
+Non ! Beaucoup de Compagnons étaient riches :
+- **Uthman ibn 'Affan** رضي الله عنه : Très riche, très généreux
+- **Abdurrahman ibn 'Awf** رضي الله عنه : Riche commerçant
+- **Khadija** رضي الله عنها : Femme d'affaires prospère
+
+Leur richesse était **dans leurs mains, pas dans leurs cœurs**.
+
+### « Comment appliquer ce hadith concrètement ? »
+
+| Étape | Action |
+|-------|--------|
+| 1️⃣ | **Évaluation** : Liste tes attachements (objets, statut, argent) |
+| 2️⃣ | **Test** : Comment réagirais-tu si tu les perdais ? |
+| 3️⃣ | **Sadaqa** : Donne régulièrement pour détacher ton cœur |
+| 4️⃣ | **Rappel de la mort** : Visite les cimetières, pense à ta fin |
+| 5️⃣ | **Priorités** : Mets l'au-delà avant le dunya dans tes choix |
+
+---
+
+## 🎯 Action Concrète
+
+### 📌 Défi de la Semaine
+
+**Pendant 7 jours :**
+
+| Jour | Action |
+|------|--------|
+| **Jour 1** | Identifie un objet auquel tu es trop attaché |
+| **Jour 2** | Donne quelque chose que tu aimes en sadaqa |
+| **Jour 3** | Visite un cimetière et médite sur la mort |
+| **Jour 4** | Jeûne un jour (pour réduire l'attachement aux plaisirs) |
+| **Jour 5** | Fais une liste de tes vraies priorités |
+| **Jour 6** | Limite ton temps sur les réseaux sociaux à 30 min |
+| **Jour 7** | Écris une lettre à toi-même comme si c'était ton dernier jour |
+
+### 📝 Test de l'Étranger
+
+Pose-toi ces questions honnêtement :
+
+| Question | Réponse Honnête |
+|----------|-----------------|
+| Si je perdais mon téléphone, comment réagirais-je ? | |
+| Si je devais quitter ma maison demain, que prendrais-je ? | |
+| Combien de temps par jour je pense à l'au-delà vs le dunya ? | |
+| Quand ai-je pleuré pour la dernière fois pour mes péchés ? | |
+
+### 📝 Invocation
+
+> **اللَّهُمَّ اجْعَلِ الدُّنْيَا فِي يَدِي وَلَا تَجْعَلْهَا فِي قَلْبِي، وَاجْعَلِ الْآخِرَةَ أَكْبَرَ هَمِّي**
+>
+> *« Ô Allah, mets le dunya dans ma main et non dans mon cœur, et fais de l'au-delà ma plus grande préoccupation. »*
+
+---
+
+## 📝 Résumé des Points Clés
+
+| # | Point Clé |
+|---|-----------|
+| 1️⃣ | Le croyant vit dans ce monde comme un étranger ou un voyageur |
+| 2️⃣ | Le détachement est dans le cœur, pas dans le mode de vie |
+| 3️⃣ | Posséder est permis, être possédé est le problème |
+| 4️⃣ | Vivre chaque jour comme si c'était le dernier |
+| 5️⃣ | La vraie patrie du croyant est le Paradis |
+| 6️⃣ | Le court espoir (قصر الأمل) pousse à l'action |
+
+---
+
+## 📚 Sources et Références
+
+| Ouvrage | Auteur |
+|---------|--------|
+| **Sahih Al-Bukhari** | Imam Al-Bukhari |
+| **Jami' Al-'Ulum wal-Hikam** | Ibn Rajab Al-Hanbali |
+| **Sharh Al-Arba'in An-Nawawiyyah** | Imam An-Nawawi |
+| **Madarij As-Salikin** | Ibn Al-Qayyim |
+| **Az-Zuhd** | Imam Ahmad |
+| **Hilyat Al-Awliya** | Abu Nu'aym |
 
 ---
 
 **والله أعلم**
 
-*« Ô Allah, fais que ce monde soit dans nos mains, pas dans nos cœurs. »*
-`
+*Ô Allah, fais que le dunya soit dans nos mains et non dans nos cœurs, et accorde-nous la vraie patrie au Paradis.*
+
+**اللَّهُمَّ اجْعَلْنَا مِنَ الزَّاهِدِينَ فِي الدُّنْيَا الرَّاغِبِينَ فِي الْآخِرَةِ**
+`;

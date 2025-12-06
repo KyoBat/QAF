@@ -1,191 +1,342 @@
 /**
- * Hadith Essentiels - Leçon 001: Actions According to Intentions
- * English Content
+ * Hadith Sciences - Lesson 001: Actions are by Intentions
+ * English Content - Scholarly and Qualitative Approach
  */
 
-export const content = `# Actions According to Intentions (الأعمال بالنيات)
+export const content = `# 📜 الأعمال بالنيات — Actions are Judged by Intentions
 
-## The Hadith
+> This hadith is the **cornerstone** of the entire religion. Scholars have placed it as an introduction to their works because it is the **criterion for the acceptance of deeds**.
 
-> **On the authority of the Commander of the Faithful, Abu Hafs Umar ibn al-Khattab (may Allah be pleased with him), who said: I heard the Messenger of Allah ﷺ say:**
+---
+
+## 📖 Text of the Hadith (متن الحديث)
+
+### 🔷 Arabic Text with Full Tashkil
+
+On the authority of the Commander of the Faithful, Abu Hafs **'Umar ibn al-Khattab** رضي الله عنه who said:
+
+I heard the Messenger of Allah ﷺ say:
+
+**« إِنَّمَا الأَعْمَالُ بِالنِّيَّاتِ، وَإِنَّمَا لِكُلِّ امْرِئٍ مَا نَوَى.**
+
+**فَمَنْ كَانَتْ هِجْرَتُهُ إِلَى اللَّهِ وَرَسُولِهِ، فَهِجْرَتُهُ إِلَى اللَّهِ وَرَسُولِهِ.**
+
+**وَمَنْ كَانَتْ هِجْرَتُهُ لِدُنْيَا يُصِيبُهَا، أَوِ امْرَأَةٍ يَنْكِحُهَا، فَهِجْرَتُهُ إِلَى مَا هَاجَرَ إِلَيْهِ. »**
+
+### 🔷 Precise Translation
+
+> *"Actions are only judged by intentions, and each person will only receive what they truly intended.*
 >
-> **"Actions are but by intentions, and every person will have only what they intended. So whoever's emigration was for Allah and His Messenger, then his emigration was for Allah and His Messenger. And whoever's emigration was for worldly gain or to marry a woman, then his emigration was for what he emigrated for."**
+> *Whoever's migration was for Allah and His Messenger, their migration is for Allah and His Messenger.*
 >
-> — **[Al-Bukhari (1) and Muslim (1907)]**
+> *And whoever's migration was for worldly gain they sought to acquire, or a woman they wished to marry, their migration is only towards what they migrated for."*
+
+### 📚 References (التخريج)
+
+| Source | Number | Status |
+|--------|--------|--------|
+| **Sahih Al-Bukhari** | 1, 54, 2529, 3898, 5070, 6689, 6953 | ✅ Sahih |
+| **Sahih Muslim** | 1907 | ✅ Sahih |
+| **Sunan Abu Dawud** | 2201 | ✅ Sahih |
+| **Sunan An-Nasa'i** | 75 | ✅ Sahih |
+| **Sunan Ibn Majah** | 4227 | ✅ Sahih |
+
+> 💡 This hadith is **mutawatir ma'nawi** (concordant in meaning) — reported by over 700 companions according to some scholars.
 
 ---
 
-## Introduction
+## 🎓 Status of this Hadith (منزلة الحديث)
 
-This hadith is considered by scholars as **one of the most important in Islam**. Imam Al-Bukhari placed it first in his Sahih, and Imam Ahmad said: *"Islam rests upon three hadiths"*, mentioning this one first.
+### 📌 Statements of the Scholars
 
-Imam Ash-Shafi'i (may Allah have mercy on him) said:
+| Scholar | Statement |
+|---------|-----------|
+| **Imam Ash-Shafi'i** رحمه الله | *"This hadith represents **one-third of knowledge**, and it enters into **seventy chapters** of fiqh."* |
+| **Imam Ahmad** رحمه الله | *"The foundations of Islam rest upon **three hadiths**: the hadith of intentions, the hadith of 'Whoever innovates...', and the hadith of halal and haram."* |
+| **Imam Al-Bukhari** رحمه الله | He placed it **first** in his Sahih, as the opening of his entire work. |
+| **Imam An-Nawawi** رحمه الله | *"The scholars are **unanimous** on the greatness of this hadith and the abundance of its benefits."* |
+| **Ibn Rajab Al-Hanbali** رحمه الله | *"This hadith is the **criterion for inward actions**, and the hadith rejecting innovation is the criterion for outward actions."* |
 
-> *"This hadith represents one-third of knowledge, and it enters into seventy chapters of fiqh."*
+### 📌 Why is this Hadith so Important?
 
----
-
-## 1. Historical Context
-
-### 1.1 The Occasion of this Hadith
-
-This hadith was pronounced in the context of the **Hijrah** (emigration from Mecca to Medina). Among the Companions who emigrated, most did so sincerely for Allah and His Messenger.
-
-However, there was a man who emigrated to marry a woman named **Umm Qays**. The Companions then called him *"the Muhajir of Umm Qays"* (مهاجر أم قيس).
-
-### 1.2 The Lesson Drawn
-
-The Prophet ﷺ used this occasion to establish a **universal rule**: the value of an act depends on the intention that motivates it.
+1. **Criterion for acceptance**: No deed is accepted without sincere intention
+2. **Foundation of Tawhid**: Worship must be exclusively for Allah
+3. **Protection against Riya'**: The hadith warns against ostentation
+4. **Transformation of daily life**: Habits become worship with the right intention
 
 ---
 
-## 2. Key Vocabulary
+## 🔍 Study of the Narrator (راوي الحديث)
 
-| Arabic Term | Transliteration | Meaning |
-|-------------|-----------------|---------|
-| **الأعمال** | Al-A'mâl | Acts, actions |
-| **النيات** | An-Niyyât | Intentions (plural of نية) |
-| **إنما** | Innamâ | Restrictive particle: "only" |
-| **هجرة** | Hijra | Emigration, migration |
-| **امرئ** | Imri' | Person, individual |
+### 👤 'Umar ibn Al-Khattab رضي الله عنه
 
----
+| Element | Detail |
+|---------|--------|
+| **Full Name** | عُمَر بن الخطَّاب بن نُفَيل القُرَشي العَدَوي |
+| **Kunya** | Abu Hafs |
+| **Title** | Amir al-Mu'minin — Commander of the Faithful |
+| **Other Title** | Al-Faruq — The one who distinguishes truth from falsehood |
+| **Rank** | 2nd Rightly-Guided Caliph |
+| **Accepted Islam** | 6th year of Prophethood |
+| **Death** | 23 AH — Martyred |
+| **Hadiths Narrated** | 539 hadiths |
 
-## 3. Scholars' Explanations
-
-### 3.1 Imam An-Nawawi (may Allah have mercy on him)
-
-In his commentary on the 40 hadiths:
-
-> *"This hadith is a great principle of Islam and one of its pillars. It alone constitutes a fundamental basis of the religion. Scholars are unanimous on its greatness and the abundance of its benefits."*
-
-### 3.2 Ibn Rajab Al-Hanbali (may Allah have mercy on him)
-
-In his book *Jami' Al-'Ulum wal-Hikam*:
-
-> *"This hadith is the criterion for apparent actions, and the hadith 'Whoever innovates in our matter...' is the criterion for actions according to conformity to the Sunnah. Every act must therefore meet two conditions: sincerity and conformity."*
+> The Prophet ﷺ said: **"لَوْ كَانَ نَبِيٌّ بَعْدِي لَكَانَ عُمَرَ"** — *"If there were a prophet after me, it would be 'Umar."* [At-Tirmidhi]
 
 ---
 
-## 4. Lessons from the Hadith (الفوائد)
+## 📚 Linguistic Analysis (التحليل اللغوي)
 
-### 4.1 Intention is the condition for validity
+### 🔤 Key Vocabulary
 
-Every act of worship requires an intention to be valid:
+| Term | Arabic | Root | Meaning |
+|------|--------|------|---------|
+| **Innama** | إنَّما | — | Particle of restriction: "only", "none but" |
+| **Al-A'mal** | الأَعْمَال | ع م ل | Actions, deeds (outward and inward) |
+| **An-Niyyat** | النِّيَّات | ن و ي | Intentions (plural of niyyah) |
+| **Imri'** | امْرِئ | م ر ء | Person, individual |
+| **Al-Hijrah** | الهِجْرَة | ه ج ر | Migration, emigration |
+| **Ad-Dunya** | الدُّنْيَا | د ن و | This worldly life |
 
-| Act | Without Intention | With Intention |
-|-----|-------------------|----------------|
-| Prayer | Meaningless movements | Accepted worship |
-| Fasting | Simple abstention | Rewarded worship |
-| Charity | Ordinary gift | Rewarded Sadaqa |
-| Wudu | Body washing | Ritual purification |
+### 🔍 Grammatical Analysis (الإعراب)
 
-### 4.2 Intention determines the reward
+| Segment | Analysis |
+|---------|----------|
+| **إنَّما** | Restrictive particle (كافة ومكفوفة) |
+| **الأعمالُ** | Subject (مبتدأ مرفوع) |
+| **بالنِّيَّاتِ** | Prepositional phrase linked to an implied predicate ("counted", "accepted") |
 
-The same act can have different rewards depending on the intention:
+### 💡 Rhetorical Point (Balaghah)
 
-| Act | Intention | Reward |
-|-----|-----------|--------|
-| Eating | Personal pleasure | None |
-| Eating | Strengthening oneself to worship Allah | Reward |
-| Sleeping | Rest | None |
-| Sleeping | Resting to pray at night | Reward |
-| Working | Earning money | No spiritual reward |
-| Working | Providing for family for Allah's sake | Great reward |
-
----
-
-## 5. Modern Application 📱
-
-### 5.1 Social Media and Intentions
-
-This hadith has direct application to our online behavior:
-
-| Action | For Allah ✅ | Worldly Intention ❌ |
-|--------|-------------|---------------------|
-| Posting an Islamic reminder | Guiding people to good | Getting likes and followers |
-| Sharing a good deed | Encouraging others | Showing off piety (الرياء) |
-| Learning Islam online | Getting closer to Allah | Debating and impressing |
-| Donating to a fundraiser | Helping for Allah's sake | Being publicly thanked |
-
-### 5.2 At Work
-
-| Situation | Transforming Intention |
-|-----------|------------------------|
-| Going to work | "I will provide for my family in a halal way" |
-| Treating a customer well | "I represent Islamic values" |
-| Not stealing/cheating | "Allah sees me even if no one else does" |
-
-### 5.3 With Family
-
-| Situation | Transforming Intention |
-|-----------|------------------------|
-| Cooking for family | "I feed my family for Allah's sake" |
-| Playing with children | "This is a right they have over me, commanded by Allah" |
-| Supporting parents | "This is birr al-walidayn, one of the best acts of worship" |
+The use of **"إنَّما"** (restrictive particle) indicates that:
+- Actions have value **ONLY** through intentions
+- Without intention, the deed is **null and void**
+- The restriction is **absolute**
 
 ---
 
-## 6. Traps to Avoid
+## 📖 Detailed Explanation (الشرح المفصل)
 
-### 6.1 Showing Off (الرياء)
+### 1️⃣ "إِنَّمَا الأَعْمَالُ بِالنِّيَّاتِ"
+
+#### Definition of Intention (النية)
+
+| Aspect | Explanation |
+|--------|-------------|
+| **Linguistically** | القصد — The aim, the purpose |
+| **Legally** | The heart's determination to perform an act of worship seeking closeness to Allah |
+| **Location** | The heart (not the tongue) |
+
+#### ⚠️ Pronouncing the Intention (التلفظ بالنية)
+
+| School | Ruling |
+|--------|--------|
+| 🟡 **Maliki** | ❌ **Bid'ah** — Pronouncing is not legislated |
+| 🟢 **Hanafi** | ⚪ Permissible but not recommended |
+| 🔵 **Shafi'i** | ⚪ Recommended by some to help concentration |
+| 🟣 **Hanbali** | ❌ Not legislated |
+
+> **Strongest opinion**: The intention is in the **heart**, not on the tongue. The Prophet ﷺ never pronounced his intention aloud.
+
+### 2️⃣ "وَإِنَّمَا لِكُلِّ امْرِئٍ مَا نَوَى"
+
+This statement establishes:
+
+| Principle | Explanation |
+|-----------|-------------|
+| **Personal reward** | Each person is rewarded according to **their own** intention |
+| **No transfer** | One cannot have another's intention |
+| **Individual responsibility** | Allah judges hearts, not appearances |
+
+> Allah تعالى says: **﴿ وَأَن لَّيْسَ لِلْإِنسَانِ إِلَّا مَا سَعَىٰ ﴾** — *"Man receives only what he strives for"* [An-Najm: 39]
+
+### 3️⃣ The Example of Hijrah (التمثيل بالهجرة)
+
+The Prophet ﷺ gives a concrete example:
+
+| Type of Migration | Intention | Result |
+|-------------------|-----------|--------|
+| **Hijrah for Allah** | To Allah and His Messenger | ✅ Immense reward, accepted deed |
+| **Hijrah for Dunya** | For worldly gain | ❌ No spiritual reward |
+| **Hijrah for marriage** | For a woman to marry | ❌ No reward of Hijrah |
+
+#### 📜 The Story of "Muhajir Umm Qays"
+
+Among those who emigrated from Mecca to Medina, there was a man who emigrated not for Allah, but to marry a woman named **Umm Qays**.
+
+The Companions رضي الله عنهم called him: **"مُهَاجِر أُمِّ قَيْس"** — The Muhajir of Umm Qays.
+
+> This was not a sin (marriage is permissible), but he **lost the immense reward** of sincere Hijrah.
+
+---
+
+## 📋 Legal Rules Derived (الفوائد الفقهية)
+
+### ✅ Rule 1: Intention is a condition for validity
+
+| Act of Worship | Without Intention | With Intention |
+|----------------|-------------------|----------------|
+| **Salat** | Mere bodily movements | ✅ Accepted prayer |
+| **Siyam** | Simple food abstention | ✅ Valid fast |
+| **Wudu** | Ordinary washing | ✅ Ritual purification |
+| **Zakat** | Ordinary charity | ✅ Pillar fulfilled |
+| **Hajj** | Tourist trip | ✅ Accepted pilgrimage |
+
+### ✅ Rule 2: Intention distinguishes between acts of worship
+
+| Example | Intention Required |
+|---------|-------------------|
+| 2 rak'ahs in the morning | Is it Fajr? Duha? Tahiyyat al-Masjid? |
+| Fasting on Monday | Is it make-up? Sunnah? Expiation? |
+| Giving money | Is it Zakat? Sadaqah? Kaffarah? |
+
+### ✅ Rule 3: Intention distinguishes worship from habit
+
+| Action | As Habit | As Worship |
+|--------|----------|------------|
+| **Eating** | For pleasure | To gain strength to worship Allah |
+| **Sleeping** | For rest | Sleeping early to pray Qiyam |
+| **Working** | To earn money | Providing for family = Sadaqah |
+| **Marital relations** | For pleasure | Rewarded if done lawfully |
+
+> The Prophet ﷺ said: **"وَفِي بُضْعِ أَحَدِكُمْ صَدَقَةٌ"** — *"In the intimate act of one of you with his spouse, there is charity."* [Muslim]
+
+---
+
+## 🌍 Modern Applications (التطبيقات المعاصرة)
+
+### 📱 Social Media and Intention
+
+| Action | ✅ Sincere Intention | ❌ Corrupted Intention |
+|--------|---------------------|----------------------|
+| Posting an Islamic reminder | Guiding towards good | Seeking likes and followers |
+| Sharing a good deed | Encouraging others | Riya' — Showing off piety |
+| Learning Islam online | Getting closer to Allah | Impressing in debates |
+| Donating live on stream | Inspiring generosity | Seeking public praise |
+
+### 💼 At Work
+
+| Situation | 🔄 Transforming Intention |
+|-----------|--------------------------|
+| Going to work | *"I am providing for my family through halal means"* |
+| Serving a client well | *"I represent Islamic ethics"* |
+| Not cheating | *"Allah sees me, even if no one else does"* |
+| Excellence in craft | *"Excellence (Itqan) is beloved to Allah"* |
+
+### 👨‍👩‍👧‍👦 In the Family
+
+| Situation | 🔄 Transforming Intention |
+|-----------|--------------------------|
+| Cooking for family | *"I am feeding my family for Allah"* |
+| Playing with children | *"This is a right they have, commanded by Allah"* |
+| Being patient with parents | *"Birr al-walidayn is the best worship after prayer"* |
+| Being good to spouse | *"The best of you is the best to his family"* |
+
+### 🎓 In Studies
+
+| Action | ✅ Correct Intention |
+|--------|---------------------|
+| Studying medicine | *"To heal Muslims and serve humanity for Allah"* |
+| Learning Arabic | *"To understand the Quran and Sunnah"* |
+| Passing exams | *"To be useful to my community"* |
+
+---
+
+## ⚠️ Pitfalls to Avoid (المحاذير)
+
+### 🚨 Ostentation (الرياء) — The Hidden Shirk
 
 The Prophet ﷺ said:
 
-> **"What I fear most for you is the minor shirk."** They asked: "What is minor shirk?" He said: **"Showing off (الرياء)."**
+> **"إِنَّ أَخْوَفَ مَا أَخَافُ عَلَيْكُمْ الشِّرْكُ الأَصْغَرُ"**
+
+*"What I fear most for you is the minor shirk."*
+
+They asked: "What is it?" He said: **"الرِّيَاءُ"** — *"Ostentation."* [Ahmad]
+
+### 📋 Signs of Ostentation
+
+| Sign | Description |
+|------|-------------|
+| 🔴 | You act **differently** when alone vs. when observed |
+| 🔴 | You feel **disappointed** if no one notices your good deed |
+| 🔴 | You **post** your acts of worship on social media |
+| 🔴 | You **mention** your good deeds in conversations |
+
+### 💊 The Remedy
+
+| Step | Action |
+|------|--------|
+| 1️⃣ | **Remember** that Allah knows what is in the hearts |
+| 2️⃣ | **Hide** your good deeds as much as possible |
+| 3️⃣ | **Invoke** Allah for sincerity |
+| 4️⃣ | **Act** the same way in private and in public |
+
+---
+
+## ❓ Frequently Asked Questions
+
+### "Should I renew my intention during the act?"
+
+**No**, the intention at the beginning is sufficient. However, **reinforcing it** during the act is recommended.
+
+### "What if multiple intentions mix?"
+
+| Case | Ruling |
+|------|--------|
+| Primary intention for Allah + secondary worldly intention | ⚠️ Valid but reward diminished |
+| Primary worldly intention | ❌ Deed not accepted |
+| Multiple intentions all for Allah | ✅ Reward multiplied |
+
+### "Should I pronounce my intention?"
+
+**No** — The intention is in the heart. The Prophet ﷺ never pronounced his intention aloud.
+
+---
+
+## 🎯 Practical Action
+
+### 📌 Weekly Challenge
+
+**Before every action, ask yourself:**
+
+> **"لِمَنْ أَعْمَلُ هَذَا؟"** — *"For whom am I doing this?"*
+
+### 📝 Du'a for Sincerity
+
+> **اللَّهُمَّ إِنِّي أَعُوذُ بِكَ أَنْ أُشْرِكَ بِكَ وَأَنَا أَعْلَمُ، وَأَسْتَغْفِرُكَ لِمَا لَا أَعْلَمُ**
 >
-> — [Ahmad, authenticated by Al-Albani]
-
-### 6.2 Signs of Showing Off
-
-- ✅ You act differently when alone vs. when observed
-- ✅ You're disappointed if no one notices your good deed
-- ✅ You post your acts of worship on social media
-- ✅ You mention your good deeds in conversations
+> *"O Allah, I seek refuge in You from associating anything with You knowingly, and I seek Your forgiveness for what I do unknowingly."*
 
 ---
 
-## 7. Practical Action 🎯
+## 📝 Summary of Key Points
 
-### Challenge of the Week
-
-**Before each daily action, ask yourself:**
-
-> *"Who am I doing this for?"*
-
-| Moment | Question to Ask |
-|--------|-----------------|
-| Before posting on social media | "Is this for Allah or for likes?" |
-| Before helping someone | "Is this for Allah or to be thanked?" |
-| Before praying | "Is this out of habit or love for Allah?" |
-| Before learning | "Is this to get closer to Allah or to impress?" |
+| # | Key Point |
+|---|-----------|
+| 1️⃣ | Every deed requires an intention to be valid |
+| 2️⃣ | Reward depends on the sincerity of intention |
+| 3️⃣ | Habits become worship with the right intention |
+| 4️⃣ | Ostentation nullifies the reward |
+| 5️⃣ | Intention is in the heart, not on the tongue |
 
 ---
 
-## Summary
+## 📚 Sources and References
 
-| Key Point | Lesson |
-|-----------|--------|
-| **1** | Every act needs an intention to be valid |
-| **2** | The reward depends on the sincerity of intention |
-| **3** | Habits can become worship with the right intention |
-| **4** | Showing off (riya) nullifies the reward |
-| **5** | Intention is in the heart, not on the tongue |
-| **6** | Regularly question your intentions |
-
----
-
-## Sources
-
-- **Sahih Al-Bukhari** - Hadith #1
-- **Sahih Muslim** - Hadith #1907
-- **Jami' Al-'Ulum wal-Hikam** - Ibn Rajab Al-Hanbali
-- **Fath Al-Bari** - Ibn Hajar Al-Asqalani
-- **Sharh Al-Arba'in An-Nawawiyyah** - Imam An-Nawawi
+| Book | Author |
+|------|--------|
+| **Sahih Al-Bukhari** — Hadith #1 | Imam Al-Bukhari |
+| **Sahih Muslim** — Hadith #1907 | Imam Muslim |
+| **Jami' al-'Ulum wal-Hikam** | Ibn Rajab al-Hanbali |
+| **Fath al-Bari** | Ibn Hajar al-Asqalani |
+| **Sharh al-Arba'in an-Nawawiyyah** | Imam an-Nawawi |
 
 ---
 
-**And Allah knows best (والله أعلم)**
+**والله أعلم**
 
-*"O Allah, purify our intentions and accept our deeds."*
-`
+*O Allah, purify our intentions and accept our deeds.*
+
+**اللَّهُمَّ أَخْلِصْ نِيَّاتِنَا وَتَقَبَّلْ أَعْمَالَنَا**
+`;
