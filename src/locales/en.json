@@ -103,7 +103,9 @@
     "confirm": "Confirm",
     "back": "Back",
     "next": "Next",
-    "previous": "Previous"
+    "previous": "Previous",
+    "comingSoon": "Coming Soon",
+    "inDevelopment": "In development"
   },
   "accessibility": {
     "skipToContent": "Skip to main content",

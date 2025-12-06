@@ -103,7 +103,9 @@
     "confirm": "تأكيد",
     "back": "رجوع",
     "next": "التالي",
-    "previous": "السابق"
+    "previous": "السابق",
+    "comingSoon": "قريباً",
+    "inDevelopment": "قيد التطوير"
   },
   "accessibility": {
     "skipToContent": "انتقل إلى المحتوى الرئيسي",

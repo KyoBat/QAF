@@ -40,11 +40,10 @@ export default function HomePageClient({
   ]
 
   const categories = [
-    { key: 'hadith', emoji: '📜' },
-    { key: 'fiqh', emoji: '⚖️' },
-    { key: 'aqeedah', emoji: '💫' },
-    { key: 'tajweed', emoji: '📖' },
-    { key: 'seerah', emoji: '🌙' },
+    { key: 'hadith', emoji: '📜', comingSoon: false },
+    { key: 'fiqh', emoji: '⚖️', comingSoon: false },
+    { key: 'aqeedah', emoji: '💫', comingSoon: false },
+    { key: 'seerah', emoji: '🌙', comingSoon: true },
   ]
 
   return (
@@ -308,24 +307,54 @@ export default function HomePageClient({
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
             {categories.map((category) => {
               const count = coursesPerCategory[category.key] || 0
+              
+              const cardContent = (
+                <Card className={cn(
+                  'p-6 text-center transition-all duration-300 relative',
+                  category.comingSoon 
+                    ? 'opacity-60 border-dashed' 
+                    : 'hover:border-primary/30 hover:shadow-md'
+                )}>
+                  {category.comingSoon && (
+                    <Badge 
+                      variant="secondary" 
+                      className="absolute top-2 right-2 text-xs bg-amber-500/20 text-amber-600 dark:text-amber-400 border-0"
+                    >
+                      {t('common.comingSoon')}
+                    </Badge>
+                  )}
+                  <div className="text-4xl mb-3">{category.emoji}</div>
+                  <h3 className={cn(
+                    'font-semibold text-foreground mb-1 transition-colors',
+                    !category.comingSoon && 'group-hover:text-primary',
+                    isRTL && 'font-arabic'
+                  )}>
+                    {t(`courses.categories.${category.key}`)}
+                  </h3>
+                  <p className="text-sm text-muted-foreground">
+                    {category.comingSoon 
+                      ? t('common.inDevelopment')
+                      : `${count} ${count > 1 ? t('courses.courses') : t('courses.course')}`
+                    }
+                  </p>
+                </Card>
+              )
+              
+              if (category.comingSoon) {
+                return (
+                  <div key={category.key} className="cursor-not-allowed">
+                    {cardContent}
+                  </div>
+                )
+              }
+              
               return (
                 <Link 
                   key={category.key}
                   href={`/courses?category=${category.key}`}
                   className="group"
                 >
-                  <Card className="p-6 text-center hover:border-primary/30 hover:shadow-md transition-all duration-300">
-                    <div className="text-4xl mb-3">{category.emoji}</div>
-                    <h3 className={cn(
-                      'font-semibold text-foreground mb-1 group-hover:text-primary transition-colors',
-                      isRTL && 'font-arabic'
-                    )}>
-                      {t(`courses.categories.${category.key}`)}
-                    </h3>
-                    <p className="text-sm text-muted-foreground">
-                      {count} {count > 1 ? t('courses.courses') : t('courses.course')}
-                    </p>
-                  </Card>
+                  {cardContent}
                 </Link>
               )
             })}
