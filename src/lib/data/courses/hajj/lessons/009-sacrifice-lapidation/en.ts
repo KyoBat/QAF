@@ -11,7 +11,7 @@ The sacrifice (Hady) and stoning (Ramy) are among the most important rites of Ha
 
 ---
 
-## 1. 📜 Foundational Texts (النصوص الأساسية)
+## 📜 Foundational Texts (النصوص الأساسية)
 
 ### The Quran
 
@@ -34,7 +34,7 @@ The sacrifice (Hady) and stoning (Ramy) are among the most important rites of Ha
 
 ---
 
-## 2. 🗣️ Scholarly Opinions (أقوال العلماء)
+## 🎓 Scholarly Opinions (أقوال العلماء)
 
 > **Imam Malik (رحمه الله)** said:
 > "The sacrifice of the Mutamatti' (one performing Hajj Tamattu') and the Qarin (one combining Hajj and 'Umra) is obligatory. If he cannot find something to sacrifice, he fasts three days during Hajj, the best being the last one on the day of Arafat, and seven days when he returns home."
@@ -54,7 +54,7 @@ The sacrifice (Hady) and stoning (Ramy) are among the most important rites of Ha
 
 ---
 
-## 3. 🔤 Linguistic Analysis (التحليل اللغوي)
+## 🔍 Linguistic Analysis (التحليل اللغوي)
 
 | Term | Root | Original Meaning | Meaning in Context |
 |------|------|------------------|-------------------|
@@ -70,7 +70,7 @@ The sacrifice (Hady) and stoning (Ramy) are among the most important rites of Ha
 
 ---
 
-## 4. 📖 Detailed Explanation (الشرح المفصل)
+## 📚 Detailed Explanation (الشرح المفصل)
 
 ### 4.1 The Sacrifice (al-Hady)
 
@@ -149,7 +149,7 @@ The sacrifice (Hady) and stoning (Ramy) are among the most important rites of Ha
 
 ---
 
-## 5. ⚖️ Differences Between Schools (الخلاف الفقهي)
+## ⚖️ Differences Between Schools (الخلاف الفقهي)
 
 ### 5.1 Start of Stoning Time on Day 10
 
@@ -180,7 +180,7 @@ The sacrifice (Hady) and stoning (Ramy) are among the most important rites of Ha
 
 ---
 
-## 6. 🌍 Modern Applications (التطبيقات المعاصرة)
+## 🌍 Modern Applications (التطبيقات المعاصرة)
 
 ### 6.1 Sacrifice by Proxy (via Sacrifice Banks)
 
@@ -209,7 +209,7 @@ The sacrifice (Hady) and stoning (Ramy) are among the most important rites of Ha
 
 ---
 
-## 7. ❌ Common Mistakes (الأخطاء الشائعة)
+## ⚠️ Common Mistakes (الأخطاء الشائعة)
 
 | Mistake | Correction |
 |---------|-----------|
@@ -224,7 +224,7 @@ The sacrifice (Hady) and stoning (Ramy) are among the most important rites of Ha
 
 ---
 
-## 8. ❓ FAQ (الأسئلة الشائعة)
+## ❓ FAQ (الأسئلة الشائعة)
 
 **Q1: Can I delegate my sacrifice to an Islamic bank?**
 > Yes, it is permissible as long as the organization sacrifices within the required times and places. Verify the reliability of the organization.
@@ -246,7 +246,7 @@ The sacrifice (Hady) and stoning (Ramy) are among the most important rites of Ha
 
 ---
 
-## 9. ✅ Practical Action: Prepare Your Sacrifice
+## 🎯 Practical Action: Prepare Your Sacrifice
 
 **This week, plan the practical aspects of your sacrifice:**
 
@@ -265,7 +265,7 @@ The sacrifice (Hady) and stoning (Ramy) are among the most important rites of Ha
 
 ---
 
-## 10. 🤲 Closing Supplication
+## 📝 Closing Supplication
 
 <div dir="rtl">
 

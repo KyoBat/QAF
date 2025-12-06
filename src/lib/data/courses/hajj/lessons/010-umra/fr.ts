@@ -11,7 +11,7 @@ La 'Umra est le « petit pèlerinage » qui peut être accompli à tout moment d
 
 ---
 
-## 1. 📜 Textes Fondateurs (النصوص الأساسية)
+## 📜 Textes Fondateurs (النصوص الأساسية)
 
 ### Le Coran
 
@@ -39,7 +39,7 @@ La 'Umra est le « petit pèlerinage » qui peut être accompli à tout moment d
 
 ---
 
-## 2. 🗣️ Paroles des Savants (أقوال العلماء)
+## 🎓 Paroles des Savants (أقوال العلماء)
 
 > **L'Imam Malik (رحمه الله)** a dit :
 > « La 'Umra est une Sunnah, et je ne connais personne parmi les gens de science qui l'ait rendue obligatoire. Cependant, je n'aime pas qu'on la délaisse. »
@@ -59,7 +59,7 @@ La 'Umra est le « petit pèlerinage » qui peut être accompli à tout moment d
 
 ---
 
-## 3. 🔤 Analyse Linguistique (التحليل اللغوي)
+## 🔍 Analyse Linguistique (التحليل اللغوي)
 
 | Terme | Racine | Signification | Sens dans le contexte |
 |-------|--------|---------------|----------------------|
@@ -74,7 +74,7 @@ La 'Umra est le « petit pèlerinage » qui peut être accompli à tout moment d
 
 ---
 
-## 4. 📖 Explication Détaillée (الشرح المفصل)
+## 📚 Explication Détaillée (الشرح المفصل)
 
 ### 4.1 Définition et statut juridique
 
@@ -116,7 +116,7 @@ La 'Umra est le « petit pèlerinage » qui peut être accompli à tout moment d
 
 ---
 
-## 5. ⚖️ Divergences entre Écoles (الخلاف الفقهي)
+## ⚖️ Divergences entre Écoles (الخلاف الفقهي)
 
 ### 5.1 Statut de la 'Umra
 
@@ -149,7 +149,7 @@ La 'Umra est le « petit pèlerinage » qui peut être accompli à tout moment d
 
 ---
 
-## 6. 🌍 Applications Modernes (التطبيقات المعاصرة)
+## 🌍 Applications Modernes (التطبيقات المعاصرة)
 
 ### 6.1 La 'Umra avec les groupes organisés
 
@@ -179,7 +179,7 @@ La 'Umra est le « petit pèlerinage » qui peut être accompli à tout moment d
 
 ---
 
-## 7. ❌ Erreurs Courantes (الأخطاء الشائعة)
+## ⚠️ Erreurs Courantes (الأخطاء الشائعة)
 
 | Erreur | Correction |
 |--------|-----------|
@@ -194,7 +194,7 @@ La 'Umra est le « petit pèlerinage » qui peut être accompli à tout moment d
 
 ---
 
-## 8. ❓ FAQ (الأسئلة الشائعة)
+## ❓ FAQ (الأسئلة الشائعة)
 
 **Q1 : La 'Umra est-elle obligatoire ?**
 > Selon les Malikites et Hanafites, elle est Sunnah mu'akkada (très recommandée mais pas obligatoire). Selon les Shafiites et Hanbalites, elle est obligatoire une fois dans la vie.
@@ -216,7 +216,7 @@ La 'Umra est le « petit pèlerinage » qui peut être accompli à tout moment d
 
 ---
 
-## 9. ✅ Action Concrète : Préparez votre 'Umra
+## 🎯 Action Concrète : Préparez votre 'Umra
 
 **Cette semaine, planifiez votre prochaine 'Umra :**
 
@@ -235,7 +235,7 @@ La 'Umra est le « petit pèlerinage » qui peut être accompli à tout moment d
 
 ---
 
-## 10. 🤲 Invocation de Clôture
+## 📝 Invocation de Clôture
 
 <div dir="rtl">
 

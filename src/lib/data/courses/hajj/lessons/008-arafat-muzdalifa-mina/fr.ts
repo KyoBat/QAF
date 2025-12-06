@@ -11,7 +11,7 @@ Ces trois lieux sacrés constituent le cœur même du pèlerinage. Arafat, Muzda
 
 ---
 
-## 1. 📜 Textes Fondateurs (النصوص الأساسية)
+## 📜 Textes Fondateurs (النصوص الأساسية)
 
 ### Le Coran
 
@@ -39,7 +39,7 @@ Ces trois lieux sacrés constituent le cœur même du pèlerinage. Arafat, Muzda
 
 ---
 
-## 2. 🗣️ Paroles des Savants (أقوال العلماء)
+## 🎓 Paroles des Savants (أقوال العلماء)
 
 > **L'Imam Malik (رحمه الله)** a dit :
 > « Celui qui manque Arafat a manqué le Hajj. Et celui qui arrive à Arafat de nuit, avant l'aube du jour du Sacrifice, même un instant, a atteint le Hajj. »
@@ -59,7 +59,7 @@ Ces trois lieux sacrés constituent le cœur même du pèlerinage. Arafat, Muzda
 
 ---
 
-## 3. 🔤 Analyse Linguistique (التحليل اللغوي)
+## 🔍 Analyse Linguistique (التحليل اللغوي)
 
 | Terme | Racine | Signification | Sens dans le contexte |
 |-------|--------|---------------|----------------------|
@@ -75,7 +75,7 @@ Ces trois lieux sacrés constituent le cœur même du pèlerinage. Arafat, Muzda
 
 ---
 
-## 4. 📖 Explication Détaillée (الشرح المفصل)
+## 📚 Explication Détaillée (الشرح المفصل)
 
 ### 4.1 Arafat : Le Pilier Suprême
 
@@ -138,7 +138,7 @@ Ces trois lieux sacrés constituent le cœur même du pèlerinage. Arafat, Muzda
 
 ---
 
-## 5. ⚖️ Divergences entre Écoles (الخلاف الفقهي)
+## ⚖️ Divergences entre Écoles (الخلاف الفقهي)
 
 ### 5.1 Durée minimale à Muzdalifa
 
@@ -180,7 +180,7 @@ Ces trois lieux sacrés constituent le cœur même du pèlerinage. Arafat, Muzda
 
 ---
 
-## 6. 🌍 Applications Modernes (التطبيقات المعاصرة)
+## 🌍 Applications Modernes (التطبيقات المعاصرة)
 
 ### 6.1 Le jet avant le zénith les jours de Tashriq
 
@@ -205,7 +205,7 @@ Ces trois lieux sacrés constituent le cœur même du pèlerinage. Arafat, Muzda
 
 ---
 
-## 7. ❌ Erreurs Courantes (الأخطاء الشائعة)
+## ⚠️ Erreurs Courantes (الأخطاء الشائعة)
 
 | Erreur | Correction |
 |--------|-----------|
@@ -220,7 +220,7 @@ Ces trois lieux sacrés constituent le cœur même du pèlerinage. Arafat, Muzda
 
 ---
 
-## 8. ❓ FAQ (الأسئلة الشائعة)
+## ❓ FAQ (الأسئلة الشائعة)
 
 **Q1 : Que faire si j'arrive à Arafat après le coucher du soleil du 9 ?**
 > Tant que vous arrivez avant l'aube du 10, votre Hajj est valide. Le Prophète ﷺ a dit : « Celui qui arrive avant l'aube a atteint le Hajj. »
@@ -242,7 +242,7 @@ Ces trois lieux sacrés constituent le cœur même du pèlerinage. Arafat, Muzda
 
 ---
 
-## 9. ✅ Action Concrète : Planifier son Hajj
+## 🎯 Action Concrète : Planifier son Hajj
 
 **Cette semaine, créez votre chronogramme personnel du Hajj :**
 
@@ -259,7 +259,7 @@ Ces trois lieux sacrés constituent le cœur même du pèlerinage. Arafat, Muzda
 
 ---
 
-## 10. 🤲 Invocation de Clôture
+## 📝 Invocation de Clôture
 
 <div dir="rtl">
 

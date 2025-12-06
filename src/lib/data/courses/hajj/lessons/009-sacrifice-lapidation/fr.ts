@@ -11,7 +11,7 @@ Le sacrifice (Hady) et la lapidation (Ramy) sont parmi les rites les plus import
 
 ---
 
-## 1. 📜 Textes Fondateurs (النصوص الأساسية)
+## 📜 Textes Fondateurs (النصوص الأساسية)
 
 ### Le Coran
 
@@ -39,7 +39,7 @@ Le sacrifice (Hady) et la lapidation (Ramy) sont parmi les rites les plus import
 
 ---
 
-## 2. 🗣️ Paroles des Savants (أقوال العلماء)
+## 🎓 Paroles des Savants (أقوال العلماء)
 
 > **L'Imam Malik (رحمه الله)** a dit :
 > « Le sacrifice du Mutamatti' (qui fait le Hajj Tamattu') et du Qarin (qui combine Hajj et 'Umra) est obligatoire. S'il ne trouve pas de quoi sacrifier, il jeûne trois jours pendant le Hajj, dont le meilleur est avant le jour d'Arafat, et sept jours quand il rentre chez lui. »
@@ -59,7 +59,7 @@ Le sacrifice (Hady) et la lapidation (Ramy) sont parmi les rites les plus import
 
 ---
 
-## 3. 🔤 Analyse Linguistique (التحليل اللغوي)
+## 🔍 Analyse Linguistique (التحليل اللغوي)
 
 | Terme | Racine | Signification | Sens dans le contexte |
 |-------|--------|---------------|----------------------|
@@ -75,7 +75,7 @@ Le sacrifice (Hady) et la lapidation (Ramy) sont parmi les rites les plus import
 
 ---
 
-## 4. 📖 Explication Détaillée (الشرح المفصل)
+## 📚 Explication Détaillée (الشرح المفصل)
 
 ### 4.1 Le Sacrifice (al-Hady)
 
@@ -154,7 +154,7 @@ Le sacrifice (Hady) et la lapidation (Ramy) sont parmi les rites les plus import
 
 ---
 
-## 5. ⚖️ Divergences entre Écoles (الخلاف الفقهي)
+## ⚖️ Divergences entre Écoles (الخلاف الفقهي)
 
 ### 5.1 Début du temps de lapidation le jour 10
 
@@ -185,7 +185,7 @@ Le sacrifice (Hady) et la lapidation (Ramy) sont parmi les rites les plus import
 
 ---
 
-## 6. 🌍 Applications Modernes (التطبيقات المعاصرة)
+## 🌍 Applications Modernes (التطبيقات المعاصرة)
 
 ### 6.1 Le sacrifice par procuration (via les banques de sacrifice)
 
@@ -214,7 +214,7 @@ Le sacrifice (Hady) et la lapidation (Ramy) sont parmi les rites les plus import
 
 ---
 
-## 7. ❌ Erreurs Courantes (الأخطاء الشائعة)
+## ⚠️ Erreurs Courantes (الأخطاء الشائعة)
 
 | Erreur | Correction |
 |--------|-----------|
@@ -229,7 +229,7 @@ Le sacrifice (Hady) et la lapidation (Ramy) sont parmi les rites les plus import
 
 ---
 
-## 8. ❓ FAQ (الأسئلة الشائعة)
+## ❓ FAQ (الأسئلة الشائعة)
 
 **Q1 : Puis-je déléguer mon sacrifice à une banque islamique ?**
 > Oui, c'est permis tant que l'organisation sacrifie dans les temps et les lieux requis. Vérifiez la fiabilité de l'organisme.
@@ -251,7 +251,7 @@ Le sacrifice (Hady) et la lapidation (Ramy) sont parmi les rites les plus import
 
 ---
 
-## 9. ✅ Action Concrète : Préparez votre sacrifice
+## 🎯 Action Concrète : Préparez votre sacrifice
 
 **Cette semaine, planifiez les aspects pratiques de votre sacrifice :**
 
@@ -270,7 +270,7 @@ Le sacrifice (Hady) et la lapidation (Ramy) sont parmi les rites les plus import
 
 ---
 
-## 10. 🤲 Invocation de Clôture
+## 📝 Invocation de Clôture
 
 <div dir="rtl">
 

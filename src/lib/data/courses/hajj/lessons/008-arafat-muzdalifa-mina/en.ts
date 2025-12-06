@@ -11,7 +11,7 @@ These three sacred locations constitute the very heart of the pilgrimage. Arafat
 
 ---
 
-## 1. 📜 Foundational Texts (النصوص الأساسية)
+## 📜 Foundational Texts (النصوص الأساسية)
 
 ### The Quran
 
@@ -34,7 +34,7 @@ These three sacred locations constitute the very heart of the pilgrimage. Arafat
 
 ---
 
-## 2. 🗣️ Scholarly Opinions (أقوال العلماء)
+## 🎓 Scholarly Opinions (أقوال العلماء)
 
 > **Imam Malik (رحمه الله)** said:
 > "Whoever misses Arafat has missed the Hajj. And whoever arrives at Arafat at night, before the dawn of the Day of Sacrifice, even for an instant, has attained the Hajj."
@@ -54,7 +54,7 @@ These three sacred locations constitute the very heart of the pilgrimage. Arafat
 
 ---
 
-## 3. 🔤 Linguistic Analysis (التحليل اللغوي)
+## 🔍 Linguistic Analysis (التحليل اللغوي)
 
 | Term | Root | Original Meaning | Meaning in Context |
 |------|------|------------------|-------------------|
@@ -70,7 +70,7 @@ These three sacred locations constitute the very heart of the pilgrimage. Arafat
 
 ---
 
-## 4. 📖 Detailed Explanation (الشرح المفصل)
+## 📚 Detailed Explanation (الشرح المفصل)
 
 ### 4.1 Arafat: The Supreme Pillar
 
@@ -133,7 +133,7 @@ These three sacred locations constitute the very heart of the pilgrimage. Arafat
 
 ---
 
-## 5. ⚖️ Differences Between Schools (الخلاف الفقهي)
+## ⚖️ Differences Between Schools (الخلاف الفقهي)
 
 ### 5.1 Minimum Duration at Muzdalifa
 
@@ -175,7 +175,7 @@ These three sacred locations constitute the very heart of the pilgrimage. Arafat
 
 ---
 
-## 6. 🌍 Modern Applications (التطبيقات المعاصرة)
+## 🌍 Modern Applications (التطبيقات المعاصرة)
 
 ### 6.1 Stoning Before Zenith on Tashriq Days
 
@@ -200,7 +200,7 @@ These three sacred locations constitute the very heart of the pilgrimage. Arafat
 
 ---
 
-## 7. ❌ Common Mistakes (الأخطاء الشائعة)
+## ⚠️ Common Mistakes (الأخطاء الشائعة)
 
 | Mistake | Correction |
 |---------|-----------|
@@ -215,7 +215,7 @@ These three sacred locations constitute the very heart of the pilgrimage. Arafat
 
 ---
 
-## 8. ❓ FAQ (الأسئلة الشائعة)
+## ❓ FAQ (الأسئلة الشائعة)
 
 **Q1: What should I do if I arrive at Arafat after sunset on the 9th?**
 > As long as you arrive before the dawn of the 10th, your Hajj is valid. The Prophet ﷺ said: "Whoever arrives before dawn has attained the Hajj."
@@ -237,7 +237,7 @@ These three sacred locations constitute the very heart of the pilgrimage. Arafat
 
 ---
 
-## 9. ✅ Practical Action: Plan Your Hajj
+## 🎯 Practical Action: Plan Your Hajj
 
 **This week, create your personal Hajj timeline:**
 
@@ -254,7 +254,7 @@ These three sacred locations constitute the very heart of the pilgrimage. Arafat
 
 ---
 
-## 10. 🤲 Closing Supplication
+## 📝 Closing Supplication
 
 <div dir="rtl">
 
