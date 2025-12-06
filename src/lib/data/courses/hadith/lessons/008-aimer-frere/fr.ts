@@ -1,258 +1,366 @@
 /**
- * Hadith Essentiels - Leçon 008: Aimer pour son frère
- * Contenu en Français
+ * Sciences du Hadith - Leçon 008: لا يؤمن أحدكم حتى يحب لأخيه ما يحب لنفسه
+ * Aimer pour son Frère ce qu'on Aime pour Soi - La Fraternité Islamique
+ * Contenu en Français - Approche Savante et Qualitative
  */
 
-export const content = `# Aimer pour son Frère ce qu'on aime pour soi (لا يؤمن أحدكم حتى يحب لأخيه)
+export const content = `# 📜 لا يُؤْمِنُ أَحَدُكُمْ حَتَّى يُحِبَّ لأَخِيهِ — Aimer pour son Frère
 
-## Le Hadith
-
-> **عَنْ أَنَسِ بْنِ مَالِكٍ رَضِيَ اللهُ عَنْهُ عَنْ النَّبِيِّ ﷺ قَالَ:**
->
-> **« لاَ يُؤْمِنُ أَحَدُكُمْ حَتَّى يُحِبَّ لأَخِيهِ مَا يُحِبُّ لِنَفْسِهِ »**
->
-> *« Aucun d'entre vous n'aura la foi complète jusqu'à ce qu'il aime pour son frère ce qu'il aime pour lui-même. »*
->
-> — **[Al-Bukhari (13), Muslim (45)]**
+> Ce hadith est le **fondement de la fraternité islamique** et de la solidarité sociale. Il redéfinit les relations humaines à travers le prisme de la foi.
 
 ---
 
-## Introduction
+## �� Texte du Hadith (متن الحديث)
 
-Dans une société où règnent la **compétition**, la **jalousie**, et le **chacun pour soi**, ce hadith établit un principe révolutionnaire : la **vraie foi** inclut de vouloir le bien pour les autres.
+### 🔷 Texte Arabe avec Tashkil
 
-C'est la base de la **fraternité islamique**.
+عَنْ **أَنَسِ بْنِ مَالِكٍ** رَضِيَ اللهُ عَنْهُ عَنِ النَّبِيِّ ﷺ قَالَ:
+
+**« لَا يُؤْمِنُ أَحَدُكُمْ حَتَّى يُحِبَّ لِأَخِيهِ مَا يُحِبُّ لِنَفْسِهِ »**
+
+### 🔷 Traduction Française
+
+D'après **Anas ibn Malik** — qu'Allah l'agrée — : Le Prophète ﷺ a dit :
+
+**« Aucun d'entre vous n'aura la foi [complète] jusqu'à ce qu'il aime pour son frère ce qu'il aime pour lui-même. »**
 
 ---
 
-## 1. Explication du Hadith
+### 📚 Référencement (التخريج)
 
-### 1.1 Analyse des Termes
+| Source | Numéro | Statut |
+|--------|--------|--------|
+| **Sahih Al-Bukhari** | 13 | ✅ Sahih |
+| **Sahih Muslim** | 45 | ✅ Sahih |
+| **Sunan An-Nasa'i** | 5017 | ✅ Sahih |
+| **Sunan Ibn Majah** | 66 | ✅ Sahih |
 
-| Expression | Signification |
-|------------|---------------|
-| **لاَ يُؤْمِنُ** | N'a pas la foi [complète] |
-| **أَحَدُكُمْ** | L'un d'entre vous |
-| **حَتَّى** | Jusqu'à ce que |
-| **يُحِبَّ** | Il aime, il souhaite |
-| **لأَخِيهِ** | Pour son frère |
-| **مَا يُحِبُّ لِنَفْسِهِ** | Ce qu'il aime pour lui-même |
+> 💡 Ce hadith fait partie des **40 Hadiths d'An-Nawawi** (hadith n°13), et Al-Bukhari l'a placé au début de son Sahih dans le « Livre de la Foi ».
 
-### 1.2 « La foi n'est pas complète »
+---
 
-Le sens n'est pas que la personne sort de l'Islam, mais que :
+## 🎓 Importance de ce Hadith (منزلة الحديث)
 
-| Niveau | Description |
+### 📌 Paroles des Savants
+
+| Savant | Citation |
+|--------|----------|
+| **Imam An-Nawawi** رحمه الله | *« Ce hadith établit un fondement immense dans les relations entre musulmans. »* — *Sharh Sahih Muslim* |
+| **Ibn Rajab Al-Hanbali** رحمه الله | *« Ce hadith est un principe de base de l'Islam et une caractéristique essentielle du croyant. »* — *Jami' Al-'Ulum wal-Hikam* |
+| **Ibn Hajar Al-'Asqalani** رحمه الله | *« La négation de la foi ici signifie la négation de sa perfection, non de son origine. »* — *Fath Al-Bari* |
+| **Al-Qurtubi** رحمه الله | *« C'est un hadith qui résume les droits des musulmans les uns envers les autres. »* — *Al-Mufhim* |
+
+### 📌 Pourquoi ce Hadith est-il Fondamental ?
+
+1. **Pilier de la cohésion sociale** : Base de la communauté unie
+2. **Antidote à la jalousie** : Remplace l'envie par la bienveillance
+3. **Perfection de la foi** : La foi n'est pas qu'une croyance, c'est un comportement
+4. **Règle d'or universelle** : Présente dans toutes les traditions éthiques
+5. **Transformation du cœur** : Du « moi » au « nous »
+
+---
+
+## 🔍 Analyse Linguistique (التحليل اللغوي)
+
+### 📜 Vocabulaire du Hadith
+
+| Terme Arabe | Translittération | Signification |
+|-------------|------------------|---------------|
+| **لَا يُؤْمِنُ** | Lā Yu'minu | N'a pas la foi [complète] |
+| **أَحَدُكُمْ** | Aḥadukum | L'un d'entre vous |
+| **حَتَّى** | Ḥattā | Jusqu'à ce que |
+| **يُحِبَّ** | Yuḥibba | Il aime, il souhaite |
+| **لِأَخِيهِ** | Li-Akhīhi | Pour son frère |
+| **لِنَفْسِهِ** | Li-Nafsihi | Pour lui-même |
+
+### 📐 Analyse Grammaticale (الإعراب)
+
+| Élément | Fonction | Explication |
+|---------|----------|-------------|
+| **لَا** | حرف نفي | Particule de négation |
+| **يُؤْمِنُ** | فعل مضارع مرفوع | Verbe au présent, indicatif |
+| **أَحَدُكُمْ** | فاعل مرفوع | Sujet du verbe |
+| **حَتَّى** | حرف غاية ونصب | Jusqu'à ce que (cause le subjonctif) |
+| **يُحِبَّ** | فعل مضارع منصوب بحتى | Verbe au subjonctif après حتى |
+
+### 🔎 Subtilité Linguistique
+
+La négation de la foi (**لَا يُؤْمِنُ**) ne signifie pas la mécréance, mais **l'imperfection de la foi**.
+
+> Les savants distinguent entre :
+> - **نفي أصل الإيمان** : négation de la foi elle-même (kufr)
+> - **نفي كمال الإيمان** : négation de la perfection de la foi (ce hadith)
+
+C'est comme dire « il n'est pas homme » pour signifier « il n'est pas un vrai homme ».
+
+---
+
+## 📚 Explication Détaillée (الشرح المفصل)
+
+### 🔷 Qui est « le Frère » ?
+
+| Interprétation | Portée | Preuves |
+|----------------|--------|---------|
+| **Le frère musulman** | Sens premier | « إِنَّمَا الْمُؤْمِنُونَ إِخْوَةٌ » |
+| **Tout être humain** | En matière de guidance et de bien | Ibn Rajab, An-Nawawi |
+
+> Le musulman souhaite la guidance pour l'humanité entière, et le bien licite pour tous.
+
+### 🔷 Qu'est-ce qu'« Aimer pour son Frère » ?
+
+| Domaine | Ce que tu aimes pour toi | Ce que tu souhaites pour lui |
+|---------|-------------------------|------------------------------|
+| **Spirituel** | Être guidé, pardonné | Qu'il soit guidé, pardonné |
+| **Matériel** | Avoir de quoi vivre | Qu'il ait de quoi vivre |
+| **Santé** | Être en bonne santé | Qu'il soit en bonne santé |
+| **Famille** | Avoir une famille heureuse | Qu'il ait une famille heureuse |
+| **Honneur** | Que ton honneur soit préservé | Que son honneur soit préservé |
+| **Savoir** | Apprendre et comprendre | Qu'il apprenne et comprenne |
+
+### 🔷 Les Niveaux d'Application
+
+| Niveau | Description | Exemple |
+|--------|-------------|---------|
+| 1️⃣ **Minimum** | Ne pas vouloir de mal | Ne pas jalouser, ne pas nuire |
+| 2️⃣ **Complet** | Vouloir le bien activement | Faire du'a, aider, conseiller |
+| 3️⃣ **Supérieur (Ithar)** | Préférer l'autre à soi | Donner ce dont tu as besoin |
+
+### 🔷 Les Leçons Tirées (الفوائد المستنبطة)
+
+| # | Leçon | Explication |
+|---|-------|-------------|
+| 1️⃣ | **La foi est liée au comportement** | Pas seulement des croyances |
+| 2️⃣ | **L'égoïsme diminue la foi** | Le « chacun pour soi » est contraire à l'Islam |
+| 3️⃣ | **L'amour est une obligation** | Pas seulement un sentiment agréable |
+| 4️⃣ | **La communauté avant l'individu** | Vision collective du bien |
+| 5️⃣ | **Le cœur se purifie par l'altruisme** | Traitement de la jalousie et de l'envie |
+
+---
+
+## 🕌 Avis des Madhahib (آراء المذاهب)
+
+### Position sur la Fraternité
+
+| Madhab | Position | Référence |
+|--------|----------|-----------|
+| 🟢 **Hanafi** | Aimer pour son frère est obligatoire pour la foi complète | *Al-Bahr Ar-Ra'iq* |
+| 🟡 **Maliki** | C'est un signe de la sincérité de la foi | *Al-Mudawwana* |
+| 🔵 **Shafi'i** | Le manquement à ce devoir est un péché qui diminue la foi | *Al-Majmu'* |
+| 🟣 **Hanbali** | Fait partie des branches obligatoires de la foi | *Al-Mughni* |
+
+### L'Ithar (الإيثار) - Préférer l'Autre
+
+| Niveau | Description | Statut |
+|--------|-------------|--------|
+| **Aimer pour son frère** | Vouloir le même bien | ✅ Obligatoire |
+| **L'Ithar** | Préférer l'autre à soi | ⭐ Recommandé (mustahabb) |
+
+> **﴿ وَيُؤْثِرُونَ عَلَىٰ أَنفُسِهِمْ وَلَوْ كَانَ بِهِمْ خَصَاصَةٌ ﴾** [Al-Hashr: 9]
+
+---
+
+## 📖 Preuves Complémentaires (الشواهد)
+
+### Du Coran (من القرآن)
+
+#### 1. La fraternité des croyants
+
+> **﴿ إِنَّمَا الْمُؤْمِنُونَ إِخْوَةٌ ﴾**
+>
+> *« Les croyants ne sont que des frères. »*
+>
+> — **[Al-Hujurat : 10]**
+
+#### 2. L'Ithar des Ansars
+
+> **﴿ وَيُؤْثِرُونَ عَلَىٰ أَنفُسِهِمْ وَلَوْ كَانَ بِهِمْ خَصَاصَةٌ ﴾**
+>
+> *« Ils préfèrent [les autres] à eux-mêmes, même s'ils sont dans le besoin. »*
+>
+> — **[Al-Hashr : 9]**
+
+#### 3. Ne pas se jalouser
+
+> **﴿ وَلَا تَتَمَنَّوْا مَا فَضَّلَ اللَّهُ بِهِ بَعْضَكُمْ عَلَىٰ بَعْضٍ ﴾**
+>
+> *« Et ne convoitez pas ce par quoi Allah a favorisé certains d'entre vous par rapport à d'autres. »*
+>
+> — **[An-Nisa : 32]**
+
+### De la Sunna (من السنة)
+
+#### Le corps unique
+
+> **« مَثَلُ الْمُؤْمِنِينَ فِي تَوَادِّهِمْ وَتَرَاحُمِهِمْ وَتَعَاطُفِهِمْ مَثَلُ الْجَسَدِ، إِذَا اشْتَكَى مِنْهُ عُضْوٌ تَدَاعَى لَهُ سَائِرُ الْجَسَدِ بِالسَّهَرِ وَالْحُمَّى »**
+>
+> *« L'exemple des croyants dans leur amour mutuel, leur miséricorde et leur compassion est celui d'un seul corps : si un membre souffre, tout le corps répond par l'insomnie et la fièvre. »*
+>
+> — **[Al-Bukhari (6011) et Muslim (2586)]**
+
+#### Les deux mains
+
+> **« الْمُؤْمِنُ لِلْمُؤْمِنِ كَالْبُنْيَانِ يَشُدُّ بَعْضُهُ بَعْضًا »**
+>
+> *« Le croyant pour le croyant est comme une construction dont les parties se soutiennent mutuellement. »*
+>
+> — **[Al-Bukhari (481) et Muslim (2585)]**
+
+#### Aimer que ce soit ton frère
+
+> **« وَاللهِ لَا يُؤْمِنُ، وَاللهِ لَا يُؤْمِنُ، وَاللهِ لَا يُؤْمِنُ! قِيلَ: مَنْ يَا رَسُولَ اللهِ؟ قَالَ: الَّذِي لَا يَأْمَنُ جَارُهُ بَوَائِقَهُ »**
+>
+> *« Par Allah il n'a pas la foi ! Par Allah il n'a pas la foi ! Par Allah il n'a pas la foi ! » On dit : « Qui, ô Messager d'Allah ? » Il dit : « Celui dont le voisin ne se sent pas en sécurité de ses méfaits. »*
+>
+> — **[Al-Bukhari (6016)]**
+
+---
+
+## 🌍 Applications Modernes (التطبيقات المعاصرة)
+
+### 📱 Dans le Monde Digital
+
+| Situation | ❌ Égoïsme | ✅ Fraternité |
+|-----------|----------|--------------|
+| **Voir le succès d'un frère sur les réseaux** | Jalousie, commentaire négatif | Faire du'a, féliciter sincèrement |
+| **Avoir une information utile** | Garder pour soi | Partager avec les autres |
+| **Voir quelqu'un dans l'erreur** | Se moquer publiquement | Nassiha en privé |
+| **Promouvoir son projet** | Dénigrer les concurrents | Mentionner les qualités des autres aussi |
+
+### 💼 Dans le Travail
+
+| Situation | ❌ Égoïsme | ✅ Fraternité |
+|-----------|----------|--------------|
+| **Opportunité d'emploi** | La garder pour soi | Informer un frère en recherche |
+| **Compétences utiles** | Les monopoliser | Former et partager |
+| **Promotion disponible** | Saboter les autres | Recommander le plus méritant |
+| **Erreur d'un collègue** | L'exposer | Le couvrir et l'aider à corriger |
+
+### 🏠 Dans la Communauté
+
+| Situation | ❌ Égoïsme | ✅ Fraternité |
+|-----------|----------|--------------|
+| **Vente d'un bien** | Prix excessif pour un frère | Prix juste, ou moins |
+| **Mariage** | Refuser de recommander | Faciliter les unions |
+| **Connaissance religieuse** | La garder | Enseigner gratuitement |
+| **Bon voisin déménage** | Indifférence | Tristesse et maintien du lien |
+
+---
+
+## ⚠️ Erreurs à Éviter (المحاذير)
+
+### 🚨 Fausses Applications
+
+| Erreur | Correction |
+|--------|------------|
+| « Aimer pour lui le péché que j'aime » | Non ! Seulement le bien licite |
+| « Je dois tout donner » | L'équilibre : d'abord toi, puis les autres |
+| « Aimer = approuver » | Tu peux aimer le bien pour quelqu'un sans approuver ses erreurs |
+| « Seulement les musulmans » | Souhaite la guidance pour l'humanité |
+
+### 🔴 Maladies du Cœur Contraires
+
+| Maladie | Définition | Traitement |
+|---------|------------|------------|
+| **Hasad (حسد)** | Souhaiter que l'autre perde son bienfait | Du'a pour lui, contentement |
+| **Ghibta mauvaise** | Envier sans vouloir son bien | Transformer en émulation positive |
+| **Schadenfreude** | Se réjouir du malheur d'autrui | Empathie, rappel du Jour Dernier |
+| **Égoïsme** | Ne penser qu'à soi | Penser aux autres avant d'agir |
+
+---
+
+## ❓ Questions Fréquentes
+
+### « Est-ce que ça inclut les non-musulmans ? »
+
+| Aspect | Application |
 |--------|-------------|
-| **Iman minimum** | Croire aux piliers de la foi |
-| **Iman complet** | Inclut aimer le bien pour les autres |
-| **Iman parfait** | Préférer les autres à soi-même (ithar) |
+| **La guidance** | ✅ Tu souhaites qu'il soit guidé vers l'Islam |
+| **Le bien licite** | ✅ Tu souhaites qu'il soit en bonne santé, etc. |
+| **Le statut de frère** | Le sens premier est le frère musulman |
 
-Ce hadith parle du **passage du minimum au complet**.
+### « Comment aimer pour lui si je ne l'aime pas lui-même ? »
 
-### 1.3 « Pour son frère »
+| Distinction | Explication |
+|-------------|-------------|
+| **Aimer son bien** ≠ **L'aimer lui** | Tu peux souhaiter le bien à quelqu'un sans l'apprécier personnellement |
+| **Obligation** | Aimer son bien est obligatoire |
+| **Recommandé** | L'aimer lui-même pour Allah est recommandé |
 
-Qui est « le frère » dans ce hadith ?
+### « Et si je suis en compétition avec lui ? »
 
-| Interprétation | Extension |
-|----------------|-----------|
-| **Sens premier** | Les frères musulmans |
-| **Sens large** | Tous les êtres humains (en ce qui concerne l'Islam et le bien) |
+| Principe | Application |
+|----------|-------------|
+| **Compétition saine** | Vouloir réussir sans vouloir qu'il échoue |
+| **Compétition malsaine** | Vouloir réussir EN le faisant échouer |
 
----
-
-## 2. Qu'est-ce que « Aimer pour son Frère » ?
-
-### 2.1 Ce que cela Inclut
-
-| Domaine | Aimer pour son frère |
-|---------|---------------------|
-| **Spirituel** | Vouloir qu'il soit guidé, pieux, pardonné |
-| **Matériel** | Vouloir qu'il ait de quoi vivre |
-| **Santé** | Vouloir qu'il soit en bonne santé |
-| **Famille** | Vouloir qu'il ait une bonne famille |
-| **Honneur** | Vouloir que son honneur soit préservé |
-| **Savoir** | Vouloir qu'il apprenne et comprenne |
-
-### 2.2 Ce que cela N'est PAS
-
-| Idée fausse | Correction |
-|-------------|------------|
-| « Je dois lui donner tout ce que j'ai » | Non, c'est *vouloir* le bien, pas nécessairement le donner |
-| « Je dois renoncer à mes ambitions » | Non, souhaite-toi le bien ET souhaite-lui le bien |
-| « C'est de l'hypocrisie si je le sens pas » | Le sentiment vient avec la pratique |
+> **La vraie compétition islamique** : Tu veux gagner ET tu veux qu'il gagne aussi.
 
 ---
 
-## 3. Les Maladies du Cœur qui Empêchent cet Amour
+## 🎯 Action Concrète
 
-### 3.1 La Jalousie (Hasad)
+### �� Défi de la Semaine
 
-La jalousie est de **détester qu'Allah accorde un bienfait à quelqu'un** et de **souhaiter qu'il le perde**.
-
-| Type | Description | Exemple |
-|------|-------------|---------|
-| **Hasad interdit** | Vouloir que l'autre perde son bienfait | « J'espère qu'il perd son travail » |
-| **Ghibta (permis)** | Vouloir la même chose sans vouloir qu'il la perde | « J'aimerais aussi avoir une famille comme lui » |
-
-### 3.2 L'Égoïsme
-
-| Manifestation | Exemple |
-|---------------|---------|
-| Ne penser qu'à soi | « Qu'est-ce que j'y gagne ? » |
-| Accaparer les ressources | Ne pas partager les opportunités |
-| Écraser les autres pour réussir | Médire pour obtenir un poste |
-
-### 3.3 L'Orgueil (Kibr)
-
-Se considérer supérieur empêche de vouloir le bien pour les « inférieurs ».
-
----
-
-## 4. Application Moderne 📱
-
-### 4.1 Sur les Réseaux Sociaux
-
-| Situation | Réaction égoïste ❌ | Réaction fraternelle ✅ |
-|-----------|---------------------|------------------------|
-| **Un ami annonce une promotion** | Jalousie secrète | « MashaAllah ! » sincère + du'a |
-| **Quelqu'un partage un bon contenu** | Ne pas partager pour garder l'exclu | Partager pour qu'il bénéficie à tous |
-| **Un créateur réussit** | « Il ne mérite pas » | « Qu'Allah le bénisse » |
-| **Découvrir une bonne ressource** | La garder pour soi | La partager |
-
-### 4.2 Dans le Travail
-
-| Situation | Réaction égoïste ❌ | Réaction fraternelle ✅ |
-|-----------|---------------------|------------------------|
-| **Collègue compétent** | Craindre qu'il te dépasse | Apprendre de lui, collaborer |
-| **Opportunité de formation** | La cacher | La partager avec l'équipe |
-| **Erreur d'un collègue** | L'exploiter | L'aider à la corriger |
-| **Idée d'un autre** | Se l'approprier | Lui donner le crédit |
-
-### 4.3 Dans les Études
-
-| Situation | Réaction égoïste ❌ | Réaction fraternelle ✅ |
-|-----------|---------------------|------------------------|
-| **Notes de cours** | Les garder | Les partager |
-| **Connaissance d'une astuce** | La cacher | L'enseigner |
-| **Camarade en difficulté** | « Pas mon problème » | L'aider à réviser |
-
----
-
-## 5. Comment Développer cet Amour ?
-
-### 5.1 Étapes Pratiques
-
-| Étape | Action |
-|-------|--------|
-| **1. Du'a** | Demander à Allah de purifier ton cœur |
-| **2. Donner** | Commencer par de petits actes de générosité |
-| **3. Sourire** | Saluer et sourire sincèrement |
-| **4. Écouter** | S'intéresser aux autres |
-| **5. Du'a pour eux** | Invoquer Allah pour les autres |
-| **6. Pardonner** | Pardonner les offenses |
-
-### 5.2 L'Invocation pour les Autres
-
-Le Prophète ﷺ a dit :
-
-> **« مَا مِنْ عَبْدٍ مُسْلِمٍ يَدْعُو لأَخِيهِ بِظَهْرِ الْغَيْبِ إِلاَّ قَالَ الْمَلَكُ: وَلَكَ بِمِثْلٍ »**
->
-> *« Tout serviteur musulman qui invoque pour son frère en son absence, l'ange dit : "Et pour toi la même chose." »*
-> — [Muslim]
-
-### 5.3 L'Exercice du Miroir
-
-Quand tu souhaites quelque chose, pose-toi la question :
-
-> *« Est-ce que je souhaite la même chose pour mon frère/ma sœur ? »*
-
-Si non, travaille ton cœur.
-
----
-
-## 6. Les Fruits de cet Amour
-
-### 6.1 Fruits Individuels
-
-| Fruit | Description |
-|-------|-------------|
-| **Paix intérieure** | Plus de jalousie = plus de sérénité |
-| **Barakah** | Allah bénit celui qui veut le bien des autres |
-| **Iman renforcé** | Foi plus complète |
-| **Du'a exaucée** | Les anges invoquent pour toi |
-
-### 6.2 Fruits Collectifs
-
-| Fruit | Description |
-|-------|-------------|
-| **Communauté unie** | Moins de conflits |
-| **Entraide naturelle** | Chacun veut le bien de l'autre |
-| **Société juste** | Moins d'exploitation |
-| **Da'wa efficace** | Les non-musulmans voient l'amour |
-
----
-
-## 7. Le Niveau Supérieur : Al-Ithar (Préférer les Autres)
-
-Au-delà d'aimer pour son frère ce qu'on aime pour soi, il y a **préférer son frère à soi-même** :
-
-> **« وَيُؤْثِرُونَ عَلَى أَنفُسِهِمْ وَلَوْ كَانَ بِهِمْ خَصَاصَةٌ »**
->
-> *« Et ils préfèrent [les autres] à eux-mêmes, même s'ils sont dans le besoin. »*
-> — [Al-Hashr : 9]
-
-C'est le niveau des Ansar envers les Muhajirin. C'est le sommet de la fraternité.
-
----
-
-## 8. Action Concrète
-
-### Défi de la Semaine
-
-**Chaque jour, fais au moins UNE chose pour vouloir le bien d'un autre :**
+**Pendant 7 jours :**
 
 | Jour | Action |
 |------|--------|
-| Lundi | Envoyer un message d'encouragement |
-| Mardi | Partager une opportunité |
-| Mercredi | Faire du'a pour 5 personnes |
-| Jeudi | Aider quelqu'un sans rien attendre |
-| Vendredi | Visiter un malade ou appeler un isolé |
-| Samedi | Partager du savoir utile |
-| Dimanche | Pardonner à quelqu'un |
+| **Jour 1** | Fais du'a sincèrement pour 3 personnes (dont une que tu n'apprécies pas) |
+| **Jour 2** | Partage une information utile que tu aurais gardée pour toi |
+| **Jour 3** | Félicite sincèrement quelqu'un pour son succès |
+| **Jour 4** | Recommande quelqu'un pour une opportunité |
+| **Jour 5** | Donne un conseil en privé à quelqu'un dans l'erreur |
+| **Jour 6** | Fais un cadeau sans raison à un frère/sœur |
+| **Jour 7** | Examine ton cœur : reste-t-il de la jalousie ? |
 
-### Du'a Quotidienne
+### 📝 Test de Fraternité
 
-> **« اللَّهُمَّ طَهِّرْ قَلْبِي مِنَ الْحَسَدِ وَارْزُقْنِي حُبَّ الْخَيْرِ لِعِبَادِكَ »**
+Pose-toi ces questions honnêtement :
+
+| Question | Réponse Honnête |
+|----------|-----------------|
+| Quand un frère réussit, suis-je vraiment content ? | |
+| Ai-je gardé des informations utiles pour moi par égoïsme ? | |
+| Ai-je déjà souhaité l'échec de quelqu'un ? | |
+| Ferais-je pour mon frère ce que je fais pour moi-même ? | |
+
+### 📝 Invocation
+
+> **اللَّهُمَّ طَهِّرْ قَلْبِي مِنَ الْحَسَدِ، وَاجْعَلْنِي أُحِبُّ لإِخْوَانِي مَا أُحِبُّ لِنَفْسِي**
 >
-> *« Ô Allah, purifie mon cœur de la jalousie et accorde-moi d'aimer le bien pour Tes serviteurs. »*
+> *« Ô Allah, purifie mon cœur de l'envie, et fais que j'aime pour mes frères ce que j'aime pour moi-même. »*
 
 ---
 
-## Résumé
+## 📝 Résumé des Points Clés
 
-| Point Clé | Leçon |
-|-----------|-------|
-| **1** | La foi complète inclut aimer le bien pour les autres |
-| **2** | Cela concerne le spirituel, matériel, santé, famille, honneur |
-| **3** | La jalousie et l'égoïsme sont des obstacles |
-| **4** | On développe cet amour par la pratique et le du'a |
-| **5** | Invoquer pour les autres attire les invocations des anges |
-| **6** | Le niveau supérieur est de préférer les autres à soi |
+| # | Point Clé |
+|---|-----------|
+| 1️⃣ | La foi complète inclut d'aimer pour son frère ce qu'on aime pour soi |
+| 2️⃣ | La négation de la foi signifie l'imperfection, pas la mécréance |
+| 3️⃣ | Cela concerne tout le bien : spirituel, matériel, santé, honneur |
+| 4️⃣ | L'Ithar (préférer l'autre) est un niveau supérieur |
+| 5️⃣ | La jalousie est l'opposé de ce hadith |
+| 6️⃣ | La fraternité islamique est active, pas passive |
 
 ---
 
-## Sources
+## 📚 Sources et Références
 
-- **Sahih Al-Bukhari** - Hadith n°13
-- **Sahih Muslim** - Hadith n°45
-- **Jami' Al-'Ulum wal-Hikam** - Ibn Rajab Al-Hanbali
-- **Riyad As-Salihin** - Imam An-Nawawi
+| Ouvrage | Auteur |
+|---------|--------|
+| **Sahih Al-Bukhari** | Imam Al-Bukhari |
+| **Sahih Muslim** | Imam Muslim |
+| **Jami' Al-'Ulum wal-Hikam** | Ibn Rajab Al-Hanbali |
+| **Fath Al-Bari** | Ibn Hajar Al-'Asqalani |
+| **Sharh Sahih Muslim** | Imam An-Nawawi |
+| **Al-Mufhim** | Al-Qurtubi |
 
 ---
 
 **والله أعلم**
 
-*« Ô Allah, rends-nous parmi ceux qui aiment pour les autres ce qu'ils aiment pour eux-mêmes, et même plus. »*
-`
+*Ô Allah, mets l'amour entre nos cœurs et fais-nous aimer pour nos frères ce que nous aimons pour nous-mêmes.*
+
+**اللَّهُمَّ أَلِّفْ بَيْنَ قُلُوبِنَا وَأَصْلِحْ ذَاتَ بَيْنِنَا**
+`;
