@@ -1,18 +1,24 @@
-import { Lesson } from '../../../types'
-import { content as contentFr } from './fr'
+/**
+ * Leçon 011 : التوكل على الله حق توكله
+ * Le Vrai Tawakkul (Confiance en Allah)
+ */
 
-export const lesson011: Lesson = {
-  id: 'lesson-011',
+import { content as contentFr } from './fr';
+import { content as contentAr } from './ar';
+import { content as contentEn } from './en';
+
+export const lesson011 = {
+  id: '011-tawakkul',
+  title: {
+    fr: 'Le Vrai Tawakkul (Confiance en Allah)',
+    ar: 'التوكل على الله حق توكله',
+    en: 'True Tawakkul (Trust in Allah)'
+  },
   duration: '35 min',
   order: 11,
-  title: {
-    fr: 'Le Vrai Tawakkul',
-    ar: 'التوكل الحقيقي على الله',
-    en: 'True Reliance on Allah',
-  },
   content: {
     fr: contentFr,
-    ar: contentFr,
-    en: contentFr,
-  },
-}
+    ar: contentAr,
+    en: contentEn
+  }
+};
