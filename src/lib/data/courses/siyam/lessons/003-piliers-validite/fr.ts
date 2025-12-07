@@ -185,27 +185,22 @@ L'**abstention** des choses qui rompent le jeûne depuis l'aube jusqu'au coucher
 
 ## ❓ Questions Fréquentes (FAQ)
 
-**Q : Que faire si j'oublie de formuler l'intention avant le Fajr ?**
-R : Pour le jeûne obligatoire (Ramadan), le jeûne de ce jour n'est pas valide. Il faut s'abstenir par respect pour le mois et rattraper ce jour.
-
-**Q : L'intention de rompre le jeûne sans réellement rompre annule-t-elle le jeûne ?**
-R : 🟡 Chez les Malikites, il y a divergence. L'avis prépondérant est que l'intention ferme de rompre annule le jeûne, même sans acte.
-
-**Q : Puis-je faire une intention conditionnelle (si c'est Ramadan, je jeûne) ?**
-R : Oui, en cas de doute sur le jour (29 ou 30 Sha'ban), l'intention conditionnelle est permise.
-
-**Q : Le jeûne d'un enfant de 8 ans est-il valide ?**
-R : Oui, car il a la distinction. Le jeûne est valide mais pas obligatoire pour lui.
+| Question | Réponse |
+|----------|--------|
+| Que faire si j'oublie l'intention avant le Fajr ? | Pour Ramadan, le jeûne n'est pas valide. S'abstenir par respect et rattraper ce jour |
+| L'intention de rompre sans acte annule-t-elle le jeûne ? | 🟡 Malikites : l'avis prépondérant est que l'intention ferme annule le jeûne |
+| Puis-je faire une intention conditionnelle ? | Oui, en cas de doute sur le jour (29 ou 30 Sha'ban) |
+| Le jeûne d'un enfant de 8 ans est-il valide ? | Oui, car il a la distinction. Valide mais non obligatoire |
 
 ---
 
 ## 🎯 Action Concrète du Jour
 
-1. **Formulez** votre intention pour Ramadan dès la première nuit
-2. **Vérifiez** les horaires précis du Fajr et du Maghrib
-3. **Retardez** le suhur jusqu'à proche du Fajr
-4. **Hâtez** l'iftar dès le coucher du soleil
-5. **Évitez** de prononcer l'intention à voix haute
+| Phase | Actions |
+|-------|--------|
+| **Préparation** | Formulez l'intention dès la première nuit • Vérifiez horaires Fajr et Maghrib |
+| **Suhur** | Retardez jusqu'à proche du Fajr • Évitez de prononcer l'intention à voix haute |
+| **Iftar** | Hâtez dès le coucher du soleil |
 
 ---
 

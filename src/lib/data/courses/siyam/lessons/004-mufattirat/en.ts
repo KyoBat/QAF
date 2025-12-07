@@ -163,26 +163,14 @@ export const content = `
 | Intravenous injection | Does not invalidate (if not nutritional) |
 | Nutritional IV fluids | Invalidates |
 | Insulin | Does not invalidate |
-
-**2. Medications:**
-| Type | Ruling |
-|------|--------|
 | Oral pills | Invalidate |
 | Suppositories | Difference (preponderant: does not invalidate) |
 | Inhaler | Difference (preponderant: does not invalidate if for breathing) |
-
-**3. Medical Examinations:**
-| Type | Ruling |
-|------|--------|
 | Blood test | Does not invalidate |
 | Endoscopy | If no substances enter: does not invalidate |
 | X-rays | Do not invalidate |
-
-### Modern Technologies
-
-- **Toothpaste:** Does not invalidate if not swallowed
-- **Mouthwash:** Does not invalidate if not swallowed
-- **Lipstick:** Does not invalidate
+| Toothpaste/Mouthwash | Does not invalidate if not swallowed |
+| Lipstick | Does not invalidate |
 
 ---
 
@@ -201,38 +189,22 @@ export const content = `
 
 ## ❓ Frequently Asked Questions
 
-**Q1: I ate forgetfully, should I complete my fast?**
-A: Yes, complete your fast with no makeup required. The Prophet ﷺ said: "For it is Allah who fed him and gave him drink."
-
-**Q2: Should I remind someone who forgot they're fasting?**
-A: Yes, reminding them is recommended as sincere advice.
-
-**Q3: I accidentally swallowed water while rinsing my mouth, what's the ruling?**
-A: The safer view is to make up, though some say no makeup due to lack of intention.
-
-**Q4: Does an asthma inhaler invalidate the fast?**
-A: Most contemporary scholars say no, as it goes to the lungs not the stomach.
-
-**Q5: What's the difference between overwhelming and deliberate vomiting?**
-A: Overwhelming: exits involuntarily and does not invalidate. Deliberate: extracted intentionally and invalidates.
+| Question | Answer |
+|----------|--------|
+| I ate forgetfully, should I complete my fast? | Yes, complete with no makeup. "For it is Allah who fed him and gave him drink" |
+| Should I remind someone who forgot they're fasting? | Yes, reminding is recommended as sincere advice |
+| I accidentally swallowed water while rinsing, what's the ruling? | Safer view: make up. Some say no makeup due to lack of intention |
+| Does an asthma inhaler invalidate the fast? | Most scholars: no, as it goes to lungs not stomach |
+| Difference between overwhelming and deliberate vomiting? | Overwhelming: involuntary, no invalidation. Deliberate: intentional, invalidates |
 
 ---
 
 ## 🎯 Practical Action Plan
 
-### Preventing Nullifiers
-
-- [ ] **Be careful** not to eat or drink after Fajr
-- [ ] **Avoid** exaggerating in mouth rinsing
-- [ ] **Know** the difference between what invalidates and what doesn't
-- [ ] **Consult** scholars when uncertain
-
-### When Falling into a Nullifier
-
-- [ ] **Stop** the action immediately
-- [ ] **Repent** and seek forgiveness
-- [ ] **Determine** if makeup or expiation is required
-- [ ] **Continue** abstaining for the rest of the day
+| Phase | Steps |
+|-------|-------|
+| **Preventing Nullifiers** | Be careful after Fajr • Avoid exaggerating in rinsing • Know what invalidates • Consult scholars when uncertain |
+| **When Falling into a Nullifier** | Stop immediately • Repent and seek forgiveness • Determine if makeup/expiation required • Continue abstaining |
 
 ---
 

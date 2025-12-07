@@ -204,27 +204,23 @@ L'apparition des menstrues ou lochies, même juste avant le Maghrib, annule le j
 
 ## ❓ Questions Fréquentes (FAQ)
 
-**Q : J'ai mangé par oubli, dois-je continuer mon jeûne ?**
-R : Oui absolument. C'est Allah qui t'a nourri. Continue ton jeûne normalement, il est valide.
-
-**Q : Le sang qui sort d'une blessure annule-t-il le jeûne ?**
-R : Non, le sang qui sort du corps (blessure, saignement de nez) n'annule pas le jeûne.
-
-**Q : Puis-je me brosser les dents avec du dentifrice ?**
-R : Oui, à condition de ne rien avaler. Préférable d'utiliser le siwak ou de se brosser avant le Fajr.
-
-**Q : Embrasser mon épouse annule-t-il mon jeûne ?**
-R : Non, tant qu'il n'y a pas d'éjaculation ni de rapport intime. Mais c'est makruh si on craint de perdre le contrôle.
+| Question | Réponse |
+|----------|--------|
+| J'ai mangé par oubli, dois-je continuer ? | Oui absolument. C'est Allah qui t'a nourri. Continue normalement, il est valide |
+| Le sang d'une blessure annule-t-il le jeûne ? | Non, le sang qui sort du corps n'annule pas le jeûne |
+| Puis-je me brosser les dents avec du dentifrice ? | Oui, sans rien avaler. Préférable d'utiliser le siwak ou se brosser avant Fajr |
+| Embrasser mon épouse annule-t-il mon jeûne ? | Non, tant qu'il n'y a pas d'éjaculation ni de rapport. Makruh si on craint perdre le contrôle |
 
 ---
 
 ## 🎯 Action Concrète du Jour
 
-1. **Mémorisez** les trois conditions d'annulation : intention, conscience, absence de contrainte
-2. **Rappelez-vous** : l'oubli pardonne, la contrainte excuse
-3. **Évitez** les situations à risque (goûter excessif, caresses avec le conjoint)
-4. **Consultez** un savant pour les cas médicaux complexes
-5. **Notez** les jours à rattraper si vous rompez involontairement
+| Phase | Actions |
+|-------|--------|
+| **Mémoriser** | Les 3 conditions d'annulation : intention, conscience, absence de contrainte |
+| **Retenir** | L'oubli pardonne, la contrainte excuse |
+| **Éviter** | Situations à risque (goûter excessif, caresses avec le conjoint) |
+| **Consulter** | Un savant pour les cas médicaux complexes |
 
 ---
 

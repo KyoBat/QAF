@@ -168,30 +168,18 @@ From the appearance of true dawn until sunset.
 
 ### Methods for Knowing Fasting Times
 
-**1. Calendars and Astronomical Calculations:**
-- Provide times with precision
-- Recommended to add precaution (2-3 minutes for imsak)
-- Used when sighting is not possible
-
-**2. Electronic Applications:**
-- Facilitate knowing times
-- Must verify accuracy of settings
-- Official source of the country is the reference
-
-**3. Adhan (Call to Prayer):**
-- Fajr adhan marks the obligation to abstain
-- Maghrib adhan marks permission to break fast
+| Tool | Usage |
+|------|-------|
+| **Calendars & Astronomical Calculations** | Precise times • Add 2-3 min precaution for imsak • Used when sighting not possible |
+| **Electronic Applications** | Facilitate knowing times • Verify accuracy • Official country source is reference |
+| **Adhan** | Fajr adhan = abstention obligation • Maghrib adhan = permission to break fast |
 
 ### Special Cases
 
-**Air Travel:**
-- What matters is the fasting person's location, not their home country
-- If the sun sets at their location, they break fast
-- The day may lengthen or shorten depending on flight direction
-
-**Polar Regions:**
-- If there is distinguishable night and day, fast according to them
-- If they are not distinguishable, fast according to nearest moderate country
+| Case | Ruling |
+|------|--------|
+| **Air Travel** | What matters is fasting person's location • Break fast when sun sets at location • Day may lengthen/shorten |
+| **Polar Regions** | If night/day distinguishable: fast accordingly • If not: fast according to nearest moderate country |
 
 ---
 
@@ -211,45 +199,23 @@ From the appearance of true dawn until sunset.
 
 ## ❓ Frequently Asked Questions
 
-**Q1: What is the difference between true and false dawn?**
-A: False dawn is a vertical light that appears then disappears. True dawn is a horizontal light that spreads on the horizon and does not disappear.
-
-**Q2: Is it permissible to eat during the adhan?**
-A: If the adhan is exactly on time, abstention is obligatory. If it is slightly before the time, one may finish the bite.
-
-**Q3: What if I'm uncertain about sunset?**
-A: Do not break fast until you are certain of sunset. The default is that daytime remains.
-
-**Q4: Should one break fast with water or dates?**
-A: The Sunnah is to break fast with fresh dates; if not found, then dry dates; if not found, then water.
-
-**Q5: How long should the ideal iftar meal take?**
-A: Recommended to break fast with a few dates, then pray Maghrib, then complete the meal moderately.
+| Question | Answer |
+|----------|--------|
+| What is the difference between true and false dawn? | False dawn: vertical light that disappears. True dawn: horizontal light spreading on horizon |
+| Is it permissible to eat during the adhan? | If exactly on time: abstention obligatory. If slightly before: may finish the bite |
+| What if I'm uncertain about sunset? | Do not break fast until certain. Default is daytime remains |
+| Should one break fast with water or dates? | Sunnah: fresh dates, then dry dates, then water |
+| How long should the ideal iftar meal take? | Break with dates, pray Maghrib, then complete meal moderately |
 
 ---
 
 ## 🎯 Practical Action Plan
 
-### Daily Preparation
-
-- [ ] **Confirm** times for imsak and iftar
-- [ ] **Prepare** suhur and iftar
-- [ ] **Set** alarm for suhur
-
-### At Suhur
-
-- [ ] **Delay** until just before Fajr
-- [ ] **Eat** moderately
-- [ ] **Make** supplication and dhikr
-- [ ] **Stop** a few minutes before adhan as precaution
-
-### At Iftar
-
-- [ ] **Hasten** after confirming sunset
-- [ ] **Begin** with dates or water
-- [ ] **Supplicate** before breaking fast
-- [ ] **Pray** Maghrib on time
-- [ ] **Be moderate** in eating
+| Phase | Steps |
+|-------|-------|
+| **Daily Preparation** | Confirm imsak/iftar times • Prepare suhur and iftar • Set alarm for suhur |
+| **At Suhur** | Delay until just before Fajr • Eat moderately • Make dhikr • Stop minutes before adhan |
+| **At Iftar** | Hasten after sunset confirmed • Begin with dates/water • Supplicate • Pray Maghrib • Be moderate |
 
 ---
 
