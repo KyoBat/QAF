@@ -11,6 +11,7 @@ import { lesson003 } from './lessons/003-rencontres'
 import { lesson004 } from './lessons/004-face-pouvoir'
 import { lesson005 } from './lessons/005-methodes'
 import { lesson006 } from './lessons/006-eleves'
+import { lesson007 } from './lessons/007-livres'
 
 export const historyImamsCourse: Course = {
   ...historyImamsMeta,
@@ -21,5 +22,6 @@ export const historyImamsCourse: Course = {
     lesson004,
     lesson005,
     lesson006,
+    lesson007,
   ],
 }
