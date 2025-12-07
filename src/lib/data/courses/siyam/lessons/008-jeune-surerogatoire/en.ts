@@ -171,25 +171,21 @@ export const content = `
 
 ## ❓ Frequently Asked Questions
 
-**Q1: What is the best fasting?**
-A: The fasting of Dawud: one day on, one day off. And fasting three days every month.
-
-**Q2: Can one fast Shawwal before making up Ramadan?**
-A: Disputed. Safer to make up first.
-
-**Q3: Does fasting Arafah expiate major sins?**
-A: It expiates minor sins. Major sins require specific repentance.
+| Question | Answer |
+|----------|--------|
+| What is the best fasting? | Fasting of Dawud: one day on, one day off. And three days every month |
+| Can one fast Shawwal before making up Ramadan? | Disputed. Safer to make up first |
+| Does fasting Arafah expiate major sins? | Expiates minor sins. Major sins require specific repentance |
 
 ---
 
 ## 🎯 Practical Action Plan
 
-### Maintaining Voluntary Fasting
-
-- [ ] **Fast** Monday and Thursday weekly
-- [ ] **Fast** the White Days monthly
-- [ ] **Be keen** on Ashura and Arafah
-- [ ] **Fast** six of Shawwal
+| Frequency | Steps |
+|-----------|-------|
+| **Weekly** | Monday and Thursday |
+| **Monthly** | White Days (13-14-15) |
+| **Yearly** | Ashura • Arafah • Six of Shawwal |
 
 ---
 

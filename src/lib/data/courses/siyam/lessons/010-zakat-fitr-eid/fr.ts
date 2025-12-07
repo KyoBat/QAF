@@ -277,26 +277,15 @@ Selon l'avis Shafi'ite et Hanbalite, oui c'est recommandé. Selon les Malikites 
 
 ## ❓ Questions Fréquentes
 
-**Q1 : Peut-on donner la Zakat Al-Fitr dès le début du Ramadan ?**
-R : Les Malikites permettent de l'acquitter **un ou deux jours avant** l'Aïd. Les Shafi'ites permettent de la donner dès le **premier jour de Ramadan**. Le temps optimal reste la nuit ou le matin de l'Aïd.
-
-**Q2 : Que faire si on a oublié de la payer ?**
-R : Elle reste **une dette** qu'il faut acquitter même après l'Aïd. Elle est valide mais on perd la récompense optimale et on commet un péché si le retard était volontaire.
-
-**Q3 : Le père doit-il payer pour ses enfants adultes ?**
-R : Non, sauf s'ils sont encore à sa charge. Les enfants autonomes paient pour eux-mêmes.
-
-**Q4 : Peut-on regrouper plusieurs Zakat Al-Fitr pour un seul pauvre ?**
-R : Oui, un pauvre peut recevoir la Zakat de plusieurs personnes.
-
-**Q5 : La prière de l'Aïd remplace-t-elle le Fajr ?**
-R : Non, absolument pas. Le Fajr reste obligatoire et doit être accompli à son heure. La prière de l'Aïd est distincte et se fait après le lever complet du soleil.
-
-**Q6 : Que faire si on manque la prière de l'Aïd ?**
-R : Selon les Malikites, elle ne se rattrape pas individuellement. Selon les Shafi'ites et Hanbalites, on peut la prier seul (recommandé).
-
-**Q7 : Les enfants doivent-ils assister à la prière de l'Aïd ?**
-R : C'est recommandé pour les habituer à cette pratique, même s'ils ne prient pas encore.
+| Question | Réponse |
+|----------|--------|
+| Peut-on donner la Zakat Al-Fitr dès le début de Ramadan ? | Malikites : 1-2 jours avant l'Aïd. Shafi'ites : dès le 1er jour. Optimal : nuit ou matin de l'Aïd |
+| Que faire si on a oublié de la payer ? | Reste une dette à acquitter même après l'Aïd. Valide mais péché si retard volontaire |
+| Le père doit-il payer pour ses enfants adultes ? | Non, sauf s'ils sont encore à sa charge |
+| Peut-on regrouper plusieurs Zakat pour un seul pauvre ? | Oui, un pauvre peut recevoir la Zakat de plusieurs personnes |
+| La prière de l'Aïd remplace-t-elle le Fajr ? | Non, le Fajr reste obligatoire et distinct |
+| Que faire si on manque la prière de l'Aïd ? | Malikites : ne se rattrape pas. Shafi'ites/Hanbalites : on peut la prier seul |
+| Les enfants doivent-ils assister à la prière ? | Recommandé pour les habituer, même s'ils ne prient pas encore |
 
 ---
 

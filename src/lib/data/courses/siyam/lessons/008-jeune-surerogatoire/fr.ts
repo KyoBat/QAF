@@ -186,27 +186,23 @@ export const content = `# 📜 صِيَامُ التَّطَوُّعِ — Le Je
 
 ## ❓ Questions Fréquentes (FAQ)
 
-**Q : Puis-je jeûner les 6 de Shawwal avant de rattraper mes jours de Ramadan ?**
-R : 🟡 Il est recommandé de faire le Qada d'abord, mais certains savants permettent de commencer par Shawwal.
-
-**Q : Si je commence un jeûne surérogatoire et que je suis invité, puis-je rompre ?**
-R : Oui, c'est permis. Chez les Malikites, il est recommandé de rattraper ce jour.
-
-**Q : Le jeûne du lundi compte-t-il si j'ai aussi l'intention de rattrapage ?**
-R : Il y a divergence. Il vaut mieux séparer les intentions.
-
-**Q : Combien de jours dois-je jeûner pour avoir la récompense de l'année ?**
-R : 3 jours par mois (les jours blancs) ou Ramadan + 6 de Shawwal.
+| Question | Réponse |
+|----------|--------|
+| Puis-je jeûner les 6 de Shawwal avant de rattraper Ramadan ? | 🟡 Recommandé de faire le Qada d'abord, mais certains permettent Shawwal d'abord |
+| Si je commence un jeûne surérogatoire et suis invité, puis-je rompre ? | Oui, permis. Malikites : recommandé de rattraper ce jour |
+| Le jeûne du lundi compte-t-il avec intention de rattrapage ? | Divergence. Mieux de séparer les intentions |
+| Combien de jours pour avoir la récompense de l'année ? | 3 jours/mois (jours blancs) ou Ramadan + 6 de Shawwal |
 
 ---
 
 ## 🎯 Action Concrète du Jour
 
-1. **Planifiez** les 6 jours de Shawwal après chaque Ramadan
-2. **Ne manquez pas** 'Arafat et 'Achoura chaque année
-3. **Essayez** de jeûner les jours blancs (13, 14, 15)
-4. **Commencez** par le lundi et jeudi si vous débutez
-5. **Visez** le jeûne de Dawud si vous êtes constant
+| Fréquence | Actions |
+|-----------|--------|
+| **Annuel** | 6 jours de Shawwal • 'Arafat • 'Achoura |
+| **Mensuel** | Jours blancs (13, 14, 15) |
+| **Hebdomadaire** | Lundi et jeudi |
+| **Objectif avancé** | Jeûne de Dawud (un jour sur deux) |
 
 ---
 

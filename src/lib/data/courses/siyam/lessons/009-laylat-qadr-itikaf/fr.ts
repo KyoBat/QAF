@@ -233,27 +233,21 @@ L'**I'tikaf** est la retraite spirituelle dans une mosquée avec l'intention de 
 
 ## ❓ Questions Fréquentes (FAQ)
 
-**Q : Comment savoir si j'ai vécu Laylat al-Qadr ?**
-R : Vous ne le saurez peut-être pas avec certitude. L'important est de l'avoir cherchée avec foi et espérance.
-
-**Q : Puis-je faire l'I'tikaf un seul jour ?**
-R : 🟡 Chez les Malikites, la durée minimale est d'un jour et une nuit. Moins que cela reste récompensé mais n'est pas l'I'tikaf complet.
-
-**Q : Une femme peut-elle faire l'I'tikaf chez elle ?**
-R : Il y a divergence. La plupart des savants disent qu'elle doit le faire à la mosquée, mais certains Hanbalites permettent un coin de la maison.
-
-**Q : Que dire pendant Laylat al-Qadr ?**
-R : اللَّهُمَّ إِنَّكَ عَفُوٌّ تُحِبُّ الْعَفْوَ فَاعْفُ عَنِّي (Allahumma innaka 'Afuwwun tuhibbul-'afwa fa'fu 'anni)
+| Question | Réponse |
+|----------|--------|
+| Comment savoir si j'ai vécu Laylat al-Qadr ? | Vous ne le saurez peut-être pas. L'important est de l'avoir cherchée avec foi et espérance |
+| Puis-je faire l'I'tikaf un seul jour ? | 🟡 Malikites : durée minimale = 1 jour + 1 nuit. Moins est récompensé mais pas l'I'tikaf complet |
+| Une femme peut-elle faire l'I'tikaf chez elle ? | Divergence. Plupart : mosquée. Certains Hanbalites : coin de la maison |
+| Que dire pendant Laylat al-Qadr ? | اللَّهُمَّ إِنَّكَ عَفُوٌّ تُحِبُّ الْعَفْوَ فَاعْفُ عَنِّي |
 
 ---
 
 ## 🎯 Action Concrète du Jour
 
-1. **Planifiez** les dix dernières nuits de Ramadan
-2. **Veillez** particulièrement les nuits impaires (21, 23, 25, 27, 29)
-3. **Mémorisez** le du'a enseigné par le Prophète ﷺ
-4. **Envisagez** l'I'tikaf même partiel si vous ne pouvez pas 10 jours
-5. **Multipliez** les invocations, le dhikr et la lecture du Coran
+| Phase | Actions |
+|-------|--------|
+| **Les 10 dernières nuits** | Planifiez • Veillez les nuits impaires (21, 23, 25, 27, 29) • Mémorisez le du'a • Multipliez dhikr et Coran |
+| **I'tikaf** | Envisagez même partiel si 10 jours impossibles |
 
 ---
 

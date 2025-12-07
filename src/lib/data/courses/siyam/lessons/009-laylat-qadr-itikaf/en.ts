@@ -193,32 +193,20 @@ export const content = `
 
 ## ❓ Frequently Asked Questions
 
-**Q1: How do I know if I caught Laylat Al-Qadr?**
-A: Knowing is not required. Whoever prays all odd nights has caught it.
-
-**Q2: Can a woman observe i'tikaf?**
-A: Yes, in a mosque with husband's permission, or in her home prayer area according to some scholars.
-
-**Q3: Can one leave for work during i'tikaf?**
-A: Complete i'tikaf does not permit leaving for work.
+| Question | Answer |
+|----------|--------|
+| How do I know if I caught Laylat Al-Qadr? | Knowing is not required. Whoever prays all odd nights has caught it |
+| Can a woman observe i'tikaf? | Yes, in mosque with husband's permission, or home prayer area (some scholars) |
+| Can one leave for work during i'tikaf? | Complete i'tikaf does not permit leaving for work |
 
 ---
 
 ## 🎯 Practical Action Plan
 
-### For the Last Ten Nights
-
-- [ ] **Free** time as much as possible
-- [ ] **Revive** odd nights especially
-- [ ] **Increase** supplication and dhikr
-- [ ] **Complete** the Quran
-
-### For I'tikaf
-
-- [ ] **Make** sincere intention
-- [ ] **Prepare** necessities
-- [ ] **Inform** family and work
-- [ ] **Create** worship schedule
+| Phase | Steps |
+|-------|-------|
+| **For the Last Ten Nights** | Free time as much as possible • Revive odd nights • Increase supplication and dhikr • Complete Quran |
+| **For I'tikaf** | Sincere intention • Prepare necessities • Inform family and work • Create worship schedule |
 
 ---
 

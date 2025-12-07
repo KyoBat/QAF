@@ -160,15 +160,19 @@ export const content = `
 
 ### Calculating Zakat Al-Fitr
 
-- **Quantity:** 2.5 kg × number of family members
-- **Value:** According to price of staple food
-- **2024 Estimate:** Approximately 7-10 euros per person
+| Aspect | Detail |
+|--------|--------|
+| **Quantity** | 2.5 kg × number of family members |
+| **Value** | According to price of staple food |
+| **2024 Estimate** | Approximately 7-10 euros per person |
 
 ### Paying Through Organizations
 
-- Delegation in giving is permissible
-- Must ensure it reaches before Eid prayer
-- Preferably given in country of residence
+| Point | Note |
+|-------|------|
+| Delegation | Permissible |
+| Timing | Must reach before Eid prayer |
+| Location | Preferably given in country of residence |
 
 ---
 
@@ -186,32 +190,20 @@ export const content = `
 
 ## ❓ Frequently Asked Questions
 
-**Q1: Is it permissible to give Zakat Al-Fitr as cash?**
-A: According to Hanafis yes, according to the majority it must be given as food.
-
-**Q2: When does takbir begin?**
-A: From sunset of Eid eve until Eid prayer.
-
-**Q3: Can Eid prayer be made up if missed?**
-A: According to Shafi'is and Hanbalis yes, according to Malikis and Hanafis no.
+| Question | Answer |
+|----------|--------|
+| Is it permissible to give Zakat Al-Fitr as cash? | Hanafis: yes. Majority: must be given as food |
+| When does takbir begin? | From sunset of Eid eve until Eid prayer |
+| Can Eid prayer be made up if missed? | Shafi'is/Hanbalis: yes. Malikis/Hanafis: no |
 
 ---
 
 ## 🎯 Practical Action Plan
 
-### Before Eid
-
-- [ ] **Calculate** number of family members
-- [ ] **Give** Zakat Al-Fitr before prayer
-- [ ] **Prepare** clothes
-- [ ] **Make takbir** from Eid eve
-
-### Eid Day
-
-- [ ] **Bathe** and apply perfume
-- [ ] **Eat** (odd number of dates)
-- [ ] **Pray** Eid prayer
-- [ ] **Congratulate** and visit
+| Phase | Steps |
+|-------|-------|
+| **Before Eid** | Calculate family members • Give Zakat Al-Fitr before prayer • Prepare clothes • Make takbir from Eid eve |
+| **Eid Day** | Bathe and apply perfume • Eat odd number of dates • Pray Eid prayer • Congratulate and visit |
 
 ---
 
