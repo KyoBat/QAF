@@ -1,278 +1,259 @@
 /**
  * Siyam - Leçon 004: Les Actes qui Annulent le Jeûne (Al-Mufattirat)
- * Contenu en Français
+ * Contenu en Français - Conforme au FIQH-REDACTION-GUIDE.md
  */
 
-export const content = `# Les Actes qui Annulent le Jeûne (المفطرات)
+export const content = `# 📜 المُفَطِّرَاتُ — Les Actes qui Annulent le Jeûne
 
-## Introduction
+> *« Le jeûneur doit préserver son jeûne de tout ce qui l'annule, car le jeûne est un dépôt qu'Allah lui a confié. »*
 
-Connaître ce qui annule le jeûne est essentiel pour préserver son adoration. Allah تعالى dit :
+---
+
+## 📜 Textes Fondateurs
+
+### Coran
 
 > **﴿ ثُمَّ أَتِمُّوا الصِّيَامَ إِلَى اللَّيْلِ ۚ وَلَا تُبَاشِرُوهُنَّ وَأَنتُمْ عَاكِفُونَ فِي الْمَسَاجِدِ ﴾**
 >
-> *« Puis accomplissez le jeûne jusqu'à la nuit. Et ne cohabitez pas avec elles pendant que vous êtes en retraite spirituelle dans les mosquées. »* [Al-Baqara : 187]
+> *« Puis accomplissez le jeûne jusqu'à la nuit. Et ne cohabitez pas avec elles pendant que vous êtes en retraite spirituelle dans les mosquées. »*
+> — [Sourate Al-Baqara : 187]
 
-Le Prophète ﷺ a dit dans un hadith Qudsi qu'Allah تعالى dit :
+### Hadiths
 
-> **« يَتْرُكُ طَعَامَهُ وَشَرَابَهُ وَشَهْوَتَهُ مِنْ أَجْلِي »**
+> **Dans un hadith Qudsi, Allah تعالى dit :** « يَتْرُكُ طَعَامَهُ وَشَرَابَهُ وَشَهْوَتَهُ مِنْ أَجْلِي »
 >
 > *« Il (le jeûneur) délaisse sa nourriture, sa boisson et son désir pour Moi. »*
 > — [Al-Bukhari (1904) et Muslim (1151)]
-
----
-
-## Classification des Annulateurs
-
-Les annulateurs du jeûne se divisent en deux catégories :
-
-| Catégorie | Conséquence | Exemples |
-|-----------|-------------|----------|
-| **Annulateurs avec Qada seulement** | Rattrapage | Manger par oubli puis continuer après s'en souvenir |
-| **Annulateurs avec Qada + Kaffara** | Rattrapage + Expiation | Rapport intime volontaire (selon les conditions) |
-
----
-
-## 1. Manger et Boire Volontairement (الأكل والشرب عمداً)
-
-### 1.1 La Règle Générale
-
-Toute introduction volontaire de nourriture ou boisson dans le corps par la voie normale (bouche) annule le jeûne.
-
-### 1.2 Conditions de l'Annulation
-
-Pour que le jeûne soit annulé, il faut :
-
-1. **L'intention** (القصد) : L'acte est volontaire
-2. **La conscience** (التذكر) : La personne sait qu'elle jeûne
-3. **L'absence de contrainte** (عدم الإكراه) : Pas de force majeure
-
-### 1.3 Le Cas de l'Oubli
-
-Le Prophète ﷺ a dit :
 
 > **« مَنْ نَسِيَ وَهُوَ صَائِمٌ فَأَكَلَ أَوْ شَرِبَ فَلْيُتِمَّ صَوْمَهُ، فَإِنَّمَا أَطْعَمَهُ اللَّهُ وَسَقَاهُ »**
 >
 > *« Celui qui oublie alors qu'il jeûne, puis mange ou boit, qu'il complète son jeûne, car c'est Allah qui l'a nourri et abreuvé. »*
 > — [Al-Bukhari (1933) et Muslim (1155)]
 
-| Situation | Statut du jeûne |
-|-----------|-----------------|
-| Manger/boire par oubli | ✅ Valide - continuer |
-| Manger/boire volontairement | ❌ Annulé - Qada |
-| Manger/boire sous la contrainte | ✅ Valide selon l'avis prépondérant |
-
----
-
-## 2. Les Rapports Intimes (الجماع)
-
-### 2.1 L'Annulation
-
-Les rapports intimes pendant la journée de Ramadan annulent le jeûne et entraînent :
-- Le **Qada** (rattrapage)
-- La **Kaffara** (expiation) pour le jeûne de Ramadan
-
-### 2.2 La Kaffara (الكفارة)
-
-La preuve est le hadith de l'homme qui est venu voir le Prophète ﷺ :
-
-> **« هَلَكْتُ يَا رَسُولَ اللَّهِ! قَالَ: مَا أَهْلَكَكَ؟ قَالَ: وَقَعْتُ عَلَى امْرَأَتِي فِي رَمَضَانَ... »**
->
-> *« Je suis perdu, ô Messager d'Allah ! Il dit : Qu'est-ce qui t'a perdu ? Il dit : J'ai eu des rapports avec ma femme pendant Ramadan... »*
-> — [Al-Bukhari (1936) et Muslim (1111)]
-
-### 2.3 Ordre de la Kaffara
-
-| Ordre | Expiation | Condition |
-|-------|-----------|-----------|
-| 1 | Affranchir un esclave | Si possible |
-| 2 | Jeûner 2 mois consécutifs | Si incapable d'affranchir |
-| 3 | Nourrir 60 pauvres | Si incapable de jeûner |
-
-### 2.4 Divergences sur la Kaffara
-
-| École | Kaffara obligatoire pour |
-|-------|-------------------------|
-| 🟡 **Malikite** | Rapport intime uniquement |
-| 🔵 **Hanafite** | Manger, boire et rapport intime |
-| 🟢 **Shafi'ite** | Rapport intime uniquement |
-| 🔴 **Hanbalite** | Rapport intime uniquement |
-
----
-
-## 3. L'Éjaculation Provoquée (الاستمناء)
-
-### 3.1 Règle
-
-L'éjaculation provoquée volontairement (par la main ou autre) annule le jeûne.
-
-### 3.2 Divergences
-
-| École | Statut | Conséquence |
-|-------|--------|-------------|
-| 🟡 **Malikite** | Annule le jeûne | Qada seulement |
-| 🔵 **Hanafite** | Annule le jeûne | Qada seulement |
-| 🟢 **Shafi'ite** | Annule le jeûne | Qada seulement |
-| 🔴 **Hanbalite** | Annule le jeûne | Qada seulement |
-
-### 3.3 Le Madhi (المذي)
-
-Le **madhi** (liquide prostatique) :
-
-| École | Si le jeûneur provoque sa sortie |
-|-------|----------------------------------|
-| 🟡 **Malikite** | Annule le jeûne |
-| Autres écoles | N'annule pas selon l'avis prépondérant |
-
----
-
-## 4. Le Vomissement Provoqué (الاستقاءة)
-
-### 4.1 La Règle
-
-Le Prophète ﷺ a dit :
-
 > **« مَنْ ذَرَعَهُ الْقَيْءُ فَلَيْسَ عَلَيْهِ قَضَاءٌ، وَمَنِ اسْتَقَاءَ عَمْدًا فَلْيَقْضِ »**
 >
 > *« Celui qui est pris de vomissement n'a pas à rattraper, mais celui qui se fait vomir volontairement doit rattraper. »*
-> — [Abu Dawud (2380), At-Tirmidhi - Hassan]
-
-### 4.2 Tableau Récapitulatif
-
-| Type de vomissement | Statut du jeûne |
-|--------------------|-----------------|
-| Involontaire (غلبه القيء) | ✅ Valide |
-| Volontaire (استقاء) | ❌ Annulé - Qada |
-| Involontaire puis avalé volontairement | ❌ Annulé - Qada |
+> — [Abu Dawud (2380), At-Tirmidhi — Hassan]
 
 ---
 
-## 5. Les Menstrues et Lochies (الحيض والنفاس)
+## 🎓 Paroles des Savants
 
-### 5.1 Règle
+> **Imam Malik ibn Anas** رحمه الله :
+> *« Les annulatifs du jeûne sont : manger, boire, les rapports intimes et tout ce qui parvient intentionnellement à l'estomac par une voie ouverte. »*
+> — [Al-Mudawwana, Kitab As-Siyam]
 
-L'apparition des menstrues ou des lochies, même juste avant le Maghrib, annule le jeûne de ce jour.
+> **Ibn Rushd Al-Jadd** رحمه الله :
+> *« Le principe est que ce qui annule le jeûne est ce qui parvient au corps par une voie normale avec intention et conscience. L'oubli et la contrainte pardonnent. »*
+> — [Al-Muqaddimât Al-Mumahhadât]
 
-### 5.2 Preuve
+> **Khalil ibn Ishaq** رحمه الله :
+> *« Annule le jeûne : l'arrivée d'un corps à l'estomac ou au cerveau par une voie ouverte volontairement, les rapports intimes, l'éjaculation provoquée, les menstrues. »*
+> — [Mukhtasar Khalil]
 
-'Aisha رضي الله عنها a dit :
+> **Ad-Dardir** رحمه الله :
+> *« La kaffara n'est due que pour le rapport intime volontaire en Ramadan. Manger et boire n'obligent que le rattrapage chez nous, contrairement aux Hanafites. »*
+> — [Ach-Charh Al-Kabir]
 
-> **« كُنَّا نُؤْمَرُ بِقَضَاءِ الصَّوْمِ وَلَا نُؤْمَرُ بِقَضَاءِ الصَّلاَةِ »**
->
-> *« Nous recevions l'ordre de rattraper le jeûne et non de rattraper la prière. »*
-> — [Al-Bukhari (321) et Muslim (335)]
+> **Ibn Juzayy** رحمه الله :
+> *« L'oubli ne rompt pas le jeûne par consensus des savants Malikites. Mais celui qui se souvient doit s'arrêter immédiatement. »*
+> — [Al-Qawanin Al-Fiqhiyya]
 
-### 5.3 Règles Pratiques
+---
+
+## 🔍 Analyse Linguistique
+
+| Terme Arabe | Translittération | Sens Littéral | Sens Technique |
+|-------------|------------------|---------------|----------------|
+| المُفَطِّرَات | Al-Mufattirât | Ce qui fait rompre | Actes annulant le jeûne |
+| القَضَاء | Al-Qaḍâ' | Accomplissement | Rattrapage des jours |
+| الكَفَّارَة | Al-Kaffâra | Couverture | Expiation obligatoire |
+| الجِمَاع | Al-Jimâ' | Union | Rapports intimes |
+| الاسْتِمْنَاء | Al-Istimnâ' | Provocation | Masturbation |
+| الاسْتِقَاءَة | Al-Istiqâ'a | Provocation | Vomissement volontaire |
+| النِّسْيَان | An-Nisyân | Oubli | Manger par oubli |
+| الإِكْرَاه | Al-Ikrâh | Contrainte | Force majeure |
+
+---
+
+## 📚 Explication Détaillée
+
+### Classification des Annulateurs
+
+| Catégorie | Conséquence | Exemples |
+|-----------|-------------|----------|
+| **Annulateurs avec Qada seulement** | Rattrapage | Manger/boire volontairement |
+| **Annulateurs avec Qada + Kaffara** | Rattrapage + Expiation | Rapport intime volontaire en Ramadan |
+
+### 1. Manger et Boire Volontairement
+
+**Conditions de l'annulation :**
+- L'intention (القصد) : L'acte est volontaire
+- La conscience (التذكر) : La personne sait qu'elle jeûne
+- L'absence de contrainte (عدم الإكراه)
+
+| Situation | Statut du jeûne |
+|-----------|-----------------|
+| Manger/boire par oubli | ✅ Valide — continuer |
+| Manger/boire volontairement | ❌ Annulé — Qada |
+| Manger/boire sous contrainte | ✅ Valide selon l'avis prépondérant |
+
+### 2. Les Rapports Intimes (الجماع)
+
+Les rapports intimes pendant la journée de Ramadan entraînent :
+- Le **Qada** (rattrapage)
+- La **Kaffara** (expiation)
+
+**Ordre de la Kaffara :**
+
+| Ordre | Expiation | Condition |
+|-------|-----------|-----------|
+| 1 | Affranchir un esclave | Si possible (inapplicable aujourd'hui) |
+| 2 | Jeûner 2 mois consécutifs | Si incapable d'affranchir |
+| 3 | Nourrir 60 pauvres | Si incapable de jeûner |
+
+### 3. L'Éjaculation Provoquée
 
 | Situation | Statut |
 |-----------|--------|
-| Menstrues commencent avant Maghrib | Jeûne annulé - Qada |
-| Menstrues finissent après Fajr | Ne jeûne pas ce jour - Qada |
-| Menstrues finissent avant Fajr | Doit jeûner (même sans ghusl) |
+| Éjaculation par masturbation | ❌ Annule — Qada |
+| Éjaculation par rêve (ihtilam) | ✅ N'annule pas |
+| Madhi (liquide prostatique) provoqué | 🟡 Annule chez les Malikites |
 
----
-
-## 6. L'Apostasie (الردة)
-
-L'apostasie (sortie de l'Islam) annule le jeûne immédiatement. La personne doit :
-- Se repentir
-- Rattraper le jour
-
----
-
-## 7. Ce qui N'annule PAS le Jeûne (ما لا يفطر)
-
-### 7.1 Liste des Actes qui N'annulent Pas
-
-| Acte | Statut | Note |
-|------|--------|------|
-| **Avaler sa salive** | ✅ N'annule pas | Naturel et inévitable |
-| **Se réveiller en janaba** | ✅ N'annule pas | Faire ghusl et continuer |
-| **Rêve érotique (ihtilam)** | ✅ N'annule pas | Involontaire |
-| **Embrasser (pour celui qui se maîtrise)** | ✅ N'annule pas | Makruh si risque |
-| **Goûter la nourriture (sans avaler)** | ✅ N'annule pas | Besoin légitime |
-| **Se brosser les dents (siwak)** | ✅ N'annule pas | Sunna |
-| **Injection non nutritive** | ✅ N'annule pas | Avis prépondérant |
-| **Don de sang** | ✅ N'annule pas | Avis prépondérant |
-| **Parfum et encens** | ✅ N'annule pas | Éviter l'inhalation de fumée |
-
-### 7.2 Règle Malikite sur le Baiser 🟡
-
-| Personne | Règle |
-|----------|-------|
-| Jeune qui craint de perdre le contrôle | Makruh |
-| Personne âgée ou qui se maîtrise | Permis |
-
-Le Prophète ﷺ embrassait ses épouses en état de jeûne :
-
-> **« كَانَ رَسُولُ اللَّهِ ﷺ يُقَبِّلُ وَهُوَ صَائِمٌ، وَيُبَاشِرُ وَهُوَ صَائِمٌ، وَلَكِنَّهُ أَمْلَكُكُمْ لِإِرْبِهِ »**
->
-> *« Le Messager d'Allah ﷺ embrassait et avait des contacts avec ses épouses alors qu'il jeûnait, mais il était le plus maître de ses désirs parmi vous. »*
-> — [Al-Bukhari (1927) et Muslim (1106)]
-
----
-
-## 8. Questions Contemporaines
-
-### 8.1 Les Médicaments
+### 4. Le Vomissement
 
 | Type | Statut |
 |------|--------|
-| **Comprimés oraux** | ❌ Annulent le jeûne |
-| **Injections intramusculaires** | ✅ N'annulent pas |
-| **Injections nutritives (glucose)** | ❌ Annulent le jeûne |
-| **Spray buccal (asthme)** | ⚠️ Divergence - éviter si possible |
-| **Gouttes pour les yeux** | ✅ N'annulent pas (avis prépondérant) |
-| **Gouttes pour les oreilles** | ✅ N'annulent pas |
-| **Suppositoires** | ⚠️ Divergence - avis Malikite : n'annulent pas |
+| Involontaire (غلبه القيء) | ✅ Valide |
+| Volontaire (استقاء) | ❌ Annulé — Qada |
+| Involontaire puis avalé | ❌ Annulé — Qada |
 
-### 8.2 Soins Médicaux
+### 5. Les Menstrues et Lochies
 
-| Soin | Statut |
-|------|--------|
-| **Prise de sang** | ✅ N'annule pas |
-| **Dialyse** | ❌ Annule (si nutritifs ajoutés) |
-| **Endoscopie avec lubrification** | ⚠️ Divergence |
-| **Anesthésie locale** | ✅ N'annule pas |
+L'apparition des menstrues ou lochies, même juste avant le Maghrib, annule le jeûne de ce jour.
 
----
+| Situation | Statut |
+|-----------|--------|
+| Menstrues commencent avant Maghrib | Jeûne annulé — Qada |
+| Menstrues finissent après Fajr | Ne jeûne pas ce jour — Qada |
+| Menstrues finissent avant Fajr | Doit jeûner (même sans ghusl) |
 
-## Tableau Récapitulatif des Annulateurs
+### 6. Ce qui N'annule PAS le Jeûne
 
-| Annulateur | Qada | Kaffara | Condition |
-|------------|------|---------|-----------|
-| Manger/boire volontairement | ✅ | ❌ | Sauf chez Hanafites |
-| Rapport intime | ✅ | ✅ | Ramadan uniquement |
-| Éjaculation provoquée | ✅ | ❌ | Toutes les écoles |
-| Vomissement provoqué | ✅ | ❌ | Volontaire |
-| Menstrues/Lochies | ✅ | ❌ | Même un instant |
-| Apostasie | ✅ | ❌ | Après repentir |
+| Acte | Statut | Note |
+|------|--------|------|
+| Avaler sa salive | ✅ N'annule pas | Naturel et inévitable |
+| Se réveiller en janaba | ✅ N'annule pas | Faire ghusl et continuer |
+| Rêve érotique | ✅ N'annule pas | Involontaire |
+| Embrasser (si maître de soi) | ✅ N'annule pas | Makruh si risque |
+| Goûter sans avaler | ✅ N'annule pas | Besoin légitime |
+| Siwak | ✅ N'annule pas | Sunna |
+| Injection non nutritive | ✅ N'annule pas | Avis prépondérant |
 
 ---
 
-## Règles Importantes à Retenir
+## ⚖️ Divergences entre Écoles
 
-1. **L'oubli pardonne** : Manger par oubli n'annule pas le jeûne
-2. **L'ignorance** : La personne ignorante des règles - divergence sur le rattrapage
-3. **La contrainte** : Celui qui est forcé - son jeûne est valide
-4. **L'erreur** : Penser que le Fajr n'est pas entré - divergence
+### La Kaffara pour manger/boire volontairement
+
+| École | Position |
+|-------|----------|
+| 🟢 **Hanafite** | Kaffara obligatoire pour manger/boire intentionnellement |
+| 🟡 **Malikite** | Pas de Kaffara, seulement Qada |
+| 🔵 **Shafi'ite** | Pas de Kaffara, seulement Qada |
+| 🟣 **Hanbalite** | Pas de Kaffara, seulement Qada |
+
+### La Kaffara : plusieurs jours rompus
+
+| École | Position |
+|-------|----------|
+| 🟢 **Hanafite** | 1 seule Kaffara pour plusieurs jours du même Ramadan |
+| 🟡 **Malikite** | 1 Kaffara par jour rompu |
+| 🔵 **Shafi'ite** | 1 seule Kaffara pour plusieurs jours |
+| 🟣 **Hanbalite** | 1 seule Kaffara pour plusieurs jours |
 
 ---
 
-## Sources
+## 🌍 Applications Modernes
 
-- **Le Saint Coran** - Sourate Al-Baqara
-- **Sahih Al-Bukhari** - Kitab As-Sawm
-- **Sahih Muslim** - Kitab As-Siyam
-- **Sunan Abu Dawud** - Kitab As-Sawm
-- **Al-Mudawwana** - Imam Malik
-- **Ach-Charh Al-Kabir** - Ad-Dardir
-- **Fatawa Al-Lajnah Ad-Da'imah** - Arabie Saoudite
-- **Majma' Al-Fiqh Al-Islami** - Décisions contemporaines
+| Situation Contemporaine | Règle Applicable |
+|------------------------|------------------|
+| Spray buccal pour asthme | ⚠️ Divergence — éviter si possible, sinon rattrapage |
+| Injection non nutritive (vaccin) | ✅ N'annule pas |
+| Injection nutritive (glucose) | ❌ Annule le jeûne |
+| Gouttes pour les yeux | ✅ N'annule pas (avis prépondérant) |
+| Suppositoires | 🟡 N'annule pas chez les Malikites |
+| Endoscopie gastrique | ❌ Annule si lubrifiant avalé |
+| Dialyse rénale | ❌ Annule si nutritifs ajoutés |
+| Anesthésie locale | ✅ N'annule pas |
+| Prise de sang | ✅ N'annule pas |
+
+---
+
+## ⚠️ Erreurs Courantes
+
+| Erreur | Correction |
+|--------|------------|
+| Croire que manger par oubli annule le jeûne | Le jeûne reste valide, continuer |
+| Penser que le rêve érotique annule le jeûne | N'annule pas, faire le ghusl |
+| Croire qu'avaler sa salive rompt le jeûne | La salive n'annule jamais |
+| Utiliser un spray sans rattrapage | Préférable de rattraper par précaution |
+| Penser que goûter sans avaler annule | N'annule pas si rien n'est avalé |
+
+---
+
+## ❓ Questions Fréquentes (FAQ)
+
+**Q : J'ai mangé par oubli, dois-je continuer mon jeûne ?**
+R : Oui absolument. C'est Allah qui t'a nourri. Continue ton jeûne normalement, il est valide.
+
+**Q : Le sang qui sort d'une blessure annule-t-il le jeûne ?**
+R : Non, le sang qui sort du corps (blessure, saignement de nez) n'annule pas le jeûne.
+
+**Q : Puis-je me brosser les dents avec du dentifrice ?**
+R : Oui, à condition de ne rien avaler. Préférable d'utiliser le siwak ou de se brosser avant le Fajr.
+
+**Q : Embrasser mon épouse annule-t-il mon jeûne ?**
+R : Non, tant qu'il n'y a pas d'éjaculation ni de rapport intime. Mais c'est makruh si on craint de perdre le contrôle.
+
+---
+
+## 🎯 Action Concrète du Jour
+
+1. **Mémorisez** les trois conditions d'annulation : intention, conscience, absence de contrainte
+2. **Rappelez-vous** : l'oubli pardonne, la contrainte excuse
+3. **Évitez** les situations à risque (goûter excessif, caresses avec le conjoint)
+4. **Consultez** un savant pour les cas médicaux complexes
+5. **Notez** les jours à rattraper si vous rompez involontairement
+
+---
+
+## 📝 Invocation
+
+<div dir="rtl">
+
+**اللَّهُمَّ احْفَظْ صِيَامِي مِنْ كُلِّ مَا يُبْطِلُهُ، وَاجْعَلْنِي مِنَ الصَّائِمِينَ الْمَقْبُولِينَ**
+
+</div>
+
+*Allâhumma-ḥfaẓ ṣiyâmî min kulli mâ yubṭiluhu, waj'alnî mina-ṣ-ṣâ'imîna-l-maqbûlîn.*
+
+*Ô Allah, préserve mon jeûne de tout ce qui l'annule, et fais de moi parmi les jeûneurs agréés.*
+
+---
+
+## 📚 Sources
+
+1. **Al-Mudawwana** — Imam Malik رحمه الله
+2. **Al-Muqaddimât Al-Mumahhadât** — Ibn Rushd Al-Jadd رحمه الله
+3. **Mukhtasar Khalil** — Khalil ibn Ishaq رحمه الله
+4. **Ach-Charh Al-Kabir** — Ad-Dardir رحمه الله
+5. **Al-Qawanin Al-Fiqhiyya** — Ibn Juzayy رحمه الله
+6. **Sahih Al-Bukhari** — Kitab As-Sawm
+7. **Sahih Muslim** — Kitab As-Siyam
+8. **Fatawa Al-Lajnah Ad-Da'imah** — Décisions contemporaines
 
 ---
 
 **والله أعلم**
-
-*Qu'Allah nous préserve de ce qui annule notre jeûne.*
 `

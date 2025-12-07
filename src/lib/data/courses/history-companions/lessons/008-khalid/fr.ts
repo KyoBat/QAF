@@ -1,0 +1,355 @@
+/**
+ * Histoire Islamique - Leçon 8 : L'Épée d'Allah — Khālid ibn al-Walīd
+ * The Sword of Allah — Khālid ibn al-Walīd
+ */
+
+export const content = `# ⚔️ L'ÉPÉE D'ALLAH — Khālid ibn al-Walīd
+
+> **« اللهم إني أبرأ إليك مما صنع خالد »**
+> *"Ô Allah, je me désolidarise de ce qu'a fait Khālid."*
+>
+> — **Le Prophète ﷺ** [al-Bukhārī]
+>
+> Pourtant, il l'a gardé comme commandant. C'est Khālid.
+
+---
+
+## 🎬 Introduction
+
+Il est **le plus grand général** de l'histoire islamique — et peut-être de l'histoire militaire mondiale.
+
+Il a combattu **contre** l'Islam à Uhud, puis **pour** l'Islam de sa conversion jusqu'à sa mort.
+
+Il n'a **jamais perdu une seule bataille**.
+
+Ni sous les Quraysh. Ni sous le Prophète ﷺ. Ni sous Abū Bakr. Ni sous 'Umar.
+
+Voici l'histoire de **Khālid ibn al-Walīd**, l'Épée d'Allah.
+
+---
+
+# Partie I : Le Guerrier de Quraysh 🗡️
+
+## 📋 Carte d'Identité
+
+| Information | Détail |
+|-------------|--------|
+| **Nom** | Khālid ibn al-Walīd ibn al-Mughīra |
+| **Clan** | Banū Makhzūm (aristocratie de Quraysh) |
+| **Père** | al-Walīd ibn al-Mughīra, chef de Makhzūm |
+| **Rôle initial** | Chef de la cavalerie de Quraysh |
+| **Conversion** | 8 AH, juste avant la conquête de La Mecque |
+| **Décès** | 21 AH, Homs (Syrie) |
+
+---
+
+## ⚔️ Contre l'Islam
+
+### Uhud : La Défaite des Musulmans
+
+À la bataille d'Uhud (3 AH), les musulmans avaient l'avantage.
+
+Le Prophète ﷺ avait posté **50 archers** sur le mont 'Aynān avec l'ordre :
+
+> « Ne bougez pas, que nous gagnions ou perdions ! »
+
+Quand les musulmans semblaient victorieux, **40 archers** quittèrent leur poste pour récupérer le butin.
+
+Khālid, commandant de la cavalerie qurayshite, vit l'ouverture.
+
+Il contourna la montagne et **chargea par l'arrière**.
+
+\`\`\`
+Bataille d'Uhud - Manœuvre de Khālid
+┌───────────────────────────────────────────────────────────────┐
+│                                                               │
+│                    Mont 'Aynān                                │
+│                   ┌──────────┐                                │
+│                   │ 10 archers│  ← (40 sont partis)           │
+│                   └──────────┘                                │
+│                        ↑                                      │
+│                        │ Brèche !                             │
+│   ┌─────────────┐      │      ┌─────────────┐                │
+│   │   Armée     │←─────┴──────│   Cavalerie  │               │
+│   │  musulmane  │   Attaque   │   de Khālid  │               │
+│   └─────────────┘   surprise  └─────────────┘                │
+│                                                               │
+│   Résultat : Défaite des musulmans, le Prophète ﷺ blessé     │
+└───────────────────────────────────────────────────────────────┘
+\`\`\`
+
+Ce jour-là, **70 musulmans** moururent, dont l'oncle du Prophète ﷺ, Ḥamza.
+
+La bataille fut perdue à cause de la désobéissance — et du génie militaire de Khālid.
+
+---
+
+## 🤔 La Conversion
+
+Après le traité de Ḥudaybiyya, le Prophète ﷺ envoya un message :
+
+> **« Quelqu'un comme Khālid, s'il mettait son intelligence au service de l'Islam... »**
+
+Ces mots parvinrent à Khālid. Il réfléchit.
+
+Il voyait l'Islam grandir, Quraysh s'affaiblir.
+
+Mais plus que tout, il sentit **la vérité**.
+
+### Le Voyage
+
+Il partit vers Médine avec 'Amr ibn al-'Āṣ (un autre futur général) et 'Uthmān ibn Ṭalḥa.
+
+Quand ils arrivèrent, le Prophète ﷺ sourit :
+
+> **« La Mecque nous a donné son foie. »**
+> *(ses meilleurs hommes)*
+
+Khālid prononça la shahāda et dit :
+
+> « Ô Messager d'Allah, prie Allah de pardonner mes anciennes hostilités. »
+
+Le Prophète ﷺ répondit :
+
+> **« L'Islam efface ce qui précède. »**
+
+---
+
+# Partie II : L'Épée Dégainée ⚔️
+
+## 🏆 Mu'ta : Le Surnom
+
+Trois mois après sa conversion, Khālid participa à la **bataille de Mu'ta** (8 AH).
+
+Une armée musulmane de **3 000** hommes affrontait l'armée byzantine de **200 000**.
+
+### La Catastrophe
+
+Les trois commandants désignés furent tués successivement :
+
+1. **Zayd ibn Ḥāritha** — tué
+2. **Ja'far ibn Abī Ṭālib** — tué (le frère de 'Alī)
+3. **'Abd Allāh ibn Rawāḥa** — tué
+
+L'armée était sans chef, face à une force 70 fois supérieure.
+
+### Le Miracle de Khālid
+
+Khālid prit le commandement sans être désigné.
+
+En **une nuit**, il réorganisa l'armée :
+
+\`\`\`
+Stratégie de Khālid à Mu'ta
+┌───────────────────────────────────────────────────────────────┐
+│                                                               │
+│  Nuit :                                                       │
+│  • Échange des positions (aile droite ↔ aile gauche)          │
+│  • Envoi d'un détachement faire du bruit à l'arrière          │
+│                                                               │
+│  Aube :                                                       │
+│  • Les Byzantins voient de "nouvelles" troupes fraîches       │
+│  • Ils entendent des renforts arriver derrière                │
+│  • Ils pensent que c'est un PIÈGE                             │
+│                                                               │
+│  Résultat : Les Byzantins hésitent, Khālid organise           │
+│  une retraite ordonnée. 3000 hommes échappent à 200 000.      │
+│                                                               │
+└───────────────────────────────────────────────────────────────┘
+\`\`\`
+
+Khālid cassa **9 épées** ce jour-là.
+
+Quand les survivants revinrent à Médine, certains les huèrent : « Fuyards ! »
+
+Le Prophète ﷺ les arrêta :
+
+> **« Non ! Ce sont des كُرَّار (ceux qui reviennent combattre), pas des فُرَّار (fuyards) ! »**
+
+Et il donna à Khālid son surnom éternel :
+
+> **« سَيْفُ اللهِ الْمَسْلُول »**
+> **L'Épée d'Allah Dégainée**
+
+---
+
+## 📊 Les Conquêtes sous Abū Bakr
+
+Après la mort du Prophète ﷺ, Abū Bakr chargea Khālid de deux missions :
+
+### 1. Les Guerres d'Apostasie (Riddah)
+
+Plusieurs tribus avaient quitté l'Islam.
+
+Khālid les soumit une par une avec une **efficacité terrifiante**.
+
+La bataille de Yamāma contre Musaylama le faux prophète fut particulièrement sanglante — mais Khālid vainquit.
+
+### 2. La Conquête de l'Irak
+
+Khālid conquit la Mésopotamie perse avec des batailles légendaires :
+
+| Bataille | Date | Adversaire | Résultat |
+|----------|------|------------|----------|
+| Chaînes | 12 AH | Perses | Victoire |
+| Ullays | 12 AH | Perses | Victoire |
+| Walaja | 12 AH | Perses | Victoire |
+| Ḥīra | 12 AH | Perses | Victoire |
+
+---
+
+## 🏜️ La Marche du Désert
+
+En 13 AH, Abū Bakr avait besoin de Khālid **en Syrie** contre les Byzantins.
+
+Problème : Khālid était **en Irak**, à des semaines de marche.
+
+### L'Impossible
+
+Khālid décida de traverser le **désert de Syrie** — une route réputée impossible.
+
+\`\`\`
+La Marche du Désert (18 jours, ~800 km)
+┌───────────────────────────────────────────────────────────────┐
+│                                                               │
+│   IRAK ═══════════ DÉSERT ═══════════ SYRIE                   │
+│    •                   🏜️                  •                  │
+│  Ḥīra ───────────────────────────────> Damas                  │
+│                                                               │
+│   • 800 km de désert                                          │
+│   • 18 jours de marche                                        │
+│   • Des chameaux comme "réservoirs d'eau" vivants             │
+│   • Arrivée SURPRISE derrière les lignes byzantines           │
+│                                                               │
+└───────────────────────────────────────────────────────────────┘
+\`\`\`
+
+Les Byzantins ne l'avaient pas vu venir. Littéralement.
+
+---
+
+## 🏆 Yarmouk : Le Chef-d'Œuvre
+
+La **bataille de Yarmouk** (15 AH) est considérée comme l'une des batailles les plus décisives de l'histoire.
+
+| Armée | Effectif |
+|-------|----------|
+| Musulmans | ~30 000 |
+| Byzantins | ~100 000+ |
+
+### Le Génie Tactique
+
+\`\`\`
+Bataille de Yarmouk
+┌───────────────────────────────────────────────────────────────┐
+│                                                               │
+│                   Ravins de Yarmouk                           │
+│   ┌─────────────────────────────────────────────────┐        │
+│   │                                                  │        │
+│   │              Armée byzantine                     │        │
+│   │              (dos aux ravins)                    │        │
+│   │                                                  │        │
+│   └──────────────────────────────────────────────────┘       │
+│                        ↑                                      │
+│                        │                                      │
+│   ┌─────────────────────────────────────────────────┐        │
+│   │              Armée musulmane                     │        │
+│   └─────────────────────────────────────────────────┘        │
+│                                                               │
+│   Tactique : Attirer les Byzantins, puis contre-attaque.     │
+│   Les ravins empêchent toute retraite byzantine.             │
+│                                                               │
+└───────────────────────────────────────────────────────────────┘
+\`\`\`
+
+En **6 jours**, l'armée byzantine fut anéantie.
+
+L'Empire byzantin perdit la Syrie, la Palestine, et l'Égypte.
+
+**Un seul homme** avait changé la carte du monde.
+
+---
+
+# Partie III : La Disgrâce et la Mort 💔
+
+## 😢 Destitué par 'Umar
+
+Au milieu de la bataille de Yarmouk, 'Umar devint calife (Abū Bakr venait de mourir).
+
+Sa première décision : **destituer Khālid**.
+
+Pourquoi ? Plusieurs raisons :
+
+1. **Les excès** — Khālid avait parfois dépassé les ordres
+2. **La popularité** — 'Umar craignait que les gens attribuent les victoires à Khālid, pas à Allah
+3. **L'orgueil** — Khālid avait un ego certain
+
+Khālid accepta sans protester :
+
+> « J'obéis au Commandeur des Croyants. »
+
+Il servit ensuite comme **simple soldat** sous Abū 'Ubayda.
+
+---
+
+## 💀 La Mort dans son Lit
+
+Khālid mourut à Homs en 21 AH — **dans son lit**.
+
+Ses dernières paroles furent amères :
+
+> « J'ai participé à cent batailles ou presque. Il n'y a pas sur mon corps un espace d'une main sans une cicatrice de coup ou de flèche. Et me voilà mourant dans mon lit comme meurt un chameau. Que les yeux des lâches ne dorment pas ! »
+
+Il avait rêvé de mourir **shahīd** (martyr) sur le champ de bataille.
+
+Allah en avait décidé autrement.
+
+---
+
+## 💎 Les Leçons de sa Vie
+
+### 1. La Conversion Sincère Efface Tout
+
+Khālid avait tué des musulmans à Uhud. L'Islam a tout effacé.
+
+### 2. Le Génie est un Amāna
+
+Son talent militaire était un **dépôt** (amāna) d'Allah, qu'il a utilisé pour l'Islam.
+
+### 3. L'Obéissance au-dessus de l'Ego
+
+Quand 'Umar l'a destitué, Khālid aurait pu se rebeller. Il a obéi.
+
+### 4. La Mort est entre les Mains d'Allah
+
+L'Épée d'Allah n'est pas mort sur le champ de bataille. Allah décide.
+
+---
+
+## 📊 Bilan Militaire
+
+| Statistique | Donnée |
+|-------------|--------|
+| **Batailles livrées** | ~100 |
+| **Batailles perdues** | 0 |
+| **Empires vaincus** | 2 (Perse + Byzance) |
+| **Km conquis** | Des millions |
+| **Surnom** | سيف الله المسلول |
+
+---
+
+## 📚 Sources
+
+| Ouvrage | Auteur |
+|---------|--------|
+| *Ṣaḥīḥ al-Bukhārī* | al-Bukhārī |
+| *Sīra of Ibn Hishām* | Ibn Hishām |
+| *Tārīkh al-Rusul wa al-Mulūk* | al-Ṭabarī |
+| *al-Bidāya wa al-Nihāya* | Ibn Kathīr |
+
+---
+
+**Et Allah est plus Savant**
+
+**رَبِّ زِدْنِي عِلْمًا**
+`;

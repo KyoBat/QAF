@@ -1,87 +1,111 @@
 /**
  * Siyam - Leçon 003: Piliers et Conditions de Validité du Jeûne
- * Contenu en Français
+ * Contenu en Français - Conforme au FIQH-REDACTION-GUIDE.md
  */
 
-export const content = `# Piliers et Conditions de Validité du Jeûne (أركان الصيام وشروط صحته)
+export const content = `# 📜 أَرْكَانُ الصِّيَامِ وَشُرُوطُ صِحَّتِهِ — Piliers et Conditions de Validité du Jeûne
 
-## Introduction
+> *« Le jeûne repose sur des piliers sans lesquels il n'existe pas, et des conditions sans lesquelles il n'est pas valide. »*
 
-Après avoir étudié les conditions d'obligation du jeûne, nous abordons maintenant ce qui rend le jeûne valide. Allah تعالى dit :
+---
+
+## 📜 Textes Fondateurs
+
+### Coran
 
 > **﴿ وَكُلُوا وَاشْرَبُوا حَتَّىٰ يَتَبَيَّنَ لَكُمُ الْخَيْطُ الْأَبْيَضُ مِنَ الْخَيْطِ الْأَسْوَدِ مِنَ الْفَجْرِ ۖ ثُمَّ أَتِمُّوا الصِّيَامَ إِلَى اللَّيْلِ ﴾**
 >
-> *« Mangez et buvez jusqu'à ce que se distingue pour vous le fil blanc du fil noir de l'aube. Puis accomplissez le jeûne jusqu'à la nuit. »* [Al-Baqara : 187]
+> *« Mangez et buvez jusqu'à ce que se distingue pour vous le fil blanc du fil noir de l'aube. Puis accomplissez le jeûne jusqu'à la nuit. »*
+> — [Sourate Al-Baqara : 187]
 
-Le Prophète ﷺ a dit :
+### Hadiths
 
 > **« مَنْ لَمْ يُبَيِّتِ الصِّيَامَ قَبْلَ الْفَجْرِ فَلَا صِيَامَ لَهُ »**
 >
 > *« Celui qui n'a pas formé l'intention de jeûner avant le Fajr n'a pas de jeûne. »*
-> — [Abu Dawud (2454), An-Nasai, At-Tirmidhi - Authentifié]
-
----
-
-## Première Partie : Les Piliers du Jeûne (أركان الصيام)
-
-Les **piliers** (أركان) sont les éléments constitutifs essentiels sans lesquels le jeûne n'existe pas.
-
-### Pilier 1 : L'Intention (النية)
-
-#### 1.1 Définition et Importance
-
-L'**intention** est la détermination du cœur à accomplir le jeûne pour Allah تعالى.
-
-Le Prophète ﷺ a dit :
+> — [Abu Dawud (2454), An-Nasai, At-Tirmidhi — Authentifié]
 
 > **« إِنَّمَا الْأَعْمَالُ بِالنِّيَّاتِ، وَإِنَّمَا لِكُلِّ امْرِئٍ مَا نَوَى »**
 >
 > *« Les actes ne valent que par leurs intentions, et chacun n'aura que ce qu'il a eu l'intention de faire. »*
 > — [Al-Bukhari (1) et Muslim (1907)]
 
-#### 1.2 Moment de l'Intention
+> **« تَسَحَّرُوا فَإِنَّ فِي السَّحُورِ بَرَكَةً »**
+>
+> *« Prenez le suhur, car il y a dans le suhur une bénédiction. »*
+> — [Al-Bukhari (1923) et Muslim (1095)]
 
-| Type de Jeûne | Moment de l'Intention |
-|---------------|----------------------|
-| **Ramadan** | Obligatoirement la nuit, avant le Fajr |
-| **Jeûne obligatoire (vœu, expiation)** | Obligatoirement la nuit, avant le Fajr |
-| **Jeûne surérogatoire** | Possible jusqu'à la mi-journée (avant le Zawâl) |
-
-#### 1.3 Divergences sur le Renouvellement de l'Intention
-
-| École | Position pour Ramadan |
-|-------|----------------------|
-| 🟡 **Malikite** | Une seule intention au début du mois suffit (الراجح) |
-| 🔵 **Hanafite** | Une seule intention suffit |
-| 🟢 **Shafi'ite** | Renouveler chaque nuit |
-| 🔴 **Hanbalite** | Renouveler chaque nuit |
-
-**Preuve des Malikites :** Le Ramadan est un acte d'adoration continu, comme la prière à plusieurs unités où une seule intention suffit.
-
-#### 1.4 Formulation de l'Intention
-
-L'intention se fait **dans le cœur** et non sur la langue. Il n'est pas prescrit de la prononcer.
-
-❌ **Bid'a** : Dire "Nawaytou an assouma ghadan..." n'est pas une sunna
-
-✅ **Correct** : Avoir la ferme résolution dans son cœur de jeûner pour Allah
+> **« لَا يَزَالُ النَّاسُ بِخَيْرٍ مَا عَجَّلُوا الْفِطْرَ »**
+>
+> *« Les gens ne cesseront d'être dans le bien tant qu'ils hâteront la rupture du jeûne. »*
+> — [Al-Bukhari (1957) et Muslim (1098)]
 
 ---
 
-### Pilier 2 : L'Abstention (الإمساك)
+## 🎓 Paroles des Savants
 
-#### 2.1 Définition
+> **Imam Malik ibn Anas** رحمه الله :
+> *« Le jeûne de Ramadan requiert une seule intention au début du mois, et elle suffit pour l'ensemble du mois si rien ne l'interrompt. Car Ramadan est une adoration continue. »*
+> — [Al-Mudawwana, Kitab As-Siyam]
 
-L'**abstention** des choses qui rompent le jeûne (المفطرات) depuis l'aube jusqu'au coucher du soleil.
+> **Ibn Rushd Al-Jadd** رحمه الله :
+> *« Les piliers du jeûne sont deux : l'intention et l'abstention. Quant aux conditions de validité, elles sont distinctes des conditions d'obligation. »*
+> — [Al-Muqaddimât Al-Mumahhadât]
 
-#### 2.2 Temps de l'Abstention
+> **Khalil ibn Ishaq** رحمه الله :
+> *« Le jeûne : abstention avec intention. Les conditions de validité sont : l'Islam, la distinction, la pureté des menstrues et lochies, et le temps valide. »*
+> — [Mukhtasar Khalil]
 
-| Début | Fin |
-|-------|-----|
-| **الفجر الصادق** (L'aube véridique) | **غروب الشمس** (Coucher du soleil) |
-| Quand le fil blanc se distingue du noir | Quand le disque solaire disparaît complètement |
+> **Ad-Dardir** رحمه الله :
+> *« L'intention est le pilier premier du jeûne. Elle se fait dans le cœur, et la prononcer n'est pas prescrit. Une seule intention suffit pour tout Ramadan chez nous. »*
+> — [Ach-Charh As-Saghir]
 
-#### 2.3 La Différence entre les Deux Aubes
+> **Ibn Juzayy** رحمه الله :
+> *« L'abstention dure du Fajr véridique au coucher complet du soleil. La fausse aube ne compte pas. »*
+> — [Al-Qawanin Al-Fiqhiyya]
+
+---
+
+## 🔍 Analyse Linguistique
+
+| Terme Arabe | Translittération | Sens Littéral | Sens Technique |
+|-------------|------------------|---------------|----------------|
+| أَرْكَان | Arkân | Piliers | Éléments constitutifs essentiels |
+| شُرُوط الصِّحَّة | Churûṭ aṣ-ṣiḥḥa | Conditions de validité | Critères pour l'acceptation |
+| النِّيَّة | An-Niyya | Intention | Détermination du cœur |
+| الإِمْسَاك | Al-Imsâk | Abstention | Se retenir des annulatifs |
+| الفَجْر الصَّادِق | Al-Fajr aṣ-ṣâdiq | Aube véridique | Lumière horizontale de l'aube |
+| الفَجْر الكَاذِب | Al-Fajr al-kâdhib | Fausse aube | Lumière verticale avant l'aube |
+| التَّمْيِيز | At-Tamyîz | Distinction | Capacité de discernement |
+| السُّحُور | As-Suḥûr | Repas de l'aube | Repas avant le Fajr |
+| الإِفْطَار | Al-Ifṭâr | Rupture | Repas de rupture du jeûne |
+
+---
+
+## 📚 Explication Détaillée
+
+### Première Partie : Les Piliers du Jeûne (أركان الصيام)
+
+Les **piliers** sont les éléments constitutifs essentiels sans lesquels le jeûne n'existe pas.
+
+#### Pilier 1 : L'Intention (النية)
+
+L'**intention** est la détermination du cœur à accomplir le jeûne pour Allah تعالى.
+
+| Type de Jeûne | Moment de l'Intention |
+|---------------|----------------------|
+| Ramadan | Obligatoirement la nuit, avant le Fajr |
+| Jeûne obligatoire (vœu, expiation) | Obligatoirement la nuit, avant le Fajr |
+| Jeûne surérogatoire | Possible avant le Zawâl (midi) |
+
+**Règles importantes :**
+- L'intention se fait **dans le cœur**, non sur la langue
+- ❌ Prononcer "Nawaytou an assouma ghadan..." n'est pas une sunna
+- ✅ Avoir la ferme résolution dans son cœur suffit
+
+#### Pilier 2 : L'Abstention (الإمساك)
+
+L'**abstention** des choses qui rompent le jeûne depuis l'aube jusqu'au coucher du soleil.
 
 | الفجر الكاذب (Fausse aube) | الفجر الصادق (Aube véridique) |
 |---------------------------|------------------------------|
@@ -89,167 +113,128 @@ L'**abstention** des choses qui rompent le jeûne (المفطرات) depuis l'au
 | Manger encore permis | Début de l'abstention |
 | Prière de Fajr non valide | Prière de Fajr valide |
 
----
+### Deuxième Partie : Les Conditions de Validité (شروط صحة الصيام)
 
-## Deuxième Partie : Les Conditions de Validité (شروط صحة الصيام)
-
-Les **conditions de validité** sont les critères qui doivent être remplis pour que le jeûne soit accepté.
-
-### Condition 1 : L'Islam
-
-Le jeûne n'est valide que pour le musulman. Si une personne jeûne en étant non-musulmane, son jeûne n'est pas valide.
-
----
-
-### Condition 2 : La Distinction (التمييز)
-
-#### 2.1 Définition
-
-La **distinction** est la capacité de comprendre ce qu'on fait. L'âge de distinction est généralement fixé à **7 ans**.
-
-#### 2.2 Application
-
-| Personne | Validité du jeûne |
-|----------|------------------|
-| Enfant de moins de 7 ans | Non valide (pas de distinction) |
-| Enfant de 7 ans et plus | Valide mais pas obligatoire |
-| Adulte sain d'esprit | Valide et obligatoire |
+| Condition | Description |
+|-----------|-------------|
+| **L'Islam** | Le jeûne n'est valide que pour le musulman |
+| **La Distinction** | Capacité de comprendre (généralement 7 ans) |
+| **L'Absence de Menstrues/Lochies** | Femme doit être pure |
+| **Le Temps Approprié** | Éviter les jours interdits (Aïd, Tashriq) |
 
 ---
 
-### Condition 3 : L'Absence de Menstrues et Lochies
+## ⚖️ Divergences entre Écoles
 
-Le jeûne de la femme en état de menstrues ou de lochies n'est **pas valide**, même si elle jeûne.
-
----
-
-### Condition 4 : La Pureté de l'État d'Empêchement Majeur 🟡
-
-#### 4.1 Le Cas de la Janaba (Grande Impureté)
+### Le renouvellement de l'intention pour Ramadan
 
 | École | Position |
 |-------|----------|
-| 🟡 **Malikite** | Le jeûne est valide même si on se réveille en état de janaba, à condition de faire le ghusl rapidement |
-| Autres écoles | Même position |
+| 🟢 **Hanafite** | Une seule intention au début du mois suffit |
+| 🟡 **Malikite** | Une seule intention au début du mois suffit (**الراجح**) |
+| 🔵 **Shafi'ite** | Renouveler l'intention chaque nuit |
+| 🟣 **Hanbalite** | Renouveler l'intention chaque nuit |
 
-**Preuve :**
+### L'intention pour le jeûne surérogatoire
 
-'Aisha et Umm Salama رضي الله عنهما ont dit :
+| École | Position |
+|-------|----------|
+| 🟢 **Hanafite** | Possible en journée avant le Zawâl |
+| 🟡 **Malikite** | Avant l'aube comme l'obligatoire (plus strict) |
+| 🔵 **Shafi'ite** | Possible en journée avant le Zawâl |
+| 🟣 **Hanbalite** | Possible en journée avant le Zawâl |
 
-> **« كَانَ رَسُولُ اللَّهِ ﷺ يُدْرِكُهُ الْفَجْرُ وَهُوَ جُنُبٌ مِنْ أَهْلِهِ، ثُمَّ يَغْتَسِلُ وَيَصُومُ »**
->
-> *« Le Messager d'Allah ﷺ se réveillait en état de janaba (suite à des rapports avec ses épouses), puis il faisait le ghusl et jeûnait. »*
-> — [Al-Bukhari (1925) et Muslim (1109)]
+### Le réveil en état de Janaba
 
----
+| École | Position |
+|-------|----------|
+| 🟢 **Hanafite** | Jeûne valide, faire le ghusl rapidement |
+| 🟡 **Malikite** | Jeûne valide, faire le ghusl rapidement |
+| 🔵 **Shafi'ite** | Jeûne valide, faire le ghusl rapidement |
+| 🟣 **Hanbalite** | Jeûne valide, faire le ghusl rapidement |
 
-### Condition 5 : Le Temps Approprié
-
-On ne peut pas jeûner les jours interdits :
-
-| Jours Interdits | Preuve |
-|-----------------|--------|
-| **Jour de l'Aïd Al-Fitr** | Hadith : « Deux jours où le Prophète ﷺ a interdit le jeûne... » |
-| **Jour de l'Aïd Al-Adha** | [Al-Bukhari (1990) et Muslim (1137)] |
-| **Jours de Tashriq** (11, 12, 13 Dhul-Hijja) | Sauf pour le pèlerin qui n'a pas de sacrifice |
-
----
-
-## Tableau Comparatif : Piliers vs Conditions
-
-| Aspect | Piliers (أركان) | Conditions (شروط) |
-|--------|----------------|-------------------|
-| **Définition** | Éléments constitutifs du jeûne | Critères de validité |
-| **Absence** | Le jeûne n'existe pas | Le jeûne n'est pas valide |
-| **Exemples** | Intention, Abstention | Islam, Distinction, Absence de menstrues |
+**Unanimité** : 'Aisha et Umm Salama رضي الله عنهما ont rapporté que le Prophète ﷺ se réveillait parfois en état de janaba puis faisait le ghusl et jeûnait. [Al-Bukhari (1925)]
 
 ---
 
-## Focus sur l'Intention selon l'École Malikite 🟡
+## 🌍 Applications Modernes
 
-### Points Clés
-
-1. **Une intention unique** au début de Ramadan suffit pour tout le mois
-2. **Le doute** dans l'intention n'annule pas le jeûne si l'intention de base était ferme
-3. **L'interruption** du jeûne (voyage, maladie) nécessite une nouvelle intention au retour
-4. **Le jeûne du voyageur** qui décide de jeûner doit avoir l'intention avant le Fajr
-
-### Cas Particuliers
-
-| Situation | Règle |
-|-----------|-------|
-| Oubli d'intention avant le Fajr (Ramadan) | Jeûne non valide, doit rattraper |
-| Intention de rompre sans rompre réellement | Jeûne rompu selon certains savants |
-| Hésitation sur le jour (29 ou 30 Sha'ban) | Intention conditionnelle permise |
+| Situation Contemporaine | Règle Applicable |
+|------------------------|------------------|
+| Utiliser un calendrier avec horaires de prière | Permis, considéré comme indicateur fiable |
+| Se fier à l'adhan de la radio/TV | Permis si la source est fiable |
+| Manger pendant l'adhan | Interdit dès le début de l'adhan du Fajr |
+| Travailleur de nuit dormant le jour | L'intention avant de dormir suffit |
+| Voyageur traversant plusieurs fuseaux horaires | Suit l'heure locale du lieu où il se trouve |
+| Pays avec très longues journées | Suit l'horaire du pays le plus proche avec horaires normaux |
 
 ---
 
-## Le Temps Précis du Suhur et de l'Iftar
+## ⚠️ Erreurs Courantes
 
-### Le Suhur (السحور)
-
-Le Prophète ﷺ a dit :
-
-> **« تَسَحَّرُوا فَإِنَّ فِي السَّحُورِ بَرَكَةً »**
->
-> *« Prenez le suhur, car il y a dans le suhur une bénédiction. »*
-> — [Al-Bukhari (1923) et Muslim (1095)]
-
-**Recommandations :**
-- Retarder le suhur jusqu'à proche du Fajr
-- S'arrêter à l'adhan ou légèrement avant par précaution
-
-### L'Iftar (الإفطار)
-
-Le Prophète ﷺ a dit :
-
-> **« لَا يَزَالُ النَّاسُ بِخَيْرٍ مَا عَجَّلُوا الْفِطْرَ »**
->
-> *« Les gens ne cesseront d'être dans le bien tant qu'ils hâteront la rupture du jeûne. »*
-> — [Al-Bukhari (1957) et Muslim (1098)]
-
-**Le moment exact :**
-- Dès que le soleil disparaît complètement à l'horizon
-- Pas besoin d'attendre l'obscurité totale
+| Erreur | Correction |
+|--------|------------|
+| Prononcer l'intention à voix haute | L'intention est dans le cœur uniquement |
+| Penser que se réveiller en janaba annule le jeûne | Le jeûne est valide, faire le ghusl ensuite |
+| Continuer à manger après l'adhan | S'arrêter dès le début de l'adhan |
+| Attendre l'obscurité pour rompre | Rompre dès que le soleil disparaît |
+| Croire qu'avaler sa salive rompt le jeûne | La salive n'annule pas le jeûne |
+| Renouveler l'intention chaque jour (Malikite) | Une seule intention suffit pour tout Ramadan |
 
 ---
 
-## Tableau Récapitulatif
+## ❓ Questions Fréquentes (FAQ)
 
-| Élément | Type | Détail |
-|---------|------|--------|
-| **Intention** | Pilier | Avant Fajr pour obligatoire |
-| **Abstention** | Pilier | De l'aube au coucher du soleil |
-| **Islam** | Condition | Indispensable |
-| **Distinction** | Condition | Généralement 7 ans |
-| **Pureté des menstrues** | Condition | Femme doit être pure |
-| **Temps approprié** | Condition | Éviter jours interdits |
+**Q : Que faire si j'oublie de formuler l'intention avant le Fajr ?**
+R : Pour le jeûne obligatoire (Ramadan), le jeûne de ce jour n'est pas valide. Il faut s'abstenir par respect pour le mois et rattraper ce jour.
 
----
+**Q : L'intention de rompre le jeûne sans réellement rompre annule-t-elle le jeûne ?**
+R : 🟡 Chez les Malikites, il y a divergence. L'avis prépondérant est que l'intention ferme de rompre annule le jeûne, même sans acte.
 
-## Erreurs Courantes à Éviter
+**Q : Puis-je faire une intention conditionnelle (si c'est Ramadan, je jeûne) ?**
+R : Oui, en cas de doute sur le jour (29 ou 30 Sha'ban), l'intention conditionnelle est permise.
 
-1. ❌ Prononcer l'intention à voix haute
-2. ❌ Penser que se réveiller en janaba annule le jeûne
-3. ❌ Continuer à manger après l'adhan "pour finir la bouchée"
-4. ❌ Attendre l'obscurité pour rompre le jeûne
-5. ❌ Croire qu'avaler sa salive rompt le jeûne
+**Q : Le jeûne d'un enfant de 8 ans est-il valide ?**
+R : Oui, car il a la distinction. Le jeûne est valide mais pas obligatoire pour lui.
 
 ---
 
-## Sources
+## 🎯 Action Concrète du Jour
 
-- **Le Saint Coran** - Sourate Al-Baqara
-- **Sahih Al-Bukhari** - Kitab As-Sawm
-- **Sahih Muslim** - Kitab As-Siyam
-- **Sunan Abu Dawud** - Kitab As-Sawm
-- **Al-Mudawwana** - Imam Malik
-- **Ach-Charh As-Saghir** - Ad-Dardir
-- **Kifayat At-Talib Ar-Rabbani** - Abu Al-Hassan Al-Maliki
+1. **Formulez** votre intention pour Ramadan dès la première nuit
+2. **Vérifiez** les horaires précis du Fajr et du Maghrib
+3. **Retardez** le suhur jusqu'à proche du Fajr
+4. **Hâtez** l'iftar dès le coucher du soleil
+5. **Évitez** de prononcer l'intention à voix haute
+
+---
+
+## 📝 Invocation
+
+<div dir="rtl">
+
+**اللَّهُمَّ إِنِّي نَوَيْتُ صِيَامَ رَمَضَانَ إِيمَانًا وَاحْتِسَابًا، فَتَقَبَّلْهُ مِنِّي وَاغْفِرْ لِي مَا تَقَدَّمَ مِنْ ذَنْبِي**
+
+</div>
+
+*Allâhumma innî nawaytou ṣiyâma Ramaḍâna îmânan waḥtisâban, fataqabbalhu minnî waghfir lî mâ taqaddama min dhanbî.*
+
+*Ô Allah, j'ai l'intention de jeûner Ramadan avec foi et espérance de récompense, accepte-le de moi et pardonne mes péchés passés.*
+
+---
+
+## 📚 Sources
+
+1. **Al-Mudawwana** — Imam Malik رحمه الله
+2. **Al-Muqaddimât Al-Mumahhadât** — Ibn Rushd Al-Jadd رحمه الله
+3. **Mukhtasar Khalil** — Khalil ibn Ishaq رحمه الله
+4. **Ach-Charh As-Saghir** — Ad-Dardir رحمه الله
+5. **Al-Qawanin Al-Fiqhiyya** — Ibn Juzayy رحمه الله
+6. **Sahih Al-Bukhari** — Kitab As-Sawm
+7. **Sahih Muslim** — Kitab As-Siyam
+8. **Kifayat At-Talib Ar-Rabbani** — Abu Al-Hassan Al-Maliki رحمه الله
 
 ---
 
 **والله أعلم**
-
-*Qu'Allah nous accorde un jeûne accepté et complet.*
 `

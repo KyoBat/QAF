@@ -1,43 +1,91 @@
 /**
  * Siyam - Leçon 005: Ce qui est Permis pendant le Jeûne
- * Contenu en Français
+ * Contenu en Français - Conforme au FIQH-REDACTION-GUIDE.md
  */
 
-export const content = `# Ce qui est Permis pendant le Jeûne (ما يُباح للصائم)
+export const content = `# 📜 مَا يُبَاحُ لِلصَّائِمِ — Ce qui est Permis pendant le Jeûne
 
-## Introduction
+> *« Allah a rendu le jeûne obligatoire tout en accordant des facilités à Ses serviteurs, car Il veut pour eux la facilité. »*
 
-Allah تعالى a rendu le jeûne obligatoire tout en accordant des facilités à Ses serviteurs. Connaître ce qui est permis aide le jeûneur à vivre sereinement son adoration. Allah تعالى dit :
+---
+
+## 📜 Textes Fondateurs
+
+### Coran
 
 > **﴿ يُرِيدُ اللَّهُ بِكُمُ الْيُسْرَ وَلَا يُرِيدُ بِكُمُ الْعُسْرَ ﴾**
 >
-> *« Allah veut pour vous la facilité et ne veut pas pour vous la difficulté. »* [Al-Baqara : 185]
+> *« Allah veut pour vous la facilité et ne veut pas pour vous la difficulté. »*
+> — [Sourate Al-Baqara : 185]
 
-Le Prophète ﷺ a dit :
+### Hadiths
 
 > **« إِنَّ الدِّينَ يُسْرٌ، وَلَنْ يُشَادَّ الدِّينَ أَحَدٌ إِلَّا غَلَبَهُ »**
 >
 > *« La religion est facilité. Quiconque cherche à rendre la religion difficile sera vaincu par elle. »*
 > — [Al-Bukhari (39)]
 
+> **« كَانَ رَسُولُ اللَّهِ ﷺ يُقَبِّلُ وَهُوَ صَائِمٌ، وَيُبَاشِرُ وَهُوَ صَائِمٌ، وَلَكِنَّهُ أَمْلَكُكُمْ لِإِرْبِهِ »**
+>
+> *« Le Messager d'Allah ﷺ embrassait et avait des contacts physiques alors qu'il jeûnait, mais il était le plus maître de lui parmi vous. »*
+> — [Al-Bukhari (1927) et Muslim (1106)]
+
+> **« وَبَالِغْ فِي الاِسْتِنْشَاقِ إِلاَّ أَنْ تَكُونَ صَائِمًا »**
+>
+> *« Aspire profondément l'eau dans ton nez, sauf si tu jeûnes. »*
+> — [Abu Dawud (142), At-Tirmidhi — Sahih]
+
+> **« لَوْلاَ أَنْ أَشُقَّ عَلَى أُمَّتِي لأَمَرْتُهُمْ بِالسِّوَاكِ عِنْدَ كُلِّ صَلاَةٍ »**
+>
+> *« Si je ne craignais pas de rendre la chose difficile à ma communauté, je leur aurais ordonné le siwak à chaque prière. »*
+> — [Al-Bukhari (887) et Muslim (252)]
+
 ---
 
-## 1. Actes Liés au Corps
+## 🎓 Paroles des Savants
 
-### 1.1 Le Ghusl (الغسل) - Le Bain
+> **Imam Malik ibn Anas** رحمه الله :
+> *« Le jeûneur peut se rincer la bouche et aspirer l'eau dans le nez sans exagérer, et utiliser le siwak à tout moment de la journée. »*
+> — [Al-Mudawwana, Kitab As-Siyam]
 
-Le jeûneur peut se baigner pour :
-- Se rafraîchir en cas de chaleur
-- Se purifier de la janaba
-- Accomplir le ghusl du vendredi
+> **Ibn Rushd Al-Jadd** رحمه الله :
+> *« Ce qui est permis au jeûneur englobe tout ce qui ne parvient pas à l'estomac par une voie normale, et ce qui est involontaire ou inévitable. »*
+> — [Al-Muqaddimât Al-Mumahhadât]
 
-**Preuve :**
+> **Khalil ibn Ishaq** رحمه الله :
+> *« Le baiser est permis à celui qui se maîtrise, makruh pour celui qui craint de perdre le contrôle. Le kohl, les gouttes et les parfums sont permis. »*
+> — [Mukhtasar Khalil]
 
-> *'Aisha رضي الله عنها a rapporté :*
-> **« كَانَ رَسُولُ اللَّهِ ﷺ يُدْرِكُهُ الْفَجْرُ وَهُوَ جُنُبٌ مِنْ أَهْلِهِ، ثُمَّ يَغْتَسِلُ وَيَصُومُ »**
->
-> *« Le Prophète ﷺ se réveillait parfois en état de janaba puis faisait le ghusl et jeûnait. »*
-> — [Al-Bukhari (1925) et Muslim (1109)]
+> **Ad-Dardir** رحمه الله :
+> *« Le jeûneur peut goûter la nourriture pour vérifier le sel à condition de ne rien avaler et de recracher immédiatement. C'est permis pour un besoin. »*
+> — [Ach-Charh As-Saghir]
+
+> **Ibn Juzayy** رحمه الله :
+> *« Tout ce qui entre par les yeux, les oreilles ou les pores de la peau n'annule pas le jeûne, car ce ne sont pas des voies normales d'alimentation. »*
+> — [Al-Qawanin Al-Fiqhiyya]
+
+---
+
+## 🔍 Analyse Linguistique
+
+| Terme Arabe | Translittération | Sens Littéral | Sens Technique |
+|-------------|------------------|---------------|----------------|
+| المُبَاحَات | Al-Mubâḥât | Les choses permises | Actes licites pour le jeûneur |
+| السِّوَاك | As-Siwâk | Bâtonnet | Brosse à dents naturelle (arak) |
+| المَضْمَضَة | Al-Maḍmaḍa | Rinçage | Rincer la bouche |
+| الاسْتِنْشَاق | Al-Istinchâq | Aspiration | Aspirer l'eau dans le nez |
+| الكُحْل | Al-Kuḥl | Khôl | Collyre pour les yeux |
+| المُبَاشَرَة | Al-Mubâchara | Contact direct | Contacts physiques entre époux |
+| ذَوْق الطَّعَام | Dhawq aṭ-ṭa'âm | Goûter | Tester la nourriture |
+| الغُسْل | Al-Ghusl | Lavage | Bain rituel ou rafraîchissant |
+
+---
+
+## 📚 Explication Détaillée
+
+### 1. Actes Liés au Corps
+
+#### Le Ghusl (bain)
 
 | Action | Statut | Note |
 |--------|--------|------|
@@ -45,55 +93,27 @@ Le jeûneur peut se baigner pour :
 | Se baigner en état de janaba | ✅ Permis | Recommandé de ne pas tarder |
 | Nager | ✅ Permis | Avec précaution |
 
-### 1.2 Le Rinçage de la Bouche et du Nez (المضمضة والاستنشاق)
-
-| Action | Statut | Conseil |
-|--------|--------|---------|
-| Rincer la bouche | ✅ Permis | Sans exagérer |
-| Aspirer l'eau dans le nez | ✅ Permis | Modérément |
-| Exagérer dans le rinçage | ⚠️ Makruh | Risque d'avaler |
-
-**Hadith :**
-
-> **« وَبَالِغْ فِي الاِسْتِنْشَاقِ إِلاَّ أَنْ تَكُونَ صَائِمًا »**
->
-> *« Aspire profondément l'eau dans ton nez, sauf si tu jeûnes. »*
-> — [Abu Dawud (142), At-Tirmidhi - Sahih]
-
-### 1.3 Le Siwak (السواك)
-
-L'utilisation du siwak est **permise et recommandée** à tout moment, même pour le jeûneur.
-
-**Avis des écoles :**
+#### Le Siwak
 
 | École | Position |
 |-------|----------|
+| 🟢 **Hanafite** | Permis à tout moment |
 | 🟡 **Malikite** | Permis à tout moment, makruh avec siwak humide après le Zawâl |
-| 🔵 **Hanafite** | Permis à tout moment |
-| 🟢 **Shafi'ite** | Makruh après le Zawâl (à cause du changement d'haleine) |
-| 🔴 **Hanbalite** | Makruh avec siwak humide |
+| 🔵 **Shafi'ite** | Makruh après le Zawâl (changement d'haleine) |
+| 🟣 **Hanbalite** | Makruh avec siwak humide |
 
-**Preuve :**
+#### Le Kohl et les Gouttes
 
-> **« لَوْلاَ أَنْ أَشُقَّ عَلَى أُمَّتِي لأَمَرْتُهُمْ بِالسِّوَاكِ عِنْدَ كُلِّ صَلاَةٍ »**
->
-> *« Si je ne craignais pas de rendre la chose difficile à ma communauté, je leur aurais ordonné le siwak à chaque prière. »*
-> — [Al-Bukhari (887) et Muslim (252)]
+| Application | Statut 🟡 |
+|-------------|-----------|
+| Kohl dans les yeux | ✅ Permis — n'annule pas |
+| Gouttes pour les yeux | ✅ Permis — n'annule pas |
+| Gouttes pour les oreilles | ✅ Permis — n'annule pas |
+| Gouttes nasales | ⚠️ Makruh — peut atteindre le gosier |
 
-### 1.4 L'Application de Kohl et de Gouttes (الكحل والقطرات)
+### 2. Actes Liés à la Nourriture
 
-| Application | Statut | École Malikite 🟡 |
-|-------------|--------|-------------------|
-| Kohl dans les yeux | ✅ Permis | N'annule pas le jeûne |
-| Gouttes pour les yeux | ✅ Permis | N'annule pas |
-| Gouttes pour les oreilles | ✅ Permis | N'annule pas |
-| Gouttes nasales | ⚠️ Makruh | Peut atteindre le gosier |
-
----
-
-## 2. Actes Liés à la Nourriture
-
-### 2.1 Goûter la Nourriture (ذوق الطعام)
+#### Goûter la Nourriture
 
 | Situation | Statut | Condition |
 |-----------|--------|-----------|
@@ -101,12 +121,7 @@ L'utilisation du siwak est **permise et recommandée** à tout moment, même pou
 | Goûter par plaisir | ❌ Makruh | Sans nécessité |
 | Mâcher pour un bébé | ✅ Permis | Si nécessaire |
 
-**Règle Malikite 🟡 :** Il est permis de goûter la nourriture pour une femme qui cuisine, à condition de :
-1. Ne rien avaler
-2. Recracher immédiatement
-3. Avoir une raison valable
-
-### 2.2 Avaler la Salive (بلع الريق)
+#### Avaler la Salive
 
 | Substance | Statut |
 |-----------|--------|
@@ -114,18 +129,7 @@ L'utilisation du siwak est **permise et recommandée** à tout moment, même pou
 | Mucus descendu dans la gorge | ✅ N'annule pas (involontaire) |
 | Crachat ramené puis avalé | ⚠️ Divergence |
 
----
-
-## 3. Actes entre Époux
-
-### 3.1 L'Embrassade et les Caresses (القُبلة والمباشرة)
-
-Le Prophète ﷺ embrassait ses épouses pendant le jeûne :
-
-> **« كَانَ رَسُولُ اللَّهِ ﷺ يُقَبِّلُ وَهُوَ صَائِمٌ، وَيُبَاشِرُ وَهُوَ صَائِمٌ، وَلَكِنَّهُ أَمْلَكُكُمْ لِإِرْبِهِ »**
->
-> *« Le Messager d'Allah ﷺ embrassait et avait des contacts physiques alors qu'il jeûnait, mais il était le plus maître de lui parmi vous. »*
-> — [Al-Bukhari (1927) et Muslim (1106)]
+### 3. Actes entre Époux
 
 | Action | Personne | Statut 🟡 |
 |--------|----------|-----------|
@@ -134,163 +138,138 @@ Le Prophète ﷺ embrassait ses épouses pendant le jeûne :
 | Caresses légères | Personne maître d'elle-même | ✅ Permis |
 | Caresses avec désir intense | Tous | ⚠️ Makruh fortement |
 
-### 3.2 Le Rêve Érotique (الاحتلام)
+**Le rêve érotique :** N'annule pas le jeûne car il est involontaire. Faire le ghusl ensuite.
 
-| Situation | Statut du jeûne |
-|-----------|-----------------|
-| Rêve érotique avec éjaculation | ✅ Valide |
-| Se réveiller en état de janaba | ✅ Valide (faire ghusl) |
+### 4. Actes Médicaux
 
-**Raison :** Le rêve est involontaire, donc n'affecte pas le jeûne.
-
----
-
-## 4. Actes Médicaux
-
-### 4.1 Les Injections (الحُقن)
-
-| Type d'injection | Statut | Raison |
-|------------------|--------|--------|
-| Intramusculaire (vaccin) | ✅ Permis | N'atteint pas le système digestif |
-| Intraveineuse (non nutritive) | ✅ Permis | Pas de nourriture |
-| Nutritive (glucose, vitamines) | ❌ Annule | Équivaut à manger |
+| Type | Statut | Raison |
+|------|--------|--------|
+| Injection intramusculaire (vaccin) | ✅ Permis | N'atteint pas le système digestif |
+| Injection intraveineuse (non nutritive) | ✅ Permis | Pas de nourriture |
+| Injection nutritive (glucose) | ❌ Annule | Équivaut à manger |
 | Insuline | ✅ Permis | N'est pas nutritive |
-
-### 4.2 Les Analyses et Prélèvements
-
-| Acte | Statut |
-|------|--------|
-| Prise de sang | ✅ Permis |
-| Don de sang | ✅ Permis (si supportable) |
-| Analyse d'urine | ✅ Permis |
-
-### 4.3 Les Soins Dentaires
-
-| Soin | Statut | Condition |
-|------|--------|-----------|
-| Extraction dentaire | ✅ Permis | Ne pas avaler le sang |
-| Obturation (plombage) | ✅ Permis | Éviter d'avaler |
-| Détartrage | ✅ Permis | Avec précaution |
+| Prise de sang | ✅ Permis | Ne rompt pas |
+| Don de sang | ✅ Permis | Si supportable |
+| Soins dentaires (sans avaler) | ✅ Permis | Avec précaution |
 | Anesthésie locale | ✅ Permis | N'annule pas |
 
----
-
-## 5. Actes de Beauté et d'Hygiène
-
-### 5.1 Le Parfum (الطِّيب)
+### 5. Hygiène et Beauté
 
 | Usage | Statut |
 |-------|--------|
 | Mettre du parfum | ✅ Permis |
-| Sentir du parfum | ✅ Permis |
-| Inhaler de l'encens (fumée) | ⚠️ Divergence |
-
-**Règle 🟡 :** L'inhalation volontaire de fumée d'encens est déconseillée car elle peut atteindre le gosier.
-
-### 5.2 L'Huile et les Crèmes
-
-| Application | Statut |
-|-------------|--------|
 | Huile sur les cheveux | ✅ Permis |
 | Crème sur le corps | ✅ Permis |
 | Maquillage | ✅ Permis |
-
-### 5.3 Se Couper les Ongles et les Cheveux
-
-| Acte | Statut |
-|------|--------|
 | Couper les ongles | ✅ Permis |
 | Se raser/couper les cheveux | ✅ Permis |
-| Épilation | ✅ Permis |
+| Inhaler de l'encens (fumée) | ⚠️ Déconseillé |
 
 ---
 
-## 6. Situations Diverses
+## ⚖️ Divergences entre Écoles
 
-### 6.1 Le Voyage pendant le Jeûne
+### Le Siwak après le Zawâl
 
-Le voyageur a plusieurs options :
+| École | Position |
+|-------|----------|
+| 🟢 **Hanafite** | Permis à tout moment |
+| 🟡 **Malikite** | Makruh avec siwak humide après le Zawâl |
+| 🔵 **Shafi'ite** | Makruh après le Zawâl |
+| 🟣 **Hanbalite** | Makruh avec siwak humide |
 
-| Choix | Statut |
-|-------|--------|
-| Jeûner pendant le voyage | ✅ Permis (préférable selon Malikites si pas de difficulté) |
-| Rompre et rattraper | ✅ Permis |
-| Commencer le voyage après Fajr | Doit compléter le jour selon Malikites 🟡 |
+### Le Kohl
 
-### 6.2 L'Utilisation du Téléphone/Internet
-
-| Usage | Statut |
-|-------|--------|
-| Téléphoner | ✅ Permis |
-| Naviguer sur internet | ✅ Permis |
-| Regarder ce qui est licite | ✅ Permis |
-| Regarder l'illicite | ❌ Haram (pas spécifique au jeûne) |
-
----
-
-## Tableau Récapitulatif
-
-| Catégorie | Action | Statut |
-|-----------|--------|--------|
-| **Corps** | Se baigner | ✅ Permis |
-| | Siwak | ✅ Permis |
-| | Kohl | ✅ Permis |
-| **Nourriture** | Goûter sans avaler | ✅ Permis (si besoin) |
-| | Avaler sa salive | ✅ Permis |
-| **Époux** | Embrasser (maître de soi) | ✅ Permis |
-| | Rêve érotique | ✅ N'annule pas |
-| **Médical** | Injection non nutritive | ✅ Permis |
-| | Prise de sang | ✅ Permis |
-| **Hygiène** | Parfum | ✅ Permis |
-| | Crèmes | ✅ Permis |
+| École | Position |
+|-------|----------|
+| 🟢 **Hanafite** | N'annule pas le jeûne |
+| 🟡 **Malikite** | N'annule pas le jeûne |
+| 🔵 **Shafi'ite** | N'annule pas le jeûne |
+| 🟣 **Hanbalite** | Certains disent qu'il annule si le goût atteint la gorge |
 
 ---
 
-## Recommandations pour un Jeûne Serein
+## 🌍 Applications Modernes
 
-### Ce qu'il est recommandé de faire :
-
-1. ✅ Retarder le Suhur
-2. ✅ Hâter l'Iftar
-3. ✅ Multiplier les bonnes œuvres
-4. ✅ Lire le Coran abondamment
-5. ✅ Faire des invocations, surtout avant l'Iftar
-
-### Ce qu'il vaut mieux éviter (même si permis) :
-
-1. ⚠️ Les caresses qui excitent fortement
-2. ⚠️ L'exagération dans le rinçage de la bouche
-3. ⚠️ Goûter la nourriture sans nécessité
-4. ⚠️ Se disputer ou élever la voix
+| Situation Contemporaine | Règle Applicable |
+|------------------------|------------------|
+| Dentifrice avec brossage | ✅ Permis si rien n'est avalé |
+| Bain de bouche | ✅ Permis si rien n'est avalé |
+| Climatisation / ventilateur | ✅ Permis totalement |
+| Piscine | ✅ Permis avec précaution |
+| Crème solaire | ✅ Permis |
+| Maquillage permanent | ✅ Permis (n'atteint pas l'estomac) |
+| Rouge à lèvres | ✅ Permis si rien n'est avalé |
+| Parfum en spray | ✅ Permis |
+| Téléphone / Internet | ✅ Permis (contenu licite) |
 
 ---
 
-## L'Esprit du Jeûne
+## ⚠️ Erreurs Courantes
 
-Le Prophète ﷺ a dit :
-
-> **« مَنْ لَمْ يَدَعْ قَوْلَ الزُّورِ وَالْعَمَلَ بِهِ فَلَيْسَ لِلَّهِ حَاجَةٌ فِي أَنْ يَدَعَ طَعَامَهُ وَشَرَابَهُ »**
->
-> *« Celui qui ne délaisse pas les paroles fausses et les mauvaises actions, Allah n'a pas besoin qu'il délaisse sa nourriture et sa boisson. »*
-> — [Al-Bukhari (1903)]
-
-Le jeûne n'est pas seulement une abstention de nourriture, mais une école de spiritualité et de purification de l'âme.
+| Erreur | Correction |
+|--------|------------|
+| Croire que le siwak est interdit après midi | Permis chez les Hanafites, makruh seulement chez d'autres |
+| Éviter totalement de goûter la nourriture | Permis pour un besoin légitime |
+| Penser que les gouttes oculaires annulent | N'annulent pas le jeûne |
+| Refuser tout contact avec l'épouse | Permis si on se maîtrise |
+| Croire que le parfum annule le jeûne | Le parfum est permis |
+| Éviter le bain par crainte | Le bain est totalement permis |
 
 ---
 
-## Sources
+## ❓ Questions Fréquentes (FAQ)
 
-- **Le Saint Coran** - Sourate Al-Baqara
-- **Sahih Al-Bukhari** - Kitab As-Sawm
-- **Sahih Muslim** - Kitab As-Siyam
-- **Sunan Abu Dawud**
-- **Al-Mudawwana** - Imam Malik
-- **Ach-Charh As-Saghir** - Ad-Dardir
-- **Fatawa Contemporaines** - Assemblées de Fiqh
+**Q : Puis-je me brosser les dents avec du dentifrice ?**
+R : Oui, à condition de ne rien avaler. Il est préférable de le faire avant le Fajr ou d'utiliser le siwak.
+
+**Q : Puis-je nager à la piscine pendant le jeûne ?**
+R : Oui, c'est permis. Faites attention à ne pas avaler d'eau.
+
+**Q : Mon épouse peut-elle m'embrasser pendant le jeûne ?**
+R : Oui, si vous êtes tous les deux maîtres de vous-mêmes. C'est makruh si vous craignez de perdre le contrôle.
+
+**Q : Puis-je utiliser un inhalateur pour l'asthme ?**
+R : C'est une question de divergence. En cas de nécessité médicale, utilisez-le et rattrapez le jour par précaution.
+
+---
+
+## 🎯 Action Concrète du Jour
+
+1. **Utilisez** le siwak régulièrement, c'est une sunna
+2. **N'hésitez pas** à vous rafraîchir si vous avez chaud
+3. **Goûtez** la nourriture si besoin, sans avaler
+4. **Maintenez** une bonne hygiène (parfum, soins)
+5. **Évitez** les situations qui risquent de compromettre votre jeûne
+
+---
+
+## 📝 Invocation
+
+<div dir="rtl">
+
+**اللَّهُمَّ اجْعَلْ صِيَامِي يَسِيرًا لاَ عَسِيرًا، وَأَعِنِّي عَلَى إِتْمَامِهِ بِرَحْمَتِكَ**
+
+</div>
+
+*Allâhumma-j'al ṣiyâmî yasîran lâ 'asîran, wa a'innî 'alâ itmâmihi biraḥmatik.*
+
+*Ô Allah, rends mon jeûne facile et non difficile, et aide-moi à l'accomplir par Ta miséricorde.*
+
+---
+
+## 📚 Sources
+
+1. **Al-Mudawwana** — Imam Malik رحمه الله
+2. **Al-Muqaddimât Al-Mumahhadât** — Ibn Rushd Al-Jadd رحمه الله
+3. **Mukhtasar Khalil** — Khalil ibn Ishaq رحمه الله
+4. **Ach-Charh As-Saghir** — Ad-Dardir رحمه الله
+5. **Al-Qawanin Al-Fiqhiyya** — Ibn Juzayy رحمه الله
+6. **Sahih Al-Bukhari** — Kitab As-Sawm
+7. **Sahih Muslim** — Kitab As-Siyam
+8. **Fatawa Contemporaines** — Assemblées de Fiqh
 
 ---
 
 **والله أعلم**
-
-*Qu'Allah nous accorde un jeûne agréé et nous facilite Son adoration.*
 `

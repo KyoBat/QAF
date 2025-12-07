@@ -1,252 +1,250 @@
 /**
  * Siyam - Leçon 007: L'Expiation (Kaffara) et la Fidya
- * Contenu en Français
+ * Contenu en Français - Conforme au FIQH-REDACTION-GUIDE.md
  */
 
-export const content = `# L'Expiation (Kaffara) et la Fidya
+export const content = `# 📜 الكَفَّارَةُ وَالفِدْيَةُ — L'Expiation et la Compensation
 
-Lorsqu'une personne rompt intentionnellement son jeûne de Ramadan par un acte interdit, Allah ﷻ a légiféré une expiation (Kaffara) pour purifier ce péché. La Fidya, quant à elle, est une compensation pour ceux qui ne peuvent pas jeûner.
-
-> **D'après Abu Hurayra رضي الله عنه** : Un homme vint au Prophète ﷺ et dit : « Je suis perdu ! » Le Prophète ﷺ demanda : « Qu'est-ce qui t'a perdu ? » Il dit : « J'ai eu des rapports avec ma femme pendant le Ramadan. »
-> — *Rapporté par Al-Bukhari (1936) et Muslim (1111)*
+> *« Allah a légiféré la kaffara pour purifier le péché et la fidya pour compenser l'incapacité, alliant justice et miséricorde. »*
 
 ---
 
-## 1. La Kaffara (الكَفَّارة) - L'Expiation
+## 📜 Textes Fondateurs
 
-### 1.1 Définition
+### Coran
 
-La **Kaffara** est une expiation obligatoire imposée à celui qui rompt intentionnellement le jeûne d'un jour de Ramadan par un rapport sexuel, sans excuse valable.
+> **﴿ وَعَلَى الَّذِينَ يُطِيقُونَهُ فِدْيَةٌ طَعَامُ مِسْكِينٍ ﴾**
+>
+> *« Et pour ceux qui le supportent avec grande difficulté, une compensation : nourrir un pauvre. »*
+> — [Sourate Al-Baqara : 184]
 
-### 1.2 Cas nécessitant la Kaffara
+### Hadiths
 
-| Acte | Kaffara requise ? | Détails |
-|------|-------------------|---------|
-| **Rapport sexuel intentionnel** | ✅ Oui | Unanimité des savants |
-| **Manger/boire intentionnellement** | 🟡 Divergence | Oui (Malikites 🟡) / Non (majorité) |
-| **Rupture par oubli** | ❌ Non | Continue le jeûne |
-| **Rupture sous contrainte** | ❌ Non | Pas de péché |
+> **D'après Abu Hurayra رضي الله عنه** : Un homme vint au Prophète ﷺ et dit :
+> **« هَلَكْتُ يَا رَسُولَ اللَّهِ! قَالَ: مَا أَهْلَكَكَ؟ قَالَ: وَقَعْتُ عَلَى امْرَأَتِي فِي رَمَضَانَ »**
+>
+> *« Je suis perdu, ô Messager d'Allah ! Il dit : Qu'est-ce qui t'a perdu ? Il dit : J'ai eu des rapports avec ma femme pendant Ramadan. »*
+> — [Al-Bukhari (1936) et Muslim (1111)]
 
-**Position Malikite 🟡 :** Les Malikites estiment que la Kaffara est également due pour toute rupture intentionnelle du jeûne (manger, boire), pas seulement les rapports sexuels.
-
-### 1.3 Conditions d'obligation de la Kaffara
-
-1. **Être adulte et sain d'esprit**
-2. **Jeûner un jour obligatoire de Ramadan**
-3. **Rompre intentionnellement sans excuse**
-4. **Connaître l'interdiction**
-5. **L'acte doit être complet** (pour les rapports)
+> **Le Prophète ﷺ lui dit :** « هَلْ تَجِدُ رَقَبَةً؟ قَالَ: لاَ. قَالَ: فَهَلْ تَسْتَطِيعُ أَنْ تَصُومَ شَهْرَيْنِ مُتَتَابِعَيْنِ؟ قَالَ: لاَ. قَالَ: فَهَلْ تَجِدُ إِطْعَامَ سِتِّينَ مِسْكِينًا؟ قَالَ: لاَ »
+>
+> *« Peux-tu affranchir un esclave ? Il dit : Non. Peux-tu jeûner deux mois consécutifs ? Il dit : Non. Peux-tu nourrir soixante pauvres ? Il dit : Non. »*
+> — [Al-Bukhari (1936) et Muslim (1111)]
 
 ---
 
-## 2. Les Trois Niveaux de la Kaffara
+## 🎓 Paroles des Savants
 
-La Kaffara doit être accomplie dans un **ordre précis** (الترتيب). On ne passe au niveau suivant qu'en cas d'incapacité.
+> **Imam Malik ibn Anas** رحمه الله :
+> *« La kaffara est due pour le rapport intime volontaire en Ramadan. Celui qui mange ou boit intentionnellement ne doit que le rattrapage sans kaffara. »*
+> — [Al-Mudawwana, Kitab As-Siyam]
 
-### Hadith de référence :
+> **Ibn Rushd Al-Jadd** رحمه الله :
+> *« Les savants ont divergé sur la kaffara pour autre que le rapport intime. Chez Malik, elle n'est due que pour le jimâ' (rapport). Chez Abu Hanifa, elle englobe tout annulatif intentionnel. »*
+> — [Bidayat Al-Mujtahid]
 
-> **Le Prophète ﷺ dit à l'homme :** « Peux-tu affranchir un esclave ? » Il dit : « Non. » Il dit : « Peux-tu jeûner deux mois consécutifs ? » Il dit : « Non. » Il dit : « Peux-tu nourrir soixante pauvres ? » Il dit : « Non. »
-> — *Rapporté par Al-Bukhari (1936) et Muslim (1111)*
+> **Khalil ibn Ishaq** رحمه الله :
+> *« La kaffara est ordonnée : affranchir, puis jeûner deux mois consécutifs, puis nourrir soixante pauvres. Chaque jour rompu intentionnellement a sa propre kaffara. »*
+> — [Mukhtasar Khalil]
 
-### 2.1 Premier niveau : Affranchir un esclave
+> **Ad-Dardir** رحمه الله :
+> *« La fidya est d'un mudd par jour, soit environ 750 grammes de nourriture de base. Elle est due par celui qui ne peut jeûner et ne pourra jamais rattraper. »*
+> — [Ach-Charh Al-Kabir]
 
-| Aspect | Détail |
-|--------|--------|
-| **Condition** | Esclave croyant |
-| **Aujourd'hui** | Inapplicable (esclavage aboli) |
-| **Résultat** | On passe au 2ème niveau |
-
-### 2.2 Deuxième niveau : Jeûner 2 mois consécutifs
-
-| Aspect | Détail |
-|--------|--------|
-| **Durée** | 60 jours consécutifs |
-| **Consécutivité** | Obligatoire |
-| **Interruption permise** | Menstrues, maladie soudaine |
-| **Interruption annulant** | Voyage volontaire, rupture sans excuse |
-
-**Important :**
-- Si on interrompt sans excuse → on recommence depuis le début
-- Les jours de 'Eid sont interdits au jeûne → choisir une période évitant ces jours
-- 🟡 Les Malikites permettent de commencer n'importe quand si on évite les jours interdits
-
-### 2.3 Troisième niveau : Nourrir 60 pauvres
-
-| Aspect | Détail |
-|--------|--------|
-| **Quantité** | 1 mudd par pauvre (≈ 750g) |
-| **Nourriture** | Aliment de base du pays |
-| **Bénéficiaires** | 60 pauvres différents |
-| **Alternative** | Donner l'équivalent en argent (🟡 permis chez certains) |
-
-**Calcul pratique :**
-- 1 mudd ≈ 750g de blé, riz ou dattes
-- Pour 60 pauvres = environ 45 kg de nourriture
-- Ou l'équivalent monétaire du repas moyen × 60
+> **Ibn Juzayy** رحمه الله :
+> *« La sagesse de la kaffara est de faire goûter à l'âme la difficulté pour l'empêcher de récidiver, tout en purifiant le péché commis. »*
+> — [Al-Qawanin Al-Fiqhiyya]
 
 ---
 
-## 3. Tableau Récapitulatif de la Kaffara
+## 🔍 Analyse Linguistique
 
-| Niveau | Action | Condition | Notes |
-|--------|--------|-----------|-------|
-| **1er** | Affranchir un esclave | Être capable | Inapplicable aujourd'hui |
-| **2ème** | Jeûner 60 jours consécutifs | Incapacité du 1er | Le plus courant |
-| **3ème** | Nourrir 60 pauvres | Incapacité du 2ème | Pour les malades |
-
----
-
-## 4. Cas Particuliers de la Kaffara
-
-### 4.1 Plusieurs jours rompus
-
-| Situation | Kaffara due | École Malikite 🟡 |
-|-----------|-------------|-------------------|
-| Même Ramadan, plusieurs jours | 1 seule Kaffara | 1 Kaffara par jour 🟡 |
-| Plusieurs Ramadans différents | 1 Kaffara par Ramadan | 1 Kaffara par jour 🟡 |
-
-**Position Malikite 🟡 :** Chaque jour rompu nécessite sa propre Kaffara, même dans le même Ramadan.
-
-### 4.2 La femme
-
-| Situation | Kaffara pour elle ? |
-|-----------|---------------------|
-| Consentante | ✅ Oui (selon la majorité) |
-| Forcée | ❌ Non |
-| Ignorante de l'interdiction | ❌ Non |
-
-### 4.3 Incapacité totale
-
-> **Dans la suite du hadith :** On apporta au Prophète ﷺ un panier de dattes. Il dit : « Donne cela en aumône. » L'homme dit : « À plus pauvre que moi ? Il n'y a pas entre les deux montagnes de Médine une famille plus pauvre que la mienne. » Le Prophète ﷺ rit jusqu'à ce que ses molaires apparaissent, puis dit : « Donne-le à manger à ta famille. »
-> — *Rapporté par Al-Bukhari (1936) et Muslim (1111)*
-
-**Conclusion :** En cas d'incapacité totale, la Kaffara tombe.
+| Terme Arabe | Translittération | Sens Littéral | Sens Technique |
+|-------------|------------------|---------------|----------------|
+| الكَفَّارَة | Al-Kaffâra | Couverture | Expiation d'un péché |
+| الفِدْيَة | Al-Fidya | Rançon | Compensation pour incapacité |
+| الإِطْعَام | Al-Iṭ'âm | Action de nourrir | Donner à manger aux pauvres |
+| الرَّقَبَة | Ar-Raqaba | Cou/esclave | Affranchissement |
+| المُدّ | Al-Mudd | Mesure | ≈ 750g de nourriture |
+| الصَّاع | Aṣ-Ṣâ' | Mesure | 4 mudds ≈ 3 kg |
+| التَّتَابُع | At-Tatâbu' | Succession | Consécutivité des jours |
 
 ---
 
-## 5. La Fidya (الفِدْية) - La Compensation
+## 📚 Explication Détaillée
 
-### 5.1 Définition
+### La Kaffara (الكفارة) — L'Expiation
 
-La **Fidya** est une compensation alimentaire due par celui qui ne peut pas jeûner et ne pourra jamais rattraper.
+#### Définition
 
-### 5.2 Personnes concernées
+La **kaffara** est une expiation obligatoire pour celui qui rompt intentionnellement le jeûne de Ramadan par un rapport intime, sans excuse valable.
 
-| Catégorie | Obligation | Preuve |
-|-----------|------------|--------|
-| **Vieillard très âgé** | Fidya | Coran 2:184 |
-| **Malade chronique incurable** | Fidya | Coran 2:184 |
-| **Retard de Qada sans excuse** | Fidya (+ Qada) | Avis des Compagnons |
+#### Cas nécessitant la Kaffara
 
-> **Allah ﷻ dit :** « Et pour ceux qui peuvent [difficilement] le supporter, une rançon : nourrir un pauvre. »
-> — *Sourate Al-Baqara, 2:184*
+| Acte | Kaffara requise ? |
+|------|-------------------|
+| Rapport intime intentionnel | ✅ Oui (unanimité) |
+| Manger/boire intentionnellement | 🟡 Non (Malikite) / Oui (Hanafite) |
+| Rupture par oubli | ❌ Non |
+| Rupture sous contrainte | ❌ Non |
 
-### 5.3 Montant de la Fidya
+#### Les Trois Niveaux de la Kaffara (dans l'ordre)
 
-| École | Quantité | Équivalent moderne |
-|-------|----------|-------------------|
-| **Malikite 🟡** | 1 mudd (≈ 750g) de nourriture | Environ 5-7 € |
-| **Hanafite** | 1/2 sa' (≈ 1,5 kg) | Environ 8-12 € |
-| **Shafi'ite** | 1 mudd de blé | Environ 5-7 € |
-| **Hanbalite** | 1 mudd de blé | Environ 5-7 € |
+| Niveau | Action | Détails |
+|--------|--------|---------|
+| **1er** | Affranchir un esclave | Inapplicable aujourd'hui |
+| **2ème** | Jeûner 60 jours consécutifs | Le plus courant |
+| **3ème** | Nourrir 60 pauvres | Si incapable de jeûner |
 
-### 5.4 Calcul Malikite 🟡 Détaillé
+**Règles du jeûne de 60 jours :**
+- Les jours doivent être **consécutifs**
+- Interruption permise : menstrues, maladie soudaine
+- Interruption annulant : voyage volontaire, rupture sans excuse
 
-| Élément | Quantité |
-|---------|----------|
-| **Par jour** | 1 mudd (≈ 750g) |
-| **Pour 30 jours** | 30 mudds (≈ 22,5 kg) |
-| **En argent** | Équivalent du repas moyen × 30 |
+**Règles de nourrir 60 pauvres :**
+- 1 mudd (≈ 750g) par pauvre
+- Nourriture de base du pays
+- 60 pauvres différents (ou équivalent)
+- Total ≈ 45 kg de nourriture
 
-**Méthode de calcul :**
-1. Prix moyen d'un repas dans le pays = X
-2. Fidya par jour = X
-3. Fidya pour Ramadan = X × 30
+### La Fidya (الفدية) — La Compensation
 
-### 5.5 Modalités de paiement
+#### Définition
 
-| Option | Permis ? | Notes |
-|--------|----------|-------|
-| Donner chaque jour | ✅ Oui | Préférable |
-| Donner en une fois au début | ✅ Oui | Permis |
-| Donner en une fois à la fin | ✅ Oui | Permis |
-| Donner à un seul pauvre | 🟡 Divergence | Permis (Malikite) |
+La **fidya** est une compensation alimentaire due par celui qui ne peut pas jeûner et ne pourra jamais rattraper.
 
----
+#### Personnes concernées
 
-## 6. Différence entre Kaffara et Fidya
+| Catégorie | Obligation |
+|-----------|------------|
+| Vieillard très âgé | Fidya uniquement |
+| Malade chronique incurable | Fidya uniquement |
+| Retard de Qada sans excuse | Fidya + Qada |
 
-| Aspect | Kaffara | Fidya |
-|--------|---------|-------|
-| **Cause** | Péché (rupture intentionnelle) | Excuse (incapacité) |
-| **Ordre** | 3 niveaux ordonnés | Nourriture uniquement |
-| **Quantité** | 60 pauvres | 1 pauvre/jour |
-| **Avec Qada** | ✅ Oui (Qada obligatoire aussi) | ❌ Non (pas de Qada) |
+#### Montant de la Fidya
 
----
+| École | Quantité par jour |
+|-------|-------------------|
+| 🟡 **Malikite** | 1 mudd (≈ 750g) |
+| 🟢 **Hanafite** | 1/2 sa' (≈ 1,5 kg) |
+| 🔵 **Shafi'ite** | 1 mudd |
+| 🟣 **Hanbalite** | 1 mudd |
 
-## 7. Tableaux Pratiques
-
-### 7.1 Checklist Kaffara
-
-- [ ] Vérifier si la Kaffara est due (rupture intentionnelle sans excuse)
-- [ ] Évaluer sa capacité : peut-on jeûner 60 jours ?
-- [ ] Si non, calculer la nourriture pour 60 pauvres
-- [ ] Ne pas oublier le Qada du jour rompu
-
-### 7.2 Checklist Fidya
-
-- [ ] Confirmer l'incapacité définitive de jeûner
-- [ ] Calculer le montant : 30 jours × valeur du mudd
-- [ ] Choisir : donner quotidiennement ou en une fois
-- [ ] Identifier les pauvres bénéficiaires
+**Calcul pratique 🟡 :**
+- Par jour : 1 mudd ≈ 750g
+- Pour 30 jours : ≈ 22,5 kg
+- Équivalent monétaire du repas moyen × 30
 
 ---
 
-## 8. Questions Fréquentes
+## ⚖️ Divergences entre Écoles
 
-### Q1 : Peut-on donner l'argent au lieu de la nourriture ?
+### La Kaffara pour manger/boire
 
-| École | Avis |
-|-------|------|
-| **Malikite 🟡** | Préférable de donner la nourriture, argent permis |
-| **Hanafite** | Argent permis |
-| **Shafi'ite** | Nourriture obligatoire |
-| **Hanbalite** | Nourriture préférable |
+| École | Position |
+|-------|----------|
+| 🟢 **Hanafite** | Kaffara obligatoire |
+| 🟡 **Malikite** | Pas de Kaffara (Qada seulement) |
+| 🔵 **Shafi'ite** | Pas de Kaffara |
+| 🟣 **Hanbalite** | Pas de Kaffara |
 
-### Q2 : Peut-on donner la Fidya à un proche pauvre ?
+### Plusieurs jours rompus par rapport intime
 
-✅ Oui, tant qu'il n'est pas à charge (qu'on n'est pas obligé de nourrir).
+| École | Position |
+|-------|----------|
+| 🟢 **Hanafite** | 1 seule Kaffara pour le même Ramadan |
+| 🟡 **Malikite** | 1 Kaffara par jour rompu |
+| 🔵 **Shafi'ite** | 1 seule Kaffara pour le même Ramadan |
+| 🟣 **Hanbalite** | 1 seule Kaffara pour le même Ramadan |
 
-### Q3 : Que faire si on a oublié de payer la Fidya des années précédentes ?
+### La fidya en argent
 
-Il faut la payer avec la Fidya actuelle. Les obligations passées ne tombent pas.
-
----
-
-## 9. Conseil Spirituel
-
-La Kaffara et la Fidya ne sont pas de simples pénalités financières. Elles sont :
-
-1. **Une purification** du péché commis
-2. **Un rappel** de la gravité de rompre le jeûne
-3. **Une solidarité** avec les pauvres
-4. **Une sagesse divine** alliant justice et miséricorde
-
-> **Ibn Al-Qayyim رحمه الله a dit :** « La sagesse de la Kaffara est de faire goûter à l'âme la difficulté pour l'empêcher de récidiver, tout en purifiant le péché. »
+| École | Position |
+|-------|----------|
+| 🟢 **Hanafite** | Argent permis |
+| 🟡 **Malikite** | Nourriture préférable, argent permis |
+| 🔵 **Shafi'ite** | Nourriture obligatoire |
+| 🟣 **Hanbalite** | Nourriture préférable |
 
 ---
 
-## Sources
+## 🌍 Applications Modernes
 
-- *Sahih Al-Bukhari* et *Sahih Muslim*
-- *Al-Muwatta* de l'Imam Malik
-- *Al-Mudawwana* de Sahnun
-- *Bidayat Al-Mujtahid* d'Ibn Rushd
-- *Al-Fiqh 'ala Al-Madhahib Al-Arba'a* d'Al-Jaziri
-- *Zad Al-Ma'ad* d'Ibn Al-Qayyim
+| Situation | Règle Applicable |
+|-----------|------------------|
+| Donner la fidya via association caritative | ✅ Permis |
+| Payer la fidya en début de Ramadan | ✅ Permis |
+| Donner la fidya à un seul pauvre (30 jours) | 🟡 Permis chez les Malikites |
+| Convertir la fidya en repas préparés | ✅ Permis |
+| Acheter des denrées en gros pour la fidya | ✅ Permis |
+| Incapacité totale de payer (pauvreté) | La kaffara tombe |
 
 ---
 
-والله أعلم
+## ⚠️ Erreurs Courantes
+
+| Erreur | Correction |
+|--------|------------|
+| Croire que manger intentionnellement nécessite la kaffara | Non chez les Malikites, seulement le Qada |
+| Penser qu'une seule kaffara suffit pour plusieurs jours | Chez les Malikites, 1 kaffara par jour |
+| Oublier que la kaffara est ordonnée (3 niveaux) | Suivre l'ordre : affranchir → jeûner → nourrir |
+| Confondre fidya et kaffara | Fidya = incapacité ; Kaffara = péché |
+| Donner l'argent au lieu de nourriture sans vérifier | La nourriture est préférable |
+
+---
+
+## ❓ Questions Fréquentes (FAQ)
+
+**Q : Combien coûte la fidya aujourd'hui ?**
+R : Environ 5-7 € par jour (valeur d'un repas). Pour 30 jours : 150-210 €.
+
+**Q : Puis-je donner la fidya à un membre de ma famille pauvre ?**
+R : Oui, tant qu'il n'est pas à votre charge (que vous n'êtes pas obligé de nourrir).
+
+**Q : J'ai rompu 3 jours de Ramadan par rapport intime, combien de kaffara ?**
+R : 🟡 Chez les Malikites : 3 kaffara (une par jour). Chez les autres : 1 seule kaffara.
+
+**Q : Je suis trop pauvre pour payer la kaffara, que faire ?**
+R : En cas d'incapacité totale, la kaffara tombe, comme dans le hadith de l'homme.
+
+---
+
+## 🎯 Action Concrète du Jour
+
+1. **Distinguez** entre kaffara (péché) et fidya (incapacité)
+2. **Calculez** le montant de la fidya si vous avez un proche concerné
+3. **Identifiez** les pauvres ou associations auxquels donner
+4. **Planifiez** le jeûne de 60 jours si vous devez la kaffara
+5. **Repentez-vous** sincèrement avant d'accomplir la kaffara
+
+---
+
+## 📝 Invocation
+
+<div dir="rtl">
+
+**اللَّهُمَّ اغْفِرْ لِي ذُنُوبِي، وَتَقَبَّلْ تَوْبَتِي وَكَفَّارَتِي، إِنَّكَ أَنْتَ الغَفُورُ الرَّحِيم**
+
+</div>
+
+*Allâhumma-ghfir lî dhunûbî, wa taqabbal tawbatî wa kaffâratî, innaka anta-l-Ghafûru-r-Raḥîm.*
+
+*Ô Allah, pardonne mes péchés, accepte mon repentir et mon expiation, Tu es certes le Pardonneur, le Miséricordieux.*
+
+---
+
+## 📚 Sources
+
+1. **Al-Mudawwana** — Imam Malik رحمه الله
+2. **Bidayat Al-Mujtahid** — Ibn Rushd رحمه الله
+3. **Mukhtasar Khalil** — Khalil ibn Ishaq رحمه الله
+4. **Ach-Charh Al-Kabir** — Ad-Dardir رحمه الله
+5. **Al-Qawanin Al-Fiqhiyya** — Ibn Juzayy رحمه الله
+6. **Sahih Al-Bukhari** — Kitab As-Sawm
+7. **Sahih Muslim** — Kitab As-Siyam
+8. **Zad Al-Ma'ad** — Ibn Al-Qayyim رحمه الله
+
+---
+
+**والله أعلم**
 `

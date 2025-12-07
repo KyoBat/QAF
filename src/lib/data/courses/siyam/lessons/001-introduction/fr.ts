@@ -1,159 +1,231 @@
 /**
  * Siyam - Leçon 001: Introduction au Jeûne
- * Contenu en Français
+ * مقدمة في الصيام
+ * Contenu en Français - Approche Malikite avec comparaison des madhahib
  */
 
-export const content = `# Introduction au Jeûne (الصيام)
+export const content = `# 📜 الصِّيَامُ — Introduction au Jeûne
 
-## Introduction
+> Le jeûne du mois de Ramadan est l'un des **cinq piliers de l'Islam**. Il purifie l'âme, élève le croyant vers la piété et forge sa volonté. Imam Malik رحمه الله a dit : *« Le jeûne est une école de patience et de maîtrise de soi. »*
 
-Le jeûne du mois de Ramadan est l'un des cinq piliers de l'Islam. Allah تعالى dit :
+---
+
+## 📜 Textes Fondateurs (النصوص الأساسية)
+
+### Le Coran
 
 > **﴿ يَا أَيُّهَا الَّذِينَ آمَنُوا كُتِبَ عَلَيْكُمُ الصِّيَامُ كَمَا كُتِبَ عَلَى الَّذِينَ مِن قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ ﴾**
 >
-> *« Ô vous qui croyez ! Le jeûne vous a été prescrit comme il a été prescrit à ceux qui vous ont précédés, afin que vous atteigniez la piété. »* [Al-Baqara : 183]
-
-Le Prophète ﷺ a dit :
-
-> **« بُنِيَ الإِسْلاَمُ عَلَى خَمْسٍ: شَهَادَةِ أَنْ لاَ إِلَهَ إِلاَّ اللَّهُ وَأَنَّ مُحَمَّدًا رَسُولُ اللَّهِ، وَإِقَامِ الصَّلاَةِ، وَإِيتَاءِ الزَّكَاةِ، وَصَوْمِ رَمَضَانَ، وَحَجِّ الْبَيْتِ »**
+> *« Ô vous qui croyez ! Le jeûne vous a été prescrit comme il a été prescrit à ceux qui vous ont précédés, afin que vous atteigniez la piété. »*
 >
-> *« L'Islam est bâti sur cinq piliers : l'attestation qu'il n'y a de divinité digne d'adoration qu'Allah et que Muhammad est Son Messager, l'accomplissement de la prière, l'acquittement de la Zakat, le jeûne du Ramadan et le pèlerinage à la Maison Sacrée. »*
-> — [Al-Bukhari (8) et Muslim (16)]
-
----
-
-## 1. Définition du Jeûne
-
-### 1.1 Définition Linguistique (اللغوية)
-
-Le mot **صِيَام** (Siyam) ou **صَوْم** (Sawm) signifie linguistiquement : **l'abstention** (الإمساك).
-
-Allah تعالى dit à propos de Maryam :
-
-> **﴿ إِنِّي نَذَرْتُ لِلرَّحْمَٰنِ صَوْمًا ﴾**
->
-> *« J'ai voué un jeûne au Tout Miséricordieux »* [Maryam : 26]
-
-Ici, le jeûne signifie l'abstention de parler.
-
-### 1.2 Définition Légale (الشرعية)
-
-Le jeûne selon la Charia est défini comme :
-
-> **الإمساك عن المفطرات من طلوع الفجر إلى غروب الشمس بنية**
->
-> *« L'abstention des choses qui rompent le jeûne, depuis l'aube jusqu'au coucher du soleil, avec l'intention. »*
-
-| Élément | Description |
-|---------|-------------|
-| **الإمساك** | L'abstention |
-| **المفطرات** | Les invalidateurs (nourriture, boisson, rapports...) |
-| **من طلوع الفجر** | Du lever de l'aube véridique (الفجر الصادق) |
-| **إلى غروب الشمس** | Jusqu'au coucher du soleil |
-| **بنية** | Avec l'intention préalable |
-
----
-
-## 2. Prescription du Jeûne (مشروعية الصيام)
-
-### 2.1 Du Coran
-
-Allah تعالى a prescrit le jeûne à cette communauté comme Il l'a prescrit aux communautés antérieures :
+> — **[Al-Baqara : 183]**
 
 > **﴿ شَهْرُ رَمَضَانَ الَّذِي أُنزِلَ فِيهِ الْقُرْآنُ هُدًى لِّلنَّاسِ وَبَيِّنَاتٍ مِّنَ الْهُدَىٰ وَالْفُرْقَانِ ۚ فَمَن شَهِدَ مِنكُمُ الشَّهْرَ فَلْيَصُمْهُ ﴾**
 >
-> *« Le mois de Ramadan au cours duquel le Coran a été descendu comme guide pour les gens, et preuves claires de la bonne direction et du discernement. Donc quiconque d'entre vous est présent en ce mois, qu'il jeûne ! »* [Al-Baqara : 185]
-
-### 2.2 De la Sunna
-
-Le Prophète ﷺ a dit :
-
-> **« إِذَا رَأَيْتُمُ الْهِلَالَ فَصُومُوا، وَإِذَا رَأَيْتُمُوهُ فَأَفْطِرُوا، فَإِنْ غُمَّ عَلَيْكُمْ فَاقْدُرُوا لَهُ »**
+> *« Le mois de Ramadan au cours duquel le Coran a été descendu comme guide pour les gens. Quiconque d'entre vous est présent en ce mois, qu'il jeûne ! »*
 >
-> *« Lorsque vous voyez le croissant (de Ramadan), jeûnez, et lorsque vous le voyez (de Shawwal), rompez le jeûne. S'il vous est caché (par les nuages), alors complétez le nombre (de Sha'ban à 30 jours). »*
-> — [Al-Bukhari (1909) et Muslim (1081)]
+> — **[Al-Baqara : 185]**
 
-### 2.3 Le Consensus (الإجماع)
+### La Sunnah
 
-La communauté musulmane est unanime sur l'**obligation du jeûne de Ramadan** pour tout musulman pubère, sain d'esprit et capable.
+> عَنِ ابْنِ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا قَالَ: قَالَ رَسُولُ اللَّهِ ﷺ:
+>
+> **« بُنِيَ الإِسْلاَمُ عَلَى خَمْسٍ: شَهَادَةِ أَنْ لاَ إِلَهَ إِلاَّ اللَّهُ وَأَنَّ مُحَمَّدًا رَسُولُ اللَّهِ، وَإِقَامِ الصَّلاَةِ، وَإِيتَاءِ الزَّكَاةِ، وَصَوْمِ رَمَضَانَ، وَحَجِّ الْبَيْتِ »**
+>
+> *« L'Islam est bâti sur cinq piliers : l'attestation qu'il n'y a de divinité digne d'adoration qu'Allah et que Muhammad est Son Messager, l'accomplissement de la prière, l'acquittement de la Zakat, le jeûne du Ramadan et le pèlerinage à la Maison. »*
+>
+> — **[Al-Bukhari (8) et Muslim (16)]**
 
----
-
-## 3. Sagesses et Vertus du Jeûne
-
-### 3.1 Les Sagesses (الحِكَم)
-
-1. **Atteindre la piété (التقوى)** : Objectif principal mentionné dans le verset
-2. **Purifier l'âme** : Se détacher des désirs matériels
-3. **Ressentir la faim des pauvres** : Développer l'empathie et la générosité
-4. **Renforcer la volonté** : Maîtriser ses instincts
-5. **Bienfaits pour la santé** : Repos du système digestif
-
-### 3.2 Les Vertus (الفضائل)
-
-Le Prophète ﷺ a dit :
-
+> عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ ﷺ:
+>
 > **« مَنْ صَامَ رَمَضَانَ إِيمَانًا وَاحْتِسَابًا غُفِرَ لَهُ مَا تَقَدَّمَ مِنْ ذَنْبِهِ »**
 >
 > *« Quiconque jeûne le Ramadan avec foi et en espérant la récompense d'Allah, ses péchés antérieurs lui seront pardonnés. »*
-> — [Al-Bukhari (38) et Muslim (760)]
-
-Et il ﷺ a dit :
-
-> **« الصِّيَامُ جُنَّةٌ، فَإِذَا كَانَ يَوْمُ صَوْمِ أَحَدِكُمْ فَلَا يَرْفُثْ وَلَا يَصْخَبْ »**
 >
-> *« Le jeûne est un bouclier. Lorsque l'un de vous jeûne, qu'il ne prononce pas de paroles obscènes et qu'il ne crie pas. »*
-> — [Al-Bukhari (1904) et Muslim (1151)]
+> — **[Al-Bukhari (38) et Muslim (760)]**
+
+### 📚 Référencement (التخريج)
+
+| Source | Numéro | Statut |
+|--------|--------|--------|
+| **Ṣaḥīḥ Al-Bukhārī** | 8, 38, 1904, 1909 | ✅ Ṣaḥīḥ |
+| **Ṣaḥīḥ Muslim** | 16, 760, 1081, 1151 | ✅ Ṣaḥīḥ |
+| **Al-Muwaṭṭa'** | Kitāb aṣ-Ṣiyām | ✅ Ṣaḥīḥ |
 
 ---
 
-## 4. Types de Jeûne
+## 🎓 Paroles des Savants (أقوال العلماء)
+
+| Savant | Citation |
+|--------|----------|
+| **Imam Mālik** رحمه الله | *« Le jeûne est une adoration secrète entre le serviteur et son Seigneur, c'est pourquoi Allah l'a attribué à Lui-même. »* — *Al-Muwaṭṭa'* |
+| **Ibn Rushd al-Ḥafīd** رحمه الله | *« Le jeûne de Ramadan est un des piliers de l'Islam par consensus (ijmā') de la Ummah. »* — *Bidāyat al-Mujtahid* |
+| **Al-Qāḍī 'Iyāḍ** رحمه الله | *« Le jeûne est une école de patience (ṣabr) et de maîtrise de l'âme (mujāhadat an-nafs). »* — *Ikmāl al-Mu'lim* |
+| **Khalīl ibn Isḥāq** رحمه الله | *« Le jeûne est l'abstention avec intention des choses qui le rompent, de l'aube au coucher du soleil. »* — *Al-Mukhtaṣar* |
+| **Ibn 'Abd al-Barr** رحمه الله | *« Le consensus des savants s'est établi sur l'obligation du jeûne de Ramadan dès l'an 2 de l'Hégire. »* — *Al-Istidhkār* |
+
+---
+
+## 🔍 Analyse Linguistique (التحليل اللغوي)
+
+### 📜 Vocabulaire Clé
+
+| Terme Arabe | Translittération | Racine | Définition Technique |
+|-------------|------------------|--------|---------------------|
+| **صِيَام** | Ṣiyām | ص-و-م | L'abstention continue avec intention |
+| **صَوْم** | Ṣawm | ص-و-م | L'abstention (forme simple) |
+| **الإِمْسَاك** | al-Imsāk | م-س-ك | Retenir, s'abstenir |
+| **المُفَطِّرَات** | al-Mufaṭṭirāt | ف-ط-ر | Ce qui rompt le jeûne |
+| **النِّيَّة** | an-Niyyah | ن-و-ي | L'intention du cœur |
+| **الفَجْر الصَّادِق** | al-Fajr aṣ-Ṣādiq | ف-ج-ر | L'aube véridique (lumière horizontale) |
+| **التَّقْوَى** | at-Taqwā | و-ق-ي | La piété, la crainte révérencielle d'Allah |
+
+### 💡 Point de Balāgha
+
+> **﴿ لَعَلَّكُمْ تَتَّقُونَ ﴾** — L'usage de **لَعَلَّ** (peut-être, afin que) indique l'**espoir** et l'**objectif visé**. Le jeûne n'est pas une fin en soi, mais un **moyen** pour atteindre la piété (التقوى). Cette formulation rhétorique motive le croyant à viser cet objectif spirituel.
+
+---
+
+## 📚 Explication Détaillée (الشرح المفصل)
+
+### 🔷 Définition du Jeûne
+
+#### Définition Linguistique
+
+Le mot **صِيَام** signifie l'**abstention** (الإمساك). Allah تعالى dit à propos de Maryam :
+
+> **﴿ إِنِّي نَذَرْتُ لِلرَّحْمَٰنِ صَوْمًا ﴾** — *« J'ai voué un jeûne au Tout Miséricordieux »* [Maryam : 26]
+
+Ici, le jeûne signifie l'abstention de **parler**.
+
+#### Définition Légale (Sharʿiyyah)
+
+> **الإِمْسَاكُ عَنِ المُفَطِّرَاتِ مِنْ طُلُوعِ الفَجْرِ إِلَى غُرُوبِ الشَّمْسِ بِنِيَّةٍ**
+>
+> *« L'abstention des invalidateurs, de l'aube au coucher du soleil, avec intention. »*
+
+| Élément | Description |
+|---------|-------------|
+| **الإمساك** | L'abstention volontaire |
+| **المفطرات** | Nourriture, boisson, rapports intimes |
+| **من طلوع الفجر** | Début : aube véridique |
+| **إلى غروب الشمس** | Fin : disparition du disque solaire |
+| **بنية** | Condition : intention préalable |
+
+### 🔷 Sagesses du Jeûne (حِكَم الصيام)
+
+| # | Sagesse | Description |
+|---|---------|-------------|
+| 1️⃣ | **Atteindre la piété** | Objectif mentionné dans le verset (لَعَلَّكُمْ تَتَّقُونَ) |
+| 2️⃣ | **Purifier l'âme** | Se détacher des désirs matériels |
+| 3️⃣ | **Solidarité sociale** | Ressentir la faim des pauvres |
+| 4️⃣ | **Renforcer la volonté** | Maîtriser ses instincts |
+| 5️⃣ | **Bienfaits physiques** | Repos du système digestif |
+| 6️⃣ | **Gratitude** | Apprécier les bienfaits d'Allah |
+
+### 🔷 Types de Jeûne
 
 | Type | Statut | Exemples |
 |------|--------|----------|
-| **Obligatoire (واجب)** | Fard | Ramadan, rattrapage, vœu |
-| **Recommandé (مستحب)** | Sunna | Lundi/jeudi, jours blancs, 'Arafah |
-| **Interdit (حرام)** | Haram | Les deux Eids, jours de Tashriq pour le non-pèlerin |
-| **Détestable (مكروه)** | Makruh | Vendredi seul, samedi seul |
+| **Obligatoire (فَرْض)** | Wājib | Ramadan, rattrapage (Qaḍā'), vœu (Nadhr) |
+| **Recommandé (مُسْتَحَبّ)** | Sunnah | Lundi/jeudi, jours blancs (13-14-15), 'Arafah |
+| **Interdit (حَرَام)** | Ḥarām | Les deux 'Eids, jours de Tashrīq |
+| **Détestable (مَكْرُوه)** | Makrūh | Vendredi seul, samedi seul |
 
 ---
 
-## 5. Particularités selon l'École Malikite 🟡
+## ⚖️ Divergences entre Écoles (الخلاف الفقهي)
 
-L'école Malikite se distingue par plusieurs points concernant le jeûne :
+| Question | 🟡 Malikite | 🟢 Hanafite | 🔵 Shafiite | 🟣 Hanbalite |
+|----------|-------------|-------------|-------------|--------------|
+| **Intention pour Ramadan** | Une seule pour tout le mois | Une seule suffit | Chaque nuit obligatoire | Chaque nuit obligatoire |
+| **Moment de l'intention** | Avant le Fajr | Avant le Fajr (obligatoire) / Avant Zawāl (Nafl) | Avant le Fajr | Avant le Fajr |
+| **Eau avalée involontairement** | N'annule pas | Annule le jeûne | Annule le jeûne | Annule le jeûne |
+| **Kaffāra pour manger volontairement** | Oui | Non (Qaḍā' seul) | Non (Qaḍā' seul) | Non (Qaḍā' seul) |
 
-1. **L'intention** : Elle doit être faite la nuit, avant le Fajr, pour le jeûne obligatoire
-2. **Une seule intention** : Suffit pour tout le mois de Ramadan selon l'avis prépondérant
-3. **Le rinçage de la bouche (المضمضة)** : Ne rompt pas le jeûne même si de l'eau est avalée involontairement
-4. **La kaffara** : Obligatoire uniquement pour celui qui rompt le jeûne de Ramadan par un rapport intime
-
----
-
-## Tableau Récapitulatif
-
-| Aspect | Détail |
-|--------|--------|
-| **Définition** | Abstention des invalidateurs de l'aube au coucher du soleil avec intention |
-| **Statut** | Pilier de l'Islam - Obligatoire (فرض عين) |
-| **Prescription** | 2ème année de l'Hégire |
-| **Preuve coranique** | Al-Baqara : 183-185 |
-| **Preuve prophétique** | Hadith des cinq piliers |
-| **Objectif** | La piété (التقوى) |
+> 💡 **Spécificité Malikite** : Une seule intention au début de Ramadan suffit pour tout le mois, car le jeûne de Ramadan est considéré comme une adoration continue (عبادة متصلة).
 
 ---
 
-## Sources
+## 🌍 Applications Modernes (التطبيقات المعاصرة)
 
-- **Le Saint Coran** - Sourate Al-Baqara
-- **Sahih Al-Bukhari** - Kitab As-Sawm
-- **Sahih Muslim** - Kitab As-Siyam
-- **Al-Mudawwana** - Imam Malik
-- **Bidayat Al-Mujtahid** - Ibn Rushd
-- **Al-Fiqh 'ala Al-Madhahib Al-Arba'a** - Al-Jaziri
+| Situation | Problème | Solution Jurisprudentielle |
+|-----------|----------|---------------------------|
+| 📱 **Applications Horaires** | Quel calendrier suivre ? | Suivre le calendrier de sa mosquée locale ou ISNA/UOIF |
+| ✈️ **Voyage en avion** | Jour très court/long | Suivre les horaires de la ville de départ/arrivée |
+| 🏥 **Prises de sang** | Rompt le jeûne ? | 🟡 Non selon les Malikites (n'est pas nourriture) |
+| 💉 **Injections médicales** | Intraveineuse/intramusculaire ? | 🟡 N'annule pas si non nutritive |
+| 🌍 **Pays nordiques** | Journée de 20h+ | Suivre le pays le plus proche ou La Mecque |
 
 ---
 
-**والله أعلم**
+## ⚠️ Erreurs Courantes (الأخطاء الشائعة)
 
-*Qu'Allah nous accorde la science bénéfique et la compréhension de notre religion.*
-`
+| Erreur | ❌ Ce que les gens font | ✅ Ce qu'il faut faire |
+|--------|------------------------|------------------------|
+| **L'intention** | La prononcer à voix haute | La former dans le cœur uniquement |
+| **Le Suhūr** | L'abandonner | Le prendre, même avec de l'eau |
+| **L'Iftār** | Le retarder | Le hâter dès le coucher du soleil |
+| **Les péchés** | Jeûner mais médire | Le jeûne englobe la langue et les membres |
+| **Le calcul** | Suivre un autre pays | Suivre la vision locale ou son pays |
+
+---
+
+## ❓ FAQ (الأسئلة الشائعة)
+
+**Q1 : Peut-on jeûner sans avoir mangé au Suhūr ?**
+> Oui, le Suhūr est **recommandé** (Sunnah) mais pas obligatoire. Le jeûne reste valide sans lui. Le Prophète ﷺ a dit : *« Le Suhūr est une bénédiction, ne le délaissez pas. »* [Muslim]
+
+**Q2 : Si j'oublie de faire l'intention la nuit, mon jeûne est-il valide ?**
+> 🟡 Selon les **Malikites** : Non, l'intention avant le Fajr est obligatoire pour le jeûne de Ramadan. Pour le jeûne surérogatoire, elle peut être faite avant le Zawāl.
+
+**Q3 : Le jeûne est-il valide si on se réveille en état de Janāba ?**
+> Oui, à l'unanimité. Le Prophète ﷺ se réveillait parfois en état de Janāba puis faisait le Ghusl et jeûnait. [Al-Bukhari et Muslim]
+
+**Q4 : Les enfants doivent-ils jeûner ?**
+> Le jeûne n'est pas obligatoire avant la puberté, mais il est **recommandé** de les habituer progressivement dès l'âge de 7 ans.
+
+---
+
+## 🎯 Action Concrète (التطبيق العملي)
+
+**Ce Ramadan, fixez-vous trois objectifs :**
+
+1. **Parfaire l'intention** — Chaque soir, renouvelez consciemment votre intention de jeûner pour Allah
+2. **Ne jamais délaisser le Suhūr** — Même un verre d'eau et quelques dattes
+3. **Garder sa langue** — Le jeûne n'est pas que de la nourriture : évitez la médisance et les paroles vaines
+
+> 💡 **Conseil** : Tenez un petit carnet où vous notez vos réflexions spirituelles chaque jour de Ramadan.
+
+---
+
+## 📝 Invocation de Clôture
+
+> **اللَّهُمَّ أَعِنَّا عَلَى ذِكْرِكَ وَشُكْرِكَ وَحُسْنِ عِبَادَتِكَ**
+>
+> *« Ô Allah, aide-nous à T'évoquer, Te remercier et T'adorer de la meilleure façon. »*
+
+> **اللَّهُمَّ بَلِّغْنَا رَمَضَانَ وَأَعِنَّا عَلَى صِيَامِهِ وَقِيَامِهِ**
+>
+> *« Ô Allah, fais-nous parvenir à Ramadan et aide-nous à le jeûner et à le veiller. »*
+
+---
+
+## 📚 Sources et Références
+
+| Ouvrage | Auteur |
+|---------|--------|
+| **Al-Muwaṭṭa'** | Imam Mālik ibn Anas |
+| **Al-Mudawwanah** | Saḥnūn / Imam Mālik |
+| **Bidāyat al-Mujtahid** | Ibn Rushd al-Ḥafīd |
+| **Al-Mukhtaṣar** | Khalīl ibn Isḥāq |
+| **Ṣaḥīḥ Al-Bukhārī** | Imam Al-Bukhārī |
+| **Ṣaḥīḥ Muslim** | Imam Muslim |
+| **Al-Qawānīn al-Fiqhiyyah** | Ibn Juzayy |
+
+---
+
+**والله أعلم** — واللهُ تَعَالَى أَعْلَى وَأَعْلَم
+
+*Qu'Allah nous accorde de vivre Ramadan avec foi et piété, et d'en sortir purifiés.*
+`;

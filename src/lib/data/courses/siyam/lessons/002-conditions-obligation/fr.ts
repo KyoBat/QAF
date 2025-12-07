@@ -1,45 +1,34 @@
 /**
  * Siyam - Leçon 002: Les Conditions d'Obligation du Jeûne
- * Contenu en Français
+ * Contenu en Français - Conforme au FIQH-REDACTION-GUIDE.md
  */
 
-export const content = `# Les Conditions d'Obligation du Jeûne (شروط وجوب الصيام)
+export const content = `# 📜 شُرُوطُ وُجُوبِ الصِّيَامِ — Les Conditions d'Obligation du Jeûne
 
-## Introduction
+> *« Le jeûne n'est obligatoire que pour celui qui en est capable, et Allah n'impose à aucune âme une charge supérieure à sa capacité. »*
 
-Le jeûne de Ramadan est une obligation pour tout musulman, mais cette obligation est conditionnée par certains critères. Allah تعالى dit :
+---
+
+## 📜 Textes Fondateurs
+
+### Coran
 
 > **﴿ فَمَن شَهِدَ مِنكُمُ الشَّهْرَ فَلْيَصُمْهُ ۖ وَمَن كَانَ مَرِيضًا أَوْ عَلَىٰ سَفَرٍ فَعِدَّةٌ مِّنْ أَيَّامٍ أُخَرَ ﴾**
 >
-> *« Donc quiconque d'entre vous est présent en ce mois, qu'il jeûne ! Et quiconque est malade ou en voyage, alors qu'il jeûne un nombre équivalent d'autres jours. »* [Al-Baqara : 185]
+> *« Donc quiconque d'entre vous est présent en ce mois, qu'il jeûne ! Et quiconque est malade ou en voyage, alors qu'il jeûne un nombre équivalent d'autres jours. »*
+> — [Sourate Al-Baqara : 185]
 
-Le Prophète ﷺ a dit :
+> **﴿ وَعَلَى الَّذِينَ يُطِيقُونَهُ فِدْيَةٌ طَعَامُ مِسْكِينٍ ﴾**
+>
+> *« Et pour ceux qui le supportent avec grande difficulté, il y a une compensation : nourrir un pauvre. »*
+> — [Sourate Al-Baqara : 184]
+
+### Hadiths
 
 > **« رُفِعَ الْقَلَمُ عَنْ ثَلاَثَةٍ: عَنِ النَّائِمِ حَتَّى يَسْتَيْقِظَ، وَعَنِ الصَّبِيِّ حَتَّى يَحْتَلِمَ، وَعَنِ الْمَجْنُونِ حَتَّى يَعْقِلَ »**
 >
 > *« La plume est levée pour trois personnes : le dormeur jusqu'à ce qu'il se réveille, l'enfant jusqu'à ce qu'il atteigne la puberté, et le fou jusqu'à ce qu'il recouvre la raison. »*
-> — [Abu Dawud (4403), An-Nasai, Ibn Majah - Authentifié par Al-Albani]
-
----
-
-## 1. L'Islam (الإسلام)
-
-### 1.1 Définition de cette condition
-
-Le jeûne n'est obligatoire que pour le **musulman**. Le non-musulman n'est pas concerné par cette obligation tant qu'il n'embrasse pas l'Islam.
-
-### 1.2 Statut du non-musulman
-
-| Situation | Statut |
-|-----------|--------|
-| **Pendant sa mécréance** | Non tenu de jeûner |
-| **Après sa conversion** | Tenu de jeûner dès l'entrée en Islam |
-| **Rattrapage des jours** | Non requis pour les jours avant sa conversion |
-| **Le Jour du Jugement** | Sera châtié pour avoir délaissé les obligations |
-
-### 1.3 Preuve
-
-Le Prophète ﷺ a dit :
+> — [Abu Dawud (4403), An-Nasai, Ibn Majah — Authentifié par Al-Albani]
 
 > **« الإِسْلاَمُ يَجُبُّ مَا كَانَ قَبْلَهُ »**
 >
@@ -48,194 +37,216 @@ Le Prophète ﷺ a dit :
 
 ---
 
-## 2. La Puberté (البلوغ)
+## 🎓 Paroles des Savants
 
-### 2.1 Définition
+> **Imam Malik ibn Anas** رحمه الله :
+> *« Le jeûne n'incombe qu'à celui qui est en capacité de l'accomplir. Celui qui voyage ou qui est malade a reçu d'Allah une dispense, et la meilleure des guidées est celle du Prophète ﷺ. »*
+> — [Al-Mudawwana, Kitab As-Siyam]
 
-La **puberté** (البلوغ) marque le passage à l'âge adulte et l'entrée dans la responsabilité légale (التكليف).
+> **Ibn Rushd Al-Jadd** رحمه الله :
+> *« Les conditions d'obligation du jeûne sont au nombre de six : l'Islam, la puberté, la raison, la capacité, la résidence et l'absence d'empêchements. Leur réunion rend le jeûne obligatoire. »*
+> — [Al-Muqaddimât Al-Mumahhadât]
 
-### 2.2 Signes de la puberté
+> **Khalil ibn Ishaq** رحمه الله :
+> *« Le jeûne du Ramadan est obligatoire pour tout musulman pubère, doué de raison, capable, résident, exempt des empêchements légaux. »*
+> — [Mukhtasar Khalil]
+
+> **Ad-Dardir** رحمه الله :
+> *« L'obligation du jeûne est conditionnée par la capacité. Celui qui ne peut supporter le jeûne sans préjudice grave est dispensé, mais doit rattraper ou donner la fidya selon son cas. »*
+> — [Ach-Charh Al-Kabir]
+
+> **Ibn Juzayy** رحمه الله :
+> *« Quiconque réunit les conditions d'obligation et n'a pas d'empêchement, le jeûne lui devient obligatoire sans délai à l'entrée de Ramadan. »*
+> — [Al-Qawanin Al-Fiqhiyya]
+
+---
+
+## 🔍 Analyse Linguistique
+
+| Terme Arabe | Translittération | Sens Littéral | Sens Technique |
+|-------------|------------------|---------------|----------------|
+| شُرُوط | Churûṭ | Conditions | Critères préalables à l'obligation |
+| وُجُوب | Wujûb | Nécessité | Caractère obligatoire d'un acte |
+| البُلُوغ | Al-Bulûgh | Atteinte | Puberté légale |
+| العَقْل | Al-'Aql | Intelligence | Raison, discernement |
+| القُدْرَة | Al-Qudra | Capacité | Aptitude physique et mentale |
+| الإِقَامَة | Al-Iqâma | Établissement | Résidence (non-voyage) |
+| المَوَانِع | Al-Mawâni' | Obstacles | Empêchements légaux |
+| الفِدْيَة | Al-Fidya | Rançon | Compensation alimentaire |
+
+---
+
+## 📚 Explication Détaillée
+
+### Les Six Conditions d'Obligation
+
+#### 1. L'Islam (الإسلام)
+
+Le jeûne n'est obligatoire que pour le **musulman**. Le non-musulman n'est pas tenu de jeûner tant qu'il n'embrasse pas l'Islam.
+
+| Situation | Statut |
+|-----------|--------|
+| Pendant sa mécréance | Non tenu de jeûner |
+| Après sa conversion | Tenu de jeûner dès l'entrée en Islam |
+| Rattrapage des jours avant conversion | Non requis |
+
+#### 2. La Puberté (البلوغ)
+
+La **puberté** marque l'entrée dans la responsabilité légale (التكليف).
+
+**Signes de la puberté :**
 
 | Pour les garçons | Pour les filles |
 |------------------|-----------------|
 | Éjaculation (الاحتلام) | Menstruation (الحيض) |
 | Apparition des poils pubiens | Apparition des poils pubiens |
 | Atteindre 15 ans lunaires | Atteindre 15 ans lunaires |
-| Changement de voix | Grossesse (signe certain) |
 
-### 2.3 L'enfant et le jeûne
+🟡 **Position Malikite** : L'enfant n'est pas tenu de jeûner, mais il est recommandé de l'habituer progressivement dès qu'il en est capable physiquement.
 
-Bien que le jeûne ne soit pas obligatoire pour l'enfant, il est **recommandé** de l'habituer progressivement :
+#### 3. La Raison (العقل)
 
-Le Prophète ﷺ a dit concernant la prière (et cela s'applique au jeûne par analogie) :
-
-> **« مُرُوا أَوْلاَدَكُمْ بِالصَّلاَةِ وَهُمْ أَبْنَاءُ سَبْعِ سِنِينَ »**
->
-> *« Ordonnez à vos enfants de prier lorsqu'ils ont sept ans. »*
-> — [Abu Dawud (495)]
-
-### 2.4 Position des écoles sur l'habituation de l'enfant
-
-| École | Position |
-|-------|----------|
-| 🟡 **Malikite** | Recommandé à partir de la capacité physique |
-| 🔵 **Hanafite** | Recommandé à partir de 7 ans |
-| 🟢 **Shafi'ite** | Obligatoire pour les parents d'entraîner l'enfant capable |
-| 🔴 **Hanbalite** | Recommandé à partir de 10 ans, plus insistant |
-
----
-
-## 3. La Raison (العقل)
-
-### 3.1 Définition
-
-La **raison** (العقل) est la faculté qui permet à l'être humain de distinguer le bien du mal et de comprendre les obligations.
-
-### 3.2 Qui est concerné ?
+La **raison** est la faculté de distinguer le bien du mal et de comprendre les obligations.
 
 | Personne | Statut du jeûne |
 |----------|-----------------|
-| **Le fou permanent** | Pas d'obligation, pas de rattrapage |
-| **Le fou intermittent** | Jeûne obligatoire pendant ses moments de lucidité |
-| **La personne inconsciente** | Pas d'obligation pendant l'inconscience |
-| **La personne sous anesthésie** | Rattrapage des jours manqués |
+| Le fou permanent | Pas d'obligation, pas de rattrapage |
+| Le fou intermittent | Obligatoire pendant ses moments de lucidité |
+| La personne inconsciente | Pas d'obligation pendant l'inconscience |
 
-### 3.3 Preuve
+#### 4. La Capacité (القدرة)
 
-C'est le hadith cité en introduction :
+La **capacité** signifie être physiquement et mentalement apte à supporter le jeûne sans préjudice grave.
 
-> *« La plume est levée pour trois personnes... et le fou jusqu'à ce qu'il recouvre la raison. »*
+| Catégorie | Statut |
+|-----------|--------|
+| Le malade | Dispense + rattrapage |
+| Le voyageur | Dispense + rattrapage |
+| La femme enceinte/allaitante | Dispense + rattrapage |
+| Le vieillard incapable | Dispense + fidya |
+| Le malade chronique | Dispense + fidya |
 
----
+**La Fidya** : Un mudd (≈ 750g) de nourriture de base par jour manqué.
 
-## 4. La Capacité (القدرة/الاستطاعة)
+#### 5. La Résidence (الإقامة)
 
-### 4.1 Définition
+Le voyageur a le choix entre jeûner ou rompre :
 
-La **capacité** signifie que la personne est physiquement et mentalement apte à supporter le jeûne sans préjudice grave.
+🟡 **Position Malikite** :
+- Distance minimale : ≈ 80 km (4 burud)
+- Jeûner est préférable si pas de difficulté
+- Voyage doit être licite
 
-### 4.2 Cas d'incapacité
+#### 6. L'Absence d'Empêchements (عدم الموانع)
 
-| Catégorie | Détail | Statut |
-|-----------|--------|--------|
-| **Le malade** | Maladie qui s'aggrave avec le jeûne | Dispense + rattrapage |
-| **Le voyageur** | Voyage légal (≈ 80 km selon les Malikites) | Dispense + rattrapage |
-| **La femme enceinte** | Craint pour elle ou le fœtus | Dispense + rattrapage |
-| **La femme allaitante** | Craint pour elle ou le nourrisson | Dispense + rattrapage |
-| **Le vieillard** | Incapable de supporter le jeûne | Dispense + fidya |
-| **Le malade chronique** | Sans espoir de guérison | Dispense + fidya |
-
-### 4.3 La Fidya (الفدية)
-
-La **fidya** est la compensation pour celui qui ne peut pas jeûner et n'a pas d'espoir de rattrapage :
-
-> **﴿ وَعَلَى الَّذِينَ يُطِيقُونَهُ فِدْيَةٌ طَعَامُ مِسْكِينٍ ﴾**
->
-> *« Et pour ceux qui le supportent avec grande difficulté, il y a une compensation : nourrir un pauvre. »* [Al-Baqara : 184]
-
-**Montant de la fidya :**
-- Un **mudd** (environ 750g) de nourriture de base par jour
-- Ou l'équivalent en argent selon l'école Hanafite
-
----
-
-## 5. La Résidence (الإقامة)
-
-### 5.1 Le statut du voyageur
-
-Le voyageur a le choix entre jeûner ou ne pas jeûner :
-
-> **﴿ وَمَن كَانَ مَرِيضًا أَوْ عَلَىٰ سَفَرٍ فَعِدَّةٌ مِّنْ أَيَّامٍ أُخَرَ ﴾**
->
-> *« Et quiconque est malade ou en voyage, alors qu'il jeûne un nombre équivalent d'autres jours. »* [Al-Baqara : 185]
-
-### 5.2 Divergences sur le meilleur choix
-
-| École | Position |
-|-------|----------|
-| 🟡 **Malikite** | Jeûner est préférable si pas de difficulté |
-| 🔵 **Hanafite** | Jeûner est préférable |
-| 🟢 **Shafi'ite** | Jeûner est préférable si pas de difficulté |
-| 🔴 **Hanbalite** | Ne pas jeûner est préférable (suivre la facilité) |
-
-### 5.3 Conditions du voyage 🟡 (Malikite)
-
-1. **Distance** : Environ 80 km (4 burud)
-2. **Voyage licite** : Pas pour un péché
-3. **Début du voyage** : Avant le Fajr pour pouvoir rompre ce jour
-
----
-
-## 6. L'Absence d'Empêchements (عدم الموانع)
-
-### 6.1 Les empêchements féminins
-
-Deux états empêchent la femme de jeûner :
+**Les empêchements féminins :**
 
 | État | Statut |
 |------|--------|
-| **Les menstrues (الحيض)** | Interdit de jeûner + rattrapage obligatoire |
-| **Les lochies (النفاس)** | Interdit de jeûner + rattrapage obligatoire |
-
-### 6.2 Preuve
-
-'Aisha رضي الله عنها a dit :
-
-> **« كُنَّا نُؤْمَرُ بِقَضَاءِ الصَّوْمِ وَلاَ نُؤْمَرُ بِقَضَاءِ الصَّلاَةِ »**
->
-> *« Nous recevions l'ordre de rattraper le jeûne et non de rattraper la prière. »*
-> — [Al-Bukhari (321) et Muslim (335)]
+| Les menstrues (الحيض) | Interdit de jeûner + rattrapage obligatoire |
+| Les lochies (النفاس) | Interdit de jeûner + rattrapage obligatoire |
 
 ---
 
-## Tableau Récapitulatif des Conditions
+## ⚖️ Divergences entre Écoles
 
-| Condition | Absence = | Remarque |
-|-----------|-----------|----------|
-| **Islam** | Pas d'obligation | Devient obligatoire dès la conversion |
-| **Puberté** | Pas d'obligation | Habituation recommandée |
-| **Raison** | Pas d'obligation | Ni rattrapage pour le fou permanent |
-| **Capacité** | Dispense | Rattrapage ou fidya selon le cas |
-| **Résidence** | Dispense possible | Le voyageur a le choix |
-| **Absence de menstrues/lochies** | Interdit de jeûner | Rattrapage obligatoire |
+### L'habituation de l'enfant au jeûne
 
----
+| École | Position |
+|-------|----------|
+| 🟢 **Hanafite** | Recommandé à partir de 7 ans |
+| 🟡 **Malikite** | Recommandé dès la capacité physique |
+| 🔵 **Shafi'ite** | Obligation pour les parents d'entraîner l'enfant capable |
+| 🟣 **Hanbalite** | Recommandé à partir de 10 ans, plus insistant |
 
-## Cas Pratiques
+### Le meilleur choix pour le voyageur
 
-### Cas 1 : Conversion pendant Ramadan
-**Question** : Une personne se convertit le 15 Ramadan. Doit-elle rattraper les 14 premiers jours ?
-
-**Réponse** : Non, elle n'a pas à rattraper les jours avant sa conversion. Elle jeûne à partir du jour de sa conversion.
-
-### Cas 2 : L'enfant qui atteint la puberté
-**Question** : Un garçon a sa première éjaculation (ihtilam) le 10 Ramadan. Que doit-il faire ?
-
-**Réponse** : Il doit :
-1. Compléter la journée en cours (s'il n'avait pas rompu)
-2. Jeûner les jours restants obligatoirement
-3. Pas de rattrapage pour les jours précédents
-
-### Cas 3 : La femme enceinte
-**Question** : Une femme enceinte craint pour sa santé. Peut-elle rompre le jeûne ?
-
-**Réponse** 🟡 (Malikite) : Oui, si elle craint pour elle-même ou son fœtus, elle peut rompre et devra rattraper les jours plus tard. Pas de fidya dans ce cas chez les Malikites.
+| École | Position |
+|-------|----------|
+| 🟢 **Hanafite** | Jeûner est préférable |
+| 🟡 **Malikite** | Jeûner est préférable si pas de difficulté |
+| 🔵 **Shafi'ite** | Jeûner est préférable si pas de difficulté |
+| 🟣 **Hanbalite** | Ne pas jeûner est préférable (facilité) |
 
 ---
 
-## Sources
+## 🌍 Applications Modernes
 
-- **Le Saint Coran** - Sourate Al-Baqara
-- **Sahih Al-Bukhari** - Kitab As-Sawm
-- **Sahih Muslim** - Kitab As-Siyam
-- **Sunan Abu Dawud** - Kitab As-Sawm
-- **Al-Mudawwana** - Imam Malik
-- **Ach-Charh Al-Kabir** - Ad-Dardir
-- **Al-Fiqh 'ala Al-Madhahib Al-Arba'a** - Al-Jaziri
+| Situation Contemporaine | Règle Applicable |
+|------------------------|------------------|
+| Travailleur en horaires décalés | Jeûne obligatoire s'il en est capable |
+| Voyage en avion (+ de 80 km) | Peut choisir de rompre et rattraper |
+| Diabétique insulino-dépendant | Consulter un médecin, fidya si incapacité permanente |
+| Sportif professionnel | Jeûne obligatoire sauf danger réel pour la santé |
+| Femme sous contraceptif sans menstrues | Jeûne obligatoire normalement |
+| Étudiant en période d'examens | Jeûne obligatoire (pas de dispense) |
+
+---
+
+## ⚠️ Erreurs Courantes
+
+| Erreur | Correction |
+|--------|------------|
+| Croire que l'enfant doit jeûner obligatoirement | Non, c'est recommandé pour l'habituation |
+| Penser que le voyageur doit obligatoirement rompre | Il a le choix, jeûner est même préférable chez les Malikites |
+| Croire que la femme en menstrues peut jeûner si elle le souhaite | Interdit catégoriquement |
+| Ignorer la fidya pour le vieillard incapable | Obligation s'il ne peut pas rattraper |
+| Convertir la fidya en argent sans acheter de nourriture | Préférable de donner de la nourriture directement |
+
+---
+
+## ❓ Questions Fréquentes (FAQ)
+
+**Q : Un enfant de 12 ans qui jeûne, son jeûne est-il valide ?**
+R : Oui, son jeûne est valide et récompensé, mais il n'est pas obligatoire pour lui tant qu'il n'a pas atteint la puberté.
+
+**Q : Une personne se convertit le 15 Ramadan, doit-elle rattraper les jours précédents ?**
+R : Non, l'Islam efface ce qui l'a précédé. Elle jeûne à partir du jour de sa conversion.
+
+**Q : Le voyageur qui rompt son jeûne doit-il se cacher pour manger ?**
+R : Il n'est pas obligé de se cacher, mais il est préférable de ne pas manger en public par respect pour les jeûneurs.
+
+**Q : La femme enceinte qui rompt par crainte pour son bébé, doit-elle payer une fidya en plus du rattrapage ?**
+R : 🟡 Chez les Malikites, non. Elle ne doit que le rattrapage, sans fidya.
+
+---
+
+## 🎯 Action Concrète du Jour
+
+1. **Vérifiez** si vous remplissez toutes les conditions d'obligation du jeûne
+2. **Comptez** les jours de Ramadan passés à rattraper (maladie, voyage, menstrues)
+3. **Planifiez** le rattrapage avant le prochain Ramadan
+4. **Enseignez** à vos enfants l'importance du jeûne progressivement
+5. **Calculez** la fidya pour un proche âgé qui ne peut pas jeûner
+
+---
+
+## 📝 Invocation
+
+<div dir="rtl">
+
+**اللَّهُمَّ أَعِنَّا عَلَى صِيَامِكَ وَقِيَامِكَ، وَاجْعَلْنَا مِنْ عِبَادِكَ الصَّالِحِينَ**
+
+</div>
+
+*Allâhumma a'innâ 'alâ ṣiyâmika wa qiyâmika, waj'alnâ min 'ibâdika-ṣ-ṣâliḥîn.*
+
+*Ô Allah, aide-nous à accomplir Ton jeûne et Tes prières nocturnes, et fais de nous de Tes serviteurs vertueux.*
+
+---
+
+## 📚 Sources
+
+1. **Al-Mudawwana** — Imam Malik رحمه الله
+2. **Al-Muqaddimât Al-Mumahhadât** — Ibn Rushd Al-Jadd رحمه الله
+3. **Mukhtasar Khalil** — Khalil ibn Ishaq رحمه الله
+4. **Ach-Charh Al-Kabir** — Ad-Dardir رحمه الله
+5. **Al-Qawanin Al-Fiqhiyya** — Ibn Juzayy رحمه الله
+6. **Sahih Al-Bukhari** — Kitab As-Sawm
+7. **Sahih Muslim** — Kitab As-Siyam
+8. **Sunan Abu Dawud** — Kitab As-Sawm
 
 ---
 
 **والله أعلم**
-
-*Qu'Allah nous facilite l'accomplissement de Ses obligations.*
 `

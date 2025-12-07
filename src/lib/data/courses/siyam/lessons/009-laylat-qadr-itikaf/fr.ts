@@ -1,242 +1,288 @@
 /**
  * Siyam - Leçon 009: Laylat al-Qadr et l'I'tikaf
- * Contenu en Français
+ * Contenu en Français - Conforme au FIQH-REDACTION-GUIDE.md
  */
 
-export const content = `# Laylat al-Qadr et l'I'tikaf
+export const content = `# 📜 لَيْلَةُ القَدْرِ وَالاعْتِكَاف — Laylat al-Qadr et l'I'tikaf
 
-Parmi les trésors du mois de Ramadan, Laylat al-Qadr (la Nuit du Destin) et l'I'tikaf (la retraite spirituelle) occupent une place centrale. Ces deux pratiques permettent au croyant d'atteindre les plus hauts degrés de spiritualité.
-
-> **Allah ﷻ dit :** « Nous l'avons fait descendre durant la Nuit de la Destinée. Et qui te dira ce qu'est la Nuit de la Destinée ? La Nuit de la Destinée est meilleure que mille mois. »
-> — *Sourate Al-Qadr, 97:1-3*
+> *« Parmi les trésors du mois de Ramadan, Laylat al-Qadr et l'I'tikaf occupent une place centrale pour atteindre les plus hauts degrés de spiritualité. »*
 
 ---
 
-## Partie 1 : Laylat al-Qadr (ليلة القدر)
+## 📜 Textes Fondateurs
 
-### 1.1 Définition et Signification
+### Coran
 
-**Laylat al-Qadr** signifie littéralement :
+> **﴿ إِنَّا أَنزَلْنَاهُ فِي لَيْلَةِ الْقَدْرِ ۝ وَمَا أَدْرَاكَ مَا لَيْلَةُ الْقَدْرِ ۝ لَيْلَةُ الْقَدْرِ خَيْرٌ مِّنْ أَلْفِ شَهْرٍ ﴾**
+>
+> *« Nous l'avons fait descendre durant la Nuit de la Destinée. Et qui te dira ce qu'est la Nuit de la Destinée ? La Nuit de la Destinée est meilleure que mille mois. »*
+> — [Sourate Al-Qadr : 1-3]
+
+> **﴿ وَلَا تُبَاشِرُوهُنَّ وَأَنتُمْ عَاكِفُونَ فِي الْمَسَاجِدِ ﴾**
+>
+> *« Et ne cohabitez pas avec elles pendant que vous êtes en retraite spirituelle dans les mosquées. »*
+> — [Sourate Al-Baqara : 187]
+
+### Hadiths
+
+> **« مَنْ قَامَ لَيْلَةَ الْقَدْرِ إِيمَانًا وَاحْتِسَابًا غُفِرَ لَهُ مَا تَقَدَّمَ مِنْ ذَنْبِهِ »**
+>
+> *« Quiconque veille Laylat al-Qadr avec foi et espérance de récompense, ses péchés passés lui seront pardonnés. »*
+> — [Al-Bukhari (1901) et Muslim (760)]
+
+> **« تَحَرَّوْا لَيْلَةَ الْقَدْرِ فِي الْعَشْرِ الأَوَاخِرِ مِنْ رَمَضَانَ »**
+>
+> *« Cherchez Laylat al-Qadr dans les dix dernières nuits de Ramadan. »*
+> — [Al-Bukhari (2017) et Muslim (1169)]
+
+> **'Aisha رضي الله عنها demanda :** « يَا رَسُولَ اللَّهِ، أَرَأَيْتَ إِنْ عَلِمْتُ أَيُّ لَيْلَةٍ لَيْلَةُ الْقَدْرِ، مَا أَقُولُ فِيهَا؟ قَالَ: قُولِي: اللَّهُمَّ إِنَّكَ عَفُوٌّ تُحِبُّ الْعَفْوَ فَاعْفُ عَنِّي »
+>
+> *« Ô Messager d'Allah ! Si je sais quelle nuit est Laylat al-Qadr, que dois-je dire ? Il dit : Dis : Ô Allah, Tu es Pardonneur et Tu aimes le pardon, alors pardonne-moi. »*
+> — [At-Tirmidhi (3513) et Ibn Majah]
+
+> **'Aisha رضي الله عنها a dit :** « كَانَ رَسُولُ اللَّهِ ﷺ يَعْتَكِفُ الْعَشْرَ الأَوَاخِرَ مِنْ رَمَضَانَ حَتَّى تَوَفَّاهُ اللَّهُ »
+>
+> *« Le Prophète ﷺ faisait l'I'tikaf les dix derniers jours de Ramadan jusqu'à ce qu'Allah le rappelle à Lui. »*
+> — [Al-Bukhari (2026) et Muslim (1172)]
+
+---
+
+## 🎓 Paroles des Savants
+
+> **Imam Malik ibn Anas** رحمه الله :
+> *« Laylat al-Qadr est dans les dix dernières nuits de Ramadan, et elle est plus probable dans les nuits impaires. Elle peut varier d'une année à l'autre. »*
+> — [Al-Mudawwana, Kitab As-Siyam]
+
+> **Ibn Rushd Al-Jadd** رحمه الله :
+> *« L'I'tikaf est une sunna mu'akkada (confirmée) dans les dix derniers jours de Ramadan. Sa condition est de rester dans la mosquée avec l'intention de se consacrer à l'adoration. »*
+> — [Al-Muqaddimât Al-Mumahhadât]
+
+> **Khalil ibn Ishaq** رحمه الله :
+> *« L'I'tikaf valide requiert : l'Islam, la raison, l'intention, la mosquée (préférablement où se fait la Jumu'a), et l'abstention de ce qui l'annule. »*
+> — [Mukhtasar Khalil]
+
+> **Ad-Dardir** رحمه الله :
+> *« La durée minimale de l'I'tikaf chez nous est d'un jour et une nuit. Le rapport intime l'annule absolument. »*
+> — [Ach-Charh Al-Kabir]
+
+> **Ibn Juzayy** رحمه الله :
+> *« L'I'tikaf des dix derniers jours commence après le Fajr du 21 Ramadan et se termine au coucher du soleil du dernier jour, pour compter dix nuits complètes. »*
+> — [Al-Qawanin Al-Fiqhiyya]
+
+---
+
+## 🔍 Analyse Linguistique
+
+| Terme Arabe | Translittération | Sens Littéral | Sens Technique |
+|-------------|------------------|---------------|----------------|
+| لَيْلَة القَدْر | Laylat al-Qadr | Nuit de la mesure | Nuit du Destin/Valeur |
+| الاعْتِكَاف | Al-I'tikâf | S'attacher à | Retraite spirituelle |
+| المُعْتَكِف | Al-Mu'takif | Celui qui s'attache | Celui en retraite |
+| المَسْجِد الجَامِع | Al-Masjid al-jâmi' | Mosquée rassembleuse | Grande mosquée (Jumu'a) |
+| القِيَام | Al-Qiyâm | Station debout | Prière de nuit |
+| الوِتْر | Al-Witr | Impair | Les nuits impaires |
+
+---
+
+## 📚 Explication Détaillée
+
+### Partie 1 : Laylat al-Qadr (ليلة القدر)
+
+#### Significations du nom
+
 - **La Nuit du Destin** : où les décrets de l'année sont fixés
 - **La Nuit de la Valeur** : en raison de sa valeur immense
 - **La Nuit de la Puissance** : de la puissance de l'adoration cette nuit
 
-### 1.2 Les Mérites de Laylat al-Qadr
-
-> **Le Prophète ﷺ a dit :** « Quiconque veille Laylat al-Qadr avec foi et espérance de récompense, ses péchés passés lui seront pardonnés. »
-> — *Rapporté par Al-Bukhari (1901) et Muslim (760)*
+#### Mérites
 
 | Mérite | Description |
 |--------|-------------|
-| **Meilleure que 1000 mois** | Plus de 83 ans d'adoration |
-| **Pardon des péchés passés** | Pour celui qui la veille avec foi |
-| **Descente des anges** | Les anges descendent en abondance |
-| **Paix jusqu'à l'aube** | Nuit de paix et de sérénité |
-| **Révélation du Coran** | Début de la révélation |
+| Meilleure que 1000 mois | Plus de 83 ans d'adoration |
+| Pardon des péchés | Pour celui qui la veille avec foi |
+| Descente des anges | Les anges descendent en abondance |
+| Paix jusqu'à l'aube | Nuit de paix et de sérénité |
+| Révélation du Coran | Début de la révélation |
 
-### 1.3 Quand Chercher Laylat al-Qadr ?
+#### Quand la chercher ?
 
-> **Le Prophète ﷺ a dit :** « Cherchez Laylat al-Qadr dans les dix dernières nuits de Ramadan, dans les nuits impaires. »
-> — *Rapporté par Al-Bukhari (2017) et Muslim (1169)*
+| Nuit | Priorité |
+|------|----------|
+| 21ème nuit | ⭐⭐ |
+| 23ème nuit | ⭐⭐⭐ |
+| 25ème nuit | ⭐⭐ |
+| **27ème nuit** | ⭐⭐⭐⭐ (plus probable) |
+| 29ème nuit | ⭐⭐ |
 
-| Nuit | Date | Priorité |
-|------|------|----------|
-| **21ème nuit** | 21 Ramadan | ⭐⭐ |
-| **23ème nuit** | 23 Ramadan | ⭐⭐⭐ |
-| **25ème nuit** | 25 Ramadan | ⭐⭐ |
-| **27ème nuit** | 27 Ramadan | ⭐⭐⭐⭐ (plus probable) |
-| **29ème nuit** | 29 Ramadan | ⭐⭐ |
+#### Signes de Laylat al-Qadr
 
-**Note :** La nuit du 27 est la plus probable selon plusieurs hadiths, mais elle peut varier d'une année à l'autre. C'est pourquoi le Prophète ﷺ a recommandé de chercher dans toutes les nuits impaires.
+| Signe | Description |
+|-------|-------------|
+| Nuit calme | Ni trop chaude ni trop froide |
+| Lune brillante | La lune ressemble à un plateau |
+| Soleil le matin | Se lève sans rayons forts |
+| Paix intérieure | Sérénité dans le cœur |
 
-### 1.4 Sagesse du Secret
-
-> **Ibn 'Umar رضي الله عنهما a dit :** « Certains compagnons virent Laylat al-Qadr en rêve dans les sept dernières nuits. Le Prophète ﷺ dit : "Je vois que vos rêves concordent sur les sept dernières, que celui qui la cherche la cherche dans les sept dernières." »
-> — *Rapporté par Al-Bukhari (2015) et Muslim (1165)*
-
-**Pourquoi Allah l'a-t-Il cachée ?**
-- Pour encourager l'effort dans toutes les nuits
-- Pour multiplier les bonnes œuvres
-- Pour tester la sincérité des adorateurs
-
-### 1.5 Les Signes de Laylat al-Qadr
-
-| Signe | Description | Source |
-|-------|-------------|--------|
-| **Nuit calme** | Ni trop chaude ni trop froide | Hadith Ahmad |
-| **Lune brillante** | La lune ressemble à un plateau | Hadith Muslim |
-| **Soleil le matin** | Se lève sans rayons forts | Hadith Muslim |
-| **Paix intérieure** | Sérénité dans le cœur | Expérience des Salaf |
-
-> **Ubayy ibn Ka'b رضي الله عنه a dit :** « Son signe est que le soleil se lève le matin suivant blanc, sans rayons. »
-> — *Rapporté par Muslim (762)*
-
-### 1.6 Actes Recommandés cette Nuit
-
-#### A. L'Invocation Spéciale
-
-> **'Aïcha رضي الله عنها demanda :** « Ô Messager d'Allah ! Si je sais quelle nuit est Laylat al-Qadr, que dois-je dire ? » Il dit : « Dis : اللَّهُمَّ إِنَّكَ عَفُوٌّ تُحِبُّ الْعَفْوَ فَاعْفُ عَنِّي (Allahumma innaka 'Afuwwun tuhibbul-'afwa fa'fu 'anni - Ô Allah, Tu es Pardonneur et Tu aimes le pardon, alors pardonne-moi). »
-> — *Rapporté par At-Tirmidhi (3513) et Ibn Majah*
-
-#### B. Autres Actes Recommandés
+#### Actes recommandés cette nuit
 
 | Acte | Priorité |
 |------|----------|
 | Prière de nuit (Qiyam) | ⭐⭐⭐ |
+| Du'a spécifique | ⭐⭐⭐ |
 | Récitation du Coran | ⭐⭐⭐ |
-| Du'a (invocations) | ⭐⭐⭐ |
-| Dhikr (évocation d'Allah) | ⭐⭐ |
-| Aumône | ⭐⭐ |
 | Repentir sincère | ⭐⭐⭐ |
+| Dhikr | ⭐⭐ |
+| Aumône | ⭐⭐ |
 
----
+### Partie 2 : L'I'tikaf (الاعتكاف)
 
-## Partie 2 : L'I'tikaf (الاعتكاف)
-
-### 2.1 Définition
+#### Définition
 
 L'**I'tikaf** est la retraite spirituelle dans une mosquée avec l'intention de se consacrer à l'adoration d'Allah.
 
-> **Allah ﷻ dit :** « Et purifiez Ma Maison pour ceux qui tournent autour, y font retraite (I'tikaf), s'y inclinent et s'y prosternent. »
-> — *Sourate Al-Baqara, 2:125*
+#### Statut juridique
 
-### 2.2 Statut Juridique
+| Type | Statut |
+|------|--------|
+| I'tikaf des 10 derniers jours | Sunna Mu'akkada |
+| I'tikaf volontaire | Mustahab |
+| I'tikaf de vœu (nadhr) | Wajib (obligatoire) |
 
-| Type | Statut | Condition |
-|------|--------|-----------|
-| **I'tikaf des 10 derniers jours** | Sunna Mu'akkada | Ramadan |
-| **I'tikaf volontaire** | Mustahab | Tout moment |
-| **I'tikaf de vœu (nadhr)** | Wajib (obligatoire) | Si on s'y engage |
+#### Conditions de l'I'tikaf 🟡
 
-### 2.3 La Pratique du Prophète ﷺ
+| Condition | Détails |
+|-----------|---------|
+| Islam | Obligatoire |
+| Raison | Obligatoire |
+| Intention | Obligatoire |
+| Mosquée | Préférablement où se fait la Jumu'a |
+| Durée minimum | Un jour et une nuit |
 
-> **'Aïcha رضي الله عنها a dit :** « Le Prophète ﷺ faisait l'I'tikaf les dix derniers jours de Ramadan jusqu'à ce qu'Allah le rappelle à Lui. Puis ses épouses firent l'I'tikaf après lui. »
-> — *Rapporté par Al-Bukhari (2026) et Muslim (1172)*
+#### Ce qui est permis pendant l'I'tikaf
 
-> **Abu Hurayra رضي الله عنه a dit :** « Le Prophète ﷺ faisait l'I'tikaf dix jours chaque Ramadan. L'année où il mourut, il fit l'I'tikaf vingt jours. »
-> — *Rapporté par Al-Bukhari (2044)*
+| Acte | Permis ? |
+|------|----------|
+| Manger et boire | ✅ Oui (dans la mosquée) |
+| Dormir | ✅ Oui |
+| Recevoir des visiteurs | ✅ Oui (brièvement) |
+| Parler | ✅ Oui (paroles utiles) |
+| Sortir pour besoins naturels | ✅ Oui (obligatoirement) |
 
-### 2.4 Conditions de l'I'tikaf
+#### Ce qui annule l'I'tikaf
 
-| Condition | Détails | École Malikite 🟡 |
-|-----------|---------|-------------------|
-| **Islam** | Obligatoire | Obligatoire |
-| **Raison** | Être sain d'esprit | Obligatoire |
-| **Intention** | Nécessaire | Obligatoire 🟡 |
-| **Mosquée** | Une mosquée valide | Mosquée où se fait la Jumu'a 🟡 |
-| **Jeûne** | Recommandé | Obligatoire pour le nadhr 🟡 |
-| **Durée minimum** | Variable | Un jour et une nuit 🟡 |
+| Acte | Annule ? |
+|------|----------|
+| Rapports intimes | ✅ Absolument |
+| Sortie sans nécessité | ✅ Oui |
+| Menstrues/lochies | ✅ Oui |
+| Perte de raison | ✅ Oui |
 
-### 2.5 Lieu de l'I'tikaf
+---
 
-> **Le Prophète ﷺ a dit :** « Pas d'I'tikaf sauf dans les trois mosquées (La Mecque, Médine, Al-Aqsa). »
-> — *Rapporté par At-Tahawi, mais faible*
+## ⚖️ Divergences entre Écoles
 
-**Avis des écoles :**
+### Lieu de l'I'tikaf
 
 | École | Mosquée valide |
 |-------|----------------|
-| **Malikite 🟡** | Mosquée où se fait la Jumu'a (préférable) |
-| **Hanafite** | Toute mosquée de quartier |
-| **Shafi'ite** | Toute mosquée |
-| **Hanbalite** | Toute mosquée où se fait la prière en groupe |
+| 🟢 **Hanafite** | Toute mosquée de quartier |
+| 🟡 **Malikite** | Mosquée où se fait la Jumu'a (préférable) |
+| 🔵 **Shafi'ite** | Toute mosquée |
+| 🟣 **Hanbalite** | Toute mosquée avec prière en groupe |
 
-**Pour les femmes :** Elles peuvent faire l'I'tikaf dans la mosquée, et certains savants permettent l'I'tikaf dans un coin de la maison réservé à la prière.
+### I'tikaf des femmes
 
-### 2.6 Ce qui est Permis pendant l'I'tikaf
+| École | Position |
+|-------|----------|
+| 🟢 **Hanafite** | Dans la mosquée uniquement |
+| 🟡 **Malikite** | Dans la mosquée, permis à la maison avec divergence |
+| 🔵 **Shafi'ite** | Dans la mosquée uniquement |
+| 🟣 **Hanbalite** | Permis dans un coin de la maison réservé à la prière |
 
-| Acte | Permis ? | Condition |
-|------|----------|-----------|
-| Manger et boire | ✅ Oui | Dans la mosquée |
-| Dormir | ✅ Oui | Dans la mosquée |
-| Se laver | ✅ Oui | Si possible dans la mosquée |
-| Recevoir des visiteurs | ✅ Oui | Brièvement |
-| Parler | ✅ Oui | Paroles utiles |
-| Sortir pour besoins naturels | ✅ Oui | Obligatoirement |
-| Se marier (contrat) | ✅ Oui | Mais déconseillé |
-| Travailler sur téléphone/PC | 🟡 Débattu | Si nécessaire seulement |
+### Entrée et sortie de l'I'tikaf
 
-### 2.7 Ce qui Annule l'I'tikaf
-
-| Acte | Annule l'I'tikaf ? | Notes |
-|------|-------------------|-------|
-| **Rapports sexuels** | ✅ Oui | Absolument interdit |
-| **Sortie sans nécessité** | ✅ Oui | Annule s'il y a intention de quitter |
-| **Menstrues/lochies (femme)** | ✅ Oui | Doit quitter la mosquée |
-| **Maladie grave** | Excuse | Reprend après guérison |
-| **Perte de raison** | ✅ Oui | Annule |
-| **Apostasie** | ✅ Oui | Que Dieu nous en préserve |
-
-> **Allah ﷻ dit :** « N'ayez pas de rapports avec elles (vos épouses) pendant que vous êtes en retraite rituelle dans les mosquées. »
-> — *Sourate Al-Baqara, 2:187*
-
-### 2.8 Programme Suggéré pour l'I'tikaf
-
-| Moment | Activité |
-|--------|----------|
-| **Après Fajr** | Adhkar du matin, récitation du Coran |
-| **Matinée** | Étude de la science religieuse, lecture |
-| **Dhuhr** | Prière + Adhkar + repos |
-| **'Asr** | Récitation du Coran, invocations |
-| **Maghrib** | Iftar, prière, Adhkar |
-| **'Isha → Suhur** | Tarawih, Qiyam, Du'a, dernière partie de la nuit |
-
-### 2.9 Entrée et Sortie de l'I'tikaf
-
-> **'Aïcha رضي الله عنها a dit :** « Le Prophète ﷺ, quand il voulait faire l'I'tikaf, priait le Fajr puis entrait dans son lieu d'I'tikaf. »
-> — *Rapporté par Al-Bukhari (2041) et Muslim (1173)*
-
-| Moment | Timing |
-|--------|--------|
-| **Entrée** | Après le Fajr du 20 Ramadan (ou coucher du soleil du 20) |
-| **Sortie** | Après le coucher du soleil du dernier jour de Ramadan |
-
-**Divergence :**
-- Certains disent : entrer avant le coucher du soleil du 20
-- 🟡 Malikites : après le Fajr du 21 (pour 10 nuits complètes)
+| École | Entrée | Sortie |
+|-------|--------|--------|
+| 🟡 **Malikite** | Après le Fajr du 21 | Après Maghrib du dernier jour |
 
 ---
 
-## 3. Tableau Comparatif
+## 🌍 Applications Modernes
 
-| Aspect | Laylat al-Qadr | I'tikaf |
-|--------|----------------|---------|
-| **Nature** | Une nuit spéciale | Une période de retraite |
-| **Durée** | Une nuit | Minimum 1 jour (variable) |
-| **Lieu** | Partout (préférable mosquée) | Mosquée uniquement |
-| **Statut** | Recherchée, non obligatoire | Sunna Mu'akkada (10 derniers jours) |
-| **Objectif** | Obtenir le pardon + adoration | Se consacrer entièrement à Allah |
-
----
-
-## 4. Conseils Spirituels
-
-### Pour Laylat al-Qadr :
-1. **Préparez-vous spirituellement** avant les 10 derniers jours
-2. **Multipliez les du'a** personnalisées
-3. **Récitez le du'a enseigné par le Prophète ﷺ**
-4. **Restez éveillé** autant que possible les nuits impaires
-5. **Ne vous focalisez pas uniquement sur la 27ème nuit**
-
-### Pour l'I'tikaf :
-1. **Planifiez à l'avance** (travail, famille)
-2. **Préparez un programme** équilibré
-3. **Évitez les distractions** (téléphone, discussions vaines)
-4. **Profitez de la solitude** pour vous rapprocher d'Allah
-5. **Faites des du'a** pour vous et votre famille
+| Situation | Règle Applicable |
+|-----------|------------------|
+| Utiliser son téléphone en I'tikaf | ⚠️ Déconseillé sauf nécessité |
+| Travailler sur ordinateur | ⚠️ Déconseillé sauf nécessité professionnelle |
+| I'tikaf partiel (quelques heures) | ✅ Récompensé mais pas l'I'tikaf complet |
+| I'tikaf pour les employés | ✅ Prendre des congés si possible |
+| Mosquée sans Jumu'a | 🟡 Permis mais mosquée Jumu'a préférable |
 
 ---
 
-## Sources
+## ⚠️ Erreurs Courantes
 
-- *Sahih Al-Bukhari* et *Sahih Muslim*
-- *Sunan At-Tirmidhi* et *Sunan Ibn Majah*
-- *Al-Muwatta* de l'Imam Malik
-- *Tafsir Ibn Kathir* (Sourate Al-Qadr)
-- *Zad Al-Ma'ad* d'Ibn Al-Qayyim
-- *Al-Fiqh 'ala Al-Madhahib Al-Arba'a* d'Al-Jaziri
+| Erreur | Correction |
+|--------|------------|
+| Se focaliser uniquement sur la 27ème nuit | Chercher dans toutes les nuits impaires |
+| Penser que l'I'tikaf nécessite le jeûne | Le jeûne n'est pas une condition |
+| Sortir fréquemment de la mosquée | Minimiser les sorties au strict nécessaire |
+| Passer l'I'tikaf sur le téléphone | Se consacrer à l'adoration |
+| Négliger le du'a de Laylat al-Qadr | C'est l'invocation enseignée par le Prophète ﷺ |
 
 ---
 
-والله أعلم
+## ❓ Questions Fréquentes (FAQ)
+
+**Q : Comment savoir si j'ai vécu Laylat al-Qadr ?**
+R : Vous ne le saurez peut-être pas avec certitude. L'important est de l'avoir cherchée avec foi et espérance.
+
+**Q : Puis-je faire l'I'tikaf un seul jour ?**
+R : 🟡 Chez les Malikites, la durée minimale est d'un jour et une nuit. Moins que cela reste récompensé mais n'est pas l'I'tikaf complet.
+
+**Q : Une femme peut-elle faire l'I'tikaf chez elle ?**
+R : Il y a divergence. La plupart des savants disent qu'elle doit le faire à la mosquée, mais certains Hanbalites permettent un coin de la maison.
+
+**Q : Que dire pendant Laylat al-Qadr ?**
+R : اللَّهُمَّ إِنَّكَ عَفُوٌّ تُحِبُّ الْعَفْوَ فَاعْفُ عَنِّي (Allahumma innaka 'Afuwwun tuhibbul-'afwa fa'fu 'anni)
+
+---
+
+## 🎯 Action Concrète du Jour
+
+1. **Planifiez** les dix dernières nuits de Ramadan
+2. **Veillez** particulièrement les nuits impaires (21, 23, 25, 27, 29)
+3. **Mémorisez** le du'a enseigné par le Prophète ﷺ
+4. **Envisagez** l'I'tikaf même partiel si vous ne pouvez pas 10 jours
+5. **Multipliez** les invocations, le dhikr et la lecture du Coran
+
+---
+
+## 📝 Invocation de Laylat al-Qadr
+
+<div dir="rtl">
+
+**اللَّهُمَّ إِنَّكَ عَفُوٌّ تُحِبُّ الْعَفْوَ فَاعْفُ عَنِّي**
+
+</div>
+
+*Allâhumma innaka 'Afuwwun tuḥibbu-l-'afwa fa'fu 'annî.*
+
+*Ô Allah, Tu es Pardonneur et Tu aimes le pardon, alors pardonne-moi.*
+
+---
+
+## 📚 Sources
+
+1. **Al-Mudawwana** — Imam Malik رحمه الله
+2. **Al-Muqaddimât Al-Mumahhadât** — Ibn Rushd Al-Jadd رحمه الله
+3. **Mukhtasar Khalil** — Khalil ibn Ishaq رحمه الله
+4. **Ach-Charh Al-Kabir** — Ad-Dardir رحمه الله
+5. **Al-Qawanin Al-Fiqhiyya** — Ibn Juzayy رحمه الله
+6. **Sahih Al-Bukhari** — Kitab Al-I'tikaf
+7. **Sahih Muslim** — Kitab Al-I'tikaf
+8. **Tafsir Ibn Kathir** — Sourate Al-Qadr
+
+---
+
+**والله أعلم**
 `
