@@ -22,3 +22,5 @@ export const lesson001 = {
     en: contentEn
   }
 };
+
+export default lesson001;
