@@ -3,7 +3,7 @@
  * أين ولماذا تختلف المذاهب الأربعة
  */
 
-export const content = `# ⚖️ نقاط الاختلاف — Points de Divergence
+export const content = `# ⚖️ نقاط الاختلاف
 
 > **«اختلاف أمتي رحمة»**
 >
