@@ -298,6 +298,116 @@ Ce soir-là, l'ennemi le plus féroce de l'Islam devint l'un de ses plus grands 
 ### ❌ MAUVAIS : Style Encyclopédique
 ```markdown
 ## La conversion de 'Umar
+```
+
+---
+
+## 🎭 Format Scene-Box pour les Dialogues
+
+Pour les scènes de dialogue et moments clés, utilisez le format **scene-box** qui offre une mise en forme moderne et immersive.
+
+### Syntaxe HTML
+
+```html
+<div class="scene-box">
+
+**🎭 TITRE DE LA SCÈNE**
+
+Contenu de la scène avec dialogues...
+
+— *Première réplique du personnage A*
+
+— *Réponse du personnage B*
+
+Description narrative...
+
+</div>
+```
+
+### ⚠️ Règles Importantes
+
+| Règle | Explication |
+|-------|-------------|
+| **Ligne vide après `<div>`** | Obligatoire pour que le Markdown soit parsé |
+| **Ligne vide avant `</div>`** | Obligatoire pour la fermeture correcte |
+| **Emoji 🎭 dans le titre** | Identifie visuellement les scènes |
+| **Tirets longs pour dialogues** | Utilisez `— *texte*` pour les répliques |
+
+### Exemples d'Utilisation
+
+#### 1. Scène de Dialogue Simple
+
+```html
+<div class="scene-box">
+
+**🎭 La Conversion de Bilāl**
+
+Abu Bakr s'approcha d'Umayya ibn Khalaf :
+
+— *Combien pour cet esclave ?*
+
+— *Tu veux acheter Bilāl ? Il ne vaut rien, il a renié nos dieux !*
+
+— *Donne-moi ton prix.*
+
+L'accord fut conclu. Bilāl était libre.
+
+</div>
+```
+
+#### 2. Scène de Combat
+
+```html
+<div class="scene-box">
+
+**⚔️ Khālid à Mu'ta**
+
+Trois épées se brisèrent dans sa main ce jour-là. 
+
+Zayd tomba. Ja'far tomba. Ibn Rawāḥa tomba.
+
+Alors Khālid prit le commandement et sauva l'armée.
+
+</div>
+```
+
+#### 3. Scène Émotionnelle
+
+```html
+<div class="scene-box">
+
+**💔 Les Derniers Instants de Fāṭima**
+
+— *Ô ma fille, pourquoi pleures-tu ?*
+
+Elle murmura à l'oreille de son père. Il sourit.
+
+— *Tu seras la première de ma famille à me rejoindre.*
+
+</div>
+```
+
+### Rendu Visuel
+
+Le `.scene-box` produit :
+- 🎨 Fond légèrement coloré (`bg-muted/50`)
+- 📐 Bordure latérale colorée (`border-r-4 border-primary`)
+- 🔲 Coins arrondis (`rounded-lg`)
+- 📏 Espacement généreux (`p-4 my-6`)
+
+### Quand Utiliser Scene-Box ?
+
+| ✅ Utiliser | ❌ Ne pas utiliser |
+|-------------|-------------------|
+| Dialogues dramatiques | Listes de faits |
+| Moments clés de conversion | Tableaux chronologiques |
+| Scènes de bataille | Hadiths isolés |
+| Derniers instants | Biographies générales |
+| Stratégies militaires | Résumés de leçons |
+
+---
+
+## 📖 Sources Historiques à Citer
 
 'Umar ibn al-Khaṭṭāb se convertit à l'Islam après avoir lu des versets du Coran 
 chez sa sœur. Il devint ensuite un Compagnon important et le deuxième calife.
