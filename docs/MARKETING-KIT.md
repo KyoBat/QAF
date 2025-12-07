@@ -12,10 +12,11 @@
 
 🌟 Découvrez TahaLearn - Votre nouvelle plateforme d'apprentissage islamique 100% GRATUITE !
 
-✅ Tajweed - Apprenez à réciter le Coran correctement
-✅ Fiqh - Maîtrisez les règles de la prière et purification  
+✅ Fiqh - Maîtrisez les règles de la prière, purification et Hajj
+✅ Hadith - Découvrez les sciences du Hadith
 ✅ Aqeedah - Comprenez les fondements de la foi
-✅ Seerah - Découvrez la vie du Prophète ﷺ
+✅ Histoire - L'histoire des 4 grands imams
+✅ Seerah - La vie du Prophète ﷺ (en cours)
 
 🌍 Disponible en Arabe, Français et Anglais
 📱 Accessible 24/7 sur tous vos appareils
@@ -123,11 +124,12 @@ Cours en français, arabe et anglais."
 "Le Prophète ﷺ a dit :
 'Celui qui cache une science sera bridé avec une bride de feu le Jour du Jugement'
 
-C'est pour ça qu'on a créé TahaLearn :
-- Cours de Tajweed
-- Fiqh de la prière
+"C'est pour ça qu'on a créé TahaLearn :
+- Fiqh (prière, purification, Hajj)
+- Sciences du Hadith
 - Aqeedah
-- Seerah
+- Histoire des 4 imams
+- Seerah (en cours)
 
 Tout est GRATUIT. Parce que la science islamique, c'est un droit pour tous."
 
@@ -145,17 +147,18 @@ Tout est GRATUIT. Parce que la science islamique, c'est un droit pour tous."
 ```
 🎓 Nouveau : TahaLearn - Plateforme d'apprentissage islamique 100% GRATUITE
 
-✅ Tajweed
-✅ Fiqh (prière, purification)
+✅ Fiqh (prière, purification, Hajj)
+✅ Sciences du Hadith
 ✅ Aqeedah
-✅ Seerah
+✅ Histoire des 4 imams
+✅ Seerah (en cours)
 
 🌍 AR | FR | EN
 🚫 Sans pub
 
 وَقُل رَّبِّ زِدْنِي عِلْمًا
 
-👉 tahalearn.com
+👉 TahaLearn.com
 
 #Islam #Education
 ```
@@ -182,10 +185,11 @@ Le Prophète ﷺ a dit : "Celui qui cache une science sera bridé de feu..."
 La science islamique est un DROIT, pas un privilège.
 
 4/ Ce qu'on propose :
-📖 Tajweed - Récitation correcte
-⚖️ Fiqh - Prière, purification, zakat
+⚖️ Fiqh - Prière, purification, Hajj, zakat
+📿 Hadith - Sciences du Hadith
 💫 Aqeedah - Fondements de la foi
-🌙 Seerah - Vie du Prophète ﷺ
+🏛️ Histoire - Les 4 grands imams
+🌙 Seerah - Vie du Prophète ﷺ (en cours)
 
 5/ Tout est sourcé :
 - Versets coraniques avec références
@@ -213,10 +217,11 @@ Je me permets de vous contacter concernant TahaLearn, une nouvelle plateforme d'
 📚 QU'EST-CE QUE TAHALEARN ?
 
 TahaLearn est une plateforme en ligne offrant des cours structurés en sciences islamiques :
-• Tajweed (récitation du Coran)
-• Fiqh (jurisprudence - prière, purification, zakat)
+• Fiqh (jurisprudence - prière, purification, Hajj, zakat)
+• Sciences du Hadith
 • Aqeedah (croyance islamique)
-• Seerah (vie du Prophète ﷺ)
+• Histoire des 4 grands imams
+• Seerah (vie du Prophète ﷺ) - en cours
 
 🌟 POURQUOI C'EST DIFFÉRENT ?
 
@@ -250,7 +255,7 @@ Wassalamou alaykoum wa rahmatullahi wa barakatuh,
 [Votre nom]
 TahaLearn
 tahalearnacademy@gmail.com
-tahalearn.com
+TahaLearn.com
 ```
 
 ### Flyer Mosquée (Texte)
@@ -267,15 +272,16 @@ tahalearn.com
 ║                                      ║
 ╠══════════════════════════════════════╣
 ║                                      ║
-║  📖 Tajweed    ⚖️ Fiqh               ║
-║  💫 Aqeedah   🌙 Seerah              ║
+║  ⚖️ Fiqh      📿 Hadith             ║
+║  💫 Aqeedah   🏛️ Histoire           ║
+║  🌙 Seerah (en cours)               ║
 ║                                      ║
 ║  ✅ 100% Gratuit                     ║
 ║  ✅ Arabe - Français - Anglais       ║
 ║  ✅ Contenu authentique              ║
 ║  ✅ Sans publicité                   ║
 ║                                      ║
-║  📱 tahalearn.com                    ║
+║  📱 TahaLearn.com                    ║
 ║                                      ║
 ║  [QR CODE ICI]                       ║
 ║                                      ║
@@ -302,17 +308,17 @@ tahalearn.com
 
 ### Français
 ```
-#Islam #ApprendreIslam #MusulmanFrance #Tajweed #Fiqh #Aqeedah #Seerah #Coran #Hadith #ScienceIslamique #EducationIslamique #TahaLearn #Gratuit #PriereIslam
+#Islam #ApprendreIslam #MusulmanFrance #Fiqh #Hadith #Aqeedah #Seerah #Histoire #Coran #ScienceIslamique #EducationIslamique #TahaLearn #Gratuit #PriereIslam
 ```
 
 ### Arabe
 ```
-#الإسلام #تعلم_الإسلام #التجويد #الفقه #العقيدة #السيرة #القرآن #الحديث #العلم_الشرعي #طه_للتعلم #مجاني
+#الإسلام #تعلم_الإسلام #الفقه #الحديث #العقيدة #السيرة #التاريخ_الإسلامي #القرآن #العلم_الشرعي #طه_للتعلم #مجاني
 ```
 
 ### Anglais
 ```
-#Islam #LearnIslam #IslamicEducation #Tajweed #Fiqh #Aqeedah #Seerah #Quran #Hadith #FreeEducation #TahaLearn #MuslimEducation
+#Islam #LearnIslam #IslamicEducation #Fiqh #Hadith #Aqeedah #Seerah #IslamicHistory #Quran #FreeEducation #TahaLearn #MuslimEducation
 ```
 
 ---
@@ -339,16 +345,20 @@ Vous avez fait le premier pas vers l'acquisition du savoir islamique. Le Prophè
 
 Voici nos cours les plus populaires :
 
-1. 📖 Les bases du Tajweed
-   Apprenez à réciter le Coran correctement
+1. ⚖️ Fiqh de la prière et purification
+   Maîtrisez tous les aspects de la Salat
    → [Lien]
 
-2. ⚖️ Fiqh de la prière
-   Maîtrisez tous les aspects de la Salat
+2. 📿 Sciences du Hadith
+   Découvrez les fondements du Hadith
    → [Lien]
 
 3. 💫 Introduction à la Aqeedah
    Comprenez les fondements de votre foi
+   → [Lien]
+
+4. 🏛️ Histoire des 4 grands imams
+   Découvrez leur vie et leur héritage
    → [Lien]
 
 💡 ASTUCE
@@ -366,7 +376,7 @@ L'équipe TahaLearn
 
 ---
 TahaLearn - وَقُل رَّبِّ زِدْنِي عِلْمًا
-tahalearn.com
+TahaLearn.com
 ```
 
 ---
