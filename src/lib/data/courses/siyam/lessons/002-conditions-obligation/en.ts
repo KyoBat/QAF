@@ -167,23 +167,12 @@ The fast of a menstruating or post-natal bleeding woman is not valid.
 
 ## 🌍 Contemporary Applications
 
-### Practical Cases
-
-**1. Patient with chronic illness (diabetes):**
-- If fasting causes clear harm: break fast and pay fidya
-- If it doesn't cause harm: fast with medical monitoring
-
-**2. Student during exams:**
-- No dispensation to break fast for studies
-- Must fast while organizing time
-
-**3. Worker in hard labor:**
-- If can reduce work: fasts
-- If work is necessary and harmful: breaks fast and makes up
-
-**4. One who converts during Ramadan:**
-- Abstains for the rest of that day
-- No makeup for what passed
+| Case | Ruling |
+|------|--------|
+| **Patient with chronic illness (diabetes)** | If fasting causes harm: break fast and pay fidya. If no harm: fast with medical monitoring |
+| **Student during exams** | No dispensation. Must fast while organizing time |
+| **Worker in hard labor** | If can reduce work: fasts. If work necessary and harmful: breaks fast and makes up |
+| **One who converts during Ramadan** | Abstains for the rest of that day. No makeup for what passed |
 
 ---
 
@@ -202,42 +191,23 @@ The fast of a menstruating or post-natal bleeding woman is not valid.
 
 ## ❓ Frequently Asked Questions
 
-**Q1: Must the intention be spoken?**
-A: No, the intention's place is the heart. Verbalizing it is considered an innovation by many scholars.
-
-**Q2: What if I forget to make intention at night?**
-A: If you remember before Fajr, make the intention and your fast is valid. If you remember after, the obligatory fast is not valid.
-
-**Q3: Should children fast?**
-A: It is recommended to train them from discernment (approximately 7 years), and they are rewarded for their fast.
-
-**Q4: When does fasting become obligatory for a girl?**
-A: Upon reaching puberty by any of its signs: menstruation, wet dreams, or reaching 15 years.
-
-**Q5: Does an insane person make up fasts if he recovers?**
-A: No makeup is required because the pen is lifted from him.
+| Question | Answer |
+|----------|--------|
+| Must the intention be spoken? | No, intention's place is the heart. Verbalizing is considered innovation by many scholars |
+| What if I forget to make intention at night? | If remembered before Fajr, make intention. If after, obligatory fast is not valid |
+| Should children fast? | Recommended to train from discernment (~7 years), and they are rewarded |
+| When does fasting become obligatory for a girl? | Upon puberty: menstruation, wet dreams, or reaching 15 years |
+| Does an insane person make up fasts if he recovers? | No makeup required because the pen is lifted from him |
 
 ---
 
 ## 🎯 Practical Action Plan
 
-### Before the Month
-
-- [ ] **Review** the conditions of fasting
-- [ ] **Teach** children the rulings of intention
-- [ ] **Consult** a doctor if there is illness
-
-### Every Night
-
-- [ ] **Make** intention before Fajr
-- [ ] **Confirm** the time of imsak (start of fast)
-- [ ] **Have suhur** to strengthen for fasting
-
-### For Parents
-
-- [ ] **Train** children from the age of discernment
-- [ ] **Gradually** increase their fasting
-- [ ] **Encourage** and reward them
+| Phase | Steps |
+|-------|-------|
+| **Before the Month** | Review conditions of fasting • Teach children intention rulings • Consult doctor if illness |
+| **Every Night** | Make intention before Fajr • Confirm imsak time • Have suhur for strength |
+| **For Parents** | Train children from discernment age • Gradually increase fasting • Encourage and reward |
 
 ---
 

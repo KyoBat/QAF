@@ -151,23 +151,11 @@ Fasting Ramadan was made obligatory in the **second year of Hijra**, before the 
 
 ## 🌍 Contemporary Applications
 
-### Modern Challenges
-
-**1. Countries with extremely long days:**
-In Scandinavian countries, days may reach 20 hours. Solutions:
-- Fast according to local time
-- Fast according to the nearest moderate country
-- Fast according to Makkah time
-
-**2. Hard labor:**
-- Reduce physical exertion as much as possible
-- Make use of suhur time
-- Use the dispensation for illness if necessary
-
-**3. Studies and exams:**
-- Organize time between worship and study
-- Benefit from the month's blessing for concentration
-- No conflict between fasting and academic achievement
+| Challenge | Solution |
+|-----------|----------|
+| **Countries with extremely long days** (Scandinavia 20h+) | Fast according to local time, or nearest moderate country, or Makkah time |
+| **Hard labor** | Reduce physical exertion • Use suhur time • Use illness dispensation if necessary |
+| **Studies and exams** | Organize time between worship and study • Benefit from the month's blessing for concentration |
 
 ---
 
@@ -187,42 +175,22 @@ In Scandinavian countries, days may reach 20 hours. Solutions:
 
 ## ❓ Frequently Asked Questions
 
-**Q1: Must the intention be renewed every day?**
-A: According to the Malikis: one intention at the beginning of the month suffices. According to the majority: it is recommended to renew it every night.
-
-**Q2: What if I sleep and don't wake up for suhur?**
-A: The fast is valid if the intention was present before Fajr. Suhur is Sunnah, not a condition.
-
-**Q3: Is the fast of someone who doesn't pray valid?**
-A: Prayer is an independent obligation, and abandoning it is sinful. But according to the majority, the fast is valid while bearing the sin.
-
-**Q4: How do I know when Ramadan begins?**
-A: By sighting the moon or completing Sha'ban to 30 days. This is usually announced by official authorities.
-
-**Q5: What is the virtue of Ramadan over other months?**
-A: It contains Laylat Al-Qadr which is better than a thousand months, the gates of Paradise are opened, the gates of Hell are closed, and the devils are chained.
+| Question | Answer |
+|----------|--------|
+| Must the intention be renewed every day? | Malikis: one intention at the beginning suffices. Majority: recommended to renew every night |
+| What if I sleep and don't wake up for suhur? | Fast is valid if intention was present before Fajr. Suhur is Sunnah, not a condition |
+| Is the fast of someone who doesn't pray valid? | Prayer is independent. According to the majority, fast is valid while bearing the sin |
+| How do I know when Ramadan begins? | By sighting the moon or completing Sha'ban to 30 days |
+| What is the virtue of Ramadan over other months? | Contains Laylat Al-Qadr, gates of Paradise opened, gates of Hell closed, devils chained |
 
 ---
 
 ## 🎯 Practical Action Plan
 
-### Before Ramadan
-
-- [ ] **Repent** from all sins
-- [ ] **Make up** any missed fasting days
-- [ ] **Learn** the rulings of fasting
-- [ ] **Prepare** a schedule for worship
-- [ ] **Prepare** the soul by fasting Sha'ban
-
-### During Ramadan
-
-- [ ] **Make intention** before Fajr every night
-- [ ] **Have suhur** at its last time
-- [ ] **Break fast** at sunset
-- [ ] **Pray Tarawih** every night
-- [ ] **Complete** the Quran at least once
-- [ ] **Supplicate** at iftar time
-- [ ] **Give** abundant charity
+| Phase | Steps |
+|-------|-------|
+| **Before Ramadan** | Repent • Make up missed days • Learn rulings • Prepare worship schedule • Fast Sha'ban |
+| **During Ramadan** | Intention before Fajr • Suhur at last time • Iftar at sunset • Tarawih • Complete Quran • Supplicate • Give charity |
 
 ---
 

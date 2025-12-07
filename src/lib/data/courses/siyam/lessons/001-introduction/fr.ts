@@ -173,27 +173,22 @@ Ici, le jeûne signifie l'abstention de **parler**.
 
 ## ❓ FAQ (الأسئلة الشائعة)
 
-**Q1 : Peut-on jeûner sans avoir mangé au Suhūr ?**
-> Oui, le Suhūr est **recommandé** (Sunnah) mais pas obligatoire. Le jeûne reste valide sans lui. Le Prophète ﷺ a dit : *« Le Suhūr est une bénédiction, ne le délaissez pas. »* [Muslim]
-
-**Q2 : Si j'oublie de faire l'intention la nuit, mon jeûne est-il valide ?**
-> 🟡 Selon les **Malikites** : Non, l'intention avant le Fajr est obligatoire pour le jeûne de Ramadan. Pour le jeûne surérogatoire, elle peut être faite avant le Zawāl.
-
-**Q3 : Le jeûne est-il valide si on se réveille en état de Janāba ?**
-> Oui, à l'unanimité. Le Prophète ﷺ se réveillait parfois en état de Janāba puis faisait le Ghusl et jeûnait. [Al-Bukhari et Muslim]
-
-**Q4 : Les enfants doivent-ils jeûner ?**
-> Le jeûne n'est pas obligatoire avant la puberté, mais il est **recommandé** de les habituer progressivement dès l'âge de 7 ans.
+| Question | Réponse |
+|----------|---------|
+| Peut-on jeûner sans avoir mangé au Suhūr ? | Oui, le Suhūr est **recommandé** (Sunnah) mais pas obligatoire. Le jeûne reste valide sans lui |
+| Si j'oublie de faire l'intention la nuit, mon jeûne est-il valide ? | 🟡 Selon les **Malikites** : Non, l'intention avant le Fajr est obligatoire pour Ramadan. Pour le surérogatoire, elle peut être faite avant le Zawāl |
+| Le jeûne est-il valide si on se réveille en état de Janāba ? | Oui, à l'unanimité. Le Prophète ﷺ se réveillait parfois en état de Janāba puis faisait le Ghusl et jeûnait |
+| Les enfants doivent-ils jeûner ? | Non obligatoire avant la puberté, mais **recommandé** de les habituer progressivement dès 7 ans |
 
 ---
 
 ## 🎯 Action Concrète (التطبيق العملي)
 
-**Ce Ramadan, fixez-vous trois objectifs :**
-
-1. **Parfaire l'intention** — Chaque soir, renouvelez consciemment votre intention de jeûner pour Allah
-2. **Ne jamais délaisser le Suhūr** — Même un verre d'eau et quelques dattes
-3. **Garder sa langue** — Le jeûne n'est pas que de la nourriture : évitez la médisance et les paroles vaines
+| Objectif | Action |
+|----------|--------|
+| **Parfaire l'intention** | Chaque soir, renouvelez consciemment votre intention de jeûner pour Allah |
+| **Ne jamais délaisser le Suhūr** | Même un verre d'eau et quelques dattes |
+| **Garder sa langue** | Évitez la médisance et les paroles vaines |
 
 > 💡 **Conseil** : Tenez un petit carnet où vous notez vos réflexions spirituelles chaque jour de Ramadan.
 

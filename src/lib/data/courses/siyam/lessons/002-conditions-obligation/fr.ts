@@ -197,27 +197,24 @@ Le voyageur a le choix entre jeûner ou rompre :
 
 ## ❓ Questions Fréquentes (FAQ)
 
-**Q : Un enfant de 12 ans qui jeûne, son jeûne est-il valide ?**
-R : Oui, son jeûne est valide et récompensé, mais il n'est pas obligatoire pour lui tant qu'il n'a pas atteint la puberté.
-
-**Q : Une personne se convertit le 15 Ramadan, doit-elle rattraper les jours précédents ?**
-R : Non, l'Islam efface ce qui l'a précédé. Elle jeûne à partir du jour de sa conversion.
-
-**Q : Le voyageur qui rompt son jeûne doit-il se cacher pour manger ?**
-R : Il n'est pas obligé de se cacher, mais il est préférable de ne pas manger en public par respect pour les jeûneurs.
-
-**Q : La femme enceinte qui rompt par crainte pour son bébé, doit-elle payer une fidya en plus du rattrapage ?**
-R : 🟡 Chez les Malikites, non. Elle ne doit que le rattrapage, sans fidya.
+| Question | Réponse |
+|----------|---------|
+| Un enfant de 12 ans qui jeûne, son jeûne est-il valide ? | Oui, valide et récompensé, mais non obligatoire avant la puberté |
+| Une personne se convertit le 15 Ramadan, doit-elle rattraper les jours précédents ? | Non, l'Islam efface ce qui l'a précédé. Elle jeûne à partir du jour de sa conversion |
+| Le voyageur qui rompt doit-il se cacher pour manger ? | Non obligé, mais préférable par respect pour les jeûneurs |
+| La femme enceinte qui rompt par crainte pour son bébé, doit-elle payer une fidya ? | 🟡 Chez les Malikites, non. Rattrapage seul, sans fidya |
 
 ---
 
 ## 🎯 Action Concrète du Jour
 
-1. **Vérifiez** si vous remplissez toutes les conditions d'obligation du jeûne
-2. **Comptez** les jours de Ramadan passés à rattraper (maladie, voyage, menstrues)
-3. **Planifiez** le rattrapage avant le prochain Ramadan
-4. **Enseignez** à vos enfants l'importance du jeûne progressivement
-5. **Calculez** la fidya pour un proche âgé qui ne peut pas jeûner
+| Phase | Actions |
+|-------|---------|
+| **Vérification** | Vérifiez si vous remplissez toutes les conditions d'obligation du jeûne |
+| **Comptage** | Comptez les jours passés à rattraper (maladie, voyage, menstrues) |
+| **Planification** | Planifiez le rattrapage avant le prochain Ramadan |
+| **Éducation** | Enseignez à vos enfants l'importance du jeûne progressivement |
+| **Fidya** | Calculez la fidya pour un proche âgé qui ne peut pas jeûner |
 
 ---
 
