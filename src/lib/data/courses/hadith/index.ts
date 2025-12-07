@@ -1,5 +1,5 @@
 /**
- * Cours Hadith - Hadiths Essentiels pour le Musulman Moderne
+ * Cours Hadith - Hadiths Essentiels pour le Musulman Contemporain
  * Export centralisé des 15 leçons
  */
 

@@ -1,5 +1,5 @@
 /**
- * Cours: Hadiths Essentiels pour le Musulman Moderne
+ * Cours: Hadiths Essentiels pour le Musulman Contemporain
  * Métadonnées du cours
  */
 
@@ -9,14 +9,14 @@ export const hadithMeta: CourseMeta = {
   id: 'course-005',
   slug: 'sciences-hadith',
   title: {
-    fr: 'Hadiths Essentiels pour le Musulman Moderne',
+    fr: 'Hadiths Essentiels pour le Musulman Contemporain',
     ar: 'أحاديث أساسية للمسلم المعاصر',
-    en: 'Essential Hadiths for the Modern Muslim',
+    en: 'Essential Hadiths for the Contemporary Muslim',
   },
   description: {
-    fr: '15 hadiths fondamentaux avec applications pratiques pour la vie moderne : intention, gestion des émotions, relations, épreuves, et constance spirituelle.',
+    fr: '15 hadiths fondamentaux avec applications pratiques pour la vie contemporaine : intention, gestion des émotions, relations, épreuves, et constance spirituelle.',
     ar: '15 حديثاً أساسياً مع تطبيقات عملية للحياة المعاصرة: النية، إدارة المشاعر، العلاقات، الابتلاءات، والثبات الروحي.',
-    en: '15 foundational hadiths with practical applications for modern life: intention, emotional management, relationships, trials, and spiritual consistency.',
+    en: '15 foundational hadiths with practical applications for contemporary life: intention, emotional management, relationships, trials, and spiritual consistency.',
   },
   category: 'hadith',
   level: 'beginner',
