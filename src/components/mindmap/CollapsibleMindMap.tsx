@@ -28,14 +28,22 @@ export interface MindMapData {
   icon?: string;
 }
 
-// Couleurs par défaut pour les niveaux
+// Couleurs par défaut pour les niveaux - palette plus vibrante
 const levelColors = [
-  '#1e3a5f', // Niveau 0 - Bleu foncé (racine)
-  '#2d6a4f', // Niveau 1 - Vert foncé
-  '#9c6644', // Niveau 2 - Marron
-  '#7b2cbf', // Niveau 3 - Violet
-  '#c9184a', // Niveau 4 - Rouge
+  '#1e3a5f', // Niveau 0 - Bleu foncé (racine) - الرسول
+  '#059669', // Niveau 1 - Vert émeraude - الصحابة
+  '#0891b2', // Niveau 2 - Cyan - التابعين
+  '#7c3aed', // Niveau 3 - Violet - العلماء
+  '#db2777', // Niveau 4 - Rose - الأئمة
 ];
+
+// Couleurs spécifiques pour les 4 Imams
+const imamColors: Record<string, string> = {
+  'malik': '#eab308',     // 🟡 Jaune doré - مالك
+  'abu-hanifa': '#22c55e', // 🟢 Vert - أبو حنيفة
+  'shafii': '#3b82f6',    // 🔵 Bleu - الشافعي
+  'ahmad': '#a855f7',     // 🟣 Violet - أحمد
+};
 
 // Custom Node Component avec bouton expand/collapse
 function CollapsibleNode({ data, id }: NodeProps) {
@@ -44,20 +52,28 @@ function CollapsibleNode({ data, id }: NodeProps) {
   const onToggle = data.onToggle;
   const level = data.level;
   const isRoot = level === 0;
+  
+  // Déterminer si c'est un imam pour utiliser sa couleur spécifique
+  const nodeColor = data.imamId ? imamColors[data.imamId] || data.color : data.color;
 
   return (
     <div 
-      className={`relative flex items-center gap-2 ${isRoot ? 'flex-col' : ''}`}
+      className={`relative flex items-center gap-2 ${isRoot ? 'flex-col' : ''} transition-all duration-300 hover:scale-105`}
       style={{
-        background: data.color,
+        background: isRoot 
+          ? `linear-gradient(135deg, ${nodeColor} 0%, ${nodeColor}dd 100%)`
+          : `linear-gradient(135deg, ${nodeColor} 0%, ${nodeColor}cc 100%)`,
         color: 'white',
-        borderRadius: isRoot ? '50%' : '12px',
-        padding: isRoot ? '20px 24px' : '10px 16px',
-        fontSize: isRoot ? '16px' : '14px',
-        fontWeight: isRoot ? 'bold' : 'normal',
-        minWidth: isRoot ? '140px' : '120px',
-        boxShadow: '0 4px 12px -2px rgba(0, 0, 0, 0.2)',
-        border: '2px solid rgba(255,255,255,0.2)',
+        borderRadius: isRoot ? '50%' : '16px',
+        padding: isRoot ? '24px 28px' : '12px 18px',
+        fontSize: isRoot ? '18px' : '14px',
+        fontWeight: isRoot ? 'bold' : '500',
+        minWidth: isRoot ? '160px' : '130px',
+        boxShadow: isRoot 
+          ? `0 8px 24px -4px ${nodeColor}66, 0 4px 8px -2px rgba(0,0,0,0.1)`
+          : `0 4px 16px -2px ${nodeColor}44, 0 2px 4px -1px rgba(0,0,0,0.1)`,
+        border: '2px solid rgba(255,255,255,0.3)',
+        backdropFilter: 'blur(4px)',
       }}
       dir="rtl"
     >
@@ -362,28 +378,29 @@ function CollapsibleMindMapInner({
     <div className={`w-full ${className}`} dir="ltr">
       {title && (
         <div className="flex items-center justify-between mb-4 px-2">
-          <h3 className="text-xl font-bold text-primary" dir="rtl">
-            🗺️ {title}
+          <h3 className="text-xl font-bold text-primary flex items-center gap-2" dir="rtl">
+            <span className="text-2xl">🗺️</span>
+            <span>{title}</span>
           </h3>
           <div className="flex gap-2">
             <button
               onClick={expandAll}
-              className="px-3 py-1.5 text-sm bg-green-500 text-white rounded-lg hover:bg-green-600 transition-colors flex items-center gap-1"
+              className="px-4 py-2 text-sm bg-gradient-to-r from-emerald-500 to-green-600 text-white rounded-xl hover:from-emerald-600 hover:to-green-700 transition-all shadow-md hover:shadow-lg flex items-center gap-1.5 font-medium"
             >
-              <span>+</span>
+              <span className="text-lg">+</span>
               <span>{t.expandAll}</span>
             </button>
             <button
               onClick={collapseAll}
-              className="px-3 py-1.5 text-sm bg-slate-500 text-white rounded-lg hover:bg-slate-600 transition-colors flex items-center gap-1"
+              className="px-4 py-2 text-sm bg-gradient-to-r from-slate-500 to-slate-600 text-white rounded-xl hover:from-slate-600 hover:to-slate-700 transition-all shadow-md hover:shadow-lg flex items-center gap-1.5 font-medium"
             >
-              <span>−</span>
+              <span className="text-lg">−</span>
               <span>{t.collapseAll}</span>
             </button>
           </div>
         </div>
       )}
-      <div className="w-full h-[600px] bg-slate-50 dark:bg-slate-900 rounded-xl border border-slate-200 dark:border-slate-700 overflow-hidden">
+      <div className="w-full h-[600px] bg-gradient-to-br from-slate-50 via-white to-slate-100 dark:from-slate-900 dark:via-slate-800 dark:to-slate-900 rounded-2xl border-2 border-slate-200 dark:border-slate-700 overflow-hidden shadow-lg">
         <ReactFlow
           nodes={nodes}
           edges={edges}
@@ -404,14 +421,14 @@ function CollapsibleMindMapInner({
       </div>
       
       {/* Légende */}
-      <div className={`mt-4 flex justify-center gap-4 text-sm text-slate-600 dark:text-slate-400 ${isRTL ? 'flex-row-reverse' : ''}`} dir={isRTL ? 'rtl' : 'ltr'}>
-        <span className="flex items-center gap-1">
-          <span className="inline-flex items-center justify-center w-5 h-5 rounded-full bg-white border-2 border-green-500 text-xs font-bold">+</span>
-          {t.openBranch}
+      <div className={`mt-4 flex justify-center gap-6 text-sm text-slate-600 dark:text-slate-400 ${isRTL ? 'flex-row-reverse' : ''}`} dir={isRTL ? 'rtl' : 'ltr'}>
+        <span className="flex items-center gap-2 bg-white dark:bg-slate-800 px-3 py-1.5 rounded-full shadow-sm border border-slate-200 dark:border-slate-700">
+          <span className="inline-flex items-center justify-center w-6 h-6 rounded-full bg-gradient-to-r from-emerald-400 to-green-500 text-white text-xs font-bold shadow">+</span>
+          <span className="font-medium">{t.openBranch}</span>
         </span>
-        <span className="flex items-center gap-1">
-          <span className="inline-flex items-center justify-center w-5 h-5 rounded-full bg-white border-2 border-slate-500 text-xs font-bold">−</span>
-          {t.closeBranch}
+        <span className="flex items-center gap-2 bg-white dark:bg-slate-800 px-3 py-1.5 rounded-full shadow-sm border border-slate-200 dark:border-slate-700">
+          <span className="inline-flex items-center justify-center w-6 h-6 rounded-full bg-gradient-to-r from-slate-400 to-slate-500 text-white text-xs font-bold shadow">−</span>
+          <span className="font-medium">{t.closeBranch}</span>
         </span>
       </div>
     </div>
