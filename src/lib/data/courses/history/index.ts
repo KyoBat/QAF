@@ -9,6 +9,7 @@ import { lesson001 } from './lessons/001-age-dor'
 import { lesson002 } from './lessons/002-maitres-communs'
 import { lesson003 } from './lessons/003-rencontres'
 import { lesson004 } from './lessons/004-face-pouvoir'
+import { lesson005 } from './lessons/005-methodes'
 
 export const historyImamsCourse: Course = {
   ...historyImamsMeta,
@@ -17,5 +18,6 @@ export const historyImamsCourse: Course = {
     lesson002,
     lesson003,
     lesson004,
+    lesson005,
   ],
 }
