@@ -9,6 +9,8 @@
 import dynamic from 'next/dynamic'
 import ReactMarkdown from 'react-markdown'
 import remarkGfm from 'remark-gfm'
+import remarkBreaks from 'remark-breaks'
+import rehypeRaw from 'rehype-raw'
 import { useLocale } from '@/components/providers'
 import { cn } from '@/lib/utils'
 import type { Lesson } from '@/lib/schemas'
@@ -50,6 +52,8 @@ export function LessonContent({ lesson, courseSlug, className }: LessonContentPr
   return (
     <div className={cn('prose-content', isRTL && 'text-right', className)}>
       <ReactMarkdown
+        remarkPlugins={[remarkGfm, remarkBreaks]}
+        rehypePlugins={[rehypeRaw]}
         components={{
           h1: ({ children }) => (
             <h1 className={cn(
@@ -171,7 +175,6 @@ export function LessonContent({ lesson, courseSlug, className }: LessonContentPr
             </a>
           ),
         }}
-        remarkPlugins={[remarkGfm]}
       >
         {content}
       </ReactMarkdown>
