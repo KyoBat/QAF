@@ -47,26 +47,25 @@ Quand Umayya découvrit que son esclave était devenu musulman, il décida de le
 
 ### Le Supplice
 
-\`\`\`
-LA SCÈNE DE TORTURE
-┌────────────────────────────────────────────────────────────┐
-│  • Heure : Midi, le soleil au zénith                      │
-│  • Lieu : Les rochers brûlants du désert mecquois        │
-│                                                            │
-│  Umayya traînait Bilāl, lui retirait ses vêtements,       │
-│  et le couchait sur les rochers incandescents.            │
-│                                                            │
-│  Puis il plaçait une ÉNORME PIERRE sur sa poitrine.       │
-│                                                            │
-│  Umayya : « Tu resteras ainsi jusqu'à ce que tu meures    │
-│  ou que tu renies Muḥammad ! »                            │
-│                                                            │
-│  Bilāl, étouffant sous le poids, répétait :               │
-│                                                            │
-│  « أَحَدٌ... أَحَدٌ... »                                    │
-│  « Un... Un... » (Allah est Un)                           │
-└────────────────────────────────────────────────────────────┘
-\`\`\`
+<div class="scene-box">
+
+**🎭 La Scène de Torture**
+
+**• Heure :** Midi, le soleil au zénith
+**• Lieu :** Les rochers brûlants du désert mecquois
+
+Umayya traînait Bilāl, lui retirait ses vêtements, et le couchait sur les rochers incandescents.
+
+Puis il plaçait une **ÉNORME PIERRE** sur sa poitrine.
+
+**Umayya :** « Tu resteras ainsi jusqu'à ce que tu meures ou que tu renies Muḥammad ! »
+
+Bilāl, étouffant sous le poids, répétait :
+
+**« أَحَدٌ... أَحَدٌ... »**
+*« Un... Un... » (Allah est Un)*
+
+</div>
 
 Ce mot — **Aḥad** — devint le symbole de la résistance des opprimés.
 

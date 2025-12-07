@@ -58,26 +58,26 @@ Khālid, commander of the Quraysh cavalry, saw the opening.
 
 He circled around the mountain and **charged from behind**.
 
-\`\`\`
-Battle of Uhud - Khālid's Maneuver
-┌───────────────────────────────────────────────────────────────┐
-│                                                               │
-│                    Mount 'Aynān                               │
-│                   ┌──────────┐                                │
-│                   │10 archers│  ← (40 left)                   │
-│                   └──────────┘                                │
-│                        ↑                                      │
-│                        │ Breach!                              │
-│   ┌─────────────┐      │      ┌─────────────┐                │
-│   │   Muslim    │←─────┴──────│   Khālid's  │                │
-│   │   Army      │   Surprise  │   Cavalry   │                │
-│   └─────────────┘   Attack    └─────────────┘                │
-│                                                               │
-│   Result: Muslim defeat, the Prophet ﷺ injured               │
-└───────────────────────────────────────────────────────────────┘
-\`\`\`
+<div class="scene-box">
 
-That day, **70 Muslims** died, including the Prophet's ﷺ uncle, Ḥamza.
+**⚔️ Battle of Uhud — Khālid's Maneuver**
+
+| Phase | What Happened |
+|-------|---------------|
+| **1. Position** | 50 archers on Mount 'Aynān 🏝️ |
+| **2. Order** | "Do not move, win or lose!" |
+| **3. Error** | 40 archers leave for spoils 💰 |
+| **4. Breach** | Only 10 archers remain ⚠️ |
+| **5. Genius** | Khālid sees the opportunity 👁️ |
+| **6. Maneuver** | Circles around with cavalry 🐎 |
+| **7. Attack** | Strikes Muslim army from behind ⚔️ |
+
+**😢 Result:**
+- Muslim defeat
+- 70 Companions martyred
+- The Prophet ﷺ injured
+
+</div>
 
 The battle was lost due to disobedience—and Khālid's military genius.
 
@@ -138,26 +138,32 @@ Khālid took command without being appointed.
 
 In **one night**, he reorganized the army:
 
-\`\`\`
-Khālid's Strategy at Mu'ta
-┌───────────────────────────────────────────────────────────────┐
-│                                                               │
-│  Night:                                                       │
-│  • Exchange positions (right wing ↔ left wing)                │
-│  • Send a detachment to make noise from behind                │
-│                                                               │
-│  Dawn:                                                        │
-│  • The Byzantines see "new" fresh troops                      │
-│  • They hear reinforcements arriving from behind              │
-│  • They think it's a TRAP                                     │
-│                                                               │
-│  Result: The Byzantines hesitate, Khālid organizes            │
-│  an orderly retreat. 3000 men escape from 200,000.            │
-│                                                               │
-└───────────────────────────────────────────────────────────────┘
-\`\`\`
+<div class="scene-box">
 
-Khālid broke **9 swords** that day.
+**🧠 Khālid's Strategy at Mu'ta**
+
+**🌙 Night:**
+- Exchange positions (right wing ↔ left wing)
+- Send a detachment to make noise from behind
+
+**🌅 Dawn:**
+- The Byzantines see "new" fresh troops
+- They hear reinforcements arriving from behind
+- They think it's a TRAP...
+
+**📊 Result:**
+
+| Army | Size |
+|------|------|
+| Muslims | 3,000 |
+| Byzantines | 200,000 |
+| **Survivors** | **3,000 ✓** |
+
+*The Byzantines hesitate, Khālid organizes an orderly retreat!*
+
+</div>
+
+Khālid broke **9 swords** that day. ⚔️
 
 When the survivors returned to Medina, some jeered: "Deserters!"
 
@@ -207,21 +213,21 @@ Problem: Khālid was **in Iraq**, weeks of marching away.
 
 Khālid decided to cross the **Syrian Desert**—a route deemed impossible.
 
-\`\`\`
-The Desert March (18 days, ~800 km)
-┌───────────────────────────────────────────────────────────────┐
-│                                                               │
-│   IRAQ ═══════════ DESERT ═══════════ SYRIA                   │
-│    •                   🏜️                  •                  │
-│  Ḥīra ───────────────────────────────> Damascus               │
-│                                                               │
-│   • 800 km of desert                                          │
-│   • 18 days of marching                                       │
-│   • Camels as living "water tanks"                            │
-│   • SURPRISE arrival behind Byzantine lines                   │
-│                                                               │
-└───────────────────────────────────────────────────────────────┘
-\`\`\`
+<div class="scene-box">
+
+**🏔️ The Desert March (18 days, ~800 km)**
+
+**📍 Route:** Iraq → Desert → Syria
+
+| Challenge | Solution |
+|-----------|----------|
+| 800 km of desert | Forced march |
+| 18 days without water | Camels as living "tanks" 🐫 |
+| Enemy alerted | SURPRISE arrival behind lines |
+
+*Ḥīra →→→ 🏔️ →→→ Damascus*
+
+</div>
 
 The Byzantines didn't see him coming. Literally.
 
@@ -238,32 +244,25 @@ The **Battle of Yarmouk** (15 AH) is considered one of history's most decisive b
 
 ### Tactical Genius
 
-\`\`\`
-Battle of Yarmouk
-┌───────────────────────────────────────────────────────────────┐
-│                                                               │
-│                   Yarmouk Ravines                             │
-│   ┌─────────────────────────────────────────────────┐        │
-│   │                                                  │        │
-│   │              Byzantine Army                      │        │
-│   │              (backs to ravines)                  │        │
-│   │                                                  │        │
-│   └──────────────────────────────────────────────────┘       │
-│                        ↑                                      │
-│                        │                                      │
-│   ┌─────────────────────────────────────────────────┐        │
-│   │              Muslim Army                         │        │
-│   └─────────────────────────────────────────────────┘        │
-│                                                               │
-│   Tactic: Lure the Byzantines, then counter-attack.          │
-│   The ravines prevent any Byzantine retreat.                  │
-│                                                               │
-└───────────────────────────────────────────────────────────────┘
-\`\`\`
+<div class="scene-box">
 
-In **6 days**, the Byzantine army was annihilated.
+**⚔️ Battle of Yarmouk**
 
-The Byzantine Empire lost Syria, Palestine, and Egypt.
+| Army | Size |
+|------|------|
+| Muslims | ~30,000 |
+| Byzantines | ~100,000+ |
+
+**🧠 Tactic:**
+- Lure the Byzantines toward the ravines
+- Massive counter-attack
+- The ravines prevent any Byzantine retreat
+
+**📊 Result:**
+- In **6 days**, the Byzantine army was annihilated
+- The Empire lost Syria, Palestine, and Egypt
+
+</div>
 
 **One man** had changed the map of the world.
 

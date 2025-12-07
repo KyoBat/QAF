@@ -62,26 +62,23 @@ Quand la révélation vint, 'Alī avait environ **10 ans**.
 
 Un jour, il surprit le Prophète ﷺ et Khadīja en train de prier.
 
-\`\`\`
-LA SCÈNE
-┌────────────────────────────────────────────────────────────┐
-│  'Alī : « Qu'est-ce que vous faites ? »                   │
-│                                                            │
-│  Le Prophète ﷺ : « C'est la religion d'Allah qu'Il a     │
-│  choisie pour Lui-même et pour laquelle Il a envoyé       │
-│  Ses messagers. Je t'invite à Allah, l'Unique. »          │
-│                                                            │
-│  'Alī : « Laisse-moi demander à mon père. »               │
-│                                                            │
-│  Le Prophète ﷺ : « Si tu ne te convertis pas, garde      │
-│  le secret. »                                              │
-│                                                            │
-│  [Le lendemain matin]                                      │
-│                                                            │
-│  'Alī : « Allah m'a créé sans consulter Abū Ṭālib.        │
-│  Pourquoi le consulterais-je pour L'adorer ? »            │
-└────────────────────────────────────────────────────────────┘
-\`\`\`
+<div class="scene-box">
+
+**🎭 La Scène**
+
+**'Alī :** « Qu'est-ce que vous faites ? »
+
+**Le Prophète ﷺ :** « C'est la religion d'Allah qu'Il a choisie pour Lui-même et pour laquelle Il a envoyé Ses messagers. Je t'invite à Allah, l'Unique. »
+
+**'Alī :** « Laisse-moi demander à mon père. »
+
+**Le Prophète ﷺ :** « Si tu ne te convertis pas, garde le secret. »
+
+*[Le lendemain matin]*
+
+**'Alī :** « Allah m'a créé sans consulter Abū Ṭālib. Pourquoi le consulterais-je pour L'adorer ? »
+
+</div>
 
 Il embrassa l'Islam — le **premier enfant** de l'histoire islamique.
 

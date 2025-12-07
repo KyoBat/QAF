@@ -72,37 +72,37 @@ Son hostilité était si grande que les musulmans **le craignaient** plus que qu
 
 ## ⚡ La Conversion Miraculeuse
 
-### Le Jour où Il Voulut Tuer le Prophète ﷺ
+<div class="scene-box">
 
-Un jour, 'Umar prit son épée et se dirigea vers le Prophète ﷺ avec l'intention de **le tuer**.
+**🎭 Le Jour où Il Voulut Tuer le Prophète ﷺ**
 
-En chemin, un homme lui dit :
+*Un jour, 'Umar prit son épée et se dirigea vers le Prophète ﷺ avec l'intention de **le tuer**.*
 
-> « Commence par ta propre famille ! Ta sœur Fāṭima et son mari Sa'īd ont embrassé l'Islam. »
+*En chemin, un homme lui dit :*
 
-**Furieux**, 'Umar changea de direction et se dirigea vers la maison de sa sœur.
+**Un homme :** « Commence par ta propre famille ! Ta sœur Fāṭima et son mari Sa'īd ont embrassé l'Islam. »
 
-### La Scène chez Fāṭima
+*Furieux, 'Umar changea de direction et se dirigea vers la maison de sa sœur.*
 
-En approchant, il entendit une récitation du Coran. Il entra violemment.
+---
 
-\`\`\`
-LA SCÈNE
-┌────────────────────────────────────────────────────────────┐
-│  'Umar : « Qu'est-ce que j'entendais ?! »                 │
-│                                                            │
-│  Fāṭima cacha le feuillet. 'Umar la frappa si fort        │
-│  que du sang coula de son visage.                         │
-│                                                            │
-│  Voyant le sang, quelque chose changea en lui...          │
-│                                                            │
-│  'Umar : « Donne-moi ce feuillet. »                       │
-│                                                            │
-│  Fāṭima : « Tu es impur. Purifie-toi d'abord. »          │
-│                                                            │
-│  'Umar se purifia, puis lut...                            │
-└────────────────────────────────────────────────────────────┘
-\`\`\`
+**Chez Fāṭima**
+
+*En approchant, il entendit une récitation du Coran. Il entra violemment.*
+
+**'Umar :** « Qu'est-ce que j'entendais ?! »
+
+*Fāṭima cacha le feuillet. 'Umar la frappa si fort que du sang coula de son visage.*
+
+*Voyant le sang, quelque chose changea en lui...*
+
+**'Umar :** « Donne-moi ce feuillet. »
+
+**Fāṭima :** « Tu es impur. Purifie-toi d'abord. »
+
+*'Umar se purifia, puis lut...*
+
+</div>
 
 Ce qu'il lut était le début de **Sourate Ṭā-Hā** :
 

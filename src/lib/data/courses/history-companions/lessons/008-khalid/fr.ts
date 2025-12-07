@@ -59,26 +59,26 @@ Khālid, commandant de la cavalerie qurayshite, vit l'ouverture.
 
 Il contourna la montagne et **chargea par l'arrière**.
 
-\`\`\`
-Bataille d'Uhud - Manœuvre de Khālid
-┌───────────────────────────────────────────────────────────────┐
-│                                                               │
-│                    Mont 'Aynān                                │
-│                   ┌──────────┐                                │
-│                   │ 10 archers│  ← (40 sont partis)           │
-│                   └──────────┘                                │
-│                        ↑                                      │
-│                        │ Brèche !                             │
-│   ┌─────────────┐      │      ┌─────────────┐                │
-│   │   Armée     │←─────┴──────│   Cavalerie  │               │
-│   │  musulmane  │   Attaque   │   de Khālid  │               │
-│   └─────────────┘   surprise  └─────────────┘                │
-│                                                               │
-│   Résultat : Défaite des musulmans, le Prophète ﷺ blessé     │
-└───────────────────────────────────────────────────────────────┘
-\`\`\`
+<div class="scene-box">
 
-Ce jour-là, **70 musulmans** moururent, dont l'oncle du Prophète ﷺ, Ḥamza.
+**⚔️ Bataille d'Uhud — Manœuvre de Khālid**
+
+| Étape | Ce qui s'est passé |
+|-------|--------------------|
+| **1. Position** | 50 archers sur le mont 'Aynān 🏝️ |
+| **2. Ordre** | « Ne bougez pas, quoi qu'il arrive ! » |
+| **3. Erreur** | 40 archers partent pour le butin 💰 |
+| **4. Brèche** | Seulement 10 archers restent ⚠️ |
+| **5. Génie** | Khālid voit l'opportunité 👁️ |
+| **6. Manœuvre** | Il contourne avec sa cavalerie 🐎 |
+| **7. Attaque** | Frappe l'armée musulmane par derrière ⚔️ |
+
+**😢 Résultat :**
+- Défaite des musulmans
+- 70 Compagnons tombés en martyrs
+- Le Prophète ﷺ blessé
+
+</div>
 
 La bataille fut perdue à cause de la désobéissance — et du génie militaire de Khālid.
 
@@ -139,26 +139,32 @@ Khālid prit le commandement sans être désigné.
 
 En **une nuit**, il réorganisa l'armée :
 
-\`\`\`
-Stratégie de Khālid à Mu'ta
-┌───────────────────────────────────────────────────────────────┐
-│                                                               │
-│  Nuit :                                                       │
-│  • Échange des positions (aile droite ↔ aile gauche)          │
-│  • Envoi d'un détachement faire du bruit à l'arrière          │
-│                                                               │
-│  Aube :                                                       │
-│  • Les Byzantins voient de "nouvelles" troupes fraîches       │
-│  • Ils entendent des renforts arriver derrière                │
-│  • Ils pensent que c'est un PIÈGE                             │
-│                                                               │
-│  Résultat : Les Byzantins hésitent, Khālid organise           │
-│  une retraite ordonnée. 3000 hommes échappent à 200 000.      │
-│                                                               │
-└───────────────────────────────────────────────────────────────┘
-\`\`\`
+<div class="scene-box">
 
-Khālid cassa **9 épées** ce jour-là.
+**🧠 Stratégie de Khālid à Mu'ta**
+
+**🌙 Nuit :**
+- Échange des positions (aile droite ↔ aile gauche)
+- Envoi d'un détachement faire du bruit à l'arrière
+
+**🌅 Aube :**
+- Les Byzantins voient de "nouvelles" troupes fraîches
+- Ils entendent des renforts arriver derrière
+- Ils pensent que c'est un PIÈGE...
+
+**📊 Résultat :**
+
+| Armée | Effectif |
+|-------|----------|
+| Musulmans | 3 000 |
+| Byzantins | 200 000 |
+| **Survivants** | **3 000 ✓** |
+
+*Les Byzantins hésitent, Khālid organise une retraite ordonnée !*
+
+</div>
+
+Khālid cassa **9 épées** ce jour-là. ⚔️
 
 Quand les survivants revinrent à Médine, certains les huèrent : « Fuyards ! »
 
@@ -208,21 +214,21 @@ Problème : Khālid était **en Irak**, à des semaines de marche.
 
 Khālid décida de traverser le **désert de Syrie** — une route réputée impossible.
 
-\`\`\`
-La Marche du Désert (18 jours, ~800 km)
-┌───────────────────────────────────────────────────────────────┐
-│                                                               │
-│   IRAK ═══════════ DÉSERT ═══════════ SYRIE                   │
-│    •                   🏜️                  •                  │
-│  Ḥīra ───────────────────────────────> Damas                  │
-│                                                               │
-│   • 800 km de désert                                          │
-│   • 18 jours de marche                                        │
-│   • Des chameaux comme "réservoirs d'eau" vivants             │
-│   • Arrivée SURPRISE derrière les lignes byzantines           │
-│                                                               │
-└───────────────────────────────────────────────────────────────┘
-\`\`\`
+<div class="scene-box">
+
+**🏔️ La Marche du Désert (18 jours, ~800 km)**
+
+**📍 Trajet :** Irak → Désert → Syrie
+
+| Défi | Solution |
+|------|----------|
+| 800 km de désert | Marche forcée |
+| 18 jours sans eau | Chameaux comme "réservoirs" vivants 🐫 |
+| Ennemi alerté | Arrivée SURPRISE derrière les lignes |
+
+*Ḥīra →→→ 🏔️ →→→ Damas*
+
+</div>
 
 Les Byzantins ne l'avaient pas vu venir. Littéralement.
 
@@ -239,32 +245,25 @@ La **bataille de Yarmouk** (15 AH) est considérée comme l'une des batailles le
 
 ### Le Génie Tactique
 
-\`\`\`
-Bataille de Yarmouk
-┌───────────────────────────────────────────────────────────────┐
-│                                                               │
-│                   Ravins de Yarmouk                           │
-│   ┌─────────────────────────────────────────────────┐        │
-│   │                                                  │        │
-│   │              Armée byzantine                     │        │
-│   │              (dos aux ravins)                    │        │
-│   │                                                  │        │
-│   └──────────────────────────────────────────────────┘       │
-│                        ↑                                      │
-│                        │                                      │
-│   ┌─────────────────────────────────────────────────┐        │
-│   │              Armée musulmane                     │        │
-│   └─────────────────────────────────────────────────┘        │
-│                                                               │
-│   Tactique : Attirer les Byzantins, puis contre-attaque.     │
-│   Les ravins empêchent toute retraite byzantine.             │
-│                                                               │
-└───────────────────────────────────────────────────────────────┘
-\`\`\`
+<div class="scene-box">
 
-En **6 jours**, l'armée byzantine fut anéantie.
+**⚔️ Bataille de Yarmouk**
 
-L'Empire byzantin perdit la Syrie, la Palestine, et l'Égypte.
+| Armée | Effectif |
+|-------|----------|
+| Musulmans | ~30 000 |
+| Byzantins | ~100 000+ |
+
+**🧠 Tactique :**
+- Attirer les Byzantins vers les ravins
+- Contre-attaque massive
+- Les ravins empêchent toute retraite byzantine
+
+**📊 Résultat :**
+- En **6 jours**, l'armée byzantine fut anéantie
+- L'Empire perd la Syrie, la Palestine et l'Égypte
+
+</div>
 
 **Un seul homme** avait changé la carte du monde.
 

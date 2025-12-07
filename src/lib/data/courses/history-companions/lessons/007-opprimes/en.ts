@@ -44,25 +44,25 @@ When Umayya discovered his slave had embraced Islam, he decided to **break him**
 
 ### The Torment
 
-\`\`\`
-Scene of Torture
-┌───────────────────────────────────────────────────────────────┐
-│  • Time: Midday, the sun at its zenith                        │
-│  • Place: The burning rocks of Mecca's desert                 │
-│                                                               │
-│  Umayya would drag Bilāl, strip off his clothes,              │
-│  and throw him on the scorching rocks.                        │
-│                                                               │
-│  Then place a massive boulder on his chest.                   │
-│                                                               │
-│  Umayya: "You will stay like this until you die               │
-│  or renounce Muḥammad!"                                       │
-│                                                               │
-│  Bilāl, gasping under the weight, repeating:                  │
-│                                                               │
-│  "Aḥad... Aḥad..." (One... One...)                            │
-└───────────────────────────────────────────────────────────────┘
-\`\`\`
+<div class="scene-box">
+
+**🎭 Scene of Torture**
+
+**• Time:** Midday, the sun at its zenith
+**• Place:** The burning rocks of Mecca's desert
+
+Umayya would drag Bilāl, strip off his clothes, and throw him on the scorching rocks.
+
+Then place a **massive boulder** on his chest.
+
+**Umayya:** "You will stay like this until you die or renounce Muḥammad!"
+
+Bilāl, gasping under the weight, repeating:
+
+**"Aḥad... Aḥad..."**
+*(One... One...)*
+
+</div>
 
 This word — **Aḥad** — became the symbol of resistance for the oppressed.
 

@@ -62,26 +62,23 @@ When revelation came, 'Alī was about **10 years old**.
 
 One day, he found the Prophet ﷺ and Khadīja praying.
 
-\`\`\`
-THE SCENE
-┌────────────────────────────────────────────────────────────┐
-│  'Alī: "What are you doing?"                              │
-│                                                            │
-│  The Prophet ﷺ: "This is the religion of Allah that He   │
-│  has chosen for Himself and for which He sent His         │
-│  messengers. I invite you to Allah, the One."             │
-│                                                            │
-│  'Alī: "Let me ask my father."                            │
-│                                                            │
-│  The Prophet ﷺ: "If you do not convert, keep the         │
-│  secret."                                                  │
-│                                                            │
-│  [The next morning]                                        │
-│                                                            │
-│  'Alī: "Allah created me without consulting Abū Ṭālib.    │
-│  Why would I consult him to worship Him?"                 │
-└────────────────────────────────────────────────────────────┘
-\`\`\`
+<div class="scene-box">
+
+**🎭 The Scene**
+
+**'Alī:** "What are you doing?"
+
+**The Prophet ﷺ:** "This is the religion of Allah that He has chosen for Himself and for which He sent His messengers. I invite you to Allah, the One."
+
+**'Alī:** "Let me ask my father."
+
+**The Prophet ﷺ:** "If you do not convert, keep the secret."
+
+*[The next morning]*
+
+**'Alī:** "Allah created me without consulting Abū Ṭālib. Why would I consult him to worship Him?"
+
+</div>
 
 He embraced Islam — the **first child** in Islamic history.
 

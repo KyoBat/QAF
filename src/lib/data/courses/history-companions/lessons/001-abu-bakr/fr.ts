@@ -78,17 +78,21 @@ Tremblant, il rentre chez Khadīja qui le réconforte.
 
 Puis il va voir son ami le plus proche : **Abū Bakr**.
 
-\`\`\`
-LA SCÈNE
-┌────────────────────────────────────────────────────┐
-│  Le Prophète ﷺ : « Ô Abū Bakr, Allah m'a envoyé   │
-│  comme messager à l'humanité. »                    │
-│                                                    │
-│  Abū Bakr : [Sans hésitation]                     │
-│  « Tu dis vrai. Je témoigne que tu es le          │
-│  Messager d'Allah. »                              │
-└────────────────────────────────────────────────────┘
-\`\`\`
+<div class="scene-box">
+
+**🎭 La Nuit où Tout Changea**
+
+*L'année 610 EC. Le Prophète ﷺ vient de recevoir la première révélation dans la grotte de Ḥirā'.*
+
+*Tremblant, il rentre chez Khadīja qui le réconforte.*
+
+*Puis il va voir son ami le plus proche...*
+
+**Le Prophète ﷺ :** « Ô Abū Bakr, Allah m'a envoyé comme messager à l'humanité. »
+
+**Abū Bakr :** *[Sans hésitation]* « Tu dis vrai. Je témoigne que tu es le Messager d'Allah. »
+
+</div>
 
 **Pas de doute. Pas de question. Pas d'hésitation.**
 

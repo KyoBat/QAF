@@ -78,17 +78,21 @@ Trembling, he returns home to Khadīja who comforts him.
 
 Then he goes to see his closest friend: **Abū Bakr**.
 
-\`\`\`
-THE SCENE
-┌──────────────────────────────────────────────────────┐
-│  The Prophet ﷺ: "O Abū Bakr, Allah has sent me      │
-│  as a messenger to mankind."                         │
-│                                                      │
-│  Abū Bakr: [Without hesitation]                     │
-│  "You speak the truth. I bear witness that you      │
-│  are the Messenger of Allah."                       │
-└──────────────────────────────────────────────────────┘
-\`\`\`
+<div class="scene-box">
+
+**🎭 The Night Everything Changed**
+
+*The year 610 CE. The Prophet ﷺ has just received the first revelation in the cave of Ḥirā'.*
+
+*Trembling, he returns home to Khadīja who comforts him.*
+
+*Then he goes to see his closest friend...*
+
+**The Prophet ﷺ:** "O Abū Bakr, Allah has sent me as a messenger to mankind."
+
+**Abū Bakr:** *[Without hesitation]* "You speak the truth. I bear witness that you are the Messenger of Allah."
+
+</div>
 
 **No doubt. No question. No hesitation.**
 

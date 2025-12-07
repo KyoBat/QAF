@@ -72,37 +72,37 @@ His hostility was so great that Muslims **feared him** more than anyone.
 
 ## ⚡ The Miraculous Conversion
 
-### The Day He Wanted to Kill the Prophet ﷺ
+<div class="scene-box">
 
-One day, 'Umar took his sword and headed towards the Prophet ﷺ with the intention of **killing him**.
+**🎭 The Day He Wanted to Kill the Prophet ﷺ**
 
-On the way, a man said to him:
+*One day, 'Umar took his sword and headed towards the Prophet ﷺ with the intention of **killing him**.*
 
-> "Start with your own family! Your sister Fāṭima and her husband Sa'īd have embraced Islam."
+*On the way, a man said to him:*
 
-**Furious**, 'Umar changed direction and headed to his sister's house.
+**A man:** "Start with your own family! Your sister Fāṭima and her husband Sa'īd have embraced Islam."
 
-### The Scene at Fāṭima's House
+*Furious, 'Umar changed direction and headed to his sister's house.*
 
-As he approached, he heard a recitation of the Quran. He entered violently.
+---
 
-\`\`\`
-THE SCENE
-┌────────────────────────────────────────────────────────────┐
-│  'Umar: "What was that I heard?!"                         │
-│                                                            │
-│  Fāṭima hid the parchment. 'Umar struck her so hard       │
-│  that blood flowed from her face.                         │
-│                                                            │
-│  Seeing the blood, something changed within him...         │
-│                                                            │
-│  'Umar: "Give me that parchment."                         │
-│                                                            │
-│  Fāṭima: "You are impure. Purify yourself first."        │
-│                                                            │
-│  'Umar purified himself, then read...                     │
-└────────────────────────────────────────────────────────────┘
-\`\`\`
+**At Fāṭima's House**
+
+*As he approached, he heard a recitation of the Quran. He entered violently.*
+
+**'Umar:** "What was that I heard?!"
+
+*Fāṭima hid the parchment. 'Umar struck her so hard that blood flowed from her face.*
+
+*Seeing the blood, something changed within him...*
+
+**'Umar:** "Give me that parchment."
+
+**Fāṭima:** "You are impure. Purify yourself first."
+
+*'Umar purified himself, then read...*
+
+</div>
 
 What he read was the beginning of **Sūrah Ṭā-Hā**:
 
