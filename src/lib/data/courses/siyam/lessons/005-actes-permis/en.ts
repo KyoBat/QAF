@@ -192,31 +192,21 @@ export const content = `
 
 ## ❓ Frequently Asked Questions
 
-**Q1: Can a fasting person swim?**
-A: Yes, with caution to prevent water entering the stomach.
-
-**Q2: Does toothpaste invalidate the fast?**
-A: No, on condition of not swallowing.
-
-**Q3: Can one use perfume?**
-A: Yes, smelling fragrance does not invalidate.
-
-**Q4: Do eye drops invalidate the fast?**
-A: No, according to the majority.
-
-**Q5: Can a cook taste food?**
-A: Yes, when needed, on condition of not swallowing.
+| Question | Answer |
+|----------|--------|
+| Can a fasting person swim? | Yes, with caution to prevent water entering the stomach |
+| Does toothpaste invalidate the fast? | No, on condition of not swallowing |
+| Can one use perfume? | Yes, smelling fragrance does not invalidate |
+| Do eye drops invalidate the fast? | No, according to the majority |
+| Can a cook taste food? | Yes, when needed, on condition of not swallowing |
 
 ---
 
 ## 🎯 Practical Action Plan
 
-### Benefiting from Permissibilities
-
-- [ ] **Use** siwak for cleanliness and Sunnah
-- [ ] **Bathe** to cool off when needed
-- [ ] **Don't exaggerate** in avoiding permissibles
-- [ ] **Ask** when uncertain
+| Phase | Steps |
+|-------|-------|
+| **Benefiting from Permissibilities** | Use siwak for cleanliness and Sunnah • Bathe to cool off when needed • Don't exaggerate in avoiding permissibles • Ask when uncertain |
 
 ---
 

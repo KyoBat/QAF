@@ -220,27 +220,20 @@ export const content = `# 📜 مَا يُبَاحُ لِلصَّائِمِ — 
 
 ## ❓ Questions Fréquentes (FAQ)
 
-**Q : Puis-je me brosser les dents avec du dentifrice ?**
-R : Oui, à condition de ne rien avaler. Il est préférable de le faire avant le Fajr ou d'utiliser le siwak.
-
-**Q : Puis-je nager à la piscine pendant le jeûne ?**
-R : Oui, c'est permis. Faites attention à ne pas avaler d'eau.
-
-**Q : Mon épouse peut-elle m'embrasser pendant le jeûne ?**
-R : Oui, si vous êtes tous les deux maîtres de vous-mêmes. C'est makruh si vous craignez de perdre le contrôle.
-
-**Q : Puis-je utiliser un inhalateur pour l'asthme ?**
-R : C'est une question de divergence. En cas de nécessité médicale, utilisez-le et rattrapez le jour par précaution.
+| Question | Réponse |
+|----------|--------|
+| Puis-je me brosser les dents avec du dentifrice ? | Oui, sans rien avaler. Préférable avant Fajr ou utiliser le siwak |
+| Puis-je nager à la piscine ? | Oui, avec attention à ne pas avaler d'eau |
+| Mon épouse peut-elle m'embrasser ? | Oui, si maîtres de vous-mêmes. Makruh si crainte de perdre contrôle |
+| Puis-je utiliser un inhalateur pour l'asthme ? | Divergence. En nécessité médicale, utilisez-le et rattrapez par précaution |
 
 ---
 
 ## 🎯 Action Concrète du Jour
 
-1. **Utilisez** le siwak régulièrement, c'est une sunna
-2. **N'hésitez pas** à vous rafraîchir si vous avez chaud
-3. **Goûtez** la nourriture si besoin, sans avaler
-4. **Maintenez** une bonne hygiène (parfum, soins)
-5. **Évitez** les situations qui risquent de compromettre votre jeûne
+| Phase | Actions |
+|-------|--------|
+| **Profiter des permis** | Utilisez le siwak (sunna) • Rafraîchissez-vous si chaud • Goûtez si besoin sans avaler • Maintenez bonne hygiène |
 
 ---
 

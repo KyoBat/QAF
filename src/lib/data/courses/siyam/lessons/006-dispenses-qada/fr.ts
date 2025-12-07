@@ -212,27 +212,20 @@ export const content = `# 📜 الرُّخَصُ وَالقَضَاءُ — Les
 
 ## ❓ Questions Fréquentes (FAQ)
 
-**Q : Je voyage pendant 3 jours, puis-je rompre tous les jours ?**
-R : Oui, le voyageur peut rompre chaque jour de voyage. Mais chez les Malikites, jeûner est préférable si pas de difficulté.
-
-**Q : Je suis enceinte de 7 mois, dois-je jeûner ?**
-R : Si vous ou votre médecin craignez pour votre santé ou celle du bébé, vous pouvez rompre et rattraper plus tard.
-
-**Q : J'ai 80 ans et je ne peux plus jeûner, que faire ?**
-R : Vous devez donner la fidya : nourrir un pauvre par jour (environ 750g de nourriture de base ou son équivalent).
-
-**Q : J'ai oublié de rattraper avant le Ramadan suivant, que faire ?**
-R : Vous devez faire le Qada après ce Ramadan et payer une fidya par jour pour le retard injustifié.
+| Question | Réponse |
+|----------|--------|
+| Je voyage pendant 3 jours, puis-je rompre tous les jours ? | Oui, le voyageur peut rompre chaque jour. Malikites : jeûner préférable si pas de difficulté |
+| Je suis enceinte de 7 mois, dois-je jeûner ? | Si crainte pour santé (vous ou bébé), vous pouvez rompre et rattraper plus tard |
+| J'ai 80 ans et ne peux plus jeûner, que faire ? | Fidya : nourrir un pauvre par jour (~750g de nourriture de base) |
+| J'ai oublié de rattraper avant le Ramadan suivant, que faire ? | Qada après ce Ramadan + fidya par jour pour retard injustifié |
 
 ---
 
 ## 🎯 Action Concrète du Jour
 
-1. **Comptez** précisément les jours à rattraper
-2. **Planifiez** le rattrapage dès maintenant
-3. **Consultez** un médecin si vous avez des doutes sur votre capacité
-4. **Calculez** la fidya pour un proche incapable de jeûner
-5. **Ne retardez pas** le rattrapage sans excuse valable
+| Phase | Actions |
+|-------|--------|
+| **Pour les dispensés** | Comptez les jours à rattraper • Planifiez le rattrapage • Consultez un médecin si doutes • Calculez la fidya • Ne retardez pas sans excuse |
 
 ---
 

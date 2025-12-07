@@ -195,27 +195,21 @@ La **fidya** est une compensation alimentaire due par celui qui ne peut pas jeû
 
 ## ❓ Questions Fréquentes (FAQ)
 
-**Q : Combien coûte la fidya aujourd'hui ?**
-R : Environ 5-7 € par jour (valeur d'un repas). Pour 30 jours : 150-210 €.
-
-**Q : Puis-je donner la fidya à un membre de ma famille pauvre ?**
-R : Oui, tant qu'il n'est pas à votre charge (que vous n'êtes pas obligé de nourrir).
-
-**Q : J'ai rompu 3 jours de Ramadan par rapport intime, combien de kaffara ?**
-R : 🟡 Chez les Malikites : 3 kaffara (une par jour). Chez les autres : 1 seule kaffara.
-
-**Q : Je suis trop pauvre pour payer la kaffara, que faire ?**
-R : En cas d'incapacité totale, la kaffara tombe, comme dans le hadith de l'homme.
+| Question | Réponse |
+|----------|--------|
+| Combien coûte la fidya aujourd'hui ? | Environ 5-7 € par jour (valeur d'un repas). Pour 30 jours : 150-210 € |
+| Puis-je donner la fidya à un membre de ma famille pauvre ? | Oui, tant qu'il n'est pas à votre charge |
+| J'ai rompu 3 jours par rapport intime, combien de kaffara ? | 🟡 Malikites : 3 kaffara (1/jour). Autres : 1 seule kaffara |
+| Je suis trop pauvre pour payer la kaffara, que faire ? | En incapacité totale, la kaffara tombe (hadith de l'homme) |
 
 ---
 
 ## 🎯 Action Concrète du Jour
 
-1. **Distinguez** entre kaffara (péché) et fidya (incapacité)
-2. **Calculez** le montant de la fidya si vous avez un proche concerné
-3. **Identifiez** les pauvres ou associations auxquels donner
-4. **Planifiez** le jeûne de 60 jours si vous devez la kaffara
-5. **Repentez-vous** sincèrement avant d'accomplir la kaffara
+| Phase | Actions |
+|-------|--------|
+| **Kaffara** | Repentez-vous sincèrement • Distinguez kaffara (péché) et fidya (incapacité) • Planifiez le jeûne de 60 jours |
+| **Fidya** | Calculez le montant • Identifiez pauvres ou associations • Donnez en nourriture de préférence |
 
 ---
 

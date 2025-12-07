@@ -140,9 +140,11 @@ export const content = `
 
 ### Methods of Payment
 
-- Giving food directly
-- Delegating to charitable organizations
-- Paying cash value (according to those who permit)
+| Method | Note |
+|--------|------|
+| Giving food directly | Primary method |
+| Delegating to charitable organizations | Permissible |
+| Paying cash value | According to those who permit (Hanafis) |
 
 ---
 
@@ -158,31 +160,20 @@ export const content = `
 
 ## ❓ Frequently Asked Questions
 
-**Q1: Is expiation repeated for intercourse on different days?**
-A: Yes, each day violated requires its own expiation.
-
-**Q2: Can the two months be fasted by the Hijri calendar?**
-A: Yes, and they must be consecutive. If broken without excuse, restart.
-
-**Q3: Can one pay cash instead of feeding?**
-A: According to Hanafis yes, according to the majority feeding takes precedence.
+| Question | Answer |
+|----------|--------|
+| Is expiation repeated for intercourse on different days? | Yes, each day violated requires its own expiation |
+| Can the two months be fasted by the Hijri calendar? | Yes, and must be consecutive. If broken without excuse, restart |
+| Can one pay cash instead of feeding? | Hanafis: yes. Majority: feeding takes precedence |
 
 ---
 
 ## 🎯 Practical Action Plan
 
-### For Those Who Must Offer Expiation
-
-- [ ] **Repent** and seek forgiveness
-- [ ] **Determine** the type of expiation you can do
-- [ ] **Hasten** to fulfill it
-- [ ] **Make up** the day that was invalidated
-
-### For Those Who Must Pay Fidya
-
-- [ ] **Count** the days
-- [ ] **Calculate** the required amount
-- [ ] **Give** to those entitled
+| Phase | Steps |
+|-------|-------|
+| **For Expiation** | Repent and seek forgiveness • Determine type you can do • Hasten to fulfill • Make up invalidated day |
+| **For Fidya** | Count the days • Calculate required amount • Give to those entitled |
 
 ---
 

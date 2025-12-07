@@ -169,9 +169,11 @@ export const content = `
 
 ### Calculating Fidya
 
-- **Amount:** One mudd per day (approximately 750 grams)
-- **Alternative:** Its value in cash to the poor
-- **Contemporary estimate:** 5-10 euros per day
+| Aspect | Detail |
+|--------|--------|
+| **Amount** | One mudd per day (~750 grams) |
+| **Alternative** | Its value in cash to the poor |
+| **Contemporary estimate** | 5-10 euros per day |
 
 ---
 
@@ -188,28 +190,20 @@ export const content = `
 
 ## ❓ Frequently Asked Questions
 
-**Q1: Must making up be done immediately after Ramadan?**
-A: Immediacy is not required, but hastening is recommended and it must be before next Ramadan.
-
-**Q2: Is a menstruating woman sinful for not fasting?**
-A: No, fasting is actually prohibited for her, and only making up is required.
-
-**Q3: What does a chronically ill person do?**
-A: Breaks fast and pays fidya for each day.
-
-**Q4: Can fidya be given to one person?**
-A: Yes, all the fidya may be given to one poor person.
+| Question | Answer |
+|----------|--------|
+| Must making up be done immediately after Ramadan? | Immediacy not required, but hastening recommended. Must be before next Ramadan |
+| Is a menstruating woman sinful for not fasting? | No, fasting is prohibited for her. Only making up required |
+| What does a chronically ill person do? | Breaks fast and pays fidya for each day |
+| Can fidya be given to one person? | Yes, all fidya may be given to one poor person |
 
 ---
 
 ## 🎯 Practical Action Plan
 
-### For Those with Excuses
-
-- [ ] **Know** the ruling for your specific excuse
-- [ ] **Count** the missed days
-- [ ] **Hasten** to make up after excuse ends
-- [ ] **Pay** fidya if required
+| Phase | Steps |
+|-------|-------|
+| **For Those with Excuses** | Know the ruling for your excuse • Count missed days • Hasten to make up after excuse ends • Pay fidya if required |
 
 ---
 
