@@ -394,13 +394,41 @@
   @apply mb-2 last:mb-0;
 }
 
-/* Scene box for dialogues - more prominent */
+/* Scene box for dialogues - immersive storytelling style */
 .prose-content .scene-box {
-  @apply bg-muted/50 border-r-4 border-primary rounded-lg p-5 my-6 not-italic;
+  @apply relative bg-gradient-to-br from-primary/5 via-background to-muted/30 
+         border-r-4 border-primary rounded-xl p-6 my-8 not-italic
+         shadow-sm hover:shadow-md transition-shadow duration-300;
+}
+
+.prose-content .scene-box::before {
+  content: '';
+  @apply absolute top-0 right-0 w-16 h-16 opacity-10;
+  background: radial-gradient(circle at top right, hsl(var(--primary)), transparent 70%);
 }
 
 .prose-content .scene-box p {
-  @apply mb-3 last:mb-0 text-foreground;
+  @apply mb-3 last:mb-0 text-foreground leading-relaxed;
+}
+
+/* Scene box title styling */
+.prose-content .scene-box strong:first-child {
+  @apply text-primary text-lg block mb-4 pb-2 border-b border-primary/20;
+}
+
+/* Dialogue styling within scene-box */
+.prose-content .scene-box em {
+  @apply text-foreground/90 not-italic;
+}
+
+/* RTL support for Arabic scene-box */
+[dir="rtl"] .prose-content .scene-box {
+  @apply border-r-0 border-l-4;
+}
+
+[dir="rtl"] .prose-content .scene-box::before {
+  @apply right-auto left-0;
+  background: radial-gradient(circle at top left, hsl(var(--primary)), transparent 70%);
 }
 
 .prose-content code {

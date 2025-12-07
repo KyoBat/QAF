@@ -389,11 +389,15 @@ Elle murmura à l'oreille de son père. Il sourit.
 
 ### Rendu Visuel
 
-Le `.scene-box` produit :
-- 🎨 Fond légèrement coloré (`bg-muted/50`)
-- 📐 Bordure latérale colorée (`border-r-4 border-primary`)
-- 🔲 Coins arrondis (`rounded-lg`)
-- 📏 Espacement généreux (`p-4 my-6`)
+Le `.scene-box` produit un effet immersif :
+- 🎨 **Fond dégradé** : `from-primary/5 via-background to-muted/30`
+- 📐 **Bordure latérale** : `border-r-4 border-primary` (gauche en RTL)
+- 🔲 **Coins arrondis XL** : `rounded-xl`
+- 📏 **Espacement généreux** : `p-6 my-8`
+- ✨ **Effet subtil** : Halo radial en haut à droite
+- 🖱️ **Hover** : Ombre légère au survol
+- 📝 **Titre stylé** : Première ligne en couleur primaire avec bordure
+- 🌐 **Support RTL** : Bordure à gauche pour l'arabe
 
 ### Quand Utiliser Scene-Box ?
 
