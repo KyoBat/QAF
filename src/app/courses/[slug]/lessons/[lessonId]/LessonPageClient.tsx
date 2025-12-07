@@ -100,7 +100,7 @@ export function LessonPageClient({ data }: LessonPageClientProps) {
 
   // Lessons navigation component - mémorisé avec useCallback
   const LessonsNav = useCallback(() => (
-    <nav className="space-y-1 max-h-[60vh] lg:max-h-96 overflow-y-auto">
+    <nav className="space-y-1 max-h-[50vh] lg:max-h-[calc(100vh-20rem)] overflow-y-auto scrollbar-thin">
       {course.lessons.map((l, index) => {
         const lessonTitle = l.title[locale as keyof typeof l.title] || l.title.fr
         const isActive = l.id === lesson.id
