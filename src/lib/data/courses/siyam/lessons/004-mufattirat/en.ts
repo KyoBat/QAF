@@ -1,278 +1,276 @@
-/**
- * Siyam - Leçon 004: Les Actes qui Annulent le Jeûne (Al-Mufattirat)
- * Contenu en Anglais
- */
+export const content = `
+# 📜 الْمُفَطِّرَات — Nullifiers of Fasting
 
-export const content = `# Acts that Nullify Fasting (المفطرات)
-
-## Introduction
-
-Knowing what invalidates fasting is essential to preserve one's worship. Allah تعالى says:
-
-> **﴿ ثُمَّ أَتِمُّوا الصِّيَامَ إِلَى اللَّيْلِ ۚ وَلَا تُبَاشِرُوهُنَّ وَأَنتُمْ عَاكِفُونَ فِي الْمَسَاجِدِ ﴾**
->
-> *"Then complete the fast until night. And do not have relations with them while you are in spiritual retreat in the mosques."* [Al-Baqara: 187]
-
-The Prophet ﷺ said in a Hadith Qudsi that Allah تعالى said:
-
-> **« يَتْرُكُ طَعَامَهُ وَشَرَابَهُ وَشَهْوَتَهُ مِنْ أَجْلِي »**
->
-> *"He (the fasting person) leaves his food, drink, and desire for My sake."*
-> — [Al-Bukhari (1904) and Muslim (1151)]
+> "Whoever forgets while fasting and eats or drinks, let him complete his fast, for it is Allah who fed him and gave him drink."
+> — Narrated by Al-Bukhari and Muslim
 
 ---
 
-## Classification of Nullifiers
+## 📜 Foundational Texts
 
-Nullifiers of fasting are divided into two categories:
+### Quran
 
-| Category | Consequence | Examples |
-|----------|-------------|----------|
-| **Nullifiers requiring Qada only** | Make-up | Eating forgetfully then continuing after remembering |
-| **Nullifiers requiring Qada + Kaffara** | Make-up + Expiation | Voluntary intercourse (under conditions) |
+> ﴿ أُحِلَّ لَكُمْ لَيْلَةَ الصِّيَامِ الرَّفَثُ إِلَىٰ نِسَائِكُمْ ﴾
+> *"It has been made permissible for you to approach your wives during the night of fasting."*
+> — Surah Al-Baqara, 2:187
 
----
+> ﴿ فَالْآنَ بَاشِرُوهُنَّ وَابْتَغُوا مَا كَتَبَ اللَّهُ لَكُمْ ۚ وَكُلُوا وَاشْرَبُوا حَتَّىٰ يَتَبَيَّنَ لَكُمُ الْخَيْطُ الْأَبْيَضُ مِنَ الْخَيْطِ الْأَسْوَدِ مِنَ الْفَجْرِ ﴾
+> *"So now have relations with them and seek what Allah has decreed for you. And eat and drink until the white thread of dawn becomes distinct from the black thread."*
+> — Surah Al-Baqara, 2:187
 
-## 1. Eating and Drinking Voluntarily (الأكل والشرب عمداً)
+### Prophetic Hadiths
 
-### 1.1 The General Rule
+> Abu Hurayra (may Allah be pleased with him) reported that the Messenger of Allah ﷺ said: "Whoever forgets while fasting and eats or drinks, let him complete his fast, for it is Allah who fed him and gave him drink."
+> — Al-Bukhari (1933) and Muslim (1155)
 
-Any voluntary introduction of food or drink into the body through the normal passage (mouth) nullifies the fast.
+> Abu Hurayra (may Allah be pleased with him) reported that the Messenger of Allah ﷺ said: "Whoever is overcome by vomiting does not have to make up the fast, but whoever vomits deliberately must make it up."
+> — Abu Dawud and Al-Tirmidhi
 
-### 1.2 Conditions for Nullification
-
-For the fast to be nullified, there must be:
-
-1. **Intention** (القصد): The act is voluntary
-2. **Awareness** (التذكر): The person knows they are fasting
-3. **Absence of coercion** (عدم الإكراه): No force majeure
-
-### 1.3 The Case of Forgetfulness
-
-The Prophet ﷺ said:
-
-> **« مَنْ نَسِيَ وَهُوَ صَائِمٌ فَأَكَلَ أَوْ شَرِبَ فَلْيُتِمَّ صَوْمَهُ، فَإِنَّمَا أَطْعَمَهُ اللَّهُ وَسَقَاهُ »**
->
-> *"Whoever forgets while fasting and eats or drinks, let him complete his fast, for it is Allah who fed and gave him drink."*
-> — [Al-Bukhari (1933) and Muslim (1155)]
-
-| Situation | Fasting status |
-|-----------|----------------|
-| Eating/drinking forgetfully | ✅ Valid - continue |
-| Eating/drinking voluntarily | ❌ Nullified - Qada |
-| Eating/drinking under coercion | ✅ Valid according to predominant view |
+> Abu Hurayra (may Allah be pleased with him) reported: A man came to the Prophet ﷺ and said: "I am ruined, O Messenger of Allah!" He said: "What has ruined you?" He said: "I had intercourse with my wife in Ramadan." He said: "Can you free a slave?"...
+> — Al-Bukhari (1936) and Muslim (1111)
 
 ---
 
-## 2. Sexual Intercourse (الجماع)
+## 🎓 Scholarly Statements
 
-### 2.1 Nullification
+### Imam Malik ibn Anas (d. 179 AH)
+*"Nullifiers are of two types: what invalidates the fast and requires only makeup, and what invalidates it and requires both makeup and expiation (kaffara)."*
+— Al-Muwatta'
 
-Sexual intercourse during the day of Ramadan nullifies the fast and requires:
-- **Qada** (make-up)
-- **Kaffara** (expiation) for Ramadan fasting
+### Ibn Al-Qasim (d. 191 AH)
+*"Malik said: Whoever eats or drinks forgetfully, his fast is complete and he has no makeup. Whoever eats deliberately must make up."*
+— Al-Mudawwana
 
-### 2.2 The Kaffara (الكفارة)
+### Ibn Rushd Al-Jadd (d. 520 AH)
+*"Nullifiers either reach the stomach through an open passage or exit it intentionally. Sexual intercourse is a nullifier by consensus and requires expiation."*
+— Al-Muqaddimat Al-Mumahhadat
 
-The evidence is the hadith of the man who came to the Prophet ﷺ:
+### Al-Qadi 'Iyad (d. 544 AH)
+*"The principle of nullifiers: what reaches the stomach through a natural passage deliberately while remembering the fast. The forgetful one is excused by the text."*
+— Ikmal Al-Mu'lim
 
-> **« هَلَكْتُ يَا رَسُولَ اللَّهِ! قَالَ: مَا أَهْلَكَكَ؟ قَالَ: وَقَعْتُ عَلَى امْرَأَتِي فِي رَمَضَانَ... »**
->
-> *"I am ruined, O Messenger of Allah! He said: What ruined you? He said: I had relations with my wife during Ramadan..."*
-> — [Al-Bukhari (1936) and Muslim (1111)]
+### Ibn Juzayy Al-Kalbi (d. 741 AH)
+*"Nullifiers are of four types: eating and drinking, sexual intercourse, ejaculation, and menstruation/post-natal bleeding. Some require expiation and some only makeup."*
+— Al-Qawanin Al-Fiqhiyya
 
-### 2.3 Order of Kaffara
-
-| Order | Expiation | Condition |
-|-------|-----------|-----------|
-| 1 | Free a slave | If possible |
-| 2 | Fast 2 consecutive months | If unable to free |
-| 3 | Feed 60 poor people | If unable to fast |
-
-### 2.4 Differences on Kaffara
-
-| School | Kaffara obligatory for |
-|--------|------------------------|
-| 🟡 **Maliki** | Intercourse only |
-| 🔵 **Hanafi** | Eating, drinking, and intercourse |
-| 🟢 **Shafi'i** | Intercourse only |
-| 🔴 **Hanbali** | Intercourse only |
+### Shaykh Khalil Al-Maliki (d. 776 AH)
+*"The fast is invalidated by anything reaching the throat or stomach through a nullifier, even if by mistake, unlike forgetfulness."*
+— Mukhtasar Khalil
 
 ---
 
-## 3. Provoked Ejaculation (الاستمناء)
+## 🔍 Linguistic Analysis
 
-### 3.1 Rule
-
-Voluntarily provoked ejaculation (by hand or otherwise) nullifies the fast.
-
-### 3.2 Differences
-
-| School | Ruling | Consequence |
-|--------|--------|-------------|
-| 🟡 **Maliki** | Nullifies fast | Qada only |
-| 🔵 **Hanafi** | Nullifies fast | Qada only |
-| 🟢 **Shafi'i** | Nullifies fast | Qada only |
-| 🔴 **Hanbali** | Nullifies fast | Qada only |
-
-### 3.3 Madhi (المذي)
-
-**Madhi** (prostatic fluid):
-
-| School | If the fasting person causes its release |
-|--------|------------------------------------------|
-| 🟡 **Maliki** | Nullifies fast |
-| Other schools | Does not nullify according to predominant view |
+| Term | Arabic | Root | Literal Meaning | Technical Meaning |
+|------|--------|------|-----------------|-------------------|
+| Mufattir | مُفَطِّر | ف-ط-ر | What opens something | What invalidates fasting |
+| Jawf | جَوْف | ج-و-ف | Inside of something | Stomach and intestines |
+| Qay' | قَيْء | ق-ي-أ | Expelling stomach contents | Vomiting |
+| Nisyan | نِسْيَان | ن-س-ي | Loss of memory | Doing something unintentionally |
+| 'Amd | عَمْد | ع-م-د | Intention | Doing something knowingly |
+| Kaffara | كَفَّارَة | ك-ف-ر | Covering | What expiates and covers sin |
 
 ---
 
-## 4. Provoked Vomiting (الاستقاءة)
+## 📚 Detailed Explanation
 
-### 4.1 The Rule
+### Types of Nullifiers
 
-The Prophet ﷺ said:
+#### Nullifiers Requiring Only Makeup (Qada)
 
-> **« مَنْ ذَرَعَهُ الْقَيْءُ فَلَيْسَ عَلَيْهِ قَضَاءٌ، وَمَنِ اسْتَقَاءَ عَمْدًا فَلْيَقْضِ »**
->
-> *"Whoever is overcome by vomiting does not have to make up, but whoever vomits deliberately must make up."*
-> — [Abu Dawud (2380), At-Tirmidhi - Hasan]
+| Nullifier | Condition | Ruling |
+|-----------|-----------|--------|
+| **Deliberate eating** | While remembering | Makeup |
+| **Deliberate drinking** | While remembering | Makeup |
+| **Deliberate vomiting** | Intentionally | Makeup |
+| **Enema** | Reaching the stomach | Makeup |
+| **Swallowing food between teeth** | If substantial | Makeup |
 
-### 4.2 Summary Table
+#### Nullifiers Requiring Makeup and Expiation
 
-| Type of vomiting | Fasting status |
-|------------------|----------------|
-| Involuntary (غلبه القيء) | ✅ Valid |
-| Voluntary (استقاء) | ❌ Nullified - Qada |
-| Involuntary then voluntarily swallowed | ❌ Nullified - Qada |
+| Nullifier | Expiation |
+|-----------|-----------|
+| **Deliberate intercourse** | Freeing a slave; if unable, fasting two months; if unable, feeding sixty poor people |
+| **Deliberate eating or drinking (Maliki view)** | Expiation with makeup |
 
----
+### What Does Not Invalidate Fasting
 
-## 5. Menstruation and Post-natal Bleeding (الحيض والنفاس)
+| Action | Ruling | Reason |
+|--------|--------|--------|
+| **Eating forgetfully** | Does not invalidate | "For it is Allah who fed him" |
+| **Drinking forgetfully** | Does not invalidate | Excused due to forgetfulness |
+| **Unintentional vomiting** | Does not invalidate | "Whoever is overcome by vomiting has no makeup" |
+| **Swallowing saliva** | Does not invalidate | Cannot be avoided |
+| **Intramuscular injection** | Does not invalidate | Does not reach the stomach |
+| **Road dust** | Does not invalidate | Unintentional |
+| **Wet dream** | Does not invalidate | Involuntary |
 
-### 5.1 Rule
+### Special Rulings
 
-The onset of menstruation or post-natal bleeding, even just before Maghrib, nullifies that day's fast.
+**Kissing for the fasting person:**
+- If one controls oneself: disliked
+- If one cannot control oneself: prohibited as it leads to breaking fast
 
-### 5.2 Evidence
+**Rinsing mouth and nose:**
+- Exaggeration in them is disliked
+- If water reaches stomach unintentionally: difference of opinion (safer to make up)
 
-'Aisha رضي الله عنها said:
-
-> **« كُنَّا نُؤْمَرُ بِقَضَاءِ الصَّوْمِ وَلَا نُؤْمَرُ بِقَضَاءِ الصَّلاَةِ »**
->
-> *"We were ordered to make up the fasts but not to make up the prayers."*
-> — [Al-Bukhari (321) and Muslim (335)]
-
-### 5.3 Practical Rules
-
-| Situation | Ruling |
-|-----------|--------|
-| Menses start before Maghrib | Fast nullified - Qada |
-| Menses end after Fajr | Cannot fast that day - Qada |
-| Menses end before Fajr | Must fast (even without ghusl) |
-
----
-
-## 6. Apostasy (الردة)
-
-Apostasy (leaving Islam) nullifies the fast immediately. The person must:
-- Repent
-- Make up the day
+**Siwak (tooth stick):**
+- Permissible throughout the day according to Malikis
+- Disliked after noon according to some scholars
 
 ---
 
-## 7. What Does NOT Nullify Fasting (ما لا يفطر)
+## ⚖️ Differences Between Schools
 
-### 7.1 List of Acts that Don't Nullify
+### Expiation for Deliberate Eating and Drinking
 
-| Act | Ruling | Note |
-|-----|--------|------|
-| **Swallowing saliva** | ✅ Does not nullify | Natural and unavoidable |
-| **Waking up in janaba** | ✅ Does not nullify | Make ghusl and continue |
-| **Wet dream (ihtilam)** | ✅ Does not nullify | Involuntary |
-| **Kissing (for one who controls himself)** | ✅ Does not nullify | Makruh if risky |
-| **Tasting food (without swallowing)** | ✅ Does not nullify | Legitimate need |
-| **Brushing teeth (siwak)** | ✅ Does not nullify | Sunnah |
-| **Non-nutritive injection** | ✅ Does not nullify | Predominant view |
-| **Blood donation** | ✅ Does not nullify | Predominant view |
-| **Perfume and incense** | ✅ Does not nullify | Avoid inhaling smoke |
+| School | Ruling |
+|--------|--------|
+| 🟢 Hanafi | No expiation, makeup only |
+| 🟡 Maliki | Expiation with makeup |
+| 🔵 Shafi'i | No expiation, makeup only |
+| 🟣 Hanbali | No expiation, makeup only |
 
-### 7.2 Maliki Rule on Kissing 🟡
+### Cupping (Hijama)
 
-| Person | Rule |
-|--------|------|
-| Young person fearing loss of control | Makruh |
-| Elderly or self-controlled person | Permissible |
+| School | Ruling |
+|--------|--------|
+| 🟢 Hanafi | Does not invalidate |
+| 🟡 Maliki | Does not invalidate (according to the well-known view) |
+| 🔵 Shafi'i | Does not invalidate |
+| 🟣 Hanbali | Invalidates ("The cupper and the one cupped have broken their fast") |
 
-The Prophet ﷺ used to kiss his wives while fasting:
+### Eye Drops, Ear Drops, and Inhalers
 
-> **« كَانَ رَسُولُ اللَّهِ ﷺ يُقَبِّلُ وَهُوَ صَائِمٌ، وَيُبَاشِرُ وَهُوَ صَائِمٌ، وَلَكِنَّهُ أَمْلَكُكُمْ لِإِرْبِهِ »**
->
-> *"The Messenger of Allah ﷺ used to kiss and have contact with his wives while fasting, but he was the most in control of his desires among you."*
-> — [Al-Bukhari (1927) and Muslim (1106)]
+| School | Eye Drops | Ear Drops | Inhaler |
+|--------|-----------|-----------|---------|
+| 🟢 Hanafi | Do not invalidate | Do not invalidate | Does not invalidate |
+| 🟡 Maliki | Do not invalidate | Difference | Difference |
+| 🔵 Shafi'i | Do not invalidate | Do not invalidate | Difference |
+| 🟣 Hanbali | Invalidate | Invalidate | Invalidates |
 
 ---
 
-## 8. Contemporary Issues
+## 🌍 Contemporary Applications
 
-### 8.1 Medications
+### Medical Issues
 
+**1. Injections and Needles:**
 | Type | Ruling |
 |------|--------|
-| **Oral tablets** | ❌ Nullify fast |
-| **Intramuscular injections** | ✅ Do not nullify |
-| **Nutritive injections (glucose)** | ❌ Nullify fast |
-| **Mouth spray (asthma)** | ⚠️ Difference - avoid if possible |
-| **Eye drops** | ✅ Do not nullify (predominant view) |
-| **Ear drops** | ✅ Do not nullify |
-| **Suppositories** | ⚠️ Difference - Maliki view: do not nullify |
+| Intramuscular injection | Does not invalidate |
+| Intravenous injection | Does not invalidate (if not nutritional) |
+| Nutritional IV fluids | Invalidates |
+| Insulin | Does not invalidate |
 
-### 8.2 Medical Treatments
+**2. Medications:**
+| Type | Ruling |
+|------|--------|
+| Oral pills | Invalidate |
+| Suppositories | Difference (preponderant: does not invalidate) |
+| Inhaler | Difference (preponderant: does not invalidate if for breathing) |
 
-| Treatment | Ruling |
-|-----------|--------|
-| **Blood draw** | ✅ Does not nullify |
-| **Dialysis** | ❌ Nullifies (if nutrients added) |
-| **Endoscopy with lubrication** | ⚠️ Difference |
-| **Local anesthesia** | ✅ Does not nullify |
+**3. Medical Examinations:**
+| Type | Ruling |
+|------|--------|
+| Blood test | Does not invalidate |
+| Endoscopy | If no substances enter: does not invalidate |
+| X-rays | Do not invalidate |
 
----
+### Modern Technologies
 
-## Summary Table of Nullifiers
-
-| Nullifier | Qada | Kaffara | Condition |
-|-----------|------|---------|-----------|
-| Eating/drinking voluntarily | ✅ | ❌ | Except for Hanafis |
-| Sexual intercourse | ✅ | ✅ | Ramadan only |
-| Provoked ejaculation | ✅ | ❌ | All schools |
-| Provoked vomiting | ✅ | ❌ | Voluntary |
-| Menstruation/Post-natal bleeding | ✅ | ❌ | Even for a moment |
-| Apostasy | ✅ | ❌ | After repentance |
+- **Toothpaste:** Does not invalidate if not swallowed
+- **Mouthwash:** Does not invalidate if not swallowed
+- **Lipstick:** Does not invalidate
 
 ---
 
-## Important Rules to Remember
+## ⚠️ Common Mistakes
 
-1. **Forgetfulness is pardoned**: Eating forgetfully does not nullify fast
-2. **Ignorance**: Person ignorant of rules - difference on make-up
-3. **Coercion**: One who is forced - their fast is valid
-4. **Mistake**: Thinking Fajr hadn't started - difference
-
----
-
-## Sources
-
-- **The Holy Quran** - Surah Al-Baqara
-- **Sahih Al-Bukhari** - Kitab As-Sawm
-- **Sahih Muslim** - Kitab As-Siyam
-- **Sunan Abu Dawud** - Kitab As-Sawm
-- **Al-Mudawwana** - Imam Malik
-- **Ash-Sharh Al-Kabir** - Ad-Dardir
-- **Fatawa Al-Lajnah Ad-Da'imah** - Saudi Arabia
-- **Majma' Al-Fiqh Al-Islami** - Contemporary Decisions
+| Mistake | Correction |
+|---------|------------|
+| Breaking fast upon eating forgetfully | The forgetful one completes the fast with no makeup |
+| Thinking unintentional vomiting invalidates | "Whoever is overcome by vomiting has no makeup" |
+| Avoiding siwak throughout the day | Siwak is permissible and does not invalidate |
+| Refraining from swallowing saliva | Swallowing saliva does not invalidate |
+| Thinking intramuscular injection invalidates | Does not invalidate as it doesn't reach stomach |
+| Making up for wet dream | Wet dream does not invalidate as it is involuntary |
 
 ---
 
-**والله أعلم**
+## ❓ Frequently Asked Questions
 
-*May Allah preserve us from what nullifies our fasting.*
-`
+**Q1: I ate forgetfully, should I complete my fast?**
+A: Yes, complete your fast with no makeup required. The Prophet ﷺ said: "For it is Allah who fed him and gave him drink."
+
+**Q2: Should I remind someone who forgot they're fasting?**
+A: Yes, reminding them is recommended as sincere advice.
+
+**Q3: I accidentally swallowed water while rinsing my mouth, what's the ruling?**
+A: The safer view is to make up, though some say no makeup due to lack of intention.
+
+**Q4: Does an asthma inhaler invalidate the fast?**
+A: Most contemporary scholars say no, as it goes to the lungs not the stomach.
+
+**Q5: What's the difference between overwhelming and deliberate vomiting?**
+A: Overwhelming: exits involuntarily and does not invalidate. Deliberate: extracted intentionally and invalidates.
+
+---
+
+## 🎯 Practical Action Plan
+
+### Preventing Nullifiers
+
+- [ ] **Be careful** not to eat or drink after Fajr
+- [ ] **Avoid** exaggerating in mouth rinsing
+- [ ] **Know** the difference between what invalidates and what doesn't
+- [ ] **Consult** scholars when uncertain
+
+### When Falling into a Nullifier
+
+- [ ] **Stop** the action immediately
+- [ ] **Repent** and seek forgiveness
+- [ ] **Determine** if makeup or expiation is required
+- [ ] **Continue** abstaining for the rest of the day
+
+---
+
+## 📝 Supplication
+
+<div style="text-align: center; font-size: 1.3em; margin: 20px 0;">
+
+**دُعَاءُ مَنْ وَقَعَ فِي مُفَطِّر**
+
+اللَّهُمَّ إِنِّي أَسْتَغْفِرُكَ مِمَّا أَخْطَأْتُ
+
+وَأَتُوبُ إِلَيْكَ مِنْ تَقْصِيرِي
+
+اللَّهُمَّ أَعِنِّي عَلَى إِتْمَامِ صِيَامِي
+
+وَتَقَبَّلْ مِنِّي قَضَائِي
+
+</div>
+
+*O Allah, I seek Your forgiveness for my mistakes.*
+*I repent to You from my shortcomings.*
+*O Allah, help me complete my fast and accept my makeup.*
+
+---
+
+## 📚 Sources
+
+- **Al-Muwatta'** — Imam Malik ibn Anas
+- **Al-Mudawwana Al-Kubra** — Imam Sahnoun
+- **Al-Qawanin Al-Fiqhiyya** — Ibn Juzayy Al-Kalbi
+- **Mukhtasar Khalil** — Khalil ibn Ishaq Al-Maliki
+- **Al-Muqaddimat Al-Mumahhadat** — Ibn Rushd Al-Jadd
+- **Ikmal Al-Mu'lim** — Al-Qadi 'Iyad
+- **Sahih Al-Bukhari** — Imam Al-Bukhari
+- **Sahih Muslim** — Imam Muslim
+
+---
+
+**وَاللهُ أَعْلَم**
+*And Allah knows best*
+`;

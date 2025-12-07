@@ -1,216 +1,245 @@
-/**
- * Siyam - Lesson 006: Exemptions and Making Up Fasts
- * English Content
- */
+export const content = `
+# 📜 الرُّخَصُ وَالْقَضَاء — Dispensations and Making Up Fasts
 
-export const content = `# Exemptions and Making Up Fasts (Al-Qada)
-
-Allah ﷻ has legislated fasting while granting exemptions to those who cannot observe it temporarily or permanently, manifesting His mercy towards His servants.
-
-> **Allah ﷻ says:** "And whoever is ill or on a journey, then an equal number of other days. Allah intends for you ease and does not intend for you hardship."
-> — *Surah Al-Baqara, 2:185*
+> "Allah loves that His dispensations be taken just as He loves that His obligations be fulfilled."
+> — Narrated by Ahmad and Ibn Hibban
 
 ---
 
-## 1. Categories of Exempted Persons
+## 📜 Foundational Texts
 
-### 1.1 Exemption with Obligation to Make Up (Qada)
+### Quran
 
-These individuals must make up missed days later:
+> ﴿ وَمَن كَانَ مَرِيضًا أَوْ عَلَىٰ سَفَرٍ فَعِدَّةٌ مِّنْ أَيَّامٍ أُخَرَ ﴾
+> *"And whoever is ill or on a journey, then an equal number of other days."*
+> — Surah Al-Baqara, 2:185
 
-| Category | Description | Evidence |
-|----------|-------------|----------|
-| **The traveler** | Minimum distance for shortening prayer | Quran 2:185 |
-| **The sick person** | Temporary illness with hope of recovery | Quran 2:185 |
-| **Menstruating woman** | During menstrual period | Hadith of Aisha |
-| **Postpartum woman** | After childbirth (nifas) | Consensus |
-| **Pregnant woman** | If she fears for herself or baby | Hadith of Ibn Abbas |
-| **Breastfeeding woman** | If she fears for herself or baby | Hadith of Ibn Abbas |
+> ﴿ يُرِيدُ اللَّهُ بِكُمُ الْيُسْرَ وَلَا يُرِيدُ بِكُمُ الْعُسْرَ ﴾
+> *"Allah intends for you ease and does not intend for you hardship."*
+> — Surah Al-Baqara, 2:185
 
-### 1.2 Exemption with Fidya Only (No Qada)
+> ﴿ وَعَلَى الَّذِينَ يُطِيقُونَهُ فِدْيَةٌ طَعَامُ مِسْكِينٍ ﴾
+> *"And upon those who are able [to fast, but with hardship] - a ransom of feeding a poor person."*
+> — Surah Al-Baqara, 2:184
 
-These individuals cannot fast and will never make it up:
+### Prophetic Hadiths
 
-- **Very elderly person** unable to fast
-- **Chronically ill person** with no hope of recovery
-- **Person with permanent medical condition** (severe diabetes, etc.)
+> 'Aisha (may Allah be pleased with her) said: "We would menstruate during the time of the Messenger of Allah ﷺ, and we were commanded to make up the fasts but not the prayers."
+> — Al-Bukhari and Muslim
 
----
-
-## 2. Travel (As-Safar)
-
-### 2.1 Conditions for Travel Exemption
-
-| Condition | Maliki School 🟡 | Other Schools |
-|-----------|------------------|---------------|
-| **Minimum distance** | 4 burud (≈ 81 km / 50 miles) | Varies |
-| **Type of travel** | Must be permissible | Permissible (majority) |
-| **Intended stay** | Less than 4 days | Varies |
-
-### 2.2 Better Option: Fast or Break?
-
-> **Hamza ibn 'Amr Al-Aslami رضي الله عنه** asked the Prophet ﷺ about fasting while traveling, and he replied: "If you wish, fast, and if you wish, break your fast."
-> — *Reported by Al-Bukhari (1943) and Muslim (1121)*
-
-| Position | Opinion |
-|----------|---------|
-| **Maliki 🟡** | Fasting is preferable if no difficulty |
-| **Hanafi** | Fasting is preferable |
-| **Shafi'i** | Fasting is preferable if no harm |
-| **Hanbali** | Breaking fast is preferable (taking the concession) |
-
-### 2.3 Special Cases
-
-- **One who begins journey during the day**: 🟡 Malikis say he must continue fasting that day
-- **One who arrives at destination**: Recommended to continue fasting if possible
-- **Air travel**: Modern rulings apply based on distance traveled
+> Anas (may Allah be pleased with him) said: "The Messenger of Allah ﷺ permitted the pregnant and nursing woman to break their fast in Ramadan."
+> — Al-Tirmidhi
 
 ---
 
-## 3. Illness (Al-Marad)
+## 🎓 Scholarly Statements
 
-### 3.1 Types of Illness Exempting from Fasting
+### Imam Malik ibn Anas (d. 179 AH)
+*"The dispensation is for the sick and traveler with obligation to make up, and fidya is for the elderly who cannot fast."*
+— Al-Muwatta'
 
-1. **Illness worsened by fasting**: even if minor
-2. **Illness with delayed recovery**: if fasting slows healing
-3. **Illness causing unbearable difficulty**: severe pain
+### Ibn Al-Qasim (d. 191 AH)
+*"Malik said: The menstruating woman makes up the fast but not the prayer, and the traveler may choose between fasting and breaking."*
+— Al-Mudawwana
 
-> **The Prophet ﷺ said:** "Allah loves that His concessions be taken just as He dislikes that His prohibitions be committed."
-> — *Reported by Ahmad and Ibn Hibban, authenticated by Al-Albani*
+### Ibn Rushd Al-Jadd (d. 520 AH)
+*"Excuses permitting breaking fast: illness, travel, menstruation, post-natal bleeding, pregnancy, breastfeeding, and old age."*
+— Al-Muqaddimat Al-Mumahhadat
 
-### 3.2 Medical Opinion
+### Al-Qadi 'Iyad (d. 544 AH)
+*"Making up is obligatory upon one who breaks fast with a temporary excuse, and fidya upon one who can never make up."*
+— Ikmal Al-Mu'lim
 
-| Situation | Ruling |
-|-----------|--------|
-| Trustworthy Muslim doctor | Their opinion is considered |
-| Competent non-Muslim doctor | Accepted if no Muslim available |
-| Self-assessment | Permitted if person knows their condition |
+### Ibn Juzayy Al-Kalbi (d. 741 AH)
+*"Those with excuses are of two types: those who must only make up, and those who must pay fidya only or with making up."*
+— Al-Qawanin Al-Fiqhiyya
 
----
-
-## 4. Women's Specific Rulings
-
-### 4.1 Menstruation (Hayd) and Postpartum Bleeding (Nifas)
-
-> **'Aisha رضي الله عنها said:** "We used to menstruate during the time of the Prophet ﷺ, and he would command us to make up the fasts but did not command us to make up the prayers."
-> — *Reported by Al-Bukhari (321) and Muslim (335)*
-
-**Essential Rules:**
-- ❌ **Forbidden** to fast during menstruation and postpartum bleeding
-- ✅ **Obligatory** to make up after purification
-- Fasting performed during this time is **invalid**
-
-### 4.2 Pregnancy and Breastfeeding
-
-> **Anas ibn Malik Al-Ka'bi رضي الله عنه narrated** that the Prophet ﷺ said: "Allah has relieved the traveler of fasting and half of the prayer, and the pregnant and breastfeeding woman [of fasting]."
-> — *Reported by At-Tirmidhi (715), An-Nasa'i, and Ibn Majah*
-
-| Situation | Fear For | Obligation | Maliki School 🟡 |
-|-----------|----------|------------|------------------|
-| Pregnant | Herself | Qada only | Qada only |
-| Pregnant | The child | Qada + Fidya (some say) | Qada only 🟡 |
-| Breastfeeding | Herself | Qada only | Qada only |
-| Breastfeeding | The child | Qada + Fidya (some say) | Qada only 🟡 |
-
-**Maliki Note 🟡:** Imam Malik considers only Qada obligatory for pregnant and breastfeeding women, without additional Fidya, contrary to the view of some Shafi'is and Hanbalis.
+### Shaykh Khalil Al-Maliki (d. 776 AH)
+*"The sick, traveler, menstruating, post-natal bleeding, pregnant, and nursing woman may break fast out of fear."*
+— Mukhtasar Khalil
 
 ---
 
-## 5. Rules of Making Up Fasts (Qada)
+## 🔍 Linguistic Analysis
 
-### 5.1 General Rules
+| Term | Arabic | Root | Literal Meaning | Technical Meaning |
+|------|--------|------|-----------------|-------------------|
+| Rukhsa | رُخْصَة | ر-خ-ص | Ease | Permissibility to break fast due to excuse |
+| Qada | قَضَاء | ق-ض-ي | Fulfillment | Compensating missed days |
+| Fidya | فِدْيَة | ف-د-ي | Ransom | Feeding a poor person for each day |
+| Marad | مَرَض | م-ر-ض | Departure from balance | Affecting illness |
+| Safar | سَفَر | س-ف-ر | Uncovering | Traveling a specified distance |
+| Hayd | حَيْض | ح-ي-ض | Flowing | Natural menstrual blood |
+
+---
+
+## 📚 Detailed Explanation
+
+### Those with Excuses
+
+#### 1. The Sick Person
+- May break fast if fearing harm
+- Makes up after recovery
+- Chronic illness: fidya without making up
+
+#### 2. The Traveler
+- May break fast in permissible travel
+- Travel distance: approximately 80 km according to majority
+- Makes up after settling
+
+#### 3. Menstruating and Post-natal Bleeding Woman
+- Fasting is prohibited for her
+- Making up is obligatory after purification
+
+#### 4. Pregnant and Nursing Woman
+- May break fast if fearing for herself or child
+- Making up is obligatory according to Malikis
+- Fidya according to some schools
+
+#### 5. The Elderly
+- Fidya without making up
+- One mudd for each day
+
+### Table of Those with Excuses
+
+| Excuse | Ruling | Obligation |
+|--------|--------|------------|
+| Temporary illness | Breaks fast | Making up |
+| Chronic illness | Breaks fast | Fidya |
+| Travel | May choose | Making up |
+| Menstruation | Must break | Making up |
+| Post-natal bleeding | Must break | Making up |
+| Pregnancy | May break | Making up (+ fidya in some views) |
+| Nursing | May break | Making up (+ fidya in some views) |
+| Old age | Breaks fast | Fidya only |
+
+### Rulings on Making Up
 
 | Aspect | Ruling |
 |--------|--------|
-| **Deadline** | Before the next Ramadan |
-| **Consecutive** | Not obligatory (recommended) |
-| **Intention** | Required from the night before (🟡 Maliki) |
-| **Priority** | Before voluntary fasting |
+| **Time for making up** | Before next Ramadan |
+| **Consecutiveness** | Not required |
+| **Delay** | Disliked without excuse |
+| **Fidya with making up** | If delayed past next Ramadan |
 
-### 5.2 Delaying the Make-Up
+---
 
-> **'Aisha رضي الله عنها said:** "I would have fasts from Ramadan to make up, and I could not make them up except in Sha'ban."
-> — *Reported by Al-Bukhari (1950) and Muslim (1146)*
+## ⚖️ Differences Between Schools
 
-| Situation | Consequence | Maliki School 🟡 |
-|-----------|-------------|------------------|
-| Unjustified delay until next Ramadan | Qada + Fidya (majority) | Qada + Fidya 🟡 |
-| Delay with valid excuse | Qada only | Qada only |
-| Multiple years of delay | Accumulated Qada + Fidya per year | Same |
+### Pregnant and Nursing Woman
 
-### 5.3 Fidya for Unjustified Delay
+| School | Ruling |
+|--------|--------|
+| 🟢 Hanafi | Making up only |
+| 🟡 Maliki | Making up only |
+| 🔵 Shafi'i | Making up and fidya (if fearing for child) |
+| 🟣 Hanbali | Making up and fidya (if fearing for child) |
 
-**Amount of Fidya:** Feed one poor person per missed day (approximately 1 mudd ≈ 750g of staple food)
+### Fasting While Traveling
 
-### 5.4 Death Before Making Up
+| School | What is better |
+|--------|----------------|
+| 🟢 Hanafi | Fasting is better |
+| 🟡 Maliki | Fasting is better |
+| 🔵 Shafi'i | Fasting is better |
+| 🟣 Hanbali | Breaking fast is better |
 
-| Situation | Ruling |
+### Delaying Making Up
+
+| School | If delayed until next Ramadan |
+|--------|-------------------------------|
+| 🟢 Hanafi | Making up only (no fidya) |
+| 🟡 Maliki | Making up and fidya |
+| 🔵 Shafi'i | Making up and fidya |
+| 🟣 Hanbali | Making up and fidya |
+
+---
+
+## 🌍 Contemporary Applications
+
+### Contemporary Medical Cases
+
+| Condition | Ruling |
 |-----------|--------|
-| Death before able to make up | Nothing is owed |
-| Death after ability but didn't make up | Fidya from inheritance |
-| Fasting by guardian (wali) | 🟡 Not valid according to Malikis |
+| Diabetic patients | According to doctor's advice |
+| Kidney patients | According to condition |
+| Heart patients | Consult doctor |
+| Kidney dialysis | Breaks fast (fluids) |
+| Surgical operations | Breaks fast and makes up |
 
-> **The Prophet ﷺ said:** "Whoever dies while having fasts to make up, his guardian (wali) should fast on his behalf."
-> — *Reported by Al-Bukhari (1952) and Muslim (1147)*
+### Calculating Fidya
 
-**Scholarly Difference:**
-- **Malikis 🟡 and Hanafis**: Pay Fidya, don't fast on their behalf
-- **Shafi'is and Hanbalis**: Guardian may fast on their behalf
-
----
-
-## 6. Priority Order for Making Up
-
-1. **Ramadan Qada** (obligatory)
-2. **Vow fasting (nadhr)** if applicable
-3. **Expiatory fasting (kaffara)** if applicable
-4. **Voluntary fasting**
+- **Amount:** One mudd per day (approximately 750 grams)
+- **Alternative:** Its value in cash to the poor
+- **Contemporary estimate:** 5-10 euros per day
 
 ---
 
-## 7. Summary Table of Exemptions
+## ⚠️ Common Mistakes
 
-| Category | Fasting | Qada | Fidya | Notes |
-|----------|---------|------|-------|-------|
-| Traveler | Exemption | ✅ Yes | ❌ No | Fasting is still permitted |
-| Temporary illness | Exemption | ✅ Yes | ❌ No | Until recovery |
-| Chronic illness | Exemption | ❌ No | ✅ Yes | Permanent inability |
-| Elderly unable | Exemption | ❌ No | ✅ Yes | If means available |
-| Menstruating | Forbidden | ✅ Yes | ❌ No | Obligatory |
-| Pregnant | Exemption | ✅ Yes | 🟡 Depends on school | Maliki: Qada only |
-| Breastfeeding | Exemption | ✅ Yes | 🟡 Depends on school | Maliki: Qada only |
+| Mistake | Correction |
+|---------|------------|
+| Fasting with severe illness | Breaking fast is a legitimate dispensation |
+| Delaying making up past next Ramadan | Sinful and requires fidya with making up |
+| Thinking pregnant woman doesn't make up | Making up is obligatory for her |
+| Fasting during menstruation | Prohibited and invalid |
 
 ---
 
-## 8. Practical Advice
+## ❓ Frequently Asked Questions
 
-### For the Traveler:
-- Evaluate your capacity before deciding
-- Don't force yourself if it causes hardship
-- Prefer fasting if travel is comfortable
+**Q1: Must making up be done immediately after Ramadan?**
+A: Immediacy is not required, but hastening is recommended and it must be before next Ramadan.
 
-### For the Sick:
-- Consult a trustworthy doctor
-- Don't neglect health through excessive zeal
-- Plan to make up fasts upon recovery
+**Q2: Is a menstruating woman sinful for not fasting?**
+A: No, fasting is actually prohibited for her, and only making up is required.
 
-### For Women:
-- Count missed days precisely
-- Make up regularly after Ramadan
-- Don't wait until the last moment
+**Q3: What does a chronically ill person do?**
+A: Breaks fast and pays fidya for each day.
+
+**Q4: Can fidya be given to one person?**
+A: Yes, all the fidya may be given to one poor person.
 
 ---
 
-## Sources
+## 🎯 Practical Action Plan
 
-- *Sahih Al-Bukhari* and *Sahih Muslim*
-- *Al-Muwatta* by Imam Malik
-- *Al-Mudawwana* by Sahnun
-- *Bidayat Al-Mujtahid* by Ibn Rushd
-- *Al-Fiqh 'ala Al-Madhahib Al-Arba'a* by Al-Jaziri
-- *Fiqh As-Sunnah* by Sayyid Sabiq
+### For Those with Excuses
+
+- [ ] **Know** the ruling for your specific excuse
+- [ ] **Count** the missed days
+- [ ] **Hasten** to make up after excuse ends
+- [ ] **Pay** fidya if required
 
 ---
 
-And Allah knows best | والله أعلم
-`
+## 📝 Supplication
+
+<div style="text-align: center; font-size: 1.3em; margin: 20px 0;">
+
+اللَّهُمَّ اشْفِنِي شِفَاءً لَا يُغَادِرُ سَقَمًا
+
+وَأَعِنِّي عَلَى قَضَاءِ مَا فَاتَنِي
+
+وَتَقَبَّلْ مِنِّي إِنَّكَ أَنْتَ السَّمِيعُ الْعَلِيم
+
+</div>
+
+*O Allah, heal me completely leaving no illness, help me make up what I missed, and accept from me. Indeed, You are the All-Hearing, All-Knowing.*
+
+---
+
+## 📚 Sources
+
+- **Al-Muwatta'** — Imam Malik
+- **Al-Mudawwana Al-Kubra** — Sahnoun
+- **Al-Qawanin Al-Fiqhiyya** — Ibn Juzayy
+- **Mukhtasar Khalil** — Khalil Al-Maliki
+- **Sahih Al-Bukhari** — Al-Bukhari
+- **Sahih Muslim** — Muslim
+
+---
+
+**وَاللهُ أَعْلَم**
+*And Allah knows best*
+`;

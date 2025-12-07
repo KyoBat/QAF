@@ -13,6 +13,7 @@ import { hadithCourse } from './hadith'
 import { siyamCourse } from './siyam'
 import { hajjCourse } from './hajj'
 import { historyImamsCourse } from './history'
+import { historyCompanionsCourse } from './history-companions'
 
 // Export des types
 export * from './types'
@@ -27,11 +28,13 @@ export { hadithCourse } from './hadith'
 export { siyamCourse } from './siyam'
 export { hajjCourse } from './hajj'
 export { historyImamsCourse } from './history'
+export { historyCompanionsCourse } from './history-companions'
 
 // Export de la liste complète des cours
 export const coursesData: Course[] = [
   hadithCourse,
   historyImamsCourse,
+  historyCompanionsCourse,
   tajweedCourse,
   fiqhPurificationCourse,
   fiqhSalatCourse,

@@ -1,255 +1,292 @@
-/**
- * Siyam - Leçon 003: Piliers et Conditions de Validité du Jeûne
- * Contenu en Anglais
- */
+export const content = `
+# 📜 أَرْكَانُ الصِّيَامِ — Pillars and Validity of Fasting
 
-export const content = `# Pillars and Conditions of Validity of Fasting (أركان الصيام وشروط صحته)
-
-## Introduction
-
-After studying the conditions of obligation for fasting, we now address what makes fasting valid. Allah تعالى says:
-
-> **﴿ وَكُلُوا وَاشْرَبُوا حَتَّىٰ يَتَبَيَّنَ لَكُمُ الْخَيْطُ الْأَبْيَضُ مِنَ الْخَيْطِ الْأَسْوَدِ مِنَ الْفَجْرِ ۖ ثُمَّ أَتِمُّوا الصِّيَامَ إِلَى اللَّيْلِ ﴾**
->
-> *"Eat and drink until the white thread of dawn becomes distinct from the black thread. Then complete the fast until night."* [Al-Baqara: 187]
-
-The Prophet ﷺ said:
-
-> **« مَنْ لَمْ يُبَيِّتِ الصِّيَامَ قَبْلَ الْفَجْرِ فَلَا صِيَامَ لَهُ »**
->
-> *"Whoever does not form the intention to fast before Fajr has no fast."*
-> — [Abu Dawud (2454), An-Nasai, At-Tirmidhi - Authenticated]
+> "And eat and drink until the white thread of dawn becomes distinct from the black thread. Then complete the fast until night."
+> — Surah Al-Baqara, 2:187
 
 ---
 
-## Part One: The Pillars of Fasting (أركان الصيام)
+## 📜 Foundational Texts
 
-**Pillars** (أركان) are the essential constituent elements without which fasting does not exist.
+### Quran
 
-### Pillar 1: The Intention (النية)
+> ﴿ وَكُلُوا وَاشْرَبُوا حَتَّىٰ يَتَبَيَّنَ لَكُمُ الْخَيْطُ الْأَبْيَضُ مِنَ الْخَيْطِ الْأَسْوَدِ مِنَ الْفَجْرِ ۖ ثُمَّ أَتِمُّوا الصِّيَامَ إِلَى اللَّيْلِ ﴾
+> *"And eat and drink until the white thread of dawn becomes distinct from the black thread of night. Then complete the fast until night."*
+> — Surah Al-Baqara, 2:187
 
-#### 1.1 Definition and Importance
+> ﴿ فَالْآنَ بَاشِرُوهُنَّ وَابْتَغُوا مَا كَتَبَ اللَّهُ لَكُمْ ﴾
+> *"So now have relations with them and seek what Allah has decreed for you."*
+> — Surah Al-Baqara, 2:187
 
-**Intention** is the determination of the heart to perform the fast for Allah تعالى.
+### Prophetic Hadiths
 
-The Prophet ﷺ said:
+> 'Umar ibn Al-Khattab (may Allah be pleased with him) reported that the Messenger of Allah ﷺ said: "When the night approaches from here and the day retreats from there and the sun has set, the fasting person has broken his fast."
+> — Al-Bukhari (1954) and Muslim (1100)
 
-> **« إِنَّمَا الْأَعْمَالُ بِالنِّيَّاتِ، وَإِنَّمَا لِكُلِّ امْرِئٍ مَا نَوَى »**
->
-> *"Actions are only by intentions, and everyone will have only what they intended."*
-> — [Al-Bukhari (1) and Muslim (1907)]
+> Hafsa (may Allah be pleased with her) reported that the Messenger of Allah ﷺ said: "Whoever does not intend to fast before Fajr, there is no fast for him."
+> — Abu Dawud, Al-Tirmidhi, and Al-Nasa'i
 
-#### 1.2 Time of Intention
-
-| Type of Fast | Time of Intention |
-|--------------|-------------------|
-| **Ramadan** | Obligatorily at night, before Fajr |
-| **Obligatory fast (vow, expiation)** | Obligatorily at night, before Fajr |
-| **Voluntary fast** | Possible until midday (before Zawal) |
-
-#### 1.3 Differences on Renewing the Intention
-
-| School | Position for Ramadan |
-|--------|---------------------|
-| 🟡 **Maliki** | A single intention at the beginning of the month suffices (predominant view) |
-| 🔵 **Hanafi** | A single intention suffices |
-| 🟢 **Shafi'i** | Renew each night |
-| 🔴 **Hanbali** | Renew each night |
-
-**Maliki Evidence:** Ramadan is a continuous act of worship, like a multi-unit prayer where a single intention suffices.
-
-#### 1.4 Formulation of Intention
-
-The intention is made **in the heart** and not on the tongue. It is not prescribed to pronounce it.
-
-❌ **Bid'a**: Saying "Nawaytou an asooma ghadan..." is not a sunnah
-
-✅ **Correct**: Having a firm resolution in the heart to fast for Allah
+> Sahl ibn Sa'd (may Allah be pleased with him) reported that the Messenger of Allah ﷺ said: "The people will remain upon goodness as long as they hasten to break the fast."
+> — Al-Bukhari (1957) and Muslim (1098)
 
 ---
 
-### Pillar 2: Abstention (الإمساك)
+## 🎓 Scholarly Statements
 
-#### 2.1 Definition
+### Imam Malik ibn Anas (d. 179 AH)
+*"The pillars of fasting are three: intention, abstaining from nullifiers, and the time which is from Fajr to sunset."*
+— Al-Muwatta'
 
-**Abstention** from things that break the fast (المفطرات) from dawn until sunset.
+### Ibn Al-Qasim (d. 191 AH)
+*"I heard Malik say: The essential pillar is abstention, intention is a condition for validity, and the time is defined by the Shariah."*
+— Al-Mudawwana
 
-#### 2.2 Time of Abstention
+### Ibn Rushd Al-Jadd (d. 520 AH)
+*"Fasting is composed of three things: abstention, intention, and time. Abstention is the reality of fasting, and intention distinguishes it from mere hunger."*
+— Al-Muqaddimat Al-Mumahhadat
 
-| Beginning | End |
-|-----------|-----|
-| **الفجر الصادق** (True dawn) | **غروب الشمس** (Sunset) |
-| When the white thread is distinguished from the black | When the solar disk completely disappears |
+### Al-Qadi 'Iyad (d. 544 AH)
+*"Intention is the soul of worship; without it, abstention is a habit not an act of worship. Therefore, the Lawgiver required it for fasting."*
+— Ikmal Al-Mu'lim
 
-#### 2.3 The Difference Between the Two Dawns
+### Ibn Juzayy Al-Kalbi (d. 741 AH)
+*"Fasting has pillars, conditions, Sunnahs, and recommended acts. Distinguishing between them is important for the jurist and student."*
+— Al-Qawanin Al-Fiqhiyya
 
-| الفجر الكاذب (False dawn) | الفجر الصادق (True dawn) |
-|---------------------------|--------------------------|
-| Vertical light then darkness | Horizontal spreading light |
-| Eating still permitted | Beginning of abstention |
-| Fajr prayer not valid | Fajr prayer valid |
-
----
-
-## Part Two: Conditions of Validity (شروط صحة الصيام)
-
-**Conditions of validity** are the criteria that must be met for fasting to be accepted.
-
-### Condition 1: Islam
-
-Fasting is only valid for a Muslim. If a non-Muslim fasts, their fast is not valid.
+### Shaykh Al-Dardir (d. 1201 AH)
+*"The pillar of fasting according to the Malikis is one: abstention. As for intention, it is a condition not a pillar."*
+— Al-Sharh Al-Kabir
 
 ---
 
-### Condition 2: Discernment (التمييز)
+## 🔍 Linguistic Analysis
 
-#### 2.1 Definition
+| Term | Arabic | Root | Literal Meaning | Technical Meaning |
+|------|--------|------|-----------------|-------------------|
+| Rukn | رُكْن | ر-ك-ن | Strong side | An essential part without which something is incomplete |
+| Imsak | إِمْسَاك | م-س-ك | Holding, restraining | Abstaining from nullifiers |
+| Fajr | فَجْر | ف-ج-ر | Breaking through | The appearance of true dawn |
+| Ghurub | غُرُوب | غ-ر-ب | Departure | Disappearance of the sun's disk |
+| Sunnah | سُنَّة | س-ن-ن | Path, way | What is rewarded for doing but not punished for leaving |
+| Mustahabb | مُسْتَحَب | ح-ب-ب | Desired | What is recommended in Shariah |
 
-**Discernment** is the ability to understand what one is doing. The age of discernment is generally set at **7 years**.
-
-#### 2.2 Application
-
-| Person | Validity of fasting |
-|--------|---------------------|
-| Child under 7 years | Not valid (no discernment) |
-| Child 7 years and older | Valid but not obligatory |
-| Sane adult | Valid and obligatory |
-
----
-
-### Condition 3: Absence of Menstruation and Post-natal Bleeding
-
-The fasting of a woman in menstruation or post-natal bleeding is **not valid**, even if she fasts.
+### Difference Between Pillar and Condition
+- **Pillar (Rukn):** Part of the essence of worship, internal to it
+- **Condition (Shart):** External to the essence but necessary for validity
 
 ---
 
-### Condition 4: Purity from Major Impurity 🟡
+## 📚 Detailed Explanation
 
-#### 4.1 The Case of Janaba (Major Impurity)
+### Pillars of Fasting
 
-| School | Position |
+Pillars are the essential components that constitute fasting:
+
+#### First Pillar: Abstaining from Nullifiers
+
+This is the essence and reality of fasting. The nullifiers are:
+- **Eating and drinking** deliberately
+- **Sexual intercourse** during fasting hours
+- **Ejaculation** with desire
+- **Deliberate vomiting**
+- **Menstruation and post-natal bleeding**
+
+#### Second Pillar (according to some scholars): Intention
+
+Scholars differed regarding intention:
+- **Malikis:** Intention is a condition, not a pillar
+- **Shafi'is:** Intention is a pillar of fasting
+
+#### Third Pillar: The Specified Time
+
+From the appearance of true dawn until sunset.
+
+### Determining Fasting Times
+
+| Time | Definition | Evidence |
+|------|------------|----------|
+| **Start of Fast** | Appearance of true dawn | ﴿ حَتَّىٰ يَتَبَيَّنَ لَكُمُ الْخَيْطُ الْأَبْيَضُ مِنَ الْخَيْطِ الْأَسْوَدِ مِنَ الْفَجْرِ ﴾ |
+| **End of Fast** | Sunset | ﴿ ثُمَّ أَتِمُّوا الصِّيَامَ إِلَى اللَّيْلِ ﴾ |
+
+### Sunnahs of Fasting
+
+| Sunnah | Evidence |
 |--------|----------|
-| 🟡 **Maliki** | Fasting is valid even if waking in a state of janaba, provided ghusl is done promptly |
-| Other schools | Same position |
+| **Suhur (pre-dawn meal)** | "Have suhur, for in suhur there is blessing" |
+| **Delaying suhur** | "My Ummah will remain upon goodness as long as they delay suhur" |
+| **Hastening iftar** | "The people will remain upon goodness as long as they hasten iftar" |
+| **Breaking fast with fresh or dry dates** | "When one of you breaks fast, let him break it with dates" |
+| **Supplication at iftar** | "The fasting person has a supplication at iftar that is not rejected" |
+| **Abundant Quran recitation** | Ramadan is the month of Quran |
+| **Night prayer (Qiyam)** | "Whoever stands in Ramadan with faith and seeking reward..." |
 
-**Evidence:**
+### Recommended Acts During Fasting
 
-'Aisha and Umm Salama رضي الله عنهما said:
-
-> **« كَانَ رَسُولُ اللَّهِ ﷺ يُدْرِكُهُ الْفَجْرُ وَهُوَ جُنُبٌ مِنْ أَهْلِهِ، ثُمَّ يَغْتَسِلُ وَيَصُومُ »**
->
-> *"The Messenger of Allah ﷺ would wake up in a state of janaba (from relations with his wives), then make ghusl and fast."*
-> — [Al-Bukhari (1925) and Muslim (1109)]
-
----
-
-### Condition 5: Appropriate Time
-
-One cannot fast on forbidden days:
-
-| Forbidden Days | Evidence |
-|----------------|----------|
-| **Day of Eid Al-Fitr** | Hadith: "Two days the Prophet ﷺ forbade fasting..." |
-| **Day of Eid Al-Adha** | [Al-Bukhari (1990) and Muslim (1137)] |
-| **Days of Tashriq** (11, 12, 13 Dhul-Hijja) | Except for pilgrims without a sacrifice |
+- Avoiding idle and obscene speech
+- Restraining the tongue from backbiting and gossip
+- Lowering the gaze
+- Increasing charity
+- Maintaining family ties
+- Feeding fasting people
 
 ---
 
-## Comparative Table: Pillars vs Conditions
+## ⚖️ Differences Between Schools
 
-| Aspect | Pillars (أركان) | Conditions (شروط) |
-|--------|-----------------|-------------------|
-| **Definition** | Constituent elements of fasting | Criteria of validity |
-| **Absence** | Fasting does not exist | Fasting is not valid |
-| **Examples** | Intention, Abstention | Islam, Discernment, Absence of menses |
+### Number of Pillars of Fasting
+
+| School | Pillars |
+|--------|---------|
+| 🟢 Hanafi | One pillar: Abstention |
+| 🟡 Maliki | One pillar: Abstention (intention is a condition) |
+| 🔵 Shafi'i | Three: Intention, abstention, the fasting person |
+| 🟣 Hanbali | Two pillars: Intention and abstention |
+
+### Abstaining When Uncertain About Fajr
+
+| School | Ruling |
+|--------|--------|
+| 🟢 Hanafi | Recommended to abstain as precaution |
+| 🟡 Maliki | The default is that night remains; eating permitted |
+| 🔵 Shafi'i | Recommended to abstain |
+| 🟣 Hanbali | Obligatory to abstain as precaution |
+
+### Hastening Iftar
+
+| School | Ruling |
+|--------|--------|
+| 🟢 Hanafi | Emphasized Sunnah |
+| 🟡 Maliki | Emphasized Sunnah |
+| 🔵 Shafi'i | Emphasized Sunnah |
+| 🟣 Hanbali | Emphasized Sunnah |
+
+**Consensus** on the recommendation to hasten iftar after confirming sunset.
 
 ---
 
-## Focus on Intention According to the Maliki School 🟡
+## 🌍 Contemporary Applications
 
-### Key Points
+### Methods for Knowing Fasting Times
 
-1. **A single intention** at the beginning of Ramadan suffices for the entire month
-2. **Doubt** in intention does not invalidate fasting if the base intention was firm
-3. **Interruption** of fasting (travel, illness) requires a new intention upon return
-4. **The traveler's fast** who decides to fast must have the intention before Fajr
+**1. Calendars and Astronomical Calculations:**
+- Provide times with precision
+- Recommended to add precaution (2-3 minutes for imsak)
+- Used when sighting is not possible
+
+**2. Electronic Applications:**
+- Facilitate knowing times
+- Must verify accuracy of settings
+- Official source of the country is the reference
+
+**3. Adhan (Call to Prayer):**
+- Fajr adhan marks the obligation to abstain
+- Maghrib adhan marks permission to break fast
 
 ### Special Cases
 
-| Situation | Rule |
-|-----------|------|
-| Forgot intention before Fajr (Ramadan) | Fast not valid, must make up |
-| Intended to break without actually breaking | Fast broken according to some scholars |
-| Uncertainty about the day (29 or 30 Sha'ban) | Conditional intention permitted |
+**Air Travel:**
+- What matters is the fasting person's location, not their home country
+- If the sun sets at their location, they break fast
+- The day may lengthen or shorten depending on flight direction
+
+**Polar Regions:**
+- If there is distinguishable night and day, fast according to them
+- If they are not distinguishable, fast according to nearest moderate country
 
 ---
 
-## The Precise Time of Suhur and Iftar
+## ⚠️ Common Mistakes
 
-### Suhur (السحور)
-
-The Prophet ﷺ said:
-
-> **« تَسَحَّرُوا فَإِنَّ فِي السَّحُورِ بَرَكَةً »**
->
-> *"Take the suhur, for there is blessing in the suhur."*
-> — [Al-Bukhari (1923) and Muslim (1095)]
-
-**Recommendations:**
-- Delay suhur until close to Fajr
-- Stop at the adhan or slightly before as a precaution
-
-### Iftar (الإفطار)
-
-The Prophet ﷺ said:
-
-> **« لَا يَزَالُ النَّاسُ بِخَيْرٍ مَا عَجَّلُوا الْفِطْرَ »**
->
-> *"People will continue to be in good as long as they hasten to break their fast."*
-> — [Al-Bukhari (1957) and Muslim (1098)]
-
-**The exact moment:**
-- As soon as the sun completely disappears below the horizon
-- No need to wait for total darkness
+| Mistake | Correction |
+|---------|------------|
+| Breaking fast before sunset | Must confirm complete sunset |
+| Abstaining long before Fajr | Abstention begins at true Fajr |
+| Skipping suhur | Suhur is an emphasized Sunnah with blessing |
+| Delaying iftar | Sunnah is to hasten it after confirming sunset |
+| Breaking fast with stomach-harming foods | Recommended to start with dates and water |
+| Neglecting supplication at iftar | Iftar time is among times of response |
+| Excessive eating | Contradicts the objectives of fasting |
 
 ---
 
-## Summary Table
+## ❓ Frequently Asked Questions
 
-| Element | Type | Detail |
-|---------|------|--------|
-| **Intention** | Pillar | Before Fajr for obligatory |
-| **Abstention** | Pillar | From dawn to sunset |
-| **Islam** | Condition | Essential |
-| **Discernment** | Condition | Generally 7 years |
-| **Purity from menses** | Condition | Woman must be pure |
-| **Appropriate time** | Condition | Avoid forbidden days |
+**Q1: What is the difference between true and false dawn?**
+A: False dawn is a vertical light that appears then disappears. True dawn is a horizontal light that spreads on the horizon and does not disappear.
 
----
+**Q2: Is it permissible to eat during the adhan?**
+A: If the adhan is exactly on time, abstention is obligatory. If it is slightly before the time, one may finish the bite.
 
-## Common Mistakes to Avoid
+**Q3: What if I'm uncertain about sunset?**
+A: Do not break fast until you are certain of sunset. The default is that daytime remains.
 
-1. ❌ Pronouncing the intention out loud
-2. ❌ Thinking that waking up in janaba invalidates the fast
-3. ❌ Continuing to eat after the adhan "to finish the bite"
-4. ❌ Waiting for darkness to break the fast
-5. ❌ Believing that swallowing saliva breaks the fast
+**Q4: Should one break fast with water or dates?**
+A: The Sunnah is to break fast with fresh dates; if not found, then dry dates; if not found, then water.
+
+**Q5: How long should the ideal iftar meal take?**
+A: Recommended to break fast with a few dates, then pray Maghrib, then complete the meal moderately.
 
 ---
 
-## Sources
+## 🎯 Practical Action Plan
 
-- **The Holy Quran** - Surah Al-Baqara
-- **Sahih Al-Bukhari** - Kitab As-Sawm
-- **Sahih Muslim** - Kitab As-Siyam
-- **Sunan Abu Dawud** - Kitab As-Sawm
-- **Al-Mudawwana** - Imam Malik
-- **Ash-Sharh As-Saghir** - Ad-Dardir
-- **Kifayat At-Talib Ar-Rabbani** - Abu Al-Hassan Al-Maliki
+### Daily Preparation
+
+- [ ] **Confirm** times for imsak and iftar
+- [ ] **Prepare** suhur and iftar
+- [ ] **Set** alarm for suhur
+
+### At Suhur
+
+- [ ] **Delay** until just before Fajr
+- [ ] **Eat** moderately
+- [ ] **Make** supplication and dhikr
+- [ ] **Stop** a few minutes before adhan as precaution
+
+### At Iftar
+
+- [ ] **Hasten** after confirming sunset
+- [ ] **Begin** with dates or water
+- [ ] **Supplicate** before breaking fast
+- [ ] **Pray** Maghrib on time
+- [ ] **Be moderate** in eating
 
 ---
 
-**والله أعلم**
+## 📝 Supplication
 
-*May Allah grant us an accepted and complete fast.*
-`
+<div style="text-align: center; font-size: 1.3em; margin: 20px 0;">
+
+**دُعَاءُ الإِفْطَار**
+
+ذَهَبَ الظَّمَأُ وَابْتَلَّتِ الْعُرُوقُ
+
+وَثَبَتَ الأَجْرُ إِنْ شَاءَ اللَّهُ
+
+اللَّهُمَّ لَكَ صُمْتُ وَعَلَى رِزْقِكَ أَفْطَرْتُ
+
+فَتَقَبَّلْ مِنِّي إِنَّكَ أَنْتَ السَّمِيعُ الْعَلِيم
+
+</div>
+
+*The thirst has gone, the veins have been moistened, and the reward is confirmed, if Allah wills.*
+*O Allah, for You I fasted and with Your provision I break my fast. Accept from me, for You are the All-Hearing, All-Knowing.*
+
+---
+
+## 📚 Sources
+
+- **Al-Muwatta'** — Imam Malik ibn Anas
+- **Al-Mudawwana Al-Kubra** — Imam Sahnoun
+- **Al-Risala** — Ibn Abi Zayd Al-Qayrawani
+- **Al-Qawanin Al-Fiqhiyya** — Ibn Juzayy Al-Kalbi
+- **Al-Muqaddimat Al-Mumahhadat** — Ibn Rushd Al-Jadd
+- **Al-Sharh Al-Kabir** — Shaykh Al-Dardir
+- **Sahih Al-Bukhari** — Imam Al-Bukhari
+- **Sahih Muslim** — Imam Muslim
+
+---
+
+**وَاللهُ أَعْلَم**
+*And Allah knows best*
+`;

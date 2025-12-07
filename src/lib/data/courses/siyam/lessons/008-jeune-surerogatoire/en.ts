@@ -1,268 +1,224 @@
-/**
- * Siyam - Lesson 008: Voluntary Fasting
- * English Content
- */
+export const content = `
+# 📜 صِيَامُ التَّطَوُّع — Voluntary Fasting
 
-export const content = `# Voluntary Fasting (صيام التطوع)
-
-Beyond the obligatory fast of Ramadan, Islam encourages voluntary fasts that bring the servant closer to their Lord and multiply their rewards.
-
-> **The Prophet ﷺ said:** "Whoever fasts a day in the path of Allah, Allah will distance his face from the Hellfire by seventy years."
-> — *Reported by Al-Bukhari (2840) and Muslim (1153)*
+> "Whoever fasts a day for the sake of Allah, Allah will distance his face from the Fire by seventy autumns."
+> — Narrated by Al-Bukhari and Muslim
 
 ---
 
-## 1. Virtues of Voluntary Fasting
+## 📜 Foundational Texts
 
-### 1.1 General Rewards
+### Quran
 
-> **In a Hadith Qudsi, Allah ﷻ says:** "Every deed of the son of Adam belongs to him, except fasting. It belongs to Me and I reward for it."
-> — *Reported by Al-Bukhari (1904) and Muslim (1151)*
+> ﴿ وَأَن تَصُومُوا خَيْرٌ لَّكُمْ ۖ إِن كُنتُمْ تَعْلَمُونَ ﴾
+> *"And fasting is better for you, if only you knew."*
+> — Surah Al-Baqara, 2:184
 
-| Virtue | Evidence |
-|--------|----------|
-| Distances from Hellfire | Hadith of 70 years |
-| Limitless reward | Hadith Qudsi |
-| Intercession on Judgment Day | Hadith of Ahmad |
-| Special gate to Paradise (Ar-Rayyan) | Al-Bukhari and Muslim |
+### Prophetic Hadiths
 
-### 1.2 Fasting Completes Obligations
+> Abu Hurayra (may Allah be pleased with him) reported that the Messenger of Allah ﷺ said: "Whoever fasts Ramadan and follows it with six days from Shawwal, it is as if he fasted the entire year."
+> — Muslim (1164)
 
-> **The Prophet ﷺ said:** "The first thing the servant will be judged for on the Day of Resurrection is the prayer. If it is incomplete, Allah will say: 'Look if My servant has any voluntary prayers.' If he does, they will complete the obligatory ones. And so it will be for all deeds."
-> — *Reported by Abu Dawud and At-Tirmidhi*
+> Abu Qatada (may Allah be pleased with him) reported: The Messenger of Allah ﷺ was asked about fasting the day of Arafah and said: "It expiates the sins of the past year and the coming year."
+> — Muslim (1162)
 
----
-
-## 2. The Six Days of Shawwal
-
-### 2.1 Exceptional Merit
-
-> **Abu Ayyub Al-Ansari رضي الله عنه narrated** that the Prophet ﷺ said: "Whoever fasts Ramadan then follows it with six days of Shawwal, it is as if he fasted the entire year."
-> — *Reported by Muslim (1164)*
-
-**Calculation:**
-- Ramadan (30 days) × 10 = 300 days
-- 6 days of Shawwal × 10 = 60 days
-- Total = 360 days = 1 year
-
-### 2.2 Rules for the Six Days
-
-| Aspect | Ruling | Maliki School 🟡 |
-|--------|--------|------------------|
-| Timing | Anytime in Shawwal | Preferable after a few days |
-| Consecutive | Not obligatory | Not obligatory |
-| Before Qada | 🟡 Difference | Qada first is recommended 🟡 |
-| First day | After Eid (2nd Shawwal) | Same |
-
-**Maliki Note 🟡:** Imam Malik disliked people fasting the 6 days immediately after Eid, fearing they might think it obligatory. He recommended spacing them out.
+> 'Aisha (may Allah be pleased with her) said: "The Messenger of Allah ﷺ would fast until we said he would never break fast, and would not fast until we said he would never fast. I never saw him complete a full month of fasting except Ramadan, and I never saw him fast more in any month than in Sha'ban."
+> — Al-Bukhari and Muslim
 
 ---
 
-## 3. The Day of 'Arafat (9th Dhul-Hijja)
+## 🎓 Scholarly Statements
 
-### 3.1 Incomparable Merit
+### Imam Malik ibn Anas (d. 179 AH)
+*"Voluntary fasting is a great door of goodness, and the best of it is that which one maintains consistently."*
+— Al-Muwatta'
 
-> **Abu Qatada رضي الله عنه narrated** that the Prophet ﷺ said: "Fasting the day of 'Arafat, I hope Allah will expiate the sins of the previous year and the following year."
-> — *Reported by Muslim (1162)*
+### Ibn Al-Qasim (d. 191 AH)
+*"Malik disliked fasting six days of Shawwal connected to Ramadan, fearing people might think them obligatory."*
+— Al-Mudawwana
 
-### 3.2 Rules for Fasting 'Arafat
+### Ibn Rushd Al-Jadd (d. 520 AH)
+*"Voluntary fasting is among the best acts of devotion, and the fasting of Dawud (peace be upon him) is the best: one day on, one day off."*
+— Al-Muqaddimat Al-Mumahhadat
 
-| Person | Fasting Recommended? |
-|--------|---------------------|
-| Non-pilgrim | ✅ Highly recommended |
-| Pilgrim | ❌ Not recommended (needs strength) |
+### Al-Qadi 'Iyad (d. 544 AH)
+*"Fasting the day of Arafah expiates two years, and fasting Ashura expiates one year. This is from Allah's bounty."*
+— Ikmal Al-Mu'lim
 
-> **The Prophet ﷺ** did not fast the day of 'Arafat during the Farewell Pilgrimage.
-> — *Reported by Al-Bukhari (1658)*
-
----
-
-## 4. The Day of 'Ashura (10th Muharram)
-
-### 4.1 History and Merit
-
-> **Ibn Abbas رضي الله عنهما said:** "The Prophet ﷺ came to Medina and found the Jews fasting the day of 'Ashura. He asked: 'What is this?' They said: 'This is a great day when Allah saved Musa and his people and drowned Pharaoh.' The Prophet ﷺ said: 'We have more right to Musa than you.' He fasted this day and ordered fasting it."
-> — *Reported by Al-Bukhari (2004) and Muslim (1130)*
-
-### 4.2 Merit of 'Ashura
-
-> **The Prophet ﷺ said:** "Fasting the day of 'Ashura, I hope Allah will expiate the sins of the previous year."
-> — *Reported by Muslim (1162)*
-
-### 4.3 Differentiating from the Jews
-
-> **Ibn Abbas رضي الله عنهما said:** The Prophet ﷺ said: "If I live until next year, I will surely fast the ninth day (with the tenth)."
-> — *Reported by Muslim (1134)*
-
-| Option | Days Fasted | Level |
-|--------|-------------|-------|
-| **Best** | 9, 10, and 11 Muharram | Complete |
-| **Recommended** | 9 and 10 Muharram | Confirmed Sunnah |
-| **Acceptable** | 10 Muharram only | Permitted but discouraged |
+### Ibn Juzayy Al-Kalbi (d. 741 AH)
+*"Recommended fasting days: Ashura, Arafah, six of Shawwal, Monday and Thursday, and the white days."*
+— Al-Qawanin Al-Fiqhiyya
 
 ---
 
-## 5. The White Days (الأيام البيض)
+## 🔍 Linguistic Analysis
 
-### 5.1 Definition and Merit
-
-The **White Days** are the 13th, 14th, and 15th of each lunar month, named so because the moon is full and illuminates the night.
-
-> **Abu Dharr رضي الله عنه narrated** that the Prophet ﷺ said: "O Abu Dharr! If you fast three days of the month, fast the 13th, 14th, and 15th."
-> — *Reported by At-Tirmidhi (761) and An-Nasa'i*
-
-### 5.2 Equivalence
-
-> **The Prophet ﷺ said:** "Fasting three days of each month is equivalent to fasting the entire year."
-> — *Reported by Al-Bukhari (1979) and Muslim (1159)*
-
-**Calculation:** 3 days × 10 = 30 days/month × 12 = 360 days = 1 year
+| Term | Arabic | Root | Literal Meaning | Technical Meaning |
+|------|--------|------|-----------------|-------------------|
+| Tatawwu' | تَطَوُّع | ط-و-ع | Exceeding obligation | Non-obligatory worship |
+| Nafl | نَفْل | ن-ف-ل | Addition | Recommended worship |
+| 'Ashura | عَاشُورَاء | ع-ش-ر | The tenth day | 10th of Muharram |
+| 'Arafah | عَرَفَة | ع-ر-ف | Knowledge | 9th of Dhul-Hijjah |
+| Bid | بِيض | ب-ي-ض | White | Days 13-14-15 of each month |
 
 ---
 
-## 6. Monday and Thursday
+## 📚 Detailed Explanation
 
-### 6.1 Prophetic Practice
+### Types of Voluntary Fasting
 
-> **'Aisha رضي الله عنها narrated:** "The Prophet ﷺ used to be keen on fasting Monday and Thursday."
-> — *Reported by At-Tirmidhi (745) and An-Nasa'i*
+#### 1. Fasting Ashura (10th Muharram)
+- **Virtue:** Expiates the past year
+- **Sunnah:** Fast 9th and 10th together
+- **Ruling:** Emphasized Sunnah
 
-### 6.2 Reasons
+#### 2. Fasting Day of Arafah (9th Dhul-Hijjah)
+- **Virtue:** Expiates two years (past and coming)
+- **For non-pilgrims:** Highly recommended
+- **For pilgrims:** Not recommended
 
-> **The Prophet ﷺ said:** "Deeds are presented (to Allah) on Monday and Thursday, and I love that my deeds be presented while I am fasting."
-> — *Reported by At-Tirmidhi (747)*
+#### 3. Fasting Six of Shawwal
+- **Virtue:** With Ramadan, like fasting the whole year
+- **Maliki view:** Disliked to connect to Ramadan
+- **Better:** Spread throughout the month
 
-> **The Prophet ﷺ also said:** "That is the day I was born and the day revelation was sent down to me." (regarding Monday)
-> — *Reported by Muslim (1162)*
+#### 4. Fasting Monday and Thursday
+- **Virtue:** Deeds are presented on these days
+- **Ruling:** Recommended
+
+#### 5. Fasting the White Days (13-14-15)
+- **Virtue:** Like fasting the whole year
+- **Ruling:** Recommended
+
+#### 6. Fasting Sha'ban
+- **Virtue:** The Prophet ﷺ fasted much of it
+- **Prohibition:** Against fasting the latter half unless habitual
+
+#### 7. Fasting Alternate Days (Fasting of Dawud)
+- **Virtue:** Best fasting to Allah
+- **Description:** Fast one day, break one day
+
+### Table of Recommended and Disliked Days
+
+| Day | Ruling | Virtue |
+|-----|--------|--------|
+| Ashura + Tasu'a | Recommended | Expiates one year |
+| Arafah (non-pilgrim) | Highly recommended | Expiates two years |
+| 6 of Shawwal | Recommended | Like fasting forever |
+| Monday & Thursday | Recommended | Deeds presented |
+| White Days | Recommended | Like fasting forever |
+| Sha'ban | Recommended | Prophet's practice |
+
+### Days Prohibited from Fasting
+
+| Day | Ruling | Reason |
+|-----|--------|--------|
+| Two Eids | Prohibited | Explicit prohibition |
+| Days of Tashriq | Prohibited | Days of eating and drinking |
+| Friday alone | Disliked | Prophet's prohibition |
+| Saturday alone | Disliked | Differing from Jews |
+| Fasting perpetually | Disliked | "He did not fast who fasted forever" |
 
 ---
 
-## 7. The Fast of Dawud (عليه السلام)
+## ⚖️ Differences Between Schools
 
-### 7.1 The Best Voluntary Fast
+### Fasting Six of Shawwal
 
-> **'Abdullah ibn 'Amr رضي الله عنهما narrated** that the Prophet ﷺ said: "The most beloved fast to Allah is the fast of Dawud: he would fast one day and eat one day."
-> — *Reported by Al-Bukhari (1979) and Muslim (1159)*
-
-### 7.2 Characteristics
-
-| Aspect | Detail |
+| School | Ruling |
 |--------|--------|
-| **Rhythm** | Every other day |
-| **Balance** | Neither excess nor negligence |
-| **Consistency** | Easier to maintain |
+| 🟢 Hanafi | Recommended |
+| 🟡 Maliki | Disliked (connecting to Ramadan) |
+| 🔵 Shafi'i | Recommended |
+| 🟣 Hanbali | Recommended |
+
+### Fasting Saturday
+
+| School | Ruling |
+|--------|--------|
+| 🟢 Hanafi | Permissible if not alone |
+| 🟡 Maliki | Permissible |
+| 🔵 Shafi'i | Disliked if alone |
+| 🟣 Hanbali | Disliked if alone |
 
 ---
 
-## 8. Other Recommended Fasts
+## 🌍 Contemporary Applications
 
-### 8.1 The First Ten Days of Dhul-Hijja
+### Annual Recommended Fasting Schedule
 
-> **Ibn Abbas رضي الله عنهما narrated** that the Prophet ﷺ said: "There are no days in which righteous deeds are more beloved to Allah than these ten days."
-> — *Reported by Al-Bukhari (969)*
-
-### 8.2 The Month of Muharram
-
-> **The Prophet ﷺ said:** "The best fast after Ramadan is the month of Allah, Muharram."
-> — *Reported by Muslim (1163)*
-
-### 8.3 The Month of Sha'ban
-
-> **'Aisha رضي الله عنها said:** "I never saw the Prophet ﷺ complete fasting a month except Ramadan, and I never saw him fast more than in Sha'ban."
-> — *Reported by Al-Bukhari (1969) and Muslim (1156)*
+| Month | Recommended Days |
+|-------|------------------|
+| Muharram | Ashura (9-10) |
+| Every month | White Days (13-14-15) |
+| Every week | Monday & Thursday |
+| Sha'ban | Most of it |
+| Shawwal | Six days |
+| Dhul-Hijjah | Day of Arafah (non-pilgrims) |
 
 ---
 
-## 9. Days Forbidden for Fasting
+## ⚠️ Common Mistakes
 
-### 9.1 List of Forbidden Days
-
-| Day | Prohibition | Evidence |
-|-----|-------------|----------|
-| **Eid Al-Fitr** | Haram | Agreed upon hadith |
-| **Eid Al-Adha** | Haram | Agreed upon hadith |
-| **Days of Tashriq** (11-12-13 Dhul-Hijja) | Haram (except for pilgrim) | Hadith Muslim |
-| **Friday alone** | Makruh (disliked) | Hadith Al-Bukhari |
-| **Saturday alone** | 🟡 Difference | Some hadiths |
-| **Day of doubt** (30th Sha'ban) | Forbidden | Hadith Al-Bukhari |
-
-### 9.2 Friday Alone
-
-> **The Prophet ﷺ said:** "None of you should fast on Friday unless he fasts a day before or a day after it."
-> — *Reported by Al-Bukhari (1985) and Muslim (1144)*
-
-### 9.3 Days of Tashriq
-
-> **The Prophet ﷺ said:** "The days of Tashriq are days of eating, drinking, and remembering Allah."
-> — *Reported by Muslim (1141)*
+| Mistake | Correction |
+|---------|------------|
+| Pilgrim fasting Arafah | Not recommended for pilgrims |
+| Connecting Shawwal directly to Ramadan | Better to spread them (Maliki view) |
+| Fasting Friday alone | Disliked; add another day |
+| Fasting perpetually | Disliked; "He did not fast who fasted forever" |
 
 ---
 
-## 10. Rules of Voluntary Fasting
+## ❓ Frequently Asked Questions
 
-### 10.1 Intention
+**Q1: What is the best fasting?**
+A: The fasting of Dawud: one day on, one day off. And fasting three days every month.
 
-| School | Time of Intention |
-|--------|-------------------|
-| **Maliki 🟡** | Before dawn (like obligatory) |
-| **Hanafi** | Can be made during the day |
-| **Shafi'i** | Can be made during the day |
-| **Hanbali** | Can be made during the day |
+**Q2: Can one fast Shawwal before making up Ramadan?**
+A: Disputed. Safer to make up first.
 
-### 10.2 Breaking Voluntary Fast
-
-> **'Aisha رضي الله عنها narrated:** The Prophet ﷺ entered upon me and asked: "Do you have anything (to eat)?" I said: "No." He said: "Then I am fasting." Then another day he came and was offered hays (date mixture). He ate from it.
-> — *Reported by Muslim (1154)*
-
-| School | Breaking voluntary fast | Make up? |
-|--------|------------------------|----------|
-| **Maliki 🟡** | Permitted without excuse | Making up recommended 🟡 |
-| **Hanafi** | Permitted | Making up obligatory |
-| **Shafi'i** | Permitted | No make up |
-| **Hanbali** | Permitted without excuse | No make up |
+**Q3: Does fasting Arafah expiate major sins?**
+A: It expiates minor sins. Major sins require specific repentance.
 
 ---
 
-## 11. Summary Table of Recommended Fasts
+## 🎯 Practical Action Plan
 
-| Fast | Timing | Merit | Priority |
-|------|--------|-------|----------|
-| **6 days Shawwal** | After Ramadan | Complete year | ⭐⭐⭐ |
-| **'Arafat** | 9 Dhul-Hijja | 2 years expiated | ⭐⭐⭐ |
-| **'Ashura + 9th** | 9-10 Muharram | 1 year expiated | ⭐⭐⭐ |
-| **White days** | 13-14-15/month | Complete year | ⭐⭐ |
-| **Monday/Thursday** | Every week | Deeds presented | ⭐⭐ |
-| **Fast of Dawud** | Every other day | Best rhythm | ⭐⭐ |
-| **10 Dhul-Hijja** | 1-9 Dhul-Hijja | Best deeds | ⭐⭐ |
-| **Sha'ban** | Month of Sha'ban | Prophetic practice | ⭐ |
-| **Muharram** | Month of Muharram | Best after Ramadan | ⭐ |
+### Maintaining Voluntary Fasting
+
+- [ ] **Fast** Monday and Thursday weekly
+- [ ] **Fast** the White Days monthly
+- [ ] **Be keen** on Ashura and Arafah
+- [ ] **Fast** six of Shawwal
 
 ---
 
-## 12. Practical Advice
+## 📝 Supplication
 
-### To Start:
-1. **Begin with the White Days** (3 days/month)
-2. **Add Monday and Thursday** progressively
-3. **Never miss 'Arafat and 'Ashura**
-4. **Fast the 6 of Shawwal** every year
+<div style="text-align: center; font-size: 1.3em; margin: 20px 0;">
 
-### Caution:
-- Don't neglect obligations for voluntary acts
-- Balance between fasting and other worship
-- Don't fast to the point of weakness
+اللَّهُمَّ أَعِنِّي عَلَى صِيَامِ التَّطَوُّعِ
 
----
+وَاجْعَلْهُ خَالِصًا لِوَجْهِكَ الْكَرِيمِ
 
-## Sources
+وَتَقَبَّلْهُ مِنِّي يَا أَرْحَمَ الرَّاحِمِينَ
 
-- *Sahih Al-Bukhari* and *Sahih Muslim*
-- *Sunan At-Tirmidhi* and *Sunan An-Nasa'i*
-- *Al-Muwatta* by Imam Malik
-- *Zad Al-Ma'ad* by Ibn Al-Qayyim
-- *Fiqh As-Sunnah* by Sayyid Sabiq
+</div>
+
+*O Allah, help me in voluntary fasting, make it sincere for Your noble Face, and accept it from me, O Most Merciful.*
 
 ---
 
-And Allah knows best | والله أعلم
-`
+## 📚 Sources
+
+- **Al-Muwatta'** — Malik
+- **Al-Mudawwana** — Sahnoun
+- **Al-Qawanin Al-Fiqhiyya** — Ibn Juzayy
+- **Sahih Al-Bukhari** — Al-Bukhari
+- **Sahih Muslim** — Muslim
+
+---
+
+**وَاللهُ أَعْلَم**
+*And Allah knows best*
+`;

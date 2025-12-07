@@ -1,296 +1,252 @@
-/**
- * Siyam - Leçon 005: Ce qui est Permis pendant le Jeûne
- * Contenu en Anglais
- */
+export const content = `
+# 📜 الأَعْمَالُ الْمُبَاحَةُ — Permissible Acts While Fasting
 
-export const content = `# What is Permitted During Fasting (ما يُباح للصائم)
-
-## Introduction
-
-Allah تعالى made fasting obligatory while granting ease to His servants. Knowing what is permitted helps the fasting person live their worship serenely. Allah تعالى says:
-
-> **﴿ يُرِيدُ اللَّهُ بِكُمُ الْيُسْرَ وَلَا يُرِيدُ بِكُمُ الْعُسْرَ ﴾**
->
-> *"Allah intends for you ease and does not intend for you hardship."* [Al-Baqara: 185]
-
-The Prophet ﷺ said:
-
-> **« إِنَّ الدِّينَ يُسْرٌ، وَلَنْ يُشَادَّ الدِّينَ أَحَدٌ إِلَّا غَلَبَهُ »**
->
-> *"The religion is easy. Whoever tries to make the religion difficult will be overcome by it."*
-> — [Al-Bukhari (39)]
+> "The people will remain upon goodness as long as they hasten to break the fast."
+> — Narrated by Al-Bukhari and Muslim
 
 ---
 
-## 1. Acts Related to the Body
+## 📜 Foundational Texts
 
-### 1.1 Ghusl (الغسل) - Bathing
+### Quran
 
-The fasting person may bathe to:
-- Cool down in hot weather
-- Purify from janaba
-- Perform the Friday ghusl
+> ﴿ يُرِيدُ اللَّهُ بِكُمُ الْيُسْرَ وَلَا يُرِيدُ بِكُمُ الْعُسْرَ ﴾
+> *"Allah intends for you ease and does not intend for you hardship."*
+> — Surah Al-Baqara, 2:185
 
-**Evidence:**
+### Prophetic Hadiths
 
-> *'Aisha رضي الله عنها reported:*
-> **« كَانَ رَسُولُ اللَّهِ ﷺ يُدْرِكُهُ الْفَجْرُ وَهُوَ جُنُبٌ مِنْ أَهْلِهِ، ثُمَّ يَغْتَسِلُ وَيَصُومُ »**
->
-> *"The Prophet ﷺ would sometimes wake up in a state of janaba, then make ghusl and fast."*
-> — [Al-Bukhari (1925) and Muslim (1109)]
+> 'Aisha (may Allah be pleased with her) said: "The Prophet ﷺ used to kiss while fasting, and he had the most control over his desire."
+> — Al-Bukhari and Muslim
+
+> Anas (may Allah be pleased with him) said: "The Prophet ﷺ used to use the siwak while fasting."
+> — Al-Bukhari
+
+> Ibn 'Abbas (may Allah be pleased with them) reported: "The Prophet ﷺ had cupping done while fasting."
+> — Al-Bukhari
+
+---
+
+## 🎓 Scholarly Statements
+
+### Imam Malik ibn Anas (d. 179 AH)
+*"What does not reach the stomach and does not extract anything from the body does not harm the fasting person."*
+— Al-Muwatta'
+
+### Ibn Al-Qasim (d. 191 AH)
+*"Malik said: There is no harm in the fasting person using siwak at the beginning or end of the day, whether moist or dry."*
+— Al-Mudawwana
+
+### Ibn Rushd Al-Jadd (d. 520 AH)
+*"The principle in fasting is permissibility for what is not explicitly prohibited, and ease is an objective of the Shariah."*
+— Al-Muqaddimat Al-Mumahhadat
+
+### Al-Qadi 'Iyad (d. 544 AH)
+*"Everything that does not reach the stomach through a natural passage is permissible for the fasting person, and hardship is lifted."*
+— Ikmal Al-Mu'lim
+
+### Ibn Juzayy Al-Kalbi (d. 741 AH)
+*"Permissible acts for the fasting person are many; only what reaches or exits the stomach intentionally is prohibited."*
+— Al-Qawanin Al-Fiqhiyya
+
+### Shaykh Al-Dardir (d. 1201 AH)
+*"Permissible for the fasting person: siwak, kissing for one who controls himself, kohl, and cupping according to the well-known view."*
+— Al-Sharh Al-Kabir
+
+---
+
+## 🔍 Linguistic Analysis
+
+| Term | Arabic | Root | Literal Meaning | Technical Meaning |
+|------|--------|------|-----------------|-------------------|
+| Mubah | مُبَاح | ب-و-ح | Open, permitted | What has no reward for doing nor punishment for leaving |
+| Siwak | سِوَاك | س-و-ك | Rubbing | Tooth-cleaning stick |
+| Iktihal | اكْتِحَال | ك-ح-ل | Applying kohl | Beautifying eyes with kohl |
+| Hijama | حِجَامَة | ح-ج-م | Sucking | Extracting bad blood |
+| Ightisal | اغْتِسَال | غ-س-ل | Washing with water | Washing the body |
+| Madmada | مَضْمَضَة | م-ض-ض | Swishing water in mouth | Rinsing the mouth |
+
+---
+
+## 📚 Detailed Explanation
+
+### Permissible Acts for the Fasting Person
+
+#### 1. Siwak (Tooth Stick)
+- Permissible throughout the day according to Malikis
+- Whether moist or dry
+- Does not invalidate unless something is swallowed
+
+#### 2. Rinsing Mouth and Nose
+- Permissible without exaggeration
+- Excessive rinsing is disliked
+- Should avoid water reaching the stomach
+
+#### 3. Bathing and Cooling Off
+- Permissible to pour water on the head
+- Swimming is permissible with caution
+- Feeling coolness does not harm
+
+#### 4. Kohl (Eye Liner)
+- Permissible according to the majority
+- Even if its taste is felt in the throat
+- Because the eye is not a passage to the stomach
+
+#### 5. Kissing
+- Permissible for one who controls himself
+- Disliked for one who fears losing control
+- Prohibited if it leads to ejaculation
+
+#### 6. Cupping (Hijama)
+- Permissible according to the majority
+- Disliked according to some scholars
+- Safer to delay until after iftar
+
+#### 7. Tasting Food
+- Permissible when needed (for cooks)
+- On condition of not swallowing
+- Then spit and rinse
+
+### Table of Permissible Acts
+
+| Act | Ruling | Note |
+|-----|--------|------|
+| Siwak | Permissible | Throughout the day |
+| Rinsing mouth | Permissible | Without exaggeration |
+| Bathing | Permissible | For cooling or purification |
+| Kohl | Permissible | Does not invalidate |
+| Smelling perfume | Permissible | Does not invalidate |
+| Kissing | Permissible/Disliked | According to person's state |
+| Cupping | Permissible | According to well-known view |
+| Eye drops | Permissible | Does not invalidate |
+| Cream and lotion | Permissible | On the skin |
+
+---
+
+## ⚖️ Differences Between Schools
+
+### Siwak After Noon
+
+| School | Ruling |
+|--------|--------|
+| 🟢 Hanafi | Permissible throughout the day |
+| 🟡 Maliki | Permissible throughout the day |
+| 🔵 Shafi'i | Disliked after noon |
+| 🟣 Hanbali | Disliked after noon |
+
+### Cupping
+
+| School | Ruling |
+|--------|--------|
+| 🟢 Hanafi | Does not invalidate |
+| 🟡 Maliki | Does not invalidate (disliked) |
+| 🔵 Shafi'i | Does not invalidate |
+| 🟣 Hanbali | Invalidates |
+
+### Kissing
+
+| School | Ruling |
+|--------|--------|
+| 🟢 Hanafi | Permissible with dislike |
+| 🟡 Maliki | Permissible for one who controls himself |
+| 🔵 Shafi'i | Permissible with dislike |
+| 🟣 Hanbali | Permissible for one who controls himself |
+
+---
+
+## 🌍 Contemporary Applications
+
+### Medical Permissibilities
 
 | Action | Ruling | Note |
 |--------|--------|------|
-| Bathing to cool down | ✅ Permitted | Avoid swallowing water |
-| Bathing from janaba | ✅ Permitted | Recommended not to delay |
-| Swimming | ✅ Permitted | With caution |
+| Eye drops | Permissible | Does not invalidate |
+| Skin cream | Permissible | Does not invalidate |
+| Toothpaste | Permissible | Without swallowing |
+| Mouthwash | Permissible | Without swallowing |
+| Nasal spray | Difference | Safer to avoid |
 
-### 1.2 Rinsing the Mouth and Nose (المضمضة والاستنشاق)
+### Daily Permissibilities
 
-| Action | Ruling | Advice |
-|--------|--------|--------|
-| Rinsing mouth | ✅ Permitted | Without exaggeration |
-| Drawing water into nose | ✅ Permitted | Moderately |
-| Exaggerating in rinsing | ⚠️ Makruh | Risk of swallowing |
-
-**Hadith:**
-
-> **« وَبَالِغْ فِي الاِسْتِنْشَاقِ إِلاَّ أَنْ تَكُونَ صَائِمًا »**
->
-> *"Sniff water deeply into your nose, unless you are fasting."*
-> — [Abu Dawud (142), At-Tirmidhi - Sahih]
-
-### 1.3 Siwak (السواك)
-
-Using the siwak is **permitted and recommended** at all times, even for the fasting person.
-
-**School opinions:**
-
-| School | Position |
-|--------|----------|
-| 🟡 **Maliki** | Permitted at all times, makruh with wet siwak after Zawal |
-| 🔵 **Hanafi** | Permitted at all times |
-| 🟢 **Shafi'i** | Makruh after Zawal (due to breath change) |
-| 🔴 **Hanbali** | Makruh with wet siwak |
-
-**Evidence:**
-
-> **« لَوْلاَ أَنْ أَشُقَّ عَلَى أُمَّتِي لأَمَرْتُهُمْ بِالسِّوَاكِ عِنْدَ كُلِّ صَلاَةٍ »**
->
-> *"If I did not fear making things difficult for my community, I would have ordered them to use the siwak before every prayer."*
-> — [Al-Bukhari (887) and Muslim (252)]
-
-### 1.4 Applying Kohl and Drops (الكحل والقطرات)
-
-| Application | Ruling | Maliki School 🟡 |
-|-------------|--------|------------------|
-| Kohl in the eyes | ✅ Permitted | Does not nullify fast |
-| Eye drops | ✅ Permitted | Does not nullify |
-| Ear drops | ✅ Permitted | Does not nullify |
-| Nasal drops | ⚠️ Makruh | May reach throat |
-
----
-
-## 2. Acts Related to Food
-
-### 2.1 Tasting Food (ذوق الطعام)
-
-| Situation | Ruling | Condition |
-|-----------|--------|-----------|
-| Tasting to check salt | ✅ Permitted | Without swallowing |
-| Tasting for pleasure | ❌ Makruh | Without necessity |
-| Chewing for a baby | ✅ Permitted | If necessary |
-
-**Maliki Rule 🟡:** It is permitted for a cooking woman to taste food, provided:
-1. Nothing is swallowed
-2. Spitting out immediately
-3. Having a valid reason
-
-### 2.2 Swallowing Saliva (بلع الريق)
-
-| Substance | Ruling |
-|-----------|--------|
-| Normal saliva | ✅ Does not nullify |
-| Mucus descending to throat | ✅ Does not nullify (involuntary) |
-| Phlegm brought back then swallowed | ⚠️ Difference |
-
----
-
-## 3. Acts Between Spouses
-
-### 3.1 Kissing and Physical Contact (القُبلة والمباشرة)
-
-The Prophet ﷺ used to kiss his wives while fasting:
-
-> **« كَانَ رَسُولُ اللَّهِ ﷺ يُقَبِّلُ وَهُوَ صَائِمٌ، وَيُبَاشِرُ وَهُوَ صَائِمٌ، وَلَكِنَّهُ أَمْلَكُكُمْ لِإِرْبِهِ »**
->
-> *"The Messenger of Allah ﷺ used to kiss and have physical contact while fasting, but he was the most in control of himself among you."*
-> — [Al-Bukhari (1927) and Muslim (1106)]
-
-| Action | Person | Ruling 🟡 |
-|--------|--------|-----------|
-| Kissing | Self-controlled person | ✅ Permitted |
-| Kissing | Young person fearing loss of control | ⚠️ Makruh |
-| Light caresses | Self-controlled person | ✅ Permitted |
-| Caresses with intense desire | Everyone | ⚠️ Strongly makruh |
-
-### 3.2 Wet Dreams (الاحتلام)
-
-| Situation | Fasting status |
-|-----------|----------------|
-| Wet dream with ejaculation | ✅ Valid |
-| Waking up in janaba | ✅ Valid (make ghusl) |
-
-**Reason:** Dreams are involuntary, so they don't affect fasting.
-
----
-
-## 4. Medical Acts
-
-### 4.1 Injections (الحُقن)
-
-| Type of injection | Ruling | Reason |
-|-------------------|--------|--------|
-| Intramuscular (vaccine) | ✅ Permitted | Does not reach digestive system |
-| Intravenous (non-nutritive) | ✅ Permitted | Not food |
-| Nutritive (glucose, vitamins) | ❌ Nullifies | Equivalent to eating |
-| Insulin | ✅ Permitted | Not nutritive |
-
-### 4.2 Tests and Samples
-
-| Act | Ruling |
-|-----|--------|
-| Blood draw | ✅ Permitted |
-| Blood donation | ✅ Permitted (if bearable) |
-| Urine analysis | ✅ Permitted |
-
-### 4.3 Dental Care
-
-| Treatment | Ruling | Condition |
-|-----------|--------|-----------|
-| Tooth extraction | ✅ Permitted | Don't swallow blood |
-| Filling | ✅ Permitted | Avoid swallowing |
-| Scaling | ✅ Permitted | With caution |
-| Local anesthesia | ✅ Permitted | Does not nullify |
-
----
-
-## 5. Beauty and Hygiene Acts
-
-### 5.1 Perfume (الطِّيب)
-
-| Use | Ruling |
-|-----|--------|
-| Applying perfume | ✅ Permitted |
-| Smelling perfume | ✅ Permitted |
-| Inhaling incense (smoke) | ⚠️ Difference |
-
-**Rule 🟡:** Voluntary inhalation of incense smoke is discouraged as it may reach the throat.
-
-### 5.2 Oil and Creams
-
-| Application | Ruling |
-|-------------|--------|
-| Oil on hair | ✅ Permitted |
-| Cream on body | ✅ Permitted |
-| Makeup | ✅ Permitted |
-
-### 5.3 Cutting Nails and Hair
-
-| Act | Ruling |
-|-----|--------|
-| Cutting nails | ✅ Permitted |
-| Shaving/cutting hair | ✅ Permitted |
-| Hair removal | ✅ Permitted |
-
----
-
-## 6. Various Situations
-
-### 6.1 Traveling While Fasting
-
-The traveler has several options:
-
-| Choice | Ruling |
+| Action | Ruling |
 |--------|--------|
-| Fasting while traveling | ✅ Permitted (preferable for Malikis if no difficulty) |
-| Breaking and making up | ✅ Permitted |
-| Starting travel after Fajr | Must complete the day according to Malikis 🟡 |
-
-### 6.2 Using Phone/Internet
-
-| Use | Ruling |
-|-----|--------|
-| Phone calls | ✅ Permitted |
-| Browsing internet | ✅ Permitted |
-| Watching permissible content | ✅ Permitted |
-| Watching forbidden content | ❌ Haram (not specific to fasting) |
+| Sleeping throughout day | Permissible (disliked) |
+| Light exercise | Permissible |
+| Swimming | Permissible with caution |
+| Using perfume | Permissible |
+| Brushing teeth | Permissible without swallowing |
 
 ---
 
-## Summary Table
+## ⚠️ Common Mistakes
 
-| Category | Action | Ruling |
-|----------|--------|--------|
-| **Body** | Bathing | ✅ Permitted |
-| | Siwak | ✅ Permitted |
-| | Kohl | ✅ Permitted |
-| **Food** | Tasting without swallowing | ✅ Permitted (if needed) |
-| | Swallowing saliva | ✅ Permitted |
-| **Spouses** | Kissing (self-controlled) | ✅ Permitted |
-| | Wet dream | ✅ Does not nullify |
-| **Medical** | Non-nutritive injection | ✅ Permitted |
-| | Blood draw | ✅ Permitted |
-| **Hygiene** | Perfume | ✅ Permitted |
-| | Creams | ✅ Permitted |
+| Mistake | Correction |
+|---------|------------|
+| Avoiding siwak fearing invalidation | Siwak is permissible and recommended |
+| Refraining from bathing | Bathing is permissible and does not invalidate |
+| Thinking kohl invalidates | Does not invalidate according to majority |
+| Avoiding smelling food | Smelling does not invalidate |
+| Excessive avoidance of permissibles | Ease is an objective of Shariah |
 
 ---
 
-## Recommendations for Serene Fasting
+## ❓ Frequently Asked Questions
 
-### What is recommended to do:
+**Q1: Can a fasting person swim?**
+A: Yes, with caution to prevent water entering the stomach.
 
-1. ✅ Delay Suhur
-2. ✅ Hasten Iftar
-3. ✅ Multiply good deeds
-4. ✅ Read Quran abundantly
-5. ✅ Make supplications, especially before Iftar
+**Q2: Does toothpaste invalidate the fast?**
+A: No, on condition of not swallowing.
 
-### What is better to avoid (even if permitted):
+**Q3: Can one use perfume?**
+A: Yes, smelling fragrance does not invalidate.
 
-1. ⚠️ Strongly arousing caresses
-2. ⚠️ Exaggeration in mouth rinsing
-3. ⚠️ Tasting food without necessity
-4. ⚠️ Arguing or raising voice
+**Q4: Do eye drops invalidate the fast?**
+A: No, according to the majority.
 
----
-
-## The Spirit of Fasting
-
-The Prophet ﷺ said:
-
-> **« مَنْ لَمْ يَدَعْ قَوْلَ الزُّورِ وَالْعَمَلَ بِهِ فَلَيْسَ لِلَّهِ حَاجَةٌ فِي أَنْ يَدَعَ طَعَامَهُ وَشَرَابَهُ »**
->
-> *"Whoever does not leave false speech and acting upon it, Allah has no need for him to leave his food and drink."*
-> — [Al-Bukhari (1903)]
-
-Fasting is not merely abstention from food, but a school of spirituality and purification of the soul.
+**Q5: Can a cook taste food?**
+A: Yes, when needed, on condition of not swallowing.
 
 ---
 
-## Sources
+## 🎯 Practical Action Plan
 
-- **The Holy Quran** - Surah Al-Baqara
-- **Sahih Al-Bukhari** - Kitab As-Sawm
-- **Sahih Muslim** - Kitab As-Siyam
-- **Sunan Abu Dawud**
-- **Al-Mudawwana** - Imam Malik
-- **Ash-Sharh As-Saghir** - Ad-Dardir
-- **Contemporary Fatwas** - Fiqh Assemblies
+### Benefiting from Permissibilities
+
+- [ ] **Use** siwak for cleanliness and Sunnah
+- [ ] **Bathe** to cool off when needed
+- [ ] **Don't exaggerate** in avoiding permissibles
+- [ ] **Ask** when uncertain
 
 ---
 
-**والله أعلم**
+## 📝 Supplication
 
-*May Allah grant us an accepted fast and ease His worship for us.*
-`
+<div style="text-align: center; font-size: 1.3em; margin: 20px 0;">
+
+اللَّهُمَّ يَسِّرْ لَنَا صِيَامَنَا
+
+وَأَعِنَّا عَلَى طَاعَتِكَ
+
+وَلَا تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا بِهِ
+
+</div>
+
+*O Allah, ease our fasting for us, help us in Your obedience, and do not burden us with what we cannot bear.*
+
+---
+
+## 📚 Sources
+
+- **Al-Muwatta'** — Imam Malik
+- **Al-Mudawwana Al-Kubra** — Imam Sahnoun
+- **Al-Qawanin Al-Fiqhiyya** — Ibn Juzayy
+- **Al-Sharh Al-Kabir** — Al-Dardir
+- **Sahih Al-Bukhari** — Al-Bukhari
+- **Sahih Muslim** — Muslim
+
+---
+
+**وَاللهُ أَعْلَم**
+*And Allah knows best*
+`;

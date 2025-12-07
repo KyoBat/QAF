@@ -1,241 +1,278 @@
-/**
- * Siyam - Leçon 002: Les Conditions d'Obligation du Jeûne
- * Contenu en Anglais
- */
+export const content = `
+# 📜 شُرُوطُ وُجُوبِ الصِّيَامِ — Conditions of Obligation and Validity
 
-export const content = `# Conditions for the Obligation of Fasting (شروط وجوب الصيام)
-
-## Introduction
-
-Fasting during Ramadan is an obligation for every Muslim, but this obligation is subject to certain conditions. Allah تعالى says:
-
-> **﴿ فَمَن شَهِدَ مِنكُمُ الشَّهْرَ فَلْيَصُمْهُ ۖ وَمَن كَانَ مَرِيضًا أَوْ عَلَىٰ سَفَرٍ فَعِدَّةٌ مِّنْ أَيَّامٍ أُخَرَ ﴾**
->
-> *"So whoever among you witnesses the month, let him fast it. And whoever is ill or on a journey, then an equal number of other days."* [Al-Baqara: 185]
-
-The Prophet ﷺ said:
-
-> **« رُفِعَ الْقَلَمُ عَنْ ثَلاَثَةٍ: عَنِ النَّائِمِ حَتَّى يَسْتَيْقِظَ، وَعَنِ الصَّبِيِّ حَتَّى يَحْتَلِمَ، وَعَنِ الْمَجْنُونِ حَتَّى يَعْقِلَ »**
->
-> *"The pen is lifted from three: from the sleeper until he wakes, from the child until he reaches puberty, and from the insane until he regains his sanity."*
-> — [Abu Dawud (4403), An-Nasai, Ibn Majah - Authenticated by Al-Albani]
+> "The pen is lifted from three: from the sleeper until he wakes, from the child until he reaches puberty, and from the insane until he regains sanity"
+> — Narrated by Abu Dawud and Al-Nasa'i
 
 ---
 
-## 1. Islam (الإسلام)
+## 📜 Foundational Texts
 
-### 1.1 Definition of this Condition
+### Quran
 
-Fasting is only obligatory upon a **Muslim**. A non-Muslim is not required to fast as long as they have not embraced Islam.
+> ﴿ فَمَن شَهِدَ مِنكُمُ الشَّهْرَ فَلْيَصُمْهُ ۖ وَمَن كَانَ مَرِيضًا أَوْ عَلَىٰ سَفَرٍ فَعِدَّةٌ مِّنْ أَيَّامٍ أُخَرَ ﴾
+> *"So whoever witnesses the month, let him fast it. And whoever is ill or on a journey, then an equal number of other days."*
+> — Surah Al-Baqara, 2:185
 
-### 1.2 Status of the Non-Muslim
+> ﴿ لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسْعَهَا ﴾
+> *"Allah does not burden a soul beyond its capacity."*
+> — Surah Al-Baqara, 2:286
 
-| Situation | Ruling |
-|-----------|--------|
-| **During disbelief** | Not required to fast |
-| **After conversion** | Required to fast from the moment of embracing Islam |
-| **Making up days** | Not required for days before conversion |
-| **Day of Judgment** | Will be punished for neglecting obligations |
+### Prophetic Hadiths
 
-### 1.3 Evidence
+> 'Aisha (may Allah be pleased with her) reported that the Messenger of Allah ﷺ said: "The pen is lifted from three: from the sleeper until he wakes, from the child until he reaches puberty, and from the insane until he regains sanity."
+> — Abu Dawud (4398) and Al-Nasa'i (3432)
 
-The Prophet ﷺ said:
+> Ibn 'Abbas (may Allah be pleased with them) reported: "We were commanded to make our children fast."
+> — Al-Tabarani
 
-> **« الإِسْلاَمُ يَجُبُّ مَا كَانَ قَبْلَهُ »**
->
-> *"Islam erases what came before it."*
-> — [Muslim (121)]
-
----
-
-## 2. Puberty (البلوغ)
-
-### 2.1 Definition
-
-**Puberty** (البلوغ) marks the transition to adulthood and the beginning of legal responsibility (التكليف).
-
-### 2.2 Signs of Puberty
-
-| For Males | For Females |
-|-----------|-------------|
-| Ejaculation (الاحتلام) | Menstruation (الحيض) |
-| Appearance of pubic hair | Appearance of pubic hair |
-| Reaching 15 lunar years | Reaching 15 lunar years |
-| Voice change | Pregnancy (definitive sign) |
-
-### 2.3 The Child and Fasting
-
-Although fasting is not obligatory for children, it is **recommended** to gradually accustom them:
-
-The Prophet ﷺ said regarding prayer (and this applies to fasting by analogy):
-
-> **« مُرُوا أَوْلاَدَكُمْ بِالصَّلاَةِ وَهُمْ أَبْنَاءُ سَبْعِ سِنِينَ »**
->
-> *"Order your children to pray when they are seven years old."*
-> — [Abu Dawud (495)]
-
-### 2.4 Positions of the Schools on Training Children
-
-| School | Position |
-|--------|----------|
-| 🟡 **Maliki** | Recommended when physically capable |
-| 🔵 **Hanafi** | Recommended from 7 years |
-| 🟢 **Shafi'i** | Obligatory for parents to train the capable child |
-| 🔴 **Hanbali** | Recommended from 10 years, with more emphasis |
+> Hafsa (may Allah be pleased with her) reported that the Messenger of Allah ﷺ said: "Whoever does not intend to fast before Fajr, there is no fast for him."
+> — Abu Dawud, Al-Tirmidhi, and Al-Nasa'i
 
 ---
 
-## 3. Sanity (العقل)
+## 🎓 Scholarly Statements
 
-### 3.1 Definition
+### Imam Malik ibn Anas (d. 179 AH)
+*"The conditions for the obligation of fasting are: Islam, puberty, sanity, and capability. Whoever possesses these conditions, fasting becomes obligatory upon him."*
+— Al-Muwatta'
 
-**Sanity** (العقل) is the faculty that allows a person to distinguish right from wrong and understand obligations.
+### Ibn Al-Qasim (d. 191 AH)
+*"Malik said: The intention is obligatory in obligatory fasting, and it must be made during the night before Fajr."*
+— Al-Mudawwana
 
-### 3.2 Who is Concerned?
+### Ibn Rushd Al-Jadd (d. 520 AH)
+*"Conditions are of two types: conditions of obligation which make fasting obligatory, and conditions of validity which make fasting valid."*
+— Al-Muqaddimat Al-Mumahhadat
 
-| Person | Fasting Ruling |
-|--------|----------------|
-| **Permanently insane** | No obligation, no make-up |
-| **Intermittently insane** | Obligatory during lucid moments |
-| **Unconscious person** | No obligation during unconsciousness |
-| **Person under anesthesia** | Must make up missed days |
+### Al-Qadi 'Iyad (d. 544 AH)
+*"Puberty is a condition for obligation, not validity. Thus, the fast of a discerning child is valid and rewarded, even though not obligatory upon him."*
+— Ikmal Al-Mu'lim
 
-### 3.3 Evidence
+### Ibn Juzayy Al-Kalbi (d. 741 AH)
+*"The conditions for the obligation of fasting are five: Islam, puberty, sanity, health, and residence. The conditions for its validity are four: Islam, sanity, intention, and absence of impediments."*
+— Al-Qawanin Al-Fiqhiyya
 
-This is the hadith mentioned in the introduction:
-
-> *"The pen is lifted from three... and from the insane until he regains his sanity."*
-
----
-
-## 4. Ability (القدرة/الاستطاعة)
-
-### 4.1 Definition
-
-**Ability** means that the person is physically and mentally capable of bearing the fast without serious harm.
-
-### 4.2 Cases of Inability
-
-| Category | Detail | Ruling |
-|----------|--------|--------|
-| **The sick** | Illness worsened by fasting | Exemption + make-up |
-| **The traveler** | Legal travel (≈ 80 km according to Malikis) | Exemption + make-up |
-| **Pregnant woman** | Fears for herself or fetus | Exemption + make-up |
-| **Nursing mother** | Fears for herself or infant | Exemption + make-up |
-| **Elderly person** | Unable to bear fasting | Exemption + fidya |
-| **Chronically ill** | No hope of recovery | Exemption + fidya |
-
-### 4.3 The Fidya (الفدية)
-
-The **fidya** is compensation for those who cannot fast and have no hope of making it up:
-
-> **﴿ وَعَلَى الَّذِينَ يُطِيقُونَهُ فِدْيَةٌ طَعَامُ مِسْكِينٍ ﴾**
->
-> *"And for those who can only fast with extreme difficulty, there is a compensation: feeding a poor person."* [Al-Baqara: 184]
-
-**Amount of fidya:**
-- One **mudd** (approximately 750g) of staple food per day
-- Or the equivalent in money according to the Hanafi school
+### Shaykh Khalil Al-Maliki (d. 776 AH)
+*"It is obligatory upon a legally responsible person who is capable, when Ramadan is present, and is free from menstruation and post-natal bleeding."*
+— Mukhtasar Khalil
 
 ---
 
-## 5. Residence (الإقامة)
+## 🔍 Linguistic Analysis
 
-### 5.1 The Traveler's Ruling
+| Term | Arabic | Root | Literal Meaning | Technical Meaning |
+|------|--------|------|-----------------|-------------------|
+| Shart | شَرْط | ش-ر-ط | Sign, mark | What something depends on without being part of it |
+| Wujub | وُجُوب | و-ج-ب | Necessity | What the doer is rewarded for and punished for leaving |
+| Sihha | صِحَّة | ص-ح-ح | Soundness | What produces its legal effects |
+| Bulugh | بُلُوغ | ب-ل-غ | Reaching | Reaching the age of legal responsibility |
+| Tamyiz | تَمْيِيز | م-ي-ز | Distinction | A child's ability to discern matters |
+| Niyyah | نِيَّة | ن-و-ي | Intention | The heart's resolve for worship |
 
-The traveler has the choice between fasting and not fasting:
-
-> **﴿ وَمَن كَانَ مَرِيضًا أَوْ عَلَىٰ سَفَرٍ فَعِدَّةٌ مِّنْ أَيَّامٍ أُخَرَ ﴾**
->
-> *"And whoever is ill or on a journey, then an equal number of other days."* [Al-Baqara: 185]
-
-### 5.2 Differences on the Best Choice
-
-| School | Position |
-|--------|----------|
-| 🟡 **Maliki** | Fasting is preferable if there's no hardship |
-| 🔵 **Hanafi** | Fasting is preferable |
-| 🟢 **Shafi'i** | Fasting is preferable if there's no hardship |
-| 🔴 **Hanbali** | Not fasting is preferable (following the concession) |
-
-### 5.3 Travel Conditions 🟡 (Maliki)
-
-1. **Distance**: Approximately 80 km (4 burud)
-2. **Permissible travel**: Not for sin
-3. **Start of journey**: Before Fajr to be able to break fast that day
+### Difference Between Conditions of Obligation and Validity
+- **Conditions of Obligation:** What makes fasting obligatory upon a person
+- **Conditions of Validity:** What makes fasting legally valid
 
 ---
 
-## 6. Absence of Impediments (عدم الموانع)
+## 📚 Detailed Explanation
 
-### 6.1 Female Impediments
+### Conditions of Obligation
 
-Two states prevent a woman from fasting:
+These are the conditions that, when present, make fasting obligatory:
 
-| State | Ruling |
-|-------|--------|
-| **Menstruation (الحيض)** | Forbidden to fast + make-up obligatory |
-| **Post-natal bleeding (النفاس)** | Forbidden to fast + make-up obligatory |
+#### 1. Islam
+Fasting is not obligatory upon the original disbeliever, though he is accountable in the Hereafter.
 
-### 6.2 Evidence
+#### 2. Puberty (Bulugh)
+Not obligatory upon a child, but training him is recommended. Signs of puberty:
+- Wet dreams for males and females
+- Menstruation for females
+- Reaching fifteen years of age
+- Growth of pubic hair
 
-'Aisha رضي الله عنها said:
+#### 3. Sanity ('Aql)
+Not obligatory upon the insane, nor valid from him.
 
-> **« كُنَّا نُؤْمَرُ بِقَضَاءِ الصَّوْمِ وَلاَ نُؤْمَرُ بِقَضَاءِ الصَّلاَةِ »**
->
-> *"We were ordered to make up the fasts but not to make up the prayers."*
-> — [Al-Bukhari (321) and Muslim (335)]
+#### 4. Capability (Qudra)
+Not obligatory upon one permanently incapable (the very elderly).
 
----
+#### 5. Residence (Iqama)
+The traveler has a dispensation to break fast with obligation to make up.
 
-## Summary Table of Conditions
+#### 6. Absence of Impediments
+Such as menstruation and post-natal bleeding for women.
 
-| Condition | Absence = | Note |
-|-----------|-----------|------|
-| **Islam** | No obligation | Becomes obligatory upon conversion |
-| **Puberty** | No obligation | Training recommended |
-| **Sanity** | No obligation | No make-up for permanently insane |
-| **Ability** | Exemption | Make-up or fidya depending on case |
-| **Residence** | Exemption possible | Traveler has choice |
-| **Absence of menses/lochia** | Forbidden to fast | Make-up obligatory |
+### Conditions of Validity
 
----
+These are conditions without which fasting is not valid:
 
-## Practical Cases
+#### 1. Islam
+The fast of a disbeliever is not valid even if he fasts.
 
-### Case 1: Conversion during Ramadan
-**Question**: A person converts on the 15th of Ramadan. Must they make up the first 14 days?
+#### 2. Sanity
+Not valid from the insane or unconscious.
 
-**Answer**: No, they do not need to make up the days before their conversion. They fast from the day of their conversion.
+#### 3. Discernment (Tamyiz)
+Valid from a discerning child and he is rewarded.
 
-### Case 2: Child reaching puberty
-**Question**: A boy has his first ejaculation (ihtilam) on the 10th of Ramadan. What should he do?
+#### 4. Intention (Niyyah)
+An essential condition; must be made before Fajr for obligatory fasts.
 
-**Answer**: He must:
-1. Complete the current day (if he hadn't broken it)
-2. Fast the remaining days obligatorily
-3. No make-up for previous days
+#### 5. Absence of Menstruation and Post-natal Bleeding
+The fast of a menstruating or post-natal bleeding woman is not valid.
 
-### Case 3: Pregnant woman
-**Question**: A pregnant woman fears for her health. Can she break her fast?
+### Rulings on Intention
 
-**Answer** 🟡 (Maliki): Yes, if she fears for herself or her fetus, she may break her fast and must make up the days later. No fidya is required in this case according to the Malikis.
-
----
-
-## Sources
-
-- **The Holy Quran** - Surah Al-Baqara
-- **Sahih Al-Bukhari** - Kitab As-Sawm
-- **Sahih Muslim** - Kitab As-Siyam
-- **Sunan Abu Dawud** - Kitab As-Sawm
-- **Al-Mudawwana** - Imam Malik
-- **Ash-Sharh Al-Kabir** - Ad-Dardir
-- **Al-Fiqh 'ala Al-Madhahib Al-Arba'a** - Al-Jaziri
+| Aspect | Ruling |
+|--------|--------|
+| **Obligatory Fast** | Must be made before Fajr |
+| **Voluntary Fast** | Permissible during the day before Dhuhr |
+| **Specification** | Obligatory according to Malikis |
+| **Renewal** | One intention suffices for the month according to Malikis |
 
 ---
 
-**والله أعلم**
+## ⚖️ Differences Between Schools
 
-*May Allah facilitate the fulfillment of His obligations for us.*
-`
+### Timing of Intention
+
+| School | Ruling for Obligatory | Ruling for Voluntary |
+|--------|----------------------|---------------------|
+| 🟢 Hanafi | Valid until Duha time | Valid until before Dhuhr |
+| 🟡 Maliki | Must be before Fajr | Permissible before Dhuhr |
+| 🔵 Shafi'i | Must be before Fajr | Permissible before Dhuhr |
+| 🟣 Hanbali | Must be before Fajr | Permissible before Dhuhr |
+
+### Renewing Intention Daily
+
+| School | Ruling |
+|--------|--------|
+| 🟢 Hanafi | Must renew every night |
+| 🟡 Maliki | One intention at the start of the month suffices |
+| 🔵 Shafi'i | Must renew every night |
+| 🟣 Hanbali | Must renew every night |
+
+### Fasting of a Discerning Child
+
+| School | Ruling |
+|--------|--------|
+| 🟢 Hanafi | Recommended to train from 7 years |
+| 🟡 Maliki | Recommended from discernment |
+| 🔵 Shafi'i | Obligatory to train from 7 years |
+| 🟣 Hanbali | Obligatory from 10 years with discipline |
+
+---
+
+## 🌍 Contemporary Applications
+
+### Practical Cases
+
+**1. Patient with chronic illness (diabetes):**
+- If fasting causes clear harm: break fast and pay fidya
+- If it doesn't cause harm: fast with medical monitoring
+
+**2. Student during exams:**
+- No dispensation to break fast for studies
+- Must fast while organizing time
+
+**3. Worker in hard labor:**
+- If can reduce work: fasts
+- If work is necessary and harmful: breaks fast and makes up
+
+**4. One who converts during Ramadan:**
+- Abstains for the rest of that day
+- No makeup for what passed
+
+---
+
+## ⚠️ Common Mistakes
+
+| Mistake | Correction |
+|---------|------------|
+| Fasting without intention made at night | Intention is a condition for obligatory fasts; must be before Fajr |
+| Thinking children aren't rewarded | Discerning children are rewarded for their fast |
+| Forcing the sick to fast | Illness is a legal excuse to break fast |
+| Thinking intention must be verbal | Intention's place is the heart; verbalization not required |
+| Insisting on renewing intention daily | According to Malikis: one intention suffices |
+| Breaking fast for study or work | These are not excuses permitting breaking fast |
+
+---
+
+## ❓ Frequently Asked Questions
+
+**Q1: Must the intention be spoken?**
+A: No, the intention's place is the heart. Verbalizing it is considered an innovation by many scholars.
+
+**Q2: What if I forget to make intention at night?**
+A: If you remember before Fajr, make the intention and your fast is valid. If you remember after, the obligatory fast is not valid.
+
+**Q3: Should children fast?**
+A: It is recommended to train them from discernment (approximately 7 years), and they are rewarded for their fast.
+
+**Q4: When does fasting become obligatory for a girl?**
+A: Upon reaching puberty by any of its signs: menstruation, wet dreams, or reaching 15 years.
+
+**Q5: Does an insane person make up fasts if he recovers?**
+A: No makeup is required because the pen is lifted from him.
+
+---
+
+## 🎯 Practical Action Plan
+
+### Before the Month
+
+- [ ] **Review** the conditions of fasting
+- [ ] **Teach** children the rulings of intention
+- [ ] **Consult** a doctor if there is illness
+
+### Every Night
+
+- [ ] **Make** intention before Fajr
+- [ ] **Confirm** the time of imsak (start of fast)
+- [ ] **Have suhur** to strengthen for fasting
+
+### For Parents
+
+- [ ] **Train** children from the age of discernment
+- [ ] **Gradually** increase their fasting
+- [ ] **Encourage** and reward them
+
+---
+
+## 📝 Supplication
+
+<div style="text-align: center; font-size: 1.3em; margin: 20px 0;">
+
+**دُعَاءُ تَبْيِيتِ النِّيَّة**
+
+نَوَيْتُ صَوْمَ غَدٍ عَنْ أَدَاءِ فَرْضِ رَمَضَانَ
+
+هَذِهِ السَّنَةِ لِلَّهِ تَعَالَى
+
+اللَّهُمَّ تَقَبَّلْ مِنِّي وَأَعِنِّي عَلَيْهِ
+
+</div>
+
+*I intend to fast tomorrow as fulfillment of the obligation of Ramadan this year, for Allah Most High.*
+*O Allah, accept from me and help me in it.*
+
+---
+
+## 📚 Sources
+
+- **Al-Muwatta'** — Imam Malik ibn Anas
+- **Al-Mudawwana Al-Kubra** — Imam Sahnoun
+- **Al-Risala** — Ibn Abi Zayd Al-Qayrawani
+- **Al-Qawanin Al-Fiqhiyya** — Ibn Juzayy Al-Kalbi
+- **Al-Muqaddimat Al-Mumahhadat** — Ibn Rushd Al-Jadd
+- **Mukhtasar Khalil** — Khalil ibn Ishaq Al-Maliki
+- **Sunan Abi Dawud** — Imam Abu Dawud
+- **Sunan Al-Nasa'i** — Imam Al-Nasa'i
+
+---
+
+**وَاللهُ أَعْلَم**
+*And Allah knows best*
+`;
