@@ -67,23 +67,23 @@ Maysara revint émerveillé :
 
 Ce fut **Khadīja** qui proposa le mariage — par l'intermédiaire de son amie Nafīsa.
 
-\`\`\`
-LA SCÈNE
-┌────────────────────────────────────────────────────────────┐
-│  Nafīsa : « Ô Muḥammad, pourquoi ne te maries-tu pas ? »  │
-│                                                            │
-│  Muḥammad ﷺ : « Je n'ai pas les moyens. »                 │
-│                                                            │
-│  Nafīsa : « Et si on te proposait une femme de beauté,    │
-│  de richesse et de noblesse ? »                           │
-│                                                            │
-│  Muḥammad ﷺ : « Qui ? »                                   │
-│                                                            │
-│  Nafīsa : « Khadīja. »                                    │
-│                                                            │
-│  Muḥammad ﷺ : [surpris] « Elle accepterait ? »           │
-└────────────────────────────────────────────────────────────┘
-\`\`\`
+<div class="scene-box">
+
+**🎭 La Scène**
+
+**Nafīsa :** « Ô Muḥammad, pourquoi ne te maries-tu pas ? »
+
+**Muḥammad ﷺ :** « Je n'ai pas les moyens. »
+
+**Nafīsa :** « Et si on te proposait une femme de beauté, de richesse et de noblesse ? »
+
+**Muḥammad ﷺ :** « Qui ? »
+
+**Nafīsa :** « Khadīja. »
+
+**Muḥammad ﷺ :** *[surpris]* « Elle accepterait ? »
+
+</div>
 
 Elle accepta. Il accepta. Le mariage fut célébré.
 

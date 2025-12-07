@@ -109,31 +109,26 @@ Sa'd, wounded in the battle, was brought on a donkey.
 
 ### The Verdict
 
-\`\`\`
-The Scene of Judgment
-┌───────────────────────────────────────────────────────────────┐
-│                                                               │
-│  The Prophet ﷺ to the Anṣār:                                 │
-│  "Stand up to receive your chief!"                            │
-│                                                               │
-│  To Banū Qurayẓa:                                             │
-│  "Have you accepted Sa'd's judgment?"                         │
-│  "Yes."                                                       │
-│                                                               │
-│  To the Prophet ﷺ:                                            │
-│  "And you, O Messenger of Allah?"                             │
-│  "Yes."                                                       │
-│                                                               │
-│  Sa'd:                                                        │
-│  "My judgment is that the fighters be executed,               │
-│  the women and children captured,                             │
-│  and the property distributed."                               │
-│                                                               │
-│  The Prophet ﷺ:                                               │
-│  "You have judged according to Allah's judgment."             │
-│                                                               │
-└───────────────────────────────────────────────────────────────┘
-\`\`\`
+<div class="scene-box">
+
+**🎭 The Scene of Judgment**
+
+**The Prophet ﷺ to the Anṣār:**
+"Stand up to receive your chief!"
+
+**To Banū Qurayẓa:**
+"Have you accepted Sa'd's judgment?" — "Yes."
+
+**To the Prophet ﷺ:**
+"And you, O Messenger of Allah?" — "Yes."
+
+**Sa'd:**
+"My judgment is that the fighters be executed, the women and children captured, and the property distributed."
+
+**The Prophet ﷺ:**
+"You have judged according to Allah's judgment."
+
+</div>
 
 ---
 
@@ -171,23 +166,20 @@ Sa'd ibn 'Ubāda was **the most generous** of the Anṣār.
 
 ### His Open House
 
-\`\`\`
-The Generosity of Sa'd ibn 'Ubāda
-┌───────────────────────────────────────────────────────────────┐
-│                                                               │
-│  📢 Every evening, a crier announced:                         │
-│                                                               │
-│  "Whoever wants meat and fat,                                 │
-│  let him come to Sa'd ibn 'Ubāda!"                            │
-│                                                               │
-│  🍽️ He fed 80 people or more every night                     │
-│                                                               │
-│  🏠 His house was a refuge for the poor                       │
-│                                                               │
-│  💰 He regularly sent food to the Prophet ﷺ                   │
-│                                                               │
-└───────────────────────────────────────────────────────────────┘
-\`\`\`
+<div class="scene-box">
+
+**🍽️ The Generosity of Sa'd ibn 'Ubāda**
+
+**📢 Every evening, a crier announced:**
+"Whoever wants meat and fat, let him come to Sa'd ibn 'Ubāda!"
+
+**🍽️** He fed 80 people or more every night
+
+**🏠** His house was a refuge for the poor
+
+**💰** He regularly sent food to the Prophet ﷺ
+
+</div>
 
 ---
 

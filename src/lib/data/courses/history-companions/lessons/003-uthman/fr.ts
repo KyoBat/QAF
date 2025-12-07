@@ -163,16 +163,19 @@ Après les conquêtes, des musulmans de différentes régions récitaient le Cor
 
 **La solution :**
 
-\`\`\`
-LA COMPILATION
-┌────────────────────────────────────────────────────────────┐
-│  1. Rassemblement des exemplaires originaux               │
-│  2. Commission dirigée par Zayd ibn Thābit                │
-│  3. Écriture d'un muṣḥaf standard (dialecte de Quraysh)   │
-│  4. Envoi de copies dans les grandes villes               │
-│  5. Destruction des versions non conformes                │
-└────────────────────────────────────────────────────────────┘
-\`\`\`
+<div class="scene-box">
+
+**📜 La Compilation du Coran**
+
+| Étape | Action |
+|-------|--------|
+| 1 | Rassemblement des exemplaires originaux |
+| 2 | Commission dirigée par Zayd ibn Thābit |
+| 3 | Écriture d'un muṣḥaf standard (dialecte de Quraysh) |
+| 4 | Envoi de copies dans les grandes villes |
+| 5 | Destruction des versions non conformes |
+
+</div>
 
 Grâce à 'Uthmān, le Coran est **unifié** jusqu'à aujourd'hui.
 

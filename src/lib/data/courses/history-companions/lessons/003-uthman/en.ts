@@ -163,16 +163,19 @@ After the conquests, Muslims from different regions were reciting the Quran with
 
 **The solution:**
 
-\`\`\`
-THE COMPILATION
-┌────────────────────────────────────────────────────────────┐
-│  1. Gathering of original manuscripts                      │
-│  2. Commission led by Zayd ibn Thābit                      │
-│  3. Writing of a standard muṣḥaf (Quraysh dialect)         │
-│  4. Sending copies to major cities                         │
-│  5. Destruction of non-conforming versions                 │
-└────────────────────────────────────────────────────────────┘
-\`\`\`
+<div class="scene-box">
+
+**📜 The Compilation of the Quran**
+
+| Step | Action |
+|------|--------|
+| 1 | Gathering of original manuscripts |
+| 2 | Commission led by Zayd ibn Thābit |
+| 3 | Writing of a standard muṣḥaf (Quraysh dialect) |
+| 4 | Sending copies to major cities |
+| 5 | Destruction of non-conforming versions |
+
+</div>
 
 Thanks to 'Uthmān, the Quran is **unified** until today.
 

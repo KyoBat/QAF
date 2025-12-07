@@ -110,31 +110,26 @@ Sa'd, blessé à la bataille, fut amené sur un âne.
 
 ### Le Verdict
 
-\`\`\`
-La Scène du Jugement
-┌───────────────────────────────────────────────────────────────┐
-│                                                               │
-│  Le Prophète ﷺ aux Anṣār :                                   │
-│  « Levez-vous pour accueillir votre chef ! »                  │
-│                                                               │
-│  Aux Banū Qurayẓa :                                           │
-│  « Vous avez accepté le jugement de Sa'd ? »                  │
-│  « Oui. »                                                     │
-│                                                               │
-│  Au Prophète ﷺ :                                              │
-│  « Et toi, ô Messager d'Allah ? »                             │
-│  « Oui. »                                                     │
-│                                                               │
-│  Sa'd :                                                       │
-│  « Mon jugement est que les combattants soient exécutés,     │
-│  les femmes et enfants capturés,                              │
-│  et les biens distribués. »                                   │
-│                                                               │
-│  Le Prophète ﷺ :                                              │
-│  « Tu as jugé selon le jugement d'Allah. »                    │
-│                                                               │
-└───────────────────────────────────────────────────────────────┘
-\`\`\`
+<div class="scene-box">
+
+**🎭 La Scène du Jugement**
+
+**Le Prophète ﷺ aux Anṣār :**
+« Levez-vous pour accueillir votre chef ! »
+
+**Aux Banū Qurayẓa :**
+« Vous avez accepté le jugement de Sa'd ? » — « Oui. »
+
+**Au Prophète ﷺ :**
+« Et toi, ô Messager d'Allah ? » — « Oui. »
+
+**Sa'd :**
+« Mon jugement est que les combattants soient exécutés, les femmes et enfants capturés, et les biens distribués. »
+
+**Le Prophète ﷺ :**
+« Tu as jugé selon le jugement d'Allah. »
+
+</div>
 
 ---
 
@@ -173,23 +168,20 @@ Sa'd ibn 'Ubāda était **le plus généreux** des Anṣār.
 
 ### Sa Maison Ouverte
 
-\`\`\`
-La Générosité de Sa'd ibn 'Ubāda
-┌───────────────────────────────────────────────────────────────┐
-│                                                               │
-│  📢 Chaque soir, un crieur annonçait :                        │
-│                                                               │
-│  « Quiconque veut de la viande et du gras,                    │
-│  qu'il vienne chez Sa'd ibn 'Ubāda ! »                        │
-│                                                               │
-│  🍽️ Il nourrissait 80 personnes ou plus chaque nuit          │
-│                                                               │
-│  🏠 Sa maison était un refuge pour les pauvres                │
-│                                                               │
-│  💰 Il envoyait régulièrement de la nourriture au Prophète ﷺ │
-│                                                               │
-└───────────────────────────────────────────────────────────────┘
-\`\`\`
+<div class="scene-box">
+
+**🍽️ La Générosité de Sa'd ibn 'Ubāda**
+
+**📢 Chaque soir, un crieur annonçait :**
+« Quiconque veut de la viande et du gras, qu'il vienne chez Sa'd ibn 'Ubāda ! »
+
+**🍽️** Il nourrissait 80 personnes ou plus chaque nuit
+
+**🏠** Sa maison était un refuge pour les pauvres
+
+**💰** Il envoyait régulièrement de la nourriture au Prophète ﷺ
+
+</div>
 
 ---
 

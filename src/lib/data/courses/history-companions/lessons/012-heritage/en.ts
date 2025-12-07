@@ -51,24 +51,22 @@ Each Companion teaches us something we can **apply now**.
 
 Bilāl under the rocks: **"Aḥad, Aḥad"**
 
-\`\`\`
-Application Today
-┌───────────────────────────────────────────────────────────────┐
-│                                                               │
-│  😰 WHEN YOU SUFFER FOR YOUR FAITH                            │
-│  • Mockery for your practice                                  │
-│  • Work pressure to compromise                                │
-│  • Family difficulties because of Islam                       │
-│                                                               │
-│  💡 REMEMBER                                                  │
-│  The Companions were TORTURED.                                │
-│  Your trials are real — but you can overcome them.            │
-│                                                               │
-│  🤲 SAY LIKE BILĀL                                            │
-│  "Aḥad" — Allah is One. He is sufficient for me.              │
-│                                                               │
-└───────────────────────────────────────────────────────────────┘
-\`\`\`
+<div class="scene-box">
+
+**💪 Application Today**
+
+**😰 WHEN YOU SUFFER FOR YOUR FAITH**
+- Mockery for your practice
+- Work pressure to compromise
+- Family difficulties because of Islam
+
+**💡 REMEMBER**
+The Companions were TORTURED. Your trials are real — but you can overcome them.
+
+**🤲 SAY LIKE BILĀL**
+"Aḥad" — Allah is One. He is sufficient for me.
+
+</div>
 
 ---
 

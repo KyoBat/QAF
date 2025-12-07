@@ -52,24 +52,22 @@ Chaque Compagnon nous enseigne quelque chose que nous pouvons **appliquer mainte
 
 Bilāl sous les rochers : **« Aḥad, Aḥad »**
 
-\`\`\`
-Application Aujourd'hui
-┌───────────────────────────────────────────────────────────────┐
-│                                                               │
-│  😰 QUAND TU SOUFFRES POUR TA FOI                             │
-│  • Moqueries pour ta pratique                                 │
-│  • Pression au travail pour des compromis                     │
-│  • Difficultés familiales à cause de l'Islam                  │
-│                                                               │
-│  💡 RAPPELLE-TOI                                              │
-│  Les Compagnons ont été TORTURÉS.                             │
-│  Tes épreuves sont réelles — mais tu peux les surmonter.      │
-│                                                               │
-│  🤲 DIS COMME BILĀL                                           │
-│  « Aḥad » — Allah est Un. Il me suffit.                       │
-│                                                               │
-└───────────────────────────────────────────────────────────────┘
-\`\`\`
+<div class="scene-box">
+
+**💪 Application Aujourd'hui**
+
+**😰 QUAND TU SOUFFRES POUR TA FOI**
+- Moqueries pour ta pratique
+- Pression au travail pour des compromis
+- Difficultés familiales à cause de l'Islam
+
+**💡 RAPPELLE-TOI**
+Les Compagnons ont été TORTURÉS. Tes épreuves sont réelles — mais tu peux les surmonter.
+
+**🤲 DIS COMME BILĀL**
+« Aḥad » — Allah est Un. Il me suffit.
+
+</div>
 
 ---
 
