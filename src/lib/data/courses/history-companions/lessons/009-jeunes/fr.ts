@@ -65,25 +65,24 @@ Problème : Il n'avait pas pu tout apprendre directement.
 
 ### La Méthode d'Ibn 'Abbās
 
-\`\`\`
-Sa Stratégie de Collecte du Savoir
-┌───────────────────────────────────────────────────────────────┐
-│                                                               │
-│  1. IDENTIFIER les Compagnons qui savaient un hadith          │
-│                                                               │
-│  2. ALLER CHEZ EUX — même sous le soleil brûlant              │
-│     • Il dormait parfois devant leur porte                    │
-│     • Il attendait qu'ils se réveillent                       │
-│                                                               │
-│  3. QUESTIONNER en profondeur                                 │
-│     • Qui était présent ?                                     │
-│     • Quel était le contexte ?                                │
-│     • Quels mots exacts ?                                     │
-│                                                               │
-│  4. MÉMORISER et VÉRIFIER auprès d'autres sources             │
-│                                                               │
-└───────────────────────────────────────────────────────────────┘
-\`\`\`
+<div class="scene-box">
+
+**📚 Stratégie de Collecte du Savoir**
+
+**1️⃣ IDENTIFIER** les Compagnons qui savaient un hadith
+
+**2️⃣ ALLER CHEZ EUX** — même sous le soleil brûlant
+- Il dormait parfois devant leur porte
+- Il attendait qu'ils se réveillent
+
+**3️⃣ QUESTIONNER** en profondeur
+- Qui était présent ?
+- Quel était le contexte ?
+- Quels mots exacts ?
+
+**4️⃣ MÉMORISER** et VÉRIFIER auprès d'autres sources
+
+</div>
 
 Quand on lui demandait pourquoi il s'humiliait ainsi, il répondait :
 
@@ -176,27 +175,23 @@ Ibn 'Umar est célèbre pour une chose : il **imitait le Prophète ﷺ dans les 
 
 ### Exemples de son Scrupule
 
-\`\`\`
-Le Niveau de Précision d'Ibn 'Umar
-┌───────────────────────────────────────────────────────────────┐
-│                                                               │
-│  🛤️ LES CHEMINS                                               │
-│  Il empruntait les MÊMES chemins que le Prophète ﷺ,          │
-│  même si un autre chemin était plus court.                    │
-│                                                               │
-│  🌳 LES ARBRES                                                │
-│  Si le Prophète ﷺ s'était arrêté sous un arbre,              │
-│  Ibn 'Umar s'y arrêtait et l'arrosait.                       │
-│                                                               │
-│  🐪 LA POSTURE                                                │
-│  Il faisait baraker son chameau EXACTEMENT où                │
-│  le Prophète ﷺ l'avait fait.                                  │
-│                                                               │
-│  👞 LES CHAUSSURES                                            │
-│  Il portait des sandales du MÊME style.                       │
-│                                                               │
-└───────────────────────────────────────────────────────────────┘
-\`\`\`
+<div class="scene-box">
+
+**📿 Le Niveau de Précision d'Ibn 'Umar**
+
+**🛤️ LES CHEMINS**
+Il empruntait les MÊMES chemins que le Prophète ﷺ, même si un autre chemin était plus court.
+
+**🌳 LES ARBRES**
+Si le Prophète ﷺ s'était arrêté sous un arbre, Ibn 'Umar s'y arrêtait et l'arrosait.
+
+**🐪 LA POSTURE**
+Il faisait baraker son chameau EXACTEMENT où le Prophète ﷺ l'avait fait.
+
+**👞 LES CHAUSSURES**
+Il portait des sandales du MÊME style.
+
+</div>
 
 Quand on lui demandait pourquoi, il répondait :
 

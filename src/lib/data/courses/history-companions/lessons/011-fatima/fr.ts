@@ -65,25 +65,20 @@ Fāṭima grandit dans la **persécution**.
 
 ### Les Épreuves
 
-\`\`\`
-Scènes de son Enfance
-┌───────────────────────────────────────────────────────────────┐
-│                                                               │
-│  🗑️ LES DÉCHETS SUR SON PÈRE                                  │
-│  Un jour, alors que le Prophète ﷺ priait près de la Ka'ba,   │
-│  les Quraysh jetèrent des intestins de chameau sur lui.       │
-│  La petite Fāṭima vint nettoyer son père en pleurant.        │
-│                                                               │
-│  😢 LA MORT DE SA MÈRE                                        │
-│  Khadīja mourut quand Fāṭima avait ~10 ans.                  │
-│  Elle perdit sa protectrice.                                  │
-│                                                               │
-│  🏃 L'ÉMIGRATION                                              │
-│  Elle émigra à Médine avec les autres,                        │
-│  laissant sa maison natale.                                   │
-│                                                               │
-└───────────────────────────────────────────────────────────────┘
-\`\`\`
+<div class="scene-box">
+
+**🎭 Scènes de son Enfance**
+
+**🗑️ LES DÉCHETS SUR SON PÈRE**
+Un jour, alors que le Prophète ﷺ priait près de la Ka'ba, les Quraysh jetèrent des intestins de chameau sur lui. La petite Fāṭima vint nettoyer son père en pleurant.
+
+**😢 LA MORT DE SA MÈRE**
+Khadīja mourut quand Fāṭima avait ~10 ans. Elle perdit sa protectrice.
+
+**🏃 L'ÉMIGRATION**
+Elle émigra à Médine avec les autres, laissant sa maison natale.
+
+</div>
 
 On l'appelait **"Umm Abīhā"** (la mère de son père) tant elle prenait soin de lui.
 
@@ -205,25 +200,20 @@ Le Prophète ﷺ avait dit vrai : elle fut **la première** de sa famille à le 
 
 ### Les Scènes Tendres
 
-\`\`\`
-Le Prophète ﷺ et ses Petits-Fils
-┌───────────────────────────────────────────────────────────────┐
-│                                                               │
-│  🙇 LA PROSTERNATION                                          │
-│  Le Prophète ﷺ était en sajda. Al-Ḥasan monta sur son dos.   │
-│  Il prolongea sa prosternation jusqu'à ce que l'enfant        │
-│  descende de lui-même.                                        │
-│                                                               │
-│  👃 LE PARFUM                                                 │
-│  Il embrassait al-Ḥasan et al-Ḥusayn et disait :             │
-│  « Ils sont mon parfum dans ce monde. »                       │
-│                                                               │
-│  🎤 LE MINBAR                                                 │
-│  Pendant un sermon, al-Ḥusayn trébucha.                       │
-│  Le Prophète ﷺ interrompit son discours pour le porter.      │
-│                                                               │
-└───────────────────────────────────────────────────────────────┘
-\`\`\`
+<div class="scene-box">
+
+**💕 Le Prophète ﷺ et ses Petits-Fils**
+
+**🙇 LA PROSTERNATION**
+Le Prophète ﷺ était en sajda. Al-Ḥasan monta sur son dos. Il prolongea sa prosternation jusqu'à ce que l'enfant descende de lui-même.
+
+**👃 LE PARFUM**
+Il embrassait al-Ḥasan et al-Ḥusayn et disait : « Ils sont mon parfum dans ce monde. »
+
+**🎤 LE MINBAR**
+Pendant un sermon, al-Ḥusayn trébucha. Le Prophète ﷺ interrompit son discours pour le porter.
+
+</div>
 
 ### Le Hadith Central
 

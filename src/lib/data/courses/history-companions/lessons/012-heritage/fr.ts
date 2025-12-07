@@ -117,23 +117,19 @@ Il a acheté le puits de Rūma pour **tous** les musulmans — gratuitement.
 
 ### Échelle de Générosité
 
-\`\`\`
-Niveaux de Générosité
-┌───────────────────────────────────────────────────────────────┐
-│                                                               │
-│  Niveau 1 : Donner son SURPLUS                                │
-│             (ce dont tu n'as pas besoin)                      │
-│                                                               │
-│  Niveau 2 : Donner une PART SIGNIFICATIVE                     │
-│             (ça te coûte quelque chose)                       │
-│                                                               │
-│  Niveau 3 : Donner ALORS QUE TU ES DANS LE BESOIN            │
-│             (niveau des Anṣār)                                │
-│                                                               │
-│  📍 Où es-tu sur cette échelle ?                              │
-│                                                               │
-└───────────────────────────────────────────────────────────────┘
-\`\`\`
+<div class="scene-box">
+
+**📈 Niveaux de Générosité**
+
+**Niveau 1 :** Donner son SURPLUS (ce dont tu n'as pas besoin)
+
+**Niveau 2 :** Donner une PART SIGNIFICATIVE (ça te coûte quelque chose)
+
+**Niveau 3 :** Donner ALORS QUE TU ES DANS LE BESOIN (niveau des Anṣār)
+
+**📍 Où es-tu sur cette échelle ?**
+
+</div>
 
 ---
 
@@ -157,26 +153,25 @@ Puis ils sont devenus ses **plus grands défenseurs**.
 
 ## 🕌 La Chaîne du Savoir
 
-\`\`\`
-La Transmission
-┌───────────────────────────────────────────────────────────────┐
-│                                                               │
-│  Le Prophète ﷺ                                                │
-│       ↓                                                       │
-│  Les Compagnons (1200+ rapporteurs de hadiths)               │
-│       ↓                                                       │
-│  Les Tābi'ūn (ceux qui les ont rencontrés)                   │
-│       ↓                                                       │
-│  Les Tābi' al-Tābi'īn                                        │
-│       ↓                                                       │
-│  Les grands Imams (Mālik, Abū Ḥanīfa, al-Shāfi'ī, Aḥmad)     │
-│       ↓                                                       │
-│  [...]                                                        │
-│       ↓                                                       │
-│  TOI (aujourd'hui)                                            │
-│                                                               │
-└───────────────────────────────────────────────────────────────┘
-\`\`\`
+<div class="scene-box">
+
+**📜 La Transmission**
+
+Le Prophète ﷺ
+↓
+Les Compagnons (1200+ rapporteurs de hadiths)
+↓
+Les Tābi'ūn (ceux qui les ont rencontrés)
+↓
+Les Tābi' al-Tābi'īn
+↓
+Les grands Imams (Mālik, Abū Ḥanīfa, al-Shāfi'ī, Aḥmad)
+↓
+[...]
+↓
+**TOI** (aujourd'hui)
+
+</div>
 
 ### Ce que les Compagnons ont Transmis
 
@@ -256,26 +251,25 @@ Sans eux, nous n'aurions **rien** de la Sunna.
 
 ### Tu es un Maillon de la Chaîne
 
-\`\`\`
-Le Relais de la Foi
-┌───────────────────────────────────────────────────────────────┐
-│                                                               │
-│  Les Compagnons ont reçu du Prophète ﷺ                       │
-│           ↓                                                   │
-│  Ils ont transmis aux générations suivantes                   │
-│           ↓                                                   │
-│  [14 siècles de transmission]                                 │
-│           ↓                                                   │
-│  TU AS REÇU cet héritage                                      │
-│           ↓                                                   │
-│  ❓ QU'EN FAIS-TU ?                                           │
-│                                                               │
-│  ✓ Le vis-tu ?                                                │
-│  ✓ Le transmets-tu ?                                          │
-│  ✓ Le défends-tu ?                                            │
-│                                                               │
-└───────────────────────────────────────────────────────────────┘
-\`\`\`
+<div class="scene-box">
+
+**🔗 Le Relais de la Foi**
+
+Les Compagnons ont reçu du Prophète ﷺ
+↓
+Ils ont transmis aux générations suivantes
+↓
+[14 siècles de transmission]
+↓
+**TU AS REÇU** cet héritage
+↓
+❓ **QU'EN FAIS-TU ?**
+
+✓ Le vis-tu ?
+✓ Le transmets-tu ?
+✓ Le défends-tu ?
+
+</div>
 
 ---
 

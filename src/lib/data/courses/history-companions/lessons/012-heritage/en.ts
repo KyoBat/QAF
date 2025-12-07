@@ -116,23 +116,19 @@ He bought the well of Rūma for **all** Muslims—free of charge.
 
 ### Scale of Generosity
 
-\`\`\`
-Levels of Generosity
-┌───────────────────────────────────────────────────────────────┐
-│                                                               │
-│  Level 1: Giving your SURPLUS                                 │
-│           (what you don't need)                               │
-│                                                               │
-│  Level 2: Giving a SIGNIFICANT PORTION                        │
-│           (it costs you something)                            │
-│                                                               │
-│  Level 3: Giving WHILE YOU ARE IN NEED                        │
-│           (level of the Anṣār)                                │
-│                                                               │
-│  📍 Where are you on this scale?                              │
-│                                                               │
-└───────────────────────────────────────────────────────────────┘
-\`\`\`
+<div class="scene-box">
+
+**📈 Levels of Generosity**
+
+**Level 1:** Giving your SURPLUS (what you don't need)
+
+**Level 2:** Giving a SIGNIFICANT PORTION (it costs you something)
+
+**Level 3:** Giving WHILE YOU ARE IN NEED (level of the Anṣār)
+
+**📍 Where are you on this scale?**
+
+</div>
 
 ---
 
@@ -156,26 +152,25 @@ Then they became its **greatest defenders**.
 
 ## 🕌 The Chain of Knowledge
 
-\`\`\`
-The Transmission
-┌───────────────────────────────────────────────────────────────┐
-│                                                               │
-│  The Prophet ﷺ                                                │
-│       ↓                                                       │
-│  The Companions (1200+ hadith narrators)                      │
-│       ↓                                                       │
-│  The Tābi'ūn (those who met them)                            │
-│       ↓                                                       │
-│  The Tābi' al-Tābi'īn                                        │
-│       ↓                                                       │
-│  The Great Imams (Mālik, Abū Ḥanīfa, al-Shāfi'ī, Aḥmad)      │
-│       ↓                                                       │
-│  [...]                                                        │
-│       ↓                                                       │
-│  YOU (today)                                                  │
-│                                                               │
-└───────────────────────────────────────────────────────────────┘
-\`\`\`
+<div class="scene-box">
+
+**📜 The Transmission**
+
+The Prophet ﷺ
+↓
+The Companions (1200+ hadith narrators)
+↓
+The Tābi'ūn (those who met them)
+↓
+The Tābi' al-Tābi'īn
+↓
+The Great Imams (Mālik, Abū Ḥanīfa, al-Shāfi'ī, Aḥmad)
+↓
+[...]
+↓
+**YOU** (today)
+
+</div>
 
 ### What the Companions Transmitted
 
@@ -255,26 +250,25 @@ Without them, we would have **nothing** of the Sunnah.
 
 ### You Are a Link in the Chain
 
-\`\`\`
-The Relay of Faith
-┌───────────────────────────────────────────────────────────────┐
-│                                                               │
-│  The Companions received from the Prophet ﷺ                  │
-│           ↓                                                   │
-│  They transmitted to subsequent generations                   │
-│           ↓                                                   │
-│  [14 centuries of transmission]                               │
-│           ↓                                                   │
-│  YOU HAVE RECEIVED this heritage                              │
-│           ↓                                                   │
-│  ❓ WHAT DO YOU DO WITH IT?                                   │
-│                                                               │
-│  ✓ Do you live it?                                            │
-│  ✓ Do you transmit it?                                        │
-│  ✓ Do you defend it?                                          │
-│                                                               │
-└───────────────────────────────────────────────────────────────┘
-\`\`\`
+<div class="scene-box">
+
+**🔗 The Relay of Faith**
+
+The Companions received from the Prophet ﷺ
+↓
+They transmitted to subsequent generations
+↓
+[14 centuries of transmission]
+↓
+**YOU HAVE RECEIVED** this heritage
+↓
+❓ **WHAT DO YOU DO WITH IT?**
+
+✓ Do you live it?
+✓ Do you transmit it?
+✓ Do you defend it?
+
+</div>
 
 ---
 

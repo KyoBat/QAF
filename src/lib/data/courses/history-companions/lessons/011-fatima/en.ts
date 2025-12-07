@@ -63,25 +63,20 @@ Fāṭima grew up amid **persecution**.
 
 ### The Trials
 
-\`\`\`
-Scenes from Her Childhood
-┌───────────────────────────────────────────────────────────────┐
-│                                                               │
-│  🗑️ FILTH ON HER FATHER                                       │
-│  One day, while the Prophet ﷺ prayed near the Ka'ba,         │
-│  Quraysh threw camel intestines on him.                       │
-│  Little Fāṭima came to clean her father, crying.             │
-│                                                               │
-│  😢 HER MOTHER'S DEATH                                        │
-│  Khadīja died when Fāṭima was ~10 years old.                 │
-│  She lost her protector.                                      │
-│                                                               │
-│  🏃 THE EMIGRATION                                            │
-│  She emigrated to Medina with the others,                     │
-│  leaving her childhood home.                                  │
-│                                                               │
-└───────────────────────────────────────────────────────────────┘
-\`\`\`
+<div class="scene-box">
+
+**🎭 Scenes from Her Childhood**
+
+**🗑️ FILTH ON HER FATHER**
+One day, while the Prophet ﷺ prayed near the Ka'ba, Quraysh threw camel intestines on him. Little Fāṭima came to clean her father, crying.
+
+**😢 HER MOTHER'S DEATH**
+Khadīja died when Fāṭima was ~10 years old. She lost her protector.
+
+**🏃 THE EMIGRATION**
+She emigrated to Medina with the others, leaving her childhood home.
+
+</div>
 
 She was called **"Umm Abīhā"** (mother of her father) for how much she cared for him.
 
@@ -203,25 +198,20 @@ The Prophet ﷺ had spoken true: she was **the first** of his family to join him
 
 ### Tender Scenes
 
-\`\`\`
-The Prophet ﷺ and His Grandsons
-┌───────────────────────────────────────────────────────────────┐
-│                                                               │
-│  🙇 THE PROSTRATION                                           │
-│  The Prophet ﷺ was in sajda. Al-Ḥasan climbed on his back.   │
-│  He prolonged his prostration until the child                 │
-│  got down on his own.                                         │
-│                                                               │
-│  👃 THE FRAGRANCE                                             │
-│  He would kiss al-Ḥasan and al-Ḥusayn and say:               │
-│  "They are my two sweet-smelling flowers in this world."      │
-│                                                               │
-│  🎤 THE MINBAR                                                │
-│  During a sermon, al-Ḥusayn stumbled.                         │
-│  The Prophet ﷺ interrupted his speech to carry him.          │
-│                                                               │
-└───────────────────────────────────────────────────────────────┘
-\`\`\`
+<div class="scene-box">
+
+**💕 The Prophet ﷺ and His Grandsons**
+
+**🙇 THE PROSTRATION**
+The Prophet ﷺ was in sajda. Al-Ḥasan climbed on his back. He prolonged his prostration until the child got down on his own.
+
+**👃 THE FRAGRANCE**
+He would kiss al-Ḥasan and al-Ḥusayn and say: "They are my two sweet-smelling flowers in this world."
+
+**🎤 THE MINBAR**
+During a sermon, al-Ḥusayn stumbled. The Prophet ﷺ interrupted his speech to carry him.
+
+</div>
 
 ### The Central Hadith
 

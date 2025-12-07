@@ -63,25 +63,24 @@ Problem: He hadn't been able to learn everything directly.
 
 ### Ibn 'Abbās's Method
 
-\`\`\`
-His Strategy for Collecting Knowledge
-┌───────────────────────────────────────────────────────────────┐
-│                                                               │
-│  1. IDENTIFY Companions who knew a hadith                     │
-│                                                               │
-│  2. GO TO THEM — even under the scorching sun                 │
-│     • He sometimes slept at their doorstep                    │
-│     • He waited until they woke up                            │
-│                                                               │
-│  3. QUESTION in depth                                         │
-│     • Who was present?                                        │
-│     • What was the context?                                   │
-│     • What were the exact words?                              │
-│                                                               │
-│  4. MEMORIZE and VERIFY with other sources                    │
-│                                                               │
-└───────────────────────────────────────────────────────────────┘
-\`\`\`
+<div class="scene-box">
+
+**📚 Strategy for Collecting Knowledge**
+
+**1️⃣ IDENTIFY** Companions who knew a hadith
+
+**2️⃣ GO TO THEM** — even under the scorching sun
+- He sometimes slept at their doorstep
+- He waited until they woke up
+
+**3️⃣ QUESTION** in depth
+- Who was present?
+- What was the context?
+- What were the exact words?
+
+**4️⃣ MEMORIZE** and VERIFY with other sources
+
+</div>
 
 When asked why he humbled himself this way, he replied:
 
@@ -174,27 +173,23 @@ Ibn 'Umar is famous for one thing: he **imitated the Prophet ﷺ in the smallest
 
 ### Examples of His Scrupulousness
 
-\`\`\`
-Ibn 'Umar's Level of Precision
-┌───────────────────────────────────────────────────────────────┐
-│                                                               │
-│  🛤️ PATHS                                                     │
-│  He took the SAME paths the Prophet ﷺ took,                  │
-│  even if another path was shorter.                            │
-│                                                               │
-│  🌳 TREES                                                     │
-│  If the Prophet ﷺ had stopped under a tree,                  │
-│  Ibn 'Umar would stop there and water it.                    │
-│                                                               │
-│  🐪 POSTURE                                                   │
-│  He made his camel kneel EXACTLY where                       │
-│  the Prophet ﷺ had made his kneel.                           │
-│                                                               │
-│  👞 SHOES                                                     │
-│  He wore sandals of the SAME style.                          │
-│                                                               │
-└───────────────────────────────────────────────────────────────┘
-\`\`\`
+<div class="scene-box">
+
+**📿 Ibn 'Umar's Level of Precision**
+
+**🛤️ PATHS**
+He took the SAME paths the Prophet ﷺ took, even if another path was shorter.
+
+**🌳 TREES**
+If the Prophet ﷺ had stopped under a tree, Ibn 'Umar would stop there and water it.
+
+**🐪 POSTURE**
+He made his camel kneel EXACTLY where the Prophet ﷺ had made his kneel.
+
+**👞 SHOES**
+He wore sandals of the SAME style.
+
+</div>
 
 When asked why, he replied:
 
