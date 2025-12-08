@@ -1911,10 +1911,10 @@ export const lessonMindMapsMultiLang: Record<string, MindMapDataMultiLang> = {
   'hajj:lesson-001': hajjIntroductionData,
   'hajj:lesson-002': hajjConditionsData,
   // History lessons (Les 4 Grands Imams)
-  'history:lesson-002': asanidChainData,
-  'les-4-grands-imams:lesson-002': asanidChainData,
-  'history:lesson-003': imamsChainData,
-  'les-4-grands-imams:lesson-003': imamsChainData,
+  'history:002-maitres-communs': asanidChainData,
+  'les-4-grands-imams:002-maitres-communs': asanidChainData,
+  'history:003-rencontres': imamsChainData,
+  'les-4-grands-imams:003-rencontres': imamsChainData,
 };
 
 // Get mindmap by lesson ID with locale
