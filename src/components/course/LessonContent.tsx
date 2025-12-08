@@ -16,14 +16,14 @@ import { cn } from '@/lib/utils'
 import type { Lesson } from '@/lib/schemas'
 import { getMindMapForLesson } from '@/lib/data/mindmaps'
 
-// Import dynamique du MindMap pour éviter les erreurs SSR
-const CollapsibleMindMap = dynamic(
-  () => import('@/components/mindmap/CollapsibleMindMap'),
+// Import dynamique du TreeChart pour éviter les erreurs SSR
+const TreeChart = dynamic(
+  () => import('@/components/mindmap/TreeChart'),
   { 
     ssr: false,
     loading: () => (
-      <div className="w-full h-[400px] bg-slate-100 dark:bg-slate-800 rounded-xl flex items-center justify-center my-6">
-        <div className="animate-pulse text-slate-500">جاري تحميل الخريطة الذهنية...</div>
+      <div className="w-full h-[300px] bg-slate-100 dark:bg-slate-800 rounded-xl flex items-center justify-center my-6">
+        <div className="animate-pulse text-slate-500">جاري تحميل الشجرة...</div>
       </div>
     ),
   }
@@ -44,10 +44,10 @@ export function LessonContent({ lesson, courseSlug, className }: LessonContentPr
   
   // Title for mind map based on locale
   const mindMapTitle = locale === 'ar' 
-    ? 'الخريطة الذهنية التفاعلية' 
+    ? 'شجرة الأسانيد' 
     : locale === 'en' 
-      ? 'Interactive Mind Map' 
-      : 'Carte Mentale Interactive'
+      ? 'Chain of Transmission' 
+      : 'Arbre de Transmission'
 
   // Check if content has inline mindmap marker
   const hasInlineMindMap = content.includes('<!-- MINDMAP -->')
@@ -195,12 +195,12 @@ export function LessonContent({ lesson, courseSlug, className }: LessonContentPr
           {/* Content before mindmap marker */}
           {renderMarkdown(contentParts[0])}
           
-          {/* Inline MindMap */}
+          {/* Inline Tree Chart */}
           <div className="my-8">
-            <CollapsibleMindMap 
+            <TreeChart 
               data={mindMapData}
               title={mindMapTitle}
-              defaultExpanded={false}
+              defaultExpanded={true}
               locale={locale}
             />
           </div>
@@ -212,13 +212,13 @@ export function LessonContent({ lesson, courseSlug, className }: LessonContentPr
         <>
           {renderMarkdown(content)}
           
-          {/* Interactive MindMap at the end of lesson (fallback) */}
+          {/* Tree Chart at the end of lesson (fallback) */}
           {mindMapData && (
             <div className="mt-10 pt-8 border-t border-border">
-              <CollapsibleMindMap 
+              <TreeChart 
                 data={mindMapData}
                 title={mindMapTitle}
-                defaultExpanded={false}
+                defaultExpanded={true}
                 locale={locale}
               />
             </div>

@@ -413,7 +413,7 @@ function CollapsibleMindMapInner({
       {title && (
         <div className="flex items-center justify-between mb-5 px-3">
           <h3 className="text-2xl font-bold text-primary flex items-center gap-3" dir="rtl">
-            <span className="text-3xl">🗺️</span>
+            <span className="text-3xl">🌳</span>
             <span>{title}</span>
           </h3>
           <div className="flex gap-3">
