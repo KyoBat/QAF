@@ -49,27 +49,47 @@ Deux approches différentes, deux villes différentes, mais un respect mutuel pr
 
 ### La Rencontre
 
-Lors d'un pèlerinage, Abū Ḥanīfa rencontra Mālik à Médine. Les sources rapportent qu'ils débattirent de **plusieurs questions de fiqh**, notamment :
+<div class="scene-box">
 
-**1. La vente à crédit (البيع بالتقسيط)**
+**🎭 À la Mosquée du Prophète — vers 150 H**
 
-> 🟢 Abū Ḥanīfa permit certaines formes de vente à crédit avec majoration du prix.
-> 
-> 🟡 Mālik était plus restrictif, craignant le *ribā* (usure) déguisé.
+*Pendant le Hajj, Abū Ḥanīfa entra dans la mosquée de Médine. Mālik y tenait son cercle d'enseignement, entouré de ses élèves.*
 
-Après discussion, chacun **maintint sa position**, mais avec une compréhension approfondie de l'autre.
+*Abū Ḥanīfa s'approcha respectueusement et s'assit. Ils engagèrent la discussion sur des questions de fiqh...*
 
-**2. Le témoignage d'un seul témoin (شهادة الفرد)**
+---
 
-Les deux imams échangèrent leurs preuves, citant des hadiths différents. Cette rencontre montra que les divergences n'étaient pas arbitraires, mais fondées sur des **preuves différentes**.
+**La question de la vente à crédit**
+
+**🟢 Abū Ḥanīfa :** « Je considère la vente à crédit avec majoration licite, car c'est un contrat distinct du prêt. »
+
+**🟡 Mālik :** « Je crains le *ribā* (usure) déguisé, Abū Ḥanīfa. Les gens peuvent contourner la sharī'a. »
+
+**🟢 Abū Ḥanīfa :** « Mais l'origine dans les transactions est la licéité, et l'intention détermine le jugement. »
+
+**🟡 Mālik :** « Chez nous à Médine, la pratique des gens est d'être strict en la matière. »
+
+*Chacun maintint sa position... mais avec une compréhension plus profonde de l'autre.*
+
+</div>
 
 ### L'Anecdote Célèbre
 
-On rapporte qu'après leur débat, Mālik dit :
+<div class="scene-box">
 
-> « أَبُو حَنِيفَةَ لَوْ كَلَّمَ هَذِهِ السَّارِيَةَ لَأَقْنَعَهَا »
-> 
-> "Abū Ḥanīfa, s'il parlait à ce pilier, il le convaincrait !"
+**🎭 Après le débat**
+
+*Une fois Abū Ḥanīfa parti, Mālik se tourna vers ses élèves :*
+
+**🟡 Mālik :** « Abū Ḥanīfa, s'il parlait à ce pilier, il le convaincrait ! »
+
+*Les élèves regardèrent l'imposant pilier de pierre et comprirent l'éloge.*
+
+**Un élève :** « Tu le loues, ô Imam ? »
+
+**🟡 Mālik :** « Oui. J'ai vu un homme qui, s'il te parlait de ce pilier en disant qu'il était en or, te convaincrait par ses arguments ! »
+
+</div>
 
 C'était un **éloge** de ses capacités de raisonnement, pas une critique. Mālik reconnaissait le génie dialectique d'Abū Ḥanīfa.
 
@@ -83,15 +103,31 @@ Ces deux géants se sont rencontrés, ont débattu, puis **sont repartis en se r
 
 ### Le Premier Contact
 
-En **163 H / 780**, un jeune homme de 20 ans arriva à Médine avec une lettre du gouverneur de La Mecque. Ce jeune homme avait déjà mémorisé le Coran et le *Muwaṭṭa'* entier.
+<div class="scene-box">
 
-C'était 🔵 **al-Shāfi'ī**.
+**🎭 L'arrivée du jeune Qurayshite — Médine 163 H**
 
-🟡 **Mālik**, alors âgé de 70 ans, regarda ce jeune Qurayshite et dit :
+*Un jeune homme de vingt ans entra dans le cercle de Mālik, portant une lettre du gouverneur de La Mecque.*
 
-> « يَا فَتَى، إِنِّي أَرَى اللَّهَ قَدْ أَلْقَى عَلَى قَلْبِكَ نُورًا، فَلَا تُطْفِهِ بِالْمَعْصِيَةِ »
-> 
-> "Ô jeune homme, je vois qu'Allah a mis une lumière dans ton cœur. Ne l'éteins pas par la désobéissance."
+*Mālik le regarda... quelque chose dans ses yeux attira son attention.*
+
+**🟡 Mālik :** « Quel est ton nom, jeune homme ? »
+
+**🔵 Al-Shāfi'ī :** « Muḥammad ibn Idrīs al-Qurashī, descendant de Muṭṭalib ibn 'Abd Manāf. »
+
+**🟡 Mālik :** « Qu'as-tu mémorisé ? »
+
+**🔵 Al-Shāfi'ī :** « Le Coran entier, et le *Muwaṭṭa'* entier. »
+
+*Mālik fut stupéfait. Il prit le Muwaṭṭa' et dit :*
+
+**🟡 Mālik :** « Récite. »
+
+*Al-Shāfi'ī récita de mémoire... sans une seule erreur.*
+
+**🟡 Mālik :** « Ô jeune homme, je vois qu'Allah a mis une lumière dans ton cœur. Ne l'éteins pas par la désobéissance. »
+
+</div>
 
 ### Les Années d'Études (163-179 H)
 
@@ -104,19 +140,47 @@ Al-Shāfi'ī resta auprès de Mālik pendant environ **9 ans**, jusqu'à la mort
 
 ### Les Moments de Divergence
 
-Même en étant son élève, al-Shāfi'ī ne se contentait pas d'accepter aveuglément. Un jour, Mālik donna une fatwa. Al-Shāfi'ī demanda :
+<div class="scene-box">
 
-> « مَا الدَّلِيلُ يَا شَيْخُ؟ »
-> "Quelle est la preuve, ô Shaykh ?"
+**🎭 La question audacieuse de l'élève**
 
-Mālik, surpris mais content, donna sa preuve. C'est cet esprit critique, combiné au respect, qui fit d'al-Shāfi'ī un grand savant.
+*Un jour, Mālik donna une fatwa. Al-Shāfi'ī se leva, contrairement à l'usage...*
+
+**🔵 Al-Shāfi'ī :** « Quelle est la preuve, ô Shaykh ? »
+
+*Le cercle se tut. Les élèves chuchotèrent : Comment ose-t-il demander la preuve à son maître ?!*
+
+*Mais Mālik sourit...*
+
+**🟡 Mālik :** « Bonne question. La preuve est le hadith du Messager d'Allah ﷺ... »
+
+*Puis il se tourna vers les élèves :*
+
+**🟡 Mālik :** « Ce jeune homme pose des questions pour comprendre, pas pour contester. Apprenez de lui. »
+
+</div>
+
+C'est cet esprit critique, combiné au respect, qui fit d'al-Shāfi'ī un grand savant.
 
 ### La Mort de Mālik
 
-Quand Mālik mourut en **179 H**, al-Shāfi'ī pleura abondamment. Des années plus tard, chaque fois qu'il mentionnait Mālik, il disait :
+<div class="scene-box">
+
+**🎭 L'Adieu Final — Rabī' al-Awwal 179 H**
+
+*Sur son lit de maladie, Mālik prit la main d'al-Shāfi'ī...*
+
+**🟡 Mālik :** « Ô Muḥammad, tu auras un grand avenir. N'oublie pas ce que tu as appris ici. »
+
+**🔵 Al-Shāfi'ī :** « Par Allah, ô Shaykh, je n'oublierai jamais. »
+
+*Al-Shāfi'ī pleura... et quelques jours plus tard, Mālik mourut.*
+
+</div>
+
+Des années plus tard, chaque fois qu'il mentionnait Mālik, al-Shāfi'ī disait :
 
 > « إِذَا ذُكِرَ الْعُلَمَاءُ فَمَالِكٌ النَّجْمُ »
-> 
 > "Quand on mentionne les savants, Mālik est l'étoile."
 
 Pourtant, cela ne l'empêcha pas de **développer sa propre école**, parfois en désaccord avec son maître vénéré.
@@ -135,27 +199,51 @@ C'était la rencontre de deux mondes :
 
 ### Les Sessions de Débat
 
-Pendant **deux ans**, al-Shāfi'ī et al-Shaybānī eurent des débats légendaires. Les étudiants affluaient pour les écouter.
+<div class="scene-box">
 
-**Exemple de débat : Le témoignage (الشهادة)**
+**🎭 Dans le cercle de Bagdad — Le Grand Débat**
 
-> 🔵 **Al-Shāfi'ī** : "Le hadith du Prophète ﷺ exige deux témoins musulmans."
-> 
-> 🟢 **Al-Shaybānī** (pour l'école hanafite) : "Mais nous avons des cas où un seul témoin avec serment suffit."
-> 
-> 🔵 **Al-Shāfi'ī** : "Montre-moi ton hadith."
-> 
-> 🟢 **Al-Shaybānī** : "C'est basé sur le *qiyās* (analogie) et la pratique d'Irak."
+*La salle était remplie d'étudiants. Al-Shāfi'ī était assis d'un côté, al-Shaybānī de l'autre.*
+
+*Quelqu'un posa la question du témoignage en justice...*
+
+**🔵 Al-Shāfi'ī :** « Le hadith du Prophète ﷺ exige deux témoins musulmans. Moins que cela n'est pas permis. »
+
+**🟢 Al-Shaybānī :** « Mais dans l'école d'Abū Ḥanīfa, nous avons des cas où un seul témoin avec serment suffit. »
+
+**🔵 Al-Shāfi'ī :** « Montre-moi ton hadith. »
+
+**🟢 Al-Shaybānī :** « C'est basé sur le *qiyās* et la pratique d'Irak. Nous avons un *athar* de 'Alī, qu'Allah l'agrée. »
+
+**🔵 Al-Shāfi'ī :** « Le *qiyās* ne peut pas primer sur le texte explicite. »
+
+**🟢 Al-Shaybānī :** « Mais le texte nécessite une interprétation dans certains cas... »
+
+*Le débat continua des heures... Les étudiants notaient chaque parole.*
+
+</div>
 
 Ces débats affinèrent la méthodologie d'al-Shāfi'ī, qui écrivit plus tard sa monumentale *Risāla* — le premier livre de *Uṣūl al-Fiqh*.
 
 ### Le Respect Malgré le Désaccord
 
-Malgré leurs débats, al-Shāfi'ī dit d'al-Shaybānī :
+<div class="scene-box">
 
-> « حَمَلْتُ عَنْهُ وِقْرَ بَعِيرٍ مِنَ الْعِلْمِ »
-> 
-> "J'ai porté de lui une charge de chameau de science."
+**🎭 Après deux années de débats**
+
+*Al-Shāfi'ī était assis avec ses élèves. L'un d'eux lui demanda :*
+
+**Élève :** « Ô Imam, que penses-tu d'al-Shaybānī ? Tu l'as beaucoup débattu. »
+
+*Al-Shāfi'ī sourit...*
+
+**🔵 Al-Shāfi'ī :** « J'ai porté de lui une charge de chameau de science ! »
+
+**Élève :** « Mais vous divergez sur tout ! »
+
+**🔵 Al-Shāfi'ī :** « La divergence n'empêche pas de bénéficier. Il possède une science que je n'ai pas. »
+
+</div>
 
 Et al-Shaybānī, à son tour, reconnaissait la brillance d'al-Shāfi'ī dans le hadith.
 
@@ -165,21 +253,43 @@ Et al-Shaybānī, à son tour, reconnaissait la brillance d'al-Shāfi'ī dans le
 
 ### Le Premier Contact
 
-En **195 H / 810**, 🔵 **al-Shāfi'ī** revint à Bagdad. 🟣 **Aḥmad ibn Ḥanbal**, alors âgé d'environ 31 ans, entendit parler de ce savant extraordinaire.
+<div class="scene-box">
 
-Aḥmad, qui était déjà un grand muḥaddith (spécialiste du hadith), fut impressionné par la méthodologie d'al-Shāfi'ī.
+**🎭 Dans les marchés de Bagdad — 195 H**
+
+*Aḥmad ibn Ḥanbal avait entendu parler d'un savant nommé al-Shāfi'ī, arrivé de La Mecque.*
+
+*Il alla le voir... Il le trouva enseignant à la mosquée.*
+
+**Élève d'Aḥmad :** « Abū 'Abd Allāh, pourquoi vas-tu chez cet étranger ? »
+
+**🟣 Aḥmad :** « J'ai entendu dire qu'il a mémorisé tout ce que Mālik a écrit. »
+
+*Aḥmad entra dans le cercle... écouta... et ne sortit plus.*
+
+**🟣 Aḥmad :** « Pour la première fois, j'entends quelqu'un qui rassemble le hadith et le fiqh ainsi ! »
+
+</div>
+
+🟣 **Aḥmad**, alors âgé de 31 ans, fut impressionné par la méthodologie d'al-Shāfi'ī.
 
 ### Les Sessions d'Apprentissage
 
-Aḥmad assista aux cours d'al-Shāfi'ī avec dévotion. Un jour, quelqu'un demanda à Aḥmad :
+<div class="scene-box">
 
-> « لِمَ تَجْلِسُ مَعَ هَذَا الْفَتَى الْقُرَشِيِّ؟ »
-> "Pourquoi t'assieds-tu avec ce jeune Qurayshite ?"
+**🎭 Question d'un ami**
 
-Aḥmad répondit :
+*Certains compagnons d'Aḥmad le voyaient assister aux cours d'al-Shāfi'ī chaque jour.*
 
-> « إِذَا سَمِعْتُهُ يَقُولُ: حَدَّثَنَا، عَلِمْتُ أَنَّهُ عَلَى الصَّوَابِ »
-> "Quand je l'entends dire 'On nous a rapporté...', je sais qu'il est sur la vérité."
+**Ami :** « Pourquoi t'assieds-tu avec ce jeune Qurayshite ? Tu es un grand muḥaddith ! »
+
+**🟣 Aḥmad :** « Quand je l'entends dire 'On nous a rapporté...', je sais qu'il est sur la vérité. »
+
+**Ami :** « Et qu'est-ce que tu en tires ? »
+
+**🟣 Aḥmad :** « J'apprends comment utiliser le hadith dans le fiqh. J'ai les hadiths... et lui a la méthodologie. »
+
+</div>
 
 ### Ce qu'Aḥmad Apprit
 
@@ -199,23 +309,49 @@ De Aḥmad, al-Shāfi'ī gagna :
 
 ### La Séparation
 
-Quand al-Shāfi'ī quitta Bagdad pour l'Égypte (vers 199 H), il dit :
+<div class="scene-box">
 
-> « مَا خَلَّفْتُ بِبَغْدَادَ أَحَدًا أَفْقَهَ وَلَا أَوْرَعَ وَلَا أَعْلَمَ مِنْ أَحْمَدَ بْنِ حَنْبَلٍ »
-> 
-> "Je n'ai pas laissé à Bagdad quelqu'un de plus savant en fiqh, plus pieux ou plus érudit qu'Aḥmad ibn Ḥanbal."
+**🎭 L'adieu d'al-Shāfi'ī à Aḥmad — 199 H**
 
-C'était le **dernier adieu**. Les deux ne se revirent jamais.
+*Al-Shāfi'ī décida de partir pour l'Égypte. Il vint faire ses adieux à Aḥmad...*
+
+**🔵 Al-Shāfi'ī :** « Abū 'Abd Allāh, je pars pour l'Égypte. »
+
+**🟣 Aḥmad :** « Ne nous reverrons-nous plus ? »
+
+**🔵 Al-Shāfi'ī :** « Allah seul le sait. Mais sache... Je n'ai pas laissé à Bagdad quelqu'un de plus savant, plus pieux ou plus érudit que toi. »
+
+*Le visage d'Aḥmad rougit de pudeur...*
+
+**🟣 Aḥmad :** « Ne dis pas cela, ô Imam. Tu es mon maître. »
+
+**🔵 Al-Shāfi'ī :** « Non, tu es mon ami et mon frère dans la science. »
+
+*Ils s'étreignirent... et ce fut le **dernier adieu**. Ils ne se revirent jamais.*
+
+</div>
 
 ### La Mort d'Al-Shāfi'ī
 
-Quand la nouvelle de la mort d'al-Shāfi'ī (204 H) parvint à Bagdad, Aḥmad pleura et dit :
+<div class="scene-box">
 
-> « كَانَ كَالشَّمْسِ لِلنَّاسِ، وَكَالْعَافِيَةِ لِلْبَدَنِ »
-> 
-> "Il était comme le soleil pour les gens, et comme la santé pour le corps."
+**🎭 La nouvelle de la mort — Bagdad 204 H**
 
-Aḥmad refusa ensuite de **créer sa propre école** pendant longtemps, disant qu'il n'était pas digne de contredire son maître. C'est ses élèves qui compilèrent ses avis en une école.
+*La nouvelle parvint à Bagdad : Al-Shāfi'ī était mort en Égypte.*
+
+*Aḥmad s'assit seul... les larmes coulaient de ses yeux...*
+
+**🟣 Aḥmad :** « Il était comme le soleil pour les gens, et comme la santé pour le corps... »
+
+*Son élève entra :*
+
+**Élève :** « Ô Imam, pourquoi ne fondes-tu pas ta propre école maintenant ? Tu es le plus grand des muḥaddiths. »
+
+**🟣 Aḥmad :** « Comment pourrais-je contredire mon maître alors qu'il vient à peine d'être mis en terre ? Je n'en suis pas digne. »
+
+</div>
+
+Aḥmad refusa ensuite de **créer sa propre école** pendant longtemps. C'est ses élèves qui compilèrent ses avis en une école.
 
 ---
 

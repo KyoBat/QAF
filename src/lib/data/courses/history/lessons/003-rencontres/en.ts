@@ -47,25 +47,47 @@ Two different approaches, two different cities, but deep mutual respect.
 
 ### The Meeting
 
-During a pilgrimage, Abū Ḥanīfa met Mālik in Medina. Sources report that they debated **several fiqh questions**, including:
+<div class="scene-box">
 
-**1. Credit Sales (البيع بالتقسيط)**
+**🎭 At the Prophet's Mosque — Around 150 AH**
 
-> 🟢 Abū Ḥanīfa permitted certain forms of credit sales with price markup.
-> 
-> 🟡 Mālik was more restrictive, fearing disguised *ribā* (usury).
+*During the Hajj season, Abū Ḥanīfa entered the Prophet's Mosque. Mālik was sitting in his circle, teaching students.*
 
-After discussion, each **maintained their position**, but with a deeper understanding of the other.
+*Abū Ḥanīfa approached respectfully and sat down. They began discussing fiqh questions...*
 
-**2. Single Witness Testimony (شهادة الفرد)**
+---
 
-The two imams exchanged their evidences, citing different hadiths. This meeting showed that divergences were not arbitrary, but based on **different evidence**.
+**The question of credit sales**
+
+**🟢 Abū Ḥanīfa:** "I consider credit sales with markup permissible, as it's a separate contract from a loan."
+
+**🟡 Mālik:** "I fear disguised *ribā*, Abū Ḥanīfa. People may circumvent the sharī'a."
+
+**🟢 Abū Ḥanīfa:** "But the default in transactions is permissibility, and intention determines the ruling."
+
+**🟡 Mālik:** "Here in Medina, the people's practice is to be strict in this matter."
+
+*Each maintained their position... but with a deeper understanding of the other.*
+
+</div>
 
 ### The Famous Anecdote
 
-It is reported that after their debate, Mālik said:
+<div class="scene-box">
 
-> "Abū Ḥanīfa, if he spoke to this pillar, he would convince it!"
+**🎭 After the Debate**
+
+*After Abū Ḥanīfa left, Mālik turned to his students:*
+
+**🟡 Mālik:** "Abū Ḥanīfa, if he spoke to this pillar, he would convince it!"
+
+*The students looked at the massive stone pillar and understood the praise.*
+
+**Student:** "You praise him, O Imam?"
+
+**🟡 Mālik:** "Yes. I saw a man who, if he spoke to you about this pillar saying it was made of gold, would convince you with his arguments!"
+
+</div>
 
 This was **praise** for his reasoning abilities, not criticism. Mālik recognized Abū Ḥanīfa's dialectical genius.
 
@@ -79,13 +101,31 @@ These two giants met, debated, then **parted with mutual respect**. Neither accu
 
 ### The First Contact
 
-In **163 AH / 780 CE**, a 20-year-old young man arrived in Medina with a letter from the governor of Mecca. This young man had already memorized the Quran and the entire *Muwaṭṭa'*.
+<div class="scene-box">
 
-He was 🔵 **al-Shāfi'ī**.
+**🎭 The Arrival of the Young Qurayshite — Medina 163 AH**
 
-🟡 **Mālik**, then 70 years old, looked at this young Qurayshite and said:
+*A twenty-year-old young man entered Mālik's circle, carrying a letter from the governor of Mecca.*
 
-> "O young man, I see that Allah has placed a light in your heart. Do not extinguish it with sin."
+*Mālik looked at the young man... something in his eyes caught his attention.*
+
+**🟡 Mālik:** "What is your name, young man?"
+
+**🔵 Al-Shāfi'ī:** "Muḥammad ibn Idrīs al-Qurashī, descendant of Muṭṭalib ibn 'Abd Manāf."
+
+**🟡 Mālik:** "What have you memorized?"
+
+**🔵 Al-Shāfi'ī:** "The entire Quran, and the entire *Muwaṭṭa'*."
+
+*Mālik was astonished. He took the Muwaṭṭa' and said:*
+
+**🟡 Mālik:** "Recite."
+
+*Al-Shāfi'ī recited from memory... without a single error.*
+
+**🟡 Mālik:** "O young man, I see that Allah has placed a light in your heart. Do not extinguish it with sin."
+
+</div>
 
 ### The Years of Study (163-179 AH)
 
@@ -98,15 +138,45 @@ Al-Shāfi'ī stayed with Mālik for about **9 years**, until the master's death.
 
 ### Moments of Divergence
 
-Even as his student, al-Shāfi'ī did not blindly accept. One day, Mālik gave a fatwa. Al-Shāfi'ī asked:
+<div class="scene-box">
 
-> "What is the evidence, O Shaykh?"
+**🎭 The Bold Question of the Student**
 
-Mālik, surprised but pleased, gave his evidence. It was this critical spirit, combined with respect, that made al-Shāfi'ī a great scholar.
+*One day, Mālik gave a fatwa. Al-Shāfi'ī stood up, contrary to custom...*
+
+**🔵 Al-Shāfi'ī:** "What is the evidence, O Shaykh?"
+
+*The circle fell silent. Students whispered: How dare he ask his teacher for evidence?!*
+
+*But Mālik smiled...*
+
+**🟡 Mālik:** "Good question. The evidence is the hadith of the Messenger of Allah ﷺ..."
+
+*Then he turned to the students:*
+
+**🟡 Mālik:** "This young man asks questions to understand, not to argue. Learn from him."
+
+</div>
+
+It was this critical spirit, combined with respect, that made al-Shāfi'ī a great scholar.
 
 ### The Death of Mālik
 
-When Mālik died in **179 AH**, al-Shāfi'ī wept abundantly. Years later, whenever he mentioned Mālik, he would say:
+<div class="scene-box">
+
+**🎭 The Final Farewell — Rabī' al-Awwal 179 AH**
+
+*On his sickbed, Mālik held al-Shāfi'ī's hand...*
+
+**🟡 Mālik:** "O Muḥammad, you will have a great future. Don't forget what you learned here."
+
+**🔵 Al-Shāfi'ī:** "By Allah, O Shaykh, I will never forget."
+
+*Al-Shāfi'ī wept... and a few days later, Mālik died.*
+
+</div>
+
+Years later, whenever he mentioned Mālik, al-Shāfi'ī would say:
 
 > "When scholars are mentioned, Mālik is the star."
 
@@ -126,25 +196,51 @@ It was the meeting of two worlds:
 
 ### The Debate Sessions
 
-For **two years**, al-Shāfi'ī and al-Shaybānī had legendary debates. Students flocked to listen.
+<div class="scene-box">
 
-**Example debate: Testimony (الشهادة)**
+**🎭 In the Baghdad Circle — The Great Debate**
 
-> 🔵 **Al-Shāfi'ī**: "The hadith of the Prophet ﷺ requires two Muslim witnesses."
-> 
-> 🟢 **Al-Shaybānī** (for the Hanafi school): "But we have cases where one witness with an oath suffices."
-> 
-> 🔵 **Al-Shāfi'ī**: "Show me your hadith."
-> 
-> 🟢 **Al-Shaybānī**: "It's based on *qiyās* (analogy) and the practice of Iraq."
+*The hall was filled with students. Al-Shāfi'ī sat on one side, al-Shaybānī on the other.*
+
+*Someone raised the question of testimony in court...*
+
+**🔵 Al-Shāfi'ī:** "The hadith of the Prophet ﷺ requires two Muslim witnesses. Less than that is not permissible."
+
+**🟢 Al-Shaybānī:** "But in Abū Ḥanīfa's school, we have cases where one witness with an oath suffices."
+
+**🔵 Al-Shāfi'ī:** "Show me your hadith."
+
+**🟢 Al-Shaybānī:** "It's based on *qiyās* and the practice of Iraq. We have an *athar* from 'Alī, may Allah be pleased with him."
+
+**🔵 Al-Shāfi'ī:** "*Qiyās* cannot override an explicit text."
+
+**🟢 Al-Shaybānī:** "But the text requires interpretation in some cases..."
+
+*The debate continued for hours... Students recorded every word.*
+
+</div>
 
 These debates refined al-Shāfi'ī's methodology, and he later wrote his monumental *Risāla* — the first book of *Uṣūl al-Fiqh*.
 
 ### Respect Despite Disagreement
 
-Despite their debates, al-Shāfi'ī said of al-Shaybānī:
+<div class="scene-box">
 
-> "I carried from him a camel's load of knowledge."
+**🎭 After Two Years of Debates**
+
+*Al-Shāfi'ī was sitting with his students. One of them asked:*
+
+**Student:** "O Imam, what do you think of al-Shaybānī? You debated him so much."
+
+*Al-Shāfi'ī smiled...*
+
+**🔵 Al-Shāfi'ī:** "I carried from him a camel's load of knowledge!"
+
+**Student:** "But you disagree on everything!"
+
+**🔵 Al-Shāfi'ī:** "Disagreement doesn't prevent benefiting. He possesses knowledge that I don't have."
+
+</div>
 
 And al-Shaybānī, in turn, recognized al-Shāfi'ī's brilliance in hadith.
 
@@ -154,19 +250,43 @@ And al-Shaybānī, in turn, recognized al-Shāfi'ī's brilliance in hadith.
 
 ### The First Contact
 
-In **195 AH / 810 CE**, 🔵 **al-Shāfi'ī** returned to Baghdad. 🟣 **Aḥmad ibn Ḥanbal**, then about 31 years old, heard of this extraordinary scholar.
+<div class="scene-box">
 
-Aḥmad, already a great muḥaddith (hadith specialist), was impressed by al-Shāfi'ī's methodology.
+**🎭 In the Markets of Baghdad — 195 AH**
+
+*Aḥmad ibn Ḥanbal heard that a scholar named al-Shāfi'ī had arrived from Mecca.*
+
+*He went to see him... He found him teaching at the mosque.*
+
+**Aḥmad's student:** "Abū 'Abd Allāh, why are you going to this stranger?"
+
+**🟣 Aḥmad:** "I heard he has memorized everything Mālik wrote."
+
+*Aḥmad entered the circle... listened... and never left.*
+
+**🟣 Aḥmad:** "For the first time, I hear someone who combines hadith and fiqh like this!"
+
+</div>
+
+🟣 **Aḥmad**, then 31 years old, was impressed by al-Shāfi'ī's methodology.
 
 ### The Learning Sessions
 
-Aḥmad attended al-Shāfi'ī's classes with devotion. One day, someone asked Aḥmad:
+<div class="scene-box">
 
-> "Why do you sit with this young Qurayshite?"
+**🎭 A Friend's Question**
 
-Aḥmad replied:
+*Some of Aḥmad's companions saw him attending al-Shāfi'ī's classes every day.*
 
-> "When I hear him say 'It was narrated to us...', I know he is upon the truth."
+**Friend:** "Why do you sit with this young Qurayshite? You're a great muḥaddith!"
+
+**🟣 Aḥmad:** "When I hear him say 'It was narrated to us...', I know he is upon the truth."
+
+**Friend:** "And what do you gain from him?"
+
+**🟣 Aḥmad:** "I learn how to use hadith in fiqh. I have the hadiths... and he has the methodology."
+
+</div>
 
 ### What Aḥmad Learned
 
@@ -186,19 +306,49 @@ From Aḥmad, al-Shāfi'ī gained:
 
 ### The Separation
 
-When al-Shāfi'ī left Baghdad for Egypt (around 199 AH), he said:
+<div class="scene-box">
 
-> "I did not leave anyone in Baghdad more knowledgeable in fiqh, more pious, or more learned than Aḥmad ibn Ḥanbal."
+**🎭 Al-Shāfi'ī's Farewell to Aḥmad — 199 AH**
 
-This was the **final farewell**. The two never saw each other again.
+*Al-Shāfi'ī decided to leave for Egypt. He came to bid farewell to Aḥmad...*
+
+**🔵 Al-Shāfi'ī:** "Abū 'Abd Allāh, I'm leaving for Egypt."
+
+**🟣 Aḥmad:** "Will we never meet again?"
+
+**🔵 Al-Shāfi'ī:** "Only Allah knows. But know this... I did not leave anyone in Baghdad more knowledgeable, more pious, or more learned than you."
+
+*Aḥmad's face reddened with shyness...*
+
+**🟣 Aḥmad:** "Don't say that, O Imam. You are my teacher."
+
+**🔵 Al-Shāfi'ī:** "No, you are my friend and my brother in knowledge."
+
+*They embraced... and this was the **final farewell**. They never saw each other again.*
+
+</div>
 
 ### The Death of Al-Shāfi'ī
 
-When news of al-Shāfi'ī's death (204 AH) reached Baghdad, Aḥmad wept and said:
+<div class="scene-box">
 
-> "He was like the sun for the people, and like health for the body."
+**🎭 News of the Death — Baghdad 204 AH**
 
-Aḥmad then refused to **create his own school** for a long time, saying he was not worthy of contradicting his teacher. It was his students who compiled his opinions into a school.
+*The news reached Baghdad: Al-Shāfi'ī had died in Egypt.*
+
+*Aḥmad sat alone... tears flowing from his eyes...*
+
+**🟣 Aḥmad:** "He was like the sun for the people, and like health for the body..."
+
+*His student entered:*
+
+**Student:** "O Imam, why don't you establish your own school now? You're the greatest of the muḥaddiths."
+
+**🟣 Aḥmad:** "How could I contradict my teacher when he has just been laid to rest? I am not worthy of that."
+
+</div>
+
+Aḥmad then refused to **create his own school** for a long time. It was his students who compiled his opinions into a school.
 
 ---
 
