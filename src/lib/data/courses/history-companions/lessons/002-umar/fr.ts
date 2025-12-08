@@ -245,29 +245,43 @@ Le Prophète ﷺ dit :
 
 ### L'Assassinat
 
-Le 26 Dhū al-Ḥijja 23 H, alors qu'il dirigeait la prière du Fajr, un esclave perse nommé **Abū Lu'lu'a** le poignarda **six fois**.
+<div class="scene-box">
 
-'Umar tomba. On le porta chez lui.
+**🗡️ La Mosquée du Prophète — 26 Dhū al-Ḥijja 23 H, prière du Fajr**
 
-Avant de mourir, il demanda :
+*'Umar se tenait debout, dirigeant les musulmans en prière. Dans les rangs, un esclave perse nommé **Abū Lu'lu'a** se glissa...*
 
-— *« Qui m'a frappé ? »*
-— *« Abū Lu'lu'a. »*
+*Six coups de poignard. 'Umar tomba. On le porta chez lui.*
 
-'Umar dit :
+---
 
-> **« الْحَمْدُ لِلَّهِ الَّذِي لَمْ يَجْعَلْ مِيتَتِي بِيَدِ رَجُلٍ يَدَّعِي الْإِسْلَامَ »**
-> "Louange à Allah qui n'a pas fait que ma mort soit de la main d'un homme se réclamant de l'Islam."
+*Avant de mourir, il ouvrit les yeux et demanda :*
+
+**🟢 'Umar :** « Qui m'a frappé ? »
+
+**Les présents :** « Abū Lu'lu'a. »
+
+*Le visage de 'Umar s'apaisa et il dit :*
+
+**🟢 'Umar :** « **الْحَمْدُ لِلَّهِ الَّذِي لَمْ يَجْعَلْ مِيتَتِي بِيَدِ رَجُلٍ يَدَّعِي الْإِسْلَامَ** — Louange à Allah qui n'a pas fait que ma mort soit de la main d'un homme se réclamant de l'Islam. »
+
+</div>
 
 ### Ses Dernières Paroles
 
-Il dit à son fils 'Abdullāh :
+<div class="scene-box">
 
-> « Va chez 'Ā'isha et demande-lui si je peux être enterré à côté de mon Compagnon (le Prophète ﷺ) et Abū Bakr. »
+**💔 Dans la Maison de 'Umar — Ses Derniers Instants**
 
-'Ā'isha, en pleurant, accepta :
+*'Umar regarda son fils 'Abdullāh et dit :*
 
-> « Je voulais cette place pour moi, mais je la donne à 'Umar. »
+**🟢 'Umar :** « Va chez 'Ā'isha et demande-lui si je peux être enterré à côté de mon Compagnon (le Prophète ﷺ) et Abū Bakr. »
+
+*'Abdullāh alla chez 'Ā'isha. Elle accepta en pleurant :*
+
+**'Ā'isha :** « Je voulais cette place pour moi, mais je la donne à 'Umar. »
+
+</div>
 
 ---
 

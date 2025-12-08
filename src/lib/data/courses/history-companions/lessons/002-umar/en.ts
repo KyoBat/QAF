@@ -245,29 +245,43 @@ The Prophet ﷺ said:
 
 ### The Assassination
 
-On 26 Dhū al-Ḥijja 23 AH, while leading the Fajr prayer, a Persian slave named **Abū Lu'lu'a** stabbed him **six times**.
+<div class="scene-box">
 
-'Umar fell. He was carried to his home.
+**🗡️ The Prophet's Mosque — 26 Dhū al-Ḥijja 23 AH, Fajr Prayer**
 
-Before dying, he asked:
+*'Umar stood leading the Muslims in prayer. In the rows, a Persian slave named **Abū Lu'lu'a** crept forward...*
 
-— *"Who struck me?"*
-— *"Abū Lu'lu'a."*
+*Six stab wounds. 'Umar fell. He was carried to his home.*
 
-'Umar said:
+---
 
-> **"الْحَمْدُ لِلَّهِ الَّذِي لَمْ يَجْعَلْ مِيتَتِي بِيَدِ رَجُلٍ يَدَّعِي الْإِسْلَامَ"**
-> "Praise be to Allah who did not let my death be at the hand of a man claiming Islam."
+*Before dying, he opened his eyes and asked:*
+
+**🟢 'Umar:** "Who struck me?"
+
+**Those present:** "Abū Lu'lu'a."
+
+*'Umar's face relaxed and he said:*
+
+**🟢 'Umar:** "**الْحَمْدُ لِلَّهِ الَّذِي لَمْ يَجْعَلْ مِيتَتِي بِيَدِ رَجُلٍ يَدَّعِي الْإِسْلَامَ** — Praise be to Allah who did not let my death be at the hand of a man claiming Islam."
+
+</div>
 
 ### His Last Words
 
-He said to his son 'Abdullāh:
+<div class="scene-box">
 
-> "Go to 'Ā'isha and ask her if I may be buried beside my Companion (the Prophet ﷺ) and Abū Bakr."
+**💔 In 'Umar's Home — His Final Moments**
 
-'Ā'isha, weeping, accepted:
+*'Umar looked at his son 'Abdullāh and said:*
 
-> "I wanted that place for myself, but I give it to 'Umar."
+**🟢 'Umar:** "Go to 'Ā'isha and ask her if I may be buried beside my Companion (the Prophet ﷺ) and Abū Bakr."
+
+*'Abdullāh went to 'Ā'isha. She accepted, weeping:*
+
+**'Ā'isha:** "I wanted that place for myself, but I give it to 'Umar."
+
+</div>
 
 ---
 
