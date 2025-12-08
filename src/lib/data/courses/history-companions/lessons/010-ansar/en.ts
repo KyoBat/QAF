@@ -286,23 +286,35 @@ The next day, the Prophet ﷺ told them:
 
 ---
 
-## 💎 The Lessons
+## 💎 Key Lessons
 
-### 1. Hospitality is Worship
+### 1. Hospitality Is Worship
 
-The Anṣār welcomed strangers—and it became their **greatest merit**.
+The Anṣār welcomed **strangers** — people they knew only through Islam.
 
-### 2. True Sharing
+This became **their greatest merit**. Allah revealed about them: **"They give them preference over themselves."**
 
-Sa'd ibn al-Rabī' offered **half** of everything. Not leftovers.
+Are our homes open to those in need?
+
+### 2. Sharing, Not Leftovers
+
+Sa'd ibn al-Rabī' offered 'Abd al-Raḥmān:
+
+> "I divide my wealth in two. And I divorce one of my wives for you to marry."
+
+Not leftovers — **half!** This is true brotherhood.
 
 ### 3. Dignity in Receiving
 
-'Abd al-Raḥmān preferred to **work** rather than depend on generosity.
+'Abd al-Raḥmān refused and said: **"Direct me to the market."**
+
+He preferred work over dependence. Giving is noble, **but dignity is nobler**.
 
 ### 4. Unity Before Tribe
 
-Aws and Khazraj were enemies. Islam created **one Ummah**.
+Aws and Khazraj were **enemies** for decades.
+
+Islam made them **one Ummah**. Religion is stronger than blood.
 
 ---
 

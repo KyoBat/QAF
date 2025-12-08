@@ -254,27 +254,37 @@ He died of the plague in 18 AH.
 
 ---
 
-## 💎 Lessons to Learn
+## 💎 Key Lessons
 
-### 1. The Reward of Being First
+### 1. The Price of the First Rank
 
-These ten were among the **first** to believe — when it was most dangerous.
+These ten believed **when believing was dangerous**. They didn't wait for Islam to become easy.
 
-### 2. Concrete Sacrifice
+The question: are we in the front ranks of our time? **Or do we wait for the majority?**
 
-They did not just believe — they **acted**: emigration, fighting, giving wealth.
+### 2. Faith Requires Action
 
-### 3. Diverse Personalities
+They didn't just say "I believe" — they emigrated, fought, gave away their wealth.
 
-A merchant, a warrior, a scholar, an archer... Allah chose **different** profiles.
+Paradise is not for wishes. **Paradise is for sacrifices.**
 
-### 4. Humility Despite the Promise
+### 3. Diversity Is Richness
 
-None of them boasted about this promise. They continued to fear Allah and do good.
+A merchant, a warrior, a scholar, an archer...
+
+Allah chose **different** profiles for Paradise. There's no single mold for righteousness. Be yourself — but be for Allah.
+
+### 4. The Promise Doesn't Exempt from Effort
+
+Despite being promised Paradise, none of them rested. None boasted.
+
+They continued to **fear Allah and do good** until death.
 
 ### 5. Paradise Is Earned
 
-Their entry into Paradise was not arbitrary — it was the fruit of a life of **faith and action**.
+Their entry into Paradise wasn't random, wasn't favoritism, wasn't luck.
+
+It was the **fruit of a lifetime** of faith, action, and sacrifice.
 
 ---
 

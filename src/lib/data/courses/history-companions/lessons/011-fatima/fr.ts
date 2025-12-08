@@ -282,23 +282,38 @@ Cette tragédie reste **une blessure** dans l'histoire islamique.
 
 ---
 
-## 💎 Les Leçons
+## 💎 Leçons à Retenir
 
-### 1. L'Amour d'Ahl al-Bayt
+### 1. Aimer Ahl al-Bayt : C'est la Religion
 
-Aimer la famille du Prophète ﷺ fait partie de l'Islam — sans excès ni négligence.
+Aimer la famille du Prophète ﷺ **fait partie de l'Islam** — sans excès ni négligence.
 
-### 2. La Simplicité de Fāṭima
+Le Prophète ﷺ : **« Fāṭima est un morceau de moi. Quiconque lui nuit m'a nui. »**
 
-La fille du Prophète ﷺ vivait plus simplement que beaucoup de musulmans ordinaires.
+### 2. La Simplicité Malgré le Rang
+
+La fille du Prophète ﷺ vivait plus simplement que beaucoup de musulmans ordinaires :
+- Elle broyait le grain de ses mains
+- Elle portait l'eau elle-même
+- Elle n'eut pas de servante pendant des années
+
+**La lignée ne dispense pas du travail.**
 
 ### 3. Al-Ḥasan : L'Unité Avant l'Ego
 
-Il renonça au pouvoir pour **préserver la paix**.
+Il renonça au califat en faveur de Mu'āwiya. Pourquoi ?
+
+> « Pour unir la Oumma de Muḥammad ﷺ. »
+
+Le Prophète ﷺ l'appela **« Sayyid »** — parce qu'il sut quand céder pour l'intérêt général.
 
 ### 4. Al-Ḥusayn : La Fermeté sur les Principes
 
-Il refusa de prêter allégeance à ce qu'il considérait comme injuste, même au prix de sa vie.
+Il refusa de prêter allégeance à Yazīd — sachant le danger.
+
+Il ne dit pas : « Je prête allégeance pour sauver ma peau. » Il dit : **« Je ne donne pas ma main comme le fait le soumis. »**
+
+Le principe est plus précieux que la vie.
 
 ---
 

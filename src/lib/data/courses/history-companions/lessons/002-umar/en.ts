@@ -288,27 +288,42 @@ The Prophet ﷺ said:
 
 ---
 
-## 💎 Lessons to Learn
+## 💎 Key Lessons
 
-### 1. Transformation Is Possible
+### 1. No One Is Too Far from Guidance
 
-The man who wanted to kill the Prophet ﷺ became his most ardent defender. No one is **too far** from guidance.
+Imagine: the man who set out to **kill** the Prophet ﷺ became the **greatest caliph** of Islam.
 
-### 2. Strength in Service of Truth
+When you see someone far from Allah, remember 'Umar. **Guidance belongs to Allah alone.**
 
-'Umar did not lose his strength by becoming Muslim — he **channeled** it for the truth.
+### 2. Strength Needs Direction
 
-### 3. Power with Humility
+'Umar did not lose his strength by becoming Muslim — he **channeled it in the right direction**.
 
-Despite his immense power, he **wore patched clothes**, ate barley, and patrolled to feed the poor.
+Strength is not a flaw. The flaw is using it against the truth.
 
-### 4. Justice Without Exception
+### 3. Power Is Not Comfort
 
-He applied the same rules to **everyone** — including his own children and governors.
+Caliph over half the known world — and yet:
+- He wore **patched clothes**
+- He ate **barley bread and dates**
+- He patrolled **at night** to feed the poor himself
 
-### 5. The Burden of Responsibility
+**True power is responsibility, not privilege.**
 
-"If a mule stumbles in Iraq..." — true leadership is a **burden**, not a privilege.
+### 4. Justice Knows No Faces
+
+He punished his own son for drinking alcohol. He dismissed governors who oppressed.
+
+"If Fāṭima daughter of Muḥammad stole, I would cut off her hand."
+
+**Justice has no exceptions.**
+
+### 5. The Weight of Responsibility
+
+"If a mule stumbles in Iraq, I fear that Allah will ask me: Why didn't you fix the road?"
+
+Do we feel this weight regarding our responsibilities?
 
 ---
 

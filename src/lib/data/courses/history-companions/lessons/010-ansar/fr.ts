@@ -289,23 +289,35 @@ Le lendemain, le Prophète ﷺ leur dit :
 
 ---
 
-## 💎 Les Leçons
+## 💎 Leçons à Retenir
 
-### 1. L'Accueil est une 'Ibāda
+### 1. L'Accueil Est une 'Ibāda
 
-Les Anṣār ont accueilli des étrangers — et cela est devenu leur **plus grand mérite**.
+Les Anṣār ont accueilli des **étrangers** — des gens qu'ils ne connaissaient que par l'Islam.
 
-### 2. Le Partage Sincère
+Cela devint **leur plus grand mérite**. Allah révéla à leur sujet : **« Ils les préfèrent à eux-mêmes. »**
 
-Sa'd ibn al-Rabī' offrait la **moitié** de tout. Pas les restes.
+Nos maisons sont-elles ouvertes aux nécessiteux ?
 
-### 3. La Dignité dans la Réception
+### 2. Le Partage, Pas les Restes
 
-'Abd al-Raḥmān a préféré **travailler** plutôt que de dépendre de la générosité.
+Sa'd ibn al-Rabī' offrit à 'Abd al-Raḥmān :
 
-### 4. L'Unité Avant les Tribus
+> « Je partage mon bien en deux. Et je divorce l'une de mes épouses pour que tu l'épouses. »
 
-Aws et Khazraj étaient ennemis. L'Islam a créé une **seule Oumma**.
+Pas les restes — **la moitié !** C'est cela la fraternité.
+
+### 3. La Dignité Dans la Réception
+
+'Abd al-Raḥmān refusa et dit : **« Indique-moi le marché. »**
+
+Il préféra travailler plutôt que dépendre. Donner est noble, **mais la dignité l'est encore plus**.
+
+### 4. L'Unité Avant la Tribu
+
+Aws et Khazraj étaient **ennemis** depuis des décennies.
+
+L'Islam a fait d'eux une **seule Oumma**. La religion est plus forte que le sang.
 
 ---
 

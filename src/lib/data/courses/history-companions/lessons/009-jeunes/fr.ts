@@ -257,23 +257,34 @@ Les savants de Médine après lui ont suivi sa méthodologie — notamment l'Ima
 
 ---
 
-## 💎 Les Leçons
+## 💎 Leçons à Retenir
 
-### 1. Le Savoir se Cherche
+### 1. Le Savoir se Cherche Activement
 
-Ibn 'Abbās n'a pas attendu que le savoir vienne à lui. Il l'a **cherché**.
+Ibn 'Abbās **n'a pas attendu** que le savoir vienne à lui. Il dormait sur les seuils des maisons des Compagnons.
 
-### 2. La Sunna dans les Détails
+« Je me suis abaissé en tant qu'étudiant, et j'ai été élevé en tant que savant. »
 
-Ibn 'Umar nous montre que suivre le Prophète ﷺ va jusqu'aux **petites choses**.
+**Cherchons-nous le savoir avec cette ardeur ?**
 
-### 3. La Jeunesse n'est pas un Obstacle
+### 2. La Sunna Jusque Dans les Détails
 
-Les deux étaient **enfants** au temps du Prophète ﷺ. Ils sont devenus des **océans**.
+Ibn 'Umar s'arrêtait là où le Prophète ﷺ s'était arrêté. Il marchait là où il avait marché. Il descendait là où il était descendu.
+
+Suivre le Prophète ﷺ n'est pas que pour les grandes choses — **c'est aussi dans les détails**.
+
+### 3. La Jeunesse N'est Pas une Excuse
+
+Les deux étaient **enfants** au temps du Prophète ﷺ. Ils devinrent des **océans** de savoir.
+
+Ne dis pas : « Je suis encore jeune. » **Commence maintenant.**
 
 ### 4. Différentes Voies, Même Destination
 
-Ibn 'Abbās et Ibn 'Umar avaient des approches différentes — mais tous deux cherchaient **la vérité**.
+Ibn 'Abbās : l'interprétation et l'ijtihād.
+Ibn 'Umar : l'imitation littérale.
+
+Deux méthodes différentes, mais tous deux cherchaient **la même vérité**.
 
 ---
 

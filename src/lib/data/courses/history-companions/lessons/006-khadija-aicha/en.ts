@@ -210,19 +210,35 @@ The Prophet ﷺ replied:
 
 ---
 
-## 💎 Lessons to Learn
+## 💎 Key Lessons
 
-### 1. Support in Hardship (Khadīja)
+### 1. Support at the Decisive Moment (Khadīja)
+
+When the Revelation came, the Prophet ﷺ was frightened. He said: **"Cover me! Cover me!"**
+
+Khadīja didn't say: "What's wrong with you?" She said: "No! By Allah, He will never disgrace you."
 
 When everyone doubts, the support of **one person** can change everything.
 
-### 2. Knowledge for Women ('Ā'isha)
+### 2. Knowledge Is a Right for Women ('Ā'isha)
 
-Islam encourages women to **learn and teach** — 'Ā'isha was living proof.
+**2,210 hadiths.** The greatest scholars among the Companions consulted her.
 
-### 3. Prophetic Love
+Islam encourages women to **learn and teach**. 'Ā'isha is the living proof.
 
-The Prophet ﷺ loved his wives **openly** — a model for Muslim husbands.
+### 3. Love Expressed Openly
+
+The Prophet ﷺ didn't hide his love for his wives:
+- "I was granted love for her" (about Khadīja)
+- "The person I love most" (about 'Ā'isha)
+
+**Model for spouses**: love is expressed, not hidden.
+
+### 4. Loyalty After Death
+
+Years after Khadīja's death, the Prophet ﷺ still mentioned her kindly and maintained ties with her friends.
+
+**Loyalty doesn't die with loved ones.**
 
 ---
 

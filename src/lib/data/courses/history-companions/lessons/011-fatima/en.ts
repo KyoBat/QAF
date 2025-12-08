@@ -278,23 +278,38 @@ This tragedy remains **a wound** in Islamic history.
 
 ---
 
-## 💎 The Lessons
+## 💎 Key Lessons
 
-### 1. Love for Ahl al-Bayt
+### 1. Loving Ahl al-Bayt: It's Religion
 
-Loving the Prophet's ﷺ family is part of Islam—without excess or neglect.
+Loving the Prophet's ﷺ family is **part of Islam** — without excess or neglect.
 
-### 2. Fāṭima's Simplicity
+The Prophet ﷺ: **"Fāṭima is part of me. Whoever harms her has harmed me."**
 
-The Prophet's ﷺ daughter lived more simply than many ordinary Muslims.
+### 2. Simplicity Despite Rank
+
+The Prophet's ﷺ daughter lived more simply than many ordinary Muslims:
+- She ground grain with her own hands
+- She carried water herself
+- She had no servant for years
+
+**Lineage doesn't exempt from work.**
 
 ### 3. Al-Ḥasan: Unity Before Ego
 
-He gave up power to **preserve peace**.
+He gave up the caliphate to Mu'āwiya. Why?
+
+> "To unite the Ummah of Muḥammad ﷺ."
+
+The Prophet ﷺ called him **"Sayyid"** — because he knew when to concede for the greater good.
 
 ### 4. Al-Ḥusayn: Firmness on Principles
 
-He refused to pledge allegiance to what he considered unjust, even at the cost of his life.
+He refused to pledge allegiance to Yazīd — knowing the danger.
+
+He didn't say: "I'll pledge to save my life." He said: **"I don't give my hand as the humiliated does."**
+
+Principle is more precious than life.
 
 ---
 

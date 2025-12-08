@@ -255,27 +255,39 @@ The Companions understood the message.
 
 ---
 
-## 💎 Lessons to Learn
+## 💎 Key Lessons
 
 ### 1. Faith Without Hesitation
 
-Abū Bakr teaches us that true faith does not negotiate, does not doubt, does not waver. When the truth is clear, the believer says **yes** immediately.
+When he heard about the Isrā' and Mi'rāj, he didn't say "Wait, let me verify." He said: **"If he said it, it is true."**
 
-### 2. Sincere Friendship
+This is faith: complete trust in Allah and His Messenger, without negotiation.
 
-His friendship with the Prophet ﷺ shows what true friendship is: sacrifice, loyalty, presence in difficult times.
+### 2. Friendship That Transcends
 
-### 3. Total Generosity
+He accompanied the Prophet ﷺ in the cave, during the hijra, in good times and bad. Their friendship wasn't just nice words — it was **real sacrifice** in decisive moments.
 
-He gave **everything** — not 50%, not 90%, but 100%. The question is not how much we give, but how much we keep.
+Are our friendships at this level?
 
-### 4. Humble Leadership
+### 3. Generosity That Astounds
 
-"I am not the best among you." A true leader recognizes his limits and asks to be corrected.
+When asked: "What did you leave for your family?" He replied: **"Allah and His Messenger."**
 
-### 5. Firmness in Truth
+The question isn't: how much do I give? But: **how much do I keep for myself?**
 
-Facing apostasy after the Prophet ﷺ's death, he said: "By Allah, if anyone withholds even a camel's rope that they used to give to the Prophet ﷺ, I will fight them for it."
+### 4. The Leader Who Invites Correction
+
+"I have been given authority over you, but I am not the best among you. If I do well, help me. If I do wrong, **correct me.**"
+
+A true leader is not afraid of criticism — he **seeks it**.
+
+### 5. Firmness When Everyone Wavers
+
+After the Prophet ﷺ died, tribes apostatized. 'Umar said: "Leave them!" But Abū Bakr:
+
+> "By Allah, if anyone withholds even a camel's rope that they used to give to the Prophet ﷺ, I will fight them for it."
+
+**The truth is not negotiable.**
 
 ---
 

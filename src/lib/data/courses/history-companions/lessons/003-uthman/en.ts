@@ -259,27 +259,43 @@ The Prophet ﷺ said:
 
 ---
 
-## 💎 Lessons to Learn
+## 💎 Key Lessons
 
-### 1. Modesty Is Strength
+### 1. Modesty Is Not Weakness — It Is Nobility
 
-'Uthmān shows that modesty is not weakness — it is a **nobility** that even the angels recognize.
+A man before whom even the angels had modesty! What our era considers "weakness," Allah honored as **nobility**.
 
-### 2. Generosity Without Calculation
+'Uthmān teaches us: be modest, self-confident, and strong at the same time.
 
-He gave without counting — wells, armies, mosques. True wealth is what we **give away**.
+### 2. True Wealth Is What We Give
+
+He bought a well for the Muslims. He equipped an entire army. He expanded the Prophet's Mosque.
+
+He didn't ask: "What's in it for me?" but: **"How can I serve the Umma?"**
+
+The truly wealthy are those who give, not those who hoard.
 
 ### 3. Patience in the Face of Injustice
 
-Besieged, unjustly accused, he refused to shed Muslim blood. He chose martyrdom over fitna.
+Besieged by rebels, the Companions told him: "We will fight for you!" He refused:
 
-### 4. Attachment to the Quran
+> "I will not be the first to shed Muslim blood."
 
-He died reading the Quran. Throughout his life, he was attached to the Word of Allah — until his last breath.
+He chose martyrdom over fitna. **This is true patience.**
 
-### 5. The Unity of the Umma
+### 4. The Quran: Companion for Life and Death
 
-His compilation of the Quran unified the Umma forever. An act that continues to benefit billions of Muslims.
+He died with the Mushaf in his hands, reading. His blood flowed onto the pages of the Quran.
+
+Is the Quran our daily companion? **Or a book we open occasionally?**
+
+### 5. An Act That Lasts 1400 Years
+
+His compilation of the Quran into one Mushaf has **unified the Umma** until today.
+
+**Billions** have read this Mushaf. All in his scale of deeds.
+
+What work will we leave behind?
 
 ---
 

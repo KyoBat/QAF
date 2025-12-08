@@ -233,15 +233,25 @@ Sans eux, nous n'aurions **rien** de la Sunna.
 
 ---
 
-## 💎 Le Résumé Final
+## 💎 Leçons à Retenir — Synthèse du Cours
 
 ### Ce qu'ils nous ont Laissé
 
-1. **Le Coran** — préservé par leur mémorisation
-2. **La Sunna** — transmise par leurs récits
-3. **L'exemple** — comment vivre l'Islam concrètement
-4. **L'unité** — ils ont construit une Oumma, pas des sectes
-5. **L'espoir** — des humains ordinaires peuvent faire l'extraordinaire
+Les Compagnons ne nous ont pas laissé d'argent ou de palais — ils nous ont laissé **bien plus** :
+
+1. **Le Coran** — ils l'ont mémorisé et nous l'ont transmis lettre par lettre
+2. **La Sunna** — ils l'ont vécue avec le Prophète ﷺ et l'ont rapportée fidèlement
+3. **L'exemple** — ils nous ont montré comment vivre l'Islam concrètement
+4. **L'unité** — ils ont construit une Oumma unie à partir de tribus rivales
+5. **L'espoir** — ils ont prouvé que des humains ordinaires peuvent accomplir l'extraordinaire
+
+### Le Message Final
+
+Ils étaient **des humains comme nous** : ils erraient, se repentaient, patientaient, triomphaient.
+
+Ils n'étaient pas des anges — mais **des humains qui ont choisi Allah, et qu'Allah a choisis**.
+
+Et toi... **que choisis-tu ?**
 
 ---
 

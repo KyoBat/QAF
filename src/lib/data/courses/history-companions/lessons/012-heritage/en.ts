@@ -232,15 +232,25 @@ Without them, we would have **nothing** of the Sunnah.
 
 ---
 
-## 💎 The Final Summary
+## 💎 Key Lessons — Course Synthesis
 
 ### What They Left Us
 
-1. **The Quran** — preserved through their memorization
-2. **The Sunnah** — transmitted through their narrations
-3. **Example** — how to live Islam concretely
-4. **Unity** — they built an Ummah, not sects
-5. **Hope** — ordinary humans can do the extraordinary
+The Companions didn't leave us money or palaces — they left us **far more**:
+
+1. **The Quran** — they memorized it and transmitted it to us letter by letter
+2. **The Sunnah** — they lived it with the Prophet ﷺ and reported it faithfully
+3. **Example** — they showed us how to live Islam practically
+4. **Unity** — they built a united Ummah from rival tribes
+5. **Hope** — they proved that ordinary humans can achieve the extraordinary
+
+### The Final Message
+
+They were **humans like us**: they erred, repented, persevered, triumphed.
+
+They weren't angels — but **humans who chose Allah, and whom Allah chose**.
+
+And you... **what do you choose?**
 
 ---
 

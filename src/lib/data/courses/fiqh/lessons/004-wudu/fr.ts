@@ -1,198 +1,317 @@
-export const content = `
-# Al-Wudu (Les Ablutions)
+/**
+ * Cours de Fiqh - Leçon 004: Al-Wudu (Les Ablutions)
+ * La purification rituelle par l'eau - Pilier de la validité de la prière
+ * Contenu en Français - Approche Malikite avec comparaison des madhahib
+ */
 
-## 1. Définition du Wudu
+export const content = `# 📜 الوُضُوءُ — Les Ablutions Rituelles
 
-**Linguistiquement :** Dérivé de *Al-Wada'ah*, qui signifie beauté et propreté.
-**En Charia :** C'est l'utilisation d'eau pure sur des membres spécifiques (visage, mains, tête et pieds) d'une manière spécifique avec l'intention d'adorer Allah.
+> *« La clé de la prière est la purification. »*
+> — Le Prophète ﷺ (Rapporté par At-Tirmidhi)
 
-## 2. Conditions de Validité du Wudu
+---
+
+## 📖 Textes Fondateurs (النصوص الأساسية)
+
+### Le Coran
+
+> **﴿ يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا قُمْتُمْ إِلَى الصَّلَاةِ فَاغْسِلُوا وُجُوهَكُمْ وَأَيْدِيَكُمْ إِلَى الْمَرَافِقِ وَامْسَحُوا بِرُءُوسِكُمْ وَأَرْجُلَكُمْ إِلَى الْكَعْبَيْنِ ﴾**
+> *« Ô vous qui croyez ! Lorsque vous vous levez pour la prière, lavez vos visages et vos mains jusqu'aux coudes, essuyez vos têtes et [lavez] vos pieds jusqu'aux chevilles. »*
+> — Al-Ma'idah : 6
+
+> **﴿ إِنَّ اللَّهَ يُحِبُّ التَّوَّابِينَ وَيُحِبُّ الْمُتَطَهِّرِينَ ﴾**
+> *« Certes, Allah aime ceux qui se repentent et Il aime ceux qui se purifient. »*
+> — Al-Baqarah : 222
+
+### La Sunnah
+
+> عَنْ **عُثْمَانَ بْنِ عَفَّانَ** رَضِيَ اللهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللهِ ﷺ:
+> **« مَنْ تَوَضَّأَ فَأَحْسَنَ الوُضُوءَ، خَرَجَتْ خَطَايَاهُ مِنْ جَسَدِهِ حَتَّى تَخْرُجَ مِنْ تَحْتِ أَظْفَارِهِ »**
+> *« Celui qui fait ses ablutions de manière parfaite, ses péchés sortent de son corps, jusqu'à ce qu'ils sortent de sous ses ongles. »*
+> — Sahih Muslim (245)
+
+> عَنْ **أَبِي هُرَيْرَةَ** رَضِيَ اللهُ عَنْهُ أَنَّ رَسُولَ اللهِ ﷺ قَالَ:
+> **« لَا تُقْبَلُ صَلَاةٌ بِغَيْرِ طُهُورٍ »**
+> *« La prière n'est pas acceptée sans purification. »*
+> — Sahih Muslim (224)
+
+> عَنْ **عُثْمَانَ بْنِ عَفَّانَ** رَضِيَ اللهُ عَنْهُ أَنَّ النَّبِيَّ ﷺ قَالَ:
+> **« مَنْ تَوَضَّأَ هَكَذَا ثُمَّ صَلَّى رَكْعَتَيْنِ لَا يُحَدِّثُ فِيهِمَا نَفْسَهُ، غُفِرَ لَهُ مَا تَقَدَّمَ مِنْ ذَنْبِهِ »**
+> *« Celui qui fait ses ablutions ainsi, puis prie deux rak'ahs sans y laisser errer ses pensées, ses péchés passés lui seront pardonnés. »*
+> — Sahih Al-Bukhari (159) et Sahih Muslim (226)
+
+### 📚 Référencement (التخريج)
+
+| Source | Numéro | Statut |
+|--------|--------|--------|
+| **Sahih Al-Bukhari** | 159, 164 | ✅ Sahih |
+| **Sahih Muslim** | 224, 226, 245 | ✅ Sahih |
+| **Al-Muwatta'** | Kitab At-Taharah | ✅ Sahih |
+| **Sunan At-Tirmidhi** | 3 | ✅ Sahih |
+
+---
+
+## 🎓 Paroles des Savants (أقوال العلماء)
+
+> **L'Imam Malik ibn Anas** رحمه الله a dit dans *Al-Muwatta'* :
+> *« La continuité (al-muwalah) dans les ablutions est obligatoire, et celui qui laisse sécher un membre avant de laver le suivant doit recommencer ses ablutions. »*
+
+> **Ibn Rushd Al-Hafid** رحمه الله a dit dans *Bidayat Al-Mujtahid* :
+> *« Les savants sont unanimes sur le fait que l'intention est une condition de validité des ablutions, car le Prophète ﷺ a dit : "Les actes ne valent que par les intentions." »*
+
+> **Ibn Juzayy Al-Kalbi** رحمه الله a dit dans *Al-Qawanin Al-Fiqhiyyah* :
+> *« Les obligations des ablutions sont au nombre de sept selon les Malikites : l'intention, laver le visage, laver les mains jusqu'aux coudes, essuyer la tête, laver les pieds jusqu'aux chevilles, la continuité et le frottement. »*
+
+> **An-Nawawi** رحمه الله a dit dans *Al-Majmu'* :
+> *« Les ablutions sont la clé de la prière, et la prière est le pilier de la religion ; il convient donc au musulman de parfaire ses ablutions et de les accomplir avec soin. »*
+
+---
+
+## 🔍 Analyse Linguistique (التحليل اللغوي)
+
+### Tableau de vocabulaire
+
+| Terme Arabe | Translittération | Racine | Définition Technique |
+|-------------|------------------|--------|---------------------|
+| **الوُضُوءُ** | Al-Wudu' | و-ض-أ | La purification rituelle par l'eau sur des membres spécifiques |
+| **الوَضَاءَةُ** | Al-Wada'ah | و-ض-أ | Beauté et propreté (sens linguistique originel) |
+| **الطَّهَارَةُ** | At-Taharah | ط-ه-ر | La purification, état de pureté rituelle |
+| **الفَرْضُ** | Al-Fard | ف-ر-ض | L'obligation, le pilier indispensable |
+| **السُّنَّةُ** | As-Sunnah | س-ن-ن | L'acte recommandé suivant l'exemple prophétique |
+| **المُوَالَاةُ** | Al-Muwalah | و-ل-ي | La continuité, enchaîner les actes sans interruption |
+| **التَّرْتِيبُ** | At-Tartib | ر-ت-ب | L'ordre, respecter la séquence prescrite |
+| **الدَّلْكُ** | Ad-Dalk | د-ل-ك | Le frottement des membres avec l'eau |
+| **النَّاقِضُ** | An-Naqid | ن-ق-ض | L'annulatif, ce qui rompt les ablutions |
+| **الخُفُّ** | Al-Khuff | خ-ف-ف | Chausson en cuir couvrant les chevilles |
+| **الجَوْرَبُ** | Al-Jawrab | ج-ر-ب | Chaussette (coton, laine, ou autre) |
+
+### 💡 Point de Balaghah
+
+> 💡 **Point de Balaghah** : Dans le verset des ablutions, Allah ﷻ utilise le verbe **« اغْسِلُوا »** (lavez) pour le visage, les mains et les pieds, mais **« امْسَحُوا »** (essuyez) pour la tête, indiquant une différence de nature dans l'acte requis. Cette distinction linguistique a des implications juridiques majeures dans le fiqh.
+
+---
+
+## 📚 Explication Détaillée (الشرح المفصل)
+
+### 🔷 Définition du Wudu
+
+**Linguistiquement :** Dérivé de *Al-Wada'ah* (الوَضَاءَة), qui signifie beauté, propreté et éclat.
+
+**En Charia :** C'est l'utilisation d'eau pure sur des membres spécifiques (visage, mains, tête et pieds) d'une manière spécifique avec l'intention d'adorer Allah ﷻ.
+
+### 🔷 Conditions de Validité (شروط الوضوء)
 
 Pour que le Wudu soit valide, les conditions suivantes doivent être remplies :
 
-1. **L'Islam :** Il n'est pas valide pour un mécréant.
-2. **La Raison :** Il n'est pas valide pour un fou.
-3. **Le Discernement (Tamyiz) :** Il n'est pas valide pour un jeune enfant qui n'a pas atteint l'âge de compréhension (généralement vers 7 ans).
-4. **L'Intention (Niyyah) :** Avoir l'intention de se purifier ou d'enlever l'impureté rituelle. L'intention se fait dans le cœur.
-5. **L'Eau Pure :** Utiliser de l'eau qui est pure en elle-même et purifiante (Mutlaq).
-6. **L'Enlèvement des Barrières :** Enlever tout ce qui empêche l'eau d'atteindre la peau (vernis à ongles, peinture, cire, colle).
-7. **La Cessation de ce qui l'Annule :** On ne peut pas faire le Wudu en urinant ou en déféquant ; l'acte doit avoir cessé.
+| Condition | Explication |
+|-----------|-------------|
+| **L'Islam** | Le Wudu n'est pas valide pour un non-musulman |
+| **La Raison** | Non valide pour une personne privée de raison |
+| **Le Discernement** | Non valide pour un enfant n'ayant pas atteint l'âge de compréhension (~7 ans) |
+| **L'Intention** | Avoir l'intention dans le cœur de se purifier |
+| **L'Eau Pure** | Utiliser une eau pure en elle-même et purifiante (Tahur) |
+| **L'Absence de Barrière** | Enlever ce qui empêche l'eau d'atteindre la peau (vernis, peinture, cire) |
+| **La Cessation de l'Annulatif** | L'acte annulatif doit avoir cessé avant de commencer |
 
-## 3. Actes Obligatoires (Faraid/Arkan) du Wudu
+### 🔷 Actes Obligatoires (الفرائض) selon les Malikites
 
-Ce sont les piliers sans lesquels le Wudu est invalide. Il y en a six :
+Les Malikites comptent **sept obligations** du Wudu :
 
-1. **Laver le Visage :** De la racine des cheveux au menton, et d'une oreille à l'autre. Cela inclut le rinçage de la bouche et du nez.
-   **Preuve :** Allah dit : ﴿Ô vous qui croyez ! Lorsque vous vous levez pour la Salat, lavez vos visages...﴾ [Al-Ma'idah : 6].
-2. **Laver les Mains jusqu'aux Coudes (inclus).**
-   **Preuve :** ﴿...et vos mains jusqu'aux coudes...﴾ [Al-Ma'idah : 6].
-3. **Essuyer la Tête :** Cela inclut les oreilles.
-   **Preuve :** ﴿...et essuyez vos têtes...﴾ [Al-Ma'idah : 6].
-4. **Laver les Pieds jusqu'aux Chevilles (incluses).**
-   **Preuve :** ﴿...et vos pieds jusqu'aux chevilles.﴾ [Al-Ma'idah : 6].
-5. **L'Ordre (Tartib) :** Accomplir les actes dans l'ordre mentionné dans le verset.
-6. **La Continuité (Muwalah) :** Laver les membres successivement sans longue pause, de sorte que le membre précédent ne sèche pas avant de laver le suivant.
+1. **L'Intention (النية)** — Formulée dans le cœur au début
+2. **Laver le Visage (غسل الوجه)** — De la racine des cheveux au menton, d'une oreille à l'autre
+3. **Laver les Mains jusqu'aux Coudes (غسل اليدين إلى المرفقين)** — Coudes inclus
+4. **Essuyer la Tête (مسح الرأس)** — En entier selon les Malikites
+5. **Laver les Pieds jusqu'aux Chevilles (غسل الرجلين إلى الكعبين)** — Chevilles incluses
+6. **Le Frottement (الدَّلْك)** — Frotter les membres avec l'eau (spécificité malikite)
+7. **La Continuité (المُوَالَاة)** — Enchaîner les actes sans pause excessive
 
-![Illustration des actes obligatoires du Wudu](/images/courses/fiqh/wudu-faraid.jpg)
+### 🔷 Actes Recommandés (السنن)
 
-## 4. Sunan (Actes Recommandés) du Wudu
+| Sunnah | Description |
+|--------|-------------|
+| **Dire Bismillah** | Au début des ablutions |
+| **Utiliser le Siwak** | Avant de rincer la bouche |
+| **Laver les mains 3 fois** | Au début, jusqu'aux poignets |
+| **Rincer la bouche (المضمضة)** | Faire circuler l'eau dans la bouche |
+| **Aspirer l'eau dans le nez (الاستنشاق)** | Et la rejeter (الاستنثار) |
+| **Passer les doigts dans la barbe** | Si elle est épaisse (التخليل) |
+| **Commencer par la droite** | Pour les membres pairs (التيامن) |
+| **Répéter 3 fois** | Chaque lavage (sauf la tête : une fois) |
+| **L'invocation finale** | La Shahada après les ablutions |
 
-Ce sont des actes qui rapportent une récompense s'ils sont faits mais n'invalident pas le Wudu s'ils sont omis :
+### 🔷 Les Annulatifs du Wudu (نواقض الوضوء)
 
-1. **Dire "Bismillah"** au début.
-2. **Utiliser le Siwak** (bâtonnet) avant de rincer la bouche.
-3. **Laver les mains (poignets) trois fois** au début.
-4. **Rincer la bouche et le nez abondamment** (Mubalaghah), sauf en cas de jeûne.
-5. **Passer les doigts dans la barbe** (si elle est épaisse) et entre les doigts des mains et des pieds (Takhlil).
-6. **Commencer par le côté droit** (Tayammun) pour les membres qui vont par paire.
-7. **Laver chaque membre trois fois** (sauf l'essuyage de la tête, qui se fait une fois).
-8. **L'invocation après le Wudu :** « Ash-hadu an la ilaha ill-Allah wahdahu la sharika lah, wa ash-hadu anna Muhammadan 'abduhu wa rasuluh. » (J'atteste qu'il n'y a de divinité qu'Allah seul, sans associé, et j'atteste que Muhammad est Son serviteur et Son messager).
+| Annulatif | Explication |
+|-----------|-------------|
+| **Ce qui sort des deux voies** | Urine, excréments, vent, madhy, etc. |
+| **Le Sommeil Profond** | Celui qui fait perdre conscience de soi |
+| **La Perte de Conscience** | Folie, évanouissement, ivresse |
+| **Toucher les Parties Intimes** | Directement avec la main sans barrière |
+| **Manger de la Viande de Chameau** | Selon l'ordre spécifique du Prophète ﷺ |
 
-## 5. Annulatifs du Wudu (Nawaqid)
+### 🔷 Description du Wudu du Prophète ﷺ
 
-Le Wudu est annulé par :
+Basé sur le hadith de 'Uthman ibn 'Affan رضي الله عنه :
 
-1. **Tout ce qui sort des deux voies (avant et arrière) :** Urine, excréments, vent, liquide prostatique (Madhy), etc.
-2. **Le Sommeil Profond :** Le sommeil qui fait perdre conscience ou le contrôle de soi (où on ne saurait pas si on a lâché un vent).
-3. **La Perte de Conscience :** Due à la folie, l'évanouissement ou l'ivresse.
-4. **Toucher les Parties Intimes :** Toucher l'organe sexuel directement avec la main sans barrière (selon de nombreux savants).
-5. **Manger de la Viande de Chameau :** Basé sur l'ordre spécifique du Prophète ﷺ.
+1. Formuler l'intention dans le cœur
+2. Dire **« بِسْمِ اللهِ »**
+3. Laver les mains (poignets) **trois fois**
+4. Rincer la bouche et le nez **trois fois**
+5. Laver le visage **trois fois**
+6. Laver le bras droit puis le gauche jusqu'aux coudes **trois fois** chacun
+7. Essuyer la tête **une fois** (de l'avant vers l'arrière puis retour)
+8. Essuyer les oreilles (intérieur et extérieur)
+9. Laver le pied droit puis le gauche jusqu'aux chevilles **trois fois** chacun
+10. Prononcer la Shahada et l'invocation
 
-## 6. Description du Wudu du Prophète ﷺ (Étape par Étape)
+### 🔷 L'Essuyage sur les Khuffs (المسح على الخفين)
 
-Basé sur le hadith de Uthman ibn Affan (qu'Allah l'agrée) décrivant le Wudu du Prophète :
+| Aspect | Règle |
+|--------|-------|
+| **Condition** | Les porter en état de pureté complète |
+| **Couverture** | Doivent couvrir les pieds y compris les chevilles |
+| **Durée — Résident** | Un jour et une nuit (24 heures) |
+| **Durée — Voyageur** | Trois jours et nuits (72 heures) |
+| **Méthode** | Essuyer le dessus uniquement, des orteils vers le tibia |
+| **Annulation** | Fin de la période, retrait des khuffs, ou impureté majeure |
 
-1. Avoir l'intention dans le cœur de faire le Wudu.
-2. Dire "Bismillah".
-3. Laver les mains (poignets) trois fois.
-4. Rincer la bouche et le nez (aspirer l'eau et la rejeter) trois fois (de préférence avec une seule poignée d'eau pour les deux).
-5. Laver le visage trois fois.
-6. Laver le bras droit jusqu'au coude inclus trois fois, puis le bras gauche trois fois.
-7. Essuyer la tête une fois (bouger les mains mouillées de l'avant vers l'arrière de la tête puis revenir à l'avant).
-8. Essuyer les oreilles (l'intérieur avec les index et l'extérieur avec les pouces).
-9. Laver le pied droit jusqu'à la cheville incluse trois fois, puis le pied gauche trois fois.
-10. Dire l'attestation de foi (Shahada) et l'invocation.
-
-![Guide étape par étape du Wudu](/images/courses/fiqh/wudu-steps.jpg)
-
----
-
-## 7. L'Essuyage sur les Khuffs et les Chaussettes (Al-Masah)
-
-Par miséricorde d'Allah envers Ses serviteurs, Il a permis d'essuyer sur les chaussons en cuir (khuffayn) et les chaussettes ordinaires au lieu de laver les pieds, facilitant ainsi les choses pour les musulmans, surtout par temps froid et en voyage.
-
-### Définitions
-
-| Terme | Définition |
-| :--- | :--- |
-| **Khuff (pl. Khuffayn)** | Chaussure en cuir qui couvre les pieds y compris les chevilles |
-| **Jawrab (pl. Jawrabayn)** | Chaussettes en coton, laine, nylon ou matériaux similaires |
-
-### Légitimité de l'Essuyage
-
-L'essuyage sur les khuffs est établi par de nombreux hadiths authentiques (Mutawatir). L'Imam Ahmad a dit : « Je n'ai aucun doute concernant l'essuyage sur les khuffs ; il y a quarante hadiths du Messager d'Allah ﷺ à ce sujet. »
-
-Al-Mughirah ibn Shu'bah (qu'Allah l'agrée) a rapporté : **« J'étais avec le Prophète ﷺ en voyage, et je me suis baissé pour enlever ses khuffs, mais il a dit : 'Laisse-les, car je les ai mis en état de pureté.' Puis il a essuyé dessus. »** (Unanimement reconnu).
-
-### Conditions pour Essuyer sur les Khuffs et Chaussettes
-
-1. **Les porter en état de pureté complète :** Après avoir fait le Wudu ou le Ghusl.
-   - Preuve : La parole du Prophète : « Car je les ai mis en état de pureté. »
-
-2. **Ils doivent couvrir les pieds y compris les chevilles.**
-
-3. **Ils doivent être purs (Tahir) :** On ne peut pas essuyer sur des chaussures impures.
-
-4. **L'essuyage doit être dans la période prescrite :**
-
-| Statut | Durée |
-| :--- | :--- |
-| **Résident** | Un jour et une nuit (24 heures) |
-| **Voyageur** | Trois jours et nuits (72 heures) |
-
-> **Début de la période :** À partir du premier essuyage après avoir rompu le Wudu, selon l'avis le plus fort.
-
-### Comment Essuyer
-
-1. **Mouiller les mains avec de l'eau.**
-2. **Essuyer le dessus de la chaussette/khuff** des orteils vers le tibia.
-3. **Essuyer une seule fois** (la répétition n'est pas recommandée).
-4. **Essuyer la droite avec la main droite et la gauche avec la main gauche** (ou les deux ensemble).
-
-> ⚠️ **Note :** L'essuyage se fait sur le **dessus de la chaussure**, pas sur le dessous.
-
-Ali ibn Abi Talib (qu'Allah l'agrée) a dit : **« Si la religion était basée sur l'opinion, essuyer le dessous du khuff serait plus logique qu'essuyer le dessus. Mais j'ai vu le Messager d'Allah ﷺ essuyer le dessus de ses khuffs. »** (Rapporté par Abu Dawud avec une chaîne authentique).
-
-### Ce qui Invalide l'Essuyage
-
-L'essuyage devient invalide et le lavage des pieds devient obligatoire dans ces cas :
-
-1. **Expiration de la période :** Si la période se termine alors qu'on est en état de pureté, il suffit d'enlever les chaussettes et de laver les pieds (pas besoin de refaire tout le Wudu).
-
-2. **Enlever les chaussettes/khuffs :** Si on les enlève après avoir essuyé dessus.
-   - **Avis le plus fort :** La pureté est invalidée et le lavage des pieds est requis.
-
-3. **Survenue d'une impureté majeure :** Comme la Janabah ou les menstrues.
-
-### Questions Importantes
-
-| Question | Réponse |
-| :--- | :--- |
-| Peut-on essuyer sur des chaussettes trouées ? | ✅ Oui, selon l'avis le plus fort, tant qu'elles sont encore appelées chaussettes |
-| Peut-on essuyer sur des chaussettes transparentes ? | ✅ Oui, selon l'avis le plus fort |
-| Peut-on porter une chaussette sur une autre et essuyer la supérieure ? | ✅ Oui, si la seconde a été mise en état de pureté |
-| Et si on porte un khuff sur un autre ? | On essuie sur celui du dessus s'il a été mis en état de pureté |
-| Peut-on essuyer sur les chaussures ? | ✅ Oui, si elles couvrent les chevilles |
-
-### L'Essuyage sur les Attelles et Bandages (Jabirah)
-
-**Jabirah :** Ce qui est placé sur une fracture ou une blessure, comme un plâtre ou un bandage.
-
-**Règle :** Il est permis d'essuyer dessus, et tout le bandage doit être essuyé (pas seulement le dessus).
-
-**Différence entre Khuff et Jabirah :**
-
-| Khuff | Jabirah |
-| :--- | :--- |
-| Doit être mis en état de pureté | Non requis |
-| A une limite de temps | Pas de limite (jusqu'au retrait) |
-| Seul le dessus est essuyé | Tout le bandage est essuyé |
-| Spécifique aux pieds | Peut être sur n'importe quel membre |
+> عَنْ **عَلِيِّ بْنِ أَبِي طَالِبٍ** رَضِيَ اللهُ عَنْهُ قَالَ:
+> **« لَوْ كَانَ الدِّينُ بِالرَّأْيِ لَكَانَ أَسْفَلُ الخُفِّ أَوْلَى بِالمَسْحِ مِنْ أَعْلَاهُ، وَقَدْ رَأَيْتُ رَسُولَ اللهِ ﷺ يَمْسَحُ عَلَى ظَاهِرِ خُفَّيْهِ »**
+> *« Si la religion était basée sur l'opinion, essuyer le dessous du khuff serait plus logique qu'essuyer le dessus. Mais j'ai vu le Messager d'Allah ﷺ essuyer le dessus de ses khuffs. »*
+> — Abu Dawud (162), chaîne authentique
 
 ---
 
-*Le Prophète ﷺ a dit : « Celui qui fait le Wudu comme ce Wudu qui est le mien, puis prie deux Rak'ahs sans y laisser errer ses pensées, ses péchés passés lui seront pardonnés. » (Rapporté par Al-Bukhari et Muslim).*
+## ⚖️ Points de vue des Écoles (آراء المذاهب)
+
+| Aspect | 🟡 Malikite | 🟢 Hanafite | 🔵 Shafiite | 🟣 Hanbalite |
+|--------|-------------|-------------|-------------|--------------|
+| **Nombre de Fara'id** | **7** (avec dalk et muwalah) | 4 (sans intention obligatoire) | 6 (avec tartib) | 6 (avec tartib) |
+| **L'Intention** | **Obligatoire** | Sunnah mu'akkadah | Obligatoire | Obligatoire |
+| **Le Frottement (Dalk)** | **Obligatoire** | Sunnah | Sunnah | Sunnah |
+| **L'Ordre (Tartib)** | **Sunnah** (pas obligatoire) | Sunnah | Obligatoire | Obligatoire |
+| **La Continuité (Muwalah)** | **Obligatoire** | Sunnah | Sunnah | Obligatoire |
+| **Essuyer toute la tête** | **Obligatoire** | 1/4 suffit | 1 cheveu suffit | Obligatoire |
+| **Bouche et nez** | **Sunnah** | Obligatoires | Sunnah | Obligatoires |
+
+### 📌 Références des Madhahib
+
+| Madhab | Position sur le Dalk | Référence |
+|--------|---------------------|-----------|
+| 🟡 **Malikite** | **Obligatoire** — sans lui le wudu est invalide | *Al-Mudawwana*, Imam Malik |
+| 🟢 **Hanafite** | Sunnah — le lavage suffit | *Bada'i As-Sana'i*, Al-Kasani |
+| 🔵 **Shafiite** | Sunnah — recommandé mais non obligatoire | *Al-Majmu'*, An-Nawawi |
+| 🟣 **Hanbalite** | Sunnah — le lavage seul suffit | *Al-Mughni*, Ibn Qudama |
 
 ---
 
-## 🗺️ Carte Mentale : Résumé du Wudu
+## 🌍 Applications Modernes (التطبيقات المعاصرة)
 
-| 🎯 Concept Principal | 📋 Éléments | 📝 Détails |
-|:---|:---|:---|
-| **✅ CONDITIONS DE VALIDITÉ** | Islam | Non valide pour mécréant |
-| | Raison | Non valide pour fou |
-| | Discernement | Âge ~7 ans |
-| | Intention | Dans le cœur |
-| | Eau pure | Tahur (pure & purifiante) |
-| | Enlever barrières | Vernis, peinture, etc. |
-| **🔷 ACTES OBLIGATOIRES (FARAID)** | 1️⃣ | Laver le visage |
-| | 2️⃣ | Laver mains jusqu'aux coudes |
-| | 3️⃣ | Essuyer la tête |
-| | 4️⃣ | Laver pieds jusqu'aux chevilles |
-| | 5️⃣ | Ordre (Tartib) |
-| | 6️⃣ | Continuité (Muwalah) |
-| **🌟 ACTES RECOMMANDÉS (SUNAN)** | 📿 Bismillah | Au début |
-| | 🪥 Siwak | Avant rincer bouche |
-| | 3️⃣ | Laver mains 3 fois |
-| | 💨 Mubalaghah | Rincer abondamment (sauf jeûne) |
-| | ✋ Droite d'abord | Commencer par côté droit |
-| | 🔁 3 fois | Chaque membre (sauf tête) |
-| **❌ ANNULATIFS** | 🚽 | Ce qui sort des 2 voies |
-| | 😴 | Sommeil profond |
-| | 🤕 | Perte de conscience |
-| | ✋ | Toucher parties intimes |
-| | 🐪 | Manger viande de chameau |
-| **🧦 ESSUYAGE SUR CHAUSSETTES** | ⏱️ Résident | 24 heures |
-| | 🧳 Voyageur | 72 heures |
-| | ✅ Condition | Portées en état de pureté |
-| | 📍 Méthode | Essuyer dessus seulement |`;
+| Situation Moderne | Problème | Solution Jurisprudentielle |
+|-------------------|----------|---------------------------|
+| **Vernis à ongles** | Crée une barrière empêchant l'eau | ❌ Doit être enlevé avant le wudu |
+| **Maquillage waterproof** | Peut empêcher l'eau d'atteindre la peau | ❌ Doit être enlevé pour le wudu |
+| **Prothèses dentaires** | Faut-il les enlever pour le wudu ? | ✅ Non, elles font partie du corps |
+| **Lentilles de contact** | Affectent-elles le wudu ? | ✅ Aucun effet, elles ne créent pas de barrière |
+| **Tatouage/Henné** | Empêchent-ils le wudu ? | ✅ Non, car ils ne forment pas de couche |
+| **Pansement/Plâtre** | Comment faire le wudu ? | ✅ Essuyer dessus (al-jabirah) |
+| **Robinet à capteur** | L'eau qui coule par capteur | ✅ Valide, l'intention compte |
+| **Économie d'eau** | Peut-on limiter l'eau ? | ✅ Oui, le gaspillage est interdit même au bord d'une rivière |
+
+---
+
+## ⚠️ Erreurs Courantes (الأخطاء الشائعة)
+
+| Erreur | ❌ Ce que les gens font | ✅ Ce qu'il faut faire |
+|--------|------------------------|------------------------|
+| **Oublier l'intention** | Commencer machinalement | Formuler l'intention dans le cœur avant de commencer |
+| **Négliger les coudes/chevilles** | Laver juste avant | Les coudes et chevilles font partie des membres à laver |
+| **Essuyer partiellement la tête** | Essuyer seulement le dessus | Essuyer toute la tête (obligatoire chez les Malikites) |
+| **Oublier les oreilles** | Les ignorer complètement | Essuyer l'intérieur et l'extérieur (font partie de la tête) |
+| **Gaspiller l'eau** | Laisser couler abondamment | Le Prophète ﷺ faisait le wudu avec un mudd (~700ml) |
+| **Ne pas frotter (dalk)** | Laisser l'eau couler sans frotter | Frotter les membres (obligatoire chez les Malikites) |
+| **Longues pauses** | S'arrêter longuement entre les membres | Maintenir la continuité (muwalah) |
+| **Parler pendant le wudu** | Conversations non nécessaires | Garder le silence et se concentrer sur l'adoration |
+
+---
+
+## ❓ FAQ (الأسئلة الشائعة)
+
+**Q1 : Doit-on obligatoirement prononcer "Bismillah" au début du wudu ?**
+> 🟡 Selon les Malikites : C'est une sunnah mu'akkadah, pas une obligation. Le wudu reste valide sans elle, mais on perd la récompense de cette sunnah.
+> 🟣 Les Hanbalites considèrent que c'est obligatoire si on s'en souvient.
+
+**Q2 : Combien d'eau faut-il utiliser pour le wudu ?**
+> Le Prophète ﷺ faisait ses ablutions avec un **mudd** (environ 700 ml). Il est interdit de gaspiller l'eau même au bord d'une rivière, comme rapporté dans le hadith.
+
+**Q3 : Les chaussettes fines ou trouées permettent-elles l'essuyage ?**
+> ✅ Selon l'avis le plus fort (Ibn Taymiyyah et autres), oui, tant qu'elles sont encore appelées « chaussettes ». La condition d'épaisseur n'est pas établie par un texte authentique.
+
+**Q4 : Le doute sur la validité du wudu l'annule-t-il ?**
+> Non. La règle est : **« La certitude n'est pas levée par le doute. »** Si vous êtes certain d'avoir fait le wudu et doutez de l'avoir annulé, vous êtes toujours en état de pureté.
+
+**Q5 : Toucher une femme annule-t-il le wudu ?**
+> 🟡 **Malikite** : Annule si avec désir ou plaisir
+> 🟢 **Hanafite** : N'annule jamais
+> 🔵 **Shafiite** : Annule dans tous les cas
+> 🟣 **Hanbalite** : Annule si avec désir
+
+**Q6 : Peut-on faire le wudu avec de l'eau de mer ?**
+> ✅ Oui, le Prophète ﷺ a dit : **« هُوَ الطَّهُورُ مَاؤُهُ، الحِلُّ مَيْتَتُهُ »** — *« Son eau est pure et purifiante, et ses animaux morts sont licites. »* (At-Tirmidhi)
+
+---
+
+## 🎯 Action Concrète
+
+**Cette semaine, perfectionnez vos ablutions :**
+
+1. **Mémorisez la description** — Relisez les étapes du wudu prophétique et appliquez-les
+2. **Surveillez le gaspillage** — Essayez de faire vos ablutions avec le moins d'eau possible tout en lavant correctement
+3. **N'oubliez pas le dalk** — Frottez chaque membre avec vos mains pendant le lavage
+4. **Priez 2 rak'ahs après** — Appliquez le hadith promettant le pardon des péchés
+
+> 💡 **Conseil** : Placez un petit rappel près du robinet avec les étapes du wudu pour les mémoriser naturellement.
+
+**Checklist du Wudu Parfait :**
+- [ ] Intention formulée dans le cœur
+- [ ] Bismillah prononcé
+- [ ] Mains lavées 3 fois
+- [ ] Bouche et nez rincés
+- [ ] Visage lavé avec frottement
+- [ ] Bras jusqu'aux coudes (inclus)
+- [ ] Tête essuyée entièrement
+- [ ] Oreilles essuyées
+- [ ] Pieds jusqu'aux chevilles (incluses)
+- [ ] Shahada et invocation
+
+---
+
+## 📝 Invocation de Clôture
+
+<div dir="rtl">
+
+**أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللهُ وَحْدَهُ لَا شَرِيكَ لَهُ، وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ، اللَّهُمَّ اجْعَلْنِي مِنَ التَّوَّابِينَ وَاجْعَلْنِي مِنَ المُتَطَهِّرِينَ**
+
+</div>
+
+> *« J'atteste qu'il n'y a de divinité qu'Allah, Seul, sans associé, et j'atteste que Muhammad est Son serviteur et Son messager. Ô Allah, fais de moi un de ceux qui se repentent et fais de moi un de ceux qui se purifient. »*
+
+---
+
+## 📚 Sources et Références
+
+1. **Al-Muwatta'** — Imam Malik ibn Anas
+2. **Al-Mudawwana Al-Kubra** — Sahnun, d'après Ibn Al-Qasim
+3. **Bidayat Al-Mujtahid** — Ibn Rushd Al-Hafid
+4. **Al-Qawanin Al-Fiqhiyyah** — Ibn Juzayy Al-Kalbi
+5. **Al-Majmu' Sharh Al-Muhadhdhab** — An-Nawawi
+6. **Al-Mughni** — Ibn Qudama Al-Maqdisi
+7. **Sahih Al-Bukhari** — Imam Al-Bukhari
+8. **Sahih Muslim** — Imam Muslim
+
+---
+
+**والله أعلم** — وَاللهُ تَعَالَى أَعْلَى وَأَعْلَم
+
+*Qu'Allah nous accorde la pureté du corps et du cœur, et nous facilite l'accomplissement de notre prière dans les meilleures conditions.*
+`;

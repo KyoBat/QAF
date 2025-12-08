@@ -255,23 +255,34 @@ The scholars of Medina after him followed his methodology—notably Imam Mālik.
 
 ---
 
-## 💎 The Lessons
+## 💎 Key Lessons
 
-### 1. Knowledge Must Be Sought
+### 1. Knowledge Must Be Actively Sought
 
-Ibn 'Abbās didn't wait for knowledge to come to him. He **sought it**.
+Ibn 'Abbās **didn't wait** for knowledge to come to him. He slept on the doorsteps of the Companions' homes.
 
-### 2. The Sunnah in Details
+"I humbled myself as a student, and I was elevated as a scholar."
 
-Ibn 'Umar shows us that following the Prophet ﷺ extends to **small things**.
+**Do we seek knowledge with this passion?**
 
-### 3. Youth Is Not an Obstacle
+### 2. The Sunnah Even in Details
 
-Both were **children** during the Prophet's ﷺ time. They became **oceans**.
+Ibn 'Umar would stop where the Prophet ﷺ stopped. Walk where he walked. Rest where he rested.
+
+Following the Prophet ﷺ is not just about major matters — **it's in the details too**.
+
+### 3. Youth Is No Excuse
+
+Both were **children** during the Prophet's ﷺ time. They became **oceans** of knowledge.
+
+Don't say: "I'm still young." **Start now.**
 
 ### 4. Different Paths, Same Destination
 
-Ibn 'Abbās and Ibn 'Umar had different approaches—but both sought **the truth**.
+Ibn 'Abbās: interpretation and ijtihād.
+Ibn 'Umar: literal imitation.
+
+Two different methods, but both seeking **the same truth**.
 
 ---
 

@@ -322,23 +322,35 @@ Khālid died in Homs in 21 AH—**in his bed**.
 
 ---
 
-## 💎 Lessons from His Life
+## 💎 Key Lessons
 
-### 1. Sincere Conversion Erases Everything
+### 1. Repentance Erases Everything
 
-Khālid had killed Muslims at Uhud. Islam erased all of that.
+Khālid **killed Muslims** at Uhud. Yet when he embraced Islam, everything was erased.
 
-### 2. Genius is an Amāna
+Don't say: "It's too late." **The door of repentance is open as long as the soul hasn't reached the throat.**
 
-His military talent was a **trust** (amāna) from Allah, which he used for Islam.
+### 2. Talent Is an Amāna
+
+His military genius was a **gift from Allah**. He used it to spread Islam.
+
+Your talent — whatever it is — is an **amāna**. What are you using it for?
 
 ### 3. Obedience Above Ego
 
-When 'Umar dismissed him, Khālid could have rebelled. He obeyed.
+When 'Umar dismissed him, Khālid had a **loyal army** at his command.
 
-### 4. Death is in Allah's Hands
+But he **obeyed** the Caliph without hesitation. Obedience is greater than victory.
 
-The Sword of Allah did not die on the battlefield. Allah decides.
+### 4. Death Is in Allah's Hands Alone
+
+"The Sword of Allah" didn't die on the battlefield. He died in his bed.
+
+On his deathbed, he said:
+
+> "There isn't a span on my body without a wound from a spear or sword... And here I am dying in my bed like cattle die. May the eyes of cowards never sleep!"
+
+**Allah decides. Not the sword or the spear.**
 
 ---
 

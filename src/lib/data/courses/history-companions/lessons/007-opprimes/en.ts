@@ -224,21 +224,37 @@ The prophecy was fulfilled.
 
 ## 💎 Key Lessons
 
-### 1. The Strength of the Weak
+### 1. Apparent Weakness Hides Real Strength
 
-Slaves and foreigners were considered the weakest—yet their faith was **the strongest**.
+Slaves and foreigners were considered **the weakest** in Quraysh's eyes.
 
-### 2. Wealth is a Test
+But their faith was **the strongest**. Bilāl under the rocks: "Aḥad, aḥad." He didn't break.
 
-Ṣuhayb left **everything** for Islam. What do we leave behind?
+The lesson: **don't judge anyone by their appearance.**
 
-### 3. Duress is Forgiven
+### 2. Wealth Is a Test
 
-'Ammār shows that under torture, speaking words under compulsion is **forgiven** if the heart remains firm.
+Ṣuhayb gave up **all his fortune** to Quraysh in exchange for his departure.
+
+The Prophet ﷺ said: **"The trade was profitable!"**
+
+Question for us: what do we give up for our religion? **Or nothing at all?**
+
+### 3. Duress Is Excused
+
+'Ammār insulted Islam under torture. He came to the Prophet ﷺ weeping.
+
+The Prophet: **"How do you find your heart?"** He said: "At peace in faith."
+
+Allah revealed: **"Except for one who is compelled while his heart is at peace in faith."**
 
 ### 4. Paradise for the Persecuted
 
-The Prophet ﷺ could not save the family of Yāsir from torture—but he promised them **Paradise**.
+The Prophet ﷺ could not save Yāsir's family from torture.
+
+But he promised them: **"Patience, family of Yāsir! Your appointment is Paradise."**
+
+Suffering has an end. **Paradise has no end.**
 
 ---
 

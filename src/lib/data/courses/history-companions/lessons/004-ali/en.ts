@@ -252,27 +252,45 @@ This nickname became a **title of honor** that 'Alī loved.
 
 ---
 
-## 💎 Lessons to Learn
+## 💎 Key Lessons
 
-### 1. Sacrifice for the Truth
+### 1. Sacrifice Without Hesitation
 
-Sleeping in the Prophet's ﷺ bed surrounded by assassins — this is the price 'Alī was willing to pay.
+On the night of the Hijra, he slept in the Prophet's ﷺ bed surrounded by **40 assassins** who wanted his head.
 
-### 2. Knowledge and Strength
+He didn't ask: "What's in it for me?" but: **"What does Islam need?"**
 
-'Alī combined the **power of the lion** and the **wisdom of the scholar**. Islam values both.
+Would we sacrifice at this level? Or do we calculate everything?
 
-### 3. Simplicity Despite Rank
+### 2. Strength and Wisdom: A Rare Balance
 
-Son-in-law of the Prophet ﷺ, father of his descendants, caliph — and yet he lived with a sheepskin as a bed.
+"Lion of Allah" on the battlefield. "Gate to the city of knowledge" in jurisprudence.
 
-### 4. Justice Even Toward Enemies
+'Alī proves that **strength without knowledge is dangerous**, and knowledge without courage is helpless.
 
-He ordered good treatment for his assassin. Justice has no exception.
+The complete Muslim unites both.
 
-### 5. Eloquence in Service of Truth
+### 3. Simplicity Despite Greatness
 
-His sermons (Nahj al-Balāgha) remain peaks of the Arabic language and Islamic wisdom.
+Son-in-law of the Prophet ﷺ. Father of the prophetic lineage. Caliph of the Muslims.
+
+And yet: his bed was a sheepskin, his food was bread and salt.
+
+**True greatness needs no display.**
+
+### 4. Justice Even Toward the Assassin
+
+When Ibn Muljam struck him, he said:
+
+> "If I live, I decide his fate. If I die, do not mutilate him."
+
+Justice even toward **his killer**. Are we just toward those who harm us?
+
+### 5. Words That Cross Centuries
+
+*Nahj al-Balāgha* — his sermons are studied 14 centuries later.
+
+**True words survive. False words die.**
 
 ---
 
