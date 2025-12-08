@@ -84,14 +84,23 @@ Il donna une fois **400 000 dirhams** en un seul jour aux pauvres.
 
 Al-Zubayr fut le **premier** à dégainer son épée pour l'Islam.
 
-Un jour, une fausse rumeur circula que le Prophète ﷺ avait été tué. Al-Zubayr, adolescent, courut avec son épée pour le venger.
+<div class="scene-box">
 
-Le Prophète ﷺ le rencontra et sourit :
+**⚔️ LE JEUNE CHEVALIER**
 
-> « Que voulais-tu faire ? »
-> « Tuer celui qui t'a tué ! »
+*Une fausse rumeur circule que le Prophète ﷺ a été tué...*
 
-Le Prophète ﷺ pria pour lui et son épée.
+*Al-Zubayr, adolescent, dégaine son épée et court dans les rues de La Mecque pour venger le Messager d'Allah.*
+
+*Le Prophète ﷺ le rencontre sur son chemin et sourit :*
+
+**🟢 Le Prophète ﷺ :** « Que voulais-tu faire ? »
+
+**🔵 Al-Zubayr :** « Tuer celui qui t'a tué ! »
+
+*Ému par sa loyauté, le Prophète ﷺ pria pour lui et son épée.*
+
+</div>
 
 ### À Chaque Bataille
 
@@ -113,14 +122,20 @@ Al-Zubayr portait toujours un **turban jaune** distinctif au combat. Les ennemis
 
 Quand il émigra à Médine, il arriva **sans rien**. Le Prophète ﷺ l'associa à Sa'd ibn al-Rabī', un Anṣārī riche.
 
-Sa'd proposa :
+<div class="scene-box">
 
-> « Je te donne la moitié de mes biens et l'une de mes épouses. »
+**💰 LA FRATERNITÉ MÉDINOISE**
 
-'Abd al-Raḥmān répondit :
+*Sa'd ibn al-Rabī', riche Anṣārī, rencontre 'Abd al-Raḥmān, l'émigrant qui a tout perdu...*
 
-> **« بَارَكَ اللهُ لَكَ فِي أَهْلِكَ وَمَالِكَ، دُلَّنِي عَلَى السُّوقِ »**
-> "Qu'Allah bénisse ta famille et tes biens. Indique-moi le marché."
+**🟢 Sa'd ibn al-Rabī' :** « Je te donne la moitié de mes biens et l'une de mes épouses. »
+
+*'Abd al-Raḥmān, touché par cette générosité mais déterminé à compter sur lui-même, répond :*
+
+**🔵 'Abd al-Raḥmān :** **« بَارَكَ اللهُ لَكَ فِي أَهْلِكَ وَمَالِكَ، دُلَّنِي عَلَى السُّوقِ »**
+*« Qu'Allah bénisse ta famille et tes biens. Indique-moi le marché. »*
+
+</div>
 
 En peu de temps, il rebâtit sa fortune par son travail.
 
