@@ -107,12 +107,41 @@ export function LessonContent({ lesson, courseSlug, className }: LessonContentPr
   // Get MindMap data for this lesson with current locale and course context
   const mindMapData = getMindMapForLesson(lesson.id, locale, courseSlug)
   
-  // Title for mind map based on locale
-  const mindMapTitle = locale === 'ar' 
-    ? 'شجرة الأسانيد' 
-    : locale === 'en' 
-      ? 'Chain of Transmission' 
-      : 'Arbre de Transmission'
+  // Dynamic title for mind map based on course type
+  const getMindMapTitle = () => {
+    // History of Imams course - Chain of Transmission
+    if (courseSlug === 'history') {
+      return locale === 'ar' 
+        ? 'شجرة الأسانيد' 
+        : locale === 'en' 
+          ? 'Chain of Transmission' 
+          : 'Arbre de Transmission'
+    }
+    // Fiqh course - Mind Map
+    if (courseSlug === 'fiqh') {
+      return locale === 'ar' 
+        ? 'الخريطة الذهنية' 
+        : locale === 'en' 
+          ? 'Mind Map' 
+          : 'Carte Mentale'
+    }
+    // Aqeedah course
+    if (courseSlug === 'aqeedah' || courseSlug === 'aqeedah-2') {
+      return locale === 'ar' 
+        ? 'الخريطة الذهنية' 
+        : locale === 'en' 
+          ? 'Mind Map' 
+          : 'Carte Mentale'
+    }
+    // Default - Mind Map
+    return locale === 'ar' 
+      ? 'الخريطة الذهنية' 
+      : locale === 'en' 
+        ? 'Mind Map' 
+        : 'Carte Mentale'
+  }
+  
+  const mindMapTitle = getMindMapTitle()
 
   // Title for generational chain based on locale
   const _chainTitle = locale === 'ar' 
