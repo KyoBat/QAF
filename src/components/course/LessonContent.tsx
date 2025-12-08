@@ -115,7 +115,7 @@ export function LessonContent({ lesson, courseSlug, className }: LessonContentPr
       : 'Arbre de Transmission'
 
   // Title for generational chain based on locale
-  const chainTitle = locale === 'ar' 
+  const _chainTitle = locale === 'ar' 
     ? 'التسلسل الجيلي للأئمة' 
     : locale === 'en' 
       ? 'Generational Chain of Imams' 

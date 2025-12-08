@@ -32,7 +32,7 @@ const levelColors = [
   '#ea580c', // Niveau 5 - Orange
 ];
 
-function TreeNode({ node, level, isLast, isRTL, expandedNodes, onToggle }: TreeNodeProps) {
+function TreeNode({ node, level, isLast: _isLast, isRTL, expandedNodes, onToggle }: TreeNodeProps) {
   const hasChildren = node.children && node.children.length > 0;
   const isExpanded = expandedNodes.has(node.id);
   const nodeColor = node.color || levelColors[level % levelColors.length];
