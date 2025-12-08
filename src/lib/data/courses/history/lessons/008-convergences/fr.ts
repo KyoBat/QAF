@@ -18,7 +18,7 @@ On parle souvent des **différences** entre les quatre écoles. Mais on oublie l
 
 **Les quatre imams s'accordent sur 90% des questions de fiqh.**
 
-Ce cours explore ces **points d'accord** — les fondements communs qui unissent les musulmans par-delà les divergences.
+Ce cours explore ces **points d'accord** — les fondements communs qui unissent les musulmans par-delà les différences de points de vue.
 
 ---
 
@@ -65,7 +65,7 @@ Tous les imams s'accordent sur les **piliers essentiels** :
 6. **Al-Julūs al-Akhīr** — L'assise finale
 7. **Al-Taslīm** — Le salut final
 
-> Les divergences portent sur les **modalités** (comment faire), pas sur les **piliers** eux-mêmes.
+> Les différences de points de vue portent sur les **modalités** (comment faire), pas sur les **piliers** eux-mêmes.
 
 ---
 
@@ -294,7 +294,7 @@ Ces accords correspondent à la **fiṭra** (nature saine) et à la raison humai
 
 ### Le Message
 
-Les divergences entre écoles portent sur des **détails** :
+Les différences de points de vue entre écoles portent sur des **détails** :
 - Comment lever les mains dans la prière
 - Où placer les mains après
 - Les formules du tashahhud
@@ -303,7 +303,7 @@ Mais sur l'**essentiel** — les obligations, les interdictions majeures, les pi
 
 ### Une Citation Célèbre
 
-> «L'accord des imams est miséricorde, leur divergence est richesse.»
+> «L'accord des imams est miséricorde, leurs différences de points de vue sont richesse.»
 > — Sagesse populaire
 
 ---
@@ -322,7 +322,7 @@ Mais sur l'**essentiel** — les obligations, les interdictions majeures, les pi
 | Interdiction du Ribā | 100% |
 | Fondements de l'Aqīda | 100% |
 
-**Les divergences ne concernent que 5-10% des questions de fiqh — les détails, pas les principes.**
+**Les différences de points de vue ne concernent que 5-10% des questions de fiqh — les détails, pas les principes.**
 
 ---
 

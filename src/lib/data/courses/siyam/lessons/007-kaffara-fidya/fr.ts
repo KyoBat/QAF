@@ -137,7 +137,7 @@ La **fidya** est une compensation alimentaire due par celui qui ne peut pas jeû
 
 ---
 
-## ⚖️ Divergences entre Écoles
+## ⚖️ Points de vue des Écoles
 
 ### La Kaffara pour manger/boire
 

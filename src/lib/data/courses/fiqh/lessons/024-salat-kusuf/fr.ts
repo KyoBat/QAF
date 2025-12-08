@@ -154,7 +154,7 @@ Louange à Allah qui nous montre Ses signes dans les cieux et sur terre. Que la 
 
 ## 6. Éclipse Solaire vs Lunaire
 
-### ⚠️ Divergences sur l'éclipse lunaire
+### ⚠️ Points de vue sur l'éclipse lunaire
 
 | École | Éclipse lunaire |
 |-------|-----------------|

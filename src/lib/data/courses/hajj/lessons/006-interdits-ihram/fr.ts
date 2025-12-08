@@ -167,7 +167,7 @@ C'est **l'interdit le plus grave** car il peut annuler le Hajj.
 
 ---
 
-## ⚖️ Divergences entre Écoles
+## ⚖️ Points de vue des Écoles
 
 | Interdit | 🟡 Malikite | 🟢 Hanafite | 🔵 Shafiite | 🟣 Hanbalite |
 |----------|-------------|-------------|-------------|--------------|

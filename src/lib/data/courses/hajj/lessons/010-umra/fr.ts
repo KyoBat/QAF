@@ -105,7 +105,7 @@ export const content = `# 📜 العُمْرَةُ — Al-'Umra : Le Petit Pèl
 
 ---
 
-## ⚖️ Divergences entre Écoles (الخلاف الفقهي)
+## ⚖️ Points de vue des Écoles (الخلاف الفقهي)
 
 ### 5.1 Statut de la 'Umra
 

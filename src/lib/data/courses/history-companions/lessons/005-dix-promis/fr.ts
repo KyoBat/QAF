@@ -254,27 +254,37 @@ Il mourut de la peste en 18 H.
 
 ---
 
-## 💎 Leçons à Tirer
+## 💎 Leçons à Retenir
 
-### 1. La Récompense du Premier Rang
+### 1. Le Prix du Premier Rang
 
-Ces dix furent parmi les **premiers** à croire — quand c'était le plus dangereux.
+Ces dix crurent **quand croire était dangereux**. Ils n'attendirent pas que l'Islam devienne facile.
 
-### 2. Le Sacrifice Concret
+La question : sommes-nous dans les premiers rangs de notre époque ? **Ou attendons-nous la majorité ?**
 
-Ils ne se contentèrent pas de croire — ils **agirent** : émigration, combat, don de richesses.
+### 2. La Foi Exige l'Action
 
-### 3. Des Personnalités Diverses
+Ils ne se contentèrent pas de dire « Je crois » — ils émigrèrent, combattirent, donnèrent leurs biens.
 
-Un commerçant, un guerrier, un savant, un archer... Allah choisit des profils **différents**.
+Le Paradis n'est pas pour les souhaits. **Le Paradis est pour les sacrifices.**
 
-### 4. L'Humilité Malgré la Promesse
+### 3. La Diversité Est Richesse
 
-Aucun d'eux ne se vanta de cette promesse. Ils continuèrent à craindre Allah et à faire le bien.
+Un commerçant, un guerrier, un savant, un archer...
+
+Allah choisit des profils **différents** pour le Paradis. Il n'y a pas un seul moule pour la piété. Sois toi-même — mais sois pour Allah.
+
+### 4. La Promesse N'Exempte Pas l'Effort
+
+Malgré la promesse du Paradis, aucun ne se reposa. Aucun ne se vanta.
+
+Ils continuèrent à **craindre Allah et à faire le bien** jusqu'à la mort.
 
 ### 5. Le Paradis Se Mérite
 
-Leur entrée au Paradis n'était pas arbitraire — elle était le fruit d'une vie de **foi et d'action**.
+Leur entrée au Paradis n'était pas un hasard, ni une faveur, ni de la chance.
+
+C'était le **fruit d'une vie entière** de foi, d'action et de sacrifice.
 
 ---
 

@@ -35,7 +35,7 @@ Before exploring differences, let's recall what **all imams agree upon**:
 | 👥 **Ijmā'** | Obligatory | Consensus of scholars on an issue |
 | 🔄 **Qiyās** | Accepted by all | Analogical reasoning |
 
-Divergences are **never** about these sources, but about:
+Differences in perspective are **never** about these sources, but about:
 - How to **prioritize** them in case of apparent conflict
 - How to **interpret** them
 - Which **secondary sources** to use
@@ -254,13 +254,13 @@ His students compiled these opinions, creating a school with **much internal fle
 
 ## 💡 The Wisdom of Differences
 
-These divergences aren't **flaws** but **riches**:
+These differences in perspective aren't **flaws** but **riches**:
 
 ### 1. Flexibility for the Umma
 Each context (time, place, situation) can find an adapted response.
 
 ### 2. Proof of Authenticity
-If the imams had all copied each other, we might doubt. Their **independent** divergences prove their intellectual honesty.
+If the imams had all copied each other, we might doubt. Their **independent** perspectives prove their intellectual honesty.
 
 ### 3. Depth of Fiqh
 Debates between schools have **deepened** understanding of the texts.

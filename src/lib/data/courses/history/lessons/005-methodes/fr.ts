@@ -37,7 +37,7 @@ Avant d'explorer les différences, rappelons ce sur quoi **tous les imams s'acco
 | 👥 **L'Ijmā'** | Obligatoire | Consensus des savants sur une question |
 | 🔄 **Le Qiyās** | Accepté par tous | Raisonnement analogique |
 
-Les divergences ne portent **jamais** sur ces sources, mais sur :
+Les différences de points de vue ne portent **jamais** sur ces sources, mais sur :
 - Comment les **hiérarchiser** en cas de conflit apparent
 - Comment les **interpréter**
 - Quelles **sources secondaires** utiliser
@@ -259,13 +259,13 @@ Ses élèves ont compilé ces avis, créant une école avec **beaucoup de flexib
 
 ## 💡 La Sagesse des Différences
 
-Ces divergences ne sont pas des **défauts** mais des **richesses** :
+Ces différences de points de vue ne sont pas des **défauts** mais des **richesses** :
 
 ### 1. Flexibilité pour la Umma
 Chaque contexte (temps, lieu, situation) peut trouver une réponse adaptée.
 
 ### 2. Preuve d'Authenticité
-Si les imams avaient tous copié les uns les autres, on pourrait douter. Leurs divergences **indépendantes** prouvent leur honnêteté intellectuelle.
+Si les imams avaient tous copié les uns les autres, on pourrait douter. Leurs différences de points de vue **indépendantes** prouvent leur honnêteté intellectuelle.
 
 ### 3. Profondeur du Fiqh
 Les débats entre écoles ont **approfondi** la compréhension des textes.

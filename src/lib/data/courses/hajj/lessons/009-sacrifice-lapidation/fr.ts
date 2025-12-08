@@ -143,7 +143,7 @@ export const content = `# 📜 الهَدْيُ وَالرَّمْيُ — Le Sa
 
 ---
 
-## ⚖️ Divergences entre Écoles (الخلاف الفقهي)
+## ⚖️ Points de vue des Écoles (الخلاف الفقهي)
 
 ### 5.1 Début du temps de lapidation le jour 10
 

@@ -41,7 +41,7 @@
 ## 📚 Explication Détaillée (الشرح المفصل)
 ### Sous-sections thématiques
 
-## ⚖️ Divergences entre Écoles (الخلاف الفقهي)
+## ⚖️ Points de vue des Écoles (آراء المذاهب)
 ### Tableau comparatif des 4 madhahib
 
 ## 🌍 Applications Modernes (التطبيقات المعاصرة)
@@ -157,7 +157,7 @@
 
 ---
 
-## ⚖️ Tableau des Divergences
+## ⚖️ Tableau des Points de vue
 
 ### Format Standard
 ```markdown
@@ -380,7 +380,7 @@ export const content = `# 📜 [العنوان بالتشكيل] — [Titre Fran
 - [ ] Minimum 4 citations de savants (priorité Malikites)
 - [ ] Analyse linguistique avec tableau de vocabulaire
 - [ ] Explication détaillée structurée
-- [ ] Tableau des divergences (4 madhahib avec 🟢🟡🔵🟣)
+- [ ] Tableau des points de vue (4 madhahib avec 🟢🟡🔵🟣)
 - [ ] Applications modernes pertinentes
 - [ ] Erreurs courantes à éviter
 - [ ] FAQ (minimum 4 questions)
@@ -420,7 +420,7 @@ export const content = `# 📜 [العنوان بالتشكيل] — [Titre Fran
 | Paroles savants | 🎓 | `## 🎓 Paroles des Savants` |
 | Analyse linguistique | 🔍 | `## 🔍 Analyse Linguistique` |
 | Explication détaillée | 📚 | `## 📚 Explication Détaillée` |
-| Divergences | ⚖️ | `## ⚖️ Divergences entre Écoles` |
+| Points de vue | ⚖️ | `## ⚖️ Points de vue des Écoles` |
 | Applications modernes | 🌍 | `## 🌍 Applications Modernes` |
 | Erreurs courantes | ⚠️ | `## ⚠️ Erreurs Courantes` |
 | FAQ | ❓ | `## ❓ FAQ` |
@@ -477,7 +477,7 @@ export const content = `# 📜 [العنوان بالتشكيل] — [Titre Fran
 - ❌ Sections manquantes de la structure
 - ❌ Numérotation des sections (`## 1.`, `## 2.`)
 - ❌ Emojis non standards
-- ❌ Divergences présentées sans preuves
+- ❌ Points de vue présentés sans preuves
 
 ### Ordre de Présentation des Madhahib
 

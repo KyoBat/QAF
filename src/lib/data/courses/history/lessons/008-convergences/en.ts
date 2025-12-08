@@ -18,7 +18,7 @@ We often talk about the **differences** between the four schools. But we forget 
 
 **The four imams agree on 90% of fiqh questions.**
 
-This lesson explores these **points of agreement** — the common foundations that unite Muslims beyond their divergences.
+This lesson explores these **points of agreement** — the common foundations that unite Muslims beyond their differences in perspective.
 
 ---
 
@@ -65,7 +65,7 @@ All imams agree on the **essential pillars**:
 6. **Al-Julūs al-Akhīr** — The final sitting
 7. **Al-Taslīm** — The final greeting
 
-> Divergences are about **modalities** (how to do it), not the **pillars** themselves.
+> Differences in perspective are about **modalities** (how to do it), not the **pillars** themselves.
 
 ---
 
@@ -294,7 +294,7 @@ These agreements correspond to the **fiṭra** (sound nature) and human reason.
 
 ### The Message
 
-The divergences between schools concern **details**:
+The differences in perspective between schools concern **details**:
 - How to raise hands in prayer
 - Where to place hands afterward
 - The formulas of tashahhud
@@ -303,7 +303,7 @@ But on the **essential** — obligations, major prohibitions, pillars — there 
 
 ### A Famous Quote
 
-> "The agreement of the imams is mercy, their divergence is richness."
+> "The agreement of the imams is mercy, their different perspectives are richness."
 > — Popular wisdom
 
 ---
@@ -322,7 +322,7 @@ But on the **essential** — obligations, major prohibitions, pillars — there 
 | Prohibition of Ribā | 100% |
 | Foundations of 'Aqīda | 100% |
 
-**Divergences concern only 5-10% of fiqh questions — details, not principles.**
+**Differences in perspective concern only 5-10% of fiqh questions — details, not principles.**
 
 ---
 

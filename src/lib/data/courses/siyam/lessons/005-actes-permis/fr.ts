@@ -167,7 +167,7 @@ export const content = `# 📜 مَا يُبَاحُ لِلصَّائِمِ — 
 
 ---
 
-## ⚖️ Divergences entre Écoles
+## ⚖️ Points de vue des Écoles
 
 ### Le Siwak après le Zawâl
 

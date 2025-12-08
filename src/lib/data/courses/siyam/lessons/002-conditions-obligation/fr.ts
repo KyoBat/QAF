@@ -148,7 +148,7 @@ Le voyageur a le choix entre jeûner ou rompre :
 
 ---
 
-## ⚖️ Divergences entre Écoles
+## ⚖️ Points de vue des Écoles
 
 ### L'habituation de l'enfant au jeûne
 

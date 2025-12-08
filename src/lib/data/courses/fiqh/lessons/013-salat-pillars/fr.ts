@@ -94,7 +94,7 @@ Divise les piliers en trois étapes pour que la séquence se fixe dans l'esprit.
 
 - **Les Malékites :** ajoutent des intentions et des questions dans les piliers pour renforcer l'humilité.
 - **Les Hanafites :** considèrent certains de ce que nous avons mentionné comme obligations et non piliers, il faut donc connaître ton école lors de la fatwa.
-- **La majorité :** est d'accord sur l'essentiel, les divergences sont souvent terminologiques.
+- **La majorité :** est d'accord sur l'essentiel, les différences sont souvent terminologiques.
 
 > La règle : *Celui qui omet un pilier intentionnellement, sa prière est invalide. Celui qui l'omet par oubli doit y revenir tant qu'il est dans la prière, puis fait la prosternation de l'oubli à la fin.*
 

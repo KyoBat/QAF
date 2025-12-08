@@ -178,7 +178,7 @@ Le Hajj ne peut être accompli qu'à une période précise :
 
 ---
 
-## ⚖️ Divergences entre les Écoles (مسائل الخلاف)
+## ⚖️ Points de vue des Écoles (مسائل الخلاف)
 
 ### 🔹 Quand cesse-t-on la Talbiya ?
 

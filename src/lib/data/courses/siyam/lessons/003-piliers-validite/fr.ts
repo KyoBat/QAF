@@ -124,7 +124,7 @@ L'**abstention** des choses qui rompent le jeûne depuis l'aube jusqu'au coucher
 
 ---
 
-## ⚖️ Divergences entre Écoles
+## ⚖️ Points de vue des Écoles
 
 ### Le renouvellement de l'intention pour Ramadan
 

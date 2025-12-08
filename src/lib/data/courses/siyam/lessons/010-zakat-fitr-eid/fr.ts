@@ -198,7 +198,7 @@ Le Takbir commence **au coucher du soleil** de la nuit de l'Aïd et se poursuit 
 
 ---
 
-## ⚖️ Divergences entre Écoles
+## ⚖️ Points de vue des Écoles
 
 ### Sur le Statut de la Prière de l'Aïd
 

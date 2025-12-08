@@ -1,26 +1,26 @@
 /**
- * Islamic History - Lesson 009: Points of Divergence
+ * Islamic History - Lesson 009: Perspectives
  * نقاط الاختلاف
  * 
  * Where and why the 4 schools differ
  */
 
-export const content = `# ⚖️ Points of Divergence — نِقَاطُ الاخْتِلَافِ
+export const content = `# ⚖️ Scholarly Perspectives — آراء المَذَاهِب
 
-> **"The divergence of my community is a mercy."**
+> **"The difference of opinion in my community is a mercy."**
 > — **Saying attributed** (authenticity debated, but the meaning is true)
 
 ---
 
 ## 🎬 Introduction
 
-After seeing the **agreements** (90% of fiqh), let's now explore the **divergences** — these 10% that make the richness of the Islamic legal heritage.
+After seeing the **agreements** (90% of fiqh), let's now explore the **different perspectives** — these 10% that make the richness of the Islamic legal heritage.
 
 These differences are not **errors** or **divisions**. They are **legitimate interpretations** of the same texts, by sincere scholars.
 
 ---
 
-## 📿 Divergences in Prayer
+## 📿 Perspectives on Prayer
 
 ### 1. Raising the Hands (Raf' al-Yadayn)
 
@@ -83,7 +83,7 @@ These differences are not **errors** or **divisions**. They are **legitimate int
 
 ---
 
-## 🚿 Divergences in Purification
+## 🚿 Perspectives on Purification
 
 ### 1. Does Touching a Woman Invalidate Wuḍū'?
 
@@ -120,7 +120,7 @@ These differences are not **errors** or **divisions**. They are **legitimate int
 
 ---
 
-## 🌙 Divergences in Fasting
+## 🌙 Perspectives on Fasting
 
 ### 1. Gargling / Rinsing the Nose
 
@@ -155,7 +155,7 @@ These differences are not **errors** or **divisions**. They are **legitimate int
 
 ---
 
-## 💰 Divergences in Zakāt
+## 💰 Perspectives on Zakāt
 
 ### 1. Zakāt on Women's Jewelry
 
@@ -179,7 +179,7 @@ These differences are not **errors** or **divisions**. They are **legitimate int
 
 ---
 
-## 🐄 Divergences on Animals
+## 🐄 Perspectives on Animals
 
 ### 1. Eating Horse Meat
 
@@ -203,7 +203,7 @@ These differences are not **errors** or **divisions**. They are **legitimate int
 
 ---
 
-## 👨‍👩‍👧 Divergences in Marriage
+## 👨‍👩‍👧 Perspectives on Marriage
 
 ### 1. Marriage Without Walī
 
@@ -227,7 +227,7 @@ These differences are not **errors** or **divisions**. They are **legitimate int
 
 ---
 
-## 📊 Why These Divergences?
+## 📊 Why These Different Perspectives?
 
 ### 1. Textual Ambiguity
 
@@ -261,7 +261,7 @@ Sometimes, **authentic** hadiths seem to contradict:
 
 ---
 
-## 💡 The Wisdom of Divergences
+## 💡 The Wisdom of Plurality
 
 ### 1. Flexibility for the Umma
 
@@ -269,7 +269,7 @@ Every context finds an adapted answer. What is difficult in one madhhab may be e
 
 ### 2. Proof of Honesty
 
-If the imams had copied each other, we would doubt their sincerity. Their **independent** divergences prove their integrity.
+If the imams had copied each other, we would doubt their sincerity. Their **independent** perspectives prove their integrity.
 
 ### 3. Intellectual Richness
 
@@ -295,7 +295,7 @@ The debates **deepened** understanding of the texts and developed analytical too
 
 ## 📝 Summary
 
-| Aspect | Typical Divergence |
+| Aspect | Typical Difference |
 |--------|-------------------|
 | **Prayer** | Raising hands, hand position, Fātiḥa |
 | **Purification** | Touching a woman, wiping over socks |
@@ -308,7 +308,7 @@ The debates **deepened** understanding of the texts and developed analytical too
 
 ## 🌟 Final Quote
 
-> "Whoever knows the divergences of the scholars has an expanded heart."
+> "Whoever knows the different perspectives of the scholars has an expanded heart."
 > — **Qatāda** (Tābi'ī)
 
 > "Our opinion is correct with the possibility of error. The opinion of others is wrong with the possibility of being correct."

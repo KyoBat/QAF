@@ -188,7 +188,7 @@ Le parcours entre les monts **Safa** et **Marwa**, en commémoration de **Hajar*
 
 ---
 
-## ⚖️ Divergences entre les Écoles (مسائل الخلاف)
+## ⚖️ Points de vue des Écoles (مسائل الخلاف)
 
 ### 🔹 Nombre de piliers
 

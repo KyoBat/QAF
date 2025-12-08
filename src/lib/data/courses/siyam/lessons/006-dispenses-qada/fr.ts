@@ -153,7 +153,7 @@ export const content = `# 📜 الرُّخَصُ وَالقَضَاءُ — Les
 
 ---
 
-## ⚖️ Divergences entre Écoles
+## ⚖️ Points de vue des Écoles
 
 ### Le meilleur choix pour le voyageur
 

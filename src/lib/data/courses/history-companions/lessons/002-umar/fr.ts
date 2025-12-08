@@ -288,27 +288,42 @@ Le Prophète ﷺ dit :
 
 ---
 
-## 💎 Leçons à Tirer
+## 💎 Leçons à Retenir
 
-### 1. La Transformation Est Possible
+### 1. Personne N'est Trop Loin de la Guidance
 
-L'homme qui voulait tuer le Prophète ﷺ devint son plus fervent défenseur. Personne n'est **trop loin** de la guidance.
+Imaginez : l'homme qui sortit pour **tuer** le Prophète ﷺ devint le **plus grand calife** de l'Islam.
 
-### 2. La Force au Service de la Vérité
+Quand vous voyez quelqu'un loin d'Allah, rappelez-vous 'Umar. **La guidance appartient à Allah seul.**
 
-'Umar ne perdit pas sa force en devenant musulman — il la **canalisa** pour la vérité.
+### 2. La Force a Besoin de Direction
 
-### 3. Le Pouvoir avec Humilité
+'Umar ne perdit pas sa force en devenant musulman — il la **canalisa dans la bonne direction**.
 
-Malgré son immense pouvoir, il **portait des vêtements rapiécés**, mangeait de l'orge, et patrouillait pour nourrir les pauvres.
+La force n'est pas un défaut. Le défaut, c'est de l'utiliser contre la vérité.
 
-### 4. La Justice Sans Exception
+### 3. Le Pouvoir N'est Pas le Confort
 
-Il appliquait les mêmes règles à **tous** — y compris ses propres enfants et gouverneurs.
+Calife sur la moitié du monde connu — et pourtant :
+- Il portait des **vêtements rapiécés**
+- Il mangeait du **pain d'orge et des dattes**
+- Il patrouillait **la nuit** pour nourrir les pauvres lui-même
 
-### 5. La Responsabilité Accablante
+**Le vrai pouvoir est une responsabilité, pas un privilège.**
 
-« Si une mule trébuche en Irak... » — le vrai leadership est un **fardeau**, pas un privilège.
+### 4. La Justice Ne Connaît Pas les Visages
+
+Il punit son propre fils pour avoir bu de l'alcool. Il destitua des gouverneurs qui opprimaient.
+
+« Si Fāṭima fille de Muḥammad volait, je lui couperais la main. »
+
+**La justice n'a pas d'exceptions.**
+
+### 5. Le Poids de la Charge
+
+« Si une mule trébuche en Irak, je crains qu'Allah me demande : Pourquoi n'as-tu pas réparé la route ? »
+
+Ressentons-nous ce poids face à nos responsabilités ?
 
 ---
 

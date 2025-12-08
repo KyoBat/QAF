@@ -1,26 +1,26 @@
 /**
- * Histoire Islamique - Leçon 009 : Points de Divergence
+ * Histoire Islamique - Leçon 009 : Points de vue
  * نقاط الاختلاف
  * 
  * Où et pourquoi les 4 écoles diffèrent
  */
 
-export const content = `# ⚖️ Points de Divergence — نِقَاطُ الاخْتِلَافِ
+export const content = `# ⚖️ Points de vue — آراء المَذَاهِب
 
-> **«La divergence de ma communauté est une miséricorde.»**
+> **«La différence d'avis de ma communauté est une miséricorde.»**
 > — **Parole attribuée** (authenticité débattue, mais le sens est vrai)
 
 ---
 
 ## 🎬 Introduction
 
-Après avoir vu les **accords** (90% du fiqh), explorons maintenant les **divergences** — ces 10% qui font la richesse du patrimoine juridique islamique.
+Après avoir vu les **accords** (90% du fiqh), explorons maintenant les **différences de points de vue** — ces 10% qui font la richesse du patrimoine juridique islamique.
 
 Ces différences ne sont pas des **erreurs** ni des **divisions**. Ce sont des **interprétations légitimes** des mêmes textes, par des savants sincères.
 
 ---
 
-## 📿 Divergences dans la Prière
+## 📿 Points de vue sur la Prière
 
 ### 1. Lever les Mains (Raf' al-Yadayn)
 
@@ -83,7 +83,7 @@ Ces différences ne sont pas des **erreurs** ni des **divisions**. Ce sont des *
 
 ---
 
-## 🚿 Divergences dans la Purification
+## 🚿 Points de vue sur la Purification
 
 ### 1. Le Toucher d'une Femme Annule-t-il le Wuḍū' ?
 
@@ -120,7 +120,7 @@ Ces différences ne sont pas des **erreurs** ni des **divisions**. Ce sont des *
 
 ---
 
-## 🌙 Divergences dans le Jeûne
+## 🌙 Points de vue sur le Jeûne
 
 ### 1. Se Gargariser / Se Rincer le Nez
 
@@ -155,7 +155,7 @@ Ces différences ne sont pas des **erreurs** ni des **divisions**. Ce sont des *
 
 ---
 
-## 💰 Divergences dans la Zakāt
+## 💰 Points de vue sur la Zakāt
 
 ### 1. Zakāt sur les Bijoux Féminins
 
@@ -179,7 +179,7 @@ Ces différences ne sont pas des **erreurs** ni des **divisions**. Ce sont des *
 
 ---
 
-## 🐄 Divergences sur les Animaux
+## 🐄 Points de vue sur les Animaux
 
 ### 1. Consommation du Cheval
 
@@ -203,7 +203,7 @@ Ces différences ne sont pas des **erreurs** ni des **divisions**. Ce sont des *
 
 ---
 
-## 👨‍👩‍👧 Divergences dans le Mariage
+## 👨‍👩‍👧 Points de vue sur le Mariage
 
 ### 1. Mariage Sans Walī
 
@@ -227,7 +227,7 @@ Ces différences ne sont pas des **erreurs** ni des **divisions**. Ce sont des *
 
 ---
 
-## 📊 Pourquoi Ces Divergences ?
+## 📊 Pourquoi Ces Différences de Points de vue ?
 
 ### 1. Ambiguïté Textuelle
 
@@ -261,7 +261,7 @@ Parfois, des hadiths **authentiques** semblent se contredire :
 
 ---
 
-## 💡 La Sagesse des Divergences
+## 💡 La Sagesse de la Pluralité
 
 ### 1. Flexibilité pour la Umma
 
@@ -269,7 +269,7 @@ Chaque contexte trouve une réponse adaptée. Ce qui est difficile dans un madhh
 
 ### 2. Preuve d'Honnêteté
 
-Si les imams s'étaient copiés, nous douterions de leur sincérité. Leurs divergences **indépendantes** prouvent leur intégrité.
+Si les imams s'étaient copiés, nous douterions de leur sincérité. Leurs différences de points de vue **indépendantes** prouvent leur intégrité.
 
 ### 3. Richesse Intellectuelle
 
@@ -295,7 +295,7 @@ Les débats ont **approfondi** la compréhension des textes et développé les o
 
 ## 📝 Résumé
 
-| Aspect | Divergence Typique |
+| Aspect | Différence Typique |
 |--------|-------------------|
 | **Prière** | Lever des mains, position des mains, Fātiḥa |
 | **Purification** | Toucher une femme, essuyer sur chaussettes |
@@ -308,7 +308,7 @@ Les débats ont **approfondi** la compréhension des textes et développé les o
 
 ## 🌟 Citation Finale
 
-> «Celui qui connaît les divergences des savants a le cœur élargi.»
+> «Celui qui connaît les différents points de vue des savants a le cœur élargi.»
 > — **Qatāda** (Tābi'ī)
 
 > «Notre avis est correct avec possibilité d'erreur. L'avis de l'autre est erroné avec possibilité d'être correct.»

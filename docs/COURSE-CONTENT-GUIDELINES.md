@@ -28,9 +28,9 @@ Ce document définit les standards de rédaction pour les contenus pédagogiques
 |---|--------|-------------|
 | 1 | **Authenticité (التوثيق)** | Chaque hadith et citation doit être sourcé avec son degré d'authenticité |
 | 2 | **Clarté (الوضوح)** | Langage accessible, structure logique, progression pédagogique |
-| 3 | **Complétude (الشمولية)** | Couvrir le sujet de manière exhaustive avec les divergences |
+| 3 | **Complétude (الشمولية)** | Couvrir le sujet de manière exhaustive avec les différents points de vue |
 | 4 | **Praticité (التطبيق)** | Exemples concrets, cas modernes, applications quotidiennes |
-| 5 | **Respect (الأدب)** | Mentionner les divergences sans dénigrer aucune école |
+| 5 | **Respect (الأدب)** | Présenter les points de vue sans dénigrer aucune école |
 
 ### Public Cible
 
@@ -50,7 +50,7 @@ Ce document définit les standards de rédaction pour les contenus pédagogiques
 - Formules de révérence (ﷺ, رضي الله عنه, رحمه الله)
 
 ❌ À ÉVITER :
-- Ton catégorique sur les divergences
+- Ton catégorique sur les différents avis
 - Dénigrer une école juridique
 - Moderniser le texte au détriment du sens
 - Omettre les sources
@@ -105,7 +105,7 @@ Chaque leçon DOIT suivre cette structure :
 | Point 1 | Description |
 | Point 2 | Description |
 
-### ⚠️ Divergences entre les Écoles
+### ⚠️ Points de vue des Écoles
 
 | École | Avis | Preuve |
 |-------|------|--------|
@@ -162,7 +162,7 @@ Chaque leçon DOIT suivre cette structure :
 | Introduction avec verset/hadith | ✅ **Obligatoire** | Toujours |
 | Définition | ✅ **Obligatoire** | Toujours |
 | Preuves (Coran/Sunna) | ✅ **Obligatoire** | Toujours |
-| Divergences Madhhab | ✅ **Obligatoire** | Pour le Fiqh |
+| Points de vue Madhhab | ✅ **Obligatoire** | Pour le Fiqh |
 | Applications pratiques | ✅ **Obligatoire** | Toujours |
 | Erreurs courantes | ⚡ **Recommandé** | Si pertinent |
 | Mindmap | ⚡ **Recommandé** | Sujets complexes |
@@ -272,13 +272,13 @@ Le projet cible principalement les francophones d'Afrique du Nord et de l'Ouest,
 > 💡 **Position Malikite :** [Explication détaillée avec nuances]
 ```
 
-### Ton pour les Divergences
+### Ton pour les Points de vue
 
 ```markdown
 ✅ À FAIRE :
 - "Les Malikites considèrent que... tandis que les Hanafites optent pour..."
 - "Selon l'école Malikite, majoritaire dans notre région..."
-- "Cette divergence est légitime, chaque école ayant ses preuves"
+- "Cette différence de point de vue est légitime, chaque école ayant ses preuves"
 
 ❌ À ÉVITER :
 - "L'avis correct est..."
@@ -643,7 +643,7 @@ Le Wudu est **obligatoire** (فرض) pour :
 - [ ] Introduction avec verset ou hadith
 - [ ] Définition claire (linguistique + terminologique)
 - [ ] Preuves du Coran et de la Sunna
-- [ ] Divergences multi-madhhab (si Fiqh)
+- [ ] Points de vue multi-madhhab (si Fiqh)
 - [ ] Position Malikite développée
 - [ ] Applications pratiques / cas modernes
 - [ ] Résumé en tableau

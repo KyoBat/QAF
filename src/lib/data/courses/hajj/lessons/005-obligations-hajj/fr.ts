@@ -143,7 +143,7 @@ Cette dispense montre que le Mabit est une obligation, car seules les obligation
 
 ---
 
-## ⚖️ Divergences entre Écoles
+## ⚖️ Points de vue des Écoles
 
 | Obligation | 🟡 Malikite | 🟢 Hanafite | 🔵 Shafiite | 🟣 Hanbalite |
 |------------|-------------|-------------|-------------|--------------|

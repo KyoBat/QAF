@@ -160,7 +160,7 @@ Le Sa'i commémore la course de Hâjar عليها السلام cherchant de l'ea
 
 ---
 
-## ⚖️ Divergences entre Écoles
+## ⚖️ Points de vue des Écoles
 
 | Aspect | 🟡 Malikite | 🟢 Hanafite | 🔵 Shafiite | 🟣 Hanbalite |
 |--------|-------------|-------------|-------------|--------------|

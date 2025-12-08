@@ -245,27 +245,39 @@ La prophétie s'accomplit.
 
 ---
 
-## 💎 Leçons à Tirer
+## 💎 Leçons à Retenir
 
-### 1. La Force des Faibles
+### 1. La Faiblesse Apparente Cache la Force Réelle
 
-Les esclaves et les étrangers étaient considérés comme les plus faibles — mais leur foi était la **plus forte**.
+Les esclaves et les étrangers étaient considérés comme **les plus faibles** aux yeux de Quraysh.
+
+Mais leur foi était **la plus forte**. Bilāl sous les rochers : « Aḥad, aḥad. » Il ne fléchit pas.
+
+La leçon : **ne juge personne sur son apparence.**
 
 ### 2. La Richesse Est un Test
 
-Ṣuhayb abandonna **tout** pour l'Islam. Qu'abandonnons-nous, nous ?
+Ṣuhayb abandonna **toute sa fortune** à Quraysh en échange de son départ.
 
-### 3. La Contrainte Est Pardonnée
+Le Prophète ﷺ dit : **« La transaction est gagnante ! »**
 
-'Ammār montre que sous la torture, dire des paroles forcées est **pardonné** si le cœur reste ferme.
+Question pour nous : qu'abandonnons-nous pour notre religion ? **Ou rien du tout ?**
+
+### 3. La Contrainte Est Excusée
+
+'Ammār insulta l'Islam sous la torture. Il vint au Prophète ﷺ en pleurant.
+
+Le Prophète : **« Comment trouves-tu ton cœur ? »** Il répondit : « Paisible dans la foi. »
+
+Allah révéla : **« Sauf celui qui y a été contraint et dont le cœur reste paisible dans la foi. »**
 
 ### 4. Le Paradis Pour les Persécutés
 
-Le Prophète ﷺ ne pouvait pas sauver la famille de Yāsir de la torture — mais il leur promit le **Paradis**.
+Le Prophète ﷺ ne pouvait pas sauver la famille de Yāsir de la torture.
 
-### 5. Les Premiers Seront les Premiers
+Mais il leur promit : **« Patience, famille de Yāsir ! Votre rendez-vous est le Paradis. »**
 
-Ces opprimés, méprisés à La Mecque, sont **honorés** pour l'éternité.
+La souffrance a une fin. **Le Paradis n'en a pas.**
 
 ---
 

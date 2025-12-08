@@ -255,27 +255,39 @@ Les Compagnons comprirent le message.
 
 ---
 
-## 💎 Leçons à Tirer
+## 💎 Leçons à Retenir
 
 ### 1. La Foi Sans Hésitation
 
-Abū Bakr nous apprend que la vraie foi ne négocie pas, ne doute pas, ne tergiverse pas. Quand la vérité est claire, le croyant dit **oui** immédiatement.
+Quand on lui parla de l'Isrā' et du Mi'rāj, il ne dit pas « Attends que je vérifie ». Il dit : **« S'il l'a dit, c'est vrai. »**
 
-### 2. L'Amitié Sincère
+C'est cela la foi : une confiance totale en Allah et Son Messager, sans négociation.
 
-Son amitié avec le Prophète ﷺ montre ce qu'est une vraie amitié : sacrifice, loyauté, présence dans les moments difficiles.
+### 2. L'Amitié qui Transcende
 
-### 3. La Générosité Totale
+Il accompagna le Prophète ﷺ dans la grotte, lors de l'hégire, dans les hauts et les bas. Leur amitié n'était pas que des belles paroles — c'était un **sacrifice réel** dans les moments décisifs.
 
-Il a donné **tout** — pas 50%, pas 90%, mais 100%. La question n'est pas combien nous donnons, mais combien nous gardons.
+Nos amitiés sont-elles à ce niveau ?
 
-### 4. Le Leadership Humble
+### 3. La Générosité qui Déroute
 
-« Je ne suis pas le meilleur d'entre vous. » Un vrai leader reconnaît ses limites et demande à être corrigé.
+Quand on lui demanda : « Qu'as-tu laissé à ta famille ? », il répondit : **« Allah et Son Messager. »**
 
-### 5. La Fermeté dans la Vérité
+La question n'est pas : combien je donne ? Mais : **combien je garde pour moi ?**
 
-Face à l'apostasie après la mort du Prophète ﷺ, il dit : « Par Allah, si quelqu'un retient une corde de chameau qu'il donnait au Prophète ﷺ, je le combattrai. »
+### 4. Le Leader qui Demande Correction
+
+« On m'a donné autorité sur vous, mais je ne suis pas le meilleur d'entre vous. Si je fais bien, aidez-moi. Si je fais mal, **corrigez-moi**. »
+
+Un vrai leader n'a pas peur de la critique — il la **sollicite**.
+
+### 5. La Fermeté Quand Tous Fléchissent
+
+Après la mort du Prophète ﷺ, des tribus apostasièrent. 'Umar dit : « Laisse-les ! » Mais Abū Bakr :
+
+> « Par Allah, si quelqu'un refuse une corde de chameau qu'il donnait au Prophète ﷺ, je le combattrai. »
+
+**La vérité ne se négocie pas.**
 
 ---
 

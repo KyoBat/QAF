@@ -134,7 +134,7 @@ Ici, le jeûne signifie l'abstention de **parler**.
 
 ---
 
-## ⚖️ Divergences entre Écoles (الخلاف الفقهي)
+## ⚖️ Points de vue des Écoles (الخلاف الفقهي)
 
 | Question | 🟡 Malikite | 🟢 Hanafite | 🔵 Shafiite | 🟣 Hanbalite |
 |----------|-------------|-------------|-------------|--------------|

@@ -152,7 +152,7 @@ L'apparition des menstrues ou lochies, même juste avant le Maghrib, annule le j
 
 ---
 
-## ⚖️ Divergences entre Écoles
+## ⚖️ Points de vue des Écoles
 
 ### La Kaffara pour manger/boire volontairement
 

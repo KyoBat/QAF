@@ -82,7 +82,7 @@ La **prosternation de récitation** est une prosternation effectuée lors de la 
 | 4 | **Takbir** en se relevant |
 | 5 | **Pas de taslim** chez les Malikites |
 
-### ⚠️ Divergences sur les détails
+### ⚠️ Points de vue sur les détails
 
 | Aspect | 🟡 Maliki | Autres |
 |--------|-----------|--------|

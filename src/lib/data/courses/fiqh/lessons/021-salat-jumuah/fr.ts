@@ -94,7 +94,7 @@ La prière du vendredi est une **obligation individuelle** pour tout homme musul
 | 3 | **Récitation du Coran** | Au moins un verset |
 | 4 | **Exhortation à la piété** | Wasiyya bi taqwa Allah |
 
-### ⚠️ Divergences sur les piliers
+### ⚠️ Points de vue sur les piliers
 
 | Pilier | 🟡 Maliki | Autres |
 |--------|-----------|--------|

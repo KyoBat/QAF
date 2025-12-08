@@ -173,9 +173,9 @@ Le pèlerin doit être physiquement capable de :
 
 ## 🕌 Avis des Madhahib (آراء المذاهب)
 
-### ⚠️ Divergence sur le Mahram pour la Femme
+### ⚠️ Points de vue sur le Mahram pour la Femme
 
-C'est l'une des grandes divergences en fiqh du Hajj :
+C'est l'une des grandes différences d'avis en fiqh du Hajj :
 
 | École | Avis | Argument |
 |-------|------|----------|

@@ -272,27 +272,35 @@ Le Prophète ﷺ lui répondait :
 
 ---
 
-## 💎 Leçons à Tirer
+## 💎 Leçons à Retenir
 
-### 1. Le Soutien dans l'Épreuve (Khadīja)
+### 1. Le Soutien au Moment Décisif (Khadīja)
+
+Quand la Révélation arriva, le Prophète ﷺ était effrayé. Il dit : **« Couvrez-moi ! Couvrez-moi ! »**
+
+Khadīja ne dit pas : « Que t'arrive-t-il ? » Elle dit : « Non ! Par Allah, Il ne te décevra jamais. »
 
 Quand tout le monde doute, le soutien d'**une seule personne** peut tout changer.
 
-### 2. Le Savoir pour les Femmes ('Ā'isha)
+### 2. Le Savoir Est un Droit pour la Femme ('Ā'isha)
 
-L'Islam encourage les femmes à **apprendre et enseigner** — 'Ā'isha fut la preuve vivante.
+**2210 hadiths.** Les plus grands savants parmi les Compagnons la consultaient.
 
-### 3. L'Amour Prophétique
+L'Islam encourage la femme à **apprendre et enseigner**. 'Ā'isha en est la preuve vivante.
 
-Le Prophète ﷺ **aima** ses épouses ouvertement — un modèle pour les maris musulmans.
+### 3. L'Amour Exprimé Ouvertement
 
-### 4. La Dignité Face à la Calomnie
+Le Prophète ﷺ n'a pas caché son amour pour ses épouses :
+- « J'ai été gratifié de son amour » (au sujet de Khadīja)
+- « La personne que j'aime le plus » (au sujet de 'Ā'isha)
 
-'Ā'isha resta **digne** face aux accusations — et Allah Lui-même la défendit.
+**Modèle pour les époux** : l'amour s'exprime, il ne se cache pas.
 
-### 5. Des Rôles Complémentaires
+### 4. La Fidélité Après la Mort
 
-Deux femmes, deux époques, deux rôles — chacune **irremplaçable**.
+Des années après la mort de Khadīja, le Prophète ﷺ la mentionnait encore, et maintenait le lien avec ses amies.
+
+**La fidélité ne meurt pas avec les proches.**
 
 ---
 

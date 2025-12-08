@@ -179,7 +179,7 @@ L'**I'tikaf** est la retraite spirituelle dans une mosquée avec l'intention de 
 
 ---
 
-## ⚖️ Divergences entre Écoles
+## ⚖️ Points de vue des Écoles
 
 ### Lieu de l'I'tikaf
 

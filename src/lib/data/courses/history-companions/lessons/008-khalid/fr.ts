@@ -323,23 +323,35 @@ Khālid mourut à Homs en 21 AH — **dans son lit**.
 
 ---
 
-## 💎 Les Leçons de sa Vie
+## 💎 Leçons à Retenir
 
-### 1. La Conversion Sincère Efface Tout
+### 1. Le Repentir Efface Tout
 
-Khālid avait tué des musulmans à Uhud. L'Islam a tout effacé.
+Khālid a **tué des musulmans** à Uhud. Et pourtant, quand il embrassa l'Islam, tout fut effacé.
 
-### 2. Le Génie est un Amāna
+Ne dis pas : « C'est trop tard. » **La porte du repentir est ouverte tant que l'âme n'atteint pas la gorge.**
 
-Son talent militaire était un **dépôt** (amāna) d'Allah, qu'il a utilisé pour l'Islam.
+### 2. Le Talent Est une Amāna
 
-### 3. L'Obéissance au-dessus de l'Ego
+Son génie militaire était un **don d'Allah**. Il l'utilisa pour étendre l'Islam.
 
-Quand 'Umar l'a destitué, Khālid aurait pu se rebeller. Il a obéi.
+Ton talent — quel qu'il soit — est une **amāna**. À quoi l'utilises-tu ?
 
-### 4. La Mort est entre les Mains d'Allah
+### 3. L'Obéissance Au-dessus de l'Ego
 
-L'Épée d'Allah n'est pas mort sur le champ de bataille. Allah décide.
+Quand 'Umar le destitua, Khālid avait une **armée loyale** à ses ordres.
+
+Mais il **obéit** au Calife sans hésitation. L'obéissance est plus grande que la victoire.
+
+### 4. La Mort Est entre les Mains d'Allah Seul
+
+« L'Épée d'Allah » ne mourut pas sur le champ de bataille. Il mourut dans son lit.
+
+Sur son lit de mort, il dit :
+
+> « Il n'y a pas un empan sur mon corps sans une blessure de lance ou d'épée... Et me voilà mourant dans mon lit comme meurt le bétail. Que les yeux des lâches ne dorment pas ! »
+
+**C'est Allah qui décide. Pas l'épée ni la lance.**
 
 ---
 

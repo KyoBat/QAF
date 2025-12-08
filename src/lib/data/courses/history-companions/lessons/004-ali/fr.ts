@@ -246,27 +246,45 @@ Ce surnom devint un **titre d'honneur** que 'Alī aimait.
 
 ---
 
-## 💎 Leçons à Tirer
+## 💎 Leçons à Retenir
 
-### 1. Le Sacrifice pour la Vérité
+### 1. Le Sacrifice Sans Hésitation
 
-Dormir dans le lit du Prophète ﷺ entouré d'assassins — c'est le prix que 'Alī était prêt à payer.
+La nuit de l'Hégire, il dormit dans le lit du Prophète ﷺ entouré de **40 assassins** qui voulaient sa tête.
 
-### 2. Le Savoir et la Force
+Il ne demanda pas : « Qu'est-ce que j'y gagne ? » mais : **« De quoi l'Islam a-t-il besoin ? »**
 
-'Alī combinait la **puissance du lion** et la **sagesse du savant**. L'Islam valorise les deux.
+Sacrifierions-nous à ce niveau ? Ou calculons-nous tout ?
 
-### 3. La Simplicité Malgré le Rang
+### 2. Force et Sagesse : un Équilibre Rare
 
-Gendre du Prophète ﷺ, père de sa descendance, calife — et pourtant il vivait avec une peau de mouton comme lit.
+« Lion d'Allah » sur le champ de bataille. « Porte de la cité du savoir » en jurisprudence.
 
-### 4. La Justice Même envers les Ennemis
+'Alī prouve que la **force sans savoir est dangereuse**, et le savoir sans courage est impuissant.
 
-Il ordonna de bien traiter son assassin. La justice n'a pas d'exception.
+Le musulman complet unit les deux.
 
-### 5. L'Éloquence au Service de la Vérité
+### 3. La Simplicité Malgré la Grandeur
 
-Ses sermons (Nahj al-Balāgha) restent des sommets de la langue arabe et de la sagesse islamique.
+Gendre du Prophète ﷺ. Père de la lignée prophétique. Calife des musulmans.
+
+Et pourtant : son lit était une peau de mouton, sa nourriture du pain et du sel.
+
+**La vraie grandeur n'a pas besoin d'étalage.**
+
+### 4. La Justice Même Envers l'Assassin
+
+Quand Ibn Muljam le frappa, il dit :
+
+> « Si je vis, c'est moi qui décide de son sort. Si je meurs, ne le mutiler pas. »
+
+Justice même envers **son meurtrier**. Faisons-nous preuve de justice envers ceux qui nous nuisent ?
+
+### 5. La Parole qui Traverse les Siècles
+
+*Nahj al-Balāgha* — ses sermons sont étudiés 14 siècles plus tard.
+
+**La parole vraie survit. La parole fausse meurt.**
 
 ---
 

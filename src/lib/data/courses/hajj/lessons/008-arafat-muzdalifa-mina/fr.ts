@@ -127,7 +127,7 @@ export const content = `# 📜 عَرَفَةُ وَمُزْدَلِفَةُ و�
 
 ---
 
-## ⚖️ Divergences entre Écoles (الخلاف الفقهي)
+## ⚖️ Points de vue des Écoles (الخلاف الفقهي)
 
 ### 5.1 Durée minimale à Muzdalifa
 

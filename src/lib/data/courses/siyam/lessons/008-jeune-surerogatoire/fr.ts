@@ -138,7 +138,7 @@ export const content = `# 📜 صِيَامُ التَّطَوُّعِ — Le Je
 
 ---
 
-## ⚖️ Divergences entre Écoles
+## ⚖️ Points de vue des Écoles
 
 ### L'intention pour le jeûne surérogatoire
 

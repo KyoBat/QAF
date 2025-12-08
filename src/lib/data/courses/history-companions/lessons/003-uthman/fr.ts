@@ -259,27 +259,43 @@ Le Prophète ﷺ dit :
 
 ---
 
-## 💎 Leçons à Tirer
+## 💎 Leçons à Retenir
 
-### 1. La Pudeur Est une Force
+### 1. La Pudeur N'est Pas Faiblesse — C'est Noblesse
 
-'Uthmān montre que la pudeur n'est pas une faiblesse — c'est une **noblesse** que même les anges reconnaissent.
+Un homme devant qui même les anges ont de la pudeur ! Ce que notre époque considère comme « faiblesse », Allah l'a honoré comme **noblesse**.
 
-### 2. La Générosité Sans Calcul
+'Uthmān nous enseigne : sois pudique, confiant en toi, et fort à la fois.
 
-Il donnait sans compter — puits, armées, mosquées. La vraie richesse est celle qu'on **donne**.
+### 2. La Vraie Richesse Est ce Qu'on Donne
+
+Il acheta un puits pour les musulmans. Il équipa une armée entière. Il agrandit la mosquée prophétique.
+
+Il ne demandait pas : « Qu'est-ce que j'y gagne ? » mais : **« Comment puis-je servir la Umma ? »**
+
+Les vrais riches sont ceux qui donnent, pas ceux qui accumulent.
 
 ### 3. La Patience Face à l'Injustice
 
-Assiégé, accusé injustement, il refusa de verser le sang musulman. Il choisit le martyre plutôt que la fitna.
+Assiégé par les rebelles, les Compagnons lui dirent : « Nous combattrons pour toi ! » Il refusa :
 
-### 4. L'Attachement au Coran
+> « Je ne serai pas le premier à verser le sang musulman. »
 
-Il mourut en lisant le Coran. Toute sa vie, il fut attaché à la Parole d'Allah — jusqu'à son dernier souffle.
+Il choisit le martyre plutôt que la fitna. **Voilà la vraie patience.**
 
-### 5. L'Unité de la Umma
+### 4. Le Coran : Compagnon de Vie et de Mort
 
-Sa compilation du Coran unifia la Umma pour toujours. Un geste qui continue de bénéficier à des milliards de musulmans.
+Il mourut avec le Mushaf dans les mains, en train de lire. Son sang coula sur les pages du Coran.
+
+Le Coran est-il notre compagnon quotidien ? **Ou un livre qu'on ouvre à l'occasion ?**
+
+### 5. Un Geste qui Dure 1400 Ans
+
+Sa compilation du Coran en un seul Mushaf a **unifié la Umma** jusqu'à aujourd'hui.
+
+**Des milliards** ont lu ce Mushaf. Tous dans sa balance.
+
+Quelle œuvre laissons-nous derrière nous ?
 
 ---
 
