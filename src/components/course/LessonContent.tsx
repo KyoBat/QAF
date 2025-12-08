@@ -14,7 +14,7 @@ import rehypeRaw from 'rehype-raw'
 import { useLocale } from '@/components/providers'
 import { cn } from '@/lib/utils'
 import type { Lesson } from '@/lib/schemas'
-import { getMindMapForLesson, generationalChainData, getMethodData, allMethodsData } from '@/lib/data/mindmaps'
+import { getMindMapForLesson, generationalChainData, getMethodData, allMethodsData, hanafiExpansionData, malikiExpansionData, shafiiExpansionData, hanbaliExpansionData, getInfoBoxData } from '@/lib/data/mindmaps'
 
 // Import dynamique du TreeChart pour éviter les erreurs SSR
 const TreeChart = dynamic(
@@ -68,6 +68,32 @@ const MethodComparison = dynamic(
   }
 )
 
+// Import dynamique du ExpansionTimeline pour éviter les erreurs SSR  
+const ExpansionTimeline = dynamic(
+  () => import('@/components/mindmap/ExpansionTimeline'),
+  { 
+    ssr: false,
+    loading: () => (
+      <div className="w-full h-[400px] bg-slate-100 dark:bg-slate-800 rounded-xl flex items-center justify-center my-6">
+        <div className="animate-pulse text-slate-500">جاري تحميل التوسع...</div>
+      </div>
+    ),
+  }
+)
+
+// Import dynamique du InfoBox pour éviter les erreurs SSR  
+const InfoBox = dynamic(
+  () => import('@/components/mindmap/InfoBox'),
+  { 
+    ssr: false,
+    loading: () => (
+      <div className="w-full h-[200px] bg-slate-100 dark:bg-slate-800 rounded-xl flex items-center justify-center my-6">
+        <div className="animate-pulse text-slate-500">جاري تحميل...</div>
+      </div>
+    ),
+  }
+)
+
 interface LessonContentProps {
   lesson: Lesson
   courseSlug?: string
@@ -101,9 +127,25 @@ export function LessonContent({ lesson, courseSlug, className }: LessonContentPr
   // Check if content has inline chain marker
   const hasInlineChain = content.includes('<!-- CHAIN -->')
   
-  // Check for method markers
-  const methodMarkerRegex = /<!-- METHOD:(hanafi|maliki|shafii|hanbali|all) -->/g
-  const hasMethodMarker = methodMarkerRegex.test(content)
+  // Check for method markers (without 'g' flag for .test() to work correctly)
+  const hasMethodMarker = /<!-- METHOD:(hanafi|maliki|shafii|hanbali|all) -->/.test(content)
+  
+  // Check for expansion markers
+  const hasExpansionMarker = /<!-- EXPANSION:(hanafi|maliki|shafii|hanbali) -->/.test(content)
+  
+  // Check for infobox markers
+  const hasInfoBoxMarker = /<!-- INFOBOX:([\w-]+) -->/.test(content)
+  
+  // Get expansion data by school
+  const getExpansionData = (school: string) => {
+    switch (school) {
+      case 'hanafi': return hanafiExpansionData
+      case 'maliki': return malikiExpansionData
+      case 'shafii': return shafiiExpansionData
+      case 'hanbali': return hanbaliExpansionData
+      default: return hanafiExpansionData
+    }
+  }
   
   // Split content at mindmap marker if present
   const contentParts = hasInlineMindMap 
@@ -124,7 +166,7 @@ export function LessonContent({ lesson, courseSlug, className }: LessonContentPr
     const match = text.match(methodRegex)
     
     if (!match) {
-      return renderMarkdown(text)
+      return renderWithExpansionMarkers(text)
     }
     
     const [before, after] = text.split(match[0])
@@ -132,7 +174,7 @@ export function LessonContent({ lesson, courseSlug, className }: LessonContentPr
     
     return (
       <>
-        {before && renderMarkdown(before)}
+        {before && renderWithExpansionMarkers(before)}
         <div className="my-8">
           {school === 'all' ? (
             <MethodComparison methods={allMethodsData} locale={locale} />
@@ -141,6 +183,55 @@ export function LessonContent({ lesson, courseSlug, className }: LessonContentPr
           )}
         </div>
         {after && renderWithMethodMarkers(after)}
+      </>
+    )
+  }
+  
+  // Split and render with expansion markers
+  const renderWithExpansionMarkers = (text: string): React.ReactNode => {
+    const expansionRegex = /<!-- EXPANSION:(hanafi|maliki|shafii|hanbali) -->/
+    const match = text.match(expansionRegex)
+    
+    if (!match) {
+      return renderWithInfoBoxMarkers(text)
+    }
+    
+    const [before, after] = text.split(match[0])
+    const school = match[1] as 'hanafi' | 'maliki' | 'shafii' | 'hanbali'
+    
+    return (
+      <>
+        {before && renderWithInfoBoxMarkers(before)}
+        <div className="my-8">
+          <ExpansionTimeline data={getExpansionData(school)} locale={locale} />
+        </div>
+        {after && renderWithExpansionMarkers(after)}
+      </>
+    )
+  }
+  
+  // Split and render with infobox markers
+  const renderWithInfoBoxMarkers = (text: string): React.ReactNode => {
+    const infoboxRegex = /<!-- INFOBOX:([\w-]+) -->/
+    const match = text.match(infoboxRegex)
+    
+    if (!match) {
+      return renderMarkdown(text)
+    }
+    
+    const [before, after] = text.split(match[0])
+    const boxKey = match[1]
+    const boxData = getInfoBoxData(boxKey)
+    
+    return (
+      <>
+        {before && renderMarkdown(before)}
+        {boxData && (
+          <div className="my-6">
+            <InfoBox data={boxData} locale={locale} />
+          </div>
+        )}
+        {after && renderWithInfoBoxMarkers(after)}
       </>
     )
   }
@@ -293,7 +384,6 @@ export function LessonContent({ lesson, courseSlug, className }: LessonContentPr
           <div className="my-8">
             <GenerationalChain 
               data={generationalChainData}
-              title={chainTitle}
               locale={locale}
             />
           </div>
@@ -324,9 +414,9 @@ export function LessonContent({ lesson, courseSlug, className }: LessonContentPr
           {/* Content after mindmap marker */}
           {contentParts[1] && renderContentSection(contentParts[1])}
         </>
-      ) : hasInlineChain || hasMethodMarker ? (
+      ) : hasInlineChain || hasMethodMarker || hasExpansionMarker || hasInfoBoxMarker ? (
         <>
-          {/* Content with chain marker or method markers */}
+          {/* Content with chain marker or method markers or infobox */}
           {renderContentSection(content)}
         </>
       ) : (

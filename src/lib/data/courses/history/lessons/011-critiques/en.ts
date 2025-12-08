@@ -37,15 +37,7 @@ This accusation came mainly from the **Ahl al-Ḥadīth** of the Hijaz.
 
 1. **He knew the hadiths** but had strict criteria:
 
-\`\`\`
-ABŪ ḤANĪFA'S CRITERIA
-┌─────────────────────────────────────────┐
-│ ❌ Ḥadīth āḥād vs practice of Medina    │
-│ ❌ Hadith with unknown narrator         │
-│ ❌ Hadith contradicting the Quran       │
-│ ✅ Mutawātir or mashhūr hadith          │
-└─────────────────────────────────────────┘
-\`\`\`
+<!-- INFOBOX:hanafi-criteria -->
 
 2. **Abū Ḥanīfa's statement:**
 
@@ -100,14 +92,7 @@ His imprisonment proves he was **suspect**.
 
 1. **His reasoning was logical**:
 
-\`\`\`
-MĀLIK'S REASONING
-┌─────────────────────────────────────────────────────┐
-│  If 10,000 inhabitants of Medina practice X        │
-│  And a ḥadīth āḥād says Y                          │
-│  → X is more reliable due to mass transmission     │
-└─────────────────────────────────────────────────────┘
-\`\`\`
+<!-- INFOBOX:malik-logic -->
 
 2. **Medina was unique**: The Prophet's ﷺ city with a living tradition.
 
@@ -234,14 +219,7 @@ After studying with al-Shaybānī, he criticized the Hanafi method.
 
 1. **He used qiyās** but as a last resort:
 
-\`\`\`
-AḤMAD'S HIERARCHY
-1. Quran
-2. Sunnah
-3. Companion opinions
-4. Mursal or weak hadith
-5. Qiyās (if necessary)
-\`\`\`
+<!-- INFOBOX:ahmad-ranking -->
 
 2. **He preferred a weak hadith** over pure opinion — out of caution.
 

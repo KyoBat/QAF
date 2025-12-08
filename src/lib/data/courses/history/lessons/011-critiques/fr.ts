@@ -37,15 +37,7 @@ Cette accusation venait principalement des **Ahl al-Ḥadīth** du Hijaz.
 
 1. **Il connaissait les hadiths** mais avait des critères stricts :
 
-\`\`\`
-CRITÈRES D'ABŪ ḤANĪFA
-┌─────────────────────────────────────────┐
-│ ❌ Hadith āḥād vs pratique de Médine    │
-│ ❌ Hadith avec narrateur inconnu        │
-│ ❌ Hadith contredisant le Coran         │
-│ ✅ Hadith mutawātir ou mashhūr          │
-└─────────────────────────────────────────┘
-\`\`\`
+<!-- INFOBOX:hanafi-criteria -->
 
 2. **Citation d'Abū Ḥanīfa :**
 
@@ -100,14 +92,7 @@ Son emprisonnement prouve qu'il était **suspect**.
 
 1. **Son raisonnement était logique** :
 
-\`\`\`
-LE RAISONNEMENT DE MĀLIK
-┌─────────────────────────────────────────────────────┐
-│  Si 10 000 habitants de Médine pratiquent X        │
-│  Et qu'un hadith āḥād dit Y                        │
-│  → X est plus fiable car transmission massive      │
-└─────────────────────────────────────────────────────┘
-\`\`\`
+<!-- INFOBOX:malik-logic -->
 
 2. **Médine était unique** : Ville du Prophète ﷺ avec une tradition vivante.
 
@@ -234,14 +219,7 @@ Après avoir étudié avec al-Shaybānī, il a critiqué la méthode hanafite.
 
 1. **Il utilisait le qiyās** mais en dernier recours :
 
-\`\`\`
-HIÉRARCHIE D'AḤMAD
-1. Coran
-2. Sunna
-3. Avis des Compagnons
-4. Hadith mursal ou faible
-5. Qiyās (si nécessaire)
-\`\`\`
+<!-- INFOBOX:ahmad-ranking -->
 
 2. **Il préférait un hadith faible** à l'opinion pure — par prudence.
 

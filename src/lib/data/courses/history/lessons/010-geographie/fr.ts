@@ -46,31 +46,9 @@ Quand **Abū Yūsuf** devint Qāḍī al-Quḍāt (Grand Juge) sous Hārūn al-R
 
 Le madhhab hanafi devint le **droit officiel** de l'État abbasside, qui s'étendait de l'Espagne à l'Inde.
 
-#### 2. L'Empire Ottoman (14e-20e siècle)
-
-Les Ottomans adoptèrent le madhhab hanafi comme **école officielle de l'État** :
-
-\`\`\`
-L'EMPIRE OTTOMAN (1299-1922)
-┌────────────────────────────────────────┐
-│  Balkans → Anatolie → Moyen-Orient    │
-│  Égypte → Afrique du Nord              │
-│                                        │
-│  ⚖️ Droit officiel : HANAFI           │
-└────────────────────────────────────────┘
-\`\`\`
+<!-- EXPANSION:hanafi -->
 
 Les juges, les écoles, les muftis officiels étaient **tous hanafis**.
-
-#### 3. L'Empire Moghol (16e-19e siècle)
-
-En Inde, les Moghols imposèrent également le madhhab hanafi :
-
-> **Fatāwā 'Ālamgīriyya** : Compilation de fiqh hanafi commandée par l'empereur Aurangzeb.
-
-#### 4. Les Routes de la Soie
-
-Les marchands de Bagdad et d'Asie centrale voyageaient sur les routes de la soie, portant le fiqh hanafi jusqu'en **Chine**.
 
 ---
 
@@ -104,40 +82,7 @@ Les **Aghlabides** de Kairouan (Tunisie actuelle) adoptèrent le madhhab maliki 
 
 > «Saḥnūn fut nommé Grand Juge de Kairouan en 234 H.»
 
-#### 3. Les Almoravides et Almohades
-
-Ces dynasties berbères diffusèrent le maliki dans tout le **Maghreb** et **Al-Andalus** :
-
-\`\`\`
-EXPANSION MALIKITE
-      Médine
-         │
-    ┌────▼────┐
-    │ Égypte  │
-    └────┬────┘
-         │
-    ┌────▼────────────────────────┐
-    │     KAIROUAN (Tunisie)      │
-    │         Saḥnūn              │
-    └─────────────┬───────────────┘
-                  │
-    ┌─────────────▼───────────────┐
-    │    MAGHREB + AL-ANDALUS     │
-    │  Almoravides + Almohades    │
-    └─────────────┬───────────────┘
-                  │
-    ┌─────────────▼───────────────┐
-    │      AFRIQUE DE L'OUEST     │
-    │   Commerçants + Érudits     │
-    └─────────────────────────────┘
-\`\`\`
-
-#### 4. Les Routes Transsahariennes
-
-Les marchands et savants traversant le **Sahara** portèrent le maliki vers :
-- Tombouctou (Mali)
-- Kano (Nigeria)
-- Sénégal et Mauritanie
+<!-- EXPANSION:maliki -->
 
 ---
 
@@ -169,32 +114,7 @@ L'Égypte devint le **centre** de l'école shafi'ie.
 - Nomma des juges shafi'is
 - Renforça le madhhab en Égypte et au Levant
 
-#### 3. Les Routes Maritimes
-
-C'est la **grande particularité** shafi'ie : les marchands **maritimes** diffusèrent ce madhhab :
-
-\`\`\`
-ROUTES MARITIMES SHAFI'IES
-                                    
-     Yémen ──────────────────────────────────┐
-       │                                     │
-       ▼                                     ▼
-  Afrique de l'Est                     Asie du Sud-Est
-  (Swahilie, Somalie)                (Indonésie, Malaisie)
-       │                                     │
-       ▼                                     ▼
-   Comores                              Philippines
-   Madagascar                              Brunei
-\`\`\`
-
-**Les marchands yéménites** (Ḥaḍramawt) étaient presque tous shafi'is. Ils s'installèrent :
-- Sur la côte **swahilie** (Kenya, Tanzanie)
-- En **Indonésie** (Java, Sumatra)
-- En **Malaisie**
-
-#### 4. Les Sultanats d'Asie du Sud-Est
-
-Les sultanats comme **Malacca**, **Aceh** et **Mataram** adoptèrent le shafi'i comme droit officiel.
+<!-- EXPANSION:shafii -->
 
 > L'Indonésie (250 millions d'habitants) est le **plus grand pays musulman** — et il est massivement shafi'i.
 
@@ -222,37 +142,7 @@ Le madhhab hanbali resta longtemps **minoritaire** car :
 
 Aḥmad mourut à **Bagdad** (241 H). Ses étudiants y maintinrent une présence, mais minoritaire face aux hanafis officiels.
 
-#### 2. La Revitalisation par Ibn Taymiyya (14e siècle)
-
-**Ibn Taymiyya** (661-728 H) relança le madhhab hanbali :
-- Critiqua les innovations
-- Appela au retour aux textes
-- Forma **Ibn al-Qayyim**, qui continua son œuvre
-
-#### 3. Le Mouvement Wahhabite (18e siècle)
-
-**Muḥammad ibn 'Abd al-Wahhāb** s'allia avec la famille **Saoud** :
-
-\`\`\`
-L'ALLIANCE SAOUDIENNE-WAHHABITE (1744)
-┌────────────────────────────────────────┐
-│  Muḥammad ibn 'Abd al-Wahhāb          │
-│  (Réformateur hanbali)                │
-│              +                         │
-│  Muḥammad ibn Sa'ūd                   │
-│  (Émir de Dir'iyya)                   │
-│              ↓                         │
-│     PREMIER ÉTAT SAOUDIEN              │
-│     Madhhab hanbali officiel           │
-└────────────────────────────────────────┘
-\`\`\`
-
-#### 4. Le Royaume d'Arabie Saoudite (20e siècle)
-
-Avec la création du Royaume en 1932, le madhhab hanbali devint :
-- Le **droit officiel** du pays
-- La base des **Lieux Saints** (Mecque et Médine)
-- Exporté par le **financement** de mosquées dans le monde
+<!-- EXPANSION:hanbali -->
 
 ---
 

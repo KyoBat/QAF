@@ -46,31 +46,9 @@ When **Abū Yūsuf** became Qāḍī al-Quḍāt (Chief Justice) under Hārūn a
 
 The Hanafi school became the **official law** of the Abbasid State, which stretched from Spain to India.
 
-#### 2. The Ottoman Empire (14th-20th Century)
-
-The Ottomans adopted the Hanafi school as the **official state school**:
-
-\`\`\`
-THE OTTOMAN EMPIRE (1299-1922)
-┌────────────────────────────────────────┐
-│  Balkans → Anatolia → Middle East     │
-│  Egypt → North Africa                  │
-│                                        │
-│  ⚖️ Official Law: HANAFI              │
-└────────────────────────────────────────┘
-\`\`\`
+<!-- EXPANSION:hanafi -->
 
 Judges, schools, and official muftis were **all Hanafi**.
-
-#### 3. The Mughal Empire (16th-19th Century)
-
-In India, the Mughals also imposed the Hanafi school:
-
-> **Fatāwā 'Ālamgīriyya**: A Hanafi fiqh compilation commissioned by Emperor Aurangzeb.
-
-#### 4. The Silk Roads
-
-Merchants from Baghdad and Central Asia traveled the Silk Roads, carrying Hanafi fiqh to **China**.
 
 ---
 
@@ -104,40 +82,7 @@ The **Aghlabids** of Kairouan (modern Tunisia) adopted the Maliki school as offi
 
 > "Saḥnūn was appointed Chief Judge of Kairouan in 234 AH."
 
-#### 3. The Almoravids and Almohads
-
-These Berber dynasties spread the Maliki school throughout the **Maghreb** and **Al-Andalus**:
-
-\`\`\`
-MALIKI EXPANSION
-      Medina
-         │
-    ┌────▼────┐
-    │  Egypt  │
-    └────┬────┘
-         │
-    ┌────▼────────────────────────┐
-    │     KAIROUAN (Tunisia)      │
-    │         Saḥnūn              │
-    └─────────────┬───────────────┘
-                  │
-    ┌─────────────▼───────────────┐
-    │    MAGHREB + AL-ANDALUS     │
-    │  Almoravids + Almohads      │
-    └─────────────┬───────────────┘
-                  │
-    ┌─────────────▼───────────────┐
-    │       WEST AFRICA           │
-    │   Merchants + Scholars      │
-    └─────────────────────────────┘
-\`\`\`
-
-#### 4. Trans-Saharan Routes
-
-Merchants and scholars crossing the **Sahara** carried the Maliki school to:
-- Timbuktu (Mali)
-- Kano (Nigeria)
-- Senegal and Mauritania
+<!-- EXPANSION:maliki -->
 
 ---
 
@@ -169,32 +114,7 @@ Egypt became the **center** of the Shafi'i school.
 - Appointed Shafi'i judges
 - Strengthened the madhhab in Egypt and the Levant
 
-#### 3. Maritime Routes
-
-This is the **great particularity** of the Shafi'i school: **maritime** merchants spread this madhhab:
-
-\`\`\`
-SHAFI'I MARITIME ROUTES
-                                    
-     Yemen ──────────────────────────────────┐
-       │                                     │
-       ▼                                     ▼
-  East Africa                         Southeast Asia
-  (Swahili, Somalia)                (Indonesia, Malaysia)
-       │                                     │
-       ▼                                     ▼
-   Comoros                              Philippines
-   Madagascar                              Brunei
-\`\`\`
-
-**Yemeni merchants** (Ḥaḍramawt) were almost all Shafi'i. They settled:
-- On the **Swahili** coast (Kenya, Tanzania)
-- In **Indonesia** (Java, Sumatra)
-- In **Malaysia**
-
-#### 4. Southeast Asian Sultanates
-
-Sultanates like **Malacca**, **Aceh**, and **Mataram** adopted the Shafi'i as official law.
+<!-- EXPANSION:shafii -->
 
 > Indonesia (250 million inhabitants) is the **largest Muslim country** — and it is massively Shafi'i.
 
@@ -222,37 +142,7 @@ The Hanbali school remained **minority** for a long time because:
 
 Aḥmad died in **Baghdad** (241 AH). His students maintained a presence there, but as a minority against the official Hanafis.
 
-#### 2. Revitalization by Ibn Taymiyya (14th Century)
-
-**Ibn Taymiyya** (661-728 AH) revived the Hanbali school:
-- Criticized innovations
-- Called for return to texts
-- Trained **Ibn al-Qayyim**, who continued his work
-
-#### 3. The Wahhabi Movement (18th Century)
-
-**Muḥammad ibn 'Abd al-Wahhāb** allied with the **Saud** family:
-
-\`\`\`
-THE SAUDI-WAHHABI ALLIANCE (1744)
-┌────────────────────────────────────────┐
-│  Muḥammad ibn 'Abd al-Wahhāb          │
-│  (Hanbali reformer)                   │
-│              +                         │
-│  Muḥammad ibn Sa'ūd                   │
-│  (Emir of Dir'iyya)                   │
-│              ↓                         │
-│     FIRST SAUDI STATE                  │
-│     Official Hanbali madhhab           │
-└────────────────────────────────────────┘
-\`\`\`
-
-#### 4. The Kingdom of Saudi Arabia (20th Century)
-
-With the creation of the Kingdom in 1932, the Hanbali school became:
-- The **official law** of the country
-- The basis of the **Holy Places** (Mecca and Medina)
-- Exported through **funding** of mosques worldwide
+<!-- EXPANSION:hanbali -->
 
 ---
 

@@ -116,15 +116,7 @@ How can a legacy remain so **dynamic** after so many centuries?
 
 ### Concrete Example: Prayer
 
-\`\`\`
-HAND POSITIONS IN PRAYER
-┌────────────────────────────────────────┐
-│ 🟢 Hanafi: Below the navel            │
-│ 🟡 Maliki: Along the body (released)  │
-│ 🔵 Shafi'i: On the chest              │
-│ 🟣 Hanbali: On the chest              │
-└────────────────────────────────────────┘
-\`\`\`
+<!-- INFOBOX:prayer-hands -->
 
 A Muslim **identifies** their madhhab often by the way they **pray**.
 
@@ -162,19 +154,7 @@ A Muslim **identifies** their madhhab often by the way they **pray**.
 
 ### University Curricula
 
-\`\`\`
-EXAMPLE: AL-AZHAR CURRICULUM
-┌────────────────────────────────────────┐
-│ Year 1-2: Uṣūl al-Fiqh (Foundations)  │
-│ Year 3-4: Comparative Fiqh            │
-│ Year 5+: Madhhab specialization       │
-│                                        │
-│ Texts studied:                        │
-│ - Al-Risāla (Shāfi'ī)                 │
-│ - Al-Muwāfaqāt (Shāṭibī)              │
-│ - Bidāyat al-Mujtahid (Ibn Rushd)     │
-└────────────────────────────────────────┘
-\`\`\`
+<!-- INFOBOX:azhar-curriculum -->
 
 ---
 
@@ -196,18 +176,7 @@ The 4 madhhabs must answer **unprecedented questions**:
 
 Can one **mix** opinions from different schools?
 
-\`\`\`
-THE TALFĪQ DEBATE
-┌────────────────────────────────────────┐
-│ ❌ Traditionalists: No, follow        │
-│    one madhhab                         │
-│                                        │
-│ ✅ Reformists: Yes, with rules:       │
-│    - Don't seek the easiest           │
-│    - Have a valid reason              │
-│    - Consult a scholar                │
-└────────────────────────────────────────┘
-\`\`\`
+<!-- INFOBOX:talfiq-debate -->
 
 ### 3. The Salafist Movement
 

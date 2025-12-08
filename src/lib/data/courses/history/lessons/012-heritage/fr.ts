@@ -116,15 +116,7 @@ Comment un héritage peut-il rester aussi **dynamique** après tant de siècles 
 
 ### Exemple Concret : La Prière
 
-\`\`\`
-POSITIONS DES MAINS DANS LA PRIÈRE
-┌────────────────────────────────────────┐
-│ 🟢 Hanafi : Sous le nombril           │
-│ 🟡 Maliki : Le long du corps          │
-│ 🔵 Shafi'i : Sur la poitrine          │
-│ 🟣 Hanbali : Sur la poitrine          │
-└────────────────────────────────────────┘
-\`\`\`
+<!-- INFOBOX:prayer-hands -->
 
 Un musulman **identifie** son madhhab souvent par la façon dont il **prie**.
 
@@ -162,19 +154,7 @@ Un musulman **identifie** son madhhab souvent par la façon dont il **prie**.
 
 ### Cursus Universitaires
 
-\`\`\`
-EXEMPLE : CURSUS D'AL-AZHAR
-┌────────────────────────────────────────┐
-│ Année 1-2 : Uṣūl al-Fiqh (Fondements) │
-│ Année 3-4 : Fiqh comparé              │
-│ Année 5+ : Spécialisation madhhab     │
-│                                        │
-│ Textes étudiés :                      │
-│ - Al-Risāla (Shāfi'ī)                 │
-│ - Al-Muwāfaqāt (Shāṭibī)              │
-│ - Bidāyat al-Mujtahid (Ibn Rushd)     │
-└────────────────────────────────────────┘
-\`\`\`
+<!-- INFOBOX:azhar-curriculum -->
 
 ---
 
@@ -196,18 +176,7 @@ Les 4 madhhabs doivent répondre à des **questions inédites** :
 
 Peut-on **mélanger** les avis de différentes écoles ?
 
-\`\`\`
-LE DÉBAT SUR LE TALFĪQ
-┌────────────────────────────────────────┐
-│ ❌ Traditionalistes : Non, suivre     │
-│    un seul madhhab                     │
-│                                        │
-│ ✅ Réformistes : Oui, avec règles :   │
-│    - Ne pas chercher le plus facile   │
-│    - Avoir une raison valide          │
-│    - Consulter un savant              │
-└────────────────────────────────────────┘
-\`\`\`
+<!-- INFOBOX:talfiq-debate -->
 
 ### 3. Le Mouvement Salafiste
 
@@ -318,10 +287,10 @@ Ces qualités inspirent les musulmans **au-delà** des questions juridiques.
 
 | Ouvrage | Auteur |
 |---------|--------|
-| *An Introduction to Islamic Law* | Wael Hallaq |
-| *The Formation of Islamic Law* | Wael Hallaq |
-| *Sharī'a: Theory, Practice, Transformations* | Wael Hallaq |
-| *Islamic Legal Interpretation: Muftis and Their Fatwas* | Masud, Messick, Powers |
+| *Introduction à la Loi Islamique* | Wael Hallaq |
+| *La Formation du Droit Islamique* | Wael Hallaq |
+| *La Sharī'a : Théorie, Pratique, Transformations* | Wael Hallaq |
+| *L'Interprétation Juridique Islamique : Les Muftis et leurs Fatwas* | Masud, Messick, Powers |
 
 ---
 

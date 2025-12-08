@@ -5,6 +5,7 @@
  */
 
 import type { MindMapData } from '@/components/mindmap';
+import type { InfoBoxData } from '@/components/mindmap/InfoBox';
 
 // Type pour les labels multilingues
 interface MultiLangLabel {
@@ -2069,6 +2070,326 @@ export const lessonMindMapsMultiLang: Record<string, MindMapDataMultiLang> = {
   'history:003-rencontres': imamsChainData,
   'les-4-grands-imams:003-rencontres': imamsChainData,
 };
+
+// ============================================
+// EXPANSION TIMELINE DATA (Lesson 010-geographie)
+// ============================================
+
+import type { ExpansionTimelineData } from '@/components/mindmap';
+
+// Hanafi Expansion - Ottoman Empire
+export const hanafiExpansionData: ExpansionTimelineData = {
+  title: 'Hanafi Expansion',
+  titleAr: 'التوسع الحنفي',
+  titleFr: 'L\'expansion Hanafite',
+  school: 'hanafi',
+  steps: [
+    {
+      id: 'abbasid',
+      label: 'Abbasid Adoption',
+      labelAr: 'التبني العباسي',
+      labelFr: 'Adoption Abbasside',
+      description: 'Abu Yusuf as Grand Qadi (2nd century AH)',
+      descriptionAr: 'أبو يوسف قاضي القضاة (القرن ٢ هـ)',
+      descriptionFr: 'Abu Yusuf Grand Qadi (2ème siècle H.)',
+    },
+    {
+      id: 'ottoman',
+      label: 'Ottoman Empire',
+      labelAr: 'الإمبراطورية العثمانية',
+      labelFr: 'Empire Ottoman',
+      description: 'Official madhab (1299-1922): Balkans, Anatolia, Middle East, Egypt, North Africa',
+      descriptionAr: 'المذهب الرسمي (١٢٩٩-١٩٢٢): البلقان، الأناضول، الشرق الأوسط، مصر، شمال أفريقيا',
+      descriptionFr: 'Madhab officiel (1299-1922): Balkans, Anatolie, Moyen-Orient, Égypte, Afrique du Nord',
+      highlight: true,
+    },
+    {
+      id: 'mughal',
+      label: 'Mughal Empire',
+      labelAr: 'إمبراطورية المغول',
+      labelFr: 'Empire Moghol',
+      description: 'India (16th-19th century): Fatawa Alamgiriyya',
+      descriptionAr: 'الهند (القرن ١٦-١٩): الفتاوى العالمكيرية',
+      descriptionFr: 'Inde (16e-19e siècle): Fatawa Alamgiriyya',
+    },
+    {
+      id: 'silkroad',
+      label: 'Silk Roads',
+      labelAr: 'طرق الحرير',
+      labelFr: 'Routes de la Soie',
+      description: 'Merchants from Baghdad and Central Asia brought Hanafi fiqh to China',
+      descriptionAr: 'التجار من بغداد وآسيا الوسطى حملوا الفقه الحنفي إلى الصين',
+      descriptionFr: 'Les marchands de Bagdad et d\'Asie centrale apportèrent le fiqh hanafite en Chine',
+    },
+  ],
+};
+
+// Maliki Expansion - North & West Africa
+export const malikiExpansionData: ExpansionTimelineData = {
+  title: 'Maliki Expansion',
+  titleAr: 'التوسع المالكي',
+  titleFr: 'L\'expansion Malikite',
+  school: 'maliki',
+  steps: [
+    {
+      id: 'madinah',
+      label: 'Madinah - The Source',
+      labelAr: 'المدينة - المصدر',
+      labelFr: 'Médine - La Source',
+      description: 'Moroccan students studied with Malik: Sahnun, Ibn al-Qasim, Yahya al-Laythi',
+      descriptionAr: 'طلاب من المغرب درسوا مع مالك: سحنون، ابن القاسم، يحيى الليثي',
+      descriptionFr: 'Des étudiants maghrébins étudièrent avec Malik: Sahnun, Ibn al-Qasim, Yahya al-Laythi',
+    },
+    {
+      id: 'egypt',
+      label: 'Egypt',
+      labelAr: 'مصر',
+      labelFr: 'Égypte',
+      description: 'Transit point for North African scholars',
+      descriptionAr: 'نقطة عبور لعلماء شمال أفريقيا',
+      descriptionFr: 'Point de transit pour les savants nord-africains',
+    },
+    {
+      id: 'qayrawan',
+      label: 'Qayrawan (Tunisia)',
+      labelAr: 'القيروان (تونس)',
+      labelFr: 'Kairouan (Tunisie)',
+      description: 'Sahnun appointed Grand Qadi (234 AH) - Aghlabid adoption',
+      descriptionAr: 'سحنون عُيّن قاضي القضاة (٢٣٤ هـ) - تبني الأغالبة',
+      descriptionFr: 'Sahnun nommé Grand Qadi (234 H.) - Adoption Aghlabide',
+      highlight: true,
+    },
+    {
+      id: 'maghreb',
+      label: 'Morocco & Al-Andalus',
+      labelAr: 'المغرب والأندلس',
+      labelFr: 'Maroc et Al-Andalus',
+      description: 'Almoravids & Almohads spread Maliki across the region',
+      descriptionAr: 'المرابطون والموحدون نشروا المالكي في المنطقة',
+      descriptionFr: 'Les Almoravides et Almohades répandirent le Malikisme dans la région',
+      highlight: true,
+    },
+    {
+      id: 'westafrica',
+      label: 'West Africa',
+      labelAr: 'غرب أفريقيا',
+      labelFr: 'Afrique de l\'Ouest',
+      description: 'Saharan trade routes: Timbuktu, Kano, Senegal, Mauritania',
+      descriptionAr: 'طرق التجارة الصحراوية: تمبكتو، كانو، السنغال، موريتانيا',
+      descriptionFr: 'Routes commerciales sahariennes: Tombouctou, Kano, Sénégal, Mauritanie',
+    },
+  ],
+};
+
+// Shafii Expansion - Maritime Routes
+export const shafiiExpansionData: ExpansionTimelineData = {
+  title: 'Shafii Expansion',
+  titleAr: 'التوسع الشافعي',
+  titleFr: 'L\'expansion Chaféite',
+  school: 'shafii',
+  steps: [
+    {
+      id: 'egypt',
+      label: 'Egypt - The Base',
+      labelAr: 'مصر - القاعدة',
+      labelFr: 'Égypte - La Base',
+      description: 'Al-Shafii died in Egypt (204 AH), his students established a strong presence',
+      descriptionAr: 'الشافعي مات في مصر (٢٠٤ هـ)، تلاميذه أسسوا حضورًا قويًا',
+      descriptionFr: 'Al-Chafi\'i mourut en Égypte (204 H.), ses étudiants établirent une forte présence',
+    },
+    {
+      id: 'ayyubid',
+      label: 'Ayyubid Dynasty',
+      labelAr: 'الأيوبيون',
+      labelFr: 'Dynastie Ayyoubide',
+      description: 'Saladin (Shafii) built schools and appointed Shafii judges',
+      descriptionAr: 'صلاح الدين (شافعي) بنى مدارس وعيّن قضاة شافعية',
+      descriptionFr: 'Saladin (Chaféite) construisit des écoles et nomma des juges chaféites',
+      highlight: true,
+    },
+    {
+      id: 'yemen',
+      label: 'Yemen - Maritime Hub',
+      labelAr: 'اليمن - مركز بحري',
+      labelFr: 'Yémen - Hub Maritime',
+      description: 'Hadrami traders (almost all Shafii) spread the madhab by sea',
+      descriptionAr: 'تجار حضرموت (تقريبًا كلهم شافعية) نشروا المذهب بحرًا',
+      descriptionFr: 'Les marchands Hadramis (presque tous Chaféites) répandirent le madhab par mer',
+    },
+    {
+      id: 'eastafrica',
+      label: 'East Africa',
+      labelAr: 'شرق أفريقيا',
+      labelFr: 'Afrique de l\'Est',
+      description: 'Swahili coast, Somalia, Djibouti, Comoros',
+      descriptionAr: 'الساحل السواحلي، الصومال، جيبوتي، جزر القمر',
+      descriptionFr: 'Côte swahilie, Somalie, Djibouti, Comores',
+    },
+    {
+      id: 'southeast',
+      label: 'Southeast Asia',
+      labelAr: 'جنوب شرق آسيا',
+      labelFr: 'Asie du Sud-Est',
+      description: 'Indonesia (250M Muslims), Malaysia, Brunei, Philippines',
+      descriptionAr: 'إندونيسيا (٢٥٠ مليون مسلم)، ماليزيا، بروناي، الفلبين',
+      descriptionFr: 'Indonésie (250M musulmans), Malaisie, Brunei, Philippines',
+      highlight: true,
+    },
+  ],
+};
+
+// Hanbali Expansion - Arabian Peninsula
+export const hanbaliExpansionData: ExpansionTimelineData = {
+  title: 'Hanbali Expansion',
+  titleAr: 'التوسع الحنبلي',
+  titleFr: 'L\'expansion Hanbalite',
+  school: 'hanbali',
+  steps: [
+    {
+      id: 'baghdad',
+      label: 'Baghdad - The Base',
+      labelAr: 'بغداد - القاعدة',
+      labelFr: 'Bagdad - La Base',
+      description: 'Ahmad died in Baghdad (241 AH), minority presence against official Hanafism',
+      descriptionAr: 'أحمد مات في بغداد (٢٤١ هـ)، حضور أقلية أمام الحنفية الرسمية',
+      descriptionFr: 'Ahmad mourut à Bagdad (241 H.), présence minoritaire face au hanafisme officiel',
+    },
+    {
+      id: 'ibntaymiyya',
+      label: 'Ibn Taymiyya Revival',
+      labelAr: 'إحياء ابن تيمية',
+      labelFr: 'Renouveau d\'Ibn Taymiyya',
+      description: '14th century: Criticized innovations, called for return to texts, taught Ibn al-Qayyim',
+      descriptionAr: 'القرن ١٤: انتقد البدع، دعا للرجوع للنصوص، علّم ابن القيم',
+      descriptionFr: '14e siècle: Critiqua les innovations, appela au retour aux textes, enseigna Ibn al-Qayyim',
+    },
+    {
+      id: 'wahhabi',
+      label: 'Saudi-Wahhabi Alliance',
+      labelAr: 'التحالف السعودي-الوهابي',
+      labelFr: 'Alliance Saoudienne-Wahhabite',
+      description: 'Muhammad ibn Abd al-Wahhab + Muhammad ibn Saud (1744)',
+      descriptionAr: 'محمد بن عبد الوهاب + محمد بن سعود (١٧٤٤)',
+      descriptionFr: 'Muhammad ibn Abd al-Wahhab + Muhammad ibn Saud (1744)',
+      highlight: true,
+    },
+    {
+      id: 'saudiarabia',
+      label: 'Kingdom of Saudi Arabia',
+      labelAr: 'المملكة العربية السعودية',
+      labelFr: 'Royaume d\'Arabie Saoudite',
+      description: '20th century: Official madhab of the kingdom, Qatar, parts of UAE',
+      descriptionAr: 'القرن ٢٠: المذهب الرسمي للمملكة، قطر، أجزاء من الإمارات',
+      descriptionFr: '20e siècle: Madhab officiel du royaume, Qatar, parties des EAU',
+      highlight: true,
+    },
+  ],
+};
+
+// ============================================
+// INFO BOX DATA (Lessons 011-critiques, 012-heritage)
+// ============================================
+
+// Abu Hanifa's Criteria (Lesson 011)
+export const hanafiCriteriaData: InfoBoxData = {
+  title: 'Abu Hanifa\'s Criteria',
+  titleAr: 'معايير أبي حنيفة',
+  titleFr: 'Critères d\'Abu Hanifa',
+  type: 'criteria',
+  school: 'hanafi',
+  items: [
+    { id: '1', text: 'Lone-narrator hadith contradicting practice of Madinah people', textAr: 'حديث آحاد يُخالف عمل أهل المدينة', textFr: 'Hadith isolé contredisant la pratique des gens de Médine', status: 'reject' },
+    { id: '2', text: 'Hadith with unknown narrator', textAr: 'حديث راويه مجهول', textFr: 'Hadith dont le narrateur est inconnu', status: 'reject' },
+    { id: '3', text: 'Hadith contradicting the Quran', textAr: 'حديث يُعارض القرآن', textFr: 'Hadith contredisant le Coran', status: 'reject' },
+    { id: '4', text: 'Mutawatir or well-known hadith', textAr: 'حديث متواتر أو مشهور', textFr: 'Hadith mutawatir ou bien connu', status: 'accept' },
+  ],
+};
+
+// Malik's Logic (Lesson 011)
+export const malikLogicData: InfoBoxData = {
+  title: 'Imam Malik\'s Logic',
+  titleAr: 'منطق الإمام مالك',
+  titleFr: 'Logique de l\'Imam Malik',
+  type: 'logic',
+  school: 'maliki',
+  items: [
+    { id: '1', text: 'If 10,000 people of Madinah practice (X)', textAr: 'إذا كان 10,000 من أهل المدينة يعملون بـ (س)', textFr: 'Si 10 000 habitants de Médine pratiquent (X)', status: 'neutral' },
+    { id: '2', text: 'And a lone-narrator hadith says (Y)', textAr: 'وحديث آحاد يقول (ص)', textFr: 'Et qu\'un hadith isolé dit (Y)', status: 'neutral' },
+    { id: '3', text: '→ (X) is more reliable as collective transmission', textAr: '→ (س) أوثق لأنه نقل جماعي', textFr: '→ (X) est plus fiable car transmission collective', status: 'accept' },
+  ],
+};
+
+// Ahmad's Ranking (Lesson 011)
+export const ahmadRankingData: InfoBoxData = {
+  title: 'Ahmad\'s Ranking',
+  titleAr: 'ترتيب أحمد',
+  titleFr: 'Classement d\'Ahmad',
+  type: 'ranking',
+  school: 'hanbali',
+  items: [
+    { id: '1', text: 'The Quran', textAr: 'القرآن', textFr: 'Le Coran' },
+    { id: '2', text: 'The Sunnah', textAr: 'السنة', textFr: 'La Sunna' },
+    { id: '3', text: 'Sayings of the Companions', textAr: 'أقوال الصحابة', textFr: 'Paroles des Compagnons' },
+    { id: '4', text: 'Mursal or weak hadith', textAr: 'حديث مرسل أو ضعيف', textFr: 'Hadith mursal ou faible' },
+    { id: '5', text: 'Qiyas (if necessary)', textAr: 'القياس (إن لزم)', textFr: 'Qiyas (si nécessaire)' },
+  ],
+};
+
+// Hand Position in Prayer (Lesson 012)
+export const prayerHandsData: InfoBoxData = {
+  title: 'Hand Position in Prayer',
+  titleAr: 'وضع اليدين في الصلاة',
+  titleFr: 'Position des mains dans la prière',
+  type: 'comparison',
+  items: [
+    { id: '1', text: 'Hanafi: Below the navel', textAr: 'الحنفية: تحت السرة', textFr: 'Hanafi: Sous le nombril', school: 'hanafi' },
+    { id: '2', text: 'Maliki: By the sides (Irsal)', textAr: 'المالكية: على الجانبين (الإرسال)', textFr: 'Maliki: Sur les côtés (Irsal)', school: 'maliki' },
+    { id: '3', text: 'Shafi\'i: On the chest', textAr: 'الشافعية: على الصدر', textFr: 'Chafi\'i: Sur la poitrine', school: 'shafii' },
+    { id: '4', text: 'Hanbali: On the chest', textAr: 'الحنابلة: على الصدر', textFr: 'Hanbali: Sur la poitrine', school: 'hanbali' },
+  ],
+};
+
+// Al-Azhar Curriculum (Lesson 012)
+export const azharCurriculumData: InfoBoxData = {
+  title: 'Example: Al-Azhar Curriculum',
+  titleAr: 'مثال: منهج الأزهر',
+  titleFr: 'Exemple: Cursus d\'Al-Azhar',
+  type: 'curriculum',
+  items: [
+    { id: '1', text: 'Year 1-2: Usul al-Fiqh (Principles)', textAr: 'السنة 1-2: أصول الفقه', textFr: 'Année 1-2: Usul al-Fiqh (Principes)' },
+    { id: '2', text: 'Year 3-4: Comparative Fiqh', textAr: 'السنة 3-4: الفقه المقارن', textFr: 'Année 3-4: Fiqh comparé' },
+    { id: '3', text: 'Year 5+: Specialization in one madhab', textAr: 'السنة 5+: التخصص في مذهب', textFr: 'Année 5+: Spécialisation dans un madhab' },
+    { id: '4', text: 'Key texts studied:', textAr: 'النصوص المدروسة:', textFr: 'Textes étudiés:' },
+    { id: '5', text: '- Al-Risala (Al-Shafi\'i)', textAr: '- الرسالة (الشافعي)', textFr: '- Al-Risala (Al-Chafi\'i)', icon: '📖' },
+    { id: '6', text: '- Al-Muwafaqat (Al-Shatibi)', textAr: '- الموافقات (الشاطبي)', textFr: '- Al-Muwafaqat (Al-Shatibi)', icon: '📖' },
+    { id: '7', text: '- Bidayat al-Mujtahid (Ibn Rushd)', textAr: '- بداية المجتهد (ابن رشد)', textFr: '- Bidayat al-Mujtahid (Ibn Rushd)', icon: '📖' },
+  ],
+};
+
+// Talfiq Debate (Lesson 012)
+export const talfiqDebateData: InfoBoxData = {
+  title: 'The Talfiq Debate',
+  titleAr: 'الجدل حول التلفيق',
+  titleFr: 'Le débat sur le Talfiq',
+  type: 'debate',
+  items: [
+    { id: '1', text: 'Traditionalists: No, follow one madhab', textAr: 'التقليديون: لا، اتباع مذهب واحد', textFr: 'Traditionalistes: Non, suivre un seul madhab', status: 'reject' },
+    { id: '2', text: 'Reformists: Yes, with knowledge and justification', textAr: 'المجددون: نعم، بعلم وتبرير', textFr: 'Réformistes: Oui, avec connaissance et justification', status: 'accept' },
+  ],
+};
+
+// Helper function to get InfoBox data by key
+export function getInfoBoxData(key: string): InfoBoxData | undefined {
+  const infoBoxDataMap: Record<string, InfoBoxData> = {
+    'hanafi-criteria': hanafiCriteriaData,
+    'malik-logic': malikLogicData,
+    'ahmad-ranking': ahmadRankingData,
+    'prayer-hands': prayerHandsData,
+    'azhar-curriculum': azharCurriculumData,
+    'talfiq-debate': talfiqDebateData,
+  };
+  return infoBoxDataMap[key];
+}
 
 // Get mindmap by lesson ID with locale
 // Supports both 'course:lesson-id' format and legacy 'lesson-id' format
