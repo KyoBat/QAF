@@ -130,7 +130,7 @@ export const content = `# 📜 صَلَاةُ الِاسْتِسْقَاءِ —
 | 🏜️ **Drought** | No rain | Istisqa' prayer in congregation |
 | 🏙️ **City** | No outdoor musalla | Permissible in mosque |
 | 🌧️ **Excessive rain** | Floods | Du'a: "Allahumma hawalaina wa la 'alaina" |
-| 🙏 **Urgent need** | No time to go out | Individual du'a anytime |
+| 🤲 **Urgent need** | No time to go out | Individual du'a anytime |
 
 ---
 

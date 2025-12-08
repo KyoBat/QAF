@@ -220,7 +220,7 @@ export const qadarData: MindMapDataMultiLang = {
       children: [
         { id: 'rida', label: { ar: 'الرضا', en: 'Contentment', fr: 'Agrément' }, icon: '😊' },
         { id: 'sabr', label: { ar: 'الصبر', en: 'Patience', fr: 'Patience' }, icon: '💪' },
-        { id: 'istirja', label: { ar: 'الاسترجاع', en: 'Saying Inna lillah', fr: 'Dire Inna lillah' }, icon: '🙏' },
+        { id: 'istirja', label: { ar: 'الاسترجاع', en: 'Saying Inna lillah', fr: 'Dire Inna lillah' }, icon: '🤲' },
         { id: 'no-blame', label: { ar: 'عدم التسخط', en: 'No resentment', fr: 'Pas de ressentiment' }, icon: '❌' },
       ],
     },
@@ -269,7 +269,7 @@ export const arkanTawhidData: MindMapDataMultiLang = {
         { id: 'sacrifice', label: { ar: 'الذبح', en: 'Sacrifice', fr: 'Sacrifice' }, icon: '🐑' },
         { id: 'vow', label: { ar: 'النذر', en: 'Vow', fr: 'Vœu' }, icon: '📜' },
         { id: 'fear', label: { ar: 'الخوف', en: 'Fear', fr: 'Crainte' }, icon: '😨' },
-        { id: 'hope', label: { ar: 'الرجاء', en: 'Hope', fr: 'Espoir' }, icon: '🙏' },
+        { id: 'hope', label: { ar: 'الرجاء', en: 'Hope', fr: 'Espoir' }, icon: '🤲' },
         { id: 'love', label: { ar: 'المحبة', en: 'Love', fr: 'Amour' }, icon: '❤️' },
       ],
     },
@@ -666,7 +666,7 @@ export const salatObligatoryData: MindMapDataMultiLang = {
       children: [
         { id: 'takbirs-move', label: { ar: 'تكبيرات الانتقال', en: 'Transition takbirs', fr: 'Takbirs de transition' }, icon: '🔊' },
         { id: 'sami-allah', label: { ar: 'سمع الله لمن حمده', en: 'Sami Allah...', fr: 'Sami Allah...' }, icon: '🗣️' },
-        { id: 'rabbana-hamd', label: { ar: 'ربنا ولك الحمد', en: 'Rabbana wa laka al-hamd', fr: 'Rabbana wa laka al-hamd' }, icon: '🙏' },
+        { id: 'rabbana-hamd', label: { ar: 'ربنا ولك الحمد', en: 'Rabbana wa laka al-hamd', fr: 'Rabbana wa laka al-hamd' }, icon: '🤲' },
         { id: 'tasbih-ruku', label: { ar: 'تسبيح الركوع', en: 'Tasbih in ruku', fr: 'Tasbih en ruku' }, icon: '🔁' },
         { id: 'tasbih-sujud', label: { ar: 'تسبيح السجود', en: 'Tasbih in sujud', fr: 'Tasbih en sujud' }, icon: '🧎' },
         { id: 'dua-between', label: { ar: 'رب اغفر لي', en: 'Rabbighfir li', fr: 'Rabbi ighfir li' }, icon: '📝' },
@@ -1042,7 +1042,7 @@ export const tawheedRububiyyahData: MindMapDataMultiLang = {
       children: [
         { id: 'tawakkul', label: { ar: 'التوكل على الله', en: 'Trust in Allah', fr: 'Confiance en Allah' }, icon: '🤲' },
         { id: 'tranquility', label: { ar: 'طمأنينة القلب', en: 'Peace of heart', fr: 'Sérénité du coeur' }, icon: '😌' },
-        { id: 'gratitude', label: { ar: 'الشكر لله', en: 'Gratitude to Allah', fr: 'Gratitude envers Allah' }, icon: '🙏' },
+        { id: 'gratitude', label: { ar: 'الشكر لله', en: 'Gratitude to Allah', fr: 'Gratitude envers Allah' }, icon: '🤲' },
       ],
     },
   ],
@@ -1075,7 +1075,7 @@ export const tawheedUluhiyyahData: MindMapDataMultiLang = {
       color: '#7b2cbf',
       children: [
         { id: 'salah', label: { ar: 'الصلاة', en: 'Prayer', fr: 'Prière' }, icon: '🕌' },
-        { id: 'dua', label: { ar: 'الدعاء', en: 'Supplication', fr: 'Invocation' }, icon: '🙏' },
+        { id: 'dua', label: { ar: 'الدعاء', en: 'Supplication', fr: 'Invocation' }, icon: '🤲' },
         { id: 'dhikr', label: { ar: 'الذكر', en: 'Remembrance', fr: 'Rappel' }, icon: '📿' },
         { id: 'nidhr', label: { ar: 'النذر', en: 'Vow', fr: 'Voeu' }, icon: '📜' },
         { id: 'dhabh', label: { ar: 'الذبح', en: 'Sacrifice', fr: 'Sacrifice' }, icon: '🐑' },
@@ -1240,7 +1240,7 @@ export const malaikaData: MindMapDataMultiLang = {
       children: [
         { id: 'awareness', label: { ar: 'مراقبة النفس', en: 'Self-awareness', fr: 'Conscience de soi' }, icon: '👁️' },
         { id: 'love', label: { ar: 'محبتهم', en: 'Love for them', fr: 'Les aimer' }, icon: '❤️' },
-        { id: 'gratitude', label: { ar: 'شكر الله', en: 'Gratitude to Allah', fr: 'Gratitude envers Allah' }, icon: '🙏' },
+        { id: 'gratitude', label: { ar: 'شكر الله', en: 'Gratitude to Allah', fr: 'Gratitude envers Allah' }, icon: '🤲' },
       ],
     },
   ],
@@ -1438,7 +1438,7 @@ export const yawmAkhirData: MindMapDataMultiLang = {
         { id: 'fear', label: { ar: 'الخوف من الله', en: 'Fear of Allah', fr: "Crainte d'Allah" }, icon: '😰' },
         { id: 'hope', label: { ar: 'الرجاء في رحمته', en: 'Hope in His mercy', fr: 'Espoir en Sa miséricorde' }, icon: '🌅' },
         { id: 'prepare', label: { ar: 'الاستعداد بالعمل', en: 'Prepare with deeds', fr: 'Se préparer par les actes' }, icon: '💪' },
-        { id: 'patience', label: { ar: 'الصبر على البلاء', en: 'Patience in trials', fr: 'Patience dans les épreuves' }, icon: '🙏' },
+        { id: 'patience', label: { ar: 'الصبر على البلاء', en: 'Patience in trials', fr: 'Patience dans les épreuves' }, icon: '🤲' },
       ],
     },
   ],
@@ -1482,7 +1482,7 @@ export const siyamIntroductionData: MindMapDataMultiLang = {
       icon: '✨',
       color: '#c9184a',
       children: [
-        { id: 'taqwa', label: { ar: 'التقوى', en: 'Piety (Taqwa)', fr: 'Piété (Taqwa)' }, icon: '🙏' },
+        { id: 'taqwa', label: { ar: 'التقوى', en: 'Piety (Taqwa)', fr: 'Piété (Taqwa)' }, icon: '🤲' },
         { id: 'purify', label: { ar: 'تزكية النفس', en: 'Soul purification', fr: 'Purification de l\'âme' }, icon: '💎' },
         { id: 'empathy', label: { ar: 'الشعور بالفقراء', en: 'Empathy for poor', fr: 'Empathie envers les pauvres' }, icon: '❤️' },
         { id: 'forgiveness', label: { ar: 'غفران الذنوب', en: 'Sins forgiven', fr: 'Pardon des péchés' }, icon: '🌟' },
