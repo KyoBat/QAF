@@ -14,15 +14,28 @@ export const content = `# 📜 The Religion is Sincere Advice — الدِّين
 
 ### 🔷 Arabic Text with Tashkīl
 
-On the authority of **Tamīm ad-Dārī** (may Allah be pleased with him), the Prophet ﷺ said:
+<div class="scene-box">
 
-**« الدِّينُ النَّصِيحَةُ »**
+**🟡 Narrator:** On the authority of **Tamīm ad-Dārī** رضي الله عنه, the Prophet ﷺ said:
 
-We said: "To whom?" He said:
+---
 
-**« للهِ، وَلِكِتَابِهِ، وَلِرَسُولِهِ، وَلأَئِمَّةِ الْمُسْلِمِينَ، وَعَامَّتِهِمْ »**
+**🟢 The Prophet ﷺ:** "الدِّينُ النَّصِيحَةُ" — *The religion is sincere advice.*
 
-**"The religion is sincere advice (naṣīḥa)." We said: "To whom?" He said: "To Allah, to His Book, to His Messenger, to the leaders of the Muslims, and to the common Muslims."**
+---
+
+**🔵 The Companions:** To whom, O Messenger of Allah?
+
+---
+
+**🟢 The Prophet ﷺ:** 
+"**للهِ** — To Allah
+**وَلِكِتَابِهِ** — To His Book
+**وَلِرَسُولِهِ** — To His Messenger
+**وَلأَئِمَّةِ الْمُسْلِمِينَ** — To the leaders of the Muslims
+**وَعَامَّتِهِمْ** — And to the common Muslims."
+
+</div>
 
 ---
 

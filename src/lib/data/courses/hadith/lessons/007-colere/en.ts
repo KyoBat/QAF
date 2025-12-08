@@ -14,23 +14,33 @@ export const content = `# 📜 لَا تَغْضَبْ — Do Not Get Angry
 
 ### 🔷 Arabic Text with Full Tashkil
 
-عَنْ **أَبِي هُرَيْرَةَ** رَضِيَ اللهُ عَنْهُ أَنَّ رَجُلًا قَالَ لِلنَّبِيِّ ﷺ: **أَوْصِنِي**. قَالَ:
+<div class="scene-box">
 
-**« لَا تَغْضَبْ »**
+**🟡 Narrator:** On the authority of **Abu Hurayra** رضي الله عنه:
 
-فَرَدَّدَ مِرَارًا، قَالَ:
+---
 
-**« لَا تَغْضَبْ »**
+**🔵 A man:** O Messenger of Allah, **advise me!**
 
-### 🔷 English Translation
+**🟢 The Prophet ﷺ:** "لَا تَغْضَبْ" — *Do not get angry.*
 
-On the authority of **Abu Hurayra** — may Allah be pleased with him — : A man said to the Prophet ﷺ: **"Advise me."** He said:
+---
 
-**"Do not get angry."**
+**🔵 The man:** Advise me!
 
-The man repeated [his request] several times, and [the Prophet ﷺ] said [each time]:
+**🟢 The Prophet ﷺ:** "لَا تَغْضَبْ" — *Do not get angry.*
 
-**"Do not get angry."**
+---
+
+**🔵 The man:** Advise me!
+
+**🟢 The Prophet ﷺ:** "لَا تَغْضَبْ" — *Do not get angry.*
+
+---
+
+**🟡 Narrator:** The man repeated [his request] several times, and [the Prophet ﷺ] said [each time]: **"Do not get angry."**
+
+</div>
 
 ---
 

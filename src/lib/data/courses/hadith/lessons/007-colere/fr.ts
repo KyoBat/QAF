@@ -14,23 +14,33 @@ export const content = `# 📜 لا تغضب — Ne te Mets pas en Colère
 
 ### 🔷 Texte Arabe avec Tashkil
 
-عَنْ **أَبِي هُرَيْرَةَ** رَضِيَ اللهُ عَنْهُ أَنَّ رَجُلًا قَالَ لِلنَّبِيِّ ﷺ: **أَوْصِنِي**. قَالَ:
+<div class="scene-box">
 
-**« لَا تَغْضَبْ »**
+**🟡 Narrateur:** D'après **Abu Hurayra** رضي الله عنه :
 
-فَرَدَّدَ مِرَارًا، قَالَ:
+---
 
-**« لَا تَغْضَبْ »**
+**🔵 Un homme:** Ô Messager d'Allah, **fais-moi une recommandation !**
 
-### 🔷 Traduction Française
+**🟢 Le Prophète ﷺ:** « لَا تَغْضَبْ » — *Ne te mets pas en colère.*
 
-D'après **Abu Hurayra** — qu'Allah l'agrée — : Un homme dit au Prophète ﷺ : **« Fais-moi une recommandation. »** Il dit :
+---
 
-**« Ne te mets pas en colère. »**
+**🔵 L'homme:** Fais-moi une recommandation !
 
-L'homme répéta [sa demande] plusieurs fois, et [le Prophète ﷺ] dit [à chaque fois] :
+**🟢 Le Prophète ﷺ:** « لَا تَغْضَبْ » — *Ne te mets pas en colère.*
 
-**« Ne te mets pas en colère. »**
+---
+
+**🔵 L'homme:** Fais-moi une recommandation !
+
+**🟢 Le Prophète ﷺ:** « لَا تَغْضَبْ » — *Ne te mets pas en colère.*
+
+---
+
+**🟡 Narrateur:** L'homme répéta [sa demande] plusieurs fois, et [le Prophète ﷺ] dit [à chaque fois] : **« Ne te mets pas en colère. »**
+
+</div>
 
 ---
 

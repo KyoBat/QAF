@@ -14,15 +14,28 @@ export const content = `# 📜 La Religion c'est le Conseil Sincère — الد�
 
 ### 🔷 Texte Arabe Vocalisé
 
-D'après **Tamīm ad-Dārī** رضي الله عنه, le Prophète ﷺ a dit :
+<div class="scene-box">
 
-**« الدِّينُ النَّصِيحَةُ »**
+**🟡 Narrateur:** D'après **Tamīm ad-Dārī** رضي الله عنه, le Prophète ﷺ a dit :
 
-قُلْنَا: لِمَنْ؟ قَالَ:
+---
 
-**« للهِ، وَلِكِتَابِهِ، وَلِرَسُولِهِ، وَلأَئِمَّةِ الْمُسْلِمِينَ، وَعَامَّتِهِمْ »**
+**🟢 Le Prophète ﷺ:** « الدِّينُ النَّصِيحَةُ » — *La religion, c'est le conseil sincère.*
 
-*« La religion, c'est le conseil sincère (naṣīḥa). » Nous avons dit : « Pour qui ? » Il a dit : « Pour Allah, pour Son Livre, pour Son Messager, pour les dirigeants des musulmans, et pour le commun des musulmans. »*
+---
+
+**🔵 Les Compagnons:** Pour qui, ô Messager d'Allah ?
+
+---
+
+**🟢 Le Prophète ﷺ:** 
+« **للهِ** — Pour Allah
+**وَلِكِتَابِهِ** — Pour Son Livre
+**وَلِرَسُولِهِ** — Pour Son Messager
+**وَلأَئِمَّةِ الْمُسْلِمِينَ** — Pour les dirigeants des musulmans
+**وَعَامَّتِهِمْ** — Et pour leur masse. »
+
+</div>
 
 ---
 
