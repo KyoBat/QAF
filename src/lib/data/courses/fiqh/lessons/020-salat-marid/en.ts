@@ -3,242 +3,213 @@
  * English Content - Multi-Madhhab Approach (Maliki Priority)
  */
 
-export const content = `# 📜 Fiqh of Special Prayers
+export const content = `# 📜 صَلَاةُ الْمَرِيضِ — Prayer of the Sick
 
-## 📖 Prayer of the Sick (Salat Al-Marid)
-
-All praise be to Allah who did not burden His servants with what they cannot bear. May peace and blessings be upon our Prophet Muhammad ﷺ who taught us the facilitations for the sick. Illness never exempts one from prayer as long as the mind is present.
-
-> Allah تعالى says: **"Fear Allah as much as you are able"** — At-Taghabun: 16
-
-<div class="scene-box">
-
-**🎭 The Scene of 'Imran ibn Husayn — The Foundation for Prayer of the Sick**
-
-*'Imran ibn Husayn رضي الله عنه was suffering from hemorrhoids...*
-
-*He could not sit, let alone stand...*
-
-*He went to ask the Prophet ﷺ how to pray:*
-
-**The Prophet ﷺ:** "Pray standing, if you cannot then sitting, if you cannot then on your side"
-
-</div>
-
-**📍 Narrator:** 'Imran ibn Husayn رضي الله عنه — Al-Bukhari (1117)
-
-> 📌 **Lesson:** This monumental hadith shows that prayer never falls away, it adapts according to one's ability.
+> *"Pray standing, if you cannot then sitting, if you cannot then on your side"* — Illness never exempts one from prayer as long as the mind is present.
 
 ---
 
-## 🔍 1. Fundamental Principle
+## 📜 Foundational Texts (النصوص الأساسية)
 
-### 📌 Prayer never falls away
+### Qur'anic Verses
+
+> **﴾ Fear Allah as much as you are able ﴿**
+> *So fear Allah as much as you can*
+> — [At-Taghabun: 16]
+
+> **﴾ Allah does not burden a soul beyond that it can bear ﴿**
+> *Allah does not charge a soul except [with that within] its capacity*
+> — [Al-Baqarah: 286]
+
+### Prophetic Hadith
+
+> On the authority of **'Imran ibn Husayn** رضي الله عنه who said: I had hemorrhoids, so I asked the Prophet ﷺ about prayer, and he said:
+> **"Pray standing, if you cannot then sitting, if you cannot then on your side"**
+> — Al-Bukhari (1117)
+
+### 📚 Referencing (التخريج)
+
+| Source | Number | Ruling |
+|--------|--------|--------|
+| **Sahih Al-Bukhari** | 1117 | ✅ Authentic |
+
+---
+
+## 🎓 Scholarly Sayings (أقوال العلماء)
+
+> **Imam Malik** رحمه الله said in *Al-Mudawwana*:
+> *"The sick person prays according to his ability: standing, sitting, or lying down."*
+
+> **Ibn Qudama** رحمه الله said in *Al-Mughni*:
+> *"Prayer does not fall away due to illness as long as the mind is present."*
+
+---
+
+## 🔍 Linguistic Analysis (التحليل اللغوي)
+
+### Vocabulary Table
+
+| Term | Root | Technical Definition |
+|------|------|----------------------|
+| **Qa'im (قَائِم)** | ق-و-م | Praying while standing |
+| **Qa'id (قَاعِد)** | ق-ع-د | Praying while sitting |
+| **Mudtaji' (مُضْطَجِع)** | ض-ج-ع | Praying on one's side |
+| **Ima' (إِيمَاء)** | و-م-أ | Gesturing with head or eyes |
+
+---
+
+## 📚 Detailed Explanation (الشرح المفصل)
+
+### 🔷 Fundamental Principle
+
+**Prayer never falls away** as long as the mind is present.
 
 | Principle | Explanation |
 |-----------|-------------|
-| **As long as the mind is present** | The conscious sick person must pray |
+| **Mind is present** | The conscious sick person must pray |
 | **According to ability** | Do what you can, leave what you cannot |
-| **No make-up if unconscious** | Insanity and prolonged fainting exempt |
+| **No make-up if unconscious** | Prolonged insanity and fainting exempt |
 
-> 💡 **Golden Rule:** Prayer is the last pillar to fall. Even the dying must pray by signs if able.
+> 💡 **Golden Rule:** Prayer is the last to fall away.
 
----
+### 🔷 Prayer Positions in Order of Priority
 
-## 🔷 2. Prayer Positions in Order of Priority
+| Priority | Position | Condition |
+|----------|----------|-----------|
+| 1️⃣ | **Standing** | Obligatory if able |
+| 2️⃣ | **Sitting** | If unable to stand |
+| 3️⃣ | **On one's side** | If unable to sit |
+| 4️⃣ | **On one's back** | If unable to lie on side |
+| 5️⃣ | **By gestures** | If unable to move at all |
 
-### 📋 Hierarchy of positions
-
-| Priority | Position | Arabic | Condition |
-|----------|----------|--------|-----------|
-| 1️⃣ | **Standing** | قائم | Obligatory if able |
-| 2️⃣ | **Sitting** | قاعد | If unable to stand |
-| 3️⃣ | **On one's side** | على جنب | If unable to sit |
-| 4️⃣ | **On one's back** | على ظهر | If unable to lie on side |
-| 5️⃣ | **By gestures** | بالإيماء | If unable to move at all |
-
-### 📌 Evidence
-
-> The Prophet ﷺ said: **"Pray standing, if you cannot then sitting, if you cannot then on your side"** — Al-Bukhari (1117)
-
-> In another narration: **"If you cannot, then on your back"** — An-Nasa'i
-
----
-
-## 📚 3. Standing Prayer with Support
-
-### 📋 When can one lean?
+### 🔷 Standing with Support
 
 | Situation | Ruling |
 |-----------|--------|
-| **Light support (cane, wall)** | Permitted if necessary |
-| **Full support (would fall without)** | Praying seated is better |
+| **Light support** | Permitted when needed |
+| **Full support** | Sitting is better |
 | **Leaning on a staff** | Permitted for elderly |
 
-### ⚠️ School opinions on leaning
+### 🔷 Sitting Prayer
 
-| School | Opinion |
-|--------|---------|
-| 🟡 **Maliki** | **Makruh** except for necessity |
-| 🟢 Hanafi | Permitted if needed |
-| 🔵 Shafi'i | Permitted but standing without support is better |
-| 🟣 Hanbali | Permitted if necessary |
+| Position | Ruling |
+|----------|--------|
+| **Cross-legged** | ✅ Recommended (Maliki) |
+| **Iftirash** | ✅ Permitted |
+| **As comfortable** | ✅ Permitted |
 
----
-
-## 🎯 4. Sitting Prayer
-
-### 📋 How to sit?
-
-| Position | Description | Ruling |
-|----------|-------------|--------|
-| **Tarabbu' (cross-legged)** | Legs crossed | ✅ Recommended (Maliki) |
-| **Iftirash** | Sitting on left foot | ✅ Permitted |
-| **As one wishes** | Any comfortable position | ✅ Permitted |
-
-### 📌 Bowing and prostrating while seated
-
-| Movement | How to do it |
-|----------|--------------|
-| **Ruku' (bowing)** | Lean forward |
-| **Sujud (prostration)** | Lean lower than ruku' |
-| **If unable to touch ground** | Lean as much as possible |
-
-### 📌 Reward of sitting prayer
+#### Reward of Sitting Prayer
 
 > The Prophet ﷺ said: **"The prayer of a man sitting is half of the prayer"** — Al-Bukhari (1115)
 
-> 💡 **Clarification:** This concerns someone **able** to stand who chooses to sit for nawafil. The **unable** sick person gets full reward.
+> 💡 **Clarification:** This is for one able to stand. The unable person receives full reward.
 
----
-
-## ⚖️ 5. Lying Down Prayer
-
-### 📋 On which side?
+### 🔷 Lying Down Prayer
 
 | Position | Priority | Direction |
 |----------|----------|-----------|
-| **Right side** | 1️⃣ Preferred | Face toward Qibla |
+| **Right side** | 1️⃣ Recommended | Face toward Qibla |
 | **Left side** | 2️⃣ If impossible | Face toward Qibla |
 | **On back** | 3️⃣ Last resort | Feet toward Qibla |
 
-### 📌 How to make the movements?
+### 🔷 Prayer by Gestures
 
-| Movement | Lying on side | Lying on back |
-|----------|---------------|---------------|
-| **Ruku'** | Nod the head | Nod the head |
-| **Sujud** | Nod deeper | Nod deeper |
-| **If impossible** | By intention | By intention |
+| Priority | Type of Gesture |
+|----------|-----------------|
+| 1️⃣ | **With the head** |
+| 2️⃣ | **With the eyes** |
+| 3️⃣ | **With the heart** |
 
----
-
-## 💡 6. Prayer by Gestures (الإيماء)
-
-### 📋 Hierarchy of gestures
-
-| Priority | Type of gesture | How |
-|----------|-----------------|-----|
-| 1️⃣ | **With the head** | Nod for ruku', deeper for sujud |
-| 2️⃣ | **With the eyes** | Close slightly for ruku', more for sujud |
-| 3️⃣ | **With the heart** | Pure intention of movements |
-
-### ⚠️ Points of view on eyes and heart gestures
-
-| School | Eyes/heart gestures |
-|--------|---------------------|
-| 🟡 **Maliki** | **Accepted** as last resort |
-| 🟢 Hanafi | Prayer falls if unable to use head |
-| 🔵 Shafi'i | Obligatory by eyes then heart |
-| 🟣 Hanbali | Obligatory as long as mind is present |
-
-> 💡 **Maliki Position:** As long as the sick person has their mind, they must pray even by heart intention alone.
-
----
-
-## 🔷 7. Purification for the Sick
-
-### 📋 Tahara rules for the sick
+### 🔷 Purification for the Sick
 
 | Situation | Ruling |
 |-----------|--------|
 | **Water harms them** | Tayammum obligatory |
 | **Unable to make wudu alone** | Someone helps them |
-| **Unable even with help** | Tayammum |
 | **Unable even for tayammum** | Pray without purification |
 
-### 📌 Impurity (najasa) on the sick
+---
 
-| Situation | Ruling |
-|-----------|--------|
-| **Can remove the impurity** | Obligatory |
-| **Cannot remove it** | Pray with it, prayer is valid |
-| **On bed/clothes** | Change if possible, otherwise pray on it |
+## ⚖️ Points of View of the Schools (آراء المذاهب)
 
-### ⚠️ Opinions on praying without purification
-
-| School | Praying without wudu or tayammum |
-|--------|----------------------------------|
-| 🟡 **Maliki** | **Permitted** if completely unable, no make-up |
-| 🟢 Hanafi | Must make up after recovery |
-| 🔵 Shafi'i | Pray and make up |
-| 🟣 Hanbali | Pray without make-up |
+| Issue | 🟡 Maliki | 🟢 Hanafi | 🔵 Shafi'i | 🟣 Hanbali |
+|-------|-----------|-----------|------------|------------|
+| **Gestures with eyes** | **Accepted** | Prayer falls | Obligatory | Obligatory |
+| **Prayer without purification** | **Permitted, no make-up** | Must make up | Pray and make up | No make-up |
+| **Leaning** | **Disliked except for need** | Permitted | Permitted | Permitted |
 
 ---
 
-## 📝 8. Special Cases
+## 🌍 Modern Applications (التطبيقات المعاصرة)
 
-### 📌 Patient under anesthesia
-
-| Duration | Ruling |
-|----------|--------|
-| **Short (few hours)** | Make up missed prayers |
-| **Long (several days)** | Make up all prayers |
-| **Very long with complications** | According to ability |
-
-### 📌 Unconscious patient
-
-| Duration of unconsciousness | Maliki Ruling |
-|-----------------------------|---------------|
-| **Less than 5 prayers** | Make up |
-| **5 prayers or more** | No make-up according to some |
-| **Continuous insanity** | No prayer or make-up |
-
-### 📌 Surgery during prayer time
-
-| Situation | Ruling |
-|-----------|--------|
-| **Can pray before surgery** | Obligatory |
-| **Time passes during surgery** | Make up after |
-| **General anesthesia** | Make up after waking |
-
-### 📌 Patient who recovers during prayer
-
-| Situation | Ruling |
-|-----------|--------|
-| **Becomes able to stand** | Stand and continue |
-| **Started sitting, can finish standing** | Must stand |
-| **Opposite (becomes unable)** | Sit and continue |
+| Situation | Problem | Shariah Solution |
+|-----------|---------|------------------|
+| 🏥 **Hospital** | Patient in bed | Pray lying down with gestures |
+| 💉 **Anesthesia** | Unconscious | Make up after waking |
+| 🩺 **Surgery** | Cannot move | Pray by gestures |
+| 🦽 **Wheelchair** | Cannot stand | Pray sitting |
 
 ---
 
-## 🎯 Summary
+## ⚠️ Common Mistakes (الأخطاء الشائعة)
 
-| Point | Ruling |
-|-------|--------|
-| **Principle** | Prayer never falls with reason present |
-| **Order of positions** | Standing → Sitting → Side → Back → Gestures |
-| **Purification impossible** | Pray anyway (Maliki) |
-| **Unconsciousness** | Make up if short duration |
-| **Sick person's reward** | Complete as if healthy |
+| Mistake | ❌ What some do | ✅ The correct way |
+|---------|-----------------|-------------------|
+| **Abandoning prayer** | Stop praying entirely | Pray according to ability |
+| **Gesturing when able** | Gesture while able to bow | Perform what one can |
+| **Delaying prayer** | Wait for recovery | Pray on time |
 
 ---
 
-## 📚 Sources
+## ❓ Frequently Asked Questions (الأسئلة الشائعة)
 
-1. Sahih Al-Bukhari, Hadiths no. 1115, 1117
-2. Sunan An-Nasa'i
-3. Al-Mudawwana by Imam Malik
-4. Mukhtasar Khalil
-5. Al-Mughni by Ibn Qudama
-6. Bidayat Al-Mujtahid by Ibn Rushd
+**Q1: Does prayer fall away due to illness?**
+> No, prayer never falls away as long as the mind is present.
+
+**Q2: How does someone who cannot move pray?**
+> By gesturing with the head, then eyes, then heart.
+
+**Q3: What if the patient is unconscious?**
+> Make up prayers after regaining consciousness if the duration was short.
+
+**Q4: Is it permissible to pray without wudu?**
+> 🟡 In the Maliki school: Yes, if completely unable, and no make-up required.
+
+---
+
+## 🎯 Practical Action (العمل التطبيقي)
+
+**For the sick person:**
+
+1. **Never abandon prayer** — Pray according to your ability
+2. **Start with standing** — If you can
+3. **Sit if unable** — No blame
+4. **Lie down if necessary** — On your right side
+5. **Gesture if needed** — With head then eyes
+
+> 💡 **Advice:** Prayer is comfort and mercy for the sick, do not deprive yourself of it.
+
+---
+
+## 📝 Supplication for Healing (دعاء الشفاء)
+
+<div dir="rtl">
+
+**اللَّهُمَّ رَبَّ النَّاسِ، أَذْهِبِ الْبَأْسَ، اشْفِ أَنْتَ الشَّافِي، لَا شِفَاءَ إِلَّا شِفَاؤُكَ، شِفَاءً لَا يُغَادِرُ سَقَمًا**
+
+*O Allah, Lord of mankind, remove the affliction. Heal, for You are the Healer. There is no healing except Your healing, a healing that leaves no illness behind.*
+
+</div>
+
+---
+
+## 📚 Sources and References (المصادر والمراجع)
+
+1. **Sahih Al-Bukhari** — Hadith: 1115, 1117
+2. **Al-Mudawwana** — Imam Malik
+3. **Al-Mughni** — Ibn Qudama
+
+---
+
+**And Allah knows best** — وَاللهُ تَعَالَى أَعْلَى وَأَعْلَم
 `;

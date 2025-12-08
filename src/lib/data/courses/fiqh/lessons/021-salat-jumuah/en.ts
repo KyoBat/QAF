@@ -1,118 +1,116 @@
 /**
  * Fiqh - Lesson 021: صلاة الجمعة (Friday Prayer)
- * English Content
+ * English Content - Multi-Madhhab Approach (Maliki Priority)
  */
 
-export const content = `# 📜 Fiqh of Special Prayers
+export const content = `# 📜 صَلَاةُ الْجُمُعَةِ — Friday Prayer
 
-## 📖 Friday Prayer (Salat Al-Jumu'ah)
-
-All praise be to Allah who made Friday the best day of the week. May peace and blessings be upon our Prophet Muhammad ﷺ who said: **"The best day on which the sun rises is Friday."** The Friday prayer is an individual obligation for every Muslim man who is resident.
-
-> Allah تعالى says: **"O you who believe! When the call is proclaimed for the prayer on Friday, hasten to the remembrance of Allah and leave off business"** — Al-Jumu'ah: 9
+> *"The best day on which the sun rises is Friday"* — Friday prayer is an individual obligation for every resident Muslim man.
 
 ---
 
-## 🔍 1. Status and Importance
+## 📜 Foundational Texts (النصوص الأساسية)
 
-### 📌 Individual Obligation (فرض عين)
+### Qur'anic Verses
 
-The Friday prayer is an **individual obligation** for every Muslim man who is free, resident, and healthy.
+> **﴾ O you who believe! When the call is proclaimed for the prayer on Friday, hasten to the remembrance of Allah and leave off business ﴿**
+> *O you who have believed, when the call to prayer is made on Friday, hasten to the remembrance of Allah and leave trade*
+> — [Al-Jumu'ah: 9]
 
-<div class="scene-box">
+### Prophetic Hadith
 
-**🎭 The Warning Against Abandoning Friday Prayer**
+> On the authority of **Abu Hurayra** رضي الله عنه that the Prophet ﷺ said:
+> **"Friday prayer is a duty incumbent upon every Muslim in congregation, except four: a slave, a woman, a child, or a sick person"**
+> — Abu Dawud (1067)
 
-*The Prophet ﷺ saw people who abandoned the Friday prayer...*
+> And he ﷺ said: **"People will cease abandoning Friday prayers, or Allah will seal their hearts and they will be among the heedless"**
+> — Muslim (865)
 
-*He warned them severely:*
+### 📚 Referencing (التخريج)
 
-**The Prophet ﷺ:** "People will cease abandoning Friday prayers, or **Allah will seal their hearts** and they will be among the heedless"
-
-</div>
-
-**📍 Narrator:** Ibn 'Umar and Abu Hurayra رضي الله عنهما — Muslim (865)
-
-> And he ﷺ said: **"Friday prayer is a duty incumbent upon every Muslim in congregation, except four: a slave, a woman, a child, or a sick person"** — Abu Dawud (1067)
-
-### 📌 Virtues of Friday
-
-| Virtue | Evidence |
-|--------|----------|
-| **Best day of the week** | "The best day is Friday" — Muslim (854) |
-| **Adam was created on it** | Same hadith |
-| **The Hour will occur on it** | Same hadith |
-| **Hour of acceptance** | "There is an hour when any supplication is answered" — Al-Bukhari (935) |
+| Source | Number | Ruling |
+|--------|--------|--------|
+| **Sunan Abu Dawud** | 1067 | ✅ Authentic |
+| **Sahih Muslim** | 865 | ✅ Authentic |
+| **Sahih Al-Bukhari** | 935 | ✅ Authentic |
 
 ---
 
-## 🔷 2. Conditions of Obligation
+## 🎓 Scholarly Sayings (أقوال العلماء)
 
-### 📋 Upon whom is it obligatory?
+> **Imam Malik** رحمه الله said in *Al-Mudawwana*:
+> *"Friday prayer is obligatory and nothing exempts from it except a valid excuse."*
+
+> **Ibn Al-Qayyim** رحمه الله said in *Zad Al-Ma'ad*:
+> *"Friday is the master of days and the best of them in Allah's sight."*
+
+---
+
+## 🔍 Linguistic Analysis (التحليل اللغوي)
+
+### Vocabulary Table
+
+| Term | Root | Technical Definition |
+|------|------|----------------------|
+| **Al-Jumu'ah (الجُمُعَة)** | ج-م-ع | The day Muslims gather for prayer |
+| **Al-Khutba (الخُطْبَة)** | خ-ط-ب | The sermon before prayer |
+| **Al-Minbar (المِنْبَر)** | ن-ب-ر | The elevated platform for the khatib |
+| **Fas'aw (فَاسْعَوْا)** | س-ع-ي | Walk briskly without running |
+
+---
+
+## 📚 Detailed Explanation (الشرح المفصل)
+
+### 🔷 Ruling and Importance
+
+Friday prayer is an **individual obligation (fard 'ayn)** upon every free, resident, healthy Muslim man.
+
+### 🔷 Conditions of Obligation
 
 | Condition | Explanation |
 |-----------|-------------|
 | **Being Muslim** | Obvious |
 | **Being male** | Women are exempt |
-| **Being free** | Slaves are exempt (historical) |
 | **Being resident** | Travelers are exempt |
 | **Being healthy** | The sick are exempt |
 | **Being adult** | Children are exempt |
 | **Being sane** | The insane are exempt |
 
----
+### 🔷 Virtues of Friday
 
-## 📚 3. Conditions of Validity
+| Virtue | Evidence |
+|--------|----------|
+| **Best day of the week** | "The best day is Friday" — Muslim (854) |
+| **Adam was created on it** | Same hadith |
+| **Hour of acceptance** | "There is an hour when any supplication is answered" — Al-Bukhari (935) |
 
-### ⚠️ Points of view: Minimum Number
+### 🔷 Minimum Number Required
 
-| School | Minimum Number | Detail |
-|--------|----------------|--------|
-| 🟡 **Maliki** | **12 men** | Residents, including the imam |
-| 🟢 Hanafi | **Imam + 3** | i.e., 4 people |
-| 🔵 Shafi'i | **40 men** | Free residents |
-| 🟣 Hanbali | **40 men** | Adult residents |
+| School | Number | Detail |
+|--------|--------|--------|
+| 🟡 **Maliki** | **12 men** | Residents, including imam |
+| 🟢 Hanafi | 4 people | Imam + 3 |
+| 🔵 Shafi'i | 40 men | Free residents |
+| 🟣 Hanbali | 40 men | Adult residents |
 
-> 💡 **Maliki Position:** 12 resident men suffice to establish Jumu'ah, without need for official permission.
+### 🔷 Pillars of the Khutba
 
----
+| Pillar | Description |
+|--------|-------------|
+| **Praise of Allah** | Begin with "Al-Hamdulillah" |
+| **Exhortation to piety** | Enjoining taqwa of Allah |
 
-## 🎯 4. The Khutba (Sermon)
+> 💡 **Note:** Prayer upon the Prophet and Quran recitation are sunna in Maliki school, but pillars in Shafi'i school.
 
-### 📋 Pillars of the Khutba
-
-| # | Pillar | Description |
-|---|--------|-------------|
-| 1 | **Praise of Allah** | Begin with "Al-Hamdulillah" |
-| 2 | **Prayer upon the Prophet ﷺ** | "Allahumma salli 'ala Muhammad" |
-| 3 | **Recitation of Quran** | At least one verse |
-| 4 | **Exhortation to piety** | Enjoining taqwa of Allah |
-
-### ⚠️ Points of view on pillars
-
-| Pillar | 🟡 Maliki | Others |
-|--------|-----------|--------|
-| **Hamd** | Pillar | Pillar for all |
-| **Salat upon Prophet** | Sunna | Pillar (Shafi'i) |
-| **Quran recitation** | Sunna | Pillar (Shafi'i) |
-| **Wasiyya** | Pillar | Pillar for all |
-
----
-
-## ⚖️ 5. Description of the Prayer
+### 🔷 Description of the Prayer
 
 | Element | Detail |
 |---------|--------|
 | **Number of rak'at** | 2 rak'at |
 | **Recitation** | Aloud |
-| **Recommended Surahs** | Al-Jumu'ah (1st), Al-Munafiqun (2nd) |
-| **Or** | Al-A'la (1st), Al-Ghashiya (2nd) |
+| **Recommended Surahs** | Al-Jumu'ah + Al-Munafiqun, or Al-A'la + Al-Ghashiya |
 
----
-
-## 💡 6. Etiquettes of Friday
-
-### 📋 Before the prayer
+### 🔷 Etiquettes of Friday
 
 | Etiquette | Evidence |
 |-----------|----------|
@@ -120,69 +118,94 @@ The Friday prayer is an **individual obligation** for every Muslim man who is fr
 | **Wearing perfume** | "And apply perfume if he has it" — Al-Bukhari (880) |
 | **Wearing best clothes** | Preferably white |
 | **Arriving early** | "Whoever comes at the first hour, it's as if he offered a camel" — Al-Bukhari (881) |
-| **Walking** | If possible |
-| **Reciting Surah Al-Kahf** | "Whoever reads Al-Kahf on Friday, a light will illuminate him" — Authentic |
+| **Reciting Surah Al-Kahf** | "Whoever reads Al-Kahf on Friday, a light will illuminate him" |
 
 ---
 
-## 🔷 7. Prohibitions During the Khutba
+## ⚖️ Points of View of the Schools (آراء المذاهب)
 
-| Prohibition | Evidence |
-|-------------|----------|
-| **Talking** | "If you tell your companion 'Be quiet' during the khutba, you have committed a futility" — Al-Bukhari (934) |
-| **Playing with anything** | Touching pebbles, phone, etc. |
-| **Stepping over people** | "Sit down, you have harmed" — Abu Dawud (1118) |
-
-### ⚠️ Points of view on greeting prayer
-
-| School | Opinion |
-|--------|---------|
-| 🟡 **Maliki** | **Do not pray** if khutba has started |
-| 🟢 Hanafi | Do not pray |
-| 🔵 Shafi'i | **Pray** 2 light rak'at obligatorily |
-| 🟣 Hanbali | Pray 2 light rak'at |
+| Issue | 🟡 Maliki | 🟢 Hanafi | 🔵 Shafi'i | 🟣 Hanbali |
+|-------|-----------|-----------|------------|------------|
+| **Minimum number** | **12 men** | 4 | 40 | 40 |
+| **Tahiyyat al-masjid** | **Don't pray during khutba** | Don't pray | Pray obligatorily | Pray |
+| **Eid with Jumu'ah** | **Both obligatory** | Both | Eid exempts | Exempt but pray Dhuhr |
 
 ---
 
-## 📝 8. Practical Cases
+## 🌍 Modern Applications (التطبيقات المعاصرة)
 
-### 📌 Late arrival
-
-| What is caught | What to do? |
-|----------------|-------------|
-| **1 rak'a with imam** | Caught Jumu'ah, complete 1 rak'a |
-| **Less than 1 rak'a** | Did not catch, pray Dhuhr 4 rak'at |
-
-### 📌 Jumu'ah and Eid on the same day
-
-| School | Opinion |
-|--------|---------|
-| 🟡 **Maliki** | **Both obligatory** |
-| 🟢 Hanafi | Both obligatory |
-| 🔵 Shafi'i | One who prayed Eid is exempt from Jumu'ah |
-| 🟣 Hanbali | Exempt from Jumu'ah but prays Dhuhr |
+| Situation | Problem | Shariah Solution |
+|-----------|---------|------------------|
+| 🕌 **Distant mosque** | Difficulty | Jumu'ah allowed in Islamic centers |
+| 📱 **Live broadcast** | Is it sufficient? | No, presence is required |
+| 🌧️ **Heavy rain** | Excuse? | Yes, permissible to pray at home |
+| ⏰ **Work** | Cannot attend | Must request permission or change shift |
 
 ---
 
-## 🎯 Summary
+## ⚠️ Common Mistakes (الأخطاء الشائعة)
 
-| Point | Maliki Ruling |
-|-------|---------------|
-| **Status** | Fard 'Ayn for resident man |
-| **Minimum number** | 12 men |
-| **Khutba** | 2 khutbas, pillars: Hamd + Wasiyya |
-| **Prayer** | 2 rak'at aloud |
-| **Late arrival** | 1 rak'a = caught Jumu'ah |
-| **Etiquettes** | Ghusl, perfume, arrive early, Surah Al-Kahf |
+| Mistake | ❌ What some do | ✅ The correct way |
+|---------|-----------------|-------------------|
+| **Talking during khutba** | Chat with neighbor | Complete silence |
+| **Deliberate lateness** | Arrive after ruku' | Arrive early |
+| **Stepping over people** | Walk between rows | Sit where you end up |
+| **Skipping ghusl** | Not bathing | Ghusl is obligatory |
 
 ---
 
-## 📚 Sources
+## ❓ Frequently Asked Questions (الأسئلة الشائعة)
 
-1. Sahih Al-Bukhari, Hadiths no. 858, 880, 881, 901, 934, 935
-2. Sahih Muslim, Hadiths no. 854, 865, 878, 879
-3. Sunan Abu Dawud, Hadiths no. 1067, 1118
-4. Al-Mudawwana by Imam Malik
-5. Mukhtasar Khalil
-6. Bidayat Al-Mujtahid by Ibn Rushd
+**Q1: Who is exempt from Friday prayer?**
+> Women, the sick, travelers, and children.
+
+**Q2: What if I only catch one rak'a?**
+> You caught Jumu'ah; complete one rak'a after the imam's salam.
+
+**Q3: Can Friday prayer be held outside a mosque?**
+> Yes, anywhere the required number gathers.
+
+**Q4: What if Eid falls on a Friday?**
+> 🟡 In Maliki school: Both are obligatory.
+
+---
+
+## 🎯 Practical Action (العمل التطبيقي)
+
+**Friday steps:**
+
+1. **Take ghusl and wear perfume** — Before going to the mosque
+2. **Wear your best clothes** — Preferably white
+3. **Read Surah Al-Kahf** — In the morning
+4. **Arrive early at the mosque** — To earn the reward of a camel
+5. **Listen to the khutba** — With humility and tranquility
+6. **Make abundant du'a** — Especially during the hour of acceptance
+
+> 💡 **Note:** The hour of acceptance is the last hour after 'Asr or when the khatib ascends.
+
+---
+
+## 📝 Friday Supplication (دعاء يوم الجمعة)
+
+<div dir="rtl">
+
+**اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ، كَمَا صَلَّيْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ**
+
+*O Allah, send blessings upon Muhammad and upon the family of Muhammad, as You sent blessings upon Ibrahim and the family of Ibrahim. You are indeed Praiseworthy, Glorious.*
+
+</div>
+
+---
+
+## 📚 Sources and References (المصادر والمراجع)
+
+1. **Sahih Al-Bukhari** — Hadith: 858, 880, 881, 934, 935
+2. **Sahih Muslim** — Hadith: 854, 865, 878, 879
+3. **Sunan Abu Dawud** — Hadith: 1067, 1118
+4. **Al-Mudawwana** — Imam Malik
+5. **Zad Al-Ma'ad** — Ibn Al-Qayyim
+
+---
+
+**And Allah knows best** — وَاللهُ تَعَالَى أَعْلَى وَأَعْلَم
 `;

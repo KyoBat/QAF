@@ -1,169 +1,206 @@
 /**
  * Fiqh - Lesson 022: صلاة العيدين (Eid Prayers)
- * English Content
+ * English Content - Multi-Madhhab Approach (Maliki Priority)
  */
 
-export const content = `# 📜 Fiqh of Special Prayers
+export const content = `# 📜 صَلَاةُ الْعِيدَيْنِ — The Two Eid Prayers
 
-## 📖 The Two Eid Prayers (Salat Al-Eidayn)
-
-All praise be to Allah who has guided us, and we would not have been guided without His guidance. May peace and blessings be upon our Prophet Muhammad ﷺ. Allah has blessed this nation with two blessed festivals: Eid Al-Fitr after Ramadan, and Eid Al-Adha on the 10th of Dhu Al-Hijjah.
-
-<div class="scene-box">
-
-**🎭 The Scene of the Prophet's ﷺ Arrival in Medina**
-
-*The Prophet ﷺ arrived in Medina...*
-
-*He found the people of Medina with two days of celebration inherited from pre-Islamic times...*
-
-**The Prophet ﷺ:** "Allah has replaced these two days with **two better ones**: the day of Al-Adha, and the day of Al-Fitr"
-
-</div>
-
-**📍 Narrator:** Anas ibn Malik رضي الله عنه — Abu Dawud (1134)
+> *"Allah has replaced these with two better ones: the day of Al-Adha and the day of Al-Fitr"* — Two blessed festivals Allah bestowed upon this nation.
 
 ---
 
-## 🔍 1. Status of Eid Prayer
+## 📜 Foundational Texts (النصوص الأساسية)
 
-### ⚠️ Points of view on status
+### Qur'anic Verses
 
-| School | Status | Detail |
+> **﴾ He has certainly succeeded who purifies himself. And mentions the name of his Lord and prays ﴿**
+> *Indeed successful is the one who purifies themselves, remembers the name of their Lord, and prays*
+> — [Al-A'la: 14-15]
+
+### Prophetic Hadith
+
+> On the authority of **Anas ibn Malik** رضي الله عنه who said: The Messenger of Allah ﷺ arrived in Medina and they had two days of celebration, so he said:
+> **"Allah has replaced these with two better ones: the day of Al-Adha and the day of Al-Fitr"**
+> — Abu Dawud (1134)
+
+### 📚 Referencing (التخريج)
+
+| Source | Number | Ruling |
+|--------|--------|--------|
+| **Sunan Abu Dawud** | 1134 | ✅ Authentic |
+| **Sahih Al-Bukhari** | 953 | ✅ Authentic |
+
+---
+
+## 🎓 Scholarly Sayings (أقوال العلماء)
+
+> **Imam Malik** رحمه الله said in *Al-Mudawwana*:
+> *"Eid prayer is an emphasized sunna, and the people of villages and countryside should pray it."*
+
+> **Ibn Rushd** رحمه الله said in *Bidayat Al-Mujtahid*:
+> *"They differed on its ruling: Abu Hanifa said wajib, while Shafi'i and Malik said emphasized sunna."*
+
+---
+
+## 🔍 Linguistic Analysis (التحليل اللغوي)
+
+### Vocabulary Table
+
+| Term | Root | Technical Definition |
+|------|------|----------------------|
+| **Al-'Eid (العِيد)** | ع-و-د | A day that returns every year with joy |
+| **Al-Fitr (الفِطْر)** | ف-ط-ر | Breaking the fast |
+| **Al-Adha (الأَضْحَى)** | ض-ح-و | Time of sacrifice (forenoon) |
+| **At-Takbir (التَّكْبِير)** | ك-ب-ر | Saying "Allahu Akbar" |
+
+---
+
+## 📚 Detailed Explanation (الشرح المفصل)
+
+### 🔷 Ruling on Eid Prayer
+
+| School | Ruling | Detail |
 |--------|--------|--------|
 | 🟡 **Maliki** | **Emphasized Sunna** | Strongly recommended |
-| 🟢 Hanafi | **Wajib** (obligatory) | For those obligated with Jumu'ah |
+| 🟢 Hanafi | Wajib | For those obligated with Jumu'ah |
 | 🔵 Shafi'i | Emphasized Sunna | Recommended |
-| 🟣 Hanbali | **Collective Obligation** | Fard Kifaya |
+| 🟣 Hanbali | Collective Obligation | Fard Kifaya |
 
-> 💡 **Maliki Position:** Eid prayer is an emphasized Sunna, but neglecting it without excuse is blameworthy.
-
----
-
-## 🔷 2. Time of Prayer
+### 🔷 Time of Prayer
 
 | Point | Rule |
 |-------|------|
-| **Start** | When sun rises about a spear's length (~15-20 min after sunrise) |
+| **Start** | When sun rises a spear's length (~15-20 min after sunrise) |
 | **End** | At zenith (zawal) |
-
-### 📌 Difference between the two Eids
 
 | Eid | Recommendation |
 |-----|----------------|
 | **Eid Al-Fitr** | **Delay** prayer to allow payment of Zakat Al-Fitr |
 | **Eid Al-Adha** | **Hasten** prayer to allow sacrifice |
 
----
+### 🔷 Description of the Prayer
 
-## 📚 3. Description of the Prayer
+| Element | Description |
+|---------|-------------|
+| **Number of rak'at** | 2 rak'at |
+| **No adhan or iqama** | Starts directly |
+| **Recitation** | Aloud |
+| **Recommended Surahs** | Al-A'la + Al-Ghashiya, or Qaf + Al-Qamar |
 
-### ⚠️ Points of view: The Takbirat
+### 🔷 Takbirat According to Schools
 
-| School | 1st Rak'a | 2nd Rak'a | Position |
-|--------|-----------|-----------|----------|
-| 🟡 **Maliki** | **6 after ihram** | **5 after standing** | Before recitation |
-| 🟢 Hanafi | 3 after ihram | 3 before ruku' | Variable |
-| 🔵 Shafi'i | 7 after ihram | 5 after standing | Before recitation |
-| 🟣 Hanbali | 6 after ihram | 5 after standing | Before recitation |
+| School | 1st Rak'a | 2nd Rak'a |
+|--------|-----------|-----------|
+| 🟡 **Maliki** | **6 after ihram** | **5 after standing** |
+| 🟢 Hanafi | 3 after ihram | 3 before ruku' |
+| 🔵 Shafi'i | 7 after ihram | 5 after standing |
+| 🟣 Hanbali | 6 after ihram | 5 after standing |
 
-> 💡 **Maliki Method:**
-> - 1st Rak'a: Takbirat al-ihram + **6 takbirat** + recitation
-> - 2nd Rak'a: Standing takbira + **5 takbirat** + recitation
-
----
-
-## 🎯 4. The Eid Khutba
+### 🔷 The Eid Khutba
 
 | Aspect | Rule |
 |--------|------|
 | **When** | **After** the prayer (unlike Jumu'ah) |
-| **Number** | 2 khutbas with a sitting between them |
-| **Status** | Sunna (recommended, not obligatory) |
+| **Number** | 2 khutbas with a sitting between |
+| **Status** | Sunna (recommended) |
+
+### 🔷 Takbir Formula
+
+<div dir="rtl">
+
+**اللهُ أَكْبَرُ، اللهُ أَكْبَرُ، لَا إِلَهَ إِلَّا اللهُ، وَاللهُ أَكْبَرُ، اللهُ أَكْبَرُ، وَلِلَّهِ الْحَمْدُ**
+
+*Allahu Akbar, Allahu Akbar, La ilaha illa Allah, wa Allahu Akbar, Allahu Akbar, wa lillahi al-hamd*
+
+</div>
 
 ---
 
-## ⚖️ 5. Takbirat of Eid Days
+## ⚖️ Points of View of the Schools (آراء المذاهب)
 
-### 📋 Takbirat of Eid Al-Fitr
-
-| Time | Rule |
-|------|------|
-| **Start** | Night of Eid (after Maghrib on last day of Ramadan) |
-| **End** | When imam enters for prayer |
-
-### 📋 Takbirat of Eid Al-Adha
-
-| Type | Period |
-|------|--------|
-| **Unrestricted (Mutlaq)** | From 1st Dhu Al-Hijjah to 13th (anytime) |
-| **Restricted (Muqayyad)** | From Fajr of Arafa (9th) to Asr of 13th (after each prayer) |
-
-### ⚠️ Points of view on Restricted Takbir
-
-| School | From ... to ... |
-|--------|-----------------|
-| 🟡 **Maliki** | **Dhuhr of sacrifice day** to Subh of 4th day |
-| 🟢 Hanafi | Fajr of Arafa to Asr of 13th |
-| 🔵 Shafi'i | Subh of Arafa to Asr of 13th |
-| 🟣 Hanbali | Fajr of Arafa to Asr of 13th |
-
-### 📌 Takbir Formula
-
-> **Allahu Akbar, Allahu Akbar, La ilaha illa Allah, wa Allahu Akbar, Allahu Akbar, wa lillahi al-hamd**
+| Issue | 🟡 Maliki | 🟢 Hanafi | 🔵 Shafi'i | 🟣 Hanbali |
+|-------|-----------|-----------|------------|------------|
+| **Ruling** | **Emphasized Sunna** | Wajib | Emphasized Sunna | Fard Kifaya |
+| **Takbirat** | **6 + 5** | 3 + 3 | 7 + 5 | 6 + 5 |
+| **Making up alone** | **No** | No | Yes | Yes |
+| **Restricted takbir** | **Dhuhr 10th to Subh 13th** | Fajr 9th to Asr 13th | Subh 9th to Asr 13th | Fajr 9th to Asr 13th |
 
 ---
 
-## 💡 6. Sunnas of Eid Day
+## 🌍 Modern Applications (التطبيقات المعاصرة)
 
-| Sunna | Detail |
-|-------|--------|
-| **Ghusl** | Before prayer |
-| **Perfume** | For men |
-| **Best clothes** | The best one owns |
-| **Eat before (Fitr)** | Dates in odd numbers |
-| **Fast (Adha)** | Don't eat until return, eat from sacrifice |
-| **Go by one path** | Return by another |
-| **Pray outdoors** | Musalla if possible |
+| Situation | Problem | Shariah Solution |
+|-----------|---------|------------------|
+| 🌧️ **Rainy Eid day** | Cannot go out | Prayer in the mosque is permissible |
+| 🏢 **Distant musalla** | Difficulty | Permissible anywhere the congregation fits |
+| ⏰ **Missed the time** | Slept or forgot | In Maliki school, no individual makeup |
+| 🏠 **Woman at home** | Should she pray? | Difference of opinion; better to go to musalla |
 
 ---
 
-## 🔷 7. Practical Cases
+## ⚠️ Common Mistakes (الأخطاء الشائعة)
 
-### 📌 Missing the prayer
-
-| Situation | 🟡 Maliki | Others |
-|-----------|-----------|--------|
-| **Alone** | Does not make it up | Hanafi: No, Shafi'i/Hanbali: Yes, 2 rak'at |
-
-### 📌 Eid and Jumu'ah on same day
-
-| School | Rule |
-|--------|------|
-| 🟡 **Maliki** | **Both required** (Eid is emphasized sunna) |
-| 🔵 Shafi'i | One who prayed Eid is exempt from Jumu'ah |
-| 🟣 Hanbali | Exempt from Jumu'ah but prays Dhuhr |
+| Mistake | ❌ What some do | ✅ The correct way |
+|---------|-----------------|-------------------|
+| **Wrong takbirat count** | Incorrect number | 6 in 1st, 5 in 2nd (Maliki) |
+| **Praying before sun rises** | Immediately after sunrise | Wait 15-20 minutes |
+| **Skipping takbir** | Not saying takbir on the way | Takbir is emphasized sunna |
+| **Eating before Adha prayer** | Eating breakfast | Fast until return from prayer |
 
 ---
 
-## 🎯 Summary
+## ❓ Frequently Asked Questions (الأسئلة الشائعة)
 
-| Point | Maliki Ruling |
-|-------|---------------|
-| **Status** | Emphasized Sunna |
-| **Takbirat 1st rak'a** | 6 after ihram |
-| **Takbirat 2nd rak'a** | 5 after standing |
-| **Khutba** | After the prayer |
-| **Restricted Takbir (Adha)** | From Dhuhr of 10th to Subh of 13th |
-| **Making up** | No individual makeup |
+**Q1: Is Eid prayer obligatory?**
+> 🟡 In Maliki school: Emphasized sunna, and abandoning it is blameworthy.
+
+**Q2: How many takbirat?**
+> 🟡 In Maliki school: 6 in the first + 5 in the second.
+
+**Q3: When does restricted takbir start for Adha?**
+> 🟡 In Maliki school: From Dhuhr on sacrifice day (10th) to Subh on the 4th day (13th).
+
+**Q4: Can one make up missed Eid prayer?**
+> 🟡 In Maliki school: No individual makeup.
 
 ---
 
-## 📚 Sources
+## 🎯 Practical Action (العمل التطبيقي)
 
-1. Sahih Al-Bukhari, Hadiths no. 953, 956, 986
-2. Sunan Abu Dawud, Hadith no. 1134
-3. Al-Mudawwana by Imam Malik
-4. Mukhtasar Khalil
-5. Bidayat Al-Mujtahid by Ibn Rushd
+**On Eid day:**
+
+1. **Take ghusl and wear perfume** — Wear your best clothes
+2. **Say takbir on the way** — "Allahu Akbar, Allahu Akbar..."
+3. **Pray 2 rak'at** — 6 takbirat + 5 takbirat
+4. **Listen to the khutba** — After the prayer
+5. **Return by a different path** — A prophetic sunna
+6. **Spread joy** — Congratulate and maintain family ties
+
+> 💡 **Fitr:** Eat dates in odd numbers before the prayer.
+> 💡 **Adha:** Do not eat until you return and eat from your sacrifice.
+
+---
+
+## 📝 Greeting Supplication (دعاء التهنئة)
+
+<div dir="rtl">
+
+**تَقَبَّلَ اللهُ مِنَّا وَمِنْكُم**
+
+*May Allah accept from us and from you*
+
+</div>
+
+---
+
+## 📚 Sources and References (المصادر والمراجع)
+
+1. **Sahih Al-Bukhari** — Hadith: 953, 956, 986
+2. **Sunan Abu Dawud** — Hadith: 1134
+3. **Al-Mudawwana** — Imam Malik
+4. **Bidayat Al-Mujtahid** — Ibn Rushd
+
+---
+
+**And Allah knows best** — وَاللهُ تَعَالَى أَعْلَى وَأَعْلَم
 `;
