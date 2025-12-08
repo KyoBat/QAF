@@ -49,12 +49,20 @@ export function LessonContent({ lesson, courseSlug, className }: LessonContentPr
       ? 'Interactive Mind Map' 
       : 'Carte Mentale Interactive'
 
-  return (
-    <div className={cn('prose-content', isRTL && 'text-right', className)}>
-      <ReactMarkdown
-        remarkPlugins={[remarkGfm, remarkBreaks]}
-        rehypePlugins={[rehypeRaw]}
-        components={{
+  // Check if content has inline mindmap marker
+  const hasInlineMindMap = content.includes('<!-- MINDMAP -->')
+  
+  // Split content at mindmap marker if present
+  const contentParts = hasInlineMindMap 
+    ? content.split('<!-- MINDMAP -->') 
+    : [content]
+
+  // Render markdown content
+  const renderMarkdown = (markdownContent: string) => (
+    <ReactMarkdown
+      remarkPlugins={[remarkGfm, remarkBreaks]}
+      rehypePlugins={[rehypeRaw]}
+      components={{
           h1: ({ children }) => (
             <h1 className={cn(
               'text-3xl font-bold text-foreground mb-6 mt-8',
@@ -176,19 +184,46 @@ export function LessonContent({ lesson, courseSlug, className }: LessonContentPr
           ),
         }}
       >
-        {content}
+        {markdownContent}
       </ReactMarkdown>
-      
-      {/* Interactive MindMap at the end of lesson */}
-      {mindMapData && (
-        <div className="mt-10 pt-8 border-t border-border">
-          <CollapsibleMindMap 
-            data={mindMapData}
-            title={mindMapTitle}
-            defaultExpanded={false}
-            locale={locale}
-          />
-        </div>
+  )
+
+  return (
+    <div className={cn('prose-content', isRTL && 'text-right', className)}>
+      {hasInlineMindMap && mindMapData ? (
+        <>
+          {/* Content before mindmap marker */}
+          {renderMarkdown(contentParts[0])}
+          
+          {/* Inline MindMap */}
+          <div className="my-8">
+            <CollapsibleMindMap 
+              data={mindMapData}
+              title={mindMapTitle}
+              defaultExpanded={false}
+              locale={locale}
+            />
+          </div>
+          
+          {/* Content after mindmap marker */}
+          {contentParts[1] && renderMarkdown(contentParts[1])}
+        </>
+      ) : (
+        <>
+          {renderMarkdown(content)}
+          
+          {/* Interactive MindMap at the end of lesson (fallback) */}
+          {mindMapData && (
+            <div className="mt-10 pt-8 border-t border-border">
+              <CollapsibleMindMap 
+                data={mindMapData}
+                title={mindMapTitle}
+                defaultExpanded={false}
+                locale={locale}
+              />
+            </div>
+          )}
+        </>
       )}
     </div>
   )

@@ -182,9 +182,9 @@ Yet, Aḥmad chose to specialize in hadith rather than systematic fiqh. Al-Shāf
 
 ## 🗺️ Map of Transmissions
 
-Explore these connections through the interactive map below 👇
+Explore these connections through the interactive map:
 
-> 💡 **Use the + and − buttons to expand and collapse branches**
+<!-- MINDMAP -->
 
 ---
 
