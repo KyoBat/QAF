@@ -190,8 +190,6 @@ Pourtant, Aḥmad choisit de se spécialiser dans le hadith plutôt que dans le 
 
 ---
 
-## 🌳 Arbre des Transmissions
-
 Explorez ces connexions grâce à l'arbre interactif :
 
 <!-- MINDMAP -->
