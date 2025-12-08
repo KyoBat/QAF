@@ -338,27 +338,7 @@ Oui, l'auteur des *Sunan* Abū Dāwūd ! Il était élève d'Aḥmad et a aussi 
 
 Les élèves n'étaient pas **enfermés** dans leurs écoles. Ils étudiaient souvent avec des maîtres d'autres madhhabs :
 
-\`\`\`
-        ┌─────────────────────────────────────┐
-        │           ABŪ ḤANĪFA               │
-        └───────────────┬─────────────────────┘
-                        │
-        ┌───────────────▼─────────────────┐
-        │         AL-SHAYBĀNĪ            │
-        │      (élève d'Abū Ḥanīfa       │
-        │       ET de Mālik)             │
-        └───────────────┬─────────────────┘
-                        │ (enseigne à)
-        ┌───────────────▼─────────────────┐
-        │          AL-SHĀFI'Ī            │
-        │    (aussi élève de Mālik)      │
-        └───────────────┬─────────────────┘
-                        │ (enseigne à)
-        ┌───────────────▼─────────────────┐
-        │        AḤMAD IBN ḤANBAL        │
-        │   (aussi maître de hadith)     │
-        └─────────────────────────────────┘
-\`\`\`
+<!-- CHAIN -->
 
 Ce réseau montre que les **écoles ne sont pas des îles** mais des branches d'un même arbre.
 

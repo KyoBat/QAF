@@ -14,7 +14,7 @@ import rehypeRaw from 'rehype-raw'
 import { useLocale } from '@/components/providers'
 import { cn } from '@/lib/utils'
 import type { Lesson } from '@/lib/schemas'
-import { getMindMapForLesson } from '@/lib/data/mindmaps'
+import { getMindMapForLesson, generationalChainData, getMethodData, allMethodsData } from '@/lib/data/mindmaps'
 
 // Import dynamique du TreeChart pour éviter les erreurs SSR
 const TreeChart = dynamic(
@@ -24,6 +24,45 @@ const TreeChart = dynamic(
     loading: () => (
       <div className="w-full h-[300px] bg-slate-100 dark:bg-slate-800 rounded-xl flex items-center justify-center my-6">
         <div className="animate-pulse text-slate-500">جاري تحميل الشجرة...</div>
+      </div>
+    ),
+  }
+)
+
+// Import dynamique du GenerationalChain pour éviter les erreurs SSR
+const GenerationalChain = dynamic(
+  () => import('@/components/mindmap/GenerationalChain'),
+  { 
+    ssr: false,
+    loading: () => (
+      <div className="w-full h-[400px] bg-slate-100 dark:bg-slate-800 rounded-xl flex items-center justify-center my-6">
+        <div className="animate-pulse text-slate-500">جاري تحميل التسلسل...</div>
+      </div>
+    ),
+  }
+)
+
+// Import dynamique du MethodFlowchart pour éviter les erreurs SSR
+const MethodFlowchart = dynamic(
+  () => import('@/components/mindmap/MethodFlowchart').then(mod => mod.MethodFlowchart),
+  { 
+    ssr: false,
+    loading: () => (
+      <div className="w-full h-[400px] bg-slate-100 dark:bg-slate-800 rounded-xl flex items-center justify-center my-6">
+        <div className="animate-pulse text-slate-500">جاري تحميل المنهج...</div>
+      </div>
+    ),
+  }
+)
+
+// Import dynamique du MethodComparison pour éviter les erreurs SSR  
+const MethodComparison = dynamic(
+  () => import('@/components/mindmap/MethodFlowchart').then(mod => mod.MethodComparison),
+  { 
+    ssr: false,
+    loading: () => (
+      <div className="w-full h-[600px] bg-slate-100 dark:bg-slate-800 rounded-xl flex items-center justify-center my-6">
+        <div className="animate-pulse text-slate-500">جاري تحميل المقارنة...</div>
       </div>
     ),
   }
@@ -49,13 +88,62 @@ export function LessonContent({ lesson, courseSlug, className }: LessonContentPr
       ? 'Chain of Transmission' 
       : 'Arbre de Transmission'
 
+  // Title for generational chain based on locale
+  const chainTitle = locale === 'ar' 
+    ? 'التسلسل الجيلي للأئمة' 
+    : locale === 'en' 
+      ? 'Generational Chain of Imams' 
+      : 'Chaîne Générationnelle des Imams'
+
   // Check if content has inline mindmap marker
   const hasInlineMindMap = content.includes('<!-- MINDMAP -->')
+  
+  // Check if content has inline chain marker
+  const hasInlineChain = content.includes('<!-- CHAIN -->')
+  
+  // Check for method markers
+  const methodMarkerRegex = /<!-- METHOD:(hanafi|maliki|shafii|hanbali|all) -->/g
+  const hasMethodMarker = methodMarkerRegex.test(content)
   
   // Split content at mindmap marker if present
   const contentParts = hasInlineMindMap 
     ? content.split('<!-- MINDMAP -->') 
     : [content]
+  
+  // Further split for chain marker
+  const splitForChain = (text: string) => {
+    if (text.includes('<!-- CHAIN -->')) {
+      return text.split('<!-- CHAIN -->')
+    }
+    return [text]
+  }
+  
+  // Split and render with method markers
+  const renderWithMethodMarkers = (text: string): React.ReactNode => {
+    const methodRegex = /<!-- METHOD:(hanafi|maliki|shafii|hanbali|all) -->/
+    const match = text.match(methodRegex)
+    
+    if (!match) {
+      return renderMarkdown(text)
+    }
+    
+    const [before, after] = text.split(match[0])
+    const school = match[1] as 'hanafi' | 'maliki' | 'shafii' | 'hanbali' | 'all'
+    
+    return (
+      <>
+        {before && renderMarkdown(before)}
+        <div className="my-8">
+          {school === 'all' ? (
+            <MethodComparison methods={allMethodsData} locale={locale} />
+          ) : (
+            <MethodFlowchart data={getMethodData(school)} locale={locale} />
+          )}
+        </div>
+        {after && renderWithMethodMarkers(after)}
+      </>
+    )
+  }
 
   // Render markdown content
   const renderMarkdown = (markdownContent: string) => (
@@ -188,12 +276,40 @@ export function LessonContent({ lesson, courseSlug, className }: LessonContentPr
       </ReactMarkdown>
   )
 
+  // Render content section with potential chain marker and method markers
+  const renderContentSection = (sectionContent: string): React.ReactNode => {
+    // First check for method markers
+    if (/<!-- METHOD:(hanafi|maliki|shafii|hanbali|all) -->/.test(sectionContent)) {
+      return renderWithMethodMarkers(sectionContent)
+    }
+    
+    // Then check for chain markers
+    const chainParts = splitForChain(sectionContent)
+    
+    if (chainParts.length > 1) {
+      return (
+        <>
+          {renderWithMethodMarkers(chainParts[0])}
+          <div className="my-8">
+            <GenerationalChain 
+              data={generationalChainData}
+              title={chainTitle}
+              locale={locale}
+            />
+          </div>
+          {chainParts[1] && renderWithMethodMarkers(chainParts[1])}
+        </>
+      )
+    }
+    return renderWithMethodMarkers(sectionContent)
+  }
+
   return (
     <div className={cn('prose-content', isRTL && 'text-right', className)}>
       {hasInlineMindMap && mindMapData ? (
         <>
           {/* Content before mindmap marker */}
-          {renderMarkdown(contentParts[0])}
+          {renderContentSection(contentParts[0])}
           
           {/* Inline Tree Chart */}
           <div className="my-8">
@@ -206,7 +322,12 @@ export function LessonContent({ lesson, courseSlug, className }: LessonContentPr
           </div>
           
           {/* Content after mindmap marker */}
-          {contentParts[1] && renderMarkdown(contentParts[1])}
+          {contentParts[1] && renderContentSection(contentParts[1])}
+        </>
+      ) : hasInlineChain || hasMethodMarker ? (
+        <>
+          {/* Content with chain marker or method markers */}
+          {renderContentSection(content)}
         </>
       ) : (
         <>

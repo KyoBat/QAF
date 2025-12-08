@@ -79,33 +79,7 @@ Abū Ḥanīfa ne travaillait pas seul. Il avait un **conseil de 40 savants** qu
 
 ### Schéma de la Méthode Hanafite
 
-\`\`\`
-QUESTION JURIDIQUE
-        │
-        ▼
-    LE CORAN
-        │ (pas de réponse claire ?)
-        ▼
-   LA SUNNAH MUTAWĀTIRA
-        │ (pas de réponse ?)
-        ▼
-   HADITH ĀḤĀD + CONDITIONS STRICTES
-        │
-        ▼
-    IJMĀ' DES COMPAGNONS
-        │
-        ▼
-    AVIS INDIVIDUEL D'UN COMPAGNON
-        │
-        ▼
-      QIYĀS
-        │ (résultat problématique ?)
-        ▼
-    ISTIHSĀN
-        │
-        ▼
-      'URF
-\`\`\`
+<!-- METHOD:hanafi -->
 
 ---
 
@@ -145,33 +119,7 @@ Mālik accepte les hadiths où un Tābi'ī rapporte directement du Prophète ﷺ
 
 ### Schéma de la Méthode Malikite
 
-\`\`\`
-QUESTION JURIDIQUE
-        │
-        ▼
-    LE CORAN
-        │
-        ▼
-   LA SUNNAH
-        │
-        ▼
-  'AMAL AHL AL-MADĪNA ◄── (peut primer sur hadith āḥād)
-        │
-        ▼
-   IJMĀ' DES COMPAGNONS
-        │
-        ▼
-      QIYĀS
-        │
-        ▼
-   AL-MAṢLAḤA AL-MURSALA
-        │
-        ▼
-   SADD AL-DHARĀ'I'
-        │
-        ▼
-      'URF
-\`\`\`
+<!-- METHOD:maliki -->
 
 ---
 
@@ -221,27 +169,7 @@ Les shafi'ites suivent généralement la nouvelle école.
 
 ### Schéma de la Méthode Shafi'ite
 
-\`\`\`
-QUESTION JURIDIQUE
-        │
-        ▼
-    LE CORAN
-        │
-        ▼
-   LA SUNNAH (Mutawātir ET Āḥād authentique)
-        │
-        ▼
-      IJMĀ'
-        │
-        ▼
-   AVIS DES COMPAGNONS
-        │
-        ▼
-     QIYĀS STRICT
-        │
-        ▼
-   (pas d'istihsān)
-\`\`\`
+<!-- METHOD:shafii -->
 
 ---
 
@@ -287,27 +215,7 @@ Ses élèves ont compilé ces avis, créant une école avec **beaucoup de flexib
 
 ### Schéma de la Méthode Hanbalite
 
-\`\`\`
-QUESTION JURIDIQUE
-        │
-        ▼
-    LE CORAN
-        │
-        ▼
-   LA SUNNAH (toutes catégories)
-        │
-        ▼
-   FATWA D'UN COMPAGNON
-        │
-        ▼
-   HADITH ḌA'ĪF (si rien d'autre)
-        │
-        ▼
-      IJMĀ'
-        │
-        ▼
-   QIYĀS (en dernier recours)
-\`\`\`
+<!-- METHOD:hanbali -->
 
 ---
 

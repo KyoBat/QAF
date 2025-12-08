@@ -359,25 +359,7 @@ Aḥmad refusa ensuite de **créer sa propre école** pendant longtemps. C'est s
 
 Visualisons la chaîne des rencontres :
 
-\`\`\`
-    🟢 ABŪ ḤANĪFA (80-150 H)
-           │
-           ├──── Rencontre à Médine/La Mecque ────┐
-           │                                       │
-           ▼                                       ▼
-    [Al-Shaybānī]                          🟡 MĀLIK (93-179 H)
-           │                                       │
-           │                                       │
-           └───────────┬───────────────────────────┘
-                       │
-                       ▼
-               🔵 AL-SHĀFI'Ī (150-204 H)
-                       │
-                       │ (4 ans d'études intensives)
-                       │
-                       ▼
-               🟣 AḤMAD (164-241 H)
-\`\`\`
+<!-- CHAIN -->
 
 ---
 

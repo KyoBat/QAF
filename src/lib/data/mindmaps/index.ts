@@ -1876,6 +1876,159 @@ export const imamsChainData: MindMapDataMultiLang = {
 };
 
 // ============================================
+// GENERATIONAL CHAIN DATA for timeline component
+// Données pour le composant de chaîne générationnelle
+// Format compatible avec GenerationalChain component
+// ============================================
+import type { GenerationalChainData } from '@/components/mindmap/GenerationalChain';
+
+export const generationalChainData: GenerationalChainData = {
+  title: 'Generational Chain of Imams',
+  titleAr: 'التسلسل الجيلي للأئمة الأربعة',
+  nodes: [
+    {
+      id: 'abu-hanifa',
+      name: 'Abū Ḥanīfa',
+      nameAr: 'أَبُو حَنِيفَة',
+      dates: '80 - 150 هـ',
+      color: '#22c55e',
+      icon: '🟢',
+    },
+    {
+      id: 'malik',
+      name: 'Mālik',
+      nameAr: 'مَالِك',
+      dates: '93 - 179 هـ',
+      color: '#eab308',
+      icon: '🟡',
+    },
+    {
+      id: 'shaybani',
+      name: 'Al-Shaybānī',
+      nameAr: 'الشَّيْبَانِي',
+      dates: '132 - 189 هـ',
+      color: '#16a34a',
+      icon: '📚',
+      note: 'Student of Abū Ḥanīfa',
+      noteAr: 'تلميذ أبي حنيفة',
+    },
+    {
+      id: 'shafii',
+      name: "Al-Shāfi'ī",
+      nameAr: 'الشَّافِعِي',
+      dates: '150 - 204 هـ',
+      color: '#3b82f6',
+      icon: '🔵',
+    },
+    {
+      id: 'ahmad',
+      name: 'Aḥmad',
+      nameAr: 'أَحْمَد',
+      dates: '164 - 241 هـ',
+      color: '#a855f7',
+      icon: '🟣',
+    },
+  ],
+  links: [
+    { from: 'abu-hanifa', to: 'shaybani', label: 'Taught', labelAr: 'علّم' },
+    { from: 'abu-hanifa', to: 'malik', label: 'Met in Medina', labelAr: 'التقى في المدينة' },
+    { from: 'malik', to: 'shafii', label: '9 years study', labelAr: '٩ سنوات دراسة' },
+    { from: 'shaybani', to: 'shafii', label: 'Studied Hanafi fiqh', labelAr: 'درس فقه الحنفية' },
+    { from: 'shafii', to: 'ahmad', label: '4 years study', labelAr: '٤ سنوات دراسة' },
+  ],
+};
+
+export function getGenerationalChainData(): GenerationalChainData {
+  return generationalChainData;
+}
+
+// ============================================
+// METHOD FLOWCHART DATA for legal methodology
+// Données pour les schémas de méthodes juridiques
+// ============================================
+import type { MethodFlowchartData } from '@/components/mindmap/MethodFlowchart';
+
+export const hanafiMethodData: MethodFlowchartData = {
+  title: 'Hanafi Method',
+  titleAr: 'منهج الحنفية',
+  titleFr: 'Méthode Hanafite',
+  school: 'hanafi',
+  steps: [
+    { id: 'question', label: 'Legal Question', labelAr: 'المسألة الفقهية', labelFr: 'Question Juridique' },
+    { id: 'quran', label: 'The Quran', labelAr: 'القرآن الكريم', labelFr: 'Le Coran', isSource: true, note: 'no clear answer?', noteAr: 'لا جواب صريح؟', noteFr: 'pas de réponse claire ?' },
+    { id: 'sunnah', label: 'Mutawātir Sunnah', labelAr: 'السنة المتواترة', labelFr: 'Sunnah Mutawātira', isSource: true, note: 'no answer?', noteAr: 'لا جواب؟', noteFr: 'pas de réponse ?' },
+    { id: 'ahad', label: 'Āḥād Hadith + Strict Conditions', labelAr: 'حديث آحاد + شروط صارمة', labelFr: 'Hadith Āḥād + Conditions Strictes', isSource: true },
+    { id: 'ijma', label: "Ijmā' of Companions", labelAr: 'إجماع الصحابة', labelFr: 'Ijmā\' des Compagnons', isSource: true },
+    { id: 'sahabi', label: 'Individual Opinion of Companion', labelAr: 'رأي صحابي فرد', labelFr: 'Avis Individuel d\'un Compagnon' },
+    { id: 'qiyas', label: 'Qiyās (Analogy)', labelAr: 'القياس', labelFr: 'Qiyās (Analogie)', note: 'problematic result?', noteAr: 'نتيجة إشكالية؟', noteFr: 'résultat problématique ?' },
+    { id: 'istihsan', label: 'Istiḥsān', labelAr: 'الاستحسان', labelFr: 'Istiḥsān', isSource: true },
+    { id: 'urf', label: "'Urf (Custom)", labelAr: 'العُرف', labelFr: '\'Urf (Coutume)' },
+  ],
+};
+
+export const malikiMethodData: MethodFlowchartData = {
+  title: 'Maliki Method',
+  titleAr: 'منهج المالكية',
+  titleFr: 'Méthode Malikite',
+  school: 'maliki',
+  steps: [
+    { id: 'question', label: 'Legal Question', labelAr: 'المسألة الفقهية', labelFr: 'Question Juridique' },
+    { id: 'quran', label: 'The Quran', labelAr: 'القرآن الكريم', labelFr: 'Le Coran', isSource: true },
+    { id: 'sunnah', label: 'The Sunnah', labelAr: 'السنة النبوية', labelFr: 'La Sunnah', isSource: true },
+    { id: 'amal', label: "'Amal Ahl al-Madīna", labelAr: 'عمل أهل المدينة', labelFr: 'Pratique des Médinois', isSource: true, note: 'can override āḥād', noteAr: 'يُقدَّم على الآحاد', noteFr: 'peut primer sur āḥād' },
+    { id: 'ijma', label: "Ijmā' of Companions", labelAr: 'إجماع الصحابة', labelFr: 'Ijmā\' des Compagnons', isSource: true },
+    { id: 'qiyas', label: 'Qiyās', labelAr: 'القياس', labelFr: 'Qiyās' },
+    { id: 'maslaha', label: 'Al-Maṣlaḥa al-Mursala', labelAr: 'المصلحة المرسلة', labelFr: 'Intérêt Public', isSource: true },
+    { id: 'sadd', label: "Sadd al-Dharā'i'", labelAr: 'سد الذرائع', labelFr: 'Blocage des Prétextes', isSource: true },
+    { id: 'urf', label: "'Urf", labelAr: 'العُرف', labelFr: '\'Urf (Coutume)' },
+  ],
+};
+
+export const shafiiMethodData: MethodFlowchartData = {
+  title: "Shafi'i Method",
+  titleAr: 'منهج الشافعية',
+  titleFr: 'Méthode Shafi\'ite',
+  school: 'shafii',
+  steps: [
+    { id: 'question', label: 'Legal Question', labelAr: 'المسألة الفقهية', labelFr: 'Question Juridique' },
+    { id: 'quran', label: 'The Quran', labelAr: 'القرآن الكريم', labelFr: 'Le Coran', isSource: true },
+    { id: 'sunnah', label: 'Sunnah (Mutawātir & Authentic Āḥād)', labelAr: 'السنة (متواترة وآحاد صحيحة)', labelFr: 'Sunnah (Mutawātir et Āḥād authentique)', isSource: true },
+    { id: 'ijma', label: "Ijmā'", labelAr: 'الإجماع', labelFr: 'Ijmā\'', isSource: true },
+    { id: 'sahabi', label: 'Opinions of Companions', labelAr: 'أقوال الصحابة', labelFr: 'Avis des Compagnons' },
+    { id: 'qiyas', label: 'Strict Qiyās', labelAr: 'قياس صارم', labelFr: 'Qiyās Strict', isSource: true },
+    { id: 'no-istihsan', label: '(No Istiḥsān)', labelAr: '(لا استحسان)', labelFr: '(Pas d\'Istiḥsān)', note: 'rejected', noteAr: 'مرفوض', noteFr: 'rejeté' },
+  ],
+};
+
+export const hanbaliMethodData: MethodFlowchartData = {
+  title: 'Hanbali Method',
+  titleAr: 'منهج الحنابلة',
+  titleFr: 'Méthode Hanbalite',
+  school: 'hanbali',
+  steps: [
+    { id: 'question', label: 'Legal Question', labelAr: 'المسألة الفقهية', labelFr: 'Question Juridique' },
+    { id: 'quran', label: 'The Quran', labelAr: 'القرآن الكريم', labelFr: 'Le Coran', isSource: true },
+    { id: 'sunnah', label: 'Sunnah (all categories)', labelAr: 'السنة (جميع المراتب)', labelFr: 'Sunnah (toutes catégories)', isSource: true },
+    { id: 'fatwa', label: 'Fatwa of a Companion', labelAr: 'فتوى صحابي', labelFr: 'Fatwa d\'un Compagnon', isSource: true },
+    { id: 'daif', label: "Ḍa'īf Hadith (if nothing else)", labelAr: 'حديث ضعيف (إن لم يوجد غيره)', labelFr: 'Hadith Ḍa\'īf (si rien d\'autre)', note: 'last resort', noteAr: 'عند الضرورة', noteFr: 'dernier recours' },
+    { id: 'ijma', label: "Ijmā'", labelAr: 'الإجماع', labelFr: 'Ijmā\'', isSource: true },
+    { id: 'qiyas', label: 'Qiyās (last resort)', labelAr: 'القياس (آخر المطاف)', labelFr: 'Qiyās (dernier recours)', note: 'reluctantly', noteAr: 'على مضض', noteFr: 'à contrecœur' },
+  ],
+};
+
+export const allMethodsData: MethodFlowchartData[] = [
+  hanafiMethodData,
+  malikiMethodData,
+  shafiiMethodData,
+  hanbaliMethodData,
+];
+
+export function getMethodData(school: 'hanafi' | 'maliki' | 'shafii' | 'hanbali'): MethodFlowchartData {
+  const methods = { hanafi: hanafiMethodData, maliki: malikiMethodData, shafii: shafiiMethodData, hanbali: hanbaliMethodData };
+  return methods[school];
+}
+
+// ============================================
 // Map lesson IDs to their MindMap data
 // Format: 'course-slug:lesson-id' for unique identification
 // ============================================

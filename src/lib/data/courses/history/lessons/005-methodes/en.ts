@@ -77,33 +77,7 @@ Abū Ḥanīfa didn't work alone. He had a **council of 40 scholars** who debate
 
 ### Hanafi Method Diagram
 
-\`\`\`
-LEGAL QUESTION
-      │
-      ▼
-  THE QURAN
-      │ (no clear answer?)
-      ▼
-  MUTAWĀTIR SUNNAH
-      │ (no answer?)
-      ▼
-  ĀḤĀD HADITH + STRICT CONDITIONS
-      │
-      ▼
-  CONSENSUS OF COMPANIONS
-      │
-      ▼
-  INDIVIDUAL COMPANION'S OPINION
-      │
-      ▼
-    QIYĀS
-      │ (problematic result?)
-      ▼
-  ISTIḤSĀN
-      │
-      ▼
-    'URF
-\`\`\`
+<!-- METHOD:hanafi -->
 
 ---
 
@@ -143,33 +117,7 @@ Mālik accepts hadiths where a Tābi'ī reports directly from the Prophet ﷺ wi
 
 ### Maliki Method Diagram
 
-\`\`\`
-LEGAL QUESTION
-      │
-      ▼
-  THE QURAN
-      │
-      ▼
-  THE SUNNAH
-      │
-      ▼
-'AMAL AHL AL-MADĪNA ◄── (can override āḥād hadith)
-      │
-      ▼
-  CONSENSUS OF COMPANIONS
-      │
-      ▼
-    QIYĀS
-      │
-      ▼
-  AL-MAṢLAḤA AL-MURSALA
-      │
-      ▼
-  SADD AL-DHARĀ'I'
-      │
-      ▼
-    'URF
-\`\`\`
+<!-- METHOD:maliki -->
 
 ---
 
@@ -218,27 +166,7 @@ Shafi'is generally follow the new school.
 
 ### Shafi'i Method Diagram
 
-\`\`\`
-LEGAL QUESTION
-      │
-      ▼
-  THE QURAN
-      │
-      ▼
-  THE SUNNAH (Mutawātir AND authentic Āḥād)
-      │
-      ▼
-    IJMĀ'
-      │
-      ▼
-  COMPANIONS' OPINIONS
-      │
-      ▼
-  STRICT QIYĀS
-      │
-      ▼
-  (no istiḥsān)
-\`\`\`
+<!-- METHOD:shafii -->
 
 ---
 
@@ -282,27 +210,7 @@ His students compiled these opinions, creating a school with **much internal fle
 
 ### Hanbali Method Diagram
 
-\`\`\`
-LEGAL QUESTION
-      │
-      ▼
-  THE QURAN
-      │
-      ▼
-  THE SUNNAH (all categories)
-      │
-      ▼
-  COMPANION'S FATWA
-      │
-      ▼
-  ḌA'ĪF HADITH (if nothing else)
-      │
-      ▼
-    IJMĀ'
-      │
-      ▼
-  QIYĀS (last resort)
-\`\`\`
+<!-- METHOD:hanbali -->
 
 ---
 

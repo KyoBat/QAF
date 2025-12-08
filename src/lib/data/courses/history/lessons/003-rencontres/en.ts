@@ -356,25 +356,7 @@ Aḥmad then refused to **create his own school** for a long time. It was his st
 
 Let's visualize the chain of encounters:
 
-\`\`\`
-    🟢 ABŪ ḤANĪFA (80-150 AH)
-           │
-           ├──── Meeting in Medina/Mecca ─────┐
-           │                                   │
-           ▼                                   ▼
-    [Al-Shaybānī]                      🟡 MĀLIK (93-179 AH)
-           │                                   │
-           │                                   │
-           └───────────┬───────────────────────┘
-                       │
-                       ▼
-               🔵 AL-SHĀFI'Ī (150-204 AH)
-                       │
-                       │ (4 years of intensive study)
-                       │
-                       ▼
-               🟣 AḤMAD (164-241 AH)
-\`\`\`
+<!-- CHAIN -->
 
 ---
 
