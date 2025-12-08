@@ -9,7 +9,19 @@ export const content = `# Le Fiqh des Prières Spéciales
 
 Louange à Allah qui nous a guidés et nous ne l'aurions pas été sans Sa guidance. Que la paix et les bénédictions soient sur notre Prophète Muhammad ﷺ. Allah a accordé à cette communauté deux fêtes bénies : l'Aïd Al-Fitr après le Ramadan, et l'Aïd Al-Adha le 10 de Dhu Al-Hijjah.
 
-> Le Prophète ﷺ arriva à Médine et trouva les gens avec deux jours de fête. Il dit : **« Allah vous a remplacé ces deux jours par deux meilleurs : le jour d'Al-Adha et le jour d'Al-Fitr »** — Abu Dawud (1134)
+<div class="scene-box">
+
+**🎭 La Scène de l'Arrivée du Prophète ﷺ à Médine**
+
+*Le Prophète ﷺ arriva à Médine...*
+
+*Il trouva les gens de Médine avec deux jours de fête hérités de l'époque préislamique...*
+
+**Le Prophète ﷺ :** « Allah vous a remplacé ces deux jours par **deux meilleurs** : le jour d'Al-Adha, et le jour d'Al-Fitr »
+
+</div>
+
+**📍 Rapporteur :** Anas ibn Malik رضي الله عنه — Abu Dawud (1134)
 
 ---
 

@@ -11,7 +11,23 @@ All praise be to Allah who did not burden His servants with what they cannot bea
 
 > Allah تعالى says: **"Fear Allah as much as you are able"** — At-Taghabun: 16
 
-> The Prophet ﷺ said to 'Imran ibn Husayn: **"Pray standing, if you cannot then sitting, if you cannot then on your side"** — Al-Bukhari (1117)
+<div class="scene-box">
+
+**🎭 The Scene of 'Imran ibn Husayn — The Foundation for Prayer of the Sick**
+
+*'Imran ibn Husayn رضي الله عنه was suffering from hemorrhoids...*
+
+*He could not sit, let alone stand...*
+
+*He went to ask the Prophet ﷺ how to pray:*
+
+**The Prophet ﷺ:** "Pray standing, if you cannot then sitting, if you cannot then on your side"
+
+</div>
+
+**📍 Narrator:** 'Imran ibn Husayn رضي الله عنه — Al-Bukhari (1117)
+
+> 📌 **Lesson:** This monumental hadith shows that prayer never falls away, it adapts according to one's ability.
 
 ---
 

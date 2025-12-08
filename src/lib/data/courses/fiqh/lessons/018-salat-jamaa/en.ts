@@ -39,8 +39,38 @@ According to the Maliki school, congregational prayer for the five daily prayers
 
 **The Hanbalis** base their opinion on:
 - The verse: **"And bow with those who bow"** (Al-Baqara: 43)
-- The hadith of the blind man who asked for an exemption, the Prophet ﷺ said: **"I find no exemption for you"** — Muslim (653)
-- The threat: **"I have certainly considered ordering the prayer to be established, then commanding a man to lead the people in prayer, then going with men carrying bundles of firewood to people who do not attend the prayer and burning their houses down"** — Al-Bukhari (644), Muslim (651)
+
+<div class="scene-box">
+
+**🎭 The Scene of the Blind Man Who Asked for Exemption**
+
+*A blind man came to the Prophet ﷺ...*
+
+*He had no guide to lead him to the mosque...*
+
+**The blind man:** O Messenger of Allah, I am a blind man, my house is far, and I have a guide who does not suit me. Do I have an exemption to pray at home?
+
+**The Prophet ﷺ:** "Do you hear the call to prayer?"
+
+**The blind man:** Yes.
+
+**The Prophet ﷺ:** "I find no exemption for you"
+
+</div>
+
+**📍 Narrator:** Abu Hurayra رضي الله عنه — Muslim (653)
+
+<div class="scene-box">
+
+**🎭 The Threat to Burn the Houses**
+
+*The Prophet ﷺ saw people who did not attend the congregational prayer...*
+
+**The Prophet ﷺ:** "I have certainly considered ordering the prayer to be established, then commanding a man to lead the people in prayer, then going with men carrying bundles of firewood to people who do not attend the prayer and burning their houses down"
+
+</div>
+
+**📍 Narrator:** Abu Hurayra رضي الله عنه — Al-Bukhari (644), Muslim (651)
 
 ---
 

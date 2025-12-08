@@ -39,8 +39,38 @@ Selon l'école Malikite, la prière en groupe pour les cinq prières quotidienne
 
 **Les Hanbalites** se basent sur :
 - Le verset : **« Et inclinez-vous avec ceux qui s'inclinent »** (Al-Baqara : 43)
-- Le hadith de l'aveugle qui demanda une dispense, le Prophète ﷺ lui dit : **« Je ne trouve pas de dispense pour toi »** — Muslim (653)
-- La menace : **« J'ai certes songé à ordonner la prière, puis à brûler les maisons de ceux qui n'y assistent pas »** — Al-Bukhari (644), Muslim (651)
+
+<div class="scene-box">
+
+**🎭 La Scène de l'Aveugle qui Demanda une Dispense**
+
+*Un homme aveugle vint au Prophète ﷺ...*
+
+*Il n'avait pas de guide pour le mener à la mosquée...*
+
+**L'aveugle :** Ô Messager d'Allah, je suis un homme aveugle, ma maison est éloignée, et j'ai un guide qui ne me convient pas. Ai-je une dispense pour prier chez moi ?
+
+**Le Prophète ﷺ :** « Entends-tu l'appel à la prière ? »
+
+**L'aveugle :** Oui.
+
+**Le Prophète ﷺ :** « Je ne trouve pas de dispense pour toi »
+
+</div>
+
+**📍 Rapporteur :** Abu Hurayra رضي الله عنه — Muslim (653)
+
+<div class="scene-box">
+
+**🎭 La Menace de Brûler les Maisons**
+
+*Le Prophète ﷺ voyait des gens qui n'assistaient pas à la prière en groupe...*
+
+**Le Prophète ﷺ :** « J'ai certes songé à ordonner la prière, puis à commander un homme de diriger les gens, puis à partir avec des hommes portant des fagots de bois vers ceux qui n'assistent pas à la prière et à brûler leurs maisons »
+
+</div>
+
+**📍 Rapporteur :** Abu Hurayra رضي الله عنه — Al-Bukhari (644), Muslim (651)
 
 ---
 

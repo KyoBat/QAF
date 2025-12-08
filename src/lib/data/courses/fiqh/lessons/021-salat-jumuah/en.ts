@@ -19,7 +19,19 @@ All praise be to Allah who made Friday the best day of the week. May peace and b
 
 The Friday prayer is an **individual obligation** for every Muslim man who is free, resident, and healthy.
 
-> The Prophet ﷺ said: **"People will cease abandoning Friday prayers, or Allah will seal their hearts and they will be among the heedless"** — Muslim (865)
+<div class="scene-box">
+
+**🎭 The Warning Against Abandoning Friday Prayer**
+
+*The Prophet ﷺ saw people who abandoned the Friday prayer...*
+
+*He warned them severely:*
+
+**The Prophet ﷺ:** "People will cease abandoning Friday prayers, or **Allah will seal their hearts** and they will be among the heedless"
+
+</div>
+
+**📍 Narrator:** Ibn 'Umar and Abu Hurayra رضي الله عنهما — Muslim (865)
 
 > And he ﷺ said: **"Friday prayer is a duty incumbent upon every Muslim in congregation, except four: a slave, a woman, a child, or a sick person"** — Abu Dawud (1067)
 

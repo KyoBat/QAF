@@ -9,7 +9,19 @@ export const content = `# 📜 Fiqh of Special Prayers
 
 All praise be to Allah who has guided us, and we would not have been guided without His guidance. May peace and blessings be upon our Prophet Muhammad ﷺ. Allah has blessed this nation with two blessed festivals: Eid Al-Fitr after Ramadan, and Eid Al-Adha on the 10th of Dhu Al-Hijjah.
 
-> The Prophet ﷺ arrived in Medina and found the people with two days of celebration. He said: **"Allah has replaced these two days with two better ones: the day of Al-Adha and the day of Al-Fitr"** — Abu Dawud (1134)
+<div class="scene-box">
+
+**🎭 The Scene of the Prophet's ﷺ Arrival in Medina**
+
+*The Prophet ﷺ arrived in Medina...*
+
+*He found the people of Medina with two days of celebration inherited from pre-Islamic times...*
+
+**The Prophet ﷺ:** "Allah has replaced these two days with **two better ones**: the day of Al-Adha, and the day of Al-Fitr"
+
+</div>
+
+**📍 Narrator:** Anas ibn Malik رضي الله عنه — Abu Dawud (1134)
 
 ---
 

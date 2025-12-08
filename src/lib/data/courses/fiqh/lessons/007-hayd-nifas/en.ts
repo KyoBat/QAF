@@ -203,11 +203,6 @@ Same as Ghusl from Janabah, with the recommendation to:
 
 ---
 
-**And Allah knows best**
-`;
-
----
-
 ## Summary of Rulings
 
 ### The Menstruating Woman and the One in Nifas:
@@ -227,4 +222,8 @@ Same as Ghusl from Janabah, with the recommendation to:
 ---
 
 *Aisha (may Allah be pleased with her) said: "We went out with the Prophet ﷺ mentioning nothing but Hajj. When we came to Sarif, I got my period. The Prophet ﷺ entered upon me while I was crying and said: 'What makes you cry?' I said: 'By Allah, I wish I had not come out this year.' He said: 'What is the matter with you? Perhaps you got your period?' I said: 'Yes.' He said: 'This is something that Allah has decreed for the daughters of Adam. Do what the pilgrim does except do not circumambulate the House until you become pure.'"* (Agreed upon).
+
+---
+
+**And Allah knows best**
 `;

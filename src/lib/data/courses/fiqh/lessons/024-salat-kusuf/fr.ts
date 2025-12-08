@@ -9,7 +9,23 @@ export const content = `# Le Fiqh des Prières Spéciales
 
 Louange à Allah qui nous montre Ses signes dans les cieux et sur terre. Que la paix et les bénédictions soient sur notre Prophète Muhammad ﷺ. L'éclipse solaire et lunaire sont des signes d'Allah par lesquels Il effraie Ses serviteurs.
 
-> Le Prophète ﷺ a dit : **« Le soleil et la lune sont deux signes parmi les signes d'Allah. Ils ne s'éclipsent pas pour la mort ou la vie de quelqu'un. Quand vous voyez cela, invoquez Allah, faites le takbir, priez et donnez en aumône »** — Al-Bukhari (1044)
+<div class="scene-box">
+
+**🎭 La Scène de l'Éclipse le Jour de la Mort d'Ibrahim**
+
+*Le soleil s'éclipsa le jour où mourut Ibrahim, le fils du Prophète ﷺ...*
+
+*Les gens dirent : Il s'est éclipsé pour la mort d'Ibrahim !*
+
+*Alors le Prophète ﷺ voulut corriger leur croyance...*
+
+**Le Prophète ﷺ :** « Le soleil et la lune sont deux signes parmi les signes d'Allah. **Ils ne s'éclipsent pas pour la mort ou la vie de quelqu'un.** Quand vous voyez cela, invoquez Allah, faites le takbir, priez et donnez en aumône »
+
+</div>
+
+**📍 Rapporteur :** Al-Mughira ibn Shu'ba رضي الله عنه — Al-Bukhari (1044)
+
+> 📌 **Leçon :** Le Prophète ﷺ corrigea la croyance des gens dans les moments les plus difficiles — le jour de la mort de son fils.
 
 ---
 

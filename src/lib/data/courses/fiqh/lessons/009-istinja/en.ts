@@ -181,9 +181,6 @@ Whoever is afflicted with obsessive doubts (waswasa) should:
 
 ---
 
-**And Allah knows best**
-`;
-
 ## Summary of Etiquettes
 
 | ✅ Recommended | ❌ Disliked or Prohibited |
@@ -198,4 +195,8 @@ Whoever is afflicted with obsessive doubts (waswasa) should:
 ---
 
 *The Prophet ﷺ said: **"Be careful to avoid urine, for most of the punishment of the grave is because of it."** (Narrated by Ad-Daraqutni, authenticated by Al-Albani).*
+
+---
+
+**And Allah knows best**
 `;

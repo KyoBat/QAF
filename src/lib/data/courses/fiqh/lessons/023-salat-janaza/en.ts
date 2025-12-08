@@ -11,7 +11,21 @@ All praise be to Allah who created us, will cause us to die, then will resurrect
 
 > The Prophet ﷺ said: **"Pray over your dead"** — Ibn Majah (1458)
 
-> And he ﷺ said: **"Whoever follows a funeral until prayer is offered for it will have one qirat, and whoever follows it until burial will have two qirat." They asked: "What are the two qirat?" He said: "Like two immense mountains"** — Al-Bukhari (1325)
+<div class="scene-box">
+
+**🎭 The Scene of the Two Qirat — The Merit of Accompanying Funerals**
+
+*The companions were sitting with the Prophet ﷺ...*
+
+**The Prophet ﷺ:** "Whoever follows a funeral until prayer is offered for it will have one qirat (of reward), and whoever follows it until burial will have two qirat"
+
+**The Companions:** What are the two qirat?
+
+**The Prophet ﷺ:** "Like **two immense mountains**"
+
+</div>
+
+**📍 Narrator:** Abu Hurayra رضي الله عنه — Al-Bukhari (1325)
 
 ---
 

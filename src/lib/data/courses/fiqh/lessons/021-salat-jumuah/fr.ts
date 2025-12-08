@@ -19,7 +19,19 @@ Louange à Allah qui a fait du vendredi le meilleur jour de la semaine. Que la p
 
 La prière du vendredi est une **obligation individuelle** pour tout homme musulman, libre, résident et sain.
 
-> Le Prophète ﷺ a dit : **« Des gens cesseront de délaisser les prières du vendredi, ou Allah scellera leurs cœurs et ils seront parmi les insouciants »** — Muslim (865)
+<div class="scene-box">
+
+**🎭 L'Avertissement contre l'Abandon du Vendredi**
+
+*Le Prophète ﷺ voyait des gens qui délaissaient la prière du vendredi...*
+
+*Il les avertit sévèrement :*
+
+**Le Prophète ﷺ :** « Des gens cesseront de délaisser les prières du vendredi, ou **Allah scellera leurs cœurs** et ils seront parmi les insouciants »
+
+</div>
+
+**📍 Rapporteur :** Ibn 'Umar et Abu Hurayra رضي الله عنهما — Muslim (865)
 
 > Et il a dit ﷺ : **« La prière du vendredi est un devoir obligatoire pour tout musulman en assemblée, sauf quatre : un esclave, une femme, un enfant ou un malade »** — Abu Dawud (1067)
 

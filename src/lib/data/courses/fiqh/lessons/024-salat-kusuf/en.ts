@@ -9,7 +9,23 @@ export const content = `# 📜 Fiqh of Special Prayers
 
 All praise be to Allah who shows us His signs in the heavens and on earth. May peace and blessings be upon our Prophet Muhammad ﷺ. Solar and lunar eclipses are signs of Allah by which He frightens His servants.
 
-> The Prophet ﷺ said: **"The sun and moon are two signs among the signs of Allah. They do not eclipse for the death or life of anyone. When you see that, invoke Allah, make takbir, pray and give in charity"** — Al-Bukhari (1044)
+<div class="scene-box">
+
+**🎭 The Scene of the Eclipse on the Day Ibrahim Died**
+
+*The sun eclipsed on the day Ibrahim, the son of the Prophet ﷺ, died...*
+
+*The people said: It eclipsed because of Ibrahim's death!*
+
+*So the Prophet ﷺ wanted to correct their belief...*
+
+**The Prophet ﷺ:** "The sun and moon are two signs among the signs of Allah. **They do not eclipse for the death or life of anyone.** When you see that, invoke Allah, make takbir, pray and give in charity"
+
+</div>
+
+**📍 Narrator:** Al-Mughira ibn Shu'ba رضي الله عنه — Al-Bukhari (1044)
+
+> 📌 **Lesson:** The Prophet ﷺ corrected the people's belief in the most difficult moments — the day his son died.
 
 ---
 

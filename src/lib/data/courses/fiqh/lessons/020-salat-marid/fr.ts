@@ -11,7 +11,23 @@ Louange à Allah qui n'a pas imposé à Ses serviteurs ce qu'ils ne peuvent supp
 
 > Allah تعالى dit : **« Craignez Allah autant que vous le pouvez »** — At-Taghabun : 16
 
-> Le Prophète ﷺ a dit à 'Imran ibn Husayn : **« Prie debout, si tu ne peux pas alors assis, si tu ne peux pas alors sur le côté »** — Al-Bukhari (1117)
+<div class="scene-box">
+
+**🎭 La Scène de 'Imran ibn Husayn — Le fondement de la prière du malade**
+
+*'Imran ibn Husayn رضي الله عنه était malade des hémorroïdes...*
+
+*Il ne pouvait pas s'asseoir, encore moins se tenir debout...*
+
+*Il alla demander au Prophète ﷺ comment prier :*
+
+**Le Prophète ﷺ :** « Prie debout, si tu ne peux pas alors assis, si tu ne peux pas alors sur le côté »
+
+</div>
+
+**📍 Rapporteur :** 'Imran ibn Husayn رضي الله عنه — Al-Bukhari (1117)
+
+> 📌 **Leçon :** Ce hadith monumental montre que la prière ne tombe jamais, elle s'adapte selon la capacité.
 
 ---
 

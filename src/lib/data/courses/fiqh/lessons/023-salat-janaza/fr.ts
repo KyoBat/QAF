@@ -11,7 +11,21 @@ Louange à Allah qui nous a créés, nous fera mourir, puis nous ressuscitera. Q
 
 > Le Prophète ﷺ a dit : **« Priez sur vos morts »** — Ibn Majah (1458)
 
-> Et il a dit ﷺ : **« Quiconque suit un convoi funéraire jusqu'à ce qu'on prie sur lui aura un qirat (de récompense), et s'il reste jusqu'à l'enterrement, il aura deux qirat. » On lui demanda : « Qu'est-ce que les deux qirat ? » Il dit : « Comme deux immenses montagnes »** — Al-Bukhari (1325)
+<div class="scene-box">
+
+**🎭 La Scène des Deux Qirat — Le mérite d'accompagner les funérailles**
+
+*Les compagnons étaient assis avec le Prophète ﷺ...*
+
+**Le Prophète ﷺ :** « Quiconque suit un convoi funéraire jusqu'à ce qu'on prie sur lui aura un qirat (de récompense), et s'il reste jusqu'à l'enterrement, il aura deux qirat »
+
+**Les Compagnons :** Qu'est-ce que les deux qirat ?
+
+**Le Prophète ﷺ :** « Comme **deux immenses montagnes** »
+
+</div>
+
+**📍 Rapporteur :** Abu Hurayra رضي الله عنه — Al-Bukhari (1325)
 
 ---
 
