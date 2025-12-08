@@ -30,9 +30,9 @@ On the authority of Ibn Umar رضي الله عنهما that the Prophet ﷺ sai
 
 | Source | Number | Status |
 |--------|--------|--------|
-| **Sunan At-Tirmidhi** | 813 | ⚠️ Hasan |
-| **Sunan Ibn Majah** | 2896 | ⚠️ Hasan |
-| **Sunan Ad-Daraqutni** | 2677 | ⚠️ Hasan bi-shawahid |
+| **Sunan At-Tirmidhi** | 813 | ✔️ Hasan |
+| **Sunan Ibn Majah** | 2896 | ✔️ Hasan |
+| **Sunan Ad-Daraqutni** | 2677 | ✔️ Hasan bi-shawahid |
 | **Mustadrak Al-Hakim** | 1612 | ✅ Sahih (according to Al-Hakim) |
 
 ---

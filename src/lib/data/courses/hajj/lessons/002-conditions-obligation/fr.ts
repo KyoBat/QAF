@@ -30,9 +30,9 @@ export const content = `# 📜 شُرُوطُ وُجُوبِ الحَجّ — Le
 
 | Source | Numéro | Statut |
 |--------|--------|--------|
-| **Sunan At-Tirmidhi** | 813 | ⚠️ Hasan |
-| **Sunan Ibn Majah** | 2896 | ⚠️ Hasan |
-| **Sunan Ad-Daraqutni** | 2677 | ⚠️ Hasan bi-shawahid |
+| **Sunan At-Tirmidhi** | 813 | ✔️ Hasan |
+| **Sunan Ibn Majah** | 2896 | ✔️ Hasan |
+| **Sunan Ad-Daraqutni** | 2677 | ✔️ Hasan bi-shawahid |
 | **Mustadrak Al-Hakim** | 1612 | ✅ Sahih (selon Al-Hakim) |
 
 ---

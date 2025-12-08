@@ -3,9 +3,9 @@
  * English Content
  */
 
-export const content = `# Fiqh of Special Prayers
+export const content = `# 📜 Fiqh of Special Prayers
 
-## Prostrations of Recitation and Gratitude
+## 📖 Prostrations of Recitation and Gratitude
 
 All praise be to Allah who taught us the Quran and guided us to gratitude. May peace and blessings be upon our Prophet Muhammad ﷺ. These prostrations are acts of humility before Allah, either during recitation of certain verses, or in thankfulness for a blessing.
 
@@ -13,7 +13,7 @@ All praise be to Allah who taught us the Quran and guided us to gratitude. May p
 
 # Part 1: Prostration of Recitation (Sujud At-Tilawa)
 
-## 1. Definition and Status
+## 🔍 1. Definition and Status
 
 ### 📋 Definition
 
@@ -30,7 +30,7 @@ The **prostration of recitation** is a prostration performed when reading or hea
 
 ---
 
-## 2. Prostration Positions in the Quran
+## 🔷 2. Prostration Positions in the Quran
 
 ### ⚠️ MAJOR DIFFERENCE: Number of positions
 
@@ -59,7 +59,7 @@ The **prostration of recitation** is a prostration performed when reading or hea
 
 ---
 
-## 3. Description of the Prostration
+## 📚 3. Description of the Prostration
 
 | Step | Action |
 |------|--------|
@@ -73,7 +73,7 @@ The **prostration of recitation** is a prostration performed when reading or hea
 
 # Part 2: Prostration of Gratitude (Sujud Ash-Shukr)
 
-## 4. Definition and Status
+## 🎯 4. Definition and Status
 
 ### ⚠️ Difference on status
 
@@ -88,7 +88,7 @@ The **prostration of recitation** is a prostration performed when reading or hea
 
 ---
 
-## 5. Comparison of the Two Prostrations
+## ⚖️ 5. Comparison of the Two Prostrations
 
 | Aspect | Sujud Tilawa | Sujud Shukr |
 |--------|--------------|-------------|

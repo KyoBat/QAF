@@ -3,9 +3,9 @@
  * English Content
  */
 
-export const content = `# Fiqh of Special Prayers
+export const content = `# 📜 Fiqh of Special Prayers
 
-## The Two Eid Prayers (Salat Al-Eidayn)
+## 📖 The Two Eid Prayers (Salat Al-Eidayn)
 
 All praise be to Allah who has guided us, and we would not have been guided without His guidance. May peace and blessings be upon our Prophet Muhammad ﷺ. Allah has blessed this nation with two blessed festivals: Eid Al-Fitr after Ramadan, and Eid Al-Adha on the 10th of Dhu Al-Hijjah.
 
@@ -13,7 +13,7 @@ All praise be to Allah who has guided us, and we would not have been guided with
 
 ---
 
-## 1. Status of Eid Prayer
+## 🔍 1. Status of Eid Prayer
 
 ### ⚠️ Difference on status
 
@@ -28,7 +28,7 @@ All praise be to Allah who has guided us, and we would not have been guided with
 
 ---
 
-## 2. Time of Prayer
+## 🔷 2. Time of Prayer
 
 | Point | Rule |
 |-------|------|
@@ -44,7 +44,7 @@ All praise be to Allah who has guided us, and we would not have been guided with
 
 ---
 
-## 3. Description of the Prayer
+## 📚 3. Description of the Prayer
 
 ### ⚠️ MAJOR DIFFERENCE: The Takbirat
 
@@ -61,7 +61,7 @@ All praise be to Allah who has guided us, and we would not have been guided with
 
 ---
 
-## 4. The Eid Khutba
+## 🎯 4. The Eid Khutba
 
 | Aspect | Rule |
 |--------|------|
@@ -71,7 +71,7 @@ All praise be to Allah who has guided us, and we would not have been guided with
 
 ---
 
-## 5. Takbirat of Eid Days
+## ⚖️ 5. Takbirat of Eid Days
 
 ### 📋 Takbirat of Eid Al-Fitr
 
@@ -102,7 +102,7 @@ All praise be to Allah who has guided us, and we would not have been guided with
 
 ---
 
-## 6. Sunnas of Eid Day
+## 💡 6. Sunnas of Eid Day
 
 | Sunna | Detail |
 |-------|--------|
@@ -116,7 +116,7 @@ All praise be to Allah who has guided us, and we would not have been guided with
 
 ---
 
-## 7. Practical Cases
+## 🔷 7. Practical Cases
 
 ### 📌 Missing the prayer
 

@@ -5,7 +5,7 @@
 
 export const content = `# Le Fiqh des Prières Spéciales
 
-## La Prière de l'Éclipse (صلاة الكسوف والخسوف)
+## 📖 La Prière de l'Éclipse (صلاة الكسوف والخسوف)
 
 Louange à Allah qui nous montre Ses signes dans les cieux et sur terre. Que la paix et les bénédictions soient sur notre Prophète Muhammad ﷺ. L'éclipse solaire et lunaire sont des signes d'Allah par lesquels Il effraie Ses serviteurs.
 
@@ -13,7 +13,7 @@ Louange à Allah qui nous montre Ses signes dans les cieux et sur terre. Que la 
 
 ---
 
-## 1. Définitions
+## 🔍 1. Définitions
 
 ### 📋 Terminologie
 
@@ -26,7 +26,7 @@ Louange à Allah qui nous montre Ses signes dans les cieux et sur terre. Que la 
 
 ---
 
-## 2. Statut de la Prière
+## 🔷 2. Statut de la Prière
 
 ### 📌 Les avis des écoles
 
@@ -50,7 +50,7 @@ Louange à Allah qui nous montre Ses signes dans les cieux et sur terre. Que la 
 
 ---
 
-## 3. Le Temps de la Prière
+## 📚 3. Le Temps de la Prière
 
 ### 📋 Début et fin
 
@@ -66,7 +66,7 @@ Louange à Allah qui nous montre Ses signes dans les cieux et sur terre. Que la 
 
 ---
 
-## 4. Description de la Prière
+## 🎯 4. Description de la Prière
 
 ### ⚠️ DIVERGENCE MAJEURE : Nombre de ruku' par rak'a
 
@@ -128,7 +128,7 @@ Louange à Allah qui nous montre Ses signes dans les cieux et sur terre. Que la 
 
 ---
 
-## 5. Particularités de la Prière
+## ⚖️ 5. Particularités de la Prière
 
 ### 📋 Ce qui est recommandé
 
@@ -152,7 +152,7 @@ Louange à Allah qui nous montre Ses signes dans les cieux et sur terre. Que la 
 
 ---
 
-## 6. Éclipse Solaire vs Lunaire
+## 💡 6. Éclipse Solaire vs Lunaire
 
 ### ⚠️ Points de vue sur l'éclipse lunaire
 
@@ -175,7 +175,7 @@ Louange à Allah qui nous montre Ses signes dans les cieux et sur terre. Que la 
 
 ---
 
-## 7. Cas Pratiques
+## 🔷 7. Cas Pratiques
 
 ### 📌 Si l'éclipse se termine pendant la prière
 
@@ -202,7 +202,7 @@ Louange à Allah qui nous montre Ses signes dans les cieux et sur terre. Que la 
 
 ---
 
-## 8. Actes Recommandés Lors de l'Éclipse
+## 📝 8. Actes Recommandés Lors de l'Éclipse
 
 ### 📋 En plus de la prière
 

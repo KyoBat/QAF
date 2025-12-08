@@ -3,9 +3,9 @@
  * English Content - Multi-Madhhab Approach (Maliki Priority)
  */
 
-export const content = `# Fiqh of Special Prayers
+export const content = `# 📜 Fiqh of Special Prayers
 
-## The Traveler's Prayer (Salat Al-Musafir)
+## 📖 The Traveler's Prayer (Salat Al-Musafir)
 
 All praise be to Allah who lightened the obligations for His servants while traveling. May peace and blessings be upon our Prophet Muhammad ﷺ who said: **"Allah loves that His dispensations be taken just as He dislikes that His prohibitions be committed."** Travel is a situation that deserves special facilitations in worship.
 
@@ -13,7 +13,7 @@ All praise be to Allah who lightened the obligations for His servants while trav
 
 ---
 
-## 1. Traveler's Dispensations (رُخَص السفر)
+## 🔍 1. Traveler's Dispensations (رُخَص السفر)
 
 ### 📋 Facilitations granted to the traveler
 
@@ -27,7 +27,7 @@ All praise be to Allah who lightened the obligations for His servants while trav
 
 ---
 
-## 2. Shortening the Prayer (القصر)
+## 🔷 2. Shortening the Prayer (القصر)
 
 ### 📌 Definition
 
@@ -62,7 +62,7 @@ All praise be to Allah who lightened the obligations for His servants while trav
 
 ---
 
-## 3. Travel Distance (مسافة القصر)
+## 📚 3. Travel Distance (مسافة القصر)
 
 ### ⚠️ IMPORTANT DIFFERENCE
 
@@ -92,7 +92,7 @@ All praise be to Allah who lightened the obligations for His servants while trav
 
 ---
 
-## 4. Duration of Stay (مدة الإقامة)
+## 🎯 4. Duration of Stay (مدة الإقامة)
 
 ### ⚠️ MAJOR DIFFERENCE
 
@@ -123,7 +123,7 @@ All praise be to Allah who lightened the obligations for His servants while trav
 
 ---
 
-## 5. Combining Prayers (الجمع)
+## ⚖️ 5. Combining Prayers (الجمع)
 
 ### 📌 Definition
 
@@ -163,7 +163,7 @@ All praise be to Allah who lightened the obligations for His servants while trav
 
 ---
 
-## 6. Practical Rulings (أحكام عملية)
+## 💡 6. Practical Rulings (أحكام عملية)
 
 ### 📌 Traveler praying behind a resident
 
@@ -194,7 +194,7 @@ All praise be to Allah who lightened the obligations for His servants while trav
 
 ---
 
-## 7. Modern Cases (حالات معاصرة)
+## 🔷 7. Modern Cases (حالات معاصرة)
 
 ### 📌 Air travel
 

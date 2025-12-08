@@ -3,9 +3,9 @@
  * English Content - Multi-Madhhab Approach (Maliki Priority)
  */
 
-export const content = `# The Fiqh of Prayer
+export const content = `# 📜 The Fiqh of Prayer
 
-## Congregational Prayer (Salat Al-Jama'a)
+## 📖 Congregational Prayer (Salat Al-Jama'a)
 
 All praise be to Allah who made congregational prayer a pillar of Muslim communal life. May peace and blessings be upon our Prophet Muhammad ﷺ who never abandoned it. Congregational prayer is one of the most apparent rites of Islam and a cause for multiplied rewards.
 
@@ -13,7 +13,7 @@ All praise be to Allah who made congregational prayer a pillar of Muslim communa
 
 ---
 
-## 1. The Legal Ruling (الحكم الشرعي)
+## 🔍 1. The Legal Ruling (الحكم الشرعي)
 
 ### ⚠️ The Opinions of the 4 Schools
 
@@ -44,7 +44,7 @@ According to the Maliki school, congregational prayer for the five daily prayers
 
 ---
 
-## 2. Virtues of Congregational Prayer (فضائل صلاة الجماعة)
+## 🔷 2. Virtues of Congregational Prayer (فضائل صلاة الجماعة)
 
 ### 🌟 Multiplication of Rewards
 
@@ -62,7 +62,7 @@ According to the Maliki school, congregational prayer for the five daily prayers
 
 ---
 
-## 3. Conditions for the Imam (شروط الإمامة)
+## 📚 3. Conditions for the Imam (شروط الإمامة)
 
 ### 📋 Conditions for Valid Imamate
 
@@ -91,7 +91,7 @@ According to the Maliki school, congregational prayer for the five daily prayers
 
 ---
 
-## 4. Rules of the Rows (أحكام الصفوف)
+## 🎯 4. Rules of the Rows (أحكام الصفوف)
 
 ### 📏 The Importance of Straightening Rows
 
@@ -130,7 +130,7 @@ According to the Maliki school, congregational prayer for the five daily prayers
 
 ---
 
-## 5. Following the Imam (متابعة الإمام)
+## ⚖️ 5. Following the Imam (متابعة الإمام)
 
 ### 📋 The Obligation to Follow the Imam
 
@@ -162,7 +162,7 @@ The follower (ma'mum) must follow the imam in all his movements, without precedi
 
 ---
 
-## 6. Practical Cases (مسائل عملية)
+## 💡 6. Practical Cases (مسائل عملية)
 
 ### 📌 Arriving Late to the Mosque
 

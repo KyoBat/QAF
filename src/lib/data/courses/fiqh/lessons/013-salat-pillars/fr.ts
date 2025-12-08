@@ -3,9 +3,9 @@
  * Contenu en Français
  */
 
-export const content = `# Le Fiqh de la Prière
+export const content = `# 📜 Le Fiqh de la Prière
 
-## Les Piliers de la Prière
+## 📖 Les Piliers de la Prière
 
 Louange à Allah qui nous a enseigné comment nous tenir devant Lui. Que la paix et les bénédictions soient sur le sceau de Ses messagers qui a dit : **« Priez comme vous m'avez vu prier »** — Rapporté par Al-Bukhari (631).
 
@@ -13,7 +13,7 @@ Louange à Allah qui nous a enseigné comment nous tenir devant Lui. Que la paix
 
 ---
 
-## Les quatorze piliers (selon l'avis reconnu chez les Hanbalites et Chafiites)
+## 📚 Les quatorze piliers (selon l'avis reconnu chez les Hanbalites et Chafiites)
 
 | N° | Pilier | Preuve de référence | Bénéfice pratique |
 |----|--------|---------------------|-------------------|
@@ -36,7 +36,7 @@ Louange à Allah qui nous a enseigné comment nous tenir devant Lui. Que la paix
 
 ---
 
-## La sérénité — Le pilier négligé
+## 🔷 La sérénité — Le pilier négligé
 
 ### Définition de la sérénité
 C'est le calme dans chaque pilier, le temps que les membres se stabilisent et que le dhikr obligatoire soit accompli. C'est un pilier selon la majorité (Chafiites, Hanbalites et Malékites).
@@ -80,7 +80,7 @@ Le Prophète ﷺ a dit : **« Ne picorez pas comme le corbeau, et ne vous étale
 
 ---
 
-## Carte mentale pour comprendre les piliers
+## 🗺️ Carte mentale pour comprendre les piliers
 
 1. **Avant la prosternation :** Station debout → Takbir d'ouverture → Fatiha → Inclinaison → Redressement → Station droite.
 2. **La prosternation et l'entre-deux :** Première prosternation → Courte assise → Deuxième prosternation.
@@ -90,17 +90,55 @@ Divise les piliers en trois étapes pour que la séquence se fixe dans l'esprit.
 
 ---
 
-## Comparaisons rapides entre écoles
+## ⚖️ Comparaison des écoles sur les piliers de la prière
 
-- **Les Malékites :** ajoutent des intentions et des questions dans les piliers pour renforcer l'humilité.
-- **Les Hanafites :** considèrent certains de ce que nous avons mentionné comme obligations et non piliers, il faut donc connaître ton école lors de la fatwa.
-- **La majorité :** est d'accord sur l'essentiel, les différences sont souvent terminologiques.
+### 📌 Nombre de piliers selon chaque école
 
-> La règle : *Celui qui omet un pilier intentionnellement, sa prière est invalide. Celui qui l'omet par oubli doit y revenir tant qu'il est dans la prière, puis fait la prosternation de l'oubli à la fin.*
+| École | Nombre de piliers | Principales différences |
+|-------|------------------|------------------------|
+| 🟡 **Malikite** | 14 piliers | Ajoutent **l'intention** comme pilier, et considèrent **la récitation à voix haute/basse** comme pilier selon le contexte |
+| 🟢 **Hanafite** | 6 piliers seulement | Considèrent beaucoup de ce qui est mentionné comme **obligations** et non piliers (comme le tashahhud et la prière sur le Prophète ﷺ) |
+| 🔵 **Shafiite** | 13 piliers | Proche des Hanbalites, avec des détails sur **l'ordre des piliers** |
+| 🟣 **Hanbalite** | 14 piliers | Comme mentionné dans le tableau ci-dessus |
+
+### 📌 Divergence des écoles sur la récitation de la Fatiha
+
+| École | Statut pour l'imam | Statut pour le suiveur | Preuve retenue |
+|-------|-------------------|----------------------|----------------|
+| 🟡 **Malikite** | Pilier, la prière est invalide si omise intentionnellement | Elle n'est pas obligatoire pour le suiveur dans la prière à voix haute | L'écoute attentive de l'imam est obligatoire |
+| 🟢 **Hanafite** | Obligatoire mais non pilier, compensée par la prosternation de l'oubli | Non obligatoire pour le suiveur du tout | « Celui qui a un imam, la récitation de celui-ci lui suffit » — faible mais ils l'ont appliqué |
+| 🔵 **Shafiite** | Pilier sans lequel la prière n'est pas valide | Obligatoire pour le suiveur dans chaque rak'a | « Pas de prière pour celui qui ne récite pas la Fatiha » — Bukhari |
+| 🟣 **Hanbalite** | Pilier dans chaque rak'a | Elle n'est pas obligatoire pour le suiveur dans la prière à voix haute | Conciliation entre les preuves |
+
+> 📌 **Avis Malikite retenu :** La Fatiha est un pilier pour l'imam et celui qui prie seul, et elle n'est pas obligatoire pour le suiveur dans la prière à voix haute en raison de l'obligation d'écouter attentivement.
+
+### 📌 Divergence des écoles sur la sérénité (tuma'nina)
+
+| École | Statut de la sérénité | Conséquence de son omission |
+|-------|----------------------|---------------------------|
+| 🟡 **Malikite** | Pilier sans lequel la prière n'est pas valide | Invalidité de la prière |
+| 🟢 **Hanafite** | Obligatoire mais non pilier | La prière est valide avec péché, compensée par la prosternation de l'oubli |
+| 🔵 **Shafiite** | Pilier sans lequel la prière n'est pas valide | Invalidité de la prière |
+| 🟣 **Hanbalite** | Pilier sans lequel la prière n'est pas valide | Invalidité de la prière |
+
+> ⚠️ **Avertissement :** L'avis de la majorité est que la sérénité est un pilier. Celui qui picote sa prière, sa prière est invalide selon trois écoles !
+
+### 📌 Divergence des écoles sur le dernier tashahhud
+
+| École | Statut | Preuve |
+|-------|--------|--------|
+| 🟡 **Malikite** | Obligatoire (pilier) | Pratique constante du Prophète ﷺ |
+| 🟢 **Hanafite** | Obligatoire mais non pilier | Compensé par la prosternation de l'oubli |
+| 🔵 **Shafiite** | Pilier | Hadith d'Ibn Mas'ud |
+| 🟣 **Hanbalite** | Pilier | Hadith d'Ibn Mas'ud |
 
 ---
 
-## Étapes d'entraînement
+> **Règle d'or :** *Celui qui omet un pilier intentionnellement, sa prière est invalide. Celui qui l'omet par oubli doit y revenir tant qu'il est dans la prière, puis fait la prosternation de l'oubli à la fin.*
+
+---
+
+## 🎯 Étapes d'entraînement
 
 - **Carte de suivi :** Écris les quatorze piliers, et place à côté de chaque pilier une case (✓) pour confirmer que tu l'as accompli dans ta dernière prière.
 - **Apprentissage audio :** Écoute une prière modèle d'un récitateur accompli et observe ses transitions calmes.
@@ -108,7 +146,7 @@ Divise les piliers en trois étapes pour que la séquence se fixe dans l'esprit.
 
 ---
 
-## Questions d'évaluation
+## ❓ Questions d'évaluation
 
 1. Quelle est la preuve de l'obligation de la sérénité ?
 2. Comment refais-tu la prière si tu as oublié l'inclinaison ?

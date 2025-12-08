@@ -5,7 +5,7 @@
 
 export const content = `# Le Fiqh des Prières Spéciales
 
-## La Prière pour la Pluie (صلاة الاستسقاء)
+## �� La Prière pour la Pluie (صلاة الاستسقاء)
 
 Louange à Allah qui fait descendre la pluie après le désespoir et répand Sa miséricorde. Que la paix et les bénédictions soient sur notre Prophète Muhammad ﷺ. Lorsque la sécheresse frappe et que la pluie se fait rare, les musulmans se tournent vers Allah en implorant Sa miséricorde.
 
@@ -13,7 +13,7 @@ Louange à Allah qui fait descendre la pluie après le désespoir et répand Sa 
 
 ---
 
-## 1. Définition et Statut
+## 🔍 1. Définition et Statut
 
 ### 📋 Définition
 
@@ -30,7 +30,7 @@ Louange à Allah qui fait descendre la pluie après le désespoir et répand Sa 
 
 ---
 
-## 2. Les Différentes Formes d'Istisqa'
+## 🔷 2. Les Différentes Formes d'Istisqa'
 
 ### 📋 Les trois niveaux
 
@@ -42,7 +42,7 @@ Louange à Allah qui fait descendre la pluie après le désespoir et répand Sa 
 
 ---
 
-## 3. Description de la Prière
+## 📚 3. Description de la Prière
 
 ### 📋 Structure
 
@@ -66,7 +66,7 @@ Louange à Allah qui fait descendre la pluie après le désespoir et répand Sa 
 
 ---
 
-## 4. La Khutba
+## 🎯 4. La Khutba
 
 ### 📋 Position de la khutba
 
@@ -88,7 +88,7 @@ Louange à Allah qui fait descendre la pluie après le désespoir et répand Sa 
 
 ---
 
-## 5. Le Retournement du Rida' (Manteau)
+## ⚖️ 5. Le Retournement du Rida' (Manteau)
 
 ### ⚠️ DIVERGENCE IMPORTANTE
 
@@ -115,7 +115,7 @@ Louange à Allah qui fait descendre la pluie après le désespoir et répand Sa 
 
 ---
 
-## 6. Le Moment de la Prière
+## 💡 6. Le Moment de la Prière
 
 ### 📋 Quand prier ?
 
@@ -127,7 +127,7 @@ Louange à Allah qui fait descendre la pluie après le désespoir et répand Sa 
 
 ---
 
-## 7. Préparatifs et Adab
+## 🔷 7. Préparatifs et Adab
 
 ### 📋 Avant la prière
 
@@ -159,7 +159,7 @@ Louange à Allah qui fait descendre la pluie après le désespoir et répand Sa 
 
 ---
 
-## 8. Lever les Mains dans le Du'a
+## 📝 8. Lever les Mains dans le Du'a
 
 ### 📌 Manière spécifique
 

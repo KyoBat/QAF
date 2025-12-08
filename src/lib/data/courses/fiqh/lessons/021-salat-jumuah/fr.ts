@@ -5,7 +5,7 @@
 
 export const content = `# Le Fiqh des Prières Spéciales
 
-## La Prière du Vendredi (صلاة الجمعة)
+## 📖 La Prière du Vendredi (صلاة الجمعة)
 
 Louange à Allah qui a fait du vendredi le meilleur jour de la semaine. Que la paix et les bénédictions soient sur notre Prophète Muhammad ﷺ qui a dit : **« Le meilleur jour sur lequel le soleil s'est levé est le vendredi »**. La prière du vendredi est une obligation pour tout homme musulman résident.
 
@@ -13,7 +13,7 @@ Louange à Allah qui a fait du vendredi le meilleur jour de la semaine. Que la p
 
 ---
 
-## 1. Statut et Importance
+## 🔍 1. Statut et Importance
 
 ### 📌 Obligation individuelle (فرض عين)
 
@@ -34,7 +34,7 @@ La prière du vendredi est une **obligation individuelle** pour tout homme musul
 
 ---
 
-## 2. Conditions d'Obligation (شروط الوجوب)
+## 🔷 2. Conditions d'Obligation (شروط الوجوب)
 
 ### 📋 Sur qui est-elle obligatoire ?
 
@@ -58,7 +58,7 @@ La prière du vendredi est une **obligation individuelle** pour tout homme musul
 
 ---
 
-## 3. Conditions de Validité (شروط الصحة)
+## 📚 3. Conditions de Validité (شروط الصحة)
 
 ### ⚠️ DIVERGENCE MAJEURE : Le nombre minimum
 
@@ -83,7 +83,7 @@ La prière du vendredi est une **obligation individuelle** pour tout homme musul
 
 ---
 
-## 4. La Khutba (le Prêche)
+## 🎯 4. La Khutba (le Prêche)
 
 ### 📋 Les piliers de la Khutba (أركان الخطبة)
 
@@ -116,7 +116,7 @@ La prière du vendredi est une **obligation individuelle** pour tout homme musul
 
 ---
 
-## 5. Description de la Prière
+## ⚖️ 5. Description de la Prière
 
 ### 📋 Structure
 
@@ -135,7 +135,7 @@ La prière du vendredi est une **obligation individuelle** pour tout homme musul
 
 ---
 
-## 6. Les Adab du Vendredi (آداب يوم الجمعة)
+## 💡 6. Les Adab du Vendredi (آداب يوم الجمعة)
 
 ### 📋 Avant la prière
 
@@ -154,7 +154,7 @@ La prière du vendredi est une **obligation individuelle** pour tout homme musul
 
 ---
 
-## 7. Interdictions pendant la Khutba
+## 🔷 7. Interdictions pendant la Khutba
 
 ### 📋 Ce qui est interdit
 
@@ -176,7 +176,7 @@ La prière du vendredi est une **obligation individuelle** pour tout homme musul
 
 ---
 
-## 8. Cas Pratiques
+## 📝 8. Cas Pratiques
 
 ### 📌 Celui qui arrive en retard
 

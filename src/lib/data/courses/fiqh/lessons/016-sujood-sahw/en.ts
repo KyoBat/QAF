@@ -3,9 +3,9 @@
  * English Content
  */
 
-export const content = `# The Fiqh of Prayer
+export const content = `# 📜 The Fiqh of Prayer — Prostration of Forgetfulness
 
-## The Prostration of Forgetfulness in Detail
+## 📖 The Prostration of Forgetfulness in Detail
 
 All praise be to Allah who established a remedy for every deficiency in prayer. May peace and blessings be upon the one who forgot in his prayer to teach us. The prostration of forgetfulness is from Allah's mercy upon His servants, as He made it a means to rectify the deficiency and error that occurs in prayer due to forgetfulness.
 
@@ -13,7 +13,7 @@ All praise be to Allah who established a remedy for every deficiency in prayer. 
 
 ---
 
-## Definition of the Prostration of Forgetfulness
+## 🔍 Definition of the Prostration of Forgetfulness
 
 **As-Sahw linguistically:** Inattention and forgetfulness.
 
@@ -143,7 +143,51 @@ Its ruling is like forgetfulness in obligatory prayer, due to the generality of 
 
 ---
 
-## Situations Where Prostration of Forgetfulness is Not Legislated
+## 🎓 Comparison of Schools on Prostration of Forgetfulness
+
+### 📌 Timing of Prostration of Forgetfulness
+
+| School | Rule | Detail |
+|--------|------|--------|
+| 🟡 **Maliki** | Before salam for omission, after for addition | If both combine, before salam takes priority |
+| 🟢 **Hanafi** | After salam in all cases | Then make tashahhud and salam |
+| 🔵 **Shafi'i** | Before salam in all cases | Because it is part of the prayer |
+| 🟣 **Hanbali** | According to the cause | As detailed in the table above |
+
+> 📌 **Preferred view:** The view of Malikis and Hanbalis is most conforming to the apparent hadiths.
+
+### 📌 Tashahhud After Prostration of Forgetfulness Done After Salam
+
+| School | Ruling |
+|--------|--------|
+| 🟡 **Maliki** | Make tashahhud and salam |
+| 🟢 **Hanafi** | Make tashahhud and salam |
+| 🔵 **Shafi'i** | No tashahhud (because their prostration is before salam) |
+| 🟣 **Hanbali** | Disagreement among them: some say yes, others no |
+
+### 📌 One Who Deliberately Omits Prostration of Forgetfulness
+
+| School | Ruling |
+|--------|--------|
+| 🟡 **Maliki** | Prayer is invalid if prostration was for omission |
+| 🟢 **Hanafi** | Prayer is not invalid, but he is sinful and prostrates when he remembers |
+| 🔵 **Shafi'i** | Prayer is not invalid, because prostration is sunnah for them |
+| 🟣 **Hanbali** | Prayer is not invalid according to the correct view, but he is sinful for omitting |
+
+> 📌 **Benefit:** For Malikis, prostration for omission is obligatory, and its deliberate omission invalidates the prayer.
+
+### 📌 Doubt About Number of Rak'at
+
+| School | Rule |
+|--------|------|
+| 🟡 **Maliki** | Build on the lesser and prostrate before salam |
+| 🟢 **Hanafi** | Restart prayer if doubt is the first time, otherwise build on what predominates |
+| 🔵 **Shafi'i** | Build on certainty (the lesser) and prostrate before salam |
+| 🟣 **Hanbali** | Build on certainty if doubt is equal, and on what predominates if it predominates |
+
+---
+
+## ❓ Situations Where Prostration of Forgetfulness is Not Legislated
 
 | Situation | Reason |
 |-----------|--------|

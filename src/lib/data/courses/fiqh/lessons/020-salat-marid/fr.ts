@@ -5,7 +5,7 @@
 
 export const content = `# Le Fiqh des Prières Spéciales
 
-## La Prière du Malade (صلاة المريض)
+## 📖 La Prière du Malade (صلاة المريض)
 
 Louange à Allah qui n'a pas imposé à Ses serviteurs ce qu'ils ne peuvent supporter. Que la paix et les bénédictions soient sur notre Prophète Muhammad ﷺ qui a enseigné les facilités pour le malade. La maladie n'exempte jamais de la prière tant que la raison est présente.
 
@@ -15,7 +15,7 @@ Louange à Allah qui n'a pas imposé à Ses serviteurs ce qu'ils ne peuvent supp
 
 ---
 
-## 1. Principe Fondamental
+## 🔍 1. Principe Fondamental
 
 ### 📌 La prière ne tombe jamais
 
@@ -29,7 +29,7 @@ Louange à Allah qui n'a pas imposé à Ses serviteurs ce qu'ils ne peuvent supp
 
 ---
 
-## 2. Les Positions de Prière par Ordre de Priorité
+## 🔷 2. Les Positions de Prière par Ordre de Priorité
 
 ### 📋 Hiérarchie des positions
 
@@ -49,7 +49,7 @@ Louange à Allah qui n'a pas imposé à Ses serviteurs ce qu'ils ne peuvent supp
 
 ---
 
-## 3. La Prière Debout avec Appui
+## 📚 3. La Prière Debout avec Appui
 
 ### 📋 Quand peut-on s'appuyer ?
 
@@ -70,7 +70,7 @@ Louange à Allah qui n'a pas imposé à Ses serviteurs ce qu'ils ne peuvent supp
 
 ---
 
-## 4. La Prière Assis
+## 🎯 4. La Prière Assis
 
 ### 📋 Comment s'asseoir ?
 
@@ -96,7 +96,7 @@ Louange à Allah qui n'a pas imposé à Ses serviteurs ce qu'ils ne peuvent supp
 
 ---
 
-## 5. La Prière Allongé
+## ⚖️ 5. La Prière Allongé
 
 ### 📋 Sur quel côté ?
 
@@ -116,7 +116,7 @@ Louange à Allah qui n'a pas imposé à Ses serviteurs ce qu'ils ne peuvent supp
 
 ---
 
-## 6. La Prière par Signes (الإيماء)
+## 💡 6. La Prière par Signes (الإيماء)
 
 ### 📋 Hiérarchie des signes
 
@@ -139,7 +139,7 @@ Louange à Allah qui n'a pas imposé à Ses serviteurs ce qu'ils ne peuvent supp
 
 ---
 
-## 7. La Purification du Malade
+## 🔷 7. La Purification du Malade
 
 ### 📋 Règles de tahara pour le malade
 
@@ -169,7 +169,7 @@ Louange à Allah qui n'a pas imposé à Ses serviteurs ce qu'ils ne peuvent supp
 
 ---
 
-## 8. Cas Particuliers
+## 📝 8. Cas Particuliers
 
 ### 📌 Le malade sous anesthésie
 

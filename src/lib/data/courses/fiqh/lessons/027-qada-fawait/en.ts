@@ -3,9 +3,9 @@
  * English Content
  */
 
-export const content = `# Fiqh of Special Prayers
+export const content = `# 📜 Fiqh of Special Prayers
 
-## Making Up Missed Prayers (Qada' Al-Fawait)
+## 📖 Making Up Missed Prayers (Qada' Al-Fawait)
 
 All praise be to Allah who prescribed prayer at fixed times. May peace and blessings be upon our Prophet Muhammad ﷺ. A Muslim must perform prayers on time, but if one is missed, it must be made up.
 
@@ -13,7 +13,7 @@ All praise be to Allah who prescribed prayer at fixed times. May peace and bless
 
 ---
 
-## 1. Definition and Obligation
+## 🔍 1. Definition and Obligation
 
 ### 📋 Definition
 
@@ -32,7 +32,7 @@ All praise be to Allah who prescribed prayer at fixed times. May peace and bless
 
 ---
 
-## 2. Causes of Missing Prayer
+## 🔷 2. Causes of Missing Prayer
 
 | Cause | Sinful? | Makeup? |
 |-------|---------|---------|
@@ -44,7 +44,7 @@ All praise be to Allah who prescribed prayer at fixed times. May peace and bless
 
 ---
 
-## 3. Rules of Making Up
+## 📚 3. Rules of Making Up
 
 ### 📋 When to make up?
 
@@ -65,7 +65,7 @@ All praise be to Allah who prescribed prayer at fixed times. May peace and bless
 
 ---
 
-## 4. Special Cases
+## 🎯 4. Special Cases
 
 ### ⚠️ MAJOR DIFFERENCE: Apostate who returns to Islam
 
@@ -96,7 +96,7 @@ All praise be to Allah who prescribed prayer at fixed times. May peace and bless
 
 ---
 
-## 5. How to Make Up
+## ⚖️ 5. How to Make Up
 
 | Aspect | Rule |
 |--------|------|
@@ -107,7 +107,7 @@ All praise be to Allah who prescribed prayer at fixed times. May peace and bless
 
 ---
 
-## 6. Makeup During Prohibited Times
+## 💡 6. Makeup During Prohibited Times
 
 | Prohibited time | Can one make up? |
 |-----------------|------------------|

@@ -3,15 +3,15 @@
  * Contenu en Français
  */
 
-export const content = `# Le Fiqh de la Prière
+export const content = `# 📜 Le Fiqh de la Prière
 
-## Les Sunan de la Prière et Ses Annulatifs
+## 📖 Les Sunan de la Prière et Ses Annulatifs
 
 Louange à Allah qui nous a légiféré la prière de la manière la plus parfaite. Que la paix et les bénédictions soient sur celui qui a clarifié ses sunan et ses mises en garde. Après avoir appris les piliers et les obligations, nous découvrons aujourd'hui les **sunan** qui embellissent la prière et augmentent l'humilité, ainsi que les **annulatifs** dont il faut se garder.
 
 ---
 
-## Premièrement : Les Sunan de la Prière
+## 🌟 Premièrement : Les Sunan de la Prière
 
 ### 1. Sunan verbales et pratiques confirmées (Sunan Mu'akkadah)
 
@@ -37,7 +37,7 @@ Louange à Allah qui nous a légiféré la prière de la manière la plus parfai
 
 ---
 
-## Deuxièmement : Les Annulatifs de la Prière
+## ⚠️ Deuxièmement : Les Annulatifs de la Prière
 
 ### 1. Annulatifs majeurs (annulent la prière immédiatement)
 
@@ -61,7 +61,55 @@ Louange à Allah qui nous a légiféré la prière de la manière la plus parfai
 
 ---
 
-## Conseils pratiques pour préserver les sunan et éviter les annulatifs
+## 🎓 Comparaison des écoles sur certaines sunan et annulatifs
+
+### 📌 Position des mains dans la prière
+
+| École | Position choisie | Preuve |
+|-------|-----------------|--------|
+| 🟡 **Malikite** | Le relâchement (sadl) est l'avis reconnu, le croisement (qabḍ) est permis | Pratique des Compagnons رضي الله عنهم |
+| 🟢 **Hanafite** | Sous le nombril pour les hommes, sur la poitrine pour les femmes | Hadith de Wail ibn Hujr (selon leur interprétation) |
+| 🔵 **Shafiite** | Sur la poitrine, la droite sur la gauche | Hadith de Wail ibn Hujr — An-Nasa'i |
+| 🟣 **Hanbalite** | Sur la poitrine ou sous la poitrine au-dessus du nombril | Les hadiths rapportés sur le sujet |
+
+> 📌 **Note :** La divergence sur la position des mains concerne la préférence, et toutes les positions sont permises.
+
+### 📌 Le mouvement excessif dans la prière
+
+| École | Limite du mouvement qui annule | Détail |
+|-------|-------------------------------|--------|
+| 🟡 **Malikite** | Trois mouvements consécutifs dans un pilier sans nécessité | Ce qui dépasse annule la prière |
+| 🟢 **Hanafite** | Ce qui fait penser à l'observateur qu'il n'est pas en prière | La référence est l'usage |
+| 🔵 **Shafiite** | Trois mouvements consécutifs avec le dhikr | Ou ce qui corrompt l'humilité |
+| 🟣 **Hanbalite** | Le mouvement excessif selon l'usage sans nécessité | La référence est également l'usage |
+
+> 📌 **Résumé :** Le léger mouvement pour un besoin n'annule pas la prière par consensus, quant au mouvement excessif, il l'annule selon la majorité.
+
+### 📌 Parler dans la prière
+
+| École | Statut de la parole délibérée | Statut de la parole par oubli |
+|-------|------------------------------|------------------------------|
+| 🟡 **Malikite** | Annule la prière dans tous les cas | N'annule pas si c'est peu et par oubli |
+| 🟢 **Hanafite** | Annule dans tous les cas même pour l'intérêt de la prière | Même rendre le salam annule la prière |
+| 🔵 **Shafiite** | Annule sauf pour l'intérêt de la prière (sauver une vie par exemple) | N'annule pas par oubli selon l'avis correct |
+| 🟣 **Hanbalite** | Annule sauf pour l'intérêt de la prière ou par ignorance | N'annule pas par oubli et on fait la prosternation de l'oubli |
+
+> 📌 **Bénéfice :** Celui qui parle par ignorance du statut ou par oubli, sa prière est valide selon la majorité.
+
+### 📌 Statut de l'assise de repos (jalsat al-istiraha)
+
+| École | Statut |
+|-------|--------|
+| 🟡 **Malikite** | N'est pas légiférée (il ne la fait pas) |
+| 🟢 **Hanafite** | N'est pas légiférée |
+| 🔵 **Shafiite** | Sunna (s'asseoir avant de se lever pour la rak'a suivante) |
+| 🟣 **Hanbalite** | Recommandée pour celui qui en a besoin, abandonnée pour celui qui n'en a pas besoin |
+
+> 📌 **Avis retenu :** Elle est confirmée dans le hadith de Malik ibn al-Huwayrith, donc c'est une sunna pour celui qui en a besoin.
+
+---
+
+## 💡 Conseils pratiques pour préserver les sunan et éviter les annulatifs
 
 1. **Préparer le cœur avant la prière :** Assieds-toi une minute pour réfléchir à la grandeur de se tenir devant Allah.
 2. **Préparer le lieu :** Éclairage approprié, tapis propre, retirer les distractions.
@@ -71,7 +119,7 @@ Louange à Allah qui nous a légiféré la prière de la manière la plus parfai
 
 ---
 
-## Carte mentale résumée
+## 🗺️ Carte mentale résumée
 
 - **Branche des Sunan :**
   - Sunan verbales (invocation d'ouverture, isti'adha, amin).
@@ -82,7 +130,7 @@ Louange à Allah qui nous a légiféré la prière de la manière la plus parfai
 
 ---
 
-## Questions d'évaluation
+## ❓ Questions d'évaluation
 
 1. Quelle est la différence entre la sunna confirmée et non confirmée ?
 2. Cite trois annulatifs majeurs de la prière avec la preuve.

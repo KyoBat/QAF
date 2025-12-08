@@ -3,9 +3,9 @@
  * English Content
  */
 
-export const content = `# The Fiqh of Prayer
+export const content = `# 📜 The Fiqh of Prayer
 
-## The Pillars of Prayer (Arkan as-Salah)
+## 📖 The Pillars of Prayer (Arkan as-Salah)
 
 All praise be to Allah who taught us how to stand before Him. May peace and blessings be upon the seal of His messengers who said: **"Pray as you have seen me pray"** — Reported by Al-Bukhari (631).
 
@@ -13,7 +13,7 @@ All praise be to Allah who taught us how to stand before Him. May peace and bles
 
 ---
 
-## The Fourteen Pillars (According to the Relied-Upon View Among Hanbalis and Shafi'is)
+## 📚 The Fourteen Pillars (According to the Relied-Upon View Among Hanbalis and Shafi'is)
 
 | No. | Pillar | Reference Proof | Practical Benefit |
 |-----|--------|-----------------|-------------------|
@@ -36,7 +36,7 @@ All praise be to Allah who taught us how to stand before Him. May peace and bles
 
 ---
 
-## Tuma'ninah (Tranquility) — The Neglected Pillar
+## 🔷 Tuma'ninah (Tranquility) — The Neglected Pillar
 
 ### Definition of Tuma'ninah
 It is calmness in each pillar, sufficient time for the limbs to settle and for the obligatory dhikr to be completed. It is a pillar according to the majority (Shafi'is, Hanbalis, and Malikis).
@@ -80,7 +80,7 @@ The Prophet ﷺ said: **"Do not peck like a crow, and do not spread out like wil
 
 ---
 
-## Mind Map for Understanding the Pillars
+## 🗺️ Mind Map for Understanding the Pillars
 
 1. **Before prostration:** Standing → Opening Takbir → Al-Fatiha → Bowing → Rising → Standing Straight.
 2. **Prostration and between them:** First Prostration → Brief Sitting → Second Prostration.
@@ -90,17 +90,55 @@ Divide the pillars into three stages so the sequence becomes fixed in your mind.
 
 ---
 
-## Quick Comparisons Between Schools
+## ⚖️ Comparison of Schools on Prayer Pillars
 
-- **Malikis:** Add intentions and reflection points among the pillars to reinforce khushu' (humility).
-- **Hanafis:** Consider some of what we mentioned as wajibat (obligations) rather than arkan (pillars), so know your school when seeking fatwa.
-- **The Majority:** Agree on the essentials, with differences often being terminological.
+### 📌 Number of Pillars According to Each School
 
-> The Rule: *Whoever omits a pillar intentionally, his prayer is invalid. Whoever omits it by forgetfulness must return to it as long as he is still in prayer, then perform the prostration of forgetfulness at the end.*
+| School | Number of Pillars | Main Differences |
+|--------|------------------|------------------|
+| 🟡 **Maliki** | 14 pillars | Add **intention** as a pillar, consider **audible/silent recitation** as pillar according to context |
+| 🟢 **Hanafi** | 6 pillars only | Consider much of what is mentioned as **obligations** not pillars (like tashahhud and sending blessings on the Prophet ﷺ) |
+| 🔵 **Shafi'i** | 13 pillars | Close to Hanbalis, with details on **order of pillars** |
+| 🟣 **Hanbali** | 14 pillars | As mentioned in the table above |
+
+### 📌 Schools' Divergence on Reciting Al-Fatiha
+
+| School | Ruling for Imam | Ruling for Follower | Proof Relied Upon |
+|--------|----------------|---------------------|-------------------|
+| 🟡 **Maliki** | Pillar, prayer invalid if omitted intentionally | Not obligatory for follower in audible prayers | Listening attentively to imam is obligatory |
+| 🟢 **Hanafi** | Obligatory but not pillar, compensated by prostration of forgetfulness | Not obligatory for follower at all | "Whoever has an imam, the imam's recitation is his recitation" — weak but they applied it |
+| 🔵 **Shafi'i** | Pillar without which prayer is invalid | Obligatory for follower in every rak'a | "No prayer for one who does not recite Al-Fatiha" — Bukhari |
+| 🟣 **Hanbali** | Pillar in every rak'a | Not obligatory for follower in audible prayers | Reconciling the proofs |
+
+> 📌 **Maliki view retained:** Al-Fatiha is a pillar for the imam and individual, and not obligatory for the follower in audible prayer due to the obligation of listening attentively.
+
+### 📌 Schools' Divergence on Tuma'ninah (Tranquility)
+
+| School | Ruling on Tuma'ninah | Effect of Omitting It |
+|--------|---------------------|----------------------|
+| 🟡 **Maliki** | Pillar without which prayer is invalid | Prayer is void |
+| 🟢 **Hanafi** | Obligatory but not pillar | Prayer is valid with sin, compensated by prostration of forgetfulness |
+| 🔵 **Shafi'i** | Pillar without which prayer is invalid | Prayer is void |
+| 🟣 **Hanbali** | Pillar without which prayer is invalid | Prayer is void |
+
+> ⚠️ **Warning:** The majority view is that tuma'ninah is a pillar. One who pecks his prayer, his prayer is invalid according to three schools!
+
+### 📌 Schools' Divergence on the Final Tashahhud
+
+| School | Ruling | Proof |
+|--------|--------|-------|
+| 🟡 **Maliki** | Obligatory (pillar) | Constant practice of the Prophet ﷺ |
+| 🟢 **Hanafi** | Obligatory but not pillar | Compensated by prostration of forgetfulness |
+| 🔵 **Shafi'i** | Pillar | Hadith of Ibn Mas'ud |
+| 🟣 **Hanbali** | Pillar | Hadith of Ibn Mas'ud |
 
 ---
 
-## Training Steps
+> **Golden Rule:** *Whoever omits a pillar intentionally, his prayer is invalid. Whoever omits it by forgetfulness must return to it as long as he is still in prayer, then perform the prostration of forgetfulness at the end.*
+
+---
+
+## 🎯 Training Steps
 
 - **Tracking Card:** Write the fourteen pillars, and place next to each pillar a checkbox (✓) to confirm you performed it in your last prayer.
 - **Audio Learning:** Listen to a model prayer from an accomplished reciter and observe his calm transitions.
@@ -108,7 +146,7 @@ Divide the pillars into three stages so the sequence becomes fixed in your mind.
 
 ---
 
-## Evaluation Questions
+## ❓ Evaluation Questions
 
 1. What is the proof for the obligation of tuma'ninah?
 2. How do you redo the prayer if you forgot the bowing?

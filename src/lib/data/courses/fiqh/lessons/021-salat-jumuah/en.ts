@@ -3,9 +3,9 @@
  * English Content
  */
 
-export const content = `# Fiqh of Special Prayers
+export const content = `# 📜 Fiqh of Special Prayers
 
-## Friday Prayer (Salat Al-Jumu'ah)
+## 📖 Friday Prayer (Salat Al-Jumu'ah)
 
 All praise be to Allah who made Friday the best day of the week. May peace and blessings be upon our Prophet Muhammad ﷺ who said: **"The best day on which the sun rises is Friday."** The Friday prayer is an individual obligation for every Muslim man who is resident.
 
@@ -13,7 +13,7 @@ All praise be to Allah who made Friday the best day of the week. May peace and b
 
 ---
 
-## 1. Status and Importance
+## 🔍 1. Status and Importance
 
 ### 📌 Individual Obligation (فرض عين)
 
@@ -34,7 +34,7 @@ The Friday prayer is an **individual obligation** for every Muslim man who is fr
 
 ---
 
-## 2. Conditions of Obligation
+## 🔷 2. Conditions of Obligation
 
 ### 📋 Upon whom is it obligatory?
 
@@ -50,7 +50,7 @@ The Friday prayer is an **individual obligation** for every Muslim man who is fr
 
 ---
 
-## 3. Conditions of Validity
+## 📚 3. Conditions of Validity
 
 ### ⚠️ MAJOR DIFFERENCE: Minimum Number
 
@@ -65,7 +65,7 @@ The Friday prayer is an **individual obligation** for every Muslim man who is fr
 
 ---
 
-## 4. The Khutba (Sermon)
+## 🎯 4. The Khutba (Sermon)
 
 ### 📋 Pillars of the Khutba
 
@@ -87,7 +87,7 @@ The Friday prayer is an **individual obligation** for every Muslim man who is fr
 
 ---
 
-## 5. Description of the Prayer
+## ⚖️ 5. Description of the Prayer
 
 | Element | Detail |
 |---------|--------|
@@ -98,7 +98,7 @@ The Friday prayer is an **individual obligation** for every Muslim man who is fr
 
 ---
 
-## 6. Etiquettes of Friday
+## 💡 6. Etiquettes of Friday
 
 ### 📋 Before the prayer
 
@@ -113,7 +113,7 @@ The Friday prayer is an **individual obligation** for every Muslim man who is fr
 
 ---
 
-## 7. Prohibitions During the Khutba
+## 🔷 7. Prohibitions During the Khutba
 
 | Prohibition | Evidence |
 |-------------|----------|
@@ -132,7 +132,7 @@ The Friday prayer is an **individual obligation** for every Muslim man who is fr
 
 ---
 
-## 8. Practical Cases
+## 📝 8. Practical Cases
 
 ### 📌 Late arrival
 

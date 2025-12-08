@@ -3,9 +3,9 @@
  * Contenu en Français
  */
 
-export const content = `# Le Fiqh de la Prière
+export const content = `# 📜 Le Fiqh de la Prière
 
-## Les Obligations de la Prière et la Prosternation de l'Oubli
+## 📖 Les Obligations de la Prière et la Prosternation de l'Oubli
 
 Louange à Allah qui a parachevé pour nous la religion. Que la paix et les bénédictions soient sur celui qui a enseigné à la communauté les règles de la prière en détail. Après avoir étudié les piliers, nous passons maintenant aux **obligations (wajibat)** qui sont compensées par la prosternation de l'oubli si elles sont omises par inadvertance, et qui invalident la prière si elles sont omises délibérément.
 
@@ -13,7 +13,7 @@ Louange à Allah qui a parachevé pour nous la religion. Que la paix et les bén
 
 ---
 
-## La différence entre pilier et obligation
+## 🔍 La différence entre pilier et obligation
 
 - **Le pilier (rukn) :** Partie essentielle de la prière, l'acte n'est valide qu'avec lui, et il n'est pas compensé par la prosternation de l'oubli.
 - **L'obligation (wajib) :** Ce qui est ordonné dans la prière, son omission par oubli est compensée par la prosternation de l'oubli, mais son omission délibérée invalide la prière selon l'avis correct.
@@ -21,7 +21,7 @@ Louange à Allah qui a parachevé pour nous la religion. Que la paix et les bén
 
 ---
 
-## Les huit obligations de la prière (selon l'avis reconnu chez les Hanbalites)
+## 📚 Les huit obligations de la prière (selon l'avis reconnu chez les Hanbalites)
 
 | N° | Obligation | Preuve authentique | Notes pratiques |
 |----|------------|-------------------|-----------------|
@@ -38,7 +38,7 @@ Louange à Allah qui a parachevé pour nous la religion. Que la paix et les bén
 
 ---
 
-## La prosternation de l'oubli en bref
+## 🔷 La prosternation de l'oubli en bref
 
 1. **Quand est-elle légiférée ?** Lors de l'omission d'une obligation, l'ajout d'un pilier par oubli, ou le doute sur le nombre de rak'at.
 2. **Comment l'accomplir ?** Deux prosternations, avec le dhikr habituel de la prosternation.
@@ -49,14 +49,60 @@ Louange à Allah qui a parachevé pour nous la religion. Que la paix et les bén
 
 ---
 
-## Carte mentale résumée
+## 🎓 Comparaison des écoles sur les obligations
+
+### 📌 Divergence sur le nombre d'obligations
+
+| École | Nombre d'obligations | Principales obligations selon eux |
+|-------|---------------------|----------------------------------|
+| 🟡 **Malikite** | Appelées **sunan mu'akkada** | Les takbirs, le tasmi' et tahmid, les tasbih, le premier tashahhud |
+| 🟢 **Hanafite** | 14 obligations | Récitation de la Fatiha, détermination de la prière obligatoire, la modération, la dernière assise le temps du tashahhud |
+| 🔵 **Shafiite** | Pas de distinction entre pilier et obligation | Tout ce qui n'est pas pilier est sunna chez eux |
+| 🟣 **Hanbalite** | 8 obligations | Comme mentionné dans le tableau ci-dessus |
+
+> 📌 **Note :** Les Malikites utilisent le terme **« sunna mu'akkada »** au lieu de **« obligation »**, mais l'application pratique est similaire.
+
+### 📌 Emplacement de la prosternation de l'oubli selon les écoles
+
+| École | Emplacement de la prosternation | Détail |
+|-------|--------------------------------|--------|
+| 🟡 **Malikite** | Avant le salam pour le manque, après pour l'ajout | Si les deux se combinent, on donne priorité à avant le salam |
+| 🟢 **Hanafite** | Après le salam dans tous les cas | On fait le salam puis on se prosterne deux fois puis on fait le salam |
+| 🔵 **Shafiite** | Avant le salam dans tous les cas | Il est préférable de le faire avant le salam dans toutes les situations |
+| 🟣 **Hanbalite** | Varie selon la cause | Avant le salam pour le manque, après pour l'ajout ou le doute |
+
+> 📌 **Avis retenu :** L'avis des Malikites et Hanbalites est le plus conforme aux hadiths : prosterner avant le salam pour le manque, et après pour l'ajout.
+
+### 📌 Statut de celui qui omet délibérément une obligation
+
+| École | Règle |
+|-------|-------|
+| 🟡 **Malikite** | La prière n'est pas invalide, mais il est pécheur et doit faire la prosternation de l'oubli |
+| 🟢 **Hanafite** | La prière est invalide si on omet une obligation délibérément |
+| 🔵 **Shafiite** | Pas d'obligation chez eux autre que les piliers, donc pas d'invalidité |
+| 🟣 **Hanbalite** | La prière est invalide si on omet une obligation délibérément selon l'avis retenu |
+
+### 📌 La prosternation de l'oubli pour le suiveur
+
+| École | Règle |
+|-------|-------|
+| 🟡 **Malikite** | L'imam supporte l'oubli du suiveur sauf pour le manque que l'imam ne peut supporter |
+| 🟢 **Hanafite** | Pas de prosternation pour le suiveur, l'imam supporte son oubli |
+| 🔵 **Shafiite** | Le suiveur suit son imam, et se prosterne avec lui même s'il n'a pas oublié |
+| 🟣 **Hanbalite** | L'imam supporte l'oubli du suiveur dans la plupart des cas |
+
+> 📌 **Consensus :** Les juristes sont d'accord que le suiveur suit son imam dans la prosternation de l'oubli.
+
+---
+
+## 🗺️ Carte mentale résumée
 
 - **Branche des obligations :** Takbirs → Tasmi' et tahmid → Tasbih de l'inclinaison et de la prosternation → Invocation de l'assise → Premier tashahhud et son assise.
 - **Branche de la prosternation de l'oubli :** Causes → Moment avant/après le salam → Intention de la prosternation → Ses adhkar.
 
 ---
 
-## Atelier pratique
+## 🎯 Atelier pratique
 
 1. **Exercice vocal :** Répète les obligations à voix haute pendant une prière d'entraînement.
 2. **Fiche de travail :** Écris une situation réelle (oubli du premier tashahhud) et détermine la procédure correcte.
@@ -64,7 +110,7 @@ Louange à Allah qui a parachevé pour nous la religion. Que la paix et les bén
 
 ---
 
-## Questions de révision
+## ❓ Questions de révision
 
 1. Que fais-tu si tu oublies de dire « Rabbi ghfir li » ?
 2. Quel est le statut de celui qui omet délibérément le tasbih dans l'inclinaison ?

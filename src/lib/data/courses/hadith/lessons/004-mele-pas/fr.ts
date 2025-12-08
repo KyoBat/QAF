@@ -30,10 +30,10 @@ D'après **Abu Hurayrah** — qu'Allah l'agrée — le Messager d'Allah ﷺ a di
 
 | Source | Numéro | Statut |
 |--------|--------|--------|
-| **Jami' At-Tirmidhi** | 2317 | ⚠️ Hasan |
-| **Sunan Ibn Majah** | 3976 | ⚠️ Hasan |
+| **Jami' At-Tirmidhi** | 2317 | ✔️ Hasan |
+| **Sunan Ibn Majah** | 3976 | ✔️ Hasan |
 | **Muwatta Malik** | 903 (Mursal) | 📌 Appuyé |
-| **Musnad Ahmad** | 1737 | ⚠️ Hasan |
+| **Musnad Ahmad** | 1737 | ✔️ Hasan |
 
 > 💡 L'Imam An-Nawawi رحمه الله a inclus ce hadith parmi ses **40 Hadiths** (n°12), soulignant qu'il fait partie des fondements de la religion.
 

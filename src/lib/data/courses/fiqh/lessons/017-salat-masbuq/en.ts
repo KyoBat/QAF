@@ -3,9 +3,9 @@
  * English Content
  */
 
-export const content = `# The Fiqh of Prayer
+export const content = `# 📜 The Fiqh of Prayer
 
-## Prayer of the Late-Comer (Masbuq)
+## 📖 Prayer of the Late-Comer (Masbuq)
 
 All praise be to Allah who encouraged us to pray in congregation. May peace and blessings be upon the one who said: **"Prayer in congregation is superior to praying alone by twenty-seven degrees."** The masbuq is one who missed part of the prayer with the imam, and he has special rulings that must be learned.
 
@@ -13,7 +13,7 @@ All praise be to Allah who encouraged us to pray in congregation. May peace and 
 
 ---
 
-## Definition of the Masbuq
+## 🔍 Definition of the Masbuq
 
 **Masbuq (Late-comer):** The worshipper who missed one or more rak'at from the congregational prayer with the imam.
 
@@ -23,7 +23,7 @@ All praise be to Allah who encouraged us to pray in congregation. May peace and 
 
 ---
 
-## When is One Considered to Have Caught the Rak'a?
+## 🔍 When is One Considered to Have Caught the Rak'a?
 
 ### The Golden Rule:
 
@@ -45,7 +45,7 @@ And on the authority of Abu Bakra رضي الله عنه, he arrived to the Prop
 
 ---
 
-## Conditions for Catching the Bowing
+## 🔷 Conditions for Catching the Bowing
 
 For the masbuq to be considered as having caught the rak'a by catching the bowing, the following is required:
 
@@ -57,7 +57,7 @@ For the masbuq to be considered as having caught the rak'a by catching the bowin
 
 ---
 
-## What the Masbuq Catches with the Imam
+## 🔷 What the Masbuq Catches with the Imam
 
 ### The Juristic Rule:
 
@@ -74,7 +74,7 @@ For the masbuq to be considered as having caught the rak'a by catching the bowin
 
 ---
 
-## How to Make Up What Was Missed
+## 💡 How to Make Up What Was Missed
 
 ### Detailed Steps:
 
@@ -102,7 +102,7 @@ For the masbuq to be considered as having caught the rak'a by catching the bowin
 
 ---
 
-## Detailed Practical Examples
+## 🎯 Detailed Practical Examples
 
 ### Example 1: He catches one rak'a of Dhuhr
 
@@ -140,7 +140,7 @@ For the masbuq to be considered as having caught the rak'a by catching the bowin
 
 ---
 
-## Rulings of Friday Prayer for the Masbuq
+## ⚖️ Rulings of Friday Prayer for the Masbuq
 
 ### 1. When has the masbuq caught the Friday prayer?
 
@@ -169,7 +169,7 @@ For the masbuq to be considered as having caught the rak'a by catching the bowin
 
 ---
 
-## Etiquettes of the Masbuq
+## 📌 Etiquettes of the Masbuq
 
 ### 1. Hastening with tranquility
 - He hastens to the prayer without running
@@ -189,7 +189,7 @@ For the masbuq to be considered as having caught the rak'a by catching the bowin
 
 ---
 
-## Prostration of Forgetfulness for the Masbuq
+## 🔷 Prostration of Forgetfulness for the Masbuq
 
 ### The Rule:
 
@@ -207,7 +207,53 @@ For the masbuq to be considered as having caught the rak'a by catching the bowin
 
 ---
 
-## Summary Table: What the Masbuq Makes Up
+## 🎓 Comparison of Schools on Masbuq Rulings
+
+### 📌 What Constitutes Catching the Rak'a
+
+| School | View | Reasoning |
+|--------|------|-----------|
+| 🟡 **Maliki** | By catching the bowing with tranquility | The bowing constitutes the major part of the rak'a |
+| 🟢 **Hanafi** | By catching the bowing with the imam even without tranquility | Following the imam |
+| 🔵 **Shafi'i** | By catching the bowing before the imam rises | Like the majority |
+| 🟣 **Hanbali** | By catching the bowing with tranquility | Like the Malikis |
+
+> 📌 **Preferred view:** Catching the bowing counts as catching the rak'a according to the majority with the condition of tranquility.
+
+### 📌 What the Masbuq Catches: Beginning or End of His Prayer?
+
+| School | View | Practical Consequence |
+|--------|------|----------------------|
+| 🟡 **Maliki** | What he catches is the end of his prayer | He completes the beginning with Fatiha, surah, and aloud recitation |
+| 🟢 **Hanafi** | What he catches is the end of his prayer | Like the Malikis |
+| 🔵 **Shafi'i** | What he catches is the beginning of his prayer | He completes the end with Fatiha only |
+| 🟣 **Hanbali** | What he catches is the beginning and what he makes up is the end | For recitation: he does as if he's at the end |
+
+> 📌 **Practical difference:** For Malikis and Hanafis, he recites in what he makes up what he would have recited at the beginning, while for Shafi'is and Hanbalis, he recites as if he's at the end.
+
+### 📌 Reciting Aloud or Silently in What He Makes Up
+
+| School | View |
+|--------|------|
+| 🟡 **Maliki** | Recites aloud in what is normally recited aloud |
+| 🟢 **Hanafi** | Recites silently in all cases because he is alone |
+| 🔵 **Shafi'i** | Recites aloud in the aloud prayer as long as he's making up |
+| 🟣 **Hanbali** | Recites aloud in what is normally recited aloud |
+
+### 📌 Catching Jumu'a
+
+| School | When is Jumu'a Caught? |
+|--------|----------------------|
+| 🟡 **Maliki** | By catching one complete rak'a with the imam |
+| 🟢 **Hanafi** | By catching one complete rak'a with the imam |
+| 🔵 **Shafi'i** | By catching one complete rak'a with the imam |
+| 🟣 **Hanbali** | By catching one complete rak'a with the imam |
+
+> 📌 **Consensus:** Whoever catches one rak'a of Jumu'a completes it as Jumu'a, and whoever catches less prays it as Dhuhr.
+
+---
+
+## 📝 Summary Table: What the Masbuq Makes Up
 
 | Prayer | What he catches | What he makes up | How to make up |
 |--------|-----------------|------------------|----------------|
@@ -226,7 +272,7 @@ For the masbuq to be considered as having caught the rak'a by catching the bowin
 
 ---
 
-## Evaluation Questions
+## ❓ Evaluation Questions
 
 1. When is the masbuq considered to have caught the rak'a?
 2. What is the difference between masbuq and lahiq?
@@ -237,7 +283,7 @@ For the masbuq to be considered as having caught the rak'a by catching the bowin
 
 ---
 
-## Closing Supplication of the Lesson
+## 🤲 Closing Supplication of the Lesson
 
 > **O Allah, make us among those who preserve the congregational prayer at its first time, and if we miss something, teach us how to complete it in the way that pleases You, and forgive us our shortcomings, O Most Merciful of the merciful.**
 

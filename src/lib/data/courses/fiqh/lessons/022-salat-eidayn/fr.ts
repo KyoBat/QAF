@@ -5,7 +5,7 @@
 
 export const content = `# Le Fiqh des Prières Spéciales
 
-## La Prière des Deux Fêtes (صلاة العيدين)
+## 📖 La Prière des Deux Fêtes (صلاة العيدين)
 
 Louange à Allah qui nous a guidés et nous ne l'aurions pas été sans Sa guidance. Que la paix et les bénédictions soient sur notre Prophète Muhammad ﷺ. Allah a accordé à cette communauté deux fêtes bénies : l'Aïd Al-Fitr après le Ramadan, et l'Aïd Al-Adha le 10 de Dhu Al-Hijjah.
 
@@ -13,7 +13,7 @@ Louange à Allah qui nous a guidés et nous ne l'aurions pas été sans Sa guida
 
 ---
 
-## 1. Statut de la Prière du Aïd
+## 🔍 1. Statut de la Prière du Aïd
 
 ### ⚠️ Divergence sur le statut
 
@@ -37,7 +37,7 @@ Louange à Allah qui nous a guidés et nous ne l'aurions pas été sans Sa guida
 
 ---
 
-## 2. Le Temps de la Prière
+## 🔷 2. Le Temps de la Prière
 
 ### 📋 Entrée et sortie du temps
 
@@ -56,7 +56,7 @@ Louange à Allah qui nous a guidés et nous ne l'aurions pas été sans Sa guida
 
 ---
 
-## 3. Description de la Prière
+## 📚 3. Description de la Prière
 
 ### 📋 Structure générale
 
@@ -100,7 +100,7 @@ Louange à Allah qui nous a guidés et nous ne l'aurions pas été sans Sa guida
 
 ---
 
-## 4. La Khutba du Aïd
+## 🎯 4. La Khutba du Aïd
 
 ### 📋 Place et statut
 
@@ -122,7 +122,7 @@ Louange à Allah qui nous a guidés et nous ne l'aurions pas été sans Sa guida
 
 ---
 
-## 5. Les Takbirat des Jours de Fête
+## ⚖️ 5. Les Takbirat des Jours de Fête
 
 ### 📋 Takbirat de Aïd Al-Fitr
 
@@ -156,7 +156,7 @@ Louange à Allah qui nous a guidés et nous ne l'aurions pas été sans Sa guida
 
 ---
 
-## 6. Les Sunnas du Jour du Aïd
+## 💡 6. Les Sunnas du Jour du Aïd
 
 ### 📋 Recommandations
 
@@ -180,7 +180,7 @@ Louange à Allah qui nous a guidés et nous ne l'aurions pas été sans Sa guida
 
 ---
 
-## 7. Le Lieu de la Prière
+## 🔷 7. Le Lieu de la Prière
 
 ### 📋 Où prier ?
 
@@ -196,7 +196,7 @@ Louange à Allah qui nous a guidés et nous ne l'aurions pas été sans Sa guida
 
 ---
 
-## 8. Cas Pratiques
+## 📝 8. Cas Pratiques
 
 ### 📌 Celui qui manque la prière
 

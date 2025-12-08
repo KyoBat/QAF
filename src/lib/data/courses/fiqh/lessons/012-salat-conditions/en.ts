@@ -3,9 +3,9 @@
  * English Content
  */
 
-export const content = `# The Fiqh of Prayer
+export const content = `# 📜 The Fiqh of Prayer
 
-## The Seven Conditions of Prayer
+## 📖 The Seven Conditions of Prayer
 
 All praise is due to Allah who prescribed prayer and perfected its boundaries. May peace and blessings be upon our Prophet Muhammad who said: **"No prayer is accepted without purification"** — Reported by Muslim. We praise Him for clarifying the conditions of this great act of worship before delving into its pillars and actions.
 
@@ -13,7 +13,7 @@ All praise is due to Allah who prescribed prayer and perfected its boundaries. M
 
 ---
 
-## Definition of condition and distinction from pillar
+## 🔍 Definition of condition and distinction from pillar
 
 - **Condition (shart):** What is required before and during the act of worship, not being part of its essence, and whose absence invalidates the act (like purification).
 - **Pillar (rukn):** A part of the very essence of the worship, without which the act is invalid (like prostration).
@@ -23,7 +23,7 @@ The conditions are seven according to the recognized opinion among the majority 
 
 ---
 
-## Table of conditions with proofs and practical applications
+## 📚 Table of conditions with proofs and practical applications
 
 | Condition | Brief Definition | Authentic Proof | Practical Verification |
 |-----------|-----------------|-----------------|----------------------|
@@ -37,7 +37,7 @@ The conditions are seven according to the recognized opinion among the majority 
 
 ---
 
-## Brief jurisprudential points
+## ⚖️ Brief jurisprudential points
 
 1. **Purification includes removing hadath and eliminating khabath:** This includes ablution, ritual bath, tayammum when unable, and cleaning the garment, body, and place.
 2. **Covering the 'awra differs by gender:**
@@ -48,7 +48,46 @@ The conditions are seven according to the recognized opinion among the majority 
 
 ---
 
-## Practical application for youth
+## 🎓 Comparison of Schools on Covering the 'Awra
+
+### 📌 Man's 'awra in prayer
+
+| School | Extent of 'awra | Proof | Notes |
+|--------|----------------|-------|-------|
+| 🟡 **Maliki** | Between navel and knees; navel and knees are not 'awra | Hadith: "Cover your thigh" — Ahmad | Covering shoulders is recommended but not obligatory |
+| 🟢 **Hanafi** | Between navel and knees; knee is 'awra but not navel | Taking precaution, knee is included | They took the cautious approach |
+| 🔵 **Shafi'i** | Between navel and knees; neither is 'awra | Hadith of Anas about the Prophet's ﷺ thigh — Bukhari | Obligation to cover one shoulder in congregation |
+| 🟣 **Hanbali** | Between navel and knees; thigh is 'awra | Hadith: "The thigh is 'awra" — Ahmad and Tirmidhi | Safest to cover what is between them |
+
+> 📌 **Preferred view:** Best to follow the majority while covering shoulders in congregational prayer as precaution.
+
+### 📌 Woman's 'awra in prayer
+
+| School | Extent of 'awra | Status of face and hands | Notes |
+|--------|----------------|-------------------------|-------|
+| 🟡 **Maliki** | Entire body except face and hands | Not part of 'awra | Uncovering feet is disliked |
+| 🟢 **Hanafi** | Entire body except face, hands, and feet | Feet are not 'awra in prayer | For ease on women |
+| 🔵 **Shafi'i** | Entire body except face and hands | Not part of 'awra | Recommended to cover top of feet |
+| 🟣 **Hanbali** | Entire body except face only | Hands are part of 'awra in prayer | Most cautious view |
+
+> 📌 **Maliki view retained:** Face and hands are not 'awra in prayer. It is recommended for women to cover their feet to exit from disagreement.
+
+---
+
+## 🔷 Schools' Views on Praying with Impurity by Forgetfulness
+
+| School | Ruling | Proof | Reasoning |
+|--------|--------|-------|-----------|
+| 🟡 **Maliki** | Does not repeat if time has passed; repeats within time by recommendation | Removing hardship from the forgetful | Time is a stronger condition than removing impurity |
+| 🟢 **Hanafi** | Repeats in all cases | Purification is a condition not dropped by forgetfulness | Caution for worship |
+| 🔵 **Shafi'i** | Repeats in all cases according to the recognized view | By analogy with leaving a condition | No difference between intentional and forgetful |
+| 🟣 **Hanbali** | Does not repeat if only knew after prayer | Hadith of removing sandals — Abu Dawud | The Prophet ﷺ did not restart the prayer |
+
+> 📌 **Chosen view:** One who prayed with impurity unknowingly or forgetfully and only knew after prayer, his prayer is valid. This is the view of Malikis and Hanbalis.
+
+---
+
+## 🎯 Practical application for youth
 
 - **Prayer verification card:**
   1. Did I make ablution according to the guidance of the Prophet ﷺ?
@@ -60,7 +99,7 @@ The conditions are seven according to the recognized opinion among the majority 
 
 ---
 
-## Self-review questions
+## ❓ Self-review questions
 
 1. How do you distinguish between a condition and a pillar?
 2. What is the proof for the obligation of covering the 'awra for prayer?
@@ -71,7 +110,7 @@ The conditions are seven according to the recognized opinion among the majority 
 
 ---
 
-## Lesson summary
+## 📝 Lesson summary
 
 - The conditions of prayer are seven; prayer is only valid with them.
 - Their proofs are from the Quran and authentic Sunnah.

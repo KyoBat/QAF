@@ -3,15 +3,15 @@
  * English Content
  */
 
-export const content = `# The Fiqh of Prayer
+export const content = `# 📜 The Fiqh of Prayer
 
-## The Sunan of Prayer and Its Nullifiers
+## 📖 The Sunan of Prayer and Its Nullifiers
 
 All praise be to Allah who legislated prayer for us in the most perfect manner. May peace and blessings be upon the one who clarified its sunan and its warnings. After learning the pillars and obligations, today we learn about the **sunan** which beautify the prayer and increase khushu' (humility), and the **nullifiers** which must be avoided.
 
 ---
 
-## First: The Sunan of Prayer
+## 🌟 First: The Sunan of Prayer
 
 ### 1. Confirmed Verbal and Practical Sunan (Sunan Mu'akkadah)
 
@@ -37,7 +37,7 @@ All praise be to Allah who legislated prayer for us in the most perfect manner. 
 
 ---
 
-## Second: The Nullifiers of Prayer
+## ⚠️ Second: The Nullifiers of Prayer
 
 ### 1. Major Nullifiers (invalidate the prayer immediately)
 
@@ -61,7 +61,55 @@ All praise be to Allah who legislated prayer for us in the most perfect manner. 
 
 ---
 
-## Practical Tips for Preserving the Sunan and Avoiding Nullifiers
+## 🎓 Comparison of Schools on Some Sunan and Nullifiers
+
+### 📌 Position of Hands in Prayer
+
+| School | Chosen Position | Proof |
+|--------|----------------|-------|
+| 🟡 **Maliki** | Releasing (sadl) is the recognized view, clasping (qabḍ) is permissible | Practice of the Companions رضي الله عنهم |
+| 🟢 **Hanafi** | Below the navel for men, on the chest for women | Hadith of Wail ibn Hujr (according to their interpretation) |
+| 🔵 **Shafi'i** | On the chest, right over left | Hadith of Wail ibn Hujr — An-Nasa'i |
+| 🟣 **Hanbali** | On the chest or below the chest above the navel | The hadiths reported on the subject |
+
+> 📌 **Note:** The disagreement on hand position concerns preference, and all positions are permissible.
+
+### 📌 Excessive Movement in Prayer
+
+| School | Limit of Invalidating Movement | Detail |
+|--------|------------------------------|--------|
+| 🟡 **Maliki** | Three consecutive movements in one pillar without necessity | What exceeds invalidates the prayer |
+| 🟢 **Hanafi** | What makes the observer think he is not in prayer | The reference is custom |
+| 🔵 **Shafi'i** | Three consecutive movements with dhikr | Or what corrupts khushu' |
+| 🟣 **Hanbali** | Excessive movement according to custom without necessity | The reference is also custom |
+
+> 📌 **Summary:** Slight movement for a need does not invalidate prayer by consensus; as for excessive movement, it invalidates it according to the majority.
+
+### 📌 Speaking in Prayer
+
+| School | Ruling on Deliberate Speech | Ruling on Speech by Forgetfulness |
+|--------|----------------------------|-----------------------------------|
+| 🟡 **Maliki** | Invalidates prayer in all cases | Does not invalidate if it was little and by forgetfulness |
+| 🟢 **Hanafi** | Invalidates in all cases even for the benefit of prayer | Even returning salam invalidates prayer |
+| 🔵 **Shafi'i** | Invalidates except for the benefit of prayer (saving a life, for example) | Does not invalidate by forgetfulness according to the correct view |
+| 🟣 **Hanbali** | Invalidates except for the benefit of prayer or by ignorance | Does not invalidate by forgetfulness and one prostrates for forgetfulness |
+
+> 📌 **Benefit:** One who speaks out of ignorance of the ruling or by forgetfulness, his prayer is valid according to the majority.
+
+### 📌 Ruling on the Sitting of Rest (Jalsat al-Istiraha)
+
+| School | Ruling |
+|--------|--------|
+| 🟡 **Maliki** | Not legislated (he does not do it) |
+| 🟢 **Hanafi** | Not legislated |
+| 🔵 **Shafi'i** | Sunnah (sit before rising for the next rak'a) |
+| 🟣 **Hanbali** | Recommended for one who needs it, abandoned for one who does not |
+
+> 📌 **Preferred view:** It is confirmed in the hadith of Malik ibn al-Huwayrith, so it is sunnah for one who needs it.
+
+---
+
+## 💡 Practical Tips for Preserving the Sunan and Avoiding Nullifiers
 
 1. **Prepare the heart before prayer:** Sit for a minute to reflect on the greatness of standing before Allah.
 2. **Prepare the place:** Appropriate lighting, clean prayer mat, remove distractions.
@@ -71,7 +119,7 @@ All praise be to Allah who legislated prayer for us in the most perfect manner. 
 
 ---
 
-## Summarized Mind Map
+## 🗺️ Summarized Mind Map
 
 - **Sunan Branch:**
   - Verbal sunan (opening supplication, isti'adha, amin).
@@ -82,7 +130,7 @@ All praise be to Allah who legislated prayer for us in the most perfect manner. 
 
 ---
 
-## Evaluation Questions
+## ❓ Evaluation Questions
 
 1. What is the difference between confirmed and non-confirmed sunnah?
 2. Mention three major nullifiers of prayer with proof.

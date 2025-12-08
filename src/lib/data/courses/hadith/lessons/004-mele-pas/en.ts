@@ -30,10 +30,10 @@ On the authority of **Abu Hurayrah** — may Allah be pleased with him — the M
 
 | Source | Number | Status |
 |--------|--------|--------|
-| **Jami' At-Tirmidhi** | 2317 | ⚠️ Hasan |
-| **Sunan Ibn Majah** | 3976 | ⚠️ Hasan |
+| **Jami' At-Tirmidhi** | 2317 | ✔️ Hasan |
+| **Sunan Ibn Majah** | 3976 | ✔️ Hasan |
 | **Muwatta Malik** | 903 (Mursal) | 📌 Supported |
-| **Musnad Ahmad** | 1737 | ⚠️ Hasan |
+| **Musnad Ahmad** | 1737 | ✔️ Hasan |
 
 > 💡 Imam An-Nawawi رحمه الله included this hadith among his **40 Hadiths** (n°12), emphasizing that it is one of the foundations of the religion.
 

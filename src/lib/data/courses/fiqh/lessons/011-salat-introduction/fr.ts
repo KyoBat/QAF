@@ -3,9 +3,9 @@
  * Contenu en Français
  */
 
-export const content = `# Le Fiqh de la Prière (Salat)
+export const content = `# 📜 Le Fiqh de la Prière — Introduction
 
-## Introduction
+## 📖 Introduction
 
 Louange à Allah qui a fait de la prière une source de joie pour les croyants. Que la paix et les bénédictions soient sur l'imam des priants, Muhammad fils d'Abdullah, sur sa famille, ses compagnons et ceux qui les suivent avec excellence jusqu'au Jour du Jugement.
 
@@ -15,7 +15,7 @@ Cette série constitue les premières leçons sur le **fiqh de la prière**. Nou
 
 ---
 
-## Pourquoi la prière est-elle le pilier de la religion ?
+## 🎓 Pourquoi la prière est-elle le pilier de la religion ?
 
 | Aspect de son importance | Preuve religieuse | Impact sur le serviteur |
 |--------------------------|-------------------|-------------------------|
@@ -26,7 +26,7 @@ Cette série constitue les premières leçons sur le **fiqh de la prière**. Nou
 
 ---
 
-## Le châtiment de l'abandon de la prière et le danger de la négliger
+## ⚠️ Le châtiment de l'abandon de la prière et le danger de la négliger
 
 - **Menace coranique sévère :** Allah تعالى dit : **﴾ Puis leur succédèrent des générations qui délaissèrent la prière et suivirent leurs passions. Ils trouveront bientôt la perdition (Ghayy) ﴿** (Maryam : 59).
 - **Avertissement prophétique :** Le Prophète ﷺ a dit : **« Le pacte entre nous et eux, c'est la prière ; celui qui l'abandonne a mécru »** — Rapporté par Ahmad et les auteurs des Sunan.
@@ -36,7 +36,7 @@ Cette série constitue les premières leçons sur le **fiqh de la prière**. Nou
 
 ---
 
-## La sérénité (Tuma'nina) et l'humilité (Khushu') dans la prière — Un pilier et une âme
+## 🔷 La sérénité (Tuma'nina) et l'humilité (Khushu') dans la prière — Un pilier et une âme
 
 ### La sérénité est un pilier sans lequel la prière n'est pas valide
 
@@ -96,7 +96,7 @@ Le Prophète ﷺ a dit : **« Allah ne regarde pas la prière d'un homme qui ne 
 
 ---
 
-## Fruits de l'accomplissement de la prière dans ce monde et l'au-delà
+## 🌟 Fruits de l'accomplissement de la prière dans ce monde et l'au-delà
 
 ### 1. Purification du cœur et de l'âme
 - La présence du cœur dans la prière ancre la crainte et la sérénité.
@@ -114,7 +114,7 @@ Le Prophète ﷺ a dit : **« Allah ne regarde pas la prière d'un homme qui ne 
 
 ---
 
-## Le chemin vers la maîtrise de la prière
+## 🎯 Le chemin vers la maîtrise de la prière
 
 | Étape | Que devons-nous apprendre ? | Comment appliquer ? |
 |-------|----------------------------|---------------------|
@@ -124,7 +124,7 @@ Le Prophète ﷺ a dit : **« Allah ne regarde pas la prière d'un homme qui ne 
 
 ---
 
-## Méditations spirituelles des vies des Salaf
+## 🎓 Méditations spirituelles des vies des Salaf
 
 - **Omar ibn al-Khattab رضي الله عنه** écrivait à ses gouverneurs : *"La chose la plus importante à mes yeux est la prière ; celui qui la préserve préserve sa religion"*.
 - **Abu Hurayra رضي الله عنه** disait à chaque appel à la prière : *"Venez à la prière, venez à la réussite" puis il pleurait et disait : "Ceci est un appel du ciel, malheur à celui qui n'y répond pas"*.
@@ -132,7 +132,7 @@ Le Prophète ﷺ a dit : **« Allah ne regarde pas la prière d'un homme qui ne 
 
 ---
 
-## Programme pratique (pour la semaine prochaine)
+## 📝 Programme pratique (pour la semaine prochaine)
 
 1. **Renouveler l'intention quotidiennement** avant chaque prière : *Ô Allah, cette prière est sincèrement pour Ta noble Face*.
 2. **Assister à la mosquée pour la prière obligatoire au moins une fois par jour** (pour les hommes).
@@ -144,7 +144,7 @@ Le Prophète ﷺ a dit : **« Allah ne regarde pas la prière d'un homme qui ne 
 
 ---
 
-## Carte mentale — Place de la prière et son impact
+## 🗺️ Carte mentale — Place de la prière et son impact
 
 | Axe | Éléments principaux | Preuve / Impact |
 |-----|---------------------|-----------------|
@@ -156,7 +156,7 @@ Le Prophète ﷺ a dit : **« Allah ne regarde pas la prière d'un homme qui ne 
 
 ---
 
-## Invocation de clôture de la leçon
+## 🤲 Invocation de clôture de la leçon
 
 > **Ô Allah, fais de nous de ceux qui préservent les prières en leurs temps, de ceux dont les yeux trouvent leur joie en elle, accorde-nous la présence du cœur, l'humilité et la sincérité dans notre orientation vers Toi.**
 

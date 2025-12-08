@@ -5,7 +5,7 @@
 
 export const content = `# The Fiqh of Prayer (Salah)
 
-## Introduction
+## 📖 Introduction
 
 All praise is due to Allah who made prayer a source of joy for the believers. May peace and blessings be upon the imam of those who pray, Muhammad son of Abdullah, upon his family, companions, and those who follow them in excellence until the Day of Judgment.
 
@@ -15,7 +15,7 @@ This series constitutes the first lessons on the **fiqh of prayer**. We lay here
 
 ---
 
-## Why is prayer the pillar of the religion?
+## 🎓 Why is prayer the pillar of the religion?
 
 | Aspect of Importance | Religious Proof | Impact on the Servant |
 |---------------------|-----------------|----------------------|
@@ -26,7 +26,7 @@ This series constitutes the first lessons on the **fiqh of prayer**. We lay here
 
 ---
 
-## The punishment for abandoning prayer and the danger of neglecting it
+## ⚠️ The punishment for abandoning prayer and the danger of neglecting it
 
 - **Severe Quranic warning:** Allah تعالى says: **﴾ Then there came after them successors who neglected prayer and followed desires; so they will meet Ghayy (perdition) ﴿** (Maryam: 59).
 - **Prophetic warning:** The Prophet ﷺ said: **"The covenant between us and them is the prayer; whoever abandons it has disbelieved"** — Reported by Ahmad and the authors of the Sunan.
@@ -36,7 +36,7 @@ This series constitutes the first lessons on the **fiqh of prayer**. We lay here
 
 ---
 
-## Tranquility (Tuma'nina) and Humility (Khushu') in Prayer — A Pillar and a Soul
+## 🔷 Tranquility (Tuma'nina) and Humility (Khushu') in Prayer — A Pillar and a Soul
 
 ### Tranquility is a pillar without which prayer is invalid
 
@@ -96,7 +96,7 @@ The Prophet ﷺ said: **"Allah does not look at the prayer of a man who does not
 
 ---
 
-## Fruits of establishing prayer in this world and the Hereafter
+## 🌟 Fruits of establishing prayer in this world and the Hereafter
 
 ### 1. Purification of heart and soul
 - Presence of heart in prayer anchors fear and tranquility.
@@ -114,7 +114,7 @@ The Prophet ﷺ said: **"Allah does not look at the prayer of a man who does not
 
 ---
 
-## The path to mastering prayer
+## 🎯 The path to mastering prayer
 
 | Stage | What should we learn? | How to apply? |
 |-------|----------------------|---------------|
@@ -124,7 +124,7 @@ The Prophet ﷺ said: **"Allah does not look at the prayer of a man who does not
 
 ---
 
-## Spiritual reflections from the lives of the Salaf
+## 🎓 Spiritual reflections from the lives of the Salaf
 
 - **Umar ibn al-Khattab رضي الله عنه** used to write to his governors: *"The most important matter to me is the prayer; whoever preserves it preserves his religion."*
 - **Abu Hurayra رضي الله عنه** used to say at every call to prayer: *"Come to prayer, come to success" then he would weep and say: "This is a call from heaven, woe to those who do not answer."*
@@ -132,7 +132,7 @@ The Prophet ﷺ said: **"Allah does not look at the prayer of a man who does not
 
 ---
 
-## Practical program (for the coming week)
+## 📝 Practical program (for the coming week)
 
 1. **Renew intention daily** before each prayer: *O Allah, this prayer is sincerely for Your noble Face.*
 2. **Attend the mosque for obligatory prayer at least once daily** (for men).
@@ -144,7 +144,7 @@ The Prophet ﷺ said: **"Allah does not look at the prayer of a man who does not
 
 ---
 
-## Mind map — Place of prayer and its impact
+## 🗺️ Mind map — Place of prayer and its impact
 
 | Axis | Main Elements | Proof / Impact |
 |------|---------------|----------------|
@@ -156,7 +156,7 @@ The Prophet ﷺ said: **"Allah does not look at the prayer of a man who does not
 
 ---
 
-## Closing supplication of the lesson
+## 🤲 Closing supplication of the lesson
 
 > **O Allah, make us among those who preserve prayers in their times, among those whose eyes find their joy in it, grant us presence of heart, humility, and sincerity in our turning to You.**
 

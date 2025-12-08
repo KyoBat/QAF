@@ -136,7 +136,7 @@
 | **Sahih Al-Bukhari** | [Numéro] | ✅ Sahih |
 | **Sahih Muslim** | [Numéro] | ✅ Sahih |
 | **Al-Muwatta'** | [Numéro] | ✅ Sahih |
-| **Sunan Abu Dawud** | [Numéro] | ⚠️ Hasan |
+| **Sunan Abu Dawud** | [Numéro] | ✔️ Hasan |
 ```
 
 ---

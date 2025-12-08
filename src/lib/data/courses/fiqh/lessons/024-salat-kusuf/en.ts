@@ -3,9 +3,9 @@
  * English Content
  */
 
-export const content = `# Fiqh of Special Prayers
+export const content = `# 📜 Fiqh of Special Prayers
 
-## The Eclipse Prayer (Salat Al-Kusuf)
+## 📖 The Eclipse Prayer (Salat Al-Kusuf)
 
 All praise be to Allah who shows us His signs in the heavens and on earth. May peace and blessings be upon our Prophet Muhammad ﷺ. Solar and lunar eclipses are signs of Allah by which He frightens His servants.
 
@@ -13,7 +13,7 @@ All praise be to Allah who shows us His signs in the heavens and on earth. May p
 
 ---
 
-## 1. Definitions
+## 🔍 1. Definitions
 
 | Arabic Term | English | Phenomenon |
 |-------------|---------|------------|
@@ -22,7 +22,7 @@ All praise be to Allah who shows us His signs in the heavens and on earth. May p
 
 ---
 
-## 2. Status of the Prayer
+## 🔷 2. Status of the Prayer
 
 | School | Status |
 |--------|--------|
@@ -35,7 +35,7 @@ All praise be to Allah who shows us His signs in the heavens and on earth. May p
 
 ---
 
-## 3. Description of the Prayer
+## 📚 3. Description of the Prayer
 
 ### ⚠️ MAJOR DIFFERENCE: Number of ruku' per rak'a
 
@@ -67,7 +67,7 @@ All praise be to Allah who shows us His signs in the heavens and on earth. May p
 
 ---
 
-## 4. Solar vs Lunar Eclipse
+## 🎯 4. Solar vs Lunar Eclipse
 
 ### ⚠️ Difference on lunar eclipse
 
@@ -82,7 +82,7 @@ All praise be to Allah who shows us His signs in the heavens and on earth. May p
 
 ---
 
-## 5. Practical Cases
+## ⚖️ 5. Practical Cases
 
 ### 📌 Can it be prayed during prohibited times?
 

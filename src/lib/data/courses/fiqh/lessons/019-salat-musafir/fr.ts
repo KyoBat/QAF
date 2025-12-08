@@ -5,7 +5,7 @@
 
 export const content = `# Le Fiqh des Prières Spéciales
 
-## La Prière du Voyageur (صلاة المسافر)
+## 📖 La Prière du Voyageur (صلاة المسافر)
 
 Louange à Allah qui a allégé les obligations pour Ses serviteurs en voyage. Que la paix et les bénédictions soient sur notre Prophète Muhammad ﷺ qui a dit : **« Allah aime qu'on prenne Ses dispenses comme Il déteste qu'on commette Ses interdits »**. Le voyage est une situation qui mérite des facilités particulières dans l'adoration.
 
@@ -13,7 +13,7 @@ Louange à Allah qui a allégé les obligations pour Ses serviteurs en voyage. Q
 
 ---
 
-## 1. Les Facilités du Voyageur (رُخَص السفر)
+## 🔍 1. Les Facilités du Voyageur (رُخَص السفر)
 
 ### 📋 Les dispenses accordées au voyageur
 
@@ -27,7 +27,7 @@ Louange à Allah qui a allégé les obligations pour Ses serviteurs en voyage. Q
 
 ---
 
-## 2. Le Raccourcissement de la Prière (القصر)
+## 🔷 2. Le Raccourcissement de la Prière (القصر)
 
 ### 📌 Définition
 
@@ -62,7 +62,7 @@ Le **Qasr** consiste à prier 2 rak'at au lieu de 4 pour les prières de Dhuhr, 
 
 ---
 
-## 3. La Distance du Voyage (مسافة القصر)
+## 📚 3. La Distance du Voyage (مسافة القصر)
 
 ### ⚠️ DIVERGENCE IMPORTANTE
 
@@ -92,7 +92,7 @@ Le **Qasr** consiste à prier 2 rak'at au lieu de 4 pour les prières de Dhuhr, 
 
 ---
 
-## 4. La Durée de Séjour (مدة الإقامة)
+## 🎯 4. La Durée de Séjour (مدة الإقامة)
 
 ### ⚠️ DIVERGENCE MAJEURE
 
@@ -123,7 +123,7 @@ Le **Qasr** consiste à prier 2 rak'at au lieu de 4 pour les prières de Dhuhr, 
 
 ---
 
-## 5. Le Regroupement des Prières (الجمع)
+## ⚖️ 5. Le Regroupement des Prières (الجمع)
 
 ### 📌 Définition
 
@@ -163,7 +163,7 @@ Le **Jam'** consiste à prier deux prières successives ensemble, soit en avanç
 
 ---
 
-## 6. Règles Pratiques (أحكام عملية)
+## 💡 6. Règles Pratiques (أحكام عملية)
 
 ### 📌 Le voyageur priant derrière un résident
 
@@ -194,7 +194,7 @@ Le **Jam'** consiste à prier deux prières successives ensemble, soit en avanç
 
 ---
 
-## 7. Cas Modernes (حالات معاصرة)
+## 🔷 7. Cas Modernes (حالات معاصرة)
 
 ### 📌 Voyage en avion
 

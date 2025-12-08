@@ -5,7 +5,7 @@
 
 export const content = `# Le Fiqh des Prières Spéciales
 
-## Le Rattrapage des Prières Manquées (قضاء الفوائت)
+## 📖 Le Rattrapage des Prières Manquées (قضاء الفوائت)
 
 Louange à Allah qui a prescrit la prière à des temps déterminés. Que la paix et les bénédictions soient sur notre Prophète Muhammad ﷺ. Le musulman doit accomplir ses prières à l'heure, mais s'il en manque une, il doit la rattraper.
 
@@ -13,7 +13,7 @@ Louange à Allah qui a prescrit la prière à des temps déterminés. Que la pai
 
 ---
 
-## 1. Définition et Obligation
+## 🔍 1. Définition et Obligation
 
 ### 📋 Définition
 
@@ -32,7 +32,7 @@ Le **Qada'** (القضاء) est l'accomplissement d'une prière obligatoire apr�
 
 ---
 
-## 2. Causes du Manquement
+## 🔷 2. Causes du Manquement
 
 ### 📋 Types de causes
 
@@ -50,7 +50,7 @@ Le **Qada'** (القضاء) est l'accomplissement d'une prière obligatoire apr�
 
 ---
 
-## 3. Les Règles du Rattrapage
+## 📚 3. Les Règles du Rattrapage
 
 ### 📋 Quand rattraper ?
 
@@ -77,7 +77,7 @@ Le **Qada'** (القضاء) est l'accomplissement d'une prière obligatoire apr�
 
 ---
 
-## 4. L'Ordre de Priorité
+## 🎯 4. L'Ordre de Priorité
 
 ### 📋 Quelle prière faire en premier ?
 
@@ -94,7 +94,7 @@ Le **Qada'** (القضاء) est l'accomplissement d'une prière obligatoire apr�
 
 ---
 
-## 5. Le Rattrapage de Nombreuses Prières
+## ⚖️ 5. Le Rattrapage de Nombreuses Prières
 
 ### ⚠️ Pour celui qui a abandonné la prière longtemps
 
@@ -115,7 +115,7 @@ Le **Qada'** (القضاء) est l'accomplissement d'une prière obligatoire apr�
 
 ---
 
-## 6. Cas Particuliers
+## 💡 6. Cas Particuliers
 
 ### ⚠️ DIVERGENCE MAJEURE : L'apostat qui revient à l'Islam
 
@@ -153,7 +153,7 @@ Le **Qada'** (القضاء) est l'accomplissement d'une prière obligatoire apr�
 
 ---
 
-## 7. Comment Rattraper
+## 🔷 7. Comment Rattraper
 
 ### 📋 Méthode
 
@@ -173,7 +173,7 @@ L'intention doit préciser :
 
 ---
 
-## 8. Situations Spéciales
+## 📝 8. Situations Spéciales
 
 ### 📌 Rattraper pendant les temps interdits
 

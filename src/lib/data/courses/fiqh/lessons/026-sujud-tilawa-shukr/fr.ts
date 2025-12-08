@@ -5,7 +5,7 @@
 
 export const content = `# Le Fiqh des Prières Spéciales
 
-## Les Prosternations de Récitation et de Gratitude
+## 📖 Les Prosternations de Récitation et de Gratitude
 
 Louange à Allah qui nous a enseigné le Coran et nous a guidés vers la gratitude. Que la paix et les bénédictions soient sur notre Prophète Muhammad ﷺ. Ces prosternations sont des actes d'humilité devant Allah, soit lors de la récitation de certains versets, soit en remerciement pour un bienfait.
 
@@ -13,7 +13,7 @@ Louange à Allah qui nous a enseigné le Coran et nous a guidés vers la gratitu
 
 # Partie 1 : La Prosternation de Récitation (سجود التلاوة)
 
-## 1. Définition et Statut
+## 🔍 1. Définition et Statut
 
 ### 📋 Définition
 
@@ -32,7 +32,7 @@ La **prosternation de récitation** est une prosternation effectuée lors de la 
 
 ---
 
-## 2. Les Positions de Prosternation dans le Coran
+## 🔷 2. Les Positions de Prosternation dans le Coran
 
 ### ⚠️ DIVERGENCE MAJEURE : Le nombre de positions
 
@@ -70,7 +70,7 @@ La **prosternation de récitation** est une prosternation effectuée lors de la 
 
 ---
 
-## 3. Description de la Prosternation
+## 📚 3. Description de la Prosternation
 
 ### 📋 Comment la faire ?
 
@@ -101,7 +101,7 @@ La **prosternation de récitation** est une prosternation effectuée lors de la 
 
 ---
 
-## 4. Conditions et Règles
+## 🎯 4. Conditions et Règles
 
 ### 📋 Conditions
 
@@ -132,7 +132,7 @@ La **prosternation de récitation** est une prosternation effectuée lors de la 
 
 # Partie 2 : La Prosternation de Gratitude (سجود الشكر)
 
-## 5. Définition et Statut
+## ⚖️ 5. Définition et Statut
 
 ### 📋 Définition
 
@@ -161,7 +161,7 @@ Les Malikites disent que le Prophète ﷺ a reçu de nombreuses bonnes nouvelles
 
 ---
 
-## 6. Pour ceux qui la pratiquent
+## 💡 6. Pour ceux qui la pratiquent
 
 ### 📋 Description (Shafi'i/Hanbali)
 
@@ -183,7 +183,7 @@ Les Malikites disent que le Prophète ﷺ a reçu de nombreuses bonnes nouvelles
 
 ---
 
-## 7. Comparaison des deux Prosternations
+## 🔷 7. Comparaison des deux Prosternations
 
 | Aspect | Sujud Tilawa | Sujud Shukr |
 |--------|--------------|-------------|

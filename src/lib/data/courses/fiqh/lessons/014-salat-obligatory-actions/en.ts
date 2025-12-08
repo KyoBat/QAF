@@ -3,9 +3,9 @@
  * English Content
  */
 
-export const content = `# The Fiqh of Prayer
+export const content = `# 📜 The Fiqh of Prayer
 
-## Obligatory Actions of Prayer and the Prostration of Forgetfulness
+## 📖 Obligatory Actions of Prayer and the Prostration of Forgetfulness
 
 All praise be to Allah who perfected the religion for us. May peace and blessings be upon the one who taught the Ummah the rulings of prayer in detail. After learning the pillars, we now move to the **obligatory actions (wajibat)** which are compensated by the prostration of forgetfulness if left out of negligence, and which invalidate the prayer if deliberately omitted.
 
@@ -13,7 +13,7 @@ All praise be to Allah who perfected the religion for us. May peace and blessing
 
 ---
 
-## The Difference Between a Pillar and an Obligation
+## 🔍 The Difference Between a Pillar and an Obligation
 
 - **Pillar (Rukn):** An essential part of the prayer; the act is not valid without it, and it cannot be compensated by the prostration of forgetfulness.
 - **Obligation (Wajib):** What is commanded in prayer; its forgetful omission is compensated by the prostration of forgetfulness, but its deliberate omission invalidates the prayer according to the correct opinion.
@@ -21,7 +21,7 @@ All praise be to Allah who perfected the religion for us. May peace and blessing
 
 ---
 
-## The Eight Obligations in Prayer (According to the Relied-Upon View Among Hanbalis)
+## 📚 The Eight Obligations in Prayer (According to the Relied-Upon View Among Hanbalis)
 
 | No. | Obligation | Authentic Proof | Practical Notes |
 |-----|------------|-----------------|-----------------|
@@ -38,7 +38,7 @@ All praise be to Allah who perfected the religion for us. May peace and blessing
 
 ---
 
-## The Prostration of Forgetfulness in Brief
+## 🔷 The Prostration of Forgetfulness in Brief
 
 1. **When is it legislated?** Upon omitting an obligation, adding a pillar out of forgetfulness, or doubting the number of rak'at.
 2. **How to perform it?** Two prostrations, with the usual prostration dhikr.
@@ -49,14 +49,60 @@ All praise be to Allah who perfected the religion for us. May peace and blessing
 
 ---
 
-## Summarized Mind Map
+## 🎓 Comparison of Schools on Obligations
+
+### 📌 Divergence on the Number of Obligations
+
+| School | Number of Obligations | Main Obligations According to Them |
+|--------|----------------------|-----------------------------------|
+| 🟡 **Maliki** | Called **emphasized sunan** | Takbirs, tasmi' and tahmid, tasbih, first tashahhud |
+| 🟢 **Hanafi** | 14 obligations | Recitation of Al-Fatiha, specifying the obligatory prayer, moderation, the last sitting for the duration of tashahhud |
+| 🔵 **Shafi'i** | No distinction between pillar and obligation | Everything other than pillars is sunnah for them |
+| 🟣 **Hanbali** | 8 obligations | As mentioned in the table above |
+
+> 📌 **Note:** Malikis use the term **"emphasized sunnah"** instead of **"obligation"**, but the practical application is similar.
+
+### 📌 Placement of Prostration of Forgetfulness According to Schools
+
+| School | Placement of Prostration | Detail |
+|--------|------------------------|--------|
+| 🟡 **Maliki** | Before salam for omission, after for addition | If both combine, before salam takes priority |
+| 🟢 **Hanafi** | After salam in all cases | Make salam then prostrate twice then make salam |
+| 🔵 **Shafi'i** | Before salam in all cases | Preferable to do it before salam in all situations |
+| 🟣 **Hanbali** | Varies according to cause | Before salam for omission, after for addition or doubt |
+
+> 📌 **Preferred view:** The view of Malikis and Hanbalis is most conforming to the hadiths: prostrate before salam for omission, and after for addition.
+
+### 📌 Ruling on Deliberately Omitting an Obligation
+
+| School | Ruling |
+|--------|--------|
+| 🟡 **Maliki** | Prayer is not invalid, but he is sinful and must prostrate for forgetfulness |
+| 🟢 **Hanafi** | Prayer is invalid if obligation is omitted deliberately |
+| 🔵 **Shafi'i** | No obligations for them other than pillars, so no invalidation |
+| 🟣 **Hanbali** | Prayer is invalid if obligation is omitted deliberately according to the recognized view |
+
+### 📌 Prostration of Forgetfulness for the Follower
+
+| School | Ruling |
+|--------|--------|
+| 🟡 **Maliki** | Imam bears the follower's forgetfulness except for omission that imam cannot bear |
+| 🟢 **Hanafi** | No prostration for follower, imam bears his forgetfulness |
+| 🔵 **Shafi'i** | Follower follows his imam, prostrates with him even if he didn't forget |
+| 🟣 **Hanbali** | Imam bears the follower's forgetfulness in most cases |
+
+> 📌 **Consensus:** Scholars agree that the follower follows his imam in the prostration of forgetfulness.
+
+---
+
+## 🗺️ Summarized Mind Map
 
 - **Obligations Branch:** Takbirs → Tasmi' and Tahmid → Tasbih of bowing and prostration → Supplication of sitting → First tashahhud and its sitting.
 - **Prostration of Forgetfulness Branch:** Causes → Timing before/after salam → Intention of prostration → Its adhkar.
 
 ---
 
-## Practical Workshop
+## �� Practical Workshop
 
 1. **Vocal Exercise:** Repeat the obligations aloud during a practice prayer.
 2. **Worksheet:** Write a real situation (forgetting the first tashahhud) and determine the correct procedure.
@@ -64,7 +110,7 @@ All praise be to Allah who perfected the religion for us. May peace and blessing
 
 ---
 
-## Review Questions
+## ❓ Review Questions
 
 1. What do you do if you forget to say "Rabbi ghfir li"?
 2. What is the ruling on someone who deliberately omits the tasbih in bowing?

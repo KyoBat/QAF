@@ -3,9 +3,9 @@
  * English Content
  */
 
-export const content = `# Fiqh of Special Prayers
+export const content = `# 📜 Fiqh of Special Prayers
 
-## The Funeral Prayer (Salat Al-Janaza)
+## 📖 The Funeral Prayer (Salat Al-Janaza)
 
 All praise be to Allah who created us, will cause us to die, then will resurrect us. May peace and blessings be upon our Prophet Muhammad ﷺ. The funeral prayer is a supplication for the deceased and a collective obligation on the community.
 
@@ -15,7 +15,7 @@ All praise be to Allah who created us, will cause us to die, then will resurrect
 
 ---
 
-## 1. Status and Importance
+## 🔍 1. Status and Importance
 
 ### 📌 Collective Obligation (فرض كفاية)
 
@@ -23,7 +23,7 @@ The funeral prayer is a **collective obligation**: if some perform it, the rest 
 
 ---
 
-## 2. Description of the Prayer
+## 🔷 2. Description of the Prayer
 
 ### 📋 General Structure
 
@@ -56,7 +56,7 @@ The funeral prayer is a **collective obligation**: if some perform it, the rest 
 
 ---
 
-## 3. Du'as of the Funeral Prayer
+## 📚 3. Du'as of the Funeral Prayer
 
 ### 📌 After the 2nd Takbira — Prayer upon the Prophet ﷺ
 
@@ -68,7 +68,7 @@ The funeral prayer is a **collective obligation**: if some perform it, the rest 
 
 ---
 
-## 4. Practical Rulings
+## 🎯 4. Practical Rulings
 
 ### 📋 Imam's position relative to the deceased
 
@@ -90,7 +90,7 @@ The funeral prayer is a **collective obligation**: if some perform it, the rest 
 
 ---
 
-## 5. Prayer for the Absent (صلاة الغائب)
+## ⚖️ 5. Prayer for the Absent (صلاة الغائب)
 
 ### ⚠️ Important difference
 
@@ -103,7 +103,7 @@ The funeral prayer is a **collective obligation**: if some perform it, the rest 
 
 ---
 
-## 6. Raising Hands
+## 💡 6. Raising Hands
 
 | School | Raising hands |
 |--------|---------------|

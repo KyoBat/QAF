@@ -3,9 +3,9 @@
  * Contenu en Français
  */
 
-export const content = `# Le Fiqh de la Prière
+export const content = `# 📜 Le Fiqh de la Prière
 
-## Les Sept Conditions de la Prière
+## 📖 Les Sept Conditions de la Prière
 
 Louange à Allah qui a prescrit la prière et en a précisé les limites. Que la paix et les bénédictions soient sur notre Prophète Muhammad qui a dit : **« Aucune prière n'est acceptée sans purification »** — Rapporté par Muslim. Nous Le louons d'avoir clarifié les conditions de cette grande adoration avant d'aborder ses piliers et ses actes.
 
@@ -13,7 +13,7 @@ Louange à Allah qui a prescrit la prière et en a précisé les limites. Que la
 
 ---
 
-## Définition de la condition et distinction avec le pilier
+## 🔍 Définition de la condition et distinction avec le pilier
 
 - **La condition (shart) :** Ce qui est requis avant et pendant l'adoration, qui n'en fait pas partie intégrante, et dont l'absence invalide l'acte (comme la purification).
 - **Le pilier (rukn) :** Une partie de l'essence même de l'adoration, sans laquelle l'acte n'est pas valide (comme la prosternation).
@@ -23,7 +23,7 @@ Les conditions sont au nombre de sept selon l'avis reconnu chez la majorité des
 
 ---
 
-## Tableau des conditions avec preuves et applications pratiques
+## 📚 Tableau des conditions avec preuves et applications pratiques
 
 | Condition | Définition résumée | Preuve authentique | Vérification pratique |
 |-----------|-------------------|-------------------|----------------------|
@@ -37,7 +37,7 @@ Les conditions sont au nombre de sept selon l'avis reconnu chez la majorité des
 
 ---
 
-## Points de jurisprudence résumés
+## ⚖️ Points de jurisprudence résumés
 
 1. **La purification comprend la levée du hadath et l'élimination du khabath :** Cela inclut les ablutions, le bain rituel, le tayammum en cas d'incapacité, et le nettoyage du vêtement, du corps et du lieu.
 2. **La couverture de la 'awra diffère selon le sexe :**
@@ -48,7 +48,46 @@ Les conditions sont au nombre de sept selon l'avis reconnu chez la majorité des
 
 ---
 
-## Application pratique pour les jeunes
+## 🎓 Comparaison des écoles sur la couverture de la 'Awra
+
+### 📌 La 'awra de l'homme dans la prière
+
+| École | Limite de la 'awra | Preuve | Notes |
+|-------|-------------------|--------|-------|
+| 🟡 **Malikite** | Entre le nombril et les genoux, le nombril et les genoux n'en font pas partie | Hadith : « Couvre ta cuisse » — Ahmad | Couvrir les épaules est recommandé mais non obligatoire |
+| 🟢 **Hanafite** | Entre le nombril et les genoux, le genou fait partie de la 'awra mais pas le nombril | Par précaution, le genou est inclus | Ils ont pris la voie de la prudence |
+| 🔵 **Shafiite** | Entre le nombril et les genoux, ni l'un ni l'autre n'en font partie | Hadith d'Anas sur la cuisse du Prophète ﷺ — Bukhari | Obligation de couvrir une épaule en prière collective |
+| 🟣 **Hanbalite** | Entre le nombril et les genoux, la cuisse est 'awra | Hadith : « La cuisse est 'awra » — Ahmad et Tirmidhi | Le plus prudent est de couvrir ce qui est entre eux |
+
+> 📌 **Avis retenu :** Il est préférable de suivre la majorité tout en couvrant les épaules en prière collective par précaution.
+
+### 📌 La 'awra de la femme dans la prière
+
+| École | Limite de la 'awra | Statut du visage et des mains | Notes |
+|-------|-------------------|------------------------------|-------|
+| 🟡 **Malikite** | Tout le corps sauf le visage et les mains | Ne font pas partie de la 'awra | Découvrir les pieds est déconseillé |
+| 🟢 **Hanafite** | Tout le corps sauf le visage, les mains et les pieds | Les pieds ne sont pas 'awra dans la prière | Pour faciliter aux femmes |
+| 🔵 **Shafiite** | Tout le corps sauf le visage et les mains | Ne font pas partie de la 'awra | Recommandé de couvrir le dessus des pieds |
+| 🟣 **Hanbalite** | Tout le corps sauf le visage uniquement | Les mains font partie de la 'awra dans la prière | L'avis le plus strict |
+
+> 📌 **Avis Malikite retenu :** Le visage et les mains ne font pas partie de la 'awra dans la prière. Il est recommandé à la femme de couvrir ses pieds pour sortir de la divergence.
+
+---
+
+## 🔷 Comparaison des écoles : Celui qui a prié avec une impureté par oubli
+
+| École | Règle | Preuve | Justification |
+|-------|-------|--------|---------------|
+| 🟡 **Malikite** | Ne refait pas si le temps est sorti, refait dans le temps par recommandation | Lever de la gêne pour l'oublieux | Le temps est une condition plus forte que l'élimination de l'impureté |
+| 🟢 **Hanafite** | Refait dans tous les cas | La purification est une condition qui ne tombe pas par l'oubli | Prudence pour l'adoration |
+| 🔵 **Shafiite** | Refait dans tous les cas selon l'avis retenu | Par analogie avec l'abandon d'une condition | Pas de différence entre l'intentionnel et l'oubli |
+| 🟣 **Hanbalite** | Ne refait pas s'il ne l'a su qu'après la prière | Hadith du retrait des sandales — Abu Dawud | Le Prophète ﷺ n'a pas recommencé la prière |
+
+> 📌 **Avis choisi :** Celui qui a prié avec une impureté par ignorance ou oubli et ne l'a su qu'après la prière, sa prière est valide. C'est l'avis des Malikites et des Hanbalites.
+
+---
+
+## 🎯 Application pratique pour les jeunes
 
 - **Carte de vérification de la prière :**
   1. Ai-je fait mes ablutions selon la guidance du Prophète ﷺ ?
@@ -60,7 +99,7 @@ Les conditions sont au nombre de sept selon l'avis reconnu chez la majorité des
 
 ---
 
-## Questions d'auto-évaluation
+## ❓ Questions d'auto-évaluation
 
 1. Comment distingues-tu la condition du pilier ?
 2. Quelle est la preuve de l'obligation de couvrir la 'awra pour la prière ?
@@ -71,7 +110,7 @@ Les conditions sont au nombre de sept selon l'avis reconnu chez la majorité des
 
 ---
 
-## Résumé de la leçon
+## 📝 Résumé de la leçon
 
 - Les conditions de la prière sont au nombre de sept ; la prière n'est valide qu'avec elles.
 - Leurs preuves proviennent du Coran et de la Sunna authentique.

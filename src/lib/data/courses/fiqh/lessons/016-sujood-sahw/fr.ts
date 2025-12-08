@@ -3,9 +3,9 @@
  * Contenu en Français
  */
 
-export const content = `# Le Fiqh de la Prière
+export const content = `# 📜 Le Fiqh de la Prière — La Prosternation de l'Oubli
 
-## La Prosternation de l'Oubli en Détail
+## 📖 La Prosternation de l'Oubli en Détail
 
 Louange à Allah qui a établi une réparation pour toute défaillance dans la prière. Que la paix et les bénédictions soient sur celui qui a oublié dans sa prière pour nous enseigner. La prosternation de l'oubli fait partie de la miséricorde d'Allah envers Ses serviteurs, car Il l'a établie comme rattrapage du manque et de la défaillance qui survient dans la prière par inadvertance.
 
@@ -13,7 +13,7 @@ Louange à Allah qui a établi une réparation pour toute défaillance dans la p
 
 ---
 
-## Définition de la prosternation de l'oubli
+## 🔍 Définition de la prosternation de l'oubli
 
 **As-Sahw linguistiquement :** L'inattention et l'oubli.
 
@@ -143,7 +143,51 @@ Son statut est comme l'oubli dans la prière obligatoire, en raison de la géné
 
 ---
 
-## Situations où la prosternation de l'oubli n'est pas légiférée
+## 🎓 Comparaison des écoles sur la prosternation de l'oubli
+
+### 📌 Moment de la prosternation de l'oubli
+
+| École | Règle | Détail |
+|-------|-------|--------|
+| 🟡 **Malikite** | Avant le salam pour le manque, après pour l'ajout | Si les deux se combinent, on donne priorité à avant le salam |
+| 🟢 **Hanafite** | Après le salam dans tous les cas | Puis on fait le tashahhud et le salam |
+| 🔵 **Shafiite** | Avant le salam dans tous les cas | Car c'est une partie de la prière |
+| 🟣 **Hanbalite** | Selon la cause | Comme détaillé dans le tableau ci-dessus |
+
+> 📌 **Avis retenu :** L'avis des Malikites et Hanbalites est le plus conforme aux hadiths apparents.
+
+### 📌 Le tashahhud après la prosternation de l'oubli faite après le salam
+
+| École | Statut |
+|-------|--------|
+| 🟡 **Malikite** | On fait le tashahhud et le salam |
+| 🟢 **Hanafite** | On fait le tashahhud et le salam |
+| 🔵 **Shafiite** | Pas de tashahhud (car leur prosternation est avant le salam) |
+| 🟣 **Hanbalite** | Divergence chez eux : certains disent oui, d'autres non |
+
+### 📌 Celui qui omet délibérément la prosternation de l'oubli
+
+| École | Statut |
+|-------|--------|
+| 🟡 **Malikite** | La prière est invalide si la prosternation était pour un manque |
+| 🟢 **Hanafite** | La prière n'est pas invalide, mais il est pécheur et se prosterne quand il s'en souvient |
+| 🔵 **Shafiite** | La prière n'est pas invalide, car la prosternation est sunna chez eux |
+| 🟣 **Hanbalite** | La prière n'est pas invalide selon l'avis correct, mais il est pécheur de l'omettre |
+
+> 📌 **Bénéfice :** Chez les Malikites, la prosternation pour le manque est obligatoire, et son omission délibérée annule la prière.
+
+### 📌 Le doute sur le nombre de rak'at
+
+| École | Règle |
+|-------|-------|
+| 🟡 **Malikite** | On se base sur le moins et on se prosterne avant le salam |
+| 🟢 **Hanafite** | On recommence la prière si le doute est la première fois, sinon on se base sur ce qui prédomine |
+| 🔵 **Shafiite** | On se base sur la certitude (le moins) et on se prosterne avant le salam |
+| 🟣 **Hanbalite** | On se base sur la certitude si le doute est équivalent, et sur ce qui prédomine s'il prédomine |
+
+---
+
+## ❓ Situations où la prosternation de l'oubli n'est pas légiférée
 
 | Situation | Raison |
 |-----------|--------|

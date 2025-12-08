@@ -3,9 +3,9 @@
  * Contenu en Français
  */
 
-export const content = `# Le Fiqh de la Prière
+export const content = `# 📜 Le Fiqh de la Prière
 
-## La Prière du Retardataire (Masbuq)
+## 📖 La Prière du Retardataire (Masbuq)
 
 Louange à Allah qui nous a encouragés à la prière en groupe. Que la paix et les bénédictions soient sur celui qui a dit : **« La prière en groupe est supérieure à la prière individuelle de vingt-sept degrés »**. Le masbuq est celui qui a manqué une partie de la prière avec l'imam, et il a des règles particulières qu'il faut apprendre.
 
@@ -13,7 +13,7 @@ Louange à Allah qui nous a encouragés à la prière en groupe. Que la paix et 
 
 ---
 
-## Définition du Masbuq
+## 🔍 Définition du Masbuq
 
 **Le Masbuq (retardataire) :** C'est le priant qui a manqué une rak'a ou plus de la prière en groupe avec l'imam.
 
@@ -23,7 +23,7 @@ Louange à Allah qui nous a encouragés à la prière en groupe. Que la paix et 
 
 ---
 
-## Quand est-on considéré comme ayant rattrapé la rak'a ?
+## 🔍 Quand est-on considéré comme ayant rattrapé la rak'a ?
 
 ### La règle d'or :
 
@@ -45,7 +45,7 @@ Et d'après Abu Bakra رضي الله عنه, il arriva vers le Prophète ﷺ al
 
 ---
 
-## Conditions pour rattraper l'inclinaison
+## 🔷 Conditions pour rattraper l'inclinaison
 
 Pour que le masbuq soit considéré comme ayant rattrapé la rak'a en rattrapant l'inclinaison, il faut :
 
@@ -57,7 +57,7 @@ Pour que le masbuq soit considéré comme ayant rattrapé la rak'a en rattrapant
 
 ---
 
-## Ce que le masbuq rattrape avec l'imam
+## 🔷 Ce que le masbuq rattrape avec l'imam
 
 ### La règle juridique :
 
@@ -74,7 +74,7 @@ Pour que le masbuq soit considéré comme ayant rattrapé la rak'a en rattrapant
 
 ---
 
-## Comment compléter ce qui a été manqué
+## 💡 Comment compléter ce qui a été manqué
 
 ### Les étapes détaillées :
 
@@ -102,7 +102,7 @@ Pour que le masbuq soit considéré comme ayant rattrapé la rak'a en rattrapant
 
 ---
 
-## Exemples pratiques détaillés
+## 🎯 Exemples pratiques détaillés
 
 ### Exemple 1 : Il rattrape une rak'a du Dhuhr
 
@@ -140,7 +140,7 @@ Pour que le masbuq soit considéré comme ayant rattrapé la rak'a en rattrapant
 
 ---
 
-## Règles de la prière du vendredi pour le masbuq
+## ⚖️ Règles de la prière du vendredi pour le masbuq
 
 ### 1. Quand le masbuq a-t-il rattrapé la prière du vendredi ?
 
@@ -169,7 +169,7 @@ Pour que le masbuq soit considéré comme ayant rattrapé la rak'a en rattrapant
 
 ---
 
-## Les convenances du masbuq
+## 📌 Les convenances du masbuq
 
 ### 1. Se hâter avec sérénité
 - Il se hâte vers la prière sans courir
@@ -189,7 +189,7 @@ Pour que le masbuq soit considéré comme ayant rattrapé la rak'a en rattrapant
 
 ---
 
-## La prosternation de l'oubli pour le masbuq
+## 🔷 La prosternation de l'oubli pour le masbuq
 
 ### La règle :
 
@@ -207,7 +207,53 @@ Pour que le masbuq soit considéré comme ayant rattrapé la rak'a en rattrapant
 
 ---
 
-## Tableau récapitulatif : Ce que le masbuq complète
+## 🎓 Comparaison des écoles sur les règles du Masbuq
+
+### 📌 Ce qui fait rattraper la rak'a
+
+| École | Avis | Justification |
+|-------|------|---------------|
+| 🟡 **Malikite** | En rattrapant l'inclinaison avec sérénité | L'inclinaison constitue la majeure partie de la rak'a |
+| 🟢 **Hanafite** | En rattrapant l'inclinaison avec l'imam même sans sérénité | Le suivi de l'imam |
+| 🔵 **Shafiite** | En rattrapant l'inclinaison avant que l'imam ne se relève | Comme la majorité |
+| 🟣 **Hanbalite** | En rattrapant l'inclinaison avec sérénité | Comme les Malikites |
+
+> 📌 **Avis retenu :** Rattraper l'inclinaison compte comme rak'a selon la majorité à condition de la sérénité.
+
+### 📌 Ce que rattrape le masbuq : début ou fin de sa prière ?
+
+| École | Avis | Conséquence pratique |
+|-------|------|----------------------|
+| 🟡 **Malikite** | Ce qu'il rattrape est la fin de sa prière | Il complète le début avec Fatiha, sourate et récitation à voix haute |
+| 🟢 **Hanafite** | Ce qu'il rattrape est la fin de sa prière | Comme les Malikites |
+| 🔵 **Shafiite** | Ce qu'il rattrape est le début de sa prière | Il complète la fin avec Fatiha seulement |
+| 🟣 **Hanbalite** | Ce qu'il rattrape est le début de sa prière et ce qu'il complète est la fin | Pour la récitation : il fait comme s'il était à la fin |
+
+> 📌 **Divergence pratique :** Chez les Malikites et Hanafites, il récite dans ce qu'il complète ce qu'il aurait récité au début, alors que chez les Shafiites et Hanbalites, il récite comme s'il était à la fin.
+
+### 📌 La récitation à voix haute ou basse dans ce qu'il complète
+
+| École | Avis |
+|-------|------|
+| 🟡 **Malikite** | Récite à voix haute dans ce qui se récite à voix haute habituellement |
+| 🟢 **Hanafite** | Récite à voix basse dans tous les cas car il est seul |
+| 🔵 **Shafiite** | Récite à voix haute dans la prière à voix haute tant qu'il complète |
+| 🟣 **Hanbalite** | Récite à voix haute dans ce qui se récite à voix haute habituellement |
+
+### 📌 Rattraper le Jumu'a
+
+| École | Quand rattrape-t-on le Jumu'a ? |
+|-------|--------------------------------|
+| 🟡 **Malikite** | En rattrapant une rak'a complète avec l'imam |
+| 🟢 **Hanafite** | En rattrapant une rak'a complète avec l'imam |
+| 🔵 **Shafiite** | En rattrapant une rak'a complète avec l'imam |
+| 🟣 **Hanbalite** | En rattrapant une rak'a complète avec l'imam |
+
+> 📌 **Consensus :** Celui qui rattrape une rak'a du Jumu'a le complète en Jumu'a, et celui qui rattrape moins le prie en Dhuhr.
+
+---
+
+## 📚 Tableau récapitulatif : Ce que le masbuq complète
 
 | Prière | Ce qu'il rattrape | Ce qu'il complète | Comment compléter |
 |--------|-------------------|-------------------|-------------------|
@@ -226,7 +272,7 @@ Pour que le masbuq soit considéré comme ayant rattrapé la rak'a en rattrapant
 
 ---
 
-## Questions d'évaluation
+## ❓ Questions d'évaluation
 
 1. Quand le masbuq est-il considéré comme ayant rattrapé la rak'a ?
 2. Quelle est la différence entre le masbuq et le lahiq ?
@@ -237,7 +283,7 @@ Pour que le masbuq soit considéré comme ayant rattrapé la rak'a en rattrapant
 
 ---
 
-## Invocation de clôture du cours
+## 🤲 Invocation de clôture du cours
 
 > **Ô Allah, fais de nous ceux qui préservent la prière en groupe à son premier temps, et si nous manquons quelque chose, enseigne-nous comment le compléter de la manière qui Te satisfait, et pardonne-nous notre manquement, Ô le Plus Miséricordieux des miséricordieux.**
 

@@ -5,7 +5,7 @@
 
 export const content = `# Le Fiqh des Prières Spéciales
 
-## La Prière Funéraire (صلاة الجنازة)
+## 📖 La Prière Funéraire (صلاة الجنازة)
 
 Louange à Allah qui nous a créés, nous fera mourir, puis nous ressuscitera. Que la paix et les bénédictions soient sur notre Prophète Muhammad ﷺ. La prière funéraire est une invocation pour le défunt et une obligation collective pour la communauté.
 
@@ -15,7 +15,7 @@ Louange à Allah qui nous a créés, nous fera mourir, puis nous ressuscitera. Q
 
 ---
 
-## 1. Statut et Importance
+## 🔍 1. Statut et Importance
 
 ### 📌 Obligation collective (فرض كفاية)
 
@@ -35,7 +35,7 @@ La prière funéraire est une **obligation collective** : si certains l'accompli
 
 ---
 
-## 2. Description de la Prière
+## 🔷 2. Description de la Prière
 
 ### 📋 Structure générale
 
@@ -68,7 +68,7 @@ La prière funéraire est une **obligation collective** : si certains l'accompli
 
 ---
 
-## 3. Les Du'a de la Prière Funéraire
+## 📚 3. Les Du'a de la Prière Funéraire
 
 ### 📌 Après la 1ère Takbira (optionnel)
 
@@ -100,7 +100,7 @@ On peut faire un court du'a général ou garder le silence, puis on fait le tasl
 
 ---
 
-## 4. Dispositions Pratiques
+## 🎯 4. Dispositions Pratiques
 
 ### 📋 Position par rapport au défunt
 
@@ -131,7 +131,7 @@ On peut faire un court du'a général ou garder le silence, puis on fait le tasl
 
 ---
 
-## 5. Qui a Priorité pour Diriger la Prière ?
+## ⚖️ 5. Qui a Priorité pour Diriger la Prière ?
 
 ### 📋 Ordre de priorité
 
@@ -148,7 +148,7 @@ Le tuteur peut déléguer son droit à quelqu'un de plus savant ou de plus pieux
 
 ---
 
-## 6. La Prière sur l'Absent (صلاة الغائب)
+## 💡 6. La Prière sur l'Absent (صلاة الغائب)
 
 ### ⚠️ Divergence importante
 
@@ -167,7 +167,7 @@ Le tuteur peut déléguer son droit à quelqu'un de plus savant ou de plus pieux
 
 ---
 
-## 7. Cas Particuliers
+## 🔷 7. Cas Particuliers
 
 ### 📌 La femme peut-elle prier la janaza ?
 
@@ -201,7 +201,7 @@ Le tuteur peut déléguer son droit à quelqu'un de plus savant ou de plus pieux
 
 ---
 
-## 8. Erreurs Courantes à Éviter
+## 📝 8. Erreurs Courantes à Éviter
 
 ### ❌ Ce qu'il ne faut pas faire
 

@@ -3,9 +3,9 @@
  * English Content - Multi-Madhhab Approach (Maliki Priority)
  */
 
-export const content = `# Fiqh of Special Prayers
+export const content = `# 📜 Fiqh of Special Prayers
 
-## Prayer of the Sick (Salat Al-Marid)
+## 📖 Prayer of the Sick (Salat Al-Marid)
 
 All praise be to Allah who did not burden His servants with what they cannot bear. May peace and blessings be upon our Prophet Muhammad ﷺ who taught us the facilitations for the sick. Illness never exempts one from prayer as long as the mind is present.
 
@@ -15,7 +15,7 @@ All praise be to Allah who did not burden His servants with what they cannot bea
 
 ---
 
-## 1. Fundamental Principle
+## 🔍 1. Fundamental Principle
 
 ### 📌 Prayer never falls away
 
@@ -29,7 +29,7 @@ All praise be to Allah who did not burden His servants with what they cannot bea
 
 ---
 
-## 2. Prayer Positions in Order of Priority
+## 🔷 2. Prayer Positions in Order of Priority
 
 ### 📋 Hierarchy of positions
 
@@ -49,7 +49,7 @@ All praise be to Allah who did not burden His servants with what they cannot bea
 
 ---
 
-## 3. Standing Prayer with Support
+## 📚 3. Standing Prayer with Support
 
 ### 📋 When can one lean?
 
@@ -70,7 +70,7 @@ All praise be to Allah who did not burden His servants with what they cannot bea
 
 ---
 
-## 4. Sitting Prayer
+## 🎯 4. Sitting Prayer
 
 ### 📋 How to sit?
 
@@ -96,7 +96,7 @@ All praise be to Allah who did not burden His servants with what they cannot bea
 
 ---
 
-## 5. Lying Down Prayer
+## ⚖️ 5. Lying Down Prayer
 
 ### 📋 On which side?
 
@@ -116,7 +116,7 @@ All praise be to Allah who did not burden His servants with what they cannot bea
 
 ---
 
-## 6. Prayer by Gestures (الإيماء)
+## 💡 6. Prayer by Gestures (الإيماء)
 
 ### 📋 Hierarchy of gestures
 
@@ -139,7 +139,7 @@ All praise be to Allah who did not burden His servants with what they cannot bea
 
 ---
 
-## 7. Purification for the Sick
+## 🔷 7. Purification for the Sick
 
 ### 📋 Tahara rules for the sick
 
@@ -169,7 +169,7 @@ All praise be to Allah who did not burden His servants with what they cannot bea
 
 ---
 
-## 8. Special Cases
+## 📝 8. Special Cases
 
 ### 📌 Patient under anesthesia
 

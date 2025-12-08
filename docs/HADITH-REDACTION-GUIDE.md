@@ -136,7 +136,7 @@ On the authority of **[Companion's name]** — may Allah be pleased with him —
 |--------|--------|--------|
 | **Sahih Al-Bukhari** | [Numéro] | ✅ Sahih |
 | **Sahih Muslim** | [Numéro] | ✅ Sahih |
-| **Sunan Abu Dawud** | [Numéro] | ✅ Sahih / ⚠️ Hasan |
+| **Sunan Abu Dawud** | [Numéro] | ✅ Sahih / ✔️ Hasan |
 | **Sunan At-Tirmidhi** | [Numéro] | ✅ Sahih |
 ```
 

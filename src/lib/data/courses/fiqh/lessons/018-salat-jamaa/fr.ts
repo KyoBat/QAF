@@ -3,9 +3,9 @@
  * Contenu en Français - Approche Multi-Madhhab (Priorité Maliki)
  */
 
-export const content = `# Le Fiqh de la Prière
+export const content = `# 📜 Le Fiqh de la Prière
 
-## La Prière en Groupe (صلاة الجماعة)
+## 📖 La Prière en Groupe (صلاة الجماعة)
 
 Louange à Allah qui a fait de la prière en groupe un pilier de la vie communautaire musulmane. Que la paix et les bénédictions soient sur notre Prophète Muhammad ﷺ qui ne l'a jamais délaissée. La prière en groupe est l'un des rites les plus apparents de l'Islam et une cause de multiplication des récompenses.
 
@@ -13,7 +13,7 @@ Louange à Allah qui a fait de la prière en groupe un pilier de la vie communau
 
 ---
 
-## 1. Le Statut Juridique (الحكم الشرعي)
+## 🔍 1. Le Statut Juridique (الحكم الشرعي)
 
 ### ⚠️ Les Avis des 4 Écoles
 
@@ -44,7 +44,7 @@ Selon l'école Malikite, la prière en groupe pour les cinq prières quotidienne
 
 ---
 
-## 2. Les Mérites de la Prière en Groupe (فضائل صلاة الجماعة)
+## 🔷 2. Les Mérites de la Prière en Groupe (فضائل صلاة الجماعة)
 
 ### 🌟 La multiplication des récompenses
 
@@ -62,7 +62,7 @@ Selon l'école Malikite, la prière en groupe pour les cinq prières quotidienne
 
 ---
 
-## 3. Conditions de l'Imam (شروط الإمامة)
+## 📚 3. Conditions de l'Imam (شروط الإمامة)
 
 ### 📋 Conditions de validité de l'imamat
 
@@ -91,7 +91,7 @@ Selon l'école Malikite, la prière en groupe pour les cinq prières quotidienne
 
 ---
 
-## 4. Règles des Rangées (أحكام الصفوف)
+## 🎯 4. Règles des Rangées (أحكام الصفوف)
 
 ### 📏 L'importance de redresser les rangs
 
@@ -130,7 +130,7 @@ Selon l'école Malikite, la prière en groupe pour les cinq prières quotidienne
 
 ---
 
-## 5. Suivre l'Imam (متابعة الإمام)
+## ⚖️ 5. Suivre l'Imam (متابعة الإمام)
 
 ### 📋 L'obligation de suivre l'imam
 
@@ -162,7 +162,7 @@ Le priant (ma'mum) doit suivre l'imam dans tous ses mouvements, sans le devancer
 
 ---
 
-## 6. Cas Pratiques (مسائل عملية)
+## 💡 6. Cas Pratiques (مسائل عملية)
 
 ### 📌 Arrivée en retard à la mosquée
 

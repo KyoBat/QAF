@@ -3,9 +3,9 @@
  * English Content
  */
 
-export const content = `# Fiqh of Special Prayers
+export const content = `# 📜 Fiqh of Special Prayers
 
-## The Rain Prayer (Salat Al-Istisqa')
+## 📖 The Rain Prayer (Salat Al-Istisqa')
 
 All praise be to Allah who sends down rain after despair and spreads His mercy. May peace and blessings be upon our Prophet Muhammad ﷺ. When drought strikes and rain is scarce, Muslims turn to Allah imploring His mercy.
 
@@ -13,7 +13,7 @@ All praise be to Allah who sends down rain after despair and spreads His mercy. 
 
 ---
 
-## 1. Definition and Status
+## 🔍 1. Definition and Status
 
 ### 📋 Definition
 
@@ -30,7 +30,7 @@ All praise be to Allah who sends down rain after despair and spreads His mercy. 
 
 ---
 
-## 2. Description of the Prayer
+## 🔷 2. Description of the Prayer
 
 ### ⚠️ Difference on additional Takbirat
 
@@ -45,7 +45,7 @@ All praise be to Allah who sends down rain after despair and spreads His mercy. 
 
 ---
 
-## 3. Turning the Rida' (Cloak)
+## 📚 3. Turning the Rida' (Cloak)
 
 ### ⚠️ IMPORTANT DIFFERENCE
 
@@ -68,7 +68,7 @@ All praise be to Allah who sends down rain after despair and spreads His mercy. 
 
 ---
 
-## 4. Preparations and Etiquettes
+## 🎯 4. Preparations and Etiquettes
 
 | Preparation | Description |
 |-------------|-------------|
@@ -81,7 +81,7 @@ All praise be to Allah who sends down rain after despair and spreads His mercy. 
 
 ---
 
-## 5. Raising Hands in Du'a
+## ⚖️ 5. Raising Hands in Du'a
 
 ### 📌 Specific manner
 
@@ -93,7 +93,7 @@ All praise be to Allah who sends down rain after despair and spreads His mercy. 
 
 ---
 
-## 6. Du'a for Rain
+## 💡 6. Du'a for Rain
 
 > **Allahumma aghithna, Allahumma aghithna, Allahumma aghithna**
 > (O Allah, grant us rain!)
@@ -102,14 +102,14 @@ All praise be to Allah who sends down rain after despair and spreads His mercy. 
 
 ---
 
-## 7. When Rain Comes
+## 🔷 7. When Rain Comes
 
 > **Allahumma sayyiban nafi'an**
 > (O Allah, a beneficial rain!)
 
 ---
 
-## 8. If Rain is Excessive
+## 📝 8. If Rain is Excessive
 
 > **Allahumma hawalaina wa la 'alaina**
 > (O Allah, around us and not upon us)

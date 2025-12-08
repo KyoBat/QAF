@@ -45,7 +45,7 @@ export const content = `# 📜 النَّجَاسَةُ وَأَحْكَامُه
 |--------|--------|--------|
 | **Sahih Al-Bukhari** | 220 | ✅ Sahih |
 | **Sahih Muslim** | 279 | ✅ Sahih |
-| **Sunan Ibn Majah** | 3314 | ⚠️ Hasan |
+| **Sunan Ibn Majah** | 3314 | ✔️ Hasan |
 
 ---
 
