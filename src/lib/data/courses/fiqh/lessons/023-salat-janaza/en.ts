@@ -203,5 +203,3 @@ The funeral prayer is a **collective obligation (fard kifaya)**: if some perform
 
 **And Allah knows best** — وَاللهُ تَعَالَى أَعْلَى وَأَعْلَم
 `;
-5. Bidayat Al-Mujtahid by Ibn Rushd
-`;
