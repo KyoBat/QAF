@@ -1,67 +1,157 @@
-export const content = `
-# At-Tayammum (Dry Ablution)
+/**
+ * Fiqh - Lesson 006: Dry Ablution (Tayammum)
+ * English Content - Standardized Format
+ */
 
-Tayammum is the lawful substitute for Wudu and Ghusl when water is unavailable or its use is harmful. It is one of the unique blessings granted to the Ummah of Prophet Muhammad ﷺ.
+export const content = `# 📜 Dry Ablution (Tayammum) — The Lawful Substitute
 
-## 1. Definition of Tayammum
-
-**Linguistically:** It means "to intend" or "to aim for."
-**Legally (in Sharia):** It is wiping the face and hands with pure earth (Sa'id Tayyib) with the intention of purification when water cannot be used.
-
-## 2. When is Tayammum Permitted? (Valid Excuses)
-
-A Muslim may perform Tayammum instead of Wudu or Ghusl in the following situations:
-
-### A. Absence of Water
-When water is not available after searching for it, or it is too far to reach.
-
-**Proof:** Allah says: ﴿...and you find no water, then seek clean earth and wipe over your faces and your hands﴾ [An-Nisa: 43].
-
-### B. Illness or Fear of Harm
-If a sick person fears that using water will worsen the illness, delay recovery, or cause a new ailment.
-
-### C. Extreme Cold
-If the water is extremely cold and one genuinely fears harm from using it, and there is no way to heat it.
-
-**Proof:** The Prophet ﷺ approved of Amr ibn al-As (may Allah be pleased with him) when he performed Tayammum due to severe cold during the expedition of Dhat as-Salasil and led his companions in prayer. The Prophet ﷺ did not rebuke him. (Narrated by Abu Dawud, authenticated by Al-Albani).
-
-### D. Need to Preserve Water
-If one has only a small amount of water needed for drinking (for oneself, companions, or animals), they may preserve it and perform Tayammum.
-
-## 3. What Can Be Used for Tayammum?
-
-Tayammum is performed with **pure earth (Sa'id Tayyib)**, which includes anything that rises from the surface of the earth and is of its nature: dust, sand, rocks, or even walls made of mud or stone.
-
-**Proof:** The Prophet ﷺ said: "The earth has been made for me a place of prayer and a means of purification." (Agreed upon - Bukhari & Muslim).
-
-![Types of pure earth for Tayammum (dust, sand, stone)](/images/fiqh/tayammum-soil-types.jpg)
-
-## 4. How to Perform Tayammum (Step-by-Step)
-
-The authentic method of Tayammum as taught by the Prophet ﷺ is simple:
-
-1. **Intention:** Intend in your heart to purify yourself for prayer (or to remove impurity).
-2. **Say Bismillah:** Say "In the name of Allah."
-3. **Strike the Earth Once:** Strike the ground (or any pure earth surface) with the palms of both hands once.
-4. **Wipe the Face:** Wipe your entire face with your palms.
-5. **Wipe the Hands:** Wipe the back of your right hand with your left palm, and the back of your left hand with your right palm (up to the wrists).
-
-**Proof:**
-Ammar ibn Yasir (may Allah be pleased with him) reported that the Prophet ﷺ said: "It would have been sufficient for you to do this," and he struck the ground once with his palms, then dusted them off, then wiped the back of his left hand with his right palm (or the back of his right hand with his left palm), then wiped his face. (Agreed upon - Bukhari & Muslim).
-
-![Steps of Tayammum: Strike, Wipe Face, Wipe Hands](/images/fiqh/tayammum-steps.jpg)
-
-## 5. What Invalidates Tayammum?
-
-Tayammum is nullified by:
-
-1. **Everything that nullifies Wudu:** (Urine, feces, passing wind, deep sleep, etc.).
-2. **Finding Water:** For those who performed Tayammum due to its absence. The rule is: "When water is found, Tayammum becomes invalid."
-3. **Removal of the Excuse:** Such as recovery from illness, or the cold becoming bearable, or finding a way to heat the water.
+> *"The earth has been made for me a place of prayer and a means of purification."* — Agreed upon
 
 ---
 
-**Benefit:** A single Tayammum is valid for multiple prayers as long as it is not invalidated, just like Wudu.
+## 📜 Foundational Texts
 
-*Islam is a religion of ease. Allah says: ﴿Allah does not intend to make difficulty for you, but He intends to purify you﴾ [Al-Ma'idah: 6].*
+### The Quran
+
+> **﴿ And if you are ill or on a journey or one of you comes from the place of relieving himself or you have contacted women and find no water, then seek clean earth and wipe over your faces and your hands ﴾**
+> — An-Nisa: 43
+
+> **﴿ Allah does not intend to make difficulty for you, but He intends to purify you ﴾**
+> — Al-Ma'idah: 6
+
+### The Prophetic Tradition
+
+> The Prophet ﷺ said:
+> **"The earth has been made for me a place of prayer and a means of purification."**
+> — Agreed upon
+
+> The Prophet ﷺ approved of Amr ibn al-As when he performed Tayammum due to severe cold during the expedition of Dhat as-Salasil.
+> — Narrated by Abu Dawud, authenticated
+
+---
+
+## 🎓 Scholars' Statements
+
+> **Ibn Qudamah** (may Allah have mercy on him) said:
+> *"Tayammum is one of the unique blessings granted to the Ummah of Prophet Muhammad ﷺ."*
+
+---
+
+## 🔍 Linguistic Analysis
+
+### Vocabulary Table
+
+| Term | Root | Definition |
+|------|------|------------|
+| **Tayammum** | y-m-m | To intend or aim for |
+| **Sa'id** | s-'-d | Pure earth/soil |
+| **Tayyib** | t-y-b | Pure, clean, good |
+
+---
+
+## 📚 Detailed Explanation
+
+### 🔷 Definition of Tayammum
+
+**Linguistically:** It means "to intend" or "to aim for."
+
+**Legally (Shari'ah):** Wiping the face and hands with pure earth (Sa'id Tayyib) with the intention of purification when water cannot be used.
+
+### 🔷 When is Tayammum Permitted?
+
+| Excuse | Details |
+|--------|---------|
+| **Absence of Water** | After searching and not finding it |
+| **Illness** | Fear of worsening illness or delaying recovery |
+| **Extreme Cold** | Genuine fear of harm with no way to heat water |
+| **Need to Preserve Water** | Water needed for drinking |
+
+### 🔷 What Can Be Used for Tayammum?
+
+**Pure Earth (Sa'id Tayyib)** includes anything from the earth's surface:
+- Dust
+- Sand
+- Rocks
+- Walls made of mud or stone
+
+### 🔷 How to Perform Tayammum
+
+1. **Intention:** Intend to purify yourself for prayer
+2. **Say Bismillah:** "In the name of Allah"
+3. **Strike the Earth Once:** With the palms of both hands
+4. **Wipe the Face:** Entire face with your palms
+5. **Wipe the Hands:** Back of right hand with left palm, and vice versa
+
+**Evidence:** Ammar ibn Yasir reported that the Prophet ﷺ showed him and said: **"It would have been sufficient for you to do this,"** then struck the ground once, dusted his hands, wiped his face, then wiped his hands. (Agreed upon)
+
+### 🔷 What Invalidates Tayammum?
+
+1. **Everything that nullifies Wudu**
+2. **Finding Water:** For those who did Tayammum due to its absence
+3. **Removal of the Excuse:** Recovery from illness, cold becoming bearable, etc.
+
+---
+
+## ⚖️ Schools' Perspectives
+
+| Issue | 🟡 Maliki | 🟢 Hanafi | 🔵 Shafi'i | 🟣 Hanbali |
+|-------|-----------|-----------|------------|------------|
+| **Striking once or twice** | Once | Twice | Twice | Once |
+| **Wiping to wrists or elbows** | Wrists | Elbows | Elbows | Wrists |
+
+---
+
+## 🌍 Contemporary Applications
+
+| Situation | Ruling |
+|-----------|--------|
+| 🏥 **Hospital patient** | If using water harms, Tayammum is valid |
+| ✈️ **Airplane travel** | If no water access, Tayammum permitted |
+| 🏜️ **Desert travel** | Classic case of Tayammum permission |
+| 🧱 **Using wall/stone** | Valid if made of natural earth materials |
+
+---
+
+## ⚠️ Common Mistakes
+
+| ❌ Mistake | ✅ Correction |
+|-----------|--------------|
+| Thinking Tayammum needs dust | Any pure earth surface works |
+| Blowing off hands excessively | Light dusting is sufficient |
+| Thinking it's only for Wudu | Also replaces Ghusl |
+| Not searching for water first | Must search before Tayammum |
+
+---
+
+## ❓ Frequently Asked Questions
+
+**Q1: Can I pray multiple prayers with one Tayammum?**
+> Yes, a single Tayammum is valid for multiple prayers as long as it's not invalidated.
+
+**Q2: What if I find water after praying with Tayammum?**
+> Your prayer is valid. No need to repeat it.
+
+**Q3: Can I do Tayammum on a carpet?**
+> Only if it has collected natural dust from the earth.
+
+---
+
+## 🎯 Practical Action
+
+**This week, commit to:**
+
+1. **Learn** the simple method of Tayammum
+2. **Know** when it's permitted to use
+3. **Remember** that Islam is a religion of ease
+4. **Trust** in Allah's mercy and facilitation
+
+---
+
+## 📝 Closing Reminder
+
+> *Islam is a religion of ease. Allah says: "Allah does not intend to make difficulty for you, but He intends to purify you."*
+
+---
+
+**And Allah knows best**
 `;

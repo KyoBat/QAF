@@ -1,183 +1,210 @@
 /**
  * Fiqh - Lesson 007: Menstruation and Postpartum Bleeding
- * English Content
+ * English Content - Standardized Format
  */
 
-export const content = `# Rulings on Menstruation (Hayd) and Postpartum Bleeding (Nifas)
+export const content = `# 📜 Menstruation (Hayd) and Postpartum Bleeding (Nifas)
 
-## Introduction
-
-Menstruation and postpartum bleeding are natural matters that Allah has decreed for the daughters of Adam. Islamic law has established specific rulings regarding purification and worship during these times. The Prophet ﷺ said to Aisha (may Allah be pleased with her) when she menstruated during Hajj: **"This is something that Allah has decreed for the daughters of Adam."** (Agreed upon).
+> **"This is something that Allah has decreed for the daughters of Adam."**
+> — Agreed upon
 
 ---
 
-## Part One: Menstruation (Hayd)
+## 📜 Foundational Texts
 
-### 1. Definition of Menstruation
+### The Quran
 
+> **﴿ They ask you about menstruation. Say, "It is harm, so keep away from women during menstruation. And do not approach them until they are pure" ﴾**
+> — Al-Baqarah: 222
+
+### The Prophetic Tradition
+
+> The Prophet ﷺ said to Aisha when she menstruated during Hajj:
+> **"This is something that Allah has decreed for the daughters of Adam."**
+> — Agreed upon
+
+> The Prophet ﷺ said:
+> **"Isn't it that when she menstruates, she neither prays nor fasts?"**
+> — Agreed upon
+
+---
+
+## 🎓 Scholars' Statements
+
+> **Ibn Qudamah** (may Allah have mercy on him) said:
+> *"Menstruation is natural blood that exits from a woman's uterus at known times, not due to illness."*
+
+---
+
+## 🔍 Linguistic Analysis
+
+### Vocabulary Table
+
+| Term | Root | Definition |
+|------|------|------------|
+| **Hayd** | h-y-d | Flowing; menstruation |
+| **Nifas** | n-f-s | Postpartum bleeding after childbirth |
+| **Istihada** | h-y-d | Abnormal uterine bleeding outside menses |
+| **Qassah Bayda** | q-s-s | White discharge marking end of menstruation |
+
+---
+
+## 📚 Detailed Explanation
+
+### 🔷 Part One: Menstruation (Hayd)
+
+#### Definition
 **Linguistically:** Flowing; it is said "the valley menstruated" when it flowed.
-**Legally:** Natural blood that exits from a woman's uterus at known times, not due to illness or injury.
+**Legally:** Natural blood that exits from a woman's uterus at known times, not due to illness.
 
-### 2. Age of Menstruation
+#### Age Limits
 
 | Limit | Details |
-| :--- | :--- |
-| **Earliest age it begins** | Nine lunar (Hijri) years |
-| **Age of cessation (menopause)** | Usually between 45-55 years |
+|-------|---------|
+| **Earliest age** | Nine lunar years |
+| **Menopause** | Usually between 45-55 years |
 
-> **Note:** What a girl sees before the age of nine is not menstruation, and similarly what a woman sees after menopause.
-
-### 3. Duration of Menstruation
+#### Duration
 
 | Limit | Duration |
-| :--- | :--- |
-| **Minimum** | No minimum (even an hour) according to the strongest opinion |
-| **Maximum** | Fifteen days according to the majority |
+|-------|----------|
+| **Minimum** | No minimum (even an hour) |
+| **Maximum** | Fifteen days |
 | **Average** | Six or seven days |
 
-The Prophet ﷺ said to Hamnah bint Jahsh: **"Consider yourself menstruating for six or seven days in Allah's knowledge, then perform Ghusl."** (Narrated by Ahmad and Abu Dawud).
+#### Characteristics of Menstrual Blood
 
-### 4. Characteristics of Menstrual Blood
+1. **Color:** Black or dark red
+2. **Smell:** Distinctive unpleasant odor
+3. **Consistency:** Thick and heavy
+4. **Clotting:** Usually does not clot
 
-Menstrual blood has distinguishing characteristics:
+#### Signs of Purity
 
-1. **Color:** Black or dark red.
-2. **Smell:** Has a distinctive unpleasant odor.
-3. **Consistency:** Thick and heavy.
-4. **Clotting:** Usually does not clot.
+1. **White Discharge (Al-Qassah Al-Bayda'):** White fluid at the end
+2. **Complete Dryness:** Blood stops completely
 
-### 5. Signs of Purity from Menstruation
+### 🔷 Part Two: Postpartum Bleeding (Nifas)
 
-A woman knows she is pure by one of two signs:
+#### Definition
+Blood that exits from the uterus due to childbirth.
 
-1. **White Discharge (Al-Qassah Al-Bayda'):** A white fluid that exits from the uterus at the end of menstruation.
-2. **Complete Dryness:** The blood stops completely, so if a cotton pad is inserted, it comes out clean.
-
-Aisha (may Allah be pleased with her) said to women: **"Do not rush until you see the white discharge."** (Reported by Al-Bukhari as Mu'allaq).
-
----
-
-## Part Two: Postpartum Bleeding (Nifas)
-
-### 1. Definition of Nifas
-
-**Linguistically:** From "nafs" (blood/soul) or from "tanaffus" (relief).
-**Legally:** Blood that exits from the uterus due to childbirth.
-
-### 2. Duration of Nifas
+#### Duration
 
 | Limit | Duration |
-| :--- | :--- |
-| **Minimum** | No minimum (she may become pure after a day or two) |
+|-------|----------|
+| **Minimum** | No minimum |
 | **Maximum** | Forty days |
 | **Average** | Forty days or less |
 
-Umm Salamah (may Allah be pleased with her) said: **"The woman in postpartum bleeding used to sit (refrain from prayer) for forty days during the time of the Messenger of Allah ﷺ."** (Narrated by Abu Dawud and At-Tirmidhi).
-
-> **Note:** If a woman becomes pure before forty days, she must perform Ghusl and pray. If the blood returns within the forty days, it is Nifas. If it continues after forty days, it is Istihada (abnormal bleeding).
-
-### 3. Blood Before Delivery
-
-- **If it comes two or three days before delivery with signs of labor (contractions):** It is considered Nifas.
-- **If it comes before that:** It is not Nifas, but abnormal blood.
-
----
-
-## Part Three: What is Prohibited for the Menstruating Woman and the One in Nifas
-
-### Shared Prohibitions
+### 🔷 Part Three: What is Prohibited
 
 | Ruling | Evidence |
-| :--- | :--- |
-| **1. Prayer** | The Prophet ﷺ said: "Isn't it that when she menstruates, she neither prays nor fasts?" (Agreed upon) |
-| **2. Fasting** | Same hadith as above |
-| **3. Circumambulating the Ka'bah** | The Prophet ﷺ said to Aisha: "Do what the pilgrim does except do not circumambulate the House." (Agreed upon) |
-| **4. Staying in the Mosque** | The Prophet ﷺ said: "I do not permit the mosque for a menstruating woman or one in a state of major impurity." (Narrated by Abu Dawud) |
-| **5. Sexual Intercourse** | Allah says: ﴿So keep away from women during menstruation and do not approach them until they are pure.﴾ [Al-Baqarah: 222] |
-| **6. Touching the Mushaf** | According to the majority of scholars |
+|--------|----------|
+| **Prayer** | "She neither prays nor fasts" |
+| **Fasting** | Same hadith |
+| **Circumambulating Ka'bah** | "Do what the pilgrim does except Tawaf" |
+| **Staying in mosque** | "I do not permit the mosque for menstruating woman" |
+| **Sexual intercourse** | "Keep away from women during menstruation" |
+| **Touching Mushaf** | Majority opinion |
 
-### What is Permissible for the Menstruating Woman
+### 🔷 What is Permissible
 
-1. **Remembrance of Allah, supplication, and glorification.**
-2. **Reciting Quran** without touching the Mushaf (according to the stronger opinion, for need such as memorization and review).
-3. **Passing through the mosque** without staying.
-4. **Intimacy without intercourse** (between the navel and knee).
-5. **Attending gatherings of knowledge and remembrance.**
-6. **All acts of Hajj except Tawaf.**
+1. Dhikr, supplication, and glorification
+2. Reciting Quran without touching Mushaf (stronger opinion)
+3. Passing through mosque without staying
+4. Intimacy without intercourse
+5. Attending gatherings of knowledge
+6. All Hajj acts except Tawaf
 
----
+### 🔷 Part Four: Abnormal Bleeding (Istihada)
 
-## Part Four: Istihada (Abnormal Uterine Bleeding)
-
-### 1. Definition of Istihada
-
-**Linguistically:** From the pattern of "istif'al" from "hayd."
-**Legally:** Blood that exits from the uterus outside the times of menstruation and Nifas; it is blood from a vein called "al-'adhil."
-
-### 2. Characteristics of Istihada Blood
+#### Characteristics
 
 | Menstrual Blood | Istihada Blood |
-| :--- | :--- |
+|-----------------|----------------|
 | Black or dark red | Light red or yellow |
 | Thick and heavy | Thin and light |
-| Has an unpleasant odor | No odor |
+| Unpleasant odor | No odor |
 | Does not clot | Clots |
 
-### 3. Ruling on the Mustahada
-
-The woman with Istihada is **pure** and has the same ruling as pure women. She must:
-
-1. **Pray** at its time.
-2. **Fast** if it is Ramadan.
-3. **Everything obligatory upon the pure woman.**
-
-**How to purify:**
-- Wash the private area.
-- Place a cotton pad or sanitary napkin.
-- Perform Wudu for each prayer after its time enters.
-
-The Prophet ﷺ said to Fatimah bint Abi Hubaysh: **"Perform Wudu for every prayer."** (Narrated by Al-Bukhari).
-
-### 4. Cases of the Mustahada
-
-| Case | Ruling |
-| :--- | :--- |
-| **She has a known habit** | She sits for the days of her habit then performs Ghusl and prays |
-| **She can distinguish (knows the characteristics of menstrual blood)** | She acts according to the distinction |
-| **No habit and no distinction** | She considers herself menstruating for six or seven days each month |
+#### Ruling
+The woman with Istihada is **pure**. She must:
+- Pray at its time
+- Fast if Ramadan
+- Perform Wudu for each prayer
 
 ---
 
-## Part Five: Rulings on Purity and Ghusl
+## ⚖️ Schools' Perspectives
 
-### When is Ghusl Required?
-
-1. **End of menstruation:** After seeing the sign of purity (white discharge or dryness).
-2. **End of Nifas:** When the blood stops or after completing forty days.
-
-### Description of Ghusl from Menstruation and Nifas
-
-It is the same as Ghusl from Janabah, with the recommendation to:
-
-1. **Remove the traces of blood well.**
-2. **Use something with a pleasant scent** (musk or perfume) on the area of the blood.
-
-Aisha (may Allah be pleased with her) narrated that the Prophet ﷺ said to Asma' regarding Ghusl from menstruation: **"One of you takes her water and sidr (lote tree leaves) and purifies herself well, then she pours water over her head... then she takes a piece of cloth scented with musk and purifies herself with it."** (Narrated by Muslim).
+| Issue | 🟡 Maliki | 🟢 Hanafi | 🔵 Shafi'i | 🟣 Hanbali |
+|-------|-----------|-----------|------------|------------|
+| **Maximum menstruation** | 15 days | 10 days | 15 days | 15 days |
+| **Maximum nifas** | 60 days | 40 days | 60 days | 40 days |
+| **Quran recitation** | Permitted | Forbidden | Forbidden | Permitted |
 
 ---
 
-## Part Six: Frequently Asked Questions
+## 🌍 Contemporary Applications
 
-| Question | Answer |
-| :--- | :--- |
-| Does the menstruating woman make up missed prayers? | ❌ No, she does not make up prayers |
-| Does the menstruating woman make up missed fasts? | ✅ Yes, she makes up fasts |
-| Can the menstruating woman enter the mosque? | ❌ She cannot stay, but may pass through for a need |
-| Can the menstruating woman recite Quran? | ✅ Yes, according to the stronger opinion, without touching the Mushaf |
-| When should she pray if she becomes pure? | Immediately after becoming pure and performing Ghusl |
-| Should she pray the obligatory prayer in whose time she became pure? | ✅ Yes, and also what can be combined with it (like Dhuhr with Asr) |
-| What if she sees blood after becoming pure? | If it has the characteristics of menstruation and within its duration, it is menstruation |
-| Are pills to delay menstruation permissible? | ✅ Permissible if it doesn't harm health, but better to avoid |
+| Situation | Ruling |
+|-----------|--------|
+| 💊 **Pills to delay period** | Permissible if no health harm |
+| 🤰 **IUD bleeding** | Follow habit pattern |
+| 🏥 **Medical procedures causing bleeding** | Not menstruation |
+| 📱 **Quran apps** | May use without touching screen on verse |
+
+---
+
+## ⚠️ Common Mistakes
+
+| ❌ Mistake | ✅ Correction |
+|-----------|--------------|
+| Making up missed prayers | Prayers are not made up |
+| Not making up fasts | Fasts must be made up |
+| Avoiding all Quran | Recitation is permitted by many scholars |
+| Delaying Ghusl after purity | Should pray immediately after Ghusl |
+
+---
+
+## ❓ Frequently Asked Questions
+
+**Q1: Does menstruating woman make up missed prayers?**
+> ❌ No, she does not make up prayers.
+
+**Q2: Does she make up missed fasts?**
+> ✅ Yes, she must make up fasts.
+
+**Q3: Can she recite Quran?**
+> ✅ Yes, according to the stronger opinion, without touching the Mushaf.
+
+**Q4: What if she becomes pure just before Fajr?**
+> She should pray the obligatory prayer of that time after Ghusl.
+
+---
+
+## 🎯 Practical Action
+
+**This week, commit to:**
+
+1. **Learn** the signs of purity
+2. **Know** what is prohibited and permitted
+3. **Remember** this is Allah's decree, not punishment
+4. **Continue** dhikr and supplication during this time
+
+---
+
+## 📝 Description of Ghusl from Menstruation
+
+Same as Ghusl from Janabah, with the recommendation to:
+1. Remove traces of blood well
+2. Use something with pleasant scent (musk) on the area
+
+---
+
+**And Allah knows best**
+`;
 
 ---
 

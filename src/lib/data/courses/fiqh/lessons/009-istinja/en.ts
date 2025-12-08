@@ -1,153 +1,188 @@
 /**
- * Fiqh - Lesson: Etiquettes of Relieving Oneself and Istinja
- * English Content
+ * Fiqh - Lesson 009: Etiquettes of Relieving Oneself and Istinja
+ * English Content - Standardized Format
  */
 
-export const content = `# Etiquettes of Relieving Oneself and Istinja
+export const content = `# 📜 Etiquettes of Relieving Oneself and Istinja
 
-## Introduction
-
-From the completeness and comprehensiveness of Islam is that it clarified for the Muslim the etiquettes related to relieving oneself, preserving his dignity and maintaining his purity. Salman Al-Farisi (may Allah be pleased with him) said: **"The Messenger of Allah ﷺ taught us everything, even how to relieve ourselves."** (Narrated by Muslim).
-
----
-
-## Etiquettes of Entering the Restroom
-
-### 1. Supplication Before Entering
-
-Anas (may Allah be pleased with him) said: When the Prophet ﷺ entered the restroom, he would say: **"O Allah, I seek refuge in You from the male and female devils."** (Agreed upon).
-
-- **Al-Khubuth:** Male devils.
-- **Al-Khaba'ith:** Female devils.
-
-### 2. Entering with the Left Foot First
-
-Because the left is for harmful things and the right is for good and noble matters.
-
-### 3. Not Taking Anything with Allah's Name on It
-
-It is disliked to enter with anything containing Allah's name or the Quran unless necessary (like a phone with Quran apps).
+> **"The Messenger of Allah ﷺ taught us everything, even how to relieve ourselves."**
+> — Salman Al-Farisi, Sahih Muslim
 
 ---
 
-## Prohibitions While Relieving Oneself
+## 📜 Foundational Texts
 
-### 1. Facing or Turning One's Back to the Qiblah
+### The Prophetic Tradition
 
-Abu Ayyub Al-Ansari (may Allah be pleased with him) narrated that the Messenger of Allah ﷺ said: **"When you go to relieve yourselves, do not face the Qiblah nor turn your backs to it. Instead, face east or west."** (Agreed upon).
+> Salman Al-Farisi (may Allah be pleased with him) said:
+> **"The Messenger of Allah ﷺ taught us everything, even how to relieve ourselves."**
+> — Sahih Muslim
 
-| Location | Ruling |
-| :--- | :--- |
-| Open desert | ❌ Prohibited to face or turn back to Qiblah |
-| Buildings (bathrooms) | ✅ Permissible according to the correct opinion |
-
-**Evidence for permissibility in buildings:** Ibn Umar (may Allah be pleased with them both) said: **"I climbed onto Hafsah's house and saw the Prophet ﷺ relieving himself facing Syria with his back to the Ka'bah."** (Agreed upon).
-
-### 2. Urinating in Stagnant Water
-
-Jabir (may Allah be pleased with him) narrated that the Prophet ﷺ **"forbade urinating in stagnant water."** (Narrated by Muslim).
-
-### 3. Urinating on Pathways or in Shaded Areas
-
-Abu Hurayrah (may Allah be pleased with him) narrated that the Messenger of Allah ﷺ said: **"Beware of the two cursed ones."** They said: "What are the two cursed ones, O Messenger of Allah?" He said: **"The one who relieves himself in people's pathways or in their shade."** (Narrated by Muslim).
-
-### 4. Urinating in Holes
-
-There may be animals inside that could harm him.
-
-### 5. Speaking While Relieving Oneself
-
-Ibn Umar (may Allah be pleased with them both) narrated: **"A man passed by the Prophet ﷺ while he was urinating and greeted him, but he did not respond."** (Narrated by Muslim).
-
-### 6. Urinating While Standing Without Need
-
-The default is to urinate while sitting as it is more concealing and further from being soiled by impurity. It is permissible to stand when needed or if one is safe from soiling.
+> Anas (may Allah be pleased with him) said:
+> **"When the Prophet ﷺ entered the restroom, he would say: 'O Allah, I seek refuge in You from the male and female devils.'"**
+> — Agreed upon
 
 ---
 
-## Etiquettes of Exiting the Restroom
+## 🎓 Scholars' Statements
 
-### 1. Exiting with the Right Foot First
-
-The opposite of entering, because the right is for leaving unpleasant places.
-
-### 2. Supplication After Exiting
-
-Aisha (may Allah be pleased with her) narrated that when the Prophet ﷺ exited the restroom, he would say: **"(I seek) Your forgiveness."** (Narrated by Abu Dawud and At-Tirmidhi, authenticated).
-
-It is also recommended to say: **"Praise be to Allah who has removed harm from me and granted me wellbeing."** (Narrated by Ibn Majah).
+> **Ibn Qudamah** (may Allah have mercy on him) said:
+> *"From the completeness of Islam is that it clarified for the Muslim the etiquettes related to relieving oneself."*
 
 ---
 
-## Istinja and Istijmar
+## 🔍 Linguistic Analysis
 
-### Definitions
+### Vocabulary Table
 
-| Term | Definition |
-| :--- | :--- |
-| **Istinja** | Removing what exits from the private parts with water |
-| **Istijmar** | Removing what exits from the private parts with stones or their substitutes (tissues) |
+| Term | Root | Definition |
+|------|------|------------|
+| **Istinja** | n-j-w | Cleaning private parts with water |
+| **Istijmar** | j-m-r | Cleaning private parts with stones/tissues |
+| **Khubuth** | kh-b-th | Male devils |
+| **Khaba'ith** | kh-b-th | Female devils |
 
-### Ruling on Istinja
+---
 
-**Obligatory** after urination or defecation, and Wudu is not valid without it.
+## 📚 Detailed Explanation
 
-### Conditions for Istijmar
+### 🔷 Etiquettes of Entering the Restroom
 
-1. **Using something pure:** Cannot use something impure.
-2. **Using something absorbent:** Like stones and paper, not smooth like glass.
-3. **At least three wipes:** Until cleanliness is achieved.
-4. **The impurity has not spread beyond its place:** If it spreads, water becomes obligatory.
+1. **Supplication before entering:**
+   > *"O Allah, I seek refuge in You from the male and female devils."*
 
-### Evidence for Istijmar
+2. **Enter with the left foot first** — The left is for harmful things
 
-Salman (may Allah be pleased with him) said: **"He (the Prophet ﷺ) forbade us from performing Istinja with less than three stones."** (Narrated by Muslim).
+3. **Not carrying items with Allah's name** — Unless necessary (like phones)
 
-### What Cannot Be Used for Istijmar
+### 🔷 Prohibitions While Relieving Oneself
+
+| Prohibition | Details |
+|-------------|---------|
+| **Facing/backing Qiblah** | In open areas; permitted in buildings |
+| **Urinating in stagnant water** | Contaminates the water |
+| **Urinating on pathways** | People's paths and shaded areas |
+| **Urinating in holes** | Animals may be inside |
+| **Speaking** | Do not respond to greetings |
+| **Standing without need** | Sitting is default |
+
+### 🔷 Etiquettes of Exiting
+
+1. **Exit with right foot first**
+2. **Say supplication:**
+   > *"(I seek) Your forgiveness"*
+   
+   Or: *"Praise be to Allah who has removed harm from me and granted me wellbeing."*
+
+### 🔷 Istinja and Istijmar
+
+| Method | Definition |
+|--------|------------|
+| **Istinja** | Cleaning with water |
+| **Istijmar** | Cleaning with stones/tissues |
+
+**Ruling:** Obligatory after urination or defecation.
+
+### 🔷 Conditions for Istijmar
+
+1. Using something **pure**
+2. Using something **absorbent** (not smooth like glass)
+3. At least **three wipes** until clean
+4. Impurity **hasn't spread** beyond its place
+
+### 🔷 What Cannot Be Used for Istijmar
 
 | Item | Reason |
-| :--- | :--- |
+|------|--------|
 | Bones | Food of the jinn |
-| Dung | Fodder for their animals |
+| Dung | Fodder for jinn's animals |
 | Food | Disrespecting the blessing |
-| Anything with Allah's name | Honoring Allah |
+| Items with Allah's name | Honoring Allah |
 | The right hand | For dignity |
 
-Abu Hurayrah (may Allah be pleased with him) narrated that the Messenger of Allah ﷺ said: **"When one of you performs Istijmar, let him do it an odd number of times."** (Agreed upon).
-
-Salman (may Allah be pleased with him) said: **"He forbade us from facing the Qiblah when defecating or urinating, from performing Istinja with the right hand, from performing Istinja with less than three stones, and from performing Istinja with dung or bones."** (Narrated by Muslim).
-
----
-
-## The Best Method of Cleansing
+### 🔷 Best Method of Cleansing
 
 | Method | Ruling |
-| :--- | :--- |
+|--------|--------|
 | Water only | ✅ Sufficient |
 | Stones only (with conditions) | ✅ Sufficient |
 | Stones then water | ✅ **Best** |
 
-**Evidence:** The people of Quba used to cleanse with water, so this was revealed about them: ﴿In it are men who love to purify themselves, and Allah loves those who purify themselves.﴾ [At-Tawbah: 108].
+---
+
+## ⚖️ Schools' Perspectives
+
+| Issue | 🟡 Maliki | 🟢 Hanafi | 🔵 Shafi'i | 🟣 Hanbali |
+|-------|-----------|-----------|------------|------------|
+| **Facing Qiblah in buildings** | Disliked | Permissible | Permissible | Permissible |
+| **Minimum wipes** | 3 | Until clean | 3 | 3 |
+| **Water vs. stones** | Both valid | Both valid | Both valid | Both valid |
 
 ---
 
-## Important Issues
+## 🌍 Contemporary Applications
 
-### 1. Istibra' (Ensuring Complete Emptying)
-
-It is ensuring the private part is free from remaining urine.
-
-**For men:** By shaking gently, coughing, or walking a little until certain the remainder has exited.
-
-**For women:** She does not need Istibra' due to the shortness of her urinary tract.
-
-### 2. Waswasa (Obsessive Doubts) in Purification
-
-Whoever is afflicted with waswasa should seek refuge in Allah from Satan, not pay attention to it, and build upon certainty.
-
-The Prophet ﷺ said: **"If one of you feels something in his stomach and is unsure whether something came out or not, he should not leave the mosque until he hears a sound or smells an odor."** (Narrated by Muslim).
+| Situation | Ruling |
+|-----------|--------|
+| 🚿 **Bidet** | Valid for Istinja |
+| 🧻 **Toilet paper** | Valid for Istijmar |
+| 🧴 **Wet wipes** | Valid for cleansing |
+| 📱 **Phone with Quran** | Prefer not to bring in |
+| 🚻 **Modern toilets facing Qiblah** | Permissible in buildings |
 
 ---
+
+## ⚠️ Common Mistakes
+
+| ❌ Mistake | ✅ Correction |
+|-----------|--------------|
+| Using right hand for Istinja | Use left hand only |
+| Not using at least 3 wipes | Minimum is 3 |
+| Not saying du'a before entering | Seek refuge from devils |
+| Responding to greetings inside | Remain silent |
+
+---
+
+## ❓ Frequently Asked Questions
+
+**Q1: Can I use only toilet paper?**
+> ✅ Yes, if conditions are met (3 wipes, pure, absorbent).
+
+**Q2: Is it haram to face Qiblah in modern bathrooms?**
+> No, it's permissible in buildings according to the stronger opinion.
+
+**Q3: What if I forget the du'a?**
+> Say it as soon as you remember, even inside.
+
+**Q4: Can I bring my phone (with Quran apps) into the bathroom?**
+> Permissible if needed, but better to avoid.
+
+---
+
+## 🎯 Practical Action
+
+**This week, commit to:**
+
+1. **Memorize** the du'a for entering and exiting
+2. **Always** use left hand for cleaning
+3. **Ensure** proper cleansing before Wudu
+4. **Avoid** excessive worry (waswasa)
+
+---
+
+## 📝 Important Note: Waswasa
+
+Whoever is afflicted with obsessive doubts (waswasa) should:
+- Seek refuge in Allah from Satan
+- Not pay attention to doubts
+- Build upon certainty
+
+> The Prophet ﷺ said: **"If one of you feels something and is unsure whether something came out, he should not leave until he hears a sound or smells an odor."**
+
+---
+
+**And Allah knows best**
+`;
 
 ## Summary of Etiquettes
 

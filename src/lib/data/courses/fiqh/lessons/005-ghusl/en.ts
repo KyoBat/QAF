@@ -1,104 +1,174 @@
-export const content = `
-# Al-Ghusl (Major Ablution)
+/**
+ * Fiqh - Lesson 005: Ritual Bath (Ghusl)
+ * English Content - Standardized Format
+ */
 
-## 1. Definition of Ghusl
+export const content = `# 📜 Ritual Bath (Ghusl) — Major Purification
 
-**Linguistically:** It means washing the entire body with water.
-**Islamically (Shari'ah):** It is the washing of the entire body with pure water, with a specific intention (Niyyah) to remove major ritual impurity (Hadath Akbar).
-
-Allah (SWT) says:
-> "And if you are in a state of janabah, then purify yourselves."
-> (Surah Al-Ma'idah, 5:6)
+> *"Purification is the key to prayer, and Ghusl removes major ritual impurity, opening the doors of worship."*
 
 ---
 
-## 2. When is Ghusl Obligatory? (Causes of Ghusl)
+## 📜 Foundational Texts
 
-Ghusl becomes obligatory (Wajib) in the following situations:
+### The Quran
 
-1.  **Janabah (Major Ritual Impurity):**
-    *   **Emission of Maniy (semen):** With pleasure, whether awake or asleep (wet dream).
-        *   *Hadith:* The Prophet ﷺ said: "Water (Ghusl) is only from water (semen)." (Muslim)
-    *   **Sexual Intercourse:** Mere penetration requires Ghusl, even if no emission occurs.
-        *   *Hadith:* The Prophet ﷺ said: "If he sits between her four parts and strives (has intercourse), then Ghusl is obligatory." (Bukhari & Muslim)
+> **﴿ And if you are in a state of janabah, then purify yourselves ﴾**
+> — Al-Ma'idah: 6
 
-2.  **End of Menstruation (Hayd) and Postpartum Bleeding (Nifas):**
-    *   A woman must perform Ghusl once the bleeding stops to resume prayer and fasting.
-    *   *Hadith:* The Prophet ﷺ said to Fatimah bint Abi Hubaysh: "When the menstruation comes, leave the prayer, and when it goes, wash the blood from yourself and pray." (Bukhari)
+> **﴿ They ask you about menstruation. Say, "It is harm, so keep away from women during menstruation. And do not approach them until they are pure" ﴾**
+> — Al-Baqarah: 222
 
-3.  **Death:**
-    *   When a Muslim dies, it is obligatory for the community to wash the body (except for a martyr who dies in battle).
+### The Prophetic Tradition
 
-4.  **Entering Islam:**
-    *   It is obligatory (or highly recommended according to some) for a new convert to perform Ghusl.
-    *   *Hadith:* The Prophet ﷺ ordered Qais bin Asim to perform Ghusl with water and Sidr (lote tree leaves) when he accepted Islam.
+> The Prophet ﷺ said:
+> **"Water (Ghusl) is only from water (semen)."**
+> — Sahih Muslim
 
----
-
-## 3. Pillars (Faraid) of Ghusl
-
-For the Ghusl to be valid, two main conditions must be met:
-
-1.  **Intention (Niyyah):** To intend purification from major impurity. The place of intention is the heart.
-2.  **Generalizing Water over the Entire Body:** Water must reach every part of the body, including the scalp, hair roots, and hidden areas.
-    *   *Note:* Many scholars (like Hanafis and Hanbalis) consider rinsing the mouth (Madmadah) and nose (Istinshaq) as obligatory parts of Ghusl.
+> The Prophet ﷺ said:
+> **"If he sits between her four parts and strives (has intercourse), then Ghusl is obligatory."**
+> — Agreed upon
 
 ---
 
-## 4. Sunan of Ghusl (Recommended Acts)
+## 🎓 Scholars' Statements
 
-1.  Saying "Bismillah" (In the name of Allah).
-2.  Washing the hands three times at the beginning.
-3.  Washing the private parts and removing any impurity.
-4.  Performing Wudu (ablution) completely before washing the body.
-5.  Pouring water over the head three times, ensuring it reaches the roots.
-6.  Starting with the right side of the body, then the left.
-7.  Rubbing the body (Dalk) to ensure water reaches everywhere.
-8.  Continuity (Muwalat) - washing parts in succession.
+> **Aisha** (may Allah be pleased with her) described the Prophet's Ghusl:
+> *"He would begin by washing his hands, then pour water over his private part with his left hand, then perform Wudu like for prayer, then take water and run his fingers through his hair to the roots, then pour three handfuls over his head, then pour water over his entire body."*
+> — Agreed upon
 
 ---
 
-## 5. Description of the Prophet's ﷺ Ghusl (Complete Method)
+## 🔍 Linguistic Analysis
 
-Based on the Hadith of Aisha (RA) and Maimunah (RA), the complete method is:
+### Vocabulary Table
 
-1.  **Intention:** Intend to remove the major impurity.
-2.  **Bismillah:** Say "Bismillah".
-3.  **Wash Hands:** Wash hands three times.
-4.  **Wash Private Parts:** Wash the private parts with the left hand to remove any filth.
-5.  **Perform Wudu:** Perform a complete Wudu (like for prayer). You may delay washing the feet until the end if the floor is muddy.
-6.  **Wash Head:** Pour water over the head three times, rubbing the hair to ensure water reaches the roots.
-7.  **Wash Body:** Pour water over the rest of the body, starting with the **right side**, then the **left side**. Ensure water reaches armpits, ears, navel, and between toes.
-8.  **Wash Feet:** If not done during Wudu, wash the feet now.
-
-![Diagram showing the steps of Ghusl](/images/fiqh/ghusl-steps.jpg)
+| Term | Root | Definition |
+|------|------|------------|
+| **Ghusl** | gh-s-l | Washing the entire body with water |
+| **Janabah** | j-n-b | Major ritual impurity from intercourse or emission |
+| **Hayd** | h-y-d | Menstruation |
+| **Nifas** | n-f-s | Postpartum bleeding |
 
 ---
 
-## 6. Types of Ghusl: Sufficient vs. Complete
+## 📚 Detailed Explanation
 
-There are two acceptable ways to perform Ghusl:
+### 🔷 Definition of Ghusl
 
-### A. Sufficient Ghusl (Mujzi')
-This fulfills the obligation and makes a person pure, but misses the rewards of the Sunnah acts.
-*   **Method:** Intention + Washing the entire body (including mouth and nose).
-*   **Example:** Plunging into a pool or standing under a shower with the intention of Ghusl, ensuring water touches every part of the body.
+**Linguistically:** Washing the entire body with water.
 
-### B. Complete Ghusl (Kamil)
-This follows the Sunnah of the Prophet ﷺ exactly as described above.
-*   **Method:** Intention + Washing hands + Private parts + Wudu + Washing head + Washing entire body (Right then Left).
+**Legally (Shari'ah):** Washing the entire body with pure water, with intention (Niyyah) to remove major ritual impurity (Hadath Akbar).
 
-**Note:** Both methods are valid for purification, but the Complete Ghusl is more rewarding.
+### 🔷 When is Ghusl Obligatory?
+
+| Cause | Details |
+|-------|---------|
+| **Emission of Semen** | With pleasure, awake or asleep (wet dream) |
+| **Sexual Intercourse** | Mere penetration requires Ghusl, even without emission |
+| **End of Menstruation** | After seeing sign of purity |
+| **End of Postpartum Bleeding** | When bleeding stops or after 40 days |
+| **Death** | Obligatory to wash the deceased Muslim |
+| **Entering Islam** | Obligatory or highly recommended for new converts |
+
+### 🔷 Pillars (Obligatory Acts) of Ghusl
+
+1. **Intention (Niyyah):** To intend purification from major impurity
+2. **Generalizing Water:** Water must reach every part of the body, including scalp and hidden areas
+
+> **Note:** Many scholars consider rinsing the mouth (Madmadah) and nose (Istinshaq) obligatory in Ghusl.
+
+### 🔷 Recommended Acts (Sunan) of Ghusl
+
+1. Saying "Bismillah"
+2. Washing hands three times at the beginning
+3. Washing private parts and removing impurity
+4. Performing complete Wudu before washing the body
+5. Pouring water over the head three times
+6. Starting with the right side, then the left
+7. Rubbing the body (Dalk) to ensure water reaches everywhere
+
+### 🔷 Description of the Prophet's Ghusl
+
+1. **Intention:** Intend to remove major impurity
+2. **Bismillah:** Say "In the name of Allah"
+3. **Wash Hands:** Three times
+4. **Wash Private Parts:** Remove any impurity
+5. **Perform Wudu:** Complete ablution (may delay feet)
+6. **Wash Head:** Three times, reaching the roots
+7. **Wash Body:** Right side first, then left
+8. **Wash Feet:** If not done during Wudu
+
+### 🔷 Types of Ghusl
+
+| Type | Description | Validity |
+|------|-------------|----------|
+| **Sufficient (Mujzi')** | Intention + washing entire body | ✅ Valid |
+| **Complete (Kamil)** | Following Prophet's method exactly | ✅ Valid & Rewarded |
 
 ---
 
-## Summary Table
+## ⚖️ Schools' Perspectives
 
-| Feature | Sufficient Ghusl | Complete Ghusl |
-| :--- | :--- | :--- |
-| **Intention** | Required | Required |
-| **Washing Entire Body** | Required | Required |
-| **Wudu beforehand** | Not required | Sunnah |
-| **Order (Tartib)** | Not required | Sunnah |
-| **Validity** | Valid | Valid & Rewarded |
+| Issue | 🟡 Maliki | 🟢 Hanafi | 🔵 Shafi'i | 🟣 Hanbali |
+|-------|-----------|-----------|------------|------------|
+| **Mouth/nose rinsing** | Sunnah | Obligatory | Sunnah | Obligatory |
+| **Rubbing the body** | Obligatory | Sunnah | Sunnah | Sunnah |
+| **Intention** | Obligatory | Obligatory | Obligatory | Obligatory |
+
+---
+
+## 🌍 Contemporary Applications
+
+| Situation | Ruling |
+|-----------|--------|
+| 🚿 **Shower for Ghusl** | Valid if water reaches entire body |
+| 🏊 **Swimming pool** | Valid if intention is made |
+| 💇 **Braided hair** | Must ensure water reaches roots |
+| 🦻 **Piercings/jewelry** | Must ensure water reaches skin |
+
+---
+
+## ⚠️ Common Mistakes
+
+| ❌ Mistake | ✅ Correction |
+|-----------|--------------|
+| Not making intention | Intention is obligatory |
+| Not reaching hair roots | Water must reach roots |
+| Forgetting hidden areas | Must wash armpits, navel, between toes |
+| Thinking only intercourse requires Ghusl | Emission of semen also requires it |
+
+---
+
+## ❓ Frequently Asked Questions
+
+**Q1: Is Wudu required after Ghusl?**
+> If Ghusl is performed correctly with intention, it replaces Wudu. No separate Wudu needed.
+
+**Q2: Can I pray multiple prayers with one Ghusl?**
+> Yes, as long as you don't break your purity.
+
+**Q3: Is it required to wash hair for every Ghusl?**
+> Yes, water must reach the roots of the hair.
+
+---
+
+## 🎯 Practical Action
+
+**This week, commit to:**
+
+1. **Learn** the complete method of Ghusl
+2. **Ensure** water reaches all body parts
+3. **Start** with Wudu before washing the body
+4. **Remember** the intention before starting
+
+---
+
+## 📝 Closing Reminder
+
+> *The Prophet ﷺ said: "Purification is half of faith."* — Sahih Muslim
+
+---
+
+**And Allah knows best**
 `;

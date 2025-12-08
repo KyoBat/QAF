@@ -1,11 +1,59 @@
-export const content = `
-# Najassa (Impurities) and its Rulings
+/**
+ * Fiqh - Lesson 003: Impurities (Najassa)
+ * English Content - Standardized Format
+ */
 
-## 1. Definition of Najassa
+export const content = `# 📜 Impurities (Najassa) and Their Rulings
+
+> *"Indeed, Allah loves those who are constantly repentant and loves those who purify themselves."* — Al-Baqarah: 222
+
+---
+
+## 📜 Foundational Texts
+
+### The Quran
+
+> **﴿ Say, "I do not find within that which was revealed to me [anything] forbidden to one who would eat it unless it be a dead animal or spilled blood or the flesh of swine - for indeed, it is impure (rijs)" ﴾**
+> — Al-An'am: 145
+
+### The Prophetic Tradition
+
+> The Prophet ﷺ said regarding a Bedouin who urinated in the mosque:
+> **"Pour a bucket of water over his urine."**
+> — Sahih Al-Bukhari
+
+---
+
+## 🎓 Scholars' Statements
+
+> **Ibn Qudamah** (may Allah have mercy on him) said:
+> *"Impurity (Najassa) is that which one is obligated to avoid and purify oneself from for prayer."*
+> — *Al-Mughni*
+
+---
+
+## 🔍 Linguistic Analysis
+
+### Vocabulary Table
+
+| Term | Root | Definition |
+|------|------|------------|
+| **Najassa** | n-j-s | Filth or dirtiness; opposite of purity |
+| **Tahara** | t-h-r | Cleanliness and freedom from impurity |
+| **Khabath** | kh-b-th | Physical impurity that must be removed |
+
+---
+
+## 📚 Detailed Explanation
+
+### 🔷 Definition of Najassa
+
 **Linguistically:** It means filth or dirtiness; its opposite is cleanliness and purity.
-**Legally (in Sharia):** It is a specific filth that prevents the validity of prayer and other acts of worship where purity is a condition.
 
-## 2. Types of Impurities
+**Legally (Shari'ah):** It is a specific filth that prevents the validity of prayer and other acts of worship where purity is a condition.
+
+### 🔷 Types of Impurities
+
 Among the most important impure substances that a Muslim must know are:
 
 ### A. Urine and Feces of Humans
@@ -38,28 +86,87 @@ This refers to what has died naturally without lawful slaughter (except for fish
 
 ![Illustration of types of impurities](/images/courses/fiqh/najassa-types.jpg)
 
-## 3. Categories of Impurity (Physical and Ritual)
+### 🔷 Categories of Impurity
 
-### Physical Impurity (Ayni / Hissiyya)
-This is an impurity that has a physical substance or essence, such as feces or blood. This cannot be purified in itself (e.g., you cannot turn feces into something pure by washing it); rather, it must be removed.
+#### Physical Impurity (Ayni / Hissiyya)
+This is an impurity that has a physical substance or essence, such as feces or blood. This cannot be purified in itself; rather, it must be removed.
 
-### Ritual Impurity (Hukmi)
+#### Ritual Impurity (Hukmi)
 This is a legal status preventing the validity of prayer, occurring when impurity falls onto a pure place (like a garment affected by urine). This becomes pure by removing the essence and trace of the impurity.
 
-## 4. How to Purify Impurities
+### 🔷 How to Purify Impurities
 
 The general rule for purification is to use **pure water** (Mutlaq), which removes the essence, color, and smell of the impurity.
 
-1.  **If the impurity is on the ground:** It is sufficient to pour water over it until it covers it and the essence of the impurity is gone (as in the Hadith of the Bedouin).
-2.  **If it is on clothing or the body:** It must be washed with water until the essence of the impurity is removed. If a color or smell remains that is difficult to remove, it is excused.
-3.  **Major Impurity (Dog):** It must be washed seven times, one of them with soil.
-4.  **Transformation (Istihala):** Some scholars hold that if an impurity completely transforms into a different substance (like wine turning into vinegar by itself), it becomes pure.
-
-## 5. Examples and Applications
-
--   **Example 1:** If drops of urine fall on your clothes, you only need to wash the specific area affected by the urine, not the entire garment.
--   **Example 2:** If you walk with clean shoes on dry, impure ground, your shoes do not become impure because dry impurity does not transfer. However, if the ground is wet, the shoes may become impure and must be washed or wiped well with soil.
+| Situation | Method |
+|-----------|--------|
+| **Impurity on ground** | Pour water until the essence is gone |
+| **Impurity on clothes/body** | Wash until essence is removed |
+| **Dog licked vessel** | Wash seven times, first with soil |
 
 ---
-*Always remember that Islam is a religion of cleanliness and purity. Striving for purity is one of the reasons for gaining the love of Allah: ﴿Indeed, Allah loves those who are constantly repentant and loves those who purify themselves.﴾*
+
+## ⚖️ Schools' Perspectives
+
+| Issue | 🟡 Maliki | 🟢 Hanafi | 🔵 Shafi'i | 🟣 Hanbali |
+|-------|-----------|-----------|------------|------------|
+| **Dog saliva** | Major impurity | Major impurity | Major impurity | Major impurity |
+| **Amount for dog purification** | 7 washes + soil | Disputed | 7 washes + soil | 7 washes + soil |
+| **Small blood amount** | Excused | Excused | Not excused | Excused |
+
+---
+
+## 🌍 Contemporary Applications
+
+| Situation | Ruling |
+|-----------|--------|
+| 🧴 **Alcohol-based sanitizers** | Pure according to many scholars, impure according to others |
+| 🐕 **Guide dogs touching** | Dry contact does not transfer impurity |
+| 🥩 **Gelatin from animals** | If transformation is complete, some scholars consider it pure |
+| 💉 **Blood tests** | Small amounts are excused |
+
+---
+
+## ⚠️ Common Mistakes
+
+| ❌ Mistake | ✅ Correction |
+|-----------|--------------|
+| Thinking small blood invalidates prayer | Small amounts are excused |
+| Not washing dog contact with soil | Must use soil/earth with first wash |
+| Thinking all dead animals are impure | Fish and locusts are exceptions |
+| Excessive worry about impurity | Build upon certainty, ignore doubts |
+
+---
+
+## ❓ Frequently Asked Questions
+
+**Q1: Is all blood impure?**
+> Small amounts are excused. Only "spilled blood" (large flowing amounts) is impure.
+
+**Q2: What about baby urine?**
+> Boy's urine (before eating food): sprinkle water. Girl's urine: must be washed.
+
+**Q3: Is sweat impure?**
+> No, human sweat is pure even if a person is in a state of major impurity.
+
+---
+
+## 🎯 Practical Action
+
+**This week, commit to:**
+
+1. **Learn** the types of impurities
+2. **Know** how to purify each type
+3. **Avoid** excessive doubt (waswasa)
+4. **Remember** that Islam is a religion of ease
+
+---
+
+## 📝 Closing Reminder
+
+> *Always remember that Islam is a religion of cleanliness and purity. Striving for purity is one of the reasons for gaining the love of Allah: "Indeed, Allah loves those who are constantly repentant and loves those who purify themselves."*
+
+---
+
+**And Allah knows best**
 `;
