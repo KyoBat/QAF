@@ -112,22 +112,25 @@ Ce qu'il lut était le début de **Sourate Ṭā-Hā** :
 
 ### La Transformation
 
-'Umar dit alors :
+<div class="scene-box">
 
-> **« كَلَامٌ حَسَنٌ وَكَرِيمٌ! دُلُّونِي عَلَى مُحَمَّدٍ »**
-> "Quelle belle et noble parole ! Menez-moi à Muḥammad."
+**🎭 À Dār al-Arqam — La Conversion de 'Umar**
 
-Il alla à Dār al-Arqam où le Prophète ﷺ enseignait en secret. Quand il frappa à la porte, les Compagnons eurent peur. Mais Ḥamza dit : « Laissez-le entrer. »
+*'Umar, le cœur transformé par les versets, dit :*
 
-Le Prophète ﷺ le saisit par le col :
+**🟢 'Umar :** « **كَلَامٌ حَسَنٌ وَكَرِيمٌ! دُلُّونِي عَلَى مُحَمَّدٍ** — Quelle belle et noble parole ! Menez-moi à Muḥammad. »
 
-— *« Qu'est-ce qui t'amène, fils d'al-Khaṭṭāb ? »*
+*Il alla à Dār al-Arqam où le Prophète ﷺ enseignait en secret. Quand il frappa à la porte, les Compagnons eurent peur. Mais Ḥamza dit : « Laissez-le entrer. »*
 
-'Umar répondit :
+*Le Prophète ﷺ le saisit par le col :*
 
-— **« أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللهُ وَأَنَّكَ رَسُولُ اللهِ »**
+**Le Prophète ﷺ :** « Qu'est-ce qui t'amène, fils d'al-Khaṭṭāb ? »
 
-Les musulmans crièrent **« Allāhu Akbar »** si fort que La Mecque entendit.
+**🟢 'Umar :** « **أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللهُ وَأَنَّكَ رَسُولُ اللهِ** »
+
+*Les musulmans crièrent **« Allāhu Akbar »** si fort que La Mecque entendit.*
+
+</div>
 
 ---
 

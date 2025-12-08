@@ -241,17 +241,21 @@ Le Prophète ﷺ lui répondait :
 
 ### Sur 'Ā'isha
 
-Quand on demanda au Prophète ﷺ :
+<div class="scene-box">
 
-— *« Qui aimes-tu le plus parmi les gens ? »*
+**💕 L'Amour du Prophète ﷺ**
 
-Il répondit :
+*Quand on demanda au Prophète ﷺ :*
 
-— **« عَائِشَةُ »** — "'Ā'isha."
+**Quelqu'un :** « Qui aimes-tu le plus parmi les gens ? »
 
-— *« Et parmi les hommes ? »*
+**Le Prophète ﷺ :** « **عَائِشَةُ** — 'Ā'isha. »
 
-— **« أَبُوهَا »** — "Son père."
+**Quelqu'un :** « Et parmi les hommes ? »
+
+**Le Prophète ﷺ :** « **أَبُوهَا** — Son père. »
+
+</div>
 
 ---
 

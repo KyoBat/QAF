@@ -161,41 +161,49 @@ Et Allah immortalisa ce moment :
 
 ### 3. Le Don Total
 
-Lors de la préparation de l'expédition de Tabūk, le Prophète ﷺ demanda des contributions.
+<div class="scene-box">
 
-'Umar ibn al-Khaṭṭāb apporta **la moitié** de ses biens, pensant surpasser Abū Bakr pour une fois.
+**💰 Préparation de l'Expédition de Tabūk**
 
-Puis Abū Bakr arriva avec... **tout ce qu'il possédait**.
+*Le Prophète ﷺ demanda des contributions pour l'armée. 'Umar ibn al-Khaṭṭāb apporta **la moitié** de ses biens, pensant surpasser Abū Bakr pour une fois.*
 
-Le Prophète ﷺ demanda :
-— *« Qu'as-tu laissé à ta famille ? »*
+*Puis Abū Bakr arriva avec... **tout ce qu'il possédait**.*
 
-Abū Bakr répondit :
-— **« Je leur ai laissé Allah et Son Messager. »**
+**Le Prophète ﷺ :** « Qu'as-tu laissé à ta famille ? »
 
-'Umar dit alors :
-> « Je ne pourrai jamais le dépasser en quoi que ce soit. »
+**🟢 Abū Bakr :** « **Je leur ai laissé Allah et Son Messager.** »
+
+*'Umar baissa la tête et dit :*
+
+**🟢 'Umar :** « Je ne pourrai jamais le dépasser en quoi que ce soit. »
+
+</div>
 
 ---
 
 ### 4. Le Premier Calife
 
-À la mort du Prophète ﷺ, la communauté était en état de choc. Certains refusaient de croire.
+<div class="scene-box">
 
-'Umar lui-même, l'épée à la main, menaçait quiconque dirait que le Prophète ﷺ était mort.
+**💔 Après la Mort du Prophète ﷺ — 12 Rabī' al-Awwal 11 H**
 
-C'est Abū Bakr qui calma la tempête avec ces mots immortels :
+*La communauté était en état de choc. Certains refusaient de croire. 'Umar lui-même, l'épée à la main, menaçait quiconque dirait que le Prophète ﷺ était mort.*
 
-> **« مَنْ كَانَ يَعْبُدُ مُحَمَّدًا فَإِنَّ مُحَمَّدًا قَدْ مَاتَ، وَمَنْ كَانَ يَعْبُدُ اللهَ فَإِنَّ اللهَ حَيٌّ لَا يَمُوتُ »**
-> "Celui qui adorait Muḥammad, que celui-là sache que Muḥammad est mort. Et celui qui adorait Allah, qu'il sache qu'Allah est Vivant et ne meurt jamais."
+*C'est Abū Bakr qui calma la tempête avec ces mots immortels :*
 
-Puis il récita :
+**🟢 Abū Bakr :** « **مَنْ كَانَ يَعْبُدُ مُحَمَّدًا فَإِنَّ مُحَمَّدًا قَدْ مَاتَ، وَمَنْ كَانَ يَعْبُدُ اللهَ فَإِنَّ اللهَ حَيٌّ لَا يَمُوتُ** — Celui qui adorait Muḥammad, que celui-là sache que Muḥammad est mort. Et celui qui adorait Allah, qu'il sache qu'Allah est Vivant et ne meurt jamais. »
 
-> **﴿ وَمَا مُحَمَّدٌ إِلَّا رَسُولٌ قَدْ خَلَتْ مِن قَبْلِهِ الرُّسُلُ ﴾**
-> "Muḥammad n'est qu'un messager. Des messagers sont passés avant lui."
-> — **[Sourate Āl 'Imrān : 144]**
+*Puis il récita :*
 
-'Umar dit : *« C'est comme si je n'avais jamais entendu ce verset avant. »* Ses jambes ne le portaient plus.
+**🟢 Abū Bakr :** « ﴿ وَمَا مُحَمَّدٌ إِلَّا رَسُولٌ قَدْ خَلَتْ مِن قَبْلِهِ الرُّسُلُ ﴾ »
+
+*'Umar s'effondra :*
+
+**🟢 'Umar :** « C'est comme si je n'avais jamais entendu ce verset avant... »
+
+*Ses jambes ne le portaient plus.*
+
+</div>
 
 ---
 

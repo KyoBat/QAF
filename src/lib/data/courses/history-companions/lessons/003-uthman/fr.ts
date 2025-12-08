@@ -234,17 +234,19 @@ Il mourut à **82 ans**, en jeûnant, en lisant le Coran.
 
 ### La Pudeur Exceptionnelle
 
-Un jour, le Prophète ﷺ était allongé chez lui, les jambes découvertes. Abū Bakr entra, puis 'Umar. Le Prophète ﷺ ne changea pas de position.
+<div class="scene-box">
 
-Puis 'Uthmān demanda à entrer. Aussitôt, le Prophète ﷺ **couvrit ses jambes**.
+**🎭 Chez le Prophète ﷺ**
 
-'Ā'isha demanda :
+*Un jour, le Prophète ﷺ était allongé chez lui, les jambes découvertes. Abū Bakr entra, puis 'Umar. Le Prophète ﷺ ne changea pas de position.*
 
-— *« Ô Messager d'Allah, pourquoi as-tu fait cela pour 'Uthmān et pas pour les autres ? »*
+*Puis 'Uthmān demanda à entrer. Aussitôt, le Prophète ﷺ **couvrit ses jambes**.*
 
-Il répondit :
+**'Ā'isha :** « Ô Messager d'Allah, pourquoi as-tu fait cela pour 'Uthmān et pas pour les autres ? »
 
-> **« أَلَا أَسْتَحِي مِنْ رَجُلٍ تَسْتَحِي مِنْهُ الْمَلَائِكَةُ »**
+**Le Prophète ﷺ :** « **أَلَا أَسْتَحِي مِنْ رَجُلٍ تَسْتَحِي مِنْهُ الْمَلَائِكَةُ** — Ne devrais-je pas avoir pudeur devant un homme devant qui les anges ont pudeur ? »
+
+</div>
 
 ### Le Prophète ﷺ Annonce son Martyre
 

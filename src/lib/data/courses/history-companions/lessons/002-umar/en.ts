@@ -112,22 +112,25 @@ What he read was the beginning of **Sūrah Ṭā-Hā**:
 
 ### The Transformation
 
-'Umar then said:
+<div class="scene-box">
 
-> **"كَلَامٌ حَسَنٌ وَكَرِيمٌ! دُلُّونِي عَلَى مُحَمَّدٍ"**
-> "What beautiful and noble speech! Take me to Muḥammad."
+**🎭 At Dār al-Arqam — 'Umar's Conversion**
 
-He went to Dār al-Arqam where the Prophet ﷺ was teaching in secret. When he knocked at the door, the Companions were afraid. But Ḥamza said: "Let him enter."
+*'Umar, his heart transformed by the verses, said:*
 
-The Prophet ﷺ seized him by the collar:
+**🟢 'Umar:** "**كَلَامٌ حَسَنٌ وَكَرِيمٌ! دُلُّونِي عَلَى مُحَمَّدٍ** — What beautiful and noble speech! Take me to Muḥammad."
 
-— *"What brings you here, son of al-Khaṭṭāb?"*
+*He went to Dār al-Arqam where the Prophet ﷺ was teaching in secret. When he knocked at the door, the Companions were afraid. But Ḥamza said: "Let him enter."*
 
-'Umar replied:
+*The Prophet ﷺ seized him by the collar:*
 
-— **"أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللهُ وَأَنَّكَ رَسُولُ اللهِ"**
+**The Prophet ﷺ:** "What brings you here, son of al-Khaṭṭāb?"
 
-The Muslims cried **"Allāhu Akbar"** so loudly that Mecca heard.
+**🟢 'Umar:** "**أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللهُ وَأَنَّكَ رَسُولُ اللهِ**"
+
+*The Muslims cried **"Allāhu Akbar"** so loudly that Mecca heard.*
+
+</div>
 
 ---
 

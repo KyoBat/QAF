@@ -161,41 +161,49 @@ And Allah immortalized this moment:
 
 ### 3. The Complete Gift
 
-During the preparation for the expedition of Tabūk, the Prophet ﷺ asked for contributions.
+<div class="scene-box">
 
-'Umar ibn al-Khaṭṭāb brought **half** of his wealth, thinking he would surpass Abū Bakr for once.
+**💰 Preparation for the Expedition of Tabūk**
 
-Then Abū Bakr arrived with... **everything he owned**.
+*The Prophet ﷺ asked for contributions for the army. 'Umar ibn al-Khaṭṭāb brought **half** of his wealth, thinking he would surpass Abū Bakr for once.*
 
-The Prophet ﷺ asked:
-— *"What have you left for your family?"*
+*Then Abū Bakr arrived with... **everything he owned**.*
 
-Abū Bakr replied:
-— **"I have left them Allah and His Messenger."**
+**The Prophet ﷺ:** "What have you left for your family?"
 
-'Umar said then:
-> "I will never be able to surpass him in anything."
+**🟢 Abū Bakr:** "**I have left them Allah and His Messenger.**"
+
+*'Umar bowed his head and said:*
+
+**🟢 'Umar:** "I will never be able to surpass him in anything."
+
+</div>
 
 ---
 
 ### 4. The First Caliph
 
-At the death of the Prophet ﷺ, the community was in shock. Some refused to believe.
+<div class="scene-box">
 
-'Umar himself, sword in hand, threatened anyone who would say the Prophet ﷺ had died.
+**💔 After the Death of the Prophet ﷺ — 12 Rabī' al-Awwal 11 AH**
 
-It was Abū Bakr who calmed the storm with these immortal words:
+*The community was in shock. Some refused to believe. 'Umar himself, sword in hand, threatened anyone who would say the Prophet ﷺ had died.*
 
-> **"مَنْ كَانَ يَعْبُدُ مُحَمَّدًا فَإِنَّ مُحَمَّدًا قَدْ مَاتَ، وَمَنْ كَانَ يَعْبُدُ اللهَ فَإِنَّ اللهَ حَيٌّ لَا يَمُوتُ"**
-> "Whoever worshipped Muḥammad, let him know that Muḥammad has died. And whoever worshipped Allah, let him know that Allah is Ever-Living and never dies."
+*It was Abū Bakr who calmed the storm with these immortal words:*
 
-Then he recited:
+**🟢 Abū Bakr:** "**مَنْ كَانَ يَعْبُدُ مُحَمَّدًا فَإِنَّ مُحَمَّدًا قَدْ مَاتَ، وَمَنْ كَانَ يَعْبُدُ اللهَ فَإِنَّ اللهَ حَيٌّ لَا يَمُوتُ** — Whoever worshipped Muḥammad, let him know that Muḥammad has died. And whoever worshipped Allah, let him know that Allah is Ever-Living and never dies."
 
-> **﴾ وَمَا مُحَمَّدٌ إِلَّا رَسُولٌ قَدْ خَلَتْ مِن قَبْلِهِ الرُّسُلُ ﴿**
-> "Muḥammad is not but a messenger. Messengers have passed before him."
-> — **[Sūrah Āl 'Imrān: 144]**
+*Then he recited:*
 
-'Umar said: *"It was as if I had never heard that verse before."* His legs could no longer support him.
+**🟢 Abū Bakr:** "﴿ وَمَا مُحَمَّدٌ إِلَّا رَسُولٌ قَدْ خَلَتْ مِن قَبْلِهِ الرُّسُلُ ﴾"
+
+*'Umar collapsed:*
+
+**🟢 'Umar:** "It was as if I had never heard that verse before..."
+
+*His legs could no longer support him.*
+
+</div>
 
 ---
 

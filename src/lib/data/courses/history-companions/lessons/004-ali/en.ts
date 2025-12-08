@@ -116,21 +116,27 @@ Allah revealed:
 
 But it was at **Khaybar** that his legend reached its peak.
 
-The Prophet ﷺ had besieged the fortress for days. At night, he announced:
+<div class="scene-box">
 
-> **"لَأُعْطِيَنَّ الرَّايَةَ غَدًا رَجُلًا يُحِبُّ اللهَ وَرَسُولَهُ وَيُحِبُّهُ اللهُ وَرَسُولُهُ"**
-> "Tomorrow, I will give the banner to a man who loves Allah and His Messenger, and whom Allah and His Messenger love."
+**⚔️ The Battle of Khaybar**
 
-Every Companion hoped to be that man. In the morning, the Prophet ﷺ called:
+*The Prophet ﷺ had besieged the fortress for days. At night, he announced:*
 
-— **"Where is 'Alī?"**
-— *"He is suffering from his eyes, O Messenger of Allah."*
+**The Prophet ﷺ:** "**لَأُعْطِيَنَّ الرَّايَةَ غَدًا رَجُلًا يُحِبُّ اللهَ وَرَسُولَهُ وَيُحِبُّهُ اللهُ وَرَسُولُهُ** — Tomorrow, I will give the banner to a man who loves Allah and His Messenger, and whom Allah and His Messenger love."
 
-'Alī was brought, his eyes painful. The Prophet ﷺ **spat** in his eyes — and they were instantly healed.
+*Every Companion hoped to be that man. In the morning, the Prophet ﷺ called:*
 
-Then 'Alī marched toward the fortress. He **tore** the gate from its hinges — a gate that several men could not move — and used it as a shield.
+**The Prophet ﷺ:** "Where is 'Alī?"
 
-The fortress fell.
+**The Companions:** "He is suffering from his eyes, O Messenger of Allah."
+
+*'Alī was brought, his eyes painful. The Prophet ﷺ **spat** in his eyes — and they were instantly healed.*
+
+*Then 'Alī marched toward the fortress. He **tore** the gate from its hinges — a gate that several men could not move — and used it as a shield.*
+
+*The fortress fell.*
+
+</div>
 
 ---
 
@@ -223,16 +229,17 @@ His last instructions:
 
 ### The Hadith of Manzila
 
-During the expedition of Tabūk, the Prophet ﷺ left 'Alī in Medina to manage affairs.
+<div class="scene-box">
 
-'Alī said:
+**🎭 Before the Expedition of Tabūk**
 
-— *"Are you leaving me behind with the women and children?"*
+*During the expedition of Tabūk, the Prophet ﷺ left 'Alī in Medina to manage affairs.*
 
-The Prophet ﷺ replied:
+**🟣 'Alī:** "Are you leaving me behind with the women and children?"
 
-> **"أَمَا تَرْضَى أَنْ تَكُونَ مِنِّي بِمَنْزِلَةِ هَارُونَ مِنْ مُوسَى، إِلَّا أَنَّهُ لَا نَبِيَّ بَعْدِي"**
-> "Are you not satisfied to be to me as Hārūn was to Mūsā, except that there is no prophet after me?"
+**The Prophet ﷺ:** "**أَمَا تَرْضَى أَنْ تَكُونَ مِنِّي بِمَنْزِلَةِ هَارُونَ مِنْ مُوسَى، إِلَّا أَنَّهُ لَا نَبِيَّ بَعْدِي** — Are you not satisfied to be to me as Hārūn was to Mūsā, except that there is no prophet after me?"
+
+</div>
 
 ### Abū Turāb — The Father of Dust
 

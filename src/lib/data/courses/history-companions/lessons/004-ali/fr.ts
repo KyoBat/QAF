@@ -223,16 +223,17 @@ Ses dernières recommandations :
 
 ### Le Hadith de Manzila
 
-Lors de l'expédition de Tabūk, le Prophète ﷺ laissa 'Alī à Médine pour s'occuper des affaires.
+<div class="scene-box">
 
-'Alī dit :
+**🎭 Avant l'Expédition de Tabūk**
 
-— *« Me laisses-tu avec les femmes et les enfants ? »*
+*Lors de l'expédition de Tabūk, le Prophète ﷺ laissa 'Alī à Médine pour s'occuper des affaires.*
 
-Le Prophète ﷺ répondit :
+**🟣 'Alī :** « Me laisses-tu avec les femmes et les enfants ? »
 
-> **« أَمَا تَرْضَى أَنْ تَكُونَ مِنِّي بِمَنْزِلَةِ هَارُونَ مِنْ مُوسَى، إِلَّا أَنَّهُ لَا نَبِيَّ بَعْدِي »**
-> "N'es-tu pas satisfait d'être par rapport à moi comme Hārūn par rapport à Mūsā, sauf qu'il n'y a pas de prophète après moi ?"
+**Le Prophète ﷺ :** « **أَمَا تَرْضَى أَنْ تَكُونَ مِنِّي بِمَنْزِلَةِ هَارُونَ مِنْ مُوسَى، إِلَّا أَنَّهُ لَا نَبِيَّ بَعْدِي** — N'es-tu pas satisfait d'être par rapport à moi comme Hārūn par rapport à Mūsā, sauf qu'il n'y a pas de prophète après moi ? »
+
+</div>
 
 ### Abū Turāb — Le Père de la Poussière
 

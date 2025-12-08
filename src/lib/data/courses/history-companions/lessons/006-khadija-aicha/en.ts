@@ -192,17 +192,21 @@ The Prophet ﷺ replied:
 
 ### About 'Ā'isha
 
-When the Prophet ﷺ was asked:
+<div class="scene-box">
 
-— *"Who do you love most among people?"*
+**💕 The Prophet's Love ﷺ**
 
-He replied:
+*When the Prophet ﷺ was asked:*
 
-— **"عَائِشَةُ"** — "'Ā'isha."
+**Someone:** "Who do you love most among people?"
 
-— *"And among men?"*
+**The Prophet ﷺ:** "**عَائِشَةُ** — 'Ā'isha."
 
-— **"أَبُوهَا"** — "Her father."
+**Someone:** "And among men?"
+
+**The Prophet ﷺ:** "**أَبُوهَا** — Her father."
+
+</div>
 
 ---
 

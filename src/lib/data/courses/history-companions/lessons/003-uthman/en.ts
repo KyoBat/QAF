@@ -234,17 +234,19 @@ He died at **82 years old**, fasting, reading the Quran.
 
 ### The Exceptional Modesty
 
-One day, the Prophet ﷺ was lying in his home with his legs uncovered. Abū Bakr entered, then 'Umar. The Prophet ﷺ did not change his position.
+<div class="scene-box">
 
-Then 'Uthmān asked to enter. Immediately, the Prophet ﷺ **covered his legs**.
+**🎭 At the Prophet's Home ﷺ**
 
-'Ā'isha asked:
+*One day, the Prophet ﷺ was lying in his home with his legs uncovered. Abū Bakr entered, then 'Umar. The Prophet ﷺ did not change his position.*
 
-— *"O Messenger of Allah, why did you do that for 'Uthmān and not for the others?"*
+*Then 'Uthmān asked to enter. Immediately, the Prophet ﷺ **covered his legs**.*
 
-He replied:
+**'Ā'isha:** "O Messenger of Allah, why did you do that for 'Uthmān and not for the others?"
 
-> **"أَلَا أَسْتَحِي مِنْ رَجُلٍ تَسْتَحِي مِنْهُ الْمَلَائِكَةُ"**
+**The Prophet ﷺ:** "**أَلَا أَسْتَحِي مِنْ رَجُلٍ تَسْتَحِي مِنْهُ الْمَلَائِكَةُ** — Should I not feel shy before a man before whom even the angels feel shy?"
+
+</div>
 
 ### The Prophet ﷺ Announces His Martyrdom
 
