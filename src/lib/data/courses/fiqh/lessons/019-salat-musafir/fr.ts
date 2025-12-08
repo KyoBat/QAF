@@ -3,19 +3,77 @@
  * Contenu en Français - Approche Multi-Madhhab (Priorité Maliki)
  */
 
-export const content = `# Le Fiqh des Prières Spéciales
+export const content = `# 📜 صَلَاةُ الْمُسَافِرِ — La Prière du Voyageur
 
-## 📖 La Prière du Voyageur (صلاة المسافر)
-
-Louange à Allah qui a allégé les obligations pour Ses serviteurs en voyage. Que la paix et les bénédictions soient sur notre Prophète Muhammad ﷺ qui a dit : **« Allah aime qu'on prenne Ses dispenses comme Il déteste qu'on commette Ses interdits »**. Le voyage est une situation qui mérite des facilités particulières dans l'adoration.
-
-> Allah تعالى dit : **« Et quand vous parcourez la terre, ce n'est pas un péché pour vous de raccourcir la prière »** — An-Nisa : 101
+> *« Allah aime qu'on prenne Ses dispenses comme Il déteste qu'on commette Ses interdits »* — Le voyage est une situation qui mérite des facilités particulières dans l'adoration.
 
 ---
 
-## 🔍 1. Les Facilités du Voyageur (رُخَص السفر)
+## 📜 Textes Fondateurs (النصوص الأساسية)
 
-### 📋 Les dispenses accordées au voyageur
+### Le Coran
+
+> **﴿ وَإِذَا ضَرَبْتُمْ فِي الْأَرْضِ فَلَيْسَ عَلَيْكُمْ جُنَاحٌ أَن تَقْصُرُوا مِنَ الصَّلَاةِ ﴾**
+> *« Et quand vous parcourez la terre, ce n'est pas un péché pour vous de raccourcir la prière. »*
+> — [An-Nisa : 101]
+
+### La Sunnah
+
+> عَنْ **عَائِشَةَ** رَضِيَ اللهُ عَنْهَا قَالَتْ:
+> **« فُرِضَتِ الصَّلَاةُ رَكْعَتَيْنِ رَكْعَتَيْنِ، فَأُقِرَّتْ صَلَاةُ السَّفَرِ وَزِيدَ فِي صَلَاةِ الْحَضَرِ »**
+> *« La prière a été prescrite deux rak'at deux rak'at. La prière de voyage a été maintenue ainsi et celle du résident a été augmentée. »*
+> — Sahih Al-Bukhari (350), Sahih Muslim (685)
+
+> عَنْ **ابْنِ عُمَرَ** رَضِيَ اللهُ عَنْهُمَا قَالَ:
+> **« صَحِبْتُ النَّبِيَّ ﷺ فَلَمْ يَزِدْ فِي السَّفَرِ عَلَى رَكْعَتَيْنِ، وَأَبَا بَكْرٍ وَعُمَرَ وَعُثْمَانَ كَذَلِكَ »**
+> *« J'ai accompagné le Prophète ﷺ et il ne priait que deux rak'at en voyage, ainsi qu'Abu Bakr, 'Umar et 'Uthman. »*
+> — Sahih Al-Bukhari (1102)
+
+> عَنْ **ابْنِ عَبَّاسٍ** رَضِيَ اللهُ عَنْهُمَا قَالَ:
+> **« كَانَ النَّبِيُّ ﷺ يَجْمَعُ بَيْنَ صَلَاةِ الظُّهْرِ وَالْعَصْرِ إِذَا كَانَ عَلَى ظَهْرِ سَيْرٍ، وَيَجْمَعُ بَيْنَ الْمَغْرِبِ وَالْعِشَاءِ »**
+> *« Le Prophète ﷺ regroupait Dhuhr et Asr quand il voyageait, et Maghrib et Isha. »*
+> — Sahih Al-Bukhari (1107)
+
+### 📚 Référencement (التخريج)
+
+| Source | Numéro | Statut |
+|--------|--------|--------|
+| **Sahih Al-Bukhari** | 350, 1102, 1107 | ✅ Sahih |
+| **Sahih Muslim** | 685, 686, 706 | ✅ Sahih |
+
+---
+
+## 🎓 Paroles des Savants (أقوال العلماء)
+
+> **Imam Malik** رحمه الله a dit dans *Al-Muwatta'* :
+> *« Le raccourcissement est une Sunna Mu'akkada. Celui qui complète en voyage, sa prière est valide mais il a délaissé ce qui est meilleur. »*
+
+> **Ibn Rushd** رحمه الله a écrit dans *Bidayat Al-Mujtahid* :
+> *« La cause de la divergence sur la distance est que le Prophète ﷺ a raccourci sans préciser une distance exacte. »*
+
+> **Ibn Qudama** رحمه الله a mentionné dans *Al-Mughni* :
+> *« La majorité des savants dit que le raccourcissement commence à environ 80 km. »*
+
+---
+
+## 🔍 Analyse Linguistique (التحليل اللغوي)
+
+### Tableau de vocabulaire
+
+| Terme Arabe | Translittération | Racine | Définition Technique |
+|-------------|------------------|--------|---------------------|
+| **قَصْر** | Qasr | ق-ص-ر | Raccourcissement de la prière de 4 à 2 rak'at |
+| **جَمْع** | Jam' | ج-م-ع | Regroupement de deux prières |
+| **تَقْدِيم** | Taqdim | ق-د-م | Avancer la prière à l'heure de la précédente |
+| **تَأْخِير** | Ta'khir | أ-خ-ر | Retarder la prière à l'heure de la suivante |
+| **سَفَر** | Safar | س-ف-ر | Voyage dépassant une certaine distance |
+| **إِقَامَة** | Iqama | ق-و-م | Résidence, séjour au même endroit |
+
+---
+
+## 📚 Explication Détaillée (الشرح المفصل)
+
+### 🔷 Les Facilités du Voyageur (رُخَص السفر)
 
 | Facilité | Description |
 |----------|-------------|
@@ -25,15 +83,13 @@ Louange à Allah qui a allégé les obligations pour Ses serviteurs en voyage. Q
 | **Essuyer les khuff 3 jours** | Au lieu d'un jour pour le résident |
 | **Délaisser les Rawatib** | Sauf le Witr et le Fajr selon certains |
 
----
+### 🔷 Le Raccourcissement de la Prière (القصر)
 
-## 🔷 2. Le Raccourcissement de la Prière (القصر)
-
-### 📌 Définition
+#### 📌 Définition
 
 Le **Qasr** consiste à prier 2 rak'at au lieu de 4 pour les prières de Dhuhr, Asr et Isha.
 
-### 📋 Prières concernées
+#### 📋 Prières concernées
 
 | Prière | Nombre normal | En voyage |
 |--------|---------------|-----------|
@@ -43,45 +99,17 @@ Le **Qasr** consiste à prier 2 rak'at au lieu de 4 pour les prières de Dhuhr, 
 | **Maghrib** | 3 rak'at | 3 rak'at (pas de changement) |
 | **Isha** | 4 rak'at | **2 rak'at** |
 
-### ⚠️ Statut du raccourcissement - DIVERGENCE
+### 🔷 La Distance du Voyage (مسافة القصر)
 
-| École | Avis | Détail |
-|-------|------|--------|
-| 🟡 **Maliki** | **Sunna Mu'akkada** | Fortement recommandé, pas obligatoire |
-| 🟢 Hanafi | **Wajib (obligatoire)** | Le voyageur doit raccourcir |
-| 🔵 Shafi'i | Permis (Rukhsa) | C'est mieux mais pas obligatoire |
-| 🟣 Hanbali | Sunna Mu'akkada | Préférable de raccourcir |
+> 💡 **Consensus pratique :** Environ **80-81 km** selon la majorité des savants.
 
-> 💡 **Position Malikite :** Le raccourcissement est une Sunna Mu'akkada. Celui qui complète sa prière en voyage, sa prière est valide mais il a délaissé ce qui est meilleur.
-
-### 📌 Preuves du raccourcissement
-
-> Aisha رضي الله عنها a dit : **« La prière a été prescrite deux par deux, puis celle du résident a été augmentée tandis que celle du voyageur a été maintenue »** — Al-Bukhari (350), Muslim (685)
-
-> Ibn 'Umar رضي الله عنهما a dit : **« J'ai accompagné le Prophète ﷺ et il ne priait que deux rak'at en voyage, ainsi qu'Abu Bakr, 'Umar et 'Uthman »** — Al-Bukhari (1102)
-
----
-
-## 📚 3. La Distance du Voyage (مسافة القصر)
-
-### ⚠️ DIVERGENCE IMPORTANTE
-
-| École | Distance minimale | Équivalent moderne |
-|-------|-------------------|-------------------|
-| 🟡 **Maliki** | **4 burud (48 miles hashimites)** | **≈ 81 km** |
-| 🟢 Hanafi | Marche de 3 jours | ≈ 80-90 km |
-| 🔵 Shafi'i | 2 marhalah (16 farsakh) | ≈ 80-89 km |
-| 🟣 Hanbali | 16 farsakh | ≈ 80 km |
-
-> 💡 **Consensus pratique :** Environ **80 km** selon la majorité des savants.
-
-### 📌 Précisions Malikites
+#### 📌 Précisions Malikites
 
 - La distance se calcule **aller simple**, pas aller-retour
 - Le moyen de transport n'affecte pas la règle (avion, voiture, train)
 - L'intention de voyager cette distance est requise **dès le départ**
 
-### 📌 Quand commence le voyage ?
+#### 📌 Quand commence le voyage ?
 
 | École | Début du statut de voyageur |
 |-------|----------------------------|
@@ -90,20 +118,9 @@ Le **Qasr** consiste à prier 2 rak'at au lieu de 4 pour les prières de Dhuhr, 
 | 🔵 Shafi'i | En dépassant les constructions |
 | 🟣 Hanbali | En dépassant les constructions |
 
----
+### 🔷 La Durée de Séjour (مدة الإقامة)
 
-## 🎯 4. La Durée de Séjour (مدة الإقامة)
-
-### ⚠️ DIVERGENCE MAJEURE
-
-| École | Durée max pour raccourcir | Explication |
-|-------|---------------------------|-------------|
-| 🟡 **Maliki** | **4 jours complets (sans compter arrivée/départ)** | Au-delà = résident, prier complet |
-| 🟢 Hanafi | **15 jours** | Intention de 15 jours = résident |
-| 🔵 Shafi'i | 4 jours (sans arrivée/départ) | Comme Maliki |
-| 🟣 Hanbali | Plus de 4 prières | ~4 jours |
-
-### 📌 Application pratique (Maliki)
+#### 📌 Application pratique (Maliki)
 
 | Durée de séjour prévue | Statut | Action |
 |------------------------|--------|--------|
@@ -113,23 +130,13 @@ Le **Qasr** consiste à prier 2 rak'at au lieu de 4 pour les prières de Dhuhr, 
 
 > 💡 **Exemple Maliki :** Tu voyages à Paris du lundi au vendredi (5 jours). Tu raccourcis lundi-mardi-mercredi-jeudi, puis tu pries complet le vendredi.
 
-### 📌 Cas particuliers
+### 🔷 Le Regroupement des Prières (الجمع)
 
-| Situation | Règle Malikite |
-|-----------|----------------|
-| **Attente indéterminée** | Reste voyageur jusqu'à 18 jours |
-| **Études à l'étranger** | Résident dès qu'on a l'intention de rester |
-| **Travail temporaire (ex: 2 mois)** | Résident car intention de rester > 4 jours |
-
----
-
-## ⚖️ 5. Le Regroupement des Prières (الجمع)
-
-### 📌 Définition
+#### 📌 Définition
 
 Le **Jam'** consiste à prier deux prières successives ensemble, soit en avançant la seconde (Taqdim), soit en retardant la première (Ta'khir).
 
-### 📋 Prières regroupables
+#### 📋 Prières regroupables
 
 | Groupe 1 | Groupe 2 |
 |----------|----------|
@@ -137,110 +144,115 @@ Le **Jam'** consiste à prier deux prières successives ensemble, soit en avanç
 
 > ⚠️ **Fajr ne se regroupe jamais** avec une autre prière.
 
-### 📋 Types de regroupement
+#### 📋 Types de regroupement
 
 | Type | Arabe | Description | Exemple |
 |------|-------|-------------|---------|
 | **Jam' Taqdim** | جمع تقديم | Avancer la 2ème prière | Prier Asr à l'heure de Dhuhr |
 | **Jam' Ta'khir** | جمع تأخير | Retarder la 1ère prière | Prier Dhuhr à l'heure de Asr |
 
-### ⚠️ Statut du regroupement - DIVERGENCE
+---
 
-| École | En voyage | Autres causes |
-|-------|-----------|---------------|
-| 🟡 **Maliki** | **Permis** | Permis pour pluie, maladie |
-| 🟢 Hanafi | **Non permis** (sauf à Arafat/Muzdalifa) | Non permis |
-| 🔵 Shafi'i | Permis | Permis pour pluie, maladie |
-| 🟣 Hanbali | Permis | Permis pour pluie, maladie, besoin |
+## ⚖️ Points de vue des Écoles (آراء المذاهب)
 
-> 💡 **Position Hanafite :** Les Hanafites n'autorisent pas le Jam' en voyage, sauf lors du Hajj à Arafat et Muzdalifa. C'est leur position historique basée sur une interprétation différente des hadiths.
+| Question | 🟡 Malikite | 🟢 Hanafite | 🔵 Shafiite | 🟣 Hanbalite |
+|----------|-------------|-------------|-------------|--------------|
+| **Statut du raccourcissement** | **Sunna Mu'akkada** | Wajib (obligatoire) | Permis (Rukhsa) | Sunna Mu'akkada |
+| **Distance minimale** | **~81 km (4 burud)** | Marche de 3 jours | ~80-89 km | ~80 km |
+| **Durée max en voyageur** | **4 jours complets** | 15 jours | 4 jours | ~4 jours |
+| **Regroupement en voyage** | **Permis** | Non permis (sauf Hajj) | Permis | Permis |
+| **Rawatib en voyage** | **Délaisser sauf Witr et Fajr** | Permis de délaisser | Préférable de maintenir | Délaisser sauf Witr |
 
-### 📌 Preuve du regroupement
+### 📌 Position Malikite Détaillée
 
-> Ibn 'Abbas رضي الله عنهما a dit : **« Le Prophète ﷺ regroupait Dhuhr et Asr quand il voyageait, et Maghrib et Isha »** — Al-Bukhari (1107)
+Les Malikites considèrent que :
+- Le raccourcissement est **Sunna Mu'akkada**, pas obligatoire
+- La distance minimale est d'environ **81 km** (4 burud)
+- Le voyageur qui prévoit de rester plus de **4 jours** devient résident
+- Le regroupement est permis en voyage (Taqdim ou Ta'khir)
 
-> Mu'adh رضي الله عنه a rapporté que le Prophète ﷺ, lors de la bataille de Tabuk, regroupait Dhuhr avec Asr et Maghrib avec Isha — Muslim (706)
+> 💡 **Particularité Hanafite** : Les Hanafites n'autorisent pas le Jam' (regroupement) en voyage, sauf lors du Hajj à Arafat et Muzdalifa.
 
 ---
 
-## 💡 6. Règles Pratiques (أحكام عملية)
+## 🌍 Applications Modernes (التطبيقات المعاصرة)
 
-### 📌 Le voyageur priant derrière un résident
-
-| Situation | Règle |
-|-----------|-------|
-| **Voyageur derrière imam résident** | Doit compléter 4 rak'at (suivre l'imam) |
-| **Voyageur rattrape une partie** | Complète ce qu'il a manqué (4 au total) |
-
-> Le Prophète ﷺ a dit : **« Ce que vous attrapez, priez-le, et ce que vous manquez, complétez-le »** — Al-Bukhari (636)
-
-### 📌 Le voyageur menant des résidents
-
-| Situation | Règle recommandée |
-|-----------|-------------------|
-| **Imam voyageur + ma'mum résidents** | L'imam prie 2, dit aux résidents de compléter |
-| **Formule à dire** | « Complétez, car nous sommes voyageurs » |
-
-### 📌 Les Rawatib (prières surérogatoires) en voyage
-
-| École | Avis |
-|-------|------|
-| 🟡 **Maliki** | Délaisser les Rawatib sauf **Witr et Fajr** |
-| 🟢 Hanafi | Permis de les délaisser |
-| 🔵 Shafi'i | Préférable de les maintenir |
-| 🟣 Hanbali | Les délaisser sauf Witr |
-
-> Ibn 'Umar رضي الله عنهما a dit : **« J'ai accompagné le Prophète ﷺ en voyage et je ne l'ai pas vu prier de nawafil »** — Al-Bukhari (1101)
+| Situation Moderne | Problème | Solution Jurisprudentielle |
+|-------------------|----------|---------------------------|
+| ✈️ **Voyage en avion** | La distance est parcourue en peu de temps | La distance compte, pas la durée — raccourcir si 80+ km |
+| 🚄 **Escales et correspondances** | Plusieurs arrêts courts | Reste voyageur si l'escale < 4 jours |
+| 🏨 **Voyage d'affaires 3 jours** | Séjour court | Raccourcir et regrouper |
+| 📚 **Études à l'étranger** | Séjour long | Devient résident dès l'intention de rester > 4 jours |
+| 🛫 **Direction de la Qibla en avion** | Orientation difficile | Faire de son mieux, prière valide |
 
 ---
 
-## 🔷 7. Cas Modernes (حالات معاصرة)
+## ⚠️ Erreurs Courantes (الأخطاء الشائعة)
 
-### 📌 Voyage en avion
-
-| Question | Réponse |
-|----------|---------|
-| **La distance compte-t-elle ?** | Oui, c'est la distance pas la durée |
-| **Prier dans l'avion ?** | Permis si l'heure risque de passer |
-| **Direction de la Qibla** | Faire de son mieux, prière valide |
-
-### 📌 Escales et correspondances
-
-| Situation | Règle |
-|-----------|-------|
-| **Escale courte (< 4 jours)** | Reste voyageur |
-| **Escale longue (≥ 4 jours)** | Devient résident pour ce lieu |
-
-### 📌 Voyage pour désobéissance
-
-| École | Avis |
-|-------|------|
-| 🟡 **Maliki** | **Pas de facilités** si voyage pour péché |
-| 🟢 Hanafi | Les facilités s'appliquent quand même |
-| 🔵 Shafi'i | Pas de facilités pour voyage de péché |
-| 🟣 Hanbali | Pas de facilités pour voyage de péché |
+| Erreur | ❌ Ce que les gens font | ✅ Ce qu'il faut faire |
+|--------|------------------------|------------------------|
+| **Raccourcir avant de partir** | Raccourcir à la maison avant le voyage | Attendre d'avoir quitté les limites de la ville |
+| **Compléter par prudence** | Prier 4 rak'at « au cas où » | Raccourcir est préférable en voyage |
+| **Regrouper sans voyage** | Regrouper par paresse | Le regroupement est lié au voyage ou autre excuse |
+| **Oublier le statut** | Continuer à raccourcir après 4 jours | Devenir résident et prier complet |
+| **Suivre imam résident en raccourcissant** | Prier 2 rak'at alors que l'imam prie 4 | Compléter 4 rak'at avec l'imam résident |
 
 ---
 
-## 🎯 Résumé
+## ❓ FAQ (الأسئلة الشائعة)
 
-| Point | Règle Malikite |
-|-------|----------------|
-| **Raccourcissement** | Sunna Mu'akkada |
-| **Distance minimale** | ~81 km (4 burud) |
-| **Durée max en voyageur** | 4 jours complets |
-| **Regroupement** | Permis (Taqdim ou Ta'khir) |
-| **Rawatib en voyage** | Délaisser sauf Witr et Fajr |
-| **Derrière imam résident** | Compléter 4 rak'at |
+**Q1 : Si je suis voyageur et que je prie derrière un imam résident, dois-je raccourcir ?**
+> Non, tu dois compléter 4 rak'at car tu suis l'imam. Le Prophète ﷺ a dit : « Ce que vous attrapez, priez-le, et ce que vous manquez, complétez-le. »
+
+**Q2 : Puis-je regrouper les prières même si je ne voyage pas ?**
+> 🟡 Selon les Malikites, le regroupement est permis pour la pluie, la maladie, ou un besoin réel. Les Hanafites ne l'autorisent pas hors Hajj.
+
+**Q3 : Combien de temps puis-je rester voyageur si je ne sais pas quand je repars ?**
+> 🟡 Selon les Malikites, tu restes voyageur jusqu'à **18 jours** maximum si tu es incertain de la durée de ton séjour.
+
+**Q4 : Dois-je prier les Rawatib (sunna) en voyage ?**
+> 🟡 Les Malikites recommandent de délaisser les Rawatib en voyage sauf le **Witr** et les 2 rak'at du **Fajr**.
+
+**Q5 : Le voyage pour un péché permet-il les facilités ?**
+> 🟡 Selon les Malikites (et Shafi'ites et Hanbalites), le voyageur pour un péché ne bénéficie **pas** des facilités. Les Hanafites les lui accordent.
 
 ---
 
-## 📚 Sources
+## 🎯 Action Concrète
 
-1. Sahih Al-Bukhari, Hadiths n° 350, 636, 1101, 1102, 1107
-2. Sahih Muslim, Hadiths n° 685, 686, 706
-3. Al-Mudawwana de l'Imam Malik
-4. Mukhtasar Khalil
-5. Bidayat Al-Mujtahid d'Ibn Rushd
-6. Al-Mughni d'Ibn Qudama
+**Lors de ton prochain voyage, applique ces règles :**
+
+1. **Calcule** — Vérifie que la distance dépasse 80 km
+2. **Note** — Combien de jours tu prévois de rester (si > 4 jours = résident)
+3. **Raccourcis** — Prie 2 rak'at au lieu de 4 pour Dhuhr, Asr et Isha
+4. **Regroupe** — Si nécessaire, combine Dhuhr+Asr ou Maghrib+Isha
+
+> 💡 **Conseil** : Garde l'application des horaires de prière pour connaître la Qibla et les heures de prière dans ta destination.
+
+---
+
+## 📝 Invocation de Clôture
+
+<div dir="rtl">
+
+**اللَّهُمَّ هَوِّنْ عَلَيْنَا سَفَرَنَا هَذَا، وَاطْوِ عَنَّا بُعْدَهُ، اللَّهُمَّ أَنْتَ الصَّاحِبُ فِي السَّفَرِ، وَالْخَلِيفَةُ فِي الْأَهْلِ**
+
+</div>
+
+> *« Ô Allah, facilite-nous ce voyage et rapproche-nous sa distance. Ô Allah, Tu es le Compagnon dans le voyage et le Gardien de la famille. »*
+
+---
+
+## 📚 Sources et Références
+
+1. **Sahih Al-Bukhari** — Hadiths n° 350, 636, 1101, 1102, 1107
+2. **Sahih Muslim** — Hadiths n° 685, 686, 706
+3. **Al-Mudawwana** — Imam Malik
+4. **Mukhtasar Khalil**
+5. **Bidayat Al-Mujtahid** — Ibn Rushd
+6. **Al-Mughni** — Ibn Qudama
+
+---
+
+**والله أعلم** — واللهُ تَعَالَى أَعْلَى وَأَعْلَم
 `;

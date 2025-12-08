@@ -3,23 +3,77 @@
  * Contenu en Français - Approche Multi-Madhhab (Priorité Maliki)
  */
 
-export const content = `# Le Fiqh des Prières Spéciales
+export const content = `# 📜 صَلَاةُ الِاسْتِسْقَاءِ — La Prière pour la Pluie
 
-## �� La Prière pour la Pluie (صلاة الاستسقاء)
-
-Louange à Allah qui fait descendre la pluie après le désespoir et répand Sa miséricorde. Que la paix et les bénédictions soient sur notre Prophète Muhammad ﷺ. Lorsque la sécheresse frappe et que la pluie se fait rare, les musulmans se tournent vers Allah en implorant Sa miséricorde.
-
-> Le Prophète ﷺ sortit pour prier la prière de l'Istisqa, et il fit face à la Qibla en invoquant — Al-Bukhari (1012)
+> *« Allah fait descendre la pluie après le désespoir et répand Sa miséricorde »* — L'Istisqa' est une prière d'humilité et de supplication collective vers Allah.
 
 ---
 
-## 🔍 1. Définition et Statut
+## 📜 Textes Fondateurs (النصوص الأساسية)
 
-### 📋 Définition
+### Le Coran
+
+> **﴿ وَهُوَ الَّذِي يُنَزِّلُ الْغَيْثَ مِن بَعْدِ مَا قَنَطُوا وَيَنشُرُ رَحْمَتَهُ ﴾**
+> *« Et c'est Lui qui fait descendre la pluie après qu'ils ont désespéré, et répand Sa miséricorde. »*
+> — [Ash-Shura : 28]
+
+> **﴿ فَقُلْتُ اسْتَغْفِرُوا رَبَّكُمْ إِنَّهُ كَانَ غَفَّارًا ۞ يُرْسِلِ السَّمَاءَ عَلَيْكُم مِّدْرَارًا ﴾**
+> *« J'ai dit : Implorez le pardon de votre Seigneur, car Il est Pardonneur. Il vous enverra du ciel des pluies abondantes. »*
+> — [Nuh : 10-11]
+
+### La Sunnah
+
+> عَنْ **عَبْدِ اللهِ بْنِ زَيْدٍ** رَضِيَ اللهُ عَنْهُ قَالَ:
+> **« خَرَجَ النَّبِيُّ ﷺ إِلَى الْمُصَلَّى يَسْتَسْقِي، فَاسْتَقْبَلَ الْقِبْلَةَ، وَقَلَبَ رِدَاءَهُ، وَصَلَّى رَكْعَتَيْنِ »**
+> *« Le Prophète ﷺ sortit vers le musalla pour demander la pluie. Il fit face à la Qibla, retourna son manteau et pria deux rak'at. »*
+> — Sahih Al-Bukhari (1012, 1027)
+
+> عَنْ **أَنَسِ بْنِ مَالِكٍ** رَضِيَ اللهُ عَنْهُ قَالَ: أَصَابَنَا وَنَحْنُ مَعَ رَسُولِ اللهِ ﷺ مَطَرٌ، فَحَسَرَ رَسُولُ اللهِ ﷺ ثَوْبَهُ حَتَّى أَصَابَهُ مِنَ الْمَطَرِ، فَقُلْنَا: يَا رَسُولَ اللهِ، لِمَ صَنَعْتَ هَذَا؟ قَالَ:
+> **« لِأَنَّهُ حَدِيثُ عَهْدٍ بِرَبِّهِ »**
+> *« Car elle (la pluie) est récente de la part de son Seigneur. »*
+> — Sahih Muslim (898)
+
+### 📚 Référencement (التخريج)
+
+| Source | Numéro | Statut |
+|--------|--------|--------|
+| **Sahih Al-Bukhari** | 1012, 1027 | ✅ Sahih |
+| **Sahih Muslim** | 895, 898 | ✅ Sahih |
+
+---
+
+## 🎓 Paroles des Savants (أقوال العلماء)
+
+> **Imam Malik** رحمه الله a dit dans *Al-Mudawwana* :
+> *« La prière de l'Istisqa' est une Sunna Mu'akkada. Elle se prie deux rak'at comme une prière ordinaire, sans les takbirat du Aïd. »*
+
+> **Ibn Rushd** رحمه الله a écrit dans *Bidayat Al-Mujtahid* :
+> *« Les savants ont divergé sur le retournement du rida' : certains le limitent à l'imam, d'autres l'étendent à tous les fidèles. »*
+
+> **An-Nawawi** رحمه الله a mentionné dans *Al-Majmu'* :
+> *« L'Istisqa' peut se faire par une simple invocation, par une invocation après la prière obligatoire, ou par une prière spéciale avec khutba. »*
+
+---
+
+## 🔍 Analyse Linguistique (التحليل اللغوي)
+
+### Tableau de vocabulaire
+
+| Terme Arabe | Translittération | Racine | Définition Technique |
+|-------------|------------------|--------|---------------------|
+| **اِسْتِسْقَاء** | Istisqa' | س-ق-ي | Demander à être abreuvé, demander la pluie |
+| **غَيْث** | Ghayth | غ-و-ث | Pluie secourable qui vient au secours |
+| **رِدَاء** | Rida' | ر-د-و | Manteau, vêtement extérieur |
+| **جَدْب** | Jadb | ج-د-ب | Sécheresse, aridité |
+| **قَحْط** | Qaht | ق-ح-ط | Disette causée par le manque de pluie |
+
+---
+
+## 📚 Explication Détaillée (الشرح المفصل)
+
+### 🔷 Définition et Statut
 
 **L'Istisqa'** (الاستسقاء) signifie littéralement « demander à être abreuvé ». C'est une prière spéciale pour demander la pluie à Allah en temps de sécheresse.
-
-### 📌 Statut
 
 | École | Statut |
 |-------|--------|
@@ -28,11 +82,7 @@ Louange à Allah qui fait descendre la pluie après le désespoir et répand Sa 
 | 🔵 Shafi'i | Sunna Mu'akkadah |
 | 🟣 Hanbali | Sunna Mu'akkadah |
 
----
-
-## 🔷 2. Les Différentes Formes d'Istisqa'
-
-### 📋 Les trois niveaux
+### 🔷 Les Différentes Formes d'Istisqa'
 
 | Niveau | Description | Mérite |
 |--------|-------------|--------|
@@ -40,96 +90,36 @@ Louange à Allah qui fait descendre la pluie après le désespoir et répand Sa 
 | **2. Du'a après les prières** | Invocation collective après les prières obligatoires | Moyen |
 | **3. Prière complète** | Sortir au musalla avec prière et khutba | Maximum |
 
----
-
-## 📚 3. Description de la Prière
-
-### 📋 Structure
+### 🔷 Description de la Prière (Méthode Malikite)
 
 | Élément | Description |
 |---------|-------------|
 | **Nombre de rak'at** | 2 rak'at |
+| **Structure** | Comme une prière normale (pas de takbirat supplémentaires) |
 | **Récitation** | À voix haute |
 | **Sans adhan ni iqama** | Comme la prière du Aïd |
 | **Lieu** | Au musalla (esplanade) de préférence |
 
-### ⚠️ Divergence sur les Takbirat supplémentaires
+### 🔷 La Khutba
 
-| École | Takbirat |
-|-------|----------|
-| 🟡 **Maliki** | **Pas de takbirat supplémentaires** — comme une prière normale |
-| 🟢 Hanafi | Pas de takbirat supplémentaires |
-| 🔵 Shafi'i | **Comme la prière du Aïd** — avec takbirat supplémentaires |
-| 🟣 Hanbali | Comme la prière du Aïd |
+| Aspect | Règle |
+|--------|-------|
+| **Position** | **Après** la prière (comme le Aïd) |
+| **Contenu** | Istighfar, invocation pour la pluie, appel à la tawba |
+| **Caractère** | Beaucoup d'istighfar et d'invocations |
 
-> 💡 **Position Malikite :** La prière d'Istisqa' est une prière ordinaire de 2 rak'at, sans les takbirat supplémentaires de la prière du Aïd.
+### 🔷 Le Retournement du Rida' (Manteau)
 
----
-
-## 🎯 4. La Khutba
-
-### 📋 Position de la khutba
-
-| École | Quand ? |
-|-------|---------|
-| 🟡 **Maliki** | **Après** la prière (comme le Aïd) |
-| 🟢 Hanafi | Après la prière (ou du'a sans khutba formelle) |
-| 🔵 Shafi'i | Après la prière |
-| 🟣 Hanbali | Après la prière |
-
-### 📋 Contenu de la khutba
-
-| Élément | Description |
-|---------|-------------|
-| **Istighfar** | Demander pardon abondamment |
-| **Invocation** | Implorer Allah pour la pluie |
-| **Versets** | Réciter les versets sur la pluie et le pardon |
-| **Exhortation** | Appeler à la tawba (repentir) |
-
----
-
-## ⚖️ 5. Le Retournement du Rida' (Manteau)
-
-### ⚠️ DIVERGENCE IMPORTANTE
-
-| École | Retournement du Rida' |
-|-------|----------------------|
-| 🟡 **Maliki** | **L'imam ET les fidèles** retournent leurs manteaux |
-| 🟢 Hanafi | **Pas de retournement** — pas établi |
-| 🔵 Shafi'i | **Seulement l'imam** retourne |
-| 🟣 Hanbali | L'imam et les fidèles retournent |
-
-> 💡 **Position Malikite :** Tout le monde retourne son manteau (ou habit extérieur) de droite à gauche et de haut en bas, en signe d'espoir qu'Allah change leur situation.
-
-### 📌 Comment retourner ?
+> Le Prophète ﷺ se tourna vers la Qibla et retourna son rida' — Al-Bukhari (1027)
 
 | Action | Description |
 |--------|-------------|
 | **Droite ↔ Gauche** | Ce qui était à droite passe à gauche |
 | **Intérieur ↔ Extérieur** | Retourner l'habit à l'envers |
 | **Moment** | Pendant la khutba, face à la Qibla |
+| **Signification** | Espoir qu'Allah change leur situation |
 
-### 📌 Preuve
-
-> Le Prophète ﷺ se tourna vers la Qibla et retourna son rida' — Al-Bukhari (1027)
-
----
-
-## 💡 6. Le Moment de la Prière
-
-### 📋 Quand prier ?
-
-| Aspect | Règle |
-|--------|-------|
-| **Heure** | Comme la prière du Aïd (après le lever complet du soleil) |
-| **Jour** | N'importe quel jour, mais le lundi, jeudi ou vendredi sont préférables |
-| **Condition** | En cas de sécheresse ou de manque d'eau |
-
----
-
-## 🔷 7. Préparatifs et Adab
-
-### 📋 Avant la prière
+### 🔷 Préparatifs et Adab
 
 | Préparation | Description |
 |-------------|-------------|
@@ -139,95 +129,135 @@ Louange à Allah qui fait descendre la pluie après le désespoir et répand Sa 
 | **Réconciliation** | Régler les différends |
 | **Sortir humblement** | Sans parfum ni beaux habits |
 | **Amener les enfants** | Et les personnes faibles |
-| **Faire sortir les animaux** | Selon certains récits |
-
-### 📌 La sagesse
 
 > L'objectif est de montrer l'humilité et la pauvreté devant Allah, pour attirer Sa miséricorde.
 
-### 📌 L'invocation prophétique
+### 🔷 Les Invocations de l'Istisqa'
 
-> **اللَّهُمَّ أَغِثْنَا، اللَّهُمَّ أَغِثْنَا، اللَّهُمَّ أَغِثْنَا**
-
-*Allahumma aghithna, Allahumma aghithna, Allahumma aghithna*
-(Ô Allah, accorde-nous la pluie !)
+#### Du'a principal :
 
 > **اللَّهُمَّ اسْقِنَا غَيْثًا مُغِيثًا، مَرِيئًا مَرِيعًا، نَافِعًا غَيْرَ ضَارٍّ، عَاجِلًا غَيْرَ آجِلٍ**
 
 *Allahumma sqina ghaythan mughithan, mari'an mari'an, nafi'an ghayra darr, 'ajilan ghayra ajil*
 (Ô Allah, accorde-nous une pluie secourable, bénéfique, abondante, utile et non nuisible, rapide et non tardive)
 
----
+#### Du'a court :
 
-## 📝 8. Lever les Mains dans le Du'a
+> **اللَّهُمَّ أَغِثْنَا، اللَّهُمَّ أَغِثْنَا، اللَّهُمَّ أَغِثْنَا**
 
-### 📌 Manière spécifique
+*Allahumma aghithna* (Ô Allah, accorde-nous la pluie !) — à répéter 3 fois
+
+### 🔷 Lever les Mains dans le Du'a
 
 | Aspect | Description |
 |--------|-------------|
 | **Position des mains** | **Dos vers le ciel** (et non les paumes) |
 | **Signification** | Signe de grande détresse et besoin |
-| **Preuve** | Le Prophète ﷺ levait les mains ainsi lors de l'Istisqa' — Muslim (895) |
-
-### ⚠️ Note importante
-
-Cette manière de lever les mains (dos vers le ciel) est **spécifique** à la prière d'Istisqa'. Dans les autres invocations, on lève les paumes vers le ciel.
+| **Spécificité** | Cette manière est **spécifique** à l'Istisqa' |
 
 ---
 
-## 9. Si la Pluie Arrive
+## ⚖️ Points de vue des Écoles (آراء المذاهب)
 
-### 📋 Que dire ?
+| Question | 🟡 Malikite | 🟢 Hanafite | 🔵 Shafiite | 🟣 Hanbalite |
+|----------|-------------|-------------|-------------|--------------|
+| **Takbirat supplémentaires** | **Non** — prière normale | Non | **Oui** — comme le Aïd | Oui |
+| **Khutba** | **Après** la prière | Après (ou du'a simple) | Après | Après |
+| **Retournement du rida'** | **Imam ET fidèles** | Pas de retournement | Seulement l'imam | Imam et fidèles |
+| **Lever des mains** | **Dos vers le ciel** | Dos vers le ciel | Dos vers le ciel | Dos vers le ciel |
+| **Nombre de sorties** | Une sortie, répéter si besoin | Variable | Trois sorties successives | Variable |
 
-> **اللَّهُمَّ صَيِّبًا نَافِعًا**
+### 📌 Position Malikite Détaillée
 
-*Allahumma sayyiban nafi'an*
-(Ô Allah, une pluie bénéfique !)
+Les Malikites considèrent que :
+- La prière est une prière ordinaire de **2 rak'at, sans takbirat supplémentaires**
+- La khutba est **après** la prière
+- **L'imam ET les fidèles** retournent leurs manteaux
+- On lève les mains avec le **dos vers le ciel**
+- On sort **humblement**, sans parfum ni beaux habits
 
-### 📋 Que faire ?
-
-| Action | Description |
-|--------|-------------|
-| **Remercier Allah** | Al-hamdulillah |
-| **S'exposer à la pluie** | Le Prophète ﷺ découvrait une partie de son corps |
-| **Dire** | « Cette pluie est récente de la part de son Seigneur » |
-
-### 📌 Preuve
-
-> Anas dit : Nous étions avec le Prophète ﷺ quand la pluie tomba. Le Prophète ﷺ découvrit une partie de son vêtement pour que la pluie le touche, et dit : **« Elle est récente de la part de son Seigneur »** — Muslim (898)
-
----
-
-## 10. Si la Pluie est Excessive
-
-### 📋 Invocation pour arrêter
-
-> **اللَّهُمَّ حَوَالَيْنَا وَلَا عَلَيْنَا**
-
-*Allahumma hawalaina wa la 'alaina*
-(Ô Allah, autour de nous et pas sur nous)
+> 💡 **Particularité Shafi'ite/Hanbalite** : Ils prient l'Istisqa' **comme la prière du Aïd**, avec les takbirat supplémentaires.
 
 ---
 
-## 🎯 Résumé
+## 🌍 Applications Modernes (التطبيقات المعاصرة)
 
-| Point | Règle Malikite |
-|-------|----------------|
-| **Statut** | Sunna Mu'akkadah |
-| **Structure** | 2 rak'at normales |
-| **Takbirat** | Pas de takbirat supplémentaires |
-| **Khutba** | Après la prière |
-| **Retournement du rida'** | Imam ET fidèles |
-| **Lever des mains** | Dos vers le ciel |
-| **Préparation** | Jeûne, tawba, humilité |
+| Situation Moderne | Problème | Solution Jurisprudentielle |
+|-------------------|----------|---------------------------|
+| 🏙️ **Zone urbaine** | Pas de musalla disponible | Prier à la mosquée |
+| 🌧️ **Système d'irrigation** | Moins dépendant de la pluie | L'Istisqa' reste recommandée pour la baraka |
+| 📅 **Organisation** | Quand prier ? | Quand la sécheresse est constatée |
+| 👔 **Vêtements modernes** | Pas de rida' traditionnel | Retourner la veste ou le manteau |
+| 🌍 **Sécheresse régionale** | Une ville touchée | Les communautés concernées prient |
 
 ---
 
-## 📚 Sources
+## ⚠️ Erreurs Courantes (الأخطاء الشائعة)
 
-1. Sahih Al-Bukhari, Hadiths n° 1012, 1027
-2. Sahih Muslim, Hadiths n° 895, 898
-3. Al-Mudawwana de l'Imam Malik
-4. Mukhtasar Khalil
-5. Bidayat Al-Mujtahid d'Ibn Rushd
+| Erreur | ❌ Ce que les gens font | ✅ Ce qu'il faut faire |
+|--------|------------------------|------------------------|
+| **Takbirat comme le Aïd** | Faire 6+5 takbirat | 🟡 Malikites : prière normale sans takbirat |
+| **Sortir en beaux habits** | Se parfumer et bien s'habiller | Sortir humblement, sans parure |
+| **Lever les paumes** | Comme dans les autres du'a | Lever le dos des mains vers le ciel |
+| **Faire la khutba avant** | Comme Jumu'ah | La khutba est **après** la prière |
+| **Négliger l'istighfar** | Se concentrer seulement sur la demande | Multiplier l'istighfar avant et pendant |
+
+---
+
+## ❓ FAQ (الأسئلة الشائعة)
+
+**Q1 : La prière de l'Istisqa' a-t-elle des takbirat supplémentaires comme le Aïd ?**
+> 🟡 Selon les Malikites et Hanafites, **non** — c'est une prière ordinaire de 2 rak'at. Les Shafi'ites et Hanbalites disent oui.
+
+**Q2 : Qui retourne son manteau lors de l'Istisqa' ?**
+> 🟡 Selon les Malikites et Hanbalites, **l'imam ET les fidèles**. Les Shafi'ites disent seulement l'imam.
+
+**Q3 : Pourquoi lever le dos des mains vers le ciel ?**
+> C'est un signe de grande détresse et de besoin extrême. Cette manière est spécifique à la prière de l'Istisqa'.
+
+**Q4 : Peut-on faire l'Istisqa' individuellement ?**
+> Oui, l'Istisqa' peut être une simple invocation personnelle, mais la forme complète (prière + khutba en groupe) est meilleure.
+
+**Q5 : Que faire si la pluie tombe pendant ou après la prière ?**
+> Remercier Allah (Al-hamdulillah), dire « Allahumma sayyiban nafi'an » et s'exposer un peu à la pluie comme le faisait le Prophète ﷺ.
+
+---
+
+## 🎯 Action Concrète
+
+**En période de sécheresse :**
+
+1. **Repens-toi** — La sécheresse peut être liée aux péchés (voir Sourate Nuh)
+2. **Fais l'istighfar** — « Astaghfirullah » abondamment
+3. **Donne la sadaqa** — L'aumône attire la miséricorde
+4. **Participe à la prière** — Sors humblement avec la communauté
+5. **Invoque** — Avec le dos des mains vers le ciel
+
+> 💡 **Conseil** : La pluie est une miséricorde d'Allah. Quand elle tombe, dis « Allahumma sayyiban nafi'an » et expose-toi à elle.
+
+---
+
+## 📝 Invocation de Clôture
+
+<div dir="rtl">
+
+**اللَّهُمَّ اسْقِنَا غَيْثًا مُغِيثًا، هَنِيئًا مَرِيئًا، مَرِيعًا غَدَقًا، مُجَلِّلًا سَحًّا، طَبَقًا دَائِمًا، نَافِعًا غَيْرَ ضَارٍّ، عَاجِلًا غَيْرَ آجِلٍ**
+
+</div>
+
+> *« Ô Allah, accorde-nous une pluie secourable, agréable et bénéfique, abondante et généreuse, couvrante et continue, utile et non nuisible, rapide et non tardive. »*
+
+---
+
+## 📚 Sources et Références
+
+1. **Sahih Al-Bukhari** — Hadiths n° 1012, 1027
+2. **Sahih Muslim** — Hadiths n° 895, 898
+3. **Al-Mudawwana** — Imam Malik
+4. **Mukhtasar Khalil**
+5. **Bidayat Al-Mujtahid** — Ibn Rushd
+
+---
+
+**والله أعلم** — واللهُ تَعَالَى أَعْلَى وَأَعْلَم
 `;

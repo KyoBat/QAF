@@ -3,28 +3,88 @@
  * Contenu en Français - Approche Multi-Madhhab (Priorité Maliki)
  */
 
-export const content = `# 📜 Le Fiqh de la Prière
+export const content = `# 📜 صَلَاةُ الْجَمَاعَةِ — La Prière en Groupe
 
-## 📖 La Prière en Groupe (صلاة الجماعة)
-
-Louange à Allah qui a fait de la prière en groupe un pilier de la vie communautaire musulmane. Que la paix et les bénédictions soient sur notre Prophète Muhammad ﷺ qui ne l'a jamais délaissée. La prière en groupe est l'un des rites les plus apparents de l'Islam et une cause de multiplication des récompenses.
-
-> Le Prophète ﷺ a dit : **« La prière en groupe est supérieure à la prière individuelle de vingt-sept degrés »** — Al-Bukhari (645), Muslim (650)
+> *« La prière en groupe est supérieure à la prière individuelle de vingt-sept degrés »* — La prière collective est l'un des rites les plus apparents de l'Islam et une cause de multiplication des récompenses.
 
 ---
 
-## 🔍 1. Le Statut Juridique (الحكم الشرعي)
+## 📜 Textes Fondateurs (النصوص الأساسية)
 
-### ⚠️ Les Avis des 4 Écoles
+### Le Coran
 
-| École | Avis | Preuve principale |
-|-------|------|-------------------|
-| 🟡 **Maliki** | **Sunna Mu'akkada** (fortement recommandée) | La pratique constante du Prophète ﷺ sans ordre explicite d'obligation |
-| 🟢 Hanafi | Sunna Mu'akkada (Wajib selon certains) | Idem |
-| 🔵 Shafi'i | Fard Kifaya (obligation communautaire) | Pour manifester les rites de l'Islam |
-| 🟣 Hanbali | Fard 'Ayn (obligation individuelle) | Hadith de l'aveugle et menace de brûler les maisons |
+> **﴿ وَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ وَارْكَعُوا مَعَ الرَّاكِعِينَ ﴾**
+> *« Et accomplissez la prière, acquittez la zakat et inclinez-vous avec ceux qui s'inclinent. »*
+> — [Al-Baqarah : 43]
 
-### 📌 Détail de l'avis Malikite
+> **﴿ وَإِذَا كُنتَ فِيهِمْ فَأَقَمْتَ لَهُمُ الصَّلَاةَ فَلْتَقُمْ طَائِفَةٌ مِّنْهُم مَّعَكَ ﴾**
+> *« Et lorsque tu te trouves parmi eux et que tu les diriges dans la prière, qu'un groupe d'entre eux se lève avec toi. »*
+> — [An-Nisa : 102]
+
+### La Sunnah
+
+> عَنْ **أَبِي هُرَيْرَةَ** رَضِيَ اللهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللهِ ﷺ:
+> **« صَلَاةُ الْجَمَاعَةِ أَفْضَلُ مِنْ صَلَاةِ أَحَدِكُمْ وَحْدَهُ بِسَبْعٍ وَعِشْرِينَ دَرَجَةً »**
+> *« La prière en groupe est supérieure à la prière individuelle de vingt-sept degrés. »*
+> — Sahih Al-Bukhari (645), Sahih Muslim (650)
+
+> عَنْ **أَبِي هُرَيْرَةَ** رَضِيَ اللهُ عَنْهُ أَنَّ رَسُولَ اللهِ ﷺ قَالَ:
+> **« لَقَدْ هَمَمْتُ أَنْ آمُرَ بِالصَّلَاةِ فَتُقَامَ، ثُمَّ آمُرَ رَجُلًا فَيُصَلِّيَ بِالنَّاسِ، ثُمَّ أَنْطَلِقَ مَعِي بِرِجَالٍ مَعَهُمْ حُزَمٌ مِنْ حَطَبٍ إِلَى قَوْمٍ لَا يَشْهَدُونَ الصَّلَاةَ فَأُحَرِّقَ عَلَيْهِمْ بُيُوتَهُمْ بِالنَّارِ »**
+> *« J'ai certes songé à ordonner la prière, puis à commander un homme de diriger les gens, puis à partir avec des hommes portant des fagots de bois vers ceux qui n'assistent pas à la prière et à brûler leurs maisons. »*
+> — Sahih Al-Bukhari (644), Sahih Muslim (651)
+
+> عَنْ **أَبِي هُرَيْرَةَ** رَضِيَ اللهُ عَنْهُ قَالَ: أَتَى النَّبِيَّ ﷺ رَجُلٌ أَعْمَى فَقَالَ: يَا رَسُولَ اللهِ، إِنَّهُ لَيْسَ لِي قَائِدٌ يَقُودُنِي إِلَى الْمَسْجِدِ، فَسَأَلَ رَسُولَ اللهِ ﷺ أَنْ يُرَخِّصَ لَهُ فَيُصَلِّيَ فِي بَيْتِهِ، فَرَخَّصَ لَهُ، فَلَمَّا وَلَّى دَعَاهُ فَقَالَ:
+> **« هَلْ تَسْمَعُ النِّدَاءَ بِالصَّلَاةِ؟ » قَالَ: نَعَمْ. قَالَ: « فَأَجِبْ »**
+> *« Entends-tu l'appel à la prière ? — Oui. — Alors réponds-y. »*
+> — Sahih Muslim (653)
+
+### 📚 Référencement (التخريج)
+
+| Source | Numéro | Statut |
+|--------|--------|--------|
+| **Sahih Al-Bukhari** | 644, 645 | ✅ Sahih |
+| **Sahih Muslim** | 650, 651, 653 | ✅ Sahih |
+
+---
+
+## 🎓 Paroles des Savants (أقوال العلماء)
+
+> **Imam Malik** رحمه الله a dit dans *Al-Mudawwana* :
+> *« La prière en groupe est une Sunna Mu'akkada. Celui qui la délaisse régulièrement sans excuse est blâmable. »*
+
+> **Ibn Rushd** رحمه الله a écrit dans *Bidayat Al-Mujtahid* :
+> *« Les savants ont divergé sur le statut de la prière en groupe : certains l'ont rendue obligatoire, d'autres fortement recommandée. »*
+
+> **Ibn Qudama** رحمه الله a mentionné dans *Al-Mughni* :
+> *« La prière en groupe est une obligation individuelle selon l'imam Ahmad, à cause du hadith de l'aveugle. »*
+
+---
+
+## 🔍 Analyse Linguistique (التحليل اللغوي)
+
+### Tableau de vocabulaire
+
+| Terme Arabe | Translittération | Racine | Définition Technique |
+|-------------|------------------|--------|---------------------|
+| **جَمَاعَة** | Jama'a | ج-م-ع | Groupe, assemblée de priants |
+| **إِمَام** | Imam | أ-م-م | Celui qui dirige la prière |
+| **مَأْمُوم** | Ma'mum | أ-م-م | Celui qui suit l'imam |
+| **صَفّ** | Saff | ص-ف-ف | Rang de prière |
+| **اِقْتِدَاء** | Iqtida' | ق-د-ي | Action de suivre l'imam |
+
+---
+
+## 📚 Explication Détaillée (الشرح المفصل)
+
+### 🔷 Définition de la Prière en Groupe
+
+**Linguistiquement :** La jama'a désigne le rassemblement et l'union des personnes.
+
+**En Charia :** C'est le fait qu'un ou plusieurs priants (ma'mum) suivent un imam dans la prière, en liant leurs actes aux siens.
+
+### 🔷 Le Statut Juridique (الحكم الشرعي)
+
+#### 📌 Détail de l'avis Malikite
 
 Selon l'école Malikite, la prière en groupe pour les cinq prières quotidiennes est une **Sunna Mu'akkada** (tradition prophétique fortement recommandée). Son abandon sans excuse valable est blâmable (makruh) mais ne constitue pas un péché majeur.
 
@@ -160,7 +220,29 @@ Selon l'école Malikite, la prière en groupe pour les cinq prières quotidienne
 
 ---
 
-## ⚖️ 5. Suivre l'Imam (متابعة الإمام)
+## ⚖️ Points de vue des Écoles (آراء المذاهب)
+
+| Question | 🟡 Malikite | 🟢 Hanafite | 🔵 Shafiite | 🟣 Hanbalite |
+|----------|-------------|-------------|-------------|--------------|
+| **Statut de la jama'a** | **Sunna Mu'akkada** | Sunna Mu'akkada (Wajib selon certains) | Fard Kifaya | Fard 'Ayn |
+| **Prier seul derrière le rang** | **Valide mais makruh** | Valide mais makruh | Valide mais makruh | Invalide |
+| **Réciter la Fatiha derrière l'imam** | **Ne pas réciter** (prière à voix haute) | Ne pas réciter | Obligatoire | Obligatoire |
+| **Lever les mains aux takbirat de transition** | **Non** | Non | Oui | Oui |
+| **Femme imam d'hommes** | **Invalide** | Invalide | Invalide | Invalide |
+
+### 📌 Position Malikite Détaillée
+
+Les Malikites considèrent que :
+- La prière en groupe est **Sunna Mu'akkada**, pas obligatoire
+- Le ma'mum ne récite pas la Fatiha derrière l'imam dans les prières à voix haute
+- Prier seul derrière le rang est makruh mais la prière reste valide
+- L'imam ne doit pas trop prolonger la prière par considération pour les fidèles
+
+> 💡 **Particularité Malikite** : Le maître de maison a priorité pour diriger la prière chez lui, même s'il y a quelqu'un de plus savant, sauf s'il cède sa place.
+
+---
+
+## 📚 Suivre l'Imam (متابعة الإمام)
 
 ### 📋 L'obligation de suivre l'imam
 
@@ -192,58 +274,85 @@ Le priant (ma'mum) doit suivre l'imam dans tous ses mouvements, sans le devancer
 
 ---
 
-## 💡 6. Cas Pratiques (مسائل عملية)
+## 🌍 Applications Modernes (التطبيقات المعاصرة)
 
-### 📌 Arrivée en retard à la mosquée
-
-| Ce qu'on rattrape | Statut |
-|-------------------|--------|
-| **Le ruku' avec l'imam** | On a rattrapé la rak'a complète |
-| **Après le ruku'** | On a manqué cette rak'a, on la complète après |
-| **Le tashahhud final seulement** | On obtient le mérite de la jama'a mais on refait toutes les rak'at |
-
-### 📌 L'imam fait une erreur
-
-| Type d'erreur | Ce que fait le ma'mum |
-|---------------|----------------------|
-| **Erreur dans la récitation** | Dire « Subhan Allah » (hommes) ou taper des mains (femmes) |
-| **Oubli d'un pilier** | Le rappeler par « Subhan Allah » |
-| **Ajout d'une rak'a** | Ne pas le suivre si on est sûr, s'asseoir et l'attendre |
-| **Oubli du tashahhud du milieu** | Le suivre s'il s'est relevé |
-
-### 📌 Excuses valides pour ne pas assister à la jama'a
-
-| Excuse | Preuve |
-|--------|--------|
-| **Pluie forte** | Ibn 'Umar ordonnait de prier chez soi par temps de pluie — Al-Bukhari (666) |
-| **Froid ou vent violent** | Idem |
-| **Maladie** | « Quand l'un de vous est malade... » — Al-Bukhari (664) |
-| **Présence de nourriture** | « Pas de prière en présence de nourriture » — Muslim (560) |
-| **Besoin naturel pressant** | « Pas de prière quand le repas est servi, ni quand on se retient » — Muslim (560) |
-| **Peur sur sa personne ou ses biens** | Dispense générale pour la difficulté |
+| Situation Moderne | Problème | Solution Jurisprudentielle |
+|-------------------|----------|---------------------------|
+| 🏢 **Prière au travail** | Pas de mosquée à proximité | Prier en groupe avec les collègues musulmans dans un espace dédié |
+| 🏠 **Confinement/Épidémie** | Impossibilité d'aller à la mosquée | Prier en groupe avec sa famille à la maison |
+| 🚗 **Aire d'autoroute** | Voyage et heure de prière | Former un groupe avec d'autres voyageurs musulmans |
+| 📱 **Retransmission en ligne** | Suivre un imam via écran | Non valide - la jama'a nécessite la présence physique |
+| 👩 **Femmes à la mosquée** | Espace réservé aux femmes | Valide avec récompense, mais prier chez elle reste préférable |
 
 ---
 
-## 🎯 Résumé
+## ⚠️ Erreurs Courantes (الأخطاء الشائعة)
 
-| Point | Résumé |
-|-------|--------|
-| **Statut (Maliki)** | Sunna Mu'akkada |
-| **Mérite** | 25 à 27 degrés de supériorité |
-| **Priorité imam** | Le plus versé dans le Coran |
-| **Rangs** | Aligner, combler, compléter les premiers |
-| **Suivre l'imam** | Obligatoire, sans devancer ni retarder |
-| **Seul derrière le rang** | Makruh (invalide chez les Hanbalites) |
+| Erreur | ❌ Ce que les gens font | ✅ Ce qu'il faut faire |
+|--------|------------------------|------------------------|
+| **Devancer l'imam** | Descendre en ruku' avant lui | Attendre que l'imam termine son mouvement |
+| **Retarder excessivement** | Rester debout longtemps après lui | Le suivre immédiatement |
+| **Couper les rangs** | Passer devant les priants | Contourner par l'arrière |
+| **Prier seul derrière le rang** | Commencer seul si le rang est plein | Tirer quelqu'un du rang ou attendre |
+| **Parler pendant la prière** | Corriger l'imam en parlant | Dire « Subhan Allah » |
 
 ---
 
-## 📚 Sources
+## ❓ FAQ (الأسئلة الشائعة)
 
-1. Sahih Al-Bukhari, Hadiths n° 445, 580, 619, 644, 645, 647, 664, 666, 691, 717, 723, 734, 783
-2. Sahih Muslim, Hadiths n° 411, 427, 433, 436, 440, 560, 602, 607, 649, 650, 651, 653, 673
-3. Sunan Abu Dawud, Hadith n° 666
-4. Sunan Ibn Majah, Hadith n° 1003
-5. Al-Mudawwana de l'Imam Malik
-6. Al-Mughni d'Ibn Qudama
-7. Bidayat Al-Mujtahid d'Ibn Rushd
+**Q1 : La prière en groupe est-elle obligatoire ou recommandée ?**
+> 🟡 Selon les Malikites, elle est **Sunna Mu'akkada** (fortement recommandée). La délaisser régulièrement sans excuse est blâmable mais n'invalide pas la prière individuelle.
+
+**Q2 : Puis-je prier seul si j'arrive et trouve le rang complet ?**
+> Il faut essayer de faire signe à quelqu'un pour qu'il recule avec toi, ou attendre qu'un autre arrive. Prier seul derrière le rang est makruh (blâmable) et invalide selon les Hanbalites.
+
+**Q3 : Si j'arrive au moment du ruku', ai-je rattrapé la rak'a ?**
+> Oui, si tu fais le takbirat al-ihram et que tu atteins l'imam en ruku', tu as rattrapé cette rak'a complète.
+
+**Q4 : Puis-je me désolidariser de l'imam s'il prolonge trop ?**
+> Oui, si l'imam prolonge au point de causer une réelle difficulté (maladie, besoin urgent), tu peux terminer seul et partir.
+
+**Q5 : Les femmes doivent-elles prier en groupe ?**
+> Ce n'est pas obligatoire pour elles. Leur prière chez elles est préférable, mais si elles vont à la mosquée, leur prière en groupe est valide et récompensée.
+
+---
+
+## 🎯 Action Concrète
+
+**Cette semaine, engage-toi pour la jama'a :**
+
+1. **Planifie** — Identifie les prières que tu peux accomplir en groupe (mosquée, travail, famille)
+2. **Arrive tôt** — Viens avant l'iqama pour obtenir le premier rang et les invocations entre adhan et iqama
+3. **Aligne-toi** — Assure-toi que ton rang est droit, épaules et chevilles alignées
+4. **Concentre-toi** — Évite de regarder autour de toi et de bouger inutilement
+
+> 💡 **Conseil** : Le Prophète ﷺ a dit que les anges invoquent pour celui qui attend la prière dans son lieu de prière. Arrive tôt et profite de cette bénédiction.
+
+---
+
+## 📝 Invocation de Clôture
+
+<div dir="rtl">
+
+**اللَّهُمَّ اجْعَلْنَا مِمَّنْ يُقِيمُ الصَّلَاةَ وَيُحَافِظُ عَلَيْهَا فِي الْجَمَاعَةِ، وَاجْعَلْنَا مِنَ الَّذِينَ يَسْتَمِعُونَ الْقَوْلَ فَيَتَّبِعُونَ أَحْسَنَهُ**
+
+</div>
+
+> *« Ô Allah, fais de nous ceux qui accomplissent la prière et la préservent en groupe, et fais de nous ceux qui écoutent la parole et suivent ce qu'il y a de meilleur. »*
+
+---
+
+## 📚 Sources et Références
+
+1. **Sahih Al-Bukhari** — Hadiths n° 445, 580, 619, 644, 645, 647, 664, 666, 691, 717, 723, 734
+2. **Sahih Muslim** — Hadiths n° 411, 427, 433, 436, 440, 560, 649, 650, 651, 653, 673
+3. **Sunan Abu Dawud** — Hadith n° 666
+4. **Sunan Ibn Majah** — Hadith n° 1003
+5. **Al-Mudawwana** — Imam Malik
+6. **Al-Mughni** — Ibn Qudama
+7. **Bidayat Al-Mujtahid** — Ibn Rushd
+
+---
+
+**والله أعلم** — واللهُ تَعَالَى أَعْلَى وَأَعْلَم
 `;

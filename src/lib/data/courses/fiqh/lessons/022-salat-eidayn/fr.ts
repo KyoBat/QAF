@@ -3,11 +3,71 @@
  * Contenu en Français - Approche Multi-Madhhab (Priorité Maliki)
  */
 
-export const content = `# Le Fiqh des Prières Spéciales
+export const content = `# 📜 صَلَاةُ الْعِيدَيْنِ — La Prière des Deux Fêtes
 
-## 📖 La Prière des Deux Fêtes (صلاة العيدين)
+> *« Allah vous a remplacé ces deux jours par deux meilleurs : le jour d'Al-Adha, et le jour d'Al-Fitr »* — Les fêtes islamiques sont des occasions de gratitude et de rapprochement d'Allah.
 
-Louange à Allah qui nous a guidés et nous ne l'aurions pas été sans Sa guidance. Que la paix et les bénédictions soient sur notre Prophète Muhammad ﷺ. Allah a accordé à cette communauté deux fêtes bénies : l'Aïd Al-Fitr après le Ramadan, et l'Aïd Al-Adha le 10 de Dhu Al-Hijjah.
+---
+
+## 📜 Textes Fondateurs (النصوص الأساسية)
+
+### La Sunnah
+
+> عَنْ **أَنَسِ بْنِ مَالِكٍ** رَضِيَ اللهُ عَنْهُ قَالَ: قَدِمَ رَسُولُ اللهِ ﷺ الْمَدِينَةَ وَلَهُمْ يَوْمَانِ يَلْعَبُونَ فِيهِمَا، فَقَالَ:
+> **« قَدْ أَبْدَلَكُمُ اللهُ بِهِمَا خَيْرًا مِنْهُمَا: يَوْمَ الْأَضْحَى وَيَوْمَ الْفِطْرِ »**
+> *« Allah vous a remplacé ces deux jours par deux meilleurs : le jour d'Al-Adha et le jour d'Al-Fitr. »*
+> — Sunan Abu Dawud (1134)
+
+> عَنْ **أُمِّ عَطِيَّةَ** رَضِيَ اللهُ عَنْهَا قَالَتْ:
+> **« أَمَرَنَا رَسُولُ اللهِ ﷺ أَنْ نُخْرِجَ فِي الْعِيدَيْنِ الْعَوَاتِقَ وَذَوَاتِ الْخُدُورِ »**
+> *« Le Messager d'Allah ﷺ nous a ordonné de faire sortir pour les deux Aïds les jeunes filles et les femmes recluses. »*
+> — Sahih Al-Bukhari (974), Sahih Muslim (890)
+
+> عَنْ **أَنَسِ بْنِ مَالِكٍ** رَضِيَ اللهُ عَنْهُ قَالَ:
+> **« كَانَ رَسُولُ اللهِ ﷺ لَا يَغْدُو يَوْمَ الْفِطْرِ حَتَّى يَأْكُلَ تَمَرَاتٍ، وَيَأْكُلُهُنَّ وِتْرًا »**
+> *« Le Messager d'Allah ﷺ ne sortait pas le jour de Fitr avant de manger des dattes, et il les mangeait en nombre impair. »*
+> — Sahih Al-Bukhari (953)
+
+### 📚 Référencement (التخريج)
+
+| Source | Numéro | Statut |
+|--------|--------|--------|
+| **Sahih Al-Bukhari** | 953, 974, 986 | ✅ Sahih |
+| **Sahih Muslim** | 890 | ✅ Sahih |
+| **Sunan Abu Dawud** | 1134 | ✔️ Hasan |
+
+---
+
+## 🎓 Paroles des Savants (أقوال العلماء)
+
+> **Imam Malik** رحمه الله a dit dans *Al-Mudawwana* :
+> *« La prière du Aïd est une Sunna Mu'akkada. Il est détestable de la délaisser sans excuse. »*
+
+> **Ibn Rushd** رحمه الله a écrit dans *Bidayat Al-Mujtahid* :
+> *« Les savants ont divergé sur le nombre de takbirat supplémentaires dans la prière du Aïd. »*
+
+> **Ibn 'Abd Al-Barr** رحمه الله a mentionné dans *Al-Kafi* :
+> *« Les Malikites disent : 6 takbirat dans la première rak'a après l'ihram, et 5 dans la seconde après le relèvement. »*
+
+---
+
+## 🔍 Analyse Linguistique (التحليل اللغوي)
+
+### Tableau de vocabulaire
+
+| Terme Arabe | Translittération | Racine | Définition Technique |
+|-------------|------------------|--------|---------------------|
+| **عِيد** | 'Id | ع-و-د | Fête qui revient chaque année |
+| **فِطْر** | Fitr | ف-ط-ر | Rupture du jeûne |
+| **أَضْحَى** | Adha | ض-ح-و | Sacrifice, immolation |
+| **مُصَلَّى** | Musalla | ص-ل-و | Esplanade de prière |
+| **تَكْبِير** | Takbir | ك-ب-ر | Proclamation de la grandeur d'Allah |
+
+---
+
+## 📚 Explication Détaillée (الشرح المفصل)
+
+### 🔷 Statut de la Prière du Aïd
 
 <div class="scene-box">
 
@@ -21,254 +81,177 @@ Louange à Allah qui nous a guidés et nous ne l'aurions pas été sans Sa guida
 
 </div>
 
-**📍 Rapporteur :** Anas ibn Malik رضي الله عنه — Abu Dawud (1134)
-
----
-
-## 🔍 1. Statut de la Prière du Aïd
-
-### ⚠️ Divergence sur le statut
-
-| École | Statut | Détail |
-|-------|--------|--------|
-| 🟡 **Maliki** | **Sunna Mu'akkadah** | Fortement recommandée |
-| 🟢 Hanafi | **Wajib** (obligatoire) | Pour ceux sur qui Jumu'ah est obligatoire |
-| 🔵 Shafi'i | Sunna Mu'akkadah | Recommandée |
-| 🟣 Hanbali | **Fard Kifaya** | Obligation collective |
-
-> 💡 **Position Malikite :** La prière du Aïd est une Sunna Mu'akkadah (fortement recommandée), mais la négliger sans excuse est blâmable.
-
-### 📌 Pour qui ?
-
-| Catégorie | Règle |
-|-----------|-------|
-| **Hommes** | Fortement recommandée |
-| **Femmes** | Recommandée (sortir avec pudeur) |
-| **Enfants** | Les emmener pour s'habituer |
-| **Voyageur** | Recommandée s'il trouve un groupe |
-
----
-
-## 🔷 2. Le Temps de la Prière
-
-### 📋 Entrée et sortie du temps
+### 🔷 Le Temps de la Prière
 
 | Point | Règle |
 |-------|-------|
-| **Début** | Quand le soleil s'élève d'une hauteur de lance (environ 15-20 min après le lever) |
+| **Début** | Quand le soleil s'élève d'une hauteur de lance (~15-20 min après le lever) |
 | **Fin** | Au zénith (zawal) |
-| **Retard** | Si le soleil est découvert après le zawal, on prie le lendemain |
+| **Différence entre les deux Aïds** | Fitr : retarder (Zakat), Adha : avancer (sacrifice) |
 
-### 📌 Différence entre les deux Aïds
-
-| Aïd | Recommandation |
-|-----|----------------|
-| **Aïd Al-Fitr** | **Retarder** la prière pour permettre le paiement de Zakat Al-Fitr |
-| **Aïd Al-Adha** | **Avancer** la prière pour permettre le sacrifice |
-
----
-
-## 📚 3. Description de la Prière
-
-### 📋 Structure générale
+### 🔷 Description de la Prière
 
 | Élément | Description |
 |---------|-------------|
 | **Nombre de rak'at** | 2 rak'at |
 | **Sans adhan ni iqama** | On commence directement |
 | **Récitation** | À voix haute |
-| **Sourates recommandées** | Al-A'la (1ère), Al-Ghashiya (2ème) ou Qaf et Al-Qamar |
+| **Sourates recommandées** | Al-A'la (1ère), Al-Ghashiya (2ème) |
 
-### ⚠️ DIVERGENCE MAJEURE : Les Takbirat
-
-| École | 1ère Rak'a | 2ème Rak'a | Moment |
-|-------|-----------|-----------|--------|
-| 🟡 **Maliki** | **6 après ihram** | **5 après relèvement** | Avant la lecture |
-| 🟢 Hanafi | 3 après ihram | 3 avant ruku' | Variable |
-| 🔵 Shafi'i | 7 après ihram | 5 après relèvement | Avant la lecture |
-| 🟣 Hanbali | 6 après ihram | 5 après relèvement | Avant la lecture |
+### 🔷 Les Takbirat (Méthode Malikite)
 
 > 💡 **Méthode Malikite :**
-> - 1ère Rak'a : Takbirat al-ihram + **6 takbirat** + lecture
-> - 2ème Rak'a : Takbira du relèvement + **5 takbirat** + lecture
+> - **1ère Rak'a** : Takbirat al-ihram + **6 takbirat** + lecture
+> - **2ème Rak'a** : Takbira du relèvement + **5 takbirat** + lecture
 
-### 📌 Ce qu'on dit entre les takbirat
+| École | 1ère Rak'a | 2ème Rak'a | Total |
+|-------|-----------|-----------|-------|
+| 🟡 **Maliki** | **6 après ihram** | **5 après relèvement** | 11 |
+| 🟢 Hanafi | 3 après ihram | 3 avant ruku' | 6 |
+| 🔵 Shafi'i | 7 après ihram | 5 après relèvement | 12 |
+| 🟣 Hanbali | 6 après ihram | 5 après relèvement | 11 |
 
-| École | Ce qu'on dit |
-|-------|-------------|
-| 🟡 **Maliki** | **Rien d'obligatoire** (on peut dire SubhanAllah, Al-hamdulillah, etc.) |
-| 🟢 Hanafi | Rien |
-| 🔵 Shafi'i | SubhanAllah, Al-hamdulillah, La ilaha illAllah, Allahu akbar |
-| 🟣 Hanbali | SubhanAllah, Al-hamdulillah, La ilaha illAllah, Allahu akbar |
+### 🔷 Les Takbirat des Jours de Fête
 
-### 📌 Que faire des mains entre les takbirat ?
-
-| École | Geste |
-|-------|-------|
-| 🟡 **Maliki** | **Lever les mains** à chaque takbira, puis les laisser pendre |
-| 🟢 Hanafi | Lever les mains seulement à la 1ère |
-| 🔵 Shafi'i | Lever les mains à chaque takbira |
-| 🟣 Hanbali | Lever les mains à chaque takbira |
-
----
-
-## 🎯 4. La Khutba du Aïd
-
-### 📋 Place et statut
-
-| Aspect | Règle |
-|--------|-------|
-| **Quand** | **Après** la prière (contrairement à Jumu'ah) |
-| **Nombre** | 2 khutbas avec une assise entre les deux |
-| **Statut** | Sunna (recommandée, pas obligatoire) |
-| **Contenu Aïd Al-Fitr** | Zakat, reconnaissance à Allah |
-| **Contenu Aïd Al-Adha** | Sacrifice, jours de Tashreeq |
-
-### 📌 L'écoute de la khutba
-
-| Point | Règle |
-|-------|-------|
-| **Obligation** | Non obligatoire d'y assister |
-| **Mais** | Recommandé d'écouter |
-| **Partir avant** | Permis mais déconseillé |
-
----
-
-## ⚖️ 5. Les Takbirat des Jours de Fête
-
-### 📋 Takbirat de Aïd Al-Fitr
+#### 📋 Takbirat de Aïd Al-Fitr
 
 | Moment | Règle |
 |--------|-------|
-| **Début** | La nuit du Aïd (après Maghrib le dernier jour de Ramadan) |
+| **Début** | La nuit du Aïd (après Maghrib) |
 | **Fin** | Quand l'imam entre pour la prière |
 | **Lieu** | Partout : maison, rue, mosquée |
 
-### 📋 Takbirat de Aïd Al-Adha
+#### 📋 Takbirat de Aïd Al-Adha
 
 | Type | Période |
 |------|---------|
 | **Takbir Mutlaq** | Du 1er Dhu Al-Hijjah au 13 (à tout moment) |
-| **Takbir Muqayyad** | Du Fajr de 'Arafa (9) au 'Asr du 13 (après chaque prière) |
+| **Takbir Muqayyad** | Du Dhuhr du 10 au Subh du 13 (après chaque prière) — Malikite |
 
-### ⚠️ Divergence sur le Takbir Muqayyad
-
-| École | Du ... au ... |
-|-------|---------------|
-| 🟡 **Maliki** | **Dhuhr du jour du sacrifice** au Subh du 4ème jour |
-| 🟢 Hanafi | Fajr de 'Arafa au 'Asr du 13 |
-| 🔵 Shafi'i | Subh de 'Arafa au 'Asr du 13 |
-| 🟣 Hanbali | Fajr de 'Arafa au 'Asr du 13 |
-
-### 📌 Formule du Takbir
+#### 📌 Formule du Takbir
 
 > **اللهُ أَكْبَرُ، اللهُ أَكْبَرُ، لَا إِلَهَ إِلَّا اللهُ، وَاللهُ أَكْبَرُ، اللهُ أَكْبَرُ، وَلِلَّهِ الْحَمْدُ**
 
 *Allahu Akbar, Allahu Akbar, La ilaha illa Allah, wa Allahu Akbar, Allahu Akbar, wa lillahi al-hamd*
 
----
-
-## 💡 6. Les Sunnas du Jour du Aïd
-
-### 📋 Recommandations
+### 🔷 Les Sunnas du Jour du Aïd
 
 | Sunna | Détail |
 |-------|--------|
 | **Le Ghusl** | Avant la prière |
-| **Se parfumer** | Pour les hommes |
 | **Beaux habits** | Les plus beaux qu'on possède |
 | **Manger avant (Fitr)** | Des dattes en nombre impair |
 | **Jeûner (Adha)** | Ne rien manger jusqu'au retour et manger de sa bête |
 | **Aller par un chemin** | Et revenir par un autre |
 | **Prière en plein air** | Musalla (esplanade) si possible |
 
-### 📌 Le trajet différent
+---
 
-> Le Prophète ﷺ allait à la prière du Aïd par un chemin et revenait par un autre — Al-Bukhari (986)
+## ⚖️ Points de vue des Écoles (آراء المذاهب)
 
-### 📌 Manger des dattes
+| Question | 🟡 Malikite | 🟢 Hanafite | 🔵 Shafiite | 🟣 Hanbalite |
+|----------|-------------|-------------|-------------|--------------|
+| **Statut** | **Sunna Mu'akkadah** | Wajib | Sunna Mu'akkadah | Fard Kifaya |
+| **Takbirat 1ère rak'a** | **6 après ihram** | 3 après ihram | 7 après ihram | 6 après ihram |
+| **Takbirat 2ème rak'a** | **5 après relèvement** | 3 avant ruku' | 5 après relèvement | 5 après relèvement |
+| **Lever les mains** | **Oui, à chaque takbira** | Seulement à la 1ère | Oui | Oui |
+| **Rattrapage seul** | **Non** | Non | Oui, 2 rak'at | Oui |
+| **Takbir Muqayyad (Adha)** | **Dhuhr du 10 → Subh du 13** | Fajr 'Arafa → 'Asr du 13 | Subh 'Arafa → 'Asr du 13 | Fajr 'Arafa → 'Asr du 13 |
 
-> Le Prophète ﷺ ne sortait pas le jour de Fitr avant de manger des dattes, et il les mangeait en nombre impair — Al-Bukhari (953)
+### 📌 Position Malikite Détaillée
+
+Les Malikites considèrent que :
+- La prière du Aïd est **Sunna Mu'akkada**, pas obligatoire
+- **6 takbirat** après l'ihram dans la 1ère rak'a, **5** dans la 2ème
+- On **lève les mains** à chaque takbira supplémentaire
+- Si on manque la prière, on ne la **rattrape pas** seul (sauf en groupe)
+- Le Takbir Muqayyad va du **Dhuhr du 10** au **Subh du 13** de Dhu Al-Hijjah
+
+> 💡 **Particularité Malikite** : On ne dit rien d'obligatoire entre les takbirat, on peut garder le silence ou faire du dhikr.
 
 ---
 
-## 🔷 7. Le Lieu de la Prière
+## 🌍 Applications Modernes (التطبيقات المعاصرة)
 
-### 📋 Où prier ?
-
-| Lieu | Règle |
-|------|-------|
-| **Musalla (esplanade)** | Sunna et préférable |
-| **Mosquée** | Permis, surtout si pluie ou exiguïté |
-| **Chez soi** | Pour celui qui a manqué la prière en groupe |
-
-### 📌 Preuve de la musalla
-
-> Le Prophète ﷺ sortait le jour de Fitr et d'Adha vers la musalla — Al-Bukhari (956)
+| Situation Moderne | Problème | Solution Jurisprudentielle |
+|-------------------|----------|---------------------------|
+| 🏟️ **Grande esplanade** | Organisation de la prière | Préférer le musalla à la mosquée quand possible |
+| 🌧️ **Pluie le jour du Aïd** | Impossibilité de sortir | Prier à la mosquée |
+| ⏰ **Arrivée tardive** | On rate les takbirat | Rejoindre et faire ce qu'on peut |
+| 📅 **Aïd et Jumu'ah même jour** | Double obligation | 🟡 Malikites : les deux restent à accomplir |
+| 👩 **Femmes et Aïd** | Sortir ou rester | Recommandé de sortir avec pudeur |
 
 ---
 
-## 📝 8. Cas Pratiques
+## ⚠️ Erreurs Courantes (الأخطاء الشائعة)
 
-### 📌 Celui qui manque la prière
-
-| Situation | 🟡 Maliki | Autres |
-|-----------|-----------|--------|
-| **Seul** | Ne la rattrape pas | Hanafi : Non, Shafi'i/Hanbali : Oui, 2 rak'at |
-| **En groupe** | L'imam peut la refaire pour les retardataires | Oui |
-
-### 📌 Aïd et Jumu'ah le même jour
-
-| École | Règle |
-|-------|-------|
-| 🟡 **Maliki** | **Les deux sont obligatoires** (sunna mu'akkadah pour Aïd) |
-| 🟢 Hanafi | Les deux |
-| 🔵 Shafi'i | Celui qui a prié le Aïd est dispensé de Jumu'ah |
-| 🟣 Hanbali | Dispensé de Jumu'ah, mais prie Dhuhr |
-
-### 📌 Oubli des Takbirat supplémentaires
-
-| Situation | Règle |
-|-----------|-------|
-| **Avant le ruku'** | Les refaire |
-| **Après le ruku'** | Ignorées, prière valide |
-| **Sujud sahw** | Pas de sujud sahw chez les Malikites |
+| Erreur | ❌ Ce que les gens font | ✅ Ce qu'il faut faire |
+|--------|------------------------|------------------------|
+| **Faire l'adhan** | Appeler à la prière du Aïd | Pas d'adhan ni iqama |
+| **Faire la khutba avant** | Comme Jumu'ah | La khutba est **après** la prière |
+| **Oublier de manger (Fitr)** | Sortir à jeun | Manger des dattes en nombre impair |
+| **Mauvais nombre de takbirat** | Confondre les écoles | 🟡 Maliki : 6 puis 5 |
+| **Négliger le trajet différent** | Revenir par le même chemin | Aller par un chemin, revenir par un autre |
 
 ---
 
-## 9. Erreurs Courantes à Éviter
+## ❓ FAQ (الأسئلة الشائعة)
 
-### ❌ Ce qu'il ne faut pas faire
+**Q1 : Si j'oublie les takbirat supplémentaires, ma prière est-elle valide ?**
+> Oui, la prière est valide. Les takbirat sont Sunna, pas un pilier. Tu n'as pas à faire le sujud sahw chez les Malikites.
 
-| Erreur | Correction |
-|--------|------------|
-| Prier avant le lever complet du soleil | Attendre 15-20 min |
-| Faire l'adhan pour le Aïd | Pas d'adhan ni iqama |
-| Faire la khutba avant la prière | La khutba est après |
-| Serrer la main pendant la prière | Attendre après |
-| Quitter avant la khutba systématiquement | Écouter est recommandé |
+**Q2 : Puis-je rattraper la prière du Aïd seul si je la manque ?**
+> 🟡 Selon les Malikites et Hanafites, **non**. Selon les Shafi'ites et Hanbalites, tu peux prier 2 rak'at seul.
 
----
+**Q3 : Combien de takbirat dans chaque rak'a selon le madhhab Maliki ?**
+> 🟡 **6 takbirat** dans la 1ère rak'a (après l'ihram) et **5 takbirat** dans la 2ème (après le relèvement).
 
-## 🎯 Résumé
+**Q4 : Que dit-on entre les takbirat ?**
+> 🟡 Selon les Malikites, rien d'obligatoire. Tu peux garder le silence ou dire SubhanAllah, Al-hamdulillah, etc.
 
-| Point | Règle Malikite |
-|-------|----------------|
-| **Statut** | Sunna Mu'akkadah |
-| **Takbirat 1ère rak'a** | 6 après l'ihram |
-| **Takbirat 2ème rak'a** | 5 après le relèvement |
-| **Khutba** | Après la prière |
-| **Takbir Muqayyad (Adha)** | Du Dhuhr du 10 au Subh du 13 |
-| **Rattrapage** | Pas de rattrapage individuel |
+**Q5 : La prière du Aïd est-elle obligatoire pour les femmes ?**
+> Non, mais il est recommandé pour elles de sortir (avec pudeur) pour participer à la joie collective.
 
 ---
 
-## 📚 Sources
+## 🎯 Action Concrète
 
-1. Sahih Al-Bukhari, Hadiths n° 953, 956, 986
-2. Sunan Abu Dawud, Hadith n° 1134
-3. Al-Mudawwana de l'Imam Malik
-4. Mukhtasar Khalil
-5. Bidayat Al-Mujtahid d'Ibn Rushd
-6. Al-Kafi d'Ibn 'Abd Al-Barr
+**Ce Aïd, applique ces sunnas :**
+
+1. **Ghusl** — Fais le bain rituel le matin
+2. **Beaux habits** — Mets tes plus beaux vêtements
+3. **Manger** — (Fitr) Des dattes en nombre impair / (Adha) Ne rien manger jusqu'au retour
+4. **Takbir** — Récite le takbir en allant à la prière
+5. **Trajet** — Va par un chemin, reviens par un autre
+6. **Félicite** — Dis "Taqabbal Allahu minna wa minkum" à tes frères
+
+> 💡 **Conseil** : Le jour du Aïd est un jour de joie et de gratitude. Souris, partage et fais des invocations.
+
+---
+
+## 📝 Invocation de Clôture
+
+<div dir="rtl">
+
+**تَقَبَّلَ اللهُ مِنَّا وَمِنْكُمْ صَالِحَ الْأَعْمَالِ، وَكُلُّ عَامٍ وَأَنْتُمْ بِخَيْرٍ**
+
+</div>
+
+> *« Qu'Allah accepte de nous et de vous les bonnes œuvres. Bonne fête à vous chaque année. »*
+
+---
+
+## 📚 Sources et Références
+
+1. **Sahih Al-Bukhari** — Hadiths n° 953, 974, 986
+2. **Sahih Muslim** — Hadith n° 890
+3. **Sunan Abu Dawud** — Hadith n° 1134
+4. **Al-Mudawwana** — Imam Malik
+5. **Mukhtasar Khalil**
+6. **Bidayat Al-Mujtahid** — Ibn Rushd
+7. **Al-Kafi** — Ibn 'Abd Al-Barr
+
+---
+
+**والله أعلم** — واللهُ تَعَالَى أَعْلَى وَأَعْلَم
 `;

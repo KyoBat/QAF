@@ -3,13 +3,77 @@
  * Contenu en Français - Approche Multi-Madhhab (Priorité Maliki)
  */
 
-export const content = `# Le Fiqh des Prières Spéciales
+export const content = `# 📜 صَلَاةُ الْمَرِيضِ — La Prière du Malade
 
-## 📖 La Prière du Malade (صلاة المريض)
+> *« Craignez Allah autant que vous le pouvez »* — La maladie n'exempte jamais de la prière tant que la raison est présente. La prière s'adapte selon la capacité.
 
-Louange à Allah qui n'a pas imposé à Ses serviteurs ce qu'ils ne peuvent supporter. Que la paix et les bénédictions soient sur notre Prophète Muhammad ﷺ qui a enseigné les facilités pour le malade. La maladie n'exempte jamais de la prière tant que la raison est présente.
+---
 
-> Allah تعالى dit : **« Craignez Allah autant que vous le pouvez »** — At-Taghabun : 16
+## 📜 Textes Fondateurs (النصوص الأساسية)
+
+### Le Coran
+
+> **﴿ فَاتَّقُوا اللَّهَ مَا اسْتَطَعْتُمْ ﴾**
+> *« Craignez Allah autant que vous le pouvez. »*
+> — [At-Taghabun : 16]
+
+> **﴿ لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسْعَهَا ﴾**
+> *« Allah n'impose à aucune âme une charge supérieure à sa capacité. »*
+> — [Al-Baqarah : 286]
+
+### La Sunnah
+
+> عَنْ **عِمْرَانَ بْنِ حُصَيْنٍ** رَضِيَ اللهُ عَنْهُ قَالَ: كَانَتْ بِي بَوَاسِيرُ، فَسَأَلْتُ النَّبِيَّ ﷺ عَنِ الصَّلَاةِ، فَقَالَ:
+> **« صَلِّ قَائِمًا، فَإِنْ لَمْ تَسْتَطِعْ فَقَاعِدًا، فَإِنْ لَمْ تَسْتَطِعْ فَعَلَى جَنْبٍ »**
+> *« Prie debout, si tu ne peux pas alors assis, si tu ne peux pas alors sur le côté. »*
+> — Sahih Al-Bukhari (1117)
+
+> عَنْ **عَائِشَةَ** رَضِيَ اللهُ عَنْهَا قَالَتْ:
+> **« رَأَيْتُ النَّبِيَّ ﷺ يُصَلِّي مُتَرَبِّعًا »**
+> *« J'ai vu le Prophète ﷺ prier en tailleur. »*
+> — Sunan An-Nasa'i (authentifié)
+
+### 📚 Référencement (التخريج)
+
+| Source | Numéro | Statut |
+|--------|--------|--------|
+| **Sahih Al-Bukhari** | 1117 | ✅ Sahih |
+| **Sunan An-Nasa'i** | — | ✅ Sahih |
+
+---
+
+## 🎓 Paroles des Savants (أقوال العلماء)
+
+> **Imam Malik** رحمه الله a dit dans *Al-Mudawwana* :
+> *« Le malade prie selon sa capacité et sa prière est valide. La maladie n'exempte jamais de la prière tant que l'esprit est présent. »*
+
+> **Ibn Qudama** رحمه الله a écrit dans *Al-Mughni* :
+> *« Celui qui ne peut pas se prosterner fait signe avec sa tête, et sa prosternation doit être plus basse que son inclinaison. »*
+
+> **An-Nawawi** رحمه الله a mentionné dans *Al-Majmu'* :
+> *« La prière ne tombe jamais. Même celui qui ne peut bouger que ses yeux ou son cœur doit prier. »*
+
+---
+
+## 🔍 Analyse Linguistique (التحليل اللغوي)
+
+### Tableau de vocabulaire
+
+| Terme Arabe | Translittération | Racine | Définition Technique |
+|-------------|------------------|--------|---------------------|
+| **مَرِيض** | Marid | م-ر-ض | Malade, personne atteinte d'une maladie |
+| **إِيمَاء** | Ima' | أ-و-م | Faire signe (avec la tête, les yeux) |
+| **قَاعِد** | Qa'id | ق-ع-د | Assis |
+| **مُضْطَجِع** | Mudtaji' | ض-ج-ع | Allongé sur le côté |
+| **مُسْتَلْقٍ** | Mustalqi | ل-ق-ي | Allongé sur le dos |
+
+---
+
+## 📚 Explication Détaillée (الشرح المفصل)
+
+### 🔷 Principe Fondamental
+
+**La prière ne tombe jamais** tant que la raison est présente. Le malade conscient doit prier selon sa capacité.
 
 <div class="scene-box">
 
@@ -25,29 +89,9 @@ Louange à Allah qui n'a pas imposé à Ses serviteurs ce qu'ils ne peuvent supp
 
 </div>
 
-**📍 Rapporteur :** 'Imran ibn Husayn رضي الله عنه — Al-Bukhari (1117)
-
 > 📌 **Leçon :** Ce hadith monumental montre que la prière ne tombe jamais, elle s'adapte selon la capacité.
 
----
-
-## 🔍 1. Principe Fondamental
-
-### 📌 La prière ne tombe jamais
-
-| Principe | Explication |
-|----------|-------------|
-| **Tant que la raison est présente** | Le malade conscient doit prier |
-| **Selon sa capacité** | Faire ce qu'on peut, délaisser ce qu'on ne peut pas |
-| **Pas de rattrapage si inconscient** | La folie et l'évanouissement long exemptent |
-
-> 💡 **Règle d'or :** La prière est le dernier pilier à tomber. Même le mourant doit prier par signes s'il le peut.
-
----
-
-## 🔷 2. Les Positions de Prière par Ordre de Priorité
-
-### 📋 Hiérarchie des positions
+### 🔷 Les Positions de Prière par Ordre de Priorité
 
 | Priorité | Position | Arabe | Condition |
 |----------|----------|-------|-----------|
@@ -57,17 +101,7 @@ Louange à Allah qui n'a pas imposé à Ses serviteurs ce qu'ils ne peuvent supp
 | 4️⃣ | **Sur le dos** | على ظهر | Si incapable du côté |
 | 5️⃣ | **Par signes** | بالإيماء | Si incapable de tout mouvement |
 
-### 📌 Preuves
-
-> Le Prophète ﷺ a dit : **« Prie debout, si tu ne peux pas alors assis, si tu ne peux pas alors sur le côté »** — Al-Bukhari (1117)
-
-> Dans une version : **« Si tu ne peux pas, alors sur le dos »** — An-Nasa'i
-
----
-
-## 📚 3. La Prière Debout avec Appui
-
-### 📋 Quand peut-on s'appuyer ?
+### 🔷 La Prière Debout avec Appui
 
 | Situation | Règle |
 |-----------|-------|
@@ -75,20 +109,9 @@ Louange à Allah qui n'a pas imposé à Ses serviteurs ce qu'ils ne peuvent supp
 | **Appui total (serait assis sans)** | Prier assis est meilleur |
 | **Se pencher sur un bâton** | Permis pour les personnes âgées |
 
-### ⚠️ Avis des écoles sur l'appui
+### 🔷 La Prière Assis
 
-| École | Avis |
-|-------|------|
-| 🟡 **Maliki** | **Makruh** sauf nécessité, sinon permis |
-| 🟢 Hanafi | Permis si besoin |
-| 🔵 Shafi'i | Permis mais debout sans appui est meilleur |
-| 🟣 Hanbali | Permis si nécessaire |
-
----
-
-## 🎯 4. La Prière Assis
-
-### 📋 Comment s'asseoir ?
+#### 📋 Comment s'asseoir ?
 
 | Position | Description | Avis |
 |----------|-------------|------|
@@ -96,25 +119,13 @@ Louange à Allah qui n'a pas imposé à Ses serviteurs ce qu'ils ne peuvent supp
 | **Iftirash** | Assis sur le pied gauche | ✅ Permis |
 | **Comme on veut** | Toute position confortable | ✅ Permis |
 
-### 📌 L'inclinaison et la prosternation assis
-
-| Mouvement | Comment faire |
-|-----------|---------------|
-| **Ruku' (inclinaison)** | Se pencher vers l'avant |
-| **Sujud (prosternation)** | Se pencher plus bas que le ruku' |
-| **Si impossible de toucher le sol** | Se pencher au maximum possible |
-
-### 📌 La récompense de la prière assis
+#### 📌 La récompense de la prière assis
 
 > Le Prophète ﷺ a dit : **« La prière de l'homme assis équivaut à la moitié de celle de l'homme debout »** — Al-Bukhari (1115)
 
 > 💡 **Précision :** Ceci concerne le priant **capable** de se lever qui choisit de s'asseoir pour les nawafil. Le malade **incapable** a la récompense complète.
 
----
-
-## ⚖️ 5. La Prière Allongé
-
-### 📋 Sur quel côté ?
+### 🔷 La Prière Allongé
 
 | Position | Priorité | Direction |
 |----------|----------|-----------|
@@ -122,42 +133,15 @@ Louange à Allah qui n'a pas imposé à Ses serviteurs ce qu'ils ne peuvent supp
 | **Côté gauche** | 2️⃣ Si impossible | Visage vers la Qibla |
 | **Sur le dos** | 3️⃣ Dernier recours | Pieds vers la Qibla |
 
-### 📌 Comment faire les mouvements ?
+### 🔷 La Prière par Signes (الإيماء)
 
-| Mouvement | Allongé sur le côté | Allongé sur le dos |
-|-----------|---------------------|-------------------|
-| **Ruku'** | Incliner la tête | Incliner la tête |
-| **Sujud** | Incliner plus bas | Incliner plus bas |
-| **Si impossible** | Faire par l'intention | Faire par l'intention |
-
----
-
-## 💡 6. La Prière par Signes (الإيماء)
-
-### 📋 Hiérarchie des signes
-
-| Priorité | Type de signe | Condition |
-|----------|---------------|-----------|
+| Priorité | Type de signe | Description |
+|----------|---------------|-------------|
 | 1️⃣ | **Avec la tête** | Incliner pour ruku', plus pour sujud |
 | 2️⃣ | **Avec les yeux** | Fermer légèrement pour ruku', plus pour sujud |
 | 3️⃣ | **Avec le cœur** | Intention pure des mouvements |
 
-### ⚠️ Divergence sur les yeux et le cœur
-
-| École | Signes des yeux/cœur |
-|-------|---------------------|
-| 🟡 **Maliki** | **Accepté** en dernier recours |
-| 🟢 Hanafi | La prière tombe si incapable de la tête |
-| 🔵 Shafi'i | Obligatoire par les yeux puis le cœur |
-| 🟣 Hanbali | Obligatoire tant que la raison est présente |
-
-> 💡 **Position Malikite :** Tant que le malade a sa raison, il doit prier même par la seule intention du cœur.
-
----
-
-## 🔷 7. La Purification du Malade
-
-### 📋 Règles de tahara pour le malade
+### 🔷 La Purification du Malade
 
 | Situation | Règle |
 |-----------|-------|
@@ -166,101 +150,109 @@ Louange à Allah qui n'a pas imposé à Ses serviteurs ce qu'ils ne peuvent supp
 | **Incapable même avec aide** | Tayammum |
 | **Incapable même du tayammum** | Prier sans purification |
 
-### 📌 La najasa (impureté) sur le malade
+---
 
-| Situation | Règle |
-|-----------|-------|
-| **Peut enlever la najasa** | Obligatoire |
-| **Ne peut pas l'enlever** | Prier avec, prière valide |
-| **Sur le lit/vêtement** | Changer si possible, sinon prier dessus |
+## ⚖️ Points de vue des Écoles (آراء المذاهب)
 
-### ⚠️ Avis sur prier sans purification
+| Question | 🟡 Malikite | 🟢 Hanafite | 🔵 Shafiite | 🟣 Hanbalite |
+|----------|-------------|-------------|-------------|--------------|
+| **Prier par signes des yeux** | **Accepté** en dernier recours | La prière tombe | Obligatoire | Obligatoire |
+| **Prier par le cœur** | **Accepté** | La prière tombe | Obligatoire | Obligatoire |
+| **Prier sans purification** | **Permis** sans rattrapage | Doit rattraper | Prie et rattrape | Prie sans rattrapage |
+| **Appui en position debout** | **Makruh** sauf nécessité | Permis si besoin | Permis | Permis si nécessaire |
+| **Inconscience prolongée** | Pas de rattrapage (5+ prières) | Rattraper | Rattraper | Rattraper |
 
-| École | Prier sans wudu ni tayammum |
-|-------|----------------------------|
-| 🟡 **Maliki** | **Permis** si totalement incapable, sans rattrapage |
-| 🟢 Hanafi | Doit rattraper après guérison |
-| 🔵 Shafi'i | Prie et rattrape |
-| 🟣 Hanbali | Prie sans rattrapage |
+### 📌 Position Malikite Détaillée
+
+Les Malikites considèrent que :
+- La prière ne tombe **jamais** tant que la raison est présente
+- Le malade peut prier même **sans purification** si totalement incapable
+- Les signes des **yeux** et du **cœur** sont acceptés en dernier recours
+- Le malade incapable a la **récompense complète** de sa prière
+
+> 💡 **Particularité Malikite** : Si le malade est inconscient plus de 5 prières, il n'a pas à rattraper selon certains avis malikites, car la condition de la prière (la raison) était absente.
 
 ---
 
-## 📝 8. Cas Particuliers
+## 🌍 Applications Modernes (التطبيقات المعاصرة)
 
-### 📌 Le malade sous anesthésie
-
-| Durée | Règle |
-|-------|-------|
-| **Courte (quelques heures)** | Rattraper les prières manquées |
-| **Longue (plusieurs jours)** | Rattraper toutes les prières |
-| **Très longue avec complications** | Selon la capacité |
-
-### 📌 Le malade inconscient
-
-| Durée d'inconscience | Règle Malikite |
-|---------------------|----------------|
-| **Moins de 5 prières** | Rattraper |
-| **5 prières ou plus** | Pas de rattrapage selon certains |
-| **Folie continue** | Pas de prière ni rattrapage |
-
-### 📌 L'opération chirurgicale pendant l'heure de prière
-
-| Situation | Règle |
-|-----------|-------|
-| **Peut prier avant l'opération** | Obligatoire |
-| **L'heure passe pendant l'opération** | Rattraper après |
-| **Anesthésie générale** | Rattraper après réveil |
-
-### 📌 Le malade qui guérit pendant la prière
-
-| Situation | Règle |
-|-----------|-------|
-| **Capable de se lever** | Se lever et continuer |
-| **A commencé assis, peut finir debout** | Se lever obligatoirement |
-| **Le contraire (devient incapable)** | S'asseoir et continuer |
+| Situation Moderne | Problème | Solution Jurisprudentielle |
+|-------------------|----------|---------------------------|
+| 🏥 **Hospitalisation** | Difficulté à se lever | Prier assis ou allongé selon la capacité |
+| 💉 **Perfusion / Cathéter** | Difficulté à faire le wudu | Faire le wudu possible ou tayammum |
+| 🩺 **Opération chirurgicale** | Anesthésie pendant l'heure de prière | Rattraper après le réveil |
+| 🦽 **Handicap permanent** | Incapacité de se prosterner | Prier par signes avec récompense complète |
+| 💊 **Dialyse** | Séance pendant l'heure de prière | Regrouper si possible, sinon rattraper |
 
 ---
 
-## 9. Conseils Pratiques
+## ⚠️ Erreurs Courantes (الأخطاء الشائعة)
 
-### 📋 Pour le malade hospitalisé
-
-| Conseil | Application |
-|---------|-------------|
-| **Connaître la Qibla** | Demander ou utiliser une application |
-| **Préparer le tayammum** | Garder une pierre propre ou du sable |
-| **Horaires des prières** | Avoir un rappel sur téléphone |
-| **Vêtements propres** | En garder pour la prière si possible |
-
-### 📋 Pour l'accompagnant du malade
-
-| Devoir | Application |
-|--------|-------------|
-| **L'aider au wudu** | Si demandé et capable |
-| **L'orienter vers la Qibla** | Tourner le lit si possible |
-| **Lui rappeler les prières** | Aux heures appropriées |
-| **Ne pas le fatiguer** | Accepter la prière minimale |
+| Erreur | ❌ Ce que les gens font | ✅ Ce qu'il faut faire |
+|--------|------------------------|------------------------|
+| **Délaisser la prière** | Ne pas prier car malade | Prier selon sa capacité |
+| **Attendre la guérison** | Reporter toutes les prières | Prier à l'heure même malade |
+| **Exagérer les mouvements** | Se forcer à se prosterner | S'adapter à sa capacité réelle |
+| **Négliger la Qibla** | Prier dans n'importe quelle direction | Orienter le lit vers la Qibla si possible |
+| **Oublier le tayammum** | Prier sans purification par paresse | Faire le tayammum si le wudu est difficile |
 
 ---
 
-## 🎯 Résumé
+## ❓ FAQ (الأسئلة الشائعة)
 
-| Point | Règle |
-|-------|-------|
-| **Principe** | La prière ne tombe jamais avec la raison |
-| **Ordre des positions** | Debout → Assis → Côté → Dos → Signes |
-| **Purification impossible** | Prier quand même (Maliki) |
-| **Inconscience** | Rattraper si courte durée |
-| **Récompense du malade** | Complète comme s'il était en bonne santé |
+**Q1 : Si je suis trop fatigué pour me lever, puis-je prier assis ?**
+> Oui, si tu es réellement incapable de te tenir debout ou si cela te cause une difficulté excessive, tu peux prier assis. Ta prière est valide avec récompense complète.
+
+**Q2 : Dois-je rattraper les prières si j'ai été inconscient plusieurs jours ?**
+> 🟡 Selon certains avis malikites, si l'inconscience a duré plus de 5 prières, tu n'as pas à rattraper car la condition de la prière (la raison) était absente.
+
+**Q3 : Comment prier si je suis allongé sur le dos à l'hôpital ?**
+> Oriente tes pieds vers la Qibla si possible, et fais les mouvements par signes avec ta tête. L'inclinaison doit être moins prononcée que la prosternation.
+
+**Q4 : Puis-je prier sans wudu si je ne peux vraiment pas le faire ?**
+> 🟡 Selon les Malikites, oui. Si tu es totalement incapable de faire le wudu ou le tayammum, tu pries quand même sans purification et tu n'as pas à rattraper.
+
+**Q5 : Le malade a-t-il la même récompense que le sain ?**
+> Oui ! Le Prophète ﷺ a dit que celui qui est empêché par la maladie de faire ce qu'il faisait en bonne santé a la même récompense.
 
 ---
 
-## 📚 Sources
+## 🎯 Action Concrète
 
-1. Sahih Al-Bukhari, Hadiths n° 1115, 1117
-2. Sunan An-Nasa'i
-3. Al-Mudawwana de l'Imam Malik
-4. Mukhtasar Khalil
-5. Al-Mughni d'Ibn Qudama
-6. Bidayat Al-Mujtahid d'Ibn Rushd
+**Si tu es malade ou accompagnes un malade :**
+
+1. **N'abandonne jamais** — La prière s'adapte, elle ne tombe jamais
+2. **Évalue ta capacité** — Debout → Assis → Côté → Dos → Signes
+3. **Purifie-toi** — Wudu si possible, sinon tayammum, sinon prier quand même
+4. **Oriente-toi** — Vers la Qibla selon ta capacité
+5. **Rappelle l'heure** — Utilise des alarmes pour ne pas oublier les prières
+
+> 💡 **Conseil** : Pour le malade hospitalisé, avoir une boussole de Qibla et un petit récipient d'eau pour le wudu facilite grandement la pratique.
+
+---
+
+## 📝 Invocation de Clôture
+
+<div dir="rtl">
+
+**اللَّهُمَّ رَبَّ النَّاسِ، أَذْهِبِ الْبَأْسَ، اشْفِ أَنْتَ الشَّافِي، لَا شِفَاءَ إِلَّا شِفَاؤُكَ، شِفَاءً لَا يُغَادِرُ سَقَمًا**
+
+</div>
+
+> *« Ô Allah, Seigneur des hommes, fais disparaître le mal, guéris car Tu es le Guérisseur. Il n'y a de guérison que Ta guérison, une guérison qui ne laisse aucune maladie. »*
+
+---
+
+## 📚 Sources et Références
+
+1. **Sahih Al-Bukhari** — Hadiths n° 1115, 1117
+2. **Sunan An-Nasa'i**
+3. **Al-Mudawwana** — Imam Malik
+4. **Mukhtasar Khalil**
+5. **Al-Mughni** — Ibn Qudama
+6. **Bidayat Al-Mujtahid** — Ibn Rushd
+
+---
+
+**والله أعلم** — واللهُ تَعَالَى أَعْلَى وَأَعْلَم
 `;

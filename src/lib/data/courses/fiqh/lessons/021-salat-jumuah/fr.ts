@@ -3,21 +3,79 @@
  * Contenu en Français - Approche Multi-Madhhab (Priorité Maliki)
  */
 
-export const content = `# Le Fiqh des Prières Spéciales
+export const content = `# 📜 صَلَاةُ الْجُمُعَةِ — La Prière du Vendredi
 
-## 📖 La Prière du Vendredi (صلاة الجمعة)
-
-Louange à Allah qui a fait du vendredi le meilleur jour de la semaine. Que la paix et les bénédictions soient sur notre Prophète Muhammad ﷺ qui a dit : **« Le meilleur jour sur lequel le soleil s'est levé est le vendredi »**. La prière du vendredi est une obligation pour tout homme musulman résident.
-
-> Allah تعالى dit : **« Ô vous qui avez cru ! Quand on appelle à la prière du vendredi, accourez à l'invocation d'Allah et laissez tout négoce »** — Al-Jumu'ah : 9
+> *« Le meilleur jour sur lequel le soleil s'est levé est le vendredi »* — La prière du vendredi est une obligation pour tout homme musulman résident.
 
 ---
 
-## 🔍 1. Statut et Importance
+## 📜 Textes Fondateurs (النصوص الأساسية)
 
-### 📌 Obligation individuelle (فرض عين)
+### Le Coran
 
-La prière du vendredi est une **obligation individuelle** pour tout homme musulman, libre, résident et sain.
+> **﴿ يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا نُودِيَ لِلصَّلَاةِ مِن يَوْمِ الْجُمُعَةِ فَاسْعَوْا إِلَىٰ ذِكْرِ اللَّهِ وَذَرُوا الْبَيْعَ ﴾**
+> *« Ô vous qui avez cru ! Quand on appelle à la prière du vendredi, accourez à l'invocation d'Allah et laissez tout négoce. »*
+> — [Al-Jumu'ah : 9]
+
+### La Sunnah
+
+> عَنْ **أَبِي هُرَيْرَةَ وَابْنِ عُمَرَ** رَضِيَ اللهُ عَنْهُمَا أَنَّهُمَا سَمِعَا رَسُولَ اللهِ ﷺ يَقُولُ عَلَى أَعْوَادِ مِنْبَرِهِ:
+> **« لَيَنْتَهِيَنَّ أَقْوَامٌ عَنْ وَدْعِهِمُ الْجُمُعَاتِ، أَوْ لَيَخْتِمَنَّ اللهُ عَلَى قُلُوبِهِمْ، ثُمَّ لَيَكُونُنَّ مِنَ الْغَافِلِينَ »**
+> *« Des gens cesseront de délaisser les prières du vendredi, ou Allah scellera leurs cœurs et ils seront parmi les insouciants. »*
+> — Sahih Muslim (865)
+
+> عَنْ **أَبِي هُرَيْرَةَ** رَضِيَ اللهُ عَنْهُ أَنَّ رَسُولَ اللهِ ﷺ قَالَ:
+> **« خَيْرُ يَوْمٍ طَلَعَتْ عَلَيْهِ الشَّمْسُ يَوْمُ الْجُمُعَةِ، فِيهِ خُلِقَ آدَمُ، وَفِيهِ أُدْخِلَ الْجَنَّةَ، وَفِيهِ أُخْرِجَ مِنْهَا »**
+> *« Le meilleur jour sur lequel le soleil s'est levé est le vendredi. C'est en ce jour qu'Adam fut créé, qu'il entra au Paradis et qu'il en fut sorti. »*
+> — Sahih Muslim (854)
+
+> عَنْ **أَبِي هُرَيْرَةَ** رَضِيَ اللهُ عَنْهُ أَنَّ رَسُولَ اللهِ ﷺ قَالَ:
+> **« إِنَّ فِي الْجُمُعَةِ لَسَاعَةً لَا يُوَافِقُهَا عَبْدٌ مُسْلِمٌ وَهُوَ قَائِمٌ يُصَلِّي يَسْأَلُ اللَّهَ شَيْئًا إِلَّا أَعْطَاهُ إِيَّاهُ »**
+> *« Il y a le vendredi une heure où tout serviteur musulman qui prie et demande quelque chose à Allah, Il la lui accorde. »*
+> — Sahih Al-Bukhari (935)
+
+### 📚 Référencement (التخريج)
+
+| Source | Numéro | Statut |
+|--------|--------|--------|
+| **Sahih Al-Bukhari** | 858, 880, 881, 935 | ✅ Sahih |
+| **Sahih Muslim** | 854, 865, 878, 879 | ✅ Sahih |
+| **Sunan Abu Dawud** | 1067 | ✔️ Hasan |
+
+---
+
+## 🎓 Paroles des Savants (أقوال العلماء)
+
+> **Imam Malik** رحمه الله a dit dans *Al-Muwatta'* :
+> *« La prière du vendredi est une obligation pour les résidents des villes et villages où la jumu'ah est établie. »*
+
+> **Ibn Rushd** رحمه الله a écrit dans *Bidayat Al-Mujtahid* :
+> *« Les savants sont d'accord sur l'obligation de la jumu'ah et ont divergé sur ses conditions de validité, notamment le nombre minimal. »*
+
+> **Ibn Qudama** رحمه الله a mentionné dans *Al-Mughni* :
+> *« Quarante hommes sont requis selon l'imam Ahmad et Ash-Shafi'i. »*
+
+---
+
+## 🔍 Analyse Linguistique (التحليل اللغوي)
+
+### Tableau de vocabulaire
+
+| Terme Arabe | Translittération | Racine | Définition Technique |
+|-------------|------------------|--------|---------------------|
+| **جُمُعَة** | Jumu'ah | ج-م-ع | Vendredi, jour du rassemblement |
+| **خُطْبَة** | Khutba | خ-ط-ب | Prêche, sermon |
+| **خَطِيب** | Khatib | خ-ط-ب | Prédicateur, celui qui fait la khutba |
+| **مِنْبَر** | Minbar | ن-ب-ر | Chaire, estrade du prédicateur |
+| **وَصِيَّة** | Wasiyya | و-ص-ي | Recommandation, exhortation |
+
+---
+
+## 📚 Explication Détaillée (الشرح المفصل)
+
+### 🔷 Statut et Importance
+
+La prière du vendredi est une **obligation individuelle (فرض عين)** pour tout homme musulman, libre, résident et sain.
 
 <div class="scene-box">
 
@@ -31,24 +89,7 @@ La prière du vendredi est une **obligation individuelle** pour tout homme musul
 
 </div>
 
-**📍 Rapporteur :** Ibn 'Umar et Abu Hurayra رضي الله عنهما — Muslim (865)
-
-> Et il a dit ﷺ : **« La prière du vendredi est un devoir obligatoire pour tout musulman en assemblée, sauf quatre : un esclave, une femme, un enfant ou un malade »** — Abu Dawud (1067)
-
-### 📌 Le mérite du vendredi
-
-| Mérite | Preuve |
-|--------|--------|
-| **Meilleur jour de la semaine** | « Le meilleur jour est le vendredi » — Muslim (854) |
-| **Adam fut créé ce jour** | Même hadith |
-| **L'Heure viendra un vendredi** | Même hadith |
-| **Une heure d'exaucement** | « Il y a une heure où toute demande est exaucée » — Al-Bukhari (935) |
-
----
-
-## 🔷 2. Conditions d'Obligation (شروط الوجوب)
-
-### 📋 Sur qui est-elle obligatoire ?
+### 🔷 Conditions d'Obligation (شروط الوجوب)
 
 | Condition | Explication |
 |-----------|-------------|
@@ -60,30 +101,7 @@ La prière du vendredi est une **obligation individuelle** pour tout homme musul
 | **Être pubère** | L'enfant en est exempté |
 | **Être sain d'esprit** | Le fou en est exempté |
 
-### 📌 Les femmes et la Jumu'ah
-
-| Point | Règle |
-|-------|-------|
-| **Obligation** | ❌ Non obligatoire |
-| **Validité si elle y assiste** | ✅ Valide et elle n'a pas à prier Dhuhr |
-| **Recommandation** | Mieux de prier chez elle selon la majorité |
-
----
-
-## 📚 3. Conditions de Validité (شروط الصحة)
-
-### ⚠️ DIVERGENCE MAJEURE : Le nombre minimum
-
-| École | Nombre minimum | Détail |
-|-------|----------------|--------|
-| 🟡 **Maliki** | **12 hommes** | Résidents du lieu, imam compris |
-| 🟢 Hanafi | **Imam + 3** | Soit 4 personnes |
-| 🔵 Shafi'i | **40 hommes** | Résidents libres |
-| 🟣 Hanbali | **40 hommes** | Résidents pubères |
-
-> 💡 **Position Malikite :** 12 hommes résidents suffisent pour établir la Jumu'ah, sans besoin d'autorisation officielle.
-
-### 📋 Autres conditions de validité
+### 🔷 Conditions de Validité (شروط الصحة)
 
 | Condition | 🟡 Maliki | Autres écoles |
 |-----------|-----------|---------------|
@@ -91,13 +109,10 @@ La prière du vendredi est une **obligation individuelle** pour tout homme musul
 | **Le lieu** | Ville ou village établi | Variable |
 | **Les deux khutbas** | Obligatoires | Obligatoires |
 | **Être en groupe** | Obligatoire | Obligatoire |
-| **Résidence** | Résident ou habitant proche | Variable |
 
----
+### 🔷 La Khutba (le Prêche)
 
-## 🎯 4. La Khutba (le Prêche)
-
-### 📋 Les piliers de la Khutba (أركان الخطبة)
+#### 📋 Les piliers de la Khutba (أركان الخطبة)
 
 | # | Pilier | Description |
 |---|--------|-------------|
@@ -106,16 +121,7 @@ La prière du vendredi est une **obligation individuelle** pour tout homme musul
 | 3 | **Récitation du Coran** | Au moins un verset |
 | 4 | **Exhortation à la piété** | Wasiyya bi taqwa Allah |
 
-### ⚠️ Points de vue sur les piliers
-
-| Pilier | 🟡 Maliki | Autres |
-|--------|-----------|--------|
-| **Hamd** | Pilier | Pilier pour tous |
-| **Salat 'ala Nabi** | Sunna | Pilier (Shafi'i) |
-| **Récitation Coran** | Sunna | Pilier (Shafi'i) |
-| **Wasiyya** | Pilier | Pilier pour tous |
-
-### 📋 Les Sunnas de la Khutba
+#### 📋 Les Sunnas de la Khutba
 
 | Sunna | Description |
 |-------|-------------|
@@ -124,13 +130,8 @@ La prière du vendredi est une **obligation individuelle** pour tout homme musul
 | **S'asseoir entre les deux khutbas** | Brièvement |
 | **Raccourcir** | Ne pas trop allonger |
 | **Tenir un bâton ou une épée** | Tradition prophétique |
-| **Faire face à l'assemblée** | Pendant toute la khutba |
 
----
-
-## ⚖️ 5. Description de la Prière
-
-### 📋 Structure
+### 🔷 Description de la Prière
 
 | Élément | Détail |
 |---------|--------|
@@ -139,119 +140,119 @@ La prière du vendredi est une **obligation individuelle** pour tout homme musul
 | **Sourates recommandées** | Al-Jumu'ah (1ère), Al-Munafiqun (2ème) |
 | **Ou** | Al-A'la (1ère), Al-Ghashiya (2ème) |
 
-### 📌 Preuve des sourates
-
-> Le Prophète ﷺ récitait dans la prière du vendredi Sourate Al-Jumu'ah et Al-Munafiqun — Muslim (879)
-
-> Ou il récitait Sourate Al-A'la et Al-Ghashiya — Muslim (878)
-
----
-
-## 💡 6. Les Adab du Vendredi (آداب يوم الجمعة)
-
-### 📋 Avant la prière
+### 🔷 Les Adab du Vendredi (آداب يوم الجمعة)
 
 | Adab | Preuve |
 |------|--------|
-| **Le Ghusl (bain rituel)** | « Le ghusl du vendredi est obligatoire pour tout pubère » — Al-Bukhari (858) |
+| **Le Ghusl** | « Le ghusl du vendredi est obligatoire pour tout pubère » — Al-Bukhari (858) |
 | **Se parfumer** | « Et qu'il se parfume s'il en trouve » — Al-Bukhari (880) |
 | **Porter ses meilleurs habits** | De préférence blancs |
 | **Arriver tôt** | « Celui qui vient à la première heure, c'est comme s'il offrait un chameau » — Al-Bukhari (881) |
-| **Marcher à pied** | Si possible |
-| **Réciter Sourate Al-Kahf** | « Celui qui lit Al-Kahf le vendredi, une lumière l'éclairera » — Authentique |
-
-### 📌 Le hadith des heures
-
-> Le Prophète ﷺ a dit : **« Celui qui fait le ghusl le vendredi comme le ghusl de la janaba, puis part à la première heure, c'est comme s'il offrait un chameau. À la deuxième heure, une vache. À la troisième, un bélier cornu. À la quatrième, une poule. À la cinquième, un œuf. Puis quand l'imam sort, les anges assistent pour écouter le rappel »** — Al-Bukhari (881)
+| **Réciter Sourate Al-Kahf** | « Celui qui lit Al-Kahf le vendredi, une lumière l'éclairera » |
 
 ---
 
-## 🔷 7. Interdictions pendant la Khutba
+## ⚖️ Points de vue des Écoles (آراء المذاهب)
 
-### 📋 Ce qui est interdit
+| Question | 🟡 Malikite | 🟢 Hanafite | 🔵 Shafiite | 🟣 Hanbalite |
+|----------|-------------|-------------|-------------|--------------|
+| **Nombre minimum** | **12 hommes** | Imam + 3 | 40 hommes | 40 hommes |
+| **Piliers de la khutba** | **Hamd + Wasiyya** | Variable | Hamd + Salat + Verset + Wasiyya | Variable |
+| **Prière de salutation** | **Ne pas prier** si khutba a commencé | Ne pas prier | Prier 2 rak'at légères | Prier 2 rak'at |
+| **Aïd et Jumu'ah même jour** | **Les deux obligatoires** | Les deux | Dispensé de Jumu'ah | Dispensé, mais prier Dhuhr |
+| **Réciter la Fatiha** | **Ne pas réciter** | Ne pas réciter | Obligatoire | Obligatoire |
 
-| Interdit | Preuve |
-|----------|--------|
-| **Parler** | « Si tu dis 'Tais-toi' à ton compagnon pendant la khutba, tu as fait une futilité » — Al-Bukhari (934) |
-| **S'amuser avec quoi que ce soit** | Toucher les cailloux, le téléphone, etc. |
-| **Enjamber les gens** | « Assieds-toi, tu as nui » — Abu Dawud (1118) |
-| **Faire la prière de salutation** | Selon les Malikites (attendre la fin) |
+### 📌 Position Malikite Détaillée
 
-### ⚠️ Divergence sur la prière de salutation de la mosquée
+Les Malikites considèrent que :
+- **12 hommes résidents** suffisent pour établir la Jumu'ah
+- La Fatiha n'est **pas récitée** par le ma'mum dans la prière à voix haute
+- On ne prie **pas** la salutation de la mosquée si la khutba a commencé
+- Les **deux khutbas** sont obligatoires avec piliers : Hamd et Wasiyya
 
-| École | Avis |
-|-------|------|
-| 🟡 **Maliki** | **Ne pas prier** si la khutba a commencé |
-| 🟢 Hanafi | Ne pas prier |
-| 🔵 Shafi'i | **Prier** 2 rak'at légères obligatoirement |
-| 🟣 Hanbali | Prier 2 rak'at légères |
-
----
-
-## 📝 8. Cas Pratiques
-
-### 📌 Celui qui arrive en retard
-
-| Ce qu'il rattrape | Que fait-il ? |
-|-------------------|---------------|
-| **1 rak'a avec l'imam** | Il a rattrapé la Jumu'ah, complète 1 rak'a |
-| **Moins d'1 rak'a (sujud final)** | Il n'a pas rattrapé, prie Dhuhr 4 rak'at |
-
-### 📌 La Jumu'ah du voyageur
-
-| Situation | Règle |
-|-----------|-------|
-| **Voyageur passant par une ville** | Pas obligatoire mais valide s'il y assiste |
-| **Voyageur qui s'arrête 4+ jours** | Devient résident, obligatoire |
-
-### 📌 Jumu'ah et Eid le même jour
-
-| École | Avis |
-|-------|------|
-| 🟡 **Maliki** | **Les deux obligatoires** |
-| 🟢 Hanafi | Les deux obligatoires |
-| 🔵 Shafi'i | Celui qui a prié le Eid est dispensé de Jumu'ah |
-| 🟣 Hanbali | Dispensé de Jumu'ah mais prie Dhuhr |
-
-### 📌 Pluie le vendredi
-
-> Ibn 'Abbas a ordonné au muezzin de dire : **« Priez chez vous »** un jour de pluie — Al-Bukhari (901)
+> 💡 **Particularité Malikite** : Si la khutba a commencé, on ne prie pas la tahiyyat al-masjid, contrairement aux Shafi'ites qui l'exigent.
 
 ---
 
-## 9. Erreurs Courantes à Éviter
+## 🌍 Applications Modernes (التطبيقات المعاصرة)
 
-### ❌ Ce qu'il ne faut pas faire
-
-| Erreur | Correction |
-|--------|------------|
-| Arriver pendant la khutba et parler | Entrer silencieusement |
-| Enjamber les rangs | S'asseoir où on trouve |
-| Utiliser le téléphone pendant la khutba | L'éteindre ou le mettre en silencieux |
-| Partir avant le taslim de l'imam | Attendre la fin |
-| Négliger le ghusl | Le faire chaque vendredi |
+| Situation Moderne | Problème | Solution Jurisprudentielle |
+|-------------------|----------|---------------------------|
+| 🏢 **Prière au travail** | Pas de temps d'aller à la mosquée | Demander une pause pour Jumu'ah, c'est un droit religieux |
+| 📱 **Téléphone pendant khutba** | Distraction | L'éteindre ou le mettre en silencieux — utiliser le téléphone est interdit |
+| 🚗 **Arrivée en retard** | On rate la 1ère rak'a | Si on rattrape 1 rak'a = Jumu'ah, sinon prier Dhuhr 4 rak'at |
+| 🌧️ **Forte pluie** | Difficulté d'aller à la mosquée | Dispense de se rendre à la mosquée |
+| 🎉 **Aïd le vendredi** | Deux obligations | 🟡 Malikites : les deux restent obligatoires |
 
 ---
 
-## 🎯 Résumé
+## ⚠️ Erreurs Courantes (الأخطاء الشائعة)
 
-| Point | Règle Malikite |
-|-------|----------------|
-| **Statut** | Fard 'Ayn pour l'homme résident |
-| **Nombre minimum** | 12 hommes |
-| **Khutba** | 2 khutbas, piliers : Hamd + Wasiyya |
-| **Prière** | 2 rak'at à voix haute |
-| **Arrivée tardive** | 1 rak'a = Jumu'ah rattrapée |
-| **Adab** | Ghusl, parfum, arriver tôt, Sourate Al-Kahf |
+| Erreur | ❌ Ce que les gens font | ✅ Ce qu'il faut faire |
+|--------|------------------------|------------------------|
+| **Parler pendant la khutba** | Chuchoter avec le voisin | Se taire absolument |
+| **Utiliser le téléphone** | Consulter des messages | Éteindre ou mettre en silencieux |
+| **Enjamber les rangs** | Passer devant les priants | S'asseoir où l'on trouve de la place |
+| **Arriver pendant la khutba** | Prier tahiyyat al-masjid (Maliki) | Entrer et s'asseoir directement |
+| **Négliger le ghusl** | Se contenter du wudu | Faire le ghusl chaque vendredi |
 
 ---
 
-## 📚 Sources
+## ❓ FAQ (الأسئلة الشائعة)
 
-1. Sahih Al-Bukhari, Hadiths n° 858, 880, 881, 901, 934, 935
-2. Sahih Muslim, Hadiths n° 854, 865, 878, 879
-3. Sunan Abu Dawud, Hadiths n° 1067, 1118
-4. Al-Mudawwana de l'Imam Malik
-5. Mukhtasar Khalil
-6. Bidayat Al-Mujtahid d'Ibn Rushd
+**Q1 : Si j'arrive et que l'imam est au ruku', ai-je rattrapé la Jumu'ah ?**
+> Si tu rattrapes **au moins une rak'a complète** avec l'imam (y compris le ruku'), tu as rattrapé la Jumu'ah. Sinon, tu dois prier Dhuhr (4 rak'at).
+
+**Q2 : Puis-je prier tahiyyat al-masjid si la khutba a commencé ?**
+> 🟡 Selon les Malikites et Hanafites, **non** — tu t'assieds directement. Selon les Shafi'ites et Hanbalites, tu dois prier 2 rak'at légères.
+
+**Q3 : La femme doit-elle prier Jumu'ah ?**
+> Non, la Jumu'ah n'est pas obligatoire pour les femmes. Si elle y assiste, sa prière est valide et elle n'a pas à prier Dhuhr.
+
+**Q4 : Combien d'hommes faut-il pour établir la Jumu'ah ?**
+> 🟡 Selon les Malikites, **12 hommes** résidents suffisent. Les Shafi'ites et Hanbalites exigent 40 hommes.
+
+**Q5 : Dois-je réciter la Fatiha derrière l'imam le vendredi ?**
+> 🟡 Selon les Malikites et Hanafites, **non** — tu écoutes l'imam. Les Shafi'ites et Hanbalites disent qu'elle est obligatoire.
+
+---
+
+## 🎯 Action Concrète
+
+**Ce vendredi, applique ces adab :**
+
+1. **Ghusl** — Fais le bain rituel avant de partir
+2. **Parfume-toi** — (pour les hommes) et mets tes meilleurs habits
+3. **Arrive tôt** — Pour avoir le premier rang et les mérites des anges
+4. **Lis Al-Kahf** — Avant ou après la prière
+5. **Éteins ton téléphone** — Pendant toute la khutba et la prière
+
+> 💡 **Conseil** : L'heure d'exaucement le vendredi se situe probablement entre l'entrée de l'imam et la fin de la prière. Multiplie les invocations.
+
+---
+
+## 📝 Invocation de Clôture
+
+<div dir="rtl">
+
+**رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ**
+
+</div>
+
+> *« Ô notre Seigneur, accorde-nous une belle part dans ce monde, et une belle part dans l'au-delà, et protège-nous du châtiment du Feu. »*
+
+---
+
+## 📚 Sources et Références
+
+1. **Sahih Al-Bukhari** — Hadiths n° 858, 880, 881, 901, 934, 935
+2. **Sahih Muslim** — Hadiths n° 854, 865, 878, 879
+3. **Sunan Abu Dawud** — Hadiths n° 1067, 1118
+4. **Al-Mudawwana** — Imam Malik
+5. **Mukhtasar Khalil**
+6. **Bidayat Al-Mujtahid** — Ibn Rushd
+
+---
+
+**والله أعلم** — واللهُ تَعَالَى أَعْلَى وَأَعْلَم
 `;

@@ -3,11 +3,68 @@
  * Contenu en Français - Approche Multi-Madhhab (Priorité Maliki)
  */
 
-export const content = `# Le Fiqh des Prières Spéciales
+export const content = `# 📜 صَلَاةُ الْكُسُوفِ وَالْخُسُوفِ — La Prière de l'Éclipse
 
-## 📖 La Prière de l'Éclipse (صلاة الكسوف والخسوف)
+> *« Le soleil et la lune sont deux signes parmi les signes d'Allah. Ils ne s'éclipsent pas pour la mort ou la vie de quelqu'un. »* — L'éclipse est une occasion de se tourner vers Allah avec crainte et invocation.
 
-Louange à Allah qui nous montre Ses signes dans les cieux et sur terre. Que la paix et les bénédictions soient sur notre Prophète Muhammad ﷺ. L'éclipse solaire et lunaire sont des signes d'Allah par lesquels Il effraie Ses serviteurs.
+---
+
+## 📜 Textes Fondateurs (النصوص الأساسية)
+
+### La Sunnah
+
+> عَنْ **الْمُغِيرَةِ بْنِ شُعْبَةَ** رَضِيَ اللهُ عَنْهُ قَالَ: كَسَفَتِ الشَّمْسُ يَوْمَ مَاتَ إِبْرَاهِيمُ، فَقَالَ النَّاسُ: كَسَفَتْ لِمَوْتِ إِبْرَاهِيمَ. فَقَالَ رَسُولُ اللهِ ﷺ:
+> **« إِنَّ الشَّمْسَ وَالْقَمَرَ آيَتَانِ مِنْ آيَاتِ اللهِ، لَا يَنْكَسِفَانِ لِمَوْتِ أَحَدٍ وَلَا لِحَيَاتِهِ، فَإِذَا رَأَيْتُمْ ذَلِكَ فَادْعُوا اللهَ وَكَبِّرُوا وَصَلُّوا وَتَصَدَّقُوا »**
+> *« Le soleil et la lune sont deux signes parmi les signes d'Allah. Ils ne s'éclipsent pas pour la mort ou la vie de quelqu'un. Quand vous voyez cela, invoquez Allah, faites le takbir, priez et donnez en aumône. »*
+> — Sahih Al-Bukhari (1044)
+
+> عَنْ **عَائِشَةَ** رَضِيَ اللهُ عَنْهَا قَالَتْ:
+> **« صَلَّى رَسُولُ اللهِ ﷺ صَلَاةَ الْكُسُوفِ، فَقَامَ فَأَطَالَ الْقِيَامَ، ثُمَّ رَكَعَ فَأَطَالَ الرُّكُوعَ، ثُمَّ قَامَ فَأَطَالَ الْقِيَامَ وَهُوَ دُونَ الْقِيَامِ الْأَوَّلِ، ثُمَّ رَكَعَ فَأَطَالَ الرُّكُوعَ وَهُوَ دُونَ الرُّكُوعِ الْأَوَّلِ »**
+> *« Le Messager d'Allah ﷺ pria la prière de l'éclipse. Il se leva et prolongea la station debout, puis s'inclina et prolongea l'inclinaison, puis se leva et prolongea — moins que la première fois —, puis s'inclina — moins que la première inclinaison. »*
+> — Sahih Al-Bukhari (1046), Sahih Muslim (901)
+
+### 📚 Référencement (التخريج)
+
+| Source | Numéro | Statut |
+|--------|--------|--------|
+| **Sahih Al-Bukhari** | 1044, 1046 | ✅ Sahih |
+| **Sahih Muslim** | 901 | ✅ Sahih |
+
+---
+
+## 🎓 Paroles des Savants (أقوال العلماء)
+
+> **Imam Malik** رحمه الله a dit dans *Al-Mudawwana* :
+> *« La prière de l'éclipse solaire est une Sunna Mu'akkada. Elle se prie en groupe à la mosquée avec deux inclinaisons (ruku') par rak'a. »*
+
+> **Ibn Rushd** رحمه الله a écrit dans *Bidayat Al-Mujtahid* :
+> *« Les savants ont divergé sur le nombre de ruku' dans chaque rak'a. La majorité dit deux ruku', les Hanafites disent un seul. »*
+
+> **Ibn Qudama** رحمه الله a mentionné dans *Al-Mughni* :
+> *« La prière de l'éclipse est établie par le consensus des savants. C'est une Sunna Mu'akkada. »*
+
+---
+
+## 🔍 Analyse Linguistique (التحليل اللغوي)
+
+### Tableau de vocabulaire
+
+| Terme Arabe | Translittération | Racine | Définition Technique |
+|-------------|------------------|--------|---------------------|
+| **كُسُوف** | Kusuf | ك-س-ف | Éclipse solaire (le soleil est obscurci) |
+| **خُسُوف** | Khusuf | خ-س-ف | Éclipse lunaire (la lune est obscurcie) |
+| **آيَة** | Aya | أ-ي-ي | Signe, miracle |
+| **رُكُوع** | Ruku' | ر-ك-ع | Inclinaison |
+
+> Note : Certains savants utilisent les deux termes de manière interchangeable.
+
+---
+
+## 📚 Explication Détaillée (الشرح المفصل)
+
+### 🔷 Statut de la Prière
+
+Toutes les écoles s'accordent : c'est une **Sunna Mu'akkada** (fortement recommandée).
 
 <div class="scene-box">
 
@@ -23,250 +80,162 @@ Louange à Allah qui nous montre Ses signes dans les cieux et sur terre. Que la 
 
 </div>
 
-**📍 Rapporteur :** Al-Mughira ibn Shu'ba رضي الله عنه — Al-Bukhari (1044)
-
 > 📌 **Leçon :** Le Prophète ﷺ corrigea la croyance des gens dans les moments les plus difficiles — le jour de la mort de son fils.
 
----
-
-## 🔍 1. Définitions
-
-### 📋 Terminologie
-
-| Terme arabe | Français | Phénomène |
-|-------------|----------|-----------|
-| **الكسوف (Al-Kusuf)** | Éclipse solaire | Le soleil est obscurci |
-| **الخسوف (Al-Khusuf)** | Éclipse lunaire | La lune est obscurcie |
-
-> Note : Certains savants utilisent les deux termes de manière interchangeable.
-
----
-
-## 🔷 2. Statut de la Prière
-
-### 📌 Les avis des écoles
-
-| École | Statut |
-|-------|--------|
-| 🟡 **Maliki** | **Sunna Mu'akkadah** (fortement recommandée) |
-| 🟢 Hanafi | Sunna Mu'akkadah |
-| 🔵 Shafi'i | Sunna Mu'akkadah |
-| 🟣 Hanbali | Sunna Mu'akkadah |
-
-> 💡 **Consensus :** Toutes les écoles s'accordent sur le caractère de Sunna Mu'akkadah.
-
-### 📌 Pour qui ?
-
-| Catégorie | Règle |
-|-----------|-------|
-| **Hommes** | Fortement recommandée en groupe |
-| **Femmes** | Recommandée (peuvent prier chez elles) |
-| **Voyageur** | Recommandée |
-| **Solitaire** | Peut prier seul |
-
----
-
-## 📚 3. Le Temps de la Prière
-
-### 📋 Début et fin
+### 🔷 Le Temps de la Prière
 
 | Point | Règle |
 |-------|-------|
 | **Début** | Dès le début de l'éclipse |
 | **Fin** | Jusqu'à ce que l'éclipse soit terminée |
 | **Si ratée** | On ne la rattrape pas après la fin de l'éclipse |
+| **Appel** | On appelle : **« الصلاةُ جامعة »** (As-Salatu jami'ah) |
 
-### 📌 Pas d'adhan ni d'iqama
+### 🔷 Description de la Prière (Méthode Malikite)
 
-> On appelle : **« الصلاةُ جامعة »** (As-Salatu jami'ah - La prière en groupe !)
+> 💡 **Méthode Malikite :** Chaque rak'a contient **2 qiyam** (debout), **2 récitations** et **2 ruku'**, suivis d'un seul sujud (2 prosternations).
 
----
-
-## 🎯 4. Description de la Prière
-
-### ⚠️ DIVERGENCE MAJEURE : Nombre de ruku' par rak'a
-
-| École | Structure |
-|-------|-----------|
-| 🟡 **Maliki** | **2 rak'at, 2 ruku' par rak'a** (= 4 ruku' au total) |
-| 🟢 Hanafi | **2 rak'at, 1 ruku' par rak'a** (= 2 ruku' au total) |
-| 🔵 Shafi'i | 2 rak'at, 2 ruku' par rak'a |
-| 🟣 Hanbali | 2 rak'at, 2 ruku' par rak'a |
-
-> 💡 **Méthode Malikite :** Chaque rak'a contient 2 qiyam (debout), 2 récitations et 2 ruku', suivis d'un seul sujud (2 prosternations).
-
-### 📋 Description détaillée (Méthode Malikite)
-
-#### 1ère Rak'a :
+#### Structure de la 1ère Rak'a :
 
 | Étape | Action |
 |-------|--------|
 | 1 | **Takbirat al-ihram** |
 | 2 | **Du'a d'ouverture** (optionnel) |
-| 3 | **Fatiha** + longue sourate (environ 100 versets) |
-| 4 | **1er Ruku'** — long (environ 100 versets) |
+| 3 | **Fatiha** + longue sourate (~100 versets) |
+| 4 | **1er Ruku'** — long |
 | 5 | **Se relever** : « Sami'a Allahu liman hamidah » |
-| 6 | **2ème Fatiha** + sourate (plus courte que la 1ère) |
+| 6 | **2ème Fatiha** + sourate (plus courte) |
 | 7 | **2ème Ruku'** — long (plus court que le 1er) |
 | 8 | **Se relever** |
 | 9 | **Sujud** — 2 prosternations longues |
 
-#### 2ème Rak'a :
+#### Structure de la 2ème Rak'a :
 
 | Étape | Action |
 |-------|--------|
 | 1 | **Se relever** |
-| 2 | **Fatiha** + sourate (plus courte que 2ème lecture 1ère rak'a) |
-| 3 | **1er Ruku'** — long |
+| 2 | **Fatiha** + sourate |
+| 3 | **1er Ruku'** |
 | 4 | **Se relever** |
 | 5 | **2ème Fatiha** + sourate |
 | 6 | **2ème Ruku'** |
 | 7 | **Sujud** — 2 prosternations |
 | 8 | **Tashahhud** + **Taslim** |
 
-### 📌 La récitation
+### 🔷 Éclipse Solaire vs Lunaire (Position Malikite)
 
-| Rak'a | Récitation | Estimation |
-|-------|------------|------------|
-| **1ère - 1ère lecture** | Sourate Al-Baqara ou équivalent | ~100 versets |
-| **1ère - 2ème lecture** | Environ 2/3 de la première | ~70 versets |
-| **2ème - 1ère lecture** | Environ 1/2 de la première | ~50 versets |
-| **2ème - 2ème lecture** | Le reste | ~30 versets |
-
-### 📌 Comparaison des méthodes
-
-| Aspect | 🟡 Maliki/Shafi'i/Hanbali | 🟢 Hanafi |
-|--------|--------------------------|-----------|
-| **Ruku' par rak'a** | 2 | 1 |
-| **Total des ruku'** | 4 | 2 |
-| **Qiyam par rak'a** | 2 | 1 |
-| **Récitation Fatiha** | 4 fois | 2 fois |
-
----
-
-## ⚖️ 5. Particularités de la Prière
-
-### 📋 Ce qui est recommandé
-
-| Recommandation | Détail |
-|----------------|--------|
-| **Récitation longue** | Plus long que la normale |
-| **Ruku' long** | Presque aussi long que la récitation |
-| **Sujud long** | Prosternations prolongées |
-| **En groupe** | Préférable mais pas obligatoire |
-| **À la mosquée** | Préférable |
-| **Khutba après** | Recommandée (Malikites) |
-
-### ⚠️ Divergence sur la khutba
-
-| École | Khutba |
-|-------|--------|
-| 🟡 **Maliki** | **Recommandée** après la prière |
-| 🟢 Hanafi | Pas de khutba |
-| 🔵 Shafi'i | Recommandée après la prière |
-| 🟣 Hanbali | Pas de khutba spécifique |
-
----
-
-## 💡 6. Éclipse Solaire vs Lunaire
-
-### ⚠️ Points de vue sur l'éclipse lunaire
-
-| École | Éclipse lunaire |
-|-------|-----------------|
-| 🟡 **Maliki** | Prière **individuelle** recommandée, pas en groupe |
-| 🟢 Hanafi | Prière individuelle |
-| 🔵 Shafi'i | Prière **en groupe** comme l'éclipse solaire |
-| 🟣 Hanbali | Prière **en groupe** comme l'éclipse solaire |
-
-> 💡 **Position Malikite :** Pour l'éclipse lunaire, on prie individuellement chez soi car elle se produit la nuit et rassembler les gens est difficile.
-
-### 📋 Comparaison pratique
-
-| Aspect | Éclipse solaire | Éclipse lunaire (Maliki) |
-|--------|-----------------|--------------------------|
+| Aspect | Éclipse solaire | Éclipse lunaire |
+|--------|-----------------|-----------------|
 | **En groupe** | ✅ Oui | ❌ Non, individuel |
 | **À la mosquée** | ✅ Oui | ❌ Non, chez soi |
 | **Khutba** | ✅ Recommandée | ❌ Non |
 
----
-
-## 🔷 7. Cas Pratiques
-
-### 📌 Si l'éclipse se termine pendant la prière
-
-| Situation | Que faire ? |
-|-----------|-------------|
-| **Pendant la 1ère rak'a** | Alléger et terminer |
-| **Pendant la 2ème rak'a** | Terminer normalement |
-
-### 📌 Si on arrive en retard
-
-| Ce qu'on rattrape | Que faire ? |
-|-------------------|-------------|
-| **1er ruku' de la rak'a** | Rak'a complète rattrapée |
-| **2ème ruku' seulement** | Rak'a non rattrapée, refaire |
-
-### 📌 Peut-on la prier dans les temps interdits ?
-
-| École | Avis |
-|-------|------|
-| 🟡 **Maliki** | ❌ Non, on attend la sortie du temps interdit |
-| 🟢 Hanafi | ❌ Non |
-| 🔵 Shafi'i | ✅ Oui, car elle a une cause |
-| 🟣 Hanbali | ✅ Oui |
+> 💡 **Position Malikite :** Pour l'éclipse lunaire, on prie **individuellement** chez soi car elle se produit la nuit.
 
 ---
 
-## 📝 8. Actes Recommandés Lors de l'Éclipse
+## ⚖️ Points de vue des Écoles (آراء المذاهب)
 
-### 📋 En plus de la prière
+| Question | 🟡 Malikite | 🟢 Hanafite | 🔵 Shafiite | 🟣 Hanbalite |
+|----------|-------------|-------------|-------------|--------------|
+| **Ruku' par rak'a** | **2 ruku'** (= 4 au total) | **1 ruku'** (= 2 au total) | 2 ruku' | 2 ruku' |
+| **Récitation de la Fatiha** | **4 fois** (avant chaque ruku') | 2 fois | 4 fois | 4 fois |
+| **Éclipse lunaire** | **Individuelle** | Individuelle | En groupe | En groupe |
+| **Khutba après** | **Recommandée** (solaire) | Pas de khutba | Recommandée | Pas de khutba spécifique |
+| **Temps interdit** | **Non**, on n'y prie pas | Non | **Oui**, on peut prier | Oui |
 
-| Acte | Preuve |
-|------|--------|
-| **Du'a (invocation)** | Hadith Al-Bukhari (1044) |
-| **Takbir** | Même hadith |
-| **Sadaqa (aumône)** | Même hadith |
-| **Istighfar** | Demander pardon |
-| **Affranchir un esclave** | Pratique du Prophète ﷺ |
+### 📌 Position Malikite Détaillée
 
-> Le Prophète ﷺ a dit : **« Quand vous voyez cela, invoquez Allah, faites le takbir, priez et donnez en aumône »** — Al-Bukhari (1044)
+Les Malikites considèrent que :
+- Chaque rak'a a **2 ruku'** (inclinaisons)
+- On récite la **Fatiha 4 fois** au total (avant chaque ruku')
+- L'éclipse **lunaire** se prie **individuellement** (pas en groupe)
+- Une **khutba** est recommandée après la prière de l'éclipse solaire
+- On ne prie **pas** l'éclipse dans les **temps interdits**
 
----
-
-## 9. Erreurs Courantes à Éviter
-
-### ❌ Ce qu'il ne faut pas faire
-
-| Erreur | Correction |
-|--------|------------|
-| Faire un seul ruku' (sauf Hanafites) | 2 ruku' par rak'a |
-| Prier rapidement | Allonger la récitation et le ruku' |
-| Attendre que l'éclipse soit totale | Prier dès le début |
-| Croire aux superstitions liées aux éclipses | Ce sont des signes d'Allah |
-| Négliger la prière car « ce n'est pas obligatoire » | Sunna Mu'akkadah = très recommandée |
+> 💡 **Particularité Hanafite** : Les Hanafites prient l'éclipse comme une prière normale avec **un seul ruku'** par rak'a.
 
 ---
 
-## 🎯 Résumé
+## 🌍 Applications Modernes (التطبيقات المعاصرة)
 
-| Point | Règle Malikite |
-|-------|----------------|
-| **Statut** | Sunna Mu'akkadah |
-| **Structure** | 2 rak'at, 2 ruku' par rak'a |
-| **Récitation** | Longue, à voix haute pour solaire |
-| **Éclipse lunaire** | Prière individuelle |
-| **Khutba** | Recommandée après (solaire) |
-| **Temps interdit** | ❌ On n'y prie pas |
+| Situation Moderne | Problème | Solution Jurisprudentielle |
+|-------------------|----------|---------------------------|
+| 🌑 **Éclipse prévue par la science** | Peut-on se préparer ? | Oui, mais on prie dès que l'éclipse commence réellement |
+| 🌍 **Fuseau horaire différent** | L'éclipse ailleurs | On ne prie que si on peut observer l'éclipse localement |
+| ☁️ **Ciel nuageux** | On ne voit pas l'éclipse | Si elle est confirmée, on prie ; sinon on s'abstient |
+| 📺 **Retransmission TV** | Voir l'éclipse à l'écran | Non suffisant — il faut qu'elle soit observable localement |
+| 🏢 **Au travail** | Impossible de prier en groupe | Prier individuellement si possible |
 
 ---
 
-## 📚 Sources
+## ⚠️ Erreurs Courantes (الأخطاء الشائعة)
 
-1. Sahih Al-Bukhari, Hadith n° 1044
-2. Sahih Muslim, Livre de l'éclipse
-3. Al-Mudawwana de l'Imam Malik
-4. Mukhtasar Khalil
-5. Bidayat Al-Mujtahid d'Ibn Rushd
-6. Al-Fiqh 'ala Al-Madhahib Al-Arba'a
+| Erreur | ❌ Ce que les gens font | ✅ Ce qu'il faut faire |
+|--------|------------------------|------------------------|
+| **Un seul ruku'** | Prier comme une prière normale | 🟡 Malikites : 2 ruku' par rak'a |
+| **Prier rapidement** | Faire une prière courte | Allonger la récitation, le ruku' et le sujud |
+| **Attendre l'éclipse totale** | Ne pas prier au début | Prier dès le début de l'éclipse |
+| **Croire aux superstitions** | Peur des éclipses | Ce sont des signes d'Allah pour nous rappeler |
+| **Négliger la prière** | « Ce n'est pas obligatoire » | Sunna Mu'akkada = très recommandée |
+
+---
+
+## ❓ FAQ (الأسئلة الشائعة)
+
+**Q1 : Combien de ruku' fait-on dans la prière de l'éclipse ?**
+> 🟡 Selon les Malikites, Shafi'ites et Hanbalites : **2 ruku'** par rak'a (= 4 au total). Les Hanafites disent 1 ruku' par rak'a.
+
+**Q2 : Peut-on prier l'éclipse lunaire en groupe ?**
+> 🟡 Selon les Malikites, **non** — on prie individuellement chez soi car elle se produit la nuit. Les Shafi'ites et Hanbalites autorisent le groupe.
+
+**Q3 : Si l'éclipse se termine pendant la prière, que faire ?**
+> On allège la prière et on termine normalement.
+
+**Q4 : Peut-on prier l'éclipse dans les temps interdits ?**
+> 🟡 Selon les Malikites, **non** — on attend la sortie du temps interdit. Les Shafi'ites et Hanbalites l'autorisent car elle a une cause.
+
+**Q5 : Que faire si on rate le début de la prière ?**
+> On rejoint l'imam et on rattrape ce qu'on a manqué. Si on rate le 1er ruku', on n'a pas rattrapé cette rak'a.
+
+---
+
+## 🎯 Action Concrète
+
+**Lors de la prochaine éclipse :**
+
+1. **Prépare-toi** — Consulte les prévisions astronomiques
+2. **Rassemble-toi** — Rejoins la mosquée ou prie en groupe
+3. **Prolonge** — Allonge la récitation, le ruku' et le sujud
+4. **Invoque** — Fais du'a, takbir et istighfar
+5. **Donne** — Fais une aumône (sadaqa)
+
+> 💡 **Conseil** : L'éclipse est un rappel de la puissance d'Allah. Profite de ce moment pour te rapprocher de Lui.
+
+---
+
+## 📝 Invocation de Clôture
+
+<div dir="rtl">
+
+**اللَّهُمَّ إِنِّي أَعُوذُ بِرِضَاكَ مِنْ سَخَطِكَ، وَبِمُعَافَاتِكَ مِنْ عُقُوبَتِكَ، وَأَعُوذُ بِكَ مِنْكَ، لَا أُحْصِي ثَنَاءً عَلَيْكَ، أَنْتَ كَمَا أَثْنَيْتَ عَلَى نَفْسِكَ**
+
+</div>
+
+> *« Ô Allah, je cherche refuge dans Ta satisfaction contre Ta colère, dans Ton pardon contre Ton châtiment. Je cherche refuge en Toi contre Toi. Je ne saurais dénombrer les éloges qui Te sont dus. Tu es comme Tu T'es loué Toi-même. »*
+
+---
+
+## 📚 Sources et Références
+
+1. **Sahih Al-Bukhari** — Hadiths n° 1044, 1046
+2. **Sahih Muslim** — Livre de l'éclipse
+3. **Al-Mudawwana** — Imam Malik
+4. **Mukhtasar Khalil**
+5. **Bidayat Al-Mujtahid** — Ibn Rushd
+6. **Al-Fiqh 'ala Al-Madhahib Al-Arba'a**
+
+---
+
+**والله أعلم** — واللهُ تَعَالَى أَعْلَى وَأَعْلَم
 `;

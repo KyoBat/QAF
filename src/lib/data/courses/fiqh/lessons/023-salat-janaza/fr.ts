@@ -3,13 +3,73 @@
  * Contenu en Français - Approche Multi-Madhhab (Priorité Maliki)
  */
 
-export const content = `# Le Fiqh des Prières Spéciales
+export const content = `# 📜 صَلَاةُ الْجَنَازَةِ — La Prière Funéraire
 
-## 📖 La Prière Funéraire (صلاة الجنازة)
+> *« Priez sur vos morts »* — La prière funéraire est une invocation pour le défunt et une obligation collective pour la communauté.
 
-Louange à Allah qui nous a créés, nous fera mourir, puis nous ressuscitera. Que la paix et les bénédictions soient sur notre Prophète Muhammad ﷺ. La prière funéraire est une invocation pour le défunt et une obligation collective pour la communauté.
+---
 
-> Le Prophète ﷺ a dit : **« Priez sur vos morts »** — Ibn Majah (1458)
+## 📜 Textes Fondateurs (النصوص الأساسية)
+
+### La Sunnah
+
+> عَنْ **أَبِي هُرَيْرَةَ** رَضِيَ اللهُ عَنْهُ أَنَّ رَسُولَ اللهِ ﷺ قَالَ:
+> **« مَنْ شَهِدَ الْجَنَازَةَ حَتَّى يُصَلَّى عَلَيْهَا فَلَهُ قِيرَاطٌ، وَمَنْ شَهِدَهَا حَتَّى تُدْفَنَ فَلَهُ قِيرَاطَانِ »**
+> قِيلَ: وَمَا الْقِيرَاطَانِ؟ قَالَ: **« مِثْلُ الْجَبَلَيْنِ الْعَظِيمَيْنِ »**
+> *« Quiconque suit un convoi funéraire jusqu'à ce qu'on prie sur lui aura un qirat, et s'il reste jusqu'à l'enterrement, il aura deux qirat. — Qu'est-ce que les deux qirat ? — Comme deux immenses montagnes. »*
+> — Sahih Al-Bukhari (1325)
+
+> عَنْ **أَبِي هُرَيْرَةَ** رَضِيَ اللهُ عَنْهُ أَنَّ رَسُولَ اللهِ ﷺ قَالَ:
+> **« أَسْرِعُوا بِالْجَنَازَةِ، فَإِنْ تَكُ صَالِحَةً فَخَيْرٌ تُقَدِّمُونَهَا إِلَيْهِ، وَإِنْ تَكُ سِوَى ذَلِكَ فَشَرٌّ تَضَعُونَهُ عَنْ رِقَابِكُمْ »**
+> *« Hâtez-vous pour le convoi funéraire, car s'il était vertueux, c'est vers un bien que vous l'emmenez. Et s'il en était autrement, c'est un mal que vous déposez de vos épaules. »*
+> — Sahih Al-Bukhari (1315)
+
+> عَنْ **عَوْفِ بْنِ مَالِكٍ** رَضِيَ اللهُ عَنْهُ قَالَ: صَلَّى رَسُولُ اللهِ ﷺ عَلَى جَنَازَةٍ فَحَفِظْتُ مِنْ دُعَائِهِ:
+> **« اللَّهُمَّ اغْفِرْ لَهُ وَارْحَمْهُ، وَعَافِهِ وَاعْفُ عَنْهُ، وَأَكْرِمْ نُزُلَهُ، وَوَسِّعْ مُدْخَلَهُ، وَاغْسِلْهُ بِالْمَاءِ وَالثَّلْجِ وَالْبَرَدِ »**
+> — Sahih Muslim (963)
+
+### 📚 Référencement (التخريج)
+
+| Source | Numéro | Statut |
+|--------|--------|--------|
+| **Sahih Al-Bukhari** | 1245, 1315, 1325 | ✅ Sahih |
+| **Sahih Muslim** | 963 | ✅ Sahih |
+| **Sunan Ibn Majah** | 1458 | ✔️ Hasan |
+
+---
+
+## 🎓 Paroles des Savants (أقوال العلماء)
+
+> **Imam Malik** رحمه الله a dit dans *Al-Mudawwana* :
+> *« La prière funéraire est une obligation collective (fard kifaya). Si certains l'accomplissent, les autres en sont dispensés. »*
+
+> **Ibn Rushd** رحمه الله a écrit dans *Bidayat Al-Mujtahid* :
+> *« Les savants ont divergé sur la récitation de la Fatiha dans la prière funéraire. Les Malikites et Hanafites ne la récitent pas. »*
+
+> **An-Nawawi** رحمه الله a mentionné dans *Al-Majmu'* :
+> *« La prière funéraire est une invocation (du'a) et non une prière classique, c'est pourquoi elle n'a pas de ruku' ni de sujud. »*
+
+---
+
+## 🔍 Analyse Linguistique (التحليل اللغوي)
+
+### Tableau de vocabulaire
+
+| Terme Arabe | Translittération | Racine | Définition Technique |
+|-------------|------------------|--------|---------------------|
+| **جَنَازَة** | Janaza | ج-ن-ز | Corps du défunt / prière funéraire |
+| **تَكْبِيرَات** | Takbirat | ك-ب-ر | Les quatre proclamations "Allahu Akbar" |
+| **كَفَن** | Kafan | ك-ف-ن | Linceul, tissu enveloppant le défunt |
+| **دَفْن** | Dafn | د-ف-ن | Enterrement |
+| **قِيرَاط** | Qirat | — | Unité de récompense |
+
+---
+
+## 📚 Explication Détaillée (الشرح المفصل)
+
+### 🔷 Statut et Importance
+
+La prière funéraire est une **obligation collective (فرض كفاية)** : si certains l'accomplissent, les autres en sont dispensés.
 
 <div class="scene-box">
 
@@ -17,7 +77,7 @@ Louange à Allah qui nous a créés, nous fera mourir, puis nous ressuscitera. Q
 
 *Les compagnons étaient assis avec le Prophète ﷺ...*
 
-**Le Prophète ﷺ :** « Quiconque suit un convoi funéraire jusqu'à ce qu'on prie sur lui aura un qirat (de récompense), et s'il reste jusqu'à l'enterrement, il aura deux qirat »
+**Le Prophète ﷺ :** « Quiconque suit un convoi funéraire jusqu'à ce qu'on prie sur lui aura un qirat, et s'il reste jusqu'à l'enterrement, il aura deux qirat »
 
 **Les Compagnons :** Qu'est-ce que les deux qirat ?
 
@@ -25,19 +85,7 @@ Louange à Allah qui nous a créés, nous fera mourir, puis nous ressuscitera. Q
 
 </div>
 
-**📍 Rapporteur :** Abu Hurayra رضي الله عنه — Al-Bukhari (1325)
-
----
-
-## 🔍 1. Statut et Importance
-
-### 📌 Obligation collective (فرض كفاية)
-
-La prière funéraire est une **obligation collective** : si certains l'accomplissent, les autres en sont dispensés.
-
-> Le Prophète ﷺ a dit : **« Hâtez-vous pour le convoi funéraire, car s'il était vertueux, c'est vers un bien que vous l'emmenez. Et s'il en était autrement, c'est un mal que vous déposez de vos épaules »** — Al-Bukhari (1315)
-
-### 📌 Sur qui prie-t-on ?
+### 🔷 Sur qui prie-t-on ?
 
 | Catégorie | Prière |
 |-----------|--------|
@@ -47,217 +95,146 @@ La prière funéraire est une **obligation collective** : si certains l'accompli
 | **Le martyr du champ de bataille** | ❌ Pas de prière ni lavage |
 | **Le non-musulman** | ❌ Pas de prière |
 
----
-
-## 🔷 2. Description de la Prière
-
-### 📋 Structure générale
+### 🔷 Description de la Prière
 
 | Élément | Description |
 |---------|-------------|
 | **Pas de ruku' ni sujud** | Prière debout uniquement |
 | **4 Takbirat** | Avec du'a entre chaque |
-| **Fin par taslim** | Un seul taslim selon les Malikites |
+| **Fin par taslim** | Un seul taslim (Malikites) |
 | **Sans adhan ni iqama** | Comme la prière du Aïd |
 
-### 📋 Les 4 Takbirat et ce qu'on récite
+### 🔷 Les 4 Takbirat et ce qu'on récite (Méthode Malikite)
 
-| Takbira | 🟡 Ce qu'on récite (Maliki) |
-|---------|---------------------------|
-| **1ère** | Du'a d'ouverture (recommandé) |
+| Takbira | Ce qu'on récite |
+|---------|-----------------|
+| **1ère** | Du'a d'ouverture (optionnel) |
 | **2ème** | Salat 'ala An-Nabi ﷺ |
 | **3ème** | Du'a pour le défunt |
 | **4ème** | Du'a général, puis taslim |
 
-### ⚠️ DIVERGENCE MAJEURE : La Fatiha
+### 🔷 Les Du'a de la Prière Funéraire
 
-| École | Récitation de la Fatiha |
-|-------|------------------------|
-| 🟡 **Maliki** | **Pas de Fatiha** — Seulement du'a |
-| 🟢 Hanafi | Pas de Fatiha — Seulement du'a |
-| 🔵 Shafi'i | **Fatiha obligatoire** après la 1ère takbira |
-| 🟣 Hanbali | **Fatiha obligatoire** après la 1ère takbira |
-
-> 💡 **Position Malikite :** La prière funéraire est essentiellement une invocation (du'a), pas une prière classique. On n'y récite pas la Fatiha.
-
----
-
-## 📚 3. Les Du'a de la Prière Funéraire
-
-### 📌 Après la 1ère Takbira (optionnel)
-
-On peut invoquer Allah ou garder le silence en préparation du du'a.
-
-### 📌 Après la 2ème Takbira — Salat sur le Prophète ﷺ
+#### Du'a après la 2ème Takbira — Salat sur le Prophète ﷺ
 
 > **اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ، كَمَا صَلَّيْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ**
 
-*Allahumma salli 'ala Muhammad wa 'ala ali Muhammad, kama sallayta 'ala Ibrahim wa 'ala ali Ibrahim, innaka hamidun majid.*
-
-### 📌 Après la 3ème Takbira — Du'a pour le défunt
-
-#### Du'a complet (recommandé) :
+#### Du'a après la 3ème Takbira — Du'a pour le défunt
 
 > **اللَّهُمَّ اغْفِرْ لَهُ وَارْحَمْهُ، وَعَافِهِ وَاعْفُ عَنْهُ، وَأَكْرِمْ نُزُلَهُ، وَوَسِّعْ مُدْخَلَهُ، وَاغْسِلْهُ بِالْمَاءِ وَالثَّلْجِ وَالْبَرَدِ، وَنَقِّهِ مِنَ الْخَطَايَا كَمَا نَقَّيْتَ الثَّوْبَ الْأَبْيَضَ مِنَ الدَّنَسِ**
 
-*Allahumma ighfir lahu warhamhu, wa 'afihi wa'fu 'anhu, wa akrim nuzulahu, wa wassi' mudkhalahu, waghsilhu bil-ma'i wath-thalji wal-barad, wa naqqihi minal-khataya kama naqqayta ath-thawba al-abyada minad-danas.*
+### 🔷 Position par rapport au défunt
 
-#### Du'a simple (suffisant) :
-
-> **اللَّهُمَّ اغْفِرْ لِحَيِّنَا وَمَيِّتِنَا، وَشَاهِدِنَا وَغَائِبِنَا، وَصَغِيرِنَا وَكَبِيرِنَا، وَذَكَرِنَا وَأُنْثَانَا**
-
-*Allahumma ighfir li hayyina wa mayyitina, wa shahidina wa gha'ibina, wa saghirina wa kabirina, wa dhakarina wa unthana.*
-
-### 📌 Après la 4ème Takbira
-
-On peut faire un court du'a général ou garder le silence, puis on fait le taslim.
+| Défunt | Position de l'imam (Malikite) |
+|--------|-------------------------------|
+| **Homme** | Au niveau du **milieu** du corps |
+| **Femme** | Au niveau du **milieu** du corps |
 
 ---
 
-## 🎯 4. Dispositions Pratiques
+## ⚖️ Points de vue des Écoles (آراء المذاهب)
 
-### 📋 Position par rapport au défunt
+| Question | 🟡 Malikite | 🟢 Hanafite | 🔵 Shafiite | 🟣 Hanbalite |
+|----------|-------------|-------------|-------------|--------------|
+| **Réciter la Fatiha** | **Non** — Seulement du'a | Non | **Obligatoire** après 1ère takbira | **Obligatoire** |
+| **Position de l'imam** | **Milieu** (H et F) | Poitrine (H), Milieu (F) | Tête (H), Milieu (F) | Tête (H), Milieu (F) |
+| **Nombre de taslim** | **Un seul** à droite | Un seul | Deux taslim | Deux taslim |
+| **Lever les mains** | **Seulement 1ère takbira** | Seulement 1ère | À chaque takbira | À chaque takbira |
+| **Prière sur l'absent** | **Non légitime** | Non | Légitime | Légitime (si non prié sur lui) |
+| **Prier sur la tombe** | **Permis** (délai court) | Non permis | Permis | Permis (jusqu'à 1 mois) |
 
-| Défunt | Position de l'imam |
-|--------|-------------------|
-| **Homme** | Au niveau de la **tête** |
-| **Femme** | Au niveau du **milieu** (bassin) |
+### 📌 Position Malikite Détaillée
 
-### ⚠️ Divergence sur la position
+Les Malikites considèrent que :
+- La **Fatiha n'est pas récitée** — c'est une prière d'invocation
+- L'imam se place au **milieu** du corps, homme ou femme
+- On fait **un seul taslim** légèrement à droite
+- On **lève les mains** seulement à la 1ère takbira
+- La prière sur **l'absent n'est pas légitime** (cas du Négus = exception)
 
-| École | Homme | Femme |
-|-------|-------|-------|
-| 🟡 **Maliki** | **Milieu** | **Milieu** |
-| 🟢 Hanafi | Poitrine | Milieu |
-| 🔵 Shafi'i | Tête | Milieu |
-| 🟣 Hanbali | Tête | Milieu |
-
-> 💡 **Position Malikite :** L'imam se tient au milieu du corps, que ce soit un homme ou une femme.
-
-### 📋 Le Taslim
-
-| École | Nombre de taslim |
-|-------|------------------|
-| 🟡 **Maliki** | **Un seul taslim** à droite (légèrement) |
-| 🟢 Hanafi | Un seul taslim |
-| 🔵 Shafi'i | Deux taslim |
-| 🟣 Hanbali | Deux taslim |
+> 💡 **Particularité Malikite** : La prière funéraire est essentiellement une invocation pour le défunt, pas une prière classique avec récitation du Coran.
 
 ---
 
-## ⚖️ 5. Qui a Priorité pour Diriger la Prière ?
+## 🌍 Applications Modernes (التطبيقات المعاصرة)
 
-### 📋 Ordre de priorité
-
-| # | Priorité | Raison |
-|---|----------|--------|
-| 1 | **Le wali (tuteur/héritier)** | Droit religieux et familial |
-| 2 | L'imam de la mosquée locale | Fonction officielle |
-| 3 | Le plus savant des présents | Connaissance |
-| 4 | Le plus âgé | Respect |
-
-### 📌 Le wali peut céder
-
-Le tuteur peut déléguer son droit à quelqu'un de plus savant ou de plus pieux.
+| Situation Moderne | Problème | Solution Jurisprudentielle |
+|-------------------|----------|---------------------------|
+| 🏥 **Décès à l'hôpital** | Organisation rapide | Se hâter pour le lavage et la prière |
+| 🌍 **Décès à l'étranger** | Rapatriement long | Prière sur place, l'enterrement peut attendre |
+| 📱 **Annonce de décès** | Informer la communauté | Recommandé pour que les gens prient et assistent |
+| 👩 **Femmes aux funérailles** | Participation | Permise mais déconseillée selon les Malikites |
+| 🕌 **Prière à la mosquée** | Lieu de la prière | Permis mais le musalla ou espace ouvert est préféré |
 
 ---
 
-## 💡 6. La Prière sur l'Absent (صلاة الغائب)
+## ⚠️ Erreurs Courantes (الأخطاء الشائعة)
 
-### ⚠️ Divergence importante
-
-| École | Avis |
-|-------|------|
-| 🟡 **Maliki** | **Non légitime** — On ne prie pas sur un absent |
-| 🟢 Hanafi | Non légitime |
-| 🔵 Shafi'i | **Légitime** pour tout musulman mort |
-| 🟣 Hanbali | Légitime si personne n'a prié sur lui |
-
-> 💡 **Position Malikite :** La prière sur l'absent n'est pas prescrite. Le hadith de la prière sur le Négus était une exception spécifique.
-
-### 📌 Preuve des Shafi'ites
-
-> Le Prophète ﷺ a annoncé la mort du Négus (An-Najashi) le jour de son décès et est sorti avec ses compagnons au musalla, a aligné les rangs et a fait 4 takbirat — Al-Bukhari (1245)
+| Erreur | ❌ Ce que les gens font | ✅ Ce qu'il faut faire |
+|--------|------------------------|------------------------|
+| **Réciter la Fatiha (Maliki)** | Lire Al-Fatiha après la 1ère takbira | Seulement du'a (méthode malikite) |
+| **Lever les mains à chaque takbira** | Comme dans la prière normale | 🟡 Malikites : seulement à la 1ère |
+| **Faire deux taslim** | Comme la prière normale | 🟡 Malikites : un seul à droite |
+| **Pleurer bruyamment** | Gémissements et cris | Pleurer silencieusement est permis |
+| **Retarder l'enterrement** | Attendre longtemps | Se hâter est recommandé |
 
 ---
 
-## 🔷 7. Cas Particuliers
+## ❓ FAQ (الأسئلة الشائعة)
 
-### 📌 La femme peut-elle prier la janaza ?
+**Q1 : Faut-il réciter la Fatiha dans la prière funéraire ?**
+> 🟡 Selon les Malikites et Hanafites, **non**. La prière funéraire est une invocation (du'a), pas une prière classique. Les Shafi'ites et Hanbalites l'exigent.
 
-| Situation | Règle |
-|-----------|-------|
-| **En groupe à la mosquée** | Déconseillé chez les Malikites |
-| **Sur un proche à la maison** | Permis |
+**Q2 : Où doit se placer l'imam par rapport au défunt ?**
+> 🟡 Selon les Malikites, au **milieu du corps**, que ce soit un homme ou une femme.
 
-### 📌 Prier sur plusieurs défunts
+**Q3 : Puis-je prier sur un défunt si j'ai manqué la prière ?**
+> Oui, tu peux rejoindre et compléter les takbirat après le taslim de l'imam, ou prier sur la tombe dans un délai court.
 
-| Situation | Règle |
-|-----------|-------|
-| **Permis** | Une seule prière pour plusieurs |
-| **Disposition** | Les hommes plus proches de l'imam, les femmes derrière |
+**Q4 : La prière sur l'absent (salat al-gha'ib) est-elle permise ?**
+> 🟡 Selon les Malikites, **non**. Le cas du Négus était une exception. Les Shafi'ites l'autorisent.
 
-### 📌 Rattraper la prière funéraire
-
-| Ce qu'on rattrape | Que faire ? |
-|-------------------|-------------|
-| **Quelques takbirat** | Rejoindre et compléter après le taslim de l'imam |
-| **Après l'enterrement** | On peut prier sur la tombe (jusqu'à un mois selon certains) |
-
-### 📌 Prier sur la tombe
-
-| École | Avis |
-|-------|------|
-| 🟡 **Maliki** | Permis dans un **délai court** (quelques jours) |
-| 🟢 Hanafi | Non permis |
-| 🔵 Shafi'i | Permis tant que le corps n'est pas décomposé |
-| 🟣 Hanbali | Permis jusqu'à un mois |
+**Q5 : Combien de taslim fait-on dans la prière funéraire ?**
+> 🟡 Selon les Malikites et Hanafites, **un seul taslim** légèrement à droite.
 
 ---
 
-## 📝 8. Erreurs Courantes à Éviter
+## 🎯 Action Concrète
 
-### ❌ Ce qu'il ne faut pas faire
+**Pour accompagner dignement les funérailles :**
 
-| Erreur | Correction |
-|--------|------------|
-| Réciter la Fatiha (Malikites) | Seulement du'a |
-| Lever les mains à chaque takbira | Une seule fois à l'ihram (Malikites) |
-| Pleurer bruyamment | Pleurer silencieusement est permis |
-| Retarder l'enterrement sans raison | Se hâter est recommandé |
-| Suivre le convoi avec des bougies/musique | Interdit |
+1. **Assiste** — Suis le convoi funéraire pour obtenir le mérite des "deux montagnes"
+2. **Mémorise** — Apprends le du'a du défunt par cœur
+3. **Invoque** — Fais du'a pour le défunt même après l'enterrement
+4. **Visite** — Rends visite à la famille pour la consoler
 
-### ⚠️ Divergence sur le lever des mains
-
-| École | Lever des mains |
-|-------|-----------------|
-| 🟡 **Maliki** | **Seulement à la 1ère takbira** |
-| 🟢 Hanafi | Seulement à la 1ère takbira |
-| 🔵 Shafi'i | À **chaque** takbira |
-| 🟣 Hanbali | À **chaque** takbira |
+> 💡 **Conseil** : Prépare-toi spirituellement à la mort en accomplissant de bonnes œuvres et en demandant pardon régulièrement.
 
 ---
 
-## 🎯 Résumé
+## 📝 Invocation de Clôture
 
-| Point | Règle Malikite |
-|-------|----------------|
-| **Statut** | Fard Kifaya |
-| **Takbirat** | 4 takbirat |
-| **Fatiha** | ❌ Pas de Fatiha |
-| **Position de l'imam** | Au milieu du corps |
-| **Taslim** | Un seul à droite |
-| **Lever des mains** | Seulement 1ère takbira |
-| **Prière sur l'absent** | Non légitime |
+<div dir="rtl">
+
+**اللَّهُمَّ اغْفِرْ لِحَيِّنَا وَمَيِّتِنَا، وَشَاهِدِنَا وَغَائِبِنَا، وَصَغِيرِنَا وَكَبِيرِنَا، وَذَكَرِنَا وَأُنْثَانَا**
+
+</div>
+
+> *« Ô Allah, pardonne à nos vivants et à nos morts, à nos présents et à nos absents, à nos petits et à nos grands, à nos hommes et à nos femmes. »*
 
 ---
 
-## 📚 Sources
+## 📚 Sources et Références
 
-1. Sahih Al-Bukhari, Hadiths n° 1245, 1315, 1325
-2. Sunan Ibn Majah, Hadith n° 1458
-3. Al-Mudawwana de l'Imam Malik
-4. Mukhtasar Khalil
-5. Bidayat Al-Mujtahid d'Ibn Rushd
-6. Al-Fiqh Al-Islami wa Adillatuhu de Wahba Az-Zuhayli
+1. **Sahih Al-Bukhari** — Hadiths n° 1245, 1315, 1325
+2. **Sahih Muslim** — Hadith n° 963
+3. **Sunan Ibn Majah** — Hadith n° 1458
+4. **Al-Mudawwana** — Imam Malik
+5. **Mukhtasar Khalil**
+6. **Bidayat Al-Mujtahid** — Ibn Rushd
+7. **Al-Fiqh Al-Islami wa Adillatuhu** — Wahba Az-Zuhayli
+
+---
+
+**والله أعلم** — واللهُ تَعَالَى أَعْلَى وَأَعْلَم
 `;
