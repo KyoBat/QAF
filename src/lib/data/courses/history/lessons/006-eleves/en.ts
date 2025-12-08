@@ -45,11 +45,23 @@ His students therefore played a crucial role: **codifying** what the master tran
 
 #### His Story
 
-Abū Yūsuf was **so poor** that he had to work to survive and missed classes. Abū Ḥanīfa, seeing his talent, told him:
+<div class="scene-box">
 
-> "Devote yourself to study. I'll take care of your family."
+**💔 In Abū Ḥanīfa's Circle — Kufa, circa 140 AH**
 
-He became the first to officially hold the title of **Qāḍī al-Quḍāt** under Caliph Hārūn al-Rashīd.
+*Young Abū Yūsuf was so poor that he had to work to feed his family, often missing classes. Abū Ḥanīfa noticed his absence and inquired about him.*
+
+*When he learned the reason, the master summoned his student:*
+
+**🟢 Abū Ḥanīfa:** "Ya'qūb, I see great talent in you."
+
+**🟢 Abū Yūsuf:** "But I must work, O master. My family is hungry."
+
+**🟢 Abū Ḥanīfa:** "Devote yourself to study. I'll take care of your family."
+
+*From that day on, Abū Ḥanīfa supported Abū Yūsuf's family for 17 years. And his student became the first Grand Qadi of the empire.*
+
+</div>
 
 #### His Contributions
 

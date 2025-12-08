@@ -32,11 +32,25 @@ He witnessed the Abbasid revolution overthrow the Umayyads — a bloody upheaval
 
 ### The Caliph's Offer
 
-The Abbasid caliph **al-Manṣūr** wanted to appoint Abū Ḥanīfa as **Qāḍī al-Quḍāt** (Chief Justice) of Baghdad — the highest judicial position in the empire.
+<div class="scene-box">
 
-It was an immense honor. But Abū Ḥanīfa **refused**.
+**🎭 At the Caliph's Palace — Baghdad, circa 148 AH**
 
-> "I am not fit to be a judge."
+*The caliph al-Manṣūr summoned Abū Ḥanīfa to his imperial palace. The courtiers stepped aside respectfully to let the scholar pass.*
+
+**👑 Al-Manṣūr:** "O Abū Ḥanīfa! I appoint you Qāḍī al-Quḍāt over the entire empire. You will be the Chief Justice of Baghdad — the highest judicial position."
+
+*An immense honor. But Abū Ḥanīfa's face remained impassive.*
+
+**🟢 Abū Ḥanīfa:** "I am not fit to be a judge."
+
+**👑 Al-Manṣūr:** "How dare you refuse? You are the greatest jurist in the empire!"
+
+**🟢 Abū Ḥanīfa:** "If I speak the truth, then I am not fit. And if I lie, a liar is not worthy of judging between people."
+
+*The caliph's face darkened...*
+
+</div>
 
 ### The Reason for Refusal
 
@@ -49,11 +63,25 @@ He preferred to remain a **cloth merchant** and teach freely.
 
 ### The Punishment
 
-Al-Manṣūr did not accept the refusal. He had Abū Ḥanīfa **imprisoned** and ordered that he be **flogged** to force him to accept.
+<div class="scene-box">
 
-Every day, he was flogged. Every day, he refused.
+**⛓️ In the Dungeons of Baghdad — 150 AH**
 
-> "If he wanted me to count the doors of the mosque for him, I wouldn't do it. How then could he want me to sign a man's execution?"
+*Al-Manṣūr did not accept the refusal. Abū Ḥanīfa was thrown into prison. Every day, the guards came to flog him to force him to accept.*
+
+*Every day, he was flogged. Every day, he refused.*
+
+**🗡️ The Guard:** "Accept the position, old man, and all this will stop!"
+
+**🟢 Abū Ḥanīfa:** "If he wanted me to count the doors of the mosque for him, I wouldn't do it..."
+
+**🗡️ The Guard:** "And why not?"
+
+**🟢 Abū Ḥanīfa:** "How then could he want me to sign an innocent man's execution?"
+
+*Abū Ḥanīfa's hair turned white under the torture. "Whoever wants to know what I endure," he said, "let them look at the snow on my head."*
+
+</div>
 
 ### Death in Prison
 
@@ -75,19 +103,39 @@ Mālik (93-179 AH) lived primarily under the Abbasids, in Medina. Though far fro
 
 ### The Forced Oath Affair
 
-In **147 AH**, the governor of Medina, **Ja'far ibn Sulaymān**, wanted to force people to pledge allegiance to the caliph. He asked Mālik to religiously validate that this oath was **obligatory and irrevocable**.
+<div class="scene-box">
 
-Mālik refused. He taught a hadith:
+**🎭 Before the Governor — Medina, 147 AH**
 
-> "Divorce pronounced under coercion is not valid."
+*The governor of Medina, Ja'far ibn Sulaymān, summoned Mālik. He wanted to force people to pledge allegiance to the caliph.*
 
-By analogy: **a forced oath is also not valid**.
+**👑 Ja'far:** "O Mālik, you must declare that this oath of allegiance is obligatory and irrevocable!"
+
+**🟡 Mālik:** "I cannot."
+
+**👑 Ja'far:** "And why not?"
+
+**🟡 Mālik:** "Divorce pronounced under coercion is not valid — by analogy, a forced oath is also not valid."
+
+*The governor's face reddened with anger.*
+
+**👑 Ja'far:** "You dare defy the caliph's authority? Guards!"
+
+</div>
 
 ### The Torture
 
-The governor had **Mālik arrested** and ordered that his arm be **dislocated** — an atrocious torture.
+<div class="scene-box">
 
-They pulled his arm so hard that it was **dislocated from his shoulder**. Mālik could never raise that arm again for the rest of his life.
+**💔 The Imam's Torture**
+
+*The governor ordered that Mālik's arm be dislocated. The torturers pulled so hard that his shoulder was torn from its socket.*
+
+*Mālik did not cry out. He did not yield.*
+
+*For the rest of his life, he could never raise that arm again. But his word remained straight.*
+
+</div>
 
 ### The Aftermath
 
@@ -121,12 +169,25 @@ The potential penalty: **death**.
 
 ### The Trial
 
-Before Hārūn al-Rashīd, al-Shāfi'ī pleaded his case with remarkable eloquence. The judge present, **Muḥammad ibn al-Ḥasan al-Shaybānī** (the Hanafi), recognized his innocence and his knowledge.
+<div class="scene-box">
 
-Al-Shāfi'ī was **acquitted**.
+**⚖️ Before the Caliph — Baghdad, 184 AH**
 
-> "O Commander of the Faithful, this is a man who learns and teaches."
-> — **Al-Shaybānī** defending al-Shāfi'ī
+*Al-Shāfi'ī, still in chains, was brought before Hārūn al-Rashīd. The Hanafi judge Muḥammad ibn al-Ḥasan al-Shaybānī was present.*
+
+**👑 Hārūn al-Rashīd:** "You are accused of supporting the rebels in Yemen. What do you have to say in your defense?"
+
+*Al-Shāfi'ī pleaded his case with remarkable eloquence, citing evidence of his innocence and demonstrating his knowledge.*
+
+*Al-Shaybānī listened attentively. Then he turned to the caliph:*
+
+**🟢 Al-Shaybānī:** "O Commander of the Faithful, this is a man who learns and teaches — he is no rebel."
+
+**👑 Hārūn al-Rashīd:** "Then let him be freed."
+
+*The chains fell away. Al-Shāfi'ī was free — and he had just found his next teacher.*
+
+</div>
 
 ### The Transformation
 
@@ -166,15 +227,25 @@ But **Aḥmad refused**.
 
 ### The Interrogation
 
-Aḥmad was brought before the inquisitors. They asked him the question:
+<div class="scene-box">
 
-> "Is the Quran created or uncreated?"
+**⚔️ The Inquisition — Baghdad, 218 AH**
 
-Aḥmad replied:
+*Aḥmad ibn Ḥanbal was brought in chains before the Mu'tazilite inquisitors. The hall was filled with the caliph's theologians.*
 
-> "It is the Word of Allah, from Him it began and to Him it returns."
+**🗡️ The Inquisitor:** "Is the Quran created or uncreated?"
 
-He refused to pronounce the word "created."
+*A deathly silence. All eyes turned to Aḥmad.*
+
+**🟣 Aḥmad:** "It is the Word of Allah. From Him it began, and to Him it returns."
+
+**🗡️ The Inquisitor:** "That is not the answer we want! Say that the Quran is created!"
+
+**🟣 Aḥmad:** "Give me something from the Book of Allah or the Sunnah of His Messenger. Only then will I say it."
+
+*He refused to pronounce the word "created." And no torture could break him.*
+
+</div>
 
 ### The Flogging
 
@@ -190,13 +261,25 @@ Some say he received **more than 80 lashes** in a single session.
 
 ### The Resistance
 
-Despite the torture, Aḥmad never pronounced the words they wanted him to say.
+<div class="scene-box">
 
-One day, the torturers said: "Just say the word, and you'll be free!"
+**⛓️ In the Dungeons — Two Years of Torture**
 
-Aḥmad replied:
+*For two years, Aḥmad was flogged regularly. He was given so many lashes that he fainted. When he regained consciousness, they started again.*
 
-> "Give me something from the Book of Allah or the Sunnah of His Messenger so that I may say it."
+*One day, a torturer approached:*
+
+**🗡️ The Torturer:** "Just say the word, old man! Say that the Quran is created, and you'll be free!"
+
+**🟣 Aḥmad:** "Give me something from the Book of Allah or the Sunnah of His Messenger. Then I will say it."
+
+**🗡️ The Torturer:** "But we have nothing of the sort!"
+
+**🟣 Aḥmad:** "Then I have nothing to say."
+
+*The whips cracked again. But Aḥmad never yielded.*
+
+</div>
 
 ### The Liberation
 

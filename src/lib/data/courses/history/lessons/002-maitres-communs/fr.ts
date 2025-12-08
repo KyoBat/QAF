@@ -200,37 +200,59 @@ Explorez ces connexions grâce à l'arbre interactif :
 
 ### Le Jeune Mālik et le Vieux Nāfi'
 
-Quand Mālik était adolescent, il était si passionné par le savoir qu'il attendait Nāfi' devant sa maison. Un jour, Nāfi' sortit et trouva Mālik qui l'attendait depuis des heures sous le soleil brûlant de Médine.
+<div class="scene-box">
 
-*« Pourquoi ne rentres-tu pas chez toi ? »* demanda Nāfi'.
+**🎭 Devant la Maison de Nāfi' — Médine, vers 105 H**
 
-*« Je crains de manquer un seul de tes hadiths »*, répondit le jeune Mālik.
+*Le jeune Mālik, à peine adolescent, était si passionné par le savoir qu'il attendait Nāfi' devant sa maison depuis des heures, sous le soleil brûlant de Médine.*
 
-Nāfi' fut si impressionné qu'il invita Mālik chez lui et lui enseigna personnellement pendant des années.
+*Quand le vieux Nāfi' sortit enfin, il trouva le garçon debout, patient.*
+
+**🟠 Nāfi' :** « Pourquoi ne rentres-tu pas chez toi, mon garçon ? »
+
+**🟡 Le jeune Mālik :** « Je crains de manquer un seul de tes hadiths, ô Abū 'Abdillāh. »
+
+*Nāfi' fut si impressionné qu'il invita Mālik chez lui et lui enseigna personnellement pendant des années.*
+
+</div>
 
 ---
 
 ### Al-Shāfi'ī Récite le Muwaṭṭa' par Cœur
 
-Quand al-Shāfi'ī arriva à Médine pour étudier avec Mālik, il avait déjà mémorisé le Muwaṭṭa' entier ! Le gouverneur de La Mecque avait écrit une lettre de recommandation pour lui.
+<div class="scene-box">
 
-Mālik, impressionné mais sceptique, lui demanda de réciter. Al-Shāfi'ī commença... et ne s'arrêta plus. Chaque page, chaque hadith, chaque commentaire — tout était là.
+**🎭 Dans le Cercle de Mālik — Médine, 163 H**
 
-Après des années d'études, Mālik dit à son élève :
+*Un jeune homme de vingt ans entra dans le cercle de Mālik, portant une lettre du gouverneur de La Mecque. Il avait déjà mémorisé le Muwaṭṭa' entier !*
 
-> « اتَّقِ اللَّهَ، فَإِنَّهُ سَيَكُونُ لَكَ شَأْنٌ »
-> 
-> « Crains Allah, car tu auras un avenir immense. »
+**🟡 Mālik :** « On me dit que tu connais mon livre par cœur. Récite. »
+
+*Al-Shāfi'ī commença... et ne s'arrêta plus. Chaque page, chaque hadith, chaque commentaire — tout était là.*
+
+*Les yeux de Mālik s'élargirent. Ce jeune homme était extraordinaire.*
+
+**🟡 Mālik :** « اتَّقِ اللَّهَ، فَإِنَّهُ سَيَكُونُ لَكَ شَأْنٌ — Crains Allah, car tu auras un avenir immense. »
+
+</div>
 
 ---
 
 ### Aḥmad Défend Son Maître
 
-Des années après la mort d'al-Shāfi'ī, quelqu'un critiqua ce dernier devant Aḥmad. Le visage d'Aḥmad changea de couleur et il dit :
+<div class="scene-box">
 
-> « Comment oses-tu critiquer celui qui m'a appris à distinguer le hadith abrogeant du hadith abrogé ? »
+**💔 Dans le Cercle d'Aḥmad — Bagdad, après 204 H**
 
-Puis il fit l'éloge de son maître pendant une heure entière, les larmes aux yeux.
+*Des années après la mort d'al-Shāfi'ī, quelqu'un osa le critiquer devant Aḥmad. Le visage d'Aḥmad changea de couleur.*
+
+**🟣 Aḥmad :** « Comment oses-tu critiquer celui qui m'a appris à distinguer le hadith abrogeant du hadith abrogé ? »
+
+*Puis il fit l'éloge de son maître pendant une heure entière, les larmes aux yeux.*
+
+**🟣 Aḥmad :** « كَانَ الشَّافِعِيُّ كَالشَّمْسِ لِلدُّنْيَا وَكَالْعَافِيَةِ لِلْبَدَنِ — Al-Shāfi'ī était comme le soleil pour le monde et comme la santé pour le corps. »
+
+</div>
 
 ---
 

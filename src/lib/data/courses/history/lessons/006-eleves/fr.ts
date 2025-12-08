@@ -45,11 +45,23 @@ Ses élèves ont donc joué un rôle crucial : **codifier** ce que le maître tr
 
 #### Son Histoire
 
-Abū Yūsuf était **si pauvre** qu'il devait travailler pour survivre et manquait les cours. Abū Ḥanīfa, voyant son talent, lui dit :
+<div class="scene-box">
 
-> «Consacre-toi à l'étude. Je me charge de ta famille.»
+**💔 Dans la Halqa d'Abū Ḥanīfa — Kufa, vers 140 H**
 
-Il devint le premier à porter le titre officiel de **Qāḍī al-Quḍāt** sous le calife Hārūn al-Rashīd.
+*Le jeune Abū Yūsuf était si pauvre qu'il devait travailler pour nourrir sa famille, manquant souvent les cours. Abū Ḥanīfa remarqua son absence et s'enquérita de lui.*
+
+*Quand il apprit la raison, le maître convoqua son élève :*
+
+**🟢 Abū Ḥanīfa :** « Ya'qūb, je vois en toi un grand talent. »
+
+**🟢 Abū Yūsuf :** « Mais je dois travailler, ô maître. Ma famille a faim. »
+
+**🟢 Abū Ḥanīfa :** « Consacre-toi à l'étude. Je me charge de ta famille. »
+
+*Dès ce jour, Abū Ḥanīfa subvint aux besoins de la famille d'Abū Yūsuf pendant 17 ans. Et son élève devint le premier Grand Cadi de l'empire.*
+
+</div>
 
 #### Son Apport
 

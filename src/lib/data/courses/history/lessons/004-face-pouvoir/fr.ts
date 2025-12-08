@@ -34,12 +34,25 @@ Il a vu la révolution abbasside renverser les Omeyyades — un bouleversement s
 
 ### L'Offre du Calife
 
-Le calife abbasside **al-Manṣūr** voulut nommer Abū Ḥanīfa **Qāḍī al-Quḍāt** (Juge suprême) de Bagdad — le poste judiciaire le plus élevé de l'empire.
+<div class="scene-box">
 
-C'était un honneur immense. Mais Abū Ḥanīfa **refusa**.
+**🎭 Au Palais du Calife — Bagdad, vers 148 H**
 
-> « لَا أَصْلُحُ لِلْقَضَاءِ »
-> "Je ne suis pas apte à être juge."
+*Le calife al-Manṣūr convoqua Abū Ḥanīfa dans son palais impérial. Les courtisans s'écartèrent respectueusement pour laisser passer le savant.*
+
+**👑 Al-Manṣūr :** « Ô Abū Ḥanīfa ! Je te nomme Qāḍī al-Quḍāt de tout l'empire. Tu seras le juge suprême de Bagdad — le poste judiciaire le plus élevé. »
+
+*Un honneur immense. Mais le visage d'Abū Ḥanīfa resta impassible.*
+
+**🟢 Abū Ḥanīfa :** « لَا أَصْلُحُ لِلْقَضَاءِ — Je ne suis pas apte à être juge. »
+
+**👑 Al-Manṣūr :** « Comment oses-tu refuser ? Tu es le plus grand juriste de l'empire ! »
+
+**🟢 Abū Ḥanīfa :** « Si je dis vrai, je ne suis pas apte. Et si je mens, un menteur n'est pas digne de juger entre les gens. »
+
+*Le visage du calife s'assombrit...*
+
+</div>
 
 ### La Raison du Refus
 
@@ -52,13 +65,25 @@ Il préférait rester **marchand de tissus** et enseigner librement.
 
 ### La Punition
 
-Al-Manṣūr n'accepta pas le refus. Il fit **emprisonner** Abū Ḥanīfa et ordonna qu'on le **fouette** pour le forcer à accepter.
+<div class="scene-box">
 
-Chaque jour, on le fouettait. Chaque jour, il refusait.
+**⛓️ Dans les Cachots de Bagdad — 150 H**
 
-> « لَوْ أَرَادَ أَنْ أَعُدَّ لَهُ أَبْوَابَ الْمَسْجِدِ لَمَا فَعَلْتُ، فَكَيْفَ وَهُوَ يُرِيدُنِي أَنْ أَكْتُبَ دَمَ رَجُلٍ يُضْرَبُ عُنُقُهُ؟ »
-> 
-> "S'il voulait que je compte les portes de la mosquée pour lui, je ne le ferais pas. Comment alors [accepter] qu'il veuille que je signe l'exécution d'un homme ?"
+*Al-Manṣūr n'accepta pas le refus. Abū Ḥanīfa fut jeté en prison. Chaque jour, les gardes venaient le fouetter pour le forcer à accepter.*
+
+*Chaque jour, on le fouettait. Chaque jour, il refusait.*
+
+**🗡️ Le Garde :** « Accepte le poste, vieil homme, et tout ceci s'arrêtera ! »
+
+**🟢 Abū Ḥanīfa :** « لَوْ أَرَادَ أَنْ أَعُدَّ لَهُ أَبْوَابَ الْمَسْجِدِ لَمَا فَعَلْتُ... S'il voulait que je compte les portes de la mosquée pour lui, je ne le ferais pas. »
+
+**🗡️ Le Garde :** « Et pourquoi donc ? »
+
+**🟢 Abū Ḥanīfa :** « فَكَيْفَ وَهُوَ يُرِيدُنِي أَنْ أَكْتُبَ دَمَ رَجُلٍ يُضْرَبُ عُنُقُهُ؟ Comment alors accepterait-il que je signe l'exécution d'un homme innocent ? »
+
+*Les cheveux d'Abū Ḥanīfa blanchirent sous la torture. « Celui qui veut savoir ce que j'endure », dit-il, « qu'il regarde la neige sur ma tête. »*
+
+</div>
 
 ### La Mort en Prison
 
@@ -80,20 +105,39 @@ Mālik (93-179 H) vécut principalement sous les Abbassides, à Médine. Bien qu
 
 ### L'Affaire du Serment Forcé
 
-En **147 H**, le gouverneur de Médine, **Ja'far ibn Sulaymān**, voulut forcer les gens à prêter allégeance au calife. Il demanda à Mālik de valider religieusement que ce serment était **obligatoire et irrévocable**.
+<div class="scene-box">
 
-Mālik refusa. Il enseignait un hadith :
+**🎭 Devant le Gouverneur — Médine, 147 H**
 
-> « لَيْسَ عَلَى مُسْتَكْرَهٍ طَلَاقٌ »
-> "Le divorce prononcé sous contrainte n'est pas valide."
+*Le gouverneur de Médine, Ja'far ibn Sulaymān, convoqua Mālik. Il voulait forcer les gens à prêter allégeance au calife.*
 
-Par analogie : **un serment forcé n'est pas valide non plus**.
+**👑 Ja'far :** « Ô Mālik, tu dois déclarer que ce serment d'allégeance est obligatoire et irrévocable ! »
+
+**🟡 Mālik :** « Je ne peux pas. »
+
+**👑 Ja'far :** « Et pourquoi donc ? »
+
+**🟡 Mālik :** « لَيْسَ عَلَى مُسْتَكْرَهٍ طَلَاقٌ — Le divorce prononcé sous contrainte n'est pas valide. Par analogie, un serment forcé ne l'est pas non plus. »
+
+*Le visage du gouverneur rougit de colère.*
+
+**👑 Ja'far :** « Tu oses défier l'autorité du calife ? Gardes ! »
+
+</div>
 
 ### La Torture
 
-Le gouverneur fit **arrêter Mālik** et ordonna qu'on lui **disloque le bras** — une torture atroce.
+<div class="scene-box">
 
-On tira si fort sur son bras qu'il fut **déboîté de l'épaule**. Mālik ne put plus lever le bras pour le reste de sa vie.
+**💔 La Torture de l'Imam**
+
+*Le gouverneur ordonna qu'on disloque le bras de Mālik. Les bourreaux tirèrent si fort que l'épaule se déboîta.*
+
+*Mālik ne cria pas. Il ne céda pas.*
+
+*Pour le reste de sa vie, il ne put plus lever ce bras. Mais sa parole resta droite.*
+
+</div>
 
 ### La Réaction
 
@@ -129,14 +173,25 @@ La peine potentielle : **la mort**.
 
 ### Le Procès
 
-Devant Hārūn al-Rashīd, al-Shāfi'ī plaida sa cause avec une éloquence remarquable. Le juge présent, **Muḥammad ibn al-Ḥasan al-Shaybānī** (le hanafite), reconnut son innocence et son savoir.
+<div class="scene-box">
 
-Al-Shāfi'ī fut **acquitté**.
+**⚖️ Devant le Calife — Bagdad, 184 H**
 
-> « يَا أَمِيرَ الْمُؤْمِنِينَ، هَذَا رَجُلٌ يَتَعَلَّمُ وَيُعَلِّمُ »
-> 
-> "Ô Commandeur des Croyants, cet homme apprend et enseigne."
-> — **Al-Shaybānī** défendant al-Shāfi'ī
+*Al-Shāfi'ī, encore enchaîné, fut amené devant Hārūn al-Rashīd. Le juge hanafite Muḥammad ibn al-Ḥasan al-Shaybānī était présent.*
+
+**👑 Hārūn al-Rashīd :** « On t'accuse de soutenir les rebelles au Yémen. Qu'as-tu à dire pour ta défense ? »
+
+*Al-Shāfi'ī plaida sa cause avec une éloquence remarquable, citant les preuves de son innocence et exposant sa science.*
+
+*Al-Shaybānī l'écouta attentivement. Puis il se tourna vers le calife :*
+
+**🟢 Al-Shaybānī :** « يَا أَمِيرَ الْمُؤْمِنِينَ، هَذَا رَجُلٌ يَتَعَلَّمُ وَيُعَلِّمُ — Ô Commandeur des Croyants, cet homme apprend et enseigne. Ce n'est pas un rebelle. »
+
+**👑 Hārūn al-Rashīd :** « Alors qu'il soit libéré. »
+
+*Les chaînes tombèrent. Al-Shāfi'ī était libre — et il venait de trouver son prochain maître.*
+
+</div>
 
 ### La Transformation
 
@@ -176,17 +231,25 @@ Mais **Aḥmad refusa**.
 
 ### L'Interrogatoire
 
-On amena Aḥmad devant les inquisiteurs. Ils lui posèrent la question :
+<div class="scene-box">
 
-> « الْقُرْآنُ مَخْلُوقٌ أَمْ غَيْرُ مَخْلُوقٍ؟ »
-> "Le Coran est-il créé ou incréé ?"
+**⚔️ L'Inquisition — Bagdad, 218 H**
 
-Aḥmad répondit :
+*On amena Aḥmad ibn Ḥanbal, enchaîné, devant les inquisiteurs mu'tazilites. La salle était remplie de théologiens du calife.*
 
-> « كَلَامُ اللَّهِ، مِنْهُ بَدَأَ وَإِلَيْهِ يَعُودُ »
-> "C'est la parole d'Allah, d'elle Il a commencé et vers Lui elle retourne."
+**🗡️ L'Inquisiteur :** « الْقُرْآنُ مَخْلُوقٌ أَمْ غَيْرُ مَخْلُوقٍ؟ — Le Coran est-il créé ou incréé ? »
 
-Il refusait de prononcer le mot "créé".
+*Un silence de mort. Tous les regards se tournèrent vers Aḥmad.*
+
+**🟣 Aḥmad :** « كَلَامُ اللَّهِ، مِنْهُ بَدَأَ وَإِلَيْهِ يَعُودُ — C'est la parole d'Allah. D'elle Il a commencé, et vers Lui elle retourne. »
+
+**🗡️ L'Inquisiteur :** « Ce n'est pas la réponse que nous voulons ! Dis que le Coran est créé ! »
+
+**🟣 Aḥmad :** « أَعْطُونِي شَيْئًا مِنْ كِتَابِ اللَّهِ أَوْ سُنَّةِ رَسُولِهِ — Donnez-moi une preuve du Livre d'Allah ou de la Sunna de Son Messager. Alors seulement je le dirai. »
+
+*Il refusait de prononcer le mot « créé ». Et aucune torture ne put le briser.*
+
+</div>
 
 ### La Flagellation
 
@@ -202,15 +265,25 @@ Certains disent qu'il reçut **plus de 80 coups** en une seule session.
 
 ### La Résistance
 
-Malgré la torture, Aḥmad ne prononça jamais les mots qu'on voulait lui faire dire.
+<div class="scene-box">
 
-Un jour, les bourreaux dirent : "Dis juste le mot, et tu seras libre !"
+**⛓️ Dans les Cachots — Deux Ans de Torture**
 
-Aḥmad répondit :
+*Pendant deux ans, Aḥmad fut fouetté régulièrement. On lui donna tant de coups qu'il s'évanouissait. Quand il reprenait conscience, on recommençait.*
 
-> « أَعْطُونِي شَيْئًا مِنْ كِتَابِ اللَّهِ أَوْ سُنَّةِ رَسُولِهِ حَتَّى أَقُولَهُ »
-> 
-> "Donnez-moi quelque chose du Livre d'Allah ou de la Sunna de Son Messager pour que je le dise."
+*Un jour, un bourreau s'approcha :*
+
+**🗡️ Le Bourreau :** « Dis juste le mot, vieil homme ! Dis que le Coran est créé, et tu seras libre ! »
+
+**🟣 Aḥmad :** « أَعْطُونِي شَيْئًا مِنْ كِتَابِ اللَّهِ أَوْ سُنَّةِ رَسُولِهِ حَتَّى أَقُولَهُ... Donnez-moi quelque chose du Livre d'Allah ou de la Sunna de Son Messager. Alors je le dirai. »
+
+**🗡️ Le Bourreau :** « Mais nous n'en avons pas ! »
+
+**🟣 Aḥmad :** « Alors je n'ai rien à dire. »
+
+*Les fouets claquèrent à nouveau. Mais Aḥmad ne céda jamais.*
+
+</div>
 
 ### La Libération
 

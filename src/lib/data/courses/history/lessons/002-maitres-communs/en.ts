@@ -188,35 +188,59 @@ Yet, Aḥmad chose to specialize in hadith rather than systematic fiqh. Al-Shāf
 
 ### Young Mālik and Old Nāfi'
 
-When Mālik was a teenager, he was so passionate about knowledge that he would wait for Nāfi' outside his house. One day, Nāfi' came out and found Mālik who had been waiting for hours under the scorching Medina sun.
+<div class="scene-box">
 
-*"Why don't you go home?"* asked Nāfi'.
+**🎭 Outside Nāfi''s House — Medina, circa 105 AH**
 
-*"I fear missing even one of your hadiths,"* replied young Mālik.
+*Young Mālik, barely a teenager, was so passionate about knowledge that he waited for Nāfi' outside his house for hours, under the scorching Medina sun.*
 
-Nāfi' was so impressed that he invited Mālik to his home and taught him personally for years.
+*When old Nāfi' finally came out, he found the boy standing there, patient.*
+
+**🟠 Nāfi':** "Why don't you go home, my boy?"
+
+**🟡 Young Mālik:** "I fear missing even one of your hadiths, O Abū 'Abdillāh."
+
+*Nāfi' was so impressed that he invited Mālik to his home and taught him personally for years.*
+
+</div>
 
 ---
 
 ### Al-Shāfi'ī Recites the Muwaṭṭa' by Heart
 
-When al-Shāfi'ī arrived in Medina to study with Mālik, he had already memorized the entire Muwaṭṭa'! The governor of Mecca had written a letter of recommendation for him.
+<div class="scene-box">
 
-Mālik, impressed but skeptical, asked him to recite. Al-Shāfi'ī began... and didn't stop. Every page, every hadith, every commentary — everything was there.
+**🎭 In Mālik's Circle — Medina, 163 AH**
 
-After years of study, Mālik told his student:
+*A young man of twenty entered Mālik's study circle, carrying a letter from the governor of Mecca. He had already memorized the entire Muwaṭṭa'!*
 
-> "Fear Allah, for you will have a tremendous future."
+**🟡 Mālik:** "I'm told you know my book by heart. Recite."
+
+*Al-Shāfi'ī began... and didn't stop. Every page, every hadith, every commentary — everything was there.*
+
+*Mālik's eyes widened. This young man was extraordinary.*
+
+**🟡 Mālik:** "Fear Allah, for you will have a tremendous future."
+
+</div>
 
 ---
 
 ### Aḥmad Defends His Teacher
 
-Years after al-Shāfi'ī's death, someone criticized him in front of Aḥmad. Aḥmad's face changed color and he said:
+<div class="scene-box">
 
-> "How dare you criticize the one who taught me to distinguish the abrogating hadith from the abrogated?"
+**💔 In Aḥmad's Circle — Baghdad, after 204 AH**
 
-Then he praised his teacher for an entire hour, tears in his eyes.
+*Years after al-Shāfi'ī's death, someone dared to criticize him in front of Aḥmad. Aḥmad's face changed color.*
+
+**🟣 Aḥmad:** "How dare you criticize the one who taught me to distinguish the abrogating hadith from the abrogated?"
+
+*Then he praised his teacher for an entire hour, tears in his eyes.*
+
+**🟣 Aḥmad:** "Al-Shāfi'ī was like the sun for the world and like health for the body."
+
+</div>
 
 ---
 
