@@ -72,25 +72,57 @@ Allah تعالى says:
 
 Know that all four schools are upon the truth. They are efforts of interpretation of the Quran and Sunnah:
 
-### 1. The Hanafi School
-- **Founder**: Imam Abu Hanifa An-Nu'man ibn Thabit (80-150 AH)
-- **Methodology**: Frequent use of analogy and reasoning
-- **Prevalence**: Turkey, India, Pakistan, Afghanistan
+<div class="madhahib-grid">
 
-### 2. The Maliki School
-- **Founder**: Imam Malik ibn Anas (93-179 AH)
-- **Methodology**: Relies on the practice of the people of Madinah
-- **Prevalence**: North Africa, West Africa
+<div class="madhab-card hanafi">
 
-### 3. The Shafi'i School
-- **Founder**: Imam Muhammad ibn Idris Ash-Shafi'i (150-204 AH)
-- **Methodology**: Codified the principles of Fiqh (Usul al-Fiqh)
-- **Prevalence**: Egypt, Yemen, Southeast Asia
+### 🟢 The Hanafi School
 
-### 4. The Hanbali School
-- **Founder**: Imam Ahmad ibn Hanbal (164-241 AH)
-- **Methodology**: Prioritizes text over opinion
-- **Prevalence**: Saudi Arabia, Gulf countries
+| | |
+|---|---|
+| **Founder** | Imam Abu Hanifa An-Nu'man ibn Thabit (80-150 AH) |
+| **Methodology** | Frequent use of analogy and reasoning |
+| **Prevalence** | 🇹🇷 Turkey • 🇮🇳 India • 🇵🇰 Pakistan • 🇦🇫 Afghanistan |
+
+</div>
+
+<div class="madhab-card maliki">
+
+### 🟡 The Maliki School
+
+| | |
+|---|---|
+| **Founder** | Imam Malik ibn Anas (93-179 AH) |
+| **Methodology** | Relies on the practice of the people of Madinah |
+| **Prevalence** | 🇲🇦 Morocco • 🇩🇿 Algeria • 🇹🇳 Tunisia • 🇱🇾 Libya |
+
+</div>
+
+<div class="madhab-card shafii">
+
+### 🔵 The Shafi'i School
+
+| | |
+|---|---|
+| **Founder** | Imam Muhammad ibn Idris Ash-Shafi'i (150-204 AH) |
+| **Methodology** | Codified the principles of Fiqh (Usul al-Fiqh) |
+| **Prevalence** | 🇪🇬 Egypt • 🇾🇪 Yemen • 🇮🇩 Indonesia • 🇲🇾 Malaysia |
+
+</div>
+
+<div class="madhab-card hanbali">
+
+### 🟣 The Hanbali School
+
+| | |
+|---|---|
+| **Founder** | Imam Ahmad ibn Hanbal (164-241 AH) |
+| **Methodology** | Prioritizes text over opinion |
+| **Prevalence** | 🇸🇦 Saudi Arabia • 🇶🇦 Qatar • 🇰🇼 Kuwait • 🇦🇪 UAE |
+
+</div>
+
+</div>
 
 ---
 

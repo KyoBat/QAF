@@ -72,25 +72,57 @@ Allah تعالى dit :
 
 Sachez que les quatre écoles sont toutes sur la vérité. Ce sont des efforts d'interprétation du Coran et de la Sunna :
 
-### 1. L'école Hanafite
-- **Fondateur** : Imam Abu Hanifa An-Nu'man ibn Thabit (80-150 H)
-- **Méthodologie** : Usage fréquent de l'analogie et du raisonnement
-- **Rayonnement** : Turquie, Inde, Pakistan, Afghanistan
+<div class="madhahib-grid">
 
-### 2. L'école Malikite
-- **Fondateur** : Imam Malik ibn Anas (93-179 H)
-- **Méthodologie** : S'appuie sur la pratique des gens de Médine
-- **Rayonnement** : Afrique du Nord, Afrique de l'Ouest
+<div class="madhab-card hanafi">
 
-### 3. L'école Shafiite
-- **Fondateur** : Imam Muhammad ibn Idris Ash-Shafi'i (150-204 H)
-- **Méthodologie** : A codifié les principes du Fiqh (Usul al-Fiqh)
-- **Rayonnement** : Égypte, Yémen, Asie du Sud-Est
+### 🟢 L'école Hanafite
 
-### 4. L'école Hanbalite
-- **Fondateur** : Imam Ahmad ibn Hanbal (164-241 H)
-- **Méthodologie** : Privilégie le texte sur l'opinion
-- **Rayonnement** : Arabie Saoudite, pays du Golfe
+| | |
+|---|---|
+| **Fondateur** | Imam Abu Hanifa An-Nu'man ibn Thabit (80-150 H) |
+| **Méthodologie** | Usage fréquent de l'analogie et du raisonnement |
+| **Rayonnement** | 🇹🇷 Turquie • 🇮🇳 Inde • 🇵🇰 Pakistan • 🇦🇫 Afghanistan |
+
+</div>
+
+<div class="madhab-card maliki">
+
+### 🟡 L'école Malikite
+
+| | |
+|---|---|
+| **Fondateur** | Imam Malik ibn Anas (93-179 H) |
+| **Méthodologie** | S'appuie sur la pratique des gens de Médine |
+| **Rayonnement** | 🇲🇦 Maroc • 🇩🇿 Algérie • 🇹🇳 Tunisie • 🇱🇾 Libye |
+
+</div>
+
+<div class="madhab-card shafii">
+
+### 🔵 L'école Shafiite
+
+| | |
+|---|---|
+| **Fondateur** | Imam Muhammad ibn Idris Ash-Shafi'i (150-204 H) |
+| **Méthodologie** | A codifié les principes du Fiqh (Usul al-Fiqh) |
+| **Rayonnement** | 🇪🇬 Égypte • 🇾🇪 Yémen • 🇮🇩 Indonésie • 🇲🇾 Malaisie |
+
+</div>
+
+<div class="madhab-card hanbali">
+
+### 🟣 L'école Hanbalite
+
+| | |
+|---|---|
+| **Fondateur** | Imam Ahmad ibn Hanbal (164-241 H) |
+| **Méthodologie** | Privilégie le texte sur l'opinion |
+| **Rayonnement** | 🇸🇦 Arabie Saoudite • 🇶🇦 Qatar • 🇰🇼 Koweït • 🇦🇪 EAU |
+
+</div>
+
+</div>
 
 ---
 

@@ -473,3 +473,109 @@
 [dir="rtl"] .prose-content td {
   @apply text-right;
 }
+
+/* Madhahib Grid - Four Schools of Fiqh */
+.madhahib-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+
+.madhab-card {
+  border-radius: 1rem;
+  padding: 1.5rem;
+  background: linear-gradient(135deg, var(--card-bg) 0%, var(--card-bg-end) 100%);
+  border: 2px solid var(--card-border);
+  box-shadow: 0 4px 20px -4px var(--card-shadow);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.madhab-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 30px -4px var(--card-shadow);
+}
+
+.madhab-card h3 {
+  margin: 0 0 1rem 0 !important;
+  font-size: 1.25rem !important;
+  font-weight: 700 !important;
+}
+
+.madhab-card table {
+  margin: 0 !important;
+  border: none !important;
+}
+
+.madhab-card td {
+  border: none !important;
+  padding: 0.5rem 0.75rem !important;
+  background: transparent !important;
+}
+
+.madhab-card td:first-child {
+  font-weight: 600;
+  white-space: nowrap;
+  width: 80px;
+}
+
+/* Hanafi - Green */
+.madhab-card.hanafi {
+  --card-bg: #dcfce7;
+  --card-bg-end: #bbf7d0;
+  --card-border: #22c55e;
+  --card-shadow: rgba(34, 197, 94, 0.3);
+}
+.madhab-card.hanafi h3 { color: #15803d; }
+
+/* Maliki - Yellow/Gold */
+.madhab-card.maliki {
+  --card-bg: #fef9c3;
+  --card-bg-end: #fef08a;
+  --card-border: #eab308;
+  --card-shadow: rgba(234, 179, 8, 0.3);
+}
+.madhab-card.maliki h3 { color: #a16207; }
+
+/* Shafii - Blue */
+.madhab-card.shafii {
+  --card-bg: #dbeafe;
+  --card-bg-end: #bfdbfe;
+  --card-border: #3b82f6;
+  --card-shadow: rgba(59, 130, 246, 0.3);
+}
+.madhab-card.shafii h3 { color: #1d4ed8; }
+
+/* Hanbali - Purple */
+.madhab-card.hanbali {
+  --card-bg: #f3e8ff;
+  --card-bg-end: #e9d5ff;
+  --card-border: #a855f7;
+  --card-shadow: rgba(168, 85, 247, 0.3);
+}
+.madhab-card.hanbali h3 { color: #7c3aed; }
+
+/* Dark mode for Madhab cards */
+.dark .madhab-card.hanafi {
+  --card-bg: rgba(34, 197, 94, 0.15);
+  --card-bg-end: rgba(34, 197, 94, 0.1);
+}
+.dark .madhab-card.hanafi h3 { color: #4ade80; }
+
+.dark .madhab-card.maliki {
+  --card-bg: rgba(234, 179, 8, 0.15);
+  --card-bg-end: rgba(234, 179, 8, 0.1);
+}
+.dark .madhab-card.maliki h3 { color: #facc15; }
+
+.dark .madhab-card.shafii {
+  --card-bg: rgba(59, 130, 246, 0.15);
+  --card-bg-end: rgba(59, 130, 246, 0.1);
+}
+.dark .madhab-card.shafii h3 { color: #60a5fa; }
+
+.dark .madhab-card.hanbali {
+  --card-bg: rgba(168, 85, 247, 0.15);
+  --card-bg-end: rgba(168, 85, 247, 0.1);
+}
+.dark .madhab-card.hanbali h3 { color: #c084fc; }
