@@ -101,7 +101,7 @@ C'est l'argent qu'une personne vous doit (prêt, vente à crédit, etc.).
 
 > 💡 **Position Malikite :** Pour une créance sûre, on attend de la récupérer, puis on paie la Zakat d'une seule année, quel que soit le nombre d'années passées.
 
-### ⚠️ Divergence sur les créances
+### 📊 Positions des écoles sur les créances
 
 | École | Créance sûre | Créance douteuse |
 |-------|--------------|------------------|
@@ -195,7 +195,7 @@ Le Hawl commence le jour où :
 
 > 💡 **Exemple :** Un commerçant a 10 000€ de capital au 1er Muharram. Au 1er Rajab, il fait 5 000€ de bénéfice. Au 1er Muharram suivant, il paie la Zakat sur 15 000€ (le profit suit le capital).
 
-### ⚠️ Divergence sur les salaires
+### 📊 Positions des écoles sur les salaires
 
 Pour les revenus réguliers (salaires), les savants contemporains proposent :
 
@@ -211,7 +211,7 @@ Pour les revenus réguliers (salaires), les savants contemporains proposent :
 
 ## 7. Sixième Condition : L'Absence de Dette (عدم الدين)
 
-### ⚠️ DIVERGENCE MAJEURE
+### 📊 POSITIONS DES ÉCOLES
 
 La dette diminue-t-elle le Nisab pour la Zakat ?
 

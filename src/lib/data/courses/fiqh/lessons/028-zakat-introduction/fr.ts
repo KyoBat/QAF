@@ -190,7 +190,7 @@ Ce verset parle de la Zakat obligatoire mais utilise le terme Sadaqat. Le contex
 | 5 | **Passage du Hawl** | حولان الحول | Une année lunaire complète |
 | 6 | **Biens en croissance** | النماء | Biens susceptibles de croître |
 
-### ⚠️ Divergence sur la condition de la raison ('Aql) et la puberté (Bulugh)
+### 📊 Positions des écoles sur la condition de la raison ('Aql) et la puberté (Bulugh)
 
 | École | Zakat sur les biens de l'enfant/fou ? |
 |-------|---------------------------------------|

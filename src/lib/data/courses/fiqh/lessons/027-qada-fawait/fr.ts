@@ -117,7 +117,7 @@ Le **Qada'** (القضاء) est l'accomplissement d'une prière obligatoire apr�
 
 ## 💡 6. Cas Particuliers
 
-### ⚠️ DIVERGENCE MAJEURE : L'apostat qui revient à l'Islam
+### 📊 POSITIONS DES ÉCOLES : L'apostat qui revient à l'Islam
 
 | École | Doit-il rattraper les prières de son apostasie ? |
 |-------|------------------------------------------------|

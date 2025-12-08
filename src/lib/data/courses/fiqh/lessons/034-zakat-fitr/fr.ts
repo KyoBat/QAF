@@ -56,7 +56,7 @@ La Zakat Al-Fitr (صدقة الفطر) est une aumône obligatoire à la fin du 
 | **Parents à charge** | L'enfant qui les prend en charge |
 | **Domestique** | L'employeur (selon certains avis) |
 
-### ⚠️ Divergence sur les Personnes à Charge
+### 📊 Positions des écoles sur les Personnes à Charge
 
 | École | Qui est inclus ? |
 |-------|------------------|
@@ -122,7 +122,7 @@ La Zakat Al-Fitr (صدقة الفطر) est une aumône obligatoire à la fin du 
 
 ## 5. Paiement en Argent
 
-### ⚠️ DIVERGENCE MAJEURE
+### 📊 POSITIONS DES ÉCOLES
 
 | École | Paiement en Argent ? |
 |-------|----------------------|

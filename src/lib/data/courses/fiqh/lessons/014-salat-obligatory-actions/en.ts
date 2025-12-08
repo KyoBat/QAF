@@ -51,7 +51,7 @@ All praise be to Allah who perfected the religion for us. May peace and blessing
 
 ## 🎓 Comparison of Schools on Obligations
 
-### 📌 Divergence on the Number of Obligations
+### 📌 Schools' Positions on the Number of Obligations
 
 | School | Number of Obligations | Main Obligations According to Them |
 |--------|----------------------|-----------------------------------|

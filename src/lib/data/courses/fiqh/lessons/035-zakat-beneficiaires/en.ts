@@ -110,7 +110,7 @@ People given Zakat to:
 - **Prevent** their harm
 - **Hope** for others' conversion through their influence
 
-### ⚠️ Divergence on Current Applicability
+### 📊 Schools' Positions on Current Applicability
 
 | School | Does this category still exist? |
 |--------|--------------------------------|

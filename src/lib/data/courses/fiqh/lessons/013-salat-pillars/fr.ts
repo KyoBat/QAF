@@ -133,7 +133,7 @@ Divise les piliers en trois étapes pour que la séquence se fixe dans l'esprit.
 | 🔵 **Shafiite** | 13 piliers | Proche des Hanbalites, avec des détails sur **l'ordre des piliers** |
 | 🟣 **Hanbalite** | 14 piliers | Comme mentionné dans le tableau ci-dessus |
 
-### 📌 Divergence des écoles sur la récitation de la Fatiha
+### 📌 Positions des écoles sur la récitation de la Fatiha
 
 | École | Statut pour l'imam | Statut pour le suiveur | Preuve retenue |
 |-------|-------------------|----------------------|----------------|
@@ -144,7 +144,7 @@ Divise les piliers en trois étapes pour que la séquence se fixe dans l'esprit.
 
 > 📌 **Avis Malikite retenu :** La Fatiha est un pilier pour l'imam et celui qui prie seul, et elle n'est pas obligatoire pour le suiveur dans la prière à voix haute en raison de l'obligation d'écouter attentivement.
 
-### 📌 Divergence des écoles sur la sérénité (tuma'nina)
+### 📌 Positions des écoles sur la sérénité (tuma'nina)
 
 | École | Statut de la sérénité | Conséquence de son omission |
 |-------|----------------------|---------------------------|
@@ -155,7 +155,7 @@ Divise les piliers en trois étapes pour que la séquence se fixe dans l'esprit.
 
 > ⚠️ **Avertissement :** L'avis de la majorité est que la sérénité est un pilier. Celui qui picote sa prière, sa prière est invalide selon trois écoles !
 
-### 📌 Divergence des écoles sur le dernier tashahhud
+### 📌 Positions des écoles sur le dernier tashahhud
 
 | École | Statut | Preuve |
 |-------|--------|--------|

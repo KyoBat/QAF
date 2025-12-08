@@ -135,7 +135,7 @@ La Zakat sur les produits agricoles (الزروع والثمار) est une obliga
 
 ## 6. Frais et Déductions
 
-### ⚠️ DIVERGENCE IMPORTANTE
+### 📊 POSITIONS DES ÉCOLES
 
 | École | Les frais sont-ils déduits du Nisab ? |
 |-------|--------------------------------------|

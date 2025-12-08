@@ -3,247 +3,252 @@
  * English Content - Multi-Madhhab Approach (Maliki Priority)
  */
 
-export const content = `# 📜 The Fiqh of Prayer
+export const content = `# 📜 صَلَاةُ الْجَمَاعَةِ — Congregational Prayer
 
-## 📖 Congregational Prayer (Salat Al-Jama'a)
-
-All praise be to Allah who made congregational prayer a pillar of Muslim communal life. May peace and blessings be upon our Prophet Muhammad ﷺ who never abandoned it. Congregational prayer is one of the most apparent rites of Islam and a cause for multiplied rewards.
-
-> The Prophet ﷺ said: **"Congregational prayer is superior to individual prayer by twenty-seven degrees"** — Al-Bukhari (645), Muslim (650)
+> *"Congregational prayer is superior to individual prayer by twenty-seven degrees"* — Congregational prayer is one of the most apparent rites of Islam and a cause for multiplied rewards.
 
 ---
 
-## 🔍 1. The Legal Ruling (الحكم الشرعي)
+## 📜 Foundational Texts (النصوص الأساسية)
 
-### ⚠️ The Opinions of the 4 Schools
+### The Quran
 
-| School | Ruling | Main Evidence |
-|--------|--------|---------------|
-| 🟡 **Maliki** | **Sunna Mu'akkada** (strongly recommended) | The Prophet's constant practice without explicit obligation |
-| 🟢 Hanafi | Sunna Mu'akkada (Wajib according to some) | Same |
-| 🔵 Shafi'i | Fard Kifaya (communal obligation) | To manifest the rites of Islam |
-| 🟣 Hanbali | Fard 'Ayn (individual obligation) | Hadith of the blind man and threat to burn houses |
+> **﴿ وَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ وَارْكَعُوا مَعَ الرَّاكِعِينَ ﴾**
+> *"And establish prayer and give zakah and bow with those who bow."*
+> — [Al-Baqarah: 43]
 
-### 📌 Detail of the Maliki Opinion
+> **﴿ وَإِذَا كُنتَ فِيهِمْ فَأَقَمْتَ لَهُمُ الصَّلَاةَ فَلْتَقُمْ طَائِفَةٌ مِّنْهُم مَّعَكَ ﴾**
+> *"And when you are among them and lead them in prayer, let a group of them stand with you."*
+> — [An-Nisa: 102]
 
-According to the Maliki school, congregational prayer for the five daily prayers is a **Sunna Mu'akkada** (strongly recommended prophetic tradition). Abandoning it without valid excuse is blameworthy (makruh) but does not constitute a major sin.
+### The Sunnah
+
+> Narrated by **Abu Hurayra** رضي الله عنه that the Messenger of Allah ﷺ said:
+> **« صَلَاةُ الْجَمَاعَةِ أَفْضَلُ مِنْ صَلَاةِ أَحَدِكُمْ وَحْدَهُ بِسَبْعٍ وَعِشْرِينَ دَرَجَةً »**
+> *"Congregational prayer is superior to individual prayer by twenty-seven degrees."*
+> — Sahih Al-Bukhari (645), Sahih Muslim (650)
+
+> Narrated by **Abu Hurayra** رضي الله عنه that the Messenger of Allah ﷺ said:
+> **« لَقَدْ هَمَمْتُ أَنْ آمُرَ بِالصَّلَاةِ فَتُقَامَ، ثُمَّ آمُرَ رَجُلًا فَيُصَلِّيَ بِالنَّاسِ، ثُمَّ أَنْطَلِقَ مَعِي بِرِجَالٍ مَعَهُمْ حُزَمٌ مِنْ حَطَبٍ إِلَى قَوْمٍ لَا يَشْهَدُونَ الصَّلَاةَ فَأُحَرِّقَ عَلَيْهِمْ بُيُوتَهُمْ بِالنَّارِ »**
+> *"I have certainly considered ordering the prayer to be established, then commanding a man to lead the people, then going with men carrying bundles of firewood to burn the houses of those who do not attend the prayer."*
+> — Sahih Al-Bukhari (644), Sahih Muslim (651)
+
+> Narrated by **Abu Hurayra** رضي الله عنه: A blind man came to the Prophet ﷺ and said: "O Messenger of Allah, I have no guide to lead me to the mosque..." The Prophet ﷺ said:
+> **« هَلْ تَسْمَعُ النِّدَاءَ بِالصَّلَاةِ؟ » قَالَ: نَعَمْ. قَالَ: « فَأَجِبْ »**
+> *"Do you hear the call to prayer? — Yes. — Then respond to it."*
+> — Sahih Muslim (653)
+
+### 📚 Authentication (التخريج)
+
+| Source | Number | Status |
+|--------|--------|--------|
+| **Sahih Al-Bukhari** | 644, 645 | ✅ Sahih |
+| **Sahih Muslim** | 650, 651, 653 | ✅ Sahih |
+
+---
+
+## 🎓 Scholarly Sayings (أقوال العلماء)
+
+> **Imam Malik** رحمه الله said in *Al-Mudawwana*:
+> *"Congregational prayer is a Sunna Mu'akkada. One who abandons it regularly without excuse is blameworthy."*
+
+> **Ibn Rushd** رحمه الله wrote in *Bidayat Al-Mujtahid*:
+> *"The scholars differed on the status of congregational prayer: some made it obligatory, others strongly recommended."*
+
+> **Ibn Qudama** رحمه الله mentioned in *Al-Mughni*:
+> *"Congregational prayer is an individual obligation according to Imam Ahmad, based on the hadith of the blind man."*
+
+---
+
+## 🔍 Linguistic Analysis (التحليل اللغوي)
+
+### Vocabulary Table
+
+| Arabic Term | Transliteration | Root | Technical Definition |
+|-------------|-----------------|------|---------------------|
+| **جَمَاعَة** | Jama'a | ج-م-ع | Group, congregation of worshippers |
+| **إِمَام** | Imam | أ-م-م | One who leads the prayer |
+| **مَأْمُوم** | Ma'mum | أ-م-م | One who follows the imam |
+| **صَفّ** | Saff | ص-ف-ف | Prayer row |
+| **اِقْتِدَاء** | Iqtida' | ق-د-ي | Following the imam |
+
+---
+
+## 📚 Detailed Explanation (الشرح المفصل)
+
+### 🔷 Definition of Congregational Prayer
+
+**Linguistically:** Jama'a refers to gathering and union of people.
+
+**In Sharia:** It is when one or more worshippers (ma'mum) follow an imam in prayer, linking their actions to his.
+
+### 🔷 Legal Ruling (الحكم الشرعي)
+
+| School | Ruling |
+|--------|--------|
+| 🟡 **Maliki** | **Sunna Mu'akkada** (strongly emphasized) |
+| 🟢 Hanafi | Sunna Mu'akkada (Wajib for some) |
+| 🔵 Shafi'i | Fard Kifaya (collective obligation) |
+| 🟣 Hanbali | Fard 'Ayn (individual obligation) |
+
+### 📌 Maliki School Detail
+
+According to the Maliki school, congregational prayer for the five daily prayers is a **Sunna Mu'akkada** (strongly emphasized prophetic tradition). Abandoning it without valid excuse is blameworthy (makruh) but not a major sin.
 
 **Maliki Arguments:**
 - The Prophet ﷺ never explicitly made it obligatory
-- The threatening hadiths were directed at hypocrites who abandoned the mosque
+- The threatening hadiths were directed at hypocrites
 - Individual prayer remains valid by consensus
 
-> 💡 **For Malikis:** The jama'a is strongly recommended and regular abandonment without excuse is blameworthy, but individual prayer remains valid.
+> 💡 **For Malikis:** Congregational prayer is strongly recommended and regular abandonment without excuse is blameworthy, but individual prayer remains valid.
 
-### 📌 Arguments of Other Schools
-
-**The Hanbalis** base their opinion on:
-- The verse: **"And bow with those who bow"** (Al-Baqara: 43)
-
-<div class="scene-box">
-
-**🎭 The Scene of the Blind Man Who Asked for Exemption**
-
-*A blind man came to the Prophet ﷺ...*
-
-*He had no guide to lead him to the mosque...*
-
-**The blind man:** O Messenger of Allah, I am a blind man, my house is far, and I have a guide who does not suit me. Do I have an exemption to pray at home?
-
-**The Prophet ﷺ:** "Do you hear the call to prayer?"
-
-**The blind man:** Yes.
-
-**The Prophet ﷺ:** "I find no exemption for you"
-
-</div>
-
-**📍 Narrator:** Abu Hurayra رضي الله عنه — Muslim (653)
-
-<div class="scene-box">
-
-**🎭 The Threat to Burn the Houses**
-
-*The Prophet ﷺ saw people who did not attend the congregational prayer...*
-
-**The Prophet ﷺ:** "I have certainly considered ordering the prayer to be established, then commanding a man to lead the people in prayer, then going with men carrying bundles of firewood to people who do not attend the prayer and burning their houses down"
-
-</div>
-
-**📍 Narrator:** Abu Hurayra رضي الله عنه — Al-Bukhari (644), Muslim (651)
-
----
-
-## 🔷 2. Virtues of Congregational Prayer (فضائل صلاة الجماعة)
-
-### 🌟 Multiplication of Rewards
+### 🔷 Virtues of Congregational Prayer
 
 | Virtue | Evidence |
 |--------|----------|
 | **27 degrees of superiority** | "Congregational prayer is superior by 27 degrees" — Al-Bukhari (645) |
 | **25 degrees in another version** | "...by 25 degrees" — Al-Bukhari (619) |
-| **Walking to the mosque = rewards** | Each step raises a degree and erases a sin — Muslim (649) |
-| **Waiting for prayer = prayer** | "You are in prayer as long as you await the prayer" — Al-Bukhari (647) |
-| **Angels make du'a for him** | "The angels pray upon one of you as long as he remains in his place of prayer" — Al-Bukhari (445) |
+| **Walking to the mosque** | Each step raises a degree and erases a sin — Muslim (649) |
+| **Waiting for prayer** | "You are in prayer as long as you await the prayer" — Al-Bukhari (647) |
+| **Angels' supplications** | "The angels pray upon one of you as long as he remains in his place" — Al-Bukhari (445) |
 
-### 📌 Important Hadith
-
-> The Prophet ﷺ said: **"A man's prayer in congregation equals twenty-five or twenty-seven times his prayer in his house or market. That is because when he performs ablution well, then goes out to the mosque with no other purpose than prayer, each step he takes raises him a degree and erases a sin"** — Al-Bukhari (647)
-
----
-
-## 📚 3. Conditions for the Imam (شروط الإمامة)
-
-### 📋 Conditions for Valid Imamate
+### 🔷 Conditions for the Imam
 
 | # | Condition | Explanation |
 |---|-----------|-------------|
-| 1 | **Being Muslim** | A non-Muslim's imamate is invalid |
-| 2 | **Being sane** | An insane person cannot be imam |
-| 3 | **Being adult** | For obligatory prayers (differing views for nawafil) |
+| 1 | **Being Muslim** | A non-Muslim cannot lead |
+| 2 | **Being sane** | An insane person cannot lead |
+| 3 | **Being adult** | For obligatory prayers (different views for nawafil) |
 | 4 | **Being male** | To lead men (women can lead women) |
-| 5 | **Ability to recite Al-Fatiha** | Correctly, without invalidating errors |
-| 6 | **Ability to perform the pillars** | Being able to do the essential movements |
+| 5 | **Ability to recite Al-Fatiha** | Correct recitation without invalidating errors |
+| 6 | **Ability to perform pillars** | Being able to do the essential movements |
 
-### 📌 Who Has Most Right to Lead?
+### 🔷 Who Has Most Right to Lead?
 
-> The Prophet ﷺ said: **"The one who should lead the people in prayer is the one who is most versed in the Book of Allah. If they are equal in recitation, then the most knowledgeable in the Sunnah. If they are equal in Sunnah, then the earliest in Hijra. If they are equal in Hijra, then the oldest"** — Muslim (673)
-
-### Order of Priority for Imamate:
+> The Prophet ﷺ said: **"The one who should lead the people in prayer is the one who is most versed in the Book of Allah. If they are equal, then the most knowledgeable in the Sunnah. If they are equal, then the earliest in migration. If they are equal, then the oldest."** — Muslim (673)
 
 | Priority | Criterion |
 |----------|-----------|
-| 1️⃣ | Most versed in the Quran (quality of recitation + amount memorized) |
-| 2️⃣ | Most knowledgeable in Sunnah and Fiqh |
+| 1️⃣ | Most versed in Quran |
+| 2️⃣ | Most knowledgeable in Sunnah |
 | 3️⃣ | Earliest in Islam |
 | 4️⃣ | Oldest in age |
-| 5️⃣ | Owner of the place (in his home or mosque) |
+| 5️⃣ | Owner of the place |
 
----
+### 🔷 Rules of the Rows
 
-## 🎯 4. Rules of the Rows (أحكام الصفوف)
-
-### 📏 The Importance of Straightening Rows
-
-> The Prophet ﷺ said: **"Straighten your rows, for straightening the rows is part of perfecting the prayer"** — Al-Bukhari (723), Muslim (433)
-
-> And he ﷺ said: **"Straighten your rows or Allah will put division between your hearts"** — Al-Bukhari (717), Muslim (436)
-
-### 📋 Practical Rules for Rows
+> The Prophet ﷺ said: **"Straighten your rows, for straightening the rows is part of perfecting the prayer"** — Al-Bukhari (723)
 
 | Rule | Detail |
 |------|--------|
-| **Fill the gaps** | Do not leave space between worshippers |
-| **Align shoulders and ankles** | "Align your shoulders, your feet, fill the gaps" — Abu Dawud (666) |
+| **Fill the gaps** | Leave no space between worshippers |
+| **Align shoulders and ankles** | "Align your shoulders and feet" — Abu Dawud (666) |
 | **Start from the middle** | Behind the imam, then extend right and left |
-| **Complete the first row first** | Do not start a new row if the previous is incomplete |
-| **Men's rows before women's** | "The best rows for men are the first, the worst are the last. The best rows for women are the last" — Muslim (440) |
+| **Complete the first row first** | Don't start a new row if previous is incomplete |
+| **Men's rows before women's** | Best rows for men are first, for women are last — Muslim (440) |
 
-### 📌 Position of the Solitary Worshipper
+### 🔷 Following the Imam
 
-| Situation | Correct Position |
-|-----------|------------------|
-| **One worshipper behind the imam** | To the imam's right |
-| **Two worshippers** | Behind the imam (forming a row) |
-| **Arrived and row is full** | Wait for someone or signal a worshipper to step back |
-
-### ⚠️ Praying Alone Behind the Row
-
-> The Prophet ﷺ said: **"There is no prayer for one who prays alone behind the row"** — Ibn Majah (1003), authenticated by Al-Albani
-
-| School | Ruling on Validity |
-|--------|-------------------|
-| 🟡 **Maliki** | **Valid but makruh** (blameworthy) |
-| 🟢 Hanafi | Valid but makruh |
-| 🔵 Shafi'i | Valid but makruh |
-| 🟣 Hanbali | **Invalid** (must repeat) |
-
----
-
-## ⚖️ 5. Following the Imam (متابعة الإمام)
-
-### 📋 The Obligation to Follow the Imam
-
-The follower (ma'mum) must follow the imam in all his movements, without preceding or lagging excessively.
-
-> The Prophet ﷺ said: **"The imam has been appointed to be followed. When he makes takbir, make takbir. When he bows, bow. When he says 'Sami'a Allahu liman hamidah', say 'Rabbana wa lakal hamd'. When he prostrates, prostrate"** — Al-Bukhari (734), Muslim (411)
-
-### ⚠️ Prohibition of Preceding the Imam
-
-> The Prophet ﷺ said: **"Does not one of you fear, if he raises his head before the imam, that Allah will transform his head into a donkey's head, or his form into a donkey's form?"** — Al-Bukhari (691), Muslim (427)
-
-### 📋 Types of Following
+> The Prophet ﷺ said: **"The imam has been appointed to be followed. When he makes takbir, make takbir. When he bows, bow. When he says 'Sami'a Allahu liman hamidah', say 'Rabbana wa lakal hamd'. When he prostrates, prostrate."** — Al-Bukhari (734)
 
 | Type | Description | Ruling |
 |------|-------------|--------|
-| **Musabaqa** (preceding) | Moving before the imam | ❌ Prohibited |
-| **Muwafaqa** (coinciding) | Moving at the same time | ⚠️ Makruh |
-| **Mutaba'a** (following) | Moving just after | ✅ Obligatory |
-| **Takhalluf** (lagging) | Lagging much without excuse | ❌ Prohibited |
-
-### 📌 When Can One Leave the Imam's Prayer?
-
-| Valid Excuse | Example |
-|--------------|---------|
-| ✅ Sudden illness | Nausea, imminent fainting |
-| ✅ Urgent need | Irrepressible urge |
-| ✅ Imam's excessive prolongation | To the point of causing real hardship |
-| ✅ Remembering something urgent | Fire at home, child in danger |
+| **Preceding (Musabaqa)** | Moving before the imam | ❌ Prohibited |
+| **Coinciding (Muwafaqa)** | Moving at the same time | ⚠️ Makruh |
+| **Following (Mutaba'a)** | Moving just after | ✅ Obligatory |
+| **Lagging (Takhalluf)** | Lagging much without excuse | ❌ Prohibited |
 
 ---
 
-## 💡 6. Practical Cases (مسائل عملية)
+## ⚖️ Points of View of the Schools (آراء المذاهب)
 
-### 📌 Arriving Late to the Mosque
-
-| What is Caught | Ruling |
-|----------------|--------|
-| **The ruku' with the imam** | Caught the complete rak'a |
-| **After the ruku'** | Missed this rak'a, complete it after |
-| **Final tashahhud only** | Got the reward of jama'a but repeat all rak'at |
-
-### 📌 The Imam Makes an Error
-
-| Type of Error | What the Ma'mum Does |
-|---------------|----------------------|
-| **Error in recitation** | Say "Subhan Allah" (men) or clap hands (women) |
-| **Forgetting a pillar** | Remind him with "Subhan Allah" |
-| **Adding a rak'a** | Do not follow if certain, sit and wait for him |
-| **Forgetting middle tashahhud** | Follow him if he stood up |
-
-### 📌 Valid Excuses for Missing Jama'a
-
-| Excuse | Evidence |
-|--------|----------|
-| **Heavy rain** | Ibn 'Umar would order praying at home in rain — Al-Bukhari (666) |
-| **Severe cold or wind** | Same ruling |
-| **Illness** | "When one of you is sick..." — Al-Bukhari (664) |
-| **Food is present** | "No prayer in the presence of food" — Muslim (560) |
-| **Pressing natural need** | "Nor while holding back the two impurities" — Muslim (560) |
-| **Fear for oneself or property** | General dispensation for hardship |
+| Issue | 🟡 Maliki | 🟢 Hanafi | 🔵 Shafi'i | 🟣 Hanbali |
+|-------|-----------|-----------|------------|------------|
+| **Ruling on jama'a** | **Sunna Mu'akkada** | Sunna Mu'akkada | Fard Kifaya | Fard 'Ayn |
+| **Alone behind the row** | **Valid but makruh** | Valid but makruh | Valid but makruh | Invalid |
+| **Child leading** | Nawafil only | Not valid | Valid generally | Valid in nawafil |
+| **Coinciding with imam** | **Makruh** | Makruh | Makruh | Makruh |
 
 ---
 
-## 🎯 Summary
+## 🌍 Modern Applications (التطبيقات المعاصرة)
 
-| Point | Summary |
-|-------|---------|
-| **Ruling (Maliki)** | Sunna Mu'akkada |
-| **Virtue** | 25 to 27 degrees of superiority |
-| **Imam priority** | Most versed in the Quran |
-| **Rows** | Align, fill gaps, complete the first |
-| **Following the imam** | Obligatory, without preceding or lagging |
-| **Alone behind the row** | Makruh (invalid for Hanbalis) |
+| Situation | Problem | Jurisprudential Solution |
+|-----------|---------|-------------------------|
+| 🏢 **Work** | Difficulty reaching mosque | Congregation at workplace prayer room is valid |
+| 🏥 **Hospital** | Patient cannot go | Individual prayer is valid |
+| 🌧️ **Bad weather** | Heavy rain or cold | Valid excuse to miss congregation |
+| ✈️ **Travel** | Traveler | Not obligatory for them |
+| 👩 **Women** | Should she pray at mosque? | Permissible, but home is better |
 
 ---
 
-## 📚 Sources
+## ⚠️ Common Mistakes (الأخطاء الشائعة)
 
-1. Sahih Al-Bukhari, Hadiths no. 445, 580, 619, 644, 645, 647, 664, 666, 691, 717, 723, 734, 783
-2. Sahih Muslim, Hadiths no. 411, 427, 433, 436, 440, 560, 602, 607, 649, 650, 651, 653, 673
-3. Sunan Abu Dawud, Hadith no. 666
-4. Sunan Ibn Majah, Hadith no. 1003
-5. Al-Mudawwana by Imam Malik
-6. Al-Mughni by Ibn Qudama
-7. Bidayat Al-Mujtahid by Ibn Rushd
+| Mistake | ❌ What some do | ✅ Correct way |
+|---------|-----------------|---------------|
+| **Preceding the imam** | Bowing before imam | Bow immediately after him |
+| **Incomplete row** | Starting new row | Complete first row first |
+| **Alone behind row** | Praying alone behind | Join the row or pull someone back |
+| **Speaking during prayer** | Correcting imam by speaking | Say "Subhan Allah" |
+| **Missing without excuse** | Laziness | Maintain regular attendance |
+
+---
+
+## ❓ FAQ (الأسئلة الشائعة)
+
+**Q1: Is congregational prayer obligatory?**
+> 🟡 According to Malikis: **Sunna Mu'akkada**, abandoning without excuse is blameworthy. According to Hanbalis: individual obligation.
+
+**Q2: What do I do if I arrive and the row is full?**
+> Wait for someone or signal a worshipper in the last row to step back. Do not pray alone behind the row.
+
+**Q3: Can a child lead the prayer?**
+> 🟡 According to Malikis: Only in nawafil, not in obligatory prayers.
+
+**Q4: What's the difference between 25 and 27 degrees?**
+> Two authentic narrations, both meaning great multiplication of reward.
+
+**Q5: What if the imam makes a mistake?**
+> Say "Subhan Allah" to alert him, women clap their hands.
+
+---
+
+## 🎯 Practical Action
+
+**Weekly plan to maintain congregational prayer:**
+
+1. **Choose one prayer** to start (Fajr or Isha)
+2. **Prepare your clothes** before sleeping
+3. **Set alarm** 10 minutes before adhan
+4. **Walk if possible** (for more reward)
+5. **Stay for dhikr** after prayer
+
+> 💡 **Tip:** Start with one prayer and gradually increase until you maintain all five.
+
+---
+
+## 📝 Closing Supplication
+
+<div dir="rtl">
+
+**اللَّهُمَّ اجْعَلْنَا مِنَ الْمُحَافِظِينَ عَلَى الصَّلَوَاتِ فِي جَمَاعَةٍ، وَاجْعَلْنَا مِنْ أَهْلِ الصَّفِّ الْأَوَّلِ**
+
+</div>
+
+> *"O Allah, make us among those who maintain the prayers in congregation, and make us among the people of the first row."*
+
+---
+
+## 📚 Sources and References
+
+1. **Sahih Al-Bukhari** — Hadiths: 445, 619, 644, 645, 647, 664, 666, 691, 717, 723, 734
+2. **Sahih Muslim** — Hadiths: 411, 427, 433, 436, 440, 560, 649, 650, 651, 653, 673
+3. **Al-Mudawwana** — Imam Malik
+4. **Bidayat Al-Mujtahid** — Ibn Rushd
+5. **Al-Mughni** — Ibn Qudama
+
+---
+
+**والله أعلم** — And Allah knows best
 `;

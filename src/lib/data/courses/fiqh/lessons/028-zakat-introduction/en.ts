@@ -165,7 +165,7 @@ Scholars are **unanimous** on the obligation of Zakat since the time of the Comp
 | 5 | **Passage of Hawl** | حولان الحول | One complete lunar year |
 | 6 | **Growth Potential** | النماء | Wealth capable of growth |
 
-### ⚠️ Divergence on Intellect ('Aql) and Puberty (Bulugh)
+### 📊 Schools' Positions on Intellect ('Aql) and Puberty (Bulugh)
 
 | School | Zakat on the wealth of children/insane? |
 |--------|----------------------------------------|

@@ -86,7 +86,7 @@ L'or et l'argent constituent les biens les plus importants soumis à la Zakat. P
 
 ## 4. La Zakat des Bijoux (زكاة الحلي)
 
-### ⚠️ DIVERGENCE MAJEURE
+### 📊 POSITIONS DES ÉCOLES
 
 Les bijoux en or et argent portés par les femmes sont-ils soumis à la Zakat ?
 

@@ -110,7 +110,7 @@ Personnes à qui on donne la Zakat pour :
 - **Éviter** leur nuisance
 - **Espérer** la conversion d'autres par leur influence
 
-### ⚠️ Divergence sur l'Applicabilité Actuelle
+### 📊 Positions des écoles sur l'Applicabilité Actuelle
 
 | École | Cette catégorie existe-t-elle encore ? |
 |-------|---------------------------------------|

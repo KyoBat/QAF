@@ -84,7 +84,7 @@ Les biens commerciaux (عروض التجارة) représentent une catégorie maj
 | 5 | **Vérification** du Nisab |
 | 6 | **Application** du taux de 2,5% |
 
-### ⚠️ Divergence sur les Dettes
+### 📊 Positions des écoles sur les Dettes
 
 | École | Les dettes diminuent-elles le calcul ? |
 |-------|---------------------------------------|

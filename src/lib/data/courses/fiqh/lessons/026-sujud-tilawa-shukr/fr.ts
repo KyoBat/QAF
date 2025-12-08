@@ -15,11 +15,11 @@ Louange à Allah qui nous a enseigné le Coran et nous a guidés vers la gratitu
 
 ## 🔍 1. Définition et Statut
 
-### 📋 Définition
+### 📝 Définition
 
 La **prosternation de récitation** est une prosternation effectuée lors de la lecture ou l'écoute de certains versets du Coran appelés « versets de prosternation » (آيات السجدة).
 
-### ⚠️ Divergence sur le statut
+### 📊 Positions des écoles sur le statut
 
 | École | Statut |
 |-------|--------|
@@ -34,7 +34,7 @@ La **prosternation de récitation** est une prosternation effectuée lors de la 
 
 ## 🔷 2. Les Positions de Prosternation dans le Coran
 
-### ⚠️ DIVERGENCE MAJEURE : Le nombre de positions
+### 📊 POSITIONS DES ÉCOLES : Le nombre de positions
 
 | École | Nombre | Détail |
 |-------|--------|--------|
@@ -134,11 +134,11 @@ La **prosternation de récitation** est une prosternation effectuée lors de la 
 
 ## ⚖️ 5. Définition et Statut
 
-### 📋 Définition
+### 📝 Définition
 
 La **prosternation de gratitude** est une prosternation effectuée pour remercier Allah d'un bienfait reçu ou d'un malheur évité.
 
-### ⚠️ Divergence sur le statut
+### 📊 Positions des écoles sur le statut
 
 | École | Statut |
 |-------|--------|

@@ -51,7 +51,7 @@ Louange à Allah qui a parachevé pour nous la religion. Que la paix et les bén
 
 ## 🎓 Comparaison des écoles sur les obligations
 
-### 📌 Divergence sur le nombre d'obligations
+### 📌 Positions des écoles sur le nombre d'obligations
 
 | École | Nombre d'obligations | Principales obligations selon eux |
 |-------|---------------------|----------------------------------|

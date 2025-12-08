@@ -67,7 +67,7 @@ Gold and silver are the most important types of wealth subject to Zakat. By exte
 
 ## 4. Zakat on Jewelry (زكاة الحلي)
 
-### ⚠️ MAJOR DIVERGENCE
+### 📊 SCHOOLS' POSITIONS
 
 Is jewelry made of gold and silver worn by women subject to Zakat?
 

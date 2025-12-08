@@ -3,37 +3,93 @@
  * English Content - Multi-Madhhab Approach (Maliki Priority)
  */
 
-export const content = `# 📜 Fiqh of Special Prayers
+export const content = `# 📜 صَلَاةُ الْمُسَافِرِ — The Traveler's Prayer
 
-## 📖 The Traveler's Prayer (Salat Al-Musafir)
-
-All praise be to Allah who lightened the obligations for His servants while traveling. May peace and blessings be upon our Prophet Muhammad ﷺ who said: **"Allah loves that His dispensations be taken just as He dislikes that His prohibitions be committed."** Travel is a situation that deserves special facilitations in worship.
-
-> Allah تعالى says: **"And when you travel through the land, there is no blame upon you for shortening the prayer"** — An-Nisa: 101
+> *"Allah loves that His dispensations be taken just as He dislikes that His prohibitions be committed"* — Travel is a situation that deserves special facilitations in worship.
 
 ---
 
-## 🔍 1. Traveler's Dispensations (رُخَص السفر)
+## 📜 Foundational Texts (النصوص الأساسية)
 
-### 📋 Facilitations granted to the traveler
+### The Quran
 
-| Facilitation | Description |
+> **﴿ وَإِذَا ضَرَبْتُمْ فِي الْأَرْضِ فَلَيْسَ عَلَيْكُمْ جُنَاحٌ أَن تَقْصُرُوا مِنَ الصَّلَاةِ ﴾**
+> *"And when you travel through the land, there is no blame upon you for shortening the prayer."*
+> — [An-Nisa: 101]
+
+### The Sunnah
+
+> Narrated by **Aisha** رضي الله عنها:
+> **« فُرِضَتِ الصَّلَاةُ رَكْعَتَيْنِ رَكْعَتَيْنِ، فَأُقِرَّتْ صَلَاةُ السَّفَرِ وَزِيدَ فِي صَلَاةِ الْحَضَرِ »**
+> *"The prayer was prescribed as two rak'at two rak'at. The traveler's prayer was maintained thus and the resident's prayer was increased."*
+> — Sahih Al-Bukhari (350), Sahih Muslim (685)
+
+> Narrated by **Ibn 'Umar** رضي الله عنهما:
+> **« صَحِبْتُ النَّبِيَّ ﷺ فَلَمْ يَزِدْ فِي السَّفَرِ عَلَى رَكْعَتَيْنِ، وَأَبَا بَكْرٍ وَعُمَرَ وَعُثْمَانَ كَذَلِكَ »**
+> *"I accompanied the Prophet ﷺ and he never prayed more than two rak'at while traveling, and the same with Abu Bakr, 'Umar, and 'Uthman."*
+> — Sahih Al-Bukhari (1102)
+
+> Narrated by **Ibn 'Abbas** رضي الله عنهما:
+> **« كَانَ النَّبِيُّ ﷺ يَجْمَعُ بَيْنَ الظُّهْرِ وَالْعَصْرِ إِذَا كَانَ عَلَى ظَهْرِ سَيْرٍ، وَيَجْمَعُ بَيْنَ الْمَغْرِبِ وَالْعِشَاءِ »**
+> *"The Prophet ﷺ would combine Dhuhr and Asr when traveling, and Maghrib and Isha."*
+> — Sahih Al-Bukhari (1107)
+
+### 📚 Authentication (التخريج)
+
+| Source | Number | Status |
+|--------|--------|--------|
+| **Sahih Al-Bukhari** | 350, 1102, 1107 | ✅ Sahih |
+| **Sahih Muslim** | 685, 686, 706 | ✅ Sahih |
+
+---
+
+## 🎓 Scholarly Sayings (أقوال العلماء)
+
+> **Imam Malik** رحمه الله said in *Al-Muwatta'*:
+> *"Shortening is a Sunna Mu'akkada. One who completes in travel, his prayer is valid but he left what is better."*
+
+> **Ibn Rushd** رحمه الله wrote in *Bidayat Al-Mujtahid*:
+> *"The cause of the difference on distance is that the Prophet ﷺ shortened without specifying an exact distance."*
+
+> **Ibn Qudama** رحمه الله mentioned in *Al-Mughni*:
+> *"The majority of scholars say that shortening begins at approximately 80 km."*
+
+---
+
+## 🔍 Linguistic Analysis (التحليل اللغوي)
+
+### Vocabulary Table
+
+| Arabic Term | Transliteration | Root | Technical Definition |
+|-------------|-----------------|------|---------------------|
+| **قَصْر** | Qasr | ق-ص-ر | Shortening prayer from 4 to 2 rak'at |
+| **جَمْع** | Jam' | ج-م-ع | Combining two prayers at one time |
+| **تَقْدِيم** | Taqdim | ق-د-م | Advancing prayer to earlier time |
+| **تَأْخِير** | Ta'khir | أ-خ-ر | Delaying prayer to later time |
+| **سَفَر** | Safar | س-ف-ر | Travel exceeding a certain distance |
+| **إِقَامَة** | Iqama | ق-و-م | Residence, staying in one place |
+
+---
+
+## 📚 Detailed Explanation (الشرح المفصل)
+
+### 🔷 Traveler's Dispensations (رُخَص السفر)
+
+| Dispensation | Description |
 |--------------|-------------|
-| **Shortening (Al-Qasr)** | Reducing 4-rak'ah prayers to 2 |
-| **Combining (Al-Jam')** | Combining two prayers at one time |
+| **Shortening (القصر)** | Reducing 4-rak'at prayers to 2 |
+| **Combining (الجمع)** | Combining two prayers at one time |
 | **Breaking the fast** | Permitted to not fast Ramadan (make up later) |
 | **Wiping khuff for 3 days** | Instead of one day for residents |
-| **Leaving the Rawatib** | Except Witr and Fajr according to some |
+| **Leaving the Rawatib** | Except Witr and Fajr Sunnah |
 
----
+### 🔷 Shortening the Prayer (القصر)
 
-## 🔷 2. Shortening the Prayer (القصر)
-
-### 📌 Definition
+#### 📌 Definition
 
 **Qasr** means praying 2 rak'at instead of 4 for Dhuhr, Asr, and Isha prayers.
 
-### 📋 Prayers affected
+#### 📋 Prayers Affected
 
 | Prayer | Normal Count | While Traveling |
 |--------|--------------|-----------------|
@@ -43,28 +99,18 @@ All praise be to Allah who lightened the obligations for His servants while trav
 | **Maghrib** | 3 rak'at | 3 rak'at (no change) |
 | **Isha** | 4 rak'at | **2 rak'at** |
 
-### ⚠️ Ruling on shortening - Points of view
+### 🔷 Ruling on Shortening
 
-| School | Ruling | Detail |
-|--------|--------|--------|
-| 🟡 **Maliki** | **Sunna Mu'akkada** | Strongly recommended, not obligatory |
-| 🟢 Hanafi | **Wajib (obligatory)** | The traveler must shorten |
-| 🔵 Shafi'i | Permitted (Rukhsa) | Better but not obligatory |
-| 🟣 Hanbali | Sunna Mu'akkada | Preferable to shorten |
+| School | Ruling |
+|--------|--------|
+| 🟡 **Maliki** | **Sunna Mu'akkada** |
+| 🟢 Hanafi | **Wajib (obligatory)** |
+| 🔵 Shafi'i | Permitted (Rukhsa) |
+| 🟣 Hanbali | Sunna Mu'akkada |
 
-> 💡 **Maliki Position:** Shortening is a Sunna Mu'akkada. One who completes the prayer while traveling, his prayer is valid but he left what is better.
+> 💡 **Maliki Position:** Shortening is a Sunna Mu'akkada. One who completes while traveling, his prayer is valid but he left what is better.
 
-### 📌 Evidence for shortening
-
-> Aisha رضي الله عنها said: **"The prayer was prescribed as two rak'at, then the resident's prayer was increased while the traveler's prayer was maintained"** — Al-Bukhari (350), Muslim (685)
-
-> Ibn 'Umar رضي الله عنهما said: **"I accompanied the Prophet ﷺ and he never prayed more than two rak'at while traveling, and the same with Abu Bakr, 'Umar, and 'Uthman"** — Al-Bukhari (1102)
-
----
-
-## 📚 3. Travel Distance (مسافة القصر)
-
-### ⚠️ Points of view
+### 🔷 Travel Distance (مسافة القصر)
 
 | School | Minimum Distance | Modern Equivalent |
 |--------|------------------|-------------------|
@@ -73,7 +119,7 @@ All praise be to Allah who lightened the obligations for His servants while trav
 | 🔵 Shafi'i | 2 marhalah (16 farsakh) | ≈ 80-89 km |
 | 🟣 Hanbali | 16 farsakh | ≈ 80 km |
 
-> 💡 **Practical consensus:** Approximately **80 km** according to the majority of scholars.
+> 💡 **Practical consensus:** Approximately **80 km** according to the majority.
 
 ### 📌 Maliki Clarifications
 
@@ -81,7 +127,7 @@ All praise be to Allah who lightened the obligations for His servants while trav
 - Mode of transport doesn't affect the ruling (plane, car, train)
 - Intention to travel this distance is required **from the start**
 
-### 📌 When does the journey begin?
+### 🔷 When Does the Journey Begin?
 
 | School | Start of traveler status |
 |--------|-------------------------|
@@ -90,157 +136,135 @@ All praise be to Allah who lightened the obligations for His servants while trav
 | 🔵 Shafi'i | When passing the buildings |
 | 🟣 Hanbali | When passing the buildings |
 
----
+### 🔷 Duration of Stay (مدة الإقامة)
 
-## 🎯 4. Duration of Stay (مدة الإقامة)
-
-### ⚠️ Points of view
-
-| School | Max duration to shorten | Explanation |
-|--------|-------------------------|-------------|
-| 🟡 **Maliki** | **4 complete days (excluding arrival/departure)** | Beyond = resident, pray complete |
-| 🟢 Hanafi | **15 days** | Intention of 15 days = resident |
-| 🔵 Shafi'i | 4 days (without arrival/departure) | Like Maliki |
-| 🟣 Hanbali | More than 4 prayers | ~4 days |
+| School | Max duration to shorten |
+|--------|-------------------------|
+| 🟡 **Maliki** | **4 complete days** |
+| 🟢 Hanafi | 15 days |
+| 🔵 Shafi'i | 4 days |
+| 🟣 Hanbali | More than 4 prayers |
 
 ### 📌 Practical Application (Maliki)
 
-| Planned stay duration | Status | Action |
-|----------------------|--------|--------|
-| 1-4 complete days | Traveler | Shorten + combine |
-| 5 days or more | Resident | Pray complete |
-| Uncertain of duration | Traveler | Shorten up to 18 days max |
+| Stay Duration | Status |
+|---------------|--------|
+| 1-4 complete days | Traveler — shorten + combine |
+| 5 days or more | Resident — pray complete |
+| Uncertain of duration | Traveler up to 18 days |
 
-> 💡 **Maliki Example:** You travel to Paris from Monday to Friday (5 days). You shorten Monday-Tuesday-Wednesday-Thursday, then pray complete on Friday.
+### 🔷 Combining Prayers (الجمع)
 
-### 📌 Special Cases
-
-| Situation | Maliki Ruling |
-|-----------|---------------|
-| **Indefinite waiting** | Remains traveler up to 18 days |
-| **Studies abroad** | Resident once intending to stay |
-| **Temporary work (e.g., 2 months)** | Resident because intention > 4 days |
-
----
-
-## ⚖️ 5. Combining Prayers (الجمع)
-
-### 📌 Definition
+#### 📌 Definition
 
 **Jam'** means praying two consecutive prayers together, either by advancing the second (Taqdim) or delaying the first (Ta'khir).
 
-### 📋 Prayers that can be combined
+#### 📋 Prayers That Can Be Combined
 
 | Group 1 | Group 2 |
 |---------|---------|
 | Dhuhr + Asr | Maghrib + Isha |
 
-> ⚠️ **Fajr is never combined** with another prayer.
+> ⚠️ **Fajr is never combined**.
 
-### 📋 Types of combining
-
-| Type | Arabic | Description | Example |
-|------|--------|-------------|---------|
-| **Jam' Taqdim** | جمع تقديم | Advance the 2nd prayer | Pray Asr at Dhuhr time |
-| **Jam' Ta'khir** | جمع تأخير | Delay the 1st prayer | Pray Dhuhr at Asr time |
-
-### ⚠️ Ruling on combining - Points of view
-
-| School | While traveling | Other causes |
-|--------|-----------------|--------------|
-| 🟡 **Maliki** | **Permitted** | Permitted for rain, illness |
-| 🟢 Hanafi | **Not permitted** (except at Arafat/Muzdalifa) | Not permitted |
-| 🔵 Shafi'i | Permitted | Permitted for rain, illness |
-| 🟣 Hanbali | Permitted | Permitted for rain, illness, need |
-
-> 💡 **Hanafi Position:** Hanafis do not permit combining while traveling, except during Hajj at Arafat and Muzdalifa. This is their historical position based on a different understanding of the hadiths.
-
-### 📌 Evidence for combining
-
-> Ibn 'Abbas رضي الله عنهما said: **"The Prophet ﷺ would combine Dhuhr and Asr when traveling, and Maghrib and Isha"** — Al-Bukhari (1107)
-
-> Mu'adh رضي الله عنه reported that the Prophet ﷺ, during the Battle of Tabuk, combined Dhuhr with Asr and Maghrib with Isha — Muslim (706)
-
----
-
-## 💡 6. Practical Rulings (أحكام عملية)
-
-### 📌 Traveler praying behind a resident
-
-| Situation | Ruling |
-|-----------|--------|
-| **Traveler behind resident imam** | Must complete 4 rak'at (follow the imam) |
-| **Traveler catches part of prayer** | Complete what he missed (4 total) |
-
-> The Prophet ﷺ said: **"What you catch, pray it, and what you miss, complete it"** — Al-Bukhari (636)
-
-### 📌 Traveler leading residents
-
-| Situation | Recommended ruling |
-|-----------|-------------------|
-| **Traveler imam + resident followers** | Prays 2, tells residents to complete |
-| **Formula to say** | "Complete your prayer, for we are travelers" |
-
-### 📌 Rawatib (voluntary prayers) while traveling
+#### Ruling on Combining
 
 | School | Ruling |
 |--------|--------|
-| 🟡 **Maliki** | Leave Rawatib except **Witr and Fajr Sunnah** |
-| 🟢 Hanafi | Permissible to leave them |
-| 🔵 Shafi'i | Better to maintain them |
-| 🟣 Hanbali | Leave them except Witr |
-
-> Ibn 'Umar رضي الله عنهما said: **"I accompanied the Prophet ﷺ while traveling and I never saw him pray voluntary prayers"** — Al-Bukhari (1101)
+| 🟡 **Maliki** | **Permitted** |
+| 🟢 Hanafi | **Not permitted** (except at Arafat/Muzdalifa) |
+| 🔵 Shafi'i | Permitted |
+| 🟣 Hanbali | Permitted |
 
 ---
 
-## 🔷 7. Modern Cases (حالات معاصرة)
+## ⚖️ Points of View of the Schools (آراء المذاهب)
 
-### 📌 Air travel
-
-| Question | Answer |
-|----------|--------|
-| **Does distance count?** | Yes, it's distance not duration |
-| **Praying on the plane?** | Permitted if time might pass |
-| **Qibla direction** | Do your best, prayer is valid |
-
-### 📌 Layovers and connections
-
-| Situation | Ruling |
-|-----------|--------|
-| **Short layover (< 4 days)** | Remains a traveler |
-| **Long layover (≥ 4 days)** | Becomes resident for that location |
-
-### 📌 Travel for disobedience
-
-| School | Ruling |
-|--------|--------|
-| 🟡 **Maliki** | **No dispensations** if travel is for sin |
-| 🟢 Hanafi | Dispensations still apply |
-| 🔵 Shafi'i | No dispensations for sinful travel |
-| 🟣 Hanbali | No dispensations for sinful travel |
+| Issue | 🟡 Maliki | 🟢 Hanafi | 🔵 Shafi'i | 🟣 Hanbali |
+|-------|-----------|-----------|------------|------------|
+| **Ruling on shortening** | **Sunna Mu'akkada** | Wajib | Rukhsa | Sunna Mu'akkada |
+| **Travel distance** | **≈ 81 km** | 80-90 km | 80-89 km | 80 km |
+| **Stay duration** | **4 days** | 15 days | 4 days | 4 prayers |
+| **Ruling on combining** | **Permitted** | Not permitted | Permitted | Permitted |
 
 ---
 
-## 🎯 Summary
+## 🌍 Modern Applications (التطبيقات المعاصرة)
 
-| Point | Maliki Ruling |
-|-------|---------------|
-| **Shortening** | Sunna Mu'akkada |
-| **Minimum distance** | ≈ 81 km (4 burud) |
-| **Max duration as traveler** | 4 complete days |
-| **Combining** | Permitted (Taqdim or Ta'khir) |
-| **Rawatib while traveling** | Leave except Witr and Fajr |
-| **Behind resident imam** | Complete 4 rak'at |
+| Situation | Problem | Jurisprudential Solution |
+|-----------|---------|-------------------------|
+| ✈️ **Air travel** | Does distance count? | Yes, distance not duration |
+| 🚗 **Temporary stop** | Stop < 4 days | Remains a traveler |
+| 🏨 **Long stay** | ≥ 5 days | Becomes a resident |
+| 🕌 **Traveler behind resident** | Complete 4 rak'at? | Yes, follow the imam |
+| ⚠️ **Travel for sin** | Does he get dispensations? | 🟡 No dispensations |
 
 ---
 
-## 📚 Sources
+## ⚠️ Common Mistakes (الأخطاء الشائعة)
 
-1. Sahih Al-Bukhari, Hadiths no. 350, 636, 1101, 1102, 1107
-2. Sahih Muslim, Hadiths no. 685, 686, 706
-3. Al-Mudawwana by Imam Malik
-4. Mukhtasar Khalil
-5. Bidayat Al-Mujtahid by Ibn Rushd
-6. Al-Mughni by Ibn Qudama
+| Mistake | ❌ What some do | ✅ Correct way |
+|---------|-----------------|---------------|
+| **Shortening short trips** | Less than 80 km | Only for 80+ km |
+| **Combining without need** | Always combining | Only when needed |
+| **Shortening behind resident** | Shortening | Complete 4 rak'at |
+| **Forgetting intention** | Starting without intention | Intend shortening from start |
+
+---
+
+## ❓ FAQ (الأسئلة الشائعة)
+
+**Q1: Is shortening obligatory?**
+> 🟡 According to Malikis: **Sunna Mu'akkada**, completing is valid but not preferred.
+
+**Q2: What distance is required for shortening?**
+> Approximately **80-81 km** according to the majority.
+
+**Q3: What if I pray behind a resident imam?**
+> You complete four rak'at, following the imam.
+
+**Q4: Can Hanafis combine prayers?**
+> Not permitted except at Arafat and Muzdalifa only.
+
+**Q5: How long can I remain a traveler?**
+> 🟡 According to Malikis: **4 complete days**, then you become a resident.
+
+---
+
+## 🎯 Practical Action
+
+**Before traveling:**
+
+1. **Check the distance** — Is it more than 80 km?
+2. **Make intention** — From the start of travel
+3. **Calculate stay duration** — Less than 5 days?
+4. **Know combining rules** — When is it permitted?
+
+> 💡 **Tip:** Dispensations are a blessing from Allah, so take them and don't burden yourself.
+
+---
+
+## 📝 Travel Supplication
+
+<div dir="rtl">
+
+**اللهُ أَكْبَرُ، اللهُ أَكْبَرُ، اللهُ أَكْبَرُ، سُبْحَانَ الَّذِي سَخَّرَ لَنَا هَذَا وَمَا كُنَّا لَهُ مُقْرِنِينَ، وَإِنَّا إِلَى رَبِّنَا لَمُنْقَلِبُونَ**
+
+</div>
+
+> *"Allah is Greatest, Allah is Greatest, Allah is Greatest. Glory be to Him who has subjected this to us, and we could never have subdued it. And to our Lord we shall return."*
+
+---
+
+## 📚 Sources and References
+
+1. **Sahih Al-Bukhari** — Hadiths: 350, 636, 1101, 1102, 1107
+2. **Sahih Muslim** — Hadiths: 685, 686, 706
+3. **Al-Mudawwana** — Imam Malik
+4. **Mukhtasar Khalil**
+5. **Bidayat Al-Mujtahid** — Ibn Rushd
+
+---
+
+**والله أعلم** — And Allah knows best
 `;

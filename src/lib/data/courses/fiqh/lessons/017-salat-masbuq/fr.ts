@@ -245,7 +245,7 @@ Pour que le masbuq soit considéré comme ayant rattrapé la rak'a en rattrapant
 | 🔵 **Shafiite** | Ce qu'il rattrape est le début de sa prière | Il complète la fin avec Fatiha seulement |
 | 🟣 **Hanbalite** | Ce qu'il rattrape est le début de sa prière et ce qu'il complète est la fin | Pour la récitation : il fait comme s'il était à la fin |
 
-> 📌 **Divergence pratique :** Chez les Malikites et Hanafites, il récite dans ce qu'il complète ce qu'il aurait récité au début, alors que chez les Shafiites et Hanbalites, il récite comme s'il était à la fin.
+> 📌 **Positions pratiques :** Chez les Malikites et Hanafites, il récite dans ce qu'il complète ce qu'il aurait récité au début, alors que chez les Shafiites et Hanbalites, il récite comme s'il était à la fin.
 
 ### 📌 La récitation à voix haute ou basse dans ce qu'il complète
 

@@ -84,7 +84,7 @@ Trade goods (عروض التجارة) represent a major category of wealth subje
 | 5 | **Verify** Nisab is reached |
 | 6 | **Apply** 2.5% rate |
 
-### ⚠️ Divergence on Debts
+### 📊 Schools' Positions on Debts
 
 | School | Are debts deducted from the calculation? |
 |--------|------------------------------------------|

@@ -135,7 +135,7 @@ Zakat on agricultural products (الزروع والثمار) is a divine obligat
 
 ## 6. Costs and Deductions
 
-### ⚠️ IMPORTANT DIVERGENCE
+### 📊 SCHOOLS' POSITIONS
 
 | School | Are costs deducted from Nisab? |
 |--------|--------------------------------|

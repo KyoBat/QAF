@@ -160,7 +160,7 @@ The **Hawl** (الحول) is the passage of a **complete lunar year** (354 days)
 
 ## 7. Sixth Condition: Absence of Debt (عدم الدين)
 
-### ⚠️ MAJOR DIVERGENCE
+### 📊 SCHOOLS' POSITIONS
 
 Does debt reduce Nisab for Zakat?
 

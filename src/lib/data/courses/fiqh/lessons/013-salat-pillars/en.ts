@@ -133,7 +133,7 @@ Divide the pillars into three stages so the sequence becomes fixed in your mind.
 | 🔵 **Shafi'i** | 13 pillars | Close to Hanbalis, with details on **order of pillars** |
 | 🟣 **Hanbali** | 14 pillars | As mentioned in the table above |
 
-### 📌 Schools' Divergence on Reciting Al-Fatiha
+### 📌 Schools' Positions on Reciting Al-Fatiha
 
 | School | Ruling for Imam | Ruling for Follower | Proof Relied Upon |
 |--------|----------------|---------------------|-------------------|
@@ -144,7 +144,7 @@ Divide the pillars into three stages so the sequence becomes fixed in your mind.
 
 > 📌 **Maliki view retained:** Al-Fatiha is a pillar for the imam and individual, and not obligatory for the follower in audible prayer due to the obligation of listening attentively.
 
-### 📌 Schools' Divergence on Tuma'ninah (Tranquility)
+### 📌 Schools' Positions on Tuma'ninah (Tranquility)
 
 | School | Ruling on Tuma'ninah | Effect of Omitting It |
 |--------|---------------------|----------------------|
@@ -155,7 +155,7 @@ Divide the pillars into three stages so the sequence becomes fixed in your mind.
 
 > ⚠️ **Warning:** The majority view is that tuma'ninah is a pillar. One who pecks his prayer, his prayer is invalid according to three schools!
 
-### 📌 Schools' Divergence on the Final Tashahhud
+### 📌 Schools' Positions on the Final Tashahhud
 
 | School | Ruling | Proof |
 |--------|--------|-------|

@@ -56,7 +56,7 @@ Zakat Al-Fitr (صدقة الفطر) is an obligatory charity at the end of Ramad
 | **Dependent parents** | The child who supports them |
 | **Servant** | The employer (according to some views) |
 
-### ⚠️ Divergence on Dependents
+### 📊 Schools' Positions on Dependents
 
 | School | Who is included? |
 |--------|------------------|
@@ -122,7 +122,7 @@ Zakat Al-Fitr (صدقة الفطر) is an obligatory charity at the end of Ramad
 
 ## 5. Payment in Money
 
-### ⚠️ MAJOR DIVERGENCE
+### 📊 SCHOOLS' POSITIONS
 
 | School | Payment in Money? |
 |--------|-------------------|
