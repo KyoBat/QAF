@@ -106,19 +106,51 @@ Celui qui connaît Allah ne craint pas l'avenir, ne s'inquiète pas pour sa subs
 
 ## Le Hadith de Jibril : La constitution de la religion
 
-### Le hadith qui a rassemblé toute la religion
+<div class="scene-box">
 
-Jibril عليه السلام est venu sous l'apparence d'un homme aux vêtements d'une blancheur éclatante, aux cheveux d'un noir intense, sans aucune trace de voyage visible sur lui, et personne parmi les Compagnons ne le connaissait...
+**👼 LE HADITH DE JIBRIL**
 
-Il s'est assis auprès du Prophète ﷺ, a posé ses genoux contre les siens, placé ses mains sur ses cuisses, puis il a questionné...
+*D'après 'Umar ibn al-Khattāb رضي الله عنه :*
 
-### La question sur la foi
+*Alors que nous étions assis auprès du Messager d'Allah ﷺ un jour, un homme aux vêtements d'une blancheur éclatante et aux cheveux d'un noir intense apparut. Aucune trace de voyage n'était visible sur lui, et personne parmi nous ne le connaissait.*
 
-> Il dit : "Informe-moi sur la foi (Iman)"
-> Le Prophète ﷺ répondit : **"C'est que tu croies en Allah, en Ses anges, en Ses livres, en Ses messagers, au Jour Dernier, et que tu croies au destin, son bien et son mal."**
-> (Sahih Muslim 8)
+*Il s'assit face au Prophète ﷺ, posa ses genoux contre les siens et plaça ses mains sur ses cuisses.*
 
-Omar رضي الله عنه a dit : "C'était Jibril venu **vous enseigner votre religion**."
+---
+
+**🔵 Jibril :** « Ô Muhammad, informe-moi sur l'Islam. »
+
+**🟢 Le Prophète ﷺ :** **« L'Islam, c'est que tu attestes qu'il n'y a de divinité qu'Allah et que Muhammad est le Messager d'Allah, que tu accomplisses la prière, que tu t'acquittes de la zakāt, que tu jeûnes le Ramadan, et que tu fasses le pèlerinage si tu en as la capacité. »**
+
+**🔵 Jibril :** « Tu as dit vrai. Informe-moi sur la foi (Iman). »
+
+**🟢 Le Prophète ﷺ :** **« C'est que tu croies en Allah, en Ses anges, en Ses livres, en Ses messagers, au Jour Dernier, et que tu croies au destin, son bien et son mal. »**
+
+**🔵 Jibril :** « Tu as dit vrai. Informe-moi sur l'excellence (Ihsan). »
+
+**🟢 Le Prophète ﷺ :** **« C'est que tu adores Allah comme si tu Le voyais, car si tu ne Le vois pas, Lui te voit. »**
+
+**🔵 Jibril :** « Informe-moi sur l'Heure. »
+
+**🟢 Le Prophète ﷺ :** **« Celui qui est interrogé n'en sait pas plus que celui qui interroge. »**
+
+**🔵 Jibril :** « Informe-moi sur ses signes. »
+
+**🟢 Le Prophète ﷺ :** **« Quand la servante enfantera sa maîtresse, et que tu verras les va-nu-pieds, les miséreux, les bergers rivaliser dans la construction d'édifices. »**
+
+---
+
+*Puis il partit. Après un moment, le Prophète ﷺ me dit :*
+
+**🟢 Le Prophète ﷺ :** « Ô 'Umar, sais-tu qui était celui qui m'a interrogé ? »
+
+**🟡 'Umar :** « Allah et Son Messager savent mieux. »
+
+**🟢 Le Prophète ﷺ :** **« C'était Jibril, venu vous enseigner votre religion. »**
+
+*(Sahih Muslim 8)*
+
+</div>
 
 ---
 

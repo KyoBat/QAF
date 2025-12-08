@@ -106,19 +106,51 @@ In times of trials and doubts, a firm 'aqeedah is your **anchor** that keeps you
 
 ## The Hadith of Jibril: The Constitution of the Religion
 
-### The Hadith That Gathered All of Religion
+<div class="scene-box">
 
-Jibril عليه السلام came in the form of a man with extremely white clothes, extremely black hair, no trace of travel visible on him, and none of the Companions recognized him...
+**👼 THE HADITH OF JIBRIL**
 
-He sat near the Prophet ﷺ, placed his knees against his knees, put his hands on his thighs, and asked...
+*From 'Umar ibn al-Khattāb رضي الله عنه:*
 
-### The Question About Faith
+*While we were sitting with the Messenger of Allah ﷺ one day, a man with extremely white clothes and extremely black hair appeared. No trace of travel was visible on him, and none of us recognized him.*
 
-> He said: "Tell me about Iman (faith)"
-> The Prophet ﷺ replied: **"It is to believe in Allah, His angels, His books, His messengers, the Last Day, and to believe in divine decree, both the good and the bad."**
-> (Sahih Muslim 8)
+*He sat facing the Prophet ﷺ, placed his knees against his knees, and put his hands on his thighs.*
 
-Omar رضي الله عنه said: "That was Jibril who came **to teach you your religion**."
+---
+
+**🔵 Jibril:** "O Muhammad, tell me about Islam."
+
+**🟢 The Prophet ﷺ:** **"Islam is to testify that there is no god but Allah and that Muhammad is the Messenger of Allah, to establish the prayer, to give zakāt, to fast Ramadan, and to perform pilgrimage if you are able."**
+
+**🔵 Jibril:** "You have spoken the truth. Tell me about faith (Iman)."
+
+**🟢 The Prophet ﷺ:** **"It is to believe in Allah, His angels, His books, His messengers, the Last Day, and to believe in divine decree, both the good and the bad."**
+
+**🔵 Jibril:** "You have spoken the truth. Tell me about excellence (Ihsan)."
+
+**🟢 The Prophet ﷺ:** **"It is to worship Allah as if you see Him, for if you do not see Him, He surely sees you."**
+
+**🔵 Jibril:** "Tell me about the Hour."
+
+**🟢 The Prophet ﷺ:** **"The one being asked knows no more than the one asking."**
+
+**🔵 Jibril:** "Tell me about its signs."
+
+**🟢 The Prophet ﷺ:** **"When the slave woman gives birth to her mistress, and when you see barefoot, naked, destitute shepherds competing in building tall structures."**
+
+---
+
+*Then he departed. After a while, the Prophet ﷺ said to me:*
+
+**🟢 The Prophet ﷺ:** "O 'Umar, do you know who the questioner was?"
+
+**🟡 'Umar:** "Allah and His Messenger know best."
+
+**🟢 The Prophet ﷺ:** **"That was Jibril, who came to teach you your religion."**
+
+*(Sahih Muslim 8)*
+
+</div>
 
 ---
 
