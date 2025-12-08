@@ -53,7 +53,7 @@ All praise be to Allah who shows us His signs in the heavens and on earth. May p
 
 ## 📚 3. Description of the Prayer
 
-### ⚠️ MAJOR DIFFERENCE: Number of ruku' per rak'a
+### ⚠️ Points of view: Number of ruku' per rak'a
 
 | School | Structure |
 |--------|-----------|
@@ -85,7 +85,7 @@ All praise be to Allah who shows us His signs in the heavens and on earth. May p
 
 ## 🎯 4. Solar vs Lunar Eclipse
 
-### ⚠️ Difference on lunar eclipse
+### ⚠️ Points of view on lunar eclipse
 
 | School | Lunar Eclipse |
 |--------|---------------|

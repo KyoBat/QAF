@@ -27,7 +27,7 @@ All praise be to Allah who has guided us, and we would not have been guided with
 
 ## 🔍 1. Status of Eid Prayer
 
-### ⚠️ Difference on status
+### ⚠️ Points of view on status
 
 | School | Status | Detail |
 |--------|--------|--------|
@@ -58,7 +58,7 @@ All praise be to Allah who has guided us, and we would not have been guided with
 
 ## 📚 3. Description of the Prayer
 
-### ⚠️ MAJOR DIFFERENCE: The Takbirat
+### ⚠️ Points of view: The Takbirat
 
 | School | 1st Rak'a | 2nd Rak'a | Position |
 |--------|-----------|-----------|----------|
@@ -99,7 +99,7 @@ All praise be to Allah who has guided us, and we would not have been guided with
 | **Unrestricted (Mutlaq)** | From 1st Dhu Al-Hijjah to 13th (anytime) |
 | **Restricted (Muqayyad)** | From Fajr of Arafa (9th) to Asr of 13th (after each prayer) |
 
-### ⚠️ Difference on Restricted Takbir
+### ⚠️ Points of view on Restricted Takbir
 
 | School | From ... to ... |
 |--------|-----------------|

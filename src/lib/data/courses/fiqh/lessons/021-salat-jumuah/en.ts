@@ -64,7 +64,7 @@ The Friday prayer is an **individual obligation** for every Muslim man who is fr
 
 ## 📚 3. Conditions of Validity
 
-### ⚠️ MAJOR DIFFERENCE: Minimum Number
+### ⚠️ Points of view: Minimum Number
 
 | School | Minimum Number | Detail |
 |--------|----------------|--------|
@@ -88,7 +88,7 @@ The Friday prayer is an **individual obligation** for every Muslim man who is fr
 | 3 | **Recitation of Quran** | At least one verse |
 | 4 | **Exhortation to piety** | Enjoining taqwa of Allah |
 
-### ⚠️ Differences on pillars
+### ⚠️ Points of view on pillars
 
 | Pillar | 🟡 Maliki | Others |
 |--------|-----------|--------|
@@ -133,7 +133,7 @@ The Friday prayer is an **individual obligation** for every Muslim man who is fr
 | **Playing with anything** | Touching pebbles, phone, etc. |
 | **Stepping over people** | "Sit down, you have harmed" — Abu Dawud (1118) |
 
-### ⚠️ Difference on greeting prayer
+### ⚠️ Points of view on greeting prayer
 
 | School | Opinion |
 |--------|---------|

@@ -32,7 +32,7 @@ All praise be to Allah who sends down rain after despair and spreads His mercy. 
 
 ## 🔷 2. Description of the Prayer
 
-### ⚠️ Difference on additional Takbirat
+### ⚠️ Points of view on additional Takbirat
 
 | School | Takbirat |
 |--------|----------|
@@ -47,7 +47,7 @@ All praise be to Allah who sends down rain after despair and spreads His mercy. 
 
 ## 📚 3. Turning the Rida' (Cloak)
 
-### ⚠️ IMPORTANT DIFFERENCE
+### ⚠️ Points of view
 
 | School | Turning the Rida' |
 |--------|-------------------|

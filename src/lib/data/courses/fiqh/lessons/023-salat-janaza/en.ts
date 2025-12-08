@@ -57,7 +57,7 @@ The funeral prayer is a **collective obligation**: if some perform it, the rest 
 | **3rd** | Du'a for the deceased |
 | **4th** | General du'a, then taslim |
 
-### ⚠️ MAJOR DIFFERENCE: Al-Fatiha
+### ⚠️ Points of view: Al-Fatiha
 
 | School | Recitation of Fatiha |
 |--------|---------------------|
@@ -106,7 +106,7 @@ The funeral prayer is a **collective obligation**: if some perform it, the rest 
 
 ## ⚖️ 5. Prayer for the Absent (صلاة الغائب)
 
-### ⚠️ Important difference
+### ⚠️ Points of view
 
 | School | Opinion |
 |--------|---------|

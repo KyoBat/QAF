@@ -142,7 +142,7 @@ All praise be to Allah who did not burden His servants with what they cannot bea
 | 2️⃣ | **With the eyes** | Close slightly for ruku', more for sujud |
 | 3️⃣ | **With the heart** | Pure intention of movements |
 
-### ⚠️ Difference on eyes and heart gestures
+### ⚠️ Points of view on eyes and heart gestures
 
 | School | Eyes/heart gestures |
 |--------|---------------------|

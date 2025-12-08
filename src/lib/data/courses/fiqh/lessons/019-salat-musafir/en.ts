@@ -43,7 +43,7 @@ All praise be to Allah who lightened the obligations for His servants while trav
 | **Maghrib** | 3 rak'at | 3 rak'at (no change) |
 | **Isha** | 4 rak'at | **2 rak'at** |
 
-### ⚠️ Ruling on shortening - DIFFERENCE OF OPINION
+### ⚠️ Ruling on shortening - Points of view
 
 | School | Ruling | Detail |
 |--------|--------|--------|
@@ -64,7 +64,7 @@ All praise be to Allah who lightened the obligations for His servants while trav
 
 ## 📚 3. Travel Distance (مسافة القصر)
 
-### ⚠️ IMPORTANT DIFFERENCE
+### ⚠️ Points of view
 
 | School | Minimum Distance | Modern Equivalent |
 |--------|------------------|-------------------|
@@ -94,7 +94,7 @@ All praise be to Allah who lightened the obligations for His servants while trav
 
 ## 🎯 4. Duration of Stay (مدة الإقامة)
 
-### ⚠️ MAJOR DIFFERENCE
+### ⚠️ Points of view
 
 | School | Max duration to shorten | Explanation |
 |--------|-------------------------|-------------|
@@ -144,7 +144,7 @@ All praise be to Allah who lightened the obligations for His servants while trav
 | **Jam' Taqdim** | جمع تقديم | Advance the 2nd prayer | Pray Asr at Dhuhr time |
 | **Jam' Ta'khir** | جمع تأخير | Delay the 1st prayer | Pray Dhuhr at Asr time |
 
-### ⚠️ Ruling on combining - DIFFERENCE
+### ⚠️ Ruling on combining - Points of view
 
 | School | While traveling | Other causes |
 |--------|-----------------|--------------|
