@@ -44,15 +44,49 @@ La sérénité consiste à rester immobile dans chaque pilier de la prière le t
 
 #### 1. Le hadith de celui qui a mal prié (principe fondamental)
 
-D'après Abu Hurayra رضي الله عنه : **Un homme entra dans la mosquée et pria, puis il vint saluer le Prophète ﷺ qui lui dit : « Retourne prier, car tu n'as pas prié ». Il retourna prier comme il l'avait fait, puis revint saluer le Prophète ﷺ qui lui dit : « Retourne prier, car tu n'as pas prié » — trois fois. L'homme dit : Par Celui qui t'a envoyé avec la vérité, je ne sais pas faire mieux, enseigne-moi. Il dit :**
+<div class="scene-box">
 
-> **« Quand tu te lèves pour la prière, prononce le takbir, puis récite ce qui t'est facile du Coran, puis incline-toi jusqu'à être serein dans ton inclinaison, puis relève-toi jusqu'à te tenir droit debout, puis prosterne-toi jusqu'à être serein dans ta prosternation, puis relève-toi jusqu'à être serein assis, et fais ainsi dans toute ta prière »** — Unanimement reconnu (Al-Bukhari 757, Muslim 397)
+**🎭 L'homme qui n'a pas prié trois fois !**
 
-> 📌 **Point clé :** L'expression du Prophète ﷺ « jusqu'à être serein » dans chaque pilier prouve que la sérénité est un pilier, et que son abandon invalide la prière.
+*Un homme entra dans la mosquée alors que le Prophète ﷺ était assis avec ses compagnons...*
 
-#### 2. L'interdiction de picorer dans la prière comme le corbeau
+*L'homme pria rapidement, puis s'approcha pour saluer le Prophète ﷺ.*
 
-Le Prophète ﷺ a dit : **« Le pire des voleurs est celui qui vole de sa prière »**. On demanda : Ô Messager d'Allah, comment vole-t-il de sa prière ? Il dit : **« Il n'accomplit pas complètement son inclinaison ni sa prosternation »** — Rapporté par Ahmad et Ad-Darimi, authentifié par Al-Albani.
+**Le Prophète ﷺ :** « Retourne prier, car tu n'as pas prié »
+
+*L'homme retourna prier de la même façon... puis revint saluer.*
+
+**Le Prophète ﷺ :** « Retourne prier, car tu n'as pas prié »
+
+*Cela se répéta **trois fois** !*
+
+**L'homme :** *[perplexe et soumis]* « Par Celui qui t'a envoyé avec la vérité, je ne sais pas faire mieux, enseigne-moi ! »
+
+**Le Prophète ﷺ :** *[avec douceur et patience]* « Quand tu te lèves pour la prière, prononce le takbir, puis récite ce qui t'est facile du Coran, puis incline-toi jusqu'à être serein dans ton inclinaison, puis relève-toi jusqu'à te tenir droit debout, puis prosterne-toi jusqu'à être serein dans ta prosternation, puis relève-toi jusqu'à être serein assis, et fais ainsi dans toute ta prière »
+
+</div>
+
+**📍 Rapporteur :** Abu Hurayra رضي الله عنه — Unanimement reconnu (Al-Bukhari 757, Muslim 397)
+
+> 📌 **Leçon du récit :** L'expression « jusqu'à être serein » dans chaque pilier prouve que la sérénité est un pilier, et que son abandon invalide la prière.
+
+---
+
+<div class="scene-box">
+
+**🎭 Le pire des vols !**
+
+*Le Prophète ﷺ avertissait ses compagnons d'un mal grave...*
+
+**Le Prophète ﷺ :** « Le pire des voleurs est celui qui vole de sa prière »
+
+**Les Compagnons :** *[étonnés]* « Ô Messager d'Allah, comment vole-t-il de sa prière ? »
+
+**Le Prophète ﷺ :** « Il n'accomplit pas complètement son inclinaison ni sa prosternation »
+
+</div>
+
+**📚 Source :** Rapporté par Ahmad et Ad-Darimi — ✅ Authentifié par Al-Albani
 
 Le Prophète ﷺ a dit : **« La prière n'est pas acceptée si l'homme ne redresse pas son dos dans l'inclinaison et la prosternation »** — Rapporté par Abu Dawud et At-Tirmidhi, authentifié.
 

@@ -32,11 +32,39 @@ Louange à Allah qui a établi une réparation pour toute défaillance dans la p
 | **Ajout d'une parole à un mauvais endroit** (comme réciter la Fatiha en prosternation) | Pas de prosternation selon l'avis correct | Car c'est un dhikr légiféré dans l'ensemble |
 | **Parole par oubli** | Prosternation de l'oubli après le salam | Hadith de Dhu al-Yadayn — Muslim (573) |
 
-#### 📌 Hadith de Dhu al-Yadayn (Le fondement pour l'ajout)
+<div class="scene-box">
 
-D'après Abu Hurayra رضي الله عنه : **Le Messager d'Allah ﷺ nous dirigea dans l'une des deux prières de l'après-midi — le Dhuhr ou le 'Asr — et il fit le salam après deux rak'at, puis il alla vers un tronc dans la direction de la qibla de la mosquée et s'appuya dessus, en colère. Les gens pressés sortirent en disant : La prière a été raccourcie ! Parmi les gens se trouvaient Abu Bakr et 'Umar, mais ils hésitèrent à lui parler. Parmi eux se trouvait un homme appelé Dhu al-Yadayn qui dit : Ô Messager d'Allah, as-tu oublié ou la prière a-t-elle été raccourcie ? Il dit : « Je n'ai pas oublié et elle n'a pas été raccourcie. » Il dit : As-tu oublié, ô Messager d'Allah ? Il dit : « Est-ce comme Dhu al-Yadayn le dit ? » Ils dirent : Oui. Alors il s'avança et pria ce qu'il avait manqué, puis il fit le salam, puis il fit le takbir et se prosterna comme sa prosternation habituelle ou plus longtemps, puis il releva la tête et fit le takbir, puis il fit le takbir et se prosterna comme sa prosternation habituelle ou plus longtemps, puis il releva la tête et fit le takbir.** — Unanimement reconnu
+**🎭 Hadith de Dhu al-Yadayn — Le fondement pour l'ajout**
 
-> 📌 **Point clé :** Le Prophète ﷺ se prosterna après le salam car il avait ajouté dans la prière (le salam avant sa fin et la parole).
+*Le Prophète ﷺ dirigeait les compagnons dans la prière du Dhuhr ou du 'Asr...*
+
+*Après seulement deux rak'at... **il fit le salam !***
+
+*Il se leva et se dirigea vers un tronc de palmier dans la direction de la qibla et s'y appuya, le visage marqué par la colère.*
+
+*Certains sortirent en hâte : « La prière a été raccourcie ! La prière a été raccourcie ! »*
+
+*Abu Bakr et 'Umar étaient présents, mais ils **hésitèrent à parler** par respect pour lui ﷺ.*
+
+*Mais un homme appelé **Dhu al-Yadayn** osa...*
+
+**Dhu al-Yadayn :** « Ô Messager d'Allah, as-tu oublié ou la prière a-t-elle été raccourcie ? »
+
+**Le Prophète ﷺ :** « Je n'ai pas oublié et elle n'a pas été raccourcie »
+
+**Dhu al-Yadayn :** « Si, tu as oublié, ô Messager d'Allah ! »
+
+**Le Prophète ﷺ :** *[se tournant vers les compagnons]* « Est-ce comme Dhu al-Yadayn le dit ? »
+
+**Les Compagnons :** « Oui ! »
+
+*Alors il s'avança, pria ce qu'il avait manqué, puis fit le salam, puis **se prosterna deux fois** après le salam.*
+
+</div>
+
+**📍 Rapporteur :** Abu Hurayra رضي الله عنه — Unanimement reconnu (Al-Bukhari 1229, Muslim 573)
+
+> 📌 **Leçon du récit :** Le Prophète ﷺ se prosterna **après le salam** car il avait ajouté dans la prière (le salam avant sa fin et la parole).
 
 ---
 
@@ -48,11 +76,27 @@ D'après Abu Hurayra رضي الله عنه : **Le Messager d'Allah ﷺ nous dir
 | **Manque d'une obligation délibérément** | La prière est invalide | Pour avoir délibérément omis l'obligation |
 | **Manque d'une obligation par oubli** | Prosternation de l'oubli avant le salam | Hadith d'Ibn Buhayna — Al-Bukhari (829) |
 
-#### 📌 Hadith d'Abdullah ibn Buhayna (Le fondement pour le manque)
+<div class="scene-box">
 
-D'après Abdullah ibn Buhayna رضي الله عنه : **Le Prophète ﷺ les dirigea dans le Dhuhr, il se leva après les deux premières rak'at et ne s'assit pas (c'est-à-dire qu'il omit le premier tashahhud). Les gens se levèrent avec lui. Quand il termina la prière et que les gens attendaient son salam, il fit le takbir alors qu'il était assis, et se prosterna deux fois avant de faire le salam, puis il fit le salam.** — Unanimement reconnu (Al-Bukhari 829, Muslim 570)
+**🎭 Hadith d'Abdullah ibn Buhayna — Le fondement pour le manque**
 
-> 📌 **Point clé :** Le Prophète ﷺ se prosterna avant le salam car il avait diminué de la prière (omis le premier tashahhud).
+*Le Prophète ﷺ dirigeait les compagnons dans la prière du Dhuhr...*
+
+*Après la deuxième rak'a, **il se leva directement** sans s'asseoir pour le premier tashahhud !*
+
+*Les compagnons se regardèrent... mais ils se levèrent avec lui sans lui rappeler.*
+
+*Il ﷺ termina la prière et s'assit pour le dernier tashahhud...*
+
+*Les gens attendaient son salam... mais il fit quelque chose de différent :*
+
+*Il fit le takbir alors qu'il était assis, puis **se prosterna deux fois avant de faire le salam**, puis fit le salam.*
+
+</div>
+
+**📍 Rapporteur :** Abdullah ibn Buhayna رضي الله عنه — Unanimement reconnu (Al-Bukhari 829, Muslim 570)
+
+> 📌 **Leçon du récit :** Le Prophète ﷺ se prosterna **avant le salam** car il avait diminué de la prière (omis le premier tashahhud).
 
 ---
 

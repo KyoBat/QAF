@@ -39,9 +39,25 @@ Louange à Allah qui nous a encouragés à la prière en groupe. Que la paix et 
 
 D'après Abu Hurayra رضي الله عنه, le Prophète ﷺ a dit : **« Celui qui rattrape une rak'a de la prière a rattrapé la prière »** — Unanimement reconnu (Al-Bukhari 580, Muslim 607)
 
-Et d'après Abu Bakra رضي الله عنه, il arriva vers le Prophète ﷺ alors qu'il était incliné, et il s'inclina avant d'atteindre le rang. Il le mentionna au Prophète ﷺ qui dit : **« Qu'Allah augmente ton ardeur, mais ne recommence pas »** — Al-Bukhari (783)
+<div class="scene-box">
 
-> 📌 **Point clé :** Il ne lui a pas ordonné de refaire la rak'a, ce qui prouve qu'il l'a rattrapée.
+**🎭 La Scène d'Abu Bakra — Le fondement pour rattraper l'inclinaison**
+
+*Abu Bakra رضي الله عنه arrivait pour la prière...*
+
+*Il trouva le Prophète ﷺ déjà en inclinaison !*
+
+*Il avait peur de manquer la rak'a... alors **il s'inclina avant même d'atteindre le rang !***
+
+*Après la prière, il mentionna ce qu'il avait fait au Prophète ﷺ...*
+
+**Le Prophète ﷺ :** « Qu'Allah augmente ton ardeur, mais ne recommence pas »
+
+</div>
+
+**📍 Rapporteur :** Abu Bakra رضي الله عنه — Al-Bukhari (783)
+
+> 📌 **Leçon du récit :** Il ne lui a pas ordonné de refaire la rak'a, ce qui prouve qu'il l'a rattrapée.
 
 ---
 

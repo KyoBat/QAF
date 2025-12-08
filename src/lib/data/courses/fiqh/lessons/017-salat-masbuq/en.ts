@@ -39,9 +39,25 @@ All praise be to Allah who encouraged us to pray in congregation. May peace and 
 
 On the authority of Abu Hurayra رضي الله عنه, the Prophet ﷺ said: **"Whoever catches a rak'a of the prayer has caught the prayer"** — Agreed upon (Al-Bukhari 580, Muslim 607)
 
-And on the authority of Abu Bakra رضي الله عنه, he arrived to the Prophet ﷺ while he was bowing, and he bowed before reaching the row. He mentioned this to the Prophet ﷺ who said: **"May Allah increase your eagerness, but do not do it again"** — Al-Bukhari (783)
+<div class="scene-box">
 
-> 📌 **Key Point:** He did not order him to repeat the rak'a, which proves he caught it.
+**🎭 The Scene of Abu Bakra — The Foundation for Catching the Bowing**
+
+*Abu Bakra رضي الله عنه was arriving for the prayer...*
+
+*He found the Prophet ﷺ already in bowing!*
+
+*He was afraid of missing the rak'a... so **he bowed before even reaching the row!***
+
+*After the prayer, he mentioned what he had done to the Prophet ﷺ...*
+
+**The Prophet ﷺ:** "May Allah increase your eagerness, but do not do it again"
+
+</div>
+
+**📍 Narrator:** Abu Bakra رضي الله عنه — Al-Bukhari (783)
+
+> 📌 **Lesson from the scene:** He did not order him to repeat the rak'a, which proves he caught it.
 
 ---
 

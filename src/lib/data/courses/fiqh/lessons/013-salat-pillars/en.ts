@@ -43,27 +43,59 @@ It is calmness in each pillar, sufficient time for the limbs to settle and for t
 
 ### Proofs for Tuma'ninah as a Pillar
 
-#### 1. The Hadith of the One Who Prayed Badly — The Foundation in This Chapter
+<div class="scene-box">
 
-On the authority of Abu Hurayra رضي الله عنه: **A man entered the mosque and prayed, then he came to greet the Prophet ﷺ who said to him: "Go back and pray, for you have not prayed." He returned and prayed as he had done before, then came back to greet the Prophet ﷺ who said: "Go back and pray, for you have not prayed" — three times. The man said: By the One who sent you with the truth, I do not know how to do better, teach me. He said:**
+**🎭 The Hadith of the One Who Prayed Badly — The Foundation in This Chapter**
 
-> **"When you stand for prayer, say the takbir, then recite what is easy for you from the Quran, then bow until you are tranquil in your bowing, then rise until you stand straight, then prostrate until you are tranquil in your prostration, then rise until you are tranquil sitting, and do likewise throughout your entire prayer"** — Agreed upon (Al-Bukhari 757, Muslim 397)
+*A man entered the mosque while the Prophet ﷺ was sitting with his companions...*
 
-> 📌 **Key Point:** The Prophet's ﷺ expression "until you are tranquil" in every pillar proves the obligation of tranquility, and that abandoning it invalidates the prayer.
+*The man prayed quickly, then came to greet the Prophet ﷺ.*
 
-#### 2. The Prohibition of Stealing from Prayer
+**The Prophet ﷺ:** "Go back and pray, for you have not prayed"
 
-The Prophet ﷺ said: **"The worst thief is the one who steals from his prayer."** He was asked: O Messenger of Allah, how does he steal from his prayer? He said: **"He does not complete his bowing or his prostration."** — Reported by Ahmad and Ad-Darimi, authenticated by Al-Albani.
+*The man returned and prayed the same way... then came back to greet.*
 
-#### 3. Non-Acceptance of the Prayer of One Who Does Not Straighten His Back
+**The Prophet ﷺ:** "Go back and pray, for you have not prayed"
 
-The Prophet ﷺ said: **"The prayer is not accepted if the person does not straighten his back in bowing and prostration."** — Reported by Abu Dawud and At-Tirmidhi, authenticated.
+*This happened **three times**!*
 
-The Prophet ﷺ said: **"Allah does not look at the prayer of a man who does not straighten his back between his bowing and prostration."** — Reported by Ahmad, authenticated by Al-Albani.
+**The man:** *[confused]* "By the One who sent you with the truth, I do not know how to do better, teach me!"
 
-#### 4. The Prohibition of Pecking Like a Crow
+**The Prophet ﷺ:** *[with gentleness]* "When you stand for prayer, say the takbir, then recite what is easy for you from the Quran, then bow until you are tranquil in your bowing, then rise until you stand straight, then prostrate until you are tranquil in your prostration, then rise until you are tranquil sitting, and do likewise throughout your entire prayer"
 
-The Prophet ﷺ said: **"Do not peck like a crow, and do not spread out like wild beasts."** — Reported by Ahmad, authenticated by Al-Albani.
+</div>
+
+**📍 Narrator:** Abu Hurayra رضي الله عنه — Agreed upon (Al-Bukhari 757, Muslim 397)
+
+> 📌 **Lesson from the scene:** The expression "until you are tranquil" in every pillar proves the obligation of tranquility, and that abandoning it invalidates the prayer.
+
+---
+
+<div class="scene-box">
+
+**🎭 The Prohibition of Stealing from Prayer**
+
+*The Prophet ﷺ was warning his companions about a grave evil...*
+
+**The Prophet ﷺ:** "The worst thief is the one who steals from his prayer"
+
+**The Companions:** *[surprised]* "O Messenger of Allah, how does he steal from his prayer?"
+
+**The Prophet ﷺ:** "He does not complete his bowing or his prostration"
+
+</div>
+
+**📚 Source:** Reported by Ahmad and Ad-Darimi — ✅ Authenticated by Al-Albani
+
+---
+
+#### 📚 Other hadiths on tranquility
+
+| Hadith | Source |
+|--------|--------|
+| **"The prayer is not accepted if the person does not straighten his back in bowing and prostration"** | Abu Dawud and At-Tirmidhi ✅ |
+| **"Allah does not look at the prayer of a man who does not straighten his back between his bowing and prostration"** | Ahmad ✅ |
+| **"Do not peck like a crow, and do not spread out like wild beasts"** | Ahmad ✅ |
 
 ---
 

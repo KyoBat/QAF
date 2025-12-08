@@ -32,11 +32,39 @@ All praise be to Allah who established a remedy for every deficiency in prayer. 
 | **Adding a statement in the wrong place** (like reciting Al-Fatiha in prostration) | No prostration according to the correct view | Because it is a legislated dhikr in general |
 | **Speaking out of forgetfulness** | Prostration of forgetfulness after salam | Hadith of Dhu al-Yadayn — Muslim (573) |
 
-#### 📌 Hadith of Dhu al-Yadayn (The Foundation for Addition)
+<div class="scene-box">
 
-On the authority of Abu Hurayra رضي الله عنه: **The Messenger of Allah ﷺ led us in one of the two afternoon prayers — Dhuhr or 'Asr — and he made salam after two rak'at, then he went to a wooden post in the qibla direction of the mosque and leaned against it, appearing angry. The hasty people left saying: The prayer has been shortened! Among the people were Abu Bakr and 'Umar, but they hesitated to speak to him. Among them was a man called Dhu al-Yadayn who said: O Messenger of Allah, have you forgotten or has the prayer been shortened? He said: "I have not forgotten and it has not been shortened." He said: Have you forgotten, O Messenger of Allah? He said: "Is it as Dhu al-Yadayn says?" They said: Yes. So he stepped forward and prayed what he had missed, then he made salam, then he made takbir and prostrated like his usual prostration or longer, then he raised his head and made takbir, then he made takbir and prostrated like his usual prostration or longer, then he raised his head and made takbir.** — Agreed upon
+**🎭 Hadith of Dhu al-Yadayn — The Foundation for Addition**
 
-> 📌 **Key Point:** The Prophet ﷺ prostrated after salam because he had added in the prayer (salam before completion and speaking).
+*The Prophet ﷺ was leading the companions in the Dhuhr or 'Asr prayer...*
+
+*After only two rak'at... **he made salam!***
+
+*He stood up and went to a palm trunk in the qibla direction and leaned against it, his face showing signs of anger.*
+
+*Some people rushed out saying: "The prayer has been shortened! The prayer has been shortened!"*
+
+*Abu Bakr and 'Umar were present, but they **hesitated to speak** out of respect for him ﷺ.*
+
+*But a man called **Dhu al-Yadayn** dared...*
+
+**Dhu al-Yadayn:** "O Messenger of Allah, have you forgotten or has the prayer been shortened?"
+
+**The Prophet ﷺ:** "I have not forgotten and it has not been shortened"
+
+**Dhu al-Yadayn:** "Yes, you have forgotten, O Messenger of Allah!"
+
+**The Prophet ﷺ:** *[turning to the companions]* "Is it as Dhu al-Yadayn says?"
+
+**The Companions:** "Yes!"
+
+*So he stepped forward, prayed what he had missed, made salam, then **prostrated twice** after the salam.*
+
+</div>
+
+**📍 Narrator:** Abu Hurayra رضي الله عنه — Agreed upon (Al-Bukhari 1229, Muslim 573)
+
+> 📌 **Lesson from the scene:** The Prophet ﷺ prostrated **after salam** because he had added in the prayer (salam before completion and speaking).
 
 ---
 
@@ -48,11 +76,27 @@ On the authority of Abu Hurayra رضي الله عنه: **The Messenger of Allah
 | **Deliberately omitting an obligation** | Prayer is invalid | For deliberately leaving the obligation |
 | **Forgetting an obligation** | Prostration of forgetfulness before salam | Hadith of Ibn Buhayna — Al-Bukhari (829) |
 
-#### 📌 Hadith of Abdullah ibn Buhayna (The Foundation for Omission)
+<div class="scene-box">
 
-On the authority of Abdullah ibn Buhayna رضي الله عنه: **The Prophet ﷺ led them in Dhuhr, and he stood after the first two rak'at and did not sit (meaning he omitted the first tashahhud). The people stood with him. When he finished the prayer and the people were waiting for his salam, he made takbir while sitting, and prostrated twice before making salam, then he made salam.** — Agreed upon (Al-Bukhari 829, Muslim 570)
+**🎭 Hadith of Abdullah ibn Buhayna — The Foundation for Omission**
 
-> 📌 **Key Point:** The Prophet ﷺ prostrated before salam because he had omitted from the prayer (left out the first tashahhud).
+*The Prophet ﷺ was leading the companions in the Dhuhr prayer...*
+
+*After the second rak'a, **he stood up directly** without sitting for the first tashahhud!*
+
+*The companions looked at each other... but they stood with him without reminding him.*
+
+*He ﷺ completed the prayer and sat for the final tashahhud...*
+
+*The people were waiting for his salam... but he did something different:*
+
+*He made takbir while sitting, then **prostrated twice before making salam**, then made salam.*
+
+</div>
+
+**📍 Narrator:** Abdullah ibn Buhayna رضي الله عنه — Agreed upon (Al-Bukhari 829, Muslim 570)
+
+> 📌 **Lesson from the scene:** The Prophet ﷺ prostrated **before salam** because he had omitted from the prayer (left out the first tashahhud).
 
 ---
 

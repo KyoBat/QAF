@@ -44,15 +44,49 @@ Tranquility is remaining still in each pillar of prayer for the time necessary f
 
 #### 1. The hadith of the one who prayed badly (fundamental principle)
 
-Abu Hurayra رضي الله عنه reported: **A man entered the mosque and prayed, then came and greeted the Prophet ﷺ, who said: "Go back and pray, for you have not prayed." He returned and prayed as he had done, then came and greeted the Prophet ﷺ, who said: "Go back and pray, for you have not prayed" — three times. The man said: By the One who sent you with the truth, I do not know how to do better, teach me. He said:**
+<div class="scene-box">
 
-> **"When you stand for prayer, say the takbir, then recite what is easy for you from the Quran, then bow until you are tranquil in your bowing, then rise until you stand upright, then prostrate until you are tranquil in your prostration, then rise until you are tranquil sitting, and do this throughout your prayer"** — Agreed upon (Al-Bukhari 757, Muslim 397)
+**🎭 The man who didn't pray three times!**
 
-> 📌 **Key point:** The Prophet's ﷺ expression "until you are tranquil" in each pillar proves that tranquility is a pillar, and abandoning it invalidates the prayer.
+*A man entered the mosque while the Prophet ﷺ was sitting with his companions...*
 
-#### 2. The prohibition of pecking in prayer like a crow
+*The man prayed quickly, then came to greet the Prophet ﷺ.*
 
-The Prophet ﷺ said: **"The worst thief is the one who steals from his prayer."** They asked: O Messenger of Allah, how does he steal from his prayer? He said: **"He does not complete his bowing or prostration"** — Reported by Ahmad and Ad-Darimi, authenticated by Al-Albani.
+**The Prophet ﷺ:** "Go back and pray, for you have not prayed"
+
+*The man returned and prayed the same way... then came back to greet.*
+
+**The Prophet ﷺ:** "Go back and pray, for you have not prayed"
+
+*This happened **three times**!*
+
+**The man:** *[confused and humble]* "By the One who sent you with the truth, I do not know how to do better, teach me!"
+
+**The Prophet ﷺ:** *[with gentleness and patience]* "When you stand for prayer, say the takbir, then recite what is easy for you from the Quran, then bow until you are tranquil in your bowing, then rise until you stand upright, then prostrate until you are tranquil in your prostration, then rise until you are tranquil sitting, and do this throughout your prayer"
+
+</div>
+
+**📍 Narrator:** Abu Hurayra رضي الله عنه — Agreed upon (Al-Bukhari 757, Muslim 397)
+
+> 📌 **Lesson from the scene:** The expression "until you are tranquil" in each pillar proves that tranquility is a pillar, and abandoning it invalidates the prayer.
+
+---
+
+<div class="scene-box">
+
+**🎭 The worst theft!**
+
+*The Prophet ﷺ was warning his companions about a grave evil...*
+
+**The Prophet ﷺ:** "The worst thief is the one who steals from his prayer"
+
+**The Companions:** *[surprised]* "O Messenger of Allah, how does he steal from his prayer?"
+
+**The Prophet ﷺ:** "He does not complete his bowing or prostration"
+
+</div>
+
+**📚 Source:** Reported by Ahmad and Ad-Darimi — ✅ Authenticated by Al-Albani
 
 The Prophet ﷺ said: **"The prayer is not accepted if the man does not straighten his back in bowing and prostration"** — Reported by Abu Dawud and At-Tirmidhi, authenticated.
 
