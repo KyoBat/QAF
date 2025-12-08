@@ -84,14 +84,23 @@ He once gave **400,000 dirhams** in a single day to the poor.
 
 Al-Zubayr was the **first** to draw his sword for Islam.
 
-One day, a false rumor spread that the Prophet ﷺ had been killed. Al-Zubayr, as a teenager, ran with his sword to avenge him.
+<div class="scene-box">
 
-The Prophet ﷺ met him and smiled:
+**⚔️ THE YOUNG KNIGHT**
 
-> "What did you want to do?"
-> "Kill whoever killed you!"
+*A false rumor spreads that the Prophet ﷺ has been killed...*
 
-The Prophet ﷺ prayed for him and his sword.
+*Al-Zubayr, still a teenager, draws his sword and runs through the streets of Mecca to avenge the Messenger of Allah.*
+
+*The Prophet ﷺ meets him on the way and smiles:*
+
+**🟢 The Prophet ﷺ:** "What did you want to do?"
+
+**🔵 Al-Zubayr:** "Kill whoever killed you!"
+
+*Moved by his loyalty, the Prophet ﷺ prayed for him and his sword.*
+
+</div>
 
 ### In Every Battle
 
@@ -113,14 +122,20 @@ Al-Zubayr always wore a distinctive **yellow turban** in combat. Enemies recogni
 
 When he emigrated to Medina, he arrived **with nothing**. The Prophet ﷺ paired him with Sa'd ibn al-Rabī', a wealthy Anṣārī.
 
-Sa'd offered:
+<div class="scene-box">
 
-> "I will give you half of my wealth and one of my wives."
+**💰 MEDINAN BROTHERHOOD**
 
-'Abd al-Raḥmān replied:
+*Sa'd ibn al-Rabī', the wealthy Anṣārī, meets 'Abd al-Raḥmān, the emigrant who lost everything...*
 
-> **"بَارَكَ اللهُ لَكَ فِي أَهْلِكَ وَمَالِكَ، دُلَّنِي عَلَى السُّوقِ"**
-> "May Allah bless your family and wealth. Show me the market."
+**🟢 Sa'd ibn al-Rabī':** "I will give you half of my wealth and one of my wives."
+
+*'Abd al-Raḥmān, touched by this generosity but determined to rely on himself, replies:*
+
+**🔵 'Abd al-Raḥmān:** **"بَارَكَ اللهُ لَكَ فِي أَهْلِكَ وَمَالِكَ، دُلَّنِي عَلَى السُّوقِ"**
+*"May Allah bless your family and wealth. Show me the market."*
+
+</div>
 
 In a short time, he rebuilt his fortune through his work.
 
