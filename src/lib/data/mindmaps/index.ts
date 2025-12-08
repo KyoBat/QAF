@@ -1724,6 +1724,158 @@ export const hajjConditionsData: MindMapDataMultiLang = {
 };
 
 // ============================================
+// HISTORY - Les 4 Grands Imams (سلسلة الأسانيد)
+// ============================================
+export const asanidChainData: MindMapDataMultiLang = {
+  id: 'rasul',
+  label: { ar: 'الرَّسُولُ ﷺ', en: 'The Prophet ﷺ', fr: 'Le Prophète ﷺ' },
+  icon: '☪️',
+  color: '#1e3a5f',
+  children: [
+    {
+      id: 'ibn-umar',
+      label: { ar: 'ابن عمر', en: 'Ibn Umar', fr: 'Ibn Omar' },
+      icon: '🌟',
+      color: '#059669',
+      children: [
+        {
+          id: 'nafi',
+          label: { ar: 'نَافِع', en: "Nāfi'", fr: "Nāfi'" },
+          icon: '📚',
+          color: '#0891b2',
+          children: [
+            {
+              id: 'malik-nafi',
+              label: { ar: 'مَالِك', en: 'Mālik', fr: 'Mālik' },
+              icon: '🟡',
+              color: '#eab308',
+            },
+            {
+              id: 'abu-hanifa-nafi',
+              label: { ar: 'أَبُو حَنِيفَة', en: 'Abū Ḥanīfa', fr: 'Abū Ḥanīfa' },
+              icon: '🟢',
+              color: '#22c55e',
+            },
+          ],
+        },
+      ],
+    },
+    {
+      id: 'ibn-abbas',
+      label: { ar: 'ابن عباس', en: 'Ibn Abbas', fr: 'Ibn Abbas' },
+      icon: '🌟',
+      color: '#059669',
+      children: [
+        {
+          id: 'ata',
+          label: { ar: 'عَطَاء', en: "'Aṭā'", fr: "'Aṭā'" },
+          icon: '📚',
+          color: '#0891b2',
+          children: [
+            {
+              id: 'abu-hanifa-ata',
+              label: { ar: 'أَبُو حَنِيفَة', en: 'Abū Ḥanīfa', fr: 'Abū Ḥanīfa' },
+              icon: '🟢',
+              color: '#22c55e',
+            },
+          ],
+        },
+      ],
+    },
+    {
+      id: 'aisha',
+      label: { ar: 'عائشة', en: 'Aisha', fr: 'Aïcha' },
+      icon: '🌟',
+      color: '#059669',
+      children: [
+        {
+          id: 'urwa',
+          label: { ar: 'عروة', en: 'Urwa', fr: 'Urwa' },
+          icon: '📚',
+          color: '#0891b2',
+          children: [
+            {
+              id: 'zuhri',
+              label: { ar: 'الزُّهْرِي', en: 'Al-Zuhrī', fr: 'Al-Zuhrī' },
+              icon: '📜',
+              color: '#7c3aed',
+              children: [
+                {
+                  id: 'malik-zuhri',
+                  label: { ar: 'مَالِك', en: 'Mālik', fr: 'Mālik' },
+                  icon: '🟡',
+                  color: '#eab308',
+                },
+                {
+                  id: 'sufyan',
+                  label: { ar: 'سُفْيَان', en: 'Sufyān', fr: 'Sufyān' },
+                  icon: '📖',
+                  color: '#7c3aed',
+                },
+              ],
+            },
+          ],
+        },
+      ],
+    },
+  ],
+};
+
+// Chain from Imams - Continuation
+export const imamsChainData: MindMapDataMultiLang = {
+  id: 'imams-root',
+  label: { ar: 'سلسلة الأئمة', en: 'Chain of Imams', fr: 'Chaîne des Imams' },
+  icon: '🔗',
+  color: '#1e3a5f',
+  children: [
+    {
+      id: 'malik-imam',
+      label: { ar: 'مَالِك', en: 'Mālik', fr: 'Mālik' },
+      icon: '🟡',
+      color: '#eab308',
+      children: [
+        {
+          id: 'shafii-malik',
+          label: { ar: 'الشَّافِعِي', en: "Al-Shāfi'ī", fr: "Al-Shāfi'ī" },
+          icon: '🔵',
+          color: '#3b82f6',
+          children: [
+            {
+              id: 'ahmad',
+              label: { ar: 'أَحْمَد', en: 'Aḥmad', fr: 'Aḥmad' },
+              icon: '🟣',
+              color: '#a855f7',
+            },
+          ],
+        },
+      ],
+    },
+    {
+      id: 'abu-hanifa-imam',
+      label: { ar: 'أَبُو حَنِيفَة', en: 'Abū Ḥanīfa', fr: 'Abū Ḥanīfa' },
+      icon: '🟢',
+      color: '#22c55e',
+      children: [
+        {
+          id: 'shaybani',
+          label: { ar: 'الشَّيْبَانِي', en: 'Al-Shaybānī', fr: 'Al-Shaybānī' },
+          icon: '📚',
+          color: '#16a34a',
+          children: [
+            {
+              id: 'shafii-shaybani',
+              label: { ar: 'الشَّافِعِي', en: "Al-Shāfi'ī", fr: "Al-Shāfi'ī" },
+              icon: '🔵',
+              color: '#3b82f6',
+            },
+          ],
+        },
+      ],
+    },
+  ],
+};
+
+// ============================================
 // Map lesson IDs to their MindMap data
 // Format: 'course-slug:lesson-id' for unique identification
 // ============================================
@@ -1758,6 +1910,11 @@ export const lessonMindMapsMultiLang: Record<string, MindMapDataMultiLang> = {
   'fiqh-hajj:lesson-002': hajjConditionsData,
   'hajj:lesson-001': hajjIntroductionData,
   'hajj:lesson-002': hajjConditionsData,
+  // History lessons (Les 4 Grands Imams)
+  'history:lesson-002': asanidChainData,
+  'les-4-grands-imams:lesson-002': asanidChainData,
+  'history:lesson-003': imamsChainData,
+  'les-4-grands-imams:lesson-003': imamsChainData,
 };
 
 // Get mindmap by lesson ID with locale
@@ -1769,7 +1926,9 @@ export function getMindMapForLesson(lessonId: string, locale: string = 'fr', cou
     const normalizedSlug = courseSlug.includes('aqeedah') ? 'aqeedah' : 
                           courseSlug.includes('siyam') ? 'siyam' :
                           courseSlug.includes('hajj') ? 'hajj' :
-                          courseSlug.includes('fiqh') ? 'fiqh' : courseSlug;
+                          courseSlug.includes('fiqh') ? 'fiqh' : 
+                          courseSlug.includes('4-grands-imams') || courseSlug.includes('history') ? 'les-4-grands-imams' : 
+                          courseSlug;
     const key = `${normalizedSlug}:${lessonId}`;
     const data = lessonMindMapsMultiLang[key];
     if (data) return getMindMapByLocale(data, locale);

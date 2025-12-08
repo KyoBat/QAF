@@ -56,24 +56,56 @@ function CollapsibleNode({ data, id }: NodeProps) {
   // Déterminer si c'est un imam pour utiliser sa couleur spécifique
   const nodeColor = data.imamId ? imamColors[data.imamId] || data.color : data.color;
 
+  // Taille adaptée au niveau
+  const getNodeStyle = () => {
+    if (isRoot) {
+      return {
+        padding: '28px 32px',
+        fontSize: '20px',
+        fontWeight: 'bold' as const,
+        minWidth: '180px',
+        borderRadius: '24px',
+      };
+    }
+    if (level === 1) {
+      return {
+        padding: '16px 24px',
+        fontSize: '16px',
+        fontWeight: '600' as const,
+        minWidth: '150px',
+        borderRadius: '16px',
+      };
+    }
+    return {
+      padding: '14px 20px',
+      fontSize: '15px',
+      fontWeight: '500' as const,
+      minWidth: '140px',
+      borderRadius: '14px',
+    };
+  };
+
+  const nodeStyle = getNodeStyle();
+
   return (
     <div 
-      className={`relative flex items-center gap-2 ${isRoot ? 'flex-col' : ''} transition-all duration-300 hover:scale-105`}
+      className={`relative flex items-center gap-3 ${isRoot ? 'flex-col' : ''} transition-all duration-300 hover:scale-[1.03] cursor-default select-none`}
       style={{
         background: isRoot 
-          ? `linear-gradient(135deg, ${nodeColor} 0%, ${nodeColor}dd 100%)`
-          : `linear-gradient(135deg, ${nodeColor} 0%, ${nodeColor}cc 100%)`,
+          ? `linear-gradient(145deg, ${nodeColor} 0%, ${nodeColor}cc 100%)`
+          : `linear-gradient(145deg, ${nodeColor}ee 0%, ${nodeColor}bb 100%)`,
         color: 'white',
-        borderRadius: isRoot ? '50%' : '16px',
-        padding: isRoot ? '24px 28px' : '12px 18px',
-        fontSize: isRoot ? '18px' : '14px',
-        fontWeight: isRoot ? 'bold' : '500',
-        minWidth: isRoot ? '160px' : '130px',
+        borderRadius: nodeStyle.borderRadius,
+        padding: nodeStyle.padding,
+        fontSize: nodeStyle.fontSize,
+        fontWeight: nodeStyle.fontWeight,
+        minWidth: nodeStyle.minWidth,
         boxShadow: isRoot 
-          ? `0 8px 24px -4px ${nodeColor}66, 0 4px 8px -2px rgba(0,0,0,0.1)`
-          : `0 4px 16px -2px ${nodeColor}44, 0 2px 4px -1px rgba(0,0,0,0.1)`,
-        border: '2px solid rgba(255,255,255,0.3)',
-        backdropFilter: 'blur(4px)',
+          ? `0 12px 32px -6px ${nodeColor}55, 0 6px 12px -4px rgba(0,0,0,0.15), inset 0 1px 0 rgba(255,255,255,0.2)`
+          : `0 6px 20px -4px ${nodeColor}44, 0 3px 8px -2px rgba(0,0,0,0.1), inset 0 1px 0 rgba(255,255,255,0.15)`,
+        border: '2px solid rgba(255,255,255,0.25)',
+        textShadow: '0 1px 2px rgba(0,0,0,0.2)',
+        letterSpacing: '0.02em',
       }}
       dir="rtl"
     >
@@ -86,10 +118,10 @@ function CollapsibleNode({ data, id }: NodeProps) {
       
       {/* Contenu du node */}
       <div className="text-center flex-1">
-        {data.icon && <span className="text-xl">{data.icon}</span>}
-        <div className="font-semibold">{data.labelAr || data.label}</div>
+        {data.icon && <span className={`${isRoot ? 'text-3xl' : level === 1 ? 'text-2xl' : 'text-xl'} mb-1 block`}>{data.icon}</span>}
+        <div className="leading-relaxed">{data.labelAr || data.label}</div>
         {data.labelAr && data.label !== data.labelAr && (
-          <div className="text-xs opacity-75 mt-0.5">{data.label}</div>
+          <div className="text-xs opacity-80 mt-1 font-normal">{data.label}</div>
         )}
       </div>
 
@@ -100,7 +132,7 @@ function CollapsibleNode({ data, id }: NodeProps) {
             e.stopPropagation();
             onToggle(id);
           }}
-          className="absolute flex items-center justify-center w-6 h-6 rounded-full bg-white text-slate-800 font-bold text-sm shadow-lg hover:scale-110 transition-transform border-2"
+          className="absolute flex items-center justify-center w-7 h-7 rounded-full bg-white text-slate-700 font-bold text-base shadow-lg hover:scale-115 hover:shadow-xl transition-all duration-200 border-2"
           style={{ 
             borderColor: data.color,
             [data.direction === 'left' ? 'left' : 'right']: '-12px',
@@ -154,9 +186,10 @@ function generateNodesAndEdges(
   const nodes: Node[] = [];
   const edges: Edge[] = [];
 
-  const xSpacing = 300;
-  const ySpacing = 70;
-  const nodeHeight = 50;
+  // Espacement adapté pour meilleure lisibilité
+  const xSpacing = 340;
+  const ySpacing = 90;
+  const nodeHeight = 70;
 
   let x = 0;
   let y = 0;
@@ -201,7 +234,8 @@ function generateNodesAndEdges(
       type: 'smoothstep',
       style: {
         stroke: nodeColor,
-        strokeWidth: 2,
+        strokeWidth: 3,
+        strokeOpacity: 0.7,
       },
       animated: false,
     };
@@ -377,30 +411,30 @@ function CollapsibleMindMapInner({
   return (
     <div className={`w-full ${className}`} dir="ltr">
       {title && (
-        <div className="flex items-center justify-between mb-4 px-2">
-          <h3 className="text-xl font-bold text-primary flex items-center gap-2" dir="rtl">
-            <span className="text-2xl">🗺️</span>
+        <div className="flex items-center justify-between mb-5 px-3">
+          <h3 className="text-2xl font-bold text-primary flex items-center gap-3" dir="rtl">
+            <span className="text-3xl">🗺️</span>
             <span>{title}</span>
           </h3>
-          <div className="flex gap-2">
+          <div className="flex gap-3">
             <button
               onClick={expandAll}
-              className="px-4 py-2 text-sm bg-gradient-to-r from-emerald-500 to-green-600 text-white rounded-xl hover:from-emerald-600 hover:to-green-700 transition-all shadow-md hover:shadow-lg flex items-center gap-1.5 font-medium"
+              className="px-5 py-2.5 text-sm bg-gradient-to-r from-emerald-500 to-green-600 text-white rounded-xl hover:from-emerald-600 hover:to-green-700 transition-all shadow-md hover:shadow-lg flex items-center gap-2 font-semibold"
             >
-              <span className="text-lg">+</span>
+              <span className="text-xl">+</span>
               <span>{t.expandAll}</span>
             </button>
             <button
               onClick={collapseAll}
-              className="px-4 py-2 text-sm bg-gradient-to-r from-slate-500 to-slate-600 text-white rounded-xl hover:from-slate-600 hover:to-slate-700 transition-all shadow-md hover:shadow-lg flex items-center gap-1.5 font-medium"
+              className="px-5 py-2.5 text-sm bg-gradient-to-r from-slate-500 to-slate-600 text-white rounded-xl hover:from-slate-600 hover:to-slate-700 transition-all shadow-md hover:shadow-lg flex items-center gap-2 font-semibold"
             >
-              <span className="text-lg">−</span>
+              <span className="text-xl">−</span>
               <span>{t.collapseAll}</span>
             </button>
           </div>
         </div>
       )}
-      <div className="w-full h-[600px] bg-gradient-to-br from-slate-50 via-white to-slate-100 dark:from-slate-900 dark:via-slate-800 dark:to-slate-900 rounded-2xl border-2 border-slate-200 dark:border-slate-700 overflow-hidden shadow-lg">
+      <div className="w-full h-[650px] bg-gradient-to-br from-slate-50 via-white to-slate-100 dark:from-slate-900 dark:via-slate-850 dark:to-slate-900 rounded-2xl border-2 border-slate-200/80 dark:border-slate-700 overflow-hidden shadow-xl">
         <ReactFlow
           nodes={nodes}
           edges={edges}
@@ -409,27 +443,32 @@ function CollapsibleMindMapInner({
           nodeTypes={nodeTypes}
           connectionLineType={ConnectionLineType.SmoothStep}
           fitView
-          fitViewOptions={{ padding: 0.3 }}
-          minZoom={0.3}
-          maxZoom={2}
+          fitViewOptions={{ padding: 0.35 }}
+          minZoom={0.25}
+          maxZoom={2.5}
           attributionPosition="bottom-left"
           proOptions={{ hideAttribution: true }}
         >
-          <Controls showInteractive={false} />
-          <Background variant={BackgroundVariant.Dots} gap={16} size={1} color="#e2e8f0" />
+          <Controls showInteractive={false} className="!bg-white/80 !rounded-xl !shadow-lg !border-slate-200" />
+          <Background variant={BackgroundVariant.Dots} gap={20} size={1.5} color="#cbd5e1" />
         </ReactFlow>
       </div>
       
-      {/* Légende */}
-      <div className={`mt-4 flex justify-center gap-6 text-sm text-slate-600 dark:text-slate-400 ${isRTL ? 'flex-row-reverse' : ''}`} dir={isRTL ? 'rtl' : 'ltr'}>
-        <span className="flex items-center gap-2 bg-white dark:bg-slate-800 px-3 py-1.5 rounded-full shadow-sm border border-slate-200 dark:border-slate-700">
-          <span className="inline-flex items-center justify-center w-6 h-6 rounded-full bg-gradient-to-r from-emerald-400 to-green-500 text-white text-xs font-bold shadow">+</span>
-          <span className="font-medium">{t.openBranch}</span>
-        </span>
-        <span className="flex items-center gap-2 bg-white dark:bg-slate-800 px-3 py-1.5 rounded-full shadow-sm border border-slate-200 dark:border-slate-700">
-          <span className="inline-flex items-center justify-center w-6 h-6 rounded-full bg-gradient-to-r from-slate-400 to-slate-500 text-white text-xs font-bold shadow">−</span>
-          <span className="font-medium">{t.closeBranch}</span>
-        </span>
+      {/* Légende et instructions */}
+      <div className={`mt-5 flex flex-col items-center gap-3`}>
+        <div className={`flex justify-center gap-4 text-sm text-slate-600 dark:text-slate-400 ${isRTL ? 'flex-row-reverse' : ''}`} dir={isRTL ? 'rtl' : 'ltr'}>
+          <span className="flex items-center gap-2.5 bg-white dark:bg-slate-800 px-4 py-2 rounded-full shadow-sm border border-slate-200 dark:border-slate-700">
+            <span className="inline-flex items-center justify-center w-7 h-7 rounded-full bg-gradient-to-r from-emerald-400 to-green-500 text-white text-sm font-bold shadow">+</span>
+            <span className="font-medium">{t.openBranch}</span>
+          </span>
+          <span className="flex items-center gap-2.5 bg-white dark:bg-slate-800 px-4 py-2 rounded-full shadow-sm border border-slate-200 dark:border-slate-700">
+            <span className="inline-flex items-center justify-center w-7 h-7 rounded-full bg-gradient-to-r from-slate-400 to-slate-500 text-white text-sm font-bold shadow">−</span>
+            <span className="font-medium">{t.closeBranch}</span>
+          </span>
+        </div>
+        <p className="text-xs text-slate-500 dark:text-slate-500" dir={isRTL ? 'rtl' : 'ltr'}>
+          {isRTL ? '💡 استخدم الماوس للتحريك والتكبير' : '💡 Use mouse to pan and scroll to zoom'}
+        </p>
       </div>
     </div>
   );
