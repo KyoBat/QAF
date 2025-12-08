@@ -69,29 +69,29 @@ Before the Hijra, the Prophet ﷺ sent **Muṣ'ab ibn 'Umayr** as the first amba
 
 Sa'd ibn Mu'ādh, respected chief of Aws, was **hostile** to this new religion.
 
-### The Challenge
+<div class="scene-box">
 
-One day, Sa'd went to Muṣ'ab, furious:
+**🌙 THE CHIEF'S CONVERSION**
 
-> "What are you doing among us? Stop disturbing our people!"
+*Sa'd ibn Mu'ādh, furious, goes to Muṣ'ab ibn 'Umayr...*
 
-Muṣ'ab replied calmly:
+**🔴 Sa'd:** "What are you doing among us? Stop disturbing our people!"
 
-> "Sit and listen. If you don't like it, I'll leave."
+**🟢 Muṣ'ab:** "Sit and listen. If you don't like it, I'll leave."
 
-### The Transformation
+*Sa'd sat down, listened to the Quran, and his heart changed. He pronounced the shahāda on the spot.*
 
-Sa'd sat down, listened to the Quran, and **his heart changed**.
+---
 
-He pronounced the shahāda on the spot.
+*He returns to his tribe:*
 
-Then he returned to his tribe and said:
+**🟢 Sa'd:** "O Banū 'Abd al-Ashhal! What do you think of me?"
 
-> "O Banū 'Abd al-Ashhal! What do you think of me?"
+**🔵 His tribe:** "You are our chief!"
 
-> "You are our chief!"
+**🟢 Sa'd:** "Then it is forbidden for me to speak to any of you until you believe in Allah and His Messenger!"
 
-> "Then it is forbidden for me to speak to any of you until you believe in Allah and His Messenger!"
+</div>
 
 That day, **his entire tribe** entered Islam.
 
@@ -132,7 +132,7 @@ Sa'd, wounded in the battle, was brought on a donkey.
 
 ---
 
-## 💀 His Death and Divine Honor
+## 🌙 His Death and Divine Honor
 
 Shortly after, Sa'd's wound opened and he died.
 

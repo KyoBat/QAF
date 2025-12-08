@@ -141,7 +141,7 @@ La croyance en Tawheed Ar-Rububiyyah a des effets profonds sur le croyant :
 
 2. **😌 La tranquillité du cœur** — Comprendre que la provision est décrétée élimine l'anxiété excessive
 
-3. **🙏 La gratitude** — Reconnaître qu'Allah est la source de tout bienfait engendre la reconnaissance
+3. **✨ La gratitude** — Reconnaître qu'Allah est la source de tout bienfait engendre la reconnaissance
 
 4. **🛡️ L'abandon des causes interdites** — Savoir qu'Allah est le seul Pourvoyeur éloigne des moyens illicites
 

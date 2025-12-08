@@ -70,29 +70,29 @@ Avant l'Hégire, le Prophète ﷺ envoya **Mus'ab ibn 'Umayr** comme premier amb
 
 Sa'd ibn Mu'ādh, chef respecté des Aws, était **hostile** à cette nouvelle religion.
 
-### Le Défi
+<div class="scene-box">
 
-Un jour, Sa'd alla voir Mus'ab, furieux :
+**🌙 LA CONVERSION DU CHEF**
 
-> « Qu'est-ce que tu fais chez nous ? Arrête de perturber nos gens ! »
+*Sa'd ibn Mu'ādh, furieux, va voir Mus'ab ibn 'Umayr...*
 
-Mus'ab répondit calmement :
+**🔴 Sa'd :** « Qu'est-ce que tu fais chez nous ? Arrête de perturber nos gens ! »
 
-> « Assieds-toi et écoute. Si ça ne te plaît pas, je partirai. »
+**🟢 Mus'ab :** « Assieds-toi et écoute. Si ça ne te plaît pas, je partirai. »
 
-### La Transformation
+*Sa'd s'assit, écouta le Coran, et son cœur changea. Il prononça la shahāda sur place.*
 
-Sa'd s'assit, écouta le Coran, et **son cœur changea**.
+---
 
-Il prononça la shahāda sur place.
+*Il retourne vers sa tribu :*
 
-Puis il retourna vers sa tribu et dit :
+**🟢 Sa'd :** « Ô Banū 'Abd al-Ashhal ! Que pensez-vous de moi ? »
 
-> « Ô Banū 'Abd al-Ashhal ! Que pensez-vous de moi ? »
+**🔵 Sa tribu :** « Tu es notre chef ! »
 
-> « Tu es notre chef ! »
+**🟢 Sa'd :** « Alors il m'est interdit de parler à quiconque d'entre vous jusqu'à ce que vous croyiez en Allah et Son Messager ! »
 
-> « Alors il m'est interdit de parler à quiconque d'entre vous jusqu'à ce que vous croyiez en Allah et Son Messager ! »
+</div>
 
 Ce jour-là, **toute sa tribu** entra en Islam.
 
@@ -133,7 +133,7 @@ Sa'd, blessé à la bataille, fut amené sur un âne.
 
 ---
 
-## 💀 Sa Mort et l'Honneur Divin
+## 🌙 Sa Mort et l'Honneur Divin
 
 Peu après, la blessure de Sa'd s'ouvrit et il mourut.
 

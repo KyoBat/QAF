@@ -141,7 +141,7 @@ Belief in Tawheed Ar-Rububiyyah has profound effects on the believer:
 
 2. **😌 Peace of Heart** — Understanding that provision is decreed eliminates excessive anxiety
 
-3. **🙏 Gratitude** — Recognizing Allah as the source of all blessings engenders thankfulness
+3. **✨ Gratitude** — Recognizing Allah as the source of all blessings engenders thankfulness
 
 4. **🛡️ Abandoning Forbidden Means** — Knowing Allah alone provides keeps one away from unlawful earnings
 

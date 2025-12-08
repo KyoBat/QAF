@@ -192,7 +192,7 @@ The four schools agree on the permanent **maḥārim**:
 
 - 🐷 Pork and its derivatives
 - 🩸 Flowing blood
-- 💀 Carrion (not slaughtered)
+- ❌ Carrion (not slaughtered)
 - 🦁 Animals with fangs (predators)
 - 🦅 Birds with talons (raptors)
 

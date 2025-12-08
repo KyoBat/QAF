@@ -148,22 +148,33 @@ When Fāṭima entered upon the Prophet ﷺ:
 
 ### The Final Secret
 
-Before his death, the Prophet ﷺ called Fāṭima and whispered something to her.
+<div class="scene-box">
 
-She wept.
+**💔 THE FAREWELL WHISPERS**
 
-He whispered something else.
+*The Prophet ﷺ, on his deathbed, calls his beloved daughter Fāṭima...*
 
-She laughed.
+*He whispers something in her ear.*
 
-After his death, 'Ā'isha asked her what he had said:
+*She weeps.*
 
-1. **First whisper**: "I will die from this illness." → She wept.
-2. **Second whisper**: "You will be the first of my family to join me, and you will be the mistress of the women of Paradise." → She laughed.
+*He whispers something else.*
+
+*She laughs.*
 
 ---
 
-## 💀 Her Death
+*After his death, 'Ā'isha asked her what he had said:*
+
+**🟢 First whisper:** "I will die from this illness." → *She wept.*
+
+**🟢 Second whisper:** "You will be the first of my family to join me, and you will be the mistress of the women of Paradise." → *She laughed.*
+
+</div>
+
+---
+
+## 🌙 Her Death
 
 ### The Six Months
 

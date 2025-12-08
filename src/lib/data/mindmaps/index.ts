@@ -1228,7 +1228,7 @@ export const malaikaData: MindMapDataMultiLang = {
         { id: 'throne', label: { ar: 'حملة العرش', en: 'Carriers of Throne', fr: 'Porteurs du Trône' }, icon: '🏛️' },
         { id: 'scribes', label: { ar: 'الكتبة', en: 'Scribes', fr: 'Scribes' }, icon: '✍️' },
         { id: 'guardians', label: { ar: 'الحفظة', en: 'Guardians', fr: 'Gardiens' }, icon: '🛡️' },
-        { id: 'grave', label: { ar: 'منكر ونكير', en: 'Munkar & Nakir', fr: 'Munkar et Nakir' }, icon: '⚰️' },
+        { id: 'grave', label: { ar: 'منكر ونكير', en: 'Munkar & Nakir', fr: 'Munkar et Nakir' }, icon: '🌙' },
         { id: 'mountains', label: { ar: 'ملك الجبال', en: 'Angel of Mountains', fr: 'Ange des Montagnes' }, icon: '🏔️' },
       ],
     },
@@ -1400,7 +1400,7 @@ export const yawmAkhirData: MindMapDataMultiLang = {
       color: '#7b2cbf',
       children: [
         { id: 'death', label: { ar: 'الموت', en: 'Death', fr: 'La Mort' }, icon: '💀' },
-        { id: 'grave', label: { ar: 'القبر', en: 'The Grave', fr: 'La Tombe' }, icon: '⚰️' },
+        { id: 'grave', label: { ar: 'القبر', en: 'The Grave', fr: 'La Tombe' }, icon: '🌙' },
         { id: 'bath', label: { ar: 'البعث', en: 'Resurrection', fr: 'Résurrection' }, icon: '🌱' },
         { id: 'hashr', label: { ar: 'الحشر', en: 'Gathering', fr: 'Rassemblement' }, icon: '👥' },
         { id: 'hisab-stage', label: { ar: 'الحساب', en: 'Reckoning', fr: 'Jugement' }, icon: '📖' },

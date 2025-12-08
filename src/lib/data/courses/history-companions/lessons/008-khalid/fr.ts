@@ -100,18 +100,23 @@ Mais plus que tout, il sentit **la vérité**.
 
 Il partit vers Médine avec 'Amr ibn al-'Āṣ (un autre futur général) et 'Uthmān ibn Ṭalḥa.
 
-Quand ils arrivèrent, le Prophète ﷺ sourit :
+<div class="scene-box">
 
-> **« La Mecque nous a donné son foie. »**
-> *(ses meilleurs hommes)*
+**🌙 LA CONVERSION DE L'ÉPÉE**
 
-Khālid prononça la shahāda et dit :
+*Khālid ibn al-Walīd arrive à Médine avec ses compagnons de voyage...*
 
-> « Ô Messager d'Allah, prie Allah de pardonner mes anciennes hostilités. »
+*Le Prophète ﷺ les accueille avec un sourire :*
 
-Le Prophète ﷺ répondit :
+**🟢 Le Prophète ﷺ :** « La Mecque nous a donné son foie. » *(ses meilleurs hommes)*
 
-> **« L'Islam efface ce qui précède. »**
+*Khālid prononce la shahāda, puis demande avec humilité :*
+
+**🔵 Khālid :** « Ô Messager d'Allah, prie Allah de pardonner mes anciennes hostilités. »
+
+**🟢 Le Prophète ﷺ :** **« L'Islam efface ce qui précède. »**
+
+</div>
 
 ---
 
@@ -166,16 +171,23 @@ En **une nuit**, il réorganisa l'armée :
 
 Khālid cassa **9 épées** ce jour-là. ⚔️
 
-Quand les survivants revinrent à Médine, certains les huèrent : « Fuyards ! »
+<div class="scene-box">
 
-Le Prophète ﷺ les arrêta :
+**⚔️ L'ÉPÉE D'ALLAH**
 
-> **« Non ! Ce sont des كُرَّار (ceux qui reviennent combattre), pas des فُرَّار (fuyards) ! »**
+*Les survivants de Mu'ta reviennent à Médine. Certains les huèrent :*
 
-Et il donna à Khālid son surnom éternel :
+**🔴 Certains Médinois :** « Fuyards ! »
 
-> **« سَيْفُ اللهِ الْمَسْلُول »**
-> **L'Épée d'Allah Dégainée**
+*Le Prophète ﷺ intervient et les défend :*
+
+**🟢 Le Prophète ﷺ :** **« Non ! Ce sont des كُرَّار (ceux qui reviennent combattre), pas des فُرَّار (fuyards) ! »**
+
+*Puis il donne à Khālid son surnom éternel :*
+
+**🟢 Le Prophète ﷺ :** **« سَيْفُ اللهِ الْمَسْلول »** — *L'Épée d'Allah Dégainée*
+
+</div>
 
 ---
 
@@ -291,17 +303,23 @@ Il servit ensuite comme **simple soldat** sous Abū 'Ubayda.
 
 ---
 
-## 💀 La Mort dans son Lit
+## 🌙 La Mort dans son Lit
 
 Khālid mourut à Homs en 21 AH — **dans son lit**.
 
-Ses dernières paroles furent amères :
+<div class="scene-box">
 
-> « J'ai participé à cent batailles ou presque. Il n'y a pas sur mon corps un espace d'une main sans une cicatrice de coup ou de flèche. Et me voilà mourant dans mon lit comme meurt un chameau. Que les yeux des lâches ne dorment pas ! »
+**💔 LES DERNIÈRES PAROLES DU LION**
 
-Il avait rêvé de mourir **shahīd** (martyr) sur le champ de bataille.
+*Khālid ibn al-Walīd, sur son lit de mort à Homs, regarde son corps meurtri par les batailles...*
 
-Allah en avait décidé autrement.
+**🔵 Khālid :** « J'ai participé à cent batailles ou presque. Il n'y a pas sur mon corps un espace d'une main sans une cicatrice de coup ou de flèche. Et me voilà mourant dans mon lit comme meurt un chameau. Que les yeux des lâches ne dorment pas ! »
+
+*Il avait rêvé de mourir **shahīd** (martyr) sur le champ de bataille.*
+
+*Allah en avait décidé autrement.*
+
+</div>
 
 ---
 

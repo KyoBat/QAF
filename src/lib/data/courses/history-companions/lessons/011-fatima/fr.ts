@@ -150,22 +150,33 @@ Quand Fāṭima entrait chez le Prophète ﷺ :
 
 ### Le Dernier Secret
 
-Avant sa mort, le Prophète ﷺ appela Fāṭima et lui murmura quelque chose.
+<div class="scene-box">
 
-Elle pleura.
+**💔 LES MURMURES D'ADIEU**
 
-Il lui murmura autre chose.
+*Le Prophète ﷺ, sur son lit de mort, appelle sa fille bien-aimée Fāṭima...*
 
-Elle rit.
+*Il lui murmure quelque chose à l'oreille.*
 
-Après sa mort, 'Ā'isha lui demanda ce qu'il avait dit :
+*Elle pleure.*
 
-1. **Premier murmure** : « Je vais mourir de cette maladie. » → Elle pleura.
-2. **Second murmure** : « Tu seras la première de ma famille à me rejoindre, et tu seras la maîtresse des femmes du Paradis. » → Elle rit.
+*Il lui murmure autre chose.*
+
+*Elle rit.*
 
 ---
 
-## 💀 Sa Mort
+*Après sa mort, 'Ā'isha lui demanda ce qu'il avait dit :*
+
+**🟢 Premier murmure :** « Je vais mourir de cette maladie. » → *Elle pleura.*
+
+**🟢 Second murmure :** « Tu seras la première de ma famille à me rejoindre, et tu seras la maîtresse des femmes du Paradis. » → *Elle rit.*
+
+</div>
+
+---
+
+## 🌙 Sa Mort
 
 ### Les Six Mois
 

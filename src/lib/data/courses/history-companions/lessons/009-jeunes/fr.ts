@@ -130,7 +130,7 @@ Quand Ibn al-Zubayr, jeune et impétueux, lui demanda conseil, Ibn 'Abbās dit :
 
 ---
 
-# Partie II : 'Abd Allāh ibn 'Umar 🙏
+# Partie II : 'Abd Allāh ibn 'Umar 🕌
 
 ## 📋 Carte d'Identité
 

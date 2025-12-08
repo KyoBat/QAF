@@ -192,7 +192,7 @@ Les quatre écoles s'accordent sur les **maḥārim** absolues :
 
 - 🐷 Le porc et ses dérivés
 - 🩸 Le sang répandu
-- 💀 La bête morte (non égorgée)
+- ❌ La bête morte (non égorgée)
 - 🦁 Les animaux à canines (prédateurs)
 - 🦅 Les oiseaux à serres (rapaces)
 

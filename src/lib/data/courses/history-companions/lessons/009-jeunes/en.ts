@@ -128,7 +128,7 @@ When Ibn al-Zubayr, young and impetuous, sought his counsel, Ibn 'Abbās said:
 
 ---
 
-# Part II: 'Abd Allāh ibn 'Umar 🙏
+# Part II: 'Abd Allāh ibn 'Umar 🕌
 
 ## 📋 Identity Card
 

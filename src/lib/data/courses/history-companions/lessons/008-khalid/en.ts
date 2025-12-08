@@ -99,18 +99,23 @@ But more than that, he felt **the truth**.
 
 He departed for Medina with 'Amr ibn al-'Āṣ (another future general) and 'Uthmān ibn Ṭalḥa.
 
-When they arrived, the Prophet ﷺ smiled:
+<div class="scene-box">
 
-> **"Mecca has given us its liver."**
-> *(its best men)*
+**🌙 THE SWORD'S CONVERSION**
 
-Khālid pronounced the shahāda and said:
+*Khālid ibn al-Walīd arrives in Medina with his travel companions...*
 
-> "O Messenger of Allah, ask Allah to forgive my past hostility."
+*The Prophet ﷺ welcomes them with a smile:*
 
-The Prophet ﷺ replied:
+**🟢 The Prophet ﷺ:** **"Mecca has given us its liver."** *(its best men)*
 
-> **"Islam erases what came before."**
+*Khālid pronounces the shahāda, then humbly asks:*
+
+**🔵 Khālid:** "O Messenger of Allah, ask Allah to forgive my past hostility."
+
+**🟢 The Prophet ﷺ:** **"Islam erases what came before."**
+
+</div>
 
 ---
 
@@ -165,16 +170,23 @@ In **one night**, he reorganized the army:
 
 Khālid broke **9 swords** that day. ⚔️
 
-When the survivors returned to Medina, some jeered: "Deserters!"
+<div class="scene-box">
 
-The Prophet ﷺ stopped them:
+**⚔️ THE SWORD OF ALLAH**
 
-> **"No! They are kurrār (those who return to fight), not furrār (deserters)!"**
+*The survivors of Mu'ta return to Medina. Some jeer at them:*
 
-And he gave Khālid his eternal nickname:
+**🔴 Some Medinans:** "Deserters!"
 
-> **"سَيْفُ اللهِ الْمَسْلُول"**
-> **The Drawn Sword of Allah**
+*The Prophet ﷺ intervenes and defends them:*
+
+**🟢 The Prophet ﷺ:** **"No! They are kurrār (those who return to fight), not furrār (deserters)!"**
+
+*Then he gives Khālid his eternal nickname:*
+
+**🟢 The Prophet ﷺ:** **"سَيْفُ اللهِ الْمَسْلول"** — *The Drawn Sword of Allah*
+
+</div>
 
 ---
 
@@ -290,17 +302,23 @@ He then served as an **ordinary soldier** under Abū 'Ubayda.
 
 ---
 
-## 💀 Death in His Bed
+## 🌙 Death in His Bed
 
 Khālid died in Homs in 21 AH—**in his bed**.
 
-His last words were bitter:
+<div class="scene-box">
 
-> "I have fought in a hundred battles or so. There is not a spot on my body the size of a hand without a scar from a sword or spear. And here I am dying in my bed like a camel dies! May the eyes of cowards never sleep!"
+**💔 THE LION'S LAST WORDS**
 
-He had dreamed of dying a **shahīd** (martyr) on the battlefield.
+*Khālid ibn al-Walīd, on his deathbed in Homs, looks at his body scarred by battles...*
 
-Allah had decided otherwise.
+**🔵 Khālid:** "I have fought in a hundred battles or so. There is not a spot on my body the size of a hand without a scar from a sword or spear. And here I am dying in my bed like a camel dies! May the eyes of cowards never sleep!"
+
+*He had dreamed of dying a **shahīd** (martyr) on the battlefield.*
+
+*Allah had decided otherwise.*
+
+</div>
 
 ---
 
