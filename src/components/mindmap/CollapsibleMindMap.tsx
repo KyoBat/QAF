@@ -334,11 +334,14 @@ function CollapsibleMindMapInner({
   locale = 'fr'
 }: CollapsibleMindMapProps) {
   const { fitView } = useReactFlow();
+  // State for fullscreen modal
+  const [isFullscreen, setIsFullscreen] = useState(false);
+  
   // Translations
   const translations = {
-    ar: { expandAll: 'فتح الكل', collapseAll: 'إغلاق الكل', openBranch: 'اضغط لفتح الفرع', closeBranch: 'اضغط لإغلاق الفرع' },
-    en: { expandAll: 'Expand All', collapseAll: 'Collapse All', openBranch: 'Click to expand', closeBranch: 'Click to collapse' },
-    fr: { expandAll: 'Tout ouvrir', collapseAll: 'Tout fermer', openBranch: 'Cliquer pour ouvrir', closeBranch: 'Cliquer pour fermer' },
+    ar: { expandAll: 'فتح الكل', collapseAll: 'إغلاق الكل', openBranch: 'اضغط لفتح الفرع', closeBranch: 'اضغط لإغلاق الفرع', fullscreen: 'ملء الشاشة', closeFullscreen: 'إغلاق' },
+    en: { expandAll: 'Expand All', collapseAll: 'Collapse All', openBranch: 'Click to expand', closeBranch: 'Click to collapse', fullscreen: 'Fullscreen', closeFullscreen: 'Close' },
+    fr: { expandAll: 'Tout ouvrir', collapseAll: 'Tout fermer', openBranch: 'Cliquer pour ouvrir', closeBranch: 'Cliquer pour fermer', fullscreen: 'Plein écran', closeFullscreen: 'Fermer' },
   };
   const t = translations[locale as keyof typeof translations] || translations.fr;
   const isRTL = locale === 'ar';
@@ -408,8 +411,100 @@ function CollapsibleMindMapInner({
     }, 50);
   }, [data.id, fitView]);
 
+  // Fullscreen toggle
+  const toggleFullscreen = useCallback(() => {
+    setIsFullscreen(prev => !prev);
+    // Refit view when entering fullscreen
+    setTimeout(() => {
+      fitView({ padding: 0.2, duration: 400 });
+    }, 100);
+  }, [fitView]);
+
+  // Close on Escape key
+  useEffect(() => {
+    const handleKeyDown = (e: KeyboardEvent) => {
+      if (e.key === 'Escape' && isFullscreen) {
+        setIsFullscreen(false);
+      }
+    };
+    window.addEventListener('keydown', handleKeyDown);
+    return () => window.removeEventListener('keydown', handleKeyDown);
+  }, [isFullscreen]);
+
+  // Render MindMap content (shared between normal and fullscreen)
+  const renderMindMapContent = (height: string) => (
+    <div className={`w-full ${height} bg-gradient-to-br from-slate-50 via-white to-slate-100 dark:from-slate-900 dark:via-slate-850 dark:to-slate-900 rounded-2xl border-2 border-slate-200/80 dark:border-slate-700 overflow-hidden shadow-xl`}>
+      <ReactFlow
+        nodes={nodes}
+        edges={edges}
+        onNodesChange={onNodesChange}
+        onEdgesChange={onEdgesChange}
+        nodeTypes={nodeTypes}
+        connectionLineType={ConnectionLineType.SmoothStep}
+        fitView
+        fitViewOptions={{ padding: 0.35 }}
+        minZoom={0.15}
+        maxZoom={3}
+        attributionPosition="bottom-left"
+        proOptions={{ hideAttribution: true }}
+      >
+        <Controls showInteractive={false} className="!bg-white/80 !rounded-xl !shadow-lg !border-slate-200" />
+        <Background variant={BackgroundVariant.Dots} gap={20} size={1.5} color="#cbd5e1" />
+      </ReactFlow>
+    </div>
+  );
+
   return (
-    <div className={`w-full ${className}`} dir="ltr">
+    <>
+      {/* Fullscreen Modal */}
+      {isFullscreen && (
+        <div 
+          className="fixed inset-0 z-50 bg-black/80 backdrop-blur-sm flex items-center justify-center p-4"
+          onClick={(e) => {
+            if (e.target === e.currentTarget) setIsFullscreen(false);
+          }}
+        >
+          <div className="w-full h-full max-w-[95vw] max-h-[95vh] bg-white dark:bg-slate-900 rounded-3xl overflow-hidden shadow-2xl flex flex-col">
+            {/* Fullscreen Header */}
+            <div className="flex items-center justify-between px-6 py-4 border-b border-slate-200 dark:border-slate-700 bg-slate-50 dark:bg-slate-800">
+              <h3 className="text-2xl font-bold text-primary flex items-center gap-3" dir="rtl">
+                <span className="text-3xl">🌳</span>
+                <span>{title}</span>
+              </h3>
+              <div className="flex gap-3">
+                <button
+                  onClick={expandAll}
+                  className="px-5 py-2.5 text-sm bg-gradient-to-r from-emerald-500 to-green-600 text-white rounded-xl hover:from-emerald-600 hover:to-green-700 transition-all shadow-md hover:shadow-lg flex items-center gap-2 font-semibold"
+                >
+                  <span className="text-xl">+</span>
+                  <span>{t.expandAll}</span>
+                </button>
+                <button
+                  onClick={collapseAll}
+                  className="px-5 py-2.5 text-sm bg-gradient-to-r from-slate-500 to-slate-600 text-white rounded-xl hover:from-slate-600 hover:to-slate-700 transition-all shadow-md hover:shadow-lg flex items-center gap-2 font-semibold"
+                >
+                  <span className="text-xl">−</span>
+                  <span>{t.collapseAll}</span>
+                </button>
+                <button
+                  onClick={() => setIsFullscreen(false)}
+                  className="px-5 py-2.5 text-sm bg-gradient-to-r from-red-500 to-red-600 text-white rounded-xl hover:from-red-600 hover:to-red-700 transition-all shadow-md hover:shadow-lg flex items-center gap-2 font-semibold"
+                >
+                  <span className="text-xl">✕</span>
+                  <span>{t.closeFullscreen}</span>
+                </button>
+              </div>
+            </div>
+            {/* Fullscreen Content */}
+            <div className="flex-1 p-4">
+              {renderMindMapContent('h-full')}
+            </div>
+          </div>
+        </div>
+      )}
+
+      {/* Normal View */}
+      <div className={`w-full ${className}`} dir="ltr">
       {title && (
         <div className="flex items-center justify-between mb-5 px-3">
           <h3 className="text-2xl font-bold text-primary flex items-center gap-3" dir="rtl">
@@ -417,6 +512,13 @@ function CollapsibleMindMapInner({
             <span>{title}</span>
           </h3>
           <div className="flex gap-3">
+            <button
+              onClick={toggleFullscreen}
+              className="px-5 py-2.5 text-sm bg-gradient-to-r from-blue-500 to-indigo-600 text-white rounded-xl hover:from-blue-600 hover:to-indigo-700 transition-all shadow-md hover:shadow-lg flex items-center gap-2 font-semibold"
+            >
+              <span className="text-xl">⛶</span>
+              <span>{t.fullscreen}</span>
+            </button>
             <button
               onClick={expandAll}
               className="px-5 py-2.5 text-sm bg-gradient-to-r from-emerald-500 to-green-600 text-white rounded-xl hover:from-emerald-600 hover:to-green-700 transition-all shadow-md hover:shadow-lg flex items-center gap-2 font-semibold"
@@ -434,25 +536,7 @@ function CollapsibleMindMapInner({
           </div>
         </div>
       )}
-      <div className="w-full h-[650px] bg-gradient-to-br from-slate-50 via-white to-slate-100 dark:from-slate-900 dark:via-slate-850 dark:to-slate-900 rounded-2xl border-2 border-slate-200/80 dark:border-slate-700 overflow-hidden shadow-xl">
-        <ReactFlow
-          nodes={nodes}
-          edges={edges}
-          onNodesChange={onNodesChange}
-          onEdgesChange={onEdgesChange}
-          nodeTypes={nodeTypes}
-          connectionLineType={ConnectionLineType.SmoothStep}
-          fitView
-          fitViewOptions={{ padding: 0.35 }}
-          minZoom={0.25}
-          maxZoom={2.5}
-          attributionPosition="bottom-left"
-          proOptions={{ hideAttribution: true }}
-        >
-          <Controls showInteractive={false} className="!bg-white/80 !rounded-xl !shadow-lg !border-slate-200" />
-          <Background variant={BackgroundVariant.Dots} gap={20} size={1.5} color="#cbd5e1" />
-        </ReactFlow>
-      </div>
+      {renderMindMapContent('h-[650px]')}
       
       {/* Légende et instructions */}
       <div className={`mt-5 flex flex-col items-center gap-3`}>
@@ -471,6 +555,7 @@ function CollapsibleMindMapInner({
         </p>
       </div>
     </div>
+    </>
   );
 }
 
