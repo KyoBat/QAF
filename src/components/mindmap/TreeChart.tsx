@@ -1,6 +1,6 @@
 'use client';
 
-import React, { useState } from 'react';
+import React, { useState, useEffect, useCallback } from 'react';
 import { cn } from '@/lib/utils';
 
 // Types pour les données de l'arbre
@@ -134,21 +134,27 @@ function TreeNode({ node, level, isLast: _isLast, isRTL, expandedNodes, onToggle
 }
 
 // Traductions
-const translations = {
+const translations: Record<string, { expandAll: string; collapseAll: string; hint: string; fullscreen: string; close: string }> = {
   ar: {
     expandAll: 'فتح الكل',
     collapseAll: 'إغلاق الكل',
-    hint: 'انقر على العقدة لفتح/إغلاق الفروع',
+    hint: 'اضغط على العقدة لفتح/إغلاق الفروع',
+    fullscreen: 'ملء الشاشة',
+    close: 'إغلاق',
   },
   fr: {
     expandAll: 'Tout ouvrir',
     collapseAll: 'Tout fermer',
     hint: 'Cliquez sur un nœud pour ouvrir/fermer',
+    fullscreen: 'Plein écran',
+    close: 'Fermer',
   },
   en: {
     expandAll: 'Expand all',
     collapseAll: 'Collapse all',
     hint: 'Click a node to expand/collapse',
+    fullscreen: 'Fullscreen',
+    close: 'Close',
   },
 };
 
@@ -169,6 +175,9 @@ export default function TreeChart({
 }: TreeChartProps) {
   const isRTL = locale === 'ar';
   const t = translations[locale as keyof typeof translations] || translations.fr;
+  
+  // Fullscreen state
+  const [isFullscreen, setIsFullscreen] = useState(false);
   
   // Collecter tous les IDs pour l'expansion
   const getAllIds = (node: TreeNodeData): string[] => {
@@ -201,50 +210,121 @@ export default function TreeChart({
   const expandAll = () => setExpandedNodes(new Set(allIds));
   const collapseAll = () => setExpandedNodes(new Set([data.id]));
   
+  const toggleFullscreen = useCallback(() => {
+    setIsFullscreen(prev => !prev);
+  }, []);
+  
+  // Close on Escape key
+  useEffect(() => {
+    const handleKeyDown = (e: KeyboardEvent) => {
+      if (e.key === 'Escape' && isFullscreen) {
+        setIsFullscreen(false);
+      }
+    };
+    window.addEventListener('keydown', handleKeyDown);
+    return () => window.removeEventListener('keydown', handleKeyDown);
+  }, [isFullscreen]);
+  
+  // Render tree content (shared between normal and fullscreen)
+  const renderTreeContent = () => (
+    <div className="w-full overflow-auto py-8 px-4 bg-gradient-to-br from-slate-50 via-white to-slate-100 dark:from-slate-900 dark:via-slate-850 dark:to-slate-900 rounded-2xl border-2 border-slate-200/80 dark:border-slate-700 shadow-xl" style={{ maxHeight: isFullscreen ? 'calc(100vh - 150px)' : '600px' }}>
+      <div className="flex justify-center min-w-max">
+        <TreeNode
+          node={data}
+          level={0}
+          isLast={true}
+          isRTL={isRTL}
+          expandedNodes={expandedNodes}
+          onToggle={toggleNode}
+        />
+      </div>
+    </div>
+  );
+  
+  // Render control buttons
+  const renderButtons = (showClose = false) => (
+    <div className={cn('flex gap-3', isRTL && 'flex-row-reverse')}>
+      {!showClose && (
+        <button
+          onClick={toggleFullscreen}
+          className="px-4 py-2 text-sm bg-gradient-to-r from-blue-500 to-indigo-600 text-white rounded-xl hover:from-blue-600 hover:to-indigo-700 transition-all shadow-md hover:shadow-lg font-medium flex items-center gap-2"
+        >
+          <span>⛶</span>
+          <span>{t.fullscreen}</span>
+        </button>
+      )}
+      <button
+        onClick={expandAll}
+        className="px-4 py-2 text-sm bg-gradient-to-r from-emerald-500 to-green-600 text-white rounded-xl hover:from-emerald-600 hover:to-green-700 transition-all shadow-md hover:shadow-lg font-medium"
+      >
+        {t.expandAll}
+      </button>
+      <button
+        onClick={collapseAll}
+        className="px-4 py-2 text-sm bg-gradient-to-r from-slate-500 to-slate-600 text-white rounded-xl hover:from-slate-600 hover:to-slate-700 transition-all shadow-md hover:shadow-lg font-medium"
+      >
+        {t.collapseAll}
+      </button>
+      {showClose && (
+        <button
+          onClick={() => setIsFullscreen(false)}
+          className="px-4 py-2 text-sm bg-gradient-to-r from-red-500 to-red-600 text-white rounded-xl hover:from-red-600 hover:to-red-700 transition-all shadow-md hover:shadow-lg font-medium flex items-center gap-2"
+        >
+          <span>✕</span>
+          <span>{t.close}</span>
+        </button>
+      )}
+    </div>
+  );
+  
   return (
-    <div className={cn('w-full', className)} dir={isRTL ? 'rtl' : 'ltr'}>
-      {/* Header avec titre et boutons */}
-      {title && (
-        <div className="flex items-center justify-between mb-6 flex-wrap gap-3">
-          <h3 className="text-2xl font-bold text-primary flex items-center gap-3">
-            <span className="text-3xl">🌳</span>
-            <span>{title}</span>
-          </h3>
-          <div className={cn('flex gap-3', isRTL && 'flex-row-reverse')}>
-            <button
-              onClick={expandAll}
-              className="px-4 py-2 text-sm bg-gradient-to-r from-emerald-500 to-green-600 text-white rounded-xl hover:from-emerald-600 hover:to-green-700 transition-all shadow-md hover:shadow-lg font-medium"
-            >
-              {t.expandAll}
-            </button>
-            <button
-              onClick={collapseAll}
-              className="px-4 py-2 text-sm bg-gradient-to-r from-slate-500 to-slate-600 text-white rounded-xl hover:from-slate-600 hover:to-slate-700 transition-all shadow-md hover:shadow-lg font-medium"
-            >
-              {t.collapseAll}
-            </button>
+    <>
+      {/* Fullscreen Modal */}
+      {isFullscreen && (
+        <div 
+          className="fixed inset-0 z-50 bg-black/80 backdrop-blur-sm flex items-center justify-center p-4"
+          onClick={(e) => {
+            if (e.target === e.currentTarget) setIsFullscreen(false);
+          }}
+        >
+          <div className="w-full h-full max-w-[95vw] max-h-[95vh] bg-white dark:bg-slate-900 rounded-3xl overflow-hidden shadow-2xl flex flex-col">
+            {/* Fullscreen Header */}
+            <div className="flex items-center justify-between px-6 py-4 border-b border-slate-200 dark:border-slate-700 bg-slate-50 dark:bg-slate-800">
+              <h3 className="text-2xl font-bold text-primary flex items-center gap-3" dir={isRTL ? 'rtl' : 'ltr'}>
+                <span className="text-3xl">🌳</span>
+                <span>{title}</span>
+              </h3>
+              {renderButtons(true)}
+            </div>
+            {/* Fullscreen Content */}
+            <div className="flex-1 p-4 overflow-auto">
+              {renderTreeContent()}
+            </div>
           </div>
         </div>
       )}
       
-      {/* Conteneur de l'arbre */}
-      <div className="w-full overflow-x-auto py-8 px-4 bg-gradient-to-br from-slate-50 via-white to-slate-100 dark:from-slate-900 dark:via-slate-850 dark:to-slate-900 rounded-2xl border-2 border-slate-200/80 dark:border-slate-700 shadow-xl">
-        <div className="flex justify-center min-w-max">
-          <TreeNode
-            node={data}
-            level={0}
-            isLast={true}
-            isRTL={isRTL}
-            expandedNodes={expandedNodes}
-            onToggle={toggleNode}
-          />
-        </div>
+      {/* Normal View */}
+      <div className={cn('w-full', className)} dir={isRTL ? 'rtl' : 'ltr'}>
+        {/* Header avec titre et boutons */}
+        {title && (
+          <div className="flex items-center justify-between mb-6 flex-wrap gap-3">
+            <h3 className="text-2xl font-bold text-primary flex items-center gap-3">
+              <span className="text-3xl">🌳</span>
+              <span>{title}</span>
+            </h3>
+            {renderButtons(false)}
+          </div>
+        )}
+        
+        {/* Conteneur de l'arbre */}
+        {renderTreeContent()}
+        
+        {/* Hint */}
+        <p className="text-center text-xs text-slate-500 mt-4">
+          💡 {t.hint}
+        </p>
       </div>
-      
-      {/* Hint */}
-      <p className="text-center text-xs text-slate-500 mt-4">
-        💡 {t.hint}
-      </p>
-    </div>
+    </>
   );
 }
