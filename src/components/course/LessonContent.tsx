@@ -431,7 +431,7 @@ export function LessonContent({ lesson, courseSlug, className }: LessonContentPr
           {renderContentSection(contentParts[0])}
           
           {/* Inline Tree Chart */}
-          <div className="my-8">
+          <div className="my-8 max-w-full overflow-x-auto">
             <TreeChart 
               data={mindMapData}
               title={mindMapTitle}
@@ -454,7 +454,7 @@ export function LessonContent({ lesson, courseSlug, className }: LessonContentPr
           
           {/* Tree Chart at the end of lesson (fallback) */}
           {mindMapData && (
-            <div className="mt-10 pt-8 border-t border-border">
+            <div className="mt-10 pt-8 border-t border-border max-w-full overflow-x-auto">
               <TreeChart 
                 data={mindMapData}
                 title={mindMapTitle}
