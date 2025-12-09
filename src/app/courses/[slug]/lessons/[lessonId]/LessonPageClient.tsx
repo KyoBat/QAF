@@ -236,7 +236,7 @@ export function LessonPageClient({ data }: LessonPageClientProps) {
           </aside>
 
           {/* Main Content */}
-          <main className="lg:col-span-3">
+          <main className="lg:col-span-3 min-w-0">
             {/* Breadcrumb - Desktop */}
             <div className="hidden lg:block mb-6">
               <Breadcrumb items={breadcrumbItems} />
