@@ -276,27 +276,41 @@ Cette parole résume la méthodologie des pieux prédécesseurs :
 
 ### L'histoire de l'Imam Malik avec le questionneur sur l'Istiwâ'
 
-Un homme vint à l'Imam Malik رحمه الله et dit : **"Ô Abu 'Abdillah, ﴿الرَّحْمَٰنُ عَلَى الْعَرْشِ اسْتَوَىٰ﴾ comment S'est-Il établi ?"**
+<div class="scene-box">
 
-L'Imam Malik baissa la tête jusqu'à ce que la sueur coule de son front, puis dit :
+**🎭 LA RÈGLE D'OR DE L'IMAM MALIK**
 
-> **"L'établissement n'est pas inconnu, le comment n'est pas concevable, y croire est obligatoire, et questionner à ce sujet est une innovation. Je ne te vois qu'innovateur ! Faites-le sortir !"**
+*Un homme vint à l'Imam Malik رحمه الله et dit :*
 
-Cette règle d'or guide les Gens de la Sunnah pour tous les Attributs.
+**L'homme :** « Ô Abu 'Abdillah, ﴿الرَّحْمَٰنُ عَلَى الْعَرْشِ اسْتَوَىٰ﴾ comment S'est-Il établi ? »
+
+*L'Imam Malik baissa la tête jusqu'à ce que la sueur coule de son front, puis dit :*
+
+**L'Imam Malik :** « **L'établissement n'est pas inconnu, le comment n'est pas concevable, y croire est obligatoire, et questionner à ce sujet est une innovation. Je ne te vois qu'innovateur ! Faites-le sortir !** »
+
+</div>
+
+> 💎 **Règle d'or :** Cette règle guide les Gens de la Sunnah pour tous les Attributs.
 
 ---
 
 ### L'histoire de l'Imam Ahmad lors de l'épreuve de la création du Coran
 
-Quand l'Imam Ahmad fut éprouvé sur la question de la création du Coran, il resta ferme comme les montagnes...
+<div class="scene-box">
 
-Al-Ma'mun dit : "Dis que le Coran est créé !"
+**🎭 LA FERMETÉ DE L'IMAM AHMAD**
 
-L'Imam Ahmad dit : **"Le Coran est la parole d'Allah, non créé."**
+*Quand l'Imam Ahmad fut éprouvé sur la question de la création du Coran, il resta ferme comme les montagnes...*
 
-Il fut fouetté jusqu'à l'évanouissement et emprisonné des années...
+**Al-Ma'mun :** « Dis que le Coran est créé ! »
 
-Il disait : **"Apportez-moi une preuve du Livre d'Allah ou de la Sunnah de Son Messager !"**
+**L'Imam Ahmad :** « **Le Coran est la parole d'Allah, non créé.** »
+
+*Il fut fouetté jusqu'à l'évanouissement et emprisonné des années...*
+
+**L'Imam Ahmad :** « **Apportez-moi une preuve du Livre d'Allah ou de la Sunnah de Son Messager !** »
+
+</div>
 
 ---
 

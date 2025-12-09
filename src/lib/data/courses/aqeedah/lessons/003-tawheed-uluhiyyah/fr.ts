@@ -349,54 +349,69 @@ Le Prophète ﷺ a dit :
 
 ### L'histoire d'Ibrahim عليه السلام avec son peuple
 
-Ibrahim dit à son père et à son peuple :
+<div class="scene-box">
 
-> ﴿مَا هَٰذِهِ التَّمَاثِيلُ الَّتِي أَنتُمْ لَهَا عَاكِفُونَ﴾
-> *"Quelles sont ces statues auxquelles vous vous attachez ?"* (Al-Anbiya 21:52)
+**🎭 IBRAHIM BRISE LES IDOLES**
 
-Puis il brisa leurs idoles et laissa la plus grande. Quand ils l'interrogèrent, il dit :
+*Ibrahim dit à son père et à son peuple :*
 
-> ﴿بَلْ فَعَلَهُ كَبِيرُهُمْ هَٰذَا فَاسْأَلُوهُمْ إِن كَانُوا يَنطِقُونَ﴾
-> *"C'est la plus grande d'entre elles qui a fait cela. Demandez-leur donc, si elles peuvent parler."* (Al-Anbiya 21:63)
+**Ibrahim :** « **Quelles sont ces statues auxquelles vous vous attachez ?** » *(Al-Anbiya 21:52)*
 
-**Ils reconnurent la vérité :**
-> ﴿لَقَدْ عَلِمْتَ مَا هَٰؤُلَاءِ يَنطِقُونَ﴾
-> *"Tu sais bien que celles-ci ne parlent pas."* (Al-Anbiya 21:65)
+*Puis il brisa leurs idoles et laissa la plus grande. Quand ils l'interrogèrent, il dit :*
 
-Il les confondit avec l'argument :
-> ﴿أَفَتَعْبُدُونَ مِن دُونِ اللَّهِ مَا لَا يَنفَعُكُمْ شَيْئًا وَلَا يَضُرُّكُمْ﴾
-> *"Adorez-vous donc, en dehors d'Allah, ce qui ne vous est d'aucune utilité et ne vous nuit point ?"* (Al-Anbiya 21:66)
+**Ibrahim :** « **C'est la plus grande d'entre elles qui a fait cela. Demandez-leur donc, si elles peuvent parler.** » *(Al-Anbiya 21:63)*
+
+*Ils reconnurent la vérité :*
+
+**Le peuple :** « Tu sais bien que celles-ci ne parlent pas. » *(Al-Anbiya 21:65)*
+
+*Il les confondit avec l'argument :*
+
+**Ibrahim :** « **Adorez-vous donc, en dehors d'Allah, ce qui ne vous est d'aucune utilité et ne vous nuit point ?** » *(Al-Anbiya 21:66)*
+
+</div>
 
 ---
 
 ### L'histoire de 'Adi ibn Hatim رضي الله عنه
 
-'Adi ibn Hatim vint alors qu'il était chrétien, et il entendit le Prophète ﷺ réciter :
+<div class="scene-box">
 
-> ﴿اتَّخَذُوا أَحْبَارَهُمْ وَرُهْبَانَهُمْ أَرْبَابًا مِّن دُونِ اللَّهِ﴾
-> *"Ils ont pris leurs rabbins et leurs moines comme seigneurs en dehors d'Allah."* (At-Tawbah 9:31)
+**🎭 'ADI IBN HATIM ET L'OBÉISSANCE AUX SAVANTS**
 
-'Adi dit : **"Nous ne les adorions pas !"**
+*'Adi ibn Hatim vint alors qu'il était chrétien, et il entendit le Prophète ﷺ réciter :*
 
-Le Prophète ﷺ dit :
-> **« أَلَيْسَ يُحَرِّمُونَ مَا أَحَلَّ اللَّهُ فَتُحَرِّمُونَهُ، وَيُحِلُّونَ مَا حَرَّمَ اللَّهُ فَتَسْتَحِلُّونَهُ؟ »**
-> *"Ne rendaient-ils pas illicite ce qu'Allah a rendu licite et vous le rendiez illicite, et ne rendaient-ils pas licite ce qu'Allah a interdit et vous le rendiez licite ?"*
+> **« Ils ont pris leurs rabbins et leurs moines comme seigneurs en dehors d'Allah. »** *(At-Tawbah 9:31)*
 
-Il dit : Si.
+**'Adi :** « Nous ne les adorions pas ! »
 
-Il dit : **« فَتِلْكَ عِبَادَتُهُمْ »** *"C'est cela leur adoration."* (Hadith déclaré bon par Al-Albani)
+**Le Prophète ﷺ :** « **Ne rendaient-ils pas illicite ce qu'Allah a rendu licite et vous le rendiez illicite, et ne rendaient-ils pas licite ce qu'Allah a interdit et vous le rendiez licite ?** »
+
+**'Adi :** « Si. »
+
+**Le Prophète ﷺ :** « **C'est cela leur adoration.** »
+
+</div>
+
+> 📚 *(Hadith déclaré bon par Al-Albani)*
 
 ---
 
 ### L'histoire des Compagnons avec Dhat Anwat
 
-Lors de la bataille de Hunayn, les Compagnons passèrent près d'un arbre sur lequel les polythéistes accrochaient leurs armes pour se bénir de lui, appelé "Dhat Anwat".
+<div class="scene-box">
 
-Certains Compagnons récemment convertis dirent : **"Ô Messager d'Allah, fais-nous un Dhat Anwat comme ils ont un Dhat Anwat !"**
+**🎭 DHAT ANWAT : UN AVERTISSEMENT PROPHÉTIQUE**
 
-Le Prophète ﷺ dit :
-> **« اللَّهُ أَكْبَرُ! إِنَّهَا السُّنَنُ! قُلْتُمْ وَالَّذِي نَفْسِي بِيَدِهِ كَمَا قَالَتْ بَنُو إِسْرَائِيلَ لِمُوسَى: اجْعَل لَّنَا إِلَٰهًا كَمَا لَهُمْ آلِهَةٌ »**
-> *"Allahu Akbar ! Ce sont les mêmes voies ! Vous avez dit, par Celui qui tient mon âme en Sa Main, comme les Enfants d'Israël ont dit à Moïse : 'Fais-nous une divinité comme ils ont des divinités'."* (Déclaré authentique par Al-Albani)
+*Lors de la bataille de Hunayn, les Compagnons passèrent près d'un arbre sur lequel les polythéistes accrochaient leurs armes pour se bénir de lui, appelé "Dhat Anwat".*
+
+**Certains Compagnons (récemment convertis) :** « Ô Messager d'Allah, fais-nous un Dhat Anwat comme ils ont un Dhat Anwat ! »
+
+**Le Prophète ﷺ :** « **Allahu Akbar ! Ce sont les mêmes voies ! Vous avez dit, par Celui qui tient mon âme en Sa Main, comme les Enfants d'Israël ont dit à Moïse : 'Fais-nous une divinité comme ils ont des divinités'.** »
+
+</div>
+
+> 📚 *(Déclaré authentique par Al-Albani)*
 
 ---
 

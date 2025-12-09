@@ -258,6 +258,8 @@ This statement summarizes the methodology of the pious predecessors:
 
 ### The Story of Imam Malik with the Questioner about Istiwâ'
 
+<div class="scene-box">
+
 A man came to Imam Malik رحمه الله and said: **"O Abu 'Abdillah, ﴿الرَّحْمَٰنُ عَلَى الْعَرْشِ اسْتَوَىٰ﴾ how did He establish Himself?"**
 
 Imam Malik lowered his head until sweat ran from his forehead, then said:
@@ -266,9 +268,13 @@ Imam Malik lowered his head until sweat ran from his forehead, then said:
 
 This golden rule guides Ahlus-Sunnah for all Attributes.
 
+</div>
+
 ---
 
 ### The Story of Imam Ahmad during the Ordeal of the Created Quran
+
+<div class="scene-box">
 
 When Imam Ahmad was tested on the issue of the created Quran, he stood firm like the mountains...
 
@@ -280,13 +286,19 @@ He was whipped until he fainted and imprisoned for years...
 
 He would say: **"Bring me proof from the Book of Allah or the Sunnah of His Messenger!"**
 
+</div>
+
 ---
 
 ### The Statement of Nu'aym ibn Hammad
 
+<div class="scene-box">
+
 Nu'aym ibn Hammad رحمه الله said:
 
 > **"Whoever likens Allah to His creation has disbelieved, whoever denies what Allah has described Himself with has disbelieved, and what Allah has described Himself with is not an assimilation."**
+
+</div>
 
 ---
 

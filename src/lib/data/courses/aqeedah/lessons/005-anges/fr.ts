@@ -217,34 +217,53 @@ Le Prophète ﷺ a dit:
 
 ### La rencontre du Prophète ﷺ avec Jibrîl
 
-Le Prophète ﷺ raconte :
+<div class="scene-box">
 
-> **«رَأَيْتُ جِبْرِيلَ عَلَى صُورَتِهِ الَّتِي خُلِقَ عَلَيْهَا مَرَّتَيْنِ، لَهُ سِتُّمِائَةِ جَنَاحٍ قَدْ سَدَّ الْأُفُقَ»**
-> "J'ai vu Jibrîl sous sa forme originelle deux fois, il avait 600 ailes qui couvraient l'horizon." (Al-Bukhari 3232, Muslim 177)
+**👼 LA GRANDEUR DE JIBRÎL**
 
-Quelle grandeur ! Et pourtant, il obéit à Allah avec une soumission totale.
+*Le Prophète ﷺ raconte :*
+
+**Le Prophète ﷺ :** « **J'ai vu Jibrîl sous sa forme originelle deux fois, il avait 600 ailes qui couvraient l'horizon.** »
+
+</div>
+
+> 📚 *(Al-Bukhari 3232, Muslim 177)*
+
+> 💎 **Réflexion :** Quelle grandeur ! Et pourtant, il obéit à Allah avec une soumission totale.
 
 ---
 
 ### Jibrîl sous forme humaine lors du hadith
 
-Jibrîl عليه السلام est venu au Prophète ﷺ sous forme humaine :
+<div class="scene-box">
 
-> **«رَجُلٌ شَدِيدُ بَيَاضِ الثِّيَابِ، شَدِيدُ سَوَادِ الشَّعَرِ، لَا يُرَى عَلَيْهِ أَثَرُ السَّفَرِ وَلَا يَعْرِفُهُ مِنَّا أَحَدٌ»**
-> "Un homme aux vêtements d'une blancheur éclatante, aux cheveux d'un noir intense, sans trace de voyage, et aucun de nous ne le connaissait."
+**👼 JIBRÎL EN FORME HUMAINE**
 
-Il posa les questions sur l'Islam, l'Iman et l'Ihsan.
+*Jibrîl عليه السلام est venu au Prophète ﷺ sous forme humaine :*
+
+« Un homme aux vêtements d'une **blancheur éclatante**, aux cheveux d'un **noir intense**, sans trace de voyage, et aucun de nous ne le connaissait. »
+
+*Il posa les questions sur l'Islam, l'Iman et l'Ihsan.*
+
+</div>
 
 ---
 
 ### L'ange de la mort et Moïse عليه السلام
 
-Le Prophète ﷺ a dit :
+<div class="scene-box">
 
-> **«جَاءَ مَلَكُ الْمَوْتِ إِلَى مُوسَى فَقَالَ: أَجِبْ رَبَّكَ، فَلَطَمَ مُوسَى عَيْنَ مَلَكِ الْمَوْتِ فَفَقَأَهَا»**
-> "L'ange de la mort vint à Moïse et lui dit : 'Réponds à ton Seigneur !' Moïse frappa l'œil de l'ange et le creva." (Al-Bukhari 1339, Muslim 2372)
+**👼 L'ANGE DE LA MORT ET MOÏSE**
 
-Moïse ne savait pas que c'était un ange ! Allah lui rendit son œil et lui accorda le choix.
+*Le Prophète ﷺ a dit :*
+
+**Le Prophète ﷺ :** « **L'ange de la mort vint à Moïse et lui dit : 'Réponds à ton Seigneur !' Moïse frappa l'œil de l'ange et le creva.** »
+
+*Moïse ne savait pas que c'était un ange ! Allah lui rendit son œil et lui accorda le choix.*
+
+</div>
+
+> 📚 *(Al-Bukhari 1339, Muslim 2372)*
 
 ---
 

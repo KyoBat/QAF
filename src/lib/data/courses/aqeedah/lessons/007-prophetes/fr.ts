@@ -282,20 +282,26 @@ Chaque prophète a reçu des signes adaptés à son époque.
 
 ### L'épreuve d'Ibrahim عليه السلام avec le feu
 
+<div class="scene-box">
+
 Quand Ibrahim عليه السلام brisa les idoles, son peuple voulut le brûler vif.
 
-> ﴿قَالُوا حَرِّقُوهُ وَانصُرُوا آلِهَتَكُمْ﴾
+> ﴾قَالُوا حَرِّقُوهُ وَانصُرُوا آلِهَتَكُمْ﴿
 > "Ils dirent : 'Brûlez-le et secourez vos divinités !'" [Al-Anbiya : 68]
 
 Allah ordonna au feu :
-> ﴿يَا نَارُ كُونِي بَرْدًا وَسَلَامًا عَلَىٰ إِبْرَاهِيمَ﴾
+> ﴾يَا نَارُ كُونِي بَرْدًا وَسَلَامًا عَلَىٰ إِبْرَاهِيمَ﴿
 > "Ô feu, sois fraîcheur et paix pour Ibrahim !" [Al-Anbiya : 69]
 
 Ibrahim sortit indemne, prouvant la puissance d'Allah.
 
+</div>
+
 ---
 
 ### La patience de Nuh عليه السلام
+
+<div class="scene-box">
 
 Nuh عليه السلام prêcha 950 ans :
 
@@ -304,25 +310,35 @@ Nuh عليه السلام prêcha 950 ans :
 
 Très peu le suivirent, mais il ne désespéra jamais de la miséricorde d'Allah.
 
+</div>
+
 ---
 
 ### Yusuf عليه السلام et la tentation
 
+<div class="scene-box">
+
 Quand la femme d'Al-'Aziz tenta de le séduire :
 
-> ﴿قَالَ مَعَاذَ اللَّهِ ۖ إِنَّهُ رَبِّي أَحْسَنَ مَثْوَايَ﴾
+> ﴾قَالَ مَعَاذَ اللَّهِ ۖ إِنَّهُ رَبِّي أَحْسَنَ مَثْوَايَ﴿
 > "Il dit : 'Qu'Allah me protège ! Il est mon maître, Il m'a accordé un bel asile.'" [Yusuf : 23]
 
 Il préféra la prison au péché. Quelle noblesse !
+
+</div>
 
 ---
 
 ### Le Prophète ﷺ à Ta'if
 
+<div class="scene-box">
+
 Quand le Prophète ﷺ fut chassé de Ta'if, ensanglanté et blessé, l'ange des montagnes lui proposa d'écraser la ville entre deux montagnes.
 
 Il répondit : **«لَا، بَلْ أَرْجُو أَنْ يُخْرِجَ اللَّهُ مِنْ أَصْلَابِهِمْ مَنْ يَعْبُدُ اللَّهَ وَحْدَهُ»**
 "Non, mais j'espère qu'Allah fera sortir de leurs reins des gens qui adoreront Allah Seul." (Al-Bukhari 3231, Muslim 1795)
+
+</div>
 
 ---
 

@@ -286,6 +286,8 @@ Le Prophète ﷺ a dit:
 
 ### L'homme qui sera sauvé par une bonne parole
 
+<div class="scene-box">
+
 Le Prophète ﷺ a dit :
 
 > **«إِنَّ الْعَبْدَ لَيَتَكَلَّمُ بِالْكَلِمَةِ مِنْ رِضْوَانِ اللَّهِ، لَا يُلْقِي لَهَا بَالًا، يَرْفَعُهُ اللَّهُ بِهَا دَرَجَاتٍ»**
@@ -293,9 +295,13 @@ Le Prophète ﷺ a dit :
 
 Une seule parole peut tout changer !
 
+</div>
+
 ---
 
 ### L'homme avec 99 registres de péchés
+
+<div class="scene-box">
 
 Le Prophète ﷺ a dit :
 
@@ -305,9 +311,13 @@ Le Prophète ﷺ a dit :
 
 La sincérité du Tawhid peut tout effacer.
 
+</div>
+
 ---
 
 ### Le dernier à entrer au Paradis
+
+<div class="scene-box">
 
 Le Prophète ﷺ a raconté le dernier homme à sortir de l'Enfer et entrer au Paradis :
 
@@ -315,9 +325,13 @@ Il avancera en trébuchant, le feu le brûlant encore. Puis il verra un arbre et
 
 Finalement, Allah lui donnera un royaume **dix fois plus grand que ce monde** !
 
+</div>
+
 ---
 
 ### La vision d'Allah au Paradis
+
+<div class="scene-box">
 
 Le Prophète ﷺ a dit :
 
@@ -325,6 +339,8 @@ Le Prophète ﷺ a dit :
 > "Vous verrez votre Seigneur de vos propres yeux." (Al-Bukhari 7434)
 
 C'est le plus grand bonheur du Paradis, plus grand que tout autre délice.
+
+</div>
 
 ---
 

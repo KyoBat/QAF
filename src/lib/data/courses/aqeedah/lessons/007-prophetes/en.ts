@@ -282,20 +282,26 @@ Each prophet was given signs suited to his time.
 
 ### Ibrahim's عليه السلام Trial with Fire
 
+<div class="scene-box">
+
 When Ibrahim عليه السلام broke the idols, his people wanted to burn him alive.
 
-> ﴿قَالُوا حَرِّقُوهُ وَانصُرُوا آلِهَتَكُمْ﴾
+> ﴾قَالُوا حَرِّقُوهُ وَانصُرُوا آلِهَتَكُمْ﴿
 > "They said: 'Burn him and support your gods!'" [Al-Anbiya: 68]
 
 Allah commanded the fire:
-> ﴿يَا نَارُ كُونِي بَرْدًا وَسَلَامًا عَلَىٰ إِبْرَاهِيمَ﴾
+> ﴾يَا نَارُ كُونِي بَرْدًا وَسَلَامًا عَلَىٰ إِبْرَاهِيمَ﴿
 > "O fire, be coolness and safety upon Ibrahim!" [Al-Anbiya: 69]
 
 Ibrahim emerged unharmed, proving Allah's power.
 
+</div>
+
 ---
 
 ### The Patience of Nuh عليه السلام
+
+<div class="scene-box">
 
 Nuh عليه السلام preached for 950 years:
 
@@ -304,25 +310,35 @@ Nuh عليه السلام preached for 950 years:
 
 Very few followed him, but he never despaired of Allah's mercy.
 
+</div>
+
 ---
 
 ### Yusuf عليه السلام and the Temptation
 
+<div class="scene-box">
+
 When the wife of Al-'Aziz tried to seduce him:
 
-> ﴿قَالَ مَعَاذَ اللَّهِ ۖ إِنَّهُ رَبِّي أَحْسَنَ مَثْوَايَ﴾
+> ﴾قَالَ مَعَاذَ اللَّهِ ۖ إِنَّهُ رَبِّي أَحْسَنَ مَثْوَايَ﴿
 > "He said: 'Allah forbid! Indeed, he is my master who has made good my residence.'" [Yusuf: 23]
 
 He preferred prison over sin. What nobility!
+
+</div>
 
 ---
 
 ### The Prophet ﷺ at Ta'if
 
+<div class="scene-box">
+
 When the Prophet ﷺ was chased from Ta'if, bloodied and wounded, the angel of the mountains offered to crush the city between two mountains.
 
 He replied: **«لَا، بَلْ أَرْجُو أَنْ يُخْرِجَ اللَّهُ مِنْ أَصْلَابِهِمْ مَنْ يَعْبُدُ اللَّهَ وَحْدَهُ»**
 "No, but I hope that Allah will bring forth from their loins people who will worship Allah alone." (Al-Bukhari 3231, Muslim 1795)
+
+</div>
 
 ---
 

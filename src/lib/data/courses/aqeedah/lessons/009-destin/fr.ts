@@ -268,6 +268,8 @@ Et remercier Allah: "Alhamdulillah" (Louange à Allah).
 
 ### L'histoire de 'Umar رضي الله عنه et la peste
 
+<div class="scene-box">
+
 Quand 'Umar رضي الله عنه arriva au Shâm et apprit qu'il y avait la peste, il décida de retourner.
 
 Abu 'Ubaydah dit : "Fuis-tu le décret d'Allah ?"
@@ -278,9 +280,13 @@ Puis 'Abd ar-Rahman ibn 'Awf vint avec le hadith : **"Quand vous entendez parler
 
 La sagesse de prendre les moyens tout en faisant confiance au destin.
 
+</div>
+
 ---
 
 ### Ibn 'Abbas et le jeune homme
+
+<div class="scene-box">
 
 Un jeune homme demanda à Ibn 'Abbas رضي الله عنهما : "Je trouve dans mon cœur (des suggestions) concernant le destin."
 
@@ -292,9 +298,13 @@ Il dit : **"Ceci est la foi pure (Sarih Al-Iman)."** (Muslim)
 
 Lutter contre les doutes tout en tenant ferme à la foi est en soi une preuve de foi.
 
+</div>
+
 ---
 
 ### Le Prophète ﷺ et l'homme qui invoquait le destin
+
+<div class="scene-box">
 
 Un homme qui avait commis la fornication fut amené au Prophète ﷺ et dit : "Ô Messager d'Allah, Allah a décrété cela pour moi !"
 
@@ -302,15 +312,21 @@ Le Prophète ﷺ n'accepta pas cette excuse et appliqua la peine.
 
 **Leçon :** Le destin n'est pas une excuse pour les péchés.
 
+</div>
+
 ---
 
 ### L'histoire du Compagnon avec le cancer
+
+<div class="scene-box">
 
 Un des Compagnons avait une tumeur et voulait la cautériser. On lui dit : "Attends."
 
 Il dit : **"Je cherche la guérison par les causes, et l'affaire est entre les mains d'Allah."**
 
 Il prit les moyens tout en faisant confiance à Allah.
+
+</div>
 
 ---
 

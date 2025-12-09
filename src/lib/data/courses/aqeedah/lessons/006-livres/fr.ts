@@ -244,15 +244,21 @@ Le Prophète ﷺ a dit:
 
 ### La compilation du Coran sous Abu Bakr رضي الله عنه
 
+<div class="scene-box">
+
 Après la bataille de Yamama, de nombreux mémorisateurs (Huffaz) furent tués. 'Umar رضي الله عنه suggéra à Abu Bakr de compiler le Coran.
 
 Abu Bakr dit d'abord : **"Comment ferais-je quelque chose que le Prophète ﷺ n'a pas fait ?"**
 
 Puis Allah lui ouvrit le cœur, et il chargea Zayd ibn Thabit رضي الله عنه de cette mission bénie.
 
+</div>
+
 ---
 
 ### 'Uthman et la standardisation du Mushaf
+
+<div class="scene-box">
 
 Quand les différences de récitation menacèrent l'unité, 'Uthman رضي الله عنه standardisa le Mushaf et envoya des copies dans toutes les régions.
 
@@ -260,13 +266,19 @@ Il dit : **"J'ai réuni les gens sur un seul Mushaf."**
 
 Cette sage décision préserva l'unité de la Oummah.
 
+</div>
+
 ---
 
 ### Ibn Mas'ud et son amour du Coran
 
+<div class="scene-box">
+
 Ibn Mas'ud رضي الله عنه a dit :
 
 > **"Par Celui en dehors de qui il n'y a pas de divinité, il n'y a pas une sourate du Livre d'Allah sans que je sache où elle a été révélée, et il n'y a pas un verset sans que je sache à propos de quoi il a été révélé."**
+
+</div>
 
 ---
 

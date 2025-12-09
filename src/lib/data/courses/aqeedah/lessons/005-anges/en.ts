@@ -217,6 +217,8 @@ The Prophet ﷺ said:
 
 ### The Prophet's ﷺ Encounter with Jibrîl
 
+<div class="scene-box">
+
 The Prophet ﷺ narrated:
 
 > **«رَأَيْتُ جِبْرِيلَ عَلَى صُورَتِهِ الَّتِي خُلِقَ عَلَيْهَا مَرَّتَيْنِ، لَهُ سِتُّمِائَةِ جَنَاحٍ قَدْ سَدَّ الْأُفُقَ»**
@@ -224,20 +226,28 @@ The Prophet ﷺ narrated:
 
 What grandeur! Yet he obeys Allah with complete submission.
 
+</div>
+
 ---
 
 ### Jibrîl in Human Form during the Hadith
 
+<div class="scene-box">
+
 Jibrîl عليه السلام came to the Prophet ﷺ in human form:
 
-> **«رَجُلٌ شَدِيدُ بَيَاضِ الثِّيَابِ، شَدِيدُ سَوَادِ الشَّعَرِ، لَا يُرَى عَلَيْهِ أَثَرُ السَّفَرِ وَلَا يَعْرِفُهُ مِنَّا أَحَدٌ»**
+> **«رَجُلٌ شَدِيدُ بَيَاضِ الثِّيَابِ، شَدِيدُ سَوَادِ الشَّعْرِ، لَا يُرَى عَلَيْهِ أَثَرُ السَّفَرِ وَلَا يَعْرِفُهُ مِنَّا أَحَدٌ»**
 > "A man with intensely white clothes, intensely black hair, no signs of travel on him, and none of us knew him."
 
 He asked questions about Islam, Iman, and Ihsan.
 
+</div>
+
 ---
 
 ### The Angel of Death and Moses عليه السلام
+
+<div class="scene-box">
 
 The Prophet ﷺ said:
 
@@ -246,14 +256,20 @@ The Prophet ﷺ said:
 
 Moses didn't know he was an angel! Allah restored his eye and gave him a choice.
 
+</div>
+
 ---
 
 ### The Angels Who Take Turns
+
+<div class="scene-box">
 
 The Prophet ﷺ said:
 
 > **«يَتَعَاقَبُونَ فِيكُمْ مَلَائِكَةٌ بِاللَّيْلِ وَمَلَائِكَةٌ بِالنَّهَارِ، وَيَجْتَمِعُونَ فِي صَلَاةِ الْفَجْرِ وَصَلَاةِ الْعَصْرِ»**
 > "Angels take turns among you, night angels and day angels. They gather at the Fajr prayer and the 'Asr prayer." (Al-Bukhari 555, Muslim 632)
+
+</div>
 
 ---
 

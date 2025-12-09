@@ -349,6 +349,8 @@ The Prophet ﷺ said:
 
 ### The Story of Ibrahim عليه السلام with His People
 
+<div class="scene-box">
+
 Ibrahim said to his father and his people:
 
 > ﴿مَا هَٰذِهِ التَّمَاثِيلُ الَّتِي أَنتُمْ لَهَا عَاكِفُونَ﴾
@@ -367,9 +369,13 @@ He established the proof against them:
 > ﴿أَفَتَعْبُدُونَ مِن دُونِ اللَّهِ مَا لَا يَنفَعُكُمْ شَيْئًا وَلَا يَضُرُّكُمْ﴾
 > *"Then do you worship instead of Allah that which does not benefit you at all or harm you?"* (Al-Anbiya 21:66)
 
+</div>
+
 ---
 
 ### The Story of 'Adi ibn Hatim رضي الله عنه
+
+<div class="scene-box">
 
 'Adi ibn Hatim came while he was a Christian, and he heard the Prophet ﷺ reciting:
 
@@ -386,9 +392,13 @@ He said: Yes.
 
 He said: **« فَتِلْكَ عِبَادَتُهُمْ »** *"That is their worship of them."* (Hadith graded good by Al-Albani)
 
+</div>
+
 ---
 
 ### The Story of the Companions with Dhat Anwat
+
+<div class="scene-box">
 
 During the battle of Hunayn, the Companions passed by a tree on which the polytheists would hang their weapons seeking blessings from it, called "Dhat Anwat".
 
@@ -397,6 +407,8 @@ Some newly converted Companions said: **"O Messenger of Allah, make for us a Dha
 The Prophet ﷺ said:
 > **« اللَّهُ أَكْبَرُ! إِنَّهَا السُّنَنُ! قُلْتُمْ وَالَّذِي نَفْسِي بِيَدِهِ كَمَا قَالَتْ بَنُو إِسْرَائِيلَ لِمُوسَى: اجْعَل لَّنَا إِلَٰهًا كَمَا لَهُمْ آلِهَةٌ »**
 > *"Allahu Akbar! These are the same ways! You have said, by the One in whose Hand is my soul, just as the Children of Israel said to Musa: 'Make for us a god just as they have gods'."* (Declared authentic by Al-Albani)
+
+</div>
 
 ---
 

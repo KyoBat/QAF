@@ -292,6 +292,8 @@ Belief in Tawheed Ar-Rububiyyah has profound effects on the believer:
 
 ### The Story of Imam Abu Hanifa with the Atheists
 
+<div class="scene-box">
+
 A group of deniers of the Creator (the Dahriyyah) came to debate with Imam Abu Hanifa...
 
 The Imam told them: **"Let me think about something I was told!"**
@@ -306,23 +308,33 @@ The Imam then said: **"SubhanAllah! A ship cannot sail without a captain, yet th
 
 They were stunned, and some of them embraced Islam.
 
+</div>
+
 ---
 
 ### The Story of the Bedouin and the Natural Instinct (Fitrah)
+
+<div class="scene-box">
 
 A Bedouin was asked: **"How did you come to know your Lord?"**
 
 He answered: **"Camel droppings indicate a camel, footprints indicate a traveler. A sky with constellations, an earth with pathways, seas with waves - don't these indicate the Subtle, the All-Aware?!"**
 
+</div>
+
 ---
 
 ### The Story of Al-Ma'mun and the Christian Physician
+
+<div class="scene-box">
 
 Caliph Al-Ma'mun had a Christian physician. Imam Ali Al-Rida debated with him about the existence of the Creator...
 
 He said to him: **"Tell me, if this world had no manager and no creator, where would these creatures come from? And who makes these celestial bodies rotate?"**
 
 The physician replied: "SubhanAllah! This can only come from a Wise Creator!"
+
+</div>
 
 ---
 

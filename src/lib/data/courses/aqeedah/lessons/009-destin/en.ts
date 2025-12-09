@@ -268,6 +268,10 @@ And thank Allah: "Alhamdulillah" (Praise be to Allah).
 
 ### The Story of 'Umar رضي الله عنه and the Plague
 
+### 'Umar and the Plague
+
+<div class="scene-box">
+
 When 'Umar رضي الله عنه came to Sham and learned of the plague, he decided to return.
 
 Abu 'Ubaydah said: "Do you flee from Allah's decree?"
@@ -278,9 +282,13 @@ Then 'Abd ar-Rahman ibn 'Awf came with the hadith: **"When you hear of plague in
 
 Wisdom in taking means while trusting in destiny.
 
+</div>
+
 ---
 
 ### Ibn 'Abbas and the Young Man
+
+<div class="scene-box">
 
 A young man asked Ibn 'Abbas رضي الله عنهما: "I find in my heart (whispers) about destiny."
 
@@ -292,9 +300,13 @@ He said: **"This is pure faith (Sarih Al-Iman)."** (Muslim)
 
 Struggling with doubts while holding firm to faith is itself proof of faith.
 
+</div>
+
 ---
 
 ### The Prophet ﷺ and the Man Who Blamed Destiny
+
+<div class="scene-box">
 
 A man who committed zina was brought to the Prophet ﷺ and said: "O Messenger of Allah, Allah destined this for me!"
 
@@ -302,15 +314,21 @@ The Prophet ﷺ did not accept this excuse and applied the punishment.
 
 **Lesson:** Destiny is not an excuse for sins.
 
+</div>
+
 ---
 
 ### The Story of the Sahabi with Cancer
+
+<div class="scene-box">
 
 One of the Companions had a tumor and wanted to cauterize it. He was told: "Wait."
 
 He said: **"I seek healing by the causes, and the matter is with Allah."**
 
 He took the means while trusting in Allah.
+
+</div>
 
 ---
 

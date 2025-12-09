@@ -294,6 +294,8 @@ Every lesson is built upon evidence from **the Quran and authentic Sunnah only**
 
 ### The Story of Bilal's Steadfastness رضي الله عنه
 
+<div class="scene-box">
+
 Bilal ibn Rabah was an Abyssinian slave tortured under the scorching sun of Makkah...
 
 **Umayyah ibn Khalaf** would take him out at midday, place a huge boulder on his chest and say: "You will remain like this until you die or deny Muhammad!"
@@ -302,9 +304,13 @@ And Bilal would only repeat: **"Ahad... Ahad"** (One... One)
 
 **🎯 Lesson:** Aqeedah firmly rooted in the heart gives its possessor a strength that surpasses all torture.
 
+</div>
+
 ---
 
 ### The Story of Rab'i ibn 'Amir رضي الله عنه
+
+<div class="scene-box">
 
 He entered upon Rustum, the commander of the Persians, who asked him: **"What has brought you?"**
 
@@ -313,9 +319,13 @@ Rab'i replied:
 
 **🎯 Lesson:** Correct understanding of Aqeedah gives its possessor clarity of vision and a mission in life.
 
+</div>
+
 ---
 
 ### The Story of Imam Ahmad During the Trial
+
+<div class="scene-box">
 
 During the fitnah of the creation of the Quran, Imam Ahmad ibn Hanbal was whipped and imprisoned for years...
 
@@ -329,9 +339,13 @@ Imam Ahmad said: **"That was the statement that gave me the most strength."**
 
 **🎯 Lesson:** Steadfastness upon correct Aqeedah is a trust that deserves sacrifice.
 
+</div>
+
 ---
 
 ### The Story of Shaykh al-Islam Ibn Taymiyyah in Prison
+
+<div class="scene-box">
 
 When Shaykh al-Islam Ibn Taymiyyah was imprisoned in the citadel of Damascus, he said:
 
@@ -342,6 +356,8 @@ He also said:
 > **"The prisoner is the one whose heart is imprisoned from his Lord, and the captive is the one whom his desires have captured."**
 
 **🎯 Lesson:** One whose heart is filled with the knowledge of Allah, nothing can harm him.
+
+</div>
 
 ---
 

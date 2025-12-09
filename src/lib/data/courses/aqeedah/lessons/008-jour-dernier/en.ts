@@ -286,6 +286,8 @@ The Prophet ﷺ said:
 
 ### The Man Saved by a Good Word
 
+<div class="scene-box">
+
 The Prophet ﷺ said:
 
 > **«إِنَّ الْعَبْدَ لَيَتَكَلَّمُ بِالْكَلِمَةِ مِنْ رِضْوَانِ اللَّهِ، لَا يُلْقِي لَهَا بَالًا، يَرْفَعُهُ اللَّهُ بِهَا دَرَجَاتٍ»**
@@ -293,9 +295,13 @@ The Prophet ﷺ said:
 
 A single word can change everything!
 
+</div>
+
 ---
 
 ### The Man with 99 Registers of Sins
+
+<div class="scene-box">
 
 The Prophet ﷺ said:
 
@@ -305,9 +311,13 @@ The Prophet ﷺ said:
 
 The sincerity of Tawhid can erase everything.
 
+</div>
+
 ---
 
 ### The Last to Enter Paradise
+
+<div class="scene-box">
 
 The Prophet ﷺ narrated about the last man to exit Hell and enter Paradise:
 
@@ -315,9 +325,13 @@ He will advance stumbling, the fire still burning him. Then he will see a tree a
 
 Finally, Allah will give him a kingdom **ten times greater than this world**!
 
+</div>
+
 ---
 
 ### The Vision of Allah in Paradise
+
+<div class="scene-box">
 
 The Prophet ﷺ said:
 
@@ -325,6 +339,8 @@ The Prophet ﷺ said:
 > "You will see your Lord with your own eyes." (Al-Bukhari 7434)
 
 This is the greatest joy of Paradise, greater than any other delight.
+
+</div>
 
 ---
 

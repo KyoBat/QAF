@@ -299,54 +299,83 @@ Chaque leçon est fondée sur les preuves du **Coran et de la Sunnah authentique
 
 ### L'histoire de la fermeté de Bilal رضي الله عنه
 
-Bilal ibn Rabah était un esclave abyssin torturé sous le soleil brûlant de La Mecque...
+<div class="scene-box">
 
-**Oumayya ibn Khalaf** le faisait sortir à midi, posait une énorme pierre sur sa poitrine et disait : "Tu resteras ainsi jusqu'à ce que tu meures ou que tu renies Muhammad !"
+**🎭 LA FERMETÉ DE BILAL**
 
-Et Bilal ne cessait de répéter : **"Ahad... Ahad"** (Un seul... Un seul)
+*Bilal ibn Rabah était un esclave abyssin torturé sous le soleil brûlant de La Mecque...*
 
-**🎯 Leçon :** La Aqeedah fermement ancrée dans le cœur donne à son possesseur une force supérieure à toute torture.
+**Oumayya ibn Khalaf** le faisait sortir à midi, posait une énorme pierre sur sa poitrine...
+
+**Oumayya :** « Tu resteras ainsi jusqu'à ce que tu meures ou que tu renies Muhammad ! »
+
+*Et Bilal, sous le poids écrasant, ne cessait de répéter :*
+
+**Bilal :** **« Ahad... Ahad »** *(Un seul... Un seul)*
+
+</div>
+
+> 🎯 **Leçon :** La Aqeedah fermement ancrée dans le cœur donne à son possesseur une force supérieure à toute torture.
 
 ---
 
 ### L'histoire de Rab'i ibn 'Amir رضي الله عنه
 
-Il entra chez Rustum, le commandant des Perses, qui lui demanda : **"Qu'est-ce qui vous amène ?"**
+<div class="scene-box">
 
-Rab'i répondit :
-> **"Allah nous a envoyés pour sortir qui Il veut de l'adoration des serviteurs vers l'adoration du Seigneur des serviteurs, de l'étroitesse de ce monde vers son immensité, et de l'injustice des religions vers la justice de l'Islam."**
+**🎭 RAB'I DEVANT RUSTUM**
 
-**🎯 Leçon :** La compréhension correcte de la Aqeedah donne à son possesseur une vision claire et une mission dans la vie.
+*Il entra chez Rustum, le commandant des Perses...*
+
+**Rustum :** « Qu'est-ce qui vous amène ? »
+
+**Rab'i ibn 'Amir :** « **Allah nous a envoyés pour sortir qui Il veut de l'adoration des serviteurs vers l'adoration du Seigneur des serviteurs, de l'étroitesse de ce monde vers son immensité, et de l'injustice des religions vers la justice de l'Islam.** »
+
+</div>
+
+> 🎯 **Leçon :** La compréhension correcte de la Aqeedah donne à son possesseur une vision claire et une mission dans la vie.
 
 ---
 
 ### L'histoire de l'Imam Ahmad lors de l'épreuve
 
-Lors de la fitna de la création du Coran, l'Imam Ahmad ibn Hanbal fut fouetté et emprisonné pendant des années...
+<div class="scene-box">
 
-On le fouettait jusqu'à l'évanouissement, puis il reprenait conscience et disait : **"Apportez-moi une preuve du Livre d'Allah ou de la Sunnah de Son Messager !"**
+**🎭 L'ÉPREUVE DE L'IMAM AHMAD**
 
-Quelqu'un lui demanda : "Comment as-tu patienté ?"
+*Lors de la fitna de la création du Coran, l'Imam Ahmad ibn Hanbal fut fouetté et emprisonné pendant des années...*
 
-Il dit : **"Quand on m'a déshabillé pour le fouet, un prisonnier m'a donné son pagne et m'a dit : Ô Abou 'Abdillah, j'ai été fouetté deux fois pour fornication, alors patiente toi pour la Sunnah !"**
+*On le fouettait jusqu'à l'évanouissement, puis il reprenait conscience et disait :*
 
-L'Imam Ahmad dit : **"Ce fut la parole qui me donna le plus de force."**
+**L'Imam Ahmad :** « **Apportez-moi une preuve du Livre d'Allah ou de la Sunnah de Son Messager !** »
 
-**🎯 Leçon :** La fermeté sur la Aqeedah correcte est un dépôt qui mérite le sacrifice.
+*Quelqu'un lui demanda :* « Comment as-tu patienté ? »
+
+**L'Imam Ahmad :** « Quand on m'a déshabillé pour le fouet, un prisonnier m'a donné son pagne et m'a dit : *« Ô Abou 'Abdillah, j'ai été fouetté deux fois pour fornication, alors patiente toi pour la Sunnah ! »* **Ce fut la parole qui me donna le plus de force.** »
+
+</div>
+
+> 🎯 **Leçon :** La fermeté sur la Aqeedah correcte est un dépôt qui mérite le sacrifice.
 
 ---
 
 ### L'histoire de Cheikh al-Islam Ibn Taymiyyah en prison
 
-Lorsque Cheikh al-Islam Ibn Taymiyyah fut emprisonné dans la citadelle de Damas, il dit :
+<div class="scene-box">
 
-> **"Que peuvent me faire mes ennemis ? Mon paradis et mon jardin sont dans mon cœur, où que j'aille ils sont avec moi, ils ne me quittent pas. Mon emprisonnement est une retraite spirituelle, ma mort est un martyre, et mon expulsion de mon pays est un voyage !"**
+**🎭 IBN TAYMIYYAH EN PRISON**
 
-Il dit aussi :
+*Lorsque Cheikh al-Islam Ibn Taymiyyah fut emprisonné dans la citadelle de Damas, il dit :*
 
-> **"Le prisonnier est celui dont le cœur est emprisonné loin de son Seigneur, et le captif est celui que ses passions ont capturé."**
+**Ibn Taymiyyah :** « **Que peuvent me faire mes ennemis ? Mon paradis et mon jardin sont dans mon cœur, où que j'aille ils sont avec moi, ils ne me quittent pas. Mon emprisonnement est une retraite spirituelle, ma mort est un martyre, et mon expulsion de mon pays est un voyage !** »
 
-**🎯 Leçon :** Celui dont le cœur est rempli de la connaissance d'Allah, rien ne peut lui nuire.
+*Il dit aussi :*
+
+**Ibn Taymiyyah :** « **Le prisonnier est celui dont le cœur est emprisonné loin de son Seigneur, et le captif est celui que ses passions ont capturé.** »
+
+</div>
+
+> 🎯 **Leçon :** Celui dont le cœur est rempli de la connaissance d'Allah, rien ne peut lui nuire.
 
 ---
 

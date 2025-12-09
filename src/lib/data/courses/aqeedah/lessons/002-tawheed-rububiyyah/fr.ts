@@ -292,37 +292,55 @@ La croyance en Tawheed Ar-Rububiyyah a des effets profonds sur le croyant :
 
 ### L'histoire de l'Imam Abu Hanifa avec les athées
 
-Un groupe de négateurs du Créateur (les Dahriyyah) vint débattre avec l'Imam Abu Hanifa...
+<div class="scene-box">
 
-L'Imam leur dit : **"Laissez-moi réfléchir à quelque chose qu'on m'a raconté !"**
+**🎭 ABU HANIFA ET LES NÉGATEURS**
 
-Ils demandèrent : "De quoi s'agit-il ?"
+*Un groupe de négateurs du Créateur (les Dahriyyah) vint débattre avec l'Imam Abu Hanifa...*
 
-Il dit : **"On m'a parlé d'un navire en mer, chargé de marchandises, qui va et vient, accoste aux ports, décharge sa cargaison et en charge une autre... tout cela sans capitaine pour le diriger !"**
+**Abu Hanifa :** « Laissez-moi réfléchir à quelque chose qu'on m'a raconté ! »
 
-Ils dirent : **"C'est impossible ! Aucune personne sensée ne dirait cela !"**
+**Les athées :** « De quoi s'agit-il ? »
 
-L'Imam dit alors : **"SubhanAllah ! Un navire ne peut naviguer sans capitaine, et cet immense univers avec ses cieux, sa terre, ses mers et ses montagnes fonctionnerait sans Gestionnaire ?!"**
+**Abu Hanifa :** « On m'a parlé d'un navire en mer, chargé de marchandises, qui va et vient, accoste aux ports, décharge sa cargaison et en charge une autre... **tout cela sans capitaine pour le diriger !** »
 
-Ils furent confondus et certains d'entre eux embrassèrent l'Islam.
+**Les athées :** « C'est impossible ! Aucune personne sensée ne dirait cela ! »
+
+**Abu Hanifa :** « **SubhanAllah ! Un navire ne peut naviguer sans capitaine, et cet immense univers avec ses cieux, sa terre, ses mers et ses montagnes fonctionnerait sans Gestionnaire ?!** »
+
+*Ils furent confondus et certains d'entre eux embrassèrent l'Islam.*
+
+</div>
 
 ---
 
 ### L'histoire du bédouin et l'instinct naturel (Fitrah)
 
-On demanda à un bédouin : **"Comment as-tu connu ton Seigneur ?"**
+<div class="scene-box">
 
-Il répondit : **"La crotte de chameau indique le chameau, les traces indiquent le chemin. Un ciel avec des constellations, une terre avec des passages, des mers avec des vagues, tout cela n'indique-t-il pas le Subtil, le Bien-Informé ?!"**
+**🎭 LE BÉDOUIN ET LA FITRAH**
+
+*On demanda à un bédouin :* « Comment as-tu connu ton Seigneur ? »
+
+**Le bédouin :** « **La crotte de chameau indique le chameau, les traces indiquent le chemin. Un ciel avec des constellations, une terre avec des passages, des mers avec des vagues, tout cela n'indique-t-il pas le Subtil, le Bien-Informé ?!** »
+
+</div>
 
 ---
 
 ### L'histoire d'Al-Ma'mun et le médecin chrétien
 
-Le calife Al-Ma'mun avait un médecin chrétien. L'Imam Ali Al-Rida débattit avec lui sur l'existence du Créateur...
+<div class="scene-box">
 
-Il lui dit : **"Dis-moi, si ce monde n'avait ni gestionnaire ni créateur, d'où viendraient ces créatures ? Et qui fait tourner ces astres ?"**
+**🎭 L'IMAM AL-RIDA ET LE MÉDECIN**
 
-Le médecin répondit : "SubhanAllah ! Cela ne peut venir que d'un Créateur Sage !"
+*Le calife Al-Ma'mun avait un médecin chrétien. L'Imam Ali Al-Rida débattit avec lui sur l'existence du Créateur...*
+
+**L'Imam Al-Rida :** « Dis-moi, si ce monde n'avait ni gestionnaire ni créateur, d'où viendraient ces créatures ? Et qui fait tourner ces astres ? »
+
+**Le médecin :** « SubhanAllah ! Cela ne peut venir que d'un Créateur Sage ! »
+
+</div>
 
 ---
 
