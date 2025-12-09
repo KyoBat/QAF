@@ -3,9 +3,9 @@
  * English Content
  */
 
-export const content = `# Belief in the Last Day (Al-Iman bil-Yawm Al-Akhir)
+export const content = `# 📜 Belief in the Last Day (Al-Iman bil-Yawm Al-Akhir)
 
-## Definition
+## 🔍 Definition
 
 Belief in the Last Day means having firm faith in everything that will happen after death: the punishment and bliss of the grave, the Resurrection, the Gathering, the Judgment, the Balance, the Bridge (Sirat), Paradise and Hell.
 
@@ -17,7 +17,7 @@ Allah ﷻ says:
 
 ---
 
-## Names of the Last Day in the Quran
+## 📚 Names of the Last Day in the Quran
 
 - **Yawm Al-Qiyama** (يوم القيامة): The Day of Resurrection
 - **Yawm Al-Ba'th** (يوم البعث): The Day of Rising
@@ -32,7 +32,7 @@ Allah ﷻ says:
 
 ## What Belief in the Last Day Encompasses
 
-### 1. Death and the Trial of the Grave
+### 1️⃣ Death and the Trial of the Grave
 
 #### The reality of death
 
@@ -55,7 +55,7 @@ The Prophet ﷺ used to seek refuge from the punishment of the grave in every pr
 
 ---
 
-### 2. The Signs of the Hour
+### 2️⃣ The Signs of the Hour
 
 #### Minor signs (already occurred or occurring)
 
@@ -75,7 +75,7 @@ The Prophet ﷺ said:
 
 ---
 
-### 3. The Resurrection (Al-Ba'th)
+### 3️⃣ The Resurrection (Al-Ba'th)
 
 > "And it is He who begins creation; then He repeats it, and that is easier for Him." (Ar-Rum 30:27)
 
@@ -85,7 +85,7 @@ The Prophet ﷺ said:
 
 ---
 
-### 4. The Gathering (Al-Hashr)
+### 4️⃣ The Gathering (Al-Hashr)
 
 > "The Day the earth will be replaced by another earth, and the heavens as well, and all will come out before Allah, the One, the Prevailing." (Ibrahim 14:48)
 
@@ -95,7 +95,7 @@ The Prophet ﷺ said:
 
 ---
 
-### 5. The Judgment (Al-Hisab)
+### 5️⃣ The Judgment (Al-Hisab)
 
 > "Then you will surely be asked that Day about pleasure." (At-Takathur 102:8)
 
@@ -107,7 +107,7 @@ The Prophet ﷺ said:
 
 ---
 
-### 6. The Balance (Al-Mizan)
+### 6️⃣ The Balance (Al-Mizan)
 
 > "And We place the scales of justice for the Day of Resurrection, so no soul will be treated unjustly at all." (Al-Anbiya 21:47)
 

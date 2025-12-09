@@ -3,9 +3,9 @@
  * Contenu en Français
  */
 
-export const content = `# Tawheed Al-Asma wa Sifat (توحيد الأسماء والصفات)
+export const content = `# 📜 Tawheed Al-Asma wa Sifat (توحيد الأسماء والصفات)
 
-## Définition
+## 🔍 Définition (التعريف)
 
 C'est d'affirmer pour Allah ce qu'Il a affirmé pour Lui-même dans Son Livre ou ce que Son Messager ﷺ a affirmé pour Lui, concernant Ses Noms et Attributs, sans :
 - **Tahreef** (تحريف) : déformer le sens
@@ -13,7 +13,7 @@ C'est d'affirmer pour Allah ce qu'Il a affirmé pour Lui-même dans Son Livre ou
 - **Takyif** (تكييف) : demander "comment ?"
 - **Tamthil** (تمثيل) : assimiler à la création
 
-## La règle fondamentale
+## ⚖️ La règle fondamentale
 
 Allah ﷻ dit :
 
@@ -59,7 +59,7 @@ Le Prophète ﷺ a dit :
 
 ## Les Attributs d'Allah (As-Sifat)
 
-### 1. L'Attribut de l'Ouïe (As-Sam')
+### 1️⃣ L'Attribut de l'Ouïe (As-Sam')
 
 > إِنَّ اللَّهَ سَمِيعٌ بَصِيرٌ
 > "Certes, Allah est Audient et Clairvoyant." (An-Nisa 4:58)
@@ -69,7 +69,7 @@ Le Prophète ﷺ a dit :
 
 **Explication** : Allah entend toutes les voix, qu'elles soient secrètes ou publiques, proches ou lointaines. Son ouïe englobe tout sans aucune limite.
 
-### 2. L'Attribut de la Vue (Al-Basar)
+### 2️⃣ L'Attribut de la Vue (Al-Basar)
 
 > وَاللَّهُ بَصِيرٌ بِمَا تَعْمَلُونَ
 > "Et Allah voit parfaitement ce que vous faites." (Al-Hujurat 49:18)
@@ -79,7 +79,7 @@ Le Prophète ﷺ a dit :
 
 **Explication** : Allah voit tout, rien ne Lui échappe, même ce qui est dans les ténèbres les plus profondes.
 
-### 3. L'Attribut de la Parole (Al-Kalam)
+### 3️⃣ L'Attribut de la Parole (Al-Kalam)
 
 > وَكَلَّمَ اللَّهُ مُوسَىٰ تَكْلِيمًا
 > "Et Allah a parlé à Moïse de vive voix." (An-Nisa 4:164)
@@ -89,7 +89,7 @@ Le Prophète ﷺ a dit :
 
 **Explication** : Allah parle réellement avec des mots et des lettres. Le Coran est la parole d'Allah, non créé.
 
-### 4. L'Attribut des Deux Mains (Al-Yadayn)
+### 4️⃣ L'Attribut des Deux Mains (Al-Yadayn)
 
 > قَالَ يَا إِبْلِيسُ مَا مَنَعَكَ أَن تَسْجُدَ لِمَا خَلَقْتُ بِيَدَيَّ
 > "Allah dit : 'Ô Iblis, qu'est-ce qui t'a empêché de te prosterner devant ce que J'ai créé de Mes Deux Mains ?'" (Sad 38:75)
@@ -101,7 +101,7 @@ Le Prophète ﷺ a dit :
 
 **Explication** : Nous affirmons pour Allah Deux Mains qui conviennent à Sa Majesté, sans ressemblance avec les mains des créatures.
 
-### 5. L'Attribut du Visage (Al-Wajh)
+### 5️⃣ L'Attribut du Visage (Al-Wajh)
 
 > وَيَبْقَىٰ وَجْهُ رَبِّكَ ذُو الْجَلَالِ وَالْإِكْرَامِ
 > "Seul subsistera le Visage de ton Seigneur, plein de Majesté et de Noblesse." (Ar-Rahman 55:27)
@@ -111,7 +111,7 @@ Le Prophète ﷺ a dit :
 
 **Explication** : Allah possède un Visage qui convient à Sa Grandeur, différent des visages des créatures.
 
-### 6. L'Attribut de l'Élévation (Al-'Uluw)
+### 6️⃣ L'Attribut de l'Élévation (Al-'Uluw)
 
 > الرَّحْمَٰنُ عَلَى الْعَرْشِ اسْتَوَىٰ
 > "Le Tout-Miséricordieux S'est établi sur le Trône." (Ta-Ha 20:5)

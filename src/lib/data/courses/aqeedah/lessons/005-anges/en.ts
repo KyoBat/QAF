@@ -3,9 +3,9 @@
  * English Content
  */
 
-export const content = `# Belief in the Angels (Al-Iman bil-Mala'ika)
+export const content = `# 📜 Belief in the Angels (Al-Iman bil-Mala'ika)
 
-## Definition
+## 🔍 Definition
 
 Belief in the angels means having firm faith in their existence, in what Allah has informed us about them in the Quran and authentic Sunnah, and affirming that they are honored creatures who never disobey Allah.
 
@@ -17,7 +17,7 @@ Allah ﷻ says:
 
 ---
 
-## The Nature of Angels
+## 🔍 The Nature of Angels
 
 ### Their creation
 
@@ -39,7 +39,7 @@ The Prophet ﷺ said:
 
 ## Angels Mentioned by Name
 
-### 1. Jibril (جبريل) - Gabriel
+### 1️⃣ Jibril (جبريل) - Gabriel
 
 The angel entrusted with revelation.
 
@@ -49,13 +49,13 @@ The Prophet ﷺ said:
 
 > "Jibril led me in prayer and taught me the prayer times." (Sahih Al-Bukhari 521)
 
-### 2. Mika'il (ميكائيل) - Michael
+### 2️⃣ Mika'il (ميكائيل) - Michael
 
 The angel entrusted with rain and vegetation.
 
 > "Whoever is an enemy to Allah and His angels and His messengers and Gabriel and Michael - then indeed, Allah is an enemy to the disbelievers." (Al-Baqara 2:98)
 
-### 3. Israfil (إسرافيل)
+### 3️⃣ Israfil (إسرافيل)
 
 The angel entrusted with blowing the Trumpet (As-Soor) on the Day of Resurrection.
 
@@ -65,51 +65,51 @@ The Prophet ﷺ said:
 
 > "How can I be at ease when the bearer of the Trumpet has already put the Trumpet to his mouth, bending his head forward, waiting to be commanded to blow?" (Tirmidhi 2431)
 
-### 4. Malik (مالك)
+### 4️⃣ Malik (مالك)
 
 The guardian of Hell.
 
 > "And they will call: 'O Malik, let your Lord put an end to us!' He will say: 'Indeed, you will remain.'" (Az-Zukhruf 43:77)
 
-### 5. Ridwan (رضوان)
+### 5️⃣ Ridwan (رضوان)
 
 The guardian of Paradise (mentioned in some hadiths).
 
-### 6. The Angel of Death (Malak al-Mawt)
+### 6️⃣ The Angel of Death (Malak al-Mawt)
 
 > "Say: The angel of death who has been entrusted with you will take you. Then to your Lord you will be returned." (As-Sajda 32:11)
 
 ---
 
-## Categories of Angels According to Their Functions
+## 📊 Categories of Angels According to Their Functions
 
-### 1. The Bearers of the Throne (Hamalat al-'Arsh)
+### 1️⃣ The Bearers of the Throne (Hamalat al-'Arsh)
 
 > "And the angels are at its edges. And there will bear the Throne of your Lord above them, that Day, eight of them." (Al-Haqqa 69:17)
 
-### 2. The Noble Recording Angels (Al-Kirâm Al-Kâtibûn)
+### 2️⃣ The Noble Recording Angels (Al-Kirâm Al-Kâtibûn)
 
 > "And indeed, [appointed] over you are keepers, noble and recording; they know whatever you do." (Al-Infitar 82:10-12)
 
 > "He does not utter any word except that with him is an observer prepared [to record]." (Qaf 50:18)
 
-### 3. The Guardian Angels (Al-Hafadha)
+### 3️⃣ The Guardian Angels (Al-Hafadha)
 
 > "For each one are successive [angels] before and behind him who protect him by the decree of Allah." (Ar-Ra'd 13:11)
 
-### 4. The Angels Who Question in the Grave (Munkar and Nakir)
+### 4️⃣ The Angels Who Question in the Grave (Munkar and Nakir)
 
 The Prophet ﷺ said:
 
 > "When the deceased is buried, two dark blue angels come to him and ask him about his Lord, his religion, and his prophet." (Authenticated by Al-Albani)
 
-### 5. The Angels of Paradise and Hell
+### 5️⃣ The Angels of Paradise and Hell
 
 For Paradise: "Gardens of perpetual residence; they will enter them with whoever were righteous among their fathers, their spouses, and their descendants. And the angels will enter upon them from every gate, saying: 'Peace be upon you for what you patiently endured.'" (Ar-Ra'd 13:23-24)
 
 For Hell: "O you who have believed, protect yourselves and your families from a Fire whose fuel is people and stones, over which are angels, harsh and severe." (At-Tahrim 66:6)
 
-### 6. The Angels at Al-Bayt Al-Ma'mur
+### 6️⃣ The Angels at Al-Bayt Al-Ma'mur
 
 The Prophet ﷺ said:
 

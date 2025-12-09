@@ -3,13 +3,13 @@
  * Contenu en Français
  */
 
-export const content = `# La Foi au Jour Dernier (Al-Iman bil-Yawm Al-Akhir)
+export const content = `# 📜 La Foi au Jour Dernier (Al-Iman bil-Yawm Al-Akhir)
 
-## Définition
+## 🔍 Définition (التعريف)
 
 La foi au Jour Dernier consiste à croire fermement en tout ce qui arrivera après la mort: le châtiment et la félicité de la tombe, la Résurrection, le Rassemblement, le Jugement, la Balance, le Pont (Sirat), le Paradis et l'Enfer.
 
-## La preuve de l'obligation de cette croyance
+## 📖 La preuve de l'obligation de cette croyance
 
 Allah ﷻ dit:
 
@@ -17,7 +17,7 @@ Allah ﷻ dit:
 
 ---
 
-## Les noms du Jour Dernier dans le Coran
+## 📚 Les noms du Jour Dernier dans le Coran
 
 - **Yawm Al-Qiyama** (يوم القيامة): Le Jour de la Résurrection
 - **Yawm Al-Ba'th** (يوم البعث): Le Jour du Réveil
@@ -30,9 +30,9 @@ Allah ﷻ dit:
 
 ---
 
-## Ce que comprend la foi au Jour Dernier
+## 📚 Ce que comprend la foi au Jour Dernier
 
-### 1. La mort et l'épreuve de la tombe
+### 1️⃣ La mort et l'épreuve de la tombe
 
 #### La réalité de la mort
 
@@ -55,7 +55,7 @@ Le Prophète ﷺ cherchait refuge contre le châtiment de la tombe dans chaque p
 
 ---
 
-### 2. Les signes de l'Heure
+### 2️⃣ Les signes de l'Heure
 
 #### Les signes mineurs (déjà survenus ou en cours)
 
@@ -75,7 +75,7 @@ Le Prophète ﷺ a dit:
 
 ---
 
-### 3. La Résurrection (Al-Ba'th)
+### 3️⃣ La Résurrection (Al-Ba'th)
 
 > "C'est Lui qui commence la création puis la refait; et cela Lui est plus facile." (Ar-Rum 30:27)
 
@@ -85,7 +85,7 @@ Le Prophète ﷺ a dit:
 
 ---
 
-### 4. Le Rassemblement (Al-Hashr)
+### 4️⃣ Le Rassemblement (Al-Hashr)
 
 > "Le jour où la terre sera remplacée par une autre, de même que les cieux, et où tous comparaîtront devant Allah, l'Unique, le Dominateur Suprême." (Ibrahim 14:48)
 
@@ -95,7 +95,7 @@ Le Prophète ﷺ a dit:
 
 ---
 
-### 5. Le Jugement (Al-Hisab)
+### 5️⃣ Le Jugement (Al-Hisab)
 
 > "Puis, assurément, vous serez interrogés, ce Jour-là, sur les délices (dont vous jouissiez)." (At-Takathur 102:8)
 
@@ -107,7 +107,7 @@ Le Prophète ﷺ a dit:
 
 ---
 
-### 6. La Balance (Al-Mizan)
+### 6️⃣ La Balance (Al-Mizan)
 
 > "Et Nous déposerons les balances exactes pour le Jour de la Résurrection. Nulle âme ne sera lésée en rien." (Al-Anbiya 21:47)
 
@@ -169,7 +169,7 @@ Le Prophète ﷺ a dit:
 
 ---
 
-## Les effets de la foi au Jour Dernier
+## 🌟 Les effets de la foi au Jour Dernier
 
 1. **Crainte d'Allah**: En se rappelant le Jugement
 2. **Espoir en Sa miséricorde**: En espérant le Paradis

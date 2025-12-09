@@ -3,9 +3,9 @@
  * English Content
  */
 
-export const content = `# Causes of Deviation from Authentic Creed
+export const content = `# 📜 Causes of Deviation from Authentic Creed
 
-## Introduction
+## 🌟 Introduction
 
 Deviation from authentic creed is an ancient phenomenon, against which Allah and His Messenger have warned. Knowing the causes of deviation helps in guarding against it.
 
@@ -15,7 +15,7 @@ Allah ﷻ says:
 
 ---
 
-## First: Ignorance
+## 1️⃣ First: Ignorance
 
 ### The most dangerous cause of deviation
 
@@ -43,7 +43,7 @@ The Prophet ﷺ said:
 
 ---
 
-## Second: Following Desires
+## 2️⃣ Second: Following Desires
 
 ### Meaning
 
@@ -70,7 +70,7 @@ Omar ibn al-Khattab رضي الله عنه said:
 
 ---
 
-## Third: Blind Imitation
+## 3️⃣ Third: Blind Imitation
 
 ### Meaning
 
@@ -98,7 +98,7 @@ Following ancestors and scholars without proof or insight.
 
 ---
 
-## Fourth: Extremism
+## 4️⃣ Fourth: Extremism
 
 ### Meaning
 
@@ -128,7 +128,7 @@ The Prophet ﷺ said:
 
 ---
 
-## Fifth: Doubts (Shubuhât)
+## 5️⃣ Fifth: Doubts (Shubuhât)
 
 ### Meaning
 
@@ -158,7 +158,7 @@ The Prophet ﷺ said:
 
 ---
 
-## Sixth: Carnal Desires (Shahawât)
+## 6️⃣ Sixth: Carnal Desires (Shahawât)
 
 ### Meaning
 

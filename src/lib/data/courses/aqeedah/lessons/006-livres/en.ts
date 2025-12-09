@@ -3,9 +3,9 @@
  * English Content
  */
 
-export const content = `# Belief in the Revealed Books (Al-Iman bil-Kutub)
+export const content = `# 📜 Belief in the Revealed Books (Al-Iman bil-Kutub)
 
-## Definition
+## 🔍 Definition
 
 Belief in the Books means having firm faith that Allah revealed Books to His messengers, that they contain truth and light, and that the Quran is the last and most perfect of these Books.
 
@@ -19,11 +19,11 @@ Allah ﷻ says:
 
 ## What Belief in the Books Encompasses
 
-### 1. Believing that they truly come from Allah
+### 1️⃣ Believing that they truly come from Allah
 
 > "And thus We have revealed to you a Quran in Arabic." (Ash-Shura 42:7)
 
-### 2. Believing in the Books mentioned by name
+### 2️⃣ Believing in the Books mentioned by name
 
 - **The Quran (القرآن)**: Revealed to Muhammad ﷺ
 - **The Torah (التوراة)**: Revealed to Musa عليه السلام
@@ -31,7 +31,7 @@ Allah ﷻ says:
 - **The Psalms (الزبور)**: Revealed to Dawud عليه السلام
 - **The Scriptures (الصحف)**: Of Ibrahim and Musa عليهما السلام
 
-### 3. Believing generally in other Books
+### 3️⃣ Believing generally in other Books
 
 Allah revealed Books to other prophets whose names we may not know.
 
@@ -39,19 +39,19 @@ Allah revealed Books to other prophets whose names we may not know.
 
 ## The Books Mentioned in the Quran
 
-### 1. The Torah (At-Tawrat)
+### 1️⃣ The Torah (At-Tawrat)
 
 Revealed to Musa عليه السلام.
 
 > "Indeed, We sent down the Torah, in which was guidance and light. The prophets who submitted to Allah judged by it for the Jews, as did the rabbis and scholars." (Al-Ma'ida 5:44)
 
-### 2. The Gospel (Al-Injil)
+### 2️⃣ The Gospel (Al-Injil)
 
 Revealed to 'Issa عليه السلام.
 
 > "And We gave him the Gospel, in which was guidance and light and confirming that which preceded it of the Torah as guidance and instruction for the righteous." (Al-Ma'ida 5:46)
 
-### 3. The Psalms (Az-Zabur)
+### 3️⃣ The Psalms (Az-Zabur)
 
 Revealed to Dawud عليه السلام.
 
@@ -59,7 +59,7 @@ Revealed to Dawud عليه السلام.
 
 > "And your Lord is most knowing of whoever is in the heavens and the earth. And We have made some of the prophets exceed others, and to David We gave the Zabur." (Al-Isra 17:55)
 
-### 4. The Scriptures of Ibrahim and Musa
+### 4️⃣ The Scriptures of Ibrahim and Musa
 
 > "Indeed, this is in the former scriptures, the scriptures of Abraham and Moses." (Al-A'la 87:18-19)
 

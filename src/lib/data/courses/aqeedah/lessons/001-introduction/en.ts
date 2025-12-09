@@ -3,7 +3,7 @@
  * English Content
  */
 
-export const content = `# Introduction to Islamic 'Aqeedah and the Pillars of Faith
+export const content = `# 📜 Introduction to Islamic 'Aqeedah and the Pillars of Faith
 
 ## Why 'Aqeedah?
 
@@ -34,7 +34,7 @@ It's not just information to memorize, but a **certainty that dwells in your hea
 
 ## Why 'Aqeedah First?
 
-### 1. The First Thing the Prophets Called To
+### 1️⃣ The First Thing the Prophets Called To
 
 Think about it... What is the first word every prophet said to his people?
 
@@ -43,7 +43,7 @@ Think about it... What is the first word every prophet said to his people?
 
 Before prayer, before zakat, before everything: **know your Lord.**
 
-### 2. Thirteen Years in Makkah
+### 2️⃣ Thirteen Years in Makkah
 
 What was the Prophet ﷺ doing in Makkah for 13 years?
 
@@ -53,7 +53,7 @@ The five daily prayers weren't made obligatory until the last year. Zakat, fasti
 
 This generation raised on 'aqeedah is the one that opened the world.
 
-### 3. The Questions of the Grave
+### 3️⃣ The Questions of the Grave
 
 When a person is placed in their grave, they won't be asked: How many rak'at did you pray? How much did you give in charity?
 
@@ -64,7 +64,7 @@ They will be asked:
 
 Questions of 'aqeedah. Those who lived upon it will answer, and those who didn't know it will stammer.
 
-### 4. Condition for Acceptance of Deeds
+### 4️⃣ Condition for Acceptance of Deeds
 
 Allah ﷻ says:
 

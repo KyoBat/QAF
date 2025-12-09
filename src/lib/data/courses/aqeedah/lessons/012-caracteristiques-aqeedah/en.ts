@@ -3,9 +3,9 @@
  * English Content
  */
 
-export const content = `# Characteristics of Authentic Islamic Creed
+export const content = `# 📜 Characteristics of Authentic Islamic Creed
 
-## Introduction
+## 🌟 Introduction
 
 The Islamic creed is distinguished by unique characteristics that make it the true creed that Allah has chosen for His servants. These characteristics prove that it comes from Allah, the All-Knowing, the Wise.
 
@@ -15,7 +15,7 @@ Allah ﷻ says:
 
 ---
 
-## First: Divine Source
+## 1️⃣ First: Divine Source
 
 ### Meaning
 
@@ -36,7 +36,7 @@ The Islamic creed has its source in revelation from Allah, not from human effort
 
 ---
 
-## Second: Clarity and Evidence
+## 2️⃣ Second: Clarity and Evidence
 
 ### Meaning
 
@@ -61,7 +61,7 @@ The Prophet ﷺ said:
 
 ---
 
-## Third: Conformity to the Innate Nature (Fitra)
+## 3️⃣ Third: Conformity to the Innate Nature (Fitra)
 
 ### Meaning
 
@@ -80,7 +80,7 @@ The Islamic creed is in accord with the sound nature upon which Allah created pe
 
 ---
 
-## Fourth: Conformity to Sound Reason
+## 4️⃣ Fourth: Conformity to Sound Reason
 
 ### Meaning
 
@@ -102,7 +102,7 @@ If a contradiction seems to exist:
 
 ---
 
-## Fifth: Comprehensiveness and Perfection
+## 5️⃣ Fifth: Comprehensiveness and Perfection
 
 ### Meaning
 
@@ -123,7 +123,7 @@ The Islamic creed encompasses everything the human being needs in their life and
 
 ---
 
-## Sixth: Moderation and Balance
+## 6️⃣ Sixth: Moderation and Balance
 
 ### Meaning
 
@@ -235,7 +235,7 @@ The Islamic creed liberates man from servitude to other than Allah.
 
 ---
 
-## Fruits of authentic creed
+## 🌟 Fruits of authentic creed
 
 1. **Peace of mind**: No confusion or doubt
 2. **Steadfastness**: In trials and tribulations

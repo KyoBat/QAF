@@ -3,9 +3,9 @@
  * Contenu en Français
  */
 
-export const content = `# Les Piliers et Catégories du Tawhid
+export const content = `# 📜 Les Piliers et Catégories du Tawhid
 
-## Introduction
+## 🌟 Introduction
 
 Le Tawhid est le fondement et l'essence de la religion. C'est le fait de vouer exclusivement à Allah ce qui Lui appartient en termes de Seigneurie, de Divinité et de Noms et Attributs. Les savants ont divisé le Tawhid en trois catégories, par induction des textes du Livre et de la Sunna.
 
@@ -15,7 +15,7 @@ Allah ﷻ dit:
 
 ---
 
-## Les Trois Catégories du Tawhid
+## 🏛️ Les Trois Catégories du Tawhid
 
 ### Vue d'ensemble
 

@@ -3,9 +3,9 @@
  * Contenu en Anglais
  */
 
-export const content = `# Tawheed Al-Asma wa Sifat (Oneness of Names and Attributes)
+export const content = `# 📜 Tawheed Al-Asma wa Sifat (Oneness of Names and Attributes)
 
-## Definition
+## 🔍 Definition
 
 It is to affirm for Allah what He has affirmed for Himself in His Book or what His Messenger ﷺ has affirmed for Him, regarding His Names and Attributes, without:
 - **Tahreef** (تحريف): Distorting the meaning
@@ -56,7 +56,7 @@ The Prophet ﷺ said:
 
 ## The Attributes of Allah (As-Sifat)
 
-### 1. The Attribute of Hearing (As-Sam')
+### 1️⃣ The Attribute of Hearing (As-Sam')
 
 > "Indeed, Allah is All-Hearing and All-Seeing." (An-Nisa 4:58)
 
@@ -64,7 +64,7 @@ The Prophet ﷺ said:
 
 **Explanation**: Allah hears all voices, whether secret or public, near or far. His hearing encompasses everything without any limitation.
 
-### 2. The Attribute of Sight (Al-Basar)
+### 2️⃣ The Attribute of Sight (Al-Basar)
 
 > "And Allah is All-Seeing of what you do." (Al-Hujurat 49:18)
 
@@ -72,7 +72,7 @@ The Prophet ﷺ said:
 
 **Explanation**: Allah sees everything; nothing escapes Him, even in the deepest darkness.
 
-### 3. The Attribute of Speech (Al-Kalam)
+### 3️⃣ The Attribute of Speech (Al-Kalam)
 
 > "And Allah spoke to Moses with direct speech." (An-Nisa 4:164)
 
@@ -80,7 +80,7 @@ The Prophet ﷺ said:
 
 **Explanation**: Allah truly speaks with words and letters. The Quran is the speech of Allah, uncreated.
 
-### 4. The Attribute of Two Hands (Al-Yadayn)
+### 4️⃣ The Attribute of Two Hands (Al-Yadayn)
 
 > "Allah said: 'O Iblis, what prevented you from prostrating to that which I created with My Two Hands?'" (Sad 38:75)
 
@@ -90,7 +90,7 @@ The Prophet ﷺ said:
 
 **Explanation**: We affirm for Allah Two Hands that befit His Majesty, without any resemblance to the hands of creation.
 
-### 5. The Attribute of the Face (Al-Wajh)
+### 5️⃣ The Attribute of the Face (Al-Wajh)
 
 > "And the Face of your Lord will remain, Owner of Majesty and Honor." (Ar-Rahman 55:27)
 
@@ -98,7 +98,7 @@ The Prophet ﷺ said:
 
 **Explanation**: Allah possesses a Face that befits His Greatness, different from the faces of creatures.
 
-### 6. The Attribute of Elevation (Al-'Uluw)
+### 6️⃣ The Attribute of Elevation (Al-'Uluw)
 
 > "The Most Merciful rose over the Throne." (Ta-Ha 20:5)
 
@@ -324,7 +324,7 @@ Nu'aym ibn Hammad رحمه الله said:
 
 ---
 
-## Fruits of Faith in the Names and Attributes
+## 🌟 Fruits of Faith in the Names and Attributes
 
 1. **Knowing Allah truly** — through His Names and Attributes
 2. **Loving Allah** — the more you know Him, the more you love Him

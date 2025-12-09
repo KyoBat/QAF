@@ -3,7 +3,7 @@
  * Contenu en Français
  */
 
-export const content = `# Tawheed Al-Uluhiyyah (توحيد الألوهية)
+export const content = `# 📜 Tawheed Al-Uluhiyyah (توحيد الألوهية)
 ## L'Unicité d'Allah dans l'Adoration
 
 ---
@@ -40,21 +40,21 @@ Sheikh Ibn Uthaymin رحمه الله a dit :
 
 ## 🎯 L'importance de Tawheed Al-Uluhiyyah
 
-### 1. C'est l'objectif suprême de l'envoi des Messagers
+### 1️⃣ C'est l'objectif suprême de l'envoi des Messagers
 
 > ﴿وَلَقَدْ بَعَثْنَا فِي كُلِّ أُمَّةٍ رَّسُولًا أَنِ اعْبُدُوا اللَّهَ وَاجْتَنِبُوا الطَّاغُوتَ﴾
 > *"Nous avons envoyé dans chaque communauté un Messager [pour leur dire] : 'Adorez Allah et écartez-vous du Taghut'."* (An-Nahl 16:36)
 
 Chaque Messager a dit à son peuple : **Adorez Allah !**
 
-### 2. C'est le Tawheed dans lequel le défaut s'est produit
+### 2️⃣ C'est le Tawheed dans lequel le défaut s'est produit
 
 Les polythéistes reconnaissaient Tawheed Ar-Rububiyyah, mais ils ont associé dans **l'adoration**.
 
 > ﴿وَمَا يُؤْمِنُ أَكْثَرُهُم بِاللَّهِ إِلَّا وَهُم مُّشْرِكُونَ﴾
 > *"Et la plupart d'entre eux ne croient en Allah qu'en Lui donnant des associés."* (Yusuf 12:106)
 
-### 3. C'est par lui que les œuvres sont acceptées ou rejetées
+### 3️⃣ C'est par lui que les œuvres sont acceptées ou rejetées
 
 > ﴿فَمَن كَانَ يَرْجُو لِقَاءَ رَبِّهِ فَلْيَعْمَلْ عَمَلًا صَالِحًا وَلَا يُشْرِكْ بِعِبَادَةِ رَبِّهِ أَحَدًا﴾
 > *"Quiconque espère la rencontre de son Seigneur, qu'il fasse de bonnes œuvres et qu'il n'associe personne dans l'adoration de son Seigneur."* (Al-Kahf 18:110)

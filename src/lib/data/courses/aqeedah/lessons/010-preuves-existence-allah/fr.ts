@@ -3,9 +3,9 @@
  * Contenu en Français
  */
 
-export const content = `# Les Preuves de l'Existence d'Allah
+export const content = `# 📜 Les Preuves de l'Existence d'Allah
 
-## Introduction
+## 🌟 Introduction
 
 La foi en Allah est le fondement de la croyance islamique. Allah a établi pour les hommes de nombreuses preuves de Son existence: les preuves innées (Fitra), sensorielles, rationnelles et scripturaires.
 
@@ -15,7 +15,7 @@ Allah ﷻ dit:
 
 ---
 
-## Premièrement: La Preuve Innée (Al-Fitra)
+## 1️⃣ Premièrement: La Preuve Innée (Al-Fitra)
 
 ### Signification de la Fitra
 
@@ -52,13 +52,13 @@ Le Prophète ﷺ a dit:
 
 ---
 
-## Deuxièmement: La Preuve Sensorielle
+## 2️⃣ Deuxièmement: La Preuve Sensorielle
 
 ### Signification de la preuve sensorielle
 
 C'est ce qui est perçu par les sens parmi les signes d'Allah dans l'univers et dans l'âme.
 
-### 1. Les signes d'Allah dans l'univers
+### 1️⃣ Les signes d'Allah dans l'univers
 
 > "Nous leur montrerons Nos signes dans l'univers et en eux-mêmes, jusqu'à ce qu'il leur devienne évident que c'est la Vérité." (Fussilat 41:53)
 
@@ -70,7 +70,7 @@ C'est ce qui est perçu par les sens parmi les signes d'Allah dans l'univers et 
 
 > "En vérité, dans la création des cieux et de la terre, et dans l'alternance de la nuit et du jour, il y a certes des signes pour les doués d'intelligence." (Al Imran 3:190)
 
-### 2. Les signes d'Allah dans les âmes
+### 2️⃣ Les signes d'Allah dans les âmes
 
 > "Et en vous-mêmes. N'observez-vous donc pas?" (Adh-Dhariyat 51:21)
 
@@ -82,13 +82,13 @@ C'est ce qui est perçu par les sens parmi les signes d'Allah dans l'univers et 
 
 > "Nous avons certes créé l'homme d'un extrait d'argile, puis Nous en fîmes une goutte de sperme dans un reposoir solide, puis Nous avons fait du sperme une adhérence, et de l'adhérence Nous avons créé un embryon, puis de cet embryon Nous avons créé des os et Nous avons revêtu les os de chair. Ensuite, Nous l'avons transformé en une tout autre création. Gloire à Allah, le Meilleur des créateurs!" (Al-Mu'minun 23:12-14)
 
-### 3. L'exaucement des invocations
+### 3️⃣ L'exaucement des invocations
 
 Parmi les preuves sensorielles: la réponse d'Allah aux invocations de Ses serviteurs.
 
 > "Et quand Mes serviteurs t'interrogent sur Moi, Je suis tout proche. Je réponds à l'appel de celui qui M'invoque." (Al-Baqara 2:186)
 
-### 4. Les miracles des Prophètes
+### 4️⃣ Les miracles des Prophètes
 
 Les gens les ont vus de leurs propres yeux:
 - La fissure de la lune pour le Prophète ﷺ
@@ -97,9 +97,9 @@ Les gens les ont vus de leurs propres yeux:
 
 ---
 
-## Troisièmement: La Preuve Rationnelle
+## 3️⃣ Troisièmement: La Preuve Rationnelle
 
-### 1. La preuve de la création
+### 1️⃣ La preuve de la création
 
 > "Ont-ils été créés à partir de rien ou sont-ils eux-mêmes les créateurs? Ou ont-ils créé les cieux et la terre? Mais ils n'ont plutôt aucune certitude." (At-Tur 52:35-36)
 
@@ -114,7 +114,7 @@ Les êtres ont trois possibilités:
 
 Quand il entendit le Prophète ﷺ réciter ce verset, il dit: **"Mon cœur a failli s'envoler!"** Ce fut la cause de sa conversion à l'Islam.
 
-### 2. La preuve de la perfection et de l'ordre
+### 2️⃣ La preuve de la perfection et de l'ordre
 
 > "C'est l'œuvre d'Allah qui a tout façonné à la perfection." (An-Naml 27:88)
 
@@ -126,13 +126,13 @@ Quand il entendit le Prophète ﷺ réciter ce verset, il dit: **"Mon cœur a fa
 
 > "Celui qui a créé sept cieux superposés. Tu ne vois aucune discordance dans la création du Tout Miséricordieux. Regarde encore: vois-tu une brèche quelconque?" (Al-Mulk 67:3)
 
-### 3. La preuve de la providence et de la gestion
+### 3️⃣ La preuve de la providence et de la gestion
 
 > "Allah est Celui qui a élevé les cieux sans piliers visibles. Il S'est établi sur le Trône et a soumis le soleil et la lune. Chacun poursuit sa course vers un terme fixé. Il règle l'Ordre." (Ar-Ra'd 13:2)
 
 Qui gère cet immense univers avec cet ordre parfait?
 
-### 4. La preuve de la finalité (la sagesse)
+### 4️⃣ La preuve de la finalité (la sagesse)
 
 Tout dans l'univers a une sagesse et un but:
 - L'œil pour voir
@@ -144,19 +144,19 @@ Tout dans l'univers a une sagesse et un but:
 
 ---
 
-## Quatrièmement: La Preuve Scripturaire
+## 4️⃣ Quatrièmement: La Preuve Scripturaire
 
-### 1. Le consensus des Prophètes
+### 1️⃣ Le consensus des Prophètes
 
 Tous les prophètes, d'Adam à Muhammad ﷺ, sont venus avec un seul message: **La ilaha illa Allah**.
 
 > "Nous n'avons envoyé avant toi aucun Messager à qui Nous n'ayons révélé: 'Point de divinité en dehors de Moi. Adorez-Moi donc.'" (Al-Anbiya 21:25)
 
-### 2. Les Livres Célestes
+### 2️⃣ Les Livres Célestes
 
 Tous les livres révélés témoignent de l'existence d'Allah et de Son unicité.
 
-### 3. Le miracle du Coran
+### 3️⃣ Le miracle du Coran
 
 Le Coran est miraculeux par sa formulation, son sens, sa législation et ses informations sur l'invisible.
 
@@ -306,7 +306,7 @@ L'hérétique resta silencieux!
 
 ---
 
-## Les fruits de la foi en l'existence d'Allah
+## 🌟 Les fruits de la foi en l'existence d'Allah
 
 1. **La sérénité du cœur**: ﴿N'est-ce point par l'évocation d'Allah que se tranquillisent les cœurs?﴾
 2. **La force et la fermeté**: Le croyant est fort car Allah est avec lui

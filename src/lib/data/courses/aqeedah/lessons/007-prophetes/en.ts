@@ -3,9 +3,9 @@
  * English Content
  */
 
-export const content = `# Belief in the Prophets and Messengers (Al-Iman bil-Rusul)
+export const content = `# 📜 Belief in the Prophets and Messengers (Al-Iman bil-Rusul)
 
-## Definition
+## 🔍 Definition
 
 Belief in the prophets and messengers means having firm faith that Allah sent messengers to every community to guide them to Tawhid, that we must respect all of them without distinction, and that Muhammad ﷺ is the last of them.
 
@@ -17,7 +17,7 @@ Allah ﷻ says:
 
 ---
 
-## The Difference Between Nabi (Prophet) and Rasul (Messenger)
+## 🔍 The Difference Between Nabi (Prophet) and Rasul (Messenger)
 
 ### Nabi (نبي) - Prophet
 
@@ -35,15 +35,15 @@ One to whom Allah revealed a legislation with the command to convey it to a peop
 
 ## The Mission of the Prophets
 
-### 1. Calling to Tawhid
+### 1️⃣ Calling to Tawhid
 
 > "And We sent not before you any messenger except that We revealed to him that: 'There is no deity except Me, so worship Me.'" (Al-Anbiya 21:25)
 
-### 2. Giving glad tidings and warning
+### 2️⃣ Giving glad tidings and warning
 
 > "Messengers as bearers of good tidings and warners so that mankind will have no argument against Allah after the messengers." (An-Nisa 4:165)
 
-### 3. Teaching and purifying
+### 3️⃣ Teaching and purifying
 
 > "It is He who has sent among the unlettered a Messenger from themselves reciting to them His verses and purifying them and teaching them the Book and wisdom." (Al-Jumu'a 62:2)
 
@@ -117,23 +117,23 @@ The Prophet ﷺ said:
 
 ## What Belief in the Prophets Encompasses
 
-### 1. Believing in all prophets without distinction
+### 1️⃣ Believing in all prophets without distinction
 
 > "We make no distinction between any of His messengers." (Al-Baqara 2:285)
 
-### 2. Believing in their truthfulness (Sidq)
+### 2️⃣ Believing in their truthfulness (Sidq)
 
 All prophets are truthful in what they convey from Allah.
 
-### 3. Believing in their infallibility (Isma)
+### 3️⃣ Believing in their infallibility (Isma)
 
 They are protected from error in conveying the message.
 
-### 4. Believing they are human
+### 4️⃣ Believing they are human
 
 > "Say: 'I am only a man like you, to whom has been revealed that your god is one God.'" (Al-Kahf 18:110)
 
-### 5. Believing in their miracles
+### 5️⃣ Believing in their miracles
 
 Each prophet was given signs suited to his time.
 

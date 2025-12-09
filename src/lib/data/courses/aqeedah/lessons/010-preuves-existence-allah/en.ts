@@ -3,9 +3,9 @@
  * English Content
  */
 
-export const content = `# Proofs of Allah's Existence
+export const content = `# 📜 Proofs of Allah's Existence
 
-## Introduction
+## 🌟 Introduction
 
 Belief in Allah is the foundation of Islamic creed. Allah has established for mankind numerous proofs of His existence: innate proofs (Fitra), sensory proofs, rational proofs, and scriptural proofs.
 
@@ -15,7 +15,7 @@ Allah ﷻ says:
 
 ---
 
-## First: The Innate Proof (Al-Fitra)
+## 1️⃣ First: The Innate Proof (Al-Fitra)
 
 ### Meaning of Fitra
 
@@ -52,13 +52,13 @@ The Prophet ﷺ said:
 
 ---
 
-## Second: The Sensory Proof
+## 2️⃣ Second: The Sensory Proof
 
 ### Meaning of the sensory proof
 
 It is what is perceived by the senses from Allah's signs in the universe and in the soul.
 
-### 1. Allah's signs in the universe
+### 1️⃣ Allah's signs in the universe
 
 > "We will show them Our signs in the horizons and within themselves until it becomes clear to them that it is the truth." (Fussilat 41:53)
 
@@ -70,7 +70,7 @@ It is what is perceived by the senses from Allah's signs in the universe and in 
 
 > "Indeed, in the creation of the heavens and the earth and the alternation of the night and the day are signs for those of understanding." (Al Imran 3:190)
 
-### 2. Allah's signs in the souls
+### 2️⃣ Allah's signs in the souls
 
 > "And in yourselves. Then will you not see?" (Adh-Dhariyat 51:21)
 
@@ -82,13 +82,13 @@ It is what is perceived by the senses from Allah's signs in the universe and in 
 
 > "And certainly did We create man from an extract of clay. Then We placed him as a sperm-drop in a firm lodging. Then We made the sperm-drop into a clinging clot, and We made the clot into a lump of flesh, and We made from the lump bones, and We covered the bones with flesh; then We developed him into another creation. So blessed is Allah, the best of creators." (Al-Mu'minun 23:12-14)
 
-### 3. The answering of supplications
+### 3️⃣ The answering of supplications
 
 Among the sensory proofs: Allah's response to the supplications of His servants.
 
 > "And when My servants ask you concerning Me, indeed I am near. I respond to the invocation of the supplicant when he calls upon Me." (Al-Baqara 2:186)
 
-### 4. The miracles of the Prophets
+### 4️⃣ The miracles of the Prophets
 
 People witnessed them with their own eyes:
 - The splitting of the moon for the Prophet ﷺ
@@ -97,9 +97,9 @@ People witnessed them with their own eyes:
 
 ---
 
-## Third: The Rational Proof
+## 3️⃣ Third: The Rational Proof
 
-### 1. The proof of creation
+### 1️⃣ The proof of creation
 
 > "Were they created by nothing, or were they the creators of themselves? Or did they create the heavens and the earth? Rather, they are not certain." (At-Tur 52:35-36)
 
@@ -114,7 +114,7 @@ Existing things have three possibilities:
 
 When he heard the Prophet ﷺ reciting this verse, he said: **"My heart almost flew away!"** This was the cause of his acceptance of Islam.
 
-### 2. The proof of perfection and order
+### 2️⃣ The proof of perfection and order
 
 > "This is the work of Allah, who perfected all things." (An-Naml 27:88)
 
@@ -126,13 +126,13 @@ When he heard the Prophet ﷺ reciting this verse, he said: **"My heart almost f
 
 > "He who created seven heavens in layers. You do not see in the creation of the Most Merciful any inconsistency. So return your vision; do you see any breaks?" (Al-Mulk 67:3)
 
-### 3. The proof of providence and management
+### 3️⃣ The proof of providence and management
 
 > "It is Allah who erected the heavens without pillars that you can see; then He established Himself above the Throne and made subject the sun and the moon, each running for a specified term. He arranges each matter." (Ar-Ra'd 13:2)
 
 Who manages this immense universe with such perfect order?
 
-### 4. The proof of purpose (wisdom)
+### 4️⃣ The proof of purpose (wisdom)
 
 Everything in the universe has wisdom and purpose:
 - The eye for seeing
@@ -144,19 +144,19 @@ Everything in the universe has wisdom and purpose:
 
 ---
 
-## Fourth: The Scriptural Proof
+## 4️⃣ Fourth: The Scriptural Proof
 
-### 1. The consensus of the Prophets
+### 1️⃣ The consensus of the Prophets
 
 All prophets from Adam to Muhammad ﷺ came with one message: **La ilaha illa Allah**.
 
 > "And We sent not before you any messenger except that We revealed to him that: 'There is no deity except Me, so worship Me.'" (Al-Anbiya 21:25)
 
-### 2. The Divine Books
+### 2️⃣ The Divine Books
 
 All revealed books testify to Allah's existence and His oneness.
 
-### 3. The miracle of the Quran
+### 3️⃣ The miracle of the Quran
 
 The Quran is miraculous in its wording, meaning, legislation, and information about the unseen.
 
@@ -306,7 +306,7 @@ The heretic remained silent!
 
 ---
 
-## Fruits of belief in Allah's existence
+## 🌟 Fruits of belief in Allah's existence
 
 1. **Tranquility of the heart**: ﴿Verily, in the remembrance of Allah do hearts find rest.﴾
 2. **Strength and steadfastness**: The believer is strong because Allah is with him

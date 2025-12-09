@@ -1,30 +1,35 @@
 /**
  * Aqeedah - Leçon 001: Introduction et les Piliers de la Foi
- * Contenu en Français
+ * Contenu en Français - Approche Savante et Qualitative
  */
 
-export const content = `# Introduction à la 'Aqeedah et les Piliers de la Foi
+export const content = `# 📜 العَقِيدَة — Introduction à la 'Aqeedah et les Piliers de la Foi
 
-## Pourquoi la 'Aqeedah ?
-
-Imagine que tu construis une maison magnifique... Commences-tu par le toit ou par les fondations ?
-
-**La 'Aqeedah est le fondement sur lequel repose tout dans ta vie.**
-
-Sans elle, les adorations deviennent des mouvements sans âme, la morale des règles sans sens, et la vie un voyage sans destination.
-
-> ﴿أَفَمَنْ أَسَّسَ بُنْيَانَهُ عَلَىٰ تَقْوَىٰ مِنَ اللَّهِ وَرِضْوَانٍ خَيْرٌ أَم مَّنْ أَسَّسَ بُنْيَانَهُ عَلَىٰ شَفَا جُرُفٍ هَارٍ فَانْهَارَ بِهِ فِي نَارِ جَهَنَّمَ﴾
-> "Lequel est le meilleur : celui qui a fondé son édifice sur la piété et l'agrément d'Allah, ou celui qui l'a fondé sur le bord d'une falaise croulante qui s'est écroulée avec lui dans le feu de l'Enfer ?" (At-Tawbah 9:109)
+> La 'Aqeedah est le **fondement** sur lequel repose tout dans la vie du musulman. Sans elle, les adorations deviennent des mouvements sans âme, la morale des règles sans sens, et la vie un voyage sans destination.
 
 ---
 
-## Qu'est-ce que la 'Aqeedah ?
+## 📖 Texte Fondateur (النص التأسيسي)
 
-### Définition linguistique
+### 🔷 Le Verset Fondamental
 
-**Al-'Aqeedah** vient de "al-'aqd" (العَقْد) qui signifie nouer, lier fermement. On dit : j'ai noué la corde, c'est-à-dire je l'ai attachée solidement.
+> **﴿أَفَمَنْ أَسَّسَ بُنْيَانَهُ عَلَىٰ تَقْوَىٰ مِنَ اللَّهِ وَرِضْوَانٍ خَيْرٌ أَم مَّنْ أَسَّسَ بُنْيَانَهُ عَلَىٰ شَفَا جُرُفٍ هَارٍ فَانْهَارَ بِهِ فِي نَارِ جَهَنَّمَ﴾**
+>
+> *« Lequel est le meilleur : celui qui a fondé son édifice sur la piété et l'agrément d'Allah, ou celui qui l'a fondé sur le bord d'une falaise croulante qui s'est écroulée avec lui dans le feu de l'Enfer ? »* [At-Tawbah : 109]
 
-### Définition religieuse
+---
+
+## 🎓 Pourquoi la 'Aqeedah ?
+
+Imagine que tu construis une maison magnifique... Commences-tu par le toit ou par les fondations ?
+
+## 🔍 Qu'est-ce que la 'Aqeedah ? (التعريف)
+
+### 📜 Définition linguistique
+
+**Al-'Aqeedah** (العَقِيدَة) vient de "al-'aqd" (العَقْد) qui signifie nouer, lier fermement. On dit : j'ai noué la corde, c'est-à-dire je l'ai attachée solidement.
+
+### 📌 Définition religieuse
 
 C'est la **foi ferme** qui n'admet aucun doute, en Allah, Ses anges, Ses livres, Ses messagers, au Jour Dernier et au destin, son bien et son mal.
 
@@ -32,9 +37,9 @@ Ce n'est pas simplement des informations à mémoriser, mais une **certitude qui
 
 ---
 
-## Pourquoi la 'Aqeedah en premier ?
+## 📚 Pourquoi la 'Aqeedah en premier ?
 
-### 1. La première chose à laquelle ont appelé les prophètes
+### 1️⃣ La première chose à laquelle ont appelé les prophètes
 
 Réfléchis... Quelle est la première parole que chaque prophète a dite à son peuple ?
 
@@ -43,7 +48,7 @@ Réfléchis... Quelle est la première parole que chaque prophète a dite à son
 
 Avant la prière, avant la zakat, avant tout : **connais ton Seigneur.**
 
-### 2. Treize années à la Mecque
+### 2️⃣ Treize années à la Mecque
 
 Que faisait le Prophète ﷺ à la Mecque pendant 13 ans ?
 
@@ -53,7 +58,7 @@ Les cinq prières n'ont été rendues obligatoires que la dernière année. La z
 
 Cette génération éduquée sur la 'aqeedah est celle qui a ouvert le monde.
 
-### 3. Les questions de la tombe
+### 3️⃣ Les questions de la tombe
 
 Quand l'homme est placé dans sa tombe, on ne lui demandera pas : combien de rak'at as-tu priées ? Combien as-tu donné en aumône ?
 
@@ -64,7 +69,7 @@ On lui demandera :
 
 Des questions de 'aqeedah. Celui qui a vécu sur elle répondra, et celui qui ne la connaît pas balbutiera.
 
-### 4. Condition d'acceptation des œuvres
+### 4️⃣ Condition d'acceptation des œuvres
 
 Allah ﷻ dit :
 
@@ -77,9 +82,9 @@ L'œuvre pieuse sans foi correcte = poussière dispersée.
 
 ---
 
-## L'importance d'une 'Aqeedah correcte
+## 🌟 L'importance d'une 'Aqeedah correcte
 
-### Elle te donne les réponses aux grandes questions
+### 📌 Elle te donne les réponses aux grandes questions
 
 Chaque être humain se demande :
 - D'où viens-je ? ← **Allah t'a créé**
@@ -88,14 +93,14 @@ Chaque être humain se demande :
 
 La 'aqeedah répond à toutes ces questions avec une clarté absolue.
 
-### Elle t'accorde la sérénité dans la vie
+### 📌 Elle t'accorde la sérénité dans la vie
 
 > ﴿الَّذِينَ آمَنُوا وَتَطْمَئِنُّ قُلُوبُهُم بِذِكْرِ اللَّهِ ۗ أَلَا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ﴾
 > "Ceux qui ont cru, et dont les cœurs se tranquillisent à l'évocation d'Allah. N'est-ce pas par l'évocation d'Allah que se tranquillisent les cœurs ?" (Ar-Ra'd 13:28)
 
 Celui qui connaît Allah ne craint pas l'avenir, ne s'inquiète pas pour sa subsistance, ne redoute pas la mort.
 
-### Elle te protège de la déviation
+### 📌 Elle te protège de la déviation
 
 À l'époque des épreuves et des ambiguïtés, une 'aqeedah solide est ton **ancre** qui te maintient stable.
 
@@ -104,7 +109,7 @@ Celui qui connaît Allah ne craint pas l'avenir, ne s'inquiète pas pour sa subs
 
 ---
 
-## Le Hadith de Jibril : La constitution de la religion
+## 📖 Le Hadith de Jibril : La constitution de la religion
 
 <div class="scene-box">
 
@@ -154,9 +159,9 @@ Celui qui connaît Allah ne craint pas l'avenir, ne s'inquiète pas pour sa subs
 
 ---
 
-## Les Six Piliers de la Foi
+## 🏗️ Les Six Piliers de la Foi
 
-### Vue d'ensemble
+### 📚 Vue d'ensemble
 
 1. 🔷 **Foi en Allah** — Le Tawhid sous ses trois formes → *Leçons 2-4*
 2. 👼 **Foi aux Anges** — Créatures de lumière honorées → *Leçon 5*
@@ -175,9 +180,9 @@ Celui qui connaît Allah ne craint pas l'avenir, ne s'inquiète pas pour sa subs
 
 ---
 
-## Que signifie "Iman" (la foi) ?
+## 🔍 Que signifie "Iman" (la foi) ?
 
-### Ce n'est pas une simple connaissance
+### 📌 Ce n'est pas une simple connaissance
 
 Iblis (Satan) sait qu'Allah existe, mais il n'est pas croyant.
 
@@ -187,7 +192,7 @@ Pharaon connaissait la vérité :
 
 Mais il n'a pas cru.
 
-### La foi véritable
+### 📌 La foi véritable
 
 **La foi = croyance du cœur + reconnaissance de la langue + actes des membres**
 

@@ -3,13 +3,13 @@
  * Contenu en Français
  */
 
-export const content = `# La Foi aux Livres Révélés (Al-Iman bil-Kutub)
+export const content = `# 📜 La Foi aux Livres Révélés (Al-Iman bil-Kutub)
 
-## Définition
+## 🔍 Définition (التعريف)
 
 La foi aux Livres consiste à croire fermement qu'Allah a révélé des Livres à Ses messagers, qu'ils contiennent la vérité et la lumière, et que le Coran est le dernier et le plus parfait de ces Livres.
 
-## La preuve de l'obligation de cette croyance
+## 📖 La preuve de l'obligation de cette croyance
 
 Allah ﷻ dit:
 
@@ -17,13 +17,13 @@ Allah ﷻ dit:
 
 ---
 
-## Ce que comprend la foi aux Livres
+## 📚 Ce que comprend la foi aux Livres
 
-### 1. Croire qu'ils proviennent vraiment d'Allah
+### 1️⃣ Croire qu'ils proviennent vraiment d'Allah
 
 > "Et c'est ainsi que Nous t'avons révélé un Coran en langue arabe." (Ash-Shura 42:7)
 
-### 2. Croire aux Livres mentionnés par leur nom
+### 2️⃣ Croire aux Livres mentionnés par leur nom
 
 - **Le Coran (القرآن)**: Révélé à Muhammad ﷺ
 - **La Torah (التوراة)**: Révélée à Moussa عليه السلام
@@ -31,7 +31,7 @@ Allah ﷻ dit:
 - **Les Psaumes (الزبور)**: Révélés à Dawud عليه السلام
 - **Les Feuillets (الصحف)**: D'Ibrahim et Moussa عليهما السلام
 
-### 3. Croire globalement aux autres Livres
+### 3️⃣ Croire globalement aux autres Livres
 
 Allah a révélé des Livres à d'autres prophètes que nous ne connaissons pas forcément par leur nom.
 
@@ -39,19 +39,19 @@ Allah a révélé des Livres à d'autres prophètes que nous ne connaissons pas 
 
 ## Les Livres mentionnés dans le Coran
 
-### 1. La Torah (At-Tawrat)
+### 1️⃣ La Torah (At-Tawrat)
 
 Révélée à Moussa عليه السلام.
 
 > "Nous avons fait descendre la Thora dans laquelle il y a guide et lumière. C'est sur sa base que les prophètes qui se sont soumis à Allah, ainsi que les rabbins et les docteurs jugent les affaires des Juifs." (Al-Ma'ida 5:44)
 
-### 2. L'Évangile (Al-Injil)
+### 2️⃣ L'Évangile (Al-Injil)
 
 Révélé à 'Issa عليه السلام.
 
 > "Et Nous lui avons donné l'Évangile, où il y a guide et lumière, pour confirmer ce qu'il y avait dans la Thora avant lui, et en tant que guide et exhortation pour les pieux." (Al-Ma'ida 5:46)
 
-### 3. Les Psaumes (Az-Zabur)
+### 3️⃣ Les Psaumes (Az-Zabur)
 
 Révélés à Dawud عليه السلام.
 
@@ -59,7 +59,7 @@ Révélés à Dawud عليه السلام.
 
 > "Et ton Seigneur est plus Savant sur ceux qui sont dans les cieux et la terre. Et parmi les prophètes, Nous avons donné à certains plus qu'à d'autres. Et à David Nous avons donné le Zabour." (Al-Isra 17:55)
 
-### 4. Les Feuillets d'Ibrahim et Moussa
+### 4️⃣ Les Feuillets d'Ibrahim et Moussa
 
 > "Ceci se trouve, certes, dans les Feuillets anciens, les Feuillets d'Abraham et de Moïse." (Al-A'la 87:18-19)
 
@@ -132,7 +132,7 @@ Le Prophète ﷺ a dit:
 
 ---
 
-## Les effets de la foi aux Livres
+## 🌟 Les effets de la foi aux Livres
 
 1. **Gratitude envers Allah**: Pour avoir guidé l'humanité par Ses révélations
 2. **Attachement au Coran**: Comme seul Livre préservé et valide aujourd'hui

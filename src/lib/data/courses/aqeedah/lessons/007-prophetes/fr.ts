@@ -3,13 +3,13 @@
  * Contenu en Français
  */
 
-export const content = `# La Foi aux Prophètes et Messagers (Al-Iman bil-Rusul)
+export const content = `# 📜 La Foi aux Prophètes et Messagers (Al-Iman bil-Rusul)
 
-## Définition
+## 🔍 Définition (التعريف)
 
 La foi aux prophètes et messagers consiste à croire fermement qu'Allah a envoyé des messagers à chaque communauté pour les guider vers le Tawhid, qu'il faut tous les respecter sans distinction, et que Muhammad ﷺ est le dernier d'entre eux.
 
-## La preuve de l'obligation de cette croyance
+## 📖 La preuve de l'obligation de cette croyance
 
 Allah ﷻ dit:
 
@@ -17,7 +17,7 @@ Allah ﷻ dit:
 
 ---
 
-## La différence entre Nabi (Prophète) et Rasul (Messager)
+## 🔍 La différence entre Nabi (Prophète) et Rasul (Messager)
 
 ### Nabi (نبي) - Prophète
 
@@ -35,15 +35,15 @@ Celui à qui Allah a révélé une législation avec l'ordre de la transmettre �
 
 ## La mission des prophètes
 
-### 1. Appeler au Tawhid
+### 1️⃣ Appeler au Tawhid
 
 > "Et Nous n'avons envoyé avant toi aucun messager à qui Nous n'ayons révélé: 'Point de divinité en dehors de Moi. Adorez-Moi donc.'" (Al-Anbiya 21:25)
 
-### 2. Avertir et annoncer
+### 2️⃣ Avertir et annoncer
 
 > "En tant que messagers, annonciateurs et avertisseurs, afin qu'après la venue des messagers il n'y ait pour les gens aucun argument devant Allah." (An-Nisa 4:165)
 
-### 3. Enseigner et purifier
+### 3️⃣ Enseigner et purifier
 
 > "C'est Lui qui a envoyé parmi les illettrés un Messager d'entre eux pour leur réciter Ses versets, les purifier et leur enseigner le Livre et la Sagesse." (Al-Jumu'a 62:2)
 
@@ -115,25 +115,25 @@ Le Prophète ﷺ a dit:
 
 ---
 
-## Ce que comprend la foi aux prophètes
+## 📚 Ce que comprend la foi aux prophètes
 
-### 1. Croire à tous les prophètes sans distinction
+### 1️⃣ Croire à tous les prophètes sans distinction
 
 > "Nous ne faisons aucune distinction entre Ses messagers." (Al-Baqara 2:285)
 
-### 2. Croire à leur véracité (Sidq)
+### 2️⃣ Croire à leur véracité (Sidq)
 
 Tous les prophètes sont véridiques dans ce qu'ils transmettent d'Allah.
 
-### 3. Croire à leur infaillibilité (Isma)
+### 3️⃣ Croire à leur infaillibilité (Isma)
 
 Ils sont protégés de l'erreur dans la transmission du message.
 
-### 4. Croire qu'ils sont des humains
+### 4️⃣ Croire qu'ils sont des humains
 
 > "Dis: 'Je suis seulement un être humain comme vous. Il m'a été révélé que votre Dieu est un Dieu unique.'" (Al-Kahf 18:110)
 
-### 5. Croire à leurs miracles
+### 5️⃣ Croire à leurs miracles
 
 Chaque prophète a reçu des signes adaptés à son époque.
 
@@ -163,7 +163,7 @@ Chaque prophète a reçu des signes adaptés à son époque.
 
 ---
 
-## Les effets de la foi aux prophètes
+## 🌟 Les effets de la foi aux prophètes
 
 1. **Reconnaissance de la miséricorde d'Allah**: Qui a guidé l'humanité à travers Ses envoyés
 2. **Exemple à suivre**: Les prophètes sont les meilleurs modèles

@@ -3,7 +3,7 @@
  * Contenu en Anglais
  */
 
-export const content = `# Tawheed Al-Uluhiyyah (توحيد الألوهية)
+export const content = `# 📜 Tawheed Al-Uluhiyyah (توحيد الألوهية)
 ## The Oneness of Allah in Worship
 
 ---
@@ -40,21 +40,21 @@ Sheikh Ibn Uthaymin رحمه الله said:
 
 ## 🎯 The Importance of Tawheed Al-Uluhiyyah
 
-### 1. It is the supreme objective of sending the Messengers
+### 1️⃣ It is the supreme objective of sending the Messengers
 
 > ﴿وَلَقَدْ بَعَثْنَا فِي كُلِّ أُمَّةٍ رَّسُولًا أَنِ اعْبُدُوا اللَّهَ وَاجْتَنِبُوا الطَّاغُوتَ﴾
 > *"And We certainly sent into every nation a messenger, [saying], 'Worship Allah and avoid Taghut'."* (An-Nahl 16:36)
 
 Every Messenger told his people: **Worship Allah!**
 
-### 2. It is the Tawheed in which the deficiency occurred
+### 2️⃣ It is the Tawheed in which the deficiency occurred
 
 The polytheists acknowledged Tawheed Ar-Rububiyyah, but they associated others in **worship**.
 
 > ﴿وَمَا يُؤْمِنُ أَكْثَرُهُم بِاللَّهِ إِلَّا وَهُم مُّشْرِكُونَ﴾
 > *"And most of them believe not in Allah except while they associate others with Him."* (Yusuf 12:106)
 
-### 3. By it, deeds are accepted or rejected
+### 3️⃣ By it, deeds are accepted or rejected
 
 > ﴿فَمَن كَانَ يَرْجُو لِقَاءَ رَبِّهِ فَلْيَعْمَلْ عَمَلًا صَالِحًا وَلَا يُشْرِكْ بِعِبَادَةِ رَبِّهِ أَحَدًا﴾
 > *"So whoever would hope for the meeting with his Lord - let him do righteous work and not associate in the worship of his Lord anyone."* (Al-Kahf 18:110)

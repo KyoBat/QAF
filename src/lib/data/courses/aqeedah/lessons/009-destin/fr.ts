@@ -3,13 +3,13 @@
  * Contenu en Français
  */
 
-export const content = `# La Foi au Destin (Al-Iman bil-Qadr)
+export const content = `# 📜 La Foi au Destin (Al-Iman bil-Qadr)
 
-## Définition
+## 🔍 Définition (التعريف)
 
 La foi au destin consiste à croire fermement qu'Allah a prédestiné toute chose, qu'Il connaît tout avant sa création, qu'Il l'a écrit dans la Table Gardée (Al-Lawh Al-Mahfuz), qu'Il l'a voulu, et qu'Il l'a créé.
 
-## La preuve de l'obligation de cette croyance
+## 📖 La preuve de l'obligation de cette croyance
 
 Le Prophète ﷺ a dit dans le célèbre hadith de Jibril:
 
@@ -21,9 +21,9 @@ Allah ﷻ dit:
 
 ---
 
-## Les quatre niveaux du Destin
+## 🏛️ Les quatre niveaux du Destin
 
-### 1. La Science ('Ilm) - العِلم
+### 1️⃣ La Science ('Ilm) - العِلم
 
 Allah connaît toute chose avant même qu'elle n'existe.
 
@@ -31,7 +31,7 @@ Allah connaît toute chose avant même qu'elle n'existe.
 
 > "Et rien de caché, au ciel et sur la terre, ne Lui échappe. Et il est dans un Livre explicite." (An-Naml 27:75)
 
-### 2. L'Écriture (Kitaba) - الكتابة
+### 2️⃣ L'Écriture (Kitaba) - الكتابة
 
 Allah a tout écrit dans la Table Gardée (Al-Lawh Al-Mahfuz).
 
@@ -41,7 +41,7 @@ Le Prophète ﷺ a dit:
 
 > "Allah a écrit les destins des créatures cinquante mille ans avant de créer les cieux et la terre." (Sahih Muslim 2653)
 
-### 3. La Volonté (Mashee'a) - المَشيئة
+### 3️⃣ La Volonté (Mashee'a) - المَشيئة
 
 Rien ne se produit sans qu'Allah ne l'ait voulu.
 
@@ -49,7 +49,7 @@ Rien ne se produit sans qu'Allah ne l'ait voulu.
 
 > "Telle est la détermination du Puissant, de l'Omniscient." (Al-An'am 6:96)
 
-### 4. La Création (Khalq) - الخَلق
+### 4️⃣ La Création (Khalq) - الخَلق
 
 Allah est le Créateur de toute chose, y compris les actes des serviteurs.
 
@@ -61,13 +61,13 @@ Allah est le Créateur de toute chose, y compris les actes des serviteurs.
 
 ## Les types de Destin
 
-### 1. Le Destin cosmique (Kawniyy)
+### 1️⃣ Le Destin cosmique (Kawniyy)
 
 Ce qu'Allah décrète dans Sa création (vie, mort, maladie, richesse, etc.)
 
 > "Si Allah te touche d'un mal, nul ne peut l'écarter à part Lui. Et s'Il te touche d'un bien, Il est Omnipotent." (Al-An'am 6:17)
 
-### 2. Le Destin législatif (Shar'iyy)
+### 2️⃣ Le Destin législatif (Shar'iyy)
 
 Ce qu'Allah ordonne ou interdit à Ses serviteurs.
 
@@ -97,13 +97,13 @@ La désobéissance relève de ce qu'Allah déteste, même si elle se produit par
 
 ## Ce qu'implique la foi au Destin
 
-### 1. La soumission à Allah
+### 1️⃣ La soumission à Allah
 
 Accepter ce qui nous arrive avec patience et satisfaction.
 
 > "Dis: 'Rien ne nous atteindra, en dehors de ce qu'Allah a prescrit pour nous. Il est notre Protecteur.' C'est en Allah que les croyants doivent mettre leur confiance." (At-Tawba 9:51)
 
-### 2. L'action et l'effort
+### 2️⃣ L'action et l'effort
 
 La foi au destin n'est pas une excuse pour l'inaction.
 
@@ -116,7 +116,7 @@ Il ﷺ répondit:
 > **«اعْقِلْهَا وَتَوَكَّلْ»**
 > "Attache-la, puis remets-toi à Allah." (Tirmidhi 2517, classé Hasan par Al-Albani)
 
-### 3. Ne pas argumenter avec le destin
+### 3️⃣ Ne pas argumenter avec le destin
 
 On ne justifie pas les péchés par le destin, car on a le choix.
 
@@ -124,13 +124,13 @@ On ne justifie pas les péchés par le destin, car on a le choix.
 
 ## Ce qui est interdit concernant le destin
 
-### 1. Le Jabrisme (الجبرية)
+### 1️⃣ Le Jabrisme (الجبرية)
 
 Prétendre que l'homme n'a aucun choix et est complètement contraint.
 
 **Réfutation**: Allah a affirmé que l'homme a une volonté et des choix.
 
-### 2. Le Qadarisme (القدرية)
+### 2️⃣ Le Qadarisme (القدرية)
 
 Prétendre que l'homme crée ses propres actes indépendamment d'Allah.
 

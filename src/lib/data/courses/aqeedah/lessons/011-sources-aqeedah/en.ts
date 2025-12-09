@@ -3,9 +3,9 @@
  * English Content
  */
 
-export const content = `# Sources of Authentic Creed
+export const content = `# 📜 Sources of Authentic Creed
 
-## Introduction
+## 🌟 Introduction
 
 The Islamic creed has defined sources that must not be exceeded. These are divine sources, preserved from error and distortion. From where do we take our creed?
 
@@ -118,25 +118,25 @@ Ibn Mas'ud رضي الله عنه said:
 
 ## What is not a source of creed
 
-### 1. Pure reason
+### 1️⃣ Pure reason
 
 Reason is used for understanding, not for legislating. We do not give precedence to reason over the text.
 
 > "It is not for a believing man or a believing woman, when Allah and His Messenger have decided a matter, that they should have any choice about their affair." (Al-Ahzab 33:36)
 
-### 2. Mystical unveiling and inspiration
+### 2️⃣ Mystical unveiling and inspiration
 
 These are not relied upon to establish creed.
 
-### 3. Dreams and visions
+### 3️⃣ Dreams and visions
 
 These are not sources of legislation or creed.
 
-### 4. Sayings of theologians and philosophers
+### 4️⃣ Sayings of theologians and philosophers
 
 They often contradict the methodology of the Salaf.
 
-### 5. Weak and fabricated hadiths
+### 5️⃣ Weak and fabricated hadiths
 
 These are not used as proofs in matters of creed.
 
@@ -234,7 +234,7 @@ This is the methodology of the Salaf: we affirm what Allah and His Messenger aff
 
 ---
 
-## Fruits of adhering to authentic sources
+## 🌟 Fruits of adhering to authentic sources
 
 1. **Preservation from misguidance**: By following the preserved revelation
 2. **Unity**: Upon a single word

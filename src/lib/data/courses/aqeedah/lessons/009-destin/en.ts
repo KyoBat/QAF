@@ -3,9 +3,9 @@
  * English Content
  */
 
-export const content = `# Belief in Divine Decree (Al-Iman bil-Qadr)
+export const content = `# 📜 Belief in Divine Decree (Al-Iman bil-Qadr)
 
-## Definition
+## 🔍 Definition
 
 Belief in divine decree means having firm faith that Allah has predetermined everything, that He knows everything before its creation, that He has written it in the Preserved Tablet (Al-Lawh Al-Mahfuz), that He has willed it, and that He has created it.
 
@@ -23,7 +23,7 @@ Allah ﷻ says:
 
 ## The Four Levels of Divine Decree
 
-### 1. Knowledge ('Ilm) - العِلم
+### 1️⃣ Knowledge ('Ilm) - العِلم
 
 Allah knows everything before it comes into existence.
 
@@ -31,7 +31,7 @@ Allah knows everything before it comes into existence.
 
 > "And nothing is hidden from Allah on the earth or in the heaven." (Ibrahim 14:38)
 
-### 2. Writing (Kitaba) - الكتابة
+### 2️⃣ Writing (Kitaba) - الكتابة
 
 Allah has written everything in the Preserved Tablet (Al-Lawh Al-Mahfuz).
 
@@ -41,7 +41,7 @@ The Prophet ﷺ said:
 
 > "Allah wrote the decrees of creation fifty thousand years before He created the heavens and the earth." (Sahih Muslim 2653)
 
-### 3. Will (Mashee'a) - المَشيئة
+### 3️⃣ Will (Mashee'a) - المَشيئة
 
 Nothing occurs except that Allah has willed it.
 
@@ -49,7 +49,7 @@ Nothing occurs except that Allah has willed it.
 
 > "That is the determination of the Exalted in Might, the Knowing." (Al-An'am 6:96)
 
-### 4. Creation (Khalq) - الخَلق
+### 4️⃣ Creation (Khalq) - الخَلق
 
 Allah is the Creator of everything, including the actions of His servants.
 
@@ -61,13 +61,13 @@ Allah is the Creator of everything, including the actions of His servants.
 
 ## Types of Divine Decree
 
-### 1. Universal Decree (Kawniyy)
+### 1️⃣ Universal Decree (Kawniyy)
 
 What Allah decrees in His creation (life, death, illness, provision, etc.)
 
 > "And if Allah should touch you with adversity, there is no remover of it except Him. And if He touches you with good - then He is over all things competent." (Al-An'am 6:17)
 
-### 2. Legislative Decree (Shar'iyy)
+### 2️⃣ Legislative Decree (Shar'iyy)
 
 What Allah commands or prohibits for His servants.
 
@@ -97,13 +97,13 @@ Disobedience falls under what Allah hates, even if it occurs by His universal wi
 
 ## What Belief in Divine Decree Requires
 
-### 1. Submission to Allah
+### 1️⃣ Submission to Allah
 
 Accepting what happens to us with patience and contentment.
 
 > "Say: 'Never will we be struck except by what Allah has decreed for us; He is our protector.' And upon Allah let the believers rely." (At-Tawba 9:51)
 
-### 2. Action and effort
+### 2️⃣ Action and effort
 
 Belief in divine decree is not an excuse for inaction.
 
@@ -116,7 +116,7 @@ He ﷺ replied:
 > **«اعْقِلْهَا وَتَوَكَّلْ»**
 > "Tie it, then rely on Allah." (Tirmidhi 2517, graded Hasan by Al-Albani)
 
-### 3. Not arguing with destiny
+### 3️⃣ Not arguing with destiny
 
 We do not justify sins by destiny, for we have a choice.
 
@@ -124,13 +124,13 @@ We do not justify sins by destiny, for we have a choice.
 
 ## What is Prohibited Concerning Divine Decree
 
-### 1. Jabrism (الجبرية)
+### 1️⃣ Jabrism (الجبرية)
 
 Claiming that man has no choice and is completely compelled.
 
 **Refutation**: Allah has affirmed that man has will and choices.
 
-### 2. Qadarism (القدرية)
+### 2️⃣ Qadarism (القدرية)
 
 Claiming that man creates his own actions independently of Allah.
 
@@ -138,7 +138,7 @@ Claiming that man creates his own actions independently of Allah.
 
 ---
 
-## The Benefits of Believing in Divine Decree
+## 🌟 The Benefits of Believing in Divine Decree
 
 1. **Tranquility of the heart**: Knowing that everything is determined by the Wise, the All-Knowing
 

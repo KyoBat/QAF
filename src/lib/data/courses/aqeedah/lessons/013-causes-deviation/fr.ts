@@ -3,9 +3,9 @@
  * Contenu en Français
  */
 
-export const content = `# Les Causes de Déviation de la Croyance Authentique
+export const content = `# 📜 Les Causes de Déviation de la Croyance Authentique
 
-## Introduction
+## 🌟 Introduction
 
 La déviation de la croyance authentique est un phénomène ancien, contre lequel Allah et Son Messager ont mis en garde. Connaître les causes de la déviation aide à s'en prémunir.
 
@@ -15,7 +15,7 @@ Allah ﷻ dit:
 
 ---
 
-## Premièrement: L'Ignorance
+## 1️⃣ Premièrement: L'Ignorance
 
 ### La cause la plus dangereuse de déviation
 
@@ -43,7 +43,7 @@ Le Prophète ﷺ a dit:
 
 ---
 
-## Deuxièmement: Suivre les Passions
+## 2️⃣ Deuxièmement: Suivre les Passions
 
 ### Signification
 
@@ -70,7 +70,7 @@ Omar ibn al-Khattab رضي الله عنه a dit:
 
 ---
 
-## Troisièmement: L'Imitation Aveugle
+## 3️⃣ Troisièmement: L'Imitation Aveugle
 
 ### Signification
 
@@ -98,7 +98,7 @@ Suivre les ancêtres et les cheikhs sans preuve ni discernement.
 
 ---
 
-## Quatrièmement: L'Extrémisme
+## 4️⃣ Quatrièmement: L'Extrémisme
 
 ### Signification
 
@@ -128,7 +128,7 @@ Le Prophète ﷺ a dit:
 
 ---
 
-## Cinquièmement: Les Ambiguïtés (Shubuhât)
+## 5️⃣ Cinquièmement: Les Ambiguïtés (Shubuhât)
 
 ### Signification
 
@@ -158,7 +158,7 @@ Le Prophète ﷺ a dit:
 
 ---
 
-## Sixièmement: Les Passions Charnelles (Shahawât)
+## 6️⃣ Sixièmement: Les Passions Charnelles (Shahawât)
 
 ### Signification
 

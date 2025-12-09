@@ -3,9 +3,9 @@
  * English Content
  */
 
-export const content = `# Pillars and Categories of Tawhid
+export const content = `# 📜 Pillars and Categories of Tawhid
 
-## Introduction
+## 🌟 Introduction
 
 Tawhid is the foundation and essence of the religion. It is singling out Allah in what is exclusive to Him in terms of Lordship, Divinity, and Names and Attributes. Scholars have divided Tawhid into three categories through induction from the texts of the Book and the Sunnah.
 
@@ -239,7 +239,7 @@ We affirm for Allah only what He has affirmed for Himself, and negate only what 
 
 ---
 
-## Fruits of Tawhid
+## 🌟 Fruits of Tawhid
 
 1. **Salvation from the Fire**: ﴿Whoever associates with Allah, Allah has forbidden him Paradise﴾
 2. **Entry into Paradise**: "Whoever dies without associating anything with Allah will enter Paradise" (Sahih Bukhari)

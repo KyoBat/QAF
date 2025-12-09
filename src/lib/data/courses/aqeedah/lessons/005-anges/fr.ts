@@ -3,13 +3,13 @@
  * Contenu en Français
  */
 
-export const content = `# La Foi aux Anges (Al-Iman bil-Mala'ika)
+export const content = `# 📜 La Foi aux Anges (Al-Iman bil-Mala'ika)
 
-## Définition
+## 🔍 Définition (التعريف)
 
 La foi aux anges consiste à croire fermement en leur existence, en ce qu'Allah nous a informé à leur sujet dans le Coran et la Sunnah authentique, et à affirmer qu'ils sont des créatures honorées qui ne désobéissent jamais à Allah.
 
-## La preuve de leur existence
+## 📖 La preuve de leur existence
 
 Allah ﷻ dit:
 
@@ -17,7 +17,7 @@ Allah ﷻ dit:
 
 ---
 
-## La nature des anges
+## 🔍 La nature des anges
 
 ### Leur création
 
@@ -39,7 +39,7 @@ Le Prophète ﷺ a dit:
 
 ## Les anges mentionnés par leur nom
 
-### 1. Jibril (جبريل) - Gabriel
+### 1️⃣ Jibril (جبريل) - Gabriel
 
 L'ange chargé de transmettre la révélation.
 
@@ -49,13 +49,13 @@ Le Prophète ﷺ a dit:
 
 > "Jibril m'a enseigné la prière et les moments de prière." (Sahih Al-Bukhari 521)
 
-### 2. Mika'il (ميكائيل) - Michaël
+### 2️⃣ Mika'il (ميكائيل) - Michaël
 
 L'ange chargé de la pluie et de la végétation.
 
 > "Quiconque est ennemi d'Allah, de Ses anges, de Ses messagers, de Gabriel et de Michaël... alors Allah est l'ennemi des mécréants." (Al-Baqara 2:98)
 
-### 3. Israfil (إسرافيل)
+### 3️⃣ Israfil (إسرافيل)
 
 L'ange chargé de souffler dans la Trompe (As-Soor) le Jour de la Résurrection.
 
@@ -65,51 +65,51 @@ Le Prophète ﷺ a dit:
 
 > "Comment pourrais-je me réjouir alors que le porteur de la Trompe (Israfil) a déjà porté la Trompe à sa bouche, inclinant sa tête, attendant l'ordre de souffler." (Tirmidhi 2431)
 
-### 4. Malik (مالك)
+### 4️⃣ Malik (مالك)
 
 Le gardien de l'Enfer.
 
 > "Et ils crieront: 'Ô Malik! Que ton Seigneur nous achève!' Il dira: 'En vérité, vous y resterez éternellement.'" (Az-Zukhruf 43:77)
 
-### 5. Ridwan (رضوان)
+### 5️⃣ Ridwan (رضوان)
 
 Le gardien du Paradis (mentionné dans certains hadiths).
 
-### 6. L'Ange de la Mort (Malak al-Mawt)
+### 6️⃣ L'Ange de la Mort (Malak al-Mawt)
 
 > "Dis: 'L'Ange de la mort qui est chargé de vous, vous fera mourir. Ensuite, vous serez ramenés vers votre Seigneur.'" (As-Sajda 32:11)
 
 ---
 
-## Les catégories d'anges selon leurs fonctions
+## 📊 Les catégories d'anges selon leurs fonctions
 
-### 1. Les porteurs du Trône (Hamalat al-'Arsh)
+### 1️⃣ Les porteurs du Trône (Hamalat al-'Arsh)
 
 > "Et les anges seront sur ses côtés, et huit, ce jour-là, porteront le Trône de ton Seigneur au-dessus d'eux." (Al-Haqqa 69:17)
 
-### 2. Les anges scribes (Al-Kirâm Al-Kâtibûn)
+### 2️⃣ Les anges scribes (Al-Kirâm Al-Kâtibûn)
 
 > "Alors que veillent sur vous des gardiens, de nobles scribes, qui savent ce que vous faites." (Al-Infitar 82:10-12)
 
 > "Il ne prononce pas une parole sans avoir auprès de lui un observateur prêt à l'inscrire." (Qaf 50:18)
 
-### 3. Les anges gardiens (Al-Hafadha)
+### 3️⃣ Les anges gardiens (Al-Hafadha)
 
 > "Il y a pour lui (l'homme) des anges qui se relayent devant et derrière lui, et qui le gardent par ordre d'Allah." (Ar-Ra'd 13:11)
 
-### 4. Les anges qui interrogent dans la tombe (Munkar et Nakir)
+### 4️⃣ Les anges qui interrogent dans la tombe (Munkar et Nakir)
 
 Le Prophète ﷺ a dit:
 
 > "Quand le mort est mis dans sa tombe, deux anges viennent à lui et lui posent des questions sur son Seigneur, sa religion et son prophète." (Sahih Al-Bukhari 1374)
 
-### 5. Les anges du Paradis et de l'Enfer
+### 5️⃣ Les anges du Paradis et de l'Enfer
 
 Pour le Paradis: "Les jardins d'Eden où ils entreront, ainsi que tous ceux de leurs ascendants, épouses et descendants qui ont été pieux. De chaque porte, les anges entreront auprès d'eux: 'Paix sur vous, pour ce que vous avez enduré avec patience!'" (Ar-Ra'd 13:23-24)
 
 Pour l'Enfer: "Ô vous qui avez cru! Préservez vos personnes et vos familles d'un Feu dont le combustible sera les gens et les pierres, surveillé par des anges durs, sévères." (At-Tahrim 66:6)
 
-### 6. Les anges qui font le tour de la Kaaba (Al-Bayt Al-Ma'mur)
+### 6️⃣ Les anges qui font le tour de la Kaaba (Al-Bayt Al-Ma'mur)
 
 Le Prophète ﷺ a dit:
 
@@ -117,7 +117,7 @@ Le Prophète ﷺ a dit:
 
 ---
 
-## Les effets de la foi aux anges
+## 🌟 Les effets de la foi aux anges
 
 1. **Conscience de la surveillance divine**: Savoir que les anges enregistrent tout nous pousse à la piété
 2. **Amour des anges**: Aimer ceux qu'Allah aime et qui adorent Allah constamment

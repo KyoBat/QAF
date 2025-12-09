@@ -3,9 +3,9 @@
  * Contenu en Français
  */
 
-export const content = `# Les Sources de la Croyance Authentique
+export const content = `# 📜 Les Sources de la Croyance Authentique
 
-## Introduction
+## 🌟 Introduction
 
 La croyance islamique a des sources bien définies qu'il n'est pas permis de dépasser. Ce sont des sources divines, préservées de l'erreur et de la falsification. D'où prenons-nous notre croyance?
 
@@ -118,25 +118,25 @@ Ibn Mas'ud رضي الله عنه a dit:
 
 ## Ce qui n'est pas une source de croyance
 
-### 1. La raison pure
+### 1️⃣ La raison pure
 
 La raison est utilisée pour comprendre, non pour légiférer. On ne fait pas primer la raison sur le texte.
 
 > "Il n'appartient pas à un croyant ou à une croyante, une fois qu'Allah et Son messager ont décidé d'une chose, d'avoir encore le choix dans leur affaire." (Al-Ahzab 33:36)
 
-### 2. Le dévoilement et l'inspiration
+### 2️⃣ Le dévoilement et l'inspiration
 
 On ne s'y fie pas pour établir la croyance.
 
-### 3. Les rêves et les visions
+### 3️⃣ Les rêves et les visions
 
 Ce ne sont pas des sources de législation ou de croyance.
 
-### 4. Les paroles des théologiens et des philosophes
+### 4️⃣ Les paroles des théologiens et des philosophes
 
 Elles contredisent souvent la méthodologie des Salaf.
 
-### 5. Les hadiths faibles et forgés
+### 5️⃣ Les hadiths faibles et forgés
 
 On ne les utilise pas comme preuves en matière de croyance.
 
@@ -234,7 +234,7 @@ Telle est la méthodologie des Salaf: nous affirmons ce qu'Allah et Son Messager
 
 ---
 
-## Les fruits de l'attachement aux sources authentiques
+## 🌟 Les fruits de l'attachement aux sources authentiques
 
 1. **La préservation de l'égarement**: En suivant la révélation préservée
 2. **L'unité**: Sur une seule parole

@@ -3,9 +3,9 @@
  * Contenu en Français
  */
 
-export const content = `# Les Caractéristiques de la Croyance Islamique Authentique
+export const content = `# 📜 Les Caractéristiques de la Croyance Islamique Authentique
 
-## Introduction
+## 🌟 Introduction
 
 La croyance islamique se distingue par des caractéristiques uniques qui en font la vraie croyance qu'Allah a agréée pour Ses serviteurs. Ces caractéristiques prouvent qu'elle vient d'Allah, le Savant, le Sage.
 
@@ -15,7 +15,7 @@ Allah ﷻ dit:
 
 ---
 
-## Premièrement: Source Divine
+## 1️⃣ Premièrement: Source Divine
 
 ### Signification
 
@@ -36,7 +36,7 @@ La croyance islamique a pour source la révélation d'Allah, non les efforts hum
 
 ---
 
-## Deuxièmement: Clarté et Évidence
+## 2️⃣ Deuxièmement: Clarté et Évidence
 
 ### Signification
 
@@ -61,7 +61,7 @@ Le Prophète ﷺ a dit:
 
 ---
 
-## Troisièmement: Conformité à la Nature Innée (Fitra)
+## 3️⃣ Troisièmement: Conformité à la Nature Innée (Fitra)
 
 ### Signification
 
@@ -80,7 +80,7 @@ La croyance islamique est en accord avec la nature saine sur laquelle Allah a cr
 
 ---
 
-## Quatrièmement: Conformité à la Raison Saine
+## 4️⃣ Quatrièmement: Conformité à la Raison Saine
 
 ### Signification
 
@@ -102,7 +102,7 @@ Si une contradiction semble exister:
 
 ---
 
-## Cinquièmement: Globalité et Perfection
+## 5️⃣ Cinquièmement: Globalité et Perfection
 
 ### Signification
 
@@ -123,7 +123,7 @@ La croyance islamique englobe tout ce dont l'être humain a besoin dans sa vie e
 
 ---
 
-## Sixièmement: Modération et Équilibre
+## 6️⃣ Sixièmement: Modération et Équilibre
 
 ### Signification
 
@@ -235,7 +235,7 @@ La croyance islamique libère l'homme de la servitude envers autre qu'Allah.
 
 ---
 
-## Les fruits de la croyance authentique
+## 🌟 Les fruits de la croyance authentique
 
 1. **Paix de l'esprit**: Ni confusion ni doute
 2. **Fermeté**: Dans les épreuves et tribulations

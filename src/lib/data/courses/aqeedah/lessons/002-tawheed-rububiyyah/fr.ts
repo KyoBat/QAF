@@ -3,7 +3,7 @@
  * Contenu en Français
  */
 
-export const content = `# Tawheed Al-Rububiyyah (توحيد الربوبية)
+export const content = `# 📜 Tawheed Al-Rububiyyah (توحيد الربوبية)
 ## L'Unicité d'Allah dans Sa Seigneurie
 
 ---

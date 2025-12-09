@@ -3,7 +3,7 @@
  * Content in English
  */
 
-export const content = `# Tawheed Al-Rububiyyah (توحيد الربوبية)
+export const content = `# 📜 Tawheed Al-Rububiyyah (توحيد الربوبية)
 ## The Oneness of Allah in His Lordship
 
 ---
