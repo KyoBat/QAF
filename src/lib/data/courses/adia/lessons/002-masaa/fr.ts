@@ -1,11 +1,295 @@
 /**
  * Les Invocations Authentiques - Leçon 002: Invocations du Soir
- * Contenu en français - À TRADUIRE
+ * Contenu en français
  */
 
 export const content = `# 📿 أَذْكَارُ الْمَسَاءِ — Invocations du Soir
 
-> **Traduction en cours...**
+> **Allah Le Très-Haut a dit** : ﴿ Glorifiez Allah donc, soir et matin ! À Lui toute louange dans les cieux et la terre, dans l'après-midi et au milieu du jour ﴾ [Ar-Rūm: 17-18]
 
-*Le contenu en français sera traduit prochainement.*
+---
+
+## 📖 Les Invocations de Cette Leçon
+
+### 🔷 Invocation 1 : Āyat al-Kursī
+
+#### Texte Arabe avec Tashkīl Complet
+
+**﴿ اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ ۚ لَا تَأْخُذُهُ سِنَةٌ وَلَا نَوْمٌ ۚ لَّهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۗ مَن ذَا الَّذِي يَشْفَعُ عِندَهُ إِلَّا بِإِذْنِهِ ۚ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ ۖ وَلَا يُحِيطُونَ بِشَيْءٍ مِّنْ عِلْمِهِ إِلَّا بِمَا شَاءَ ۚ وَسِعَ كُرْسِيُّهُ السَّمَاوَاتِ وَالْأَرْضَ ۖ وَلَا يَئُودُهُ حِفْظُهُمَا ۚ وَهُوَ الْعَلِيُّ الْعَظِيمُ ﴾**
+
+[Al-Baqarah: 255]
+
+#### 📚 Source
+
+| Référence | Numéro | Authenticité |
+|-----------|--------|------------|
+| **Le Saint Coran** | Sourate 2, verset 255 | ✅ Coran |
+| **Sahih al-Bukhārī** | 2311 | ✅ Authentique |
+
+#### 💎 Mérite d'Āyat al-Kursī le Soir
+
+Āyat al-Kursī est la maîtresse des versets du Coran, elle se récite matin et soir pour la protection contre tout mal.
+
+D'après Abū Hurayrah — qu'Allah l'agrée — dans le long hadith du démon :
+
+> **« Lorsque tu vas te coucher, récite Āyat al-Kursī. Allah te protégera et aucun démon ne t'approchera jusqu'au matin. »**
+
+[Rapporté par al-Bukhārī: 2311]
+
+---
+
+### 🔷 Invocation 2 : Les Trois Dernières Sourates
+
+#### Texte Arabe avec Tashkīl Complet
+
+**﴿ قُلْ هُوَ اللَّهُ أَحَدٌ • اللَّهُ الصَّمَدُ • لَمْ يَلِدْ وَلَمْ يُولَدْ • وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ ﴾**
+
+[Al-Ikhlāṣ: 1-4]
+
+**﴿ قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ • مِن شَرِّ مَا خَلَقَ • وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ • وَمِن شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ • وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ ﴾**
+
+[Al-Falaq: 1-5]
+
+**﴿ قُلْ أَعُوذُ بِرَبِّ النَّاسِ • مَلِكِ النَّاسِ • إِلَٰهِ النَّاسِ • مِن شَرِّ الْوَسْوَاسِ الْخَنَّاسِ • الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ • مِنَ الْجِنَّةِ وَالنَّاسِ ﴾**
+
+[An-Nās: 1-6]
+
+#### 📚 Source
+
+| Référence | Numéro | Authenticité |
+|-----------|--------|------------|
+| **Le Saint Coran** | Sourates 112, 113, 114 | ✅ Coran |
+| **Sunan Abī Dāwūd** | 5082 | ✅ Authentique |
+| **Sunan at-Tirmidhī** | 3575 | ✅ Bon et authentique |
+
+#### 💎 La Méthode Prophétique
+
+D'après 'Ā'ishah — qu'Allah l'agrée :
+
+> **« Le Prophète ﷺ, chaque nuit avant de se coucher, joignait ses deux mains, soufflait dedans et récitait : "Qul huwa Allāhu aḥad", "Qul a'ūdhu birabbi al-falaq" et "Qul a'ūdhu birabbi an-nās". Puis il passait ses mains sur tout son corps en commençant par la tête, le visage et la partie avant du corps. Il faisait cela trois fois. »**
+
+[Rapporté par al-Bukhārī: 5017]
+
+**Fréquence** : Trois fois matin et soir.
+
+---
+
+### 🔷 Invocation 3 : Invocation du Soir
+
+#### Texte Arabe avec Tashkīl Complet
+
+**« أَمْسَيْنَا وَأَمْسَى الْمُلْكُ لِلَّهِ، وَالْحَمْدُ لِلَّهِ، لَا إِلَٰهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ، رَبِّ أَسْأَلُكَ خَيْرَ مَا فِي هَٰذِهِ اللَّيْلَةِ وَخَيْرَ مَا بَعْدَهَا، وَأَعُوذُ بِكَ مِنْ شَرِّ مَا فِي هَٰذِهِ اللَّيْلَةِ وَشَرِّ مَا بَعْدَهَا، رَبِّ أَعُوذُ بِكَ مِنَ الْكَسَلِ وَسُوءِ الْكِبَرِ، رَبِّ أَعُوذُ بِكَ مِنْ عَذَابٍ فِي النَّارِ وَعَذَابٍ فِي الْقَبْرِ »**
+
+#### Traduction Française
+
+**« Nous voici au soir et le règne appartient à Allah. Louange à Allah. Il n'y a de divinité digne d'adoration qu'Allah, Seul sans associé. À Lui appartient la royauté, à Lui la louange, et Il est Capable de toute chose. Seigneur, je Te demande le bien de cette nuit et le bien de ce qui vient après. Je cherche refuge auprès de Toi contre le mal de cette nuit et le mal de ce qui vient après. Seigneur, je cherche refuge auprès de Toi contre la paresse et les maux de la vieillesse. Seigneur, je cherche refuge auprès de Toi contre un châtiment dans le Feu et un châtiment dans la tombe. »**
+
+#### 📚 Source
+
+| Référence | Numéro | Authenticité |
+|-----------|--------|------------|
+| **Sahih Muslim** | 2723 | ✅ Authentique |
+| **Sunan Abī Dāwūd** | 5084 | ✅ Authentique |
+
+#### 💎 Différence entre Matin et Soir
+
+| Moment | Formule | Signification |
+|--------|---------|---------------|
+| **Matin** | أَصْبَحْنَا | Nous voici au matin |
+| **Matin** | خَيْرَ مَا فِي هَٰذَا الْيَوْمِ | Le bien de ce jour |
+| **Soir** | أَمْسَيْنَا | Nous voici au soir |
+| **Soir** | خَيْرَ مَا فِي هَٰذِهِ اللَّيْلَةِ | Le bien de cette nuit |
+
+---
+
+### 🔷 Invocations 4 à 8
+
+Les invocations suivantes sont identiques à celles du matin :
+
+- **Ḥasbiya Allāh** (7 fois)
+- **Bismillāhi alladhī lā yaḍurru** (3 fois)  
+- **Sayyid al-Istighfār** (1 fois)
+- **Raḍītu billāhi Rabbā** (3 fois)
+- **Subḥān Allāh wa biḥamdih** (100 fois)
+
+Reportez-vous à la leçon 1 pour le détail complet.
+
+---
+
+### 🔷 Invocation 9 : Allāhumma innī as'aluka al-'āfiyah
+
+#### Texte Arabe avec Tashkīl Complet
+
+**« اللَّهُمَّ إِنِّي أَسْأَلُكَ الْعَافِيَةَ فِي الدُّنْيَا وَالْآخِرَةِ، اللَّهُمَّ إِنِّي أَسْأَلُكَ الْعَفْوَ وَالْعَافِيَةَ فِي دِينِي وَدُنْيَايَ وَأَهْلِي وَمَالِي، اللَّهُمَّ اسْتُرْ عَوْرَاتِي وَآمِنْ رَوْعَاتِي، اللَّهُمَّ احْفَظْنِي مِنْ بَيْنِ يَدَيَّ وَمِنْ خَلْفِي، وَعَنْ يَمِينِي وَعَنْ شِمَالِي، وَمِنْ فَوْقِي، وَأَعُوذُ بِعَظَمَتِكَ أَنْ أُغْتَالَ مِنْ تَحْتِي »**
+
+#### Traduction Française
+
+**« Ô Allah, je Te demande le bien-être dans ce monde et dans l'au-delà. Ô Allah, je Te demande le pardon et le bien-être dans ma religion, ma vie d'ici-bas, ma famille et mes biens. Ô Allah, couvre mes défauts et apaise mes frayeurs. Ô Allah, protège-moi par devant et par derrière, à ma droite et à ma gauche, et au-dessus de moi. Je cherche refuge dans Ta grandeur contre le fait d'être englouti par en dessous. »**
+
+#### 📚 Source
+
+| Référence | Numéro | Authenticité |
+|-----------|--------|------------|
+| **Sunan Abī Dāwūd** | 5074 | ✅ Authentique |
+| **Sunan Ibn Mājah** | 3871 | ✅ Authentique |
+| **Musnad Ahmad** | 4785 | ✅ Authentique |
+
+#### 💎 Invocation Globale
+
+Cette invocation magnifique englobe :
+
+| Demande | Signification |
+|---------|---------------|
+| **Al-'āfiyah dans ce monde et l'au-delà** | Le bien-être complet |
+| **Pardon et bien-être dans la religion** | Protection de la croyance et des adorations |
+| **Couvrir les défauts** | Préservation des secrets et des péchés |
+| **Apaiser les frayeurs** | Sérénité face à la peur |
+| **Protection des six directions** | Protection complète |
+
+---
+
+## 🎓 Importance des Invocations du Soir
+
+### 📌 Paroles des Savants
+
+| Savant | Citation |
+|--------|----------|
+| **Ibn al-Qayyim** رحمه الله | *« Les invocations du soir sont une forteresse pour le musulman contre les démons de la nuit. »* |
+| **Ibn Bāz** رحمه الله | *« Celui qui préserve les invocations du soir dort en sécurité et en sérénité. »* |
+| **Ibn 'Uthaymīn** رحمه الله | *« La nuit est plus dangereuse que le jour, sa forteresse est donc dans les invocations. »* |
+
+### 📌 Différence entre Invocations du Matin et du Soir
+
+| Élément | Invocations du Matin | Invocations du Soir |
+|---------|----------------------|---------------------|
+| **Moment** | De l'aube à Aḍ-Ḍuḥā | Du 'Aṣr au Maghrib |
+| **Formule** | أَصْبَحْنَا | أَمْسَيْنَا |
+| **Focus** | Protection du jour | Protection de la nuit |
+| **Importance** | Égale | Égale |
+
+---
+
+## 📚 Preuves du Coran et de la Sunna
+
+### Du Saint Coran
+
+**﴿ Et invoque le Nom de ton Seigneur matin et soir ﴾**
+[Al-Insān: 25]
+
+**﴿ Célèbre donc la gloire de ton Seigneur avant le lever du soleil et avant son coucher ﴾**
+[Qāf: 39]
+
+**﴿ Ô vous qui avez cru ! Évoquez Allah d'une façon abondante, et glorifiez-Le à la pointe et au déclin du jour ﴾**
+[Al-Aḥzāb: 41-42]
+
+---
+
+## 🌍 Application Pratique Moderne
+
+### ⏰ Meilleurs Moments pour les Invocations du Soir
+
+| Moment | Horaire | Note |
+|--------|---------|------|
+| **Optimal** | Après la prière du 'Aṣr | ✅ La Sunna |
+| **Acceptable** | Avant le Maghrib | ⚪ Acceptable |
+| **Tardif** | Après le Maghrib | ⚠️ À rattraper |
+
+### 📱 Utiliser la Technologie
+
+| Outil | Utilisation |
+|-------|-------------|
+| **Alarme téléphone** | Programmer une alarme après le 'Aṣr |
+| **Application Ḥiṣn al-Muslim** | Lire les invocations depuis l'application |
+| **Assistant vocal** | « Ok Google, rappelle-moi les invocations du soir » |
+| **Fond d'écran** | Mettre un rappel visuel |
+
+---
+
+## ⚠️ Précautions et Erreurs Courantes
+
+### 🚫 Erreurs Fréquentes
+
+| Erreur | Correction |
+|--------|------------|
+| ❌ Retarder jusqu'à la nuit | ✅ Les dire après le 'Aṣr |
+| ❌ Se contenter uniquement du matin | ✅ Préserver matin ET soir |
+| ❌ Lire trop rapidement | ✅ Lire avec recueillement |
+| ❌ Les abandonner en voyage | ✅ Les invocations sont requises partout |
+| ❌ Se contenter d'écouter | ✅ Les réciter soi-même est meilleur |
+
+---
+
+## ❓ Questions Fréquentes
+
+### « Quel est le meilleur moment pour les invocations du soir ? »
+
+**Réponse** :
+
+| Moment | Statut |
+|--------|--------|
+| **Après le 'Aṣr** | 🌟 Le meilleur selon la Sunna |
+| **Avant le Maghrib** | ✅ Acceptable |
+| **Après le Maghrib** | ⚠️ À rattraper |
+
+---
+
+### « Peut-on regrouper matin et soir en une fois ? »
+
+**Réponse** : ❌ Non, chaque moment a ses invocations spécifiques. Le matin pour la protection diurne, le soir pour la protection nocturne.
+
+---
+
+## 🎯 Application Hebdomadaire
+
+### 📌 Défi de Cette Semaine
+
+**Objectif** : Préserver les invocations du soir **7 jours** consécutifs.
+
+### 📋 Tableau de Suivi
+
+| Jour | ✅ Fait | Heure | Note |
+|------|---------|-------|------|
+| Dimanche | ☐ | __:__ | |
+| Lundi | ☐ | __:__ | |
+| Mardi | ☐ | __:__ | |
+| Mercredi | ☐ | __:__ | |
+| Jeudi | ☐ | __:__ | |
+| Vendredi | ☐ | __:__ | |
+| Samedi | ☐ | __:__ | |
+
+---
+
+## 📝 Récapitulatif
+
+| # | Invocation | Nombre | Mérite |
+|---|------------|--------|--------|
+| 1️⃣ | **Āyat al-Kursī** | 1 | Protection toute la nuit |
+| 2️⃣ | **Al-Mu'awwidhāt + Al-Ikhlāṣ** | 3 | Suffisent contre toute chose |
+| 3️⃣ | **Amsaynā wa amsā al-mulku lillāh** | 1 | Bien de la nuit et protection |
+| 4-8 | *Comme le matin* | Variable | Voir leçon 1 |
+| 9️⃣ | **Allāhumma innī as'aluka al-'āfiyah** | 1 | Bien-être global |
+
+**⏱️ Durée totale** : Environ 12-15 minutes
+
+---
+
+## 📚 Sources et Références
+
+1. **Ḥiṣn al-Muslim** — Sa'īd ibn 'Alī al-Qaḥṭānī
+2. **Ṣaḥīḥ al-Kalim aṭ-Ṭayyib** — Al-Albānī
+3. **Al-Adhkār** — L'Imām an-Nawawī
+4. **Ṣaḥīḥ al-Bukhārī** — Livre des invocations
+5. **Ṣaḥīḥ Muslim** — Livre de l'évocation et de l'invocation
+
+---
+
+**واللهُ أعلم**
+
+**اللَّهُمَّ أَعِنَّا عَلَىٰ ذِكْرِكَ وَشُكْرِكَ وَحُسْنِ عِبَادَتِكَ**
+
+**« Ô Allah, aide-nous à T'évoquer, Te remercier et T'adorer de la meilleure façon »**
+
+---
+
+*Réalisé avec la grâce d'Allah*
 `
