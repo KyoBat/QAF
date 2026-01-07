@@ -3,7 +3,10 @@
  * Exports centralisés pour toutes les langues
  */
 
+
 import { content as arContent } from './ar';
+import { content as frContent } from './fr';
+import { content as enContent } from './en';
 
 export const lesson010 = {
   id: 'adia-010',
@@ -22,7 +25,7 @@ export const lesson010 = {
   duration: '15 دقيقة',
   content: {
     ar: arContent,
-    fr: arContent, // TODO: À traduire
-    en: arContent, // TODO: À traduire
+    fr: frContent,
+    en: enContent,
   },
 };
