@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200">
+  <defs>
+    <linearGradient id="bg-adia" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#6366f1;stop-opacity:0.2" />
+      <stop offset="100%" style="stop-color:#4f46e5;stop-opacity:0.1" />
+    </linearGradient>
+    <linearGradient id="accent-adia" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#6366f1" />
+      <stop offset="100%" style="stop-color:#4f46e5" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="400" height="200" fill="url(#bg-adia)"/>
+  
+  <!-- Decorative pattern -->
+  <g opacity="0.1">
+    <circle cx="50" cy="30" r="40" fill="#6366f1"/>
+    <circle cx="350" cy="170" r="60" fill="#4f46e5"/>
+    <path d="M 0 150 Q 100 200 200 150 T 400 150" fill="none" stroke="#6366f1" stroke-width="2"/>
+  </g>
+  
+  <!-- Icon: Invocations / Dua (Hands Raised) -->
+  <g transform="translate(160, 50)">
+    <rect x="0" y="0" width="80" height="80" rx="8" fill="url(#accent-adia)" opacity="0.2"/>
+    
+    <!-- Left Hand -->
+    <path d="M 25 55 Q 25 65 35 65 L 38 65 L 38 35 Q 38 30 31.5 30 Q 25 30 25 35 Z" fill="none" stroke="#6366f1" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    
+    <!-- Right Hand -->
+    <path d="M 55 55 Q 55 65 45 65 L 42 65 L 42 35 Q 42 30 48.5 30 Q 55 30 55 35 Z" fill="none" stroke="#6366f1" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    
+    <!-- Glow/Light above hands -->
+    <circle cx="40" cy="20" r="1.5" fill="#6366f1" opacity="0.8"/>
+    <circle cx="40" cy="12" r="1" fill="#6366f1" opacity="0.6"/>
+    <line x1="40" y1="20" x2="40" y2="10" stroke="#6366f1" stroke-width="1" stroke-linecap="round" opacity="0.4"/>
+  </g>
+  
+  <!-- Arabic text decoration -->
+  <text x="200" y="165" text-anchor="middle" font-family="serif" font-size="24" fill="#6366f1" opacity="0.6">
+    الأدعية
+  </text>
+</svg>
