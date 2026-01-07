@@ -1,32 +1,66 @@
 /**
  * Cours: Les Invocations Authentiques du Musulman
- * Métadonnées du cours
+ * Métadonnées des modules
  */
 
 import { CourseMeta } from '../types'
 
-export const adiaMeta: CourseMeta = {
-  id: 'course-013',
-  slug: 'invocations-authentiques',
+/**
+ * Module 1: Invocations Quotidiennes
+ * 5 leçons sur les invocations du quotidien (matin, soir, sommeil, réveil, repas)
+ */
+export const adiaModule1Meta: CourseMeta = {
+  id: 'course-013a',
+  slug: 'invocations-quotidiennes',
   title: {
-    fr: 'Les Invocations Authentiques du Musulman',
-    ar: 'الأدعية الصحيحة للمسلم',
-    en: 'Authentic Supplications for the Muslim',
+    fr: 'Invocations Quotidiennes',
+    ar: 'الأدعية اليومية',
+    en: 'Daily Supplications',
   },
   description: {
-    fr: '15 leçons sur les invocations authentiques tirées du Coran et de la Sunna, organisées par thématiques pour accompagner le musulman dans sa vie quotidienne et spirituelle.',
-    ar: '15 درساً في الأدعية الصحيحة من القرآن والسنة، منظمة حسب المواضيع لمصاحبة المسلم في حياته اليومية والروحية.',
-    en: '15 lessons on authentic supplications from the Quran and Sunnah, organized by themes to accompany the Muslim in daily and spiritual life.',
+    fr: '5 leçons essentielles sur les invocations du quotidien : matin, soir, sommeil, réveil et repas. Accompagnez chaque moment de votre journée avec les invocations authentiques.',
+    ar: '5 دروس أساسية في أدعية الحياة اليومية: الصباح، المساء، النوم، الاستيقاظ والطعام. رافق كل لحظة من يومك بالأدعية الصحيحة.',
+    en: '5 essential lessons on daily supplications: morning, evening, sleep, waking up, and meals. Accompany every moment of your day with authentic invocations.',
   },
   category: 'spirituality',
   level: 'beginner',
-  duration: '10h',
+  duration: '3h',
   instructor: 'TahaLearn Academy',
   image: '/images/courses/adia.svg',
-  tags: ['invocations', 'dua', 'adhkar', 'spirituality', 'protection', 'daily-worship'],
+  tags: ['invocations', 'dua', 'adhkar', 'daily-worship', 'morning', 'evening'],
   featured: true,
   published: true,
   resources: [],
   createdAt: '2026-01-06T00:00:00.000Z',
-  updatedAt: '2026-01-06T00:00:00.000Z',
+  updatedAt: '2026-01-07T00:00:00.000Z',
+}
+
+/**
+ * Module 2: Invocations de la Salat
+ * 3 leçons sur les invocations de la prière (avant, pendant, après)
+ */
+export const adiaModule2Meta: CourseMeta = {
+  id: 'course-013b',
+  slug: 'invocations-salat',
+  title: {
+    fr: 'Invocations de la Salat',
+    ar: 'أدعية الصلاة',
+    en: 'Prayer Supplications',
+  },
+  description: {
+    fr: '3 leçons complètes sur les invocations de la prière : avant et pendant la Salat, le Tashahud et les invocations après la Salat. Perfectionnez votre prière avec les adhkar authentiques.',
+    ar: '3 دروس شاملة في أدعية الصلاة: قبل وأثناء الصلاة، التشهد والأذكار بعد الصلاة. أتقن صلاتك بالأذكار الصحيحة.',
+    en: '3 comprehensive lessons on prayer supplications: before and during Salat, Tashahhud, and post-prayer adhkar. Perfect your prayer with authentic invocations.',
+  },
+  category: 'spirituality',
+  level: 'beginner',
+  duration: '2h 30min',
+  instructor: 'TahaLearn Academy',
+  image: '/images/courses/adia.svg',
+  tags: ['invocations', 'dua', 'adhkar', 'salat', 'prayer', 'tashahhud'],
+  featured: true,
+  published: true,
+  resources: [],
+  createdAt: '2026-01-07T00:00:00.000Z',
+  updatedAt: '2026-01-07T00:00:00.000Z',
 }
