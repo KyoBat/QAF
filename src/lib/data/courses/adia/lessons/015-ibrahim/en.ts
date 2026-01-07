@@ -283,6 +283,3 @@ To teach us humility and vigilance against shirk; no one is safe from trials.
 
 **O Allah, make us among Your grateful and supplicating servants.**
 `;
-
-**O Allah, make us among Your grateful and supplicating servants.**
-`;
