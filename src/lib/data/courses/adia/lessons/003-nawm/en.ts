@@ -11,15 +11,13 @@ export const content = `# 📿 أَذْكَارُ النَّوْمِ — Sleep I
 
 ## 📖 The Invocations in This Lesson
 
-### 🔷 Invocation 1: Bismika Allāhumma amūtu wa aḥyā
+## 🤲 ① Invocation 1: Bismika Allāhumma amūtu wa aḥyā
 
-#### Arabic Text with Complete Tashkīl
-
-**« بِاسْمِكَ اللَّهُمَّ أَمُوتُ وَأَحْيَا »**
-
-#### English Translation
-
-**« In Your name, O Allah, I die and I live. »**
+> **🟢 ﴿ بِاسْمِكَ اللَّهُمَّ أَمُوتُ وَأَحْيَا ﴾ 🟢**
+>
+> **📖 Reference:** [Ṣaḥīḥ al-Bukhārī: 6312]
+>
+> **🔢 Repetitions:** 🟢 **Once (×1)**
 
 #### 📚 Source
 
@@ -46,7 +44,15 @@ From Ḥudhayfah — may Allah be pleased with him — who said:
 
 ---
 
-### 🔷 Invocation 2: Āyat al-Kursī (The Throne Verse)
+---
+
+## 🤲 ② Invocation 2: Āyat al-Kursī (The Throne Verse)
+
+> **🟢 ﴿ اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ ۚ لَا تَأْخُذُهُ سِنَةٌ وَلَا نَوْمٌ ۚ لَّهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۗ مَن ذَا الَّذِي يَشْفَعُ عِندَهُ إِلَّا بِإِذْنِهِ ۚ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ ۖ وَلَا يُحِيطُونَ بِشَيْءٍ مِّنْ عِلْمِهِ إِلَّا بِمَا شَاءَ ۚ وَسِعَ كُرْسِيُّهُ السَّمَاوَاتِ وَالْأَرْضَ ۖ وَلَا يَئُودُهُ حِفْظُهُمَا ۚ وَهُوَ الْعَلِيُّ الْعَظِيمُ ﴾ 🟢**
+>
+> **📖 Reference:** [Al-Baqarah: 255]
+>
+> **🔢 Repetitions:** 🟢 **Once (×1)**
 
 #### Arabic Text
 
@@ -77,29 +83,19 @@ The Prophet ﷺ said: **« He spoke the truth to you, though he is a liar. »**
 
 ---
 
-### 🔷 Invocation 3: The Three Protecting Surahs (Al-Mu'awwidhāt)
+---
 
-#### Arabic Text
+## 🤲 ③ Invocation 3: The Three Protecting Surahs (Al-Mu'awwidhāt)
 
-**﴿ قُلْ هُوَ اللَّهُ أَحَدٌ • اللَّهُ الصَّمَدُ • لَمْ يَلِدْ وَلَمْ يُولَدْ • وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ ﴾**
-
-**﴿ قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ • مِن شَرِّ مَا خَلَقَ • وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ • وَمِن شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ • وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ ﴾**
-
-**﴿ قُلْ أَعُوذُ بِرَبِّ النَّاسِ • مَلِكِ النَّاسِ • إِلَٰهِ النَّاسِ • مِن شَرِّ الْوَسْوَاسِ الْخَنَّاسِ • الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ • مِنَ الْجِنَّةِ وَالنَّاسِ ﴾**
-
-#### English Translation
-
-**Sūrat Al-Ikhlāṣ (The Sincerity)**
-
-**« Say: "He is Allah, [Who is] One, Allah, the Eternal Refuge. He neither begets nor is born, nor is there to Him any equivalent." »**
-
-**Sūrat Al-Falaq (The Daybreak)**
-
-**« Say: "I seek refuge in the Lord of daybreak, from the evil of that which He created, and from the evil of darkness when it settles, and from the evil of the blowers in knots, and from the evil of an envier when he envies." »**
-
-**Sūrat An-Nās (Mankind)**
-
-**« Say: "I seek refuge in the Lord of mankind, the Sovereign of mankind, the God of mankind, from the evil of the retreating whisperer - who whispers [evil] into the breasts of mankind - from among the jinn and mankind." »**
+> **🔵 ﴿ قُلْ هُوَ اللَّهُ أَحَدٌ • اللَّهُ الصَّمَدُ • لَمْ يَلِدْ وَلَمْ يُولَدْ • وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ ﴾ 🔵**
+>
+> **🔵 ﴿ قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ • مِن شَرِّ مَا خَلَقَ • وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ • وَمِن شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ • وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ ﴾ 🔵**
+>
+> **🔵 ﴿ قُلْ أَعُوذُ بِرَبِّ النَّاسِ • مَلِكِ النَّاسِ • إِلَٰهِ النَّاسِ • مِن شَرِّ الْوَسْوَاسِ الْخَنَّاسِ • الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ • مِنَ الْجِنَّةِ وَالنَّاسِ ﴾ 🔵**
+>
+> **📖 Reference:** [Surahs 112-114]
+>
+> **🔢 Repetitions:** 🔵 **Three times (×3)**
 
 #### 📚 Source
 
@@ -125,17 +121,15 @@ From 'Ā'ishah — may Allah be pleased with her:
 
 ---
 
-### 🔷 Invocation 4: Allāhumma qinī 'adhābaka
+---
 
-#### Arabic Text with Complete Tashkīl
+## 🤲 ④ Invocation 4: Allāhumma qinī 'adhābaka
 
-**« اللَّهُمَّ قِنِي عَذَابَكَ يَوْمَ تَبْعَثُ عِبَادَكَ »**
-
-**(Say three times)**
-
-#### English Translation
-
-**« O Allah, protect me from Your punishment on the day You resurrect Your servants. »**
+> **🔵 اللَّهُمَّ قِنِي عَذَابَكَ يَوْمَ تَبْعَثُ عِبَادَكَ 🔵**
+>
+> **📖 Reference:** [Sunan Abī Dāwūd: 5045]
+>
+> **🔢 Repetitions:** 🔵 **Three times (×3)**
 
 #### 📚 Source
 
@@ -155,23 +149,19 @@ From Ḥafṣah — may Allah be pleased with her:
 
 ---
 
-### 🔷 Invocation 5: Tasbīḥ, Taḥmīd, and Takbīr
+---
 
-#### Arabic Text with Complete Tashkīl
+## 🤲 ⑤ Invocation 5: Tasbīḥ, Taḥmīd, and Takbīr
 
-**« سُبْحَانَ اللَّهِ »** (33 times)
-
-**« الْحَمْدُ لِلَّهِ »** (33 times)
-
-**« اللَّهُ أَكْبَرُ »** (34 times)
-
-#### English Translation
-
-**« Glory be to Allah »** (33 times)
-
-**« Praise be to Allah »** (33 times)
-
-**« Allah is the Greatest »** (34 times)
+> **🔴 سُبْحَانَ اللَّهِ 🔴** (33 times)
+>
+> **🔴 الْحَمْدُ لِلَّهِ 🔴** (33 times)
+>
+> **🔴 اللَّهُ أَكْبَرُ 🔴** (34 times)
+>
+> **📖 Reference:** [Ṣaḥīḥ Muslim: 2727]
+>
+> **🔢 Repetitions:** 🔴 **One hundred times (×100)** - 33+33+34
 
 #### 📚 Source
 
@@ -190,15 +180,15 @@ From 'Alī — may Allah be pleased with him:
 
 ---
 
-### 🔷 Invocation 6: Allāhumma aslamtu nafsī ilayka
+---
 
-#### Arabic Text with Complete Tashkīl
+## 🤲 ⑥ Invocation 6: Allāhumma aslamtu nafsī ilayka
 
-**« اللَّهُمَّ أَسْلَمْتُ نَفْسِي إِلَيْكَ، وَفَوَّضْتُ أَمْرِي إِلَيْكَ، وَوَجَّهْتُ وَجْهِي إِلَيْكَ، وَأَلْجَأْتُ ظَهْرِي إِلَيْكَ، رَغْبَةً وَرَهْبَةً إِلَيْكَ، لَا مَلْجَأَ وَلَا مَنْجَا مِنْكَ إِلَّا إِلَيْكَ، آمَنْتُ بِكِتَابِكَ الَّذِي أَنْزَلْتَ، وَبِنَبِيِّكَ الَّذِي أَرْسَلْتَ »**
-
-#### English Translation
-
-**« O Allah, I submit myself entirely to You, I entrust my affair to You, I turn my face toward You, and I rely upon You completely, out of desire for You and fear of You. There is no refuge nor escape from You except to You. I believe in Your Book that You revealed and in Your Prophet whom You sent. »**
+> **🟢 اللَّهُمَّ أَسْلَمْتُ نَفْسِي إِلَيْكَ، وَفَوَّضْتُ أَمْرِي إِلَيْكَ، وَوَجَّهْتُ وَجْهِي إِلَيْكَ، وَأَلْجَأْتُ ظَهْرِي إِلَيْكَ، رَغْبَةً وَرَهْبَةً إِلَيْكَ، لَا مَلْجَأَ وَلَا مَنْجَا مِنْكَ إِلَّا إِلَيْكَ، آمَنْتُ بِكِتَابِكَ الَّذِي أَنْزَلْتَ، وَبِنَبِيِّكَ الَّذِي أَرْسَلْتَ 🟢**
+>
+> **📖 Reference:** [Ṣaḥīḥ al-Bukhārī: 6313]
+>
+> **🔢 Repetitions:** 🟢 **Once (×1)**
 
 #### 📚 Source
 
@@ -219,15 +209,15 @@ Then the Prophet ﷺ said: **« If you should die that night, you will die upon 
 
 ---
 
-### 🔷 Invocation 7: Al-ḥamdu lillāhi alladhī aṭ'amanā
+---
 
-#### Arabic Text with Complete Tashkīl
+## 🤲 ⑦ Invocation 7: Al-ḥamdu lillāhi alladhī aṭ'amanā
 
-**« الْحَمْدُ لِلَّهِ الَّذِي أَطْعَمَنَا وَسَقَانَا، وَكَفَانَا، وَآوَانَا، فَكَمْ مِمَّنْ لَا كَافِيَ لَهُ وَلَا مُؤْوِيَ »**
-
-#### English Translation
-
-**« Praise be to Allah who has fed us and given us drink, sufficed us and sheltered us. How many are there who have no one to suffice them or give them shelter! »**
+> **🟢 الْحَمْدُ لِلَّهِ الَّذِي أَطْعَمَنَا وَسَقَانَا، وَكَفَانَا، وَآوَانَا، فَكَمْ مِمَّنْ لَا كَافِيَ لَهُ وَلَا مُؤْوِيَ 🟢**
+>
+> **📖 Reference:** [Ṣaḥīḥ Muslim: 2715]
+>
+> **🔢 Repetitions:** 🟢 **Once (×1)**
 
 #### 📚 Source
 
@@ -246,11 +236,17 @@ From Anas ibn Mālik — may Allah be pleased with him:
 
 ---
 
-### 🔷 Invocation 8: The Last Two Verses of Sūrat Al-Baqarah
+## 🤲 ⑧ Invocation 8: The Last Two Verses of Sūrat Al-Baqarah
+
+> **🟣 ﴿ آمَنَ الرَّسُولُ بِمَا أُنزِلَ إِلَيْهِ مِن رَّبِّهِ وَالْمُؤْمِنُونَ ۚ كُلٌّ آمَنَ بِاللَّهِ وَمَلَائِكَتِهِ وَكُتُبِهِ وَرُسُلِهِ لَا نُفَرِّقُ بَيْنَ أَحَدٍ مِّنْ رُّسُلِهِ ۚ وَقَالُوا سَمِعْنَا وَأَطَعْنَا ۖ غُفْرَانَكَ رَبَّنَا وَإِلَيْكَ الْمَصِيرُ • لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسْعَهَا ۚ لَهَا مَا كَسَبَتْ وَعَلَيْهَا مَا اكْتَسَبَتْ ۗ رَبَّنَا لَا تُؤَاخِذْنَا إِن نَّسِينَا أَوْ أَخْطَأْنَا ۚ رَبَّنَا وَلَا تَحْمِلْ عَلَيْنَا إِصْرًا كَمَا حَمَلْتَهُ عَلَى الَّذِينَ مِن قَبْلِنَا ۚ رَبَّنَا وَلَا تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا بِهِ ۖ وَاعْفُ عَنَّا وَاغْفِرْ لَنَا وَارْحَمْنَا ۚ أَنتَ مَوْلَانَا فَانصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ ﴾ 🟣**
+>
+> **📖 Reference:** [Al-Baqarah: 285-286]
+>
+> **🔢 Repetitions:** 🟣 **Once (×1)**
 
 #### Arabic Text
 
-**﴿ آمَنَ الرَّسُولُ بِمَا أُنزِلَ إِلَيْهِ مِن رَّبِّهِ وَالْمُؤْمِنُونَ ۚ كُلٌّ آمَنَ بِاللَّهِ وَمَلَائِكَتِهِ وَكُتُبِهِ وَرُسُلِهِ لَا نُفَرِّقُ بَيْنَ أَحَدٍ مِّن رُّسُلِهِ ۚ وَقَالُوا سَمِعْنَا وَأَطَعْنَا ۖ غُفْرَانَكَ رَبَّنَا وَإِلَيْكَ الْمَصِيرُ • لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسْعَهَا ۚ لَهَا مَا كَسَبَتْ وَعَلَيْهَا مَا اكْتَسَبَتْ ۗ رَبَّنَا لَا تُؤَاخِذْنَا إِن نَّسِينَا أَوْ أَخْطَأْنَا ۚ رَبَّنَا وَلَا تَحْمِلْ عَلَيْنَا إِصْرًا كَمَا حَمَلْتَهُ عَلَى الَّذِينَ مِن قَبْلِنَا ۚ رَبَّنَا وَلَا تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا بِهِ ۖ وَاعْفُ عَنَّا وَاغْفِرْ لَنَا وَارْحَمْنَا ۚ أَنتَ مَوْلَانَا فَانصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ ﴾**
+**﴿ آمَنَ الرَّسُولُ بِمَا أُنزِلَ إِلَيْهِ مِن رَّبِّهِ وَالْمُؤْمِنُونَ ۚ كُلٌّ آمَنَ بِاللَّهِ وَمَلَائِكَتِهِ وَكُتُبِهِ وَرُسُلِهِ لَا نُفَرِّقُ بَيْنَ أَحَدٍ مِّنْ رُّسُلِهِ ۚ وَقَالُوا سَمِعْنَا وَأَطَعْنَا ۖ غُفْرَانَكَ رَبَّنَا وَإِلَيْكَ الْمَصِيرُ • لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسْعَهَا ۚ لَهَا مَا كَسَبَتْ وَعَلَيْهَا مَا اكْتَسَبَتْ ۗ رَبَّنَا لَا تُؤَاخِذْنَا إِن نَّسِينَا أَوْ أَخْطَأْنَا ۚ رَبَّنَا وَلَا تَحْمِلْ عَلَيْنَا إِصْرًا كَمَا حَمَلْتَهُ عَلَى الَّذِينَ مِن قَبْلِنَا ۚ رَبَّنَا وَلَا تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا بِهِ ۖ وَاعْفُ عَنَّا وَاغْفِرْ لَنَا وَارْحَمْنَا ۚ أَنتَ مَوْلَانَا فَانصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ ﴾**
 
 [Al-Baqarah: 285-286]
 
@@ -316,7 +312,7 @@ The Prophet ﷺ said:
 
 [Az-Zumar: 42]
 
-**﴿ وَهُوَ الَّذِي يَتَوَفَّاكُم بِاللَّيْلِ وَيَعْلَمُ مَا جَرَحْتُم بِالنَّهَارِ ﴾**
+**﴿ وَهُوَ الَّذي يَتَوَفَّاكُم بِاللَّيْلِ وَيَعْلَمُ مَا جَرَحْتُم بِالنَّهَارِ ﴾**
 
 **« And it is He who takes your souls by night and knows what you have committed by day. »**
 
