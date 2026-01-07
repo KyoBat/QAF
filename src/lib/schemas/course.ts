@@ -27,6 +27,7 @@ export const CourseCategorySchema = z.enum([
   'seerah',     // السيرة
   'arabic',     // اللغة العربية
   'history',    // التاريخ الإسلامي
+  'spirituality', // الروحانيات (invocations, dhikr, etc.)
   'other',      // أخرى
 ])
 
