@@ -75,7 +75,7 @@ export async function filterCourses(filters: CourseFilters): Promise<Course[]> {
 // Get all categories with counts
 export async function getCategoriesWithCounts(): Promise<{ category: CourseCategory; count: number }[]> {
   const courses = await getAllCourses()
-  const categories: CourseCategory[] = ['quran', 'tajweed', 'tafsir', 'hadith', 'fiqh', 'aqeedah', 'seerah', 'arabic', 'history', 'other']
+  const categories: CourseCategory[] = ['quran', 'tajweed', 'tafsir', 'hadith', 'fiqh', 'aqeedah', 'seerah', 'spirituality', 'arabic', 'history', 'other']
   
   return categories.map(category => ({
     category,
