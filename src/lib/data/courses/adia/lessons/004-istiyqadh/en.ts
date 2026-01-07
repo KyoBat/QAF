@@ -11,143 +11,67 @@ export const content = `# 📿 أَدْعِيَةُ الِاسْتِيقَاظِ
 
 ## 📖 The Invocations in This Lesson
 
-### 🔷 Invocation 1: Al-ḥamdu lillāhi alladhī aḥyānā
+## 🤲 ① Invocation 1: Al-ḥamdu lillāhi alladhī aḥyānā
 
-#### Arabic Text with Complete Tashkīl
-
-**« الْحَمْدُ لِلَّهِ الَّذِي أَحْيَانَا بَعْدَ مَا أَمَاتَنَا، وَإِلَيْهِ النُّشُورُ »**
-
-#### English Translation
-
-**« Praise be to Allah who gave us life after causing us to die, and to Him is the resurrection. »**
-
-#### 📚 Source
-
-| Reference | Number | Authenticity |
-|-----------|--------|--------------|
-| **Sahih al-Bukhārī** | 6312, 6314 | ✅ Authentic |
-| **Sahih Muslim** | 2711 | ✅ Authentic |
-
-#### 💎 Meaning of the Invocation
-
-| Expression | Meaning |
-|------------|---------|
-| **Aḥyānā** | He returned our souls to us after sleep |
-| **Amātanā** | Sleep is a minor death |
-| **An-Nushūr** | The resurrection and return to Allah |
-
-From Ḥudhayfah — may Allah be pleased with him — who said:
-
-> The Prophet ﷺ, when he went to his bed at night, would say: **« Bismika Allāhumma amūtu wa aḥyā »**, and when he woke up, he would say: **« Al-ḥamdu lillāhi alladhī aḥyānā ba'da mā amātanā wa ilayhi an-nushūr »**
-
-[Reported by al-Bukhārī: 6312]
+> **🟢 الْحَمْدُ لِلَّهِ الَّذِي أَحْيَانَا بَعْدَ مَا أَمَاتَنَا، وَإِلَيْهِ النُّشُورُ 🟢**
+>
+> **📖 Reference:** [Ṣaḥīḥ al-Bukhārī: 6312]
+>
+> **🔢 Repetitions:** 🟢 **Once (×1)**
 
 ---
 
-### 🔷 Invocation 2: Wiping the Traces of Sleep
+## 🤲 ② Invocation 2: Wiping the Traces of Sleep
 
-From Ibn 'Abbās — may Allah be pleased with them both:
-
-> The Prophet ﷺ spent the night at my aunt Maymūnah's house. The Prophet ﷺ got up, **wiped the traces of sleep from his face with his hand**, then recited the ten final verses of Sūrat Āl 'Imrān.
-
-[Reported by al-Bukhārī: 183, Muslim: 763]
-
----
-
-### 🔷 Invocation 3: Looking at the Sky and Reciting the End of Āl 'Imrān
-
-#### Quranic Text
-
-**﴿ إِنَّ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْضِ وَاخْتِلَافِ اللَّيْلِ وَالنَّهَارِ لَآيَاتٍ لِّأُولِي الْأَلْبَابِ • الَّذِينَ يَذْكُرُونَ اللَّهَ قِيَامًا وَقُعُودًا وَعَلَىٰ جُنُوبِهِمْ وَيَتَفَكَّرُونَ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْضِ رَبَّنَا مَا خَلَقْتَ هَٰذَا بَاطِلًا سُبْحَانَكَ فَقِنَا عَذَابَ النَّارِ ﴾**
-
-[Āl 'Imrān: 190-191... until the end of the surah]
-
-#### English Translation (Verses 190-191)
-
-**« Indeed, in the creation of the heavens and the earth and the alternation of the night and the day are signs for those of understanding. Who remember Allah while standing or sitting or [lying] on their sides and give thought to the creation of the heavens and the earth, [saying], "Our Lord, You did not create this aimlessly; exalted are You [above such a thing]; then protect us from the punishment of the Fire." »**
-
-#### 📚 Source
-
-| Reference | Number | Authenticity |
-|-----------|--------|--------------|
-| **The Noble Qur'an** | Surah Āl 'Imrān: 190-200 | ✅ Qur'an |
-| **Sahih al-Bukhārī** | 183, 4570 | ✅ Authentic |
-| **Sahih Muslim** | 763 | ✅ Authentic |
-
-#### 💎 Merit of These Verses
-
-Ibn 'Abbās — may Allah be pleased with them both — said:
-
-> When the Prophet ﷺ woke up, **he would wipe the traces of sleep from his face with his hand, then recite the ten final verses of Sūrat Āl 'Imrān**
-
-[Reported by al-Bukhārī: 183]
-
-And 'Ā'ishah — may Allah be pleased with her — said:
-
-> **« Woe to the one who recites these verses and does not contemplate them! »**
-
-[Reported by Ibn Ḥibbān]
+> **🔵 The Prophet ﷺ spent the night at my aunt Maymūnah's house. The Prophet ﷺ got up, wiped the traces of sleep from his face with his hand, then recited the ten final verses of Sūrat Āl 'Imrān. 🔵**
+>
+> **📖 Reference:** [Ṣaḥīḥ al-Bukhārī: 183]
+>
+> **🔢 Repetitions:** 🔵 **Once (×1)**
 
 ---
 
-### 🔷 Invocation 4: Lā ilāha illā Allāh waḥdahu (When Waking at Night)
+## 🤲 ③ Invocation 3: Looking at the Sky and Reciting the End of Āl 'Imrān
 
-#### Arabic Text with Complete Tashkīl
-
-**« لَا إِلَٰهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ، وَهُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ، سُبْحَانَ اللَّهِ، وَالْحَمْدُ لِلَّهِ، وَلَا إِلَٰهَ إِلَّا اللَّهُ، وَاللَّهُ أَكْبَرُ، وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ »**
-
-Then say: **« اللَّهُمَّ اغْفِرْ لِي »** (Allāhumma ighfir lī — O Allah, forgive me) or make any supplication, **and it will be answered**. If one then performs ablutions and prays, **his prayer will be accepted**.
-
-#### English Translation
-
-**« There is no deity worthy of worship except Allah alone, without partner. To Him belongs all sovereignty and to Him belongs all praise, and He is over all things competent. Glory be to Allah, and praise be to Allah, and there is no deity worthy of worship except Allah, and Allah is the Greatest, and there is no power nor strength except through Allah. »**
-
-#### 📚 Source
-
-| Reference | Number | Authenticity |
-|-----------|--------|--------------|
-| **Sahih al-Bukhārī** | 1154 | ✅ Authentic |
-
-#### 💎 Immense Merit
-
-From 'Ubādah ibn aṣ-Ṣāmit — may Allah be pleased with him — the Prophet ﷺ said:
-
-> **« Whoever wakes up (ta'ārra) at night and says: "Lā ilāha illā Allāhu waḥdahu lā sharīka lahu, lahu al-mulku wa lahu al-ḥamdu, wa huwa 'alā kulli shay'in qadīr, al-ḥamdu lillāh, wa subḥān Allāh, wa lā ilāha illā Allāh, wa Allāhu akbar, wa lā ḥawla wa lā quwwata illā billāh", then says: "Allāhumma ighfir lī" (O Allah, forgive me) or makes any supplication, he will be answered. If he then performs ablutions and prays, his prayer will be accepted. »**
-
-[Reported by al-Bukhārī: 1154]
-
-**Ta'ārra**: Waking up from sleep at night
+> **🟣 The Prophet ﷺ recited the ten final verses of Sūrat Āl 'Imrān while looking at the sky. 🟣**
+>
+> **📖 Reference:** [Ṣaḥīḥ al-Bukhārī: 183]
+>
+> **🔢 Repetitions:** 🟣 **Once (×1)**
 
 ---
 
-### 🔷 Invocation 5: Upon Seeing a Good Dream
+## 🤲 ④ Invocation 4: Lā ilāha illā Allāh waḥdahu (When Waking at Night)
 
-If a Muslim sees a good dream:
-
-#### Arabic Text
-
-**« الْحَمْدُ لِلَّهِ »**
-
-Then **narrate it to those whom you love**.
-
-#### 📚 Source
-
-| Reference | Number | Authenticity |
-|-----------|--------|--------------|
-| **Sahih al-Bukhārī** | 6985, 7044 | ✅ Authentic |
-| **Sahih Muslim** | 2261 | ✅ Authentic |
-
-#### 💎 What to Do Upon Seeing a Good Dream
-
-The Prophet ﷺ said:
-
-> **« A good dream is from Allah. So if one of you sees something he likes, let him not tell it except to one whom he loves. »**
-
-[Reported by al-Bukhārī: 6985]
+> **🟢 لَا إِلَٰهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ، وَهُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ، سُبْحَانَ اللَّهِ، وَالْحَمْدُ لِلَّهِ، وَلَا إِلَٰهَ إِلَّا اللَّهُ، وَاللَّهُ أَكْبَرُ، وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ 🟢**
+>
+> **📖 Reference:** [Ṣaḥīḥ al-Bukhārī: 1154]
+>
+> **🔢 Repetitions:** 🟢 **Once (×1)**
 
 ---
 
-### 🔷 Invocation 6: Upon Seeing a Nightmare
+## 🤲 ⑤ Invocation 5: Upon Seeing a Good Dream
+
+> **🟡 الْحَمْدُ لِلَّهِ 🟡**
+>
+> **📖 Reference:** [Ṣaḥīḥ al-Bukhārī: 6985]
+>
+> **🔢 Repetitions:** 🟡 **Once (×1)**
+
+---
+
+## 🤲 ⑥ Invocation 6: Upon Seeing a Nightmare
+
+> **🔴 Spit lightly to your left three times and seek refuge in Allah from the devil and the evil of what you saw. 🔴**
+>
+> **📖 Reference:** [Ṣaḥīḥ Muslim: 2261]
+>
+> **🔢 Repetitions:** 🔴 **Three times (×3)**
+
+---
+
+### 🔷 The Complete Method When Seeing a Nightmare
 
 If a Muslim sees a nightmare or a dream he dislikes:
 
@@ -220,7 +144,7 @@ The Prophet ﷺ said:
 
 ### From the Noble Qur'an
 
-**﴿ وَهُوَ الَّذِي يَتَوَفَّاكُم بِاللَّيْلِ وَيَعْلَمُ مَا جَرَحْتُم بِالنَّهَارِ ثُمَّ يَبْعَثُكُمْ فِيهِ لِيُقْضَىٰ أَجَلٌ مُّسَمًّى ۖ ثُمَّ إِلَيْهِ مَرْجِعُكُمْ ثُمَّ يُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ ﴾**
+**﴿ وَهُوَ الَّذي يَتَوَفَّاكُم بِاللَّيْلِ وَيَعْلَمُ مَا جَرَحْتُم بِالنَّهَارِ ثُمَّ يَبْعَثُكُمْ فِيهِ لِيُقْضَىٰ أَجَلٌ مُّسَمًّى ۖ ثُمَّ إِلَيْهِ مَرْجِعُكُمْ ثُمَّ يُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ ﴾**
 
 **« And it is He who takes your souls by night and knows what you have committed by day. Then He revives you therein that a specified term may be fulfilled. Then to Him will be your return; then He will inform you about what you used to do. »**
 
