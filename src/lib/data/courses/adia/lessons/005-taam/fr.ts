@@ -11,13 +11,13 @@ export const content = `# 📿 أَدْعِيَةُ الطَّعَامِ — Inv
 
 ## 📖 Les Invocations de Cette Leçon
 
-### 🔷 Invocation 1 : Bismillāh (Avant le Repas)
+## 🤲 ① Invocation 1 : Bismillāh (Avant le Repas)
 
 #### Texte Arabe avec Tashkīl Complet
 
-**« بِسْمِ اللَّهِ »**
-
-Et s'il ajoute : **« بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ »** (Bismillāhi ar-Raḥmāni ar-Raḥīm), c'est bien.
+> **🟢 « بِسْمِ اللَّهِ » 🟢**
+>
+> **🔢 Répétitions:** 🟢 **Une fois (×1)**
 
 #### Traduction Française
 
@@ -52,11 +52,13 @@ D'après 'Umar ibn Abī Salamah — qu'Allah l'agrée :
 
 ---
 
-### 🔷 Invocation 2 : Si On Oublie la Basmala
+## 🤲 ② Invocation 2 : Si On Oublie la Basmala
 
 #### Texte Arabe avec Tashkīl Complet
 
-**« بِسْمِ اللَّهِ أَوَّلَهُ وَآخِرَهُ »**
+> **🟢 « بِسْمِ اللَّهِ أَوَّلَهُ وَآخِرَهُ » 🟢**
+>
+> **🔢 Répétitions:** 🟢 **Une fois (×1)**
 
 #### Traduction Française
 
@@ -86,11 +88,13 @@ Cette invocation permet de **rattraper** la Basmala oubliée, comme si on avait 
 
 ---
 
-### 🔷 Invocation 3 : Al-ḥamdu lillāh (Après le Repas)
+## 🤲 ③ Invocation 3 : Al-ḥamdu lillāh (Après le Repas)
 
 #### Texte Arabe avec Tashkīl Complet
 
-**« الْحَمْدُ لِلَّهِ الَّذِي أَطْعَمَنَا وَسَقَانَا، وَجَعَلَنَا مُسْلِمِينَ »**
+> **🟢 « الْحَمْدُ لِلَّهِ الَّذِي أَطْعَمَنَا وَسَقَانَا، وَجَعَلَنَا مُسْلِمِينَ » 🟢**
+>
+> **🔢 Répétitions:** 🟢 **Une fois (×1)**
 
 #### Traduction Française
 
@@ -114,11 +118,13 @@ D'après Abū Umāmah — qu'Allah l'agrée :
 
 ---
 
-### 🔷 Invocation 4 : Al-ḥamdu lillāhi ḥamdan kathīran
+## 🤲 ④ Invocation 4 : Al-ḥamdu lillāhi ḥamdan kathīran
 
 #### Texte Arabe avec Tashkīl Complet
 
-**« الْحَمْدُ لِلَّهِ حَمْدًا كَثِيرًا طَيِّبًا مُبَارَكًا فِيهِ، غَيْرَ مَكْفِيٍّ وَلَا مُوَدَّعٍ وَلَا مُسْتَغْنًى عَنْهُ رَبَّنَا »**
+> **🟢 « الْحَمْدُ لِلَّهِ حَمْدًا كَثِيرًا طَيِّبًا مُبَارَكًا فِيهِ، غَيْرَ مَكْفِيٍّ وَلَا مُوَدَّعٍ وَلَا مُسْتَغْنًى عَنْهُ رَبَّنَا » 🟢**
+>
+> **🔢 Répétitions:** 🟢 **Une fois (×1)**
 
 #### Traduction Française
 
@@ -138,11 +144,13 @@ D'après Abū Umāmah — qu'Allah l'agrée :
 
 ---
 
-### 🔷 Invocation 5 : Pour Celui Qui Offre le Repas
+## 🤲 ⑤ Invocation 5 : Pour Celui Qui Offre le Repas
 
 #### Texte Arabe avec Tashkīl Complet
 
-**« اللَّهُمَّ بَارِكْ لَهُمْ فِيمَا رَزَقْتَهُمْ، وَاغْفِرْ لَهُمْ، وَارْحَمْهُمْ »**
+> **🟢 « اللَّهُمَّ بَارِكْ لَهُمْ فِيمَا رَزَقْتَهُمْ، وَاغْفِرْ لَهُمْ، وَارْحَمْهُمْ » 🟢**
+>
+> **🔢 Répétitions:** 🟢 **Une fois (×1)**
 
 #### Traduction Française
 
@@ -162,11 +170,13 @@ D'après 'Abdullāh ibn Busr — qu'Allah l'agrée :
 
 ---
 
-### 🔷 Invocation 6 : Pour la Boisson (Lait)
+## 🤲 ⑥ Invocation 6 : Pour la Boisson (Lait)
 
 #### Texte Arabe avec Tashkīl Complet
 
-**« اللَّهُمَّ بَارِكْ لَنَا فِيهِ وَزِدْنَا مِنْهُ »**
+> **🟢 « اللَّهُمَّ بَارِكْ لَنَا فِيهِ وَزِدْنَا مِنْهُ » 🟢**
+>
+> **🔢 Répétitions:** 🟢 **Une fois (×1)**
 
 #### Traduction Française
 
@@ -188,11 +198,13 @@ D'après Ibn 'Abbās — qu'Allah les agrée :
 
 ---
 
-### 🔷 Invocation 7 : En Rompant le Jeûne
+## 🤲 ⑦ Invocation 7 : En Rompant le Jeûne
 
 #### Texte Arabe avec Tashkīl Complet
 
-**« ذَهَبَ الظَّمَأُ، وَابْتَلَّتِ الْعُرُوقُ، وَثَبَتَ الْأَجْرُ إِنْ شَاءَ اللَّهُ »**
+> **🟢 « ذَهَبَ الظَّمَأُ، وَابْتَلَّتِ الْعُرُوقُ، وَثَبَتَ الْأَجْرُ إِنْ شَاءَ اللَّهُ » 🟢**
+>
+> **🔢 Répétitions:** 🟢 **Une fois (×1)**
 
 #### Traduction Française
 
