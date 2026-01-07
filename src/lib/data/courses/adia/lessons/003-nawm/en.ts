@@ -5,7 +5,7 @@
 
 export const content = `# 📿 أَذْكَارُ النَّوْمِ — Sleep Invocations
 
-> **The Prophet ﷺ said**: « When you go to bed, recite Āyat al-Kursī. Allah will protect you and no devil will approach you until morning » [Al-Bukhārī: 2311]
+> **The Prophet ﷺ said**: « When you go to your bed, recite Āyat al-Kursī. A guardian from Allah will remain with you, and no devil will approach you until morning » [Al-Bukhārī: 2311]
 
 ---
 
@@ -30,27 +30,33 @@ export const content = `# 📿 أَذْكَارُ النَّوْمِ — Sleep I
 
 #### 💎 Merit of This Invocation
 
-From Ḥudhayfah — may Allah be pleased with him:
+From Ḥudhayfah — may Allah be pleased with him — who said:
 
-> The Prophet ﷺ, when he went to bed at night, would put his hand under his cheek and say: **« Bismika Allāhumma amūtu wa aḥyā »**. And when he woke up, he would say: **« Al-ḥamdu lillāhi alladhī aḥyānā ba'da mā amātanā wa ilayhi an-nushūr »**
+> The Prophet ﷺ, when he went to his bed at night, would place his hand under his cheek, then say: **« Bismika Allāhumma amūtu wa aḥyā »**. And when he woke up, he would say: **« Al-ḥamdu lillāhi alladhī aḥyānā ba'da mā amātanā wa ilayhi an-nushūr »**
 
 [Reported by al-Bukhārī: 6312]
 
-#### 🌟 Meanings
+#### 🌟 Meanings of the Invocation
 
-- **Bismika**: I begin my sleep by invoking Your name
-- **Amūtu**: Sleep resembles death
-- **Wa aḥyā**: Awakening resembles resurrection
+| Expression | Meaning |
+|------------|---------|
+| **Bismika** | I begin my sleep by invoking Your name |
+| **Amūtu** | Sleep is similar to death |
+| **Wa aḥyā** | Awakening resembles resurrection |
 
 ---
 
-### 🔷 Invocation 2: Āyat al-Kursī
+### 🔷 Invocation 2: Āyat al-Kursī (The Throne Verse)
 
 #### Arabic Text
 
 **﴿ اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ ۚ لَا تَأْخُذُهُ سِنَةٌ وَلَا نَوْمٌ ۚ لَّهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۗ مَن ذَا الَّذِي يَشْفَعُ عِندَهُ إِلَّا بِإِذْنِهِ ۚ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ ۖ وَلَا يُحِيطُونَ بِشَيْءٍ مِّنْ عِلْمِهِ إِلَّا بِمَا شَاءَ ۚ وَسِعَ كُرْسِيُّهُ السَّمَاوَاتِ وَالْأَرْضَ ۖ وَلَا يَئُودُهُ حِفْظُهُمَا ۚ وَهُوَ الْعَلِيُّ الْعَظِيمُ ﴾**
 
 [Al-Baqarah: 255]
+
+#### English Translation
+
+**« Allah! There is no deity worthy of worship except Him, the Ever-Living, the Sustainer of existence. Neither drowsiness overtakes Him nor sleep. To Him belongs whatever is in the heavens and whatever is on the earth. Who is it that can intercede with Him except by His permission? He knows what is before them and what will be after them, and they encompass not a thing of His knowledge except for what He wills. His Kursī extends over the heavens and the earth, and their preservation tires Him not. And He is the Most High, the Most Great. »**
 
 #### 📚 Source
 
@@ -59,19 +65,19 @@ From Ḥudhayfah — may Allah be pleased with him:
 | **The Noble Qur'an** | Surah Al-Baqarah: 255 | ✅ Qur'an |
 | **Sahih al-Bukhārī** | 2311 | ✅ Authentic |
 
-#### 💎 Protection All Night
+#### 💎 Protection Throughout the Night
 
 The devil said to Abū Hurayrah — may Allah be pleased with him:
 
-> **« When you go to bed, recite Āyat al-Kursī. Allah will protect you and no devil will approach you until morning. »**
+> **« When you go to your bed, recite Āyat al-Kursī. A guardian from Allah will remain with you, and no devil will approach you until morning. »**
 
-The Prophet ﷺ said: **« He told you the truth although he is a liar. »**
+The Prophet ﷺ said: **« He spoke the truth to you, though he is a liar. »**
 
 [Reported by al-Bukhārī: 2311]
 
 ---
 
-### 🔷 Invocation 3: The Three Last Surahs
+### 🔷 Invocation 3: The Three Protecting Surahs (Al-Mu'awwidhāt)
 
 #### Arabic Text
 
@@ -80,6 +86,20 @@ The Prophet ﷺ said: **« He told you the truth although he is a liar. »**
 **﴿ قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ • مِن شَرِّ مَا خَلَقَ • وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ • وَمِن شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ • وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ ﴾**
 
 **﴿ قُلْ أَعُوذُ بِرَبِّ النَّاسِ • مَلِكِ النَّاسِ • إِلَٰهِ النَّاسِ • مِن شَرِّ الْوَسْوَاسِ الْخَنَّاسِ • الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ • مِنَ الْجِنَّةِ وَالنَّاسِ ﴾**
+
+#### English Translation
+
+**Sūrat Al-Ikhlāṣ (The Sincerity)**
+
+**« Say: "He is Allah, [Who is] One, Allah, the Eternal Refuge. He neither begets nor is born, nor is there to Him any equivalent." »**
+
+**Sūrat Al-Falaq (The Daybreak)**
+
+**« Say: "I seek refuge in the Lord of daybreak, from the evil of that which He created, and from the evil of darkness when it settles, and from the evil of the blowers in knots, and from the evil of an envier when he envies." »**
+
+**Sūrat An-Nās (Mankind)**
+
+**« Say: "I seek refuge in the Lord of mankind, the Sovereign of mankind, the God of mankind, from the evil of the retreating whisperer - who whispers [evil] into the breasts of mankind - from among the jinn and mankind." »**
 
 #### 📚 Source
 
@@ -92,16 +112,16 @@ The Prophet ﷺ said: **« He told you the truth although he is a liar. »**
 
 From 'Ā'ishah — may Allah be pleased with her:
 
-> **« The Prophet ﷺ, every night before going to bed, would join his hands together, blow into them, and recite: "Qul huwa Allāhu aḥad", "Qul a'ūdhu birabbi al-falaq", and "Qul a'ūdhu birabbi an-nās". Then he would wipe his hands over his body starting from his head, face, and front of his body. He would do this three times. »**
+> **« The Prophet ﷺ, every night when going to his bed, would join his hands together, blow into them lightly, and recite: "Qul huwa Allāhu aḥad", "Qul a'ūdhu birabbi al-falaq", and "Qul a'ūdhu birabbi an-nās". Then he would wipe his hands over as much of his body as he could reach, beginning with his head, face, and the front of his body. He would do this three times. »**
 
 [Reported by al-Bukhārī: 5017]
 
-**The Method**:
-1. Join the two hands
-2. Blow into them (gentle blow without saliva)
+**The Prophetic Method**:
+1. Join both hands together
+2. Blow into them lightly (gentle breath without saliva)
 3. Recite the three surahs
-4. Wipe the hands over the body starting from the head
-5. Repeat three times
+4. Wipe the hands over the body, starting from the head
+5. Repeat this entire process three times
 
 ---
 
@@ -111,7 +131,7 @@ From 'Ā'ishah — may Allah be pleased with her:
 
 **« اللَّهُمَّ قِنِي عَذَابَكَ يَوْمَ تَبْعَثُ عِبَادَكَ »**
 
-**(Three times)**
+**(Say three times)**
 
 #### English Translation
 
@@ -125,11 +145,11 @@ From 'Ā'ishah — may Allah be pleased with her:
 | **Sunan at-Tirmidhī** | 3398 | ✅ Good and authentic |
 | **Musnad Ahmad** | 27634 | ✅ Authentic |
 
-#### 💎 Prophetic Sunnah
+#### 💎 A Prophetic Sunnah
 
 From Ḥafṣah — may Allah be pleased with her:
 
-> The Prophet ﷺ, when he wanted to rest, would put his right hand under his cheek and say: **« Allāhumma qinī 'adhābaka yawma tab'athu 'ibādak »** three times.
+> The Prophet ﷺ, when he wanted to go to sleep, would place his right hand under his cheek, then say: **« Allāhumma qinī 'adhābaka yawma tab'athu 'ibādak »** three times.
 
 [Reported by Abū Dāwūd and authenticated by al-Albānī]
 
@@ -145,6 +165,14 @@ From Ḥafṣah — may Allah be pleased with her:
 
 **« اللَّهُ أَكْبَرُ »** (34 times)
 
+#### English Translation
+
+**« Glory be to Allah »** (33 times)
+
+**« Praise be to Allah »** (33 times)
+
+**« Allah is the Greatest »** (34 times)
+
 #### 📚 Source
 
 | Reference | Number | Authenticity |
@@ -156,13 +184,13 @@ From Ḥafṣah — may Allah be pleased with her:
 
 From 'Alī — may Allah be pleased with him:
 
-> Fāṭimah — may Allah be pleased with her — complained about what her hand suffered from the grinding stone. The Prophet ﷺ came and sat between them, then said: **« Shall I not inform you of something better than what you have asked? When you go to bed, glorify Allah 33 times, praise Him 33 times, and proclaim His greatness 34 times. This is better for you than a servant. »**
+> Fāṭimah — may Allah be pleased with her — complained to the Prophet ﷺ about the pain in her hands from grinding with the millstone. Some captives were brought to the Prophet ﷺ, so she went to ask for a servant but didn't find him. She mentioned this to 'Ā'ishah. When the Prophet ﷺ came, 'Ā'ishah told him about it. The Prophet ﷺ came to us after we had gone to our beds. We went to stand up, but he said: **« Stay where you are. »** Then he came and sat between us until I felt the coolness of his feet on my chest. He said: **« Shall I not direct you to something better than what you asked me for? When you go to your bed, glorify Allah 33 times, praise Him 33 times, and proclaim His greatness 34 times. This is better for you than a servant. »**
 
 [Reported by al-Bukhārī: 5361, Muslim: 2727]
 
 ---
 
-### 🔷 Invocation 6: Allāhumma aslamtu nafsī ilayk
+### 🔷 Invocation 6: Allāhumma aslamtu nafsī ilayka
 
 #### Arabic Text with Complete Tashkīl
 
@@ -170,7 +198,7 @@ From 'Alī — may Allah be pleased with him:
 
 #### English Translation
 
-**« O Allah, I submit myself to You, I entrust my affair to You, I turn my face to You, and I take You as my refuge, desiring and fearing You. There is no refuge nor salvation from You except to You. I believe in Your Book that You revealed and in Your Prophet that You sent. »**
+**« O Allah, I submit myself entirely to You, I entrust my affair to You, I turn my face toward You, and I rely upon You completely, out of desire for You and fear of You. There is no refuge nor escape from You except to You. I believe in Your Book that You revealed and in Your Prophet whom You sent. »**
 
 #### 📚 Source
 
@@ -183,9 +211,9 @@ From 'Alī — may Allah be pleased with him:
 
 The Prophet ﷺ said to Al-Barā' ibn 'Āzib — may Allah be pleased with him:
 
-> **« When you go to bed, perform ablutions as for prayer, then lie on your right side and say: [the invocation]... »**
+> **« When you go to your bed, perform ablutions as you would for prayer, then lie on your right side and say: [the invocation]... »**
 
-Then the Prophet ﷺ said: **« If you die that night, you die upon the Fiṭrah (primordial nature). Make it the last words you utter. »**
+Then the Prophet ﷺ said: **« If you should die that night, you will die upon the Fiṭrah (primordial Islamic nature). Make these the last words you speak [before sleeping]. »**
 
 [Reported by al-Bukhārī: 6313, Muslim: 2710]
 
@@ -199,7 +227,7 @@ Then the Prophet ﷺ said: **« If you die that night, you die upon the Fiṭrah
 
 #### English Translation
 
-**« Praise be to Allah who fed us and gave us drink, and sufficed us and sheltered us. How many are there who have no one to suffice them nor shelter them! »**
+**« Praise be to Allah who has fed us and given us drink, sufficed us and sheltered us. How many are there who have no one to suffice them or give them shelter! »**
 
 #### 📚 Source
 
@@ -212,13 +240,13 @@ Then the Prophet ﷺ said: **« If you die that night, you die upon the Fiṭrah
 
 From Anas ibn Mālik — may Allah be pleased with him:
 
-> The Prophet ﷺ, when he went to bed, would say: **« Al-ḥamdu lillāhi alladhī aṭ'amanā wa saqānā, wa kafānā, wa āwānā, fa kam mimman lā kāfiya lahu wa lā mu'wī »**
+> The Prophet ﷺ, when he went to his bed, would say: **« Al-ḥamdu lillāhi alladhī aṭ'amanā wa saqānā, wa kafānā, wa āwānā, fa kam mimman lā kāfiya lahu wa lā mu'wī »**
 
 [Reported by Muslim: 2715]
 
 ---
 
-### 🔷 Invocation 8: The Last Two Verses of Al-Baqarah
+### 🔷 Invocation 8: The Last Two Verses of Sūrat Al-Baqarah
 
 #### Arabic Text
 
@@ -226,120 +254,152 @@ From Anas ibn Mālik — may Allah be pleased with him:
 
 [Al-Baqarah: 285-286]
 
+#### English Translation
+
+**« The Messenger has believed in what was revealed to him from his Lord, and [so have] the believers. All of them have believed in Allah and His angels and His books and His messengers, [saying], "We make no distinction between any of His messengers." And they say, "We hear and we obey. [We seek] Your forgiveness, our Lord, and to You is the [final] destination."**
+
+**Allah does not charge a soul except [with that within] its capacity. It will have [the consequence of] what [good] it has gained, and it will bear [the consequence of] what [evil] it has earned. "Our Lord, do not impose blame upon us if we have forgotten or erred. Our Lord, and lay not upon us a burden like that which You laid upon those before us. Our Lord, and burden us not with that which we have no ability to bear. And pardon us; and forgive us; and have mercy upon us. You are our protector, so give us victory over the disbelieving people." »**
+
 #### 📚 Source
 
 | Reference | Number | Authenticity |
 |-----------|--------|--------------|
-| **The Noble Qur'an** | Surah Al-Baqarah: verses 285-286 | ✅ Qur'an |
+| **The Noble Qur'an** | Surah Al-Baqarah: 285-286 | ✅ Qur'an |
 | **Sahih al-Bukhārī** | 5008, 5009 | ✅ Authentic |
 | **Sahih Muslim** | 808 | ✅ Authentic |
 
-#### 💎 They Suffice the Muslim
+#### 💎 They Suffice the Believer
 
 The Prophet ﷺ said:
 
-> **« Whoever recites the last two verses of Surah Al-Baqarah at night, they will suffice him. »**
+> **« Whoever recites the last two verses of Sūrat Al-Baqarah at night, they will suffice him. »**
 
 [Reported by al-Bukhārī: 5009, Muslim: 808]
 
 **Meaning of "they will suffice him"** according to scholars:
-- They protect him from devils
-- They preserve him from evils
-- They replace the night prayer
-- They protect him from all harm
+- They will suffice him from devils
+- They will suffice him from calamities
+- They will suffice him as a replacement for night prayer
+- They will suffice him from all evil
 
 ---
 
 ## 🎓 Importance of Sleep Invocations
 
-### 📌 Scholars' Sayings
+### 📌 Scholars' Statements
 
-| Scholar | Quote |
-|---------|-------|
-| **Ibn al-Qayyim** رحمه الله | *"Sleep is a small death. Whoever remembers Allah before sleeping will be resurrected remembering Allah."* |
-| **Ibn Bāz** رحمه الله | *"Sleep invocations are a fortress for the sleeper against the harms of devils and nightmares."* |
-| **Ibn 'Uthaymīn** رحمه الله | *"Whoever sleeps remembering Allah wakes up remembering Allah."* |
+| Scholar | Statement |
+|---------|-----------|
+| **Ibn al-Qayyim** رحمه الله | *« Sleep is a minor death. Whoever remembers Allah before sleeping will be resurrected upon remembrance of Him. »* |
+| **Ibn Bāz** رحمه الله | *« Sleep invocations are a fortress for the sleeper against the evil of devils and nightmares. »* |
+| **Ibn 'Uthaymīn** رحمه الله | *« Whoever sleeps while remembering Allah will wake up remembering Him. »* |
 
 ### 📌 Benefits of Sleep Invocations
 
 | Benefit | Evidence |
 |---------|----------|
-| 🛡️ **Protection from devils** | "No devil will approach you until morning" |
+| 🛡️ **Protection from devils** | « No devil will approach you until morning » |
 | 💤 **Peaceful sleep** | Psychological tranquility and serenity |
-| ✨ **Upon the Fiṭrah** | "If you die, you die upon the Fiṭrah" |
-| 🌟 **Reward of dhikr** | Remembering Allah in your last words |
-| 🤲 **Exaucement** | Moment of exaucement before sleep |
+| ✨ **Dying upon Fiṭrah** | « If you die, you die upon the Fiṭrah » |
+| 🌟 **Reward of dhikr** | Remembering Allah in one's last conscious words |
+| 🤲 **Answered supplications** | A time of acceptance before sleep |
+
+---
+
+## 📚 Evidence from the Qur'an and Sunnah
+
+### From the Noble Qur'an
+
+**﴿ اللَّهُ يَتَوَفَّى الْأَنفُسَ حِينَ مَوْتِهَا وَالَّتِي لَمْ تَمُتْ فِي مَنَامِهَا ۖ فَيُمْسِكُ الَّتِي قَضَىٰ عَلَيْهَا الْمَوْتَ وَيُرْسِلُ الْأُخْرَىٰ إِلَىٰ أَجَلٍ مُّسَمًّى ۚ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِّقَوْمٍ يَتَفَكَّرُونَ ﴾**
+
+**« Allah takes the souls at the time of their death, and those that do not die [He takes] during their sleep. Then He keeps those for which He has decreed death and releases the others for a specified term. Indeed in that are signs for a people who give thought. »**
+
+[Az-Zumar: 42]
+
+**﴿ وَهُوَ الَّذِي يَتَوَفَّاكُم بِاللَّيْلِ وَيَعْلَمُ مَا جَرَحْتُم بِالنَّهَارِ ﴾**
+
+**« And it is He who takes your souls by night and knows what you have committed by day. »**
+
+[Al-An'ām: 60]
+
+### From the Prophetic Sunnah
+
+From Ibn 'Umar — may Allah be pleased with them both — the Messenger of Allah ﷺ said:
+
+> **« When one of you goes to his bed, let him shake out his bedding with the inside of his lower garment, for he does not know what may have fallen onto it after him. Then let him lie on his right side. »**
+
+[Reported by al-Bukhārī: 6320, Muslim: 2714]
 
 ---
 
 ## 🌍 Practical Application
 
-### 🛏️ Suggested Order of Sleep Invocations
+### 🛏️ Suggested Sequence for Sleep Invocations
 
-| Order | Invocation | Moment |
+| Order | Invocation | Timing |
 |-------|------------|--------|
-| 1️⃣ | Dust the bed | When entering bed |
-| 2️⃣ | Ablutions | Before sleeping |
-| 3️⃣ | Lie on right side | Sleeping position |
+| 1️⃣ | Shake out the bedding with one's garment | Upon entering the bed |
+| 2️⃣ | Perform ablutions | Before sleep |
+| 3️⃣ | Lie on the right side | Sleeping position |
 | 4️⃣ | « Bismika Allāhumma amūtu wa aḥyā » | After lying down |
 | 5️⃣ | Āyat al-Kursī | Once |
-| 6️⃣ | Three last surahs with blowing | Three times |
+| 6️⃣ | The three protecting surahs with blowing and wiping | Three times |
 | 7️⃣ | « Allāhumma qinī 'adhābaka... » | Three times |
 | 8️⃣ | Tasbīḥ, Taḥmīd, and Takbīr | 33+33+34 |
-| 9️⃣ | « Allāhumma aslamtu nafsī ilayk... » | Last words |
-| 🔟 | Last two verses of Al-Baqarah | If possible |
+| 9️⃣ | « Allāhumma aslamtu nafsī ilayka... » | As the last words |
+| 🔟 | Last two verses of Al-Baqarah | If able |
 
 ⏱️ **Total time**: 5-10 minutes
 
 ---
 
-## ⚠️ Precautions and Errors
+## ⚠️ Precautions and Common Mistakes
 
-### 🚫 Common Mistakes
+### 🚫 Common Errors
 
-| Mistake | Correction |
-|---------|------------|
-| ❌ Sleeping without invocations | ✅ Preserve the invocations |
-| ❌ Sleeping on stomach | ✅ Sleep on right side |
-| ❌ Listening to recording | ✅ Recite yourself |
-| ❌ Sleeping in major impurity | ✅ Wash or at least perform ablutions |
-| ❌ Staying up unnecessarily | ✅ Sleep early |
+| Error | Correction |
+|-------|------------|
+| ❌ Sleeping without invocations | ✅ Maintain these invocations |
+| ❌ Sleeping on one's stomach | ✅ Sleep on the right side |
+| ❌ Playing recorded invocations | ✅ Recite them yourself |
+| ❌ Sleeping in a state of major ritual impurity | ✅ Perform ghusl or at least wuḍū' |
+| ❌ Staying up late without benefit | ✅ Sleep early |
 
 ---
 
 ## ❓ Frequently Asked Questions
 
-### « Are ablutions before sleep obligatory? »
+### « Is wuḍū' before sleep obligatory? »
 
-**Answer**: Strongly recommended, especially if in major impurity.
+**Answer**: It is strongly recommended (sunnah mu'akkadah), especially for one who is in a state of major ritual impurity.
 
 ---
 
-### « Should I say all invocations every night? »
+### « Should I recite all these invocations every night? »
 
-**Answer**: Yes, ideally preserve all. If difficult, at minimum:
+**Answer**: Yes, ideally maintain all of them. If that is difficult, then at minimum:
 - « Bismika Allāhumma amūtu wa aḥyā »
 - Āyat al-Kursī
-- The three last surahs
+- The three protecting surahs
 
 ---
 
-### « If I forget and fall asleep, should I wake up? »
+### « If I forget the invocations and fall asleep, should I get up? »
 
-**Answer**: If you remember before falling asleep, recite them. If you sleep, no problem.
+**Answer**: If you remember before falling asleep completely, recite them. If you have already fallen asleep, there is no blame.
 
 ---
 
 ## 🎯 Weekly Application
 
-### 📌 Challenge of This Week
+### 📌 This Week's Challenge
 
-**Goal**: Sleep with complete invocations **7 days** consecutively.
+**Goal**: Sleep with all the complete sleep invocations for **7 consecutive days**.
 
 ### 📋 Tracking Table
 
-| Day | ✅ Done | Time | Note |
-|-----|---------|------|------|
+| Day | ✅ Done | Time | Notes |
+|-----|---------|------|-------|
 | Sunday | ☐ | __:__ | |
 | Monday | ☐ | __:__ | |
 | Tuesday | ☐ | __:__ | |
@@ -350,13 +410,13 @@ The Prophet ﷺ said:
 
 ---
 
-## 📝 Summary
+## 📝 Summary of Sleep Invocations
 
-| # | Invocation | Number |
-|---|------------|--------|
+| # | Invocation | Frequency |
+|---|------------|-----------|
 | 1️⃣ | **Bismika Allāhumma amūtu wa aḥyā** | 1 |
 | 2️⃣ | **Āyat al-Kursī** | 1 |
-| 3️⃣ | **The three last surahs** | 3 |
+| 3️⃣ | **The three protecting surahs** | 3 |
 | 4️⃣ | **Allāhumma qinī 'adhābaka** | 3 |
 | 5️⃣ | **Tasbīḥ, Taḥmīd, and Takbīr** | 100 |
 | 6️⃣ | **Allāhumma aslamtu nafsī** | 1 |
@@ -365,22 +425,22 @@ The Prophet ﷺ said:
 
 ---
 
-## 📚 Sources
+## 📚 Sources and References
 
-1. **Ṣaḥīḥ al-Bukhārī** — Book of invocations
-2. **Ṣaḥīḥ Muslim** — Book of remembrance and supplication
-3. **Ḥiṣn al-Muslim** — Sa'īd al-Qaḥṭānī
-4. **Al-Adhkār** — An-Nawawī
+1. **Ṣaḥīḥ al-Bukhārī** — Book of Supplications
+2. **Ṣaḥīḥ Muslim** — Book of Dhikr and Supplication
+3. **Ḥiṣn al-Muslim** — Sa'īd ibn 'Alī al-Qaḥṭānī
+4. **Al-Adhkār** — Imām an-Nawawī
 
 ---
 
 **واللهُ أعلم**
 
-**اللَّهُمَّ اجْعَلْ نَوْمَنَا رَاحَةً لَنَا مِنْ كُلِّ خَيْرٍ**
+**اللَّهُمَّ اجْعَلْ نَوْمَنَا رَاحَةً لَنَا وَقُوَّةً عَلَى طَاعَتِكَ**
 
-**« O Allah, make our sleep a rest for us from all good »**
+**« O Allah, make our sleep a rest for us and a strength for obedience to You »**
 
 ---
 
-*Made with Allah's grace*
+*Completed by the grace of Allah*
 `

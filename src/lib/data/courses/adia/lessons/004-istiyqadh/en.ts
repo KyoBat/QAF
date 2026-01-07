@@ -3,7 +3,7 @@
  * English content
  */
 
-export const content = `# 📿 أَدْعِيَةُ الِاسْتِيقَاظِ — Waking Invocations
+export const content = `# 📿 أَدْعِيَةُ الِاسْتِيقَاظِ — Waking Up Invocations
 
 > **The Prophet ﷺ said**: « Al-ḥamdu lillāhi alladhī aḥyānā ba'da mā amātanā wa ilayhi an-nushūr » [Al-Bukhārī: 6312]
 
@@ -32,23 +32,23 @@ export const content = `# 📿 أَدْعِيَةُ الِاسْتِيقَاظِ
 
 | Expression | Meaning |
 |------------|---------|
-| **Aḥyānā** | He returned our souls after sleep |
-| **Amātanā** | Sleep is a small death |
+| **Aḥyānā** | He returned our souls to us after sleep |
+| **Amātanā** | Sleep is a minor death |
 | **An-Nushūr** | The resurrection and return to Allah |
 
-From Ḥudhayfah — may Allah be pleased with him:
+From Ḥudhayfah — may Allah be pleased with him — who said:
 
-> The Prophet ﷺ, when he went to bed at night, said: **« Bismika Allāhumma amūtu wa aḥyā »**, and when he woke up, he said: **« Al-ḥamdu lillāhi alladhī aḥyānā ba'da mā amātanā wa ilayhi an-nushūr »**
+> The Prophet ﷺ, when he went to his bed at night, would say: **« Bismika Allāhumma amūtu wa aḥyā »**, and when he woke up, he would say: **« Al-ḥamdu lillāhi alladhī aḥyānā ba'da mā amātanā wa ilayhi an-nushūr »**
 
 [Reported by al-Bukhārī: 6312]
 
 ---
 
-### 🔷 Invocation 2: Wiping the Sleep from the Face
+### 🔷 Invocation 2: Wiping the Traces of Sleep
 
-From Ibn 'Abbās — may Allah be pleased with them:
+From Ibn 'Abbās — may Allah be pleased with them both:
 
-> The Prophet ﷺ spent the night at my aunt Maymūnah's. The Prophet ﷺ got up, **wiped the sleep from his face with his hand**, then recited the ten final verses from Surah Āl 'Imrān.
+> The Prophet ﷺ spent the night at my aunt Maymūnah's house. The Prophet ﷺ got up, **wiped the traces of sleep from his face with his hand**, then recited the ten final verses of Sūrat Āl 'Imrān.
 
 [Reported by al-Bukhārī: 183, Muslim: 763]
 
@@ -60,11 +60,11 @@ From Ibn 'Abbās — may Allah be pleased with them:
 
 **﴿ إِنَّ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْضِ وَاخْتِلَافِ اللَّيْلِ وَالنَّهَارِ لَآيَاتٍ لِّأُولِي الْأَلْبَابِ • الَّذِينَ يَذْكُرُونَ اللَّهَ قِيَامًا وَقُعُودًا وَعَلَىٰ جُنُوبِهِمْ وَيَتَفَكَّرُونَ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْضِ رَبَّنَا مَا خَلَقْتَ هَٰذَا بَاطِلًا سُبْحَانَكَ فَقِنَا عَذَابَ النَّارِ ﴾**
 
-[Āl 'Imrān: 190-191... to the end of the surah]
+[Āl 'Imrān: 190-191... until the end of the surah]
 
-#### English Translation (190-191)
+#### English Translation (Verses 190-191)
 
-**« Indeed, in the creation of the heavens and earth and the alternation of the night and the day are signs for those of understanding. Who remember Allah while standing or sitting or [lying] on their sides and give thought to the creation of the heavens and the earth, [saying], "Our Lord, You did not create this aimlessly; exalted are You [above such a thing]; then protect us from the punishment of the Fire." »**
+**« Indeed, in the creation of the heavens and the earth and the alternation of the night and the day are signs for those of understanding. Who remember Allah while standing or sitting or [lying] on their sides and give thought to the creation of the heavens and the earth, [saying], "Our Lord, You did not create this aimlessly; exalted are You [above such a thing]; then protect us from the punishment of the Fire." »**
 
 #### 📚 Source
 
@@ -76,31 +76,31 @@ From Ibn 'Abbās — may Allah be pleased with them:
 
 #### 💎 Merit of These Verses
 
-Ibn 'Abbās — may Allah be pleased with them — said:
+Ibn 'Abbās — may Allah be pleased with them both — said:
 
-> When the Prophet ﷺ woke up, **he wiped the sleep from his face with his hand, then recited the ten final verses of Surah Āl 'Imrān**
+> When the Prophet ﷺ woke up, **he would wipe the traces of sleep from his face with his hand, then recite the ten final verses of Sūrat Āl 'Imrān**
 
 [Reported by al-Bukhārī: 183]
 
 And 'Ā'ishah — may Allah be pleased with her — said:
 
-> **« Woe to those who recite these verses but do not contemplate them! »**
+> **« Woe to the one who recites these verses and does not contemplate them! »**
 
 [Reported by Ibn Ḥibbān]
 
 ---
 
-### 🔷 Invocation 4: Lā ilāha illā Allāh waḥdahu
+### 🔷 Invocation 4: Lā ilāha illā Allāh waḥdahu (When Waking at Night)
 
 #### Arabic Text with Complete Tashkīl
 
 **« لَا إِلَٰهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ، وَهُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ، سُبْحَانَ اللَّهِ، وَالْحَمْدُ لِلَّهِ، وَلَا إِلَٰهَ إِلَّا اللَّهُ، وَاللَّهُ أَكْبَرُ، وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ »**
 
-Then say: **« Allāhumma ighfir lī »** (O Allah, forgive me) or supplicate, **for he will be answered**. If he performs ablutions and prays, **his prayer will be accepted**.
+Then say: **« اللَّهُمَّ اغْفِرْ لِي »** (Allāhumma ighfir lī — O Allah, forgive me) or make any supplication, **and it will be answered**. If one then performs ablutions and prays, **his prayer will be accepted**.
 
 #### English Translation
 
-**« There is no deity worthy of worship except Allah alone, without partner. To Him belongs the dominion and to Him belongs the praise, and He is over all things competent. Glory be to Allah, praise be to Allah, there is no deity worthy of worship except Allah, Allah is the Greatest, and there is no power nor strength except through Allah. »**
+**« There is no deity worthy of worship except Allah alone, without partner. To Him belongs all sovereignty and to Him belongs all praise, and He is over all things competent. Glory be to Allah, and praise be to Allah, and there is no deity worthy of worship except Allah, and Allah is the Greatest, and there is no power nor strength except through Allah. »**
 
 #### 📚 Source
 
@@ -110,192 +110,254 @@ Then say: **« Allāhumma ighfir lī »** (O Allah, forgive me) or supplicate, *
 
 #### 💎 Immense Merit
 
-The Prophet ﷺ said:
+From 'Ubādah ibn aṣ-Ṣāmit — may Allah be pleased with him — the Prophet ﷺ said:
 
-> **« Whoever wakes up at night and says: "Lā ilāha illā Allāhu waḥdahu lā sharīka lahu, lahu al-mulku wa lahu al-ḥamdu, wa huwa 'alā kulli shay'in qadīr, subḥān Allāh, wal-ḥamdu lillāh, wa lā ilāha illā Allāh, wa Allāhu akbar, wa lā ḥawla wa lā quwwata illā billāh", then says: "Allāhumma ighfir lī" (O Allah, forgive me) or supplicates, he will be answered. If he performs ablutions and prays, his prayer will be accepted. »**
+> **« Whoever wakes up (ta'ārra) at night and says: "Lā ilāha illā Allāhu waḥdahu lā sharīka lahu, lahu al-mulku wa lahu al-ḥamdu, wa huwa 'alā kulli shay'in qadīr, al-ḥamdu lillāh, wa subḥān Allāh, wa lā ilāha illā Allāh, wa Allāhu akbar, wa lā ḥawla wa lā quwwata illā billāh", then says: "Allāhumma ighfir lī" (O Allah, forgive me) or makes any supplication, he will be answered. If he then performs ablutions and prays, his prayer will be accepted. »**
 
 [Reported by al-Bukhārī: 1154]
 
+**Ta'ārra**: Waking up from sleep at night
+
 ---
 
-### 🔷 Invocation 5: Supplication for Dreams
+### 🔷 Invocation 5: Upon Seeing a Good Dream
 
-#### A. For Good Dreams
+If a Muslim sees a good dream:
 
-From Abū Sa'īd al-Khudrī — may Allah be pleased with him:
+#### Arabic Text
 
-> I heard the Messenger of Allah ﷺ say: **« If one of you sees a dream that he likes, it is from Allah. So let him praise Allah for it and let him tell it. »**
+**« الْحَمْدُ لِلَّهِ »**
 
-[Reported by al-Bukhārī: 6985, Muslim: 2263]
+Then **narrate it to those whom you love**.
 
-**Translation**: « If one of you sees a dream that he likes, it is from Allah. So let him praise Allah for it and let him narrate it. »
+#### 📚 Source
 
-#### B. For Nightmares
+| Reference | Number | Authenticity |
+|-----------|--------|--------------|
+| **Sahih al-Bukhārī** | 6985, 7044 | ✅ Authentic |
+| **Sahih Muslim** | 2261 | ✅ Authentic |
+
+#### 💎 What to Do Upon Seeing a Good Dream
 
 The Prophet ﷺ said:
 
-> **« If one of you has a nightmare that he dislikes, let him spit lightly to his left three times, let him seek refuge in Allah from the devil three times, let him turn over to the other side, and let him not tell anyone about it. It will not harm him. »**
+> **« A good dream is from Allah. So if one of you sees something he likes, let him not tell it except to one whom he loves. »**
+
+[Reported by al-Bukhārī: 6985]
+
+---
+
+### 🔷 Invocation 6: Upon Seeing a Nightmare
+
+If a Muslim sees a nightmare or a dream he dislikes:
+
+#### What to Do
+
+1. **Spit lightly to his left three times** (gentle breath without saliva)
+2. **Seek refuge in Allah from the devil three times**
+3. **Turn over to the other side** from which he was lying
+4. **Do not tell it to anyone**
+5. **If he wishes, he may get up and pray**
+
+#### 📚 Source
+
+| Reference | Number | Authenticity |
+|-----------|--------|--------------|
+| **Sahih Muslim** | 2261, 2262 | ✅ Authentic |
+| **Sahih al-Bukhārī** | 3292, 7044 | ✅ Authentic |
+
+#### 💎 It Will Not Harm Him
+
+The Prophet ﷺ said:
+
+> **« A righteous dream is from Allah, and a bad dream (ḥulm) is from the devil. So if one of you sees something he dislikes, let him spit lightly to his left three times and seek refuge in Allah from the devil. Then it will not harm him. »**
 
 [Reported by Muslim: 2261]
 
-**The Actions**:
-1. 💨 Spit lightly to the left (3 times)
-2. 🤲 Say: « A'ūdhu billāhi min ash-shayṭān ar-rajīm » (3 times)
-3. 🔄 Turn to the other side
-4. 🤫 Do not narrate the dream
-5. 🕌 Wake up and pray if desired
+And in another narration:
+
+> **« And let him turn over to the other side from which he was lying. »**
+
+[Reported by Muslim: 2262]
 
 ---
 
-### 🔷 Invocation 6: Supplication for Ablutions
+## 🎓 Etiquettes of Waking Up from Sleep
 
-When waking up to perform ablutions:
+### 📌 The Prophetic Sequence
 
-**« الْحَمْدُ لِلَّهِ الَّذِي أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ »**
-
-Then perform the ablutions with their known supplications.
-
----
-
-## 🎓 Importance of Waking Invocations
-
-### 📌 Scholars' Sayings
-
-| Scholar | Quote |
-|---------|-------|
-| **Ibn al-Qayyim** رحمه الله | *"Waking is a resurrection after the death of sleep. Whoever wakes up remembering Allah begins his day with Allah."* |
-| **Ibn Bāz** رحمه الله | *"Whoever wakes up with dhikr, Allah will preserve him throughout his day."* |
-| **Ibn 'Uthaymīn** رحمه الله | *"Waking invocations purify the heart and prepare the Muslim for a blessed day."* |
-
-### 📌 Wisdoms of Waking Invocations
-
-| Wisdom | Explanation |
-|--------|-------------|
-| 🌅 **Gratitude for life** | Thanking Allah for returning the soul |
-| 🔄 **Reminder of resurrection** | Waking resembles the Day of Judgment |
-| 📖 **Contemplation of creation** | Reflection on Allah's signs |
-| 🤲 **Moment of exaucement** | Between sleep and Fajr prayer |
-| 💪 **Spiritual preparation** | Starting the day with Allah |
+| Order | Action | Evidence |
+|-------|--------|----------|
+| 1️⃣ | **Wipe the sleep from the face** | The action of the Prophet ﷺ |
+| 2️⃣ | **Say: Al-ḥamdu lillāhi alladhī aḥyānā** | Hadith of Ḥudhayfah |
+| 3️⃣ | **Look at the sky** | Hadith of Ibn 'Abbās |
+| 4️⃣ | **Recite the last ten verses of Āl 'Imrān** | Hadith of Ibn 'Abbās |
+| 5️⃣ | **Perform ablutions** | The Sunnah |
+| 6️⃣ | **Use the siwāk** | « Were it not that I would be overburdening my ummah... » |
 
 ---
 
-## 🌍 Modern Practical Application
+### 📌 The Three Types of Dreams
 
-### 🛏️ Suggested Order of Waking Invocations
+The Prophet ﷺ said:
 
-| Order | Invocation | Moment |
-|-------|------------|--------|
-| 1️⃣ | « Al-ḥamdu lillāhi alladhī aḥyānā... » | Immediately upon waking |
-| 2️⃣ | Wipe sleep from face | With the hand |
-| 3️⃣ | Recite end of Āl 'Imrān | While looking at the sky |
-| 4️⃣ | « Lā ilāha illā Allāh waḥdahu... » | Before getting up |
-| 5️⃣ | Get up for ablutions | Before Fajr |
-| 6️⃣ | Qiyām al-Layl | If waking at night |
+> **« Dreams are of three types:**
+> **1. A dream from Allah,**
+> **2. A dream from one's own thoughts (what one talks to himself about),**
+> **3. A frightening dream from the devil. »**
 
-⏱️ **Total time**: 3-5 minutes
+[Reported by at-Tirmidhī and authenticated by al-Albānī]
+
+| Type | Source | What to Do |
+|------|--------|------------|
+| **Dream from Allah** | Allah the Most High | Thank and praise Allah |
+| **Self-talk** | From one's thoughts | Pay no attention to it |
+| **From the devil** | Frightening and disturbing | Spit lightly and seek refuge |
 
 ---
 
-## 📚 Proofs from the Qur'an and Sunnah
+## 📚 Evidence from the Qur'an and Sunnah
 
 ### From the Noble Qur'an
 
-**﴿ الَّذِينَ يَذْكُرُونَ اللَّهَ قِيَامًا وَقُعُودًا وَعَلَىٰ جُنُوبِهِمْ ﴾**
+**﴿ وَهُوَ الَّذِي يَتَوَفَّاكُم بِاللَّيْلِ وَيَعْلَمُ مَا جَرَحْتُم بِالنَّهَارِ ثُمَّ يَبْعَثُكُمْ فِيهِ لِيُقْضَىٰ أَجَلٌ مُّسَمًّى ۖ ثُمَّ إِلَيْهِ مَرْجِعُكُمْ ثُمَّ يُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ ﴾**
 
-**« Those who remember Allah while standing, sitting, and on their sides »**
-[Āl 'Imrān: 191]
+**« And it is He who takes your souls by night and knows what you have committed by day. Then He revives you therein that a specified term may be fulfilled. Then to Him will be your return; then He will inform you about what you used to do. »**
+
+[Al-An'ām: 60]
+
+**﴿ اللَّهُ يَتَوَفَّى الْأَنفُسَ حِينَ مَوْتِهَا وَالَّتِي لَمْ تَمُتْ فِي مَنَامِهَا ۖ فَيُمْسِكُ الَّتِي قَضَىٰ عَلَيْهَا الْمَوْتَ وَيُرْسِلُ الْأُخْرَىٰ إِلَىٰ أَجَلٍ مُّسَمًّى ۚ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِّقَوْمٍ يَتَفَكَّرُونَ ﴾**
+
+**« Allah takes the souls at the time of their death, and those that do not die [He takes] during their sleep. Then He keeps those for which He has decreed death and releases the others for a specified term. Indeed in that are signs for a people who give thought. »**
+
+[Az-Zumar: 42]
+
+---
+
+## 🌍 Practical Application
+
+### ⏰ The Blessed Morning Routine
+
+| Time | Action | Benefit |
+|------|--------|---------|
+| **Immediately** | Al-ḥamdu lillāhi alladhī aḥyānā | Gratitude for the blessing of life |
+| **Next** | Wipe the sleep from the face | Awakening oneself |
+| **Then** | Look at the sky | Remember the greatness of the Creator |
+| **Then** | Recite the end of Āl 'Imrān | Contemplation of the Qur'an |
+| **Before Fajr** | Ablutions and prayer | Beginning the day with worship |
+
+### 📱 Helpful Applications
+
+| Application | Benefit |
+|-------------|---------|
+| **Fajr Alarm** | To wake up for Fajr prayer |
+| **Ḥiṣn al-Muslim** | To read the waking invocations |
+| **Noble Qur'an** | To recite the end of Āl 'Imrān |
 
 ---
 
 ## ⚠️ Precautions and Common Mistakes
 
-### 🚫 Common Mistakes
+### 🚫 Common Errors
 
-| Mistake | Correction |
-|---------|------------|
-| ❌ Waking without remembering | ✅ Start with « Al-ḥamdu lillāh... » |
-| ❌ Checking phone first | ✅ Remember Allah first |
-| ❌ Not contemplating verses | ✅ Reflect on their meaning |
-| ❌ Forgetting Fajr prayer | ✅ Prepare immediately |
+| Error | Correction |
+|-------|------------|
+| ❌ Waking without dhikr | ✅ Praise Allah immediately upon waking |
+| ❌ Ignoring nightmares | ✅ Apply the Sunnah (spitting and seeking refuge) |
+| ❌ Sharing dreams on social media | ✅ Don't tell them, or only tell those you love |
+| ❌ Hitting the "snooze" button | ✅ Get up immediately |
+| ❌ Interpreting dreams by unqualified people | ✅ Ask trustworthy scholars |
 
 ---
 
 ## ❓ Frequently Asked Questions
 
-### « Should I say the invocations every time I wake up? »
+### « When do I say the waking invocation? »
 
-**Answer**: Yes, whether at night, morning, or even from a nap. The Sunnah is to always start with dhikr.
-
----
-
-### « What should I do if I have a nightmare? »
-
-**Answer**:
-1. Spit lightly to the left (3 times)
-2. Say: « A'ūdhu billāhi min ash-shayṭān ar-rajīm » (3 times)
-3. Turn to the other side
-4. Do not narrate the dream
-5. Wake up and pray two rak'ahs if desired
+**Answer**: Immediately upon waking, whether it is:
+- For Fajr
+- From nighttime sleep
+- From an afternoon nap
 
 ---
 
-### « Can I recite only part of the end of Āl 'Imrān? »
+### « Is a righteous dream part of revelation? »
 
-**Answer**: Yes, the minimum is verses 190-191. Reciting to the end (verse 200) is better.
+**Answer**: Yes, the Prophet ﷺ said:
+
+> **« A righteous dream is one forty-sixth part of prophethood. »**
+
+[Reported by al-Bukhārī: 6989]
+
+---
+
+### « If I see a nightmare, should I get up to pray? »
+
+**Answer**: It is **recommended** that you get up and pray. The Prophet ﷺ said:
+
+> **« If one sees a dream he dislikes, let him get up and pray. »**
+
+[Reported by Muslim: 2263]
+
+---
+
+### « Is it permissible to interpret dreams? »
+
+**Answer**: Yes, but only by trustworthy and knowledgeable scholars. Ibn Sīrīn — may Allah have mercy on him — said:
+
+> **« Do not tell your dream except to a scholar or a sincere advisor. »**
 
 ---
 
 ## 🎯 Weekly Application
 
-### 📌 Challenge of This Week
+### 📌 This Week's Challenge
 
-**Goal**: Wake up with complete invocations **7 days** consecutively.
+**Goal**: Wake up with the waking invocations for **7 consecutive days**.
 
 ### 📋 Tracking Table
 
-| Day | ✅ Done | Time | Note |
-|-----|---------|------|------|
-| Sunday | ☐ | __:__ | |
-| Monday | ☐ | __:__ | |
-| Tuesday | ☐ | __:__ | |
-| Wednesday | ☐ | __:__ | |
-| Thursday | ☐ | __:__ | |
-| Friday | ☐ | __:__ | |
-| Saturday | ☐ | __:__ | |
+| Day | ✅ Said the invocation | Time | Prayed Fajr |
+|-----|------------------------|------|-------------|
+| Sunday | ☐ | __:__ | ☐ |
+| Monday | ☐ | __:__ | ☐ |
+| Tuesday | ☐ | __:__ | ☐ |
+| Wednesday | ☐ | __:__ | ☐ |
+| Thursday | ☐ | __:__ | ☐ |
+| Friday | ☐ | __:__ | ☐ |
+| Saturday | ☐ | __:__ | ☐ |
 
 ---
 
-## 📝 Summary
+## 📝 Summary of Waking Invocations
 
-| # | Invocation | Number | Merit |
-|---|------------|--------|-------|
-| 1️⃣ | **Al-ḥamdu lillāhi alladhī aḥyānā** | 1 | Gratitude for life |
-| 2️⃣ | **Wipe sleep from face** | 1 | Prophetic Sunnah |
-| 3️⃣ | **End of Āl 'Imrān (190-200)** | 1 | Contemplation and reflection |
-| 4️⃣ | **Lā ilāha illā Allāh...** | 1 | Guaranteed exaucement |
-| 5️⃣ | **Invocations according to dream** | Variable | Protection or gratitude |
-
-**⏱️ Total time**: About 3-5 minutes
+| # | Invocation | Situation |
+|---|------------|-----------|
+| 1️⃣ | **Al-ḥamdu lillāhi alladhī aḥyānā** | Immediately upon waking |
+| 2️⃣ | **Wipe the sleep from the face** | After waking up |
+| 3️⃣ | **End of Āl 'Imrān** | After looking at the sky |
+| 4️⃣ | **Lā ilāha illā Allāh...** | If one wakes up at night |
+| 5️⃣ | **Al-ḥamdu lillāh** | Upon seeing a good dream |
+| 6️⃣ | **Spitting and seeking refuge** | Upon seeing a nightmare |
 
 ---
 
 ## 📚 Sources and References
 
-1. **Ṣaḥīḥ al-Bukhārī** — Book of invocations
-2. **Ṣaḥīḥ Muslim** — Book of remembrance and supplication
+1. **Ṣaḥīḥ al-Bukhārī** — Book of Supplications and Dream Interpretation
+2. **Ṣaḥīḥ Muslim** — Book of Dhikr and Dreams
 3. **Ḥiṣn al-Muslim** — Sa'īd ibn 'Alī al-Qaḥṭānī
-4. **Al-Adhkār** — The Imām an-Nawawī
-5. **Sharḥ Riyāḍ aṣ-Ṣāliḥīn** — Ibn 'Uthaymīn
+4. **Al-Adhkār** — Imām an-Nawawī
 
 ---
 
 **واللهُ أعلم**
 
-**اللَّهُمَّ اجْعَلْنَا مِمَّنْ يَذْكُرُكَ قِيَامًا وَقُعُودًا وَعَلَىٰ جُنُوبِهِمْ**
+**اللَّهُمَّ اجْعَلْ أَوَّلَ يَوْمِنَا صَلَاحًا، وَأَوْسَطَهُ فَلَاحًا، وَآخِرَهُ نَجَاحًا**
 
-**« O Allah, make us among those who remember You standing, sitting, and on their sides »**
+**« O Allah, make the beginning of our day righteousness, its middle success, and its end achievement »**
 
 ---
 
-*Made with Allah's grace*
+*Completed by the grace of Allah*
 `
