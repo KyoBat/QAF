@@ -94,3 +94,33 @@ export const adiaModule3Meta: CourseMeta = {
   createdAt: '2026-01-07T00:00:00.000Z',
   updatedAt: '2026-01-07T00:00:00.000Z',
 }
+
+/**
+ * Module 4: Invocations Spirituelles Profondes
+ * 3 leçons sur les invocations spirituelles : dhikr, repentir et invocations des prophètes
+ */
+export const adiaModule4Meta: CourseMeta = {
+  id: 'course-013d',
+  slug: 'invocations-spirituelles',
+  title: {
+    fr: 'Invocations Spirituelles Profondes',
+    ar: 'الأدعية الروحانية العميقة',
+    en: 'Deep Spiritual Supplications',
+  },
+  description: {
+    fr: '3 leçons profondes sur les invocations spirituelles : dhikr et glorification, repentir et demande de pardon, et les invocations du Prophète Ibrahim. Élevez votre spiritualité avec les invocations les plus puissantes.',
+    ar: '3 دروس عميقة في الأدعية الروحانية: الذكر والتسبيح، التوبة والاستغفار، وأدعية النبي إبراهيم. ارتقِ بروحانيتك بأقوى الأدعية.',
+    en: '3 profound lessons on spiritual supplications: dhikr and glorification, repentance and seeking forgiveness, and Prophet Ibrahim\'s invocations. Elevate your spirituality with the most powerful invocations.',
+  },
+  category: 'spirituality',
+  level: 'intermediate',
+  duration: '2h',
+  instructor: 'TahaLearn Academy',
+  image: '/images/courses/adia.svg',
+  tags: ['invocations', 'dua', 'adhkar', 'dhikr', 'repentance', 'prophets', 'ibrahim', 'spiritual'],
+  featured: true,
+  published: true,
+  resources: [],
+  createdAt: '2026-01-07T00:00:00.000Z',
+  updatedAt: '2026-01-07T00:00:00.000Z',
+}

@@ -1,10 +1,10 @@
 /**
  * Cours Invocations - Les Invocations Authentiques du Musulman
- * Export centralisé des Modules 1, 2 et 3
+ * Export centralisé des Modules 1, 2, 3 et 4
  */
 
 import { Course } from '../types'
-import { adiaModule1Meta, adiaModule2Meta, adiaModule3Meta } from './meta'
+import { adiaModule1Meta, adiaModule2Meta, adiaModule3Meta, adiaModule4Meta } from './meta'
 import { lesson001 } from './lessons/001-sabah'
 import { lesson002 } from './lessons/002-masaa'
 import { lesson003 } from './lessons/003-nawm'
@@ -17,6 +17,9 @@ import { lesson009 } from './lessons/009-karab'
 import { lesson010 } from './lessons/010-ilm'
 import { lesson011 } from './lessons/011-sihha'
 import { lesson012 } from './lessons/012-usra'
+import { lesson013 } from './lessons/013-dhikr'
+import { lesson014 } from './lessons/014-tawba'
+import { lesson015 } from './lessons/015-ibrahim'
 
 /**
  * Module 1: Invocations Quotidiennes
@@ -57,5 +60,18 @@ export const adiaModule3Course: Course = {
     lesson010,
     lesson011,
     lesson012,
+  ],
+}
+
+/**
+ * Module 4: Invocations Spirituelles Profondes
+ * 3 leçons sur les invocations spirituelles
+ */
+export const adiaModule4Course: Course = {
+  ...adiaModule4Meta,
+  lessons: [
+    lesson013,
+    lesson014,
+    lesson015,
   ],
 }
