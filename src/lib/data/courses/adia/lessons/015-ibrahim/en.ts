@@ -1,5 +1,6 @@
 /**
  * Authentic Supplications - Lesson 015: Comprehensive and Global Supplications
+ */
 export const content = `# 🤲 Comprehensive Supplications of Ibrahim (AS)
 
 > "And among them are those who say, 'Our Lord, give us in this world [that which is] good and in the Hereafter [that which is] good and protect us from the punishment of the Fire.'" (Qur'an 2:201)
