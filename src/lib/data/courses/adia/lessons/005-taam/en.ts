@@ -11,11 +11,13 @@ export const content = `# 📿 أَدْعِيَةُ الطَّعَامِ — Mea
 
 ## 📖 The Invocations in This Lesson
 
-### 🔷 Invocation 1: Bismillāh (Before Eating)
+## 🤲 ① Invocation 1: Bismillāh (Before Eating)
 
-#### Arabic Text with Complete Tashkīl
-
-**« بِسْمِ اللَّهِ »**
+> **🟢 بِسْمِ اللَّهِ 🟢**
+>
+> **📖 Reference:** [Ṣaḥīḥ al-Bukhārī: 5376]
+>
+> **🔢 Repetitions:** 🟢 **Once (×1)**
 
 And if one adds: **« بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ »** (Bismillāhi ar-Raḥmāni ar-Raḥīm), it is good.
 
@@ -52,11 +54,13 @@ From 'Umar ibn Abī Salamah — may Allah be pleased with him — who said:
 
 ---
 
-### 🔷 Invocation 2: If One Forgets the Basmala
+## 🤲 ② Invocation 2: If One Forgets the Basmala
 
-#### Arabic Text with Complete Tashkīl
-
-**« بِسْمِ اللَّهِ أَوَّلَهُ وَآخِرَهُ »**
+> **🔵 بِسْمِ اللَّهِ أَوَّلَهُ وَآخِرَهُ 🔵**
+>
+> **📖 Reference:** [Sunan Abī Dāwūd: 3767]
+>
+> **🔢 Repetitions:** 🔵 **Once (×1)**
 
 #### English Translation
 
@@ -82,7 +86,13 @@ From 'Ā'ishah — may Allah be pleased with her — the Messenger of Allah ﷺ 
 
 ---
 
-### 🔷 Invocation 3: Al-ḥamdu lillāh (After Eating)
+## 🤲 ③ Invocation 3: Al-ḥamdu lillāh (After Eating)
+
+> **🟡 الْحَمْدُ لِلَّهِ الَّذِي أَطْعَمَنَا وَسَقَانَا، وَجَعَلَنَا مُسْلِمِينَ 🟡**
+>
+> **📖 Reference:** [Sunan Abī Dāwūd: 3850]
+>
+> **🔢 Repetitions:** 🟡 **Once (×1)**
 
 #### Arabic Text with Complete Tashkīl
 
@@ -110,7 +120,13 @@ From Abū Umāmah — may Allah be pleased with him:
 
 ---
 
-### 🔷 Invocation 4: Al-ḥamdu lillāhi ḥamdan kathīran
+## 🤲 ④ Invocation 4: Al-ḥamdu lillāhi ḥamdan kathīran
+
+> **🟣 الْحَمْدُ لِلَّهِ حَمْدًا كَثِيرًا طَيِّبًا مُبَارَكًا فِيهِ، غَيْرَ مَكْفِيٍّ وَلَا مُوَدَّعٍ وَلَا مُسْتَغْنًى عَنْهُ رَبَّنَا 🟣**
+>
+> **📖 Reference:** [Ṣaḥīḥ al-Bukhārī: 5458]
+>
+> **🔢 Repetitions:** 🟣 **Once (×1)**
 
 #### Arabic Text with Complete Tashkīl
 
@@ -128,7 +144,7 @@ From Abū Umāmah — may Allah be pleased with him:
 
 #### 💎 Blessed Praise
 
-From Abū Umāmah — may Allah be pleased with him — who said:
+From Abū Umāhah — may Allah be pleased with him — who said:
 
 > The Prophet ﷺ, when his meal was cleared away, would say: **« Al-ḥamdu lillāhi ḥamdan kathīran ṭayyiban mubārakan fīhi, ghayra makfiyyin wa lā muwadda'in wa lā mustaghnan 'anhu rabbanā »**
 
@@ -144,11 +160,13 @@ From Abū Umāmah — may Allah be pleased with him — who said:
 
 ---
 
-### 🔷 Invocation 5: For the Host
+## 🤲 ⑤ Invocation 5: For the Host
 
-#### Arabic Text with Complete Tashkīl
-
-**« اللَّهُمَّ بَارِكْ لَهُمْ فِيمَا رَزَقْتَهُمْ، وَاغْفِرْ لَهُمْ، وَارْحَمْهُمْ »**
+> **🟢 اللَّهُمَّ بَارِكْ لَهُمْ فِيمَا رَزَقْتَهُمْ، وَاغْفِرْ لَهُمْ، وَارْحَمْهُمْ 🟢**
+>
+> **📖 Reference:** [Ṣaḥīḥ Muslim: 2042]
+>
+> **🔢 Repetitions:** 🟢 **Once (×1)**
 
 #### English Translation
 
@@ -170,7 +188,13 @@ From 'Abdullāh ibn Busr — may Allah be pleased with him:
 
 ---
 
-### 🔷 Invocation 6: For the Fasting Person When Present at a Meal Without Breaking Fast
+## 🤲 ⑥ Invocation 6: For the Fasting Person When Present at a Meal Without Breaking Fast
+
+> **🔵 السَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ 🔵**
+>
+> **📖 Reference:** [Ṣaḥīḥ Muslim: 2043]
+>
+> **🔢 Repetitions:** 🔵 **Once (×1)**
 
 #### Arabic Text with Complete Tashkīl
 
@@ -197,36 +221,6 @@ From Anas ibn Mālik — may Allah be pleased with him:
 > The Prophet ﷺ came to Sa'd ibn 'Ubādah who brought bread and olive oil. He ate, then the Prophet ﷺ said: **« Afṭara 'indakumu aṣ-ṣā'imūn, wa akala ṭa'āmakumu al-abrār, wa ṣallat 'alaykumu al-malā'ikah »**
 
 [Reported by Abū Dāwūd and authenticated by al-Albānī]
-
----
-
-### 🔷 Invocation 7: When Drinking Milk
-
-#### Arabic Text with Complete Tashkīl
-
-**« اللَّهُمَّ بَارِكْ لَنَا فِيهِ، وَزِدْنَا مِنْهُ »**
-
-#### English Translation
-
-**« O Allah, bless it for us and increase it for us. »**
-
-#### 📚 Source
-
-| Reference | Number | Authenticity |
-|-----------|--------|--------------|
-| **Sunan Abī Dāwūd** | 3730 | ✅ Authentic |
-| **Sunan at-Tirmidhī** | 3455 | ✅ Good |
-| **Musnad Ahmad** | 8711 | ✅ Authentic |
-
-Graded as good (ḥasan) by al-Albānī in *Ṣaḥīḥ Abī Dāwūd*.
-
-#### 💎 Milk is Blessed
-
-From Ibn 'Abbās — may Allah be pleased with them both — the Messenger of Allah ﷺ said:
-
-> **« Whoever is fed food by Allah, let him say: "Allāhumma bārik lanā fīhi wa aṭ'imnā khayran minhu" (O Allah, bless it for us and feed us better than it). And whoever is given milk to drink by Allah, let him say: "Allāhumma bārik lanā fīhi wa zidnā minhu" (O Allah, bless it for us and increase it for us), for I do not know of anything that can replace both food and drink except milk. »**
-
-[Reported by Abū Dāwūd, at-Tirmidhī, and authenticated by al-Albānī]
 
 ---
 
