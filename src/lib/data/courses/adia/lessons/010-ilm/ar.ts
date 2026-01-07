@@ -3,7 +3,7 @@
  * المحتوى بالعربية
  */
 
-export const content = `# 📖 أَدْعِيَةُ الْهِدَايَةِ وَالْعِلْمِ — Invocations pour la Guidance et la Science
+export const content = `# 📖 أَدْعِيَةُ الْهِدَايَةِ وَالْعِلْمِ 
 
 > **قال الله تعالى**: ﴿ وَقُل رَّبِّ زِدْنِي عِلْمًا ﴾ [طه: 114]
 
