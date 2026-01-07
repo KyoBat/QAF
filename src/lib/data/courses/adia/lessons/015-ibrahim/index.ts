@@ -4,6 +4,8 @@
  */
 
 import { content as arContent } from './ar';
+import { content as frContent } from './fr';
+import { content as enContent } from './en';
 
 export const lesson015 = {
   id: 'adia-015',
@@ -22,7 +24,7 @@ export const lesson015 = {
   duration: '22 دقيقة',
   content: {
     ar: arContent,
-    fr: arContent, // TODO: À traduire
-    en: arContent, // TODO: À traduire
+    fr: frContent,
+    en: enContent,
   },
 };
