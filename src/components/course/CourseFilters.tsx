@@ -29,14 +29,11 @@ interface CourseFiltersProps {
 // Labels pour les catégories
 const categories: { value: CourseCategory | 'all'; labels: Record<string, string> }[] = [
   { value: 'all', labels: { fr: 'Toutes les catégories', ar: 'جميع التصنيفات', en: 'All Categories' } },
-  { value: 'quran', labels: { fr: 'Coran', ar: 'القرآن', en: 'Quran' } },
-  { value: 'tajweed', labels: { fr: 'Tajweed', ar: 'التجويد', en: 'Tajweed' } },
-  { value: 'tafsir', labels: { fr: 'Tafsir', ar: 'التفسير', en: 'Tafsir' } },
   { value: 'hadith', labels: { fr: 'Hadith', ar: 'الحديث', en: 'Hadith' } },
   { value: 'fiqh', labels: { fr: 'Fiqh', ar: 'الفقه', en: 'Fiqh' } },
   { value: 'aqeedah', labels: { fr: 'Aqeedah', ar: 'العقيدة', en: 'Aqeedah' } },
   { value: 'seerah', labels: { fr: 'Seerah', ar: 'السيرة', en: 'Seerah' } },
-  { value: 'arabic', labels: { fr: 'Langue Arabe', ar: 'اللغة العربية', en: 'Arabic Language' } },
+  { value: 'spirituality', labels: { fr: 'Spiritualité', ar: 'الروحانيات', en: 'Spirituality' } },
   { value: 'history', labels: { fr: 'Histoire', ar: 'التاريخ', en: 'History' } },
 ]
 
