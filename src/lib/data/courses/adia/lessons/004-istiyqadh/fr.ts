@@ -11,11 +11,13 @@ export const content = `# 📿 أَدْعِيَةُ الِاسْتِيقَاظِ
 
 ## 📖 Les Invocations de Cette Leçon
 
-### 🔷 Invocation 1 : Al-ḥamdu lillāhi alladhī aḥyānā
+## 🤲 ① Invocation 1 : Al-ḥamdu lillāhi alladhī aḥyānā
 
 #### Texte Arabe avec Tashkīl Complet
 
-**« الْحَمْدُ لِلَّهِ الَّذِي أَحْيَانَا بَعْدَ مَا أَمَاتَنَا، وَإِلَيْهِ النُّشُورُ »**
+> **🟢 « الْحَمْدُ لِلَّهِ الَّذِي أَحْيَانَا بَعْدَ مَا أَمَاتَنَا، وَإِلَيْهِ النُّشُورُ » 🟢**
+>
+> **🔢 Répétitions:** 🟢 **Une fois (×1)**
 
 #### Traduction Française
 
@@ -44,9 +46,11 @@ D'après Ḥudhayfah — qu'Allah l'agrée :
 
 ---
 
-### 🔷 Invocation 2 : Essuyer les Traces du Sommeil
+## 🤲 ② Invocation 2 : Essuyer les Traces du Sommeil
 
-D'après Ibn 'Abbās — qu'Allah les agrée :
+> **🟢 Action : Essuyer les traces du sommeil de son visage avec la main 🟢**
+>
+> **🔢 Répétitions:** 🟢 **Une fois (×1)**
 
 > Le Prophète ﷺ passa la nuit chez ma tante Maymūnah. Le Prophète ﷺ se leva, **essuya les traces du sommeil de son visage avec sa main**, puis récita les dix derniers versets de la sourate Āl 'Imrān.
 
@@ -54,13 +58,15 @@ D'après Ibn 'Abbās — qu'Allah les agrée :
 
 ---
 
-### 🔷 Invocation 3 : Regarder le Ciel et Réciter la Fin de Āl 'Imrān
+## 🤲 ③ Invocation 3 : Regarder le Ciel et Réciter la Fin de Āl 'Imrān
 
 #### Texte Coranique
 
-**﴿ إِنَّ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْضِ وَاخْتِلَافِ اللَّيْلِ وَالنَّهَارِ لَآيَاتٍ لِّأُولِي الْأَلْبَابِ • الَّذِينَ يَذْكُرُونَ اللَّهَ قِيَامًا وَقُعُودًا وَعَلَىٰ جُنُوبِهِمْ وَيَتَفَكَّرُونَ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْضِ رَبَّنَا مَا خَلَقْتَ هَٰذَا بَاطِلًا سُبْحَانَكَ فَقِنَا عَذَابَ النَّارِ ﴾**
-
-[Āl 'Imrān: 190-191... jusqu'à la fin de la sourate]
+> **🟢 ﴿ إِنَّ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْضِ وَاخْتِلَافِ اللَّيْلِ وَالنَّهَارِ لَآيَاتٍ لِّأُولِي الْأَلْبَابِ • الَّذِينَ يَذْكُرُونَ اللَّهَ قِيَامًا وَقُعُودًا وَعَلَىٰ جُنُوبِهِمْ وَيَتَفَكَّرُونَ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْضِ رَبَّنَا مَا خَلَقْتَ هَٰذَا بَاطِلًا سُبْحَانَكَ فَقِنَا عَذَابَ النَّارِ ﴾ 🟢**
+>
+> **📖 Référence:** [Āl 'Imrān: 190-191... jusqu'à la fin de la sourate]
+>
+> **🔢 Répétitions:** 🟢 **Une fois (×1)**
 
 #### Traduction Française (190-191)
 
@@ -90,13 +96,13 @@ Ibn 'Abbās — qu'Allah les agrée — a dit :
 
 ---
 
-### 🔷 Invocation 4 : Lā ilāha illā Allāh waḥdahu
+## 🤲 ④ Invocation 4 : Lā ilāha illā Allāh waḥdahu
 
 #### Texte Arabe avec Tashkīl Complet
 
-**« لَا إِلَٰهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ، وَهُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ، سُبْحَانَ اللَّهِ، وَالْحَمْدُ لِلَّهِ، وَلَا إِلَٰهَ إِلَّا اللَّهُ، وَاللَّهُ أَكْبَرُ، وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ »**
-
-Puis il dit : **« Allāhumma ighfir lī »** (Ô Allah, pardonne-moi) ou invoque, **et il sera exaucé**. S'il fait ses ablutions et prie, **sa prière sera acceptée**.
+> **🟢 « لَا إِلَٰهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ، وَهُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ، سُبْحَانَ اللَّهِ، وَالْحَمْدُ لِلَّهِ، وَلَا إِلَٰهَ إِلَّا اللَّهُ، وَاللَّهُ أَكْبَرُ، وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ » 🟢**
+>
+> **🔢 Répétitions:** 🟢 **Une fois (×1)**
 
 #### Traduction Française
 
@@ -118,42 +124,29 @@ Le Prophète ﷺ a dit :
 
 ---
 
-### 🔷 Invocation 5 : Invocation en Cas de Rêve
+## 🤲 ⑤ Invocation 5 : Invocation en Cas de Rêve
 
 #### A. En Cas de Bon Rêve
 
-عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ رضي الله عنه قَالَ: سَمِعْتُ رَسُولَ اللَّهِ ﷺ يَقُولُ:
-
-> **« إِذَا رَأَى أَحَدُكُمْ رُؤْيَا يُحِبُّهَا فَإِنَّمَا هِيَ مِنَ اللَّهِ، فَلْيَحْمَدِ اللَّهَ عَلَيْهَا وَلْيُحَدِّثْ بِهَا »**
-
-[Rapporté par al-Bukhārī: 6985, Muslim: 2263]
-
-**Traduction** : « Si l'un de vous fait un rêve qu'il aime, c'est d'Allah. Qu'il loue Allah pour cela et qu'il le raconte. »
+> **🟢 Louer Allah et raconter le rêve 🟢**
+>
+> **🔢 Répétitions:** 🟢 **Une fois (×1)**
 
 #### B. En Cas de Cauchemar
 
-Le Prophète ﷺ a dit :
-
-> **« Si l'un de vous fait un cauchemar qu'il déteste, qu'il crache sur sa gauche trois fois, qu'il cherche refuge auprès d'Allah contre le démon trois fois, qu'il se tourne sur l'autre côté, et qu'il ne le raconte à personne. Cela ne lui nuira pas. »**
-
-[Rapporté par Muslim: 2261]
-
-**Les Actions** :
-1. 💨 Cracher légèrement à gauche (3 fois)
-2. 🤲 Dire : « A'ūdhu billāhi min ash-shayṭān ar-rajīm » (3 fois)
-3. 🔄 Se tourner sur l'autre côté
-4. 🤫 Ne pas raconter le rêve
-5. 🕌 Se lever et prier si on le souhaite
+> **🔵 Protection contre le démon 🔵**
+>
+> **🔢 Répétitions:** 🔵 **Trois fois (×3)**
 
 ---
 
-### 🔷 Invocation 6 : Invocation pour les Ablutions
+## 🤲 ⑥ Invocation 6 : Invocation pour les Ablutions
 
-Lorsqu'on se lève pour faire les ablutions :
+#### Texte Arabe avec Tashkīl Complet
 
-**« الْحَمْدُ لِلَّهِ الَّذِي أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ »**
-
-Puis on effectue les ablutions avec leurs invocations connues.
+> **🟢 « الْحَمْدُ لِلَّهِ الَّذِي أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ » 🟢**
+>
+> **🔢 Répétitions:** 🟢 **Une fois (×1)**
 
 ---
 
