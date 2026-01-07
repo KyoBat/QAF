@@ -14,7 +14,7 @@ import { siyamCourse } from './siyam'
 import { hajjCourse } from './hajj'
 import { historyImamsCourse } from './history'
 import { historyCompanionsCourse } from './history-companions'
-import { adiaModule1Course, adiaModule2Course } from './adia'
+import { adiaModule1Course, adiaModule2Course, adiaModule3Course } from './adia'
 
 // Export des types
 export * from './types'
@@ -30,12 +30,13 @@ export { siyamCourse } from './siyam'
 export { hajjCourse } from './hajj'
 export { historyImamsCourse } from './history'
 export { historyCompanionsCourse } from './history-companions'
-export { adiaModule1Course, adiaModule2Course } from './adia'
+export { adiaModule1Course, adiaModule2Course, adiaModule3Course } from './adia'
 
 // Export de la liste complète des cours
 export const coursesData: Course[] = [
   adiaModule1Course,
   adiaModule2Course,
+  adiaModule3Course,
   hadithCourse,
   historyImamsCourse,
   historyCompanionsCourse,

@@ -64,3 +64,33 @@ export const adiaModule2Meta: CourseMeta = {
   createdAt: '2026-01-07T00:00:00.000Z',
   updatedAt: '2026-01-07T00:00:00.000Z',
 }
+
+/**
+ * Module 3: Invocations pour les Situations de Vie
+ * 4 leçons sur les invocations pour différentes situations de la vie
+ */
+export const adiaModule3Meta: CourseMeta = {
+  id: 'course-013c',
+  slug: 'invocations-situations-vie',
+  title: {
+    fr: 'Invocations pour les Situations de Vie',
+    ar: 'أدعية لمواقف الحياة',
+    en: 'Supplications for Life Situations',
+  },
+  description: {
+    fr: '4 leçons essentielles sur les invocations pour les situations de vie : en cas de difficulté, pour la guidance et la science, pour la santé et la protection, et pour la famille. Accompagnez chaque épreuve et joie avec les invocations authentiques.',
+    ar: '4 دروس أساسية في أدعية مواقف الحياة: عند الكرب، للهداية والعلم، للصحة والحماية، وللأسرة. رافق كل ابتلاء وفرح بالأدعية الصحيحة.',
+    en: '4 essential lessons on supplications for life situations: during hardship, for guidance and knowledge, for health and protection, and for family. Accompany every trial and joy with authentic invocations.',
+  },
+  category: 'spirituality',
+  level: 'beginner',
+  duration: '3h',
+  instructor: 'TahaLearn Academy',
+  image: '/images/courses/adia.svg',
+  tags: ['invocations', 'dua', 'adhkar', 'life-situations', 'hardship', 'family', 'health', 'knowledge'],
+  featured: true,
+  published: true,
+  resources: [],
+  createdAt: '2026-01-07T00:00:00.000Z',
+  updatedAt: '2026-01-07T00:00:00.000Z',
+}
