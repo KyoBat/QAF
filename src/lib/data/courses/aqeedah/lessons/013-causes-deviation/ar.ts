@@ -1,9 +1,9 @@
 /**
- * Aqeedah - Lesson 013: أسباب الانحراف عن العقيدة الصحيحة
- * Arabic Content - Narrative and Immersive Style
+ * العقيدة - الدرس 013: أسباب الانحراف عن العقيدة الصحيحة
+ * المحتوى بالعربية
  */
 
-export const content = `# ⚠️ أسباب الانحراف عن العقيدة الصحيحة — Causes of Deviation from Authentic Creed
+export const content = `# ⚠️ أسباب الانحراف عن العقيدة الصحيحة
 
 > *« معرفة الشرّ تحميك منه. المسافر العالِم بفخاخ الطريق هو الذي يصل إلى وجهته. »*
 
