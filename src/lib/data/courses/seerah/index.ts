@@ -4,12 +4,16 @@
 
 import { Course } from '../types'
 import { seerahMeta } from './meta'
-import { lesson001 } from './lessons/001-arabie-avant-islam'
-import { lesson002 } from './lessons/002-naissance-prophete'
-import { lesson003 } from './lessons/003-enfance-jeunesse'
-import { lesson004 } from './lessons/004-jeune-homme-veridique'
-import { lesson005 } from './lessons/005-mariage-khadija'
-import { lesson006 } from './lessons/006-premiere-revelation'
+
+// Module 1 : Avant la Révélation
+import { lesson001 } from './lessons/module-1/001-arabie-avant-islam'
+import { lesson002 } from './lessons/module-1/002-naissance-prophete'
+import { lesson003 } from './lessons/module-1/003-enfance-jeunesse'
+import { lesson004 } from './lessons/module-1/004-jeune-homme-veridique'
+import { lesson005 } from './lessons/module-1/005-mariage-khadija'
+
+// Module 2 : La Révélation à La Mecque
+import { lesson006 } from './lessons/module-2/006-premiere-revelation'
 
 export const seerahCourse: Course = {
   ...seerahMeta,

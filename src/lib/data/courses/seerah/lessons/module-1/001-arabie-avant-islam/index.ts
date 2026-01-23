@@ -3,7 +3,7 @@
  * Index de la leçon
  */
 
-import { Lesson } from '../../../types'
+import { Lesson } from '../../../../types'
 import { content as contentFr } from './fr'
 import { content as contentAr } from './ar'
 import { content as contentEn } from './en'

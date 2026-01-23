@@ -6,7 +6,7 @@
 import { content as contentAr } from './ar'
 import { content as contentFr } from './fr'
 import { content as contentEn } from './en'
-import { Lesson } from '../../../types'
+import { Lesson } from '../../../../types'
 
 export const lesson006: Lesson = {
   id: 'seerah-006',
