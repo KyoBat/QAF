@@ -1,21 +1,21 @@
 /**
- * Seerah - Leçon 003: L'Enfance et la Jeunesse
+ * Seerah - Leçon 002: La Naissance du Prophète ﷺ
  * Index de la leçon
  */
 
-import { Lesson } from '../../../../types'
+import { Lesson } from '../../../types'
 import { content as contentFr } from './fr'
 import { content as contentAr } from './ar'
 import { content as contentEn } from './en'
 
-export const lesson003: Lesson = {
-  id: 'lesson-003',
+export const lesson002: Lesson = {
+  id: 'lesson-002',
   duration: '50 min',
-  order: 3,
+  order: 2,
   title: {
-    fr: "L'Enfance et la Jeunesse",
-    ar: 'الطفولة والشباب',
-    en: 'Childhood and Youth',
+    fr: 'La Naissance du Prophète ﷺ',
+    ar: 'مولد النبي ﷺ',
+    en: 'The Birth of the Prophet ﷺ',
   },
   content: {
     fr: contentFr,

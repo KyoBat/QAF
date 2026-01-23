@@ -1,21 +1,21 @@
 /**
- * Seerah - Leçon 005: Le Mariage avec Khadija
+ * Seerah - Leçon 004: Le Jeune Homme Véridique
  * Index de la leçon
  */
 
-import { Lesson } from '../../../../types'
+import { Lesson } from '../../../types'
 import { content as contentFr } from './fr'
 import { content as contentAr } from './ar'
 import { content as contentEn } from './en'
 
-export const lesson005: Lesson = {
-  id: 'lesson-005',
+export const lesson004: Lesson = {
+  id: 'lesson-004',
   duration: '30 min',
-  order: 5,
+  order: 4,
   title: {
-    fr: 'Le Mariage avec Khadîja',
-    ar: 'الزواج من خديجة',
-    en: 'The Marriage to Khadîja',
+    fr: 'Le Jeune Homme Véridique',
+    ar: 'الشاب الصادق الأمين',
+    en: 'The Truthful Young Man',
   },
   content: {
     fr: contentFr,

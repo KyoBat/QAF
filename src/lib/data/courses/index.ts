@@ -8,7 +8,8 @@ import { tajweedCourse } from './tajweed'
 import { fiqhPurificationCourse, fiqhSalatCourse, fiqhSalawatKhassaCourse, fiqhZakatCourse } from './fiqh'
 import { aqeedahCourse } from './aqeedah'
 import { aqeedah2Course } from './aqeedah-2'
-import { seerahCourse } from './seerah'
+import { seerahModule1Course } from './seerah-module-1'
+import { seerahModule2Course } from './seerah-module-2'
 import { hadithCourse } from './hadith'
 import { siyamCourse } from './siyam'
 import { hajjCourse } from './hajj'
@@ -24,7 +25,8 @@ export { tajweedCourse } from './tajweed'
 export { fiqhPurificationCourse, fiqhSalatCourse, fiqhSalawatKhassaCourse, fiqhZakatCourse } from './fiqh'
 export { aqeedahCourse } from './aqeedah'
 export { aqeedah2Course } from './aqeedah-2'
-export { seerahCourse } from './seerah'
+export { seerahModule1Course } from './seerah-module-1'
+export { seerahModule2Course } from './seerah-module-2'
 export { hadithCourse } from './hadith'
 export { siyamCourse } from './siyam'
 export { hajjCourse } from './hajj'
@@ -48,7 +50,8 @@ export const coursesData: Course[] = [
   fiqhZakatCourse,
   aqeedahCourse,
   aqeedah2Course,
-  seerahCourse,
+  seerahModule1Course,
+  seerahModule2Course,
   siyamCourse,
   hajjCourse,
 ]
