@@ -26,14 +26,7 @@ export const seerahModule1Meta: CourseMeta = {
   tags: ['seerah', 'prophet', 'mecca', 'biography', 'module-1'],
   featured: true,
   published: true,
-  resources: [
-    {
-      type: 'article',
-      title: 'Chronologie de la Seerah',
-      url: 'https://example.com/seerah-timeline',
-      description: 'Frise chronologique interactive',
-    },
-  ],
+  resources: [],
   createdAt: '2025-02-15T00:00:00.000Z',
   updatedAt: '2025-02-15T00:00:00.000Z',
 }

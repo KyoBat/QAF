@@ -26,14 +26,7 @@ export const seerahModule2Meta: CourseMeta = {
   tags: ['seerah', 'prophet', 'mecca', 'revelation', 'module-2'],
   featured: true,
   published: true,
-  resources: [
-    {
-      type: 'article',
-      title: 'Les premiers musulmans',
-      url: 'https://example.com/first-muslims',
-      description: 'Portraits des compagnons',
-    },
-  ],
+  resources: [],
   createdAt: '2025-02-15T00:00:00.000Z',
   updatedAt: '2025-02-15T00:00:00.000Z',
 }
