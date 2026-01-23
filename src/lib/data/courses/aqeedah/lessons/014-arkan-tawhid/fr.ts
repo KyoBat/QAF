@@ -1,117 +1,152 @@
 /**
  * Aqeedah - Leçon 014: Les Piliers et Catégories du Tawhid
- * Contenu en Français
+ * Contenu en Français - Style narratif et immersif
  */
 
-export const content = `# 📜 Les Piliers et Catégories du Tawhid
+export const content = `# 🌟 Les Piliers et Catégories du Tawhid — أقسام التوحيد الثلاثة
 
-## 🌟 Introduction
-
-Le Tawhid est le fondement et l'essence de la religion. C'est le fait de vouer exclusivement à Allah ce qui Lui appartient en termes de Seigneurie, de Divinité et de Noms et Attributs. Les savants ont divisé le Tawhid en trois catégories, par induction des textes du Livre et de la Sunna.
-
-Allah ﷻ dit:
-
-> "Dis: 'Il est Allah, Unique. Allah, le Seul à être imploré. Il n'a jamais engendré, n'a pas été engendré. Et nul n'est égal à Lui.'" (Al-Ikhlas 112:1-4)
+> *« Le Tawhid est le trésor pour lequel les Prophètes ont été envoyés, les Livres ont été révélés, et les épées du Jihad ont été dégainées. C'est le droit d'Allah sur Ses serviteurs. »*
 
 ---
 
-## 🏛️ Les Trois Catégories du Tawhid
+## 🎬 Prologue : Le Droit Suprême d'Allah
 
-### Vue d'ensemble
+<div class="scene-box">
 
-| Catégorie | Définition | Exemple |
-|-----------|------------|---------|
-| Tawhid Ar-Rububiyyah | Unicité d'Allah dans Ses actes | Création, provision, gestion |
-| Tawhid Al-Uluhiyyah | Unicité d'Allah dans les actes des serviteurs | Invocation, sacrifice, vœu |
-| Tawhid Al-Asma was-Sifat | Unicité d'Allah dans Ses Noms et Attributs | Le Savant, Le Miséricordieux, l'Établissement |
+**💠 LA QUESTION DE MU'ÂDH**
 
----
+*Le Prophète ﷺ chevauche une monture, Mu'âdh ibn Jabal رضي الله عنه derrière lui. Le Prophète ﷺ se tourne et demande :*
 
-## Première Catégorie: Tawhid Ar-Rububiyyah (Unicité de la Seigneurie)
+**Le Prophète ﷺ :** « Ô Mu'âdh ! Sais-tu quel est le droit d'Allah sur Ses serviteurs ? »
 
-### Définition
+**Mu'âdh :** « Allah et Son Messager savent mieux. »
 
-Vouer exclusivement à Allah Ses actes: comme la création, la provision, la vivification, la mort et la gestion.
+**Le Prophète ﷺ :** **« حَقُّ اللَّهِ عَلَى الْعِبَادِ أَنْ يَعْبُدُوهُ وَلَا يُشْرِكُوا بِهِ شَيْئًا »**
+*« Le droit d'Allah sur Ses serviteurs est qu'ils L'adorent et ne Lui associent rien. »*
 
-### Preuves
+**Le Prophète ﷺ :** « Et sais-tu quel est le droit des serviteurs sur Allah s'ils font cela ? »
 
-> "Allah est le Créateur de toute chose, et de toute chose Il est Garant." (Az-Zumar 39:62)
+**Mu'âdh :** « Allah et Son Messager savent mieux. »
 
-> "La création et le commandement n'appartiennent qu'à Lui. Béni soit Allah, Seigneur de l'univers!" (Al-A'raf 7:54)
+**Le Prophète ﷺ :** **« أَنْ لَا يُعَذِّبَهُمْ »** — *« Qu'Il ne les châtie pas. »*
+> (Sahih Bukhari 2856, Sahih Muslim 30)
 
-> "Dis: 'Qui vous attribue de la nourriture du ciel et de la terre? Qui détient l'ouïe et la vue? Qui fait sortir le vivant du mort et fait sortir le mort du vivant? Et qui administre tout?' Ils diront: 'Allah.'" (Yunus 10:31)
+</div>
 
-### Éléments du Tawhid Ar-Rububiyyah
+Allah ﷻ dit :
 
-1. **La création**: Allah seul est le Créateur
-2. **La royauté**: Allah seul est le véritable Propriétaire
-3. **La gestion**: Allah seul gère l'univers
-4. **La provision**: Allah seul est le Pourvoyeur
-5. **La vie et la mort**: Entre les mains d'Allah seul
-
-### Statut de celui qui nie le Tawhid Ar-Rububiyyah
-
-Celui qui nie le Tawhid Ar-Rububiyyah est **mécréant**, car il nie l'existence d'Allah ou Lui associe d'autres dans Ses actes.
-
-### Remarque importante
-
-Le Tawhid Ar-Rububiyyah seul **ne suffit pas** pour entrer dans l'Islam. Les polythéistes le reconnaissaient:
-
-> "Et si tu leur demandes: 'Qui a créé les cieux et la terre?', ils diront très certainement: 'Allah.'" (Luqman 31:25)
-
-Et malgré cela, ils étaient polythéistes car ils n'ont pas voué l'adoration à Allah seul!
+> **﴿قُلْ هُوَ اللَّهُ أَحَدٌ ۝ اللَّهُ الصَّمَدُ ۝ لَمْ يَلِدْ وَلَمْ يُولَدْ ۝ وَلَمْ يَكُن لَهُ كُفُوًا أَحَدٌ﴾**
+> *« Dis : 'Il est Allah, Unique. Allah, le Seul à être imploré. Il n'a jamais engendré, n'a pas été engendré. Et nul n'est égal à Lui.' »* [Al-Ikhlâs : 1-4]
 
 ---
 
-## Deuxième Catégorie: Tawhid Al-Uluhiyyah (Unicité de l'Adoration)
+## 🏗️ Les Trois Catégories du Tawhid — Vue d'Ensemble
 
-### Définition
+<div class="scene-box">
 
-Vouer exclusivement à Allah tous les types d'adoration, apparents et cachés.
+**🔶 LE TRIANGLE DU TAWHID**
 
-### Preuves
+*Les savants, par induction des textes du Coran et de la Sunna, ont classé le Tawhid en trois catégories interconnectées, comme un triangle parfait :*
 
-> "Je n'ai créé les djinns et les hommes que pour qu'ils M'adorent." (Adh-Dhariyat 51:56)
+| 🔷 Catégorie | 📌 Définition | 📝 Question clé |
+|:-----------|:------------|:--------------|
+| **ربوبية** Tawhid Ar-Rububîyya | Unicité d'Allah dans **Ses actes** | Qui a créé ? Qui gère ? |
+| **ألوهية** Tawhid Al-Uluhîyya | Unicité d'Allah dans **les actes des serviteurs** | Qui dois-je adorer ? |
+| **أسماء وصفات** Tawhid Al-Asmâ' was-Sifât | Unicité d'Allah dans **Ses Noms et Attributs** | Qui est Allah ? |
 
-> "Adorez Allah et ne Lui donnez aucun associé." (An-Nisa 4:36)
+</div>
 
-> "C'est Toi seul que nous adorons, et c'est Toi seul dont nous implorons secours." (Al-Fatiha 1:5)
+---
 
-### Les Piliers de l'Adoration
+## 1️⃣ Tawhid Ar-Rububîyya (توحيد الربوبية) — Il est le Seigneur
 
-L'adoration n'est acceptée qu'avec trois piliers:
+### 🌟 Reconnaître Allah comme l'Unique Seigneur
+
+<div class="scene-box">
+
+**🌍 LA QUESTION QUI DÉMASQUE**
+
+*Allah pose cette question aux polythéistes de Quraysh :*
+
+> **﴿قُلْ مَن يَرْزُقُكُم مِّنَ السَّمَاءِ وَالْأَرْضِ أَمَّن يَمْلِكُ السَّمْعَ وَالْأَبْصَارَ وَمَن يُخْرِجُ الْحَيَّ مِنَ الْمَيِّتِ وَيُخْرِجُ الْمَيِّتَ مِنَ الْحَيِّ وَمَن يُدَبِّرُ الْأَمْرَ ۖ فَسَيَقُولُونَ اللَّهُ﴾**
+
+*« Dis : 'Qui vous attribue de la nourriture du ciel et de la terre ? Qui détient l'ouïe et la vue ? Qui fait sortir le vivant du mort et fait sortir le mort du vivant ? Et qui administre tout ?' **Ils diront : 'Allah.'** »* [Yûnus : 31]
+
+*Même les idôlatres reconnaissaient cela ! Mais ce n'était pas suffisant...*
+
+</div>
+
+### 📝 Définition
+
+**Vouer exclusivement à Allah Ses actes** : la création, la provision, la vie, la mort, la gestion de l'univers.
+
+### 🔑 Éléments du Tawhid Ar-Rububîyya
+
+| Élément | Signification | Preuve |
+|---------|---------------|--------|
+| 🌟 **La création** | Allah seul est le Créateur | ﴿اللَّهُ خَالِقُ كُلِّ شَيْءٍ﴾ |
+| 👑 **La royauté** | Allah seul est le véritable Propriétaire | ﴿لَهُ مُلْكُ السَمَاوَاتِ وَالْأَرْضِ﴾ |
+| ⚙️ **La gestion** | Allah seul gère l'univers | ﴿يُدَبِّرُ الْأَمْرَ﴾ |
+| 🌾 **La provision** | Allah seul est le Pourvoyeur | ﴿إِنَّ اللَّهَ هُوَ الرَّزَّاقُ﴾ |
+| 💔❤️ **Vie et mort** | Entre les mains d'Allah seul | ﴿يُحْيِي وَيُمِيتُ﴾ |
+
+### ⚠️ Remarque Capitale
+
+> **🚨 Le Tawhid Ar-Rububîyya seul NE SUFFIT PAS !**
+
+Les polythéistes arabes le reconnaissaient, et pourtant ils étaient polythéistes car ils n'adoraient pas Allah seul :
+
+> **﴿وَلَئِن سَأَلْتَهُم مَّنْ خَلَقَ السَمَاوَاتِ وَالْأَرْضَ لَيَقُولُنَّ اللَّهُ﴾**
+> *« Et si tu leur demandes : 'Qui a créé les cieux et la terre ?', ils diront très certainement : 'Allah.' »* [Luqmân : 25]
+
+---
+
+## 2️⃣ Tawhid Al-Uluhîyya (توحيد الألوهية) — Il est le Seul à Être Adoré
+
+### 🌟 Le Tawhid pour Lequel les Prophètes ont Été Envoyés
+
+<div class="scene-box">
+
+**💠 L'APPEL DE TOUS LES PROPHÈTES**
+
+*D'Adam à Muhammad ﷺ, un seul message, une seule parole :*
+
+> **﴿وَمَا أَرْسَلْنَا مِن قَبْلِكَ مِن رَّسُولٍ إِلَّا نُوحِي إِلَيْهِ أَنَّهُ لَا إِلَٰهَ إِلَّا أَنَا فَاعْبُدُونِ﴾**
+> *« Nous n'avons envoyé avant toi aucun Messager à qui Nous n'ayons révélé : 'Point de divinité en dehors de Moi. **Adorez-Moi donc.**' »* [Al-Anbiyâ' : 25]
+
+*Nouh عليه السلام dit :* « Adorez Allah !»
+*Ibrâhîm عليه السلام dit :* « Adorez Allah ! »
+*Mûsa عليه السلام dit :* « Adorez Allah ! »
+*'Îsa عليه السلام dit :* « Adorez Allah ! »
+*Muhammad ﷺ dit :* « Adorez Allah ! »
+
+*Un seul message. Une seule vérité. Le Tawhid Al-Uluhîyya.*
+
+</div>
+
+### 📝 Définition
+
+**Vouer exclusivement à Allah TOUS les types d'adoration**, apparents et cachés.
+
+> **﴿وَمَا خَلَقْتُ الْجِنَّ وَالْإِنسَ إِلَّا لِيَعْبُدُونِ﴾**
+> *« Je n'ai créé les djinns et les hommes que pour qu'ils M'adorent. »* [Adh-Dhâriyât : 56]
+
+### 🏗️ Les Trois Piliers de l'Adoration Acceptée
 
 | Pilier | Signification | Preuve |
 |--------|---------------|--------|
-| **La sincérité** | Pour Allah seul | ﴿Il ne leur a été commandé que d'adorer Allah, Lui vouant un culte exclusif﴾ |
-| **Le suivi** | Selon la Sunna | ﴿Prenez ce que le Messager vous donne﴾ |
-| **L'amour** | Avec amour et vénération | ﴿Ceux qui croient ont un amour plus intense pour Allah﴾ |
+| ❤️ **L'amour** | Adorer avec amour et vénération | ﴿وَالَّذِينَ آمَنُوا أَشَدُّ حُبًّا لِلَّهِ﴾ |
+| 🎯 **La sincérité** | Pour Allah seul (Ikhlas) | ﴿مُخْلِصِينَ لَهُ الدِّينَ﴾ |
+| 📝 **Le suivi** | Selon la Sunna du Prophète ﷺ | ﴿وَمَا آتَاكُمُ الرَسُولُ فَخُذُوهُ﴾ |
 
-### Types d'adoration
+### 📊 Types d'Adoration
 
-**Adorations du cœur:**
-- La crainte d'Allah
-- L'espoir en Sa miséricorde
-- La confiance en Lui
-- L'amour pour Lui
-
-**Adorations verbales:**
-- L'invocation
-- Le dhikr
-- La demande de pardon
-- La talbiya
-
-**Adorations corporelles:**
-- La prière
-- Le jeûne
-- Le pèlerinage
-- Le jihad
-
-**Adorations financières:**
-- La zakat
-- L'aumône
-- Le vœu
-- Le sacrifice pour Allah
+| 💚 Adorations du cœur | 🗣️ Adorations verbales | 🧑‍🤝‍🧑 Adorations corporelles | 💰 Adorations financières |
+|:----------------------|:-----------------------|:-------------------------|:------------------------|
+| La crainte d'Allah | L'invocation (du'â') | La prière | La zakât |
+| L'espoir en Sa miséricorde | Le dhikr | Le jeûne | L'aumône |
+| La confiance en Lui | La demande de pardon | Le pèlerinage | Le vœu pour Allah |
+| L'amour pour Lui | La talbiya | Le jihâd | Le sacrifice |
 
 ### Gravité du shirk dans le Tawhid Al-Uluhiyyah
 
@@ -187,29 +222,36 @@ Nous n'affirmons pour Allah que ce qu'Il a affirmé pour Lui-même, et ne nions 
 
 ---
 
-## La Parole du Tawhid: La ilaha illa Allah
+## 🔑 La Parole du Tawhid : لا إله إلا الله
 
-### Sa signification
+### 🌟 La Clé du Paradis
 
-- **La ilaha**: Négation de la divinité pour tout autre qu'Allah
-- **Illa Allah**: Affirmation de la divinité pour Allah seul
+<div class="scene-box">
 
-### Ses piliers
+**📜 LES DEUX PILIERS DE LA PAROLE SUPRÊME**
 
-1. **La négation**: La ilaha (nier l'adoration à autre qu'Allah)
-2. **L'affirmation**: Illa Allah (affirmer l'adoration pour Allah seul)
+| | Pilier | Arabe | Sens |
+|:-:|:-------|:------|:-----|
+| 🚫 | **Négation** | لا إله | Nulle divinité [n'est digne d'adoration] |
+| ✅ | **Affirmation** | إلا الله | Sauf Allah |
 
-### Ses conditions
+*D'abord tu vides ton cœur de toute idole, puis tu le remplis de l'amour et de l'adoration d'Allah seul.*
 
-| Condition | Signification | Son opposé |
-|-----------|---------------|------------|
-| La science | Connaître sa signification | L'ignorance |
-| La certitude | La conviction ferme | Le doute |
-| L'acceptation | Accepter ce qu'elle implique | Le rejet |
-| La soumission | Agir selon ses implications | L'abandon |
-| La véracité | Concordance entre cœur et langue | Le mensonge |
-| La sincérité | Vouloir le Visage d'Allah | L'ostentation |
-| L'amour | Aimer Allah et Son Messager | La haine |
+</div>
+
+### 🔐 Les 7 Conditions de La ilaha illa Allah
+
+> **⚠️ Cette parole a une clé, et la clé a des dents. Si tu viens avec les dents, on t'ouvrira. Sinon, on ne t'ouvrira pas.**
+
+| # | Condition | عربي | Signification | ❌ Son opposé |
+|:-:|:----------|:-----|:--------------|:------------|
+| 1 | 📚 **La science** | العلم | Connaître sa signification | L'ignorance |
+| 2 | 💠 **La certitude** | اليقين | Conviction ferme | Le doute |
+| 3 | ✅ **L'acceptation** | القبول | Accepter ses implications | Le rejet |
+| 4 | 🫡 **La soumission** | الانقياد | Agir selon elle | L'abandon |
+| 5 | 💯 **La véracité** | الصدق | Cœur conforme à la langue | Le mensonge (hypocrisie) |
+| 6 | 🎯 **La sincérité** | الإخلاص | Vouloir le Visage d'Allah | L'ostentation |
+| 7 | ❤️ **L'amour** | المحبة | Aimer Allah et Son Messager | La haine |
 
 ---
 

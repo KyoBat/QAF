@@ -1,39 +1,66 @@
 /**
  * Aqeedah - Leçon 011: Les Sources de la Croyance Authentique
- * Contenu en Français
+ * Contenu en Français - Style narratif et immersif
  */
 
-export const content = `# 📜 Les Sources de la Croyance Authentique
+export const content = `# 📜 Les Sources de la Croyance Authentique — مصادر العقيدة الصحيحة
 
-## 🌟 Introduction
-
-La croyance islamique a des sources bien définies qu'il n'est pas permis de dépasser. Ce sont des sources divines, préservées de l'erreur et de la falsification. D'où prenons-nous notre croyance?
-
-Allah ﷻ dit:
-
-> "Ô les croyants! Obéissez à Allah, et obéissez au Messager et à ceux d'entre vous qui détiennent le commandement. Puis, si vous vous disputez en quoi que ce soit, renvoyez-le à Allah et au Messager." (An-Nisa 4:59)
+> *« Si tu veux bâtir un édifice qui touche le ciel, assure-toi que ses fondations reposent sur le roc, non sur le sable. La croyance islamique est ce roc. »*
 
 ---
 
-## Première Source: Le Noble Coran
+## 🎬 Prologue : La Boussole du Croyant
 
-### Définition
+<div class="scene-box">
 
-La parole d'Allah révélée à Son prophète Muhammad ﷺ, dont la récitation est un acte d'adoration, transmise jusqu'à nous par voie de transmission continue (tawatur).
+**🧭 LE VOYAGEUR PERDU**
 
-### Pourquoi le Coran est-il la première source?
+*Imagine un voyageur traversant un désert immense. Il n'a ni carte, ni boussole. Des voix l'appellent de tous côtés, chacune prétendant montrer le bon chemin...*
 
-1. **C'est la parole directe d'Allah:**
-   > "Et c'est certainement une révélation du Seigneur de l'univers, descendue avec l'Esprit fidèle (Jibril), sur ton cœur, pour que tu sois du nombre des avertisseurs." (Ash-Shu'ara 26:192-194)
+**Voix des philosophes :** « Suis ta raison ! »
 
-2. **Préservé de toute falsification:**
-   > "En vérité c'est Nous qui avons fait descendre le Rappel, et c'est Nous qui en sommes gardien." (Al-Hijr 15:9)
+**Voix des mystiques :** « Suis ton cœur et tes visions ! »
 
-3. **Authenticité absolue:**
-   Transmis par tawatur (transmission continue) de génération en génération.
+**Voix des ancêtres :** « Suis ce que faisaient nos pères ! »
 
-4. **Contient les fondements de la religion:**
-   > "Nous n'avons rien omis dans le Livre." (Al-An'am 6:38)
+*Mais une seule voix est véridique — celle du Guide qui connaît le chemin :*
+
+**Allah ﷻ dit :**
+
+> **﴿يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللَّهَ وَأَطِيعُوا الرَّسُولَ وَأُولِي الْأَمْرِ مِنكُمْ ۖ فَإِن تَنَازَعْتُمْ فِي شَيْءٍ فَرُدُّوهُ إِلَى اللَّهِ وَالرَّسُولِ﴾**
+> *« Ô les croyants ! Obéissez à Allah, obéissez au Messager et à ceux d'entre vous qui détiennent le commandement. Puis, si vous vous disputez en quoi que ce soit, renvoyez-le à Allah et au Messager. »* [An-Nisâ' : 59]
+
+</div>
+
+**D'où prenons-nous notre croyance ?** C'est LA question fondamentale.
+
+---
+
+## 📖 Source n°1 : Le Noble Coran — الكتاب العزيز
+
+### 🌟 La Parole du Créateur
+
+<div class="scene-box">
+
+**💎 UNE LETTRE DU ROI DES ROIS**
+
+*Imagine qu'un roi t'envoie une lettre personnelle, scellée de son sceau royal, contenant ses instructions pour toi. La lirais-tu une fois puis l'oublierais-tu ? Ou la chérirais-tu, la relirais-tu, et suivrais-tu chaque instruction ?*
+
+*Le Coran est bien plus que cela : c'est la Parole du Roi des rois, du Créateur des cieux et de la terre, adressée directement à toi.*
+
+> **﴿وَإِنَّهُ لَتَنزِيلُ رَبِّ الْعَالَمِينَ ۝ نَزَلَ بِهِ الرُّوحُ الْأَمِينُ ۝ عَلَىٰ قَلْبِكَ لِتَكُونَ مِنَ الْمُنذِرِينَ﴾**
+> *« Et c'est certainement une révélation du Seigneur de l'univers, descendue avec l'Esprit fidèle (Jibril), sur ton cœur, pour que tu sois du nombre des avertisseurs. »* [Ash-Shu'arâ' : 192-194]
+
+</div>
+
+### ✨ Pourquoi le Coran est-il LA première source ?
+
+| Caractéristique | Explication | Preuve |
+|-----------------|-------------|--------|
+| 📜 **Parole directe d'Allah** | Non créée, révélée | *« C'est certainement une révélation du Seigneur de l'univers »* |
+| 🔒 **Préservé à jamais** | Pas une lettre n'a changé en 14 siècles | ﴿إِنَّا نَحْنُ نَزَّلْنَا الذِّكْرَ وَإِنَّا لَهُ لَحَافِظُونَ﴾ |
+| 🔗 **Transmission continue (Tawatur)** | Des millions l'ont mémorisé génération après génération | Authenticité absolue |
+| 📚 **Contient tous les fondements** | Rien d'essentiel n'est omis | ﴿مَّا فَرَّطْنَا فِي الْكِتَابِ مِن شَيْءٍ﴾ |
 
 ### Exemples de versets sur la croyance
 
@@ -44,22 +71,40 @@ La parole d'Allah révélée à Son prophète Muhammad ﷺ, dont la récitation 
 
 ---
 
-## Deuxième Source: La Sunna Prophétique Authentique
+## 📿 Source n°2 : La Sunna Prophétique — السُّنَّة النبوية
 
-### Définition
+### 🌟 L'Héritage Vivant du Prophète ﷺ
 
-Ce qui émane du Prophète ﷺ en termes de paroles, d'actes ou d'approbations.
+<div class="scene-box">
 
-### L'autorité de la Sunna en matière de croyance
+**🕌 LA QUESTION DE HASSÂN**
 
-1. **L'ordre d'obéir au Messager ﷺ:**
-   > "Prenez ce que le Messager vous donne; et ce qu'il vous interdit, abstenez-vous en." (Al-Hashr 59:7)
+*Après la mort du Prophète ﷺ, un homme vint trouver les Compagnons, troublé :*
 
-2. **La Sunna est une révélation:**
-   > "Et il ne prononce rien sous l'effet de la passion; ce n'est rien d'autre qu'une révélation inspirée." (An-Najm 53:3-4)
+**L'homme :** « Le Prophète est mort. Comment saurai-je désormais ce qu'Allah attend de moi ? »
 
-3. **La Sunna explique le Coran:**
-   > "Et vers toi, Nous avons fait descendre le Rappel, pour que tu exposes clairement aux gens ce qu'on a fait descendre pour eux." (An-Nahl 16:44)
+**Abû Bakr رضي الله عنه :** « Le Prophète ﷺ nous a laissé deux choses : le Livre d'Allah et sa Sunna. Celui qui s'y accroche ne s'égarera jamais. »
+
+*Le Prophète ﷺ lui-même avait dit :*
+
+> **« تَرَكْتُ فِيكُمْ أَمْرَيْنِ لَنْ تَضِلُّوا مَا تَمَسَّكْتُمْ بِهِمَا: كِتَابَ اللَّهِ وَسُنَّةَ نَبِيِّهِ »**
+> *« Je vous ai laissé deux choses : vous ne vous égarerez jamais tant que vous vous y accrocherez : le Livre d'Allah et la Sunna de Son Prophète. »*
+> (Rapporté par Malik dans Al-Muwatta')
+
+</div>
+
+### 📋 Qu'est-ce que la Sunna ?
+
+| Type | Définition | Exemple |
+|------|------------|--------|
+| 📢 **Paroles (Qawl)** | Ce que le Prophète ﷺ a dit | « Les actions ne valent que par les intentions » |
+| 🚶 **Actes (Fi'l)** | Ce que le Prophète ﷺ a fait | Sa manière de prier, de jeûner |
+| ✅ **Approbations (Taqrîr)** | Ce qu'il a vu et approuvé tacitement | Ne pas interdire = approbation |
+
+### ⚡ L'autorité de la Sunna — Elle aussi est révélation !
+
+> **﴿وَمَا يَنطِقُ عَنِ الْهَوَىٰ ۝ إِنْ هُوَ إِلَّا وَحْيٌ يُوحَىٰ﴾**
+> *« Et il ne prononce rien sous l'effet de la passion ; ce n'est rien d'autre qu'une révélation inspirée. »* [An-Najm : 3-4]
 
 ### Conditions pour argumenter avec un hadith en matière de croyance
 
@@ -79,40 +124,41 @@ L'Imam Ash-Shafi'i رحمه الله a dit:
 
 ---
 
-## Troisième Source: Le Consensus des Pieux Prédécesseurs
+## 👥 Source n°3 : Le Consensus des Pieux Prédécesseurs — إجماع السلف الصالح
 
-### Définition du consensus
+### 🌟 L'Héritage de la Meilleure Génération
 
-L'accord des savants mujtahids de la Oumma à une époque donnée sur un jugement religieux.
+<div class="scene-box">
 
-### L'autorité du consensus
+**⏳ QUI SONT LES SALAF ?**
 
-Le Prophète ﷺ a dit:
+*Imagine trois cercles d'or, chacun plus précieux que le suivant :*
 
-> **«Ma communauté ne se rassemblera jamais sur un égarement.»**
-> (Rapporté par Ibn Majah, authentifié par Al-Albani)
+**🥇 Premier cercle :** Les **Compagnons** (الصحابة) — Ils ont vu le Prophète ﷺ, appris directement de lui.
 
-Allah ﷻ dit:
+**🥈 Deuxième cercle :** Les **Tabi'in** (التابعون) — Ils ont appris des Compagnons.
 
-> "Et quiconque s'oppose au Messager après que la guidée lui soit apparue, et suit un autre chemin que celui des croyants, Nous lui laisserons ce qu'il a choisi et le brûlerons dans l'Enfer." (An-Nisa 4:115)
+**🥉 Troisième cercle :** Les **Tabi' at-Tabi'in** (أتباع التابعين) — Ils ont appris des Tabi'in.
 
-### Qui sont les Pieux Prédécesseurs (Salaf)?
+*Le Prophète ﷺ a dit :*
 
-1. **Les Compagnons رضي الله عنهم**
-2. **Les Tabi'in (successeurs)**
-3. **Les successeurs des Tabi'in**
-
-Le Prophète ﷺ a dit:
-
-> **«Les meilleurs des gens sont ceux de ma génération, puis ceux qui les suivent, puis ceux qui les suivent.»**
+> **« خَيْرُ النَّاسِ قَرْنِي، ثُمَّ الَّذِينَ يَلُونَهُمْ، ثُمَّ الَّذِينَ يَلُونَهُمْ »**
+> *« Les meilleurs des gens sont ceux de ma génération, puis ceux qui les suivent, puis ceux qui les suivent. »*
 > (Sahih Bukhari 2652, Sahih Muslim 2533)
 
-### L'importance de la compréhension des Salaf
+</div>
 
-> "S'ils croient en ce que vous croyez, ils sont alors guidés." (Al-Baqara 2:137)
+### 🔐 Pourquoi leur compréhension fait autorité ?
 
-Ibn Mas'ud رضي الله عنه a dit:
-> **"Celui qui veut suivre un exemple, qu'il suive ceux qui sont morts. Ceux-là sont les Compagnons de Muhammad ﷺ."**
+Allah ﷻ dit :
+
+> **﴿وَمَن يُشَاقِقِ الرَّسُولَ مِن بَعْدِ مَا تَبَيَّنَ لَهُ الْهُدَىٰ وَيَتَّبِعْ غَيْرَ سَبِيلِ الْمُؤْمِنِينَ نُوَلِّهِ مَا تَوَلَّىٰ وَنُصْلِهِ جَهَنَّمَ﴾**
+> *« Et quiconque s'oppose au Messager après que la guidée lui soit apparue, et suit un autre chemin que celui des croyants, Nous lui laisserons ce qu'il a choisi et le brûlerons dans l'Enfer. »* [An-Nisâ' : 115]
+
+**Ibn Mas'ûd رضي الله عنه** a dit une parole d'or :
+
+> **« مَنْ كَانَ مُسْتَنًّا فَلْيَسْتَنَّ بِمَنْ قَدْ مَاتَ، أُولَئِكَ أَصْحَابُ مُحَمَّدٍ ﷺ »**
+> *« Celui qui veut suivre un exemple, qu'il suive ceux qui sont morts [dont la fin est scellée]. Ceux-là sont les Compagnons de Muhammad ﷺ. »*
 
 ---
 

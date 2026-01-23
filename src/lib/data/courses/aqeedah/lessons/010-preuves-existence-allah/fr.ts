@@ -1,47 +1,105 @@
 /**
  * Aqeedah - Leçon 010: Les Preuves de l'Existence d'Allah
- * Contenu en Français
+ * Contenu en Français - Style narratif et immersif
  */
 
-export const content = `# 📜 Les Preuves de l'Existence d'Allah
+export const content = `# 🌌 Les Preuves de l'Existence d'Allah — البراهين على وجود الله
 
-## 🌟 Introduction
-
-La foi en Allah est le fondement de la croyance islamique. Allah a établi pour les hommes de nombreuses preuves de Son existence: les preuves innées (Fitra), sensorielles, rationnelles et scripturaires.
-
-Allah ﷻ dit:
-
-> "Peut-il y avoir un doute au sujet d'Allah, Créateur des cieux et de la terre?" (Ibrahim 14:10)
+> *« Dans chaque atome de l'univers, dans chaque battement de ton cœur, dans chaque lever de soleil... Il y a un signe qui crie : Allah existe ! »*
 
 ---
 
-## 1️⃣ Premièrement: La Preuve Innée (Al-Fitra)
+## 🎬 Prologue : La Question Existentielle
 
-### Signification de la Fitra
+<div class="scene-box">
 
-La Fitra est la nature originelle sur laquelle Allah a créé les êtres humains: la reconnaissance de l'existence d'Allah et de Son unicité.
+**🌙 UNE NUIT DANS LE DÉSERT**
 
-### Preuve du Coran
+*Un bédouin lève les yeux vers le ciel étoilé. Des millions d'étoiles scintillent dans l'immensité noire. Un voyageur s'approche de lui et demande :*
 
-> "Dirige tout ton être vers la religion exclusivement, telle est la nature qu'Allah a originellement donnée aux hommes. Pas de changement à la création d'Allah. Voilà la religion de droiture." (Ar-Rum 30:30)
+**Le voyageur :** « Ô bédouin, comment sais-tu que Dieu existe ? Tu ne L'as jamais vu ! »
 
-### Preuve de la Sunna
+*Le bédouin sourit, pointe le sol puis le ciel :*
 
-Le Prophète ﷺ a dit:
+**Le bédouin :** « **La crotte de chameau indique le chameau. Les traces de pas indiquent le marcheur. Un ciel avec des constellations, une terre avec des chemins, des mers avec des vagues... tout cela n'indique-t-il pas le Subtil, le Parfaitement Informé ?!** »
 
-> **«Tout nouveau-né naît sur la Fitra (nature saine). Ce sont ses parents qui en font un juif, un chrétien ou un zoroastrien.»**
+*Le voyageur resta silencieux, le cœur touché par cette évidence.*
+
+</div>
+
+Allah ﷻ dit :
+
+> **﴿أَفِي اللَّهِ شَكٌّ فَاطِرِ السَّمَاوَاتِ وَالْأَرْضِ﴾**
+> *« Peut-il y avoir un doute au sujet d'Allah, Créateur des cieux et de la terre ? »* [Ibrâhîm : 10]
+
+---
+
+## 1️⃣ La Preuve Innée (الفِطْرَة) — Le Cri du Cœur
+
+### 💡 Qu'est-ce que la Fitra ?
+
+Imagine un enfant qui n'a jamais été éduqué sur aucune religion... Mets-le face à l'immensité de l'univers, face à un orage terrifiant, face à un danger mortel... **Vers qui se tournera-t-il instinctivement ?**
+
+Ce réflexe profond, cette voix intérieure qui reconnaît un Créateur tout-puissant, c'est la **Fitra** — la nature originelle pure sur laquelle Allah a créé chaque être humain.
+
+<div class="scene-box">
+
+**⛵ SCÈNE : AU MILIEU DE LA TEMPÊTE**
+
+*Un navire pris dans une tempête dévastatrice. Les vagues s'élèvent comme des montagnes. Les marins, dont beaucoup étaient athées, tombent à genoux...*
+
+**Les marins :** « Ô Dieu ! Ô Dieu ! Sauve-nous ! »
+
+*Allah décrit cette scène :*
+
+> **﴿وَإِذَا مَسَّكُمُ الضُّرُّ فِي الْبَحْرِ ضَلَّ مَن تَدْعُونَ إِلَّا إِيَّاهُ﴾**
+> *« Et quand le malheur vous touche en mer, ceux que vous invoquiez s'égarent, sauf Lui. »* [Al-Isrâ' : 67]
+
+</div>
+
+### 📜 Preuve du Coran
+
+> **﴿فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًا ۚ فِطْرَتَ اللَّهِ الَّتِي فَطَرَ النَّاسَ عَلَيْهَا ۚ لَا تَبْدِيلَ لِخَلْقِ اللَّهِ﴾**
+> *« Dirige tout ton être vers la religion exclusivement, telle est la nature qu'Allah a originellement donnée aux hommes. Pas de changement à la création d'Allah. »* [Ar-Rûm : 30]
+
+### 📿 Preuve de la Sunna
+
+Le Prophète ﷺ a dit :
+
+> **« كُلُّ مَوْلُودٍ يُولَدُ عَلَى الْفِطْرَةِ، فَأَبَوَاهُ يُهَوِّدَانِهِ أَوْ يُنَصِّرَانِهِ أَوْ يُمَجِّسَانِهِ »**
+> *« Tout nouveau-né naît sur la Fitra (nature saine). Ce sont ses parents qui en font un juif, un chrétien ou un zoroastrien. »*
 > (Sahih Bukhari 1358, Sahih Muslim 2658)
 
-### Manifestations de la Fitra
+### 🔑 Le Pacte Primordial — Le Jour où tu as témoigné
 
-1. **Se tourner vers Allah dans les épreuves:**
-   > "Quand le malheur vous touche en mer, ceux que vous invoquiez s'égarent, sauf Lui." (Al-Isra 17:67)
+<div class="scene-box">
 
-2. **Le sentiment intérieur de l'existence d'un Créateur:**
-   Tout être humain ressent au fond de lui l'existence d'une puissance supérieure qui l'a créé.
+**⏳ AVANT LE TEMPS : LE PACTE D'ALASTU**
 
-3. **Le Pacte Primordial:**
-   > "Et quand ton Seigneur tira des reins des fils d'Adam leur descendance et les fit témoigner sur eux-mêmes: 'Ne suis-Je pas votre Seigneur?' Ils répondirent: 'Mais si!'" (Al-A'raf 7:172)
+*Avant même que tu ne viennes au monde, avant même que tes parents ne se rencontrent, avant même qu'Adam ne descende sur terre... Allah a rassemblé toutes les âmes de l'humanité.*
+
+*Imagine cette scène grandiose : des milliards d'âmes, depuis Adam jusqu'au dernier homme, toutes présentes devant leur Seigneur...*
+
+**Allah ﷻ :** **« ألستُ بربكم؟ — Ne suis-Je pas votre Seigneur ? »**
+
+**Toutes les âmes, à l'unisson :** **« قَالُوا بَلَىٰ — Mais si, nous en témoignons ! »**
+
+*Tu étais là. Tu as témoigné. Tu as reconnu ton Seigneur.*
+
+> **﴿وَإِذْ أَخَذَ رَبُّكَ مِن بَنِي آدَمَ مِن ظُهُورِهِمْ ذُرِّيَّتَهُمْ وَأَشْهَدَهُمْ عَلَىٰ أَنفُسِهِمْ أَلَسْتُ بِرَبِّكُمْ ۖ قَالُوا بَلَىٰ﴾**
+> *« Et quand ton Seigneur tira des reins des fils d'Adam leur descendance et les fit témoigner sur eux-mêmes : 'Ne suis-Je pas votre Seigneur ?' Ils répondirent : 'Mais si !' »* [Al-A'râf : 172]
+
+</div>
+
+### 🌊 Manifestations de la Fitra
+
+| Situation | Réaction naturelle |
+|-----------|--------------------|
+| 😰 **Danger mortel** | Se tourner instinctivement vers Allah |
+| 🌌 **Contemplation de l'univers** | Sentiment de la présence d'un Créateur |
+| 💔 **Épreuve difficile** | Besoin de prier et d'implorer |
+| 👶 **Enfance innocente** | Questions sur Dieu avant toute éducation |
+| 🎯 **Quête de sens** | Recherche d'une vérité transcendante |
 
 ### Pourquoi certains s'éloignent-ils de la Fitra?
 
@@ -97,22 +155,40 @@ Les gens les ont vus de leurs propres yeux:
 
 ---
 
-## 3️⃣ Troisièmement: La Preuve Rationnelle
+## 3️⃣ La Preuve Rationnelle (الدليل العقلي) — La Logique Implacable
 
-### 1️⃣ La preuve de la création
+### 🧠 L'Argument de la Création — Le Raisonnement qui Bouleversa Jubayr
 
-> "Ont-ils été créés à partir de rien ou sont-ils eux-mêmes les créateurs? Ou ont-ils créé les cieux et la terre? Mais ils n'ont plutôt aucune certitude." (At-Tur 52:35-36)
+<div class="scene-box">
 
-**Analyse rationnelle:**
+**🕋 LA MECQUE, AVANT L'ISLAM**
 
-Les êtres ont trois possibilités:
-1. **Ils sont venus du néant** — Impossible rationnellement
-2. **Ils se sont créés eux-mêmes** — Impossible rationnellement
-3. **Un Créateur les a créés** — C'est la vérité ✓
+*Jubayr ibn Mut'im, un noble Qurayshite encore polythéiste, passe près de la Kaaba. Le Prophète ﷺ dirige la prière du Maghrib. Jubayr s'arrête, attiré par la récitation...*
 
-**L'histoire de Jubayr ibn Mut'im:**
+*Le Prophète ﷺ récite la sourate At-Tur. Puis vient ce verset :*
 
-Quand il entendit le Prophète ﷺ réciter ce verset, il dit: **"Mon cœur a failli s'envoler!"** Ce fut la cause de sa conversion à l'Islam.
+> **﴿أَمْ خُلِقُوا مِنْ غَيْرِ شَيْءٍ أَمْ هُمُ الْخَالِقُونَ ۝ أَمْ خَلَقُوا السَّمَاوَاتِ وَالْأَرْضَ ۚ بَل لَّا يُوقِنُونَ﴾**
+> *« Ont-ils été créés à partir de rien, ou sont-ils eux-mêmes les créateurs ? Ou ont-ils créé les cieux et la terre ? Non, ils n'ont pas la certitude. »* [At-Tûr : 35-36]
+
+*Jubayr raconte :*
+
+**Jubayr :** **« كَادَ قَلْبِي أَنْ يَطِيرَ — Mon cœur a failli s'envoler ! »**
+
+*Ce fut le début de sa foi. Cette logique implacable avait transpercé son cœur.*
+
+</div>
+
+### 📊 L'Analyse Rationnelle — Les 3 Possibilités
+
+Réfléchis... L'univers, toi, tout ce qui existe... D'où vient tout cela ?
+
+| Possibilité | Est-ce logique ? | Verdict |
+|-------------|------------------|----------|
+| 🔴 **Venu du néant absolu** | Le néant ne produit rien ! | ❌ Impossible |
+| 🔴 **S'est créé lui-même** | Comment exister avant d'exister ?! | ❌ Absurde |
+| 🟢 **Un Créateur l'a créé** | Seule explication logique | ✅ **La vérité** |
+
+> 💡 **Même un enfant comprend** : une maison a un constructeur, un tableau a un peintre, un livre a un auteur... Et cet univers infiniment complexe n'aurait pas de Créateur ?!
 
 ### 2️⃣ La preuve de la perfection et de l'ordre
 

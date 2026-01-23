@@ -10,6 +10,7 @@ import { aqeedahCourse } from './aqeedah'
 import { aqeedah2Course } from './aqeedah-2'
 import { seerahModule1Course } from './seerah-module-1'
 import { seerahModule2Course } from './seerah-module-2'
+import { seerahModule3Course } from './seerah-module-3'
 import { hadithCourse } from './hadith'
 import { siyamCourse } from './siyam'
 import { hajjCourse } from './hajj'
@@ -27,6 +28,7 @@ export { aqeedahCourse } from './aqeedah'
 export { aqeedah2Course } from './aqeedah-2'
 export { seerahModule1Course } from './seerah-module-1'
 export { seerahModule2Course } from './seerah-module-2'
+export { seerahModule3Course } from './seerah-module-3'
 export { hadithCourse } from './hadith'
 export { siyamCourse } from './siyam'
 export { hajjCourse } from './hajj'
@@ -52,6 +54,7 @@ export const coursesData: Course[] = [
   aqeedah2Course,
   seerahModule1Course,
   seerahModule2Course,
+  seerahModule3Course,
   siyamCourse,
   hajjCourse,
 ]
