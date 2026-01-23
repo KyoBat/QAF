@@ -5,6 +5,30 @@
 
 export const content = `# 📜 Belief in Divine Decree (Al-Iman bil-Qadr)
 
+<div class="scene-box">
+
+## Omar Facing the Plague: Flee or Trust?
+
+Year 18 of the Hijra. Omar ibn al-Khattab رضي الله عنه was marching toward Sham at the head of an army. At Sargh, riders came to meet him with terrifying news:
+
+> *"O Commander of the Faithful! The plague is devastating Sham. Thousands are dying each day."*
+
+Omar gathered the Companions. Should they advance or turn back? The debate raged. Some said: *"We set out for Allah's cause, we do not flee!"*
+
+Then Abdurrahman ibn Awf arrived and reported the words of the Prophet ﷺ:
+
+> **"If you hear that a plague has broken out in a land, do not enter it. And if it breaks out in a land where you are, do not leave fleeing from it."**
+
+Omar ordered the return. Abu Ubayda asked him: *"Are you fleeing from Allah's decree?"*
+
+Omar answered with wisdom:
+
+> **"Yes, we flee from Allah's decree to Allah's decree."**
+
+**But how do we understand this reality of destiny while still taking responsibility for our choices?**
+
+</div>
+
 ## 🔍 Definition
 
 Belief in divine decree means having firm faith that Allah has predetermined everything, that He knows everything before its creation, that He has written it in the Preserved Tablet (Al-Lawh Al-Mahfuz), that He has willed it, and that He has created it.

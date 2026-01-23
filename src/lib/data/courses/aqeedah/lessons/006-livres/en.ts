@@ -5,6 +5,26 @@
 
 export const content = `# 📜 Belief in the Revealed Books (Al-Iman bil-Kutub)
 
+<div class="scene-box">
+
+## The Night When Heaven Touched Earth
+
+At the summit of Mount Hira, in the darkness of the cave, Muhammad ﷺ was deep in contemplation. Suddenly, a powerful presence enveloped him. A majestic voice thundered:
+
+> **"Read!"** (اقرأ)
+
+Muhammad, his heart pounding, answered: *"I cannot read."*
+
+The angel embraced him so tightly he felt all his strength leave him, then released:
+
+> **"Read, in the name of your Lord who created, who created man from a clinging substance. Read! And your Lord is the Most Generous, who taught by the pen, taught man that which he knew not."** (Al-'Alaq 96:1-5)
+
+That blessed night of Ramadan, the first words of the Quran descended upon earth. The final Book of Allah began its mission to guide humanity until the end of time...
+
+**But what distinguishes this Book from previous revelations? And why must we believe in the Books that came before?**
+
+</div>
+
 ## 🔍 Definition
 
 Belief in the Books means having firm faith that Allah revealed Books to His messengers, that they contain truth and light, and that the Quran is the last and most perfect of these Books.

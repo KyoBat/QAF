@@ -5,6 +5,24 @@
 
 export const content = `# 📜 Belief in the Last Day (Al-Iman bil-Yawm Al-Akhir)
 
+<div class="scene-box">
+
+## The Day When the Sun Will Be a Mile from the Heads
+
+Imagine this scene. It will be a day when the sun does not rise from the east—it blazes directly above people's heads, so close that they will be drowning in their own sweat.
+
+The Prophet ﷺ described:
+
+> *"The sun will be brought near the people on the Day of Resurrection until it is only a mile away. People will be in their sweat according to their deeds: some up to their ankles, some up to their knees, some up to their waists, and some will have the sweat reaching up to their mouths like a bridle."* (Sahih Muslim 2864)
+
+On that day, the dead will emerge from their graves. The heavens will split apart. The mountains will become dust. Every soul will stand alone before Allah, with nothing but their deeds to speak for them.
+
+No one knows the date. Not the angels, not the prophets, not even Muhammad ﷺ.
+
+**But what exactly happens on that Day? And how do we prepare for it?**
+
+</div>
+
 ## 🔍 Definition
 
 Belief in the Last Day means having firm faith in everything that will happen after death: the punishment and bliss of the grave, the Resurrection, the Gathering, the Judgment, the Balance, the Bridge (Sirat), Paradise and Hell.

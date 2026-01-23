@@ -5,6 +5,24 @@
 
 export const content = `# 📜 La Foi au Jour Dernier (Al-Iman bil-Yawm Al-Akhir)
 
+<div class="scene-box">
+
+## Le jour où le soleil sera à un mille des têtes
+
+Imaginons cette scène. Ce sera un jour où le soleil ne se lève pas à l'est—il brille au-dessus des têtes, si proche que les gens baignent dans leur propre sueur.
+
+Le Prophète ﷺ décrivit :
+
+> *« Le soleil sera rapproché des créatures au point d'être à un mille d'elles. Les gens seront dans leur sueur selon leurs œuvres : pour certains jusqu'aux chevilles, pour d'autres jusqu'aux genoux, pour d'autres jusqu'à la taille, et pour d'autres la sueur leur servira de bride. »* (Sahih Muslim 2864)
+
+Ce jour-là, les morts sortiront de leurs tombes. Les cieux se fendront. Les montagnes deviendront poussière. Chaque âme se tiendra seule devant Allah, n'ayant que ses actes pour plaidoyer.
+
+Personne ne connaît la date. Pas les anges, pas les prophètes, pas même Muhammad ﷺ.
+
+**Mais qu'est-ce qui se passe exactement ce Jour ? Et comment s'y préparer ?**
+
+</div>
+
 ## 🔍 Définition (التعريف)
 
 La foi au Jour Dernier consiste à croire fermement en tout ce qui arrivera après la mort: le châtiment et la félicité de la tombe, la Résurrection, le Rassemblement, le Jugement, la Balance, le Pont (Sirat), le Paradis et l'Enfer.

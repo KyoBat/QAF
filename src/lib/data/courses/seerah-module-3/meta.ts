@@ -21,7 +21,7 @@ export const seerahModule3Meta: CourseMeta = {
   level: 'beginner',
   duration: '5h',
   instructor: 'Zad Academy',
-  image: '/images/courses/seerah/module-3.jpg',
+  image: '/images/courses/seerah.svg',
   tags: ['seerah', 'medina', 'battles', 'badr', 'uhud', 'fath-makkah'],
   featured: true,
   published: true,

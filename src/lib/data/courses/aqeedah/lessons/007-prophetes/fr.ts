@@ -5,6 +5,26 @@
 
 export const content = `# 📜 La Foi aux Prophètes et Messagers (Al-Iman bil-Rusul)
 
+<div class="scene-box">
+
+## 950 ans d'appel : la patience de Nuh عليه السلام
+
+Le soleil tapait sur le chantier. Nuh عليه السلام, malgré son âge avancé, continuait de construire l'arche en plein désert, loin de toute mer. Les notables de son peuple passaient et riaient :
+
+> *« Ô Nuh ! Tu es devenu charpentier maintenant ? Tu construis un bateau là où il n'y a pas d'eau ! »*
+
+Nuh leur répondait calmement :
+
+> **« Si vous vous moquez de nous, nous nous moquerons de vous comme vous vous moquez. »** (Hud 11:38)
+
+Cela faisait **950 ans** qu'il appelait son peuple jour et nuit, en secret et en public. La plupart avaient refusé. Mais Nuh ne désespéra jamais de la miséricorde d'Allah...
+
+Le jour du déluge, ceux qui s'étaient moqués comprirent. Mais il était trop tard.
+
+**Quelle était cette mission si importante que Nuh et tous les prophètes ont portée pendant des siècles ? Découvrons ensemble le message commun de ces élus d'Allah.**
+
+</div>
+
 ## 🔍 Définition (التعريف)
 
 La foi aux prophètes et messagers consiste à croire fermement qu'Allah a envoyé des messagers à chaque communauté pour les guider vers le Tawhid, qu'il faut tous les respecter sans distinction, et que Muhammad ﷺ est le dernier d'entre eux.

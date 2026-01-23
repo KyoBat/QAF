@@ -5,6 +5,22 @@
 
 export const content = `# 📜 La Foi aux Anges (Al-Iman bil-Mala'ika)
 
+<div class="scene-box">
+
+## Le jour où le Prophète ﷺ vit Jibril dans sa vraie forme
+
+C'était lors de la nuit du voyage nocturne. Le Prophète ﷺ leva les yeux vers le ciel et vit une créature d'une majesté indescriptible : **Jibril**, dans sa forme originelle, avec **six cents ailes**, chacune si immense qu'elle couvrait l'horizon.
+
+Le Prophète ﷺ raconta plus tard :
+
+> *« Je l'ai vu descendre du ciel, sa grande taille remplissait l'espace entre le ciel et la terre. »*
+
+À cet instant, Muhammad ﷺ comprit que le monde invisible est peuplé de créatures grandioses, créées de lumière pure, qui ne cessent jamais de glorifier leur Seigneur...
+
+**Et vous, savez-vous qui sont ces êtres qui vous entourent à chaque instant, notant vos paroles et vos actes ?**
+
+</div>
+
 ## 🔍 Définition (التعريف)
 
 La foi aux anges consiste à croire fermement en leur existence, en ce qu'Allah nous a informé à leur sujet dans le Coran et la Sunnah authentique, et à affirmer qu'ils sont des créatures honorées qui ne désobéissent jamais à Allah.

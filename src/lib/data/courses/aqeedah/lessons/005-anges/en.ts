@@ -5,6 +5,22 @@
 
 export const content = `# 📜 Belief in the Angels (Al-Iman bil-Mala'ika)
 
+<div class="scene-box">
+
+## The Day the Prophet ﷺ Saw Jibril in His True Form
+
+It was the night of the heavenly journey. The Prophet ﷺ raised his eyes to the sky and saw a creature of indescribable majesty: **Jibril**, in his original form, with **six hundred wings**, each so immense that it covered the horizon.
+
+The Prophet ﷺ later described:
+
+> *"I saw him descending from the heavens, his great size filling the space between the sky and the earth."*
+
+At that moment, Muhammad ﷺ understood that the unseen world is filled with magnificent creatures, created from pure light, who never cease glorifying their Lord...
+
+**And you—do you know who these beings are that surround you at every moment, recording your words and deeds?**
+
+</div>
+
 ## 🔍 Definition
 
 Belief in the angels means having firm faith in their existence, in what Allah has informed us about them in the Quran and authentic Sunnah, and affirming that they are honored creatures who never disobey Allah.

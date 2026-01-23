@@ -5,6 +5,26 @@
 
 export const content = `# 📜 La Foi aux Livres Révélés (Al-Iman bil-Kutub)
 
+<div class="scene-box">
+
+## La nuit où le ciel toucha la terre
+
+Au sommet du mont Hira, dans l'obscurité de la grotte, Muhammad ﷺ était plongé dans la méditation. Soudain, une présence puissante l'enveloppa. Une voix majestueuse retentit :
+
+> **« Lis ! »** (اقرأ)
+
+Muhammad, le cœur battant, répondit : *« Je ne sais pas lire. »*
+
+L'ange le serra si fort qu'il sentit toutes ses forces l'abandonner, puis le relâcha :
+
+> **« Lis, au nom de ton Seigneur qui a créé, qui a créé l'homme d'une adhérence. Lis ! Et ton Seigneur est le Très Noble, qui a enseigné par la plume, a enseigné à l'homme ce qu'il ne savait pas. »** (Al-'Alaq 96:1-5)
+
+Cette nuit bénie de Ramadan, les premières paroles du Coran descendirent sur terre. Le dernier Livre d'Allah commençait sa mission de guider l'humanité jusqu'à la fin des temps...
+
+**Mais qu'est-ce qui distingue ce Livre des révélations précédentes ? Et pourquoi devons-nous croire aux Livres d'avant ?**
+
+</div>
+
 ## 🔍 Définition (التعريف)
 
 La foi aux Livres consiste à croire fermement qu'Allah a révélé des Livres à Ses messagers, qu'ils contiennent la vérité et la lumière, et que le Coran est le dernier et le plus parfait de ces Livres.

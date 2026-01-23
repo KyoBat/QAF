@@ -5,6 +5,30 @@
 
 export const content = `# 📜 La Foi au Destin (Al-Iman bil-Qadr)
 
+<div class="scene-box">
+
+## Omar face à la peste : fuir ou faire confiance ?
+
+L'an 18 de l'Hégire. Omar ibn al-Khattab رضي الله عنه marchait vers le Sham à la tête d'une armée. À Sargh, des cavaliers vinrent à sa rencontre avec une nouvelle terrifiante :
+
+> *« Ô Émir des Croyants ! La peste ravage le Sham. Des milliers meurent chaque jour. »*
+
+Omar réunit les Compagnons. Fallait-il avancer ou rebrousser chemin ? Le débat fit rage. Certains dirent : *« Nous sommes sortis pour Allah, nous ne fuyons pas ! »*
+
+C'est alors qu'Abdurrahman ibn Awf arriva et rapporta les paroles du Prophète ﷺ :
+
+> **« Si vous entendez qu'une peste sévit dans un pays, n'y entrez pas. Et si elle se déclare là où vous êtes, n'en sortez pas pour la fuir. »**
+
+Omar ordonna le retour. Abu Ubayda lui demanda : *« Fuis-tu le destin d'Allah ? »*
+
+Omar répondit avec sagesse :
+
+> **« Oui, nous fuyons le destin d'Allah vers le destin d'Allah. »**
+
+**Mais alors, comment comprendre cette réalité du destin tout en assumant nos choix ?**
+
+</div>
+
 ## 🔍 Définition (التعريف)
 
 La foi au destin consiste à croire fermement qu'Allah a prédestiné toute chose, qu'Il connaît tout avant sa création, qu'Il l'a écrit dans la Table Gardée (Al-Lawh Al-Mahfuz), qu'Il l'a voulu, et qu'Il l'a créé.

@@ -5,6 +5,26 @@
 
 export const content = `# 📜 Belief in the Prophets and Messengers (Al-Iman bil-Rusul)
 
+<div class="scene-box">
+
+## 950 Years of Calling: The Patience of Nuh عليه السلام
+
+The sun beat down on the worksite. Nuh عليه السلام, despite his advanced age, continued building the ark in the middle of a desert, far from any sea. The nobles of his people passed by and laughed:
+
+> *"O Nuh! Have you become a carpenter now? Building a boat where there is no water!"*
+
+Nuh would answer them calmly:
+
+> **"If you ridicule us, then we will ridicule you just as you ridicule."** (Hud 11:38)
+
+It had been **950 years** since he began calling his people day and night, in secret and in public. Most had refused. But Nuh never despaired of Allah's mercy...
+
+The day of the flood, those who had mocked understood. But it was too late.
+
+**What was this mission so important that Nuh and all prophets carried for centuries? Let us discover together the common message of these chosen ones of Allah.**
+
+</div>
+
 ## 🔍 Definition
 
 Belief in the prophets and messengers means having firm faith that Allah sent messengers to every community to guide them to Tawhid, that we must respect all of them without distinction, and that Muhammad ﷺ is the last of them.
