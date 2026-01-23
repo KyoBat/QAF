@@ -311,7 +311,7 @@ La croyance en Tawheed Ar-Rububiyyah a des effets profonds sur le croyant :
 
 2. **Les plus grands scientifiques croyaient en Dieu :**
    - Newton, découvreur de la gravité, était croyant
-   - Einstein a dit : "La science sans religion est boiteuse, et la religion sans science est aveugle"
+   - Einstein a dit : "La science sans religion est boiteuse, et la religion sans science est aveugle" *(Note : Einstein était déiste, non monothéiste au sens islamique)*
    - Francis Collins (chef du projet Génome Humain) est croyant
 
 3. **La science est limitée :**

@@ -60,7 +60,7 @@ Allah ﷻ dit:
 
 Le Prophète ﷺ a dit:
 
-> "Quand le mort est mis dans sa tombe, deux anges viennent l'interroger. Ils lui demandent: 'Qui est ton Seigneur? Quelle est ta religion? Qui est ton prophète?'" (Sahih Muslim)
+> "Quand le mort est mis dans sa tombe, deux anges viennent l'interroger. Ils lui demandent: 'Qui est ton Seigneur? Quelle est ta religion? Qui est ton prophète?'" (Sahih Muslim 2870)
 
 #### Le châtiment et la félicité de la tombe
 

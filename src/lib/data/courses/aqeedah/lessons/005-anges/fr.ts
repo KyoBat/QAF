@@ -89,7 +89,7 @@ Le gardien de l'Enfer.
 
 ### 5️⃣ Ridwan (رضوان)
 
-Le gardien du Paradis (mentionné dans certains hadiths).
+Le gardien du Paradis selon certaines narrations. *(Note : son nom n'est pas confirmé dans un hadith sahih des Sahihayn)*
 
 ### 6️⃣ L'Ange de la Mort (Malak al-Mawt)
 

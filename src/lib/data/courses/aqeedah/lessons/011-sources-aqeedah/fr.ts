@@ -89,7 +89,7 @@ export const content = `# 📜 Les Sources de la Croyance Authentique — مصا
 
 > **« تَرَكْتُ فِيكُمْ أَمْرَيْنِ لَنْ تَضِلُّوا مَا تَمَسَّكْتُمْ بِهِمَا: كِتَابَ اللَّهِ وَسُنَّةَ نَبِيِّهِ »**
 > *« Je vous ai laissé deux choses : vous ne vous égarerez jamais tant que vous vous y accrocherez : le Livre d'Allah et la Sunna de Son Prophète. »*
-> (Rapporté par Malik dans Al-Muwatta')
+> (Rapporté par Malik dans Al-Muwatta' - mursal. Voir aussi Muslim 1218 pour le discours d'adieu)
 
 </div>
 

@@ -219,7 +219,7 @@ Ni monachisme qui abandonne ce monde, ni matérialisme qui oublie l'au-delà.
 Le Prophète ﷺ a dit:
 
 > **«Le meilleur d'entre vous n'est pas celui qui délaisse sa vie d'ici-bas pour son au-delà, ni son au-delà pour sa vie d'ici-bas, jusqu'à ce qu'il obtienne des deux.»**
-> (Rapporté par Ibn 'Asakir)
+> (Rapporté par Ibn 'Asakir — chaîne à vérifier, non présent dans les Sahihayn)
 
 ---
 
