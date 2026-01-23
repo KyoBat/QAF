@@ -4,8 +4,7 @@
  * Supports AR/EN/FR translations
  */
 
-import type { MindMapData } from '@/components/mindmap';
-import type { InfoBoxData } from '@/components/mindmap/InfoBox';
+import type { MindMapData, GenerationalChainData, MethodFlowchartData, ExpansionTimelineData, InfoBoxData } from '@/components/mindmap';
 
 // Type pour les labels multilingues
 interface MultiLangLabel {
@@ -1881,7 +1880,6 @@ export const imamsChainData: MindMapDataMultiLang = {
 // Données pour le composant de chaîne générationnelle
 // Format compatible avec GenerationalChain component
 // ============================================
-import type { GenerationalChainData } from '@/components/mindmap/GenerationalChain';
 
 export const generationalChainData: GenerationalChainData = {
   title: 'Generational Chain of Imams',
@@ -1947,7 +1945,6 @@ export function getGenerationalChainData(): GenerationalChainData {
 // METHOD FLOWCHART DATA for legal methodology
 // Données pour les schémas de méthodes juridiques
 // ============================================
-import type { MethodFlowchartData } from '@/components/mindmap/MethodFlowchart';
 
 export const hanafiMethodData: MethodFlowchartData = {
   title: 'Hanafi Method',
@@ -2337,8 +2334,6 @@ export const lessonMindMapsMultiLang: Record<string, MindMapDataMultiLang> = {
 // ============================================
 // EXPANSION TIMELINE DATA (Lesson 010-geographie)
 // ============================================
-
-import type { ExpansionTimelineData } from '@/components/mindmap';
 
 // Hanafi Expansion - Ottoman Empire
 export const hanafiExpansionData: ExpansionTimelineData = {
