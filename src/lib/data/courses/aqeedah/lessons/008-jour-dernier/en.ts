@@ -60,7 +60,7 @@ Allah ﷻ says:
 
 The Prophet ﷺ said:
 
-> "When the deceased is placed in his grave, two angels come to him and ask: 'Who is your Lord? What is your religion? Who is your prophet?'" (Sahih Muslim)
+> "When the deceased is placed in his grave, two angels come to him and ask: 'Who is your Lord? What is your religion? Who is your prophet?'" (Sahih Muslim 2870)
 
 #### The punishment and bliss of the grave
 

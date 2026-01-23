@@ -89,7 +89,7 @@ The guardian of Hell.
 
 ### 5️⃣ Ridwan (رضوان)
 
-The guardian of Paradise (mentioned in some hadiths).
+The guardian of Paradise according to some narrations. *(Note: his name is not confirmed in an authentic hadith in the Sahihayn)*
 
 ### 6️⃣ The Angel of Death (Malak al-Mawt)
 

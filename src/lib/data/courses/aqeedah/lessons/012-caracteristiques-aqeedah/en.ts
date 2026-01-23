@@ -204,7 +204,7 @@ Neither monasticism that abandons this world, nor materialism that forgets the h
 The Prophet ﷺ said:
 
 > **"The best among you is not the one who abandons his worldly life for his hereafter, nor his hereafter for his worldly life, until he attains from both."**
-> (Reported by Ibn 'Asakir)
+> (Reported by Ibn 'Asakir — chain needs verification, not in the Sahihayn)
 
 ---
 

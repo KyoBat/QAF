@@ -312,7 +312,7 @@ Belief in Tawheed Ar-Rububiyyah has profound effects on the believer:
 
 2. **The greatest scientists believed in God:**
    - Newton, discoverer of gravity, was a believer
-   - Einstein said: "Science without religion is lame, religion without science is blind"
+   - Einstein said: "Science without religion is lame, religion without science is blind" *(Note: Einstein was a deist, not a monotheist in the Islamic sense)*
    - Francis Collins (leader of the Human Genome Project) is a believer
 
 3. **Science is limited:**
