@@ -79,8 +79,9 @@ In the 8th year of Hijra, Quraysh broke the Treaty of Hudaybiya by helping Banu 
 | Element | Detail |
 |---------|--------|
 | Size | 10,000 fighters |
-| Date | 10th Ramadan, Year 8 H |
-| March duration | 8 days |
+| Departure from Medina | 10th Ramadan, Year 8 H |
+| Entry into Mecca | 20th Ramadan, Year 8 H |
+| March duration | 8-10 days |
 
 ### Abu Sufyan Sees the Army
 

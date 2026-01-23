@@ -87,9 +87,8 @@ The Prophet ﷺ was born in **the Year of the Elephant** (570 CE / 53 Before Hij
 
 | Event | Date |
 |-------|------|
-| **Abraha's Attack** | Early in the Year of the Elephant |
+| **Abraha's Attack** | Early in the Year of the Elephant (around Muharram) |
 | **Birth of the Prophet ﷺ** | Monday, 12th Rabî' al-Awwal, Year of the Elephant |
-| **Interval** | About 50-55 days after the Elephant incident |
 
 > 💡 **Divine Wisdom**: The protection of the Kaaba from Abraha was an **announcement** of the imminent birth of the one who would purify it from idols!
 

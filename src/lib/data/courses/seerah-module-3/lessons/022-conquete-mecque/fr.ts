@@ -79,8 +79,9 @@ En l'an 8 de l'Hégire, Quraysh rompit le traité de Hudaybiya en aidant les Ban
 | Élément | Détail |
 |---------|--------|
 | Effectif | 10 000 combattants |
-| Date | 10 Ramadan an 8 H |
-| Durée de marche | 8 jours |
+| Départ de Médine | 10 Ramadan an 8 H |
+| Entrée à La Mecque | 20 Ramadan an 8 H |
+| Durée de marche | 8-10 jours |
 
 ### Abu Sufyan Voit l'Armée
 

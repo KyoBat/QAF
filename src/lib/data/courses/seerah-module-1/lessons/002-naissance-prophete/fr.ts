@@ -87,9 +87,8 @@ Le Prophète ﷺ naquit en **l'An de l'Éléphant** (570 après J.-C. / 53 avant
 
 | Événement | Date |
 |-----------|------|
-| **Attaque d'Abraha** | Début de l'An de l'Éléphant |
+| **Attaque d'Abraha** | Début de l'An de l'Éléphant (vers Muharram) |
 | **Naissance du Prophète ﷺ** | Lundi, 12 Rabî' al-Awwal, An de l'Éléphant |
-| **Intervalle** | Environ 50-55 jours après l'incident de l'Éléphant |
 
 > 💡 **Sagesse divine** : La protection de la Kaaba contre Abraha était une **annonce** de l'imminente naissance de celui qui la purifierait des idoles !
 

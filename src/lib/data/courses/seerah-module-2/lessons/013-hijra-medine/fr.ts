@@ -388,7 +388,7 @@ Abu Ma'bad dit : *« C'est, par Allah, l'homme de Quraysh qu'ils recherchent ! �
 
 ### Le Premier Point d'Arrivée
 
-Le lundi 8 Rabi' al-Awwal (23 septembre 622), le Prophète ﷺ atteignit **Quba** — un village au sud de Médine.
+Le lundi 12 Rabi' al-Awwal an 1 H (24 septembre 622), le Prophète ﷺ atteignit **Quba** — un village au sud de Médine.
 
 > 🎭 **La Scène** :
 >

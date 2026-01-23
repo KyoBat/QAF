@@ -388,7 +388,7 @@ Abu Ma'bad said: *"This, by Allah, is the man of Quraysh they are searching for!
 
 ### The First Point of Arrival
 
-On Monday 8th of Rabi' al-Awwal (September 23, 622), the Prophet ﷺ reached **Quba** — a village south of Medina.
+On Monday 12th of Rabi' al-Awwal, Year 1 H (September 24, 622), the Prophet ﷺ reached **Quba** — a village south of Medina.
 
 > 🎭 **The Scene**:
 >
