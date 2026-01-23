@@ -1,29 +1,60 @@
 /**
  * Aqeedah - Lesson 014: Pillars and Categories of Tawhid
- * English Content
+ * English Content - Narrative and Immersive Style
  */
 
-export const content = `# 📜 Pillars and Categories of Tawhid
+export const content = `# 🌟 The Pillars and Categories of Tawhid — أقسام التوحيد الثلاثة
 
-## 🌟 Introduction
-
-Tawhid is the foundation and essence of the religion. It is singling out Allah in what is exclusive to Him in terms of Lordship, Divinity, and Names and Attributes. Scholars have divided Tawhid into three categories through induction from the texts of the Book and the Sunnah.
-
-Allah ﷻ says:
-
-> "Say: 'He is Allah, the One. Allah, the Eternal Refuge. He neither begets nor is born. Nor is there to Him any equivalent.'" (Al-Ikhlas 112:1-4)
+> *"Tawhid is the treasure for which the Prophets were sent, the Books were revealed, and the swords of Jihad were drawn. It is the right of Allah upon His servants."*
 
 ---
 
-## The Three Categories of Tawhid
+## 🎬 Prologue: The Supreme Right of Allah
 
-### Overview
+<div class="scene-box">
 
-| Category | Definition | Example |
-|----------|------------|---------|
-| Tawhid Ar-Rububiyyah | Allah's uniqueness in His actions | Creation, provision, management |
-| Tawhid Al-Uluhiyyah | Allah's uniqueness in servants' actions | Supplication, sacrifice, vow |
-| Tawhid Al-Asma was-Sifat | Allah's uniqueness in His Names and Attributes | The All-Knowing, The Merciful, the Establishment |
+**💠 THE QUESTION OF MU'ĀDH**
+
+*The Prophet ﷺ was riding a mount, with Mu'ādh ibn Jabal رضي الله عنه behind him. The Prophet ﷺ turned and asked:*
+
+**The Prophet ﷺ:** "O Mu'ādh! Do you know what is the right of Allah upon His servants?"
+
+**Mu'ādh:** "Allah and His Messenger know best."
+
+**The Prophet ﷺ:** **"حَقُّ اللَّهِ عَلَى الْعِبَادِ أَنْ يَعْبُدُوهُ وَلَا يُشْرِكُوا بِهِ شَيْئًا"**
+*"The right of Allah upon His servants is that they worship Him and associate nothing with Him."*
+
+**The Prophet ﷺ:** "And do you know what is the right of the servants upon Allah if they do that?"
+
+**Mu'ādh:** "Allah and His Messenger know best."
+
+**The Prophet ﷺ:** **"أَنْ لَا يُعَذِّبَهُمْ"** — *"That He does not punish them."*
+> (Sahih Bukhari 2856, Sahih Muslim 30)
+
+</div>
+
+Allah ﷻ says:
+
+> **﴿قُلْ هُوَ اللَّهُ أَحَدٌ ۝ اللَّهُ الصَّمَدُ ۝ لَمْ يَلِدْ وَلَمْ يُولَدْ ۝ وَلَمْ يَكُن لَهُ كُفُوًا أَحَدٌ﴾**
+> *"Say: 'He is Allah, the One. Allah, the Eternal Refuge. He neither begets nor is born. Nor is there to Him any equivalent.'"* [Al-Ikhlās: 1-4]
+
+---
+
+## 🏗️ The Three Categories of Tawhid — Overview
+
+<div class="scene-box">
+
+**🔶 THE TRIANGLE OF TAWHID**
+
+*Scholars, through induction from the texts of the Quran and Sunnah, have classified Tawhid into three interconnected categories, like a perfect triangle:*
+
+| 🔷 Category | 📌 Definition | 📝 Key Question |
+|:-----------|:------------|:--------------|
+| **ربوبية** Tawhid Ar-Rububīyyah | Allah's uniqueness in **His actions** | Who created? Who manages? |
+| **ألوهية** Tawhid Al-Uluhīyyah | Allah's uniqueness in **the servants' actions** | Whom should I worship? |
+| **أسماء وصفات** Tawhid Al-Asmā' was-Sifāt | Allah's uniqueness in **His Names and Attributes** | Who is Allah? |
+
+</div>
 
 ---
 

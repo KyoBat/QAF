@@ -1,38 +1,64 @@
 /**
  * Aqeedah - Lesson 012: Characteristics of Authentic Creed
- * English Content
+ * English Content - Narrative and Immersive Style
  */
 
-export const content = `# 📜 Characteristics of Authentic Islamic Creed
+export const content = `# 💎 Characteristics of Authentic Islamic Creed — مميزات العقيدة الإسلامية
 
-## 🌟 Introduction
-
-The Islamic creed is distinguished by unique characteristics that make it the true creed that Allah has chosen for His servants. These characteristics prove that it comes from Allah, the All-Knowing, the Wise.
-
-Allah ﷻ says:
-
-> "Indeed, the religion in the sight of Allah is Islam." (Al Imran 3:19)
+> *"As a diamond is distinguished from glass by its purity, hardness, and brilliance, the Islamic creed is distinguished by unique characteristics that prove its divine origin."*
 
 ---
 
-## 1️⃣ First: Divine Source
+## 🎬 Prologue: The Seal of Authenticity
 
-### Meaning
+<div class="scene-box">
 
-The Islamic creed has its source in revelation from Allah, not from human efforts or their philosophies.
+**💎 THE DIAMOND AND THE GLASS**
 
-### Proofs
+*An expert jeweler can distinguish a diamond from an imitation in a few seconds. How? By unique characteristics that only the real diamond possesses: its incomparable hardness, its refraction of light, its crystalline purity...*
 
-> "Nor does he speak from his own desire. It is not but a revelation revealed." (An-Najm 53:3-4)
+*Likewise, the Islamic creed bears characteristics that prove, beyond any shadow of doubt, that it comes from the Creator and not from the creation.*
 
-> "A revelation from the Most Merciful, the Most Gracious." (Fussilat 41:2)
+*Let us discover these jewels that make our faith shine...*
 
-### Fruits of this
+</div>
 
-1. **Preservation from error**: Because it comes from the All-Knowing, the Wise
-2. **Perfection**: Because Allah is perfect, without defect
-3. **Stability**: It does not change with time and place
-4. **Decisive proof**: Because it comes from the Creator, not from the creation
+Allah ﷻ says:
+
+> **﴿إِنَّ الدِّينَ عِندَ اللَّهِ الْإِسْلَامُ﴾**
+> *"Indeed, the religion in the sight of Allah is Islam."* [Āl-'Imrān: 19]
+
+---
+
+## 1️⃣ Divine Source (ربانية المصدر) — From Heaven, Not Earth
+
+### 🌟 From the Creator, not the creation
+
+<div class="scene-box">
+
+**📝 THE DIFFERENCE BETWEEN TWO GUIDES**
+
+*Imagine you must cross a dangerous forest. Who would you choose as a guide?*
+
+**❌ Option 1:** A man who has never set foot in this forest, who invents the path as he goes, who may make mistakes...
+
+**✅ Option 2:** The One who created this forest, who knows every tree, every trap, every shortcut...
+
+*The Islamic creed is the guide from the Creator. Human philosophies are the gropings of the created.*
+
+</div>
+
+> **﴿وَمَا يَنطِقُ عَنِ الْهَوَىٰ ۝ إِنْ هُوَ إِلَّا وَحْيٌ يُوحَىٰ﴾**
+> *"Nor does he speak from his own desire. It is not but a revelation revealed."* [An-Najm: 3-4]
+
+### 🌟 Fruits of this divine origin
+
+| Fruit | Explanation |
+|-------|-------------|
+| ✅ **Preserved from error** | Because it comes from the All-Knowing, the Wise |
+| ✅ **Perfect** | Because Allah is perfect, without defect |
+| ✅ **Stable** | It does not change with time |
+| ✅ **Decisive proof** | Argument from the Creator, not from creation |
 
 ---
 

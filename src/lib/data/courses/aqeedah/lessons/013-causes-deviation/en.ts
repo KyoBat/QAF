@@ -1,45 +1,74 @@
 /**
  * Aqeedah - Lesson 013: Causes of Deviation from Authentic Creed
- * English Content
+ * English Content - Narrative and Immersive Style
  */
 
-export const content = `# 📜 Causes of Deviation from Authentic Creed
+export const content = `# ⚠️ Causes of Deviation from Authentic Creed — أسباب الانحراف
 
-## 🌟 Introduction
-
-Deviation from authentic creed is an ancient phenomenon, against which Allah and His Messenger have warned. Knowing the causes of deviation helps in guarding against it.
-
-Allah ﷻ says:
-
-> "And this is My path, which is straight, so follow it; and do not follow other ways, for you will be separated from His way." (Al-An'am 6:153)
+> *"Knowing evil protects you from it. The traveler who knows the traps on the path is the one who reaches his destination."*
 
 ---
 
-## 1️⃣ First: Ignorance
+## 🎬 Prologue: The Traps on the Path
 
-### The most dangerous cause of deviation
+<div class="scene-box">
 
-Ignorance of the Book, the Sunnah, and the methodology of the Salaf is the most dangerous cause of misguidance.
+**🛤️ THE PATH AND ITS DETOURS**
 
-### Proof
+*The Prophet ﷺ once drew a straight line on the ground, then drew lines on either side of it.*
 
-> "Say: 'Are those who know equal to those who do not know?'" (Az-Zumar 39:9)
+*He said, pointing to the middle line:*
 
-The Prophet ﷺ said:
+> **"هَذَا سَبِيلُ اللَّهِ"** — *"This is the path of Allah."*
 
-> **"Indeed, Allah does not take away knowledge by snatching it from the servants, but He takes away knowledge by taking away the scholars. Until, when no scholar remains, people take ignorant leaders. They are asked and give verdicts without knowledge, so they go astray and lead others astray."**
+*Then, pointing to the side lines:*
+
+> **"وَهَذِهِ السُّبُلُ، عَلَى كُلِّ سَبِيلٍ مِنْهَا شَيْطَانٌ يَدْعُو إِلَيْهِ"**
+> *"And these are the paths. On each path, there is a devil calling to it."*
+> (Reported by Ahmad, authenticated by Al-Albani)
+
+*Allah ﷻ says:*
+
+> **﴿وَأَنَّ هَٰذَا صِرَاطِي مُسْتَقِيمًا فَاتَّبِعُوهُ ۖ وَلَا تَتَّبِعُوا السُّبُلَ فَتَفَرَّقَ بِكُمْ عَن سَبِيلِهِ﴾**
+> *"And this is My path, which is straight, so follow it; and do not follow other ways, for you will be separated from His way."* [Al-An'ām: 153]
+
+</div>
+
+**Knowing the causes of deviation = Protecting your faith.**
+
+---
+
+## 1️⃣ Ignorance (الجهل) — The Mother of All Deviations
+
+### 🚨 Danger #1
+
+<div class="scene-box">
+
+**📕 THE PROPHECY OF THE PROPHET ﷺ**
+
+*The Prophet ﷺ warned of a dark future:*
+
+> **"إِنَّ اللَّهَ لَا يَقْبِضُ الْعِلْمَ انْتِزَاعًا يَنْتَزِعُهُ مِنَ الْعِبَادِ، وَلَكِنْ يَقْبِضُ الْعِلْمَ بِقَبْضِ الْعُلَمَاءِ، حَتَّى إِذَا لَمْ يُبْقِ عَالِمٌ، اتَّخَذَ النَّاسُ رُؤُوسًا جُهَّالًا، فَسُئِلُوا فَأَفْتَوْا بِغَيْرِ عِلْمٍ، فَضَلُّوا وَأَضَلُّوا"**
+
+*"Indeed, Allah does not take away knowledge by snatching it from the servants, but He takes away knowledge by taking away the scholars. Until, when no scholar remains, people take ignorant leaders. They are asked and give verdicts without knowledge, so **they go astray and lead others astray**."*
 > (Sahih Bukhari 100, Sahih Muslim 2673)
 
-### Types of ignorance
+*This is the catastrophic scenario: the blind leading the blind.*
 
-1. **Simple ignorance**: Lack of knowledge
-2. **Compound ignorance**: Ignorance with the illusion of knowledge (the most dangerous!)
+</div>
 
-### The remedy
+### 📊 Two Types of Ignorance
 
-- Seeking religious knowledge
-- Returning to righteous scholars
-- Humility and acknowledging one's ignorance
+| Type | Definition | Danger |
+|------|------------|--------|
+| 🟡 **Simple ignorance** | Knowing that you don't know | ⚠️ Can be cured by learning |
+| 🔴 **Compound ignorance** | Believing you know when you don't | 💥 **The most dangerous!** You refuse to learn |
+
+### 💊 The Remedy
+
+- 📚 Seek authentic religious knowledge
+- 👨‍🏫 Return to righteous scholars
+- 🪷 Humility and acknowledging one's ignorance
 
 ---
 

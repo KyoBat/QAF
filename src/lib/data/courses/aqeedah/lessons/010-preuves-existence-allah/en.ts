@@ -1,47 +1,105 @@
 /**
  * Aqeedah - Lesson 010: Proofs of Allah's Existence
- * English Content
+ * English Content - Narrative and Immersive Style
  */
 
-export const content = `# 📜 Proofs of Allah's Existence
+export const content = `# 🌌 Proofs of Allah's Existence — البراهين على وجود الله
 
-## 🌟 Introduction
-
-Belief in Allah is the foundation of Islamic creed. Allah has established for mankind numerous proofs of His existence: innate proofs (Fitra), sensory proofs, rational proofs, and scriptural proofs.
-
-Allah ﷻ says:
-
-> "Can there be doubt about Allah, Creator of the heavens and earth?" (Ibrahim 14:10)
+> *"In every atom of the universe, in every beat of your heart, in every sunrise... there is a sign crying out: Allah exists!"*
 
 ---
 
-## 1️⃣ First: The Innate Proof (Al-Fitra)
+## 🎬 Prologue: The Existential Question
 
-### Meaning of Fitra
+<div class="scene-box">
 
-Fitra is the original nature upon which Allah created human beings: the acknowledgment of Allah's existence and His oneness.
+**🌙 A NIGHT IN THE DESERT**
 
-### Proof from the Quran
+*A bedouin raises his eyes to the star-filled sky. Millions of stars sparkle in the vast darkness. A traveler approaches him and asks:*
 
-> "So direct your face toward the religion, inclining to truth. Adhere to the Fitra of Allah upon which He has created all people. No change should there be in the creation of Allah. That is the correct religion." (Ar-Rum 30:30)
+**The traveler:** "O bedouin, how do you know that God exists? You have never seen Him!"
 
-### Proof from the Sunnah
+*The bedouin smiled, pointing to the ground then to the sky:*
+
+**The bedouin:** "**The camel droppings indicate the camel. The footprints indicate the walker. A sky with constellations, an earth with pathways, seas with waves... do these not indicate the Subtle, the All-Aware?!**"
+
+*The traveler fell silent, his heart touched by this self-evident truth.*
+
+</div>
+
+Allah ﷻ says:
+
+> **﴿أَفِي اللَّهِ شَكٌّ فَاطِرِ السَّمَاوَاتِ وَالْأَرْضِ﴾**
+> *"Can there be doubt about Allah, Creator of the heavens and earth?"* [Ibrāhīm: 10]
+
+---
+
+## 1️⃣ The Innate Proof (Al-Fitra) — The Cry of the Heart
+
+### 💡 What is Fitra?
+
+Imagine a child who was never raised upon any religion... Place him before the vastness of the universe, before a terrifying storm, before mortal danger... **To whom will he instinctively turn?**
+
+This deep feeling, this inner voice that recognizes an Almighty Creator, is the **Fitra** — the original pure nature upon which Allah created every human being.
+
+<div class="scene-box">
+
+**⛵ SCENE: IN THE HEART OF THE STORM**
+
+*A ship caught in a devastating storm. Waves rise like mountains. The sailors, many of whom were atheists, fall to their knees...*
+
+**The sailors:** "O God! O God! Save us!"
+
+*Allah describes this scene:*
+
+> **﴿وَإِذَا مَسَّكُمُ الضُّرُّ فِي الْبَحْرِ ضَلَّ مَن تَدْعُونَ إِلَّا إِيَّاهُ﴾**
+> *"And when adversity touches you at sea, lost are all those you invoke except for Him."* [Al-Isrā': 67]
+
+</div>
+
+### 📜 Proof from the Quran
+
+> **﴿فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًا ۚ فِطْرَتَ اللَّهِ الَّتِي فَطَرَ النَّاسَ عَلَيْهَا ۚ لَا تَبْدِيلَ لِخَلْقِ اللَّهِ﴾**
+> *"So direct your face toward the religion, inclining to truth. Adhere to the Fitra of Allah upon which He has created all people. No change should there be in the creation of Allah."* [Ar-Rūm: 30]
+
+### 📿 Proof from the Sunnah
 
 The Prophet ﷺ said:
 
-> **"Every child is born upon the Fitra (natural disposition). It is his parents who make him a Jew, a Christian, or a Zoroastrian."**
+> **"كُلُّ مَوْلُودٍ يُولَدُ عَلَى الْفِطْرَةِ، فَأَبَوَاهُ يُهَوِّدَانِهِ أَوْ يُنَصِّرَانِهِ أَوْ يُمَجِّسَانِهِ"**
+> *"Every child is born upon the Fitra (natural disposition). It is his parents who make him a Jew, a Christian, or a Zoroastrian."*
 > (Sahih Bukhari 1358, Sahih Muslim 2658)
 
-### Manifestations of Fitra
+### 🔑 The Primordial Covenant — The Day You Testified
 
-1. **Turning to Allah in times of hardship:**
-   > "And when adversity touches you at sea, lost are all those you invoke except for Him." (Al-Isra 17:67)
+<div class="scene-box">
 
-2. **The inner feeling of a Creator's existence:**
-   Every human being feels deep within the existence of a higher power that created them.
+**⏳ BEFORE TIME: THE COVENANT OF ALASTU**
 
-3. **The Primordial Covenant:**
-   > "And when your Lord took from the children of Adam, from their loins, their descendants and made them testify of themselves, saying: 'Am I not your Lord?' They said: 'Yes!'" (Al-A'raf 7:172)
+*Before you came into this world, before your parents met, before Adam descended to earth... Allah gathered all the souls of humanity.*
+
+*Imagine this grand scene: billions of souls, from Adam to the last human, all present before their Lord...*
+
+**Allah ﷻ:** **"ألستُ بربكم؟ — Am I not your Lord?"**
+
+**All the souls, in unison:** **"قَالُوا بَلَىٰ — Yes, we testify!"**
+
+*You were there. You testified. You recognized your Lord.*
+
+> **﴿وَإِذْ أَخَذَ رَبُّكَ مِن بَنِي آدَمَ مِن ظُهُورِهِمْ ذُرِّيَّتَهُمْ وَأَشْهَدَهُمْ عَلَىٰ أَنفُسِهِمْ أَلَسْتُ بِرَبِّكُمْ ۖ قَالُوا بَلَىٰ﴾**
+> *"And when your Lord took from the children of Adam, from their loins, their descendants and made them testify of themselves, saying: 'Am I not your Lord?' They said: 'Yes!'"* [Al-A'rāf: 172]
+
+</div>
+
+### 🌊 Manifestations of Fitra
+
+| Situation | Natural Reaction |
+|-----------|------------------|
+| 😰 **Mortal danger** | Instinctively turning to Allah |
+| 🌌 **Contemplating the universe** | Feeling the presence of a Creator |
+| 💔 **Difficult trial** | Need to pray and supplicate |
+| 👶 **Innocent childhood** | Questions about God before any upbringing |
+| 🎯 **Quest for meaning** | Searching for a transcendent truth |
 
 ### Why do some people deviate from Fitra?
 

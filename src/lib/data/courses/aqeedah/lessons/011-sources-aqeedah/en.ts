@@ -1,39 +1,64 @@
 /**
  * Aqeedah - Lesson 011: Sources of Authentic Creed
- * English Content
+ * English Content - Narrative and Immersive Style
  */
 
-export const content = `# 📜 Sources of Authentic Creed
+export const content = `# 📜 Sources of Authentic Creed — مصادر العقيدة الصحيحة
 
-## 🌟 Introduction
-
-The Islamic creed has defined sources that must not be exceeded. These are divine sources, preserved from error and distortion. From where do we take our creed?
-
-Allah ﷻ says:
-
-> "O you who have believed, obey Allah and obey the Messenger and those in authority among you. And if you disagree over anything, refer it to Allah and the Messenger." (An-Nisa 4:59)
+> *"If you want to build an edifice that touches the sky, make sure its foundation rests on rock, not on sand. The Islamic creed is that rock."*
 
 ---
 
-## First Source: The Noble Quran
+## 🎬 Prologue: The Believer's Compass
 
-### Definition
+<div class="scene-box">
 
-The speech of Allah revealed to His Prophet Muhammad ﷺ, whose recitation is an act of worship, transmitted to us through continuous transmission (tawatur).
+**🧭 THE LOST TRAVELER**
 
-### Why is the Quran the first source?
+*Imagine a traveler crossing a vast desert. He has no map, no compass. Voices call to him from all sides, each claiming to show the right path...*
 
-1. **It is Allah's direct speech:**
-   > "And indeed, it is a revelation from the Lord of the worlds. The Trustworthy Spirit (Jibril) has brought it down upon your heart that you may be of the warners." (Ash-Shu'ara 26:192-194)
+**Voice of the philosophers:** "Follow your reason!"
 
-2. **Preserved from distortion:**
-   > "Indeed, it is We who sent down the Reminder and indeed, We will be its guardian." (Al-Hijr 15:9)
+**Voice of the mystics:** "Follow your heart and your visions!"
 
-3. **Absolutely authentic:**
-   Transmitted through tawatur (continuous transmission) generation after generation.
+**Voice of the ancestors:** "Follow what our fathers did!"
 
-4. **Contains the foundations of the religion:**
-   > "We have not neglected in the Book a thing." (Al-An'am 6:38)
+*But only one voice is truthful — the voice of the Guide who knows the way:*
+
+> **﴿يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللَّهَ وَأَطِيعُوا الرَّسُولَ وَأُولِي الْأَمْرِ مِنكُمْ ۖ فَإِن تَنَازَعْتُمْ فِي شَيْءٍ فَرُدُّوهُ إِلَى اللَّهِ وَالرَّسُولِ﴾**
+> *"O you who have believed, obey Allah and obey the Messenger and those in authority among you. And if you disagree over anything, refer it to Allah and the Messenger."* [An-Nisā': 59]
+
+</div>
+
+**From where do we take our creed?** This is THE fundamental question.
+
+---
+
+## 📖 Source #1: The Noble Quran — الكتاب العزيز
+
+### 🌟 The Speech of the Creator
+
+<div class="scene-box">
+
+**💎 A LETTER FROM THE KING OF KINGS**
+
+*Imagine that a king sent you a personal letter, sealed with his royal seal, containing his instructions for you. Would you read it once then forget it? Or would you cherish it, reread it, and follow every instruction?*
+
+*The Quran is far greater than that: it is the Speech of the King of kings, the Creator of the heavens and earth, addressed directly to you.*
+
+> **﴿وَإِنَّهُ لَتَنزِيلُ رَبِّ الْعَالَمِينَ ۝ نَزَلَ بِهِ الرُّوحُ الْأَمِينُ ۝ عَلَىٰ قَلْبِكَ لِتَكُونَ مِنَ الْمُنذِرِينَ﴾**
+> *"And indeed, it is a revelation from the Lord of the worlds. The Trustworthy Spirit (Jibril) has brought it down upon your heart that you may be of the warners."* [Ash-Shu'arā': 192-194]
+
+</div>
+
+### ✨ Why is the Quran the first source?
+
+| Characteristic | Explanation | Proof |
+|----------------|-------------|-------|
+| 📜 **Allah's direct speech** | Uncreated, revealed | *"It is a revelation from the Lord of the worlds"* |
+| 🔒 **Preserved forever** | Not a single letter has changed in 14 centuries | ﴿إِنَّا نَحْنُ نَزَّلْنَا الذِّكْرَ وَإِنَّا لَهُ لَحَافِظُونَ﴾ |
+| 🔗 **Continuous transmission (Tawatur)** | Millions memorized it generation after generation | Absolute authenticity |
+| 📚 **Contains all fundamentals** | Nothing essential is omitted | ﴿مَّا فَرَّطْنَا فِي الْكِتَابِ مِن شَيْءٍ﴾ |
 
 ### Examples of verses on creed
 
