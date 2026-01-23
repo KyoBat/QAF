@@ -13,8 +13,9 @@ import { lesson009 } from './lessons/009-persecution'
 import { lesson010 } from './lessons/010-annees-difficiles'
 import { lesson011 } from './lessons/011-voyage-taif'
 import { lesson012 } from './lessons/012-isra-miraj'
+import { lesson013 } from './lessons/013-hijra-medine'
 
 export const seerahModule2Course: Course = {
   ...seerahModule2Meta,
-  lessons: [lesson006, lesson007, lesson008, lesson009, lesson010, lesson011, lesson012],
+  lessons: [lesson006, lesson007, lesson008, lesson009, lesson010, lesson011, lesson012, lesson013],
 }
