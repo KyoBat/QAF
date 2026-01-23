@@ -2030,6 +2030,258 @@ export function getMethodData(school: 'hanafi' | 'maliki' | 'shafii' | 'hanbali'
 }
 
 // ============================================
+// SEERAH - Chronologie des Batailles (Module 3)
+// ============================================
+export const seerahBattlesTimelineData: MindMapDataMultiLang = {
+  id: 'root',
+  label: { ar: 'غزوات النبي ﷺ', en: 'Battles of the Prophet ﷺ', fr: 'Batailles du Prophète ﷺ' },
+  icon: '⚔️',
+  color: '#1e3a5f',
+  children: [
+    {
+      id: 'badr',
+      label: { ar: 'غزوة بدر الكبرى', en: 'Battle of Badr', fr: 'Bataille de Badr' },
+      icon: '🏆',
+      color: '#2d6a4f',
+      children: [
+        { id: 'badr-date', label: { ar: '١٧ رمضان ٢ هـ (٦٢٤م)', en: '17 Ramadan 2H (624 CE)', fr: '17 Ramadan 2H (624 ap. J.-C.)' }, icon: '📅' },
+        { id: 'badr-forces', label: { ar: '٣١٣ مسلم ضد ١٠٠٠', en: '313 Muslims vs 1000', fr: '313 Musulmans vs 1000' }, icon: '👥' },
+        { id: 'badr-result', label: { ar: 'نصر مبين + ملائكة', en: 'Clear victory + Angels', fr: 'Victoire éclatante + Anges' }, icon: '✨' },
+        { id: 'badr-lesson', label: { ar: 'النصر من عند الله', en: 'Victory is from Allah', fr: 'La victoire vient d\'Allah' }, icon: '💡' },
+      ],
+    },
+    {
+      id: 'uhud',
+      label: { ar: 'غزوة أُحد', en: 'Battle of Uhud', fr: 'Bataille d\'Uhud' },
+      icon: '⛰️',
+      color: '#c9184a',
+      children: [
+        { id: 'uhud-date', label: { ar: 'شوال ٣ هـ (٦٢٥م)', en: 'Shawwal 3H (625 CE)', fr: 'Shawwal 3H (625 ap. J.-C.)' }, icon: '📅' },
+        { id: 'uhud-forces', label: { ar: '٧٠٠ مسلم ضد ٣٠٠٠', en: '700 Muslims vs 3000', fr: '700 Musulmans vs 3000' }, icon: '👥' },
+        { id: 'uhud-archers', label: { ar: 'خطأ الرماة', en: 'Archers\' mistake', fr: 'Erreur des archers' }, icon: '🏹' },
+        { id: 'uhud-martyrs', label: { ar: '٧٠ شهيداً منهم حمزة', en: '70 martyrs incl. Hamza', fr: '70 martyrs dont Hamza' }, icon: '🕊️' },
+        { id: 'uhud-lesson', label: { ar: 'طاعة القائد', en: 'Obey the leader', fr: 'Obéir au chef' }, icon: '💡' },
+      ],
+    },
+    {
+      id: 'ahzab',
+      label: { ar: 'غزوة الأحزاب (الخندق)', en: 'Battle of the Trench', fr: 'Bataille des Coalisés' },
+      icon: '🏗️',
+      color: '#7b2cbf',
+      children: [
+        { id: 'ahzab-date', label: { ar: 'شوال ٥ هـ (٦٢٧م)', en: 'Shawwal 5H (627 CE)', fr: 'Shawwal 5H (627 ap. J.-C.)' }, icon: '📅' },
+        { id: 'ahzab-coalition', label: { ar: '١٠,٠٠٠ من الأحزاب', en: '10,000 Confederates', fr: '10 000 Coalisés' }, icon: '👥' },
+        { id: 'ahzab-trench', label: { ar: 'فكرة سلمان الفارسي', en: 'Salman\'s trench idea', fr: 'Idée de Salman: tranchée' }, icon: '🛠️' },
+        { id: 'ahzab-wind', label: { ar: 'ريح وجنود من الله', en: 'Wind & invisible soldiers', fr: 'Vent & soldats invisibles' }, icon: '🌪️' },
+        { id: 'ahzab-lesson', label: { ar: 'الإبداع في الدفاع', en: 'Creative defense', fr: 'Défense créative' }, icon: '💡' },
+      ],
+    },
+    {
+      id: 'hudaybiya',
+      label: { ar: 'صلح الحديبية', en: 'Treaty of Hudaybiya', fr: 'Traité de Hudaybiya' },
+      icon: '🤝',
+      color: '#0891b2',
+      children: [
+        { id: 'hudaybiya-date', label: { ar: 'ذو القعدة ٦ هـ (٦٢٨م)', en: 'Dhul Qi\'dah 6H (628 CE)', fr: 'Dhul Qi\'dah 6H (628 ap. J.-C.)' }, icon: '📅' },
+        { id: 'hudaybiya-pilgrims', label: { ar: '١٤٠٠ مسلم للعمرة', en: '1400 Muslims for Umra', fr: '1400 Musulmans pour la Omra' }, icon: '🕋' },
+        { id: 'hudaybiya-terms', label: { ar: 'شروط تبدو مجحفة', en: 'Seemingly unfair terms', fr: 'Termes apparemment injustes' }, icon: '📜' },
+        { id: 'hudaybiya-result', label: { ar: 'فتح مبين!', en: 'Clear victory!', fr: 'Victoire éclatante!' }, icon: '🏆' },
+        { id: 'hudaybiya-lesson', label: { ar: 'الحكمة فوق العاطفة', en: 'Wisdom over emotion', fr: 'Sagesse sur émotion' }, icon: '💡' },
+      ],
+    },
+    {
+      id: 'khaybar',
+      label: { ar: 'غزوة خيبر', en: 'Battle of Khaybar', fr: 'Bataille de Khaybar' },
+      icon: '🏰',
+      color: '#9c6644',
+      children: [
+        { id: 'khaybar-date', label: { ar: 'محرم ٧ هـ (٦٢٨م)', en: 'Muharram 7H (628 CE)', fr: 'Muharram 7H (628 ap. J.-C.)' }, icon: '📅' },
+        { id: 'khaybar-forts', label: { ar: '٨ حصون يهودية', en: '8 Jewish fortresses', fr: '8 forteresses juives' }, icon: '🏯' },
+        { id: 'khaybar-ali', label: { ar: 'علي حامل الراية', en: 'Ali the flag bearer', fr: 'Ali porte-drapeau' }, icon: '🚩' },
+        { id: 'khaybar-marhab', label: { ar: 'مبارزة مرحب', en: 'Duel with Marhab', fr: 'Duel avec Marhab' }, icon: '⚔️' },
+        { id: 'khaybar-lesson', label: { ar: 'القوة والعدل معاً', en: 'Strength & justice together', fr: 'Force & justice ensemble' }, icon: '💡' },
+      ],
+    },
+    {
+      id: 'fath',
+      label: { ar: 'فتح مكة', en: 'Conquest of Mecca', fr: 'Conquête de La Mecque' },
+      icon: '🕋',
+      color: '#dc2626',
+      children: [
+        { id: 'fath-date', label: { ar: 'رمضان ٨ هـ (٦٣٠م)', en: 'Ramadan 8H (630 CE)', fr: 'Ramadan 8H (630 ap. J.-C.)' }, icon: '📅' },
+        { id: 'fath-army', label: { ar: '١٠,٠٠٠ مسلم', en: '10,000 Muslims', fr: '10 000 Musulmans' }, icon: '👥' },
+        { id: 'fath-peaceful', label: { ar: 'دخول سلمي', en: 'Peaceful entry', fr: 'Entrée pacifique' }, icon: '🕊️' },
+        { id: 'fath-pardon', label: { ar: 'اذهبوا فأنتم الطلقاء', en: 'Go, you are free', fr: 'Allez, vous êtes libres' }, icon: '❤️' },
+        { id: 'fath-idols', label: { ar: '٣٦٠ صنماً تُحطّم', en: '360 idols destroyed', fr: '360 idoles détruites' }, icon: '💥' },
+        { id: 'fath-lesson', label: { ar: 'العفو عند المقدرة', en: 'Forgive when able', fr: 'Pardonner en position de force' }, icon: '💡' },
+      ],
+    },
+    {
+      id: 'hunayn',
+      label: { ar: 'غزوة حنين', en: 'Battle of Hunayn', fr: 'Bataille de Hunayn' },
+      icon: '⚡',
+      color: '#059669',
+      children: [
+        { id: 'hunayn-date', label: { ar: 'شوال ٨ هـ (٦٣٠م)', en: 'Shawwal 8H (630 CE)', fr: 'Shawwal 8H (630 ap. J.-C.)' }, icon: '📅' },
+        { id: 'hunayn-forces', label: { ar: '١٢,٠٠٠ ضد ٢٠,٠٠٠', en: '12,000 vs 20,000', fr: '12 000 vs 20 000' }, icon: '👥' },
+        { id: 'hunayn-ambush', label: { ar: 'كمين هوازن', en: 'Hawazin ambush', fr: 'Embuscade de Hawazin' }, icon: '🎯' },
+        { id: 'hunayn-steadfast', label: { ar: 'ثبات النبي ﷺ', en: 'Prophet\'s steadfastness', fr: 'Fermeté du Prophète' }, icon: '🦁' },
+        { id: 'hunayn-lesson', label: { ar: 'لا غرور بالكثرة', en: 'No pride in numbers', fr: 'Pas d\'orgueil du nombre' }, icon: '💡' },
+      ],
+    },
+  ],
+};
+
+// ============================================
+// SEERAH - Carte des Migrations
+// ============================================
+export const seerahMigrationsMapData: MindMapDataMultiLang = {
+  id: 'root',
+  label: { ar: 'هجرات المسلمين', en: 'Muslim Migrations', fr: 'Migrations Musulmanes' },
+  icon: '🗺️',
+  color: '#1e3a5f',
+  children: [
+    {
+      id: 'mecca-origin',
+      label: { ar: 'مكة المكرمة', en: 'Mecca (Origin)', fr: 'La Mecque (Origine)' },
+      icon: '🕋',
+      color: '#dc2626',
+      children: [
+        { id: 'mecca-revelation', label: { ar: 'بدء الوحي ٦١٠م', en: 'Revelation begins 610 CE', fr: 'Début révélation 610' }, icon: '📜' },
+        { id: 'mecca-persecution', label: { ar: '١٣ سنة من الاضطهاد', en: '13 years of persecution', fr: '13 ans de persécution' }, icon: '⛓️' },
+        { id: 'mecca-secret', label: { ar: 'دار الأرقم', en: 'Dar al-Arqam', fr: 'Dar al-Arqam' }, icon: '🏠' },
+      ],
+    },
+    {
+      id: 'abyssinia',
+      label: { ar: 'الهجرة إلى الحبشة', en: 'Migration to Abyssinia', fr: 'Migration vers l\'Abyssinie' },
+      icon: '🌍',
+      color: '#7b2cbf',
+      children: [
+        { id: 'abyssinia-first', label: { ar: 'الهجرة الأولى ٦١٥م', en: 'First migration 615 CE', fr: '1ère migration 615' }, icon: '1️⃣' },
+        { id: 'abyssinia-second', label: { ar: 'الهجرة الثانية ٦١٦م', en: 'Second migration 616 CE', fr: '2ème migration 616' }, icon: '2️⃣' },
+        { id: 'abyssinia-negus', label: { ar: 'حماية النجاشي', en: 'Negus protection', fr: 'Protection du Négus' }, icon: '👑' },
+        { id: 'abyssinia-jafar', label: { ar: 'خطبة جعفر', en: 'Ja\'far\'s speech', fr: 'Discours de Ja\'far' }, icon: '🎤' },
+        { id: 'abyssinia-count', label: { ar: '٨٣ رجلاً + نساء', en: '83 men + women', fr: '83 hommes + femmes' }, icon: '👥' },
+      ],
+    },
+    {
+      id: 'medina',
+      label: { ar: 'الهجرة إلى المدينة', en: 'Migration to Medina', fr: 'Migration vers Médine' },
+      icon: '🕌',
+      color: '#2d6a4f',
+      children: [
+        { id: 'medina-aqaba', label: { ar: 'بيعتا العقبة', en: 'Pledges of Aqaba', fr: 'Serments d\'Aqaba' }, icon: '🤝' },
+        { id: 'medina-date', label: { ar: '٦٢٢م = سنة ١ هـ', en: '622 CE = Year 1 H', fr: '622 = An 1 H' }, icon: '📅' },
+        { id: 'medina-cave', label: { ar: 'غار ثور ٣ أيام', en: 'Cave of Thawr 3 days', fr: 'Grotte de Thawr 3 jours' }, icon: '🕳️' },
+        { id: 'medina-quba', label: { ar: 'مسجد قباء', en: 'Quba Mosque', fr: 'Mosquée de Quba' }, icon: '🏛️' },
+        { id: 'medina-welcome', label: { ar: 'طلع البدر علينا', en: 'Tala\'a al-Badru', fr: 'Tala\'a al-Badru' }, icon: '🎵' },
+      ],
+    },
+    {
+      id: 'expansion',
+      label: { ar: 'التوسع الإسلامي', en: 'Islamic Expansion', fr: 'Expansion Islamique' },
+      icon: '🌐',
+      color: '#0891b2',
+      children: [
+        { id: 'exp-letters', label: { ar: 'رسائل إلى الملوك', en: 'Letters to Kings', fr: 'Lettres aux Rois' }, icon: '✉️' },
+        { id: 'exp-heraclius', label: { ar: 'هرقل (الروم)', en: 'Heraclius (Rome)', fr: 'Héraclius (Rome)' }, icon: '🏛️' },
+        { id: 'exp-chosroes', label: { ar: 'كسرى (فارس)', en: 'Chosroes (Persia)', fr: 'Chosroès (Perse)' }, icon: '👑' },
+        { id: 'exp-muqawqis', label: { ar: 'المقوقس (مصر)', en: 'Muqawqis (Egypt)', fr: 'Muqawqis (Égypte)' }, icon: '🏺' },
+        { id: 'exp-negus', label: { ar: 'النجاشي (الحبشة)', en: 'Negus (Abyssinia)', fr: 'Négus (Abyssinie)' }, icon: '🦁' },
+      ],
+    },
+    {
+      id: 'fath-mecca',
+      label: { ar: 'فتح مكة والعودة', en: 'Conquest & Return', fr: 'Conquête & Retour' },
+      icon: '🔄',
+      color: '#dc2626',
+      children: [
+        { id: 'return-date', label: { ar: '٨ سنوات بعد الهجرة', en: '8 years after Hijra', fr: '8 ans après l\'Hégire' }, icon: '📅' },
+        { id: 'return-army', label: { ar: '١٠,٠٠٠ مسلم', en: '10,000 Muslims', fr: '10 000 Musulmans' }, icon: '⚔️' },
+        { id: 'return-peaceful', label: { ar: 'دخول سلمي', en: 'Peaceful entry', fr: 'Entrée pacifique' }, icon: '🕊️' },
+        { id: 'return-pardon', label: { ar: 'العفو العام', en: 'General amnesty', fr: 'Amnistie générale' }, icon: '❤️' },
+      ],
+    },
+  ],
+};
+
+// ============================================
+// SEERAH - Arbre des Alliances (Muhajirin-Ansar)
+// ============================================
+export const seerahAlliancesTreeData: MindMapDataMultiLang = {
+  id: 'root',
+  label: { ar: 'المجتمع الإسلامي بالمدينة', en: 'Islamic Society in Medina', fr: 'Société Islamique à Médine' },
+  icon: '🤝',
+  color: '#1e3a5f',
+  children: [
+    {
+      id: 'muhajirin',
+      label: { ar: 'المهاجرون', en: 'The Muhajirin', fr: 'Les Muhajirin' },
+      icon: '🐪',
+      color: '#dc2626',
+      children: [
+        { id: 'muh-def', label: { ar: 'من هاجر من مكة', en: 'Those who migrated from Mecca', fr: 'Ceux qui ont migré de La Mecque' }, icon: '📖' },
+        { id: 'muh-sacrifice', label: { ar: 'تركوا أموالهم وديارهم', en: 'Left wealth & homes', fr: 'Ont quitté biens & maisons' }, icon: '💔' },
+        { id: 'muh-leaders', label: { ar: 'أبو بكر، عمر، عثمان، علي', en: 'Abu Bakr, Umar, Uthman, Ali', fr: 'Abu Bakr, Umar, Uthman, Ali' }, icon: '⭐' },
+        { id: 'muh-poor', label: { ar: 'أهل الصُّفّة', en: 'People of the Suffa', fr: 'Gens de la Suffa' }, icon: '🏚️' },
+        { id: 'muh-verse', label: { ar: '﴿ للفقراء المهاجرين ﴾', en: '﴿ For the poor emigrants ﴾', fr: '﴿ Aux émigrés pauvres ﴾' }, icon: '📜' },
+      ],
+    },
+    {
+      id: 'ansar',
+      label: { ar: 'الأنصار', en: 'The Ansar', fr: 'Les Ansar' },
+      icon: '🏠',
+      color: '#2d6a4f',
+      children: [
+        { id: 'ansar-def', label: { ar: 'أهل المدينة الناصرون', en: 'Helpers of Medina', fr: 'Auxiliaires de Médine' }, icon: '📖' },
+        { id: 'ansar-aws', label: { ar: 'الأوس', en: 'Al-Aws tribe', fr: 'Tribu Al-Aws' }, icon: '🏛️' },
+        { id: 'ansar-khazraj', label: { ar: 'الخزرج', en: 'Al-Khazraj tribe', fr: 'Tribu Al-Khazraj' }, icon: '🏛️' },
+        { id: 'ansar-generosity', label: { ar: 'إيثار على النفس', en: 'Selfless generosity', fr: 'Générosité désintéressée' }, icon: '❤️' },
+        { id: 'ansar-verse', label: { ar: '﴿ يؤثرون على أنفسهم ﴾', en: '﴿ Prefer others over themselves ﴾', fr: '﴿ Préfèrent autrui ﴾' }, icon: '📜' },
+      ],
+    },
+    {
+      id: 'muakhat',
+      label: { ar: 'المؤاخاة', en: 'Brotherhood Pact', fr: 'Pacte de Fraternité' },
+      icon: '🔗',
+      color: '#7b2cbf',
+      children: [
+        { id: 'muakhat-def', label: { ar: 'أخوّة بين مهاجر وأنصاري', en: 'Pairing Muhajir with Ansari', fr: 'Jumelage Muhajir-Ansari' }, icon: '👥' },
+        { id: 'muakhat-share', label: { ar: 'مشاركة المال والسكن', en: 'Sharing wealth & housing', fr: 'Partage des biens & logement' }, icon: '🏡' },
+        { id: 'muakhat-example', label: { ar: 'عبد الرحمن + سعد', en: 'Abd al-Rahman + Sa\'d', fr: 'Abd al-Rahman + Sa\'d' }, icon: '✨' },
+        { id: 'muakhat-inherit', label: { ar: 'توارث ثم نُسخ', en: 'Inheritance (later abrogated)', fr: 'Héritage (abrogé ensuite)' }, icon: '📋' },
+      ],
+    },
+    {
+      id: 'constitution',
+      label: { ar: 'صحيفة المدينة', en: 'Constitution of Medina', fr: 'Constitution de Médine' },
+      icon: '📜',
+      color: '#0891b2',
+      children: [
+        { id: 'const-ummah', label: { ar: 'أمة واحدة', en: 'One Ummah', fr: 'Une seule Oumma' }, icon: '🌐' },
+        { id: 'const-jews', label: { ar: 'حقوق اليهود', en: 'Rights of Jews', fr: 'Droits des Juifs' }, icon: '✡️' },
+        { id: 'const-defense', label: { ar: 'دفاع مشترك', en: 'Mutual defense', fr: 'Défense mutuelle' }, icon: '🛡️' },
+        { id: 'const-justice', label: { ar: 'العدل للجميع', en: 'Justice for all', fr: 'Justice pour tous' }, icon: '⚖️' },
+      ],
+    },
+    {
+      id: 'tribes',
+      label: { ar: 'القبائل والحلفاء', en: 'Tribes & Allies', fr: 'Tribus & Alliés' },
+      icon: '⛺',
+      color: '#9c6644',
+      children: [
+        { id: 'tribe-khuzaa', label: { ar: 'خزاعة (حلفاء)', en: 'Khuza\'a (allies)', fr: 'Khuza\'a (alliés)' }, icon: '🤝' },
+        { id: 'tribe-qurayza', label: { ar: 'بنو قريظة (يهود)', en: 'Banu Qurayza (Jews)', fr: 'Banu Qurayza (Juifs)' }, icon: '📜' },
+        { id: 'tribe-nadir', label: { ar: 'بنو النضير (يهود)', en: 'Banu Nadir (Jews)', fr: 'Banu Nadir (Juifs)' }, icon: '📜' },
+        { id: 'tribe-qaynuqa', label: { ar: 'بنو قينقاع (يهود)', en: 'Banu Qaynuqa (Jews)', fr: 'Banu Qaynuqa (Juifs)' }, icon: '📜' },
+        { id: 'tribe-munafiqun', label: { ar: 'المنافقون', en: 'The Hypocrites', fr: 'Les Hypocrites' }, icon: '🎭' },
+      ],
+    },
+  ],
+};
+
+// ============================================
 // Map lesson IDs to their MindMap data
 // Format: 'course-slug:lesson-id' for unique identification
 // ============================================
@@ -2069,6 +2321,17 @@ export const lessonMindMapsMultiLang: Record<string, MindMapDataMultiLang> = {
   'les-4-grands-imams:002-maitres-communs': asanidChainData,
   'history:003-rencontres': imamsChainData,
   'les-4-grands-imams:003-rencontres': imamsChainData,
+  // Seerah lessons (Module 3 - Médine et l'État Islamique)
+  'seerah-module-3:seerah-014': seerahAlliancesTreeData, // Mosquée et Fraternité
+  'seerah-module-3:seerah-015': seerahAlliancesTreeData, // Constitution de Médine
+  'seerah-module-3:seerah-016': seerahBattlesTimelineData, // Bataille de Badr
+  'seerah-module-3:seerah-017': seerahBattlesTimelineData, // Bataille d'Uhud
+  'seerah-module-3:seerah-018': seerahBattlesTimelineData, // Bataille des Coalisés
+  'seerah-module-3:seerah-019': seerahBattlesTimelineData, // Traité de Hudaybiya
+  'seerah-module-3:seerah-020': seerahBattlesTimelineData, // Bataille de Khaybar
+  'seerah-module-3:seerah-021': seerahMigrationsMapData, // Lettres aux Rois
+  'seerah-module-3:seerah-022': seerahBattlesTimelineData, // Conquête de La Mecque
+  'seerah-module-3:seerah-023': seerahBattlesTimelineData, // Hunayn et Ta'if
 };
 
 // ============================================
@@ -2401,7 +2664,8 @@ export function getMindMapForLesson(lessonId: string, locale: string = 'fr', cou
                           courseSlug.includes('siyam') ? 'siyam' :
                           courseSlug.includes('hajj') ? 'hajj' :
                           courseSlug.includes('fiqh') ? 'fiqh' : 
-                          courseSlug.includes('4-grands-imams') || courseSlug.includes('history') ? 'les-4-grands-imams' : 
+                          courseSlug.includes('4-grands-imams') || courseSlug.includes('history') ? 'les-4-grands-imams' :
+                          courseSlug.includes('seerah-module-3') ? 'seerah-module-3' :
                           courseSlug;
     const key = `${normalizedSlug}:${lessonId}`;
     const data = lessonMindMapsMultiLang[key];
