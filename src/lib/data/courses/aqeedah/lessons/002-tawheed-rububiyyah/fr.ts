@@ -6,6 +6,24 @@
 export const content = `# 📜 Tawheed Al-Rububiyyah (توحيد الربوبية)
 ## L'Unicité d'Allah dans Sa Seigneurie
 
+<div class="scene-box">
+
+**🌌 PROLOGUE : Le moment où le cœur a tremblé**
+
+*An 2 de l'Hégire. Jubayer ibn Mut'im, encore polythiste, vient à Médine négocier la libération des prisonniers de Badr.*
+
+*C'est l'heure du Maghrib. Le Prophète ﷺ dirige la prière dans la mosquée. Jubayer se tient debout, à l'écart, écoutant...*
+
+*Le Prophète ﷺ récite sourate At-Tur. Puis il arrive à ces versets :*
+
+> ﶾأَمْ خُلِقوا مِنْ غَيْرِ شَيْءٍ أَمْ هُمُ الْخَالِقونَ ’ أَمْ خَلَقوا السَّمَاوَاتِ وَالْأَرْضَ ۛ بَل لَّا يوقِنونَﶽ
+
+*Jubayer raconte plus tard :* **« Mon cœur a failli s'envoler ! Ce fut le premier moment où la foi s'est installée dans mon cœur. »**
+
+*(Sahih Al-Bukhari 4854)*
+
+</div>
+
 ---
 
 ## 🌟 Introduction : Une invitation à la réflexion
@@ -48,7 +66,24 @@ Allah est le **seul Créateur** de toute chose, du plus grand au plus petit.
 >
 > *"Ont-ils été créés à partir de rien ou sont-ils eux les créateurs ? Ou ont-ils créé les cieux et la terre ? Non, mais ils n'ont pas de certitude."* (At-Tur 52:35-36)
 
-**🔬 Réflexion scientifique :** Le corps humain contient environ **37 trillions de cellules**, chacune fonctionnant avec une complexité stupéfiante. Qui a créé cette merveille ? Qui a programmé l'ADN avec ses 3 milliards de paires de bases ?
+**🔬 Réflexion scientifique :**
+
+<div class="scene-box">
+
+**🧬 LE MIRACLE DE LA CRÉATION**
+
+Le corps humain contient environ **37 trillions de cellules**, chacune fonctionnant avec une complexité stupfiante.
+
+| Élément | Quantité | Fonction |
+|---------|----------|----------|
+| Cellules | 37 trillions | Unités de vie |
+| ADN (paires de bases) | 3 milliards | Code génétique |
+| Battements/jour | ~100,000 | Pompage du sang |
+| Neurones | 86 milliards | Pensée et mémoire |
+
+**Qui a créé cette merveille ? Qui a programmé l'ADN avec une telle précision ?**
+
+</div>
 
 ---
 

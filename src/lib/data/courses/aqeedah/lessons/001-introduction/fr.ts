@@ -5,6 +5,20 @@
 
 export const content = `# 📜 العَقِيدَة — Introduction à la 'Aqeedah et les Piliers de la Foi
 
+<div class="scene-box">
+
+**🌙 PROLOGUE : La nuit qui changea tout**
+
+*An 610, grotte de Hira. Un homme tremble, enveloppé dans un manteau. Il vient de recevoir les premières paroles divines.*
+
+*Quelques années plus tard, ce même homme est entouré de Compagnons assis autour de lui dans la mosquée de Médine. Un étranger mystérieux apparaît...*
+
+*C'est Jibril عليه السلام, venu enseigner aux musulmans les fondements de leur religion.*
+
+Ce jour-là, le Prophète ﷺ a dit : **« C'était Jibril, venu vous enseigner votre religion. »**
+
+</div>
+
 > La 'Aqeedah est le **fondement** sur lequel repose tout dans la vie du musulman. Sans elle, les adorations deviennent des mouvements sans âme, la morale des règles sans sens, et la vie un voyage sans destination.
 
 ---
@@ -21,7 +35,21 @@ export const content = `# 📜 العَقِيدَة — Introduction à la 'Aqee
 
 ## 🎓 Pourquoi la 'Aqeedah ?
 
-Imagine que tu construis une maison magnifique... Commences-tu par le toit ou par les fondations ?
+<div class="scene-box">
+
+**🏗️ LA MÉTAPHORE DU BÂTISSEUR**
+
+*Imagine un architecte qui commence à construire un gratte-ciel de 100 étages. Il dessine les fenêtres, choisit les meubles, planifie l'ascenseur...*
+
+*« Et les fondations ? » lui demande-t-on.*
+
+*« Oh, on verra plus tard ! »*
+
+**Que va-t-il se passer ?** 💥
+
+C'est exactement ce que fait celui qui néglige la 'Aqeedah pour se concentrer uniquement sur les pratiques.
+
+</div>
 
 ## 🔍 Qu'est-ce que la 'Aqeedah ? (التعريف)
 

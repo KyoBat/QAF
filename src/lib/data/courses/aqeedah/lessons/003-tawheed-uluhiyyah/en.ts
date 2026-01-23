@@ -6,6 +6,30 @@
 export const content = `# 📜 Tawheed Al-Uluhiyyah (توحيد الألوهية)
 ## The Oneness of Allah in Worship
 
+<div class="scene-box">
+
+**⚔️ PROLOGUE: The Day Ibrahim Smashed the Idols**
+
+*Babylon, more than 4000 years ago. The city is deserted - everyone has gone to the annual idol festival.*
+
+*A young man remains alone. He enters the temple. Dozens of statues stare at him with their stone eyes.*
+
+*He takes an axe...*
+
+*When the people return, they find their idols shattered - except the largest one, with the axe on its shoulder.*
+
+**🗣️ They cry out:** "Who did this to our gods?!"
+
+**🔵 Ibrahim:** *"Rather, this - the largest of them - did it. Ask them, if they can speak!"*
+
+**🗣️ They confess:** "You know well that these do not speak!"
+
+**🔵 Ibrahim:** **"Do you then worship besides Allah things that can neither benefit you nor harm you? Fie upon you and upon what you worship besides Allah! Do you not use your reason?"** (Al-Anbiya 21:66-67)
+
+*That day, Ibrahim عليه السلام taught them the lesson of Tawheed Al-Uluhiyyah.*
+
+</div>
+
 ---
 
 ## 🌟 Contemplative Introduction

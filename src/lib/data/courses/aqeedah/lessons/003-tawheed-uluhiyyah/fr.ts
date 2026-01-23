@@ -6,6 +6,30 @@
 export const content = `# 📜 Tawheed Al-Uluhiyyah (توحيد الألوهية)
 ## L'Unicité d'Allah dans l'Adoration
 
+<div class="scene-box">
+
+**⚔️ PROLOGUE : Le jour où Ibrahim brisa les idoles**
+
+*Babylone, il y a plus de 4000 ans. La ville est déserte - tout le monde est parti pour la fête annuelle des idoles.*
+
+*Un jeune homme reste seul. Il entre dans le temple. Des dizaines de statues le fixent de leurs yeux de pierre.*
+
+*Il prend une hache...*
+
+*Quand les gens reviennent, ils trouvent leurs idoles réduites en morceaux - sauf la plus grande, avec la hache sur l'épaule.*
+
+**🗣️ Ils crient :** « Qui a fait cela à nos dieux ?! »
+
+**🔵 Ibrahim :** *« Demandez à celle-ci, la grande ! Elle peut répondre, n'est-ce pas ? »*
+
+**🗣️ Ils confessent :** « Tu sais bien qu'elles ne parlent pas ! »
+
+**🔵 Ibrahim :** **« Adorez-vous donc, en dehors d'Allah, ce qui ne peut ni vous être utile ni vous nuire ? Fi de vous et de ce que vous adorez en dehors d'Allah ! Ne raisonnez-vous donc pas ? »** (Al-Anbiya 21:66-67)
+
+*Ce jour-là, Ibrahim عليه السلام leur a enseigné la leçon de Tawheed Al-Uluhiyyah.*
+
+</div>
+
 ---
 
 ## 🌟 Introduction contemplative

@@ -5,9 +5,39 @@
 
 export const content = `# 📜 Introduction to Islamic 'Aqeedah and the Pillars of Faith
 
+<div class="scene-box">
+
+**🌙 PROLOGUE: The Day That Changed Everything**
+
+*Year 10 of Hijrah, the Mosque of Madinah. The Companions are seated around the Prophet ﷺ.*
+
+*Suddenly, a man with extremely white clothes and extremely black hair appears. No trace of travel is visible on him, and none of the Companions recognize him.*
+
+*He sat facing the Prophet ﷺ, placed his knees against his knees, put his hands on his thighs, and began to ask...*
+
+*After he departed, the Prophet ﷺ said:* **"That was Jibril who came to teach you your religion."**
+
+</div>
+
 ## Why 'Aqeedah?
 
-Imagine you're building a magnificent house... Do you start with the roof or the foundation?
+<div class="scene-box">
+
+**🏗️ THE BUILDER'S METAPHOR**
+
+*Imagine an architect building a 100-story skyscraper. He designs the windows, chooses the furniture, plans the elevators...*
+
+*"What about the foundation?" someone asks.*
+
+*"Oh, we'll deal with that later!"*
+
+**What's going to happen?** 💥
+
+This is exactly what happens to those who neglect 'Aqeedah to focus only on practices.
+
+</div>
+
+**'Aqeedah is the foundation upon which everything in your life is built.**
 
 **'Aqeedah is the foundation upon which everything in your life is built.**
 

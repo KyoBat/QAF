@@ -5,6 +5,28 @@
 
 export const content = `# 📜 Tawheed Al-Asma wa Sifat (Oneness of Names and Attributes)
 
+<div class="scene-box">
+
+**🌙 PROLOGUE: The Question to Imam Malik**
+
+*Madinah, 2nd century of Hijrah. Imam Malik ibn Anas رحمه الله is sitting in the Prophet's mosque ﷺ, surrounded by his students.*
+
+*A man enters and asks a delicate question...*
+
+**🗣️ The man:** "O Abu 'Abdillah! Allah says: 'The Most Merciful rose over the Throne.' **How** did He rise?"
+
+*Imam Malik lowered his head. Sweat beaded on his forehead. Silence fell.*
+
+*Then he raised his head and said:*
+
+**🔵 Imam Malik:** **"The rising (istiwaa) is known, the 'how' is unknown, belief in it is obligatory, and asking about it is an innovation. And I do not see you except as an innovator!"**
+
+*Then he ordered that the man be removed.*
+
+This answer became the golden rule for the Salaf's methodology concerning Allah's Names and Attributes.
+
+</div>
+
 ## 🔍 Definition
 
 It is to affirm for Allah what He has affirmed for Himself in His Book or what His Messenger ﷺ has affirmed for Him, regarding His Names and Attributes, without:

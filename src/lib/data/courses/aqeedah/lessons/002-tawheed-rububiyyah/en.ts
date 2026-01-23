@@ -6,6 +6,25 @@
 export const content = `# 📜 Tawheed Al-Rububiyyah (توحيد الربوبية)
 ## The Oneness of Allah in His Lordship
 
+<div class="scene-box">
+
+**🌌 PROLOGUE: The Moment the Heart Trembled**
+
+*Year 2 of Hijrah. Jubayer ibn Mut'im comes to Madinah to negotiate the release of prisoners from Badr. He was still a polytheist.*
+
+*It's Maghrib time. The Prophet ﷺ is leading the prayer in the mosque. Jubayer stands apart, listening...*
+
+*The Prophet ﷺ recites Surah At-Tur, until he reaches:*
+
+> ﶾأَمْ خُلِقوا مِنْ غَيْرِ شَيْءٍ أَمْ هُمُ الْخَالِقونَ ’ أَمْ خَلَقوا السَّمَاوَاتِ وَالْأَرْضَ ۛ بَل لَّا يوقِنونَﶽ
+> *"Or were they created by nothing, or were they the creators? Or did they create the heavens and the earth? Rather, they are not certain."*
+
+*Jubayer later said:* **"My heart almost flew away! That was the first moment faith settled in my heart."**
+
+*(Sahih Al-Bukhari 4854)*
+
+</div>
+
 ---
 
 ## 🌟 Introduction: An Invitation to Reflect
@@ -48,7 +67,24 @@ Allah is the **only Creator** of all things, from the greatest to the smallest.
 >
 > *"Or were they created by nothing, or were they the creators [of themselves]? Or did they create the heavens and the earth? Rather, they are not certain."* (At-Tur 52:35-36)
 
-**🔬 Scientific Reflection:** The human body contains approximately **37 trillion cells**, each functioning with staggering complexity. Who created this marvel? Who programmed the DNA with its 3 billion base pairs?
+**🔬 Scientific Reflection:**
+
+<div class="scene-box">
+
+**🧬 THE MIRACLE OF CREATION**
+
+The human body contains approximately **37 trillion cells**, each functioning with staggering complexity.
+
+| Element | Quantity | Function |
+|---------|----------|----------|
+| Cells | 37 trillion | Units of life |
+| DNA (base pairs) | 3 billion | Genetic code |
+| Heartbeats/day | ~100,000 | Blood pumping |
+| Neurons | 86 billion | Thought and memory |
+
+**Who created this marvel? Who programmed the DNA with such precision?**
+
+</div>
 
 ---
 

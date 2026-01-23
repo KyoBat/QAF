@@ -5,6 +5,28 @@
 
 export const content = `# 📜 Tawheed Al-Asma wa Sifat (توحيد الأسماء والصفات)
 
+<div class="scene-box">
+
+**🌙 PROLOGUE : La question de l'Imam Malik**
+
+*Médine, 2ème siècle de l'Hégire. L'Imam Malik ibn Anas رحمه الله est assis dans la mosquée du Prophète ﷺ, entouré de ses étudiants.*
+
+*Un homme entre et pose une question délicate...*
+
+**🗣️ L'homme :** « Ô Abu 'Abdillah ! Allah dit : "Le Tout-Miséricordieux S'est établi sur le Trône." **Comment** S'est-Il établi ? »
+
+*L'Imam Malik baissa la tête. La sueur perla sur son front. Le silence s'installa.*
+
+*Puis il releva la tête et dit :*
+
+**🔵 Imam Malik :** **« L'établissement est connu (ma'lum), le comment est inconnu (majhul), y croire est obligatoire (wajib), et questionner à ce sujet est une innovation (bid'ah). Et je ne te vois que comme un innovateur ! »**
+
+*Puis il ordonna qu'on le fasse sortir.*
+
+Cette réponse est devenue la règle d'or de la méthodologie des Salaf concernant les Noms et Attributs d'Allah.
+
+</div>
+
 ## 🔍 Définition (التعريف)
 
 C'est d'affirmer pour Allah ce qu'Il a affirmé pour Lui-même dans Son Livre ou ce que Son Messager ﷺ a affirmé pour Lui, concernant Ses Noms et Attributs, sans :
