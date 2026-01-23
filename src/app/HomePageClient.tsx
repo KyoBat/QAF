@@ -43,7 +43,7 @@ export default function HomePageClient({
     { key: 'hadith', emoji: '📜', comingSoon: false },
     { key: 'fiqh', emoji: '⚖️', comingSoon: false },
     { key: 'aqeedah', emoji: '💫', comingSoon: false },
-    { key: 'seerah', emoji: '🌙', comingSoon: true },
+    { key: 'seerah', emoji: '🌙', comingSoon: false },
   ]
 
   return (

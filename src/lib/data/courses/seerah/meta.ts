@@ -24,8 +24,8 @@ export const seerahMeta: CourseMeta = {
   instructor: 'Dr. Yasir Al-Siyari',
   image: '/images/courses/seerah.svg',
   tags: ['seerah', 'prophet', 'history', 'biography'],
-  featured: false,
-  published: false, // En cours de préparation
+  featured: true,
+  published: true,
   resources: [
     {
       type: 'article',
