@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1e3a5f;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0d1b2a;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="goldGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ffd700;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#b8860b;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="silverGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#e8e8e8;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#a0a0a0;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="400" height="300" fill="url(#bgGradient)"/>
+  
+  <!-- Decorative geometric pattern -->
+  <g opacity="0.1">
+    <circle cx="50" cy="50" r="80" fill="none" stroke="#ffd700" stroke-width="1"/>
+    <circle cx="350" cy="250" r="100" fill="none" stroke="#ffd700" stroke-width="1"/>
+    <circle cx="200" cy="150" r="120" fill="none" stroke="#ffd700" stroke-width="0.5"/>
+  </g>
+  
+  <!-- Central ornate frame -->
+  <rect x="100" y="80" width="200" height="140" rx="10" fill="none" stroke="url(#goldGradient)" stroke-width="3"/>
+  <rect x="110" y="90" width="180" height="120" rx="8" fill="none" stroke="url(#goldGradient)" stroke-width="1"/>
+  
+  <!-- Open book symbol -->
+  <g transform="translate(200, 150)">
+    <!-- Left page -->
+    <path d="M-40,-30 Q-40,-35 -35,-35 L-5,-35 L-5,30 L-35,30 Q-40,30 -40,25 Z" 
+          fill="url(#silverGradient)" stroke="#ffd700" stroke-width="1"/>
+    <!-- Right page -->
+    <path d="M40,-30 Q40,-35 35,-35 L5,-35 L5,30 L35,30 Q40,30 40,25 Z" 
+          fill="url(#silverGradient)" stroke="#ffd700" stroke-width="1"/>
+    <!-- Spine -->
+    <path d="M-5,-35 Q0,-40 5,-35 L5,30 Q0,35 -5,30 Z" fill="#ffd700"/>
+    <!-- Text lines on left page -->
+    <line x1="-35" y1="-20" x2="-10" y2="-20" stroke="#1e3a5f" stroke-width="2" opacity="0.5"/>
+    <line x1="-35" y1="-10" x2="-10" y2="-10" stroke="#1e3a5f" stroke-width="2" opacity="0.5"/>
+    <line x1="-35" y1="0" x2="-10" y2="0" stroke="#1e3a5f" stroke-width="2" opacity="0.5"/>
+    <line x1="-35" y1="10" x2="-10" y2="10" stroke="#1e3a5f" stroke-width="2" opacity="0.5"/>
+    <!-- Text lines on right page -->
+    <line x1="10" y1="-20" x2="35" y2="-20" stroke="#1e3a5f" stroke-width="2" opacity="0.5"/>
+    <line x1="10" y1="-10" x2="35" y2="-10" stroke="#1e3a5f" stroke-width="2" opacity="0.5"/>
+    <line x1="10" y1="0" x2="35" y2="0" stroke="#1e3a5f" stroke-width="2" opacity="0.5"/>
+    <line x1="10" y1="10" x2="35" y2="10" stroke="#1e3a5f" stroke-width="2" opacity="0.5"/>
+  </g>
+  
+  <!-- Star above book -->
+  <polygon points="200,60 205,75 220,75 208,85 213,100 200,90 187,100 192,85 180,75 195,75" 
+           fill="url(#goldGradient)"/>
+  
+  <!-- Corner ornaments -->
+  <g fill="url(#goldGradient)">
+    <circle cx="100" cy="80" r="5"/>
+    <circle cx="300" cy="80" r="5"/>
+    <circle cx="100" cy="220" r="5"/>
+    <circle cx="300" cy="220" r="5"/>
+  </g>
+  
+  <!-- Arabic text: العقيدة المتقدمة -->
+  <text x="200" y="260" text-anchor="middle" fill="url(#goldGradient)" 
+        font-family="'Amiri', 'Traditional Arabic', serif" font-size="24" font-weight="bold">
+    العقيدة المتقدمة
+  </text>
+</svg>
