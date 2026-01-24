@@ -1,40 +1,45 @@
 /**
  * Les Femmes Héroïques de l'Islam - Leçon 004 : Les Premières Martyres — Sumayyah et les Opprimées
- * الشهيدات الأوائل — سُمَيَّة والمُستضعَفات
+ * الشهيدات الأوائل — سُمَيَّة والمُستضعَفات
  */
 
 export const content = `
-# The First Martyrs رضي الله عنهن — Faith Stronger Than Torture
+# 📜 الشهيدات الأوائل — The First Martyrs رضي الله عنهن, Faith Stronger Than Torture
 
-> **"Patience, O family of Yāsir! Your appointment is in Paradise."**
-> — *The Prophet ﷺ to the martyrs of Mecca*
+> **صَبْرًا آلَ يَاسِرٍ، فَإِنَّ مَوْعِدَكُمُ الْجَنَّة**
+>
+> *"Patience, O family of Yāsir! Your appointment is Paradise."*
+>
+> — **[Al-Ḥākim, authenticated]**
 
 ---
 
-## Introduction: The Price of Faith
+## 🎬 Historical Context
 
-In the early years of Islam, the most **vulnerable** converts — slaves, freedmen, unprotected women — paid the heaviest price. Among them, extraordinary women chose **death** rather than apostasy. Their blood founded the bases of our religion.
+In the early years of Islam, the most **vulnerable** converts — slaves, freedmen, unprotected women — paid the heaviest price. Among them, extraordinary women chose **death** over apostasy. Their blood founded the foundations of our religion.
 
-### Context: Meccan Persecution
+### 1️⃣ The Meccan Persecution
 
 | Period | Situation |
 |--------|-----------|
-| **1-3 before Hijra** | Individual persecution |
-| **4-6 before Hijra** | Systematic torture |
-| **7-10 before Hijra** | Banū Hāshim boycott |
-| **11-13 before Hijra** | Intensification, emigration |
+| **1-3 years before Hijra** | Individual persecution |
+| **4-6 years before Hijra** | Systematic torture |
+| **7-10 years before Hijra** | Boycott of Banū Hāshim |
+| **11-13 years before Hijra** | Intensification, emigration |
 
-Quraysh particularly targeted:
-- **Slaves** (no tribal protection)
+### 2️⃣ Main Targets
+
+The Quraysh specifically targeted:
+- **Slaves** (without tribal protection)
 - **Freedmen** (low social status)
-- **Lone women** (vulnerable)
+- **Unprotected women** (vulnerable)
 - **Youth** (without influence)
 
 ---
 
-## I. Sumayyah bint Khayyāṭ — The First Martyr of Islam
+## ⚔️ Sumayyah bint Khayyāṭ — The First Martyr of Islam
 
-### A. Identity and Status
+### 1️⃣ Identity and Status
 
 | Information | Detail |
 |-------------|--------|
@@ -45,39 +50,51 @@ Quraysh particularly targeted:
 | **Protecting tribe** | None — isolated family |
 | **Conversion** | Among the first 7 Muslims |
 
-### B. The Blessed Family
+### 2️⃣ The Blessed Family
 
-The Yāsir family represents a **unique** case:
-- **Yāsir**: Yemeni who came to Mecca seeking his brother
-- **Sumayyah**: Slave of Abū Ḥudhayfa ibn al-Mughīra, freed after marriage
+The family of Yāsir represents a **unique** case:
+- **Yāsir**: Yemeni who came to Mecca looking for his brother
+- **Sumayyah**: Slave of Abū Ḥudhayfa ibn al-Mughīra, freed after her marriage
 - **'Ammār**: Born from their union, without tribal protection
 
-### C. Conversion and Persecution
+> **🏠 THE YĀSIR FAMILY**
+> 
+> Yāsir (father) ← Husband → Sumayyah (mother)
+>           ↓
+>        'Ammār (son)
+>           ↓
+> **All THREE are martyrs or tortured**
+
+### 3️⃣ Conversion and Persecution
 
 All three family members converted among the **very first**.
 
 | Persecutor | Torture inflicted |
 |------------|-------------------|
-| **Abū Jahl** | Leader of persecutions |
+| **Abū Jahl** | Chief of persecutions |
 | **Banū Makhzūm** | Responsible clan |
 | **Method** | Sun exposure, heated armor, beatings |
 
-> **Hadith**: The Prophet ﷺ would pass by them during torture and say:
-> **"Patience, O family of Yāsir! Your appointment is in Paradise."**
-> — *Reported by Al-Ḥākim, authenticated*
+> The Prophet ﷺ would pass by them during torture and say:
+>
+> **صَبْرًا آلَ يَاسِرٍ، فَإِنَّ مَوْعِدَكُمُ الْجَنَّة**
+>
+> *"Patience, O family of Yāsir! Your appointment is Paradise."*
+>
+> — **[Al-Ḥākim, authenticated]**
 
-### D. The Martyrdom of Sumayyah
+### 4️⃣ The Martyrdom of Sumayyah
 
 Sumayyah categorically refused to renounce her faith.
 
 > **📜 ACCOUNT OF THE MARTYRDOM**
 >
-> Abū Jahl, frustrated by her resistance, said:
+> Abū Jahl, frustrated by her resistance, said to her:
 > "*You only embraced Islam out of love for Muḥammad!*"
 >
 > She responded firmly, refusing to blaspheme.
 >
-> Enraged, **Abū Jahl pierced her with his spear** in her private parts.
+> In a rage, **Abū Jahl pierced her with his spear** in her private parts.
 >
 > She died instantly — **the first martyr of Islam**.
 
@@ -89,32 +106,32 @@ Sumayyah categorically refused to renounce her faith.
 | **Method** | Spear thrust |
 | **Rank** | **First martyr (shahīda) of Islam** |
 
-### E. The Family's Fate
+### 5️⃣ The Family's Fate
 
 | Member | Fate |
 |--------|------|
 | **Sumayyah** | First martyr, killed by Abū Jahl |
 | **Yāsir** | Martyr, died under torture |
-| **'Ammār** | Survived, pronounced disbelief under duress (excused by Quran) |
+| **'Ammār** | Survived, pronounced disbelief under duress (excused by the Quran) |
 
-> **Quran on 'Ammār**: "*...except one who is compelled while his heart is secure in faith.*"
-> — *Surah Al-Naḥl (16:106)*
+> **The Quran on 'Ammār**: "*...except one who is forced while his heart is secure in faith.*"
+> — **[Al-Naḥl 16:106]**
 
 ---
 
-## II. Other Women Tortured and Martyred
+## 🌍 Other Tortured and Martyred Women
 
-### A. Umm 'Ubays — Slave of Banū Zuhra
+### 1️⃣ Umm 'Ubays — The Slave of Banū Zuhra
 
 | Information | Detail |
 |-------------|--------|
 | **Status** | Slave |
 | **Masters** | Banū Zuhra (or Banū Taym) |
 | **Persecutor** | Al-Aswad ibn 'Abd Yaghūth |
-| **Torture** | Sun exposure, beaten |
+| **Torture** | Exposed to sun, beaten |
 | **Liberator** | Abū Bakr al-Ṣiddīq (bought and freed her) |
 
-### B. Zinīra al-Rūmiyya — The Roman Slave
+### 2️⃣ Zinīra al-Rūmiyya — The Roman Slave
 
 | Information | Detail |
 |-------------|--------|
@@ -125,57 +142,96 @@ Sumayyah categorically refused to renounce her faith.
 | **Miracle** | Her sight was restored |
 | **Liberator** | Abū Bakr al-Ṣiddīq |
 
-> **Hadith**: When she lost her sight, Abū Jahl said: "*Al-Lāt and Al-'Uzzā made her blind!*"
+> When she lost her sight, Abū Jahl said: "*Al-Lāt and Al-'Uzzā made her blind!*"
+>
 > She replied: "*Al-Lāt and Al-'Uzzā can neither harm nor benefit!*"
+>
 > Allah restored her sight.
+> — **[Al-Siyar]**
 
-### C. Al-Nahdiyya and Her Daughter
+### 3️⃣ Al-Nahdiyya and Her Daughter — The Slaves of Banū 'Abd al-Dār
 
 | Information | Detail |
 |-------------|--------|
 | **Status** | Slaves (mother and daughter) |
 | **Mistress** | A woman of Banū 'Abd al-Dār |
-| **Torture** | Forced to grind grain endlessly |
+| **Torture** | Forced to grind grain continuously |
 | **Liberator** | Abū Bakr al-Ṣiddīq |
 
-### D. Umm Sharīk — The Qurayshi Woman
+> The mistress told them: "*By Allah, I will never free you!*"
+>
+> Abū Bakr replied: "*By Allah, I will free them!*" And he bought them.
+
+### 4️⃣ Lubayna — The Slave of 'Umar (before his conversion)
+
+| Information | Detail |
+|-------------|--------|
+| **Status** | Slave |
+| **Persecutor** | 'Umar ibn al-Khaṭṭāb (before Islam) |
+| **Torture** | Beaten by 'Umar himself |
+| **Liberator** | Abū Bakr al-Ṣiddīq |
+
+> 'Umar would beat her until he got tired, then say: "*I only stop out of fatigue!*"
+>
+> She would respond: "*May Allah do the same to you!*"
+
+### 5️⃣ Umm Sharīk — The Woman of Quraysh
 
 | Information | Detail |
 |-------------|--------|
 | **Status** | Free woman of Quraysh (Banū 'Āmir) |
 | **Situation** | Secretly converted, preached to women |
-| **Torture** | Discovered, deprived of water under sun for 3 days |
-| **Miracle** | A water vessel descended from the sky |
+| **Torture** | Discovered, deprived of water under the sun for 3 days |
+| **Miracle** | A water-skin descended from the sky |
 | **Fate** | Survived, emigrated to Medina |
 
 ---
 
-## III. Abū Bakr: The Liberator of the Oppressed
+## 💎 Abū Bakr: The Liberator of the Oppressed
+
+### 1️⃣ His Mission
 
 Abū Bakr al-Ṣiddīq رضي الله عنه spent his fortune to **free tortured slaves**:
 
-| Freed Slave | Status |
+| Freed slave | Status |
 |-------------|--------|
 | **Bilāl ibn Rabāḥ** | Abyssinian slave, muezzin |
 | **'Āmir ibn Fuhayra** | Slave, fought at Badr |
 | **Umm 'Ubays** | Tortured slave |
-| **Zinīra al-Rūmiyya** | Roman slave blinded |
-| **Al-Nahdiyya and daughter** | Mother-daughter slaves |
+| **Zinīra al-Rūmiyya** | Blinded Roman slave |
+| **Al-Nahdiyya and her daughter** | Mother-daughter slaves |
 | **Lubayna** | Slave beaten by 'Umar |
+| **Others** | Several other women |
 
-> **Hadith**: His father told him: "*O my son, I see you freeing weak slaves. If you freed strong men, they would protect you!*"
+### 2️⃣ The Response to His Father
+
+> Abū Bakr's father said to him: "*O my son, I see that you free weak slaves. If you freed strong men, they would protect you!*"
+>
 > Abū Bakr replied: "*O father, I only seek the face of Allah.*"
-> — *Allah revealed: "...who gives his wealth to purify himself..."* (92:5-7)
+>
+> Allah revealed: "*...as for he who gives and fears Allah, and believes in the best reward...*"
+> — **[Al-Layl 92:5-7]**
+
+### 3️⃣ The Revealed Verse
+
+> **Surah Al-Layl (92:17-21)**:
+> "*The most righteous will be spared, who gives his wealth to purify himself, not as payment for a favor done to him, but only seeking the face of his Lord, Most High. And he will surely be satisfied!*"
+
+These verses were revealed about **Abū Bakr** and his freeing of slaves.
 
 ---
 
-## IV. Lessons from the First Martyrs
+## 📖 Lessons
 
-### 1. Faith Transcends Social Status
+### 1️⃣ Faith Transcends Social Status
 
-Sumayyah was a slave, yet she became the **first martyr** — before any man.
+| Lesson | Application |
+|--------|-------------|
+| Sumayyah was a slave | Faith elevates above birth |
+| Zinīra was Roman | Islam is universal |
+| Bilāl was Abyssinian | Only taqwā matters |
 
-### 2. Women Can Be Martyrs
+### 2️⃣ Women Can Be Martyrs
 
 | Point | Significance |
 |-------|--------------|
@@ -183,41 +239,71 @@ Sumayyah was a slave, yet she became the **first martyr** — before any man.
 | Her blood founded Islam | Supreme sacrifice |
 | Model for believing women | Courage has no gender |
 
-### 3. Patience in the Face of Oppression
+### 3️⃣ Patience in the Face of Oppression
 
 > **"Patience, O family of Yāsir!"**
 
-The Prophet ﷺ could not yet stop the torture, but he promised them Paradise.
+| Stage | Teaching |
+|-------|----------|
+| Torture | Test of faith |
+| Patience | Condition of victory |
+| Paradise | Promised reward |
 
-### 4. The Duty of Solidarity
+### 4️⃣ The Duty of Solidarity
 
-Abū Bakr showed that Muslims must **protect the weak** — with wealth, influence, and action.
+| Abū Bakr's Action | Lesson |
+|-------------------|--------|
+| Spent his fortune | Wealth in service of faith |
+| Freed the weak | Protect the oppressed |
+| Without seeking glory | Sincerity (ikhlāṣ) |
 
 ---
 
-## Conclusion: The Blood of the Pure
+## 🎓 Legacy
 
-The first martyrs of Islam — Sumayyah foremost — remind us that faith **has no price**. These enslaved women, without power or protection, chose death rather than betray their Lord.
+### 1️⃣ Foundation of the Community
+
+The martyrs and tortured established:
+- **The legitimacy of sacrifice** for faith
+- **The equality** of slaves and free before Allah
+- **The role of women** in jihad
+
+### 2️⃣ Eternal Memory
+
+| Martyr | Memory |
+|--------|--------|
+| **Sumayyah** | "First martyr of Islam" |
+| **Yāsir Family** | Model of the believing family |
+| **The freed women** | Founders of the Ummah |
+
+---
+
+## 🎯 Conclusion
+
+The first martyrs of Islam — Sumayyah foremost among them — remind us that faith **has no price**. These enslaved women, without power or protection, chose death rather than betray their Lord.
 
 Their blood irrigated the foundations of Islam.
 
-> **"Patience, O family of Yāsir! Your appointment is in Paradise."**
-> — *Prophet Muḥammad ﷺ*
+> **صَبْرًا آلَ يَاسِرٍ، فَإِنَّ مَوْعِدَكُمُ الْجَنَّة**
+>
+> *"Patience, O family of Yāsir! Your appointment is Paradise."*
+>
+> — **[Al-Ḥākim]**
 
 ---
 
-## Key Takeaways
+## 📊 Key Points
 
 | # | Point |
 |---|-------|
 | 1 | **Sumayyah** = First martyr of Islam (before any man) |
 | 2 | **Killed by Abū Jahl** with a spear thrust |
-| 3 | **Family of Yāsir** = All three tortured, Prophet ﷺ promised them Paradise |
+| 3 | **Yāsir Family** = All three tortured, the Prophet ﷺ promised them Paradise |
 | 4 | **Abū Bakr** = Freed 7+ tortured slaves with his fortune |
-| 5 | **Verses revealed** = Surah Al-Layl (92) about Abū Bakr |
+| 5 | **Revealed verses** = Surah Al-Layl (92) about Abū Bakr |
 
 ---
 
-**May Allah be pleased with them all**
-*رضي الله عنهن أجمعين*
+**رضي الله عنهن أجمعين**
+*May Allah be pleased with them all*
 `;

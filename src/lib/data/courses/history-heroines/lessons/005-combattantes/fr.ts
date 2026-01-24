@@ -4,18 +4,21 @@
  */
 
 export const content = `
-# Les Femmes Guerrières رضي الله عنهن — Les Lionnes des Batailles
+# 📜 النساء المحاربات — Les Femmes Guerrières رضي الله عنهن, Les Lionnes des Batailles
 
-> **« Où que je me retournais, à droite ou à gauche, je la voyais combattre devant moi. »**
-> — *Le Prophète ﷺ sur Nusayba à la bataille d'Uhud*
+> **مَا الْتَفَتُّ يَوْمَ أُحُدٍ يَمِينًا وَلَا شِمَالًا إِلَّا وَأَنَا أَرَاهَا تُقَاتِلُ دُونِي**
+>
+> *« Où que je me retournais à Uhud, à droite ou à gauche, je la voyais combattre devant moi. »*
+>
+> — **[Ibn Sa'd, sur Nusayba]**
 
 ---
 
-## Introduction : Les Femmes au Combat
+## 🎬 Mise en Contexte
 
 L'Islam ne cantonna jamais les femmes à l'arrière. Quand la défense de la foi l'exigea, des **héroïnes** prirent les armes et combattirent aux côtés du Prophète ﷺ. Ces lionnes nous enseignent que le courage n'a pas de genre.
 
-### Le Rôle des Femmes dans les Batailles
+### 1️⃣ Le Rôle des Femmes dans les Batailles
 
 | Rôle | Exemples |
 |------|----------|
@@ -27,9 +30,9 @@ L'Islam ne cantonna jamais les femmes à l'arrière. Quand la défense de la foi
 
 ---
 
-## I. Nusayba bint Ka'b (Umm 'Umāra) — La Lionne d'Uhud
+## ⚔️ Nusayba bint Ka'b (Umm 'Umāra) — La Lionne d'Uhud
 
-### A. Identité
+### 1️⃣ Identité
 
 | Information | Détail |
 |-------------|--------|
@@ -40,7 +43,7 @@ L'Islam ne cantonna jamais les femmes à l'arrière. Quand la défense de la foi
 | **Mari** | Zayd ibn 'Āṣim (puis Ghaziyya ibn 'Amr) |
 | **Enfants** | 'Abdullāh et Ḥabīb (martyrs) |
 
-### B. La Deuxième Allégeance d'Aqaba
+### 2️⃣ La Deuxième Allégeance d'Aqaba
 
 Nusayba faisait partie des **deux seules femmes** présentes à ce serment historique :
 - **Nusayba bint Ka'b** (Umm 'Umāra)
@@ -48,9 +51,9 @@ Nusayba faisait partie des **deux seules femmes** présentes à ce serment histo
 
 > 73 hommes et 2 femmes prêtèrent allégeance au Prophète ﷺ cette nuit-là, promettant de le défendre comme leurs propres familles.
 
-### C. La Bataille d'Uhud — Son Heure de Gloire
+### 3️⃣ La Bataille d'Uhud — Son Heure de Gloire
 
-#### 1. Le Contexte
+#### Le Contexte
 
 | Bataille | Détail |
 |----------|--------|
@@ -59,18 +62,16 @@ Nusayba faisait partie des **deux seules femmes** présentes à ce serment histo
 | **Cause** | Revanche de Quraysh après Badr |
 | **Moment critique** | Déroute des musulmans |
 
-#### 2. L'Héroïsme de Nusayba
+#### L'Héroïsme de Nusayba
 
 Nusayba était venue pour **soigner les blessés** et donner de l'eau. Mais quand la ligne musulmane s'effondra...
 
-> **📜 TÉMOIGNAGE DU PROPHÈTE ﷺ**
->
 > Le Prophète ﷺ dit : « *Où que je me retournais à Uhud, à droite ou à gauche, je la voyais combattre devant moi.* »
-> — *Rapporté par Ibn Sa'd*
+> — **[Ibn Sa'd]**
 
-> **حديث** : Le fils de Nusayba rapporte : « *Ce jour-là, ma mère portait une outre d'eau. Quand les musulmans fuirent, elle se mit devant le Prophète ﷺ, combattant avec l'épée et tirant à l'arc.* »
+> Le fils de Nusayba rapporte : « *Ce jour-là, ma mère portait une outre d'eau. Quand les musulmans fuirent, elle se mit devant le Prophète ﷺ, combattant avec l'épée et tirant à l'arc.* »
 
-#### 3. Les Blessures
+#### Les Blessures
 
 | Blessure | Emplacement |
 |----------|-------------|
@@ -80,7 +81,7 @@ Nusayba était venue pour **soigner les blessés** et donner de l'eau. Mais quan
 
 > « *Elle reçut une blessure si profonde à l'épaule qu'elle mit un an à guérir.* »
 
-#### 4. Protection du Prophète ﷺ
+#### Protection du Prophète ﷺ
 
 Quand Ibn Qami'a (ennemi) approcha pour frapper le Prophète ﷺ :
 
@@ -88,7 +89,7 @@ Quand Ibn Qami'a (ennemi) approcha pour frapper le Prophète ﷺ :
 > Ibn Qami'a dit : « *Laisse-moi atteindre Muḥammad !* »
 > Elle para ses attaques jusqu'à ce que le Prophète ﷺ soit en sécurité.
 
-### D. Autres Batailles
+### 4️⃣ Autres Batailles
 
 | Bataille | Participation |
 |----------|---------------|
@@ -98,7 +99,7 @@ Quand Ibn Qami'a (ennemi) approcha pour frapper le Prophète ﷺ :
 | **Ḥunayn** (630) | Combattit |
 | **Al-Yamāma** (632) | Contre Musaylima |
 
-### E. La Bataille de Yamāma — Vengeance pour son Fils
+### 5️⃣ La Bataille de Yamāma — Vengeance pour son Fils
 
 Le faux prophète **Musaylima** avait capturé et tué le fils de Nusayba, **Ḥabīb**. À la bataille de Yamāma :
 
@@ -111,21 +112,21 @@ Le faux prophète **Musaylima** avait capturé et tué le fils de Nusayba, **Ḥ
 
 > « *Elle jura de tuer Musaylima ou de mourir en essayant. Elle combattit jusqu'à perdre une main.* »
 
-### F. Paroles du Prophète ﷺ sur Elle
+### 6️⃣ Paroles du Prophète ﷺ sur Elle
 
-> **حديث** : Le Prophète ﷺ dit : « *La position de Nusayba bint Ka'b aujourd'hui est meilleure que la position de untel et untel.* »
-> — *Comparant son courage à celui des hommes*
+> Le Prophète ﷺ dit : « *La position de Nusayba bint Ka'b aujourd'hui est meilleure que la position de untel et untel.* »
+> — **[Comparant son courage à celui des hommes]**
 
-> **حديث** : Nusayba demanda au Prophète ﷺ : « *Invoque Allah pour que je sois ta compagne au Paradis.* »
+> Nusayba demanda au Prophète ﷺ : « *Invoque Allah pour que je sois ta compagne au Paradis.* »
 > Il dit : « *Ô Allah, fais d'eux mes compagnons au Paradis.* »
 > Elle répondit : « *Cela me suffit, peu m'importe ce qui m'arrivera après.* »
-> — *Rapporté par Al-Wāqidī*
+> — **[Al-Wāqidī]**
 
 ---
 
-## II. Umm Sulaym bint Milḥān — La Femme au Poignard
+## 🌍 Umm Sulaym bint Milḥān — La Femme au Poignard
 
-### A. Identité
+### 1️⃣ Identité
 
 | Information | Détail |
 |-------------|--------|
@@ -135,26 +136,26 @@ Le faux prophète **Musaylima** avait capturé et tué le fils de Nusayba, **Ḥ
 | **Mari 2** | Abū Ṭalḥa al-Anṣārī |
 | **Fils célèbre** | Anas ibn Mālik (serviteur du Prophète ﷺ) |
 
-### B. La Bataille de Ḥunayn
+### 2️⃣ La Bataille de Ḥunayn
 
 À la bataille de Ḥunayn (630 CE), Umm Sulaym était enceinte et portait un **poignard** (khanjar).
 
-> **حديث** : Abū Ṭalḥa dit au Prophète ﷺ : « *Ô Messager d'Allah, voici Umm Sulaym avec un poignard !* »
+> Abū Ṭalḥa dit au Prophète ﷺ : « *Ô Messager d'Allah, voici Umm Sulaym avec un poignard !* »
 > Le Prophète ﷺ demanda : « *Qu'est-ce que c'est, Umm Sulaym ?* »
 > Elle répondit : « *Un poignard que j'ai pris. Si un polythéiste s'approche de moi, je lui ouvrirai le ventre !* »
 > Le Prophète ﷺ rit.
-> — *Rapporté par Muslim (1809)*
+> — **[Muslim 1809]**
 
-### C. Ses Mérites
+### 3️⃣ Ses Mérites
 
-> **حديث** : Le Prophète ﷺ dit : « *Je suis entré au Paradis et j'ai entendu des pas devant moi. J'ai dit : "Qui est-ce ?" On m'a dit : "C'est Rumayṣā' bint Milḥān, mère d'Anas ibn Mālik."* »
-> — *Rapporté par Muslim (2456)*
+> Le Prophète ﷺ dit : « *Je suis entré au Paradis et j'ai entendu des pas devant moi. J'ai dit : "Qui est-ce ?" On m'a dit : "C'est Rumayṣā' bint Milḥān, mère d'Anas ibn Mālik."* »
+> — **[Muslim 2456]**
 
 ---
 
-## III. Khawla bint al-Azwar — La Cavalière Légendaire
+## 💎 Khawla bint al-Azwar — La Cavalière Légendaire
 
-### A. Identité
+### 1️⃣ Identité
 
 | Information | Détail |
 |-------------|--------|
@@ -163,7 +164,7 @@ Le faux prophète **Musaylima** avait capturé et tué le fils de Nusayba, **Ḥ
 | **Époque** | Conquêtes sous Abū Bakr et 'Umar |
 | **Spécialité** | Cavalerie, épée |
 
-### B. Sauvetage de Son Frère
+### 2️⃣ Sauvetage de Son Frère
 
 Quand son frère Ḍirār fut capturé par les Romains :
 
@@ -175,28 +176,28 @@ Quand son frère Ḍirār fut capturé par les Romains :
 >
 > Elle libéra son frère et massacra les ennemis.
 
-### C. Bataille d'Ajnādayn
+### 3️⃣ Bataille d'Ajnādayn
 
 À la bataille d'Ajnādayn (634 CE), Khawla fut capturée avec d'autres femmes musulmanes. Elle organisa une **révolte** :
 
 > Elle arma les captives avec des poteaux de tente et les mena à l'attaque. Elles tuèrent 30 gardes romains avant d'être libérées par l'armée musulmane.
 
-### D. Témoignages sur Son Courage
+### 4️⃣ Témoignages sur Son Courage
 
 > Khālid ibn al-Walīd dit : « *Si les musulmans avaient dix comme Khawla, nous aurions conquis Constantinople le même jour.* »
 
 ---
 
-## IV. Asmā' bint Abī Bakr — Dhāt al-Niṭāqayn
+## 📚 Asmā' bint Abī Bakr — Dhāt al-Niṭāqayn
 
-### A. Le Rôle dans l'Hégire
+### 1️⃣ Le Rôle dans l'Hégire
 
 | Titre | Signification |
 |-------|---------------|
 | **Dhāt al-Niṭāqayn** | « Celle aux Deux Ceintures » |
 | **Origine** | Elle déchira sa ceinture pour attacher les provisions |
 
-### B. L'Héroïsme de l'Hégire
+### 2️⃣ L'Héroïsme de l'Hégire
 
 Quand le Prophète ﷺ et Abū Bakr partirent pour Médine :
 - **Asmā'** préparait secrètement les provisions
@@ -205,7 +206,7 @@ Quand le Prophète ﷺ et Abū Bakr partirent pour Médine :
 
 > Abū Jahl, furieux, la **gifla** violemment. Elle ne parla pas.
 
-### C. Courage jusqu'à la Fin
+### 3️⃣ Courage jusqu'à la Fin
 
 À plus de **90 ans**, lors du siège de La Mecque par Al-Ḥajjāj :
 - Son fils **'Abdullāh ibn al-Zubayr** fut assiégé
@@ -214,9 +215,9 @@ Quand le Prophète ﷺ et Abū Bakr partirent pour Médine :
 
 ---
 
-## V. Autres Combattantes Notables
+## 🎓 Autres Combattantes Notables
 
-### A. Ṣafiyya bint 'Abd al-Muṭṭalib
+### 1️⃣ Ṣafiyya bint 'Abd al-Muṭṭalib
 
 | Information | Détail |
 |-------------|--------|
@@ -225,9 +226,9 @@ Quand le Prophète ﷺ et Abū Bakr partirent pour Médine :
 | **Méthode** | Le frappa avec un poteau de tente |
 | **Âge** | Âgée |
 
-> **حديث** : Elle dit à Ḥassān ibn Thābit : « *Tue-le !* » Il hésita. Alors elle le fit elle-même.
+> Elle dit à Ḥassān ibn Thābit : « *Tue-le !* » Il hésita. Alors elle le fit elle-même.
 
-### B. Umm Ḥarām bint Milḥān
+### 2️⃣ Umm Ḥarām bint Milḥān
 
 | Information | Détail |
 |-------------|--------|
@@ -236,14 +237,14 @@ Quand le Prophète ﷺ et Abū Bakr partirent pour Médine :
 | **Réalisation** | Participa à la conquête de Chypre (649 CE) |
 | **Martyre** | Mourut à Chypre (chute de cheval) |
 
-> **حديث** : Le Prophète ﷺ dit : « *La première armée de ma Umma à naviguer sur la mer, le Paradis leur est acquis.* »
-> — *Rapporté par Al-Bukhārī (2924)*
+> Le Prophète ﷺ dit : « *La première armée de ma Umma à naviguer sur la mer, le Paradis leur est acquis.* »
+> — **[Al-Bukhārī 2924]**
 
 ---
 
-## VI. Leçons des Femmes Guerrières
+## 📖 Leçons
 
-### 1. Le Courage N'a Pas de Genre
+### 1️⃣ Le Courage N'a Pas de Genre
 
 | Exemple | Leçon |
 |---------|-------|
@@ -251,7 +252,7 @@ Quand le Prophète ﷺ et Abū Bakr partirent pour Médine :
 | Khawla déguisée | Le talent n'est pas limité par le sexe |
 | Umm Sulaym armée | La préparation est permise |
 
-### 2. La Défense de l'Islam
+### 2️⃣ La Défense de l'Islam
 
 | Principe | Application |
 |----------|-------------|
@@ -259,7 +260,7 @@ Quand le Prophète ﷺ et Abū Bakr partirent pour Médine :
 | Participation active | Soins, logistique, ou combat |
 | Selon les capacités | Chacune selon ses moyens |
 
-### 3. L'Équilibre
+### 3️⃣ L'Équilibre
 
 | Aspect | Réalité |
 |--------|---------|
@@ -269,18 +270,21 @@ Quand le Prophète ﷺ et Abū Bakr partirent pour Médine :
 
 ---
 
-## Conclusion : Les Lionnes de l'Islam
+## 🎯 Conclusion
 
 Ces femmes extraordinaires — Nusayba, Umm Sulaym, Khawla, Asmā', Ṣafiyya — prouvent que l'Islam honora les femmes courageuses qui défendirent leur foi les armes à la main.
 
 Le Prophète ﷺ les loua, pria pour elles, et les promut en exemples.
 
-> **« Où que je me retournais, je la voyais combattre devant moi. »**
-> — *Le Prophète ﷺ sur Nusayba*
+> **مَا الْتَفَتُّ يَوْمَ أُحُدٍ يَمِينًا وَلَا شِمَالًا إِلَّا وَأَنَا أَرَاهَا تُقَاتِلُ دُونِي**
+>
+> *« Où que je me retournais, je la voyais combattre devant moi. »*
+>
+> — **[Ibn Sa'd, sur Nusayba]**
 
 ---
 
-## Points Clés à Retenir
+## 📊 Points Clés
 
 | # | Point |
 |---|-------|

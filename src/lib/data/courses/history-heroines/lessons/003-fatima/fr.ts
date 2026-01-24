@@ -4,18 +4,21 @@
  */
 
 export const content = `
-# Fāṭima al-Zahrā' رضي الله عنها — سيدة نساء أهل الجنة
+# 📜 فاطمة الزهراء — Fāṭima al-Zahrā' رضي الله عنها, Seigneur des Femmes du Paradis
 
-> **« Fāṭima est une partie de moi. Ce qui l'irrite m'irrite. »**
-> — *Le Prophète ﷺ, rapporté par Al-Bukhārī et Muslim*
+> **فَاطِمَةُ بَضْعَةٌ مِنِّي، فَمَنْ أَغْضَبَهَا أَغْضَبَنِي**
+>
+> *« Fāṭima est une partie de moi. Ce qui l'irrite m'irrite. »*
+>
+> — **[Al-Bukhārī 3714, Muslim 2449]**
 
 ---
 
-## Introduction : La Plus Chère au Cœur du Prophète ﷺ
+## 🎬 Mise en Contexte
 
 Fāṭima bint Muḥammad رضي الله عنها est la **fille bien-aimée** du Prophète ﷺ et de Khadīja, la seule dont la descendance survécut. Elle est la mère de Ḥasan et Ḥusayn, les seigneurs de la jeunesse du Paradis. Son rang est si élevé qu'elle est nommée « **Sayyidat Nisā' al-'Ālamīn** » (Dame des Femmes des Mondes).
 
-### Surnoms et Titres
+### 1️⃣ Surnoms et Titres
 
 | Surnom | Signification |
 |--------|---------------|
@@ -28,9 +31,9 @@ Fāṭima bint Muḥammad رضي الله عنها est la **fille bien-aimée** 
 
 ---
 
-## I. Naissance et Enfance
+## 🌍 Biographie
 
-### A. Naissance Bénie
+### 1️⃣ Naissance Bénie
 
 | Information | Détail |
 |-------------|--------|
@@ -39,7 +42,7 @@ Fāṭima bint Muḥammad رضي الله عنها est la **fille bien-aimée** 
 | **Lieu** | La Mecque |
 | **Rang parmi les sœurs** | La plus jeune des filles du Prophète ﷺ |
 
-### B. Une Enfance Difficile
+### 2️⃣ Une Enfance Difficile
 
 Fāṭima grandit dans les **épreuves** :
 - Témoin des persécutions contre son père
@@ -57,17 +60,17 @@ Fāṭima grandit dans les **épreuves** :
 
 ---
 
-## II. Le Mariage avec 'Alī ibn Abī Ṭālib
+## 💍 Le Mariage avec 'Alī ibn Abī Ṭālib
 
-### A. Les Prétendants Refusés
+### 1️⃣ Les Prétendants Refusés
 
 Avant 'Alī, plusieurs Compagnons illustres demandèrent sa main :
 - **Abū Bakr** — Le Prophète ﷺ répondit : « *J'attends l'ordre d'Allah.* »
 - **'Umar** — Même réponse
 
-### B. La Demande de 'Alī
+### 2️⃣ La Demande de 'Alī
 
-> **حديث** : 'Alī dit : « *Je n'avais rien sauf une armure. Je la vendis pour 400 dirhams et les apportai au Prophète ﷺ.* »
+> 'Alī dit : « *Je n'avais rien sauf une armure. Je la vendis pour 400 dirhams et les apportai au Prophète ﷺ.* »
 
 | Détail | Information |
 |--------|-------------|
@@ -77,18 +80,18 @@ Avant 'Alī, plusieurs Compagnons illustres demandèrent sa main :
 | **Âge de 'Alī** | 21 ans environ |
 | **Mariage célébré par** | Le Prophète ﷺ lui-même |
 
-### C. Bénédictions Prophétiques
+### 3️⃣ Bénédictions Prophétiques
 
-> **حديث** : Le Prophète ﷺ invoqua pour eux : « *Ô Allah, bénis-les et bénis leur union.* »
+> Le Prophète ﷺ invoqua pour eux : « *Ô Allah, bénis-les et bénis leur union.* »
 
-> **حديث** : Le Prophète ﷺ dit : « *Si 'Alī n'existait pas, Fāṭima n'aurait pas de pareil.* »
-> — *Rapporté par Al-Ḥākim*
+> Le Prophète ﷺ dit : « *Si 'Alī n'existait pas, Fāṭima n'aurait pas de pareil.* »
+> — **[Al-Ḥākim]**
 
 ---
 
-## III. Sa Vie Conjugale : Modèle de Patience
+## 🏠 Sa Vie Conjugale : Modèle de Patience
 
-### A. Une Vie Modeste
+### 1️⃣ Une Vie Modeste
 
 Fāṭima et 'Alī vivaient dans la **pauvreté** :
 
@@ -99,17 +102,17 @@ Fāṭima et 'Alī vivaient dans la **pauvreté** :
 | **Nourriture** | Souvent insuffisante |
 | **Travail** | Fāṭima moulait elle-même le grain |
 
-> **حديث** : Fāṭima dit : « *Mes mains sont blessées à force de moudre le grain.* »
-> — *Rapporté par Al-Bukhārī*
+> Fāṭima dit : « *Mes mains sont blessées à force de moudre le grain.* »
+> — **[Al-Bukhārī]**
 
-### B. Les Esclaves Refusés
+### 2️⃣ Les Esclaves Refusés
 
 Quand le Prophète ﷺ reçut des esclaves comme butin, Fāṭima vint en demander un pour l'aider.
 
-> **حديث** : Le Prophète ﷺ répondit : « *Ne vous indiquerai-je pas mieux qu'une servante ? Quand vous allez dormir, dites "Subḥān Allāh" 33 fois, "Al-ḥamdulillāh" 33 fois, et "Allāhu Akbar" 34 fois. Cela est meilleur pour vous qu'une servante.* »
-> — *Rapporté par Al-Bukhārī (3113) et Muslim (2727)*
+> Le Prophète ﷺ répondit : « *Ne vous indiquerai-je pas mieux qu'une servante ? Quand vous allez dormir, dites "Subḥān Allāh" 33 fois, "Al-ḥamdulillāh" 33 fois, et "Allāhu Akbar" 34 fois. Cela est meilleur pour vous qu'une servante.* »
+> — **[Al-Bukhārī 3113, Muslim 2727]**
 
-### C. Enfants de Fāṭima
+### 3️⃣ Enfants de Fāṭima
 
 | Enfant | Mérite |
 |--------|--------|
@@ -121,67 +124,67 @@ Quand le Prophète ﷺ reçut des esclaves comme butin, Fāṭima vint en demand
 
 ---
 
-## IV. L'Amour du Prophète ﷺ pour Sa Fille
+## ❤️ L'Amour du Prophète ﷺ pour Sa Fille
 
-### A. La Ressemblance
+### 1️⃣ La Ressemblance
 
-> **حديث** : 'Āisha dit : « *Je n'ai vu personne ressembler plus au Prophète ﷺ dans sa façon de parler que Fāṭima.* »
-> — *Rapporté par Al-Tirmidhī (3872)*
+> 'Āisha dit : « *Je n'ai vu personne ressembler plus au Prophète ﷺ dans sa façon de parler que Fāṭima.* »
+> — **[Al-Tirmidhī 3872]**
 
-### B. L'Accueil Exceptionnel
+### 2️⃣ L'Accueil Exceptionnel
 
-> **حديث** : 'Āisha rapporte : « *Quand Fāṭima entrait, le Prophète ﷺ se levait, l'embrassait sur le front et la faisait asseoir à sa place. Et quand le Prophète ﷺ entrait chez elle, elle faisait de même.* »
-> — *Rapporté par Abū Dāwūd (5217)*
+> 'Āisha rapporte : « *Quand Fāṭima entrait, le Prophète ﷺ se levait, l'embrassait sur le front et la faisait asseoir à sa place. Et quand le Prophète ﷺ entrait chez elle, elle faisait de même.* »
+> — **[Abū Dāwūd 5217]**
 
-### C. « Une Partie de Moi »
+### 3️⃣ « Une Partie de Moi »
 
-> **حديث** : Le Prophète ﷺ dit : « *Fāṭima est une partie de moi (Fāṭima baḍ'atun minnī). Ce qui l'irrite m'irrite.* »
-> — *Rapporté par Al-Bukhārī (3714) et Muslim (2449)*
-
----
-
-## V. Mérites et Rang Exceptionnel
-
-### A. Dame des Femmes du Paradis
-
-> **حديث** : Le Prophète ﷺ dit : « *Les meilleures femmes du Paradis sont : Khadīja bint Khuwaylid, Fāṭima bint Muḥammad, Maryam bint 'Imrān, et Āsiya femme de Pharaon.* »
-> — *Rapporté par Aḥmad (2903)*
-
-### B. Dame des Femmes de Cette Umma
-
-> **حديث** : Le Prophète ﷺ dit à Fāṭima : « *Ne serais-tu pas satisfaite d'être la dame des femmes des croyants — ou des femmes de cette Umma ?* »
-> — *Rapporté par Al-Bukhārī (3623)*
-
-### C. Première à Rejoindre le Prophète ﷺ
-
-> **حديث** : Le Prophète ﷺ dit à Fāṭima lors de sa maladie finale : « *Jibril me récitait le Coran une fois par an, et cette année il l'a fait deux fois. Je pense que mon terme approche. Tu seras la première de ma famille à me rejoindre.* » Elle pleura, puis il dit : « *Ne serais-tu pas satisfaite d'être la dame des femmes du Paradis ?* » Alors elle sourit.
-> — *Rapporté par Al-Bukhārī (3624)*
+> Le Prophète ﷺ dit : « *Fāṭima est une partie de moi (Fāṭima baḍ'atun minnī). Ce qui l'irrite m'irrite.* »
+> — **[Al-Bukhārī 3714, Muslim 2449]**
 
 ---
 
-## VI. La Mort du Prophète ﷺ et le Chagrin de Fāṭima
+## 💎 Mérites et Rang Exceptionnel
 
-### A. Le Dernier Secret
+### 1️⃣ Dame des Femmes du Paradis
 
-> **حديث** : 'Āisha rapporte : « *Lors de sa maladie finale, le Prophète ﷺ appela Fāṭima et lui murmura quelque chose. Elle pleura. Puis il lui murmura autre chose et elle sourit.* »
+> Le Prophète ﷺ dit : « *Les meilleures femmes du Paradis sont : Khadīja bint Khuwaylid, Fāṭima bint Muḥammad, Maryam bint 'Imrān, et Āsiya femme de Pharaon.* »
+> — **[Aḥmad 2903]**
+
+### 2️⃣ Dame des Femmes de Cette Umma
+
+> Le Prophète ﷺ dit à Fāṭima : « *Ne serais-tu pas satisfaite d'être la dame des femmes des croyants — ou des femmes de cette Umma ?* »
+> — **[Al-Bukhārī 3623]**
+
+### 3️⃣ Première à Rejoindre le Prophète ﷺ
+
+> Le Prophète ﷺ dit à Fāṭima lors de sa maladie finale : « *Jibril me récitait le Coran une fois par an, et cette année il l'a fait deux fois. Je pense que mon terme approche. Tu seras la première de ma famille à me rejoindre.* » Elle pleura, puis il dit : « *Ne serais-tu pas satisfaite d'être la dame des femmes du Paradis ?* » Alors elle sourit.
+> — **[Al-Bukhārī 3624]**
+
+---
+
+## ⚔️ La Mort du Prophète ﷺ et le Chagrin de Fāṭima
+
+### 1️⃣ Le Dernier Secret
+
+> 'Āisha rapporte : « *Lors de sa maladie finale, le Prophète ﷺ appela Fāṭima et lui murmura quelque chose. Elle pleura. Puis il lui murmura autre chose et elle sourit.* »
 >
 > Après la mort du Prophète ﷺ, 'Āisha demanda : « *Que t'a-t-il dit ?* »
 >
 > Fāṭima répondit : « *La première fois, il m'a dit qu'il allait mourir. Alors j'ai pleuré. La deuxième fois, il m'a dit que je serais la première de sa famille à le rejoindre et que je serais la dame des femmes du Paradis. Alors j'ai souri.* »
-> — *Rapporté par Al-Bukhārī (3625)*
+> — **[Al-Bukhārī 3625]**
 
-### B. Le Deuil de Fāṭima
+### 2️⃣ Le Deuil de Fāṭima
 
-> **حديث** : Fāṭima dit après sa mort : « *Ô mon père ! Il a répondu à l'appel de son Seigneur. Ô mon père ! Le Paradis de Firdaws est sa demeure. Ô mon père ! Nous annonçons sa mort à Jibrīl.* »
-> — *Rapporté par Al-Bukhārī (4462)*
+> Fāṭima dit après sa mort : « *Ô mon père ! Il a répondu à l'appel de son Seigneur. Ô mon père ! Le Paradis de Firdaws est sa demeure. Ô mon père ! Nous annonçons sa mort à Jibrīl.* »
+> — **[Al-Bukhārī 4462]**
 
 > « *Après le Messager d'Allah ﷺ, je n'ai trouvé aucune joie.* »
 
 ---
 
-## VII. Les Derniers Mois de Fāṭima
+## ⏳ Fin de Vie
 
-### A. Durée de Vie Après le Prophète ﷺ
+### 1️⃣ Durée de Vie Après le Prophète ﷺ
 
 Fāṭima ne vécut que **6 mois** après la mort de son père.
 
@@ -192,24 +195,24 @@ Fāṭima ne vécut que **6 mois** après la mort de son père.
 | **Durée** | Environ 6 mois |
 | **Âge** | 29 ans environ |
 
-### B. La Mort de Fāṭima
+### 2️⃣ La Mort de Fāṭima
 
 > Elle demanda à être lavée par Asmā' bint 'Umays et enterrée de nuit, avec peu de gens présents.
 
-> **حديث** : Anas rapporte : « *Quand Fāṭima mourut, Abū Bakr pleura beaucoup.* »
+> Anas rapporte : « *Quand Fāṭima mourut, Abū Bakr pleura beaucoup.* »
 
 ---
 
-## VIII. L'Héritage de Fāṭima
+## 🎓 Héritage
 
-### A. La Descendance du Prophète ﷺ
+### 1️⃣ La Descendance du Prophète ﷺ
 
 Tous les descendants du Prophète ﷺ passent par **Fāṭima** :
 - Les Ḥasanides (descendants de Ḥasan)
 - Les Ḥusaynides (descendants de Ḥusayn)
 - Les Sharifs et Sayyids du monde musulman
 
-### B. Modèle pour les Femmes
+### 2️⃣ Modèle pour les Femmes
 
 | Qualité | Manifestation |
 |---------|---------------|
@@ -222,16 +225,16 @@ Tous les descendants du Prophète ﷺ passent par **Fāṭima** :
 
 ---
 
-## IX. Leçons pour Aujourd'hui
+## 📖 Leçons
 
-### Pour les Femmes
+### 1️⃣ Pour les Femmes
 
 1. **La vraie richesse est spirituelle** — Préféra le dhikr à une servante
 2. **La patience dans l'épreuve** — Endura la pauvreté avec dignité
 3. **Le respect des parents** — Modèle de piété filiale
 4. **La modestie** — Simplicité malgré le rang
 
-### Pour les Familles
+### 2️⃣ Pour les Familles
 
 1. **L'amour paternel** — Le Prophète ﷺ l'honorait publiquement
 2. **Le mariage basé sur la foi** — 'Alī n'avait qu'une armure
@@ -239,16 +242,19 @@ Tous les descendants du Prophète ﷺ passent par **Fāṭima** :
 
 ---
 
-## Conclusion : La Perle de l'Islam
+## 🎯 Conclusion
 
 Fāṭima al-Zahrā' رضي الله عنها est la **chaîne** entre le Prophète ﷺ et sa descendance éternelle. Dame des femmes du Paradis, mère des Imams, elle incarne la piété, la patience et l'amour filial.
 
-> **« Fāṭima est une partie de moi. »**
-> — *Le Prophète Muḥammad ﷺ*
+> **فَاطِمَةُ بَضْعَةٌ مِنِّي**
+>
+> *« Fāṭima est une partie de moi. »*
+>
+> — **[Al-Bukhārī 3714]**
 
 ---
 
-## Points Clés à Retenir
+## 📊 Points Clés
 
 | # | Point |
 |---|-------|

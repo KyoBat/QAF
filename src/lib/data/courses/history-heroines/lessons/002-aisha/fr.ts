@@ -1,21 +1,24 @@
 /**
- * Les Femmes Héroïques de l'Islam - Leçon 002 : 'Āisha bint Abī Bakr — La Savante de l'Umma
- * عائشة بنت أبي بكر — عالمة الأمة
+ * Les Femmes Héroïques de l'Islam - Leçon 002 : 'Āisha bint Abī Bakr
+ * عائشة بنت أبي بكر رضي الله عنها
+ * 
+ * La Savante de l'Umma — عالمة الأمة
  */
 
-export const content = `
-# 'Āisha bint Abī Bakr رضي الله عنها — المُحدِّثة الفقيهة
+export const content = `# 📜 عَائِشَةُ بِنْتُ أَبِي بَكْر — 'Āisha bint Abī Bakr, La Savante de l'Umma
 
-> **« Prenez la moitié de votre religion de cette Humayrā'. »**
-> — *Parole attribuée aux Compagnons à propos de 'Āisha*
+> **« خُذُوا نِصْفَ دِينِكُمْ عَنْ هَذِهِ الحُمَيْرَاء »**
+> 
+> « Prenez la moitié de votre religion de cette Humayrā'. »
+> — **Parole des Compagnons**
 
 ---
 
-## Introduction : La Plus Grande Savante de l'Islam
+## 🎬 Mise en Contexte
 
 'Āisha bint Abī Bakr رضي الله عنها n'est pas seulement l'épouse bien-aimée du Prophète ﷺ — elle est la **plus grande savante féminine** de l'histoire de l'Islam. Juriste, muhadditha, médecin, poétesse et historienne, son savoir a façonné la religion de milliards de musulmans.
 
-### Titres d'Honneur
+### 📋 Titres d'Honneur
 
 | Titre | Signification |
 |-------|---------------|
@@ -27,9 +30,9 @@ export const content = `
 
 ---
 
-## I. Biographie et Origines
+## 🌍 Biographie et Origines
 
-### A. Famille Noble
+### 1️⃣ Famille Noble
 
 | Information | Détails |
 |-------------|---------|
@@ -39,10 +42,12 @@ export const content = `
 | **Frères** | 'Abd al-Raḥmān, 'Abd Allāh, Muḥammad |
 | **Naissance** | 4-5 ans après la mission prophétique |
 
-### B. Le Mariage avec le Prophète ﷺ
+### 2️⃣ Le Mariage avec le Prophète ﷺ
 
-> **حديث** : Le Prophète ﷺ dit : « *Tu m'as été montrée en rêve deux fois. Je vis un ange qui te portait dans un morceau de soie et me dit : "Voici ton épouse." Je découvris ton visage et c'était toi. Je dis : "Si cela vient d'Allah, Il l'accomplira."* »
-> — *Rapporté par Al-Bukhārī (3895) et Muslim (2438)*
+> **« أُرِيتُكِ فِي المَنَامِ مَرَّتَيْنِ، أَرَى مَلَكًا يَحْمِلُكِ فِي سَرَقَةٍ مِنْ حَرِيرٍ »**
+> 
+> Le Prophète ﷺ dit : « Tu m'as été montrée en rêve deux fois. Je vis un ange qui te portait dans un morceau de soie et me dit : "Voici ton épouse." Je découvris ton visage et c'était toi. »
+> — **[Al-Bukhārī 3895, Muslim 2438]**
 
 | Détail | Information |
 |--------|-------------|
@@ -53,14 +58,16 @@ export const content = `
 
 ---
 
-## II. Statut Unique Auprès du Prophète ﷺ
+## ❤️ Statut Unique Auprès du Prophète ﷺ
 
-### A. L'Amour du Prophète ﷺ
+### 1️⃣ L'Amour du Prophète ﷺ
 
-> **حديث** : 'Amr ibn al-'Āṣ demanda : « *Ô Messager d'Allah, qui est la personne que tu aimes le plus ?* » Il répondit : « *'Āisha.* » Il dit : « *Et parmi les hommes ?* » Il répondit : « *Son père.* »
-> — *Rapporté par Al-Bukhārī (3662) et Muslim (2384)*
+> **« مَنْ أَحَبُّ النَّاسِ إِلَيْكَ؟ قَالَ: عَائِشَةُ »**
+> 
+> 'Amr ibn al-'Āṣ demanda : « Ô Messager d'Allah, qui est la personne que tu aimes le plus ? » Il répondit : « 'Āisha. » — « Et parmi les hommes ? » — « Son père. »
+> — **[Al-Bukhārī 3662, Muslim 2384]**
 
-### B. Signes de Son Amour
+### 2️⃣ Signes de Son Amour
 
 | Signe | Description |
 |-------|-------------|
@@ -70,39 +77,44 @@ export const content = `
 | **Surnom affectueux** | « Humayrā' », « Yā 'Ā'ish » |
 | **Mort** | Décéda dans sa chambre, la tête sur sa poitrine |
 
-> **حديث** : 'Āisha rapporte : « *Le Prophète ﷺ mourut dans ma maison, le jour de mon tour, entre ma poitrine et mon menton.* »
-> — *Rapporté par Al-Bukhārī (4449)*
+> **« تُوُفِّيَ فِي بَيْتِي، وَفِي يَوْمِي، وَبَيْنَ سَحْرِي وَنَحْرِي »**
+> 
+> 'Āisha rapporte : « Le Prophète ﷺ mourut dans ma maison, le jour de mon tour, entre ma poitrine et mon menton. »
+> — **[Al-Bukhārī 4449]**
 
 ---
 
-## III. La Calomnie (Al-Ifk) et l'Innocence Divine
+## ⚖️ La Calomnie (Al-Ifk) et l'Innocence Divine
 
-### A. L'Accusation
+### 1️⃣ L'Accusation
 
 Lors du retour de l'expédition de Banū al-Muṣṭaliq (5 H), 'Āisha fut calomniée par les hypocrites, menés par 'Abd Allāh ibn Ubayy.
 
-### B. Un Mois de Souffrance
+### 2️⃣ Un Mois de Souffrance
 
 - Le Prophète ﷺ, affligé, ne savait que dire
 - 'Āisha, malade de chagrin, pleura sans cesse
 - Les langues des calomniateurs se déchaînèrent
 
-### C. L'Innocence Révélée
+### 3️⃣ L'Innocence Révélée
 
 Allah Lui-même révéla son innocence dans **10 versets** de la sourate Al-Nūr :
 
 > **﴿ إِنَّ الَّذِينَ جَاءُوا بِالْإِفْكِ عُصْبَةٌ مِّنكُمْ ۚ لَا تَحْسَبُوهُ شَرًّا لَّكُم ۖ بَلْ هُوَ خَيْرٌ لَّكُمْ ﴾**
-> « *Ceux qui ont forgé le mensonge sont un groupe parmi vous. Ne pensez pas que c'est un mal pour vous ; c'est plutôt un bien.* »
-> — *Sourate Al-Nūr, 24:11*
+> 
+> « Ceux qui ont forgé le mensonge sont un groupe parmi vous. Ne pensez pas que c'est un mal pour vous ; c'est plutôt un bien. »
+> — **[Sourate Al-Nūr, 24:11]**
 
-> **حديث** : 'Āisha dit : « *Par Allah, je ne pensais pas qu'Allah révélerait à mon sujet un Coran à réciter. Je me considérais trop insignifiante pour qu'Allah parle de moi. J'espérais seulement que le Prophète ﷺ voie un rêve m'innocentant.* »
-> — *Rapporté par Al-Bukhārī (4141)*
+> 🎭 **SCÈNE — L'Innocence Révélée**
+>
+> 'Āisha dit : « Par Allah, je ne pensais pas qu'Allah révélerait à mon sujet un Coran à réciter. Je me considérais trop insignifiante pour qu'Allah parle de moi. J'espérais seulement que le Prophète ﷺ voie un rêve m'innocentant. »
+> — **[Al-Bukhārī 4141]**
 
 ---
 
-## IV. La Savante de l'Umma
+## 📚 La Savante de l'Umma
 
-### A. Transmission du Hadith
+### 1️⃣ Transmission du Hadith
 
 'Āisha est la **4ᵉ plus grand transmetteur** de hadiths parmi les Compagnons :
 
@@ -114,7 +126,7 @@ Allah Lui-même révéla son innocence dans **10 versets** de la sourate Al-Nūr
 | **4** | **'Āisha** | **2 210** |
 | 5 | 'Abd Allāh ibn 'Abbās | 1 660 |
 
-### B. Domaines de Savoir
+### 2️⃣ Domaines de Savoir
 
 | Domaine | Excellence |
 |---------|------------|
@@ -126,12 +138,14 @@ Allah Lui-même révéla son innocence dans **10 versets** de la sourate Al-Nūr
 | **Généalogie** | Connaissait les lignées arabes |
 | **Histoire** | Témoin privilégiée de la Sīra |
 
-### C. Les Compagnons La Consultaient
+### 3️⃣ Les Compagnons La Consultaient
 
-> **حديث** : Abū Mūsā al-Ash'arī dit : « *Jamais nous, les Compagnons de Muhammad ﷺ, n'avons eu de difficulté sur un hadith sans que 'Āisha n'ait une connaissance à ce sujet.* »
-> — *Rapporté par Al-Tirmidhī (3883)*
+> **« مَا أَشْكَلَ عَلَيْنَا أَصْحَابِ مُحَمَّدٍ ﷺ حَدِيثٌ قَطُّ، فَسَأَلْنَا عَائِشَةَ إِلَّا وَجَدْنَا عِنْدَهَا مِنْهُ عِلْمًا »**
+> 
+> Abū Mūsā al-Ash'arī dit : « Jamais nous, les Compagnons de Muhammad ﷺ, n'avons eu de difficulté sur un hadith sans que 'Āisha n'ait une connaissance à ce sujet. »
+> — **[Al-Tirmidhī 3883]**
 
-### D. Corrections des Grands Savants
+### 4️⃣ Corrections des Grands Savants
 
 Elle corrigeait les erreurs des plus grands Compagnons :
 
@@ -142,22 +156,22 @@ Elle corrigeait les erreurs des plus grands Compagnons :
 | Ibn 'Abbās | Questions de fiqh |
 | Abū Hurayra | Hadiths mal compris |
 
-> **L'Imam al-Dhahabī** dit : « *Si on réunissait le savoir de 'Āisha avec celui de toutes les autres épouses du Prophète ﷺ et de toutes les femmes, le savoir de 'Āisha serait supérieur.* »
+> 💡 L'Imam al-Dhahabī dit : « Si on réunissait le savoir de 'Āisha avec celui de toutes les autres épouses du Prophète ﷺ et de toutes les femmes, le savoir de 'Āisha serait supérieur. »
 
 ---
 
-## V. Ses Qualités Remarquables
+## 💎 Ses Qualités Remarquables
 
-### A. Éloquence et Intelligence
+### 1️⃣ Éloquence et Intelligence
 
-> **حديث** : 'Urwa ibn al-Zubayr (son neveu) dit : « *Je n'ai vu personne de plus éloquent que 'Āisha.* »
+> 'Urwa ibn al-Zubayr (son neveu) dit : « Je n'ai vu personne de plus éloquent que 'Āisha. »
 
-### B. Générosité Exceptionnelle
+### 2️⃣ Générosité Exceptionnelle
 
-> **حديث** : 'Urwa rapporte : « *'Āisha distribua 70 000 dirhams en aumône alors qu'elle portait une robe rapiécée.* »
-> — *Rapporté dans Ṣifat al-Ṣafwa*
+> 'Urwa rapporte : « 'Āisha distribua 70 000 dirhams en aumône alors qu'elle portait une robe rapiécée. »
+> — **[Ṣifat al-Ṣafwa]**
 
-### C. Piété Intense
+### 3️⃣ Piété Intense
 
 - Jeûnait très souvent
 - Priait longuement la nuit
@@ -165,9 +179,9 @@ Elle corrigeait les erreurs des plus grands Compagnons :
 
 ---
 
-## VI. Son Rôle Politique
+## ⚔️ Son Rôle Politique
 
-### A. La Bataille du Chameau (36 H)
+### 1️⃣ La Bataille du Chameau (36 H)
 
 'Āisha mena une armée pour demander justice après l'assassinat de 'Uthmān. Cette décision reste **controversée** mais témoigne de son engagement.
 
@@ -178,24 +192,26 @@ Elle corrigeait les erreurs des plus grands Compagnons :
 | **Issue** | Défaite, réconciliation avec 'Alī |
 | **Regret** | Elle regretta son implication |
 
-> 'Āisha dit : « *J'aurais préféré donner naissance à dix fils du Messager d'Allah ﷺ plutôt que d'avoir participé à la Bataille du Chameau.* »
+> 🎭 **SCÈNE — Le Regret**
+>
+> 'Āisha dit : « J'aurais préféré donner naissance à dix fils du Messager d'Allah ﷺ plutôt que d'avoir participé à la Bataille du Chameau. »
 
-### B. Réconciliation avec 'Alī
+### 2️⃣ Réconciliation avec 'Alī
 
 Après la bataille, 'Alī la traita avec **grand respect**, lui fournissant une escorte pour retourner à Médine.
 
 ---
 
-## VII. Les Dernières Années
+## ⏳ Les Dernières Années
 
-### A. Enseignement Continu
+### 1️⃣ Enseignement Continu
 
 Après la mort du Prophète ﷺ, 'Āisha vécut **47 ans** durant lesquels elle :
 - Enseigna à des générations de Tabi'īn
 - Répondit aux questions juridiques
 - Transmit le savoir prophétique
 
-### B. La Mort
+### 2️⃣ La Mort
 
 | Information | Détail |
 |-------------|--------|
@@ -205,11 +221,11 @@ Après la mort du Prophète ﷺ, 'Āisha vécut **47 ans** durant lesquels elle 
 | **Enterrement** | Cimetière d'al-Baqī' |
 | **Prière funéraire** | Dirigée par Abū Hurayra |
 
-> Elle demanda à être enterrée de nuit et refusa d'être enterrée près du Prophète ﷺ par humilité.
+> 💡 Elle demanda à être enterrée de nuit et refusa d'être enterrée près du Prophète ﷺ par humilité.
 
 ---
 
-## VIII. Ses Élèves Célèbres
+## 🎓 Ses Élèves Célèbres
 
 | Élève | Contribution |
 |-------|--------------|
@@ -221,38 +237,40 @@ Après la mort du Prophète ﷺ, 'Āisha vécut **47 ans** durant lesquels elle 
 
 ---
 
-## IX. Leçons pour Aujourd'hui
+## 📖 Leçons pour Aujourd'hui
 
-### Pour les Femmes
+### 1️⃣ Pour les Femmes
 
-1. **Le savoir n'a pas de genre** — Elle surpassait les hommes en érudition
-2. **L'enseignement est noble** — Elle forma des générations
-3. **L'intelligence est une bénédiction** — À cultiver et partager
-4. **La piété accompagne le savoir** — Jamais l'un sans l'autre
+- **Le savoir n'a pas de genre** — Elle surpassait les hommes en érudition
+- **L'enseignement est noble** — Elle forma des générations
+- **L'intelligence est une bénédiction** — À cultiver et partager
+- **La piété accompagne le savoir** — Jamais l'un sans l'autre
 
-### Pour les Hommes
+### 2️⃣ Pour les Hommes
 
-1. **Valoriser l'intelligence féminine** — Le Prophète ﷺ l'écoutait
-2. **Apprendre des femmes savantes** — Les Compagnons le faisaient
-3. **Aimer et respecter** — Comme le Prophète ﷺ avec 'Āisha
+- **Valoriser l'intelligence féminine** — Le Prophète ﷺ l'écoutait
+- **Apprendre des femmes savantes** — Les Compagnons le faisaient
+- **Aimer et respecter** — Comme le Prophète ﷺ avec 'Āisha
 
-### Pour Tous
+### 3️⃣ Pour Tous
 
-1. **L'amour conjugal est sunna** — Le Prophète ﷺ aimait ouvertement
-2. **La calomnie est grave** — Même les meilleurs en sont victimes
-3. **La vérité triomphe** — Allah innocente les innocents
+- **L'amour conjugal est sunna** — Le Prophète ﷺ aimait ouvertement
+- **La calomnie est grave** — Même les meilleurs en sont victimes
+- **La vérité triomphe** — Allah innocente les innocents
 
 ---
 
-## Conclusion : L'Héritage Immortel
+## 🎯 Conclusion : L'Héritage Immortel
 
 'Āisha رضي الله عنها a laissé un **héritage intellectuel** sans égal dans l'histoire des femmes. Plus de 2 000 hadiths, des fatāwā innombrables, et une génération de savants formés par elle — sa contribution est inestimable.
 
-> **« Prenez la moitié de votre religion de cette Humayrā'. »**
+> **« خُذُوا نِصْفَ دِينِكُمْ عَنْ هَذِهِ الحُمَيْرَاء »**
+> 
+> « Prenez la moitié de votre religion de cette Humayrā'. »
 
 ---
 
-## Points Clés à Retenir
+## 📊 Points Clés à Retenir
 
 | # | Point |
 |---|-------|

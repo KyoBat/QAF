@@ -1,78 +1,96 @@
 /**
- * Les Femmes Héroïques de l'Islam - Leçon 003 : Fāṭima al-Zahrā' — La Dame du Paradis
+ * The Heroic Women of Islam - Lesson 003: Fāṭima al-Zahrā' — The Lady of Paradise
  * فاطمة الزهراء — سيدة نساء أهل الجنة
  */
 
-export const content = `
-# Fāṭima al-Zahrā' رضي الله عنها — Leader of the Women of Paradise
+export const content = `# 📜 فَاطِمَةُ الزَّهْرَاء — Fāṭima al-Zahrā', Lady of the Women of Paradise
 
-> **"Fāṭima is a part of me. Whatever upsets her upsets me."**
-> — *The Prophet ﷺ, reported by Al-Bukhārī and Muslim*
+> **فَاطِمَةُ بَضْعَةٌ مِنِّي، فَمَنْ أَغْضَبَهَا أَغْضَبَنِي**
+>
+> *"Fāṭima is a part of me. Whoever angers her, angers me."*
+>
+> — **[Al-Bukhārī 3714, Muslim 2449]**
 
 ---
 
-## Introduction: The Most Beloved to the Prophet's ﷺ Heart
+## 🎬 Introduction
 
-Fāṭima bint Muḥammad رضي الله عنها is the **beloved daughter** of the Prophet ﷺ and Khadīja, the only one whose lineage survived. She is the mother of Ḥasan and Ḥusayn, the leaders of the youth of Paradise. Her rank is so elevated that she is called "**Sayyidat Nisā' al-'Ālamīn**" (Lady of the Women of the Worlds).
+Fāṭima bint Muḥammad رضي الله عنها is the **beloved daughter** of the Prophet ﷺ and Khadīja, the only one whose lineage survived. She is the mother of Ḥasan and Ḥusayn, the masters of the youth of Paradise. Her rank is so high that she is called "**Sayyidat Nisā' al-'Ālamīn**" (Lady of the Women of the Worlds).
 
-### Nicknames and Titles
+### 1️⃣ Titles and Nicknames
 
-| Nickname | Meaning |
-|----------|---------|
+| Title | Meaning |
+|-------|---------|
 | **الزَّهراء** (Al-Zahrā') | The Radiant, the Luminous |
 | **البَتُول** (Al-Batūl) | The Pure, devoted to worship |
 | **سيدة نساء العالمين** | Lady of the Women of the Worlds |
 | **سيدة نساء أهل الجنة** | Lady of the Women of Paradise |
 | **أم الحسنين** | Mother of Ḥasan and Ḥusayn |
-| **أم أبيها** | "Mother of her father" (for her devotion) |
+| **أم أبيها** | "Mother of her father" (for her devotion to him) |
 
 ---
 
-## I. Birth and Childhood
+## 🌍 Biography
 
-### A. Blessed Birth
+### 1️⃣ Blessed Birth
 
 | Information | Detail |
 |-------------|--------|
-| **Birth** | About 5 years before prophethood (circa 605 CE) |
+| **Birth** | 5 years before the prophetic mission (circa 605 CE) |
 | **Mother** | Khadīja bint Khuwaylid |
 | **Place** | Mecca |
-| **Rank among sisters** | The youngest of the Prophet's ﷺ daughters |
+| **Rank among sisters** | The youngest daughter of the Prophet ﷺ |
 
-### B. A Difficult Childhood
+### 2️⃣ A Difficult Childhood
 
 Fāṭima grew up amidst **trials**:
-- Witnessed persecution against her father
-- Lived through the Banū Hāshim boycott (3 years)
-- Lost her mother Khadīja at about age 10
+- Witnessed the persecution of her father
+- Lived through the boycott of Banū Hāshim (3 years)
+- Lost her mother Khadīja at around 10 years old
 - Emigrated to Medina with her father
+
+> **🎭 SCENE — Defending Her Father**
+>
+> *Abū Jahl throws the entrails of a camel on the Prophet ﷺ while prostrating...*
+>
+> *Young Fāṭima, furious, removes the filth and rebukes the persecutors.*
+>
+> **The Prophet ﷺ**: "*Do not grieve, my daughter. Allah will protect your father.*"
 
 ---
 
-## II. Marriage to 'Alī ibn Abī Ṭālib
+## 💍 Marriage to 'Alī ibn Abī Ṭālib
 
-### A. Rejected Suitors
+### 1️⃣ Suitors Refused
 
 Before 'Alī, several illustrious Companions asked for her hand:
 - **Abū Bakr** — The Prophet ﷺ replied: "*I await Allah's command.*"
 - **'Umar** — Same response
 
-### B. 'Alī's Proposal
+### 2️⃣ 'Alī's Proposal
 
-> **Hadith**: 'Alī said: "*I had nothing except my armor. I sold it for 400 dirhams and brought them to the Prophet ﷺ.*"
+> 'Alī said: "*I had nothing except my armor. I sold it for 400 dirhams and brought it to the Prophet ﷺ.*"
 
 | Detail | Information |
 |--------|-------------|
 | **Date** | 2nd year of Hijra (624 CE) |
 | **Dowry (Mahr)** | An armor (400 dirhams) |
-| **Fāṭima's age** | About 18 years |
-| **'Alī's age** | About 21 years |
+| **Fāṭima's age** | Approximately 18 years |
+| **'Alī's age** | Approximately 21 years |
+| **Marriage performed by** | The Prophet ﷺ himself |
+
+### 3️⃣ Prophetic Blessings
+
+> The Prophet ﷺ prayed for them: "*O Allah, bless them and bless their union.*"
+
+> The Prophet ﷺ said: "*Had 'Alī not existed, there would be no equal for Fāṭima.*"
+> — **[Al-Ḥākim]**
 
 ---
 
-## III. Married Life: Model of Patience
+## 🏠 Her Married Life: A Model of Patience
 
-### A. A Modest Life
+### 1️⃣ A Modest Life
 
 Fāṭima and 'Alī lived in **poverty**:
 
@@ -83,92 +101,117 @@ Fāṭima and 'Alī lived in **poverty**:
 | **Food** | Often insufficient |
 | **Work** | Fāṭima ground the grain herself |
 
-### B. The Refused Servant
+> Fāṭima said: "*My hands are wounded from grinding.*"
+> — **[Al-Bukhārī]**
 
-When the Prophet ﷺ received slaves as spoils, Fāṭima came to ask for one to help her.
+### 2️⃣ Servant Refused
 
-> **Hadith**: The Prophet ﷺ replied: "*Shall I not guide you to what is better than a servant? When you go to bed, say 'Subḥān Allāh' 33 times, 'Al-ḥamdulillāh' 33 times, and 'Allāhu Akbar' 34 times. That is better for you than a servant.*"
-> — *Reported by Al-Bukhārī (3113) and Muslim (2727)*
+When the Prophet ﷺ received servants as spoils of war, Fāṭima came to ask for one to help her.
 
-### C. Children of Fāṭima
+> The Prophet ﷺ replied: "*Shall I not tell you something better than a servant? When you go to sleep, say 'Subḥān Allāh' 33 times, 'Al-ḥamdulillāh' 33 times, and 'Allāhu Akbar' 34 times. That is better for you than a servant.*"
+> — **[Al-Bukhārī 3113, Muslim 2727]**
+
+### 3️⃣ Children of Fāṭima
 
 | Child | Merit |
 |-------|-------|
-| **Al-Ḥasan** | "Leader of the youth of Paradise," peacemaker |
-| **Al-Ḥusayn** | "Leader of the youth of Paradise," martyr of Karbala |
-| **Umm Kulthūm** | Married to 'Umar ibn al-Khaṭṭāb |
+| **Al-Ḥasan** | "Master of the youth of Paradise," the reconciler |
+| **Al-Ḥusayn** | "Master of the youth of Paradise," martyr of Karbala |
+| **Umm Kulthūm** | Married 'Umar ibn al-Khaṭṭāb |
 | **Zaynab** | Heroine of Karbala |
+| **(Muḥsin)** | Died in infancy according to some narrations |
 
 ---
 
-## IV. The Prophet's ﷺ Love for His Daughter
+## ❤️ The Prophet's Love for His Daughter
 
-### A. The Resemblance
+### 1️⃣ Resemblance
 
-> **Hadith**: 'Āisha said: "*I never saw anyone who resembled the Prophet ﷺ more in manner and conduct than Fāṭima.*"
-> — *Reported by Al-Tirmidhī (3872)*
+> 'Āisha said: "*I have not seen anyone who resembled the Prophet ﷺ more in speech than Fāṭima.*"
+> — **[Al-Tirmidhī 3872]**
 
-### B. Exceptional Reception
+### 2️⃣ Exceptional Welcome
 
-> **Hadith**: 'Āisha reports: "*When Fāṭima entered, the Prophet ﷺ would stand up, kiss her on the forehead, and seat her in his place. And when the Prophet ﷺ entered her home, she would do the same.*"
-> — *Reported by Abū Dāwūd (5217)*
+> 'Āisha narrates: "*When Fāṭima entered, the Prophet ﷺ would stand for her, kiss her forehead, and seat her in his place. And when the Prophet ﷺ entered upon her, she would do the same.*"
+> — **[Abū Dāwūd 5217]**
 
-### C. "A Part of Me"
+### 3️⃣ "A Part of Me"
 
-> **Hadith**: The Prophet ﷺ said: "*Fāṭima is a part of me (Fāṭima baḍ'atun minnī). Whatever upsets her upsets me.*"
-> — *Reported by Al-Bukhārī (3714) and Muslim (2449)*
-
----
-
-## V. Merits and Exceptional Rank
-
-### A. Lady of the Women of Paradise
-
-> **Hadith**: The Prophet ﷺ said: "*The best women of Paradise are: Khadīja bint Khuwaylid, Fāṭima bint Muḥammad, Maryam bint 'Imrān, and Āsiya wife of Pharaoh.*"
-> — *Reported by Aḥmad (2903)*
-
-### B. First to Join the Prophet ﷺ
-
-> **Hadith**: The Prophet ﷺ said to Fāṭima during his final illness: "*Jibrīl used to review the Quran with me once a year, and this year he did so twice. I believe my time has come. You will be the first of my family to join me.*" She wept, then he said: "*Would you not be pleased to be the lady of the women of Paradise?*" Then she smiled.
-> — *Reported by Al-Bukhārī (3624)*
+> The Prophet ﷺ said: "*Fāṭima is a part of me (Fāṭima baḍ'atun minnī). Whoever angers her, angers me.*"
+> — **[Al-Bukhārī 3714, Muslim 2449]**
 
 ---
 
-## VI. The Death of the Prophet ﷺ and Fāṭima's Grief
+## 💎 Virtues and Exceptional Rank
 
-### A. The Final Secret
+### 1️⃣ Lady of the Women of Paradise
 
-> **Hadith**: 'Āisha reports: "*During his final illness, the Prophet ﷺ called Fāṭima and whispered something to her. She wept. Then he whispered something else and she smiled.*"
+> The Prophet ﷺ said: "*The best women of Paradise are: Khadīja bint Khuwaylid, Fāṭima bint Muḥammad, Maryam bint 'Imrān, and Āsiya wife of Pharaoh.*"
+> — **[Aḥmad 2903]**
 
-After the Prophet's death, 'Āisha asked what he had said.
+### 2️⃣ Lady of the Women of This Ummah
 
-Fāṭima replied: "*The first time, he told me he was going to die. So I wept. The second time, he told me I would be the first of his family to join him and that I would be the lady of the women of Paradise. So I smiled.*"
+> The Prophet ﷺ said to Fāṭima: "*Would you not be pleased to be the lady of the believing women — or of the women of this Ummah?*"
+> — **[Al-Bukhārī 3623]**
+
+### 3️⃣ First to Rejoin the Prophet ﷺ
+
+> The Prophet ﷺ told Fāṭima during his final illness: "*Jibrīl used to review the Quran with me once a year, and this year he did so twice. I think my time has come. You will be the first of my family to join me.*" She wept, then he said: "*Would you not be pleased to be the lady of the women of Paradise?*" Then she smiled.
+> — **[Al-Bukhārī 3624]**
 
 ---
 
-## VII. The Final Months of Fāṭima
+## ⚔️ The Death of the Prophet ﷺ and Fāṭima's Grief
 
-Fāṭima lived only **6 months** after her father's death.
+### 1️⃣ The Final Secret
+
+> 'Āisha narrates: "*During his final illness, the Prophet ﷺ called Fāṭima and whispered something to her. She wept. Then he whispered something else and she smiled.*"
+>
+> After the death of the Prophet ﷺ, 'Āisha asked: "*What did he tell you?*"
+>
+> Fāṭima replied: "*The first time, he told me he was going to die. So I wept. The second time, he told me I would be the first of his family to join him and that I would be the lady of the women of Paradise. So I smiled.*"
+> — **[Al-Bukhārī 3625]**
+
+### 2️⃣ Fāṭima's Mourning
+
+> Fāṭima said after his death: "*O my father! He answered the call of his Lord. O my father! Paradise of Firdaws is his abode. O my father! We announce his death to Jibrīl.*"
+> — **[Al-Bukhārī 4462]**
+
+> "*After the Messenger of Allah ﷺ, I found no joy.*"
+
+---
+
+## ⏳ End of Life
+
+### 1️⃣ Duration of Life After the Prophet ﷺ
+
+Fāṭima lived only **6 months** after the death of her father.
 
 | Information | Detail |
 |-------------|--------|
-| **Prophet's death** | 12 Rabī' al-Awwal 11 H |
-| **Fāṭima's death** | 3 Ramaḍān 11 H |
-| **Duration** | About 6 months |
-| **Age** | About 29 years |
+| **Death of the Prophet ﷺ** | 12 Rabī' al-Awwal 11 AH |
+| **Death of Fāṭima** | 3 Ramaḍān 11 AH (most known opinion) |
+| **Duration** | Approximately 6 months |
+| **Age** | Approximately 29 years |
+
+### 2️⃣ Fāṭima's Death
+
+> She asked to be washed by Asmā' bint 'Umays and buried at night with few people present.
+
+> Anas narrates: "*When Fāṭima died, Abū Bakr wept greatly.*"
 
 ---
 
-## VIII. The Legacy of Fāṭima
+## 🎓 Legacy
 
-### A. The Prophet's ﷺ Lineage
+### 1️⃣ The Prophet's Descendants
 
 All descendants of the Prophet ﷺ come through **Fāṭima**:
 - The Hasanids (descendants of Ḥasan)
 - The Husaynids (descendants of Ḥusayn)
 - The Sharifs and Sayyids of the Muslim world
 
-### B. Model for Women
+### 2️⃣ Model for Women
 
 | Quality | Manifestation |
 |---------|---------------|
@@ -176,32 +219,52 @@ All descendants of the Prophet ﷺ come through **Fāṭima**:
 | **Piety** | Intense devotion, constant dhikr |
 | **Modesty** | Simple life despite her rank |
 | **Filial love** | Total devotion to her father |
-| **Conjugal love** | Loyalty to 'Alī |
-| **Motherhood** | Raised the leaders of Paradise |
+| **Marital love** | Fidelity to 'Alī |
+| **Motherhood** | Raised the masters of Paradise |
 
 ---
 
-## Conclusion: The Pearl of Islam
+## 📖 Lessons
 
-Fāṭima al-Zahrā' رضي الله عنها is the **link** between the Prophet ﷺ and his eternal descendants. Lady of the women of Paradise, mother of the two grandsons, she embodies piety, patience, and filial love.
+### 1️⃣ For Women
 
-> **"Fāṭima is a part of me."**
-> — *Prophet Muḥammad ﷺ*
+1. **True wealth is spiritual** — Preferred dhikr over a servant
+2. **Patience in hardship** — Endured poverty with dignity
+3. **Respect for parents** — Model of filial piety
+4. **Modesty** — Simplicity despite rank
+
+### 2️⃣ For Families
+
+1. **Fatherly love** — The Prophet ﷺ honored her publicly
+2. **Marriage based on faith** — 'Alī only had an armor
+3. **Raising pious children** — Ḥasan and Ḥusayn
 
 ---
 
-## Key Takeaways
+## 🎯 Conclusion
+
+Fāṭima al-Zahrā' رضي الله عنها is the **link** between the Prophet ﷺ and his eternal descendants. Lady of the women of Paradise, mother of the Imams, she embodies piety, patience, and filial love.
+
+> **فَاطِمَةُ بَضْعَةٌ مِنِّي**
+>
+> *"Fāṭima is a part of me."*
+>
+> — **[Al-Bukhārī 3714]**
+
+---
+
+## 📊 Key Points
 
 | # | Point |
 |---|-------|
 | 1 | **Lady of the women of Paradise** — with Khadīja, Maryam, and Āsiya |
-| 2 | **"A part of me"** — the Prophet's ﷺ statement about her |
+| 2 | **"A part of me"** — the Prophet's ﷺ words about her |
 | 3 | **Only surviving lineage** — all Sharifs descend from her |
 | 4 | **Lived 6 months** after her father — first to join him |
 | 5 | **Model of patience** — preferred dhikr over wealth |
 
 ---
 
-**May Allah be pleased with her**
-*رضي الله عنها وأرضاها*
+**رضي الله عنها وأرضاها**
+*May Allah be pleased with her and please her*
 `;

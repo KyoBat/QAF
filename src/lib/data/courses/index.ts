@@ -10,6 +10,9 @@ import { aqeedahCourse } from './aqeedah'
 import { aqeedah2Course } from './aqeedah-2'
 import { aqeedahAdvancedCourse } from './aqeedah-advanced'
 import { sectesRefutationsCourse } from './sectes-refutations'
+import { fiqhMuamalatCourse } from './fiqh-muamalat'
+import { fiqhFamilleCourse } from './fiqh-famille'
+import { usulFiqhCourse } from './usul-al-fiqh'
 import { seerahModule1Course } from './seerah-module-1'
 import { seerahModule2Course } from './seerah-module-2'
 import { seerahModule3Course } from './seerah-module-3'
@@ -35,6 +38,9 @@ export { aqeedahCourse } from './aqeedah'
 export { aqeedah2Course } from './aqeedah-2'
 export { aqeedahAdvancedCourse } from './aqeedah-advanced'
 export { sectesRefutationsCourse } from './sectes-refutations'
+export { fiqhMuamalatCourse } from './fiqh-muamalat'
+export { fiqhFamilleCourse } from './fiqh-famille'
+export { usulFiqhCourse } from './usul-al-fiqh'
 export { seerahModule1Course } from './seerah-module-1'
 export { seerahModule2Course } from './seerah-module-2'
 export { seerahModule3Course } from './seerah-module-3'
@@ -71,6 +77,9 @@ export const coursesData: Course[] = [
   aqeedah2Course,
   aqeedahAdvancedCourse,
   sectesRefutationsCourse,
+  fiqhMuamalatCourse,
+  fiqhFamilleCourse,
+  usulFiqhCourse,
   seerahModule1Course,
   seerahModule2Course,
   seerahModule3Course,

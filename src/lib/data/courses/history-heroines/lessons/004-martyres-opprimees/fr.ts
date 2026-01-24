@@ -1,21 +1,24 @@
 /**
  * Les Femmes Héroïques de l'Islam - Leçon 004 : Les Premières Martyres — Sumayyah et les Opprimées
- * الشهيدات الأوائل — سُمَيَّة والمُستضعَفات
+ * الشهيدات الأوائل — سُمَيَّة والمُستضعَفات
  */
 
 export const content = `
-# Les Premières Martyres رضي الله عنهن — La Foi Plus Forte que la Torture
+# 📜 الشهيدات الأوائل — Les Premières Martyres رضي الله عنهن, La Foi Plus Forte que la Torture
 
-> **« Patience, ô famille de Yāsir ! Votre rendez-vous est au Paradis. »**
-> — *Le Prophète ﷺ aux martyrs de La Mecque*
+> **صَبْرًا آلَ يَاسِرٍ، فَإِنَّ مَوْعِدَكُمُ الْجَنَّة**
+>
+> *« Patience, ô famille de Yāsir ! Votre rendez-vous est au Paradis. »*
+>
+> — **[Al-Ḥākim, authentifié]**
 
 ---
 
-## Introduction : Le Prix de la Foi
+## 🎬 Mise en Contexte
 
 Dans les premières années de l'Islam, les convertis les plus **vulnérables** — esclaves, affranchis, femmes sans protection — payèrent le prix le plus lourd. Parmi eux, des femmes extraordinaires choisirent la **mort** plutôt que l'apostasie. Leur sang fonda les bases de notre religion.
 
-### Contexte : La Persécution Mecquoise
+### 1️⃣ La Persécution Mecquoise
 
 | Période | Situation |
 |---------|-----------|
@@ -23,6 +26,8 @@ Dans les premières années de l'Islam, les convertis les plus **vulnérables** 
 | **4-6 H avant Hégire** | Torture systématique |
 | **7-10 H avant Hégire** | Boycott de Banū Hāshim |
 | **11-13 H avant Hégire** | Intensification, émigration |
+
+### 2️⃣ Les Cibles Principales
 
 Les Quraysh ciblaient particulièrement :
 - Les **esclaves** (sans protection tribale)
@@ -32,9 +37,9 @@ Les Quraysh ciblaient particulièrement :
 
 ---
 
-## I. Sumayyah bint Khayyāṭ — La Première Martyre de l'Islam
+## ⚔️ Sumayyah bint Khayyāṭ — La Première Martyre de l'Islam
 
-### A. Identité et Statut
+### 1️⃣ Identité et Statut
 
 | Information | Détail |
 |-------------|--------|
@@ -45,7 +50,7 @@ Les Quraysh ciblaient particulièrement :
 | **Tribu protectrice** | Aucune — famille isolée |
 | **Conversion** | Parmi les 7 premiers musulmans |
 
-### B. La Famille Bénie
+### 2️⃣ La Famille Bénie
 
 La famille de Yāsir représente un cas **unique** :
 - **Yāsir** : Yéménite venu à La Mecque pour chercher son frère
@@ -60,7 +65,7 @@ La famille de Yāsir représente un cas **unique** :
 >           ↓
 > **Les TROIS sont martyrs ou torturés**
 
-### C. La Conversion et la Persécution
+### 3️⃣ La Conversion et la Persécution
 
 Les trois membres de la famille se convertirent parmi les **tout premiers**.
 
@@ -70,12 +75,15 @@ Les trois membres de la famille se convertirent parmi les **tout premiers**.
 | **Banū Makhzūm** | Clan responsable |
 | **Méthode** | Exposition au soleil, armures brûlantes, coups |
 
-> **حديث** : Le Prophète ﷺ passait près d'eux pendant la torture et disait :
-> **« صبرًا آل ياسر، فإن موعدكم الجنة »**
+> Le Prophète ﷺ passait près d'eux pendant la torture et disait :
+>
+> **صَبْرًا آلَ يَاسِرٍ، فَإِنَّ مَوْعِدَكُمُ الْجَنَّة**
+>
 > *« Patience, ô famille de Yāsir ! Votre rendez-vous est au Paradis. »*
-> — *Rapporté par Al-Ḥākim, authentifié*
+>
+> — **[Al-Ḥākim, authentifié]**
 
-### D. Le Martyre de Sumayyah
+### 4️⃣ Le Martyre de Sumayyah
 
 Sumayyah refusa catégoriquement de renier sa foi.
 
@@ -98,7 +106,7 @@ Sumayyah refusa catégoriquement de renier sa foi.
 | **Méthode** | Coup de lance |
 | **Rang** | **Première martyre (shahīda) de l'Islam** |
 
-### E. Le Destin de la Famille
+### 5️⃣ Le Destin de la Famille
 
 | Membre | Destin |
 |--------|--------|
@@ -107,13 +115,13 @@ Sumayyah refusa catégoriquement de renier sa foi.
 | **'Ammār** | Survécut, prononça la mécréance sous contrainte (excusé par le Coran) |
 
 > **Le Coran sur 'Ammār** : « *...sauf celui qui y est contraint alors que son cœur demeure plein de foi.* »
-> — *Sourate Al-Naḥl (16:106)*
+> — **[Al-Naḥl 16:106]**
 
 ---
 
-## II. Autres Femmes Torturées et Martyrisées
+## 🌍 Autres Femmes Torturées et Martyrisées
 
-### A. Umm 'Ubays — L'Esclave de Banū Zuhra
+### 1️⃣ Umm 'Ubays — L'Esclave de Banū Zuhra
 
 | Information | Détail |
 |-------------|--------|
@@ -123,7 +131,7 @@ Sumayyah refusa catégoriquement de renier sa foi.
 | **Torture** | Exposée au soleil, battue |
 | **Libérateur** | Abū Bakr al-Ṣiddīq (l'acheta et l'affranchit) |
 
-### B. Zinīra al-Rūmiyya — L'Esclave Romaine
+### 2️⃣ Zinīra al-Rūmiyya — L'Esclave Romaine
 
 | Information | Détail |
 |-------------|--------|
@@ -134,12 +142,14 @@ Sumayyah refusa catégoriquement de renier sa foi.
 | **Miracle** | Sa vue lui fut rendue |
 | **Libérateur** | Abū Bakr al-Ṣiddīq |
 
-> **حديث** : Quand elle perdit la vue, Abū Jahl dit : « *Al-Lāt et Al-'Uzzā l'ont rendue aveugle !* »
+> Quand elle perdit la vue, Abū Jahl dit : « *Al-Lāt et Al-'Uzzā l'ont rendue aveugle !* »
+>
 > Elle répondit : « *Al-Lāt et Al-'Uzzā ne peuvent ni nuire ni profiter !* »
+>
 > Allah lui rendit la vue.
-> — *Rapporté dans les Siyar*
+> — **[Al-Siyar]**
 
-### C. Al-Nahdiyya et Sa Fille — Les Esclaves de Banū 'Abd al-Dār
+### 3️⃣ Al-Nahdiyya et Sa Fille — Les Esclaves de Banū 'Abd al-Dār
 
 | Information | Détail |
 |-------------|--------|
@@ -149,9 +159,10 @@ Sumayyah refusa catégoriquement de renier sa foi.
 | **Libérateur** | Abū Bakr al-Ṣiddīq |
 
 > La maîtresse leur dit : « *Par Allah, je ne vous affranchirai jamais !* »
+>
 > Abū Bakr répondit : « *Par Allah, moi je les affranchis !* » Et il les acheta.
 
-### D. Lubayna — L'Esclave de 'Umar (avant sa conversion)
+### 4️⃣ Lubayna — L'Esclave de 'Umar (avant sa conversion)
 
 | Information | Détail |
 |-------------|--------|
@@ -161,9 +172,10 @@ Sumayyah refusa catégoriquement de renier sa foi.
 | **Libérateur** | Abū Bakr al-Ṣiddīq |
 
 > 'Umar la battait jusqu'à se fatiguer, puis disait : « *Je ne m'arrête que par fatigue !* »
+>
 > Elle répondait : « *Qu'Allah te fasse de même !* »
 
-### E. Umm Sharīk — La Femme de Quraysh
+### 5️⃣ Umm Sharīk — La Femme de Quraysh
 
 | Information | Détail |
 |-------------|--------|
@@ -175,9 +187,9 @@ Sumayyah refusa catégoriquement de renier sa foi.
 
 ---
 
-## III. Abū Bakr : Le Libérateur des Opprimées
+## 💎 Abū Bakr : Le Libérateur des Opprimées
 
-### A. Sa Mission
+### 1️⃣ Sa Mission
 
 Abū Bakr al-Ṣiddīq رضي الله عنه dépensa sa fortune pour **affranchir les esclaves torturés** :
 
@@ -191,11 +203,16 @@ Abū Bakr al-Ṣiddīq رضي الله عنه dépensa sa fortune pour **affranc
 | **Lubayna** | Esclave battue par 'Umar |
 | **Autres** | Plusieurs autres femmes |
 
-> **حديث** : Le père d'Abū Bakr lui dit : « *Ô mon fils, je vois que tu affranchis des esclaves faibles. Si tu affranchissais des hommes forts, ils te protégeraient !* »
-> Abū Bakr répondit : « *Ô père, je ne cherche que le visage d'Allah.* »
-> — *Allah révéla : « ...celui qui donne et craint Allah, et croit en la plus belle récompense... »* (92:5-7)
+### 2️⃣ La Réponse à Son Père
 
-### B. Le Verset Révélé
+> Le père d'Abū Bakr lui dit : « *Ô mon fils, je vois que tu affranchis des esclaves faibles. Si tu affranchissais des hommes forts, ils te protégeraient !* »
+>
+> Abū Bakr répondit : « *Ô père, je ne cherche que le visage d'Allah.* »
+>
+> Allah révéla : « *...celui qui donne et craint Allah, et croit en la plus belle récompense...* »
+> — **[Al-Layl 92:5-7]**
+
+### 3️⃣ Le Verset Révélé
 
 > **Sourate Al-Layl (92:17-21)** :
 > « *En sera écarté le plus pieux, qui donne ses biens pour se purifier, sans attendre de quiconque une récompense, mais seulement pour rechercher le visage de son Seigneur le Très-Haut. Et certes, il sera satisfait !* »
@@ -204,9 +221,9 @@ Ces versets furent révélés à propos d'**Abū Bakr** et de son affranchisseme
 
 ---
 
-## IV. Leçons des Premières Martyres
+## 📖 Leçons
 
-### 1. La Foi Transcende le Statut Social
+### 1️⃣ La Foi Transcende le Statut Social
 
 | Leçon | Application |
 |-------|-------------|
@@ -214,7 +231,7 @@ Ces versets furent révélés à propos d'**Abū Bakr** et de son affranchisseme
 | Zinīra était romaine | L'Islam est universel |
 | Bilāl était abyssin | La taqwā seule compte |
 
-### 2. La Femme Peut Être Martyre
+### 2️⃣ La Femme Peut Être Martyre
 
 | Point | Signification |
 |-------|---------------|
@@ -222,7 +239,7 @@ Ces versets furent révélés à propos d'**Abū Bakr** et de son affranchisseme
 | Son sang fonda l'Islam | Sacrifice suprême |
 | Modèle pour les croyantes | Le courage n'a pas de genre |
 
-### 3. La Patience Face à l'Oppression
+### 3️⃣ La Patience Face à l'Oppression
 
 > **« Patience, ô famille de Yāsir ! »**
 
@@ -232,7 +249,7 @@ Ces versets furent révélés à propos d'**Abū Bakr** et de son affranchisseme
 | La patience | Condition de la victoire |
 | Le Paradis | Récompense promise |
 
-### 4. Le Devoir de Solidarité
+### 4️⃣ Le Devoir de Solidarité
 
 | Action d'Abū Bakr | Leçon |
 |-------------------|-------|
@@ -242,16 +259,16 @@ Ces versets furent révélés à propos d'**Abū Bakr** et de son affranchisseme
 
 ---
 
-## V. Impact Historique
+## 🎓 Héritage
 
-### A. Fondation de la Communauté
+### 1️⃣ Fondation de la Communauté
 
 Les martyres et torturés établirent :
 - **La légitimité du sacrifice** pour la foi
 - **L'égalité** des esclaves et des libres devant Allah
 - **Le rôle des femmes** dans le jihad
 
-### B. Mémoire Éternelle
+### 2️⃣ Mémoire Éternelle
 
 | Martyre | Mémoire |
 |---------|---------|
@@ -261,18 +278,21 @@ Les martyres et torturés établirent :
 
 ---
 
-## Conclusion : Le Sang des Pures
+## 🎯 Conclusion
 
 Les premières martyres de l'Islam — Sumayyah en tête — nous rappellent que la foi **n'a pas de prix**. Ces femmes esclaves, sans pouvoir ni protection, choisirent la mort plutôt que de trahir leur Seigneur.
 
 Leur sang irrigua les fondations de l'Islam.
 
-> **« Patience, ô famille de Yāsir ! Votre rendez-vous est au Paradis. »**
-> — *Le Prophète Muḥammad ﷺ*
+> **صَبْرًا آلَ يَاسِرٍ، فَإِنَّ مَوْعِدَكُمُ الْجَنَّة**
+>
+> *« Patience, ô famille de Yāsir ! Votre rendez-vous est au Paradis. »*
+>
+> — **[Al-Ḥākim]**
 
 ---
 
-## Points Clés à Retenir
+## 📊 Points Clés
 
 | # | Point |
 |---|-------|

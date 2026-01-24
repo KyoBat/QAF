@@ -4,18 +4,21 @@
  */
 
 export const content = `
-# Les Femmes Savantes رضي الله عنهن — Gardiennes de la Science Islamique
+# 📜 النساء العالمات — Les Femmes Savantes رضي الله عنهن, Gardiennes de la Science Islamique
 
-> **« Prenez la moitié de votre religion de cette Ḥumayra' (rougeaude). »**
-> — *Attribué aux Compagnons sur 'Āisha رضي الله عنها*
+> **خُذُوا نِصْفَ دِينِكُمْ عَنْ هَذِهِ الْحُمَيْرَاء**
+>
+> *« Prenez la moitié de votre religion de cette Ḥumayra' (rougeaude). »*
+>
+> — **[Attribué aux Compagnons sur 'Āisha رضي الله عنها]**
 
 ---
 
-## Introduction : Les Femmes dans la Transmission du Savoir
+## 🎬 Mise en Contexte
 
 L'Islam a toujours valorisé les femmes savantes. Dès l'époque du Prophète ﷺ, des femmes transmirent le savoir, enseignèrent aux hommes comme aux femmes, et furent des autorités reconnues en hadith, fiqh et tafsīr.
 
-### La Place des Femmes dans la Science
+### 1️⃣ La Place des Femmes dans la Science
 
 | Domaine | Contribution |
 |---------|--------------|
@@ -28,9 +31,9 @@ L'Islam a toujours valorisé les femmes savantes. Dès l'époque du Prophète �
 
 ---
 
-## I. 'Āisha bint Abī Bakr — La Plus Grande Savante
+## 📚 'Āisha bint Abī Bakr — La Plus Grande Savante
 
-### A. Son Rang Scientifique
+### 1️⃣ Son Rang Scientifique
 
 | Information | Détail |
 |-------------|--------|
@@ -39,7 +42,7 @@ L'Islam a toujours valorisé les femmes savantes. Dès l'époque du Prophète �
 | **Élèves** | Plus de 200 |
 | **Domaines** | Hadith, fiqh, tafsīr, médecine, poésie |
 
-### B. Les Savants Qui Apprirent d'Elle
+### 2️⃣ Les Savants Qui Apprirent d'Elle
 
 | Catégorie | Exemples |
 |-----------|----------|
@@ -47,26 +50,26 @@ L'Islam a toujours valorisé les femmes savantes. Dès l'époque du Prophète �
 | **Tābi'īn** | 'Urwa ibn al-Zubayr (neveu), Al-Qāsim ibn Muḥammad |
 | **Hommes et femmes** | Enseignait derrière un voile aux hommes |
 
-### C. Ses Corrections des Compagnons
+### 3️⃣ Ses Corrections des Compagnons
 
 'Āisha corrigea les Compagnons sur **plusieurs points de fiqh et de hadith** :
 
-> **حديث** : Quand on lui rapporta qu'Ibn 'Umar disait que le mort est châtié pour les pleurs de sa famille, elle répondit :
+> Quand on lui rapporta qu'Ibn 'Umar disait que le mort est châtié pour les pleurs de sa famille, elle répondit :
 > « *Qu'Allah pardonne à Abū 'Abd al-Raḥmān ! Il n'a pas menti, mais il a oublié. Le Prophète ﷺ passa devant une juive qu'on pleurait et dit : "Ils la pleurent, et elle est châtiée dans sa tombe." Il parlait des mécréants, pas des musulmans.* »
-> — *Rapporté par Al-Bukhārī et Muslim*
+> — **[Al-Bukhārī, Muslim]**
 
 > L'imam Al-Zarkashī compila un livre entier : **« Al-Ijāba li-Īrād mā Istadrakathu 'Āisha 'alā al-Ṣaḥāba »** (Les corrections d'Āisha sur les Compagnons)
 
-### D. Témoignages sur Elle
+### 4️⃣ Témoignages sur Elle
 
-> **حديث** : Abū Mūsā al-Ash'arī dit : « *Jamais nous, Compagnons du Prophète ﷺ, n'avons eu de difficulté sur un hadith sans que nous interrogions 'Āisha et trouvions chez elle une science à ce sujet.* »
-> — *Rapporté par Al-Tirmidhī*
+> Abū Mūsā al-Ash'arī dit : « *Jamais nous, Compagnons du Prophète ﷺ, n'avons eu de difficulté sur un hadith sans que nous interrogions 'Āisha et trouvions chez elle une science à ce sujet.* »
+> — **[Al-Tirmidhī]**
 
-> **حديث** : Masrūq dit : « *J'ai vu les grands Compagnons interroger 'Āisha sur les obligations (farā'iḍ).* »
+> Masrūq dit : « *J'ai vu les grands Compagnons interroger 'Āisha sur les obligations (farā'iḍ).* »
 
-> **حديث** : 'Urwa ibn al-Zubayr dit : « *Je n'ai vu personne plus savant en fiqh, en médecine et en poésie qu'Āisha.* »
+> 'Urwa ibn al-Zubayr dit : « *Je n'ai vu personne plus savant en fiqh, en médecine et en poésie qu'Āisha.* »
 
-### E. Sa Méthodologie
+### 5️⃣ Sa Méthodologie
 
 | Principe | Exemple |
 |----------|---------|
@@ -77,9 +80,9 @@ L'Islam a toujours valorisé les femmes savantes. Dès l'époque du Prophète �
 
 ---
 
-## II. Umm Salama — La Juriste Consultée
+## 🌍 Umm Salama — La Juriste Consultée
 
-### A. Son Rang
+### 1️⃣ Son Rang
 
 | Information | Détail |
 |-------------|--------|
@@ -89,22 +92,22 @@ L'Islam a toujours valorisé les femmes savantes. Dès l'époque du Prophète �
 | **Épouse du Prophète ﷺ** | Après Uhud |
 | **Décès** | 62 H (dernière épouse à mourir) |
 
-### B. Ses Avis Recherchés
+### 2️⃣ Ses Avis Recherchés
 
 Umm Salama était consultée sur :
 - Les règles concernant les femmes
 - Le fiqh des purifications
 - Les comportements du Prophète ﷺ chez lui
 
-### C. Hadiths Importants
+### 3️⃣ Hadiths Importants
 
-> **حديث** : Umm Salama rapporte : « *Le Prophète ﷺ me visitait alors que j'étais en période menstruelle. Il s'asseyait près de moi et me causait, et il était le plus affable des gens.* »
+> Umm Salama rapporte : « *Le Prophète ﷺ me visitait alors que j'étais en période menstruelle. Il s'asseyait près de moi et me causait, et il était le plus affable des gens.* »
 
 ---
 
-## III. Ḥafṣa bint 'Umar — La Gardienne du Muṣḥaf
+## 💎 Ḥafṣa bint 'Umar — La Gardienne du Muṣḥaf
 
-### A. Son Rang
+### 1️⃣ Son Rang
 
 | Information | Détail |
 |-------------|--------|
@@ -113,7 +116,7 @@ Umm Salama était consultée sur :
 | **Rôle unique** | Gardienne du premier Muṣḥaf compilé |
 | **Hadiths transmis** | 60 hadiths |
 
-### B. Le Dépôt du Coran
+### 2️⃣ Le Dépôt du Coran
 
 Après la mort du Prophète ﷺ, puis d'Abū Bakr :
 - **'Umar** conserva les feuillets (ṣuḥuf) du Coran
@@ -125,9 +128,9 @@ Après la mort du Prophète ﷺ, puis d'Abū Bakr :
 
 ---
 
-## IV. Les Tābi'iyyāt Savantes
+## 🎓 Les Tābi'iyyāt Savantes
 
-### A. Ḥafṣa bint Sīrīn
+### 1️⃣ Ḥafṣa bint Sīrīn
 
 | Information | Détail |
 |-------------|--------|
@@ -138,7 +141,7 @@ Après la mort du Prophète ﷺ, puis d'Abū Bakr :
 
 > Iyās ibn Mu'āwiya dit : « *Je n'ai rencontré personne que j'aurais préféré à Ḥafṣa bint Sīrīn.* »
 
-### B. 'Amra bint 'Abd al-Raḥmān
+### 2️⃣ 'Amra bint 'Abd al-Raḥmān
 
 | Information | Détail |
 |-------------|--------|
@@ -151,7 +154,7 @@ Après la mort du Prophète ﷺ, puis d'Abū Bakr :
 
 > Le calife 'Umar ibn 'Abd al-'Azīz ordonna : « *Consignez les hadiths de 'Amra !* »
 
-### C. Fāṭima bint al-Mundhir
+### 3️⃣ Fāṭima bint al-Mundhir
 
 | Information | Détail |
 |-------------|--------|
@@ -162,9 +165,9 @@ Après la mort du Prophète ﷺ, puis d'Abū Bakr :
 
 ---
 
-## V. Les Muḥaddithāt des Siècles Suivants
+## ⏳ Les Muḥaddithāt des Siècles Suivants
 
-### A. L'Âge d'Or des Muḥaddithāt
+### 1️⃣ L'Âge d'Or des Muḥaddithāt
 
 | Siècle | Développement |
 |--------|---------------|
@@ -174,7 +177,7 @@ Après la mort du Prophète ﷺ, puis d'Abū Bakr :
 | **9ᵉ-10ᵉ H** | Continuité |
 | **Moderne** | Renaissance |
 
-### B. Fāṭima al-Samarqandiyya (6ᵉ siècle H)
+### 2️⃣ Fāṭima al-Samarqandiyya (6ᵉ siècle H)
 
 | Information | Détail |
 |-------------|--------|
@@ -185,7 +188,7 @@ Après la mort du Prophète ﷺ, puis d'Abū Bakr :
 
 > Al-Kāsānī disait : « *Mon épouse connaît le livre de son père mieux que moi.* »
 
-### C. Fāṭima bint 'Abbās (8ᵉ siècle H)
+### 3️⃣ Fāṭima bint 'Abbās (8ᵉ siècle H)
 
 | Information | Détail |
 |-------------|--------|
@@ -194,7 +197,7 @@ Après la mort du Prophète ﷺ, puis d'Abū Bakr :
 | **Poste** | Muftiyya de Damas |
 | **Élèves** | Des savants venaient de loin pour apprendre d'elle |
 
-### D. 'Āisha bint 'Abd al-Hādī (8ᵉ siècle H)
+### 4️⃣ 'Āisha bint 'Abd al-Hādī (8ᵉ siècle H)
 
 | Information | Détail |
 |-------------|--------|
@@ -205,9 +208,9 @@ Après la mort du Prophète ﷺ, puis d'Abū Bakr :
 
 ---
 
-## VI. Le Système des Ijāzāt Féminines
+## 📖 Le Système des Ijāzāt Féminines
 
-### A. Qu'est-ce qu'une Ijāza ?
+### 1️⃣ Qu'est-ce qu'une Ijāza ?
 
 | Concept | Définition |
 |---------|------------|
@@ -215,7 +218,7 @@ Après la mort du Prophète ﷺ, puis d'Abū Bakr :
 | **Chaîne (isnād)** | Liste des transmetteurs jusqu'à l'auteur |
 | **Importance** | Garantie d'authenticité |
 
-### B. Les Femmes dans les Chaînes
+### 2️⃣ Les Femmes dans les Chaînes
 
 | Statistique | Information |
 |-------------|-------------|
@@ -225,7 +228,7 @@ Après la mort du Prophète ﷺ, puis d'Abū Bakr :
 
 > L'imam Al-Dhahabī : « *Je ne connais aucune femme accusée de mensonge dans le hadith.* »
 
-### C. Exemples de Voyages pour Apprendre
+### 3️⃣ Exemples de Voyages pour Apprendre
 
 | Savant | Voyage |
 |--------|--------|
@@ -235,9 +238,9 @@ Après la mort du Prophète ﷺ, puis d'Abū Bakr :
 
 ---
 
-## VII. Domaines de Contribution
+## ⚔️ Domaines de Contribution
 
-### A. Hadith
+### 1️⃣ Hadith
 
 | Contribution | Description |
 |--------------|-------------|
@@ -245,7 +248,7 @@ Après la mort du Prophète ﷺ, puis d'Abū Bakr :
 | **Enseignement** | Majālis (assemblées) d'enseignement |
 | **Vérification** | Corrections et précisions |
 
-### B. Fiqh
+### 2️⃣ Fiqh
 
 | Contribution | Description |
 |--------------|-------------|
@@ -253,7 +256,7 @@ Après la mort du Prophète ﷺ, puis d'Abū Bakr :
 | **Conseil** | Consultées par les califes |
 | **Enseignement** | Formaient des juristes |
 
-### C. Coran et Tajwīd
+### 3️⃣ Coran et Tajwīd
 
 | Contribution | Description |
 |--------------|-------------|
@@ -263,9 +266,9 @@ Après la mort du Prophète ﷺ, puis d'Abū Bakr :
 
 ---
 
-## VIII. Leçons pour Aujourd'hui
+## 📖 Leçons
 
-### 1. La Science N'a Pas de Genre
+### 1️⃣ La Science N'a Pas de Genre
 
 | Principe | Application |
 |----------|-------------|
@@ -273,7 +276,7 @@ Après la mort du Prophète ﷺ, puis d'Abū Bakr :
 | Les Compagnons consultaient | Les femmes sur le fiqh |
 | Les savants voyageaient | Pour apprendre des muḥaddithāt |
 
-### 2. L'Éducation des Femmes
+### 2️⃣ L'Éducation des Femmes
 
 | Devoir | Réalité historique |
 |--------|-------------------|
@@ -281,7 +284,7 @@ Après la mort du Prophète ﷺ, puis d'Abū Bakr :
 | **Transmission** | Les mères éduquent la Umma |
 | **Autorité** | Reconnue quand méritée |
 
-### 3. La Complémentarité
+### 3️⃣ La Complémentarité
 
 | Aspect | Équilibre |
 |--------|-----------|
@@ -291,24 +294,27 @@ Après la mort du Prophète ﷺ, puis d'Abū Bakr :
 
 ---
 
-## Conclusion : Les Héritières des Prophètes
+## 🎯 Conclusion
 
 Les femmes savantes de l'Islam — de 'Āisha aux muḥaddithāt de Damas — prouvent que la science islamique a toujours été transmise par les deux genres. Leur contribution est **indispensable** à notre religion.
 
-> **« Prenez la moitié de votre religion de cette Ḥumayra'. »**
-> — *Les Compagnons sur 'Āisha*
+> **خُذُوا نِصْفَ دِينِكُمْ عَنْ هَذِهِ الْحُمَيْرَاء**
+>
+> *« Prenez la moitié de votre religion de cette Ḥumayra'. »*
+>
+> — **[Attribué aux Compagnons sur 'Āisha]**
 
 ---
 
-## Points Clés à Retenir
+## 📊 Points Clés
 
 | # | Point |
 |---|-------|
-| 1 | **'Āisha** = 2 210 hadiths, corrigeait les Compagnons |
-| 2 | **Ḥafṣa bint 'Umar** = Gardienne du premier Muṣḥaf |
-| 3 | **'Amra bint 'Abd al-Raḥmān** = Source de l'imam Mālik |
-| 4 | **Fāṭima al-Samarqandiyya** = Corrigeait les fatwas de son mari |
-| 5 | **Aucune femme** = Accusée de forger des hadiths (fiabilité totale) |
+| 1 | **'Āisha** = 2 210 hadiths, 4ᵉ narratrice, corrigeait les Compagnons |
+| 2 | **Ḥafṣa bint 'Umar** = Gardienne du Muṣḥaf original |
+| 3 | **Aucune femme** = N'a jamais été accusée d'avoir forgé un hadith |
+| 4 | **'Amra bint 'Abd al-Raḥmān** = L'imam Mālik citait ses avis |
+| 5 | **Les muḥaddithāt** = Apogée aux 7ᵉ-8ᵉ siècles à Damas et au Caire |
 
 ---
 
