@@ -210,6 +210,81 @@ Allah says: **"Or release with good treatment"** [Al-Baqarah: 229]
 
 ---
 
+## 📖 Stories from the Salaf
+
+### Ibn Umar and the Bid'ah Divorce
+
+Abdullah ibn Umar (may Allah be pleased with them both) reported that he divorced his wife while she was menstruating. His father Umar went to the Messenger of Allah ﷺ and informed him of this.
+
+The Messenger of Allah ﷺ became upset, then said: **"Command him to take her back, then keep her until she is pure, then menstruates, then is pure, then if he wishes he keeps her, and if he wishes he divorces her before touching her. That is the waiting period that Allah commanded for divorcing women."**
+
+Ibn Umar said: So I took her back, and that divorce was counted against me.
+
+**The lesson:** The Prophet ﷺ did not merely explain the error, but commanded immediate correction, and taught the Ummah that divorce has its proper time in the Sharia. Ibn Umar (may Allah be pleased with him) continued narrating this hadith and warning against divorce during menstruation throughout his life.
+
+---
+
+## 🎯 Contemporary Cases
+
+### Case One: Divorce During Extreme Anger
+
+**Question:** I divorced my wife three times in a moment of extreme anger after a fight, and I wasn't aware of what I was saying. What is the ruling?
+
+**Answer:** If the anger completely took away your consciousness (closure), then the divorce does not take effect. However, if you were aware of what you said despite the anger, the preponderant view is that it takes effect. Therefore, it is always advised to leave the place when angry and seek refuge from Satan.
+
+---
+
+### Case Two: Divorce via Text Message
+
+**Question:** I sent my wife a WhatsApp message saying "You are divorced," then I regretted it. Does it take effect?
+
+**Answer:** Divorce by writing takes effect according to the majority of scholars if it was with the intention of divorce. Writing is like speaking in effecting divorce. If it was the first or second divorce, take her back before the 'iddah ends.
+
+---
+
+### Case Three: Combining Three Divorces
+
+**Question:** I said to my wife in one sitting: "You are divorced, divorced, divorced." Does it count as three or one?
+
+**Answer:** This is a disputed matter:
+- **The majority of scholars:** It counts as three, and this is the position of the four schools
+- **Ibn Taymiyyah and Ibn al-Qayyim:** It counts as one
+
+The safer approach is to follow the majority view, and consult a trusted mufti in your case.
+
+---
+
+### Case Four: Divorce During Purity with Intercourse
+
+**Question:** I divorced my wife during purity, but I had intercourse with her at the beginning of this purity. Is my divorce Sunnah?
+
+**Answer:** No, this is a Bid'ah divorce because it occurred during a purity in which you had touched her. Sunnah divorce is in a purity where you did not touch her. The divorce takes effect with sin according to the majority.
+
+---
+
+### Case Five: Threatening with Divorce
+
+**Question:** I always threaten my wife with divorce during any disagreement without actually intending divorce. Does it take effect?
+
+**Answer:** If the wording is explicit ("You are divorced"), it takes effect according to the majority even without intending it. So beware of uttering divorce in jest or as a threat. The Prophet ﷺ said: **"Three things, their seriousness is serious and their jest is serious: marriage, divorce, and resumption."**
+
+---
+
+## 💡 Pause and Reflect
+
+**Question for reflection:**
+
+Why do you think the Sharia specified a particular time for divorce (during purity without intercourse) and did not leave it to any time the husband wishes?
+
+Reflect on:
+- The psychological wisdom for both spouses
+- The wisdom related to the waiting period
+- The wisdom in preventing haste and regret
+
+These legal restrictions are a mercy, not a burden, for they protect the family from hasty decisions that lead to regret.
+
+---
+
 ## Conclusion
 
 Sunnah divorce is that which conforms to the Sharia: the man divorces his wife with one divorce during a purity without intercourse. Bid'ah divorce is prohibited and its doer sins, and it takes effect according to the majority of scholars with sin. The Muslim is commanded to follow the Sunnah in all his affairs, including divorce if he is compelled to it.

@@ -117,6 +117,92 @@ const content = `
 
 ---
 
+## 📖 Stories from the Salaf: 'Umar ibn 'Abd al-'Azîz's Moderation
+
+When **'Umar ibn 'Abd al-'Azîz** رحمه الله became caliph, he wanted to reform everything immediately and return rights to their owners.
+
+His son **'Abd al-Malik** said to him: "O father! Why don't you implement all the truth now? By Allah, I wouldn't care if you and I boiled in cauldrons for the sake of truth!"
+
+'Umar رحمه الله said a profound statement:
+
+> **"O my son! I fear that if I burden the people with truth all at once, they will reject it all at once, and that would cause fitnah!"**
+
+So he رحمه الله reformed gradually, until he revived the Sunnah and eliminated innovation in just two and a half years!
+
+**Lesson learned**: Moderation isn't weakness; it's wisdom in implementation. Extremism in reform can produce opposite results.
+
+---
+
+## 🎯 Contemporary Cases
+
+### Case 1: Extremism in Declaring Muslims Disbelievers
+
+**Mahmûd** is a religious young man, but he declares everyone who disagrees with him a disbeliever: "So-and-so shaves his beard = disbeliever!" "So-and-so works in a bank = disbeliever!"
+
+**Question**: What's wrong with his approach?
+
+**Answer**: 
+- ❌ This is **the Khawârij's method**, not Ahl as-Sunnah's
+- ⚠️ **Major sins** don't render their doer a disbeliever according to Ahl as-Sunnah
+- ✅ **The obligation**: Advise with wisdom, not declare takfir
+
+---
+
+### Case 2: Negligence in the Name of "Moderate Islam"
+
+**Sarah** says: "I'm a moderate Muslim. I don't adhere to hijab or the five prayers. What matters is the heart!"
+
+**Question**: Is this moderation?
+
+**Answer**:
+- ❌ This **isn't moderation but negligence**
+- ✅ Moderation: Following the Sharî'ah as Allah commanded
+- ❌ Dropping obligations in the name of "moderation": Misguidance
+
+---
+
+### Case 3: Extremism in Glorifying Individuals
+
+**Followers of Sheikh so-and-so** say: "Our Sheikh doesn't make mistakes!" "Everyone who disagrees with our Sheikh is misguided!"
+
+**Question**: What's the ruling?
+
+**Answer**:
+- ❌ **Infallibility is for Allah and His Messenger only**
+- ✅ **Everyone's words can be accepted or rejected** except the Messenger of Allah ﷺ
+- ⚠️ **Extremism about scholars**: Can lead to what resembles worshipping them
+
+---
+
+### Case 4: Laxity in Creedal Matters
+
+**'Umar** says: "All religions lead to Allah. The Muslim, Christian, and Jew are all in Paradise!"
+
+**Question**: Is this moderation?
+
+**Answer**:
+- ❌ This is **clear disbelief**, unrelated to moderation
+- Allah said: ﴿ وَمَن يَبْتَغِ غَيْرَ الْإِسْلَامِ دِينًا فَلَن يُقْبَلَ مِنْهُ ﴾
+- ✅ **Moderation**: Balance in truth, not abandoning it
+
+---
+
+## 💡 Pause and Reflect
+
+**Personal question**: 
+
+In our time, the words "moderation" and "tolerance" are used frequently, but they may be used for falsehood too!
+
+**How do you distinguish between:**
+- **True moderation**: Following the Salaf's methodology
+- **False moderation**: Abandoning fundamentals under the pretext of "progress"?
+
+**The criterion**: Whatever accords with the Quran, Sunnah, and the Salaf's understanding = true moderation
+
+Remember: Moderation isn't the middle between truth and falsehood, but the middle between extremism in truth and negligence in it!
+
+---
+
 ## ❓ Frequently Asked Questions
 
 ### Q1: How do we know the middle ground in an issue?

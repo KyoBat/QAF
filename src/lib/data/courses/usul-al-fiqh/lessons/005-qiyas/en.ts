@@ -163,7 +163,95 @@ The text takes absolute precedence over Qiyas, because Qiyas is a branch and tex
 - **Shafi'is**: Regulate Qiyas with precise conditions
 - **Hanbalis**: Use it in the absence of text
 
+---
+
+## 📖 Stories from the Companions: The Qiyas of Mu'adh ibn Jabal
+
+When the Prophet ﷺ sent Mu'adh ibn Jabal to Yemen as a judge, he asked him:
+
+**"By what will you judge?"**
+
+He said: By the Book of Allah.
+
+He said: **"And if you do not find it?"**
+
+He said: By the Sunnah of the Messenger of Allah ﷺ.
+
+He said: **"And if you do not find it?"**
+
+He said: **I will exercise my own reasoning (ijtihad) and spare no effort.**
+
+The Prophet ﷺ struck his chest and said: **"Praise be to Allah who has guided the messenger of the Messenger of Allah to what pleases the Messenger of Allah."**
+
+**The Lesson**: Ijtihad and qiyas are legislated when there is no text.
+
+---
+
+## 🎯 Contemporary Cases: Apply Qiyas!
+
+### Case 1: Ruling on Electronic Cigarettes (Vapes)
+
+**Question**: What is the ruling on electronic cigarettes?
+
+**Applying Qiyas**:
+| Pillar | Application |
+|--------|-------------|
+| Original | Regular cigarettes |
+| Subsidiary | Electronic cigarettes |
+| Ruling of Original | Prohibition or severe dislike (harmful) |
+| Cause | Harm to health |
+
+**Answer**: ✅ They take the ruling of regular cigarettes — prohibited or severely disliked.
+
+---
+
+### Case 2: Ruling on Cryptocurrencies (Bitcoin)
+
+**Question**: Is Bitcoin lawful money that can be traded?
+
+**Qiyas Analysis**:
+- Is it analogous to gold and silver? (Riba applies)
+- Is it analogous to paper currencies? (Customary prices)
+- Is it analogous to commodities? (Disparity permitted)
+
+**Answer**: ⚠️ **Contemporary disagreement** — Most hold they are like currencies, so riba of delay applies.
+
+---
+
+### Case 3: Ruling on Organ Transplants
+
+**Question**: Is it permissible to donate a kidney to save a patient?
+
+**Qiyas Analysis**:
+| Pillar | Application |
+|--------|-------------|
+| Original | Saving a drowning person |
+| Subsidiary | Donating a kidney |
+| Ruling of Original | Obligatory |
+| Cause | Saving a life |
+
+**Answer**: ✅ **Permissible with conditions** according to most contemporary scholars.
+
+---
+
+## 💡 Pause and Reflect
+
+**Practical Exercise**: 
+
+Apply qiyas yourself: What is the ruling on **video games that contain gambling** (like loot boxes)?
+
+Try to identify:
+1. The original case
+2. The common cause
+3. The ruling
+
+**Answer**: By analogy to maysir (gambling) — **prohibited** because it involves paying money to obtain something unknown.
+
 ## Conclusion
 
 Qiyas is a foundation of Islamic legislation that enables the mujtahid to link new issues to textually established ones. It is proof of the flexibility of Islamic Sharia and its suitability for every time and place.
+
+---
+
+*Rabbi zidni 'ilma (Lord, increase me in knowledge)*
 `;

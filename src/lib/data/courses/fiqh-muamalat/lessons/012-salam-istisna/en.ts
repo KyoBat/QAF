@@ -215,6 +215,105 @@ People have practiced it in all eras without objection.
 
 ---
 
+## 📖 Stories from the Salaf
+
+### The Blessed Salam
+
+Imam Ahmad narrated in his Musnad that **Abdullah ibn Abbas رضي الله عنهما** used to say:
+
+> "The Prophet ﷺ came to Madinah while people were making salam on fruits for one, two, and three years, so the Prophet ﷺ organized this transaction for them and did not prohibit it."
+
+Ibn Abbas said: **"I testify that the guaranteed salam for a specified term, Allah has made it lawful in His Book and permitted it."** Then he recited: ﴿O you who believe, when you contract a debt for a specified term, write it down﴾.
+
+**The lesson:** The Salaf used salam to finance agriculture and industry, demonstrating the flexibility of Shariah in meeting people's legitimate needs while regulating transactions with proper conditions.
+
+---
+
+### Imam Abu Hanifa's Wisdom on Istisna'
+
+**Imam Abu Hanifa رحمه الله** used to give fatwa permitting istisna' and said:
+
+> "People have been practicing it from the time of the Prophet ﷺ until today without objection, so this constitutes consensus."
+
+The people of Kufa would order the manufacture of swords, armor, and shoes from craftsmen, paying them in advance or later, and no scholar objected to them.
+
+---
+
+## 🎯 Contemporary Cases
+
+### Case One: Pre-order for Phones
+
+**Question:** Apple announced a new iPhone and opened pre-orders. Is it permissible to pay the full amount now and receive it after two months?
+
+**Answer:** ✅ **Permissible** if salam conditions are met:
+- Precise specification of features (type, capacity, color)
+- Specified delivery date
+- Price received in the session or shortly after
+- The sold item is described in liability, not specified
+
+---
+
+### Case Two: Crowdfunding for a Project
+
+**Question:** Kickstarter features a project to manufacture a smartwatch. Buyers pay now and the product is manufactured and delivered after 8 months. What is the ruling?
+
+**Answer:** ✅ **Permissible** in the form of istisna' if:
+- Product specifications are precisely defined
+- The manufacturer commits to the delivery date
+- The manufacturer bears manufacturing risks
+
+⚠️ **Note:** If the project fails and nothing is produced, money is returned to buyers.
+
+---
+
+### Case Three: Buying an Off-plan Apartment
+
+**Question:** A real estate company sells apartments to be built over two years. What is the Shariah-compliant way to contract?
+
+**Answer:** ✅ **Permissible** in the form of istisna':
+- Specifying specifications with plans and drawings
+- Defining construction stages and delivery
+- Staged payments are permitted
+- Guarantee is on the developer until delivery
+
+---
+
+### Case Four: Pre-booking Crops
+
+**Question:** A trader wants to buy a wheat crop from a farmer six months before harvest. How can the contract be valid?
+
+**Answer:** ✅ **Permissible** in the form of salam:
+- Pay the full price at contract
+- Specify quantity: 100 tons for example
+- Specify type and quality: Egyptian wheat, first grade
+- Specify delivery date: after harvest in such month
+- Specify delivery location
+
+---
+
+### Case Five: Custom Furniture Manufacturing
+
+**Question:** I asked a carpenter to make a bedroom with a special design. We agreed on the price and delivery in one month. Is it permissible to pay half the amount upfront?
+
+**Answer:** ✅ **Permissible** because in istisna':
+- Advancing all the price is permitted
+- Deferring all of it is permitted
+- Paying in installments is permitted
+
+---
+
+## 💡 Pause and Reflect
+
+> **Question for reflection:**
+>
+> In our time, crowdfunding platforms have spread, financing projects that don't exist yet.
+>
+> - How can we benefit from the fiqh of the Salaf in regulating these transactions?
+> - What is the difference between legitimate investment and gambling in these platforms?
+> - Does having clear conditions and guarantees transform the transaction from gharar to permissibility?
+
+---
+
 ## Lesson Summary
 
 | Contract | Definition | Price Condition | Term Condition |

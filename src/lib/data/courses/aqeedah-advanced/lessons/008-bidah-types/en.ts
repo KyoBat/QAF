@@ -110,6 +110,93 @@ const content = `
 
 ---
 
+## 📖 Stories from the Salaf: Ibn Mas'ûd and Group Dhikr
+
+'Abdullâh ibn Mas'ûd رضي الله عنه entered the mosque and found people sitting in circles, each one holding pebbles, and a man saying: "Say SubhânAllah one hundred times, say Allâhu Akbar one hundred times, say Lâ ilâha illa Allâh one hundred times."
+
+Ibn Mas'ûd said: **"What is this I see you doing?"**
+
+They said: O Abû 'Abd ar-Rahmân, pebbles by which we count the takbîr, tahlîl, and tasbîh.
+
+He said: **"Then count your sins, for I guarantee that none of your good deeds will be lost! Woe to you, O Ummah of Muhammad! How quickly you rush to destruction! These are his Companions ﷺ still abundant, these are his clothes not yet worn out, and his vessels not yet broken. By Him in Whose Hand is my soul, you are either upon a way more guided than Muhammad's way, or you are opening a door of misguidance!"**
+
+They said: By Allah, O Abû 'Abd ar-Rahmân, we only intended good!
+
+He said: **"How many who intend good never achieve it."**
+
+**Lesson learned**: Good intention doesn't validate an act if it's not upon the Prophet's ﷺ guidance.
+
+---
+
+## 🎯 Contemporary Cases
+
+### Case 1: Praying Tarâwîh Behind the TV
+
+**Sa'îd** can't go to the mosque, so he prays at home behind the imam he watches on TV.
+
+**Question**: Is this permissible?
+
+**Answer**:
+- ❌ **Praying behind the TV is invalid** — due to discontinuity of rows
+- ✅ **Alternative**: Pray alone or with his family
+- ⚠️ This isn't innovation, but a juristic error
+
+---
+
+### Case 2: Group Supplication After Every Prayer
+
+**In the local mosque**, after every prayer the mu'adhdhin raises his hands and says: "O Allah..." and the worshippers say Âmîn.
+
+**Question**: Is this Sunnah or innovation?
+
+**Answer**:
+- ❌ **Constant group supplication after every prayer = innovation**
+- ✅ **The Sunnah**: Individual dhikr after prayer
+- ✅ **What's permissible**: Group supplication sometimes for a reason (seeking rain, calamity)
+
+---
+
+### Case 3: Reciting Al-Fâtihah for the Deceased
+
+**At condolences**, people gather to recite Al-Fâtihah for the deceased's soul.
+
+**Question**: What's the ruling?
+
+**Answer**:
+- ⚠️ **Reciting Quran for the deceased**: Scholars differed about it
+- ❌ **Gathering for it in this manner**: The Salaf didn't do it
+- ✅ **Better**: Supplicating for the deceased and giving charity on their behalf
+
+---
+
+### Case 4: The Night of Mid-Sha'bân
+
+**Village people** gather on the night of mid-Sha'bân for prayer, supplication, and group dhikr.
+
+**Question**: What's the ruling?
+
+**Answer**:
+- ✅ **Praying the night individually**: Recommended every night
+- ❌ **Specifying mid-Sha'bân night with gathering**: Innovation
+- ⚠️ The hadiths about its virtue are weak or fabricated
+
+---
+
+## 💡 Pause and Reflect
+
+**Personal question**: 
+
+How can you distinguish between Sunnah and innovation in acts of worship?
+
+**The criterion**:
+1. Is there evidence from Quran, Sunnah, or the Companions' practice?
+2. Did the Salaf do it this way?
+3. Is it worship or means?
+
+Remember: The safest path is following the Prophet ﷺ and his Companions. They practiced the best, most complete religion.
+
+---
+
 ## ❓ Frequently Asked Questions
 
 ### Q1: What's the difference between innovation and good Sunnah?

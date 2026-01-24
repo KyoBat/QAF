@@ -274,6 +274,138 @@ Permissible considering:
 
 ---
 
+## 📖 Stories from the Salaf
+
+### The Pledging of the Prophet's Armor ﷺ
+
+**Aisha رضي الله عنها** narrated:
+
+> "The Messenger of Allah ﷺ died while his armor was pledged with a Jew for thirty sa' of barley."
+
+**Reported by al-Bukhari and Muslim**
+
+Imam **Ibn Hajar al-Asqalani** رحمه الله commented:
+
+> "The hadith shows the permissibility of dealing with non-Muslims in what is not specifically forbidden, and the permissibility of pledging war equipment to a non-Muslim, and that this is not considered the prohibited alliance."
+
+**The lesson:**
+- The humility of the Prophet ﷺ and his asceticism in this world
+- Permissibility of pledge for necessity, even with a non-Muslim
+- That loans are legitimate even from the rich to the poor
+
+---
+
+### Abu Bakr al-Siddiq's Loan رضي الله عنه
+
+When the Prophet ﷺ migrated with **Abu Bakr al-Siddiq رضي الله عنه**, Abu Bakr bought two riding camels for the journey.
+
+The Prophet ﷺ said: "**With its price.**"
+
+Meaning: I will only accept it with its price.
+
+**The lesson:** The Prophet ﷺ wanted the loan to be clear and not mixed with gift, and this is from the perfection of clarity in financial dealings.
+
+---
+
+### The Excellent Repayment of Abdullah ibn Umar
+
+**Abdullah ibn Umar رضي الله عنهما** would, whenever he borrowed money from someone, return it better than what he took.
+
+When asked about this, he said:
+
+> "I heard the Prophet ﷺ say: The best of you are those who are best in repaying."
+
+**The lesson:** Surplus at repayment without stipulation is from noble character and is not usury.
+
+---
+
+## 🎯 Contemporary Cases
+
+### Case One: Interest-free Loan for Marriage
+
+**Question:** My brother wants to get married but cannot afford it. I want to lend him 50,000 riyals to be repaid after two years. Is this permissible?
+
+**Answer:** ✅ **Permissible and recommended** and among the best acts of worship:
+- Lending to the needy is recommended
+- Helping a brother get married is charity
+- No profit or surplus is required
+
+⚠️ **Warning:** Do not stipulate any surplus, and do not accept a gift from him because of the loan.
+
+---
+
+### Case Two: Pledging a Car for a Loan
+
+**Question:** My friend wants a loan of 30,000 riyals. I asked him to pledge his car until he pays. Is it permissible for me to drive the car?
+
+**Answer:** ❌ **Not permissible** to drive the pledged car:
+- The pledge is a trust with you
+- Benefiting from the pledge = loan generating benefit = usury
+- Exception: animals may be ridden and milked in exchange for their expenses only
+
+✅ **Alternative:** If the borrower permits you to drive it while you pay for fuel and maintenance, this is permissible outside the pledge contract.
+
+---
+
+### Case Three: Islamic Real Estate Financing
+
+**Question:** The Islamic bank finances buying a house through murabaha, and the house remains pledged until full payment. What is the difference between it and usurious loan?
+
+**Answer:**
+
+| Islamic Financing | Usurious Loan |
+|-------------------|---------------|
+| Bank buys the house then sells to you | Bank lends you money |
+| Price is fixed, doesn't increase with delay | Interest increases with delay |
+| House is pledged as guarantee | House is pledged as guarantee |
+| Profit is known from the beginning | Interest may change |
+
+✅ **Lawful:** Murabaha and lease-to-own
+❌ **Forbidden:** Interest-bearing loan
+
+---
+
+### Case Four: Pledging Gold at a Jewelry Shop
+
+**Question:** I need urgent liquidity. Is it permissible to pledge my gold at a jeweler in exchange for money?
+
+**Answer:** ✅ **Permissible** with conditions:
+1. Determining the gold's value at the time of pledge
+2. Determining the pledge duration and loan amount
+3. No surplus stipulated at repayment
+4. If unable to repay: the gold is sold at market price and excess returned to the owner
+
+⚠️ **Beware:** Some jewelry shops take "storage fees" which are in reality usurious interest!
+
+---
+
+### Case Five: Loan from a Financial App
+
+**Question:** A mobile app offers instant loans. It lends me 1000 riyals and I return 1100 after a month. What is the ruling?
+
+**Answer:** ❌ **Absolutely prohibited**:
+- This is explicit usury
+- The stipulated surplus = delay usury
+- No difference between 10% or 1%, all is usury
+
+✅ **Alternative:** Interest-free loan from family and friends, or charitable organizations, or interest-free loan funds.
+
+---
+
+## 💡 Pause and Reflect
+
+> **Question for reflection:**
+>
+> The Prophet ﷺ died while his armor was pledged, although he could have done without borrowing.
+>
+> - What do we learn from his humility ﷺ in financial dealings?
+> - How do we balance between self-sufficiency and dealing with people properly?
+> - Does the interest-free loan in our time fulfill its role as it did in the time of the Salaf?
+>
+> **Reflect:** "Whoever relieves a believer of a hardship from the hardships of this world, Allah will relieve him of a hardship from the hardships of the Day of Resurrection."
+
+---
+
 ## Lesson Summary
 
 | Element | Loan | Pledge |

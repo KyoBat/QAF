@@ -153,6 +153,117 @@ The female custodian is entitled to wages taken from the child's wealth or paid 
 
 ---
 
+## 📖 Stories from the Seerah: The Prophet's ﷺ Ruling on Custody
+
+A woman came to the Messenger of Allah ﷺ and said: **"O Messenger of Allah, my womb was a vessel for this son of mine, my breast was his drink, and my lap was his shelter. His father has divorced me and wants to take him from me."**
+
+The Prophet ﷺ said: **"You have more right to him as long as you do not remarry."**
+
+**The lesson:**
+- The Prophet ﷺ considered the child's welfare first
+- The mother is more merciful and tender with the young child
+- But the right falls if circumstances change (marriage)
+
+---
+
+## 📖 From History: Giving the Child a Choice
+
+It is reported that the Prophet ﷺ gave a boy the choice between his father and mother, and he chose his mother, so the Prophet ﷺ made supplication for the child.
+
+In another narration: The child first went with his father, then changed his mind and went to his mother.
+
+**The benefit:** When the child reaches discernment, his choice is considered because he will live with whomever he chooses.
+
+---
+
+## 🎯 Contemporary Cases: What is the Ruling?
+
+### Case 1: Non-Muslim Mother
+
+**Khalid** is a Muslim who married a Christian woman then divorced her. They have a 4-year-old child.
+
+**Question:** Who has more right to custody?
+
+**Answer:**
+- ⚠️ **Scholarly disagreement:**
+  - The majority: No custody for a non-Muslim over a Muslim
+  - Some Malikis: Permissible as long as there is no fear for the child's religion
+- ✅ **The preponderant view:** The judge considers the welfare while protecting the child's religion
+
+---
+
+### Case 2: Mother Works All Day
+
+**Fatima** is a divorced mother who works from 8 AM to 8 PM and leaves her child with a nanny.
+
+**Question:** Does she lose custody?
+
+**Answer:**
+- ⚠️ **Welfare is considered:**
+  - If the child is neglected: custody may transfer
+  - If care is provided: custody does not fall
+- ✅ **The criterion:** Is the child receiving adequate care?
+
+---
+
+### Case 3: Father Travels for Work
+
+**Ahmad** works in another country, and his wife (now divorced) wants to travel with the children to a third country.
+
+**Question:** Who has the right to take the children?
+
+**Answer:**
+- ⚠️ **Rule:** Traveling with the child requires both parties' agreement or a judge's ruling
+- ❌ Neither party has the right to travel with the children without permission
+- ✅ **Solution:** Resort to the court to determine welfare
+
+---
+
+### Case 4: Father Does Not Pay Maintenance
+
+**Hind** has custody of her children, and their father has refused to pay maintenance for a year.
+
+**Question:** Does the father have the right to see his children?
+
+**Answer:**
+- ✅ **Visitation rights do not fall** due to non-payment of maintenance
+- ✅ **Maintenance is a debt** to be claimed judicially
+- ❌ **It is not permissible** to prevent the father from seeing his children as revenge
+
+---
+
+### Case 5: Child Wants to Live with Father
+
+**Yusuf** is 10 years old, his mother has custody, but he wants to live with his father.
+
+**Question:** Is he given a choice?
+
+**Answer:**
+- ✅ **Yes, he is given a choice** according to the majority of scholars (Shafi'is and Hanbalis)
+- ⚠️ **Condition:** He must be discerning (7 years and above)
+- ✅ **The judge** may intervene if the choice is harmful
+
+---
+
+## 💡 Pause and Reflect
+
+**Question for reflection:**
+
+You are a divorced father, your children are with their mother (your ex-wife).
+
+**How do you behave?**
+
+Remember:
+- 🔴 Children are not weapons for revenge
+- 🔴 Do not speak ill of the mother in front of them
+- ✅ Maintain your relationship with them
+- ✅ Pay maintenance without delay
+- ✅ Make your meetings with them happy, not tense
+
+> The Prophet ﷺ said: **"It is sufficient sin for a person to neglect those he is supposed to feed"** [Ahmad]
+
+---
+
 ## Summary
 
 | Topic | Ruling |
@@ -162,4 +273,8 @@ The female custodian is entitled to wages taken from the child's wealth or paid 
 | Duration of custody | Until 7 years then choice |
 | Loss of custody | By remarriage, immorality, or travel |
 | Maintenance | Father's responsibility in all cases |
+
+---
+
+*Rabbi Zidni 'Ilma*
 `;

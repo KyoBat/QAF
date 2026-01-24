@@ -128,6 +128,79 @@ If a woman in 'iddah marries another man:
 ### 3. Doubt about 'Iddah completion
 One bases judgment on certainty: the 'iddah continues until its completion is confirmed.
 
+## 📖 Stories from the Salaf
+
+### Subay'a Al-Aslamiyya and the Pregnant Woman's 'Iddah
+
+Subay'a bint al-Harith (may Allah be pleased with her) was married to Sa'd ibn Khawla, who died during the Farewell Pilgrimage while she was pregnant.
+
+She delivered only a few nights after his death. When she recovered from her postnatal bleeding (became pure), she adorned herself for suitors.
+
+Abu al-Sanabil ibn Ba'kak entered upon her and said: **"Why do I see you adorned? Perhaps you hope for marriage! By Allah, you cannot marry until four months and ten days have passed over you."**
+
+Subay'a said: When he said this to me, I gathered my clothes that evening and went to the Messenger of Allah ﷺ and asked him about it. **He gave me a ruling that I was lawful (for marriage) when I delivered, and he commanded me to marry if I wished.**
+
+**The lesson:** The pregnant woman's 'iddah ends at delivery, whether in divorce or death, even if moments after the death. This is from Allah's mercy upon women, so she need not wait months when she has already delivered.
+
+---
+
+## 🎯 Contemporary Cases
+
+### Case One: Traveling During 'Iddah
+
+**Question:** I was divorced irrevocably, and I need to travel to another country to complete my studies. May I leave the marital home and travel?
+
+**Answer:** For the irrevocably divorced non-pregnant woman, scholars differ on whether she must remain in the marital home. The preponderant view is that she has the right to housing but is not obligated to stay. She may move for necessity like studies, while observing the rules of 'iddah.
+
+---
+
+### Case Two: Working During the Mourning 'Iddah
+
+**Question:** My husband died and I am an employee. I cannot leave work because I am the sole provider for my children. May I go out for work?
+
+**Answer:** The mourning woman may go out during the day for necessity and work, provided she sleeps in her home at night. If her work is at night, then necessity is considered in her case. It is better to request leave if possible.
+
+---
+
+### Case Three: Proposal During 'Iddah
+
+**Question:** I am in the mourning 'iddah, and a righteous man has come forward wanting to marry me. May he hint at a proposal or agree on marriage?
+
+**Answer:** Indirect hints at proposal are permissible, but not explicit statements. Allah says: **﴾There is no sin on you for what you hint at in proposing to women﴿**. Such as saying: "You are worthy of marriage" or "Someone like you is desirable." But explicit proposal or contract is forbidden until the 'iddah ends.
+
+---
+
+### Case Four: The Divorced Woman Whose Menstruation Stopped for Medical Reasons
+
+**Question:** I developed an illness that stopped my menstruation, then I was divorced. How do I calculate my 'iddah?
+
+**Answer:** For one whose menstruation stopped due to a known cause (like breastfeeding or illness), she waits for the cause to end then observes 'iddah by menstruation. If there is no hope for menstruation returning, her 'iddah is a full year according to some scholars (nine months for pregnancy and three for 'iddah), and others say three months like the menopausal woman.
+
+---
+
+### Case Five: Attending Condolences During 'Iddah
+
+**Question:** My father died while I am in the mourning 'iddah for my husband. May I go out to attend his funeral and offer condolences?
+
+**Answer:** Going out for necessity during the day is permissible, provided she sleeps in her home at night. Attending the father's funeral and offering condolences is among the necessities that permit going out. Go out, and return to sleep in your home.
+
+---
+
+## 💡 Pause and Reflect
+
+**Question for reflection:**
+
+The 'iddah is not merely waiting; it is a wise transitional period. Reflect on these wisdoms:
+
+1. **Clearing the womb:** Why did the Legislator set this sufficient time to confirm pregnancy?
+2. **Opportunity for reconciliation:** How many couples regretted divorce, and the 'iddah was a chance to return?
+3. **Honoring the relationship:** In the mourning 'iddah, why specifically four months and ten days?
+4. **Worship:** Have you felt that 'iddah is worship of Allah before being a waiting period?
+
+The 'iddah is a station for reflection and renewal, not a prison for women.
+
+---
+
 ## Conclusion
 
 The 'iddah is a right of Allah and a right of the spouses. It was prescribed for great wisdoms, primarily preserving lineage and allowing opportunity for reconciliation. Its duration varies according to the woman's situation, and she must observe its rules regarding housing and mourning when obligatory.

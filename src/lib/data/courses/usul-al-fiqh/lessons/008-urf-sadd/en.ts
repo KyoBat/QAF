@@ -200,6 +200,82 @@ Just as means are blocked, they are also opened:
 2. **Balance between interests and harms**: If the interest is greater, it's not prohibited
 3. **Avoid exaggeration**: So as not to prohibit permissible things
 
+---
+
+## 📖 Stories from the Salaf
+
+### Ibn Abbas and Custom in Dowries
+
+A man came to Abdullah ibn Abbas (may Allah be pleased with him) asking about his wife's dowry. The man said: "I married her without specifying a dowry, so what is required of me?"
+
+Ibn Abbas asked him: **"What is the dowry of similar women from your people?"**
+
+The man replied: "Such and such amount."
+
+Ibn Abbas said: **"She gets the dowry of her peers—no less and no more."**
+
+**The Lesson**: Ibn Abbas referred to custom to determine the equivalent dowry, showing that the Companions considered custom in rulings related to transactions and social relationships.
+
+---
+
+### Umar ibn al-Khattab and Blocking the Means to Shirk
+
+Umar ibn al-Khattab (may Allah be pleased with him) saw people seeking blessings from the tree under which the Companions pledged allegiance to the Prophet ﷺ at the Pledge of Ridwan. He ordered it cut down, saying:
+
+**"What destroyed the Children of Israel was that they followed the traces of their prophets and made them into churches and monasteries."**
+
+**The Lesson**: Umar cut down the blessed tree to block the means to shirk, even though seeking blessings from it was not prohibited in itself. However, he feared that the matter would evolve into worshiping the tree, so he blocked the means before it led to corruption.
+
+---
+
+## 🎯 Contemporary Cases
+
+### Case One (Custom): Currencies of Different Countries
+
+**Question**: If a price is stated in a contract without specifying the currency, what currency is considered?
+
+**Answer**: Reference is made to the custom of the country. If the contract is in Saudi Arabia, the price is in riyals. If in Egypt, the price is in pounds. The maxim is: **"What is known by custom is like what is stipulated."**
+
+---
+
+### Case Two (Custom): Changing Concept of Defects in Goods
+
+**Question**: In the past, custom held that a small scratch on a car was not a defect, but today's custom has changed. What is the ruling?
+
+**Answer**: The ruling changes with the change in custom. The maxim is: **"The change of rulings by the change of times is not denied."** What is considered a defect by modern custom is treated as a defect giving the right to rescission, even if it was not so previously.
+
+---
+
+### Case Three (Blocking Means): Being Alone in the Workplace
+
+**Question**: What is the ruling on a man being alone with a woman in the office?
+
+**Answer**: Being alone with a non-mahram woman is prohibited to block the means to temptation. It is recommended that the office door be open or made of glass, or that a third person be present, to prevent what such seclusion may lead to.
+
+---
+
+### Case Four (Blocking Means): Selling Chemical Materials
+
+**Question**: What is the ruling on selling chemical materials that may be used to manufacture drugs?
+
+**Answer**: If the seller has reasonable grounds to believe that the buyer will use them for unlawful purposes, the sale is prohibited to block the means of assisting in the forbidden. This is similar to selling weapons during strife.
+
+---
+
+### Case Five (Custom and Blocking Means): Gifts to Employees
+
+**Question**: What is the ruling on a public employee accepting gifts from clients?
+
+**Answer**: The origin of gifts is permissibility, but for a public employee, they may become a means to bribery and favoritism. The Prophet ﷺ said: **"Gifts to officials are embezzlement."** They are therefore prohibited to block the means, even though originally permissible.
+
+---
+
+## 💡 Pause and Reflect
+
+> Custom changes with place and time, and rulings based on it change accordingly. Think of three customs that have changed in your society over the past decades. How has that change affected the legal rulings related to them? Does every change in custom necessarily require a change in ruling?
+
+---
+
 ## Conclusion
 
 'Urf and Sadd al-Dhara'i are two important evidences that take into account people's reality and the consequences of actions, enabling the jurist to reach rulings that achieve the objectives of Sharia in bringing benefits and repelling harms.

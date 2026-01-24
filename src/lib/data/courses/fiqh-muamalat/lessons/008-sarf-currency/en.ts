@@ -207,4 +207,88 @@ Buying merchandise in dollars and paying the price in riyals
 
 ---
 
+## 📖 Stories from the Salaf: The Precision of the Companions in Currency Exchange
+
+It is narrated that a man came to 'Abdullah ibn 'Umar رضي الله عنهما in the market and said:
+
+**"O Abu 'Abd ar-Rahman, I sell camels at al-Baqi'. I sell for dinars and take dirhams, and I sell for dirhams and take dinars!"**
+
+Ibn 'Umar رضي الله عنه said:
+
+> **"No problem taking them at the day's price, as long as you do not separate with something remaining between you."**
+
+Then the man went to the Prophet ﷺ and asked him, and he answered him the same as Ibn 'Umar said.
+
+The Companions رضي الله عنهم were keen on:
+- **Immediate exchange** — they would not separate except after the exchange was complete
+- **The day's price** — they would not defer the exchange at an old price
+- **Complete clarity** — no ambiguity in the amounts
+
+---
+
+## 🎯 Contemporary Cases
+
+### Case 1: Traditional Money Exchange
+
+**Question:** I went to a money exchange office to convert 1000 dollars to riyals. The employee gave me the riyals immediately and took the dollars. Is this permitted?
+
+**Answer:** ✅ **Permitted** — this is valid exchange because immediate exchange occurred in the session. Both compensations were delivered before separation.
+
+---
+
+### Case 2: International Bank Transfer
+
+**Question:** I want to transfer an amount to my family in another country. The bank takes the amount in riyals and deposits it in their account in local currency. Is this permitted?
+
+**Answer:** ✅ **Permitted** — if the amount is deposited in the recipient's account immediately or on the same business day. Constructive receipt (money entering the account) takes the place of actual receipt.
+
+---
+
+### Case 3: Buying Cryptocurrencies
+
+**Question:** I bought Bitcoin through a trading platform, paid in riyals and received the Bitcoin in my digital wallet immediately. Is this permitted?
+
+**Answer:** ⚠️ **There is disagreement** — if cryptocurrencies are considered money, then immediate exchange is required (which is achieved here). But the ruling on cryptocurrencies themselves is disputed among contemporary scholars.
+
+---
+
+### Case 4: Forex (Currency Trading)
+
+**Question:** I opened an account on a Forex platform for currency trading. I buy and sell and make profits. Is this lawful?
+
+**Answer:** ❌ **Generally prohibited** — for several reasons:
+- **No immediate exchange:** transactions are mostly deferred
+- **Leverage:** a disguised usurious loan
+- **Rollover fees:** explicit usury
+
+The alternative: If an Islamic platform exists without leverage or interest with real immediate exchange, it may be permitted.
+
+---
+
+### Case 5: Money Transfer (Western Union)
+
+**Question:** I sent money through Western Union. The sender pays in dollars and the recipient collects in their country's currency days later. Is this permitted?
+
+**Answer:** ✅ **Permitted** — this is a transfer (hawala), not exchange. Transfer is moving a debt from one responsibility to another, which is legally permitted. The exchange occurs at collection at the day's rate.
+
+---
+
+## 💡 Pause and Reflect
+
+> **"Hand to hand"** — The Prophet ﷺ
+
+This simple prophetic phrase carries a great principle in protecting the economy from manipulation and speculative bubbles.
+
+Reflect:
+
+🔹 How many global economic crises were caused by dealing in debts and forward contracts without real exchange?
+
+🔹 When transferring your money, do you ensure the recipient receives the amount immediately?
+
+🔹 If the world adhered to the rule of "hand to hand" in financial transactions, what would the global economy look like?
+
+**Remember:** The Shariah protects wealth from loss and uncertainty before it protects profits.
+
+---
+
 *My Lord, increase me in knowledge*`;

@@ -162,4 +162,63 @@ The only pillar according to them is the formula; the rest are conditions.
 
 ---
 
+## 📖 Stories from the Salaf: The Honesty of al-Hasan al-Basri in Sales
+
+It is narrated that al-Hasan al-Basri رحمه الله wanted to sell a donkey he owned, and a man came wanting to buy it.
+
+Al-Hasan asked him: **"Do you want it for carrying loads or for riding?"**
+
+The man said: For riding.
+
+Al-Hasan said: **"Then it is not suitable for you, for it is good for carrying loads but not for riding—its back is weak."**
+
+The man was amazed at his honesty and trustworthiness, and said: I have never seen a seller more truthful than you!
+
+Al-Hasan said: **"Woe to you! Do you think I would hide a defect in my merchandise from you? This is not what a Muslim does."**
+
+**The lesson:** Truthfulness in disclosure is the foundation of Islamic trade, and it is the cause of blessing, as the Prophet ﷺ said: "If they are truthful and transparent, their sale will be blessed."
+
+---
+
+## 🎯 Contemporary Cases: Applied Sale Rulings
+
+### Case 1: Sale by Exchange in a Store
+**Question**: Samir took a product from the shelf and put its price in the self-checkout without speaking to anyone. Is this sale valid?
+
+**Answer**: ✅ Yes, this is sale by mutual exchange (mu'atah), which is permitted according to the majority of scholars because custom has established it and the pillars of sale—consent and delivery—are achieved.
+
+### Case 2: Online Shopping
+**Question**: Fatima bought a dress from a website based on pictures and description. Upon receipt, she found it different. What are her rights?
+
+**Answer**: ✅ She has the right of cancellation because the merchandise did not match the description. This is from the option of viewing or the option of defect. The seller must describe the merchandise precisely to prevent uncertainty.
+
+### Case 3: Swearing to Promote Merchandise
+**Question**: A merchant falsely swears that this merchandise is the best or that he bought it at a higher price, to attract the buyer. What is the ruling?
+
+**Answer**: ❌ This is severely prohibited; it is the false oath that plunges its taker into the Fire. The Prophet ﷺ said: "The oath makes the merchandise sell but erases the blessing."
+
+### Case 4: Murabahah in Banks
+**Question**: A bank buys a car then sells it to the customer with an additional markup in installments. Is this usury?
+
+**Answer**: ✅ If the bank truly owns the merchandise then sells it at a known deferred price, this is the permissible murabahah sale. What is prohibited is nominal ownership or selling what one has not possessed.
+
+### Case 5: Pricing Products
+**Question**: Is it permissible for the government to set prices on essential goods to protect consumers?
+
+**Answer**: ✅ Pricing is permitted when needed to remove harm from people, especially in monopoly situations. Scholars have differed, but the preponderant view is its permissibility for the public interest.
+
+---
+
+## 💡 Pause and Reflect
+
+**Question for reflection**: Imagine you are selling merchandise with a hidden defect that the buyer doesn't know about and won't discover. Would you tell them? Why?
+
+**Remember:**
+- Allah sees you when people don't
+- "The truthful, trustworthy merchant will be with the prophets, the truthful, and the martyrs"
+- Blessing is in truthfulness, not in abundance of wealth
+- "Whoever cheats us is not one of us"
+
+---
+
 *My Lord, increase me in knowledge*`;

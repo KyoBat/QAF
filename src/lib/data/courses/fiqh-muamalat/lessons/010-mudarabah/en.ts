@@ -214,6 +214,105 @@ Companies that gather investor funds and invest them in commercial projects.
 
 ---
 
+## 📖 Stories from the Salaf
+
+### The Mudarabah of Al-Abbas ibn Abd al-Muttalib
+
+Al-Abbas ibn Abd al-Muttalib رضي الله عنه — the Prophet's uncle ﷺ — was among the wealthiest of Quraysh and most knowledgeable in trade. When giving his money in mudarabah, he would stipulate precise conditions to protect the capital:
+
+1. **"Not to cross the sea with it"** — protection from drowning risks
+2. **"Not to descend into a valley with it"** — protection from flood risks
+3. **"Not to buy livestock with it"** — animals that might perish
+
+He said: **"If he does that, he is liable."**
+
+His condition reached the Messenger of Allah ﷺ **who approved it**.
+
+**Lessons learned:**
+- ✅ It is permissible to restrict mudarabah to protect capital
+- ✅ The worker is liable if they violate the conditions
+- ✅ Conditions must be reasonable and understandable
+
+---
+
+## 🎯 Contemporary Cases
+
+### Case One: Investing in an Islamic Fund
+
+**Question:** I placed 100,000 riyals in an Islamic investment fund. The fund takes 2% annual management fees + 20% of profits. After a year, the fund lost 10%. Who bears the loss?
+
+**Answer:** ✅ **You bear the loss in capital** — because you are the capital owner. However:
+- Management fees (2%) are due because they are wages for work
+- The 20% of profits is not due because there is no profit
+- If the fund guarantees capital, this violates Shariah
+
+---
+
+### Case Two: Funding a Friend's Project
+
+**Question:** My friend has an excellent project idea but has no money. I want to fund him with 50,000 riyals on condition that we share profits equally. Is this permissible?
+
+**Answer:** ✅ **Permissible** — this is a valid mudarabah. But note:
+- ❌ Do not stipulate guarantee of capital
+- ❌ Do not stipulate a fixed profit (like 10% annually)
+- ✅ Stipulate a percentage of profit (like 50%)
+- ✅ Document the agreement in writing
+
+---
+
+### Case Three: Investment Deposit in an Islamic Bank
+
+**Question:** The Islamic bank offers an "investment deposit" with expected return of 5% annually. What is the difference between it and usurious bank interest?
+
+**Answer:**
+- **Islamic bank:** 5% is expected, not guaranteed; it may increase, decrease, or lose
+- **Usurious bank:** 5% is guaranteed regardless of what happens
+
+⚠️ **Warning:** If the Islamic bank guarantees the return, this is disguised usury!
+
+---
+
+### Case Four: Crowdfunding Platforms
+
+**Question:** An online platform gathers investor funds and finances small projects. It gives investors a fixed 12% annually. Is this halal?
+
+**Answer:** ❌ **Prohibited** — a fixed guaranteed return = usury. Legitimate mudarabah requires:
+- A percentage of profit, not a fixed amount
+- Possibility of loss
+- Transparency in the financed projects
+
+---
+
+### Case Five: Real Estate Investment
+
+**Question:** I gave someone one million riyals to buy property and rent it out. We agreed that the rent goes to me and the property belongs to him at the end. Is this valid?
+
+**Answer:** ⚠️ **This is not a valid mudarabah** — because:
+- Mudarabah is in trade (buying and selling), not in renting
+- Agreeing that the property belongs to him = guarantee of capital
+
+**The correct alternative:** Partnership in the property, rent is divided according to shares, and when sold, the price is divided.
+
+---
+
+## 💡 Pause and Reflect
+
+> **"Profit accompanies liability"** — A juristic maxim
+
+Meaning: whoever wants profit must bear the possibility of loss.
+
+Reflect on your investments:
+
+🔹 Are you looking for "a guaranteed investment with fixed return"? If you find it, know that it is likely disguised usury.
+
+🔹 Real investment involves risk. Are you ready to bear potential loss?
+
+🔹 When you give your money to someone to invest, do you document the agreement? Do you follow the investment's performance?
+
+**Remember:** Halal money may decrease but is blessed, and haram money may increase but is devoid of blessing.
+
+---
+
 ## Lesson Summary
 
 | Element | Rule |

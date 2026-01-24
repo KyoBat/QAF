@@ -104,6 +104,79 @@ The Salaf unanimously agreed that faith is statement and action
 - The separation between religion and behavior
 - Justifying shortcomings in worship
 
+---
+
+## 📖 Stories from the Salaf: Al-Hasan al-Basri and Faith
+
+A man came to al-Hasan al-Basri رحمه الله and said: *"O Abu Sa'id, are you a believer?"*
+
+Al-Hasan said: *"Faith is of two kinds: If you ask me about faith in Allah, His angels, His books, His messengers, the Last Day, Paradise, Hell, resurrection and reckoning, then I am a believer. But if you ask me about the verse: {The believers are only those whose hearts tremble when Allah is mentioned}, then by Allah, I do not know if I am among them or not!"*
+
+He used to say: *"Faith is not by wishful thinking nor by adornment, but what settles in the heart and is confirmed by actions."*
+
+**Lesson learned**: True faith cannot be an empty claim; it must manifest in action. Balance between fear and hope is required.
+
+---
+
+## 🎯 Contemporary Cases: Manifestations of Murji'ism
+
+### Case 1: "What Matters is What's in the Heart"
+A person doesn't pray or fast, and when advised says: *"Allah knows what's in my heart, I'm a believer inside!"*
+
+**Question**: Is what's in the heart sufficient without action?
+
+**Answer**: ❌ No. This is the essence of Murji'ite thought. True faith must manifest in action. Allah تعالى says: {Say, if you truly love Allah, then follow me}. Claims without action are false claims.
+
+---
+
+### Case 2: Equality in Faith
+Someone says: *"My faith is like Abu Bakr as-Siddiq's faith! We're all Muslims!"*
+
+**Question**: Are people equal in faith?
+
+**Answer**: ❌ No. Faith increases and decreases. Abu Bakr's faith is not like anyone else's. The Prophet ﷺ said: *"If Abu Bakr's faith were placed on one scale and the faith of the Ummah on the other, Abu Bakr's faith would outweigh it."*
+
+---
+
+### Case 3: Separating Religion from Life
+A merchant cheats in his trade and says: *"Religion is in the mosque, and business has its own rules!"*
+
+**Question**: Can faith be separated from behavior?
+
+**Answer**: ❌ No. Separating religion from life is a manifestation of contemporary Murji'ism. Islam is a comprehensive system that governs all aspects of life.
+
+---
+
+### Case 4: Minimizing Sins
+A young man commits sins and says: *"Allah is Forgiving, Merciful, and my sins don't affect my faith!"*
+
+**Question**: Do sins affect faith?
+
+**Answer**: ✅ Yes. Faith decreases by disobedience and increases by obedience. The Prophet ﷺ said: *"The fornicator does not fornicate while being a believer at the time."* Sin weakens faith even if it doesn't remove it.
+
+---
+
+### Case 5: Delaying Repentance
+A man says: *"I'll repent when I get older, now I'll enjoy my youth, faith is in my heart!"*
+
+**Question**: Is it permissible to delay repentance while claiming faith?
+
+**Answer**: ❌ No. This is dangerous procrastination and an effect of Murji'ism. Repentance is immediately obligatory, and a person has no guarantee of his lifespan.
+
+---
+
+## 💡 Pause and Reflect
+
+**Personal question**: Do you rely on "what's in your heart" or do you translate your faith into daily action?
+
+**Remember:**
+- Faith is not just a claim, but belief and action
+- It's not enough to love Allah in your heart, you must obey Him
+- Your faith increases every time you obey Allah, and decreases every time you disobey
+- Monitor your actions, for they are the mirror of your faith
+
+---
+
 ## Conclusion
 
 | Group | Definition of Faith | Ruling |

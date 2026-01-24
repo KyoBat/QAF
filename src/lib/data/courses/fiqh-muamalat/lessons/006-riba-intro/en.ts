@@ -11,6 +11,18 @@ Riba: increase, from raba yarbu meaning to increase and grow.
 
 ---
 
+## 📖 Stories from the Salaf: 'Umar ibn al-Khattab and Usury
+
+'Umar ibn al-Khattab رضي الله عنه was extremely cautious about usury, to the point that he said:
+
+> "Among the last verses revealed of the Quran was the verse of usury, and the Messenger of Allah ﷺ passed away without explaining it to us. So leave usury and doubt."
+
+He used to say: **"We left nine-tenths of the lawful out of fear of usury."**
+
+**The lesson:** If 'Umar رضي الله عنه, with his understanding and knowledge, took such precaution, what about us?
+
+---
+
 ## The Prohibition of Usury in the Quran
 
 ### First Verse: The General Prohibition
@@ -155,6 +167,65 @@ They claimed that usury is like trade in increase and profit.
 ### 3. Installment Sale
 - Sale at a higher price with delay
 - Permitted because it is the price of merchandise
+
+---
+
+## 🎯 Contemporary Cases: Is This Usury?
+
+### Case 1: Housing Loan from a Conventional Bank
+**Ahmad** wants to buy a house for 500,000 riyals. The bank lends him the amount and asks for repayment of 650,000 riyals over 20 years.
+
+**Question**: Is this usury?
+
+**Ruling**: ✅ **Yes, this is explicit usury** — a conditioned increase in exchange for delay = delay usury.
+
+**The lawful alternative**: Financing through murabahah or lease-to-own through Islamic banks.
+
+---
+
+### Case 2: Credit Card
+**Sarah** uses a credit card. If she pays before the end of the month, she pays nothing extra. But if she is late, she is charged 2% monthly interest.
+
+**Question**: Is using the card permissible?
+
+**Ruling**: 
+- ✅ **Full payment before due date**: permitted
+- ❌ **Being late and paying interest**: prohibited usury
+
+---
+
+### Case 3: "Buy Now, Pay Later" Apps
+An app allows you to buy a phone for 3000 riyals in 4 installments. If you are late, delay fees are added.
+
+**Question**: What is the ruling?
+
+**Ruling**:
+- ✅ **Installments without increase**: permitted
+- ❌ **Late fees**: prohibited usury
+
+---
+
+## 📖 From History: The Usury Crisis in Europe
+
+In the Middle Ages, the Catholic Church strictly prohibited usury, following the Torah text. But with the development of trade, laxity began until usury was fully permitted.
+
+**The result**: The successive financial crises — the 1929 crisis, the 2008 crisis — are all the result of the usurious system.
+
+**The lesson**: What Allah has prohibited is not restriction, but protection for humanity.
+
+---
+
+## 💡 Pause and Reflect
+
+**Question for reflection**: 
+
+If you had a sum of money and wanted to invest it, and your options were:
+1. A bank deposit at 5% annual interest (guaranteed)
+2. Partnership in a business venture (risky but lawful)
+
+Which would you choose? And why?
+
+**Remember**: Allah does not prohibit something except that He gives you a better alternative. {And whoever fears Allah, He will make for him a way out. And will provide for him from where he does not expect.}
 
 ---
 

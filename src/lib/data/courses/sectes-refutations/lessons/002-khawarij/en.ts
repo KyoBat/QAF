@@ -102,4 +102,89 @@ Abu Sa'id al-Khudri رضي الله عنه reported that the Messenger of Allah 
 
 ---
 
+## 📖 Stories from the Salaf: Ibn 'Abbas's Debate with the Khawarij
+
+When the Khawarij rebelled against 'Ali رضي الله عنه, he sent **'Abdullah ibn 'Abbas** رضي الله عنهما to debate them.
+
+Ibn 'Abbas asked them: **"What do you have against the Commander of the Faithful?"**
+
+**They said: Three things:**
+1. He made men judge in Allah's religion
+2. He did not take the women of those who fought as captives nor their wealth as spoils
+3. He erased the title "Commander of the Faithful" from himself in the peace treaty
+
+**Ibn 'Abbas answered:**
+
+**On the first**: Allah تعالى says regarding hunting: {Let two just persons among you judge} So if arbitration is allowed for a rabbit, how not for the blood of Muslims?
+
+**On the second**: Would you take 'Aisha, the Mother of the Believers, as a captive? She is your mother by the text of the Quran!
+
+**On the third**: The Prophet ﷺ himself erased "Messenger of Allah" in the Treaty of Hudaybiyyah. Did he leave prophethood?
+
+**Two thousand of them returned!** The rest persisted in their falsehood.
+
+**Lesson learned**: Dialogue with evidence and proof is more effective than the sword.
+
+---
+
+## 🎯 Contemporary Cases: Do You Know Today's Khawarij?
+
+### Case 1: Excommunication for Sin
+**A young man** says: "Whoever doesn't pray is a disbeliever apostate who must be killed immediately!"
+
+**Question**: Is this the methodology of Ahl as-Sunnah?
+
+**Answer**:
+- ⚠️ The one who abandons prayer is a matter of scholarly disagreement
+- ❌ **However** judging a specific individual and executing the punishment is not for ordinary people
+- ✅ This is the jurisdiction of the Islamic judiciary after calling for repentance
+
+---
+
+### Case 2: Rebellion Against the Ruler
+**A group** says: "This ruler is unjust, we must rebel against him with weapons!"
+
+**Question**: What is the position of Ahl as-Sunnah?
+
+**Answer**:
+- ❌ **Armed rebellion**: Prohibited according to the majority of Ahl as-Sunnah except with three conditions:
+  1. Clear disbelief for which we have proof from Allah
+  2. Capability to change
+  3. That it doesn't lead to greater harm
+
+> The Prophet ﷺ said: **"You hear and obey, even if your back is beaten and your wealth is taken"**
+
+---
+
+### Case 3: "I Only Follow the Quran!"
+**A person** says: "I am Quran-only, I don't believe in the Sunnah!"
+
+**Question**: Is this an extension of Khawarij thought?
+
+**Answer**:
+- ✅ The Khawarij began by rejecting the Sunnah and understanding the Quran literally
+- ✅ This thinking leads to the same results: extremism or negligence
+- Allah تعالى says: {And whatever the Messenger gives you, take it; and whatever he forbids you, abstain from it}
+
+---
+
+## 💡 Pause and Reflect
+
+**Personal question**:
+
+What is the difference between:
+- **Praiseworthy zeal** for the religion
+- **Blameworthy extremism** and excess?
+
+**Reflect:**
+- The Companions were the most zealous for the religion
+- Yet they did not excommunicate Muslims nor make their blood lawful
+- **The difference**: Knowledge, mercy, and wisdom
+
+> The Prophet ﷺ said about the Khawarij: **"They kill the people of Islam and leave the idol worshippers"**
+
+Have you seen today someone who is harsh with his Muslim brothers yet lenient with the enemies of the religion?
+
+---
+
 *My Lord, increase me in knowledge*`;

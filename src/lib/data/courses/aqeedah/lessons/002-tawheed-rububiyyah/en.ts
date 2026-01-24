@@ -400,14 +400,115 @@ The physician replied: "SubhanAllah! This can only come from a Wise Creator!"
 
 ---
 
-## ✅ Summary
+## 📖 Stories from the Salaf: Abdullah ibn Al-Mubarak and the Sound Fitrah
 
-1. **Tawheed Ar-Rububiyyah** = Oneness of Allah in Lordship (Creation, Provision, Sovereignty, Management)
+<div class="story-box">
 
-2. **The proofs** are countless in the Quran and Sunnah
+**In the 2nd century of Hijrah**, a man came to Imam Abdullah ibn Al-Mubarak رحمه الله complaining about his condition...
 
-3. **The polytheists** acknowledged it, but it was not sufficient for them
+The man said: **"O Imam, I find in myself doubts that make me question the existence of Allah!"**
 
-4. **It necessitates** Tawheed Al-Uluhiyyah (next lesson)
+Ibn Al-Mubarak was silent for a moment, then said: **"Tell me, if you were in a desert, lost your way, ran out of water and provisions, then saw a caravan coming from afar... would you be happy or sad?"**
 
-5. **Its fruits**: Trust in Allah, peace of heart, gratitude, and contemplation of creation`
+He said: Happy, of course!
+
+He said: **"And why would you be happy?"**
+
+He said: Because they would rescue me!
+
+Ibn Al-Mubarak said: **"Then you know in your fitrah (natural instinct) that there is someone who can benefit or harm you! And this is the meaning of Lordship. The One who truly possesses the power to benefit and harm you is Allah alone!"**
+
+The man's doubts disappeared.
+
+</div>
+
+**📌 The Lesson**: The sound fitrah testifies to Tawheed Ar-Rububiyyah; it is only obscured by doubts and desires. Whoever returns to their fitrah will find Allah.
+
+---
+
+## 🎯 Contemporary Cases: Tawheed Ar-Rububiyyah in Our Lives
+
+### Case 1: The Student and the Exam
+**Situation**: A student preparing for a crucial exam says to his friend: "If I pass, it's only because of my effort and intelligence!"
+
+**Question**: Is this statement correct?
+
+**Answer**: ❌ This reflects a deficiency in understanding Tawheed Ar-Rububiyyah. Success is in Allah's Hands, even though effort is required.
+
+✅ **The Correct View**: "I strive and place my trust in Allah, for He is the One who grants success and guidance."
+
+Allah says: ﴿وَمَا تَوْفِيقِي إِلَّا بِاللَّهِ﴾ *"And my success is only through Allah."* (Hud 11:88)
+
+---
+
+### Case 2: The Patient and the Doctor
+**Situation**: A patient says: "Doctor so-and-so is the one who healed me!"
+
+**Question**: What is wrong with this statement?
+
+**Answer**: ❌ Attributing healing solely to the doctor is a doctrinal error.
+
+✅ **The Correct View**: "Allah healed me, and the doctor was a means." The doctor treats, but Allah heals.
+
+Ibrahim عليه السلام said: ﴿وَإِذَا مَرِضْتُ فَهُوَ يَشْفِينِ﴾ *"And when I am ill, it is He who heals me."* (Ash-Shu'ara 26:80)
+
+---
+
+### Case 3: The Merchant and Provision
+**Situation**: A merchant says: "I built my wealth myself; this money is from my own sweat!"
+
+**Question**: Is this statement acceptable according to Sharia?
+
+**Answer**: ❌ This is similar to what Qarun said: ﴿إِنَّمَا أُوتِيتُهُ عَلَىٰ عِلْمٍ عِندِي﴾ *"I was only given it because of knowledge I have."* (Al-Qasas 28:78)
+
+✅ **The Correct View**: "Allah provided for me, and I exerted the means." The Provider is Allah alone.
+
+---
+
+### Case 4: The Atheist and the Universe
+**Situation**: Someone says: "The universe came into existence by chance over millions of years; there's no need for the concept of a Creator!"
+
+**Question**: How do we refute this doubt?
+
+**Answer**:
+- Chance does not produce a precise system
+- Every existing thing must have a cause for its existence
+- ﴿أَمْ خُلِقُوا مِنْ غَيْرِ شَيْءٍ أَمْ هُمُ الْخَالِقُونَ﴾ *"Or were they created by nothing, or were they the creators?"* (At-Tur 52:35)
+- If you found a watch in the desert, would you say "it came by chance"? Then what about this complex universe!
+
+---
+
+### Case 5: The Child and the Instinctive Question
+**Situation**: A child asks their mother: "Mom, who created the sky, the sun, and the moon?"
+
+**Question**: What does this question indicate?
+
+**Answer**: ✅ This is evidence of the fitrah! The child instinctively knows that every creation has a Creator.
+
+**The Correct Answer for the Mother**: "Allah, my child. He is the One who created everything, and He is the One who provides for us and protects us."
+
+---
+
+## 💡 Pause and Reflect
+
+**A Question to Ponder**:
+> Look now at your hand... Who designed these five fingers? Who placed joints in them that move with such precision? Who gave them the strength to grasp, write, and work?
+>
+> If all the scientists on earth gathered together, could they create a single hand that works like yours?!
+
+**Remember**:
+- You are a creation of a Great Creator
+- Every blessing in you is from Allah
+- Acknowledging Lordship necessitates worship
+- ﴿أَلَا لَهُ الْخَلْقُ وَالْأَمْرُ تَبَارَكَ اللَّهُ رَبُّ الْعَالَمِينَ﴾ *"Unquestionably, His is the creation and the command; blessed is Allah, Lord of the worlds."* (Al-A'raf 7:54)
+
+---
+
+## 🤲 Supplication
+
+> O Allah, our Lord, to You belongs all praise. You are the Sustainer of the heavens and the earth and all that is in them.
+> O Allah, to You belongs all praise. You are the Light of the heavens and the earth and all that is in them.
+> O Allah, to You belongs all praise. You are the King of the heavens and the earth and all that is in them.
+> (From the supplication of the Prophet ﷺ - Sahih Al-Bukhari 1120)
+
+Rabbi Zidni 'Ilma. 📖`

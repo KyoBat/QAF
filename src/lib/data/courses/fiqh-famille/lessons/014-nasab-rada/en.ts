@@ -182,6 +182,109 @@ Contemporary scholars differ on this issue, and it is more cautious to avoid the
 
 ---
 
+## 📖 Stories from the Salaf
+
+### Zayd ibn Haritha and the Abolition of Adoption
+
+**Zayd ibn Haritha** (may Allah be pleased with him) was captured as a young boy and sold. Hakim ibn Hizam purchased him for his aunt Khadijah (may Allah be pleased with her), who gifted him to the Prophet ﷺ.
+
+His father Haritha and his uncle came searching for him. When they found him with the Prophet ﷺ, they said: "O Muhammad, you are the son of the leader of your people. Return our son to us and be generous in his ransom."
+
+The Prophet ﷺ said with amazing generosity: **"Give him the choice. If he chooses you, he is yours without ransom."**
+
+When Zayd was given the choice, he said words that shook those present: **"I would not choose anyone over you. You are to me in the place of father and uncle!"**
+
+The Prophet ﷺ said: **"O people of Quraysh, bear witness that this is my son, he inherits from me and I inherit from him."**
+
+So he became known as: **Zayd ibn Muhammad**.
+
+Then the Quran came down abolishing this adoption:
+
+> **﴾Call them by their fathers' names; that is more just in the sight of Allah﴿**
+
+So he returned to being called: **Zayd ibn Haritha**.
+
+**The lesson:** Islam preserved lineages from mixing, and distinguished between forbidden adoption (attributing the child to other than his father) and recommended sponsorship (caring for and raising the orphan).
+
+---
+
+## 🎯 Contemporary Cases
+
+### Case One: IVF Between Spouses
+
+**Question:** A couple cannot conceive naturally, and the doctor advised them of in vitro fertilization (taking sperm from the husband and egg from the wife, then implanting the embryo in the wife's womb). Is this permissible?
+
+**Answer:** **Yes, it is permissible** if the conditions are met:
+1. The sperm must be from the husband
+2. The egg must be from the wife
+3. The embryo must be implanted in the wife's own womb
+4. This must be done while the marriage is in effect
+5. Precautions against mixing must be taken
+
+The child in this case is attributed to his parents legally.
+
+---
+
+### Case Two: Surrogate Mother (Womb Rental)
+
+**Question:** A couple took the wife's egg and husband's sperm, but the wife cannot carry for medical reasons, so they implanted the embryo in another woman's womb for payment. What is the ruling?
+
+**Answer:** **It is forbidden**, not permissible. This is called "womb rental" and is among the prohibitions for several reasons:
+1. Introducing a man's genetic material into a woman who is a stranger to him
+2. Confusion of lineage: Who is his mother? The egg owner or the carrier?
+3. Degrading women's dignity by making her womb a commodity
+
+The Islamic Fiqh Council has issued a fatwa prohibiting it.
+
+---
+
+### Case Three: Orphan Sponsorship and Family Name
+
+**Question:** A family sponsored an orphan since he was young. Now he is 10 years old and they want to register him with their name to make things easier for him at school and with official papers. What is the ruling?
+
+**Answer:** **It is not permissible** to attribute him to them as their son. This is forbidden adoption. However, they can:
+1. Add their name as "sponsored by" (in some countries: Muhammad ibn Abdullah under the sponsorship of Al-Fulan family)
+2. Or he keeps his father's name if known, or a name indicating his lineage
+
+Allah says: **﴾Call them by their fathers' names﴿**
+
+As for care, kindness, and inheritance through bequest, all of these are permissible.
+
+---
+
+### Case Four: Milk Banks
+
+**Question:** In Western hospitals, there are "milk banks" that collect mothers' milk and give it to premature babies. A Muslim woman gave birth in such a hospital and they gave her baby from this bank. What is the ruling?
+
+**Answer:** This is **problematic** from a legal perspective because:
+1. The child may nurse from several women without knowing them
+2. This creates unknown breastfeeding prohibitions
+3. He may marry a foster sister without knowing
+
+**The safer approach:** A Muslim woman should avoid this if possible, and breastfeed her child herself or from a known wet nurse.
+
+---
+
+### Case Five: DNA Testing and Lineage
+
+**Question:** A man doubted that his son was from him, and wanted to do a DNA test. Is this permissible? Can it be relied upon to establish or deny lineage?
+
+**Answer:**
+1. **The principle:** Lineage is established through the marriage bed, and a man may not accuse his wife without evidence
+2. **DNA testing:** Strong evidence but not 100% conclusive
+3. **Denying lineage:** Cannot be done except through legal li'an (mutual cursing)
+4. **Establishing lineage:** DNA can be used as supporting evidence, but it does not alone establish lineage for one of unknown lineage according to some scholars
+
+Detail: If lineage is established through the marriage bed, it is not denied except through li'an. If lineage is disputed, DNA can be used as circumstantial evidence.
+
+---
+
+## 💡 Pause and Reflect
+
+> Reflect on how Islam preserved the orphan's rights in the best way: it permitted sponsoring, raising, and being kind to him, but it forbade attributing him to other than his father so he does not lose his original identity and lineages do not mix. Islam combines mercy (sponsorship) with justice (preserving lineage). Is this not more complete than the Western adoption system that completely erases the child's original identity?
+
+---
+
 ## Summary
 
 | Topic | Ruling |

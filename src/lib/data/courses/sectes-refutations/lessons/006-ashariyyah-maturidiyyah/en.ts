@@ -120,4 +120,79 @@ They agree with the Asha'irah in many issues, and differ in others:
 
 ---
 
+## 📖 Stories from the Salaf: The Repentance of Abu al-Hasan al-Ash'ari
+
+Abu al-Hasan al-Ash'ari was upon the Mu'tazilite school for forty years, then something occurred that changed his course.
+
+It is reported that he saw the Prophet ﷺ in a dream three times during Ramadan, commanding him to support what was reported from him. He then secluded himself in his house for fifteen days, reflecting.
+
+Then he went to the main mosque of Basra, ascended the pulpit on Friday and said:
+
+*"O people! I was absent from you for this period because I examined and the evidences became equal to me, nothing prevailing over another. So I sought Allah's guidance and He guided me to what I deposited in these books. I have stripped myself of all I used to believe, as I strip myself of this garment."*
+
+He removed a garment he was wearing and threw it, and handed the people his books.
+
+**Lesson learned**: Returning to the truth is a virtue, and the truthful scholar follows the evidence even if it contradicts what he was raised upon.
+
+---
+
+## 🎯 Contemporary Cases: Dealing with the Asha'irah and Maturidiyyah
+
+### Case 1: Excommunicating the Asha'irah
+Someone says: *"The Asha'irah are disbelievers because they interpret the attributes!"*
+
+**Question**: Should the Asha'irah be excommunicated?
+
+**Answer**: ❌ Absolutely not. The Asha'irah are innovators in the chapter of attributes and are not disbelievers. Many of their scholars have great contributions in serving Islam.
+
+---
+
+### Case 2: Tafsir Books
+A student asks: *"Should I read Ibn Kathir's tafsir or az-Zamakhshari's al-Kashshaf?"*
+
+**Question**: How do we deal with books of opponents?
+
+**Answer**: ✅ Both have benefits. However, Ibn Kathir's tafsir is upon the methodology of Ahl as-Sunnah, while al-Kashshaf contains Mu'tazilite ideas one should be aware of. The student of knowledge benefits from all while discerning.
+
+---
+
+### Case 3: Allah's Attributes
+A mosque imam says: *"'Istawa 'ala al-'Arsh' means dominated, because real establishment necessitates anthropomorphism!"*
+
+**Question**: Is this interpretation correct?
+
+**Answer**: ❌ No. This is the interpretation of the Asha'irah. The methodology of the Salaf: Affirming real establishment (Istiwa') for Allah تعالى as befits His Majesty, without asking how or likening to creation.
+
+---
+
+### Case 4: Al-'Aqidah at-Tahawiyyah
+Someone asks: *"Is al-'Aqidah at-Tahawiyyah Ash'ari or Salafi?"*
+
+**Question**: What is the methodology of al-'Aqidah at-Tahawiyyah?
+
+**Answer**: ✅ Al-'Aqidah at-Tahawiyyah is upon the methodology of Ahl as-Sunnah wal-Jama'ah, even though Imam at-Tahawi was Hanafi. What matters is the content, not the affiliation.
+
+---
+
+### Case 5: Fairness with Opponents
+A student of knowledge says: *"I will not benefit from any Ash'ari scholar, they are all misguided!"*
+
+**Question**: Should we reject all the knowledge of opponents?
+
+**Answer**: ❌ No. It is unjust to reject all their knowledge. Ibn Hajar and an-Nawawi were Ash'ari and have great contributions in serving the Sunnah. We take the truth and reject the falsehood.
+
+---
+
+## 💡 Pause and Reflect
+
+**Personal question**: Do you understand the creed of the Salaf regarding Allah's attributes correctly? Or do you need to review it?
+
+**Remember:**
+- Affirm for Allah what He affirmed for Himself without distortion or denial
+- Do not liken Allah's attributes to the attributes of creation
+- Be fair with scholars who err in some issues
+- The Asha'irah and Maturidiyyah are our brothers in Islam even if they erred in some attributes
+
+---
+
 *My Lord, increase me in knowledge*`;

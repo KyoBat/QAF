@@ -112,6 +112,82 @@ The Ummah is unanimous on the obligation to follow the authentic Prophetic Sunna
 - **Source of many rulings**: like detailed Zakat rules
 - **Preserved by Allah**: through the efforts of scholars and their documentation
 
+---
+
+## 📖 Stories from the Salaf: Imran ibn Husayn and Adherence to the Sunnah
+
+Imran ibn Husayn (may Allah be pleased with him) was sitting with his companions when a man said: "Tell us only from the Quran, leave us from hadith!"
+
+Imran became angry and said: **"Do you see if you and your companions were left with only the Quran, would you find in it that Dhuhr is four rak'ahs, Asr is four rak'ahs, and Maghrib is three? Would you find in the Quran that tawaf is seven circuits and sa'i is seven circuits?"**
+
+Then he said: **"O people! Take from us, for by Allah, if you do not, you will certainly go astray."**
+
+**The Lesson**: The Sunnah is essential for understanding the religion, and whoever claims independence from it has been ignorant of the reality of legislation.
+
+---
+
+## 🎯 Contemporary Cases: Dealing with the Prophetic Sunnah
+
+### Case 1: "This is a Weak Hadith"
+
+**Context**: A person refuses to act on a hadith because he heard it is weak.
+
+**Question**: Is everything said to be weak not to be acted upon?
+
+**Answer**: ⚠️ One must verify the source of the weakening. The hadith may be authentic according to other hadith scholars. A weak hadith may be strengthened by supporting narrations. The reference is the specialists.
+
+---
+
+### Case 2: Using a Fabricated Hadith
+
+**Context**: A hadith spreads on the internet: "Seek knowledge even in China."
+
+**Question**: Is it valid to use it as evidence?
+
+**Answer**: ❌ This hadith is very weak or fabricated according to many hadith scholars. It is not permissible to attribute it to the Prophet ﷺ, and seeking knowledge is established by many authentic evidences.
+
+---
+
+### Case 3: Legislative and Customary Sunnah
+
+**Context**: A person insists on always wearing white because the Prophet ﷺ used to wear it.
+
+**Question**: Is the Prophet's ﷺ wearing of white an obligatory legislation?
+
+**Answer**: ✅ Wearing white is a recommended sunnah but not obligatory. The Prophet's ﷺ natural and habitual actions are not binding legislation, unlike his devotional acts.
+
+---
+
+### Case 4: Denying the Authority of the Sunnah
+
+**Context**: Some claim the Sunnah is not authoritative and the Quran is sufficient.
+
+**Question**: What is the response to this doubt?
+
+**Answer**: ❌ This contradicts the Quran itself which commands following the Messenger ﷺ. It contradicts the consensus of the Ummah across centuries. Whoever denies the authority of the Sunnah cannot pray, give zakat, or perform hajj.
+
+---
+
+### Case 5: Distinguishing Between Understanding and Text
+
+**Context**: Two scholars differ in understanding one hadith.
+
+**Question**: Does this mean the Sunnah is unclear?
+
+**Answer**: ✅ Disagreement in understanding does not diminish the authority of the text. Just as the Quran has clear and ambiguous verses, so does the Sunnah. Disagreement is a mercy when built on correct scholarly methodology.
+
+---
+
+## 💡 Pause and Reflect
+
+**Question for Reflection**: How do you verify the authenticity of hadiths you use in your daily life? Do you distinguish between legislative and customary Sunnah?
+
+**Remember**:
+- The Sunnah is revelation from Allah like the Quran
+- The Quran cannot dispense with the Sunnah
+- Verifying hadith authenticity is a religious trust
+- Understanding the Sunnah requires specialists
+
 ## Conclusion
 
 The Prophetic Sunnah is the second source of legislation after the Quran, it is a binding evidence, explains and details the Quran and provides independent rulings, and the Muslim must follow it and act upon it.

@@ -194,4 +194,102 @@ Islam has prohibited certain sales due to the harm, uncertainty, and injustice t
 
 ---
 
+## 📖 Stories from the Salaf: The Scrupulousness of Imam Ahmad
+
+Imam Ahmad ibn Hanbal used to refuse to eat from state money out of fear of doubt, despite his poverty.
+
+He used to say: **"Leaving a daniq (small coin) of the prohibited is better than a thousand pilgrimages."**
+
+And when told that some wealth has doubt in it, he said: **"Indeed, a third of people's wealth is prohibited!"** — meaning as a warning against laxity.
+
+**The lesson:** Scrupulousness in transactions is a sign of faith.
+
+---
+
+## 🎯 Contemporary Cases: What is the Ruling?
+
+### Case 1: Fraud in Specifications (Online Shopping)
+
+**An online seller** displays beautiful pictures of a product, but the real product is much lower quality.
+
+**Question**: What is the ruling?
+
+**Answer**:
+- ❌ **Prohibited fraud** — "Whoever cheats us is not one of us"
+- ✅ The buyer has the right to return
+- ⚠️ Truthful negative review: permissible, even required
+
+---
+
+### Case 2: Raising Prices During Auction (eBay)
+
+**A person** agrees with their friend to bid in an auction to raise the price on real buyers.
+
+**Question**: What is the ruling?
+
+**Answer**:
+- ❌ **This is exactly the prohibited najsh!**
+- Even if electronic, the ruling is the same
+- 🔴 Consuming wealth unjustly
+
+---
+
+### Case 3: Hoarding During Crises
+
+**A merchant** buys all the masks and sanitizers during a pandemic, then sells them at multiple times the price.
+
+**Question**: What is the ruling?
+
+**Answer**:
+- ❌ **Prohibited hoarding** — "Only the sinner hoards"
+- 🔴 One of the worst types of injustice
+- ✅ The ruler can impose mandatory pricing on hoarders
+
+---
+
+### Case 4: Selling During the Friday Sermon
+
+**A shop owner** opens their shop during Friday prayer.
+
+**Question**: What is the ruling?
+
+**Answer**:
+- ❌ **Prohibited** for those upon whom Friday prayer is obligatory
+- ⚠️ The contract: valid with sin according to the majority
+- ✅ The duty: close the shop and go to prayer
+
+---
+
+### Case 5: Buying a Cheap Stolen Product
+
+**A person** finds a new phone being sold at half price and suspects it is stolen.
+
+**Question**: What is the ruling?
+
+**Answer**:
+- ❌ **Buying with suspicion is not permitted**
+- 🔴 The buyer is a partner in sin
+- ✅ Rule: "What many people ask about, leave it"
+
+---
+
+## 💡 Pause and Reflect
+
+**Question for reflection**: 
+
+You are a seller, and the entire market cheats: mixing good merchandise with bad.
+
+If you don't do the same, you will lose customers.
+
+**What do you do?**
+
+Remember:
+- 🔴 Cheating is prohibited even if everyone does it
+- ✅ "Whoever leaves something for Allah, Allah will compensate them with something better"
+- 💡 Honesty is blessing, and cheating erases it
+
+> The Prophet ﷺ said: **"The two contracting parties have the option as long as they have not separated. If they are truthful and transparent, their sale will be blessed. If they conceal and lie, the blessing of their sale will be erased."**
+
+---
+
 *My Lord, increase me in knowledge*`;

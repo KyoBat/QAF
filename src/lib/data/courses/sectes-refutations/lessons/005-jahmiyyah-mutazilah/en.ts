@@ -124,4 +124,83 @@ During the reign of al-Ma'mun (218H), the caliph adopted the Mu'tazilite doctrin
 
 ---
 
+## 📖 Stories from the Salaf: Imam Ahmad's Steadfastness During the Trial
+
+When the Caliph al-Ma'mun adopted the Mu'tazilite doctrine of the creation of the Quran, the scholars were tested and forced to profess it. Imam Ahmad ibn Hanbal رحمه الله was brought in.
+
+He was told: *"Say: The Quran is created!"* He refused.
+
+He was imprisoned and beaten with whips until he fainted, yet he did not budge from the truth.
+
+Imam Ahmad said: *"If the scholar answers out of fear and the ignorant person out of ignorance, when will the truth be made clear?"*
+
+Someone told him in prison: *"O Abu 'Abdullah, ease yourselves and say it with your tongues while your hearts are at peace!"*
+
+Ahmad replied: *"If the scholar speaks out of fear and the ignorant out of ignorance, when will the truth appear?"*
+
+The trial lasted eighteen months, and Imam Ahmad stood firm, becoming the cause for preserving the Sunnah.
+
+**Lesson learned**: Steadfastness upon truth during times of trial is the greatest jihad. Had Ahmad not stood firm, the creed of the Ummah would have been lost.
+
+---
+
+## 🎯 Contemporary Cases: Effects of Mu'tazilism and Jahmism
+
+### Case 1: Interpretation of Attributes
+Someone says: *"'The Hand' in the Quran means power, and 'Istawa' means dominated, because Allah is transcendent above corporeality!"*
+
+**Question**: Is this interpretation correct?
+
+**Answer**: ❌ No. This is the interpretation of the Mu'tazilah and Jahmiyyah. The methodology of the Salaf: Affirming the attributes as they came without distortion or denial, without asking how or likening to creation.
+
+---
+
+### Case 2: Predestination and Responsibility
+Someone says: *"If Allah predetermined my disobedience, why does He hold me accountable? I am compelled!"*
+
+**Question**: Is the human being compelled in his actions?
+
+**Answer**: ❌ No. This is the doubt of the Jabriyyah. The truth is that Allah creates everything including the servants' actions, but the servant has will, choice, and agency for which he is held accountable.
+
+---
+
+### Case 3: Ruling by Reason
+A philosopher says: *"Reason is the primary judge, and whatever contradicts reason in the texts we reject or reinterpret!"*
+
+**Question**: Is reason given precedence over text?
+
+**Answer**: ❌ No. This is the foundation of Mu'tazilism. According to Ahl as-Sunnah: Sound reason does not contradict authentic revelation, and when there appears to be conflict, the text is given precedence.
+
+---
+
+### Case 4: Denying the Vision of Allah
+Someone says: *"Allah cannot be seen on the Day of Judgment because seeing necessitates corporeality!"*
+
+**Question**: Does Ahl as-Sunnah deny seeing Allah on the Day of Judgment?
+
+**Answer**: ❌ No. Seeing Allah on the Day of Judgment is established by the Quran and mutawatir Sunnah. Allah تعالى says: {Faces that Day will be radiant * Looking at their Lord}. The Mu'tazilah denied it following their corrupt principles.
+
+---
+
+### Case 5: The Noble Quran
+A student asks: *"What is the difference between our saying the Quran is Allah's Speech and the Mu'tazilite saying it is created?"*
+
+**Question**: Why is this issue important?
+
+**Answer**: ✅ Because saying the Quran is created implies that Allah was devoid of speech then began to speak, which is a deficiency. Ahl as-Sunnah say: The Quran is truly Allah's Speech, with which He spoke, uncreated.
+
+---
+
+## 💡 Pause and Reflect
+
+**Personal question**: If you were in Imam Ahmad's time and faced the trial... would you have stood firm or made excuses?
+
+**Remember:**
+- Sound creed sometimes requires sacrifice to preserve it
+- Do not give precedence to your mind over the texts of revelation
+- Learn the creed of the Salaf from its original sources
+- Beware of the theological doubts spreading today
+
+---
+
 *My Lord, increase me in knowledge*`;

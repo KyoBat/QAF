@@ -123,6 +123,72 @@ Allah the Most High says:
 
 > **"It is He who has sent down to you the Book; in it are verses that are precise - they are the foundation of the Book - and others unspecific"** [Al-Imran: 7]
 
+---
+
+## 📖 Stories from the Salaf: Umar ibn al-Khattab and the Verse of Kalala
+
+It is reported that Umar ibn al-Khattab (may Allah be pleased with him) used to say: "Three things I wished the Messenger of Allah ﷺ had not left us until he gave us a clear covenant regarding them: the grandfather (in inheritance), the kalala (those who die without parents or children), and some chapters of riba (usury)."
+
+Umar used to ask the Prophet ﷺ about kalala repeatedly, until the Prophet ﷺ told him: **"The verse of summer at the end of Surah An-Nisa is sufficient for you."**
+
+Despite this, Umar continued to be careful in understanding it, and would say: "That I had asked the Messenger of Allah ﷺ about it would be more beloved to me than possessing red camels."
+
+**The Lesson**: The intense care of the Companions in understanding the Quran from its source, and their caution in interpreting by opinion without knowledge.
+
+---
+
+## 🎯 Contemporary Cases: Using the Quran as Evidence
+
+### Case 1: Verses on Riba and Banks
+
+**Context**: Some cite the verse **"Allah has permitted trade and forbidden riba"** to prohibit bank interest.
+
+**Question**: Is the verse definitive in this indication?
+
+**Answer**: ✅ The verse is definitive in prohibiting the riba mentioned in the text. However, determining what contemporary transactions fall under the concept of riba requires the ijtihad of specialists in verifying the effective cause (tahqiq al-manat).
+
+---
+
+### Case 2: The Verse of Hijab and Its Interpretation
+
+**Context**: Contemporaries have differed in interpreting **"and let them draw their head-coverings over their chests"**.
+
+**Question**: Does this include covering the face or not?
+
+**Answer**: ✅ This is from the probable in meaning (zanni al-dalala), which is why scholars, both past and present, have differed on it. The disagreement is legitimate because the wording admits more than one meaning.
+
+---
+
+### Case 3: Using a Single Verse as Evidence
+
+**Context**: Someone uses the verse **"There is no compulsion in religion"** to permit apostasy.
+
+**Question**: Is this reasoning valid?
+
+**Answer**: ❌ It is not valid to understand a verse in isolation from other verses and hadiths. The Quran is interpreted by the Quran, then by the Sunnah. Isolating the text from its context is a methodological error.
+
+---
+
+### Case 4: Quran Translation and Rulings
+
+**Context**: A non-Arab Muslim reads a translation of the Quran and derives rulings from it.
+
+**Question**: Is it valid to derive rulings from translations?
+
+**Answer**: ❌ A translation is an interpretation, not the Quran itself. Derivation must be from the original Arabic text because precise linguistic indications do not transfer through translation.
+
+---
+
+## 💡 Pause and Reflect
+
+**Question for Reflection**: How many times have you used a Quranic verse as evidence without ensuring you understood it correctly in its context and in light of the explanatory Sunnah?
+
+**Remember**:
+- The Quran is definitively established but includes verses of probable meaning
+- Understanding the Quran requires the Sunnah and knowledge of Arabic
+- Correct reasoning gathers evidences and does not isolate them
+- Beware of interpretation by opinion without knowledge
+
 ## Conclusion
 
 The Quran is the primary source of Islamic legislation, definitively established, containing passages of definitive meaning and others of probable meaning, and the Prophetic Sunnah explains and details it.

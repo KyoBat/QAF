@@ -156,6 +156,72 @@ Istislah should not be used as a pretext to change established Sharia rulings.
 
 The one deriving the interest must be qualified for ijtihad and know the objectives of Sharia.
 
+---
+
+## 📖 Stories from the Salaf: Umar ibn al-Khattab and the Compilation of the Quran
+
+When many reciters were martyred in the Battle of Yamama, Umar ibn al-Khattab (may Allah be pleased with him) came to Abu Bakr al-Siddiq (may Allah be pleased with him) saying:
+
+> "The killing has been severe at Yamama among the reciters of the Quran, and I fear that severe killing may befall the reciters in other places, and much of the Quran may be lost. I think you should order the collection of the Quran."
+
+Abu Bakr hesitated at first, saying: **"How can we do something the Messenger of Allah ﷺ did not do?"**
+
+But Umar kept persuading him until Allah expanded his chest for it, and Abu Bakr said: **"By Allah, it is good."**
+
+They then assigned Zayd ibn Thabit (may Allah be pleased with him) this great task.
+
+**The Lesson**: Compiling the Quran into one mushaf was not textually prescribed, but the Companions recognized the great interest in preserving the Book of Allah, so they acted upon it. This is one of the greatest examples of maslaha mursala in Islamic history.
+
+---
+
+## 🎯 Contemporary Cases
+
+### Case 1: Mandatory Vaccinations
+
+**Question**: Is it permissible for the state to require citizens to be vaccinated against epidemics?
+
+**Answer**: Yes, this is permissible based on maslaha mursala in preserving life and public health. Vaccination achieves a general interest (protecting society from epidemics) and does not contradict a Sharia text; rather, it accords with the principle "no harm and no reciprocal harm."
+
+---
+
+### Case 2: Mandatory Contract Documentation
+
+**Question**: Recently, documenting marriage contracts in courts has become mandatory. Is this legitimate even though it is not mentioned in the texts?
+
+**Answer**: Yes, this obligation is legitimate based on maslaha mursala. It preserves the rights of spouses and children, prevents denial and manipulation, and facilitates proving lineage and inheritance. This achieves the Sharia's objective of preserving lineage and wealth.
+
+---
+
+### Case 3: Driving Licenses
+
+**Question**: Cars did not exist during the time of legislation, so what is the ruling on requiring a license to drive?
+
+**Answer**: This requirement is legitimate based on maslaha mursala in preserving lives and property. A car without a skilled driver could be a means of killing and destruction, and ensuring driver competence achieves the Sharia's objective of preserving lives.
+
+---
+
+### Case 4: Building and Urban Planning Regulations
+
+**Question**: Is it permissible for the state to require citizens to follow certain specifications in construction?
+
+**Answer**: Yes, this is permissible to preserve lives from building collapse, protect neighbors' rights, and organize public facilities. This is from maslaha mursala that achieves the preservation of life and property.
+
+---
+
+### Case 5: Personal Data Protection
+
+**Question**: Are personal data protection laws considered maslaha mursala?
+
+**Answer**: Yes, these laws preserve human privacy and prevent exploitation of their data, achieving the Sharia's objective of preserving honor and human dignity. Even though no specific text addresses them, they accord with general objectives.
+
+---
+
+## 💡 Pause and Reflect
+
+> Reflect on your contemporary society: What systems and laws do you see as built on maslaha mursala? How do these laws achieve the objectives of Sharia in preserving religion, life, intellect, lineage, and wealth?
+
+---
+
 ## Difference Between Maslaha Mursala and Istihsan
 
 | Maslaha Mursala | Istihsan |

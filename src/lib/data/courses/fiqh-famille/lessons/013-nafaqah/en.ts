@@ -175,6 +175,79 @@ The wife's maintenance has **priority** over relatives' maintenance.
 
 ---
 
+## 📖 Stories from the Salaf
+
+### Hind bint Utbah and the Golden Rule
+
+**Hind bint Utbah** - the wife of Abu Sufyan - came to the Prophet ﷺ complaining about her husband, saying:
+
+> **"O Messenger of Allah! Abu Sufyan is a stingy man, and he does not give me enough for myself and my children. Is there any sin on me if I take from his wealth without his knowledge?"**
+
+The Prophet ﷺ said words that became a golden rule in Islamic jurisprudence:
+
+> **"Take what is sufficient for you and your children in a reasonable manner."**
+
+This hadith established several great rulings:
+
+1. **Obligation of maintenance:** Upon the husband for his wife and children
+2. **Sufficiency:** The standard is what suffices, not a fixed amount
+3. **Reasonable manner:** According to custom and circumstances
+4. **Right to take:** The wife may take without permission if the husband neglects
+
+Abu Sufyan was a leader among the chiefs of Quraysh and a wealthy merchant, yet he was stingy with his family, so the Prophet ﷺ gave her a ruling about her right.
+
+**The lesson:** Maintenance is a legal right for the wife, not a favor from the husband, and she may demand it and take from him if he neglects.
+
+---
+
+## 🎯 Contemporary Cases
+
+### Case One: Husband Pays His Family and Neglects His Household
+
+**Question:** Fatima's husband is an employee with a good salary, but he sends most of his salary to his parents and siblings in his country, leaving his children barely finding necessities. What is the ruling?
+
+**Answer:** The wife and children's maintenance has **priority** over parents and siblings' maintenance. The Prophet ﷺ said: "Start with yourself then with those you support." He must first provide his wife and children with food, clothing, housing, education, and medical care, then spend the surplus on his parents. His neglect of his household while being excessive with others is injustice and sin.
+
+---
+
+### Case Two: The Divorced Woman and Past Maintenance
+
+**Question:** Sumayya was divorced after 10 years of marriage. During these years, her husband did not give her sufficient maintenance and she borrowed from her family. Does she have the right to demand past maintenance?
+
+**Answer:** Yes, past maintenance **does not expire** with time and remains a debt upon the husband. She has the right to demand it in court with proof of his neglect. The maintenance owed is calculated according to his circumstances at the time it was due.
+
+---
+
+### Case Three: Children's Maintenance After Divorce
+
+**Question:** Khalid divorced his wife and the three children are with her. He has been paying them a fixed monthly amount for 5 years. Now the children have grown and their expenses have increased (schools, clothes, activities). Is he obligated to increase?
+
+**Answer:** Yes, maintenance changes with changing circumstances. Whenever the children's needs increase and the father's financial ability increases, an increase becomes obligatory. The standard is **sufficiency in a reasonable manner**, and this changes with time, prices, and the children's needs. The mother may bring the matter to the judge to adjust maintenance.
+
+---
+
+### Case Four: The Working Wife and Her Maintenance
+
+**Question:** Aisha is an employee with a high salary, and her husband thinks she does not need his maintenance because she is wealthy. Does her right to maintenance fall?
+
+**Answer:** **No**, the wife's maintenance is obligatory upon the husband whether she is wealthy or poor. Her work and salary are her property, and maintenance is a fixed legal right for her. Yes, if she voluntarily contributes to household expenses or shares, that is her virtue and charity, but it does not drop her original right.
+
+---
+
+### Case Five: The Poor Father and Parents' Maintenance
+
+**Question:** Ahmad is a young man at the beginning of his career, married with a child, and his salary barely covers them. His father is retired and ill and needs maintenance. How does he balance?
+
+**Answer:** The wife and child's maintenance has **priority**. He must first provide for them. If anything is left over, his needy father's maintenance becomes obligatory. If nothing is left over, the father's maintenance is distributed among all capable children, each according to his ability. His inability does not mean the father's right falls; rather the obligation transfers to his wealthy siblings.
+
+---
+
+## 💡 Pause and Reflect
+
+> Reflect on the Prophet's ﷺ saying: "It is sufficient sin for a person to neglect those he is supposed to feed"... How many men spend lavishly on themselves, their comfort, their cars, and their travels, while their children are deprived and their wives borrow? And how many well-off children have forgotten their needy parents? Where are you in this divine balance of maintenance?
+
+---
+
 ## Summary
 
 | Topic | Ruling |

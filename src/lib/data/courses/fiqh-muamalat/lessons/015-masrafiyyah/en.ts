@@ -330,6 +330,148 @@ Great ignorance in contracts.
 
 ---
 
+## 📖 Stories from the Salaf
+
+### Imam Ibn Taymiyyah's Position on Money Exchange
+
+**Shaykh al-Islam Ibn Taymiyyah** رحمه الله was asked about money changers who lend people with surplus, and he said:
+
+> "This is the usury upon which the Ummah is unanimous in its prohibition, and it is among the major sins. The Prophet ﷺ cursed the consumer of usury, its payer, its recorder, and its witnesses."
+
+Then he said رحمه الله:
+
+> "As for one who lends a good loan without stipulating any surplus, this is among the best deeds, and they have a great reward with Allah."
+
+**The lesson:** The fundamental difference between good loan and usury is the **stipulated surplus**.
+
+---
+
+### The Beginning of Islamic Banks - An Inspiring Story
+
+In **1963 CE**, the Egyptian economist **Dr. Ahmad al-Najjar** established the first Islamic banking experiment in the village of **Mit Ghamr** in Egypt.
+
+Dr. al-Najjar said:
+
+> "I saw farmers needing financing to buy seeds and equipment, finding only usury. So I said: Why don't we establish a bank that finances through mudarabah and partnership?"
+
+The experiment succeeded and spread throughout the Muslim world, and today the size of Islamic banking **exceeds 3 trillion dollars**.
+
+**The lesson:** Islamic alternatives are possible and successful, but they require will and creativity.
+
+---
+
+### The Position of Fatwa Bodies on Banks
+
+In **1965 CE**, the **Islamic Research Academy** of al-Azhar issued a fatwa prohibiting bank interest.
+
+And in **1986 CE**, the **International Islamic Fiqh Academy** issued its decision that:
+
+> "Every surplus or interest on a debt whose term has arrived and the debtor is unable to pay, in exchange for deferment, and likewise the surplus or interest on a loan from the beginning of the contract — these two forms are prohibited usury according to Shariah."
+
+---
+
+## 🎯 Contemporary Cases
+
+### Case One: Opening an Account in a Usurious Bank
+
+**Question:** There is no Islamic bank in my country. Is it permissible to open an account in a usurious bank?
+
+**Answer:**
+
+| Situation | Ruling |
+|-----------|--------|
+| Current account without interest | ✅ Permissible for need |
+| Savings account with interest | ❌ Prohibited |
+| Accumulated interest | Must be disposed of in Muslim welfare |
+
+**Disposing of interest:**
+- The poor and needy
+- Hospitals and schools
+- Not counted as charity, but disposal of forbidden money
+
+---
+
+### Case Two: Buying a Car in Installments
+
+**Question:** I want to buy a car. The conventional bank gives me a loan at 5% interest. The Islamic bank sells it to me through murabaha at 7% profit. Which should I choose?
+
+**Answer:** ✅ **The Islamic bank** even if more expensive:
+
+| Islamic Murabaha | Usurious Loan |
+|------------------|---------------|
+| Sale contract, price is fixed | Loan contract with interest |
+| No increase with delay (in principle) | Interest accumulates with delay |
+| Bank owns the car first | Bank only lends money |
+| Halal | Absolutely haram |
+
+⚠️ **Warning:** Some "Islamic" banks violate the conditions, so verify:
+- That the bank owns the car before selling it to you
+- Absence of usurious delay penalties
+
+---
+
+### Case Three: Credit Card
+
+**Question:** I have a Visa card from a usurious bank. I use it and pay the full amount before month-end so I pay no interest. What is the ruling?
+
+**Answer:** **There is disagreement among scholars:**
+
+| Opinion | Argument |
+|---------|----------|
+| ❌ Prohibition | The contract includes an interest condition upon delay |
+| ✅ Permission for need | If committed to full payment and pays no interest |
+
+**More cautious:** Use cards from Islamic banks.
+
+---
+
+### Case Four: Investing in Bank Funds
+
+**Question:** The Islamic bank offers investment funds. Are their profits halal?
+
+**Answer:** ✅ **Halal** if conditions are met:
+
+1. **Shariah supervision:** A Shariah committee oversees investments
+2. **Halal investment:** Funds are invested in permissible projects
+3. **No guarantee of capital:** Profit and loss are shared
+4. **Purification:** If forbidden income exists, it is donated
+
+---
+
+### Case Five: Commodity Murabaha (Tawarruq)
+
+**Question:** I need cash liquidity. The bank buys metals from the exchange then sells them to me in installments, then authorizes me to sell them immediately. What is the ruling?
+
+**Answer:** **Disagreement among jurists:**
+
+| Opinion | Argument |
+|---------|----------|
+| ✅ Permission | The Islamic Fiqh Academy decision permits it with conditions |
+| ❌ Prohibition | Some scholars see it as a usury trick |
+
+**Conditions according to those who permit:**
+1. The bank must receive the commodity actually or constructively
+2. The bank must not sell it to the party it bought from
+3. It must be a real commodity, not fictitious
+
+---
+
+## 💡 Pause and Reflect
+
+> **Question for reflection:**
+>
+> Allah تعالى says: ﴿Those who consume usury will not stand except like one whom Satan has driven to madness by his touch﴾
+>
+> - Why is the punishment for consuming usury so severe?
+> - How does usurious dealing affect the individual and society?
+> - What is the Muslim's role in supporting and developing Islamic alternatives?
+>
+> **Reflect:** The Prophet ﷺ said: "Usury has seventy-three doors, the least of which is like a man marrying his mother."
+>
+> Trivializing usurious dealings "for necessity" without searching for alternatives is negligence in a grave matter.
+
+---
+
 ## Lesson Summary
 
 | Formula | Qualification | Ruling |

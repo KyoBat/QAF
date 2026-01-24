@@ -230,6 +230,126 @@ Partnership that begins with defined percentages, then one partner gradually buy
 
 ---
 
+## 📖 Stories from the Salaf
+
+### The Partnership of Ibn Mas'ud, Ammar, and Sa'd on the Day of Badr
+
+Abdullah ibn Mas'ud رضي الله عنه narrated:
+
+> **"Ammar, Sa'd and I partnered in what we would obtain on the day of Badr."**
+
+Ibn Mas'ud said: **"Sa'd brought two captives, while Ammar and I brought nothing."**
+
+Yet they divided among themselves what they obtained, because they had agreed on the partnership before the spoils.
+
+**Lessons learned:**
+
+1. ✅ **Labor partnership is permissible** — partnering in work without capital
+2. ✅ **Partnership must be before the work** — not after
+3. ✅ **Fairness among partners** — despite different outcomes
+4. ✅ **Trust is the foundation of partnership** — they were companions before being partners
+
+---
+
+## 🎯 Contemporary Cases
+
+### Case One: Establishing a Startup
+
+**Question:** I am a programmer and my friend is a marketer. We want to establish a tech company. I will build the app and he will bring clients. We have no capital. How do we divide shares?
+
+**Answer:** ✅ **This is a permissible labor partnership.**
+
+Suggested division:
+- Agree on a percentage (e.g., 50-50 or according to expected effort)
+- Document the agreement in writing
+- Determine the mechanism for evaluating work and distributing profits
+- Agree on what happens if one of you withdraws
+
+---
+
+### Case Two: Buying Shares of Mixed Companies
+
+**Question:** Aramco's main activity is halal (oil), but it places its surpluses in usurious banks. Is it permissible to buy its shares?
+
+**Answer:** ⚠️ **There is disagreement among scholars:**
+
+**First opinion (Prohibition):** Not permissible because it involves usurious dealings.
+
+**Second opinion (Permission with conditions):**
+- The main activity must be permissible
+- The percentage of prohibited income must be minimal (less than 5%)
+- The investor must dispose of the forbidden profit portion through charity
+
+---
+
+### Case Three: Diminishing Partnership for Buying a House
+
+**Question:** The Islamic bank offers a program to buy a house: the bank pays 80% and I pay 20%, then I buy the bank's share monthly while paying rent for its share. Is this halal?
+
+**Answer:** ✅ **Permissible with conditions:**
+1. The partnership must be real (the bank bears risks in its share)
+2. The rent must be at market price
+3. Share purchases must be through independent contracts
+4. I must not be obligated to buy if I don't want to
+
+⚠️ **Warning:** Some banks apply it superficially, so verify the details.
+
+---
+
+### Case Four: Partnership in a Restaurant
+
+**Question:** Three people want to open a restaurant. The first puts 500,000 riyals, the second puts 300,000, and the third will manage the restaurant without capital. How are profits and losses divided?
+
+**Answer:**
+
+**Profits:** According to agreement. For example:
+- Owner of 500,000: 40%
+- Owner of 300,000: 25%
+- Manager: 35% (for his work)
+
+**Losses:** According to capital only:
+- Owner of 500,000: 62.5%
+- Owner of 300,000: 37.5%
+- Manager: nothing (he only lost his effort)
+
+---
+
+### Case Five: Partner's Betrayal
+
+**Question:** I discovered my partner is stealing from the company's funds. What should I do according to Shariah?
+
+**Answer:**
+
+Remember the divine hadith: **"I am the third of the two partners as long as one of them does not betray his companion. If he betrays him, I withdraw from between them."**
+
+**Steps:**
+1. Document evidence of betrayal
+2. Confront him and demand your right
+3. If he doesn't respond, take the matter to court
+4. You have the right to dissolve the partnership and demand compensation
+
+---
+
+## 💡 Pause and Reflect
+
+> **"I am the third of the two partners as long as one of them does not betray his companion"** — Divine hadith
+
+Allah تعالى is with partners, protecting and blessing them... **as long as they are honest and trustworthy.**
+
+Reflect on your partnerships:
+
+🔹 Are you as trustworthy with your partner's money as with your own?
+
+🔹 Do you document agreements in writing to preserve rights and avoid disputes?
+
+🔹 When disagreements arise, do you resort to Shariah arbitration or take matters into your own hands?
+
+🔹 Before entering a partnership, do you ask about the partner's character and trustworthiness?
+
+**Remember:** Successful partnership is built on trust and transparency, and betrayal destroys blessing before it destroys money.
+
+---
+
 ## Lesson Summary
 
 | Type of Partnership | Ruling |

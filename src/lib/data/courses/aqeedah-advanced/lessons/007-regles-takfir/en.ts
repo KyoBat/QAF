@@ -116,6 +116,96 @@ const content = `
 
 ---
 
+## 📖 Stories from the Salaf: Imam Ahmad's Caution in Takfir
+
+A man came to **Imam Ahmad ibn Hanbal** رحمه الله and said:
+
+"O Imam! So-and-so says the Quran is created. Should we declare him a disbeliever?"
+
+Imam Ahmad said: **"Saying the Quran is created is disbelief. As for so-and-so specifically, I don't declare him a disbeliever until proof is established upon him."**
+
+And he رحمه الله used to say: **"I don't declare anyone from the people of the Qiblah a disbeliever."**
+
+Even though Al-Ma'mûn and Al-Mu'tasim imprisoned him, beat him, and nearly killed him because of their saying that the Quran was created!
+
+**Lesson learned**: See the caution of this Imam! He didn't let the injustice done to him push him to rush into takfir. He distinguished between judging the statement and judging the speaker.
+
+---
+
+## 🎯 Contemporary Cases
+
+### Case 1: A Youth Insulting Religion on Social Media
+
+**Omar** sees posts on Twitter by a youth insulting Islam and mocking the Prophet ﷺ.
+
+**Question**: Should we judge him as a disbeliever?
+
+**Answer**: 
+- ❌ **The act itself**: Insulting the religion and Prophet is major disbelief by consensus
+- ⚠️ **Judging the specific person**: Requires verifying conditions and absence of impediments
+- ✅ **What we must do**: Disassociate from this act and advise if possible
+- ❌ **What we shouldn't do**: Issue individual takfir judgments
+
+---
+
+### Case 2: One Who Abandons Prayer Due to Laziness
+
+**Khalid** is a young Muslim but hasn't prayed for years. He says: "I'm a believer but lazy."
+
+**Question**: Has he disbelieved?
+
+**Answer**:
+- ⚠️ **Scholarly difference**: This is a disputed issue among scholars
+- ❌ **Majority of Salaf's view**: One who completely abandons prayer is a disbeliever
+- ⚠️ **Some scholars' view**: He's not a disbeliever but in great danger
+- ✅ **Our duty**: Advise him and warn him of Allah, not issue a takfir ruling
+
+---
+
+### Case 3: One Who Permits Bank Interest
+
+**Ahmad** says: "The prohibited interest is only pre-Islamic usury. As for today's bank interest, it's permissible!"
+
+**Question**: What's the ruling on his statement and on him?
+
+**Answer**:
+- ❌ **Permitting what there's consensus on forbidding**: Disbelief if with knowledge and stubbornness
+- ⚠️ **But Ahmad might be**: Making a wrong interpretation, or ignorant, or following a fatwa he heard
+- ✅ **Our duty**: Clarify the truth to him with evidence, not rush to declare him a disbeliever
+
+---
+
+### Case 4: One Who Rules by Man-Made Laws
+
+**A ruler** in a Muslim country rules by laws contrary to Sharî'ah.
+
+**Question**: Has he disbelieved?
+
+**Answer**:
+- ❌ **Whoever replaced the Sharî'ah and considers it permissible**: Has disbelieved
+- ⚠️ **Whoever rules by other than Allah's law believing it's forbidden**: Minor disbelief according to most
+- ⚠️ **Takfir of specific individual**: Only after establishing proof and knowing his situation
+
+> Ibn 'Abbâs said regarding ﴿وَمَن لَّمْ يَحْكُم بِمَا أَنزَلَ اللَّهُ﴾: **"Disbelief less than disbelief"**
+
+---
+
+## 💡 Pause and Reflect
+
+**Personal question**: 
+
+Why were the Salaf cautious about takfir, while today we see some rushing into it?
+
+Reflect on these reasons:
+1. **Ignorance** of takfir's rules and conditions
+2. **Uncontrolled zeal** without knowledge
+3. **Arrogance** and desire for prominence
+4. **Following desires** and not scholars
+
+Remember: Takfir without right is among the most dangerous matters. The Prophet ﷺ warned us severely about it!
+
+---
+
 ## ❓ Frequently Asked Questions
 
 ### Q1: Is ignorance excused in matters of Tawhid?

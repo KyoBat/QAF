@@ -95,4 +95,64 @@ It is the group that contradicted Ahl as-Sunnah wal-Jama'ah in one or more funda
 
 ---
 
+## 📖 Stories from the Salaf: Hudhayfah ibn al-Yaman — The Keeper of the Prophet's Secret ﷺ
+
+Hudhayfah ibn al-Yaman رضي الله عنه was called "the Keeper of the Secret" because the Prophet ﷺ had informed him of the names of the hypocrites. While people would ask the Messenger of Allah ﷺ about the good, Hudhayfah would ask him about evil, fearing it would reach him.
+
+Hudhayfah said: *"O Messenger of Allah, we were in ignorance and evil, then Allah brought us this good. Will there be evil after this good?"* He said: **"Yes."** I asked: *"And will there be good after that evil?"* He said: **"Yes, but with impurity."** I asked: *"What is its impurity?"* He said: **"People who guide by other than my guidance, you will recognize some and disapprove of others."** [Agreed upon]
+
+**Lesson learned**: Knowledge of sects and deviations is not for arrogance, but for protection and prevention. Whoever knows evil guards against it, and whoever is ignorant of it falls into it.
+
+---
+
+## 🎯 Contemporary Cases
+
+### Case 1: The New Da'i
+A young man studied religious knowledge then began classifying people and issuing declarations of innovation on everyone who disagrees with him on any issue.
+
+**Question**: Is this the methodology of Ahl as-Sunnah in dealing with opponents?
+
+**Answer**: ❌ No. The methodology of Ahl as-Sunnah is based on justice and fairness, distinguishing between the statement and the one who makes it, and verification before judgment. Innovation labels are not issued based on whims but on sound legal criteria.
+
+---
+
+### Case 2: Ignorance of Sects
+A Muslim says: *"Why should we study sects? What matters is that we're Muslims, there's no need for these classifications!"*
+
+**Question**: Can we ignore the study of sects?
+
+**Answer**: ❌ No. Studying sects is a religious necessity to protect creed. 'Umar رضي الله عنه said: *"The bonds of Islam are undone one by one when people grow up in Islam without knowing Jahiliyyah."*
+
+---
+
+### Case 3: Jurisprudential Disagreement
+Someone says: *"The disagreement about raising hands in prayer is like the disagreement about Allah's attributes — both create sects!"*
+
+**Question**: Is disagreement in branches like disagreement in fundamentals?
+
+**Answer**: ❌ No. Disagreement in jurisprudential branches of ijtihad does not create sects, whereas disagreement in fundamentals of creed is what excludes from the methodology of Ahl as-Sunnah.
+
+---
+
+### Case 4: Attitude Toward Scholars
+A student of knowledge is reading a book by a famous Ash'ari scholar, and his colleague says: *"Don't read from him! He's an innovator!"*
+
+**Question**: How do we deal with the legacy of scholars who erred in some issues?
+
+**Answer**: ✅ We distinguish between persons and statements. We benefit from their knowledge where they were correct, and clarify their errors where they were wrong, with fairness and without diminishing their rights.
+
+---
+
+## 💡 Pause and Reflect
+
+**Personal question**: Do you truly know what you believe? Or did you inherit your creed without deep understanding?
+
+**Remember:**
+- Knowing the truth requires serious pursuit of knowledge
+- Knowing falsehood protects you from falling into it
+- Justice is required even with opponents
+- Classification is not for arrogance but for distinction and protection
+
+---
+
 *My Lord, increase me in knowledge*`;

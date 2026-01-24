@@ -189,4 +189,61 @@ The conditions of sale are the elements that must be present for the validity an
 
 ---
 
+## 📖 Stories from the Salaf: The Scrupulousness of Imam Ahmad on Sale Conditions
+
+It is narrated that a man came to Imam Ahmad ibn Hanbal رحمه الله asking about a sale.
+
+He said: I bought merchandise from a man, then discovered that he had been coerced into selling by his creditor.
+
+Imam Ahmad said: **"The sale of the coerced is not valid, for mutual consent is a condition. Return his property to him and take your price."**
+
+The man said: But I did not know about his coercion at the time of purchase!
+
+The Imam said: **"Does it harm you to return the right to its owner? The Prophet ﷺ said: Fulfill the trust to the one who trusted you, and do not betray the one who betrayed you."**
+
+**The lesson:** The conditions of sale were established to protect rights and remove injustice. The Muslim merchant ensures the validity of their contracts, not just their appearance.
+
+---
+
+## 🎯 Contemporary Cases: Applying Sale Conditions
+
+### Case 1: Buying from a Child
+**Question**: A father sent his son (10 years old) to buy bread from the grocery. Is this sale valid?
+
+**Answer**: ✅ Yes, it is valid according to many scholars because the child has discernment, the transaction is minor, and it is customarily permitted by the guardian—this is what Muslims have practiced.
+
+### Case 2: Deposit Sale
+**Question**: Zayd paid a deposit to reserve an apartment, then withdrew. Does he deserve the deposit back?
+
+**Answer**: ❌ He does not deserve it according to the preponderant view, because the deposit is in exchange for withholding the merchandise from others. The Hanbalis and the Fiqh Academy have permitted the deposit sale—it becomes part of the price if the sale is completed, and the seller keeps it if not.
+
+### Case 3: Selling a Mortgaged Car
+**Question**: Ali sold his car while it was mortgaged to the bank without informing the buyer. What is the ruling?
+
+**Answer**: ❌ The sale is defective because the mortgaged item is encumbered by another's right, and the seller cannot make complete delivery. The mortgage must be released first, or the buyer must be informed so they can agree.
+
+### Case 4: Buying on Installments at a Higher Price
+**Question**: The phone price in cash is 1000 riyals, and in installments it is 1200 riyals. Is this usury?
+
+**Answer**: ✅ No, this is permissible if the price is specified at the contract. What is prohibited is saying: "Take it for a thousand cash or one thousand two hundred in installments" without specification, because that would be two sales in one.
+
+### Case 5: Selling What One Does Not Own
+**Question**: A merchant promised a customer to sell him merchandise tomorrow when he hasn't yet bought it from the supplier. What is the ruling?
+
+**Answer**: ❌ It is not permissible to sell before ownership. The correct approach is to take a (non-binding) promise, then buy, then sell. Or use the salam contract with its conditions.
+
+---
+
+## 💡 Pause and Reflect
+
+**Question for reflection**: If you knew that the contract you are making has a legal defect but is "legal," would you proceed?
+
+**Remember:**
+- The religious ruling takes precedence over man-made law
+- "Muslims are bound by their conditions, except a condition that makes lawful what is unlawful or unlawful what is lawful"
+- Learn the conditions before entering into contracts
+- Some of the Salaf used to learn the rules of sales before entering the market
+
+---
+
 *My Lord, increase me in knowledge*`;

@@ -485,4 +485,110 @@ The Prophet ﷺ said:
 > اللهم أحينا على التوحيد وأمتنا عليه واحشرنا مع أهله.
 > O Allah, let us live upon Tawheed, die upon it, and be resurrected with its people.
 
+---
+
+## 📖 Stories from the Salaf: Sa'id ibn Jubayr and Sincere Worship
+
+<div class="story-box">
+
+**In the time of Al-Hajjaj ibn Yusuf Ath-Thaqafi**, the noble Tabi'i Sa'id ibn Jubayr رحمه الله was among the greatest scholars.
+
+When he was brought to Al-Hajjaj to be executed, Al-Hajjaj said mockingly: **"You are Sa'id (happy) ibn Jubayr? Rather, you are Shaqi (wretched) ibn Kusayr (broken)!"**
+
+Sa'id said firmly: **"My mother named me Sa'id, and she knew better!"**
+
+Al-Hajjaj said: **"Choose for yourself whatever death you wish!"**
+
+Sa'id رحمه الله said: **"Rather, choose for yourself! By Allah, you will not kill me with any killing except that Allah will kill you the same way on the Day of Resurrection!"**
+
+Then he turned towards the Qiblah and said: ﴿وَجَّهْتُ وَجْهِيَ لِلَّذِي فَطَرَ السَّمَاوَاتِ وَالْأَرْضَ حَنِيفًا وَمَا أَنَا مِنَ الْمُشْرِكِينَ﴾ *"I have turned my face toward He who created the heavens and the earth, inclining toward truth, and I am not of those who associate others with Allah."*
+
+He was killed رحمه الله, and not long after, Al-Hajjaj died in severe distress.
+
+</div>
+
+**📌 The Lesson**: Sa'id ibn Jubayr directed his worship to Allah alone, even in the moment of death. He did not fear the creation because he knew that the One who harms and benefits is Allah alone.
+
+---
+
+## 🎯 Contemporary Cases: Tawheed Al-Uluhiyyah in Our Lives
+
+### Case 1: Amulets and the Blue Bead
+**Situation**: A mother hangs a blue bead on her infant's chest "to protect him from the evil eye."
+
+**Question**: What is the ruling on this act?
+
+**Answer**: ❌ This is minor shirk (forbidden amulets), and it can reach major shirk if one believes it benefits by itself.
+
+✅ **The Correct View**: The legitimate ruqyah with Quran and adhkar, and placing trust in Allah alone.
+
+The Prophet ﷺ said: **"Indeed, ruqyah (incantations), amulets, and tiwalah (love charms) are shirk."** (Ahmad, Sahih)
+
+---
+
+### Case 2: Swearing by Other Than Allah
+**Situation**: A young man says: "By the Prophet, I didn't do this!" or "By your life, I didn't lie!"
+
+**Question**: Is it permissible to swear by other than Allah?
+
+**Answer**: ❌ It is not permissible to swear by other than Allah; it is minor shirk.
+
+The Prophet ﷺ said: **"Whoever swears by other than Allah has committed shirk."** (Ahmad, Sahih)
+
+✅ **The Correct View**: Swearing only by Allah: "Wallahi," "Billahi," "Tallahi."
+
+---
+
+### Case 3: Invoking the Dead
+**Situation**: A man goes to the grave of a righteous saint and says: "O my master! Heal my sick son!"
+
+**Question**: What is the ruling on this act?
+
+**Answer**: ❌ This is **major shirk** that takes one out of the fold of Islam! Supplication is worship and is only directed to Allah.
+
+✅ **The Correct View**: To invoke Allah alone: "O Allah, heal my son!"
+
+﴿وَأَنَّ الْمَسَاجِدَ لِلَّهِ فَلَا تَدْعُوا مَعَ اللَّهِ أَحَدًا﴾ *"And the mosques are for Allah, so do not invoke anyone along with Allah."* (Al-Jinn 72:18)
+
+---
+
+### Case 4: Sacrifice at the Threshold
+**Situation**: A man slaughters an animal at the threshold of his new home "to protect it from jinn and evil."
+
+**Question**: What is the ruling on this?
+
+**Answer**: ❌ If slaughtered seeking nearness to jinn = **major shirk**.
+
+✅ **The Correct View**: It is slaughtered for Allah in gratitude for the new home and distributed to the poor.
+
+The Prophet ﷺ said: **"Allah has cursed whoever sacrifices for other than Allah."** (Muslim)
+
+---
+
+### Case 5: Showing Off in Worship
+**Situation**: A young man prolongs his prayer in front of people to be called "pious and devout," but shortens it when praying alone.
+
+**Question**: What is the danger of this?
+
+**Answer**: ❌ This is **riya (showing off)**, a hidden form of shirk that nullifies the deed!
+
+The Prophet ﷺ said in the Hadith Qudsi: **"I am the most self-sufficient of partners from shirk. Whoever does an action in which he associates others with Me, I will abandon him and his shirk."** (Muslim)
+
+✅ **The Correct View**: Sincerity to Allah in private and in public.
+
+---
+
+## 💡 Pause and Reflect
+
+**A Question to Ponder**:
+> If you were alone in a dark room, no human can see you... would your worship change? Is your prayer in private like your prayer in front of people?
+>
+> If the answer is: Yes, it changes... this is a dangerous indicator of a deficiency in sincerity!
+
+**Remember**:
+- Allah sees you when you stand and when you prostrate
+- ﴿يَعْلَمُ خَائِنَةَ الْأَعْيُنِ وَمَا تُخْفِي الصُّدُورُ﴾ *"He knows the treachery of the eyes and what the breasts conceal."* (Ghafir 40:19)
+- Sincerity means your private and public life are the same
+- Al-Fudayl ibn 'Iyad said: **"Leaving an action for the sake of people is showing off, and doing an action for the sake of people is shirk. Sincerity is that Allah frees you from both."**
+
 Rabbi Zidni 'Ilma. 📖`

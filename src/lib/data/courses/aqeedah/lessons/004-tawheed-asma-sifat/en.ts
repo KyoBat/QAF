@@ -358,6 +358,116 @@ Nu'aym ibn Hammad رحمه الله said:
 
 ---
 
+## 📖 Stories from the Salaf: The Patience of Imam Ahmad Against Innovation
+
+<div class="story-box">
+
+**During the reigns of Al-Ma'mun, Al-Mu'tasim, and Al-Wathiq**, people were forced to say that the Quran is created, and that Allah does not truly speak.
+
+Imam Ahmad ibn Hanbal رحمه الله stood alone defending the creed of the Salaf...
+
+They said to him: **"Say the Quran is created and we will end your torture!"**
+
+He said: **"Bring me a verse from the Book of Allah or a hadith from the Messenger of Allah ﷺ!"**
+
+He was whipped until he fainted and imprisoned for thirty months...
+
+When asked: What kept you firm?
+
+He said: **"I would say to myself: I may die tomorrow, but knowledge will remain. Had I said a single word contrary to the truth, I would have misled the entire Ummah!"**
+
+He would say: **"The Quran is the speech of Allah, uncreated. From Him it originated and to Him it shall return."**
+
+</div>
+
+**📌 The Lesson**: Imam Ahmad remained firm in affirming the attribute of Speech for Allah as befits His Majesty, and endured harm for the sake of the correct creed. This is the methodology of the Salaf: Affirmation without resemblance, and transcendence without denial.
+
+---
+
+## 🎯 Contemporary Cases: Tawheed Al-Asma wa Sifat in Our Lives
+
+### Case 1: The Attribute of Elevation
+**Situation**: Someone says: "Allah is everywhere!" or "Allah is present with us in His Essence here!"
+
+**Question**: Is this doctrinally correct?
+
+**Answer**: ❌ This contradicts the creed of the Salaf. Allah **in His Essence** is above His heavens, established upon His Throne, and He is **with His Knowledge** in every place.
+
+✅ **The Correct View**: ﴿الرَّحْمَٰنُ عَلَى الْعَرْشِ اسْتَوَىٰ﴾ *"The Most Merciful rose over the Throne."* (Ta-Ha 20:5)
+
+The Prophet ﷺ asked the slave girl: **"Where is Allah?"** She said: Above the heaven. He said: **"Free her, for she is a believer."** (Muslim)
+
+---
+
+### Case 2: False Interpretation
+**Situation**: Someone says: "Allah's Hand means His power, and Allah's Eye means His care, because taking them literally would mean anthropomorphism!"
+
+**Question**: What is wrong with this statement?
+
+**Answer**: ❌ This is **false interpretation** that negates the Attributes. Allah has a real Hand that befits His Majesty, unlike the hands of creatures.
+
+✅ **The Correct View**: "We affirm for Allah a Hand that befits His Majesty; we do not ask 'how' and we do not liken it to the hands of creatures."
+
+﴿لَيْسَ كَمِثْلِهِ شَيْءٌ ۖ وَهُوَ السَّمِيعُ الْبَصِيرُ﴾ *"There is nothing like unto Him, and He is the All-Hearing, the All-Seeing."* (Ash-Shura 42:11)
+
+---
+
+### Case 3: Asking About the "How"
+**Situation**: Someone asks: "How does Allah descend to the lowest heaven? Does He leave His Throne?"
+
+**Question**: How do we answer this?
+
+**Answer**:
+✅ **The Methodology of the Salaf**: We affirm the descent as it came in the authentic hadith, and we do not ask about the "how."
+
+Imam Malik said: **"The rising (istiwaa) is known, the how is unknown, believing in it is obligatory, and asking about it is an innovation."**
+
+Allah descends in a manner befitting His Majesty, and what applies to the descent of a creature does not necessarily apply to His descent.
+
+---
+
+### Case 4: Anthropomorphism
+**Situation**: Someone says: "Allah hears like our hearing, and sees like our seeing, for the attributes are the same!"
+
+**Question**: What is wrong with this?
+
+**Answer**: ❌ This is forbidden **anthropomorphism**! Allah's Attributes do not resemble the attributes of creatures.
+
+✅ **The Correct View**: Allah hears with a Hearing that befits His Majesty, different from the hearing of creatures. Man has hearing and an ant has hearing, yet they are different despite the similarity in name. How then about the Attributes of the Creator!
+
+---
+
+### Case 5: Supplicating with the Beautiful Names
+**Situation**: Someone in financial difficulty supplicates: "O Provider (Ya Razzaq), provide for me!" And another who is sick says: "O Healer (Ya Shafi), heal me!"
+
+**Question**: Is this supplication correct?
+
+**Answer**: ✅ Yes! This is a **recommended supplication** that is sought.
+
+﴿وَلِلَّهِ الْأَسْمَاءُ الْحُسْنَىٰ فَادْعُوهُ بِهَا﴾ *"And to Allah belong the Most Beautiful Names, so invoke Him by them."* (Al-A'raf 7:180)
+
+**From the Sunnah**: Seeking means to Allah through His Names and Attributes that are appropriate for what is being requested.
+
+---
+
+## 💡 Pause and Reflect
+
+**A Question to Ponder**:
+> Allah is "As-Sami' (the All-Hearing)"... What does it mean to know that Allah hears the whispers of your heart, your complaints in the depths of the night, and your secret supplication that your lips have not even uttered?
+>
+> How does this affect your relationship with Allah?
+
+**Remember**:
+- Every Name of Allah generates in your heart a form of servitude
+- The Name "Ar-Raqib (the Watchful)" makes you watch over yourself
+- The Name "Al-Ghafur (the Forgiving)" fills you with hope
+- The Name "Al-Wadud (the Loving)" fills your heart with love for Allah
+- Knowing the Names and Attributes = Knowing Allah = The Greatest Knowledge
+
+Ibn Al-Qayyim رحمه الله said: **"Whoever knows Allah through His Names and Attributes will inevitably love Him."**
+
+---
+
 ## 🌟 Fruits of Faith in the Names and Attributes
 
 1. **Knowing Allah truly** — through His Names and Attributes

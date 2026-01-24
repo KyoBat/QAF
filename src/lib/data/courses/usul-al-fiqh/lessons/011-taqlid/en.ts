@@ -5,6 +5,28 @@ export const contentEn = `
 
 Taqlid is an integral part of the Islamic legal system. It is the means by which ordinary Muslims learn the rulings of their religion. The schools of law (madhahib) are the scholarly institutions that organized and preserved Islamic fiqh throughout the centuries.
 
+---
+
+## 📖 Stories from the Imams: The Humility of Scholars
+
+### Imam Ash-Shafi'i says:
+
+> "If the hadith is authentic, it is my school. Throw my opinion against the wall."
+
+### Imam Ahmad says:
+
+> "Do not follow me blindly, nor Malik, nor Ash-Shafi'i, nor Al-Awza'i, nor Ath-Thawri. Take from where they took."
+
+### Imam Malik at the Grave of the Prophet ﷺ:
+
+Harun ar-Rashid came to Imam Malik and said: "O Abu Abdullah, I want to make people follow your book 'Al-Muwatta.'"
+
+Malik said: **"Do not do so! For the Companions of the Messenger of Allah ﷺ dispersed throughout the lands, and each people has knowledge."**
+
+**The Lesson**: The Imams themselves did not claim that they alone were upon the truth.
+
+---
+
 ## Definition of Taqlid
 
 **Linguistically:** From "qilada" (necklace), meaning to attach a matter to someone else.
@@ -33,11 +55,68 @@ It is also said: Acting according to another's statement without binding proof.
 
 Allah says: ﴿Ask the people of remembrance if you do not know﴾ [An-Nahl: 43]
 
+---
+
+## 🎯 Contemporary Cases: Judge for Yourself!
+
+### Case 1: Moving Between Schools
+
+**Said** follows the Hanafi school. He read that the Shafi'is hold that touching a woman invalidates ablution, while the Hanafis do not. He decided to follow the Hanafi school on this issue because it is "easier."
+
+**Question**: Is this permissible?
+
+**Answer**:
+- ✅ **Permissible** provided his intention is not to seek dispensations
+- ⚠️ **Preferable**: For a layperson to adhere to one school
+
+---
+
+### Case 2: "An Authentic Hadith But My School Says Otherwise"
+
+**Nura** learned that raising the hands at bowing and rising from it is established in many authentic hadiths, but her school (Hanafi) does not hold this.
+
+**Question**: What should she follow?
+
+**Answer**:
+- **If she is certain of the evidence**: She follows the hadith
+- **Remember what Imam Abu Hanifa himself said**: "If the hadith is authentic, it is my school"
+
+---
+
+### Case 3: School Fanaticism
+
+**In the neighborhood mosque**, a heated argument broke out among worshipers: Is placing the hands on the chest in prayer sunnah, or leaving them at the sides? It reached the point of insults!
+
+**Question**: What is your stance?
+
+**Answer**:
+- ❌ **Disagreement in branches should not spoil brotherhood**
+- ✅ **Both opinions are valid** according to their proponents with evidence
+- 🤝 **The foundation**: Brotherhood in religion is greater than a subsidiary disagreement
+
+---
+
 ## The Four Schools of Law
 
 ### The Hanafi School
 
 **Founder:** Imam Abu Hanifa An-Nu'man ibn Thabit (80-150 AH)
+
+---
+
+## 📖 From the Life of Imam Abu Hanifa
+
+Imam Abu Hanifa was a successful merchant. One day he sold a garment to a woman who asked: "How much is it?"
+
+He said: "One hundred dirhams."
+
+She said: "Rather, it is worth two hundred!"
+
+He said: **"No, by Allah, I will only take what it deserves."**
+
+**The Lesson**: The Imam applied fiqh in his life before teaching it.
+
+---
 
 **Characteristics:**
 - Extensive use of qiyas and reason
@@ -174,6 +253,30 @@ Someone who performs ablution according to one school then touches a woman (inva
 3. **Seeking evidence:** and striving to know it
 4. **Following the most probable:** when able to determine it
 5. **Taqlid when unable:** to practice ijtihad
+
+---
+
+## 💡 Pause and Reflect
+
+**Question for Thought**:
+
+Imagine you are in the time of Imam Ash-Shafi'i, and someone comes to you saying: "I am a Shafi'i and will not listen to any other school!"
+
+**What would Imam Ash-Shafi'i himself say to him?**
+
+Remember his words, may Allah have mercy on him:
+> "I never debated anyone except that I wished Allah would make the truth appear on his tongue."
+
+And his saying:
+> "My opinion is correct with the possibility of error, and the opinion of others is wrong with the possibility of correctness."
+
+---
+
+**Practical Question**:
+
+In your country, what is the predominant school? Do you know the historical reason for its spread there?
+
+---
 
 ## Conclusion
 

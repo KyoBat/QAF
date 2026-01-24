@@ -104,6 +104,97 @@ The Prophet ﷺ said: **"There is no marriage without a guardian and two upright
 | The guardian | Presence of valid guardian | "No marriage without guardian" |
 | Witnessing | Two upright witnesses | "And two upright witnesses" |
 
+---
+
+## 📖 Stories from the Salaf
+
+### The Marriage of Fatimah al-Zahra to Ali ibn Abi Talib (may Allah be pleased with them)
+
+When Ali ibn Abi Talib (may Allah be pleased with him) wanted to marry Fatimah, the daughter of the Messenger of Allah ﷺ, he came to the Prophet ﷺ as a suitor. Ali (may Allah be pleased with him) was poor and owned nothing.
+
+**The Prophet ﷺ asked him**: "Do you have anything?"
+
+**Ali said**: "No, by Allah, O Messenger of Allah."
+
+**He ﷺ said**: "Where is your Hutamiyyah armor?" (armor that he had given him)
+
+**Ali said**: "It is with me."
+
+**He ﷺ said**: "Give it to her" [Reported by al-Nasa'i]
+
+So the dowry of the leader of the women of the world was an armor! The Prophet ﷺ married her to him in the presence of the Companions, saying: **"I marry you Fatimah for four hundred mithqals of silver. Are you pleased?"** He said: "I am pleased, O Messenger of Allah." Then he called for a plate of dates, placed it before them and said: **"Help yourselves"** (i.e., take some).
+
+**🌟 Lesson**: This blessed marriage fulfilled all the pillars: the two identified spouses, the offer and acceptance with explicit wording, the guardian who was the Prophet ﷺ, and the witnessing in the presence of the Companions. The dowry was modest, for what matters is not the amount of the dowry but the blessing.
+
+---
+
+## 🎯 Contemporary Cases
+
+### Case One: Marriage Over the Phone
+
+**Question**: A young man living abroad in Europe wants to marry a woman in his home country. Is it valid for the offer and acceptance to take place over a phone or video call?
+
+**Answer**: The principle is that the offer and acceptance should be in the same gathering, but many contemporary scholars have allowed the marriage contract through modern means of communication under these conditions:
+- Verifying the identity of the contracting parties
+- The presence of the guardian with the woman
+- The presence of two witnesses who hear the offer and acceptance
+- Official documentation of the contract
+
+It is preferable, if possible, for him to appoint a representative in his country to accept on his behalf.
+
+---
+
+### Case Two: Father Refusing to Marry His Daughter
+
+**Question**: A father refuses to marry his daughter to a suitable and righteous suitor because he wants her to complete her university studies (5 more years), and the girl is 25 years old. What is the ruling?
+
+**Answer**: The guardian has no right to prevent his ward from marrying a suitable match if she desires it without a valid legal reason. Postponing marriage for 5 years may harm the woman, especially if she wants to marry. In this case:
+- The daughter is advised to speak kindly with her father
+- Good people can be sought to mediate
+- If the father insists on preventing without a valid reason, guardianship transfers to the grandfather then to the remaining guardians, and if not possible, to the judge
+
+---
+
+### Case Three: Marriage Without Witnesses
+
+**Question**: A young man and woman performed their marriage contract with only the guardian present, without witnesses, then announced the marriage later at a celebration. Is their marriage valid?
+
+**Answer**: Scholars differ on requiring witnesses:
+- The majority (Hanafis, Shafi'is, and Hanbalis): Witnessing is a pillar or condition, and the contract without it is void or defective
+- Malikis: Announcement is sufficient, but having witnesses is recommended
+
+The safer course is to redo the contract with two witnesses present to avoid disagreement and protect rights, especially since witnessing protects the spouses and establishes lineage.
+
+---
+
+### Case Four: Woman Marrying Herself
+
+**Question**: An adult, sane, mature woman married herself without her guardian's permission to a suitable man. Is her marriage valid?
+
+**Answer**: Scholars differ:
+- The majority (Malikis, Shafi'is, and Hanbalis): Her marriage without a guardian is not valid, based on the hadith "No marriage without a guardian"
+- Hanafis: It is valid if she marries a suitable match
+
+The preponderant view is that of the majority due to the clear texts. If it happens, the couple must rectify it with the guardian's permission, otherwise it should be annulled.
+
+---
+
+### Case Five: Marriage Contract in a Non-Arabic Language
+
+**Question**: A couple who do not speak Arabic - is their marriage contract valid in their native language like Turkish or Urdu?
+
+**Answer**: Yes, the marriage contract is valid in any language understood by the contracting parties. What matters is the meaning, not the Arabic wording. If they say in Turkish or another language what indicates offer and acceptance, the contract is valid. This is the view of scholars generally, because the purpose is understanding and consent.
+
+---
+
+## 💡 Pause and Reflect
+
+**Question for Contemplation**: Islamic law requires a guardian and witnesses for the marriage contract, unlike other contracts.
+
+🤔 **Reflect**: Why did Allah specify the marriage contract with these additional conditions? How do these conditions protect the woman and society from harm? Think about what happens in societies where these safeguards are neglected.
+
+---
+
 ## Lesson Summary
 
 - The pillars of marriage are four: the spouses, the formula, the guardian, and witnessing

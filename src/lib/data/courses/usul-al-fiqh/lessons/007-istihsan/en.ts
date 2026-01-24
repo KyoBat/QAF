@@ -176,6 +176,62 @@ Istishab is evidence in negation and affirmation, and it is applied in the absen
 | Requires exceptional evidence | Does not require new evidence |
 | Its authority is disputed | Its authority is accepted by the majority |
 
+---
+
+## 📖 Stories from the Salaf: Imam Abu Hanifa and Justice in Ruling
+
+Imam Abu Hanifa (may Allah have mercy on him) was among the most prominent who established and applied istihsan. Among the famous stories about him:
+
+A man came to Abu Hanifa asking about a hired worker whom he had employed to carry his goods, and the goods fell and were damaged. The questioner said: "Qiyas dictates that the hired worker is a trustee, and a trustee is not liable except for transgression or negligence."
+
+Abu Hanifa said: **"I apply istihsan to make him liable."**
+
+He was asked: Why?
+
+He said: **"Because if we did not hold hired workers liable, every worker would claim loss and damage, and people's property would be lost. The interest requires holding them liable to protect people's property."**
+
+**The Lesson**: Abu Hanifa saw that the apparent qiyas contradicted a greater interest, so he departed from it to what was more suitable for people and more protective of their rights. This is the essence of istihsan: departing from the apparent ruling for a stronger wisdom.
+
+---
+
+## 🎯 Contemporary Cases
+
+### Case 1: Organ Donation After Death
+
+**Question**: The origin is that the human body is honored and cannot be disposed of, so what is the ruling on donating organs after death?
+
+**Answer**: The apparent qiyas prohibits it, but many contemporary jurists applied istihsan to permit it with conditions, due to the saving of another human's life. The interest in saving a life is stronger than keeping an organ that will decompose.
+
+---
+
+### Case 2: Photographic Imaging for Documents
+
+**Question**: Qiyas on the prohibited imaging dictates prohibiting photography, so what is the ruling?
+
+**Answer**: Many scholars applied istihsan to permit it for need and necessity, especially for official documents. The general need for proving identity and preventing forgery is an interest that takes precedence over the apparent qiyas.
+
+---
+
+### Case 3: Health Insurance Contracts
+
+**Question**: Qiyas on gambling and uncertainty dictates prohibiting insurance, so what is the ruling on health insurance?
+
+**Answer**: Some jurists applied istihsan to cooperative health insurance due to the social solidarity it contains and the protection of the individual from health catastrophes. The realized interest is stronger than qiyas on pure uncertainty.
+
+---
+
+### Case 4: Electronic Banks
+
+**Question**: Qiyas on currency exchange requires physical exchange in the session, so how do we deal with electronic bank transfers?
+
+**Answer**: Jurists applied istihsan that electronic receipt takes the place of physical receipt, because modern custom considers it complete receipt, and the interest requires facilitating financial transactions.
+
+---
+
+## 💡 Pause and Reflect
+
+> Imam al-Shafi'i said: "Whoever applies istihsan has legislated," while Abu Hanifa said: "Nine-tenths of fiqh is in istihsan." How do you understand this disagreement? Do you see istihsan as a necessary tool for contemporary ijtihad, or as a door that may lead to laxity in rulings?
+
 ## Conclusion
 
 Istihsan and Istishab are two evidences of Islamic jurisprudence that enable the jurist to reach the appropriate legal ruling, while observing the guidelines of Sharia and achieving its objectives of facilitation and removal of hardship.

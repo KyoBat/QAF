@@ -269,6 +269,108 @@ The 'Aqilah system in Islam: the tribe bears the blood money for unintentional k
 
 ---
 
+## 🎯 Contemporary Cases: What is the Ruling?
+
+### Case 1: Mandatory Car Insurance
+
+**Fatimah** lives in a country that requires car insurance. Is it permissible for her to subscribe?
+
+**Answer**:
+- ✅ **Permissible by necessity** — What is necessary to fulfill an obligation becomes obligatory
+- ⚠️ **With conditions**:
+  - Limiting to the mandatory minimum
+  - Searching for takaful companies if available
+  - Not expanding into additional coverage
+
+---
+
+### Case 2: Health Insurance from Employer
+
+**Ahmad** is an employee in a company that provides health insurance for all employees.
+
+**Question**: Is it permissible to benefit from it?
+
+**Answer**:
+- ✅ **Permissible** — This is part of salary and benefits
+- ✅ The sin is on the company if it's commercial insurance
+- 💡 **Better**: Request takaful insurance if possible
+
+---
+
+### Case 3: Life Insurance
+
+**Muhammad** wants to secure his children's future after his death, so he subscribed to life insurance.
+
+**Question**: What is the ruling?
+
+**Answer**:
+- ❌ **Commercial life insurance = prohibited**
+- ✅ **Shariah-compliant alternatives**:
+  - Saving in Islamic accounts
+  - Investing in Shariah-compliant funds
+  - Bequeathing one-third
+  - Family takaful insurance
+
+---
+
+### Case 4: Comprehensive Car Insurance
+
+**Said** owns an expensive new car and wants comprehensive insurance to protect it from any damage.
+
+**Question**: Is comprehensive insurance permissible?
+
+**Answer**:
+- ❌ **Commercial comprehensive insurance = prohibited** (not mandatory)
+- ✅ **Alternative**:
+  - Comprehensive takaful insurance if available
+  - Personal savings for emergencies
+  - Limiting to mandatory insurance
+
+---
+
+### Case 5: Merchandise Insurance in Trade
+
+**Abd al-Rahman** is a trader who imports goods, and the bank requires insurance on the shipment.
+
+**Question**: What is the ruling?
+
+**Answer**:
+- ⚠️ **If required for financing**: Consider the necessity
+- ✅ **Solution**: Deal with Islamic banks that provide takaful
+- 💡 **Rule**: Necessities are measured by their extent
+
+---
+
+## 📖 From History: Cooperation in Pre-Islamic Arabia
+
+The Arabs before Islam knew the **"Aqilah"** system:
+- If one of them killed accidentally, his tribe paid the blood money
+- This is cooperation and solidarity, not commercial exchange
+
+**Islam approved it** and made it a legal system, and it is the foundation of takaful insurance today.
+
+> The Prophet ﷺ said: **"The believer to the believer is like a building whose parts reinforce each other."** [Agreed upon]
+
+---
+
+## 💡 Pause and Reflect
+
+**Question for thought**: 
+
+Why has commercial insurance spread in Muslim countries despite scholars prohibiting it?
+
+**Reflect on the reasons:**
+1. Absence of Islamic alternative for decades
+2. Urgent need for insurance in modern life
+3. Weak religious awareness
+
+**What can you do?**
+- Support takaful companies by dealing with them
+- Spread awareness about the Shariah-compliant alternative
+- Ask before subscribing: Is this takaful or commercial?
+
+---
+
 ## Lesson Summary
 
 | Type of Insurance | Ruling | Reason |

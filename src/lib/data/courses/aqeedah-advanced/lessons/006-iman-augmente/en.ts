@@ -117,6 +117,82 @@ const content = `
 
 ---
 
+## 📖 Stories from the Salaf: Hanzalah and Abû Bakr on Faith's Fluctuation
+
+**In Madinah**, Hanzalah al-Usayyidî رضي الله عنه came to Abû Bakr as-Siddîq رضي الله عنه distressed...
+
+Hanzalah said: **"Hanzalah has become a hypocrite, O Abû Bakr!"**
+
+Abû Bakr said: SubhânAllah! What are you saying?!
+
+Hanzalah said: **"When we are with the Messenger of Allah ﷺ, he reminds us of the Fire and Paradise as if we see them with our own eyes. But when we leave the Messenger of Allah ﷺ, we engage with wives, children, and livelihood, and we forget much!"**
+
+Abû Bakr said: **"By Allah, we experience the same thing!"**
+
+So they went to the Prophet ﷺ, and Hanzalah told him what he said...
+
+The Prophet ﷺ said: **"By Him in Whose Hand is my soul, if you remained in the state you are in when with me, and in remembrance, the angels would shake hands with you in your beds and on your paths. But O Hanzalah, there is a time and a time."** [Muslim]
+
+**Lesson learned**: Even the Companions felt fluctuations in faith! This is natural. The important thing is to renew your faith and not surrender to heedlessness.
+
+---
+
+## 🎯 Contemporary Cases
+
+### Case 1: After Ramadan
+
+**Situation**: A Muslim who during Ramadan prayed the night prayers, read Quran, and gave charity, then when Ramadan ended, he left all of that!
+
+**Question**: What happened to his faith?
+
+**Answer**: ❌ His faith **decreased** by abandoning acts of obedience.
+
+✅ **Treatment**: Continue with some worship even if less. The Prophet ﷺ said: **"The most beloved deeds to Allah are the most consistent, even if small."** [Al-Bukhârî]
+
+---
+
+### Case 2: Lowering the Gaze
+
+**Situation**: A young man says: "I feel hardness in my heart and no longer enjoy prayer like I used to!"
+
+Then it became clear he was letting his gaze wander into what's forbidden and watching unlawful things.
+
+**Question**: What caused his heart's hardness?
+
+**Answer**: Sins decrease faith and harden the heart.
+
+Ibn al-Qayyim said: **"Sin brings darkness to the heart and estrangement between the servant and his Lord."**
+
+✅ **Treatment**: Repentance, lowering the gaze, and increasing seeking forgiveness.
+
+---
+
+### Case 3: Accompanying the Righteous
+
+**Situation**: Someone who was far from Allah then joined a study circle and accompanied righteous people, and his life changed!
+
+**Question**: What happened to his faith?
+
+**Answer**: ✅ His faith **increased** through accompanying the righteous and beneficial knowledge.
+
+---
+
+## 💡 Pause and Reflect
+
+**Personal question**: 
+
+When was the last time you felt your faith high? And when did you feel it weak?
+
+**What do you do when you feel your faith weakening?**
+
+Remember:
+1. Recognizing the problem is half the solution
+2. Seek small consistent deeds
+3. Seek righteous company
+4. Increase remembrance of Allah and Quran recitation
+
+---
+
 ## ❓ Frequently Asked Questions
 
 ### Q1: Can one say "I am a believer in shâ' Allâh"?

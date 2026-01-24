@@ -191,4 +191,65 @@ Al-Khiyar (option): a noun derived from ikhtiyar (choice), meaning seeking the b
 
 ---
 
+## 📖 Stories from the Salaf: 'Umar and the Option of Defect
+
+It is narrated that 'Umar ibn al-Khattab رضي الله عنه passed by the market and saw a man selling a camel. A buyer asked him about its defects.
+
+The seller said: There is no defect in it.
+
+When the man bought it and walked away with it, he discovered it limped slightly. He returned to 'Umar complaining.
+
+'Umar sent for the seller and said to him: **"Did you know about this defect?"**
+
+He said: Yes, but it is a minor defect.
+
+'Umar said: **"Return his money and take your camel. A Muslim does not hide a defect from his brother, whether small or large."**
+
+Then 'Umar said: **"Whoever sells something with a defect must disclose it, and if he doesn't, the buyer has the option."**
+
+**The lesson:** The option of defect is the buyer's right to protect their wealth from harm, and concealing defects is prohibited fraud.
+
+---
+
+## 🎯 Contemporary Cases: Applying Options
+
+### Case 1: Option of Session in Online Shopping
+**Question**: Is there an option of session in online shopping?
+
+**Answer**: Contemporary scholars have differed. The preponderant view is that the "session" online is the duration of the connection or the shopping session. When the website is closed or the order is finalized, the electronic "session" ends.
+
+### Case 2: Return Policy in Stores
+**Question**: A store has a policy: "No returns after purchase." Does this bind the buyer?
+
+**Answer**: ⚖️ If the buyer knew this condition before purchasing and agreed to it, they have waived the option of condition. However, the option of defect is not waived by this condition if a hidden defect is found.
+
+### Case 3: Manufacturer's Warranty
+**Question**: Ahmad bought a phone with a one-year warranty, and it broke after 8 months. What are his rights?
+
+**Answer**: ✅ The warranty is considered the seller's commitment to repair defects within the period. It is a type of option of defect limited by time. He is entitled to free repair or replacement according to the terms.
+
+### Case 4: Discovering Fraud After Purchase
+**Question**: Muhammad bought a used car, then discovered the odometer had been rolled back (tampered with). What is his right?
+
+**Answer**: ✅ He has the right to cancel immediately because this is clear fraud—indeed, it is deception that grants the option. He can also take the value difference (compensation) if he wishes to keep it.
+
+### Case 5: Buying Under Pressure
+**Question**: He bought under the seller's pressure and "limited time" offers, then regretted it. Does he have recourse?
+
+**Answer**: ❌ Mere pressure is not coercion that invalidates the contract. However, if there was a return condition or he had not left the session, he has the option. The lesson: Don't rush into buying.
+
+---
+
+## 💡 Pause and Reflect
+
+**Question for reflection**: You bought something then discovered a minor defect. The seller is a man of modest means, and returning the item will burden him. What do you do?
+
+**Remember:**
+- Options are legal rights to protect contracting parties
+- Pardoning and forbearance in personal rights is a virtue
+- The Prophet ﷺ said: "May Allah have mercy on a man who is lenient when he sells, when he buys, and when he demands"
+- Balancing your right with kindness to others is a sign of faith
+
+---
+
 *My Lord, increase me in knowledge*`;

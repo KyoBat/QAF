@@ -166,6 +166,91 @@ Contemporary scholars have differed on it:
 
 ---
 
+## 🎯 Contemporary Cases: Judge for Yourself!
+
+### Case 1: Renting an Apartment on Airbnb
+
+**Abdullah** owns an apartment and rents it on Airbnb for short periods (daily or weekly).
+
+**Question**: Is this permissible?
+
+**Answer**: 
+- ✅ **Permissible** with conditions:
+  - The tenant must not use it for unlawful purposes
+  - The rent must be known
+  - The usufruct must be permissible
+
+---
+
+### Case 2: Netflix / Spotify Subscription
+
+**Fatimah** pays a monthly subscription for a movie or music streaming service.
+
+**Question**: Is this a valid lease contract?
+
+**Answer**:
+- **Regarding the contract**: ✅ Valid lease (known rent for known usufruct)
+- **Regarding the content**: ⚠️ Depends on what is watched
+  - Permissible documentaries: allowed
+  - Music and forbidden content: not allowed
+
+---
+
+### Case 3: Car Rental with Driver (Uber)
+
+**Khalid** works as an Uber driver with his own car.
+
+**Question**: What type of contract is this?
+
+**Answer**: 
+- This is a **labor lease contract** + **usufruct lease**
+- ✅ Permissible with conditions:
+  - Adhering to Shariah rules (not transporting to forbidden places)
+  - Avoiding seclusion with unrelated women
+
+---
+
+### Case 4: Freelance Work
+
+**Ahmad** is a graphic designer working on Fiverr. He charges $50 per design.
+
+**Question**: What is the ruling on this contract?
+
+**Answer**: 
+- ✅ This is **labor lease** (shared employee)
+- Validity conditions:
+  - Specifying the required work
+  - Specifying the wage
+  - The work must be permissible (not designing for alcohol companies, for example)
+
+---
+
+### Case 5: Late Payment Fees in Rent
+
+**The landlord** stipulates to the tenant: "If you are late paying rent, you pay 100 riyals for each day of delay."
+
+**Question**: What is the ruling?
+
+**Answer**: 
+- ❌ **Financial penalty clause for delay = usury**
+- ✅ **Alternative**: 
+  - Terminating the contract upon delay
+  - Requiring a guarantor
+
+---
+
+## 📖 Stories from the Salaf: The Worker's Wage
+
+It is reported that Umar ibn Abd al-Aziz رحمه الله would extinguish the treasury's lamp when he finished official work, and light his personal lamp if he wanted to read for himself!
+
+He was asked: Why?
+
+He said: **"This is the Muslims' lamp; it is not permissible for me to use it for my personal affairs."**
+
+**The lesson**: The employee is a trustee of what they are hired for; they must not betray in time or money.
+
+---
+
 ## Contemporary Applications
 
 ### Real Estate Leasing
@@ -195,6 +280,21 @@ Contemporary scholars have differed on it:
 2. Determining salary and payment date
 3. Determining working hours
 4. Determining leaves and rights
+
+---
+
+## 💡 Pause and Reflect
+
+**Question for reflection**: 
+
+You are an employee at a company, and the employment contract specifies 8 hours daily. But you spend one hour daily browsing social media.
+
+**Is this permissible in Shariah?**
+
+Remember:
+- You are an employee, and the time is not yours
+- **"Give the worker his wages before his sweat dries"** = But the worker must also give the right of work
+- The money you receive for that hour: is it halal?
 
 ---
 

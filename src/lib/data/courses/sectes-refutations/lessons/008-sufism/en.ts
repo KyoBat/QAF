@@ -124,6 +124,106 @@ The origin of the word is disputed:
 
 ---
 
+---
+
+## 📖 Stories from the Salaf: Al-Fudayl ibn 'Iyad
+
+**Al-Fudayl ibn 'Iyad** was a highway robber, then he repented and became one of the great ascetics.
+
+He used to say: **"If the people of the heavens and earth gathered to demean me, they could not. And if they gathered to raise me, they could not—if Allah is with me."**
+
+He used to say: **"If Allah loves a servant, He tests him. If he is patient, He selects him. If he is content, He chooses him."**
+
+**Lesson learned**: This is true asceticism—no dancing, no drums.
+
+---
+
+## 📖 From History: The Statement of al-Hallaj
+
+Al-Hallaj said: **"Ana al-Haqq!" (I am the Truth!)**
+
+He was sentenced to death.
+
+**Analysis of Ahl as-Sunnah:**
+- If he meant that he is Allah = explicit disbelief
+- If he meant the annihilation of his self in witnessing the Truth = blameworthy excess in expression
+
+**The lesson**: Sufi ecstatic utterances (shatahat) are not accepted, and ambiguous statements are not interpreted in favor of their speaker if their apparent meaning is disbelief.
+
+---
+
+## 🎯 Contemporary Cases: What is the Ruling?
+
+### Case 1: Collective Dhikr with Drums and Dancing
+
+**In some countries** people gather for dhikr with rhythm and dancing movements.
+
+**Question**: What is the ruling?
+
+**Answer**:
+- ❌ **Reprehensible innovation** — The Prophet ﷺ and the Companions never did this
+- ❌ Dhikr is an act of worship that must be done according to prescription
+- ✅ **Prescribed dhikr**: With the heart and tongue, in humility and tranquility
+
+---
+
+### Case 2: Seeking Help from a Saint at His Grave
+
+**A man** goes to the grave of a righteous saint and says: "O my master, help me!"
+
+**Question**: What is the ruling?
+
+**Answer**:
+- 🔴 **Major shirk** — Seeking help from other than Allah in what only Allah can do
+- Allah تعالى says: {And those you invoke besides Him do not possess even a qitmir (date-seed's membrane)}
+
+---
+
+### Case 3: The Order's Litanies
+
+**The sheikh of the order** obligates his disciples with specific litanies: "Say this dhikr 1000 times after Fajr"
+
+**Question**: What is the ruling?
+
+**Answer**:
+- ⚠️ Specifying a number or time not mentioned = **innovation**
+- ✅ What is prescribed: The adhkar mentioned in the Sunnah
+- 💡 There is no obedience to the sheikh in disobedience to Allah
+
+---
+
+### Case 4: "The Sheikh Knows the Unseen!"
+
+**A disciple** says: "Our sheikh knows what is in our hearts!"
+
+**Question**: What is the ruling?
+
+**Answer**:
+- 🔴 **A belief of disbelief** — Knowledge of the unseen belongs to Allah alone
+- Allah تعالى says: {Say, none in the heavens and earth knows the unseen except Allah}
+
+---
+
+## 💡 Pause and Reflect
+
+**Personal question**:
+
+How do you distinguish between:
+- **The true saint**
+- **The lying claimant**?
+
+**The golden criterion:**
+
+> Ibn Taymiyyah said: **"Anyone who claims sainthood for himself or another while contradicting the Sharia of Islam is a liar."**
+
+**Signs of the true saint:**
+1. Uprightness upon the Quran and Sunnah
+2. Does not call to himself
+3. Does not claim knowledge of the unseen or control over the universe
+4. Does not consume people's wealth unlawfully
+
+---
+
 ## Conclusion
 
 Sufism is a varied phenomenon:

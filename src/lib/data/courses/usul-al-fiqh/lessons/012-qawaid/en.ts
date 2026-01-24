@@ -164,6 +164,97 @@ Legal maxims are an important tool in contemporary ijtihad:
 - Harm must be eliminated: in environmental and consumer protection laws
 - Custom is authoritative: in electronic commerce contracts
 
+---
+
+## 📖 Stories from the Salaf
+
+**The Maxim "Certainty Is Not Removed by Doubt" — How the Companions Applied It**
+
+A man came to the Prophet ﷺ complaining that he imagined something during prayer (meaning he doubted: did he invalidate his ablution or not?).
+
+The Messenger of Allah ﷺ said: **"Let him not leave until he hears a sound or perceives a smell."**
+
+This hadith established a great maxim: certainty is not abandoned for doubt.
+
+Ibn Abbas (may Allah be pleased with him) used to say: "If you doubt, build on certainty."
+
+It is reported that a man came to Ali ibn Abi Talib (may Allah be pleased with him) and said: "I feel something in my stomach, and I don't know if I broke my ablution or not."
+
+Ali said: "The devil comes to one of you in prayer and blows in his seat. Let him not leave until he hears a sound or perceives a smell."
+
+**The Lesson**: Legal maxims are derived from the texts of revelation and from the understanding of the Companions. They facilitate practical life for the Muslim.
+
+---
+
+## 🎯 Contemporary Cases
+
+### Case One: The Maxim "Matters Are According to Their Intentions" in E-Commerce
+
+**Question:** A person bought a product online intending to return it after using it. Is he sinful?
+
+**Answer:** Yes, he is sinful, because his intention at the time of purchase was corrupt. The maxim "Matters are according to their intentions" indicates that one who intends deception and fraud has a void act even if the outward appearance is permissible. This is from the prohibited deception.
+
+---
+
+### Case Two: The Maxim "Hardship Brings Ease" at Work
+
+**Question:** An employee works 12 hours and cannot perform Zuhr and Asr prayers on time. May he combine them?
+
+**Answer:** Combining prayers merely due to work is not permissible according to the majority of scholars, as regular work is not considered an excuse for combining. However, he should:
+- Organize his time to pray even briefly
+- Negotiate with his employer for a prayer break
+- If this is completely impossible and occurs rarely, some scholars have allowed combining for need
+
+As for working in a non-Muslim country with no alternative, some jurists show flexibility in the matter.
+
+---
+
+### Case Three: The Maxim "Harm Must Be Eliminated" in Neighborhood Disputes
+
+**Question:** My neighbor raises chickens in his apartment, and the smell bothers us. What is the ruling?
+
+**Answer:** By the maxim "No harm and no reciprocal harm," you have the right to demand that he remove the source of harm. If he refuses:
+1. A complaint is filed with the relevant authorities
+2. The judge may compel him to remove the harm
+3. The neighbor is legally and religiously obligated not to harm his neighbors
+
+Ibn Qudama said: "He may not do in his property what harms his neighbor."
+
+---
+
+### Case Four: The Maxim "Custom Is Authoritative" in Dowries
+
+**Question:** A man married without specifying the dowry, then they disagreed. How is this resolved?
+
+**Answer:** Reference is made to the prevailing custom in their country and social class, which is called "the equivalent dowry" (mahr al-mithl). The following are considered:
+- The dowries of her sisters and relatives
+- The prevailing custom in that environment
+- The social and educational level of the wife
+
+This is a practical application of the maxim "Custom is authoritative."
+
+---
+
+### Case Five: The Maxim "Certainty Is Not Removed by Doubt" in Purification
+
+**Question:** I performed ablution, then an hour later I doubted: did I break my ablution or not?
+
+**Answer:** You are in a state of purity because you are certain of your ablution and doubtful about invalidation, and certainty is not removed by doubt. Build on the foundation, which is the permanence of purity.
+
+But if the reverse is true (certain of invalidation, doubtful of ablution), then you are in a state of impurity and must perform ablution.
+
+---
+
+## 💡 Pause and Reflect
+
+> **Question for Reflection:**
+>
+> Imam Al-Qarafi said: "Rigidly adhering to transmitted texts forever is misguidance in religion and ignorance of the objectives of Muslim scholars and the righteous predecessors."
+>
+> How do you understand this statement in light of legal maxims? How can knowledge of the major legal maxims help you deal with daily situations for which you find no explicit text?
+
+---
+
 ## Conclusion
 
 Legal maxims are an immense scholarly treasure that gathers numerous branches under concise principles. Their knowledge is necessary for every student, mufti, and judge, as they help master fiqh, understand the objectives of the Law, and derive rulings for new situations.

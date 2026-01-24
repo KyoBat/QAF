@@ -112,6 +112,110 @@ const content = `
 
 ---
 
+## 📖 Stories from the Salaf: 'Umar's Tawassul Through Al-'Abbâs
+
+When drought struck the people during 'Umar ibn al-Khattâb's رضي الله عنه caliphate, he went out with the people to pray for rain.
+
+'Umar said: **"O Allah, we used to make Tawassul to You through our Prophet and You would give us rain, and now we make Tawassul to You through our Prophet's uncle, so give us rain."**
+
+Then he said to Al-'Abbâs: **"Stand and supplicate to Allah."**
+
+So Al-'Abbâs stood and supplicated, and they were given rain.
+
+**The great lesson**:
+- If Tawassul through the Prophet's ﷺ person or status were permissible, they wouldn't have turned away from him to Al-'Abbâs!
+- Rather, they made Tawassul **through Al-'Abbâs's supplication** because he was alive and could supplicate.
+
+---
+
+## 📖 Stories from the Salaf: The Companions of the Cave
+
+Three men took shelter in a cave for the night when a boulder rolled down and blocked the entrance.
+
+One of them said: **"Nothing will save you except that you supplicate to Allah through your righteous deeds."**
+
+- The first made Tawassul through his dutifulness to his parents
+- The second made Tawassul through his chastity from fornication
+- The third made Tawassul through his honesty in returning wages
+
+With each supplication, the boulder moved a third until they came out.
+
+**The lesson**: This is legitimate Tawassul — through righteous deeds, not through the persons of created beings.
+
+---
+
+## 🎯 Contemporary Cases
+
+### Case 1: "O Allah, I Ask You by the Prophet's Status"
+
+**Someone** supplicates saying: "O Allah, I ask You by the status of Your Prophet Muhammad ﷺ to heal my sick one."
+
+**Question**: What's the ruling?
+
+**Answer**:
+- ⚠️ **Innovation** not reported from the Companions
+- ✅ Not shirk because he's calling upon Allah
+- ✅ **Better**: "O Allah, I ask You by Your Beautiful Names..." or "by my faith in You..."
+
+---
+
+### Case 2: Visiting a Saint's Grave to Supplicate There
+
+**A woman** goes to a righteous saint's grave and says: "O my master, intercede for me with Allah!"
+
+**Question**: What's the ruling?
+
+**Answer**:
+- 🔴 **Asking the dead for intercession = Shirk**
+- The dead cannot hear or respond
+- ✅ Call upon Allah directly: ﴿ادْعُونِي أَسْتَجِبْ لَكُمْ﴾
+
+---
+
+### Case 3: "By the Right of the Righteous Saints"
+
+**Someone** says: "O Allah, by the right of Your righteous saints, provide for me."
+
+**Question**: What's the ruling?
+
+**Answer**:
+- ⚠️ **Innovation** — the Companions didn't do this
+- ✅ Saints have no "right" upon Allah that obligates Him
+- ✅ **The correct way**: "O Allah, by Your Names and Attributes..." or "by my love for the righteous..."
+
+---
+
+### Case 4: "O Messenger of Allah, Help Me!"
+
+**Someone** in distress says: "O Messenger of Allah, help me! O Husayn, save me!"
+
+**Question**: What's the ruling?
+
+**Answer**:
+- 🔴 **Major Shirk** — seeking rescue from other than Allah
+- The Prophet ﷺ and the righteous after death cannot help
+- ✅ **The correct way**: "O Allah, help me! O Allah, save me!"
+
+---
+
+## 💡 Pause and Reflect
+
+**Personal question**: 
+
+Why do some people turn to the dead and saints instead of calling upon Allah directly?
+
+**Reflect on the reasons**:
+1. Ignorance of the correct understanding of Tawhîd
+2. Feeling far from Allah and needing an intermediary
+3. Following parents and society without thought
+4. Exaggeration in loving the righteous
+
+**The solution**: Know that Allah is close, hears supplication, and doesn't need intermediaries!
+
+﴿ وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌ أُجِيبُ دَعْوَةَ الدَّاعِ إِذَا دَعَانِ ﴾
+
+---
+
 ## ❓ Frequently Asked Questions
 
 ### Q1: What's the ruling on Tawassul through the Prophet's ﷺ status?

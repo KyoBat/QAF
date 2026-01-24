@@ -190,6 +190,75 @@ Allah says: **"And reconciliation is better"** [An-Nisa: 128]
 
 ---
 
+## 📖 Stories from the Salaf
+
+### Umar ibn al-Khattab as an Arbitrator Between Spouses
+
+A man came to Umar ibn al-Khattab (may Allah be pleased with him) complaining about his wife. When he stood at his door, he heard Umar's wife raising her voice at him while he remained silent. The man turned away and said: If this is the state of the Commander of the Faithful, then what about me!
+
+Umar followed him and asked about his need. The man told him he had come to complain about his wife but found the Commander of the Faithful in a similar situation. Umar (may Allah be pleased with him) said: **"I bear with her for the rights she has over me: she cooks my food, bakes my bread, washes my clothes, nurses my children—and none of that is obligatory upon her—and my heart finds contentment with her away from the forbidden. So I bear with her for that."**
+
+The man said: O Commander of the Faithful, my wife is the same. Umar said: **"Then bear with her, my brother, for it is but a short time."**
+
+**Lesson:** Patience with marital problems and remembering the partner's positives are among the greatest reasons for marriage continuity.
+
+---
+
+## 🎯 Contemporary Cases
+
+### Case One: The Wife Refusing to Live with In-Laws
+
+**Question:** My wife refuses to live with my elderly mother who needs care, and threatens to leave the house if I don't provide separate housing. Is this nushuz?
+
+**Answer:** It is not nushuz, for separate housing is the wife's legal right. However, it is recommended for her to help her husband in honoring his mother as much as possible. The solution: Reach an arrangement that satisfies both parties, such as living nearby with regular visits.
+
+---
+
+### Case Two: The Constantly Absent Husband
+
+**Question:** My husband spends all his time outside the home with his friends and doesn't give me my right of time and attention. What should I do?
+
+**Answer:** This is a form of the husband's nushuz. Start with calm dialogue with him, then seek help from his righteous family members for advice. If he doesn't respond, you have the right to take the matter to an Islamic judge.
+
+---
+
+### Case Three: Destructive Family Interference
+
+**Question:** My wife's mother interferes in all our household matters and incites my wife against me, until we've reached discord. How should I act?
+
+**Answer:** Ask your wife gently to limit this interference, and don't escalate with your mother-in-law. If the discord continues, suggest appointing two arbitrators from the families as Allah commanded, and choose a wise, sensible arbitrator from your family.
+
+---
+
+### Case Four: The Working Wife and Expense Disagreement
+
+**Question:** My wife works and refuses to contribute to household expenses despite my financial hardship. Do I have the right to compel her?
+
+**Answer:** The wife's money belongs to her, and she is not legally required to contribute to expenses. However, cooperation and understanding are better, and reminding both parties that the money is for the family reduces conflict.
+
+---
+
+### Case Five: Prolonged Abandonment
+
+**Question:** My husband is angry with me and has abandoned me in bed for two months. Is this permissible for him?
+
+**Answer:** Abandonment for more than four months is forbidden for the husband, and it constitutes ila' which gives the wife the right to demand he return or divorce. If it is less, reconciliation and resolving the dispute is obligatory.
+
+---
+
+## 💡 Pause and Reflect
+
+**Question for Contemplation:**
+
+If you were the arbitrator from the husband's family in a dispute between your cousin and his wife, and each party insists they are the wronged one:
+- How would you begin the reconciliation session?
+- What questions would you ask?
+- How would you maintain neutrality despite your kinship to the husband?
+
+Remember Allah's saying: **"If they both desire reconciliation, Allah will bring them together"** - A sincere intention for reconciliation is the key to success.
+
+---
+
 ## Conclusion
 
 Nushuz and shiqaq are among the problems that may confront married life. Islam has established a gradual methodology for treating them, starting with advice and admonition, then forsaking, then arbitration, with the goal being reform and preserving the family as much as possible.

@@ -111,4 +111,52 @@ In this course, we will study:
 
 ---
 
+## 📖 Stories from the Salaf: The Honesty of 'Abd ar-Rahman ibn 'Awf رضي الله عنه
+
+When 'Abd ar-Rahman ibn 'Awf رضي الله عنه migrated to Medina, the Prophet ﷺ made brotherhood between him and Sa'd ibn ar-Rabi' al-Ansari. Sa'd offered to split his wealth with him and to divorce one of his two wives so 'Abd ar-Rahman could marry her.
+
+'Abd ar-Rahman said: **"May Allah bless you in your family and your wealth. Just show me the way to the market."**
+
+He was shown the market of Banu Qaynuqa', and he did not return except with surplus of cheese and butter. He continued going and coming until one day he came with traces of yellow perfume. The Prophet ﷺ asked: "What's this?" He said: I got married. He ﷺ asked: "What did you give her as dowry?" He said: A date-stone's weight of gold.
+
+**The lesson:** 'Abd ar-Rahman ibn 'Awf started from nothing in Medina, but through his understanding of transaction rulings and his honesty in trade, he became one of the wealthiest Companions. Understanding lawful transactions is the foundation of blessed material success.
+
+---
+
+## 🎯 Contemporary Cases: Applying Transaction Rules
+
+### Case 1: Working in a Store Selling Mixed Products
+**Question**: Ahmad works in a supermarket that sells both halal and haram products (like alcohol). Is it permissible for him to work there?
+
+**Answer**: ❌ It is not permissible to sell alcohol, carry it, or assist with it, as the Prophet ﷺ said: "Allah has cursed alcohol and its drinker, its server, its seller, its buyer..." If his work involves that, he must seek an alternative. If the store is large and his section doesn't deal with prohibited items, the matter is easier.
+
+### Case 2: Oral Agreement
+**Question**: Khalid agreed orally with his friend to buy his car, then the seller withdrew. Is the agreement binding?
+
+**Answer**: ✅ An oral contract is valid and binding legally when its pillars and conditions are fulfilled. However, written documentation is better to preserve rights and prevent disputes, as Allah تعالى says: {O you who believe! When you contract a debt for a specified term, write it down}.
+
+### Case 3: Selling a Product Before Receiving It
+**Question**: Muhammad bought merchandise from a trader, and before receiving it, he found another buyer willing to pay a higher price, so he sold it to him. What is the ruling?
+
+**Answer**: ❌ It is not permissible to sell merchandise before taking possession of it, as the Prophet ﷺ said: "Whoever buys food, let him not sell it until he takes possession of it." This applies to non-food items according to many scholars.
+
+### Case 4: Adding an Extra Condition
+**Question**: When buying a car, the buyer stipulated that the seller must repair a defect in it. Is this condition valid?
+
+**Answer**: ✅ Yes, this is a valid condition because it is in the interest of the contract, and Muslims are bound by their conditions.
+
+---
+
+## 💡 Pause and Reflect
+
+**Question for reflection**: You are selling something with a hidden defect that the buyer won't discover. Will you tell them? Why?
+
+**Remember:**
+- Allah sees you when people don't
+- "The truthful, trustworthy merchant will be with the prophets, the truthful, and the martyrs"
+- Blessing is in truthfulness, not in abundance of wealth
+- "Whoever cheats us is not one of us"
+
+---
+
 *My Lord, increase me in knowledge*`;

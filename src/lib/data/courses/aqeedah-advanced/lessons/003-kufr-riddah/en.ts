@@ -102,7 +102,82 @@ const content = `
 | **They don't return** | View of Abû Hanîfah |
 
 ---
+## 📖 Stories from the Salaf: Al-Fudayl ibn 'Iyâd's Repentance
 
+**Al-Fudayl ibn 'Iyâd** was a highway robber who used to raid caravans. Merchants feared him greatly!
+
+One night, he climbed a wall to rob a house when he heard a man reciting:
+
+> **﴿ أَلَمْ يَأْنِ لِلَّذِينَ آمَنُوا أَن تَخْشَعَ قُلُوبُهُمْ لِذِكْرِ اللَّهِ ﴾**
+> *"Has the time not come for believers' hearts to be humbled at the remembrance of Allah?"* [Al-Hadîd: 16]
+
+The verse struck his heart like lightning. He said: **"Yes, by Allah, the time has come!"**
+
+He descended from the wall and made sincere repentance. He became one of the greatest ascetics and scholars, and people would travel to Mecca to seek his counsel.
+
+**Lesson learned**: The door of repentance is open. No matter how great your sins, Allah's mercy is greater.
+
+---
+
+## 🎯 Contemporary Cases
+
+### Case 1: Insulting the Religion in Anger
+
+**Omar** became extremely angry and insulted the religion. Then he immediately regretted it and cried.
+
+**Question**: Did he commit disbelief?
+
+**Answer**: 
+- ❌ **The act itself**: Insulting the religion is major disbelief by consensus
+- ⚠️ **Judgment on the person**: If the anger was so severe it made him lose control = excuse
+- ✅ **His obligation**: Sincere repentance and seeking forgiveness
+
+---
+
+### Case 2: Doubts about Allah's Existence
+
+**Sarah** is a university student who read philosophical books and started having doubts: "Does Allah really exist?"
+
+**Question**: Did she commit disbelief?
+
+**Answer**: 
+- ✅ **Whispers one pushes away**: Not disbelief, rather a sign of faith
+- ⚠️ **Settled doubt**: Needs treatment through knowledge
+- ❌ **Firm denial**: This is disbelief
+
+> The Prophet ﷺ said to the Companions who complained of whispers: **"That is clear faith."** [Muslim]
+
+---
+
+### Case 3: Mocking the Hijab
+
+**Layla** says sarcastically: "The hijab is an outdated custom that doesn't suit our times!"
+
+**Question**: What is the ruling?
+
+**Answer**:
+- ❌ If she **mocks the religious ruling itself**: This is mocking the religion and is disbelief
+- ⚠️ If she **criticizes only the application**: Not disbelief but an error
+
+> Allah said: **﴿ قُلْ أَبِاللَّهِ وَآيَاتِهِ وَرَسُولِهِ كُنتُمْ تَسْتَهْزِئُونَ ۝ لَا تَعْتَذِرُوا قَدْ كَفَرْتُم بَعْدَ إِيمَانِكُمْ ﴾﴾** [At-Tawbah: 65-66]
+
+---
+
+## 💡 Pause and Reflect
+
+**Personal question**: 
+
+Your friend says: "I heard so-and-so saying terrible things about the religion. Should we declare him a disbeliever?"
+
+**How would you answer?**
+
+Remember:
+1. Not everyone who falls into disbelief is a disbeliever
+2. Takfir is a religious judgment with conditions and impediments
+3. Judging specific individuals belongs to scholars and judges
+4. Your duty: Advise and teach, not judge and declare takfir
+
+---
 ## ❓ Frequently Asked Questions
 
 ### Q1: Does everyone who commits disbelief become a disbeliever?

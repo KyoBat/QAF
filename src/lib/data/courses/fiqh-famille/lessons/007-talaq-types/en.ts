@@ -219,6 +219,105 @@ The Prophet ﷺ said: **"Three things are serious whether serious or joking: mar
 
 ---
 
+## 📖 Stories from the Salaf: The Wisdom of Umar ibn al-Khattab
+
+A man came to Umar ibn al-Khattab (may Allah be pleased with him) complaining about his wife. When he stood at his door, he heard Umar's wife raising her voice at him. The man turned to leave.
+
+Umar came out and saw him leaving, and said: **"What is your need?"**
+
+He said: I came to complain about my wife, and I heard your wife!
+
+Umar said: **"My brother, she cooks for me, bakes for me, washes my clothes, and nurses my children—and none of that is obligatory upon her—and my heart finds contentment with her away from the forbidden. Should I not bear with her?!"**
+
+**Lesson**: Patience and overlooking are the foundation of marriage continuity.
+
+---
+
+## 🎯 Contemporary Cases: What is the Ruling?
+
+### Case 1: Divorce via WhatsApp
+
+**Ahmad** sent his wife a WhatsApp message: "You are divorced, divorced, divorced!"
+
+**Question**: Does the divorce take effect? And how many divorces?
+
+**Answer**:
+- ✅ **Divorce takes effect** — Writing is like speaking if intended
+- ⚠️ **The number**: Scholars differ (three according to the majority, one according to others)
+- 💡 **The safer view**: It is considered three, especially if he intended three
+
+---
+
+### Case 2: "You are divorced if you leave!"
+
+**Muhammad** said to his wife while angry: "If you leave the house, you are divorced!" Then she left to visit her sick mother.
+
+**Question**: Did the divorce take effect?
+
+**Answer**:
+- This is **conditional divorce**
+- If the condition is fulfilled (leaving): divorce takes effect
+- ⚠️ **However**: If he intended a threat, not divorce = some scholars consider it an oath
+
+---
+
+### Case 3: "I was very angry"
+
+**Khalid** divorced his wife in a moment of intense anger after an argument, then regretted it immediately.
+
+**Question**: Does the divorce take effect?
+
+**Answer**:
+- **Normal anger**: Divorce takes effect
+- **Intense anger that blocks the mind**: Does not take effect (requires proof)
+- ✅ **Required**: Present the case to a scholar or mufti
+
+> The Prophet ﷺ said: **"No divorce or emancipation in a state of mental closure"** [Reported by Ahmad]
+
+---
+
+### Case 4: Divorce During Menstruation
+
+**Umar** divorced his wife while she was menstruating.
+
+**Question**: Does the divorce take effect?
+
+**Answer**:
+- ✅ **Takes effect with sin** — according to the majority of scholars
+- ❌ **Does not take effect** — according to Ibn Taymiyyah and Ibn al-Qayyim
+- 🔴 **Divorce during menstruation = forbidden innovation divorce**
+
+---
+
+## 📖 From the Seerah: Ibn Umar's Divorce
+
+Abdullah ibn Umar (may Allah be pleased with them) divorced his wife while she was menstruating. Umar asked the Prophet ﷺ about this.
+
+The Prophet ﷺ said: **"Command him to take her back, then let him keep her until she is pure, then menstruates, then is pure again. Then if he wishes, he may keep her after that, or if he wishes, he may divorce her before touching her. That is the waiting period as Allah commanded women to be divorced"** [Agreed upon].
+
+**Benefit**: Divorce has an appropriate time, and rushing into it is a mistake.
+
+---
+
+## 💡 Pause and Reflect
+
+**Question for Thought**: 
+
+Divorce is the husband's legal right, but:
+- Should we do everything that is permissible?
+- What are the psychological effects on the children?
+- Have you exhausted all means of reconciliation?
+
+Remember the verse: ﴿If you fear a breach between the two, send an arbitrator from his family and an arbitrator from her family﴾
+
+**Before you utter divorce, ask yourself:**
+1. Have you prayed istikhara?
+2. Have you consulted people of knowledge?
+3. Have you tried an arbitrator from your family and an arbitrator from her family?
+4. What will happen to the children?
+
+---
+
 ## Conclusion
 
 Divorce has multiple types, and each type has its own rulings. The Muslim must learn these rulings before proceeding with divorce, take his time and seek Allah's guidance, for divorce is the last solution, not the first.
