@@ -175,6 +175,103 @@ Quelqu'un qui fait les ablutions selon une école puis touche une femme (invalid
 4. **Suivre le plus probable :** quand on peut le déterminer
 5. **Taqlid en cas d'incapacité :** à pratiquer l'ijtihad
 
+---
+
+## 📖 Récits des Imams : L'Humilité des Savants
+
+### L'Imam Ash-Shafi'i dit :
+
+> "Si le hadith est authentique, c'est mon école, et jetez mon avis au mur."
+
+### L'Imam Ahmad dit :
+
+> "Ne me suivez pas aveuglément, ne suivez ni Malik, ni Ash-Shafi'i, ni Al-Awza'i, ni Ath-Thawri, et prenez d'où ils ont pris."
+
+### L'Imam Malik auprès de la tombe du Prophète ﷺ :
+
+Harun Ar-Rashid vint voir l'Imam Malik et lui dit : "Ô Abu Abdullah, je veux imposer ton livre 'Al-Muwatta' aux gens."
+
+Malik dit : **"Ne fais pas cela ! Car les Compagnons du Messager d'Allah ﷺ se sont dispersés dans les contrées, et chaque peuple a sa science."**
+
+**La leçon** : Les Imams eux-mêmes n'ont pas prétendu être seuls sur la vérité.
+
+---
+
+### De la Biographie de l'Imam Abu Hanifa
+
+L'Imam Abu Hanifa était un commerçant prospère. Un jour, il vendit un vêtement à une femme qui demanda : "Combien coûte-t-il ?"
+
+Il dit : "Cent dirhams."
+
+Elle dit : "Il vaut plutôt deux cents !"
+
+Il dit : **"Non, par Allah, je ne prendrai que ce qu'il mérite."**
+
+**La leçon** : L'Imam appliquait le fiqh dans sa vie avant de l'enseigner.
+
+---
+
+## 🎯 Cas Pratiques Contemporains : Jugez par Vous-même !
+
+### Cas 1 : Passer d'une École à l'Autre
+
+**Sa'id** suit l'école hanafite. Il a lu que les Shafiites considèrent que toucher une femme annule les ablutions, tandis que les Hanafites ne le considèrent pas. Il a donc décidé de suivre l'école hanafite sur cette question car c'est "plus facile".
+
+**Question** : Cela lui est-il permis ?
+
+**Réponse** :
+- ✅ **Permis** à condition que son but ne soit pas de chercher les facilités
+- ⚠️ **Préférable** : S'en tenir à une seule école pour le profane
+
+---
+
+### Cas 2 : "Hadith authentique mais mon école dit autrement"
+
+**Noura** a appris que lever les mains lors de l'inclinaison et en se relevant est établi par de nombreux hadiths authentiques, mais son école (hanafite) ne le préconise pas.
+
+**Question** : Que doit-elle suivre ?
+
+**Réponse** :
+- **Si elle est certaine de la preuve** : Elle suit le hadith
+- **Rappelle-toi la parole de l'Imam Abu Hanifa lui-même** : "Si le hadith est authentique, c'est mon école."
+
+---
+
+### Cas 3 : Le Fanatisme d'École
+
+**Dans la mosquée du quartier**, un conflit violent éclata entre les fidèles : Le fait de saisir les mains dans la prière est-il sunna ou les laisser tomber ? L'affaire en vint aux insultes !
+
+**Question** : Quelle est votre position ?
+
+**Réponse** :
+- ❌ **La divergence dans les branches ne doit pas gâcher la fraternité**
+- ✅ **Les deux avis sont corrects** pour ceux qui les soutiennent avec leurs preuves
+- 🤝 **Le principe** : La fraternité en religion est plus grande qu'une divergence subsidiaire
+
+---
+
+## 💡 Pause Réflexion
+
+**Question de réflexion** :
+
+Imaginez que vous êtes à l'époque de l'Imam Ash-Shafi'i, et quelqu'un vient vous dire : "Je suis shafiite et je n'écouterai aucune autre école !"
+
+**Que lui dirait l'Imam Ash-Shafi'i lui-même ?**
+
+Rappelle-toi sa parole, qu'Allah lui fasse miséricorde :
+> "Je n'ai jamais débattu avec quelqu'un sans souhaiter qu'Allah fasse apparaître la vérité sur sa langue."
+
+Et sa parole :
+> "Mon avis est juste avec possibilité d'erreur, et l'avis d'autrui est faux avec possibilité de justesse."
+
+---
+
+**Question pratique** :
+
+Dans votre pays, quelle est l'école prédominante ? Connaissez-vous la raison historique de sa diffusion là-bas ?
+
+---
+
 ## Conclusion
 
 Le taqlid est une nécessité pour le profane, et les écoles juridiques sont une bénédiction pour la communauté. Il ne convient pas d'être fanatique envers l'une ni de mépriser les autres. Le devoir est de suivre ce qu'indique la preuve tout en respectant les savants et en reconnaissant leur mérite.

@@ -164,6 +164,82 @@ Celui qui déduit l'intérêt doit être qualifié pour l'ijtihad et connaître 
 | Pas de texte spécifique | Peut avoir un texte |
 | Preuve indépendante | Exception à une règle |
 
+---
+
+## 📖 Récits des Salaf
+
+### 'Umar ibn Al-Khattab et le Rassemblement du Coran
+
+Lorsque de nombreux récitateurs du Coran furent martyrisés à la bataille de Yamama, 'Umar ibn Al-Khattab vint trouver Abu Bakr As-Siddiq en lui disant :
+
+> "Les combats ont décimé les récitateurs du Coran à Yamama, et je crains que les combats ne continuent à décimer les récitateurs dans d'autres batailles, et qu'une grande partie du Coran ne disparaisse. Je pense que tu devrais ordonner le rassemblement du Coran."
+
+Abu Bakr hésita d'abord en disant : **"Comment faire quelque chose que le Messager d'Allah ﷺ n'a pas fait ?"**
+
+Mais 'Umar continua à le convaincre jusqu'à ce qu'Allah ouvre son cœur à cette idée. Abu Bakr dit alors : **"Par Allah, c'est un bien."**
+
+Ils chargèrent ensuite Zayd ibn Thabit de cette mission grandiose.
+
+**La leçon** : Le rassemblement du Coran en un seul volume n'était pas mentionné dans les textes, mais les Compagnons comprirent l'immense intérêt de préserver le Livre d'Allah et agirent en conséquence. C'est l'un des plus grands exemples de Maslaha Mursala dans l'histoire de l'Islam.
+
+---
+
+## 🎯 Cas Pratiques Contemporains
+
+### Premier Cas : Les Vaccinations Obligatoires
+
+**Question** : L'État peut-il obliger les citoyens à se faire vacciner contre les épidémies ?
+
+**Réponse** : Oui, cela est permis sur la base de la Maslaha Mursala pour la préservation de la vie et de la santé publique. La vaccination réalise un intérêt général (protection de la société contre les épidémies) et ne contredit aucun texte légal, mais s'accorde avec la règle "pas de préjudice ni de nuisance".
+
+---
+
+### Deuxième Cas : L'Obligation de Documentation des Contrats
+
+**Question** : Récemment, l'enregistrement officiel du contrat de mariage auprès des tribunaux est devenu obligatoire. Est-ce légal bien que cela ne soit pas mentionné dans les textes ?
+
+**Réponse** : Oui, cette obligation est légale sur la base de la Maslaha Mursala. Elle préserve les droits des époux et des enfants, empêche le déni et la manipulation, et facilite la preuve de la filiation et de l'héritage. Cela réalise l'objectif de la Sharia de préserver la descendance et les biens.
+
+---
+
+### Troisième Cas : Le Permis de Conduire
+
+**Question** : Les voitures n'existaient pas à l'époque de la législation, quel est donc le statut de l'exigence d'obtenir un permis pour conduire ?
+
+**Réponse** : Cette exigence est légitime sur la base de la Maslaha Mursala pour la préservation des vies et des biens. Une voiture sans conducteur qualifié peut être un moyen de mort et de destruction, et s'assurer de la compétence du conducteur réalise l'objectif de la Sharia de préserver les vies.
+
+---
+
+### Quatrième Cas : Les Normes de Construction et d'Urbanisme
+
+**Question** : L'État peut-il imposer aux citoyens des spécifications particulières de construction ?
+
+**Réponse** : Oui, cela est permis pour préserver les vies contre l'effondrement des bâtiments, protéger les droits des voisins et organiser les équipements publics. C'est une Maslaha Mursala qui réalise la préservation de la vie et des biens.
+
+---
+
+### Cinquième Cas : La Protection des Données Personnelles
+
+**Question** : Les lois de protection des données personnelles sont-elles considérées comme une Maslaha Mursala ?
+
+**Réponse** : Oui, ces lois préservent la vie privée de la personne et empêchent l'exploitation de ses données, réalisant l'objectif de la Sharia de préserver l'honneur et la dignité humaine. Même s'il n'y a pas de texte spécifique, elles sont conformes aux objectifs généraux.
+
+---
+
+## 💡 Pause Réflexion
+
+> Réfléchissez à votre société contemporaine : quels systèmes et lois voyez-vous fondés sur la Maslaha Mursala ? Comment ces lois réalisent-elles les objectifs de la Sharia en préservant la religion, la vie, la raison, la descendance et les biens ?
+
+---
+
+## Différence entre Maslaha Mursala et Istihsan
+
+| Maslaha Mursala | Istihsan |
+|-----------------|----------|
+| Construction de la règle sur un intérêt général | Déviation du Qiyas pour une preuve plus forte |
+| Pas de texte spécifique | Peut avoir un texte |
+| Preuve indépendante | Exception à une règle |
+
 ## Conclusion
 
 La Maslaha Mursala est une preuve légale importante qui permet au juriste de faire l'ijtihad dans les questions nouvelles pour lesquelles il n'y a pas de texte spécifique, tout en respectant les règles de la Sharia et ses objectifs généraux.

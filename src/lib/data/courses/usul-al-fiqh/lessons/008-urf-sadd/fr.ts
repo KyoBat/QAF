@@ -200,6 +200,82 @@ Comme les moyens sont bloqués, ils sont aussi ouverts :
 2. **Équilibrer entre intérêts et méfaits** : Si l'intérêt est plus grand, on n'interdit pas
 3. **Ne pas exagérer** : Pour ne pas interdire les choses permises
 
+---
+
+## 📖 Récits des Salaf
+
+### Ibn 'Abbas et la Coutume des Dots
+
+Un homme vint voir 'Abdullah ibn 'Abbas pour l'interroger sur la dot de sa femme. L'homme dit : "Je l'ai épousée sans fixer de dot, que dois-je lui payer ?"
+
+Ibn 'Abbas lui demanda : **"Quelle est la dot des femmes semblables à elle parmi vos femmes ?"**
+
+L'homme dit : "Telle et telle somme."
+
+Ibn 'Abbas dit : **"Elle a droit à la dot de ses semblables, ni moins ni plus."**
+
+**La leçon** : Ibn 'Abbas s'est référé à la coutume pour déterminer la dot équivalente, ce qui montre que les Compagnons considéraient la coutume dans les règles relatives aux transactions et aux relations sociales.
+
+---
+
+### 'Umar ibn Al-Khattab et le Blocage du Moyen vers le Shirk
+
+'Umar ibn Al-Khattab vit les gens chercher la bénédiction auprès de l'arbre sous lequel les Compagnons avaient prêté allégeance au Prophète ﷺ (le serment de Ridwan). Il ordonna de le couper et dit :
+
+**"Ce qui a détruit les Enfants d'Israël, c'est qu'ils ont suivi les traces de leurs prophètes et en ont fait des églises et des temples."**
+
+**La leçon** : 'Umar a coupé l'arbre béni pour bloquer le moyen vers le shirk, bien que chercher la bénédiction auprès de lui ne soit pas interdit en soi. Mais il a craint que la situation n'évolue vers l'adoration de l'arbre, il a donc bloqué le moyen avant qu'il ne mène au mal.
+
+---
+
+## 🎯 Cas Pratiques Contemporains
+
+### Premier Cas (Coutume) : Les Devises des Différents Pays
+
+**Question** : Si le prix est mentionné dans le contrat sans préciser la devise, quelle devise est considérée ?
+
+**Réponse** : On se réfère à la coutume du pays. Si le contrat est en Arabie Saoudite, le prix est en riyals. Si c'est en Égypte, le prix est en livres égyptiennes. La règle : **"Ce qui est connu par coutume est comme ce qui est stipulé."**
+
+---
+
+### Deuxième Cas (Coutume) : Le Changement de la Notion de Défaut dans les Marchandises
+
+**Question** : Autrefois, la coutume était qu'une légère rayure sur une voiture n'était pas un défaut, mais la coutume a changé aujourd'hui. Quel est le statut ?
+
+**Réponse** : Le statut change avec le changement de la coutume. La règle : **"Le changement des règles par le changement des temps n'est pas nié."** Ce qui est considéré comme défaut selon la coutume moderne est un défaut donnant droit à l'option, même si ce n'était pas le cas auparavant.
+
+---
+
+### Troisième Cas (Blocage des Moyens) : L'Isolement au Travail
+
+**Question** : Quel est le statut d'un homme seul avec une femme dans un bureau de travail ?
+
+**Réponse** : L'isolement avec une femme étrangère est interdit pour bloquer le moyen de la tentation. Il est recommandé que la porte du bureau soit ouverte ou vitrée, ou qu'il y ait une troisième personne, pour empêcher ce à quoi l'isolement pourrait mener.
+
+---
+
+### Quatrième Cas (Blocage des Moyens) : La Vente de Produits Chimiques
+
+**Question** : Quel est le statut de la vente de produits chimiques pouvant être utilisés dans la fabrication de drogues ?
+
+**Réponse** : Si le vendeur pense que l'acheteur les utilisera pour le haram, la vente est interdite pour bloquer le moyen d'aider à l'interdit. C'est comme la vente d'armes pendant les troubles.
+
+---
+
+### Cinquième Cas (Coutume et Blocage) : Les Cadeaux aux Employés
+
+**Question** : Quel est le statut d'un employé qui accepte des cadeaux des clients ?
+
+**Réponse** : Le principe du cadeau est la permission, mais pour un employé public, cela peut être un moyen de corruption et de favoritisme. Le Prophète ﷺ a dit : **"Les cadeaux aux fonctionnaires sont une forme de malversation."** On les interdit donc pour bloquer le moyen, même s'ils sont permis à l'origine.
+
+---
+
+## 💡 Pause Réflexion
+
+> La coutume change avec le temps et le lieu, et les règles basées sur elle changent avec son changement. Pensez à trois coutumes qui ont changé dans votre société au cours des dernières décennies. Comment ce changement a-t-il affecté les règles juridiques qui y sont liées ? Est-ce que tout changement de coutume nécessite un changement de règle ?
+
+---
+
 ## Conclusion
 
 L'Urf et Sadd al-Dhara'i sont deux preuves importantes qui tiennent compte de la réalité des gens et des conséquences des actes, et permettent au juriste d'atteindre des règles qui réalisent les objectifs de la Sharia en apportant les intérêts et en repoussant les méfaits.

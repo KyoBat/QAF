@@ -176,6 +176,66 @@ L'Istishab est une preuve dans la négation et l'affirmation, et on l'applique e
 | Nécessite une preuve exceptionnelle | Ne nécessite pas de nouvelle preuve |
 | Son autorité est controversée | Son autorité est acceptée par la majorité |
 
+---
+
+## 📖 Récits des Salaf
+
+### L'Imam Abu Hanifa et la Justice dans le Jugement
+
+L'Imam Abu Hanifa, qu'Allah lui fasse miséricorde, était l'un des plus éminents à avoir établi et pratiqué l'Istihsan. Parmi les histoires célèbres le concernant :
+
+Un homme vint voir Abu Hanifa pour lui demander conseil concernant un ouvrier qu'il avait embauché pour transporter ses marchandises, mais les marchandises étaient tombées et endommagées. L'homme dit : "Le Qiyas veut que l'ouvrier soit un dépositaire, et le dépositaire n'est responsable qu'en cas de transgression ou de négligence."
+
+Abu Hanifa dit : **"Je préfère (istahsinu) le rendre responsable."**
+
+On lui demanda : Pourquoi ?
+
+Il dit : **"Parce que si nous ne rendions pas les ouvriers responsables, chaque ouvrier prétendrait que les biens ont été endommagés ou perdus, et les biens des gens seraient perdus. L'intérêt exige de les rendre responsables pour protéger les biens des gens."**
+
+**La leçon** : Abu Hanifa a vu que le Qiyas apparent s'opposait à un intérêt plus grand, il l'a donc abandonné pour ce qui était plus approprié pour les gens et plus protecteur de leurs droits. C'est l'essence de l'Istihsan : s'écarter du jugement apparent pour une sagesse plus forte.
+
+---
+
+## 🎯 Cas Pratiques Contemporains
+
+### Premier Cas : Le Don d'Organes Après le Décès
+
+**Question** : Le principe est que le corps humain est honoré et qu'il n'est pas permis d'en disposer, quel est donc le statut du don d'organes après la mort ?
+
+**Réponse** : Le Qiyas apparent l'interdit, mais de nombreux juristes contemporains ont préféré (istahsanu) sa permission sous conditions, pour ce qu'il contient de sauvetage d'une vie humaine. L'intérêt de sauver une vie est plus fort que de garder un organe qui va se décomposer.
+
+---
+
+### Deuxième Cas : La Photographie pour les Documents
+
+**Question** : Le Qiyas sur l'image interdite exigerait l'interdiction de la photographie, quel est le statut ?
+
+**Réponse** : Beaucoup de savants ont préféré (istahsanu) sa permission pour le besoin et la nécessité, surtout pour les documents officiels. Le besoin général de prouver l'identité et d'empêcher la falsification est un intérêt qui prime sur le Qiyas apparent.
+
+---
+
+### Troisième Cas : Les Contrats d'Assurance Maladie
+
+**Question** : Le Qiyas sur les jeux de hasard et l'incertitude exigerait l'interdiction de l'assurance, quel est le statut de l'assurance maladie ?
+
+**Réponse** : Certains juristes ont préféré (istahsanu) l'assurance maladie mutualiste pour ce qu'elle contient de solidarité sociale et de protection de l'individu contre les catastrophes sanitaires. L'intérêt réalisé est plus fort que le Qiyas sur l'incertitude pure.
+
+---
+
+### Quatrième Cas : Les Banques Électroniques
+
+**Question** : Le Qiyas sur le change exigerait la remise en main propre dans la séance, comment traiter les transferts bancaires électroniques ?
+
+**Réponse** : Les juristes ont préféré (istahsanu) que la réception électronique tienne lieu de réception réelle, car l'usage moderne la considère comme une réception complète, et l'intérêt exige de faciliter les transactions financières.
+
+---
+
+## 💡 Pause Réflexion
+
+> L'Imam Ash-Shafi'i a dit : "Celui qui fait l'Istihsan a légiféré", tandis qu'Abu Hanifa disait : "Neuf dixièmes du fiqh sont dans l'Istihsan". Comment comprenez-vous ce désaccord ? Pensez-vous que l'Istihsan est un outil nécessaire pour l'ijtihad contemporain, ou qu'il est une porte qui pourrait mener au laxisme dans les règles ?
+
+---
+
 ## Conclusion
 
 L'Istihsan et l'Istishab sont deux preuves du fiqh islamique qui permettent au juriste d'atteindre la règle légale appropriée, tout en respectant les règles de la Sharia et en réalisant ses objectifs de facilitation et de levée de la difficulté.

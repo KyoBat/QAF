@@ -146,6 +146,92 @@ La connaissance des règles juridiques est nécessaire pour tout musulman afin d
 - Distinguer le recommandé de l'obligatoire
 - Éviter les ambiguïtés et pratiquer la piété
 
+---
+
+## 📖 Récits des Salaf
+
+### La Piété d'Abdullah ibn 'Umar dans les Règles
+
+Abdullah ibn 'Umar était l'un des Compagnons les plus pieux et les plus scrupuleux dans les règles. Il disait :
+
+> **"Peu m'importe de délaisser une obligation ou de commettre un interdit, les deux sont graves auprès d'Allah."**
+
+Quand on lui posait une question, il disait : **"Je ne sais pas"**, puis il cherchait et demandait jusqu'à être certain.
+
+De sa piété, il évitait les choses douteuses, ne mangeant pas de nourriture contenant le moindre doute, ni ne portant de vêtement suspect.
+
+On lui posa une fois une question subtile, il dit : **"Demandez à un autre, car je crains de rendre licite ce qui est interdit ou d'interdire ce qui est licite."**
+
+**La leçon** : Les Salaf magnifiaient les cinq règles et les vérifiaient scrupuleusement, craignant de tomber dans l'interdit ou de délaisser l'obligation. Cette piété est le fruit de la compréhension des règles et de la grandeur de la responsabilité devant Allah.
+
+---
+
+### Al-Hasan Al-Basri et la Distinction entre Obligatoire et Recommandé
+
+Un homme vint voir Al-Hasan Al-Basri et dit : "Ô Abu Sa'id, je jeûne beaucoup en tant que volontaire et je prie beaucoup la nuit, mais parfois je manque la prière de l'aube en groupe."
+
+Al-Hasan dit : **"Tu t'es fatigué dans les actes surérogatoires et tu as négligé les obligations ! Allah te demandera des comptes sur ce qu'Il t'a prescrit, non sur ce que tu as fait volontairement."**
+
+Puis il dit : **"Celui qui accomplit les obligations et délaisse les surérogatoires sera sauvé, si Allah le veut. Celui qui fait les surérogatoires et néglige les obligations est perdu."**
+
+**La leçon** : La distinction entre l'obligatoire et le recommandé est nécessaire pour établir les priorités. L'obligation passe avant le recommandé, et il n'est pas permis de s'occuper des surérogatoires au détriment des obligations.
+
+---
+
+## 🎯 Cas Pratiques Contemporains
+
+### Premier Cas : La Prière en Groupe et le Travail
+
+**Question** : Un employé travaille à l'heure de la prière de dhuhr et ne peut pas l'accomplir à la mosquée. Quel est le statut de sa prière seul au travail ?
+
+**Réponse** : La prière en groupe est obligatoire ou sunna confirmée selon la plupart des savants. Mais la prière dans son temps est une obligation certaine. S'il ne peut pas prier en groupe, il prie seul et il ne lui est pas permis de retarder la prière au-delà de son temps. La distinction entre l'obligation absolue (la prière) et l'obligation conditionnelle (le groupe) est nécessaire.
+
+---
+
+### Deuxième Cas : La Zakat ou l'Aumône ?
+
+**Question** : Une personne donne de grandes sommes aux pauvres tout au long de l'année, mais ne paie pas sa zakat avec un calcul précis. Ses aumônes suffisent-elles pour la zakat ?
+
+**Réponse** : L'aumône volontaire ne remplace pas la zakat obligatoire. La zakat est un pilier de l'Islam avec des conditions et des montants précis. L'aumône est surérogatoire. Celui qui multiplie les surérogatoires et délaisse l'obligation a mal établi ses priorités.
+
+---
+
+### Troisième Cas : Le Permis qui Devient Interdit
+
+**Question** : Manger est permis, dans quels cas manger devient-il interdit ?
+
+**Réponse** : Le permis peut devenir interdit par l'intention ou l'effet :
+- Manger avec l'intention de se renforcer pour pécher : interdit
+- Manger jusqu'à l'excès nuisible à la santé : interdit
+- Manger pendant le jour de Ramadan pour le jeûneur : interdit
+- Manger d'un bien usurpé : interdit
+
+La règle change avec le changement de l'intention et des circonstances.
+
+---
+
+### Quatrième Cas : Les Sunnas Confirmées
+
+**Question** : Quelle est la différence pratique entre délaisser une sunna confirmée et une sunna non confirmée ?
+
+**Réponse** : La sunna confirmée (comme le witr et les deux rak'ats de l'aube), si elle est toujours délaissée sans excuse, son auteur est blâmé et critiqué, et certains savants disent qu'il pèche. La sunna non confirmée ne comporte pas de blâme à être délaissée. Mais les deux sont recommandées : leur auteur est récompensé et celui qui les délaisse n'est pas puni.
+
+---
+
+### Cinquième Cas : Les Choses Douteuses entre Licite et Illicite
+
+**Question** : Une nourriture dont je ne sais pas si elle a été abattue selon les règles islamiques, quel est le statut de la manger ?
+
+**Réponse** : Si c'est dans un pays musulman, le principe est la permission car le plus probable est un abattage conforme. Si c'est dans un pays non musulman, le plus prudent est de s'abstenir. La piété dans les choses douteuses est recommandée selon la parole du Prophète ﷺ : **"Celui qui évite les choses douteuses préserve sa religion et son honneur."**
+
+---
+
+## 💡 Pause Réflexion
+
+> Passez en revue votre dernière journée : combien d'actes obligatoires avez-vous accomplis ? Combien d'interdits avez-vous évités ? Combien de recommandés avez-vous faits ou délaissés ? Donnez-vous aux obligations leur priorité sur les recommandés dans votre vie ? Pouvez-vous facilement distinguer entre les cinq règles dans vos actions quotidiennes ?
+
+---
+
 ## Conclusion
 
 Les cinq règles juridiques sont : l'obligatoire (wajib), le recommandé (mandub), l'interdit (haram), le déconseillé (makruh) et le permis (mubah). Elles englobent tous les actes des personnes responsables, et leur connaissance est la base de la pratique de la loi islamique.

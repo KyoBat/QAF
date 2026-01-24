@@ -24,22 +24,27 @@ export function CoursesPageClient({ initialCourses }: CoursesPageClientProps) {
   const searchParams = useSearchParams()
   const router = useRouter()
   const pathname = usePathname()
-  const [filters, setFilters] = useState<Filters>({})
-  const [isLoading, setIsLoading] = useState(true)
-
-  // Initialiser les filtres depuis l'URL
-  useEffect(() => {
+  
+  // Initialiser les filtres directement depuis searchParams (pas de useEffect pour le premier rendu)
+  const getFiltersFromParams = useCallback(() => {
     const category = searchParams.get('category')
     const level = searchParams.get('level')
     const search = searchParams.get('search')
     
-    setFilters({
+    return {
       category: category as Filters['category'] || undefined,
       level: level as Filters['level'] || undefined,
       search: search || undefined,
-    })
-    setIsLoading(false)
+    }
   }, [searchParams])
+  
+  const [filters, setFilters] = useState<Filters>(getFiltersFromParams)
+  const [isLoading, setIsLoading] = useState(false)
+
+  // Synchroniser les filtres si les searchParams changent (ex: navigation back/forward)
+  useEffect(() => {
+    setFilters(getFiltersFromParams())
+  }, [getFiltersFromParams])
 
   // Persister les filtres dans l'URL
   const updateFilters = useCallback((newFilters: Filters) => {
