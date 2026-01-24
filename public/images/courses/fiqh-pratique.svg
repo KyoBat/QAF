@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200">
+  <defs>
+    <linearGradient id="bg-fiqh-p" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#10b981;stop-opacity:0.2" />
+      <stop offset="100%" style="stop-color:#059669;stop-opacity:0.1" />
+    </linearGradient>
+    <linearGradient id="accent-fiqh-p" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#10b981" />
+      <stop offset="100%" style="stop-color:#059669" />
+    </linearGradient>
+    <linearGradient id="blue-accent" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#3b82f6" />
+      <stop offset="100%" style="stop-color:#2563eb" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="400" height="200" fill="url(#bg-fiqh-p)"/>
+  
+  <!-- Decorative pattern -->
+  <g opacity="0.1">
+    <circle cx="360" cy="35" r="65" fill="#10b981"/>
+    <circle cx="45" cy="165" r="45" fill="#059669"/>
+  </g>
+  
+  <!-- Central compass/choice symbol -->
+  <g transform="translate(160, 40)">
+    <circle cx="40" cy="40" r="38" fill="none" stroke="url(#accent-fiqh-p)" stroke-width="3" opacity="0.8"/>
+    <circle cx="40" cy="40" r="30" fill="url(#accent-fiqh-p)" opacity="0.2"/>
+    <!-- Compass directions (4 madhabs) -->
+    <line x1="40" y1="5" x2="40" y2="20" stroke="#10b981" stroke-width="3"/>
+    <line x1="40" y1="60" x2="40" y2="75" stroke="#10b981" stroke-width="2"/>
+    <line x1="5" y1="40" x2="20" y2="40" stroke="#10b981" stroke-width="2"/>
+    <line x1="60" y1="40" x2="75" y2="40" stroke="#10b981" stroke-width="2"/>
+    <!-- Center point -->
+    <circle cx="40" cy="40" r="6" fill="url(#accent-fiqh-p)"/>
+    <!-- Arrow pointing (choice) -->
+    <polygon points="40,12 36,25 44,25" fill="#059669"/>
+  </g>
+  
+  <!-- Daily life icons -->
+  <!-- Prayer mat -->
+  <g transform="translate(50, 70)">
+    <rect x="0" y="0" width="40" height="50" rx="3" fill="url(#accent-fiqh-p)" opacity="0.6"/>
+    <path d="M5 10 Q20 5 35 10 L35 15 Q20 10 5 15 Z" fill="#059669" opacity="0.8"/>
+    <line x1="10" y1="25" x2="30" y2="25" stroke="#059669" stroke-width="1" opacity="0.6"/>
+    <line x1="10" y1="32" x2="30" y2="32" stroke="#059669" stroke-width="1" opacity="0.6"/>
+    <line x1="10" y1="39" x2="30" y2="39" stroke="#059669" stroke-width="1" opacity="0.6"/>
+  </g>
+  
+  <!-- Calendar/Modern life -->
+  <g transform="translate(310, 70)">
+    <rect x="0" y="0" width="40" height="50" rx="3" fill="url(#blue-accent)" opacity="0.6"/>
+    <rect x="5" y="5" width="30" height="8" rx="2" fill="#2563eb" opacity="0.8"/>
+    <g opacity="0.7">
+      <rect x="8" y="18" width="6" height="6" fill="#3b82f6"/>
+      <rect x="17" y="18" width="6" height="6" fill="#3b82f6"/>
+      <rect x="26" y="18" width="6" height="6" fill="#3b82f6"/>
+      <rect x="8" y="28" width="6" height="6" fill="#3b82f6"/>
+      <rect x="17" y="28" width="6" height="6" fill="#10b981"/>
+      <rect x="26" y="28" width="6" height="6" fill="#3b82f6"/>
+      <rect x="8" y="38" width="6" height="6" fill="#3b82f6"/>
+      <rect x="17" y="38" width="6" height="6" fill="#3b82f6"/>
+    </g>
+  </g>
+  
+  <!-- Unity symbol (hands joining) -->
+  <g transform="translate(145, 115)">
+    <path d="M0 30 Q25 0 55 10 Q85 0 110 30" fill="none" stroke="url(#accent-fiqh-p)" stroke-width="3" opacity="0.7"/>
+    <circle cx="55" cy="10" r="8" fill="url(#accent-fiqh-p)" opacity="0.8"/>
+    <circle cx="25" cy="18" r="5" fill="#10b981" opacity="0.6"/>
+    <circle cx="85" cy="18" r="5" fill="#10b981" opacity="0.6"/>
+  </g>
+  
+  <!-- 21st century hint -->
+  <g transform="translate(175, 155)">
+    <text text-anchor="middle" x="25" y="12" font-family="sans-serif" font-size="14" fill="#059669" opacity="0.8">21</text>
+    <text text-anchor="middle" x="25" y="26" font-family="sans-serif" font-size="9" fill="#059669" opacity="0.6">ème siècle</text>
+  </g>
+  
+  <!-- Arabic text decoration -->
+  <text x="200" y="193" text-anchor="middle" font-family="serif" font-size="16" fill="#10b981" opacity="0.7">
+    الفقه العملي
+  </text>
+</svg>

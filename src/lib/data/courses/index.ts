@@ -11,11 +11,15 @@ import { aqeedah2Course } from './aqeedah-2'
 import { seerahModule1Course } from './seerah-module-1'
 import { seerahModule2Course } from './seerah-module-2'
 import { seerahModule3Course } from './seerah-module-3'
+import { seerahModule4Course } from './seerah-module-4'
+import { seerahModule5Course } from './seerah-module-5'
 import { hadithCourse } from './hadith'
 import { siyamCourse } from './siyam'
 import { hajjCourse } from './hajj'
 import { historyImamsCourse } from './history'
 import { historyCompanionsCourse } from './history-companions'
+import { historyBiographiesCourse } from './history-biographies'
+import { historyFiqhPratiqueCourse } from './history-fiqh-pratique'
 import { adiaModule1Course, adiaModule2Course, adiaModule3Course, adiaModule4Course } from './adia'
 
 // Export des types
@@ -29,11 +33,15 @@ export { aqeedah2Course } from './aqeedah-2'
 export { seerahModule1Course } from './seerah-module-1'
 export { seerahModule2Course } from './seerah-module-2'
 export { seerahModule3Course } from './seerah-module-3'
+export { seerahModule4Course } from './seerah-module-4'
+export { seerahModule5Course } from './seerah-module-5'
 export { hadithCourse } from './hadith'
 export { siyamCourse } from './siyam'
 export { hajjCourse } from './hajj'
 export { historyImamsCourse } from './history'
 export { historyCompanionsCourse } from './history-companions'
+export { historyBiographiesCourse } from './history-biographies'
+export { historyFiqhPratiqueCourse } from './history-fiqh-pratique'
 export { adiaModule1Course, adiaModule2Course, adiaModule3Course, adiaModule4Course } from './adia'
 
 // Export de la liste complète des cours
@@ -44,6 +52,8 @@ export const coursesData: Course[] = [
   adiaModule4Course,
   hadithCourse,
   historyImamsCourse,
+  historyBiographiesCourse,
+  historyFiqhPratiqueCourse,
   historyCompanionsCourse,
   tajweedCourse,
   fiqhPurificationCourse,
@@ -55,6 +65,8 @@ export const coursesData: Course[] = [
   seerahModule1Course,
   seerahModule2Course,
   seerahModule3Course,
+  seerahModule4Course,
+  seerahModule5Course,
   siyamCourse,
   hajjCourse,
 ]

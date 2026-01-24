@@ -163,9 +163,9 @@ Les musulmans étaient assiégés de toutes parts :
 > 
 > Les deux guerriers se rencontrèrent... la poussière s'éleva... puis on entendit le takbîr de 'Alî !
 > 
-> 'Alî tua 'Amr ibn Wudd, et le Prophète ﷺ dit : "Le coup de 'Alî le jour de la Tranchée vaut mieux que l'adoration des deux mondes !"
+> 'Alî tua 'Amr ibn Wudd, brisant le moral des Coalisés. Ce duel héroïque fut l'un des moments décisifs du siège.
 > 
-> — **Source : Al-Mustadrak 'alâ as-Sahîhayn**
+> — **Source : Sîra d'Ibn Hichâm**
 
 ---
 

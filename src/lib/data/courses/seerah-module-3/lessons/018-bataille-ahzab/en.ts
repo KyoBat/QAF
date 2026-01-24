@@ -163,9 +163,9 @@ The Muslims were besieged from all sides:
 > 
 > The two warriors met... dust rose... then 'Alî's takbîr was heard!
 > 
-> 'Alî killed 'Amr ibn Wudd, and the Prophet ﷺ said: "'Alî's strike on the day of the Trench is better than the worship of the two worlds!"
+> 'Alî killed 'Amr ibn Wudd, breaking the morale of the Confederates. This heroic duel was one of the decisive moments of the siege.
 > 
-> — **Source: Al-Mustadrak 'alâ as-Sahîhayn**
+> — **Source: Sīra of Ibn Hishām**
 
 ---
 
