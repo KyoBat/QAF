@@ -1,9 +1,10 @@
-export const lessonFatimaFr = {
-  title: 'Fāṭima al-Zahrā\' — La Dame du Paradis',
-  content: `
-# Fāṭima al-Zahrā' رضي الله عنها — سيدة نساء أهل الجنة
+/**
+ * Les Femmes Héroïques de l'Islam - Leçon 003 : Fāṭima al-Zahrā' — La Dame du Paradis
+ * فاطمة الزهراء — سيدة نساء أهل الجنة
+ */
 
-![Fatima](https://images.unsplash.com/photo-1585036156171-384164a8c675?w=1200)
+export const content = `
+# Fāṭima al-Zahrā' رضي الله عنها — سيدة نساء أهل الجنة
 
 > **« Fāṭima est une partie de moi. Ce qui l'irrite m'irrite. »**
 > — *Le Prophète ﷺ, rapporté par Al-Bukhārī et Muslim*
@@ -261,5 +262,4 @@ Fāṭima al-Zahrā' رضي الله عنها est la **chaîne** entre le Proph�
 
 **رضي الله عنها وأرضاها**
 *Qu'Allah soit satisfait d'elle et la satisfasse*
-`,
-};
+`;

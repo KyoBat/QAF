@@ -1,9 +1,10 @@
-export const lessonSavantesEn = {
-  title: 'The Scholar Women — Transmitters of Knowledge',
-  content: `
-# The Scholar Women رضي الله عنهن — Guardians of Islamic Knowledge
+/**
+ * Les Femmes Héroïques de l'Islam - Leçon 006 : Les Femmes Savantes — Transmetteuses du Savoir
+ * النساء العالمات — ناقلات العلم
+ */
 
-![Scholars](https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=1200)
+export const content = `
+# The Scholar Women رضي الله عنهن — Guardians of Islamic Knowledge
 
 > **"Take half of your religion from this Ḥumayra' (red-cheeked one)."**
 > — *Attributed to the Companions about 'Āisha رضي الله عنها*
@@ -268,5 +269,4 @@ The scholar women of Islam — from 'Āisha to the muḥaddithāt of Damascus �
 
 **May Allah be pleased with them all**
 *رضي الله عنهن أجمعين*
-`,
-};
+`;

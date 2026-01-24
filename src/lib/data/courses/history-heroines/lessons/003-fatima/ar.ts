@@ -1,9 +1,10 @@
-export const lessonFatimaAr = {
-  title: 'فاطمة الزهراء — سيدة نساء أهل الجنة',
-  content: `
-# فاطمة الزهراء رضي الله عنها — سيدة نساء العالمين
+/**
+ * Les Femmes Héroïques de l'Islam - Leçon 003 : Fāṭima al-Zahrā' — La Dame du Paradis
+ * فاطمة الزهراء — سيدة نساء أهل الجنة
+ */
 
-![فاطمة](https://images.unsplash.com/photo-1585036156171-384164a8c675?w=1200)
+export const content = `
+# فاطمة الزهراء رضي الله عنها — سيدة نساء العالمين
 
 > **« فاطمة بَضعة منّي، فمن أغضبها أغضبني »**
 > — *النبي ﷺ، رواه البخاري ومسلم*
@@ -226,5 +227,4 @@ export const lessonFatimaAr = {
 ---
 
 **رضي الله عنها وأرضاها**
-`,
-};
+`;

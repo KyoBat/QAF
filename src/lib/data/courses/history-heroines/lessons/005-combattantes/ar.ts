@@ -1,9 +1,10 @@
-export const lessonCombattantesAr = {
-  title: 'النساء المحاربات — نُسَيْبة والمجاهدات',
-  content: `
-# النساء المحاربات رضي الله عنهن — لَبُؤات المعارك
+/**
+ * Les Femmes Héroïques de l'Islam - Leçon 005 : Les Femmes Guerrières — Nusayba et les Combattantes
+ * النساء المحاربات — نُسَيْبة والمجاهدات
+ */
 
-![المحاربات](https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=1200)
+export const content = `
+# النساء المحاربات رضي الله عنهن — لَبُؤات المعارك
 
 > **« ما التفتُّ يمينًا ولا شمالًا إلا وأنا أراها تقاتل دوني »**
 > — *النبي ﷺ عن نُسَيْبة في أُحُد*
@@ -292,5 +293,4 @@ export const lessonCombattantesAr = {
 ---
 
 **رضي الله عنهن أجمعين**
-`,
-};
+`;

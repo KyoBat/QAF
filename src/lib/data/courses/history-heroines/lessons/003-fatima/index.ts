@@ -1,19 +1,19 @@
 import { Lesson } from '../../../types';
-import { lessonFatimaFr } from './fr';
-import { lessonFatimaAr } from './ar';
-import { lessonFatimaEn } from './en';
+import { content as contentFr } from './fr';
+import { content as contentAr } from './ar';
+import { content as contentEn } from './en';
 
 export const lesson003: Lesson = {
   id: 'heroines-003-fatima',
   title: {
-    fr: lessonFatimaFr.title,
-    ar: lessonFatimaAr.title,
-    en: lessonFatimaEn.title,
+    fr: "Fāṭima al-Zahrā' — La Dame du Paradis",
+    ar: 'فاطمة الزهراء — سيدة نساء أهل الجنة',
+    en: "Fāṭima al-Zahrā' — The Lady of Paradise",
   },
   content: {
-    fr: lessonFatimaFr.content,
-    ar: lessonFatimaAr.content,
-    en: lessonFatimaEn.content,
+    fr: contentFr,
+    ar: contentAr,
+    en: contentEn,
   },
   duration: '40 min',
   order: 3,

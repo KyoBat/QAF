@@ -1,9 +1,10 @@
-export const lessonSavantesFr = {
-  title: 'Les Femmes Savantes — Transmetteuses du Savoir',
-  content: `
-# Les Femmes Savantes رضي الله عنهن — Gardiennes de la Science Islamique
+/**
+ * Les Femmes Héroïques de l'Islam - Leçon 006 : Les Femmes Savantes — Transmetteuses du Savoir
+ * النساء العالمات — ناقلات العلم
+ */
 
-![Savantes](https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=1200)
+export const content = `
+# Les Femmes Savantes رضي الله عنهن — Gardiennes de la Science Islamique
 
 > **« Prenez la moitié de votre religion de cette Ḥumayra' (rougeaude). »**
 > — *Attribué aux Compagnons sur 'Āisha رضي الله عنها*
@@ -313,5 +314,4 @@ Les femmes savantes de l'Islam — de 'Āisha aux muḥaddithāt de Damas — pr
 
 **رضي الله عنهن أجمعين**
 *Qu'Allah soit satisfait d'elles toutes*
-`,
-};
+`;

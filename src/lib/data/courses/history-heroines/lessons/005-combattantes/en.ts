@@ -1,9 +1,10 @@
-export const lessonCombattantesEn = {
-  title: 'The Warrior Women — Nusayba and the Fighters',
-  content: `
-# The Warrior Women رضي الله عنهن — The Lionesses of Battle
+/**
+ * Les Femmes Héroïques de l'Islam - Leçon 005 : Les Femmes Guerrières — Nusayba et les Combattantes
+ * النساء المحاربات — نُسَيْبة والمجاهدات
+ */
 
-![Fighters](https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=1200)
+export const content = `
+# The Warrior Women رضي الله عنهن — The Lionesses of Battle
 
 > **"Wherever I turned, to my right or my left, I saw her fighting in front of me."**
 > — *The Prophet ﷺ about Nusayba at the Battle of Uhud*
@@ -244,5 +245,4 @@ The Prophet ﷺ praised them, prayed for them, and promoted them as examples.
 
 **May Allah be pleased with them all**
 *رضي الله عنهن أجمعين*
-`,
-};
+`;

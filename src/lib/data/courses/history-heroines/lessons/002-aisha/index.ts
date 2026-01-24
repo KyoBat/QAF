@@ -1,19 +1,19 @@
 import { Lesson } from '../../../types';
-import { lessonAishaFr } from './fr';
-import { lessonAishaAr } from './ar';
-import { lessonAishaEn } from './en';
+import { content as contentFr } from './fr';
+import { content as contentAr } from './ar';
+import { content as contentEn } from './en';
 
 export const lesson002: Lesson = {
   id: 'heroines-002-aisha',
   title: {
-    fr: lessonAishaFr.title,
-    ar: lessonAishaAr.title,
-    en: lessonAishaEn.title,
+    fr: "'Āisha bint Abī Bakr — La Savante de l'Umma",
+    ar: 'عائشة بنت أبي بكر — عالمة الأمة',
+    en: "'Āisha bint Abī Bakr — The Scholar of the Umma",
   },
   content: {
-    fr: lessonAishaFr.content,
-    ar: lessonAishaAr.content,
-    en: lessonAishaEn.content,
+    fr: contentFr,
+    ar: contentAr,
+    en: contentEn,
   },
   duration: '45 min',
   order: 2,

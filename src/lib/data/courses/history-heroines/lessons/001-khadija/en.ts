@@ -1,20 +1,24 @@
-export const lessonKhadijaEn = {
-  title: 'Khadīja bint Khuwaylid — The First Believer',
-  content: `
-# Khadīja bint Khuwaylid رضي الله عنها — The First Mother of the Believers
+/**
+ * Heroic Women of Islam - Lesson 001: Khadīja bint Khuwaylid
+ * خديجة بنت خويلد رضي الله عنها
+ * 
+ * The First Believer — أم المؤمنين الأولى
+ */
 
-![Khadija](https://images.unsplash.com/photo-1585036156171-384164a8c675?w=1200)
+export const content = `# 📜 خَدِيجَةُ بِنْتُ خُوَيْلِد — Khadīja bint Khuwaylid, The First Believer
 
-> **"Allah granted me love for Khadīja."**
-> — *The Prophet ﷺ, reported by Muslim*
+> **« رُزِقْتُ حُبَّهَا »**
+> 
+> "Allah granted me love for Khadīja."
+> — **[Muslim 2435]**
 
 ---
 
-## Introduction: The Exceptional Woman
+## 🎬 Introduction
 
 Khadīja bint Khuwaylid رضي الله عنها is more than just a wife of the Prophet ﷺ — she is the **cornerstone** of nascent Islam. First to believe, last to doubt, she embodies perfect faith, unwavering support, and remarkable intelligence.
 
-### Titles of Honor
+### 📋 Titles of Honor
 
 | Title | Meaning |
 |-------|---------|
@@ -203,5 +207,4 @@ Khadīja bint Khuwaylid رضي الله عنها remains for eternity the **firs
 
 **May Allah be pleased with her**
 *رضي الله عنها وأرضاها*
-`,
-};
+`;

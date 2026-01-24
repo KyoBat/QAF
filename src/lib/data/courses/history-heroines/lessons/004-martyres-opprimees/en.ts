@@ -1,9 +1,10 @@
-export const lessonMartyresEn = {
-  title: 'The First Martyrs — Sumayyah and the Oppressed',
-  content: `
-# The First Martyrs رضي الله عنهن — Faith Stronger Than Torture
+/**
+ * Les Femmes Héroïques de l'Islam - Leçon 004 : Les Premières Martyres — Sumayyah et les Opprimées
+ * الشهيدات الأوائل — سُمَيَّة والمُستضعَفات
+ */
 
-![Martyrs](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200)
+export const content = `
+# The First Martyrs رضي الله عنهن — Faith Stronger Than Torture
 
 > **"Patience, O family of Yāsir! Your appointment is in Paradise."**
 > — *The Prophet ﷺ to the martyrs of Mecca*
@@ -219,5 +220,4 @@ Their blood irrigated the foundations of Islam.
 
 **May Allah be pleased with them all**
 *رضي الله عنهن أجمعين*
-`,
-};
+`;

@@ -1,9 +1,10 @@
-export const lessonMartyresAr = {
-  title: 'الشهيدات الأوائل — سُمَيَّة والمُستضعَفات',
-  content: `
-# الشهيدات الأوائل رضي الله عنهن — الإيمان أقوى من التعذيب
+/**
+ * Les Femmes Héroïques de l'Islam - Leçon 004 : Les Premières Martyres — Sumayyah et les Opprimées
+ * الشهيدات الأوائل — سُمَيَّة والمُستضعَفات
+ */
 
-![الشهيدات](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200)
+export const content = `
+# الشهيدات الأوائل رضي الله عنهن — الإيمان أقوى من التعذيب
 
 > **« صبرًا آل ياسر، فإن موعدكم الجنة »**
 > — *النبي ﷺ لشهداء مكة*
@@ -256,5 +257,4 @@ export const lessonMartyresAr = {
 ---
 
 **رضي الله عنهن أجمعين**
-`,
-};
+`;

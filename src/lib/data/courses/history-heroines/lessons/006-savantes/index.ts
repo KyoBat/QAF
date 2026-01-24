@@ -1,19 +1,19 @@
 import { Lesson } from '../../../types';
-import { lessonSavantesFr } from './fr';
-import { lessonSavantesAr } from './ar';
-import { lessonSavantesEn } from './en';
+import { content as contentFr } from './fr';
+import { content as contentAr } from './ar';
+import { content as contentEn } from './en';
 
 export const lesson006: Lesson = {
   id: 'heroines-006-savantes',
   title: {
-    fr: lessonSavantesFr.title,
-    ar: lessonSavantesAr.title,
-    en: lessonSavantesEn.title,
+    fr: 'Les Femmes Savantes — Transmetteuses du Savoir',
+    ar: 'النساء العالمات — ناقلات العلم',
+    en: 'The Scholar Women — Transmitters of Knowledge',
   },
   content: {
-    fr: lessonSavantesFr.content,
-    ar: lessonSavantesAr.content,
-    en: lessonSavantesEn.content,
+    fr: contentFr,
+    ar: contentAr,
+    en: contentEn,
   },
   duration: '45 min',
   order: 6,

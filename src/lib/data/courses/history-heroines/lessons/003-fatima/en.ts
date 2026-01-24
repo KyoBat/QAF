@@ -1,9 +1,10 @@
-export const lessonFatimaEn = {
-  title: 'Fāṭima al-Zahrā\' — The Lady of Paradise',
-  content: `
-# Fāṭima al-Zahrā' رضي الله عنها — Leader of the Women of Paradise
+/**
+ * Les Femmes Héroïques de l'Islam - Leçon 003 : Fāṭima al-Zahrā' — La Dame du Paradis
+ * فاطمة الزهراء — سيدة نساء أهل الجنة
+ */
 
-![Fatima](https://images.unsplash.com/photo-1585036156171-384164a8c675?w=1200)
+export const content = `
+# Fāṭima al-Zahrā' رضي الله عنها — Leader of the Women of Paradise
 
 > **"Fāṭima is a part of me. Whatever upsets her upsets me."**
 > — *The Prophet ﷺ, reported by Al-Bukhārī and Muslim*
@@ -203,5 +204,4 @@ Fāṭima al-Zahrā' رضي الله عنها is the **link** between the Prophe
 
 **May Allah be pleased with her**
 *رضي الله عنها وأرضاها*
-`,
-};
+`;

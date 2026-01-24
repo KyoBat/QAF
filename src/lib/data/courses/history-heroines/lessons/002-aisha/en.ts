@@ -1,9 +1,10 @@
-export const lessonAishaEn = {
-  title: '\'Āisha bint Abī Bakr — The Scholar of the Umma',
-  content: `
-# 'Āisha bint Abī Bakr رضي الله عنها — The Great Scholar
+/**
+ * Les Femmes Héroïques de l'Islam - Leçon 002 : 'Āisha bint Abī Bakr — La Savante de l'Umma
+ * عائشة بنت أبي بكر — عالمة الأمة
+ */
 
-![Aisha](https://images.unsplash.com/photo-1585036156171-384164a8c675?w=1200)
+export const content = `
+# 'Āisha bint Abī Bakr رضي الله عنها — The Great Scholar
 
 > **"Take half of your religion from this Humayrā'."**
 > — *Statement attributed to the Companions about 'Āisha*
@@ -197,5 +198,4 @@ After the Prophet's ﷺ death, 'Āisha lived **47 years** during which she:
 
 **May Allah be pleased with her**
 *رضي الله عنها وأرضاها*
-`,
-};
+`;

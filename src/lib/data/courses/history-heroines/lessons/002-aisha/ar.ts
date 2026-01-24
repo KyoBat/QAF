@@ -1,9 +1,10 @@
-export const lessonAishaAr = {
-  title: 'عائشة بنت أبي بكر — عالمة الأمة',
-  content: `
-# عائشة بنت أبي بكر رضي الله عنها — المُحدِّثة الفقيهة
+/**
+ * Les Femmes Héroïques de l'Islam - Leçon 002 : 'Āisha bint Abī Bakr — La Savante de l'Umma
+ * عائشة بنت أبي بكر — عالمة الأمة
+ */
 
-![عائشة](https://images.unsplash.com/photo-1585036156171-384164a8c675?w=1200)
+export const content = `
+# عائشة بنت أبي بكر رضي الله عنها — المُحدِّثة الفقيهة
 
 > **« خذوا نصف دينكم عن هذه الحُميراء »**
 > — *قول يُنسب للصحابة عن عائشة*
@@ -224,5 +225,4 @@ export const lessonAishaAr = {
 ---
 
 **رضي الله عنها وأرضاها**
-`,
-};
+`;

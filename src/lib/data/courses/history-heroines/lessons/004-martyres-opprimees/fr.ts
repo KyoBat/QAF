@@ -1,9 +1,10 @@
-export const lessonMartyresFr = {
-  title: 'Les Premières Martyres — Sumayyah et les Opprimées',
-  content: `
-# Les Premières Martyres رضي الله عنهن — La Foi Plus Forte que la Torture
+/**
+ * Les Femmes Héroïques de l'Islam - Leçon 004 : Les Premières Martyres — Sumayyah et les Opprimées
+ * الشهيدات الأوائل — سُمَيَّة والمُستضعَفات
+ */
 
-![Martyres](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200)
+export const content = `
+# Les Premières Martyres رضي الله عنهن — La Foi Plus Forte que la Torture
 
 > **« Patience, ô famille de Yāsir ! Votre rendez-vous est au Paradis. »**
 > — *Le Prophète ﷺ aux martyrs de La Mecque*
@@ -285,5 +286,4 @@ Leur sang irrigua les fondations de l'Islam.
 
 **رضي الله عنهن أجمعين**
 *Qu'Allah soit satisfait d'elles toutes*
-`,
-};
+`;

@@ -1,9 +1,10 @@
-export const lessonAishaFr = {
-  title: '\'Āisha bint Abī Bakr — La Savante de l\'Umma',
-  content: `
-# 'Āisha bint Abī Bakr رضي الله عنها — المُحدِّثة الفقيهة
+/**
+ * Les Femmes Héroïques de l'Islam - Leçon 002 : 'Āisha bint Abī Bakr — La Savante de l'Umma
+ * عائشة بنت أبي بكر — عالمة الأمة
+ */
 
-![Aisha](https://images.unsplash.com/photo-1585036156171-384164a8c675?w=1200)
+export const content = `
+# 'Āisha bint Abī Bakr رضي الله عنها — المُحدِّثة الفقيهة
 
 > **« Prenez la moitié de votre religion de cette Humayrā'. »**
 > — *Parole attribuée aux Compagnons à propos de 'Āisha*
@@ -265,5 +266,4 @@ Après la mort du Prophète ﷺ, 'Āisha vécut **47 ans** durant lesquels elle 
 
 **رضي الله عنها وأرضاها**
 *Qu'Allah soit satisfait d'elle et la satisfasse*
-`,
-};
+`;

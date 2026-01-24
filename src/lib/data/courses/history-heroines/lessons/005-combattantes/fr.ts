@@ -1,9 +1,10 @@
-export const lessonCombattantesFr = {
-  title: 'Les Femmes Guerrières — Nusayba et les Combattantes',
-  content: `
-# Les Femmes Guerrières رضي الله عنهن — Les Lionnes des Batailles
+/**
+ * Les Femmes Héroïques de l'Islam - Leçon 005 : Les Femmes Guerrières — Nusayba et les Combattantes
+ * النساء المحاربات — نُسَيْبة والمجاهدات
+ */
 
-![Combattantes](https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=1200)
+export const content = `
+# Les Femmes Guerrières رضي الله عنهن — Les Lionnes des Batailles
 
 > **« Où que je me retournais, à droite ou à gauche, je la voyais combattre devant moi. »**
 > — *Le Prophète ﷺ sur Nusayba à la bataille d'Uhud*
@@ -293,5 +294,4 @@ Le Prophète ﷺ les loua, pria pour elles, et les promut en exemples.
 
 **رضي الله عنهن أجمعين**
 *Qu'Allah soit satisfait d'elles toutes*
-`,
-};
+`;

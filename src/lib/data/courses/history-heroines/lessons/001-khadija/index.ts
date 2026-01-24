@@ -1,19 +1,19 @@
 import { Lesson } from '../../../types';
-import { lessonKhadijaFr } from './fr';
-import { lessonKhadijaAr } from './ar';
-import { lessonKhadijaEn } from './en';
+import { content as contentFr } from './fr';
+import { content as contentAr } from './ar';
+import { content as contentEn } from './en';
 
 export const lesson001: Lesson = {
   id: 'heroines-001-khadija',
   title: {
-    fr: lessonKhadijaFr.title,
-    ar: lessonKhadijaAr.title,
-    en: lessonKhadijaEn.title,
+    fr: 'Khadīja bint Khuwaylid — La Première Croyante',
+    ar: 'خديجة بنت خويلد — أم المؤمنين الأولى',
+    en: 'Khadīja bint Khuwaylid — The First Believer',
   },
   content: {
-    fr: lessonKhadijaFr.content,
-    ar: lessonKhadijaAr.content,
-    en: lessonKhadijaEn.content,
+    fr: contentFr,
+    ar: contentAr,
+    en: contentEn,
   },
   duration: '40 min',
   order: 1,
