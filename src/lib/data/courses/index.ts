@@ -8,6 +8,7 @@ import { tajweedCourse } from './tajweed'
 import { fiqhPurificationCourse, fiqhSalatCourse, fiqhSalawatKhassaCourse, fiqhZakatCourse } from './fiqh'
 import { aqeedahCourse } from './aqeedah'
 import { aqeedah2Course } from './aqeedah-2'
+import { aqeedahAdvancedCourse } from './aqeedah-advanced'
 import { seerahModule1Course } from './seerah-module-1'
 import { seerahModule2Course } from './seerah-module-2'
 import { seerahModule3Course } from './seerah-module-3'
@@ -20,6 +21,7 @@ import { historyImamsCourse } from './history'
 import { historyCompanionsCourse } from './history-companions'
 import { historyBiographiesCourse } from './history-biographies'
 import { historyFiqhPratiqueCourse } from './history-fiqh-pratique'
+import { historyHeroinesCourse } from './history-heroines'
 import { adiaModule1Course, adiaModule2Course, adiaModule3Course, adiaModule4Course } from './adia'
 
 // Export des types
@@ -30,6 +32,7 @@ export { tajweedCourse } from './tajweed'
 export { fiqhPurificationCourse, fiqhSalatCourse, fiqhSalawatKhassaCourse, fiqhZakatCourse } from './fiqh'
 export { aqeedahCourse } from './aqeedah'
 export { aqeedah2Course } from './aqeedah-2'
+export { aqeedahAdvancedCourse } from './aqeedah-advanced'
 export { seerahModule1Course } from './seerah-module-1'
 export { seerahModule2Course } from './seerah-module-2'
 export { seerahModule3Course } from './seerah-module-3'
@@ -42,6 +45,7 @@ export { historyImamsCourse } from './history'
 export { historyCompanionsCourse } from './history-companions'
 export { historyBiographiesCourse } from './history-biographies'
 export { historyFiqhPratiqueCourse } from './history-fiqh-pratique'
+export { historyHeroinesCourse } from './history-heroines'
 export { adiaModule1Course, adiaModule2Course, adiaModule3Course, adiaModule4Course } from './adia'
 
 // Export de la liste complète des cours
@@ -55,6 +59,7 @@ export const coursesData: Course[] = [
   historyBiographiesCourse,
   historyFiqhPratiqueCourse,
   historyCompanionsCourse,
+  historyHeroinesCourse,
   tajweedCourse,
   fiqhPurificationCourse,
   fiqhSalatCourse,
@@ -62,6 +67,7 @@ export const coursesData: Course[] = [
   fiqhZakatCourse,
   aqeedahCourse,
   aqeedah2Course,
+  aqeedahAdvancedCourse,
   seerahModule1Course,
   seerahModule2Course,
   seerahModule3Course,
