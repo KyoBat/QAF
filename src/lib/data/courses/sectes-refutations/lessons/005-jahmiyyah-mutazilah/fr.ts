@@ -124,4 +124,83 @@ Sous le règne d'al-Ma'mun (218H), le calife adopta le dogme mu'tazilite et mit 
 
 ---
 
+## 📖 Récits des Salaf : La fermeté de l'Imam Ahmad dans l'épreuve
+
+Quand le calife al-Ma'mun adopta le dogme des Mu'tazilah sur la création du Coran, il mit les savants à l'épreuve et les força à professer cette doctrine. L'Imam Ahmad ibn Hanbal رحمه الله fut convoqué.
+
+On lui dit : *"Dis : Le Coran est créé !"* Il refusa.
+
+Il fut emprisonné et fouetté jusqu'à l'évanouissement, mais il ne bougea pas de la vérité.
+
+L'Imam Ahmad dit : *"Si le savant répond par dissimulation et l'ignorant par ignorance, quand donc la vérité sera-t-elle manifeste ?"*
+
+Quelqu'un lui dit en prison : *"Ô Abu 'Abdullah, reposez-vous et dites-le de vos langues tandis que vos cœurs sont sereins !"*
+
+Ahmad répondit : *"Si le savant répond par la dissimulation et l'ignorant par l'ignorance, quand la vérité apparaîtra-t-elle ?"*
+
+L'épreuve dura dix-huit mois, et l'Imam Ahmad resta ferme, devenant ainsi une cause de préservation de la Sunnah.
+
+**La leçon à retenir** : La fermeté sur la vérité en temps de tribulation est le plus grand jihad. Sans la fermeté d'Ahmad, la croyance de la Oumma aurait été perdue.
+
+---
+
+## 🎯 Cas pratiques contemporains : Les effets du Mu'tazilisme et du Jahmisme
+
+### Cas 1 : L'interprétation allégorique des attributs
+Quelqu'un dit : *"La Main dans le Coran signifie la puissance, et l'Établissement (Istawa) signifie la domination, car Allah est exempt de la corporéité !"*
+
+**Question** : Cette interprétation allégorique est-elle correcte ?
+
+**Réponse** : ❌ Non. C'est l'interprétation des Mu'tazilah et des Jahmiyyah. La méthodologie des Salaf : Affirmer les attributs tels qu'ils sont venus, sans déformation ni négation, et sans modalité ni ressemblance.
+
+---
+
+### Cas 2 : Le destin et la responsabilité
+Quelqu'un dit : *"Si Allah a décrété le péché pour moi, pourquoi me jugera-t-Il ? Je suis contraint !"*
+
+**Question** : L'être humain est-il contraint dans ses actes ?
+
+**Réponse** : ❌ Non. C'est l'ambiguïté des Jabriyyah. La vérité est qu'Allah est le Créateur de toute chose, y compris les actes des serviteurs, mais le serviteur a une volonté et un choix pour lesquels il sera jugé.
+
+---
+
+### Cas 3 : Le jugement par la raison
+Un philosophe dit : *"La raison est le premier juge, et ce qui contredit la raison dans les textes doit être rejeté ou interprété !"*
+
+**Question** : La raison prime-t-elle sur le texte ?
+
+**Réponse** : ❌ Non. C'est le principe du Mu'tazilisme. Selon Ahl as-Sunnah : La raison saine ne contredit pas la révélation authentique, et quand on imagine une contradiction, on donne la priorité au texte.
+
+---
+
+### Cas 4 : La négation de la vision d'Allah
+Quelqu'un dit : *"Il est impossible de voir Allah le Jour de la Résurrection car la vision implique la corporéité !"*
+
+**Question** : Ahl as-Sunnah nie-t-elle la vision d'Allah le Jour de la Résurrection ?
+
+**Réponse** : ❌ Non. La vision d'Allah le Jour de la Résurrection est établie par le Coran et la Sunnah mutawatir. Allah تعالى dit : {Des visages ce jour-là seront rayonnants * Contemplant leur Seigneur}. Les Mu'tazilah l'ont niée en suivant leurs principes corrompus.
+
+---
+
+### Cas 5 : Le Noble Coran
+Un étudiant demande : *"Quelle est la différence entre notre affirmation que le Coran est la Parole d'Allah et l'affirmation des Mu'tazilah qu'il est créé ?"*
+
+**Question** : Pourquoi cette question est-elle importante ?
+
+**Réponse** : ✅ Parce que l'affirmation que le Coran est créé implique qu'Allah était privé de la parole puis a parlé, ce qui est un défaut. Ahl as-Sunnah dit : Le Coran est véritablement la Parole d'Allah, Il l'a prononcé سبحانه, il n'est pas créé.
+
+---
+
+## 💡 Pause réflexion
+
+**Question personnelle** : Si tu avais vécu à l'époque de l'Imam Ahmad et que tu avais été soumis à l'épreuve... aurais-tu tenu ferme ou aurais-tu usé d'interprétation ?
+
+**Rappel :**
+- La croyance saine nécessite parfois un sacrifice pour la préserver
+- Ne place pas ta raison au-dessus des textes de la révélation
+- Apprends la croyance des Salaf de ses sources authentiques
+- Méfie-toi des ambiguïtés théologiques répandues aujourd'hui
+
+---
+
 *Ô Seigneur, augmente ma science*`;

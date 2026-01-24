@@ -141,7 +141,71 @@ const content = `
 
 ---
 
-## 📚 Sources
+## � Récit des Salaf : Handhala, Abu Bakr et la fluctuation de la foi
+
+<div class="story-box">
+
+**À Médine**, Handhala al-Usayyidî رضي الله عنه vint voir Abu Bakr as-Siddîq رضي الله عنه, affolé...
+
+Handhala dit : **« Handhala est devenu hypocrite, ô Abu Bakr ! »**
+
+Abu Bakr dit : Subhân Allâh ! Que dis-tu ?!
+
+Handhala dit : **« Nous sommes chez le Messager d'Allah ﷺ, il nous rappelle le Feu et le Paradis comme si nous les voyions. Puis quand nous quittons le Messager d'Allah ﷺ, nous nous occupons des épouses, des enfants et des affaires, et nous oublions beaucoup ! »**
+
+Abu Bakr dit : **« Par Allah, nous ressentons la même chose ! »**
+
+Ils allèrent voir le Prophète ﷺ et Handhala lui dit ce qu'il avait dit...
+
+Le Prophète ﷺ dit : **« Par Celui qui tient mon âme dans Sa main, si vous restiez dans l'état où vous êtes auprès de moi et dans le rappel, les anges vous serreraient la main dans vos lits et sur vos chemins. Mais ô Handhala : une heure et une heure. »** (Rapporté par Muslim)
+
+</div>
+
+**📌 La leçon à retenir** : Même les Compagnons ressentaient la fluctuation de la foi ! C'est naturel. L'important est de renouveler ta foi et de ne pas te laisser aller à l'insouciance.
+
+---
+
+## 🎯 Cas pratiques contemporains : Augmentation et diminution de la foi
+
+### Cas 1 : Après Ramadan
+
+**Situation** : Un musulman priait la nuit, récitait le Coran et faisait l'aumône pendant Ramadan. Mais dès la fin du Ramadan, il a tout abandonné !
+
+**Question** : Qu'est-il arrivé à sa foi ?
+
+**Réponse** : ❌ Sa foi a **diminué** en abandonnant les actes d'obéissance.
+
+✅ **Le remède** : Continuer certaines adorations même en moindre quantité. Le Prophète ﷺ a dit : **« Les œuvres les plus aimées d'Allah sont les plus régulières, même si elles sont peu nombreuses. »** (Al-Bukhârî)
+
+---
+
+### Cas 2 : Le regard vers l'illicite
+
+**Situation** : Un jeune dit : « Je ressens une dureté dans mon cœur et je ne trouve plus de plaisir dans la prière comme avant ! »
+
+Il s'avère qu'il laisse son regard errer vers l'illicite et regarde ce qui n'est pas permis.
+
+**Question** : Quelle est la cause de la dureté de son cœur ?
+
+**Réponse** : Les péchés diminuent la foi et endurcissent le cœur.
+
+Ibn al-Qayyim a dit : **« Le péché engendre une obscurité dans le cœur et une distance entre le serviteur et son Seigneur. »**
+
+✅ **Le remède** : Le repentir, baisser le regard et multiplier l'istighfâr.
+
+---
+
+### Cas 3 : Fréquenter les pieux
+
+**Situation** : Une personne était éloignée d'Allah, puis elle a rejoint un cercle de science et fréquenté les pieux, et sa vie a changé !
+
+**Question** : Qu'est-il arrivé à sa foi ?
+
+**Réponse** : ✅ Sa foi a **augmenté** en fréquentant les pieux et en acquérant le savoir bénéfique.
+
+---
+
+## �📚 Sources
 
 | Ouvrage | Auteur |
 |---------|--------|

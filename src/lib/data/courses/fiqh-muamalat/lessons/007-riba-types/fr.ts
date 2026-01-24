@@ -195,4 +195,78 @@ Si la cause diffère :
 
 ---
 
+## 📖 Récits des Salaf : La scrupulosité de 'Umar ibn 'Abd al-'Aziz
+
+'Umar ibn 'Abd al-'Aziz رحمه الله était gouverneur de Médine. Un homme vint se plaindre qu'un commerçant lui avait prêté de l'argent en exigeant un surplus.
+
+'Umar convoqua le commerçant et lui dit : **"Qu'est-ce que j'entends à ton sujet ?"**
+
+Le commerçant répondit : "J'ai simplement exigé un cadeau qu'il me ferait, pas un surplus sur l'argent !"
+
+'Umar رحمه الله dit :
+
+> **"Tout prêt qui engendre un bénéfice est de l'usure, que tu l'appelles cadeau, surplus ou avantage. Ce qui compte, ce sont les réalités, pas les noms !"**
+
+Puis il ordonna de rendre le cadeau et que le commerçant se repente, et dit : **"Celui qui tourne autour du sanctuaire risque d'y tomber."**
+
+---
+
+## 🎯 Cas pratiques contemporains
+
+### Cas 1 : Le prêt entre amis
+
+**Situation :** J'ai prêté 10 000 € à mon ami, et au remboursement il m'a donné 11 000 € sans que je l'aie exigé. Est-ce de l'usure ?
+
+**Réponse :** ✅ **Pas de problème** — Si cela n'était pas conditionné ni convenu entre vous. Le Prophète ﷺ a dit : "Les meilleurs d'entre vous sont ceux qui remboursent le mieux" [Unanimement reconnu]. Mais si le surplus était attendu ou convenu, c'est de l'usure.
+
+---
+
+### Cas 2 : Achat d'une voiture à crédit
+
+**Situation :** Un concessionnaire vend une voiture au comptant à 30 000 € et à crédit à 35 000 €. Est-ce de l'usure ?
+
+**Réponse :** ✅ **Permis** — C'est une vente à crédit, pas un prêt. Le surplus en contrepartie du délai est permis dans la vente, pas dans le prêt. La différence : dans la vente vous possédez le bien, dans le prêt vous prenez de l'argent pour rendre de l'argent.
+
+---
+
+### Cas 3 : Échange d'or ancien contre du neuf
+
+**Situation :** J'ai de l'or ancien pesant 50 grammes, je veux l'échanger contre de l'or neuf. Le bijoutier me donne 45 grammes neufs contre mon or ancien. Est-ce permis ?
+
+**Réponse :** ❌ **Non permis** — C'est de l'usure de surplus. La solution : vendre l'or ancien au comptant, puis acheter le neuf au comptant. L'inégalité dans l'échange or contre or n'est pas permise.
+
+---
+
+### Cas 4 : Report du remboursement avec surplus
+
+**Situation :** Je dois 20 000 € et je n'ai pas de quoi payer. Le créancier propose de reporter de 6 mois moyennant 2 000 € supplémentaires. Est-ce permis ?
+
+**Réponse :** ❌ **Non permis** — C'est l'usure de délai (usure de la Jahiliyyah). Le surplus en contrepartie du report de la dette est interdit par consensus. L'alternative : demander un délai sans surplus, ou emprunter ailleurs.
+
+---
+
+### Cas 5 : Les intérêts bancaires sur l'épargne
+
+**Situation :** J'ai placé mon argent sur un compte épargne, la banque me donne 3% par an. Est-ce licite ?
+
+**Réponse :** ❌ **Interdit** — C'est un prêt usuraire. Vous prêtez à la banque et elle vous rend plus. L'alternative : les dépôts d'investissement dans les banques islamiques, ou les fonds d'investissement conformes à la charia.
+
+---
+
+## 💡 Pause réflexion
+
+> **"L'usure, même si elle augmente, finit par diminuer"** — Hadith authentique
+
+Réfléchissez à votre vie financière :
+
+🔹 Avez-vous des relations avec des organismes qui vous donnent des "rendements garantis" sur votre argent ?
+
+🔹 Lors d'un emprunt, vérifiez-vous que le contrat ne contient aucun surplus conditionné ?
+
+🔹 Comment pouvez-vous organiser vos affaires financières pour qu'elles soient totalement exemptes d'usure ?
+
+**Rappel :** Le gain licite contient la bénédiction même s'il est peu, et le gain illicite est dépourvu de bénédiction même s'il est abondant.
+
+---
+
 *Ô Seigneur, augmente ma science*`;

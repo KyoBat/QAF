@@ -210,6 +210,81 @@ Allah dit : **"Ou une séparation de bonne grâce"** [Al-Baqarah : 229]
 
 ---
 
+## 📖 Récits des Salaf
+
+### Ibn 'Umar et le divorce innovateur
+
+Abdullah ibn 'Umar رضي الله عنهما rapporte qu'il divorça sa femme alors qu'elle était en période de menstrues. Son père 'Umar alla informer le Messager d'Allah ﷺ.
+
+Le Prophète ﷺ se mit en colère, puis dit : **"Ordonne-lui de la reprendre, puis de la garder jusqu'à ce qu'elle soit pure, puis qu'elle ait ses menstrues, puis soit pure, puis s'il veut il la garde, et s'il veut il la divorce avant de la toucher. C'est la période d'attente qu'Allah a ordonné pour divorcer les femmes."**
+
+Ibn 'Umar dit : "Je l'ai donc reprise, et cette répudiation a été comptée."
+
+**La leçon** : Le Prophète ﷺ ne s'est pas contenté d'expliquer l'erreur, mais a ordonné de la réparer immédiatement. Il a enseigné à la communauté que le divorce a son moment légal. Et Ibn 'Umar رضي الله عنه a continué à rapporter ce hadith et à mettre en garde contre le divorce pendant les menstrues toute sa vie.
+
+---
+
+## 🎯 Cas pratiques contemporains
+
+### Premier cas : Le divorce pendant une colère intense
+
+**Question** : J'ai divorcé ma femme trois fois dans un moment de colère intense après une dispute, et je ne savais pas ce que je disais. Quel est le statut ?
+
+**Réponse** : Si la colère t'a fait perdre complètement conscience (état de blocage), le divorce ne prend pas effet. Mais si tu étais conscient de tes paroles malgré la colère, l'avis prépondérant est qu'il prend effet. Il est donc toujours conseillé de quitter les lieux en cas de colère et de chercher refuge auprès d'Allah contre Satan.
+
+---
+
+### Deuxième cas : Le divorce par messages
+
+**Question** : J'ai envoyé un message WhatsApp à ma femme où j'ai écrit "Tu es divorcée", puis j'ai regretté. Prend-il effet ?
+
+**Réponse** : Le divorce par écrit prend effet selon la majorité des savants s'il y a intention de divorcer. L'écrit équivaut à la parole pour le divorce. Si c'est la première ou deuxième répudiation, reprends-la avant la fin de la période d'attente.
+
+---
+
+### Troisième cas : Le triple divorce en une fois
+
+**Question** : J'ai dit à ma femme dans une même session : "Tu es divorcée, divorcée, divorcée". Compte-t-il pour trois ou pour un ?
+
+**Réponse** : La question est controversée :
+- **La majorité des savants** : Compte pour trois, c'est l'avis des quatre écoles
+- **Ibn Taymiyyah et Ibn al-Qayyim** : Compte pour un
+
+Le plus prudent est de suivre l'avis de la majorité, et il faut consulter un mufti de confiance pour ta situation.
+
+---
+
+### Quatrième cas : Le divorce dans une pureté avec rapports
+
+**Question** : J'ai divorcé ma femme pendant une période de pureté mais j'avais eu des rapports au début de cette pureté. Mon divorce est-il sunnite ?
+
+**Réponse** : Non, c'est un divorce innovateur car il a eu lieu dans une pureté où tu l'as touchée. Le divorce sunnite doit être dans une pureté sans rapports. Le divorce prend effet avec péché selon la majorité.
+
+---
+
+### Cinquième cas : La menace de divorce
+
+**Question** : Je menace toujours ma femme de divorce lors de chaque dispute sans vouloir vraiment divorcer. Prend-il effet ?
+
+**Réponse** : Si la formule est explicite ("Tu es divorcée"), il prend effet selon la majorité même sans intention réelle. Évite donc de prononcer le divorce par plaisanterie ou menace. Le Prophète ﷺ a dit : **"Trois choses sont sérieuses qu'on soit sérieux ou plaisantin : le mariage, le divorce et la reprise."**
+
+---
+
+## 💡 Pause réflexion
+
+**Question à méditer** :
+
+Pourquoi penses-tu que la Charia a fixé un moment précis pour le divorce (dans une pureté sans rapports) et ne l'a pas laissé à tout moment que veut le mari ?
+
+Médite sur :
+- La sagesse psychologique pour les deux époux
+- La sagesse liée à la période d'attente
+- La sagesse de prévenir la précipitation et le regret
+
+Ces restrictions légales sont une miséricorde, non une contrainte. Elles protègent la famille des décisions précipitées qu'on regrette.
+
+---
+
 ## Conclusion
 
 Le divorce sunnite est celui conforme à la Charia : l'homme divorce sa femme d'une seule répudiation pendant une période de pureté sans rapports. Le divorce innovateur est interdit et son auteur pèche, et il prend effet selon la majorité des savants avec le péché. Le musulman est ordonné de suivre la Sunnah en toutes ses affaires, y compris le divorce s'il y est contraint.

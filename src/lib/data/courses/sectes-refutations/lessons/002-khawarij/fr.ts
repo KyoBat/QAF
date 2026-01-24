@@ -102,4 +102,92 @@ D'après Abu Sa'id al-Khudri رضي الله عنه, le Messager d'Allah ﷺ a d
 
 ---
 
+## 📖 Récits de l'histoire : Le débat d'Ibn 'Abbas avec les Khawarij
+
+Quand les Khawarij se sont révoltés contre 'Ali رضي الله عنه, il envoya vers eux **'Abdullah ibn 'Abbas** رضي الله عنهما pour débattre avec eux.
+
+Ibn 'Abbas leur dit : **"Qu'avez-vous reproché à l'Émir des Croyants ?"**
+
+**Ils dirent : Trois choses :**
+1. Il a fait juger les hommes dans la religion d'Allah
+2. Il n'a pas pris en captivité les femmes des combattants ni confisqué leurs biens
+3. Il a effacé son titre d'"Émir des Croyants" dans le traité de Hudaybiyyah
+
+**Ibn 'Abbas leur répondit :**
+
+**Sur la première** : Allah تعالى dit à propos du gibier : ﴿Que deux hommes justes d'entre vous en décident﴾. Si l'arbitrage est permis pour un lièvre, ne l'est-il pas pour le sang des musulmans ?
+
+**Sur la deuxième** : Voulez-vous prendre 'Aisha, la Mère des Croyants, comme captive ? Elle est votre mère selon le texte du Coran !
+
+**Sur la troisième** : Le Prophète ﷺ lui-même a effacé "Messager d'Allah" dans le traité de Hudaybiyyah. Est-il sorti de la prophétie pour autant ?
+
+**Deux mille d'entre eux revinrent !** Les autres persistèrent dans leur égarement.
+
+**La leçon à retenir** : Le dialogue par la preuve et l'argument est plus efficace que l'épée.
+
+---
+
+## 🎯 Connais-tu les Khawarij de notre époque ?
+
+### Cas 1 : L'excommunication pour un péché
+
+**Un jeune** dit : "Celui qui ne prie pas est un mécréant apostat qu'il faut tuer immédiatement !"
+
+**Question** : Est-ce la méthodologie d'Ahl as-Sunnah ?
+
+**Réponse** :
+- ⚠️ Il y a divergence des savants sur celui qui abandonne la prière
+- ❌ **Cependant**, juger une personne précise et exécuter la peine n'appartient pas aux individus
+- ✅ C'est de la compétence du tribunal islamique après appel au repentir
+
+---
+
+### Cas 2 : La rébellion contre le gouverneur
+
+**Un groupe** dit : "Ce gouverneur est injuste, il faut se révolter contre lui par les armes !"
+
+**Question** : Quelle est la position d'Ahl as-Sunnah ?
+
+**Réponse** :
+- ❌ **La révolte armée** : Interdite selon la majorité d'Ahl as-Sunnah sauf sous trois conditions :
+  1. Une mécréance claire pour laquelle nous avons une preuve d'Allah
+  2. La capacité de changer
+  3. Qu'il n'en résulte pas un mal plus grand
+
+> Le Prophète ﷺ a dit : **"Tu écoutes et tu obéis, même si on frappe ton dos et prend tes biens."**
+
+---
+
+### Cas 3 : "Je ne suis que le Coran !"
+
+**Quelqu'un** dit : "Je suis coraniste seulement, je ne crois pas en la Sunnah !"
+
+**Question** : Est-ce une continuation de la pensée des Khawarij ?
+
+**Réponse** :
+- ✅ Les Khawarij ont commencé par rejeter la Sunnah et comprendre le Coran selon son apparence
+- ✅ Cette pensée mène aux mêmes résultats : l'excès ou le laxisme
+- Allah تعالى dit : ﴿Prenez ce que le Messager vous donne et abstenez-vous de ce qu'il vous interdit﴾
+
+---
+
+## 💡 Pause réflexion
+
+**Question personnelle** : 
+
+Quelle est la différence entre :
+- **Le zèle louable** pour la religion
+- **L'extrémisme et l'excès** blâmable ?
+
+**Médite** :
+- Les Compagnons étaient les plus zélés pour la religion
+- Pourtant ils n'ont pas excommunié les musulmans ni rendu leur sang licite
+- **La différence** : La science, la miséricorde et la sagesse
+
+> Le Prophète ﷺ a dit à propos des Khawarij : **"Ils tuent les gens de l'Islam et laissent les gens des idoles."**
+
+As-tu vu aujourd'hui des gens sévères avec leurs frères musulmans et indulgents avec les ennemis de la religion ?
+
+---
+
 *Ô Seigneur, augmente ma science*`;

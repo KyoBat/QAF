@@ -189,4 +189,61 @@ Les conditions de la vente sont les éléments qui doivent être réunis pour la
 
 ---
 
+## 📖 Récit des Salaf : La piété de l'Imam Ahmad concernant les conditions de vente
+
+Il est rapporté qu'un homme vint voir l'Imam Ahmad ibn Hanbal رحمه الله pour lui poser une question sur une vente.
+
+Il dit : J'ai acheté une marchandise d'un homme, puis j'ai découvert qu'il avait été contraint de vendre par son créancier.
+
+L'Imam Ahmad dit : **"La vente du contraint n'est pas valide, car le consentement mutuel est une condition. Rends-lui son bien et reprends ton prix."**
+
+L'homme dit : Mais je ne savais pas qu'il était contraint au moment de l'achat !
+
+L'Imam dit : **"Est-ce que cela te nuit de rendre le droit à son propriétaire ? Le Prophète ﷺ a dit : Rends le dépôt à celui qui te l'a confié, et ne trahis pas celui qui t'a trahi."**
+
+**La leçon à retenir :** Les conditions de vente ont été établies pour protéger les droits et repousser l'injustice. Le commerçant musulman veille à la validité de ses contrats, pas seulement à leur apparence.
+
+---
+
+## 🎯 Cas pratiques contemporains
+
+### Cas 1 : Acheter à un enfant
+**Question** : Un père envoie son fils (10 ans) acheter du pain à l'épicerie. Cette vente est-elle valide ?
+
+**Réponse** : ✅ Oui, elle est valide selon de nombreux savants car l'enfant est doué de discernement, la transaction est mineure et autorisée par l'usage de la part du tuteur, et c'est ainsi que les musulmans ont toujours pratiqué.
+
+### Cas 2 : La vente avec arrhes
+**Question** : Zayd a versé des arrhes pour réserver un appartement, puis s'est rétracté. A-t-il droit au remboursement des arrhes ?
+
+**Réponse** : ❌ Il n'y a pas droit selon l'avis le plus correct, car les arrhes sont la contrepartie de la rétention du bien pour lui. La vente avec arrhes a été autorisée par les Hanbalites et l'Académie du Fiqh. Les arrhes sont déduites du prix si la vente est conclue, et le vendeur les garde si la vente n'est pas conclue.
+
+### Cas 3 : Vente d'une voiture hypothéquée
+**Question** : Ali a vendu sa voiture alors qu'elle était hypothéquée à la banque sans informer l'acheteur. Quel est le jugement ?
+
+**Réponse** : ❌ La vente est viciée car le bien hypothéqué est grevé du droit d'autrui, et le vendeur ne peut pas effectuer une livraison complète. Il faut d'abord lever l'hypothèque ou informer l'acheteur pour qu'ils s'entendent.
+
+### Cas 4 : L'achat à tempérament à un prix plus élevé
+**Question** : Le prix du téléphone au comptant est 1000 riyals, et à tempérament 1200 riyals. Est-ce de l'usure ?
+
+**Réponse** : ✅ Non, c'est permis si le prix est fixé au moment du contrat. Ce qui est interdit, c'est de dire : "Prends-le à mille comptant ou mille deux cents à tempérament" sans préciser, car ce serait deux ventes en une.
+
+### Cas 5 : Vendre ce qu'on ne possède pas
+**Question** : Le commerçant a promis au client de lui vendre une marchandise demain alors qu'il ne l'a pas encore achetée au fournisseur. Quel est le jugement ?
+
+**Réponse** : ❌ Il n'est pas permis de vendre avant de posséder. Le correct est de prendre une promesse (non contraignante) puis d'acheter puis de vendre. Ou d'utiliser le contrat Salam avec ses conditions.
+
+---
+
+## 💡 Pause réflexion
+
+**Question personnelle** : Si vous savez que le contrat que vous concluez a un défaut légal mais qu'il est "légal" au sens juridique, le concluez-vous ?
+
+**Rappel :**
+- Le jugement religieux prime sur le droit positif
+- "Les musulmans sont tenus par leurs conditions, sauf une condition qui rend licite l'illicite ou illicite le licite"
+- Apprenez les conditions avant d'entrer dans les contrats
+- Parmi les Salaf, certains apprenaient les règles de la vente avant d'entrer au marché
+
+---
+
 *Ô Seigneur, augmente ma science*`;

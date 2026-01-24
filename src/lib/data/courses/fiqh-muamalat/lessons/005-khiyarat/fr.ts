@@ -191,4 +191,65 @@ Al-Khiyar (l'option) : nom dérivé de l'ikhtiyar (le choix), qui signifie cherc
 
 ---
 
+## 📖 Récit des Salaf : 'Umar et l'option de défaut
+
+Il est rapporté que 'Umar ibn al-Khattab رضي الله عنه passa au marché et vit un homme vendre une chamelle. L'acheteur lui demanda ses défauts.
+
+Le vendeur dit : Elle n'a pas de défaut.
+
+Lorsque l'homme l'acheta et marcha avec elle, il découvrit qu'elle boitait légèrement. Il revint se plaindre à 'Umar.
+
+'Umar envoya chercher le vendeur et lui dit : **"Savais-tu ce défaut ?"**
+
+Il dit : Oui, mais c'est un défaut minime.
+
+'Umar dit : **"Rends-lui son argent et reprends ta chamelle. Le musulman ne cache pas un défaut à son frère, qu'il soit petit ou grand."**
+
+Puis 'Umar dit : **"Celui qui vend quelque chose avec un défaut doit le déclarer. S'il ne le fait pas, l'acheteur a l'option."**
+
+**La leçon à retenir :** L'option de défaut est un droit pour l'acheteur afin de protéger son bien du préjudice, et cacher le défaut est une tromperie interdite.
+
+---
+
+## 🎯 Cas pratiques contemporains
+
+### Cas 1 : L'option de session dans l'achat électronique
+**Question** : Y a-t-il une option de session dans l'achat en ligne ?
+
+**Réponse** : Les contemporains ont divergé. L'avis le plus correct est que la "session" sur Internet est la durée de connexion ou la durée de la session d'achat. Quand on ferme le site ou qu'on finalise la commande, la "session" électronique se termine.
+
+### Cas 2 : La politique de retour dans les magasins
+**Question** : Un magasin affiche la politique : "Pas de retour après achat." Est-ce contraignant pour l'acheteur ?
+
+**Réponse** : ⚖️ Si l'acheteur a pris connaissance de cette condition avant l'achat et l'a acceptée, il a renoncé à l'option de condition. Mais l'option de défaut ne s'éteint pas par cette condition s'il y a un défaut caché.
+
+### Cas 3 : La garantie du fabricant
+**Question** : Ahmad a acheté un téléphone avec une garantie d'un an, et il est tombé en panne après 8 mois. Quels sont ses droits ?
+
+**Réponse** : ✅ La garantie est un engagement du vendeur à réparer les défauts pendant la période. C'est un type d'option de défaut limitée dans le temps. Il a droit à la réparation gratuite ou au remplacement selon les conditions.
+
+### Cas 4 : Découverte de fraude après l'achat
+**Question** : Muhammad a acheté une voiture d'occasion, puis a découvert que le compteur kilométrique avait été trafiqué (falsifié). Quel est son droit ?
+
+**Réponse** : ✅ Il a le droit d'annuler immédiatement car c'est une fraude manifeste, voire une tromperie qui ouvre droit à l'option. Il peut aussi prendre la différence de valeur (compensation) s'il veut garder la voiture.
+
+### Cas 5 : L'achat sous pression
+**Question** : Il a acheté sous l'insistance du vendeur et ses offres "à durée limitée" puis a regretté. Peut-il revenir sur l'achat ?
+
+**Réponse** : ❌ La simple insistance n'est pas une contrainte annulant le contrat. Mais s'il y a une condition de retour ou s'il n'a pas quitté la session, il a l'option. La leçon : ne vous précipitez pas dans l'achat.
+
+---
+
+## 💡 Pause réflexion
+
+**Question personnelle** : Vous avez acheté quelque chose puis découvert un défaut minime. Le vendeur est une personne modeste et le retour du produit le perturbera. Que faites-vous ?
+
+**Rappel :**
+- Les options sont des droits légaux pour protéger les contractants
+- Le pardon et la tolérance dans les droits personnels sont une vertu
+- Le Prophète ﷺ a dit : "Qu'Allah fasse miséricorde à l'homme indulgent quand il vend, quand il achète et quand il réclame"
+- L'équilibre entre votre droit et la bienfaisance envers les autres est un signe de foi
+
+---
+
 *Ô Seigneur, augmente ma science*`;

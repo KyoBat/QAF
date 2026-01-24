@@ -136,7 +136,93 @@ const content = `
 
 ---
 
-## 📚 Sources
+## � Récit des Salaf : La prudence de l'Imam Ahmad dans le takfir
+
+Un homme vint voir **l'Imam Ahmad ibn Hanbal** رحمه الله et lui dit :
+
+« Ô Imam ! Untel dit que le Coran est créé, le déclarons-nous mécréant ? »
+
+L'Imam Ahmad dit : **« Dire que le Coran est créé est mécréance. Quant à untel lui-même, je ne le déclare pas mécréant tant que la preuve ne lui a pas été établie. »**
+
+Il disait رحمه الله : **« Je ne déclare mécréant personne parmi les gens de la Qiblah. »**
+
+Bien que al-Ma'mûn et al-Mu'tasim l'aient emprisonné, fouetté et failli le tuer à cause de leur doctrine de la création du Coran !
+
+**La leçon à retenir** : Vois la prudence de cet Imam ! Il n'a pas laissé l'injustice qu'il a subie le pousser à se précipiter dans le takfir. Il a distingué entre le jugement sur la parole et le jugement sur celui qui la prononce.
+
+---
+
+## 🎯 Cas pratiques contemporains : Quand déclarer mécréant et quand s'abstenir ?
+
+### Cas 1 : Un jeune qui insulte la religion sur les réseaux sociaux
+
+**Omar** voit des publications sur Twitter d'un jeune qui insulte l'Islam et se moque du Prophète ﷺ.
+
+**Question** : Le jugeons-nous mécréant ?
+
+**Réponse** :
+- **L'acte lui-même** : Insulter la religion et le Prophète est mécréance majeure par consensus
+- **Le jugement sur cette personne précise** : Nécessite la vérification des conditions et l'absence d'empêchements
+- **Ce que nous devons faire** : Nous désavouer de cet acte et conseiller si possible
+- **Ce que nous ne devons pas faire** : Émettre des jugements de takfir individuels
+
+---
+
+### Cas 2 : Celui qui délaisse la prière par paresse
+
+**Khalid** est un jeune musulman mais il ne prie pas depuis des années. Il dit : « Je suis croyant mais je suis paresseux. »
+
+**Question** : A-t-il mécru ?
+
+**Réponse** :
+- **La divergence** : Question de divergence entre les savants
+- **Avis de la majorité des Salaf** : Celui qui délaisse totalement la prière a mécru
+- **Avis de certains** : Il n'est pas mécréant mais en grand danger
+- **Le devoir** : Le conseiller et lui faire craindre Allah, pas émettre un jugement de takfir
+
+---
+
+### Cas 3 : Celui qui rend licite le ribâ bancaire
+
+**Ahmad** dit : « Le ribâ interdit est celui de la Jâhiliyyah uniquement. Quant aux intérêts bancaires d'aujourd'hui, ils sont licites ! »
+
+**Question** : Quel est le jugement sur ses propos et sur lui ?
+
+**Réponse** :
+- **Rendre licite ce qui fait l'objet de consensus sur son interdiction** : Mécréance si c'est en connaissance et par entêtement
+- **Mais Ahmad peut être** : Dans une interprétation erronée, ou ignorant, ou suivant une fatwa qu'il a entendue
+- **Le devoir** : Lui exposer la vérité avec preuves, pas se précipiter à le déclarer mécréant
+
+---
+
+### Cas 4 : Celui qui juge par les lois positives
+
+**Un dirigeant** dans un pays musulman juge par des lois contraires à la Sharî'ah.
+
+**Question** : Est-il mécréant ?
+
+**Réponse** :
+- **Celui qui a substitué la Sharî'ah en le rendant licite** : A mécru
+- **Celui qui juge par autre que ce qu'Allah a révélé en croyant que c'est interdit** : Mécréance mineure selon la majorité
+- **Le takfir de l'individu** : Ne se fait qu'après établissement de la preuve et connaissance de son état
+
+> Ibn 'Abbâs a dit concernant le verset ﴿ وَمَن لَّمْ يَحْكُم بِمَا أَنزَلَ اللَّهُ ﴾ : **« Mécréance en-deçà de la mécréance »**
+
+---
+
+## 💡 Pause réflexion
+
+**Question personnelle** :
+
+Pourquoi les Salaf étaient-ils prudents concernant le takfir, alors qu'aujourd'hui nous voyons des gens qui s'y précipitent ?
+
+Médite sur ces raisons :
+1. **L'ignorance** des règles du takfir et de ses conditions
+2. **L'enthousiasme** non encadré par la science
+
+---
+
+## �📚 Sources
 
 | Ouvrage | Auteur |
 |---------|--------|

@@ -126,6 +126,82 @@ Il est **valide** que la compensation soit la prise en charge des enfants.
 ### 5. Procuration pour le khul'
 La femme **peut** mandater quelqu'un pour négocier le khul' en son nom.
 
+---
+
+## 📖 Récits des Salaf
+
+### La femme de Thabit ibn Qays - Le premier khul' en Islam
+
+**Jamilah bint 'Abdullah ibn Ubayy** - on dit aussi qu'elle s'appelait Habibah - était l'épouse de Thabit ibn Qays ibn Shammâs, le porte-parole des Ansar et l'un des Compagnons les plus méritants.
+
+Elle vint au Prophète ﷺ un jour sombre, alors que les gens attendaient la prière de l'aube, et dit avec toute franchise et équité :
+
+> **"Ô Messager d'Allah ! Thabit ibn Qays, je ne lui reproche rien ni pour son caractère ni pour sa religion, mais je crains le reniement en Islam !"**
+
+Quelle belle équité ! Elle ne l'a pas accusé de mauvais caractère, ni n'a critiqué sa religion, mais elle a sincèrement reconnu qu'elle ne pouvait pas être une bonne épouse pour lui, et craignait que rester avec lui ne la mène à manquer à ses devoirs envers lui.
+
+Le Prophète ﷺ lui demanda : **"Lui rendras-tu son jardin ?"** - car il lui avait donné un jardin de palmiers comme dot.
+
+Elle dit : **"Oui, et même plus !"**
+
+Il ﷺ dit : **"Quant au surplus, non. Mais le jardin."**
+
+Puis il dit à Thabit : **"Accepte le jardin et divorce-la d'une répudiation."**
+
+Il s'exécuta. Ainsi fut légiféré le khul' en Islam, comme une issue légale pour la femme qui ne supporte plus la vie avec son mari.
+
+**La leçon** : L'Islam a préservé le droit de la femme à sortir d'un mariage qu'elle ne peut poursuivre, tout en étant équitable envers l'homme en lui rendant ce qu'il a donné.
+
+---
+
+## 🎯 Cas pratiques contemporains
+
+### Premier cas : Une épouse veut le khul' pour incompatibilité
+
+**Question** : Sarah est mariée depuis cinq ans. Son mari est un homme pieux qui prie et travaille, mais elle ressent une incompatibilité avec lui et ne peut l'aimer malgré ses efforts. Le khul' lui est-il permis ?
+
+**Réponse** : Oui, le khul' lui est permis. Ce cas correspond exactement à celui de la femme de Thabit ibn Qays. Elle n'a rien reproché à sa religion ni à son caractère, mais ne pouvait rester avec lui. Le khul' est légitime pour ce genre de situation, et elle lui rend sa dot ou ce dont ils conviennent.
+
+---
+
+### Deuxième cas : Le mari refuse le khul'
+
+**Question** : Khadijah veut le khul' de son mari et lui a proposé de rendre toute la dot, mais il refuse en disant : "Je ne te divorcerai pas même si tu paies des millions." Quelle solution ?
+
+**Réponse** : Si le mari refuse le khul' injustement, la femme a le droit de porter son affaire devant le juge religieux. Le juge peut prononcer le khul' s'il constate la sincérité de sa demande et l'obstination du mari. Certains savants disent : le juge peut contraindre le mari au khul' si la femme subit un préjudice et y a droit.
+
+---
+
+### Troisième cas : Le khul' avec renonciation à la garde des enfants
+
+**Question** : Amirah a demandé le khul', mais son mari a exigé qu'elle renonce à la garde de ses trois enfants. Cette condition est-elle permise ?
+
+**Réponse** : La garde est un droit de l'enfant et pas seulement de la mère. Une condition qui arrache les enfants à leur mère alors qu'elle est apte à les garder n'est pas permise. Cette condition nuit aux enfants. La compensation du khul' peut être de prendre en charge les dépenses des enfants ou une partie, mais le droit de la mère à la garde ne s'éteint pas si elle en est digne.
+
+---
+
+### Quatrième cas : Le khul' pour plus que la dot
+
+**Question** : Hind a reçu une dot de 10 000. Maintenant son mari lui demande 50 000 pour la divorcer par khul'. Est-ce permis ?
+
+**Réponse** : Les savants ont divergé. La majorité est pour sa permission mais avec réprobation. Le mieux est qu'il ne prenne pas plus que ce qu'il a donné. Le Prophète ﷺ dit quand la femme voulut rendre le jardin et plus : **"Quant au surplus, non."** La Sunnah est donc de ne prendre que ce qu'il a donné.
+
+---
+
+### Cinquième cas : Le mari lui fait du tort pour qu'elle demande le khul'
+
+**Question** : Le mari de Noura la maltraite et l'humilie quotidiennement, puis lui dit : "Si tu veux la tranquillité, paie et sors." Que faire ?
+
+**Réponse** : C'est de l'empêchement interdit (al-'adl). S'il lui fait du tort pour qu'elle se rachète, le khul' dans ce cas est **nul**, l'argent lui est rendu, et elle est divorcée sans compensation. Allah dit : **﴾Ne les empêchez pas de se remarier pour vous emparer d'une partie de ce que vous leur aviez donné﴿**. Elle doit porter son affaire en justice.
+
+---
+
+## 💡 Pause réflexion
+
+> Si tu étais juge religieux, et qu'une femme venait te demander le khul' tandis que son mari refuse, et que tous deux semblent sincères dans leur position... Comment équilibrerais-tu entre le droit de la femme à se libérer d'un mariage qu'elle ne supporte pas, et le droit de l'homme à garder son épouse ? Et quelle sagesse y a-t-il à ce que la Charia ait donné à la femme une issue moyennant compensation, tandis que l'homme possède le divorce sans compensation ?
+
+---
+
 ## Cas où le Khul' n'est pas valide
 
 ### 1. Contrainte du mari pour le khul'

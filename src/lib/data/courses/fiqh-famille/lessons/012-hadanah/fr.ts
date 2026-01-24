@@ -153,6 +153,121 @@ La gardienne a droit à une rémunération prélevée sur les biens de l'enfant 
 
 ---
 
+## 📖 Récits de la Sirah : Le jugement du Prophète ﷺ sur la garde
+
+Une femme vint au Messager d'Allah ﷺ et dit : **"Ô Messager d'Allah ! Mon fils que voici, mon ventre fut pour lui un récipient, ma poitrine une source, et mon giron un refuge. Son père m'a répudiée et veut me l'arracher."**
+
+Le Prophète ﷺ répondit : **"Tu as plus de droit sur lui tant que tu ne te remaries pas."**
+
+**La leçon** :
+- Le Prophète ﷺ a considéré l'intérêt de l'enfant en premier
+- La mère est plus compatissante et tendre envers le petit enfant
+- Mais ce droit s'éteint si les circonstances changent (le remariage)
+
+---
+
+## 📖 De l'Histoire : Donner le choix à l'enfant
+
+Il est rapporté que le Prophète ﷺ donna le choix à un garçon entre son père et sa mère, et celui-ci choisit sa mère. Le Prophète ﷺ invoqua alors pour l'enfant.
+
+Dans une autre version : l'enfant alla d'abord avec son père, puis changea d'avis et alla vers sa mère.
+
+**L'enseignement** : L'enfant, quand il atteint l'âge de discernement, son choix est pris en compte car c'est lui qui vivra avec celui qu'il choisit.
+
+---
+
+## 🎯 Cas pratiques contemporains
+
+### Cas 1 : La mère non-musulmane
+
+**Khalid** est musulman et a épousé une chrétienne puis l'a divorcée. Ils ont un enfant de 4 ans.
+
+**Question** : Qui a priorité pour la garde ?
+
+**Réponse** :
+- ⚠️ **Divergence des savants** :
+  - La majorité : Pas de garde pour le non-musulman sur un musulman
+  - Certains Malikites : Permis tant qu'on ne craint pas pour la religion de l'enfant
+- ✅ **L'avis prépondérant** : Le juge examine l'intérêt tout en protégeant la religion de l'enfant
+
+---
+
+### Cas 2 : La mère travaille toute la journée
+
+**Fatima** est une mère divorcée qui travaille de 8h à 20h et laisse son enfant avec la bonne.
+
+**Question** : Perd-elle la garde ?
+
+**Réponse** :
+- ⚠️ **On examine l'intérêt** :
+  - Si l'enfant est négligé : la garde peut être transférée
+  - Si les soins sont assurés : elle ne perd pas la garde
+- ✅ **Le critère** : L'enfant reçoit-il les soins suffisants ?
+
+---
+
+### Cas 3 : Le père voyage pour le travail
+
+**Ahmad** travaille dans un autre pays, et son ex-femme veut voyager avec les enfants dans un troisième pays.
+
+**Question** : Qui a le droit d'emmener les enfants ?
+
+**Réponse** :
+- ⚠️ **Règle** : Voyager avec l'enfant gardé nécessite l'accord des deux parties ou une décision de justice
+- ❌ Aucune partie n'a le droit de voyager avec les enfants sans autorisation
+- ✅ **Solution** : Recourir au tribunal pour déterminer l'intérêt
+
+---
+
+### Cas 4 : Le père ne paie pas la pension
+
+**Hind** a la garde de ses enfants, et leur père refuse de payer la pension depuis un an.
+
+**Question** : Le père a-t-il le droit de voir ses enfants ?
+
+**Réponse** :
+- ✅ **Le droit de visite ne s'éteint pas** à cause du non-paiement de la pension
+- ✅ **La pension est une dette** qu'il faut réclamer en justice
+- ❌ **Il n'est pas permis** d'empêcher le père de voir ses enfants par vengeance
+
+---
+
+### Cas 5 : L'enfant veut vivre avec son père
+
+**Youssef** a 10 ans, sa mère a sa garde, mais il veut vivre avec son père.
+
+**Question** : Lui donne-t-on le choix ?
+
+**Réponse** :
+- ✅ **Oui, on lui donne le choix** selon la majorité des savants (Shafi'ites et Hanbalites)
+- ⚠️ **À condition** : qu'il soit capable de discernement (7 ans ou plus)
+- ✅ **Le juge** peut intervenir si le choix est nuisible
+
+---
+
+## 💡 Pause réflexion
+
+**Question à méditer** :
+
+Tu es un père divorcé, tes enfants sont avec leur mère (ton ex-femme).
+
+**Comment te comportes-tu ?**
+
+Rappelle-toi :
+- 🔴 Les enfants ne sont pas une arme de vengeance
+- 🔴 Ne parle pas mal de la mère devant eux
+- ✅ Maintiens ta relation avec eux
+- ✅ Paie la pension sans tergiverser
+- ✅ Rends vos rencontres joyeuses, non tendues
+
+> Le Prophète ﷺ a dit : **"Il suffit à l'homme comme péché de négliger ceux dont il a la charge"** [Ahmad]
+
+---
+
+*Rabbi zidni 'ilman - Seigneur, augmente-moi en science*
+
+---
+
 ## Résumé
 
 | Sujet | Règle |

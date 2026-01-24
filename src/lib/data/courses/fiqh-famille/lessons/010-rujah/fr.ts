@@ -138,6 +138,96 @@ Si la 'iddah se termine sans reprise:
 3. **Elle lui revient** avec les divorces restants
 4. **Elle peut épouser** un autre homme
 
+---
+
+## 📖 Récits des Salaf
+
+### 'Umar ibn al-Khattab revient sur sa décision
+
+Il est rapporté que 'Umar ibn al-Khattab رضي الله عنه divorça son épouse Umm Kulthum bint 'Ali رضي الله عنها. Elle le croisa alors qu'elle était encore dans sa période d'attente et qu'il se rendait à la mosquée.
+
+Umm Kulthum lui dit : **"Ô Commandeur des croyants, tu m'as divorcée et j'aimerais que tu me reprennes."**
+
+'Umar رضي الله عنه dit : **"Je t'ai reprise."** Et il en prit des témoins.
+
+'Ali ibn Abi Talib رضي الله عنه était présent et dit : **"Il l'a reprise et en a témoigné."**
+
+**La leçon** : La raj'ah est un droit du mari pendant la 'iddah, et elle peut contenir beaucoup de bien. 'Umar رضي الله عنه n'a pas été trop orgueilleux pour revenir quand l'intérêt lui est apparu. Et le témoignage préserve les droits et prévient les conflits.
+
+---
+
+### L'histoire de Ka'b ibn Malik
+
+Lorsqu'Allah accepta le repentir de Ka'b ibn Malik رضي الله عنه après son absence à l'expédition de Tabuk, le Prophète ﷺ avait ordonné aux musulmans de boycotter les trois qui étaient restés en arrière, jusqu'à ordonner à Ka'b de s'éloigner de sa femme.
+
+Ka'b dit : J'ai dit à ma femme : **"Rejoins ta famille et reste chez eux jusqu'à ce qu'Allah décide de cette affaire."**
+
+Quand le messager vint annoncer le repentir, la première chose qu'il fit fut de reprendre sa femme, et les musulmans se réjouirent de l'acceptation de leur repentir par Allah.
+
+**La leçon** : Même dans les moments les plus difficiles, la famille reste un refuge. Le retour de Ka'b à sa femme dès l'annonce du repentir montre la valeur de l'épouse dans la vie de l'homme.
+
+---
+
+## 🎯 Cas pratiques contemporains
+
+### Premier cas : La reprise sans que l'épouse le sache
+
+**Question** : J'ai divorcé ma femme, puis je l'ai reprise en moi-même sans l'informer. La reprise est-elle valide ?
+
+**Réponse** : La reprise est valide même si l'épouse ne le sait pas, mais il faut l'informer pour qu'elle connaisse sa situation. Il est recommandé de prendre des témoins pour préserver les droits et éviter les conflits ultérieurs.
+
+---
+
+### Deuxième cas : La fin de la 'iddah avant la reprise
+
+**Question** : J'ai divorcé ma femme puis je suis parti en voyage. Quand je suis revenu après quatre mois et que j'ai voulu la reprendre, elle m'a dit que sa 'iddah était terminée. Que faire ?
+
+**Réponse** : Si la 'iddah est terminée, elle t'est devenue irrévocablement séparée (séparation mineure). Tu peux l'épouser avec un nouveau contrat et une nouvelle dot avec son consentement et celui de son tuteur. Et elle te revient avec les répudiations qui te restent.
+
+---
+
+### Troisième cas : La reprise par le rapport conjugal
+
+**Question** : J'ai divorcé ma femme puis j'ai eu un rapport avec elle pendant la 'iddah sans dire "Je te reprends". Est-ce une reprise valide ?
+
+**Réponse** : Les savants ont divergé :
+- **La majorité (Hanafites, Malikites, Hanbalites)** : La reprise par l'acte est valide
+- **Les Shafi'ites** : Elle n'est valide que par la parole
+
+Le plus prudent est de dire "Je te reprends" et de prendre des témoins, pour sortir de la divergence.
+
+---
+
+### Quatrième cas : La reprise pour nuire
+
+**Question** : Mon mari me divorce puis me reprend quelques jours avant la fin de la 'iddah, et il répète cela pour prolonger ma souffrance. Quel est le statut ?
+
+**Réponse** : C'est une rétention pour nuire qu'Allah تعالى a interdite : **﴾Ne les retenez pas par contrainte pour leur faire du tort﴿**. Porte ton affaire devant le juge religieux pour qu'il l'empêche de te reprendre ou te divorce de lui.
+
+---
+
+### Cinquième cas : La reprise après la troisième répudiation
+
+**Question** : J'ai divorcé ma femme trois fois séparément, et maintenant nous voulons revenir ensemble. Est-ce possible ?
+
+**Réponse** : Elle ne t'est pas licite tant qu'elle n'a pas épousé un autre mari d'un mariage valide où il consomme le mariage, puis qu'il la divorce ou décède, puis que sa 'iddah se termine. Ensuite tu peux l'épouser avec un nouveau contrat. Le mariage de complaisance (convenu à l'avance) est interdit et nul.
+
+---
+
+## 💡 Pause réflexion
+
+**Question à méditer** :
+
+La raj'ah est une porte qu'Allah a ouverte pour la réconciliation. Pourquoi alors beaucoup de maris tardent-ils à faire la reprise jusqu'à ce que la 'iddah se termine ? Médite sur :
+
+1. **L'orgueil et l'obstination** : La fierté vaut-elle la perte de la famille ?
+2. **L'intervention négative des proches** : Combien de familles se sont disloquées à cause de "Ne la reprends pas, tu es un homme" ?
+3. **Ne pas mesurer les conséquences** : Imagine tes enfants un an après le divorce, le désaccord le méritait-il ?
+
+Le Prophète ﷺ a dit : **"La chose licite la plus détestée auprès d'Allah est le divorce"** - La raj'ah est donc plus aimée d'Allah que l'achèvement de la séparation.
+
+---
+
 ## Conclusion
 
 La raj'ah est une facilité accordée par Allah au mari pour reprendre son épouse pendant la 'iddah sans besoin d'un nouveau contrat. Elle est valide par la parole à l'unanimité, et par l'acte selon la majorité. Le témoignage est recommandé, et le consentement de l'épouse n'est pas requis. La loi islamique a interdit la reprise pour nuire et a fait de la fin de la 'iddah la limite du droit du mari à la reprise.

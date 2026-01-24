@@ -190,6 +190,75 @@ Allah dit : **"Et la réconciliation est meilleure"** [An-Nisa : 128]
 
 ---
 
+## 📖 Récits des Salaf
+
+### 'Umar ibn Al-Khattab, arbitre entre époux
+
+Un homme vint voir 'Umar ibn Al-Khattab (qu'Allah l'agrée) pour se plaindre de sa femme. Quand il se tint à sa porte, il entendit la femme de 'Umar élever la voix sur lui, tandis que 'Umar restait silencieux. L'homme repartit en disant : Si telle est la situation du Commandeur des Croyants, alors qu'en est-il de moi !
+
+'Umar le rattrapa et lui demanda son besoin. L'homme lui dit qu'il était venu se plaindre de sa femme mais qu'il avait trouvé le Commandeur des Croyants dans la même situation. 'Umar (qu'Allah l'agrée) dit : **"Je la supporte pour les droits qu'elle a sur moi : elle cuisine ma nourriture, cuit mon pain, lave mes vêtements, allaite mon enfant, et rien de cela ne lui est obligatoire. Mon cœur trouve la paix auprès d'elle contre l'interdit, alors je la supporte pour cela."**
+
+L'homme dit : Ô Commandeur des Croyants, ma femme est pareille. 'Umar dit : **"Alors supporte-la, mon frère, car ce n'est qu'une courte période."**
+
+**Leçon à retenir** : La patience face aux problèmes conjugaux et le rappel des qualités du conjoint sont parmi les plus grandes causes de la pérennité du mariage.
+
+---
+
+## 🎯 Cas pratiques contemporains
+
+### Premier cas : L'épouse qui refuse de vivre avec la belle-famille
+
+**Question** : Ma femme refuse de vivre avec ma mère âgée qui a besoin de soins, et menace de quitter la maison si je ne lui fournis pas un logement indépendant. Est-ce du nushuz ?
+
+**Réponse** : Ce n'est pas du nushuz, car le logement indépendant est un droit légal de l'épouse. Mais il lui est recommandé d'aider son mari dans la piété filiale envers sa mère autant que possible. La solution : Se mettre d'accord sur un arrangement qui satisfait les deux parties, comme un logement proche avec des visites régulières.
+
+---
+
+### Deuxième cas : Le mari toujours absent
+
+**Question** : Mon mari passe tout son temps à l'extérieur avec ses amis et ne me donne pas mon droit en temps et attention. Que dois-je faire ?
+
+**Réponse** : C'est une forme de nushuz du mari. Commencez par un dialogue calme avec lui, puis demandez l'aide de membres pieux de sa famille pour le conseiller. S'il ne répond pas, vous avez le droit de porter l'affaire devant le juge islamique.
+
+---
+
+### Troisième cas : L'ingérence néfaste de la famille
+
+**Question** : La mère de ma femme s'ingère dans toutes les affaires de notre foyer et monte ma femme contre moi, au point que nous en sommes arrivés à la discorde. Comment dois-je agir ?
+
+**Réponse** : Demandez gentiment à votre épouse de limiter cette ingérence, et n'escaladez pas avec votre belle-mère. Si la discorde persiste, proposez de désigner deux arbitres de la famille comme Allah l'a ordonné, et choisissez un arbitre sage et raisonnable de votre famille.
+
+---
+
+### Quatrième cas : L'épouse qui travaille et le désaccord sur les dépenses
+
+**Question** : Ma femme travaille et refuse de participer aux dépenses du foyer malgré ma situation financière difficile. Ai-je le droit de l'y obliger ?
+
+**Réponse** : L'argent de l'épouse lui appartient, et elle n'est pas légalement obligée de participer aux dépenses. Mais la coopération et la compréhension sont préférables, et rappeler aux deux parties que l'argent est pour la famille atténue le conflit.
+
+---
+
+### Cinquième cas : L'abandon prolongé
+
+**Question** : Mon mari est en colère contre moi et m'a abandonnée au lit depuis deux mois. A-t-il le droit de faire cela ?
+
+**Réponse** : L'abandon de plus de quatre mois est interdit au mari, c'est un serment de continence (ila') qui donne à l'épouse le droit d'exiger le retour ou le divorce. S'il est de moins de quatre mois, la réconciliation et la résolution du conflit sont obligatoires.
+
+---
+
+## 💡 Pause réflexion
+
+**Question de réflexion** :
+
+Si tu étais l'arbitre de la famille du mari dans un conflit entre ton cousin et sa femme, et que chaque partie insiste sur le fait qu'elle est lésée :
+- Comment commencerais-tu la séance de réconciliation ?
+- Quelles questions poserais-tu ?
+- Et comment garderais-tu ta neutralité malgré ta parenté avec le mari ?
+
+Rappelle-toi la parole d'Allah : **"S'ils veulent la réconciliation, Allah rétablira l'entente entre eux"** - l'intention sincère de réconciliation est la clé du succès.
+
+---
+
 ## Conclusion
 
 Le nushuz et le shiqaq font partie des problèmes qui peuvent confronter la vie conjugale. L'Islam a établi une méthodologie progressive pour les traiter, commençant par le conseil et l'exhortation, puis l'éloignement, puis l'arbitrage, avec pour objectif la réforme et la préservation de la famille autant que possible.

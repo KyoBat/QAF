@@ -11,6 +11,18 @@ Riba : l'augmentation, de raba yarbu qui signifie augmenter et croître.
 
 ---
 
+## 📖 Récit des Salaf : 'Umar ibn al-Khattab et l'usure
+
+'Umar ibn al-Khattab رضي الله عنه était très prudent concernant l'usure, au point qu'il a dit :
+
+> "Les derniers versets révélés du Coran furent les versets sur l'usure, et le Messager d'Allah ﷺ fut rappelé à Allah sans nous les avoir expliqués. Alors abandonnez l'usure et le doute."
+
+Il disait aussi : **"Nous avons abandonné neuf dixièmes du licite par crainte de l'usure."**
+
+**La leçon à retenir :** Si 'Umar رضي الله عنه, avec son savoir et sa compréhension, était aussi précautionneux, qu'en est-il de nous ?
+
+---
+
 ## L'Interdiction de l'Usure dans le Coran
 
 ### Premier Verset : L'Interdiction Globale
@@ -48,6 +60,51 @@ Riba : l'augmentation, de raba yarbu qui signifie augmenter et croître.
 Les musulmans sont unanimes sur l'interdiction de l'usure, et c'est une connaissance nécessaire de la religion.
 
 > Ibn Qudama a dit : "Les musulmans sont unanimes sur le fait que l'usure est interdite."
+
+---
+
+## 🎯 Cas pratiques contemporains : Est-ce de l'usure ?
+
+### Cas 1 : Le prêt immobilier de la banque conventionnelle
+**Ahmad** veut acheter une maison à 500 000 riyals. La banque lui prête la somme et demande le remboursement de 650 000 riyals sur 20 ans.
+
+**Question** : Est-ce de l'usure ?
+
+**Réponse** : ✅ **Oui, c'est de l'usure manifeste** — Une augmentation conditionnée en contrepartie du délai = usure de délai (riba an-nasi'ah).
+
+**L'alternative légale** : Le financement par Murabahah ou la location-vente via les banques islamiques.
+
+---
+
+### Cas 2 : La carte de crédit
+**Sarah** utilise une carte de crédit. Si elle paie avant la fin du mois, elle ne paie rien de plus. Mais si elle est en retard, on lui impose des intérêts de 2% par mois.
+
+**Question** : L'utilisation de la carte est-elle licite ?
+
+**Réponse** :
+- ✅ **Paiement intégral avant l'échéance** : permis
+- ❌ **Retard avec paiement d'intérêts** : usure interdite
+
+---
+
+### Cas 3 : Les applications "Achète maintenant, paie plus tard"
+Une application vous permet d'acheter un téléphone à 3000 riyals en 4 versements. En cas de retard, des frais de retard sont ajoutés.
+
+**Question** : Quel est le jugement ?
+
+**Réponse** :
+- ✅ **Le paiement échelonné sans majoration** : permis
+- ❌ **Les frais de retard** : usure interdite
+
+---
+
+## 📖 De l'histoire : La crise de l'usure en Europe
+
+Au Moyen Âge, l'Église catholique interdisait l'usure de manière catégorique, suivant le texte de la Torah. Mais avec le développement du commerce, la tolérance a commencé jusqu'à ce que l'usure soit entièrement autorisée.
+
+**Le résultat** : Les crises financières successives — la crise de 1929, la crise de 2008 — sont toutes le résultat du système usuraire.
+
+**La leçon à retenir :** Ce qu'Allah a interdit n'est pas une restriction, mais une protection pour l'humanité.
 
 ---
 
@@ -93,6 +150,20 @@ Ils ont prétendu que l'usure est comme le commerce dans l'augmentation et le pr
 | Le risque existe | Garanti sans risque |
 | Profite aux deux parties | Nuit à l'une des parties |
 | Encourage la production | Paralyse la production |
+
+---
+
+## 💡 Pause réflexion
+
+**Question personnelle** :
+
+Si vous aviez une somme d'argent et vouliez l'investir, les options devant vous sont :
+1. Un dépôt bancaire à 5% d'intérêt annuel (garanti)
+2. Une participation dans un projet commercial (avec risque mais licite)
+
+Lequel choisissez-vous ? Et pourquoi ?
+
+**Rappel** : Allah n'interdit pas quelque chose sans te donner une meilleure alternative. {Et quiconque craint Allah, Il lui donnera une issue. Et lui accordera Ses dons par [des moyens] sur lesquels il ne comptait pas}
 
 ---
 

@@ -215,6 +215,103 @@ Les gens l'ont pratiqué à toutes les époques sans objection.
 
 ---
 
+## 📖 Récits des Salaf : Le Salam béni
+
+L'Imam Ahmad a rapporté dans son Musnad que **'Abdullah ibn 'Abbas رضي الله عنهما** disait :
+
+> "Le Prophète ﷺ arriva à Médine alors que les gens pratiquaient le salam sur les fruits pour un an, deux ans et trois ans. Le Prophète ﷺ réglementa cette transaction et ne l'interdit pas."
+
+Ibn 'Abbas dit : **"J'atteste que le salam garanti à échéance déterminée, Allah l'a rendu licite dans Son Livre et l'a autorisé"** puis il récita : ﴿Ô vous qui croyez, quand vous contractez une dette à échéance déterminée, mettez-la en écrit﴾.
+
+**La leçon :** Les Salaf pratiquaient le salam pour financer l'agriculture et l'industrie, ce qui montre la flexibilité de la charia pour répondre aux besoins légitimes des gens tout en réglementant les transactions par les conditions légales.
+
+---
+
+### La sagesse de l'Imam Abou Hanifa sur l'Istisna'
+
+L'**Imam Abou Hanifa رحمه الله** émettait des fatwas autorisant l'istisna' et disait :
+
+> "Les gens le pratiquent depuis l'époque du Prophète ﷺ jusqu'à nos jours sans objection, c'est donc un consensus."
+
+Les habitants de Kufa demandaient aux artisans de fabriquer des épées, des armures et des chaussures, et leur payaient le prix d'avance ou à terme, et aucun savant ne s'y opposait.
+
+---
+
+## 🎯 Cas pratiques contemporains
+
+### Cas 1 : La précommande (Pre-order) de téléphones
+
+**Situation :** Apple a annoncé un nouvel iPhone et a ouvert les précommandes. Est-il permis de payer le montant complet maintenant et de recevoir dans deux mois ?
+
+**Réponse :** ✅ **Permis** si les conditions du salam sont réunies :
+- Spécifications déterminées avec précision (type, capacité, couleur)
+- Date de livraison déterminée
+- Prix reçu dans la session du contrat ou sous peu
+- Que le bien soit décrit dans la responsabilité, non spécifique
+
+---
+
+### Cas 2 : Le financement participatif (Crowdfunding) pour un projet
+
+**Situation :** Le site Kickstarter présente un projet de fabrication d'une montre intelligente. Les acheteurs paient maintenant et le produit sera fabriqué et livré dans 8 mois. Quel est le jugement ?
+
+**Réponse :** ✅ **Permis** selon la forme de l'istisna' si :
+- Les spécifications du produit sont déterminées avec précision
+- Le fabricant s'engage sur une date de livraison
+- Le fabricant supporte les risques de fabrication
+
+⚠️ **Remarque :** Si le projet échoue et que rien n'est produit, l'argent est rendu aux acheteurs.
+
+---
+
+### Cas 3 : Achat d'appartement sur plan
+
+**Situation :** Une société immobilière vend des appartements qui seront construits dans deux ans. Quelle est la méthode conforme à la charia pour contracter ?
+
+**Réponse :** ✅ **Permis** selon la formule de l'istisna' :
+- Spécifications déterminées par les plans et dessins
+- Étapes de construction et de livraison déterminées
+- Paiements échelonnés permis
+- Garantie à la charge du promoteur jusqu'à la livraison
+
+---
+
+### Cas 4 : La réservation anticipée de récoltes
+
+**Situation :** Un commerçant veut acheter une récolte de blé d'un agriculteur six mois avant la moisson. Comment le contrat peut-il être valide ?
+
+**Réponse :** ✅ **Permis** selon la formule du salam :
+- Payer le prix complet au moment du contrat
+- Déterminer la quantité : 100 tonnes par exemple
+- Déterminer le type et la qualité : blé français première catégorie
+- Déterminer la date de livraison : après la moisson tel mois
+- Déterminer le lieu de livraison
+
+---
+
+### Cas 5 : Fabrication de meubles sur mesure
+
+**Situation :** J'ai demandé à un menuisier de fabriquer une chambre à coucher avec un design spécial. Nous avons convenu du prix et de la livraison dans un mois. Est-il permis de payer la moitié d'avance ?
+
+**Réponse :** ✅ **Permis** car dans l'istisna' il est permis :
+- D'avancer tout le prix
+- De le reporter entièrement
+- De le payer en plusieurs fois
+
+---
+
+## 💡 Pause réflexion
+
+> **Question de réflexion :**
+>
+> À notre époque se sont répandues les plateformes de financement participatif (Crowdfunding) qui financent des projets qui n'existent pas encore.
+>
+> - Comment pouvons-nous bénéficier du fiqh des Salaf pour réglementer ces transactions ?
+> - Quelle est la différence entre l'investissement légal et le pari dans ces plateformes ?
+> - La présence de conditions claires et de garanties transforme-t-elle la transaction de l'incertitude vers la permission ?
+
+---
+
 ## Résumé de la Leçon
 
 | Contrat | Définition | Condition du prix | Condition du terme |

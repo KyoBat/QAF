@@ -1,19 +1,19 @@
 import { Lesson } from '../../../types';
-import { lessonMiraclesFr } from './fr';
-import { lessonMiraclesAr } from './ar';
-import { lessonMiraclesEn } from './en';
+import { content as contentFr } from './fr';
+import { content as contentAr } from './ar';
+import { content as contentEn } from './en';
 
 export const lessonMiracles: Lesson = {
   id: 'seerah-032-miracles-prophete',
   title: {
-    fr: lessonMiraclesFr.title,
-    ar: lessonMiraclesAr.title,
-    en: lessonMiraclesEn.title,
+    fr: 'Les Miracles du Prophète ﷺ',
+    ar: 'المعجزات النبوية',
+    en: 'The Miracles of the Prophet ﷺ',
   },
   content: {
-    fr: lessonMiraclesFr.content,
-    ar: lessonMiraclesAr.content,
-    en: lessonMiraclesEn.content,
+    fr: contentFr,
+    ar: contentAr,
+    en: contentEn,
   },
   duration: '35 min',
   order: 32,

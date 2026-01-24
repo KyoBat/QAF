@@ -118,7 +118,91 @@ const content = `
 
 ---
 
-## 📚 Sources
+## � Récit des Salaf : Abu Bakr et son fils 'Abd ar-Rahmân à Badr
+
+Lors de la bataille de Badr, **'Abd ar-Rahmân ibn Abî Bakr** était encore mécréant. Il sortit avec les polythéistes pour combattre les musulmans.
+
+Dans la bataille, 'Abd ar-Rahmân cherchait son père **Abu Bakr as-Siddîq** رضي الله عنه pour le défier et le tuer !
+
+Après la conversion de 'Abd ar-Rahmân à l'Islam, il dit à son père : **« Ô père ! Je t'ai vu à Badr mais je me suis détourné et ne t'ai pas tué. »**
+
+Abu Bakr رضي الله عنه répondit : **« Quant à moi, si je t'avais vu, je t'aurais tué ! »**
+
+**La leçon à retenir** : Voilà la véritable alliance et le désaveu — l'amour d'Allah et de Son Messager au-dessus de tout amour, même s'il s'agit des plus proches. Mais vois comment 'Abd ar-Rahmân s'est converti ensuite et devint l'un des meilleurs Compagnons !
+
+---
+
+## 🎯 Cas pratiques contemporains : L'alliance et le désaveu à notre époque
+
+### Cas 1 : Assister à un mariage à l'église
+
+**Ahmad** est invité au mariage de son collègue **Jean** à l'église. Jean est son ami au travail depuis des années.
+
+**Question** : Peut-il y assister ?
+
+**Réponse** :
+- **Assister aux rites religieux à l'église** : Interdit, car c'est participer aux rites de la mécréance
+- **Le féliciter hors de l'église** : Sujet à divergence, la prudence est de s'abstenir
+- **Alternative** : Il peut lui offrir un cadeau licite sans assister à la cérémonie religieuse
+
+---
+
+### Cas 2 : Travailler dans une entreprise de boissons alcoolisées
+
+**Khalid** est ingénieur et a trouvé un excellent poste dans une entreprise qui fabrique des boissons alcoolisées.
+
+**Question** : Peut-il accepter ?
+
+**Réponse** :
+- **Travailler dans la fabrication de l'illicite** : Interdit car c'est aider au péché
+- ﴿ وَلَا تَعَاوَنُوا عَلَى الْإِثْمِ وَالْعُدْوَانِ ﴾
+- **Alternative** : Chercher un travail licite même avec un salaire moindre, et Allah pourvoit aux pieux
+
+---
+
+### Cas 3 : Faire un don à une association caritative non-musulmane
+
+**Fatima** veut faire un don à une association qui aide les pauvres, mais c'est une association chrétienne.
+
+**Question** : Est-ce permis ?
+
+**Réponse** :
+- **Si elle aide uniquement les pauvres** : Permis, car c'est de la bienfaisance permise
+- **Si elle fait du prosélytisme** : Interdit car c'est soutenir l'évangélisation
+- **Le mieux** : Donner aux associations islamiques fiables
+
+---
+
+### Cas 4 : Le soldat musulman dans une armée occidentale
+
+**Muhammad** est soldat dans l'armée d'un pays occidental, et peut être envoyé combattre des musulmans.
+
+**Question** : Quelle est sa position ?
+
+**Réponse** :
+- **Combattre les musulmans au profit des mécréants** : Parmi les plus grands annulateurs de l'Islam
+- ﴿ وَمَن يَتَوَلَّهُم مِّنكُمْ فَإِنَّهُ مِنْهُمْ ﴾
+- **Le devoir** : Refuser les ordres de tuer les musulmans même s'il est emprisonné, et chercher à sortir de cette situation
+
+---
+
+## 💡 Pause réflexion
+
+**Question personnelle** :
+
+À l'ère d'Internet et de la mondialisation, communiquer avec les non-musulmans est devenu très facile.
+
+**Comment équilibres-tu entre :**
+- Le devoir d'appeler à Allah
+- Et le bon comportement envers tous
+- Et la préservation de ton identité islamique
+- Et ne pas te dissoudre dans leur culture ?
+
+Rappelle-toi : Le Prophète ﷺ avait le meilleur comportement envers tous, et malgré cela, il n'a jamais fait le moindre compromis sur sa religion !
+
+---
+
+## �📚 Sources
 
 | Ouvrage | Auteur |
 |---------|--------|

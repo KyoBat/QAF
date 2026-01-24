@@ -162,4 +162,63 @@ Le seul pilier selon eux est la formule, le reste étant des conditions.
 
 ---
 
+## 📖 Récit des Salaf : La véracité d'al-Hasan al-Basri dans la vente
+
+Il est rapporté qu'al-Hasan al-Basri رحمه الله voulait vendre un âne qui lui appartenait. Un homme vint pour l'acheter.
+
+Al-Hasan lui dit : **"Le veux-tu pour le transport ou pour la monture ?"**
+
+L'homme dit : Pour la monture.
+
+Al-Hasan dit : **"Alors il ne te convient pas, car il convient pour le transport mais pas pour la monture, son dos est faible."**
+
+L'homme s'étonna de sa véracité et de son honnêteté, et dit : Je n'ai jamais vu de vendeur plus honnête que toi !
+
+Al-Hasan dit : **"Malheur à toi ! Penses-tu que je te cacherais un défaut dans ma marchandise ? Cela, un musulman ne le fait pas."**
+
+**La leçon à retenir :** La véracité dans la déclaration est le fondement du commerce islamique, et c'est la cause de la bénédiction comme l'a dit le Prophète ﷺ : "S'ils sont véridiques et transparents, leur vente sera bénie."
+
+---
+
+## 🎯 Cas pratiques contemporains
+
+### Cas 1 : La vente par échange d'actes au magasin
+**Question** : Samir a pris un produit de l'étagère et a mis son prix dans la caisse automatique sans parler à personne. Est-ce une vente valide ?
+
+**Réponse** : ✅ Oui, c'est la vente par échange d'actes (mu'atah) qui est permise selon la majorité des savants, car l'usage l'admet et les piliers de la vente sont réunis : le consentement et la livraison.
+
+### Cas 2 : L'achat via Internet
+**Question** : Fatima a acheté une robe sur un site web basée sur les photos et la description. À la réception, elle l'a trouvée différente. Quel est son droit ?
+
+**Réponse** : ✅ Elle a le droit d'annuler car la marchandise diffère de la description. C'est l'option de vision ou l'option de défaut. Le vendeur doit décrire la marchandise précisément pour éviter l'incertitude.
+
+### Cas 3 : Jurer pour promouvoir la marchandise
+**Question** : Le commerçant jure faussement que cette marchandise est la meilleure ou qu'il l'a achetée à un prix plus élevé, pour attirer l'acheteur. Quel est le jugement ?
+
+**Réponse** : ❌ C'est sévèrement interdit, c'est le serment qui plonge son auteur en Enfer. Le Prophète ﷺ a dit : "Le serment fait vendre la marchandise mais efface la bénédiction."
+
+### Cas 4 : La vente Murabahah dans les banques
+**Question** : La banque achète une voiture puis la vend au client avec une majoration en plusieurs versements. Est-ce de l'usure ?
+
+**Réponse** : ✅ Si la banque possède réellement la marchandise puis la vend à un prix connu différé, c'est la vente Murabahah permise. Ce qui est interdit, c'est que la possession soit fictive ou qu'elle vende ce qu'elle n'a pas encore reçu.
+
+### Cas 5 : La fixation des prix des produits
+**Question** : Le gouvernement peut-il fixer les prix des produits de base pour protéger les consommateurs ?
+
+**Réponse** : ✅ Il est permis de fixer les prix en cas de besoin pour repousser le préjudice des gens, surtout en cas de monopole. Les savants ont divergé, mais l'avis le plus correct est la permission pour l'intérêt public.
+
+---
+
+## 💡 Pause réflexion
+
+**Question personnelle** : Imaginez que vous vendez une marchandise avec un défaut caché que l'acheteur ne connaît pas et ne découvrira pas. L'informerez-vous ? Pourquoi ?
+
+**Rappel :**
+- Allah te voit quand les gens ne te voient pas
+- "Le commerçant véridique et honnête sera avec les prophètes, les véridiques et les martyrs"
+- La bénédiction est dans la véracité, non dans l'abondance de l'argent
+- "Celui qui nous trompe n'est pas des nôtres"
+
+---
+
 *Ô Seigneur, augmente ma science*`;

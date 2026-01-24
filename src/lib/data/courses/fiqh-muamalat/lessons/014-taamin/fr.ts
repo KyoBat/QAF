@@ -269,6 +269,108 @@ Le système de la 'Aqilah en Islam : la tribu prend en charge le prix du sang po
 
 ---
 
+## 🎯 Cas Contemporains : Quel est le Jugement ?
+
+### Cas 1 : L'assurance automobile obligatoire
+
+**Fatima** vit dans un pays qui impose l'assurance automobile. Peut-elle y souscrire ?
+
+**Réponse :**
+- ✅ **Permis par nécessité** — Ce sans quoi le devoir ne peut être accompli devient obligatoire
+- ⚠️ **Avec conditions** :
+  - Se limiter au minimum obligatoire
+  - Chercher des compagnies takaful si elles existent
+  - Ne pas étendre aux couvertures supplémentaires
+
+---
+
+### Cas 2 : L'assurance maladie de l'employeur
+
+**Ahmed** est employé dans une entreprise qui fournit une assurance maladie à tous les employés.
+
+**Question :** Peut-il en bénéficier ?
+
+**Réponse :**
+- ✅ **Permis** — Cela fait partie du salaire et des avantages
+- ✅ Le péché incombe à l'entreprise si c'est une assurance commerciale
+- 💡 **Préférable :** Demander une assurance takaful si possible
+
+---
+
+### Cas 3 : L'assurance-vie
+
+**Mohamed** veut assurer l'avenir de ses enfants après sa mort, alors il a souscrit une assurance-vie.
+
+**Question :** Quel est le jugement ?
+
+**Réponse :**
+- ❌ **L'assurance-vie commerciale = interdite**
+- ✅ **L'alternative conforme** :
+  - Épargne dans des comptes islamiques
+  - Investissement dans des fonds conformes
+  - Testament du tiers
+  - Assurance takaful familiale
+
+---
+
+### Cas 4 : L'assurance tous risques automobile
+
+**Said** possède une nouvelle voiture chère et veut une assurance complète qui la protège de tout dommage.
+
+**Question :** L'assurance tous risques est-elle permise ?
+
+**Réponse :**
+- ❌ **L'assurance tous risques commerciale = interdite** (non obligatoire)
+- ✅ **L'alternative** :
+  - Assurance takaful complète si disponible
+  - Épargne personnelle pour les urgences
+  - Se contenter de l'assurance obligatoire
+
+---
+
+### Cas 5 : L'assurance des marchandises dans le commerce
+
+**Abderrahman** est commerçant importateur, et la banque exige une assurance sur la cargaison.
+
+**Question :** Quel est le jugement ?
+
+**Réponse :**
+- ⚠️ **Si c'est une condition du financement** : examiner la nécessité
+- ✅ **La solution** : traiter avec des banques islamiques qui offrent le takaful
+- 💡 **Règle** : Les nécessités sont estimées à leur juste mesure
+
+---
+
+## 📖 De l'Histoire : La Coopération à l'Époque Préislamique
+
+Les Arabes avant l'Islam connaissaient le système de **"la 'Aqilah"** :
+- Si l'un d'eux tuait par erreur, sa tribu payait le prix du sang
+- C'est de la coopération et de la solidarité, pas un échange commercial
+
+**L'Islam l'a approuvé** et en a fait un système légal, et c'est l'origine de l'assurance takaful aujourd'hui.
+
+> Le Prophète ﷺ a dit : **"Le croyant pour le croyant est comme une construction dont les parties se renforcent mutuellement"** [Unanimement reconnu]
+
+---
+
+## 💡 Arrête-toi et Médite
+
+**Question de réflexion :**
+
+Pourquoi l'assurance commerciale s'est-elle répandue dans les pays musulmans malgré son interdiction par les savants ?
+
+**Réfléchis aux causes :**
+1. L'absence d'alternative islamique pendant des décennies
+2. Le besoin urgent d'assurance dans la vie moderne
+3. La faiblesse de la conscience religieuse
+
+**Que peux-tu faire ?**
+- Soutiens les compagnies takaful en traitant avec elles
+- Diffuse la connaissance de l'alternative conforme
+- Demande avant de souscrire : est-ce takaful ou commercial ?
+
+---
+
 ## Résumé de la Leçon
 
 | Type d'Assurance | Jugement | Cause |

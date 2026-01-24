@@ -230,6 +230,124 @@ Partenariat qui commence avec des pourcentages définis, puis l'un des partenair
 
 ---
 
+## 📖 Récits des Salaf : Le partenariat d'Ibn Mas'ud, 'Ammar et Sa'd le jour de Badr
+
+'Abdullah ibn Mas'ud رضي الله عنه a rapporté :
+
+> **"Moi, 'Ammar et Sa'd, nous nous sommes associés dans ce que nous obtiendrions le jour de Badr"**
+
+Ibn Mas'ud a dit : **"Sa'd revint avec deux prisonniers, et 'Ammar et moi ne revînmes avec rien."**
+
+Pourtant, ils partagèrent entre eux ce qu'ils avaient obtenu, car ils avaient convenu du partenariat avant le butin.
+
+**Les leçons à retenir :**
+
+1. ✅ **La société des corps est valide** — Le partenariat par le travail sans capital
+2. ✅ **Le partenariat se conclut avant le travail** — Pas après
+3. ✅ **L'équité entre les associés** — Malgré la différence des résultats
+4. ✅ **La confiance est la base du partenariat** — Ils étaient compagnons avant d'être associés
+
+---
+
+## 🎯 Cas pratiques contemporains
+
+### Cas 1 : Création d'une startup
+
+**Situation :** Je suis programmeur et mon ami est marketeur. Nous voulons créer une entreprise technologique. Je vais construire l'application et lui va attirer les clients. Nous n'avons pas de capital. Comment diviser les parts ?
+
+**Réponse :** ✅ **C'est une société des corps valide.**
+
+Proposition de division :
+- Convenez d'un pourcentage (par exemple 50-50 ou selon l'effort prévu)
+- Documentez l'accord par écrit
+- Déterminez le mécanisme d'évaluation du travail et de distribution des profits
+- Convenez de ce qui se passe si l'un se retire
+
+---
+
+### Cas 2 : Achat d'actions de sociétés mixtes
+
+**Situation :** La société Total a une activité principale licite (le pétrole), mais elle place ses excédents dans des banques usuraires. Est-il permis d'acheter ses actions ?
+
+**Réponse :** ⚠️ **Sujet à divergence entre les savants :**
+
+**Premier avis (interdiction) :** Non permis car il y a des transactions usuraires.
+
+**Deuxième avis (permission avec conditions) :**
+- Que l'activité principale soit licite
+- Que le pourcentage des revenus illicites soit minime (moins de 5%)
+- Que l'investisseur se débarrasse du pourcentage de profit illicite par la charité
+
+---
+
+### Cas 3 : Le partenariat dégressif pour acheter une maison
+
+**Situation :** La banque islamique propose un programme d'achat de maison : la banque paie 80% et moi 20%, puis j'achète la part de la banque mensuellement en payant le loyer de sa part. Est-ce licite ?
+
+**Réponse :** ✅ **Permis sous conditions :**
+1. Que le partenariat soit réel (la banque supporte les risques de sa part)
+2. Que le loyer soit au prix du marché
+3. Que l'achat des parts se fasse par des contrats indépendants
+4. Que vous ne soyez pas obligé d'acheter si vous ne le souhaitez pas
+
+⚠️ **Attention :** Certaines banques l'appliquent de façon fictive, vérifiez les détails.
+
+---
+
+### Cas 4 : Le partenariat dans un restaurant
+
+**Situation :** Trois personnes veulent ouvrir un restaurant. Le premier met 250 000 €, le deuxième met 150 000 €, et le troisième gérera le restaurant sans capital. Comment diviser les profits et les pertes ?
+
+**Réponse :**
+
+**Les profits :** Selon l'accord. Par exemple :
+- Propriétaire des 250 000 € : 40%
+- Propriétaire des 150 000 € : 25%
+- Le gérant : 35% (pour son travail)
+
+**Les pertes :** Uniquement selon le capital :
+- Propriétaire des 250 000 € : 62,5%
+- Propriétaire des 150 000 € : 37,5%
+- Le gérant : rien (il a perdu son effort seulement)
+
+---
+
+### Cas 5 : La trahison de l'associé
+
+**Situation :** J'ai découvert que mon associé vole l'argent de la société. Que faire légalement ?
+
+**Réponse :**
+
+Rappelez-vous le hadith qudsi : **"Je suis le troisième des deux partenaires tant que l'un d'eux ne trahit pas l'autre. S'il le trahit, Je me retire d'entre eux."**
+
+**Les étapes :**
+1. Documentez les preuves de la trahison
+2. Confrontez-le et réclamez votre droit
+3. S'il ne répond pas, portez l'affaire devant la justice
+4. Vous avez le droit de résilier le partenariat et de lui demander garantie
+
+---
+
+## 💡 Pause réflexion
+
+> **"Je suis le troisième des deux partenaires tant que l'un d'eux ne trahit pas l'autre"** — Hadith qudsi
+
+Allah تعالى est avec les associés, les protège et les bénit... **tant qu'ils sont sincères et honnêtes.**
+
+Réfléchissez à vos partenariats :
+
+🔹 Êtes-vous honnête avec l'argent de votre associé comme avec le vôtre ?
+
+🔹 Documentez-vous les accords par écrit pour préserver les droits et éviter les conflits ?
+
+🔹 En cas de désaccord, recourez-vous à l'arbitrage légal ou prenez-vous votre droit par la force ?
+
+🔹 Avant de vous engager dans un partenariat, vous renseignez-vous sur la moralité et l'honnêteté de l'associé ?
+
+**Rappel :** Le partenariat réussi se construit sur la confiance et la transparence, et la trahison détruit la bénédiction avant de détruire l'argent.
+
+---
+
 ## Résumé de la Leçon
 
 | Type de Société | Jugement |

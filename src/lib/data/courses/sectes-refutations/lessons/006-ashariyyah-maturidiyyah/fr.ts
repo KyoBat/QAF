@@ -120,4 +120,79 @@ Ils s'accordent avec les Asha'irah dans beaucoup de questions, et diffèrent dan
 
 ---
 
+## 📖 Récits des Salaf : Le repentir d'Abu al-Hasan al-Ash'ari
+
+Abu al-Hasan al-Ash'ari était sur le dogme du Mu'tazilisme pendant quarante ans, puis quelque chose survint qui changea son parcours.
+
+Il est rapporté qu'il vit le Prophète ﷺ en rêve trois fois pendant le Ramadan, lui ordonnant de soutenir ce qui a été rapporté de lui. Il s'isola alors chez lui quinze jours pour méditer.
+
+Puis il sortit à la mosquée principale de Basra, monta sur le minbar le vendredi et dit :
+
+*"Ô gens ! Je me suis absenté de vous cette période parce que j'ai examiné et les preuves se sont équivalues à mes yeux, rien ne l'emportant sur l'autre. J'ai demandé guidance à Allah تعالى et Il m'a guidé vers la croyance que j'ai consignée dans mes livres, et je me suis dépouillé de tout ce que je croyais, comme je me dépouille de ce vêtement."*
+
+Il retira un vêtement qu'il portait et le jeta, puis distribua ses livres aux gens.
+
+**La leçon à retenir** : Revenir à la vérité est une vertu, et le savant sincère suit la preuve même si elle contredit ce sur quoi il a grandi.
+
+---
+
+## 🎯 Cas pratiques contemporains : Traiter avec les Asha'irah et Maturidiyyah
+
+### Cas 1 : Excommunier les Asha'irah
+Quelqu'un dit : *"Les Asha'irah sont mécréants parce qu'ils interprètent les attributs !"*
+
+**Question** : Excommunie-t-on les Asha'irah ?
+
+**Réponse** : ❌ Non, absolument pas. Les Asha'irah sont innovateurs dans le chapitre des attributs mais ne sont pas mécréants. Beaucoup de leurs savants ont des efforts immenses au service de l'Islam.
+
+---
+
+### Cas 2 : Les livres d'exégèse
+Un étudiant demande : *"Dois-je lire le Tafsir d'Ibn Kathir ou al-Kashshaf d'az-Zamakhshari ?"*
+
+**Question** : Comment traiter les livres des opposants ?
+
+**Réponse** : ✅ Les deux contiennent des bénéfices. Cependant, le Tafsir d'Ibn Kathir est sur la méthodologie d'Ahl as-Sunnah, tandis qu'al-Kashshaf contient des éléments mu'tazilites dont il faut se méfier. L'étudiant en science profite de tous avec discernement.
+
+---
+
+### Cas 3 : Les attributs d'Allah
+Un imam de mosquée dit : *"Istawa sur le Trône signifie a dominé, car l'établissement réel implique l'anthropomorphisme !"*
+
+**Question** : Cette interprétation allégorique est-elle correcte ?
+
+**Réponse** : ❌ Non. C'est l'interprétation des Asha'irah. La méthodologie des Salaf : Affirmer l'établissement réel d'Allah تعالى comme il convient à Sa majesté, sans modalité ni ressemblance.
+
+---
+
+### Cas 4 : La 'Aqidah Tahawiyyah
+Quelqu'un demande : *"La 'Aqidah Tahawiyyah est-elle ash'arite ou salafie ?"*
+
+**Question** : Quelle est la méthodologie de la 'Aqidah Tahawiyyah ?
+
+**Réponse** : ✅ La 'Aqidah Tahawiyyah est sur la méthodologie d'Ahl as-Sunnah wal-Jama'ah, bien que l'Imam at-Tahawi soit hanafite. Ce qui compte est le contenu, non l'affiliation.
+
+---
+
+### Cas 5 : L'équité envers l'opposant
+Un étudiant en science dit : *"Je ne profiterai d'aucun savant ash'arite, ils sont tous égarés !"*
+
+**Question** : Rejette-t-on toute la science des opposants ?
+
+**Réponse** : ❌ Non. C'est une injustice de rejeter toute leur science. Ibn Hajar et an-Nawawi sont ash'arites et ont d'immenses contributions au service de la Sunnah. On prend la vérité et on rejette l'erreur.
+
+---
+
+## 💡 Pause réflexion
+
+**Question personnelle** : Comprends-tu correctement la croyance des Salaf concernant les attributs d'Allah ? Ou as-tu besoin de la réviser ?
+
+**Rappel :**
+- Affirme pour Allah ce qu'Il a affirmé pour Lui-même sans déformation ni négation
+- Ne compare pas les attributs d'Allah aux attributs des créatures
+- Sois équitable envers les savants qui ont erré dans certaines questions
+- Les Asha'irah et Maturidiyyah sont nos frères en Islam même s'ils ont erré sur certains attributs
+
+---
+
 *Ô Seigneur, augmente ma science*`;

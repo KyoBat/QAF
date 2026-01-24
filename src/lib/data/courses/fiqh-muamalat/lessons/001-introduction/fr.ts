@@ -111,4 +111,51 @@ Dans ce cours, nous étudierons :
 
 ---
 
+## 📖 Récit des Salaf : L'intégrité de 'Abd ar-Rahman ibn 'Awf رضي الله عنه
+
+Lorsque 'Abd ar-Rahman ibn 'Awf رضي الله عنه émigra à Médine, le Prophète ﷺ établit une fraternité entre lui et Sa'd ibn ar-Rabi' al-Ansari. Sa'd lui proposa de partager la moitié de ses biens et de divorcer de l'une de ses deux épouses pour qu'il l'épouse.
+
+'Abd ar-Rahman répondit : **"Qu'Allah bénisse ta famille et tes biens. Indiquez-moi le marché."**
+
+On lui indiqua le marché de Banu Qaynuqa'. Il n'en revint qu'avec un surplus de fromage et de beurre. Puis il continua à faire des allers-retours au marché jusqu'au jour où il vint avec des traces de parfum jaune. Le Prophète ﷺ demanda : "Qu'y a-t-il ?" Il dit : "Je me suis marié." Il demanda : "Qu'as-tu donné comme dot ?" Il dit : "Un noyau d'or."
+
+**La leçon à retenir :** 'Abd ar-Rahman ibn 'Awf a commencé de zéro à Médine, mais grâce à sa compréhension du fiqh des transactions et son intégrité dans le commerce, il devint l'un des Compagnons les plus riches. La compréhension des transactions légales est le fondement du succès financier licite.
+
+---
+
+## 🎯 Cas pratiques contemporains
+
+### Cas 1 : Travailler dans un magasin vendant des produits variés
+**Question** : Ahmad travaille dans un supermarché qui vend des produits licites et illicites (comme l'alcool). Est-il permis d'y travailler ?
+
+**Réponse** : ❌ Il n'est pas permis de vendre, transporter ou aider à vendre de l'alcool, car le Prophète ﷺ a dit : "Allah a maudit l'alcool, celui qui le boit, celui qui le sert, celui qui le vend et celui qui l'achète..." Si son travail implique cela, il doit chercher une alternative. Si le magasin est grand et que son rayon ne traite pas de produits interdits, c'est plus facile.
+
+### Cas 2 : L'accord verbal
+**Question** : Khaled s'est entendu verbalement avec son ami pour acheter sa voiture, puis le vendeur s'est rétracté. L'accord est-il contraignant ?
+
+**Réponse** : ✅ Le contrat verbal est valide et contraignant légalement lorsque ses piliers et conditions sont réunis. Cependant, la documentation écrite est préférable pour préserver les droits et éviter les litiges, comme Allah تعالى a dit : {Ô vous qui croyez ! Lorsque vous contractez une dette à échéance déterminée, écrivez-la}.
+
+### Cas 3 : Acheter un produit et le revendre avant réception
+**Question** : Muhammad a acheté une marchandise d'un commerçant. Avant de la recevoir, il a trouvé un autre acheteur qui la veut à un prix plus élevé, alors il la lui a vendue. Quel est le jugement ?
+
+**Réponse** : ❌ Il n'est pas permis de vendre ce qu'on a acheté avant de le recevoir, car le Prophète ﷺ a dit : "Celui qui achète de la nourriture, qu'il ne la revende pas avant de l'avoir reçue." Et cela s'applique à autre que la nourriture selon de nombreux savants.
+
+### Cas 4 : Stipuler une condition supplémentaire
+**Question** : Lors de l'achat d'une voiture, l'acheteur a stipulé que le vendeur répare un défaut. Cette condition est-elle valide ?
+
+**Réponse** : ✅ Oui, c'est une condition valide car elle est dans l'intérêt du contrat, et les musulmans sont tenus par leurs conditions.
+
+---
+
+## 💡 Pause réflexion
+
+**Question personnelle** : Combien de fois par jour entrez-vous dans une transaction financière (acheter de la nourriture, payer une facture, transférer de l'argent...) ? Vous assurez-vous de la licéité de ces transactions ?
+
+**Rappel :**
+- L'argent licite est bénédiction, et l'illicite est calamité
+- "Tout corps nourri de l'illicite, le Feu y a plus droit"
+- S'enquérir du licite et de l'illicite dans les transactions est une obligation pour tout musulman
+
+---
+
 *Ô Seigneur, augmente ma science*`;

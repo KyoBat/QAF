@@ -274,6 +274,138 @@ Permis en tenant compte de :
 
 ---
 
+## 📖 Récits des Pieux Prédécesseurs
+
+### Le gage de l'armure du Prophète ﷺ
+
+**Aïcha رضي الله عنها** a rapporté :
+
+> "Le Messager d'Allah ﷺ est décédé alors que son armure était gagée chez un juif contre trente sa' d'orge."
+
+**Rapporté par al-Bukhari et Muslim**
+
+L'imam **Ibn Hajar al-'Asqalani** رحمه الله a commenté :
+
+> "Ce hadith prouve la licéité de traiter avec les non-musulmans dans ce qui n'est pas interdit en soi, la licéité de gager les armes de guerre chez un non-musulman, et que cela ne fait pas partie de l'alliance interdite."
+
+**La leçon :**
+- L'humilité du Prophète ﷺ et son détachement de ce monde
+- La licéité du gage par besoin, même avec un non-musulman
+- Le prêt est légitime même du riche envers le pauvre
+
+---
+
+### Le prêt d'Abou Bakr as-Siddiq رضي الله عنه
+
+Lors de l'émigration du Prophète ﷺ avec **Abou Bakr as-Siddiq رضي الله عنه**, Abou Bakr acheta deux montures pour le voyage.
+
+Le Prophète ﷺ dit : "**Au prix**"
+
+C'est-à-dire : je ne l'accepte qu'en payant son prix.
+
+**La leçon :** Le Prophète ﷺ voulait que le prêt soit clair et ne se mélange pas au don. C'est la perfection de la clarté dans les transactions financières.
+
+---
+
+### L'excellence du remboursement chez Abdallah ibn Umar
+
+**Abdallah ibn Umar رضي الله عنهما**, lorsqu'il empruntait de l'argent à quelqu'un, le rendait meilleur que ce qu'il avait pris.
+
+On lui demanda pourquoi, il répondit :
+
+> "J'ai entendu le Prophète ﷺ dire : Les meilleurs d'entre vous sont ceux qui remboursent le mieux."
+
+**La leçon :** L'ajout lors du remboursement sans condition préalable fait partie des nobles caractères et n'est pas de l'usure.
+
+---
+
+## 🎯 Cas Contemporains
+
+### Cas 1 : Le prêt bienveillant pour le mariage
+
+**Question :** Mon frère veut se marier mais n'a pas les moyens. Je veux lui prêter 50 000 riyals qu'il me rendra dans deux ans. Est-ce permis ?
+
+**Réponse :** ✅ **Permis et recommandé** — c'est l'un des meilleurs actes d'adoration :
+- Le prêt à celui qui en a besoin est recommandé
+- Aider son frère à se marier est une aumône
+- Aucun profit ni surplus n'est exigé
+
+⚠️ **Attention :** Ne stipule aucun surplus, et n'accepte pas de cadeau à cause du prêt.
+
+---
+
+### Cas 2 : Le gage de la voiture pour un prêt
+
+**Question :** Mon ami veut un prêt de 30 000 riyals. Je lui ai demandé de gager sa voiture jusqu'au remboursement. Puis-je conduire la voiture ?
+
+**Réponse :** ❌ **Non permis** de conduire la voiture gagée :
+- Le gage est un dépôt chez toi
+- Bénéficier du gage = prêt générant un profit = usure
+- L'exception : les animaux qu'on monte et trait en échange de leurs frais uniquement
+
+✅ **L'alternative :** Si l'emprunteur t'autorise à la conduire en payant le carburant et l'entretien, c'est permis en dehors du contrat de gage.
+
+---
+
+### Cas 3 : Le financement immobilier islamique
+
+**Question :** La banque islamique finance l'achat d'une maison par murabaha, et la maison reste gagée jusqu'au paiement complet. Quelle différence avec le prêt usuraire ?
+
+**Réponse :**
+
+| Financement islamique | Prêt usuraire |
+|----------------------|---------------|
+| La banque achète la maison puis te la vend | La banque te prête de l'argent |
+| Le prix est fixe, n'augmente pas avec le retard | L'intérêt augmente avec le retard |
+| La maison est gagée comme garantie | La maison est gagée comme garantie |
+| Le profit est connu dès le départ | L'intérêt peut changer |
+
+✅ **Licite :** Murabaha et location avec option d'achat
+❌ **Interdit :** Prêt avec intérêt
+
+---
+
+### Cas 4 : Le gage de l'or chez le bijoutier
+
+**Question :** J'ai besoin de liquidités urgentes. Puis-je gager mon or chez le bijoutier contre une somme d'argent ?
+
+**Réponse :** ✅ **Permis** avec conditions :
+1. Déterminer la valeur de l'or au moment du gage
+2. Fixer la durée du gage et le montant du prêt
+3. Ne stipuler aucun surplus au remboursement
+4. En cas d'incapacité de payer : l'or est vendu au prix du marché et l'excédent est rendu au propriétaire
+
+⚠️ **Attention :** Certains bijoutiers prennent des "frais de stockage" qui sont en réalité des intérêts usuraires !
+
+---
+
+### Cas 5 : Prêt depuis une application financière
+
+**Question :** Une application mobile propose des prêts instantanés. Elle me prête 1000 riyals et je rembourse 1100 après un mois. Quel est le jugement ?
+
+**Réponse :** ❌ **Absolument interdit** :
+- C'est de l'usure explicite
+- Le surplus stipulé = usure de délai
+- Pas de différence entre 10% ou 1%, tout est usure
+
+✅ **L'alternative :** Le prêt bienveillant de la famille et des amis, ou les associations caritatives, ou les fonds de prêt bienveillant.
+
+---
+
+## 💡 Arrête-toi et Médite
+
+> **Question de réflexion :**
+>
+> Le Prophète ﷺ est décédé alors que son armure était gagée, bien qu'il aurait pu se passer d'emprunter.
+>
+> - Que nous enseigne son humilité ﷺ dans les transactions financières ?
+> - Comment équilibrer l'autonomie et les relations correctes avec les gens ?
+> - Le prêt bienveillant de notre époque remplit-il son rôle comme à l'époque des pieux prédécesseurs ?
+>
+> **Méditation :** "Quiconque soulage un croyant d'une difficulté de ce monde, Allah le soulagera d'une difficulté du Jour de la Résurrection."
+
+---
+
 ## Résumé de la Leçon
 
 | Élément | Le Prêt | Le Gage |

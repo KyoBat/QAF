@@ -163,7 +163,97 @@ Le texte prime sur le Qiyas absolument, car le Qiyas est une branche et le texte
 - **Shafiites** : Encadrent le Qiyas par des conditions précises
 - **Hanbalites** : L'utilisent en l'absence de texte
 
+---
+
+## 📖 Récits des Compagnons : Le qiyas de Mu'adh ibn Jabal
+
+Lorsque le Prophète ﷺ envoya Mu'adh ibn Jabal au Yémen comme juge, il lui demanda :
+
+**« Par quoi jugeras-tu ? »**
+
+Il répondit : Par le Livre d'Allah.
+
+Il dit : **« Et si tu ne trouves pas ? »**
+
+Il répondit : Par la Sunnah du Messager d'Allah ﷺ.
+
+Il dit : **« Et si tu ne trouves pas ? »**
+
+Il répondit : **Je ferai l'ijtihad de mon avis sans ménager d'effort.**
+
+Le Prophète ﷺ frappa sa poitrine et dit : **« Louange à Allah qui a guidé l'envoyé du Messager d'Allah vers ce qui satisfait le Messager d'Allah. »**
+
+**La leçon** : L'ijtihad et le qiyas sont légiférés en l'absence de texte.
+
+---
+
+## 🎯 Cas pratiques contemporains : Applique le Qiyas !
+
+### Cas 1 : Statut des cigarettes électroniques (Vape)
+
+**Question** : Quel est le statut des cigarettes électroniques ?
+
+**Application du Qiyas** :
+| Pilier | Application |
+|--------|-------------|
+| Original | Les cigarettes classiques |
+| Dérivé | Les cigarettes électroniques |
+| Règle de l'original | Interdiction ou forte répréhension (nuisance) |
+| Cause | Le tort causé à la santé |
+
+**Réponse** : ✅ Elles prennent le statut des cigarettes classiques — interdites ou fortement réprouvées
+
+---
+
+### Cas 2 : Statut des cryptomonnaies (Bitcoin)
+
+**Question** : Le Bitcoin est-il un bien légal dont l'échange est permis ?
+
+**Analyse par le Qiyas** :
+- S'applique-t-il par analogie à l'or et l'argent ? (l'usure s'y applique)
+- S'applique-t-il par analogie aux monnaies papier ? (valeurs conventionnelles)
+- S'applique-t-il par analogie aux marchandises ? (la différence est permise)
+
+**Réponse** : ⚠️ **Divergence contemporaine** — La majorité les considère comme des monnaies, donc l'usure de délai s'y applique
+
+---
+
+### Cas 3 : Statut du don d'organes
+
+**Question** : Est-il permis de donner un rein pour sauver un malade ?
+
+**Analyse par le Qiyas** :
+| Pilier | Application |
+|--------|-------------|
+| Original | Sauver quelqu'un de la noyade |
+| Dérivé | Le don de rein |
+| Règle de l'original | Obligatoire |
+| Cause | Sauver une vie |
+
+**Réponse** : ✅ **Permis sous conditions** selon la majorité des savants contemporains
+
+---
+
+## 💡 Pause réflexion
+
+**Exercice pratique** :
+
+Fais toi-même le qiyas : Quel est le statut des **jeux vidéo contenant des jeux de hasard** (comme les loot boxes) ?
+
+Essaie de déterminer :
+1. L'original de référence
+2. La cause commune
+3. Le statut
+
+**Réponse** : Par analogie au maysir (jeu de hasard) — **interdites** car elles impliquent de payer de l'argent pour obtenir quelque chose d'inconnu.
+
+---
+
 ## Conclusion
 
 Le Qiyas est un fondement de la législation islamique qui permet au mujtahid de rattacher les questions nouvelles aux questions textuelles. C'est une preuve de la flexibilité de la Sharia islamique et de sa validité pour tout temps et tout lieu.
+
+---
+
+*Rabbi zidni 'ilman*
 `;

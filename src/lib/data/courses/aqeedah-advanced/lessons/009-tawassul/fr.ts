@@ -131,7 +131,79 @@ const content = `
 
 ---
 
-## 📚 Sources
+## � Récit des Compagnons : La demande de pluie de 'Umar par al-'Abbâs
+
+Lorsque les gens furent frappés par la sécheresse à l'époque de 'Umar ibn al-Khattâb رضي الله عنه, il sortit avec les gens pour demander la pluie.
+
+'Umar dit : **« Ô Allah ! Nous faisions le tawassul vers Toi par notre Prophète et Tu nous donnais la pluie. Nous faisons maintenant le tawassul vers Toi par l'oncle de notre Prophète, alors donne-nous la pluie. »**
+
+Puis il dit à al-'Abbâs : **« Lève-toi et invoque Allah. »**
+
+Al-'Abbâs se leva et invoqua, et ils reçurent la pluie.
+
+**La grande leçon :**
+- Si le tawassul par la personne du Prophète ﷺ ou son rang était permis, ils ne se seraient pas tournés vers al-'Abbâs !
+- Ils ont fait le tawassul **par l'invocation d'al-'Abbâs** car il était vivant et pouvait invoquer.
+
+---
+
+## 📖 Récit des Salaf : Les compagnons de la grotte
+
+Trois hommes trouvèrent refuge dans une grotte pour passer la nuit, quand un rocher dévala et bloqua l'entrée de la grotte.
+
+L'un d'eux dit : **« Seul le fait d'invoquer Allah par vos bonnes œuvres peut vous sauver. »**
+
+- Le premier fit le tawassul par sa piété envers ses parents
+- Le deuxième fit le tawassul par sa chasteté face à la fornication
+- Le troisième fit le tawassul par son honnêteté à rendre le salaire
+
+À chaque invocation, le rocher s'écarta d'un tiers jusqu'à ce qu'ils sortent.
+
+**La leçon** : Voilà le tawassul légitime — par les bonnes œuvres, pas par les personnes des créatures.
+
+---
+
+## 🎯 Cas pratiques contemporains : Quel est le jugement ?
+
+### Cas 1 : « Ô Allah, je Te demande par le rang du Prophète »
+
+**Quelqu'un** invoque en disant : « Ô Allah, je Te demande par le rang de Ton Prophète Muhammad ﷺ de guérir mon malade. »
+
+**Question** : Quel est le jugement ?
+
+**Réponse** :
+- ⚠️ **Innovation** non rapportée des Compagnons
+- ❌ Ce n'est pas du shirk car il invoque Allah
+- ✅ **Le mieux** : « Ô Allah, je Te demande par Tes Beaux Noms... » ou « par ma foi en Toi... »
+
+---
+
+### Cas 2 : Visiter la tombe du saint pour invoquer près d'elle
+
+**Une femme** va à la tombe d'un saint pieux et dit : « Ô mon seigneur, intercède pour moi auprès d'Allah ! »
+
+**Question** : Quel est le jugement ?
+
+**Réponse** :
+- 🔴 **Demander l'intercession au mort = shirk**
+- Le mort n'entend pas et ne répond pas
+- ✅ Invoque Allah directement : ﴿ ادْعُونِي أَسْتَجِبْ لَكُمْ ﴾
+
+---
+
+### Cas 3 : « Par le droit des saints et des pieux »
+
+**Quelqu'un** dit : « Ô Allah, par le droit de Tes saints pieux, accorde-moi ma subsistance. »
+
+**Question** : Quel est le jugement ?
+
+**Réponse** :
+- ⚠️ **Innovation** — les créatures n'ont pas de droit sur Allah
+- ✅ **Le correct** : Se tourner vers Allah par Ses Noms et Attributs
+
+---
+
+## �📚 Sources
 
 | Ouvrage | Auteur |
 |---------|--------|

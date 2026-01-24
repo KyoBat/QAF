@@ -182,6 +182,109 @@ Les savants contemporains divergent à leur sujet, et la prudence est de les év
 
 ---
 
+## 📖 Récits des Salaf
+
+### Zayd ibn Harithah et l'abolition de l'adoption
+
+**Zayd ibn Harithah** (qu'Allah l'agrée) avait été capturé enfant puis vendu. Hakim ibn Hizam l'acheta pour sa tante Khadija (qu'Allah l'agrée), qui l'offrit au Prophète ﷺ.
+
+Son père Harithah et son oncle vinrent le chercher. Quand ils le trouvèrent chez le Prophète ﷺ, ils dirent: Ô Muhammad, tu es le fils du chef de ton peuple, rends-nous notre fils et sois généreux dans sa rançon.
+
+Le Prophète ﷺ dit avec une grande noblesse: **"Laissez-le choisir. S'il vous choisit, il est à vous sans rançon."**
+
+Quand on donna le choix à Zayd, il prononça des paroles qui émurent les présents: **"Je ne te préférerai jamais personne. Tu es pour moi comme un père et un oncle!"**
+
+Le Prophète ﷺ dit alors: **"Ô gens de Quraysh, soyez témoins que voici mon fils, il hérite de moi et j'hérite de lui."**
+
+Il fut alors appelé: **Zayd ibn Muhammad**.
+
+Puis le Coran descendit pour abolir cette adoption:
+
+> **﴾Appelez-les du nom de leurs pères, c'est plus équitable auprès d'Allah﴿**
+
+Il retrouva son nom: **Zayd ibn Harithah**.
+
+**La leçon**: L'Islam a préservé les lignées du mélange et a distingué entre l'adoption interdite (attribuer l'enfant à un autre que son père) et la kafala recommandée (prendre soin de l'orphelin et l'élever).
+
+---
+
+## 🎯 Cas pratiques contemporains
+
+### Premier cas: L'insémination artificielle entre époux
+
+**Question**: Un couple ne peut pas concevoir naturellement, le médecin leur a conseillé l'insémination artificielle (prendre le sperme du mari et l'ovule de l'épouse puis implanter l'embryon dans l'utérus de l'épouse). Est-ce permis?
+
+**Réponse**: **Oui c'est permis** si les conditions suivantes sont réunies:
+1. Que le sperme provienne du mari
+2. Que l'ovule provienne de l'épouse
+3. Que l'embryon soit implanté dans l'utérus de l'épouse elle-même
+4. Que cela se fasse pendant la durée du mariage
+5. Prendre les précautions pour éviter tout mélange
+
+L'enfant dans ce cas est attribué à ses parents légalement.
+
+---
+
+### Deuxième cas: La mère porteuse (location d'utérus)
+
+**Question**: Un couple a pris l'ovule de l'épouse et le sperme du mari, mais l'épouse ne peut pas porter l'enfant pour des raisons médicales. Ils ont déposé l'embryon dans l'utérus d'une autre femme contre rémunération. Quel est le jugement?
+
+**Réponse**: **Interdit**, cela n'est pas permis. C'est ce qu'on appelle "la gestation pour autrui" et c'est interdit pour plusieurs raisons:
+1. Introduction du liquide d'un homme dans l'utérus d'une femme étrangère
+2. Confusion des lignées: qui est sa mère? La propriétaire de l'ovule ou la porteuse?
+3. Atteinte à la dignité de la femme en faisant de son utérus une marchandise
+
+L'Académie Islamique du Fiqh a émis une fatwa l'interdisant.
+
+---
+
+### Troisième cas: La kafala de l'orphelin et le nom de famille
+
+**Question**: Une famille a pris en charge un orphelin depuis son jeune âge. Il a maintenant 10 ans et ils veulent l'enregistrer sous leur nom pour faciliter ses démarches scolaires et administratives. Quel est le jugement?
+
+**Réponse**: **Il n'est pas permis** de l'attribuer à eux comme leur fils. C'est l'adoption interdite. Mais il est possible:
+1. D'ajouter leur nom comme "famille d'accueil" et non comme filiation (dans certains pays: Mohamed fils de Abdullah sous la tutelle de la famille Untel)
+2. Ou de le garder avec le nom de son père s'il est connu, ou un nom indiquant sa lignée
+
+Allah dit: **﴾Appelez-les du nom de leurs pères﴿**
+
+Quant aux soins, à la bienveillance et au legs par testament, tout cela est légitime.
+
+---
+
+### Quatrième cas: Les banques de lait
+
+**Question**: Dans les hôpitaux occidentaux existent des "banques de lait" qui collectent le lait des mères et le donnent aux prématurés. Une musulmane a accouché dans cet hôpital et ils ont donné à son bébé de ce lait. Quel est le jugement?
+
+**Réponse**: C'est **problématique** du point de vue légal car:
+1. L'enfant peut être allaité par plusieurs femmes sans les connaître
+2. Il en résulte une interdiction par l'allaitement inconnue
+3. Il pourrait épouser sa sœur de lait sans le savoir
+
+**La prudence**: Que la musulmane évite cela si possible, et qu'elle allaite son enfant elle-même ou par une nourrice connue.
+
+---
+
+### Cinquième cas: Le test ADN et la filiation
+
+**Question**: Un homme doute de la filiation de son enfant et veut faire un test ADN. Est-ce permis? Peut-on s'y fier pour établir ou nier la filiation?
+
+**Réponse**:
+1. **Le principe**: La filiation s'établit par le lit conjugal, et l'homme ne peut accuser sa femme sans preuve
+2. **Le test ADN**: C'est une preuve forte mais pas absolument certaine à 100%
+3. **La négation de filiation**: Ne se fait que par le li'an (serment d'anathème) légal
+4. **L'établissement de filiation**: On peut s'appuyer sur l'ADN mais il n'établit pas à lui seul la filiation d'une personne de filiation inconnue selon certains savants
+
+Le détail: Si la filiation est établie par le lit conjugal, elle ne peut être niée que par le li'an. Si la filiation est contestée, on peut utiliser l'ADN comme indice.
+
+---
+
+## 💡 Pause réflexion
+
+> Médite sur la façon dont l'Islam a préservé les droits de l'orphelin de la meilleure manière: il a permis sa prise en charge, son éducation et la bienfaisance envers lui, mais il a interdit de l'attribuer à un autre que son père pour qu'il ne perde pas son identité originelle et que les lignées ne se mélangent pas. L'Islam combine ainsi la miséricorde (la kafala) et la justice (la préservation de la filiation). N'est-ce pas plus complet que le système d'adoption occidental qui efface complètement l'identité originelle de l'enfant?
+
+---
+
 ## Résumé
 
 | Sujet | Règle |

@@ -1,304 +1,259 @@
-export const lessonShamailEn = {
-  title: 'The Daily Life of the Prophet ﷺ — Shamā\'il',
-  content: `
-# The Daily Life of the Prophet ﷺ — الشمائل النبوية
+/**
+ * Seerah Module 5 - Lesson 033: The Daily Life of the Prophet ﷺ
+ * الشمائل النبوية
+ */
 
-![Shamā'il of the Prophet](https://images.unsplash.com/photo-1585036156171-384164a8c675?w=1200)
+export const content = `# 📜 الشَّمَائِلُ النَّبَوِيَّة — The Daily Life of the Prophet ﷺ
 
-> **"And indeed, you are of a great moral character."**
-> — *Surah Al-Qalam, 68:4*
-
----
-
-## Introduction: What are the Shamā'il?
-
-The term **Shamā'il** (شمائل) refers to the **qualities**, **characteristics**, and **daily habits** of the Prophet ﷺ. This science, known as "'Ilm al-Shamā'il," was codified by Imam al-Tirmidhī (d. 279 H) in his famous work *Al-Shamā'il al-Muḥammadiyya*.
-
-### Why Study the Shamā'il?
-
-1. **Love of the Prophet** — Knowing his habits intensifies our attachment
-2. **Ittibā' (Following)** — Imitating his daily life is an act of worship
-3. **Uswa Ḥasana** — He is our "beautiful example" (Surah 33:21)
-4. **Humanize without diminishing** — See his greatness in the details
+> **« وَإِنَّكَ لَعَلَىٰ خُلُقٍ عَظِيمٍ »**
+> 
+> "And indeed, you are of a great moral character."
+> — **[Surah Al-Qalam, 68:4]**
 
 ---
 
-## I. Physical Description (الصفات الخَلْقية)
+## 🎬 Introduction
 
-### A. General Portrait
+The term **Shamā'il** (شمائل) refers to the **qualities**, **characteristics**, and **daily habits** of the Prophet ﷺ. This science was codified by Imam al-Tirmidhī (d. 279 AH) in his work *Al-Shamā'il al-Muḥammadiyya*.
 
-> **Hadith**: Anas ibn Mālik describes: "*The Messenger of Allah ﷺ was neither excessively tall nor short, neither of a glaring white complexion nor dark brown. His hair was neither very curly nor completely straight. Allah sent him as a prophet at the age of forty.*"
-> — *Reported by Al-Bukhārī (3547) and Muslim (2338)*
+### 📋 Why Study the Shamā'il?
 
-### B. Distinctive Characteristics
+| Reason | Explanation |
+|--------|-------------|
+| **Love of the Prophet** | Knowing his habits deepens our attachment |
+| **Ittibā' (Following)** | Imitating his daily life is worship |
+| **Uswa Ḥasana** | He is our "excellent example" (Surah 33:21) |
+| **Humanize without diminishing** | See his greatness in the details |
 
-| Trait | Description (from the Companions) |
-|-------|----------------------------------|
+---
+
+## 🌟 Physical Description
+
+### 1️⃣ General Portrait
+
+> **"The Messenger of Allah ﷺ was neither very tall nor short, neither extremely white nor dark brown. His hair was neither very curly nor completely straight."**
+> — **[Al-Bukhārī 3547, Muslim 2338]**
+
+### 2️⃣ Distinctive Characteristics
+
+| Trait | Description |
+|-------|-------------|
 | **Face** | Luminous like the full moon, slightly round |
-| **Eyes** | Black with pure white, long eyelashes |
-| **Eyebrows** | Arched, thin, not meeting |
+| **Eyes** | Black with pure white, long lashes |
+| **Eyebrows** | Arched, thin, not joined |
 | **Nose** | Straight, slightly aquiline, distinguished |
-| **Mouth** | Beautiful, moderately sized |
 | **Beard** | Full, black with some white hairs |
-| **Hair** | Black, wavy, reaching to shoulders |
-| **Complexion** | Luminous, pinkish on white |
-| **Body** | Well-proportioned, broad-shouldered |
+| **Hair** | Black, wavy, reaching the shoulders |
+| **Complexion** | Luminous, rosy on white |
 | **Hands** | Soft as silk, fragrant |
 
-> **Hadith**: Jābir ibn Samura reports: "*The face of the Messenger of Allah ﷺ was round like the sun and the moon.*"
-> — *Reported by Muslim (2344)*
+> **"The face of the Messenger of Allah ﷺ was like the sun and the moon, and it was round."**
+> — **[Muslim 2344]**
 
-> **Hadith**: "*I have never touched silk softer than the palm of the Messenger of Allah ﷺ, nor smelled a fragrance more pleasant than his natural scent.*"
-> — *Reported by Al-Bukhārī (3561)*
+### 3️⃣ The Seal of Prophethood (خاتم النبوة)
 
----
-
-### C. The Seal of Prophethood (خاتم النبوة)
-
-> **Hadith**: "*I saw the seal of prophethood between his shoulders, like a pigeon's egg.*"
-> — *Reported by Muslim (2346)*
-
-This physical mark was a **distinguishing sign** of prophets mentioned in previous scriptures.
+> **"I saw the seal of prophethood between his shoulders, like a pigeon's egg."**
+> — **[Muslim 2346]**
 
 ---
 
-## II. His Clothing (اللباس)
+## 👘 His Clothing
 
-### A. Dress Style
-
-The Prophet ﷺ wore what was **available and appropriate**, without excess or poverty.
+### 1️⃣ Dress Style
 
 | Garment | Description |
 |---------|-------------|
-| **Qamīṣ (shirt)** | His favorite piece, mid-calf length |
-| **Izār (lower wrap)** | Cloth wrapped around the waist |
-| **Ridā' (mantle)** | Draped over the shoulders |
-| **Burda (cloak)** | Striped Yemeni cloak he loved |
-| **'Imāma (turban)** | Black, sometimes with a hanging tail |
+| **Qamīṣ (shirt)** | His favorite piece, to mid-shin |
+| **Izār (waist-wrap)** | Cloth wrapped around the waist |
+| **Ridā' (cloak)** | Draped over the shoulders |
+| **Burda (cape)** | Striped Yemeni cape he loved |
+| **'Imāma (turban)** | Black, sometimes with a tail |
 | **Na'layn (sandals)** | Two straps, simple leather |
 
-> **Hadith**: 'Āisha reports: "*The Prophet ﷺ loved to start with the right in everything: putting on shoes, combing hair, and purifying himself.*"
-> — *Reported by Al-Bukhārī (168)*
+### 2️⃣ Preferred Colors
 
-### B. Preferred Colors
+> **"The most beloved garments to the Prophet ﷺ were white shirts."**
+> — **[Ibn Mājah 3566]**
 
-> **Hadith**: "*The most beloved clothes to the Prophet ﷺ were white ones.*"
-> — *Reported by Ibn Mājah (3566), authenticated by Al-Albānī*
+### 3️⃣ Starting with the Right
 
-He also wore green, Yemeni stripes (burda), and occasionally black.
-
----
-
-## III. His Diet (الطعام والشراب)
-
-### A. Dietary Principles
-
-> **Hadith**: "*The son of Adam does not fill any vessel worse than his stomach. A few morsels are enough to keep his back straight. But if he must eat more: a third for food, a third for drink, and a third for breath.*"
-> — *Reported by Al-Tirmidhī (2380), authenticated*
-
-### B. Favorite Foods
-
-| Food | Notes |
-|------|-------|
-| **Tharid** | Bread crumbled in broth, his favorite dish |
-| **Dates** | Especially 'Ajwa from Medina |
-| **Honey** | He loved it greatly |
-| **Milk** | Goat, camel, sheep |
-| **Vinegar** | "What an excellent condiment!" |
-| **Olive oil** | "Eat it and anoint yourselves with it" |
-| **Gourd (Dubbā')** | He would seek it out in the dish |
-| **Watermelon/Melon** | With fresh dates |
-
-> **Hadith**: "*The Prophet ﷺ loved gourd. A dish was brought to him and he would pick out the pieces of gourd. Since then, I have loved gourd.*"
-> — *Reported by Al-Bukhārī (5379) — Anas ibn Mālik*
-
-### C. Table Manners
-
-1. **Bismillāh** at the start
-2. **Eat from what is in front of you**
-3. **Eat with the right hand**
-4. **Sit** and don't eat standing (generally)
-5. **Never criticize** a dish — eat it or leave it
-6. **Alḥamdulillāh** at the end
-
-> **Hadith**: "*The Prophet ﷺ never criticized any food. If he liked it, he ate it; if not, he left it.*"
-> — *Reported by Al-Bukhārī (5409) and Muslim (2064)*
+> **"The Prophet ﷺ loved to start with the right when putting on shoes, combing his hair, and purifying himself."**
+> — **[Al-Bukhārī 168]**
 
 ---
 
-## IV. His Sleep (النوم)
+## 🍽️ His Food and Drink
 
-### A. Nighttime Habits
+### 1️⃣ The Rule of Thirds
 
-| Aspect | Description |
-|--------|-------------|
-| **Position** | On his right side, hand under cheek |
-| **Supplications** | Many du'ā' before sleeping |
-| **Waking** | In the last third of the night for Tahajjud |
-| **Duration** | Moderate, neither excess nor deprivation |
-| **Afternoon nap (Qaylūla)** | Short rest after Dhuhr |
+> **"The son of Adam does not fill any vessel worse than his stomach. A few morsels are enough to keep his back straight. If he must eat more: one third for food, one third for drink, and one third for breathing."**
+> — **[Al-Tirmidhī 2380]**
 
-> **Hadith**: "*When the Prophet ﷺ went to bed, he would put his right hand under his cheek and say: 'Allāhumma qinī 'adhābaka yawma tab'athu 'ibādak' (O Allah, protect me from Your punishment on the day You resurrect Your servants).*"
-> — *Reported by Abū Dāwūd (5045)*
+### 2️⃣ Favorite Foods
 
-### B. Bedtime Supplications
+| Food | Hadith |
+|------|--------|
+| **Honey** | He loved it greatly — **[Al-Bukhārī 5682]** |
+| **Dates** | Staple food in Medina |
+| **Shoulder meat** | His favorite cut — **[Al-Bukhārī 5408]** |
+| **Tharīd** | Bread crumbled in broth — **[Al-Bukhārī 5419]** |
+| **Pumpkin (Dubbā')** | He would seek it in the dish — **[Muslim 2041]** |
 
-> **Hadith**: "*When the Prophet ﷺ went to bed, he would recite Surahs Al-Ikhlāṣ, Al-Falaq and An-Nās, blow into his hands and pass them over his entire body, starting with his head and face.*"
-> — *Reported by Al-Bukhārī (5017)*
+### 3️⃣ Table Manners
 
----
+| Rule | Practice |
+|------|----------|
+| **Bismillah** | Always before eating |
+| **Right hand** | Eat with the right hand |
+| **From what is near** | Don't reach far |
+| **Alhamdulillah** | After finishing |
 
-## V. Family Relations (الأسرة)
-
-### A. Exemplary Husband
-
-> **Hadith**: "*The best among you are those who are best to their wives, and I am the best of you to mine.*"
-> — *Reported by Al-Tirmidhī (3895), authenticated*
-
-**Behaviors:**
-- **Helped with housework**: sewing, repairing his shoes
-- **Played and joked** with 'Āisha
-- **Consulted his wives** on important matters
-- **Defended them** against any offense
-- **Fair** in time spent with each
-
-> **Hadith**: 'Āisha said: "*The Prophet ﷺ was in the service of his family. When the time for prayer came, he would go out to pray.*"
-> — *Reported by Al-Bukhārī (676)*
-
-### B. Affectionate Father
-
-- **Carried Ḥasan and Ḥusayn** on his shoulders
-- **Stood up for Fāṭima** and kissed her
-- **Played with children**, even during prayer
-- **Wept** at the death of his son Ibrāhīm
-
-> **Hadith**: "*The Prophet ﷺ prolonged his prostration and when he finished, he was asked about it. He said: 'My son climbed on my back and I did not want to make him get down until he was finished.'*"
-> — *Reported by Al-Nasā'ī (1141), authenticated*
+> **"Say Bismillah, eat with your right hand, and eat from what is near you."**
+> — **[Al-Bukhārī 5376, Muslim 2022]**
 
 ---
 
-## VI. Social Life (المعاملات الاجتماعية)
+## 🛏️ His Sleep
 
-### A. Total Accessibility
+### 1️⃣ Before Sleeping
 
-- **Greeted first**, even children
-- **Sat with the poor** and servants
-- **Accepted invitations**, even from the humblest
-- **Visited the sick**, Muslims and non-Muslims
-- **Attended funerals**
+| Practice | Source |
+|----------|--------|
+| **Wuḍū'** | Make ablution — **[Al-Bukhārī 247]** |
+| **Dust the bed** | Three times — **[Al-Bukhārī 6320]** |
+| **Āyat al-Kursī** | Night protection — **[Al-Bukhārī 2311]** |
+| **The 3 Qul** | Blow in hands and wipe body — **[Al-Bukhārī 5017]** |
+| **Right side** | Sleep on the right side |
 
-> **Hadith**: "*The Prophet ﷺ would pass by children and greet them.*"
-> — *Reported by Al-Bukhārī (6247)*
+### 2️⃣ His Bed
 
-### B. Limitless Generosity
+> **"The bed of the Prophet ﷺ was made of leather stuffed with palm fiber."**
+> — **[Al-Bukhārī 6456]**
 
-> **Hadith**: Ibn 'Abbās said: "*The Prophet ﷺ was the most generous of people, and he was even more generous in Ramadan. He was more generous than the sent wind.*"
-> — *Reported by Al-Bukhārī (6) and Muslim (2308)*
+### 3️⃣ Upon Waking
 
-- **Never refused** what was asked if he had it
-- **Gave without counting**, even his last possessions
-- **Preferred others** over himself (*īthār*)
-
----
-
-## VII. His Worship (العبادات)
-
-### A. His Prayer
-
-> **Hadith**: 'Āisha reports: "*The Prophet ﷺ prayed at night until his feet swelled. I said to him: 'Why do you do this when Allah has forgiven your past and future sins?' He replied: 'Should I not be a grateful servant?'*"
-> — *Reported by Al-Bukhārī (4837) and Muslim (2820)*
-
-### B. His Dhikr
-
-- **Subḥān Allāh**: 33 times after each prayer
-- **Alḥamdulillāh**: 33 times
-- **Allāhu Akbar**: 34 times
-- **Istighfār**: More than 70 times daily
-
-> **Hadith**: "*By Allah, I ask Allah's forgiveness and repent to Him more than 70 times a day.*"
-> — *Reported by Al-Bukhārī (6307)*
-
-### C. His Fasting
-
-- **Monday and Thursday**: Preferred days
-- **3 days per month**: 13th, 14th, 15th (ayyām al-bīḍ)
-- **Sha'bān**: Fasted almost the entire month
-- **'Āshūrā'**: 10th of Muḥarram
+> **"Praise be to Allah who gave us life after He caused us to die, and to Him is the resurrection."**
+> — **[Al-Bukhārī 6312]**
 
 ---
 
-## VIII. Moral Qualities (الأخلاق)
+## 😊 His Character
 
-### 'Āisha's Summary
-
-> **Hadith**: When asked to describe the Prophet's ﷺ character, 'Āisha replied: "*His character was the Quran.*"
-> — *Reported by Muslim (746)*
-
-### Table of Qualities
+### 1️⃣ With People
 
 | Quality | Manifestation |
 |---------|---------------|
-| **Ṣidq (Truthfulness)** | Never lied, even in jest |
-| **Amāna (Trustworthiness)** | Kept deposits even from enemies |
-| **Ḥilm (Forbearance)** | Only got angry for Allah's sake |
-| **Tawāḍu' (Humility)** | Sat on the ground, helped the weak |
-| **Shajā'a (Courage)** | First on the battlefield |
-| **Karām (Generosity)** | Gave without ever refusing |
-| **Ḥayā' (Modesty)** | More modest than a virgin behind her veil |
-| **Raḥma (Mercy)** | "We have not sent you except as a mercy" |
+| **Gentleness** | Never a hurtful word |
+| **Smile** | Constantly smiled at people |
+| **Listening** | Never interrupted |
+| **Modesty** | Sat wherever there was space |
+| **Accessibility** | Received everyone |
+
+> **"The Messenger of Allah ﷺ had the best character among people."**
+> — **[Al-Bukhārī 6203]**
+
+### 2️⃣ His Laughter
+
+> **"His laughter ﷺ was a smile."**
+> — **[Al-Tirmidhī, Shamā'il 225]**
+
+### 3️⃣ His Speech
+
+> **"His speech ﷺ was clear and distinct, understood by all who heard him."**
+> — **[Abū Dāwūd 4839]**
 
 ---
 
-## IX. Smiles and Humor (المزاح)
+## 🏠 His Home
 
-The Prophet ﷺ was not austere — he joked **without ever lying**.
+### 1️⃣ Description
 
-> **Hadith**: "*An old woman came to the Prophet ﷺ and asked him to pray for her to enter Paradise. He said: 'Old women will not enter Paradise.' She wept. Then he explained: 'They will enter as young women.' And he recited: 'We have created them perfectly, virgins, loving, of equal age' (Surah 56:35-37).*"
-> — *Reported by Al-Tirmidhī in Al-Shamā'il*
+| Aspect | Detail |
+|--------|--------|
+| **Size** | Small rooms (ḥujurāt) |
+| **Materials** | Clay bricks, palm roof |
+| **Furniture** | Very simple, bare necessities |
+| **Lighting** | Oil lamps |
 
-> **Hadith**: A man asked for a mount. The Prophet ﷺ said: "*I will carry you on the offspring of a she-camel.*" The man said: "What would I do with a baby camel?" The Prophet replied: "*Are not all camels offspring of she-camels?*"
-> — *Reported by Abū Dāwūd (4998)*
+### 2️⃣ Family Life
 
----
+> **'Āisha said: "He ﷺ was in the service of his family, and when prayer time came, he would go out to pray."**
+> — **[Al-Bukhārī 676]**
 
-## X. His Fragrance (الطيب)
+### 3️⃣ His Household Tasks
 
-> **Hadith**: "*The Prophet ﷺ loved perfume and never refused it.*"
-> — *Reported by Al-Bukhārī (2582)*
-
-- **Musk**: His favorite perfume
-- **Natural scent**: The Companions would collect his sweat for its fragrance
-- **'Ūd (aloeswood)**: Used to perfume his home
-
-> **Hadith**: Anas said: "*I have never smelled any amber or musk more fragrant than the scent of the Messenger of Allah ﷺ.*"
-> — *Reported by Muslim (2330)*
-
----
-
-## Conclusion: The Perfect Human
-
-The Prophet Muḥammad ﷺ embodies **perfect balance**: worshipper at night, leader by day; gentle with the weak, firm for the truth; simple in his life, immense in his mission.
-
-Studying his Shamā'il is not an academic luxury — it is an **act of love** and a path to practical emulation.
-
-> **"There has certainly been for you in the Messenger of Allah an excellent example for anyone whose hope is in Allah and the Last Day and who remembers Allah often."**
-> — *Surah Al-Aḥzāb, 33:21*
+- Mended his clothes
+- Repaired his sandals
+- Milked his goat
+- Served himself
 
 ---
 
-## Key Takeaways
+## 🤲 His Devotion
+
+### 1️⃣ Night Prayer
+
+> **'Āisha said: "He would pray at night until his feet cracked."**
+> — **[Al-Bukhārī 4837]**
+
+### 2️⃣ His Fasting
+
+| Type | Frequency |
+|------|-----------|
+| **Monday and Thursday** | Regularly — **[Al-Tirmidhī 747]** |
+| **White days** | 13, 14, 15 of each month — **[Al-Nasā'ī 2345]** |
+| **Sha'bān** | Most of the month — **[Al-Bukhārī 1969]** |
+| **'Āshūrā'** | 10 Muḥarram — **[Al-Bukhārī 2004]** |
+
+### 3️⃣ His Supplications
+
+He had supplications for **every situation**: waking, eating, leaving, entering, traveling, etc.
+
+---
+
+## 📖 Lessons for Today
+
+### 1️⃣ Life Balance
+
+- **Devotion + family life** — He excelled in both
+- **Work + rest** — Neither excess nor neglect
+- **Seriousness + joy** — Joked with truth
+
+### 2️⃣ Simplicity
+
+- **Minimal furniture** — Contentment with little
+- **Simple food** — No extravagance
+- **Modest clothing** — Clean but simple
+
+### 3️⃣ Excellence of Character
+
+- **Patience** with the ignorant
+- **Forgiveness** toward those who offended him
+- **Generosity** without limits
+
+---
+
+## 🎯 Conclusion
+
+Studying the Shamā'il of the Prophet ﷺ brings us closer to him and offers us a **complete and practical model** for our daily life. Every detail of his life is a lesson in excellence.
+
+> **"There has certainly been for you in the Messenger of Allah an excellent pattern."**
+> — **[Surah Al-Aḥzāb, 33:21]**
+
+---
+
+## 📊 Key Points to Remember
 
 | # | Point |
 |---|-------|
-| 1 | Shamā'il are the science of the **characteristics and habits** of the Prophet ﷺ |
-| 2 | He was **physically beautiful** — luminous face, wavy hair, pinkish complexion |
-| 3 | His daily life was **moderate** — food, sleep, clothing |
-| 4 | He was the **best husband and father** — helpful, playful, affectionate |
-| 5 | His character was **the Quran embodied** — all virtues in one person |
+| 1 | **Shamā'il** = qualities and daily habits of the Prophet ﷺ |
+| 2 | **Physical description** — Luminous face, medium height, fragrant |
+| 3 | **Rule of thirds** — One third food, one third drink, one third air |
+| 4 | **Family service** — He helped at home |
+| 5 | **Excellence of character** — The best of people in morality |
 
 ---
 
-**May Allah's peace and blessings be upon him, his family, and his companions abundantly**
-*صلى الله عليه وعلى آله وصحبه وسلم تسليمًا كثيرًا*
-`,
-};
+**ﷺ**
+*May peace and blessings be upon him*
+`;

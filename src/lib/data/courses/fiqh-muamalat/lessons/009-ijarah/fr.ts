@@ -166,6 +166,106 @@ Les savants contemporains ont divergé à son sujet :
 
 ---
 
+## 🎯 Cas pratiques contemporains : Jugez par vous-même !
+
+### Cas 1 : Location d'appartement sur Airbnb
+
+**Situation :** Abdullah possède un appartement et le loue sur l'application Airbnb pour des périodes courtes (un jour ou une semaine).
+
+**Question :** Est-ce permis ?
+
+**Réponse :**
+- ✅ **Permis** sous conditions :
+  - Que le locataire ne l'utilise pas pour l'illicite
+  - Que le loyer soit connu
+  - Que l'usage soit licite
+
+---
+
+### Cas 2 : Abonnement Netflix / Spotify
+
+**Situation :** Fatima paie un abonnement mensuel pour un service de streaming de films ou de musique.
+
+**Question :** Est-ce un contrat de location valide ?
+
+**Réponse :**
+- **Du point de vue du contrat :** ✅ Location valide (loyer connu contre usage connu)
+- **Du point de vue du contenu :** ⚠️ Dépend de ce qui est regardé
+  - Documentaires licites : permis
+  - Musique et contenu illicite : non permis
+
+---
+
+### Cas 3 : Location de voiture avec chauffeur (Uber)
+
+**Situation :** Khaled travaille comme chauffeur Uber avec sa propre voiture.
+
+**Question :** Quel est le type de ce contrat ?
+
+**Réponse :**
+- C'est un contrat de **location de travail** + **location d'usage**
+- ✅ Permis à condition de :
+  - Respecter les règles de la charia (ne pas transporter vers un lieu illicite)
+  - Éviter la khalwa (être seul) avec une femme étrangère
+
+---
+
+### Cas 4 : Le travail indépendant (Freelance)
+
+**Situation :** Ahmed est graphiste et travaille via la plateforme Fiverr. Il perçoit 50€ par design.
+
+**Question :** Quel est le jugement de ce contrat ?
+
+**Réponse :**
+- ✅ C'est une **location de travail** (employé partagé)
+- Conditions de validité :
+  - Déterminer le travail demandé
+  - Déterminer le salaire
+  - Que le travail soit licite (ne pas concevoir pour des sociétés d'alcool par exemple)
+
+---
+
+### Cas 5 : Les pénalités de retard de loyer
+
+**Situation :** Le bailleur stipule au locataire : "Si tu retardes le paiement du loyer, tu paies 50€ par jour de retard."
+
+**Question :** Quel est le jugement ?
+
+**Réponse :**
+- ❌ **La clause pénale financière sur le retard = usure**
+- ✅ **L'alternative :**
+  - Résilier le contrat en cas de retard
+  - Exiger un garant
+
+---
+
+## 📖 Récits des Salaf : Le salaire du travailleur
+
+Il est rapporté que 'Umar ibn 'Abd al-'Aziz رحمه الله éteignait la lampe du Trésor public quand il finissait le travail officiel, et allumait sa propre lampe quand il voulait lire pour lui-même !
+
+On lui demanda : Pourquoi ?
+
+Il dit : **"Cette lampe appartient aux musulmans, il ne m'est pas permis de l'utiliser pour mes affaires personnelles."**
+
+**La leçon :** L'employé est dépositaire de ce pour quoi il est engagé, il ne trahit ni le temps ni l'argent.
+
+---
+
+## 💡 Pause réflexion
+
+**Question de réflexion :**
+
+Vous êtes employé dans une entreprise, et le contrat de travail stipule 8 heures par jour. Mais vous passez une heure par jour à naviguer sur les réseaux sociaux.
+
+**Est-ce permis légalement ?**
+
+Rappelez-vous :
+- Vous êtes un employé, le temps ne vous appartient pas
+- **"Donnez au travailleur son salaire avant que sa sueur ne sèche"** = Mais le travailleur aussi doit donner son dû au travail
+- L'argent que vous percevez pour cette heure : est-il licite ?
+
+---
+
 ## Applications Contemporaines
 
 ### Location Immobilière

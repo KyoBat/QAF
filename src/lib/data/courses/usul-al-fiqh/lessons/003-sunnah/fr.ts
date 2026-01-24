@@ -112,6 +112,84 @@ La Oumma est unanime sur l'obligation de suivre la Sunnah prophétique authentiq
 - **Source de nombreuses règles** : comme les règles détaillées de la Zakat
 - **Préservée par Allah** : à travers les efforts des savants et leur documentation
 
+---
+
+## 📖 Récits des Salaf : Imran ibn Husayn et l'attachement à la Sunnah
+
+Imran ibn Husayn (qu'Allah l'agrée) était assis avec ses compagnons quand un homme dit : « Parle-nous du Coran seulement, laisse le hadith ! »
+
+Imran se mit en colère et dit : **« Vois-tu, si toi et tes compagnons étiez livrés au Coran seul, y trouverais-tu que le Dhohr fait quatre rak'at, le 'Asr quatre, et le Maghrib trois ? Vois-tu, si tu étais livré au Coran, y trouverais-tu que le tawaf fait sept tours et le sa'i sept ? »**
+
+Puis il dit : **« Ô gens ! Prenez de nous, car par Allah, si vous ne le faites pas, vous vous égarerez certainement. »**
+
+**La leçon** : La Sunnah est une nécessité pour comprendre la religion, et celui qui prétend s'en passer ignore la réalité de la législation.
+
+---
+
+## 🎯 Cas pratiques contemporains : Le rapport à la Sunnah prophétique
+
+### Cas 1 : « C'est un hadith faible »
+
+**Contexte** : Une personne refuse d'agir selon un hadith parce qu'elle a entendu qu'il était faible.
+
+**Question** : Tout ce qui est dit faible ne doit-il pas être suivi ?
+
+**Réponse** : ⚠️ Il faut vérifier la source de l'affaiblissement. Le hadith peut être authentique selon d'autres spécialistes du hadith. Et le hadith faible peut être renforcé par des témoins. La référence sont les gens de spécialité.
+
+---
+
+### Cas 2 : L'argumentation par un hadith forgé
+
+**Contexte** : Sur internet circule le hadith : « Cherchez la science même en Chine. »
+
+**Question** : Est-il valide de l'utiliser comme argument ?
+
+**Réponse** : ❌ Ce hadith est très faible ou forgé selon de nombreux spécialistes. Il n'est pas permis de l'attribuer au Prophète ﷺ, et la recherche de la science est établie par de nombreuses preuves authentiques.
+
+---
+
+### Cas 3 : La Sunnah législative et coutumière
+
+**Contexte** : Une personne insiste pour toujours porter du blanc parce que le Prophète ﷺ le portait.
+
+**Question** : Le port du blanc par le Prophète ﷺ est-il une législation obligatoire ?
+
+**Réponse** : ✅ Porter du blanc est une sunnah recommandée, mais pas obligatoire. Les actes instinctifs et coutumiers du Prophète ﷺ ne sont pas une législation contraignante, contrairement à ses actes cultuels.
+
+---
+
+### Cas 4 : Le rejet de l'autorité de la Sunnah
+
+**Contexte** : Certains prétendent que la Sunnah n'est pas une preuve et que le Coran suffit.
+
+**Question** : Quelle est la réponse à cette ambiguïté ?
+
+**Réponse** : ❌ Cela contredit le Coran lui-même qui ordonne de suivre le Messager ﷺ. Et cela contredit le consensus de la Oumma à travers les siècles. Et celui qui nie l'autorité de la Sunnah ne peut accomplir ni la prière, ni la Zakat, ni le Hajj.
+
+---
+
+### Cas 5 : Distinguer la compréhension du texte
+
+**Contexte** : Deux savants divergent sur la compréhension d'un même hadith.
+
+**Question** : Cela signifie-t-il que la Sunnah n'est pas claire ?
+
+**Réponse** : ✅ La divergence dans la compréhension n'entame pas l'autorité du texte. Comme le Coran contient le clair et l'ambigu, la Sunnah aussi. La divergence est une miséricorde si elle est fondée sur une méthodologie scientifique correcte.
+
+---
+
+## 💡 Pause réflexion
+
+**Question à méditer** : Comment vous assurez-vous de l'authenticité des hadiths que vous utilisez dans votre vie quotidienne ? Et distinguez-vous entre la Sunnah législative et coutumière ?
+
+**Rappel** :
+- La Sunnah est une révélation d'Allah comme le Coran
+- On ne peut se passer du Coran par la Sunnah (et vice versa)
+- Vérifier l'authenticité du hadith est une responsabilité religieuse
+- Comprendre la Sunnah nécessite les gens de spécialité
+
+---
+
 ## Conclusion
 
 La Sunnah prophétique est la deuxième source de législation après le Coran, c'est une preuve contraignante, elle explique et détaille le Coran et apporte des règles indépendantes, et le musulman doit la suivre et la mettre en pratique.

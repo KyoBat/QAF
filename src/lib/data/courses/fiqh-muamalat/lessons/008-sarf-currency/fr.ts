@@ -207,4 +207,88 @@ Acheter une marchandise en dollars et payer le prix en riyals
 
 ---
 
+## 📖 Récits des Salaf : La précision des Compagnons dans le change
+
+Un homme vint voir 'Abdullah ibn 'Umar رضي الله عنهما au marché et lui dit :
+
+**"Ô Abu 'Abd ar-Rahman, je vends des chameaux à al-Baqi'. Je vends en dinars et je reçois des dirhams, et je vends en dirhams et je reçois des dinars !"**
+
+Ibn 'Umar رضي الله عنه répondit :
+
+> **"Pas de problème à les prendre au cours du jour, tant que vous ne vous séparez pas et qu'il reste quelque chose entre vous."**
+
+L'homme alla ensuite voir le Prophète ﷺ qui lui donna la même réponse qu'Ibn 'Umar.
+
+Les Compagnons رضي الله عنهم veillaient à :
+- **L'échange immédiat** — Ne se séparaient qu'après avoir complété l'échange
+- **Le cours du jour** — Ne reportaient pas le change à un cours ancien
+- **La clarté totale** — Pas d'ambiguïté sur les montants
+
+---
+
+## 🎯 Cas pratiques contemporains
+
+### Cas 1 : Le bureau de change traditionnel
+
+**Situation :** Je suis allé dans un bureau de change pour convertir 1 000 dollars en euros. L'employé m'a donné les euros immédiatement et a pris les dollars. Est-ce permis ?
+
+**Réponse :** ✅ **Permis** — C'est un change valide car l'échange a eu lieu dans la session. Les deux contreparties ont été remises avant la séparation.
+
+---
+
+### Cas 2 : Le virement bancaire international
+
+**Situation :** Je veux envoyer de l'argent à ma famille dans un autre pays. La banque prend le montant en euros et le dépose en monnaie locale sur leur compte. Est-ce permis ?
+
+**Réponse :** ✅ **Permis** — Si le montant est déposé sur le compte du destinataire immédiatement ou le même jour ouvrable. La réception constructive (entrée de l'argent sur le compte) remplace la réception réelle.
+
+---
+
+### Cas 3 : L'achat de cryptomonnaies
+
+**Situation :** J'ai acheté du Bitcoin via une plateforme de trading, j'ai payé en euros et reçu le Bitcoin dans mon portefeuille numérique immédiatement. Est-ce permis ?
+
+**Réponse :** ⚠️ **Sujet à divergence** — Si les cryptomonnaies sont considérées comme des monnaies, l'échange immédiat est requis (ce qui est réalisé ici). Mais le statut des cryptomonnaies lui-même fait l'objet de divergence entre les savants contemporains.
+
+---
+
+### Cas 4 : Le Forex (Trading de devises)
+
+**Situation :** J'ai ouvert un compte sur une plateforme Forex pour trader les devises. J'achète et vends et réalise des profits. Est-ce licite ?
+
+**Réponse :** ❌ **Généralement interdit** — Pour plusieurs raisons :
+- **Pas d'échange immédiat :** Les transactions sont généralement à terme
+- **L'effet de levier :** Un prêt usuraire déguisé
+- **Les frais de rollover :** De l'usure explicite
+
+L'alternative : S'il existe une plateforme islamique sans levier ni intérêts avec échange réel, elle pourrait être permise.
+
+---
+
+### Cas 5 : Western Union
+
+**Situation :** J'ai envoyé de l'argent via Western Union, l'expéditeur paie en dollars et le destinataire reçoit en monnaie locale après quelques jours. Est-ce permis ?
+
+**Réponse :** ✅ **Permis** — C'est un transfert, pas un change. Le transfert est le déplacement d'une dette d'une responsabilité à une autre, et il est permis légalement. Le change se fait au moment de la réception au cours du jour de réception.
+
+---
+
+## 💡 Pause réflexion
+
+> **"De main à main"** — Le Prophète ﷺ
+
+Cette parole prophétique simple porte une règle majeure pour protéger l'économie des manipulations et spéculations fictives.
+
+Réfléchissez :
+
+🔹 Combien de crises économiques mondiales sont causées par les transactions sur dettes et contrats à terme sans échange réel ?
+
+🔹 Lors de vos transferts d'argent, vérifiez-vous que le destinataire reçoit le montant immédiatement ?
+
+🔹 Si le monde respectait la règle "de main à main" dans les transactions financières, à quoi ressemblerait l'économie mondiale ?
+
+**Rappel :** La charia protège les biens de la perte et de l'incertitude avant de protéger les profits.
+
+---
+
 *Ô Seigneur, augmente ma science*`;

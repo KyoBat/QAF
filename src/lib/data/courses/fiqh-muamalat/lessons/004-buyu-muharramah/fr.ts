@@ -194,4 +194,102 @@ L'Islam a interdit certaines ventes en raison du préjudice, de l'incertitude et
 
 ---
 
+## 📖 Récit des Salaf : La piété de l'Imam Ahmad
+
+L'Imam Ahmad ibn Hanbal refusait de manger de l'argent de l'État par crainte du doute, malgré sa pauvreté.
+
+Il disait : **"Abandonner un daniq (petite monnaie) d'illicite vaut mieux que mille pèlerinages."**
+
+On lui dit : Une partie de l'argent des gens comporte du doute. Il dit : **"Le tiers de l'argent des gens est illicite !"** — voulant mettre en garde contre la négligence.
+
+**La leçon à retenir :** La piété dans les transactions est un signe de foi.
+
+---
+
+## 🎯 Cas pratiques contemporains
+
+### Cas 1 : La tromperie sur les spécifications (Achats en ligne)
+
+**Un vendeur sur Internet** affiche de belles photos du produit, mais le produit réel est de bien moindre qualité.
+
+**Question** : Quel est le jugement ?
+
+**Réponse** :
+- ❌ **Tromperie interdite** — "Celui qui nous trompe n'est pas des nôtres"
+- ✅ L'acheteur a le droit de retourner le produit
+- ⚠️ L'évaluation négative sincère : permise, voire requise
+
+---
+
+### Cas 2 : Faire monter le prix aux enchères (eBay)
+
+**Quelqu'un** s'entend avec son ami pour enchérir aux enchères afin de faire monter le prix sur les vrais acheteurs.
+
+**Question** : Quel est le jugement ?
+
+**Réponse** :
+- ❌ **C'est exactement la surenchère fictive (najsh) interdite !**
+- Même si c'est électronique, le jugement est le même
+- 🔴 Dévore les biens des gens injustement
+
+---
+
+### Cas 3 : Le monopole pendant les crises
+
+**Un commerçant** achète tous les masques et désinfectants pendant l'épidémie, puis les vend à des prix multipliés.
+
+**Question** : Quel est le jugement ?
+
+**Réponse** :
+- ❌ **Monopole interdit** — "Seul le pécheur monopolise"
+- 🔴 Parmi les pires formes d'injustice
+- ✅ Le gouverneur peut imposer des prix aux monopolisateurs
+
+---
+
+### Cas 4 : Vendre pendant le sermon du vendredi
+
+**Un propriétaire de magasin** ouvre son magasin pendant la prière du vendredi.
+
+**Question** : Quel est le jugement ?
+
+**Réponse** :
+- ❌ **Interdit** pour celui à qui le vendredi est obligatoire
+- ⚠️ Le contrat : valide avec péché selon la majorité
+- ✅ L'obligation : fermer le magasin et aller prier
+
+---
+
+### Cas 5 : Acheter un produit volé bon marché
+
+**Quelqu'un** trouve un téléphone neuf vendu à moitié prix, et soupçonne qu'il est volé.
+
+**Question** : Quel est le jugement ?
+
+**Réponse** :
+- ❌ **Il n'est pas permis d'acheter avec le doute**
+- 🔴 L'acheteur est complice du péché
+- ✅ Règle : "Ce dont les gens s'interrogent beaucoup, abandonne-le"
+
+---
+
+## 💡 Pause réflexion
+
+**Question personnelle** :
+
+Vous êtes vendeur, et tout le marché triche : ils mélangent la bonne marchandise avec la mauvaise.
+
+Si vous ne faites pas comme eux, vous perdrez les clients.
+
+**Que faites-vous ?**
+
+Rappel :
+- 🔴 La tromperie est interdite même si tous le font
+- ✅ "Celui qui abandonne quelque chose pour Allah, Allah le lui compense par quelque chose de meilleur"
+- 💡 La véracité est bénédiction, et la tromperie est effacement
+
+> Le Prophète ﷺ a dit : **"Les deux contractants ont l'option tant qu'ils ne se sont pas séparés. S'ils sont véridiques et transparents, leur vente sera bénie. S'ils cachent et mentent, la bénédiction de leur vente sera effacée."**
+
+---
+
 *Ô Seigneur, augmente ma science*`;

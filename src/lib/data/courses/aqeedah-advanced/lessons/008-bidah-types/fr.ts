@@ -130,7 +130,78 @@ const content = `
 
 ---
 
-## 📚 Sources
+## � Récit des Salaf : La position d'Ibn Mas'ûd sur le dhikr collectif
+
+'Abdullah ibn Mas'ûd رضي الله عنه entra dans la mosquée et trouva des gens assis en cercles. Chacun avait des cailloux dans la main, et un homme disait : « Faites le tasbîh cent fois, le takbîr cent fois, le tahlîl cent fois. »
+
+Ibn Mas'ûd dit : **« Que faites-vous là ? »**
+
+Ils dirent : Ô Abû 'Abd ar-Rahmân, ce sont des cailloux avec lesquels nous comptons le takbîr, le tahlîl et le tasbîh.
+
+Il dit : **« Comptez plutôt vos péchés, je vous garantis que rien de vos bonnes œuvres ne sera perdu ! Malheur à vous, ô communauté de Muhammad ! Comme votre perte est rapide ! Voilà les Compagnons de votre Prophète ﷺ encore présents, ses vêtements ne sont pas usés et ses ustensiles ne sont pas cassés. Par Celui qui tient mon âme, ou bien vous êtes sur une voie plus guidée que celle de Muhammad, ou bien vous ouvrez une porte d'égarement ! »**
+
+Ils dirent : Par Allah, nous ne voulions que le bien !
+
+Il dit : **« Combien de gens veulent le bien sans l'atteindre. »**
+
+**La leçon à retenir** : La bonne intention ne valide pas l'acte s'il n'est pas conforme à la guidance du Prophète ﷺ.
+
+---
+
+## 🎯 Cas pratiques contemporains : Est-ce une innovation ?
+
+### Cas 1 : Prier le tarâwîh derrière la télévision
+
+**Sa'îd** ne peut pas aller à la mosquée, alors il prie chez lui derrière l'imam qu'il regarde à la télévision.
+
+**Question** : Est-ce permis ?
+
+**Réponse** :
+- ❌ **La prière derrière la télévision n'est pas valide** — car les rangs sont coupés
+- ✅ **Alternative** : Il prie seul ou avec sa famille
+- ⚠️ Ce n'est pas une innovation, mais une erreur juridique
+
+---
+
+### Cas 2 : L'invocation collective après la prière
+
+**À la mosquée du quartier**, après chaque prière, le muezzin lève les mains et dit : « Allâhumma... » et les fidèles disent « Âmîn ».
+
+**Question** : Est-ce une Sunnah ou une innovation ?
+
+**Réponse** :
+- ❌ **L'invocation collective continue après chaque prière = innovation**
+- ✅ **La Sunnah** : Le dhikr individuel après la prière
+- ✅ **Ce qui est permis** : L'invocation collective occasionnelle pour une raison (pluie, calamité)
+
+---
+
+### Cas 3 : Réciter la Fâtihah pour le défunt
+
+**Lors des condoléances**, les gens se rassemblent pour réciter la Fâtihah pour l'âme du défunt.
+
+**Question** : Quel est le jugement ?
+
+**Réponse** :
+- ⚠️ **Réciter le Coran pour le défunt** : Les savants ont divergé
+- ❌ **Se rassembler pour cela de cette façon** : Les Salaf ne le faisaient pas
+- ✅ **Le mieux** : Invoquer pour le défunt et faire l'aumône en son nom
+
+---
+
+### Cas 4 : La nuit du 15 Sha'bân
+
+**Les gens du village** se rassemblent la nuit du 15 Sha'bân pour prier, invoquer et faire le dhikr collectivement.
+
+**Question** : Quel est le jugement ?
+
+**Réponse** :
+- ✅ **Prier la nuit individuellement** : Recommandé chaque nuit
+- ❌ **Spécifier la nuit du 15 par un rassemblement** : Innovation
+
+---
+
+## �📚 Sources
 
 | Ouvrage | Auteur |
 |---------|--------|

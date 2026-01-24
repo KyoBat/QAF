@@ -214,6 +214,103 @@ Sociétés qui rassemblent les fonds des investisseurs et les investissent dans 
 
 ---
 
+## 📖 Récits des Salaf : La Mudarabah d'al-'Abbas ibn 'Abd al-Muttalib
+
+Al-'Abbas ibn 'Abd al-Muttalib رضي الله عنه — l'oncle du Prophète ﷺ — était parmi les riches de Quraysh et les plus expérimentés en commerce. Quand il donnait son argent en mudarabah, il stipulait au travailleur des conditions précises pour protéger le capital :
+
+1. **"Qu'il ne traverse pas la mer avec"** — Protection contre les risques de naufrage
+2. **"Qu'il ne descende pas dans une vallée"** — Protection contre les risques d'inondation
+3. **"Qu'il n'achète pas de bête vivante"** — C'est-à-dire les animaux qui peuvent mourir
+
+Il dit : **"S'il fait cela, il garantit"**
+
+Sa condition parvint au Messager d'Allah ﷺ **qui l'approuva**.
+
+**Les leçons à retenir :**
+- ✅ Il est permis de restreindre la mudarabah pour protéger le capital
+- ✅ Le travailleur garantit s'il viole les conditions
+- ✅ Les conditions doivent être raisonnables et compréhensibles
+
+---
+
+## 🎯 Cas pratiques contemporains
+
+### Cas 1 : L'investissement dans un fonds islamique
+
+**Situation :** J'ai placé 50 000 € dans un fonds d'investissement islamique. Le fonds prend 2% de frais de gestion annuels + 20% des profits. Après un an, le fonds a perdu 10%. Qui supporte la perte ?
+
+**Réponse :** ✅ **Vous supportez la perte sur le capital** — Car vous êtes le propriétaire du capital. Mais :
+- Les frais de gestion (2%) sont dus car c'est une rémunération pour le travail
+- Les 20% des profits ne sont pas dus car il n'y a pas de profit
+- Si le fonds garantit le capital, c'est contraire à la charia
+
+---
+
+### Cas 2 : Financer le projet d'un ami
+
+**Situation :** Mon ami a une excellente idée de projet mais n'a pas d'argent. Je veux le financer avec 25 000 € à condition de partager les profits moitié-moitié. Est-ce permis ?
+
+**Réponse :** ✅ **Permis** — C'est une mudarabah légale valide. Mais attention :
+- ❌ N'exigez pas la garantie du capital
+- ❌ N'exigez pas un profit déterminé (comme 10% annuels)
+- ✅ Stipulez un pourcentage du profit (50% par exemple)
+- ✅ Documentez l'accord par écrit
+
+---
+
+### Cas 3 : Le dépôt d'investissement à la banque islamique
+
+**Situation :** La banque islamique propose un "dépôt d'investissement" avec un rendement prévu de 5% annuels. Quelle est la différence avec l'intérêt de la banque conventionnelle ?
+
+**Réponse :**
+- **Banque islamique :** 5% prévus et non garantis, peuvent augmenter, diminuer ou être en perte
+- **Banque conventionnelle :** 5% garantis quoi qu'il arrive
+
+⚠️ **Attention :** Si la banque islamique garantit le rendement, c'est de l'usure déguisée !
+
+---
+
+### Cas 4 : Les plateformes de financement participatif
+
+**Situation :** Une plateforme électronique rassemble les fonds des investisseurs et finance des petits projets. Elle donne aux investisseurs 12% annuels fixes. Est-ce licite ?
+
+**Réponse :** ❌ **Interdit** — Le rendement fixe garanti = usure. La mudarabah légale exige :
+- Un pourcentage du profit, pas un montant fixe
+- La possibilité de perte
+- La transparence sur les projets financés
+
+---
+
+### Cas 5 : L'investissement immobilier
+
+**Situation :** J'ai donné à quelqu'un 500 000 € pour acheter un bien immobilier et le louer. Nous avons convenu que le loyer me revient et le bien lui appartient à la fin. Est-ce valide ?
+
+**Réponse :** ⚠️ **Ce n'est pas une mudarabah valide** — Car :
+- La mudarabah concerne le commerce (achat et vente), pas la location
+- L'accord que le bien lui appartient = garantie du capital
+
+**L'alternative correcte :** Un partenariat dans le bien, le loyer divisé selon les parts, et au moment de la vente, le prix est divisé.
+
+---
+
+## 💡 Pause réflexion
+
+> **"Le gain va avec le risque"** — Règle juridique
+
+C'est-à-dire : celui qui veut le profit doit supporter la possibilité de perte.
+
+Réfléchissez à vos investissements :
+
+🔹 Cherchez-vous un "investissement garanti avec rendement fixe" ? Si vous le trouvez, sachez que c'est généralement de l'usure déguisée.
+
+🔹 Le vrai investissement comporte un risque. Êtes-vous prêt à supporter la perte potentielle ?
+
+🔹 Quand vous donnez votre argent à quelqu'un pour l'investir, documentez-vous l'accord ? Suivez-vous la performance de l'investissement ?
+
+**Rappel :** L'argent licite peut diminuer mais il est béni, et l'argent illicite peut augmenter mais il est dépourvu de bénédiction.
+
+---
+
 ## Résumé de la Leçon
 
 | Élément | Règle |

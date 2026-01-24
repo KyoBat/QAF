@@ -137,7 +137,91 @@ const content = `
 
 ---
 
-## 📚 Sources
+## � Récit des Salaf : La modération de 'Umar ibn 'Abd al-'Azîz
+
+Lorsque **'Umar ibn 'Abd al-'Azîz** رحمه الله devint calife, il voulut tout réformer immédiatement et rendre les droits à leurs ayants droit.
+
+Son fils **'Abd al-Malik** lui dit : « Ô père ! Pourquoi n'appliques-tu pas la vérité entièrement maintenant ? Par Allah, peu m'importe que toi et moi bouillions dans les marmites pour la vérité ! »
+
+'Umar رحمه الله prononça une parole grandiose :
+
+> **« Ô mon fils ! Je crains d'imposer la vérité aux gens d'un seul coup, qu'ils la rejettent d'un seul coup, et qu'il en résulte une fitna ! »**
+
+Il réformait donc petit à petit, jusqu'à faire revivre la Sunnah et faire mourir l'innovation, en seulement deux ans et demi !
+
+**La leçon à retenir** : La modération n'est pas faiblesse, mais sagesse dans l'application. L'excès dans la réforme peut produire des résultats contraires.
+
+---
+
+## 🎯 Cas pratiques contemporains : La modération dans notre vie
+
+### Cas 1 : L'excès dans le takfir des musulmans
+
+**Mahmoud** est un jeune religieux, mais il déclare mécréant quiconque le contredit : « Untel se rase la barbe = mécréant ! » « Untel travaille dans une banque = mécréant ! »
+
+**Question** : Qu'y a-t-il d'erroné dans sa méthode ?
+
+**Réponse** :
+- C'est **la méthode des Khawârij**, pas celle d'Ahl as-Sunnah
+- **Les grands péchés** ne rendent pas leur auteur mécréant selon Ahl as-Sunnah
+- **Le devoir** : Le conseil avec sagesse, pas le takfir
+
+---
+
+### Cas 2 : Le laxisme au nom de « l'Islam modéré »
+
+**Sarah** dit : « Je suis une musulmane modérée, je ne m'astreins pas au hijab ni aux cinq prières, l'important c'est le cœur ! »
+
+**Question** : Est-ce de la modération ?
+
+**Réponse** :
+- Ce **n'est pas de la modération mais du laxisme**
+- La modération : Suivre la Sharî'ah comme Allah l'a ordonnée
+- Abandonner les obligations au nom de la « modération » : Égarement
+
+---
+
+### Cas 3 : L'excès dans la vénération des personnes
+
+**Les disciples du Sheikh untel** disent : « Notre sheikh ne se trompe pas ! » « Quiconque contredit notre sheikh est égaré ! »
+
+**Question** : Quel est le jugement ?
+
+**Réponse** :
+- **L'infaillibilité n'appartient qu'à Allah et Son Messager**
+- **Tout homme, on prend de lui et on laisse** sauf le Messager d'Allah ﷺ
+- **L'excès envers les savants** : Peut mener à quelque chose qui ressemble à leur adoration
+
+---
+
+### Cas 4 : La mollesse dans les questions de croyance
+
+**Omar** dit : « Toutes les religions mènent à Allah, le musulman, le chrétien et le juif sont tous au Paradis ! »
+
+**Question** : Est-ce de la modération ?
+
+**Réponse** :
+- C'est **une mécréance claire**, cela n'a rien à voir avec la modération
+- Allah dit : ﴿ وَمَن يَبْتَغِ غَيْرَ الْإِسْلَامِ دِينًا فَلَن يُقْبَلَ مِنْهُ ﴾
+- **La modération** : L'équilibre dans la vérité, pas l'abandonner
+
+---
+
+## 💡 Pause réflexion
+
+**Question personnelle** :
+
+À notre époque, les mots « modération » et « juste milieu » sont beaucoup utilisés, mais ils peuvent aussi être utilisés pour le faux !
+
+**Comment distingues-tu entre :**
+- **La vraie modération** : Suivre la méthode des Salaf
+- **Et la fausse modération** : Abandonner les constantes sous prétexte d'« évolution » ?
+
+La balance : **Ce qui s'accorde avec le Coran, la Sunnah et la compréhension des Salaf = vraie modération**
+
+---
+
+## �📚 Sources
 
 | Ouvrage | Auteur |
 |---------|--------|

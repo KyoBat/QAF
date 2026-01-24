@@ -330,6 +330,148 @@ Grande ignorance dans les contrats.
 
 ---
 
+## 📖 Récits des Pieux Prédécesseurs
+
+### La position de l'imam Ibn Taymiyya sur le change
+
+**Cheikh al-Islam Ibn Taymiyya** رحمه الله fut interrogé sur les changeurs qui prêtent aux gens avec surplus, il répondit :
+
+> "C'est l'usure sur laquelle la communauté est unanime quant à son interdiction, et c'est l'un des plus grands péchés. Le Prophète ﷺ a maudit celui qui consomme l'usure, celui qui la fait consommer, celui qui l'écrit et ses témoins."
+
+Puis il dit رحمه الله :
+
+> "Quant à celui qui prête un prêt bienveillant sans stipuler de surplus, c'est l'une des meilleures œuvres, et il a une grande récompense auprès d'Allah."
+
+**La leçon :** La différence fondamentale entre le prêt bienveillant et l'usure est **le surplus stipulé**.
+
+---
+
+### Le début des banques islamiques - Une histoire inspirante
+
+En **1963**, l'économiste égyptien **Dr Ahmed an-Najjar** fonda la première expérience bancaire islamique dans le village de **Mit Ghamr** en Égypte.
+
+Le Dr an-Najjar a dit :
+
+> "J'ai vu les paysans avoir besoin de financement pour acheter des semences et des outils, et ne trouver que l'usure. Je me suis dit : pourquoi ne pas créer une banque qui finance par la mudarabah et le partenariat ?"
+
+L'expérience a réussi et s'est répandue dans le monde islamique. Aujourd'hui, la finance islamique dépasse **3 trillions de dollars**.
+
+**La leçon :** Les alternatives islamiques sont possibles et réussies, mais elles ont besoin de volonté et de créativité.
+
+---
+
+### La position des instances de fatwa sur les banques
+
+En **1965**, le **Conseil des Recherches Islamiques** d'al-Azhar a émis une fatwa interdisant les intérêts bancaires.
+
+En **1986**, l'**Académie Internationale du Fiqh Islamique** a décidé que :
+
+> "Tout surplus ou intérêt sur une dette échue dont le débiteur est incapable de s'acquitter en échange de son report, ainsi que le surplus ou l'intérêt sur le prêt dès le début du contrat, ces deux formes sont de l'usure interdite par la charia."
+
+---
+
+## 🎯 Cas Contemporains
+
+### Cas 1 : Ouvrir un compte dans une banque usuraire
+
+**Question :** Il n'y a pas de banque islamique dans mon pays. Puis-je ouvrir un compte dans une banque usuraire ?
+
+**Réponse :**
+
+| Situation | Jugement |
+|-----------|----------|
+| Compte courant sans intérêts | ✅ Permis par besoin |
+| Compte épargne avec intérêts | ❌ Interdit |
+| Les intérêts accumulés | Il faut s'en débarrasser pour les intérêts des musulmans |
+
+**Se débarrasser des intérêts :**
+- Les pauvres et les nécessiteux
+- Les hôpitaux et les écoles
+- Ce n'est pas compté comme aumône, mais élimination d'argent illicite
+
+---
+
+### Cas 2 : Acheter une voiture à crédit
+
+**Question :** Je veux acheter une voiture. La banque conventionnelle me donne un prêt à 5% d'intérêt. La banque islamique me la vend en murabaha avec 7% de profit. Lequel choisir ?
+
+**Réponse :** ✅ **La banque islamique** même si c'est plus cher :
+
+| Murabaha islamique | Prêt usuraire |
+|-------------------|---------------|
+| Contrat de vente, prix fixe | Contrat de prêt avec intérêt |
+| Pas de surplus en cas de retard (en principe) | L'intérêt s'accumule avec le retard |
+| La banque possède d'abord la voiture | La banque ne prête que de l'argent |
+| Licite | Absolument interdit |
+
+⚠️ **Attention :** Certaines banques "islamiques" ne respectent pas les conditions. Vérifie :
+- Que la banque possède la voiture avant de te la vendre
+- L'absence de pénalités de retard usuraires
+
+---
+
+### Cas 3 : La carte de crédit
+
+**Question :** J'ai une carte Visa d'une banque usuraire. Je l'utilise et je paie le montant total avant la fin du mois, donc je ne paie pas d'intérêts. Quel est le jugement ?
+
+**Réponse :** **Les savants divergent :**
+
+| Avis | Argument |
+|------|----------|
+| ❌ Interdiction | Le contrat inclut une clause d'intérêt en cas de retard |
+| ✅ Permission par besoin | S'il s'engage à payer intégralement et ne paie pas d'intérêts |
+
+**Le plus prudent :** Utiliser les cartes des banques islamiques.
+
+---
+
+### Cas 4 : Investir dans les fonds de la banque
+
+**Question :** La banque islamique propose des fonds d'investissement. Leurs profits sont-ils licites ?
+
+**Réponse :** ✅ **Licite** si les conditions sont réunies :
+
+1. **Supervision religieuse :** Un comité de charia supervise les investissements
+2. **Investissement licite :** Les fonds sont investis dans des projets permis
+3. **Pas de garantie du capital :** Profit et perte partagés
+4. **Purification :** S'il y a un revenu illicite, on en fait don
+
+---
+
+### Cas 5 : Le tawarruq bancaire
+
+**Question :** J'ai besoin de liquidités. La banque m'achète des métaux de la bourse puis me les vend à crédit, puis me mandate pour les vendre immédiatement. Quel est le jugement ?
+
+**Réponse :** **Divergence entre les juristes :**
+
+| Avis | Argument |
+|------|----------|
+| ✅ Permission | Décision de l'Académie du Fiqh Islamique l'a autorisé avec conditions |
+| ❌ Interdiction | Certains savants considèrent que c'est un subterfuge usuraire |
+
+**Conditions pour ceux qui autorisent :**
+1. Que la banque reçoive la marchandise réellement ou légalement
+2. Que la banque ne la vende pas à la partie dont elle l'a achetée
+3. Que ce soit une vraie marchandise, non fictive
+
+---
+
+## 💡 Arrête-toi et Médite
+
+> **Question de réflexion :**
+>
+> Allah تعالى dit : ﴿Ceux qui mangent l'usure ne se tiennent debout que comme se tient celui que le toucher de Satan a bouleversé﴾
+>
+> - Pourquoi le châtiment de celui qui consomme l'usure est-il si sévère ?
+> - Comment les transactions usuraires affectent-elles l'individu et la société ?
+> - Quel est le rôle du musulman dans le soutien et le développement des alternatives islamiques ?
+>
+> **Méditation :** Le Prophète ﷺ a dit : "L'usure a soixante-treize portes, la plus légère est comme si l'homme épousait sa mère."
+>
+> Faciliter le recours à l'usure "par nécessité" sans chercher d'alternatives est une négligence d'une affaire grave.
+
+---
+
 ## Résumé de la Leçon
 
 | Formule | Qualification | Jugement |

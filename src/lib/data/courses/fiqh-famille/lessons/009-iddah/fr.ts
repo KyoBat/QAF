@@ -128,6 +128,81 @@ Si la femme en 'iddah se marie avec un autre:
 ### 3. Doute sur la fin de la 'iddah
 On se base sur la certitude: la 'iddah continue jusqu'à preuve de son achèvement.
 
+---
+
+## 📖 Récits des Salaf
+
+### Subay'ah al-Aslamiyyah et la période d'attente de la femme enceinte
+
+Subay'ah bint al-Harith رضي الله عنها était mariée à Sa'd ibn Khawlah, qui décéda pendant le pèlerinage d'adieu alors qu'elle était enceinte.
+
+Elle accoucha quelques nuits seulement après sa mort. Quand elle se remit de ses couches (devint pure), elle se fit belle pour les prétendants.
+
+Abu Sanabil ibn Ba'kak entra chez elle et dit : **"Pourquoi te vois-je apprêtée ? Tu espères te marier ? Par Allah, tu ne te remarieras pas avant que quatre mois et dix jours ne passent !"**
+
+Subay'ah dit : "Quand il me dit cela, je rassemblai mes vêtements le soir et allai voir le Messager d'Allah ﷺ pour l'interroger à ce sujet. **Il me répondit que j'étais devenue licite au mariage dès que j'avais accouché, et m'ordonna de me marier si je le souhaitais.**"
+
+**La leçon** : La période d'attente de la femme enceinte prend fin à l'accouchement, que ce soit en cas de divorce ou de décès, même quelques instants après le décès. C'est une miséricorde d'Allah envers la femme pour qu'elle n'attende pas des mois alors qu'elle a déjà accouché.
+
+---
+
+## 🎯 Cas pratiques contemporains
+
+### Premier cas : Voyager pendant la 'iddah
+
+**Question** : J'ai été divorcée d'un divorce irrévocable, et j'ai besoin de voyager dans un autre pays pour terminer mes études. Puis-je quitter le domicile conjugal et voyager ?
+
+**Réponse** : La divorcée irrévocable non enceinte : les savants ont divergé sur l'obligation de rester au domicile conjugal. L'avis prépondérant est qu'elle a droit au logement sans obligation d'y rester. Elle peut donc déménager par nécessité comme les études, tout en respectant les règles de la 'iddah.
+
+---
+
+### Deuxième cas : Travailler pendant la 'iddah de veuvage
+
+**Question** : Mon mari est décédé et je suis employée, je ne peux pas quitter mon travail car je suis le seul soutien de mes enfants. Puis-je sortir pour travailler ?
+
+**Réponse** : La femme en deuil peut sortir le jour pour ses besoins et son travail, à condition de passer la nuit chez elle. Si son travail est de nuit, on examine sa situation selon la nécessité. Le mieux est de demander un congé si possible.
+
+---
+
+### Troisième cas : La demande en mariage pendant la 'iddah
+
+**Question** : Je suis en période de veuvage, et un homme pieux s'est présenté pour le mariage. Peut-il faire une allusion au mariage ou s'entendre sur le mariage ?
+
+**Réponse** : L'allusion à la demande est permise, non la demande explicite. Allah dit : **﴾Il n'y a pas de péché sur vous à faire une allusion de demande en mariage à ces femmes﴿**. Comme dire : "Tu es digne du mariage" ou "Quelqu'un comme toi est désirable." Mais la demande explicite ou le contrat sont interdits jusqu'à la fin de la 'iddah.
+
+---
+
+### Quatrième cas : La divorcée dont les menstrues ont cessé pour raison médicale
+
+**Question** : J'ai été atteinte d'une maladie qui a arrêté mes menstrues, puis j'ai été divorcée. Comment calculer ma 'iddah ?
+
+**Réponse** : Celle dont les menstrues ont cessé pour une cause connue (allaitement ou maladie) attend la disparition de la cause puis observe la 'iddah par les menstrues. Si le retour des menstrues n'est pas espéré, sa 'iddah est d'une année complète selon certains savants (neuf mois pour la grossesse et trois pour la 'iddah), ou trois mois comme la ménopausée selon d'autres.
+
+---
+
+### Cinquième cas : Assister aux funérailles pendant la 'iddah
+
+**Question** : Mon père est décédé alors que je suis en période de veuvage de mon mari. Puis-je sortir pour assister à ses funérailles et présenter mes condoléances ?
+
+**Réponse** : La sortie pour les besoins le jour est permise à condition de passer la nuit chez soi. Assister aux funérailles du père et présenter ses condoléances fait partie des besoins qui permettent la sortie. Sors et reviens passer la nuit chez toi.
+
+---
+
+## 💡 Pause réflexion
+
+**Question à méditer** :
+
+La 'iddah n'est pas qu'une simple attente, c'est une période de transition sage. Médite sur ces sagesses :
+
+1. **La vacuité de l'utérus** : Pourquoi le Législateur a-t-il fixé ce temps suffisant pour vérifier la grossesse ?
+2. **L'opportunité de réconciliation** : Combien d'époux ont regretté le divorce, et la 'iddah fut l'occasion du retour ?
+3. **La fidélité à la vie commune** : Dans la 'iddah de veuvage, pourquoi exactement quatre mois et dix jours ?
+4. **L'adoration** : As-tu ressenti que la 'iddah est une adoration à Allah avant d'être une attente ?
+
+La 'iddah est une station de méditation et de renouveau, non une prison pour la femme.
+
+---
+
 ## Conclusion
 
 La 'iddah est un droit d'Allah et un droit pour les époux. Elle a été prescrite pour de grandes sagesses, notamment la préservation des lignées et l'opportunité de réconciliation. Sa durée varie selon la situation de la femme, et celle-ci doit respecter ses règles concernant le logement et le deuil lorsqu'il est obligatoire.

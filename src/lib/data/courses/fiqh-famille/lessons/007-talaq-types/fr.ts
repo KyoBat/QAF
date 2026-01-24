@@ -222,4 +222,107 @@ Le Prophète ﷺ a dit : **"Trois choses sont sérieuses qu'on soit sérieux ou 
 ## Conclusion
 
 Le divorce a plusieurs types, et chaque type a ses propres statuts. Le musulman doit apprendre ces statuts avant de procéder au divorce, prendre son temps et consulter Allah, car le divorce est la dernière solution, pas la première.
+
+---
+
+## 📖 Récits des Salaf : La sagesse de 'Umar ibn al-Khattab
+
+Un homme vint se plaindre de sa femme à 'Umar ibn al-Khattab رضي الله عنه. Il s'arrêta à sa porte et entendit la femme de 'Umar élever la voix contre lui. L'homme s'en alla.
+
+'Umar sortit et le vit partir. Il lui dit : **"Quel est ton besoin ?"**
+
+L'homme répondit : "Je suis venu me plaindre de ma femme, mais j'ai entendu la tienne !"
+
+'Umar lui dit : **"Ô mon frère ! Elle cuisine pour moi, fait le pain, lave mes vêtements et allaite mon enfant, alors que rien de cela ne lui est obligatoire. Et mon cœur trouve auprès d'elle la sérénité qui me préserve de l'illicite. Ne devrais-je pas la supporter ?!"**
+
+**La leçon** : La patience et l'indulgence sont les fondements de la pérennité du mariage.
+
+---
+
+## 🎯 Cas pratiques contemporains
+
+### Cas 1 : Le divorce par WhatsApp
+
+**Ahmad** a envoyé à sa femme un message WhatsApp : "Tu es divorcée, divorcée, divorcée !"
+
+**Question** : Le divorce prend-il effet ? Combien de répudiations ?
+
+**Réponse** :
+- ✅ **Le divorce prend effet** — L'écrit équivaut à la parole s'il y a intention
+- ⚠️ **Le nombre** : Divergence entre savants (trois selon la majorité, une selon d'autres)
+- 💡 **Le plus prudent** : Considérer trois, surtout s'il visait les trois
+
+---
+
+### Cas 2 : "Tu es divorcée si tu sors !"
+
+**Muhammad** a dit à sa femme en colère : "Si tu sors de la maison, tu es divorcée !" Puis elle est sortie visiter sa mère malade.
+
+**Question** : Le divorce a-t-il pris effet ?
+
+**Réponse** :
+- C'est un **divorce conditionnel**
+- Si la condition se réalise (la sortie) : le divorce prend effet
+- ⚠️ **Mais** : S'il visait la menace et non le divorce = certains savants le considèrent comme un serment
+
+---
+
+### Cas 3 : "J'étais très en colère"
+
+**Khalid** a divorcé sa femme dans un moment de colère intense après une dispute, puis a regretté immédiatement.
+
+**Question** : Le divorce prend-il effet ?
+
+**Réponse** :
+- **Colère normale** : Le divorce prend effet
+- **Colère intense bloquant l'esprit** : Ne prend pas effet (nécessite preuve)
+- ✅ **L'obligatoire** : Consulter un savant ou un mufti
+
+> Le Prophète ﷺ a dit : **"Pas de divorce ni d'affranchissement dans l'état de blocage mental"** [Ahmad]
+
+---
+
+### Cas 4 : Le divorce pendant les menstrues
+
+**Omar** a divorcé sa femme alors qu'elle était en période de menstrues.
+
+**Question** : Le divorce prend-il effet ?
+
+**Réponse** :
+- ✅ **Prend effet avec péché** — selon la majorité des savants
+- ❌ **Ne prend pas effet** — selon Ibn Taymiyyah et Ibn al-Qayyim
+- 🔴 **Le divorce pendant les menstrues = divorce innovateur interdit**
+
+---
+
+## 📖 De la Sirah : Le divorce d'Ibn 'Umar
+
+Abdullah ibn 'Umar رضي الله عنهما divorça sa femme alors qu'elle était en période de menstrues. 'Umar interrogea le Prophète ﷺ à ce sujet.
+
+Le Prophète ﷺ dit : **"Ordonne-lui de la reprendre, puis de la garder jusqu'à ce qu'elle soit pure, puis qu'elle ait ses menstrues, puis soit pure, puis s'il veut il la garde, et s'il veut il la divorce avant de la toucher. C'est la période d'attente qu'Allah a ordonné pour divorcer les femmes."** [Bukhari et Muslim]
+
+**La leçon** : Le divorce a son moment approprié, et la précipitation est une erreur.
+
+---
+
+## 💡 Pause réflexion
+
+**Question à méditer** :
+
+Le divorce est un droit légal de l'homme, mais :
+- Tout ce qui est licite, devons-nous le faire ?
+- Quels sont les effets psychologiques sur les enfants ?
+- As-tu épuisé tous les moyens de réconciliation ?
+
+Rappelle-toi le verset : ﴾Si vous craignez le désaccord entre les deux époux, envoyez alors un arbitre de sa famille à lui et un arbitre de sa famille à elle﴿
+
+**Avant de prononcer le divorce, demande-toi :**
+1. As-tu fait la prière de consultation (istikhara) ?
+2. As-tu consulté les gens de science ?
+3. As-tu essayé un arbitre de ta famille et un de la sienne ?
+4. Qu'arrivera-t-il aux enfants ?
+
+---
+
+*Rabbi zidni 'ilman - Seigneur, augmente-moi en science*
 `;

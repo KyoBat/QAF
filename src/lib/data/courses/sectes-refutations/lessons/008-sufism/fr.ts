@@ -124,6 +124,104 @@ L'origine du mot est disputée :
 
 ---
 
+## 📖 Récits des Ascètes : Al-Fudayl ibn 'Iyad
+
+**Al-Fudayl ibn 'Iyad** était un brigand de grand chemin, puis il se repentit et devint l'un des plus grands ascètes.
+
+Il disait : **"Si les habitants du ciel et de la terre se réunissaient pour me rabaisser, ils n'y parviendraient pas, et s'ils se réunissaient pour m'élever, ils n'y parviendraient pas, tant qu'Allah est avec moi."**
+
+Il disait aussi : **"Si Allah aime un serviteur, Il l'éprouve. S'il patiente, Il le choisit. S'il agrée, Il l'élit."**
+
+**La leçon à retenir** : Voici le véritable ascétisme — pas de danse ni de tambour.
+
+---
+
+## 📖 De l'histoire : La parole d'al-Hallaj
+
+Al-Hallaj a dit : **"Je suis la Vérité !"** (Ana al-Haqq)
+
+Il fut condamné à mort.
+
+**L'analyse d'Ahl as-Sunnah :**
+- S'il voulait dire qu'il est Allah = mécréance explicite
+- S'il voulait dire l'extinction de son ego dans la contemplation de la Vérité = excès blâmable dans l'expression
+
+**La leçon** : Les extatiques soufis ne sont pas acceptées, et l'expression ambiguë ne s'interprète pas en faveur de son auteur si son apparence est la mécréance.
+
+---
+
+## 🎯 Cas pratiques contemporains : Quel est le jugement ?
+
+### Cas 1 : Le dhikr collectif avec tambour et danse
+
+**Dans certains pays**, les gens se rassemblent pour le dhikr avec des rythmes et des mouvements de danse.
+
+**Question** : Quel est le jugement ?
+
+**Réponse** :
+- ❌ **Innovation blâmable** — Le Prophète ﷺ ni les Compagnons ne l'ont fait
+- ❌ Le dhikr est une adoration codifiée
+- ✅ **Le dhikr légitime** : Par le cœur et la langue, avec humilité et sérénité
+
+---
+
+### Cas 2 : Implorer le saint près de sa tombe
+
+**Un homme** se rend à la tombe d'un saint pieux et dit : "Ô mon maître, secours-moi !"
+
+**Question** : Quel est le jugement ?
+
+**Réponse** :
+- 🔴 **Shirk majeur** — Implorer autre qu'Allah dans ce que seul Allah peut faire
+- Allah تعالى dit : ﴿Et ceux que vous invoquez en dehors de Lui ne possèdent même pas la pellicule d'un noyau de datte﴾
+
+---
+
+### Cas 3 : Les litanies de la confrérie
+
+**Le cheikh de la confrérie** impose à ses disciples des litanies spécifiques : "Dis ce dhikr 1000 fois après le Fajr"
+
+**Question** : Quel est le jugement ?
+
+**Réponse** :
+- ⚠️ Spécifier un nombre ou un moment qui n'a pas été rapporté = **innovation**
+- ✅ Ce qui est légitime : Les invocations rapportées dans la Sunnah
+- 💡 Pas d'obéissance au cheikh dans la désobéissance à Allah
+
+---
+
+### Cas 4 : "Le cheikh connaît l'invisible !"
+
+**Un disciple** dit : "Notre cheikh sait ce qui est dans nos cœurs !"
+
+**Question** : Quel est le jugement ?
+
+**Réponse** :
+- 🔴 **Croyance de mécréance** — La connaissance de l'invisible appartient à Allah seul
+- Allah تعالى dit : ﴿Dis : Nul dans les cieux et la terre ne connaît l'invisible excepté Allah﴾
+
+---
+
+## 💡 Pause réflexion
+
+**Question personnelle** : 
+
+Comment distinguer entre :
+- **Le vrai saint (wali)**
+- **L'imposteur menteur** ?
+
+**Le critère d'or :**
+
+> Ibn Taymiyya a dit : **"Quiconque prétend la sainteté pour lui-même ou pour autrui alors qu'il contredit la Loi de l'Islam est un menteur."**
+
+**Les signes du vrai saint :**
+1. La rectitude selon le Coran et la Sunnah
+2. Il n'appelle pas à lui-même
+3. Il ne prétend pas la connaissance de l'invisible ni le contrôle de l'univers
+4. Il ne dévore pas les biens des gens injustement
+
+---
+
 ## Conclusion
 
 Le soufisme est un phénomène varié :
