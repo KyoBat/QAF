@@ -1,4 +1,4 @@
-import type { CourseMeta } from '@/types';
+import type { CourseMeta } from '../types';
 
 export const fiqhMuamalatMeta: CourseMeta = {
   id: 'course-022',
@@ -16,6 +16,12 @@ export const fiqhMuamalatMeta: CourseMeta = {
   category: 'fiqh',
   level: 'intermediate',
   duration: '8h',
-  totalLessons: 15,
-  imageUrl: '/images/courses/fiqh/muamalat.svg',
+  instructor: 'Cheikh Ahmad',
+  image: '/images/courses/fiqh/muamalat.svg',
+  tags: ['fiqh', 'muamalat', 'commerce', 'transactions', 'halal'],
+  featured: false,
+  published: true,
+  resources: [],
+  createdAt: '2026-01-24',
+  updatedAt: '2026-01-24',
 };
