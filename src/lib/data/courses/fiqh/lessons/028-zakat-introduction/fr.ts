@@ -54,7 +54,7 @@ La Zakat est une **obligation individuelle** (فرض عين) sur tout musulman r
 
 > **« Accomplissez la prière et acquittez-vous de la Zakat »** — Al-Baqarah : 43
 > 
-> Ce verset apparaît sous différentes formes **82 fois** dans le Coran, démontrant l'importance capitale de la Zakat.
+> Ce verset apparaît sous différentes formes **environ 30 fois** dans le Coran, démontrant l'importance capitale de la Zakat.
 
 > **« Ceux qui thésaurisent l'or et l'argent et ne les dépensent pas dans le sentier d'Allah, annonce-leur un châtiment douloureux. Le jour où ces trésors seront portés à incandescence dans le feu de l'Enfer et qu'ils en seront marqués au front, aux flancs et au dos... »** — At-Tawba : 34-35
 

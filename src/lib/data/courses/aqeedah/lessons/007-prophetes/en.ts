@@ -41,11 +41,13 @@ Allah ﷻ says:
 
 ### Nabi (نبي) - Prophet
 
-One to whom Allah revealed a legislation without commanding him to convey it, or one who follows the legislation of a messenger before him.
+One who receives revelation from Allah and is commanded to convey it. He may be sent to a people who already believe, to remind them of the law of a previous Rasul.
 
 ### Rasul (رسول) - Messenger
 
-One to whom Allah revealed a legislation with the command to convey it to a people.
+One who is sent to a disbelieving or rebellious people with a legislation, whether new or confirming a previous one.
+
+> *Source: Ibn Taymiyyah, Majmu' al-Fatawa, vol. 7, p. 281*
 
 > "And We did not send any messenger except in the language of his people to make clear to them." (Ibrahim 14:4)
 

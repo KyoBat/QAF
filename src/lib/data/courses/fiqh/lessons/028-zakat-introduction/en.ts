@@ -52,7 +52,7 @@ Zakat is an **individual obligation** (fard 'ayn) upon every Muslim who meets th
 
 > **"Establish prayer and give Zakat"** — Al-Baqarah: 43
 > 
-> This command appears in various forms **82 times** in the Quran, demonstrating the paramount importance of Zakat.
+> This command appears in various forms **about 30 times** in the Quran, demonstrating the paramount importance of Zakat.
 
 > **"And those who hoard gold and silver and spend it not in the way of Allah - give them tidings of a painful punishment. The Day when it will be heated in the fire of Hell and seared therewith will be their foreheads, their flanks, and their backs..."** — At-Tawba: 34-35
 

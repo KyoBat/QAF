@@ -199,12 +199,10 @@ Neither monasticism that abandons this world, nor materialism that forgets the h
 
 ### Proof
 
-> "But seek, through that which Allah has given you, the home of the Hereafter; and yet, do not forget your share of this world." (Al-Qasas 28:77)
+> ﴿وَابْتَغِ فِيمَا آتَاكَ اللَّهُ الدَّارَ الْآخِرَةَ ۖ وَلَا تَنسَ نَصِيبَكَ مِنَ الدُّنْيَا﴾
+> *"But seek, through that which Allah has given you, the home of the Hereafter; and yet, do not forget your share of this world."* (Al-Qasas 28:77)
 
-The Prophet ﷺ said:
-
-> **"The best among you is not the one who abandons his worldly life for his hereafter, nor his hereafter for his worldly life, until he attains from both."**
-> (Reported by Ibn 'Asakir — chain needs verification, not in the Sahihayn)
+This Qur'anic verse alone suffices as proof of the Islamic balance between this world and the hereafter.
 
 ---
 

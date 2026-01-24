@@ -300,9 +300,11 @@ He died in Ṭā'if in 68 AH. His janāza was extraordinary.
 
 He performed Hajj **more than 60 times**. He died in Mecca in 73 AH.
 
-It is reported that his last words were:
+Some report, with a contested chain, that his last words were:
 
 > "I regret nothing except that I did not fight the rebellious group with 'Alī."
+>
+> *(Note: This attribution is weak (ḍa'īf) according to some muhaddithīn)*
 
 ---
 

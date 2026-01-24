@@ -12,7 +12,7 @@ export const content = `# 🏰 The Battle of the Confederates: The Great Siege
 > **﴿ O you who believe! Remember Allah's favor upon you when armies came to you and We sent against them a wind and forces you did not see ﴾**
 > — **[Surah Al-Ahzâb: 9]**
 
-In **Shawwâl** of the fifth year of Hijra, the enemies of Islam formed the largest coalition the Arabian Peninsula had ever known.
+In **Dhul-Qi'da** of the fifth year of Hijra (February-March 627 CE), the enemies of Islam formed the largest coalition the Arabian Peninsula had ever known.
 
 ### The Great Coalition
 

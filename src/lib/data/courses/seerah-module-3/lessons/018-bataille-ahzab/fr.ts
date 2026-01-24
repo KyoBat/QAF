@@ -12,7 +12,7 @@ export const content = `# 🏰 La Bataille des Coalisés : Le Grand Siège
 > **﴿ Ô vous qui avez cru ! Rappelez-vous le bienfait d'Allah sur vous, quand des troupes vinrent à vous et que Nous envoyâmes contre eux un vent et des troupes que vous ne voyiez pas ﴾**
 > — **[Sourate Al-Ahzâb : 9]**
 
-En **Shawwâl** de la cinquième année de l'Hégire, les ennemis de l'Islam formèrent la plus grande coalition que la péninsule arabique ait connue.
+En **Dhul-Qi'da** de la cinquième année de l'Hégire (février-mars 627 EC), les ennemis de l'Islam formèrent la plus grande coalition que la péninsule arabique ait connue.
 
 ### La grande coalition
 

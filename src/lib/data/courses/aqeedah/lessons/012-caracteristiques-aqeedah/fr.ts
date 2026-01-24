@@ -214,12 +214,10 @@ Ni monachisme qui abandonne ce monde, ni matérialisme qui oublie l'au-delà.
 
 ### Preuve
 
-> "Et recherche à travers ce qu'Allah t'a donné, la Demeure dernière. Et n'oublie pas ta part en cette vie." (Al-Qasas 28:77)
+> ﴿وَابْتَغِ فِيمَا آتَاكَ اللَّهُ الدَّارَ الْآخِرَةَ ۖ وَلَا تَنسَ نَصِيبَكَ مِنَ الدُّنْيَا﴾
+> *"Et recherche à travers ce qu'Allah t'a donné, la Demeure dernière. Et n'oublie pas ta part en cette vie."* (Al-Qasas 28:77)
 
-Le Prophète ﷺ a dit:
-
-> **«Le meilleur d'entre vous n'est pas celui qui délaisse sa vie d'ici-bas pour son au-delà, ni son au-delà pour sa vie d'ici-bas, jusqu'à ce qu'il obtienne des deux.»**
-> (Rapporté par Ibn 'Asakir — chaîne à vérifier, non présent dans les Sahihayn)
+Ce verset coranique suffit comme preuve de l'équilibre islamique entre ce monde et l'au-delà.
 
 ---
 

@@ -74,8 +74,10 @@ La Zakat Al-Fitr (صدقة الفطر) est une aumône obligatoire à la fin du 
 | Mesure | Équivalent |
 |--------|------------|
 | **1 Sa'** | 4 mudd |
-| **Poids (Maliki)** | ≈ **2,5 kg** à **3 kg** selon l'aliment |
-| **Volume** | Environ 2,5 à 3 litres |
+| **Poids (Maliki)** | ≈ **2 à 3 kg** selon l'aliment |
+| **Volume** | Environ 2,4 litres |
+
+> ⚠️ *Note : Le Sa' malikite équivaut à environ 2,4 litres en volume. En poids, cela donne environ 1,8-2 kg pour le blé, 2,5-3 kg pour les dattes selon leur densité. Par précaution, certains savants contemporains recommandent 2,5-3 kg.*
 
 ### 📌 Hadith de Référence
 

@@ -302,9 +302,11 @@ Il mourut à Ṭā'if en 68 AH. Son janāza fut extraordinaire.
 
 Il fit le Hajj **plus de 60 fois**. Il mourut à La Mecque en 73 AH.
 
-On rapporte que sa dernière parole fut :
+Certains rapportent, avec une chaîne contestée, que sa dernière parole fut :
 
 > « Je regrette de n'avoir pas combattu le groupe rebelle avec 'Alī. »
+>
+> *(Note : Cette attribution est faible (ḍa'īf) selon certains muhaddithīn)*
 
 ---
 

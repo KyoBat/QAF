@@ -155,7 +155,9 @@ The Prophet ﷺ will intercede for the Judgment to begin.
 
 The Prophet ﷺ said:
 
-> "My intercession is reserved for the perpetrators of major sins from my community." (Tirmidhi 2435)
+> "My intercession will notably be for the perpetrators of major sins from my community." (Tirmidhi 2435, Sahih)
+>
+> *Note: The Prophet's ﷺ intercession applies to his entire community, including those who committed major sins without leaving Islam.*
 
 ---
 

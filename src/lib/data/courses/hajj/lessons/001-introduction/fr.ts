@@ -205,7 +205,7 @@ Le Hajj devient-il obligatoire **immédiatement** dès que les conditions sont r
 
 > **« مَنْ أَرَادَ الْحَجَّ فَلْيَتَعَجَّلْ، فَإِنَّهُ قَدْ يَمْرَضُ الْمَرِيضُ، وَتَضِلُّ الضَّالَّةُ، وَتَعْرِضُ الْحَاجَةُ »**
 > *« Celui qui veut accomplir le Hajj, qu'il se hâte, car le malade peut tomber malade, la monture peut se perdre et le besoin peut survenir. »*
-> — [Ahmad (2867), Ibn Majah (2883)]
+> — [Ahmad (2867), Ibn Majah (2883)] — *Classé Hasan par certains (Al-Albani), jugé faible par d'autres. Son sens est confirmé par d'autres preuves.*
 
 **4. Une seule fois obligatoire :**
 

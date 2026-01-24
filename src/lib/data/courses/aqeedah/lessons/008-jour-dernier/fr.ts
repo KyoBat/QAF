@@ -155,7 +155,9 @@ Le Prophète ﷺ intercédera pour que le Jugement commence.
 
 Le Prophète ﷺ a dit:
 
-> "Mon intercession est réservée aux auteurs de grands péchés de ma communauté." (Tirmidhi 2435)
+> "Mon intercession sera notamment pour les auteurs de grands péchés de ma communauté." (Tirmidhi 2435, Sahih)
+>
+> *Note : L'intercession du Prophète ﷺ s'applique à toute sa communauté, y compris ceux qui ont commis de grands péchés sans en être sortis de l'Islam.*
 
 ---
 
