@@ -1,0 +1,158 @@
+/**
+ * Leçon 001: Les Annulateurs de l'Islam — Introduction
+ * نواقض الإسلام — مقدمة
+ */
+
+const content = `
+# 📜 Les Annulateurs de l'Islam — Introduction
+
+> **﴿ إِنَّ الدِّينَ عِندَ اللَّهِ الْإِسْلَامُ ﴾**
+> *« Certes, la religion auprès d'Allah est l'Islam. »* — [Âl 'Imrân : 19]
+
+---
+
+## 📚 Définition des Annulateurs
+
+### Sens linguistique
+
+**النواقض** (Nawâqid) : pluriel de Nâqid, de « naqada » = annuler, invalider, détruire.
+
+### Sens terminologique
+
+| Terme | Définition |
+|-------|------------|
+| **Annulateurs de l'Islam** | Paroles, actes ou croyances qui font sortir leur auteur de l'Islam |
+| **Kufr Akbar (majeur)** | Ce qui fait sortir de la religion et annule les œuvres |
+| **Kufr Asghar (mineur)** | Ce qui ne fait pas sortir mais constitue un péché grave |
+
+---
+
+## ⚠️ Importance de ce Sujet
+
+### Pourquoi étudier les annulateurs ?
+
+| Raison | Explication |
+|--------|-------------|
+| **Préserver sa foi** | Connaître ce qui invalide la croyance pour l'éviter |
+| **Corriger les erreurs** | Beaucoup tombent dans les annulateurs par ignorance |
+| **Répondre aux ambiguïtés** | Comprendre les limites de la foi et de la mécréance |
+| **Éviter l'excès** | Ne pas accuser les musulmans de mécréance injustement |
+
+### Avertissement prophétique
+
+> **« مَنْ قَالَ لأَخِيهِ: يَا كَافِرُ، فَقَدْ بَاءَ بِهَا أَحَدُهُمَا »**
+> *« Celui qui dit à son frère : "Ô mécréant !", cette parole retombe sur l'un des deux. »*
+> — Al-Bukhari (6104), Muslim (60)
+
+---
+
+## 📋 Les Catégories de Mécréance
+
+### La mécréance majeure (qui fait sortir de l'Islam)
+
+| Type | Définition | Exemple |
+|------|------------|---------|
+| **Kufr al-Juhûd** | Nier ce qui est connu de la religion par nécessité | Nier l'existence d'Allah |
+| **Kufr at-Takdhîb** | Démentir Allah ou Son Messager | Démentir le Coran |
+| **Kufr al-Istikbâr** | Refus et orgueil malgré la connaissance | La mécréance d'Iblis |
+| **Kufr al-I'râd** | Délaisser totalement la religion | Ne rien apprendre ni pratiquer |
+| **Kufr an-Nifâq** | Afficher l'Islam en cachant la mécréance | Les hypocrites |
+
+### La mécréance mineure
+
+| Type | Exemple | Preuve |
+|------|---------|--------|
+| **Ingratitude envers les bienfaits** | Nier les faveurs d'Allah | ﴿ وَضَرَبَ اللَّهُ مَثَلًا قَرْيَةً ﴾ |
+| **Combat entre musulmans** | Se battre entre croyants | « L'insulte du musulman est perversion, le combattre est mécréance » |
+| **Jurer par autre qu'Allah** | Jurer par les ancêtres ou les saints | « Celui qui jure par autre qu'Allah a mécru » |
+
+---
+
+## 🔟 Les Dix Annulateurs
+
+### Selon Sheikh Muhammad ibn Abd al-Wahhab رحمه الله
+
+| # | Annulateur | Explication résumée |
+|---|------------|---------------------|
+| 1 | **L'association à Allah (Shirk)** | Vouer l'adoration à autre qu'Allah |
+| 2 | **Prendre des intermédiaires** | Invoquer et implorer autre qu'Allah |
+| 3 | **Ne pas considérer les polythéistes comme mécréants** | Douter de la mécréance de ceux qu'Allah a déclarés mécréants |
+| 4 | **Croire qu'une autre voie est meilleure** | Préférer les lois humaines à la Shari'ah |
+| 5 | **Détester ce que le Messager a apporté** | Haïr les jugements de l'Islam |
+| 6 | **Se moquer de la religion** | Railler Allah, Son Messager ou Sa religion |
+| 7 | **La magie** | La pratiquer ou l'approuver |
+| 8 | **Soutenir les polythéistes contre les musulmans** | Aider les mécréants contre les croyants |
+| 9 | **Délaisser totalement la religion** | Ne rien apprendre ni pratiquer |
+| 10 | **Croire qu'on peut sortir de la Shari'ah** | Comme Al-Khadir avec Moussa |
+
+---
+
+## ⚖️ Conditions et Empêchements du Takfir
+
+### Conditions pour juger un individu
+
+| Condition | Explication |
+|-----------|-------------|
+| **La science** | Qu'il sache que son acte est mécréance |
+| **L'intention** | Qu'il ait voulu l'acte |
+| **Le libre arbitre** | Qu'il ne soit pas contraint |
+| **La maturité et la raison** | Qu'il soit pubère et sain d'esprit |
+
+### Empêchements du Takfir
+
+| Empêchement | Preuve |
+|-------------|--------|
+| **L'ignorance** | ﴿ وَمَا كُنَّا مُعَذِّبِينَ حَتَّىٰ نَبْعَثَ رَسُولًا ﴾ |
+| **La contrainte** | ﴿ إِلَّا مَنْ أُكْرِهَ وَقَلْبُهُ مُطْمَئِنٌّ بِالْإِيمَانِ ﴾ |
+| **L'interprétation erronée** | L'ijtihad incorrect avec bonne intention |
+| **L'erreur** | La faute non intentionnelle |
+
+---
+
+## ❓ Questions Fréquentes
+
+### Q1 : Celui qui commet un acte de mécréance devient-il automatiquement mécréant ?
+
+**Réponse** : Non, il faut distinguer :
+- **Le jugement sur l'acte** : Cet acte est une mécréance
+- **Le jugement sur l'individu** : Nécessite la vérification des conditions et l'absence d'empêchements
+
+### Q2 : Qui a le droit de déclarer quelqu'un mécréant ?
+
+**Réponse** : Le Takfir est un jugement d'Allah et de Son Messager. Seuls **les savants confirmés** peuvent le prononcer après avoir établi la preuve.
+
+### Q3 : Quel est le danger du Takfir injuste ?
+
+**Réponse** : Le Prophète ﷺ a dit : « Celui qui dit à son frère : "Ô mécréant !", cette parole retombe sur l'un des deux. » — C'est-à-dire que l'accusation revient sur l'accusateur si elle est fausse.
+
+---
+
+## 🎯 Résumé
+
+| Point | Règle |
+|-------|-------|
+| **Les annulateurs** | Paroles, actes et croyances qui font sortir de l'Islam |
+| **Deux types de mécréance** | Majeure (qui exclut) et mineure (qui n'exclut pas) |
+| **Le Takfir** | A des conditions et des empêchements |
+| **Prudence** | Ne pas accuser les musulmans de mécréance injustement |
+
+---
+
+## 📚 Sources
+
+| Ouvrage | Auteur |
+|---------|--------|
+| Nawâqid al-Islâm | Sheikh Muhammad ibn Abd al-Wahhab |
+| Majmû' al-Fatâwâ | Ibn Taymiyyah |
+| Al-Qawâ'id al-Muthlâ | Ibn Uthaymin |
+| Sharh Nawâqid al-Islâm | Sheikh Salih al-Fawzan |
+
+---
+
+**والله أعلم — Et Allah sait mieux**
+`
+
+export const lesson001Fr = {
+  title: 'Les Annulateurs de l\'Islam — Introduction',
+  content,
+}
