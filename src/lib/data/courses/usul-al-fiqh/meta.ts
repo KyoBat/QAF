@@ -22,7 +22,7 @@ export const usulFiqhMeta: CourseMeta = {
   level: 'advanced',
   duration: '6h',
   instructor: 'TahaLearn Academy',
-  image: '/images/courses/fiqh/usul-al-fiqh.webp',
+  image: '/images/courses/fiqh/usul-al-fiqh.svg',
   tags: ['usul', 'fiqh', 'ijtihad', 'qiyas', 'ijma', 'maslaha', 'qawaid'],
   featured: true,
   published: true,

@@ -22,7 +22,7 @@ export const fiqhFamilleMeta: CourseMeta = {
   level: 'intermediate',
   duration: '7h',
   instructor: 'TahaLearn Academy',
-  image: '/images/courses/fiqh/fiqh-famille.webp',
+  image: '/images/courses/fiqh/fiqh-famille.svg',
   tags: ['fiqh', 'famille', 'mariage', 'divorce', 'nikah', 'talaq', 'hadanah', 'nafaqah'],
   featured: true,
   published: true,

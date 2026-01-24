@@ -405,6 +405,127 @@ La croyance en Tawheed Ar-Rububiyyah a des effets profonds sur le croyant :
 
 ---
 
+## 📖 Récits des Salaf : 'Abdullah ibn Al-Mubarak et l'instinct naturel
+
+<div class="story-box">
+
+**Au 2ème siècle de l'Hégire**, un homme vint à l'Imam 'Abdullah ibn Al-Mubarak رحمه الله pour lui confier son état...
+
+**L'homme :** « Ô Imam, je ressens des suggestions sataniques qui me font douter de l'existence d'Allah ! »
+
+Ibn Al-Mubarak resta silencieux un moment, puis dit : **« Dis-moi, si tu étais dans le désert, que tu t'étais perdu, que ton eau et tes provisions étaient épuisées, puis que tu voyais une caravane arriver de loin... serais-tu heureux ou triste ? »**
+
+**L'homme :** « Heureux, bien sûr ! »
+
+**Ibn Al-Mubarak :** **« Et pourquoi serais-tu heureux ? »**
+
+**L'homme :** « Parce qu'ils me sauveraient ! »
+
+**Ibn Al-Mubarak :** **« Donc, tu sais instinctivement qu'il existe quelqu'un qui peut te faire du bien ou du mal ! C'est cela le sens de la Rububiyyah. Celui qui détient véritablement ton bien et ton mal est Allah seul ! »**
+
+*Les suggestions de l'homme disparurent.*
+
+</div>
+
+**📌 La leçon :** L'instinct naturel (Fitrah) témoigne de Tawheed Ar-Rububiyyah, mais il peut être obscurci par les doutes et les passions. Celui qui revient à sa Fitrah trouve Allah.
+
+---
+
+## 🎯 Cas pratiques contemporains : Tawheed Ar-Rububiyyah dans notre vie
+
+### Cas 1 : L'étudiant et l'examen
+**Situation :** Un étudiant prépare un examen décisif. Il dit à son ami : « Si je réussis, c'est grâce à mes efforts et mon intelligence seulement ! »
+
+**Question :** Ce propos est-il correct ?
+
+**Réponse :** ❌ Ceci est une lacune dans la compréhension de Tawheed Ar-Rububiyyah. La réussite est entre les Mains d'Allah, même si l'effort est requis.
+
+✅ **Correct :** « Je fais des efforts et je place ma confiance en Allah, car c'est Lui qui accorde le succès et la guidance. »
+
+Allah dit : ﴿وَمَا تَوْفِيقِي إِلَّا بِاللَّهِ﴾ *« Ma réussite ne dépend que d'Allah. »* (Hud 11:88)
+
+---
+
+### Cas 2 : Le malade et le médecin
+**Situation :** Un malade dit : « C'est le docteur Untel qui m'a guéri ! »
+
+**Question :** Quel est le problème dans cette phrase ?
+
+**Réponse :** ❌ Attribuer la guérison au médecin seul est une erreur doctrinale.
+
+✅ **Correct :** « Allah m'a guéri, et le médecin est une cause. » Le médecin traite mais Allah guérit.
+
+Ibrahim عليه السلام a dit : ﴿وَإِذَا مَرِضْتُ فَهُوَ يَشْفِينِ﴾ *« Et quand je suis malade, c'est Lui qui me guérit. »* (Ash-Shu'ara 26:80)
+
+---
+
+### Cas 3 : Le commerçant et la richesse
+**Situation :** Un commerçant dit : « J'ai bâti ma fortune par moi-même, cet argent est le fruit de ma sueur ! »
+
+**Question :** Ce propos est-il acceptable religieusement ?
+
+**Réponse :** ❌ Cela ressemble aux paroles de Qarun : ﴿إِنَّمَا أُوتِيتُهُ عَلَىٰ عِلْمٍ عِندِي﴾ *« C'est par une science que je possède que cela m'a été donné. »* (Al-Qasas 28:78)
+
+✅ **Correct :** « Allah m'a pourvu, et j'ai fourni la cause. » Le Pourvoyeur est Allah seul.
+
+---
+
+### Cas 4 : L'athée et l'univers
+**Situation :** Une personne dit : « L'univers est apparu par hasard sur des millions d'années, pas besoin de l'idée d'un créateur ! »
+
+**Question :** Comment réfuter ce doute ?
+
+**Réponse :**
+- Le hasard ne produit pas un ordre précis
+- Tout ce qui existe nécessite un créateur
+- ﴿أَمْ خُلِقُوا مِنْ غَيْرِ شَيْءٍ أَمْ هُمُ الْخَالِقُونَ﴾ (At-Tur 52:35)
+- Si tu trouvais une montre dans le désert, dirais-tu « elle est apparue par hasard » ? Alors qu'en est-il de cet univers complexe !
+
+---
+
+### Cas 5 : L'enfant et la question instinctive
+**Situation :** Un enfant demande à sa mère : « Maman, qui a créé le ciel, le soleil et la lune ? »
+
+**Question :** Que démontre cette question ?
+
+**Réponse :** ✅ C'est la preuve de la Fitrah ! L'enfant sait instinctivement que toute création a un Créateur.
+
+**La bonne réponse de la mère :** « Allah, mon fils. C'est Lui qui a créé toute chose, c'est Lui qui nous pourvoit et nous protège. »
+
+---
+
+## 💡 Pause réflexion
+
+**Question de réflexion :**
+> Regarde maintenant ta main... Qui a conçu ces cinq doigts ? Qui y a placé des articulations qui bougent avec cette précision ? Qui leur a donné la force de saisir, d'écrire et de travailler ?
+>
+> Si tous les scientifiques du monde se réunissaient, pourraient-ils fabriquer une seule main qui fonctionne comme la tienne ?!
+
+**Rappelle-toi :**
+- Tu es une créature d'un Créateur Immense
+- Chaque bienfait en toi vient d'Allah
+- La reconnaissance de la Rububiyyah implique l'adoration
+- ﴿أَلَا لَهُ الْخَلْقُ وَالْأَمْرُ تَبَارَكَ اللَّهُ رَبُّ الْعَالَمِينَ﴾ *« La création et le commandement ne Lui appartiennent-ils pas ? Béni soit Allah, Seigneur des mondes. »* (Al-A'raf 7:54)
+
+---
+
+## 🤲 Invocation
+
+> اللهم ربنا لك الحمد، أنت قيّوم السموات والأرض ومن فيهن.
+> Ô Allah, notre Seigneur, à Toi la louange. Tu es le Soutien des cieux et de la terre et de ceux qui s'y trouvent.
+>
+> اللهم لك الحمد، أنت نور السموات والأرض ومن فيهن.
+> Ô Allah, à Toi la louange. Tu es la Lumière des cieux et de la terre et de ceux qui s'y trouvent.
+>
+> اللهم لك الحمد، أنت ملك السموات والأرض ومن فيهن.
+> Ô Allah, à Toi la louange. Tu es le Roi des cieux et de la terre et de ceux qui s'y trouvent.
+>
+> *(De l'invocation du Prophète ﷺ - Sahih Al-Bukhari 1120)*
+
+Rabbi Zidni 'Ilma. 📖
+
+---
+
 ## ✅ Résumé
 
 1. **Tawheed Ar-Rububiyyah** = Unicité d'Allah dans la Seigneurie (Création, Provision, Royauté, Gestion)

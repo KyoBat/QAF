@@ -439,7 +439,120 @@ Le Prophète ﷺ a dit :
 
 ---
 
-## 💎 Paroles des Savants sur Tawheed Al-Uluhiyyah
+## � Récits des Salaf : Sa'id ibn Jubayr et la sincérité dans l'adoration
+
+<div class="story-box">
+
+**🎭 SA'ID IBN JUBAYR FACE À AL-HAJJAJ**
+
+**À l'époque d'Al-Hajjaj ibn Yusuf Ath-Thaqafi**, le grand Tabi'i Sa'id ibn Jubayr رحمه الله était l'un des plus grands savants.
+
+*Quand il fut amené devant Al-Hajjaj pour être exécuté, Al-Hajjaj lui dit avec moquerie :*
+
+**Al-Hajjaj :** « Tu es Sa'id ibn Jubayr (l'heureux) ? Non, tu es Shaqi ibn Kusayr (le malheureux) ! »
+
+**Sa'id :** « Ma mère m'a nommé Sa'id, et elle savait mieux ! »
+
+**Al-Hajjaj :** « Choisis toi-même de quelle manière tu veux mourir ! »
+
+**Sa'id :** « Choisis plutôt pour toi-même, car par Allah, tu ne me tueras d'aucune manière sans qu'Allah ne te tue de la même manière au Jour de la Résurrection ! »
+
+*Puis il se tourna vers la Qiblah et dit :*
+
+> ﴿وَجَّهْتُ وَجْهِيَ لِلَّذِي فَطَرَ السَّمَاوَاتِ وَالْأَرْضَ حَنِيفًا وَمَا أَنَا مِنَ الْمُشْرِكِينَ﴾
+> *« Je tourne mon visage vers Celui qui a créé les cieux et la terre, en monothéiste, et je ne suis pas du nombre des associateurs. »*
+
+*Il fut exécuté رحمه الله, et peu de temps après, Al-Hajjaj mourut dans une grande détresse.*
+
+</div>
+
+**📌 La leçon :** Sa'id ibn Jubayr a voué son adoration à Allah seul même au moment de la mort, et il n'a pas craint la créature car il savait que Celui qui détient le bien et le mal est Allah.
+
+---
+
+## 🎯 Cas pratiques contemporains : Tawheed Al-Uluhiyyah dans notre vie
+
+### Cas 1 : Les amulettes et les perles bleues
+**Situation :** Une mère accroche une perle bleue sur la poitrine de son bébé « pour le protéger du mauvais œil ».
+
+**Question :** Quel est le jugement de cet acte ?
+
+**Réponse :** ❌ Ceci fait partie du shirk mineur (les amulettes interdites), et peut atteindre le shirk majeur si elle croit que cela profite par soi-même.
+
+✅ **Correct :** La Ruqyah légitime avec le Coran et les invocations, et la confiance en Allah seul.
+
+Le Prophète ﷺ a dit : **« Les Ruqya (incantations autres que celles du Coran et de la Sunnah), les amulettes et les Tiwala (charmes d'amour) sont du shirk. »** (Ahmad, Sahih)
+
+---
+
+### Cas 2 : Jurer par autre qu'Allah
+**Situation :** Un jeune homme dit : « Par le Prophète, je n'ai pas fait cela ! » ou « Sur ta vie, je n'ai pas menti ! »
+
+**Question :** Est-il permis de jurer par autre qu'Allah ?
+
+**Réponse :** ❌ Il n'est pas permis de jurer par autre qu'Allah, c'est du shirk mineur.
+
+Le Prophète ﷺ a dit : **« Quiconque jure par autre qu'Allah a commis le shirk. »** (Ahmad, Sahih)
+
+✅ **Correct :** Jurer par Allah seul : « WaLlahi », « BiLlahi », « TaLlahi ».
+
+---
+
+### Cas 3 : Invoquer les morts
+**Situation :** Un homme se rend à la tombe d'un saint et dit : « Ô mon maître ! Guéris mon fils malade ! »
+
+**Question :** Quel est le jugement de cet acte ?
+
+**Réponse :** ❌ C'est du **shirk majeur** qui fait sortir de la religion ! L'invocation est une adoration qui n'est vouée qu'à Allah.
+
+✅ **Correct :** Invoquer Allah seul : « Ô Allah, guéris mon fils ! »
+
+﴿وَأَنَّ الْمَسَاجِدَ لِلَّهِ فَلَا تَدْعُوا مَعَ اللَّهِ أَحَدًا﴾ *« Les mosquées sont pour Allah. N'invoquez donc personne avec Allah. »* (Al-Jinn 72:18)
+
+---
+
+### Cas 4 : Sacrifier au seuil de la maison
+**Situation :** Un homme sacrifie un animal au seuil de sa nouvelle maison « pour la protéger des djinns et du mal ».
+
+**Question :** Quel en est le jugement ?
+
+**Réponse :** ❌ Si c'est sacrifié pour se rapprocher des djinns = **shirk majeur**.
+
+✅ **Correct :** Sacrifier pour Allah en guise de remerciement pour la nouvelle maison, et distribuer aux pauvres.
+
+Le Prophète ﷺ a dit : **« Allah a maudit celui qui sacrifie pour autre qu'Allah. »** (Muslim)
+
+---
+
+### Cas 5 : L'ostentation dans l'adoration
+**Situation :** Un jeune homme prolonge sa prière devant les gens pour qu'on dise de lui « pieux et dévot », mais il la raccourcit quand il prie seul.
+
+**Question :** Quelle est la gravité de cela ?
+
+**Réponse :** ❌ C'est de l'**ostentation (riya')**, un shirk caché qui annule l'œuvre !
+
+Le Prophète ﷺ a dit dans le hadith Qudsi : **« Je suis le plus en mesure de Me passer d'associé. Quiconque accomplit une œuvre en y associant autre que Moi, Je l'abandonne lui et son association. »** (Muslim)
+
+✅ **Correct :** La sincérité envers Allah en secret et en public.
+
+---
+
+## 💡 Pause réflexion
+
+**Question de réflexion :**
+> Si tu étais seul dans une pièce sombre, où personne ne te voit... ton adoration changerait-elle ? Ta prière en secret est-elle comme ta prière devant les gens ?
+>
+> Si la réponse est : oui, elle change... c'est un signe inquiétant de manque de sincérité !
+
+**Rappelle-toi :**
+- Allah te voit quand tu te lèves et quand tu te prosternes
+- ﴿يَعْلَمُ خَائِنَةَ الْأَعْيُنِ وَمَا تُخْفِي الصُّدُورُ﴾ *« Il connaît la trahison des yeux et ce que les poitrines cachent. »* (Ghafir 40:19)
+- La sincérité, c'est que ton secret et ton apparence soient égaux
+- Al-Fudayl ibn 'Iyad a dit : **« Délaisser l'action à cause des gens est de l'ostentation, et agir à cause des gens est du shirk. La sincérité, c'est qu'Allah te préserve des deux. »**
+
+---
+
+## �💎 Paroles des Savants sur Tawheed Al-Uluhiyyah
 
 ### Sheikh Al-Islam Ibn Taymiyyah رحمه الله
 

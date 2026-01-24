@@ -378,6 +378,122 @@ Nu'aym ibn Hammad رحمه الله a dit :
 
 ---
 
+## 📖 Récits des Salaf : La patience de l'Imam Ahmad face à l'innovation
+
+<div class="story-box">
+
+**🎭 L'IMAM AHMAD ET L'ÉPREUVE DE LA CRÉATION DU CORAN**
+
+**À l'époque d'Al-Ma'mun, Al-Mu'tasim et Al-Wathiq**, les gens furent contraints de dire que le Coran était créé et qu'Allah ne parle pas réellement.
+
+L'Imam Ahmad ibn Hanbal رحمه الله se dressa seul pour défendre la croyance des Salaf...
+
+**Le calife :** « Dis que le Coran est créé ! »
+
+**L'Imam Ahmad :** **« Le Coran est la parole d'Allah, non créé. »**
+
+*On lui dit :* « Dis que le Coran est créé et nous cesserons de te torturer ! »
+
+**L'Imam Ahmad :** **« Apportez-moi un verset du Livre d'Allah ou un hadith du Messager d'Allah ﷺ ! »**
+
+*Il fut fouetté jusqu'à l'évanouissement et emprisonné pendant trente mois...*
+
+*Quand on lui demanda :* « Qu'est-ce qui t'a fait tenir ? »
+
+**L'Imam Ahmad :** **« Je me disais : je mourrai demain mais la science restera. Et si j'avais dit une seule parole contraire à la vérité, j'aurais égaré la Oumma ! »**
+
+*Et il disait :* **« Le Coran est la parole d'Allah, non créé. Il a commencé de Lui et retournera à Lui. »**
+
+</div>
+
+**📌 La leçon :** L'Imam Ahmad a tenu ferme dans l'affirmation de l'Attribut de la Parole pour Allah comme il sied à Sa Majesté, et a enduré les souffrances pour la bonne croyance. Telle est la méthodologie des Salaf : affirmation sans assimilation, transcendance sans négation.
+
+---
+
+## 🎯 Cas pratiques contemporains : Tawheed Al-Asma wa Sifat dans notre vie
+
+### Cas 1 : L'Attribut de l'Élévation
+**Situation :** Une personne dit : « Allah est partout ! » ou « Allah est présent par Son Essence ici avec nous ! »
+
+**Question :** Est-ce correct doctrinalement ?
+
+**Réponse :** ❌ Ceci est contraire à la croyance des Salaf. Allah est **par Son Essence** au-dessus de Ses cieux, établi sur Son Trône, et Il est **par Sa Science** en tout lieu.
+
+✅ **Correct :** ﴿الرَّحْمَٰنُ عَلَى الْعَرْشِ اسْتَوَىٰ﴾ *« Le Tout-Miséricordieux S'est établi sur le Trône. »* (Ta-Ha 20:5)
+
+Le Prophète ﷺ a demandé à l'esclave : **« Où est Allah ? »** Elle a dit : « Au ciel. » Il a dit : **« Affranchis-la car elle est croyante. »** (Muslim)
+
+---
+
+### Cas 2 : L'interprétation erronée
+**Situation :** Une personne dit : « La Main d'Allah signifie Sa puissance, et l'Œil d'Allah signifie Sa surveillance, car le sens littéral implique l'anthropomorphisme ! »
+
+**Question :** Quelle est l'erreur dans ce propos ?
+
+**Réponse :** ❌ C'est une **interprétation erronée** qui annule les Attributs. Allah a une Main réelle qui convient à Sa Majesté, elle ne ressemble pas aux mains des créatures.
+
+✅ **Correct :** « Nous affirmons pour Allah une Main qui convient à Sa Majesté, nous ne demandons pas le 'comment' et nous ne l'assimilons pas aux mains des créatures. »
+
+﴿لَيْسَ كَمِثْلِهِ شَيْءٌ ۖ وَهُوَ السَّمِيعُ الْبَصِيرُ﴾ *« Il n'y a rien qui Lui ressemble, et c'est Lui l'Audient, le Clairvoyant. »* (Ash-Shura 42:11)
+
+---
+
+### Cas 3 : Questionner le "comment"
+**Situation :** Une personne demande : « Comment Allah descend-Il au ciel le plus bas ? Et quitte-t-Il Son Trône ? »
+
+**Question :** Comment répondre à cela ?
+
+**Réponse :**
+✅ **La méthodologie des Salaf :** Nous affirmons la descente comme elle est venue dans le hadith authentique, et nous ne questionnons pas le "comment".
+
+L'Imam Malik a dit : **« L'établissement est connu, le comment est inconnu, y croire est obligatoire, et questionner à ce sujet est une innovation. »**
+
+Allah descend d'une descente qui convient à Sa Majesté, et cela n'implique pas ce qu'implique la descente de la créature.
+
+---
+
+### Cas 4 : L'anthropomorphisme
+**Situation :** Une personne dit : « Allah entend comme nous entendons et voit comme nous voyons, car les attributs sont les mêmes ! »
+
+**Question :** Quelle est l'erreur ici ?
+
+**Réponse :** ❌ C'est de l'**anthropomorphisme** interdit ! Les Attributs d'Allah ne ressemblent pas à ceux des créatures.
+
+✅ **Correct :** Allah entend d'une audition qui convient à Sa Majesté, différente de l'audition des créatures. L'humain a une audition et la fourmi a une audition, elles sont différentes malgré le même nom. Alors qu'en est-il des Attributs du Créateur !
+
+---
+
+### Cas 5 : L'invocation par les Plus Beaux Noms
+**Situation :** Une personne en difficulté financière invoque : « Ô Pourvoyeur (Ar-Razzaq), pourvois-moi ! » Et un malade dit : « Ô Guérisseur (Ash-Shafi), guéris-moi ! »
+
+**Question :** Cette invocation est-elle correcte ?
+
+**Réponse :** ✅ Oui ! C'est une **invocation recommandée** et recherchée.
+
+﴿وَلِلَّهِ الْأَسْمَاءُ الْحُسْنَىٰ فَادْعُوهُ بِهَا﴾ *« C'est à Allah qu'appartiennent les plus Beaux Noms. Invoquez-Le par ces noms. »* (Al-A'raf 7:180)
+
+**De la Sunnah :** Se rapprocher d'Allah par Ses Noms et Attributs appropriés à ce qui est demandé.
+
+---
+
+## 💡 Pause réflexion
+
+**Question de réflexion :**
+> Allah est « As-Sami' » (l'Audient)... Que signifie le fait de savoir qu'Allah entend les murmures de ton cœur, tes plaintes au cœur de la nuit, et ton invocation secrète que tes lèvres n'ont même pas prononcée ?
+>
+> Comment cela affecte-t-il ta relation avec Allah ?
+
+**Rappelle-toi :**
+- Chaque Nom parmi les Noms d'Allah engendre en ton cœur une forme d'adoration
+- Le Nom « Ar-Raqib » (le Vigilant) te fait te surveiller toi-même
+- Le Nom « Al-Ghafur » (le Pardonneur) t'inspire l'espoir
+- Le Nom « Al-Wadud » (le Très-Aimant) remplit ton cœur d'amour pour Allah
+- Connaître les Noms et Attributs = Connaître Allah = La plus noble des sciences
+
+Ibn Al-Qayyim رحمه الله a dit : **« Quiconque connaît Allah par Ses Noms et Attributs L'aimera inévitablement. »**
+
+---
+
 ## Fruits de la foi aux Noms et Attributs
 
 1. **Connaître Allah véritablement** — par Ses Noms et Attributs
