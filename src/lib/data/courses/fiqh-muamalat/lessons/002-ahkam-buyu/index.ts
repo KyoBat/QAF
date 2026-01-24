@@ -1,4 +1,4 @@
-import type { Lesson } from '@/types';
+import type { Lesson } from '../../../types';
 import { contentAr } from './ar';
 import { contentFr } from './fr';
 import { contentEn } from './en';

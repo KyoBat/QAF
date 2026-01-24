@@ -3,12 +3,12 @@ import { contentAr } from './ar';
 import { contentFr } from './fr';
 import { contentEn } from './en';
 
-export const lesson001: Lesson = {
-  id: 'muamalat-001',
+export const lesson003: Lesson = {
+  id: 'muamalat-003',
   title: {
-    ar: 'مقدمة في فقه المعاملات',
-    fr: 'Introduction au Fiqh des Transactions',
-    en: 'Introduction to Fiqh of Transactions',
+    ar: 'شروط البيع',
+    fr: 'Conditions de la vente',
+    en: 'Conditions of Sale',
   },
   content: {
     ar: contentAr,
@@ -16,5 +16,5 @@ export const lesson001: Lesson = {
     en: contentEn,
   },
   duration: '30 min',
-  order: 1,
+  order: 3,
 };
