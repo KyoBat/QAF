@@ -48,7 +48,7 @@ Il disait aussi : **"Nous avons abandonné neuf dixièmes du licite par crainte 
 > Jabir رضي الله عنه a dit : "Le Messager d'Allah ﷺ a maudit le consommateur d'usure, celui qui la paie, celui qui l'écrit et ses deux témoins, et il a dit : Ils sont égaux." [Rapporté par Muslim]
 
 ### Troisième Hadith : La Gravité de l'Usure
-> Le Prophète ﷺ a dit : "L'usure comporte soixante-treize portes, la moindre est comme si l'homme épousait sa mère." [Rapporté par Ibn Majah et al-Hakim]
+> Le Prophète ﷺ a dit : "L'usure comporte soixante-treize portes, la moindre est comme si l'homme épousait sa mère." [Rapporté par Ibn Majah et al-Hakim — hadith hassan selon certains, da'if selon d'autres, mais le sens est soutenu par d'autres textes]
 
 ### Quatrième Hadith : Les Catégories de l'Usure
 > Le Prophète ﷺ a dit : "L'or contre l'or, l'argent contre l'argent, le blé contre le blé, l'orge contre l'orge, les dattes contre les dattes, le sel contre le sel, de même quantité, de main à main. Celui qui donne plus ou demande plus a commis l'usure, le preneur et le donneur y sont égaux." [Rapporté par Muslim]

@@ -20,7 +20,7 @@ Ijarah : dérivé de "ajr" (récompense), d'où le salaire est appelé "ajr".
 ### Dans la Sunna Prophétique
 > Aïcha رضي الله عنها a dit : "Le Messager d'Allah ﷺ et Abou Bakr ont engagé un homme des Bani ad-Dil comme guide expert." [Rapporté par al-Bukhari]
 
-> Le Prophète ﷺ a dit : "Donnez au travailleur son salaire avant que sa sueur ne sèche." [Rapporté par Ibn Majah]
+> Le Prophète ﷺ a dit : "Donnez au travailleur son salaire avant que sa sueur ne sèche." [Rapporté par Ibn Majah — hadith da'if selon certains muhaddithun, mais le sens est soutenu par d'autres textes authentiques]
 
 ### Le Consensus
 La communauté est unanime sur la licéité de l'ijarah en raison du besoin des gens.
