@@ -193,6 +193,131 @@ Remember:
 
 ---
 
+## 🎯 Contemporary Cases
+
+### 📉 Case 1: Feeling of losing faith after a major sin
+
+> **Situation:** After committing fornication, Yusuf feels "far from Allah" and thinks he has completely lost his faith.
+
+**❓ Has he lost his faith? How can he recover?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Major sins | Decrease faith without removing it |
+| According to Ahl as-Sunnah | Sinner remains believer with deficient faith |
+| What he should do | Repent sincerely, don't despair |
+
+> 💡 **Rule:** Sin decreases faith but doesn't remove it (unlike Khawârij). The door of repentance is open. "Say: O My servants who have transgressed against themselves, do not despair of Allah's mercy."
+
+</details>
+
+---
+
+### 🌅 Case 2: Spiritual boost after Ramadan that fades
+
+> **Situation:** During Ramadan, Amina prayed at night and read Quran. Two months later, she abandoned everything and feels guilty.
+
+**❓ Why this decline and how to manage it?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Nature of faith | It increases and decreases |
+| Fatrah (slackening) | Normal phenomenon mentioned in hadiths |
+| The solution | Regular deeds even if small |
+
+> 💡 **Rule:** "The most beloved deed to Allah is the most consistent, even if small" (Bukhari). Aim for consistency rather than temporary intensity.
+
+</details>
+
+---
+
+### 🤯 Case 3: Doubts about Islam after philosophical reading
+
+> **Situation:** Karim, after reading atheist philosophers, has doubts about God's existence and feels confused.
+
+**❓ Do these doubts mean losing faith?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Involuntary thoughts | Are not disbelief |
+| What the Prophet ﷺ said | "That is pure faith" (hating these thoughts) |
+| What is dangerous | Enjoying them and following them |
+
+> 💡 **Rule:** The Companions had doubts (waswas) and the Prophet ﷺ told them to say "I believe in Allah" and turn away. Doubt that is fought is a sign of faith.
+
+</details>
+
+---
+
+### 😢 Case 4: Depression and feeling distant from Allah
+
+> **Situation:** Sara suffers from clinical depression. She can't pray with concentration and feels "cut off from Allah."
+
+**❓ Does mental illness affect faith?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Depression | Is an illness, not a sin |
+| Difficulty in worship | Excused according to capacity |
+| Feeling of distance | May be symptomatic, not real |
+
+> 💡 **Rule:** "Allah does not burden a soul beyond its capacity." Seeking treatment is recommended. Faith remains as long as the person doesn't voluntarily apostatize.
+
+</details>
+
+---
+
+### 🔄 Case 5: Spiritual cycle - highs and lows of faith
+
+> **Situation:** Omar notices he has periods of great fervor then periods of slackening, in a repetitive cycle.
+
+**❓ Is this cycle normal? How to manage it?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Hearts | Fluctuate by nature |
+| What the Prophet ﷺ said | "For everything there is a zeal, and for every zeal a slackening" |
+| The key | That slackening doesn't exit the permissible |
+
+> 💡 **Rule:** The cycle is normal. The important thing is maintaining obligations during low periods and benefiting from highs for supererogatory deeds.
+
+</details>
+
+---
+
+## 💭 Reflection
+
+> *"Faith is like a plant: it needs regular water (deeds) and light (knowledge). Neglected, it withers. Maintained, it flourishes."*
+
+— Teaching of the scholars
+
+---
+
 ## ❓ Frequently Asked Questions
 
 ### Q1: Can one say "I am a believer in shâ' Allâh"?

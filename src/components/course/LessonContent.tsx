@@ -180,6 +180,9 @@ export function LessonContent({ lesson, courseSlug, className }: LessonContentPr
   // Check for infobox markers
   const hasInfoBoxMarker = /<!-- INFOBOX:([\w-]+) -->/.test(content)
   
+  // Check for diagram markers
+  const hasDiagramMarker = /<!-- DIAGRAM:([\w-]+) -->/.test(content)
+  
   // Get expansion data by school
   const getExpansionData = (school: string) => {
     switch (school) {
@@ -546,9 +549,9 @@ export function LessonContent({ lesson, courseSlug, className }: LessonContentPr
           {/* Content after mindmap marker */}
           {contentParts[1] && renderContentSection(contentParts[1])}
         </>
-      ) : hasInlineChain || hasMethodMarker || hasExpansionMarker || hasInfoBoxMarker ? (
+      ) : hasInlineChain || hasMethodMarker || hasExpansionMarker || hasInfoBoxMarker || hasDiagramMarker ? (
         <>
-          {/* Content with chain marker or method markers or infobox */}
+          {/* Content with chain marker or method markers or infobox or diagrams */}
           {renderContentSection(content)}
         </>
       ) : (

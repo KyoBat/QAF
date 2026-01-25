@@ -94,6 +94,66 @@ export type DiagramData =
 
 const diagramsRegistry: Record<string, DiagramData> = {
   // ─────────────────────────────────────────────────────────
+  // FIQH MUAMALAT - IJARA (Définition)
+  // ─────────────────────────────────────────────────────────
+  'ijarah-definition': {
+    type: 'ruling',
+    title: {
+      ar: '📋 عناصر تعريف الإجارة',
+      fr: '📋 Éléments de définition de l\'Ijara',
+      en: '📋 Elements of Ijara Definition'
+    },
+    rulingType: 'conditions',
+    numbered: false,
+    items: [
+      {
+        text: { ar: 'عقد على منفعة', fr: 'Contrat sur un usufruit', en: 'Contract on a benefit' },
+        subitems: [
+          { ar: '✓ مباحة — لا إجارة على محرم', fr: '✓ Licite — pas de location pour l\'illicite', en: '✓ Permissible — no lease for forbidden' },
+          { ar: '✓ معلومة — بالوصف أو المشاهدة', fr: '✓ Connue — par description ou observation', en: '✓ Known — by description or observation' },
+          { ar: '✓ من عين معلومة — كهذه الشقة أو السيارة', fr: '✓ D\'un bien connu — comme cet appartement', en: '✓ From a known item — like this apartment' },
+          { ar: '✓ مدة معلومة — سنة، شهر، يوم', fr: '✓ Durée connue — année, mois, jour', en: '✓ Known duration — year, month, day' },
+          { ar: '✓ بعوض معلوم — 1000 ريال مثلاً', fr: '✓ Pour une contrepartie connue — 1000 riyals par ex.', en: '✓ For known compensation — 1000 riyals e.g.' }
+        ]
+      }
+    ]
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // FIQH MUAMALAT - IJARA (Piliers du contrat)
+  // ─────────────────────────────────────────────────────────
+  'ijarah-pillars': {
+    type: 'tree',
+    title: {
+      ar: '🏛️ أركان عقد الإجارة الأربعة',
+      fr: '🏛️ Les quatre piliers du contrat de location',
+      en: '🏛️ The Four Pillars of the Lease Contract'
+    },
+    branches: [
+      {
+        label: { ar: 'المتعاقدان', fr: 'Les contractants', en: 'The Contracting Parties' },
+        description: { ar: 'المؤجر والمستأجر', fr: 'Bailleur et locataire', en: 'Lessor and lessee' },
+        variant: 'default'
+      },
+      {
+        label: { ar: 'الصيغة', fr: 'La formule', en: 'The Formula' },
+        description: { ar: 'إيجاب وقبول', fr: 'Offre et acceptation', en: 'Offer and acceptance' },
+        variant: 'default'
+      },
+      {
+        label: { ar: 'المنفعة', fr: 'L\'usufruit', en: 'The Benefit' },
+        description: { ar: 'معلومة ومباحة', fr: 'Connu et licite', en: 'Known and permissible' },
+        variant: 'default'
+      },
+      {
+        label: { ar: 'الأجرة', fr: 'Le loyer', en: 'The Rent' },
+        description: { ar: 'معلومة ومقبوضة', fr: 'Connu et perçu', en: 'Known and received' },
+        variant: 'default'
+      }
+    ]
+  },
+
+  // ─────────────────────────────────────────────────────────
   // FIQH MUAMALAT - IJARA (Types de location)
   // ─────────────────────────────────────────────────────────
   'ijara-types': {
@@ -134,6 +194,50 @@ const diagramsRegistry: Record<string, DiagramData> = {
           { ar: 'خدمات الأشخاص', fr: 'Services personnels', en: 'Personal services' },
           { ar: 'عمل محدد', fr: 'Travail défini', en: 'Defined work' },
           { ar: 'أو مدة معينة', fr: 'Ou durée déterminée', en: 'Or fixed duration' }
+        ]
+      }
+    ]
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // FIQH MUAMALAT - Conditions de la prestation louée
+  // ─────────────────────────────────────────────────────────
+  'benefit-conditions': {
+    type: 'ruling',
+    title: {
+      ar: '✅ شروط المنفعة المستأجر عليها',
+      fr: '✅ Conditions de la prestation louée',
+      en: '✅ Conditions of the Leased Benefit'
+    },
+    rulingType: 'conditions',
+    numbered: true,
+    items: [
+      {
+        text: { ar: 'أن تكون معلومة', fr: 'Qu\'elle soit connue', en: 'It must be known' },
+        subitems: [
+          { ar: 'بالوصف: "شقة غرفتين مطبخ حمام"', fr: 'Par description: "appartement 2 pièces cuisine sdb"', en: 'By description: "2-room apartment kitchen bathroom"' },
+          { ar: 'بالمشاهدة: رؤية العين المستأجرة', fr: 'Par observation: voir le bien loué', en: 'By observation: seeing the leased item' }
+        ]
+      },
+      {
+        text: { ar: 'أن تكون مباحة', fr: 'Qu\'elle soit licite', en: 'It must be permissible' },
+        subitems: [
+          { ar: '✅ سكن، نقل، عمل مشروع', fr: '✅ Logement, transport, travail licite', en: '✅ Housing, transport, lawful work' },
+          { ar: '❌ محل لبيع الخمر، صالة قمار', fr: '❌ Local pour vendre alcool, salle de jeu', en: '❌ Shop for selling alcohol, gambling hall' }
+        ]
+      },
+      {
+        text: { ar: 'أن تكون مقدوراً على تسليمها', fr: 'Qu\'elle soit livrable', en: 'It must be deliverable' },
+        subitems: [
+          { ar: '❌ إيجار سيارة مسروقة', fr: '❌ Location voiture volée', en: '❌ Renting a stolen car' },
+          { ar: '❌ إيجار شقة مشغولة بمستأجر آخر', fr: '❌ Location appart occupé par autre locataire', en: '❌ Renting apartment occupied by another tenant' }
+        ]
+      },
+      {
+        text: { ar: 'أن تكون للمستأجر لا للمؤجر', fr: 'Qu\'elle soit pour le locataire pas le bailleur', en: 'It must be for the lessee not the lessor' },
+        subitems: [
+          { ar: 'المنفعة تنتقل للمستأجر', fr: 'L\'usufruit revient au locataire', en: 'The benefit transfers to the lessee' },
+          { ar: 'المؤجر يستحق الأجرة فقط', fr: 'Le bailleur ne reçoit que le loyer', en: 'The lessor only receives rent' }
         ]
       }
     ]

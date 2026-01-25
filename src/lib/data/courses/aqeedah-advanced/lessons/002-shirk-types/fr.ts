@@ -79,6 +79,131 @@ const content = `
 
 ---
 
+## 🎯 Cas Contemporains
+
+### 🌙 Cas 1: Demander à un saint décédé de guérir
+
+> **Situation:** Fatima souffre d'une maladie chronique. Sa grand-mère lui conseille de visiter le mausolée d'un saint et de lui demander la guérison.
+
+**❓ Est-ce du shirk de demander à un mort de guérir ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| Type d'invocation | Invocation d'adoration (du'â' 'ibâdah) |
+| Capacité du mort | Le mort ne peut ni entendre ni répondre |
+| Jugement | Shirk majeur (akbar) |
+
+> 💡 **Règle:** Invoquer un mort pour obtenir ce qu'Allah seul peut accorder est du shirk majeur, même si la personne le fait par ignorance.
+
+</details>
+
+---
+
+### ⭐ Cas 2: Consulter l'horoscope quotidiennement
+
+> **Situation:** Ahmed lit son horoscope chaque matin pour "savoir comment sera sa journée". Il dit que c'est "juste pour s'amuser".
+
+**❓ Lire l'horoscope est-il du shirk ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| Prétention | Connaissance de l'invisible (ghayb) |
+| Si on y croit | Shirk akbar (attribuer la connaissance du ghayb à autre qu'Allah) |
+| Si on lit sans y croire | Péché grave, prière non acceptée 40 jours |
+
+> 💡 **Règle:** La connaissance de l'invisible appartient exclusivement à Allah. Y croire ou consulter ceux qui prétendent le connaître est interdit.
+
+</details>
+
+---
+
+### 🔮 Cas 3: Porter un œil bleu contre le mauvais œil
+
+> **Situation:** Karima porte un pendentif "œil bleu" (nazar) que sa mère lui a offert pour la protéger du mauvais œil.
+
+**❓ Porter une amulette protectrice est-il du shirk ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| Si on croit qu'elle protège par elle-même | Shirk akbar |
+| Si on croit qu'elle est une cause | Shirk asghar (mineur) |
+| Ce qui est permis | Ruqyah avec le Coran et les invocations prophétiques |
+
+> 💡 **Règle:** « Celui qui porte une amulette a commis du shirk » (Ahmad). La protection vient d'Allah seul.
+
+</details>
+
+---
+
+### 🤲 Cas 4: Jurer par autre qu'Allah
+
+> **Situation:** Youssef dit souvent "Je jure sur la tête de ma mère" ou "Sur la vie de mes enfants" pour convaincre les autres.
+
+**❓ Jurer par autre qu'Allah est-il du shirk ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| Type de shirk | Shirk asghar (mineur) dans les paroles |
+| Hadith | « Celui qui jure par autre qu'Allah a mécru ou commis du shirk » (Tirmidhi) |
+| Exception | Si on croit que le juré est égal à Allah → shirk akbar |
+
+> 💡 **Règle:** On ne jure que par Allah ou Ses Noms et Attributs. Jurer par autre est du shirk mineur qui peut mener au majeur.
+
+</details>
+
+---
+
+### 💫 Cas 5: Croire que le médecin guérit
+
+> **Situation:** Après une opération réussie, Omar dit "C'est le docteur qui m'a guéri" sans mentionner Allah.
+
+**❓ Attribuer la guérison au médecin est-il du shirk ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| Si on croit que le médecin guérit indépendamment | Shirk dans la Seigneurie (Rubûbiyyah) |
+| Si c'est une expression de reconnaissance | Shirk asghar (attribuer le bienfait à la cause) |
+| Expression correcte | "Allah m'a guéri à travers le médecin" |
+
+> 💡 **Règle:** Ibrahim عليه السلام a dit : « Et quand je suis malade, c'est Lui qui me guérit » (Ash-Shu'arâ': 80). Le médecin n'est qu'une cause.
+
+</details>
+
+---
+
+## 💭 Réflexion
+
+> *« Le shirk est la plus grande injustice, car c'est placer la créature au rang du Créateur dans ce qui Lui appartient exclusivement. »*
+
+— Enseignement des savants
+
+---
+
 ## ❓ Questions Fréquentes
 
 ### Q1 : Le musulman peut-il tomber dans le shirk majeur ?

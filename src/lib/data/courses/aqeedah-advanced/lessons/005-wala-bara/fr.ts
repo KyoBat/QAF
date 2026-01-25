@@ -99,6 +99,131 @@ const content = `
 
 ---
 
+## 🎯 Cas Contemporains
+
+### 🎄 Cas 1: Participer à Noël avec la belle-famille non-musulmane
+
+> **Situation:** Fatima est mariée à un converti. Sa belle-mère chrétienne les invite à Noël. Le mari veut y aller pour maintenir les liens familiaux.
+
+**❓ Peuvent-ils participer à la fête de Noël ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| Participer aux rituels religieux | Interdit |
+| Simple repas familial après | Avis divergents, la prudence est préférable |
+| Alternative | Leur rendre visite un autre jour, offrir un cadeau |
+
+> 💡 **Règle:** On maintient les liens de parenté sans participer aux rituels religieux. La bienfaisance envers les non-combattants est permise, mais sans approuver leurs rites.
+
+</details>
+
+---
+
+### 🏢 Cas 2: Travailler dans une entreprise de produits haram
+
+> **Situation:** Youssef a reçu une offre bien payée dans une entreprise qui produit de l'alcool. Il serait comptable, sans toucher à l'alcool directement.
+
+**❓ Peut-il accepter ce travail ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| Aide au péché (i'ânah 'ala al-ithm) | Interdit par le Coran |
+| Comptabilité dans ce cas | Participe au fonctionnement de l'entreprise |
+| Même sans toucher le haram | Le salaire provient du haram |
+
+> 💡 **Règle:** Le Prophète ﷺ a maudit dix catégories liées à l'alcool, dont celui qui aide à sa production. Chercher un travail halal.
+
+</details>
+
+---
+
+### 🤝 Cas 3: Ami proche athée qui respecte l'Islam
+
+> **Situation:** Karim a un ami d'enfance, Marc, athée mais très respectueux de l'Islam. Il ne boit pas devant lui et pose des questions sincères.
+
+**❓ Peut-il maintenir cette amitié ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| Amitié de cœur (mawâlah) | Déconseillée |
+| Relations cordiales (mudârah) | Permises |
+| Opportunité de da'wah | Recommandée |
+
+> 💡 **Règle:** On distingue l'alliance du cœur (mawâlah - interdite) de la fréquentation avec bienveillance pour l'appeler à l'Islam. Le Prophète ﷺ était bienveillant avec les non-musulmans sans les prendre pour alliés intimes.
+
+</details>
+
+---
+
+### 🗳️ Cas 4: Voter pour un candidat non-musulman
+
+> **Situation:** Aux élections locales, le seul candidat honnête et juste est non-musulman. L'autre candidat, "musulman", est corrompu.
+
+**❓ Peut-on voter pour le non-musulman ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| Principe de moindre mal | Appliqué par les savants contemporains |
+| Défendre les intérêts des musulmans | Permis |
+| Ce n'est pas une alliance de cœur | C'est un choix pragmatique |
+
+> 💡 **Règle:** Voter n'est pas une alliance religieuse mais un choix d'intérêt. Choisir le moins nuisible pour la communauté est permis selon de nombreux savants.
+
+</details>
+
+---
+
+### 💑 Cas 5: Mariage avec une chrétienne pratiquante
+
+> **Situation:** Ahmed veut épouser Marie, chrétienne pratiquante. Elle refuse de se convertir mais accepte d'élever les enfants musulmans.
+
+**❓ Ce mariage est-il conseillé ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| Liceité de base | Permis d'épouser une kitabiyyah chaste |
+| Conditions | Qu'elle soit vraiment chrétienne (pas athée) et chaste |
+| Recommandation | Déconseillé si risque pour la foi des enfants |
+
+> 💡 **Règle:** Le mariage avec les gens du Livre est permis mais déconseillé par beaucoup de savants contemporains vu les défis éducatifs et identitaires.
+
+</details>
+
+---
+
+## 💭 Réflexion
+
+> *« L'alliance et le désaveu sont le complément du Tawhid. Aimer pour Allah et détester pour Allah est le lien le plus solide de la foi. »*
+
+— Enseignement des savants
+
+---
+
 ## ❓ Questions Fréquentes
 
 ### Q1 : Est-il permis de féliciter les mécréants pour leurs fêtes ?

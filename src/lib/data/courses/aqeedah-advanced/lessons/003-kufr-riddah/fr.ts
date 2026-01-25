@@ -103,6 +103,131 @@ const content = `
 
 ---
 
+## 🎯 Cas Contemporains
+
+### 📺 Cas 1: Regarder des séries qui normalisent l'athéisme
+
+> **Situation:** Sofiane regarde régulièrement des séries où les personnages athées sont présentés positivement et la religion moquée.
+
+**❓ Regarder ce contenu affecte-t-il la foi ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| Regarder sans approuver | Péché car s'exposer aux doutes |
+| Rire et approuver les moqueries | Peut atteindre la mécréance |
+| Adopter ces idées | Apostasie si conviction |
+
+> 💡 **Règle:** S'exposer aux doutes sans nécessité est interdit. « Celui qui entend un verset d'Allah dont on se moque et reste assis avec eux est comme eux » (An-Nisâ': 140).
+
+</details>
+
+---
+
+### ❌ Cas 2: Déchirer le Coran par colère
+
+> **Situation:** Karim, en colère contre sa famille, déchire un Coran. Il regrette immédiatement et pleure.
+
+**❓ A-t-il apostasié ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| L'acte en soi | Profanation du Coran = mécréance |
+| La colère extrême | Empêchement potentiel au takfîr |
+| Le regret immédiat | Signe que ce n'était pas par conviction |
+
+> 💡 **Règle:** L'acte est de la mécréance, mais juger la personne nécessite d'établir les conditions et lever les empêchements. Il doit se repentir sincèrement et prononcer la shahâdah.
+
+</details>
+
+---
+
+### 🏛️ Cas 3: Se convertir pour se marier
+
+> **Situation:** Julie veut épouser Mohamed. Elle se « convertit » à l'Islam pour le mariage mais ne croit pas vraiment.
+
+**❓ Est-elle musulmane ? Le mariage est-il valide ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| Conversion sans conviction | Hypocrisie majeure (nifâq akbar) |
+| Statut apparent | Musulmane en apparence |
+| Le mariage | Valide en apparence, mais bâti sur un mensonge |
+
+> 💡 **Règle:** L'Islam requiert la conviction du cœur. Une conversion de façade est de l'hypocrisie. Mohamed doit s'assurer de la sincérité avant le mariage.
+
+</details>
+
+---
+
+### 🎓 Cas 4: Enseigner l'évolution comme vérité absolue
+
+> **Situation:** Pr. Hassan, musulman, enseigne la théorie de l'évolution (origine simienne de l'homme) comme vérité scientifique absolue.
+
+**❓ Cela affecte-t-il sa foi ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| Enseigner comme théorie | Permis avec réserves |
+| Y croire fermement | Contredit le Coran sur la création d'Adam |
+| Nier la création spéciale d'Adam | Rejet d'un texte clair = mécréance |
+
+> 💡 **Règle:** Nier qu'Allah a créé Adam directement de terre, tel que mentionné dans le Coran, est un rejet des textes révélés.
+
+</details>
+
+---
+
+### 💔 Cas 5: Apostasie pour fuir un mariage forcé
+
+> **Situation:** Aïcha, forcée par sa famille à un mariage, déclare quitter l'Islam pour échapper à la pression.
+
+**❓ Quel est son statut ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| La contrainte | Empêchement reconnu ﴿ إِلاَّ مَنْ أُكْرِهَ وَقَلْبُهُ مُطْمَئِنٌّ ﴾ |
+| Si elle croit encore | Pas d'apostasie si le cœur est serein |
+| Si elle ne croit vraiment plus | Apostasie réelle |
+
+> 💡 **Règle:** La contrainte excuse la parole de mécréance si le cœur reste ferme. Mais la vraie solution est de chercher de l'aide légale, pas de renier sa foi.
+
+</details>
+
+---
+
+## 💭 Réflexion
+
+> *« L'apostasie est le plus grand crime devant Allah, car c'est renier Celui qui t'a créé, guidé et comblé de bienfaits. Mais la porte du repentir reste toujours ouverte. »*
+
+— Enseignement des savants
+
+---
+
 ## ❓ Questions Fréquentes
 
 ### Q1 : Tout celui qui commet la mécréance devient-il mécréant ?

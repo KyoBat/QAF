@@ -117,6 +117,131 @@ const content = `
 
 ---
 
+## 🎯 Cas Contemporains
+
+### 📱 Cas 1: Applications de tarot et astrologie
+
+> **Situation:** Maryam a téléchargé une application de tarot "juste pour s'amuser" et consulte ses prédictions quotidiennes.
+
+**❓ Utiliser ces applications est-il permis ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| Nature | Voyance sous forme numérique |
+| Même si c'est "pour jouer" | Interdit, ouvre la porte au shirk |
+| Conséquence | Prière non acceptée 40 jours (si on consulte) |
+
+> 💡 **Règle:** Le support change (papier → application) mais le jugement reste le même. La voyance est interdite sous toutes ses formes.
+
+</details>
+
+---
+
+### 💍 Cas 2: Consulter un râqi qui utilise des djinns
+
+> **Situation:** La famille de Yusuf consulte un "râqi" qui prétend utiliser des djinns musulmans pour guérir les gens.
+
+**❓ Ce type de ruqyah est-il permis ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| Utiliser les djinns | Forme de magie et sorcellerie |
+| Prétention de djinns "musulmans" | Ruse des charlatans |
+| La vraie ruqyah | Coran + invocations prophétiques uniquement |
+
+> 💡 **Règle:** Quiconque prétend utiliser des djinns pour guérir est soit un menteur soit un sorcier. La ruqyah légitime n'utilise que le Coran et la Sunnah.
+
+</details>
+
+---
+
+### 🔑 Cas 3: Payer pour un "désenvoûtement"
+
+> **Situation:** Après des problèmes répétés, la famille de Khaled paie 500€ à quelqu'un pour "lever le mauvais sort" de leur maison.
+
+**❓ Payer pour le désenvoûtement est-il permis ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| Si c'est un sorcier | Interdit absolument |
+| Si c'est un râqi légitime | Permis de rémunérer le travail |
+| Signes du charlatan | Demande d'objets personnels, écrit des talismans, isolé avec les femmes |
+
+> 💡 **Règle:** Distinguer le râqi légitime (Coran, invocations claires) du charlatan (rituels obscurs, demandes bizarres). Aller chez le sorcier est interdit même pour défaire la magie.
+
+</details>
+
+---
+
+### 📖 Cas 4: Lire la ruqyah sur YouTube
+
+> **Situation:** Asmaa écoute des vidéos de ruqyah sur YouTube pour se soigner d'un mal qu'elle ressent.
+
+**❓ La ruqyah via YouTube est-elle efficace et permise ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| Légalité | Permis, le Coran bénit qui l'écoute |
+| Efficacité | Moins efficace que la ruqyah directe |
+| Le mieux | Se lire la ruqyah soi-même ou avoir un râqi présent |
+
+> 💡 **Règle:** Écouter le Coran est toujours bénéfique. Mais la ruqyah idéale est celle lue directement avec intention et souffle.
+
+</details>
+
+---
+
+### 🌿 Cas 5: Médecines "spirituelles" avec invocations païennes
+
+> **Situation:** Un herboriste vend des produits "énergisés" avec des mantras et invocations de "l'énergie universelle".
+
+**❓ Utiliser ces produits est-il permis ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| Mantras et "énergie" | Concepts païens (hindouisme, bouddhisme) |
+| Même si le produit est naturel | L'invocation païenne l'entache |
+| Alternative | Produits naturels + ruqyah avec le Coran |
+
+> 💡 **Règle:** Se soigner avec les causes permises et la ruqyah légitime. Éviter tout ce qui a été "béni" par des rituels non-islamiques.
+
+</details>
+
+---
+
+## 💭 Réflexion
+
+> *« La magie et la voyance sont des portes vers le shirk et la perdition. Le croyant met sa confiance en Allah et se soigne avec le Coran et les causes permises. »*
+
+— Enseignement des savants
+
+---
+
 ## ❓ Questions Fréquentes
 
 ### Q1 : La magie est-elle réalité ou illusion ?

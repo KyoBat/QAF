@@ -206,6 +206,136 @@ Remember: Takfir without right is among the most dangerous matters. The Prophet 
 
 ---
 
+## 🎯 Contemporary Cases
+
+### 🐦 Case 1: Pronouncing Takfir on Twitter against a Scholar
+
+> **Situation:** A user publishes a tweet declaring a famous scholar a disbeliever because of a controversial fatwa.
+
+**❓ Is this public takfir valid?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Qualification | The user is not a qualified scholar |
+| Proof establishment | No proof established to the scholar |
+| Conditions verified | Not examined |
+| Impediments considered | Not considered |
+
+> 💡 **Rule:** Takfir is the prerogative of scholars after establishing proof and verifying conditions/impediments.
+
+</details>
+
+---
+
+### 👤 Case 2: Takfir of a Parent Who Doesn't Pray
+
+> **Situation:** A young Muslim discovers his father never prays. He considers him a disbeliever and cuts ties.
+
+**❓ Can he declare his father a disbeliever and cut ties?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Scholarly difference | Debate among scholars about abandoning prayer |
+| Son's role | He is not a judge to establish takfir |
+| Good conduct | Maintaining ties remains obligatory |
+| Advice | Must invite with wisdom |
+
+> 💡 **Rule:** Even in case of a parent's major sin, good conduct and family ties remain obligatory.
+
+</details>
+
+---
+
+### 📢 Case 3: YouTube Preacher Declaring Sects as Disbelievers
+
+> **Situation:** A preacher with millions of subscribers declares an entire Islamic sect as disbelievers in his videos.
+
+**❓ Is this global judgment in accordance with takfir rules?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Collective takfir | Different from individual takfir |
+| Nuance needed | Each individual must be judged separately |
+| Individual conditions | Vary from person to person |
+| Responsibility | Great before Allah for public accusations |
+
+> 💡 **Rule:** Takfir of a group doesn't automatically imply takfir of each individual member.
+
+</details>
+
+---
+
+### 🏛️ Case 4: Ruler Who Applies Non-Islamic Laws
+
+> **Situation:** A Muslim ruler applies positive (civil) laws different from Sharia in his country.
+
+**❓ Is he automatically a disbeliever?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Istihlâl | Does he make lawful what Allah forbade? |
+| Coercion | Are there external pressures? |
+| Interpretation | Does he believe he's acting correctly? |
+| Proof establishment | Has proof been established? |
+
+> 💡 **Rule:** The judgment depends on the heart's state (istihlâl) and circumstances, not just the apparent act.
+
+</details>
+
+---
+
+### 💬 Case 5: Saying "Kafir" to Someone in Anger
+
+> **Situation:** During an argument, a Muslim says to his brother: "You are a kafir!" under the effect of anger.
+
+**❓ What are the consequences of this statement?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Hadith | "If someone says to his brother: O disbeliever, it returns to one of them" |
+| Danger | Extremely grave statement |
+| Repentance | Obligation to repent |
+| Apology | Must seek forgiveness from the person |
+
+> 💡 **Rule:** Saying "kafir" without right is forbidden and the statement may return against the one who says it.
+
+</details>
+
+---
+
+## 💭 Reflection
+
+> *"Takfir without right is among the greatest injustices. Whoever falls into it exposes himself to that accusation returning to him."*
+
+— Teaching of the scholars
+
+---
+
 ## ❓ Frequently Asked Questions
 
 ### Q1: Is ignorance excused in matters of Tawhid?

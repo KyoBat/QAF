@@ -183,6 +183,131 @@ Remember: The Prophet ﷺ had the best character with everyone, yet he never com
 
 ---
 
+## 🎯 Contemporary Cases
+
+### 🎄 Case 1: Participating in Christmas with non-Muslim in-laws
+
+> **Situation:** Fatima is married to a convert. His Christian mother invites them for Christmas. The husband wants to go to maintain family ties.
+
+**❓ Can they participate in Christmas celebration?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Participating in religious rituals | Prohibited |
+| Simple family meal after | Differing opinions, caution is preferred |
+| Alternative | Visit them another day, offer a gift |
+
+> 💡 **Rule:** Maintain family ties without participating in religious rituals. Kindness to non-combatants is permitted, but without approving their rites.
+
+</details>
+
+---
+
+### 🏢 Case 2: Working in a company producing haram products
+
+> **Situation:** Yusuf received a well-paying offer at a company producing alcohol. He would be an accountant, not touching alcohol directly.
+
+**❓ Can he accept this job?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Helping in sin (i'ânah 'ala al-ithm) | Prohibited by Quran |
+| Accounting in this case | Participates in company operation |
+| Even without touching haram | Salary comes from haram |
+
+> 💡 **Rule:** The Prophet ﷺ cursed ten categories related to alcohol, including those who help produce it. Seek halal work.
+
+</details>
+
+---
+
+### 🤝 Case 3: Close atheist friend who respects Islam
+
+> **Situation:** Karim has a childhood friend, Marc, who's atheist but very respectful of Islam. He doesn't drink in front of him and asks sincere questions.
+
+**❓ Can he maintain this friendship?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Heart's friendship (mawâlah) | Discouraged |
+| Cordial relations (mudârah) | Permitted |
+| Da'wah opportunity | Recommended |
+
+> 💡 **Rule:** Distinguish heart's alliance (mawâlah - prohibited) from kind interaction to call to Islam. The Prophet ﷺ was kind to non-Muslims without taking them as intimate allies.
+
+</details>
+
+---
+
+### 🗳️ Case 4: Voting for a non-Muslim candidate
+
+> **Situation:** In local elections, the only honest and just candidate is non-Muslim. The other "Muslim" candidate is corrupt.
+
+**❓ Can one vote for the non-Muslim?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Lesser evil principle | Applied by contemporary scholars |
+| Defending Muslim interests | Permitted |
+| Not a heart's alliance | It's a pragmatic choice |
+
+> 💡 **Rule:** Voting is not religious alliance but an interest-based choice. Choosing the less harmful for the community is permitted according to many scholars.
+
+</details>
+
+---
+
+### 💑 Case 5: Marrying a practicing Christian
+
+> **Situation:** Ahmed wants to marry Marie, a practicing Christian. She refuses to convert but accepts raising children as Muslims.
+
+**❓ Is this marriage advisable?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Basic permissibility | Permitted to marry a chaste kitabiyyah |
+| Conditions | Must be truly Christian (not atheist) and chaste |
+| Recommendation | Discouraged if risk to children's faith |
+
+> 💡 **Rule:** Marriage to People of the Book is permitted but discouraged by many contemporary scholars given educational and identity challenges.
+
+</details>
+
+---
+
+## 💭 Reflection
+
+> *"Alliance and disavowal are the complement of Tawhid. Loving for Allah and hating for Allah is the strongest bond of faith."*
+
+— Teaching of the scholars
+
+---
+
 ## ❓ Frequently Asked Questions
 
 ### Q1: Is it permissible to congratulate disbelievers on their holidays?

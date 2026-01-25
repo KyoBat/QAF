@@ -109,6 +109,135 @@ const content = `
 
 ---
 
+## 🎯 Cas Contemporains
+
+### 🌐 Cas 1: Insultes sur les Réseaux Sociaux
+
+> **Situation:** Ahmed, 19 ans, dans un moment de colère sur un réseau social, a écrit des insultes contre Allah après avoir lu un commentaire provocateur. Il s'est rendu compte de son erreur immédiatement.
+
+**❓ Est-il sorti de l'Islam par ce post ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| **L'acte lui-même** | Insulter Allah est un annulateur majeur |
+| **La colère extrême** | Peut être un empêchement si perte de contrôle total |
+| **Le regret immédiat** | Signe que le cœur rejette l'acte |
+| **La solution** | Repentir sincère, Shahada, et effacer le post |
+
+> 💡 **Règle:** La colère extrême qui fait perdre la raison est un empêchement au Takfir, mais le repentir et le renouvellement de foi restent obligatoires.
+
+</details>
+
+---
+
+### 🕌 Cas 2: Moquerie des Pratiquants
+
+> **Situation:** Lors d'une réunion familiale, Karim s'est moqué de son cousin qui prie en disant : "Tu perds ton temps avec ces rituels dépassés."
+
+**❓ La moquerie de la prière est-elle un annulateur ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| **Cible de la moquerie** | La Salat elle-même (pilier de l'Islam) |
+| **Différence clé** | Se moquer de la religion ≠ se moquer de la personne |
+| **Verset** | ﴿ قُلْ أَبِاللَّهِ وَآيَاتِهِ وَرَسُولِهِ كُنتُمْ تَسْتَهْزِئُونَ ﴾ |
+
+> 💡 **Règle:** Se moquer de la religion, de ses rites ou de ses symboles est un annulateur de l'Islam. Se moquer d'une personne pour autre chose (son apparence, etc.) est interdit mais pas un annulateur.
+
+</details>
+
+---
+
+### ⚖️ Cas 3: Préférer les Lois Civiles
+
+> **Situation:** Salim, avocat, déclare en public : "Les lois occidentales sont plus justes que la Charia car elles protègent mieux les droits des femmes."
+
+**❓ Cette déclaration est-elle un annulateur ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| **Le contenu** | Préférer une législation à celle d'Allah |
+| **L'intention** | Croit-il vraiment que la loi humaine est supérieure ? |
+| **Contexte** | Ignorance vs conviction claire |
+| **Solution** | Clarification et enseignement avant jugement |
+
+> 💡 **Règle:** Croire sincèrement qu'une législation humaine est meilleure que celle d'Allah est un annulateur. Mais il faut vérifier s'il s'agit d'ignorance, de mauvaise formulation, ou de conviction réelle.
+
+</details>
+
+---
+
+### 📿 Cas 4: Port d'Amulettes "pour la Baraka"
+
+> **Situation:** Fatima porte un pendentif avec des versets coraniques "pour se protéger du mauvais œil", croyant que l'objet lui-même a un pouvoir protecteur.
+
+**❓ Est-ce du shirk annulateur de l'Islam ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| **Croyance en l'objet** | Croit-elle que l'objet protège indépendamment d'Allah ? |
+| **Différence** | Cause légitime vs cause inventée |
+| **Cas de Fatima** | Probablement shirk mineur (ignorance) |
+| **Si croyance en pouvoir propre** | Pourrait devenir shirk majeur |
+
+> 💡 **Règle:** Le port d'amulettes est au minimum interdit. Si la personne croit que l'objet protège par lui-même (sans Allah), c'est du shirk majeur. Si elle croit que c'est une cause bénie, c'est du shirk mineur.
+
+</details>
+
+---
+
+### 🎭 Cas 5: Jouer un Rôle Blasphématoire
+
+> **Situation:** Omar, acteur musulman, accepte un rôle dans un film où son personnage prononce des paroles de mécréance et se prosterne devant une idole.
+
+**❓ Est-il mécréant pour avoir joué ce rôle ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| **L'acte physique** | Prononciation de kufr, prosternation à autre qu'Allah |
+| **L'intention** | Jouer un personnage fictif |
+| **Avis savants** | Acte interdit même si "fiction" |
+| **Jugement sur la personne** | Nécessite étude des conditions |
+
+> 💡 **Règle:** Les paroles et actes de mécréance sont interdits même en jouant un rôle. Cependant, le jugement de mécréance sur l'acteur nécessite la vérification des conditions du Takfir. L'acte reste haram dans tous les cas.
+
+</details>
+
+---
+
+## 💭 Réflexion
+
+> *« La langue de l'homme peut le sauver ou le perdre. Combien de paroles prononcées sans réflexion ont fait sortir leur auteur de l'Islam ! »*
+
+— Enseignement des savants
+
+---
+
 ## ❓ Questions Fréquentes
 
 ### Q1 : Celui qui commet un acte de mécréance devient-il automatiquement mécréant ?

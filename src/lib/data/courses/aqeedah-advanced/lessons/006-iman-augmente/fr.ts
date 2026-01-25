@@ -117,6 +117,131 @@ const content = `
 
 ---
 
+## 🎯 Cas Contemporains
+
+### 📉 Cas 1: Sentiment de perte de foi après un péché majeur
+
+> **Situation:** Après avoir commis la fornication, Yusuf se sent "loin d'Allah" et pense avoir perdu sa foi complètement.
+
+**❓ A-t-il perdu sa foi ? Comment se relever ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| Les grands péchés | Diminuent la foi sans l'annuler |
+| Chez Ahl as-Sunnah | Le pécheur reste croyant avec une foi déficiente |
+| Ce qu'il doit faire | Se repentir sincèrement, ne pas désespérer |
+
+> 💡 **Règle:** Le péché diminue la foi mais ne l'annule pas (contrairement aux Khawârij). La porte du repentir est ouverte. « Dis : Ô Mes serviteurs qui avez commis des excès à votre détriment, ne désespérez pas de la miséricorde d'Allah ».
+
+</details>
+
+---
+
+### 🌅 Cas 2: Boost spirituel après Ramadan qui s'estompe
+
+> **Situation:** Pendant Ramadan, Amina priait la nuit et lisait le Coran. Deux mois après, elle a tout abandonné et se sent coupable.
+
+**❓ Pourquoi cette baisse et comment la gérer ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| La nature de la foi | Elle augmente et diminue |
+| La fatrah (relâchement) | Phénomène normal mentionné dans les hadiths |
+| La solution | Actes réguliers même petits |
+
+> 💡 **Règle:** « L'œuvre la plus aimée d'Allah est la plus régulière, même si elle est peu » (Bukhari). Viser la constance plutôt que l'intensité passagère.
+
+</details>
+
+---
+
+### 🤯 Cas 3: Doutes sur l'Islam après lecture philosophique
+
+> **Situation:** Karim, après avoir lu des philosophes athées, a des doutes sur l'existence de Dieu et se sent confus.
+
+**❓ Ces doutes signifient-ils la perte de la foi ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| Les pensées involontaires | Ne sont pas de la mécréance |
+| Ce que le Prophète ﷺ a dit | « C'est la foi pure » (détester ces pensées) |
+| Ce qui est dangereux | S'y complaire et les suivre |
+
+> 💡 **Règle:** Les Compagnons eurent des doutes (waswas) et le Prophète ﷺ leur dit de dire « J'ai cru en Allah » et de s'en détourner. Le doute combattu est signe de foi.
+
+</details>
+
+---
+
+### 😢 Cas 4: Dépression et sentiment d'éloignement d'Allah
+
+> **Situation:** Sara souffre de dépression clinique. Elle n'arrive plus à prier avec concentration et se sent « coupée d'Allah ».
+
+**❓ La maladie mentale affecte-t-elle la foi ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| La dépression | Maladie, pas un péché |
+| Difficulté dans l'adoration | Excusée selon la capacité |
+| Le sentiment d'éloignement | Peut être symptomâtique, pas réel |
+
+> 💡 **Règle:** « Allah n'impose à aucune âme une charge supérieure à sa capacité ». Chercher un traitement est recommandé. La foi reste tant que la personne n'apostasie pas volontairement.
+
+</details>
+
+---
+
+### 🔄 Cas 5: Cycle spirituel - hauts et bas de la foi
+
+> **Situation:** Omar remarque qu'il a des périodes de grande ferveur puis des périodes de relâchement, en cycle répétitif.
+
+**❓ Ce cycle est-il normal ? Comment le gérer ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| Les cœurs | Fluctuent par nature |
+| Ce qu'a dit le Prophète ﷺ | « Pour chaque chose il y a une ardeur, et pour chaque ardeur un relâchement » |
+| La clé | Que le relâchement ne sorte pas du permis |
+
+> 💡 **Règle:** Le cycle est normal. L'important est de maintenir les obligations pendant les périodes basses et de profiter des hauts pour les surrogéatoires.
+
+</details>
+
+---
+
+## 💭 Réflexion
+
+> *« La foi est comme une plante : elle a besoin d'eau régulière (les actes) et de lumière (le savoir). Négligée, elle flétrit. Entretenue, elle s'épanouit. »*
+
+— Enseignement des savants
+
+---
+
 ## ❓ Questions Fréquentes
 
 ### Q1 : Peut-on dire "Je suis croyant in shâ' Allâh" ?

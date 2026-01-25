@@ -197,6 +197,136 @@ Remember: The safest path is following the Prophet ﷺ and his Companions. They 
 
 ---
 
+## 🎯 Contemporary Cases
+
+### 🎂 Case 1: Celebrating Mawlid with Songs and Meals
+
+> **Situation:** A family organizes an annual celebration for the Prophet's ﷺ birthday with nasheed, meals, and reminders.
+
+**❓ Is this celebration a blameworthy innovation?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Prophet's practice | Not practiced by him ﷺ |
+| Companions' practice | Not reported from them |
+| First three centuries | Not known |
+| Intention | Good, but insufficient |
+
+> 💡 **Rule:** Good intention doesn't make legitimate what has no basis in the Sunnah. Love of the Prophet ﷺ is shown by following his Sunnah.
+
+</details>
+
+---
+
+### 📿 Case 2: Collective Dhikr with Inauthentic Formulas
+
+> **Situation:** After prayer, the imam leads a collective dhikr aloud with formulas not reported in the Sunnah.
+
+**❓ Is this collective dhikr an innovation?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Form of dhikr | Collective and synchronized - not reported |
+| Formulas used | Inauthentic |
+| Regularity | Established as habit |
+| Alternative | Authentic adhkar individually |
+
+> 💡 **Rule:** Dhikr should follow what is reported from the Prophet ﷺ in both form and content.
+
+</details>
+
+---
+
+### 🕌 Case 3: Mosque with Modern Decoration (Neons, etc.)
+
+> **Situation:** A new mosque is built with colored neons, light decorations, and a very modern design.
+
+**❓ Are these decorations innovations?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Nature of the thing | Worldly matter, not act of worship |
+| Intention | Aesthetic, not devotional |
+| Harm | Possible distraction during prayer |
+| Waste | To be evaluated by context |
+
+> 💡 **Rule:** The innovations of concern are those in religion, not in material means, unless they cause harm.
+
+</details>
+
+---
+
+### 📱 Case 4: Islamic Reminder App with Alerts
+
+> **Situation:** A Muslim uses an app that sends dhikr reminders, verses, and hadiths throughout the day.
+
+**❓ Is using these digital reminders an innovation?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Nature | Means, not end in itself |
+| Content | If authentic, no problem |
+| Purpose | Help practice the Sunnah |
+| Innovation | No, it's a modern tool |
+
+> 💡 **Rule:** Modern means to accomplish legitimate acts are not innovations as long as the content remains compliant.
+
+</details>
+
+---
+
+### 🎓 Case 5: Mixed Religious Classes in Universities
+
+> **Situation:** A university offers Islamic sciences courses in mixed classes (men and women together).
+
+**❓ Is mixed religious teaching an innovation?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Teaching itself | Legitimate and recommended |
+| Mixing | Question of means, not innovation |
+| Preservation | Conditions of modesty to respect |
+| Alternatives | To be preferred if possible |
+
+> 💡 **Rule:** The question of mixing relates to fiqh of means, not religious innovation.
+
+</details>
+
+---
+
+## 💭 Reflection
+
+> *"The best guidance is that of Muhammad ﷺ. Every innovation is misguidance, and every misguidance is in the Fire."*
+
+— Teaching of the scholars
+
+---
+
 ## ❓ Frequently Asked Questions
 
 ### Q1: What's the difference between innovation and good Sunnah?

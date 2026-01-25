@@ -79,6 +79,131 @@ const content = `
 
 ---
 
+## 🎯 Contemporary Cases
+
+### 🌙 Case 1: Asking a deceased saint for healing
+
+> **Situation:** Fatima suffers from a chronic illness. Her grandmother advises her to visit a saint's shrine and ask him for healing.
+
+**❓ Is asking the dead for healing shirk?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Type of invocation | Invocation of worship (du'â' 'ibâdah) |
+| Capability of the dead | The dead cannot hear nor respond |
+| Ruling | Major shirk (akbar) |
+
+> 💡 **Rule:** Invoking a dead person for what only Allah can grant is major shirk, even if done out of ignorance.
+
+</details>
+
+---
+
+### ⭐ Case 2: Consulting the horoscope daily
+
+> **Situation:** Ahmed reads his horoscope every morning to "know how his day will go." He says it's "just for fun."
+
+**❓ Is reading the horoscope shirk?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Claim | Knowledge of the unseen (ghayb) |
+| If one believes it | Major shirk (attributing ghayb knowledge to other than Allah) |
+| If one reads without believing | Grave sin, prayer not accepted for 40 days |
+
+> 💡 **Rule:** Knowledge of the unseen belongs exclusively to Allah. Believing in or consulting those who claim to know it is forbidden.
+
+</details>
+
+---
+
+### 🔮 Case 3: Wearing a blue eye against the evil eye
+
+> **Situation:** Karima wears a "blue eye" (nazar) pendant that her mother gave her for protection against the evil eye.
+
+**❓ Is wearing a protective amulet shirk?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| If one believes it protects by itself | Major shirk |
+| If one believes it's a means | Minor shirk (asghar) |
+| What is permissible | Ruqyah with Quran and prophetic supplications |
+
+> 💡 **Rule:** "Whoever wears an amulet has committed shirk" (Ahmad). Protection comes from Allah alone.
+
+</details>
+
+---
+
+### 🤲 Case 4: Swearing by other than Allah
+
+> **Situation:** Youssef often says "I swear on my mother's life" or "On my children's lives" to convince others.
+
+**❓ Is swearing by other than Allah shirk?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Type of shirk | Minor shirk (asghar) in speech |
+| Hadith | "Whoever swears by other than Allah has disbelieved or committed shirk" (Tirmidhi) |
+| Exception | If one believes the sworn-by is equal to Allah → major shirk |
+
+> 💡 **Rule:** One should only swear by Allah or His Names and Attributes. Swearing by other is minor shirk that can lead to major.
+
+</details>
+
+---
+
+### 💫 Case 5: Believing the doctor heals
+
+> **Situation:** After a successful surgery, Omar says "The doctor healed me" without mentioning Allah.
+
+**❓ Is attributing healing to the doctor shirk?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| If one believes the doctor heals independently | Shirk in Lordship (Rubûbiyyah) |
+| If it's an expression of gratitude | Minor shirk (attributing blessing to the cause) |
+| Correct expression | "Allah healed me through the doctor" |
+
+> 💡 **Rule:** Ibrahim عليه السلام said: "And when I am ill, it is He who heals me" (Ash-Shu'arâ': 80). The doctor is merely a means.
+
+</details>
+
+---
+
+## 💭 Reflection
+
+> *"Shirk is the greatest injustice, for it places the creation at the level of the Creator in what belongs exclusively to Him."*
+
+— Teaching of the scholars
+
+---
+
 ## ❓ Frequently Asked Questions
 
 ### Q1: Can a Muslim fall into major shirk?

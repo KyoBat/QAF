@@ -215,7 +215,135 @@ Why do some people turn to the dead and saints instead of calling upon Allah dir
 ﴿ وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌ أُجِيبُ دَعْوَةَ الدَّاعِ إِذَا دَعَانِ ﴾
 
 ---
+## 🎯 Contemporary Cases
 
+### 🤲 Case 1: Asking the Prophet ﷺ Directly at His Grave
+
+> **Situation:** A pilgrim in Medina stands before the Prophet's ﷺ grave and directly asks him to solve his problems.
+
+**❓ Is this direct request permissible?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Nature of request | Asking the Prophet ﷺ, not Allah |
+| Category | Du'a is worship |
+| Principle | Worship is only for Allah |
+| Danger | Associating other than Allah in supplication |
+
+> 💡 **Rule:** Asking the Prophet ﷺ directly after his death is forbidden. Du'a is worship exclusive to Allah.
+
+</details>
+
+---
+
+### 🕌 Case 2: Invoking "By the Rank of the Saint" Buried Near the Mosque
+
+> **Situation:** A worshipper makes du'a saying: "O Allah, by the rank of saint so-and-so whose tomb is here, answer my request."
+
+**❓ Is this type of tawassul legitimate?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Foundation | Not reported from the Companions |
+| Nature | Tawassul through jâh (status) |
+| Scholars' view | Majority consider it an innovation |
+| Alternative | Tawassul through Allah's Names and good deeds |
+
+> 💡 **Rule:** Tawassul through a person's status has no legitimate basis. We invoke Allah by His Names and Attributes.
+
+</details>
+
+---
+
+### 📖 Case 3: Making Tawassul Through One's Own Good Deeds
+
+> **Situation:** A Muslim makes du'a saying: "O Allah, by my fasting this month and my charity, answer my request."
+
+**❓ Is this tawassul through one's good deeds permissible?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Precedent | Hadith of the three men in the cave |
+| Category | Legitimate tawassul |
+| Principle | Drawing near to Allah through good actions |
+| Condition | Sincerity in the mentioned action |
+
+> 💡 **Rule:** Tawassul through one's own sincere good deeds is permissible and proven by the Sunnah.
+
+</details>
+
+---
+
+### 👤 Case 4: Asking an Imam to Make Du'a for Oneself
+
+> **Situation:** A worshipper asks the mosque's imam to make du'a for him as he's going through a trial.
+
+**❓ Is it permissible to ask a living person to make du'a for us?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Precedent | Companions asked the Prophet ﷺ |
+| After him | They asked Al-'Âbbâs |
+| Nature | Request for intercession by a living person |
+| Category | Legitimate tawassul |
+
+> 💡 **Rule:** Asking a living person to make du'a for us is permissible, different from asking the dead.
+
+</details>
+
+---
+
+### 💔 Case 5: Invoking a Deceased Parent for Help
+
+> **Situation:** A person in difficulty says: "O my father, help me!" thinking of their deceased father.
+
+**❓ Is this invocation permissible?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Nature | Requesting help from the dead |
+| Dead's ability | The dead cannot do anything |
+| Category | Form of shirk in supplication |
+| Alternative | Invoke Allah and make du'a for the parent |
+
+> 💡 **Rule:** Asking the dead for help is forbidden. We invoke Allah alone and make du'a for the deceased, not to the deceased.
+
+</details>
+
+---
+
+## 💭 Reflection
+
+> *"And when My servants ask you about Me, I am near. I respond to the call of the caller when he calls upon Me."*
+
+— Quran [2:186]
+
+---
 ## ❓ Frequently Asked Questions
 
 ### Q1: What's the ruling on Tawassul through the Prophet's ﷺ status?

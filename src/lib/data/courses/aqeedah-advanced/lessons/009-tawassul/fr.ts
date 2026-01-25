@@ -111,7 +111,135 @@ const content = `
 | Si c'était par la personne, ils auraient fait Tawassul par le Prophète ﷺ | Ils se sont tournés vers Al-'Abbâs car il est vivant et peut invoquer |
 
 ---
+## 🎯 Cas Contemporains
 
+### 🤲 Cas 1: Demander au Prophète ﷺ directement à sa tombe
+
+> **Situation:** Un pèlerin à Médine se tient devant la tombe du Prophète ﷺ et lui demande directement de résoudre ses problèmes.
+
+**❓ Cette demande directe est-elle permise?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| Nature de la demande | Demander au Prophète ﷺ, non à Allah |
+| Catégorie | Du'a est une adoration |
+| Principe | L'adoration n'est qu'à Allah |
+| Danger | Associer autre qu'Allah dans l'invocation |
+
+> 💡 **Règle:** Demander directement au Prophète ﷺ après sa mort est interdit. Le du'a est une adoration exclusive à Allah.
+
+</details>
+
+---
+
+### 🕌 Cas 2: Invoquer "par le rang du saint" enterré près de la mosquée
+
+> **Situation:** Un fidèle fait du'a en disant: "Allâhumma, par le rang du saint untel dont la tombe est ici, exauce ma demande."
+
+**❓ Ce type de tawassul est-il légitime?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| Fondement | Non rapporté des Compagnons |
+| Nature | Tawassul par le jâh (rang) |
+| Avis des savants | La majorité le considère comme une innovation |
+| Alternative | Tawassul par les Noms d'Allah et les bonnes œuvres |
+
+> 💡 **Règle:** Le tawassul par le rang d'une personne n'a pas de fondement légitime. On invoque Allah par Ses Noms et Attributs.
+
+</details>
+
+---
+
+### 📖 Cas 3: Faire tawassul par ses propres bonnes œuvres
+
+> **Situation:** Un musulman fait du'a en disant: "Allâhumma, par mon jeûne de ce mois et ma charité, exauce ma demande."
+
+**❓ Ce tawassul par ses bonnes œuvres est-il permis?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| Précédent | Hadith des trois hommes dans la grotte |
+| Catégorie | Tawassul légitime |
+| Principe | S'approcher d'Allah par les bonnes actions |
+| Condition | Sincérité dans l'action mentionnée |
+
+> 💡 **Règle:** Le tawassul par ses propres bonnes œuvres sincères est permis et prouvé par la Sunnah.
+
+</details>
+
+---
+
+### 👤 Cas 4: Demander à un imam de faire dua pour soi
+
+> **Situation:** Un fidèle demande à l'imam de la mosquée de faire du'a pour lui car il traverse une épreuve.
+
+**❓ Est-il permis de demander à un vivant de faire du'a pour nous?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| Précédent | Les Compagnons demandaient au Prophète ﷺ |
+| Après lui | Ils demandaient à Al-'Âbbâs |
+| Nature | Demande d'intercession par un vivant |
+| Catégorie | Tawassul légitime |
+
+> 💡 **Règle:** Demander à un vivant de faire du'a pour nous est permis, c'est différent de demander au mort.
+
+</details>
+
+---
+
+### 💔 Cas 5: Invoquer un parent décédé pour obtenir son aide
+
+> **Situation:** Une personne en difficulté dit: "Ô mon père, aide-moi!" en pensant à son père décédé.
+
+**❓ Cette invocation est-elle permise?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| Nature | Demande d'aide au mort |
+| Capacité du mort | Le mort ne peut rien faire |
+| Catégorie | Forme de shirk dans l'invocation |
+| Alternative | Invoquer Allah et faire du'a pour le parent |
+
+> 💡 **Règle:** Demander l'aide au mort est interdit. On invoque Allah seul et on fait du'a pour le défunt, pas au défunt.
+
+</details>
+
+---
+
+## 💭 Réflexion
+
+> *« Et quand Mes serviteurs t'interrogent sur Moi, Je suis proche. Je réponds à l'appel de celui qui invoque quand il M'invoque. »*
+
+— Coran [2:186]
+
+---
 ## ❓ Questions Fréquentes
 
 ### Q1 : Quel est le jugement du Tawassul par le rang du Prophète ﷺ ?

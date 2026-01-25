@@ -109,6 +109,135 @@ const content = `
 
 ---
 
+## 🎯 Contemporary Cases
+
+### 🌐 Case 1: Insults on Social Media
+
+> **Situation:** Ahmed, 19, in a moment of anger on social media, wrote insults against Allah after reading a provocative comment. He immediately realized his mistake.
+
+**❓ Has he left Islam because of this post?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| **The act itself** | Insulting Allah is a major nullifier |
+| **Extreme anger** | Can be an impediment if total loss of control |
+| **Immediate regret** | Sign that the heart rejects the act |
+| **Solution** | Sincere repentance, Shahada, and delete the post |
+
+> 💡 **Rule:** Extreme anger that causes loss of reason is an impediment to Takfir, but repentance and renewal of faith remain obligatory.
+
+</details>
+
+---
+
+### 🕌 Case 2: Mocking the Worshippers
+
+> **Situation:** At a family gathering, Karim mocked his praying cousin saying: "You're wasting your time with these outdated rituals."
+
+**❓ Is mocking the prayer a nullifier?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| **Target of mockery** | The Salat itself (pillar of Islam) |
+| **Key difference** | Mocking religion ≠ mocking the person |
+| **Verse** | ﴿ قُلْ أَبِاللَّهِ وَآيَاتِهِ وَرَسُولِهِ كُنتُمْ تَسْتَهْزِئُونَ ﴾ |
+
+> 💡 **Rule:** Mocking religion, its rites or its symbols is a nullifier of Islam. Mocking a person for something else (their appearance, etc.) is forbidden but not a nullifier.
+
+</details>
+
+---
+
+### ⚖️ Case 3: Preferring Civil Laws
+
+> **Situation:** Salim, a lawyer, publicly declares: "Western laws are more just than Sharia because they better protect women's rights."
+
+**❓ Is this declaration a nullifier?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| **Content** | Preferring human legislation over Allah's |
+| **Intention** | Does he truly believe human law is superior? |
+| **Context** | Ignorance vs clear conviction |
+| **Solution** | Clarification and teaching before judgment |
+
+> 💡 **Rule:** Sincerely believing that human legislation is better than Allah's is a nullifier. But we must verify if it's ignorance, poor wording, or genuine conviction.
+
+</details>
+
+---
+
+### 📿 Case 4: Wearing Amulets "for Baraka"
+
+> **Situation:** Fatima wears a pendant with Quranic verses "to protect from the evil eye," believing that the object itself has protective power.
+
+**❓ Is this shirk that nullifies Islam?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| **Belief in the object** | Does she believe it protects independently of Allah? |
+| **Difference** | Legitimate cause vs invented cause |
+| **Fatima's case** | Probably minor shirk (ignorance) |
+| **If believing in inherent power** | Could become major shirk |
+
+> 💡 **Rule:** Wearing amulets is at minimum forbidden. If the person believes the object protects by itself (without Allah), it's major shirk. If they believe it's a blessed cause, it's minor shirk.
+
+</details>
+
+---
+
+### 🎭 Case 5: Playing a Blasphemous Role
+
+> **Situation:** Omar, a Muslim actor, accepts a role in a film where his character pronounces words of disbelief and prostrates to an idol.
+
+**❓ Is he a disbeliever for playing this role?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| **Physical act** | Pronouncing kufr, prostrating to other than Allah |
+| **Intention** | Playing a fictional character |
+| **Scholars' view** | Act is forbidden even if "fiction" |
+| **Judgment on person** | Requires study of Takfir conditions |
+
+> 💡 **Rule:** Words and acts of disbelief are forbidden even when playing a role. However, judging the actor as a disbeliever requires verifying the conditions of Takfir. The act remains haram in all cases.
+
+</details>
+
+---
+
+## 💭 Reflection
+
+> *"A person's tongue can save them or destroy them. How many words spoken without thought have taken their speaker out of Islam!"*
+
+— Teaching of the scholars
+
+---
+
 ## ❓ Frequently Asked Questions
 
 ### Q1: Does committing an act of disbelief automatically make someone a disbeliever?

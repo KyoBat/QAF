@@ -110,6 +110,136 @@ const content = `
 
 ---
 
+## 🎯 Cas Contemporains
+
+### 🎂 Cas 1: Célébrer le Mawlid avec chants et repas
+
+> **Situation:** Une famille organise chaque année une fête pour l'anniversaire du Prophète ﷺ avec nasheed, repas et rappels.
+
+**❓ Cette célébration est-elle une innovation blâmable?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| Pratique du Prophète | Non pratiquée par lui ﷺ |
+| Pratique des Compagnons | Non rapportée d'eux |
+| Trois premiers siècles | Non connue |
+| Intention | Bonne, mais insuffisante |
+
+> 💡 **Règle:** La bonne intention ne rend pas légitime ce qui n'a pas de fondement dans la Sunnah. L'amour du Prophète ﷺ se manifeste par le suivi de sa Sunnah.
+
+</details>
+
+---
+
+### 📿 Cas 2: Dhikr collectif avec formules non-authentiques
+
+> **Situation:** Après la prière, l'imam dirige un dhikr collectif à haute voix avec des formules non rapportées dans la Sunnah.
+
+**❓ Ce dhikr collectif est-il une innovation?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| Forme du dhikr | Collective et synchronisée - non rapportée |
+| Formules utilisées | Non authentiques |
+| Régularité | Établie comme habitude |
+| Alternative | Adhkar authentiques en individuel |
+
+> 💡 **Règle:** Le dhikr doit suivre ce qui est rapporté du Prophète ﷺ dans la forme et le contenu.
+
+</details>
+
+---
+
+### 🕌 Cas 3: Mosquée avec décoration moderne (néons, etc.)
+
+> **Situation:** Une nouvelle mosquée est construite avec des néons colors, des décorations lumineuses et un design très moderne.
+
+**❓ Ces décorations sont-elles des innovations?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| Nature de la chose | Affaire mondaine, non acte d'adoration |
+| Intention | Esthétique, non rapprochement |
+| Préjudice | Possible distraction pendant la prière |
+| Gaspillage | À évaluer selon le contexte |
+
+> 💡 **Règle:** Les innovations concernées sont celles dans la religion, non dans les moyens matériels, sauf s'ils causent un préjudice.
+
+</details>
+
+---
+
+### 📱 Cas 4: Application de rappels islamiques avec alertes
+
+> **Situation:** Un musulman utilise une application qui lui envoie des rappels de dhikr, des versets et des hadiths tout au long de la journée.
+
+**❓ Utiliser ces rappels numériques est-il une innovation?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| Nature | Moyen, non fin en soi |
+| Contenu | S'il est authentique, pas de problème |
+| Finalité | Aider à pratiquer la Sunnah |
+| Innovation | Non, c'est un outil moderne |
+
+> 💡 **Règle:** Les moyens modernes pour accomplir des actes légitimes ne sont pas des innovations tant que le contenu reste conforme.
+
+</details>
+
+---
+
+### 🎓 Cas 5: Cours de religion mixtes dans les universités
+
+> **Situation:** Une université propose des cours de sciences islamiques dans des classes mixtes (hommes et femmes ensemble).
+
+**❓ L'enseignement religieux mixte est-il une innovation?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| Enseignement en soi | Légitime et recommandé |
+| Mixité | Question de moyen, pas d'innovation |
+| Préservation | Conditions de décence à respecter |
+| Alternatives | À privilégier si possibles |
+
+> 💡 **Règle:** La question de la mixité relève du fiqh des moyens, non de l'innovation religieuse.
+
+</details>
+
+---
+
+## 💭 Réflexion
+
+> *« La meilleure voie est celle de Muhammad ﷺ. Toute innovation est égarement, et tout égarement est au Feu. »*
+
+— Enseignement des savants
+
+---
+
 ## ❓ Questions Fréquentes
 
 ### Q1 : Quelle différence entre innovation et bonne Sunnah ?

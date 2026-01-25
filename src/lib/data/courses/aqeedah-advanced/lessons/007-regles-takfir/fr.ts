@@ -116,6 +116,136 @@ const content = `
 
 ---
 
+## 🎯 Cas Contemporains
+
+### 🐦 Cas 1: Prononcer le Takfir sur Twitter contre un savant
+
+> **Situation:** Un internaute publie un tweet déclarant un savant célèbre mécréant à cause d'une fatwa controversée.
+
+**❓ Ce takfir public est-il valide?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| Qualification | L'internaute n'est pas un savant qualifié |
+| Établissement de la preuve | Aucune preuve établie au savant |
+| Conditions vérifiées | Non examinées |
+| Empêchements considérés | Non considérés |
+
+> 💡 **Règle:** Le takfir est une prérogative des savants après établissement de la preuve et vérification des conditions/empêchements.
+
+</details>
+
+---
+
+### 👤 Cas 2: Takfir d'un parent qui ne prie pas
+
+> **Situation:** Un jeune musulman découvre que son père ne prie jamais. Il le considère mécréant et rompt les liens.
+
+**❓ Peut-il déclarer son père mécréant et couper les liens?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| Divergence savante | Débat entre les savants sur l'abandon de prière |
+| Rôle du fils | N'est pas juge pour établir le takfir |
+| Bon comportement | Maintenir les liens reste obligatoire |
+| Conseil | Doit inviter avec sagesse |
+
+> 💡 **Règle:** Même en cas de péché grave du parent, le bon comportement et les liens familiaux restent obligatoires.
+
+</details>
+
+---
+
+### 📢 Cas 3: Prédicateur YouTube qui déclare des sectes mécréantes
+
+> **Situation:** Un prédicateur avec des millions d'abonnés déclare toute une secte islamique mécréante dans ses vidéos.
+
+**❓ Ce jugement global est-il conforme aux règles du takfir?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| Takfir collectif | Différent du takfir individuel |
+| Nuance nécessaire | Chaque individu doit être jugé séparément |
+| Conditions individuelles | Varient d'une personne à l'autre |
+| Responsabilité | Grande devant Allah pour accusations publiques |
+
+> 💡 **Règle:** Le takfir d'un groupe n'implique pas automatiquement le takfir de chaque membre individuellement.
+
+</details>
+
+---
+
+### 🏛️ Cas 4: Gouvernant qui applique des lois non-islamiques
+
+> **Situation:** Un gouvernant musulman applique des lois positives (civiles) différentes de la charia dans son pays.
+
+**❓ Est-il automatiquement mécréant?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| Istihlâl | Rend-il licite ce qu'Allah a interdit? |
+| Contrainte | Y a-t-il des pressions extérieures? |
+| Interprétation | Croit-il agir correctement? |
+| Établissement de preuve | A-t-on établi la preuve? |
+
+> 💡 **Règle:** Le jugement dépend de l'état du cœur (istihlâl) et des circonstances, pas seulement de l'acte apparent.
+
+</details>
+
+---
+
+### 💬 Cas 5: Dire "kafir" à quelqu'un dans la colère
+
+> **Situation:** Lors d'une dispute, un musulman dit à son frère: "Tu es un kafir!" sous l'effet de la colère.
+
+**❓ Quelles sont les conséquences de cette parole?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| Hadith | « Si quelqu'un dit à son frère: Ô mécréant, elle retourne sur l'un des deux » |
+| Danger | Parole extrêmement grave |
+| Repentir | Obligation de se repentir |
+| Excuses | Demander pardon à la personne |
+
+> 💡 **Règle:** Dire "kafir" sans droit est interdit et la parole peut retourner contre celui qui la prononce.
+
+</details>
+
+---
+
+## 💭 Réflexion
+
+> *« Le takfir sans droit est parmi les plus grandes injustices. Celui qui y tombe s'expose à ce que cette accusation lui revienne. »*
+
+— Enseignement des savants
+
+---
+
 ## ❓ Questions Fréquentes
 
 ### Q1 : Excuse-t-on l'ignorance dans les questions de Tawhid ?

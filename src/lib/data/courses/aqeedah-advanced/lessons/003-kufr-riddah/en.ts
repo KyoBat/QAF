@@ -178,6 +178,131 @@ Remember:
 4. Your duty: Advise and teach, not judge and declare takfir
 
 ---
+
+## 🎯 Contemporary Cases
+
+### 📺 Case 1: Watching shows that normalize atheism
+
+> **Situation:** Sofiane regularly watches series where atheist characters are portrayed positively and religion is mocked.
+
+**❓ Does watching this content affect faith?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Watching without approving | Sin for exposing oneself to doubts |
+| Laughing and approving mockery | Can reach disbelief |
+| Adopting these ideas | Apostasy if conviction |
+
+> 💡 **Rule:** Exposing oneself to doubts without necessity is forbidden. "Whoever hears a verse of Allah being mocked and sits with them is like them" (An-Nisâ': 140).
+
+</details>
+
+---
+
+### ❌ Case 2: Tearing the Quran in anger
+
+> **Situation:** Karim, angry at his family, tears a Quran. He immediately regrets it and cries.
+
+**❓ Has he apostatized?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| The act itself | Desecrating the Quran = disbelief |
+| Extreme anger | Potential impediment to takfeer |
+| Immediate regret | Sign it wasn't from conviction |
+
+> 💡 **Rule:** The act is disbelief, but judging the person requires establishing conditions and removing impediments. He must sincerely repent and pronounce the shahâdah.
+
+</details>
+
+---
+
+### 🏛️ Case 3: Converting to marry
+
+> **Situation:** Julie wants to marry Mohamed. She "converts" to Islam for marriage but doesn't truly believe.
+
+**❓ Is she Muslim? Is the marriage valid?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Conversion without conviction | Major hypocrisy (nifâq akbar) |
+| Apparent status | Muslim in appearance |
+| The marriage | Valid in appearance, but built on a lie |
+
+> 💡 **Rule:** Islam requires conviction of the heart. A facade conversion is hypocrisy. Mohamed must ensure sincerity before marriage.
+
+</details>
+
+---
+
+### 🎓 Case 4: Teaching evolution as absolute truth
+
+> **Situation:** Prof. Hassan, a Muslim, teaches the theory of evolution (simian origin of humans) as absolute scientific truth.
+
+**❓ Does this affect his faith?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Teaching as theory | Permitted with reservations |
+| Firmly believing it | Contradicts Quran on Adam's creation |
+| Denying Adam's special creation | Rejection of clear text = disbelief |
+
+> 💡 **Rule:** Denying that Allah created Adam directly from earth, as mentioned in the Quran, is a rejection of revealed texts.
+
+</details>
+
+---
+
+### 💔 Case 5: Apostasy to escape forced marriage
+
+> **Situation:** Aisha, forced by her family into marriage, declares leaving Islam to escape the pressure.
+
+**❓ What is her status?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Coercion | Recognized impediment ﴿ إِلاَّ مَنْ أُكْرِهَ وَقَلْبُهُ مُطْمَئِنٌّ ﴾ |
+| If she still believes | No apostasy if heart is serene |
+| If she truly no longer believes | Real apostasy |
+
+> 💡 **Rule:** Coercion excuses words of disbelief if the heart remains firm. But the real solution is seeking legal help, not renouncing faith.
+
+</details>
+
+---
+
+## 💭 Reflection
+
+> *"Apostasy is the greatest crime before Allah, for it is denying the One who created you, guided you, and bestowed blessings upon you. But the door of repentance always remains open."*
+
+— Teaching of the scholars
+
+---
 ## ❓ Frequently Asked Questions
 
 ### Q1: Does everyone who commits disbelief become a disbeliever?
