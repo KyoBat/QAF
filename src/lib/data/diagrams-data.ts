@@ -428,6 +428,259 @@ const diagramsRegistry: Record<string, DiagramData> = {
   },
 
   // ─────────────────────────────────────────────────────────
+  // FIQH MUAMALAT - MUDARABAH
+  // ─────────────────────────────────────────────────────────
+  'mudarabah-formula': {
+    type: 'flow',
+    title: {
+      ar: '💰 معادلة المضاربة',
+      fr: '💰 Formule du Moudaraba',
+      en: '💰 Mudarabah Formula'
+    },
+    layout: 'horizontal',
+    steps: [
+      { title: { ar: 'صاحب المال (رب المال)', fr: 'Propriétaire du capital', en: 'Capital Owner' }, description: { ar: 'يقدم المال والخبرة في التمويل', fr: 'Fournit le capital et l\'expertise financière', en: 'Provides capital and financial expertise' } },
+      { title: { ar: 'العامل (المضارب)', fr: 'Travailleur (Moudarib)', en: 'Worker (Mudarib)' }, description: { ar: 'يقدم العمل والجهد في التجارة', fr: 'Fournit le travail et l\'effort commercial', en: 'Provides work and trading effort' } },
+      { title: { ar: 'الربح', fr: 'Profit', en: 'Profit' }, description: { ar: 'يُقسم بينهما بنسب متفق عليها', fr: 'Partagé selon les ratios convenus', en: 'Shared according to agreed ratios' }, variant: 'success' }
+    ]
+  },
+
+  'mudarabah-pillars': {
+    type: 'tree',
+    title: {
+      ar: '🏛️ الأركان الأربعة للمضاربة',
+      fr: '🏛️ Les quatre piliers du Moudaraba',
+      en: '🏛️ The Four Pillars of Mudarabah'
+    },
+    branches: [
+      { label: { ar: 'رأس المال', fr: 'Capital', en: 'Capital' }, description: { ar: 'نقد معلوم مسلَّم', fr: 'Argent connu et remis', en: 'Known cash delivered' } },
+      { label: { ar: 'العمل', fr: 'Travail', en: 'Work' }, description: { ar: 'تجارة مباحة مستقلة', fr: 'Commerce licite indépendant', en: 'Independent lawful trade' } },
+      { label: { ar: 'الربح', fr: 'Profit', en: 'Profit' }, description: { ar: 'نسبة معلومة مشتركة', fr: 'Ratio connu partagé', en: 'Known shared ratio' } },
+      { label: { ar: 'الصيغة', fr: 'Formule', en: 'Formula' }, description: { ar: 'إيجاب وقبول', fr: 'Offre et acceptation', en: 'Offer and acceptance' } }
+    ]
+  },
+
+  'mudarabah-profit-conditions': {
+    type: 'ruling',
+    title: {
+      ar: '✅ شروط الربح',
+      fr: '✅ Conditions du profit',
+      en: '✅ Profit Conditions'
+    },
+    rulingType: 'conditions',
+    numbered: true,
+    items: [
+      {
+        text: { ar: 'أن يكون معلوماً بالنسبة', fr: 'Qu\'il soit connu en pourcentage', en: 'It must be known by percentage' },
+        subitems: [
+          { ar: 'النصف ✅  الثلث ✅  الربع ✅', fr: 'Moitié ✅  Tiers ✅  Quart ✅', en: 'Half ✅  Third ✅  Quarter ✅' },
+          { ar: 'مبلغ مقطوع ❌ (مثل: لك 10,000 ريال)', fr: 'Montant fixe ❌ (ex: 10,000 riyals pour toi)', en: 'Fixed amount ❌ (e.g.: 10,000 riyals for you)' }
+        ]
+      },
+      {
+        text: { ar: 'أن يكون مشتركاً', fr: 'Qu\'il soit partagé', en: 'It must be shared' },
+        subitems: [
+          { ar: 'لا يختص به أحدهما دون الآخر', fr: 'Aucune partie ne peut le monopoliser', en: 'Neither party can monopolize it' },
+          { ar: '"لي الربح كله" ❌', fr: '"Tout le profit pour moi" ❌', en: '"All profit for me" ❌' }
+        ]
+      },
+      {
+        text: { ar: 'أن يكون من الربح لا من رأس المال', fr: 'Qu\'il provienne du profit pas du capital', en: 'It must be from profit not capital' },
+        subitems: [
+          { ar: 'نقسم الزيادة على رأس المال', fr: 'On divise le surplus sur le capital', en: 'We divide the increase over capital' },
+          { ar: 'رأس المال يُرد أولاً', fr: 'Le capital est rendu d\'abord', en: 'Capital is returned first' }
+        ]
+      }
+    ]
+  },
+
+  'mudarabah-types': {
+    type: 'comparison',
+    title: {
+      ar: '📊 أنواع المضاربة',
+      fr: '📊 Types de Moudaraba',
+      en: '📊 Types of Mudarabah'
+    },
+    columns: [
+      {
+        title: { ar: 'المضاربة المطلقة', fr: 'Moudaraba absolu', en: 'Unrestricted Mudarabah' },
+        variant: 'positive',
+        items: [
+          { ar: 'بدون شروط', fr: 'Sans conditions', en: 'Without conditions' },
+          { ar: 'أي تجارة', fr: 'Tout commerce', en: 'Any trade' },
+          { ar: 'أي مكان', fr: 'Tout endroit', en: 'Any place' },
+          { ar: 'أي زمان', fr: 'Tout moment', en: 'Any time' }
+        ]
+      },
+      {
+        title: { ar: 'المضاربة المقيدة', fr: 'Moudaraba restreint', en: 'Restricted Mudarabah' },
+        variant: 'neutral',
+        items: [
+          { ar: 'بشروط محددة', fr: 'Avec conditions précises', en: 'With specific conditions' },
+          { ar: 'تجارة معينة', fr: 'Commerce spécifique', en: 'Specific trade' },
+          { ar: 'مكان محدد', fr: 'Endroit défini', en: 'Defined place' },
+          { ar: 'زمان محدد', fr: 'Moment défini', en: 'Defined time' }
+        ]
+      }
+    ]
+  },
+
+  'mudarabah-profit-loss': {
+    type: 'comparison',
+    title: {
+      ar: '⚖️ توزيع الربح والخسارة',
+      fr: '⚖️ Distribution des profits et pertes',
+      en: '⚖️ Profit and Loss Distribution'
+    },
+    columns: [
+      {
+        title: { ar: 'الربح', fr: 'Profit', en: 'Profit' },
+        subtitle: { ar: 'يُقسم حسب الاتفاق', fr: 'Partagé selon l\'accord', en: 'Shared per agreement' },
+        variant: 'positive',
+        items: [
+          { ar: 'مثال: 60% لرب المال', fr: 'Ex: 60% au propriétaire du capital', en: 'Ex: 60% to capital owner' },
+          { ar: '40% للعامل', fr: '40% au travailleur', en: '40% to worker' }
+        ]
+      },
+      {
+        title: { ar: 'الخسارة', fr: 'Perte', en: 'Loss' },
+        subtitle: { ar: 'على رأس المال فقط', fr: 'Sur le capital uniquement', en: 'On capital only' },
+        variant: 'negative',
+        items: [
+          { ar: 'العامل: أضاع جهده فقط', fr: 'Travailleur: perd son effort seulement', en: 'Worker: loses effort only' },
+          { ar: 'لا يضمن إلا بتعدٍّ أو تفريط', fr: 'Pas de garantie sauf transgression', en: 'No liability except for transgression' }
+        ]
+      }
+    ]
+  },
+
+  'mudarabah-termination': {
+    type: 'ruling',
+    title: {
+      ar: '⏰ أسباب انتهاء المضاربة',
+      fr: '⏰ Causes de fin du Moudaraba',
+      en: '⏰ Causes of Mudarabah Termination'
+    },
+    rulingType: 'info',
+    numbered: true,
+    items: [
+      {
+        text: { ar: 'الفسخ من أحد الطرفين', fr: 'Résiliation par une partie', en: 'Termination by one party' },
+        subitems: [
+          { ar: 'المضاربة عقد جائز يجوز فسخه', fr: 'Le Moudaraba est un contrat résiliable', en: 'Mudarabah is a terminable contract' },
+          { ar: 'يجب تصفية الشركة عند الفسخ', fr: 'La société doit être liquidée', en: 'Company must be liquidated' }
+        ]
+      },
+      { text: { ar: 'موت أحد الطرفين', fr: 'Décès d\'une partie', en: 'Death of one party' } },
+      { text: { ar: 'جنون أحد الطرفين', fr: 'Folie d\'une partie', en: 'Insanity of one party' } },
+      {
+        text: { ar: 'تلف رأس المال', fr: 'Destruction du capital', en: 'Destruction of capital' },
+        subitems: [
+          { ar: 'قبل التصرف: انتهت المضاربة', fr: 'Avant utilisation: fin du Moudaraba', en: 'Before use: Mudarabah ends' },
+          { ar: 'بعد التصرف: استمرت بما بقي', fr: 'Après utilisation: continue avec le reste', en: 'After use: continues with remainder' }
+        ]
+      }
+    ]
+  },
+
+  'mudarabah-vs-riba': {
+    type: 'comparison',
+    title: {
+      ar: '⚖️ المضاربة الشرعية VS القرض الربوي',
+      fr: '⚖️ Moudaraba licite VS Prêt usuraire',
+      en: '⚖️ Lawful Mudarabah VS Usurious Loan'
+    },
+    columns: [
+      {
+        title: { ar: 'المضاربة الشرعية', fr: 'Moudaraba licite', en: 'Lawful Mudarabah' },
+        subtitle: { ar: '✅ حلال', fr: '✅ Licite', en: '✅ Halal' },
+        variant: 'positive',
+        items: [
+          { ar: 'المال للتجارة', fr: 'Argent pour le commerce', en: 'Money for trade' },
+          { ar: 'الربح غير مضمون', fr: 'Profit non garanti', en: 'Profit not guaranteed' },
+          { ar: 'الخسارة على المال', fr: 'Perte sur le capital', en: 'Loss on capital' },
+          { ar: 'شراكة حقيقية', fr: 'Vrai partenariat', en: 'Real partnership' },
+          { ar: 'الربح بالنسبة', fr: 'Profit en pourcentage', en: 'Profit by percentage' }
+        ]
+      },
+      {
+        title: { ar: 'القرض الربوي', fr: 'Prêt usuraire', en: 'Usurious Loan' },
+        subtitle: { ar: '❌ حرام', fr: '❌ Illicite', en: '❌ Haram' },
+        variant: 'negative',
+        items: [
+          { ar: 'القرض للاستهلاك', fr: 'Prêt pour consommation', en: 'Loan for consumption' },
+          { ar: 'الفائدة مضمونة', fr: 'Intérêt garanti', en: 'Interest guaranteed' },
+          { ar: 'المقترض يضمن كل شيء', fr: 'L\'emprunteur garantit tout', en: 'Borrower guarantees all' },
+          { ar: 'علاقة دائن ومدين', fr: 'Relation créancier-débiteur', en: 'Creditor-debtor relation' },
+          { ar: 'الفائدة بمبلغ ثابت', fr: 'Intérêt fixe', en: 'Fixed interest' }
+        ]
+      }
+    ]
+  },
+
+  'mudarabah-fund-structure': {
+    type: 'flow',
+    title: {
+      ar: '🏦 هيكل الصندوق الاستثماري الإسلامي',
+      fr: '🏦 Structure du fonds d\'investissement islamique',
+      en: '🏦 Islamic Investment Fund Structure'
+    },
+    layout: 'horizontal',
+    steps: [
+      { title: { ar: 'المستثمرون', fr: 'Investisseurs', en: 'Investors' }, description: { ar: 'أرباب المال يقدمون الأموال', fr: 'Propriétaires du capital fournissent les fonds', en: 'Capital owners provide funds' } },
+      { title: { ar: 'الصندوق', fr: 'Fonds', en: 'Fund' }, description: { ar: 'المضارب يستثمر في المشاريع', fr: 'Le Moudarib investit dans les projets', en: 'Mudarib invests in projects' } },
+      { title: { ar: 'التوزيع', fr: 'Distribution', en: 'Distribution' }, description: { ar: 'أرباح أو خسائر حسب النسب المتفق عليها', fr: 'Profits ou pertes selon les ratios convenus', en: 'Profits or losses per agreed ratios' }, variant: 'success' }
+    ]
+  },
+
+  'mudarabah-deposit-difference': {
+    type: 'ruling',
+    title: {
+      ar: 'الفرق الجوهري بين الوديعة الإسلامية والربوية',
+      fr: 'Différence fondamentale entre dépôt islamique et usuraire',
+      en: 'Fundamental Difference Between Islamic and Usurious Deposit'
+    },
+    rulingType: 'info',
+    numbered: false,
+    items: [
+      {
+        text: { ar: 'البنك الإسلامي ✅', fr: 'Banque islamique ✅', en: 'Islamic bank ✅' },
+        subitems: [
+          { ar: '5% متوقعة وليست مضمونة', fr: '5% attendu et non garanti', en: '5% expected not guaranteed' },
+          { ar: 'قد تزيد أو تنقص أو تخسر', fr: 'Peut augmenter, diminuer ou perdre', en: 'May increase, decrease or lose' },
+          { ar: 'العلاقة: شراكة (مضاربة)', fr: 'Relation: partenariat (Moudaraba)', en: 'Relation: partnership (Mudarabah)' }
+        ]
+      },
+      {
+        text: { ar: 'البنك الربوي ❌', fr: 'Banque usuraire ❌', en: 'Usurious bank ❌' },
+        subitems: [
+          { ar: '5% مضمونة مهما حدث', fr: '5% garanti quoi qu\'il arrive', en: '5% guaranteed no matter what' },
+          { ar: 'لا تتغير ولا تخسر', fr: 'Ne change pas et ne perd pas', en: 'Doesn\'t change or lose' },
+          { ar: 'العلاقة: قرض بفائدة', fr: 'Relation: prêt avec intérêt', en: 'Relation: loan with interest' }
+        ]
+      }
+    ],
+    footer: { ar: '⚠️ إن كان البنك "الإسلامي" يضمن العائد = ربا مقنّع!', fr: '⚠️ Si la banque "islamique" garantit le rendement = usure déguisée!', en: '⚠️ If "Islamic" bank guarantees return = disguised usury!' }
+  },
+
+  'mudarabah-summary': {
+    type: 'summary',
+    title: {
+      ar: '🎯 ملخص: أحكام المضاربة',
+      fr: '🎯 Résumé: Règles du Moudaraba',
+      en: '🎯 Summary: Mudarabah Rules'
+    },
+    rows: [
+      { item: { ar: 'المضاربة = شراكة بين المال والعمل', fr: 'Moudaraba = partenariat capital et travail', en: 'Mudarabah = partnership of capital and work' }, ruling: 'halal' },
+      { item: { ar: 'رأس المال: نقد معلوم مسلَّم للعامل', fr: 'Capital: argent connu remis au travailleur', en: 'Capital: known cash delivered to worker' }, ruling: 'halal' },
+      { item: { ar: 'الربح: يُقسم بنسب معلومة لا بمبالغ مقطوعة', fr: 'Profit: divisé par ratios pas par montants fixes', en: 'Profit: divided by ratios not fixed amounts' }, ruling: 'halal' },
+      { item: { ar: 'الخسارة: على رأس المال والعامل يخسر جهده', fr: 'Perte: sur le capital, travailleur perd son effort', en: 'Loss: on capital, worker loses effort' }, ruling: 'halal' },
+      { item: { ar: 'الضمان: العامل أمين لا يضمن إلا بتعدٍّ', fr: 'Garantie: travailleur fiduciaire sauf transgression', en: 'Guarantee: worker trustee except for transgression' }, ruling: 'halal' },
+      { item: { ar: 'العائد الثابت المضمون', fr: 'Rendement fixe garanti', en: 'Guaranteed fixed return' }, ruling: 'haram', notes: { ar: '= ربا!', fr: '= usure!', en: '= usury!' } }
+    ]
+  },
+
+  // ─────────────────────────────────────────────────────────
   // FIQH MUAMALAT - Conditions de vente valide
   // ─────────────────────────────────────────────────────────
   'bay-conditions': {

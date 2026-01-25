@@ -203,6 +203,136 @@ Remember: Moderation isn't the middle between truth and falsehood, but the middl
 
 ---
 
+## 🎯 Contemporary Cases
+
+### ⚖️ Case 1: Between Laxity (Going to Clubs) and Extremism (General Takfir)
+
+> **Situation:** A young person hesitates between two groups of friends: one that goes to nightclubs, another that makes takfir of almost everyone.
+
+**❓ How to find the middle ground?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Laxity | Abandoning clearly established prohibitions |
+| Extremism | Exceeding limits in judgment |
+| Wasatiyyah | Follow Quran and Sunnah without excess or negligence |
+| Companions | Seek balanced companions |
+
+> 💡 **Rule:** The middle ground is practicing Islam as taught by the Prophet ﷺ, without excess or laxity.
+
+</details>
+
+---
+
+### 🧕 Case 2: Woman Criticized: Too Liberal by Some, Too Conservative by Others
+
+> **Situation:** A woman wears hijab and works. Some criticize her for working, others for her hijab.
+
+**❓ How to handle these opposing criticisms?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Reference | Quran and Sunnah, not people |
+| Hijab | Clear obligation |
+| Work | Permitted with conditions |
+| Criticisms | Don't let extremes define you |
+
+> 💡 **Rule:** The reference is revelation, not people's opinions. Follow Islam with balance.
+
+</details>
+
+---
+
+### 🌍 Case 3: Integration in the West: How Far to Adapt?
+
+> **Situation:** A Muslim in the West wonders how far they can adapt to society without compromising their religion.
+
+**❓ What are the limits of adaptation?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Constants | Never compromise the fundamentals |
+| Variables | Flexibility in permissible customs |
+| Integration | Participate in society's good |
+| Identity | Preserve faith and values |
+
+> 💡 **Rule:** Integrate in good, preserve constants. Wasatiyyah allows adaptation without compromise.
+
+</details>
+
+---
+
+### 📱 Case 4: Social Media: Between Da'wa and Polemics
+
+> **Situation:** A Muslim on social media hesitates between positive da'wa and engaging in polemics.
+
+**❓ What approach to adopt on social media?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Positive da'wa | Priority and beneficial |
+| Polemics | Often fruitless and harmful |
+| Time | Invest in what benefits |
+| Wisdom | Call with beauty |
+
+> 💡 **Rule:** Prioritize constructive da'wa. Polemics are rarely productive.
+
+</details>
+
+---
+
+### 🎓 Case 5: Mixed Studies: Refuse or Adapt?
+
+> **Situation:** A Muslim student at a mixed university wonders if they should leave or adapt.
+
+**❓ What decision to make?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Necessity | Education is important |
+| Alternatives | If possible, prefer them |
+| Conditions | Lower gaze, proper conduct |
+| Objective | Acquire useful skills |
+
+> 💡 **Rule:** If necessary and no alternative, adapting with required precautions is permissible.
+
+</details>
+
+---
+
+## 💭 Reflection
+
+> *"We have made you a middle nation, that you may be witnesses over the people."*
+
+— Quran [2:143]
+
+---
+
 ## ❓ Frequently Asked Questions
 
 ### Q1: How do we know the middle ground in an issue?

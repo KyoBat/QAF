@@ -117,6 +117,136 @@ const content = `
 
 ---
 
+## 🎯 Cas Contemporains
+
+### ⚖️ Cas 1: Entre laxisme (aller en boîte) et extrémisme (takfir général)
+
+> **Situation:** Un jeune hésite entre deux groupes d'amis: l'un qui va en boîte de nuit, l'autre qui fait le takfir de presque tout le monde.
+
+**❓ Comment trouver le juste milieu?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| Laxisme | Abandonner les interdits clairement établis |
+| Extrémisme | Dépasser les limites dans le jugement |
+| Wasatiyyah | Suivre le Coran et la Sunnah sans excès ni négligence |
+| Fréquentations | Chercher des compagnons équilibrés |
+
+> 💡 **Règle:** Le juste milieu est de pratiquer l'Islam tel qu'enseigné par le Prophète ﷺ, sans excès ni laxisme.
+
+</details>
+
+---
+
+### 🧕 Cas 2: Femme critiquée: trop libérale par certains, trop conservatrice par d'autres
+
+> **Situation:** Une femme porte le hijab et travaille. Certains la critiquent pour son travail, d'autres pour son hijab.
+
+**❓ Comment gérer ces critiques opposées?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| Référence | Le Coran et la Sunnah, non les gens |
+| Hijab | Obligation claire |
+| Travail | Permis avec conditions |
+| Critiques | Ne pas se laisser définir par les extrêmes |
+
+> 💡 **Règle:** La référence est la révélation, non les opinions des gens. Suivre l'Islam avec équilibre.
+
+</details>
+
+---
+
+### 🌍 Cas 3: Intégration en Occident: jusqu'où s'adapter?
+
+> **Situation:** Un musulman en Occident se demande jusqu'où il peut s'adapter à la société sans compromettre sa religion.
+
+**❓ Quelles sont les limites de l'adaptation?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| Constantes | Ne jamais compromettre les fondements |
+| Variables | Flexibilité dans les coutumes permises |
+| Intégration | Participer au bien de la société |
+| Identité | Préserver sa foi et ses valeurs |
+
+> 💡 **Règle:** S'intégrer dans le bien, préserver les constantes. La wasatiyyah permet l'adaptation sans compromission.
+
+</details>
+
+---
+
+### 📱 Cas 4: Réseaux sociaux: entre da'wa et polémiques
+
+> **Situation:** Un musulman sur les réseaux hésite entre faire de la da'wa positive et s'engager dans les polémiques.
+
+**❓ Quelle approche adopter sur les réseaux?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| Da'wa positive | Prioritaire et bénéfique |
+| Polémiques | Souvent stériles et nuisibles |
+| Temps | Investir dans ce qui profite |
+| Sagesse | Appeler avec beauté |
+
+> 💡 **Règle:** Privilégier la da'wa constructive. Les polémiques sont rarement productives.
+
+</details>
+
+---
+
+### 🎓 Cas 5: Études mixtes: refuser ou s'adapter?
+
+> **Situation:** Un étudiant musulman dans une université mixte se demande s'il doit quitter ou s'adapter.
+
+**❓ Quelle décision prendre?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| Nécessité | L'éducation est importante |
+| Alternatives | Si possibles, les privilégier |
+| Conditions | Baisser le regard, comportement correct |
+| Objectif | Acquérir des compétences utiles |
+
+> 💡 **Règle:** Si nécessaire et sans alternative, s'adapter avec les précautions requises est permis.
+
+</details>
+
+---
+
+## 💭 Réflexion
+
+> *« Nous avons fait de vous une communauté du juste milieu, afin que vous soyez témoins pour les gens. »*
+
+— Coran [2:143]
+
+---
+
 ## ❓ Questions Fréquentes
 
 ### Q1 : Comment connaître le juste milieu dans une question ?
