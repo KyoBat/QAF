@@ -1,255 +1,685 @@
-export const contentFr = `# Les Options dans la Vente
+export const contentFr = `# Les Options dans la Vente (Al-Khiyārāt)
 
-## Définition de l'Option
+<div class="scene-box">
 
-### Étymologie
-Al-Khiyar (l'option) : nom dérivé de l'ikhtiyar (le choix), qui signifie chercher le meilleur des deux choix.
+**🎬 La Scène : Le marché de Koufa — Époque des Tābi'īn**
 
-### Terminologie
-> Le droit du contractant d'annuler ou de confirmer le contrat pour une raison légale ou par accord entre les contractants.
+*'Alqama ibn Qays est assis avec son élève dans un cercle de savoir au marché, quand deux hommes arrivent en se disputant...*
 
----
+**L'Acheteur** *(tenant un tissu)* : Ô Abū Shibl ! J'ai acheté ce tissu hier, et j'y ai trouvé une déchirure cachée !
 
-## La Sagesse de la Légitimité des Options
+**Le Vendeur** *(se défendant)* : Je ne connaissais pas ce défaut ! Je t'ai vendu ce que tu as vu !
 
-1. **La réflexion et la délibération** — Donner l'occasion de réfléchir avant l'engagement
-2. **Lever le préjudice** — Protéger les contractants de la tromperie
-3. **Réaliser la justice** — L'équilibre entre les droits des deux parties
-4. **Prévenir les conflits** — En permettant l'annulation en cas de défaut
+**'Alqama** *(s'approchant calmement)* : Doucement mes frères... Vous êtes-vous séparés de la session de vente ou non ?
 
----
+**L'Acheteur** : Oui, nous nous sommes séparés hier.
 
-## Les Types d'Options
+**'Alqama** *(souriant)* : Alors l'option de session est caduque. Mais il te reste l'option du défaut !
 
-### Premièrement : L'Option de Session
+**L'Élève** *(interrogeant)* : Ô maître, combien d'options existe-t-il dans la Charia ?
 
-**Sa définition :**
-> Le droit de chaque contractant d'annuler le contrat tant qu'ils sont dans la session du contrat et ne se sont pas séparés.
+**'Alqama** *(levant les yeux)* : Mon fils, les options sont une miséricorde du Tout-Miséricordieux envers Ses serviteurs... Le Législateur Sage les a établies comme soupapes de sécurité pour les contrats, protégeant l'opprimé et rendant justice au lésé...
 
-**Sa preuve :**
-> Le Prophète ﷺ a dit : "Les deux contractants ont l'option tant qu'ils ne se sont pas séparés." [Rapporté par al-Bukhari et Muslim]
+*Les deux hommes s'assoient calmement, et l'élève prépare sa plume pour écrire...*
 
-**Ses conditions :**
-1. Que ce soit dans un contrat d'échange (vente, location...)
-2. Qu'ils n'aient pas stipulé son annulation
-
-**Sa fin :**
-- Par la séparation physique
-- Par le choix de confirmer le contrat
-- Par la stipulation de son annulation dans le contrat
-
-| École | Jugement |
-|-------|----------|
-| Chafiites et Hanbalites | Établi |
-| Hanafites et Malikites | Non établi |
+</div>
 
 ---
 
-### Deuxièmement : L'Option de Condition
+## Définition de l'Option (Al-Khiyār)
 
-**Sa définition :**
-> Le droit d'annulation que l'un des contractants ou les deux stipulent pour une durée connue.
+<div class="quote-box">
 
-**Sa preuve :**
-> Le Prophète ﷺ a dit : "Les musulmans sont tenus par leurs conditions." [Rapporté par Abu Dawud]
+**📜 Définition linguistique et technique**
 
-**Ses conditions :**
-1. Que la durée soit connue
-2. Qu'elle ne dépasse pas trois jours selon certains savants
-3. La majorité : plus de trois jours est permis
+**Linguistiquement** : Nom dérivé de "l'action de choisir", signifiant rechercher le meilleur des deux choix.
 
-**Exemple :**
-- J'ai acheté cette voiture avec l'option de trois jours
+**Techniquement** : *Le droit du contractant de résilier ou de valider le contrat pour une raison légale ou par accord mutuel.*
 
-**Les effets :**
-- Celui qui a l'option peut annuler ou confirmer
-- La marchandise est un dépôt chez celui qui l'a
+> Le Prophète ﷺ a dit : **"Les deux parties à une vente ont l'option tant qu'ils ne se sont pas séparés."**
+> — Rapporté par Al-Bukhārī et Muslim
+
+</div>
 
 ---
 
-### Troisièmement : L'Option de Défaut
+## La Sagesse derrière la Légitimité des Options
 
-**Sa définition :**
-> Le droit de l'acheteur d'annuler le contrat s'il trouve dans la marchandise un défaut qui diminue sa valeur.
-
-**Sa preuve :**
-> Le Prophète ﷺ a dit : "Le musulman est le frère du musulman, il n'est pas permis à un musulman qui vend à son frère une vente avec un défaut sans le lui montrer." [Rapporté par Ibn Majah]
-
-**Les conditions du défaut ouvrant l'option :**
-1. Que le défaut soit ancien (existant avant la vente)
-2. Que le défaut soit caché (l'acheteur ne le savait pas)
-3. Qu'il diminue la valeur ou l'utilité de la marchandise
-
-**Ce qui établit l'option de défaut :**
-- Le retour et la récupération du prix
-- Ou prendre la compensation (la différence entre sa valeur saine et défectueuse)
-
-**L'extinction de l'option de défaut :**
-- L'acceptation du défaut après en avoir eu connaissance
-- La disparition du défaut
-- La disposition de l'acheteur sur la marchandise comme un propriétaire
-
----
-
-### Quatrièmement : L'Option de Fraude
-
-**Sa définition :**
-> Présenter la marchandise avec une qualité non réelle pour attirer l'acheteur.
-
-**Sa preuve :**
-> Le Prophète ﷺ a interdit de retenir le lait des chameaux et des moutons. [Rapporté par al-Bukhari et Muslim]
-
-**La rétention du lait :**
-- Retenir le lait dans le pis pour que l'acheteur pense qu'elle donne beaucoup de lait
-
-**Jugement de la rétention du lait :**
-> Le Prophète ﷺ a dit : "Celui qui achète une brebis dont le lait a été retenu a l'option pendant trois jours. S'il veut, il la rend avec un sa' de dattes." [Rapporté par al-Bukhari et Muslim]
-
-**Exemples de fraude :**
-- Cacher un défaut dans la voiture
-- Exagérer dans la description de la marchandise
-- Changer le compteur kilométrique
+\`\`\`
+┌─────────────────────────────────────────────────────────────────────┐
+│              🎯 Sagesses de la légitimité des options                │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│   ┌─────────────┐    ┌─────────────┐    ┌─────────────┐            │
+│   │ Réflexion   │    │ Éliminer    │    │  Justice    │            │
+│   │ et          │    │ le préjudice│    │ entre les   │            │
+│   │ délibération│    │ et la lésion│    │ parties     │            │
+│   └──────┬──────┘    └──────┬──────┘    └──────┬──────┘            │
+│          │                  │                  │                    │
+│          ▼                  ▼                  ▼                    │
+│   Donner le temps    Protéger le        Équilibre des              │
+│   de réfléchir       contractant        droits et                  │
+│   avant engagement   des pertes         devoirs                    │
+│                      imprévues                                      │
+│                                                                      │
+│   ┌─────────────┐    ┌─────────────┐                                │
+│   │ Prévenir    │    │ Miséricorde │                                │
+│   │ les conflits│    │ envers les  │                                │
+│   │             │    │ contractants│                                │
+│   └──────┬──────┘    └──────┬──────┘                                │
+│          │                  │                                        │
+│          ▼                  ▼                                        │
+│   Permettre la       Faciliter les                                  │
+│   résiliation si     transactions                                   │
+│   justifiée          et lever                                       │
+│                      la difficulté                                  │
+│                                                                      │
+└─────────────────────────────────────────────────────────────────────┘
+\`\`\`
 
 ---
 
-### Cinquièmement : L'Option de Lésion
+## Types d'Options — L'Arbre Complet
 
-**Sa définition :**
-> Vendre beaucoup plus cher que le prix normal ou acheter beaucoup moins cher.
-
-**Quand elle est établie :**
-- Chez les Hanbalites : pour le naïf (celui qui ne connaît pas les prix)
-- Chez les Malikites : si elle atteint le tiers
-
-**Le jugement :**
-- Le lésé a l'option entre l'annulation et la confirmation
-- Ou le vendeur rend l'excédent
-
----
-
-### Sixièmement : L'Option de Vision
-
-**Sa définition :**
-> Le droit de l'acheteur d'annuler le contrat quand il voit la marchandise qu'il a achetée sur description.
-
-**Selon ceux qui le disent :**
-- Les Hanafites et les Malikites
-
-**Ses conditions :**
-1. Qu'il ne l'ait pas vue avant le contrat
-2. Que l'annulation soit immédiate après la vision
+\`\`\`
+                           Les Options dans la Vente
+                                      │
+           ┌──────────────────────────┼──────────────────────────┐
+           │                          │                          │
+    Options temporelles        Options causales         Options circonstancielles
+           │                          │                          │
+    ┌──────┴──────┐          ┌────────┼────────┐          ┌──────┴──────┐
+    │             │          │        │        │          │             │
+  Option       Option     Option   Option   Option     Option       Option
+  de session   de stipul.  du déf.  de dol   de lésion  de vision    de division
+    │             │          │        │        │          │             │
+    ▼             ▼          ▼        ▼        ▼          ▼             ▼
+  Avant la    Avec durée   Défaut  Tromperie  Prix      Sans voir   Destruction
+  séparation  convenue     caché   et fraude  excessif  avant       partielle
+                           ancien                       l'achat
+\`\`\`
 
 ---
 
-### Septièmement : L'Option de Séparation de la Transaction
+## Première : L'Option de Session (Khiyār al-Majlis)
 
-**Sa définition :**
-> Si une partie de la marchandise est détruite avant la réception ou s'avère appartenir à autrui.
+<div class="quote-box">
 
-**Le jugement :**
-- L'acheteur a l'option : annuler tout le contrat ou prendre le reste pour sa part du prix
+**📜 Hadith sur l'option de session**
+
+> Le Messager d'Allah ﷺ a dit : **"Les deux parties à une vente ont l'option tant qu'ils ne se sont pas séparés. S'ils sont honnêtes et transparents, leur vente sera bénie. S'ils mentent et cachent, la bénédiction de leur vente sera effacée."**
+> — Rapporté par Al-Bukhārī et Muslim, d'après Hakīm ibn Hizām رضي الله عنه
+
+</div>
+
+### Définition
+
+> Le droit de chaque partie de résilier le contrat tant qu'ils sont encore dans la session de vente et ne se sont pas physiquement séparés.
+
+### Conditions et Règles
+
+\`\`\`
+┌─────────────────────────────────────────┐
+│     Conditions de l'option de session   │
+├─────────────────────────────────────────┤
+│                                         │
+│  ① Être dans un contrat d'échange       │
+│     financier (vente, location,         │
+│     change, salam...)                   │
+│                                         │
+│  ② Ne pas avoir stipulé son             │
+│     annulation dans le contrat          │
+│                                         │
+│  ③ Ne pas avoir choisi de valider       │
+│     le contrat avant la séparation      │
+│                                         │
+└─────────────────────────────────────────┘
+\`\`\`
+
+### Fin de l'Option de Session
+
+| Cause | Exemple |
+|-------|---------|
+| Séparation physique | L'un d'eux part |
+| Choix de valider | Ils disent : "Nous validons la vente" |
+| Stipulation d'annulation | "Je te vends sans option" |
+
+### Divergence entre Écoles
+
+<div class="scene-box">
+
+**🎬 Dialogue : L'option de session est-elle établie ?**
+
+**Le Hanafite** : Chez nous, l'option de session n'est pas établie ! Le contrat est contraignant dès l'offre et l'acceptation.
+
+**Le Shafi'ite** : Chez nous, elle est établie ! La preuve est explicite : "Les deux parties ont l'option tant qu'ils ne se sont pas séparés."
+
+**Le Malikite** : La séparation chez nous est par la parole, non par les corps...
+
+**Le Hanbalite** : Non, la séparation est physique comme l'indique le hadith. C'est la position de l'Imam Ahmad, qu'Allah lui fasse miséricorde.
+
+</div>
+
+| École | Règle | Preuve |
+|-------|-------|--------|
+| **Shafi'ites et Hanbalites** | ✅ Établie | Sens apparent du hadith |
+| **Hanafites** | ❌ Non établie | Le contrat lie à l'acceptation |
+| **Malikites** | ❌ Non établie | La séparation est verbale |
+
+---
+
+## Deuxième : L'Option de Stipulation (Khiyār al-Shart)
+
+<div class="quote-box">
+
+**📜 Hadith sur les conditions dans la vente**
+
+> Le Prophète ﷺ a dit : **"Les musulmans sont tenus par leurs conditions, sauf une condition qui interdit un licite ou permet un interdit."**
+> — Rapporté par At-Tirmidhī et Abū Dāwūd
+
+</div>
+
+### Définition
+
+> Le droit de résiliation que l'une ou les deux parties stipulent pour une durée déterminée connue.
+
+<div class="scene-box">
+
+**🎬 Application pratique : Achat d'une voiture avec option de stipulation**
+
+**L'Acheteur** : Je veux cette voiture, mais j'ai besoin de consulter mon père d'abord.
+
+**Le Vendeur** : Pas de problème, achète-la avec une option de trois jours. Si elle te plaît, tu valides, sinon tu la rends.
+
+**L'Acheteur** : Accepté. J'achète cette voiture pour cent mille avec option de trois jours.
+
+*Deux jours plus tard, l'acheteur revient...*
+
+**L'Acheteur** : J'ai décidé de valider la vente. La voiture est excellente, al-hamdulillāh.
+
+**Le Vendeur** : Qu'Allah te la bénisse ! Ton option se termine par ton choix de valider.
+
+</div>
+
+### Conditions de Validité
+
+\`\`\`
+┌─────────────────────────────────────────┐
+│   Conditions de l'option de stipulation │
+├─────────────────────────────────────────┤
+│                                         │
+│  ① La durée doit être connue            │
+│     et déterminée                       │
+│     ✓ "trois jours"  ✓ "une semaine"   │
+│     ✗ "durée indéterminée"             │
+│                                         │
+│  ② Ne pas dépasser trois jours          │
+│     (selon certains savants)            │
+│                                         │
+│  ③ La majorité : plus de trois jours    │
+│     est permis selon le besoin          │
+│                                         │
+└─────────────────────────────────────────┘
+\`\`\`
+
+---
+
+## Troisième : L'Option du Défaut (Khiyār al-'Ayb)
+
+<div class="quote-box">
+
+**📜 Hadith sur l'interdiction de cacher les défauts**
+
+> Le Prophète ﷺ a dit : **"Le musulman est le frère du musulman. Il n'est pas permis à un musulman de vendre à son frère une chose qui a un défaut sans le lui révéler."**
+> — Rapporté par Ibn Mājah et Al-Hākim
+
+</div>
+
+### Définition
+
+> Le droit de l'acheteur de résilier le contrat ou de recevoir une compensation s'il trouve dans le bien un défaut qui diminue sa valeur ou son utilité.
+
+### Conditions du Défaut Donnant Droit à l'Option
+
+\`\`\`
+                    Conditions du défaut donnant droit à l'option
+                                      │
+               ┌──────────────────────┼──────────────────────┐
+               │                      │                      │
+          ┌────┴────┐            ┌────┴────┐            ┌────┴────┐
+          │ Ancien  │            │  Caché  │            │ Affecte │
+          │         │            │         │            │         │
+          └────┬────┘            └────┬────┘            └────┬────┘
+               │                      │                      │
+               ▼                      ▼                      ▼
+          Existant avant         Inconnu de            Diminue la
+          la vente ou            l'acheteur            valeur ou
+          sa cause avant         au moment             l'utilité
+                                 du contrat
+\`\`\`
+
+### Options de l'Acheteur en Cas de Défaut
+
+<div class="scene-box">
+
+**🎬 Que fait l'acheteur s'il trouve un défaut ?**
+
+**Le Juriste** : Si tu trouves un défaut dans le bien, tu as trois options :
+
+**① Garder avec compensation (arsh)**
+Tu gardes le bien et reçois la différence entre sa valeur saine et défectueuse.
+
+**② Rendre et récupérer le prix**
+Tu rends le bien et récupères ton prix complet.
+
+**③ Accepter et renoncer**
+Tu acceptes le défaut sans rien demander — c'est de la bonté.
+
+</div>
+
+### Extinction de l'Option du Défaut
+
+| Cause d'extinction | Exemple |
+|--------------------|---------|
+| Acceptation du défaut | Il dit : "J'accepte le défaut" après l'avoir su |
+| Disparition du défaut | Le malade guérit, le problème est réparé |
+| Disposition en propriétaire | Il l'a vendu ou donné |
+| Impossibilité de rendre | Le bien a péri chez lui |
+| Nouveau défaut survenu | Sauf si le vendeur accepte |
+
+---
+
+## Quatrième : L'Option du Dol (Khiyār al-Tadlīs)
+
+<div class="quote-box">
+
+**📜 Hadith sur la Musarrāh**
+
+> Le Prophète ﷺ a dit : **"Ne retenez pas le lait dans les pis des chameaux et des moutons. Celui qui en achète un a l'option pendant trois jours : s'il veut, il le garde, et s'il veut, il le rend avec un sā' de dattes."**
+> — Rapporté par Al-Bukhārī et Muslim
+
+</div>
+
+### Définition du Dol
+
+> Présenter le bien sous une apparence non réelle pour inciter l'acheteur à payer plus que sa valeur.
+
+### La Tasriyah — L'Exemple Prophétique
+
+<div class="scene-box">
+
+**🎬 Qu'est-ce que la Tasriyah ?**
+
+*Un vendeur arrive au marché avec une brebis dont il a retenu le lait dans les mamelles pendant des jours...*
+
+**L'Acheteur** *(regardant les mamelles pleines)* : Mā shā' Allāh ! Cette brebis produit beaucoup de lait ! Je vais l'acheter !
+
+*Il paie et l'emporte. Le lendemain, il la trait...*
+
+**L'Acheteur** *(stupéfait)* : Où est le lait ?! Hier ses mamelles étaient pleines, et aujourd'hui elle ne donne rien !
+
+**Le Juriste** : C'est le dol par tasriyah ! Le vendeur a retenu le lait pour faire croire à une production abondante. Le Prophète ﷺ l'a interdit et a donné à l'acheteur l'option pendant trois jours.
+
+</div>
+
+### Exemples Contemporains de Dol
+
+\`\`\`
+┌─────────────────────────────────────────────────────────────────────┐
+│                     Formes contemporaines de dol                     │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│  🚗 Voitures                        📱 Appareils électroniques       │
+│  ──────────────                     ────────────────────────        │
+│  • Réduire le compteur km           • Cacher les défauts d'écran    │
+│  • Cacher les accidents passés      • Remplacer par pièces de       │
+│  • Peinture pour cacher la rouille    mauvaise qualité              │
+│                                     • Réinitialiser comme neuf      │
+│                                                                      │
+│  🏠 Immobilier                      👔 Marchandises                  │
+│  ────────────                       ────────────                    │
+│  • Cacher les problèmes de          • Changer les dates             │
+│    fondation                          d'expiration                  │
+│  • Cacher les fuites d'eau          • Cacher les défauts de         │
+│  • Exagérer la surface                fabrication                   │
+│                                     • Falsifier le pays d'origine   │
+│                                                                      │
+└─────────────────────────────────────────────────────────────────────┘
+\`\`\`
+
+---
+
+## Cinquième : L'Option de Lésion (Khiyār al-Ghabn)
+
+### Définition
+
+> La lésion : vendre bien au-dessus du prix du marché, ou acheter bien en-dessous.
+
+<div class="scene-box">
+
+**🎬 Exemple : La lésion excessive**
+
+**Le Bédouin** *(venant du village)* : Je veux acheter une montre en cadeau pour mon fils.
+
+**Le Vendeur malhonnête** : Cette montre est luxueuse, à seulement mille riyals !
+
+*Le bédouin l'achète, puis demande à son voisin...*
+
+**Le Voisin** : Mille riyals ?! Cette montre ne vaut pas cent riyals !
+
+**Le Bédouin** *(en colère)* : J'ai été lésé ! Que faire ?
+
+**Le Juriste** : Tu es un acheteur naïf non-connaisseur des prix, et la lésion est excessive dépassant le tiers. Tu as l'option de résilier ou que le vendeur te rembourse la différence.
+
+</div>
+
+### Quand l'Option de Lésion Est-elle Établie ?
+
+| Condition | Détail |
+|-----------|--------|
+| Lésion excessive | Dépasse le tiers du prix du marché (Malikites) |
+| Lésé naïf | Non-connaisseur des prix (Hanbalites) |
+| Pas de négociation | N'a pas marchandé |
+
+---
+
+## Sixième : L'Option de Vision (Khiyār al-Ru'yah)
+
+### Définition
+
+> Le droit de l'acheteur de résilier le contrat s'il voit le bien acheté sur description et qu'il ne correspond pas à ses attentes.
+
+<div class="scene-box">
+
+**🎬 Exemple : L'achat sur description**
+
+**L'Acheteur** *(au téléphone)* : Je veux acheter un tapis rouge, 3×4 mètres, laine naturelle.
+
+**Le Vendeur** : J'ai ce que tu veux. Je te l'envoie si tu veux.
+
+**L'Acheteur** : Accepté, envoie-le.
+
+*Le tapis arrive...*
+
+**L'Acheteur** *(regardant)* : Ce n'est pas ce à quoi je m'attendais ! La couleur est différente et les motifs ne me plaisent pas.
+
+**Le Juriste** : Tu as l'option de vision ! Car tu as acheté sur description sans l'avoir vu avant le contrat. Tu peux résilier immédiatement.
+
+</div>
+
+### Conditions de l'Option de Vision
+
+1. L'acheteur ne l'a pas vu avant le contrat
+2. La résiliation doit être immédiate
+3. Le bien diffère de la description ou des attentes
+
+---
+
+## Septième : L'Option de Division de la Transaction
+
+### Définition
+
+> Quand une partie du bien périt avant la livraison, ou qu'une partie s'avère appartenir à un tiers, ou qu'une partie est défectueuse.
+
+### Options de l'Acheteur
+
+\`\`\`
+              Perte partielle ou éviction du bien
+                           │
+                           ▼
+                  L'acheteur a l'option
+                           │
+               ┌───────────┴───────────┐
+               │                       │
+               ▼                       ▼
+      Résilier tout            Prendre le reste
+      le contrat et            au prorata
+      récupérer le prix        du prix
+\`\`\`
 
 ---
 
 ## Règles Générales sur les Options
 
-### Ce qui résulte de l'Annulation
+### Effets de la Résiliation
 
-1. Le retour de la marchandise au vendeur
-2. Le retour du prix à l'acheteur
-3. La garantie du produit attaché au vendeur
-4. Le produit séparé à l'acheteur
+\`\`\`
+┌─────────────────────────────────────────────────────────────────────┐
+│                  Effets de la résiliation du contrat                 │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│    Résiliation du contrat                                            │
+│        │                                                             │
+│        ├──► Le bien retourne au vendeur                             │
+│        │                                                             │
+│        ├──► Le prix retourne à l'acheteur                           │
+│        │                                                             │
+│        ├──► L'accroissement joint (engraissement,                   │
+│        │    croissance) ──► Au vendeur                              │
+│        │                                                             │
+│        └──► L'accroissement séparé (petit, fruit)                   │
+│             ──► À l'acheteur                                        │
+│                                                                      │
+└─────────────────────────────────────────────────────────────────────┘
+\`\`\`
 
-### La Disposition pendant l'Option
+### Disposition Pendant l'Option
 
-| Celui qui a l'option | Droit de disposition |
-|----------------------|---------------------|
-| L'acheteur seul | Le vendeur ne dispose pas |
-| Le vendeur seul | L'acheteur ne dispose pas |
-| Les deux | Aucun des deux ne dispose |
+| Qui a l'option | Qui peut disposer |
+|----------------|-------------------|
+| L'acheteur seul | Le vendeur ne peut disposer |
+| Le vendeur seul | L'acheteur ne peut disposer |
+| Les deux | Aucun ne peut disposer |
 
-### Le Transfert de l'Option par Décès
+### Transmission de l'Option par Décès
 
-- La majorité : elle passe aux héritiers
-- Les Hanafites : elle s'éteint par le décès
-
----
-
-## Applications Contemporaines
-
-### Le Droit de Retour dans les Magasins
-- Considéré comme option de condition
-- Conditionné par une durée déterminée
-
-### L'Achat via Internet
-- Option de vision réelle à la réception
-- Les politiques de retour font partie du contrat
-
-### La Garantie du Fabricant
-- Un type d'option de défaut
-- La durée de garantie = la durée de l'option
-
----
-
-## 📖 Récit des Salaf : 'Umar et l'option de défaut
-
-Il est rapporté que 'Umar ibn al-Khattab رضي الله عنه passa au marché et vit un homme vendre une chamelle. L'acheteur lui demanda ses défauts.
-
-Le vendeur dit : Elle n'a pas de défaut.
-
-Lorsque l'homme l'acheta et marcha avec elle, il découvrit qu'elle boitait légèrement. Il revint se plaindre à 'Umar.
-
-'Umar envoya chercher le vendeur et lui dit : **"Savais-tu ce défaut ?"**
-
-Il dit : Oui, mais c'est un défaut minime.
-
-'Umar dit : **"Rends-lui son argent et reprends ta chamelle. Le musulman ne cache pas un défaut à son frère, qu'il soit petit ou grand."**
-
-Puis 'Umar dit : **"Celui qui vend quelque chose avec un défaut doit le déclarer. S'il ne le fait pas, l'acheteur a l'option."**
-
-**La leçon à retenir :** L'option de défaut est un droit pour l'acheteur afin de protéger son bien du préjudice, et cacher le défaut est une tromperie interdite.
+| École | Règle |
+|-------|-------|
+| **La majorité** | Transmise aux héritiers |
+| **Hanafites** | S'éteint au décès |
 
 ---
 
-## 🎯 Cas pratiques contemporains
+## 📖 Des Récits des Pieux Prédécesseurs : 'Umar et l'Option du Défaut
 
-### Cas 1 : L'option de session dans l'achat électronique
-**Question** : Y a-t-il une option de session dans l'achat en ligne ?
+<div class="scene-box">
 
-**Réponse** : Les contemporains ont divergé. L'avis le plus correct est que la "session" sur Internet est la durée de connexion ou la durée de la session d'achat. Quand on ferme le site ou qu'on finalise la commande, la "session" électronique se termine.
+**🎬 Au marché de Médine — Époque des Califes Bien-Guidés**
 
-### Cas 2 : La politique de retour dans les magasins
-**Question** : Un magasin affiche la politique : "Pas de retour après achat." Est-ce contraignant pour l'acheteur ?
+*'Umar ibn al-Khattāb رضي الله عنه inspecte les marchés comme à son habitude, quand un homme vient se plaindre...*
 
-**Réponse** : ⚖️ Si l'acheteur a pris connaissance de cette condition avant l'achat et l'a acceptée, il a renoncé à l'option de condition. Mais l'option de défaut ne s'éteint pas par cette condition s'il y a un défaut caché.
+**L'Homme** : Ô Commandeur des Croyants ! J'ai acheté cette chamelle de cet homme, et quand je l'ai conduite, j'ai découvert qu'elle boitait !
 
-### Cas 3 : La garantie du fabricant
-**Question** : Ahmad a acheté un téléphone avec une garantie d'un an, et il est tombé en panne après 8 mois. Quels sont ses droits ?
+**'Umar** *(convoquant le vendeur)* : Que dis-tu de cela ?
 
-**Réponse** : ✅ La garantie est un engagement du vendeur à réparer les défauts pendant la période. C'est un type d'option de défaut limitée dans le temps. Il a droit à la réparation gratuite ou au remplacement selon les conditions.
+**Le Vendeur** *(tête baissée)* : Il dit vrai, ô Commandeur des Croyants... mais c'est un défaut mineur, négligeable.
 
-### Cas 4 : Découverte de fraude après l'achat
-**Question** : Muhammad a acheté une voiture d'occasion, puis a découvert que le compteur kilométrique avait été trafiqué (falsifié). Quel est son droit ?
+**'Umar** *(d'une voix ferme)* : **Connaissais-tu ce défaut avant la vente ?**
 
-**Réponse** : ✅ Il a le droit d'annuler immédiatement car c'est une fraude manifeste, voire une tromperie qui ouvre droit à l'option. Il peut aussi prendre la différence de valeur (compensation) s'il veut garder la voiture.
+**Le Vendeur** : Oui, je le connaissais.
 
-### Cas 5 : L'achat sous pression
-**Question** : Il a acheté sous l'insistance du vendeur et ses offres "à durée limitée" puis a regretté. Peut-il revenir sur l'achat ?
+**'Umar** *(en colère)* : **Alors pourquoi l'as-tu caché ?! Le musulman ne cache pas un défaut à son frère, qu'il soit petit ou grand !**
 
-**Réponse** : ❌ La simple insistance n'est pas une contrainte annulant le contrat. Mais s'il y a une condition de retour ou s'il n'a pas quitté la session, il a l'option. La leçon : ne vous précipitez pas dans l'achat.
+*'Umar se tourne vers l'acheteur...*
 
----
+**'Umar** : Reprends ton argent et rends-lui sa chamelle. Tu as l'option tant que le défaut existe.
 
-## 💡 Pause réflexion
+*Puis 'Umar se lève au marché s'adressant aux gens...*
 
-**Question personnelle** : Vous avez acheté quelque chose puis découvert un défaut minime. Le vendeur est une personne modeste et le retour du produit le perturbera. Que faites-vous ?
+**'Umar** : **Ô gens ! Quiconque vend quelque chose avec un défaut doit le révéler. S'il ne le fait pas, l'acheteur a l'option. La tromperie ne fait pas partie des mœurs des musulmans !**
 
-**Rappel :**
-- Les options sont des droits légaux pour protéger les contractants
-- Le pardon et la tolérance dans les droits personnels sont une vertu
-- Le Prophète ﷺ a dit : "Qu'Allah fasse miséricorde à l'homme indulgent quand il vend, quand il achète et quand il réclame"
-- L'équilibre entre votre droit et la bienfaisance envers les autres est un signe de foi
+*Les gens se dispersent ayant retenu la leçon...*
+
+</div>
+
+**La Leçon** : L'option du défaut est un droit établi pour l'acheteur, légiféré par Allah pour protéger son bien du préjudice. Cacher un défaut est une tromperie interdite qui donne droit à la résiliation.
 
 ---
 
-*Ô Seigneur, augmente ma science*`;
+## 🎯 Cas Contemporains : Application des Options
+
+### Cas 1 : L'Option de Session dans l'Achat en Ligne
+
+<div class="scene-box">
+
+**❓ Question**
+
+Ahmad fait du shopping en ligne, il a ajouté un produit au panier et payé électroniquement. A-t-il l'option de session ? Quand se termine-t-elle ?
+
+</div>
+
+**Réponse** : 
+
+✅ Les savants contemporains divergent :
+- **Premier avis** : La "session" électronique est la durée de connexion ou de navigation. Elle se termine à la finalisation de la commande ou fermeture du site.
+- **Deuxième avis** : Pas d'option de session dans la vente électronique, mais les politiques de retour y suppléent.
+- **Avis prépondérant** : Adopter la politique de retour comme alternative moderne à l'option de session.
+
+---
+
+### Cas 2 : Politique "Pas de Retour Après Achat"
+
+<div class="scene-box">
+
+**❓ Question**
+
+Un magasin affiche : "Pas de retour après achat." Muhammad y achète un article, puis découvre un défaut. Cette condition l'oblige-t-elle ?
+
+</div>
+
+**Réponse** : 
+
+⚖️ Il y a un détail :
+- **Option de stipulation** : Si l'acheteur connaissait cette condition et l'a acceptée, il a renoncé à son droit de retour pour simple changement d'avis.
+- **Option du défaut** : Elle ne s'éteint PAS par cette condition ! Car empêcher le retour pour défaut est une injustice, et les conditions injustes sont nulles.
+
+✅ **Conclusion** : Il peut retourner pour défaut même avec une politique "pas de retour".
+
+---
+
+### Cas 3 : La Garantie du Fabricant
+
+<div class="scene-box">
+
+**❓ Question**
+
+Khālid a acheté un téléphone avec garantie d'un an. Il tombe en panne après 8 mois à cause d'un défaut de fabrication. Quels sont ses droits ?
+
+</div>
+
+**Réponse** : 
+
+✅ La garantie constitue un engagement du vendeur/fabricant à réparer les défauts pendant la période définie :
+- Il a droit à la réparation gratuite
+- Ou au remplacement par un appareil fonctionnel
+- Ou au retour et remboursement (selon les termes de la garantie)
+
+📌 C'est une application contemporaine de l'option du défaut limitée dans le temps.
+
+---
+
+### Cas 4 : Découverte de Manipulation du Compteur
+
+<div class="scene-box">
+
+**❓ Question**
+
+Ali a acheté une voiture d'occasion, et une semaine plus tard, il découvre que le vendeur a réduit le compteur kilométrique de 200 000 à 80 000. Quel est son droit ?
+
+</div>
+
+**Réponse** : 
+
+✅ C'est un dol évident et une tromperie interdite :
+- Il a droit à la **résiliation immédiate** et remboursement complet
+- Ou **garder avec compensation** : recevoir la différence entre la valeur décrite et la valeur réelle
+- Le lésé a droit à une **action en justice** pour dommages
+
+⚠️ Le vendeur est pécheur religieusement et peut être poursuivi légalement.
+
+---
+
+### Cas 5 : Achat Sous Pression du Vendeur
+
+<div class="scene-box">
+
+**❓ Question**
+
+Fahd entre dans un magasin, le vendeur insiste : "Cette offre est limitée dans le temps ! Dernière pièce ! Tu n'en trouveras pas d'autre !" Il achète sous pression, puis regrette. Peut-il revenir ?
+
+</div>
+
+**Réponse** : 
+
+❌ La simple insistance commerciale n'est pas une contrainte invalidant le contrat religieusement :
+- S'il n'a pas quitté la session ➜ Il a l'option de session
+- S'il y a une politique de retour ➜ Il a l'option selon la durée
+- Sinon ➜ Le contrat est contraignant
+
+📌 **La leçon** : Ne te précipite pas dans l'achat ! Le Prophète ﷺ a dit : "La patience vient d'Allah, et la hâte vient du diable."
+
+---
+
+## Tableau Récapitulatif : Types d'Options
+
+| Type d'option | Cause | Durée | Effet |
+|---------------|-------|-------|-------|
+| **Session** | Non séparés | Jusqu'à séparation | Résiliation ou validation |
+| **Stipulation** | Stipulé au contrat | Durée convenue | Résiliation ou validation |
+| **Défaut** | Défaut caché ancien | Dès connaissance | Retour ou compensation |
+| **Dol** | Tromperie et fraude | Dès connaissance | Retour avec indemnité |
+| **Lésion** | Prix excessif | Dès connaissance | Résiliation ou remboursement |
+| **Vision** | Achat sur description | Immédiat à la vue | Résiliation |
+| **Division** | Perte/éviction partielle | Dès connaissance | Résiliation ou prise du reste |
+
+---
+
+## 💡 Pause et Réflexion
+
+<div class="quote-box">
+
+**📜 Hadith sur la facilité dans la vente**
+
+> Le Prophète ﷺ a dit : **"Qu'Allah fasse miséricorde à l'homme indulgent quand il vend, quand il achète et quand il réclame son dû."**
+> — Rapporté par Al-Bukhārī
+
+</div>
+
+**Question de réflexion** : Tu as acheté quelque chose puis découvert un petit défaut. Le vendeur est un homme de condition modeste, et le retour le mettrait en difficulté et le ferait perdre. Que fais-tu ?
+
+**Rappelle-toi :**
+- Les options sont des droits légaux pour protéger les contractants — utilise-les avec sagesse
+- Le pardon et la tolérance dans les droits personnels sont parmi les plus grandes vertus
+- L'équilibre entre ton droit et la bonté envers les autres est un signe de foi parfaite
+- "Celui qui abandonne quelque chose pour Allah, Allah lui donnera quelque chose de meilleur"
+
+---
+
+## 🔑 Résumé de la Leçon
+
+\`\`\`
+┌─────────────────────────────────────────────────────────────────────┐
+│                🎯 Résumé : Les Options dans la Vente                 │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│  ✅ L'option = droit de résilier ou valider pour raison légale      │
+│                                                                      │
+│  ✅ Les sept types :                                                 │
+│     Session • Stipulation • Défaut • Dol • Lésion • Vision •        │
+│     Division de transaction                                          │
+│                                                                      │
+│  ✅ Option la plus importante aujourd'hui : Défaut + politiques     │
+│     de retour                                                        │
+│                                                                      │
+│  ✅ Cacher un défaut = tromperie interdite donnant droit à l'option │
+│                                                                      │
+│  ✅ Les garanties modernes = application de l'option du défaut      │
+│                                                                      │
+│  ✅ L'indulgence dans la vente et l'achat = éthique du croyant      │
+│                                                                      │
+└─────────────────────────────────────────────────────────────────────┘
+\`\`\`
+
+---
+
+*Seigneur, augmente ma science*`;
