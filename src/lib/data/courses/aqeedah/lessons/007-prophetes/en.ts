@@ -261,7 +261,11 @@ export const content = `# 📜 Belief in the Prophets — The Fourth Pillar of F
 
 </div>
 
-**O Lord, increase me in knowledge!** 📖`
+---
+
+## 🛡️ Refuting Common Doubts
+
+### First Doubt: "The prophets sinned like everyone else"
 
 **❌ The Doubt:** Some say: "The prophets committed major sins!"
 
