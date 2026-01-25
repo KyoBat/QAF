@@ -1,162 +1,411 @@
-export const contentEn = `# Introduction to Fiqh of Transactions
+export const contentEn = `# 💰 Introduction to the Fiqh of Transactions — The Science that Protects Your Wealth
 
-## Definition of Transactions (Mu'amalat)
+<div class="scene-box">
 
-### Linguistic Meaning
-Mu'amalat: plural of mu'amalah, from work ('amal), referring to mutual dealings between people.
+**🎬 Opening Scene: At the Madinah Market**
 
-### Technical Meaning
-> The legal rules related to financial transactions between people: buying, selling, renting, pledging, and others.
+*Banu Qaynuqa' Market. The sun rises over Madinah the Radiant. A man with a foreign face enters the market for the first time...*
 
----
+*It is **'Abd ar-Rahman ibn 'Awf** رضي الله عنه, the emigrant who left all his wealth in Makkah.*
 
-## The Importance of Studying Fiqh of Transactions
+*That day, his brother in Islam **Sa'd ibn ar-Rabi'** the Ansari offered him:*
 
-### 1. Frequent Need
-- Every Muslim conducts financial transactions daily
-- Transactions are more frequent than acts of worship in life
+**Sa'd:** "My brother, I am one of the wealthiest in Madinah. Take half of my wealth! And I have two wives: see which one pleases you, I will divorce her so you can marry her!"
 
-### 2. The Lawful and the Unlawful
-> The Prophet ﷺ said: "The lawful is clear and the unlawful is clear, and between them are ambiguous matters." [Agreed upon]
+*'Abd ar-Rahman remained silent for a moment... then said with the dignity of a believer:*
 
-### 3. Preservation of Wealth
-- Wealth is among the five necessities
-- Its preservation is a major objective of the Law
+**'Abd ar-Rahman:** "May Allah bless your family and your wealth... **Show me the way to the market.**"
 
----
+*He went to the market... and began to trade...*
 
-## The Fundamental Rules of Transactions
+*A few days later, the Prophet ﷺ saw him with traces of yellow perfume (the bride's perfume)...*
 
-### First Rule: The Default in Transactions is Permissibility
+**The Prophet ﷺ:** "Mahyam, O 'Abd ar-Rahman?" *(What happened?)*
 
-> "The default in transactions is permissibility and lawfulness, except what evidence indicates is prohibited."
+**'Abd ar-Rahman:** "I got married, O Messenger of Allah!"
 
-**The difference from acts of worship:**
-| Acts of Worship | Transactions |
-|-----------------|--------------|
-| The default is prohibition | The default is permission |
-| Only legislated with evidence | Permitted unless evidence of prohibition |
+**The Prophet ﷺ:** "What dowry did you give her?"
 
-### Second Rule: Muslims Are Bound by Their Conditions
+**'Abd ar-Rahman:** "A date-stone weight of gold."
 
-> The Prophet ﷺ said: "Muslims are bound by their conditions, except a condition that makes lawful what is unlawful or unlawful what is lawful." [Reported by Abu Dawud]
+*(Sahih al-Bukhari 3781)*
 
-### Third Rule: No Harm and No Reciprocal Harm
+*From zero... to marriage in a few days... to becoming one of the ten wealthiest men in Islamic history!*
 
-> The Prophet ﷺ said: "No harm and no reciprocal harm." [Reported by Ibn Majah]
+*How? **Through the fiqh of lawful transactions.***
 
-**Applications:**
-- Prohibition of fraud and deception
-- Prohibition of harmful monopoly
-- Prohibition of uncertainty leading to dispute
+</div>
 
-### Fourth Rule: What Counts Are the Intentions and Meanings
-
-> "What counts in contracts are the intentions and meanings, not the words and formulations."
+> **This science** that 'Abd ar-Rahman ibn 'Awf learned is what you will learn in this course.
 
 ---
 
-## The Pillars of a Contract
+## 📖 What are Mu'amalat (Transactions)?
 
-### The Pillars According to the Majority
+### Linguistic Definition
 
-1. **The Contracting Parties** — The seller and buyer
-2. **The Formula** — The offer and acceptance
-3. **The Subject of the Contract** — The merchandise and price
+Mu'amalat: plural of **mu'amalah**, from work ('amal), meaning reciprocal exchanges between people.
 
-### Conditions of the Contracting Parties
+### Technical Definition
 
-| Condition | Detail |
+<div class="quote-box">
+
+**📜 Jurists' Definition**
+
+> The rules of Islamic Law pertaining to financial transactions between people: **sale, purchase, rental, pledge** and others.
+
+</div>
+
+---
+
+## 🔥 Why is This Science Essential?
+
+### 1️⃣ Because You Make Transactions Every Day!
+
+Think about it... **How many financial transactions do you make daily?**
+
+| Time | Transaction |
+|------|-------------|
+| Morning | Buying coffee ☕ |
+| Noon | Paying for lunch 🍽️ |
+| Afternoon | Bank transfer via phone 📱 |
+| Evening | Online shopping 🛒 |
+| Night | Paying rent or installment 🏠 |
+
+**All of these are transactions!** Do you know their legal rulings?
+
+### 2️⃣ Because Halal and Haram are Clear... for Those Who Learn
+
+<div class="quote-box">
+
+**📜 Hadith of an-Nu'man ibn Bashir**
+
+The Messenger of Allah ﷺ said:
+
+> **"The halal is clear and the haram is clear. Between them are doubtful matters that many people do not know. Whoever avoids the doubtful matters protects his religion and honor."**
+
+*(Reported by al-Bukhari and Muslim)*
+
+</div>
+
+### 3️⃣ Because Wealth is One of the Five Necessities
+
+\`\`\`
+            🛡️ The Five Necessities in Islam
+                        │
+        ┌───────┬───────┼───────┬───────┐
+        │       │       │       │       │
+    Religion   Life   Intellect  Progeny   💰 Wealth
+        │       │       │       │       │
+        └───────┴───────┴───────┴───────┘
+                        │
+         Protecting wealth = Major objective of the Law
+\`\`\`
+
+---
+
+## 🌳 The Golden Rules of Transactions
+
+### First Rule: The Default Ruling is Permissibility
+
+<div class="quote-box">
+
+**📜 Legal Maxim**
+
+> **"The default ruling in transactions is permissibility and lawfulness, except what evidence indicates is prohibited."**
+
+</div>
+
+**Notice the fundamental difference:**
+
+| Worship | Transactions |
+|---------|--------------|
+| The default is **prohibition** | The default is **permission** |
+| Only legislated by evidence | Permitted unless evidence of prohibition |
+| "Worship as you were taught" | "Transact as you wish except what's forbidden" |
+
+### Second Rule: Muslims are Bound by Their Conditions
+
+<div class="quote-box">
+
+**📜 Hadith of 'Amr ibn 'Awf**
+
+The Prophet ﷺ said:
+
+> **"Muslims are bound by their conditions, except a condition that makes lawful what is unlawful or unlawful what is lawful."**
+
+*(Reported by Abu Dawud)*
+
+</div>
+
+**Meaning:** Agree on whatever you want in the contract, as long as it doesn't contradict the Law.
+
+### Third Rule: No Harm Shall Be Inflicted or Reciprocated
+
+<div class="quote-box">
+
+**📜 Hadith of Abu Sa'id al-Khudri**
+
+The Prophet ﷺ said:
+
+> **"No harm shall be inflicted or reciprocated."**
+
+*(Reported by Ibn Majah)*
+
+</div>
+
+**Practical Applications:**
+
+| Forbidden | Reason |
 |-----------|--------|
-| Sanity | The contract of an insane person is invalid |
-| Discernment | The contract of a discerning child is valid with guardian's permission |
-| Maturity | In major transactions |
-| Free Will | The contract of a coerced person is invalid |
+| ❌ Fraud | Harms the buyer |
+| ❌ Monopoly | Harms society |
+| ❌ Excessive uncertainty | Leads to disputes |
+| ❌ False advertising | Deceives people |
 
-### Conditions of the Formula
+### Fourth Rule: What Matters is Intentions, Not Words
 
-1. **Correspondence** — The offer and acceptance must match
-2. **Continuity** — No long separation between them
-3. **Firmness** — No suspension on a condition
+<div class="quote-box">
 
----
+**📜 Legal Maxim**
 
-## The Prohibitions in Transactions
+> **"What matters in contracts are intentions and meanings, not words and formulations."**
 
-### 1. Usury (Riba)
-- Usury of surplus and usury of delay
-- Among the greatest sins
+</div>
 
-### 2. Uncertainty (Gharar)
-- Excessive ignorance
-- Great risk
-
-### 3. Fraud and Deception
-> The Prophet ﷺ said: "Whoever cheats us is not one of us." [Reported by Muslim]
-
-### 4. Devouring People's Wealth Unjustly
-> Allah تعالى says: {And do not consume your wealth among yourselves unjustly} [Al-Baqarah: 188]
+**Example:** If you call a usurious loan "Islamic financing"... does its ruling change? **No!** What matters is the reality, not the name.
 
 ---
 
-## Study Plan
+## 🏛️ The Pillars of a Contract
 
-In this course, we will study:
-1. The rules of sales and contracts
-2. Prohibited sales
-3. Usury and its rules
-4. Leasing and partnership
-5. Companies and insurance
-6. Contemporary banking transactions
+\`\`\`
+            📝 Pillars of Contract According to the Majority
+                            │
+            ┌───────────────┼───────────────┐
+            │               │               │
+    The Contracting     The Formula     The Subject
+        Parties          (Offer and       Matter
+    (Seller & Buyer)    Acceptance)   (Goods & Price)
+\`\`\`
 
----
+### Conditions for the Contracting Parties
 
-## 📖 Stories from the Salaf: The Honesty of 'Abd ar-Rahman ibn 'Awf رضي الله عنه
+| Condition | Detail | Example |
+|-----------|--------|---------|
+| **Sanity** | Contract of an insane person is invalid | — |
+| **Discernment** | A discerning child can contract with guardian's consent | 10-year-old buying candy |
+| **Maturity** | For major transactions | Real estate sale |
+| **Free will** | Contract of one coerced is invalid | — |
 
-When 'Abd ar-Rahman ibn 'Awf رضي الله عنه migrated to Medina, the Prophet ﷺ made brotherhood between him and Sa'd ibn ar-Rabi' al-Ansari. Sa'd offered to split his wealth with him and to divorce one of his two wives so 'Abd ar-Rahman could marry her.
+### Conditions for the Formula
 
-'Abd ar-Rahman said: **"May Allah bless you in your family and your wealth. Just show me the way to the market."**
-
-He was shown the market of Banu Qaynuqa', and he did not return except with surplus of cheese and butter. He continued going and coming until one day he came with traces of yellow perfume. The Prophet ﷺ asked: "What's this?" He said: I got married. He ﷺ asked: "What did you give her as dowry?" He said: A date-stone's weight of gold.
-
-**The lesson:** 'Abd ar-Rahman ibn 'Awf started from nothing in Medina, but through his understanding of transaction rulings and his honesty in trade, he became one of the wealthiest Companions. Understanding lawful transactions is the foundation of blessed material success.
-
----
-
-## 🎯 Contemporary Cases: Applying Transaction Rules
-
-### Case 1: Working in a Store Selling Mixed Products
-**Question**: Ahmad works in a supermarket that sells both halal and haram products (like alcohol). Is it permissible for him to work there?
-
-**Answer**: ❌ It is not permissible to sell alcohol, carry it, or assist with it, as the Prophet ﷺ said: "Allah has cursed alcohol and its drinker, its server, its seller, its buyer..." If his work involves that, he must seek an alternative. If the store is large and his section doesn't deal with prohibited items, the matter is easier.
-
-### Case 2: Oral Agreement
-**Question**: Khalid agreed orally with his friend to buy his car, then the seller withdrew. Is the agreement binding?
-
-**Answer**: ✅ An oral contract is valid and binding legally when its pillars and conditions are fulfilled. However, written documentation is better to preserve rights and prevent disputes, as Allah تعالى says: {O you who believe! When you contract a debt for a specified term, write it down}.
-
-### Case 3: Selling a Product Before Receiving It
-**Question**: Muhammad bought merchandise from a trader, and before receiving it, he found another buyer willing to pay a higher price, so he sold it to him. What is the ruling?
-
-**Answer**: ❌ It is not permissible to sell merchandise before taking possession of it, as the Prophet ﷺ said: "Whoever buys food, let him not sell it until he takes possession of it." This applies to non-food items according to many scholars.
-
-### Case 4: Adding an Extra Condition
-**Question**: When buying a car, the buyer stipulated that the seller must repair a defect in it. Is this condition valid?
-
-**Answer**: ✅ Yes, this is a valid condition because it is in the interest of the contract, and Muslims are bound by their conditions.
+1. **Concordance** — Offer and acceptance must match
+2. **Continuity** — No long gap between them
+3. **Firmness** — No suspension on an unknown condition
 
 ---
 
-## 💡 Pause and Reflect
+## ⛔ The Four Major Prohibitions
 
-**Question for reflection**: You are selling something with a hidden defect that the buyer won't discover. Will you tell them? Why?
+<div class="scene-box">
 
-**Remember:**
-- Allah sees you when people don't
-- "The truthful, trustworthy merchant will be with the prophets, the truthful, and the martyrs"
-- Blessing is in truthfulness, not in abundance of wealth
-- "Whoever cheats us is not one of us"
+**🚫 Beware of These Four!**
+
+*Every transaction in the world is permissible... unless it falls into one of these four:*
+
+</div>
+
+### 1️⃣ Usury (Riba) — The Greatest Financial Sin
+
+<div class="quote-box">
+
+**📜 The Declaration of War!**
+
+Allah تعالى said:
+
+> **﴿O you who believe! Fear Allah and give up what remains of usury, if you are believers. If you do not, then be informed of a war from Allah and His Messenger﴾**
+
+[Al-Baqarah: 278-279]
+
+</div>
+
+### 2️⃣ Uncertainty (Gharar) — Excessive Ignorance
+
+Such as: selling fish in the water, a bird in the sky, or something completely unknown.
+
+### 3️⃣ Fraud and Deception
+
+<div class="quote-box">
+
+**📜 Hadith of Abu Hurayra**
+
+The Prophet ﷺ passed by a pile of food. He put his hand inside and his fingers touched moisture...
+
+> **"What is this, O owner of the food?"**
+
+He said: Rain touched it, O Messenger of Allah.
+
+> **"Why didn't you put it on top so people could see it? Whoever deceives us is not one of us!"**
+
+*(Sahih Muslim 102)*
+
+</div>
+
+### 4️⃣ Devouring People's Wealth Unjustly
+
+<div class="quote-box">
+
+**📜 Verse from al-Baqarah**
+
+> **﴿And do not devour your wealth among yourselves unjustly﴾**
+
+[Al-Baqarah: 188]
+
+</div>
 
 ---
 
-*My Lord, increase me in knowledge*`;
+## 🎯 Contemporary Cases — Test Your Understanding!
+
+### Case 1: Working in a Supermarket
+
+<div class="scene-box">
+
+**Ahmad** works in a large supermarket. The store sells halal products... **and alcohol too**.
+
+**Question:** Is it permissible to continue working there?
+
+</div>
+
+**Answer:** ❌ It is not permissible to sell alcohol, transport it, or assist in its sale.
+
+<div class="quote-box">
+
+The Prophet ﷺ said: **"Allah has cursed alcohol, the one who drinks it, the one who serves it, the one who sells it, the one who buys it, the one who presses it, the one for whom it's pressed, the one who carries it, and the one to whom it's carried."**
+
+*(Reported by Abu Dawud)*
+
+</div>
+
+**Solution:** If his department doesn't directly deal with forbidden products in a large store, it's easier. Otherwise, he should seek an alternative.
+
+---
+
+### Case 2: The Verbal Agreement
+
+<div class="scene-box">
+
+**Khaled** verbally agreed with his friend to buy his car for $50,000.
+
+Then **the seller backed out** because he found someone who pays more!
+
+**Question:** Is the verbal agreement binding?
+
+</div>
+
+**Answer:** ✅ Yes! A verbal contract is valid and legally binding if its pillars are met.
+
+> But written documentation is preferable: ﴿When you contract a debt for a specified term, **write it down**﴾
+
+---
+
+### Case 3: Selling Before Taking Possession
+
+<div class="scene-box">
+
+**Muhammad** bought merchandise from a merchant for $10,000.
+
+**Before receiving it**, he found a buyer who wants it for $12,000!
+
+He immediately sold it to him and made $2,000 without even seeing it!
+
+**Question:** What is the ruling?
+
+</div>
+
+**Answer:** ❌ It is not permissible to sell what you bought before taking possession of it.
+
+<div class="quote-box">
+
+The Prophet ﷺ said: **"Whoever buys food, let him not sell it until he has taken possession of it."**
+
+*(Reported by al-Bukhari and Muslim)*
+
+</div>
+
+---
+
+### Case 4: The Additional Condition
+
+<div class="scene-box">
+
+When buying a car, **the buyer** stipulated that the seller must fix an air conditioning defect.
+
+**Question:** Is this condition valid?
+
+</div>
+
+**Answer:** ✅ Yes, it is a valid condition. Because it serves the interest of the contract, **and Muslims are bound by their conditions**.
+
+---
+
+## 📚 Course Outline
+
+| No. | Topic | What Will You Learn? |
+|-----|-------|---------------------|
+| 1 | Introduction to Transactions | ✅ You are here! |
+| 2 | Rules of Sale | Pillars and conditions of sale |
+| 3 | Conditions of Sale | What is valid and what is not |
+| 4 | Prohibited Sales | Sales to avoid |
+| 5 | Options (Khiyarat) | The right to cancel |
+| 6-7 | Usury (Riba) | Its types and rulings ⚠️ |
+| 8 | Currency Exchange | Exchanging currencies |
+| 9 | Leasing (Ijara) | Rental contracts |
+| 10-11 | Mudaraba & Musharaka | Islamic investment |
+| 12 | Salam & Istisna' | Forward sales |
+| 13 | Loans & Pledges | Debts and their guarantees |
+| 14 | Insurance | Is it permissible? |
+| 15 | Banking Transactions | Islamic banks |
+
+---
+
+## 💎 Lesson Summary
+
+| Element | Detail |
+|---------|--------|
+| **Definition of transactions** | Rules pertaining to financial exchanges |
+| **Their default ruling** | Permissibility unless prohibited |
+| **The golden rules** | 4 fundamental rules |
+| **Major prohibitions** | Usury, uncertainty, fraud, injustice |
+| **Pillars of contract** | Contracting parties, formula, subject matter |
+
+---
+
+## 🤔 Pause and Reflect
+
+<div class="scene-box">
+
+**Question to ponder:**
+
+How many financial transactions have you made today?
+
+☕ Morning coffee... 🍽️ Lunch... 📱 Phone top-up... 🛒 Shopping...
+
+**Have you verified that all of them are lawful?**
+
+</div>
+
+<div class="quote-box">
+
+**📜 Always Remember**
+
+> **"Every body nourished by the unlawful, the Fire has more right to it."**
+
+*Lawful money is a blessing... and unlawful money is a calamity!*
+
+</div>
+
+---
+
+**O Lord, increase me in knowledge!** 📖`;
