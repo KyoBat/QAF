@@ -1,494 +1,1074 @@
-export const contentEn = `# Contemporary Banking Transactions — Fiqh of Islamic Banks
+export const contentEn = `# Contemporary Banking Transactions — Jurisprudence of Islamic Banks
 
-## Introduction to Banks
+<div class="scene-box">
 
-### Definition of Bank
+**🎬 Scene: In the Islamic Bank Manager's Office**
 
-**Linguistic Meaning:**
-Masraf: from sarf (exchange), meaning conversion.
+*A young man enters the Islamic bank manager's office, looking perplexed...*
 
-**Technical Meaning:**
-> A financial institution that accepts deposits, provides loans, and offers various financial services.
+**The Young Man:** As-salamu alaykum sir... I am very confused!
 
----
+**The Manager:** Wa alaykum as-salam, please come in. What is troubling you?
 
-### Difference Between Conventional and Islamic Banks
+**The Young Man:** I want to buy a house. The conventional bank gives me a loan at 5% interest, and you offer me Murabaha with 7% profit... Aren't you more expensive?! And how can you say you are halal and they are haram when the result is the same?!
 
-| Conventional Banks | Islamic Banks |
-|-------------------|---------------|
-| Work with interest (riba) | Work with Shariah-compliant contracts |
-| Fixed guaranteed interest | Shared profit and loss |
-| No religious supervision | Shariah committee for supervision |
-| Financing by lending | Financing by sale, leasing, and partnership |
+**The Manager:** *(smiling)*
+This is a question many ask... Listen, my son:
+- **The conventional bank** lends you money and takes interest on the money ← This is **explicit riba**
+- **We** buy the house and own it, then sell it to you with profit ← This is **lawful sale**
 
----
+**The Young Man:** But the final result is that I pay more!
 
-## Islamic Financing Formulas
+**The Manager:** The material result may be similar, but the **reality of the contract** is completely different:
+- In riba: you pay money for money ← **Forbidden by Sharia**
+- In sale: you pay money for a commodity ← **Permitted by Sharia**
 
-### First Formula: Murabaha for the Purchase Orderer
+*And Allah does not look only at the result, but at the reality of the transaction.*
 
-**Definition:**
-> The customer asks the bank to buy a specific item and promises to purchase it from them with a known profit.
-
-**Steps of Murabaha:**
-
-1. Customer identifies the desired item
-2. Bank purchases the item and owns it
-3. Bank sells it to the customer with known profit
-4. Customer pays the price (cash or installments)
-
-**Validity conditions:**
-
-| Condition | Explanation |
-|-----------|-------------|
-| Bank's ownership | Bank must own the item before selling it |
-| Bank's receipt | Bank must receive the item actually or constructively |
-| Bank bears risks | Bank assumes destruction risk before sale |
-| Promise non-binding | Promise to buy is not binding according to majority |
-
-**What is prohibited:**
-
-- Selling the item before owning it
-- Authorizing the customer to buy for themselves
-- Obligating the customer to buy before ownership
+</div>
 
 ---
 
-### Second Formula: Lease-to-Own
+## Part One: Understanding Banks
 
-**Definition:**
-> A lease contract where the lessor commits to transfer ownership to the lessee at the end of the period, or gives them the option.
+### Definition of the Bank (al-Masraf)
 
-**Its lawful forms:**
+<div class="quote-box">
 
-**1. Lease with promise of gift:**
-- Independent lease contract
-- Promise to gift the item at the end
-- Transfer by separate gift contract
+**📜 Technical Definition**
 
-**2. Lease with promise of sale:**
-- Independent lease contract
-- Promise to sell the item at symbolic price
-- Transfer by separate sale contract
+**Linguistically:**
+Al-Masraf: comes from **as-Sarf**, meaning exchange and conversion.
 
-**The conditions:**
+**Technically:**
+> **A financial institution that accepts deposits, provides financing, and offers various financial services.**
 
-1. Separation of lease contract from transfer contract
-2. Lessor bears destruction risk throughout the period
-3. Rent must be at market price
-4. Not obligating lessee to buy
+</div>
 
----
-
-### Third Formula: Diminishing Partnership
-
-**Definition:**
-> A partnership between bank and customer in a specific asset, where the customer gradually buys the bank's share.
-
-**Practical application:**
-
-1. Bank and customer buy property together (e.g., bank 80%, customer 20%)
-2. Customer lives in property and pays rent for bank's share
-3. Periodically, customer buys part of bank's share
-4. At the end, customer owns the entire property
-
-**The conditions:**
-
-| Condition | Explanation |
-|-----------|-------------|
-| Real partnership | Both bear profit and loss |
-| Rent at market price | Not fictitious |
-| Sale by separate contract | Each sale by independent contract |
-| Proportional risks | Each partner assumes according to their share |
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│                    Functions of Banks                       │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   💰 1. Accepting Deposits                                  │
+│       ════════════════════                                  │
+│       Safeguarding clients' money and allowing withdrawal   │
+│                                                             │
+│   📊 2. Providing Financing                                 │
+│       ═════════════════════                                 │
+│       Financing projects and individuals                    │
+│                                                             │
+│   💳 3. Financial Services                                  │
+│       ══════════════════════                                │
+│       Transfers, cards, letters of guarantee                │
+│                                                             │
+│   📈 4. Investment                                          │
+│       ═══════════                                           │
+│       Investing and growing funds                           │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
 
 ---
 
-### Fourth Formula: Istisna'
+### The Fundamental Difference: Conventional vs Islamic Banks
 
-Detailed in the Salam and Istisna' lesson.
+<div class="quote-box">
 
-**Its application in banks:**
-- Financing real estate construction
-- Financing equipment manufacturing
-- Financing construction projects
+**📜 Prophetic Warning**
+
+> The Prophet ﷺ said: **"Allah has cursed the one who consumes riba, the one who pays it, the one who writes it, and the witnesses"**
+>
+> [Muslim]
+
+Conventional banks are based on **riba**, while Islamic banks are based on **sale and partnership**.
+
+</div>
+
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│       Comparison: Conventional vs Islamic Banks             │
+├───────────────────────────────┬─────────────────────────────┤
+│       Conventional Banks      │       Islamic Banks         │
+├───────────────────────────────┼─────────────────────────────┤
+│ ❌ Operate with interest      │ ✅ Operate with Sharia-     │
+│    (riba)                     │    compliant contracts      │
+├───────────────────────────────┼─────────────────────────────┤
+│ ❌ Fixed guaranteed interest  │ ✅ Shared profit and loss   │
+├───────────────────────────────┼─────────────────────────────┤
+│ ❌ No Sharia oversight        │ ✅ Sharia supervisory       │
+│                               │    board                    │
+├───────────────────────────────┼─────────────────────────────┤
+│ ❌ Financing through          │ ✅ Financing through sale   │
+│    interest-bearing loans     │    and lease                │
+├───────────────────────────────┼─────────────────────────────┤
+│ ❌ Money generates money      │ ✅ Money invested through   │
+│                               │    work                     │
+├───────────────────────────────┼─────────────────────────────┤
+│ ❌ Haram by scholarly         │ ✅ Halal according to       │
+│    consensus                  │    Sharia rules             │
+└───────────────────────────────┴─────────────────────────────┘
+\`\`\`
 
 ---
 
-## Bank Accounts
+## Part Two: Islamic Financing Modes
+
+<div class="scene-box">
+
+**🎬 Scene: A Study Circle at the Mosque**
+
+**The Student:** O Sheikh, how do Islamic banks finance if they don't lend with interest?
+
+**The Sheikh:** Excellent question! Islamic banks don't lend, they **trade**.
+
+**The Student:** What do you mean?
+
+**The Sheikh:** Instead of giving you money that you return with a surplus, **I buy the goods and sell them to you with profit**.
+
+**The Student:** But in the end I pay more!
+
+**The Sheikh:** Yes, but the difference is in **the reality of the contract**:
+- **Loan with interest** = money for money ← forbidden riba
+- **Sale with profit** = commodity for money ← lawful trade
+
+*Allah says: ﴾Allah has permitted trade and forbidden riba﴿*
+
+</div>
+
+---
+
+### First Mode: Murabaha with Purchase Order
+
+<div class="quote-box">
+
+**📜 Definition of Murabaha**
+
+> **The client requests the bank to purchase a specific item, and promises to buy it from them with a known profit margin.**
+>
+> That is: I request from the bank ← The bank buys and owns ← It sells to me with profit
+
+</div>
+
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│                    Steps of Murabaha                        │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   ┌─────────┐    ┌─────────┐    ┌─────────┐    ┌─────────┐  │
+│   │    1    │───▶│    2    │───▶│    3    │───▶│    4    │  │
+│   └────┬────┘    └────┬────┘    └────┬────┘    └────┬────┘  │
+│        │              │              │              │       │
+│        ▼              ▼              ▼              ▼       │
+│   ┌─────────┐    ┌─────────┐    ┌─────────┐    ┌─────────┐  │
+│   │ Client  │    │ Bank    │    │ Bank    │    │ Client  │  │
+│   │specifies│    │ buys    │    │ sells   │    │ pays    │  │
+│   │ the     │    │ and     │    │ with    │    │ the     │  │
+│   │ item    │    │ owns    │    │ profit  │    │ price   │  │
+│   └─────────┘    └─────────┘    └─────────┘    └─────────┘  │
+│                                                             │
+│   📍 The Key: The bank actually owns the item before        │
+│               the sale!                                     │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
+
+#### Conditions for Valid Murabaha
+
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│              Conditions for Valid Murabaha                  │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   1️⃣ Bank's ownership of the item                          │
+│       ══════════════════════════                            │
+│       The bank must own the item before selling it          │
+│       ❌ It is forbidden to sell what you don't own         │
+│                                                             │
+│   2️⃣ Bank's possession of the item                         │
+│       ═══════════════════════════                           │
+│       The bank must take possession (actual or legal)       │
+│                                                             │
+│   3️⃣ Bank bears the risks                                  │
+│       ════════════════════                                  │
+│       The bank bears the risks of loss before sale          │
+│       (Profit follows responsibility)                       │
+│                                                             │
+│   4️⃣ The promise is not binding                            │
+│       ══════════════════════════                            │
+│       The purchase promise is not obligatory according      │
+│       to the majority - The client can withdraw             │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
+
+#### Prohibited Practices in Murabaha
+
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│               Prohibited Practices in Murabaha              │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   ❌ Selling the item before owning it                      │
+│       ═══════════════════════════════                       │
+│       The Prophet ﷺ said: "Do not sell what you             │
+│       do not possess"                                       │
+│                                                             │
+│   ❌ Authorizing the client to buy for himself              │
+│       ═════════════════════════════════════                 │
+│       Forbidden 'Inah: bank authorizes client to buy        │
+│       then sells it to him ← Usurious subterfuge            │
+│                                                             │
+│   ❌ Obligating the client to buy before possession         │
+│       ═════════════════════════════════════════             │
+│       The promise becomes binding only after the bank       │
+│       takes possession                                      │
+│                                                             │
+│   ❌ Usurious late payment penalties                        │
+│       ═══════════════════════════════                       │
+│       Proportional penalty on late payment = riba           │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
+
+---
+
+### Second Mode: Ijara Muntahiya bi at-Tamlik (Lease-to-Own)
+
+<div class="quote-box">
+
+**📜 Definition**
+
+> **A lease contract where the lessor commits to transfer ownership of the asset to the lessee at the end of the period, or gives them the option.**
+>
+> That is: I rent now ← I pay installments ← I own at the end
+
+</div>
+
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│               Forms of Lease-to-Own                         │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   📍 First Form: Lease with promise of gift                 │
+│   ══════════════════════════════════════════                │
+│   • Independent lease contract                              │
+│   • Promise to gift the asset at the end                    │
+│   • Ownership transfer through separate gift contract       │
+│                                                             │
+│   📍 Second Form: Lease with promise of sale                │
+│   ═══════════════════════════════════════════               │
+│   • Independent lease contract                              │
+│   • Promise to sell the asset at nominal price at end       │
+│   • Ownership transfer through separate sale contract       │
+│                                                             │
+│   ⚠️ The Key: Separate the lease contract from the          │
+│               ownership contract                            │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
+
+#### Conditions for Valid Lease-to-Own
+
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│            Conditions for Lease-to-Own                      │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   1️⃣ Separation of the lease contract from the ownership   │
+│       contract - Two separate contracts, not one            │
+│                                                             │
+│   2️⃣ The lessor bears the risks of loss throughout         │
+│       the lease period                                      │
+│       The asset belongs to them, they bear its risks        │
+│                                                             │
+│   3️⃣ The rent must be at market rate                       │
+│       No excessive rent to disguise interest                │
+│                                                             │
+│   4️⃣ Not obligating the lessee to purchase                 │
+│       The promise is not binding on the lessee              │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
+
+---
+
+### Third Mode: Musharaka Mutanaqisa (Diminishing Partnership)
+
+<div class="quote-box">
+
+**📜 Definition**
+
+> **A partnership between the bank and client on a specific asset, where the client gradually buys the bank's share until they own the asset completely.**
+
+</div>
+
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│           Diminishing Partnership - Practical Example       │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   📍 Example: Buying a house                                │
+│   ══════════════════════════                                │
+│                                                             │
+│   ┌───────────────────────────────────────────────────┐     │
+│   │ Start: Bank 80% │ Client 20%                      │     │
+│   └───────────────────────────────────────────────────┘     │
+│                         │                                   │
+│                         ▼                                   │
+│   ┌───────────────────────────────────────────────────┐     │
+│   │ Year 2: Bank 60% │ Client 40%                     │     │
+│   └───────────────────────────────────────────────────┘     │
+│                         │                                   │
+│                         ▼                                   │
+│   ┌───────────────────────────────────────────────────┐     │
+│   │ Year 5: Bank 20% │ Client 80%                     │     │
+│   └───────────────────────────────────────────────────┘     │
+│                         │                                   │
+│                         ▼                                   │
+│   ┌───────────────────────────────────────────────────┐     │
+│   │ End: Client 100% full owner 🏠                    │     │
+│   └───────────────────────────────────────────────────┘     │
+│                                                             │
+│   📍 During partnership: client pays rent for bank's share  │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
+
+#### Conditions for Valid Diminishing Partnership
+
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│           Conditions for Diminishing Partnership            │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   1️⃣ The partnership must be genuine                       │
+│       ════════════════════════════                          │
+│       Both share profits and losses                         │
+│       Not a disguised loan                                  │
+│                                                             │
+│   2️⃣ Rent at market rate                                   │
+│       ═════════════════════                                 │
+│       Not fictitious or excessive                           │
+│                                                             │
+│   3️⃣ Sale through independent contract                     │
+│       ═══════════════════════════════                       │
+│       Each share purchase through separate contract         │
+│                                                             │
+│   4️⃣ Risk sharing proportionally                           │
+│       ══════════════════════════                            │
+│       Each partner bears according to their share           │
+│       (If house collapses: Bank 80%, Client 20%)            │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
+
+---
+
+### Fourth Mode: Banking Istisna' (Manufacture Contract)
+
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│                   Banking Istisna'                          │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   📍 Definition: Contract to manufacture something          │
+│                  according to defined specifications        │
+│                                                             │
+│   📍 Application in banks:                                  │
+│   ═════════════════════════                                 │
+│   • Financing real estate construction                      │
+│   • Financing equipment manufacturing                       │
+│   • Financing construction projects                         │
+│                                                             │
+│   📍 Mechanism:                                             │
+│   ═══════════                                               │
+│   Client ◄── requests construction to specifications       │
+│   Bank ◄── contracts with contractor (parallel Istisna')   │
+│   Contractor ◄── executes and delivers to bank             │
+│   Bank ◄── delivers to client with profit                  │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
+
+---
+
+## Part Three: Bank Accounts
 
 ### First: Current Account
 
-**Definition:**
-> A demand deposit that the customer can withdraw whenever they want.
+<div class="quote-box">
+
+**📜 Definition**
+
+> **A demand deposit that the client can withdraw at any time without prior notice.**
 
 **Legal qualification:**
-- Loan from customer to bank
-- Bank guarantees repayment on demand
-- It is forbidden to pay interest on it
+- **Loan** from the client to the bank
+- The bank **guarantees** repayment on demand
+- **Forbidden** to pay interest on it
 
-**Ruling:**
-Permissible on condition of not taking interest.
+</div>
+
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│                     Current Account                         │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   ┌─────────────────────────────────────────────────────┐   │
+│   │        Client ────── 💰 ──────▶ Bank                │   │
+│   │                                                     │   │
+│   │   • Deposits money      • Uses it in operations    │   │
+│   │   • Withdraws anytime   • Guarantees repayment     │   │
+│   │   • No interest for him   on demand                │   │
+│   │                         • No interest to pay       │   │
+│   └─────────────────────────────────────────────────────┘   │
+│                                                             │
+│   ✅ Ruling: Permissible on condition of no interest        │
+│              taken or given                                 │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
 
 ---
 
 ### Second: Investment Account
 
-**Definition:**
-> An investment deposit that the bank invests through mudarabah contract.
+<div class="quote-box">
+
+**📜 Definition**
+
+> **An investment deposit that the bank invests through a Mudaraba contract.**
 
 **Legal qualification:**
-- Customer: capital owner
-- Bank: the mudarib
+- The client = **the capital owner (Rabb al-Mal)**
+- The bank = **the manager (Mudarib)**
 - Profit according to agreement, loss on capital
 
-**Validity conditions:**
+</div>
 
-1. No guarantee of capital
-2. No guarantee of determined profit percentage
-3. Profit distribution by percentage, not fixed amount
-4. Investment of funds in lawful activities
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│                   Investment Account                        │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   ┌─────────────────────────────────────────────────────┐   │
+│   │ Client (Rabb al-Mal)       Bank (Mudarib)           │   │
+│   │        │                         │                  │   │
+│   │        │────── 💰 Capital ──────▶│                  │   │
+│   │        │                         │                  │   │
+│   │        │                    Invests                 │   │
+│   │        │                         │                  │   │
+│   │        │◄───── 📊 Profits ───────│                  │   │
+│   └─────────────────────────────────────────────────────┘   │
+│                                                             │
+│   📍 Profit distribution: according to agreement            │
+│      (e.g., 70% client, 30% bank)                           │
+│   📍 Loss: on capital (client) unless bank's fault          │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
+
+#### Conditions for Valid Investment Account
+
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│           Conditions for Investment Account                 │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   1️⃣ No capital guarantee                                  │
+│       If bank guarantees capital ← becomes interest loan    │
+│                                                             │
+│   2️⃣ No guarantee of fixed profit rate                     │
+│       Profit may increase, decrease, or be nil              │
+│                                                             │
+│   3️⃣ Profit distribution by percentage, not fixed amount   │
+│       ✅ 70% for client, 30% for bank                       │
+│       ❌ 1000 riyals per month for client                   │
+│                                                             │
+│   4️⃣ Invest funds in permissible ways                      │
+│       ❌ Bank must not invest in haram                      │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
 
 ---
 
 ### Third: Savings Account
 
-**Qualification:**
-- Either loan (like current account)
-- Or mudarabah (like investment account)
-
-**Ruling:**
-According to the nature of the contract with the bank.
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│                     Savings Account                         │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   📍 Qualification: According to the nature of the          │
+│                     contract with the bank                  │
+│                                                             │
+│   ┌───────────────────┬───────────────────┐                 │
+│   │   If it is        │   It is treated   │                 │
+│   ├───────────────────┼───────────────────┤                 │
+│   │Loan with interest │ ❌ Haram (riba)   │                 │
+│   │Loan without intst │ ✅ Halal          │                 │
+│   │ Mudaraba          │ ✅ Halal with     │                 │
+│   │                   │    its conditions │                 │
+│   └───────────────────┴───────────────────┘                 │
+│                                                             │
+│   ⚠️ Warning: Savings accounts in conventional banks        │
+│      are usually riba!                                      │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
 
 ---
 
-## Bank Cards
+## Part Four: Bank Cards
 
 ### First: ATM Card
 
-**Definition:**
-Card for withdrawing from account via ATM machines.
-
-**Ruling:**
-Permissible, it is a means to withdraw owned money.
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│                      ATM Card                               │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   📍 Definition: Card to withdraw from account via          │
+│                  ATM machines                               │
+│                                                             │
+│   📍 Its nature: Means to receive one's own money           │
+│                                                             │
+│   ✅ Ruling: Permissible                                    │
+│                                                             │
+│   📍 Commission: Permissible if for a real service          │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
 
 ---
 
 ### Second: Debit Card
 
-**Definition:**
-Payment card debited directly from account.
-
-**Ruling:**
-Permissible, and commission is permissible if for a real service.
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│                      Debit Card                             │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   📍 Definition: Payment card debited directly from         │
+│                  the account                                │
+│                                                             │
+│   📍 Mechanism:                                             │
+│       Client buys ◄── Merchant swipes the card              │
+│       ◄── Amount is debited immediately from account        │
+│                                                             │
+│   ✅ Ruling: Permissible                                    │
+│                                                             │
+│   📍 Commission: Permissible if for a real service          │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
 
 ---
 
 ### Third: Credit Card
 
-**Definition:**
-Card allowing purchase on credit with later payment.
+<div class="scene-box">
 
-**Its types:**
+**🎬 Scene: Consultation about the Visa Card**
 
-**1. Card without interest:**
-- Full payment before due date
-- No interest or penalties
+**The Questioner:** O Sheikh, I have a Visa card from a conventional bank. I use it and pay the full amount before the end of the month, so I don't pay interest. What is the ruling?
 
-**Ruling:** Permissible
+**The Sheikh:** This issue has scholarly disagreement...
 
-**2. Card with interest:**
-- Interest on payment delay
-- Interest on installments
+**The Questioner:** What is it?
 
-**Ruling:** Prohibited
+**The Sheikh:**
+- **Those who forbid** say: The contract contains the interest clause for late payment, so it's a usurious contract
+- **Those who permit** say: If you commit to paying in full and don't actually pay interest, there's no harm
 
-**The Islamic alternative:**
-- Islamic credit cards
-- Fixed fees instead of interest
-- Shariah committee supervising operations
+**The Questioner:** What do you advise me?
+
+**The Sheikh:** **The safest** is to use Islamic bank cards, which charge fixed fees instead of interest.
+
+</div>
+
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│              Credit Cards - Types and Ruling                │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   📍 First Type: Card without interest                      │
+│   ════════════════════════════════════                      │
+│   • Full payment before due date                            │
+│   • No interest or penalties                                │
+│   ✅ Ruling: Permissible                                    │
+│                                                             │
+│   📍 Second Type: Card with interest                        │
+│   ═════════════════════════════════                         │
+│   • Interest on late payment                                │
+│   • Interest on installments                                │
+│   ❌ Ruling: Forbidden                                      │
+│                                                             │
+│   📍 The Islamic alternative:                               │
+│   ═══════════════════════════                               │
+│   • Islamic bank cards                                      │
+│   • Fixed fees instead of interest                          │
+│   • Sharia committee supervises operations                  │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
 
 ---
 
-## Banking Services
+## Part Five: Banking Services
 
-### First: Money Transfers
+### First: Wire Transfers
 
-**Definition:**
-Transferring money from one place to another or from one currency to another.
-
-**Qualification:**
-- If same currency: paid agency
-- If different currency: exchange and agency
-
-**The conditions:**
-1. Simultaneous receipt for currency exchange (even constructively)
-2. Commission must be for real service
-3. No delay in funds arriving without excuse
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│                    Wire Transfers                           │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   📍 Definition: Transferring money from one place to       │
+│                  another or from one currency to another    │
+│                                                             │
+│   📍 Legal qualification:                                   │
+│   ═══════════════════════                                   │
+│   ┌───────────────────────────────────────────────────┐     │
+│   │ Same currency ◄── Paid agency                     │     │
+│   │ Different currency ◄── Currency exchange + agency │     │
+│   └───────────────────────────────────────────────────┘     │
+│                                                             │
+│   📍 Conditions:                                            │
+│   ═══════════════                                           │
+│   1. Immediate exchange for currencies (even virtual)       │
+│   2. Commission for a real service                          │
+│   3. No unjustified delay in transfer                       │
+│                                                             │
+│   ✅ Ruling: Permissible with the proper conditions         │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
 
 ---
 
 ### Second: Letters of Guarantee
 
-**Definition:**
-> Written commitment from the bank to pay a specified amount to the beneficiary on demand.
+<div class="quote-box">
 
-**Legal qualification:**
-Guarantee, and the bank is guarantor.
+**📜 Definition**
 
-**Ruling on commission:**
-- If for administrative expenses: permissible
-- If percentage of guaranteed amount: controversial
+> **A written commitment from the bank to pay a specified amount to the beneficiary upon demand.**
+>
+> Legal qualification: **Kafala (guarantee)**, and the bank is the **guarantor**.
 
----
+</div>
 
-### Third: Letters of Credit
-
-**Definition:**
-> Bank's commitment to pay the seller upon delivery of documents.
-
-**Qualification:**
-- Paid agency (bank is agent for payment)
-- Guarantee (bank guarantees payment)
-
-**Ruling:**
-Permissible according to Shariah guidelines.
-
----
-
-## Prohibitions in Islamic Banks
-
-### First: Usurious Interest
-
-**Its forms:**
-- Interest on loans
-- Interest on delays
-- Interest on accounts
-
-**Ruling:**
-Absolutely prohibited by the Quran, Sunna, and consensus.
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│                  Letters of Guarantee                       │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   📍 Mechanism:                                             │
+│   ═══════════                                               │
+│   Client ◄── requests letter of guarantee from bank        │
+│   Bank ◄── issues letter committing to pay                 │
+│   Beneficiary ◄── is assured the amount is guaranteed      │
+│                                                             │
+│   📍 Commission ruling:                                     │
+│   ════════════════════                                      │
+│   ┌───────────────────────────────────────────────────┐     │
+│   │ For administrative costs ◄── ✅ Permissible       │     │
+│   │ Percentage of guaranteed amount ◄── ⚠️ Disputed   │     │
+│   └───────────────────────────────────────────────────┘     │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
 
 ---
 
-### Second: Excessive Uncertainty
+### Third: Documentary Credits
 
-**Definition:**
-Great ignorance in contracts.
-
-**Its applications:**
-- Ambiguous contracts
-- Unclear conditions
-- Uncalculated risks
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│                  Documentary Credits                        │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   📍 Definition: Bank's commitment to pay the seller        │
+│                  against delivery of documents              │
+│                  (in international trade)                   │
+│                                                             │
+│   📍 Mechanism:                                             │
+│   ═══════════                                               │
+│   Importer ◄── requests bank to open a credit              │
+│   Bank ◄── commits to pay exporter against documents       │
+│   Exporter ◄── ships goods and delivers documents          │
+│   Bank ◄── pays exporter, collects from importer           │
+│                                                             │
+│   📍 Qualification: Paid agency + Guarantee                 │
+│   ✅ Ruling: Permissible according to Sharia rules          │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
 
 ---
 
-### Third: Prohibited Financing
+## Part Six: Prohibitions in Islamic Banking
 
-**Its forms:**
-- Financing prohibited projects
-- Buying shares of prohibited companies
-- Investing in usurious bonds
+<div class="quote-box">
+
+**📜 The Severe Warning**
+
+> Allah says: ﴾Those who consume riba will not stand except as one stands whom Satan has touched with madness﴿
+>
+> [Al-Baqara: 275]
+
+And the Prophet ﷺ said: **"Riba has 73 doors, the least of which is like a man marrying his own mother"**
+
+</div>
+
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│            Prohibitions in Islamic Banking                  │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   ❌ First: Usurious interest                               │
+│   ═══════════════════════════                               │
+│   • Interest on loans                                       │
+│   • Late payment interest                                   │
+│   • Interest on accounts                                    │
+│   📍 Ruling: Categorically forbidden by Quran, Sunnah,      │
+│              and consensus                                  │
+│                                                             │
+│   ❌ Second: Excessive uncertainty (Gharar)                 │
+│   ══════════════════════════════════════════                │
+│   • Ambiguous contracts                                     │
+│   • Unclear clauses                                         │
+│   • Uncalculated risks                                      │
+│                                                             │
+│   ❌ Third: Forbidden financing                             │
+│   ═════════════════════════════                             │
+│   • Financing forbidden projects (alcohol, gambling...)     │
+│   • Buying shares of forbidden companies                    │
+│   • Investing in usurious bonds                             │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
 
 ---
 
 ## Criteria for Choosing an Islamic Bank
 
-1. **Existence of an independent Shariah committee** supervising operations
-2. **Transparency** in contracts and operations
-3. **Compliance with Shariah standards** issued by fiqh academies
-4. **Separation of funds** between different accounts
-5. **Periodic Shariah audit** of operations
-
----
-
-## Important Fatwas
-
-### Dealing with Usurious Banks
-
-**Question:** Is it permissible to open an account in a usurious bank?
-
-**Answer:**
-- In principle: not permissible
-- By necessity: permissible only for current account
-- Must dispose of any interest through charity
-
-### Loans from Islamic Banks
-
-**Question:** Are loans from Islamic banks halal?
-
-**Answer:**
-- Islamic banks don't lend, they finance
-- Financing is through sale, leasing, or partnership
-- Must ensure the contract conforms to Shariah
-
-### Fees and Commissions
-
-**Question:** Are commissions in Islamic banks usury?
-
-**Answer:**
-- Commission for real service: permissible
-- Commission based on amount and duration: disguised usury
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│          Criteria for Choosing an Islamic Bank              │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   1️⃣ Presence of an independent Sharia committee           │
+│       ══════════════════════════════════════════            │
+│       That supervises operations and issues fatwas          │
+│                                                             │
+│   2️⃣ Transparency in contracts and operations              │
+│       ═══════════════════════════════════════════           │
+│       Clear contracts, no hidden clauses                    │
+│                                                             │
+│   3️⃣ Compliance with Sharia standards from academies       │
+│       ═══════════════════════════════════════════════       │
+│       AAOIFI standards and Islamic Fiqh Academy             │
+│                                                             │
+│   4️⃣ Separation of funds between different accounts        │
+│       ════════════════════════════════════════════          │
+│       Mudaraba funds separated from bank's own funds        │
+│                                                             │
+│   5️⃣ Periodic Sharia audit of operations                   │
+│       ══════════════════════════════════                    │
+│       Annual review by the Sharia committee                 │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
 
 ---
 
 ## 📖 Stories from the Salaf
 
-### Imam Ibn Taymiyyah's Position on Money Exchange
+<div class="scene-box">
 
-**Shaykh al-Islam Ibn Taymiyyah** رحمه الله was asked about money changers who lend people with surplus, and he said:
+**🎬 Sheikh al-Islam Ibn Taymiyya's Position on Money Changing**
 
-> "This is the usury upon which the Ummah is unanimous in its prohibition, and it is among the major sins. The Prophet ﷺ cursed the consumer of usury, its payer, its recorder, and its witnesses."
+*Sheikh al-Islam Ibn Taymiyya رحمه الله was asked about money changers who lend to people with a surplus...*
 
-Then he said رحمه الله:
+**Ibn Taymiyya رحمه الله:**
+> This is the **riba** upon whose prohibition the Ummah has agreed, and it is among the **greatest sins**. The Prophet ﷺ cursed the one who consumes riba, the one who pays it, the one who writes it, and its witnesses.
 
-> "As for one who lends a good loan without stipulating any surplus, this is among the best deeds, and they have a great reward with Allah."
+Then he رحمه الله said:
+> As for the one who gives a **benevolent loan** without a condition of surplus, this is among the **best of deeds**, and he has a great reward with Allah.
 
-**The lesson:** The fundamental difference between good loan and usury is the **stipulated surplus**.
+**The lesson:** The fundamental difference between a benevolent loan and riba is **the conditioned surplus**.
 
----
-
-### The Beginning of Islamic Banks - An Inspiring Story
-
-In **1963 CE**, the Egyptian economist **Dr. Ahmad al-Najjar** established the first Islamic banking experiment in the village of **Mit Ghamr** in Egypt.
-
-Dr. al-Najjar said:
-
-> "I saw farmers needing financing to buy seeds and equipment, finding only usury. So I said: Why don't we establish a bank that finances through mudarabah and partnership?"
-
-The experiment succeeded and spread throughout the Muslim world, and today the size of Islamic banking **exceeds 3 trillion dollars**.
-
-**The lesson:** Islamic alternatives are possible and successful, but they require will and creativity.
+</div>
 
 ---
 
-### The Position of Fatwa Bodies on Banks
+<div class="scene-box">
 
-In **1965 CE**, the **Islamic Research Academy** of al-Azhar issued a fatwa prohibiting bank interest.
+**🎬 The Beginning of Islamic Banks - An Inspiring Story**
 
-And in **1986 CE**, the **International Islamic Fiqh Academy** issued its decision that:
+*In 1963, in the village of Mit Ghamr in Egypt...*
 
-> "Every surplus or interest on a debt whose term has arrived and the debtor is unable to pay, in exchange for deferment, and likewise the surplus or interest on a loan from the beginning of the contract — these two forms are prohibited usury according to Shariah."
+**Dr. Ahmad An-Najjar** (founder of the first Islamic banking experiment):
+> I saw **farmers** needing financing to buy seeds and equipment, and they found nothing but **riba**.
+>
+> I said to myself: Why don't we create a bank that finances through **Mudaraba and Musharaka**?
+
+**The narrator:**
+The experiment succeeded and spread throughout the Muslim world. Today, the volume of Islamic finance **exceeds $3 trillion**.
+
+**The lesson:** Islamic alternatives are **possible and successful**, but they need determination and creativity.
+
+</div>
+
+---
+
+<div class="scene-box">
+
+**🎬 The Decision of the International Islamic Fiqh Academy**
+
+*In 1986, the International Islamic Fiqh Academy issued its historic decision...*
+
+**Text of the decision:**
+> Any surplus or interest on a debt that has come due and the debtor cannot repay in exchange for its postponement, as well as the surplus or interest on the loan from the beginning of the contract, **these two forms are riba forbidden by Sharia**.
+
+**The lesson:** The collective fatwa of scholars is clear on the prohibition of bank interest.
+
+</div>
 
 ---
 
 ## 🎯 Contemporary Cases
 
-### Case One: Opening an Account in a Usurious Bank
+### Case One: Opening an Account in a Conventional Bank
 
-**Question:** There is no Islamic bank in my country. Is it permissible to open an account in a usurious bank?
-
-**Answer:**
-
-| Situation | Ruling |
-|-----------|--------|
-| Current account without interest | ✅ Permissible for need |
-| Savings account with interest | ❌ Prohibited |
-| Accumulated interest | Must be disposed of in Muslim welfare |
-
-**Disposing of interest:**
-- The poor and needy
-- Hospitals and schools
-- Not counted as charity, but disposal of forbidden money
-
----
-
-### Case Two: Buying a Car in Installments
-
-**Question:** I want to buy a car. The conventional bank gives me a loan at 5% interest. The Islamic bank sells it to me through murabaha at 7% profit. Which should I choose?
-
-**Answer:** ✅ **The Islamic bank** even if more expensive:
-
-| Islamic Murabaha | Usurious Loan |
-|------------------|---------------|
-| Sale contract, price is fixed | Loan contract with interest |
-| No increase with delay (in principle) | Interest accumulates with delay |
-| Bank owns the car first | Bank only lends money |
-| Halal | Absolutely haram |
-
-⚠️ **Warning:** Some "Islamic" banks violate the conditions, so verify:
-- That the bank owns the car before selling it to you
-- Absence of usurious delay penalties
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│  🏦 Case: No Islamic bank in my country                     │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  Question:                                                  │
+│  ══════════                                                 │
+│  There is no Islamic bank in my country.                    │
+│  Is it permissible to open an account in a conventional     │
+│  bank?                                                      │
+│                                                             │
+│  Answer:                                                    │
+│  ══════════                                                 │
+│  ┌───────────────────────────────────────────────────┐      │
+│  │ Current account without interest ◄── ✅ Permiss.  │      │
+│  │                                      by necessity │      │
+│  │ Savings account with interest ◄── ❌ Forbidden    │      │
+│  │ Accumulated interest ◄── Must be disposed of      │      │
+│  └───────────────────────────────────────────────────┘      │
+│                                                             │
+│  📍 How to dispose of interest:                             │
+│  • To the poor and needy                                    │
+│  • To hospitals and schools                                 │
+│  ⚠️ Not counted as charity, but disposal of haram money     │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
 
 ---
 
-### Case Three: Credit Card
+### Case Two: Buying a Car on Installments
 
-**Question:** I have a Visa card from a usurious bank. I use it and pay the full amount before month-end so I pay no interest. What is the ruling?
-
-**Answer:** **There is disagreement among scholars:**
-
-| Opinion | Argument |
-|---------|----------|
-| ❌ Prohibition | The contract includes an interest condition upon delay |
-| ✅ Permission for need | If committed to full payment and pays no interest |
-
-**More cautious:** Use cards from Islamic banks.
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│  🚗 Case: Comparison between conventional and Islamic bank  │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  Question:                                                  │
+│  ══════════                                                 │
+│  I want to buy a car:                                       │
+│  • Conventional bank: loan at 5% interest                   │
+│  • Islamic bank: Murabaha with 7% profit                    │
+│  Which should I choose?                                     │
+│                                                             │
+│  Answer:                                                    │
+│  ══════════                                                 │
+│  ✅ The Islamic bank even if more expensive!                │
+│                                                             │
+│  ┌───────────────────────┬───────────────────────┐          │
+│  │   Islamic Murabaha    │    Usurious Loan      │          │
+│  ├───────────────────────┼───────────────────────┤          │
+│  │Sale contract,         │Loan contract with     │          │
+│  │fixed price            │interest               │          │
+│  │No surplus for delay   │Interest accumulates   │          │
+│  │Bank owns car first    │Bank only lends money  │          │
+│  │ ✅ Halal              │ ❌ Categorically      │          │
+│  │                       │    haram              │          │
+│  └───────────────────────┴───────────────────────┘          │
+│                                                             │
+│  ⚠️ Verify: The bank owns the car before selling to you     │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
 
 ---
 
-### Case Four: Investing in Bank Funds
+### Case Three: Investing in Bank Funds
 
-**Question:** The Islamic bank offers investment funds. Are their profits halal?
-
-**Answer:** ✅ **Halal** if conditions are met:
-
-1. **Shariah supervision:** A Shariah committee oversees investments
-2. **Halal investment:** Funds are invested in permissible projects
-3. **No guarantee of capital:** Profit and loss are shared
-4. **Purification:** If forbidden income exists, it is donated
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│  📊 Case: Islamic bank investment funds                     │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  Question:                                                  │
+│  ══════════                                                 │
+│  The Islamic bank offers investment funds.                  │
+│  Are their profits halal?                                   │
+│                                                             │
+│  Answer:                                                    │
+│  ══════════                                                 │
+│  ✅ Halal if conditions are met:                            │
+│                                                             │
+│  ☑️ Sharia oversight: committee supervising investments     │
+│  ☑️ Halal investment: funds invested in permissible         │
+│     projects                                                │
+│  ☑️ No capital guarantee: shared profits and losses         │
+│  ☑️ Purification: if haram income, donate it to charity     │
+│                                                             │
+│  💡 Request the annual Sharia committee report to verify    │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
 
 ---
 
-### Case Five: Commodity Murabaha (Tawarruq)
+### Case Four: Banking Tawarruq
 
-**Question:** I need cash liquidity. The bank buys metals from the exchange then sells them to me in installments, then authorizes me to sell them immediately. What is the ruling?
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│  💰 Case: Need for cash liquidity                           │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  Question:                                                  │
+│  ══════════                                                 │
+│  I need cash. The bank buys metals from the exchange        │
+│  then sells them to me on installments, then authorizes     │
+│  me to sell them immediately. What is the ruling?           │
+│                                                             │
+│  Answer:                                                    │
+│  ══════════                                                 │
+│  ⚠️ Disagreement among jurists:                             │
+│                                                             │
+│  ┌───────────────┬─────────────────────────────────┐        │
+│  │ ✅ Those who  │ The Fiqh Academy permitted it   │        │
+│  │    permit     │ under conditions                │        │
+│  │ ❌ Those who  │ Consider it a usurious          │        │
+│  │    forbid     │ subterfuge                      │        │
+│  └───────────────┴─────────────────────────────────┘        │
+│                                                             │
+│  📍 Conditions for those who permit:                        │
+│  1. Bank takes possession (actual or legal)                 │
+│  2. Bank doesn't sell to the party it bought from           │
+│  3. The commodity must be real, not fictitious              │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
 
-**Answer:** **Disagreement among jurists:**
+---
 
-| Opinion | Argument |
-|---------|----------|
-| ✅ Permission | The Islamic Fiqh Academy decision permits it with conditions |
-| ❌ Prohibition | Some scholars see it as a usury trick |
+### Case Five: Usurious Car Loan "By Necessity"
 
-**Conditions according to those who permit:**
-1. The bank must receive the commodity actually or constructively
-2. The bank must not sell it to the party it bought from
-3. It must be a real commodity, not fictitious
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│  🚗 Case: No Islamic financing available                    │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  Question:                                                  │
+│  ══════════                                                 │
+│  I need a car for work and there's no Islamic bank.         │
+│  Is it permissible to take a usurious loan by necessity?    │
+│                                                             │
+│  Answer:                                                    │
+│  ══════════                                                 │
+│  ❌ The principle: Usurious loans are forbidden             │
+│                                                             │
+│  📍 Legal necessity = what preserves life                   │
+│  📍 Car for work = need, not necessity in legal sense       │
+│                                                             │
+│  ✅ Alternatives:                                           │
+│  • Save until cash purchase                                 │
+│  • Buy a cheaper used car                                   │
+│  • Rent instead of buying                                   │
+│  • Benevolent loan from family or friends                   │
+│  • Look for Islamic bank in a neighboring city              │
+│                                                             │
+│  💡 Rule: "Hardship does not permit the categorically       │
+│           forbidden"                                        │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
 
 ---
 
 ## 💡 Pause and Reflect
 
-> **Question for reflection:**
+<div class="quote-box">
+
+**📜 Question for Reflection**
+
+> Allah says: ﴾O you who believe! Fear Allah and give up what remains of riba if you are believers ۝ And if you do not, then be warned of war from Allah and His Messenger﴿
 >
-> Allah تعالى says: ﴿Those who consume usury will not stand except like one whom Satan has driven to madness by his touch﴾
+> [Al-Baqara: 278-279]
+
+**Reflect:**
+
+1️⃣ Why is the punishment for consuming riba so severe?
+
+2️⃣ How do usurious transactions affect the individual and society?
+
+3️⃣ What is the role of the Muslim in supporting and developing Islamic alternatives?
+
+**Remember:**
+> The Prophet ﷺ said: "Riba has 73 doors, the least of which is like a man marrying his own mother"
 >
-> - Why is the punishment for consuming usury so severe?
-> - How does usurious dealing affect the individual and society?
-> - What is the Muslim's role in supporting and developing Islamic alternatives?
->
-> **Reflect:** The Prophet ﷺ said: "Usury has seventy-three doors, the least of which is like a man marrying his mother."
->
-> Trivializing usurious dealings "for necessity" without searching for alternatives is negligence in a grave matter.
+> Making light of usurious transactions "by necessity" without seeking alternatives is serious negligence.
+
+**What can you do?**
+- Support Islamic banks by dealing with them
+- Spread awareness of Sharia-compliant alternatives
+- Advocate for establishing Islamic financial institutions in your country
+- Teach your children the difference between halal and haram in money
+
+</div>
 
 ---
 
 ## Lesson Summary
 
-| Formula | Qualification | Ruling |
-|---------|---------------|--------|
-| Murabaha | Sale with known profit | Permissible with conditions |
-| Lease-to-own | Lease + promise | Permissible with conditions |
-| Diminishing partnership | Real partnership | Permissible |
-| Current account | Loan | Permissible without interest |
-| Investment account | Mudarabah | Permissible |
-| Credit card | Loan | Permissible if without interest |
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│                    Lesson Summary                           │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   ┌─────────────────────────┬──────────┬────────────────┐   │
+│   │        Mode             │Qualific. │    Ruling      │   │
+│   ├─────────────────────────┼──────────┼────────────────┤   │
+│   │ Murabaha                │Sale with │ ✅ Permissible │   │
+│   │                         │profit    │    with cond.  │   │
+│   ├─────────────────────────┼──────────┼────────────────┤   │
+│   │ Lease-to-Own            │Lease +   │ ✅ Permissible │   │
+│   │                         │promise   │    with cond.  │   │
+│   ├─────────────────────────┼──────────┼────────────────┤   │
+│   │ Diminishing Partnership │Partnersh.│ ✅ Permissible │   │
+│   ├─────────────────────────┼──────────┼────────────────┤   │
+│   │ Current Account         │ Loan     │ ✅ Permissible │   │
+│   │                         │          │    no interest │   │
+│   ├─────────────────────────┼──────────┼────────────────┤   │
+│   │ Investment Account      │ Mudaraba │ ✅ Permissible │   │
+│   ├─────────────────────────┼──────────┼────────────────┤   │
+│   │ Credit Card             │ Loan     │ ✅ If without  │   │
+│   │                         │          │    interest    │   │
+│   └─────────────────────────┴──────────┴────────────────┘   │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
 
-**Fundamental rules:**
-- Everything containing usury or excessive uncertainty is prohibited
-- Islamic alternative is available for every transaction
-- Religious supervision is necessary to ensure compliance
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│                   Fundamental Rules                         │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   1️⃣ Everything containing riba or excessive gharar        │
+│      is forbidden                                           │
+│                                                             │
+│   2️⃣ Islamic alternatives exist for almost every           │
+│      transaction                                            │
+│                                                             │
+│   3️⃣ Sharia oversight is necessary to verify compliance    │
+│                                                             │
+│   4️⃣ "Halal is more expensive" ← but more blessed          │
+│                                                             │
+│   5️⃣ What matters is the reality of the contract, not      │
+│      the material result                                    │
+│                                                             │
+│   📍 Allah says: ﴾Allah has permitted trade                 │
+│                   and forbidden riba﴿                       │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
 
 ---
 
-*My Lord, increase me in knowledge*
+*Rabbi Zidni 'Ilman — Lord, increase me in knowledge*
 `;

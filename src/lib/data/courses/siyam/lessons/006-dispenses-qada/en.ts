@@ -199,6 +199,152 @@ export const content = `
 
 ---
 
+## 🎯 Contemporary Cases
+
+### 🤰 Case 1: The Pregnant Woman Worried About Her Baby
+
+> **Situation:** Khadija is 6 months pregnant. She feels capable of fasting but is worried about her baby's development. Her doctor says fasting is not medically contraindicated.
+
+**❓ Can she break her fast as a precaution?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Justified fear | Medical consultation needed |
+| Medical opinion | Doctor says it's possible |
+| Mere worry | Not sufficient grounds |
+
+The dispensation is granted in case of **real fear** for the health of mother or baby, not just precaution. If the doctor confirms fasting is possible, she must fast.
+
+> 💡 **Rule:** According to Malikis, if she breaks fast due to justified fear, she only needs to **make up** without additional fidya.
+
+</details>
+
+### 🍼 Case 2: The Breastfeeding Mother
+
+> **Situation:** Fatima is exclusively breastfeeding her 4-month-old baby. She notices her milk decreases when she fasts and the baby cries a lot.
+
+**❓ Can she break her fast?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Exclusive breastfeeding | Baby depends entirely on breast milk |
+| Milk decrease | Observable effect |
+| Impact on child | Crying, hunger of the infant |
+
+The nursing woman may break her fast if she fears for herself or her child. Milk decrease affecting the infant is a legitimate concern.
+
+> 💡 **Rule:** She breaks fast and **makes up after weaning**. According to Malikis, no fidya in addition to making up.
+
+</details>
+
+### 💉 Case 3: The Insulin-Dependent Diabetic
+
+> **Situation:** Ahmed, 55 years old, has Type 2 diabetes and takes insulin. He needs to inject insulin and monitor his blood sugar several times daily. He still wants to fast.
+
+**❓ When does diabetes become a valid excuse?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Type of diabetes | Type 2 with insulin = moderate to high risk |
+| Medical risk | Hypoglycemia, imbalance |
+| Medical opinion | Essential |
+
+Diabetes becomes a valid excuse when:
+1. The doctor explicitly advises against fasting
+2. Past experience shows complications
+3. There is risk to life or permanent damage
+
+| Situation | Status |
+|-----------|--------|
+| Balanced diabetes without risk | Must fast |
+| Moderate risk diabetes | May break + make up |
+| Uncontrollable diabetes | Permanent fidya |
+
+> 💡 **Rule:** **Medical consultation** is obligatory. Insulin injection **does not** invalidate fasting.
+
+</details>
+
+### 📚 Case 4: Exam Period and Mental Exhaustion
+
+> **Situation:** Youssef is a medical student. His final exams fall during Ramadan. He says fasting prevents him from concentrating and he might fail his year.
+
+**❓ Are exams an excuse to break fast?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Mental difficulty | Not recognized as excuse |
+| Fatigue/concentration | Not an illness |
+| Academic stakes | Do not justify breaking fast |
+
+Mental difficulty and intellectual fatigue **are not valid excuses** for breaking fast. Millions of Muslims study and take exams during Ramadan.
+
+| Valid excuse | Invalid excuse |
+|--------------|----------------|
+| Physical illness | Mental fatigue |
+| Travel | Exams |
+| Pregnancy/nursing | Intellectual work |
+
+> 💡 **Rule:** Youssef must fast and **adapt his schedule**: study after Fajr, eat well at Suhur and Iftar.
+
+</details>
+
+### ⏰ Case 5: Deadline for Making Up Missed Days
+
+> **Situation:** Maryam missed 10 days of Ramadan last year. She still hasn't made them up and the new Ramadan is coming in 2 weeks.
+
+**❓ What is the deadline for making up?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Legal deadline | Before the next Ramadan |
+| Days remaining | 2 weeks = 14 days |
+| Days to make up | 10 days |
+
+Maryam can still make up 10 days in 14 days. She must start immediately.
+
+| Situation | Consequence |
+|-----------|-------------|
+| Make up before Ramadan | Making up only |
+| Delay without excuse | Making up + Fidya per day |
+| Delay with excuse (continuous illness) | Making up only |
+
+> 💡 **Rule:** If she doesn't make up in time without valid excuse, she must do **Qada after this Ramadan** + pay **Fidya** (feed 1 poor person per delayed day).
+
+</details>
+
+---
+
+## 💭 Reflection
+
+> *Dispensations are a manifestation of divine mercy. Allah says: "يُرِيدُ اللَّهُ بِكُمُ الْيُسْرَ وَلَا يُرِيدُ بِكُمُ الْعُسْرَ" — Allah intends for you ease and does not intend for you hardship. However, this ease should not become a pretext for abandoning worship. The believer must sincerely seek to fulfill their duty while recognizing their real limitations.*
+
+---
+
 ## 🎯 Practical Action Plan
 
 | Phase | Steps |

@@ -198,6 +198,182 @@ export const content = `
 
 ---
 
+## 🎯 Contemporary Cases
+
+### 💶 Case 1: Calculating Zakat al-Fitr in Euros/Dollars
+
+> **Situation:** Ahmed lives in France with his family of 5 people. He wants to calculate his Zakat al-Fitr precisely but doesn't know how to convert the sa' into euros.
+
+**❓ How to calculate Zakat al-Fitr in cash?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Family | 5 people |
+| Measure | 1 sa' per person |
+| Conversion | To local currency |
+
+Calculation method:
+1. **1 sa'** = approximately 2.5 kg (Maliki school)
+2. **Reference food**: staple food of the country (rice, wheat, semolina)
+3. **Average price**: 5-10 € per sa' depending on quality
+
+| Calculation | Detail |
+|-------------|--------|
+| Quantity per person | 2.5 kg |
+| For 5 people | 5 × 2.5 = 12.5 kg |
+| Value in € (7€/person) | 5 × 7 = **35 €** |
+| Value in € (10€/person) | 5 × 10 = **50 €** |
+
+> 💡 **Rule:** Ahmed should give between **35 and 50 €** depending on the price of rice/wheat in his region. Charitable organizations usually set an amount (e.g., $7-10) based on the local cost of staple food.
+
+</details>
+
+### 💰 Case 2: Cash or Food for Zakat al-Fitr
+
+> **Situation:** Fatima prefers giving cash because it's more practical, but she heard that some scholars only accept food.
+
+**❓ Can Zakat al-Fitr be given in cash?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Original text | Sa' of food |
+| Modern practice | Cash more common |
+| Disagreement | Significant between schools |
+
+School positions:
+
+| School | Position |
+|--------|----------|
+| 🟢 **Hanafi** | **Cash permitted** and even preferable if more useful |
+| 🟡 **Maliki** | Food obligatory, cash not permitted |
+| 🔵 **Shafi'i** | Food obligatory |
+| 🟣 **Hanbali** | Food preferable, cash if needed |
+
+Practical solution:
+- **Via organizations**: You give cash, they buy and distribute food → Acceptable to all
+- **Directly**: According to your school
+
+> 💡 **Rule:** If Fatima follows the Maliki school, she should give **food**. But giving through an organization that converts it to food is acceptable. If she follows the Hanafi opinion, cash is valid.
+
+</details>
+
+### ⏰ Case 3: Forgot to Pay Before Eid Prayer
+
+> **Situation:** Karim forgot to give his Zakat al-Fitr. He remembers just after the Eid prayer.
+
+**❓ Is the Zakat still valid?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Optimal time | Before Eid prayer |
+| Delay | After the prayer |
+| Validity | Still due |
+
+What the hadith says:
+> "Whoever pays it before the prayer, it is an accepted Zakat. Whoever pays it after, it is an ordinary charity." (Abu Dawud)
+
+| Situation | Status |
+|-----------|--------|
+| Before prayer | ✅ Complete Zakat al-Fitr |
+| After prayer (forgot) | ⚠️ Still due but with sin |
+| After Eid (deliberate) | ❌ Sin + ordinary sadaqa |
+
+For Karim:
+- He must **pay immediately**
+- It's still an obligation
+- The reward is less but it's still due
+
+> 💡 **Rule:** Karim must pay **immediately**. Unintentional delay (forgetting) is forgivable, but deliberate delay is sinful. The Zakat remains a debt to the poor.
+
+</details>
+
+### ✈️ Case 4: Traveling During Eid
+
+> **Situation:** Maryam is on a business trip and finds herself in a city where she knows no one. It's Eid day.
+
+**❓ Where should she pray Eid?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Situation | Traveler in unfamiliar city |
+| Day | Eid al-Fitr |
+| Obligation | Emphasized Sunnah |
+
+Options for Maryam:
+
+| Option | Validity |
+|--------|----------|
+| Local mosque | ✅ Recommended - join the community |
+| Alone at hotel (Shafi'i view) | ⚠️ Permitted but less meritorious |
+| Not praying | ⚠️ Loses the reward |
+
+For Zakat al-Fitr:
+- Can be paid in the **country of travel** if poor people are there
+- Or sent to **home country** before the prayer
+
+> 💡 **Rule:** Maryam should seek a local mosque and pray with the Muslims of that city. Eid prayer in congregation is highly recommended. If truly impossible, the Shafi'i view permits praying it alone (2 rak'at with takbirat).
+
+</details>
+
+### 🍽️ Case 5: Eid Day and Making Up Fasts
+
+> **Situation:** Ibrahim still has 5 days of Ramadan to make up. Eid day arrives and he wonders if he can fast that day to advance his Qada.
+
+**❓ Can one fast on Eid day to make up Ramadan?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Day | Eid al-Fitr (1st Shawwal) |
+| Intention | Making up Ramadan |
+| Status of fasting this day | Strictly prohibited |
+
+Fasting on the two Eids is **haram** by consensus:
+
+| Day | Fasting status |
+|-----|----------------|
+| Eid al-Fitr (1 Shawwal) | ❌ **Haram** absolutely |
+| Eid al-Adha (10 Dhul-Hijja) | ❌ **Haram** absolutely |
+| Days of Tashriq (11-13 Dhul-Hijja) | ❌ Haram (except exception) |
+
+The Prophet ﷺ prohibited fasting on these two days, whether obligatory or voluntary.
+
+> 💡 **Rule:** Ibrahim **absolutely cannot** fast on Eid day, even to make up. It's a festival day when fasting is **haram**. He must eat and celebrate, then make up his days starting from the 2nd of Shawwal.
+
+</details>
+
+---
+
+## 💭 Reflection
+
+> *Eid al-Fitr is a divine reward for a month of fasting. Zakat al-Fitr unites the community: the wealthy share with the poor so all can celebrate together. The Prophet ﷺ wanted no one to beg on this day. This social wisdom of Islam shows that spirituality and solidarity are inseparable. Let us give generously and celebrate the mercy of Allah.*
+
+---
+
 ## 🎯 Practical Action Plan
 
 | Phase | Steps |

@@ -201,6 +201,192 @@ export const content = `
 
 ---
 
+## 🎯 Contemporary Cases
+
+### 💼 Case 1: The Working Person and Minimum I'tikaf
+
+> **Situation:** Karim works full-time and cannot take 10 days off. He still wants to do i'tikaf during Ramadan.
+
+**❓ What is the minimum duration for valid i'tikaf?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Situation | Full-time employee |
+| Constraint | Cannot take 10 days off |
+| Question | Minimum duration |
+
+Schools differ on minimum duration:
+
+| School | Minimum duration |
+|--------|------------------|
+| 🟡 **Maliki** | **1 day + 1 night** |
+| 🟢 Hanafi | No minimum |
+| 🔵 Shafi'i | A moment (briefest time) |
+| 🟣 Hanbali | An hour or more |
+
+Options for Karim:
+1. **Full weekend**: Friday evening → Sunday morning
+2. **Last 3 nights**: Take 2-3 days off
+3. **Extended stay**: Remain at mosque as much as possible without calling it formal i'tikaf
+
+> 💡 **Maliki Rule:** Complete i'tikaf requires at minimum **1 day and 1 night**. Less than that is rewarded but is not considered i'tikaf in the technical sense.
+
+</details>
+
+### 🏠 Case 2: Woman and I'tikaf at Home
+
+> **Situation:** Aisha wants to do i'tikaf but has young children to care for. She cannot go to the mosque for 10 days.
+
+**❓ Can she do i'tikaf in a corner of her house?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Situation | Mother with young children |
+| Constraint | Cannot leave home |
+| Question | Validity of home i'tikaf |
+
+This is a classic question with disagreement:
+
+| School | Position |
+|--------|----------|
+| 🟡 **Maliki** | Mosque only (with internal disagreement) |
+| 🟢 Hanafi | Mosque only |
+| 🔵 Shafi'i | Mosque only |
+| 🟣 **Hanbali** | Permitted in a **home corner** dedicated to prayer |
+
+Options for Aisha:
+1. **Follow Hanbali opinion**: Designate a house corner for exclusive worship
+2. **Partial i'tikaf**: A few hours daily at mosque when possible
+3. **Intensify worship at home**: Without calling it i'tikaf
+
+> 💡 **Rule:** The majority require the mosque. But the Hanbali opinion allows women to do i'tikaf in a **dedicated space** of their home. She must remain there and only leave for essential needs.
+
+</details>
+
+### ✨ Case 3: Recognizing Signs of Laylat al-Qadr
+
+> **Situation:** Omar spent the night of the 27th of Ramadan in worship. The next morning, the sun rose particularly gentle and without strong rays. He wonders if it was Laylat al-Qadr.
+
+**❓ How to recognize Laylat al-Qadr?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Observed sign | Gentle sun the following morning |
+| Source | Hadith of the Prophet ﷺ |
+| Certainty | Impossible to be sure |
+
+Signs mentioned in hadiths:
+
+| Sign | Description |
+|------|-------------|
+| **Calm night** | Neither too hot nor too cold |
+| **Morning sun** | Rises white, without strong rays |
+| **Serenity** | Special inner peace |
+| **Moon** | Like half a plate |
+
+Important to understand:
+- These signs are **indicative**, not definitive
+- They're only noticed **after** the night (in the morning)
+- The essential thing isn't knowing, but having worshipped
+
+> 💡 **Rule:** Even if Omar observed these signs, he cannot be **certain** it was Laylat al-Qadr. What matters is that he worshipped Allah that night with faith and hope. The hadith says: "Whoever spends it in prayer with faith and hope..." — not "whoever recognizes it."
+
+</details>
+
+### 🚨 Case 4: Leaving I'tikaf for Emergency
+
+> **Situation:** Ibrahim has been in i'tikaf at the mosque for 3 days. He receives a call: his father is hospitalized in an emergency.
+
+**❓ Can he leave i'tikaf for this emergency?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Type of i'tikaf | Sunnah (not vowed) |
+| Emergency | Father hospitalized |
+| Necessity | Visit is imperative |
+
+I'tikaf can be interrupted for an **imperative necessity**:
+
+| Situation | Effect on i'tikaf |
+|-----------|-------------------|
+| Leaving for natural needs | ✅ Does not invalidate |
+| Leaving for serious family emergency | ⚠️ Interrupts i'tikaf |
+| Leaving without reason | ❌ Invalidates i'tikaf |
+
+For Ibrahim:
+- His parent's medical emergency is a **legitimate necessity**
+- He may leave and must visit his father
+- His i'tikaf is **interrupted**, not invalidated by sin
+
+> 💡 **Rule:** Ibrahim must visit his father — it's a duty. If his i'tikaf was **vowed** (nadhr), he must complete the missing days. If it was **sunnah**, he has the reward of days completed and can resume if possible.
+
+</details>
+
+### 📱 Case 5: Digital I'tikaf - Phone and Computer
+
+> **Situation:** Fatima is doing i'tikaf at the mosque. She uses her phone to read Quran (app), watch Islamic lectures, and respond to family messages.
+
+**❓ Is using phone/computer permitted during i'tikaf?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Tool | Phone/tablet |
+| Uses | Quran, lectures, messages |
+| Essence of i'tikaf | Dedicating oneself to worship |
+
+I'tikaf aims at **total focus** on worship. Let's analyze the uses:
+
+| Use | Status |
+|-----|--------|
+| Reading Quran (app) | ✅ Permitted and good |
+| Islamic lectures | ✅ Permitted with moderation |
+| Family messages (necessity) | ⚠️ Tolerable if brief |
+| Social media, entertainment | ❌ Contrary to the spirit |
+| Professional work | ❌ Discouraged |
+
+For Fatima:
+- **Quran on app**: Excellent
+- **Lectures**: Good, but don't overdo
+- **Messages**: Limit to strictly necessary
+- **The rest**: Avoid
+
+> 💡 **Rule:** Using the phone for worship (Quran, adhkar, lectures) is **permitted**. But the spirit of i'tikaf is to **disconnect from the world** to connect with Allah. Using the phone for worldly matters nullifies the spiritual benefit even if it doesn't technically invalidate the i'tikaf.
+
+</details>
+
+---
+
+## 💭 Reflection
+
+> *Laylat al-Qadr is better than a thousand months — more than 83 years of worship. This extraordinary night reminds us that value lies not in the quantity of time, but in the quality of sincerity. I'tikaf teaches us to temporarily detach from the world to nourish our souls. In our hyperconnected age, this disconnection becomes even more precious and more difficult.*
+
+---
+
 ## 🎯 Practical Action Plan
 
 | Phase | Steps |

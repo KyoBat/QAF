@@ -204,6 +204,169 @@ La **fidya** est une compensation alimentaire due par celui qui ne peut pas jeû
 
 ---
 
+## 🎯 Cas Contemporains
+
+### 🚫 Cas 1 : Rupture intentionnelle sans excuse valable
+
+> **Situation :** Karim, 28 ans, en bonne santé, a rompu son jeûne intentionnellement un jour de Ramadan par simple envie de manger. Il n'avait aucune excuse légale.
+
+**❓ Que doit-il faire comme expiation ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Analyse :**
+
+| Critère | Application |
+|---------|-------------|
+| Type de rupture | Manger intentionnellement |
+| Excuse valable | Aucune |
+| École concernée | Malikite vs autres |
+
+Chez les **Malikites**, manger intentionnellement sans excuse est un péché grave mais **n'entraîne pas la kaffara** (expiation majeure). Seuls les rapports intimes nécessitent la kaffara.
+
+| École | Conséquence |
+|-------|-------------|
+| 🟡 Malikite | Qada + repentir sincère |
+| 🟢 Hanafite | Kaffara (selon certains avis) |
+
+> 💡 **Règle :** Karim doit **rattraper ce jour** + faire un **repentir sincère** (tawba). Pas de kaffara chez les Malikites pour avoir mangé.
+
+</details>
+
+### 👴 Cas 2 : Incapacité permanente de jeûner
+
+> **Situation :** Hajja Aicha, 85 ans, ne peut plus jeûner à cause de sa faiblesse extrême. Elle veut savoir comment calculer sa fidya pour 30 jours.
+
+**❓ Comment calculer la fidya en euros ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Analyse :**
+
+| Critère | Application |
+|---------|-------------|
+| Âge | 85 ans, incapacité permanente |
+| Type d'obligation | Fidya définitive |
+| Calcul | 1 mudd par jour |
+
+Pour calculer la fidya :
+1. **1 mudd** = environ 750g de nourriture de base
+2. **Valeur d'un repas** = 5-7 € selon le pays
+3. **30 jours** × 7 € = **210 €** (estimation haute)
+
+| Calcul | Montant |
+|--------|---------|
+| En nourriture | 30 × 750g = 22,5 kg de riz/blé |
+| En argent | 30 × 6-7 € = 180-210 € |
+
+> 💡 **Règle :** Hajja Aicha peut donner **22,5 kg de nourriture** ou l'équivalent en argent à des pauvres. Peut être donné à un seul pauvre ou réparti.
+
+</details>
+
+### 🔄 Cas 3 : Infractions répétées le même Ramadan
+
+> **Situation :** Omar a eu des rapports intimes avec sa femme pendant 3 jours différents de Ramadan. Il demande combien de kaffara il doit.
+
+**❓ Faut-il plusieurs kaffara pour plusieurs jours ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Analyse :**
+
+| Critère | Application |
+|---------|-------------|
+| Type d'infraction | Rapports intimes (kaffara requise) |
+| Jours concernés | 3 jours différents |
+| École | Grande divergence |
+
+C'est une question où les écoles divergent fortement :
+
+| École | Nombre de kaffara |
+|-------|-------------------|
+| 🟡 **Malikite** | **3 kaffara** (1 par jour) |
+| 🟢 Hanafite | 1 seule kaffara |
+| 🔵 Shafi'ite | 1 seule kaffara |
+| 🟣 Hanbalite | 1 seule kaffara |
+
+> 💡 **Règle Malikite :** Omar doit **3 kaffara** + rattraper les 3 jours. Chaque kaffara = jeûner 60 jours consécutifs OU nourrir 60 pauvres.
+
+</details>
+
+### 💸 Cas 4 : Incapacité de payer la kaffara
+
+> **Situation :** Bilal a commis une faute nécessitant la kaffara mais il est très pauvre. Il ne peut pas jeûner 60 jours (travail physique épuisant) ni nourrir 60 pauvres.
+
+**❓ Quelles sont les alternatives ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Analyse :**
+
+| Critère | Application |
+|---------|-------------|
+| Capacité financière | Pauvre |
+| Capacité physique | Ne peut jeûner 60 jours |
+| Situation | Incapacité totale |
+
+Le hadith de l'homme qui vint au Prophète ﷺ montre la solution :
+
+| Niveau | Option | Statut de Bilal |
+|--------|--------|-----------------|
+| 1 | Affranchir un esclave | Impossible (n'existe plus) |
+| 2 | Jeûner 60 jours | Incapable (travail) |
+| 3 | Nourrir 60 pauvres | Incapable (pauvre) |
+
+Le Prophète ﷺ a donné des dattes à cet homme pour qu'il les distribue, puis quand l'homme a dit qu'il était le plus pauvre, le Prophète lui a permis de les manger.
+
+> 💡 **Règle :** En cas d'**incapacité totale**, la kaffara **tombe temporairement** mais reste une dette. Quand il en aura la capacité, il devra l'accomplir.
+
+</details>
+
+### ⏰ Cas 5 : Retard du rattrapage au-delà de l'année
+
+> **Situation :** Salma devait rattraper 15 jours du Ramadan 2023. Elle n'a pas pu à cause de sa grossesse puis son allaitement. Le Ramadan 2025 arrive et elle n'a toujours pas rattrapé.
+
+**❓ Que doit-elle maintenant ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Analyse :**
+
+| Critère | Application |
+|---------|-------------|
+| Délai de retard | 2 ans |
+| Raison du retard | Grossesse puis allaitement |
+| Type d'excuse | Excuse valable continue |
+
+Le retard pour **excuse valable** (maladie, grossesse, allaitement) ne génère pas de fidya additionnelle.
+
+| Situation | Conséquence |
+|-----------|-------------|
+| Retard avec excuse valable | Qada seulement |
+| Retard sans excuse (négligence) | Qada + Fidya par jour de retard |
+
+Pour Salma :
+- Grossesse puis allaitement = **excuse valable continue**
+- Donc : **15 jours de Qada seulement**
+- Pas de fidya pour le retard
+
+> 💡 **Règle :** Salma doit rattraper ses 15 jours dès que possible. Comme son excuse était valable, **pas de fidya** pour le retard. Si le retard avait été par négligence, elle devrait 15 × fidya.
+
+</details>
+
+---
+
+## 💭 Réflexion
+
+> *La kaffara n'est pas une punition mais une miséricorde. Elle permet au pécheur de se purifier et de réparer sa faute. Le hadith de l'homme qui vint au Prophète ﷺ, bouleversé d'avoir rompu son jeûne par rapport intime, montre que la porte du repentir reste toujours ouverte. Allah accepte le repentir sincère et a prévu des moyens de purification adaptés à chaque situation.*
+
+---
+
 ## 🎯 Action Concrète du Jour
 
 | Phase | Actions |

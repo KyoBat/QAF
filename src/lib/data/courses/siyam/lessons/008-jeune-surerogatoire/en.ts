@@ -179,6 +179,178 @@ export const content = `
 
 ---
 
+## 🎯 Contemporary Cases
+
+### 🍽️ Case 1: Invited to Lunch While Voluntarily Fasting
+
+> **Situation:** Youssef fasts on Monday as usual. At noon, his colleague invites him to an important business lunch. Refusing might harm his professional relationship.
+
+**❓ Can he break his voluntary fast?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Type of fast | Voluntary (not obligatory) |
+| Reason for breaking | Social/professional invitation |
+| Consequence | Permissible to break |
+
+Voluntary fasting can be broken for a valid reason, unlike obligatory fasting.
+
+| School | Rule if broken |
+|--------|----------------|
+| 🟡 **Maliki** | Permissible, **making up recommended** |
+| 🟢 Hanafi | Permissible, making up obligatory |
+| 🔵 Shafi'i | Permissible, no making up |
+| 🟣 Hanbali | Permissible, no making up |
+
+> 💡 **Rule:** Youssef may accept the invitation. According to Malikis, it is **recommended** (not obligatory) to make up this day later.
+
+</details>
+
+### 📅 Case 2: Fasting Monday/Thursday While Having Days to Make Up
+
+> **Situation:** Amina has 5 days of Ramadan to make up. She also wants to benefit from the rewards of Monday and Thursday fasting. She asks if she can combine both intentions.
+
+**❓ Can one combine Qada intention with voluntary fasting?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Qada days | 5 obligatory days |
+| Monday/Thursday fasting | Voluntary |
+| Combining intentions | Matter of disagreement |
+
+Scholars differ on combining intentions:
+
+| Opinion | Position |
+|---------|----------|
+| Opinion 1 | Qada suffices, no double reward |
+| Opinion 2 | One may hope for both rewards |
+| **Prudent** | Separating intentions is safer |
+
+For Amina:
+- **Priority**: Make up her 5 obligatory days
+- She can choose to do them on Mondays/Thursdays
+- But the main intention must be Qada
+
+> 💡 **Rule:** Qada is **priority** over voluntary. Some scholars say one may hope for the day's reward (Monday/Thursday) while doing Qada on that day, but this is debated.
+
+</details>
+
+### 🌙 Case 3: Six of Shawwal Before Completing Qada
+
+> **Situation:** Khadija has 15 days of Ramadan to make up. Shawwal only has 29 days this year. She absolutely wants to fast the 6 of Shawwal to get the reward of the entire year.
+
+**❓ Can she fast Shawwal before finishing her Qada?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Qada days | 15 days (obligatory) |
+| 6 of Shawwal | Voluntary |
+| Available time | 29 days - 1 (Eid) = 28 days |
+
+This is a classic question with several opinions:
+
+| Opinion | Argument |
+|---------|----------|
+| **Qada first** | Obligatory takes precedence over voluntary |
+| **Shawwal first permitted** | Time is limited, Qada can be done all year |
+| **Alternate** | Do both in parallel |
+
+Calculation for Khadija:
+- 28 days available
+- 15 Qada days + 6 Shawwal = 21 days
+- **It's possible** to do both!
+
+> 💡 **Rule:** The **prudent** opinion is to finish Qada first. But some scholars permit doing Shawwal first since its time is limited, while Qada extends until the next Ramadan.
+
+</details>
+
+### 📆 Case 4: Fasting Ashura When It Falls on Saturday
+
+> **Situation:** This year, 10 Muharram (Ashura) falls on a Saturday. Ali has heard it is discouraged to fast Saturday alone.
+
+**❓ Can he fast Ashura on Saturday?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Day | Ashura (10 Muharram) |
+| Day of week | Saturday |
+| Apparent conflict | Makruh to fast Saturday alone |
+
+The hadith about Saturday concerns fasting it **without a particular reason**. When Saturday coincides with a meritorious day, it is excluded from the prohibition.
+
+| Situation | Status |
+|-----------|--------|
+| Saturday without occasion | Makruh to fast alone |
+| Saturday = Arafah | ✅ Permissible and recommended |
+| Saturday = Ashura | ✅ Permissible and recommended |
+| Saturday = white day | ✅ Permissible |
+
+> 💡 **Rule:** Ali can and **should** fast Ashura even if it falls on Saturday. The Saturday prohibition doesn't apply when it coincides with a recommended fasting day. Even better: fast Friday and Saturday (9th and 10th of Muharram).
+
+</details>
+
+### 💑 Case 5: Spouse Unhappy About Voluntary Fasting
+
+> **Situation:** Fatima regularly fasts Mondays and Thursdays. Her husband complains she is tired and less available on these days. He asks her to reduce her fasting.
+
+**❓ Should she listen to her husband?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Type of fasting | Voluntary (not obligatory) |
+| Husband's request | Legitimate |
+| Marital rights | To be considered |
+
+The hadith is clear: "A woman should not fast [a voluntary fast] while her husband is present without his permission." (Bukhari)
+
+| Situation | Rule |
+|-----------|------|
+| Husband present and unhappy | Permission required |
+| Husband absent (traveling) | May fast without permission |
+| Obligatory fasting (Qada) | No permission needed |
+
+For Fatima:
+- Her fasting is **voluntary**
+- Her husband has expressed displeasure
+- She should **seek a compromise**
+
+> 💡 **Rule:** For voluntary fasting, **husband's permission** is required. Fatima can negotiate: reduce to one day per week, or choose days when he is away. Marital harmony takes priority over voluntary worship.
+
+</details>
+
+---
+
+## 💭 Reflection
+
+> *Voluntary fasting is an immense door to divine rewards, but it must remain in balance. The Prophet ﷺ said: "The fasting most beloved to Allah is the fasting of Dawud: he would fast one day and break fast one day." Excess in voluntary worship at the expense of others' rights or one's own health is not piety. Wisdom lies in finding the middle way.*
+
+---
+
 ## 🎯 Practical Action Plan
 
 | Frequency | Steps |

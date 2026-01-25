@@ -195,6 +195,178 @@ export const content = `# 📜 صِيَامُ التَّطَوُّعِ — Le Je
 
 ---
 
+## 🎯 Cas Contemporains
+
+### 🍽️ Cas 1 : Invité à déjeuner pendant un jeûne volontaire
+
+> **Situation :** Youssef jeûne le lundi comme d'habitude. À midi, son collègue l'invite pour un déjeuner d'affaires important. Refuser pourrait nuire à sa relation professionnelle.
+
+**❓ Peut-il rompre son jeûne surérogatoire ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Analyse :**
+
+| Critère | Application |
+|---------|-------------|
+| Type de jeûne | Surérogatoire (non obligatoire) |
+| Raison de rupture | Invitation sociale/professionnelle |
+| Conséquence | Permis de rompre |
+
+Le jeûne surérogatoire peut être rompu pour une raison valable, contrairement au jeûne obligatoire.
+
+| École | Règle si rupture |
+|-------|------------------|
+| 🟡 **Malikite** | Permis, **rattrapage recommandé** |
+| 🟢 Hanafite | Permis, rattrapage obligatoire |
+| 🔵 Shafi'ite | Permis, pas de rattrapage |
+| 🟣 Hanbalite | Permis, pas de rattrapage |
+
+> 💡 **Règle :** Youssef peut accepter l'invitation. Chez les Malikites, il est **recommandé** (pas obligatoire) de rattraper ce jour plus tard.
+
+</details>
+
+### 📅 Cas 2 : Jeûner lundi/jeudi tout en ayant des jours à rattraper
+
+> **Situation :** Amina a 5 jours de Ramadan à rattraper. Elle veut aussi profiter des récompenses du jeûne du lundi et jeudi. Elle demande si elle peut combiner les deux intentions.
+
+**❓ Peut-on cumuler l'intention de Qada et de jeûne surérogatoire ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Analyse :**
+
+| Critère | Application |
+|---------|-------------|
+| Jours de Qada | 5 jours obligatoires |
+| Jeûne du lundi/jeudi | Surérogatoire |
+| Cumul d'intentions | Question de divergence |
+
+Les savants divergent sur le cumul des intentions :
+
+| Avis | Position |
+|------|----------|
+| Avis 1 | Le Qada suffit, pas de récompense double |
+| Avis 2 | On peut espérer les deux récompenses |
+| **Prudent** | Séparer les intentions est plus sûr |
+
+Pour Amina :
+- **Priorité** : Rattraper ses 5 jours obligatoires
+- Elle peut choisir de les faire les lundis/jeudis
+- Mais l'intention principale doit être le Qada
+
+> 💡 **Règle :** Le Qada est **prioritaire** sur le surérogatoire. Certains savants disent qu'on peut espérer la récompense du jour (lundi/jeudi) en faisant le Qada ce jour-là, mais c'est discuté.
+
+</details>
+
+### 🌙 Cas 3 : Les 6 de Shawwal avant de finir le Qada
+
+> **Situation :** Khadija a 15 jours de Ramadan à rattraper. Shawwal n'a que 29 jours cette année. Elle veut absolument jeûner les 6 de Shawwal pour avoir la récompense de l'année entière.
+
+**❓ Peut-elle jeûner Shawwal avant de finir son Qada ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Analyse :**
+
+| Critère | Application |
+|---------|-------------|
+| Jours de Qada | 15 jours (obligatoires) |
+| 6 de Shawwal | Surérogatoire |
+| Temps disponible | 29 jours - 1 (Eid) = 28 jours |
+
+C'est une question classique avec plusieurs avis :
+
+| Avis | Argument |
+|------|----------|
+| **Qada d'abord** | L'obligatoire prime sur le surérogatoire |
+| **Shawwal d'abord permis** | Le temps est limité, Qada peut se faire toute l'année |
+| **Alterner** | Faire les deux en parallèle |
+
+Calcul pour Khadija :
+- 28 jours disponibles
+- 15 jours de Qada + 6 de Shawwal = 21 jours
+- **C'est possible** de faire les deux !
+
+> 💡 **Règle :** L'avis **prudent** est de finir le Qada d'abord. Mais certains savants permettent de faire Shawwal d'abord car son temps est limité, tandis que le Qada peut être fait jusqu'au Ramadan suivant.
+
+</details>
+
+### 📆 Cas 4 : Jeûner 'Achoura quand il tombe un samedi
+
+> **Situation :** Cette année, le 10 Muharram ('Achoura) tombe un samedi. Ali a entendu qu'il est déconseillé de jeûner le samedi seul.
+
+**❓ Peut-il jeûner 'Achoura le samedi ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Analyse :**
+
+| Critère | Application |
+|---------|-------------|
+| Jour | 'Achoura (10 Muharram) |
+| Jour de la semaine | Samedi |
+| Conflit apparent | Makruh de jeûner samedi seul |
+
+Le hadith sur le samedi concerne le jeûne du samedi **sans raison particulière**. Quand le samedi coïncide avec un jour méritoire, il est exclu de l'interdiction.
+
+| Situation | Statut |
+|-----------|--------|
+| Samedi sans occasion | Makruh de le jeûner seul |
+| Samedi = 'Arafat | ✅ Permis et recommandé |
+| Samedi = 'Achoura | ✅ Permis et recommandé |
+| Samedi = jour blanc | ✅ Permis |
+
+> 💡 **Règle :** Ali peut et **devrait** jeûner 'Achoura même s'il tombe un samedi. L'interdiction du samedi ne s'applique pas quand il coïncide avec un jour de jeûne recommandé. Mieux encore : jeûner vendredi et samedi (9 et 10 Muharram).
+
+</details>
+
+### 💑 Cas 5 : Le conjoint mécontent du jeûne volontaire
+
+> **Situation :** Fatima jeûne régulièrement les lundis et jeudis. Son mari se plaint qu'elle est fatiguée et moins disponible ces jours-là. Il lui demande de réduire son jeûne.
+
+**❓ Doit-elle écouter son mari ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Analyse :**
+
+| Critère | Application |
+|---------|-------------|
+| Type de jeûne | Surérogatoire (non obligatoire) |
+| Demande du mari | Légitime |
+| Droits conjugaux | À considérer |
+
+Le hadith est clair : « La femme ne doit pas jeûner [un jeûne surérogatoire] en présence de son mari sans sa permission. » (Bukhari)
+
+| Situation | Règle |
+|-----------|-------|
+| Mari présent et mécontent | Permission requise |
+| Mari absent (voyage) | Peut jeûner sans permission |
+| Jeûne obligatoire (Qada) | Pas besoin de permission |
+
+Pour Fatima :
+- Son jeûne est **surérogatoire**
+- Son mari a exprimé son mécontentement
+- Elle devrait **chercher un compromis**
+
+> 💡 **Règle :** Pour le jeûne surérogatoire, la **permission du mari** est requise. Fatima peut négocier : réduire à un jour par semaine, ou choisir des jours où il est absent. L'harmonie conjugale est prioritaire sur le surérogatoire.
+
+</details>
+
+---
+
+## 💭 Réflexion
+
+> *Le jeûne surérogatoire est une porte immense vers les récompenses divines, mais il doit rester dans l'équilibre. Le Prophète ﷺ a dit : « Le jeûne le plus aimé d'Allah est celui de Dawud : il jeûnait un jour et mangeait un jour. » L'excès dans le surérogatoire au détriment des droits d'autrui ou de sa propre santé n'est pas de la piété. La sagesse est de trouver le juste milieu.*
+
+---
+
 ## 🎯 Action Concrète du Jour
 
 | Fréquence | Actions |

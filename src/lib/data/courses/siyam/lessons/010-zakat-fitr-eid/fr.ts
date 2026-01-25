@@ -289,6 +289,182 @@ Selon l'avis Shafi'ite et Hanbalite, oui c'est recommandé. Selon les Malikites 
 
 ---
 
+## 🎯 Cas Contemporains
+
+### 💶 Cas 1 : Calculer la Zakat al-Fitr en euros
+
+> **Situation :** Ahmed vit en France avec sa famille de 5 personnes. Il veut calculer précisément sa Zakat al-Fitr mais ne sait pas comment convertir le sa' en euros.
+
+**❓ Comment calculer la Zakat al-Fitr en argent ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Analyse :**
+
+| Critère | Application |
+|---------|-------------|
+| Famille | 5 personnes |
+| Mesure | 1 sa' par personne |
+| Conversion | Vers la monnaie locale |
+
+Méthode de calcul :
+1. **1 sa'** = environ 2,5 kg (école Malikite)
+2. **Aliment de référence** : nourriture de base du pays (riz, blé, semoule)
+3. **Prix moyen** : 5-10 € le sa' selon la qualité
+
+| Calcul | Détail |
+|--------|--------|
+| Quantité par personne | 2,5 kg |
+| Pour 5 personnes | 5 × 2,5 = 12,5 kg |
+| Valeur en € (7€/personne) | 5 × 7 = **35 €** |
+| Valeur en € (10€/personne) | 5 × 10 = **50 €** |
+
+> 💡 **Règle :** Ahmed doit donner entre **35 et 50 €** selon le prix du riz/blé dans sa région. Les associations fixent généralement un montant (ex: 7€) basé sur le coût local de la nourriture de base.
+
+</details>
+
+### 💰 Cas 2 : Argent ou nourriture pour la Zakat al-Fitr
+
+> **Situation :** Fatima préfère donner de l'argent car c'est plus pratique, mais elle a entendu que certains savants n'acceptent que la nourriture.
+
+**❓ Peut-on donner la Zakat al-Fitr en argent ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Analyse :**
+
+| Critère | Application |
+|---------|-------------|
+| Texte original | Sa' de nourriture |
+| Pratique moderne | Argent plus courant |
+| Divergence | Importante entre écoles |
+
+Les positions des écoles :
+
+| École | Position |
+|-------|----------|
+| 🟢 **Hanafite** | **Argent permis** et même préférable si plus utile |
+| 🟡 **Malikite** | Nourriture obligatoire, argent non permis |
+| 🔵 **Shafi'ite** | Nourriture obligatoire |
+| 🟣 **Hanbalite** | Nourriture préférable, argent en cas de besoin |
+
+Solution pratique :
+- **Via associations** : Vous donnez de l'argent, elles achètent et distribuent la nourriture → Acceptable pour tous
+- **Directement** : Selon votre école
+
+> 💡 **Règle :** Si Fatima suit l'école Malikite, elle devrait donner de la **nourriture**. Mais donner via une association qui convertit en nourriture est acceptable. Si elle suit l'avis Hanafite, l'argent est valide.
+
+</details>
+
+### ⏰ Cas 3 : Oublié de payer avant la prière de l'Aïd
+
+> **Situation :** Karim a oublié de donner sa Zakat al-Fitr. Il s'en souvient juste après la prière de l'Aïd.
+
+**❓ La Zakat est-elle encore valable ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Analyse :**
+
+| Critère | Application |
+|---------|-------------|
+| Temps optimal | Avant la prière de l'Aïd |
+| Retard | Après la prière |
+| Validité | Toujours due |
+
+Ce que dit le hadith :
+> « Celui qui l'acquitte avant la prière, c'est une Zakat acceptée. Celui qui l'acquitte après, c'est une aumône ordinaire. » (Abu Dawud)
+
+| Situation | Statut |
+|-----------|--------|
+| Avant la prière | ✅ Zakat al-Fitr complète |
+| Après la prière (oubli) | ⚠️ Reste due mais avec péché |
+| Après l'Aïd (volontaire) | ❌ Péché + sadaqa ordinaire |
+
+Pour Karim :
+- Il doit **payer immédiatement**
+- C'est toujours une obligation
+- La récompense est moindre mais ça reste dû
+
+> 💡 **Règle :** Karim doit payer **immédiatement**. Le retard involontaire (oubli) est pardonnable, mais le retard volontaire est un péché. La Zakat reste une dette envers les pauvres.
+
+</details>
+
+### ✈️ Cas 4 : Voyager pendant l'Aïd
+
+> **Situation :** Maryam est en voyage d'affaires et se trouve dans une ville où elle ne connaît personne. C'est le jour de l'Aïd.
+
+**❓ Où doit-elle prier l'Aïd ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Analyse :**
+
+| Critère | Application |
+|---------|-------------|
+| Situation | Voyageuse dans ville étrangère |
+| Jour | Aïd al-Fitr |
+| Obligation | Sunna mu'akkada |
+
+Options pour Maryam :
+
+| Option | Validité |
+|--------|----------|
+| Mosquée locale | ✅ Recommandé - rejoindre la communauté |
+| Seule à l'hôtel (avis Shafi'i) | ⚠️ Permis mais moins méritoire |
+| Ne pas prier | ⚠️ Perd la récompense |
+
+Pour la Zakat al-Fitr :
+- Peut être payée dans le **pays de voyage** si des pauvres s'y trouvent
+- Ou envoyée au **pays d'origine** avant la prière
+
+> 💡 **Règle :** Maryam devrait chercher une mosquée locale et prier avec les musulmans de cette ville. La prière de l'Aïd en groupe est fortement recommandée. Si vraiment impossible, l'avis Shafi'i permet de la prier seule (2 rak'at avec les takbirat).
+
+</details>
+
+### 🍽️ Cas 5 : Le jour de l'Aïd et le rattrapage du jeûne
+
+> **Situation :** Ibrahim a encore 5 jours de Ramadan à rattraper. Le jour de l'Aïd arrive et il se demande s'il peut jeûner ce jour-là pour avancer son Qada.
+
+**❓ Peut-on jeûner le jour de l'Aïd pour rattraper Ramadan ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Analyse :**
+
+| Critère | Application |
+|---------|-------------|
+| Jour | Aïd al-Fitr (1er Shawwal) |
+| Intention | Rattraper Ramadan |
+| Statut du jeûne ce jour | Strictement interdit |
+
+Le jeûne des deux Aïd est **haram** par consensus :
+
+| Jour | Statut du jeûne |
+|------|-----------------|
+| Aïd al-Fitr (1 Shawwal) | ❌ **Haram** absolument |
+| Aïd al-Adha (10 Dhul-Hijja) | ❌ **Haram** absolument |
+| Jours de Tashriq (11-13 Dhul-Hijja) | ❌ Haram (sauf exception) |
+
+Le Prophète ﷺ a interdit le jeûne ces deux jours, qu'il soit obligatoire ou surérogatoire.
+
+> 💡 **Règle :** Ibrahim ne peut **absolument pas** jeûner le jour de l'Aïd, même pour rattraper. C'est un jour de fête où le jeûne est **haram**. Il doit manger et célébrer, puis rattraper ses jours à partir du 2 Shawwal.
+
+</details>
+
+---
+
+## 💭 Réflexion
+
+> *L'Aïd al-Fitr est une récompense divine pour un mois de jeûne. La Zakat al-Fitr unit la communauté : les riches partagent avec les pauvres pour que tous puissent célébrer ensemble. Le Prophète ﷺ a voulu que personne ne mendie ce jour-là. Cette sagesse sociale de l'Islam montre que la spiritualité et la solidarité sont inséparables. Donnons généreusement et célébrons la miséricorde d'Allah.*
+
+---
+
 ## 🎯 Plan d'Action Concret
 
 ### Avant le Dernier Jour de Ramadan

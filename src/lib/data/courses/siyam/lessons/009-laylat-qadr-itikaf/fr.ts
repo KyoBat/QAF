@@ -242,6 +242,192 @@ L'**I'tikaf** est la retraite spirituelle dans une mosquée avec l'intention de 
 
 ---
 
+## 🎯 Cas Contemporains
+
+### 💼 Cas 1 : Le travailleur et l'I'tikaf minimal
+
+> **Situation :** Karim travaille à temps plein et ne peut pas prendre 10 jours de congé. Il veut quand même faire l'I'tikaf pendant Ramadan.
+
+**❓ Quelle est la durée minimale d'I'tikaf valide ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Analyse :**
+
+| Critère | Application |
+|---------|-------------|
+| Situation | Employé à temps plein |
+| Contrainte | Impossible de prendre 10 jours |
+| Question | Durée minimale |
+
+Les écoles divergent sur la durée minimale :
+
+| École | Durée minimale |
+|-------|----------------|
+| 🟡 **Malikite** | **1 jour + 1 nuit** |
+| 🟢 Hanafite | Pas de minimum |
+| 🔵 Shafi'ite | Un moment (quelques instants) |
+| 🟣 Hanbalite | Une heure ou plus |
+
+Options pour Karim :
+1. **Week-end complet** : Vendredi soir → Dimanche matin
+2. **Les 3 dernières nuits** : Prendre 2-3 jours de congé
+3. **Séjour prolongé** : Rester à la mosquée autant que possible sans que ce soit un I'tikaf formel
+
+> 💡 **Règle Malikite :** L'I'tikaf complet nécessite au minimum **1 jour et 1 nuit**. Moins que cela est récompensé mais n'est pas considéré comme un I'tikaf au sens technique.
+
+</details>
+
+### 🏠 Cas 2 : La femme et l'I'tikaf à domicile
+
+> **Situation :** Aisha veut faire l'I'tikaf mais elle a de jeunes enfants à charge. Elle ne peut pas aller à la mosquée pour 10 jours.
+
+**❓ Peut-elle faire l'I'tikaf dans un coin de sa maison ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Analyse :**
+
+| Critère | Application |
+|---------|-------------|
+| Situation | Mère avec enfants en bas âge |
+| Contrainte | Ne peut pas quitter le domicile |
+| Question | Validité de l'I'tikaf à domicile |
+
+C'est une question classique avec divergence :
+
+| École | Position |
+|-------|----------|
+| 🟡 **Malikite** | Mosquée uniquement (sauf divergence interne) |
+| 🟢 Hanafite | Mosquée uniquement |
+| 🔵 Shafi'ite | Mosquée uniquement |
+| 🟣 **Hanbalite** | Permis dans un **coin de la maison** dédié à la prière |
+
+Options pour Aisha :
+1. **Suivre l'avis Hanbalite** : Désigner un coin de la maison pour l'adoration exclusive
+2. **I'tikaf partiel** : Quelques heures par jour à la mosquée quand possible
+3. **Intensifier l'adoration à la maison** : Sans l'appeler I'tikaf
+
+> 💡 **Règle :** La majorité exige la mosquée. Mais l'avis Hanbalite permet à la femme de faire l'I'tikaf dans un **endroit dédié** de sa maison. Elle doit y rester et ne le quitter que pour les besoins essentiels.
+
+</details>
+
+### ✨ Cas 3 : Reconnaître les signes de Laylat al-Qadr
+
+> **Situation :** Omar a passé la nuit du 27 Ramadan en adoration. Le lendemain matin, le soleil s'est levé particulièrement doux et sans rayons forts. Il se demande si c'était Laylat al-Qadr.
+
+**❓ Comment reconnaître Laylat al-Qadr ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Analyse :**
+
+| Critère | Application |
+|---------|-------------|
+| Signe observé | Soleil doux le matin suivant |
+| Source | Hadith du Prophète ﷺ |
+| Certitude | Impossible d'être sûr |
+
+Les signes mentionnés dans les hadiths :
+
+| Signe | Description |
+|-------|-------------|
+| **Nuit calme** | Ni trop chaude ni trop froide |
+| **Soleil du matin** | Se lève blanc, sans rayons forts |
+| **Sérénité** | Paix intérieure particulière |
+| **Lune** | Ressemble à un demi-plateau |
+
+Important à comprendre :
+- Ces signes sont **indicatifs**, pas définitifs
+- On ne les remarque qu'**après** la nuit (le matin)
+- L'essentiel n'est pas de savoir, mais d'avoir adoré
+
+> 💡 **Règle :** Même si Omar a observé ces signes, il ne peut pas être **certain** que c'était Laylat al-Qadr. L'important est qu'il a adoré Allah cette nuit-là avec foi et espérance. Le hadith dit : « Celui qui la passe en prière avec foi et espérance... » — pas « celui qui la reconnaît ».
+
+</details>
+
+### 🚨 Cas 4 : Quitter l'I'tikaf pour une urgence
+
+> **Situation :** Ibrahim est en I'tikaf à la mosquée depuis 3 jours. Il reçoit un appel : son père est hospitalisé en urgence.
+
+**❓ Peut-il quitter l'I'tikaf pour cette urgence ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Analyse :**
+
+| Critère | Application |
+|---------|-------------|
+| Type d'I'tikaf | Sunna (non voué) |
+| Urgence | Père hospitalisé |
+| Nécessité | Visite impérative |
+
+L'I'tikaf peut être interrompu pour une **nécessité impérieuse** :
+
+| Situation | Effet sur l'I'tikaf |
+|-----------|---------------------|
+| Sortie pour besoin naturel | ✅ Pas d'annulation |
+| Sortie pour urgence familiale grave | ⚠️ Interrompt l'I'tikaf |
+| Sortie sans raison | ❌ Annule l'I'tikaf |
+
+Pour Ibrahim :
+- L'urgence médicale d'un parent est une **nécessité légitime**
+- Il peut sortir et doit visiter son père
+- Son I'tikaf est **interrompu**, pas annulé par péché
+
+> 💡 **Règle :** Ibrahim doit visiter son père — c'est un devoir. Si son I'tikaf était **voué** (nadhr), il devra compléter les jours manquants. S'il était **sunna**, il a la récompense des jours accomplis et peut reprendre si possible.
+
+</details>
+
+### 📱 Cas 5 : L'I'tikaf et les écrans
+
+> **Situation :** Fatima fait l'I'tikaf à la mosquée. Elle utilise son téléphone pour lire le Coran (application), regarder des cours islamiques, et répondre aux messages de sa famille.
+
+**❓ L'utilisation du téléphone/ordinateur est-elle permise en I'tikaf ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Analyse :**
+
+| Critère | Application |
+|---------|-------------|
+| Outil | Téléphone/tablette |
+| Usages | Coran, cours, messages |
+| Essence de l'I'tikaf | Se consacrer à l'adoration |
+
+L'I'tikaf vise la **concentration totale** sur l'adoration. Analysons les usages :
+
+| Usage | Statut |
+|-------|--------|
+| Lire le Coran (app) | ✅ Permis et bon |
+| Cours islamiques | ✅ Permis avec modération |
+| Messages famille (nécessité) | ⚠️ Tolerable si bref |
+| Réseaux sociaux, divertissement | ❌ Contraire à l'esprit |
+| Travail professionnel | ❌ Déconseillé |
+
+Pour Fatima :
+- **Coran sur app** : Excellent
+- **Cours** : Bien, mais ne pas en abuser
+- **Messages** : Limiter au strict nécessaire
+- **Le reste** : À éviter
+
+> 💡 **Règle :** L'utilisation du téléphone pour l'adoration (Coran, adhkar, cours) est **permise**. Mais l'esprit de l'I'tikaf est de **se déconnecter du monde** pour se connecter à Allah. Utiliser le téléphone pour le mondain annule le bénéfice spirituel même si cela n'annule pas techniquement l'I'tikaf.
+
+</details>
+
+---
+
+## 💭 Réflexion
+
+> *Laylat al-Qadr est meilleure que mille mois — plus de 83 ans d'adoration. Cette nuit extraordinaire rappelle que la valeur n'est pas dans la quantité de temps, mais dans la qualité de la sincérité. L'I'tikaf, quant à lui, nous apprend à nous détacher temporairement du monde pour nourrir notre âme. Dans notre époque hyperconnectée, cette déconnexion devient encore plus précieuse et plus difficile.*
+
+---
+
 ## 🎯 Action Concrète du Jour
 
 | Phase | Actions |
