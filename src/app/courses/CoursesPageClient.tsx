@@ -5,7 +5,8 @@
 
 'use client'
 
-import { useState, useMemo } from 'react'
+import { useState, useMemo, useEffect } from 'react'
+import { useSearchParams } from 'next/navigation'
 import { CourseCard } from '@/components/course'
 import { CourseFilters } from '@/components/course/CourseFilters'
 import { EmptyState } from '@/components/ui/empty-state'
@@ -19,11 +20,20 @@ interface CoursesPageClientProps {
 
 export function CoursesPageClient({ initialCourses }: CoursesPageClientProps) {
   const { locale, t, isRTL } = useLocale()
+  const searchParams = useSearchParams()
+  
+  // Lire le paramètre category de l'URL
+  const urlCategory = searchParams.get('category') || ''
   
   // États séparés pour chaque filtre - plus simple et direct
-  const [category, setCategory] = useState('')
+  const [category, setCategory] = useState(urlCategory)
   const [level, setLevel] = useState('')
   const [search, setSearch] = useState('')
+
+  // Mettre à jour la catégorie si l'URL change
+  useEffect(() => {
+    setCategory(urlCategory)
+  }, [urlCategory])
 
   // Filtrer les cours
   const filteredCourses = useMemo(() => {

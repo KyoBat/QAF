@@ -73,7 +73,7 @@ export default function CategoriesSection({
 
         {/* Category Cards */}
         <motion.div 
-          className="grid grid-cols-2 md:grid-cols-4 gap-4"
+          className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-4"
           variants={staggerContainer}
           initial="hidden"
           whileInView="visible"

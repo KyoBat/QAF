@@ -37,6 +37,8 @@ export default function HomePageClient({
     { key: 'fiqh', emoji: '⚖️', comingSoon: false },
     { key: 'aqeedah', emoji: '💫', comingSoon: false },
     { key: 'seerah', emoji: '🌙', comingSoon: false },
+    { key: 'history', emoji: '🕌', comingSoon: false },
+    { key: 'spirituality', emoji: '🤲', comingSoon: false },
   ]
 
   return (
