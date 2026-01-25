@@ -1,327 +1,726 @@
-export const contentFr = `# La Mudarabah — Le Partenariat Capital-Travail
+export const contentFr = `# La Moudaraba — Le Partenariat entre Capital et Travail
 
-## Définition de la Mudarabah
+<div class="scene-box">
 
-### Étymologie
-Mudarabah : de "darb" (voyager), c'est-à-dire voyager pour le commerce. Allah dit : ﴿D'autres parcourent la terre recherchant la grâce d'Allah﴾ [Al-Muzzammil : 20]
+**🎬 La Scène : Les caravanes commerciales de Quraysh — La Mecque avant la Révélation**
 
-### Terminologie
-> Un contrat de partenariat dans le profit entre le propriétaire du capital et le travailleur, où le propriétaire remet son argent au travailleur pour qu'il fasse du commerce, et le profit est partagé selon leur accord.
+*Dans la maison de Khadija bint Khuwaylid, qu'Allah l'agrée, une des nobles dames de Quraysh et la plus riche de ses femmes...*
 
-Elle est aussi appelée : **Qirad** dans le dialecte du Hijaz.
+**Maysara** *(le serviteur de Khadija)* : Ô ma maîtresse, il y a à La Mecque un jeune homme appelé Muhammad ibn Abdullah, on le surnomme **le Véridique, le Digne de confiance** !
+
+**Khadija** : Et qu'a-t-il de particulier ?
+
+**Maysara** : Les gens lui confient leurs biens, et il n'a jamais trahi personne ! Et il est habile dans le commerce.
+
+**Khadija** *(réfléchissant)* : Je veux qu'il parte avec mes biens vers la Syrie pour commercer, et je lui donnerai plus que ce que je donne aux autres...
+
+**Le Narrateur** : *Ainsi Muhammad ﷺ partit avec les biens de Khadija vers la Syrie, et revint avec des profits qu'elle n'avait jamais connus auparavant. C'était une **moudaraba** — le capital de Khadija et le travail de Muhammad ﷺ !*
+
+</div>
 
 ---
 
-## La Légitimité de la Mudarabah
+## Définition de la Moudaraba
 
-### Dans le Coran
-> Allah تعالى dit : ﴿Nul grief sur vous si vous recherchez quelque grâce de votre Seigneur﴾ [Al-Baqarah : 198]
+<div class="quote-box">
 
-### Dans la Sunna Prophétique
-> Il est rapporté qu'Al-Abbas ibn Abd al-Muttalib رضي الله عنه, quand il donnait de l'argent en mudarabah, stipulait à son partenaire de ne pas traverser la mer, ni descendre dans une vallée, ni acheter du bétail. S'il le faisait, il devait garantir. Sa condition parvint au Messager d'Allah ﷺ qui l'approuva. [Rapporté par al-Bayhaqi]
+**📜 Sens linguistique et terminologique**
+
+**Linguistiquement** : La moudaraba vient de **« darb fil-ard »** (frapper la terre), c'est-à-dire voyager pour le commerce. Allah dit : ﴿Et d'autres qui parcourent la terre, recherchant la grâce d'Allah﴾
+
+**En terminologie juridique** : Un contrat de société dans le profit entre le détenteur du capital et le travailleur, où le détenteur du capital remet son argent au travailleur pour qu'il le fasse fructifier, et le profit est partagé selon ce qu'ils conviennent.
+
+**Autre appellation** : On l'appelle aussi **Qirâd** dans le langage des gens du Hijaz.
+
+</div>
+
+\`\`\`
+┌─────────────────────────────────────────────────────────────────────┐
+│              💰 L'équation de la Moudaraba                           │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│      Détenteur du capital      +         Le travailleur             │
+│       (Rabb al-mâl)                        (Moudarib)               │
+│            │                                    │                    │
+│            ▼                                    ▼                    │
+│     ┌──────────────┐                  ┌──────────────┐              │
+│     │ Fournit le   │                  │ Fournit le   │              │
+│     │ capital et   │                  │ travail et   │              │
+│     │ l'expertise  │                  │ l'effort     │              │
+│     │ financière   │                  │ commercial   │              │
+│     └──────────────┘                  └──────────────┘              │
+│                        │                                             │
+│                        ▼                                             │
+│              ┌──────────────────┐                                   │
+│              │     Le profit    │                                   │
+│              │  partagé entre   │                                   │
+│              │  eux selon des   │                                   │
+│              │ ratios convenus  │                                   │
+│              └──────────────────┘                                   │
+│                                                                      │
+└─────────────────────────────────────────────────────────────────────┘
+\`\`\`
+
+---
+
+## Légitimité de la Moudaraba
+
+### Du Coran
+
+<div class="quote-box">
+
+**📜 Preuves du Livre**
+
+> ﴿Il n'y a pas de péché pour vous à rechercher une grâce de votre Seigneur﴾
+> — Al-Baqara : 198
+
+> ﴿Et d'autres qui parcourent la terre, recherchant la grâce d'Allah﴾
+> — Al-Muzzammil : 20
+
+</div>
+
+### De la Sunna Prophétique
+
+<div class="quote-box">
+
+**📜 Preuves de la Sunna**
+
+> Il est rapporté qu'**Al-'Abbâs ibn 'Abd al-Muttalib**, qu'Allah l'agrée, quand il donnait de l'argent en moudaraba, stipulait à son associé :
+> - **De ne pas naviguer par mer avec**
+> - **De ne pas descendre dans une vallée avec**
+> - **De ne pas acheter d'animal avec (lit. : ce qui a un foie humide)**
+> S'il le faisait, il serait responsable. **Ces conditions parvinrent au Messager d'Allah ﷺ qui les approuva.**
+> — Rapporté par al-Bayhaqi
+
+</div>
+
+<div class="scene-box">
+
+**🎬 L'histoire des conditions d'Al-'Abbâs — La protection intelligente du capital**
+
+*Al-'Abbâs ibn 'Abd al-Muttalib, qu'Allah l'agrée — l'oncle du Prophète ﷺ — faisait partie des riches de Quraysh et des plus savants en commerce...*
+
+**Al-'Abbâs** *(donnant son argent à un jeune commerçant)* : Prends cet argent et fais-le fructifier, et le profit sera entre nous. Mais j'ai des conditions !
+
+**Le commerçant** : Lesquelles, ô oncle du Messager d'Allah ?
+
+**Al-'Abbâs** : 
+- **Ne navigue pas par mer avec** — car la mer comporte le risque de noyade !
+- **Ne descends pas dans une vallée avec** — car les vallées comportent le risque d'inondations !
+- **N'achète pas d'animal avec** — c'est-à-dire les animaux qui peuvent mourir !
+
+**Le commerçant** : Et si je le fais ?
+
+**Al-'Abbâs** : **Si tu fais cela, tu seras responsable !**
+
+**Le Narrateur** : *Les conditions d'Al-'Abbâs parvinrent au Messager d'Allah ﷺ... et il les approuva !*
+
+</div>
 
 ### Le Consensus
-Les Compagnons رضي الله عنهم sont unanimes sur la licéité de la mudarabah. Les orphelins d'Abdullah ibn Umar et Abdullah ibn Mas'ud recevaient leurs biens en mudarabah.
+
+Les Compagnons, qu'Allah les agrée, sont unanimes sur la licéité de la moudaraba. Les orphelins de 'Abdullah ibn 'Umar et 'Abdullah ibn Mas'ud donnaient leurs biens en moudaraba.
 
 ### La Raison
-Le besoin appelle à la mudarabah : le propriétaire du capital peut ne pas savoir faire du commerce, et le travailleur peut ne pas avoir d'argent. La mudarabah réunit les deux intérêts.
+
+Le besoin appelle à la moudaraba :
+- Le détenteur du capital peut **ne pas savoir commercer**
+- Le travailleur peut **ne pas posséder de capital**
+- Dans la moudaraba il y a **combinaison des deux intérêts** !
 
 ---
 
-## Les Piliers de la Mudarabah
+## Les Piliers de la Moudaraba
+
+\`\`\`
+┌─────────────────────────────────────────────────────────────────────┐
+│              🏛️ Les Quatre Piliers de la Moudaraba                   │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│   ┌─────────────┐   ┌─────────────┐   ┌─────────────┐   ┌─────────┐ │
+│   │             │   │             │   │             │   │         │ │
+│   │ Le Capital  │   │ Le Travail  │   │ Le Profit   │   │Formule  │ │
+│   │             │   │             │   │             │   │         │ │
+│   │ Numéraire   │   │ Commerce    │   │ Ratio connu │   │ Offre   │ │
+│   │ connu,      │   │ licite,     │   │ partagé     │   │ Accept. │ │
+│   │ remis       │   │ indépendant │   │             │   │         │ │
+│   │             │   │             │   │             │   │         │ │
+│   └─────────────┘   └─────────────┘   └─────────────┘   └─────────┘ │
+│         │                 │                 │               │       │
+│         ▼                 ▼                 ▼               ▼       │
+│   ┌─────────────────────────────────────────────────────────────┐   │
+│   │    Défaut dans l'un des piliers = Nullité de la moudaraba  │   │
+│   └─────────────────────────────────────────────────────────────┘   │
+│                                                                      │
+└─────────────────────────────────────────────────────────────────────┘
+\`\`\`
 
 ### Premier Pilier : Le Capital
 
-**Ses conditions :**
-1. Être en numéraire : il n'est pas valide en marchandises selon la majorité
-2. Être connu : en quantité et qualité
-3. Être déterminé : pas une dette dans la responsabilité
-4. Être remis au travailleur : pour qu'il puisse en disposer librement
+<div class="scene-box">
+
+**🎬 Conditions du capital**
+
+**① Qu'il soit en numéraire**
+- Il ne peut pas être en marchandises selon la majorité
+- Sagesse : facilité d'évaluation du profit et de la perte
+
+**② Qu'il soit connu**
+- Quantité connue : 100 000 riyals ✅
+- Nature connue : dollar ou riyal ✅
+
+**③ Qu'il soit déterminé**
+- Pas une dette
+- Désigné ou remis
+
+**④ Qu'il soit remis au travailleur**
+- Pour qu'il en dispose librement
+- Il ne reste pas sous la main du détenteur du capital
+
+</div>
 
 ### Deuxième Pilier : Le Travail
 
-**Ses conditions :**
-1. Être licite : la mudarabah dans l'illicite est interdite
-2. Le travailleur doit être indépendant : libre de disposer
-3. Être dans le commerce : achat et vente
+| Condition | Détail |
+|-----------|--------|
+| Qu'il soit licite | La moudaraba dans l'alcool et les jeux de hasard est interdite |
+| Que le travailleur soit indépendant | Il a liberté de disposition dans l'achat et la vente |
+| Qu'il soit dans le commerce | Achat et vente, pas fabrication ou agriculture selon la majorité |
 
 ### Troisième Pilier : Le Profit
 
-**Ses conditions :**
-1. Être connu en pourcentage : comme la moitié ou le tiers
-2. Être partagé : ne pas être exclusif à l'un d'eux
-3. Provenir du profit, non du capital
+\`\`\`
+┌─────────────────────────────────────────────────────────────────────┐
+│              ✅ Conditions du profit                                 │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│  ① Qu'il soit connu en pourcentage                                  │
+│     • La moitié ✅   Le tiers ✅   Le quart ✅                        │
+│     • Un montant fixe ❌ (ex: 10 000 riyals pour toi)               │
+│                                                                      │
+│  ② Qu'il soit partagé                                               │
+│     • Il ne revient pas à l'un seul                                 │
+│     • "Tout le profit est pour moi" ❌                               │
+│                                                                      │
+│  ③ Qu'il provienne du profit, pas du capital                        │
+│     • On partage la plus-value sur le capital                       │
+│     • Le capital est rendu en premier                               │
+│                                                                      │
+└─────────────────────────────────────────────────────────────────────┘
+\`\`\`
 
-**Ce qui est interdit :**
-- Fixer un montant déterminé pour l'un d'eux
-- Garantir le capital sur le travailleur
-- Garantir un pourcentage de profit déterminé
+<div class="quote-box">
+
+**📜 Ce qui annule la moudaraba**
+
+**❌ L'interdit dans le partage du profit :**
+- Fixer un montant forfaitaire pour l'un des deux
+- Garantir le capital au travailleur
+- Garantir un taux de profit fixe (ex: 10% annuel garanti)
+
+**La raison :** Cela transforme la moudaraba de partenariat en prêt usuraire !
+
+</div>
 
 ### Quatrième Pilier : La Formule
 
-**Ses types :**
-- "Je te remets cet argent en mudarabah"
-- "Prends cet argent, fais-en commerce et le profit est entre nous"
-- Ou ce qui l'indique par parole ou acte
+**Formules de moudaraba :**
+- « Je te remets cet argent en moudaraba »
+- « Prends cet argent et fais-le fructifier, et le profit est entre nous »
+- Ou ce qui indique cela en parole ou en acte
 
 ---
 
-## Types de Mudarabah
+## Types de Moudaraba
 
-### La Mudarabah Absolue
+\`\`\`
+┌─────────────────────────────────────────────────────────────────────┐
+│              📊 Types de Moudaraba                                   │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│                        Moudaraba                                     │
+│                           │                                          │
+│             ┌─────────────┴─────────────┐                           │
+│             │                           │                           │
+│             ▼                           ▼                           │
+│   ┌──────────────────┐       ┌──────────────────┐                   │
+│   │ Moudaraba libre  │       │Moudaraba limitée │                   │
+│   ├──────────────────┤       ├──────────────────┤                   │
+│   │                  │       │                  │                   │
+│   │ Sans conditions  │       │ Avec conditions  │                   │
+│   │ Tout commerce    │       │ Commerce défini  │                   │
+│   │ Tout lieu        │       │ Lieu défini      │                   │
+│   │ Toute période    │       │ Période définie  │                   │
+│   │                  │       │                  │                   │
+│   └──────────────────┘       └──────────────────┘                   │
+│                                                                      │
+└─────────────────────────────────────────────────────────────────────┘
+\`\`\`
 
-**Définition :**
-Le propriétaire du capital remet son argent au travailleur pour qu'il fasse du commerce sans restriction de type, lieu ou temps.
+### La Moudaraba Libre (Mutlaqa)
 
-**Ses règles :**
-- Le travailleur peut faire tout type de commerce
+<div class="scene-box">
+
+**🎬 Exemple de moudaraba libre**
+
+**Sa'id** *(le détenteur du capital)* : Prends cet argent et fais-le fructifier, et le profit est entre nous moitié-moitié.
+
+**Khâlid** *(le travailleur)* : Dans quel type de commerce ?
+
+**Sa'id** : Ce que tu veux ! Tu connais mieux le marché.
+
+**Khâlid** : Et puis-je voyager avec ?
+
+**Sa'id** : Fais ce que tu considères être dans l'intérêt.
+
+✅ **C'est une moudaraba libre** — le travailleur est libre de disposer dans tous les types de commerce.
+
+</div>
+
+**Règles de la moudaraba libre :**
+- Le travailleur peut commercer dans tous les types de commerce
 - Il peut voyager avec l'argent
 - Il peut vendre au comptant ou à crédit selon l'usage
 
-### La Mudarabah Restreinte
+### La Moudaraba Limitée (Muqayyada)
 
-**Définition :**
-Le propriétaire du capital restreint le travailleur à un type de commerce, un lieu ou un temps spécifique.
+<div class="scene-box">
 
-**Exemples :**
-- "Commerce seulement dans les tissus"
-- "Ne voyage pas avec l'argent hors du pays"
-- "Ne vends pas en plusieurs fois"
+**🎬 Exemple de moudaraba limitée**
 
-**Règle en cas de violation :**
-Si le travailleur viole la condition, il garantit en cas de perte.
+**Ahmad** : Prends cet argent et fais-le fructifier, mais avec des conditions :
+- **Commerce uniquement dans l'immobilier**
+- **Ne voyage pas avec l'argent hors de la ville**
+- **Ne vends pas à crédit**
 
----
+**Muhammad** : Et si je ne respecte pas ?
 
-## Règles de la Mudarabah
+**Ahmad** : **Si tu ne respectes pas, tu seras responsable !**
 
-### Distribution du Profit
+</div>
 
-| Situation | Règle |
-|-----------|-------|
-| Profit | Divisé selon l'accord |
-| Pas de profit | Rien pour le travailleur, il a perdu son effort |
-| Perte | Sur le capital uniquement |
-
-**Règle importante :**
-> Le profit est une protection pour le capital.
-
-C'est-à-dire que le profit compense d'abord la perte, puis le reste est divisé.
-
-### La Garantie dans la Mudarabah
-
-**Le principe :**
-> Le travailleur est un dépositaire ; il ne garantit qu'en cas d'abus ou de négligence.
-
-**Exemples d'abus :**
-- Violer la condition du propriétaire du capital
-- Commercer dans l'illicite
-- Prêter l'argent à autrui
-
-**Exemples de négligence :**
-- Laisser l'argent sans protection
-- Négliger le commerce jusqu'à la perte
-
-### Les Dépenses de la Mudarabah
-
-**Du capital :**
-- Les dépenses commerciales habituelles
-- Les frais de stockage et de transport
-- Les salaires des employés
-
-**De l'argent personnel du travailleur :**
-- Ses dépenses personnelles en ville
-- En voyage, il y a divergence
+**Règle en cas de violation des conditions :**
+- Si le travailleur viole les conditions, il est responsable en cas de perte
+- Car il a outrepassé ce que le détenteur du capital a stipulé
 
 ---
 
-## La Fin de la Mudarabah
+## Règles de la Moudaraba
 
-### Causes de Fin
+### Distribution du Profit et de la Perte
 
-1. **La résiliation par l'une des parties :**
-   - La mudarabah est un contrat permissif qui peut être résilié
-   - La liquidation de la société est obligatoire à la résiliation
+\`\`\`
+┌─────────────────────────────────────────────────────────────────────┐
+│              ⚖️ Distribution du Profit et de la Perte                │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│   ┌────────────────────────┐                                        │
+│   │       Le Profit        │                                        │
+│   │   ─────────────        │                                        │
+│   │                        │                                        │
+│   │  Partagé selon accord  │                                        │
+│   │  Ex: 60% capital owner │                                        │
+│   │      40% travailleur   │                                        │
+│   │                        │                                        │
+│   └────────────────────────┘                                        │
+│                                                                      │
+│   ┌────────────────────────┐   ┌────────────────────────────┐       │
+│   │   Ni profit ni perte   │   │        La Perte            │       │
+│   │   ─────────────        │   │   ─────────────            │       │
+│   │                        │   │                            │       │
+│   │ • Détenteur: rien      │   │ • Portée sur le capital   │       │
+│   │ • Travailleur: perd    │   │ • Travailleur: perd son   │       │
+│   │   son effort seulement │   │   effort uniquement        │       │
+│   │                        │   │ • Ne garantit rien sauf   │       │
+│   │                        │   │   abus ou négligence      │       │
+│   └────────────────────────┘   └────────────────────────────┘       │
+│                                                                      │
+└─────────────────────────────────────────────────────────────────────┘
+\`\`\`
 
-2. **La mort de l'une des parties :**
-   - La mudarabah prend fin par la mort de l'une d'elles
-   - Les héritiers peuvent demander la liquidation
+<div class="quote-box">
 
-3. **La folie de l'une des parties :**
-   - Car elle fait perdre la capacité juridique
+**📜 Règle d'or**
 
-4. **La destruction du capital :**
-   - Si l'argent est détruit avant utilisation, elle prend fin
-   - Si détruit après utilisation, elle continue avec le reste
+> **Le profit protège le capital**
+
+C'est-à-dire que le profit sert d'abord à combler la perte, puis ce qui reste est partagé.
+
+**Exemple :** Capital 100 000 → Profit année 1 : 20 000 → Perte année 2 : 15 000
+- Résultat : Profit net 5 000 à partager selon l'accord
+
+</div>
+
+### Garantie dans la Moudaraba
+
+<div class="quote-box">
+
+**📜 La règle fondamentale**
+
+> **Le travailleur est un dépositaire, il ne garantit qu'en cas d'abus ou de négligence**
+
+</div>
+
+| Type de manquement | Exemple | Règle |
+|--------------------|---------|-------|
+| Abus | Violation des conditions du détenteur | Responsable |
+| Abus | Commerce dans l'illicite | Responsable |
+| Abus | Prêter l'argent à autrui | Responsable |
+| Négligence | Laisser l'argent sans protection | Responsable |
+| Négligence | Négliger le commerce jusqu'à ce que la marchandise se détériore | Responsable |
+| Sans abus | Perte du marché | Non responsable |
+
+### Dépenses de la Moudaraba
+
+| Type de dépense | Qui la supporte ? |
+|-----------------|-------------------|
+| Dépenses commerciales habituelles | Le capital |
+| Loyer des entrepôts et transport | Le capital |
+| Salaires des employés | Le capital |
+| Dépenses personnelles du travailleur en résidence | Ses propres fonds |
+| Dépenses du travailleur en voyage | Divergence (le plus juste : le capital) |
+
+---
+
+## Fin de la Moudaraba
+
+\`\`\`
+┌─────────────────────────────────────────────────────────────────────┐
+│              ⏰ Causes de fin de la Moudaraba                        │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│  ① Résiliation par l'une des parties                                │
+│     • La moudaraba est un contrat résiliable                        │
+│     • La société doit être liquidée à la résiliation                │
+│                                                                      │
+│  ② Décès de l'une des parties                                       │
+│     • La moudaraba prend fin au décès de l'un d'eux                 │
+│     • Les héritiers peuvent demander la liquidation                 │
+│                                                                      │
+│  ③ Aliénation mentale de l'une des parties                          │
+│     • Car cela le fait sortir de la capacité juridique              │
+│                                                                      │
+│  ④ Destruction du capital                                           │
+│     • Si détruit avant utilisation : fin de la moudaraba            │
+│     • Si détruit après utilisation : continue avec le reste         │
+│                                                                      │
+└─────────────────────────────────────────────────────────────────────┘
+\`\`\`
 
 ### Procédures de Liquidation
 
-1. Vendre les marchandises et les convertir en numéraire
-2. Récupérer les dettes dues
-3. Calculer le profit et la perte
-4. Rendre le capital à son propriétaire
-5. Diviser le profit selon l'accord
+1. **Vente des marchandises** et conversion en numéraire
+2. **Recouvrement des créances** dues
+3. **Calcul précis** du profit et de la perte
+4. **Restitution du capital** au détenteur en premier
+5. **Partage du profit** selon l'accord
 
 ---
 
-## Différence entre Mudarabah et Prêt Usuraire
+## Différence entre Moudaraba et Prêt Usuraire
 
-| Mudarabah Légale | Prêt Usuraire |
-|------------------|---------------|
-| Le capital est pour le commerce | Le prêt est pour la consommation ou la production |
-| Le profit n'est pas garanti | L'intérêt est garanti |
-| La perte est sur le propriétaire du capital | L'emprunteur garantit le remboursement |
-| Vrai partenariat | Relation créancier-débiteur |
-| Licite | Illicite |
+\`\`\`
+┌─────────────────────────────────────────────────────────────────────┐
+│         ⚖️ Moudaraba islamique VS Prêt usuraire                      │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│   ┌────────────────────────┐  ┌────────────────────────┐            │
+│   │                        │  │                        │            │
+│   │  Moudaraba islamique   │  │   Prêt usuraire       │            │
+│   │   ──────────────       │  │   ──────────────       │            │
+│   │                        │  │                        │            │
+│   │ • Capital pour commerce│  │ • Prêt pour consomm.  │            │
+│   │ • Profit non garanti   │  │ • Intérêt garanti     │            │
+│   │ • Perte sur le capital │  │ • Emprunteur garantit │            │
+│   │ • Partenariat réel     │  │ • Relation créancier- │            │
+│   │ • Profit en %          │  │   débiteur            │            │
+│   │                        │  │ • Intérêt fixe        │            │
+│   │      ✅ Licite         │  │       ❌ Interdit     │            │
+│   │                        │  │                        │            │
+│   └────────────────────────┘  └────────────────────────┘            │
+│                                                                      │
+└─────────────────────────────────────────────────────────────────────┘
+\`\`\`
 
 ---
 
-## Applications Contemporaines de la Mudarabah
+## 📖 Des récits des Pieux Prédécesseurs : La Moudaraba de Khadija et du Prophète ﷺ
+
+<div class="scene-box">
+
+**🎬 L'histoire de la moudaraba qui changea l'histoire**
+
+*Quinze ans avant la Révélation, à La Mecque...*
+
+**Maysara** *(le serviteur de Khadija)* : Ô ma maîtresse, tu m'as envoyé avec Muhammad ibn Abdullah pour le voyage en Syrie...
+
+**Khadija** *(impatiente)* : Comment l'as-tu trouvé ?
+
+**Maysara** : Ô ma maîtresse, je n'ai jamais vu quelqu'un d'aussi digne de confiance ! Et le commerce avec lui rapporte le double de ce que nous gagnons avec d'autres !
+
+**Khadija** : Comment cela ?
+
+**Maysara** : Il ne triche pas, ne ment pas, ne trahit pas... Et les gens lui font confiance et achètent de lui !
+
+**Le Narrateur** : *Khadija désira alors l'épouser... Ainsi la moudaraba fut la cause du mariage béni dont est issue la descendance du Prophète ﷺ !*
+
+</div>
+
+<div class="quote-box">
+
+**📜 La leçon à retenir**
+
+**L'honnêteté est le capital du travailleur !**
+
+Muhammad ﷺ ne possédait pas d'argent, mais il possédait ce qui est plus précieux : **la véracité et l'honnêteté**. Grâce à elles, la moudaraba réussit et Khadija profita, et l'Islam profita de ce mariage béni !
+
+</div>
+
+---
+
+## Applications Contemporaines de la Moudaraba
 
 ### Les Fonds d'Investissement Islamiques
 
-**Leur fonctionnement :**
-- Les investisseurs : les propriétaires du capital
-- Le gestionnaire du fonds : le mudarib (travailleur)
-- Le profit est distribué selon les pourcentages convenus
+\`\`\`
+┌─────────────────────────────────────────────────────────────────────┐
+│              🏦 Structure du Fonds d'Investissement Islamique        │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│   ┌──────────────┐         ┌──────────────┐         ┌────────────┐  │
+│   │ Investisseurs│ ──────► │   Le Fonds   │ ──────► │  Projets   │  │
+│   │(Dét. capital)│  fonds  │  (Moudarib)  │  invest.│ commerciaux│  │
+│   └──────────────┘         └──────────────┘         └────────────┘  │
+│          ▲                        │                        │        │
+│          │                        │                        ▼        │
+│          │                        │                 ┌────────────┐  │
+│          │                        │                 │  Profits   │  │
+│          │                        │                 │ ou pertes  │  │
+│          │                        │                 └────────────┘  │
+│          │                        ▼                        │        │
+│          │              ┌──────────────────┐               │        │
+│          └───────────── │ Distribution     │ ◄─────────────┘        │
+│                         │ selon les ratios │                        │
+│                         │    convenus      │                        │
+│                         └──────────────────┘                        │
+│                                                                      │
+└─────────────────────────────────────────────────────────────────────┘
+\`\`\`
 
 **Conditions de validité :**
-1. Clarté des pourcentages de profit
+1. Clarté des ratios de profit
 2. Pas de garantie du capital
 3. Investissement dans le licite
 
 ### Les Dépôts d'Investissement dans les Banques Islamiques
 
-**Leur forme :**
-- Le client : le propriétaire du capital
-- La banque : le mudarib
-- Le profit est divisé selon l'accord
-
-**Différence avec le dépôt usuraire :**
-- Pas de garantie du capital
-- Pas de garantie d'un pourcentage de profit déterminé
-- Le client est partenaire dans le profit et la perte
-
-### Les Sociétés de Mudarabah
-
-**Définition :**
-Sociétés qui rassemblent les fonds des investisseurs et les investissent dans des projets commerciaux.
-
-**Leurs conditions :**
-1. Transparence dans la gestion
-2. Clarification du mécanisme de distribution des profits
-3. Respect des règles de la charia
+| Élément | Dépôt islamique | Dépôt usuraire |
+|---------|-----------------|----------------|
+| Relation | Moudaraba (partenariat) | Prêt (dette) |
+| Capital | Non garanti | Garanti |
+| Profit | Pourcentage variable | Intérêt fixe |
+| Perte | Supportée par le déposant | Pas de perte |
+| Règle | ✅ Licite | ❌ Interdit |
 
 ---
 
-## 📖 Récits des Salaf : La Mudarabah d'al-'Abbas ibn 'Abd al-Muttalib
+## 🎯 Cas Contemporains : Jugez par vous-même !
 
-Al-'Abbas ibn 'Abd al-Muttalib رضي الله عنه — l'oncle du Prophète ﷺ — était parmi les riches de Quraysh et les plus expérimentés en commerce. Quand il donnait son argent en mudarabah, il stipulait au travailleur des conditions précises pour protéger le capital :
+### Cas 1 : Investissement dans un fonds islamique
 
-1. **"Qu'il ne traverse pas la mer avec"** — Protection contre les risques de naufrage
-2. **"Qu'il ne descende pas dans une vallée"** — Protection contre les risques d'inondation
-3. **"Qu'il n'achète pas de bête vivante"** — C'est-à-dire les animaux qui peuvent mourir
+<div class="scene-box">
 
-Il dit : **"S'il fait cela, il garantit"**
+**❓ La Question**
 
-Sa condition parvint au Messager d'Allah ﷺ **qui l'approuva**.
+J'ai placé 100 000 riyals dans un fonds d'investissement islamique. Le fonds prélève :
+- 2% de frais de gestion annuels
+- 20% des profits
 
-**Les leçons à retenir :**
-- ✅ Il est permis de restreindre la mudarabah pour protéger le capital
-- ✅ Le travailleur garantit s'il viole les conditions
-- ✅ Les conditions doivent être raisonnables et compréhensibles
+Après un an, le fonds a perdu 10%. Qui supporte la perte ?
 
----
+</div>
 
-## 🎯 Cas pratiques contemporains
+**La Réponse :**
 
-### Cas 1 : L'investissement dans un fonds islamique
+✅ **Vous supportez la perte sur le capital** — car vous êtes le détenteur du capital.
 
-**Situation :** J'ai placé 50 000 € dans un fonds d'investissement islamique. Le fonds prend 2% de frais de gestion annuels + 20% des profits. Après un an, le fonds a perdu 10%. Qui supporte la perte ?
-
-**Réponse :** ✅ **Vous supportez la perte sur le capital** — Car vous êtes le propriétaire du capital. Mais :
-- Les frais de gestion (2%) sont dus car c'est une rémunération pour le travail
-- Les 20% des profits ne sont pas dus car il n'y a pas de profit
-- Si le fonds garantit le capital, c'est contraire à la charia
+| Élément | Règle |
+|---------|-------|
+| Frais de gestion (2%) | Dus — car ce sont des honoraires pour le travail |
+| Les 20% des profits | Non dus — car il n'y a pas de profit |
+| Garantie du capital | Si le fonds le garantit = contraire à la charia ❌ |
 
 ---
 
 ### Cas 2 : Financer le projet d'un ami
 
-**Situation :** Mon ami a une excellente idée de projet mais n'a pas d'argent. Je veux le financer avec 25 000 € à condition de partager les profits moitié-moitié. Est-ce permis ?
+<div class="scene-box">
 
-**Réponse :** ✅ **Permis** — C'est une mudarabah légale valide. Mais attention :
-- ❌ N'exigez pas la garantie du capital
-- ❌ N'exigez pas un profit déterminé (comme 10% annuels)
-- ✅ Stipulez un pourcentage du profit (50% par exemple)
-- ✅ Documentez l'accord par écrit
+**❓ La Question**
 
----
+Mon ami a une excellente idée de projet mais n'a pas d'argent. Je veux le financer avec 50 000 riyals à condition de partager les profits moitié-moitié.
 
-### Cas 3 : Le dépôt d'investissement à la banque islamique
+Est-ce permis ?
 
-**Situation :** La banque islamique propose un "dépôt d'investissement" avec un rendement prévu de 5% annuels. Quelle est la différence avec l'intérêt de la banque conventionnelle ?
+</div>
 
-**Réponse :**
-- **Banque islamique :** 5% prévus et non garantis, peuvent augmenter, diminuer ou être en perte
-- **Banque conventionnelle :** 5% garantis quoi qu'il arrive
+**La Réponse :**
 
-⚠️ **Attention :** Si la banque islamique garantit le rendement, c'est de l'usure déguisée !
+✅ **Permis** — c'est une moudaraba islamique valide. Mais attention :
 
----
-
-### Cas 4 : Les plateformes de financement participatif
-
-**Situation :** Une plateforme électronique rassemble les fonds des investisseurs et finance des petits projets. Elle donne aux investisseurs 12% annuels fixes. Est-ce licite ?
-
-**Réponse :** ❌ **Interdit** — Le rendement fixe garanti = usure. La mudarabah légale exige :
-- Un pourcentage du profit, pas un montant fixe
-- La possibilité de perte
-- La transparence sur les projets financés
+| ✅ Correct | ❌ Erreur |
+|-----------|----------|
+| Pourcentage du profit (50%) | Garantie du capital |
+| Documenter l'accord par écrit | Profit fixe (10% annuel) |
+| Définir le type de commerce | Montant forfaitaire (5000 pour toi) |
 
 ---
 
-### Cas 5 : L'investissement immobilier
+### Cas 3 : Le dépôt d'investissement
 
-**Situation :** J'ai donné à quelqu'un 500 000 € pour acheter un bien immobilier et le louer. Nous avons convenu que le loyer me revient et le bien lui appartient à la fin. Est-ce valide ?
+<div class="scene-box">
 
-**Réponse :** ⚠️ **Ce n'est pas une mudarabah valide** — Car :
-- La mudarabah concerne le commerce (achat et vente), pas la location
-- L'accord que le bien lui appartient = garantie du capital
+**❓ La Question**
 
-**L'alternative correcte :** Un partenariat dans le bien, le loyer divisé selon les parts, et au moment de la vente, le prix est divisé.
+La banque islamique propose un « dépôt d'investissement » avec un rendement attendu de 5% annuel.
+La banque conventionnelle propose un « dépôt » avec un rendement garanti de 5%.
+
+Quelle est la différence ?
+
+</div>
+
+**La Réponse :**
+
+\`\`\`
+┌─────────────────────────────────────────────────────────────────────┐
+│              La différence fondamentale                              │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│   La banque islamique :                                             │
+│   • 5% attendus et non garantis                                     │
+│   • Peut augmenter, diminuer ou être en perte                       │
+│   • Relation : partenariat (moudaraba)                              │
+│   • ✅ Licite                                                        │
+│                                                                      │
+│   La banque usuraire :                                              │
+│   • 5% garantis quoi qu'il arrive                                   │
+│   • Ne change pas et ne perd pas                                    │
+│   • Relation : prêt à intérêt                                       │
+│   • ❌ Interdit                                                      │
+│                                                                      │
+│   ⚠️ Attention : Si la banque "islamique" garantit le rendement    │
+│      = usure déguisée !                                             │
+│                                                                      │
+└─────────────────────────────────────────────────────────────────────┘
+\`\`\`
 
 ---
 
-## 💡 Pause réflexion
+### Cas 4 : Plateformes de financement participatif
 
-> **"Le gain va avec le risque"** — Règle juridique
+<div class="scene-box">
+
+**❓ La Question**
+
+Une plateforme électronique collecte les fonds des investisseurs et finance de petits projets. Elle donne aux investisseurs **12% annuel fixe**.
+
+Est-ce licite ?
+
+</div>
+
+**La Réponse :**
+
+❌ **Interdit** — le rendement fixe garanti = usure !
+
+**Conditions de la moudaraba islamique :**
+- ✅ Un pourcentage du profit, pas un montant fixe
+- ✅ Possibilité de perte
+- ✅ Transparence sur les projets financés
+- ❌ « 12% garantis » = usure explicite
+
+---
+
+### Cas 5 : Investissement immobilier
+
+<div class="scene-box">
+
+**❓ La Question**
+
+J'ai donné à quelqu'un un million de riyals pour acheter un bien immobilier et le louer. Nous avons convenu :
+- Le loyer est pour moi
+- Le bien lui appartient à la fin
+
+Est-ce valide ?
+
+</div>
+
+**La Réponse :**
+
+⚠️ **Ce n'est pas une moudaraba valide** — car :
+- La moudaraba concerne le commerce (achat et vente), pas la location
+- Convenir que le bien lui appartient = garantie du capital (interdit !)
+
+**✅ L'alternative correcte :** 
+Partenariat dans le bien :
+- Le loyer est partagé selon les parts
+- À la vente, le prix est partagé selon le capital de chacun
+
+---
+
+## 💡 Arrêtez-vous et Réfléchissez
+
+<div class="quote-box">
+
+**📜 Grande règle juridique**
+
+> **« Al-ghunm bil-ghurm »** (Le profit avec le risque)
 
 C'est-à-dire : celui qui veut le profit doit supporter la possibilité de perte.
 
-Réfléchissez à vos investissements :
+</div>
 
-🔹 Cherchez-vous un "investissement garanti avec rendement fixe" ? Si vous le trouvez, sachez que c'est généralement de l'usure déguisée.
+**Réfléchissez à vos investissements :**
 
-🔹 Le vrai investissement comporte un risque. Êtes-vous prêt à supporter la perte potentielle ?
+🔹 Cherchez-vous un **« investissement garanti avec rendement fixe »** ?
+- Si vous le trouvez, sachez que c'est probablement de l'**usure déguisée** !
 
-🔹 Quand vous donnez votre argent à quelqu'un pour l'investir, documentez-vous l'accord ? Suivez-vous la performance de l'investissement ?
+🔹 Le vrai investissement comporte du risque. Êtes-vous prêt à supporter la perte potentielle ?
 
-**Rappel :** L'argent licite peut diminuer mais il est béni, et l'argent illicite peut augmenter mais il est dépourvu de bénédiction.
+🔹 Quand vous donnez votre argent à quelqu'un pour l'investir :
+- **Documentez-vous l'accord** ?
+- **Suivez-vous la performance** de l'investissement ?
+- **Savez-vous où votre argent** est investi ?
 
----
-
-## Résumé de la Leçon
-
-| Élément | Règle |
-|---------|-------|
-| La Mudarabah | Légale par la Sunna et le consensus |
-| Le capital | Doit être en numéraire, connu et remis |
-| Le profit | Divisé en pourcentages connus, pas en montants fixes |
-| La perte | Sur le capital, pas sur le travailleur |
-| La garantie | Pas de garantie sauf en cas d'abus ou de négligence |
+**Rappelez-vous :** L'argent licite peut diminuer mais il est **béni**, et l'argent illicite peut augmenter mais il est **anéanti** !
 
 ---
 
-*Ô Seigneur, augmente ma science*
+## 🔑 Résumé de la Leçon
+
+\`\`\`
+┌─────────────────────────────────────────────────────────────────────┐
+│              🎯 Résumé : Règles de la Moudaraba                      │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│  ✅ Moudaraba = Partenariat entre capital et travail                │
+│                                                                      │
+│  ✅ Capital : numéraire connu remis au travailleur                  │
+│                                                                      │
+│  ✅ Profit : partagé selon des ratios connus, pas forfaitaires      │
+│                                                                      │
+│  ✅ Perte : sur le capital, le travailleur perd son effort seul     │
+│                                                                      │
+│  ✅ Garantie : travailleur dépositaire, garantit seulement si       │
+│     abus ou négligence                                              │
+│                                                                      │
+│  ✅ Règle d'or : « Al-ghunm bil-ghurm » (profit avec risque)        │
+│                                                                      │
+│  ⚠️ Attention : rendement fixe garanti = usure !                    │
+│                                                                      │
+└─────────────────────────────────────────────────────────────────────┘
+\`\`\`
+
+---
+
+*Seigneur, augmente ma science*
 `;
