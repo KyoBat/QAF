@@ -1,257 +1,357 @@
-export const contentEn = `
-# Qiyas (Analogical Reasoning)
+/**
+ * Usul al-Fiqh - Lesson 005: Qiyas (Analogy)
+ * English content - Immersive version
+ */
 
-## Definition of Qiyas
+export const contentEn = `# 🔗 Qiyas — Analogical Reasoning
 
-**Qiyas** (القياس) is the linking of a subsidiary case to an original case in a legal ruling due to their sharing a common effective cause.
+> **﴿ So take warning, O people of insight ﴾**
+>
+> — **[Al-Hashr: 2]**
 
-### Linguistic Definition
+---
 
-- **Qiyas** linguistically means: measurement and equalization
-- One says: he measured (qasa) the cloth with a cubit, meaning he compared it to it
+## 🎬 Introduction
 
-### Technical Definition
+### 🎭 Scene: Omar and the Date Wine
 
-> Qiyas is: applying a known case to another known case to establish or negate a ruling for both, through a common element between them, whether it be a ruling or a characteristic.
+> **Medina, during the caliphate of Omar...**
+>
+> A man came to **Omar ibn al-Khattab** — may Allah be pleased with him — and asked:
+>
+> *"O Commander of the Faithful, we have a drink made from dates called nabidh. Is it permissible?"*
+>
+> Omar gathered the Companions and said:
+>
+> **"Wine was forbidden because it intoxicates and prevents from prayer. Does this nabidh intoxicate?"**
+>
+> They answered: *"Yes, if one drinks a lot of it."*
+>
+> Omar ruled:
+>
+> **"Whatever intoxicates in large amounts is forbidden even in small amounts. It has the same cause as wine!"**
 
-## The Pillars of Qiyas
+> 🎯 **This is qiyas — extending a ruling from an original case to a new case because they share the same cause!**
 
-Qiyas is built upon four essential pillars:
+---
 
-### 1. The Original Case (Al-Asl - المقيس عليه)
+### 🎭 Scene: Ali and Reasoning
 
-This is the case where the ruling is established by text or consensus.
+> **Ali ibn Abi Talib** — may Allah be pleased with him — was asked:
+>
+> *"Did the Messenger of Allah ﷺ specify you with something special?"*
+>
+> Ali replied:
+>
+> *"No, except what is in this sheet... and a man's understanding of his religion."*
 
-**Example**: Wine in Allah's saying: ﴿Wine, gambling... are an abomination of Satan's handiwork. Avoid it﴾
+> 💡 **Qiyas is part of understanding the religion!**
 
-### 2. The Subsidiary Case (Al-Far' - المقيس)
+---
 
-This is the case for which the ruling is sought to be established through analogy.
+## 📖 Definition of Qiyas
 
-**Example**: Intoxicating nabidh (fermented drink)
+### The Technical Definition
 
-### 3. The Ruling of the Original (Hukm al-Asl)
+> **Qiyas**: Extending the ruling of an original case to a new case because they share the legal cause.
 
-This is the legal ruling established in the original case that is intended to be applied to the subsidiary.
+### Elements of the Definition
 
-**Example**: The prohibition of wine
+| Element | Explanation |
+|---------|-------------|
+| 🔗 Extending | Taking the ruling from one place to another |
+| 📜 Original case | The matter with an established ruling |
+| 🆕 New case | The matter whose ruling is sought |
+| ⚖️ The cause | The reason that caused the ruling |
 
-### 4. The Effective Cause ('Illa - العلة)
+---
 
-This is the apparent and precise characteristic upon which the ruling is based.
+## 🧱 Pillars of Qiyas
 
-**Example**: Intoxication (which is the common cause between wine and nabidh)
+### The Four Pillars
 
-## Types of Qiyas
+| Pillar | Definition | Example |
+|--------|------------|---------|
+| 📜 Original case (Asl) | What has an established ruling | Wine |
+| ⚖️ Ruling of the original | The existing ruling | Prohibition |
+| 🆕 New case (Far') | What is being compared | Nabidh |
+| 🔗 Cause ('Illa) | The shared reason | Intoxication |
 
-### According to Strength
+### Complete Example
+
+| Pillar | In the wine example |
+|--------|---------------------|
+| 📜 Original | Wine (khamr) |
+| ⚖️ Ruling | Haram |
+| 🆕 New case | Nabidh (date drink) |
+| 🔗 Cause | Intoxication |
+
+> 🎯 **Nabidh is prohibited by qiyas on wine because of intoxication!**
+
+---
+
+## ⚖️ Authority of Qiyas
+
+### Position
+
+| Order | Evidence |
+|-------|----------|
+| 1️⃣ | The Quran |
+| 2️⃣ | The Sunnah |
+| 3️⃣ | Ijma |
+| 4️⃣ | **Qiyas** |
+
+### Proofs
+
+#### From the Quran
+
+> **﴿ So take warning, O people of insight ﴾**
+>
+> — **[Al-Hashr: 2]**
+
+> 💡 **"Take warning" (i'tibar) means analogizing one situation to another!**
+
+#### From the Sunnah
+
+> The Prophet ﷺ said to a man who questioned paternity:
+>
+> **"Do you have camels? What is their color? Is there a grey one among them? From where did it get its greyness?"**
+>
+> The man said: *"Perhaps it's atavism."*
+>
+> The Prophet ﷺ said: **"And perhaps this child is also atavism."**
+>
+> — **[Al-Bukhari and Muslim]**
+
+> 🎯 **The Prophet ﷺ used qiyas to explain the ruling!**
+
+---
+
+## 🔍 Types of Qiyas
+
+### By Clarity of the Cause
 
 | Type | Definition | Example |
 |------|------------|---------|
-| Qiyas al-Awla (a fortiori) | The subsidiary deserves the ruling more | Prohibition of striking parents by analogy to prohibition of saying "uff" |
-| Qiyas al-Musawi (equal) | The subsidiary equals the original | Prohibition of nabidh by analogy to wine |
-| Qiyas al-Adna (lesser) | The subsidiary is less appropriate | Linking apples to wheat in prohibition of riba |
+| 🔊 Clear (Jali) | Cause is obvious | Prohibition of hitting parents (by qiyas on saying "uff") |
+| 🔇 Hidden (Khafi) | Cause is subtle | Rice is subject to riba (by qiyas on wheat) |
 
-### According to the Cause
+### By Strength
 
-1. **Qiyas al-'Illa**: The cause is textually stated or derived
-2. **Qiyas al-Dalala**: Linking through indication of the cause, not the cause itself
-3. **Qiyas al-Shabah**: The subsidiary oscillates between two originals, linked to the more similar
-
-## Conditions for Valid Qiyas
-
-### Conditions for the Original
-
-1. Its ruling must be established by Quran, Sunnah, or Consensus
-2. The original must not itself be a subsidiary of another
-3. The ruling must be rationally understandable (not purely devotional)
-
-### Conditions for the Subsidiary
-
-1. The cause present in the original must exist in it
-2. There must be no text establishing its ruling
-3. Its ruling must not precede the original's ruling
-
-### Conditions for the Ruling
-
-1. It must be a practical legal ruling
-2. It must not be specific to the original (like the Prophet's ﷺ special rulings)
-3. The cause must be rationally comprehensible
-
-### Conditions for the Cause
-
-1. It must be an apparent and precise characteristic
-2. It must be transitive (not limited to the original)
-3. It must not invalidate the text
-4. It must be appropriate to the ruling
-
-## Methods of Establishing the Cause
-
-### 1. Text (al-Nass)
-
-When the Lawgiver explicitly states the cause.
-
-**Example**: The Prophet's ﷺ saying: "I only forbade you because of the visitors" (cause for prohibiting storage of sacrificial meat)
-
-### 2. Indication (al-Ima')
-
-When the characteristic is associated with the ruling in a way that suggests causation.
-
-**Example**: The Prophet ﷺ said to one asking about giving dates as charity: "Do fresh dates decrease when dried?" He said: Yes. He said: "Then no"
-
-### 3. Consensus (al-Ijma')
-
-When scholars agree on the cause of a ruling.
-
-### 4. Suitability (Takhrij al-Manat)
-
-Extracting a non-textual cause by examining the suitability between the characteristic and the ruling.
-
-### 5. Examination and Division (al-Sabr wal-Taqsim)
-
-Enumerating characteristics suitable for causation, then eliminating those that do not fit.
-
-### 6. Refinement of the Criterion (Tanqih al-Manat)
-
-Removing characteristics that have no effect on the ruling.
-
-## Authority of Qiyas
-
-### Arguments of Those Who Accept It
-
-1. **From the Quran**: ﴿So take admonition, O you with insight﴾ - admonition is analogy
-2. **From the Sunnah**: The Prophet's ﷺ analogies, like his saying to the Khath'ami woman: "Do you see if your father had a debt..."
-3. **From Consensus**: The Companions' agreement on using analogy
-4. **From Reason**: The Sharia came to bring benefits and repel harms
-
-### The Zahiri Position
-
-The Zahiris denied the authority of Qiyas, saying one must adhere to the apparent meanings of texts.
-
-## Qiyas and Text
-
-### When Qiyas Contradicts Text
-
-The text takes absolute precedence over Qiyas, because Qiyas is a branch and text is the source.
-
-**Principle**: No Qiyas in the presence of text.
-
-## Practical Examples
-
-### First Example: Prohibition of Drugs
-
-| Pillar | Application |
-|--------|-------------|
-| Original | Wine |
-| Subsidiary | Drugs (hashish, heroin...) |
-| Ruling of Original | Prohibition |
-| Cause | Intoxication and clouding of reason |
-
-### Second Example: Sale of a Defective Car
-
-| Pillar | Application |
-|--------|-------------|
-| Original | Sale of musarrah (sheep with retained milk) |
-| Subsidiary | Defective car with hidden defect |
-| Ruling of Original | Buyer's right of option |
-| Cause | Deception and fraud |
-
-## Qiyas According to the Four Schools
-
-- **Hanafis**: Expand Qiyas and sometimes prefer it over solitary hadith
-- **Malikis**: Use it while considering public interest
-- **Shafi'is**: Regulate Qiyas with precise conditions
-- **Hanbalis**: Use it in the absence of text
+| Type | Definition | Example |
+|------|------------|---------|
+| 💪 Stronger (Awla) | New case is stronger in the cause | Prohibition of hitting (by qiyas on saying "uff") |
+| ⚖️ Equal (Musawi) | Same level | Burning orphan's property (by qiyas on eating it) |
+| 📉 Weaker (Adna) | Weaker in the cause | Apples subject to riba (by qiyas on wheat) |
 
 ---
 
-## 📖 Stories from the Companions: The Qiyas of Mu'adh ibn Jabal
+## 🔗 The Legal Cause ('Illa)
 
-When the Prophet ﷺ sent Mu'adh ibn Jabal to Yemen as a judge, he asked him:
+### Definition
 
-**"By what will you judge?"**
+> **The Cause**: The attribute that caused the ruling, that follows it in existence and absence.
 
-He said: By the Book of Allah.
+### Methods of Finding the Cause
 
-He said: **"And if you do not find it?"**
+| Method | Explanation | Example |
+|--------|-------------|---------|
+| 📜 Explicit text | Text states the cause | "Intoxicating" |
+| 🔍 Indication | Text points to it | "Contaminated" |
+| 🧪 Testing | Deduced through analysis | Measurability and edibility in riba |
 
-He said: By the Sunnah of the Messenger of Allah ﷺ.
+### Conditions of the Cause
 
-He said: **"And if you do not find it?"**
-
-He said: **I will exercise my own reasoning (ijtihad) and spare no effort.**
-
-The Prophet ﷺ struck his chest and said: **"Praise be to Allah who has guided the messenger of the Messenger of Allah to what pleases the Messenger of Allah."**
-
-**The Lesson**: Ijtihad and qiyas are legislated when there is no text.
-
----
-
-## 🎯 Contemporary Cases: Apply Qiyas!
-
-### Case 1: Ruling on Electronic Cigarettes (Vapes)
-
-**Question**: What is the ruling on electronic cigarettes?
-
-**Applying Qiyas**:
-| Pillar | Application |
-|--------|-------------|
-| Original | Regular cigarettes |
-| Subsidiary | Electronic cigarettes |
-| Ruling of Original | Prohibition or severe dislike (harmful) |
-| Cause | Harm to health |
-
-**Answer**: ✅ They take the ruling of regular cigarettes — prohibited or severely disliked.
+| Condition | Explanation |
+|-----------|-------------|
+| 🔒 Clear | Not obscure |
+| ⚖️ Suitable | Appropriate to the ruling |
+| 🔗 Consistent | Present when ruling is present |
+| 📊 Transitive | Can be applied elsewhere |
 
 ---
 
-### Case 2: Ruling on Cryptocurrencies (Bitcoin)
+## 🎭 Story: Abu Bakr and Analogizing Zakat
 
-**Question**: Is Bitcoin lawful money that can be traded?
+### The Cause
 
-**Qiyas Analysis**:
-- Is it analogous to gold and silver? (Riba applies)
-- Is it analogous to paper currencies? (Customary prices)
-- Is it analogous to commodities? (Disparity permitted)
+> After the Prophet ﷺ passed away, some tribes refused to pay zakat.
+>
+> Some Companions said: *"They are still Muslims, how can we fight them?"*
 
-**Answer**: ⚠️ **Contemporary disagreement** — Most hold they are like currencies, so riba of delay applies.
+### Abu Bakr's Qiyas
 
----
+> Abu Bakr said:
+>
+> **"By Allah, if they withhold from me even a rope they used to give to the Messenger of Allah ﷺ, I will fight them for it! Zakat is the right of wealth, just as prayer is the right of the body!"**
 
-### Case 3: Ruling on Organ Transplants
-
-**Question**: Is it permissible to donate a kidney to save a patient?
-
-**Qiyas Analysis**:
-| Pillar | Application |
-|--------|-------------|
-| Original | Saving a drowning person |
-| Subsidiary | Donating a kidney |
-| Ruling of Original | Obligatory |
-| Cause | Saving a life |
-
-**Answer**: ✅ **Permissible with conditions** according to most contemporary scholars.
+> 🎯 **He analogized the obligation of zakat to the obligation of prayer!**
 
 ---
 
-## 💡 Pause and Reflect
+## 📜 Examples of Qiyas
 
-**Practical Exercise**: 
+### In Worship
 
-Apply qiyas yourself: What is the ruling on **video games that contain gambling** (like loot boxes)?
+| New Case | Original Case | Cause |
+|----------|---------------|-------|
+| Fasting while intentionally vomiting | Fasting while eating | Deliberately introducing something |
+| Wudu for touching the Quran | Wudu for prayer | Requiring purity |
 
-Try to identify:
-1. The original case
-2. The common cause
-3. The ruling
+### In Transactions
 
-**Answer**: By analogy to maysir (gambling) — **prohibited** because it involves paying money to obtain something unknown.
+| New Case | Original Case | Cause |
+|----------|---------------|-------|
+| Drugs | Wine | Intoxication |
+| Online contracts | Presence contracts | Meeting of minds |
 
-## Conclusion
+### In Family Law
 
-Qiyas is a foundation of Islamic legislation that enables the mujtahid to link new issues to textually established ones. It is proof of the flexibility of Islamic Sharia and its suitability for every time and place.
+| New Case | Original Case | Cause |
+|----------|---------------|-------|
+| Paternal aunt marriage prohibition | Maternal aunt marriage prohibition | Close kinship |
+| Custody right | Breastfeeding right | Child's welfare |
 
 ---
 
-*Rabbi zidni 'ilma (Lord, increase me in knowledge)*
+## 🎯 Contemporary Cases
+
+### 💊 Case 1: Drugs
+
+> **Situation**: Are drugs like hashish and heroin prohibited?
+
+**❓ By qiyas on what?**
+
+<details>
+<summary>📜 Click for answer</summary>
+
+**Qiyas on wine:**
+
+| Element | Application |
+|---------|-------------|
+| 📜 Original case | Wine (khamr) |
+| ⚖️ Original ruling | Haram |
+| 🆕 New case | Drugs |
+| 🔗 Cause | Intoxication and altering the mind |
+
+> 💡 **Drugs are prohibited by qiyas on wine — same cause!**
+
+</details>
+
+---
+
+### 📱 Case 2: Contracts by Email
+
+> **Situation**: Can contracts be concluded by email?
+
+**❓ What is the ruling?**
+
+<details>
+<summary>📜 Click for answer</summary>
+
+**Qiyas on verbal contracts:**
+
+| Element | Application |
+|---------|-------------|
+| 📜 Original case | Verbal contract |
+| ⚖️ Original ruling | Valid |
+| 🆕 New case | Email |
+| 🔗 Cause | Exchange of offer and acceptance |
+
+> 💡 **Email contracts are valid — same cause!**
+
+</details>
+
+---
+
+### 🏦 Case 3: Delayed Currency Exchange
+
+> **Situation**: I exchanged dollars for euros with delivery next week.
+
+**❓ Is this permissible?**
+
+<details>
+<summary>📜 Click for answer</summary>
+
+**Qiyas on gold and silver exchange:**
+
+| Element | Application |
+|---------|-------------|
+| 📜 Original case | Gold for gold exchange |
+| ⚖️ Original ruling | Hand to hand (immediate) |
+| 🆕 New case | Currency exchange |
+| 🔗 Cause | Both are mediums of exchange |
+
+> 💡 **Currency exchange must be immediate — delay causes riba!**
+
+</details>
+
+---
+
+### 🚗 Case 4: Car Leasing to Own
+
+> **Situation**: "Lease to own" — is this valid?
+
+**❓ What is the ruling?**
+
+<details>
+<summary>📜 Click for answer</summary>
+
+**Analysis:**
+
+| Issue | Ruling |
+|-------|--------|
+| 🔴 Two contracts in one | Prohibited by qiyas |
+| 🟢 If separated | Permissible |
+| ⚖️ Majority verdict | Permissible with conditions |
+
+> 💡 **The ruling differs based on contract structure!**
+
+</details>
+
+---
+
+### 🧬 Case 5: Cloning
+
+> **Situation**: Is human cloning permissible?
+
+**❓ Is there qiyas here?**
+
+<details>
+<summary>📜 Click for answer</summary>
+
+**Analysis:**
+
+| Principle | Application |
+|-----------|-------------|
+| 🔴 Altering creation | By qiyas on prohibited alteration |
+| 🔴 Confusion of lineage | By qiyas on forbidden mixing |
+| ⚖️ Verdict | Prohibited by multiple evidences |
+
+> 💡 **Not by a single qiyas, but by multiple harmful causes!**
+
+</details>
+
+---
+
+## 💭 Reflection
+
+> **Imam Ash-Shafi'i** — may Allah have mercy on him — said:
+>
+> **"Qiyas is ijtihad, and ijtihad is qiyas — they are one in meaning."**
+
+> 🎯 **Qiyas is the mujtahid's tool to address what has no explicit text!**
+
+---
+
+## 📚 Summary
+
+| Concept | Explanation |
+|---------|-------------|
+| 🎯 Definition | Extending the ruling of an original case to a new case |
+| 🧱 Pillars | Original case, original ruling, new case, cause |
+| 📊 Position | Fourth source |
+| 🔗 The cause | The shared attribute |
+| 📜 Types | Clear/hidden, stronger/equal/weaker |
+| 🔧 Usage | In new matters that have no text |
 `;

@@ -1,284 +1,368 @@
-export const contentEn = `
-# Taqlid and the Schools of Islamic Law
+/**
+ * Usul al-Fiqh - Lesson 011: Al-Taqlid
+ * English content - Immersive version
+ */
 
-## Introduction
+export const contentEn = `# 📚 Al-Taqlid — Following a School of Law
 
-Taqlid is an integral part of the Islamic legal system. It is the means by which ordinary Muslims learn the rulings of their religion. The schools of law (madhahib) are the scholarly institutions that organized and preserved Islamic fiqh throughout the centuries.
-
----
-
-## 📖 Stories from the Imams: The Humility of Scholars
-
-### Imam Ash-Shafi'i says:
-
-> "If the hadith is authentic, it is my school. Throw my opinion against the wall."
-
-### Imam Ahmad says:
-
-> "Do not follow me blindly, nor Malik, nor Ash-Shafi'i, nor Al-Awza'i, nor Ath-Thawri. Take from where they took."
-
-### Imam Malik at the Grave of the Prophet ﷺ:
-
-Harun ar-Rashid came to Imam Malik and said: "O Abu Abdullah, I want to make people follow your book 'Al-Muwatta.'"
-
-Malik said: **"Do not do so! For the Companions of the Messenger of Allah ﷺ dispersed throughout the lands, and each people has knowledge."**
-
-**The Lesson**: The Imams themselves did not claim that they alone were upon the truth.
+> **﴿ So ask the people of the message if you do not know ﴾**
+>
+> — **[An-Nahl: 43]**
 
 ---
 
-## Definition of Taqlid
+## 🎬 Introduction
 
-**Linguistically:** From "qilada" (necklace), meaning to attach a matter to someone else.
+### 🎭 Scene: The Four Schools in History
 
-**Technically:** Accepting the statement of another without knowing their evidence.
+> **Baghdad, 4th century AH...**
+>
+> A student asked his teacher:
+>
+> *"Why do we have different schools? Isn't the truth one?"*
+>
+> The teacher smiled and said:
+>
+> **"These schools are like rivers flowing from one sea — the sea of the Prophet's ﷺ Sunnah. Each Imam understood as much as Allah granted him. All of them are on guidance."**
+>
+> The student asked: *"So which do I follow?"*
+>
+> The teacher replied:
+>
+> **"Follow any of them with sincerity, and you will find guidance. Allah does not burden a soul beyond its capacity."**
 
-It is also said: Acting according to another's statement without binding proof.
-
-## Difference Between Taqlid and Ittiba'
-
-| Taqlid | Ittiba' (Following) |
-|--------|---------------------|
-| Accepting without evidence | Accepting while knowing the evidence |
-| For the layperson who doesn't understand | For the student capable of understanding |
-| Permitted according to the majority | Recommended and sought |
-
-## Ruling on Taqlid
-
-### Taqlid in fundamentals of religion (creed):
-- **The majority:** Taqlid is not permitted in the fundamentals of faith
-- **Some scholars:** Permitted for the layperson unable to reason
-
-### Taqlid in branches (fiqh):
-- **For the layperson:** Obligatory, as they cannot practice ijtihad
-- **For the scholar:** Not permitted in what they can deduce through ijtihad
-
-Allah says: ﴿Ask the people of remembrance if you do not know﴾ [An-Nahl: 43]
+> 🎯 **Taqlid of qualified imams is the path of the Ummah!**
 
 ---
 
-## 🎯 Contemporary Cases: Judge for Yourself!
+### 🎭 Scene: The Wisdom of Diversity
 
-### Case 1: Moving Between Schools
+> **Imam Ibn Taymiyyah** — may Allah have mercy on him — was asked:
+>
+> *"Is scholarly disagreement a mercy or a tribulation?"*
+>
+> He replied:
+>
+> **"Disagreement in branches is a mercy, and agreement on fundamentals is the religion. The Companions differed in matters of fiqh, yet loved each other and prayed behind one another."**
 
-**Said** follows the Hanafi school. He read that the Shafi'is hold that touching a woman invalidates ablution, while the Hanafis do not. He decided to follow the Hanafi school on this issue because it is "easier."
-
-**Question**: Is this permissible?
-
-**Answer**:
-- ✅ **Permissible** provided his intention is not to seek dispensations
-- ⚠️ **Preferable**: For a layperson to adhere to one school
-
----
-
-### Case 2: "An Authentic Hadith But My School Says Otherwise"
-
-**Nura** learned that raising the hands at bowing and rising from it is established in many authentic hadiths, but her school (Hanafi) does not hold this.
-
-**Question**: What should she follow?
-
-**Answer**:
-- **If she is certain of the evidence**: She follows the hadith
-- **Remember what Imam Abu Hanifa himself said**: "If the hadith is authentic, it is my school"
+> 💡 **Diversity in fiqh is richness — not a problem!**
 
 ---
 
-### Case 3: School Fanaticism
+## 📖 Definition of Taqlid
 
-**In the neighborhood mosque**, a heated argument broke out among worshipers: Is placing the hands on the chest in prayer sunnah, or leaving them at the sides? It reached the point of insults!
+### Linguistic Meaning
 
-**Question**: What is your stance?
+> **Taqlid**: From "qilada" (necklace) — putting something around the neck, meaning entrusting oneself.
 
-**Answer**:
-- ❌ **Disagreement in branches should not spoil brotherhood**
-- ✅ **Both opinions are valid** according to their proponents with evidence
-- 🤝 **The foundation**: Brotherhood in religion is greater than a subsidiary disagreement
+### Technical Definition
 
----
+> **Taqlid**: Accepting the opinion of another without knowing the evidence.
 
-## The Four Schools of Law
+### The Concept
 
-### The Hanafi School
-
-**Founder:** Imam Abu Hanifa An-Nu'man ibn Thabit (80-150 AH)
-
----
-
-## 📖 From the Life of Imam Abu Hanifa
-
-Imam Abu Hanifa was a successful merchant. One day he sold a garment to a woman who asked: "How much is it?"
-
-He said: "One hundred dirhams."
-
-She said: "Rather, it is worth two hundred!"
-
-He said: **"No, by Allah, I will only take what it deserves."**
-
-**The Lesson**: The Imam applied fiqh in his life before teaching it.
+| Mujtahid | Muqallid (Follower) |
+|----------|---------------------|
+| 🔍 Researches the evidence | 📚 Follows the mujtahid |
+| ⚖️ Derives rulings | ✅ Applies the ruling |
+| 🎓 Capable of ijtihad | 🙏 Relies on the scholar |
 
 ---
 
-**Characteristics:**
-- Extensive use of qiyas and reason
-- Attention to hypothetical fiqh
-- Consideration of custom and istihsan
+## ⚖️ Ruling on Taqlid
 
-**Notable scholars:**
-- Abu Yusuf (his companion)
-- Muhammad ibn Al-Hasan Ash-Shaybani
-- Imam As-Sarakhsi
-- Al-Kasani
+### For the Common Person
 
-**Spread:**
-- Turkey, Central Asia, Indian subcontinent
-- Afghanistan, Iraq, Syria, Egypt (historically)
+| Situation | Ruling |
+|-----------|--------|
+| 🔵 Cannot make ijtihad | Obligatory to follow a scholar |
+| 📖 "Ask the people of knowledge" | Quranic command |
+| 🤝 By consensus | They followed the Companions |
 
-### The Maliki School
+### For the Scholar
 
-**Founder:** Imam Malik ibn Anas (93-179 AH)
-
-**Characteristics:**
-- Relying on the practice of the people of Madinah
-- Extensive use of unrestricted interests (al-masalih al-mursala)
-- Blocking the means (sadd adh-dhara'i)
-
-**Notable scholars:**
-- Ibn Al-Qasim
-- Sahnun
-- Ibn Rushd (grandfather and grandson)
-- Al-Qarafi
-
-**Spread:**
-- North Africa, West Africa
-- Sudan, UAE, Kuwait, Bahrain
-
-### The Shafi'i School
-
-**Founder:** Imam Muhammad ibn Idris Ash-Shafi'i (150-204 AH)
-
-**Characteristics:**
-- Establishing the foundations of fiqh as an independent science
-- Combining the methods of the people of hadith and the people of opinion
-- Precision in derivation
-
-**Notable scholars:**
-- Al-Muzani
-- Imam An-Nawawi
-- Imam Ar-Rafi'i
-- Ibn Hajar Al-Asqalani
-
-**Spread:**
-- Egypt, Yemen, Indonesia, Malaysia
-- East Africa, South India
-
-### The Hanbali School
-
-**Founder:** Imam Ahmad ibn Hanbal (164-241 AH)
-
-**Characteristics:**
-- Strictness in adhering to texts
-- Little recourse to opinion and qiyas
-- Many narrations from the Imam
-
-**Notable scholars:**
-- Ibn Qudama
-- Ibn Taymiyyah
-- Ibn Al-Qayyim
-- Al-Mardawi
-
-**Spread:**
-- Saudi Arabia, Qatar
-- Some regions of Iraq and the Levant
-
-## Causes of Differences Between Schools
-
-1. **Difference in understanding texts:**
-   - Variation in understanding verses and hadiths
-
-2. **Difference in hadith authenticity:**
-   - What some authenticate may be weakened by others
-
-3. **Difference in foundations:**
-   - Such as the authority of Madinan practice and istihsan
-
-4. **Difference in applying rules:**
-   - Variation in applying rules to branches
-
-5. **Multiplicity of linguistic possibilities:**
-   - Some terms can have multiple meanings
-
-## Ethics in Dealing with School Differences
-
-1. **Respect all schools:** without fanaticism
-2. **Do not consider mujtahids as erring:** in matters of ijtihad
-3. **Follow the evidence:** when it becomes clear
-4. **Avoid harmful mixing:** between schools
-5. **Preserve unity:** and avoid division
-
-## School Affiliation: Legitimacy and Conditions
-
-### Ruling on school affiliation:
-- Permitted according to the majority of scholars
-- Preferable for the layperson to adhere to one school
-
-### Conditions:
-1. **Do not contradict explicit text:** when it becomes clear
-2. **Do not follow dispensations:** between schools
-3. **Avoid prohibited mixing:** in a single issue
-4. **Respect scholars:** without disparaging them
-
-## Mixing Between Schools (Talfiq)
-
-**Definition:** Combining different opinions from multiple schools in a single issue.
-
-**Ruling:**
-- **Prohibited:** What leads to an act that no one approves
-- **Permitted:** What does not lead to that, especially in necessity
-
-**Example of prohibited:**
-Someone who performs ablution according to one school then touches a woman (invalidating according to Shafi'is), then prays according to another school that considers their ablution invalid.
-
-## Role of Schools in Preserving Fiqh
-
-1. **Organizing legal material:** and its classification
-2. **Facilitating learning:** for students
-3. **Preserving legal heritage:** through centuries
-4. **Multiplicity of perspectives:** enriching fiqh
-5. **Providing reference:** for judiciary and fatwa
-
-## The Muslim's Position Toward Schools
-
-1. **Respect and appreciation:** for all imams and schools
-2. **Absence of fanaticism:** for one school at the expense of another
-3. **Seeking evidence:** and striving to know it
-4. **Following the most probable:** when able to determine it
-5. **Taqlid when unable:** to practice ijtihad
+| Situation | Ruling |
+|-----------|--------|
+| 🔴 If capable of ijtihad | Must derive for themselves |
+| 🟡 In matters outside expertise | May follow others |
+| ⚖️ By evidence | "Take from where they took" |
 
 ---
 
-## 💡 Pause and Reflect
+## 📊 The Four Schools of Law
 
-**Question for Thought**:
+### 1️⃣ The Hanafi School
 
-Imagine you are in the time of Imam Ash-Shafi'i, and someone comes to you saying: "I am a Shafi'i and will not listen to any other school!"
+| Element | Details |
+|---------|---------|
+| 👨‍🏫 Founder | Imam Abu Hanifa Al-Nu'man (80-150 AH) |
+| 📍 Origin | Kufa, Iraq |
+| 🌍 Spread | Turkey, Central Asia, Subcontinent |
+| 📜 Methodology | Extensive use of reason and qiyas |
 
-**What would Imam Ash-Shafi'i himself say to him?**
+### 2️⃣ The Maliki School
 
-Remember his words, may Allah have mercy on him:
-> "I never debated anyone except that I wished Allah would make the truth appear on his tongue."
+| Element | Details |
+|---------|---------|
+| 👨‍🏫 Founder | Imam Malik ibn Anas (93-179 AH) |
+| 📍 Origin | Medina |
+| 🌍 Spread | North Africa, West Africa, Spain historically |
+| 📜 Methodology | Practice of Medina people, maslaha |
 
-And his saying:
-> "My opinion is correct with the possibility of error, and the opinion of others is wrong with the possibility of correctness."
+### 3️⃣ The Shafi'i School
+
+| Element | Details |
+|---------|---------|
+| 👨‍🏫 Founder | Imam Muhammad ibn Idris Ash-Shafi'i (150-204 AH) |
+| 📍 Origin | Mecca, then Egypt |
+| 🌍 Spread | Southeast Asia, East Africa, parts of Middle East |
+| 📜 Methodology | Balance between text and reason |
+
+### 4️⃣ The Hanbali School
+
+| Element | Details |
+|---------|---------|
+| 👨‍🏫 Founder | Imam Ahmad ibn Hanbal (164-241 AH) |
+| 📍 Origin | Baghdad |
+| 🌍 Spread | Arabian Peninsula |
+| 📜 Methodology | Strong adherence to texts |
 
 ---
 
-**Practical Question**:
+## 🔗 Types of Taqlid
 
-In your country, what is the predominant school? Do you know the historical reason for its spread there?
+### By Scope
+
+| Type | Definition |
+|------|------------|
+| 📚 Complete (Kull) | Following one school in everything |
+| 📖 Partial (Juz'i) | Following in specific issues |
+
+### By Manner
+
+| Type | Definition |
+|------|------------|
+| ✅ Considered (Mu'tabar) | Following a qualified mujtahid |
+| ❌ Unconsidered (Ghayr Mu'tabar) | Following the unqualified |
 
 ---
 
-## Conclusion
+## ⚠️ Rules of Taqlid
 
-Taqlid is a necessity for the layperson, and the schools of law are a blessing for the community. It is not appropriate to be fanatical toward one or to disparage others. The duty is to follow what the evidence indicates while respecting scholars and acknowledging their merit.
+### What Is Permitted
+
+| Action | Ruling |
+|--------|--------|
+| ✅ Following one school | Permissible |
+| ✅ Switching schools with reason | Permissible |
+| ✅ Taking easier opinion with reason | Permissible for some |
+
+### What Is Not Permitted
+
+| Action | Ruling |
+|--------|--------|
+| 🚫 Following desires | Prohibited |
+| 🚫 "Cherry-picking" for ease | Disputed, most prohibit |
+| 🚫 Following the unqualified | Prohibited |
+
+### The Rule of Talfiq (Combining)
+
+> **Talfiq**: Combining opinions from different schools in one issue.
+
+| Type | Ruling |
+|------|--------|
+| 🟢 Permissible | If each part is valid in some school |
+| 🔴 Prohibited | If it creates an invalid whole |
+
+---
+
+## 🎭 Story: The Imams and Their Humility
+
+### Abu Hanifa
+
+> **Abu Hanifa** — may Allah have mercy on him — said:
+>
+> *"Our opinion is an opinion. If someone comes with better, we accept it."*
+
+### Malik
+
+> **Imam Malik** — may Allah have mercy on him — said:
+>
+> *"Everyone's word can be accepted or rejected, except the inhabitant of this grave ﷺ."*
+
+### Ash-Shafi'i
+
+> **Imam Ash-Shafi'i** — may Allah have mercy on him — said:
+>
+> *"If I said something and the Prophet ﷺ said otherwise, throw my saying against the wall."*
+
+### Ahmad
+
+> **Imam Ahmad** — may Allah have mercy on him — said:
+>
+> *"The opinion of Awza'i, Malik, Abu Hanifa — all are opinions. They are equal to me. The proof is only in the reports (hadith)."*
+
+> 🎯 **The Imams never claimed infallibility for themselves!**
+
+---
+
+## 🎯 Contemporary Cases
+
+### 🕌 Case 1: Praying Behind Other Schools
+
+> **Situation**: A Hanafi prays behind a Shafi'i imam.
+
+**❓ Is the prayer valid?**
+
+<details>
+<summary>📜 Click for answer</summary>
+
+**By consensus:**
+
+| Ruling | Explanation |
+|--------|-------------|
+| ✅ Valid | By agreement of scholars |
+| 📜 Evidence | The Companions differed yet prayed behind each other |
+| 🤝 Unity | Schools don't create separate groups |
+
+> 💡 **Difference in fiqh doesn't invalidate prayer behind others!**
+
+</details>
+
+---
+
+### 📱 Case 2: Following an Online Mufti
+
+> **Situation**: I watch a scholar online and follow their fatwas.
+
+**❓ Is this valid taqlid?**
+
+<details>
+<summary>📜 Click for answer</summary>
+
+**Conditions:**
+
+| Condition | Check |
+|-----------|-------|
+| 🎓 Is the scholar qualified? | Verify their credentials |
+| 📚 Does he follow a recognized methodology? | Check if consistent |
+| ⚖️ Is he trustworthy? | Known for piety |
+
+> 💡 **Online fatwas are valid if from qualified scholars!**
+
+</details>
+
+---
+
+### 🌍 Case 3: Switching Between Schools
+
+> **Situation**: I follow the Shafi'i school but want to follow Hanafi in wiping socks.
+
+**❓ Is this permissible?**
+
+<details>
+<summary>📜 Click for answer</summary>
+
+**Scholarly positions:**
+
+| Opinion | Ruling |
+|---------|--------|
+| 🟢 Permissible | If for valid reason (hardship) |
+| 🟡 Caution | Not merely for ease |
+| 🔴 Some prohibit | If no necessity |
+
+> 💡 **Switching with valid reason is generally permitted!**
+
+</details>
+
+---
+
+### 📚 Case 4: Which School to Follow?
+
+> **Situation**: I'm a new Muslim. Which school should I follow?
+
+**❓ What is the guidance?**
+
+<details>
+<summary>📜 Click for answer</summary>
+
+**Recommendations:**
+
+| Factor | Guidance |
+|--------|----------|
+| 🌍 Local teachers | Follow what's taught in your area |
+| 📚 Available resources | Where there are books and scholars |
+| 🤝 Community | What your community follows |
+| ⚖️ Or any of the four | All are valid paths |
+
+> 💡 **All four schools are paths to practicing Islam correctly!**
+
+</details>
+
+---
+
+### ⚖️ Case 5: Blind Taqlid vs. Informed Following
+
+> **Situation**: Should I know the evidence for every ruling I follow?
+
+**❓ What is required?**
+
+<details>
+<summary>📜 Click for answer</summary>
+
+**The balance:**
+
+| Person | Requirement |
+|--------|-------------|
+| 👤 Common person | Knowing evidence not required |
+| 📚 Student of knowledge | Should learn evidence over time |
+| 🎓 Scholar | Must know evidence |
+
+> 💡 **Learning evidence is recommended but not obligatory for laypeople!**
+
+</details>
+
+---
+
+## 📊 Comparison of the Four Schools
+
+### In Methodology
+
+| School | Characteristic Feature |
+|--------|------------------------|
+| 🔵 Hanafi | Extensive qiyas, considers public interest |
+| 🟢 Maliki | Practice of Medina, maslaha, sadd al-dhara'i |
+| 🟠 Shafi'i | Systematic usul, balance of text and reason |
+| ⚫ Hanbali | Strong adherence to hadith, even weak ones |
+
+### In Practical Differences
+
+| Issue | Differences Exist |
+|-------|-------------------|
+| 🕌 Prayer details | In qunoot, hand position |
+| 💧 Wudu | What breaks it, wiping |
+| 🍖 Food | What is permissible |
+| 💰 Transactions | Contract details |
+
+---
+
+## 💭 Reflection
+
+> **Ibn Taymiyyah** — may Allah have mercy on him — said:
+>
+> **"The four imams — may Allah be pleased with them — forbade the people from blindly following them in everything. They commanded that if someone's statement contradicts the hadith, the hadith should be followed."**
+
+> 🎯 **Taqlid is following qualified scholarship — not abandoning the Sunnah!**
+
+---
+
+## 📚 Summary
+
+| Concept | Explanation |
+|---------|-------------|
+| 🎯 Definition | Following a scholar's opinion without knowing evidence |
+| ⚖️ Ruling | Obligatory for non-mujtahid |
+| 📚 Four schools | Hanafi, Maliki, Shafi'i, Hanbali |
+| 🔗 Types | Complete or partial |
+| ⚠️ Limits | Not following desires, not unqualified |
 `;

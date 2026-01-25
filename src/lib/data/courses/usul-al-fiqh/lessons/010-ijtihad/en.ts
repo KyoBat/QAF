@@ -1,253 +1,362 @@
-export const contentEn = `
-# Ijtihad (Juristic Effort)
+/**
+ * Usul al-Fiqh - Lesson 010: Al-Ijtihad
+ * English content - Immersive version
+ */
 
-## Introduction
+export const contentEn = `# 🔍 Al-Ijtihad — Juristic Effort
 
-Ijtihad is one of the most important chapters in Islamic legal theory. It is the means by which legal rulings are derived from their sources. Allah has made it an open door for extracting rulings concerning new situations and contemporary developments.
-
-## Definition of Ijtihad
-
-**Linguistically:** Exerting effort and capacity to accomplish something.
-
-**Technically:** The effort exerted by the jurist to derive practical legal rulings from their detailed evidences.
-
-Imam Ash-Shafi'i said: "Ijtihad is for the scholar to exert all his efforts in seeking the ruling."
-
-## Legitimacy of Ijtihad
-
-### From the Quran:
-Allah says: ﴿So take a lesson, O you who have insight﴾ [Al-Hashr: 2]
-
-And: ﴿If they had referred it to the Messenger and to those of authority among them, those who can derive rulings from it would have known it﴾ [An-Nisa: 83]
-
-### From the Sunnah:
-The hadith of Mu'adh ibn Jabal when the Prophet ﷺ sent him to Yemen. He asked him: "How will you judge if a matter is presented to you?" He said: I will judge by the Book of Allah. He said: "And if you do not find it?" He said: Then by the Sunnah of the Messenger of Allah. He said: "And if you do not find it?" He said: I will exert my effort and spare no effort. The Prophet ﷺ struck his chest and said: "Praise be to Allah who has guided the messenger of the Messenger of Allah to what pleases the Messenger of Allah."
-
-### From Consensus:
-The scholars are unanimous on the legitimacy of ijtihad and that it is a collective obligation upon the community.
-
-## Conditions of the Mujtahid
-
-Ijtihad is only valid for one who meets the following conditions:
-
-### General conditions:
-1. **Islam:** because ijtihad is an act of worship
-2. **Puberty and reason:** because it is a responsibility
-3. **Uprightness:** for their fatwa to be accepted
-
-### Scholarly conditions:
-
-1. **Knowledge of the Quran:**
-   - Knowledge of the verses of rulings (about 500 verses)
-   - Understanding their meanings and occasions of revelation
-   - Knowledge of the abrogating and abrogated
-
-2. **Knowledge of the Sunnah:**
-   - Knowledge of the hadiths of rulings
-   - Distinguishing between authentic and weak
-   - Knowledge of the abrogating and abrogated
-
-3. **Knowledge of the Arabic language:**
-   - Grammar and morphology
-   - Rhetoric and semantics
-   - Understanding of Arab styles
-
-4. **Knowledge of usul al-fiqh:**
-   - Rules of derivation
-   - Methods of reasoning
-   - Objectives of the Law (maqasid)
-
-5. **Knowledge of points of consensus:**
-   - To not contradict what is unanimously agreed upon
-
-6. **Knowledge of qiyas:**
-   - Its pillars and conditions
-   - Its types and methods of attachment
-
-## Types of Ijtihad
-
-### According to scope:
-
-1. **The absolute (independent) mujtahid:**
-   - One who has reached the rank of ijtihad in all areas of fiqh
-   - Has their own foundations and methodology
-   - Example: the four Imams
-
-2. **The affiliated mujtahid:**
-   - One who practices ijtihad according to their imam's principles
-   - But differs from him in some branches
-   - Example: Al-Muzani among the Shafi'is
-
-3. **The school mujtahid:**
-   - One who practices ijtihad to prefer the opinions of their imam
-   - Example: An-Nawawi in the Shafi'i school
-
-4. **The fatwa mujtahid:**
-   - One who issues fatwas according to what the scholars of their school have preferred
-
-### According to subject:
-
-1. **Ijtihad in understanding the text:**
-   - Interpretation of verses and hadiths
-   - Understanding their intent
-
-2. **Ijtihad in verification of the cause (tahqiq al-manat):**
-   - Applying the general ruling to particular cases
-   - Example: determining who is the poor person deserving zakat
-
-3. **Ijtihad in refining the cause (tanqih al-manat):**
-   - Determining the cause from among several characteristics
-
-4. **Ijtihad in extracting the cause (takhrij al-manat):**
-   - Extracting the cause not mentioned in the text
-
-## Scope of Ijtihad
-
-### What is permissible for ijtihad:
-- Matters without definitive text
-- Matters without consensus
-- New situations and developments
-- Applying texts to realities
-
-### What is not permissible for ijtihad:
-- What is established by definitive text in authenticity and meaning
-- What is subject to consensus
-- Fundamentals of creed and defined acts of worship
-- What is necessarily known of the religion
-
-## Ruling on Ijtihad
-
-**Collective obligation:** If some perform it, others are exempted.
-
-The Prophet ﷺ said: "If the judge makes an effort and is correct, he has two rewards; and if he makes an effort and errs, he has one reward."
-
-## Ethics of the Mujtahid
-
-1. **Sincerity to Allah:** in seeking the truth
-2. **Freedom from desires:** and fanaticism of opinion
-3. **Verification and patience:** before issuing a ruling
-4. **Returning to truth:** when it becomes clear
-5. **Humility:** without arrogance from knowledge
-6. **Consulting scholars:** in difficult matters
-
-## Change of Ijtihad
-
-The mujtahid may change their ijtihad if:
-- A new evidence appears
-- An error in understanding the previous evidence becomes clear
-- The circumstances of the matter change
-
-Imam Ash-Shafi'i said: "If the hadith is authentic, it is my school."
-
-## Ijtihad in the Modern Era
-
-### Its importance:
-- Multiplication of new situations
-- Complexity of contemporary life
-- Need for legal rulings for new issues
-
-### Its conditions:
-- Collective ijtihad through fiqh academies
-- Recourse to specialists in each field
-- Consideration of the objectives of the Law
-- Not contradicting definitive texts
+> **The Prophet ﷺ said:**
+>
+> **"If a judge makes ijtihad and is correct, he has two rewards. If he makes ijtihad and errs, he has one reward."**
+>
+> — **[Al-Bukhari and Muslim]**
 
 ---
 
-## 📖 Stories from the Salaf
+## 🎬 Introduction
 
-**Umar's Ijtihad Regarding the Land of Sawad**
+### 🎭 Scene: Ali and the Disputed Pregnancy
 
-When the Muslims conquered Iraq during the caliphate of Umar ibn al-Khattab (may Allah be pleased with him), some Companions demanded that the lands be divided among the fighters, as was done with the spoils of Khaybar.
+> **Kufa, during the caliphate of Ali...**
+>
+> A woman was brought to **Ali ibn Abi Talib** — may Allah be pleased with him — who gave birth six months after marriage.
+>
+> Her husband accused her of zina!
+>
+> Ali ruled:
+>
+> **"The minimum pregnancy is six months!"**
+>
+> They asked: *"How did you know?"*
+>
+> Ali answered, combining two verses:
+>
+> **﴿ And his gestation and weaning is thirty months ﴾** + **﴿ And weaning is two years ﴾**
+>
+> 30 months - 24 months = **6 months!**
 
-Bilal ibn Rabah and Abd ar-Rahman ibn Awf said: "Divide it among us, O Commander of the Faithful."
+> 🎯 **This is ijtihad — exerting effort to derive a ruling from the texts!**
 
-But Umar (may Allah be pleased with him) exercised unique ijtihad and said: "If I were to divide it, nothing would remain for those who come after you, and you would find a single man owning an entire village."
+---
 
-Then he cited Allah's words: ﴿And those who came after them﴾ and said: "This verse includes those Muslims who come after them, so how can I divide what is rightfully theirs?"
+### 🎭 Scene: Ibn Abbas and Inheritance
 
-So he left the land to its people and imposed the kharaj tax on them for the Muslim treasury, so that all generations would benefit.
+> A complex inheritance case was brought to **Ibn Abbas** — may Allah be pleased with him.
+>
+> He sat and calculated, then said:
+>
+> *"If I gave each their full share, nothing would remain. So I will distribute proportionally."*
+>
+> This is what became known as **'Awl** (proportional reduction in inheritance).
 
-**The Lesson**: Sound ijtihad considers the public interest and the objectives of the Law. Scholars may differ in their ijtihad while maintaining mutual respect.
+> 💡 **Ijtihad = using evidence + intellect + knowledge!**
+
+---
+
+## 📖 Definition of Ijtihad
+
+### Linguistic Meaning
+
+> **Ijtihad**: Exerting utmost effort in any matter.
+
+### Technical Definition
+
+> **Ijtihad**: The mujtahid's exertion of effort to arrive at a presumed legal ruling.
+
+### Elements of the Definition
+
+| Element | Explanation |
+|---------|-------------|
+| 🔍 Exerting effort | Utmost ability |
+| 👨‍🎓 The mujtahid | One who fulfills the conditions |
+| ⚖️ Legal ruling | Pertaining to actions of the legally responsible |
+| 📊 Presumed | May be right or wrong |
+
+---
+
+## 👨‍🎓 Conditions of the Mujtahid
+
+### Scholarly Qualifications
+
+| Condition | Explanation |
+|-----------|-------------|
+| 📖 Knowledge of the Quran | What is abrogated, commands, prohibitions |
+| 📜 Knowledge of the Sunnah | Authentic, weak, abrogated |
+| 🤝 Knowledge of Ijma | What is agreed and what is differed |
+| 🔗 Knowledge of Qiyas | Its pillars and conditions |
+| 🗣️ Mastery of Arabic | Understanding the language of texts |
+| 📚 Knowledge of Usul al-Fiqh | The rules of deduction |
+| 🎯 Knowledge of Maqasid | The objectives of Sharia |
+
+### Personal Qualifications
+
+| Condition | Explanation |
+|-----------|-------------|
+| ⚖️ Justice | Righteousness and trustworthiness |
+| 🧠 Intelligence | Ability to reason |
+| 🔒 Caution | Carefulness in rulings |
+
+---
+
+## 📊 Levels of Mujtahids
+
+### The Classification
+
+| Level | Definition | Example |
+|-------|------------|---------|
+| 🌟 Absolute (Mutlaq) | Derives independently | The Four Imams |
+| ⭐ Within the school (Madhhab) | Follows the school's principles | Abu Yusuf with Abu Hanifa |
+| 🔵 In issues (Masa'il) | In some matters only | Later scholars |
+| 🟢 Preference (Tarjih) | Between opinions | Scholars of each school |
+
+---
+
+## 🔗 Areas of Ijtihad
+
+### Where Ijtihad Is Permitted
+
+| Area | Example |
+|------|---------|
+| 📖 Texts with multiple meanings | ﴿ Three quru' ﴾ |
+| 🔗 Analogy on texts | Applying wine ruling to drugs |
+| 🌟 Maslaha Mursala | What has no specific text |
+| ⚖️ Weighing between evidences | When texts appear to conflict |
+
+### Where Ijtihad Is Not Permitted
+
+| Area | Example |
+|------|---------|
+| 🔒 Definitive matters | Obligation of five prayers |
+| 🤝 Matters of consensus | Prohibition of riba |
+| 📖 Clear texts | Shares in inheritance |
+
+---
+
+## ⚖️ Ruling on Ijtihad
+
+### For the Capable
+
+| Situation | Ruling |
+|-----------|--------|
+| 🔴 If specifically needed | Obligatory on him |
+| 🟡 If others can handle it | Collective obligation |
+| 🟢 If no need | Recommended |
+
+### Conditions for Valid Ijtihad
+
+| Condition | Explanation |
+|-----------|-------------|
+| 📜 On matters admitting ijtihad | Not definitive matters |
+| 👨‍🎓 From a qualified mujtahid | Not from the unqualified |
+| 🔍 After exhaustive research | Not from initial impressions |
+
+---
+
+## 🎭 Story: Ijtihad of the Four Imams
+
+### Their Humility
+
+> **Imam Malik** — may Allah have mercy on him — said:
+>
+> *"I am only human: I err and I am correct. So examine my opinion: whatever agrees with the Book and Sunnah, accept it. And whatever contradicts the Book and Sunnah, leave it."*
+
+> **Imam Ash-Shafi'i** — may Allah have mercy on him — said:
+>
+> *"If the hadith is authentic, it is my madhhab."*
+
+> **Imam Abu Hanifa** — may Allah have mercy on him — said:
+>
+> *"This is my opinion, and it is the best I could reach. Whoever comes with better, we accept it."*
+
+> **Imam Ahmad** — may Allah have mercy on him — said:
+>
+> *"Do not follow me, nor Malik, nor Ash-Shafi'i. Take from where they took."*
+
+> 🎯 **The Imams didn't see their ijtihad as absolute truth!**
+
+---
+
+## 📜 Rules of Ijtihad
+
+### Regarding the Mujtahid
+
+| Rule | Explanation |
+|------|-------------|
+| 🔄 Ijtihad is not reversed by another | One mujtahid's view doesn't nullify another's |
+| 📊 The mujtahid may change his view | If stronger evidence appears |
+| ❌ He cannot follow others | If he has the ability |
+
+### Regarding the Ruling
+
+| Rule | Explanation |
+|------|-------------|
+| ✅ Two rewards if correct | For effort and correctness |
+| 🔵 One reward if wrong | For effort |
+| 🔒 The correct is one | According to the majority |
 
 ---
 
 ## 🎯 Contemporary Cases
 
-### Case One: The Ruling on Cryptocurrencies
+### 🏥 Case 1: Medical Ijtihad
 
-**Question:** Is it permissible to deal with cryptocurrencies (Bitcoin) in buying, selling, and investing?
+> **Situation**: A new medical issue arises with no previous fiqh discussion.
 
-**Answer:** Contemporary scholars have differed on this:
-- **Those who prohibit** argue there is excessive uncertainty (gharar), no guarantor, and it is a means for gambling
-- **Those who permit** argue it is valued property with market value, and the default in transactions is permissibility
-- **Those who restrict** allow it for transactions but not speculation, or within specific guidelines
+**❓ How is it handled?**
 
-This issue is among the new matters requiring collective ijtihad from specialists in both jurisprudence and economics.
+<details>
+<summary>📜 Click for answer</summary>
 
----
+**Method of Ijtihad:**
 
-### Case Two: Friday Prayer via Live Broadcast
+| Step | Application |
+|------|-------------|
+| 🔍 Understand the medical reality | Consult specialists |
+| 📖 Seek similar texts | What relates to it |
+| 🔗 Apply Qiyas | If there's a similar issue |
+| 🌟 Consider Maslaha | If no specific text |
+| 🤝 Consult scholars | Through fiqh councils |
 
-**Question:** Is the Friday prayer valid behind an imam broadcast via the internet during quarantine?
+> 💡 **Modern issues require specialized collective ijtihad!**
 
-**Answer:** Scholars exercised ijtihad on this new matter:
-- **The majority** hold it invalid because of the requirement of unity of place and connection of rows
-- **Some councils** issued rulings permitting praying Zuhr instead under exceptional circumstances
-- **Others** held that necessity is assessed according to its measure, so one prays Zuhr at home
-
-Conclusion: Friday prayer via broadcast is not valid, but the quarantined person is excused to pray Zuhr.
-
----
-
-### Case Three: Organ Donation
-
-**Question:** What is the ruling on organ donation after death or during life?
-
-**Answer:**
-- **During life:** Donating what does not lead to death or severe harm (like a kidney) is permissible if there is reasonable expectation of successful operation
-- **After death:** The majority of fiqh academies have permitted this with conditions:
-  1. The deceased's permission before death or the heirs' permission
-  2. That it be to save a life or essential organ
-  3. That it not be for monetary compensation (selling organs is forbidden)
+</details>
 
 ---
 
-### Case Four: Zakat on Stocks and Investment Funds
+### 💰 Case 2: New Financial Products
 
-**Question:** How is zakat calculated on stocks and investment funds?
+> **Situation**: A bank develops a new financial product.
 
-**Answer:** Scholars have exercised ijtihad on this:
-- **Trading stocks (for speculation):** Zakat is on the market value at the time of the lunar year (2.5%)
-- **Long-term investment stocks:** Some hold zakat is only on distributed profits; others on market value
-- **Investment funds:** Treated like trade goods
+**❓ How is it evaluated?**
+
+<details>
+<summary>📜 Click for answer</summary>
+
+**Steps of Ijtihad:**
+
+| Step | Application |
+|------|-------------|
+| 🔍 Analyze the contract | Its nature and components |
+| 📜 Compare to classical contracts | Is it a known contract or new? |
+| ⚖️ Apply Sharia criteria | Is there riba, gharar? |
+| 🤝 Sharia board review | Specialized scholars |
+
+> 💡 **Financial ijtihad requires understanding both fiqh and finance!**
+
+</details>
 
 ---
 
-### Case Five: Ruling on AI in Issuing Fatwas
+### 📱 Case 3: Technology Fatwas
 
-**Question:** Is it permissible to rely on AI programs in issuing fatwas?
+> **Situation**: New technologies raise unprecedented questions.
 
-**Answer:**
-- **Not permissible** for AI to be an independent source of fatwa, because ijtihad requires the qualification of a human mujtahid
-- **Permissible** to use it as an assistive tool for the mufti in research and gathering evidence and opinions
-- **Verification is required** because these programs may err or confuse opinions
+**❓ How are they addressed?**
 
-Knowledge is taken from scholars, not from machines.
+<details>
+<summary>📜 Click for answer</summary>
+
+**Method:**
+
+| Principle | Application |
+|-----------|-------------|
+| 🔍 Understand the technology | What it does exactly |
+| 📖 Apply general principles | Objectives of Sharia |
+| 🔗 Analogy on similar | What resembles it |
+| 🤝 Collective ijtihad | Scholar consultations |
+
+> 💡 **Technology ijtihad requires technical and Sharia knowledge!**
+
+</details>
 
 ---
 
-## 💡 Pause and Reflect
+### 🌍 Case 4: Minority Fiqh
 
-> **Question for Reflection:**
+> **Situation**: Muslims living in non-Muslim majority countries.
+
+**❓ How is ijtihad done for them?**
+
+<details>
+<summary>📜 Click for answer</summary>
+
+**Considerations:**
+
+| Factor | Application |
+|--------|-------------|
+| 🌍 Their specific context | What differs from Muslim lands |
+| 🔒 Preserving religion | While facilitating life |
+| ⚖️ Balancing interests | What is most beneficial |
+| 📜 Taking from different schools | When appropriate |
+
+> 💡 **Minority fiqh requires understanding context!**
+
+</details>
+
+---
+
+### 🧬 Case 5: Bioethics
+
+> **Situation**: Cloning, genetic modification, organ transplants.
+
+**❓ How are rulings derived?**
+
+<details>
+<summary>📜 Click for answer</summary>
+
+**Requirements:**
+
+| Element | Necessity |
+|---------|-----------|
+| 🔬 Scientific understanding | From specialists |
+| 📖 Sharia knowledge | From scholars |
+| 🤝 Collaborative ijtihad | Between both groups |
+| ⚖️ Applying Maqasid | Protecting the five necessities |
+
+> 💡 **Bioethics requires interdisciplinary ijtihad!**
+
+</details>
+
+---
+
+## ⚠️ Dangers of Unqualified Ijtihad
+
+### The Risks
+
+| Risk | Result |
+|------|--------|
+| 🚫 Ruling without knowledge | Leading people astray |
+| 📖 Misunderstanding texts | Wrong applications |
+| ⚖️ Conflicting fatwas | Confusion among Muslims |
+| 🔒 Playing with religion | Undermining Sharia |
+
+### The Warning
+
+> The Prophet ﷺ said:
 >
-> Imam Ahmad said: "One who issues fatwas to people should not force them upon his school of thought or be harsh with them."
+> **"Allah does not remove knowledge by snatching it from people, but by taking the scholars. Until when no scholar remains, people take ignorant leaders who give fatwas without knowledge, going astray and leading others astray."**
 >
-> How do you balance between adhering to what you consider most probable and respecting the ijtihad of other scholars in disputed matters? What is the effect of understanding ijtihad on your dealing with juristic differences?
+> — **[Al-Bukhari and Muslim]**
 
 ---
 
-## Conclusion
+## 💭 Reflection
 
-Ijtihad is a noble act of worship and a great responsibility. It is not permissible for the unqualified to engage in it, and it is not permissible to close its door because it is a legal necessity to face new developments and solve problems in light of Islamic law.
+> **Imam Ash-Shafi'i** — may Allah have mercy on him — said:
+>
+> **"If it weren't for scholars, people would be like animals."**
+
+> 🎯 **Ijtihad is a trust — carried only by the qualified!**
+
+---
+
+## 📚 Summary
+
+| Concept | Explanation |
+|---------|-------------|
+| 🎯 Definition | Exerting effort to derive legal rulings |
+| 👨‍🎓 Mujtahid conditions | Knowledge of Quran, Sunnah, Arabic, Usul |
+| 📊 Levels | Absolute, within school, in issues, preference |
+| ⚖️ Areas | Probable texts, analogy, maslaha |
+| ⚠️ Caution | Only for the qualified |
 `;

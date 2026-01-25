@@ -1,194 +1,361 @@
-export const contentEn = `
-# The Prophetic Sunnah
+/**
+ * Usul al-Fiqh - Lesson 003: The Sunnah
+ * English content - Immersive version
+ */
 
-## Definition of Sunnah
+export const contentEn = `# 📜 The Sunnah — The Second Source of Legislation
 
-**Sunnah** linguistically: the way and conduct, whether good or bad.
+> **﴿ And whatever the Messenger gives you - take it; and whatever he forbids you - abstain from it ﴾**
+>
+> — **[Al-Hashr: 7]**
 
-**Sunnah** technically according to usulists: what emanated from the Prophet ﷺ in terms of speech, action, or approval.
+---
 
-### Categories of Sunnah
+## 🎬 Introduction
+
+### 🎭 Scene: Mu'adh on His Way to Yemen
+
+> **Medina, 9 AH...**
+>
+> The Prophet ﷺ appointed **Mu'adh ibn Jabal** — may Allah be pleased with him — as judge in Yemen.
+>
+> Before his departure, the Prophet ﷺ asked him:
+>
+> **"How will you judge when a case comes to you?"**
+>
+> Mu'adh replied: *"I will judge by the Book of Allah."*
+>
+> The Prophet ﷺ asked: **"And if you don't find it there?"**
+>
+> Mu'adh replied: *"By the Sunnah of the Messenger of Allah."*
+>
+> The Prophet ﷺ asked: **"And if you don't find it there?"**
+>
+> Mu'adh replied: *"I will strive with my opinion and spare no effort."*
+>
+> The Prophet ﷺ said:
+>
+> **"Praise be to Allah who guided the messenger of the Messenger of Allah to what pleases the Messenger of Allah."**
+
+> ⚠️ **Important Note**: This hadith is famous among scholars for establishing the ranking of sources, though some hadith scholars have discussed its chain of transmission. But its meaning is confirmed by the practice of the Companions.
+
+> 🎯 **Thus the Sunnah was established as the second source of legislation!**
+
+---
+
+### 🎭 Scene: The Importance of the Sunnah
+
+> A man came to **Imran ibn Husayn** — may Allah be pleased with him — and said:
+>
+> *"Tell us only about the Quran!"*
+>
+> Imran replied:
+>
+> **"You and your companions pray, where do you find in the Quran that Dhuhr is four rak'ahs, with silent recitation? Where do you find the tawaf around the Ka'bah seven times? Where do you find stoning the jamarat?"**
+>
+> The man was silent.
+>
+> Imran said:
+>
+> **"This is the Sunnah! You cannot dispense with it!"**
+
+> 🎯 **The Sunnah explains, clarifies, and specifies what is in the Quran!**
+
+---
+
+## 📖 Definition of the Sunnah
+
+### The Technical Definition
+
+> **The Sunnah**: What is transmitted from the Prophet ﷺ of:
+> - **Statements** (what he said)
+> - **Actions** (what he did)
+> - **Approvals** (what was done in his presence without objection)
+> - **Characteristics** (his physical and moral descriptions)
+
+### Types of Sunnah
 
 | Type | Definition | Example |
 |------|------------|---------|
-| Verbal (Qawliyya) | What the Prophet ﷺ said | "Actions are but by intentions" |
-| Practical (Fi'liyya) | What the Prophet ﷺ did | The manner of praying and performing Hajj |
-| Approving (Taqririyya) | What the Prophet ﷺ approved by silence or approval | His approval of eating lizard |
-
-## Authority of the Prophetic Sunnah
-
-### Evidence from the Quran
-
-Allah the Most High says:
-
-> **"And whatever the Messenger has given you - take; and what he has forbidden you - refrain from"** [Al-Hashr: 7]
-
-> **"Say: If you love Allah, then follow me, Allah will love you"** [Al-Imran: 31]
-
-> **"Nor does he speak from desire. It is not but a revelation revealed"** [An-Najm: 3-4]
-
-### Evidence from the Sunnah
-
-The Prophet ﷺ said:
-
-> **"Indeed, I have been given the Quran and something like it along with it"** [Reported by Abu Dawud]
-
-### Consensus
-
-The Ummah is unanimous on the obligation to follow the authentic Prophetic Sunnah.
-
-## Position of the Sunnah in Relation to the Quran
-
-### The Sunnah with the Quran
-
-1. **Confirming the Quran**: like confirming the obligation of prayer and Zakat
-2. **Explaining the Quran**: like explaining how to pray and perform Hajj
-3. **Independent with new rulings**: like prohibiting marrying a woman and her aunt together
-
-### Types of Explanation
-
-| Type | Explanation | Example |
-|------|-------------|---------|
-| Detailing the concise | Clarifying what is summarized in the Quran | Detailing the rules of prayer |
-| Specifying the general | Limiting some individuals from the general | "No bequest for an heir" |
-| Restricting the absolute | Adding a restriction to the absolute | Cutting the right hand in theft |
-
-## Categories of Sunnah by Transmission
-
-### Mutawatir (Mass-transmitted)
-
-- **Definition**: what is reported by such a large number that their agreement on falsehood is impossible
-- **Status**: provides certain knowledge
-- **Example**: hadiths about the Basin (Hawd) and Intercession
-
-### Ahad (Singular)
-
-- **Definition**: what does not reach the level of tawatur
-- **Status**: provides preponderant probability if its chain is authentic
-- **Subdivisions**: well-known (mashhur), rare ('aziz), singular (gharib)
-
-## Conditions for Accepting Hadith
-
-### Conditions of Authenticity
-
-1. **Continuity of chain**: no break in the chain of narrators
-2. **Integrity of narrators**: they must be Muslim, adult, and sane
-3. **Precision of narrators**: their memorization and mastery of the hadith
-4. **Absence of anomaly**: the trustworthy not contradicting one more trustworthy
-5. **Absence of hidden defect**: free from hidden invalidating defects
-
-### Levels of Hadith
-
-| Level | Definition | Status |
-|-------|------------|--------|
-| Sahih (Authentic) | Fulfills all conditions | Evidence to be followed |
-| Hasan (Good) | Slightly diminished precision | Evidence to be followed |
-| Da'if (Weak) | One condition unfulfilled | Not usable for rulings |
-| Mawdu' (Fabricated) | Invented about the Prophet ﷺ | Forbidden to narrate except to warn |
-
-## Legislative and Non-Legislative Sunnah
-
-### What is Legislative
-
-- Worship and legal rulings
-- Ethics and commanded manners
-
-### What is Not Legislative
-
-- Purely worldly matters (like palm pollination)
-- Instinctive acts (like the manner of eating and drinking)
-- Prophetic specificities
-
-## Relationship Between Sunnah and Ijtihad
-
-### Did the Prophet ﷺ Perform Ijtihad?
-
-- The majority hold that he could perform ijtihad in matters without revelation
-- If he erred in ijtihad, revelation would descend to correct him
-
-## Importance of Sunnah in Islamic Fiqh
-
-- **The Quran cannot be understood without it**: as it is its practical explanation
-- **Source of many rulings**: like detailed Zakat rules
-- **Preserved by Allah**: through the efforts of scholars and their documentation
+| 🗣️ Statement | What the Prophet ﷺ said | "Actions are by intentions" |
+| 🚶 Action | What he did | His manner of praying |
+| ✅ Approval | What he approved | He saw dates being bartered and did not object |
+| 🌟 Characteristic | His descriptions | "The Prophet ﷺ was of medium height" |
 
 ---
 
-## 📖 Stories from the Salaf: Imran ibn Husayn and Adherence to the Sunnah
+## ⚖️ Position of the Sunnah in Legislation
 
-Imran ibn Husayn (may Allah be pleased with him) was sitting with his companions when a man said: "Tell us only from the Quran, leave us from hadith!"
+### The Ranking
 
-Imran became angry and said: **"Do you see if you and your companions were left with only the Quran, would you find in it that Dhuhr is four rak'ahs, Asr is four rak'ahs, and Maghrib is three? Would you find in the Quran that tawaf is seven circuits and sa'i is seven circuits?"**
+| Order | Evidence |
+|-------|----------|
+| 1️⃣ | The Quran |
+| 2️⃣ | **The Sunnah** |
+| 3️⃣ | Ijma |
+| 4️⃣ | Qiyas |
 
-Then he said: **"O people! Take from us, for by Allah, if you do not, you will certainly go astray."**
+### The Proof
 
-**The Lesson**: The Sunnah is essential for understanding the religion, and whoever claims independence from it has been ignorant of the reality of legislation.
+> Allah says:
+>
+> **﴿ And obey Allah and obey the Messenger ﴾**
+>
+> — **[An-Nisa: 59]**
 
----
-
-## 🎯 Contemporary Cases: Dealing with the Prophetic Sunnah
-
-### Case 1: "This is a Weak Hadith"
-
-**Context**: A person refuses to act on a hadith because he heard it is weak.
-
-**Question**: Is everything said to be weak not to be acted upon?
-
-**Answer**: ⚠️ One must verify the source of the weakening. The hadith may be authentic according to other hadith scholars. A weak hadith may be strengthened by supporting narrations. The reference is the specialists.
-
----
-
-### Case 2: Using a Fabricated Hadith
-
-**Context**: A hadith spreads on the internet: "Seek knowledge even in China."
-
-**Question**: Is it valid to use it as evidence?
-
-**Answer**: ❌ This hadith is very weak or fabricated according to many hadith scholars. It is not permissible to attribute it to the Prophet ﷺ, and seeking knowledge is established by many authentic evidences.
+> And He says:
+>
+> **﴿ Whoever obeys the Messenger has obeyed Allah ﴾**
+>
+> — **[An-Nisa: 80]**
 
 ---
 
-### Case 3: Legislative and Customary Sunnah
+## 🔗 Relationship of the Sunnah to the Quran
 
-**Context**: A person insists on always wearing white because the Prophet ﷺ used to wear it.
+### Types of Relationships
 
-**Question**: Is the Prophet's ﷺ wearing of white an obligatory legislation?
-
-**Answer**: ✅ Wearing white is a recommended sunnah but not obligatory. The Prophet's ﷺ natural and habitual actions are not binding legislation, unlike his devotional acts.
-
----
-
-### Case 4: Denying the Authority of the Sunnah
-
-**Context**: Some claim the Sunnah is not authoritative and the Quran is sufficient.
-
-**Question**: What is the response to this doubt?
-
-**Answer**: ❌ This contradicts the Quran itself which commands following the Messenger ﷺ. It contradicts the consensus of the Ummah across centuries. Whoever denies the authority of the Sunnah cannot pray, give zakat, or perform hajj.
+| Relationship | Definition | Example |
+|--------------|------------|---------|
+| 🔍 Explaining | Clarifying the Quran | The Sunnah explains how to pray |
+| ⛓️ Specifying | Limiting the general | "No inheritance for the killer" (specifies inheritance verses) |
+| 📏 Restricting | Conditioning the absolute | "Right hand" for cutting thief's hand |
+| ➕ Adding | Adding a new ruling | Prohibition of combining a woman with her aunt |
+| ✅ Confirming | Repeating the Quran | "Do not associate anything with Allah" |
 
 ---
 
-### Case 5: Distinguishing Between Understanding and Text
+## 📊 Classification of Hadith by Transmission
 
-**Context**: Two scholars differ in understanding one hadith.
+### By Number of Narrators
 
-**Question**: Does this mean the Sunnah is unclear?
+| Type | Definition | Status |
+|------|------------|--------|
+| 🔒 Mutawatir | Narrated by many at every level | Definitive in authenticity |
+| 🔓 Ahad | Narrated by fewer than mutawatir | Probable in authenticity |
 
-**Answer**: ✅ Disagreement in understanding does not diminish the authority of the text. Just as the Quran has clear and ambiguous verses, so does the Sunnah. Disagreement is a mercy when built on correct scholarly methodology.
+### Ahad Divisions
+
+| Type | Definition |
+|------|------------|
+| 👤 Gharib | One narrator at some level |
+| 👥 Aziz | Two at some level |
+| 👪 Mashhur | Three or more but not mutawatir |
+
+### Practical Example
+
+| Hadith | Type |
+|--------|------|
+| "Actions are by intentions" | Gharib (only Omar at the first level) |
+| The method of prayer | Mutawatir through practice |
 
 ---
 
-## 💡 Pause and Reflect
+## 🔍 Classification by Ruling
 
-**Question for Reflection**: How do you verify the authenticity of hadiths you use in your daily life? Do you distinguish between legislative and customary Sunnah?
+### According to Scholars
 
-**Remember**:
-- The Sunnah is revelation from Allah like the Quran
-- The Quran cannot dispense with the Sunnah
-- Verifying hadith authenticity is a religious trust
-- Understanding the Sunnah requires specialists
+| Type | Definition | Ruling |
+|------|------------|--------|
+| ✅ Sahih | Authentic | Binding proof |
+| 👍 Hasan | Good | Binding proof |
+| ❌ Da'if | Weak | Not proof in rulings |
+| 🚫 Mawdu' | Fabricated | Forbidden to use |
 
-## Conclusion
+### Conditions of Sahih
 
-The Prophetic Sunnah is the second source of legislation after the Quran, it is a binding evidence, explains and details the Quran and provides independent rulings, and the Muslim must follow it and act upon it.
+| Condition | Meaning |
+|-----------|---------|
+| 🔗 Connected chain | No break in the chain |
+| ⚖️ Just narrators | Upright and trustworthy |
+| 📝 Precise narrators | Accurate preservation |
+| 🚫 No hidden defect | No hidden weakness |
+| 🚫 No anomaly | Does not contradict stronger evidence |
+
+---
+
+## 🎭 Story: Imam Al-Bukhari and His Methodology
+
+### His Rigor
+
+> **Imam Al-Bukhari** — may Allah have mercy on him — did not write a hadith in his Sahih except after:
+>
+> - 🚿 Performing ghusl and praying two rak'ahs
+> - 🔍 Verifying every narrator in the chain
+> - 📜 Being certain of the authenticity
+
+### The Result
+
+> He selected **approximately 2,600 hadith** (without repetitions) from more than **600,000 hadith** he memorized!
+
+> 💡 **This shows the rigor of hadith scholars!**
+
+---
+
+## 📜 Types of Sunnah by Nature
+
+### 1️⃣ Legislative Sunnah
+
+| Type | Ruling | Example |
+|------|--------|---------|
+| ⚖️ As legislation | Binding | "Pray as you have seen me pray" |
+
+### 2️⃣ Human Sunnah
+
+| Type | Ruling | Example |
+|------|--------|---------|
+| 👤 As human | Not obligatory | His food and clothing preferences |
+
+### 3️⃣ Specific Sunnah
+
+| Type | Ruling | Example |
+|------|--------|---------|
+| 🎯 Specific to him | Not applicable to others | Continuous fasting (wisal) |
+
+### How to Distinguish?
+
+| Indicator | Conclusion |
+|-----------|------------|
+| Came with command | Legislative |
+| Came as pure practice | Human (recommended) |
+| Came with restriction | Specific |
+
+---
+
+## 🎯 Contemporary Cases
+
+### 📱 Case 1: Weak Hadith in Preaching
+
+> **Situation**: A preacher uses a weak hadith to encourage good deeds.
+
+**❓ Is this permissible?**
+
+<details>
+<summary>📜 Click for answer</summary>
+
+**Three scholarly opinions:**
+
+| Opinion | Ruling |
+|---------|--------|
+| 🟢 Permissible with conditions (Majority) | If weakness is slight, and mentioning it's weak |
+| 🔴 Not permissible (Some scholars) | Only sahih and hasan are used |
+| 🟡 In virtues only | Not in rulings |
+
+> 💡 **Always clarify the status of the hadith!**
+
+</details>
+
+---
+
+### 🔬 Case 2: Scientific Miracles in Hadith
+
+> **Situation**: Someone rejects a hadith because it contradicts modern science.
+
+**❓ What is the position?**
+
+<details>
+<summary>📜 Click for answer</summary>
+
+**Important principles:**
+
+| Principle | Application |
+|-----------|-------------|
+| 🔒 Authentic hadith | Cannot be rejected |
+| 🔬 Scientific theories | May change |
+| ⚖️ Method | Seek reconciliation, science may be incomplete |
+
+> 💡 **The one who authenticated hadith is more expert than a scientist in non-religious matters!**
+
+</details>
+
+---
+
+### 📚 Case 3: Citing Hadith from Internet
+
+> **Situation**: I found a hadith on social media.
+
+**❓ Can I share it?**
+
+<details>
+<summary>📜 Click for answer</summary>
+
+**Necessary precautions:**
+
+| Step | Action |
+|------|--------|
+| 🔍 Verification | Check in authenticated books |
+| ⚖️ Grading | Know the status (sahih, hasan, da'if...) |
+| ⚠️ Caution | Do not share without verification |
+
+> 💡 **"Whoever narrates a hadith knowing it is fabricated, is one of the liars."**
+
+</details>
+
+---
+
+### 🕌 Case 4: Sunnahs of Habit
+
+> **Situation**: Should I imitate the Prophet ﷺ in his way of eating and sleeping?
+
+**❓ What is the ruling?**
+
+<details>
+<summary>📜 Click for answer</summary>
+
+**Important distinction:**
+
+| Type | Ruling | Example |
+|------|--------|---------|
+| 🕌 Legislative | Obligatory or recommended | Eating with the right hand |
+| 👤 Habitual | Recommended out of love | Sleeping on the right side |
+| 🌍 Cultural | Permissible | Type of clothing |
+
+> 💡 **Imitating out of love is rewarded, even in habitual matters!**
+
+</details>
+
+---
+
+### 📖 Case 5: Acting on Hadith Ahad
+
+> **Situation**: Someone refuses to act on a hadith because it is ahad (singular).
+
+**❓ Is this position correct?**
+
+<details>
+<summary>📜 Click for answer</summary>
+
+**Scholarly consensus:**
+
+| Principle | Explanation |
+|-----------|-------------|
+| ⚖️ Ahad is proof | By consensus of the Salaf |
+| 🔒 If authentic | It is binding |
+| 📜 Evidence | The Companions accepted and transmitted ahad hadith |
+
+> 💡 **If the chain is authentic, the hadith is proof, whether mutawatir or ahad!**
+
+</details>
+
+---
+
+## 💭 Reflection
+
+> **Imam Ahmad** — may Allah have mercy on him — said:
+>
+> **"Whoever rejects the hadith of the Messenger of Allah ﷺ is on the brink of destruction."**
+
+> 🎯 **The Sunnah is revelation from Allah — ﴿ Nor does he speak from [his own] inclination. It is not but a revelation revealed ﴾**
+
+---
+
+## 📚 Summary
+
+| Concept | Explanation |
+|---------|-------------|
+| 🎯 Definition | What is transmitted from the Prophet ﷺ in statements, actions, approvals |
+| 📊 Position | Second source after the Quran |
+| 🔗 Relationship to Quran | Explaining, specifying, restricting, adding, confirming |
+| 📜 Classification | Mutawatir/Ahad, Sahih/Hasan/Da'if/Mawdu' |
+| ⚖️ Authority | Authentic ahad is binding proof |
 `;

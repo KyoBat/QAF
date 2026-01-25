@@ -1,231 +1,351 @@
-export const contentEn = `
-# Consensus (Ijma)
+/**
+ * Usul al-Fiqh - Lesson 004: Ijma (Consensus)
+ * English content - Immersive version
+ */
 
-## Definition of Consensus
+export const contentEn = `# 🤝 Ijma — The Binding Consensus
 
-**Ijma** linguistically: determination and agreement.
+> **The Prophet ﷺ said:**
+>
+> **"My Ummah will not unite upon error."**
+>
+> — **[At-Tirmidhi and Ibn Majah]**
 
-**Ijma** technically: the agreement of the mujtahids of the Islamic community in a given era after the death of the Prophet ﷺ on a legal ruling.
+---
 
-### Explanation of the Definition
+## 🎬 Introduction
 
-- **Agreement**: approval of all is necessary
-- **Of the community's mujtahids**: the opinion of laypeople or followers does not count
-- **In a given era**: agreement of all mujtahids across eras is not required
-- **After the death of the Prophet ﷺ**: because during his life, revelation was the reference
-- **On a legal ruling**: in religious matters, not purely worldly affairs
+### 🎭 Scene: Saqifa of Bani Sa'idah
 
-## Authority of Consensus
+> **Medina, 11 AH, the day the Prophet ﷺ passed away...**
+>
+> The Companions gathered at **Saqifa Bani Sa'idah** to choose a successor.
+>
+> The Ansar said: *"A leader from us and a leader from you!"*
+>
+> Then **Abu Bakr** — may Allah be pleased with him — said:
+>
+> **"The Arabs will not accept except a leader from Quraysh. We are the leaders, and you are the ministers."**
+>
+> **Omar** — may Allah be pleased with him — said:
+>
+> *"Extend your hand, O Abu Bakr!"*
+>
+> All the Companions agreed on the pledge to Abu Bakr...
 
-### Evidence from the Quran
+> 🎯 **This is Ijma — the consensus of the Companions on a single matter!**
 
-Allah the Most High says:
+---
 
-> **"And whoever opposes the Messenger after guidance has become clear to him and follows other than the way of the believers - We will give him what he has taken and drive him into Hell, and evil it is as a destination"** [An-Nisa: 115]
+### 🎭 Scene: The Power of Consensus
 
-**Point of evidence**: Allah threatens whoever follows a path other than that of the believers, which proves that following their path is obligatory, and their path is what they agreed upon.
+> **Ali ibn Abi Talib** — may Allah be pleased with him — said:
+>
+> *"When Abu Bakr was given the pledge, and the people agreed upon it, I was the first to give him the pledge."*
 
-### Evidence from the Sunnah
+> 💡 **Consensus = the Ummah uniting on the truth!**
 
-The Prophet ﷺ said:
+---
 
-> **"My community will not agree upon error"** [Reported by Ibn Majah]
+## 📖 Definition of Ijma
 
-*Note: This hadith has a disputed chain. Some muhaddithin classify it as hasan li-ghayrihi (through its multiple routes), while others consider it da'if. However, its meaning is supported by other hadiths.*
+### The Technical Definition
 
-> **"Allah's hand is with the group"** [Reported by at-Tirmidhi]
+> **Ijma**: The agreement of the mujtahids from the Ummah of Muhammad ﷺ, after his death, on a legal ruling in a particular era.
 
-### Reason
+### Elements of the Definition
 
-The Islamic community is protected from agreeing on error, and this is from Allah's mercy upon it.
+| Element | Explanation |
+|---------|-------------|
+| 🤝 Agreement | All agree, not just a majority |
+| 👨‍🎓 The mujtahids | Scholars capable of ijtihad |
+| 🕌 From the Ummah | Not from other religions |
+| ⏰ After his death | During his life, the reference was revelation |
+| ⚖️ On a legal ruling | Doctrinal or practical |
+| 📅 In an era | May differ from one era to another |
 
-## Pillars of Consensus
+---
 
-### First Pillar: The Participants in Consensus
+## ⚖️ Authority of Ijma
 
-| Condition | Explanation |
-|-----------|-------------|
-| Islam | The opinion of a non-Muslim does not count |
-| Maturity and sanity | The opinion of a child or insane person does not count |
-| Ijtihad | Must be among the people of derivation |
+### Position
 
-### Second Pillar: The Subject of Consensus
+| Order | Evidence |
+|-------|----------|
+| 1️⃣ | The Quran |
+| 2️⃣ | The Sunnah |
+| 3️⃣ | **Ijma** |
+| 4️⃣ | Qiyas |
 
-- That it be a legal ruling
-- That it be from matters of ijtihad
+### Proofs
 
-### Third Pillar: The Agreement
+#### From the Quran
 
-- Agreement of all mujtahids
-- According to some scholars, disagreement of one or two does not count
+> **﴿ And whoever opposes the Messenger after guidance has become clear to him and follows other than the way of the believers - We will give him what he has taken and drive him into Hell ﴾**
+>
+> — **[An-Nisa: 115]**
 
-## Types of Consensus
+> 💡 **"The way of the believers" = their consensus!**
 
-### By Method of Formation
+#### From the Sunnah
+
+> **"My Ummah will not unite upon error."**
+>
+> — **[At-Tirmidhi and Ibn Majah]**
+
+---
+
+## 📊 Types of Ijma
+
+### By Manner of Expression
 
 | Type | Definition | Status |
 |------|------------|--------|
-| Explicit Consensus | Each mujtahid clearly states their opinion | Definitive evidence |
-| Tacit Consensus | Some express themselves and others remain silent | Controversial |
+| 🗣️ Explicit (Sarih) | Scholars express their opinions | Strongest |
+| 🤫 Tacit (Sukuti) | Some speak, others remain silent | Differed upon |
+
+### Example of Tacit Ijma
+
+> **Abu Bakr** — may Allah be pleased with him — ruled on the grandmother's inheritance (one-sixth), and no one objected.
 
 ### By Era
 
-| Type | Definition |
-|------|------------|
-| Consensus of the Companions | Strongest type due to their proximity to the Prophet ﷺ |
-| Consensus of the Followers | Evidence in absence of Companion contradiction |
-| Consensus of Scholars | In any era |
-
-## Conditions of Consensus
-
-### Unanimously Accepted Conditions
-
-1. **That it be preceded by evidence**: consensus reveals evidence, does not establish rulings
-2. **Extinction of the era**: according to some scholars, death of mujtahids is required
-3. **Non-contradiction of definitive text**: no consensus contradicting Quran or mass-transmitted Sunnah
-
-### Controversial Conditions
-
-- Requirement of era extinction
-- Requirement of a specific number
-
-## Basis of Consensus
-
-### What Can Serve as a Basis
-
-- **The Quran**: an explicit or apparent verse
-- **The Prophetic Sunnah**: an authentic or good hadith
-- **Qiyas**: for those who consider it valid
-
-### Can Consensus Be Based on Ijtihad?
-
-- The majority require a legal basis
-- Some allowed consensus based on qiyas and ijtihad
-
-## Examples of Consensus
-
-### Doctrinal Consensuses
-
-- Belief that Allah is One without partner
-- Belief in the prophethood of Muhammad ﷺ
-
-### Jurisprudential Consensuses
-
-| Issue | Status |
-|-------|--------|
-| Obligation of the five prayers | Consensus |
-| Obligation of fasting Ramadan | Consensus |
-| Prohibition of fornication | Consensus |
-| Prohibition of alcohol | Consensus |
-| Obligation of Zakat on gold and silver | Consensus |
-
-## Consensus and Disagreement
-
-### If Consensus Has Occurred
-
-- It is forbidden to contradict it
-- It becomes definitive evidence
-- No consensus can form after it on its opposite
-
-### If Disagreement Has Occurred
-
-- Consensus cannot form after it
-- Prior disagreement prevents later consensus
-
-## Possibility of Consensus
-
-### In the Early Era
-
-It was possible due to the small number of mujtahids and their proximity.
-
-### In Later Eras
-
-Scholars differed on its possibility due to:
-- Dispersion of mujtahids across countries
-- Difficulty of knowing all mujtahids
-- Difficulty of communication (in the past)
+| Type | Definition | Status |
+|------|------------|--------|
+| ⭐ Consensus of the Companions | In the Companions' era | Agreed upon as proof |
+| 📖 Consensus of later scholars | After the Companions | Also proof according to majority |
 
 ---
 
-## 📖 Stories from the Salaf: Abu Bakr al-Siddiq and the Companions' Consensus on Fighting the Apostates
+## 🔗 Conditions of Ijma
 
-When the Prophet ﷺ passed away, some Arab tribes apostatized and withheld zakah. Abu Bakr (may Allah be pleased with him) was determined to fight them.
+### For It to Be Valid
 
-Umar ibn al-Khattab (may Allah be pleased with him) said: "How can you fight people when the Messenger of Allah ﷺ said: 'I have been commanded to fight people until they say there is no god but Allah'?"
+| Condition | Explanation |
+|-----------|-------------|
+| 🤝 Agreement of all | One disagreement nullifies |
+| 👨‍🎓 From the mujtahids | The common person's opinion doesn't count |
+| ⏰ Passage of time | Until all have expressed their opinion |
+| 🔒 On a legal matter | Not on linguistic or worldly matters |
 
-Abu Bakr replied with his timeless statement: **"By Allah, I will fight whoever separates between prayer and zakah, for zakah is the right of wealth. By Allah, if they withheld from me a she-goat's tether that they used to give to the Messenger of Allah ﷺ, I would fight them for withholding it."**
+### What Invalidates Ijma?
 
-Umar said: "By Allah, it was nothing but that I saw Allah had expanded Abu Bakr's chest for fighting, so I knew it was the truth."
-
-The Companions then reached consensus on fighting those who withheld zakah, and this became an established consensus.
-
-**The Lesson**: The consensus of the Companions is among the strongest types of consensus, and it may require discussion and deliberation before being established.
-
----
-
-## 🎯 Contemporary Cases: Claims of Consensus and Disagreement
-
-### Case 1: "This is the Consensus of the Scholars!"
-
-**Context**: Someone claims consensus on an issue where there is known disagreement.
-
-**Question**: How do we verify the validity of a consensus claim?
-
-**Answer**: ⚠️ Claims of consensus require proof. Much of what is claimed to be consensus has disagreement in it. One must refer to books of consensus like those of Ibn al-Mundhir and Ibn Hazm.
+| Invalidator | Explanation |
+|-------------|-------------|
+| ❌ One dissent | Even from one scholar |
+| ❌ Later discovery of disagreement | The ijma is nullified |
+| ❌ Before the era ends | No one has died yet |
 
 ---
 
-### Case 2: Contradicting the Consensus of the Companions
+## 🎭 Story: Consensus on Compiling the Quran
 
-**Context**: A contemporary scholar issues a fatwa contradicting what the Companions agreed upon.
+### The Cause
 
-**Question**: Is this fatwa acceptable?
+> After the Battle of Yamama, many huffadh (memorizers) were martyred.
+>
+> **Omar** — may Allah be pleased with him — suggested to Abu Bakr:
+>
+> *"I fear that many Quran reciters will be martyred in battles. We should compile the Quran."*
 
-**Answer**: ❌ The consensus of the Companions is a definitive proof that cannot be contradicted. Ibn Taymiyyah said: "There was no one among the Salaf who contradicted the Companions in anything they agreed upon."
+### The Hesitation
 
----
+> Abu Bakr hesitated: *"How can I do something the Prophet ﷺ did not do?"*
 
-### Case 3: Consensus and Contemporary Issues
+### The Consensus
 
-**Context**: Someone asks: Is there consensus on modern technology issues like cryptocurrencies?
+> Omar continued to discuss with him until Allah opened his heart.
+>
+> All the Companions agreed on the compilation...
 
-**Question**: Can consensus be formed on new issues?
-
-**Answer**: ✅ New issues have no prior consensus, but a new consensus can form if contemporary mujtahids agree. Today's fiqh councils strive to achieve this.
-
----
-
-### Case 4: "Scholars Disagree, So I Can Do What I Want"
-
-**Context**: A person uses disagreement as an excuse to do whatever he wants.
-
-**Question**: Does the existence of disagreement permit choosing by desire?
-
-**Answer**: ❌ Disagreement does not mean permissibility. One must follow what is preponderant by evidence or follow a trusted scholar. Following dispensations (tatabbu' al-rukhas) is prohibited.
+> 🎯 **This is a famous consensus on a matter of general benefit!**
 
 ---
 
-### Case 5: Consensus of the Common People
+## 📜 Examples of Ijma
 
-**Context**: Someone says: "Everyone does this, so it's permissible."
+### In Worship
 
-**Question**: Is the practice of common people a proof?
+| Ruling | Consensus |
+|--------|-----------|
+| 🕌 Five daily prayers | Agreed upon |
+| 🌙 Fasting Ramadan | Agreed upon |
+| 💰 Zakat on gold and silver | Agreed upon |
+| 🕋 Obligation of Hajj | Agreed upon |
 
-**Answer**: ❌ The recognized consensus is that of the mujtahids, not laypeople. The practice of people may be custom or convention, but it is not an independent legal proof.
+### In Transactions
+
+| Ruling | Consensus |
+|--------|-----------|
+| 💰 Riba is forbidden | Agreed upon |
+| 🍺 Wine is forbidden | Agreed upon |
+| 📜 Validity of sales | Agreed upon |
+| 👫 Validity of marriage | Agreed upon |
+
+### In Aqeedah
+
+| Ruling | Consensus |
+|--------|-----------|
+| 🕋 Tawhid | Agreed upon |
+| 📖 Obligation to follow the Prophet ﷺ | Agreed upon |
+| ⏳ Resurrection | Agreed upon |
 
 ---
 
-## 💡 Pause and Reflect
+## ⚠️ Ijma Is Not
 
-**Question for Reflection**: How many times have you heard the claim "this is consensus" without verification? Do you distinguish between true consensus and partial agreement?
+### What Is Not Ijma?
 
-**Remember**:
-- Valid consensus is a definitive proof that cannot be contradicted
-- Claims of consensus require verification and proof
-- The Companions' consensus is the strongest type of consensus
-- The existence of disagreement does not mean permissibility nor justify following dispensations
+| Misconception | Clarification |
+|---------------|---------------|
+| ❌ Majority opinion | Majority is not consensus |
+| ❌ One school's opinion | Must include all mujtahids |
+| ❌ A scholar's saying "by ijma" | Must be verified |
+| ❌ Common practice | Custom is not ijma |
 
-## Conclusion
+### Verify Before Saying "Ijma"!
 
-Consensus is the third evidence for legal rulings after the Quran and Sunnah, it is a definitive proof according to the majority of scholars, it is forbidden to contradict it, and its strongest type is the consensus of the Companions (may Allah be pleased with them).
+> **Imam Ahmad** — may Allah have mercy on him — said:
+>
+> **"Whoever claims ijma is lying. How does he know people didn't differ?"**
+
+> 💡 **This is a warning against hastily claiming ijma!**
+
+---
+
+## 🎯 Contemporary Cases
+
+### 📱 Case 1: Claiming Consensus on Digital Currency
+
+> **Situation**: Someone claims there is "ijma" that Bitcoin is haram.
+
+**❓ Is this ijma?**
+
+<details>
+<summary>📜 Click for answer</summary>
+
+**Analysis:**
+
+| Element | Verification |
+|---------|--------------|
+| 🤝 Agreement of all? | No, there is disagreement |
+| 👨‍🎓 From the mujtahids? | Many haven't ruled |
+| ⏰ Passage of time? | It's a new matter |
+
+> 💡 **There is no consensus on Bitcoin yet! Scholars differ.**
+
+</details>
+
+---
+
+### 🏦 Case 2: Conventional Bank Interest
+
+> **Situation**: Someone claims there is consensus that bank interest is riba.
+
+**❓ Is this correct?**
+
+<details>
+<summary>📜 Click for answer</summary>
+
+**Scholarly positions:**
+
+| View | Position |
+|------|----------|
+| 🔴 Majority | It is riba, there is near-consensus |
+| 🟡 Some | Disagreed, but are few |
+| ⚖️ Result | There is near-consensus, but not absolute |
+
+> 💡 **The vast majority confirms prohibition, even if there is some disagreement!**
+
+</details>
+
+---
+
+### 🕌 Case 3: Women Leading Prayer
+
+> **Situation**: A woman leads mixed-gender Friday prayer.
+
+**❓ What about consensus here?**
+
+<details>
+<summary>📜 Click for answer</summary>
+
+**Scholarly consensus:**
+
+| Ruling | Source |
+|--------|--------|
+| 🔴 Prohibited | By consensus of the classical scholars |
+| 📜 Unanimously agreed | A woman cannot lead men in obligatory prayer |
+
+> 💡 **This is a clear consensus that hasn't changed!**
+
+</details>
+
+---
+
+### 📚 Case 4: Consensus in Fiqhi Schools
+
+> **Situation**: A scholar from one school claims consensus, but other schools disagree.
+
+**❓ Is this ijma?**
+
+<details>
+<summary>📜 Click for answer</summary>
+
+**Important distinction:**
+
+| Claim | Reality |
+|-------|---------|
+| 🔵 "Ijma of Hanafis" | Consensus within the school |
+| 🟢 "Absolute Ijma" | Requires agreement of all schools |
+
+> 💡 **One school's consensus is not absolute ijma!**
+
+</details>
+
+---
+
+### 🆕 Case 5: New Issues
+
+> **Situation**: Can there be ijma on contemporary issues?
+
+**❓ What is the ruling?**
+
+<details>
+<summary>📜 Click for answer</summary>
+
+**In principle, yes:**
+
+| Condition | Necessity |
+|-----------|-----------|
+| 🤝 Agreement of the mujtahids | Of the era |
+| ⏰ Sufficient time | For study |
+| 📊 Clear expression | From all |
+
+> 💡 **But practically, it is rare due to the number of scholars and communication!**
+
+</details>
+
+---
+
+## 💭 Reflection
+
+> **Imam Ash-Shafi'i** — may Allah have mercy on him — said:
+>
+> **"If scholars agree on something, it becomes the argument against those who come after them."**
+
+> 🎯 **Ijma is protection for the Ummah from error and deviation!**
+
+---
+
+## 📚 Summary
+
+| Concept | Explanation |
+|---------|-------------|
+| 🎯 Definition | Agreement of the mujtahids on a legal ruling |
+| 📊 Position | Third source after Quran and Sunnah |
+| 📜 Proof | "My Ummah will not unite upon error" |
+| 📖 Types | Explicit and tacit |
+| ⚖️ Conditions | Agreement of all, from mujtahids, on a legal matter |
+| ⚠️ Caution | Verify before claiming ijma |
 `;

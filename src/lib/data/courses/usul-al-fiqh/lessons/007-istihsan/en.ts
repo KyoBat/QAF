@@ -1,238 +1,321 @@
-export const contentEn = `
-# Istihsan and Istishab
+/**
+ * Usul al-Fiqh - Lesson 007: Istihsan
+ * English content - Immersive version
+ */
 
-## Part One: Istihsan (Juristic Preference)
+export const contentEn = `# ⚖️ Al-Istihsan — Juristic Preference
 
-### Definition of Istihsan
+> **﴿ Who listen to speech and follow the best of it ﴾**
+>
+> — **[Az-Zumar: 18]**
 
-**Istihsan** (الاستحسان) is departing from the ruling of one evidence to the ruling of another stronger evidence, or departing from one qiyas to a stronger qiyas, or excepting a case from a general principle due to a specific evidence.
+---
 
-#### Linguistic Definition
+## 🎬 Introduction
 
-- **Istihsan** linguistically means: considering something good and finding it pleasing
+### 🎭 Scene: Abu Hanifa and the Thief
 
-#### Technical Definition
+> **Kufa, 2nd century AH...**
+>
+> A man came to **Imam Abu Hanifa** — may Allah have mercy on him — and said:
+>
+> *"O Imam, a poor man stole a loaf of bread. Should his hand be cut off?"*
+>
+> According to the general rule: *Whoever steals the nisab amount, his hand is cut off.*
+>
+> But Abu Hanifa said:
+>
+> **"I use istihsan here! His hand is not cut off due to his dire need and the smallness of the matter."**
+>
+> A student asked: *"How can you leave the rule?"*
+>
+> Abu Hanifa replied:
+>
+> **"I don't leave the rule! I apply a stronger evidence — the Prophet ﷺ said: 'Ward off hudud punishments with doubts.'"**
 
-> Istihsan is: abandoning qiyas and adopting what is more suitable for people.
-> 
-> It is also said: it is departing from an obvious qiyas to a subtle qiyas, or from a general ruling to an exceptional ruling due to an evidence requiring that.
+> 🎯 **This is istihsan — leaving the apparent rule for a stronger evidence!**
 
-### Types of Istihsan
+---
 
-#### 1. Istihsan by Text
+### 🎭 Scene: Ash-Shafi'i's Criticism
 
-Departing from qiyas due to a text from the Quran or Sunnah.
+> **Imam Ash-Shafi'i** — may Allah have mercy on him — criticized istihsan:
+>
+> **"Whoever uses istihsan legislates."**
+>
+> But the Hanafis explained:
+>
+> **"We don't legislate! We leave one evidence for a stronger one. It's not based on desire."**
 
-**Example**: Salam sale (sale of a described item for immediate payment)
-- Qiyas: prohibits it because it's selling what doesn't exist
-- Istihsan: its permission by the text: "Whoever makes salam, let him do so in a known measure..."
+> 💡 **The disagreement is about terminology, not reality!**
 
-#### 2. Istihsan by Consensus
+---
 
-Departing from qiyas due to scholarly consensus on the contrary.
+## 📖 Definition of Istihsan
 
-**Example**: Istisna' contract (manufacturing order)
-- Qiyas: prohibits it because the sold item doesn't exist
-- Istihsan: its permission by practical consensus
+### The Technical Definition
 
-#### 3. Istihsan by Subtle Qiyas
+> **Istihsan**: Leaving the ruling required by qiyas for another evidence because of a preponderant factor.
 
-Abandoning the obvious qiyas to adopt a subtler and stronger qiyas.
+### In Simpler Terms
 
-**Example**: Leftover water from birds of prey
-- Obvious Qiyas: impurity by analogy to wild beasts
-- Subtle Qiyas: purity because they drink with their beaks which are pure
+| Apparent Qiyas | Istihsan |
+|----------------|----------|
+| General rule | Exception based on stronger evidence |
+| Literal application | Consideration of wisdom |
 
-#### 4. Istihsan by Interest
+---
 
-Abandoning qiyas to achieve a recognized interest.
+## 📊 Types of Istihsan
 
-**Example**: Liability of the shared craftsman
-- Qiyas: not liable because he's a trustee
-- Istihsan: liable to protect people's property
+### By Evidence Used
 
-#### 5. Istihsan by Custom
+| Type | Definition | Example |
+|------|------------|---------|
+| 📜 By text | Exception based on text | Validity of salam (advance payment) |
+| 🤝 By consensus | Exception based on ijma | Validity of istisna' (manufacturing contract) |
+| 🔒 By necessity | Exception based on need | Looking at a woman for medical treatment |
+| 🌍 By custom | Exception based on custom | Validity of istijrar (running account) |
+| 🔗 By hidden qiyas | Exception based on subtle analogy | Purity of wells |
 
-Abandoning qiyas to act according to what people customarily do.
+---
 
-**Example**: Entering public baths
-- Qiyas: prohibits it due to ignorance of water quantity and duration
-- Istihsan: permission by custom
+## 📜 Examples of Istihsan
 
-#### 6. Istihsan by Necessity
+### 1️⃣ Istihsan by Text
 
-Abandoning qiyas for necessity or urgent need.
+| The Issue | The Qiyas | The Istihsan |
+|-----------|-----------|--------------|
+| Salam contract | Selling what one doesn't possess = invalid | The Prophet ﷺ permitted it by text |
 
-**Example**: Purity of wells
-- Qiyas: impurity by contact with impurity
-- Istihsan: purity by drawing water due to necessity
+### 2️⃣ Istihsan by Consensus
 
-### Schools' Positions on Istihsan
+| The Issue | The Qiyas | The Istihsan |
+|-----------|-----------|--------------|
+| Istisna' (manufacturing) | Selling what doesn't exist = invalid | Scholars agreed on its validity |
+
+### 3️⃣ Istihsan by Necessity
+
+| The Issue | The Qiyas | The Istihsan |
+|-----------|-----------|--------------|
+| Doctor examining a patient | Looking at private areas = haram | Permitted for treatment need |
+
+### 4️⃣ Istihsan by Custom
+
+| The Issue | The Qiyas | The Istihsan |
+|-----------|-----------|--------------|
+| Entering public baths | Unknown duration and water amount = gharar | Permitted by custom |
+
+---
+
+## ⚖️ Authority of Istihsan
+
+### Those Who Accept It
 
 | School | Position |
 |--------|----------|
-| Hanafis | Extensively adopt it |
-| Malikis | Adopt it and sometimes call it "Istislah" |
-| Hanbalis | Adopt it in certain cases |
-| Shafi'is | Verbally reject it but apply its meaning |
+| 🔵 Hanafis | Accept it extensively |
+| 🟢 Malikis | Accept it |
+| 🟠 Hanbalis | Accept it |
 
-### Imam Shafi'i's Statement on Istihsan
+### Those Who Reject It
 
-Imam Shafi'i said: **"Whoever does istihsan has legislated"**
+| School | Position |
+|--------|----------|
+| 🔴 Shafi'is | Reject the term, not the concept |
+| ⚫ Zahiris | Reject it completely |
 
-The meaning: rejecting istihsan by mere desire and whim, not istihsan regulated by evidences.
+### Reality of the Disagreement
 
----
+> **Ibn Qudama** — may Allah have mercy on him — said:
+>
+> **"Most of what Ash-Shafi'i criticized is not what Abu Hanifa meant by istihsan."**
 
-## Part Two: Istishab (Presumption of Continuity)
-
-### Definition of Istishab
-
-**Istishab** (الاستصحاب) is ruling that something continues in the present based on its existence in the past, in the absence of what would change it.
-
-#### Linguistic Definition
-
-- **Istishab** linguistically means: seeking companionship and its continuation
-
-#### Technical Definition
-
-> Istishab is: maintaining what was in its previous state in the absence of change.
-
-### Types of Istishab
-
-#### 1. Presumption of Original Innocence
-
-The origin is freedom from obligations and rights until the contrary is proven.
-
-**Example**: 
-- Zakat is not obligatory until one possesses the nisab
-- The accused is innocent until proven guilty
-
-#### 2. Presumption of the Characteristic Establishing the Ruling
-
-If a characteristic is established entailing a ruling, the ruling continues as long as the characteristic persists.
-
-**Example**: 
-- Ownership of property continues until its cessation is proven
-- Marriage continues until divorce is proven
-
-#### 3. Presumption of the Legal Ruling
-
-If a legal ruling is established, it is maintained until an abrogator comes.
-
-**Example**: 
-- Permission to eat camel meat continues (for those who hold this view)
-
-#### 4. Presumption of Consensus in the Place of Disagreement
-
-Maintaining the consensual ruling in the disputed matter.
-
-**Example**: 
-- Consensus on validity of prayer of one who made tayammum is maintained if he sees water during prayer
-
-### Rules Derived from Istishab
-
-| Rule | Meaning |
-|------|---------|
-| The origin is maintaining what was | Things continue in their state until the contrary is proven |
-| Certainty is not removed by doubt | What is established by certainty is not lifted by doubt |
-| The origin is innocence of obligation | No obligation without evidence |
-| The origin in things is permissibility | Permissibility is the origin until evidence of prohibition |
-| The origin in intimate relations is prohibition | Marital relations are originally prohibited until the contract is proven |
-
-### Practical Examples of Istishab
-
-#### In Worship
-
-| Issue | Ruling | Reasoning |
-|-------|--------|-----------|
-| One who doubts his state of impurity | Pure | Presumption of established purity |
-| One who doubts number of rak'ahs | Builds on the lesser | Presumption of non-performance of the doubtful rak'ah |
-
-#### In Transactions
-
-| Issue | Ruling | Reasoning |
-|-------|--------|-----------|
-| One who claims a debt against another | The word is with the denier | Presumption of defendant's innocence |
-| Absent person whose state is unknown | Treated as living | Presumption of his established life |
-
-### Authority of Istishab
-
-#### According to the Majority
-
-Istishab is evidence in negation and affirmation, and it is applied in the absence of changing evidence.
-
-#### Proofs of its Authority
-
-1. **From the Quran**: ﴿He it is Who created for you all that is on earth﴾ proof that the origin is permissibility
-2. **From the Sunnah**: "Leave it until it urinates" regarding land whose impurity is doubted
-3. **From Reason**: Certainty of the state continuing in the absence of change
-
-### Difference Between Istihsan and Istishab
-
-| Istihsan | Istishab |
-|----------|----------|
-| Deviation from one evidence to a stronger | Maintaining the previous state |
-| Requires exceptional evidence | Does not require new evidence |
-| Its authority is disputed | Its authority is accepted by the majority |
+> 💡 **The reality: they agree on the concept, but disagree on the term!**
 
 ---
 
-## 📖 Stories from the Salaf: Imam Abu Hanifa and Justice in Ruling
+## 🔗 Difference Between Istihsan and Qiyas
 
-Imam Abu Hanifa (may Allah have mercy on him) was among the most prominent who established and applied istihsan. Among the famous stories about him:
+| Qiyas | Istihsan |
+|-------|----------|
+| Following the apparent rule | Leaving the apparent for stronger |
+| Based on clear analogy | Based on subtle evidence |
+| The default | The exception |
 
-A man came to Abu Hanifa asking about a hired worker whom he had employed to carry his goods, and the goods fell and were damaged. The questioner said: "Qiyas dictates that the hired worker is a trustee, and a trustee is not liable except for transgression or negligence."
+---
 
-Abu Hanifa said: **"I apply istihsan to make him liable."**
+## 🎭 Story: The Well and Purity
 
-He was asked: Why?
+### The Issue
 
-He said: **"Because if we did not hold hired workers liable, every worker would claim loss and damage, and people's property would be lost. The interest requires holding them liable to protect people's property."**
+> A mouse fell into a well. The Hanafis said:
+>
+> **By qiyas**: The entire water is impure because an impurity fell in it.
+>
+> **By istihsan**: The water is not impure because it's difficult to avoid such occurrences in wells.
 
-**The Lesson**: Abu Hanifa saw that the apparent qiyas contradicted a greater interest, so he departed from it to what was more suitable for people and more protective of their rights. This is the essence of istihsan: departing from the apparent ruling for a stronger wisdom.
+### The Reasoning
+
+| Qiyas | Istihsan |
+|-------|----------|
+| Mixing with impurity | General affliction principle |
+| Requires draining | Draining some suffices |
+
+> 💡 **Istihsan considers reality and hardship!**
 
 ---
 
 ## 🎯 Contemporary Cases
 
-### Case 1: Organ Donation After Death
+### 🏦 Case 1: ATM Transactions
 
-**Question**: The origin is that the human body is honored and cannot be disposed of, so what is the ruling on donating organs after death?
+> **Situation**: Withdrawing cash from an ATM without seeing the bills before.
 
-**Answer**: The apparent qiyas prohibits it, but many contemporary jurists applied istihsan to permit it with conditions, due to the saving of another human's life. The interest in saving a life is stronger than keeping an organ that will decompose.
+**❓ What is the ruling?**
 
----
+<details>
+<summary>📜 Click for answer</summary>
 
-### Case 2: Photographic Imaging for Documents
+**By Istihsan:**
 
-**Question**: Qiyas on the prohibited imaging dictates prohibiting photography, so what is the ruling?
+| Qiyas | Istihsan |
+|-------|----------|
+| Must see what you receive | Permitted by custom and necessity |
+| Gharar (uncertainty) | Minimal and tolerable |
 
-**Answer**: Many scholars applied istihsan to permit it for need and necessity, especially for official documents. The general need for proving identity and preventing forgery is an interest that takes precedence over the apparent qiyas.
+> 💡 **Permitted by istihsan due to custom!**
 
----
-
-### Case 3: Health Insurance Contracts
-
-**Question**: Qiyas on gambling and uncertainty dictates prohibiting insurance, so what is the ruling on health insurance?
-
-**Answer**: Some jurists applied istihsan to cooperative health insurance due to the social solidarity it contains and the protection of the individual from health catastrophes. The realized interest is stronger than qiyas on pure uncertainty.
+</details>
 
 ---
 
-### Case 4: Electronic Banks
+### 📱 Case 2: Selling Mobile Credit
 
-**Question**: Qiyas on currency exchange requires physical exchange in the session, so how do we deal with electronic bank transfers?
+> **Situation**: I sell phone credit to someone.
 
-**Answer**: Jurists applied istihsan that electronic receipt takes the place of physical receipt, because modern custom considers it complete receipt, and the interest requires facilitating financial transactions.
+**❓ What is the ruling?**
+
+<details>
+<summary>📜 Click for answer</summary>
+
+**Analysis:**
+
+| Qiyas | Istihsan |
+|-------|----------|
+| Selling rights requires specific conditions | Permitted due to public need |
+| May contain gharar | Minimal and accepted |
+
+> 💡 **Many scholars permit it by istihsan!**
+
+</details>
 
 ---
 
-## 💡 Pause and Reflect
+### 🏥 Case 3: Male Doctor Treating Female Patient
 
-> Imam al-Shafi'i said: "Whoever applies istihsan has legislated," while Abu Hanifa said: "Nine-tenths of fiqh is in istihsan." How do you understand this disagreement? Do you see istihsan as a necessary tool for contemporary ijtihad, or as a door that may lead to laxity in rulings?
+> **Situation**: No female doctor available for a female patient.
 
-## Conclusion
+**❓ What is the ruling?**
 
-Istihsan and Istishab are two evidences of Islamic jurisprudence that enable the jurist to reach the appropriate legal ruling, while observing the guidelines of Sharia and achieving its objectives of facilitation and removal of hardship.
+<details>
+<summary>📜 Click for answer</summary>
+
+**By Istihsan of Necessity:**
+
+| Qiyas | Istihsan |
+|-------|----------|
+| Looking at a non-mahram is haram | Permitted for treatment need |
+| Touching is prohibited | Permitted as much as needed |
+
+> 💡 **Necessity has its rulings!**
+
+</details>
+
+---
+
+### 💳 Case 4: Credit Card Use
+
+> **Situation**: Using a credit card that may involve interest.
+
+**❓ What is the ruling?**
+
+<details>
+<summary>📜 Click for answer</summary>
+
+**Analysis:**
+
+| Element | Ruling |
+|---------|--------|
+| 💰 If paid on time | No interest = permissible |
+| 📈 If delayed | Interest occurs = prohibited |
+| ⚖️ Verdict | Conditional permissibility |
+
+> 💡 **Istihsan permits the card if conditions are met!**
+
+</details>
+
+---
+
+### 📦 Case 5: Buying Online Without Seeing
+
+> **Situation**: Buying a product from a website without physical inspection.
+
+**❓ What is the ruling?**
+
+<details>
+<summary>📜 Click for answer</summary>
+
+**By Istihsan:**
+
+| Qiyas | Istihsan |
+|-------|----------|
+| Must see before buying | Images and description suffice |
+| May be gharar | Reduced by return policy |
+
+> 💡 **Permitted by istihsan with conditions!**
+
+</details>
+
+---
+
+## ⚠️ Limits of Istihsan
+
+### What Istihsan Is Not
+
+| Misconception | Reality |
+|---------------|---------|
+| 🚫 Personal preference | Must be based on evidence |
+| 🚫 Overriding texts | Cannot contradict clear text |
+| 🚫 Following desires | Based on Sharia principles |
+
+### Conditions for Valid Istihsan
+
+| Condition | Explanation |
+|-----------|-------------|
+| 📜 Based on evidence | Text, consensus, or necessity |
+| ⚖️ Stronger than qiyas | Clear preponderance |
+| 🔒 No conflict with text | Doesn't contradict Sharia |
+
+---
+
+## 💭 Reflection
+
+> **Imam Abu Hanifa** — may Allah have mercy on him — said:
+>
+> **"I judge by the Book of Allah. If I don't find, then by the Sunnah. If I don't find, then by the sayings of the Companions. If I don't find, I use my own reasoning."**
+
+> 🎯 **Istihsan is not legislation — it's choosing between evidences!**
+
+---
+
+## 📚 Summary
+
+| Concept | Explanation |
+|---------|-------------|
+| 🎯 Definition | Leaving apparent qiyas for a stronger evidence |
+| 📊 Types | By text, consensus, necessity, custom, hidden qiyas |
+| ⚖️ Position | Accepted by majority of scholars |
+| 🔗 Difference from qiyas | Exception vs. rule |
+| ⚠️ Limits | Must be based on evidence, not desire |
 `;

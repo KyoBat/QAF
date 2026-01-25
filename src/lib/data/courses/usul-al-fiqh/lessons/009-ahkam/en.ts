@@ -1,238 +1,378 @@
-export const contentEn = `
-# Legal Rulings (Al-Ahkam At-Taklifiyyah)
+/**
+ * Usul al-Fiqh - Lesson 009: Al-Ahkam (Legal Rulings)
+ * English content - Immersive version
+ */
 
-## Introduction
+export const contentEn = `# ⚖️ Al-Ahkam — The Five Legal Rulings
 
-Legal rulings (ahkam taklifiyyah) are the Shariah prescriptions that address legally responsible persons (mukallaf) regarding their actions. They represent the fruit and objective of the science of Islamic legal theory (usul al-fiqh).
-
-## Definition of Hukm Taklifi
-
-**Linguistically:** Al-hukm means judgment and obligation.
-
-**Technically:** It is the address of Allah concerning the acts of legally responsible persons in terms of demand or choice.
-
-## The Five Categories of Legal Rulings
-
-### First Category: Wajib (Obligatory)
-
-**Definition:** What the Lawgiver has commanded to be done in a decisive manner.
-
-**Ruling:** One who performs it in compliance is rewarded, and one who abandons it is punished.
-
-**Examples:**
-- The five daily prayers
-- Fasting in Ramadan
-- Zakat
-- Hajj for those with ability
-- Kindness to parents
-
-**Subdivisions of Wajib:**
-
-1. **According to time:**
-   - Wajib mutlaq (absolute): not time-bound (like expiations)
-   - Wajib muqayyad (restricted): time-bound (like the five prayers)
-
-2. **According to the person:**
-   - Wajib 'ayni (individual): obligatory on each individual (like prayer)
-   - Wajib kifa'i (collective): if some perform it, others are exempted (like funeral prayer)
-
-3. **According to quantity:**
-   - Wajib muhaddad (defined): with specified measure (like number of rak'at)
-   - Wajib ghayr muhaddad (undefined): without specified measure (like spending on relatives)
-
-### Second Category: Mandub (Recommended)
-
-**Definition:** What the Lawgiver has requested to be done without strict obligation.
-
-**Ruling:** One who performs it is rewarded, and one who leaves it is not punished.
-
-**Other names:** Sunnah, mustahabb, nafila, tatawwu'.
-
-**Examples:**
-- Regular voluntary prayers (rawatib)
-- Fasting on Mondays and Thursdays
-- Duha prayer
-- Using the siwak
-- Night prayer (qiyam al-layl)
-
-**Levels of Mandub:**
-1. **Sunnah mu'akkadah (emphasized):** regularly practiced by the Prophet ﷺ (like witr)
-2. **Sunnah ghayr mu'akkadah:** practiced occasionally
-3. **Mustahabb:** encouraged by the Law without regularity
-
-### Third Category: Haram (Prohibited)
-
-**Definition:** What the Lawgiver has commanded to abandon in a decisive manner.
-
-**Ruling:** One who abandons it in compliance is rewarded, and one who commits it is punished.
-
-**Examples:**
-- Associating partners with Allah (shirk)
-- Unlawful killing
-- Adultery and fornication
-- Usury (riba)
-- Alcohol consumption
-- Disobedience to parents
-- Consuming the wealth of orphans
-
-**Types of Prohibition:**
-1. **Haram li-dhatihi:** prohibited in itself (like adultery)
-2. **Haram li-ghayrihi:** prohibited for an external reason (like selling during the Friday call)
-
-### Fourth Category: Makruh (Disliked)
-
-**Definition:** What the Lawgiver has requested to abandon without strict obligation.
-
-**Ruling:** One who abandons it is rewarded, and one who commits it is not punished.
-
-**Examples:**
-- Asking too many questions without need
-- Eating and drinking while standing (according to some scholars)
-- Sleeping after 'Asr prayer
-- Turning around in prayer without need
-
-**Types of Makruh:**
-1. **Makruh tahriman:** close to prohibited (according to Hanafis)
-2. **Makruh tanzihan:** mildly disliked
-
-### Fifth Category: Mubah (Permissible)
-
-**Definition:** That for which the Lawgiver has given choice between doing and leaving.
-
-**Ruling:** Neither reward nor punishment for doing or leaving it in itself.
-
-**Examples:**
-- Eating and drinking lawful things
-- Choosing permissible clothing
-- Traveling between countries
-- Choosing a lawful profession
-
-**Important Note:**
-The mubah may become recommended, obligatory, disliked, or prohibited based on intentions and means.
-
-## Conditions of Legal Responsibility
-
-A person is only considered legally responsible (mukallaf) if they meet the following conditions:
-
-1. **Reason ('aql):** no responsibility for the insane
-2. **Puberty (bulugh):** no responsibility for children
-3. **Understanding the address:** no responsibility for what is not understood
-4. **Ability to comply:** no responsibility for the impossible
-
-## Hukm Wad'i (Declaratory Ruling)
-
-Alongside the rulings of responsibility, there are declaratory rulings that concern establishing something as a cause, condition, impediment, validity, or invalidity.
-
-**Examples:**
-- **Cause (sabab):** entering the prayer time causes its obligation
-- **Condition (shart):** purification is a condition for prayer's validity
-- **Impediment (mani'):** menstruation prevents prayer
-- **Validity (sihha):** fulfillment of pillars and conditions
-- **Invalidity (fasad):** lacking a pillar or condition
-
-## Difference Between Fard and Wajib
-
-**According to the majority:** Fard and wajib have the same meaning.
-
-**According to Hanafis:** There is a difference:
-- **Fard:** established by definitive evidence (like prayer)
-- **Wajib:** established by probable evidence (like witr prayer)
-
-## Importance of Knowing the Rulings
-
-Knowledge of legal rulings is necessary for every Muslim in order to:
-- Know their obligations and fulfill them
-- Know the prohibitions and avoid them
-- Distinguish between recommended and obligatory
-- Avoid ambiguities and practice piety
+> **﴿ And whatever the Messenger gives you - take it; and whatever he forbids you - abstain from it ﴾**
+>
+> — **[Al-Hashr: 7]**
 
 ---
 
-## 📖 Stories from the Salaf
+## 🎬 Introduction
 
-### The Scrupulousness of Abdullah ibn Umar in Rulings
+### 🎭 Scene: The Companion and the Question
 
-Abdullah ibn Umar (may Allah be pleased with him) was among the most scrupulous and careful of the Companions in matters of rulings. He used to say:
+> **Medina, during the Prophet's ﷺ era...**
+>
+> A man came to the Prophet ﷺ and asked:
+>
+> *"O Messenger of Allah, is there a sin in kissing while fasting?"*
+>
+> The Prophet ﷺ answered the question according to the person's situation...
+>
+> Another man came and asked the same question, and the answer differed!
+>
+> The Companions were puzzled...
+>
+> The Prophet ﷺ explained:
+>
+> **"The first is an old man, and the second is a young man."**
 
-> **"I care not whether I abandon an obligation or commit a prohibition—both are grave before Allah."**
-
-When asked about an issue, he would say: **"I don't know,"** then would research and ask until he was certain.
-
-From his scrupulousness, he would avoid doubtful matters—he would not eat food with the slightest doubt, nor wear clothing about which he had suspicion.
-
-Once asked about a delicate matter, he said: **"Ask someone else, for I fear making lawful what is unlawful or making unlawful what is lawful."**
-
-**The Lesson**: The Salaf magnified the five rulings and were careful about them, fearing they might fall into the forbidden or abandon the obligatory. This scrupulousness is the fruit of understanding legal rulings and the great responsibility before Allah.
+> 🎯 **Rulings differ based on situations and people — and the usuli must understand these categories!**
 
 ---
 
-### Al-Hasan al-Basri on Distinguishing Between Obligatory and Recommended
+### 🎭 Scene: Aisha and Fiqh
 
-A man came to Al-Hasan al-Basri (may Allah have mercy on him) and said: "O Abu Sa'id, I increase in voluntary fasting and night prayer, but I sometimes fall short in praying Fajr in congregation."
+> **Aisha** — may Allah be pleased with her — said to Urwa:
+>
+> *"O my nephew, I heard that Abdullah ibn Amr is passing by us on his way to Hajj. Go to him and ask him, for he has acquired much knowledge from the Prophet ﷺ."*
+>
+> Urwa went and asked him about some matters...
+>
+> When he returned, Aisha said:
+>
+> **"Did he differentiate between the obligatory and the recommended?"**
 
-Al-Hasan said: **"You tire yourself in voluntary acts while neglecting the obligations! Truly Allah will ask you about what He made obligatory upon you, not about what you volunteered."**
+> 💡 **Understanding the categories of rulings is the key to fiqh!**
 
-Then he said: **"Whoever performs the obligations and leaves the voluntary acts is saved, God willing. But whoever brings the voluntary acts and neglects the obligations is ruined."**
+---
 
-**The Lesson**: Distinguishing between the obligatory and the recommended is essential for prioritizing. The obligatory takes precedence over the recommended, and it is not permissible to be occupied with voluntary acts at the expense of obligations.
+## 📖 Definition of Hukm (Legal Ruling)
+
+### Technical Definition
+
+> **Al-Hukm Al-Shar'i**: Allah's address related to the acts of the legally responsible, as a requirement, option, or assignment.
+
+### Types of Legal Rulings
+
+| Type | Definition |
+|------|------------|
+| ⚖️ Taklifi | Imposes a requirement or option |
+| 📝 Wad'i | Establishes causes, conditions, impediments |
+
+---
+
+## ⚖️ The Five Taklifi Rulings
+
+### The Categories
+
+| Ruling | Arabic | Definition |
+|--------|--------|------------|
+| ✅ Obligatory | Wajib | Rewarded if done, punished if left |
+| 💚 Recommended | Mandub | Rewarded if done, not punished if left |
+| ⚪ Permissible | Mubah | No reward or punishment |
+| 🟡 Disliked | Makruh | Rewarded if left, not punished if done |
+| ❌ Prohibited | Haram | Rewarded if left, punished if done |
+
+---
+
+## ✅ First: The Obligatory (Wajib)
+
+### Definition
+
+> **Wajib**: What the Lawgiver demanded with a binding demand.
+
+### Indicators of Obligation
+
+| Indicator | Example |
+|-----------|---------|
+| 🔵 Direct command | ﴿ Establish prayer ﴾ |
+| 🔴 Threat for leaving | ﴿ Hell as permanent residence ﴾ |
+| ⚫ The word "obligatory" | "Ghusl on Friday is obligatory" |
+| ⚪ The word "prescribed" | ﴿ Fasting has been prescribed for you ﴾ |
+
+### Types of Wajib
+
+| Type | Definition | Example |
+|------|------------|---------|
+| 👤 Individual (Ayni) | Obligatory on every person | The five prayers |
+| 👥 Collective (Kifa'i) | Obligatory on some | Funeral prayer |
+| ⏰ Time-bound (Muaqqat) | Has a specific time | Prayer |
+| 🔄 Unspecified (Mutlaq) | No specific time | Making up missed fasts |
+| 📏 Specific (Muhaddad) | Determined amount | Zakat amounts |
+| 📊 Unspecified (Ghayr Muhaddad) | Amount not set | Spending on family |
+
+---
+
+## 💚 Second: The Recommended (Mandub)
+
+### Definition
+
+> **Mandub**: What the Lawgiver requested without binding demand.
+
+### Names for Mandub
+
+| Name | Usage |
+|------|-------|
+| 💚 Mandub | The recommended |
+| ⭐ Mustahabb | The liked |
+| 🌙 Sunnah | The prophetic practice |
+| ✨ Nafl | The voluntary |
+| 🎯 Fadila | The virtuous |
+
+### Types of Mandub
+
+| Type | Definition | Example |
+|------|------------|---------|
+| 🌟 Emphasized (Mu'akkad) | The Prophet ﷺ regularly did | Witr prayer |
+| ⭐ Non-emphasized | Done sometimes | Four before Asr |
+| 🌙 Prophetic custom | What he habitually did | His manner of eating |
+
+---
+
+## ⚪ Third: The Permissible (Mubah)
+
+### Definition
+
+> **Mubah**: What the Lawgiver gave the choice to do or leave.
+
+### Characteristics
+
+| Characteristic | Explanation |
+|----------------|-------------|
+| ⚖️ No reward or sin | In its essence |
+| 🔄 May become rewarded | With good intention |
+| 🔄 May become prohibited | If leads to harm |
+
+### Examples
+
+| Action | Category |
+|--------|----------|
+| 🍎 Eating the lawful | Permissible |
+| 😴 Sleeping | Permissible |
+| 🚶 Walking | Permissible |
+| 🗣️ Speaking | Permissible (in origin) |
+
+### When Mubah Changes
+
+| Condition | New Ruling |
+|-----------|------------|
+| 🎯 With good intention | Becomes rewarded |
+| 🚫 Leads to harm | Becomes prohibited |
+| ⚠️ Leads to disliked | Becomes disliked |
+
+---
+
+## 🟡 Fourth: The Disliked (Makruh)
+
+### Definition
+
+> **Makruh**: What the Lawgiver requested to leave without binding prohibition.
+
+### Characteristics
+
+| Characteristic | Explanation |
+|----------------|-------------|
+| ⚠️ Better to avoid | But not sinful if done |
+| 🎯 Rewarded for leaving | As obedience to Sharia |
+| 🔄 May become haram | If persisted in |
+
+### Examples
+
+| Action | Category |
+|--------|----------|
+| 🚰 Wasting water in wudu | Disliked |
+| 🕌 Praying when needing toilet | Disliked |
+| 🌅 Praying after Asr | Disliked at those times |
+| 🍖 Eating raw onions before mosque | Disliked |
+
+### Types of Makruh
+
+| Type | Definition |
+|------|------------|
+| 🟠 Closer to haram (Tahrimi) | Strong discouragement |
+| 🟡 Closer to mubah (Tanzihi) | Light discouragement |
+
+---
+
+## ❌ Fifth: The Prohibited (Haram)
+
+### Definition
+
+> **Haram**: What the Lawgiver demanded to leave with a binding demand.
+
+### Indicators of Prohibition
+
+| Indicator | Example |
+|-----------|---------|
+| 🔴 Direct prohibition | ﴿ Do not approach zina ﴾ |
+| ⚫ Threat of punishment | ﴿ Will face a painful punishment ﴾ |
+| 🔵 Word "haram" | ﴿ Forbidden to you is the dead animal ﴾ |
+| ⚪ Curse | "Allah cursed the one who..." |
+
+### Types of Haram
+
+| Type | Definition | Example |
+|------|------------|---------|
+| 🔴 In itself (Li-dhatihi) | Prohibited inherently | Zina |
+| 🟠 Due to external (Li-ghayrihi) | Prohibited due to another factor | Praying on usurped land |
+
+---
+
+## 📊 Comparison Table
+
+| Ruling | If Done | If Left | Example |
+|--------|---------|---------|---------|
+| ✅ Wajib | Reward | Punishment | Five prayers |
+| 💚 Mandub | Reward | No punishment | Sunnah prayers |
+| ⚪ Mubah | Nothing | Nothing | Eating |
+| 🟡 Makruh | No punishment | Reward | Wasting water |
+| ❌ Haram | Punishment | Reward | Riba |
 
 ---
 
 ## 🎯 Contemporary Cases
 
-### Case One: Congregational Prayer and Work
+### 📱 Case 1: Using Social Media
 
-**Question**: An employee works during Zuhr prayer time and cannot perform it in the mosque. What is the ruling on praying alone at work?
+> **Situation**: What is the ruling on using social media?
 
-**Answer**: Congregational prayer is obligatory or strongly emphasized according to most scholars. But praying on time is a definitive obligation. If congregation is not possible, one prays alone, and it is not permissible to delay the prayer beyond its time. Distinguishing between the absolute obligation (prayer) and the conditional obligation (congregation) is essential.
+**❓ Which of the five rulings?**
 
----
+<details>
+<summary>📜 Click for answer</summary>
 
-### Case Two: Zakat or Sadaqah?
+**The ruling varies:**
 
-**Question**: Someone gives large amounts in charity to the poor throughout the year but does not calculate their zakat precisely. Does their charity suffice for zakat?
+| Usage | Ruling |
+|-------|--------|
+| 📚 For da'wah and learning | Recommended |
+| 🎮 For entertainment | Permissible |
+| ⚠️ Wasting much time | Disliked |
+| 🚫 For haram content | Prohibited |
 
-**Answer**: Voluntary charity does not suffice for obligatory zakat. Zakat is a pillar of Islam with specific conditions and amounts. Charity is voluntary. Whoever increases in voluntary acts while leaving the obligation has misplaced priorities.
+> 💡 **The tool is permissible — the ruling depends on usage!**
 
----
-
-### Case Three: The Permissible That Becomes Forbidden
-
-**Question**: Eating is permissible—in what situations does eating become forbidden?
-
-**Answer**: The permissible may transform into forbidden by intention or effect:
-- Eating with the intention of strengthening oneself for sin: forbidden
-- Eating to the point of harmful excess: forbidden
-- Eating during Ramadan days while fasting: forbidden
-- Eating from usurped property: forbidden
-
-The ruling changes with the change of intention and circumstances.
+</details>
 
 ---
 
-### Case Four: Emphasized Sunnahs
+### 🎮 Case 2: Video Games
 
-**Question**: What is the practical difference between leaving the emphasized sunnah and the non-emphasized sunnah?
+> **Situation**: What is the ruling on playing video games?
 
-**Answer**: The emphasized sunnah (like witr and the two rak'ahs before Fajr), if left habitually without excuse, its leaver is blameworthy, and some scholars held him sinful. As for the non-emphasized sunnah, there is no blame in leaving it. But both are recommended—the doer is rewarded and the leaver is not punished.
+**❓ Which of the five rulings?**
+
+<details>
+<summary>📜 Click for answer</summary>
+
+**The ruling varies:**
+
+| Type | Ruling |
+|------|--------|
+| 🟢 Educational games | Permissible/recommended |
+| 🟡 Entertainment games | Permissible |
+| 🟠 Causing neglect | Disliked |
+| 🔴 Containing haram | Prohibited |
+
+> 💡 **The origin is permissibility — but depends on content and time!**
+
+</details>
 
 ---
 
-### Case Five: Ambiguities Between Lawful and Unlawful
+### 🏋️ Case 3: Exercise
 
-**Question**: Food about which I don't know whether it was slaughtered according to Islamic law or not—what is the ruling on eating it?
+> **Situation**: What is the ruling on going to the gym?
 
-**Answer**: If in a Muslim country, the default is permissibility because the common practice is proper slaughter. If in a non-Muslim country, caution is to leave it. Being cautious about ambiguities is recommended, as the Prophet ﷺ said: **"Whoever avoids doubtful matters has protected his religion and honor."**
+**❓ Which of the five rulings?**
+
+<details>
+<summary>📜 Click for answer</summary>
+
+**Analysis:**
+
+| Condition | Ruling |
+|-----------|--------|
+| 🏋️ For health | Recommended |
+| 💪 If needed | May be obligatory |
+| ⚠️ Mixed environment | May be prohibited |
+| 🕌 During prayer time | May be disliked |
+
+> 💡 **The origin is permissibility — circumstances change the ruling!**
+
+</details>
 
 ---
 
-## 💡 Pause and Reflect
+### 🍔 Case 4: Fast Food
 
-> Review your last day: How many obligatory acts did you perform? How many forbidden acts did you avoid? How many recommended acts did you do or leave? Do you give obligations their priority over recommended acts in your life? Can you easily distinguish between the five rulings in your daily actions?
+> **Situation**: What is the ruling on eating fast food?
+
+**❓ Which of the five rulings?**
+
+<details>
+<summary>📜 Click for answer</summary>
+
+**Analysis:**
+
+| Condition | Ruling |
+|-----------|--------|
+| 🍖 Halal meat | Permissible |
+| ⚠️ Harming health | May be disliked |
+| 🚫 Haram ingredients | Prohibited |
+| 🎯 With gratitude | Permissible |
+
+> 💡 **The origin is permissibility — but health and source matter!**
+
+</details>
 
 ---
 
-## Conclusion
+### 💼 Case 5: Working in Conventional Banks
 
-The five legal rulings are: obligatory (wajib), recommended (mandub), prohibited (haram), disliked (makruh), and permissible (mubah). They encompass all acts of legally responsible persons, and knowing them is the foundation of practicing Islamic law.
+> **Situation**: What is the ruling on working in a conventional bank?
+
+**❓ Which of the five rulings?**
+
+<details>
+<summary>📜 Click for answer</summary>
+
+**Scholarly positions:**
+
+| Role | Ruling |
+|------|--------|
+| 📝 Directly in riba transactions | Prohibited |
+| 🏢 Support roles (cleaning, security) | Differed upon |
+| 💻 IT not related to transactions | Less severe |
+
+> 💡 **Depends on the nature of the work and its connection to riba!**
+
+</details>
+
+---
+
+## 💭 Reflection
+
+> **Imam Al-Shatibi** — may Allah have mercy on him — said:
+>
+> **"The objectives of Sharia in legislation is to free the legally responsible from the grip of their desires, so they become servants of Allah by choice as they are by necessity."**
+
+> 🎯 **Understanding the five rulings is the key to correct action!**
+
+---
+
+## 📚 Summary
+
+| Ruling | Definition | Key Feature |
+|--------|------------|-------------|
+| ✅ Wajib | Binding demand to do | Punished if left |
+| 💚 Mandub | Non-binding request to do | Rewarded if done |
+| ⚪ Mubah | Choice between doing and leaving | No reward or punishment |
+| 🟡 Makruh | Non-binding request to leave | Rewarded if left |
+| ❌ Haram | Binding demand to leave | Punished if done |
 `;

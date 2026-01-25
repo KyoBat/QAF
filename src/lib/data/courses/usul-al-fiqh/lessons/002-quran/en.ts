@@ -1,195 +1,349 @@
-export const contentEn = `
-# The Quran as a Source of Legislation
+/**
+ * Usul al-Fiqh - Lesson 002: The Quran
+ * English content - Immersive version
+ */
 
-## Definition of the Quran
+export const contentEn = `# 📖 The Quran — The Primary Source of Legislation
 
-**The Quran** is the speech of Allah the Most High, revealed to His Prophet Muhammad ﷺ, in clear Arabic language, whose recitation is an act of worship, transmitted to us through mass transmission (tawatur), written in the Mushaf from the first Surah Al-Fatiha to the last Surah An-Nas.
+> **﴿ And We have sent down to you the Book as clarification for all things and as guidance and mercy and good tidings for the Muslims ﴾**
+>
+> — **[An-Nahl: 89]**
 
-### Characteristics of the Quran
+---
 
-1. **Speech of Allah**: not the speech of humans or angels
-2. **Revealed**: descended from Allah through Jibril (Gabriel)
-3. **In Arabic language**: revealed in eloquent classical Arabic
-4. **Recitation as worship**: its reading is a rewarded act of worship
-5. **Transmitted by tawatur**: transmitted through a continuous, certain chain
+## 🎬 Introduction
 
-## Position of the Quran in Legislation
+### 🎭 Scene: The Night of Decree
 
-### The Primary Source of Rulings
+> **The Cave of Hira, a night in Ramadan...**
+>
+> **Muhammad** ﷺ was worshipping in the cave as was his habit...
+>
+> Suddenly, **Jibril** (Gabriel) appeared to him and said:
+>
+> **"Read!"**
+>
+> Muhammad ﷺ replied: *"I cannot read."*
+>
+> Jibril squeezed him tightly, then released him and said:
+>
+> **"Read!"**
+>
+> — Three times...
+>
+> Then Jibril said:
+>
+> **﴿ Read in the name of your Lord who created ۝ Created man from a clinging substance ﴾**
 
-Allah the Most High says:
+> 🎯 **Thus began the revelation of the Quran — Allah's Word to humanity!**
 
-> **"And We have sent down to you the Book as clarification for all things and as guidance and mercy and good tidings for the Muslims"** [An-Nahl: 89]
+---
+
+### 🎭 Scene: The Weight of Revelation
+
+> **Aisha** — may Allah be pleased with her — reported:
+>
+> *"I saw the Prophet ﷺ receiving revelation on a very cold day, and when it departed from him, his forehead would drip with sweat."*
+>
+> — **[Al-Bukhari and Muslim]**
+
+> ⚡ **The Quran is not ordinary speech — it is the Word of the Lord of the Worlds!**
+
+---
+
+## 📖 Definition of the Quran
+
+### The Definition
+
+> **The Quran**: The Speech of Allah, revealed to His Prophet Muhammad ﷺ, in Arabic words, whose recitation is worship, transmitted by tawatur (mass transmission), written in the masahif from Al-Fatiha to An-Nas.
+
+### Its Characteristics
+
+| Characteristic | Explanation |
+|----------------|-------------|
+| 🗣️ Speech of Allah | Not from humans or angels |
+| ⬇️ Revealed | Through Jibril |
+| 🕌 In Arabic | In clear Arabic language |
+| 📿 Recitation is worship | Reading it is an act of worship |
+| 🔗 Mutawatir | Transmitted through certain chains |
+
+---
+
+## ⚖️ Position of the Quran in Legislation
+
+### The Primary Source
+
+| Order | Evidence |
+|-------|----------|
+| 1️⃣ | The Quran |
+| 2️⃣ | The Sunnah |
+| 3️⃣ | Ijma (Consensus) |
+| 4️⃣ | Qiyas (Analogy) |
+
+### The Proof
+
+> Allah says:
+>
+> **﴿ O you who have believed, obey Allah and obey the Messenger and those in authority among you ﴾**
+>
+> — **[An-Nisa: 59]**
 
 ### Authority of the Quran
 
-- **Definitively established** (qat'i al-thubut): because transmitted by tawatur
-- **Obligatory to follow**: Muslims must comply with it
-- **Abrogated only by Quran**: what is abrogated from it is by another verse
+| Description | Ruling |
+|-------------|--------|
+| 🔒 Definitive in authenticity | Transmitted by tawatur |
+| ⚖️ Binding | Its following is obligatory |
+| 📜 Cannot be abrogated | Except by another verse |
 
-## Types of Quranic Indications
+---
 
-### Regarding Establishment
+## 📊 Types of Quranic Indications
+
+### Regarding Authenticity
 
 | Type | Ruling |
 |------|--------|
-| Definitive establishment | All of the Quran is definitively established |
+| 🔒 All is definitive in authenticity | Because transmitted by tawatur |
 
 ### Regarding Meaning
 
 | Type | Definition | Example |
 |------|------------|---------|
-| Definitive meaning (qat'i al-dalala) | Admits only one meaning | Inheritance verses |
-| Probable meaning (zanni al-dalala) | Admits multiple meanings | The term "qur'" in waiting period |
+| 🔒 Definitive in meaning | Admits only one meaning | Inheritance verses: ﴿ For the male, the share of two females ﴾ |
+| 🔓 Probable in meaning | Admits more than one meaning | ﴿ Divorced women shall wait for three quru' ﴾ |
 
-## Rulings in the Quran
+### Example of Probable Meaning
 
-### Doctrinal Rulings (Beliefs)
+> **﴿ Three quru' ﴾**
+>
+> | Interpretation | School |
+> |----------------|--------|
+> | Menstrual periods | Hanafi and Hanbali |
+> | Periods of purity | Shafi'i and Maliki |
 
-- Monotheism and belief in Allah
-- Belief in angels, books, and messengers
-- Belief in the Last Day and divine decree
-
-### Practical Rulings (Jurisprudential)
-
-#### Verses on Worship
-
-- Prayer: **"Establish prayer and give Zakat"** [Al-Baqara: 43]
-- Fasting: **"Fasting has been prescribed for you"** [Al-Baqara: 183]
-- Pilgrimage: **"And to Allah upon the people is a pilgrimage to the House"** [Al-Imran: 97]
-
-#### Verses on Transactions
-
-- Sale and commerce
-- Usury and its prohibition
-- Debts and documentation
-
-#### Verses on Personal Status
-
-- Marriage and divorce
-- Maintenance and custody
-- Inheritance
-
-### Moral Rulings
-
-- Truthfulness and honesty
-- Kindness to parents
-- Good character
-
-## Methods of the Quran in Explaining Rulings
-
-### Command and Prohibition
-
-- **Command**: indicates obligation unless diverted by evidence
-- **Prohibition**: indicates prohibition unless diverted by evidence
-
-### General and Specific
-
-- General verses encompassing all individuals
-- Specific verses for particular categories
-
-### Absolute and Restricted
-
-- Absolute terms not restricted
-- Restricted terms by description or condition
-
-## Relationship Between Quran and Sunnah
-
-### The Sunnah Explains the Quran
-
-Allah the Most High says:
-
-> **"And We revealed to you the Reminder that you may make clear to the people what was sent down to them"** [An-Nahl: 44]
-
-### Types of Explanation
-
-1. **Detailing the concise**: like detailing how to pray
-2. **Specifying the general**: like specifying inheritance verses
-3. **Restricting the absolute**: like restricting the hand in theft
-
-## The Clear and the Ambiguous
-
-### The Clear (Muhkam)
-
-- Evident meaning not requiring interpretation
-- Such as explicit ruling verses
-
-### The Ambiguous (Mutashabih)
-
-- Requires interpretation and exegesis
-- Understood in light of the clear
-
-Allah the Most High says:
-
-> **"It is He who has sent down to you the Book; in it are verses that are precise - they are the foundation of the Book - and others unspecific"** [Al-Imran: 7]
+> 💡 **One word — multiple possible meanings — this is the cause of disagreement!**
 
 ---
 
-## 📖 Stories from the Salaf: Umar ibn al-Khattab and the Verse of Kalala
+## 📜 Categories of Quranic Rulings
 
-It is reported that Umar ibn al-Khattab (may Allah be pleased with him) used to say: "Three things I wished the Messenger of Allah ﷺ had not left us until he gave us a clear covenant regarding them: the grandfather (in inheritance), the kalala (those who die without parents or children), and some chapters of riba (usury)."
+### 1️⃣ Doctrinal Rulings
 
-Umar used to ask the Prophet ﷺ about kalala repeatedly, until the Prophet ﷺ told him: **"The verse of summer at the end of Surah An-Nisa is sufficient for you."**
+| Topic | Example |
+|-------|---------|
+| 🕋 Monotheism | ﴿ There is no deity except Him ﴾ |
+| 👼 Angels | ﴿ Praise be to Allah, Creator of the heavens and earth, who made the angels messengers ﴾ |
+| 📖 Books | ﴿ And We have sent down to you the Book ﴾ |
+| 👨‍🏫 Messengers | ﴿ And messengers about whom We have related to you ﴾ |
+| ⏳ The Last Day | ﴿ And the Last Day ﴾ |
 
-Despite this, Umar continued to be careful in understanding it, and would say: "That I had asked the Messenger of Allah ﷺ about it would be more beloved to me than possessing red camels."
+### 2️⃣ Practical Rulings (Fiqh)
 
-**The Lesson**: The intense care of the Companions in understanding the Quran from its source, and their caution in interpreting by opinion without knowledge.
+| Domain | Verse |
+|--------|-------|
+| 🕌 Prayer | ﴿ And establish prayer ﴾ |
+| 💰 Zakat | ﴿ And give zakat ﴾ |
+| 🌙 Fasting | ﴿ Fasting has been prescribed for you ﴾ |
+| 🕋 Hajj | ﴿ And pilgrimage to the House is a duty upon mankind to Allah ﴾ |
+| 💍 Marriage | ﴿ Then marry those that please you ﴾ |
+| 💔 Divorce | ﴿ Divorce is twice ﴾ |
+| ⚖️ Trade | ﴿ Allah has permitted trade ﴾ |
+| 🚫 Riba | ﴿ And has forbidden riba ﴾ |
 
----
+### 3️⃣ Ethical Rulings
 
-## 🎯 Contemporary Cases: Using the Quran as Evidence
-
-### Case 1: Verses on Riba and Banks
-
-**Context**: Some cite the verse **"Allah has permitted trade and forbidden riba"** to prohibit bank interest.
-
-**Question**: Is the verse definitive in this indication?
-
-**Answer**: ✅ The verse is definitive in prohibiting the riba mentioned in the text. However, determining what contemporary transactions fall under the concept of riba requires the ijtihad of specialists in verifying the effective cause (tahqiq al-manat).
-
----
-
-### Case 2: The Verse of Hijab and Its Interpretation
-
-**Context**: Contemporaries have differed in interpreting **"and let them draw their head-coverings over their chests"**.
-
-**Question**: Does this include covering the face or not?
-
-**Answer**: ✅ This is from the probable in meaning (zanni al-dalala), which is why scholars, both past and present, have differed on it. The disagreement is legitimate because the wording admits more than one meaning.
-
----
-
-### Case 3: Using a Single Verse as Evidence
-
-**Context**: Someone uses the verse **"There is no compulsion in religion"** to permit apostasy.
-
-**Question**: Is this reasoning valid?
-
-**Answer**: ❌ It is not valid to understand a verse in isolation from other verses and hadiths. The Quran is interpreted by the Quran, then by the Sunnah. Isolating the text from its context is a methodological error.
+| Value | Verse |
+|-------|-------|
+| 💚 Truthfulness | ﴿ O you who believe, fear Allah and be with the truthful ﴾ |
+| 👨‍👩‍👧 Honoring parents | ﴿ And to parents, good treatment ﴾ |
+| 🤝 Trustworthiness | ﴿ Indeed, Allah commands you to render trusts to their owners ﴾ |
 
 ---
 
-### Case 4: Quran Translation and Rulings
+## 🔧 Quranic Methods for Expressing Rulings
 
-**Context**: A non-Arab Muslim reads a translation of the Quran and derives rulings from it.
+### 1️⃣ Command
 
-**Question**: Is it valid to derive rulings from translations?
+| Form | Example | Indication |
+|------|---------|------------|
+| "Do" | ﴿ Establish prayer ﴾ | Obligation |
 
-**Answer**: ❌ A translation is an interpretation, not the Quran itself. Derivation must be from the original Arabic text because precise linguistic indications do not transfer through translation.
+### 2️⃣ Prohibition
+
+| Form | Example | Indication |
+|------|---------|------------|
+| "Do not" | ﴿ And do not approach zina ﴾ | Prohibition |
+
+### 3️⃣ Explicit Statement of Ruling
+
+| Style | Example |
+|-------|---------|
+| It is prescribed for you | ﴿ Fasting has been prescribed for you ﴾ |
+| It is imposed | ﴿ Allah has ordained for you the dissolution of your oaths ﴾ |
+| It is prohibited | ﴿ Prohibited to you is the dead animal ﴾ |
+| It is permitted | ﴿ Lawful to you is the game from the sea ﴾ |
 
 ---
 
-## 💡 Pause and Reflect
+## 🎭 Story: Omar and the Verse of Wine
 
-**Question for Reflection**: How many times have you used a Quranic verse as evidence without ensuring you understood it correctly in its context and in light of the explanatory Sunnah?
+### The Context
 
-**Remember**:
-- The Quran is definitively established but includes verses of probable meaning
-- Understanding the Quran requires the Sunnah and knowledge of Arabic
-- Correct reasoning gathers evidences and does not isolate them
-- Beware of interpretation by opinion without knowledge
+> Before the prohibition of wine, some Companions used to drink it.
+>
+> **Omar ibn al-Khattab** — may Allah be pleased with him — supplicated to his Lord:
+>
+> *"O Allah, give us a clear explanation regarding wine!"*
 
-## Conclusion
+### The Gradual Prohibition
 
-The Quran is the primary source of Islamic legislation, definitively established, containing passages of definitive meaning and others of probable meaning, and the Prophetic Sunnah explains and details it.
+| Stage | Verse | Meaning |
+|-------|-------|---------|
+| 1️⃣ | ﴿ They ask you about wine... In them is great sin ﴾ | Indication that it is bad |
+| 2️⃣ | ﴿ Do not approach prayer while intoxicated ﴾ | Partial prohibition |
+| 3️⃣ | ﴿ Wine, gambling... are but defilement ﴾ | Total prohibition |
+
+> Omar then said: **"We have stopped! We have stopped!"**
+
+> 💡 **The Usuli learns: Allah may legislate gradually!**
+
+---
+
+## 🎯 Contemporary Cases
+
+### 📱 Case 1: Quran on Phone
+
+> **Situation**: Can I touch my phone containing the Quran without wudu?
+
+**❓ What is the ruling?**
+
+<details>
+<summary>📜 Click for answer</summary>
+
+**Important distinction:**
+
+| The Mushaf (Book) | The Phone |
+|-------------------|-----------|
+| 📖 Quran only | 📱 Contains Quran among other things |
+| Prohibited to touch without wudu | Majority permits as it's not a mushaf |
+
+> 💡 **The verse "None touch it except the purified" refers to the physical mushaf!**
+
+</details>
+
+---
+
+### 🔊 Case 2: Listening to Quran Without Concentration
+
+> **Situation**: I listen to Quran in the car or at work without full concentration.
+
+**❓ Is this permissible?**
+
+<details>
+<summary>📜 Click for answer</summary>
+
+**Scholars distinguish:**
+
+| Situation | Ruling |
+|-----------|--------|
+| 🎧 Intentional listening | Concentration required |
+| 🔊 As background | Permissible without sin |
+| ⚠️ Best practice | Listen with attention |
+
+> 💡 **The verse "Listen to it and be silent" refers to intentional listening!**
+
+</details>
+
+---
+
+### 📚 Case 3: Translation of the Quran
+
+> **Situation**: Can I recite the translation of the Quran in prayer?
+
+**❓ What is the ruling?**
+
+<details>
+<summary>📜 Click for answer</summary>
+
+**Scholarly consensus:**
+
+| The translation | The Arabic original |
+|-----------------|---------------------|
+| 📝 Is not the Quran | 📖 Is the Quran |
+| Cannot substitute in prayer | Obligatory in prayer |
+| Useful for understanding | The original recitation |
+
+> 💡 **The translation is an interpretation, not the Quran itself!**
+
+</details>
+
+---
+
+### 🎭 Case 4: Reciting Quran During Menstruation
+
+> **Situation**: Can a woman during her period recite the Quran?
+
+**❓ Scholars have differed:**
+
+<details>
+<summary>📜 Click for answer</summary>
+
+**Two main opinions:**
+
+| Opinion | Evidence |
+|---------|----------|
+| 🔴 Prohibited (Majority) | Analogy with the junub (major impurity) |
+| 🟢 Permitted (Ibn Taymiyyah and others) | No explicit text prohibiting |
+
+> 💡 **The disagreement stems from the absence of a clear text on this issue!**
+
+</details>
+
+---
+
+### 📖 Case 5: Disposing of Papers with Verses
+
+> **Situation**: I have study notes with verses. Can I throw them away?
+
+**❓ What is the ruling?**
+
+<details>
+<summary>📜 Click for answer</summary>
+
+**Respectful methods:**
+
+| Method | Ruling |
+|--------|--------|
+| 🔥 Burning | Permissible (as Uthman did) |
+| 💧 Shredding and dissolving | Permissible |
+| 🗑️ Regular trash | Prohibited out of respect |
+| ♻️ Recycling | If transformed, permissible |
+
+> 💡 **The essential thing is respect for Allah's Word!**
+
+</details>
+
+---
+
+## 💭 Reflection
+
+> **Ibn Mas'ud** — may Allah be pleased with him — said:
+>
+> **"Whoever wants knowledge, let them contemplate the Quran, for in it is the knowledge of the first and the last."**
+
+> 🎯 **The Quran is the source of all guidance — but understanding it requires method and knowledge!**
+
+---
+
+## 📚 Summary
+
+| Concept | Explanation |
+|---------|-------------|
+| 🎯 Definition | Speech of Allah revealed to the Prophet ﷺ |
+| 📊 Position | Primary source of legislation |
+| 🔒 Authenticity | Definitive (mutawatir) |
+| 🔓 Meaning | Definitive or probable depending on verses |
+| 📖 Types of rulings | Doctrinal, practical, ethical |
+| 🔧 Methods | Command, prohibition, explicit statement |
 `;

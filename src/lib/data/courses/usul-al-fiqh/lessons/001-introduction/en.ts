@@ -1,164 +1,329 @@
-export const contentEn = `
-# Introduction to Usul al-Fiqh
+/**
+ * Usul al-Fiqh - Lesson 001: Introduction to the Foundations of Fiqh
+ * English content - Immersive version
+ */
 
-## Definition of Usul al-Fiqh
+export const contentEn = `# ⚖️ Introduction to Usul al-Fiqh — The Key to Ijtihad
 
-**Usul al-Fiqh** (أصول الفقه) is the science that studies the general legal evidences, the methodology for deriving rulings from them, and the qualifications of the jurist.
+> **﴿ Ask the people of knowledge if you do not know ﴾**
+>
+> — **[An-Nahl: 43]**
+
+---
+
+## 🎬 Introduction
+
+### 🎭 Scene: Imam Ash-Shafi'i and the Birth of a New Science
+
+> **Egypt, 199 AH...**
+>
+> **Imam Ash-Shafi'i** — may Allah have mercy on him — sat in his teaching circle, surrounded by students from Iraq and Egypt.
+>
+> One of them asked: *"O Imam, why did Abu Hanifa and Malik differ? They are both great imams!"*
+>
+> Ash-Shafi'i smiled and said:
+>
+> **"Their disagreement is a mercy. But one who doesn't know the foundations of reasoning cannot understand why they differed."**
+>
+> The student said: *"Then teach us, O Imam!"*
+>
+> Ash-Shafi'i took out pages he had written and said:
+>
+> **"This is 'Ar-Risala'... the first book on the science of Usul al-Fiqh."**
+
+> 🎯 **Thus the science of Usul al-Fiqh was born — to organize ijtihad and regulate legal deduction!**
+
+---
+
+### 🎭 Scene: The Firewood and the Snake
+
+> A student asked Ash-Shafi'i: *"Leave the rules aside and just give us the rulings directly!"*
+>
+> Imam Ash-Shafi'i replied:
+>
+> **"One who seeks fiqh without usul is like one who carries firewood at night with a snake hidden inside!"**
+
+> ⚠️ **Fiqh without usul = danger!**
+
+---
+
+## 📖 What is the Science of Usul al-Fiqh?
 
 ### Linguistic Definition
 
-- **Usul** (أصول): plural of Asl (أصل), meaning foundation or basis
-- **Fiqh** (فقه): linguistically means understanding, and technically means knowledge of practical Sharia rulings derived from their detailed evidences
+| Term | Meaning |
+|------|---------|
+| **Usul** | Plural of asl — that upon which something is built |
+| **Fiqh** | Deep understanding |
 
 ### Technical Definition
 
-> Usul al-Fiqh is: the science of principles by which one arrives at deriving subsidiary legal rulings from their detailed evidences.
+> **Usul al-Fiqh**: The science of the rules by which one arrives at deducing legal rulings from their detailed evidences.
 
-## Importance of Usul al-Fiqh
-
-### For the Mujtahid (Qualified Jurist)
-
-1. **Deriving rulings**: enables extraction of rulings from texts
-2. **Weighing between opinions**: helps in choosing the stronger view
-3. **Addressing new issues**: qualifies for answering contemporary questions
-
-### For the Student of Knowledge
-
-1. **Understanding scholarly differences**: grasping reasons for jurisprudential disagreements
-2. **Evaluating evidences**: ability to compare different argumentations
-3. **Protection from blind following**: understanding the methodologies of the Imams
-
-## Genesis of Usul al-Fiqh
-
-### During the Prophet's ﷺ Era and the Companions
-
-The Companions (may Allah be pleased with them) derived rulings through their sound intuition and deep understanding of the Arabic language and the objectives of Sharia, without needing codified rules.
-
-### Codification
-
-- **Imam al-Shafi'i** (d. 204 AH): first to codify Usul al-Fiqh in his book **"al-Risala"**
-- He gathered scattered principles and organized them in a scientific, methodical manner
-
-## Topics of Usul al-Fiqh
-
-### Legal Evidences
-
-| Evidence | Definition |
-|----------|------------|
-| The Quran | The speech of Allah revealed to Muhammad ﷺ |
-| The Sunnah | What emanated from the Prophet ﷺ in speech, action, or approval |
-| Ijma (Consensus) | Agreement of the Ummah's mujtahids on a legal ruling |
-| Qiyas (Analogy) | Linking a subsidiary case to an original case due to a common cause |
-
-### Significations of Terms
-
-- **General and Specific** (al-'Aam wal-Khass)
-- **Absolute and Restricted** (al-Mutlaq wal-Muqayyad)
-- **Ambiguous and Clarified** (al-Mujmal wal-Mubayyan)
-- **Literal and Figurative** (al-Haqiqa wal-Majaz)
-
-### Legal Qualifications (Ahkam Taklifi)
-
-1. **Wajib (Obligatory)**: that whose performance is firmly demanded
-2. **Mandub (Recommended)**: that whose performance is demanded without obligation
-3. **Mubah (Permissible)**: that for which one has choice between doing and leaving
-4. **Makruh (Disliked)**: that whose abandonment is demanded without obligation
-5. **Haram (Prohibited)**: that whose abandonment is firmly demanded
-
-## Difference Between Fiqh and Usul al-Fiqh
+### In Summary
 
 | Fiqh | Usul al-Fiqh |
 |------|--------------|
-| Studies particular rulings | Studies general principles |
-| Example: ruling on Friday prayer | Example: what the imperative indicates |
+| 📚 The rulings themselves | 🔧 The tools to derive rulings |
+| What to do? | How do we know? |
+| The fruit | The tree |
+
+---
+
+## 🌟 Why Study Usul al-Fiqh?
+
+### For the Mujtahid
+
+| Benefit | Explanation |
+|---------|-------------|
+| 🔍 Deriving rulings | Extracting them from the texts |
+| ⚖️ Weighing opinions | Between different views |
+| 🆕 New issues | Answering contemporary questions |
+
+### For the Student of Knowledge
+
+| Benefit | Explanation |
+|---------|-------------|
+| 🤝 Understanding disagreement | Why did scholars differ? |
+| 📊 Evaluating evidence | Which is stronger? |
+| 🛡️ Protection | From blind following |
+
+---
+
+## 📜 Origin of the Science of Usul al-Fiqh
+
+### First Stage: Application Without Codification
+
+| Era | Situation |
+|-----|-----------|
+| 🌙 The Prophet ﷺ | Revelation descended, rulings were clear |
+| ⭐ The Companions | Deduced through their intuition and mastery of Arabic |
+| 📖 The Tabi'in | Learned from the Companions |
+
+> They didn't need to codify rules — they lived them.
+
+### Second Stage: Codification
+
+| Event | Details |
+|-------|---------|
+| 📚 Ar-Risala | First book on Usul al-Fiqh |
+| ✍️ Author | Imam Ash-Shafi'i (d. 204 AH) |
+| 🎯 Reason | To regulate ijtihad and systematize reasoning |
+
+---
+
+## 🎭 Story: Imam Ash-Shafi'i Writes Ar-Risala
+
+### The Reason
+
+> **Abdur-Rahman ibn Mahdi** — the imam of hadith scholars — asked him to write a book on the meanings of the Quran and the levels of evidence.
+>
+> Ash-Shafi'i wrote "Ar-Risala" and sent it to him.
+
+### What Did It Contain?
+
+| Topic | Content |
+|-------|---------|
+| 📖 The Quran | Its authority and indications |
+| 📜 The Sunnah | Its position and categories |
+| ⚖️ Ijma | Its conditions and authority |
+| 🔗 Qiyas | Its pillars and conditions |
+| 📝 Bayan | Its types and levels |
+| 🚫 Abrogation | Its rules |
+
+### The Impact
+
+> Imam Ahmad said:
+>
+> **"We used to curse the people of ra'y (opinion) until Ash-Shafi'i came and enlightened us."**
+
+---
+
+## 📊 Topics of Usul al-Fiqh
+
+### First: Legal Evidences
+
+| Evidence | Definition | Example |
+|----------|------------|---------|
+| 📖 The Quran | The revealed speech of Allah | ﴿ Establish the prayer ﴾ |
+| 📜 The Sunnah | The Prophet's ﷺ words or actions | "Pray as you have seen me pray" |
+| 🤝 Ijma | Consensus of the mujtahids | The obligation of the five prayers |
+| 🔗 Qiyas | Linking a case to another | Prohibiting nabidh like wine |
+
+### Second: Indications of Terms
+
+| Chapter | Content |
+|---------|---------|
+| 📝 General and Specific | What includes all vs. what specifies some |
+| ⛓️ Absolute and Restricted | Term without condition vs. conditioned |
+| ❓ Ambiguous and Clear | What needs clarification |
+| 🎭 Literal and Figurative | Original meaning vs. derived |
+
+### Third: Legal Rulings
+
+| Ruling | Definition | Example |
+|--------|------------|---------|
+| ✅ Obligatory (Wajib) | Rewarded if done, punished if left | The five prayers |
+| 💚 Recommended (Mandub) | Rewarded if done, not punished if left | Regular sunnahs |
+| ⚪ Permissible (Mubah) | No reward or punishment | Eating and drinking |
+| 🟡 Disliked (Makruh) | Rewarded if left, not punished if done | Praying while sleepy |
+| ❌ Prohibited (Haram) | Rewarded if left, punished if done | Riba and zina |
+
+---
+
+## ⚖️ Difference Between Fiqh and Usul al-Fiqh
+
+| Fiqh | Usul al-Fiqh |
+|------|--------------|
+| Practical rulings | Methodological rules |
+| Ruling of Friday prayer | Commands indicate obligation |
 | Fruit of ijtihad | Tool of ijtihad |
+| The building | The foundation |
 
-## Benefits of Studying Usul al-Fiqh
-
-- **Developing juristic ability**: building the capacity for derivation
-- **Understanding the Imams' methods**: grasping their modes of reasoning
-- **Refuting doubts**: through argument and evidence
-- **Addressing new issues**: with a scientific methodology
+> 🎯 **Example**: 
+> - The faqih says: *"Friday prayer is obligatory"*
+> - The usuli says: *"Commands indicate obligation"*
 
 ---
 
-## 📖 Stories from the Salaf: Imam al-Shafi'i and the Methodology of Derivation
+## 🎯 Contemporary Cases
 
-When Imam al-Shafi'i (may Allah have mercy on him) came to Egypt, some of his students asked him about a jurisprudential issue on which scholars disagreed. Al-Shafi'i said: "Do not ask me about the ruling until I teach you how I arrive at it."
+### 📱 Case 1: Scholars' Disagreement on Photography
 
-He then began explaining to them the principles of reasoning, the hierarchy of evidences, and how to reconcile texts that appear to conflict.
+> **Situation**: Some scholars prohibit photography, others permit it.
 
-One of them said: "O Imam, show us the fruit and spare us the tree!"
+**❓ How do we understand this disagreement?**
 
-Al-Shafi'i replied with his timeless statement: **"Whoever seeks fiqh without usul is like one who carries firewood at night with a snake hidden inside, not knowing!"**
+<details>
+<summary>📜 Click for answer</summary>
 
-**The Lesson**: Usul al-Fiqh is not an intellectual luxury; rather, it is the guarantee for sound derivation and protection from error.
+**The disagreement is in application (tahqiq al-manat):**
 
----
+| Opinion | Reasoning |
+|---------|-----------|
+| 🔴 Prohibited | It's an image, included in the prohibition |
+| 🟢 Permitted | It's not fabrication but capturing reality |
 
-## 🎯 Contemporary Cases: Applications of Usul al-Fiqh Today
+> 💡 **Usul helps us understand: each has evidence!**
 
-### Case 1: The Dispute on Photographic Imaging
-
-**Context**: Contemporary scholars have differed on the ruling of photographic imaging, some prohibiting it and others permitting it.
-
-**Question**: How do we understand this disagreement?
-
-**Answer**: ✅ The disagreement is based on understanding the effective cause of prohibiting images in the hadiths: is the cause imitating Allah's creation (thus including photography) or handcrafting (thus excluding it)? This is an application of "tahqiq al-manat" (verification of the effective cause) in Usul al-Fiqh.
+</details>
 
 ---
 
-### Case 2: Fatwa and Legal Ruling
+### 💊 Case 2: Medicine Containing Alcohol
 
-**Context**: A person heard a fatwa from a scholar permitting something, then heard another fatwa prohibiting it.
+> **Situation**: A medicine contains a small percentage of alcohol.
 
-**Question**: Is it permissible for him to choose the fatwa that suits his desire?
+**❓ Can it be used?**
 
-**Answer**: ❌ Following dispensations (tatabbu' al-rukhas) is not permitted. He must follow whom he considers more knowledgeable and pious, or ask another scholar to weigh the opinions for him. Al-Shatibi said: "Following dispensations is departing from religious obligation."
+<details>
+<summary>📜 Click for answer</summary>
 
----
+**Applying the rule of Istihlak (dissolution):**
 
-### Case 3: Using Weak Hadiths as Evidence
+| Condition | Explanation |
+|-----------|-------------|
+| 🔬 Complete transformation | The alcohol changed its nature |
+| 💧 Minimal quantity | Does not cause intoxication |
+| 🏥 Necessity | No alternative available |
 
-**Context**: Some people spread weak hadiths to establish legal rulings.
+> 💡 **The usuli understands: "What transforms changes in ruling" applies!**
 
-**Question**: Is it valid to use weak hadiths for rulings?
-
-**Answer**: ❌ Not valid according to the majority of scholars. Rulings are built only on authentic evidence. This is from the fundamentals of Usul al-Fiqh: the conditions of evidence and proof.
-
----
-
-### Case 4: Analogy for New Issues
-
-**Context**: Cryptocurrencies (Bitcoin) appeared with no text regarding them.
-
-**Question**: How is their legal ruling determined?
-
-**Answer**: ✅ They are examined using the tools of Usul al-Fiqh: determining their nature, analogy to similar cases, applying principles of benefits and harms. This confirms the importance of Usul for new issues.
+</details>
 
 ---
 
-### Case 5: "This is what we found our fathers upon"
+### 🏦 Case 3: Bank Interest
 
-**Context**: Some people cling to inherited customs thinking they are religion.
+> **Situation**: A bank offers "profits" on deposits.
 
-**Question**: What is the position of Usul al-Fiqh on this?
+**❓ Is this Riba?**
 
-**Answer**: ❌ Custom is not an independent legal evidence. Rulings are taken from recognized legal proofs. Allah said, condemning: **"Indeed, we found our fathers upon a religion"**.
+<details>
+<summary>📜 Click for answer</summary>
+
+**Analysis according to Usul:**
+
+| Element | Analysis |
+|---------|----------|
+| 🔍 The cause ('illa) | Guaranteed increase without risk |
+| ⚖️ Qiyas | Same cause as classical riba |
+| 📜 Verdict | Majority of scholars prohibit it |
+
+> 💡 **Understanding qiyas helps understand why it's prohibited!**
+
+</details>
 
 ---
 
-## 💡 Pause and Reflect
+### 📱 Case 4: Praying with Quran on Phone
 
-**Question for Reflection**: How many times have you made a legal judgment without properly understanding the methodology behind it? Do you differentiate between following a ruling and understanding its evidence?
+> **Situation**: Can one read Quran from their phone during prayer?
 
-**Remember**:
-- Usul al-Fiqh protects from error in derivation
-- Understanding methodology helps in evaluating different opinions
-- Proper derivation gathers evidences and does not isolate them
-- Beware of interpretation by opinion without knowledge
+**❓ What is the ruling?**
 
-## Conclusion
+<details>
+<summary>📜 Click for answer</summary>
 
-Usul al-Fiqh is the scale that distinguishes correct reasoning from flawed, and it is the tool of the mujtahid to reach Allah's intent through the texts of the Sharia.
+**Scholars have differed:**
+
+| Opinion | Argument |
+|---------|----------|
+| 🟢 Permitted | Like reading from the mushaf (permitted by some) |
+| 🟡 Disliked | Excessive movements during prayer |
+| ⚪ Permitted for need | For one who hasn't memorized |
+
+> 💡 **The Usul method helps us weigh the evidence!**
+
+</details>
+
+---
+
+### 🧬 Case 5: Organ Donation
+
+> **Situation**: A person wants to donate organs after death.
+
+**❓ What is the ruling?**
+
+<details>
+<summary>📜 Click for answer</summary>
+
+**Usuli Analysis:**
+
+| Principle | Application |
+|-----------|-------------|
+| 🔴 Principle | The body is inviolable |
+| 🟢 Exception | Higher interest (maslaha) |
+| ⚖️ Majority verdict | Permitted with conditions |
+
+**Conditions:**
+- ✅ Consent of donor or heirs
+- ✅ Vital necessity for recipient
+- ✅ No organ trade
+
+> 💡 **Usul teaches us to balance principles!**
+
+</details>
+
+---
+
+## 💭 Reflection
+
+> **Imam Ash-Shafi'i** said:
+>
+> **"Whoever studies usul masters the foundations of deduction."**
+
+> 🎯 **Usul al-Fiqh is not an abstract science — it's the scholar's compass and the student's protection!**
+
+---
+
+## 📚 Summary
+
+| Concept | Explanation |
+|---------|-------------|
+| 🎯 Definition | Science of rules for deriving legal rulings |
+| 📖 First book | Ar-Risala by Imam Ash-Shafi'i |
+| 🔧 Utility | Understanding disagreements, deriving rulings |
+| 📊 Topics | Evidences, indications of terms, legal rulings |
+| ⚖️ vs Fiqh | Usul = tools, Fiqh = results |
 `;

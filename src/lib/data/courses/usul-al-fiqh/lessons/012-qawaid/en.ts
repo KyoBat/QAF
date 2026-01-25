@@ -1,261 +1,404 @@
-export const contentEn = `
-# Legal Maxims (Al-Qawa'id Al-Fiqhiyyah)
+/**
+ * Usul al-Fiqh - Lesson 012: Al-Qawa'id Al-Fiqhiyyah
+ * English content - Immersive version
+ */
 
-## Introduction
+export const contentEn = `# 📜 Al-Qawa'id Al-Fiqhiyyah — The Five Major Legal Maxims
 
-Legal maxims are among the most important sciences that help the jurist master and understand fiqh. They gather numerous branches under unifying principles, thereby facilitating memorization, understanding, and derivation.
-
-## Definition of Legal Maxims
-
-**Linguistically:** Al-qa'ida means the base or foundation. Its plural is qawa'id.
-
-**Technically:** A universal ruling that applies to its particulars to know their status.
-
-Or: General legal principles in concise formulations containing general legislative rules concerning cases that fall under their subject.
-
-## Difference Between Legal Maxim and Usul Rule
-
-| Legal Maxim | Usul Rule |
-|-------------|-----------|
-| Concerns subsidiary rulings | Concerns methods of deduction |
-| Subject: acts of responsible persons | Subject: legal proofs |
-| Derived from branches | Derived from language and Law |
-| Ex: Harm must be eliminated | Ex: Command implies obligation |
-
-## Importance of Legal Maxims
-
-1. **Mastering fiqh:** and gathering its elements
-2. **Facilitating memorization:** instead of memorizing thousands of issues
-3. **Aiding ijtihad:** in new situations
-4. **Understanding objectives of the Law:** through universal rules
-5. **Unifying methodology:** in derivation and fatwa
-
-## The Five Major Legal Maxims
-
-Scholars agree on five major maxims to which most of fiqh is traced:
-
-### First Maxim: Matters Are According to Their Intentions
-
-**Formulation:** "Matters are according to their intentions" or "Actions are only by intentions"
-
-**Meaning:** Legal rulings depend on intention and purpose.
-
-**Evidence:** The hadith "Actions are only by intentions and everyone gets only what they intended"
-
-**Applications:**
-- One who prays intending a voluntary prayer, it does not count as obligatory
-- Lost property: if he intends to keep it as trust, and if he intends to appropriate it, he is liable
-- One who takes another's property thinking it is his own must return it when he knows
-- Metaphorical expressions require intention
-
-**Derived maxims:**
-- Intention is a condition for validity of worship
-- No reward without intention
-- What counts in contracts are intentions, not formulations
-
-### Second Maxim: Certainty Is Not Removed by Doubt
-
-**Formulation:** "Certainty is not removed by doubt"
-
-**Meaning:** What is established by certainty is not annulled except by equivalent certainty.
-
-**Evidence:** The hadith "If one of you doubts in his prayer and does not know whether he prayed three or four rak'at, let him discard the doubt and build on what he is certain of"
-
-**Applications:**
-- One who is certain of his purity and doubts its invalidation is pure
-- One who doubts the number of divorces builds on the minimum
-- The principle is innocence until proven otherwise
-- The principle is permanence of the prior state
-
-**Derived maxims:**
-- The principle is permanence of the prior state
-- The principle for things is permissibility
-- The principle is absence of liability
-- What is established by certainty is not removed by doubt
-
-### Third Maxim: Hardship Brings Ease
-
-**Formulation:** "Hardship brings ease"
-
-**Meaning:** When matters become constricted, they expand; the Law came to remove difficulty.
-
-**Evidence:** Allah says: ﴿Allah intends for you ease and does not intend for you hardship﴾
-
-**Applications:**
-- Permission to break fasting in Ramadan for the sick and traveler
-- Permission to shorten and combine prayers during travel
-- Tayammum when water is absent or one is unable to use it
-- Permission to eat carrion for the desperate
-- Praying seated for one who cannot stand
-
-**Derived maxims:**
-- Necessities render prohibitions permissible
-- What is permitted by necessity is limited to its measure
-- Need takes the status of necessity
-- When matters become constricted, they expand
-
-### Fourth Maxim: Harm Must Be Eliminated
-
-**Formulation:** "Harm must be eliminated" or "No harm and no reciprocal harm"
-
-**Meaning:** Obligation to eliminate harm and prevent harming others.
-
-**Evidence:** The hadith "No harm and no reciprocal harm"
-
-**Applications:**
-- Prohibition of fraud in sales
-- Interdiction from managing for the foolish to protect their property
-- Obligation of guarantee for the transgressor
-- Prohibition of causing what harms the neighbor
-- Rescission of contracts for defect
-
-**Derived maxims:**
-- Harm is not eliminated by equivalent harm
-- Greater harm is eliminated by lesser harm
-- Private harm is tolerated to repel public harm
-- Repelling harms is prioritized over attracting benefits
-
-### Fifth Maxim: Custom Is Authoritative
-
-**Formulation:** "Custom is authoritative"
-
-**Meaning:** Usage and custom are considered in legal rulings.
-
-**Evidence:** Allah says: ﴿Take what is acceptable and enjoin what is good﴾
-
-**Conditions for considering custom:**
-1. That it be constant or predominant
-2. That it exist at the time of discourse
-3. That it not contradict a legal text
-4. That it not contradict an explicit condition
-
-**Applications:**
-- Determining the wife's maintenance according to custom
-- What is considered reception in sales
-- Determining defects of goods
-- What is considered defect in marriage
-
-**Derived maxims:**
-- What is known by custom is like what is stipulated
-- Designation by custom equals designation by text
-- Literal meaning is abandoned by indication of custom
-
-## Other Important Legal Maxims
-
-### Maxims on purification and worship:
-- Water is purifying and nothing makes it impure except what dominates its color, taste, or smell
-- That without which the obligatory cannot be fulfilled is obligatory
-
-### Maxims on transactions:
-- The principle in contracts is permissibility
-- Profit goes with risk
-- Revenue goes with guarantee
-- Proof is upon the claimant and oath upon the denier
-
-### Maxims on crimes:
-- A Muslim is not killed for a disbeliever (according to the majority)
-- The crime does not exceed the criminal
-- Whoever dies because of his own act, his blood is void
-
-## Application of Maxims to Contemporary Issues
-
-Legal maxims are an important tool in contemporary ijtihad:
-- Hardship brings ease: applies to travel dispensations by airplane
-- Harm must be eliminated: in environmental and consumer protection laws
-- Custom is authoritative: in electronic commerce contracts
+> **Imam Al-Qarafi** — may Allah have mercy on him — said:
+>
+> **"Whoever masters the legal maxims is dispensed from memorizing most specific rulings."**
 
 ---
 
-## 📖 Stories from the Salaf
+## 🎬 Introduction
 
-**The Maxim "Certainty Is Not Removed by Doubt" — How the Companions Applied It**
+### 🎭 Scene: Omar and the Justice of Principles
 
-A man came to the Prophet ﷺ complaining that he imagined something during prayer (meaning he doubted: did he invalidate his ablution or not?).
+> **Medina, during the caliphate of Omar...**
+>
+> A man came disputing with another over a damaged item.
+>
+> The first said: *"He damaged my property, he must compensate!"*
+>
+> The second said: *"I didn't intend to damage it! It was an accident!"*
+>
+> **Omar** — may Allah be pleased with him — ruled:
+>
+> **"The guarantor compensates even without intention. Unintentional harm is like intentional in liability."**
+>
+> Then he added:
+>
+> **"This is a principle: 'There should be no harm and no reciprocating harm.'"**
 
-The Messenger of Allah ﷺ said: **"Let him not leave until he hears a sound or perceives a smell."**
+> 🎯 **This is one of the five major legal maxims!**
 
-This hadith established a great maxim: certainty is not abandoned for doubt.
+---
 
-Ibn Abbas (may Allah be pleased with him) used to say: "If you doubt, build on certainty."
+### 🎭 Scene: The Scholar and the Traveler
 
-It is reported that a man came to Ali ibn Abi Talib (may Allah be pleased with him) and said: "I feel something in my stomach, and I don't know if I broke my ablution or not."
+> A traveler came to **Imam Al-'Izz ibn Abd al-Salam** — may Allah have mercy on him — and said:
+>
+> *"I'm confused! Every land I enter has different rulings! Are there general principles to guide me?"*
+>
+> Al-'Izz said:
+>
+> **"Yes! Fiqh in its entirety returns to a few major maxims. Master them, and you'll understand the differences."**
 
-Ali said: "The devil comes to one of you in prayer and blows in his seat. Let him not leave until he hears a sound or perceives a smell."
+> 💡 **Legal maxims are the keys to understanding fiqh!**
 
-**The Lesson**: Legal maxims are derived from the texts of revelation and from the understanding of the Companions. They facilitate practical life for the Muslim.
+---
+
+## 📖 Definition of Legal Maxims
+
+### The Definition
+
+> **Al-Qa'ida Al-Fiqhiyyah**: A comprehensive principle that applies to many subsidiary cases.
+
+### The Difference
+
+| Legal Maxims | Usul Rules |
+|--------------|------------|
+| 📚 Relate to fiqhi rulings | 🔧 Relate to deriving rulings |
+| Fruit of fiqh | Tools of fiqh |
+| What the jurist uses | What the mujtahid uses |
+
+---
+
+## 🌟 The Five Major Maxims
+
+### The Major Principles
+
+| Number | The Maxim |
+|--------|-----------|
+| 1️⃣ | **Matters are judged by their purposes** |
+| 2️⃣ | **Certainty is not removed by doubt** |
+| 3️⃣ | **Hardship brings ease** |
+| 4️⃣ | **Harm must be eliminated** |
+| 5️⃣ | **Custom is legally authoritative** |
+
+---
+
+## 1️⃣ Matters Are Judged by Their Purposes
+
+### The Text
+
+> **"Matters are judged by their purposes"** (Al-Umuru bi-Maqasidiha)
+
+### The Evidence
+
+> The Prophet ﷺ said:
+>
+> **"Actions are but by intentions, and every person will have what they intended."**
+>
+> — **[Al-Bukhari and Muslim]**
+
+### Applications
+
+| Case | Application |
+|------|-------------|
+| 🕌 Ablution | If done for cooling, not worship, wudu is not achieved |
+| 💰 Sale | Gift with expectation of return = sale |
+| 💍 Marriage | If for making her lawful to another = forbidden |
+| 🍖 Hunting | If caught for training, not food = not lawful |
+
+### Related Maxims
+
+| Maxim | Meaning |
+|-------|---------|
+| 📜 No reward without intention | Worship requires intention |
+| 🎯 Intention changes rulings | Same act differs by intention |
+
+---
+
+## 2️⃣ Certainty Is Not Removed by Doubt
+
+### The Text
+
+> **"Certainty is not removed by doubt"** (Al-Yaqin la yazulu bi-l-shakk)
+
+### The Evidence
+
+> The Prophet ﷺ said:
+>
+> **"If one of you feels something in his stomach and is not sure if something came out or not, let him not leave the mosque until he hears a sound or smells an odor."**
+>
+> — **[Muslim]**
+
+### Applications
+
+| Case | Application |
+|------|-------------|
+| 💧 Wudu | If certain of wudu but doubts breaking it = wudu remains |
+| 🧹 Purity | If certain of purity but doubts impurity = purity remains |
+| 💰 Debt | If certain of debt but doubts repayment = debt remains |
+| 📿 Prayer | If doubts number of rak'ahs = builds on certain (less) |
+
+### Related Maxims
+
+| Maxim | Meaning |
+|-------|---------|
+| 🔒 The origin is innocence | Innocence until proven |
+| 📜 The origin is permissibility | In things, unless text prohibits |
+| 🔄 What was established continues | State continues until changed |
+
+---
+
+## 3️⃣ Hardship Brings Ease
+
+### The Text
+
+> **"Hardship brings ease"** (Al-Mashaqqa tajlib al-taysir)
+
+### The Evidence
+
+> Allah says:
+>
+> **﴿ Allah intends for you ease and does not intend for you hardship ﴾**
+>
+> — **[Al-Baqarah: 185]**
+
+### Applications
+
+| Case | Application |
+|------|-------------|
+| 🚗 Travel | Shortening prayer, breaking fast |
+| 🤒 Illness | Praying sitting, tayammum |
+| 🌧️ Rain | Combining prayers |
+| 🍖 Necessity | Eating forbidden food if starving |
+
+### Types of Hardship
+
+| Type | Ruling |
+|------|--------|
+| 💀 Threat to life | Permits the forbidden |
+| 🏥 Severe illness | Permits concessions |
+| 🚗 Travel | Shortening, combining |
+| 🌍 General need | May permit what is originally prohibited |
+
+### Related Maxims
+
+| Maxim | Meaning |
+|-------|---------|
+| 🚪 Necessity permits the prohibited | But only as much as needed |
+| ⚖️ Harm for benefit | Lesser harm for greater benefit |
+| 🔄 Necessity is estimated as needed | Not exceeded |
+
+---
+
+## 4️⃣ Harm Must Be Eliminated
+
+### The Text
+
+> **"Harm must be eliminated"** (Al-Darar yuzal)
+
+### The Evidence
+
+> The Prophet ﷺ said:
+>
+> **"There should be no harm and no reciprocating harm."**
+>
+> — **[Ibn Majah and Ahmad]**
+
+### Applications
+
+| Case | Application |
+|------|-------------|
+| 🏠 Neighbor rights | Cannot build what harms neighbor |
+| 💰 Compensation | Guarantor pays for damage |
+| 🚫 Hisba | Preventing public harm |
+| ⚖️ Divorce | For harm in marriage |
+
+### Related Maxims
+
+| Maxim | Meaning |
+|-------|---------|
+| 🔴 Harm is not removed by harm | Cannot wrong one to help another |
+| ⚖️ Greater harm removed by lesser | Choosing the lesser evil |
+| 🚫 Repelling corruption before benefit | Prevention prioritized |
+| 👤 Private harm for public good | May bear private for public |
+
+---
+
+## 5️⃣ Custom Is Legally Authoritative
+
+### The Text
+
+> **"Custom is legally authoritative"** (Al-'Adatu Muhakkamah)
+
+### The Evidence
+
+> **﴿ Take what is given freely ﴾**
+>
+> — **[Al-A'raf: 199]**
+
+> 💡 **"Ma'ruf" = what is known by custom!**
+
+### Applications
+
+| Case | Application |
+|------|-------------|
+| 💰 Mahr | Determined by custom if not specified |
+| 🏠 Housing | Standard of living by custom |
+| 🤝 Trade | Business customs are followed |
+| 🗣️ Language | Meaning by customary usage |
+
+### Conditions for Valid Custom
+
+| Condition | Explanation |
+|-----------|-------------|
+| 📜 No text against | Doesn't contradict Sharia |
+| 🔄 Predominant | Practiced by majority |
+| ⏰ Pre-existing | Before the dispute |
 
 ---
 
 ## 🎯 Contemporary Cases
 
-### Case One: The Maxim "Matters Are According to Their Intentions" in E-Commerce
+### 💰 Case 1: Digital Contracts
 
-**Question:** A person bought a product online intending to return it after using it. Is he sinful?
+> **Situation**: A contract is agreed upon via email.
 
-**Answer:** Yes, he is sinful, because his intention at the time of purchase was corrupt. The maxim "Matters are according to their intentions" indicates that one who intends deception and fraud has a void act even if the outward appearance is permissible. This is from the prohibited deception.
+**❓ Which maxim applies?**
 
----
+<details>
+<summary>📜 Click for answer</summary>
 
-### Case Two: The Maxim "Hardship Brings Ease" at Work
+**"Custom is legally authoritative":**
 
-**Question:** An employee works 12 hours and cannot perform Zuhr and Asr prayers on time. May he combine them?
+| Analysis | Application |
+|----------|-------------|
+| 🌍 Email is now customary | For business transactions |
+| 📜 Considered written | In modern commerce |
+| ⚖️ Ruling | Valid contract by custom |
 
-**Answer:** Combining prayers merely due to work is not permissible according to the majority of scholars, as regular work is not considered an excuse for combining. However, he should:
-- Organize his time to pray even briefly
-- Negotiate with his employer for a prayer break
-- If this is completely impossible and occurs rarely, some scholars have allowed combining for need
+> 💡 **Modern customs are considered!**
 
-As for working in a non-Muslim country with no alternative, some jurists show flexibility in the matter.
-
----
-
-### Case Three: The Maxim "Harm Must Be Eliminated" in Neighborhood Disputes
-
-**Question:** My neighbor raises chickens in his apartment, and the smell bothers us. What is the ruling?
-
-**Answer:** By the maxim "No harm and no reciprocal harm," you have the right to demand that he remove the source of harm. If he refuses:
-1. A complaint is filed with the relevant authorities
-2. The judge may compel him to remove the harm
-3. The neighbor is legally and religiously obligated not to harm his neighbors
-
-Ibn Qudama said: "He may not do in his property what harms his neighbor."
+</details>
 
 ---
 
-### Case Four: The Maxim "Custom Is Authoritative" in Dowries
+### 🏥 Case 2: Medical Necessity
 
-**Question:** A man married without specifying the dowry, then they disagreed. How is this resolved?
+> **Situation**: A patient needs a heart valve made from pig tissue.
 
-**Answer:** Reference is made to the prevailing custom in their country and social class, which is called "the equivalent dowry" (mahr al-mithl). The following are considered:
-- The dowries of her sisters and relatives
-- The prevailing custom in that environment
-- The social and educational level of the wife
+**❓ Which maxim applies?**
 
-This is a practical application of the maxim "Custom is authoritative."
+<details>
+<summary>📜 Click for answer</summary>
+
+**"Hardship brings ease" + "Necessity permits the prohibited":**
+
+| Analysis | Application |
+|----------|-------------|
+| 💀 Life-threatening | Necessity present |
+| 🔄 Transformed material | Not eating pork |
+| ⚖️ Ruling | Permitted by necessity |
+
+> 💡 **Necessity allows medical use!**
+
+</details>
 
 ---
 
-### Case Five: The Maxim "Certainty Is Not Removed by Doubt" in Purification
+### 📱 Case 3: Doubt About Prayer Count
 
-**Question:** I performed ablution, then an hour later I doubted: did I break my ablution or not?
+> **Situation**: I prayed but can't remember if it was 3 or 4 rak'ahs.
 
-**Answer:** You are in a state of purity because you are certain of your ablution and doubtful about invalidation, and certainty is not removed by doubt. Build on the foundation, which is the permanence of purity.
+**❓ Which maxim applies?**
 
-But if the reverse is true (certain of invalidation, doubtful of ablution), then you are in a state of impurity and must perform ablution.
+<details>
+<summary>📜 Click for answer</summary>
+
+**"Certainty is not removed by doubt":**
+
+| Analysis | Application |
+|----------|-------------|
+| 🔒 Certain of 3 | The minimum |
+| ❓ Doubt about 4th | Not certain |
+| ⚖️ Ruling | Build on 3 and add one |
+
+> 💡 **Build on certainty (the less) and complete!**
+
+</details>
 
 ---
 
-## 💡 Pause and Reflect
+### 🏠 Case 4: Building Heights
 
-> **Question for Reflection:**
+> **Situation**: A neighbor builds a tall wall blocking sunlight.
+
+**❓ Which maxim applies?**
+
+<details>
+<summary>📜 Click for answer</summary>
+
+**"Harm must be eliminated":**
+
+| Analysis | Application |
+|----------|-------------|
+| 🚫 Causes harm | Blocking necessary light |
+| ⚖️ His right vs. your harm | Harm takes precedence |
+| 📜 Ruling | May be required to lower |
+
+> 💡 **Neighbor's rights are protected from harm!**
+
+</details>
+
+---
+
+### 🎯 Case 5: Intention in Charitable Giving
+
+> **Situation**: Someone gives charity for showing off.
+
+**❓ Which maxim applies?**
+
+<details>
+<summary>📜 Click for answer</summary>
+
+**"Matters are judged by their purposes":**
+
+| Analysis | Application |
+|----------|-------------|
+| 🎯 Intention is riya' | Not for Allah |
+| ⚖️ External = charity | Internal = showing off |
+| 📜 Ruling | No reward, may be sin |
+
+> 💡 **Intention determines the reward!**
+
+</details>
+
+---
+
+## 📊 Summary Table of Maxims
+
+| Maxim | Core Meaning | Key Application |
+|-------|--------------|-----------------|
+| 1️⃣ Matters by purposes | Intention matters | Worship, contracts |
+| 2️⃣ Certainty not by doubt | Stay with what's known | Purity, obligations |
+| 3️⃣ Hardship brings ease | Concessions allowed | Travel, illness |
+| 4️⃣ Harm eliminated | Prevent harm | Rights, compensation |
+| 5️⃣ Custom authoritative | Custom is evidence | Trade, language |
+
+---
+
+## 💭 Reflection
+
+> **Imam Ibn Nujaym** — may Allah have mercy on him — said:
 >
-> Imam Al-Qarafi said: "Rigidly adhering to transmitted texts forever is misguidance in religion and ignorance of the objectives of Muslim scholars and the righteous predecessors."
->
-> How do you understand this statement in light of legal maxims? How can knowledge of the major legal maxims help you deal with daily situations for which you find no explicit text?
+> **"Fiqh has become easy after it was compiled in these maxims. Whoever memorizes them and understands them, all the doors of fiqh open to him."**
+
+> 🎯 **The legal maxims are the keys to fiqh — memorize them to understand the religion!**
 
 ---
 
-## Conclusion
+## 📚 Summary
 
-Legal maxims are an immense scholarly treasure that gathers numerous branches under concise principles. Their knowledge is necessary for every student, mufti, and judge, as they help master fiqh, understand the objectives of the Law, and derive rulings for new situations.
+| Concept | Explanation |
+|---------|-------------|
+| 🎯 Definition | Comprehensive principles covering many cases |
+| 📊 Five major | Intention, certainty, hardship, harm, custom |
+| 🔗 Benefit | Organizes fiqh understanding |
+| 📚 Source | Derived from texts and fiqhi induction |
+| ⚖️ Usage | Apply to new cases for rulings |
 `;

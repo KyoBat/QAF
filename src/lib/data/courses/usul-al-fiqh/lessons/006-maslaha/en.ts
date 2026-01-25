@@ -1,236 +1,340 @@
-export const contentEn = `
-# Al-Maslaha al-Mursala (Public Interest)
+/**
+ * Usul al-Fiqh - Lesson 006: Maslaha Mursala
+ * English content - Immersive version
+ */
 
-## Definition of Maslaha Mursala
+export const contentEn = `# 🌟 Al-Maslaha Al-Mursala — The Unspecified Public Interest
 
-**Maslaha Mursala** (المصلحة المرسلة) is an interest for which the Lawgiver has neither testified to its consideration nor its cancellation by a specific text, but which accords with the general objectives of the Sharia.
-
-### Linguistic Definition
-
-- **Maslaha**: opposite of mafsada (corruption), meaning bringing benefit or repelling harm
-- **Mursala**: unrestricted, free, meaning it is not bound by a specific evidence
-
-### Technical Definition
-
-> Maslaha Mursala is: the benefit for which the Lawgiver has not legislated a ruling to achieve, and no legal evidence indicates its consideration or cancellation.
-
-## Categories of Interests
-
-Interests are divided into three categories according to the Lawgiver's consideration:
-
-### 1. Recognized Interest (Al-Mu'tabara)
-
-That which the Sharia has testified to its consideration by legislating a ruling to achieve it.
-
-**Examples**:
-- Preservation of life: thus retribution was legislated
-- Preservation of wealth: thus theft was prohibited
-- Preservation of intellect: thus wine was prohibited
-
-### 2. Cancelled Interest (Al-Mulgha)
-
-That which the Sharia has cancelled because it contradicts a text or consensus.
-
-**Examples**:
-- Equal inheritance between male and female (cancelled by text)
-- Dropping the penalty from a rich thief (cancelled)
-
-### 3. Unrestricted Interest (Al-Mursala)
-
-That which the Lawgiver was silent about, neither recognizing nor cancelling it specifically.
-
-**Examples**:
-- Compiling the Quran into one book
-- Establishing administrative registers
-- Codifying hadith
-
-## Conditions for Acting on Maslaha Mursala
-
-### First Condition: Conformity with Sharia Objectives
-
-The interest must be compatible with the general objectives of Islamic Sharia.
-
-### Second Condition: Being Rational
-
-The interest must be comprehensible and approved by sound reason.
-
-### Third Condition: Being Real Not Illusory
-
-The interest must be genuine, achieving benefit or repelling harm.
-
-### Fourth Condition: Being General Not Particular
-
-The interest must benefit all Muslims or most of them, not an individual or group.
-
-### Fifth Condition: Not Contradicting Text or Consensus
-
-The interest must not contradict an established legal proof.
-
-## The Five Objectives of Sharia
-
-Maslaha Mursala revolves around preserving the five necessities:
-
-| Objective | What It Preserves | Examples of Maslaha Mursala |
-|-----------|-------------------|----------------------------|
-| Preservation of Religion | Belief and worship | Establishing Islamic schools |
-| Preservation of Life | Life and health | Traffic regulations, vaccinations |
-| Preservation of Intellect | Knowledge and thought | Mandatory education |
-| Preservation of Lineage | Family and offspring | Regulating marriage contracts |
-| Preservation of Wealth | Riches and property | Documentation and registry systems |
-
-## Levels of Interests
-
-### 1. Necessities (Al-Daruriyyat)
-
-That without which religious and worldly interests cannot stand.
-
-### 2. Needs (Al-Hajiyyat)
-
-That which is needed for ease and removal of hardship, like dispensations in worship.
-
-### 3. Refinements (Al-Tahsiniyyat)
-
-That which aims at adopting good customs and noble character.
-
-## Scholarly Positions on Maslaha Mursala
-
-### Those Who Accept Its Authority
-
-1. **Malikis**: The school that most extensively adopts it
-2. **Hanbalis**: Accept it in many situations
-3. **Some Shafi'is and Hanafis**: Within a narrow scope
-
-### Their Arguments
-
-1. People's interests are renewable and endless, while texts are finite
-2. The Companions acted upon it: compiling the Quran, establishing registers
-3. The Sharia came to bring benefits and repel harms
-
-### Opponents
-
-Some scholars were cautious about accepting it, fearing uncontrolled expansion.
-
-## Contemporary Practical Examples
-
-### In the Field of Transactions
-
-| Issue | Realized Interest |
-|-------|-------------------|
-| Official contract documentation | Preserving rights and preventing disputes |
-| Mandatory car insurance | Protecting victims |
-| Financial market regulations | Preventing fraud and monopoly |
-
-### In the Field of Governance
-
-| Issue | Realized Interest |
-|-------|-------------------|
-| Establishing ministries and institutions | Organizing state affairs |
-| Issuing passports | Regulating travel and border protection |
-| Traffic laws | Preserving lives and property |
-
-### In the Field of Education
-
-| Issue | Realized Interest |
-|-------|-------------------|
-| Mandatory basic education | Eliminating ignorance and spreading knowledge |
-| Degree accreditation | Controlling academic standards |
-| Founding universities | Training competencies |
-
-## Guidelines for Applying Maslaha Mursala
-
-### First Guideline: Verification of Interest
-
-The interest must be realized, not supposed or imaginary.
-
-### Second Guideline: Balancing Interests and Harms
-
-If interests conflict with harms, the predominant is examined.
-
-**Principle**: Repelling harms takes precedence over bringing benefits.
-
-### Third Guideline: Avoiding Uncontrolled Expansion
-
-Istislah should not be used as a pretext to change established Sharia rulings.
-
-### Fourth Guideline: Qualification of the Mujtahid
-
-The one deriving the interest must be qualified for ijtihad and know the objectives of Sharia.
+> **﴿ And We have not sent you, [O Muhammad], except as a mercy to the worlds ﴾**
+>
+> — **[Al-Anbiya: 107]**
 
 ---
 
-## 📖 Stories from the Salaf: Umar ibn al-Khattab and the Compilation of the Quran
+## 🎬 Introduction
 
-When many reciters were martyred in the Battle of Yamama, Umar ibn al-Khattab (may Allah be pleased with him) came to Abu Bakr al-Siddiq (may Allah be pleased with him) saying:
+### 🎭 Scene: The Compilation of the Quran
 
-> "The killing has been severe at Yamama among the reciters of the Quran, and I fear that severe killing may befall the reciters in other places, and much of the Quran may be lost. I think you should order the collection of the Quran."
+> **Medina, 12 AH, during the caliphate of Abu Bakr...**
+>
+> **Omar** — may Allah be pleased with him — came to Abu Bakr with concern:
+>
+> *"O Abu Bakr, many Quran reciters were martyred at Yamama. I fear if deaths continue, much of the Quran will be lost!"*
+>
+> Abu Bakr was surprised:
+>
+> *"How can I do something the Messenger of Allah ﷺ did not do?"*
+>
+> Omar persisted until Allah opened his heart.
+>
+> Abu Bakr said:
+>
+> **"By Allah, this is a good thing."**
+>
+> He summoned **Zayd ibn Thabit** and ordered him to compile the Quran...
 
-Abu Bakr hesitated at first, saying: **"How can we do something the Messenger of Allah ﷺ did not do?"**
+> 🎯 **This is Maslaha Mursala — acting for the general benefit even without a specific text!**
 
-But Umar kept persuading him until Allah expanded his chest for it, and Abu Bakr said: **"By Allah, it is good."**
+---
 
-They then assigned Zayd ibn Thabit (may Allah be pleased with him) this great task.
+### 🎭 Scene: Omar and the Registers
 
-**The Lesson**: Compiling the Quran into one mushaf was not textually prescribed, but the Companions recognized the great interest in preserving the Book of Allah, so they acted upon it. This is one of the greatest examples of maslaha mursala in Islamic history.
+> **Omar ibn al-Khattab** — may Allah be pleased with him — established the Diwan (registry) for distributing wealth.
+>
+> One of the Companions said:
+>
+> *"The Messenger of Allah ﷺ didn't do this!"*
+>
+> Omar replied:
+>
+> **"It is a good thing! The Prophet ﷺ didn't do it because there wasn't much wealth. Today, the wealth of Persia and Rome is in our hands!"**
+
+> 💡 **Maslaha changes with time and circumstances!**
+
+---
+
+## 📖 Definition of Maslaha
+
+### Linguistic Meaning
+
+> **Maslaha**: That which brings benefit or repels harm.
+
+### Technical Definition
+
+> **Al-Maslaha Al-Mursala**: A benefit that Sharia has neither specifically validated nor invalidated, but it aligns with the objectives of Sharia.
+
+### Elements of the Definition
+
+| Element | Explanation |
+|---------|-------------|
+| 🎯 Benefit | Contains real benefit |
+| 📜 Not specifically mentioned | No specific text for or against |
+| 🔗 Aligns with Sharia's objectives | Fits the general principles |
+
+---
+
+## 📊 Types of Maslaha
+
+### By Sharia's Consideration
+
+| Type | Definition | Ruling |
+|------|------------|--------|
+| ✅ Validated (Mu'tabara) | Sharia validates it | Binding to follow |
+| ❌ Nullified (Mulgha) | Sharia rejects it | Prohibited to follow |
+| 🔄 Unspecified (Mursala) | Sharia is silent about it | Subject to ijtihad |
+
+### Example of Nullified Maslaha
+
+> A king wanted to fast two continuous months as expiation instead of freeing a slave.
+>
+> **The scholars rejected this**: Because he can afford to free a slave, so fasting is not his option!
+
+> ⚠️ **Not every benefit is considered — it must align with Sharia's objectives!**
+
+---
+
+## 🔒 The Five Necessities (Dharuriyyat)
+
+### What Sharia Came to Protect
+
+| Necessity | Explanation | Example |
+|-----------|-------------|---------|
+| 🕋 Religion | Protecting the faith | Punishment for apostasy |
+| ❤️ Life | Protecting human life | Prohibition of killing |
+| 🧠 Intellect | Protecting the mind | Prohibition of intoxicants |
+| 👨‍👩‍👧 Lineage | Protecting offspring | Prohibition of zina |
+| 💰 Property | Protecting wealth | Prohibition of theft |
+
+> 🎯 **Any maslaha must align with protecting these five!**
+
+---
+
+## ⚖️ Conditions for Using Maslaha Mursala
+
+### According to Imam Malik
+
+| Condition | Explanation |
+|-----------|-------------|
+| 🔗 Aligns with Sharia | Doesn't contradict a text |
+| 🔒 Is real | Not imaginary or speculative |
+| 🌍 Is general | Benefits the public, not private |
+| 📜 No specific text | No specific ruling exists |
+
+### According to Al-Ghazali
+
+| Condition | Explanation |
+|-----------|-------------|
+| 🔒 At level of necessity | Or urgent need |
+| 🌍 Definitive | Certain benefit |
+| 🤝 General | For the Muslim community |
+
+---
+
+## 🎭 Story: The Mu'allafa and the Changed Situation
+
+> **During the Prophet's ﷺ time...**
+>
+> A portion of zakat was given to the **Mu'allafat Qulubuhum** — those whose hearts were to be reconciled to Islam.
+>
+> **After the Prophet's ﷺ death, during Abu Bakr's caliphate...**
+>
+> Some of them came asking for their share.
+>
+> **Omar** suggested to Abu Bakr:
+>
+> *"Islam has become strong, we no longer need to win their hearts with money!"*
+>
+> They agreed not to give them from this category.
+
+> ⚠️ **Important Note**: This story is famous in the books of Usul scholars, but its chain is not definitively authenticated. However, its meaning indicates that rulers consider maslaha based on circumstances.
+
+> 💡 **Maslaha changes based on the situation!**
+
+---
+
+## 📜 Examples of Maslaha Mursala
+
+### In Governance
+
+| Action | Maslaha |
+|--------|---------|
+| 📝 Registries | Organizing distribution |
+| 🏛️ Prisons | Protecting society |
+| 💰 Customs taxes | When needed |
+| 📜 Documentation | Preserving rights |
+
+### In Society
+
+| Action | Maslaha |
+|--------|---------|
+| 🏥 Hospitals | Protecting health |
+| 🏫 Schools | Spreading knowledge |
+| 🛣️ Roads | Facilitating life |
+| 📡 Media | Spreading da'wah |
+
+### In Economy
+
+| Action | Maslaha |
+|--------|---------|
+| 💵 Currency minting | Facilitating exchange |
+| 📊 Market regulation | Preventing exploitation |
+| 🏦 Central banking | Monetary stability |
 
 ---
 
 ## 🎯 Contemporary Cases
 
-### Case 1: Mandatory Vaccinations
+### 📱 Case 1: Traffic Regulations
 
-**Question**: Is it permissible for the state to require citizens to be vaccinated against epidemics?
+> **Situation**: Driving license, speed limits, traffic lights.
 
-**Answer**: Yes, this is permissible based on maslaha mursala in preserving life and public health. Vaccination achieves a general interest (protecting society from epidemics) and does not contradict a Sharia text; rather, it accords with the principle "no harm and no reciprocal harm."
+**❓ What is the basis for their obligation?**
 
----
+<details>
+<summary>📜 Click for answer</summary>
 
-### Case 2: Mandatory Contract Documentation
+**By Maslaha Mursala:**
 
-**Question**: Recently, documenting marriage contracts in courts has become mandatory. Is this legitimate even though it is not mentioned in the texts?
+| Analysis | Application |
+|----------|-------------|
+| 🔒 Protecting life | From accidents |
+| 🌍 General benefit | For all society |
+| 📜 No specific text | No verse about driving |
 
-**Answer**: Yes, this obligation is legitimate based on maslaha mursala. It preserves the rights of spouses and children, prevents denial and manipulation, and facilitates proving lineage and inheritance. This achieves the Sharia's objective of preserving lineage and wealth.
+> 💡 **Traffic laws are obligatory based on maslaha!**
 
----
-
-### Case 3: Driving Licenses
-
-**Question**: Cars did not exist during the time of legislation, so what is the ruling on requiring a license to drive?
-
-**Answer**: This requirement is legitimate based on maslaha mursala in preserving lives and property. A car without a skilled driver could be a means of killing and destruction, and ensuring driver competence achieves the Sharia's objective of preserving lives.
-
----
-
-### Case 4: Building and Urban Planning Regulations
-
-**Question**: Is it permissible for the state to require citizens to follow certain specifications in construction?
-
-**Answer**: Yes, this is permissible to preserve lives from building collapse, protect neighbors' rights, and organize public facilities. This is from maslaha mursala that achieves the preservation of life and property.
+</details>
 
 ---
 
-### Case 5: Personal Data Protection
+### 🏥 Case 2: Mandatory Vaccination
 
-**Question**: Are personal data protection laws considered maslaha mursala?
+> **Situation**: Can the state mandate vaccination for children?
 
-**Answer**: Yes, these laws preserve human privacy and prevent exploitation of their data, achieving the Sharia's objective of preserving honor and human dignity. Even though no specific text addresses them, they accord with general objectives.
+**❓ What is the ruling?**
+
+<details>
+<summary>📜 Click for answer</summary>
+
+**Analysis:**
+
+| Element | Consideration |
+|---------|---------------|
+| 🔒 Protecting life | Primary objective |
+| 🌍 Preventing epidemics | General benefit |
+| ⚖️ Scholar's verdict | Permissible to mandate when needed |
+
+> 💡 **Mandatory vaccination may be obligatory based on maslaha!**
+
+</details>
 
 ---
 
-## 💡 Pause and Reflect
+### 💻 Case 3: Regulating the Internet
 
-> Reflect on your contemporary society: What systems and laws do you see as built on maslaha mursala? How do these laws achieve the objectives of Sharia in preserving religion, life, intellect, lineage, and wealth?
+> **Situation**: Blocking harmful websites.
+
+**❓ Is this permissible?**
+
+<details>
+<summary>📜 Click for answer</summary>
+
+**Analysis:**
+
+| Element | Consideration |
+|---------|---------------|
+| 🧠 Protecting intellect | From corruption |
+| 👨‍👩‍👧 Protecting lineage | From immorality |
+| ⚖️ Verdict | Permissible for protection |
+
+> 💡 **Blocking pornography is based on maslaha!**
+
+</details>
 
 ---
 
-## Difference Between Maslaha Mursala and Istihsan
+### 📜 Case 4: Documenting Marriage
 
-| Maslaha Mursala | Istihsan |
-|-----------------|----------|
-| Building ruling on general interest | Deviation from Qiyas for stronger evidence |
-| No specific text | May have a text |
-| Independent evidence | Exception to a rule |
+> **Situation**: Requiring civil marriage documentation.
 
-## Conclusion
+**❓ Is this obligatory?**
 
-Maslaha Mursala is an important legal evidence that enables the jurist to perform ijtihad in new issues for which there is no specific text, while observing the guidelines of Sharia and its general objectives.
+<details>
+<summary>📜 Click for answer</summary>
+
+**Analysis:**
+
+| Element | Consideration |
+|---------|---------------|
+| 👨‍👩‍👧 Protecting lineage | Preserving rights |
+| 💰 Protecting property | Inheritance |
+| ⚖️ Verdict | Obligatory based on maslaha |
+
+> 💡 **Documentation protects rights and is obligatory!**
+
+</details>
+
+---
+
+### 🏦 Case 5: Islamic Banking Regulation
+
+> **Situation**: Establishing Sharia supervisory boards.
+
+**❓ What is the basis?**
+
+<details>
+<summary>📜 Click for answer</summary>
+
+**By Maslaha Mursala:**
+
+| Element | Consideration |
+|---------|---------------|
+| 💰 Protecting property | From prohibited transactions |
+| 🕋 Protecting religion | Ensuring compliance |
+| ⚖️ Verdict | Required based on maslaha |
+
+> 💡 **Sharia supervision is an application of maslaha!**
+
+</details>
+
+---
+
+## ⚠️ Cautions in Using Maslaha
+
+### What Must Be Avoided
+
+| Caution | Explanation |
+|---------|-------------|
+| 🚫 Following desires | Not every desired thing is maslaha |
+| 🚫 Contradicting texts | Maslaha doesn't override clear text |
+| 🚫 Private interests | Must be general benefit |
+| 🚫 Speculation | Must be real, not imaginary |
+
+### The Balance
+
+> **Imam Ash-Shatibi** — may Allah have mercy on him — said:
+>
+> **"Maslaha must be within the framework of Sharia's objectives, not outside them."**
+
+---
+
+## 💭 Reflection
+
+> **Imam Ibn al-Qayyim** — may Allah have mercy on him — said:
+>
+> **"Sharia is entirely justice, mercy, benefit, and wisdom. Every issue that deviates from justice to injustice, from mercy to cruelty, from benefit to harm, from wisdom to frivolity, is not from Sharia even if interpreted into it."**
+
+> 🎯 **Maslaha is the spirit of Sharia — but within its framework and conditions!**
+
+---
+
+## 📚 Summary
+
+| Concept | Explanation |
+|---------|-------------|
+| 🎯 Definition | Benefit not specifically mentioned or rejected by Sharia |
+| 📊 Types | Validated, nullified, unspecified |
+| 🔒 Conditions | Aligns with Sharia, real, general |
+| 🕋 Five necessities | Religion, life, intellect, lineage, property |
+| ⚠️ Cautions | Not following desires, not contradicting texts |
 `;
