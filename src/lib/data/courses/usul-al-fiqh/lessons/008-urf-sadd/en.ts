@@ -266,7 +266,7 @@ Umar ibn al-Khattab (may Allah be pleased with him) saw people seeking blessings
 
 **Question**: What is the ruling on a public employee accepting gifts from clients?
 
-**Answer**: The origin of gifts is permissibility, but for a public employee, they may become a means to bribery and favoritism. The Prophet ﷺ said: **"Gifts to officials are embezzlement."** They are therefore prohibited to block the means, even though originally permissible.
+**Answer**: The origin of gifts is permissibility, but for a public employee, they may become a means to bribery and favoritism. In the authentic hadith of Ibn al-Lutbiyya (reported by al-Bukhari and Muslim), the Prophet ﷺ reproached a zakat collector for accepting gifts, saying: **"What is the matter with the worker we send who says: this is for you and this was given to me?"** They are therefore prohibited to block the means, even though originally permissible.
 
 ---
 

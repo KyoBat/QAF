@@ -31,6 +31,8 @@ The Prophet ﷺ said:
 
 > **"My community will not agree upon error"** [Reported by Ibn Majah]
 
+*Note: This hadith has a disputed chain. Some muhaddithin classify it as hasan li-ghayrihi (through its multiple routes), while others consider it da'if. However, its meaning is supported by other hadiths.*
+
 > **"Allah's hand is with the group"** [Reported by at-Tirmidhi]
 
 ### Reason

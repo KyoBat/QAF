@@ -48,7 +48,7 @@ He used to say: **"We left nine-tenths of the lawful out of fear of usury."**
 > Jabir رضي الله عنه said: "The Messenger of Allah ﷺ cursed the consumer of usury, the one who pays it, the one who writes it, and its two witnesses, and he said: They are equal." [Reported by Muslim]
 
 ### Third Hadith: The Severity of Usury
-> The Prophet ﷺ said: "Usury has seventy-three doors, the least of which is like a man marrying his mother." [Reported by Ibn Majah and al-Hakim]
+> The Prophet ﷺ said: "Usury has seventy-three doors, the least of which is like a man marrying his mother." [Reported by Ibn Majah and al-Hakim — graded hasan by some muhaddithin and da'if by others, but its meaning is sound]
 
 ### Fourth Hadith: The Categories of Usury
 > The Prophet ﷺ said: "Gold for gold, silver for silver, wheat for wheat, barley for barley, dates for dates, salt for salt, like for like, hand to hand. Whoever gives more or asks for more has committed usury, the taker and the giver are equal in it." [Reported by Muslim]

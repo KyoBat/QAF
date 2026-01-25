@@ -20,7 +20,7 @@ Ijarah: derived from "ajr" (reward), hence wages are called "ajr".
 ### From the Prophetic Sunna
 > Aisha رضي الله عنها said: "The Messenger of Allah ﷺ and Abu Bakr hired a man from Bani ad-Dil as an expert guide." [Reported by al-Bukhari]
 
-> The Prophet ﷺ said: "Give the worker his wages before his sweat dries." [Reported by Ibn Majah]
+> The Prophet ﷺ said: "Give the worker his wages before his sweat dries." [Reported by Ibn Majah — graded da'if by some muhaddithin, but its meaning is sound and supported by other authentic texts]
 
 ### Consensus
 The community is unanimous on the permissibility of ijarah due to people's need for it.

@@ -289,5 +289,5 @@ These legal restrictions are a mercy, not a burden, for they protect the family 
 
 Sunnah divorce is that which conforms to the Sharia: the man divorces his wife with one divorce during a purity without intercourse. Bid'ah divorce is prohibited and its doer sins, and it takes effect according to the majority of scholars with sin. The Muslim is commanded to follow the Sunnah in all his affairs, including divorce if he is compelled to it.
 
-The Prophet ﷺ said: **"Allah hates every man and woman who frequently taste marriage"** [Reported by At-Tabarani]
+The Prophet ﷺ said: **"Allah hates every man and woman who frequently taste marriage"** [Reported by At-Tabarani — graded weak by some muhaddithin, but its meaning is sound]
 `;
