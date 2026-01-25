@@ -1,16 +1,16 @@
 /**
  * Courses Page Client Component
- * Gère les filtres et l'affichage interactif des cours
+ * Gère les filtres et l'affichage des cours - Version simplifiée
  */
 
 'use client'
 
 import { useState, useMemo } from 'react'
-import { CourseCard, CourseFilters, CourseCardSkeleton } from '@/components/course'
+import { CourseCard } from '@/components/course'
+import { CourseFilters } from '@/components/course/CourseFilters'
 import { EmptyState } from '@/components/ui/empty-state'
 import { useLocale } from '@/components/providers'
 import { cn } from '@/lib/utils'
-import type { CourseFilters as Filters } from '@/lib/schemas'
 import type { CourseListItem } from '@/lib/data/courses/courses-list'
 
 interface CoursesPageClientProps {
@@ -20,35 +20,53 @@ interface CoursesPageClientProps {
 export function CoursesPageClient({ initialCourses }: CoursesPageClientProps) {
   const { locale, t, isRTL } = useLocale()
   
-  // State simple pour les filtres - pas de sync URL
-  const [filters, setFilters] = useState<Filters>({})
+  // États séparés pour chaque filtre - plus simple et direct
+  const [category, setCategory] = useState('')
+  const [level, setLevel] = useState('')
+  const [search, setSearch] = useState('')
 
   // Filtrer les cours
   const filteredCourses = useMemo(() => {
-    let courses = initialCourses
+    return initialCourses.filter(course => {
+      // Filtre catégorie
+      if (category && course.category !== category) {
+        return false
+      }
+      
+      // Filtre niveau
+      if (level && course.level !== level) {
+        return false
+      }
+      
+      // Filtre recherche
+      if (search) {
+        const searchLower = search.toLowerCase()
+        const matchTitle = 
+          course.title.fr.toLowerCase().includes(searchLower) ||
+          course.title.ar.includes(search) ||
+          course.title.en.toLowerCase().includes(searchLower)
+        const matchDesc = 
+          course.description.fr.toLowerCase().includes(searchLower) ||
+          course.description.en.toLowerCase().includes(searchLower)
+        const matchTags = course.tags.some(tag => 
+          tag.toLowerCase().includes(searchLower)
+        )
+        
+        if (!matchTitle && !matchDesc && !matchTags) {
+          return false
+        }
+      }
+      
+      return true
+    })
+  }, [initialCourses, category, level, search])
 
-    if (filters.category) {
-      courses = courses.filter(c => c.category === filters.category)
-    }
-
-    if (filters.level) {
-      courses = courses.filter(c => c.level === filters.level)
-    }
-
-    if (filters.search) {
-      const searchLower = filters.search.toLowerCase()
-      courses = courses.filter(c => 
-        c.title.fr.toLowerCase().includes(searchLower) ||
-        c.title.ar.includes(filters.search!) ||
-        c.title.en.toLowerCase().includes(searchLower) ||
-        c.description.fr.toLowerCase().includes(searchLower) ||
-        c.description.en.toLowerCase().includes(searchLower) ||
-        c.tags.some(tag => tag.toLowerCase().includes(searchLower))
-      )
-    }
-
-    return courses
-  }, [initialCourses, filters])
+  // Reset tous les filtres
+  const handleClear = () => {
+    setCategory('')
+    setLevel('')
+    setSearch('')
+  }
 
   return (
     <div className="py-8 lg:py-12">
@@ -73,8 +91,13 @@ export function CoursesPageClient({ initialCourses }: CoursesPageClientProps) {
 
         {/* Filters */}
         <CourseFilters 
-          filters={filters} 
-          onFiltersChange={setFilters}
+          category={category}
+          level={level}
+          search={search}
+          onCategoryChange={setCategory}
+          onLevelChange={setLevel}
+          onSearchChange={setSearch}
+          onClear={handleClear}
           className="mb-8"
         />
 
@@ -88,8 +111,8 @@ export function CoursesPageClient({ initialCourses }: CoursesPageClientProps) {
         ) : (
           <EmptyState 
             type="no-results" 
-            searchTerm={filters.search}
-            onReset={() => setFilters({})}
+            searchTerm={search}
+            onReset={handleClear}
           />
         )}
       </div>

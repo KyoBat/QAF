@@ -1,7 +1,6 @@
 /**
  * CourseFilters Component
- * Filtres pour la liste des cours
- * Utilise UNIQUEMENT les design tokens
+ * Filtres pour la liste des cours - Version simplifiée avec selects natifs
  */
 
 'use client'
@@ -9,68 +8,50 @@
 import { Search, X } from 'lucide-react'
 import { Input } from '@/components/ui/input'
 import { Button } from '@/components/ui/button'
-import {
-  Select,
-  SelectContent,
-  SelectItem,
-  SelectTrigger,
-  SelectValue,
-} from '@/components/ui/select'
 import { useLocale } from '@/components/providers'
 import { cn } from '@/lib/utils'
-import type { CourseCategory, CourseLevel, CourseFilters as Filters } from '@/lib/schemas'
 
 interface CourseFiltersProps {
-  filters: Filters
-  onFiltersChange: (filters: Filters) => void
+  category: string
+  level: string
+  search: string
+  onCategoryChange: (value: string) => void
+  onLevelChange: (value: string) => void
+  onSearchChange: (value: string) => void
+  onClear: () => void
   className?: string
 }
 
-// Labels pour les catégories
-const categories: { value: CourseCategory | 'all'; labels: Record<string, string> }[] = [
-  { value: 'all', labels: { fr: 'Toutes les catégories', ar: 'جميع التصنيفات', en: 'All Categories' } },
-  { value: 'hadith', labels: { fr: 'Hadith', ar: 'الحديث', en: 'Hadith' } },
-  { value: 'fiqh', labels: { fr: 'Fiqh', ar: 'الفقه', en: 'Fiqh' } },
-  { value: 'aqeedah', labels: { fr: 'Aqeedah', ar: 'العقيدة', en: 'Aqeedah' } },
-  { value: 'seerah', labels: { fr: 'Seerah', ar: 'السيرة', en: 'Seerah' } },
-  { value: 'spirituality', labels: { fr: 'Spiritualité', ar: 'الروحانيات', en: 'Spirituality' } },
-  { value: 'history', labels: { fr: 'Histoire', ar: 'التاريخ', en: 'History' } },
-]
-
-// Labels pour les niveaux
-const levels: { value: CourseLevel | 'all'; labels: Record<string, string> }[] = [
-  { value: 'all', labels: { fr: 'Tous les niveaux', ar: 'جميع المستويات', en: 'All Levels' } },
-  { value: 'beginner', labels: { fr: 'Débutant', ar: 'مبتدئ', en: 'Beginner' } },
-  { value: 'intermediate', labels: { fr: 'Intermédiaire', ar: 'متوسط', en: 'Intermediate' } },
-  { value: 'advanced', labels: { fr: 'Avancé', ar: 'متقدم', en: 'Advanced' } },
-]
-
-export function CourseFilters({ filters, onFiltersChange, className }: CourseFiltersProps) {
+export function CourseFilters({ 
+  category,
+  level,
+  search,
+  onCategoryChange,
+  onLevelChange,
+  onSearchChange,
+  onClear,
+  className 
+}: CourseFiltersProps) {
   const { locale, t, isRTL } = useLocale()
 
-  const handleSearchChange = (value: string) => {
-    onFiltersChange({ ...filters, search: value || undefined })
-  }
+  const categories = [
+    { value: '', label: { fr: 'Toutes les catégories', ar: 'جميع التصنيفات', en: 'All Categories' } },
+    { value: 'hadith', label: { fr: 'Hadith', ar: 'الحديث', en: 'Hadith' } },
+    { value: 'fiqh', label: { fr: 'Fiqh', ar: 'الفقه', en: 'Fiqh' } },
+    { value: 'aqeedah', label: { fr: 'Aqeedah', ar: 'العقيدة', en: 'Aqeedah' } },
+    { value: 'seerah', label: { fr: 'Seerah', ar: 'السيرة', en: 'Seerah' } },
+    { value: 'spirituality', label: { fr: 'Spiritualité', ar: 'الروحانيات', en: 'Spirituality' } },
+    { value: 'history', label: { fr: 'Histoire', ar: 'التاريخ', en: 'History' } },
+  ]
 
-  const handleCategoryChange = (value: string) => {
-    onFiltersChange({ 
-      ...filters, 
-      category: value === 'all' ? undefined : value as CourseCategory 
-    })
-  }
+  const levels = [
+    { value: '', label: { fr: 'Tous les niveaux', ar: 'جميع المستويات', en: 'All Levels' } },
+    { value: 'beginner', label: { fr: 'Débutant', ar: 'مبتدئ', en: 'Beginner' } },
+    { value: 'intermediate', label: { fr: 'Intermédiaire', ar: 'متوسط', en: 'Intermediate' } },
+    { value: 'advanced', label: { fr: 'Avancé', ar: 'متقدم', en: 'Advanced' } },
+  ]
 
-  const handleLevelChange = (value: string) => {
-    onFiltersChange({ 
-      ...filters, 
-      level: value === 'all' ? undefined : value as CourseLevel 
-    })
-  }
-
-  const clearFilters = () => {
-    onFiltersChange({})
-  }
-
-  const hasActiveFilters = filters.search || filters.category || filters.level
+  const hasActiveFilters = search || category || level
 
   return (
     <div className={cn('space-y-4', className)}>
@@ -83,57 +64,49 @@ export function CourseFilters({ filters, onFiltersChange, className }: CourseFil
         <Input
           type="text"
           placeholder={t('nav.search') + '...'}
-          value={filters.search || ''}
-          onChange={(e) => handleSearchChange(e.target.value)}
+          value={search}
+          onChange={(e) => onSearchChange(e.target.value)}
           className={cn(isRTL ? 'pr-10' : 'pl-10')}
         />
       </div>
 
       {/* Filter Selects */}
       <div className={cn(
-        'flex flex-wrap gap-3',
+        'flex flex-wrap gap-3 items-center',
         isRTL && 'flex-row-reverse'
       )}>
-        {/* Category Filter */}
-        <Select 
-          value={filters.category || 'all'} 
-          onValueChange={handleCategoryChange}
+        {/* Category Filter - Native Select */}
+        <select
+          value={category}
+          onChange={(e) => onCategoryChange(e.target.value)}
+          className="h-10 px-3 rounded-md border border-input bg-background text-sm ring-offset-background focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2"
         >
-          <SelectTrigger className="w-full sm:w-[200px]">
-            <SelectValue placeholder={t('courses.categories.all')} />
-          </SelectTrigger>
-          <SelectContent>
-            {categories.map((cat) => (
-              <SelectItem key={cat.value} value={cat.value}>
-                {cat.labels[locale] || cat.labels.fr}
-              </SelectItem>
-            ))}
-          </SelectContent>
-        </Select>
+          {categories.map((cat) => (
+            <option key={cat.value} value={cat.value}>
+              {cat.label[locale as keyof typeof cat.label] || cat.label.fr}
+            </option>
+          ))}
+        </select>
 
-        {/* Level Filter */}
-        <Select 
-          value={filters.level || 'all'} 
-          onValueChange={handleLevelChange}
+        {/* Level Filter - Native Select */}
+        <select
+          value={level}
+          onChange={(e) => onLevelChange(e.target.value)}
+          className="h-10 px-3 rounded-md border border-input bg-background text-sm ring-offset-background focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2"
         >
-          <SelectTrigger className="w-full sm:w-[180px]">
-            <SelectValue placeholder={t('courses.levels.all')} />
-          </SelectTrigger>
-          <SelectContent>
-            {levels.map((lvl) => (
-              <SelectItem key={lvl.value} value={lvl.value}>
-                {lvl.labels[locale] || lvl.labels.fr}
-              </SelectItem>
-            ))}
-          </SelectContent>
-        </Select>
+          {levels.map((lvl) => (
+            <option key={lvl.value} value={lvl.value}>
+              {lvl.label[locale as keyof typeof lvl.label] || lvl.label.fr}
+            </option>
+          ))}
+        </select>
 
         {/* Clear Filters Button */}
         {hasActiveFilters && (
           <Button 
             variant="ghost" 
             size="sm" 
-            onClick={clearFilters}
+            onClick={onClear}
             className="gap-1"
           >
             <X className="h-4 w-4" />
@@ -146,5 +119,3 @@ export function CourseFilters({ filters, onFiltersChange, className }: CourseFil
     </div>
   )
 }
-
-export type { CourseFiltersProps }
