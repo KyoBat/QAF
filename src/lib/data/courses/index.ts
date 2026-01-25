@@ -7,6 +7,7 @@ import { Course } from './types'
 import { tajweedCourse } from './tajweed'
 import { fiqhPurificationCourse, fiqhSalatCourse, fiqhSalawatKhassaCourse, fiqhZakatCourse } from './fiqh'
 import { aqeedahCourse } from './aqeedah'
+import { aqeedah2Course } from './aqeedah-2'
 import { aqeedahAdvancedCourse } from './aqeedah-advanced'
 import { sectesRefutationsCourse } from './sectes-refutations'
 import { fiqhMuamalatCourse } from './fiqh-muamalat'
@@ -22,6 +23,8 @@ import { siyamCourse } from './siyam'
 import { hajjCourse } from './hajj'
 import { historyImamsCourse } from './history'
 import { historyCompanionsCourse } from './history-companions'
+import { historyBiographiesCourse } from './history-biographies'
+import { historyFiqhPratiqueCourse } from './history-fiqh-pratique'
 import { historyHeroinesCourse } from './history-heroines'
 import { adiaModule1Course, adiaModule2Course, adiaModule3Course, adiaModule4Course } from './adia'
 
@@ -32,6 +35,7 @@ export * from './types'
 export { tajweedCourse } from './tajweed'
 export { fiqhPurificationCourse, fiqhSalatCourse, fiqhSalawatKhassaCourse, fiqhZakatCourse } from './fiqh'
 export { aqeedahCourse } from './aqeedah'
+export { aqeedah2Course } from './aqeedah-2'
 export { aqeedahAdvancedCourse } from './aqeedah-advanced'
 export { sectesRefutationsCourse } from './sectes-refutations'
 export { fiqhMuamalatCourse } from './fiqh-muamalat'
@@ -47,6 +51,8 @@ export { siyamCourse } from './siyam'
 export { hajjCourse } from './hajj'
 export { historyImamsCourse } from './history'
 export { historyCompanionsCourse } from './history-companions'
+export { historyBiographiesCourse } from './history-biographies'
+export { historyFiqhPratiqueCourse } from './history-fiqh-pratique'
 export { historyHeroinesCourse } from './history-heroines'
 export { adiaModule1Course, adiaModule2Course, adiaModule3Course, adiaModule4Course } from './adia'
 
@@ -58,6 +64,8 @@ export const coursesData: Course[] = [
   adiaModule4Course,
   hadithCourse,
   historyImamsCourse,
+  historyBiographiesCourse,
+  historyFiqhPratiqueCourse,
   historyCompanionsCourse,
   historyHeroinesCourse,
   tajweedCourse,
@@ -66,6 +74,7 @@ export const coursesData: Course[] = [
   fiqhSalawatKhassaCourse,
   fiqhZakatCourse,
   aqeedahCourse,
+  aqeedah2Course,
   aqeedahAdvancedCourse,
   sectesRefutationsCourse,
   fiqhMuamalatCourse,
