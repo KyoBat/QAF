@@ -25,49 +25,35 @@ export function CoursesPageClient({ initialCourses }: CoursesPageClientProps) {
   const router = useRouter()
   const pathname = usePathname()
   
-  // Initialiser les filtres depuis searchParams
-  const getFiltersFromParams = useCallback((): Filters => {
+  const [filters, setFilters] = useState<Filters>({})
+  const [isLoading, setIsLoading] = useState(false)
+
+  // Synchroniser les filtres depuis l'URL au montage et quand l'URL change (back/forward)
+  useEffect(() => {
     const category = searchParams.get('category')
     const level = searchParams.get('level')
     const search = searchParams.get('search')
     
-    return {
+    setFilters({
       category: category as Filters['category'] || undefined,
       level: level as Filters['level'] || undefined,
       search: search || undefined,
-    }
+    })
   }, [searchParams])
-  
-  const [filters, setFilters] = useState<Filters>({})
-  const [isInitialized, setIsInitialized] = useState(false)
-  const [isLoading, setIsLoading] = useState(false)
-
-  // Initialiser les filtres au premier rendu côté client
-  useEffect(() => {
-    if (!isInitialized) {
-      setFilters(getFiltersFromParams())
-      setIsInitialized(true)
-    }
-  }, [getFiltersFromParams, isInitialized])
-
-  // Synchroniser les filtres si les searchParams changent (ex: navigation back/forward)
-  useEffect(() => {
-    if (isInitialized) {
-      setFilters(getFiltersFromParams())
-    }
-  }, [searchParams, getFiltersFromParams, isInitialized])
 
   // Persister les filtres dans l'URL
   const updateFilters = useCallback((newFilters: Filters) => {
+    // Mettre à jour le state local immédiatement
     setFilters(newFilters)
     
+    // Puis mettre à jour l'URL
     const params = new URLSearchParams()
     if (newFilters.category) params.set('category', newFilters.category)
     if (newFilters.level) params.set('level', newFilters.level)
     if (newFilters.search) params.set('search', newFilters.search)
     
     const queryString = params.toString()
-    router.push(queryString ? `${pathname}?${queryString}` : pathname, { scroll: false })
+    router.replace(queryString ? `${pathname}?${queryString}` : pathname, { scroll: false })
   }, [router, pathname])
 
   // Reset tous les filtres

@@ -1,197 +1,425 @@
-export const contentEn = `# The Asha'irah and Maturidiyyah — Study and Critique
+export const contentEn = `# 🏛️ The Asha'irah and Maturidiyyah — Between Kalam and Sunnah
 
-## Introduction
-
-The Asha'irah and Maturidiyyah are the two largest theological sects spread throughout the Muslim world, and many Muslims today affiliate with them.
-
----
-
-## First Sect: The Asha'irah
-
-### Definition and Origin
-- **Founder**: Abu al-Hasan al-Ash'ari (260-324H)
-- **He was a Mu'tazilite** then returned to the Sunnah
-- **The stages of his doctrinal life**:
-  1. Mu'tazilism (40 years)
-  2. The school of Ibn Kullab (transitional phase)
-  3. The school of Ahl as-Sunnah (end of his life)
-
-### The Books of Abu al-Hasan al-Ash'ari
-| Phase | Books |
-|-------|-------|
-| Intermediate phase | Al-Luma', Letter to the Frontier People |
-| Final phase | Al-Ibanah 'an Usul ad-Diyanah, Maqalat al-Islamiyyin |
-
-### The Evolution of the Ash'arite School
-
-The Asha'irah did not remain as al-Ash'ari was, but the school evolved:
-
-\`\`\`
-Phases of Ash'arite Evolution
-├── Al-Ash'ari: Close to Ahl as-Sunnah in many issues
-├── Al-Baqillani and al-Juwayni: Expansion of speculative theology
-├── Al-Ghazali: Introduction of Sufism
-└── Ar-Razi and al-Amidi: Influenced by philosophy
-\`\`\`
-
-### The Foundations of the Asha'irah
-
-#### 1. The Seven Attributes
-- They only affirm seven attributes: Life, Knowledge, Power, Will, Hearing, Sight, Speech
-- They deny or allegorically interpret the others
-
-#### 2. Allegorical Interpretation of Allah's Attributes
-| Attribute | Their Interpretation |
-|-----------|----------------------|
-| The Hand | Blessing or power |
-| The Face | The essence |
-| The Establishment (Istawa) | Domination |
-| The Descent | Descent of His command or mercy |
-
-#### 3. The Quran
-- The inner speech (nafsiyyah) is eternal
-- The letters and words are created
-
-#### 4. Faith
-- Heart's belief only
-- Actions are not part of faith
-
-### Critique of the Ash'arite School
-
-1. **Contradiction with the Salaf's methodology** in the chapter of attributes
-2. **Lack of consistency** in affirming some attributes and denying others
-3. **Al-Ash'ari's own return** to the school of Ahl as-Sunnah
+> **"Affirm for Allah what He affirmed for Himself, and deny what He denied of Himself, without distortion, denial, asking 'how', or resemblance."**
+> — **The Rule of the Salaf** in the Attributes
 
 ---
 
-## Second Sect: The Maturidiyyah
+## 🎬 Introduction
 
-### Definition and Origin
-- **Founder**: Abu Mansur al-Maturidi (d. 333H)
-- **The attribution**: To Maturid, a village near Samarkand
-- **Propagation**: Transoxiana, India, Turkey
+The **Asha'irah** and the **Maturidiyyah** are today the two largest theological schools in the Muslim world. Millions of Muslims follow their creed, often without knowing it.
 
-### The Foundations of the Maturidiyyah
+Historically, these schools emerged to **defend Islam against the Mu'tazilah**, but they ended up adopting part of their methodology. They represent a **middle path** between the Salaf and the Mu'tazilah — closer to the Sunnah than the latter, but not on the complete path of the Salaf.
 
-They agree with the Asha'irah in many issues, and differ in others:
+<!-- TIMELINE:ashariyyah-maturidiyyah -->
+
+---
+
+## 📜 Part 1: The Asha'irah — History and Evolution
+
+### The Founder: Abu al-Hasan al-Ash'ari
+
+| Period | Dates | Creed |
+|--------|-------|-------|
+| **Phase 1** | 260-300 H | Mu'tazilite (40 years) |
+| **Phase 2** | 300-320 H | School of Ibn Kullab (transitional) |
+| **Phase 3** | 320-324 H | Return to the path of the Salaf |
+
+### The Repentance of Al-Ash'ari
+
+<div class="scene-box">
+
+**🎭 SCENE: The Conversion — Basra, ~300 H**
+
+*Abu al-Hasan al-Ash'ari, a Mu'tazilite for 40 years, secludes himself at home during Ramadan. Then he goes out to the main mosque.*
+
+*He ascends the pulpit on Friday...*
+
+**Al-Ash'ari**: "O people! I was absent from you for this period because I examined the evidences, and they became equal to me—nothing prevailing over another. So I sought guidance from Allah and He guided me."
+
+*He removes a garment he was wearing and throws it.*
+
+**Al-Ash'ari**: "I strip myself of everything I used to believe, **as I strip myself of this garment**! I have recorded my new creed in these books."
+
+*He distributes his new works, including "Al-Ibanah 'an Usul ad-Diyanah" (The Clarification of the Foundations of Religion).*
+
+</div>
+
+### The Books of Al-Ash'ari
+
+| Phase | Book | Content |
+|-------|------|---------|
+| **Transitional** | Al-Luma' | Still contains Kalam |
+| **Final** | **Al-Ibanah** | Return to the way of Ahmad ibn Hanbal |
+| **Final** | Maqalat al-Islamiyyin | Presentation of the sects |
+
+<div class="quote-box">
+
+**Al-Ash'ari in Al-Ibanah:**
+
+**"Our creed and our religion: to hold fast to the Book of our Lord عز وجل, the Sunnah of our Prophet ﷺ, and what was reported from the Companions, the Tabi'in, and the Imams of Hadith. We hold onto it, and we say what **Abu 'Abdullah Ahmad ibn Muhammad ibn Hanbal** said."**
+
+</div>
+
+### The Evolution of the School After Him
+
+The problem: the disciples **did not follow** al-Ash'ari's final phase, but developed the school based on his transitional phase.
+
+\`\`\`
+Evolution of Ash'arism
+├── AL-ASH'ARI (d. 324 H)
+│   └── Return to the path of the Salaf (Al-Ibanah)
+│
+├── AL-BAQILLANI (d. 403 H)
+│   └── Expansion of speculative theology
+│
+├── AL-JUWAYNI (d. 478 H)
+│   └── Imam al-Haramayn — more philosophy
+│
+├── AL-GHAZALI (d. 505 H)
+│   └── Massive introduction of Sufism
+│
+└── AR-RAZI (d. 606 H)
+    └── Domination of Greek philosophy
+\`\`\`
+
+---
+
+## ⚡ Part 2: The Ash'arite Beliefs
+
+### 1. Only Seven Attributes
+
+The Asha'irah only affirm **7 attributes** which they call "attributes of meaning":
+
+| The 7 Affirmed | Denied or Interpreted Attributes |
+|----------------|----------------------------------|
+| 1. Life (الحياة) | The Hand (اليد) → "power" |
+| 2. Knowledge (العلم) | The Face (الوجه) → "essence" |
+| 3. Power (القدرة) | The Eye (العين) → "vision" |
+| 4. Will (الإرادة) | Establishment (الاستواء) → "domination" |
+| 5. Hearing (السمع) | Descent (النزول) → "command descends" |
+| 6. Sight (البصر) | Laughter, Joy → "metaphors" |
+| 7. Speech (الكلام) | Anger → "will to punish" |
+
+### The Logical Inconsistency
+
+<div class="scene-box">
+
+**🎭 SCENE: The Debate on Attributes**
+
+**Sunni**: "Why do you affirm that Allah hears but deny that He has a Hand?"
+
+**Ash'ari**: "Because the Hand implies corporeality and resemblance!"
+
+**Sunni**: "And hearing doesn't imply resemblance? Humans also hear!"
+
+**Ash'ari**: "No, because Allah hears in a manner befitting His majesty."
+
+**Sunni**: "Exactly! And that's what we say for ALL the attributes: Allah has a Hand befitting His majesty, without resemblance to creation. Why does this rule apply to some attributes and not others?"
+
+**Ash'ari** *(silent)*: "..."
+
+</div>
+
+### 2. The Quran: Inner Speech
+
+| Their Position | Response of Ahl as-Sunnah |
+|----------------|---------------------------|
+| "The recited Quran is created" | The Quran is Allah's Speech, letters and meanings |
+| "Only the inner meaning is eternal" | Allah truly speaks with letters and words |
+| "The letters/sounds are created" | This is close to the Mu'tazilite position |
+
+### 3. Faith = Heart's Belief Only
+
+| Ash'arism | Ahl as-Sunnah |
+|-----------|---------------|
+| Faith = tasdiq (belief) | Faith = belief + speech + actions |
+| Actions are not part of faith | Actions are branches of faith |
+| ⚠️ This is Murji'ism | ✅ Faith increases and decreases |
+
+---
+
+## 🌙 Part 3: The Maturidiyyah
+
+### The Founder: Abu Mansur al-Maturidi
+
+| Element | Detail |
+|---------|--------|
+| **Name** | Abu Mansur Muhammad ibn Muhammad al-Maturidi |
+| **Death** | 333 H |
+| **Location** | Maturid, a village near Samarkand |
+| **Spread** | Central Asia, India, Turkey (Hanafites) |
+
+### Differences with the Asha'irah
 
 | Issue | Asha'irah | Maturidiyyah |
 |-------|-----------|--------------|
-| Number of attributes | 7 | 8 (add at-Takwin) |
-| Allah's actions | Without cause | Motivated by wisdom |
-| Good and evil | Revelation only | Reason |
-| Faith | Belief | Belief and declaration |
+| **Number of attributes** | 7 | 8 (add at-Takwin/creation) |
+| **Allah's actions** | Without rational cause | Motivated by wisdom |
+| **Good and evil** | Known by Revelation only | Knowable by reason |
+| **Faith** | Belief only | Belief + declaration (but not actions) |
+| **First duty** | Reflection (nazr) | Knowledge (ma'rifa) |
 
-### Critique of the Maturidiyyah
+### Their Common Errors with the Asha'irah
 
-1. **Allegorical interpretation of attributes** like the Asha'irah
-2. **Mixing** between the Salaf's methodology and speculative theology
-3. **Contradiction** in some principles
-
----
-
-## Scholars of the Asha'irah and Maturidiyyah
-
-### Asha'irah
-1. **Al-Qadi Abu Bakr al-Baqillani** (d. 403H)
-2. **Abu al-Ma'ali al-Juwayni** (d. 478H) — Imam al-Haramayn
-3. **Abu Hamid al-Ghazali** (d. 505H)
-4. **Fakhr ad-Din ar-Razi** (d. 606H)
-5. **Ibn Hajar al-'Asqalani** (d. 852H)
-6. **Jalal ad-Din as-Suyuti** (d. 911H)
-
-### Maturidiyyah
-1. **Abu Mansur al-Maturidi** (d. 333H)
-2. **Abu al-Yusr al-Bazdawi** (d. 493H)
-3. **Najm ad-Din an-Nasafi** (d. 537H)
-4. **Ibn al-Humam** (d. 861H)
+Both schools share:
+- ❌ Allegorical interpretation (ta'wil) of the Attributes
+- ❌ Exclusion of actions from the definition of faith
+- ❌ Use of Kalam as the main methodology
+- ❌ Belief that the recited Quran is "created"
 
 ---
 
-## The Position of Ahl as-Sunnah
+## 📖 Part 4: Great Scholars of These Schools
 
-### The Required Fairness
-1. **Acknowledge their merit** in refuting the Mu'tazilah and philosophers
-2. **Show their errors** in the chapter of attributes
-3. **Not generalizing innovation** on their personalities without detail
+### Famous Ash'arite Scholars
 
-### Conclusion
-> The Asha'irah and Maturidiyyah are not from Ahl as-Sunnah in the chapter of attributes, but they are closer to the Sunnah than the Mu'tazilah and Jahmiyyah.
+| Scholar | Death | Contribution |
+|---------|-------|--------------|
+| **Al-Baqillani** | 403 H | Theologian, author of at-Tamhid |
+| **Al-Juwayni** | 478 H | Imam al-Haramayn, teacher of al-Ghazali |
+| **Al-Ghazali** | 505 H | Ihya' 'Ulum ad-Din, critique of philosophers |
+| **Fakhr ad-Din ar-Razi** | 606 H | Great exegete, theologian-philosopher |
+| **Ibn Hajar al-'Asqalani** | 852 H | Fath al-Bari (commentary on Bukhari) |
+| **An-Nawawi** | 676 H | Sharh Sahih Muslim, Riyad as-Salihin |
+| **As-Suyuti** | 911 H | Encyclopedist, hundreds of works |
+
+### The Regret of the Great Ones
+
+<div class="scene-box">
+
+**🎭 SCENE: The Regret of Fakhr ad-Din ar-Razi — 606 H**
+
+*Ar-Razi, on his deathbed, dictates his final words.*
+
+**Ar-Razi** *(dying)*: "I have traversed the methods of the philosophers and the mutakallimin, and I have not seen them heal the sick or quench the thirsty. And I found that the closest path is the path of the Quran..."
+
+*He also said:*
+
+**"نهاية إقدام العقول عقال"**
+
+**"The utmost achievement of rational minds is bondage."**
+
+</div>
+
+<div class="scene-box">
+
+**🎭 SCENE: The Regret of al-Juwayni — 478 H**
+
+*Imam al-Haramayn al-Juwayni, shortly before his death.*
+
+**Al-Juwayni**: "I plunged into the ocean of Kalam, abandoning what the people of the Sunnah forbade me from. Now, if my Lord does not cover me with His mercy, woe to al-Juwayni! Here I am dying upon the creed of my mother!"
+
+*Or according to another narration:*
+
+**"Upon the creed of the old women of Nishapur!"**
+
+*(That is: simple, pure faith, without philosophy)*
+
+</div>
 
 ---
 
-## 📖 Stories from the Salaf: The Repentance of Abu al-Hasan al-Ash'ari
+## ⚖️ Part 5: The Balanced Position
 
-Abu al-Hasan al-Ash'ari was upon the Mu'tazilite school for forty years, then something occurred that changed his course.
+### What We Recognize for Them
 
-It is reported that he saw the Prophet ﷺ in a dream three times during Ramadan, commanding him to support what was reported from him. He then secluded himself in his house for fifteen days, reflecting.
+| Merit | Detail |
+|-------|--------|
+| **Refutation of the Mu'tazilah** | They fought the worst heresies |
+| **Defense of Islam** | Against philosophers and atheists |
+| **Immense contributions** | In Hadith, Fiqh, Tafsir, Usul |
+| **Sincerity (for many)** | They were seeking the truth |
 
-Then he went to the main mosque of Basra, ascended the pulpit on Friday and said:
+### What We Criticize Them For
 
-*"O people! I was absent from you for this period because I examined and the evidences became equal to me, nothing prevailing over another. So I sought Allah's guidance and He guided me to what I deposited in these books. I have stripped myself of all I used to believe, as I strip myself of this garment."*
+| Error | Detail |
+|-------|--------|
+| **Ta'wil of the Attributes** | Contradicts the methodology of the Salaf |
+| **Inconsistency** | Affirm some attributes, deny others |
+| **Murji'ism** | Faith = belief only |
+| **Kalam** | Methodology foreign to Islam |
 
-He removed a garment he was wearing and threw it, and handed the people his books.
+### The Golden Rule
 
-**Lesson learned**: Returning to the truth is a virtue, and the truthful scholar follows the evidence even if it contradicts what he was raised upon.
+<div class="quote-box">
+
+**Ibn Taymiyyah said:**
+
+**"The Asha'irah are among the best of the people of Kalam and the closest to Ahl as-Sunnah. They refuted the Mu'tazilah and the Jahmiyyah in many matters, but they retained remnants of their methodology."**
+
+</div>
+
+### Nuanced Judgment
+
+\`\`\`
+Positioning of the Schools
+├── ❌ JAHMIYYAH
+│   └── Total denial of Attributes → very far
+│
+├── ❌ MU'TAZILAH
+│   └── Denial + reason > text → far
+│
+├── ⚠️ ASHA'IRAH / MATURIDIYYAH
+│   └── Partial affirmation + ta'wil → close but in error
+│
+└── ✅ AHL AS-SUNNAH (Salaf)
+    └── Complete affirmation without ta'wil → the truth
+\`\`\`
 
 ---
 
-## 🎯 Contemporary Cases: Dealing with the Asha'irah and Maturidiyyah
+## 🎯 Part 6: Contemporary Practical Cases
 
-### Case 1: Excommunicating the Asha'irah
-Someone says: *"The Asha'irah are disbelievers because they interpret the attributes!"*
+### Case 1: "The Asha'irah are kuffar!"
 
-**Question**: Should the Asha'irah be excommunicated?
+**Situation**: Someone says: "The Asha'irah are disbelievers because they interpret the attributes!"
 
-**Answer**: ❌ Absolutely not. The Asha'irah are innovators in the chapter of attributes and are not disbelievers. Many of their scholars have great contributions in serving Islam.
-
----
-
-### Case 2: Tafsir Books
-A student asks: *"Should I read Ibn Kathir's tafsir or az-Zamakhshari's al-Kashshaf?"*
-
-**Question**: How do we deal with books of opponents?
-
-**Answer**: ✅ Both have benefits. However, Ibn Kathir's tafsir is upon the methodology of Ahl as-Sunnah, while al-Kashshaf contains Mu'tazilite ideas one should be aware of. The student of knowledge benefits from all while discerning.
+| Response |
+|----------|
+| ❌ **False**. The Asha'irah are **innovators** (mubtadi'a), not disbelievers |
+| ✅ Many of their scholars served Islam immensely |
+| ✅ Ibn Hajar, an-Nawawi, al-Ghazali have indispensable works |
+| ⚠️ We take their truth and reject their error |
 
 ---
 
-### Case 3: Allah's Attributes
-A mosque imam says: *"'Istawa 'ala al-'Arsh' means dominated, because real establishment necessitates anthropomorphism!"*
+### Case 2: Books of Hadith
 
-**Question**: Is this interpretation correct?
+**Situation**: "Should I read Fath al-Bari by Ibn Hajar knowing he is Ash'ari?"
 
-**Answer**: ❌ No. This is the interpretation of the Asha'irah. The methodology of the Salaf: Affirming real establishment (Istiwa') for Allah تعالى as befits His Majesty, without asking how or likening to creation.
+<div class="quote-box">
+
+**Answer:**
+
+✅ **Yes, absolutely.** Fath al-Bari is the best commentary on Sahih al-Bukhari.
+
+Be careful with passages on the Attributes, but benefit from the immense science of hadith.
+
+**The rule**: "خذ ما صفا ودع ما كدر" — Take what is pure and leave what is murky.
+
+</div>
+
+---
+
+### Case 3: The Istawa on the Throne
+
+**Situation**: An imam says: "Istawa means 'istawla' (dominated). Real establishment implies anthropomorphism!"
+
+| Their Argument | Response |
+|----------------|----------|
+| "Istawa = istawla" | No Salaf ever said this |
+| "Real establishment = anthropomorphism" | Imam Malik: "The Istawa is known, the how is unknown" |
+| "We must interpret" | Interpretation is an innovation |
 
 ---
 
 ### Case 4: Al-'Aqidah at-Tahawiyyah
-Someone asks: *"Is al-'Aqidah at-Tahawiyyah Ash'ari or Salafi?"*
 
-**Question**: What is the methodology of al-'Aqidah at-Tahawiyyah?
+**Situation**: "Is al-'Aqidah at-Tahawiyyah Ash'ari or Salafi?"
 
-**Answer**: ✅ Al-'Aqidah at-Tahawiyyah is upon the methodology of Ahl as-Sunnah wal-Jama'ah, even though Imam at-Tahawi was Hanafi. What matters is the content, not the affiliation.
+| Response |
+|----------|
+| ✅ It is upon the path of Ahl as-Sunnah |
+| ⚠️ Imam at-Tahawi was Hanafi, but his 'aqidah is that of the Salaf |
+| ✅ It affirms the Attributes without ta'wil |
+| ✅ It is recommended as a foundational text |
 
 ---
 
-### Case 5: Fairness with Opponents
-A student of knowledge says: *"I will not benefit from any Ash'ari scholar, they are all misguided!"*
+### Case 5: Fairness with Scholars
 
-**Question**: Should we reject all the knowledge of opponents?
+**Situation**: A student says: "I won't read any book by an Ash'ari!"
 
-**Answer**: ❌ No. It is unjust to reject all their knowledge. Ibn Hajar and an-Nawawi were Ash'ari and have great contributions in serving the Sunnah. We take the truth and reject the falsehood.
+<div class="scene-box">
+
+**🎭 SCENE: The Sheikh's Advice**
+
+**Sheikh**: "Do you reject Fath al-Bari?"
+
+**Student**: "Ibn Hajar is Ash'ari."
+
+**Sheikh**: "And Sharh Sahih Muslim?"
+
+**Student**: "An-Nawawi is also Ash'ari."
+
+**Sheikh**: "Will you reject the best commentaries on Bukhari and Muslim because of some passages on the Attributes? Be fair! Take their science of hadith and be vigilant on 'aqidah. This is the way of the scholars."
+
+</div>
 
 ---
 
 ## 💡 Pause and Reflect
 
-**Personal question**: Do you understand the creed of the Salaf regarding Allah's attributes correctly? Or do you need to review it?
+### The True Methodology of the Salaf
 
-**Remember:**
-- Affirm for Allah what He affirmed for Himself without distortion or denial
-- Do not liken Allah's attributes to the attributes of creation
-- Be fair with scholars who err in some issues
-- The Asha'irah and Maturidiyyah are our brothers in Islam even if they erred in some attributes
+\`\`\`
+The Rule of the Salaf in the Attributes
+├── 1️⃣ AFFIRM
+│   └── What Allah affirmed for Himself
+│
+├── 2️⃣ DENY
+│   └── What Allah denied of Himself
+│
+├── 3️⃣ WITHOUT TAHRIF (distortion)
+│   └── Do not change the meaning
+│
+├── 4️⃣ WITHOUT TA'TIL (denial)
+│   └── Do not empty of meaning
+│
+├── 5️⃣ WITHOUT TAKYIF (asking "how")
+│   └── The "how" is unknown
+│
+└── 6️⃣ WITHOUT TAMTHIL (resemblance)
+    └── ﴿لَيْسَ كَمِثْلِهِ شَيْءٌ﴾
+    "There is nothing like unto Him"
+\`\`\`
+
+### Personal Questions
+
+- Do you know the difference between the path of the Salaf and that of the Asha'irah?
+- Are you fair with scholars who erred on certain points?
+- Can you distinguish between the error and the person who errs?
+
+---
+
+## 📊 Lesson Summary
+
+| Concept | Definition |
+|---------|------------|
+| **Asha'irah** | School of Abu al-Hasan al-Ash'ari (but not his final phase) |
+| **Maturidiyyah** | School of Abu Mansur al-Maturidi (Hanafites) |
+| **Their main error** | Ta'wil of the Attributes + Murji'ism |
+| **Their merit** | Refutation of the Mu'tazilah and philosophers |
+| **Just position** | Close to the Sunnah but not on the complete path |
+
+---
+
+## 🎯 Conclusion
+
+<div class="quote-box">
+
+**Imam al-Ash'ari in Al-Ibanah:**
+
+**"We say what Abu 'Abdullah Ahmad ibn Muhammad ibn Hanbal said — may Allah brighten his face, elevate his rank, and increase his reward."**
+
+*This is al-Ash'ari's own final position!*
+
+</div>
+
+### Eternal Lessons
+
+- ✅ **The Asha'irah/Maturidiyyah are not kuffar** — they are Muslim innovators
+- ✅ **Their knowledge is beneficial** — in hadith, fiqh, tafsir
+- ✅ **Their error is in the Attributes** — and ta'wil is an innovation
+- ✅ **Al-Ash'ari himself** returned to the path of the Salaf
+- ✅ **Fairness** is obligatory toward all
+
+---
+
+**Next lesson: Shi'ism — Origins, Branches, and Beliefs.**
+
+And Allah is the Guarantor of success and the Guide to the right path.
 
 ---
 
