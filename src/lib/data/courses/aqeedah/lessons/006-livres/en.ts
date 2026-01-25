@@ -234,9 +234,11 @@ export const content = `# 📜 Belief in the Divine Books — The Third Pillar o
 
 </div>
 
-**O Lord, increase me in knowledge!** 📖`
+<div class="quote-box">
 
-> "Whoever recites a letter from the Book of Allah will have a good deed, and the good deed is rewarded tenfold." (Tirmidhi 2910)
+> "Whoever recites a letter from the Book of Allah will have a good deed, and the good deed is rewarded tenfold." *(Tirmidhi 2910)*
+
+</div>
 
 ---
 
