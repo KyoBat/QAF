@@ -1,224 +1,588 @@
-export const contentFr = `# Les Règles des Ventes
+export const contentFr = `# 🏪 Les Règles de la Vente — La science du commerce prophétique
 
-## Définition de la Vente
+<div class="scene-box">
 
-### Étymologie
-Al-Bay' (la vente) : l'échange d'une chose contre une autre, ou donner une compensation et recevoir quelque chose en retour.
+**🎬 Scène d'ouverture : Au marché de Médine**
 
-### Terminologie
-> L'échange d'un bien contre un autre bien d'une manière spécifique, ou le transfert de propriété d'un bien matériel contre une compensation de manière légale.
+*Le marché de Médine... Le soleil envoie ses rayons dorés sur les vendeurs et les acheteurs...*
+
+*Un homme présente sa marchandise et jure : Par Allah, je l'ai achetée pour tel et tel prix !*
+
+*Le Prophète ﷺ passe et l'entend... Il s'arrête et dit :*
+
+**Le Prophète ﷺ :** « Le serment fait vendre la marchandise, mais efface la bénédiction ! »
+
+*(Unanimement reconnu)*
+
+*Le vendeur se tait... et les commerçants se regardent les uns les autres...*
+
+*Puis le Prophète ﷺ dit :*
+
+**Le Prophète ﷺ :** « Les deux parties ont le choix tant qu'elles ne se sont pas séparées. Si elles sont sincères et transparentes, leur transaction sera bénie. Si elles cachent et mentent, la bénédiction de leur transaction sera effacée. »
+
+*(Unanimement reconnu)*
+
+*C'est ainsi que le Prophète ﷺ a enseigné à sa communauté que le commerce est une adoration... et que la sincérité est son vrai capital !*
+
+</div>
+
+> **Cette science** que les Compagnons ont apprise est ce que tu vas apprendre dans ce cours.
 
 ---
 
-## La Légitimité de la Vente
+## 📖 Définition de la Vente
+
+### Linguistiquement
+
+La vente (bay') : l'échange d'une chose contre une autre, ou **donner une contrepartie et recevoir un équivalent**.
+
+### Techniquement
+
+<div class="quote-box">
+
+**📜 Définition des juristes**
+
+> **L'échange de bien contre bien d'une manière spécifique, ou le transfert de propriété d'un bien contre une contrepartie de manière légale.**
+
+</div>
+
+---
+
+## 🌟 La Légitimité de la Vente
 
 ### Dans le Coran
 
-> Allah تعالى dit : {Et Allah a rendu licite le commerce et a interdit l'usure} [Al-Baqarah : 275]
+<div class="quote-box">
 
-> Allah تعالى dit : {Ô vous qui croyez ! Ne mangez pas vos biens entre vous de manière illicite, sauf s'il s'agit d'un commerce consenti mutuellement} [An-Nisa : 29]
+**📜 Le verset de la permission de la vente**
 
-### Dans la Sunna Prophétique
+Allah تعالى a dit :
 
-> On demanda au Prophète ﷺ : "Quel est le meilleur gain ?" Il dit : "Le travail de l'homme de ses propres mains, et toute vente bénie." [Rapporté par Ahmad et al-Hakim]
+> **﴿Allah a permis la vente et interdit l'usure﴾**
 
-> Le Prophète ﷺ a dit : "Le commerçant véridique et honnête sera avec les prophètes, les véridiques et les martyrs." [Rapporté par at-Tirmidhi]
+[Al-Baqarah : 275]
+
+</div>
+
+<div class="quote-box">
+
+**📜 Le verset du consentement mutuel**
+
+Allah تعالى a dit :
+
+> **﴿Ô vous qui croyez ! Ne dévorez pas vos biens entre vous de manière illicite, sauf s'il s'agit d'un commerce par consentement mutuel﴾**
+
+[An-Nissa : 29]
+
+</div>
+
+### Dans la Sunna
+
+<div class="quote-box">
+
+**📜 Le meilleur gain**
+
+On demanda au Prophète ﷺ : Quel est le meilleur gain ? Il dit :
+
+> **« Le travail de l'homme de ses mains, et toute vente pieuse. »**
+
+*(Rapporté par Ahmad et al-Hakim)*
+
+</div>
+
+<div class="quote-box">
+
+**📜 Le rang du commerçant honnête**
+
+Le Prophète ﷺ a dit :
+
+> **« Le commerçant sincère et digne de confiance sera avec les prophètes, les véridiques et les martyrs. »**
+
+*(Rapporté par at-Tirmidhi)*
+
+</div>
 
 ### Le Consensus
-Les musulmans sont unanimes sur la permission de la vente en général, le désaccord ne portant que sur certains types.
+
+Les musulmans sont unanimes sur **la permission de la vente en général**, le désaccord n'existe que sur certains types et détails.
 
 ---
 
-## La Sagesse de la Légitimité de la Vente
+## 💡 La Sagesse de la Légitimité de la Vente
 
-1. **Réaliser l'échange** — Ce qu'une personne possède peut être nécessaire à une autre
-2. **Faciliter la vie** — Répondre aux différents besoins
-3. **Développer la richesse** — Encourager le travail et le commerce
-4. **La coopération entre les gens** — Combler les besoins de la société
+\`\`\`
+          🎯 Pourquoi la vente a-t-elle été légiférée ?
+                         │
+          ┌──────────────┼──────────────┐
+          │              │              │
+   Réaliser l'échange  Faciliter    Développer
+   (Ce que tu as peut  la vie       la richesse
+   être utile à autrui)(Satisfaire  (Encourager
+                       les besoins) le travail)
+          │              │              │
+          └──────────────┼──────────────┘
+                         │
+              La coopération entre les gens
+              (Répondre aux besoins de la société)
+\`\`\`
 
 ---
 
-## Les Piliers de la Vente
+## 🏛️ Les Piliers de la Vente
 
-### Selon la majorité : trois piliers
+### Selon la majorité (Malikites, Chafiites et Hanbalites)
+
+\`\`\`
+              📝 Les Trois Piliers de la Vente
+                          │
+            ┌─────────────┼─────────────┐
+            │             │             │
+    Les Contractants   La Formule    L'Objet
+      (Le vendeur      (L'offre       (La marchandise
+      et l'acheteur)   et l'acceptation) et le prix)
+            │             │             │
+        Conditions    Conditions    Conditions
+        des parties   de la formule de l'objet
+\`\`\`
+
+### Selon les Hanafites
+
+Le pilier chez eux est **uniquement la formule** (l'offre et l'acceptation), le reste sont des conditions.
 
 | Pilier | Définition | Exemple |
 |--------|------------|---------|
-| Les contractants | Le vendeur et l'acheteur | Zayd et 'Amr |
-| La formule | L'offre et l'acceptation | "J'ai vendu" et "J'ai acheté" |
-| L'objet du contrat | La marchandise et le prix | Le produit et l'argent |
-
-### Selon les Hanafites
-Le seul pilier selon eux est la formule, le reste étant des conditions.
+| Les contractants | Le vendeur et l'acheteur | Zayd vend à 'Amr |
+| La formule | L'offre et l'acceptation | « J'ai vendu » et « J'ai acheté » |
+| L'objet du contrat | La marchandise et le prix | La voiture pour 50 000 |
 
 ---
 
-## Les Types de Ventes Légitimes
+## 📋 Conditions des Contractants
 
-### 1. La Vente Libre (Musawamah)
-- Le vendeur n'informe pas du prix d'achat
-- L'acheteur négocie jusqu'à l'accord
-
-### 2. La Vente Murabahah
-- Le vendeur informe du prix d'achat et ajoute un profit connu
-- Exemple : Je l'ai achetée à cent et je la vends à cent vingt
-
-### 3. La Vente Tawliyah
-- Vente au même prix d'achat sans profit ni perte
-- Exemple : Je l'ai achetée à cent et je la vends à cent
-
-### 4. La Vente Wadi'ah
-- Vente à un prix inférieur au prix d'achat
-- Exemple : Je l'ai achetée à cent et je la vends à quatre-vingts
+| Condition | Explication | Exemple |
+|-----------|-------------|---------|
+| **La raison** | La vente du fou est nulle | — |
+| **Le discernement** | L'enfant discernant peut vendre avec l'accord de son tuteur | Enfant de 10 ans qui achète des bonbons |
+| **La majorité** | Pour les grandes transactions | Vente immobilière |
+| **Le libre arbitre** | La vente du contraint est nulle | — |
 
 ---
 
-## La Formule de la Vente
+## 📦 Types de Ventes Légitimes
+
+<div class="scene-box">
+
+**🔍 Chaque vente a sa sagesse...**
+
+*Dans le marché des musulmans, les ventes varient pour satisfaire les différents besoins des gens...*
+
+</div>
+
+### 1. La Vente Absolue (Négociation)
+
+\`\`\`
+   💬 La Négociation
+          │
+ Le vendeur ne dit pas ──→ L'acheteur négocie ──→ Ils s'accordent sur un prix
+ le prix d'achat
+\`\`\`
+
+**Exemple :** Tu vas au marché et tu négocies une marchandise jusqu'à t'accorder sur un prix.
+
+### 2. La Vente Murabaha (avec marge bénéficiaire)
+
+\`\`\`
+   📈 La Murabaha
+          │
+ Le vendeur dit  ──→  Il ajoute un  ──→  Le prix final
+ le prix d'achat     profit connu
+    (100)               (20)             (120)
+\`\`\`
+
+**Exemple :** « Je l'ai achetée à 100 et je la vends à 120. »
+
+### 3. La Vente Tawliya (au prix coûtant)
+
+**Vente au même prix d'achat** sans profit ni perte.
+
+**Exemple :** « Je l'ai achetée à 100 et je te la vends à 100. »
+
+### 4. La Vente Wadi'a (avec perte)
+
+**Vente en dessous du prix d'achat** (perte).
+
+**Exemple :** « Je l'ai achetée à 100 et je la vends à 80. »
+
+| Type de vente | Prix d'origine | Prix de vente | Différence |
+|---------------|----------------|---------------|------------|
+| Murabaha | 100 | 120 | +20 profit |
+| Tawliya | 100 | 100 | zéro |
+| Wadi'a | 100 | 80 | -20 perte |
+
+---
+
+## 📝 La Formule de la Vente
 
 ### L'Offre et l'Acceptation
 
-**L'offre (Ijab) :** Ce qui émane en premier de l'un des contractants
-**L'acceptation (Qabul) :** Ce qui émane en second en accord avec le premier
+<div class="quote-box">
+
+**📜 Définition**
+
+**L'offre (Ijab) :** Ce qui émane **en premier** de l'un des contractants.
+
+**L'acceptation (Qabul) :** Ce qui émane **en second** en agrément du premier.
+
+</div>
 
 ### Types de Formule
 
-1. **La formule verbale**
-   - "J'ai vendu", "J'ai acheté", "J'ai transféré la propriété"
+\`\`\`
+            📋 Types de Formule de Vente
+                        │
+          ┌─────────────┼─────────────┐
+          │             │             │
+       Verbale       Pratique      Écrite
+      (J'ai vendu,   (Mu'ataat :   (Contrats
+      j'ai acheté)   échange par   écrits,
+                     l'action)     correspondances)
+\`\`\`
 
-2. **La formule par acte (Mu'atah)**
-   - L'échange par l'action sans paroles
-   - Il paie le prix et prend la marchandise
+### 1. La Formule Verbale
 
-3. **La formule écrite**
-   - Les contrats écrits
-   - Les correspondances commerciales
+Les termes explicites : **J'ai vendu, j'ai acheté, j'ai transféré la propriété**
 
-### Jugement de la Vente par Acte (Mu'atah)
+### 2. La Formule Pratique (Mu'ataat)
 
-| École | Jugement |
-|-------|----------|
-| Hanafites, Malikites et Hanbalites | Permis |
-| Chafiites | Le plus correct est que ce n'est pas permis sauf selon l'usage |
+<div class="scene-box">
+
+**🏪 Scène : Au supermarché**
+
+*Ahmad prend une bouteille de jus du rayon... la pose devant le caissier...*
+
+*Il paie le montant... et prend le jus...*
+
+*Aucun des deux n'a prononcé un mot... mais la vente est conclue !*
+
+</div>
+
+C'est la **vente Mu'ataat** — l'échange par l'action sans parole.
+
+### 3. La Formule Écrite
+
+Les contrats écrits, les correspondances commerciales, les contrats électroniques.
+
+### Statut de la vente Mu'ataat
+
+| École | Avis |
+|-------|------|
+| Hanafites, Malikites et Hanbalites | ✅ Permise |
+| Chafiites | L'avis le plus juste est l'interdiction sauf pour ce qui est habituel |
+
+**L'avis prépondérant :** La permission car c'est devenu une coutume.
 
 ---
 
-## La Conclusion de la Vente
+## 🤝 La Conclusion de la Vente
 
 ### Conditions de Conclusion
 
-1. **Le consentement mutuel**
-   > Allah تعالى dit : {sauf s'il s'agit d'un commerce consenti mutuellement} [An-Nisa : 29]
+#### 1. Le Consentement Mutuel
 
-2. **La capacité des contractants**
-   - La raison et le discernement
+<div class="quote-box">
 
-3. **L'aptitude de l'objet au jugement**
-   - Que la marchandise soit un bien ayant valeur
+**📜 Le verset du consentement**
 
-4. **L'existence du pouvoir**
-   - Que celui qui dispose soit propriétaire ou mandataire
+> **﴿Sauf s'il s'agit d'un commerce par consentement mutuel﴾**
+
+[An-Nissa : 29]
+
+</div>
+
+**Attention :** La vente entachée de contrainte, de tromperie ou de fraude est **nulle**.
+
+#### 2. La Capacité des Contractants
+
+- La raison et le discernement
+- La capacité juridique de disposer
+
+#### 3. La Validité de l'Objet
+
+- Que la marchandise soit un **bien licite** légalement
+- La vente d'alcool ou de porc est invalide
+
+#### 4. L'Existence de l'Autorité
+
+- Que le disposant soit **propriétaire** ou **mandataire** ou **tuteur**
 
 ---
 
-## La Vente par Signe
+## 🤲 La Vente par Signe
 
-### Son Jugement
-- Valide de la part du muet si son signe est compréhensible
-- Valide aussi de celui qui peut parler en cas de besoin
+### Son statut
 
-### Sa Preuve
-> "Allah a pardonné à ma communauté l'erreur, l'oubli et ce à quoi ils ont été contraints." [Rapporté par Ibn Majah]
+- ✅ Valide pour le **muet** si son signe est compréhensible
+- ✅ Valide pour **celui qui peut parler** en cas de besoin
+
+### Sa preuve
+
+<div class="quote-box">
+
+**📜 Hadith de la facilité**
+
+> **« Allah a pardonné à ma communauté l'erreur, l'oubli et ce à quoi elle est contrainte. »**
+
+*(Rapporté par Ibn Majah)*
+
+</div>
 
 ---
 
-## La Vente via les Moyens de Communication Modernes
+## 💻 La Vente via les Moyens de Communication Modernes
 
-### Jugement de la Vente par Téléphone et Internet
-- Permise si les conditions sont remplies
-- L'offre et l'acceptation par parole ou écriture
+<div class="scene-box">
 
-### Règles du Commerce Électronique
+**📱 Scène : Le commerce électronique**
+
+*Sara navigue sur un site web...*
+
+*Elle choisit une robe... lit la description... clique sur « Acheter maintenant »...*
+
+*Elle paie par carte... et attend la livraison...*
+
+*Est-ce une vente valide légalement ?*
+
+</div>
+
+### Statut de la vente par téléphone et internet
+
+**✅ Permise si les conditions légales sont remplies :**
+
 1. Description précise de la marchandise
-2. Indication du prix et des frais
-3. Droit de résiliation à la réception si la marchandise diffère de la description
+2. Indication du prix et des coûts complets
+3. Droit d'annulation à la réception si non conforme
 4. Garantie des droits des deux parties
 
+### Règles du commerce électronique
+
+| Règle | Détail |
+|-------|--------|
+| Description précise | Photos claires et spécifications détaillées |
+| Prix complet | Inclut taxes et livraison |
+| Droit d'annulation | Droit de retour en cas de non-conformité |
+| Garantie de réception | Système de sécurité et de suivi |
+
 ---
 
-## Les Convenances de la Vente et de l'Achat
+## 🌟 Éthique de la Vente et de l'Achat
 
-### 1. La Véracité et l'Honnêteté
-> Le Prophète ﷺ a dit : "Les deux contractants ont le choix tant qu'ils ne se sont pas séparés. S'ils sont véridiques et transparents, leur vente sera bénie. S'ils cachent et mentent, la bénédiction de leur vente sera effacée." [Rapporté par al-Bukhari et Muslim]
+### 1. La Sincérité et l'Honnêteté
 
-### 2. La Facilité dans le Commerce
-> Le Prophète ﷺ a dit : "Qu'Allah fasse miséricorde à l'homme indulgent quand il vend, quand il achète et quand il réclame." [Rapporté par al-Bukhari]
+<div class="quote-box">
 
-### 3. Éviter le Faux Serment
-> Le Prophète ﷺ a dit : "Le serment fait vendre la marchandise mais efface la bénédiction." [Rapporté par al-Bukhari et Muslim]
+**📜 Hadith de la bénédiction dans la sincérité**
 
-### 4. Abandonner la Cupidité Blâmable
+Le Prophète ﷺ a dit :
+
+> **« Les deux parties ont le choix tant qu'elles ne se sont pas séparées. Si elles sont sincères et transparentes, leur transaction sera bénie. Si elles cachent et mentent, la bénédiction sera effacée. »**
+
+*(Unanimement reconnu)*
+
+</div>
+
+### 2. La Facilité dans les Transactions
+
+<div class="quote-box">
+
+**📜 Hadith de la facilité**
+
+Le Prophète ﷺ a dit :
+
+> **« Qu'Allah fasse miséricorde à un homme facile quand il vend, quand il achète et quand il réclame. »**
+
+*(Rapporté par al-Bukhari)*
+
+</div>
+
+### 3. Ne Pas Faire de Faux Serments
+
+<div class="quote-box">
+
+**📜 Hadith blâmant le serment**
+
+Le Prophète ﷺ a dit :
+
+> **« Le serment fait vendre la marchandise, mais efface la bénédiction. »**
+
+*(Unanimement reconnu)*
+
+</div>
+
+### 4. Abandonner l'Avidité Blâmable
+
 - Se contenter d'un profit raisonnable
 - Ne pas exploiter le besoin des gens
+- Éviter l'excès de prix
 
 ---
 
-## 📖 Récit des Salaf : La véracité d'al-Hasan al-Basri dans la vente
+## 📖 Des Histoires des Pieux Prédécesseurs : La sincérité d'al-Hassan al-Basri
 
-Il est rapporté qu'al-Hasan al-Basri رحمه الله voulait vendre un âne qui lui appartenait. Un homme vint pour l'acheter.
+<div class="scene-box">
 
-Al-Hasan lui dit : **"Le veux-tu pour le transport ou pour la monture ?"**
+**🎬 Histoire : L'honnêteté du savant**
 
-L'homme dit : Pour la monture.
+*Il est rapporté qu'al-Hassan al-Basri, qu'Allah lui fasse miséricorde, voulait vendre son âne...*
 
-Al-Hasan dit : **"Alors il ne te convient pas, car il convient pour le transport mais pas pour la monture, son dos est faible."**
+*Un homme vint pour l'acheter.*
 
-L'homme s'étonna de sa véracité et de son honnêteté, et dit : Je n'ai jamais vu de vendeur plus honnête que toi !
+**Al-Hassan :** « Le veux-tu pour le transport ou pour la monte ? »
 
-Al-Hasan dit : **"Malheur à toi ! Penses-tu que je te cacherais un défaut dans ma marchandise ? Cela, un musulman ne le fait pas."**
+**L'homme :** Pour la monte.
 
-**La leçon à retenir :** La véracité dans la déclaration est le fondement du commerce islamique, et c'est la cause de la bénédiction comme l'a dit le Prophète ﷺ : "S'ils sont véridiques et transparents, leur vente sera bénie."
+**Al-Hassan :** « Alors il ne te convient pas ! Car il est bon pour le transport mais pas pour la monte, son dos est faible. »
+
+*L'homme fut étonné de sa sincérité et de son honnêteté...*
+
+**L'homme :** Je n'ai jamais vu un vendeur plus honnête que toi !
+
+**Al-Hassan :** « Malheur à toi ! Penses-tu que je te cacherais un défaut dans ma marchandise ? Un musulman ne fait pas cela ! »
+
+</div>
+
+**La leçon :** La sincérité dans la déclaration est le fondement du commerce islamique, et c'est la cause de la bénédiction.
 
 ---
 
-## 🎯 Cas pratiques contemporains
+## 🎯 Cas Contemporains — Teste ta compréhension !
 
-### Cas 1 : La vente par échange d'actes au magasin
-**Question** : Samir a pris un produit de l'étagère et a mis son prix dans la caisse automatique sans parler à personne. Est-ce une vente valide ?
+### Cas 1 : La vente Mu'ataat
 
-**Réponse** : ✅ Oui, c'est la vente par échange d'actes (mu'atah) qui est permise selon la majorité des savants, car l'usage l'admet et les piliers de la vente sont réunis : le consentement et la livraison.
+<div class="scene-box">
 
-### Cas 2 : L'achat via Internet
-**Question** : Fatima a acheté une robe sur un site web basée sur les photos et la description. À la réception, elle l'a trouvée différente. Quel est son droit ?
+**Samir** a pris un produit du rayon et mis son prix dans la caisse automatique sans parler à personne.
 
-**Réponse** : ✅ Elle a le droit d'annuler car la marchandise diffère de la description. C'est l'option de vision ou l'option de défaut. Le vendeur doit décrire la marchandise précisément pour éviter l'incertitude.
+**Question :** Est-ce une vente valide ?
+
+</div>
+
+**Réponse :** ✅ Oui, c'est une **vente Mu'ataat** permise selon la majorité des savants, car c'est devenu une coutume et les piliers de la vente sont réunis.
+
+---
+
+### Cas 2 : La vente sur internet
+
+<div class="scene-box">
+
+**Fatima** a acheté une robe sur un site web basée sur les photos et la description.
+
+À la réception, elle l'a trouvée **différente de la description** !
+
+**Question :** Quel est son droit ?
+
+</div>
+
+**Réponse :** ✅ Elle a le **droit d'annulation** car la marchandise ne correspondait pas à la description. C'est l'**option de vision** ou l'**option de défaut**.
+
+<div class="quote-box">
+
+Le vendeur doit **décrire la marchandise précisément** pour éviter l'incertitude, sinon l'acheteur a le choix.
+
+</div>
+
+---
 
 ### Cas 3 : Jurer pour promouvoir la marchandise
-**Question** : Le commerçant jure faussement que cette marchandise est la meilleure ou qu'il l'a achetée à un prix plus élevé, pour attirer l'acheteur. Quel est le jugement ?
 
-**Réponse** : ❌ C'est sévèrement interdit, c'est le serment qui plonge son auteur en Enfer. Le Prophète ﷺ a dit : "Le serment fait vendre la marchandise mais efface la bénédiction."
+<div class="scene-box">
 
-### Cas 4 : La vente Murabahah dans les banques
-**Question** : La banque achète une voiture puis la vend au client avec une majoration en plusieurs versements. Est-ce de l'usure ?
+**Le commerçant** jure faussement que cette marchandise est la meilleure, ou qu'il l'a achetée plus cher, **pour attirer l'acheteur**.
 
-**Réponse** : ✅ Si la banque possède réellement la marchandise puis la vend à un prix connu différé, c'est la vente Murabahah permise. Ce qui est interdit, c'est que la possession soit fictive ou qu'elle vende ce qu'elle n'a pas encore reçu.
+**Question :** Quel est le jugement ?
 
-### Cas 5 : La fixation des prix des produits
-**Question** : Le gouvernement peut-il fixer les prix des produits de base pour protéger les consommateurs ?
+</div>
 
-**Réponse** : ✅ Il est permis de fixer les prix en cas de besoin pour repousser le préjudice des gens, surtout en cas de monopole. Les savants ont divergé, mais l'avis le plus correct est la permission pour l'intérêt public.
+**Réponse :** ❌ C'est **strictement interdit** ! C'est le **serment immergeur** qui plonge son auteur en Enfer.
+
+<div class="quote-box">
+
+Le Prophète ﷺ a dit : **« Le serment fait vendre la marchandise, mais efface la bénédiction. »**
+
+</div>
 
 ---
 
-## 💡 Pause réflexion
+### Cas 4 : La Murabaha dans les banques
 
-**Question personnelle** : Imaginez que vous vendez une marchandise avec un défaut caché que l'acheteur ne connaît pas et ne découvrira pas. L'informerez-vous ? Pourquoi ?
+<div class="scene-box">
 
-**Rappel :**
+**La banque islamique** achète une voiture à 40 000, puis la vend au client à 50 000 en versements.
+
+**Question :** Est-ce de l'usure ?
+
+</div>
+
+**Réponse :** ✅ Si la banque possède la marchandise **réellement** puis la vend à un prix connu différé, c'est une **Murabaha permise**.
+
+**L'interdit :** Que la possession soit **fictive** ou qu'elle vende **ce qu'elle n'a pas reçu**.
+
+---
+
+### Cas 5 : La fixation des prix
+
+<div class="scene-box">
+
+**Le gouvernement** veut fixer les prix des produits de base pour protéger les consommateurs de l'exploitation.
+
+**Question :** La fixation des prix est-elle permise ?
+
+</div>
+
+**Réponse :** ✅ La fixation des prix est permise **en cas de besoin** pour repousser le tort des gens, surtout en cas de **monopole**.
+
+<div class="quote-box">
+
+**La règle :** « Pas de préjudice ni de tort réciproque. »
+
+</div>
+
+---
+
+## 💎 Résumé de la Leçon
+
+| Élément | Détail |
+|---------|--------|
+| **Définition de la vente** | Échange de bien contre bien de manière légale |
+| **Ses piliers** | Les contractants, la formule, l'objet |
+| **Ses types** | Négociation, Murabaha, Tawliya, Wadi'a |
+| **La formule** | Verbale, pratique (Mu'ataat), écrite |
+| **Son éthique** | Sincérité, facilité, ne pas jurer |
+
+---
+
+## 🤔 Pause et Réflexion
+
+<div class="scene-box">
+
+**Question à méditer :**
+
+Imagine que tu vendes une marchandise avec un **défaut caché** que l'acheteur ne connaît pas et ne découvrira pas...
+
+**Le lui diras-tu ? Pourquoi ?**
+
+</div>
+
+<div class="quote-box">
+
+**📜 Rappelle-toi toujours**
+
 - Allah te voit quand les gens ne te voient pas
-- "Le commerçant véridique et honnête sera avec les prophètes, les véridiques et les martyrs"
-- La bénédiction est dans la véracité, non dans l'abondance de l'argent
-- "Celui qui nous trompe n'est pas des nôtres"
+- « Le commerçant sincère et digne de confiance sera avec les prophètes, les véridiques et les martyrs »
+- La bénédiction est dans la sincérité, pas dans l'abondance d'argent
+- « Celui qui nous trompe n'est pas des nôtres »
+
+</div>
 
 ---
 
-*Ô Seigneur, augmente ma science*`;
+**Ô Seigneur, augmente ma science !** 📖`;

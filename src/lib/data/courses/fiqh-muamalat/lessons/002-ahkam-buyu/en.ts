@@ -1,224 +1,588 @@
-export const contentEn = `# Rules of Sales
+export const contentEn = `# 🏪 Rules of Sale — The Science of Prophetic Commerce
 
-## Definition of Sale
+<div class="scene-box">
 
-### Linguistic Meaning
-Al-Bay' (sale): exchanging one thing for another, or giving compensation and receiving something in return.
+**🎬 Opening Scene: At the Madinah Market**
 
-### Technical Meaning
-> The exchange of property for property in a specific manner, or the transfer of ownership of a material asset for compensation in a legal way.
+*The market of Madinah... The sun sends its golden rays upon the sellers and buyers...*
+
+*A man displays his merchandise and swears: By Allah, I bought it for such and such price!*
+
+*The Prophet ﷺ passes by and hears him... He stops and says:*
+
+**The Prophet ﷺ:** "Swearing sells the merchandise, but erases the blessing!"
+
+*(Unanimously agreed upon)*
+
+*The seller falls silent... and the merchants look at each other...*
+
+*Then the Prophet ﷺ says:*
+
+**The Prophet ﷺ:** "The two parties have the option as long as they haven't parted. If they are truthful and transparent, their transaction will be blessed. If they conceal and lie, the blessing of their transaction will be erased."
+
+*(Unanimously agreed upon)*
+
+*Thus the Prophet ﷺ taught his nation that trade is worship... and that honesty is its true capital!*
+
+</div>
+
+> **This science** that the Companions learned is what you will learn in this lesson.
 
 ---
 
-## The Legitimacy of Sale
+## 📖 Definition of Sale
+
+### Linguistically
+
+Sale (bay'): exchanging one thing for another, or **giving a compensation and receiving an equivalent**.
+
+### Technically
+
+<div class="quote-box">
+
+**📜 Jurists' Definition**
+
+> **The exchange of property for property in a specific manner, or transferring ownership of a financial asset for compensation in a lawful way.**
+
+</div>
+
+---
+
+## 🌟 The Legitimacy of Sale
 
 ### From the Quran
 
-> Allah تعالى says: {And Allah has permitted trade and has forbidden usury} [Al-Baqarah: 275]
+<div class="quote-box">
 
-> Allah تعالى says: {O you who believe! Do not consume your wealth among yourselves unjustly except through trade by mutual consent} [An-Nisa: 29]
+**📜 The Verse of Permitting Sale**
 
-### From the Prophetic Sunna
+Allah تعالى said:
 
-> The Prophet ﷺ was asked: "What is the best earning?" He said: "A man's work with his own hands, and every blessed sale." [Reported by Ahmad and al-Hakim]
+> **﴿Allah has permitted sale and forbidden usury﴾**
 
-> The Prophet ﷺ said: "The truthful, trustworthy merchant will be with the prophets, the truthful, and the martyrs." [Reported by at-Tirmidhi]
+[Al-Baqarah: 275]
+
+</div>
+
+<div class="quote-box">
+
+**📜 The Verse of Mutual Consent**
+
+Allah تعالى said:
+
+> **﴿O you who believe! Do not devour your wealth among yourselves unjustly, except through trade by mutual consent﴾**
+
+[An-Nisa: 29]
+
+</div>
+
+### From the Sunnah
+
+<div class="quote-box">
+
+**📜 The Best Earning**
+
+The Prophet ﷺ was asked: Which earning is best? He said:
+
+> **"The work of a man with his own hands, and every honest sale."**
+
+*(Reported by Ahmad and al-Hakim)*
+
+</div>
+
+<div class="quote-box">
+
+**📜 The Rank of the Honest Merchant**
+
+The Prophet ﷺ said:
+
+> **"The truthful, trustworthy merchant will be with the prophets, the truthful, and the martyrs."**
+
+*(Reported by at-Tirmidhi)*
+
+</div>
 
 ### Consensus
-Muslims are unanimous on the permissibility of sale in general; disagreement only exists regarding some types.
+
+Muslims are unanimous on **the permissibility of sale in general**; disagreement exists only on certain types and details.
 
 ---
 
-## The Wisdom Behind the Legitimacy of Sale
+## 💡 The Wisdom Behind the Legitimacy of Sale
 
-1. **Achieving Exchange** — What one person has may be needed by another
-2. **Facilitating Life** — Meeting various needs
-3. **Developing Wealth** — Encouraging work and trade
-4. **Cooperation Among People** — Fulfilling society's needs
+\`\`\`
+          🎯 Why was sale legislated?
+                       │
+        ┌──────────────┼──────────────┐
+        │              │              │
+   Enable exchange   Facilitate    Develop
+   (What you have    living        wealth
+   may be needed     (Meeting      (Encouraging
+   by others)        needs)        work & trade)
+        │              │              │
+        └──────────────┼──────────────┘
+                       │
+            Cooperation among people
+            (Meeting society's needs)
+\`\`\`
 
 ---
 
-## The Pillars of Sale
+## 🏛️ Pillars of Sale
 
-### According to the Majority: Three Pillars
+### According to the Majority (Malikis, Shafi'is, and Hanbalis)
+
+\`\`\`
+              📝 The Three Pillars of Sale
+                          │
+            ┌─────────────┼─────────────┐
+            │             │             │
+    The Contracting    The Formula    The Subject
+        Parties         (Offer and     Matter
+    (Seller & Buyer)   Acceptance)   (Goods & Price)
+            │             │             │
+        Conditions    Conditions    Conditions
+        of parties    of formula    of subject
+\`\`\`
+
+### According to the Hanafis
+
+The pillar according to them is **only the formula** (offer and acceptance), the rest are conditions.
 
 | Pillar | Definition | Example |
 |--------|------------|---------|
-| The Contracting Parties | The seller and buyer | Zayd and 'Amr |
-| The Formula | The offer and acceptance | "I sold" and "I bought" |
-| The Subject of Contract | The merchandise and price | The product and money |
-
-### According to the Hanafis
-The only pillar according to them is the formula; the rest are conditions.
+| The contracting parties | The seller and buyer | Zayd sells to 'Amr |
+| The formula | Offer and acceptance | "I sold" and "I bought" |
+| The subject matter | The goods and price | The car for 50,000 |
 
 ---
 
-## Types of Legitimate Sales
+## 📋 Conditions for the Contracting Parties
 
-### 1. Free Sale (Musawamah)
-- The seller does not disclose the purchase price
-- The buyer negotiates until they agree
-
-### 2. Murabahah Sale
-- The seller discloses the purchase price and adds a known profit
-- Example: I bought it for one hundred and sell it for one hundred and twenty
-
-### 3. Tawliyah Sale
-- Selling at the same purchase price without profit or loss
-- Example: I bought it for one hundred and sell it for one hundred
-
-### 4. Wadi'ah Sale
-- Selling at less than the purchase price
-- Example: I bought it for one hundred and sell it for eighty
+| Condition | Explanation | Example |
+|-----------|-------------|---------|
+| **Sanity** | The sale of an insane person is void | — |
+| **Discernment** | A discerning child can sell with guardian's permission | 10-year-old buying candy |
+| **Maturity** | For major transactions | Real estate sale |
+| **Free will** | The sale of one coerced is void | — |
 
 ---
 
-## The Formula of Sale
+## 📦 Types of Legitimate Sales
+
+<div class="scene-box">
+
+**🔍 Every sale has its wisdom...**
+
+*In the Muslim marketplace, sales vary to meet people's different needs...*
+
+</div>
+
+### 1. Absolute Sale (Bargaining)
+
+\`\`\`
+   💬 Bargaining
+          │
+ Seller doesn't reveal ──→ Buyer bargains ──→ They agree on a price
+ purchase price
+\`\`\`
+
+**Example:** You go to the market and bargain for a product until you agree on a price.
+
+### 2. Murabaha Sale (Cost-Plus)
+
+\`\`\`
+   📈 Murabaha
+          │
+ Seller reveals  ──→  Adds a known  ──→  Final price
+ purchase price      profit
+    (100)               (20)             (120)
+\`\`\`
+
+**Example:** "I bought it for 100 and I'm selling it for 120."
+
+### 3. Tawliya Sale (At Cost)
+
+**Sale at the same purchase price** without profit or loss.
+
+**Example:** "I bought it for 100 and I'm selling it to you for 100."
+
+### 4. Wadi'a Sale (At a Loss)
+
+**Sale below the purchase price** (loss).
+
+**Example:** "I bought it for 100 and I'm selling it for 80."
+
+| Sale Type | Original Price | Sale Price | Difference |
+|-----------|----------------|------------|------------|
+| Murabaha | 100 | 120 | +20 profit |
+| Tawliya | 100 | 100 | zero |
+| Wadi'a | 100 | 80 | -20 loss |
+
+---
+
+## 📝 The Formula of Sale
 
 ### Offer and Acceptance
 
-**Offer (Ijab):** What is issued first by one of the contracting parties
-**Acceptance (Qabul):** What is issued second in agreement with the first
+<div class="quote-box">
+
+**📜 Definition**
+
+**Offer (Ijab):** What emanates **first** from one of the contracting parties.
+
+**Acceptance (Qabul):** What emanates **second** in agreement with the first.
+
+</div>
 
 ### Types of Formula
 
-1. **Verbal Formula**
-   - "I sold," "I bought," "I transferred ownership"
+\`\`\`
+            📋 Types of Sale Formula
+                        │
+          ┌─────────────┼─────────────┐
+          │             │             │
+        Verbal       Practical      Written
+      (I sold,       (Mu'ataat:    (Written
+      I bought)      exchange by   contracts,
+                     action)       correspondence)
+\`\`\`
 
-2. **Formula by Action (Mu'atah)**
-   - Exchange through action without words
-   - He pays the price and takes the merchandise
+### 1. Verbal Formula
 
-3. **Written Formula**
-   - Written contracts
-   - Commercial correspondence
+Explicit terms: **I sold, I bought, I transferred ownership**
 
-### Ruling on Sale by Action (Mu'atah)
+### 2. Practical Formula (Mu'ataat)
+
+<div class="scene-box">
+
+**🏪 Scene: At the Supermarket**
+
+*Ahmad takes a juice bottle from the shelf... puts it in front of the cashier...*
+
+*He pays the amount... and takes the juice...*
+
+*Neither of them uttered a word... but the sale is complete!*
+
+</div>
+
+This is **Mu'ataat sale** — exchange by action without words.
+
+### 3. Written Formula
+
+Written contracts, commercial correspondence, electronic contracts.
+
+### Ruling on Mu'ataat Sale
 
 | School | Ruling |
 |--------|--------|
-| Hanafis, Malikis, and Hanbalis | Permitted |
-| Shafi'is | The correct view is that it is not permitted except according to custom |
+| Hanafis, Malikis, and Hanbalis | ✅ Permissible |
+| Shafi'is | The correct view is impermissibility except for what is customary |
+
+**The preponderant view:** Permissibility because it has become customary.
 
 ---
 
-## Conclusion of the Sale
+## 🤝 Conclusion of the Sale
 
 ### Conditions for Conclusion
 
-1. **Mutual Consent**
-   > Allah تعالى says: {except through trade by mutual consent} [An-Nisa: 29]
+#### 1. Mutual Consent
 
-2. **Capacity of the Contracting Parties**
-   - Reason and discernment
+<div class="quote-box">
 
-3. **Suitability of the Subject for the Ruling**
-   - That the merchandise is property with value
+**📜 The Verse of Consent**
 
-4. **Existence of Authority**
-   - That the one disposing is an owner or agent
+> **﴿Except through trade by mutual consent﴾**
+
+[An-Nisa: 29]
+
+</div>
+
+**Note:** A sale tainted by coercion, deception, or fraud is **void**.
+
+#### 2. Capacity of the Contracting Parties
+
+- Sanity and discernment
+- Legal capacity to dispose
+
+#### 3. Validity of the Subject Matter
+
+- The merchandise must be **lawful property** legally
+- Sale of alcohol or pork is invalid
+
+#### 4. Existence of Authority
+
+- The one disposing must be the **owner** or **agent** or **guardian**
 
 ---
 
-## Sale by Gesture
+## 🤲 Sale by Sign
 
 ### Its Ruling
-- Valid from a mute person if their gesture is understandable
-- Also valid from one who can speak when there is need
+
+- ✅ Valid for the **mute** if the sign is understandable
+- ✅ Valid for **one who can speak** when needed
 
 ### Its Evidence
-> "Allah has pardoned my nation for error, forgetfulness, and what they are coerced into." [Reported by Ibn Majah]
+
+<div class="quote-box">
+
+**📜 Hadith of Ease**
+
+> **"Allah has pardoned my nation for mistakes, forgetfulness, and what they are coerced into."**
+
+*(Reported by Ibn Majah)*
+
+</div>
 
 ---
 
-## Sale Through Modern Means of Communication
+## 💻 Sale via Modern Communication Means
+
+<div class="scene-box">
+
+**📱 Scene: E-Commerce**
+
+*Sara browses a website...*
+
+*She chooses a dress... reads the description... clicks "Buy Now"...*
+
+*She pays by card... and waits for delivery...*
+
+*Is this a legally valid sale?*
+
+</div>
 
 ### Ruling on Sale by Phone and Internet
-- Permitted if conditions are fulfilled
-- Offer and acceptance through speech or writing
 
-### Rules of Electronic Commerce
-1. Precise description of the merchandise
-2. Statement of price and costs
-3. Right of cancellation upon receipt if the merchandise differs from the description
-4. Guarantee of the rights of both parties
+**✅ Permissible if legal conditions are met:**
+
+1. Accurate description of the merchandise
+2. Clear indication of price and total costs
+3. Right to cancel upon receipt if not as described
+4. Guarantee of both parties' rights
+
+### Rules of E-Commerce
+
+| Rule | Detail |
+|------|--------|
+| Accurate description | Clear photos and detailed specifications |
+| Complete price | Includes taxes and shipping |
+| Right to cancel | Right to return if non-conforming |
+| Receipt guarantee | Security and tracking system |
 
 ---
 
-## Etiquettes of Buying and Selling
+## 🌟 Ethics of Buying and Selling
 
 ### 1. Truthfulness and Honesty
-> The Prophet ﷺ said: "The two contracting parties have the option as long as they have not separated. If they are truthful and transparent, their sale will be blessed. If they conceal and lie, the blessing of their sale will be erased." [Agreed upon]
+
+<div class="quote-box">
+
+**📜 Hadith of Blessing in Truthfulness**
+
+The Prophet ﷺ said:
+
+> **"The two parties have the option as long as they haven't parted. If they are truthful and transparent, their transaction will be blessed. If they conceal and lie, the blessing will be erased."**
+
+*(Unanimously agreed upon)*
+
+</div>
 
 ### 2. Ease in Transactions
-> The Prophet ﷺ said: "May Allah have mercy on a man who is lenient when he sells, when he buys, and when he demands." [Reported by al-Bukhari]
 
-### 3. Avoiding False Oaths
-> The Prophet ﷺ said: "The oath makes the merchandise sell but erases the blessing." [Agreed upon]
+<div class="quote-box">
+
+**📜 Hadith of Ease**
+
+The Prophet ﷺ said:
+
+> **"May Allah have mercy on a man who is easy when he sells, when he buys, and when he demands payment."**
+
+*(Reported by al-Bukhari)*
+
+</div>
+
+### 3. Not Making False Oaths
+
+<div class="quote-box">
+
+**📜 Hadith Condemning Oaths**
+
+The Prophet ﷺ said:
+
+> **"Swearing sells the merchandise, but erases the blessing."**
+
+*(Unanimously agreed upon)*
+
+</div>
 
 ### 4. Abandoning Blameworthy Greed
+
 - Being content with reasonable profit
 - Not exploiting people's needs
+- Avoiding excessive prices
 
 ---
 
-## 📖 Stories from the Salaf: The Honesty of al-Hasan al-Basri in Sales
+## 📖 Stories from the Pious Predecessors: The Honesty of al-Hasan al-Basri
 
-It is narrated that al-Hasan al-Basri رحمه الله wanted to sell a donkey he owned, and a man came wanting to buy it.
+<div class="scene-box">
 
-Al-Hasan asked him: **"Do you want it for carrying loads or for riding?"**
+**🎬 Story: The Scholar's Integrity**
 
-The man said: For riding.
+*It is narrated that al-Hasan al-Basri, may Allah have mercy on him, wanted to sell his donkey...*
 
-Al-Hasan said: **"Then it is not suitable for you, for it is good for carrying loads but not for riding—its back is weak."**
+*A man came wanting to buy it.*
 
-The man was amazed at his honesty and trustworthiness, and said: I have never seen a seller more truthful than you!
+**Al-Hasan:** "Do you want it for carrying loads or for riding?"
 
-Al-Hasan said: **"Woe to you! Do you think I would hide a defect in my merchandise from you? This is not what a Muslim does."**
+**The man:** For riding.
 
-**The lesson:** Truthfulness in disclosure is the foundation of Islamic trade, and it is the cause of blessing, as the Prophet ﷺ said: "If they are truthful and transparent, their sale will be blessed."
+**Al-Hasan:** "Then it's not suitable for you! It's good for carrying but not for riding; its back is weak."
+
+*The man was amazed at his honesty and integrity...*
+
+**The man:** I have never seen a seller more honest than you!
+
+**Al-Hasan:** "Woe to you! Do you think I would hide a defect in my merchandise from you? A Muslim doesn't do that!"
+
+</div>
+
+**The lesson:** Honesty in disclosure is the foundation of Islamic commerce, and it is the cause of blessing.
 
 ---
 
-## 🎯 Contemporary Cases: Applied Sale Rulings
+## 🎯 Contemporary Cases — Test Your Understanding!
 
-### Case 1: Sale by Exchange in a Store
-**Question**: Samir took a product from the shelf and put its price in the self-checkout without speaking to anyone. Is this sale valid?
+### Case 1: Mu'ataat Sale
 
-**Answer**: ✅ Yes, this is sale by mutual exchange (mu'atah), which is permitted according to the majority of scholars because custom has established it and the pillars of sale—consent and delivery—are achieved.
+<div class="scene-box">
 
-### Case 2: Online Shopping
-**Question**: Fatima bought a dress from a website based on pictures and description. Upon receipt, she found it different. What are her rights?
+**Samir** took a product from the shelf and put its price in the self-checkout without speaking to anyone.
 
-**Answer**: ✅ She has the right of cancellation because the merchandise did not match the description. This is from the option of viewing or the option of defect. The seller must describe the merchandise precisely to prevent uncertainty.
+**Question:** Is this a valid sale?
+
+</div>
+
+**Answer:** ✅ Yes, this is a **Mu'ataat sale** which is permissible according to the majority of scholars, as it has become customary and the pillars of sale are fulfilled.
+
+---
+
+### Case 2: Online Sale
+
+<div class="scene-box">
+
+**Fatima** bought a dress from a website based on photos and description.
+
+Upon receipt, she found it **different from the description**!
+
+**Question:** What is her right?
+
+</div>
+
+**Answer:** ✅ She has the **right to cancel** because the merchandise didn't match the description. This is the **option of inspection** or **option of defect**.
+
+<div class="quote-box">
+
+The seller must **describe the merchandise accurately** to prevent uncertainty, otherwise the buyer has the option.
+
+</div>
+
+---
 
 ### Case 3: Swearing to Promote Merchandise
-**Question**: A merchant falsely swears that this merchandise is the best or that he bought it at a higher price, to attract the buyer. What is the ruling?
 
-**Answer**: ❌ This is severely prohibited; it is the false oath that plunges its taker into the Fire. The Prophet ﷺ said: "The oath makes the merchandise sell but erases the blessing."
+<div class="scene-box">
 
-### Case 4: Murabahah in Banks
-**Question**: A bank buys a car then sells it to the customer with an additional markup in installments. Is this usury?
+**The merchant** falsely swears that this merchandise is the best, or that he bought it for a higher price, **to attract the buyer**.
 
-**Answer**: ✅ If the bank truly owns the merchandise then sells it at a known deferred price, this is the permissible murabahah sale. What is prohibited is nominal ownership or selling what one has not possessed.
+**Question:** What is the ruling?
 
-### Case 5: Pricing Products
-**Question**: Is it permissible for the government to set prices on essential goods to protect consumers?
+</div>
 
-**Answer**: ✅ Pricing is permitted when needed to remove harm from people, especially in monopoly situations. Scholars have differed, but the preponderant view is its permissibility for the public interest.
+**Answer:** ❌ This is **strictly forbidden**! It is the **immersing oath** that immerses its maker in the Fire.
+
+<div class="quote-box">
+
+The Prophet ﷺ said: **"Swearing sells the merchandise, but erases the blessing."**
+
+</div>
 
 ---
 
-## 💡 Pause and Reflect
+### Case 4: Murabaha in Banks
 
-**Question for reflection**: Imagine you are selling merchandise with a hidden defect that the buyer doesn't know about and won't discover. Would you tell them? Why?
+<div class="scene-box">
 
-**Remember:**
-- Allah sees you when people don't
+**The Islamic bank** buys a car for 40,000, then sells it to the customer for 50,000 in installments.
+
+**Question:** Is this usury?
+
+</div>
+
+**Answer:** ✅ If the bank owns the merchandise **actually** then sells it for a known deferred price, this is **permissible Murabaha**.
+
+**The forbidden:** That the ownership be **fictitious** or that it sells **what it hasn't received**.
+
+---
+
+### Case 5: Price Fixing
+
+<div class="scene-box">
+
+**The government** wants to fix prices of basic commodities to protect consumers from exploitation.
+
+**Question:** Is price fixing permissible?
+
+</div>
+
+**Answer:** ✅ Price fixing is permissible **when needed** to repel harm from people, especially in cases of **monopoly**.
+
+<div class="quote-box">
+
+**The principle:** "No harm shall be inflicted or reciprocated."
+
+</div>
+
+---
+
+## 💎 Lesson Summary
+
+| Element | Detail |
+|---------|--------|
+| **Definition of sale** | Exchange of property for property in a lawful manner |
+| **Its pillars** | Contracting parties, formula, subject matter |
+| **Its types** | Bargaining, Murabaha, Tawliya, Wadi'a |
+| **The formula** | Verbal, practical (Mu'ataat), written |
+| **Its ethics** | Truthfulness, ease, not swearing |
+
+---
+
+## 🤔 Pause and Reflect
+
+<div class="scene-box">
+
+**Question to ponder:**
+
+Imagine you're selling merchandise with a **hidden defect** that the buyer doesn't know about and won't discover...
+
+**Will you tell them? Why?**
+
+</div>
+
+<div class="quote-box">
+
+**📜 Always Remember**
+
+- Allah sees you when people don't see you
 - "The truthful, trustworthy merchant will be with the prophets, the truthful, and the martyrs"
-- Blessing is in truthfulness, not in abundance of wealth
-- "Whoever cheats us is not one of us"
+- Blessing is in honesty, not in abundance of money
+- "Whoever deceives us is not one of us"
+
+</div>
 
 ---
 
-*My Lord, increase me in knowledge*`;
+**O Lord, increase me in knowledge!** 📖`;
