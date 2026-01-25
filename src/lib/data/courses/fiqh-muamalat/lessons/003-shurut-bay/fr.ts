@@ -1,249 +1,575 @@
-export const contentFr = `# Les Conditions de la Vente
+export const contentFr = `# ⚖️ Les Conditions de la Vente — Les règles qui protègent vos contrats
 
-## Introduction
+<div class="scene-box">
 
-Les conditions de la vente sont les éléments qui doivent être réunis pour la validité et l'obligation du contrat. Elles se divisent en conditions de validité et conditions d'obligation.
+**🎬 Scène d'ouverture : Une leçon à la mosquée de Koufa**
 
-> Le Prophète ﷺ a dit : "Les musulmans sont tenus par leurs conditions, sauf une condition qui rend licite l'illicite ou illicite le licite." [Rapporté par Abu Dawud et at-Tirmidhi]
+*Mosquée de Koufa... Un cercle de savoir entoure l'Imam Ibrahim an-Nakha'i, qu'Allah lui fasse miséricorde...*
+
+*Un jeune homme entre en hâte... s'assoit dans le cercle...*
+
+**Le jeune homme :** Ô Imam, je veux aller au marché pour commercer !
+
+**L'Imam Ibrahim :** As-tu appris les règles de la vente ?
+
+**Le jeune homme :** Non... Je les apprendrai par la pratique !
+
+*L'Imam se lève et dit fermement :*
+
+**L'Imam Ibrahim :** « Celui qui entre au marché sans connaissance du fiqh mangera l'usure, qu'il le veuille ou non ! »
+
+*Silence dans le cercle... puis l'Imam continue :*
+
+**L'Imam Ibrahim :** « Apprends les conditions de la vente avant de vendre... car combien de contrats ont une apparence valide mais un fond corrompu ! »
+
+</div>
+
+> **Cette leçon** t'enseignera les conditions qui rendent tes contrats valides ici-bas et dans l'au-delà.
 
 ---
 
-## Les Catégories de Conditions de la Vente
+## 📖 Introduction : Pourquoi les conditions ?
 
-### La Division Principale
+<div class="quote-box">
 
-1. **Conditions de conclusion** — Ce dont dépend l'existence du contrat
-2. **Conditions de validité** — Ce dont dépend la production des effets
-3. **Conditions d'exécution** — Ce dont dépend l'exécution du contrat
-4. **Conditions d'obligation** — Ce dont dépend la stabilité du contrat
+**📜 Le hadith fondamental**
+
+Le Prophète ﷺ a dit :
+
+> **« Les musulmans sont liés par leurs conditions, sauf une condition qui rend licite l'illicite ou illicite le licite. »**
+
+*(Rapporté par Abu Dawud et at-Tirmidhi)*
+
+</div>
+
+**Les conditions dans la vente ont deux fonctions :**
+
+1. **Protection des droits** — Prévenir l'injustice et la fraude
+2. **Garantie du consentement** — Assurer le vrai consentement mutuel
 
 ---
 
-## Les Conditions des Contractants (Vendeur et Acheteur)
+## 📋 Catégories des conditions de la vente
 
-### Première Condition : La Raison
+\`\`\`
+            ⚖️ Catégories des Conditions de Vente
+                         │
+          ┌──────────────┼──────────────┐
+          │              │              │
+  Conditions de     Conditions de   Conditions de
+  Conclusion        Validité        Caractère
+  (Ce dont dépend   (Ce dont dépend (Ce dont dépend
+  l'existence       la production   la fermeté
+  du contrat)       des effets)     du contrat)
+          │              │              │
+  Si absentes :     Si absentes :   Si absentes :
+  Vente nulle       Vente viciée    Vente valide
+                                    mais résiliable
+\`\`\`
 
-| Situation | Jugement |
-|-----------|----------|
-| Le fou | Son contrat n'est absolument pas valide |
-| L'ivre | Son contrat n'est pas valide selon l'avis correct |
-| Le dormeur | Son contrat n'est pas valide |
-| L'évanoui | Son contrat n'est pas valide |
+---
 
-### Deuxième Condition : La Majorité ou le Discernement
+## 👥 Conditions des contractants (vendeur et acheteur)
 
-**L'enfant sans discernement :**
-- Son acte n'est absolument pas valide
+### Première condition : La raison 🧠
 
-**L'enfant avec discernement :**
-- Valide dans les petites transactions selon certains savants
-- Dépend de l'autorisation du tuteur en général
+<div class="scene-box">
 
-### Troisième Condition : La Maturité
+**🎬 Scène : Au magasin**
 
-> Allah تعالى dit : {Et éprouvez les orphelins jusqu'à ce qu'ils atteignent l'âge du mariage. Si vous leur trouvez alors de la maturité, remettez-leur leurs biens} [An-Nisa : 6]
+*Un homme inconscient à cause de l'ivresse entre dans un magasin...*
 
-- La maturité : la bonne gestion de l'argent
-- Le prodigue : il est interdit de gérer ses biens
+*Il désigne un article et donne de l'argent...*
 
-### Quatrième Condition : Le Libre Arbitre
+**Le propriétaire :** Est-ce une vente valide ?
 
-> Allah تعالى dit : {sauf s'il s'agit d'un commerce consenti mutuellement} [An-Nisa : 29]
+</div>
+
+**Réponse :** ❌ Non, car **la raison est une condition** chez le contractant.
+
+| État | Jugement |
+|------|----------|
+| **Le fou** | ❌ Son contrat est invalide absolument |
+| **L'ivre** | ❌ Son contrat est invalide selon l'avis correct |
+| **Le dormeur** | ❌ Son contrat est invalide |
+| **L'évanoui** | ❌ Son contrat est invalide |
+
+### Deuxième condition : Le discernement et la majorité 👦
+
+\`\`\`
+           📊 Les dispositions de l'enfant
+                       │
+        ┌──────────────┼──────────────┐
+        │              │              │
+  Enfant non       Enfant          Adulte
+  discernant       discernant      responsable
+  (moins de 7 ans) (7-15 ans)      (plus de 15)
+        │              │              │
+  ❌ Invalide      🔶 Valide pour  ✅ Valide
+     absolument    les petites     absolument
+                   transactions
+                   avec permission
+\`\`\`
+
+<div class="scene-box">
+
+**🎬 Scène : L'enfant et l'épicerie**
+
+*Ahmad (10 ans) va à l'épicerie avec la permission de son père pour acheter du pain...*
+
+**Question :** Cette vente est-elle valide ?
+
+</div>
+
+**Réponse :** ✅ Oui, car c'est un **enfant discernant** et la transaction est **mineure et autorisée**.
+
+### Troisième condition : La maturité financière 💰
+
+<div class="quote-box">
+
+**📜 Le verset de la maturité**
+
+Allah تعالى a dit :
+
+> **﴿Éprouvez les orphelins jusqu'à ce qu'ils atteignent l'âge du mariage. Si vous leur trouvez de la maturité, remettez-leur leurs biens﴾**
+
+[An-Nissa : 6]
+
+</div>
+
+**La maturité (rushd) :** Bonne gestion des biens.
+
+**Le prodigue (safih) :** Celui qui gaspille ses biens — on lui interdit de disposer.
+
+### Quatrième condition : Le libre arbitre (consentement) 🤝
+
+<div class="quote-box">
+
+**📜 Le verset du consentement mutuel**
+
+Allah تعالى a dit :
+
+> **﴿Sauf s'il s'agit d'un commerce par consentement mutuel﴾**
+
+[An-Nissa : 29]
+
+</div>
 
 **Types de contrainte :**
 
-| Type | Définition | Jugement |
-|------|------------|----------|
-| Contrainte forcée | Menace de mort ou de mutilation | Annule le contrat |
-| Contrainte non forcée | Menace de coups ou d'emprisonnement | Annule le contrat selon la majorité |
+| Type | Définition | Exemple | Jugement |
+|------|------------|---------|----------|
+| **Contrainte absolue** | Menace de mort ou mutilation | « Vends ou je te tue ! » | ❌ Annule le contrat |
+| **Contrainte relative** | Menace de frapper ou emprisonner | « Vends ou je t'emprisonne ! » | ❌ Annule selon la majorité |
 
 ---
 
-## Les Conditions de l'Objet du Contrat (La Marchandise)
+## 📦 Conditions de la marchandise (objet du contrat)
 
-### Première Condition : Que la marchandise existe
+### Première condition : L'existence 🔍
 
-- La vente de ce qui n'existe pas n'est pas valide
-- La vente du fœtus n'est pas valide
-- La vente de ce qui n'est pas encore créé n'est pas valide
+<div class="scene-box">
 
-**L'exception :**
-- La vente Salam : vente d'une chose décrite à recevoir contre un prix payé comptant
-> Le Prophète ﷺ a dit : "Celui qui fait un salam, qu'il le fasse pour une mesure connue, un poids connu, jusqu'à un terme connu." [Rapporté par al-Bukhari et Muslim]
+**🎬 Scène : Vente de l'inexistant**
 
-### Deuxième Condition : Que la marchandise soit un bien ayant valeur
+**Le vendeur :** Je te vends le fœtus dans le ventre de cette vache pour mille !
 
-**Le bien ayant valeur :** Ce dont il est permis de profiter légalement
+**L'acheteur :** Quand naîtra-t-il ?
 
-**Ce qui ne peut être vendu :**
-- Le vin et le porc
-- La charogne (sauf le cuir tanné selon certains)
-- Les instruments de divertissement interdits
-- Les drogues
+**Le vendeur :** Je ne sais pas... peut-être dans un mois ou deux !
 
-> Le Prophète ﷺ a dit : "Quand Allah interdit une chose, Il interdit son prix." [Rapporté par Ahmad et Abu Dawud]
+</div>
 
-### Troisième Condition : Que la marchandise appartienne au vendeur
+**Réponse :** ❌ **Invalide** — C'est la vente de l'inexistant.
 
-- La vente de ce qu'on ne possède pas n'est pas valide
-- La vente par le mandataire et le tuteur avec permission est permise
+**Ce qu'on ne peut pas vendre :**
 
-> Le Prophète ﷺ a dit : "Ne vends pas ce que tu ne possèdes pas." [Rapporté par Abu Dawud et at-Tirmidhi]
+- ❌ Le fœtus dans le ventre (avant la naissance)
+- ❌ Ce qui n'a pas encore été créé
+- ❌ Les fruits avant leur maturité (sauf condition de cueillette)
 
-### Quatrième Condition : La Capacité de Livraison
+**Exception : La vente Salam**
 
-**Ce qui ne peut être vendu par incapacité :**
-- L'oiseau dans l'air
-- Le poisson dans l'eau
-- L'esclave fugitif
-- Le bien usurpé à celui qui ne peut le récupérer
+<div class="quote-box">
 
-### Cinquième Condition : La Connaissance de la Marchandise
+**📜 Hadith du Salam**
 
-**Les moyens de connaître la marchandise :**
-1. La vision directe
-2. La description précise
-3. L'échantillon (le modèle)
+Le Prophète ﷺ a dit :
 
-**Ce qui ne peut être vendu pour ignorance :**
-- La vente par caillou
-- La vente par toucher
-- La vente par jet
+> **« Celui qui fait un paiement anticipé, qu'il le fasse pour une mesure connue, un poids connu, jusqu'à un terme connu. »**
 
-> Le Prophète ﷺ a interdit la vente par caillou et la vente d'incertitude. [Rapporté par Muslim]
+*(Unanimement reconnu)*
 
----
+</div>
 
-## Les Conditions du Prix
+### Deuxième condition : Être un bien licite 💎
 
-### Première Condition : Qu'il soit connu
+**Bien licite (mutaqawwam) :** Ce dont l'usage est permis légalement.
 
-- Connaissance du genre, de la quantité et de la qualité
-- L'ignorance invalide la vente
+\`\`\`
+        🚫 Ce qu'on ne peut pas vendre (non licite)
+                        │
+        ┌───────┬───────┼───────┬───────┐
+        │       │       │       │       │
+     Alcool  Porc    Charogne  Drogues  Instruments
+        │       │       │       │       de
+        └───────┴───────┴───────┴───────┘  divertissement
+                        │                   interdits
+           Tous interdits d'usage = non vendables
+\`\`\`
 
-### Deuxième Condition : Qu'il soit possible de le livrer
+<div class="quote-box">
 
-- Comme la marchandise dans l'exigence de la capacité de livraison
+**📜 Hadith de l'interdiction du prix**
 
-### Troisième Condition : Qu'il appartienne à l'acheteur
+Le Prophète ﷺ a dit :
 
-- Au moment de la livraison ou par la capacité de l'obtenir
+> **« Quand Allah interdit une chose, Il interdit son prix. »**
 
----
+*(Rapporté par Ahmad et Abu Dawud)*
 
-## Les Conditions de la Formule
+</div>
 
-### Première Condition : La Correspondance entre l'Offre et l'Acceptation
+### Troisième condition : La propriété du vendeur 🔑
 
-**Les cas de non-correspondance :**
-- Différence sur la marchandise
-- Différence sur le prix
-- Différence sur le délai
+<div class="quote-box">
 
-### Deuxième Condition : La Continuité entre l'Offre et l'Acceptation
+**📜 Hadith interdisant de vendre ce qu'on ne possède pas**
 
-- Pas de longue séparation entre elles
-- Une courte séparation ne nuit pas
+Le Prophète ﷺ a dit :
 
-### Troisième Condition : L'Absence de Suspension
+> **« Ne vends pas ce que tu ne possèdes pas. »**
 
-- Le principe dans la vente est l'exécution immédiate
-- La suspension à une condition : divergence entre les savants
+*(Rapporté par Abu Dawud et at-Tirmidhi)*
 
----
+</div>
 
-## Les Stipulations dans la Vente
+**Exception :** Le mandataire et le tuteur — ils vendent avec autorisation.
 
-### Les Stipulations Valides
+### Quatrième condition : La capacité de livraison 🚚
 
-1. **Stipulation requise par le contrat**
-   - Exemple : la garantie de la marchandise à la charge du vendeur avant la livraison
+<div class="scene-box">
 
-2. **Stipulation dans l'intérêt du contrat**
-   - Exemple : exiger un gage ou un garant
+**🎬 Scène : Vente de l'impossible à livrer**
 
-3. **Stipulation d'une qualité souhaitée**
-   - Exemple : exiger que la voiture soit d'une couleur spécifique
+**Le vendeur :** Je te vends ce pigeon qui vole dans le ciel !
 
-### Les Stipulations Invalides
+**L'acheteur :** Comment le prendre ?!
 
-1. **Stipulation contradictoire avec le contrat**
-   - Exemple : exiger que l'acheteur ne revende pas
+**Le vendeur :** C'est ton problème !
 
-2. **Stipulation rendant licite l'illicite ou vice versa**
-   - Exemple : exiger l'usure
+</div>
 
-3. **Stipulation d'incertitude**
-   - Exemple : exiger ce qui ne peut être accompli
+**Réponse :** ❌ **Nul** — On ne peut vendre ce qu'on ne peut livrer.
 
----
+**Exemples d'invalidité :**
 
-## L'Effet du Manque de Conditions
+| Objet vendu | Raison |
+|-------------|--------|
+| L'oiseau dans le ciel | Impossible à attraper |
+| Le poisson dans l'eau | Impossible à saisir |
+| L'esclave fugitif | Introuvable |
+| Le bien usurpé | Impossible à récupérer |
 
-| Condition manquante | Effet |
-|---------------------|-------|
-| Condition de conclusion | La vente est nulle |
-| Condition de validité | La vente est viciée |
-| Condition d'exécution | La vente est suspendue |
-| Condition d'obligation | La vente est valide mais non obligatoire |
+### Cinquième condition : La connaissance de la marchandise 📋
 
----
+<div class="quote-box">
 
-## 📖 Récit des Salaf : La piété de l'Imam Ahmad concernant les conditions de vente
+**📜 Hadith interdisant l'incertitude**
 
-Il est rapporté qu'un homme vint voir l'Imam Ahmad ibn Hanbal رحمه الله pour lui poser une question sur une vente.
+Le Prophète ﷺ a dit :
 
-Il dit : J'ai acheté une marchandise d'un homme, puis j'ai découvert qu'il avait été contraint de vendre par son créancier.
+> **Il a interdit la vente aux cailloux et la vente d'incertitude (gharar).**
 
-L'Imam Ahmad dit : **"La vente du contraint n'est pas valide, car le consentement mutuel est une condition. Rends-lui son bien et reprends ton prix."**
+*(Rapporté par Muslim)*
 
-L'homme dit : Mais je ne savais pas qu'il était contraint au moment de l'achat !
+</div>
 
-L'Imam dit : **"Est-ce que cela te nuit de rendre le droit à son propriétaire ? Le Prophète ﷺ a dit : Rends le dépôt à celui qui te l'a confié, et ne trahis pas celui qui t'a trahi."**
+**Moyens de connaître la marchandise :**
 
-**La leçon à retenir :** Les conditions de vente ont été établies pour protéger les droits et repousser l'injustice. Le commerçant musulman veille à la validité de ses contrats, pas seulement à leur apparence.
+| Moyen | Exemple |
+|-------|---------|
+| **Vision directe** | J'ai vu la voiture et l'ai inspectée |
+| **Description précise** | Description détaillée des spécifications |
+| **Échantillon** | Échantillon de la marchandise |
+
+**Ventes de la Jahiliyya interdites (pour ignorance) :**
+
+| Vente | Description |
+|-------|-------------|
+| **Vente aux cailloux** | Lance le caillou, ce sur quoi il tombe est à toi |
+| **Vente au toucher** | Ce que tu touches est à toi pour tel prix |
+| **Vente par jet** | Ce que je te jette est à toi |
 
 ---
 
-## 🎯 Cas pratiques contemporains
+## 💵 Conditions du prix
 
-### Cas 1 : Acheter à un enfant
-**Question** : Un père envoie son fils (10 ans) acheter du pain à l'épicerie. Cette vente est-elle valide ?
+\`\`\`
+             💰 Conditions du Prix
+                      │
+        ┌─────────────┼─────────────┐
+        │             │             │
+    Être connu    Être livrable   Être possédé
+    (nature,      (capacité de    ou accessible
+    quantité,     paiement)
+    qualité)
+\`\`\`
 
-**Réponse** : ✅ Oui, elle est valide selon de nombreux savants car l'enfant est doué de discernement, la transaction est mineure et autorisée par l'usage de la part du tuteur, et c'est ainsi que les musulmans ont toujours pratiqué.
+**L'ignorance du prix vicie la vente !**
+
+<div class="scene-box">
+
+**🎬 Scène : Le prix inconnu**
+
+**Le vendeur :** Je te vends la voiture au prix que tu jugeras convenable !
+
+**L'acheteur :** Donc je paie ce que je veux ?
+
+</div>
+
+**Réponse :** ❌ **Invalide** — Le prix est inconnu.
+
+---
+
+## 📝 Conditions de la formule
+
+### 1. La concordance entre l'offre et l'acceptation
+
+\`\`\`
+       ✅ Concordance                   ❌ Discordance
+             │                               │
+  Vendeur : Je te vends           Vendeur : Je te vends
+  la voiture pour 50 000          la voiture pour 50 000
+             │                               │
+  Acheteur : J'accepte            Acheteur : J'accepte
+             pour 50 000                     pour 40 000
+             │                               │
+        = Vente valide                 = Pas de contrat
+\`\`\`
+
+### 2. La continuité entre l'offre et l'acceptation
+
+- Pas de long intervalle entre elles
+- Un court intervalle ne nuit pas
+
+### 3. L'absence de suspension à une condition future
+
+- Le principe dans la vente est **l'immédiateté**
+- La suspension à une condition inconnue : **désaccord** entre les savants
+
+---
+
+## 📋 Les conditions dans la vente (ce qu'impose une partie)
+
+\`\`\`
+            📋 Types de Conditions dans la Vente
+                          │
+            ┌─────────────┼─────────────┐
+            │             │             │
+   Conditions       Conditions      Conditions
+   valides          viciées         qui vicient
+   (obligatoires)   (s'annulent     le contrat
+            │        seules)             │
+   Doivent être     La condition    La vente est
+   respectées       s'annule,       nulle
+                    la vente reste
+\`\`\`
+
+### Conditions valides ✅
+
+| Type | Exemple |
+|------|---------|
+| **Condition implicite** | Garantie de la marchandise par le vendeur avant livraison |
+| **Condition d'intérêt** | Exiger une caution ou un garant |
+| **Condition de qualité** | Exiger une couleur spécifique pour la voiture |
+| **Condition de service** | Exiger la livraison à domicile |
+
+### Conditions viciées ❌
+
+| Type | Exemple |
+|------|---------|
+| **Condition contradictoire** | Interdire à l'acheteur de revendre ou de donner |
+| **Condition illicite** | Stipuler de l'usure ou de l'incertitude |
+| **Condition irréalisable** | Stipuler l'impossible |
+
+---
+
+## 📊 Effet de l'absence des conditions
+
+| Condition absente | Effet sur le contrat | Exemple |
+|-------------------|----------------------|---------|
+| **Condition de conclusion** | Vente **nulle** dès l'origine | Vente du fou |
+| **Condition de validité** | Vente **viciée** (rectifiable) | Vente de l'inconnu |
+| **Condition d'exécution** | Vente **suspendue** (attend l'approbation) | Vente du non-propriétaire |
+| **Condition de fermeté** | Vente **valide mais résiliable** | Vente avec option |
+
+---
+
+## 📖 Des histoires des pieux prédécesseurs : La piété de l'Imam Ahmad
+
+<div class="scene-box">
+
+**🎬 Histoire : Honnêteté dans les conditions**
+
+*Un homme vint voir l'Imam Ahmad ibn Hanbal, qu'Allah lui fasse miséricorde...*
+
+**L'homme :** Ô Imam, j'ai acheté une marchandise d'un homme, puis j'ai découvert qu'il était **contraint** de vendre par son créancier !
+
+**L'Imam Ahmad :** « La vente du contraint n'est pas valide, car le consentement est une condition. **Rends-lui son bien et reprends ton argent.** »
+
+**L'homme :** Mais je ne savais pas qu'il était contraint au moment de l'achat !
+
+**L'Imam Ahmad :** « Cela te nuit-il de rendre le droit à son propriétaire ? Le Prophète ﷺ a dit : **Restitue le dépôt à celui qui te l'a confié, et ne trahis pas celui qui t'a trahi.** »
+
+</div>
+
+**La leçon :** Les conditions de la vente ont été établies pour protéger les droits. Le commerçant musulman veille à la **validité de ses contrats**, pas seulement à leur apparence.
+
+---
+
+## 🎯 Cas contemporains — Teste ta compréhension !
+
+### Cas 1 : Achat par un enfant
+
+<div class="scene-box">
+
+Un **père** a envoyé son fils (**10 ans**) acheter du pain à l'épicerie.
+
+**Question :** Cette vente est-elle valide ?
+
+</div>
+
+**Réponse :** ✅ Oui, car :
+- L'enfant est **discernant**
+- La transaction est **mineure**
+- Elle est **autorisée** coutumièrement par le tuteur
+
+---
 
 ### Cas 2 : La vente avec arrhes
-**Question** : Zayd a versé des arrhes pour réserver un appartement, puis s'est rétracté. A-t-il droit au remboursement des arrhes ?
 
-**Réponse** : ❌ Il n'y a pas droit selon l'avis le plus correct, car les arrhes sont la contrepartie de la rétention du bien pour lui. La vente avec arrhes a été autorisée par les Hanbalites et l'Académie du Fiqh. Les arrhes sont déduites du prix si la vente est conclue, et le vendeur les garde si la vente n'est pas conclue.
+<div class="scene-box">
+
+**Zayd** a versé des arrhes (5000) pour réserver un appartement à 200 000.
+
+Puis il s'est **rétracté** et n'a pas finalisé l'achat.
+
+**Question :** A-t-il droit au remboursement des arrhes ?
+
+</div>
+
+**Réponse :** ❌ Non, selon l'avis prépondérant.
+
+<div class="quote-box">
+
+**📜 Règle des arrhes**
+
+- Les arrhes sont **permises** selon les Hanbalites et le Conseil du Fiqh
+- Si la vente est conclue : elles sont déduites du prix
+- Sinon : le vendeur les garde (compensation pour avoir réservé le bien)
+
+</div>
+
+---
 
 ### Cas 3 : Vente d'une voiture hypothéquée
-**Question** : Ali a vendu sa voiture alors qu'elle était hypothéquée à la banque sans informer l'acheteur. Quel est le jugement ?
 
-**Réponse** : ❌ La vente est viciée car le bien hypothéqué est grevé du droit d'autrui, et le vendeur ne peut pas effectuer une livraison complète. Il faut d'abord lever l'hypothèque ou informer l'acheteur pour qu'ils s'entendent.
+<div class="scene-box">
 
-### Cas 4 : L'achat à tempérament à un prix plus élevé
-**Question** : Le prix du téléphone au comptant est 1000 riyals, et à tempérament 1200 riyals. Est-ce de l'usure ?
+**Ali** a vendu sa voiture alors qu'elle était **hypothéquée à la banque** sans en informer l'acheteur.
 
-**Réponse** : ✅ Non, c'est permis si le prix est fixé au moment du contrat. Ce qui est interdit, c'est de dire : "Prends-le à mille comptant ou mille deux cents à tempérament" sans préciser, car ce serait deux ventes en une.
+**Question :** Quel est le jugement ?
+
+</div>
+
+**Réponse :** ❌ La vente est **viciée**.
+
+**Raison :**
+- Le bien hypothéqué est grevé d'un droit d'autrui
+- Le vendeur ne peut pas faire la livraison complète
+
+**Solution :** Lever l'hypothèque d'abord ou informer l'acheteur.
+
+---
+
+### Cas 4 : Achat à tempérament à un prix plus élevé
+
+<div class="scene-box">
+
+Prix du téléphone **au comptant : 1000 €**
+
+Prix **à tempérament : 1200 €**
+
+**Question :** Est-ce de l'usure ?
+
+</div>
+
+**Réponse :** ✅ **Non, c'est permis** — si le prix est déterminé au moment du contrat.
+
+<div class="quote-box">
+
+**📜 Ce qui est interdit :**
+
+Dire : « Prends-le pour 1000 au comptant ou 1200 à tempérament » **sans préciser** lequel — car c'est **deux ventes en une**.
+
+</div>
+
+---
 
 ### Cas 5 : Vendre ce qu'on ne possède pas
-**Question** : Le commerçant a promis au client de lui vendre une marchandise demain alors qu'il ne l'a pas encore achetée au fournisseur. Quel est le jugement ?
 
-**Réponse** : ❌ Il n'est pas permis de vendre avant de posséder. Le correct est de prendre une promesse (non contraignante) puis d'acheter puis de vendre. Ou d'utiliser le contrat Salam avec ses conditions.
+<div class="scene-box">
+
+**Le commerçant** a promis au client de lui vendre une marchandise **demain** alors qu'il ne l'a **pas encore achetée** au fournisseur.
+
+**Question :** Quel est le jugement ?
+
+</div>
+
+**Réponse :** ❌ **Interdit** — vendre avant de posséder.
+
+**Alternatives correctes :**
+1. **Promesse non contraignante** — puis il achète puis il vend
+2. **Contrat Salam** — avec ses conditions
 
 ---
 
-## 💡 Pause réflexion
+## 💎 Résumé de la leçon
 
-**Question personnelle** : Si vous savez que le contrat que vous concluez a un défaut légal mais qu'il est "légal" au sens juridique, le concluez-vous ?
-
-**Rappel :**
-- Le jugement religieux prime sur le droit positif
-- "Les musulmans sont tenus par leurs conditions, sauf une condition qui rend licite l'illicite ou illicite le licite"
-- Apprenez les conditions avant d'entrer dans les contrats
-- Parmi les Salaf, certains apprenaient les règles de la vente avant d'entrer au marché
+| Élément | Détail |
+|---------|--------|
+| **Conditions des contractants** | Raison, discernement, maturité, libre arbitre |
+| **Conditions de la marchandise** | Existence, licéité, propriété, capacité, connaissance |
+| **Conditions du prix** | Connaissance, capacité, propriété |
+| **Conditions de la formule** | Concordance, continuité, non-suspension |
+| **Effet de l'absence** | Nullité, vice ou suspension |
 
 ---
 
-*Ô Seigneur, augmente ma science*`;
+## 🤔 Pause et réflexion
+
+<div class="scene-box">
+
+**Question à méditer :**
+
+Si tu sais que le contrat que tu conclus a un **défaut légal** mais qu'il est **légal**...
+
+**Le conclus-tu ?**
+
+</div>
+
+<div class="quote-box">
+
+**📜 Rappelle-toi toujours**
+
+- Le jugement religieux prime sur la loi positive
+- « Les musulmans sont liés par leurs conditions sauf une qui rend licite l'illicite ou illicite le licite »
+- Apprends les conditions **avant** d'entrer dans les contrats
+- Parmi les pieux prédécesseurs, certains **apprenaient les règles de la vente avant d'entrer au marché**
+
+</div>
+
+---
+
+**Ô Seigneur, augmente ma science !** 📖`;

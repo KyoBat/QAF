@@ -1,249 +1,576 @@
-export const contentEn = `# Conditions of Sale
+export const contentEn = `# ⚖️ Conditions of Sale — The Rules That Protect Your Contracts
 
-## Introduction
+<div class="scene-box">
 
-The conditions of sale are the elements that must be present for the validity and binding nature of the contract. They are divided into conditions of validity and conditions of obligation.
+**🎬 Opening Scene: A Lesson at Kufa Mosque**
 
-> The Prophet ﷺ said: "Muslims are bound by their conditions, except a condition that makes lawful what is unlawful or unlawful what is lawful." [Reported by Abu Dawud and at-Tirmidhi]
+*Kufa Mosque... A circle of knowledge surrounds Imam Ibrahim an-Nakha'i, may Allah have mercy on him...*
 
----
+*A young man rushes in... sits in the circle...*
 
-## Categories of Sale Conditions
+**The Young Man:** O Imam, I want to go to the market to trade!
 
-### The Main Division
+**Imam Ibrahim:** Have you learned the rules of buying and selling?
 
-1. **Conditions of Conclusion** — What the existence of the contract depends on
-2. **Conditions of Validity** — What the production of effects depends on
-3. **Conditions of Execution** — What the execution of the contract depends on
-4. **Conditions of Obligation** — What the stability of the contract depends on
+**The Young Man:** No... I'll learn through practice!
 
----
+*The Imam stands up and says firmly:*
 
-## Conditions of the Contracting Parties (Seller and Buyer)
+**Imam Ibrahim:** "Whoever enters the market without knowledge of fiqh will consume riba (usury), whether he wants to or not!"
 
-### First Condition: Sanity
+*Silence in the circle... then the Imam continues:*
 
-| Situation | Ruling |
-|-----------|--------|
-| The insane | Their contract is absolutely invalid |
-| The intoxicated | Their contract is invalid according to the correct view |
-| The sleeping | Their contract is invalid |
-| The unconscious | Their contract is invalid |
+**Imam Ibrahim:** "Learn the conditions of sale before you sell... for how many contracts appear valid but are corrupt inside!"
 
-### Second Condition: Maturity or Discernment
+</div>
 
-**The child without discernment:**
-- Their act is absolutely invalid
-
-**The child with discernment:**
-- Valid in small transactions according to some scholars
-- Depends on the guardian's permission in general
-
-### Third Condition: Mental Maturity
-
-> Allah تعالى says: {And test the orphans until they reach the age of marriage. If you find them of sound judgment, hand over their property to them} [An-Nisa: 6]
-
-- Mental maturity: good management of money
-- The spendthrift: prohibited from managing their wealth
-
-### Fourth Condition: Free Will
-
-> Allah تعالى says: {except through trade by mutual consent} [An-Nisa: 29]
-
-**Types of coercion:**
-
-| Type | Definition | Ruling |
-|------|------------|--------|
-| Compelling coercion | Threat of death or mutilation | Invalidates the contract |
-| Non-compelling coercion | Threat of beating or imprisonment | Invalidates the contract according to the majority |
+> **This lesson** will teach you the conditions that make your contracts valid in this world and the Hereafter.
 
 ---
 
-## Conditions of the Subject of Contract (The Merchandise)
+## 📖 Introduction: Why Conditions?
 
-### First Condition: That the Merchandise Exists
+<div class="quote-box">
 
-- Selling what does not exist is not valid
-- Selling the fetus is not valid
-- Selling what has not yet been created is not valid
+**📜 The Foundational Hadith**
 
-**The exception:**
-- Salam sale: selling a described item to be received for a price paid in advance
-> The Prophet ﷺ said: "Whoever makes a salam, let him make it for a known measure, a known weight, until a known term." [Agreed upon]
+The Prophet ﷺ said:
 
-### Second Condition: That the Merchandise Be Property with Value
+> **"Muslims are bound by their conditions, except a condition that makes lawful what is unlawful or makes unlawful what is lawful."**
 
-**Property with value:** What it is permissible to benefit from legally
+*(Narrated by Abu Dawud and at-Tirmidhi)*
+
+</div>
+
+**Conditions in sale have two functions:**
+
+1. **Protecting Rights** — Preventing injustice and fraud
+2. **Ensuring Consent** — Guaranteeing true mutual agreement
+
+---
+
+## 📋 Categories of Sale Conditions
+
+\`\`\`
+            ⚖️ Categories of Sale Conditions
+                         │
+          ┌──────────────┼──────────────┐
+          │              │              │
+   Conditions of    Conditions of   Conditions of
+   Conclusion       Validity        Bindingness
+   (What the        (What the       (What the
+   contract's       production of   firmness of
+   existence        effects         contract
+   depends on)      depends on)     depends on)
+          │              │              │
+   If absent:       If absent:      If absent:
+   Sale is void     Sale is         Sale is valid
+                    defective       but revocable
+\`\`\`
+
+---
+
+## 👥 Conditions of the Contracting Parties (Seller and Buyer)
+
+### First Condition: Sanity 🧠
+
+<div class="scene-box">
+
+**🎬 Scene: At the Store**
+
+*A man unconscious due to intoxication enters a store...*
+
+*He points to an item and hands over money...*
+
+**The Store Owner:** Is this a valid sale?
+
+</div>
+
+**Answer:** ❌ No, because **sanity is a condition** for the contracting party.
+
+| State | Ruling |
+|-------|--------|
+| **The insane** | ❌ His contract is absolutely invalid |
+| **The intoxicated** | ❌ His contract is invalid according to the correct view |
+| **The sleeper** | ❌ His contract is invalid |
+| **The unconscious** | ❌ His contract is invalid |
+
+### Second Condition: Discernment and Maturity 👦
+
+\`\`\`
+           📊 The Child's Dispositions
+                       │
+        ┌──────────────┼──────────────┐
+        │              │              │
+  Undiscerning     Discerning      Responsible
+  Child            Child           Adult
+  (under 7 years)  (7-15 years)    (over 15)
+        │              │              │
+  ❌ Absolutely    🔶 Valid for    ✅ Absolutely
+     invalid       minor           valid
+                   transactions
+                   with permission
+\`\`\`
+
+<div class="scene-box">
+
+**🎬 Scene: The Child and the Grocery Store**
+
+*Ahmad (10 years old) goes to the grocery store with his father's permission to buy bread...*
+
+**Question:** Is this sale valid?
+
+</div>
+
+**Answer:** ✅ Yes, because he is a **discerning child** and the transaction is **minor and authorized**.
+
+### Third Condition: Financial Maturity 💰
+
+<div class="quote-box">
+
+**📜 The Verse of Maturity**
+
+Allah تعالى said:
+
+> **﴿Test the orphans until they reach the age of marriage. If you find maturity in them, hand over their wealth to them﴾**
+
+[An-Nisa: 6]
+
+</div>
+
+**Maturity (rushd):** Good management of wealth.
+
+**The Spendthrift (safih):** One who wastes his wealth — he is prevented from disposing of it.
+
+### Fourth Condition: Free Will (Consent) 🤝
+
+<div class="quote-box">
+
+**📜 The Verse of Mutual Consent**
+
+Allah تعالى said:
+
+> **﴿Unless it is a trade by mutual consent﴾**
+
+[An-Nisa: 29]
+
+</div>
+
+**Types of Coercion:**
+
+| Type | Definition | Example | Ruling |
+|------|------------|---------|--------|
+| **Absolute Coercion** | Threat of death or mutilation | "Sell or I'll kill you!" | ❌ Nullifies the contract |
+| **Relative Coercion** | Threat of beating or imprisonment | "Sell or I'll imprison you!" | ❌ Nullifies according to the majority |
+
+---
+
+## 📦 Conditions of the Merchandise (Subject of Contract)
+
+### First Condition: Existence 🔍
+
+<div class="scene-box">
+
+**🎬 Scene: Sale of the Non-Existent**
+
+**The Seller:** I'll sell you the fetus in this cow's womb for a thousand!
+
+**The Buyer:** When will it be born?
+
+**The Seller:** I don't know... maybe in a month or two!
+
+</div>
+
+**Answer:** ❌ **Invalid** — This is selling what doesn't exist.
 
 **What cannot be sold:**
-- Wine and pork
-- Carrion (except tanned leather according to some)
-- Prohibited entertainment instruments
-- Drugs
 
-> The Prophet ﷺ said: "When Allah forbids something, He forbids its price." [Reported by Ahmad and Abu Dawud]
+- ❌ The fetus in the womb (before birth)
+- ❌ What has not yet been created
+- ❌ Fruits before they ripen (except with condition of picking)
 
-### Third Condition: That the Merchandise Belongs to the Seller
+**Exception: Salam Sale**
 
-- Selling what one does not own is not valid
-- Selling by an agent and guardian with permission is allowed
+<div class="quote-box">
 
-> The Prophet ﷺ said: "Do not sell what you do not possess." [Reported by Abu Dawud and at-Tirmidhi]
+**📜 Hadith of Salam**
 
-### Fourth Condition: Ability to Deliver
+The Prophet ﷺ said:
 
-**What cannot be sold due to inability:**
-- The bird in the air
-- The fish in the water
-- The runaway slave
-- Usurped property from one who cannot retrieve it
+> **"Whoever makes an advance payment, let him make it for a known measure, a known weight, to a known term."**
 
-### Fifth Condition: Knowledge of the Merchandise
+*(Agreed upon)*
 
-**Ways to know the merchandise:**
-1. Direct viewing
-2. Precise description
-3. Sample (model)
+</div>
 
-**What cannot be sold due to ignorance:**
-- Sale by pebble
-- Sale by touch
-- Sale by throwing
+### Second Condition: Being Lawful Property 💎
 
-> The Prophet ﷺ forbade the sale by pebble and the sale of uncertainty. [Reported by Muslim]
+**Lawful Property (mutaqawwam):** What is legally permissible to use.
 
----
+\`\`\`
+        🚫 What Cannot Be Sold (Unlawful)
+                        │
+        ┌───────┬───────┼───────┬───────┐
+        │       │       │       │       │
+    Alcohol   Pork   Carrion  Drugs  Instruments
+        │       │       │       │     of
+        └───────┴───────┴───────┴─────┘ forbidden
+                        │               entertainment
+            All forbidden to use = cannot be sold
+\`\`\`
 
-## Conditions of the Price
+<div class="quote-box">
 
-### First Condition: That It Be Known
+**📜 Hadith on Price Prohibition**
 
-- Knowledge of the type, quantity, and quality
-- Ignorance invalidates the sale
+The Prophet ﷺ said:
 
-### Second Condition: That It Be Possible to Deliver
+> **"When Allah forbids a thing, He forbids its price."**
 
-- Like the merchandise in requiring the ability to deliver
+*(Narrated by Ahmad and Abu Dawud)*
 
-### Third Condition: That It Belongs to the Buyer
+</div>
 
-- At the time of delivery or by the ability to obtain it
+### Third Condition: Seller's Ownership 🔑
 
----
+<div class="quote-box">
 
-## Conditions of the Formula
+**📜 Hadith Forbidding Selling What One Doesn't Own**
 
-### First Condition: Correspondence Between Offer and Acceptance
+The Prophet ﷺ said:
 
-**Cases of non-correspondence:**
-- Difference regarding the merchandise
-- Difference regarding the price
-- Difference regarding the term
+> **"Do not sell what you do not own."**
 
-### Second Condition: Continuity Between Offer and Acceptance
+*(Narrated by Abu Dawud and at-Tirmidhi)*
 
-- No long separation between them
-- A short separation does not harm
+</div>
 
-### Third Condition: Absence of Suspension
+**Exception:** The agent and guardian — they sell with authorization.
 
-- The principle in sales is immediate execution
-- Suspension on a condition: disagreement among scholars
+### Fourth Condition: Ability to Deliver 🚚
 
----
+<div class="scene-box">
 
-## Stipulations in the Sale
+**🎬 Scene: Sale of the Undeliverable**
 
-### Valid Stipulations
+**The Seller:** I'll sell you this pigeon flying in the sky!
 
-1. **Stipulation required by the contract**
-   - Example: the guarantee of the merchandise on the seller before delivery
+**The Buyer:** How can I catch it?!
 
-2. **Stipulation in the interest of the contract**
-   - Example: requiring a pledge or guarantor
+**The Seller:** That's your problem!
 
-3. **Stipulation of a desired quality**
-   - Example: requiring the car to be a specific color
+</div>
 
-### Invalid Stipulations
+**Answer:** ❌ **Void** — One cannot sell what cannot be delivered.
 
-1. **Stipulation contradicting the contract**
-   - Example: requiring the buyer not to resell
+**Examples of Invalidity:**
 
-2. **Stipulation making lawful what is unlawful or vice versa**
-   - Example: requiring usury
+| Item Sold | Reason |
+|-----------|--------|
+| Bird in the sky | Cannot be caught |
+| Fish in the water | Cannot be captured |
+| The runaway slave | Cannot be found |
+| Usurped property | Cannot be recovered |
 
-3. **Stipulation of uncertainty**
-   - Example: requiring what cannot be fulfilled
+### Fifth Condition: Knowledge of the Merchandise 📋
 
----
+<div class="quote-box">
 
-## Effect of Missing Conditions
+**📜 Hadith Forbidding Uncertainty**
 
-| Missing Condition | Effect |
-|-------------------|--------|
-| Condition of conclusion | The sale is void |
-| Condition of validity | The sale is defective |
-| Condition of execution | The sale is suspended |
-| Condition of obligation | The sale is valid but not binding |
+The Prophet ﷺ said:
 
----
+> **He forbade the pebble sale and the sale of uncertainty (gharar).**
 
-## 📖 Stories from the Salaf: The Scrupulousness of Imam Ahmad on Sale Conditions
+*(Narrated by Muslim)*
 
-It is narrated that a man came to Imam Ahmad ibn Hanbal رحمه الله asking about a sale.
+</div>
 
-He said: I bought merchandise from a man, then discovered that he had been coerced into selling by his creditor.
+**Ways to Know the Merchandise:**
 
-Imam Ahmad said: **"The sale of the coerced is not valid, for mutual consent is a condition. Return his property to him and take your price."**
+| Method | Example |
+|--------|---------|
+| **Direct Viewing** | I saw and inspected the car |
+| **Precise Description** | Detailed description of specifications |
+| **Sample** | Sample of the merchandise |
 
-The man said: But I did not know about his coercion at the time of purchase!
+**Forbidden Sales of Jahiliyyah (Due to Ignorance):**
 
-The Imam said: **"Does it harm you to return the right to its owner? The Prophet ﷺ said: Fulfill the trust to the one who trusted you, and do not betray the one who betrayed you."**
-
-**The lesson:** The conditions of sale were established to protect rights and remove injustice. The Muslim merchant ensures the validity of their contracts, not just their appearance.
+| Sale | Description |
+|------|-------------|
+| **Pebble Sale** | Throw the pebble, whatever it lands on is yours |
+| **Touch Sale** | Whatever you touch is yours for this price |
+| **Toss Sale** | Whatever I throw at you is yours |
 
 ---
 
-## 🎯 Contemporary Cases: Applying Sale Conditions
+## 💵 Conditions of the Price
 
-### Case 1: Buying from a Child
-**Question**: A father sent his son (10 years old) to buy bread from the grocery. Is this sale valid?
+\`\`\`
+             💰 Conditions of the Price
+                      │
+        ┌─────────────┼─────────────┐
+        │             │             │
+    Being Known    Being          Being Owned
+    (type,         Deliverable    or Accessible
+    quantity,      (ability to
+    quality)       pay)
+\`\`\`
 
-**Answer**: ✅ Yes, it is valid according to many scholars because the child has discernment, the transaction is minor, and it is customarily permitted by the guardian—this is what Muslims have practiced.
+**Ignorance of the price vitiates the sale!**
 
-### Case 2: Deposit Sale
-**Question**: Zayd paid a deposit to reserve an apartment, then withdrew. Does he deserve the deposit back?
+<div class="scene-box">
 
-**Answer**: ❌ He does not deserve it according to the preponderant view, because the deposit is in exchange for withholding the merchandise from others. The Hanbalis and the Fiqh Academy have permitted the deposit sale—it becomes part of the price if the sale is completed, and the seller keeps it if not.
+**🎬 Scene: The Unknown Price**
 
-### Case 3: Selling a Mortgaged Car
-**Question**: Ali sold his car while it was mortgaged to the bank without informing the buyer. What is the ruling?
+**The Seller:** I'll sell you the car for whatever price you think is fair!
 
-**Answer**: ❌ The sale is defective because the mortgaged item is encumbered by another's right, and the seller cannot make complete delivery. The mortgage must be released first, or the buyer must be informed so they can agree.
+**The Buyer:** So I pay whatever I want?
 
-### Case 4: Buying on Installments at a Higher Price
-**Question**: The phone price in cash is 1000 riyals, and in installments it is 1200 riyals. Is this usury?
+</div>
 
-**Answer**: ✅ No, this is permissible if the price is specified at the contract. What is prohibited is saying: "Take it for a thousand cash or one thousand two hundred in installments" without specification, because that would be two sales in one.
-
-### Case 5: Selling What One Does Not Own
-**Question**: A merchant promised a customer to sell him merchandise tomorrow when he hasn't yet bought it from the supplier. What is the ruling?
-
-**Answer**: ❌ It is not permissible to sell before ownership. The correct approach is to take a (non-binding) promise, then buy, then sell. Or use the salam contract with its conditions.
-
----
-
-## 💡 Pause and Reflect
-
-**Question for reflection**: If you knew that the contract you are making has a legal defect but is "legal," would you proceed?
-
-**Remember:**
-- The religious ruling takes precedence over man-made law
-- "Muslims are bound by their conditions, except a condition that makes lawful what is unlawful or unlawful what is lawful"
-- Learn the conditions before entering into contracts
-- Some of the Salaf used to learn the rules of sales before entering the market
+**Answer:** ❌ **Invalid** — The price is unknown.
 
 ---
 
-*My Lord, increase me in knowledge*`;
+## 📝 Conditions of the Formula
+
+### 1. Correspondence Between Offer and Acceptance
+
+\`\`\`
+       ✅ Correspondence                ❌ Discrepancy
+             │                               │
+  Seller: I sell you             Seller: I sell you
+  the car for 50,000             the car for 50,000
+             │                               │
+  Buyer: I accept                Buyer: I accept
+         for 50,000                      for 40,000
+             │                               │
+        = Valid sale                  = No contract
+\`\`\`
+
+### 2. Continuity Between Offer and Acceptance
+
+- No long interval between them
+- A short interval is not harmful
+
+### 3. No Suspension on a Future Condition
+
+- The principle in sale is **immediacy**
+- Suspension on an unknown condition: **scholars disagree**
+
+---
+
+## 📋 Conditions Within the Sale (What a Party Stipulates)
+
+\`\`\`
+            📋 Types of Conditions in Sale
+                          │
+            ┌─────────────┼─────────────┐
+            │             │             │
+     Valid            Defective      Conditions
+     Conditions       Conditions     That Vitiate
+     (binding)        (void          the Contract
+            │          themselves)         │
+     Must be          The condition  The sale is
+     fulfilled        is void,       void
+                      sale remains
+\`\`\`
+
+### Valid Conditions ✅
+
+| Type | Example |
+|------|---------|
+| **Implicit Condition** | Seller guarantees merchandise before delivery |
+| **Beneficial Condition** | Requiring collateral or a guarantor |
+| **Quality Condition** | Requiring a specific color for the car |
+| **Service Condition** | Requiring home delivery |
+
+### Defective Conditions ❌
+
+| Type | Example |
+|------|---------|
+| **Contradictory Condition** | Forbidding the buyer from reselling or gifting |
+| **Unlawful Condition** | Stipulating usury or uncertainty |
+| **Impossible Condition** | Stipulating the impossible |
+
+---
+
+## 📊 Effect of Missing Conditions
+
+| Missing Condition | Effect on Contract | Example |
+|-------------------|---------------------|---------|
+| **Condition of Conclusion** | Sale is **void** from the start | Sale by an insane person |
+| **Condition of Validity** | Sale is **defective** (fixable) | Sale of the unknown |
+| **Condition of Execution** | Sale is **suspended** (awaits approval) | Sale by a non-owner |
+| **Condition of Bindingness** | Sale is **valid but revocable** | Sale with option |
+
+---
+
+## 📖 Stories from the Righteous Predecessors: Imam Ahmad's Piety
+
+<div class="scene-box">
+
+**🎬 Story: Honesty in Conditions**
+
+*A man came to Imam Ahmad ibn Hanbal, may Allah have mercy on him...*
+
+**The Man:** O Imam, I bought goods from a man, then discovered he was **coerced** into selling by his creditor!
+
+**Imam Ahmad:** "The sale of the coerced is not valid, because consent is a condition. **Return his property and take back your money.**"
+
+**The Man:** But I didn't know he was coerced at the time of purchase!
+
+**Imam Ahmad:** "Does it harm you to return the right to its owner? The Prophet ﷺ said: **Fulfill the trust of one who entrusted you, and do not betray one who betrayed you.**"
+
+</div>
+
+**The Lesson:** The conditions of sale were established to protect rights. The Muslim merchant ensures the **validity of his contracts**, not just their appearance.
+
+---
+
+## 🎯 Contemporary Cases — Test Your Understanding!
+
+### Case 1: Purchase by a Child
+
+<div class="scene-box">
+
+A **father** sent his son (**10 years old**) to buy bread from the grocery store.
+
+**Question:** Is this sale valid?
+
+</div>
+
+**Answer:** ✅ Yes, because:
+- The child is **discerning**
+- The transaction is **minor**
+- It is **customarily authorized** by the guardian
+
+---
+
+### Case 2: The Earnest Money Sale
+
+<div class="scene-box">
+
+**Zayd** paid earnest money (5000) to reserve an apartment for 200,000.
+
+Then he **backed out** and didn't complete the purchase.
+
+**Question:** Is he entitled to get the earnest money back?
+
+</div>
+
+**Answer:** ❌ No, according to the preponderant view.
+
+<div class="quote-box">
+
+**📜 Earnest Money Rule**
+
+- Earnest money is **permissible** according to the Hanbalis and the Fiqh Council
+- If the sale is completed: it's deducted from the price
+- Otherwise: the seller keeps it (compensation for reserving the item)
+
+</div>
+
+---
+
+### Case 3: Sale of a Mortgaged Car
+
+<div class="scene-box">
+
+**Ali** sold his car while it was **mortgaged to the bank** without informing the buyer.
+
+**Question:** What is the ruling?
+
+</div>
+
+**Answer:** ❌ The sale is **defective**.
+
+**Reason:**
+- The mortgaged property is encumbered by another's right
+- The seller cannot complete delivery
+
+**Solution:** Remove the mortgage first or inform the buyer.
+
+---
+
+### Case 4: Installment Purchase at a Higher Price
+
+<div class="scene-box">
+
+Phone price **cash: $1000**
+
+Price **on installment: $1200**
+
+**Question:** Is this usury?
+
+</div>
+
+**Answer:** ✅ **No, it's permissible** — if the price is determined at the time of contract.
+
+<div class="quote-box">
+
+**📜 What Is Forbidden:**
+
+Saying: "Take it for 1000 cash or 1200 on installment" **without specifying** which one — because this is **two sales in one**.
+
+</div>
+
+---
+
+### Case 5: Selling What You Don't Own
+
+<div class="scene-box">
+
+**The merchant** promised the customer to sell him goods **tomorrow** when he has **not yet purchased them** from the supplier.
+
+**Question:** What is the ruling?
+
+</div>
+
+**Answer:** ❌ **Forbidden** — selling before owning.
+
+**Correct Alternatives:**
+1. **Non-binding promise** — then he buys then he sells
+2. **Salam Contract** — with its conditions
+
+---
+
+## 💎 Lesson Summary
+
+| Element | Detail |
+|---------|--------|
+| **Conditions of Contractors** | Sanity, discernment, maturity, free will |
+| **Conditions of Merchandise** | Existence, lawfulness, ownership, deliverability, knowledge |
+| **Conditions of Price** | Knowledge, deliverability, ownership |
+| **Conditions of Formula** | Correspondence, continuity, no suspension |
+| **Effect of Absence** | Nullity, defect, or suspension |
+
+---
+
+## 🤔 Pause and Reflect
+
+<div class="scene-box">
+
+**Question to Ponder:**
+
+If you know the contract you're entering has a **legal defect** but is **legally valid**...
+
+**Do you proceed with it?**
+
+</div>
+
+<div class="quote-box">
+
+**📜 Always Remember**
+
+- Religious ruling takes precedence over positive law
+- "Muslims are bound by their conditions except one that makes lawful what is unlawful or unlawful what is lawful"
+- Learn the conditions **before** entering into contracts
+- Among the righteous predecessors, some **learned the rules of sale before entering the market**
+
+</div>
+
+---
+
+**O Lord, increase me in knowledge!** 📖`;
