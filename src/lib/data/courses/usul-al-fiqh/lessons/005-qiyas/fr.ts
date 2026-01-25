@@ -1,259 +1,372 @@
-export const contentFr = `
-# Le Qiyas (L'Analogie)
+/**
+ * Usul al-Fiqh - Leçon 005 : Le Qiyas (L'Analogie)
+ * Contenu en français - Version immersive
+ */
 
-## Définition du Qiyas
+export const contentFr = `# 🔗 Le Qiyas — La Quatrième Source de la Législation
 
-**Le Qiyas** (القياس) est le rattachement d'un cas dérivé à un cas original dans une règle légale, en raison de leur partage d'une cause commune.
+> **﴿ Tirez-en une leçon, ô vous qui êtes doués de clairvoyance ﴾**
+>
+> — **[Al-Hashr : 2]**
 
-### Définition linguistique
+---
 
-- **Qiyas** signifie linguistiquement : mesure et égalisation
-- On dit : qâsa le tissu avec la coudée, c'est-à-dire il l'a mesuré avec elle
+## 🎬 Introduction
 
-### Définition technique
+### 🎭 Scène : Omar et le Nabidh
 
-> Le Qiyas est : appliquer un cas connu à un autre cas connu pour établir ou nier une règle pour les deux, par un élément commun entre eux, qu'il s'agisse d'une règle ou d'une caractéristique.
+> **Médine, à l'époque de Omar ibn al-Khattab...**
+>
+> Un homme vint demander le statut du **nabidh de dattes** — est-il interdit comme le vin ?
+>
+> **Omar** — qu'Allah l'agrée — réfléchit puis dit :
+>
+> **« Le vin est interdit parce qu'il enivre... et le nabidh, s'il enivre, est comme lui ! »**
+>
+> L'homme dit : *« Mais il n'est pas fait de raisin ! »*
+>
+> Omar répondit :
+>
+> **« La cause est l'ivresse — pas la matière première ! »**
 
-## Les Piliers du Qiyas
+> 🎯 **Voici le Qiyas — rattacher un cas à un autre en raison d'une cause commune !**
 
-Le Qiyas repose sur quatre piliers fondamentaux :
+---
 
-### 1. L'Original (Al-Asl - المقيس عليه)
+### 🎭 Scène : Mu'adh Fait l'Ijtihad
 
-C'est le cas où la règle est établie par le texte ou le consensus.
+> Lorsque le Prophète ﷺ envoya **Mu'adh** au Yémen, il lui demanda :
+>
+> **« Sur quelle base jugeras-tu ? »**
+>
+> Il dit : *« Selon le Livre d'Allah. »*
+>
+> **« Et si tu ne trouves pas ? »**
+>
+> Il dit : *« Selon la Sunna du Messager d'Allah. »*
+>
+> **« Et si tu ne trouves pas ? »**
+>
+> Il dit : *« Je ferai l'effort de réflexion de mon mieux. »*
+>
+> Et le Prophète ﷺ approuva.
 
-**Exemple** : Le vin dans la parole d'Allah : ﴿Le vin, le jeu de hasard... sont une abomination, œuvre du Diable. Évitez-le﴾
+> 💡 **L'ijtihad par la raison inclut le Qiyas.**
 
-### 2. Le Dérivé (Al-Far' - المقيس)
+---
 
-C'est le cas pour lequel on veut établir la règle par analogie.
+## 📖 Définition du Qiyas
 
-**Exemple** : La boisson enivrante (nabidh)
+### Linguistiquement
 
-### 3. La Règle de l'Original (Hukm al-Asl)
+| Terme | Signification |
+|-------|---------------|
+| **Qiyas** | Mesurer, comparer |
+| Exemple | J'ai mesuré le tissu avec le bras |
 
-C'est la règle légale établie dans l'original qu'on veut établir pour le dérivé.
+### Techniquement
 
-**Exemple** : L'interdiction du vin
+> **Le Qiyas** : Rattacher un **cas nouveau (far')** à un **cas original (asl)** dans son statut, en raison d'une **cause ('illa)** commune entre eux.
 
-### 4. La Cause ('Illa - العلة)
+### En Résumé
 
-C'est la caractéristique apparente et précise sur laquelle la règle est fondée.
+| Terme | Explication |
+|-------|-------------|
+| 🌳 L'original (Asl) | Le cas mentionné dans le texte |
+| 🌱 Le nouveau cas (Far') | Le nouveau cas à statuer |
+| ⚖️ Le statut (Hukm) | Ce qui est établi pour l'original |
+| 🔑 La cause ('Illa) | La raison commune |
 
-**Exemple** : L'ivresse (qui est la cause commune entre le vin et le nabidh)
+---
 
-## Types de Qiyas
+## ⚖️ L'Autorité du Qiyas
 
-### Selon la force
+### La Preuve du Coran
 
-| Type | Définition | Exemple |
-|------|------------|---------|
-| Qiyas al-Awla (a fortiori) | Le dérivé mérite davantage la règle | Interdiction de frapper les parents par analogie à l'interdiction de dire "ouf" |
-| Qiyas al-Musawi (égal) | Le dérivé est égal à l'original | Interdiction du nabidh par analogie au vin |
-| Qiyas al-Adna (inférieur) | Le dérivé est moins approprié | Rattacher la pomme au blé dans l'interdiction de l'usure |
+| Verset | Indication |
+|--------|------------|
+| ﴿ Tirez-en une leçon (i'tabirou) ﴾ | L'i'tibar = le Qiyas |
+| ﴿ Ne méditez-vous pas le Coran ? ﴾ | La méditation implique l'examen des causes |
 
-### Selon la cause
+### La Preuve de la Sunna
 
-1. **Qiyas al-'Illa** : La cause y est textuelle ou déduite
-2. **Qiyas al-Dalala** : Le rassemblement se fait par l'indication de la cause
-3. **Qiyas al-Shabah** : Le dérivé oscille entre deux originaux, on le rattache au plus ressemblant
+> Le Prophète ﷺ fut interrogé sur le baiser du jeûneur.
+>
+> Il dit :
+>
+> **« Que penserais-tu si tu te rinçais la bouche avec de l'eau puis la recrachais, cela te nuirait-il ? »**
+>
+> L'homme dit : Non.
+>
+> Le Prophète ﷺ dit : **« Alors pourquoi t'inquiètes-tu ? »**
 
-## Conditions du Qiyas Valide
+> 💡 **Le Prophète ﷺ a fait l'analogie entre le baiser et le rinçage — tous deux sont des préliminaires qui n'entraînent pas la rupture.**
 
-### Conditions de l'Original
+### La Pratique des Compagnons
 
-1. Que sa règle soit établie par le Coran, la Sunnah ou le Consensus
-2. Que l'original ne soit pas lui-même un dérivé d'un autre
-3. Que la règle soit rationnellement compréhensible (non purement rituelle)
+> Les Compagnons ont utilisé le Qiyas dans de nombreuses questions :
+>
+> - L'analogie du nabidh sur le vin
+> - L'analogie du meurtrier pour l'héritage sur le meurtrier pour le testament
 
-### Conditions du Dérivé
+---
 
-1. Que la cause présente dans l'original s'y réalise
-2. Qu'il n'y ait pas de texte établissant sa règle
-3. Que sa règle ne précède pas celle de l'original
+## 📊 Les Piliers du Qiyas
 
-### Conditions de la Règle
+### Les Quatre Piliers
 
-1. Que ce soit une règle légale pratique
-2. Que ce ne soit pas spécifique à l'original (comme les spécificités du Prophète ﷺ)
-3. Que la cause soit rationnellement compréhensible
+| Pilier | Définition | Exemple |
+|--------|------------|---------|
+| 1️⃣ L'original (Asl) | Le cas comparé | Le vin |
+| 2️⃣ Le nouveau cas (Far') | Le cas à comparer | Le nabidh |
+| 3️⃣ Le statut (Hukm) | Le statut de l'original | L'interdiction |
+| 4️⃣ La cause ('Illa) | La raison commune | L'ivresse |
+
+### Exemple Appliqué
+
+| Pilier | Dans l'exemple de l'usure |
+|--------|---------------------------|
+| 🌳 L'original | Le blé (mentionné dans le hadith) |
+| 🌱 Le nouveau cas | Le riz |
+| ⚖️ Le statut | L'interdiction de l'usure |
+| 🔑 La cause | Le fait d'être mesuré et comestible (selon certains) |
+
+---
+
+## 🔑 La Cause ('Illa) — Le Cœur du Qiyas
+
+### Définition de la Cause
+
+> **La 'Illa** : Le critère précis et apparent sur lequel le statut est fondé.
 
 ### Conditions de la Cause
 
-1. Qu'elle soit une caractéristique apparente et précise
-2. Qu'elle soit transposable (non limitée à l'original)
-3. Qu'elle n'invalide pas le texte
-4. Qu'elle soit appropriée à la règle
+| Condition | Explication |
+|-----------|-------------|
+| 1️⃣ Précise | Ne varie pas selon les personnes |
+| 2️⃣ Apparente | Peut être vérifiée |
+| 3️⃣ Appropriée | Convient pour fonder le statut |
+| 4️⃣ Transitive | Présente dans le nouveau cas |
 
-## Les Voies d'Établissement de la Cause
+### Comment Identifier la Cause ?
 
-### 1. Le Texte (al-Nass)
+| Méthode | Exemple |
+|---------|---------|
+| 📜 Texte explicite | « Le vin est interdit car il enivre » |
+| 🔍 Indication | Le contexte indique la cause |
+| 🧠 Déduction | Le savant la déduit par analyse |
 
-Quand le Législateur énonce explicitement la cause.
+---
 
-**Exemple** : La parole du Prophète ﷺ : « Je vous ai interdit cela à cause des visiteurs » (cause de l'interdiction de conserver la viande des sacrifices)
+## 📊 Types de Qiyas
 
-### 2. L'Indication (al-Ima')
+### 1️⃣ Qiyas Al-Awla (A Fortiori)
 
-Quand la caractéristique est associée à la règle de manière à suggérer la causalité.
+| Définition | Exemple |
+|------------|---------|
+| Le nouveau cas est plus fort que l'original | Frapper les parents est interdit par analogie avec « Ne leur dis pas "ouf" » |
+| Si le moindre est interdit, le plus grand l'est davantage | |
 
-**Exemple** : Le Prophète ﷺ dit à celui qui demandait l'aumône de dattes : « Les dattes fraîches diminuent-elles en séchant ? » Il dit : Oui. Il dit : « Alors non »
+### 2️⃣ Qiyas Al-Musawi (Par Égalité)
 
-### 3. Le Consensus (al-Ijma')
+| Définition | Exemple |
+|------------|---------|
+| Les deux cas sont égaux dans la cause | L'analogie du nabidh sur le vin |
+| La cause est identique dans les deux | |
 
-Quand les savants s'accordent sur la cause de la règle.
+### 3️⃣ Qiyas Al-Adna (Par Infériorité)
 
-### 4. La Convenance (Takhrij al-Manat)
+| Définition | Exemple |
+|------------|---------|
+| Le nouveau cas est plus faible que l'original | Ce type est plus discuté |
+| La cause est moins forte dans le nouveau cas | |
 
-Extraire une cause non textuelle en examinant la convenance entre la caractéristique et la règle.
+---
 
-### 5. L'Examen et la Division (al-Sabr wal-Taqsim)
+## ⚠️ Conditions du Qiyas
 
-Énumérer les caractéristiques susceptibles de causalité, puis éliminer celles qui ne conviennent pas.
+### Conditions de l'Original
 
-### 6. La Clarification du Motif (Tanqih al-Manat)
+| Condition | Explication |
+|-----------|-------------|
+| 1️⃣ | Le statut doit être établi par le Coran, la Sunna ou le Consensus |
+| 2️⃣ | Le statut ne doit pas être spécifique à l'original |
+| 3️⃣ | La cause doit être identifiable |
 
-Supprimer les caractéristiques qui n'ont pas d'effet sur la règle.
+### Conditions du Nouveau Cas
 
-## Autorité du Qiyas
+| Condition | Explication |
+|-----------|-------------|
+| 1️⃣ | Pas de texte direct le concernant |
+| 2️⃣ | La cause existe en lui |
+| 3️⃣ | Ne pas contredire un texte |
 
-### Arguments de ceux qui l'acceptent
+### Conditions de la Cause
 
-1. **Du Coran** : ﴿Tirez-en leçon, ô vous qui êtes doués de clairvoyance﴾ - la leçon est l'analogie
-2. **De la Sunnah** : Les analogies du Prophète ﷺ comme sa parole à la femme Khath'amite : « Vois-tu si ton père avait une dette... »
-3. **Du Consensus** : L'accord des Compagnons sur l'utilisation de l'analogie
-4. **De la Raison** : La Sharia vise à procurer les intérêts et repousser les méfaits
+| Condition | Explication |
+|-----------|-------------|
+| 1️⃣ | Précise et stable |
+| 2️⃣ | Appropriée au statut |
+| 3️⃣ | Transitive au nouveau cas |
 
-### Position des Zahirites
+---
 
-Les Zahirites ont nié l'autorité du Qiyas et ont dit qu'il faut s'en tenir aux sens apparents des textes.
+## 🎭 Histoire : L'Imam Ash-Shafi'i et le Qiyas
 
-## Le Qiyas face au Texte
+### Son Importance
 
-### Si le Qiyas contredit le texte
+> **L'Imam Ash-Shafi'i** a consacré une grande partie de sa Risala au Qiyas.
+>
+> Il dit :
+>
+> **« Tout événement qui touche un musulman a un statut obligatoire ou une indication vers la vérité. S'il y a un texte, on le suit. Sinon, on le cherche par l'ijtihad, et l'ijtihad c'est le Qiyas. »**
 
-Le texte prime sur le Qiyas absolument, car le Qiyas est une branche et le texte est la source.
+---
 
-**Règle** : Pas de Qiyas face au texte.
+## 🎯 Cas Contemporains
 
-## Exemples Pratiques
+### 💊 Cas 1 : Les Drogues
 
-### Premier exemple : L'interdiction des drogues
+> **Situation** : Les drogues (héroïne, cocaïne, etc.) ne sont pas mentionnées dans le Coran.
+
+**❓ Quel est leur statut ?**
+
+<details>
+<summary>📜 Cliquez pour la réponse</summary>
+
+**Application du Qiyas :**
 
 | Pilier | Application |
 |--------|-------------|
-| Original | Le vin |
-| Dérivé | Les drogues (haschich, héroïne...) |
-| Règle de l'original | L'interdiction |
-| Cause | L'ivresse et l'altération de la raison |
+| 🌳 Original | Le vin |
+| 🌱 Nouveau cas | Les drogues |
+| ⚖️ Statut | L'interdiction |
+| 🔑 Cause | L'altération de la raison (ivresse) |
 
-### Deuxième exemple : La vente d'une voiture défectueuse
+> 💡 **Les drogues sont interdites par analogie — même cause !**
+
+</details>
+
+---
+
+### 💰 Cas 2 : L'Usure sur les Monnaies Modernes
+
+> **Situation** : Le hadith mentionne l'or et l'argent. Les billets de banque sont-ils concernés ?
+
+**❓ L'usure s'applique-t-elle ?**
+
+<details>
+<summary>📜 Cliquez pour la réponse</summary>
+
+**Application du Qiyas :**
 
 | Pilier | Application |
 |--------|-------------|
-| Original | La vente de la musarrah (brebis dont on a retenu le lait) |
-| Dérivé | La voiture défectueuse dont le défaut est caché |
-| Règle de l'original | Droit d'option pour l'acheteur |
-| Cause | La tromperie et la fraude |
+| 🌳 Original | L'or et l'argent |
+| 🌱 Nouveau cas | Les billets de banque |
+| ⚖️ Statut | L'interdiction de l'usure |
+| 🔑 Cause | La fonction monétaire (thamaniyya) |
 
-## Le Qiyas selon les quatre écoles
+> 💡 **La majorité des savants contemporains : les billets ont le même statut !**
 
-- **Hanafites** : Élargissent le Qiyas et le préfèrent parfois au hadith isolé
-- **Malikites** : L'utilisent en tenant compte de l'intérêt général
-- **Shafiites** : Encadrent le Qiyas par des conditions précises
-- **Hanbalites** : L'utilisent en l'absence de texte
+</details>
 
 ---
 
-## 📖 Récits des Compagnons : Le qiyas de Mu'adh ibn Jabal
+### 🚬 Cas 3 : La Cigarette
 
-Lorsque le Prophète ﷺ envoya Mu'adh ibn Jabal au Yémen comme juge, il lui demanda :
+> **Situation** : Le tabac n'existait pas à l'époque du Prophète ﷺ.
 
-**« Par quoi jugeras-tu ? »**
+**❓ Quel est son statut ?**
 
-Il répondit : Par le Livre d'Allah.
+<details>
+<summary>📜 Cliquez pour la réponse</summary>
 
-Il dit : **« Et si tu ne trouves pas ? »**
+**Plusieurs approches :**
 
-Il répondit : Par la Sunnah du Messager d'Allah ﷺ.
+| Approche | Résultat |
+|----------|----------|
+| 🔗 Qiyas sur les substances nocives | Interdit car nuisible |
+| 📜 Règle « Pas de nuisance » | Interdit |
+| ⚖️ Avis majoritaire contemporain | Interdit ou fortement détestable |
 
-Il dit : **« Et si tu ne trouves pas ? »**
+> 💡 **Le Qiyas et les règles générales convergent !**
 
-Il répondit : **Je ferai l'ijtihad de mon avis sans ménager d'effort.**
-
-Le Prophète ﷺ frappa sa poitrine et dit : **« Louange à Allah qui a guidé l'envoyé du Messager d'Allah vers ce qui satisfait le Messager d'Allah. »**
-
-**La leçon** : L'ijtihad et le qiyas sont légiférés en l'absence de texte.
-
----
-
-## 🎯 Cas pratiques contemporains : Applique le Qiyas !
-
-### Cas 1 : Statut des cigarettes électroniques (Vape)
-
-**Question** : Quel est le statut des cigarettes électroniques ?
-
-**Application du Qiyas** :
-| Pilier | Application |
-|--------|-------------|
-| Original | Les cigarettes classiques |
-| Dérivé | Les cigarettes électroniques |
-| Règle de l'original | Interdiction ou forte répréhension (nuisance) |
-| Cause | Le tort causé à la santé |
-
-**Réponse** : ✅ Elles prennent le statut des cigarettes classiques — interdites ou fortement réprouvées
+</details>
 
 ---
 
-### Cas 2 : Statut des cryptomonnaies (Bitcoin)
+### 🧬 Cas 4 : Le Clonage Humain
 
-**Question** : Le Bitcoin est-il un bien légal dont l'échange est permis ?
+> **Situation** : Le clonage humain est une technologie nouvelle.
 
-**Analyse par le Qiyas** :
-- S'applique-t-il par analogie à l'or et l'argent ? (l'usure s'y applique)
-- S'applique-t-il par analogie aux monnaies papier ? (valeurs conventionnelles)
-- S'applique-t-il par analogie aux marchandises ? (la différence est permise)
+**❓ Quel est son statut ?**
 
-**Réponse** : ⚠️ **Divergence contemporaine** — La majorité les considère comme des monnaies, donc l'usure de délai s'y applique
+<details>
+<summary>📜 Cliquez pour la réponse</summary>
 
----
+**Analyse par plusieurs principes :**
 
-### Cas 3 : Statut du don d'organes
+| Principe | Application |
+|----------|-------------|
+| 🚫 Changement de la création d'Allah | Indiqué comme interdit |
+| ⚠️ Corruption des lignages | Contre la préservation de la filiation |
+| 🔬 Dommages potentiels | Principe de précaution |
 
-**Question** : Est-il permis de donner un rein pour sauver un malade ?
+| Verdict | Les académies de fiqh |
+|---------|----------------------|
+| 🔴 Interdit | Consensus des académies contemporaines |
 
-**Analyse par le Qiyas** :
-| Pilier | Application |
-|--------|-------------|
-| Original | Sauver quelqu'un de la noyade |
-| Dérivé | Le don de rein |
-| Règle de l'original | Obligatoire |
-| Cause | Sauver une vie |
+> 💡 **L'interdiction vient de plusieurs causes convergentes !**
 
-**Réponse** : ✅ **Permis sous conditions** selon la majorité des savants contemporains
+</details>
 
 ---
 
-## 💡 Pause réflexion
+### 📱 Cas 5 : La Vente de Logiciels Piratés
 
-**Exercice pratique** :
+> **Situation** : Quelqu'un vend des copies piratées de logiciels.
 
-Fais toi-même le qiyas : Quel est le statut des **jeux vidéo contenant des jeux de hasard** (comme les loot boxes) ?
+**❓ Quel est le statut ?**
 
-Essaie de déterminer :
-1. L'original de référence
-2. La cause commune
-3. Le statut
+<details>
+<summary>📜 Cliquez pour la réponse</summary>
 
-**Réponse** : Par analogie au maysir (jeu de hasard) — **interdites** car elles impliquent de payer de l'argent pour obtenir quelque chose d'inconnu.
+**Analyse :**
+
+| Élément | Application |
+|---------|-------------|
+| 📜 Droits d'auteur | Propriété intellectuelle reconnue |
+| 🔗 Qiyas | Comme voler un bien physique |
+| ⚖️ Règle | « Pas de nuisance ni de dommage » |
+
+| Verdict | Explication |
+|---------|-------------|
+| 🔴 Interdit | C'est une forme de vol |
+
+> 💡 **Le Qiyas élargit les règles aux nouvelles réalités !**
+
+</details>
 
 ---
 
-## Conclusion
+## 💭 Réflexion
 
-Le Qiyas est un fondement de la législation islamique qui permet au mujtahid de rattacher les questions nouvelles aux questions textuelles. C'est une preuve de la flexibilité de la Sharia islamique et de sa validité pour tout temps et tout lieu.
+> **L'Imam Ash-Shafi'i** dit :
+>
+> **« Le Qiyas est l'effort de recherche de la vérité selon les indications des textes. »**
+
+> 🎯 **Le Qiyas n'est pas une opinion arbitraire — c'est une méthodologie rigoureuse basée sur les textes !**
 
 ---
 
-*Rabbi zidni 'ilman*
+## 📚 Résumé
+
+| Concept | Explication |
+|---------|-------------|
+| 🎯 Définition | Rattacher un nouveau cas à un original pour une cause commune |
+| ⚖️ Place | Quatrième source de législation |
+| 📊 Piliers | Original, nouveau cas, statut, cause |
+| 🔑 Clé | L'identification de la cause |
+| 📋 Types | A fortiori, par égalité, par infériorité |
 `;

@@ -1,282 +1,370 @@
-export const contentFr = `
-# Al-'Urf et Sadd al-Dhara'i (Coutume et Blocage des Prétextes)
+/**
+ * Usul al-Fiqh - Leçon 008 : La Coutume ('Urf) et Sadd Al-Dhara'i
+ * Contenu en français - Version immersive
+ */
 
-## Première Partie : Al-'Urf (La Coutume)
+export const contentFr = `# 🌍 La Coutume et Sadd Al-Dhara'i — Sources Auxiliaires
 
-### Définition de l'Urf
-
-**L'Urf** (العرف) est ce que les gens ont l'habitude de faire et suivent en parole, acte ou abstention, jusqu'à ce que cela devienne familier chez eux.
-
-#### Définition linguistique
-
-- **'Urf** signifie linguistiquement : ce que les gens connaissent et ont l'habitude de faire
-- On l'appelle aussi : al-'ada (la coutume) ou l'usage général
-
-#### Définition technique
-
-> L'Urf est : ce qui s'est établi dans les esprits par le témoignage des intellects, et que les natures saines ont accueilli avec acceptation.
-
-### Types d'Urf
-
-#### Selon sa source
-
-| Type | Définition | Exemple |
-|------|------------|---------|
-| Urf verbal | Convention des gens sur l'usage d'un terme avec un sens précis | Utiliser "viande" pour désigner autre que le poisson |
-| Urf pratique | Ce que les gens ont l'habitude de faire | La vente par échange sans formule verbale |
-
-#### Selon son étendue
-
-| Type | Définition | Exemple |
-|------|------------|---------|
-| Urf général | Ce que la plupart des gens font | Donner la dot avant le mariage |
-| Urf particulier | Ce que les gens d'un pays ou d'une profession font | Terminologie des commerçants d'un pays |
-
-#### Selon la considération de la Sharia
-
-| Type | Définition | Règle |
-|------|------------|-------|
-| Urf valide | Ce qui ne contredit pas un texte légal | Considéré légalement |
-| Urf corrompu | Ce qui contredit la Sharia | Annulé et non considéré |
-
-### Conditions de Considération de l'Urf
-
-#### Première condition : Être constant ou prédominant
-
-L'urf doit être continu et non intermittent, prédominant et non rare.
-
-#### Deuxième condition : Exister au moment de l'acte
-
-L'urf doit être présent au moment de l'établissement de l'acte ou du contrat.
-
-#### Troisième condition : Ne pas contredire un texte ou un consensus
-
-L'urf ne doit pas s'opposer à une preuve légale établie.
-
-#### Quatrième condition : Ne pas contredire une condition explicite
-
-L'urf ne doit pas contredire ce que les contractants ont explicitement stipulé.
-
-### Règles Juridiques Relatives à l'Urf
-
-| Règle | Signification |
-|-------|---------------|
-| La coutume fait loi | On se réfère à l'urf pour déterminer les règles |
-| Ce qui est connu par coutume est comme stipulé | Ce que les gens font habituellement est comme s'il était stipulé |
-| Le sens propre est abandonné par indication de la coutume | Le sens littéral est abandonné si la coutume dit autrement |
-| La détermination par la coutume est comme la détermination par le texte | Ce que la coutume détermine est comme s'il était déterminé par le texte |
-| Le changement des règles par le changement des temps n'est pas nié | Les règles basées sur la coutume changent avec elle |
-
-### Exemples Pratiques de l'Urf
-
-#### Dans les contrats
-
-| Question | Règle | Justification |
-|----------|-------|---------------|
-| La monnaie dans la vente | Se réfère à la monnaie du pays | La coutume détermine la devise |
-| Le loyer non mentionné | Le loyer équivalent coutumier | La coutume détermine le montant |
-| Partage des bénéfices | Selon la coutume des commerçants | La coutume commerciale est considérée |
-
-#### Dans les expressions
-
-| Question | Règle | Justification |
-|----------|-------|---------------|
-| Jurer de ne pas manger de viande | Ne viole pas avec le poisson | La coutume exclut le poisson de la viande |
-| Waqf pour les enfants | Inclut garçons et filles | La coutume d'usage |
-
-### Changement de l'Urf et son Effet
-
-Si l'urf change, la règle basée sur lui change :
-
-**Règle** : Le changement des règles par le changement des temps n'est pas nié
-
-**Exemple** : Ce qui était considéré comme défaut dans une marchandise autrefois peut ne pas l'être aujourd'hui, et vice versa.
+> **﴿ Accepte ce qu'on t'offre de raisonnable ﴾**
+>
+> — **[Al-A'raf : 199]**
 
 ---
 
-## Deuxième Partie : Sadd al-Dhara'i (Blocage des Prétextes)
+## 🎬 Introduction
 
-### Définition de Sadd al-Dhara'i
+### 🎭 Scène : La Coutume Fait Loi
 
-**Sadd al-Dhara'i** (سد الذرائع) est l'interdiction de ce qui constitue un chemin vers l'interdit, même si c'est permis à l'origine.
+> **Médine, à l'époque des Compagnons...**
+>
+> Un homme vint se plaindre : *« J'ai acheté une maison, mais le vendeur a emporté les portes et les fenêtres ! »*
+>
+> Le juge demanda : *« Était-ce mentionné dans le contrat ? »*
+>
+> L'homme dit : *« Non, mais c'est évident que les portes font partie de la maison ! »*
+>
+> Le juge trancha :
+>
+> **« La coutume fait loi — les portes et fenêtres font partie de la maison selon l'usage. »**
 
-#### Définition linguistique
+> 🎯 **« Al-'Adatu Muhakkama » — La coutume est un critère de jugement !**
 
-- **Dhari'a** : le moyen vers quelque chose
-- **Sadduha** : la bloquer et la fermer
+---
 
-#### Définition technique
+### 🎭 Scène : Omar Ferme la Porte au Mal
 
-> Sadd al-Dhara'i : interdire ce qui semble mener au permis s'il conduit à l'interdit généralement ou fréquemment.
+> **Médine, califat de Omar...**
+>
+> Un homme vint voir Omar et dit :
+>
+> *« Je veux voyager avec ma belle-sœur pour le pèlerinage. Mon frère est décédé. »*
+>
+> **Omar** réfléchit puis dit :
+>
+> **« Non. Même si ton intention est pure, cela ouvre la porte à la suspicion et au mal pour d'autres. »**
 
-### Catégories des Dhara'i
+> 💡 **Sadd Al-Dhara'i — Bloquer les moyens qui mènent au mal !**
 
-#### Selon la règle
+---
 
-| Catégorie | Définition | Règle | Exemple |
-|-----------|------------|-------|---------|
-| Ce qui mène certainement au mal | Moyen qui conduit inévitablement à l'interdit | Interdit par consensus | Creuser un puits derrière une porte dans l'obscurité |
-| Ce qui mène généralement au mal | Moyen qui conduit souvent à l'interdit | Interdit | Vendre des armes pendant les troubles |
-| Ce qui mène rarement au mal | Moyen qui conduit rarement à l'interdit | Non interdit | Cultiver le raisin |
-| Ce qui est égal des deux côtés | Probabilité égale de mal et de bien | Désaccord entre savants | Vente 'ina |
+# Première Partie : La Coutume (Al-'Urf)
 
-### Preuves de l'Autorité de Sadd al-Dhara'i
+---
 
-#### Du Coran
+## 📖 Définition de la Coutume
 
-1. ﴿N'insultez pas ceux qu'ils invoquent en dehors d'Allah, car ils insulteraient Allah par hostilité et par ignorance﴾
-   - Interdiction d'insulter les idoles car c'est un moyen d'insulter Allah
+### Linguistiquement
 
-2. ﴿Ô vous qui croyez, ne dites pas "Ra'ina"﴾
-   - Interdiction d'un mot permis car les Juifs l'utilisaient pour insulter
+| Terme | Signification |
+|-------|---------------|
+| **'Urf** | Ce qui est connu et accepté |
 
-#### De la Sunnah
+### Techniquement
 
-1. « Qu'Allah maudisse les Juifs et les Chrétiens qui ont pris les tombes de leurs prophètes comme mosquées »
-   - Mise en garde contre le moyen vers le shirk
+> **La Coutume ('Urf)** : Ce à quoi les gens se sont habitués et qu'ils pratiquent régulièrement en paroles ou en actes.
 
-2. Le Prophète ﷺ a interdit de tuer les hypocrites
-   - Pour bloquer le moyen qu'on dise : Muhammad tue ses compagnons
+### La Différence avec l'Habitude ('Ada)
 
-#### Des actes des Compagnons
+| 'Urf | 'Ada |
+|------|------|
+| Collectif — d'un groupe | Peut être individuel |
+| Reconnu socialement | Peut être personnel |
 
-1. 'Umar a interdit la vente des mères d'enfants
-2. Il a interdit le regroupement de trois divorces en une seule formule
+> 💡 En pratique, les deux termes sont souvent utilisés de façon interchangeable.
 
-### Position des Écoles sur Sadd al-Dhara'i
+---
+
+## 📊 Types de Coutume
+
+### 1️⃣ Selon l'Étendue
+
+| Type | Définition | Exemple |
+|------|------------|---------|
+| 🌍 Générale | Commune à tous les pays | Le contrat par la parole |
+| 🏘️ Particulière | Propre à une région | Les unités de mesure locales |
+
+### 2️⃣ Selon la Nature
+
+| Type | Définition | Exemple |
+|------|------------|---------|
+| 🗣️ Verbale | Sens donné à un mot | « Viande » = sans poisson dans certaines régions |
+| 🔧 Pratique | Une façon de faire | Payer le taxi à l'arrivée |
+
+### 3️⃣ Selon la Validité
+
+| Type | Définition | Exemple |
+|------|------------|---------|
+| ✅ Valide (Sahih) | Ne contredit pas la Charia | Les arrhes dans la vente |
+| ❌ Invalide (Fasid) | Contredit la Charia | Servir de l'alcool aux invités |
+
+---
+
+## ⚖️ Conditions de Validité de la Coutume
+
+### Les Conditions
+
+| Condition | Explication |
+|-----------|-------------|
+| 1️⃣ Répandue | Pratiquée par la majorité |
+| 2️⃣ Constante | Stable dans le temps |
+| 3️⃣ Ne contredit pas un texte | Ni le Coran ni la Sunna |
+| 4️⃣ Ne contredit pas une condition explicite | Si les parties ont stipulé autre chose |
+| 5️⃣ Existait au moment du contrat | Pas une coutume postérieure |
+
+---
+
+## 📜 Règles Dérivées de la Coutume
+
+### Maximes Juridiques
+
+| Maxime | Signification |
+|--------|---------------|
+| **« La coutume fait loi »** | Elle est un critère de jugement |
+| **« Ce qui est établi par la coutume équivaut au stipulé »** | Comme si c'était écrit |
+| **« L'usage est une référence »** | Pour interpréter les contrats |
+| **« Ce qui est connu par la coutume équivaut à la condition »** | Force de la coutume |
+
+---
+
+# Deuxième Partie : Sadd Al-Dhara'i
+
+---
+
+## 📖 Définition de Sadd Al-Dhara'i
+
+### Linguistiquement
+
+| Terme | Signification |
+|-------|---------------|
+| **Sadd** | Bloquer, fermer |
+| **Dhara'i** | Les moyens, les prétextes |
+
+### Techniquement
+
+> **Sadd Al-Dhara'i** : Interdire ce qui est en soi permis parce qu'il mène à l'interdit.
+
+### L'Idée
+
+| Le Moyen | La Fin |
+|----------|--------|
+| 🟢 Permis en soi | 🔴 Mène à l'interdit |
+| ➡️ Devient interdit | Pour prévenir le mal |
+
+---
+
+## ⚖️ L'Autorité de Sadd Al-Dhara'i
+
+### Qui l'Utilise ?
 
 | École | Position |
 |-------|----------|
-| Malikites | L'école qui l'adopte le plus |
-| Hanbalites | L'adoptent beaucoup |
-| Shafiites | L'adoptent dans certains cas |
-| Hanafites | L'adoptent dans certains cas |
+| 🔵 Malikite | Les plus grands utilisateurs |
+| 🟢 Hanbalite | L'utilisent beaucoup |
+| 🟡 Hanafite | L'utilisent dans certains cas |
+| ⚪ Chaféite | L'utilisent moins |
 
-### Exemples Pratiques de Sadd al-Dhara'i
+### Les Preuves
 
-#### Dans les adorations
-
-| Question | Règle | Justification |
-|----------|-------|---------------|
-| Interdiction de prier près des tombes | Détesté ou interdit | Bloquer le moyen vers le shirk |
-| Détester le jeûne du jour de doute | Détesté | Bloquer le moyen d'ajouter à l'obligation |
-
-#### Dans les transactions
-
-| Question | Règle | Justification |
-|----------|-------|---------------|
-| Vendre du raisin à celui qui fait du vin | Interdit | Bloquer le moyen d'aider à l'interdit |
-| Vendre des armes pendant les troubles | Interdit | Bloquer le moyen du meurtre |
-| Ventes 'ina et tawarruq | Désaccord | Car ce sont des moyens vers l'usure |
-
-#### Dans les relations sociales
-
-| Question | Règle | Justification |
-|----------|-------|---------------|
-| Être seul avec une femme étrangère | Interdit | Bloquer le moyen vers la fornication |
-| Serrer la main d'une femme étrangère | Désaccord | Bloquer le moyen de la tentation |
-
-### Ouverture des Moyens (Fath al-Dhara'i)
-
-Comme les moyens sont bloqués, ils sont aussi ouverts :
-
-**Fath al-Dhara'i** : Permettre ce qui mène à l'intérêt même si c'est interdit à l'origine.
-
-**Exemples** :
-- Permission de regarder la fiancée (sinon le regard est interdit)
-- Permission de découvrir la 'awra pour le médecin pour le traitement
-
-### Différence entre Sadd al-Dhara'i et Maslaha Mursala
-
-| Sadd al-Dhara'i | Maslaha Mursala |
-|-----------------|-----------------|
-| Empêcher ce qui mène au mal | Réaliser ce qui apporte le bien |
-| Focus sur les moyens | Focus sur les objectifs |
-| Négatif (empêcher) | Positif (réaliser) |
-
-### Règles de Sadd al-Dhara'i
-
-1. **Vérifier que le moyen mène au mal** : On n'interdit que ce qui mène généralement au mal
-2. **Équilibrer entre intérêts et méfaits** : Si l'intérêt est plus grand, on n'interdit pas
-3. **Ne pas exagérer** : Pour ne pas interdire les choses permises
+| Preuve | Explication |
+|--------|-------------|
+| 📖 ﴿ N'insultez pas ceux qu'ils invoquent en dehors d'Allah ﴾ | De peur qu'ils n'insultent Allah |
+| 📜 Interdiction de la vente pendant l'appel à la prière | Pour ne pas manquer la prière |
+| ⚖️ Interdiction des cadeaux au juge | Pour éviter la corruption |
 
 ---
 
-## 📖 Récits des Salaf
+## 📊 Niveaux des Moyens
 
-### Ibn 'Abbas et la Coutume des Dots
+### Classification
 
-Un homme vint voir 'Abdullah ibn 'Abbas pour l'interroger sur la dot de sa femme. L'homme dit : "Je l'ai épousée sans fixer de dot, que dois-je lui payer ?"
-
-Ibn 'Abbas lui demanda : **"Quelle est la dot des femmes semblables à elle parmi vos femmes ?"**
-
-L'homme dit : "Telle et telle somme."
-
-Ibn 'Abbas dit : **"Elle a droit à la dot de ses semblables, ni moins ni plus."**
-
-**La leçon** : Ibn 'Abbas s'est référé à la coutume pour déterminer la dot équivalente, ce qui montre que les Compagnons considéraient la coutume dans les règles relatives aux transactions et aux relations sociales.
+| Niveau | Définition | Verdict |
+|--------|------------|---------|
+| 1️⃣ Mène certainement au mal | Résultat inévitable | Interdit par consensus |
+| 2️⃣ Mène probablement au mal | Le plus souvent | Interdit |
+| 3️⃣ Mène rarement au mal | Exceptionnellement | Généralement permis |
+| 4️⃣ Mène également au bien ou au mal | 50/50 | Divergence |
 
 ---
 
-### 'Umar ibn Al-Khattab et le Blocage du Moyen vers le Shirk
+## 🎭 Exemples Classiques
 
-'Umar ibn Al-Khattab vit les gens chercher la bénédiction auprès de l'arbre sous lequel les Compagnons avaient prêté allégeance au Prophète ﷺ (le serment de Ridwan). Il ordonna de le couper et dit :
+### Exemples de Sadd Al-Dhara'i
 
-**"Ce qui a détruit les Enfants d'Israël, c'est qu'ils ont suivi les traces de leurs prophètes et en ont fait des églises et des temples."**
+| Moyen | Mal Évité |
+|-------|-----------|
+| 🚫 Vendre des armes en temps de fitna | Le meurtre |
+| 🚫 Vendre du raisin au fabricant de vin | La fabrication d'alcool |
+| 🚫 Le tête-à-tête homme-femme | La tentation |
+| 🚫 Les cadeaux au juge | La corruption |
 
-**La leçon** : 'Umar a coupé l'arbre béni pour bloquer le moyen vers le shirk, bien que chercher la bénédiction auprès de lui ne soit pas interdit en soi. Mais il a craint que la situation n'évolue vers l'adoration de l'arbre, il a donc bloqué le moyen avant qu'il ne mène au mal.
+### La Règle Inverse : Fath Al-Dhara'i
 
----
+> Parfois, on **ouvre** les moyens vers le bien :
 
-## 🎯 Cas Pratiques Contemporains
-
-### Premier Cas (Coutume) : Les Devises des Différents Pays
-
-**Question** : Si le prix est mentionné dans le contrat sans préciser la devise, quelle devise est considérée ?
-
-**Réponse** : On se réfère à la coutume du pays. Si le contrat est en Arabie Saoudite, le prix est en riyals. Si c'est en Égypte, le prix est en livres égyptiennes. La règle : **"Ce qui est connu par coutume est comme ce qui est stipulé."**
-
----
-
-### Deuxième Cas (Coutume) : Le Changement de la Notion de Défaut dans les Marchandises
-
-**Question** : Autrefois, la coutume était qu'une légère rayure sur une voiture n'était pas un défaut, mais la coutume a changé aujourd'hui. Quel est le statut ?
-
-**Réponse** : Le statut change avec le changement de la coutume. La règle : **"Le changement des règles par le changement des temps n'est pas nié."** Ce qui est considéré comme défaut selon la coutume moderne est un défaut donnant droit à l'option, même si ce n'était pas le cas auparavant.
+| Moyen | Bien Recherché |
+|-------|----------------|
+| 🟢 Construire des mosquées | Faciliter la prière |
+| 🟢 Établir des écoles | Répandre la science |
 
 ---
 
-### Troisième Cas (Blocage des Moyens) : L'Isolement au Travail
+## 🎯 Cas Contemporains
 
-**Question** : Quel est le statut d'un homme seul avec une femme dans un bureau de travail ?
+### 🍷 Cas 1 : Travailler dans un Restaurant qui Sert de l'Alcool
 
-**Réponse** : L'isolement avec une femme étrangère est interdit pour bloquer le moyen de la tentation. Il est recommandé que la porte du bureau soit ouverte ou vitrée, ou qu'il y ait une troisième personne, pour empêcher ce à quoi l'isolement pourrait mener.
+> **Situation** : Un musulman travaille comme serveur dans un restaurant qui sert de l'alcool.
+
+**❓ Est-ce permis ?**
+
+<details>
+<summary>📜 Cliquez pour la réponse</summary>
+
+**Application de Sadd Al-Dhara'i :**
+
+| Élément | Analyse |
+|---------|---------|
+| 🔍 L'acte direct | Servir de l'alcool |
+| ⚖️ Le hadith | « Maudit celui qui sert l'alcool » |
+| 🚫 Verdict | Interdit |
+
+| Alternative | |
+|-------------|--|
+| 🟢 Travailler en cuisine (nourriture halal) | Permis |
+| 🟢 Chercher un autre emploi | Recommandé |
+
+> 💡 **Sadd Al-Dhara'i interdit de participer à la chaîne du haram !**
+
+</details>
 
 ---
 
-### Quatrième Cas (Blocage des Moyens) : La Vente de Produits Chimiques
+### 💻 Cas 2 : Créer un Site Web pour une Banque Usurière
 
-**Question** : Quel est le statut de la vente de produits chimiques pouvant être utilisés dans la fabrication de drogues ?
+> **Situation** : Un développeur reçoit une offre pour créer le site d'une banque pratiquant l'usure.
 
-**Réponse** : Si le vendeur pense que l'acheteur les utilisera pour le haram, la vente est interdite pour bloquer le moyen d'aider à l'interdit. C'est comme la vente d'armes pendant les troubles.
+**❓ Est-ce permis ?**
+
+<details>
+<summary>📜 Cliquez pour la réponse</summary>
+
+**Analyse :**
+
+| Élément | Évaluation |
+|---------|------------|
+| 🔍 L'acte direct | Créer un site (en soi neutre) |
+| ⚠️ La finalité | Faciliter les transactions usurières |
+| 📜 Le hadith | « Allah a maudit... celui qui l'écrit » |
+
+| Verdict | Explication |
+|---------|-------------|
+| 🔴 Interdit | Par Sadd Al-Dhara'i |
+
+> 💡 **L'aide au haram est interdite !**
+
+</details>
 
 ---
 
-### Cinquième Cas (Coutume et Blocage) : Les Cadeaux aux Employés
+### 📱 Cas 3 : Les Réseaux Sociaux Mixtes
 
-**Question** : Quel est le statut d'un employé qui accepte des cadeaux des clients ?
+> **Situation** : Un réseau social permet les discussions privées entre hommes et femmes.
 
-**Réponse** : Le principe du cadeau est la permission, mais pour un employé public, cela peut être un moyen de corruption et de favoritisme. Dans le hadith authentique d'Ibn al-Lutbiyya (rapporté par al-Bukhari et Muslim), le Prophète ﷺ a reproché à un collecteur de zakat d'avoir accepté des cadeaux, en disant : **"Qu'en est-il de l'employé que nous envoyons et qui dit : ceci est pour vous et ceci m'a été offert ?"** On les interdit donc pour bloquer le moyen, même s'ils sont permis à l'origine.
+**❓ Quel est le statut de son utilisation ?**
+
+<details>
+<summary>📜 Cliquez pour la réponse</summary>
+
+**Application de Sadd Al-Dhara'i :**
+
+| Usage | Verdict |
+|-------|---------|
+| 💼 Discussions professionnelles nécessaires | 🟢 Permis avec précautions |
+| 💬 Discussions personnelles sans besoin | 🔴 Dangereux → à éviter |
+| ❌ Flirt ou relations inappropriées | 🔴 Interdit clairement |
+
+**Précautions :**
+- Éviter le tête-à-tête virtuel prolongé
+- Garder les échanges formels
+- Préférer les groupes aux discussions privées
+
+> 💡 **Le moyen n'est pas interdit en soi, mais son mauvais usage l'est !**
+
+</details>
 
 ---
 
-## 💡 Pause Réflexion
+### 🎁 Cas 4 : Les Cadeaux de Fin d'Année aux Fournisseurs
 
-> La coutume change avec le temps et le lieu, et les règles basées sur elle changent avec son changement. Pensez à trois coutumes qui ont changé dans votre société au cours des dernières décennies. Comment ce changement a-t-il affecté les règles juridiques qui y sont liées ? Est-ce que tout changement de coutume nécessite un changement de règle ?
+> **Situation** : Une entreprise offre des cadeaux aux acheteurs des grandes sociétés.
+
+**❓ Est-ce de la corruption ?**
+
+<details>
+<summary>📜 Cliquez pour la réponse</summary>
+
+**Analyse par Sadd Al-Dhara'i :**
+
+| Situation | Verdict |
+|-----------|---------|
+| 🎁 Cadeau après la transaction | Zone grise |
+| 🎁 Cadeau pour influencer une décision | 🔴 Corruption |
+| 🎁 Cadeau modeste de remerciement | 🟢 Toléré si transparent |
+
+**Critères :**
+- Le cadeau influence-t-il les décisions futures ?
+- Y a-t-il transparence avec l'employeur ?
+- La valeur est-elle excessive ?
+
+> 💡 **La frontière avec la corruption doit être claire !**
+
+</details>
 
 ---
 
-## Conclusion
+### 🏠 Cas 5 : Louer un Appartement à un Célibataire
 
-L'Urf et Sadd al-Dhara'i sont deux preuves importantes qui tiennent compte de la réalité des gens et des conséquences des actes, et permettent au juriste d'atteindre des règles qui réalisent les objectifs de la Sharia en apportant les intérêts et en repoussant les méfaits.
+> **Situation** : Un propriétaire hésite à louer à un jeune célibataire par crainte de nuisances.
+
+**❓ Peut-il refuser sur cette base ?**
+
+<details>
+<summary>📜 Cliquez pour la réponse</summary>
+
+**La coutume intervient :**
+
+| Élément | Analyse |
+|---------|---------|
+| 📜 Le droit de choisir | Le propriétaire peut choisir son locataire |
+| 🌍 La coutume locale | Si les célibataires posent généralement problème |
+| ⚖️ La justice | Ne pas généraliser injustement |
+
+| Verdict | Explication |
+|---------|-------------|
+| 🟢 Permis de choisir | C'est son droit |
+| ⚠️ Mais | Évaluer chaque cas individuellement |
+
+> 💡 **La coutume informe, mais la justice prime !**
+
+</details>
+
+---
+
+## 💭 Réflexion
+
+> **L'Imam Al-Qarafi** (Malikite) dit :
+>
+> **« Les jugements basés sur la coutume changent avec le changement de cette coutume. »**
+
+> 🎯 **La coutume et Sadd Al-Dhara'i sont des outils de sagesse — ils protègent la communauté tout en respectant les textes !**
+
+---
+
+## 📚 Résumé
+
+| Concept | La Coutume ('Urf) | Sadd Al-Dhara'i |
+|---------|-------------------|-----------------|
+| 🎯 Définition | Ce que les gens pratiquent | Bloquer les moyens vers le mal |
+| ⚖️ Condition | Ne pas contredire la Charia | Le mal probable |
+| 📊 Types | Générale/particulière, verbale/pratique | Selon le degré de probabilité |
+| 🔧 Utilité | Interpréter les contrats | Prévenir le haram |
 `;

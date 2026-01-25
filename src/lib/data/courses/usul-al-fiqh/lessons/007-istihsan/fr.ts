@@ -1,242 +1,328 @@
-export const contentFr = `
-# Istihsan et Istishab
+/**
+ * Usul al-Fiqh - Leçon 007 : L'Istihsan (La Préférence Juridique)
+ * Contenu en français - Version immersive
+ */
 
-## Première Partie : L'Istihsan (Préférence Juridique)
+export const contentFr = `# ⚖️ L'Istihsan — La Préférence Juridique
 
-### Définition de l'Istihsan
+> **﴿ Ceux qui écoutent la Parole puis suivent ce qu'elle contient de meilleur ﴾**
+>
+> — **[Az-Zumar : 18]**
 
-**L'Istihsan** (الاستحسان) est le fait de s'écarter du jugement d'une preuve vers le jugement d'une autre preuve plus forte, ou de s'écarter d'un qiyas vers un autre plus fort, ou d'exclure une question d'un principe général pour une preuve spécifique.
+---
 
-#### Définition linguistique
+## 🎬 Introduction
 
-- **Istihsan** signifie linguistiquement : considérer une chose comme bonne et l'apprécier
+### 🎭 Scène : Abu Hanifa et le Voleur
 
-#### Définition technique
+> **Kufa, à l'époque de l'Imam Abu Hanifa...**
+>
+> On amena un homme accusé de vol devant le juge.
+>
+> Selon la règle générale (Qiyas), sa main devait être coupée.
+>
+> **Abu Hanifa** examina le cas et dit :
+>
+> **« Cet homme a volé moins qu'un quart de dinar, dans un lieu ouvert. Le Qiyas dit de couper, mais l'Istihsan dit de ne pas couper — car les conditions de la peine ne sont pas complètes. »**
 
-> L'Istihsan est : abandonner le qiyas et adopter ce qui est plus approprié pour les gens.
-> 
-> On dit aussi : c'est s'écarter d'un qiyas évident vers un qiyas subtil, ou d'une règle générale vers une règle exceptionnelle pour une preuve qui l'exige.
+> 🎯 **L'Istihsan : délaisser le Qiyas apparent pour une preuve plus forte !**
 
-### Types d'Istihsan
+---
 
-#### 1. Istihsan par le Texte
+### 🎭 Scène : Le Débat entre Ash-Shafi'i et les Hanafites
 
-S'écarter du qiyas en raison d'un texte du Coran ou de la Sunnah.
+> **L'Imam Ash-Shafi'i** dit :
+>
+> **« Celui qui pratique l'Istihsan légifère ! »**
+>
+> Les Hanafites répondirent :
+>
+> **« L'Istihsan n'est pas de légiférer selon ses passions. C'est de délaisser un Qiyas pour une preuve plus forte — un texte, un consensus ou une nécessité. »**
 
-**Exemple** : La vente Salam (vente d'un bien décrit contre paiement immédiat)
-- Qiyas : l'interdit car c'est vendre ce qui n'existe pas
-- Istihsan : sa permission par le texte : « Celui qui fait le salam, qu'il le fasse dans une mesure connue... »
+> 💡 **La divergence est verbale — tous acceptent le principe avec des définitions différentes !**
 
-#### 2. Istihsan par le Consensus
+---
 
-S'écarter du qiyas en raison du consensus des savants sur le contraire.
+## 📖 Définition de l'Istihsan
 
-**Exemple** : Le contrat d'Istisna' (commande de fabrication)
-- Qiyas : l'interdit car le bien vendu n'existe pas
-- Istihsan : sa permission par le consensus pratique
+### Linguistiquement
 
-#### 3. Istihsan par le Qiyas Subtil
+| Terme | Signification |
+|-------|---------------|
+| **Istihsan** | Considérer quelque chose comme bon |
 
-Abandonner le qiyas évident pour adopter un qiyas plus subtil et plus fort.
+### Techniquement
 
-**Exemple** : Les restes d'eau des oiseaux de proie
-- Qiyas évident : impureté par analogie aux bêtes sauvages
-- Qiyas subtil : pureté car ils boivent avec leur bec qui est pur
+> **L'Istihsan** : Délaisser le Qiyas apparent (jali) pour un Qiyas caché (khafi) ou une preuve plus forte, en raison d'un indice qui le justifie.
 
-#### 4. Istihsan par l'Intérêt
+### En Pratique
 
-Abandonner le qiyas pour réaliser un intérêt reconnu.
+| Le Qiyas Apparent | L'Istihsan |
+|-------------------|------------|
+| La règle générale s'applique | Une exception s'impose |
+| Fondé sur une cause apparente | Fondé sur une cause plus précise |
 
-**Exemple** : La responsabilité de l'artisan partagé
-- Qiyas : non responsable car c'est un dépositaire
-- Istihsan : responsable pour protéger les biens des gens
+---
 
-#### 5. Istihsan par la Coutume
+## ⚖️ L'Autorité de l'Istihsan
 
-Abandonner le qiyas pour agir selon ce que les gens ont coutume de faire.
-
-**Exemple** : Entrer dans les bains publics
-- Qiyas : l'interdit car ignorance de la quantité d'eau et de la durée
-- Istihsan : permission par la coutume
-
-#### 6. Istihsan par la Nécessité
-
-Abandonner le qiyas pour une nécessité ou un besoin pressant.
-
-**Exemple** : La pureté des puits
-- Qiyas : impureté par contact avec l'impureté
-- Istihsan : pureté par le puisage pour la nécessité
-
-### Position des Écoles sur l'Istihsan
+### Qui l'Accepte ?
 
 | École | Position |
 |-------|----------|
-| Hanafites | L'adoptent largement |
-| Malikites | L'adoptent et l'appellent parfois "Istislah" |
-| Hanbalites | L'adoptent dans certains cas |
-| Shafiites | Le rejettent verbalement mais appliquent son sens |
+| 🔵 Hanafite | Fortement utilisé |
+| 🟢 Malikite | Utilisé également |
+| 🟡 Hanbalite | Utilisé dans certains cas |
+| 🔴 Chaféite | Critiquent le terme, acceptent le concept |
 
-### La Parole de l'Imam Shafi'i sur l'Istihsan
+### La Critique de l'Imam Ash-Shafi'i
 
-L'Imam Shafi'i a dit : **"Celui qui fait l'istihsan a légiféré"**
-
-Le sens : c'est le rejet de l'istihsan par simple désir et caprice, non l'istihsan encadré par les preuves.
-
----
-
-## Deuxième Partie : L'Istishab (Présomption de Continuité)
-
-### Définition de l'Istishab
-
-**L'Istishab** (الاستصحاب) est le fait de juger qu'une chose subsiste dans le présent sur la base de son existence dans le passé, en l'absence de ce qui la changerait.
-
-#### Définition linguistique
-
-- **Istishab** signifie linguistiquement : demander la compagnie et sa continuité
-
-#### Définition technique
-
-> L'Istishab est : maintenir ce qui était dans son état antérieur en l'absence de changement.
-
-### Types d'Istishab
-
-#### 1. Présomption d'Innocence Originelle
-
-L'origine est l'innocence de toute obligation et de tout droit jusqu'à preuve du contraire.
-
-**Exemple** : 
-- La zakat n'est pas obligatoire jusqu'à posséder le nisab
-- L'accusé est innocent jusqu'à preuve de sa culpabilité
-
-#### 2. Présomption de la Caractéristique Établissant la Règle
-
-Si une caractéristique est établie entraînant une règle, la règle continue tant que la caractéristique persiste.
-
-**Exemple** : 
-- La propriété d'un bien continue jusqu'à preuve de sa disparition
-- Le mariage continue jusqu'à preuve du divorce
-
-#### 3. Présomption de la Règle Légale
-
-Si une règle légale est établie, elle est maintenue jusqu'à l'arrivée d'un abrogeant.
-
-**Exemple** : 
-- La permission de manger la viande de chameau continue (pour ceux qui la soutiennent)
-
-#### 4. Présomption du Consensus dans le Lieu de Désaccord
-
-Maintenir la règle consensuelle dans la question controversée.
-
-**Exemple** : 
-- Le consensus sur la validité de la prière de celui qui fait le tayammum est maintenu s'il voit l'eau pendant la prière
-
-### Règles Dérivées de l'Istishab
-
-| Règle | Signification |
-|-------|---------------|
-| L'origine est le maintien de ce qui était | La chose continue dans son état jusqu'à preuve du contraire |
-| La certitude n'est pas levée par le doute | Ce qui est établi par certitude n'est pas annulé par le doute |
-| L'origine est l'innocence | Pas d'obligation sans preuve |
-| L'origine dans les choses est la permission | Le permis est l'origine jusqu'à preuve d'interdiction |
-| L'origine dans les relations intimes est l'interdiction | La relation conjugale est originellement interdite jusqu'à preuve du contrat |
-
-### Exemples Pratiques de l'Istishab
-
-#### Dans les Adorations
-
-| Question | Règle | Justification |
-|----------|-------|---------------|
-| Celui qui doute de son état d'impureté | Pur | Présomption de la pureté établie |
-| Celui qui doute du nombre de rak'ats | Se base sur le minimum | Présomption de non-accomplissement de la rak'a douteuse |
-
-#### Dans les Transactions
-
-| Question | Règle | Justification |
-|----------|-------|---------------|
-| Celui qui prétend une dette sur autrui | La parole est à celui qui nie | Présomption d'innocence du défendeur |
-| Absent dont on ignore l'état | Traité comme vivant | Présomption de sa vie établie |
-
-### Autorité de l'Istishab
-
-#### Selon la Majorité
-
-L'Istishab est une preuve dans la négation et l'affirmation, et on l'applique en l'absence de preuve contraire.
-
-#### Preuves de son Autorité
-
-1. **Du Coran** : ﴿C'est Lui qui a créé pour vous tout ce qui est sur la terre﴾ preuve que l'origine est la permission
-2. **De la Sunnah** : « Laisse-la jusqu'à ce qu'elle urine » concernant la terre dont on doute de l'impureté
-3. **De la Raison** : Certitude du maintien de l'état en l'absence de changement
-
-### Différence entre Istihsan et Istishab
-
-| Istihsan | Istishab |
-|----------|----------|
-| Déviation d'une preuve vers une plus forte | Maintien de l'état antérieur |
-| Nécessite une preuve exceptionnelle | Ne nécessite pas de nouvelle preuve |
-| Son autorité est controversée | Son autorité est acceptée par la majorité |
+> Il dit : **« Celui qui pratique l'Istihsan légifère. »**
+>
+> **Réponse des Hanafites** : Notre Istihsan n'est pas l'opinion personnelle, mais une preuve qui prévaut sur le Qiyas apparent.
 
 ---
 
-## 📖 Récits des Salaf
+## 📊 Types d'Istihsan
 
-### L'Imam Abu Hanifa et la Justice dans le Jugement
+### 1️⃣ Istihsan par le Texte
 
-L'Imam Abu Hanifa, qu'Allah lui fasse miséricorde, était l'un des plus éminents à avoir établi et pratiqué l'Istihsan. Parmi les histoires célèbres le concernant :
+| Définition | Exemple |
+|------------|---------|
+| Un texte fait exception à la règle générale | Le contrat Salam (vente à terme) |
+| Le Qiyas l'interdirait | Le hadith l'autorise |
 
-Un homme vint voir Abu Hanifa pour lui demander conseil concernant un ouvrier qu'il avait embauché pour transporter ses marchandises, mais les marchandises étaient tombées et endommagées. L'homme dit : "Le Qiyas veut que l'ouvrier soit un dépositaire, et le dépositaire n'est responsable qu'en cas de transgression ou de négligence."
+### 2️⃣ Istihsan par le Consensus
 
-Abu Hanifa dit : **"Je préfère (istahsinu) le rendre responsable."**
+| Définition | Exemple |
+|------------|---------|
+| Le consensus fait exception | Le contrat Istisna' (fabrication sur commande) |
+| Le Qiyas l'interdirait | Le consensus l'autorise |
 
-On lui demanda : Pourquoi ?
+### 3️⃣ Istihsan par la Nécessité
 
-Il dit : **"Parce que si nous ne rendions pas les ouvriers responsables, chaque ouvrier prétendrait que les biens ont été endommagés ou perdus, et les biens des gens seraient perdus. L'intérêt exige de les rendre responsables pour protéger les biens des gens."**
+| Définition | Exemple |
+|------------|---------|
+| La nécessité impose l'exception | Purifier les puits pollués |
+| Le Qiyas dit : impossible | La nécessité dit : par extraction d'eau |
 
-**La leçon** : Abu Hanifa a vu que le Qiyas apparent s'opposait à un intérêt plus grand, il l'a donc abandonné pour ce qui était plus approprié pour les gens et plus protecteur de leurs droits. C'est l'essence de l'Istihsan : s'écarter du jugement apparent pour une sagesse plus forte.
+### 4️⃣ Istihsan par la Coutume
 
----
+| Définition | Exemple |
+|------------|---------|
+| La coutume fait exception | Entrer au hammam sans fixer le prix |
+| Le Qiyas l'interdirait (gharar) | La coutume l'autorise |
 
-## 🎯 Cas Pratiques Contemporains
+### 5️⃣ Istihsan par le Qiyas Caché
 
-### Premier Cas : Le Don d'Organes Après le Décès
-
-**Question** : Le principe est que le corps humain est honoré et qu'il n'est pas permis d'en disposer, quel est donc le statut du don d'organes après la mort ?
-
-**Réponse** : Le Qiyas apparent l'interdit, mais de nombreux juristes contemporains ont préféré (istahsanu) sa permission sous conditions, pour ce qu'il contient de sauvetage d'une vie humaine. L'intérêt de sauver une vie est plus fort que de garder un organe qui va se décomposer.
-
----
-
-### Deuxième Cas : La Photographie pour les Documents
-
-**Question** : Le Qiyas sur l'image interdite exigerait l'interdiction de la photographie, quel est le statut ?
-
-**Réponse** : Beaucoup de savants ont préféré (istahsanu) sa permission pour le besoin et la nécessité, surtout pour les documents officiels. Le besoin général de prouver l'identité et d'empêcher la falsification est un intérêt qui prime sur le Qiyas apparent.
-
----
-
-### Troisième Cas : Les Contrats d'Assurance Maladie
-
-**Question** : Le Qiyas sur les jeux de hasard et l'incertitude exigerait l'interdiction de l'assurance, quel est le statut de l'assurance maladie ?
-
-**Réponse** : Certains juristes ont préféré (istahsanu) l'assurance maladie mutualiste pour ce qu'elle contient de solidarité sociale et de protection de l'individu contre les catastrophes sanitaires. L'intérêt réalisé est plus fort que le Qiyas sur l'incertitude pure.
+| Définition | Exemple |
+|------------|---------|
+| Un Qiyas plus précis prévaut | Les restes de carnivores |
+| Qiyas apparent : impurs | Qiyas caché : la salive ne change pas l'eau |
 
 ---
 
-### Quatrième Cas : Les Banques Électroniques
+## 🎭 Exemples Pratiques
 
-**Question** : Le Qiyas sur le change exigerait la remise en main propre dans la séance, comment traiter les transferts bancaires électroniques ?
+### Exemple 1 : Le Contrat Salam
 
-**Réponse** : Les juristes ont préféré (istahsanu) que la réception électronique tienne lieu de réception réelle, car l'usage moderne la considère comme une réception complète, et l'intérêt exige de faciliter les transactions financières.
+| Sans Istihsan | Avec Istihsan |
+|---------------|---------------|
+| 🔴 Interdit | 🟢 Permis |
+| Vendre ce qu'on ne possède pas | Le Prophète ﷺ l'a autorisé |
+
+> Le Prophète ﷺ dit : **« Celui qui fait un salam, qu'il le fasse avec mesure connue, poids connu et délai connu. »**
+
+### Exemple 2 : Le Waqf (Bien de Mainmorte)
+
+| Sans Istihsan | Avec Istihsan |
+|---------------|---------------|
+| 🔴 La propriété ne peut être figée | 🟢 Le waqf est valide |
+| Qiyas sur la vente | Textes et pratique des Compagnons |
+
+### Exemple 3 : Le Hammam Public
+
+| Sans Istihsan | Avec Istihsan |
+|---------------|---------------|
+| 🔴 Prix et durée inconnus (gharar) | 🟢 Permis par la coutume |
+| Qiyas l'interdirait | La nécessité sociale l'autorise |
 
 ---
 
-## 💡 Pause Réflexion
+## ⚠️ Limites de l'Istihsan
 
-> L'Imam Ash-Shafi'i a dit : "Celui qui fait l'Istihsan a légiféré", tandis qu'Abu Hanifa disait : "Neuf dixièmes du fiqh sont dans l'Istihsan". Comment comprenez-vous ce désaccord ? Pensez-vous que l'Istihsan est un outil nécessaire pour l'ijtihad contemporain, ou qu'il est une porte qui pourrait mener au laxisme dans les règles ?
+### Ce que l'Istihsan N'est PAS
+
+| Ce qu'il n'est pas | Explication |
+|-------------------|-------------|
+| 🚫 L'opinion personnelle | Doit être basé sur une preuve |
+| 🚫 Suivre les passions | Doit avoir un fondement légal |
+| 🚫 Contredire les textes | Doit s'inscrire dans la Charia |
+
+### Les Conditions
+
+| Condition | Explication |
+|-----------|-------------|
+| 1️⃣ | Basé sur une preuve (texte, consensus, nécessité, coutume) |
+| 2️⃣ | Plus fort que le Qiyas apparent |
+| 3️⃣ | Ne contredit pas un texte clair |
 
 ---
 
-## Conclusion
+## 🎯 Cas Contemporains
 
-L'Istihsan et l'Istishab sont deux preuves du fiqh islamique qui permettent au juriste d'atteindre la règle légale appropriée, tout en respectant les règles de la Sharia et en réalisant ses objectifs de facilitation et de levée de la difficulté.
+### 💳 Cas 1 : Les Cartes de Crédit
+
+> **Situation** : Les cartes de crédit impliquent un engagement de paiement futur.
+
+**❓ Sont-elles permises ?**
+
+<details>
+<summary>📜 Cliquez pour la réponse</summary>
+
+**Analyse par l'Istihsan :**
+
+| Qiyas Apparent | Istihsan |
+|----------------|----------|
+| 🔴 Dette avec incertitude | 🟢 Nécessité moderne et coutume commerciale |
+
+| Verdict | Conditions |
+|---------|------------|
+| 🟢 Permis | Si pas d'intérêts (paiement à temps) |
+| 🔴 Interdit | Si intérêts en cas de retard |
+
+> 💡 **L'Istihsan par la nécessité avec des limites !**
+
+</details>
+
+---
+
+### 🏠 Cas 2 : La Location avec Option d'Achat
+
+> **Situation** : Un contrat combine location et promesse de vente.
+
+**❓ Est-ce permis ?**
+
+<details>
+<summary>📜 Cliquez pour la réponse</summary>
+
+**Deux contrats en un :**
+
+| Qiyas Apparent | Istihsan |
+|----------------|----------|
+| 🔴 Deux contrats sur un même objet | 🟢 Besoin commercial reconnu |
+
+| Verdict | Selon les académies |
+|---------|---------------------|
+| 🟢 Permis | Avec des conditions strictes |
+
+**Conditions :**
+- Les deux contrats sont séparés
+- Pas de condition liante dès le départ
+- Option libre à la fin
+
+> 💡 **L'Istihsan structure les transactions modernes !**
+
+</details>
+
+---
+
+### 🏥 Cas 3 : L'Assurance Maladie
+
+> **Situation** : L'assurance implique incertitude (gharar) sur le montant des prestations.
+
+**❓ Est-elle permise ?**
+
+<details>
+<summary>📜 Cliquez pour la réponse</summary>
+
+**Analyse :**
+
+| Qiyas Apparent | Istihsan par Nécessité |
+|----------------|------------------------|
+| 🔴 Gharar interdit | 🟢 Besoin vital de protection |
+
+| Type | Verdict |
+|------|---------|
+| 🟢 Assurance coopérative (Takaful) | Permise |
+| 🟡 Assurance commerciale | Divergence (permise par nécessité selon certains) |
+
+> 💡 **L'Istihsan ouvre la porte aux solutions alternatives !**
+
+</details>
+
+---
+
+### 📱 Cas 4 : Les Abonnements Téléphoniques
+
+> **Situation** : On paie un montant fixe pour une consommation variable.
+
+**❓ Y a-t-il du gharar ?**
+
+<details>
+<summary>📜 Cliquez pour la réponse</summary>
+
+**Application de l'Istihsan :**
+
+| Élément | Analyse |
+|---------|---------|
+| 🔍 Gharar mineur | La variation est dans une fourchette connue |
+| 🌍 Coutume établie | Pratique commerciale universelle |
+| ⚖️ Besoin | Service essentiel |
+
+| Verdict | Explication |
+|---------|-------------|
+| 🟢 Permis | Par Istihsan de la coutume et du besoin |
+
+> 💡 **Le gharar mineur est toléré pour les besoins !**
+
+</details>
+
+---
+
+### 🎓 Cas 5 : Les Frais de Scolarité Payés d'Avance
+
+> **Situation** : On paie l'année scolaire avant de recevoir tous les cours.
+
+**❓ Est-ce du Salam valide ?**
+
+<details>
+<summary>📜 Cliquez pour la réponse</summary>
+
+**Analyse :**
+
+| Qiyas | Istihsan |
+|-------|----------|
+| 🔍 Vendre un service futur | 🟢 Coutume établie dans l'éducation |
+| Le nombre exact de cours peut varier | La pratique est universelle |
+
+| Verdict | Explication |
+|---------|-------------|
+| 🟢 Permis | Par Istihsan de la coutume |
+
+> 💡 **Les contrats de services suivent leurs propres règles !**
+
+</details>
+
+---
+
+## 💭 Réflexion
+
+> **L'Imam Al-Karhi** (Hanafite) dit :
+>
+> **« L'Istihsan est de délaisser le Qiyas pour quelque chose de plus fort — un texte, un consensus ou une nécessité qui s'impose. »**
+
+> 🎯 **L'Istihsan n'est pas l'arbitraire — c'est la précision dans l'application des règles !**
+
+---
+
+## 📚 Résumé
+
+| Concept | Explication |
+|---------|-------------|
+| 🎯 Définition | Délaisser le Qiyas apparent pour une preuve plus forte |
+| ⚖️ Fondement | Texte, consensus, nécessité, coutume, Qiyas caché |
+| 📊 Utilisateurs | Principalement Hanafites et Malikites |
+| ⚠️ Condition | Doit être basé sur une preuve, pas l'opinion |
+| 🔧 Utilité | Adapter les règles aux réalités sans les contredire |
 `;

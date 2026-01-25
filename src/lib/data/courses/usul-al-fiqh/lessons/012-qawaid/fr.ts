@@ -1,261 +1,418 @@
-export const contentFr = `
-# Les Maximes Juridiques (Al-Qawa'id Al-Fiqhiyyah)
+/**
+ * Usul al-Fiqh - Leçon 012 : Les Maximes Juridiques (Al-Qawa'id Al-Fiqhiyya)
+ * Contenu en français - Version immersive
+ */
 
-## Introduction
+export const contentFr = `# 📜 Les Maximes Juridiques — Les Cinq Grandes Règles
 
-Les maximes juridiques sont parmi les sciences les plus importantes qui aident le juriste à maîtriser et comprendre le fiqh. Elles rassemblent de nombreuses branches sous des principes unificateurs, facilitant ainsi la mémorisation, la compréhension et la dérivation.
-
-## Définition des Maximes Juridiques
-
-**Étymologie :** Al-qa'ida signifie la base, le fondement. Son pluriel est qawa'id.
-
-**Terminologie :** Un jugement universel qui s'applique à ses cas particuliers pour en connaître leur statut.
-
-Ou : Des principes juridiques généraux en formules concises contenant des règles législatives générales concernant les cas qui entrent dans leur sujet.
-
-## Différence entre Maxime Juridique et Règle de Usul
-
-| Maxime Juridique | Règle de Usul |
-|------------------|---------------|
-| Concerne les règles subsidiaires | Concerne les méthodes de déduction |
-| Sujet : actes des responsables | Sujet : preuves légales |
-| Dérivée des branches | Dérivée de la langue et de la Loi |
-| Ex : Le préjudice doit être éliminé | Ex : L'ordre implique l'obligation |
-
-## Importance des Maximes Juridiques
-
-1. **Maîtrise du fiqh :** et rassemblement de ses éléments
-2. **Facilitation de la mémorisation :** au lieu de mémoriser des milliers de questions
-3. **Aide à l'ijtihad :** dans les nouvelles situations
-4. **Compréhension des objectifs de la Loi :** à travers les règles universelles
-5. **Unification de la méthodologie :** dans la dérivation et la fatwa
-
-## Les Cinq Grandes Maximes Juridiques
-
-Les savants s'accordent sur cinq grandes maximes auxquelles se rattache la majorité du fiqh :
-
-### Première Maxime : Les Affaires Sont Selon Leurs Intentions
-
-**Formulation :** "Les affaires sont selon leurs intentions" ou "Les actes ne valent que par les intentions"
-
-**Signification :** Les règles légales dépendent de l'intention et du but.
-
-**Preuve :** Le hadith "Les actes ne valent que par les intentions et chacun n'obtient que ce qu'il a eu l'intention d'obtenir"
-
-**Applications :**
-- Celui qui prie avec l'intention d'une prière volontaire, elle ne compte pas comme obligatoire
-- L'objet trouvé : s'il a l'intention de le garder en dépôt, et s'il a l'intention de se l'approprier, il en est responsable
-- Celui qui prend le bien d'autrui pensant que c'est le sien, doit le rendre quand il le sait
-- Les expressions métaphoriques nécessitent l'intention
-
-**Maximes dérivées :**
-- L'intention est une condition de validité des adorations
-- Pas de récompense sans intention
-- Ce qui compte dans les contrats, ce sont les intentions, non les formulations
-
-### Deuxième Maxime : La Certitude N'est Pas Éliminée par le Doute
-
-**Formulation :** "La certitude n'est pas éliminée par le doute"
-
-**Signification :** Ce qui est établi par certitude n'est annulé que par une certitude équivalente.
-
-**Preuve :** Le hadith "Si l'un de vous doute dans sa prière et ne sait pas s'il a prié trois ou quatre rak'at, qu'il rejette le doute et construise sur ce dont il est certain"
-
-**Applications :**
-- Celui qui est certain de sa pureté et doute de son invalidation est pur
-- Celui qui doute du nombre de divorces construit sur le minimum
-- Le principe est l'innocence de la personne jusqu'à preuve du contraire
-- Le principe est la permanence de ce qui était comme il était
-
-**Maximes dérivées :**
-- Le principe est la permanence de l'état antérieur
-- Le principe pour les choses est la permission
-- Le principe est l'absence d'obligation
-- Ce qui est établi par certitude n'est pas annulé par le doute
-
-### Troisième Maxime : La Difficulté Attire la Facilité
-
-**Formulation :** "La difficulté attire la facilité"
-
-**Signification :** Quand les choses se resserrent, elles s'élargissent ; la Loi est venue lever la gêne.
-
-**Preuve :** Allah dit : ﴿Allah veut pour vous la facilité et ne veut pas pour vous la difficulté﴾
-
-**Applications :**
-- Permission de rompre le jeûne en Ramadan pour le malade et le voyageur
-- Permission de raccourcir et combiner les prières en voyage
-- Le tayammum en l'absence d'eau ou incapacité de l'utiliser
-- Permission de manger la charogne pour le nécessiteux
-- Prier assis pour celui qui ne peut pas se tenir debout
-
-**Maximes dérivées :**
-- Les nécessités rendent les interdits permis
-- Ce qui est permis par nécessité est limité à sa mesure
-- Le besoin prend le rang de la nécessité
-- Quand les choses se resserrent, elles s'élargissent
-
-### Quatrième Maxime : Le Préjudice Doit Être Éliminé
-
-**Formulation :** "Le préjudice doit être éliminé" ou "Pas de préjudice ni de nuisance"
-
-**Signification :** Obligation d'éliminer le préjudice et d'empêcher de nuire à autrui.
-
-**Preuve :** Le hadith "Pas de préjudice ni de nuisance"
-
-**Applications :**
-- Interdiction de la fraude dans les ventes
-- L'interdiction de gestion au prodigue pour protéger son bien
-- Obligation de garantie pour le transgresseur
-- Interdiction de causer ce qui nuit au voisin
-- Résiliation des contrats pour défaut
-
-**Maximes dérivées :**
-- Le préjudice n'est pas éliminé par un préjudice équivalent
-- Le préjudice plus grave est éliminé par le préjudice moindre
-- On supporte le préjudice particulier pour repousser le préjudice général
-- Repousser les méfaits est prioritaire sur attirer les bienfaits
-
-### Cinquième Maxime : La Coutume Est Arbitre
-
-**Formulation :** "La coutume est arbitre"
-
-**Signification :** L'usage et la coutume sont considérés dans les règles légales.
-
-**Preuve :** Allah dit : ﴿Prends ce qui est convenable et ordonne le bien﴾
-
-**Conditions de considération de la coutume :**
-1. Qu'elle soit constante ou dominante
-2. Qu'elle existe au moment du discours
-3. Qu'elle ne contredise pas un texte légal
-4. Qu'elle ne contredise pas une condition explicite
-
-**Applications :**
-- Détermination de la pension de l'épouse selon la convenance
-- Ce qui est considéré comme réception dans les ventes
-- Détermination des défauts des marchandises
-- Ce qui est considéré comme défaut dans le mariage
-
-**Maximes dérivées :**
-- Ce qui est connu par coutume est comme ce qui est stipulé
-- La désignation par la coutume équivaut à la désignation par le texte
-- La signification littérale est abandonnée par indication de la coutume
-
-## Autres Maximes Juridiques Importantes
-
-### Maximes sur la purification et les adorations :
-- L'eau est purificatrice et rien ne la souille sauf ce qui domine sa couleur, son goût ou son odeur
-- Ce sans quoi l'obligatoire ne peut être accompli est obligatoire
-
-### Maximes sur les transactions :
-- Le principe dans les contrats est la permission
-- Le profit va avec le risque
-- Le revenu va avec la garantie
-- La preuve incombe au demandeur et le serment au défendeur
-
-### Maximes sur les crimes :
-- On ne tue pas un musulman pour un mécréant (selon la majorité)
-- Le crime ne dépasse pas le criminel
-- Quiconque meurt à cause de son propre acte, son sang est perdu
-
-## Application des Maximes aux Questions Contemporaines
-
-Les maximes juridiques sont un outil important dans l'ijtihad contemporain :
-- La difficulté attire la facilité : s'applique aux dispenses de voyage en avion
-- Le préjudice doit être éliminé : dans les lois de protection de l'environnement et du consommateur
-- La coutume est arbitre : dans les contrats de commerce électronique
-
----
-
-## 📖 Récits des Salaf
-
-### La Règle "La Certitude N'est Pas Éliminée par le Doute" - Et Comment les Compagnons l'Ont Appliquée
-
-Un homme vint voir le Prophète ﷺ et se plaignit qu'il lui semblait ressentir quelque chose pendant la prière (c'est-à-dire qu'il doutait : ai-je rompu mes ablutions ou non ?).
-
-Le Messager d'Allah ﷺ dit : **"Qu'il ne quitte pas (la prière) jusqu'à ce qu'il entende un son ou sente une odeur."**
-
-Ce hadith a établi une grande règle : La certitude n'est pas abandonnée pour le doute.
-
-Ibn 'Abbas disait : "Si tu doutes, construis sur la certitude."
-
-Il est rapporté qu'un homme vint voir 'Ali ibn Abi Talib et dit : "Je ressens quelque chose dans mon ventre, je ne sais pas si j'ai rompu mes ablutions ou non."
-
-'Ali dit : "Satan vient à l'un de vous pendant sa prière et souffle dans son séant, qu'il ne quitte pas (la prière) jusqu'à ce qu'il entende un son ou sente une odeur."
-
-**La leçon** : Les maximes juridiques sont dérivées des textes de la révélation et de la compréhension des Compagnons, et elles facilitent la vie pratique du musulman.
-
----
-
-## 🎯 Cas Pratiques Contemporains
-
-### Premier Cas : La Règle "Les Affaires Sont Selon Leurs Intentions" dans les Contrats Électroniques
-
-**Question** : Quelqu'un achète un produit sur Internet avec l'intention de le retourner après l'avoir utilisé, pèche-t-il ?
-
-**Réponse** : Oui, il pèche car son intention lors de l'achat était corrompue. La règle "Les affaires sont selon leurs intentions" indique que celui qui a l'intention de tromper et de frauder, son acte est nul même si l'apparence est permise. C'est de la tromperie interdite.
-
----
-
-### Deuxième Cas : La Règle "La Difficulté Attire la Facilité" au Travail
-
-**Question** : Un employé travaille 12 heures et ne peut pas accomplir les prières de dhuhr et 'asr dans leurs temps, peut-il les combiner ?
-
-**Réponse** : La combinaison n'est pas permise pour le simple fait du travail selon la majorité des savants, car le travail habituel n'est pas une excuse pour combiner. Mais il doit :
-- Organiser son temps pour prier même brièvement
-- Négocier avec l'employeur une pause pour la prière
-- Si c'est totalement impossible et rare, certains savants ont permis la combinaison pour le besoin
-
-Si le travail est dans un pays non musulman et qu'il n'y a pas d'alternative, la question est plus souple chez certains juristes.
-
----
-
-### Troisième Cas : La Règle "Le Préjudice Doit Être Éliminé" dans le Voisinage
-
-**Question** : Mon voisin élève des poules dans son appartement, et l'odeur nous dérange, quel est le statut ?
-
-**Réponse** : Par la règle "Pas de préjudice ni de nuisance", vous avez le droit de lui demander d'éliminer la source du préjudice. S'il refuse :
-1. Vous déposez une plainte aux autorités compétentes
-2. Le juge peut l'obliger à éliminer le préjudice
-3. Le voisin est obligé légalement et religieusement de ne pas nuire à ses voisins
-
-Ibn Qudama a dit : "Il n'a pas le droit de faire dans sa propriété ce qui nuit à son voisin."
-
----
-
-### Quatrième Cas : La Règle "La Coutume Est Arbitre" dans la Dot
-
-**Question** : Un homme s'est marié sans fixer la dot, puis ils ont eu un différend, comment résoudre le problème ?
-
-**Réponse** : On se réfère à la coutume en vigueur dans leur pays et leur classe sociale, c'est ce qu'on appelle "la dot équivalente". On regarde :
-- Les dots de ses sœurs et parentes
-- La coutume en vigueur dans cet environnement
-- Le niveau social et académique de l'épouse
-
-C'est une application pratique de la règle "La coutume est arbitre".
-
----
-
-### Cinquième Cas : La Règle "La Certitude N'est Pas Éliminée par le Doute" dans la Purification
-
-**Question** : J'ai fait mes ablutions puis, une heure après, j'ai douté : ai-je rompu mes ablutions ou non ?
-
-**Réponse** : Tu es sur ta purification, car tu es certain des ablutions et tu doutes de l'annulation, et la certitude n'est pas éliminée par le doute. Construis donc sur le principe qui est la permanence de la purification.
-
-Mais si c'est l'inverse (certain de l'annulation et doutant des ablutions), tu es sur ton état d'impureté et tu dois faire les ablutions.
-
----
-
-## 💡 Pause Réflexion
-
-> **Question de réflexion :**
+> **﴿ Et Nous avons fait descendre sur toi le Livre comme un exposé de toute chose ﴾**
 >
-> L'Imam Al-Qarafi a dit : "Rester figé sur les textes transmis pour toujours est un égarement dans la religion et une ignorance des objectifs des savants musulmans et des pieux prédécesseurs."
->
-> Comment comprenez-vous cette parole à la lumière des maximes juridiques ? Comment la connaissance des grandes maximes juridiques peut-elle vous aider à faire face aux situations de vie quotidienne pour lesquelles vous ne trouvez pas de texte explicite ?
+> — **[An-Nahl : 89]**
 
 ---
 
-## Conclusion
+## 🎬 Introduction
 
-Les maximes juridiques sont un trésor scientifique immense qui rassemble de nombreuses branches sous des principes concis. Leur connaissance est nécessaire pour tout étudiant, mufti et juge, car elles aident à maîtriser le fiqh, comprendre les objectifs de la Loi et dériver les règles des nouvelles situations.
+### 🎭 Scène : Le Juge et les Mille Questions
+
+> **Un jour, dans un tribunal islamique...**
+>
+> Un jeune juge se plaignit à son maître :
+>
+> *« Les questions sont infinies ! Comment mémoriser des milliers de statuts ? »*
+>
+> Le maître sourit et dit :
+>
+> **« Tu n'as pas besoin de mémoriser des milliers de statuts. Mémorise les règles générales, et des centaines de questions se résoudront. »**
+>
+> Il lui donna un livre et dit :
+>
+> **« Voici les Cinq Grandes Maximes. Avec elles, tu comprendras la moitié du fiqh. »**
+
+> 🎯 **Les maximes juridiques : des règles générales qui englobent des dizaines de sous-questions !**
+
+---
+
+### 🎭 Scène : L'Imam 'Izz ad-Din As-Sulami
+
+> On demanda à **l'Imam 'Izz ad-Din ibn 'Abdis-Salam** :
+>
+> *« Résumez-nous le fiqh ! »*
+>
+> Il répondit :
+>
+> **« Tout le fiqh revient à deux choses : procurer les intérêts et repousser les méfaits. »**
+
+> 💡 **Les maximes résument des océans de fiqh !**
+
+---
+
+## 📖 Définition des Maximes Juridiques
+
+### Linguistiquement
+
+| Terme | Signification |
+|-------|---------------|
+| **Qa'ida** | Base, fondement, règle |
+| **Fiqhiyya** | Relative au fiqh |
+
+### Techniquement
+
+> **La Maxime Juridique** : Une règle générale qui s'applique à la plupart de ses cas particuliers.
+
+### Différence avec les Usul
+
+| Usul al-Fiqh | Qawa'id Fiqhiyya |
+|--------------|------------------|
+| Comment déduire les statuts | Des statuts résumés |
+| Avant l'extraction | Après l'extraction |
+| Méthodologie | Résultats synthétisés |
+
+---
+
+## 🏛️ Les Cinq Grandes Maximes
+
+| # | Maxime | Sens |
+|---|--------|------|
+| 1️⃣ | Les actes ne valent que par les intentions | L'intention détermine le statut |
+| 2️⃣ | La certitude n'est pas annulée par le doute | On reste sur ce qu'on sait |
+| 3️⃣ | La difficulté appelle la facilité | La Charia allège les difficultés |
+| 4️⃣ | Le préjudice doit être éliminé | Pas de dommage injustifié |
+| 5️⃣ | La coutume fait loi | Les usages ont une valeur juridique |
+
+---
+
+## 1️⃣ Les Actes ne Valent que par les Intentions
+
+### L'Énoncé
+
+> **« الأمور بمقاصدها »**
+>
+> **« Les actes sont jugés selon leurs intentions »**
+
+### La Preuve
+
+> Le Prophète ﷺ dit :
+>
+> **« Les actes ne valent que par les intentions, et chacun n'aura que ce qu'il a eu l'intention de faire. »**
+>
+> — **[Al-Bukhari et Muslim]**
+
+### Applications
+
+| Situation | Statut |
+|-----------|--------|
+| 🕌 Prier le surérogatoire en croyant prier l'obligatoire | Non valide |
+| 💍 Dire « Je t'épouse » en plaisantant | Divergence (la majorité : valide malgré tout) |
+| 💰 Prendre un bien en croyant que c'est le sien | Pas de garantie s'il le rend |
+| 🍽️ Manger en Ramadan par oubli | Ne rompt pas le jeûne |
+
+### Règles Dérivées
+
+| Règle | Signification |
+|-------|---------------|
+| L'intention est une condition dans les adorations | Pas d'adoration sans intention |
+| Pas de récompense sans intention | L'acte sans intention n'a pas de mérite |
+| Le critère, ce sont les buts, non les mots | Dans les contrats |
+
+---
+
+## 2️⃣ La Certitude n'est pas Annulée par le Doute
+
+### L'Énoncé
+
+> **« اليقين لا يزول بالشك »**
+>
+> **« La certitude n'est pas annulée par le doute »**
+
+### La Preuve
+
+> Le Prophète ﷺ dit :
+>
+> **« Si l'un de vous doute dans sa prière et ne sait plus s'il a prié trois ou quatre rak'as, qu'il rejette le doute et construise sur ce qu'il est sûr. »**
+>
+> — **[Muslim]**
+
+### Applications
+
+| Situation | Statut |
+|-----------|--------|
+| 🚿 Certain d'être pur, doute d'avoir eu un hadath | Pur |
+| 🚿 Certain d'avoir eu un hadath, doute de s'être purifié | Impur |
+| 💍 Doute sur le nombre de divorces | On construit sur le minimum |
+| 💰 Doute sur le remboursement | La dette reste |
+
+### Règles Dérivées
+
+| Règle | Signification |
+|-------|---------------|
+| L'origine des choses est leur continuité | Ce qui était reste |
+| L'origine est la non-obligation | Jusqu'à preuve du contraire |
+| L'origine des choses est la permission | Sauf texte contraire |
+
+---
+
+## 3️⃣ La Difficulté Appelle la Facilité
+
+### L'Énoncé
+
+> **« المشقة تجلب التيسير »**
+>
+> **« La difficulté appelle la facilité »**
+
+### La Preuve
+
+> Allah dit :
+>
+> **﴿ Allah veut pour vous la facilité et ne veut pas pour vous la difficulté ﴾**
+>
+> **﴿ Il ne vous a imposé aucune gêne dans la religion ﴾**
+
+### Applications
+
+| Situation | Allègement |
+|-----------|------------|
+| 🤒 Le malade | Peut rompre le jeûne |
+| ✈️ Le voyageur | Peut raccourcir et regrouper les prières |
+| 💧 Celui qui ne trouve pas d'eau | Peut faire le tayammum |
+| 🦵 Celui qui ne peut pas se tenir debout | Peut prier assis |
+
+### Règles Dérivées
+
+| Règle | Signification |
+|-------|---------------|
+| Les nécessités rendent licite l'interdit | En cas de danger vital |
+| Ce qui est permis pour une excuse cesse avec elle | Quand l'excuse disparaît |
+| Quand l'affaire se resserre, elle s'élargit | La difficulté allège |
+
+---
+
+## 4️⃣ Le Préjudice Doit Être Éliminé
+
+### L'Énoncé
+
+> **« الضرر يزال »**
+>
+> **« Le préjudice doit être éliminé »**
+
+### La Preuve
+
+> Le Prophète ﷺ dit :
+>
+> **« Pas de préjudice ni de nuisance réciproque (La darar wa la dirar). »**
+>
+> — **[Ibn Majah, Al-Hakim]**
+
+### Applications
+
+| Situation | Règle |
+|-----------|-------|
+| 🏠 Un voisin construit en bloquant l'air | Peut être empêché |
+| 🚗 Un conducteur ivre | Peut être arrêté |
+| 🦠 Un malade contagieux | Peut être isolé |
+| 💰 Un monopoleur | Peut être forcé à vendre |
+
+### Règles Dérivées
+
+| Règle | Signification |
+|-------|---------------|
+| Le préjudice ne peut être éliminé par un préjudice égal | Pas de mal pour un mal |
+| On supporte le préjudice particulier pour éviter le général | L'intérêt collectif prime |
+| On choisit le moindre des deux maux | En cas de nécessité |
+| Repousser le mal prime sur attirer le bien | La priorité |
+
+---
+
+## 5️⃣ La Coutume Fait Loi
+
+### L'Énoncé
+
+> **« العادة محكَّمة »**
+>
+> **« La coutume fait loi »**
+
+### La Preuve
+
+> Abdullah ibn Mas'ud dit :
+>
+> **« Ce que les musulmans considèrent comme bien est bien auprès d'Allah. »**
+
+### Applications
+
+| Situation | Règle |
+|-----------|-------|
+| 🏠 L'achat d'une maison | Les équipements fixes sont inclus (selon l'usage) |
+| 💵 Le prix du marché | Référence pour les transactions |
+| 📜 Les termes des contrats | Interprétés selon la coutume |
+| 👗 La dot convenable | Selon la coutume locale |
+
+### Règles Dérivées
+
+| Règle | Signification |
+|-------|---------------|
+| Ce qui est établi par la coutume équivaut au stipulé | Force de l'usage |
+| Ce qui est connu par la coutume équivaut à la condition | Implicite |
+| La coutume particulière prime sur la générale | Le local sur l'universel |
+
+---
+
+## 🎯 Cas Contemporains
+
+### 💳 Cas 1 : Frais de Retard sur Carte de Crédit
+
+> **Situation** : La banque impose des frais en cas de retard de paiement.
+
+**❓ Est-ce de l'usure ?**
+
+<details>
+<summary>📜 Cliquez pour la réponse</summary>
+
+**Application de « Le préjudice doit être éliminé » :**
+
+| Analyse | Résultat |
+|---------|----------|
+| 🔍 La nature | C'est une pénalité, pas un profit |
+| ⚖️ La règle | Le préjudice se répare par la compensation |
+| 🚫 Mais | Si la pénalité dépasse le préjudice réel = usure |
+
+| Verdict | Explication |
+|---------|-------------|
+| 🟡 Nuancé | Des frais administratifs réels : permis |
+| 🔴 | Des intérêts de retard proportionnels à la dette : interdit |
+
+> 💡 **La maxime aide à distinguer la réparation légitime de l'usure !**
+
+</details>
+
+---
+
+### 🏥 Cas 2 : L'Euthanasie
+
+> **Situation** : Un patient en phase terminale demande à abréger ses souffrances.
+
+**❓ Le préjudice de la souffrance justifie-t-il cela ?**
+
+<details>
+<summary>📜 Cliquez pour la réponse</summary>
+
+**Application des maximes :**
+
+| Maxime | Application |
+|--------|-------------|
+| « Le préjudice doit être éliminé » | Oui, mais... |
+| « On ne repousse pas un mal par un mal égal ou pire » | Tuer est pire que la souffrance |
+| « La nécessité a ses limites » | Elle ne permet pas de tuer |
+
+| Verdict | Explication |
+|---------|-------------|
+| 🔴 Interdit | L'euthanasie active est interdite |
+| 🟢 Permis | Arrêter un traitement futile (laisser mourir naturellement) |
+
+> 💡 **Les maximes s'éclairent mutuellement !**
+
+</details>
+
+---
+
+### 🛒 Cas 3 : Les Retours de Produits en Ligne
+
+> **Situation** : Un site permet le retour sans raison dans les 14 jours.
+
+**❓ Quel fondement juridique ?**
+
+<details>
+<summary>📜 Cliquez pour la réponse</summary>
+
+**Application de « La coutume fait loi » :**
+
+| Élément | Analyse |
+|---------|---------|
+| 🌍 Coutume établie | Pratique universelle du e-commerce |
+| 📜 Équivaut à une condition | Incluse implicitement |
+| ⚖️ Protection de l'acheteur | Qui n'a pas vu le produit |
+
+| Verdict | |
+|---------|--|
+| 🟢 Permis et obligatoire | Car c'est une condition coutumière |
+
+> 💡 **La coutume commerciale moderne a force de loi !**
+
+</details>
+
+---
+
+### 🤔 Cas 4 : Doute sur l'Heure de Prière
+
+> **Situation** : Je ne suis pas sûr d'avoir prié le Dhuhr aujourd'hui.
+
+**❓ Dois-je la refaire ?**
+
+<details>
+<summary>📜 Cliquez pour la réponse</summary>
+
+**Application de « La certitude n'est pas annulée par le doute » :**
+
+| Situation | Règle |
+|-----------|-------|
+| 🔍 L'origine | L'obligation de prier reste |
+| ⚖️ Le doute | Ne l'annule pas |
+| ✅ Donc | Prie le Dhuhr pour être sûr |
+
+| Mais si... | |
+|------------|--|
+| Tu es presque certain d'avoir prié | Tu peux te fier à cela |
+| C'est un doute récurrent (waswas) | Ignore-le |
+
+> 💡 **L'obligation certaine n'est levée que par l'accomplissement certain !**
+
+</details>
+
+---
+
+### 🍽️ Cas 5 : Le Buffet à Volonté
+
+> **Situation** : On paie un prix fixe pour manger autant qu'on veut.
+
+**❓ Y a-t-il du gharar (incertitude interdite) ?**
+
+<details>
+<summary>📜 Cliquez pour la réponse</summary>
+
+**Application de « La coutume fait loi » :**
+
+| Élément | Analyse |
+|---------|---------|
+| 🌍 Coutume établie | Pratique universelle de restauration |
+| ⚖️ Gharar minime | Les variations sont connues et acceptées |
+| 🎯 L'intérêt | Facilité pour les deux parties |
+
+| Verdict | |
+|---------|--|
+| 🟢 Permis | C'est une transaction coutumière acceptée |
+
+> 💡 **La coutume valide neutralise le gharar mineur !**
+
+</details>
+
+---
+
+## 💭 Réflexion
+
+> **L'Imam Al-Qarafi** dit :
+>
+> **« Ces règles sont d'une grande utilité dans le fiqh. Leur maîtrise élève le rang du juriste et lui ouvre des portes immenses. »**
+
+> 🎯 **Les maximes sont les clés du fiqh — avec cinq règles, tu comprends des milliers de questions !**
+
+---
+
+## 📚 Résumé des Cinq Maximes
+
+| # | Maxime | Exemple Rapide |
+|---|--------|----------------|
+| 1️⃣ | Les actes sont par les intentions | Manger par oubli en Ramadan = pas de rupture |
+| 2️⃣ | La certitude prime sur le doute | Doute d'avoir perdu les ablutions = toujours pur |
+| 3️⃣ | La difficulté allège | Le voyageur peut raccourcir la prière |
+| 4️⃣ | Le préjudice est éliminé | On empêche le voisin de nuire |
+| 5️⃣ | La coutume fait loi | Les équipements sont inclus dans la vente de maison |
 `;

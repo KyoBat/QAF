@@ -1,246 +1,320 @@
-export const contentFr = `
-# Al-Maslaha al-Mursala (L'Intérêt Général)
-
-## Définition de la Maslaha Mursala
-
-**La Maslaha Mursala** (المصلحة المرسلة) est l'intérêt pour lequel le Législateur n'a témoigné ni de sa prise en compte ni de son annulation par un texte spécifique, mais qui s'accorde avec les objectifs généraux de la Sharia.
-
-### Définition linguistique
-
-- **Maslaha** : contraire de mafsada (corruption), c'est l'apport d'un bénéfice ou le rejet d'un préjudice
-- **Mursala** : libre, non restreinte, c'est-à-dire qu'elle n'est pas liée par une preuve spécifique
-
-### Définition technique
-
-> La Maslaha Mursala est : le bénéfice pour lequel le Législateur n'a pas établi de règle pour le réaliser, et aucune preuve légale n'indique sa prise en compte ou son annulation.
-
-## Catégories des Intérêts
-
-Les intérêts se divisent en trois catégories selon la considération du Législateur :
-
-### 1. L'Intérêt Reconnu (Al-Mu'tabara)
-
-C'est celui pour lequel la Sharia a témoigné de sa prise en compte, en légiférant une règle pour le réaliser.
-
-**Exemples** :
-- Préservation de la vie : le talion a été légiféré
-- Préservation des biens : le vol a été interdit
-- Préservation de la raison : le vin a été interdit
-
-### 2. L'Intérêt Annulé (Al-Mulgha)
-
-C'est celui que la Sharia a annulé, car il contredit un texte ou un consensus.
-
-**Exemples** :
-- L'égalité dans l'héritage entre homme et femme (annulé par le texte)
-- L'abandon de la peine pour le voleur riche (annulé)
-
-### 3. L'Intérêt Libre (Al-Mursala)
-
-C'est celui sur lequel le Législateur s'est tu, ne l'ayant ni reconnu ni annulé spécifiquement.
-
-**Exemples** :
-- Rassembler le Coran en un seul livre
-- Créer les registres administratifs
-- Codifier le hadith
-
-## Conditions d'Application de la Maslaha Mursala
-
-### Première condition : Conformité aux objectifs de la Sharia
-
-L'intérêt doit être conforme aux objectifs généraux de la Sharia islamique.
-
-### Deuxième condition : Être rationnelle
-
-L'intérêt doit être compréhensible et approuvé par la raison saine.
-
-### Troisième condition : Être réelle et non imaginaire
-
-L'intérêt doit être réel, apportant un bénéfice ou repoussant un préjudice.
-
-### Quatrième condition : Être générale et non particulière
-
-L'intérêt doit profiter à l'ensemble des musulmans ou à leur majorité, pas à un individu ou un groupe.
-
-### Cinquième condition : Ne pas contredire un texte ou un consensus
-
-L'intérêt ne doit pas contredire une preuve légale établie.
-
-## Les Cinq Objectifs de la Sharia
-
-Les Maslaha Mursala tournent autour de la préservation des cinq nécessités :
-
-| Objectif | Ce qu'il préserve | Exemples de Maslaha Mursala |
-|----------|-------------------|----------------------------|
-| Préservation de la religion | Croyance et adorations | Création d'écoles islamiques |
-| Préservation de la vie | Vie et santé | Code de la route, vaccinations |
-| Préservation de la raison | Savoir et pensée | Éducation obligatoire |
-| Préservation de la descendance | Famille et progéniture | Réglementation des contrats de mariage |
-| Préservation des biens | Richesses et propriétés | Systèmes de documentation et registres |
-
-## Niveaux des Intérêts
-
-### 1. Les Nécessités (Al-Daruriyyat)
-
-Ce sans quoi les intérêts religieux et mondains ne peuvent subsister.
-
-### 2. Les Besoins (Al-Hajiyyat)
-
-Ce dont on a besoin pour l'aisance et la levée de la difficulté, comme les dispenses dans les adorations.
-
-### 3. Les Améliorations (Al-Tahsiniyyat)
-
-Ce qui vise à adopter les bonnes coutumes et les nobles caractères.
-
-## Position des Savants sur la Maslaha Mursala
-
-### Ceux qui acceptent son autorité
-
-1. **Les Malikites** : L'école qui l'adopte le plus largement
-2. **Les Hanbalites** : L'adoptent dans de nombreuses situations
-3. **Certains Shafiites et Hanafites** : Dans un cadre restreint
-
-### Leurs arguments
-
-1. Les intérêts des gens se renouvellent sans fin, tandis que les textes sont finis
-2. Les Compagnons l'ont appliquée : rassemblement du Coran, création des registres
-3. La Sharia est venue pour apporter les intérêts et repousser les méfaits
-
-### Les opposants
-
-Certains savants ont été réservés sur son adoption par crainte d'un élargissement sans contrôle.
-
-## Exemples Contemporains
-
-### Dans le domaine des transactions
-
-| Question | Intérêt réalisé |
-|----------|-----------------|
-| Documentation officielle des contrats | Préservation des droits et prévention des litiges |
-| Assurance automobile obligatoire | Protection des victimes |
-| Réglementation des marchés financiers | Prévention de la fraude et du monopole |
-
-### Dans le domaine de la gouvernance
-
-| Question | Intérêt réalisé |
-|----------|-----------------|
-| Création de ministères et institutions | Organisation des affaires de l'État |
-| Délivrance de passeports | Régulation des déplacements et protection des frontières |
-| Code de la route | Préservation des vies et des biens |
-
-### Dans le domaine de l'éducation
-
-| Question | Intérêt réalisé |
-|----------|-----------------|
-| Éducation primaire obligatoire | Élimination de l'ignorance et diffusion du savoir |
-| Accréditation des diplômes | Contrôle du niveau scientifique |
-| Fondation d'universités | Formation des compétences |
-
-## Règles d'Application de la Maslaha Mursala
-
-### Première règle : Vérification de l'intérêt
-
-L'intérêt doit être réel et non supposé ou imaginaire.
-
-### Deuxième règle : Équilibre entre intérêts et méfaits
-
-Si les intérêts s'opposent aux méfaits, on examine le prédominant.
-
-**Principe** : Repousser les méfaits prime sur l'apport des intérêts.
-
-### Troisième règle : Éviter l'élargissement incontrôlé
-
-L'istislah ne doit pas être utilisé comme prétexte pour changer les règles établies de la Sharia.
-
-### Quatrième règle : Compétence du mujtahid
-
-Celui qui déduit l'intérêt doit être qualifié pour l'ijtihad et connaître les objectifs de la Sharia.
-
-## Différence entre Maslaha Mursala et Istihsan
-
-| Maslaha Mursala | Istihsan |
-|-----------------|----------|
-| Construction de la règle sur un intérêt général | Déviation du Qiyas pour une preuve plus forte |
-| Pas de texte spécifique | Peut avoir un texte |
-| Preuve indépendante | Exception à une règle |
+/**
+ * Usul al-Fiqh - Leçon 006 : La Maslaha Mursala (L'Intérêt Général)
+ * Contenu en français - Version immersive
+ */
+
+export const contentFr = `# 🌿 La Maslaha Mursala — Le Raisonnement par l'Intérêt
+
+> **﴿ Et Nous ne t'avons envoyé qu'en miséricorde pour l'univers ﴾**
+>
+> — **[Al-Anbiya : 107]**
 
 ---
 
-## 📖 Récits des Salaf
+## 🎬 Introduction
 
-### 'Umar ibn Al-Khattab et le Rassemblement du Coran
+### 🎭 Scène : Omar Suspend la Part des Mu'allafa Qulubuhum
 
-Lorsque de nombreux récitateurs du Coran furent martyrisés à la bataille de Yamama, 'Umar ibn Al-Khattab vint trouver Abu Bakr As-Siddiq en lui disant :
+> **Médine, califat de Omar ibn al-Khattab...**
+>
+> Deux hommes des « Mu'allafa Qulubuhum » (ceux dont les cœurs sont à gagner) vinrent réclamer leur part de zakat, comme ils la recevaient à l'époque du Prophète ﷺ.
+>
+> **Omar** — qu'Allah l'agrée — les regarda et dit :
+>
+> **« Le Messager d'Allah ﷺ vous donnait pour vous attirer vers l'Islam. Aujourd'hui, Allah a renforcé l'Islam et vous a rendus dispensables ! »**
+>
+> Et il ne leur donna rien.
+>
+> — **[Célèbre dans les livres de fiqh et d'usul]**
 
-> "Les combats ont décimé les récitateurs du Coran à Yamama, et je crains que les combats ne continuent à décimer les récitateurs dans d'autres batailles, et qu'une grande partie du Coran ne disparaisse. Je pense que tu devrais ordonner le rassemblement du Coran."
-
-Abu Bakr hésita d'abord en disant : **"Comment faire quelque chose que le Messager d'Allah ﷺ n'a pas fait ?"**
-
-Mais 'Umar continua à le convaincre jusqu'à ce qu'Allah ouvre son cœur à cette idée. Abu Bakr dit alors : **"Par Allah, c'est un bien."**
-
-Ils chargèrent ensuite Zayd ibn Thabit de cette mission grandiose.
-
-**La leçon** : Le rassemblement du Coran en un seul volume n'était pas mentionné dans les textes, mais les Compagnons comprirent l'immense intérêt de préserver le Livre d'Allah et agirent en conséquence. C'est l'un des plus grands exemples de Maslaha Mursala dans l'histoire de l'Islam.
-
----
-
-## 🎯 Cas Pratiques Contemporains
-
-### Premier Cas : Les Vaccinations Obligatoires
-
-**Question** : L'État peut-il obliger les citoyens à se faire vacciner contre les épidémies ?
-
-**Réponse** : Oui, cela est permis sur la base de la Maslaha Mursala pour la préservation de la vie et de la santé publique. La vaccination réalise un intérêt général (protection de la société contre les épidémies) et ne contredit aucun texte légal, mais s'accorde avec la règle "pas de préjudice ni de nuisance".
+> 🎯 **Omar a considéré l'intérêt — le changement de circonstances a changé l'application !**
 
 ---
 
-### Deuxième Cas : L'Obligation de Documentation des Contrats
+### 🎭 Scène : La Compilation du Coran
 
-**Question** : Récemment, l'enregistrement officiel du contrat de mariage auprès des tribunaux est devenu obligatoire. Est-ce légal bien que cela ne soit pas mentionné dans les textes ?
+> Après la bataille de Yamama, **Omar** dit à **Abu Bakr** :
+>
+> *« Je pense qu'il faudrait compiler le Coran ! »*
+>
+> Abu Bakr répondit : *« Comment faire ce que le Messager d'Allah ﷺ n'a pas fait ? »*
+>
+> Omar insista : **« Par Allah, c'est un bien ! »**
+>
+> Allah ouvrit le cœur d'Abu Bakr, et ils compilèrent le Coran.
 
-**Réponse** : Oui, cette obligation est légale sur la base de la Maslaha Mursala. Elle préserve les droits des époux et des enfants, empêche le déni et la manipulation, et facilite la preuve de la filiation et de l'héritage. Cela réalise l'objectif de la Sharia de préserver la descendance et les biens.
-
----
-
-### Troisième Cas : Le Permis de Conduire
-
-**Question** : Les voitures n'existaient pas à l'époque de la législation, quel est donc le statut de l'exigence d'obtenir un permis pour conduire ?
-
-**Réponse** : Cette exigence est légitime sur la base de la Maslaha Mursala pour la préservation des vies et des biens. Une voiture sans conducteur qualifié peut être un moyen de mort et de destruction, et s'assurer de la compétence du conducteur réalise l'objectif de la Sharia de préserver les vies.
-
----
-
-### Quatrième Cas : Les Normes de Construction et d'Urbanisme
-
-**Question** : L'État peut-il imposer aux citoyens des spécifications particulières de construction ?
-
-**Réponse** : Oui, cela est permis pour préserver les vies contre l'effondrement des bâtiments, protéger les droits des voisins et organiser les équipements publics. C'est une Maslaha Mursala qui réalise la préservation de la vie et des biens.
+> 💡 **L'intérêt général a justifié la compilation du Coran — même sans texte explicite !**
 
 ---
 
-### Cinquième Cas : La Protection des Données Personnelles
+## 📖 Définition de la Maslaha Mursala
 
-**Question** : Les lois de protection des données personnelles sont-elles considérées comme une Maslaha Mursala ?
+### Linguistiquement
 
-**Réponse** : Oui, ces lois préservent la vie privée de la personne et empêchent l'exploitation de ses données, réalisant l'objectif de la Sharia de préserver l'honneur et la dignité humaine. Même s'il n'y a pas de texte spécifique, elles sont conformes aux objectifs généraux.
+| Terme | Signification |
+|-------|---------------|
+| **Maslaha** | Ce qui contient un bénéfice et repousse un mal |
+| **Mursala** | Libre, non rattachée — non mentionnée par un texte |
+
+### Techniquement
+
+> **La Maslaha Mursala** : Un intérêt que la législation n'a ni confirmé ni annulé explicitement.
+
+### La Distinction avec les Autres Types
+
+| Type | Définition | Exemple |
+|------|------------|---------|
+| 🟢 Maslaha Mu'tabara | Confirmée par la législation | La préservation de la vie — le talion |
+| 🔴 Maslaha Mulgha | Annulée par la législation | L'intérêt de boire du vin pour se réchauffer |
+| 🟡 Maslaha Mursala | La législation est silencieuse | La compilation du Coran |
 
 ---
 
-## 💡 Pause Réflexion
+## ⚖️ L'Autorité de la Maslaha Mursala
 
-> Réfléchissez à votre société contemporaine : quels systèmes et lois voyez-vous fondés sur la Maslaha Mursala ? Comment ces lois réalisent-elles les objectifs de la Sharia en préservant la religion, la vie, la raison, la descendance et les biens ?
+### Positions des Savants
+
+| École | Position |
+|-------|----------|
+| 🔵 Malikite | Les plus grands utilisateurs |
+| 🟢 Hanbalite | L'utilisent également |
+| 🟡 Chaféite | L'acceptent avec des conditions strictes |
+| 🔴 Zahirite | La rejettent |
+
+### Arguments de Ceux qui l'Acceptent
+
+| Argument | Explication |
+|----------|-------------|
+| 📜 La pratique des Compagnons | Compilation du Coran, registres administratifs |
+| 🌍 Les intérêts des gens évoluent | La Charia est valable pour tous les temps |
+| 🎯 Les objectifs de la Charia | Procurer les intérêts et repousser les méfaits |
 
 ---
 
-## Différence entre Maslaha Mursala et Istihsan
+## 📋 Conditions d'Application de la Maslaha Mursala
 
-| Maslaha Mursala | Istihsan |
-|-----------------|----------|
-| Construction de la règle sur un intérêt général | Déviation du Qiyas pour une preuve plus forte |
-| Pas de texte spécifique | Peut avoir un texte |
-| Preuve indépendante | Exception à une règle |
+### Conditions Fondamentales
 
-## Conclusion
+| Condition | Explication |
+|-----------|-------------|
+| 1️⃣ Intérêt réel | Non imaginaire |
+| 2️⃣ Général | Non spécifique à un individu |
+| 3️⃣ Ne contredit pas un texte | Ni un consensus |
+| 4️⃣ Conforme aux objectifs de la Charia | Non étranger à elle |
+| 5️⃣ Nécessaire ou complémentaire | Non simplement esthétique |
 
-La Maslaha Mursala est une preuve légale importante qui permet au juriste de faire l'ijtihad dans les questions nouvelles pour lesquelles il n'y a pas de texte spécifique, tout en respectant les règles de la Sharia et ses objectifs généraux.
+### La Hiérarchie des Intérêts
+
+| Niveau | Définition | Exemple |
+|--------|------------|---------|
+| 1️⃣ Nécessités (Daruriyyat) | Sans elles, la vie s'effondre | La préservation de la religion et de la vie |
+| 2️⃣ Besoins (Hajiyyat) | Facilitent la vie | La vente et la location |
+| 3️⃣ Améliorations (Tahsiniyyat) | Embellissent la vie | Les bonnes manières et l'éthique |
+
+---
+
+## 🏛️ Les Cinq Nécessités Universelles (Al-Kulliyyat Al-Khams)
+
+### Ce que la Charia Préserve
+
+| Nécessité | Ce qui la préserve | Ce qui punit sa violation |
+|-----------|-------------------|--------------------------|
+| 🕋 La religion | La prière, la zakat | La peine de l'apostasie |
+| 💚 La vie | Manger, se soigner | Le talion |
+| 🧠 La raison | La science | La peine pour l'ivresse |
+| 👶 La descendance | Le mariage | La peine pour la fornication |
+| 💰 Les biens | Le commerce, le travail | La peine pour le vol |
+
+---
+
+## 🎭 Exemples de Maslaha Mursala
+
+### Dans la Pratique des Compagnons
+
+| Exemple | L'intérêt |
+|---------|-----------|
+| 📖 La compilation du Coran | Préservation de la religion |
+| 📚 L'établissement des registres | Organisation des finances |
+| 🏛️ La construction de prisons | Préservation de la sécurité |
+| 💰 La frappe de monnaie | Facilitation du commerce |
+| ✉️ L'établissement de la poste | Communication |
+
+### Les Décisions de Omar — qu'Allah l'agrée
+
+| Décision | L'intérêt |
+|----------|-----------|
+| Le waqf des terres d'Irak | L'intérêt des générations futures |
+| Rassembler les gens derrière un seul imam pour le tarawih | L'unité de la communauté |
+| L'établissement du calendrier hégirien | Organisation des transactions |
+
+---
+
+## ⚠️ Limites Importantes
+
+### Ce qui N'est PAS une Maslaha Valide
+
+| Cas | Explication |
+|-----|-------------|
+| 🚫 Contredit un texte | L'égalité dans l'héritage pour les hommes et les femmes |
+| 🚫 Intérêt imaginaire | Pas de bénéfice réel |
+| 🚫 Intérêt particulier | Bénéfice pour une personne uniquement |
+| 🚫 Cause plus de mal | Le mal dépasse le bien |
+
+### La Règle d'Or
+
+> **L'Imam Ash-Shatibi** dit :
+>
+> **« La Maslaha doit s'inscrire dans les objectifs de la Charia, non les contredire. »**
+
+---
+
+## 🎯 Cas Contemporains
+
+### 🚗 Cas 1 : Le Code de la Route
+
+> **Situation** : Les feux rouges et les limitations de vitesse n'existaient pas à l'époque du Prophète ﷺ.
+
+**❓ Leur respect est-il obligatoire ?**
+
+<details>
+<summary>📜 Cliquez pour la réponse</summary>
+
+**Application de la Maslaha :**
+
+| Élément | Analyse |
+|---------|---------|
+| 🎯 L'intérêt | Préservation de la vie |
+| 📜 Fondement | Parmi les cinq nécessités |
+| ⚖️ Verdict | Obligatoire de les respecter |
+
+> 💡 **La Maslaha justifie l'obligation de respecter les lois qui protègent la vie !**
+
+</details>
+
+---
+
+### 🏥 Cas 2 : La Vaccination Obligatoire
+
+> **Situation** : L'État impose la vaccination pour prévenir les épidémies.
+
+**❓ Est-ce permis en Islam ?**
+
+<details>
+<summary>📜 Cliquez pour la réponse</summary>
+
+**Analyse par la Maslaha :**
+
+| Condition | Vérification |
+|-----------|--------------|
+| ✅ Intérêt réel | Prévention des maladies |
+| ✅ Général | Concerne toute la société |
+| ✅ Préserve la vie | Parmi les nécessités |
+| ⚠️ Condition | Le vaccin doit être sûr |
+
+> 💡 **La Maslaha peut justifier l'obligation avec des conditions !**
+
+</details>
+
+---
+
+### 🆔 Cas 3 : La Carte d'Identité Nationale
+
+> **Situation** : L'État oblige les citoyens à avoir une carte d'identité.
+
+**❓ Est-ce une obligation légitime ?**
+
+<details>
+<summary>📜 Cliquez pour la réponse</summary>
+
+**Analyse :**
+
+| Intérêt | Explication |
+|---------|-------------|
+| 🔒 Sécurité | Identification des personnes |
+| 📊 Organisation | Gestion administrative |
+| ⚖️ Droits | Protection des droits des citoyens |
+
+| Verdict | Explication |
+|---------|-------------|
+| 🟢 Permis | C'est une Maslaha générale |
+
+> 💡 **L'organisation de la société est un intérêt reconnu !**
+
+</details>
+
+---
+
+### 🏦 Cas 4 : La Banque Centrale et la Monnaie
+
+> **Situation** : L'État contrôle la monnaie via une banque centrale.
+
+**❓ Est-ce conforme à la Charia ?**
+
+<details>
+<summary>📜 Cliquez pour la réponse</summary>
+
+**Analyse par la Maslaha :**
+
+| Fonction | Intérêt |
+|----------|---------|
+| 💵 Stabilité monétaire | Protection des biens |
+| 📊 Régulation économique | Intérêt général |
+| 🏛️ Souveraineté | Organisation de l'État |
+
+| Verdict | Condition |
+|---------|-----------|
+| 🟢 Permis en principe | Ne pas pratiquer l'usure |
+
+> 💡 **La fonction de régulation est un intérêt — les pratiques doivent être conformes !**
+
+</details>
+
+---
+
+### ⚖️ Cas 5 : Les Lois sur l'Environnement
+
+> **Situation** : L'État impose des restrictions pour protéger l'environnement.
+
+**❓ Quel fondement en Usul ?**
+
+<details>
+<summary>📜 Cliquez pour la réponse</summary>
+
+**Fondements multiples :**
+
+| Principe | Application |
+|----------|-------------|
+| 🌍 La Maslaha | Protection de la vie et des biens |
+| 📜 « Pas de nuisance » | Règle islamique |
+| 🕋 L'homme est vicaire | Responsable de la terre |
+
+| Verdict | Explication |
+|---------|-------------|
+| 🟢 Obligatoire | Protéger l'environnement est un devoir |
+
+> 💡 **La Maslaha s'étend à la protection de l'environnement pour les générations futures !**
+
+</details>
+
+---
+
+## 💭 Réflexion
+
+> **L'Imam Al-Ghazali** dit :
+>
+> **« La Maslaha est de préserver l'objectif de la Charia, et l'objectif de la Charia envers les créatures est de préserver leur religion, leur vie, leur raison, leur descendance et leurs biens. »**
+
+> 🎯 **La Maslaha n'est pas l'opinion personnelle — c'est servir les objectifs de la Charia !**
+
+---
+
+## 📚 Résumé
+
+| Concept | Explication |
+|---------|-------------|
+| 🎯 Définition | Intérêt non mentionné explicitement par les textes |
+| ⚖️ Place | Source auxiliaire de législation |
+| 📊 Types | Confirmée, annulée, libre |
+| 🏛️ Nécessités | Religion, vie, raison, descendance, biens |
+| ⚠️ Conditions | Réel, général, conforme aux objectifs |
 `;

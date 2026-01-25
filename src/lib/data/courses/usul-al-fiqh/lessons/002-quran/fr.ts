@@ -1,197 +1,349 @@
-export const contentFr = `
-# Le Coran comme source de législation
+/**
+ * Usul al-Fiqh - Leçon 002 : Le Coran
+ * Contenu en français - Version immersive
+ */
 
-## Définition du Coran
+export const contentFr = `# 📖 Le Coran — La Source Première de la Législation
 
-**Le Coran** est la parole d'Allah le Très-Haut, révélée à Son Prophète Muhammad ﷺ, en langue arabe claire, dont la récitation est un acte d'adoration, transmis jusqu'à nous par voie de transmission massive (tawatur), écrit dans les Mushaf de la première sourate Al-Fatiha à la dernière sourate An-Nas.
+> **﴿ Et Nous avons fait descendre sur toi le Livre comme un exposé explicite de toute chose, ainsi qu'un guide, une grâce et une bonne annonce pour les Musulmans ﴾**
+>
+> — **[An-Nahl : 89]**
 
-### Caractéristiques du Coran
+---
 
-1. **Parole d'Allah** : ce n'est pas la parole des hommes ni des anges
-2. **Révélé** : descendu d'Allah par l'intermédiaire de Jibril (Gabriel)
-3. **En langue arabe** : révélé en arabe classique éloquent
-4. **Récitation cultuelle** : sa lecture est une adoration récompensée
-5. **Transmission par tawatur** : transmis par une chaîne catégorique continue
+## 🎬 Introduction
 
-## Place du Coran dans la législation
+### 🎭 Scène : La Nuit du Destin
 
-### La source première des règles
+> **La grotte de Hira, une nuit de Ramadan...**
+>
+> **Muhammad** ﷺ se recueillait dans la grotte comme à son habitude...
+>
+> Soudain, **Jibril** (Gabriel) lui apparut et dit :
+>
+> **« Lis ! »**
+>
+> Muhammad ﷺ répondit : *« Je ne sais pas lire. »*
+>
+> Jibril le serra fortement puis le relâcha et dit :
+>
+> **« Lis ! »**
+>
+> — Trois fois...
+>
+> Puis Jibril dit :
+>
+> **﴿ Lis, au nom de ton Seigneur qui a créé ۝ Il a créé l'homme d'une adhérence ﴾**
 
-Allah le Très-Haut dit :
+> 🎯 **Ainsi commença la révélation du Coran — la Parole d'Allah pour l'humanité !**
 
-> **"Et Nous avons fait descendre sur toi le Livre, comme un exposé explicite de toute chose, ainsi qu'un guide, une grâce et une bonne annonce aux Musulmans"** [An-Nahl : 89]
+---
 
-### Autorité du Coran
+### 🎭 Scène : Le Poids de la Révélation
 
-- **Certitude de transmission** (qat'i al-thubut) : car transmis par tawatur
-- **Obligation de le suivre** : les musulmans doivent s'y conformer
-- **Abrogation uniquement par le Coran** : ce qui en est abrogé l'est par un autre verset
+> **Aïcha** — qu'Allah l'agrée — rapporte :
+>
+> *« Je voyais le Prophète ﷺ recevoir la révélation par les jours de grand froid, et quand elle s'achevait, son front ruisselait de sueur. »*
+>
+> — **[Al-Bukhari et Muslim]**
 
-## Types d'indications du Coran
+> ⚡ **Le Coran n'est pas une parole ordinaire — c'est la Parole du Seigneur des mondes !**
 
-### Quant à la transmission
+---
 
-| Type | Règle |
-|------|-------|
-| Certitude de transmission | Tout le Coran est de transmission certaine |
+## 📖 Définition du Coran
 
-### Quant à la signification
+### La Définition
+
+> **Le Coran** : La Parole d'Allah, révélée à Son Prophète Muhammad ﷺ, en langue arabe, dont la récitation est un acte d'adoration, transmis par voie de mutawatir (transmission massive), écrit dans les masahif (exemplaires) de la Fatiha jusqu'à An-Nas.
+
+### Ses Caractéristiques
+
+| Caractéristique | Explication |
+|-----------------|-------------|
+| 🗣️ Parole d'Allah | Non des humains ni des anges |
+| ⬇️ Révélé | Par l'intermédiaire de Jibril |
+| 🕌 En arabe | Dans une langue arabe claire |
+| 📿 Récitation cultuelle | Le réciter est une adoration |
+| 🔗 Mutawatir | Transmis par chaîne certaine |
+
+---
+
+## ⚖️ Place du Coran dans la Législation
+
+### La Source Première
+
+| Ordre | Preuve |
+|-------|--------|
+| 1️⃣ | Le Coran |
+| 2️⃣ | La Sunna |
+| 3️⃣ | L'Ijma (Consensus) |
+| 4️⃣ | Le Qiyas (Analogie) |
+
+### La Preuve
+
+> Allah dit :
+>
+> **﴿ Ô vous qui avez cru ! Obéissez à Allah, obéissez au Messager et à ceux d'entre vous qui détiennent l'autorité ﴾**
+>
+> — **[An-Nisa : 59]**
+
+### L'Autorité du Coran
+
+| Description | Statut |
+|-------------|--------|
+| 🔒 Authenticité certaine | Transmis par mutawatir |
+| ⚖️ Contraignant | Son suivi est obligatoire |
+| 📜 Non abrogeable | Sauf par un autre verset |
+
+---
+
+## 📊 Types d'Indications du Coran
+
+### Concernant l'Authenticité
+
+| Type | Statut |
+|------|--------|
+| 🔒 Tout le Coran est d'authenticité certaine | Car transmis par mutawatir |
+
+### Concernant la Signification
 
 | Type | Définition | Exemple |
 |------|------------|---------|
-| Signification certaine (qat'i al-dalala) | N'admet qu'un seul sens | Versets de l'héritage |
-| Signification probable (zanni al-dalala) | Admet plusieurs sens | Le terme "qur'" dans la période d'attente |
+| 🔒 Signification certaine | N'admet qu'un seul sens | Versets sur l'héritage : ﴿ Au garçon, une part équivalente à celle de deux filles ﴾ |
+| 🔓 Signification probable | Admet plusieurs sens | ﴿ Les femmes divorcées attendront trois quru' ﴾ |
 
-## Les règles du Coran
+### Exemple de Signification Probable
 
-### Les règles doctrinales (croyances)
+> **﴿ Trois quru' ﴾**
+>
+> | Interprétation | École |
+> |----------------|-------|
+> | Les menstrues | Hanafite et Hanbalite |
+> | Les périodes de pureté | Chaféite et Malikite |
 
-- L'unicité et la foi en Allah
-- La foi aux anges, aux Livres et aux Messagers
-- La foi au Jour Dernier et au destin
-
-### Les règles pratiques (jurisprudentielles)
-
-#### Versets des adorations
-
-- La prière : **"Accomplissez la Salat et acquittez la Zakat"** [Al-Baqara : 43]
-- Le jeûne : **"Le jeûne vous a été prescrit"** [Al-Baqara : 183]
-- Le pèlerinage : **"Et c'est un devoir envers Allah pour les gens qui ont les moyens, d'aller faire le Hajj"** [Al-Imran : 97]
-
-#### Versets des transactions
-
-- La vente et le commerce
-- L'usure et son interdiction
-- Les dettes et leur documentation
-
-#### Versets du statut personnel
-
-- Le mariage et le divorce
-- La pension alimentaire et la garde
-- Les successions
-
-### Les règles morales
-
-- La véracité et l'honnêteté
-- La piété filiale
-- Le bon caractère
-
-## Méthodes du Coran pour exposer les règles
-
-### L'ordre et l'interdiction
-
-- **L'ordre** : indique l'obligation sauf indication contraire
-- **L'interdiction** : indique la prohibition sauf indication contraire
-
-### Le général et le particulier
-
-- Versets généraux englobant tous les individus
-- Versets spécifiques à une catégorie particulière
-
-### L'absolu et le restreint
-
-- Termes absolus non restreints
-- Termes restreints par une description ou condition
-
-## Relation entre le Coran et la Sunnah
-
-### La Sunnah explicite le Coran
-
-Allah le Très-Haut dit :
-
-> **"Et Nous avons fait descendre vers toi le Rappel, pour que tu exposes clairement aux gens ce qu'on a fait descendre vers eux"** [An-Nahl : 44]
-
-### Types d'explication
-
-1. **Détailler le concis** : comme détailler comment prier
-2. **Spécifier le général** : comme spécifier les versets de l'héritage
-3. **Restreindre l'absolu** : comme restreindre la main dans le vol
-
-## Le clair et l'ambigu
-
-### Le clair (Muhkam)
-
-- Sens évident ne nécessitant pas d'interprétation
-- Comme les versets de règles explicites
-
-### L'ambigu (Mutashabih)
-
-- Nécessite interprétation et exégèse
-- Se comprend à la lumière du clair
-
-Allah le Très-Haut dit :
-
-> **"C'est Lui qui a fait descendre sur toi le Livre : il s'y trouve des versets clairs, qui sont la base du Livre, et d'autres versets ambigus"** [Al-Imran : 7]
+> 💡 **Un même terme — plusieurs sens possibles — voilà la cause des divergences !**
 
 ---
 
-## 📖 Récits des Salaf : Omar ibn al-Khattab et le verset de la Kalala
+## 📜 Catégories de Règles dans le Coran
 
-Il est rapporté que Omar ibn al-Khattab (qu'Allah l'agrée) disait : « Trois choses, j'aurais aimé que le Messager d'Allah ﷺ ne nous quitte pas avant de nous faire un engagement clair à leur sujet : le grand-père, la kalala (succession collatérale), et certaines formes d'usure. »
+### 1️⃣ Les Règles Doctrinales
 
-Omar interrogeait le Prophète ﷺ à plusieurs reprises sur la kalala, jusqu'à ce que le Prophète ﷺ lui dise : **« Le verset d'été à la fin de sourate An-Nisa te suffit. »**
+| Sujet | Exemple |
+|-------|---------|
+| 🕋 L'Unicité | ﴿ Il n'y a de divinité que Lui ﴾ |
+| 👼 Les Anges | ﴿ Louange à Allah, Créateur des cieux et de la terre, qui a fait des anges des messagers ﴾ |
+| 📖 Les Livres | ﴿ Et Nous avons fait descendre sur toi le Livre ﴾ |
+| 👨‍🏫 Les Messagers | ﴿ Et des messagers dont Nous t'avons raconté l'histoire ﴾ |
+| ⏳ Le Jour Dernier | ﴿ Et au Jour Dernier ﴾ |
 
-Malgré cela, Omar continuait à chercher la compréhension exacte, et il disait : « Avoir interrogé le Messager d'Allah ﷺ à ce sujet m'est plus cher que de posséder des chameaux rouges. »
+### 2️⃣ Les Règles Pratiques (Fiqh)
 
-**La leçon** : L'empressement intense des Compagnons à comprendre le Coran depuis sa source, et leur scrupule à l'interpréter par l'opinion sans science.
+| Domaine | Verset |
+|---------|--------|
+| 🕌 La prière | ﴿ Et accomplissez la prière ﴾ |
+| 💰 La zakat | ﴿ Et acquittez la zakat ﴾ |
+| 🌙 Le jeûne | ﴿ Le jeûne vous a été prescrit ﴾ |
+| 🕋 Le pèlerinage | ﴿ Et c'est un devoir envers Allah pour les gens de faire le pèlerinage de la Maison ﴾ |
+| 💍 Le mariage | ﴿ Épousez donc celles qui vous plaisent ﴾ |
+| 💔 Le divorce | ﴿ Le divorce est permis deux fois ﴾ |
+| ⚖️ La vente | ﴿ Allah a rendu licite le commerce ﴾ |
+| 🚫 L'usure | ﴿ Et a interdit l'usure ﴾ |
 
----
+### 3️⃣ Les Règles Morales
 
-## 🎯 Cas pratiques contemporains : L'argumentation par le Coran
-
-### Cas 1 : Les versets sur l'usure et les banques
-
-**Contexte** : Certains argumentent avec le verset **« Allah a rendu licite le commerce et a interdit l'usure »** pour interdire les intérêts bancaires.
-
-**Question** : Le verset est-il de signification catégorique à ce sujet ?
-
-**Réponse** : ✅ Le verset est catégorique pour l'interdiction de l'usure textuelle. Mais déterminer ce qui entre dans le concept d'usure parmi les transactions contemporaines nécessite l'ijtihad des spécialistes dans la vérification du motif.
-
----
-
-### Cas 2 : Le verset du voile et son interprétation
-
-**Contexte** : Les contemporains divergent sur l'interprétation de **« Qu'elles rabattent leur voile sur leurs poitrines »**.
-
-**Question** : Cela inclut-il le voile du visage ou non ?
-
-**Réponse** : ✅ C'est de signification probable (zanni al-dalala), c'est pourquoi les savants anciens et contemporains y ont divergé. La divergence est acceptable car le terme admet plus d'un sens.
-
----
-
-### Cas 3 : L'argumentation par un seul verset
-
-**Contexte** : Quelqu'un argumente avec le verset **« Pas de contrainte en religion »** pour permettre l'apostasie.
-
-**Question** : Cette argumentation est-elle valide ?
-
-**Réponse** : ❌ Il n'est pas valide de comprendre un verset isolément des autres versets et hadiths. Le Coran s'interprète par le Coran puis par la Sunnah. Isoler le texte de son contexte est une erreur d'argumentation.
+| Valeur | Verset |
+|--------|--------|
+| 💚 La véracité | ﴿ Ô vous qui avez cru ! Craignez Allah et soyez avec les véridiques ﴾ |
+| 👨‍👩‍👧 La piété filiale | ﴿ Et aux père et mère, la bienfaisance ﴾ |
+| 🤝 L'honnêteté | ﴿ Certes, Allah vous ordonne de rendre les dépôts à leurs ayants droit ﴾ |
 
 ---
 
-### Cas 4 : La traduction du Coran et les statuts
+## 🔧 Méthodes du Coran pour Exposer les Règles
 
-**Contexte** : Un musulman non-arabophone lit une traduction du Coran et en déduit des statuts.
+### 1️⃣ L'Ordre
 
-**Question** : Est-il valide de déduire des statuts de la traduction ?
+| Formule | Exemple | Indication |
+|---------|---------|------------|
+| « Fais » | ﴿ Accomplissez la prière ﴾ | L'obligation |
 
-**Réponse** : ❌ La traduction est une interprétation et non le Coran. La déduction se fait à partir du texte arabe original car les significations linguistiques précises ne se transmettent pas par la traduction.
+### 2️⃣ L'Interdiction
+
+| Formule | Exemple | Indication |
+|---------|---------|------------|
+| « Ne fais pas » | ﴿ Et n'approchez pas de la fornication ﴾ | L'interdiction |
+
+### 3️⃣ L'Énoncé Explicite du Statut
+
+| Style | Exemple |
+|-------|---------|
+| Il vous a été prescrit | ﴿ Le jeûne vous a été prescrit ﴾ |
+| Il vous a été imposé | ﴿ Allah vous a imposé de délier vos serments ﴾ |
+| Il vous est interdit | ﴿ Vous est interdite la bête morte ﴾ |
+| Il vous est permis | ﴿ Vous est permise la chasse marine ﴾ |
 
 ---
 
-## 💡 Pause réflexion
+## 🎭 Histoire : Omar et le Verset du Vin
 
-**Question à méditer** : Combien de fois avez-vous argumenté avec un verset coranique sans vous assurer de le comprendre correctement dans son contexte et à la lumière de la Sunnah qui l'explicite ?
+### Le Contexte
 
-**Rappel** :
-- Le Coran est de transmission certaine mais certains passages sont de signification probable
-- Comprendre le Coran nécessite la Sunnah et la connaissance de la langue arabe
-- L'argumentation correcte rassemble les preuves et ne les isole pas
-- Méfiez-vous de l'interprétation par l'opinion sans science
+> Avant l'interdiction du vin, certains Compagnons en buvaient.
+>
+> **Omar ibn al-Khattab** — qu'Allah l'agrée — invoqua son Seigneur :
+>
+> *« Ô Allah, donne-nous une explication claire concernant le vin ! »*
+
+### La Progression dans l'Interdiction
+
+| Étape | Verset | Signification |
+|-------|--------|---------------|
+| 1️⃣ | ﴿ Ils t'interrogent sur le vin... Il y a en eux un grand péché ﴾ | Indication qu'il est mauvais |
+| 2️⃣ | ﴿ N'approchez pas de la prière alors que vous êtes ivres ﴾ | Interdiction partielle |
+| 3️⃣ | ﴿ Le vin, les jeux de hasard... ne sont qu'une abomination ﴾ | Interdiction totale |
+
+> Omar dit alors : **« Nous avons cessé ! Nous avons cessé ! »**
+
+> 💡 **L'Usuli apprend : Allah peut légiférer progressivement !**
 
 ---
 
-## Conclusion
+## 🎯 Cas Contemporains
 
-Le Coran est la source première de la législation islamique, de transmission certaine, comportant des passages de signification certaine et d'autres de signification probable, et la Sunnah prophétique l'explicite et le détaille.
+### 📱 Cas 1 : Le Coran sur Téléphone
+
+> **Situation** : Puis-je toucher mon téléphone contenant le Coran sans ablutions ?
+
+**❓ Quel est le statut ?**
+
+<details>
+<summary>📜 Cliquez pour la réponse</summary>
+
+**Distinction importante :**
+
+| Le Mushaf (Livre) | Le Téléphone |
+|-------------------|--------------|
+| 📖 Coran uniquement | 📱 Contient le Coran parmi d'autres éléments |
+| Interdit de toucher sans ablutions | La majorité autorise car ce n'est pas un mushaf |
+
+> 💡 **Le verset « Ne le touchent que les purifiés » concerne le mushaf physique !**
+
+</details>
+
+---
+
+### 🔊 Cas 2 : Écouter le Coran sans Concentration
+
+> **Situation** : J'écoute le Coran en voiture ou au travail sans pouvoir me concentrer pleinement.
+
+**❓ Est-ce permis ?**
+
+<details>
+<summary>📜 Cliquez pour la réponse</summary>
+
+**Les savants distinguent :**
+
+| Situation | Statut |
+|-----------|--------|
+| 🎧 Écoute intentionnelle | Concentration requise |
+| 🔊 En fond sonore | Permis sans péché |
+| ⚠️ Le meilleur | Écouter avec attention |
+
+> 💡 **Le verset « Écoutez-le et faites silence » concerne l'écoute intentionnelle !**
+
+</details>
+
+---
+
+### 📚 Cas 3 : Traduction du Coran
+
+> **Situation** : Puis-je réciter la traduction du Coran dans la prière ?
+
+**❓ Quel est le statut ?**
+
+<details>
+<summary>📜 Cliquez pour la réponse</summary>
+
+**Consensus des savants :**
+
+| La traduction | L'original arabe |
+|---------------|------------------|
+| 📝 N'est pas le Coran | 📖 Est le Coran |
+| Ne peut pas remplacer dans la prière | Obligatoire dans la prière |
+| Utile pour comprendre | La récitation originale |
+
+> 💡 **La traduction est une interprétation, pas le Coran lui-même !**
+
+</details>
+
+---
+
+### 🎭 Cas 4 : Réciter le Coran en État de Menstrues
+
+> **Situation** : Une femme en période de menstrues peut-elle réciter le Coran ?
+
+**❓ Les savants ont divergé :**
+
+<details>
+<summary>📜 Cliquez pour la réponse</summary>
+
+**Deux opinions principales :**
+
+| Opinion | Preuve |
+|---------|--------|
+| 🔴 Interdit (Majorité) | Analogie avec le junub (état d'impureté majeure) |
+| 🟢 Permis (Ibn Taymiyya et autres) | Pas de texte explicite interdisant |
+
+> 💡 **La divergence vient de l'absence de texte clair sur ce point !**
+
+</details>
+
+---
+
+### 📖 Cas 5 : Jeter des Papiers Contenant des Versets
+
+> **Situation** : J'ai des notes de cours avec des versets. Puis-je les jeter ?
+
+**❓ Quel est le statut ?**
+
+<details>
+<summary>📜 Cliquez pour la réponse</summary>
+
+**Les méthodes respectueuses :**
+
+| Méthode | Statut |
+|---------|--------|
+| 🔥 Brûler | Permis (comme l'a fait Uthman) |
+| 💧 Déchiqueter et dissoudre | Permis |
+| 🗑️ Poubelle ordinaire | Interdit par respect |
+| ♻️ Recyclage | Si transformé, permis |
+
+> 💡 **L'essentiel est le respect de la Parole d'Allah !**
+
+</details>
+
+---
+
+## 💭 Réflexion
+
+> **Ibn Mas'ud** — qu'Allah l'agrée — dit :
+>
+> **« Celui qui veut la science, qu'il médite le Coran, car en lui se trouve la science des premiers et des derniers. »**
+
+> 🎯 **Le Coran est la source de toute guidance — mais sa compréhension nécessite méthode et science !**
+
+---
+
+## 📚 Résumé
+
+| Concept | Explication |
+|---------|-------------|
+| 🎯 Définition | Parole d'Allah révélée au Prophète ﷺ |
+| 📊 Place | Première source de la législation |
+| 🔒 Authenticité | Certaine (mutawatir) |
+| 🔓 Signification | Certaine ou probable selon les versets |
+| 📖 Types de règles | Doctrinales, pratiques, morales |
+| 🔧 Méthodes | Ordre, interdiction, énoncé explicite |
 `;

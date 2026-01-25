@@ -1,196 +1,351 @@
-export const contentFr = `
-# La Sunnah Prophétique
+/**
+ * Usul al-Fiqh - Leçon 003 : La Sunna Prophétique
+ * Contenu en français - Version immersive
+ */
 
-## Définition de la Sunnah
+export const contentFr = `# 📜 La Sunna Prophétique — La Deuxième Source de la Législation
 
-**La Sunnah** linguistiquement : la voie et la conduite, qu'elle soit bonne ou mauvaise.
+> **﴿ Et ce que le Messager vous donne, prenez-le ; et ce qu'il vous interdit, abstenez-vous-en ﴾**
+>
+> — **[Al-Hashr : 7]**
 
-**La Sunnah** techniquement chez les usulistes : ce qui émane du Prophète ﷺ en termes de parole, acte ou approbation.
+---
 
-### Catégories de la Sunnah
+## 🎬 Introduction
 
-| Type | Définition | Exemple |
-|------|------------|---------|
-| Verbale (Qawliyya) | Ce que le Prophète ﷺ a dit | "Les actes ne valent que par les intentions" |
-| Pratique (Fi'liyya) | Ce que le Prophète ﷺ a fait | La manière de prier et de faire le Hajj |
-| Approbative (Taqririyya) | Ce que le Prophète ﷺ a approuvé par son silence ou approbation | Son approbation de manger du lézard |
+### 🎭 Scène : Mu'adh ibn Jabal Part au Yémen
 
-## Autorité de la Sunnah Prophétique
+> **Médine, an 10 de l'Hégire...**
+>
+> Le Prophète ﷺ envoya **Mu'adh ibn Jabal** — qu'Allah l'agrée — comme juge au Yémen.
+>
+> Avant qu'il ne monte sur sa monture, le Prophète ﷺ lui demanda :
+>
+> **« Sur quelle base jugeras-tu, ô Mu'adh ? »**
+>
+> Mu'adh répondit : *« Selon le Livre d'Allah. »*
+>
+> **« Et si tu ne trouves pas ? »**
+>
+> Il dit : *« Selon la Sunna du Messager d'Allah. »*
+>
+> **« Et si tu ne trouves pas ? »**
+>
+> Il dit : *« Je ferai l'effort de réflexion de mon mieux. »*
+>
+> Le Prophète ﷺ frappa sur sa poitrine et dit :
+>
+> **« Louange à Allah qui a guidé l'envoyé du Messager d'Allah vers ce qui agrée le Messager d'Allah ! »**
+>
+> — **[Rapporté par Abu Dawud et At-Tirmidhi — sa chaîne est discutée mais il est célèbre dans les livres d'Usul]**
 
-### Preuve du Coran
+> 🎯 **La Sunna est la deuxième source — directement après le Coran !**
 
-Allah le Très-Haut dit :
+---
 
-> **"Prenez ce que le Messager vous donne, et abstenez-vous de ce qu'il vous interdit"** [Al-Hashr : 7]
+### 🎭 Scène : « J'ai reçu le Coran et son équivalent avec lui »
 
-> **"Dis : Si vous aimez Allah, suivez-moi, Allah vous aimera"** [Al-Imran : 31]
+> Le Prophète ﷺ dit :
+>
+> **« Certes, j'ai reçu le Livre et son équivalent avec lui. Bientôt viendra un homme repu, allongé sur son divan, qui dira : "Tenez-vous-en à ce Coran ! Ce que vous y trouvez de licite, déclarez-le licite, et ce que vous y trouvez d'illicite, déclarez-le illicite..." »**
+>
+> — **[Rapporté par Abu Dawud]**
 
-> **"Et il ne prononce rien selon sa passion. Ce n'est rien d'autre qu'une révélation inspirée"** [An-Najm : 3-4]
+> ⚠️ **Celui qui rejette la Sunna a rejeté la moitié de la religion !**
 
-### Preuve de la Sunnah
+---
 
-Le Prophète ﷺ a dit :
+## 📖 Définition de la Sunna
 
-> **"Certes, j'ai reçu le Coran et son équivalent avec lui"** [Rapporté par Abu Dawud]
+### Linguistiquement
+
+| Terme | Signification |
+|-------|---------------|
+| **Sunna** | La voie, la conduite |
+
+### Techniquement
+
+> **La Sunna selon les Usuliyyun** : Ce qui émane du Prophète ﷺ en termes de **parole**, **acte** ou **approbation tacite**.
+
+---
+
+## 📊 Catégories de la Sunna
+
+### 1️⃣ La Sunna Verbale (Qawliyya)
+
+| Définition | Exemple |
+|------------|---------|
+| Ce que le Prophète ﷺ a dit | « Les actes ne valent que par les intentions » |
+| | « Priez comme vous m'avez vu prier » |
+
+### 2️⃣ La Sunna Actuelle (Fi'liyya)
+
+| Définition | Exemple |
+|------------|---------|
+| Ce que le Prophète ﷺ a fait | Sa manière de prier |
+| | Sa manière de faire le pèlerinage |
+
+### 3️⃣ La Sunna d'Approbation (Taqririyya)
+
+| Définition | Exemple |
+|------------|---------|
+| Ce que le Prophète ﷺ a vu sans le désapprouver | Des Compagnons ont mangé un lézard devant lui, il ne l'a pas interdit |
+| | Il a vu des gens faire quelque chose sans les réprimander |
+
+---
+
+## ⚖️ L'Autorité de la Sunna
+
+### Les Preuves du Coran
+
+| Verset | Signification |
+|--------|---------------|
+| ﴿ Obéissez à Allah et obéissez au Messager ﴾ | L'obéissance au Prophète est ordonnée |
+| ﴿ Ce que le Messager vous donne, prenez-le ﴾ | Obligation de suivre ses ordres |
+| ﴿ En effet, vous avez dans le Messager d'Allah un excellent modèle ﴾ | Le Prophète est un exemple |
+
+### Les Preuves de la Sunna
+
+| Hadith | Signification |
+|--------|---------------|
+| « J'ai reçu le Livre et son équivalent » | La Sunna a une autorité égale |
+| « Que celui qui est présent transmette à celui qui est absent » | Obligation de transmettre |
 
 ### Le Consensus
 
-La Oumma est unanime sur l'obligation de suivre la Sunnah prophétique authentique.
-
-## Position de la Sunnah par rapport au Coran
-
-### La Sunnah avec le Coran
-
-1. **Confirmatrice du Coran** : comme confirmer l'obligation de la prière et de la Zakat
-2. **Explicative du Coran** : comme expliquer comment prier et faire le Hajj
-3. **Indépendante avec de nouvelles règles** : comme l'interdiction d'épouser une femme et sa tante
-
-### Types d'explication
-
-| Type | Explication | Exemple |
-|------|-------------|---------|
-| Détailler le concis | Clarifier ce qui est résumé dans le Coran | Détailler les règles de la prière |
-| Spécifier le général | Limiter certains individus du général | "Pas de testament pour un héritier" |
-| Restreindre l'absolu | Ajouter une restriction à l'absolu | Couper la main droite dans le vol |
-
-## Catégories de la Sunnah selon la transmission
-
-### Le Mutawatir (Massif)
-
-- **Définition** : ce qui est rapporté par un grand nombre de personnes dont l'accord sur le mensonge est impossible
-- **Statut** : procure une connaissance certaine
-- **Exemple** : hadiths sur le Bassin (Hawd) et l'Intercession
-
-### Le Ahad (Isolé)
-
-- **Définition** : ce qui n'atteint pas le degré de tawatur
-- **Statut** : procure une probabilité prépondérante si sa chaîne est authentique
-- **Subdivisions** : célèbre (mashhur), rare ('aziz), singulier (gharib)
-
-## Conditions d'acceptation du Hadith
-
-### Conditions de validité
-
-1. **Continuité de la chaîne** : pas d'interruption dans la chaîne des rapporteurs
-2. **Intégrité des rapporteurs** : qu'ils soient musulmans, adultes, sains d'esprit
-3. **Précision des rapporteurs** : leur mémorisation et maîtrise du hadith
-4. **Absence d'anomalie** : que le fiable ne contredise pas plus fiable que lui
-5. **Absence de défaut caché** : exemption des défauts cachés invalidants
-
-### Niveaux du Hadith
-
-| Niveau | Définition | Statut |
-|--------|------------|--------|
-| Sahih (Authentique) | Remplit toutes les conditions | Preuve à suivre |
-| Hasan (Bon) | Précision légèrement diminuée | Preuve à suivre |
-| Da'if (Faible) | Une condition non remplie | Non utilisable pour les règles |
-| Mawdu' (Forgé) | Inventé sur le Prophète ﷺ | Interdit de le rapporter sauf pour avertir |
-
-## La Sunnah législative et non-législative
-
-### Ce qui est législatif
-
-- Les adorations et les règles légales
-- L'éthique et les bonnes manières ordonnées
-
-### Ce qui n'est pas législatif
-
-- Les affaires purement mondaines (comme la pollinisation des palmiers)
-- Les actes instinctifs (comme la manière de manger et boire)
-- Les spécificités prophétiques
-
-## Relation entre Sunnah et Ijtihad
-
-### Le Prophète ﷺ a-t-il fait l'ijtihad ?
-
-- La majorité affirme qu'il pouvait faire l'ijtihad dans ce qui n'avait pas de révélation
-- S'il se trompait dans l'ijtihad, la révélation descendait pour le corriger
-
-## Importance de la Sunnah dans le Fiqh islamique
-
-- **Le Coran ne peut être compris sans elle** : car elle en est l'explication pratique
-- **Source de nombreuses règles** : comme les règles détaillées de la Zakat
-- **Préservée par Allah** : à travers les efforts des savants et leur documentation
+> Les savants sont unanimes : la Sunna est une source de législation contraignante.
 
 ---
 
-## 📖 Récits des Salaf : Imran ibn Husayn et l'attachement à la Sunnah
+## 📊 Rapport entre la Sunna et le Coran
 
-Imran ibn Husayn (qu'Allah l'agrée) était assis avec ses compagnons quand un homme dit : « Parle-nous du Coran seulement, laisse le hadith ! »
+### 1️⃣ La Sunna Confirme le Coran
 
-Imran se mit en colère et dit : **« Vois-tu, si toi et tes compagnons étiez livrés au Coran seul, y trouverais-tu que le Dhohr fait quatre rak'at, le 'Asr quatre, et le Maghrib trois ? Vois-tu, si tu étais livré au Coran, y trouverais-tu que le tawaf fait sept tours et le sa'i sept ? »**
+| Exemple | Explication |
+|---------|-------------|
+| Le Coran ordonne la prière | La Sunna ordonne la prière également |
+| Le Coran interdit l'usure | La Sunna l'interdit aussi |
 
-Puis il dit : **« Ô gens ! Prenez de nous, car par Allah, si vous ne le faites pas, vous vous égarerez certainement. »**
+### 2️⃣ La Sunna Explique le Coran
 
-**La leçon** : La Sunnah est une nécessité pour comprendre la religion, et celui qui prétend s'en passer ignore la réalité de la législation.
+| Exemple | Explication |
+|---------|-------------|
+| ﴿ Accomplissez la prière ﴾ | La Sunna montre comment prier |
+| ﴿ Et acquittez la zakat ﴾ | La Sunna détaille les taux et conditions |
 
----
+### 3️⃣ La Sunna Légifère Indépendamment
 
-## 🎯 Cas pratiques contemporains : Le rapport à la Sunnah prophétique
-
-### Cas 1 : « C'est un hadith faible »
-
-**Contexte** : Une personne refuse d'agir selon un hadith parce qu'elle a entendu qu'il était faible.
-
-**Question** : Tout ce qui est dit faible ne doit-il pas être suivi ?
-
-**Réponse** : ⚠️ Il faut vérifier la source de l'affaiblissement. Le hadith peut être authentique selon d'autres spécialistes du hadith. Et le hadith faible peut être renforcé par des témoins. La référence sont les gens de spécialité.
-
----
-
-### Cas 2 : L'argumentation par un hadith forgé
-
-**Contexte** : Sur internet circule le hadith : « Cherchez la science même en Chine. »
-
-**Question** : Est-il valide de l'utiliser comme argument ?
-
-**Réponse** : ❌ Ce hadith est très faible ou forgé selon de nombreux spécialistes. Il n'est pas permis de l'attribuer au Prophète ﷺ, et la recherche de la science est établie par de nombreuses preuves authentiques.
+| Exemple | Explication |
+|---------|-------------|
+| Interdiction de cumuler la femme et sa tante | Non mentionné dans le Coran |
+| L'héritage de la grand-mère | Fixé par la Sunna uniquement |
 
 ---
 
-### Cas 3 : La Sunnah législative et coutumière
+## 🔐 Authenticité de la Sunna
 
-**Contexte** : Une personne insiste pour toujours porter du blanc parce que le Prophète ﷺ le portait.
+### Les Catégories selon la Transmission
 
-**Question** : Le port du blanc par le Prophète ﷺ est-il une législation obligatoire ?
+| Type | Définition | Statut |
+|------|------------|--------|
+| 🔒 Mutawatir | Rapporté par un grand nombre rendant le mensonge impossible | Certitude absolue |
+| 🔓 Ahad | Rapporté par un nombre limité | Probabilité forte |
 
-**Réponse** : ✅ Porter du blanc est une sunnah recommandée, mais pas obligatoire. Les actes instinctifs et coutumiers du Prophète ﷺ ne sont pas une législation contraignante, contrairement à ses actes cultuels.
+### Les Catégories selon la Fiabilité
 
----
-
-### Cas 4 : Le rejet de l'autorité de la Sunnah
-
-**Contexte** : Certains prétendent que la Sunnah n'est pas une preuve et que le Coran suffit.
-
-**Question** : Quelle est la réponse à cette ambiguïté ?
-
-**Réponse** : ❌ Cela contredit le Coran lui-même qui ordonne de suivre le Messager ﷺ. Et cela contredit le consensus de la Oumma à travers les siècles. Et celui qui nie l'autorité de la Sunnah ne peut accomplir ni la prière, ni la Zakat, ni le Hajj.
-
----
-
-### Cas 5 : Distinguer la compréhension du texte
-
-**Contexte** : Deux savants divergent sur la compréhension d'un même hadith.
-
-**Question** : Cela signifie-t-il que la Sunnah n'est pas claire ?
-
-**Réponse** : ✅ La divergence dans la compréhension n'entame pas l'autorité du texte. Comme le Coran contient le clair et l'ambigu, la Sunnah aussi. La divergence est une miséricorde si elle est fondée sur une méthodologie scientifique correcte.
+| Type | Définition |
+|------|------------|
+| ✅ Sahih (Authentique) | Chaîne continue, rapporteurs fiables et précis |
+| 💚 Hasan (Bon) | Légèrement inférieur au sahih |
+| ❌ Da'if (Faible) | Défaut dans la chaîne ou les rapporteurs |
 
 ---
 
-## 💡 Pause réflexion
+## 🎭 Histoire : L'Interdiction de l'Or pour les Hommes
 
-**Question à méditer** : Comment vous assurez-vous de l'authenticité des hadiths que vous utilisez dans votre vie quotidienne ? Et distinguez-vous entre la Sunnah législative et coutumière ?
+### Le Récit
 
-**Rappel** :
-- La Sunnah est une révélation d'Allah comme le Coran
-- On ne peut se passer du Coran par la Sunnah (et vice versa)
-- Vérifier l'authenticité du hadith est une responsabilité religieuse
-- Comprendre la Sunnah nécessite les gens de spécialité
+> Le Prophète ﷺ vit un homme portant une bague en or.
+>
+> Il la retira de sa main et la jeta en disant :
+>
+> **« L'un de vous prend une braise de feu et la met dans sa main ! »**
+>
+> Après le départ du Prophète ﷺ, on dit à l'homme : « Prends ta bague et profites-en ! »
+>
+> Il répondit : **« Non, par Allah ! Je ne la prendrai pas alors que le Messager d'Allah ﷺ l'a jetée ! »**
+>
+> — **[Rapporté par Muslim]**
+
+> 🎯 **Les Compagnons appliquaient la Sunna immédiatement !**
 
 ---
 
-## Conclusion
+## 📊 Tableau Récapitulatif
 
-La Sunnah prophétique est la deuxième source de législation après le Coran, c'est une preuve contraignante, elle explique et détaille le Coran et apporte des règles indépendantes, et le musulman doit la suivre et la mettre en pratique.
+| Aspect | Détail |
+|--------|--------|
+| 📜 Définition | Parole, acte ou approbation du Prophète ﷺ |
+| ⚖️ Place | Deuxième source après le Coran |
+| 🔗 Relation au Coran | Confirme, explique ou légifère indépendamment |
+| 🔒 Authentification | Mutawatir ou Ahad |
+| ✅ Critères | Sahih, Hasan, Da'if |
+
+---
+
+## 🎯 Cas Contemporains
+
+### 🧔 Cas 1 : La Barbe est-elle Obligatoire ?
+
+> **Situation** : Le Prophète ﷺ a dit : « Laissez pousser la barbe ». Un jeune veut savoir si c'est obligatoire.
+
+**❓ Quel est le statut ?**
+
+<details>
+<summary>📜 Cliquez pour la réponse</summary>
+
+**Analyse Usuli :**
+
+| Élément | Analyse |
+|---------|---------|
+| 📜 L'ordre | « Laissez pousser » = forme impérative |
+| ⚖️ L'ordre implique l'obligation | Selon la règle de base |
+| 🔍 Y a-t-il un élément qui atténue ? | Divergence des savants |
+
+| Opinion | École |
+|---------|-------|
+| 🔴 Obligatoire | Majorité (Hanafite, Malikite, Hanbalite) |
+| 🟡 Fortement recommandé | Certains Chaféites |
+
+> 💡 **La divergence vient de l'interprétation de l'ordre !**
+
+</details>
+
+---
+
+### 🍖 Cas 2 : Manger avec la Main Droite
+
+> **Situation** : Le Prophète ﷺ a ordonné de manger avec la main droite. Est-ce obligatoire ?
+
+**❓ Quel est le statut ?**
+
+<details>
+<summary>📜 Cliquez pour la réponse</summary>
+
+**Les savants distinguent :**
+
+| Type d'acte | Statut |
+|-------------|--------|
+| 🕌 Actes d'adoration | L'ordre implique l'obligation |
+| 🍽️ Actes de coutume | L'ordre implique la recommandation (selon certains) |
+
+| Opinion | Explication |
+|---------|-------------|
+| 🔴 Obligatoire | La forme est impérative |
+| 🟢 Fortement recommandé | Car c'est un acte de coutume |
+
+> 💡 **La méthode Usuli aide à distinguer les contextes !**
+
+</details>
+
+---
+
+### 👔 Cas 3 : Les Vêtements du Prophète ﷺ
+
+> **Situation** : Doit-on porter les mêmes vêtements que le Prophète ﷺ portait ?
+
+**❓ Est-ce une Sunna à suivre ?**
+
+<details>
+<summary>📜 Cliquez pour la réponse</summary>
+
+**Classification des actes du Prophète ﷺ :**
+
+| Type | Exemple | Statut |
+|------|---------|--------|
+| 🕌 Acte d'adoration | Manière de prier | À suivre |
+| 🌍 Acte de coutume | Vêtements de son époque | Non obligatoire |
+| 👤 Acte personnel | Ce qu'il aimait manger | Permis de l'imiter |
+
+> 💡 **L'Usuli distingue entre les différents types d'actes !**
+
+</details>
+
+---
+
+### 📿 Cas 4 : Le Hadith Faible
+
+> **Situation** : Quelqu'un cite un hadith faible pour encourager une bonne action.
+
+**❓ Peut-on utiliser un hadith faible ?**
+
+<details>
+<summary>📜 Cliquez pour la réponse</summary>
+
+**Conditions selon ceux qui le permettent :**
+
+| Condition | Explication |
+|-----------|-------------|
+| 1️⃣ | Faiblesse légère (pas inventé) |
+| 2️⃣ | S'inscrit dans un principe général établi |
+| 3️⃣ | Uniquement pour les vertus (fadail) |
+| 4️⃣ | Ne pas croire fermement qu'il est du Prophète ﷺ |
+
+| Opinion | Détail |
+|---------|--------|
+| 🟢 Permis avec conditions | Majorité des savants |
+| 🔴 Interdit absolument | Certains comme Ibn Hazm |
+
+> 💡 **Les Usul nous enseignent la prudence dans l'utilisation des preuves !**
+
+</details>
+
+---
+
+### 🕌 Cas 5 : Hadith Ahad en Matière de Croyance
+
+> **Situation** : Peut-on baser des points de croyance sur un hadith Ahad ?
+
+**❓ Quel est l'avis ?**
+
+<details>
+<summary>📜 Cliquez pour la réponse</summary>
+
+**Deux positions principales :**
+
+| Opinion | Argument |
+|---------|----------|
+| 🔴 Non, seulement Mutawatir | La croyance exige la certitude absolue |
+| 🟢 Oui, si authentique | Le Prophète ﷺ envoyait des individus enseigner la religion |
+
+**La position majoritaire des Salaf :**
+> Si le hadith est authentique, il est accepté en croyance et en pratique.
+
+> 💡 **L'Usuli doit connaître cette divergence méthodologique !**
+
+</details>
+
+---
+
+## 💭 Réflexion
+
+> **L'Imam Malik** — qu'Allah lui fasse miséricorde — dit :
+>
+> **« Chacun peut voir son avis accepté ou rejeté, sauf l'occupant de cette tombe ﷺ. »**
+>
+> Et il pointait vers la tombe du Prophète ﷺ.
+
+> 🎯 **La Sunna est la lumière qui guide — celui qui s'en éloigne s'égare !**
+
+---
+
+## 📚 Résumé
+
+| Concept | Explication |
+|---------|-------------|
+| 🎯 Définition | Parole, acte ou approbation du Prophète ﷺ |
+| ⚖️ Place | Deuxième source de législation |
+| 📊 Types | Verbale, actuelle, d'approbation |
+| 🔗 Rapport au Coran | Confirme, explique, légifère |
+| 🔒 Authentification | Science du hadith |
 `;
