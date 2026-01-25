@@ -249,7 +249,11 @@ export const content = `# 📜 Belief in Divine Decree — The Sixth Pillar of F
 
 </div>
 
-**O Lord, increase me in knowledge!** 📖`
+---
+
+## 🛡️ Refutation of Doubts
+
+### First Doubt: "It's not my fault if Allah decreed it"
 
 **❌ The Doubt:** "If Allah knew and wrote that I would sin, it's not my fault!"
 
