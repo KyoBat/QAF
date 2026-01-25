@@ -113,7 +113,135 @@ const content = `
 | **L'excès envers 'Alî** | L'ont réprouvé |
 
 ---
+## 🎯 Cas Contemporains
 
+### ⚔️ Cas 1: Débat entre Salafis et Ash'aris sur les forums
+
+> **Situation:** Des discussions houlés sur les forums entre partisans du salafisme et de l'ash'arisme, chacun accusant l'autre d'égarement.
+
+**❓ Comment gérer ces désaccords?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| Les quatre imams | Tous sur la voie du Salaf |
+| But du débat | Atteindre la vérité, non vaincre |
+| Méthode | Avec science et sagesse |
+| Éviter | Accusations mutuelles et division |
+
+> 💡 **Règle:** Le débat doit être scientifique et respectueux. Les quatre imams n'auraient pas approuvé les disputes sectaires.
+
+</details>
+
+---
+
+### 📚 Cas 2: Étudiant qui change de madhab en croyance
+
+> **Situation:** Un étudiant en sciences islamiques, après des lectures, décide de quitter l'ash'arisme pour le salafisme, causant des tensions familiales.
+
+**❓ Comment gérer ce changement?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| Liberté de recherche | Droit de chercher la vérité |
+| Sagesse | Présenter avec douceur |
+| Liens familiaux | À préserver absolument |
+| Patience | Changement progressif |
+
+> 💡 **Règle:** Chercher la vérité est louable, mais la sagesse dans la présentation et le maintien des liens familiaux sont obligatoires.
+
+</details>
+
+---
+
+### 🎓 Cas 3: Université qui enseigne une seule école de aqeedah
+
+> **Situation:** Une université islamique n'enseigne que l'école ash'arite sans mentionner l'approche athérite ou vice versa.
+
+**❓ Cette approche exclusive est-elle correcte?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| Éducation complète | Connaître les différentes approches |
+| Unité des quatre imams | Tous suivaient le Salaf |
+| Formation du savant | Doit connaître les avis |
+| Objectivité | Présenter les preuves |
+
+> 💡 **Règle:** L'étudiant devrait connaître les différentes approches pour comprendre l'accord des quatre imams sur les fondements.
+
+</details>
+
+---
+
+### 🤝 Cas 4: Imam qui refuse de prier derrière un Mâturîdite
+
+> **Situation:** Un imam refuse de prier derrière un autre imam car celui-ci est mâturîdite.
+
+**❓ Ce refus est-il justifié?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| Les quatre imams | Priaient les uns derrière les autres malgré les différences |
+| Unité des musulmans | Priorité |
+| Conditions de la prière | L'imam est musulman |
+| Sectarisme | À éviter absolument |
+
+> 💡 **Règle:** On prie derrière tout imam musulman. Les quatre imams, malgré leurs différences, priaient ensemble.
+
+</details>
+
+---
+
+### 📖 Cas 5: Lire des livres de kalam - permis ou interdit?
+
+> **Situation:** Un étudiant se demande s'il peut lire des livres de kalâm (théologie spéculative) pour comprendre les débats.
+
+**❓ Est-il permis d'étudier le kalâm?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| Position des quatre imams | Ont blâmé le kalâm |
+| Niveau de l'étudiant | Le débutant s'en écarte |
+| Objectif | Si pour réfuter avec science |
+| Accompagnement | Avec un savant guide |
+
+> 💡 **Règle:** Le kalâm est à éviter pour le commun. L'étudiant avancé peut l'étudier pour réfuter, avec accompagnement.
+
+</details>
+
+---
+
+## 💭 Réflexion
+
+> *« Les quatre imams sont unanimes sur les fondements de la croyance. Leur héritage est l'unité, non la division. »*
+
+— Enseignement des savants
+
+---
 ## ❓ Questions Fréquentes
 
 ### Q1 : Les quatre Imams ont-ils divergé en croyance ?

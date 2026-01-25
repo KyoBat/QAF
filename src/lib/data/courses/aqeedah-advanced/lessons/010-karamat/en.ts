@@ -108,6 +108,136 @@ const content = `
 
 ---
 
+## 🎯 Contemporary Cases
+
+### 🌟 Case 1: Sheikh Who Claims to See the Future
+
+> **Situation:** A famous sheikh claims to see the future and predicts future events to his disciples.
+
+**❓ Is this claim a legitimate karâmah?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Knowledge of future | Reserved for Allah alone |
+| Regular claim | The saint doesn't claim karâmah |
+| Istidrâj | May be a lure from Allah |
+| Verification | Contrary to foundations of belief |
+
+> 💡 **Rule:** Claiming to know the future regularly is contrary to belief. The ghayb belongs to Allah alone.
+
+</details>
+
+---
+
+### ✨ Case 2: Healing After Visiting a Saint's Tomb
+
+> **Situation:** A sick person visits a "saint's" tomb and claims to have been healed after invoking there.
+
+**❓ Does this healing prove the deceased's sainthood?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Source of healing | Allah alone heals |
+| Coincidence | Healing may be natural |
+| Act committed | Invoking at tombs is forbidden |
+| Istidrâj | May be a test |
+
+> 💡 **Rule:** Healing doesn't prove sainthood. The act of invoking at tombs remains forbidden regardless of the result.
+
+</details>
+
+---
+
+### 📹 Case 3: Viral Videos of Islamic "Miracles"
+
+> **Situation:** Videos circulate showing "miracles" like trees forming Allah's name or honey flowing from a Quran.
+
+**❓ How should we judge these viral "miracles"?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Verification | Often edits or coincidences |
+| Need for proof | Islam doesn't need these "miracles" |
+| Correct belief | Don't base faith on these phenomena |
+| Caution | Avoid sharing without verification |
+
+> 💡 **Rule:** Faith is based on Quran and Sunnah, not on doubtful videos. Caution is advised.
+
+</details>
+
+---
+
+### 🕌 Case 4: Imam Who Refuses Medicine, Preferring "Karama"
+
+> **Situation:** A sick imam refuses treatment, claiming Allah will grant him a karâmah of healing if he's truly pious.
+
+**❓ Is this attitude in accordance with the Sunnah?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Prophetic order | "Seek treatment, for Allah has created the remedy" |
+| Tawakkul | Take the means then rely on Allah |
+| Karâmah | Not to be requested, it's granted |
+| Claim | Expecting a karâmah is incorrect |
+
+> 💡 **Rule:** Seeking treatment is from the Sunnah. Refusing medicine while expecting a karâmah is contrary to correct tawakkul.
+
+</details>
+
+---
+
+### 💫 Case 5: Dream of a Saint Giving Instructions
+
+> **Situation:** Someone dreams of a deceased saint who gives them specific religious instructions.
+
+**❓ Should one follow instructions received in a dream?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Source of legislation | Quran and Sunnah only |
+| Dreams | Are not a source of legislation |
+| Verification | Compare to Quran and Sunnah |
+| Decision | If compliant, permissible; otherwise, rejected |
+
+> 💡 **Rule:** Dreams don't legislate. We only follow what conforms to the Quran and Sunnah.
+
+</details>
+
+---
+
+## 💭 Reflection
+
+> *"The true saint is one who follows the Prophet ﷺ, not one who claims wonders."*
+
+— Teaching of the scholars
+
+---
+
 ## ❓ Frequently Asked Questions
 
 ### Q1: Is everyone who claims Karâmah a saint?

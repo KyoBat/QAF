@@ -244,6 +244,190 @@ const diagramsRegistry: Record<string, DiagramData> = {
   },
 
   // ─────────────────────────────────────────────────────────
+  // FIQH MUAMALAT - أقسام الأجير (Types d'employés)
+  // ─────────────────────────────────────────────────────────
+  'worker-types': {
+    type: 'comparison',
+    title: {
+      ar: '👷 أقسام الأجير في إجارة العمل',
+      fr: '👷 Types d\'employés dans le contrat de travail',
+      en: '👷 Types of Workers in Work Contracts'
+    },
+    columns: [
+      {
+        title: { ar: 'الأجير الخاص', fr: 'Employé privé', en: 'Private Employee' },
+        variant: 'neutral',
+        items: [
+          { ar: 'يعمل لمستأجر واحد', fr: 'Travaille pour un seul employeur', en: 'Works for one employer' },
+          { ar: 'مدة معينة (شهر/سنة)', fr: 'Durée déterminée (mois/année)', en: 'Fixed duration (month/year)' },
+          { ar: 'مستحق الأجر بالمدة', fr: 'Salaire basé sur la durée', en: 'Salary based on duration' },
+          { ar: 'مثال: الموظف الشهري، السائق الخاص', fr: 'Ex: Employé mensuel, chauffeur privé', en: 'Ex: Monthly employee, private driver' }
+        ]
+      },
+      {
+        title: { ar: 'الأجير المشترك', fr: 'Employé partagé', en: 'Shared Employee' },
+        variant: 'neutral',
+        items: [
+          { ar: 'يعمل لأكثر من شخص', fr: 'Travaille pour plusieurs personnes', en: 'Works for multiple people' },
+          { ar: 'عمل معين لا مدة معينة', fr: 'Travail défini, pas de durée fixe', en: 'Defined work, no fixed duration' },
+          { ar: 'مستحق الأجر بإنجاز العمل', fr: 'Salaire à l\'achèvement du travail', en: 'Salary upon work completion' },
+          { ar: 'مثال: الخياط، المحامي، الطبيب', fr: 'Ex: Tailleur, avocat, médecin', en: 'Ex: Tailor, lawyer, doctor' }
+        ]
+      }
+    ]
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // FIQH MUAMALAT - ضمان المستأجر (Responsabilité du locataire)
+  // ─────────────────────────────────────────────────────────
+  'tenant-liability': {
+    type: 'comparison',
+    title: {
+      ar: '⚖️ متى يضمن المستأجر؟',
+      fr: '⚖️ Quand le locataire est-il responsable?',
+      en: '⚖️ When is the Tenant Liable?'
+    },
+    columns: [
+      {
+        title: { ar: 'التعدي', fr: 'Transgression', en: 'Transgression' },
+        subtitle: { ar: 'يضمن ✓', fr: 'Responsable ✓', en: 'Liable ✓' },
+        variant: 'negative',
+        items: [
+          { ar: 'استعمال العين في غير ما أُذن له', fr: 'Utiliser le bien autrement que prévu', en: 'Using the property other than agreed' },
+          { ar: 'استأجر للسكن فجعلها مخزناً', fr: 'Louer pour habiter, utiliser comme entrepôt', en: 'Rent to live, use as warehouse' },
+          { ar: 'استأجر سيارة للمدينة فسافر بها', fr: 'Louer une voiture en ville, voyager', en: 'Rent car for city, travel far' }
+        ]
+      },
+      {
+        title: { ar: 'التفريط', fr: 'Négligence', en: 'Negligence' },
+        subtitle: { ar: 'يضمن ✓', fr: 'Responsable ✓', en: 'Liable ✓' },
+        variant: 'negative',
+        items: [
+          { ar: 'ترك الحفظ الواجب للعين', fr: 'Ne pas préserver le bien correctement', en: 'Failing to preserve the property' },
+          { ar: 'ترك الباب مفتوحاً فسُرقت', fr: 'Laisser la porte ouverte, vol', en: 'Leave door open, theft' },
+          { ar: 'إهمال السيارة في الشمس', fr: 'Négliger la voiture au soleil', en: 'Neglecting car in sun' }
+        ]
+      }
+    ]
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // FIQH MUAMALAT - أسباب انتهاء الإجارة
+  // ─────────────────────────────────────────────────────────
+  'lease-termination': {
+    type: 'ruling',
+    title: {
+      ar: '⏰ أسباب انتهاء عقد الإجارة',
+      fr: '⏰ Causes de fin du contrat de location',
+      en: '⏰ Causes of Lease Termination'
+    },
+    rulingType: 'info',
+    numbered: true,
+    items: [
+      {
+        text: { ar: 'انتهاء المدة المتفق عليها', fr: 'Fin de la durée convenue', en: 'End of agreed duration' },
+        subitems: [
+          { ar: 'ينتهي العقد تلقائياً', fr: 'Le contrat prend fin automatiquement', en: 'Contract ends automatically' },
+          { ar: 'يجب رد العين للمؤجر', fr: 'Le bien doit être rendu au bailleur', en: 'Property must be returned to lessor' }
+        ]
+      },
+      {
+        text: { ar: 'التفاسخ بين الطرفين', fr: 'Résiliation mutuelle', en: 'Mutual termination' },
+        subitems: [
+          { ar: 'بالاتفاق المتبادل', fr: 'Par accord mutuel', en: 'By mutual agreement' },
+          { ar: 'قبل انتهاء المدة', fr: 'Avant la fin de la durée', en: 'Before end of duration' }
+        ]
+      },
+      {
+        text: { ar: 'تلف العين المستأجرة', fr: 'Destruction du bien loué', en: 'Destruction of leased property' },
+        subitems: [
+          { ar: 'تلف كلي = انفساخ العقد', fr: 'Destruction totale = résiliation', en: 'Total destruction = termination' },
+          { ar: 'تلف جزئي = خيار للمستأجر', fr: 'Destruction partielle = choix locataire', en: 'Partial destruction = tenant choice' }
+        ]
+      },
+      {
+        text: { ar: 'فوات المنفعة المقصودة', fr: 'Perte du bénéfice prévu', en: 'Loss of intended benefit' },
+        subitems: [
+          { ar: 'استأجر أرضاً للزراعة فانقطع الماء', fr: 'Louer terre pour agriculture, eau coupée', en: 'Rent land for farming, water cut' },
+          { ar: 'استأجر محلاً ففُرض الحظر', fr: 'Louer local, confinement imposé', en: 'Rent shop, lockdown imposed' }
+        ]
+      }
+    ]
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // FIQH MUAMALAT - الإجارة المنتهية بالتمليك
+  // ─────────────────────────────────────────────────────────
+  'lease-to-own': {
+    type: 'comparison',
+    title: {
+      ar: '⚖️ أقوال العلماء في الإجارة المنتهية بالتمليك',
+      fr: '⚖️ Avis des savants sur la location-vente',
+      en: '⚖️ Scholars\' Views on Lease-to-Own'
+    },
+    columns: [
+      {
+        title: { ar: 'القول الأول: الجواز بشروط', fr: 'Premier avis: Permis sous conditions', en: 'First view: Permissible with conditions' },
+        variant: 'positive',
+        items: [
+          { ar: 'فصل الوعد عن عقد الإجارة', fr: 'Séparer la promesse du contrat de location', en: 'Separate promise from lease contract' },
+          { ar: 'التمليك بعقد جديد (هبة أو بيع رمزي)', fr: 'Transfert par nouveau contrat (don ou vente symbolique)', en: 'Transfer by new contract (gift or symbolic sale)' },
+          { ar: 'المستأجر لا يتحمل هلاك العين', fr: 'Le locataire ne supporte pas la perte du bien', en: 'Tenant not liable for property loss' }
+        ]
+      },
+      {
+        title: { ar: 'القول الثاني: المنع', fr: 'Second avis: Interdit', en: 'Second view: Prohibited' },
+        variant: 'negative',
+        items: [
+          { ar: 'اجتماع عقدين في عقد', fr: 'Deux contrats en un', en: 'Two contracts in one' },
+          { ar: 'جهالة المآل', fr: 'Issue inconnue', en: 'Unknown outcome' },
+          { ar: 'غرر في حقيقة العقد', fr: 'Incertitude sur la nature du contrat', en: 'Uncertainty about contract nature' }
+        ]
+      }
+    ]
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // FIQH MUAMALAT - رسوم التأخير = ربا
+  // ─────────────────────────────────────────────────────────
+  'late-fees-riba': {
+    type: 'ruling',
+    title: {
+      ar: '⚠️ لماذا رسوم التأخير ربا؟',
+      fr: '⚠️ Pourquoi les pénalités de retard sont de l\'usure?',
+      en: '⚠️ Why Late Fees are Usury?'
+    },
+    rulingType: 'prohibitions',
+    numbered: false,
+    items: [
+      { text: { ar: 'الإيجار المتأخر = دَين في ذمة المستأجر', fr: 'Loyer en retard = dette du locataire', en: 'Late rent = debt on tenant' } },
+      { text: { ar: 'الزيادة على الدين مقابل التأخير = ربا النسيئة', fr: 'Augmentation sur dette pour retard = usure', en: 'Increase on debt for delay = usury' } },
+      { text: { ar: '"كل قرض جر نفعاً فهو ربا"', fr: '"Tout prêt qui génère un profit est usure"', en: '"Every loan that brings benefit is usury"' } }
+    ],
+    footer: { ar: '❌ محرم شرعاً', fr: '❌ Interdit en Islam', en: '❌ Prohibited in Islam' }
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // FIQH MUAMALAT - ملخص الإجارة
+  // ─────────────────────────────────────────────────────────
+  'ijarah-summary': {
+    type: 'summary',
+    title: {
+      ar: '🎯 ملخص: أحكام الإجارة',
+      fr: '🎯 Résumé: Règles de la location',
+      en: '🎯 Summary: Leasing Rules'
+    },
+    rows: [
+      { item: { ar: 'الإجارة = عقد على منفعة بعوض', fr: 'Location = contrat sur usufruit contre paiement', en: 'Lease = contract on benefit for payment' }, ruling: 'halal' },
+      { item: { ar: 'الأركان الأربعة: المتعاقدان، الصيغة، المنفعة، الأجرة', fr: '4 piliers: Parties, formule, usufruit, loyer', en: '4 pillars: Parties, formula, benefit, rent' }, ruling: 'halal' },
+      { item: { ar: 'إجارة أعيان + إجارة ذمة + إجارة عمل', fr: 'Location de biens + sur engagement + de services', en: 'Property lease + liability lease + work lease' }, ruling: 'halal' },
+      { item: { ar: 'لا ضمان إلا بتعدٍّ أو تفريط', fr: 'Pas de responsabilité sauf transgression/négligence', en: 'No liability except for transgression/negligence' }, ruling: 'halal' },
+      { item: { ar: 'الإجارة المنتهية بالتمليك: تجوز بشروط', fr: 'Location-vente: permise sous conditions', en: 'Lease-to-own: permissible with conditions' }, ruling: 'halal' },
+      { item: { ar: 'رسوم التأخير على الإيجار', fr: 'Pénalités de retard sur le loyer', en: 'Late fees on rent' }, ruling: 'haram' }
+    ]
+  },
+
+  // ─────────────────────────────────────────────────────────
   // FIQH MUAMALAT - Conditions de vente valide
   // ─────────────────────────────────────────────────────────
   'bay-conditions': {

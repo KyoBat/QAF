@@ -113,7 +113,135 @@ const content = `
 | **Excess toward 'Alî** | Disapproved of it |
 
 ---
+## 🎯 Contemporary Cases
 
+### ⚔️ Case 1: Debate Between Salafis and Ash'aris on Forums
+
+> **Situation:** Heated discussions on forums between Salafi and Ash'ari proponents, each accusing the other of misguidance.
+
+**❓ How should these disagreements be handled?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| The four imams | All on the path of the Salaf |
+| Purpose of debate | To reach truth, not to win |
+| Method | With knowledge and wisdom |
+| Avoid | Mutual accusations and division |
+
+> 💡 **Rule:** Debate should be scholarly and respectful. The four imams wouldn't have approved of sectarian disputes.
+
+</details>
+
+---
+
+### 📚 Case 2: Student Who Changes Madhab in Creed
+
+> **Situation:** A student of Islamic sciences, after reading, decides to leave Ash'arism for Salafism, causing family tensions.
+
+**❓ How should this change be handled?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Freedom of inquiry | Right to seek truth |
+| Wisdom | Present with gentleness |
+| Family ties | Must be preserved |
+| Patience | Gradual change |
+
+> 💡 **Rule:** Seeking truth is praiseworthy, but wisdom in presentation and maintaining family ties are obligatory.
+
+</details>
+
+---
+
+### 🎓 Case 3: University Teaching Only One School of Aqeedah
+
+> **Situation:** An Islamic university teaches only the Ash'ari school without mentioning the Athari approach or vice versa.
+
+**❓ Is this exclusive approach correct?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Complete education | Know the different approaches |
+| Unity of four imams | All followed the Salaf |
+| Scholar formation | Should know the opinions |
+| Objectivity | Present the evidences |
+
+> 💡 **Rule:** The student should know the different approaches to understand the four imams' agreement on foundations.
+
+</details>
+
+---
+
+### 🤝 Case 4: Imam Who Refuses to Pray Behind a Mâturîdite
+
+> **Situation:** An imam refuses to pray behind another imam because he's a Mâturîdite.
+
+**❓ Is this refusal justified?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| The four imams | Prayed behind each other despite differences |
+| Muslim unity | Priority |
+| Conditions of prayer | The imam is Muslim |
+| Sectarianism | Must be avoided |
+
+> 💡 **Rule:** We pray behind any Muslim imam. The four imams, despite their differences, prayed together.
+
+</details>
+
+---
+
+### 📖 Case 5: Reading Kalam Books - Permissible or Forbidden?
+
+> **Situation:** A student wonders if he can read kalâm (speculative theology) books to understand the debates.
+
+**❓ Is it permissible to study kalâm?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Four imams' position | Censured kalâm |
+| Student's level | Beginner should avoid |
+| Objective | If to refute with knowledge |
+| Guidance | With a guiding scholar |
+
+> 💡 **Rule:** Kalâm should be avoided by laypeople. Advanced students may study it to refute, with guidance.
+
+</details>
+
+---
+
+## 💭 Reflection
+
+> *"The four imams are unanimous on the foundations of belief. Their legacy is unity, not division."*
+
+— Teaching of the scholars
+
+---
 ## ❓ Frequently Asked Questions
 
 ### Q1: Did the four Imams differ in creed?

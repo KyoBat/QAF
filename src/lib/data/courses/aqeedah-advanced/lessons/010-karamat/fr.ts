@@ -108,6 +108,136 @@ const content = `
 
 ---
 
+## 🎯 Cas Contemporains
+
+### 🌟 Cas 1: Sheikh qui prétend voir le futur
+
+> **Situation:** Un sheikh célèbre prétend pouvoir voir l'avenir et prédit des événements futurs à ses disciples.
+
+**❓ Cette prétention est-elle une karâmah légitime?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| Connaissance du futur | Réservée à Allah seul |
+| Prétention régulière | Le saint ne prétend pas la karâmah |
+| Istidrâj | Peut être un leurre d'Allah |
+| Vérification | Contraire aux fondements de la croyance |
+
+> 💡 **Règle:** Prétendre connaître le futur de manière régulière est contraire à la croyance. Le ghayb appartient à Allah seul.
+
+</details>
+
+---
+
+### ✨ Cas 2: Guérison après visite d'un tombeau de saint
+
+> **Situation:** Une personne malade visite la tombe d'un "saint" et prétend avoir été guérie après y avoir invoqué.
+
+**❓ Cette guérison prouve-t-elle la sainteté du défunt?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| Source de guérison | Allah seul guérit |
+| Coïncidence | La guérison peut être naturelle |
+| Acte commis | Invoquer aux tombeaux est interdit |
+| Istidrâj | Peut être une épreuve |
+
+> 💡 **Règle:** La guérison ne prouve pas la sainteté. L'acte d'invoquer aux tombeaux reste interdit quel que soit le résultat.
+
+</details>
+
+---
+
+### 📹 Cas 3: Vidéos virales de "miracles" islamiques
+
+> **Situation:** Des vidéos circulent montrant des "miracles" comme des arbres formant le nom d'Allah ou du miel coulant d'un Coran.
+
+**❓ Comment juger ces "miracles" viraux?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| Vérification | Souvent des montages ou coïncidences |
+| Besoin de preuves | L'Islam n'a pas besoin de ces "miracles" |
+| Croyance correcte | Ne pas fonder sa foi sur ces phénomènes |
+| Prudence | Éviter de partager sans vérification |
+
+> 💡 **Règle:** La foi se fonde sur le Coran et la Sunnah, non sur des vidéos douteuses. La prudence est de mise.
+
+</details>
+
+---
+
+### 🕌 Cas 4: Imam qui refuse la médecine, préférant la "karama"
+
+> **Situation:** Un imam malade refuse de se soigner, affirmant qu'Allah lui accordera une karâmah de guérison s'il est vraiment pieux.
+
+**❓ Cette attitude est-elle conforme à la Sunnah?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| Ordre prophétique | "Soignez-vous, car Allah a créé le remède" |
+| Tawakkul | Prendre les causes puis s'en remettre à Allah |
+| Karâmah | Ne se demande pas, elle est accordée |
+| Prétention | S'attendre à une karâmah n'est pas correct |
+
+> 💡 **Règle:** Se soigner est de la Sunnah. Refuser la médecine en attendant une karâmah est contraire au tawakkul correct.
+
+</details>
+
+---
+
+### 💫 Cas 5: Rêve d'un saint donnant des instructions
+
+> **Situation:** Quelqu'un rêve d'un saint décédé qui lui donne des instructions religieuses spécifiques.
+
+**❓ Doit-on suivre ces instructions reçues en rêve?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| Source de la législation | Coran et Sunnah uniquement |
+| Rêves | Ne sont pas source de législation |
+| Vérification | Comparer au Coran et à la Sunnah |
+| Décision | Si conforme, permis; sinon, rejeté |
+
+> 💡 **Règle:** Les rêves ne légifèrent pas. On ne suit que ce qui est conforme au Coran et à la Sunnah.
+
+</details>
+
+---
+
+## 💭 Réflexion
+
+> *« Le saint véritable est celui qui suit le Prophète ﷺ, non celui qui prétend des prodiges. »*
+
+— Enseignement des savants
+
+---
+
 ## ❓ Questions Fréquentes
 
 ### Q1 : Tout celui qui prétend la Karâmah est-il un saint ?
