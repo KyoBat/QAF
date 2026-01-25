@@ -1,276 +1,457 @@
-export const contentFr = `
-# Les Droits des Époux
+/**
+ * Fiqh Familial - Leçon 005: Les Droits des Époux
+ * Contenu en Français - Version immersive
+ */
 
-## Introduction
+export const contentFr = `# 💑 Les Droits des Époux — Un Équilibre Divin
 
-Le mariage en Islam est un pacte solennel fondé sur l'affection, la miséricorde et la quiétude. Chaque époux a des droits sur l'autre, ces droits sont réciproques et complémentaires, garantissant la stabilité et le bonheur de la famille.
-
-Allah dit : **"Et parmi Ses signes, Il a créé pour vous des épouses issues de vous-mêmes, afin que vous trouviez auprès d'elles la quiétude, et Il a mis entre vous affection et miséricorde"** [Ar-Rum : 21]
+> **« Et comportez-vous envers elles de manière convenable. Si vous avez de l'aversion pour elles, il se peut que vous ayez de l'aversion pour une chose où Allah a mis un grand bien »**
+>
+> — **[An-Nisâ' : 19]**
 
 ---
 
-## Les Droits de l'Épouse sur son Époux
+## 🎬 Introduction
 
-### Premièrement : Les Droits Financiers
+### 🎭 Scène : Deux visions du mariage
 
-#### 1. La Dot (Mahr/Sadaq)
+**Vision 1 — Le tyran domestique**
 
-C'est un droit obligatoire pour la femme. Allah dit : **"Et donnez aux femmes leur dot de bonne grâce"** [An-Nisa : 4]
+> *« Je suis l'homme, elle doit m'obéir en tout ! Mon café doit être prêt quand je rentre. Elle n'a pas le droit de voir sa famille sans mon autorisation. Ses parents peuvent mourir, je m'en fiche. »*
 
-| Type de Dot | Description |
+😠 **Résultat** : Une femme brisée, des enfants traumatisés, un foyer en enfer.
+
+---
+
+**Vision 2 — Le laxiste sans autorité**
+
+> *« C'est 2024, il n'y a plus de chef de famille. On est égaux en tout. Elle fait ce qu'elle veut, je fais ce que je veux. Chacun son argent, chacun sa vie. »*
+
+😕 **Résultat** : Pas de foyer, juste une colocation avec des disputes.
+
+---
+
+**Vision 3 — L'équilibre prophétique**
+
+> Le Prophète ﷺ aidait à la maison, faisait la course avec 'Âisha, consultait ses épouses, pleurait en se souvenant de Khadîja... Mais il était aussi le **qawwâm** (responsable) de son foyer.
+
+✅ **Résultat** : Amour, respect, stabilité.
+
+> 🎯 **L'Islam ne propose ni tyrannie, ni anarchie. Il propose l'ÉQUILIBRE.**
+
+---
+
+## 📖 Le Verset Fondamental
+
+> **« Et elles ont des droits équivalents à leurs obligations, selon les convenances. Mais les hommes ont un degré sur elles. »**
+>
+> — **[Al-Baqarah : 228]**
+
+### Analyse
+
+| Expression | Signification |
+|------------|---------------|
+| 💍 *« Elles ont des droits »* | La femme n'est pas une esclave — elle a des droits |
+| ⚖️ *« Équivalents à leurs obligations »* | Réciprocité — des droits impliquent des devoirs |
+| 📜 *« Selon les convenances »* | Ce qui est reconnu comme bon dans chaque culture |
+| 👨 *« Les hommes ont un degré sur elles »* | Responsabilité de direction, pas supériorité intrinsèque |
+
+> 💡 **Ibn 'Abbâs** (qu'Allah l'agrée) explique ce « degré » : **« C'est la charge de la dépense et de la responsabilité. »**
+
+---
+
+## 👩 Les Droits de l'Épouse sur son Époux
+
+### 💰 A. Les Droits Financiers
+
+#### 1️⃣ La Dot (Al-Mahr)
+
+> **« Et donnez aux femmes leur dot de bonne grâce. Si de bon gré elles vous en abandonnent quelque chose, consommez-le en toute aisance. »**
+>
+> — **[An-Nisâ' : 4]**
+
+| Type | Description |
+|------|-------------|
+| 💎 **Dot désignée** (Musammâ) | Ce qui est convenu dans le contrat |
+| ⚖️ **Dot équivalente** (Mithl) | Si rien n'est précisé : ce que reçoivent ses semblables |
+| ⏱️ **Dot avancée** (Mu'ajjal) | Payée avant ou à la consommation |
+| 📅 **Dot différée** (Mu'ajjal) | Payée au divorce ou au décès |
+
+> 🎯 **La dot appartient à la femme SEULE**. Son père, son frère, son mari n'ont aucun droit dessus.
+
+#### 2️⃣ La Pension Alimentaire (An-Nafaqa)
+
+> **« Que celui qui est aisé dépense de sa richesse. Et que celui dont les ressources sont limitées dépense selon ce qu'Allah lui a donné. »**
+>
+> — **[At-Talâq : 7]**
+
+| La nafaqa comprend | Détail |
+|--------------------|--------|
+| 🍽️ **Nourriture** | Selon la condition du mari |
+| 👗 **Vêtements** | Selon la coutume du pays |
+| 🏠 **Logement** | Convenable et sûr |
+| 💊 **Soins médicaux** | Traitement des maladies |
+| 👩‍🍳 **Aide domestique** | Si elle en a besoin et qu'il en a les moyens |
+
+> ⚠️ **Règle** : Si le mari refuse de dépenser alors qu'il en a les moyens, la femme peut **se servir** de son argent sans son autorisation pour couvrir ses besoins et ceux des enfants. (Hadith de Hind bint 'Utba)
+
+#### 3️⃣ Le Logement (As-Sakân)
+
+> **« Logez-les là où vous habitez selon vos moyens, et ne leur faites pas de tort pour les mettre dans la gêne. »**
+>
+> — **[At-Talâq : 6]**
+
+| Condition | Explication |
+|-----------|-------------|
+| 🏠 **Adapté à sa condition** | Une femme éduquée n'est pas logée dans un taudis |
+| 🔒 **Indépendant** | Elle peut exiger un logement séparé de la belle-famille |
+| ✅ **Sûr et propre** | Eau, électricité, sécurité |
+
+---
+
+### ❤️ B. Les Droits Non Financiers
+
+#### 1️⃣ La Bonne Cohabitation (Al-Mu'âshara bil-Ma'rûf)
+
+> **« Et comportez-vous envers elles de manière convenable. »**
+>
+> — **[An-Nisâ' : 19]**
+
+> Le Prophète ﷺ a dit :
+>
+> **« Le meilleur d'entre vous est celui qui est le meilleur envers sa famille. Et je suis le meilleur d'entre vous envers ma famille. »**
+>
+> — **[Rapporté par At-Tirmidhî]**
+
+| Aspect | Manifestation |
+|--------|---------------|
+| 💬 **Paroles douces** | Pas d'insultes, pas de rabaissement |
+| 😊 **Bonne humeur** | Sourire, plaisanteries |
+| 🙏 **Reconnaissance** | Remercier pour les efforts |
+| 🤫 **Préservation des secrets** | Ce qui se passe au lit reste au lit |
+
+> 🎭 **Le Prophète ﷺ en pratique** : Il aidait à la maison, cousait ses vêtements, faisait la course avec 'Âisha, buvait du même côté de la tasse qu'elle...
+
+#### 2️⃣ L'Équité entre les Épouses (Al-'Adl)
+
+> **« Si vous craignez de ne pas être équitables, alors une seule. »**
+>
+> — **[An-Nisâ' : 3]**
+
+| Équité OBLIGATOIRE | Équité NON exigée |
+|--------------------|-------------------|
+| ⏰ Répartition des nuits | ❤️ L'amour du cœur |
+| 💰 Dépenses équivalentes | 💕 Le désir naturel |
+| 🏠 Logement similaire | 🤔 Les pensées |
+
+> Le Prophète ﷺ disait :
+>
+> **« Ô Allah, ceci est mon partage en ce que je possède. Ne me blâme pas pour ce que Tu possèdes et que je ne possède pas. »**
+>
+> (= L'amour du cœur n'est pas dans notre contrôle)
+
+#### 3️⃣ Ne Pas Lui Nuire (Adam al-Idâr)
+
+| ❌ INTERDIT | Preuve |
+|-------------|--------|
+| 🤜 **Frapper violemment** | « Et ne leur faites pas de tort » |
+| 🗣️ **Insultes et humiliations** | Le Prophète ﷺ n'a jamais frappé une femme |
+| 🚫 **L'empêcher de voir sa famille** | Sauf raison valable |
+| 💸 **La priver de nafaqa** | C'est son droit |
+
+---
+
+## 👨 Les Droits de l'Époux sur son Épouse
+
+### 1️⃣ L'Obéissance dans le Convenable (At-Tâ'a fil-Ma'rûf)
+
+> Le Prophète ﷺ a dit :
+>
+> **« Si j'avais ordonné à quelqu'un de se prosterner devant quelqu'un, j'aurais ordonné à la femme de se prosterner devant son mari, en raison de l'importance de son droit sur elle. »**
+>
+> — **[Rapporté par At-Tirmidhî]**
+
+⚠️ **ATTENTION** : Ce hadith montre la grandeur du droit, **pas** une autorisation de tyrannie !
+
+| ✅ Elle obéit si... | ❌ Elle n'obéit PAS si... |
+|---------------------|--------------------------|
+| C'est dans le licite | C'est une désobéissance à Allah |
+| C'est dans ses capacités | C'est au-delà de ses forces |
+| C'est raisonnable | C'est de l'abus de pouvoir |
+
+> 💡 **Règle d'or** : **« Pas d'obéissance à la créature dans la désobéissance au Créateur. »** [Ahmad]
+
+### 2️⃣ Rester au Foyer et Demander Permission
+
+> **« Et restez dans vos foyers. »**
+>
+> — **[Al-Ahzâb : 33]**
+
+| Règle | Détail |
+|-------|--------|
+| 🚪 Elle ne sort qu'avec sa permission | Pour les sorties non essentielles |
+| ✅ Il ne doit pas l'empêcher injustement | De voir sa famille, d'aller à la mosquée... |
+| 🏥 Les besoins essentiels | Travail, médecin, urgences — permission implicite |
+
+### 3️⃣ Préserver ses Biens et son Honneur
+
+> Le Prophète ﷺ a dit :
+>
+> **« La femme est gardienne du foyer de son mari, et elle sera interrogée sur ce dont elle a la charge. »**
+>
+> — **[Bukhari et Muslim]**
+
+| Obligation | Détail |
+|------------|--------|
+| 💰 Ne pas dépenser sans permission | Sauf ce qui est habituel |
+| 🏠 Garder la maison | Propreté, organisation |
+| 🚫 Ne pas admettre qui il déteste | Hommes étrangers, personnes nuisibles |
+
+### 4️⃣ S'acquitter du Devoir Conjugal
+
+> Le Prophète ﷺ a dit :
+>
+> **« Si l'homme appelle sa femme à son lit et qu'elle refuse, les anges la maudissent jusqu'au matin. »**
+>
+> — **[Bukhari et Muslim]**
+
+| ⚠️ Contexte | Explication |
 |-------------|-------------|
-| Dot désignée | Ce qui est convenu entre les époux dans le contrat |
-| Dot équivalente | Ce qui est donné à ses semblables en l'absence de désignation |
-| Dot avancée | Ce qui est payé avant la consommation |
-| Dot différée | Ce qui est payé lors du divorce ou du décès |
+| 🎯 Le refus visé | Refus **sans excuse valable**, par caprice |
+| ✅ Excuses valables | Maladie, grande fatigue, menstrues |
+| ❤️ La bonne approche | Le mari doit aussi considérer son état |
 
-#### 2. La Pension Alimentaire (Nafaqah)
-
-Allah dit : **"Que celui qui est aisé dépense de sa richesse, et que celui dont les ressources sont limitées dépense selon ce qu'Allah lui a donné"** [At-Talaq : 7]
-
-**La pension comprend :**
-- La nourriture et la boisson
-- Les vêtements selon la coutume
-- Un logement convenable
-- Les soins médicaux
-- Une servante si elle en a besoin
-
-#### 3. Le Logement
-
-Allah dit : **"Logez-les là où vous habitez selon vos moyens"** [At-Talaq : 6]
-
-**Conditions du logement :**
-- Qu'il soit adapté à sa condition
-- Qu'il soit indépendant de sa famille si elle le demande
-- Qu'il soit sûr et propre
-
-### Deuxièmement : Les Droits Non Financiers
-
-#### 1. La Bonne Cohabitation
-
-Allah dit : **"Et comportez-vous envers elles de manière convenable"** [An-Nisa : 19]
-
-Et le Prophète ﷺ a dit : **"Le meilleur d'entre vous est celui qui est le meilleur envers sa famille, et je suis le meilleur d'entre vous envers ma famille"** [Rapporté par Tirmidhi]
-
-**Aspects de la bonne cohabitation :**
-- Les bonnes paroles et le bon traitement
-- La douceur et les plaisanteries permises
-- Le respect de ses sentiments et la reconnaissance de ses efforts
-- Ne pas divulguer ses secrets
-
-#### 2. L'Équité entre les Épouses
-
-Allah dit : **"Si vous craignez de ne pas être équitables, alors une seule"** [An-Nisa : 3]
-
-**L'équité obligatoire :**
-- Le partage des nuits
-- La dépense et les vêtements
-- Le logement
-
-**L'équité du cœur :**
-- N'est pas dans la capacité humaine, et Allah n'en tient pas rigueur
-- Le Prophète ﷺ disait : **"Ô Allah, ceci est mon partage en ce que je possède, ne me blâme pas pour ce que Tu possèdes et que je ne possède pas"** [Rapporté par Abu Dawud]
-
-#### 3. Ne Pas Lui Nuire
-
-Allah dit : **"Et ne les harcelez pas pour les mettre dans la gêne"** [At-Talaq : 6]
-
-**Formes de préjudice interdites :**
-- Les coups violents
-- Les insultes et les injures
-- L'empêcher de rendre visite à sa famille de manière raisonnable
-- La priver de la dépense
+> 💡 **Nuance importante** : La relation conjugale est un droit **mutuel**. Le mari qui néglige sa femme pèche aussi.
 
 ---
 
-## Les Droits de l'Époux sur son Épouse
+## 🤝 Les Droits COMMUNS aux Deux Époux
 
-### 1. L'Obéissance dans le Convenable
+| Droit | Description |
+|-------|-------------|
+| 💑 **Cohabitation convenable** | Respect mutuel, pas de méchanceté |
+| 🤫 **Préservation des secrets** | Ce qui se passe entre eux reste entre eux |
+| ❤️ **Fidélité** | Pas de trahison, ni physique ni émotionnelle |
+| 🏛️ **Héritage** | Chacun hérite de l'autre |
+| 👶 **Filiation** | Les enfants sont rattachés au père |
 
-Le Prophète ﷺ a dit : **"Si j'avais ordonné à quelqu'un de se prosterner devant quelqu'un, j'aurais ordonné à la femme de se prosterner devant son mari"** [Rapporté par Tirmidhi]
+---
 
-**Limites de l'obéissance :**
-- Uniquement dans ce qui n'est pas une désobéissance à Allah
-- Dans ce qu'il a le droit d'ordonner légalement
-- Dans ce qui concerne la vie conjugale
+## 🎭 Le Prophète ﷺ — Modèle d'Époux
 
-### 2. Rester au Foyer
+### 💔 Avec Khadîja — La fidélité après la mort
 
-Allah dit : **"Et restez dans vos foyers"** [Al-Ahzab : 33]
+Des années après sa mort, le Prophète ﷺ **mentionnait encore Khadîja** (qu'Allah l'agrée) avec amour. Il égorgeait une brebis et envoyait des morceaux **aux amies de Khadîja**.
+
+> 'Âisha (qu'Allah l'agrée) dit :
+>
+> *« Je n'ai jamais été jalouse d'une femme autant que de Khadîja, bien que je ne l'aie jamais vue. Mais le Prophète ﷺ la mentionnait tellement ! »*
+>
+> Il ﷺ répondit : **« Elle était ainsi et ainsi... et j'ai eu des enfants d'elle. »**
+
+🎯 **Leçon** : L'amour et le respect continuent même après la mort.
+
+---
+
+### 🏃 Avec 'Âisha — La course et les jeux
+
+> 'Âisha (qu'Allah l'agrée) raconte :
+>
+> *« Le Prophète ﷺ fit une course avec moi et je le devançai. Des années plus tard, quand j'avais pris du poids, il fit une course avec moi et me devança. Il dit en riant :*
+>
+> **« Celle-ci compense celle-là ! »** »
+>
+> — **[Rapporté par Abû Dâwûd]**
+
+🎯 **Leçon** : Le Prophète ﷺ jouait, riait, s'amusait avec son épouse.
+
+---
+
+### 😢 Avec Safiyya — Consoler les cœurs brisés
+
+Safiyya (qu'Allah l'agrée) pleura un jour parce que Hafsa et 'Âisha l'avaient blessée en disant : *« Nous sommes meilleures, nous sommes les cousines du Prophète ﷺ. »*
+
+> Le Prophète ﷺ vint la trouver en larmes et dit :
+>
+> **« N'aurais-tu pas pu leur dire : Comment seriez-vous meilleures que moi alors que mon père est Aaron, mon oncle est Moïse, et mon époux est Mohammed ﷺ ? »**
+>
+> — **[Rapporté par At-Tirmidhî]**
+
+🎯 **Leçon** : Il consolait, relevait l'estime de soi de son épouse, ne la laissait pas blessée.
+
+---
+
+## 🎭 Récit : Omar et la patience
+
+Un homme vint se plaindre de sa femme à **Omar ibn al-Khattâb** (qu'Allah l'agrée). Il s'arrêta à la porte et entendit la femme d'Omar élever la voix sur lui, tandis qu'Omar restait silencieux.
+
+L'homme repartit, pensant que ce n'était pas le bon moment. Omar l'appela :
+
+> *« Quel est ton besoin ? »*
+>
+> L'homme : *« Ô Commandeur des Croyants, je venais me plaindre de ma femme... mais j'ai entendu la tienne ! »*
+
+Omar répondit :
+
+> **« Elle prépare ma nourriture, cuit mon pain, lave mes vêtements, allaite mes enfants — et rien de cela ne lui est obligatoire. Mon cœur trouve la paix auprès d'elle contre l'interdit. Alors je la supporte. »**
+>
+> L'homme : *« Ma femme est pareille ! »*
+>
+> Omar : **« Alors supporte-la, mon frère. Ce n'est qu'une courte vie. »**
+
+🎯 **Leçon** : La patience, la reconnaissance, le pardon des défauts.
+
+---
+
+## 🎯 Cas Pratiques Contemporains
+
+### 💼 Cas 1 : L'épouse qui veut travailler
+
+> **Situation** : Maryam, diplômée, veut travailler pour aider financièrement. Son mari refuse catégoriquement : « Ta place est à la maison ! »
+
+**❓ Qui a raison ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Nuances à considérer :**
+
+| Le mari peut refuser si... | Le mari ne devrait pas refuser si... |
+|---------------------------|-------------------------------------|
+| Il subvient entièrement aux besoins | La famille a vraiment besoin d'argent |
+| Le travail nuit aux enfants/au foyer | Le travail est décent et compatible |
+| L'environnement de travail est problématique | Elle peut équilibrer travail et foyer |
+
+**Conseil :**
+- Le dialogue est essentiel
+- L'autoritarisme absolu va contre la « mu'âshara bil-ma'rûf »
+- Un compromis (temps partiel, télétravail) peut satisfaire les deux
+- Son salaire lui appartient — elle n'est pas obligée de le dépenser pour le foyer
+
+</details>
+
+---
+
+### 🏠 Cas 2 : Vivre avec la belle-famille
+
+> **Situation** : Fatima vit avec les parents de son mari. Sa belle-mère s'ingère dans tout : cuisine, éducation des enfants, vie privée. Fatima demande un logement séparé. Le mari refuse : « Je ne peux pas abandonner mes parents ! »
+
+**❓ Jugement ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
 
 **Règles :**
-- Elle ne sort qu'avec sa permission
-- Sortir pour un besoin légitime est permis
-- Il ne doit pas l'empêcher injustement de visiter sa famille
 
-### 3. Préserver ses Biens et son Honneur
+| Le droit de Fatima | L'obligation du mari |
+|-------------------|---------------------|
+| 🏠 Logement indépendant = son **droit** | 👵 Respecter ses parents ≠ sacrifier sa femme |
+| 🚫 Elle n'est pas obligée de servir sa belle-famille | ⚖️ Trouver un équilibre |
 
-Le Prophète ﷺ a dit : **"La femme est responsable du foyer de son mari et elle sera interrogée sur ses responsabilités"** [Bukhari et Muslim]
+**Solutions :**
+1. Un logement séparé, même modeste
+2. Ou un appartement dans la même maison avec entrée séparée
+3. Poser des limites claires avec la belle-famille
+4. Si vraies difficultés financières → patience temporaire + plan pour changer
 
-**Cela comprend :**
-- Ne pas dépenser de ses biens sans sa permission
-- Préserver sa maison en son absence
-- Ne pas admettre qui il n'aime pas
+> 💡 Le Prophète ﷺ a logé ses épouses dans des chambres **séparées**, pas dans la maison de ses beaux-parents.
 
-### 4. S'acquitter du Devoir Conjugal
-
-Le Prophète ﷺ a dit : **"Si l'homme appelle sa femme à son lit et qu'elle refuse, les anges la maudissent jusqu'au matin"** [Bukhari et Muslim]
-
-**Exceptions :**
-- La maladie grave
-- Les menstrues et les lochies (pour les rapports uniquement)
-- L'excuse légitime
+</details>
 
 ---
 
-## Les Droits Communs aux Deux Époux
+### 😴 Cas 3 : Le refus des relations conjugales
 
-| Droit | Détails |
-|-------|---------|
-| La cohabitation convenable | Le respect mutuel et la considération |
-| Le bon caractère | La patience, la tolérance et le pardon |
-| La confiance et la fidélité | Pas de trahison ni de tromperie |
-| La préservation des secrets | Ne pas divulguer ce qui se passe entre eux |
-| L'héritage | Chacun hérite de l'autre |
-| L'établissement de la filiation | Les enfants sont rattachés à leur père |
+> **Situation** : Amina travaille, s'occupe des 3 enfants, fait le ménage. Le soir, elle est épuisée. Son mari invoque le hadith des anges qui maudissent.
 
----
+**❓ A-t-il raison ?**
 
-## Les Bonnes Manières de la Vie Conjugale
+<details>
+<summary>📜 Voir la réponse</summary>
 
-### 1. L'Affection et la Miséricorde
+**Analyse :**
 
-Allah dit : **"Et Il a mis entre vous affection et miséricorde"** [Ar-Rum : 21]
+| Le hadith vise... | Le hadith ne vise PAS... |
+|-------------------|-------------------------|
+| Le refus par caprice, pour blesser | La fatigue extrême |
+| Le refus répété sans raison | La maladie |
+| L'utilisation du refus comme arme | Les menstrues |
 
-### 2. Passer sur les Erreurs
+**Ce que le mari devrait faire :**
+1. 🏠 L'aider à la maison pour alléger sa charge
+2. ❤️ Créer une atmosphère d'amour, pas de pression
+3. 🤝 Comprendre que l'intimité marche dans les deux sens
+4. 💡 La femme épanouie et reposée sera plus disponible
 
-Le Prophète ﷺ a dit : **"Qu'un croyant ne déteste pas une croyante, s'il n'aime pas un de ses caractères, il en aimera un autre"** [Rapporté par Muslim]
+> ⚠️ La relation intime est un droit **mutuel**. Le mari qui néglige sa femme des semaines puis exige son « droit » n'est pas dans la justice.
 
-### 3. La Gratitude et la Reconnaissance
-
-Le Prophète ﷺ a dit : **"Celui qui ne remercie pas les gens ne remercie pas Allah"** [Rapporté par Ahmad]
-
-### 4. Résoudre les Conflits avec Sagesse
-
-- La compréhension et le dialogue
-- Ne pas se précipiter dans les décisions
-- Recourir à l'arbitrage si nécessaire
+</details>
 
 ---
 
-## 📖 Récits des Salaf
+### 💰 Cas 4 : L'épouse qui gagne plus que son mari
 
-### Le Prophète ﷺ, l'exemple dans le traitement des épouses
+> **Situation** : Layla est médecin, elle gagne 3 fois le salaire de son mari. Il dit : « Tu dois participer aux dépenses ! » Elle refuse.
 
-#### Avec Khadijah (qu'Allah l'agrée) - La fidélité après la mort
+**❓ Qui a raison ?**
 
-Le Prophète ﷺ mentionnait souvent Khadijah après sa mort, au point que 'Aïsha (qu'Allah l'agrée) en fut jalouse. 'Aïsha dit : "Je n'ai jamais été jalouse d'une femme autant que de Khadijah, bien que je ne l'aie jamais vue. Mais le Messager d'Allah ﷺ la mentionnait souvent, et parfois il égorgeait une brebis, la découpait en morceaux et les envoyait aux amies de Khadijah."
+<details>
+<summary>📜 Voir la réponse</summary>
 
-Un jour, je lui dis : "On dirait qu'il n'y a pas d'autre femme au monde que Khadijah !" Il ﷺ dit : **"Elle était ainsi et ainsi, et j'ai eu des enfants d'elle"** [Bukhari et Muslim].
+**Règle claire :**
 
-**🌟 Leçon à retenir** : La fidélité envers l'épouse ne s'arrête pas à sa mort, et honorer ses amies fait partie de la bonne cohabitation.
+| L'argent de Layla | L'obligation du mari |
+|-------------------|---------------------|
+| 💎 Lui appartient à 100% | 💰 La nafaqa reste son devoir |
+| 🚫 Elle n'est pas obligée de contribuer | 📜 C'est le contrat du mariage |
+| 🎁 Si elle aide = aumône de sa part | 🙏 Il devrait être reconnaissant |
 
----
+**Si elle veut aider :**
+- C'est **sadaqa** récompensée
+- Doit être de bon cœur, pas sous pression
+- Les deux peuvent s'entendre sur un arrangement
 
-#### Avec 'Aïsha (qu'Allah l'agrée) - La douceur et les jeux
+> 💡 L'Islam protège les biens de la femme. Même Khadîja (qu'Allah l'agrée), immensément riche, n'était pas obligée de dépenser pour le Prophète ﷺ — elle le faisait par amour.
 
-'Aïsha (qu'Allah l'agrée) a dit : "Le Messager d'Allah ﷺ fit une course avec moi et je le devançai. Nous restâmes ainsi jusqu'à ce que j'eus pris du poids. Il fit à nouveau une course avec moi et me devança, puis il dit : **Ceci compense cela**" [Rapporté par Abu Dawud].
-
-Il ﷺ l'appelait "Ô 'Aïsh" par affection, et il buvait du même endroit où elle buvait dans le récipient.
-
----
-
-#### Avec Safiyyah (qu'Allah l'agrée) - Consoler les cœurs brisés
-
-Safiyyah (qu'Allah l'agrée) pleura parce que certaines épouses du Prophète ﷺ l'avaient vexée en disant qu'elle était d'origine juive. Le Prophète ﷺ vint la trouver en larmes et dit : **"Qu'est-ce qui te fait pleurer ?"** Elle dit : "Hafsa et 'Aïsha m'ont dit : Nous sommes meilleures que toi, nous sommes les cousines du Messager d'Allah ﷺ et ses épouses."
-
-Il ﷺ lui dit : **"N'aurais-tu pas pu leur dire : Comment seriez-vous meilleures que moi alors que mon père est Aaron, mon oncle est Moïse et mon époux est Mohammed ?"** [Rapporté par Tirmidhi]
-
-**🌟 Leçon à retenir** : L'époux pieux console le cœur de son épouse, élève son statut et ne la laisse pas à ceux qui lui font du mal.
+</details>
 
 ---
 
-### Des attitudes des Compagnons
+## 💭 Pause Réflexion
 
-**'Umar ibn Al-Khattab (qu'Allah l'agrée)** - Un homme vint se plaindre de sa femme. Il s'arrêta à la porte de 'Umar pour demander la permission et entendit la femme de 'Umar élever la voix sur lui, tandis que 'Umar restait silencieux. L'homme repartit. 'Umar l'appela et dit : "Quel est ton besoin ?" L'homme dit : "Je suis venu me plaindre de ma femme, et j'ai entendu ta femme !" 'Umar dit : **"Elle prépare ma nourriture, cuit mon pain, lave mes vêtements et allaite mes enfants, et rien de cela ne lui est obligatoire. Mon cœur trouve la paix auprès d'elle contre l'interdit. Alors je la supporte pour cela."**
-
-L'homme dit : "Ô Commandeur des Croyants, ma femme est pareille !" 'Umar dit : **"Alors supporte-la, mon frère, car ce n'est qu'une courte période."**
-
----
-
-## 🎯 Cas pratiques contemporains
-
-### Premier cas : Le désaccord sur le travail de l'épouse
-
-**Question** : Une épouse veut travailler à l'extérieur pour aider aux dépenses de la famille, et le mari refuse. Qui a raison ?
-
-**Réponse** : La règle de base est que la femme ne sort qu'avec la permission de son mari, mais :
-- S'il y a un réel besoin financier et que le mari ne peut pas subvenir aux besoins, elle a le droit de travailler
-- Si le travail est décent et ne nuit pas aux droits du mari et des enfants, il est préférable de se comprendre et de s'entendre
-- L'autoritarisme absolu du mari dans ces questions est contraire à l'esprit de la Charia qui appelle à la bonne cohabitation
-- Le dialogue et la compréhension sont préférables au conflit, et ils peuvent s'entendre sur des règles qui satisfont les deux parties
+> 🤔 **Question pour toi** :
+>
+> L'Islam donne des droits aux deux époux. Mais souvent, chacun ne retient que **ses** droits et oublie **ses devoirs**.
+>
+> - Le mari parle d'obéissance, mais oublie la nafaqa et la douceur
+> - La femme parle de nafaqa, mais oublie le respect et la patience
+>
+> **Comment construire un foyer où chacun se soucie des droits de l'AUTRE avant les siens ?**
 
 ---
 
-### Deuxième cas : Le logement de l'épouse avec la belle-famille
+## ✅ Résumé de la Leçon
 
-**Question** : Une épouse vit avec la famille de son mari et souffre de problèmes avec sa belle-mère. Elle demande un logement indépendant, mais le mari refuse pour des raisons financières. Quel est le jugement ?
+| Droits de l'épouse | Droits de l'époux |
+|--------------------|-------------------|
+| 💰 Dot, nafaqa, logement | 🙏 Obéissance dans le licite |
+| ❤️ Bonne cohabitation | 🏠 Préservation du foyer |
+| ⚖️ Équité (si polygame) | 🔒 Préservation de l'honneur |
+| 🚫 Ne pas lui nuire | 💑 Devoir conjugal |
 
-**Réponse** : Le logement indépendant est un droit de l'épouse si elle le demande, selon la parole d'Allah : "Logez-les là où vous habitez selon vos moyens". Mais :
-- Si les circonstances financières ne le permettent pas, elle doit patienter tout en cherchant à améliorer la situation
-- S'il y a un préjudice réel (insultes, ingérence dans ses affaires, conflits permanents), le mari doit fournir un logement indépendant même modeste
-- Le mari ne peut pas obliger sa femme à servir sa famille, car cela ne lui est pas obligatoire
-
----
-
-### Troisième cas : Le refus des relations conjugales
-
-**Question** : Une épouse refuse les relations conjugales parce qu'elle est fatiguée du travail et de s'occuper des enfants, et le mari invoque le hadith. Quel est le jugement ?
-
-**Réponse** : Oui, répondre au mari est son droit, mais :
-- Le hadith concerne le refus sans excuse légitime
-- La grande fatigue et la maladie sont des excuses valables
-- La bonne cohabitation implique de considérer les circonstances de l'épouse
-- Le mari doit alléger la charge de son épouse et l'aider pour qu'elle soit prête psychologiquement et physiquement
-- La compréhension et l'affection sont la base de la relation, non la contrainte et la pression
+| Droits communs |
+|----------------|
+| 🤫 Préservation des secrets |
+| ❤️ Fidélité |
+| 😊 Bon caractère |
 
 ---
 
-### Quatrième cas : La pension alimentaire pour l'épouse qui travaille
+## 🔜 Prochaine Leçon
 
-**Question** : Une épouse travaille et son salaire est supérieur à celui de son mari. Sa pension alimentaire tombe-t-elle ? A-t-il le droit de prendre de son salaire ?
-
-**Réponse** :
-- La pension est obligatoire pour le mari quel que soit le revenu de l'épouse, et son salaire lui appartient, elle n'est pas obligée de participer
-- Le mari n'a pas le droit de prendre de son argent sans son consentement
-- Si elle offre de l'aide, c'est une aumône et une grâce de sa part
-- Partager les dépenses par consentement mutuel est permis et louable si c'est de bon cœur
+**La Désobéissance Conjugale (An-Nushûz) et les Conflits** : Que faire quand l'harmonie se brise ? Comment l'Islam traite-t-il les disputes conjugales ?
 
 ---
 
-### Cinquième cas : Empêcher l'épouse de visiter sa famille
-
-**Question** : Un mari empêche sa femme de visiter sa famille sauf une fois par mois, alors qu'elle veut les visiter chaque semaine. Quel est le jugement ?
-
-**Réponse** : Maintenir les liens de parenté est obligatoire, et empêcher complètement l'épouse de voir sa famille est interdit. Mais :
-- Le mari a le droit d'organiser les sorties de manière convenable
-- Une fois par mois peut être une injustice si la famille est proche et a besoin d'elle
-- La référence en cela est la coutume du pays
-- La modération est requise : ni excès dans les sorties qui nuisent au foyer, ni négligence des liens qui coupe la parenté
-
----
-
-## 💡 Pause réflexion
-
-**Question de réflexion** : Le Prophète ﷺ a dit : "Le meilleur d'entre vous est le meilleur envers sa famille", et beaucoup d'hommes traitent bien les étrangers et maltraitent leurs épouses et leurs familles.
-
-🤔 **Réfléchis sur toi-même** : Es-tu avec ta famille comme tu es avec les gens ? Montres-tu à ton épouse la même douceur et le même respect que tu montres à tes invités et amis ? Le Prophète ﷺ avait le meilleur caractère avec les membres de sa famille, alors comment est ton caractère dans ton foyer ?
-
----
-
-## Conclusion
-
-La vie conjugale en Islam repose sur l'équilibre et la justice. Chaque époux a des droits et des devoirs, et le respect de ces droits assure le bonheur et la stabilité de la famille musulmane.
-
-Le Prophète ﷺ a dit : **"Les croyants les plus parfaits en foi sont ceux qui ont le meilleur caractère, et les meilleurs d'entre vous sont les meilleurs envers leurs femmes"** [Rapporté par Tirmidhi]
+*Ô Seigneur, augmente ma science* 📚
 `;

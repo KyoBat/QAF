@@ -1,202 +1,255 @@
 /**
  * Aqeedah - Lesson 009: Belief in Divine Decree
- * English Content
+ * English Content - Scholarly and immersive methodology
  */
 
-export const content = `# 📜 Belief in Divine Decree (Al-Iman bil-Qadr)
+export const content = `# 📜 Belief in Divine Decree — The Sixth Pillar of Faith
 
 <div class="scene-box">
 
-## Omar Facing the Plague: Flee or Trust?
+**🌍 The Founding Incident: Omar Facing the Plague**
 
-Year 18 of the Hijra. Omar ibn al-Khattab رضي الله عنه was marching toward Sham at the head of an army. At Sargh, riders came to meet him with terrifying news:
+*Year 18 of the Hijra. The Caliph Omar ibn al-Khattab رضي الله عنه leads his army toward Sham...*
 
-> *"O Commander of the Faithful! The plague is devastating Sham. Thousands are dying each day."*
+*At Sargh, an exhausted rider arrives...*
 
-Omar gathered the Companions. Should they advance or turn back? The debate raged. Some said: *"We set out for Allah's cause, we do not flee!"*
+**Rider:** « O Commander of the Faithful! **The plague** is devastating Sham. Thousands are dying each day! »
 
-Then Abdurrahman ibn Awf arrived and reported the words of the Prophet ﷺ:
+*Omar gathers the Companions. The debate rages...*
 
-> **"If you hear that a plague has broken out in a land, do not enter it. And if it breaks out in a land where you are, do not leave fleeing from it."**
+**Some Muhajirun:** « We set out for Allah's cause. We do not flee! »
 
-Omar ordered the return. Abu Ubayda asked him: *"Are you fleeing from Allah's decree?"*
+**Some Ansar:** « Better to return and protect the Muslims. »
 
-Omar answered with wisdom:
+*Abdurrahman ibn Awf enters — he had been away:*
 
-> **"Yes, we flee from Allah's decree to Allah's decree."**
+**Abdurrahman ibn Awf:** « I have knowledge! I heard the Prophet ﷺ say: **"If you hear that a plague has broken out in a land, do not enter it. And if it breaks out where you are, do not leave fleeing from it."** »
 
-**But how do we understand this reality of destiny while still taking responsibility for our choices?**
+*Omar orders the return. Abu Ubayda rises, astonished:*
+
+**Abu Ubayda:** « **Are you fleeing from Allah's decree**, O Omar?! »
+
+*Omar turns with conviction:*
+
+**Omar:** « Yes, **we flee from Allah's decree to Allah's decree!** »
+
+**Omar:** « If there was a valley with two sides—one **fertile**, one **barren**—would you not graze in the fertile one? Yet that too would be by **Allah's decree**. »
+
+*(Sahih Al-Bukhari 5729)*
 
 </div>
 
-## 🔍 Definition
-
-Belief in divine decree means having firm faith that Allah has predetermined everything, that He knows everything before its creation, that He has written it in the Preserved Tablet (Al-Lawh Al-Mahfuz), that He has willed it, and that He has created it.
-
-## Proof of the obligation of this belief
-
-The Prophet ﷺ said in the famous hadith of Jibril:
-
-> "Faith (iman) is to believe in Allah, His angels, His books, His messengers, the Last Day, and to believe in divine decree (qadr), its good and its evil." (Sahih Muslim 8)
-
-Allah ﷻ says:
-
-> "Indeed, all things We created with predestination (qadr)." (Al-Qamar 54:49)
+> Belief in divine decree is the **sixth pillar** of the six pillars of faith.
 
 ---
 
-## The Four Levels of Divine Decree
+## 📖 The Foundational Hadith
 
-### 1️⃣ Knowledge ('Ilm) - العِلم
+<div class="quote-box">
 
-Allah knows everything before it comes into existence.
+**📜 From the Hadith of Jibril**
 
-> "And with Him are the keys of the unseen; none knows them except Him. And He knows what is on the land and in the sea. Not a leaf falls but that He knows it." (Al-An'am 6:59)
+> **"Faith is to believe in Allah, His angels, His Books, His messengers, the Last Day, and **divine decree, its good and its evil**."**
 
-> "And nothing is hidden from Allah on the earth or in the heaven." (Ibrahim 14:38)
+*(Sahih Muslim 8)*
 
-### 2️⃣ Writing (Kitaba) - الكتابة
+</div>
 
-Allah has written everything in the Preserved Tablet (Al-Lawh Al-Mahfuz).
-
-> "Do you not know that Allah knows what is in the heaven and earth? Indeed, that is in a Record. Indeed, that is easy for Allah." (Al-Hajj 22:70)
-
-The Prophet ﷺ said:
-
-> "Allah wrote the decrees of creation fifty thousand years before He created the heavens and the earth." (Sahih Muslim 2653)
-
-### 3️⃣ Will (Mashee'a) - المَشيئة
-
-Nothing occurs except that Allah has willed it.
-
-> "And you do not will except that Allah wills - Lord of the worlds." (At-Takwir 81:29)
-
-> "That is the determination of the Exalted in Might, the Knowing." (Al-An'am 6:96)
-
-### 4️⃣ Creation (Khalq) - الخَلق
-
-Allah is the Creator of everything, including the actions of His servants.
-
-> "Allah is the Creator of all things, and He is, over all things, Disposer of affairs." (Az-Zumar 39:62)
-
-> "While Allah created you and that which you do." (As-Saffat 37:96)
+> ﴿Indeed, all things We created with **predestination (qadr)**.﴾ [Al-Qamar: 49]
 
 ---
 
-## Types of Divine Decree
+## 🌳 The Four Pillars of Divine Decree
 
-### 1️⃣ Universal Decree (Kawniyy)
+\`\`\`
+              🌳 THE FOUR PILLARS OF QADR
+                         │
+    ┌────────────────────┼────────────────────┐
+    │                    │                    │
+ 1️⃣ KNOWLEDGE       2️⃣ WRITING          3️⃣ WILL
+ Allah knew before   In the Preserved    Nothing occurs
+ creation            Tablet              without His will
+    │                    │                    │
+    └────────────────────┴────────────────────┘
+                         │
+                    4️⃣ CREATION
+               Allah creates all things
+\`\`\`
 
-What Allah decrees in His creation (life, death, illness, provision, etc.)
+### 1️⃣ Knowledge
 
-> "And if Allah should touch you with adversity, there is no remover of it except Him. And if He touches you with good - then He is over all things competent." (Al-An'am 6:17)
+> ﴿And with Him are the keys of the unseen... Not a **leaf** falls but that He knows it.﴾ [Al-An'am: 59]
 
-### 2️⃣ Legislative Decree (Shar'iyy)
+### 2️⃣ Writing
 
-What Allah commands or prohibits for His servants.
+<div class="quote-box">
 
-Obedience falls under what Allah loves and is pleased with.
-Disobedience falls under what Allah hates, even if it occurs by His universal will.
+**📜 Decreed Before Creation**
 
----
+> **"Allah wrote the decrees of creation fifty thousand years before He created the heavens and the earth."**
 
-## Man Between Destiny and Free Will
+*(Sahih Muslim 2653)*
 
-### Man has real will
+</div>
 
-> "For whoever wills among you to take a right course." (At-Takwir 81:28)
+### 3️⃣ Will
 
-> "Indeed, We guided him to the way, be he grateful or be he ungrateful." (Al-Insan 76:3)
+> ﴿And you do not will except that **Allah wills** — Lord of the worlds.﴾ [At-Takwir: 29]
 
-### This will is under Allah's Will
+### 4️⃣ Creation
 
-> "And you do not will except that Allah wills." (At-Takwir 81:29)
-
-### Consequence
-
-- Man is responsible for his actions because he truly chooses
-- But nothing escapes Allah's Will and Knowledge
-
----
-
-## What Belief in Divine Decree Requires
-
-### 1️⃣ Submission to Allah
-
-Accepting what happens to us with patience and contentment.
-
-> "Say: 'Never will we be struck except by what Allah has decreed for us; He is our protector.' And upon Allah let the believers rely." (At-Tawba 9:51)
-
-### 2️⃣ Action and effort
-
-Belief in divine decree is not an excuse for inaction.
-
-The Prophet ﷺ said:
-> **«تَدَاوَوْا عِبَادَ اللَّهِ، فَإِنَّ اللَّهَ لَمْ يَضَعْ دَاءً إِلَّا وَضَعَ لَهُ شِفَاءً»**
-> "Seek treatment, O servants of Allah, for Allah has not created a disease without creating its cure." (Abu Dawud 3855, authenticated by Al-Albani)
-
-A man said to the Prophet ﷺ: "Should I let my camel loose and rely on Allah?"
-He ﷺ replied:
-> **«اعْقِلْهَا وَتَوَكَّلْ»**
-> "Tie it, then rely on Allah." (Tirmidhi 2517, graded Hasan by Al-Albani)
-
-### 3️⃣ Not arguing with destiny
-
-We do not justify sins by destiny, for we have a choice.
+> ﴿Allah created you and **what you do**.﴾ [As-Saffat: 96]
 
 ---
 
-## What is Prohibited Concerning Divine Decree
+## ⚖️ Man Between Destiny and Free Will
 
-### 1️⃣ Jabrism (الجبرية)
+| Question | Answer |
+|----------|--------|
+| Does man have will? | **Yes**: ﴿For whoever wills among you to take a right course.﴾ |
+| Is it independent? | **No**: ﴿You do not will except that Allah wills.﴾ |
+| Is he responsible? | **Yes**: Because he truly chooses |
 
-Claiming that man has no choice and is completely compelled.
+<div class="scene-box">
 
-**Refutation**: Allah has affirmed that man has will and choices.
+**🎓 The Teacher and Student Example**
 
-### 2️⃣ Qadarism (القدرية)
+*A teacher knows his students well...*
 
-Claiming that man creates his own actions independently of Allah.
+**Teacher:** *(thinking)* « This student never studies... I know he will fail. »
 
-**Refutation**: "While Allah created you and that which you do." (As-Saffat 37:96)
+*The student fails indeed...*
 
----
+**Question:** Did the teacher's **knowledge** **force** the student to fail?
 
-## 🌟 The Benefits of Believing in Divine Decree
+**Answer:** No! The student failed by **his choice**. The teacher merely **knew**.
 
-1. **Tranquility of the heart**: Knowing that everything is determined by the Wise, the All-Knowing
+**Likewise with Allah's knowledge**: He knows what you will choose, but He does **not force** you.
 
-> "No disaster strikes upon the earth or among yourselves except that it is in a register before We bring it into being. Indeed, that is easy for Allah. In order that you not despair over what has eluded you and not exult over what He has given you." (Al-Hadid 57:22-23)
-
-2. **Courage**: Knowing that what is written will happen, and that death has its appointed time
-
-3. **Humility**: Recognizing that our successes come from Allah
-
-4. **Patience in trials**: Knowing that it is a test from Allah
-
-5. **Gratitude for blessings**: Thanking the One who decreed the good
+</div>
 
 ---
 
-## What the Believer Should Say Regarding Destiny
+## 🛡️ Refutations of Doubts
 
-### In case of misfortune
+### Doubt 1: "If everything is written, why should we work?"
 
-The Prophet ﷺ said:
+<div class="scene-box">
 
-> "The strong believer is better and more beloved to Allah than the weak believer, and in each there is good. Strive for that which benefits you and seek help from Allah, and do not be helpless. If something befalls you, do not say: 'If only I had done such-and-such, it would have been such-and-such.' Rather say: 'Qadarullah wa ma sha'a fa'al' (Allah has decreed and what He willed, He did). For 'if' opens the door to the devil." (Sahih Muslim 2664)
+**🗣️ Dialogue with the Companions**
 
-### In case of blessing
+**Companions:** « O Messenger of Allah! Should we not rely on our destiny and leave action? »
 
-> "Say: 'All is from Allah.'" (An-Nisa 4:78)
+**The Prophet ﷺ:** « No! **Work, for everyone is facilitated toward what he was created for.** »
 
-And thank Allah: "Alhamdulillah" (Praise be to Allah).
+*(Sahih Al-Bukhari 4949)*
+
+</div>
+
+| Argument | Refutation |
+|----------|------------|
+| What is written will happen | But you don't know what is written! |
+| Why exhaust myself? | Means are **part of** destiny |
+| Example | Do you say: I'll be cured without medicine? |
 
 ---
 
-## 🛡️ Refutation of Doubts (الشُّبُهات والرد عليها)
+### Doubt 2: "Divine decree forces man!"
 
-### First Doubt: "If Allah has written everything, why does He punish us?"
+**✅ Refutation:**
+
+1. ﴿Be he **grateful** or be he **ungrateful**﴾ — If forced, why say **"or"**?
+
+2. **You distinguish voluntary from involuntary**: Rain falling on you ≠ your prayer
+
+3. **If forced, there would be no accountability**
+
+---
+
+## 📜 The Story of 'Urwah ibn az-Zubayr
+
+<div class="scene-box">
+
+**⚰️ The Double Trial**
+
+*In a single night: 'Urwah's leg is amputated due to gangrene, and his son dies from a horse fall...*
+
+*Mourners arrive...*
+
+**'Urwah:** *(with remarkable steadfastness)*
+
+> « **O Allah, all praise is Yours!** If You have taken, You have also **left**. If You have afflicted, You have also **healed**. »
+
+> « You took **one limb** but left **many limbs**. You took **one son** but left **many sons**. »
+
+*This is belief in divine decree: no despair, but praise and submission.*
+
+</div>
+
+---
+
+## 🌟 Benefits of Believing in Divine Decree
+
+\`\`\`
+         🌟 BENEFITS OF BELIEVING IN QADR
+                    │
+    ┌───────────────┼───────────────┐
+    │               │               │
+ TRANQUILITY      COURAGE        HUMILITY
+ All by decree    Death is fixed  Success is from Allah
+    │               │               │
+    └───────────────┴───────────────┘
+                    │
+    ┌───────────────┼───────────────┐
+    │               │               │
+ PATIENCE       NO ENVY       PEACE OF MIND
+ Trials written  Each has their  What passed won't return
+                 portion
+\`\`\`
+
+---
+
+## 🎯 Contemporary Applications
+
+### Case 1: "If only I had done this..."
+
+**Situation:** Someone regrets: « If only I had bought that property, I'd be rich! »
+
+<div class="quote-box">
+
+**📜 The Prophet's ﷺ Prohibition**
+
+> **"Do not say **'if'**! For **'if'** opens the work of Shaytan. Say: **Qadarullah wa ma sha'a fa'al** (Allah decreed and what He willed, He did)."**
+
+*(Sahih Muslim 2664)*
+
+</div>
+
+---
+
+## ✅ Summary
+
+| Element | Detail |
+|---------|--------|
+| **Pillar** | Sixth of the six pillars of faith |
+| **Levels** | Knowledge → Writing → Will → Creation |
+| **Man has will** | Yes, but under Allah's Will |
+| **Using destiny as excuse** | Not allowed for sins |
+| **Our duty** | Work and trust together |
+
+---
+
+## 🤲 Supplication
+
+<div class="quote-box">
+
+> **O Allah, I ask You for contentment with Your decree, and the coolness of life after death, and the pleasure of looking at Your Face, and longing to meet You.**
+
+> **O Allah, whatever You have decreed for us, make its outcome good for us.**
+
+</div>
+
+**O Lord, increase me in knowledge!** 📖`
 
 **❌ The Doubt:** "If Allah knew and wrote that I would sin, it's not my fault!"
 

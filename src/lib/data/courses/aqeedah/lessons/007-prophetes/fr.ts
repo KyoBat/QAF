@@ -1,398 +1,460 @@
 /**
  * Aqeedah - Leçon 007: La foi aux Prophètes et Messagers
- * Contenu en Français
+ * Contenu en Français - Approche Savante et Qualitative
  */
 
-export const content = `# 📜 La Foi aux Prophètes et Messagers (Al-Iman bil-Rusul)
+export const content = `# 📜 الإيمان بالرسل — La Foi aux Prophètes et Messagers
 
 <div class="scene-box">
 
-## 950 ans d'appel : la patience de Nuh عليه السلام
+**🌙 PROLOGUE : 950 ans de patience**
 
-Le soleil tapait sur le chantier. Nuh عليه السلام, malgré son âge avancé, continuait de construire l'arche en plein désert, loin de toute mer. Les notables de son peuple passaient et riaient :
+*Un désert aride, loin de toute mer. Un vieil homme aux cheveux blancs construit un immense bateau...*
 
-> *« Ô Nuh ! Tu es devenu charpentier maintenant ? Tu construis un bateau là où il n'y a pas d'eau ! »*
+*Les notables passent et rient aux éclats :*
 
-Nuh leur répondait calmement :
+**Les moqueurs :** « Ô Nuh ! Tu es devenu charpentier maintenant ? Tu construis un bateau **en plein désert** ! Où est la mer ?! »
 
-> **« Si vous vous moquez de nous, nous nous moquerons de vous comme vous vous moquez. »** (Hud 11:38)
+**Nuh عليه السلام :** *(continuant à construire, serein)* « **إِن تَسْخَرُوا مِنَّا فَإِنَّا نَسْخَرُ مِنكُمْ كَمَا تَسْخَرُونَ** — Si vous vous moquez de nous, nous nous moquerons de vous comme vous vous moquez. »
 
-Cela faisait **950 ans** qu'il appelait son peuple jour et nuit, en secret et en public. La plupart avaient refusé. Mais Nuh ne désespéra jamais de la miséricorde d'Allah...
+*950 années de prédication. Jour et nuit. En secret et en public. La plupart refusèrent.*
 
-Le jour du déluge, ceux qui s'étaient moqués comprirent. Mais il était trop tard.
+*Puis un jour, la terre trembla. Les fontaines jaillirent. Le ciel s'ouvrit...*
 
-**Quelle était cette mission si importante que Nuh et tous les prophètes ont portée pendant des siècles ? Découvrons ensemble le message commun de ces élus d'Allah.**
+> ﴿فَفَتَحْنَا أَبْوَابَ السَّمَاءِ بِمَاءٍ مُّنْهَمِرٍ ۝ وَفَجَّرْنَا الْأَرْضَ عُيُونًا﴾
+>
+> *« Nous ouvrîmes les portes du ciel à une eau torrentielle. Et Nous fîmes jaillir de la terre des sources. »* [Al-Qamar : 11-12]
+
+*Les moqueurs comprirent... mais il était trop tard.*
 
 </div>
 
-## 🔍 Définition (التعريف)
-
-La foi aux prophètes et messagers consiste à croire fermement qu'Allah a envoyé des messagers à chaque communauté pour les guider vers le Tawhid, qu'il faut tous les respecter sans distinction, et que Muhammad ﷺ est le dernier d'entre eux.
-
-## 📖 La preuve de l'obligation de cette croyance
-
-Allah ﷻ dit:
-
-> "Le Messager a cru en ce qu'on a fait descendre vers lui venant de son Seigneur, et aussi les croyants: tous ont cru en Allah, en Ses anges, à Ses livres et en Ses messagers; (en disant): 'Nous ne faisons aucune distinction entre Ses messagers.'" (Al-Baqara 2:285)
+> La foi aux prophètes et messagers est le **quatrième pilier de la foi**. Allah n'a jamais abandonné l'humanité : depuis Adam jusqu'à Muhammad ﷺ, Il a envoyé des guides pour éclairer le chemin.
 
 ---
 
-## 🔍 La différence entre Nabi (Prophète) et Rasul (Messager)
+## 📖 Le Hadith Fondateur
 
-### Nabi (نبي) - Prophète
+<div class="quote-box">
 
-Celui qui reçoit la révélation d'Allah et a l'ordre de transmettre. Il peut être envoyé à un peuple déjà croyant pour les rappeler à la loi d'un Rasul précédent.
+**📜 Du Hadith de Jibril عليه السلام**
 
-### Rasul (رسول) - Messager
+Le Prophète ﷺ a dit, décrivant les piliers de la foi :
 
-Celui qui est envoyé à un peuple mécréant ou rebelle avec une législation, qu'elle soit nouvelle ou confirmant une précédente.
+> **« أَنْ تُؤْمِنَ بِاللَّهِ وَمَلَائِكَتِهِ وَكُتُبِهِ وَرُسُلِهِ... »**
+>
+> *« Que tu croies en Allah, en Ses anges, en Ses Livres, en **Ses Messagers**... »*
 
-> *Source : Ibn Taymiyyah, Majmu' al-Fatawa, vol. 7, p. 281*
+*(Sahih Muslim 8)*
 
-> "Nous n'avons envoyé de messager qu'avec la langue de son peuple, afin de les éclairer." (Ibrahim 14:4)
-
-**Remarque**: Tout messager est prophète, mais tout prophète n'est pas nécessairement messager.
-
----
-
-## La mission des prophètes
-
-### 1️⃣ Appeler au Tawhid
-
-> "Et Nous n'avons envoyé avant toi aucun messager à qui Nous n'ayons révélé: 'Point de divinité en dehors de Moi. Adorez-Moi donc.'" (Al-Anbiya 21:25)
-
-### 2️⃣ Avertir et annoncer
-
-> "En tant que messagers, annonciateurs et avertisseurs, afin qu'après la venue des messagers il n'y ait pour les gens aucun argument devant Allah." (An-Nisa 4:165)
-
-### 3️⃣ Enseigner et purifier
-
-> "C'est Lui qui a envoyé parmi les illettrés un Messager d'entre eux pour leur réciter Ses versets, les purifier et leur enseigner le Livre et la Sagesse." (Al-Jumu'a 62:2)
+</div>
 
 ---
 
-## Les prophètes mentionnés dans le Coran (25 prophètes)
+## 🔍 Nabi ou Rasul ? (التعريف)
+
+### 📊 Tableau comparatif
+
+| Aspect | **Nabi (نبي)** | **Rasul (رسول)** |
+|--------|----------------|------------------|
+| **Sens** | Celui qui annonce | Celui qui est envoyé |
+| **Révélation** | Reçoit la révélation | Reçoit la révélation |
+| **Peuple** | Peut être croyant | Généralement mécréant |
+| **Législation** | Suit celle d'un Rasul | Peut apporter une nouvelle |
+| **Relation** | Tout Rasul est Nabi | Tout Nabi n'est pas Rasul |
+
+> **Ibn Taymiyyah رحمه الله** a dit :
+> *« Le Rasul est envoyé à un peuple mécréant avec une législation, tandis que le Nabi peut être envoyé à un peuple croyant pour rappeler. »*
+> *(Majmu' al-Fatawa, vol. 7, p. 281)*
+
+---
+
+## 🎯 La Mission Commune des Prophètes
+
+### 🌳 L'Arbre de la Mission Prophétique
+
+\`\`\`
+                🎯 MISSION DES PROPHÈTES
+                         │
+        ┌────────────────┼────────────────┐
+        │                │                │
+    1️⃣ TAWHID      2️⃣ INDHÂR       3️⃣ TAZKIYAH
+    التوحيد          الإنذار           التزكية
+        │                │                │
+   Appeler à        Avertir du        Purifier
+   l'adoration       châtiment        les âmes
+   d'Allah seul      d'Allah          et enseigner
+        │                │                │
+        └────────────────┴────────────────┘
+                         │
+              « Point de divinité
+               en dehors de Moi.
+               Adorez-Moi donc. »
+               [Al-Anbiya : 25]
+\`\`\`
+
+### 📜 Les Preuves
+
+<div class="quote-box">
+
+**📜 Le Message Universel**
+
+> ﴿وَمَا أَرْسَلْنَا مِن قَبْلِكَ مِن رَّسُولٍ إِلَّا نُوحِي إِلَيْهِ أَنَّهُ لَا إِلَٰهَ إِلَّا أَنَا فَاعْبُدُونِ﴾
+>
+> *« Nous n'avons envoyé avant toi aucun messager à qui Nous n'ayons révélé : 'Point de divinité en dehors de Moi. **Adorez-Moi donc**.' »* [Al-Anbiya : 25]
+
+</div>
+
+---
+
+## 👑 Les Messagers Doués de Fermeté (أولو العزم)
+
+<div class="scene-box">
+
+**🎭 LES CINQ GÉANTS**
+
+*Cinq messagers se distinguent par une fermeté exceptionnelle face aux épreuves les plus terribles...*
+
+</div>
+
+### 📊 Tableau des Ulul-'Azm
+
+| Prophète | Épreuve | Durée/Nature | Réponse |
+|----------|---------|--------------|---------|
+| **Nuh** عليه السلام | Rejet de son peuple | **950 ans** de prédication | Patience absolue |
+| **Ibrahim** عليه السلام | Jeté dans le feu | Fournaise ardente | « حَسْبُنَا اللَّهُ » |
+| **Moussa** عليه السلام | Face à Pharaon | Tyran le plus puissant | Courage devant le tyran |
+| **'Issa** عليه السلام | Rejet des Israélites | Tentative de crucifixion | Élevé au ciel |
+| **Muhammad** ﷺ | Persécution, guerre | 23 ans de mission | Miséricorde et victoire |
+
+> ﴿فَاصْبِرْ كَمَا صَبَرَ أُولُو الْعَزْمِ مِنَ الرُّسُلِ﴾
+>
+> *« Endure donc, comme ont enduré les messagers doués de fermeté. »* [Al-Ahqaf : 35]
+
+---
+
+## 📜 Les 25 Prophètes du Coran
+
+<div class="quote-box">
+
+**📜 La Liste Coranique**
+
+> ﴿وَتِلْكَ حُجَّتُنَا آتَيْنَاهَا إِبْرَاهِيمَ عَلَىٰ قَوْمِهِ ۚ نَرْفَعُ دَرَجَاتٍ مَّن نَّشَاءُ ۗ إِنَّ رَبَّكَ حَكِيمٌ عَلِيمٌ ۝ وَوَهَبْنَا لَهُ إِسْحَاقَ وَيَعْقُوبَ ۚ كُلًّا هَدَيْنَا ۚ وَنُوحًا هَدَيْنَا مِن قَبْلُ ۖ وَمِن ذُرِّيَّتِهِ دَاوُودَ وَسُلَيْمَانَ وَأَيُّوبَ وَيُوسُفَ وَمُوسَىٰ وَهَارُونَ ۚ وَكَذَٰلِكَ نَجْزِي الْمُحْسِنِينَ ۝ وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّ مِّنَ الصَّالِحِينَ ۝ وَإِسْمَاعِيلَ وَالْيَسَعَ وَيُونُسَ وَلُوطًا ۚ وَكُلًّا فَضَّلْنَا عَلَى الْعَالَمِينَ﴾
+>
+> [Al-An'am : 83-86]
+
+</div>
 
 | # | Nom | Arabe | Particularité |
 |---|-----|-------|---------------|
 | 1 | Adam | آدم | Premier homme et prophète |
 | 2 | Idris | إدريس | Élevé à un haut rang |
-| 3 | Nuh (Noé) | نوح | Premier messager |
+| 3 | **Nuh** | نوح | Premier messager, 950 ans |
 | 4 | Hud | هود | Envoyé aux 'Ad |
-| 5 | Salih | صالح | Envoyé aux Thamud |
-| 6 | Ibrahim | إبراهيم | Père des prophètes, ami d'Allah (Khalilullah) |
-| 7 | Lut (Lot) | لوط | Neveu d'Ibrahim |
-| 8 | Isma'il | إسماعيل | Fils d'Ibrahim, ancêtre des Arabes |
-| 9 | Ishaq (Isaac) | إسحاق | Fils d'Ibrahim, ancêtre des Israélites |
-| 10 | Ya'qub (Jacob) | يعقوب | Fils d'Ishaq, Israël |
-| 11 | Yusuf (Joseph) | يوسف | Le véridique |
-| 12 | Ayyub (Job) | أيوب | Modèle de patience |
-| 13 | Shu'ayb | شعيب | Envoyé aux gens de Madyan |
-| 14 | Musa (Moïse) | موسى | Kalimullah (à qui Allah a parlé) |
-| 15 | Harun (Aaron) | هارون | Frère et assistant de Musa |
-| 16 | Dhul-Kifl | ذو الكفل | Mentionné avec les patients |
-| 17 | Dawud (David) | داود | Roi et prophète, reçut les Psaumes |
-| 18 | Sulayman (Salomon) | سليمان | Roi et prophète, pouvoir sur les djinns |
-| 19 | Ilyas (Élie) | إلياس | Envoyé aux adorateurs de Ba'l |
-| 20 | Al-Yasa' (Élisée) | اليسع | Successeur d'Ilyas |
-| 21 | Yunus (Jonas) | يونس | Sahibu-l-Hut (l'homme au poisson) |
-| 22 | Zakariyya (Zacharie) | زكريا | Père de Yahya |
-| 23 | Yahya (Jean) | يحيى | Fils de Zakariyya |
-| 24 | 'Issa (Jésus) | عيسى | Ruhullah (esprit d'Allah), fils de Maryam |
-| 25 | Muhammad | محمد | Dernier des prophètes ﷺ |
+| 5 | Salih | صالح | Envoyé aux Thamud, la chamelle |
+| 6 | **Ibrahim** | إبراهيم | Khalilullah, père des prophètes |
+| 7 | Lut | لوط | Neveu d'Ibrahim |
+| 8 | Isma'il | إسماعيل | Sacrifice, ancêtre des Arabes |
+| 9 | Ishaq | إسحاق | Fils d'Ibrahim |
+| 10 | Ya'qub | يعقوب | Israël, père des 12 tribus |
+| 11 | Yusuf | يوسف | As-Siddiq, le plus beau |
+| 12 | Ayyub | أيوب | Modèle de patience |
+| 13 | Shu'ayb | شعيب | Envoyé à Madyan |
+| 14 | **Moussa** | موسى | Kalimullah, à qui Allah parla |
+| 15 | Harun | هارون | Frère et assistant de Moussa |
+| 16 | Dhul-Kifl | ذو الكفل | Le garant |
+| 17 | Dawud | داود | Roi, prophète, Psaumes |
+| 18 | Sulayman | سليمان | Pouvoir sur djinns et animaux |
+| 19 | Ilyas | إلياس | Envoyé contre Ba'l |
+| 20 | Al-Yasa' | اليسع | Successeur d'Ilyas |
+| 21 | Yunus | يونس | Sahibu-l-Hut (le poisson) |
+| 22 | Zakariyya | زكريا | Père de Yahya |
+| 23 | Yahya | يحيى | Premier à porter ce nom |
+| 24 | **'Issa** | عيسى | Ruhullah, né sans père |
+| 25 | **Muhammad** | محمد ﷺ | Sceau des prophètes |
 
 ---
 
-## Les Messagers doués de fermeté (Ulul-'Azm)
+## 📜 Récits des Prophètes
 
-Cinq messagers sont appelés "Ulul-'Azm" (أولو العزم) - ceux doués d'une fermeté particulière:
+### 🔥 L'Épreuve d'Ibrahim عليه السلام dans le Feu
 
-> "Endure donc, comme ont enduré les messagers doués de fermeté." (Al-Ahqaf 46:35)
+<div class="scene-box">
 
-1. **Nuh عليه السلام** - 950 ans de prédication
-2. **Ibrahim عليه السلام** - Éprouvé par le feu et le sacrifice
-3. **Musa عليه السلام** - Face à Pharaon
-4. **'Issa عليه السلام** - Face au rejet des Israélites
-5. **Muhammad ﷺ** - La mission la plus complète
+**🎭 LE FEU DEVIENT FRAÎCHEUR**
 
-> "Et quand Nous prîmes des prophètes leur engagement, de même que de toi, de Noé, d'Abraham, de Moïse, et de Jésus fils de Marie." (Al-Ahzab 33:7)
+*Ibrahim عليه السلام venait de briser toutes les idoles. La fureur du peuple était à son comble.*
 
----
+**Le peuple :** « **حَرِّقُوهُ وَانصُرُوا آلِهَتَكُمْ** — Brûlez-le et secourez vos divinités ! »
 
-## Muhammad ﷺ: Le sceau des prophètes
+*Ils préparèrent un brasier si immense qu'on ne pouvait s'en approcher. Ibrahim fut catapulté dans les flammes...*
 
-### Preuves de sa prophétie
+*À cet instant, Jibril عليه السلام apparut :*
 
-> "Muhammad n'a jamais été le père de l'un de vos hommes, mais le Messager d'Allah et le dernier des prophètes (Khatam An-Nabiyyin)." (Al-Ahzab 33:40)
+**Jibril :** « As-tu besoin de quelque chose ? »
 
-Le Prophète ﷺ a dit:
+**Ibrahim :** « **De toi, non. D'Allah, oui.** »
 
-> "Je suis Muhammad, je suis Ahmad, je suis Al-Mahi (l'effaceur) par qui l'incroyance est effacée, je suis Al-Hashir (le rassembleur) aux pieds duquel les gens seront rassemblés, et je suis Al-'Aqib (le dernier) après lequel il n'y a pas de prophète." (Sahih Al-Bukhari 3532, Sahih Muslim 2354)
+*Ibrahim dit : « **حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ** — Allah nous suffit, Il est notre meilleur Garant. »*
 
-### Sa mission universelle
+*Alors Allah ordonna :*
 
-> "Et Nous ne t'avons envoyé qu'en tant qu'annonciateur et avertisseur pour toute l'humanité." (Saba 34:28)
+> ﴿يَا نَارُ كُونِي بَرْدًا وَسَلَامًا عَلَىٰ إِبْرَاهِيمَ﴾
+>
+> *« Ô feu, sois **fraîcheur et paix** pour Ibrahim ! »* [Al-Anbiya : 69]
 
-> "Dis: 'Ô hommes! Je suis pour vous tous le Messager d'Allah.'" (Al-A'raf 7:158)
+*Ibrahim sortit indemne, sans une brûlure. Le feu ne brûla que ses liens !*
 
----
-
-## 📚 Ce que comprend la foi aux prophètes
-
-### 1️⃣ Croire à tous les prophètes sans distinction
-
-> "Nous ne faisons aucune distinction entre Ses messagers." (Al-Baqara 2:285)
-
-### 2️⃣ Croire à leur véracité (Sidq)
-
-Tous les prophètes sont véridiques dans ce qu'ils transmettent d'Allah.
-
-### 3️⃣ Croire à leur infaillibilité (Isma)
-
-Ils sont protégés de l'erreur dans la transmission du message.
-
-### 4️⃣ Croire qu'ils sont des humains
-
-> "Dis: 'Je suis seulement un être humain comme vous. Il m'a été révélé que votre Dieu est un Dieu unique.'" (Al-Kahf 18:110)
-
-### 5️⃣ Croire à leurs miracles
-
-Chaque prophète a reçu des signes adaptés à son époque.
+</div>
 
 ---
 
-## Les droits des prophètes sur nous
+### 🐋 Yunus عليه السلام dans les Ténèbres
 
-1. **Les aimer**: Le Prophète ﷺ a dit: "Aucun d'entre vous ne sera véritablement croyant tant qu'il ne m'aimera pas plus que son père, son enfant et tous les gens." (Sahih Al-Bukhari 15)
+<div class="scene-box">
 
-2. **Les suivre**: "Dis: 'Si vous aimez vraiment Allah, suivez-moi, Allah vous aimera.'" (Al-Imran 3:31)
+**🎭 L'INVOCATION DANS LES ABYSSES**
 
-3. **Les défendre**: Ne pas accepter qu'on les insulte
+*Yunus عليه السلام quitta son peuple par frustration. En pleine mer, le sort le désigna pour être jeté par-dessus bord...*
 
-4. **Prier sur eux** (pour Muhammad ﷺ spécifiquement)
+*Une baleine l'engloutit. Trois couches de ténèbres : la nuit, la mer, le ventre du poisson.*
+
+*Dans cette obscurité totale, Yunus invoqua :*
+
+> ﴿لَّا إِلَٰهَ إِلَّا أَنتَ سُبْحَانَكَ إِنِّي كُنتُ مِنَ الظَّالِمِينَ﴾
+>
+> *« Point de divinité à part Toi ! Gloire à Toi ! J'ai été parmi les injustes. »* [Al-Anbiya : 87]
+
+**Allah ﷻ :** *(aux anges)* « Reconnaissez-vous cette voix ? »
+
+**Les anges :** « C'est Ton serviteur Yunus ! »
+
+> ﴿فَاسْتَجَبْنَا لَهُ وَنَجَّيْنَاهُ مِنَ الْغَمِّ ۚ وَكَذَٰلِكَ نُنجِي الْمُؤْمِنِينَ﴾
+>
+> *« Nous l'exauçâmes et le sauvâmes de l'angoisse. C'est ainsi que Nous sauvons les croyants. »* [Al-Anbiya : 88]
+
+</div>
 
 ---
 
-## Ce qui annule la foi aux prophètes
+### 💔 Le Prophète ﷺ à Ta'if
 
-1. **Nier l'un d'entre eux**: "Ceux qui ne croient pas en Allah et en Ses messagers, et qui veulent faire distinction entre Allah et Ses messagers... ceux-là sont les véritables mécréants." (An-Nisa 4:150-151)
+<div class="scene-box">
 
-2. **Insulter un prophète**: C'est du kufr par consensus
+**🎭 LE JOUR LE PLUS DUR**
 
-3. **Prétendre qu'il y a un prophète après Muhammad ﷺ**
+*An 10 de la mission. Le Prophète ﷺ se rend à Ta'if après la mort de Khadija et d'Abu Talib...*
 
-4. **Attribuer aux prophètes des défauts qui contredisent leur mission**
+*Les notables de Ta'if refusent son message et envoient leurs esclaves et enfants le chasser à coups de pierres.*
+
+*Le Prophète ﷺ sort de la ville, ensanglanté, ses sandales remplies de sang...*
+
+*Jibril عليه السلام apparaît avec l'ange des montagnes :*
+
+**L'ange des montagnes :** « Ô Muhammad ! Si tu le veux, j'écrase Ta'if entre ces deux montagnes ! »
+
+**Le Prophète ﷺ :** « **لَا، بَلْ أَرْجُو أَنْ يُخْرِجَ اللَّهُ مِنْ أَصْلَابِهِمْ مَنْ يَعْبُدُ اللَّهَ وَحْدَهُ** — Non ! J'espère qu'Allah fera sortir de leurs reins des gens qui adoreront Allah Seul. »
+
+*Des années plus tard, Ta'if embrassa l'Islam en masse...*
+
+*(Al-Bukhari 3231, Muslim 1795)*
+
+</div>
 
 ---
 
-## 🌟 Les effets de la foi aux prophètes
+## 👑 Muhammad ﷺ : Le Sceau des Prophètes
 
-1. **Reconnaissance de la miséricorde d'Allah**: Qui a guidé l'humanité à travers Ses envoyés
-2. **Exemple à suivre**: Les prophètes sont les meilleurs modèles
-3. **Patience dans les épreuves**: En se rappelant leurs souffrances
-4. **Amour et respect**: Pour ces nobles serviteurs d'Allah
-5. **Attachement à la Sunnah**: Du dernier prophète ﷺ
+### 📜 Les Preuves de sa Finalité
+
+<div class="quote-box">
+
+> ﴿مَّا كَانَ مُحَمَّدٌ أَبَا أَحَدٍ مِّن رِّجَالِكُمْ وَلَٰكِن رَّسُولَ اللَّهِ وَخَاتَمَ النَّبِيِّينَ﴾
+>
+> *« Muhammad n'a jamais été le père de l'un de vos hommes, mais le Messager d'Allah et le **Sceau des prophètes**. »* [Al-Ahzab : 40]
+
+</div>
+
+<div class="quote-box">
+
+**📜 Le Hadith des Noms**
+
+Le Prophète ﷺ a dit :
+
+> **« أَنَا مُحَمَّدٌ، وَأَنَا أَحْمَدُ، وَأَنَا الْمَاحِي الَّذِي يُمْحَى بِيَ الْكُفْرُ، وَأَنَا الْحَاشِرُ الَّذِي يُحْشَرُ النَّاسُ عَلَى قَدَمَيَّ، وَأَنَا الْعَاقِبُ الَّذِي لَيْسَ بَعْدَهُ نَبِيٌّ »**
+>
+> *« Je suis Muhammad, je suis Ahmad, je suis Al-Mahi par qui l'incroyance est effacée, je suis Al-Hashir aux pieds duquel les gens seront rassemblés, et je suis **Al-'Aqib** après lequel il **n'y a pas de prophète**. »*
+
+*(Al-Bukhari 3532, Muslim 2354)*
+
+</div>
+
+### 🌍 Sa Mission Universelle
+
+> ﴿قُلْ يَا أَيُّهَا النَّاسُ إِنِّي رَسُولُ اللَّهِ إِلَيْكُمْ جَمِيعًا﴾
+>
+> *« Dis : 'Ô hommes ! Je suis pour vous **tous** le Messager d'Allah.' »* [Al-A'raf : 158]
 
 ---
 
 ## 🛡️ Réfutation des Doutes (الشُّبُهات والرد عليها)
 
-### Premier doute : "Les prophètes ont péché gravement"
+### Premier doute : « Les prophètes ont péché gravement »
 
-**❌ Le doute :** Certains disent : "Les prophètes ont commis des péchés majeurs !"
-
-**✅ La réfutation :**
-
-1. **Les prophètes sont infaillibles dans la transmission :**
-   Ils sont protégés de l'erreur dans ce qu'ils transmettent d'Allah.
-
-2. **Leurs erreurs sont mineures et pardonnées :**
-   > ﴿لِيَغْفِرَ لَكَ اللَّهُ مَا تَقَدَّمَ مِن ذَنبِكَ وَمَا تَأَخَّرَ﴾
-   > "Afin qu'Allah te pardonne tes péchés passés et futurs." [Al-Fath : 2]
-
-3. **Ils sont les meilleurs des humains :**
-   Si quelqu'un avait des péchés majeurs, il ne serait pas choisi comme prophète.
-
-4. **L'Imam Ibn Taymiyyah رحمه الله a dit :**
-   > *"Les prophètes sont préservés des grands péchés et de la persistance dans les petits péchés."*
-
----
-
-### Deuxième doute : "Le Prophète Muhammad ﷺ était un guerrier violent"
-
-**❌ Le doute :** "Muhammad a mené des guerres, donc il n'était pas un homme de paix !"
+**❌ Le doute :** Certains disent : « Les prophètes ont commis des péchés majeurs ! »
 
 **✅ La réfutation :**
 
-1. **Le Jihad est prescrit pour la défense :**
-   > ﴿أُذِنَ لِلَّذِينَ يُقَاتَلُونَ بِأَنَّهُمْ ظُلِمُوا﴾
-   > "Permission est donnée à ceux qui sont combattus car ils ont été lésés." [Al-Hajj : 39]
+1. **L'infaillibilité dans la transmission :**
+   Ils sont protégés de toute erreur dans ce qu'ils transmettent d'Allah.
 
-2. **Ses guerres étaient défensives :**
-   Les Quraysh l'ont combattu et chassé de sa patrie.
+2. **Leurs erreurs mineures étaient pardonnées et corrigées :**
+   > ﴿عَفَا اللَّهُ عَنكَ لِمَ أَذِنتَ لَهُمْ﴾
+   > *« Qu'Allah te pardonne ! Pourquoi leur as-tu donné permission ? »* [At-Tawba : 43]
 
-3. **Sa miséricorde était immense :**
-   Lors de la conquête de La Mecque, il a pardonné à tous ses ennemis.
-
-4. **Le nombre de victimes était minimal :**
-   Dans toutes ses batailles, environ 1000 personnes sont mortes des deux côtés, sur 23 ans.
+3. **Ibn Taymiyyah رحمه الله :**
+   > *« Les prophètes sont préservés des grands péchés et de la persistance dans les petits péchés. Leurs erreurs sont immédiatement corrigées. »*
 
 ---
 
-### Troisième doute : "Pourquoi le Prophète avait-il plusieurs épouses ?"
+### Deuxième doute : « Jésus est plus qu'un prophète »
 
-**❌ Le doute :** "Pourquoi était-il permis au Prophète ﷺ d'avoir plus de 4 épouses ?"
+**❌ Le doute :** « Jésus est le fils de Dieu ! »
 
 **✅ La réfutation :**
-
-1. **Des raisons législatives et sociales :**
-   - Prendre soin des veuves et orphelines
-   - Renforcer les liens tribaux
-   - Transmettre la Sunnah privée
-
-2. **La plupart étaient des veuves :**
-   Seule 'Aisha رضي الله عنها était vierge.
-
-3. **Allah lui a permis spécifiquement :**
-   > ﴿يَا أَيُّهَا النَّبِيُّ إِنَّا أَحْلَلْنَا لَكَ﴾
-   > "Ô Prophète, Nous t'avons rendu licite..." [Al-Ahzab : 50]
-
-4. **Sa vie était d'une ascèse extrême :**
-   Malgré ses épouses, il vivait dans la pauvreté.
-
----
-
-### Quatrième doute : "Pourquoi les miracles des prophètes ne se répètent-ils pas ?"
-
-**❌ Le doute :** "Les miracles sont des mythes car ils ne se reproduisent pas !"
-
-**✅ La réfutation :**
-
-1. **Les miracles sont des signes pour leur temps :**
-   Chaque prophète a eu des miracles adaptés à son époque.
-
-2. **Le miracle permanent est le Coran :**
-   > ﴿وَإِن كُنتُمْ فِي رَيْبٍ مِّمَّا نَزَّلْنَا عَلَىٰ عَبْدِنَا فَأْتُوا بِسُورَةٍ مِّن مِّثْلِهِ﴾
-   > "Si vous êtes en doute sur ce que Nous avons révélé à Notre serviteur, apportez donc une sourate semblable." [Al-Baqarah : 23]
-
-3. **Les miracles sont transmis par tawatur :**
-   Ils sont rapportés par des chaînes de transmission authentiques.
-
----
-
-### Cinquième doute : "Jésus est plus qu'un prophète"
-
-**❌ Le doute :** Certains chrétiens disent : "Jésus est le fils de Dieu, pas un simple prophète !"
-
-**✅ La réfutation :**
-
-1. **'Issa عليه السلام lui-même a nié cela :**
-   > ﴿مَا قُلْتُ لَهُمْ إِلَّا مَا أَمَرْتَنِي بِهِ أَنِ اعْبُدُوا اللَّهَ رَبِّي وَرَبَّكُمْ﴾
-   > "Je ne leur ai dit que ce que Tu m'as commandé : 'Adorez Allah, mon Seigneur et votre Seigneur.'" [Al-Ma'idah : 117]
-
-2. **Allah n'a pas de fils :**
-   > ﴿لَمْ يَلِدْ وَلَمْ يُولَدْ﴾
-   > "Il n'a pas engendré et n'a pas été engendré." [Al-Ikhlas : 3]
-
-3. **'Issa est un serviteur honoré :**
-   > ﴿إِنْ هُوَ إِلَّا عَبْدٌ أَنْعَمْنَا عَلَيْهِ﴾
-   > "Il n'est qu'un serviteur que Nous avons comblé de bienfaits." [Az-Zukhruf : 59]
-
----
-
-## 📜 Récits sur les Prophètes
-
-### L'épreuve d'Ibrahim عليه السلام avec le feu
 
 <div class="scene-box">
 
-Quand Ibrahim عليه السلام brisa les idoles, son peuple voulut le brûler vif.
+**🎭 LE TÉMOIGNAGE DE 'ISSA**
 
-> ﴾قَالُوا حَرِّقُوهُ وَانصُرُوا آلِهَتَكُمْ﴿
-> "Ils dirent : 'Brûlez-le et secourez vos divinités !'" [Al-Anbiya : 68]
+*Au Jour du Jugement, Allah interrogera 'Issa عليه السلام devant toute l'humanité :*
 
-Allah ordonna au feu :
-> ﴾يَا نَارُ كُونِي بَرْدًا وَسَلَامًا عَلَىٰ إِبْرَاهِيمَ﴿
-> "Ô feu, sois fraîcheur et paix pour Ibrahim !" [Al-Anbiya : 69]
+**Allah ﷻ :** « **أَأَنتَ قُلْتَ لِلنَّاسِ اتَّخِذُونِي وَأُمِّيَ إِلَٰهَيْنِ مِن دُونِ اللَّهِ** — Est-ce toi qui as dit aux gens : 'Prenez-moi et ma mère comme divinités en dehors d'Allah' ? »
 
-Ibrahim sortit indemne, prouvant la puissance d'Allah.
+**'Issa عليه السلام :** « **سُبْحَانَكَ مَا يَكُونُ لِي أَنْ أَقُولَ مَا لَيْسَ لِي بِحَقٍّ** — Gloire à Toi ! Il ne m'appartient pas de dire ce dont je n'ai pas le droit. »
+
+**'Issa عليه السلام :** « **مَا قُلْتُ لَهُمْ إِلَّا مَا أَمَرْتَنِي بِهِ أَنِ اعْبُدُوا اللَّهَ رَبِّي وَرَبَّكُمْ** — Je ne leur ai dit que ce que Tu m'as commandé : 'Adorez Allah, **mon Seigneur et votre Seigneur**.' »
+
+*[Al-Ma'ida : 116-117]*
 
 </div>
 
 ---
 
-### La patience de Nuh عليه السلام
+### Troisième doute : « Un prophète après Muhammad ? »
 
-<div class="scene-box">
+**❌ Le doute :** Certains prétendent qu'il y a des prophètes après Muhammad ﷺ.
 
-Nuh عليه السلام prêcha 950 ans :
+**✅ La réfutation :**
 
-> **«فَلَبِثَ فِيهِمْ أَلْفَ سَنَةٍ إِلَّا خَمْسِينَ عَامًا»**
-> "Il demeura parmi eux mille ans moins cinquante ans." [Al-'Ankabut : 14]
+1. **Le texte est catégorique :**
+   > ﴿وَخَاتَمَ النَّبِيِّينَ﴾ — *« Le Sceau des prophètes »*
 
-Très peu le suivirent, mais il ne désespéra jamais de la miséricorde d'Allah.
+2. **Le consensus de la Oummah (إجماع) :**
+   Quiconque prétend à la prophétie après Muhammad ﷺ est un **menteur et un mécréant**.
 
-</div>
-
----
-
-### Yusuf عليه السلام et la tentation
-
-<div class="scene-box">
-
-Quand la femme d'Al-'Aziz tenta de le séduire :
-
-> ﴾قَالَ مَعَاذَ اللَّهِ ۖ إِنَّهُ رَبِّي أَحْسَنَ مَثْوَايَ﴿
-> "Il dit : 'Qu'Allah me protège ! Il est mon maître, Il m'a accordé un bel asile.'" [Yusuf : 23]
-
-Il préféra la prison au péché. Quelle noblesse !
-
-</div>
+3. **Le Prophète ﷺ a dit :**
+   > **« لَا نَبِيَّ بَعْدِي »** — *« Pas de prophète après moi. »*
+   > *(Al-Bukhari 3455)*
 
 ---
 
-### Le Prophète ﷺ à Ta'if
+## 🎯 Cas Pratiques Contemporains
 
-<div class="scene-box">
+### Cas 1 : L'insulte aux prophètes
 
-Quand le Prophète ﷺ fut chassé de Ta'if, ensanglanté et blessé, l'ange des montagnes lui proposa d'écraser la ville entre deux montagnes.
+**Situation :** Quelqu'un insulte un prophète dans une discussion ou sur internet.
 
-Il répondit : **«لَا، بَلْ أَرْجُو أَنْ يُخْرِجَ اللَّهُ مِنْ أَصْلَابِهِمْ مَنْ يَعْبُدُ اللَّهَ وَحْدَهُ»**
-"Non, mais j'espère qu'Allah fera sortir de leurs reins des gens qui adoreront Allah Seul." (Al-Bukhari 3231, Muslim 1795)
+**Question :** Quelle est la réaction islamique ?
 
-</div>
+**Réponse :**
+- Insulter un prophète est du **kufr par consensus**
+- Le musulman doit **défendre l'honneur** des prophètes
+- La réponse doit être **avec sagesse et bons arguments**, pas violence
+
+---
+
+### Cas 2 : « Tous les chemins mènent à Dieu »
+
+**Situation :** Quelqu'un dit : « Toutes les religions sont vraies, tous les prophètes ont dit la même chose. »
+
+**Question :** Que répondre ?
+
+**Réponse :** ⚠️ Partiellement vrai, mais incomplet !
+
+- ✅ Tous les prophètes ont appelé au **Tawhid**
+- ❌ Mais les religions actuelles ont été **falsifiées**
+- ✅ L'Islam est la seule voie **préservée** aujourd'hui
+
+> ﴿إِنَّ الدِّينَ عِندَ اللَّهِ الْإِسْلَامُ﴾
+> *« La religion auprès d'Allah est l'Islam. »* [Âl-'Imran : 19]
 
 ---
 
-## 💎 Paroles des Savants sur les Prophètes
+### Cas 3 : Les films sur les prophètes
 
-### L'Imam Ibn Al-Qayyim رحمه الله
+**Situation :** Un film représente un prophète (acteur jouant Moussa, Yusuf, etc.)
 
-> **"Les prophètes sont les lumières de la guidance. Suivre leur voie est le chemin vers le succès, et s'en détourner est le chemin vers la perdition."**
+**Question :** Est-ce permis de le regarder ?
+
+**Réponse :** ⚠️ Les savants ont divergé mais la majorité l'interdit car :
+- Représenter les prophètes rabaisse leur dignité
+- L'acteur est un pécheur, le prophète était infaillible
+- Risque de déformation du message
 
 ---
+
+## 💎 Paroles des Savants
 
 ### Sheikh al-Islam Ibn Taymiyyah رحمه الله
 
-> **"L'amour du Prophète ﷺ doit être plus grand que l'amour de soi-même. Celui qui ne l'aime pas ainsi n'a pas complété sa foi."**
+> *« L'amour du Prophète ﷺ doit être plus grand que l'amour de soi-même. Celui qui ne l'aime pas ainsi n'a pas complété sa foi. »*
 
----
+### L'Imam Ibn Al-Qayyim رحمه الله
 
-### L'Imam Ash-Shafi'i رحمه الله
-
-> **"Si je vois quelqu'un des compagnons du Prophète ﷺ, c'est comme si je voyais l'un des prophètes, tant leur lumière est proche de la lumière prophétique."**
-
----
+> *« Les prophètes sont les lumières de la guidance. Suivre leur voie est le chemin vers le succès, et s'en détourner est le chemin vers la perdition. »*
 
 ### L'Imam An-Nawawi رحمه الله
 
-> **"L'amour du Prophète ﷺ est obligatoire sur chaque musulman, et son niveau de foi est proportionnel à son amour pour lui."**
+> *« L'amour du Prophète ﷺ est obligatoire, et le niveau de foi de chacun est proportionnel à son amour pour lui. »*
 
 ---
 
-## Invocation
+## 🌟 Les Effets de la Foi aux Prophètes
 
-> Ô Allah, envoie Tes prières et Ton salut sur notre Prophète Muhammad, sur tous Tes prophètes et messagers, et sur leurs familles et compagnons.
-> Ô Allah, rassemble-nous avec eux au Paradis, sans tourment ni châtiment.
+| Effet | Description |
+|-------|-------------|
+| 🙏 **Reconnaissance** | Allah a guidé l'humanité par Ses envoyés |
+| 👣 **Exemple à suivre** | Les prophètes sont les meilleurs modèles |
+| 💪 **Patience** | Se rappeler leurs souffrances dans l'épreuve |
+| ❤️ **Amour** | Aimer ceux qu'Allah a choisis |
+| 📚 **Attachement à la Sunnah** | Suivre le dernier prophète ﷺ |
 
-Seigneur, augmente ma science ! 📖`
+---
+
+## 🤲 Invocation
+
+<div class="quote-box">
+
+> **اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ، كَمَا صَلَّيْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ**
+>
+> *« Ô Allah, prie sur Muhammad et sur la famille de Muhammad, comme Tu as prié sur Ibrahim et sur la famille d'Ibrahim. Tu es digne de louange et de gloire. »*
+>
+> *(Al-Bukhari 3370)*
+
+</div>
+
+---
+
+## ✅ Résumé
+
+| Point | Détail |
+|-------|--------|
+| **Pilier de foi** | 4ème pilier |
+| **Nabi vs Rasul** | Tout Rasul est Nabi, pas l'inverse |
+| **Nombre coranique** | 25 prophètes nommés |
+| **Ulul-'Azm** | Nuh, Ibrahim, Moussa, 'Issa, Muhammad |
+| **Le dernier** | Muhammad ﷺ, sceau des prophètes |
+| **Notre devoir** | Croire en tous, suivre Muhammad ﷺ |
+
+**Rabbi Zidni 'Ilma.** 📖`

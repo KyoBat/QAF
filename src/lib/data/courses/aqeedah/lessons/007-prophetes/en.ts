@@ -1,203 +1,267 @@
 /**
  * Aqeedah - Lesson 007: Belief in the Prophets and Messengers
- * English Content
+ * English Content - Scholarly and immersive methodology
  */
 
-export const content = `# 📜 Belief in the Prophets and Messengers (Al-Iman bil-Rusul)
+export const content = `# 📜 Belief in the Prophets — The Fourth Pillar of Faith
 
 <div class="scene-box">
 
-## 950 Years of Calling: The Patience of Nuh عليه السلام
+**🌊 950 Years of Calling: The Epic of Nuh عليه السلام**
 
-The sun beat down on the worksite. Nuh عليه السلام, despite his advanced age, continued building the ark in the middle of a desert, far from any sea. The nobles of his people passed by and laughed:
+*For almost a millennium, Nuh عليه السلام called his people. Day and night. In public and in private...*
 
-> *"O Nuh! Have you become a carpenter now? Building a boat where there is no water!"*
+*They mocked him. They put their fingers in their ears. They covered themselves with their garments...*
 
-Nuh would answer them calmly:
+**The nobles:** *(laughing)* « Look at him! Building a ship in the desert! Has he gone mad? »
 
-> **"If you ridicule us, then we will ridicule you just as you ridicule."** (Hud 11:38)
+**Nuh:** *(calmly, continuing to build)* « If you ridicule us, then we will ridicule you just as you ridicule. »
 
-It had been **950 years** since he began calling his people day and night, in secret and in public. Most had refused. But Nuh never despaired of Allah's mercy...
+*The years passed. 100 years. 300. 500. 800...*
 
-The day of the flood, those who had mocked understood. But it was too late.
+*Finally, after **950 years**:*
 
-**What was this mission so important that Nuh and all prophets carried for centuries? Let us discover together the common message of these chosen ones of Allah.**
+> ﴿فَلَبِثَ فِيهِمْ أَلْفَ سَنَةٍ إِلَّا خَمْسِينَ عَامًا﴾ [Al-'Ankabut: 14]
+
+*The day of the flood, they understood. But it was too late.*
+
+*The same message. 124,000 prophets. One mission: **La ilaha illa Allah**.*
 
 </div>
 
-## 🔍 Definition
-
-Belief in the prophets and messengers means having firm faith that Allah sent messengers to every community to guide them to Tawhid, that we must respect all of them without distinction, and that Muhammad ﷺ is the last of them.
-
-## Proof of the obligation of this belief
-
-Allah ﷻ says:
-
-> "The Messenger has believed in what was revealed to him from his Lord, and so have the believers. All of them have believed in Allah and His angels and His books and His messengers, saying: 'We make no distinction between any of His messengers.'" (Al-Baqara 2:285)
+> Belief in the prophets is the **fourth pillar** of the six pillars of faith.
 
 ---
 
-## 🔍 The Difference Between Nabi (Prophet) and Rasul (Messenger)
+## 📖 The Foundational Hadith
 
-### Nabi (نبي) - Prophet
+<div class="quote-box">
 
-One who receives revelation from Allah and is commanded to convey it. He may be sent to a people who already believe, to remind them of the law of a previous Rasul.
+**📜 From the Hadith of Jibril**
 
-### Rasul (رسول) - Messenger
+> **"That you believe in Allah, and His angels, and His Books, and His **messengers**..."**
 
-One who is sent to a disbelieving or rebellious people with a legislation, whether new or confirming a previous one.
+*(Sahih Muslim 8)*
 
-> *Source: Ibn Taymiyyah, Majmu' al-Fatawa, vol. 7, p. 281*
-
-> "And We did not send any messenger except in the language of his people to make clear to them." (Ibrahim 14:4)
-
-**Note**: Every messenger is a prophet, but not every prophet is necessarily a messenger.
+</div>
 
 ---
 
-## The Mission of the Prophets
+## 🔍 Prophet vs. Messenger
 
-### 1️⃣ Calling to Tawhid
+| Term | Definition |
+|------|------------|
+| **Nabi (Prophet)** | Receives revelation from Allah |
+| **Rasul (Messenger)** | Sent with a new legislation to a disbelieving people |
 
-> "And We sent not before you any messenger except that We revealed to him that: 'There is no deity except Me, so worship Me.'" (Al-Anbiya 21:25)
+> *Source: Ibn Taymiyyah, Majmu' al-Fatawa*
 
-### 2️⃣ Giving glad tidings and warning
-
-> "Messengers as bearers of good tidings and warners so that mankind will have no argument against Allah after the messengers." (An-Nisa 4:165)
-
-### 3️⃣ Teaching and purifying
-
-> "It is He who has sent among the unlettered a Messenger from themselves reciting to them His verses and purifying them and teaching them the Book and wisdom." (Al-Jumu'a 62:2)
+**Every messenger is a prophet, but not every prophet is a messenger.**
 
 ---
 
-## The Prophets Mentioned in the Quran (25 Prophets)
+## 🌳 The Mission of the Prophets
+
+\`\`\`
+              🌳 PROPHETIC MISSION
+                      │
+    ┌─────────────────┼─────────────────┐
+    │                 │                 │
+ 1️⃣ TAWHID       2️⃣ WARNING        3️⃣ GUIDANCE
+ Call to          Warn of          Teach and
+ One God          punishment       purify souls
+    │                 │                 │
+    └─────────────────┴─────────────────┘
+                      │
+              ﴿لَا إِلَٰهَ إِلَّا أَنَا﴾
+             "There is no god but Me"
+\`\`\`
+
+---
+
+## 👥 The 25 Prophets in the Quran
 
 | # | Name | Arabic | Distinction |
 |---|------|--------|-------------|
 | 1 | Adam | آدم | First human and prophet |
 | 2 | Idris | إدريس | Raised to a high station |
-| 3 | Nuh (Noah) | نوح | First messenger |
+| 3 | Nuh | نوح | First messenger |
 | 4 | Hud | هود | Sent to 'Ad |
 | 5 | Salih | صالح | Sent to Thamud |
-| 6 | Ibrahim (Abraham) | إبراهيم | Father of prophets, Friend of Allah (Khalilullah) |
-| 7 | Lut (Lot) | لوط | Nephew of Ibrahim |
-| 8 | Isma'il (Ishmael) | إسماعيل | Son of Ibrahim, ancestor of Arabs |
-| 9 | Ishaq (Isaac) | إسحاق | Son of Ibrahim, ancestor of Israelites |
-| 10 | Ya'qub (Jacob) | يعقوب | Son of Ishaq, Israel |
-| 11 | Yusuf (Joseph) | يوسف | The truthful |
-| 12 | Ayyub (Job) | أيوب | Model of patience |
-| 13 | Shu'ayb | شعيب | Sent to the people of Madyan |
-| 14 | Musa (Moses) | موسى | Kalimullah (to whom Allah spoke) |
-| 15 | Harun (Aaron) | هارون | Brother and helper of Musa |
-| 16 | Dhul-Kifl | ذو الكفل | Mentioned with the patient ones |
-| 17 | Dawud (David) | داود | King and prophet, received the Psalms |
-| 18 | Sulayman (Solomon) | سليمان | King and prophet, power over jinn |
-| 19 | Ilyas (Elijah) | إلياس | Sent to Ba'l worshippers |
-| 20 | Al-Yasa' (Elisha) | اليسع | Successor of Ilyas |
-| 21 | Yunus (Jonah) | يونس | Sahibu-l-Hut (companion of the whale) |
-| 22 | Zakariyya (Zechariah) | زكريا | Father of Yahya |
-| 23 | Yahya (John) | يحيى | Son of Zakariyya |
-| 24 | 'Issa (Jesus) | عيسى | Ruhullah (spirit of Allah), son of Maryam |
-| 25 | Muhammad | محمد | Last of the prophets ﷺ |
+| 6 | Ibrahim | إبراهيم | Khalilullah (Friend of Allah) |
+| 7 | Lut | لوط | Nephew of Ibrahim |
+| 8 | Isma'il | إسماعيل | Ancestor of Arabs |
+| 9 | Ishaq | إسحاق | Ancestor of Israelites |
+| 10 | Ya'qub | يعقوب | Israel |
+| 11 | Yusuf | يوسف | The truthful |
+| 12 | Ayyub | أيوب | Model of patience |
+| 13 | Shu'ayb | شعيب | Sent to Madyan |
+| 14 | Musa | موسى | Kalimullah (spoke to Allah) |
+| 15 | Harun | هارون | Brother of Musa |
+| 16 | Dhul-Kifl | ذو الكفل | Among the patient |
+| 17 | Dawud | داود | King-prophet, Psalms |
+| 18 | Sulayman | سليمان | King-prophet, jinn |
+| 19 | Ilyas | إلياس | Against Ba'l |
+| 20 | Al-Yasa' | اليسع | Successor of Ilyas |
+| 21 | Yunus | يونس | Companion of the whale |
+| 22 | Zakariyya | زكريا | Father of Yahya |
+| 23 | Yahya | يحيى | Son of Zakariyya |
+| 24 | 'Issa | عيسى | Ruhullah (Spirit of Allah) |
+| 25 | Muhammad | محمد | **Seal of the Prophets ﷺ** |
 
 ---
 
-## The Messengers of Strong Will (Ulul-'Azm)
+## ⭐ The Five of Strong Will (Ulul-'Azm)
 
-Five messengers are called "Ulul-'Azm" (أولو العزم) - those of particular resolve:
+> ﴿فَاصْبِرْ كَمَا صَبَرَ **أُولُو الْعَزْمِ** مِنَ الرُّسُلِ﴾ [Al-Ahqaf: 35]
 
-> "So be patient, as were those of determination among the messengers." (Al-Ahqaf 46:35)
-
-1. **Nuh عليه السلام** - 950 years of preaching
-2. **Ibrahim عليه السلام** - Tested by fire and sacrifice
-3. **Musa عليه السلام** - Facing Pharaoh
-4. **'Issa عليه السلام** - Facing rejection of the Israelites
-5. **Muhammad ﷺ** - The most complete mission
-
-> "And when We took from the prophets their covenant and from you and from Noah and Abraham and Moses and Jesus, the son of Mary." (Al-Ahzab 33:7)
+| Prophet | Test |
+|---------|------|
+| **Nuh** | 950 years of calling |
+| **Ibrahim** | Thrown into fire, ordered to sacrifice son |
+| **Musa** | Facing Pharaoh |
+| **'Issa** | Rejection by Israelites |
+| **Muhammad ﷺ** | The most complete mission |
 
 ---
 
-## Muhammad ﷺ: The Seal of Prophets
+## 📜 Stories of the Prophets
 
-### Proof of his prophethood
+### Ibrahim in the Fire
 
-> "Muhammad is not the father of any of your men, but he is the Messenger of Allah and Seal of the Prophets (Khatam An-Nabiyyin)." (Al-Ahzab 33:40)
+<div class="scene-box">
 
-The Prophet ﷺ said:
+**🔥 The Fire That Became Cool**
 
-> "I am Muhammad, I am Ahmad, I am Al-Mahi (the effacer) by whom disbelief is effaced, I am Al-Hashir (the gatherer) at whose feet people will be gathered, and I am Al-'Aqib (the last) after whom there is no prophet." (Sahih Al-Bukhari 3532, Sahih Muslim 2354)
+*Ibrahim breaks the idols. His people rage:*
 
-### His universal mission
+**The people:** « Burn him! Support your gods! »
 
-> "And We have not sent you except comprehensively to mankind as a bringer of good tidings and a warner." (Saba 34:28)
+*They build a massive fire. They catapult him into it...*
 
-> "Say: 'O mankind, indeed I am the Messenger of Allah to you all.'" (Al-A'raf 7:158)
+*As he flies through the air, Jibril appears:*
 
----
+**Jibril:** « Do you need anything? »
 
-## What Belief in the Prophets Encompasses
+**Ibrahim:** « From you? No. »
 
-### 1️⃣ Believing in all prophets without distinction
+*Allah commands the fire:*
 
-> "We make no distinction between any of His messengers." (Al-Baqara 2:285)
+> ﴿يَا نَارُ كُونِي **بَرْدًا وَسَلَامًا** عَلَىٰ إِبْرَاهِيمَ﴾ [Al-Anbiya: 69]
 
-### 2️⃣ Believing in their truthfulness (Sidq)
+*Ibrahim emerges unharmed. The fire obeyed its Creator.*
 
-All prophets are truthful in what they convey from Allah.
+</div>
 
-### 3️⃣ Believing in their infallibility (Isma)
+### Yunus in the Whale
 
-They are protected from error in conveying the message.
+<div class="scene-box">
 
-### 4️⃣ Believing they are human
+**🐋 In the Depths of Darkness**
 
-> "Say: 'I am only a man like you, to whom has been revealed that your god is one God.'" (Al-Kahf 18:110)
+*Yunus عليه السلام left his people in anger. He boarded a ship. A storm arose. They cast lots—his name came up...*
 
-### 5️⃣ Believing in their miracles
+*Thrown into the sea. Swallowed by a whale.*
 
-Each prophet was given signs suited to his time.
+*In the belly of the whale, in the depth of the sea, in the darkness of night—three darknesses:*
 
----
+**Yunus:** ﴿لَّا إِلَٰهَ إِلَّا أَنتَ **سُبْحَانَكَ** إِنِّي كُنتُ مِنَ الظَّالِمِينَ﴾
 
-## The Rights of Prophets Upon Us
+*The whale spit him out on the shore. A lesson for all who run from their mission.*
 
-1. **Loving them**: The Prophet ﷺ said: "None of you will have faith until I am more beloved to him than his father, his child, and all mankind." (Sahih Al-Bukhari 15)
+</div>
 
-2. **Following them**: "Say: 'If you truly love Allah, follow me, and Allah will love you.'" (Al-Imran 3:31)
+### The Prophet ﷺ at Ta'if
 
-3. **Defending them**: Not accepting that they be insulted
+<div class="scene-box">
 
-4. **Sending blessings upon them** (for Muhammad ﷺ specifically)
+**💔 Bloodied but Merciful**
 
----
+*After being rejected by his own people, the Prophet ﷺ went to Ta'if seeking support.*
 
-## What Nullifies Belief in the Prophets
+*They mocked him. They set their children upon him. They threw stones until his blessed feet bled...*
 
-1. **Denying any of them**: "Those who disbelieve in Allah and His messengers and wish to discriminate between Allah and His messengers... those are the true disbelievers." (An-Nisa 4:150-151)
+*The Angel of the Mountains came:*
 
-2. **Insulting a prophet**: This is kufr by consensus
+**Angel:** « O Muhammad! If you wish, I will crush them between these two mountains. »
 
-3. **Claiming there is a prophet after Muhammad ﷺ**
+**The Prophet ﷺ:** « No! **I hope that Allah will bring forth from their loins people who will worship Allah alone.** »
 
-4. **Attributing to prophets defects that contradict their mission**
+*(Sahih Al-Bukhari 3231)*
 
----
+*That is mercy. That is prophethood.*
 
-## The Effects of Believing in the Prophets
-
-1. **Recognition of Allah's mercy**: Who guided humanity through His envoys
-2. **Example to follow**: The prophets are the best role models
-3. **Patience in trials**: Remembering their sufferings
-4. **Love and respect**: For these noble servants of Allah
-5. **Attachment to the Sunnah**: Of the final Prophet ﷺ
+</div>
 
 ---
 
-## 🛡️ Refutation of Doubts (الشُّبُهات والرد عليها)
+## 🛡️ Refutations of Doubts
 
-### First Doubt: "The prophets committed grave sins"
+### Doubt 1: "Prophets committed major sins"
+
+**✅ Refutation:**
+
+| Claim | Reality |
+|-------|---------|
+| "They sinned greatly" | Protected in conveying revelation |
+| "Unfit for prophethood" | Minor slips, immediately forgiven |
+
+### Doubt 2: "'Issa is more than a prophet"
+
+**✅ Refutation:**
+
+> ﴿إِنْ هُوَ إِلَّا **عَبْدٌ أَنْعَمْنَا عَلَيْهِ**﴾ [Az-Zukhruf: 59]
+
+"He was but a servant upon whom We bestowed favor."
+
+---
+
+## 🌟 Effects of This Belief
+
+| Effect | Application |
+|--------|-------------|
+| **Recognition** | Allah's mercy in sending guides |
+| **Emulation** | Following their examples |
+| **Patience** | Remembering their suffering |
+| **Love** | Loving all prophets without distinction |
+
+---
+
+## 🎯 Contemporary Applications
+
+### Case 1: "All religions lead to God"
+
+**Situation:** Someone says: "All prophets taught different paths."
+
+**Answer:** ❌ All prophets taught **one path**: La ilaha illa Allah.
+
+> ﴿وَمَا أَرْسَلْنَا مِن قَبْلِكَ مِن رَّسُولٍ إِلَّا نُوحِي إِلَيْهِ أَنَّهُ **لَا إِلَٰهَ إِلَّا أَنَا**﴾ [Al-Anbiya: 25]
+
+---
+
+## ✅ Summary
+
+| Element | Detail |
+|---------|--------|
+| **Pillar** | Fourth of the six pillars of faith |
+| **Named prophets** | 25 in the Quran |
+| **Ulul-'Azm** | Nuh, Ibrahim, Musa, 'Issa, Muhammad ﷺ |
+| **Muhammad ﷺ** | Seal of the prophets, universal message |
+| **Our duty** | Love, follow, defend, send blessings |
+
+---
+
+## 🤲 Supplication
+
+<div class="quote-box">
+
+> **O Allah, send Your prayers and peace upon all Your prophets and messengers.**
+
+> **O Allah, gather us with them in Paradise without punishment or trial.**
+
+</div>
+
+**O Lord, increase me in knowledge!** 📖`
 
 **❌ The Doubt:** Some say: "The prophets committed major sins!"
 

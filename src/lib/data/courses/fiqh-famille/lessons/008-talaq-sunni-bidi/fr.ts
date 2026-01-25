@@ -1,293 +1,390 @@
-export const contentFr = `
-# Le Divorce Sunnite et Innovateur
+/**
+ * Fiqh Familial - Leçon 008: Le Divorce Sunni et Bid'i
+ * Contenu en Français - Version immersive
+ */
 
-## Introduction
+export const contentFr = `# ☀️ Le Divorce Sunni vs Bid'i — La Bonne et la Mauvaise Façon
 
-Bien que le divorce soit permis, le Législateur sage a établi des règles et des bonnes manières pour lui. Certains divorces sont conformes à la Sunnah (divorce sunnite), et d'autres lui sont contraires (divorce innovateur). Cette classification est parmi les plus importantes à connaître avant de procéder au divorce.
+> **« Ô Prophète ! Quand vous répudiez vos femmes, répudiez-les conformément à leur période d'attente. »**
+>
+> — **[At-Talâq : 1]**
 
 ---
 
-## Le Divorce Sunnite
+## 🎬 Introduction
+
+### 🎭 Deux scènes de divorce
+
+**Scène 1 — Le divorce chaotique**
+
+> Khalid rentre du travail, stressé. Une dispute éclate.
+>
+> Sa femme est en période de menstrues.
+>
+> Il crie : *« Tu es divorcée ! Divorcée ! Divorcée ! »*
+>
+> Trois divorces, pendant les menstrues, dans la colère.
+
+❌ **C'est un divorce bid'i (innovation blâmable).**
+
+---
+
+**Scène 2 — Le divorce selon la Sunna**
+
+> Youssef et Maryam ont tout essayé. Rien ne fonctionne.
+>
+> Youssef attend qu'elle termine ses menstrues et soit en période de pureté (tuhr).
+>
+> Il n'a pas de rapport avec elle dans cette période.
+>
+> Il dit calmement : *« Tu es divorcée. »* **Une seule fois.**
+>
+> Elle reste dans la maison pendant sa 'idda. Il peut la reprendre s'ils changent d'avis.
+
+✅ **C'est un divorce sunni (conforme à la Sunna).**
+
+> 🎯 **Allah a prescrit une méthode. La suivre, c'est obéir. L'ignorer, c'est pécher.**
+
+---
+
+## 📖 La Base Coranique
+
+> **« Ô Prophète ! Quand vous répudiez vos femmes, répudiez-les conformément à leur période d'attente ('idda). Et comptez cette période. »**
+>
+> — **[At-Talâq : 1]**
+
+### Que signifie « conformément à leur 'idda » ?
+
+Les savants expliquent :
+
+| Condition | Explication |
+|-----------|-------------|
+| ⏳ **Pendant une période de pureté** | Pas pendant les menstrues |
+| 🚫 **Sans rapport dans cette période** | Sinon on ne sait pas si elle est enceinte |
+| 1️⃣ **Un seul divorce** | Pas trois d'un coup |
+
+---
+
+## ☀️ Le Divorce Sunni — La Voie Prophétique
 
 ### Définition
 
-C'est le divorce conforme à la Sunnah, qu'Allah a ordonné dans Son Livre et Son Messager ﷺ dans sa Sunnah.
+Le divorce prononcé selon les conditions prescrites par Allah et Son Messager ﷺ.
 
-Allah dit : **"Ô Prophète ! Quand vous répudiez les femmes, répudiez-les conformément à leur période d'attente et comptez cette période"** [At-Talaq : 1]
+### Les 3 Conditions
 
-### Conditions du Divorce Sunnite
+| Condition | Détail |
+|-----------|--------|
+| 📅 **Pendant le tuhr** | La période de pureté (pas de menstrues) |
+| 🚫 **Sans rapport dans ce tuhr** | Sinon, elle pourrait être enceinte sans le savoir |
+| 1️⃣ **Un seul divorce** | Pas de répétition |
 
-| Condition | Détails |
-|-----------|---------|
-| Divorce pendant une période de pureté | Sans avoir eu de rapports avec elle |
-| Une seule répudiation | Pas deux ou trois ensemble |
-| Pas de succession | Ne pas suivre avec une autre répudiation pendant la même période de pureté |
+### 🎭 Le hadith d'Ibn 'Umar
 
-### Détail des Conditions du Divorce Sunnite
+**Ibn 'Umar** (qu'Allah les agrée) divorça sa femme **pendant ses menstrues**. Son père 'Umar consulta le Prophète ﷺ.
 
-#### Première Condition : Divorcer pendant une Période de Pureté sans Rapports
+> Le Prophète ﷺ **se mit en colère** et dit :
+>
+> **« Ordonne-lui de la reprendre. Puis qu'il la garde jusqu'à ce qu'elle soit purifiée, puis qu'elle ait ses menstrues, puis qu'elle soit purifiée à nouveau. Ensuite, s'il veut, il la garde, et s'il veut, il la divorce AVANT de la toucher. C'est la 'idda selon laquelle Allah a ordonné de divorcer les femmes. »**
+>
+> — **[Bukhari et Muslim]**
 
-**Sagesse :**
-- Pour qu'elle commence sa période d'attente avec une pureté complète
-- Pour ne pas prolonger la période d'attente
-- Pour s'assurer de l'absence de grossesse
+### 📊 Analyse du hadith
 
-**Preuve :**
-Ibn Omar a divorcé sa femme pendant ses menstrues. Omar a interrogé le Messager d'Allah ﷺ qui a dit : **"Ordonne-lui de la reprendre, puis de la garder jusqu'à ce qu'elle soit pure, puis qu'elle ait ses menstrues, puis soit pure, puis s'il veut il la garde, et s'il veut il la divorce avant de la toucher. C'est la période d'attente qu'Allah a ordonné pour divorcer les femmes"** [Bukhari et Muslim]
+| Étape | Leçon |
+|-------|-------|
+| 😠 Le Prophète ﷺ se fâche | Le divorce bid'i est grave |
+| 🔄 Ordonne de la reprendre | Corriger l'erreur |
+| ⏳ Attendre le tuhr suivant | Ne pas divorcer pendant les menstrues |
+| 🚫 Avant de la toucher | Pas de rapport dans le tuhr du divorce |
 
-#### Deuxième Condition : Divorcer d'une Seule Répudiation
+### Avantages du divorce sunni
 
-**Sagesse :**
-- Garder la porte de la reprise ouverte
-- Ne pas nuire à la femme
-- Prendre le temps de réfléchir
-
-**Preuve :**
-Le Prophète ﷺ a dit à celui qui a divorcé trois fois : **"Tu joues avec le Livre d'Allah alors que je suis parmi vous ?"** [Rapporté par An-Nasai]
-
-#### Troisième Condition : Ne Pas Suivre avec une Autre Répudiation Pendant la Période d'Attente
-
-**Sagesse :**
-- Donner une chance à la réconciliation
-- Réfléchir aux conséquences
-- Ne pas se précipiter pour mettre fin au mariage
+| Avantage | Explication |
+|----------|-------------|
+| ⏰ **Temps de réflexion** | On ne divorce pas à chaud |
+| 🔄 **Possibilité de reprise** | Un seul divorce = révocable |
+| 📅 **'Idda claire** | On sait quand elle commence |
+| ✅ **Obéissance à Allah** | Suivre la Sunna |
 
 ---
 
-## Le Divorce Innovateur (Bid'i)
+## 🌑 Le Divorce Bid'i — L'Innovation Blâmable
 
 ### Définition
 
-C'est le divorce contraire à la Sunnah, interdit par la loi islamique.
+Le divorce prononcé en violation des conditions prescrites.
 
-### Types de Divorce Innovateur
+### Les 3 Types de Bid'a dans le Divorce
 
-#### Premier Type : Le Divorce Pendant les Menstrues
+#### 1️⃣ Divorcer pendant les menstrues
 
-**Son statut :** Interdit par consensus
+| Situation | Statut |
+|-----------|--------|
+| ❌ Pendant les règles | **Haram** — Péché |
+| ⚠️ Le divorce compte-t-il ? | Oui selon la majorité |
+| 🔧 Solution | La reprendre, attendre, puis divorcer correctement |
 
-**Preuve :** Le hadith d'Ibn Omar mentionné ci-dessus, où le Prophète ﷺ a ordonné de la reprendre.
+#### 2️⃣ Divorcer dans un tuhr où il y a eu rapport
 
-**Sagesse de l'interdiction :**
-- Prolongation de la période d'attente pour la femme
-- Lui causer du tort
-- Incertitude concernant la grossesse
+| Problème | Explication |
+|----------|-------------|
+| 🤰 Elle pourrait être enceinte | La 'idda serait différente |
+| 📅 Confusion sur la 'idda | On ne sait plus compter |
+| ❌ Interdit | C'est une innovation |
 
-#### Deuxième Type : Le Divorce Pendant une Pureté avec Rapports
+#### 3️⃣ Prononcer les trois divorces d'un coup
 
-**Son statut :** Interdit selon la majorité
-
-**Preuve :** Sa parole ﷺ : **"Puis s'il veut, il la divorce avant de la toucher"**
-
-**Sagesse :**
-- Possibilité de grossesse, donc elle ne sait pas comment compter sa période d'attente
-- S'assurer de ne pas regretter après les rapports
-
-#### Troisième Type : Le Triple Divorce en Une Fois
-
-**Formes :**
-1. Dire : "Tu es divorcée trois fois"
-2. Dire : "Tu es divorcée, tu es divorcée, tu es divorcée" dans une même session
-3. Divorcer à chaque période de pureté avant la reprise
-
-**Son statut :** Interdit et contraire à la Sunnah
-
-**Preuve :**
-Le Prophète ﷺ a dit à celui qui a divorcé trois fois : **"Tu joues avec le Livre d'Allah ?"**
+| Formule | Problème |
+|---------|----------|
+| « Tu es divorcée 3 fois ! » | Ferme toute possibilité de reprise |
+| « Divorcée, divorcée, divorcée ! » | Même chose |
+| ❌ Interdit | Contraire au verset « Le divorce peut être prononcé deux fois » |
 
 ---
 
-## Le Divorce Innovateur Prend-il Effet ?
+## 📊 Tableau Comparatif
 
-### Divergence des Savants
-
-| Avis | Partisans | Preuve |
-|------|-----------|--------|
-| Prend effet avec péché | La majorité | Son occurrence à l'époque du Prophète ﷺ et son ordre de reprise |
-| Ne prend pas effet | Ibn Taymiyyah et Ibn al-Qayyim | L'interdiction implique l'invalidité |
-
-### Le Divorce Pendant les Menstrues
-
-**Avis de la majorité (prend effet) :**
-- Le Prophète ﷺ a ordonné à Ibn Omar de la reprendre, et la reprise vient après le divorce
-- Consensus des Compagnons sur sa validité
-
-**Avis d'Ibn Taymiyyah (ne prend pas effet) :**
-- La reprise n'est pas une preuve de validité
-- L'interdiction indique l'invalidité
-
-**Le plus juste :** Prend effet avec péché, vu la force des preuves de la majorité.
-
-### Le Triple Divorce en Une Fois
-
-**Avis de la majorité :** Compte pour trois
-
-**Avis d'Ibn Taymiyyah et Ibn al-Qayyim :** Compte pour un
-
-| Argument | Détails |
-|----------|---------|
-| La majorité | La pratique d'Omar et des Compagnons de le compter pour trois |
-| Ibn Taymiyyah | À l'époque du Prophète ﷺ et d'Abu Bakr, il comptait pour un |
+| Aspect | ☀️ Sunni | 🌑 Bid'i |
+|--------|---------|---------|
+| **Moment** | Tuhr (pureté) | Menstrues |
+| **Rapport** | Pas dans ce tuhr | Dans ce tuhr |
+| **Nombre** | Un seul | Trois d'un coup |
+| **Statut** | ✅ Licite | ❌ Péché |
+| **Le divorce compte ?** | Oui | Oui (divergence sur le 3 en 1) |
+| **Regret possible** | ✅ Reprise facile | ❌ Difficile ou impossible |
 
 ---
 
-## Exceptions au Divorce Innovateur
+## ⚠️ Le Divorce Bid'i Compte-t-il ?
 
-### Celles pour Qui le Divorce Innovateur n'est Pas Concevable
+### La grande question
 
-| Femme | Raison |
+> Si quelqu'un divorce de manière bid'i (pendant les menstrues, ou trois d'un coup), le divorce prend-il effet ?
+
+### Deux avis
+
+| Avis | Position |
+|------|----------|
+| 🔵 **Majorité (4 écoles)** | Le divorce **compte**, mais c'est un **péché** |
+| 🟡 **Certains savants** | Le divorce **ne compte pas** car c'est une désobéissance |
+
+### L'avis majoritaire
+
+Le hadith d'Ibn 'Umar est la preuve :
+- Le Prophète ﷺ **a compté** le divorce d'Ibn 'Umar
+- Puis il lui a ordonné de **la reprendre**
+- Ce qui prouve qu'un divorce a eu lieu, puis une reprise
+
+> 💡 **Conclusion** : Le divorce bid'i est un péché, mais il prend effet. L'homme doit se repentir et corriger s'il peut (reprendre puis divorcer correctement).
+
+---
+
+## 🏥 Cas Particuliers
+
+### 1️⃣ La femme enceinte
+
+| Règle | Explication |
+|-------|-------------|
+| ✅ On peut divorcer à tout moment | Pas besoin d'attendre le tuhr |
+| 📅 Sa 'idda = jusqu'à l'accouchement | C'est clair |
+
+> **« Et quant à celles qui sont enceintes, leur période est jusqu'à ce qu'elles accouchent. »** [At-Talâq : 4]
+
+### 2️⃣ La femme qui n'a pas (plus) de menstrues
+
+| Cas | Règle |
+|-----|-------|
+| 👧 Trop jeune pour les règles | On peut divorcer à tout moment |
+| 👵 Ménopause | On peut divorcer à tout moment |
+| 📅 'Idda = 3 mois | Au lieu de 3 cycles |
+
+### 3️⃣ Le divorce avant consommation
+
+| Règle | Explication |
+|-------|-------------|
+| ✅ À tout moment | Pas de 'idda donc pas de condition de tuhr |
+| ⚡ Irrévocable directement | Pas de période de reprise |
+
+---
+
+## 🎭 Récit : La sagesse d'Ibn 'Abbâs
+
+Un homme vint voir **Ibn 'Abbâs** (qu'Allah les agrée) et dit :
+
+> *« J'ai divorcé ma femme trois fois ! »*
+
+Ibn 'Abbâs dit :
+
+> **« Tu as désobéi à ton Seigneur. Ta femme t'est interdite. Tu n'as pas craint Allah, et Il ne t'a pas fait de sortie. »**
+
+Puis il récita :
+
+> **« Et quiconque craint Allah, Il lui donnera une issue. »** [At-Talâq : 2]
+
+### 🎯 Leçon
+
+| Point | Enseignement |
+|-------|--------------|
+| 😔 L'homme a péché | Triple divorce = désobéissance |
+| 🚫 Pas de « sortie » | Allah donne une issue à qui Le craint, pas à qui désobéit |
+| 📖 L'importance de la Sunna | Suivre les règles évite les drames |
+
+---
+
+## 🎯 Cas Pratiques Contemporains
+
+### 🩸 Cas 1 : Divorce pendant les menstrues
+
+> **Situation** : Khalid ne savait pas que c'était interdit. Il a divorcé sa femme pendant ses règles.
+
+**❓ Que faire ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Étapes :**
+
+| Étape | Action |
 |-------|--------|
-| Celle avec qui le mariage n'a pas été consommé | Pas de période d'attente |
-| La femme enceinte | Sa période d'attente se termine à l'accouchement |
-| La femme ménopausée | Elle n'a pas de menstrues |
-| La jeune fille | Elle n'a pas encore eu ses menstrues |
+| 1️⃣ | **La reprendre** immédiatement |
+| 2️⃣ | **Attendre** qu'elle finisse ses règles |
+| 3️⃣ | **Attendre** qu'elle ait ses prochaines règles |
+| 4️⃣ | **Attendre** qu'elle soit à nouveau pure |
+| 5️⃣ | **Ne pas avoir de rapport** dans cette pureté |
+| 6️⃣ | **Alors** il peut divorcer s'il le souhaite encore |
 
-**Preuve :**
-Allah dit : **"Et celles de vos femmes qui n'espèrent plus avoir de menstrues, si vous avez des doutes, leur période d'attente est de trois mois, de même pour celles qui n'ont pas encore de menstrues"** [At-Talaq : 4]
+> 💡 Ce délai est une **sagesse** : souvent, l'homme ne veut plus divorcer après réflexion.
 
-Et Allah dit : **"Et celles qui sont enceintes, leur terme est qu'elles accouchent"** [At-Talaq : 4]
-
----
-
-## Différence entre le Divorce Sunnite et Innovateur
-
-| Description | Divorce Sunnite | Divorce Innovateur |
-|-------------|-----------------|-------------------|
-| Statut | Permis ou recommandé par nécessité | Interdit |
-| Moment | Pendant une pureté sans rapports | Pendant les menstrues ou pureté avec rapports |
-| Nombre | Une seule répudiation | Deux ou trois ensemble |
-| Effet | Prend effet certainement | Prend effet avec péché (majorité) |
-| Conséquence | Pas de péché | Son auteur pèche |
+</details>
 
 ---
 
-## Statuts Importants
+### 3️⃣ Cas 2 : Les trois divorces d'un coup
 
-### Le Divorce de la Femme Enceinte
+> **Situation** : Youssef a dit « Tu es divorcée trois fois ! » dans la colère. Il regrette énormément.
 
-- Son divorce est sunnite selon la majorité
-- Parce que sa période d'attente se termine à l'accouchement, pas par les menstrues
-- Elle peut être divorcée à tout moment
+**❓ Peut-il la reprendre ?**
 
-**Preuve :**
-Le Prophète ﷺ a dit à Ibn Omar : **"Ordonne-lui de la reprendre..."** puis il a mentionné la pureté, et n'a pas mentionné la grossesse.
+<details>
+<summary>📜 Voir la réponse</summary>
 
-### Le Divorce de Celle qui a des Métrorragies
+**Selon la majorité des savants :**
 
-- Elle peut être divorcée à tout moment
-- Parce que son sang est un sang de maladie, pas de menstrues
+❌ **Non.** Les trois comptent. C'est un divorce irrévocable majeur.
 
-### Le Divorce de Celle qui n'a Pas de Menstrues
+**Elle ne peut lui revenir que si :**
+1. Elle épouse un autre homme sincèrement
+2. Ce mariage est consommé
+3. Ce mari divorce ou décède
+4. Elle termine sa 'idda
+5. Puis nouveau contrat avec Youssef
 
-- La femme ménopausée et la jeune fille peuvent être divorcées à tout moment
-- En raison de l'absence de menstrues chez elles
+**Selon Ibn Taymiyya :**
 
----
+✅ Ça compte comme **un seul** divorce. Il peut la reprendre.
 
-## Bonnes Manières du Divorce
+> ⚠️ Consulter un savant compétent. Les tribunaux de différents pays appliquent différents avis.
 
-### 1. La Consultation et l'Istikhara
-
-- Faire l'istikhara avant de procéder au divorce
-- Consulter les gens de science et de sagesse
-
-### 2. Prendre son Temps et Ne Pas se Précipiter
-
-- Réfléchir aux conséquences
-- Tenter la réconciliation avant le divorce
-
-### 3. L'Excellence dans le Divorce
-
-Allah dit : **"Ou une séparation de bonne grâce"** [Al-Baqarah : 229]
-
-- Ne pas nuire à la femme
-- Lui donner tous ses droits
-
-### 4. Ne Pas Divulguer
-
-- Ne pas parler des secrets conjugaux
-- Couvrir les défauts
+</details>
 
 ---
 
-## 📖 Récits des Salaf
+### 💍 Cas 3 : Divorce après rapport dans le tuhr
 
-### Ibn 'Umar et le divorce innovateur
+> **Situation** : Ahmad a eu un rapport avec sa femme il y a 3 jours. Aujourd'hui, il la divorce alors qu'elle est encore dans ce tuhr.
 
-Abdullah ibn 'Umar رضي الله عنهما rapporte qu'il divorça sa femme alors qu'elle était en période de menstrues. Son père 'Umar alla informer le Messager d'Allah ﷺ.
+**❓ Statut ?**
 
-Le Prophète ﷺ se mit en colère, puis dit : **"Ordonne-lui de la reprendre, puis de la garder jusqu'à ce qu'elle soit pure, puis qu'elle ait ses menstrues, puis soit pure, puis s'il veut il la garde, et s'il veut il la divorce avant de la toucher. C'est la période d'attente qu'Allah a ordonné pour divorcer les femmes."**
+<details>
+<summary>📜 Voir la réponse</summary>
 
-Ibn 'Umar dit : "Je l'ai donc reprise, et cette répudiation a été comptée."
+**C'est un divorce bid'i.**
 
-**La leçon** : Le Prophète ﷺ ne s'est pas contenté d'expliquer l'erreur, mais a ordonné de la réparer immédiatement. Il a enseigné à la communauté que le divorce a son moment légal. Et Ibn 'Umar رضي الله عنه a continué à rapporter ce hadith et à mettre en garde contre le divorce pendant les menstrues toute sa vie.
+| Problème | Explication |
+|----------|-------------|
+| 🤰 Elle pourrait être enceinte | Sans le savoir |
+| 📅 'Idda confuse | On ne sait pas si c'est 3 cycles ou jusqu'à l'accouchement |
+| ⚠️ Péché | Désobéissance aux règles |
 
----
+**Le divorce compte**, mais il doit se repentir.
 
-## 🎯 Cas pratiques contemporains
+**Ce qu'il aurait dû faire :**
+- Attendre les prochaines menstrues
+- Attendre le tuhr suivant
+- Divorcer SANS avoir de rapport dans ce tuhr
 
-### Premier cas : Le divorce pendant une colère intense
-
-**Question** : J'ai divorcé ma femme trois fois dans un moment de colère intense après une dispute, et je ne savais pas ce que je disais. Quel est le statut ?
-
-**Réponse** : Si la colère t'a fait perdre complètement conscience (état de blocage), le divorce ne prend pas effet. Mais si tu étais conscient de tes paroles malgré la colère, l'avis prépondérant est qu'il prend effet. Il est donc toujours conseillé de quitter les lieux en cas de colère et de chercher refuge auprès d'Allah contre Satan.
-
----
-
-### Deuxième cas : Le divorce par messages
-
-**Question** : J'ai envoyé un message WhatsApp à ma femme où j'ai écrit "Tu es divorcée", puis j'ai regretté. Prend-il effet ?
-
-**Réponse** : Le divorce par écrit prend effet selon la majorité des savants s'il y a intention de divorcer. L'écrit équivaut à la parole pour le divorce. Si c'est la première ou deuxième répudiation, reprends-la avant la fin de la période d'attente.
+</details>
 
 ---
 
-### Troisième cas : Le triple divorce en une fois
+### 🤰 Cas 4 : Divorcer une femme enceinte
 
-**Question** : J'ai dit à ma femme dans une même session : "Tu es divorcée, divorcée, divorcée". Compte-t-il pour trois ou pour un ?
+> **Situation** : Fatima est enceinte de 4 mois. Son mari veut divorcer.
 
-**Réponse** : La question est controversée :
-- **La majorité des savants** : Compte pour trois, c'est l'avis des quatre écoles
-- **Ibn Taymiyyah et Ibn al-Qayyim** : Compte pour un
+**❓ Peut-il ?**
 
-Le plus prudent est de suivre l'avis de la majorité, et il faut consulter un mufti de confiance pour ta situation.
+<details>
+<summary>📜 Voir la réponse</summary>
 
----
+**Oui, c'est permis.**
 
-### Quatrième cas : Le divorce dans une pureté avec rapports
+| Raison | Explication |
+|--------|-------------|
+| ✅ La grossesse est claire | Pas de doute sur son état |
+| 📅 La 'idda est claire | Jusqu'à l'accouchement |
+| ☀️ C'est un divorce sunni | Si c'est un seul divorce |
 
-**Question** : J'ai divorcé ma femme pendant une période de pureté mais j'avais eu des rapports au début de cette pureté. Mon divorce est-il sunnite ?
+**Attention :**
+- Elle a droit au logement et à la nafaqa jusqu'à l'accouchement
+- Si divorce révocable, il peut la reprendre avant l'accouchement
 
-**Réponse** : Non, c'est un divorce innovateur car il a eu lieu dans une pureté où tu l'as touchée. Le divorce sunnite doit être dans une pureté sans rapports. Le divorce prend effet avec péché selon la majorité.
-
----
-
-### Cinquième cas : La menace de divorce
-
-**Question** : Je menace toujours ma femme de divorce lors de chaque dispute sans vouloir vraiment divorcer. Prend-il effet ?
-
-**Réponse** : Si la formule est explicite ("Tu es divorcée"), il prend effet selon la majorité même sans intention réelle. Évite donc de prononcer le divorce par plaisanterie ou menace. Le Prophète ﷺ a dit : **"Trois choses sont sérieuses qu'on soit sérieux ou plaisantin : le mariage, le divorce et la reprise."**
+</details>
 
 ---
 
-## 💡 Pause réflexion
+## 📋 Résumé des Règles
 
-**Question à méditer** :
+### Comment divorcer correctement ?
 
-Pourquoi penses-tu que la Charia a fixé un moment précis pour le divorce (dans une pureté sans rapports) et ne l'a pas laissé à tout moment que veut le mari ?
-
-Médite sur :
-- La sagesse psychologique pour les deux époux
-- La sagesse liée à la période d'attente
-- La sagesse de prévenir la précipitation et le regret
-
-Ces restrictions légales sont une miséricorde, non une contrainte. Elles protègent la famille des décisions précipitées qu'on regrette.
+| Étape | Action |
+|-------|--------|
+| 1️⃣ | Attendre qu'elle soit en **tuhr** (pureté) |
+| 2️⃣ | **Ne pas avoir** de rapport dans ce tuhr |
+| 3️⃣ | Prononcer **UN SEUL** divorce |
+| 4️⃣ | La laisser dans la maison pendant la **'idda** |
+| 5️⃣ | Si repentir : la **reprendre** avant la fin de la 'idda |
 
 ---
 
-## Conclusion
+## 💭 Pause Réflexion
 
-Le divorce sunnite est celui conforme à la Charia : l'homme divorce sa femme d'une seule répudiation pendant une période de pureté sans rapports. Le divorce innovateur est interdit et son auteur pèche, et il prend effet selon la majorité des savants avec le péché. Le musulman est ordonné de suivre la Sunnah en toutes ses affaires, y compris le divorce s'il y est contraint.
+> 🤔 **Question pour toi** :
+>
+> Allah a prescrit une méthode précise pour le divorce. Pourtant, la majorité des musulmans l'ignorent.
+>
+> - Pourquoi n'enseigne-t-on pas ces règles avant le mariage ?
+> - Combien de familles ont été détruites par l'ignorance ?
+> - Quelle est notre responsabilité d'apprendre et d'enseigner ?
 
-Le Prophète ﷺ a dit : **"Allah déteste tout homme et toute femme qui passent d'un mariage à l'autre"** [Rapporté par At-Tabarani — hadith faible selon certains muhaddithun, mais le sens est soutenu par d'autres textes]
+---
+
+## ✅ Résumé de la Leçon
+
+| Type | Caractéristiques |
+|------|------------------|
+| ☀️ **Sunni** | Tuhr sans rapport + un seul divorce |
+| 🌑 **Bid'i** | Menstrues, ou tuhr avec rapport, ou 3 d'un coup |
+| ⚠️ **Bid'i compte ?** | Oui (majorité), mais c'est un péché |
+| 🔧 **Correction** | Reprendre, attendre, puis divorcer correctement |
+
+---
+
+## 🔜 Prochaine Leçon
+
+**La Période d'Attente ('Idda)** : Combien de temps dure-t-elle ? Quelles sont les règles pendant cette période ?
+
+---
+
+*Ô Seigneur, augmente ma science* 📚
 `;

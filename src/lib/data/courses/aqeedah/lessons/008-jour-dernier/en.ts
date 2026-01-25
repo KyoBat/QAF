@@ -1,202 +1,312 @@
 /**
  * Aqeedah - Lesson 008: Belief in the Last Day
- * English Content
+ * English Content - Scholarly and immersive methodology
  */
 
-export const content = `# 📜 Belief in the Last Day (Al-Iman bil-Yawm Al-Akhir)
+export const content = `# 📜 Belief in the Last Day — The Fifth Pillar of Faith
 
 <div class="scene-box">
 
-## The Day When the Sun Will Be a Mile from the Heads
+**🌅 The Day When the Sun Draws Near**
 
-Imagine this scene. It will be a day when the sun does not rise from the east—it blazes directly above people's heads, so close that they will be drowning in their own sweat.
+*That Day, the sun does not rise from the east... It descends upon people's heads...*
 
-The Prophet ﷺ described:
+*Close. Very close. One mile away...*
 
-> *"The sun will be brought near the people on the Day of Resurrection until it is only a mile away. People will be in their sweat according to their deeds: some up to their ankles, some up to their knees, some up to their waists, and some will have the sweat reaching up to their mouths like a bridle."* (Sahih Muslim 2864)
+**The Prophet ﷺ:** « **The sun will be brought near the people on the Day of Resurrection until it is only a mile away.** »
 
-On that day, the dead will emerge from their graves. The heavens will split apart. The mountains will become dust. Every soul will stand alone before Allah, with nothing but their deeds to speak for them.
+**The Prophet ﷺ:** « And people will be in their sweat according to their deeds: some up to their **ankles**, some up to their **knees**, some up to their **waists**, and some will have the sweat **reaching their mouths** like a bridle. »
 
-No one knows the date. Not the angels, not the prophets, not even Muhammad ﷺ.
+*(Sahih Muslim 2864)*
 
-**But what exactly happens on that Day? And how do we prepare for it?**
+*On that Day, the dead emerge from their graves. The heavens split. The mountains become dust. Every soul stands **alone** before Allah...*
+
+*No one knows when. Not the angels. Not the prophets. Not even Muhammad ﷺ.*
+
+> ﴿They ask you about the Hour: when is its arrival? Say: **"Its knowledge is only with my Lord."**﴾ [Al-A'raf: 187]
 
 </div>
 
-## 🔍 Definition
-
-Belief in the Last Day means having firm faith in everything that will happen after death: the punishment and bliss of the grave, the Resurrection, the Gathering, the Judgment, the Balance, the Bridge (Sirat), Paradise and Hell.
-
-## Proof of the obligation of this belief
-
-Allah ﷻ says:
-
-> "Righteousness is not that you turn your faces toward the east or the west, but true righteousness is in one who believes in Allah, the Last Day, the Angels, the Book, and the Prophets." (Al-Baqara 2:177)
+> Belief in the Last Day is the **fifth pillar** of the six pillars of faith.
 
 ---
 
-## 📚 Names of the Last Day in the Quran
+## 📖 The Foundational Hadith
 
-- **Yawm Al-Qiyama** (يوم القيامة): The Day of Resurrection
-- **Yawm Al-Ba'th** (يوم البعث): The Day of Rising
-- **Yawm Ad-Din** (يوم الدين): The Day of Recompense
-- **Yawm Al-Hisab** (يوم الحساب): The Day of Reckoning
-- **Yawm Al-Fasl** (يوم الفصل): The Day of Separation
-- **As-Sa'a** (الساعة): The Hour
-- **Al-Haqqa** (الحاقة): The Inevitable Reality
-- **Al-Qari'a** (القارعة): The Striking Calamity
+<div class="quote-box">
 
----
+**📜 From the Hadith of Jibril**
 
-## What Belief in the Last Day Encompasses
+> **"That you believe in Allah, and His angels, and His Books, and His messengers, and the **Last Day**..."**
 
-### 1️⃣ Death and the Trial of the Grave
+*(Sahih Muslim 8)*
 
-#### The reality of death
-
-> "Every soul will taste death. Then to Us will you be returned." (Al-'Ankabut 29:57)
-
-#### The questioning in the grave
-
-The Prophet ﷺ said:
-
-> "When the deceased is placed in his grave, two angels come to him and ask: 'Who is your Lord? What is your religion? Who is your prophet?'" (Sahih Muslim 2870)
-
-#### The punishment and bliss of the grave
-
-> "The Fire, they are exposed to it morning and evening. And the Day the Hour appears, it will be said: 'Make the people of Pharaon enter the severest punishment.'" (Ghafir 40:46)
-
-The Prophet ﷺ used to seek refuge from the punishment of the grave in every prayer:
-
-> **"O Allah, I seek refuge in You from the punishment of the grave, from the trial of the Dajjal, and from the trials of life and death."**
-> (Sahih Bukhari 1377, Sahih Muslim 588)
+</div>
 
 ---
 
-### 2️⃣ The Signs of the Hour
+## 🌳 The Stages of the Last Day
 
-#### Minor signs (already occurred or occurring)
-
-- The mission of the Prophet ﷺ (last sign before the Hour)
-- The death of the Prophet ﷺ
-- The conquest of Jerusalem
-- The appearance of the Khawarij
-- The spread of ignorance
-- The increase in earthquakes
-- Competition in building tall structures
-
-#### Major signs
-
-The Prophet ﷺ said:
-
-> "The Hour will not come until you see ten signs: the smoke, the Dajjal, the Beast, the rising of the sun from the West, the descent of 'Issa son of Maryam, Gog and Magog, three earth swallowings (in the East, in the West, in the Arabian Peninsula), and a fire that will emerge from Yemen." (Sahih Muslim 2901)
-
----
-
-### 3️⃣ The Resurrection (Al-Ba'th)
-
-> "And it is He who begins creation; then He repeats it, and that is easier for Him." (Ar-Rum 30:27)
-
-The Prophet ﷺ said:
-
-> "The people will be resurrected barefoot, naked, and uncircumcised." (Sahih Al-Bukhari 6527)
+\`\`\`
+              ⏳ THE STAGES OF THE HEREAFTER
+                         │
+    ┌────────────────────┼────────────────────┐
+    │                    │                    │
+ 1️⃣ DEATH           2️⃣ BARZAKH          3️⃣ RESURRECTION
+ Departure of soul   Grave questioning    Trumpet blast
+    │                    │                    │
+    └────────────────────┴────────────────────┘
+                         │
+    ┌────────────────────┼────────────────────┐
+    │                    │                    │
+ 4️⃣ GATHERING       5️⃣ JUDGMENT         6️⃣ BALANCE
+ Assembly on Plain   Books given          Deeds weighed
+    │                    │                    │
+    └────────────────────┴────────────────────┘
+                         │
+    ┌────────────────────┼────────────────────┐
+    │                    │                    │
+ 7️⃣ BASIN           8️⃣ SIRAT            9️⃣ PARADISE or HELL
+ Drink from Hawd     Cross over Fire      Eternal abode
+\`\`\`
 
 ---
 
-### 4️⃣ The Gathering (Al-Hashr)
+## 1️⃣ Death and the Grave
 
-> "The Day the earth will be replaced by another earth, and the heavens as well, and all will come out before Allah, the One, the Prevailing." (Ibrahim 14:48)
+### The Questioning of Munkar and Nakir
 
-The Prophet ﷺ said:
+<div class="scene-box">
 
-> "The people will be gathered on the Day of Resurrection on a white, reddish earth, like a loaf of bread, with no landmarks for anyone." (Sahih Al-Bukhari 6521)
+**⚰️ The Test in the Darkness**
 
----
+*The grave closes. People depart. The deceased hears the footsteps fade...*
 
-### 5️⃣ The Judgment (Al-Hisab)
+*Suddenly, two enormous angels seat him upright...*
 
-> "Then you will surely be asked that Day about pleasure." (At-Takathur 102:8)
+**Munkar & Nakir:** « **Who is your Lord?** »
 
-#### The giving of the books
+**The believer:** « My Lord is Allah. »
 
-> "As for he who is given his record in his right hand, he will say: 'Here, read my record!'" (Al-Haqqa 69:19)
+**Munkar & Nakir:** « **What is your religion?** »
 
-> "But as for he who is given his record in his left hand, he will say: 'Oh, I wish I had not been given my record.'" (Al-Haqqa 69:25)
+**The believer:** « My religion is Islam. »
 
----
+**Munkar & Nakir:** « **Who is this man who was sent among you?** »
 
-### 6️⃣ The Balance (Al-Mizan)
+**The believer:** « He is the Messenger of Allah ﷺ. »
 
-> "And We place the scales of justice for the Day of Resurrection, so no soul will be treated unjustly at all." (Al-Anbiya 21:47)
+*A voice from the heavens:*
 
-The Prophet ﷺ said:
+> **"My servant has spoken the truth! Furnish his grave from Paradise and open for him a gate to Paradise."**
 
-> "Two words are light on the tongue, heavy in the Balance, beloved to the Most Merciful: 'Subhan Allah wa bihamdihi, Subhan Allah Al-'Azim.'" (Sahih Al-Bukhari 6406)
+*As for the disbeliever...*
 
----
+**The disbeliever:** *(stammering)* « Hah... hah... I don't know... I used to say what the people said... »
 
-### 7. The Basin (Al-Hawd)
+*His grave constricts until his ribs interlock...*
 
-The Prophet ﷺ said:
+*(Sahih Muslim 2870)*
 
-> "My basin is as large as the distance between Ayla and Aden (a month's journey). Its water is whiter than milk and sweeter than honey. Its cups are as numerous as the stars of the sky. Whoever drinks from it will never thirst again." (Sahih Al-Bukhari 6579)
-
----
-
-### 8. The Intercession (Ash-Shafa'a)
-
-> "Who is it that can intercede with Him except by His permission?" (Al-Baqara 2:255)
-
-#### The major intercession (Al-Shafa'a Al-'Udhma)
-
-The Prophet ﷺ will intercede for the Judgment to begin.
-
-#### The intercession for believers
-
-The Prophet ﷺ said:
-
-> "My intercession will notably be for the perpetrators of major sins from my community." (Tirmidhi 2435, Sahih)
->
-> *Note: The Prophet's ﷺ intercession applies to his entire community, including those who committed major sins without leaving Islam.*
+</div>
 
 ---
 
-### 9. The Bridge (As-Sirat)
+## 2️⃣ Signs of the Hour
 
-> "And there is none of you except he will come to it. This is upon your Lord an inevitability decreed." (Maryam 19:71)
+<div class="quote-box">
 
-The Prophet ﷺ said:
+**📜 The Ten Major Signs**
 
-> "The Sirat will be set up over Hell. I will be the first of the messengers to cross with my community." (Sahih Muslim 195)
+> **"The Hour will not come until you see ten signs: the Smoke, the Dajjal, the Beast, the sun rising from the West, the descent of 'Issa son of Maryam, Gog and Magog, and three earthquakes... and a fire from Yemen."**
 
----
+*(Sahih Muslim 2901)*
 
-### 10. Paradise and Hell
-
-#### Paradise (Al-Janna)
-
-> "Those who believe and do righteous deeds - We will admit them to gardens beneath which rivers flow, wherein they abide forever." (An-Nisa 4:57)
-
-The Prophet ﷺ said:
-
-> "Allah said: 'I have prepared for My righteous servants what no eye has seen, no ear has heard, and what the heart of no man has conceived.'" (Sahih Al-Bukhari 3244)
-
-#### Hell (An-Nar / Jahannam)
-
-> "Indeed, Allah has cursed the disbelievers and prepared for them a Blaze, abiding therein forever." (Al-Ahzab 33:64)
-
-> "Every time their skins are roasted through We will replace them with other skins so they may taste the punishment." (An-Nisa 4:56)
+</div>
 
 ---
 
-## The Effects of Believing in the Last Day
+## 3️⃣ The Resurrection
 
-1. **Fear of Allah**: By remembering the Judgment
-2. **Hope in His mercy**: By hoping for Paradise
-3. **Preparation for the Hereafter**: Through good deeds
-4. **Detachment from this world**: By knowing it is temporary
-5. **Patience in trials**: While awaiting the reward
-6. **Justice**: By knowing that everything will be judged fairly
+<div class="scene-box">
+
+**🎺 The Blowing of the Trumpet**
+
+*Israfil blows the first blast — everything dies...*
+
+*Then the second blast:*
+
+> ﴿Then it will be blown again, and behold, they will be **standing, looking on**﴾ [Az-Zumar: 68]
+
+*Graves open... Bodies reassembled from the tailbone...*
+
+**The Prophet ﷺ:** « People will be resurrected barefoot, naked, and uncircumcised. »
+
+**'Aisha رضي الله عنها:** « Men and women looking at each other?! »
+
+**The Prophet ﷺ:** « O 'Aisha, **the matter is too serious for them to look at each other!** »
+
+*(Sahih Al-Bukhari 6527)*
+
+</div>
+
+---
+
+## 5️⃣ The Judgment and Books
+
+<div class="scene-box">
+
+**📖 Two Destinies**
+
+*He who receives his book in his right hand:*
+
+> ﴿As for he who is given his record **in his right hand**, he will say: "Here, **read my record!**"﴾ [Al-Haqqa: 19]
+
+*Showing his book to everyone with joy...*
+
+*He who receives his book in his left hand, behind his back:*
+
+> ﴿But as for he who is given his record **in his left hand**, he will say: "I wish I had not been given my record. And had not known what is my account. I wish **death** had been the end!"﴾ [Al-Haqqa: 25-27]
+
+</div>
+
+---
+
+## 6️⃣ The Balance
+
+<div class="scene-box">
+
+**⚖️ The Man with 99 Registers**
+
+*A man is brought on the Day of Judgment... **99 registers** of sins are unfolded—each stretching as far as the eye can see...*
+
+**Allah:** « Do you have any excuse? »
+
+**The man:** *(despairing)* « No, my Lord... »
+
+*Then a **card** is brought out: **La ilaha illa Allah***
+
+**The man:** « O Lord, what can this card do against all these registers?! »
+
+*The registers are placed on one side... the card on the other...*
+
+*The registers fly up! The card outweighs them!*
+
+**The Prophet ﷺ:** « Nothing outweighs the Name of Allah. »
+
+*(Tirmidhi 2639)*
+
+</div>
+
+---
+
+## 7️⃣ The Basin (Hawd)
+
+<div class="quote-box">
+
+**📜 The Prophet's ﷺ Basin**
+
+> **"My Basin is as large as a month's journey. Its water is whiter than milk, its fragrance sweeter than musk, and its cups are like the stars of the sky. Whoever drinks from it will **never thirst again**."**
+
+*(Sahih Al-Bukhari 6579)*
+
+</div>
+
+---
+
+## 8️⃣ The Sirat (Bridge)
+
+> ﴿And there is none of you except he **will come to it**. This is upon your Lord an inevitability decreed.﴾ [Maryam: 71]
+
+<div class="quote-box">
+
+**📜 Description of the Sirat**
+
+**The Prophet ﷺ:** « The Sirat will be set over the midst of Hell. I will be the **first** of the messengers to cross with my community. »
+
+*(Sahih Muslim 195)*
+
+*Sharper than a sword, thinner than a hair. People cross according to their deeds: like lightning, like wind, like a racing horse, and some crawl...*
+
+</div>
+
+---
+
+## 9️⃣ Paradise and Hell
+
+### 🌴 Paradise
+
+<div class="scene-box">
+
+**🎭 What No Eye Has Seen**
+
+**Allah said:** « I have prepared for My righteous servants what **no eye has seen, no ear has heard, and what has never occurred to a human heart**. »
+
+*(Sahih Al-Bukhari 3244)*
+
+</div>
+
+> ﴿Faces that Day will be radiant. Looking at **their Lord**.﴾ [Al-Qiyamah: 22-23]
+
+**The greatest joy: Seeing Allah ﷻ**
+
+### 🔥 Hell
+
+> ﴿Every time their skins are roasted through, We will **replace them with other skins** so they may taste the punishment.﴾ [An-Nisa: 56]
+
+---
+
+## 🛡️ Refutations of Doubts
+
+### Doubt: "Resurrection is impossible"
+
+**✅ Refutation:**
+
+> ﴿Is not He who created the heavens and the earth Able to **create the likes of them**?﴾ [Ya-Sin: 81]
+
+| Argument | Answer |
+|----------|--------|
+| Impossible | He who created from nothing can recreate |
+| Dead earth | Rain brings it back to life |
+
+---
+
+## 🎯 Contemporary Applications
+
+### Case 1: "Enjoy life!"
+
+**Situation:** A friend says: "There's no life after this. Enjoy!"
+
+**Answer:** ❌ He forgot the Hereafter!
+
+> ﴿Rather you prefer the worldly life, while the Hereafter is **better and more lasting**.﴾ [Al-A'la: 16-17]
+
+---
+
+## ✅ Summary
+
+| Element | Detail |
+|---------|--------|
+| **Pillar** | Fifth of the six pillars of faith |
+| **Stages** | Death → Barzakh → Resurrection → Judgment → Paradise or Hell |
+| **Signs** | Minor (some passed) + Major (coming) |
+| **Balance** | Deeds weighed, card of Tawhid outweighs |
+| **Sirat** | Bridge over Hell |
+| **Our duty** | Prepare with righteous deeds |
+
+---
+
+## 🤲 Supplication
+
+<div class="quote-box">
+
+> **O Allah, I seek refuge in You from the punishment of the grave, from the punishment of Hell, from the trials of life and death, and from the evil of the trial of the Dajjal.**
+
+*(Sahih Al-Bukhari 1377)*
+
+</div>
+
+**O Lord, increase me in knowledge!** 📖`
 
 ---
 

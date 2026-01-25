@@ -1,328 +1,498 @@
-export const contentFr = `
-# Les Types de Divorce
+/**
+ * Fiqh Familial - Leçon 007: Les Types de Divorce
+ * Contenu en Français - Version immersive
+ */
 
-## Introduction
+export const contentFr = `# 💔 Les Types de Divorce — Comprendre pour Éviter
 
-Le divorce est la dissolution du contrat de mariage par une formule spécifique. Il est légal mais c'est la chose licite la plus détestée par Allah. Le divorce a plusieurs types selon qu'il est explicite ou implicite, révocable ou irrévocable.
-
-Le Prophète ﷺ a dit : **"La chose licite la plus détestée auprès d'Allah est le divorce"** [Rapporté par Abu Dawud]
+> **« Le divorce peut être prononcé deux fois : alors, soit la reprise de manière convenable, soit la séparation de bonne grâce. »**
+>
+> — **[Al-Baqarah : 229]**
 
 ---
 
-## Types de Divorce selon la Formule
+## 🎬 Introduction
 
-### Premièrement : Le Divorce Explicite
+### La chose licite la plus détestée
+
+> Le Prophète ﷺ a dit :
+>
+> **« La chose licite la plus détestée d'Allah est le divorce. »**
+>
+> — **[Rapporté par Abû Dâwûd]**
+
+### 🎭 Scène : Deux façons de divorcer
+
+**Scène 1 — Le divorce dans l'ignorance**
+
+> Ahmad est en colère. Il hurle : *« Tu es divorcée ! Tu es divorcée ! Tu es divorcée ! »*
+>
+> Sa femme pleure. Les enfants ne comprennent pas.
+>
+> Le lendemain, il regrette. Il dit : *« Je ne pensais pas ce que j'ai dit... »*
+
+❓ **Est-elle vraiment divorcée ?** Combien de fois ? Peut-il la reprendre ?
+
+---
+
+**Scène 2 — Le divorce selon la Sunna**
+
+> Youssef et Fatima ont tout essayé. L'arbitrage a échoué. La vie ensemble est devenue impossible.
+>
+> Youssef attend qu'elle soit en période de pureté (pas de menstrues). Il n'a pas eu de rapports avec elle.
+>
+> Il dit calmement : *« Tu es divorcée. »* **Une seule fois.**
+>
+> Il la laisse dans la maison pendant sa 'idda. Si dans 3 mois ils veulent se réconcilier, il peut la reprendre.
+
+✅ **C'est le divorce sunni (conforme à la Sunna).**
+
+> 🎯 **L'ignorance des règles du divorce cause des drames dans des milliers de foyers musulmans.**
+
+---
+
+## 📊 Classification des Types de Divorce
+
+| Critère | Types |
+|---------|-------|
+| 🗣️ **Selon la formule** | Explicite (sarîh) — Allusif (kinâya) |
+| 🔄 **Selon la révocabilité** | Révocable (raj'î) — Irrévocable mineur — Irrévocable majeur |
+| ⏱️ **Selon l'effet** | Immédiat — Conditionnel — Différé |
+| 🔢 **Selon le nombre** | Un, deux, ou trois |
+
+---
+
+## 🗣️ Types selon la FORMULE
+
+### 1️⃣ Le Divorce Explicite (At-Talâq as-Sarîh)
 
 #### Définition
-C'est ce qui ne peut signifier autre chose que le divorce et ne nécessite pas d'intention.
 
-#### Ses Formules
+Des mots qui ne signifient **que le divorce** et rien d'autre.
 
 | Formule | Exemple |
 |---------|---------|
-| Talaq | "Tu es divorcée", "Je t'ai divorcée" |
-| Tatliq | "Je t'ai répudiée" |
-| Mutallaqah | "Tu es répudiée" |
+| طالق | « Tu es divorcée » (Anti tâliq) |
+| طلقتك | « Je t'ai divorcée » (Tallaqtuki) |
+| أنت مطلقة | « Tu es répudiée » |
 
-#### Son Statut
-- Le divorce prend effet dès la prononciation
-- Ne nécessite pas d'intention
-- L'allégation du contraire n'est pas acceptée
+#### Règle
 
-### Deuxièmement : Le Divorce par Allusion (Kinayah)
+| Aspect | Statut |
+|--------|--------|
+| ❌ **Pas besoin d'intention** | Les mots suffisent |
+| ⚡ **Effet immédiat** | Dès la prononciation |
+| 🚫 **Pas de retour en arrière** | « Je ne voulais pas dire ça » ne compte pas |
 
-#### Définition
-C'est ce qui peut signifier le divorce ou autre chose et nécessite une intention.
+> ⚠️ **Attention** : Dire « tu es divorcée » même en plaisantant = divorce !
 
-#### Exemples de Formules d'Allusion
-
-**Allusion apparente :**
-- Tu es définitivement séparée
-- Tu m'es interdite
-- Rejoins ta famille
-- Observe ton délai de viduité
-
-**Allusion cachée :**
-- Sors
-- Va-t'en
-- Tu es seule
-
-#### Son Statut
-
-| Situation | Statut |
-|-----------|--------|
-| Avec intention de divorce | Le divorce prend effet |
-| Sans intention | Le divorce ne prend pas effet |
-| Avec indice | On juge selon l'indice |
+> Le Prophète ﷺ a dit :
+>
+> **« Trois choses, qu'on les dise sérieusement ou en plaisantant, sont prises au sérieux : le mariage, le divorce, et la reprise. »**
+>
+> — **[Rapporté par Abû Dâwûd]**
 
 ---
 
-## Types de Divorce selon la Révocabilité
-
-### Premièrement : Le Divorce Révocable
+### 2️⃣ Le Divorce Allusif (At-Talâq bil-Kinâya)
 
 #### Définition
-C'est le divorce où le mari a le droit de reprendre sa femme pendant la période d'attente sans nouveau contrat.
 
-#### Ses Conditions
-1. Qu'il soit après la consommation
-2. Qu'il soit avant la troisième répudiation
-3. Qu'il ne soit pas contre compensation (khul')
-4. Que la femme soit dans la période d'attente
+Des mots qui **peuvent** signifier le divorce OU autre chose. L'intention détermine.
 
-#### Statuts du Divorce Révocable
+#### Exemples
 
-| Statut | Détails |
-|--------|---------|
-| La reprise | Droit du mari pendant la période d'attente sans sa permission |
-| Maintien du mariage | Elle reste légalement épouse pendant la période d'attente |
-| Pension et logement | Elle y a droit pendant la période d'attente |
-| Héritage | Chacun hérite de l'autre pendant la période d'attente |
-| L'intimité | Il peut être en privé avec elle |
+| Type | Formules |
+|------|----------|
+| 🔵 **Allusion claire** | « Tu es séparée de moi », « Rejoins ta famille », « Tu m'es interdite » |
+| 🟡 **Allusion subtile** | « Sors », « Va-t'en », « C'est fini entre nous » |
 
-#### Comment Effectuer la Reprise
-
-**Par la parole :**
-- "Je t'ai reprise" ou "Je t'ai ramenée"
-- "Je t'ai gardée" ou "Je t'ai rendue"
-
-**Par l'acte :**
-- Les rapports avec l'intention de reprise
-- Le baiser ou le toucher avec désir avec l'intention de reprise
-
-**Le témoignage :**
-- Recommandé selon la majorité
-- Allah dit : **"Et prenez deux témoins parmi vous"** [At-Talaq : 2]
-
-### Deuxièmement : Le Divorce Irrévocable
-
-#### Définition
-C'est le divorce où le mari ne peut reprendre sa femme qu'avec un nouveau contrat, ou ne peut pas du tout.
-
-#### Types de Divorce Irrévocable
-
-**1. Irrévocable Mineur :**
+#### Règle
 
 | Situation | Statut |
 |-----------|--------|
-| Divorce avant consommation | Irrévocable mineur |
-| Fin de la période d'attente | Elle devient irrévocable mineur |
-| Le khul' | Irrévocable mineur |
+| ✅ Avec intention de divorcer | Le divorce compte |
+| ❌ Sans intention | Le divorce ne compte pas |
+| 🤔 Avec contexte de dispute | On juge selon le contexte |
 
-**Son statut :**
-- Nécessite un nouveau contrat et une nouvelle dot
-- Avec son consentement et celui de son tuteur
-- Ne nécessite pas de muhallil
-
-**2. Irrévocable Majeur :**
-
-C'est la troisième répudiation.
-
-Allah dit : **"Le divorce peut être prononcé deux fois : alors, soit la reprise de manière convenable, soit la séparation de bonne grâce"** [Al-Baqarah : 229]
-
-Et Allah dit : **"S'il la répudie, elle ne lui sera plus licite tant qu'elle n'aura pas épousé un autre mari"** [Al-Baqarah : 230]
-
-**Son statut :**
-- Elle ne lui est pas licite jusqu'à ce qu'elle épouse un autre mari d'un mariage valide
-- Le mariage doit être par désir, non un mariage de complaisance
-- Le second mari doit consommer le mariage réellement
-- Le second mari la divorce ou décède
-- Sa période d'attente du second se termine
-- Puis elle devient licite au premier avec un nouveau contrat
+> 💡 **Exemple** : Un homme dit à sa femme « Rejoins ta famille ». S'il voulait qu'elle aille leur rendre visite = pas de divorce. S'il voulait la renvoyer = divorce.
 
 ---
 
-## Types de Divorce selon l'Effet
+## 🔄 Types selon la RÉVOCABILITÉ
 
-### 1. Le Divorce Immédiat
+### 1️⃣ Le Divorce Révocable (At-Talâq ar-Raj'î)
 
-C'est ce qui n'est pas conditionné, mais prend effet immédiatement.
+#### Définition
 
-**Exemple :** "Tu es divorcée"
+Le mari peut **reprendre** sa femme pendant la 'idda **sans nouveau contrat**.
 
-### 2. Le Divorce Conditionnel
+#### Conditions
 
-C'est ce qui est conditionné à une condition ou une description.
+| Condition | Explication |
+|-----------|-------------|
+| 💍 Après consommation | S'il n'y a pas eu de rapports, pas de 'idda, donc pas de reprise |
+| 1️⃣ ou 2️⃣ Avant le 3ème divorce | Le 3ème est définitif |
+| 💰 Sans compensation | Le khul' rend le divorce irrévocable |
+| ⏳ Pendant la 'idda | Après la 'idda, c'est fini |
 
-**Exemple :** "Si tu sors de la maison, tu es divorcée"
+#### Ce qui reste pendant la 'idda
 
-**Types de Conditions :**
+| Droit | Statut |
+|-------|--------|
+| 🏠 **Logement** | Elle reste dans la maison conjugale |
+| 💰 **Nafaqa** | Le mari continue de subvenir |
+| 🏛️ **Héritage** | S'il meurt pendant la 'idda, elle hérite |
+| 💑 **Elle reste « épouse »** | Juridiquement, le lien existe encore |
 
-| Type | Statut |
-|------|--------|
-| Condition possible | Prend effet à la réalisation de la condition |
-| Condition impossible | Ne prend pas effet |
-| Condition pour encourager ou empêcher | Les savants divergent |
+#### Comment reprendre ?
 
-**Avis des savants sur la condition pour encourager ou empêcher :**
+| Par la parole | Par l'acte |
+|---------------|-----------|
+| « Je te reprends » | Rapport intime avec intention de reprise |
+| « Je te ramène » | Baiser ou toucher avec désir + intention |
+| « Je te garde » | |
 
-| Avis | Partisans |
+> 💡 **Le témoignage est recommandé** :
+>
+> **« Si elle retourne, gardez-la convenablement ou séparez-vous d'elle convenablement. Et prenez deux témoins parmi vous. »** [At-Talâq : 2]
+
+---
+
+### 2️⃣ Le Divorce Irrévocable Mineur (Al-Bâ'in Baynûna Sughrâ)
+
+#### Définition
+
+Le mari ne peut reprendre qu'avec un **nouveau contrat** et une **nouvelle dot**.
+
+#### Cas où ça s'applique
+
+| Cas | Explication |
+|-----|-------------|
+| 💍 Divorce avant consommation | Pas de 'idda, donc directement irrévocable |
+| ⏳ Après fin de la 'idda | La période de reprise est passée |
+| 💰 Khul' | Divorce contre compensation |
+
+#### Comment se remarier ?
+
+| Étape | Détail |
+|-------|--------|
+| 1️⃣ | La 'idda doit être terminée |
+| 2️⃣ | Consentement de la femme |
+| 3️⃣ | Nouveau contrat avec tuteur et témoins |
+| 4️⃣ | Nouvelle dot |
+
+> ✅ **Pas besoin qu'elle épouse un autre homme.** C'est différent du 3ème divorce.
+
+---
+
+### 3️⃣ Le Divorce Irrévocable Majeur (Al-Bâ'in Baynûna Kubrâ)
+
+#### Définition
+
+Après **3 divorces**, elle ne lui est plus licite SAUF si elle épouse un autre homme d'un vrai mariage.
+
+> **« S'il la répudie [la 3ème fois], elle ne lui sera plus licite tant qu'elle n'aura pas épousé un autre mari. »**
+>
+> — **[Al-Baqarah : 230]**
+
+#### 🎭 Scène dramatique
+
+> Ahmad a divorcé Fatima trois fois au fil des années. Il regrette profondément. Il veut la reprendre.
+>
+> **Peut-il la reprendre ?**
+
+❌ **NON.** Pas directement.
+
+#### Les conditions pour redevenir licite
+
+| Étape | Condition |
+|-------|-----------|
+| 1️⃣ | Elle épouse un **autre homme** |
+| 2️⃣ | Ce mariage doit être **réel**, pas de tahlîl |
+| 3️⃣ | Le second mari doit **consommer** le mariage |
+| 4️⃣ | Le second mari **divorce** ou **meurt** |
+| 5️⃣ | Elle termine sa **'idda** du second |
+| 6️⃣ | ALORS elle peut revenir au premier avec nouveau contrat |
+
+> ⚠️ **Le mariage tahlîl** (juste pour la « rendre licite ») est **maudit** et **ne compte pas**.
+
+#### 🎯 Sagesse de cette règle
+
+| Raison | Explication |
+|--------|-------------|
+| 🛑 **Freiner le divorce** | L'homme réfléchit avant le 3ème |
+| 👩 **Protéger la femme** | Elle n'est pas un jouet qu'on prend et jette |
+| 🏠 **Encourager la réconciliation** | Avant le 3ème, on peut toujours revenir |
+
+---
+
+## ⏱️ Types selon l'EFFET
+
+### 1️⃣ Le Divorce Immédiat (At-Talâq al-Munjaz)
+
+| Caractéristique | Exemple |
+|-----------------|---------|
+| Pas de condition | « Tu es divorcée » |
+| Effet instantané | Dès la prononciation |
+
+### 2️⃣ Le Divorce Conditionnel (At-Talâq al-Mu'allaq)
+
+#### Définition
+
+Le divorce est suspendu à une **condition**.
+
+| Exemple | Condition |
+|---------|-----------|
+| « Si tu sors de la maison, tu es divorcée » | La sortie |
+| « Si tu parles à untel, tu es divorcée » | Parler à cette personne |
+
+#### Règle
+
+| Situation | Statut |
+|-----------|--------|
+| La condition se réalise | Le divorce prend effet |
+| La condition ne se réalise pas | Pas de divorce |
+
+#### ⚠️ Divergence savante
+
+| Avis | Explication |
+|------|-------------|
+| 🔵 **Majorité** | Le divorce compte si la condition est remplie |
+| 🟡 **Ibn Taymiyya** | Si le but était de menacer (pas vraiment divorcer), c'est un serment qui nécessite une expiation (kaffâra), pas un divorce |
+
+> 💡 **Conseil** : Ne JAMAIS utiliser le divorce comme menace. C'est dangereux.
+
+### 3️⃣ Le Divorce Différé (At-Talâq al-Mudâf)
+
+| Caractéristique | Exemple |
+|-----------------|---------|
+| Lié à un moment futur | « Tu seras divorcée le mois prochain » |
+| Prend effet à ce moment | Au début du mois mentionné |
+
+---
+
+## 🔢 Types selon le NOMBRE
+
+### Le comptage des divorces
+
+> **« Le divorce peut être prononcé deux fois : alors, soit la reprise de manière convenable, soit la séparation de bonne grâce. »**
+>
+> — **[Al-Baqarah : 229]**
+
+| Nombre | Statut |
+|--------|--------|
+| 1️⃣ Premier divorce | Révocable — Reprise possible |
+| 2️⃣ Deuxième divorce | Révocable — Reprise possible |
+| 3️⃣ Troisième divorce | IRRÉVOCABLE MAJEUR — Fini |
+
+### ⚠️ Le piège du triple divorce en une fois
+
+> Ahmad dit en colère : « Tu es divorcée, divorcée, divorcée ! » ou « Tu es divorcée trois fois ! »
+
+**❓ Ça compte comme combien ?**
+
+| Avis | Explication |
+|------|-------------|
+| 🔵 **Majorité des 4 écoles** | Compte comme **3 divorces** = irrévocable majeur |
+| 🟡 **Ibn Taymiyya, Ibn al-Qayyim** | Compte comme **1 divorce** = révocable |
+
+> 💡 **L'avis de la majorité** est plus prudent. C'est pourquoi il ne faut JAMAIS prononcer le divorce dans la colère, et JAMAIS le répéter.
+
+---
+
+## 🎭 Récit : Le divorce d'Ibn 'Umar
+
+**Ibn 'Umar** (qu'Allah les agrée) divorça sa femme **pendant ses menstrues**. Son père 'Umar en informa le Prophète ﷺ.
+
+Le Prophète ﷺ se mit en colère et dit :
+
+> **« Ordonne-lui de la reprendre, puis de la garder jusqu'à ce qu'elle soit purifiée, puis qu'elle ait ses menstrues, puis qu'elle soit purifiée à nouveau. Ensuite, s'il veut, il la garde, et s'il veut, il la divorce avant de la toucher. C'est la 'idda pour laquelle Allah a ordonné de divorcer les femmes. »**
+>
+> — **[Bukhari et Muslim]**
+
+### 🎯 Leçons
+
+| Leçon | Application |
+|-------|-------------|
+| 📅 Le timing compte | Pas pendant les menstrues |
+| ⏳ Attendre | Après une période de pureté sans rapports |
+| 🔧 Corriger l'erreur | Il a ordonné de la reprendre |
+
+---
+
+## 📊 Tableau Récapitulatif
+
+| Type | Caractéristique | Reprise possible ? |
+|------|-----------------|-------------------|
+| 🔵 **Révocable** | 1er ou 2ème divorce, pendant la 'idda | ✅ Oui, sans contrat |
+| 🟡 **Irrévocable mineur** | Avant consommation, après 'idda, khul' | ✅ Oui, avec nouveau contrat |
+| 🔴 **Irrévocable majeur** | 3ème divorce | ❌ Non, sauf mariage intermédiaire |
+
+---
+
+## 🎯 Cas Pratiques Contemporains
+
+### 😤 Cas 1 : Le divorce dans la colère extrême
+
+> **Situation** : Ahmad est dans une rage folle. Il ne sait plus ce qu'il dit. Il crie « Tu es divorcée ! » puis s'évanouit presque de colère.
+
+**❓ Le divorce compte-t-il ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Divergence savante :**
+
+| Niveau de colère | Statut |
+|------------------|--------|
+| 🟢 **Colère légère** | Le divorce **compte** |
+| 🟡 **Colère intense mais conscient** | Le divorce **compte** (majorité) |
+| 🔴 **Colère qui fait perdre la raison** | Le divorce **ne compte pas** |
+
+**Critères de la « perte de raison » :**
+- Il ne savait vraiment pas ce qu'il disait
+- Il ne se souvient pas de l'avoir dit
+- Témoignages de son état anormal
+
+> ⚠️ Beaucoup prétendent être « fous de colère » pour annuler. C'est devant Allah qu'on rendra des comptes.
+
+</details>
+
+---
+
+### 📱 Cas 2 : Le divorce par SMS
+
+> **Situation** : Youssef envoie à sa femme : « Tu es divorcée » par WhatsApp.
+
+**❓ Le divorce compte-t-il ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Oui, le divorce compte.**
+
+| Raison | Explication |
+|--------|-------------|
+| 📝 L'écrit = formule explicite | C'est comme une parole |
+| 🆔 C'est bien lui qui l'a envoyé | Identifiable |
+| ⚡ Effet immédiat | Dès l'envoi |
+
+> ⚠️ Les moyens modernes (SMS, email, message vocal) sont des moyens de communication valides pour le divorce.
+
+</details>
+
+---
+
+### 🔄 Cas 3 : Le triple divorce en une fois
+
+> **Situation** : Khalid dit : « Tu es divorcée trois fois ! » C'est la première fois qu'il divorce.
+
+**❓ Peut-il la reprendre ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Deux avis :**
+
+| Avis | Conséquence |
+|------|-------------|
+| 🔵 **Majorité (4 écoles)** | 3 divorces = Irrévocable majeur = Elle doit épouser un autre |
+| 🟡 **Ibn Taymiyya** | 1 divorce = Révocable = Il peut la reprendre |
+
+**En pratique :**
+- Les tribunaux de certains pays appliquent l'avis de la majorité
+- D'autres appliquent l'avis d'Ibn Taymiyya
+- Consulter un savant compétent est essentiel
+
+> 💡 **La meilleure solution** : Ne JAMAIS prononcer « trois » en une fois !
+
+</details>
+
+---
+
+### 🗣️ Cas 4 : « Rejoins ta famille ! »
+
+> **Situation** : En pleine dispute, Ahmad dit à sa femme : « Rejoins ta famille ! » Elle part chez ses parents.
+
+**❓ Est-elle divorcée ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**C'est une allusion (kinâya). L'intention détermine.**
+
+| Il voulait dire... | Statut |
+|--------------------|--------|
+| « Va chez eux te calmer » | ❌ Pas de divorce |
+| « C'est fini, pars définitivement » | ✅ Divorce |
+
+**Comment savoir ?**
+- On lui demande son intention
+- Le contexte aide à comprendre
+- En cas de doute, le mariage reste intact
+
+</details>
+
+---
+
+### 😱 Cas 5 : « Si tu sors, tu es divorcée ! »
+
+> **Situation** : Youssef dit à sa femme : « Si tu sors de cette maison, tu es divorcée ! » Elle sort le lendemain.
+
+**❓ Est-elle divorcée ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Divergence célèbre :**
+
+| Avis | Explication |
+|------|-------------|
+| 🔵 **Majorité** | Elle est divorcée — la condition est remplie |
+| 🟡 **Ibn Taymiyya** | Si le but était de **menacer** (pas de vraiment divorcer), c'est un **serment**. Il fait une kaffâra (expiation de serment) mais elle n'est pas divorcée |
+
+**Conseil :**
+- Consulter un mufti
+- Appliquer l'avis le plus prudent selon les circonstances
+- Ne plus JAMAIS utiliser le divorce comme menace
+
+</details>
+
+---
+
+## 💭 Pause Réflexion
+
+> 🤔 **Question pour toi** :
+>
+> Le Prophète ﷺ a dit que le divorce est « la chose licite la plus détestée d'Allah ».
+>
+> Pourtant, beaucoup de musulmans prononcent le divorce :
+> - Dans la colère
+> - Sans connaître les règles
+> - Sans réfléchir aux conséquences
+>
+> **Réfléchis** : Comment pouvons-nous éduquer notre communauté sur l'importance de ces règles AVANT le mariage ?
+
+---
+
+## ✅ Résumé de la Leçon
+
+| Type | À retenir |
 |------|-----------|
-| Le divorce prend effet | La majorité |
-| Ne prend pas effet et il expie | Cheikh al-Islam Ibn Taymiyyah |
-
-### 3. Le Divorce Différé
-
-C'est ce qui est reporté à un temps futur.
-
-**Exemple :** "Tu es divorcée demain"
-
-**Son statut :** Le divorce prend effet à l'arrivée de ce temps.
+| 🗣️ **Explicite** | Divorce direct, pas besoin d'intention |
+| 🤫 **Allusif** | Dépend de l'intention |
+| 🔄 **Révocable** | Reprise possible pendant la 'idda |
+| 🔐 **Irrévocable mineur** | Nouveau contrat nécessaire |
+| 🚫 **Irrévocable majeur** | 3ème divorce — mariage intermédiaire requis |
 
 ---
 
-## Types de Divorce selon le Nombre
+## 🔜 Prochaine Leçon
 
-### Le Divorce Unique
-
-- Une seule répudiation prend effet
-- Il conserve le droit de reprise pendant la période d'attente
-
-### Le Divorce Double
-
-- Deux répudiations prennent effet
-- Il lui reste une seule répudiation
-
-### Le Triple Divorce
-
-**Les savants divergent :**
-
-| Avis | Preuve |
-|------|--------|
-| Compte pour trois (majorité) | Le sens apparent du verset et des hadiths |
-| Compte pour un (un avis) | Le hadith d'Ibn Abbas à l'époque d'Omar |
-
-**Le plus prudent :** Qu'il compte pour trois, surtout si prononcé en sessions séparées.
+**Le Divorce Sunni et Bid'i** : Quel est le divorce conforme à la Sunna ? Quels divorces sont des innovations blâmables ?
 
 ---
 
-## Statuts Liés au Divorce
-
-### Le Divorce de l'Homme en Colère
-
-| État de Colère | Statut |
-|----------------|--------|
-| Colère qui fait perdre la conscience | Ne prend pas effet |
-| Colère intense qui bloque l'esprit | Ne prend pas effet |
-| Colère normale | Prend effet |
-
-### Le Divorce du Plaisantin
-
-Le Prophète ﷺ a dit : **"Trois choses sont sérieuses qu'on soit sérieux ou plaisantin : le mariage, le divorce et la reprise"** [Rapporté par Abu Dawud]
-
-**Son statut :** Le divorce prend effet même en plaisantant.
-
-### Le Divorce du Contraint
-
-- Ne prend pas effet selon la majorité
-- Le Prophète ﷺ a dit : **"Ma communauté est exemptée de l'erreur, de l'oubli et de ce à quoi on les force"** [Rapporté par Ibn Majah]
-
----
-
-## Conclusion
-
-Le divorce a plusieurs types, et chaque type a ses propres statuts. Le musulman doit apprendre ces statuts avant de procéder au divorce, prendre son temps et consulter Allah, car le divorce est la dernière solution, pas la première.
-
----
-
-## 📖 Récits des Salaf : La sagesse de 'Umar ibn al-Khattab
-
-Un homme vint se plaindre de sa femme à 'Umar ibn al-Khattab رضي الله عنه. Il s'arrêta à sa porte et entendit la femme de 'Umar élever la voix contre lui. L'homme s'en alla.
-
-'Umar sortit et le vit partir. Il lui dit : **"Quel est ton besoin ?"**
-
-L'homme répondit : "Je suis venu me plaindre de ma femme, mais j'ai entendu la tienne !"
-
-'Umar lui dit : **"Ô mon frère ! Elle cuisine pour moi, fait le pain, lave mes vêtements et allaite mon enfant, alors que rien de cela ne lui est obligatoire. Et mon cœur trouve auprès d'elle la sérénité qui me préserve de l'illicite. Ne devrais-je pas la supporter ?!"**
-
-**La leçon** : La patience et l'indulgence sont les fondements de la pérennité du mariage.
-
----
-
-## 🎯 Cas pratiques contemporains
-
-### Cas 1 : Le divorce par WhatsApp
-
-**Ahmad** a envoyé à sa femme un message WhatsApp : "Tu es divorcée, divorcée, divorcée !"
-
-**Question** : Le divorce prend-il effet ? Combien de répudiations ?
-
-**Réponse** :
-- ✅ **Le divorce prend effet** — L'écrit équivaut à la parole s'il y a intention
-- ⚠️ **Le nombre** : Divergence entre savants (trois selon la majorité, une selon d'autres)
-- 💡 **Le plus prudent** : Considérer trois, surtout s'il visait les trois
-
----
-
-### Cas 2 : "Tu es divorcée si tu sors !"
-
-**Muhammad** a dit à sa femme en colère : "Si tu sors de la maison, tu es divorcée !" Puis elle est sortie visiter sa mère malade.
-
-**Question** : Le divorce a-t-il pris effet ?
-
-**Réponse** :
-- C'est un **divorce conditionnel**
-- Si la condition se réalise (la sortie) : le divorce prend effet
-- ⚠️ **Mais** : S'il visait la menace et non le divorce = certains savants le considèrent comme un serment
-
----
-
-### Cas 3 : "J'étais très en colère"
-
-**Khalid** a divorcé sa femme dans un moment de colère intense après une dispute, puis a regretté immédiatement.
-
-**Question** : Le divorce prend-il effet ?
-
-**Réponse** :
-- **Colère normale** : Le divorce prend effet
-- **Colère intense bloquant l'esprit** : Ne prend pas effet (nécessite preuve)
-- ✅ **L'obligatoire** : Consulter un savant ou un mufti
-
-> Le Prophète ﷺ a dit : **"Pas de divorce ni d'affranchissement dans l'état de blocage mental"** [Ahmad]
-
----
-
-### Cas 4 : Le divorce pendant les menstrues
-
-**Omar** a divorcé sa femme alors qu'elle était en période de menstrues.
-
-**Question** : Le divorce prend-il effet ?
-
-**Réponse** :
-- ✅ **Prend effet avec péché** — selon la majorité des savants
-- ❌ **Ne prend pas effet** — selon Ibn Taymiyyah et Ibn al-Qayyim
-- 🔴 **Le divorce pendant les menstrues = divorce innovateur interdit**
-
----
-
-## 📖 De la Sirah : Le divorce d'Ibn 'Umar
-
-Abdullah ibn 'Umar رضي الله عنهما divorça sa femme alors qu'elle était en période de menstrues. 'Umar interrogea le Prophète ﷺ à ce sujet.
-
-Le Prophète ﷺ dit : **"Ordonne-lui de la reprendre, puis de la garder jusqu'à ce qu'elle soit pure, puis qu'elle ait ses menstrues, puis soit pure, puis s'il veut il la garde, et s'il veut il la divorce avant de la toucher. C'est la période d'attente qu'Allah a ordonné pour divorcer les femmes."** [Bukhari et Muslim]
-
-**La leçon** : Le divorce a son moment approprié, et la précipitation est une erreur.
-
----
-
-## 💡 Pause réflexion
-
-**Question à méditer** :
-
-Le divorce est un droit légal de l'homme, mais :
-- Tout ce qui est licite, devons-nous le faire ?
-- Quels sont les effets psychologiques sur les enfants ?
-- As-tu épuisé tous les moyens de réconciliation ?
-
-Rappelle-toi le verset : ﴾Si vous craignez le désaccord entre les deux époux, envoyez alors un arbitre de sa famille à lui et un arbitre de sa famille à elle﴿
-
-**Avant de prononcer le divorce, demande-toi :**
-1. As-tu fait la prière de consultation (istikhara) ?
-2. As-tu consulté les gens de science ?
-3. As-tu essayé un arbitre de ta famille et un de la sienne ?
-4. Qu'arrivera-t-il aux enfants ?
-
----
-
-*Rabbi zidni 'ilman - Seigneur, augmente-moi en science*
+*Ô Seigneur, augmente ma science* 📚
 `;

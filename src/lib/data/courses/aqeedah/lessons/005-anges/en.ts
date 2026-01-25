@@ -1,35 +1,72 @@
 /**
  * Aqeedah - Lesson 005: Belief in the Angels
- * English Content
+ * English Content - Scholarly and immersive methodology
  */
 
-export const content = `# 📜 Belief in the Angels (Al-Iman bil-Mala'ika)
+export const content = `# 📜 Belief in the Angels — The Second Pillar of Faith
 
 <div class="scene-box">
 
-## The Day the Prophet ﷺ Saw Jibril in His True Form
+**🌟 The Night of Al-Isra: When the Prophet ﷺ Saw Jibril**
 
-It was the night of the heavenly journey. The Prophet ﷺ raised his eyes to the sky and saw a creature of indescribable majesty: **Jibril**, in his original form, with **six hundred wings**, each so immense that it covered the horizon.
+*The night journey to Jerusalem, then the ascension through the heavens...*
 
-The Prophet ﷺ later described:
+*The Prophet ﷺ raises his eyes... and there he is: **Jibril**, in his true form.*
 
-> *"I saw him descending from the heavens, his great size filling the space between the sky and the earth."*
+*Not a man in white clothes. Not a messenger in human form.*
 
-At that moment, Muhammad ﷺ understood that the unseen world is filled with magnificent creatures, created from pure light, who never cease glorifying their Lord...
+*But a being with **six hundred wings**—each wing covering the entire horizon...*
 
-**And you—do you know who these beings are that surround you at every moment, recording your words and deeds?**
+**The Prophet ﷺ:** *(describing what he saw)*
+
+> « **I saw him descending from the heavens, his immense size filling the space between the sky and the earth.** »
+
+*(Sahih Muslim 177)*
+
+*At that moment, Muhammad ﷺ understood: the unseen world is filled with magnificent creatures, created from pure light, who never cease glorifying their Lord...*
+
+*And you—do you know who these beings are that surround you **at every moment**, recording your every word and deed?*
 
 </div>
 
-## 🔍 Definition
+> Belief in the angels is the **second pillar** of the six pillars of faith.
 
-Belief in the angels means having firm faith in their existence, in what Allah has informed us about them in the Quran and authentic Sunnah, and affirming that they are honored creatures who never disobey Allah.
+---
 
-## Proof of their existence
+## 📖 The Foundational Hadith
 
-Allah ﷻ says:
+<div class="quote-box">
 
-> "The Messenger has believed in what was revealed to him from his Lord, and so have the believers. All of them have believed in Allah and His angels and His books and His messengers." (Al-Baqara 2:285)
+**📜 From the Hadith of Jibril**
+
+The Prophet ﷺ said in defining faith:
+
+> **"That you believe in Allah, and His **angels**, and His Books, and His messengers, and the Last Day..."**
+
+*(Sahih Muslim 8)*
+
+</div>
+
+---
+
+## 🌳 The Angelic Hierarchy
+
+\`\`\`
+           🌳 THE MAJOR ANGELS
+                   │
+    ┌──────────────┼──────────────┐
+    │              │              │
+ JIBRIL       MIKA'IL        ISRAFIL
+ Revelation   Rain/Provision   The Trumpet
+    │              │              │
+    └──────────────┴──────────────┘
+                   │
+    ┌──────────────┼──────────────┐
+    │              │              │
+ MALIK        RIDWAN       ANGEL OF DEATH
+ Guardian     Guardian     Takes souls
+ of Hell      of Paradise  at appointed time
+\`\`\`
 
 ---
 
@@ -37,166 +74,223 @@ Allah ﷻ says:
 
 ### Their creation
 
-The Prophet ﷺ said:
+<div class="quote-box">
 
-> "The angels were created from light, the jinn were created from a smokeless flame of fire, and Adam was created from what has been described to you (clay)." (Sahih Muslim 2996)
+**📜 From Light**
 
-### Their characteristics
+> **"The angels were created from light, the jinn from smokeless fire, and Adam from what has been described to you."**
 
-1. **Created for obedience**: "They do not disobey Allah in what He commands them but do what they are commanded." (At-Tahrim 66:6)
+*(Sahih Muslim 2996)*
 
-2. **They do not eat or drink**: When the angels came to Ibrahim عليه السلام with glad tidings, "He presented to them a roasted calf. But when he saw their hands not reaching for it, he distrusted them." (Hud 11:69-70)
+</div>
 
-3. **They have wings**: "Praise be to Allah, Creator of the heavens and the earth, who made the angels messengers having wings, two or three or four." (Fatir 35:1)
+### Key characteristics
 
-4. **Their immense size**: The Prophet ﷺ described Jibril: "I saw him descending from the heavens, his great size filling the space between the sky and the earth." (Sahih Muslim 177)
-
----
-
-## Angels Mentioned by Name
-
-### 1️⃣ Jibril (جبريل) - Gabriel
-
-The angel entrusted with revelation.
-
-> "Say: Whoever is an enemy to Gabriel - it is he who brought the Quran down upon your heart by permission of Allah." (Al-Baqara 2:97)
-
-The Prophet ﷺ said:
-
-> "Jibril led me in prayer and taught me the prayer times." (Sahih Al-Bukhari 521)
-
-### 2️⃣ Mika'il (ميكائيل) - Michael
-
-The angel entrusted with rain and vegetation.
-
-> "Whoever is an enemy to Allah and His angels and His messengers and Gabriel and Michael - then indeed, Allah is an enemy to the disbelievers." (Al-Baqara 2:98)
-
-### 3️⃣ Israfil (إسرافيل)
-
-The angel entrusted with blowing the Trumpet (As-Soor) on the Day of Resurrection.
-
-> "And the Horn will be blown, and whoever is in the heavens and whoever is on the earth will fall dead." (Az-Zumar 39:68)
-
-The Prophet ﷺ said:
-
-> "How can I be at ease when the bearer of the Trumpet has already put the Trumpet to his mouth, bending his head forward, waiting to be commanded to blow?" (Tirmidhi 2431)
-
-### 4️⃣ Malik (مالك)
-
-The guardian of Hell.
-
-> "And they will call: 'O Malik, let your Lord put an end to us!' He will say: 'Indeed, you will remain.'" (Az-Zukhruf 43:77)
-
-### 5️⃣ Ridwan (رضوان)
-
-The guardian of Paradise according to some narrations. *(Note: his name is not confirmed in an authentic hadith in the Sahihayn)*
-
-### 6️⃣ The Angel of Death (Malak al-Mawt)
-
-> "Say: The angel of death who has been entrusted with you will take you. Then to your Lord you will be returned." (As-Sajda 32:11)
+| Trait | Description |
+|-------|-------------|
+| **Obedience** | They never disobey Allah |
+| **No food/drink** | They do not eat or drink |
+| **Wings** | Two, three, four, or more |
+| **Size** | Jibril covers the horizon with one wing |
+| **Number** | Only Allah knows their count |
 
 ---
 
-## 📊 Categories of Angels According to Their Functions
+## 👼 Angels by Name and Function
 
-### 1️⃣ The Bearers of the Throne (Hamalat al-'Arsh)
+### 1️⃣ Jibril (Gabriel) — The Spirit
 
-> "And the angels are at its edges. And there will bear the Throne of your Lord above them, that Day, eight of them." (Al-Haqqa 69:17)
+> ﴿Say: Whoever is an enemy to Gabriel — it is **he** who brought the Quran down upon your heart﴾ [Al-Baqarah: 97]
 
-### 2️⃣ The Noble Recording Angels (Al-Kirâm Al-Kâtibûn)
+**Role:** Revelation to the prophets
 
-> "And indeed, [appointed] over you are keepers, noble and recording; they know whatever you do." (Al-Infitar 82:10-12)
+### 2️⃣ Mika'il (Michael)
 
-> "He does not utter any word except that with him is an observer prepared [to record]." (Qaf 50:18)
+**Role:** Rain, vegetation, sustenance
 
-### 3️⃣ The Guardian Angels (Al-Hafadha)
+### 3️⃣ Israfil
 
-> "For each one are successive [angels] before and behind him who protect him by the decree of Allah." (Ar-Ra'd 13:11)
+**Role:** Will blow the Trumpet on the Day of Resurrection
 
-### 4️⃣ The Angels Who Question in the Grave (Munkar and Nakir)
+<div class="quote-box">
 
-The Prophet ﷺ said:
+**📜 The Angel Ready to Blow**
 
-> "When the deceased is buried, two dark blue angels come to him and ask him about his Lord, his religion, and his prophet." (Authenticated by Al-Albani)
+> **"How can I be at ease when the bearer of the Trumpet has put it to his mouth, bending his head forward, waiting to be commanded to blow?"**
 
-### 5️⃣ The Angels of Paradise and Hell
+*(Tirmidhi 2431)*
 
-For Paradise: "Gardens of perpetual residence; they will enter them with whoever were righteous among their fathers, their spouses, and their descendants. And the angels will enter upon them from every gate, saying: 'Peace be upon you for what you patiently endured.'" (Ar-Ra'd 13:23-24)
+</div>
 
-For Hell: "O you who have believed, protect yourselves and your families from a Fire whose fuel is people and stones, over which are angels, harsh and severe." (At-Tahrim 66:6)
+### 4️⃣ Malik — Guardian of Hell
 
-### 6️⃣ The Angels at Al-Bayt Al-Ma'mur
+> ﴿And they will call: "O Malik, let your Lord put an end to us!" He will say: "Indeed, **you will remain**."﴾ [Az-Zukhruf: 77]
 
-The Prophet ﷺ said:
+### 5️⃣ The Angel of Death
 
-> "Then I was shown Al-Bayt Al-Ma'mur. Every day, 70,000 angels enter it to pray, and they never return to it until the Day of Resurrection." (Sahih Al-Bukhari 3207)
-
----
-
-## The Effects of Believing in Angels
-
-1. **Awareness of divine surveillance**: Knowing that angels record everything motivates us to piety
-2. **Love for the angels**: Loving those whom Allah loves and who worship Allah constantly
-3. **Gratitude to Allah**: For creating these noble creatures who protect and accompany us
-4. **Reverential fear**: Knowing that nothing of our deeds is hidden
-5. **Desire to emulate their worship**: Taking inspiration from their perfect submission to Allah
+> ﴿Say: The angel of death who has been entrusted with you **will take you**. Then to your Lord you will be returned.﴾ [As-Sajdah: 11]
 
 ---
 
-## What is Prohibited Concerning Angels
+## 📊 Categories by Function
 
-1. **Giving them names that Allah has not given them**
-2. **Claiming to know their exact number** (only Allah knows)
-3. **Worshiping them or dedicating devotion to them**: "Nor could he order you to take the angels and prophets as lords." (Al-Imran 3:80)
-4. **Claiming they are daughters of Allah**: "And they have made the angels, who are servants of the Most Merciful, females... Did they witness their creation?" (Az-Zukhruf 43:19)
+\`\`\`
+         📊 ANGELS BY THEIR DUTIES
+                    │
+    ┌───────────────┼───────────────┐
+    │               │               │
+ THRONE          RECORDING       GUARDIAN
+ BEARERS         ANGELS          ANGELS
+ (8 on Day       (Kirām          (Al-Hafadha)
+  of Judgment)    al-Kātibīn)     protect us
+    │               │               │
+    └───────────────┴───────────────┘
+                    │
+    ┌───────────────┼───────────────┐
+    │               │               │
+ GRAVE           PARADISE &       AL-BAYT
+ ANGELS          HELL ANGELS      AL-MA'MUR
+ (Munkar/Nakir)  (welcome/punish)  70,000/day
+\`\`\`
+
+### The Noble Recording Angels
+
+> ﴿And indeed, appointed over you are **keepers**, noble and recording; they know **whatever you do**.﴾ [Al-Infitar: 10-12]
+
+<div class="scene-box">
+
+**📝 Every Word is Recorded**
+
+*You're sitting alone. You think no one is watching.*
+
+*You type a message. You whisper a word. You think a thought that almost becomes speech...*
+
+> ﴿He does not utter **any word** except that with him is an observer **prepared**.﴾ [Qaf: 18]
+
+*Two angels. Always present. One on your right recording good. One on your left recording evil.*
+
+*The one on the right is given precedence. The one on the left waits—perhaps you'll repent...*
+
+</div>
+
+### The Guardian Angels
+
+> ﴿For each person are successive angels **before and behind him** who protect him by the decree of Allah.﴾ [Ar-Ra'd: 11]
+
+### The Alternating Angels
+
+<div class="quote-box">
+
+**📜 They Meet at Fajr and Asr**
+
+> **"Angels take turns among you—night angels and day angels. They gather at **Fajr prayer** and **Asr prayer**."**
+
+> When Allah asks: "How did you leave My servants?"
+
+> They reply: "We left them praying, and we found them praying."
+
+*(Sahih Al-Bukhari 555)*
+
+</div>
 
 ---
 
-## 🛡️ Refutation of Doubts (الشُّبُهات والرد عليها)
+## 📜 Stories of the Angels
 
-### First Doubt: "Angels are myths or symbols"
+### Moses and the Angel of Death
 
-**❌ The Doubt:** Some say: "Angels are symbols of the forces of good, not real creatures!"
+<div class="scene-box">
 
-**✅ The Refutation:**
+**⚰️ The Striking of an Eye**
 
-1. **The Quran describes them with precision:**
-   > ﴿الْحَمْدُ لِلَّهِ فَاطِرِ السَّمَاوَاتِ وَالْأَرْضِ جَاعِلِ الْمَلَائِكَةِ رُسُلًا أُولِي أَجْنِحَةٍ مَّثْنَىٰ وَثُلَاثَ وَرُبَاعَ﴾
-   > "All praise is due to Allah, Creator of the heavens and the earth, who made the angels messengers having wings, two or three or four." [Fatir: 1]
-   
-   These are creatures with wings, not symbols!
+*The Angel of Death comes to Moses عليه السلام...*
 
-2. **The Prophet ﷺ saw them:**
-   He saw Jibrîl عليه السلام in his true form, with 600 wings covering the horizon.
+**Angel of Death:** "Respond to your Lord!"
 
-3. **The consensus of the Ummah:**
-   All scholars are unanimous on the real existence of angels.
+*Moses, not recognizing him as an angel, strikes his eye and puts it out!*
 
----
+*Allah restores his eye and sends him back...*
 
-### Second Doubt: "How can angels write all our deeds?"
+**Allah:** "Place your hand on the back of an ox. For every hair your hand covers, you will be granted a year of life."
 
-**❌ The Doubt:** "It's impossible for angels to write all the deeds of billions of humans!"
+**Moses:** "Then what?"
 
-**✅ The Refutation:**
+**Allah:** "Then death."
 
-1. **Nothing is difficult for Allah:**
-   The One who created the universe can assign angels to every human being.
+**Moses:** "Then let it be now."
 
-2. **Angels are very numerous:**
-   > **«يَدْخُلُ الْبَيْتَ الْمَعْمُورَ كُلَّ يَوْمٍ سَبْعُونَ أَلْفَ مَلَكٍ»**
-   > "70,000 angels enter Al-Bayt Al-Ma'mur every day and never return to it." (Al-Bukhari 3207)
+*(Sahih Al-Bukhari 1339)*
 
-3. **We see similar examples:**
-   Computers can record billions of data. Allah creates what He wills!
+*Even prophets must meet the angel of death. But Moses chose to meet his Lord sooner.*
+
+</div>
 
 ---
 
-### Third Doubt: "Why believe in invisible beings?"
+## 🛡️ Refutations of Doubts
 
-**❌ The Doubt:** "I only believe in what I see! How can I believe in angels without seeing them?"
+### Doubt 1: "Angels are just symbols"
 
-**✅ The Refutation:**
+| Claim | Refutation |
+|-------|------------|
+| "They're not real" | The Quran describes them with wings, form, size |
+| "Just metaphors for good" | The Prophet ﷺ **saw** Jibril with 600 wings |
+| "No evidence" | Ijma' of the Ummah on their real existence |
+
+### Doubt 2: "How can they record everyone?"
+
+**Answer:** Allah created 70,000 angels entering Al-Bayt Al-Ma'mur *daily*—never returning! Their number is beyond count. Recording all humans is easy for them.
+
+---
+
+## 🌟 Effects of This Belief
+
+| Effect | How it changes you |
+|--------|-------------------|
+| **Awareness** | Every word recorded → more careful speech |
+| **Love** | Loving those who worship Allah constantly |
+| **Gratitude** | Allah assigned protectors to you |
+| **Reverence** | Nothing is hidden |
+| **Aspiration** | Imitating their tireless worship |
+
+---
+
+## 🎯 Contemporary Applications
+
+### Case 1: "It's just between me and my screen"
+
+**Situation:** Someone browses inappropriate content thinking: "No one sees me."
+
+**Reality:** ❌ The recording angels are present.
+
+> ﴿He does not utter any word except that with him is an observer **prepared**.﴾ [Qaf: 18]
+
+---
+
+## ✅ Summary
+
+| Element | Detail |
+|---------|--------|
+| **Pillar** | Second of the six pillars of faith |
+| **Creation** | From light |
+| **Nature** | Perfect obedience, no sin |
+| **Named angels** | Jibril, Mika'il, Israfil, Malik, Angel of Death |
+| **Functions** | Revelation, recording, protection, carrying the Throne |
+| **Our duty** | Believe, love them, be conscious of their presence |
+
+---
+
+## 🤲 Supplication
+
+<div class="quote-box">
+
+> **O Allah, send Your prayers and peace upon Jibril, Mika'il, Israfil, and all Your noble angels.**
+
+> **O Allah, make us among those for whom the angels make supplication.**
+
+</div>
+
+**O Lord, increase me in knowledge!** 📖`**
 
 1. **We believe in many invisible things:**
    Electricity, radio waves, viruses... We believe in their existence through their effects.

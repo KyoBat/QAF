@@ -1,265 +1,497 @@
-export const contentFr = `
-# La Discorde Conjugale (Nushuz et Shiqaq)
+/**
+ * Fiqh Familial - Leçon 006: La Discorde Conjugale (Nushuz et Shiqaq)
+ * Contenu en Français - Version immersive
+ */
 
-## Introduction
+export const contentFr = `# ⚡ Les Conflits Conjugaux — Quand le Foyer Tremble
 
-La vie conjugale peut traverser des problèmes et des désaccords. L'Islam a établi une méthodologie sage pour traiter ces problèmes, commençant par le conseil et l'exhortation, et finissant par l'arbitrage et la réconciliation.
-
-Allah dit : **"Si vous craignez une rupture entre les deux époux, envoyez un arbitre de sa famille à lui et un arbitre de sa famille à elle. S'ils veulent la réconciliation, Allah rétablira l'entente entre eux"** [An-Nisa : 35]
-
----
-
-## Le Nushuz : Définition et Types
-
-### Définition du Nushuz
-
-**Linguistiquement** : L'élévation et l'orgueil.
-
-**Juridiquement** : Le fait qu'un époux sorte de l'obéissance à l'autre dans ce que la loi islamique rend obligatoire.
-
-### Types de Nushuz
-
-| Type | Définition |
-|------|------------|
-| Nushuz de l'épouse | Sa désobéissance à son mari dans ce qui lui est légalement obligatoire |
-| Nushuz du mari | Le fait de nuire à sa femme ou de manquer à ses droits obligatoires |
+> **« Si vous craignez une rupture entre les deux époux, envoyez un arbitre de sa famille à lui et un arbitre de sa famille à elle. S'ils veulent la réconciliation, Allah rétablira l'entente entre eux. »**
+>
+> — **[An-Nisâ' : 35]**
 
 ---
 
-## Le Nushuz de l'Épouse
+## 🎬 Introduction
 
-### Signes du Nushuz de l'Épouse
+### 🎭 Scène : Trois foyers en crise
 
-1. **Refus du lit conjugal** sans excuse légale
-2. **Sortie du foyer** sans sa permission sans nécessité
-3. **Désobéissance** dans le convenable
-4. **Mauvais comportement** et insultes
-5. **Admettre ceux qu'il n'aime pas** dans sa maison
+**Foyer 1 — La tyrannie masculine**
 
-### Étapes du Traitement du Nushuz de l'Épouse
+> L'homme rentre, hurle, insulte, frappe parfois. La femme pleure, les enfants tremblent. Il dit : *« C'est moi le chef ! »*
 
-Allah dit : **"Celles dont vous craignez la désobéissance, exhortez-les, éloignez-vous d'elles dans leurs lits et frappez-les"** [An-Nisa : 34]
-
-#### Première Étape : L'Exhortation
-
-- Rappeler Allah et les droits légaux
-- Rappeler les conséquences du nushuz
-- Le dialogue calme et le conseil
-
-**Conditions de l'exhortation :**
-- Qu'elle soit avec bienveillance
-- Loin des insultes et des blessures
-- Au moment approprié
-
-#### Deuxième Étape : L'Éloignement dans le Lit
-
-- Se détourner d'elle au lit
-- Ne pas avoir de rapports avec elle tout en restant dans la maison
-- L'éloignement dans la parole (maximum trois jours)
-
-**Règles de l'éloignement :**
-- Qu'il soit dans la maison, pas à l'extérieur
-- Qu'il ne dépasse pas la limite raisonnable
-- Qu'il soit dans l'intention de réforme
-
-#### Troisième Étape : La Frappe Non Violente
-
-**Conditions de la frappe :**
-| Condition | Détails |
-|-----------|---------|
-| Non violente | Ne casse pas d'os et ne blesse pas |
-| Éviter le visage | Car le Prophète ﷺ a dit : "Et ne frappe pas le visage" |
-| Pour l'éducation, non la vengeance | L'objectif est la réforme |
-| Après l'échec des étapes précédentes | Dernier recours |
-
-**Le Prophète ﷺ a dit :** **"Les meilleurs d'entre vous ne frappent pas"** [Rapporté par Abu Dawud]
-
-**Note importante :** La frappe n'est ni recommandée ni requise, c'est une permission pour des cas exceptionnels, et il est préférable de l'éviter.
+❌ **Ce n'est pas l'Islam.**
 
 ---
 
-## Le Nushuz du Mari
+**Foyer 2 — La rébellion féminine**
 
-### Formes du Nushuz du Mari
+> La femme refuse tout. Elle sort sans permission, dépense sans compter, ne répond plus à son mari, le rabaisse devant les enfants.
 
-1. **Ne pas subvenir** à ses besoins malgré la capacité
-2. **Lui nuire** par des coups ou des insultes
-3. **Se détourner d'elle** vers une autre
-4. **La priver de ses droits** légaux
-5. **L'humilier** devant les gens
-
-### Traitement du Nushuz du Mari
-
-Allah dit : **"Et si une femme craint de son mari le nushuz ou le détournement, il n'y a pas de péché pour les deux à ce qu'ils se réconcilient, et la réconciliation est meilleure"** [An-Nisa : 128]
-
-**Étapes du traitement :**
-
-1. **La réconciliation** : La compréhension et les concessions mutuelles
-2. **L'arbitrage** : Recourir à deux arbitres de la famille
-3. **La justice** : Porter l'affaire devant le juge si la réconciliation échoue
-
-**Droits de l'épouse lors du nushuz du mari :**
-- Demander le divorce ou le khul'
-- Porter l'affaire devant le juge
-- Réclamer tous ses droits
+❌ **Ce n'est pas l'Islam non plus.**
 
 ---
 
-## La Discorde entre les Époux (Shiqaq)
+**Foyer 3 — La voie prophétique**
 
-### Définition du Shiqaq
+> Quand il y a un désaccord, on dialogue. Si ça empire, on fait appel à des médiateurs. On cherche la **réconciliation**, pas la victoire.
 
-**Linguistiquement** : Le désaccord et le conflit intense.
+✅ **C'est la méthode coranique.**
 
-**Juridiquement** : Le conflit persistant entre les époux qui fait craindre de ne pas pouvoir respecter les limites d'Allah.
+> 🎯 **L'Islam ne cherche pas à savoir « qui a raison ». Il cherche à sauver le foyer.**
 
-### Causes du Shiqaq
+---
 
-| Cause | Détails |
+## 📖 Qu'est-ce que le Nushûz ?
+
+### Définition
+
+| Terme | Signification |
+|-------|---------------|
+| **Nushûz** (نشوز) | Étymologie : s'élever, se rebeller |
+| **Juridiquement** | Sortir de l'obéissance due dans la vie conjugale |
+
+### Les deux types de Nushûz
+
+| Type | Explication |
+|------|-------------|
+| 🚺 **Nushûz de l'épouse** | Désobéissance au mari dans ce qui est légalement requis |
+| 🚹 **Nushûz du mari** | Nuire à l'épouse ou manquer à ses droits |
+
+> ⚠️ **Point crucial** : Le nushûz n'est pas que féminin ! Le Coran parle des DEUX.
+
+---
+
+## 🚺 Le Nushûz de l'Épouse
+
+### Signes
+
+| Signe | Exemple |
 |-------|---------|
-| Le mauvais caractère | De l'un ou des deux époux |
-| Le non-respect des droits | Négliger les devoirs conjugaux |
-| L'ingérence de la famille | L'intervention négative dans la vie conjugale |
-| Les problèmes financiers | L'extravagance ou l'avarice |
-| L'incompatibilité | Différences de caractères et d'habitudes |
-| La jalousie excessive | Le doute sans raison |
+| 🛏️ **Refus du lit** | Sans excuse valable (maladie, menstrues) |
+| 🚪 **Sortir sans permission** | Pour des choses non essentielles |
+| 👊 **Mauvais comportement** | Insultes, mépris, rabaissement |
+| 🚶 **Admettre qui il n'aime pas** | Hommes étrangers dans la maison |
+| 😤 **Désobéissance dans le convenable** | Refuser les demandes raisonnables |
 
-### Traitement du Shiqaq : L'Arbitrage
+### 🔧 Le Traitement Coranique — En 3 Étapes
 
-Allah dit : **"Envoyez un arbitre de sa famille à lui et un arbitre de sa famille à elle"** [An-Nisa : 35]
+> **« Celles dont vous craignez le nushûz, exhortez-les, éloignez-vous d'elles dans les lits, et frappez-les. »**
+>
+> — **[An-Nisâ' : 34]**
 
-#### Conditions des Arbitres
+#### 1️⃣ Étape 1 : L'Exhortation (Al-Wa'z)
 
-1. **La probité** : Qu'ils soient justes
-2. **La sagesse** : La capacité de réconcilier
-3. **La connaissance** : Connaître la situation des époux
-4. **La parenté** : Il est préférable qu'ils soient de la famille
+| Ce que c'est | Ce que ce n'est PAS |
+|--------------|---------------------|
+| ✅ Rappeler Allah avec douceur | ❌ Hurler, insulter |
+| ✅ Expliquer les conséquences | ❌ Menacer, terroriser |
+| ✅ Dialoguer calmement | ❌ Imposer par la force |
+| ✅ Choisir le bon moment | ❌ La réprimander en public |
 
-#### Pouvoirs des Arbitres
+🎯 **L'objectif** : La ramener à la raison par la parole et le rappel.
 
-**Les juristes divergent :**
+#### 2️⃣ Étape 2 : L'Éloignement dans le Lit (Al-Hajr)
+
+| Ce que c'est | Conditions |
+|--------------|------------|
+| 🛏️ Se tourner de l'autre côté | Dans la maison, pas ailleurs |
+| 🚫 Pas de rapports intimes | Maximum raisonnable |
+| 😶 Réduire la parole | Pas plus de 3 jours pour le boycott verbal |
+
+> 💡 **Sagesse** : Montrer le mécontentement sans violence, lui donner le temps de réfléchir.
+
+⚠️ **Ce qui est INTERDIT** : Quitter la maison, la boycotter des semaines, l'humilier devant les enfants.
+
+#### 3️⃣ Étape 3 : La Frappe Symbolique (Ad-Darb)
+
+**⚠️ C'EST LE POINT LE PLUS MAL COMPRIS DE L'ISLAM.**
+
+Avant toute chose :
+
+> Le Prophète ﷺ a dit :
+>
+> **« Les meilleurs d'entre vous ne frappent pas. »**
+>
+> — **[Rapporté par Abû Dâwûd]**
+
+> 'Âisha (qu'Allah l'agrée) dit :
+>
+> **« Le Prophète ﷺ n'a jamais frappé de sa main ni une femme ni un serviteur. »**
+>
+> — **[Rapporté par Muslim]**
+
+### 📋 Si jamais cette étape est atteinte (en dernier recours absolu)
+
+| Condition ABSOLUE | Explication |
+|-------------------|-------------|
+| ❌ **Pas le visage** | « Et ne frappe pas le visage » [Hadith] |
+| ❌ **Pas de blessure** | Pas de marque, pas de douleur intense |
+| ✅ **Symbolique** | Ibn 'Abbâs : « Avec un siwâk ou similaire » |
+| 🎯 **But = réforme** | Pas vengeance, pas défoulement |
+| ⏱️ **Après échec des 2 autres étapes** | Pas en premier recours |
+
+> 💡 **La réalité** : Les savants expliquent que c'est une **permission exceptionnelle**, pas une recommandation. La grande majorité des cas ne doivent JAMAIS atteindre cette étape.
+
+> 🎯 **Le modèle** : Le Prophète ﷺ n'a **jamais** utilisé cette permission avec ses 9 épouses, malgré les difficultés qu'il a parfois rencontrées.
+
+---
+
+## 🚹 Le Nushûz du Mari
+
+### Oui, les hommes aussi !
+
+> **« Et si une femme craint de son mari le nushûz ou le détournement, il n'y a pas de péché pour les deux à ce qu'ils se réconcilient. Et la réconciliation est meilleure. »**
+>
+> — **[An-Nisâ' : 128]**
+
+### Formes du Nushûz masculin
+
+| Forme | Description |
+|-------|-------------|
+| 💰 **Refuser la nafaqa** | Ne pas subvenir aux besoins malgré la capacité |
+| 🤜 **Violence** | Frapper, blesser, terroriser |
+| 🗣️ **Violence verbale** | Insultes, humiliations, rabaissements |
+| 😐 **Détournement** | L'ignorer, préférer une autre, l'abandonner |
+| 🚫 **Priver de ses droits** | Lui interdire de voir sa famille, etc. |
+
+### 🔧 Le Traitement
+
+| Étape | Action |
+|-------|--------|
+| 1️⃣ | **Réconciliation et concessions** — Dialogue, compromis |
+| 2️⃣ | **Arbitrage familial** — Deux arbitres des deux familles |
+| 3️⃣ | **Recours au juge** — Si tout échoue |
+
+### Les droits de l'épouse face au nushûz du mari
+
+| Droit | Explication |
+|-------|-------------|
+| ⚖️ Réclamer ses droits | Nafaqa, bon traitement |
+| 💔 Demander le khul' | Si la vie devient impossible |
+| 🏛️ Porter l'affaire au juge | Le qâdî peut contraindre le mari |
+
+---
+
+## 🔥 Le Shiqâq — La Rupture Intense
+
+### Définition
+
+| Terme | Signification |
+|-------|---------------|
+| **Shiqâq** (شقاق) | Conflit intense et persistant |
+| **Juridiquement** | Discorde qui fait craindre de ne plus pouvoir respecter les limites d'Allah |
+
+### Quand le nushûz devient shiqâq
+
+| Nushûz | Shiqâq |
+|--------|--------|
+| Problème ponctuel | Problème chronique |
+| Peut se résoudre entre eux | Nécessite une intervention extérieure |
+| Désaccord | Guerre froide (ou chaude) |
+
+### Causes courantes du Shiqâq
+
+| Cause | Exemple |
+|-------|---------|
+| 😤 **Mauvais caractère** | Des deux ou d'un seul |
+| 👨‍👩‍👧 **Ingérence familiale** | Belle-mère, beau-père qui s'immiscent |
+| 💸 **Problèmes financiers** | Avarice ou extravagance |
+| 🤔 **Incompatibilité** | Caractères trop différents |
+| 💚 **Jalousie excessive** | Doutes sans fondement |
+| 🚫 **Négligence des droits** | D'un côté ou des deux |
+
+---
+
+## ⚖️ L'Arbitrage Familial — La Solution Coranique
+
+> **« Envoyez un arbitre de sa famille à lui et un arbitre de sa famille à elle. S'ils veulent la réconciliation, Allah rétablira l'entente entre eux. »**
+>
+> — **[An-Nisâ' : 35]**
+
+### Pourquoi des arbitres ?
+
+| Avantage | Explication |
+|----------|-------------|
+| 🏠 **Connaissance** | Ils connaissent les deux parties |
+| ❤️ **Bienveillance** | Ils veulent le bien de leur proche |
+| 🤝 **Médiation** | Terrain neutre pour dialogue |
+| ⚖️ **Justice** | Deux perspectives équilibrées |
+
+### Conditions des arbitres
+
+| Condition | Pourquoi |
+|-----------|----------|
+| ⚖️ **Probité** | Pour être justes |
+| 🧠 **Sagesse** | Pour trouver des solutions |
+| 📚 **Connaissance** | De la situation et des règles |
+| 👨‍👩‍👧 **De la famille** (préférable) | Meilleure connaissance |
+
+### Pouvoirs des arbitres — Divergence
 
 | École | Avis |
 |-------|------|
-| La majorité | Pour la réconciliation seulement, la séparation nécessite l'autorisation des époux |
-| Les Malikites | Ils peuvent réunir ou séparer sans autorisation |
+| 🔵 **Majorité** | Réconciliation seulement. Séparation = besoin d'autorisation des époux |
+| 🟡 **Malikites** | Peuvent réunir OU séparer selon ce qu'ils voient juste |
 
-**L'avis prépondérant :** Les arbitres peuvent faire ce qu'ils voient comme étant dans l'intérêt, que ce soit la réunion ou la séparation.
+> 💡 **L'avis prépondérant** : Les arbitres peuvent faire ce qui est dans l'intérêt du couple, y compris la séparation si c'est la seule issue.
 
-#### Étapes de l'Arbitrage
+### Étapes de l'arbitrage
 
-1. **Choisir les arbitres** parmi les familles des époux
-2. **Écouter** les deux parties
-3. **Vérifier** les causes du conflit
-4. **Tenter la réconciliation** et le rapprochement
-5. **Prendre la décision** de réunion ou de séparation
-
----
-
-## Effets du Nushuz
-
-### Effets du Nushuz de l'Épouse
-
-| Effet | Détails |
-|-------|---------|
-| Perte de la pension | Pendant la durée du nushuz seulement |
-| Perte du partage des nuits | Si elle a des coépouses |
-| Le péché | Pour sa désobéissance à la loi |
-
-### Effets du Nushuz du Mari
-
-| Effet | Détails |
-|-------|---------|
-| Droit de réclamation | Elle peut réclamer ses droits |
-| Droit au khul' | Si la cohabitation devient impossible |
-| Le péché | Pour lui avoir nui |
+| Étape | Action |
+|-------|--------|
+| 1️⃣ | Choisir un arbitre de chaque famille |
+| 2️⃣ | Écouter chaque époux séparément |
+| 3️⃣ | Identifier les vraies causes du conflit |
+| 4️⃣ | Proposer des solutions et compromis |
+| 5️⃣ | Décider : réconciliation ou séparation |
 
 ---
 
-## La Réconciliation est Meilleure
+## 📊 Effets du Nushûz
 
-Allah dit : **"Et la réconciliation est meilleure"** [An-Nisa : 128]
+### Effets du nushûz de l'épouse
 
-**Avantages de la réconciliation :**
-- Préserver la famille de la désintégration
-- L'intérêt des enfants
-- Éviter les conséquences du divorce
-- Préserver l'affection et la miséricorde
+| Effet | Détail |
+|-------|--------|
+| 💸 **Perte de la nafaqa** | Pendant la durée du nushûz seulement |
+| 🗓️ **Perte du tour** | Si polygamie |
+| ⚠️ **Péché** | Si c'est sans excuse valable |
 
-**Le Prophète ﷺ a dit :** **"La chose licite la plus détestée auprès d'Allah est le divorce"** [Rapporté par Abu Dawud]
+⚠️ **Important** : Ces effets cessent dès qu'elle cesse le nushûz. C'est une mesure temporaire, pas une punition définitive.
 
----
+### Effets du nushûz du mari
 
-## 📖 Récits des Salaf
-
-### 'Umar ibn Al-Khattab, arbitre entre époux
-
-Un homme vint voir 'Umar ibn Al-Khattab (qu'Allah l'agrée) pour se plaindre de sa femme. Quand il se tint à sa porte, il entendit la femme de 'Umar élever la voix sur lui, tandis que 'Umar restait silencieux. L'homme repartit en disant : Si telle est la situation du Commandeur des Croyants, alors qu'en est-il de moi !
-
-'Umar le rattrapa et lui demanda son besoin. L'homme lui dit qu'il était venu se plaindre de sa femme mais qu'il avait trouvé le Commandeur des Croyants dans la même situation. 'Umar (qu'Allah l'agrée) dit : **"Je la supporte pour les droits qu'elle a sur moi : elle cuisine ma nourriture, cuit mon pain, lave mes vêtements, allaite mon enfant, et rien de cela ne lui est obligatoire. Mon cœur trouve la paix auprès d'elle contre l'interdit, alors je la supporte pour cela."**
-
-L'homme dit : Ô Commandeur des Croyants, ma femme est pareille. 'Umar dit : **"Alors supporte-la, mon frère, car ce n'est qu'une courte période."**
-
-**Leçon à retenir** : La patience face aux problèmes conjugaux et le rappel des qualités du conjoint sont parmi les plus grandes causes de la pérennité du mariage.
+| Effet | Détail |
+|-------|--------|
+| ⚖️ **Elle peut réclamer** | Ses droits devant le qâdî |
+| 💔 **Elle peut demander le khul'** | Si la vie est impossible |
+| ⚠️ **Péché sur lui** | Pour avoir manqué à ses devoirs |
 
 ---
 
-## 🎯 Cas pratiques contemporains
+## 💚 La Réconciliation — L'Objectif Ultime
 
-### Premier cas : L'épouse qui refuse de vivre avec la belle-famille
+> **« Et la réconciliation est meilleure. »**
+>
+> — **[An-Nisâ' : 128]**
 
-**Question** : Ma femme refuse de vivre avec ma mère âgée qui a besoin de soins, et menace de quitter la maison si je ne lui fournis pas un logement indépendant. Est-ce du nushuz ?
+> Le Prophète ﷺ a dit :
+>
+> **« La chose licite la plus détestée d'Allah est le divorce. »**
+>
+> — **[Rapporté par Abû Dâwûd]**
 
-**Réponse** : Ce n'est pas du nushuz, car le logement indépendant est un droit légal de l'épouse. Mais il lui est recommandé d'aider son mari dans la piété filiale envers sa mère autant que possible. La solution : Se mettre d'accord sur un arrangement qui satisfait les deux parties, comme un logement proche avec des visites régulières.
+### Pourquoi la réconciliation est meilleure
 
----
-
-### Deuxième cas : Le mari toujours absent
-
-**Question** : Mon mari passe tout son temps à l'extérieur avec ses amis et ne me donne pas mon droit en temps et attention. Que dois-je faire ?
-
-**Réponse** : C'est une forme de nushuz du mari. Commencez par un dialogue calme avec lui, puis demandez l'aide de membres pieux de sa famille pour le conseiller. S'il ne répond pas, vous avez le droit de porter l'affaire devant le juge islamique.
-
----
-
-### Troisième cas : L'ingérence néfaste de la famille
-
-**Question** : La mère de ma femme s'ingère dans toutes les affaires de notre foyer et monte ma femme contre moi, au point que nous en sommes arrivés à la discorde. Comment dois-je agir ?
-
-**Réponse** : Demandez gentiment à votre épouse de limiter cette ingérence, et n'escaladez pas avec votre belle-mère. Si la discorde persiste, proposez de désigner deux arbitres de la famille comme Allah l'a ordonné, et choisissez un arbitre sage et raisonnable de votre famille.
+| Raison | Explication |
+|--------|-------------|
+| 👶 **Les enfants** | Ils souffrent le plus du divorce |
+| 🏠 **La stabilité** | Un foyer, même imparfait, vaut mieux que l'éclatement |
+| ❤️ **L'amour peut revenir** | Les cœurs changent avec le temps |
+| 💪 **Le pardon** | C'est une vertu immense |
 
 ---
 
-### Quatrième cas : L'épouse qui travaille et le désaccord sur les dépenses
+## 🎭 Récit : Le Prophète ﷺ et ses épouses
 
-**Question** : Ma femme travaille et refuse de participer aux dépenses du foyer malgré ma situation financière difficile. Ai-je le droit de l'y obliger ?
+### La crise du miel
 
-**Réponse** : L'argent de l'épouse lui appartient, et elle n'est pas légalement obligée de participer aux dépenses. Mais la coopération et la compréhension sont préférables, et rappeler aux deux parties que l'argent est pour la famille atténue le conflit.
+Un jour, le Prophète ﷺ passa plus de temps chez une de ses épouses qui lui offrait du miel. 'Âisha et Hafsa, jalouses, s'entendirent pour lui dire :
 
----
+> *« Je sens sur toi l'odeur de maghâfîr (une résine malodorante) ! »*
 
-### Cinquième cas : L'abandon prolongé
+Le Prophète ﷺ, détestant les mauvaises odeurs, jura de ne plus manger ce miel.
 
-**Question** : Mon mari est en colère contre moi et m'a abandonnée au lit depuis deux mois. A-t-il le droit de faire cela ?
+Allah révéla alors :
 
-**Réponse** : L'abandon de plus de quatre mois est interdit au mari, c'est un serment de continence (ila') qui donne à l'épouse le droit d'exiger le retour ou le divorce. S'il est de moins de quatre mois, la réconciliation et la résolution du conflit sont obligatoires.
+> **« Ô Prophète, pourquoi t'interdis-tu ce qu'Allah t'a rendu licite, cherchant à plaire à tes épouses ? »**
+>
+> — **[At-Tahrîm : 1]**
 
----
+### 🎯 Leçons
 
-## 💡 Pause réflexion
-
-**Question de réflexion** :
-
-Si tu étais l'arbitre de la famille du mari dans un conflit entre ton cousin et sa femme, et que chaque partie insiste sur le fait qu'elle est lésée :
-- Comment commencerais-tu la séance de réconciliation ?
-- Quelles questions poserais-tu ?
-- Et comment garderais-tu ta neutralité malgré ta parenté avec le mari ?
-
-Rappelle-toi la parole d'Allah : **"S'ils veulent la réconciliation, Allah rétablira l'entente entre eux"** - l'intention sincère de réconciliation est la clé du succès.
+| Leçon | Application |
+|-------|-------------|
+| 😊 Même le meilleur des foyers a des tensions | C'est normal |
+| 🤫 La jalousie peut mener à des ruses | Attention |
+| ⚖️ Allah intervient pour rétablir la justice | Le Coran guide |
+| ❤️ Le Prophète ﷺ n'a pas divorcé | Patience |
 
 ---
 
-## Conclusion
+## 🎭 Récit : Omar et la patience
 
-Le nushuz et le shiqaq font partie des problèmes qui peuvent confronter la vie conjugale. L'Islam a établi une méthodologie progressive pour les traiter, commençant par le conseil et l'exhortation, puis l'éloignement, puis l'arbitrage, avec pour objectif la réforme et la préservation de la famille autant que possible.
+Un homme vint chez **Omar ibn al-Khattâb** (qu'Allah l'agrée) pour se plaindre de sa femme. À la porte, il entendit la femme d'Omar élever la voix sur lui. L'homme repartit.
+
+Omar l'appela : *« Quel était ton besoin ? »*
+
+L'homme : *« Je venais me plaindre de ma femme... mais j'ai entendu la tienne ! »*
+
+Omar répondit :
+
+> **« Je la supporte pour les droits qu'elle a sur moi : elle cuisine, fait le pain, lave les vêtements, allaite mes enfants — et rien de cela ne lui est obligatoire. Mon cœur trouve la paix auprès d'elle contre l'interdit. Alors je la supporte. »**
+
+L'homme : *« Ma femme est pareille... »*
+
+Omar : **« Alors supporte-la, mon frère. La vie est courte. »**
+
+---
+
+## 🎯 Cas Pratiques Contemporains
+
+### 😤 Cas 1 : L'épouse qui refuse le lit par vengeance
+
+> **Situation** : Layla est en colère contre son mari parce qu'il a pris une décision sans la consulter. Pour le « punir », elle refuse toute intimité depuis 2 semaines.
+
+**❓ Jugement ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**C'est du nushûz.**
+
+| Problème | Explication |
+|----------|-------------|
+| ❌ Utiliser l'intimité comme arme | Ce n'est pas permis |
+| ❌ Le punir par le refus | Ce n'est pas la voie islamique |
+| ⚠️ Hadith des anges | S'applique dans ce cas |
+
+**Ce qu'elle devrait faire :**
+1. Exprimer son mécontentement **par la parole**
+2. Demander à être consultée à l'avenir
+3. Ne pas mélanger les disputes et le lit conjugal
+
+**Ce que le mari devrait faire :**
+1. S'excuser s'il a eu tort
+2. La consulter à l'avenir
+3. Ne pas invoquer le hadith comme une arme
+
+</details>
+
+---
+
+### 🤜 Cas 2 : Le mari violent
+
+> **Situation** : Ahmad frappe régulièrement sa femme quand il est en colère. Il dit : « Le Coran me permet de frapper ! »
+
+**❓ A-t-il raison ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**ABSOLUMENT PAS.**
+
+| Erreur | Réalité |
+|--------|---------|
+| ❌ Il frappe violemment | Le Coran parle de frappe symbolique |
+| ❌ Il frappe en premier recours | C'est la 3ème étape après l'échec des autres |
+| ❌ Il frappe pour se défouler | Le but est la réforme, pas la vengeance |
+| ❌ Il frappe régulièrement | C'est de la violence conjugale |
+
+**Ce que la femme peut faire :**
+1. 🚪 Se mettre en sécurité
+2. 👨‍👩‍👧 Faire intervenir sa famille
+3. ⚖️ Porter plainte auprès du juge islamique
+4. 💔 Demander le divorce ou le khul'
+
+> ⚠️ **La violence conjugale est un CRIME en Islam.** Le Prophète ﷺ n'a jamais frappé une femme.
+
+</details>
+
+---
+
+### 🏠 Cas 3 : L'ingérence de la belle-mère
+
+> **Situation** : La mère d'Ahmad vit avec le couple. Elle critique constamment Fatima : sa cuisine, sa manière d'élever les enfants, tout. Fatima se plaint, Ahmad dit : « C'est ma mère, je ne peux rien faire ! »
+
+**❓ Qui a tort ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Les DEUX ont des responsabilités.**
+
+| Ahmad | Fatima |
+|-------|--------|
+| ⚖️ Doit équilibrer entre sa mère et sa femme | 🙏 Doit respecter sa belle-mère |
+| 🏠 Peut proposer un logement séparé | 😤 Ne doit pas insulter ni manquer de respect |
+| 🗣️ Doit parler à sa mère avec sagesse | 💬 Doit exprimer ses plaintes calmement |
+
+**Solutions :**
+1. Un logement séparé, même modeste
+2. Des limites claires posées par Ahmad à sa mère
+3. Médiation d'un tiers sage
+4. Patience de Fatima si c'est temporaire
+
+> 💡 Le Prophète ﷺ a logé ses épouses dans des chambres **séparées**.
+
+</details>
+
+---
+
+### 💔 Cas 4 : Le mari qui néglige sa femme
+
+> **Situation** : Youssef travaille beaucoup. Il rentre tard, mange, dort, repart. Aucune conversation, aucune sortie, aucune intimité depuis des mois. Maryam se plaint, il dit : « Je travaille pour vous ! »
+
+**❓ Est-ce du nushûz ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**OUI, c'est du nushûz masculin.**
+
+| Droit négligé | Conséquence |
+|---------------|-------------|
+| ❤️ Bonne cohabitation | Elle se sent abandonnée |
+| 💑 Intimité | C'est un droit mutuel |
+| 💬 Communication | Essentielle au couple |
+
+**Ce que Youssef doit comprendre :**
+1. L'argent ne remplace pas la présence
+2. Elle a des droits sur son temps
+3. Le travail excessif n'est pas une excuse
+
+**Solutions :**
+1. Réserver du temps pour le couple
+2. Équilibrer travail et famille
+3. Écouter ses besoins
+
+> 💡 Omar (qu'Allah l'agrée) a demandé à un homme combien de temps il s'absentait de sa femme. Quand il répondit trop longtemps, Omar dit : **« Elle a des droits sur toi ! »**
+
+</details>
+
+---
+
+## 💭 Pause Réflexion
+
+> 🤔 **Question pour toi** :
+>
+> L'Islam propose **l'arbitrage familial** avant le divorce. Aujourd'hui, beaucoup de couples divorcent après une simple dispute, sans aucune médiation.
+>
+> - Pourquoi avons-nous abandonné cette sunna ?
+> - Que se passerait-il si chaque couple en crise consultait d'abord des sages de la famille ?
+> - Le divorce est-il devenu trop « facile » ?
+
+---
+
+## ✅ Résumé de la Leçon
+
+| Concept | À retenir |
+|---------|-----------|
+| 📖 **Nushûz** | Sortir de l'obéissance conjugale (homme OU femme) |
+| 🔧 **Traitement (femme)** | Exhortation → Éloignement → (Dernier recours symbolique) |
+| 🔧 **Traitement (homme)** | Réclamation → Arbitrage → Juge |
+| 🔥 **Shiqâq** | Conflit intense nécessitant arbitrage |
+| ⚖️ **Arbitrage** | Deux arbitres des deux familles |
+| 💚 **Objectif** | Réconciliation avant tout |
+
+---
+
+## 🔜 Prochaine Leçon
+
+**Le Divorce — Types et Règles** : Quand le divorce devient-il une option ? Quels sont les différents types de divorce en Islam ?
+
+---
+
+*Ô Seigneur, augmente ma science* 📚
 `;

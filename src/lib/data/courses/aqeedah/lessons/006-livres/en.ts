@@ -1,152 +1,240 @@
 /**
  * Aqeedah - Lesson 006: Belief in the Books
- * English Content
+ * English Content - Scholarly and immersive methodology
  */
 
-export const content = `# 📜 Belief in the Revealed Books (Al-Iman bil-Kutub)
+export const content = `# 📜 Belief in the Divine Books — The Third Pillar of Faith
 
 <div class="scene-box">
 
-## The Night When Heaven Touched Earth
+**🌙 The Night of the First Revelation**
 
-At the summit of Mount Hira, in the darkness of the cave, Muhammad ﷺ was deep in contemplation. Suddenly, a powerful presence enveloped him. A majestic voice thundered:
+*The cave of Hira. Complete darkness. Muhammad ﷺ in deep meditation...*
 
-> **"Read!"** (اقرأ)
+*Suddenly—a presence. Overwhelming. Powerful.*
 
-Muhammad, his heart pounding, answered: *"I cannot read."*
+*The angel Jibril appears:*
 
-The angel embraced him so tightly he felt all his strength leave him, then released:
+**Jibril:** « **اقْرَأْ** — READ! »
 
-> **"Read, in the name of your Lord who created, who created man from a clinging substance. Read! And your Lord is the Most Generous, who taught by the pen, taught man that which he knew not."** (Al-'Alaq 96:1-5)
+**Muhammad ﷺ:** *(trembling)* « I cannot read... »
 
-That blessed night of Ramadan, the first words of the Quran descended upon earth. The final Book of Allah began its mission to guide humanity until the end of time...
+*Jibril embraces him tightly—so tight he can barely breathe—then releases him:*
 
-**But what distinguishes this Book from previous revelations? And why must we believe in the Books that came before?**
+**Jibril:** « **READ!** »
+
+**Muhammad ﷺ:** « I cannot read... »
+
+*A third embrace, even tighter. Then:*
+
+**Jibril:** « **Read, in the name of your Lord who created. Created man from a clinging substance. Read! And your Lord is the Most Generous.** »
+
+*(Al-'Alaq: 1-3)*
+
+*That blessed night of Ramadan... the first words of the **Quran** descended upon earth.*
+
+*The final Book. The eternal guidance. Protected until the end of time.*
 
 </div>
 
-## 🔍 Definition
-
-Belief in the Books means having firm faith that Allah revealed Books to His messengers, that they contain truth and light, and that the Quran is the last and most perfect of these Books.
-
-## Proof of the obligation of this belief
-
-Allah ﷻ says:
-
-> "O you who have believed, believe in Allah and His Messenger and the Book that He sent down upon His Messenger and the Scripture which He sent down before." (An-Nisa 4:136)
+> Belief in the Books is the **third pillar** of the six pillars of faith.
 
 ---
 
-## What Belief in the Books Encompasses
+## 📖 The Foundational Hadith
 
-### 1️⃣ Believing that they truly come from Allah
+<div class="quote-box">
 
-> "And thus We have revealed to you a Quran in Arabic." (Ash-Shura 42:7)
+**📜 From the Hadith of Jibril**
 
-### 2️⃣ Believing in the Books mentioned by name
+> **"That you believe in Allah, and His angels, and His **Books**, and His messengers..."**
 
-- **The Quran (القرآن)**: Revealed to Muhammad ﷺ
-- **The Torah (التوراة)**: Revealed to Musa عليه السلام
-- **The Gospel (الإنجيل)**: Revealed to 'Issa عليه السلام
-- **The Psalms (الزبور)**: Revealed to Dawud عليه السلام
-- **The Scriptures (الصحف)**: Of Ibrahim and Musa عليهما السلام
+*(Sahih Muslim 8)*
 
-### 3️⃣ Believing generally in other Books
-
-Allah revealed Books to other prophets whose names we may not know.
+</div>
 
 ---
 
-## The Books Mentioned in the Quran
+## 🌳 The Divine Books
 
-### 1️⃣ The Torah (At-Tawrat)
-
-Revealed to Musa عليه السلام.
-
-> "Indeed, We sent down the Torah, in which was guidance and light. The prophets who submitted to Allah judged by it for the Jews, as did the rabbis and scholars." (Al-Ma'ida 5:44)
-
-### 2️⃣ The Gospel (Al-Injil)
-
-Revealed to 'Issa عليه السلام.
-
-> "And We gave him the Gospel, in which was guidance and light and confirming that which preceded it of the Torah as guidance and instruction for the righteous." (Al-Ma'ida 5:46)
-
-### 3️⃣ The Psalms (Az-Zabur)
-
-Revealed to Dawud عليه السلام.
-
-> "And We gave to David the Psalms." (An-Nisa 4:163)
-
-> "And your Lord is most knowing of whoever is in the heavens and the earth. And We have made some of the prophets exceed others, and to David We gave the Zabur." (Al-Isra 17:55)
-
-### 4️⃣ The Scriptures of Ibrahim and Musa
-
-> "Indeed, this is in the former scriptures, the scriptures of Abraham and Moses." (Al-A'la 87:18-19)
+\`\`\`
+              📚 THE DIVINE BOOKS
+                      │
+    ┌─────────────────┼─────────────────┐
+    │                 │                 │
+ TORAH            ZABUR            INJIL
+ (Moses)          (David)          (Jesus)
+    │                 │                 │
+    └─────────────────┴─────────────────┘
+                      │
+               ┌──────┴──────┐
+               │             │
+          SCRIPTURES       QURAN
+          (Abraham)      (Muhammad ﷺ)
+                           │
+                    FINAL & PRESERVED
+\`\`\`
 
 ---
 
-## The Quran: The Final Book
+## 📚 The Named Books
 
-### Its revelation
-
-> "The month of Ramadan in which was revealed the Quran, a guidance for the people." (Al-Baqara 2:185)
-
-### Its unique characteristics
-
-1. **Last revelation**: No book will be revealed after it
-   > "Muhammad is not the father of any of your men, but he is the Messenger of Allah and last of the prophets." (Al-Ahzab 33:40)
-
-2. **Confirmation of previous Books**
-   > "And We have revealed to you the Book in truth, confirming that which preceded it of the Scripture and as a criterion over it." (Al-Ma'ida 5:48)
-
-3. **Abrogation of previous legislations**: The rulings of the Quran abrogate those of previous Books
-
-4. **Protection from alteration**
-   > "Indeed, it is We who sent down the Quran and indeed, We will be its guardian." (Al-Hijr 15:9)
-
-5. **Inimitable (I'jaz)**
-   > "Say: If mankind and the jinn gathered in order to produce the like of this Quran, they could not produce the like of it, even if they were to each other assistants." (Al-Isra 17:88)
+| Book | Prophet | Description |
+|------|---------|-------------|
+| **Torah** (التوراة) | Musa عليه السلام | Guidance and light for Bani Isra'il |
+| **Zabur** (الزبور) | Dawud عليه السلام | Psalms of praise |
+| **Injil** (الإنجيل) | 'Issa عليه السلام | Confirming the Torah |
+| **Suhuf** (الصحف) | Ibrahim عليه السلام | The earliest scriptures |
+| **Quran** (القرآن) | Muhammad ﷺ | Final, preserved, abrogating |
 
 ---
 
-## The Falsification of Previous Books
+## 🔷 The Quran: The Final Book
 
-The Books revealed before the Quran were falsified by their peoples:
+### Five Unique Characteristics
 
-> "Among the Jews are those who distort words from their usages." (An-Nisa 4:46)
-
-> "So woe to those who write the 'scripture' with their own hands, then say: 'This is from Allah,' in order to exchange it for a small price." (Al-Baqara 2:79)
-
-### Types of Falsification (Tahrif)
-
-1. **Tahrif Al-Lafz** (تحريف اللفظ): Modification of words
-2. **Tahrif Al-Ma'na** (تحريف المعنى): Distortion of meaning
-3. **Kitman** (كتمان): Concealing parts of revelation
+| Characteristic | Proof |
+|----------------|-------|
+| **Final** | ﴿مَّا كَانَ مُحَمَّدٌ أَبَا أَحَدٍ مِّن رِّجَالِكُمْ وَلَٰكِن رَّسُولَ اللَّهِ وَ**خَاتَمَ النَّبِيِّينَ**﴾ |
+| **Preserved** | ﴿إِنَّا نَحْنُ نَزَّلْنَا الذِّكْرَ وَإِنَّا لَهُ **لَحَافِظُونَ**﴾ |
+| **Confirming** | ﴿مُصَدِّقًا لِّمَا بَيْنَ يَدَيْهِ مِنَ الْكِتَابِ﴾ |
+| **Abrogating** | ﴿وَ**مُهَيْمِنًا** عَلَيْهِ﴾ (criterion over previous books) |
+| **Inimitable** | ﴿فَأْتُوا بِسُورَةٍ مِّن مِّثْلِهِ﴾ — never achieved |
 
 ---
 
-## Our Attitude Towards Previous Books
+## 📜 The Compilation of the Quran
 
-The Prophet ﷺ said:
+### Phase 1: Under Abu Bakr رضي الله عنه
 
-> "Do not believe the People of the Book, nor disbelieve them. Rather say: 'We believe in Allah and what has been revealed to us.'" (Sahih Al-Bukhari 4485)
+<div class="scene-box">
 
-### What we must do:
+**📖 After the Battle of Yamama**
 
-1. **Believe** that they were originally the word of Allah
-2. **Acknowledge** that they have been falsified
-3. **Not read them** for guidance (the Quran suffices)
-4. **Follow the Quran** as the sole legislative reference
+*Many memorizers (huffaz) had been martyred. 'Umar rushes to Abu Bakr:*
+
+**'Umar:** « I fear for the Quran! Many huffaz have been killed. We must compile it! »
+
+**Abu Bakr:** *(hesitant)* « How can I do something the Prophet ﷺ did not do? »
+
+**'Umar:** *(insisting)* « By Allah, it is good! »
+
+*Abu Bakr's heart opens. He summons Zayd ibn Thabit:*
+
+**Abu Bakr:** « You are young, intelligent, and you used to write the revelation. **Compile the Quran.** »
+
+**Zayd:** *(overwhelmed)* « By Allah! If they had asked me to move a mountain, it would have been easier than compiling the Quran! »
+
+*But he did it. He gathered every written piece—from palm leaves, parchments, flat stones—and verified each verse with the memorizers.*
+
+*(Sahih Al-Bukhari 4986)*
+
+</div>
+
+### Phase 2: Under 'Uthman رضي الله عنه
+
+<div class="scene-box">
+
+**📖 Unifying the Ummah**
+
+*Disputes arose. People from different regions reciting differently...*
+
+**Hudhayfa ibn al-Yaman:** *(returning from conquests)* « O Commander of the Believers! **Save this Ummah** before they differ about the Book like the Jews and Christians! »
+
+*'Uthman acts. He orders copies made from Abu Bakr's manuscript. He sends them to every region.*
+
+**'Uthman:** « **I have united the people on a single Mushaf.** »
+
+*All other copies burned. One Quran. One Ummah. Forever.*
+
+</div>
 
 ---
 
-## The Virtues of the Quran
+## ⚠️ Falsification of Previous Books
 
-The Prophet ﷺ said:
+> ﴿فَوَيْلٌ لِّلَّذِينَ يَكْتُبُونَ الْكِتَابَ **بِأَيْدِيهِمْ** ثُمَّ يَقُولُونَ هَٰذَا مِنْ عِندِ اللَّهِ﴾ [Al-Baqarah: 79]
 
-> "The best among you is the one who learns the Quran and teaches it." (Sahih Al-Bukhari 5027)
+### Types of Falsification
 
-> "Read the Quran, for it will come on the Day of Resurrection as an intercessor for its companions." (Sahih Muslim 804)
+| Type | Meaning |
+|------|---------|
+| **Tahrif al-Lafz** | Changing the words |
+| **Tahrif al-Ma'na** | Distorting the meaning |
+| **Kitman** | Concealing revelation |
+
+---
+
+## 🛡️ Refutations of Doubts
+
+### Doubt 1: "The Quran has contradictions"
+
+**✅ Refutation:**
+
+> ﴿وَلَوْ كَانَ مِنْ عِندِ غَيْرِ اللَّهِ لَوَجَدُوا فِيهِ **اخْتِلَافًا كَثِيرًا**﴾ [An-Nisa: 82]
+
+| Claim | Reality |
+|-------|---------|
+| "Contradictions" | Abrogation (naskh) or apparent, resolved by scholars |
+| "Scientific errors" | No confirmed error in 1400 years |
+| "Historical issues" | All verified and documented |
+
+### Doubt 2: "The Quran was also altered"
+
+**✅ Refutation:**
+
+1. **Divine promise**: ﴿وَإِنَّا لَهُ **لَحَافِظُونَ**﴾
+2. **Memorization**: Millions memorize it in every generation
+3. **Manuscripts**: Oldest correspond exactly to today's Quran
+
+---
+
+## 🌟 Effects of This Belief
+
+| Effect | Application |
+|--------|-------------|
+| **Gratitude** | Allah never left us without guidance |
+| **Attachment** | The Quran is our primary source |
+| **Understanding** | All Books were truth from Allah |
+| **Rejection** | Superstitions and innovations rejected |
+
+---
+
+## 🎯 Contemporary Applications
+
+### Case 1: "All books are equal"
+
+**Situation:** Someone says: "Torah, Gospel, Quran—they're all the same guidance."
+
+**Answer:** ❌ Only the Quran is **preserved** and the **final criterion**.
+
+> ﴿وَمُهَيْمِنًا عَلَيْهِ﴾ — "A criterion **over** them."
+
+---
+
+## ✅ Summary
+
+| Element | Detail |
+|---------|--------|
+| **Pillar** | Third of the six pillars of faith |
+| **Named Books** | Torah, Zabur, Injil, Suhuf, Quran |
+| **The Quran** | Final, preserved, inimitable, abrogating |
+| **Previous Books** | Originally divine, later falsified |
+| **Our duty** | Follow the Quran exclusively |
+
+---
+
+## 🤲 Supplication
+
+<div class="quote-box">
+
+> **O Allah, make the Quran the spring of our hearts, the light of our chests, the remover of our worries.**
+
+> **O Allah, teach us what we do not know, remind us what we have forgotten, and grant us to recite it day and night.**
+
+</div>
+
+**O Lord, increase me in knowledge!** 📖`
 
 > "Whoever recites a letter from the Book of Allah will have a good deed, and the good deed is rewarded tenfold." (Tirmidhi 2910)
 
