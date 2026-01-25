@@ -1,6 +1,6 @@
 'use client'
 
-import { useState, useEffect } from 'react'
+import { useState, useEffect, useCallback, memo } from 'react'
 import { motion, AnimatePresence } from 'framer-motion'
 import dynamic from 'next/dynamic'
 import Link from 'next/link'
@@ -43,7 +43,6 @@ export default function FeaturedCourseSection({
 }: FeaturedCourseSectionProps) {
   const [currentIndex, setCurrentIndex] = useState(0)
   const [isAutoPlaying, setIsAutoPlaying] = useState(true)
-  const [direction, setDirection] = useState(0)
 
   const currentCourse = featuredCourses[currentIndex]
 
@@ -59,6 +58,19 @@ export default function FeaturedCourseSection({
 
   const courseEmoji = categoryEmojis[currentCourse.category] || categoryEmojis.default
 
+  // Memoized navigation functions
+  const nextSlide = useCallback(() => {
+    setCurrentIndex((prev) => (prev + 1) % featuredCourses.length)
+  }, [featuredCourses.length])
+
+  const prevSlide = useCallback(() => {
+    setCurrentIndex((prev) => (prev - 1 + featuredCourses.length) % featuredCourses.length)
+  }, [featuredCourses.length])
+
+  const goToSlide = useCallback((index: number) => {
+    setCurrentIndex(index)
+  }, [])
+
   // Auto-play carousel
   useEffect(() => {
     if (!isAutoPlaying || featuredCourses.length <= 1) return
@@ -68,38 +80,24 @@ export default function FeaturedCourseSection({
     }, 5000) // 5 secondes
 
     return () => clearInterval(interval)
-  }, [currentIndex, isAutoPlaying, featuredCourses.length])
+  }, [currentIndex, isAutoPlaying, featuredCourses.length, nextSlide])
 
-  const nextSlide = () => {
-    setDirection(1)
-    setCurrentIndex((prev) => (prev + 1) % featuredCourses.length)
-  }
-
-  const prevSlide = () => {
-    setDirection(-1)
-    setCurrentIndex((prev) => (prev - 1 + featuredCourses.length) % featuredCourses.length)
-  }
-
-  const goToSlide = (index: number) => {
-    setDirection(index > currentIndex ? 1 : -1)
-    setCurrentIndex(index)
-  }
-
+  // Simplified slide variants for better mobile performance
   const slideVariants = {
-    enter: (direction: number) => ({
-      x: direction > 0 ? 1000 : -1000,
-      opacity: 0
-    }),
+    enter: {
+      opacity: 0,
+      scale: 0.95
+    },
     center: {
       zIndex: 1,
-      x: 0,
-      opacity: 1
+      opacity: 1,
+      scale: 1
     },
-    exit: (direction: number) => ({
+    exit: {
       zIndex: 0,
-      x: direction < 0 ? 1000 : -1000,
-      opacity: 0
-    })
+      opacity: 0,
+      scale: 0.95
+    }
   }
 
   return (
@@ -163,17 +161,16 @@ export default function FeaturedCourseSection({
           )}
 
           {/* Course Carousel */}
-          <AnimatePresence initial={false} custom={direction} mode="wait">
+          <AnimatePresence mode="wait">
             <motion.div
               key={currentIndex}
-              custom={direction}
               variants={slideVariants}
               initial="enter"
               animate="center"
               exit="exit"
               transition={{
-                x: { type: "spring", stiffness: 300, damping: 30 },
-                opacity: { duration: 0.2 }
+                opacity: { duration: 0.3 },
+                scale: { duration: 0.3 }
               }}
             >
           <Card className="overflow-hidden border-2 border-primary/20 hover:border-primary/40 transition-all duration-300 shadow-xl relative group">

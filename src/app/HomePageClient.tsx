@@ -76,15 +76,15 @@ export default function HomePageClient({
       {/* 4. Testimonials - Social Proof (Show first) */}
       <TestimonialsSection />
 
-      {/* 5. Value Proposition - Mission + Benefits (Explain after) */}
-      <ValuePropositionSection isRTL={isRTL} t={t} />
-
-      {/* 6. Newsletter CTA - Final Capture */}
+      {/* 5. Newsletter CTA - Capture before explaining */}
       <section className="py-16 bg-muted/30">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <NewsletterHome />
         </div>
       </section>
+
+      {/* 6. Value Proposition - Mission + Benefits (Explain last) */}
+      <ValuePropositionSection isRTL={isRTL} t={t} />
     </motion.div>
   )
 }
