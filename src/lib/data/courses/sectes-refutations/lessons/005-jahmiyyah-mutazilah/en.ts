@@ -1,206 +1,469 @@
-export const contentEn = `# The Jahmiyyah and Mu'tazilah — The Theological Sects
+export const contentEn = `# 🧠 The Jahmiyyah and Mu'tazilah — Reason Against Revelation
 
-## Introduction: The Emergence of Speculative Theology
-
-### What is 'Ilm al-Kalam?
-Speculative theology is a science that studies Islamic beliefs through rational and philosophical proofs. It emerged due to:
-1. The translation of Greek philosophy
-2. Debates with deviant sects
-3. Departure from the methodology of the Salaf in receiving creed
+> **"The Quran is the Speech of Allah, uncreated. From Him it originated and to Him it shall return."**
+> — **Imam Ahmad ibn Hanbal** رحمه الله
 
 ---
 
-## First Sect: The Jahmiyyah
+## 🎬 Introduction
 
-### Definition and Origin
-- **Founder**: Jahm ibn Safwan (d. 128H)
-- **Received his ideas from**: Al-Ja'd ibn Dirham
-- **His death**: Killed by Salm ibn Ahwaz, the Umayyad governor
+These two sects represent one of the greatest trials the Ummah has faced in its creed. The **Jahmiyyah** denied Allah's Attributes, and the **Mu'tazilah** made **human reason** the supreme judge over Revelation.
 
-### The Foundations of Jahmite Belief
+The trial of the **"Creation of the Quran"** remains etched in history: the Abbasid caliphs tortured and imprisoned scholars to force them to accept this heresy. Only Imam Ahmad's steadfastness saved the creed of the Ummah.
 
-#### 1. Negation of Names and Attributes
-| Their Position | Details |
-|----------------|---------|
-| Names | Allah has no real names |
-| Attributes | Denial of all attributes |
-| Argument | To avoid resembling creation |
-
-#### 2. The Creation of the Quran
-- The Quran is created and is not Allah's true speech
-- This is the thesis for which Imam Ahmad رحمه الله was tested
-
-#### 3. Determinism (Jabr)
-- The servant is compelled, without choice
-- Like a feather in the wind
-
-#### 4. Extreme Murji'ism
-- Faith is only knowledge
-- Pharaoh was a believer because he knew Allah!
-
-### Refutation of the Jahmiyyah
-
-Among the greatest works written against them:
-- **"Ar-Radd 'ala al-Jahmiyyah"** by Imam Ahmad
-- **"Khalq Af'al al-'Ibad"** by al-Bukhari
-- **"Al-Ibanah"** by Ibn Battah
+<!-- TIMELINE:jahmiyyah-mutazilah -->
 
 ---
 
-## Second Sect: The Mu'tazilah
+## 📜 Part 1: The Jahmiyyah — Negators of the Attributes
 
-### Definition and Origin
-- **Founder**: Wasil ibn 'Ata' (d. 131H)
-- **Reason for the name**: He "withdrew" (i'tazala) from the circle of al-Hasan al-Basri when he disagreed with him on the issue of the one who commits major sins
-- **Origin**: Basra in the early second century
+### The Founder: Jahm ibn Safwan
 
-### The Five Principles of the Mu'tazilah
+<div class="scene-box">
 
-#### 1. Tawhid (according to their understanding)
-- Denial of Allah's essential attributes
-- They call themselves "the people of Tawhid"
-- They say: affirming attributes implies multiple eternals!
+**🎭 SCENE: The Origin of Negation — Transoxiana, ~120 H**
 
-#### 2. Justice (according to their understanding)
-- Denial of predestination
-- Allah does not create the servants' actions
-- The servant creates his own action
+*Jahm ibn Safwan debates with Indian philosophers (the Sumaniyyah).*
 
-#### 3. The Intermediate Position
-- The one who commits major sins is neither believer nor disbeliever
-- He is in a position between the two
-- His status in this life: sinner (fasiq)
-- His status in the Hereafter: eternal in Hell
+**Indian philosopher**: "Describe your God to me. Have you seen Him? Touched Him? Smelled Him?"
 
-#### 4. Execution of the Threat
-- Whoever enters Hell will never leave
-- No intercession for those who commit major sins
+**Jahm**: "No..."
 
-#### 5. Commanding Good and Forbidding Evil
-- By force and sword if possible
-- They permitted rebellion against the unjust ruler
+**Philosopher**: "Then you cannot prove His existence!"
 
-### The Leaders of the Mu'tazilah
-1. **Wasil ibn 'Ata'** (d. 131H) — The founder
-2. **'Amr ibn 'Ubayd** (d. 144H)
-3. **Abu al-Hudhayl al-'Allaf** (d. 235H)
-4. **An-Nazzam** (d. 231H)
-5. **Al-Jahiz** (d. 255H) — Litterateur and theologian
-6. **Al-Qadi 'Abd al-Jabbar** (d. 415H)
-7. **Az-Zamakhshari** (d. 538H) — Author of al-Kashshaf
+*Jahm was left speechless. He secluded himself for forty days, then returned with a new doctrine...*
 
-### The Trial of the Creation of the Quran
+**Jahm** *(after reflection)*: "For Allah not to resemble anything, I must **negate** everything that describes Him! No Attributes, no resemblance!"
 
-During the reign of al-Ma'mun (218H), the caliph adopted the Mu'tazilite doctrine and tested the scholars:
-- **Imam Ahmad** stood firm and endured prison and beatings
-- The trial continued under al-Mu'tasim and al-Wathiq
-- It ended with the accession of al-Mutawakkil (232H)
+*Thus was born the negation of Allah's Attributes.*
 
----
+</div>
 
-## Comparison Between Jahmiyyah and Mu'tazilah
+### The Four Deviations of the Jahmiyyah
 
-| Issue | Jahmiyyah | Mu'tazilah |
-|-------|-----------|------------|
-| Attributes | Total denial | Denial of essential attributes |
-| Predestination | Determinism | Denial |
-| Faith | Knowledge only | Belief and actions |
-| Creation of Quran | Yes | Yes |
-| Committer of major sin | Believer | Intermediate position |
+| Deviation | Detail | Consequence |
+|-----------|--------|-------------|
+| **1. Negation of Names and Attributes** | Allah has no Hand, no Face, no Speech | Allah becomes an abstract void |
+| **2. Creation of the Quran** | The Quran is not Allah's true Speech | Allah never spoke |
+| **3. Determinism (Jabr)** | Man has no choice whatsoever | Nullification of responsibility |
+| **4. Extreme Murji'ism** | Faith = knowledge alone | Pharaoh would be a "believer"! |
 
----
+### Al-Ta'til: Stripping Allah of All Attributes
 
-## The Position of the Salaf Toward These Two Sects
+<div class="scene-box">
 
-### Statements of the Salaf
+**🎭 SCENE: The Absurdity of Ta'til**
 
-> Imam Ahmad said: "Whoever says the Quran is created is a disbeliever."
+**Sunni**: "According to you, Allah has no Hand, no Face, no Speech?"
 
-> Sufyan ath-Thawri said: "Whoever says the Quran is created has said a tremendous thing."
+**Jahmi**: "Correct. Otherwise, He would resemble the creatures."
 
-### The Ruling on Them
-- The extreme Jahmiyyah: **disbelievers** according to many of the Salaf
-- The Mu'tazilah: **misguided innovators**
+**Sunni**: "So Allah does not exist?"
+
+**Jahmi**: "Yes He does! But we cannot say anything about Him."
+
+**Sunni**: "Can you describe something that has no attributes? Even nothingness has attributes (non-existence)! You have described Allah in a way worse than nothingness!"
+
+**Jahmi** *(silent)*: "..."
+
+</div>
+
+### The End of Jahm ibn Safwan
+
+<div class="quote-box">
+
+**Jahm ibn Safwan was killed in 128 H** by Salm ibn Ahwaz, the Umayyad governor of Khurasan.
+
+The scholars of the Salaf considered the **extreme Jahmiyyah as disbelievers**:
+
+**Imam Ahmad**: "Whoever says the Quran is created is a **kafir** (disbeliever)."
+
+**Imam al-Bukhari**: "I look at the Jahmiyyah the way I look at the Jews and Christians."
+
+</div>
 
 ---
 
-## 📖 Stories from the Salaf: Imam Ahmad's Steadfastness During the Trial
+## ⚔️ Part 2: The Mu'tazilah — Reason Above Revelation
 
-When the Caliph al-Ma'mun adopted the Mu'tazilite doctrine of the creation of the Quran, the scholars were tested and forced to profess it. Imam Ahmad ibn Hanbal رحمه الله was brought in.
+### The Origin of the Name
 
-He was told: *"Say: The Quran is created!"* He refused.
+<div class="scene-box">
 
-He was imprisoned and beaten with whips until he fainted, yet he did not budge from the truth.
+**🎭 SCENE: The Separation — Circle of al-Hasan al-Basri, Basra, ~110 H**
 
-Imam Ahmad said: *"If the scholar answers out of fear and the ignorant person out of ignorance, when will the truth be made clear?"*
+*Al-Hasan al-Basri رحمه الله is teaching. A man poses a question.*
 
-Someone told him in prison: *"O Abu 'Abdullah, ease yourselves and say it with your tongues while your hearts are at peace!"*
+**The man**: "O Imam, what do you say about one who commits a major sin? Is he a believer or a disbeliever?"
 
-Ahmad replied: *"If the scholar speaks out of fear and the ignorant out of ignorance, when will the truth appear?"*
+*Before al-Hasan could answer, Wasil ibn 'Ata' steps forward.*
 
-The trial lasted eighteen months, and Imam Ahmad stood firm, becoming the cause for preserving the Sunnah.
+**Wasil ibn 'Ata'**: "He is neither a believer nor a disbeliever! He is in an **intermediate position** between the two!"
 
-**Lesson learned**: Steadfastness upon truth during times of trial is the greatest jihad. Had Ahmad not stood firm, the creed of the Ummah would have been lost.
+*Wasil withdraws from the circle and forms his own group.*
+
+**Al-Hasan al-Basri**: "قد اعتزلنا واصل" — "Wasil has separated (i'tazala) from us."
+
+*Hence the name: **Mu'tazilah** (those who separated).*
+
+</div>
+
+### The Five Founding Principles of the Mu'tazilah
+
+\`\`\`
+The Five Principles (الأصول الخمسة)
+├── 1️⃣ TAWHID (their version)
+│   ├── Negation of essential Attributes
+│   ├── "Affirming Attributes = plurality of eternals"
+│   └── → Allah hears, but has no Hearing!
+│
+├── 2️⃣ JUSTICE (their version)
+│   ├── Man creates his own actions
+│   ├── Allah cannot create evil
+│   └── → Negation of Divine Decree (like the Qadariyyah)
+│
+├── 3️⃣ THE INTERMEDIATE POSITION
+│   ├── The major sinner ≠ believer
+│   ├── The major sinner ≠ disbeliever
+│   └── → He is "between the two" (manzilah bayna manzilatay)
+│
+├── 4️⃣ EXECUTION OF THE THREAT
+│   ├── Whoever enters Hell never leaves
+│   ├── No intercession for major sinners
+│   └── → Despair for sinful Muslims
+│
+└── 5️⃣ COMMANDING GOOD AND FORBIDDING EVIL
+    ├── By force and sword if possible
+    ├── Rebellion against the unjust ruler = obligatory
+    └── → Chaos and civil wars
+\`\`\`
+
+### The Great Mu'tazilite Leaders
+
+| Name | Death | Contribution |
+|------|-------|--------------|
+| **Wasil ibn 'Ata'** | 131 H | Founder, "intermediate position" |
+| **'Amr ibn 'Ubayd** | 144 H | Co-founder |
+| **Abu al-Hudhayl al-'Allaf** | 235 H | Philosopher of the group |
+| **An-Nazzam** | 231 H | Radical theoretician |
+| **Al-Jahiz** | 255 H | Famous litterateur |
+| **Al-Qadi 'Abd al-Jabbar** | 415 H | Systematizer of Mu'tazilism |
+| **Az-Zamakhshari** | 538 H | Author of al-Kashshaf |
 
 ---
 
-## 🎯 Contemporary Cases: Effects of Mu'tazilism and Jahmism
+## 🔥 Part 3: The Trial of the Creation of the Quran (al-Mihna)
 
-### Case 1: Interpretation of Attributes
-Someone says: *"'The Hand' in the Quran means power, and 'Istawa' means dominated, because Allah is transcendent above corporeality!"*
+### The Context
 
-**Question**: Is this interpretation correct?
+In 218 H, the Abbasid caliph **al-Ma'mun** adopted the Mu'tazilite dogma that **the Quran is created**. He ordered the scholars to be put to trial (mihna) and forced to profess this doctrine.
 
-**Answer**: ❌ No. This is the interpretation of the Mu'tazilah and Jahmiyyah. The methodology of the Salaf: Affirming the attributes as they came without distortion or denial, without asking how or likening to creation.
+### The Trial of Imam Ahmad
+
+<div class="scene-box">
+
+**🎭 SCENE: The Interrogation — The Caliph's Palace, 218 H**
+
+*Imam Ahmad ibn Hanbal رحمه الله is brought in chains before the caliph.*
+
+**The caliph (by letter)**: "Is the Quran created or not?"
+
+**Imam Ahmad**: "The Quran is the Speech of Allah. It is not created."
+
+**The Mu'tazilite judge**: "Say: 'The Quran is created!' and you will be released!"
+
+**Imam Ahmad**: "Give me a verse or a hadith that says this, and I will say it."
+
+**The judge**: "We judge by reason! The Quran consists of letters and sounds, and everything that is letters and sounds is created!"
+
+**Imam Ahmad**: "I only say what Allah and His Prophet ﷺ have said."
+
+*They whipped him until he fainted. He did not yield.*
+
+</div>
+
+### The Legendary Steadfastness
+
+<div class="scene-box">
+
+**🎭 SCENE: The Prison — Baghdad, 218-220 H**
+
+*Imam Ahmad has been in prison for months. A man visits him.*
+
+**The man**: "O Abu 'Abdullah, give yourself rest! Say it with your tongue while your heart remains at peace!"
+
+**Imam Ahmad**: "If the scholar answers through dissimulation and the ignorant through ignorance, **when then will the truth be made manifest**?"
+
+*Another person tells him:*
+
+**Another visitor**: "The caliphs and judges have all said the Quran is created. Can we not follow the consensus?"
+
+**Imam Ahmad**: "**How would the heavens and earth remain standing** if the scholars say what the rulers want to hear?"
+
+</div>
+
+### The Timeline of the Trial
+
+| Date | Event |
+|------|-------|
+| **218 H** | Al-Ma'mun imposes the dogma, writes to the governors |
+| **218 H** | Death of al-Ma'mun, al-Mu'tasim continues the trial |
+| **220 H** | Imam Ahmad is released but kept under surveillance |
+| **227 H** | Al-Wathiq continues the persecution |
+| **232 H** | **Al-Mutawakkil** ends the trial and restores the Sunnah |
+
+<div class="quote-box">
+
+**Imam Ahmad said:**
+
+**« سبحانك هذا بهتان عظيم! كيف أقول ما لم يقله الله ولا رسوله ﷺ! »**
+
+**"Glory be to You! This is a tremendous slander! How could I say what Allah and His Messenger ﷺ did not say!"**
+
+</div>
 
 ---
 
-### Case 2: Predestination and Responsibility
-Someone says: *"If Allah predetermined my disobedience, why does He hold me accountable? I am compelled!"*
+## ⚖️ Part 4: Comparison and Refutation
 
-**Question**: Is the human being compelled in his actions?
+### Comparative Table
 
-**Answer**: ❌ No. This is the doubt of the Jabriyyah. The truth is that Allah creates everything including the servants' actions, but the servant has will, choice, and agency for which he is held accountable.
+| Issue | Jahmiyyah | Mu'tazilah | Ahl as-Sunnah |
+|-------|-----------|------------|---------------|
+| **Allah's Attributes** | ❌ Total negation | ❌ Partial negation | ✅ Affirmation without resemblance |
+| **The Quran** | ❌ Created | ❌ Created | ✅ Allah's Speech, uncreated |
+| **Divine Decree** | ⚠️ Determinism (Jabr) | ❌ Negation (Qadar) | ✅ Affirmation with human choice |
+| **Faith** | ⚠️ Knowledge alone | ⚠️ Belief + actions (no distinction) | ✅ Belief + speech + actions |
+| **Major sinner** | ⚠️ Perfect believer | ❌ Neither believer nor kafir, eternal in Hell | ✅ Imperfect believer, under Allah's will |
+| **Seeing Allah** | ❌ Impossible | ❌ Impossible | ✅ Believers will see Allah |
+
+### Refutation of the Negation of Attributes
+
+| Their argument | Response |
+|----------------|----------|
+| "Affirming Attributes = resemblance" | ﴿لَيْسَ كَمِثْلِهِ شَيْءٌ وَهُوَ السَّمِيعُ الْبَصِيرُ﴾ — He affirmed Hearing and Sight **after** negating resemblance |
+| "Affirming = plurality of eternals" | The Attributes are not separate entities |
+| "Reason negates the Attributes" | Sound reason does not contradict Revelation |
+
+### Refutation of "The Creation of the Quran"
+
+<div class="quote-box">
+
+**The proof:**
+
+﴿ أَلَا لَهُ الْخَلْقُ وَالْأَمْرُ ﴾
+
+**"Indeed, to Him belongs the creation AND the command."** [Al-A'raf: 54]
+
+Allah **distinguished** between creation (al-khalq) and command (al-amr). The Quran is a command, not a creation.
+
+</div>
 
 ---
 
-### Case 3: Ruling by Reason
-A philosopher says: *"Reason is the primary judge, and whatever contradicts reason in the texts we reject or reinterpret!"*
+## 📖 Part 5: The Regret of the Mutakallimun
 
-**Question**: Is reason given precedence over text?
+### Ahmad's Steadfastness and the Salvation of the Ummah
 
-**Answer**: ❌ No. This is the foundation of Mu'tazilism. According to Ahl as-Sunnah: Sound reason does not contradict authentic revelation, and when there appears to be conflict, the text is given precedence.
+<div class="scene-box">
+
+**🎭 SCENE: After the Trial — Baghdad, After 232 H**
+
+*Imam Ahmad, aged and marked by the whips, is teaching.*
+
+**A student**: "O Imam, why did you endure all of that? You could have practiced dissimulation (taqiyyah)!"
+
+**Imam Ahmad**: "If I had yielded, people would have said: 'Imam Ahmad said the Quran is created!' And this statement would have become the creed for future generations. I preferred to suffer myself rather than make the creed of the Ummah suffer."
+
+**Another student**: "Were you not afraid of death?"
+
+**Imam Ahmad**: "I was afraid of **meeting Allah** having said what He did not say."
+
+</div>
+
+<div class="quote-box">
+
+**'Ali ibn al-Madini said:**
+
+**« إن الله أعز هذا الدين برجلين: أبي بكر يوم الردة، وأحمد يوم المحنة »**
+
+**"Allah honored this religion through two men: Abu Bakr on the day of apostasy, and Ahmad on the day of the trial."**
+
+</div>
+
+### The Regret of Imam ar-Razi
+
+<div class="scene-box">
+
+**🎭 SCENE: The Deathbed — Ray, 606 H**
+
+*Fakhr ad-Din ar-Razi, the great theologian and philosopher, lies on his deathbed. His students surround him.*
+
+**Ar-Razi** *(weakly)*: "I have explored all the methods of speculative theology and all the paths of philosophy..."
+
+**Student**: "And what did you find, O Imam?"
+
+**Ar-Razi**: "I found nothing that quenches the thirst or heals the ailment. I found the closest path to be the path of the Quran."
+
+**Student**: "What do you mean?"
+
+**Ar-Razi**: "I mean: read in affirmation ﴿الرَّحْمَٰنُ عَلَى الْعَرْشِ اسْتَوَىٰ﴾ (The Most Merciful established Himself over the Throne), and read in negation ﴿لَيْسَ كَمِثْلِهِ شَيْءٌ﴾ (There is nothing like unto Him). Whoever has tried what I have tried knows what I know."
+
+</div>
+
+### The Regret of Imam al-Juwayni
+
+<div class="scene-box">
+
+**🎭 SCENE: The Last Gathering — Nishapur, 478 H**
+
+*Imam al-Haramayn al-Juwayni, the great Ash'ari scholar, gathers his students.*
+
+**Al-Juwayni**: "O my companions! Do not occupy yourselves with speculative theology. Had I known it would lead me to what it has, I would not have engaged in it."
+
+**Student**: "But you are the Imam of the two Holy Sanctuaries!"
+
+**Al-Juwayni** *(with tears)*: "I am dying upon the creed of my mother... the creed of the old women of Nishapur... I am dying upon the natural disposition (fitrah)."
+
+</div>
+
+<div class="quote-box">
+
+**Imam ash-Shahrastani (d. 548 H) said:**
+
+**« لقد تأملت الطرق الكلامية والمناهج الفلسفية فما رأيتها تشفي عليلا ولا تروي غليلا »**
+
+**"I have examined the theological methods and philosophical approaches, and I did not see them heal the sick or quench the thirsty."**
+
+</div>
 
 ---
 
-### Case 4: Denying the Vision of Allah
-Someone says: *"Allah cannot be seen on the Day of Judgment because seeing necessitates corporeality!"*
+## 🎯 Part 6: Contemporary Case Studies
 
-**Question**: Does Ahl as-Sunnah deny seeing Allah on the Day of Judgment?
+### Case 1: Allegorical Interpretation of the Attributes
 
-**Answer**: ❌ No. Seeing Allah on the Day of Judgment is established by the Quran and mutawatir Sunnah. Allah تعالى says: {Faces that Day will be radiant * Looking at their Lord}. The Mu'tazilah denied it following their corrupt principles.
+<div class="scene-box">
+
+**🎭 SCENE: The Theology Class — Today**
+
+**Professor**: "When Allah says 'يَدُ اللَّهِ' (the Hand of Allah), it means 'power.' And 'اسْتَوَىٰ عَلَى الْعَرْشِ' (He established Himself over the Throne) means 'He dominated.'"
+
+**Student**: "But the Salaf did not interpret it that way!"
+
+**Professor**: "The Salaf were simple. We understand better through philosophy."
+
+**Student**: "Imam Malik said: 'Al-Istiwa is known, the how is unknown, belief in it is obligatory, and asking about it is an innovation.' Why interpret it otherwise?"
+
+</div>
+
+**Rule**: ✅ The methodology of the Salaf: **affirm** the Attributes without interpreting, denying, detailing, or likening them.
 
 ---
 
-### Case 5: The Noble Quran
-A student asks: *"What is the difference between our saying the Quran is Allah's Speech and the Mu'tazilite saying it is created?"*
+### Case 2: "Reason Judges the Text"
 
-**Question**: Why is this issue important?
+**Situation**: A philosopher says: "If a text contradicts reason, we reject it or reinterpret it!"
 
-**Answer**: ✅ Because saying the Quran is created implies that Allah was devoid of speech then began to speak, which is a deficiency. Ahl as-Sunnah say: The Quran is truly Allah's Speech, with which He spoke, uncreated.
+| Response |
+|----------|
+| 1. **Sound** reason never contradicts **authentic** Revelation |
+| 2. If there appears to be contradiction, it is either **faulty reasoning** or a **misunderstood text** |
+| 3. Ibn Taymiyyah refuted this in "Dar' Ta'arud al-'Aql wa an-Naql" (11 volumes) |
+| 4. Revelation is **certain**, reason can err |
+
+---
+
+### Case 3: The Vision of Allah
+
+**Situation**: Someone says: "It is impossible to see Allah, because vision implies He is in a direction, therefore limited!"
+
+<div class="quote-box">
+
+**The proof from the Quran:**
+
+﴿ وُجُوهٌ يَوْمَئِذٍ نَّاضِرَةٌ ۞ إِلَىٰ رَبِّهَا نَاظِرَةٌ ﴾
+
+**"Faces that Day will be radiant, looking at their Lord."** [Al-Qiyamah: 22-23]
+
+**The proof from the Sunnah:**
+
+**« إنكم سترون ربكم كما ترون القمر ليلة البدر »**
+
+**"You will see your Lord as you see the moon on the night of the full moon."** [Al-Bukhari 554, Muslim 633]
+
+</div>
+
+**Rule**: ✅ Seeing Allah in Paradise is established by **mutawatir texts**. The Mu'tazilah denied it following their corrupt principles.
 
 ---
 
 ## 💡 Pause and Reflect
 
-**Personal question**: If you were in Imam Ahmad's time and faced the trial... would you have stood firm or made excuses?
+### The Lesson of the Trial
 
-**Remember:**
-- Sound creed sometimes requires sacrifice to preserve it
-- Do not give precedence to your mind over the texts of revelation
-- Learn the creed of the Salaf from its original sources
-- Beware of the theological doubts spreading today
+\`\`\`
+What does Imam Ahmad's Trial teach us?
+├── 1️⃣ The truth can be in the minority
+│   └── Ahmad stood alone against caliphs and judges
+│
+├── 2️⃣ The scholar must stand firm
+│   └── "If the scholar practices dissimulation..."
+│
+├── 3️⃣ The consequences extend beyond the individual
+│   └── What Ahmad says affects the entire Ummah
+│
+└── 4️⃣ Allah preserves His religion
+    └── The trial ended, the Sunnah triumphed
+\`\`\`
+
+### Personal Questions
+
+- Do you place your reason above the texts?
+- Do you know the creed of the Salaf regarding the Attributes?
+- Would you have stood firm like Imam Ahmad?
 
 ---
 
-*My Lord, increase me in knowledge*`;
+## 📊 Lesson Summary
+
+| Concept | Definition |
+|---------|------------|
+| **Jahmiyyah** | Negators of Attributes — faith = knowledge |
+| **Mu'tazilah** | Reason > Revelation — five principles |
+| **The Trial (Mihna)** | 218-232 H — caliphs force the scholars |
+| **Ahmad's steadfastness** | Saved the creed of the Ummah |
+| **Sunni position** | Affirm the Attributes without resemblance or negation |
+
+---
+
+## 🎯 Conclusion
+
+<div class="quote-box">
+
+**Imam ash-Shafi'i رحمه الله said:**
+
+**« لأن يلقى الله العبد بكل ذنب ما خلا الشرك خير له من أن يلقاه بشيء من الكلام »**
+
+**"It is better for a servant to meet Allah with every sin — except shirk — than to meet Him with anything of speculative theology."**
+
+</div>
+
+### Eternal Lessons
+
+- ✅ **Revelation takes precedence over reason** — when they appear to conflict
+- ✅ **Allah's Attributes are real** — without resemblance to creatures
+- ✅ **The Quran is Allah's Speech** — uncreated
+- ✅ **The steadfastness of scholars** preserves the religion
+- ✅ **Speculative theology** has led generations astray
+
+---
+
+**Next lesson: The Asha'irah and Maturidiyyah — Kalam in Service of the Sunnah?**
+
+And Allah is the Guarantor of success and the Guide to the straight path.
+
+---
+
+*O Lord, increase me in knowledge*
+`;
