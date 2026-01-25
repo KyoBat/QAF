@@ -1,329 +1,729 @@
-export const contentEn = `# Mudarabah — Capital-Labor Partnership
+export const contentEn = `# Mudaraba — The Partnership between Capital and Labor
 
-## Definition of Mudarabah
+<div class="scene-box">
 
-### Linguistic Meaning
-Mudarabah: from "darb" (to travel), meaning to travel for trade. Allah says: ﴿Others travel through the land seeking Allah's bounty﴾ [Al-Muzzammil: 20]
+**🎬 The Scene: The Trading Caravans of Quraysh — Mecca before the Revelation**
 
-### Technical Meaning
-> A partnership contract in profit between the capital owner and the worker, where the owner gives his money to the worker to trade with, and the profit is shared according to their agreement.
+*In the house of Khadija bint Khuwaylid, may Allah be pleased with her, one of the noble women of Quraysh and the wealthiest among them...*
 
-It is also called: **Qirad** in the dialect of Hijaz.
+**Maysara** *(Khadija's servant)*: O my lady, there is in Mecca a young man called Muhammad ibn Abdullah, they call him **the Truthful, the Trustworthy**!
+
+**Khadija**: And what about him?
+
+**Maysara**: People entrust him with their wealth, and he has never betrayed anyone! And he is skilled in trade.
+
+**Khadija** *(reflecting)*: I want him to go with my wealth to Syria to trade, and I will give him more than I give others...
+
+**The Narrator**: *So Muhammad ﷺ went with Khadija's wealth to Syria, and returned with profits she had never seen before. This was a **mudaraba** — the capital from Khadija and the labor from Muhammad ﷺ!*
+
+</div>
 
 ---
 
-## The Legitimacy of Mudarabah
+## Definition of Mudaraba
+
+<div class="quote-box">
+
+**📜 Linguistic and Technical Meaning**
+
+**Linguistically**: Mudaraba comes from **"darb fil-ard"** (striking the earth), meaning traveling for trade. Allah says: ﴿And others who travel through the land, seeking Allah's bounty﴾
+
+**In legal terminology**: A profit-sharing partnership contract between the capital owner and the worker, where the capital owner gives his money to the worker to trade with, and the profit is shared according to what they agree upon.
+
+**Alternative name**: Also called **Qirad** in the language of the people of Hijaz.
+
+</div>
+
+\`\`\`
+┌─────────────────────────────────────────────────────────────────────┐
+│              💰 The Mudaraba Equation                                │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│      Capital Owner           +           The Worker                 │
+│       (Rabb al-mal)                       (Mudarib)                 │
+│            │                                  │                      │
+│            ▼                                  ▼                      │
+│     ┌──────────────┐                ┌──────────────┐                │
+│     │ Provides the │                │ Provides the │                │
+│     │ capital and  │                │ labor and    │                │
+│     │ financial    │                │ commercial   │                │
+│     │ expertise    │                │ effort       │                │
+│     └──────────────┘                └──────────────┘                │
+│                        │                                             │
+│                        ▼                                             │
+│              ┌──────────────────┐                                   │
+│              │    The Profit    │                                   │
+│              │ shared between   │                                   │
+│              │ them according   │                                   │
+│              │ to agreed ratios │                                   │
+│              └──────────────────┘                                   │
+│                                                                      │
+└─────────────────────────────────────────────────────────────────────┘
+\`\`\`
+
+---
+
+## Legitimacy of Mudaraba
 
 ### From the Quran
-> Allah تعالى says: ﴿There is no blame upon you for seeking bounty from your Lord﴾ [Al-Baqarah: 198]
 
-### From the Prophetic Sunna
-> It is reported that Al-Abbas ibn Abd al-Muttalib رضي الله عنه, when giving money in mudarabah, would stipulate to his partner not to cross the sea, not to descend into a valley, and not to buy livestock. If he did, he would be liable. His condition reached the Messenger of Allah ﷺ who approved it. [Reported by al-Bayhaqi]
+<div class="quote-box">
 
-### Consensus
-The Companions رضي الله عنهم are unanimous on the permissibility of mudarabah. The orphans of Abdullah ibn Umar and Abdullah ibn Mas'ud would receive their wealth in mudarabah.
+**📜 Proofs from the Book**
+
+> ﴿There is no sin upon you to seek bounty from your Lord﴾
+> — Al-Baqara: 198
+
+> ﴿And others who travel through the land, seeking Allah's bounty﴾
+> — Al-Muzzammil: 20
+
+</div>
+
+### From the Prophetic Sunnah
+
+<div class="quote-box">
+
+**📜 Proofs from the Sunnah**
+
+> It is reported that **Al-'Abbas ibn 'Abd al-Muttalib**, may Allah be pleased with him, when he gave money in mudaraba, stipulated to his partner:
+> - **Not to travel by sea with it**
+> - **Not to descend into a valley with it**
+> - **Not to buy any animal with it (lit.: anything with a moist liver)**
+> If he did so, he would be liable. **These conditions reached the Messenger of Allah ﷺ who approved them.**
+> — Narrated by al-Bayhaqi
+
+</div>
+
+<div class="scene-box">
+
+**🎬 The Story of Al-'Abbas's Conditions — Smart Protection of Capital**
+
+*Al-'Abbas ibn 'Abd al-Muttalib, may Allah be pleased with him — the Prophet's ﷺ uncle — was among the wealthy of Quraysh and the most knowledgeable in trade...*
+
+**Al-'Abbas** *(giving his money to a young trader)*: Take this money and trade with it, and the profit is between us. But I have conditions!
+
+**The trader**: What are they, O uncle of the Messenger of Allah?
+
+**Al-'Abbas**: 
+- **Do not travel by sea with it** — for the sea has the risk of drowning!
+- **Do not descend into a valley with it** — for valleys have the risk of floods!
+- **Do not buy any animal with it** — meaning animals that might die!
+
+**The trader**: And if I do?
+
+**Al-'Abbas**: **If you do that, you will be liable!**
+
+**The Narrator**: *Al-'Abbas's conditions reached the Messenger of Allah ﷺ... and he approved them!*
+
+</div>
+
+### The Consensus
+
+The Companions, may Allah be pleased with them, are unanimous on the permissibility of mudaraba. The orphans of 'Abdullah ibn 'Umar and 'Abdullah ibn Mas'ud would give their wealth in mudaraba.
 
 ### Reason
-The need calls for mudarabah: the capital owner may not know how to trade, and the worker may not have money. Mudarabah combines both interests.
+
+The need calls for mudaraba:
+- The capital owner may **not know how to trade**
+- The worker may **not have capital**
+- In mudaraba there is **combination of both interests**!
 
 ---
 
-## The Pillars of Mudarabah
+## The Pillars of Mudaraba
+
+\`\`\`
+┌─────────────────────────────────────────────────────────────────────┐
+│              🏛️ The Four Pillars of Mudaraba                         │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│   ┌─────────────┐   ┌─────────────┐   ┌─────────────┐   ┌─────────┐ │
+│   │             │   │             │   │             │   │         │ │
+│   │ The Capital │   │ The Work    │   │ The Profit  │   │ Formula │ │
+│   │             │   │             │   │             │   │         │ │
+│   │ Cash, known │   │ Lawful      │   │ Known ratio │   │ Offer   │ │
+│   │ delivered   │   │ trade,      │   │ shared      │   │ Accept. │ │
+│   │             │   │ independent │   │             │   │         │ │
+│   │             │   │             │   │             │   │         │ │
+│   └─────────────┘   └─────────────┘   └─────────────┘   └─────────┘ │
+│         │                 │                 │               │       │
+│         ▼                 ▼                 ▼               ▼       │
+│   ┌─────────────────────────────────────────────────────────────┐   │
+│   │    Defect in any pillar = Nullity of the mudaraba          │   │
+│   └─────────────────────────────────────────────────────────────┘   │
+│                                                                      │
+└─────────────────────────────────────────────────────────────────────┘
+\`\`\`
 
 ### First Pillar: The Capital
 
-**Its conditions:**
-1. Being in cash: it is not valid in goods according to the majority
-2. Being known: in quantity and quality
-3. Being specified: not a debt in liability
-4. Being delivered to the worker: so he can dispose of it freely
+<div class="scene-box">
+
+**🎬 Conditions of the Capital**
+
+**① That it be in cash**
+- It cannot be in goods according to the majority
+- Wisdom: ease of evaluating profit and loss
+
+**② That it be known**
+- Known quantity: 100,000 riyals ✅
+- Known type: dollar or riyal ✅
+
+**③ That it be specified**
+- Not a debt
+- Pointed to or delivered
+
+**④ That it be delivered to the worker**
+- So he can dispose of it freely
+- It does not remain under the capital owner's hand
+
+</div>
 
 ### Second Pillar: The Work
 
-**Its conditions:**
-1. Being permissible: mudarabah in the forbidden is prohibited
-2. The worker must be independent: free to dispose
-3. Being in trade: buying and selling
+| Condition | Detail |
+|-----------|--------|
+| That it be lawful | Mudaraba in alcohol and gambling is forbidden |
+| That the worker be independent | He has freedom to buy and sell |
+| That it be in trade | Buying and selling, not manufacturing or agriculture according to the majority |
 
 ### Third Pillar: The Profit
 
-**Its conditions:**
-1. Being known in percentage: like half or third
-2. Being shared: not exclusive to one of them
-3. Coming from the profit, not from the capital
+\`\`\`
+┌─────────────────────────────────────────────────────────────────────┐
+│              ✅ Conditions of the Profit                             │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│  ① That it be known by percentage                                   │
+│     • Half ✅   Third ✅   Quarter ✅                                 │
+│     • A fixed amount ❌ (e.g.: 10,000 riyals for you)               │
+│                                                                      │
+│  ② That it be shared                                                │
+│     • It does not go to one alone                                   │
+│     • "All the profit is for me" ❌                                  │
+│                                                                      │
+│  ③ That it come from the profit, not from the capital               │
+│     • We share the increase over the capital                        │
+│     • The capital is returned first                                 │
+│                                                                      │
+└─────────────────────────────────────────────────────────────────────┘
+\`\`\`
 
-**What is prohibited:**
-- Fixing a determined amount for one of them
-- Guaranteeing the capital on the worker
-- Guaranteeing a determined percentage of profit
+<div class="quote-box">
+
+**📜 What Invalidates the Mudaraba**
+
+**❌ Forbidden in profit sharing:**
+- Setting a fixed amount for one of them
+- Guaranteeing the capital to the worker
+- Guaranteeing a fixed profit rate (e.g.: 10% annual guaranteed)
+
+**The reason:** This transforms the mudaraba from a partnership into a usurious loan!
+
+</div>
 
 ### Fourth Pillar: The Formula
 
-**Its types:**
-- "I give you this money in mudarabah"
-- "Take this money, trade with it and the profit is between us"
-- Or what indicates that by word or deed
+**Mudaraba formulas:**
+- "I give you this money in mudaraba"
+- "Take this money and trade with it, and the profit is between us"
+- Or what indicates that in word or deed
 
 ---
 
-## Types of Mudarabah
+## Types of Mudaraba
 
-### Unrestricted Mudarabah
+\`\`\`
+┌─────────────────────────────────────────────────────────────────────┐
+│              📊 Types of Mudaraba                                    │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│                        Mudaraba                                      │
+│                           │                                          │
+│             ┌─────────────┴─────────────┐                           │
+│             │                           │                           │
+│             ▼                           ▼                           │
+│   ┌──────────────────┐       ┌──────────────────┐                   │
+│   │ Free Mudaraba    │       │ Restricted       │                   │
+│   │                  │       │ Mudaraba         │                   │
+│   ├──────────────────┤       ├──────────────────┤                   │
+│   │                  │       │                  │                   │
+│   │ No conditions    │       │ With conditions  │                   │
+│   │ Any trade        │       │ Defined trade    │                   │
+│   │ Any place        │       │ Defined place    │                   │
+│   │ Any time         │       │ Defined time     │                   │
+│   │                  │       │                  │                   │
+│   └──────────────────┘       └──────────────────┘                   │
+│                                                                      │
+└─────────────────────────────────────────────────────────────────────┘
+\`\`\`
 
-**Definition:**
-The capital owner gives his money to the worker to trade without restriction of type, place, or time.
+### Free Mudaraba (Mutlaqa)
 
-**Its rules:**
+<div class="scene-box">
+
+**🎬 Example of Free Mudaraba**
+
+**Sa'id** *(the capital owner)*: Take this money and trade with it, and the profit is between us fifty-fifty.
+
+**Khalid** *(the worker)*: In what type of trade?
+
+**Sa'id**: Whatever you want! You know the market better.
+
+**Khalid**: And may I travel with it?
+
+**Sa'id**: Do what you see is in the best interest.
+
+✅ **This is a free mudaraba** — the worker is free to dispose in all types of trade.
+
+</div>
+
+**Rules of free mudaraba:**
 - The worker can trade in all types of commerce
 - He can travel with the money
-- He can sell for cash or credit according to custom
+- He can sell cash or on credit according to custom
 
-### Restricted Mudarabah
+### Restricted Mudaraba (Muqayyada)
 
-**Definition:**
-The capital owner restricts the worker to a specific type of trade, place, or time.
+<div class="scene-box">
 
-**Examples:**
-- "Trade only in cloth"
-- "Do not travel with the money outside the country"
-- "Do not sell in installments"
+**🎬 Example of Restricted Mudaraba**
 
-**Rule for violating the condition:**
-If the worker violates the condition, he is liable if there is a loss.
+**Ahmad**: Take this money and trade with it, but with conditions:
+- **Trade only in real estate**
+- **Do not travel with the money outside the city**
+- **Do not sell on credit**
 
----
+**Muhammad**: And if I don't comply?
 
-## Rules of Mudarabah
+**Ahmad**: **If you don't comply, you will be liable!**
 
-### Distribution of Profit
+</div>
 
-| Situation | Rule |
-|-----------|------|
-| Profit | Divided according to agreement |
-| No profit | Nothing for the worker; he lost his effort |
-| Loss | On the capital only |
-
-**Important rule:**
-> The profit is a protection for the capital.
-
-Meaning the profit compensates the loss first, then the remainder is divided.
-
-### Liability in Mudarabah
-
-**The principle:**
-> The worker is a trustee; he is not liable except for abuse or negligence.
-
-**Examples of abuse:**
-- Violating the capital owner's condition
-- Trading in the forbidden
-- Lending the money to others
-
-**Examples of negligence:**
-- Leaving the money without protection
-- Neglecting the trade until loss occurs
-
-### Expenses of Mudarabah
-
-**From the capital:**
-- Normal business expenses
-- Storage and transportation costs
-- Employee salaries
-
-**From the worker's personal money:**
-- His personal expenses in town
-- During travel, there is disagreement
+**Rule when conditions are violated:**
+- If the worker violates the conditions, he is liable in case of loss
+- Because he exceeded what the capital owner stipulated
 
 ---
 
-## Termination of Mudarabah
+## Rules of Mudaraba
 
-### Causes of Termination
+### Distribution of Profit and Loss
 
-1. **Rescission by one of the parties:**
-   - Mudarabah is a permissive contract that can be rescinded
-   - Liquidation of the partnership is obligatory upon rescission
+\`\`\`
+┌─────────────────────────────────────────────────────────────────────┐
+│              ⚖️ Distribution of Profit and Loss                      │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│   ┌────────────────────────┐                                        │
+│   │       The Profit       │                                        │
+│   │   ─────────────        │                                        │
+│   │                        │                                        │
+│   │ Shared per agreement   │                                        │
+│   │ Ex: 60% capital owner  │                                        │
+│   │     40% worker         │                                        │
+│   │                        │                                        │
+│   └────────────────────────┘                                        │
+│                                                                      │
+│   ┌────────────────────────┐   ┌────────────────────────────┐       │
+│   │  Neither profit nor    │   │        The Loss            │       │
+│   │       loss             │   │   ─────────────            │       │
+│   │   ─────────────        │   │                            │       │
+│   │                        │   │ • Borne by the capital    │       │
+│   │ • Owner: nothing       │   │ • Worker: loses his       │       │
+│   │ • Worker: loses        │   │   effort only             │       │
+│   │   effort only          │   │ • Worker guarantees       │       │
+│   │                        │   │   nothing except for      │       │
+│   │                        │   │   abuse or negligence     │       │
+│   └────────────────────────┘   └────────────────────────────┘       │
+│                                                                      │
+└─────────────────────────────────────────────────────────────────────┘
+\`\`\`
 
-2. **Death of one of the parties:**
-   - Mudarabah ends by the death of either party
-   - Heirs can demand liquidation
+<div class="quote-box">
 
-3. **Insanity of one of the parties:**
-   - Because it removes legal capacity
+**📜 Golden Rule**
 
-4. **Destruction of capital:**
-   - If money is destroyed before use, it ends
-   - If destroyed after use, it continues with the remainder
+> **Profit protects the capital**
+
+Meaning that profit first covers the loss, then what remains is shared.
+
+**Example:** Capital 100,000 → Year 1 profit 20,000 → Year 2 loss 15,000
+- Result: Net profit 5,000 to be shared according to agreement
+
+</div>
+
+### Guarantee in Mudaraba
+
+<div class="quote-box">
+
+**📜 The Fundamental Rule**
+
+> **The worker is a trustee, he only guarantees in case of abuse or negligence**
+
+</div>
+
+| Type of breach | Example | Rule |
+|----------------|---------|------|
+| Abuse | Violating the owner's conditions | Liable |
+| Abuse | Trading in the unlawful | Liable |
+| Abuse | Lending the money to others | Liable |
+| Negligence | Leaving the money unprotected | Liable |
+| Negligence | Neglecting trade until goods spoiled | Liable |
+| Without abuse | Market loss | Not liable |
+
+### Expenses of Mudaraba
+
+| Type of expense | Who bears it? |
+|-----------------|---------------|
+| Normal business expenses | The capital |
+| Storage and transport rent | The capital |
+| Employee salaries | The capital |
+| Worker's personal expenses at home | His own funds |
+| Worker's expenses while traveling | Disagreement (most correct: the capital) |
+
+---
+
+## Termination of Mudaraba
+
+\`\`\`
+┌─────────────────────────────────────────────────────────────────────┐
+│              ⏰ Causes of Mudaraba Termination                       │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│  ① Rescission by one of the parties                                 │
+│     • Mudaraba is a rescindable contract                            │
+│     • The partnership must be liquidated at rescission              │
+│                                                                      │
+│  ② Death of one of the parties                                      │
+│     • Mudaraba ends at the death of either                          │
+│     • Heirs can demand liquidation                                  │
+│                                                                      │
+│  ③ Insanity of one of the parties                                   │
+│     • Because it removes legal capacity                             │
+│                                                                      │
+│  ④ Destruction of the capital                                       │
+│     • If destroyed before use: mudaraba ends                        │
+│     • If destroyed after use: continues with what remains           │
+│                                                                      │
+└─────────────────────────────────────────────────────────────────────┘
+\`\`\`
 
 ### Liquidation Procedures
 
-1. Sell goods and convert to cash
-2. Recover debts due
-3. Calculate profit and loss
-4. Return capital to its owner
-5. Divide profit according to agreement
+1. **Sell the goods** and convert to cash
+2. **Collect outstanding debts**
+3. **Calculate profit and loss** precisely
+4. **Return the capital** to the owner first
+5. **Divide the profit** according to agreement
 
 ---
 
-## Difference Between Mudarabah and Usurious Loan
+## Difference Between Mudaraba and Usurious Loan
 
-| Legal Mudarabah | Usurious Loan |
-|-----------------|---------------|
-| Capital is for trade | Loan is for consumption or production |
-| Profit is not guaranteed | Interest is guaranteed |
-| Loss is on the capital owner | Borrower guarantees repayment |
-| True partnership | Creditor-debtor relationship |
-| Permissible | Forbidden |
+\`\`\`
+┌─────────────────────────────────────────────────────────────────────┐
+│         ⚖️ Islamic Mudaraba VS Usurious Loan                         │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│   ┌────────────────────────┐  ┌────────────────────────┐            │
+│   │                        │  │                        │            │
+│   │  Islamic Mudaraba      │  │   Usurious Loan       │            │
+│   │   ──────────────       │  │   ──────────────       │            │
+│   │                        │  │                        │            │
+│   │ • Capital for trade    │  │ • Loan for consumption│            │
+│   │ • Profit not guaranteed│  │ • Interest guaranteed │            │
+│   │ • Loss on capital      │  │ • Borrower guarantees │            │
+│   │ • Real partnership     │  │   everything          │            │
+│   │ • Profit in %          │  │ • Creditor-debtor     │            │
+│   │                        │  │   relationship        │            │
+│   │      ✅ Lawful         │  │ • Fixed interest      │            │
+│   │                        │  │       ❌ Forbidden    │            │
+│   │                        │  │                        │            │
+│   └────────────────────────┘  └────────────────────────┘            │
+│                                                                      │
+└─────────────────────────────────────────────────────────────────────┘
+\`\`\`
 
 ---
 
-## Contemporary Applications of Mudarabah
+## 📖 From the Stories of the Salaf: The Mudaraba of Khadija and the Prophet ﷺ
+
+<div class="scene-box">
+
+**🎬 The Story of the Mudaraba That Changed History**
+
+*Fifteen years before the Revelation, in Mecca...*
+
+**Maysara** *(Khadija's servant)*: O my lady, you sent me with Muhammad ibn Abdullah on the journey to Syria...
+
+**Khadija** *(eager)*: How did you find him?
+
+**Maysara**: O my lady, I have never seen anyone as trustworthy as him! And trading with him profits double what we profit with others!
+
+**Khadija**: How is that?
+
+**Maysara**: He doesn't cheat, doesn't lie, doesn't betray... And people trust him and buy from him!
+
+**The Narrator**: *Khadija then desired to marry him... Thus the mudaraba was the cause of the blessed marriage from which came the lineage of the Prophet ﷺ!*
+
+</div>
+
+<div class="quote-box">
+
+**📜 The Lesson Learned**
+
+**Honesty is the worker's capital!**
+
+Muhammad ﷺ did not own money, but he owned what is more precious: **truthfulness and honesty**. With them, the mudaraba succeeded and Khadija profited, and Islam profited from this blessed marriage!
+
+</div>
+
+---
+
+## Contemporary Applications of Mudaraba
 
 ### Islamic Investment Funds
 
-**How they work:**
-- Investors: the capital owners
-- Fund manager: the mudarib (worker)
-- Profit is distributed according to agreed percentages
+\`\`\`
+┌─────────────────────────────────────────────────────────────────────┐
+│              🏦 Structure of Islamic Investment Fund                 │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│   ┌──────────────┐         ┌──────────────┐         ┌────────────┐  │
+│   │  Investors   │ ──────► │   The Fund   │ ──────► │  Business  │  │
+│   │(Cap. owners) │  funds  │  (Mudarib)   │  invest.│  Projects  │  │
+│   └──────────────┘         └──────────────┘         └────────────┘  │
+│          ▲                        │                        │        │
+│          │                        │                        ▼        │
+│          │                        │                 ┌────────────┐  │
+│          │                        │                 │  Profits   │  │
+│          │                        │                 │ or losses  │  │
+│          │                        │                 └────────────┘  │
+│          │                        ▼                        │        │
+│          │              ┌──────────────────┐               │        │
+│          └───────────── │ Distribution     │ ◄─────────────┘        │
+│                         │ according to     │                        │
+│                         │ agreed ratios    │                        │
+│                         └──────────────────┘                        │
+│                                                                      │
+└─────────────────────────────────────────────────────────────────────┘
+\`\`\`
 
-**Validity conditions:**
-1. Clarity of profit percentages
+**Conditions for validity:**
+1. Clarity of profit ratios
 2. No guarantee of capital
-3. Investment in permissible activities
+3. Investment in the lawful
 
 ### Investment Deposits in Islamic Banks
 
-**Their form:**
-- Customer: the capital owner
-- Bank: the mudarib
-- Profit is divided according to agreement
-
-**Difference from usurious deposit:**
-- No guarantee of capital
-- No guarantee of a determined profit percentage
-- Customer is a partner in profit and loss
-
-### Mudarabah Companies
-
-**Definition:**
-Companies that gather investor funds and invest them in commercial projects.
-
-**Their conditions:**
-1. Transparency in management
-2. Clarification of profit distribution mechanism
-3. Commitment to Shariah guidelines
+| Element | Islamic Deposit | Usurious Deposit |
+|---------|-----------------|------------------|
+| Relationship | Mudaraba (partnership) | Loan (debt) |
+| Capital | Not guaranteed | Guaranteed |
+| Profit | Variable percentage | Fixed interest |
+| Loss | Borne by depositor | No loss |
+| Rule | ✅ Lawful | ❌ Forbidden |
 
 ---
 
-## 📖 Stories from the Salaf
+## 🎯 Contemporary Cases: Judge for Yourself!
 
-### The Mudarabah of Al-Abbas ibn Abd al-Muttalib
+### Case 1: Investment in an Islamic Fund
 
-Al-Abbas ibn Abd al-Muttalib رضي الله عنه — the Prophet's uncle ﷺ — was among the wealthiest of Quraysh and most knowledgeable in trade. When giving his money in mudarabah, he would stipulate precise conditions to protect the capital:
+<div class="scene-box">
 
-1. **"Not to cross the sea with it"** — protection from drowning risks
-2. **"Not to descend into a valley with it"** — protection from flood risks
-3. **"Not to buy livestock with it"** — animals that might perish
+**❓ The Question**
 
-He said: **"If he does that, he is liable."**
+I placed 100,000 riyals in an Islamic investment fund. The fund takes:
+- 2% annual management fees
+- 20% of profits
 
-His condition reached the Messenger of Allah ﷺ **who approved it**.
+After a year, the fund lost 10%. Who bears the loss?
 
-**Lessons learned:**
-- ✅ It is permissible to restrict mudarabah to protect capital
-- ✅ The worker is liable if they violate the conditions
-- ✅ Conditions must be reasonable and understandable
+</div>
 
----
+**The Answer:**
 
-## 🎯 Contemporary Cases
-
-### Case One: Investing in an Islamic Fund
-
-**Question:** I placed 100,000 riyals in an Islamic investment fund. The fund takes 2% annual management fees + 20% of profits. After a year, the fund lost 10%. Who bears the loss?
-
-**Answer:** ✅ **You bear the loss in capital** — because you are the capital owner. However:
-- Management fees (2%) are due because they are wages for work
-- The 20% of profits is not due because there is no profit
-- If the fund guarantees capital, this violates Shariah
-
----
-
-### Case Two: Funding a Friend's Project
-
-**Question:** My friend has an excellent project idea but has no money. I want to fund him with 50,000 riyals on condition that we share profits equally. Is this permissible?
-
-**Answer:** ✅ **Permissible** — this is a valid mudarabah. But note:
-- ❌ Do not stipulate guarantee of capital
-- ❌ Do not stipulate a fixed profit (like 10% annually)
-- ✅ Stipulate a percentage of profit (like 50%)
-- ✅ Document the agreement in writing
-
----
-
-### Case Three: Investment Deposit in an Islamic Bank
-
-**Question:** The Islamic bank offers an "investment deposit" with expected return of 5% annually. What is the difference between it and usurious bank interest?
-
-**Answer:**
-- **Islamic bank:** 5% is expected, not guaranteed; it may increase, decrease, or lose
-- **Usurious bank:** 5% is guaranteed regardless of what happens
-
-⚠️ **Warning:** If the Islamic bank guarantees the return, this is disguised usury!
-
----
-
-### Case Four: Crowdfunding Platforms
-
-**Question:** An online platform gathers investor funds and finances small projects. It gives investors a fixed 12% annually. Is this halal?
-
-**Answer:** ❌ **Prohibited** — a fixed guaranteed return = usury. Legitimate mudarabah requires:
-- A percentage of profit, not a fixed amount
-- Possibility of loss
-- Transparency in the financed projects
-
----
-
-### Case Five: Real Estate Investment
-
-**Question:** I gave someone one million riyals to buy property and rent it out. We agreed that the rent goes to me and the property belongs to him at the end. Is this valid?
-
-**Answer:** ⚠️ **This is not a valid mudarabah** — because:
-- Mudarabah is in trade (buying and selling), not in renting
-- Agreeing that the property belongs to him = guarantee of capital
-
-**The correct alternative:** Partnership in the property, rent is divided according to shares, and when sold, the price is divided.
-
----
-
-## 💡 Pause and Reflect
-
-> **"Profit accompanies liability"** — A juristic maxim
-
-Meaning: whoever wants profit must bear the possibility of loss.
-
-Reflect on your investments:
-
-🔹 Are you looking for "a guaranteed investment with fixed return"? If you find it, know that it is likely disguised usury.
-
-🔹 Real investment involves risk. Are you ready to bear potential loss?
-
-🔹 When you give your money to someone to invest, do you document the agreement? Do you follow the investment's performance?
-
-**Remember:** Halal money may decrease but is blessed, and haram money may increase but is devoid of blessing.
-
----
-
-## Lesson Summary
+✅ **You bear the loss on capital** — because you are the capital owner.
 
 | Element | Rule |
 |---------|------|
-| Mudarabah | Legal by Sunna and consensus |
-| Capital | Must be in cash, known, and delivered |
-| Profit | Divided in known percentages, not fixed amounts |
-| Loss | On the capital, not on the worker |
-| Liability | No liability except for abuse or negligence |
+| Management fees (2%) | Due — because they are fees for work |
+| The 20% of profits | Not due — because there is no profit |
+| Capital guarantee | If the fund guarantees it = against Sharia ❌ |
 
 ---
 
-*My Lord, increase me in knowledge*
+### Case 2: Financing a Friend's Project
+
+<div class="scene-box">
+
+**❓ The Question**
+
+My friend has an excellent project idea but has no money. I want to finance him with 50,000 riyals on condition we share profits fifty-fifty.
+
+Is this permissible?
+
+</div>
+
+**The Answer:**
+
+✅ **Permissible** — this is a valid Islamic mudaraba. But be careful:
+
+| ✅ Correct | ❌ Wrong |
+|-----------|----------|
+| Percentage of profit (50%) | Guarantee of capital |
+| Document the agreement in writing | Fixed profit (10% annually) |
+| Define the type of trade | Fixed amount (5000 for you) |
+
+---
+
+### Case 3: The Investment Deposit
+
+<div class="scene-box">
+
+**❓ The Question**
+
+The Islamic bank offers an "investment deposit" with an expected return of 5% annually.
+The conventional bank offers a "deposit" with a guaranteed return of 5%.
+
+What is the difference?
+
+</div>
+
+**The Answer:**
+
+\`\`\`
+┌─────────────────────────────────────────────────────────────────────┐
+│              The Fundamental Difference                              │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│   The Islamic bank:                                                 │
+│   • 5% expected and not guaranteed                                  │
+│   • May increase, decrease, or lose                                 │
+│   • Relationship: partnership (mudaraba)                            │
+│   • ✅ Lawful                                                        │
+│                                                                      │
+│   The usurious bank:                                                │
+│   • 5% guaranteed no matter what                                    │
+│   • Does not change and does not lose                               │
+│   • Relationship: interest-bearing loan                             │
+│   • ❌ Forbidden                                                     │
+│                                                                      │
+│   ⚠️ Warning: If the "Islamic" bank guarantees the return           │
+│      = disguised usury!                                             │
+│                                                                      │
+└─────────────────────────────────────────────────────────────────────┘
+\`\`\`
+
+---
+
+### Case 4: Crowdfunding Platforms
+
+<div class="scene-box">
+
+**❓ The Question**
+
+An electronic platform collects investors' funds and finances small projects. It gives investors **12% fixed annual return**.
+
+Is this lawful?
+
+</div>
+
+**The Answer:**
+
+❌ **Forbidden** — the fixed guaranteed return = usury!
+
+**Conditions of Islamic mudaraba:**
+- ✅ A percentage of profit, not a fixed amount
+- ✅ Possibility of loss
+- ✅ Transparency about funded projects
+- ❌ "12% guaranteed" = explicit usury
+
+---
+
+### Case 5: Real Estate Investment
+
+<div class="scene-box">
+
+**❓ The Question**
+
+I gave someone a million riyals to buy real estate and rent it. We agreed:
+- The rent is for me
+- The property belongs to him at the end
+
+Is this valid?
+
+</div>
+
+**The Answer:**
+
+⚠️ **This is not a valid mudaraba** — because:
+- Mudaraba concerns trade (buying and selling), not renting
+- Agreeing that the property belongs to him = guaranteeing the capital (forbidden!)
+
+**✅ The correct alternative:** 
+Partnership in the property:
+- Rent is shared according to shares
+- At sale, the price is shared according to each one's capital
+
+---
+
+## 💡 Stop and Reflect
+
+<div class="quote-box">
+
+**📜 Great Legal Maxim**
+
+> **"Al-ghunm bil-ghurm"** (Profit with risk)
+
+Meaning: whoever wants profit must bear the possibility of loss.
+
+</div>
+
+**Reflect on your investments:**
+
+🔹 Are you looking for a **"guaranteed investment with fixed return"**?
+- If you find one, know that it is probably **disguised usury**!
+
+🔹 Real investment involves risk. Are you ready to bear potential loss?
+
+🔹 When you give your money to someone to invest it:
+- Do you **document the agreement**?
+- Do you **follow the performance** of the investment?
+- Do you **know where your money** is invested?
+
+**Remember:** Lawful money may decrease but it is **blessed**, and unlawful money may increase but it is **destroyed**!
+
+---
+
+## 🔑 Lesson Summary
+
+\`\`\`
+┌─────────────────────────────────────────────────────────────────────┐
+│              🎯 Summary: Rules of Mudaraba                           │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│  ✅ Mudaraba = Partnership between capital and labor                │
+│                                                                      │
+│  ✅ Capital: known cash delivered to the worker                     │
+│                                                                      │
+│  ✅ Profit: shared according to known ratios, not fixed amounts     │
+│                                                                      │
+│  ✅ Loss: on the capital, worker loses his effort only              │
+│                                                                      │
+│  ✅ Guarantee: worker is trustee, guarantees only if                │
+│     abuse or negligence                                             │
+│                                                                      │
+│  ✅ Golden rule: "Al-ghunm bil-ghurm" (profit with risk)            │
+│                                                                      │
+│  ⚠️ Warning: fixed guaranteed return = usury!                       │
+│                                                                      │
+└─────────────────────────────────────────────────────────────────────┘
+\`\`\`
+
+---
+
+*Lord, increase me in knowledge*
 `;
