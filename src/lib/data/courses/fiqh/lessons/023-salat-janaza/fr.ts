@@ -180,6 +180,135 @@ Les Malikites considèrent que :
 
 ---
 
+## 🎯 Cas Contemporains
+
+### ✈️ Cas 1 : Prier la Janaza en Absence (Décès à l'Étranger)
+
+> **Situation :** Le père de Mariam est décédé dans un autre pays et y a été enterré. Elle n'a pas pu voyager pour les funérailles. Peut-elle prier sur lui depuis son pays ?
+
+**❓ La prière sur l'absent (salat al-gha'ib) est-elle permise ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Analyse :**
+
+| Critère | 🟡 Malikite | 🔵 Shafi'ite |
+|---------|-----------|------------|
+| Salat al-gha'ib | **Non légitime** | Légitime |
+| Raison | Le cas du Négus était une exception | Généralisable |
+
+> 💡 **Règle :** Selon les Malikites, la prière sur l'absent n'est pas légitime car le cas du Négus était exceptionnel. Selon les Shafi'ites, elle est permise. Mariam peut faire du'a pour son père sans prier formellement la janaza.
+
+</details>
+
+---
+
+### 👥 Cas 2 : Plusieurs Défunts dans une Seule Prière
+
+> **Situation :** Lors d'un accident, trois membres de la même famille sont décédés. La famille veut prier sur eux ensemble.
+
+**❓ Peut-on prier une seule janaza pour plusieurs défunts ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Analyse :**
+
+| Critère | Application |
+|---------|-------------|
+| Permission | Oui, c'est permis |
+| Disposition | Les corps sont alignés devant l'imam |
+| Ordre | Les hommes plus près de l'imam, puis les femmes |
+| Du'a | Le du'a est fait au pluriel |
+
+> 💡 **Règle :** Il est permis de prier sur plusieurs défunts dans une seule prière. On les place devant l'imam et on adapte le du'a au pluriel ("Allahumma ghfir lahum").
+
+</details>
+
+---
+
+### 👩 Cas 3 : Participation des Femmes à la Prière Janaza
+
+> **Situation :** Aisha veut participer à la prière funéraire de sa grand-mère à la mosquée. Certains lui disent que les femmes ne doivent pas y assister.
+
+**❓ Les femmes peuvent-elles participer à la prière janaza ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Analyse :**
+
+| Critère | Application |
+|---------|-------------|
+| Permission | 🟡 Malikites : Permise mais déconseillée |
+| Raison | Risque de lamentations et de fitna |
+| Si elle assiste | Sa prière est valide |
+
+> 💡 **Règle :** Selon les Malikites, la participation des femmes à la janaza est permise mais déconseillée. Si elle assiste avec pudeur et sans lamentation, sa prière est valide.
+
+</details>
+
+---
+
+### 🏥 Cas 4 : Prière Janaza à la Morgue de l'Hôpital
+
+> **Situation :** Le corps de Abdullah est à la morgue de l'hôpital. La famille veut prier la janaza sur place avant le transport au cimetière.
+
+**❓ Peut-on prier la janaza à la morgue de l'hôpital ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Analyse :**
+
+| Critère | Application |
+|---------|-------------|
+| Lieu de la prière | Pas de lieu spécifique exigé |
+| Morgue | Permis si l'endroit est propre |
+| Mieux | Le musalla ou la mosquée est préféré |
+
+> 💡 **Règle :** La prière janaza peut être faite dans tout endroit propre et décent, y compris la morgue si nécessaire. L'idéal est de la faire au musalla ou à la mosquée.
+
+</details>
+
+---
+
+### ⚠️ Cas 5 : Prier sur Quelqu'un qui Ne Priait Pas
+
+> **Situation :** Ahmed est décédé alors qu'il ne priait pas régulièrement. Sa famille demande si on peut prier sur lui.
+
+**❓ Peut-on prier la janaza sur un musulman qui ne priait pas ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Analyse :**
+
+| Critère | Application |
+|---------|-------------|
+| S'il se déclarait musulman | On prie sur lui |
+| Le péché d'abandon | N'exclut pas de la prière |
+| Du'a | Demander pardon pour lui |
+| Celui qui nie l'obligation | Cas différent (kufr) |
+
+> 💡 **Règle :** Tant qu'il se déclarait musulman et n'a pas nié l'obligation de la prière, on prie sur lui. L'abandon par négligence est un péché grave mais n'exclut pas de l'islam selon la majorité.
+
+</details>
+
+---
+
+## 💭 Réflexion
+
+> *« La mort est une réalité que nous devons affronter. La prière janaza est notre dernière faveur envers nos frères et sœurs défunts. Ne manquons pas cette occasion d'obtenir l'énorme récompense de "deux montagnes". »*
+
+**Questions à méditer :**
+1. Ai-je mémorisé le du'a pour le défunt ?
+2. Est-ce que j'assiste aux funérailles quand je peux ?
+3. Suis-je préparé pour ma propre mort ?
+
+---
+
 ## ❓ FAQ (الأسئلة الشائعة)
 
 **Q1 : Faut-il réciter la Fatiha dans la prière funéraire ?**

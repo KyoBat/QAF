@@ -150,6 +150,135 @@ The funeral prayer is a **collective obligation (fard kifaya)**: if some perform
 
 ---
 
+## 🎯 Contemporary Cases
+
+### ✈️ Case 1: Praying Janaza in Absentia (Death Abroad)
+
+> **Situation:** Mariam's father passed away in another country and was buried there. She couldn't travel for the funeral.
+
+**❓ Can she pray over him from her country?**
+
+<details>
+<summary>📜 See the answer</summary>
+
+**Analysis:**
+
+| Criterion | 🟡 Maliki | 🔵 Shafi'i |
+|-----------|---------|----------|
+| Salat al-gha'ib | **Not legitimate** | Legitimate |
+| Reason | Negus case was exceptional | Generalizable |
+
+> 💡 **Rule:** According to Malikis, prayer for the absent is not legitimate because the Negus case was exceptional. According to Shafi'is, it is permitted. Mariam can make du'a for her father without a formal janaza prayer.
+
+</details>
+
+---
+
+### 👥 Case 2: Multiple Deceased in One Prayer
+
+> **Situation:** In an accident, three members of the same family died. The family wants to pray over them together.
+
+**❓ Can one janaza prayer be performed for multiple deceased?**
+
+<details>
+<summary>📜 See the answer</summary>
+
+**Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Permission | Yes, it is permitted |
+| Arrangement | Bodies are lined up in front of the imam |
+| Order | Men closer to imam, then women |
+| Du'a | Made in plural form |
+
+> 💡 **Rule:** It is permitted to pray over multiple deceased in one prayer. They are placed before the imam and du'a is adapted to plural ("Allahumma ghfir lahum").
+
+</details>
+
+---
+
+### 👩 Case 3: Women Participating in Janaza Prayer
+
+> **Situation:** Aisha wants to participate in her grandmother's funeral prayer at the mosque. Some tell her women shouldn't attend.
+
+**❓ Can women participate in janaza prayer?**
+
+<details>
+<summary>📜 See the answer</summary>
+
+**Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Permission | 🟡 Malikis: Permitted but discouraged |
+| Reason | Risk of wailing and fitna |
+| If she attends | Her prayer is valid |
+
+> 💡 **Rule:** According to Malikis, women's participation in janaza is permitted but discouraged. If she attends modestly without wailing, her prayer is valid.
+
+</details>
+
+---
+
+### 🏥 Case 4: Janaza Prayer at the Hospital Morgue
+
+> **Situation:** Abdullah's body is at the hospital morgue. The family wants to pray janaza there before transport to the cemetery.
+
+**❓ Can janaza be prayed at the hospital morgue?**
+
+<details>
+<summary>📜 See the answer</summary>
+
+**Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Prayer location | No specific place required |
+| Morgue | Permitted if the place is clean |
+| Better | Musalla or mosque is preferred |
+
+> 💡 **Rule:** Janaza prayer can be performed in any clean and decent place, including the morgue if necessary. Ideally, it should be done at the musalla or mosque.
+
+</details>
+
+---
+
+### ⚠️ Case 5: Praying for Someone Who Didn't Pray
+
+> **Situation:** Ahmed died while he wasn't praying regularly. His family asks if they can pray over him.
+
+**❓ Can janaza be prayed for a Muslim who didn't pray?**
+
+<details>
+<summary>📜 See the answer</summary>
+
+**Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| If he testified shahada | He is prayed upon |
+| Sin of abandonment | Doesn't exclude from prayer |
+| Du'a | Ask forgiveness for him |
+| Denying obligation | Different case (kufr) |
+
+> 💡 **Rule:** As long as he testified the shahada and didn't deny the obligation of prayer, he is prayed upon. Abandonment due to negligence is a grave sin but doesn't exit Islam according to the majority.
+
+</details>
+
+---
+
+## 💭 Reflection
+
+> *"Death is a reality we must face. The janaza prayer is our final favor to our deceased brothers and sisters. Let us not miss this opportunity to earn the immense reward of 'two mountains'."*
+
+**Questions to ponder:**
+1. Have I memorized the du'a for the deceased?
+2. Do I attend funerals when I can?
+3. Am I prepared for my own death?
+
+---
+
 ## ❓ Frequently Asked Questions (الأسئلة الشائعة)
 
 **Q1: Is Al-Fatiha recited in funeral prayer?**

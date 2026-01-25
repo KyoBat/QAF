@@ -181,6 +181,136 @@ Les Malikites considèrent que :
 
 ---
 
+## 🎯 Cas Contemporains
+
+### 🏢 Cas 1 : Éclipse Pendant les Heures de Travail
+
+> **Situation :** Une éclipse solaire est annoncée pour 10h du matin. Karim est au bureau et ne peut pas quitter son poste facilement.
+
+**❓ Que doit-il faire ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Analyse :**
+
+| Critère | Application |
+|---------|-------------|
+| Statut | Sunna Mu'akkadah (fortement recommandée) |
+| Obligation | Non obligatoire mais très méritoire |
+| Au travail | Demander une pause si possible |
+| Individuel | Peut prier individuellement si nécessaire |
+
+> 💡 **Règle :** Si possible, demander une pause pour prier. Sinon, faire du dhikr, istighfar et du'a pendant l'éclipse. La prière individuelle est aussi valide si on ne peut rejoindre un groupe.
+
+</details>
+
+---
+
+### 🌑 Cas 2 : Éclipse Partielle vs Totale — Règles Différentes ?
+
+> **Situation :** L'éclipse annoncée n'est que partielle (30% du soleil obscurci). Certains disent qu'il ne faut prier que pour l'éclipse totale.
+
+**❓ Faut-il prier pour une éclipse partielle ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Analyse :**
+
+| Critère | Application |
+|---------|-------------|
+| Éclipse partielle | Prier est recommandé |
+| Éclipse totale | Prier est encore plus recommandé |
+| Texte | Le hadith parle d'éclipse sans distinguer |
+
+> 💡 **Règle :** La prière de l'éclipse est recommandée dès qu'il y a éclipse, qu'elle soit partielle ou totale. Plus l'éclipse est importante, plus l'insistance est grande.
+
+</details>
+
+---
+
+### ☁️ Cas 3 : Éclipse Annoncée mais Ciel Nuageux
+
+> **Situation :** Les astronomes annoncent une éclipse, mais le ciel est complètement couvert de nuages. On ne peut pas voir l'éclipse.
+
+**❓ Doit-on quand même prier l'éclipse ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Analyse :**
+
+| Critère | Application |
+|---------|-------------|
+| Si non visible | Divergence |
+| 🟡 Malikites | Si confirmée scientifiquement, on peut prier |
+| Condition originelle | Basée sur la vision |
+
+> 💡 **Règle :** L'avis majoritaire est que la prière est liée à la vision de l'éclipse. Cependant, si l'éclipse est confirmée par calcul certain, certains savants permettent de prier. En cas de doute, s'abstenir.
+
+</details>
+
+---
+
+### 🚧 Cas 4 : Pas de Mosquée à Proximité Pendant l'Éclipse
+
+> **Situation :** Fatima habite dans une zone isolée sans mosquée. Une éclipse solaire a lieu.
+
+**❓ Peut-elle prier l'éclipse seule chez elle ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Analyse :**
+
+| Critère | Application |
+|---------|-------------|
+| Congregation | Sunna mais pas condition |
+| Individuel | Valide |
+| Éclipse solaire | La congregation est préférée |
+| Éclipse lunaire | 🟡 Malikites : Individuelle recommandée |
+
+> 💡 **Règle :** La prière de l'éclipse peut être faite individuellement si on ne peut rejoindre un groupe. Pour l'éclipse lunaire, les Malikites recommandent de prier seul chez soi.
+
+</details>
+
+---
+
+### ⏰ Cas 5 : Rater la Prière de l'Éclipse — Y a-t-il un Qada ?
+
+> **Situation :** Youssef n'a pas su qu'il y avait une éclipse. Quand il l'apprend, l'éclipse est terminée.
+
+**❓ Peut-il rattraper la prière de l'éclipse ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Analyse :**
+
+| Critère | Application |
+|---------|-------------|
+| Temps de la prière | Du début à la fin de l'éclipse |
+| Après la fin | Pas de rattrapage (qada) |
+| Raison | La prière est liée à sa cause |
+
+> 💡 **Règle :** La prière de l'éclipse ne se rattrape pas après la fin de l'éclipse. Son temps est lié à l'existence de la cause (éclipse). Après, on peut faire du dhikr et istighfar.
+
+</details>
+
+---
+
+## 💭 Réflexion
+
+> *« L'éclipse est un signe d'Allah pour nous rappeler Sa puissance. Le Prophète صلى الله عليه وسلم a corrigé la croyance des gens le jour de la mort de son fils. Quelle leçon d'enseignement même dans la douleur ! »*
+
+**Questions à méditer :**
+1. Est-ce que je profite des phénomènes naturels pour me rapprocher d'Allah ?
+2. Suis-je affecté par les superstitions liées aux éclipses ?
+3. Est-ce que je multiplie le dhikr et l'istighfar en ces moments ?
+
+---
+
 ## ❓ FAQ (الأسئلة الشائعة)
 
 **Q1 : Combien de ruku' fait-on dans la prière de l'éclipse ?**

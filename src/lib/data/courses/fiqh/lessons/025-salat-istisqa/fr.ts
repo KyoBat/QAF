@@ -204,6 +204,139 @@ Les Malikites considèrent que :
 
 ---
 
+## 🎯 Cas Contemporains
+
+### 🏙️ Cas 1 : Sécheresse dans les Villes Modernes avec Approvisionnement en Eau
+
+> **Situation :** La ville de Karim dispose d'un système de distribution d'eau potable et d'irrigation. Il n'y a pas de pluie depuis des mois, mais l'eau coule toujours des robinets.
+
+**❓ L'Istisqa' est-elle encore pertinente dans ce cas ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Analyse :**
+
+| Critère | Application |
+|---------|-------------|
+| Source de l'eau | Même l'eau des barrages vient de la pluie |
+| Baraka | La pluie apporte la baraka dans la terre |
+| Sunna | L'Istisqa' reste recommandée |
+| Rappel | C'est une occasion de se tourner vers Allah |
+
+> 💡 **Règle :** L'Istisqa' reste recommandée même avec des infrastructures modernes, car la pluie apporte la baraka, remplit les nappes phréatiques et nous rappelle notre dépendance envers Allah.
+
+</details>
+
+---
+
+### 👤 Cas 2 : Istisqa' Individuelle vs Congregationnelle
+
+> **Situation :** Fatima vit loin de toute mosquée et ne peut pas rejoindre une congregation pour l'Istisqa'. Elle veut invoquer seule.
+
+**❓ Peut-elle faire l'Istisqa' individuellement ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Analyse :**
+
+| Critère | Application |
+|---------|-------------|
+| Du'a simple | Valid et recommandé |
+| Du'a après les prières | Bon niveau |
+| Prière complète | Le meilleur mais pas obligatoire |
+| Seul | Permis mais moins méritoire |
+
+> 💡 **Règle :** L'Istisqa' a trois niveaux : du'a simple (minimum), du'a après les prières (moyen), prière complète avec khutba (meilleur). Fatima peut invoquer seule à tout moment.
+
+</details>
+
+---
+
+### 🧥 Cas 3 : Retourner le Manteau — Sagesse et Pratique
+
+> **Situation :** Lors de l'Istisqa', on demande de retourner son manteau. Omar porte un costume moderne et se demande comment appliquer cette sunna.
+
+**❓ Comment appliquer le retournement du vêtement avec des habits modernes ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Analyse :**
+
+| Critère | Application |
+|---------|-------------|
+| Sagesse | Espérer qu'Allah change la situation |
+| Façon | Mettre le côté droit à gauche |
+| Vêtement moderne | Retourner la veste ou le manteau |
+| Qui retourne | 🟡 Malikites : Imam ET fidèles |
+
+> 💡 **Règle :** On peut retourner sa veste, son manteau ou tout vêtement extérieur. L'objectif est de manifester l'espoir qu'Allah change la situation de sécheresse en pluie.
+
+</details>
+
+---
+
+### 🌧️ Cas 4 : Que Faire si la Pluie Vient Pendant la Prière
+
+> **Situation :** Pendant la prière d'Istisqa', il commence à pleuvoir. Les gens sont joyeux.
+
+**❓ Que doit-on faire ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Analyse :**
+
+| Critère | Application |
+|---------|-------------|
+| Continuer la prière | Oui, terminer normalement |
+| Remercier Allah | Al-hamdulillah |
+| Du'a recommandé | "اللهم صيبًا نافعًا" |
+| S'exposer | Sunna de s'exposer un peu à la pluie |
+
+> 💡 **Règle :** Si la pluie vient, remercier Allah, terminer la prière, dire "Allahumma sayyiban nafi'an" et s'exposer à la pluie comme le faisait le Prophète صلى الله عليه وسلم.
+
+</details>
+
+---
+
+### 🔄 Cas 5 : Répéter l'Istisqa' Quand la Pluie ne Vient Pas
+
+> **Situation :** La communauté a fait l'Istisqa' mais la pluie n'est pas venue. Certains perdent espoir.
+
+**❓ Peut-on répéter l'Istisqa' plusieurs fois ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Analyse :**
+
+| Critère | Application |
+|---------|-------------|
+| Répétition | Permise et recommandée |
+| Nombre | Pas de limite |
+| Intensifier | Augmenter l'istighfar et la sadaqa |
+| Patience | La réponse d'Allah peut être différée |
+
+> 💡 **Règle :** On peut répéter l'Istisqa' autant de fois que nécessaire. Il faut multiplier l'istighfar et la sadaqa, car ce sont des causes de la pluie selon Sourate Nuh.
+
+</details>
+
+---
+
+## 💭 Réflexion
+
+> *« La pluie est une miséricorde d'Allah. L'Istisqa' nous rappelle notre totale dépendance envers Lui. Quand les nuages s'amoncellent et que les gouttes tombent, n'oublie pas de dire : 'Allahumma sayyiban nafi'an'. »*
+
+**Questions à méditer :**
+1. Est-ce que je multiplie l'istighfar comme cause de la pluie ?
+2. Est-ce que je donne la sadaqa en période de sécheresse ?
+3. Est-ce que je me tourne vers Allah avec humilité en période de difficulté ?
+
+---
+
 ## ❓ FAQ (الأسئلة الشائعة)
 
 **Q1 : La prière de l'Istisqa' a-t-elle des takbirat supplémentaires comme le Aïd ?**

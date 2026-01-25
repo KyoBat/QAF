@@ -145,6 +145,139 @@ export const content = `# 📜 صَلَاةُ الِاسْتِسْقَاءِ —
 
 ---
 
+## 🎯 Contemporary Cases
+
+### 🏙️ Case 1: Drought in Modern Cities with Water Supply
+
+> **Situation:** Karim's city has a water distribution and irrigation system. No rain has fallen for months, but water still flows from taps.
+
+**❓ Is Istisqa' still relevant in this case?**
+
+<details>
+<summary>📜 See the answer</summary>
+
+**Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Water source | Even dam water comes from rain |
+| Baraka | Rain brings baraka to the land |
+| Sunna | Istisqa' remains recommended |
+| Reminder | An occasion to turn to Allah |
+
+> 💡 **Rule:** Istisqa' remains recommended even with modern infrastructure, as rain brings baraka, fills groundwater, and reminds us of our dependence on Allah.
+
+</details>
+
+---
+
+### 👤 Case 2: Individual vs Congregational Istisqa'
+
+> **Situation:** Fatima lives far from any mosque and cannot join a congregation for Istisqa'. She wants to supplicate alone.
+
+**❓ Can she perform Istisqa' individually?**
+
+<details>
+<summary>📜 See the answer</summary>
+
+**Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Simple du'a | Valid and recommended |
+| Du'a after prayers | Good level |
+| Full prayer | Best but not obligatory |
+| Alone | Permitted but less meritorious |
+
+> 💡 **Rule:** Istisqa' has three levels: simple du'a (minimum), du'a after prayers (medium), full prayer with khutba (best). Fatima can supplicate alone at any time.
+
+</details>
+
+---
+
+### 🧥 Case 3: Reversing the Cloak — Wisdom and Practice
+
+> **Situation:** During Istisqa', one is asked to reverse their cloak. Omar wears a modern suit and wonders how to apply this sunna.
+
+**❓ How to apply garment reversal with modern clothing?**
+
+<details>
+<summary>📜 See the answer</summary>
+
+**Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Wisdom | Hope that Allah changes the situation |
+| Method | Put right side to left |
+| Modern clothing | Reverse the jacket or coat |
+| Who reverses | 🟡 Malikis: Imam AND followers |
+
+> 💡 **Rule:** One can reverse their jacket, coat, or any outer garment. The goal is to show hope that Allah will change the drought to rain.
+
+</details>
+
+---
+
+### 🌧️ Case 4: What to Do if Rain Comes During Prayer
+
+> **Situation:** During Istisqa' prayer, it starts raining. People are joyful.
+
+**❓ What should be done?**
+
+<details>
+<summary>📜 See the answer</summary>
+
+**Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Continue prayer | Yes, finish normally |
+| Thank Allah | Al-hamdulillah |
+| Recommended du'a | "اللهم صيبًا نافعًا" |
+| Exposure | Sunna to expose oneself to rain |
+
+> 💡 **Rule:** If rain comes, thank Allah, finish the prayer, say "Allahumma sayyiban nafi'an" and expose oneself to rain as the Prophet صلى الله عليه وسلم used to do.
+
+</details>
+
+---
+
+### 🔄 Case 5: Repeated Istisqa' When Rain Doesn't Come
+
+> **Situation:** The community performed Istisqa' but rain didn't come. Some are losing hope.
+
+**❓ Can Istisqa' be repeated multiple times?**
+
+<details>
+<summary>📜 See the answer</summary>
+
+**Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Repetition | Permitted and recommended |
+| Number | No limit |
+| Intensify | Increase istighfar and sadaqa |
+| Patience | Allah's response may be delayed |
+
+> 💡 **Rule:** Istisqa' can be repeated as many times as needed. One should multiply istighfar and sadaqa, as they are causes for rain according to Surah Nuh.
+
+</details>
+
+---
+
+## 💭 Reflection
+
+> *"Rain is a mercy from Allah. Istisqa' reminds us of our complete dependence on Him. When clouds gather and drops fall, don't forget to say: 'Allahumma sayyiban nafi'an'."*
+
+**Questions to ponder:**
+1. Do I increase istighfar as a cause for rain?
+2. Do I give sadaqa during drought periods?
+3. Do I turn to Allah with humility in times of difficulty?
+
+---
+
 ## ❓ Frequently Asked Questions (الأسئلة الشائعة)
 
 **Q1: What does Istisqa' mean?**

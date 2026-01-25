@@ -132,6 +132,136 @@ Each rak'a contains: **2 standings + 2 recitations + 2 ruku' + sujud**
 
 ---
 
+## 🎯 Contemporary Cases
+
+### 🏢 Case 1: Eclipse During Work Hours
+
+> **Situation:** A solar eclipse is announced for 10 AM. Karim is at the office and cannot easily leave his desk.
+
+**❓ What should he do?**
+
+<details>
+<summary>📜 See the answer</summary>
+
+**Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Status | Emphasized Sunna |
+| Obligation | Not obligatory but highly recommended |
+| At work | Request a break if possible |
+| Individual | Can pray individually if needed |
+
+> 💡 **Rule:** If possible, request a break to pray. Otherwise, make dhikr, istighfar, and du'a during the eclipse. Individual prayer is also valid if one cannot join a group.
+
+</details>
+
+---
+
+### 🌑 Case 2: Partial vs Total Eclipse — Different Rulings?
+
+> **Situation:** The announced eclipse is only partial (30% of the sun obscured). Some say we only pray for total eclipses.
+
+**❓ Should we pray for a partial eclipse?**
+
+<details>
+<summary>📜 See the answer</summary>
+
+**Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Partial eclipse | Prayer is recommended |
+| Total eclipse | Even more recommended |
+| Text | Hadith speaks of eclipse without distinction |
+
+> 💡 **Rule:** Eclipse prayer is recommended whenever there is an eclipse, whether partial or total. The greater the eclipse, the greater the emphasis.
+
+</details>
+
+---
+
+### ☁️ Case 3: Eclipse Announced but Cloudy Sky
+
+> **Situation:** Astronomers announce an eclipse, but the sky is completely covered with clouds. The eclipse cannot be seen.
+
+**❓ Should we still pray the eclipse prayer?**
+
+<details>
+<summary>📜 See the answer</summary>
+
+**Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| If not visible | Difference of opinion |
+| 🟡 Malikis | If confirmed scientifically, prayer may be valid |
+| Original condition | Based on sighting |
+
+> 💡 **Rule:** The majority view is that prayer is linked to sighting the eclipse. However, if confirmed by certain calculation, some scholars permit prayer. When in doubt, refrain.
+
+</details>
+
+---
+
+### 🚧 Case 4: No Mosque Nearby During Eclipse
+
+> **Situation:** Fatima lives in an isolated area with no mosque. A solar eclipse occurs.
+
+**❓ Can she pray the eclipse prayer alone at home?**
+
+<details>
+<summary>📜 See the answer</summary>
+
+**Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Congregation | Sunna but not a condition |
+| Individual | Valid |
+| Solar eclipse | Congregation preferred |
+| Lunar eclipse | 🟡 Malikis: Individual at home recommended |
+
+> 💡 **Rule:** Eclipse prayer can be performed individually if one cannot join a group. For lunar eclipse, Malikis recommend praying alone at home.
+
+</details>
+
+---
+
+### ⏰ Case 5: Missing the Eclipse Prayer — Is There Qada?
+
+> **Situation:** Yusuf didn't know there was an eclipse. When he learned about it, the eclipse had ended.
+
+**❓ Can he make up the eclipse prayer?**
+
+<details>
+<summary>📜 See the answer</summary>
+
+**Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Prayer time | From beginning to end of eclipse |
+| After it ends | No makeup (qada) |
+| Reason | Prayer is linked to its cause |
+
+> 💡 **Rule:** Eclipse prayer is not made up after the eclipse ends. Its time is linked to the existence of its cause (eclipse). Afterward, one can make dhikr and istighfar.
+
+</details>
+
+---
+
+## 💭 Reflection
+
+> *"The eclipse is a sign from Allah to remind us of His power. The Prophet صلى الله عليه وسلم corrected people's belief on the day his son died. What a lesson in teaching even in pain!"*
+
+**Questions to ponder:**
+1. Do I use natural phenomena to draw closer to Allah?
+2. Am I affected by superstitions related to eclipses?
+3. Do I increase dhikr and istighfar in these moments?
+
+---
+
 ## ❓ Frequently Asked Questions (الأسئلة الشائعة)
 
 **Q1: What is the difference between kusuf and khusuf?**
