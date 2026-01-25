@@ -219,6 +219,123 @@ C'est **l'interdit le plus grave** car il peut annuler le Hajj.
 
 ---
 
+## 🎯 Cas Contemporains
+
+### 🧴 Cas 1: Utilisation de savon parfumé par inadvertance
+
+> **Situation:** Un pèlerin en état d'Ihram se rend aux sanitaires de l'hôtel et utilise machinalement le savon fourni qui est fortement parfumé. Il ne réalise son erreur qu'après s'être lavé les mains.
+
+**❓ A-t-il transgressé un interdit de l'Ihram ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| **Interdit concerné** | Utilisation de parfum (الطيب) |
+| **Intention** | Absent — acte par inadvertance |
+| **Délai de réaction** | Lavage immédiat dès la prise de conscience |
+
+> 💡 **Règle:** L'oubli ou l'inadvertance (النسيان) n'entraîne pas de péché, mais selon les Malikites, la fidya reste recommandée par précaution. Il faut laver immédiatement la zone concernée avec de l'eau non parfumée.
+
+</details>
+
+### 💅 Cas 2: Femme ayant du vernis à ongles avant l'ihram
+
+> **Situation:** Une femme se présente au Miqat et réalise qu'elle a oublié d'enlever son vernis à ongles. Elle n'a pas de dissolvant avec elle.
+
+**❓ Peut-elle entrer en Ihram ainsi ? Doit-elle attendre ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| **Le vernis est-il un parfum ?** | Non — c'est un obstacle au Wudû', pas un parfum |
+| **Affecte-t-il l'Ihram ?** | Non directement, mais affecte la validité du Wudû' |
+| **Solution** | Enlever le vernis dès que possible |
+
+> 💡 **Règle:** Le vernis n'est pas un interdit de l'Ihram en soi. Cependant, il empêche l'eau d'atteindre les ongles lors du Wudû'. Elle peut entrer en Ihram mais doit enlever le vernis avant de faire le Tawaf (qui nécessite un Wudû' valide).
+
+</details>
+
+### 🦟 Cas 3: Spray anti-moustique parfumé utilisé en ihram
+
+> **Situation:** Un pèlerin à Mina utilise un spray anti-moustique pour se protéger des insectes la nuit. En lisant l'étiquette après application, il découvre que le produit contient du parfum.
+
+**❓ Quelle est la conséquence de cet acte ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| **Type de produit** | Anti-moustique avec composant parfumé |
+| **Intention première** | Protection, non embellissement |
+| **Connaissance préalable** | Ignorance du contenu parfumé |
+
+> 💡 **Règle:** L'utilisation de tout produit parfumé est interdite, quelle que soit l'intention. En cas d'ignorance, on lave la zone et on donne une sadaqa. Il est conseillé de vérifier les produits AVANT l'Ihram et d'utiliser des répulsifs non parfumés.
+
+</details>
+
+### 💇 Cas 4: Cheveu tombé seul vs arraché par accident
+
+> **Situation:** Pendant le Tawaf, un pèlerin passe sa main dans ses cheveux et quelques cheveux tombent naturellement. Un autre se gratte la tête vigoureusement et arrache accidentellement une touffe.
+
+**❓ Ces deux situations sont-elles équivalentes ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Cheveu tombé seul | Cheveu arraché |
+|---------|-------------------|----------------|
+| **Cause** | Naturelle | Action du pèlerin |
+| **Intention** | Aucune | Non intentionnel |
+| **Compensation** | Rien | Sadaqa proportionnelle |
+
+> 💡 **Règle:** Le cheveu qui tombe naturellement sans action du pèlerin n'entraîne rien. Le cheveu arraché, même involontairement, nécessite une sadaqa (nourrir un pauvre ou équivalent). L'arrachement volontaire de plusieurs cheveux nécessite une fidya complète.
+
+</details>
+
+### ☂️ Cas 5: Utilisation d'un parapluie pour se protéger du soleil
+
+> **Situation:** À Arafat, un pèlerin utilise un parapluie pour se protéger du soleil intense. Quelqu'un lui dit que c'est interdit car cela équivaut à se couvrir la tête.
+
+**❓ L'utilisation du parapluie est-elle vraiment interdite ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| **Nature du parapluie** | Ombre mobile non attachée au corps |
+| **Différence avec couvre-chef** | Ne touche pas la tête, n'est pas "porté" |
+| **Avis des savants** | Unanimement permis |
+
+> 💡 **Règle:** Le parapluie est **permis** car il n'est pas attaché à la tête. L'interdit concerne les couvre-chefs (قُبَّعة, عِمَامة) qui sont portés sur la tête. Le parapluie, comme la tente ou l'ombre d'un arbre, est une ombre extérieure permise.
+
+</details>
+
+---
+
+## 💭 Réflexion
+
+> *« L'Ihram t'apprend le détachement de ce monde. Chaque restriction est une élévation vers Allah. »*
+
+— Enseignement des savants
+
+---
+
 ## ✅ Action Concrète / Défi
 
 **Préparation à l'Ihram :**

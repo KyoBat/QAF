@@ -296,6 +296,131 @@ C'est l'une des grandes différences d'avis en fiqh du Hajj :
 
 ---
 
+## 🎯 Cas Contemporains
+
+### 👨‍👩‍👧 Cas 1: Femme Sans Mahram Disponible
+
+> **Situation:** Khadija, 45 ans, souhaite accomplir son Hajj obligatoire. Son mari ne peut pas l'accompagner car il doit travailler pour subvenir aux besoins de la famille. Elle n'a pas d'autres mahram disponibles.
+
+**❓ Peut-elle voyager pour le Hajj sans mahram ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| Position Malikite | Mahram non obligatoire si sécurité assurée |
+| Condition | Voyage avec groupe de femmes de confiance |
+| Statut du Hajj | Obligatoire pour elle |
+
+> 💡 **Règle:** Selon les Malikites, si une femme peut voyager avec une **رُفْقَة مَأْمُونَة** (groupe de femmes de confiance) sur un chemin sûr, le Hajj lui est obligatoire même sans mahram.
+
+</details>
+
+---
+
+### 🧠 Cas 2: Personne avec Handicap Mental Léger
+
+> **Situation:** Bilal, 30 ans, a un handicap mental léger. Il peut accomplir les actes quotidiens avec de l'aide et comprend les bases de la religion. Ses parents veulent l'emmener au Hajj.
+
+**❓ Le Hajj est-il obligatoire pour lui ? Sera-t-il valide ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| Condition de العقل | Partiellement remplie |
+| Capacité de discernement | Évaluée au cas par cas |
+| Validité | Dépend du niveau de compréhension |
+
+> 💡 **Règle:** Si la personne peut distinguer les actes du Hajj et a un minimum de discernement (تمييز), son Hajj est valide. L'obligation dépend de son niveau de raison : si le handicap est léger et qu'il comprend, le Hajj lui est obligatoire avec assistance.
+
+</details>
+
+---
+
+### 👶 Cas 3: Enfant de 10 Ans Accompagnant ses Parents
+
+> **Situation:** Ibrahim, 10 ans, accompagne ses parents au Hajj. Les parents se demandent si son Hajj sera valide et s'il devra refaire le Hajj à l'âge adulte.
+
+**❓ Quelle est la validité de son Hajj ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| Condition de البلوغ | Non remplie |
+| Validité du Hajj | Valide comme Nafl (surérogatoire) |
+| Obligation future | Devra refaire le Hajj Fard après puberté |
+
+> 💡 **Règle:** Le Hajj de l'enfant impubère est **valide comme acte surérogatoire** et lui apporte une récompense, ainsi qu'à ses parents. Cependant, il devra accomplir le Hajj obligatoire une fois pubère et capable.
+
+</details>
+
+---
+
+### 💉 Cas 4: Malade Chronique (Diabète, Hypertension)
+
+> **Situation:** Amina, 55 ans, souffre de diabète et d'hypertension contrôlés par des médicaments. Son médecin dit qu'elle peut voyager avec précautions.
+
+**❓ Le Hajj est-il obligatoire pour elle ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| Capacité physique | Présente avec adaptation |
+| Avis médical | Favorable avec précautions |
+| Obligation | Oui, le Hajj est obligatoire |
+
+> 💡 **Règle:** Une maladie chronique **contrôlée** n'exempte pas du Hajj. Si le médecin confirme la possibilité de voyager, le Hajj reste obligatoire. Elle doit prévoir ses médicaments et adapter ses efforts physiques.
+
+</details>
+
+---
+
+### 🔒 Cas 5: Prisonnier Musulman Libéré
+
+> **Situation:** Hassan, 50 ans, vient d'être libéré après 20 ans de prison. Pendant son incarcération, il n'a jamais pu faire le Hajj. Maintenant libre et avec des moyens, doit-il "rattraper" les années passées ?
+
+**❓ A-t-il une dette de Hajj pour les années de prison ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| Istita'a en prison | Absente (liberté = condition) |
+| Dette de Hajj | Non, car pas d'obligation pendant l'incarcération |
+| Obligation actuelle | Un seul Hajj obligatoire |
+
+> 💡 **Règle:** Le Hajj n'était **pas obligatoire** pendant son emprisonnement car la liberté fait partie de l'Istita'a. Une fois libéré et capable, il n'a qu'**un seul Hajj** à accomplir, pas de rattrapage pour les années de prison.
+
+</details>
+
+---
+
+## 💭 Réflexion
+
+> *« Allah a rendu l'Istita'a condition du Hajj par miséricorde envers Ses serviteurs. Celui qui ne peut pas n'est pas pécheur, et celui qui peut ne doit pas tarder. »*
+
+— Sagesse tirée des enseignements des savants
+
+---
+
 ## ❓ Questions Fréquentes
 
 ### « Je suis endetté. Dois-je faire le Hajj ? »

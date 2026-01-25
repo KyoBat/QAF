@@ -190,6 +190,131 @@ Le pèlerin qui omet une obligation doit :
 
 ---
 
+## 🎯 Cas Contemporains
+
+### 🌅 Cas 1: Départ de Muzdalifa Avant Fajr pour Raison de Santé
+
+> **Situation:** Maryam, 68 ans, souffre de problèmes cardiaques. Son médecin lui a conseillé d'éviter les grandes foules. Son groupe décide de quitter Muzdalifa vers 2h du matin pour éviter le rush.
+
+**❓ Son départ anticipé est-il permis ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| Mabit obligatoire | Minimum de présence requis |
+| Excuse de santé | Raison valide pour départ anticipé |
+| Position Malikite | Un simple arrêt suffit (نزول) |
+
+> 💡 **Règle:** Selon les Malikites, le Mabit à Muzdalifa exige un **arrêt** même bref. Si elle s'est arrêtée même un moment, l'obligation est remplie. Le départ anticipé pour raison de santé est permis sans Dam.
+
+</details>
+
+---
+
+### 🏠 Cas 2: Nuit à Mina dans Tente Hors des Limites Officielles
+
+> **Situation:** Le groupe de Hassan a été logé dans une tente située juste en dehors des limites officielles de Mina, à cause du manque de places. Ils ont passé les nuits du 11, 12 et 13 Dhul-Hijja dans cette tente.
+
+**❓ Le Mabit compte-t-il comme valide ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| Limites de Mina | Doivent être respectées |
+| Zone adjacente | Tolérée en cas de nécessité |
+| Fatwa contemporaine | Les débordements autorisés par nécessité |
+
+> 💡 **Règle:** Les savants contemporains ont permis de séjourner dans les **zones adjacentes** quand Mina est pleine. Si le campement a été assigné par les autorités du Hajj et qu'il n'y avait pas d'alternative, le Mabit est valide sans Dam.
+
+</details>
+
+---
+
+### 🪨 Cas 3: Lapidation Manquée un Jour — Rattrapage le Jour Suivant
+
+> **Situation:** Bilal était très malade le 11 Dhul-Hijja et n'a pas pu faire la lapidation des trois Jamarat. Le 12, il se sent mieux et veut rattraper.
+
+**❓ Peut-il rattraper la lapidation du 11 le jour du 12 ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| Ordre des jours | Doit être respecté |
+| Rattrapage | Possible le jour suivant |
+| Méthode | D'abord celles du 11, puis celles du 12 |
+
+> 💡 **Règle:** Il peut rattraper la lapidation du 11 le jour du 12, **avant** de faire celle du 12. L'ordre doit être respecté : les trois Jamarat du 11, puis les trois Jamarat du 12. Si rattrapage impossible, un Dam est dû.
+
+</details>
+
+---
+
+### ✂️ Cas 4: Rasage de la Tête Fait Avant la Lapidation
+
+> **Situation:** Ahmed, dans la confusion du jour de l'Aïd, s'est fait raser la tête avant de faire la lapidation de Jamarat al-'Aqaba. Il n'a réalisé son erreur qu'après.
+
+**❓ Y a-t-il une conséquence pour cette inversion d'ordre ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| Ordre sunna le jour du 10 | Lapidation → Sacrifice → Rasage → Tawaf |
+| Position Malikite | L'ordre est recommandé, pas obligatoire |
+| Inversion | Pas de Dam, mais contraire à la Sunna |
+
+> 💡 **Règle:** Selon les Malikites, l'ordre des actes du jour du 10 est **recommandé** (mustahabb) mais non obligatoire. L'inversion ne nécessite **pas de Dam**. Le Hajj reste valide, mais il a manqué l'ordre optimal.
+
+</details>
+
+---
+
+### 🚶 Cas 5: Quitter La Mecque Sans Tawaf d'Adieu — Urgence Médicale
+
+> **Situation:** Fatou apprend que son père est gravement malade dans son pays. Elle doit prendre un vol d'urgence et n'a pas le temps de faire le Tawaf al-Wadaa avant de partir.
+
+**❓ Doit-elle un Dam pour avoir omis le Tawaf d'adieu ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| Tawaf al-Wadaa | Obligation (Wajib) |
+| Excuse valide | Urgence médicale familiale |
+| Règle de base | Omission = Dam |
+
+> 💡 **Règle:** Le Tawaf d'adieu est une **obligation**. Son omission sans excuse nécessite un Dam. Cependant, les savants divergent sur l'urgence médicale. La position prudente est d'offrir un Dam par précaution, mais certains savants excusent l'urgence véritable. Elle devrait consulter un savant et, si possible, envoyer quelqu'un pour sacrifier en son nom à La Mecque.
+
+</details>
+
+---
+
+## 💭 Réflexion
+
+> *« Les obligations du Hajj sont les ornements du voyage. Sans elles, le Hajj est comme un corps sans beauté. Leur omission est réparable, mais leur accomplissement est la voie de l'excellence. »*
+
+— Sagesse des savants du Hajj
+
+---
+
 ## ❓ Questions Fréquentes (FAQ)
 
 **Q1 : Que faire si j'ai omis une obligation par ignorance ?**

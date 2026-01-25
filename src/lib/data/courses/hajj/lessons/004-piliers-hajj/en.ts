@@ -223,6 +223,132 @@ Walking between the hills of **Safa** and **Marwa**, commemorating **Hajar** ع�
 
 ---
 
+## 🎯 Contemporary Cases
+
+### 🚗 Case 1: Traffic Jam on the Day of Arafat
+
+> **Situation:** Ahmad is stuck in a massive traffic jam on the 9th of Dhul-Hijja. His bus only arrives at Arafat after Maghrib, and he hears some say that the time for Arafat ends at sunset.
+
+**❓ Is his Hajj valid if he arrives after Maghrib?**
+
+<details>
+<summary>📜 View the Ruling</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Time of Wuquf | From Zawal of 9th until dawn of 10th |
+| Arrival after Maghrib | ✅ Valid — time is not over |
+| Maliki position | A moment at night suffices |
+
+> 💡 **Key Rule:** Wuquf at Arafat remains valid until **dawn of the 10th Dhul-Hijja**. Arriving after Maghrib is perfectly valid. The Hajj is complete, alhamdulillah.
+
+</details>
+
+---
+
+### 🤒 Case 2: Ill on the Day of Arafat
+
+> **Situation:** Khadija falls seriously ill on the 9th of Dhul-Hijja. She is transported by ambulance to Arafat but remains unconscious throughout the entire duration of the standing.
+
+**❓ Is her Wuquf valid?**
+
+<details>
+<summary>📜 View the Ruling</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Physical presence | ✅ Yes, she was at Arafat |
+| Consciousness | ❌ Absent (unconscious) |
+| Maliki position | Consciousness is required |
+
+> 💡 **Key Rule:** According to Malikis, Wuquf requires a minimum level of **consciousness** (يقظة). If she was unconscious the entire time, her Wuquf is **invalid** and her Hajj does not count this year. She must redo it the following year.
+
+</details>
+
+---
+
+### 🌙 Case 3: Tawaf al-Ifadah Delayed Several Days
+
+> **Situation:** Omar performed Wuquf at Arafat and the rites at Mina, but due to extreme crowds, he could only perform Tawaf al-Ifadah on the 15th of Dhul-Hijja. During this time, he remained in a state of "partial desacralization" (tahallul awwal).
+
+**❓ Is his Tawaf valid? Is there a penalty?**
+
+<details>
+<summary>📜 View the Ruling</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Permitted delay | Until end of Dhul-Hijja without penalty |
+| Desacralization state | Partial — conjugal relations forbidden |
+| After Dhul-Hijja | Dam obligatory |
+
+> 💡 **Key Rule:** Tawaf al-Ifadah on the 15th of Dhul-Hijja is **valid without penalty**. However, conjugal relations remained forbidden until the Tawaf. If delayed past the end of Dhul-Hijja, a Dam becomes obligatory according to Malikis.
+
+</details>
+
+---
+
+### 📍 Case 4: Lost in Mina and Missed Arafat
+
+> **Situation:** Youssef, an elderly pilgrim, got lost in the crowd at Mina on the 9th of Dhul-Hijja. Disoriented, he never found his group and never reached Arafat before dawn of the 10th.
+
+**❓ What recourse does he have?**
+
+<details>
+<summary>📜 View the Ruling</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Missed Wuquf | ❌ Pillar not accomplished |
+| Consequence | Hajj invalid |
+| Recourse | Exit Ihram through 'Umra |
+
+> 💡 **Key Rule:** Wuquf at Arafat is the supreme pillar. If missed, the Hajj is **invalid**. He must exit Ihram by performing an **'Umra** (Tawaf + Sa'i + Taqsir), then return the following year to redo Hajj.
+
+</details>
+
+---
+
+### 🏃 Case 5: Menstruating Woman — Delayed Tawaf al-Ifadah
+
+> **Situation:** Fatima gets her period on the 10th of Dhul-Hijja and the following days. She cannot perform Tawaf al-Ifadah before her scheduled return flight on the 14th of Dhul-Hijja.
+
+**❓ What should she do?**
+
+<details>
+<summary>📜 View the Ruling</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Tawaf with menses | ❌ Forbidden for Malikis (purity is a condition) |
+| Option 1 | Delay departure if possible |
+| Option 2 | Stay until purification |
+| Extreme necessity | Consult a scholar on site |
+
+> 💡 **Key Rule:** Tawaf al-Ifadah is a **pillar** that requires ritual purity according to Malikis. She **must wait** for her purification to perform this Tawaf. If impossible, she must consult a scholar for possible options (some Hanafis permit it with Dam in extreme necessity).
+
+</details>
+
+---
+
+## 💭 Reflection
+
+> *"The pillars of Hajj are like the foundations of a house: without them, nothing stands. They represent the very essence of this worship, the minimum without which the journey to Allah is not accomplished."*
+
+— Wisdom of Hajj scholars
+
+---
+
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### Q1: What if I miss Wuquf at Arafat?

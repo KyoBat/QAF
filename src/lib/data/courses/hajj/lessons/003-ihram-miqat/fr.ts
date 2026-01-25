@@ -213,6 +213,131 @@ Le Hajj ne peut être accompli qu'à une période précise :
 
 ---
 
+## 🎯 Cas Contemporains
+
+### ✈️ Cas 1: Vol Direct vers Jeddah Sans Passer par un Miqat Terrestre
+
+> **Situation:** Moussa prend un vol direct Paris-Jeddah. L'avion ne survole aucun des Miqat terrestres traditionnels. À quel moment doit-il entrer en état d'Ihram ?
+
+**❓ Comment déterminer le bon moment pour l'Ihram en vol ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| Miqat aérien | Aligné avec le Miqat terrestre le plus proche |
+| Annonce pilote | Généralement 30-45 min avant l'atterrissage |
+| Précaution | Faire l'Ihram avant le survol du point |
+
+> 💡 **Règle:** Les compagnies aériennes annoncent généralement le passage du Miqat. Il faut être en Ihram **avant** ce point. En cas de doute, mieux vaut faire l'Ihram plus tôt (avant le décollage ou à l'aéroport) que risquer de dépasser le Miqat.
+
+</details>
+
+---
+
+### 📍 Cas 2: Transit à Dubaï puis Jeddah
+
+> **Situation:** Salma voyage de Kuala Lumpur à Jeddah avec une escale de 6 heures à Dubaï. Elle se demande si elle doit entrer en Ihram avant le premier vol ou pendant l'escale.
+
+**❓ Où et quand doit-elle prendre l'Ihram ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| Premier vol (KL-Dubaï) | Ne traverse pas de Miqat vers La Mecque |
+| Second vol (Dubaï-Jeddah) | Traverse les Miqat |
+| Recommandation | Ihram avant le second vol |
+
+> 💡 **Règle:** Elle peut attendre l'aéroport de Dubaï pour faire le Ghusl et entrer en Ihram avant d'embarquer sur le vol vers Jeddah. C'est plus pratique et parfaitement valide, tant qu'elle est en Ihram avant le survol du Miqat.
+
+</details>
+
+---
+
+### 🚿 Cas 3: Ihram à l'Hôtel Avant l'Aéroport
+
+> **Situation:** Abdallah veut faire le Ghusl et porter ses vêtements d'Ihram à l'hôtel avant de partir à l'aéroport, mais il fera l'intention (Niyyah) et la Talbiya seulement dans l'avion au niveau du Miqat.
+
+**❓ Cette méthode est-elle correcte ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| Porter les vêtements | Permis à l'avance |
+| Ghusl | Peut être fait à l'hôtel |
+| Niyyah + Talbiya | Ce qui constitue l'Ihram réel |
+
+> 💡 **Règle:** **Parfaitement valide.** Porter les vêtements d'Ihram n'est pas l'Ihram lui-même. L'Ihram commence avec l'**intention** et la **Talbiya**. Il peut se préparer physiquement à l'hôtel et faire l'intention dans l'avion au bon moment.
+
+</details>
+
+---
+
+### 👗 Cas 4: Oubli du Ridaa dans le Bagage en Soute
+
+> **Situation:** Yusuf réalise après le décollage qu'il a laissé son Ridaa (tissu supérieur d'Ihram) dans sa valise en soute. Il n'a que son Izar avec lui. Le Miqat approche.
+
+**❓ Que doit-il faire ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| Urgence | Doit entrer en Ihram au Miqat |
+| Solution temporaire | Utiliser une serviette, couverture d'avion |
+| Récupération | Mettre le Ridaa à l'arrivée |
+
+> 💡 **Règle:** Il doit entrer en Ihram au Miqat avec ce qu'il a. Une **serviette** ou une **couverture d'avion blanche** peut servir temporairement de Ridaa. L'essentiel est qu'elle ne soit pas cousue. À l'arrivée, il récupère son Ridaa sans aucune pénalité.
+
+</details>
+
+---
+
+### 🏥 Cas 5: Arrivé Malade à Jeddah
+
+> **Situation:** Fatou est arrivée à Jeddah très malade (fièvre élevée, déshydratation). Elle n'a pas pu faire l'Ihram dans l'avion. Peut-elle se reposer d'abord et entrer en Ihram plus tard ?
+
+**❓ Quelle est la solution pour sa situation ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| Dépassement du Miqat | A eu lieu sans Ihram |
+| Option 1 | Retourner au Miqat après guérison |
+| Option 2 | Ihram sur place + Dam |
+
+> 💡 **Règle:** Elle a deux options : (1) Une fois guérie, **retourner à un Miqat** (Tan'im est le plus proche) et faire l'Ihram là-bas — pas de Dam. (2) Faire l'Ihram **à Jeddah** et offrir un **Dam** (sacrifice) pour avoir dépassé le Miqat. La maladie excuse le péché mais pas la compensation.
+
+</details>
+
+---
+
+## 💭 Réflexion
+
+> *« L'Ihram est le premier pas vers le détachement des parures de ce monde. C'est revêtir la simplicité pour se présenter devant Le Roi des rois. »*
+
+— Enseignement des savants du Hajj
+
+---
+
 ## ❓ Questions Fréquentes (FAQ)
 
 ### Q1 : Puis-je me parfumer pendant l'Ihram ?

@@ -15,6 +15,21 @@ import { useLocale } from '@/components/providers'
 import { cn } from '@/lib/utils'
 import type { Lesson } from '@/lib/schemas'
 import { getMindMapForLesson, generationalChainData, getMethodData, allMethodsData, hanafiExpansionData, malikiExpansionData, shafiiExpansionData, hanbaliExpansionData, getInfoBoxData } from '@/lib/data/mindmaps'
+import { 
+  getDiagramData, 
+  getLocalizedTreeBranches, 
+  getLocalizedComparisonColumns,
+  getLocalizedFlowSteps,
+  getLocalizedRulingItems,
+  getLocalizedSummaryRows,
+  getLocalizedString,
+  type TreeDiagramData,
+  type ComparisonTableData,
+  type FlowChartData,
+  type RulingCardData,
+  type SummaryTableData
+} from '@/lib/data/diagrams-data'
+import { TreeDiagram, ComparisonTable, FlowChart, RulingCard, SummaryTable } from '@/components/diagrams'
 
 // Import dynamique du TreeChart pour éviter les erreurs SSR
 const TreeChart = dynamic(
@@ -222,7 +237,7 @@ export function LessonContent({ lesson, courseSlug, className }: LessonContentPr
     const match = text.match(expansionRegex)
     
     if (!match) {
-      return renderWithInfoBoxMarkers(text)
+      return renderWithDiagramMarkers(text)
     }
     
     const [before, after] = text.split(match[0])
@@ -230,11 +245,99 @@ export function LessonContent({ lesson, courseSlug, className }: LessonContentPr
     
     return (
       <>
-        {before && renderWithInfoBoxMarkers(before)}
+        {before && renderWithDiagramMarkers(before)}
         <div className="my-8">
           <ExpansionTimeline data={getExpansionData(school)} locale={locale} />
         </div>
         {after && renderWithExpansionMarkers(after)}
+      </>
+    )
+  }
+  
+  // Split and render with diagram markers (NEW)
+  const renderWithDiagramMarkers = (text: string): React.ReactNode => {
+    const diagramRegex = /<!-- DIAGRAM:([\w-]+) -->/
+    const match = text.match(diagramRegex)
+    
+    if (!match) {
+      return renderWithInfoBoxMarkers(text)
+    }
+    
+    const [before, after] = text.split(match[0])
+    const diagramKey = match[1]
+    const diagramData = getDiagramData(diagramKey)
+    
+    const renderDiagram = () => {
+      if (!diagramData) return null
+      
+      switch (diagramData.type) {
+        case 'tree': {
+          const data = diagramData as TreeDiagramData
+          return (
+            <TreeDiagram
+              title={getLocalizedString(data.title, locale) || ''}
+              root={getLocalizedString(data.root, locale)}
+              branches={getLocalizedTreeBranches(data.branches, locale)}
+              dir={isRTL ? 'rtl' : 'ltr'}
+            />
+          )
+        }
+        case 'comparison': {
+          const data = diagramData as ComparisonTableData
+          return (
+            <ComparisonTable
+              title={getLocalizedString(data.title, locale)}
+              columns={getLocalizedComparisonColumns(data.columns, locale)}
+              dir={isRTL ? 'rtl' : 'ltr'}
+            />
+          )
+        }
+        case 'flow': {
+          const data = diagramData as FlowChartData
+          return (
+            <FlowChart
+              title={getLocalizedString(data.title, locale)}
+              steps={getLocalizedFlowSteps(data.steps, locale)}
+              layout={data.layout}
+              dir={isRTL ? 'rtl' : 'ltr'}
+            />
+          )
+        }
+        case 'ruling': {
+          const data = diagramData as RulingCardData
+          return (
+            <RulingCard
+              title={getLocalizedString(data.title, locale) || ''}
+              type={data.rulingType}
+              items={getLocalizedRulingItems(data.items, locale)}
+              footer={getLocalizedString(data.footer, locale)}
+              numbered={data.numbered}
+              dir={isRTL ? 'rtl' : 'ltr'}
+            />
+          )
+        }
+        case 'summary': {
+          const data = diagramData as SummaryTableData
+          return (
+            <SummaryTable
+              title={getLocalizedString(data.title, locale)}
+              rows={getLocalizedSummaryRows(data.rows, locale)}
+              dir={isRTL ? 'rtl' : 'ltr'}
+            />
+          )
+        }
+        default:
+          return null
+      }
+    }
+    
+    return (
+      <>
+        {before && renderWithInfoBoxMarkers(before)}
+        <div className="my-6">
+          {renderDiagram()}
+        </div>
+        {after && renderWithDiagramMarkers(after)}
       </>
     )
   }

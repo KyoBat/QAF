@@ -211,6 +211,123 @@ Sa'i commemorates Hajar's عليها السلام running in search of water for
 
 ---
 
+## 🎯 Contemporary Cases
+
+### 🦽 Case 1: Tawaf in wheelchair — pushed by someone
+
+> **Situation:** An elderly person who cannot walk performs Tawaf in a wheelchair, pushed by their son. Has the son also performed a Tawaf? Must the elderly person have the intention?
+
+**❓ Is this Tawaf valid for both?**
+
+<details>
+<summary>📜 View the ruling</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| **Condition of walking** | Not required — Tawaf is valid while sitting |
+| **Intention of person pushed** | Obligatory for them |
+| **Tawaf of the pusher** | Counts if they intend it |
+
+> 💡 **Key Rule:** Tawaf in a wheelchair is **perfectly valid**. The person being pushed must have their own intention. The pusher can simultaneously intend their own Tawaf while helping, thus receiving double reward.
+
+</details>
+
+### 📱 Case 2: Reciting Quran on phone during Tawaf
+
+> **Situation:** A pilgrim performs Tawaf while reading Quran on their phone. They don't know any supplications by heart and prefer reading rather than remaining silent.
+
+**❓ Is this practice permitted?**
+
+<details>
+<summary>📜 View the ruling</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| **Quran recitation** | Permitted during Tawaf |
+| **Phone usage** | Reading tool, no prohibition |
+| **Better than silence** | Yes, Tawaf is prayer (speech permitted) |
+
+> 💡 **Key Rule:** Reciting Quran during Tawaf is **permitted and meritorious**. The phone as a reading support does not diminish the merit. However, it is preferable to memorize some prophetic supplications and invoke freely.
+
+</details>
+
+### 🤰 Case 3: Pregnant woman fatigued — prolonged break during Sa'i
+
+> **Situation:** A woman 7 months pregnant performs Sa'i. On her 4th lap, she is exhausted and must sit for 45 minutes. Can she resume where she stopped?
+
+**❓ Is the continuity of Sa'i broken?**
+
+<details>
+<summary>📜 View the ruling</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| **Continuity of Sa'i** | Less strict than Tawaf |
+| **Rest break** | Permitted if justified |
+| **Time limit** | No strict limit according to majority |
+
+> 💡 **Key Rule:** Sa'i can be interrupted for a valid reason (fatigue, physiological need). She resumes from the lap where she stopped. Pregnancy is a major legal excuse. Using a wheelchair if available is advised.
+
+</details>
+
+### 🚽 Case 4: Interruption for bathroom — where to resume?
+
+> **Situation:** On the 5th circuit of Tawaf, a pilgrim urgently needs to use the bathroom. He leaves the Tawaf, relieves himself, renews Wudu, then returns. Where does he resume?
+
+**❓ Must he restart the Tawaf or continue?**
+
+<details>
+<summary>📜 View the ruling</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| **Cause of interruption** | Physiological need — valid excuse |
+| **Wudu renewed** | Condition to resume (for Malikis) |
+| **Point of resumption** | From the stopping point |
+
+> 💡 **Key Rule:** According to Malikis, if the interruption is long, Tawaf must restart from the beginning. According to other schools, one resumes from the circuit where they stopped after renewing Wudu. For precaution, restarting the current circuit is preferable.
+
+</details>
+
+### 🌊 Case 5: Tawaf during rain — slipping and falling
+
+> **Situation:** During Tawaf in the rain, the floor becomes slippery. A pilgrim slips and falls on their 3rd circuit. They get up but are disoriented. How should they continue?
+
+**❓ Must they restart the circuit or the entire Tawaf?**
+
+<details>
+<summary>📜 View the ruling</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| **Involuntary interruption** | Does not invalidate Tawaf |
+| **Lost orientation** | Resume from most probable point |
+| **In case of doubt** | Take the lowest certain number |
+
+> 💡 **Key Rule:** Falling does not invalidate Tawaf. The pilgrim gets up and resumes from where they estimate they stopped. In case of doubt about the number of circuits, take the lower number they are certain of (e.g., doubt between 3 and 4 → count 3).
+
+</details>
+
+---
+
+## 💭 Reflection
+
+> *"Tawaf is a prayer around Allah's House. Every step is a supplication, every circuit an elevation."*
+
+— Teaching of the scholars
+
+---
+
 ## ✅ Practical Action / Challenge
 
 **Practical Preparation:**

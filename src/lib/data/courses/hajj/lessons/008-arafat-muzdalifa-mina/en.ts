@@ -226,6 +226,123 @@ export const content = `# 📜 عَرَفَةُ وَمُزْدَلِفَةُ و�
 
 ---
 
+## 🎯 Contemporary Cases
+
+### 🚌 Case 1: Bus breakdown before Arafat — arrived at night
+
+> **Situation:** A group of pilgrims is en route to Arafat on the 9th of Dhul-Hijja when their bus breaks down. After hours of repairs, they only arrive at Arafat at 11:00 PM, well after sunset.
+
+**❓ Is their Hajj valid?**
+
+<details>
+<summary>📜 View the ruling</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| **Arrival time** | Before dawn of the 10th Dhul-Hijja |
+| **Duration of presence** | Even a moment suffices |
+| **Applicable hadith** | "Whoever reaches Arafat before the dawn of Fajr has attained Hajj" |
+
+> 💡 **Key Rule:** The Hajj is **perfectly valid**. The Prophet ﷺ said: "Whoever reaches Arafat before the dawn of Fajr has attained Hajj." What matters is being there before dawn, even for an instant.
+
+</details>
+
+### 🏨 Case 2: Group housed in hotel outside Mina's limits
+
+> **Situation:** A group of pilgrims discovers that their hotel, sold as "in Mina," is actually located in Aziziyah, outside the official limits of Mina. They spend the Tashriq nights there.
+
+**❓ Do they owe compensation?**
+
+<details>
+<summary>📜 View the ruling</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| **Obligation of Mabit** | Spending the night within Mina's limits |
+| **Actual situation** | Outside limits unknowingly |
+| **Compensation** | Dam (sacrifice) for each missed night |
+
+> 💡 **Key Rule:** Staying outside Mina during Tashriq nights requires a dam according to the majority of scholars. However, if pilgrims cannot find a place in Mina (valid excuse), some scholars exempt them. Always verify the exact location before booking.
+
+</details>
+
+### 📍 Case 3: GPS indicating Arafat but border zone
+
+> **Situation:** A pilgrim follows their GPS which indicates "Arafat" but they are actually parked at Wadi 'Uranah, outside the official limits. They remain there all afternoon without knowing.
+
+**❓ Is their Wuquf valid?**
+
+<details>
+<summary>📜 View the ruling</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| **Wadi 'Uranah** | Zone outside Arafat's limits |
+| **Wuquf in this zone** | Does not count |
+| **Consequence** | Hajj not accomplished if not rectified |
+
+> 💡 **Key Rule:** Wuquf at Wadi 'Uranah **does not count**. If the pilgrim realizes their error before dawn of the 10th, they must move to Arafat immediately. If they only realize after, their Hajj is missed and must be made up the following year. Verifying official limits is crucial.
+
+</details>
+
+### 🌙 Case 4: Departure from Muzdalifa before midnight — extreme fatigue
+
+> **Situation:** An elderly woman accompanied by her daughter is exhausted. She asks to leave Muzdalifa at 10:00 PM as she can no longer bear it. Her group refuses, saying they must wait until midnight.
+
+**❓ Can she leave before midnight?**
+
+<details>
+<summary>📜 View the ruling</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| **Category of person** | Weak (elderly person) |
+| **Maliki opinion** | Stopping even briefly suffices |
+| **Permission to leave early** | Granted to the weak |
+
+> 💡 **Key Rule:** Weak persons (elderly, sick, women with children) may leave Muzdalifa **before midnight**. The permission was granted by the Prophet ﷺ who allowed the weak members of his family to leave early. Her companion may leave with her.
+
+</details>
+
+### 🏕️ Case 5: Tent collapsed at Mina — spending the night outside
+
+> **Situation:** A violent storm collapses a group's tent at Mina. They spend the night outside, in the walkways, waiting for repairs.
+
+**❓ Have they fulfilled the Mabit (night at Mina)?**
+
+<details>
+<summary>📜 View the ruling</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| **Location of the night** | Within Mina's limits |
+| **Tent condition** | Not required — location is what matters |
+| **Emergency situation** | Does not affect validity |
+
+> 💡 **Key Rule:** Mabit at Mina is **valid** as long as one spends the night within Mina's limits, whether under a tent, in a hotel, or outside. The Prophet ﷺ and Companions slept under the stars. The tent is a modern comfort, not a condition.
+
+</details>
+
+---
+
+## 💭 Reflection
+
+> *"Arafat is the day when Allah descends to the lowest heaven and boasts of His servants to the angels."*
+
+— Teaching of the scholars
+
+---
+
 ## 🎯 Practical Action: Plan Your Hajj
 
 **This week, create your personal Hajj timeline:**

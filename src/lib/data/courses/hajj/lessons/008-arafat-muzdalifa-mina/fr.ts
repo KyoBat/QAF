@@ -231,6 +231,123 @@ export const content = `# 📜 عَرَفَةُ وَمُزْدَلِفَةُ و�
 
 ---
 
+## 🎯 Cas Contemporains
+
+### 🚌 Cas 1: Bus en panne avant Arafat — arrivé pendant la nuit
+
+> **Situation:** Un groupe de pèlerins est en route vers Arafat le 9 Dhul-Hijja quand leur bus tombe en panne. Après des heures de réparation, ils n'arrivent à Arafat qu'à 23h00, bien après le coucher du soleil.
+
+**❓ Leur Hajj est-il valide ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| **Heure d'arrivée** | Avant l'aube du 10 Dhul-Hijja |
+| **Durée de présence** | Même un instant suffit |
+| **Hadith applicable** | « من أدرك عرفة قبل طلوع الفجر فقد أدرك الحج » |
+
+> 💡 **Règle:** Le Hajj est **parfaitement valide**. Le Prophète ﷺ a dit : « Celui qui arrive à Arafat avant l'aube du Fajr a atteint le Hajj. » L'important est d'y être avant l'aube, même pour un instant.
+
+</details>
+
+### 🏨 Cas 2: Groupe logé à un hôtel hors limites de Mina
+
+> **Situation:** Un groupe de pèlerins découvre que leur hôtel, vendu comme « à Mina », est en réalité situé à Aziziyah, hors des limites officielles de Mina. Ils y passent les nuits de Tashriq.
+
+**❓ Doivent-ils une compensation ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| **Obligation du Mabit** | Passer la nuit dans les limites de Mina |
+| **Situation réelle** | Hors limites sans le savoir |
+| **Compensation** | Dam (sacrifice) pour chaque nuit manquée |
+
+> 💡 **Règle:** Le séjour hors de Mina les nuits de Tashriq nécessite un dam selon la majorité des savants. Cependant, si les pèlerins ne trouvent pas de place à Mina (excuse valable), certains savants les dispensent. Vérifiez toujours l'emplacement exact avant de réserver.
+
+</details>
+
+### 📍 Cas 3: GPS indiquant Arafat mais zone limitrophe
+
+> **Situation:** Un pèlerin suit son GPS qui indique « Arafat » mais il est en réalité stationné à Wadi 'Uranah, hors des limites officielles. Il y reste tout l'après-midi sans savoir.
+
+**❓ Son Wuquf est-il valide ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| **Wadi 'Uranah** | Zone hors limites d'Arafat |
+| **Wuquf dans cette zone** | Ne compte pas |
+| **Conséquence** | Hajj non accompli si pas rattrapé |
+
+> 💡 **Règle:** Le Wuquf à Wadi 'Uranah **ne compte pas**. Si le pèlerin réalise son erreur avant l'aube du 10, il doit se déplacer vers Arafat immédiatement. S'il ne réalise qu'après, son Hajj est manqué et il doit le refaire l'année suivante. Il est crucial de vérifier les limites officielles.
+
+</details>
+
+### 🌙 Cas 4: Départ de Muzdalifa avant minuit — fatigue extrême
+
+> **Situation:** Une femme âgée accompagnée de sa fille est exténuée. Elle demande à partir de Muzdalifa à 22h00 car elle ne tient plus. Son groupe refuse, disant qu'il faut attendre minuit.
+
+**❓ Peut-elle partir avant minuit ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| **Catégorie de la personne** | Faible (personne âgée) |
+| **Avis Malikite** | Descendre même brièvement suffit |
+| **Permission de partir tôt** | Accordée aux faibles |
+
+> 💡 **Règle:** Les personnes faibles (personnes âgées, malades, femmes avec enfants) peuvent partir de Muzdalifa **avant minuit**. La permission est accordée par le Prophète ﷺ qui a autorisé les faibles de sa famille à partir tôt. Son accompagnante peut partir avec elle.
+
+</details>
+
+### 🏕️ Cas 5: Tente écroulée à Mina — passer la nuit dehors
+
+> **Situation:** Une violente tempête fait s'écrouler la tente d'un groupe à Mina. Ils passent la nuit à l'extérieur, dans les allées, en attendant les réparations.
+
+**❓ Ont-ils accompli le Mabit (nuit à Mina) ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| **Lieu de la nuit** | Dans les limites de Mina |
+| **Condition de la tente** | Non exigée — c'est le lieu qui compte |
+| **Situation d'urgence** | N'affecte pas la validité |
+
+> 💡 **Règle:** Le Mabit à Mina est **valide** tant qu'on passe la nuit dans les limites de Mina, que ce soit sous tente, à l'hôtel ou à l'extérieur. Le Prophète ﷺ et les Compagnons dormaient sous les étoiles. La tente est un confort moderne, pas une condition.
+
+</details>
+
+---
+
+## 💭 Réflexion
+
+> *« Arafat est le jour où Allah descend vers le ciel de ce monde et Se vante de Ses serviteurs auprès des anges. »*
+
+— Enseignement des savants
+
+---
+
 ## 🎯 Action Concrète : Planifier son Hajj
 
 **Cette semaine, créez votre chronogramme personnel du Hajj :**

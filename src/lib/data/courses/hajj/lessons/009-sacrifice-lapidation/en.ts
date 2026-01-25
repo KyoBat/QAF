@@ -235,6 +235,123 @@ export const content = `# 📜 الهَدْيُ وَالرَّمْيُ — The S
 
 ---
 
+## 🎯 Contemporary Cases
+
+### 🐑 Case 1: Sacrifice made in home country by proxy
+
+> **Situation:** A pilgrim asks their family back home to make a sacrifice in their name on Eid day, thinking it counts as their Hajj Hady. The animal is sacrificed at home, not in Makkah.
+
+**❓ Does this sacrifice count as Hady?**
+
+<details>
+<summary>📜 View the ruling</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| **Location of Hady** | Must be within the Haram (Mina, Makkah) |
+| **Sacrifice outside Haram** | Does not count as Hady |
+| **Distinction** | Hady ≠ Udhiya (Eid sacrifice) |
+
+> 💡 **Key Rule:** The obligatory Hady of the Mutamatti' or Qarin **must** be sacrificed within the Haram limits. The sacrifice at home is an Udhiya (Eid sacrifice), not a Hady. The pilgrim must organize a sacrifice through official Hady banks in Makkah.
+
+</details>
+
+### 💳 Case 2: Online payment for collective sacrifice
+
+> **Situation:** A pilgrim pays online for a "shared cow sacrifice among 7" via an official application. They never see the animal nor know exactly when it is sacrificed.
+
+**❓ Is this sacrifice valid?**
+
+<details>
+<summary>📜 View the ruling</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| **Proxy (tawkīl)** | Permitted for sacrifice |
+| **Reliable organization** | Condition of validity |
+| **Time of sacrifice** | The organization handles it |
+
+> 💡 **Key Rule:** Sacrifice by proxy through an accredited organization is **perfectly valid**. Official Hady banks (like the Saudi project) guarantee sacrifice within required times and places. The pilgrim does not need to see the animal or attend the sacrifice.
+
+</details>
+
+### 🪨 Case 3: Stoning by proxy for elderly person
+
+> **Situation:** An 85-year-old man, unable to walk to the Jamarat, asks his son to throw the stones on his behalf for all the Tashriq days.
+
+**❓ Is this delegation permitted?**
+
+<details>
+<summary>📜 View the ruling</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| **Physical incapacity** | Established and permanent (age + mobility) |
+| **Opinion of schools** | Unanimously permitted in case of incapacity |
+| **Procedure** | Son throws for him then for himself |
+
+> 💡 **Key Rule:** Delegation for stoning is **permitted** for those truly incapable (illness, old age, disability). The proxy throws first for the represented person, then repeats the circuit for themselves. Fatigue alone is not sufficient as an excuse.
+
+</details>
+
+### ⏰ Case 4: Stoning at night to avoid crowds
+
+> **Situation:** To avoid the extreme afternoon crowds, a pilgrim decides to throw their pebbles at 2:00 AM on the 12th day.
+
+**❓ Is this stoning valid?**
+
+<details>
+<summary>📜 View the ruling</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| **End of stoning time** | Until dawn of the following day |
+| **Stoning at night** | Permitted but makruh without excuse |
+| **Valid excuse** | Avoiding dangerous crowds is an excuse |
+
+> 💡 **Key Rule:** Stoning at night during Tashriq days is **valid** because the time extends until dawn. However, it is disliked (makruh) without reason. Avoiding dangerous stampedes is considered a valid excuse, especially since the tragic incidents of the past.
+
+</details>
+
+### 🦴 Case 5: Animal sacrificed found to have defect afterward
+
+> **Situation:** After sacrificing a sheep, the butcher notices the animal had an internal illness not visible before slaughter. The animal appeared healthy externally.
+
+**❓ Is the sacrifice valid?**
+
+<details>
+<summary>📜 View the ruling</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| **Prior knowledge** | The defect was hidden |
+| **External appearance** | The animal appeared healthy |
+| **Invalidating defects** | Only "obvious" ones (البيّن) |
+
+> 💡 **Key Rule:** The sacrifice is **valid** because the hadith mentions "obvious" defects (البيّن عورها, البيّن مرضها). An undetectable internal defect does not invalidate the sacrifice. The pilgrim's intention and effort count. Allah does not burden a soul beyond its capacity.
+
+</details>
+
+---
+
+## 💭 Reflection
+
+> *"The sacrifice is not the blood that flows, but the piety that rises to Allah."*
+
+— Teaching of the scholars
+
+---
+
 ## 🎯 Practical Action: Prepare Your Sacrifice
 
 **This week, plan the practical aspects of your sacrifice:**

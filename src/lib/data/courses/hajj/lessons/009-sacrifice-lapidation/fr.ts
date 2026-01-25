@@ -240,6 +240,123 @@ export const content = `# 📜 الهَدْيُ وَالرَّمْيُ — Le Sa
 
 ---
 
+## 🎯 Cas Contemporains
+
+### 🐑 Cas 1: Sacrifice fait dans son pays d'origine par procuration
+
+> **Situation:** Un pèlerin demande à sa famille restée au pays de faire un sacrifice en son nom le jour de l'Aïd, pensant que cela compte comme son Hady de Hajj. L'animal est sacrifié chez lui, pas à La Mecque.
+
+**❓ Ce sacrifice compte-t-il comme Hady ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| **Lieu du Hady** | Doit être dans le Haram (Mina, Mecque) |
+| **Sacrifice hors Haram** | Ne compte pas comme Hady |
+| **Distinction** | Hady ≠ Udhiya (sacrifice de l'Aïd) |
+
+> 💡 **Règle:** Le Hady obligatoire du Mutamatti' ou Qarin **doit** être sacrifié dans les limites du Haram. Le sacrifice fait au pays est une Udhiya (sacrifice de l'Aïd), pas un Hady. Le pèlerin doit organiser un sacrifice via les banques de Hady officielles à La Mecque.
+
+</details>
+
+### 💳 Cas 2: Paiement en ligne pour sacrifice collectif
+
+> **Situation:** Un pèlerin paie en ligne pour un « sacrifice de vache partagé à 7 » via une application officielle. Il ne voit jamais l'animal ni ne sait exactement quand il est sacrifié.
+
+**❓ Ce sacrifice est-il valide ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| **Procuration (tawkîl)** | Permise pour le sacrifice |
+| **Organisation fiable** | Condition de validité |
+| **Temps du sacrifice** | L'organisation s'en charge |
+
+> 💡 **Règle:** Le sacrifice par procuration via une organisation agréée est **parfaitement valide**. Les banques de Hady officielles (comme le projet saoudien) garantissent le sacrifice dans les temps et lieux requis. Le pèlerin n'a pas besoin de voir l'animal ni d'assister au sacrifice.
+
+</details>
+
+### 🪨 Cas 3: Jet de cailloux par procuration pour personne âgée
+
+> **Situation:** Un homme de 85 ans, incapable de marcher jusqu'aux Jamarat, demande à son fils de jeter les pierres à sa place tous les jours de Tashriq.
+
+**❓ Cette délégation est-elle permise ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| **Incapacité physique** | Avérée et permanente (âge + mobilité) |
+| **Avis des écoles** | Unanimement permis en cas d'incapacité |
+| **Procédure** | Le fils jette pour lui puis pour lui-même |
+
+> 💡 **Règle:** La délégation pour le jet est **permise** pour les personnes vraiment incapables (maladie, vieillesse, handicap). Le mandataire jette d'abord pour la personne représentée, puis refait le circuit pour lui-même. La fatigue seule ne suffit pas comme excuse.
+
+</details>
+
+### ⏰ Cas 4: Lapidation de nuit pour éviter la foule
+
+> **Situation:** Pour éviter la foule extrême de l'après-midi, un pèlerin décide de jeter ses pierres à 2h00 du matin le 12ème jour.
+
+**❓ Ce jet est-il valide ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| **Fin du temps de jet** | Jusqu'à l'aube du jour suivant |
+| **Jet de nuit** | Permis mais makrûh sans excuse |
+| **Excuse valable** | Éviter la foule dangereuse est une excuse |
+
+> 💡 **Règle:** Le jet de nuit les jours de Tashriq est **valide** car le temps s'étend jusqu'à l'aube. Cependant, c'est déconseillé (makrûh) sans raison. Éviter les bousculades dangereuses est considéré comme une excuse valable, surtout depuis les incidents tragiques du passé.
+
+</details>
+
+### 🦴 Cas 5: Animal sacrifié présentant un défaut découvert après
+
+> **Situation:** Après avoir sacrifié un mouton, le boucher remarque que l'animal avait une maladie interne non visible avant l'abattage. L'animal semblait sain extérieurement.
+
+**❓ Le sacrifice est-il valide ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| **Connaissance préalable** | Le défaut était caché |
+| **Apparence extérieure** | L'animal semblait sain |
+| **Défauts invalidants** | Ceux « évidents » (البيّن) seulement |
+
+> 💡 **Règle:** Le sacrifice est **valide** car le hadith parle de défauts « évidents » (البيّن عورها, البيّن مرضها). Un défaut interne non détectable n'invalide pas le sacrifice. L'intention et l'effort du pèlerin comptent. Allah n'impose pas ce qui dépasse la capacité.
+
+</details>
+
+---
+
+## 💭 Réflexion
+
+> *« Le sacrifice n'est pas le sang qui coule, mais la piété qui monte vers Allah. »*
+
+— Enseignement des savants
+
+---
+
 ## 🎯 Action Concrète : Préparez votre sacrifice
 
 **Cette semaine, planifiez les aspects pratiques de votre sacrifice :**

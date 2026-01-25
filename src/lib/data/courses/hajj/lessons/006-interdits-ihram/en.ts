@@ -216,6 +216,123 @@ This is **the most severe prohibition** as it can invalidate Hajj.
 
 ---
 
+## 🎯 Contemporary Cases
+
+### 🧴 Case 1: Using scented soap inadvertently
+
+> **Situation:** A pilgrim in Ihram goes to the hotel bathroom and mechanically uses the provided soap, which is strongly perfumed. He only realizes his mistake after washing his hands.
+
+**❓ Has he transgressed a prohibition of Ihram?**
+
+<details>
+<summary>📜 View the ruling</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| **Prohibition concerned** | Use of perfume (الطيب) |
+| **Intention** | Absent — act by inadvertence |
+| **Reaction time** | Immediate washing upon realization |
+
+> 💡 **Key Rule:** Forgetfulness or inadvertence (النسيان) does not incur sin, but according to Malikis, fidya is recommended as a precaution. The area should be washed immediately with unscented water.
+
+</details>
+
+### 💅 Case 2: Woman with nail polish before ihram
+
+> **Situation:** A woman arrives at the Miqat and realizes she forgot to remove her nail polish. She doesn't have nail polish remover with her.
+
+**❓ Can she enter Ihram like this? Should she wait?**
+
+<details>
+<summary>📜 View the ruling</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| **Is nail polish perfume?** | No — it's a barrier to Wudu, not perfume |
+| **Does it affect Ihram?** | Not directly, but affects validity of Wudu |
+| **Solution** | Remove the polish as soon as possible |
+
+> 💡 **Key Rule:** Nail polish is not a prohibition of Ihram in itself. However, it prevents water from reaching the nails during Wudu. She can enter Ihram but must remove the polish before doing Tawaf (which requires valid Wudu).
+
+</details>
+
+### 🦟 Case 3: Scented mosquito repellent spray used in ihram
+
+> **Situation:** A pilgrim at Mina uses a mosquito repellent spray to protect himself from insects at night. After application, he reads the label and discovers the product contains perfume.
+
+**❓ What is the consequence of this act?**
+
+<details>
+<summary>📜 View the ruling</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| **Product type** | Mosquito repellent with perfumed component |
+| **Primary intention** | Protection, not beautification |
+| **Prior knowledge** | Ignorance of perfumed content |
+
+> 💡 **Key Rule:** Using any perfumed product is prohibited, regardless of intention. In case of ignorance, wash the area and give sadaqa. It is advised to check products BEFORE Ihram and use unscented repellents.
+
+</details>
+
+### 💇 Case 4: Hair falling naturally vs accidentally pulled out
+
+> **Situation:** During Tawaf, a pilgrim runs his hand through his hair and some hairs fall out naturally. Another scratches his head vigorously and accidentally pulls out a tuft of hair.
+
+**❓ Are these two situations equivalent?**
+
+<details>
+<summary>📜 View the ruling</summary>
+
+**📖 Analysis:**
+
+| Criterion | Hair falling naturally | Hair pulled out |
+|-----------|----------------------|-----------------|
+| **Cause** | Natural | Pilgrim's action |
+| **Intention** | None | Unintentional |
+| **Compensation** | Nothing | Proportional sadaqa |
+
+> 💡 **Key Rule:** Hair that falls naturally without the pilgrim's action requires nothing. Hair pulled out, even involuntarily, requires sadaqa (feeding one poor person or equivalent). Deliberate pulling of multiple hairs requires full fidya.
+
+</details>
+
+### ☂️ Case 5: Using an umbrella for sun protection
+
+> **Situation:** At Arafat, a pilgrim uses an umbrella to protect himself from the intense sun. Someone tells him this is forbidden as it's equivalent to covering the head.
+
+**❓ Is using an umbrella really prohibited?**
+
+<details>
+<summary>📜 View the ruling</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| **Nature of umbrella** | Mobile shade not attached to body |
+| **Difference from headcover** | Doesn't touch head, isn't "worn" |
+| **Scholars' opinion** | Unanimously permitted |
+
+> 💡 **Key Rule:** The umbrella is **permitted** because it is not attached to the head. The prohibition concerns head coverings (قُبَّعة, عِمَامة) that are worn on the head. The umbrella, like a tent or tree shade, is external shade that is permitted.
+
+</details>
+
+---
+
+## 💭 Reflection
+
+> *"Ihram teaches you detachment from this world. Every restriction is an elevation towards Allah."*
+
+— Teaching of the scholars
+
+---
+
 ## ✅ Practical Action / Challenge
 
 **Preparation for Ihram:**

@@ -213,6 +213,123 @@ Le Sa'i commémore la course de Hâjar عليها السلام cherchant de l'ea
 
 ---
 
+## 🎯 Cas Contemporains
+
+### 🦽 Cas 1: Tawaf en fauteuil roulant — poussé par quelqu'un
+
+> **Situation:** Une personne âgée ne peut pas marcher et fait le Tawaf en fauteuil roulant, poussée par son fils. Le fils a-t-il aussi accompli un Tawaf ? La personne âgée doit-elle avoir l'intention ?
+
+**❓ Ce Tawaf est-il valide pour les deux ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| **Condition de marcher** | Non exigée — le Tawaf est valide assis |
+| **Intention de la personne poussée** | Obligatoire pour elle |
+| **Tawaf du pousseur** | Compte s'il en a l'intention |
+
+> 💡 **Règle:** Le Tawaf en fauteuil roulant est **parfaitement valide**. La personne poussée doit avoir son intention propre. Le pousseur peut simultanément avoir l'intention de faire son propre Tawaf et aider, recevant ainsi double récompense.
+
+</details>
+
+### 📱 Cas 2: Réciter le Coran sur téléphone pendant le Tawaf
+
+> **Situation:** Un pèlerin fait le Tawaf tout en lisant le Coran sur son téléphone. Il ne connaît pas d'invocations par cœur et préfère lire plutôt que de rester silencieux.
+
+**❓ Cette pratique est-elle permise ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| **Récitation du Coran** | Permise pendant le Tawaf |
+| **Utilisation du téléphone** | Outil de lecture, pas d'interdiction |
+| **Mieux que le silence** | Oui, le Tawaf est prière (parole permise) |
+
+> 💡 **Règle:** Réciter le Coran pendant le Tawaf est **permis et méritoire**. Le téléphone comme support de lecture n'altère pas le mérite. Cependant, il est préférable de mémoriser quelques invocations prophétiques et d'invoquer librement.
+
+</details>
+
+### 🤰 Cas 3: Femme enceinte fatiguée — pause prolongée pendant le Sa'i
+
+> **Situation:** Une femme enceinte de 7 mois fait le Sa'i. À son 4ème trajet, elle est épuisée et doit s'asseoir pendant 45 minutes. Peut-elle reprendre là où elle s'est arrêtée ?
+
+**❓ La continuité du Sa'i est-elle rompue ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| **Continuité du Sa'i** | Moins stricte que celle du Tawaf |
+| **Pause pour repos** | Permise si justifiée |
+| **Limite de temps** | Pas de limite stricte selon la majorité |
+
+> 💡 **Règle:** Le Sa'i peut être interrompu pour une raison valable (fatigue, besoin physiologique). Elle reprend du trajet où elle s'est arrêtée. La grossesse est une excuse légale majeure. Il est conseillé d'utiliser un fauteuil roulant si disponible.
+
+</details>
+
+### 🚽 Cas 4: Interruption pour aller aux toilettes — reprendre où ?
+
+> **Situation:** Au 5ème tour du Tawaf, un pèlerin a un besoin urgent d'aller aux toilettes. Il quitte le Tawaf, se soulage, refait le Wudû', puis revient. D'où reprend-il ?
+
+**❓ Doit-il recommencer le Tawaf ou continuer ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| **Cause de l'interruption** | Besoin physiologique — excuse valable |
+| **Wudû' renouvelé** | Condition pour reprendre (chez les Malikites) |
+| **Point de reprise** | À partir du point d'arrêt |
+
+> 💡 **Règle:** Selon les Malikites, si l'interruption est longue, il faut recommencer le Tawaf depuis le début. Selon d'autres écoles, on reprend du tour où on s'est arrêté après avoir refait le Wudû'. Par précaution, recommencer le tour en cours est préférable.
+
+</details>
+
+### 🌊 Cas 5: Tawaf pendant la pluie — glissade et chute
+
+> **Situation:** Pendant un Tawaf sous la pluie, le sol devient glissant. Un pèlerin glisse et tombe à son 3ème tour. Il se relève mais est désorienté. Comment continuer ?
+
+**❓ Doit-il recommencer le tour ou le Tawaf entier ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| **Interruption involontaire** | Ne rompt pas le Tawaf |
+| **Orientation perdue** | Reprendre du point le plus probable |
+| **En cas de doute** | Prendre le nombre le plus bas certain |
+
+> 💡 **Règle:** La chute n'invalide pas le Tawaf. Le pèlerin se relève et reprend de là où il estime s'être arrêté. En cas de doute sur le nombre de tours, il prend le nombre inférieur dont il est certain (ex: doute entre 3 et 4 → compter 3).
+
+</details>
+
+---
+
+## 💭 Réflexion
+
+> *« Le Tawaf est une prière autour de la Maison d'Allah. Chaque pas est une invocation, chaque tour une élévation. »*
+
+— Enseignement des savants
+
+---
+
 ## ✅ Action Concrète / Défi
 
 **Préparation pratique :**

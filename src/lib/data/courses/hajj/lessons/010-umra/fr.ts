@@ -205,6 +205,123 @@ export const content = `# 📜 العُمْرَةُ — Al-'Umra : Le Petit Pèl
 
 ---
 
+## 🎯 Cas Contemporains
+
+### ✈️ Cas 1: 'Umra pendant escale longue à Jeddah (5-6 heures)
+
+> **Situation:** Un voyageur en transit à l'aéroport de Jeddah a une escale de 6 heures. Il se demande s'il peut faire une 'Umra rapide avant de reprendre son vol.
+
+**❓ Est-ce faisable et valide ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| **Durée minimale de la 'Umra** | 1-2h pour les rites |
+| **Distance Jeddah-Mecque** | ~80 km (1h de route) |
+| **Temps total nécessaire** | Minimum 4-5h (aller-retour + rites) |
+
+> 💡 **Règle:** C'est **techniquement faisable** mais très risqué. Il faut : entrer en Ihram à Jeddah (si c'est votre Miqat ou après), aller à La Mecque, faire Tawaf, Sa'i, Halq, et revenir. Avec 6h, c'est très serré. Le risque de manquer l'avion est élevé. Mieux vaut planifier une escale plus longue ou un voyage dédié.
+
+</details>
+
+### 📅 Cas 2: 'Umra en dernière semaine de Sha'ban
+
+> **Situation:** Un musulman planifie une 'Umra la dernière semaine de Sha'ban, juste avant Ramadan. Quelqu'un lui dit que c'est déconseillé car proche de Ramadan.
+
+**❓ Y a-t-il une restriction sur cette période ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| **Restrictions temporelles** | La 'Umra est valide toute l'année |
+| **Sha'ban** | Mois béni, aucune interdiction |
+| **Proche de Ramadan** | Certains préfèrent attendre pour le mérite de Ramadan |
+
+> 💡 **Règle:** La 'Umra en Sha'ban est **parfaitement valide** et méritoire. Il n'y a aucune restriction. Cependant, si on peut attendre quelques jours pour faire la 'Umra en Ramadan (qui équivaut à un Hajj en récompense), c'est préférable pour maximiser le mérite.
+
+</details>
+
+### 🔄 Cas 3: Plusieurs 'Umras dans le même voyage
+
+> **Situation:** Un pèlerin fait sa 'Umra à son arrivée à La Mecque. Pendant son séjour de 10 jours, il veut refaire 2-3 'Umras supplémentaires en sortant au Tan'im.
+
+**❓ Cette pratique est-elle recommandée ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| **Avis Malikite** | Makrûh (déconseillé) |
+| **Pratique des Salaf** | Non attestée de manière fréquente |
+| **Mieux vaut** | Multiplier les Tawaf surérogatoires |
+
+> 💡 **Règle:** Selon les Malikites, multiplier les 'Umras depuis le Tan'im est **makrûh** car ce n'était pas la pratique du Prophète ﷺ ni des Compagnons. Une seule 'Umra bien accomplie + des Tawaf surérogatoires est meilleure que plusieurs 'Umras. Les autres écoles permettent cette pratique.
+
+</details>
+
+### 🤰 Cas 4: 'Umra pour femme enceinte de 8 mois
+
+> **Situation:** Une femme enceinte de 8 mois souhaite faire la 'Umra. Son médecin dit qu'elle peut voyager mais doit éviter les efforts intenses. Elle s'inquiète pour sa capacité à accomplir les rites.
+
+**❓ Peut-elle faire la 'Umra dans cet état ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| **Condition physique** | Avis médical positif avec précautions |
+| **Aménagements possibles** | Fauteuil roulant pour Tawaf/Sa'i |
+| **Risque d'accouchement** | Prévoir un plan médical |
+
+> 💡 **Règle:** La 'Umra est **permise** si le médecin l'autorise. Elle peut utiliser un fauteuil roulant pour le Tawaf et le Sa'i. Elle doit avoir un accompagnant et connaître les hôpitaux à proximité. Si elle accouche avant de terminer, elle complète après ses lochies (nifâs).
+
+</details>
+
+### 👶 Cas 5: 'Umra avec bébé en porte-bébé
+
+> **Situation:** Une mère veut faire la 'Umra avec son bébé de 6 mois en porte-bébé. Elle se demande si le bébé compte comme accomplissant la 'Umra et si elle peut faire les rites normalement.
+
+**❓ Comment gérer cette situation ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| **'Umra du bébé** | Valide si la mère a l'intention pour lui |
+| **'Umra de la mère** | Également valide avec sa propre intention |
+| **Logistique** | Attention à la foule et à la chaleur |
+
+> 💡 **Règle:** La mère peut faire la 'Umra avec son bébé en porte-bébé. Si elle fait l'intention de 'Umra pour le bébé (en plus de la sienne), le bébé accomplit une 'Umra dont le mérite revient à elle. Elle fait deux intentions : une pour elle, une pour lui. Le bébé n'a pas besoin de vêtements d'Ihram spéciaux.
+
+</details>
+
+---
+
+## 💭 Réflexion
+
+> *« La 'Umra est une visite d'amour à la Maison d'Allah. Chaque pas vers elle est une élévation. »*
+
+— Enseignement des savants
+
+---
+
 ## 🎯 Action Concrète : Préparez votre 'Umra
 
 **Cette semaine, planifiez votre prochaine 'Umra :**

@@ -287,6 +287,131 @@ This is one of the major disagreements in Hajj jurisprudence:
 
 ---
 
+## 🎯 Contemporary Cases
+
+### 👨‍👩‍👧 Case 1: Woman Without Available Mahram
+
+> **Situation:** Khadija, 45, wishes to perform her obligatory Hajj. Her husband cannot accompany her because he must work to support the family. She has no other available mahram.
+
+**❓ Can she travel for Hajj without a mahram?**
+
+<details>
+<summary>📜 View the Ruling</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Maliki position | Mahram not required if safety is ensured |
+| Condition | Travel with group of trustworthy women |
+| Hajj status | Obligatory for her |
+
+> 💡 **Key Rule:** According to Malikis, if a woman can travel with a **رُفْقَة مَأْمُونَة** (group of trustworthy women) on a safe route, Hajj is obligatory for her even without a mahram.
+
+</details>
+
+---
+
+### 🧠 Case 2: Person with Mild Intellectual Disability
+
+> **Situation:** Bilal, 30, has a mild intellectual disability. He can perform daily activities with help and understands the basics of the religion. His parents want to take him for Hajj.
+
+**❓ Is Hajj obligatory for him? Will it be valid?**
+
+<details>
+<summary>📜 View the Ruling</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Condition of العقل | Partially fulfilled |
+| Capacity for discernment | Evaluated case by case |
+| Validity | Depends on level of understanding |
+
+> 💡 **Key Rule:** If the person can distinguish the acts of Hajj and has a minimum level of discernment (تمييز), their Hajj is valid. Obligation depends on their level of reason: if the disability is mild and they understand, Hajj is obligatory with assistance.
+
+</details>
+
+---
+
+### 👶 Case 3: 10-Year-Old Child Accompanying Parents
+
+> **Situation:** Ibrahim, 10 years old, is accompanying his parents for Hajj. The parents wonder if his Hajj will be valid and if he will need to redo it as an adult.
+
+**❓ What is the validity of his Hajj?**
+
+<details>
+<summary>📜 View the Ruling</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Condition of البلوغ | Not fulfilled |
+| Hajj validity | Valid as Nafl (supererogatory) |
+| Future obligation | Must redo Fard Hajj after puberty |
+
+> 💡 **Key Rule:** The Hajj of a pre-pubescent child is **valid as a supererogatory act** and brings reward to them and their parents. However, they must perform the obligatory Hajj once they reach puberty and are capable.
+
+</details>
+
+---
+
+### 💉 Case 4: Chronically Ill Person (Diabetes, Hypertension)
+
+> **Situation:** Amina, 55, suffers from diabetes and hypertension, both controlled by medication. Her doctor says she can travel with precautions.
+
+**❓ Is Hajj obligatory for her?**
+
+<details>
+<summary>📜 View the Ruling</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Physical capability | Present with adaptation |
+| Medical opinion | Favorable with precautions |
+| Obligation | Yes, Hajj is obligatory |
+
+> 💡 **Key Rule:** A **controlled** chronic illness does not exempt from Hajj. If the doctor confirms the ability to travel, Hajj remains obligatory. She should prepare her medications and adapt her physical efforts.
+
+</details>
+
+---
+
+### 🔒 Case 5: Released Muslim Prisoner
+
+> **Situation:** Hassan, 50, has just been released after 20 years in prison. During his incarceration, he could never perform Hajj. Now free and with means, must he "make up" the past years?
+
+**❓ Does he owe Hajj for the prison years?**
+
+<details>
+<summary>📜 View the Ruling</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Istita'a in prison | Absent (freedom is a condition) |
+| Hajj debt | No, as it wasn't obligatory during incarceration |
+| Current obligation | Only one Hajj obligatory |
+
+> 💡 **Key Rule:** Hajj was **not obligatory** during his imprisonment because freedom is part of Istita'a. Once released and capable, he owes only **one Hajj**, no make-up for prison years.
+
+</details>
+
+---
+
+## 💭 Reflection
+
+> *"Allah made Istita'a a condition of Hajj out of mercy for His servants. One who cannot is not sinful, and one who can should not delay."*
+
+— Wisdom from the teachings of scholars
+
+---
+
 ## ❓ Frequently Asked Questions
 
 ### "I am in debt. Must I perform Hajj?"

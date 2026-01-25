@@ -270,6 +270,131 @@ Le Hajj devient-il obligatoire **immédiatement** dès que les conditions sont r
 
 ---
 
+## 🎯 Cas Contemporains
+
+### 🌟 Cas 1: Nouveau Musulman et Obligation du Hajj
+
+> **Situation:** Ahmed, 32 ans, s'est converti à l'Islam il y a 6 mois. Il vient de découvrir que le Hajj est un des cinq piliers de l'Islam, mais il n'a pas encore les moyens financiers pour l'accomplir.
+
+**❓ Le Hajj est-il immédiatement obligatoire pour lui ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| Istita'a (capacité) | Non remplie actuellement |
+| Obligation | Différée jusqu'à capacité |
+| Péché | Aucun péché tant que incapacité |
+
+> 💡 **Règle:** L'obligation du Hajj est conditionnée par l'Istita'a. Le nouveau musulman doit apprendre les bases de l'Islam et économiser pour le Hajj sans s'endetter.
+
+</details>
+
+---
+
+### 👴 Cas 2: Report du Hajj et Vieillesse
+
+> **Situation:** Mahmoud, 72 ans, a toujours reporté son Hajj malgré des moyens suffisants. Maintenant, il a des problèmes de mobilité et le voyage devient très difficile.
+
+**❓ Quelle est sa situation juridique ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| Report sans excuse | Péché selon les Malikites |
+| Incapacité actuelle | Doit mandater quelqu'un |
+| Repentir | Obligatoire pour les années de report |
+
+> 💡 **Règle:** Selon la position Malikite, le Hajj est obligatoire **immédiatement** dès la capacité. S'il ne peut plus voyager, il doit payer pour qu'un autre l'accomplisse en son nom.
+
+</details>
+
+---
+
+### 💸 Cas 3: Économies vs Dette Étudiante
+
+> **Situation:** Youssef, 28 ans, a économisé 4000€. Il a aussi une dette étudiante de 15000€ avec des mensualités régulières. Doit-il faire le Hajj ou rembourser sa dette d'abord ?
+
+**❓ Peut-il utiliser ses économies pour le Hajj ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| Type de dette | Différée (mensualités) |
+| Position Malikite | Dette différée n'empêche pas le Hajj |
+| Condition | Continuer à payer les mensualités |
+
+> 💡 **Règle:** Les dettes **différées** (comme les prêts étudiants avec échéancier) n'empêchent pas l'obligation du Hajj selon les Malikites, tant qu'on peut continuer les remboursements mensuels.
+
+</details>
+
+---
+
+### ✈️ Cas 4: Visa Hajj Refusé
+
+> **Situation:** Fatima a postulé pour le visa Hajj trois années consécutives, mais sa demande a été refusée à chaque fois en raison des quotas de son pays.
+
+**❓ Est-elle en faute de ne pas avoir accompli le Hajj ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| Istita'a | Incomplète (accès impossible) |
+| Faute | Aucune faute de sa part |
+| Obligation | Renouvelée chaque année |
+
+> 💡 **Règle:** L'Istita'a inclut la possibilité d'accéder à La Mecque. Un refus de visa hors de son contrôle suspend l'obligation sans péché, mais elle doit réessayer chaque année.
+
+</details>
+
+---
+
+### 🌍 Cas 5: Pays Sans Relations Diplomatiques
+
+> **Situation:** Omar vit dans un pays qui n'a pas de relations diplomatiques avec l'Arabie Saoudite. Il n'existe aucun moyen légal pour lui d'obtenir un visa Hajj.
+
+**❓ Comment doit-il procéder ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| Sécurité du chemin | Condition non remplie |
+| Alternatives | Voyager via un pays tiers si possible |
+| Obligation | Suspendue si impossible |
+
+> 💡 **Règle:** La **sécurité du chemin** (أَمْنُ الطَّرِيق) est une condition de l'obligation. Si toutes les voies légales sont fermées, l'obligation est suspendue, mais il doit saisir toute opportunité qui se présente.
+
+</details>
+
+---
+
+## 💭 Réflexion
+
+> *« Le Hajj est le Jihad de ceux qui n'ont pas à combattre : les personnes âgées, les faibles et les femmes. C'est un effort sur soi-même pour répondre à l'appel d'Allah. »*
+
+— Sagesse des savants de l'Islam
+
+---
+
 ## ❓ Questions Fréquentes
 
 ### « Puis-je reporter le Hajj si j'ai l'argent ? »

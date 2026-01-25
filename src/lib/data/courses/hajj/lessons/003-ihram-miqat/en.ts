@@ -213,6 +213,131 @@ Hajj can only be performed at a specific time:
 
 ---
 
+## 🎯 Contemporary Cases
+
+### ✈️ Case 1: Direct Flight to Jeddah Without Passing Terrestrial Miqat
+
+> **Situation:** Moussa is taking a direct flight from Paris to Jeddah. The plane doesn't fly over any of the traditional terrestrial Miqat. When should he enter the state of Ihram?
+
+**❓ How to determine the right time for Ihram during flight?**
+
+<details>
+<summary>📜 View the Ruling</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Aerial Miqat | Aligned with the nearest terrestrial Miqat |
+| Pilot announcement | Usually 30-45 min before landing |
+| Precaution | Enter Ihram before passing the point |
+
+> 💡 **Key Rule:** Airlines usually announce when approaching the Miqat. One must be in Ihram **before** this point. When in doubt, it's better to enter Ihram early (before takeoff or at the airport) than risk passing the Miqat.
+
+</details>
+
+---
+
+### 📍 Case 2: Transit in Dubai then Jeddah
+
+> **Situation:** Salma is traveling from Kuala Lumpur to Jeddah with a 6-hour layover in Dubai. She wonders if she should enter Ihram before the first flight or during the layover.
+
+**❓ Where and when should she enter Ihram?**
+
+<details>
+<summary>📜 View the Ruling</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| First flight (KL-Dubai) | Doesn't cross a Miqat toward Makkah |
+| Second flight (Dubai-Jeddah) | Crosses the Miqat |
+| Recommendation | Ihram before the second flight |
+
+> 💡 **Key Rule:** She can wait at Dubai airport to perform Ghusl and enter Ihram before boarding the flight to Jeddah. This is more practical and perfectly valid, as long as she is in Ihram before flying over the Miqat.
+
+</details>
+
+---
+
+### 🚿 Case 3: Ihram at Hotel Before Airport
+
+> **Situation:** Abdallah wants to perform Ghusl and wear his Ihram garments at the hotel before leaving for the airport, but he will make the intention (Niyyah) and Talbiya only in the airplane at the Miqat level.
+
+**❓ Is this method correct?**
+
+<details>
+<summary>📜 View the Ruling</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Wearing the garments | Permitted in advance |
+| Ghusl | Can be done at hotel |
+| Niyyah + Talbiya | What constitutes the actual Ihram |
+
+> 💡 **Key Rule:** **Perfectly valid.** Wearing Ihram garments is not Ihram itself. Ihram begins with the **intention** and **Talbiya**. He can prepare physically at the hotel and make the intention in the airplane at the right time.
+
+</details>
+
+---
+
+### 👗 Case 4: Forgot Ridaa in Checked Baggage
+
+> **Situation:** Yusuf realizes after takeoff that he left his Ridaa (upper Ihram cloth) in his checked luggage. He only has his Izar with him. The Miqat is approaching.
+
+**❓ What should he do?**
+
+<details>
+<summary>📜 View the Ruling</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Urgency | Must enter Ihram at the Miqat |
+| Temporary solution | Use a towel, airplane blanket |
+| Recovery | Wear the Ridaa upon arrival |
+
+> 💡 **Key Rule:** He must enter Ihram at the Miqat with what he has. A **towel** or **white airplane blanket** can temporarily serve as a Ridaa. The essential is that it's not sewn. Upon arrival, he retrieves his Ridaa without any penalty.
+
+</details>
+
+---
+
+### 🏥 Case 5: Arrived Sick in Jeddah
+
+> **Situation:** Fatou arrived in Jeddah very ill (high fever, dehydration). She couldn't enter Ihram on the plane. Can she rest first and enter Ihram later?
+
+**❓ What is the solution for her situation?**
+
+<details>
+<summary>📜 View the Ruling</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Passing the Miqat | Occurred without Ihram |
+| Option 1 | Return to Miqat after recovery |
+| Option 2 | Ihram on the spot + Dam |
+
+> 💡 **Key Rule:** She has two options: (1) Once recovered, **return to a Miqat** (Tan'im is the closest) and enter Ihram there — no Dam. (2) Enter Ihram **in Jeddah** and offer a **Dam** (sacrifice) for having passed the Miqat. Illness excuses the sin but not the compensation.
+
+</details>
+
+---
+
+## 💭 Reflection
+
+> *"Ihram is the first step toward detachment from worldly adornment. It is wearing simplicity to stand before the King of kings."*
+
+— Teaching of Hajj scholars
+
+---
+
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### Q1: Can I apply perfume during Ihram?

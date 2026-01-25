@@ -200,6 +200,123 @@ export const content = `# 📜 العُمْرَةُ — Al-'Umra: The Lesser Pil
 
 ---
 
+## 🎯 Contemporary Cases
+
+### ✈️ Case 1: 'Umra during long layover in Jeddah (5-6 hours)
+
+> **Situation:** A traveler in transit at Jeddah airport has a 6-hour layover. They wonder if they can perform a quick 'Umra before catching their next flight.
+
+**❓ Is this feasible and valid?**
+
+<details>
+<summary>📜 View the ruling</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| **Minimum duration of 'Umra** | 1-2 hours for the rites |
+| **Distance Jeddah-Makkah** | ~80 km (1 hour drive) |
+| **Total time needed** | Minimum 4-5 hours (round trip + rites) |
+
+> 💡 **Key Rule:** This is **technically feasible** but very risky. It requires: entering Ihram at Jeddah (if it's your Miqat or after), going to Makkah, performing Tawaf, Sa'i, Halq, and returning. With 6 hours, it's very tight. The risk of missing the flight is high. Better to plan a longer layover or a dedicated trip.
+
+</details>
+
+### 📅 Case 2: 'Umra in the last week of Sha'ban
+
+> **Situation:** A Muslim plans an 'Umra in the last week of Sha'ban, just before Ramadan. Someone tells them it's disliked because it's close to Ramadan.
+
+**❓ Is there a restriction on this period?**
+
+<details>
+<summary>📜 View the ruling</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| **Time restrictions** | 'Umra is valid all year |
+| **Sha'ban** | Blessed month, no prohibition |
+| **Close to Ramadan** | Some prefer waiting for Ramadan's merit |
+
+> 💡 **Key Rule:** 'Umra in Sha'ban is **perfectly valid** and meritorious. There is no restriction. However, if one can wait a few days to perform 'Umra in Ramadan (which equals a Hajj in reward), it is preferable to maximize the merit.
+
+</details>
+
+### 🔄 Case 3: Multiple 'Umras in the same trip
+
+> **Situation:** A pilgrim performs their 'Umra upon arrival in Makkah. During their 10-day stay, they want to repeat 2-3 additional 'Umras by going out to Tan'im.
+
+**❓ Is this practice recommended?**
+
+<details>
+<summary>📜 View the ruling</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| **Maliki opinion** | Makruh (disliked) |
+| **Practice of Salaf** | Not frequently attested |
+| **Better to** | Multiply voluntary Tawafs |
+
+> 💡 **Key Rule:** According to Malikis, multiplying 'Umras from Tan'im is **makruh** because it was not the practice of the Prophet ﷺ or the Companions. One well-performed 'Umra + voluntary Tawafs is better than multiple 'Umras. Other schools permit this practice.
+
+</details>
+
+### 🤰 Case 4: 'Umra for woman 8 months pregnant
+
+> **Situation:** A woman 8 months pregnant wishes to perform 'Umra. Her doctor says she can travel but should avoid intense exertion. She worries about her ability to complete the rites.
+
+**❓ Can she perform 'Umra in this state?**
+
+<details>
+<summary>📜 View the ruling</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| **Physical condition** | Positive medical opinion with precautions |
+| **Possible accommodations** | Wheelchair for Tawaf/Sa'i |
+| **Risk of delivery** | Have a medical plan ready |
+
+> 💡 **Key Rule:** 'Umra is **permitted** if the doctor authorizes it. She can use a wheelchair for Tawaf and Sa'i. She should have a companion and know the nearby hospitals. If she delivers before completing, she completes after her postnatal period (nifas).
+
+</details>
+
+### 👶 Case 5: 'Umra with baby in carrier
+
+> **Situation:** A mother wants to perform 'Umra with her 6-month-old baby in a carrier. She wonders if the baby counts as performing 'Umra and if she can perform the rites normally.
+
+**❓ How to manage this situation?**
+
+<details>
+<summary>📜 View the ruling</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| **Baby's 'Umra** | Valid if mother intends for them |
+| **Mother's 'Umra** | Also valid with her own intention |
+| **Logistics** | Be careful of crowds and heat |
+
+> 💡 **Key Rule:** The mother can perform 'Umra with her baby in a carrier. If she makes the intention of 'Umra for the baby (in addition to her own), the baby performs an 'Umra whose merit goes to her. She makes two intentions: one for herself, one for the baby. The baby doesn't need special Ihram garments.
+
+</details>
+
+---
+
+## 💭 Reflection
+
+> *"'Umra is a visit of love to Allah's House. Every step toward it is an elevation."*
+
+— Teaching of the scholars
+
+---
+
 ## 🎯 Practical Action: Prepare Your 'Umra
 
 **This week, plan your next 'Umra:**

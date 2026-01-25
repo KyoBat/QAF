@@ -270,6 +270,131 @@ Does Hajj become obligatory **immediately** when conditions are met, or can it b
 
 ---
 
+## 🎯 Contemporary Cases
+
+### 🌟 Case 1: New Muslim Discovering Hajj Obligation
+
+> **Situation:** Ahmed, 32, converted to Islam 6 months ago. He just discovered that Hajj is one of the five pillars of Islam, but he doesn't yet have the financial means to perform it.
+
+**❓ Is Hajj immediately obligatory for him?**
+
+<details>
+<summary>📜 View the Ruling</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Istita'a (capability) | Not currently fulfilled |
+| Obligation | Deferred until capable |
+| Sin | No sin while incapable |
+
+> 💡 **Key Rule:** The obligation of Hajj is conditioned upon Istita'a. The new Muslim should learn the basics of Islam and save for Hajj without incurring debt.
+
+</details>
+
+---
+
+### 👴 Case 2: Delayed Hajj and Old Age
+
+> **Situation:** Mahmoud, 72, has always postponed his Hajj despite having sufficient means. Now he has mobility issues and traveling has become very difficult.
+
+**❓ What is his legal situation?**
+
+<details>
+<summary>📜 View the Ruling</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Delay without excuse | Sinful according to Malikis |
+| Current incapacity | Must delegate someone |
+| Repentance | Required for years of delay |
+
+> 💡 **Key Rule:** According to the Maliki position, Hajj is obligatory **immediately** upon capability. If he can no longer travel, he must pay for someone else to perform it on his behalf.
+
+</details>
+
+---
+
+### 💸 Case 3: Savings vs. Student Debt
+
+> **Situation:** Youssef, 28, has saved €4000. He also has €15000 in student debt with regular monthly payments. Should he perform Hajj or pay off his debt first?
+
+**❓ Can he use his savings for Hajj?**
+
+<details>
+<summary>📜 View the Ruling</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Type of debt | Deferred (installments) |
+| Maliki position | Deferred debt doesn't prevent Hajj |
+| Condition | Continue paying installments |
+
+> 💡 **Key Rule:** **Deferred debts** (like student loans with payment schedules) do not prevent the obligation of Hajj according to Malikis, as long as one can continue the monthly repayments.
+
+</details>
+
+---
+
+### ✈️ Case 4: Hajj Visa Refused
+
+> **Situation:** Fatima has applied for a Hajj visa three consecutive years, but her application was rejected each time due to her country's quotas.
+
+**❓ Is she at fault for not performing Hajj?**
+
+<details>
+<summary>📜 View the Ruling</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Istita'a | Incomplete (access impossible) |
+| Fault | No fault on her part |
+| Obligation | Renewed each year |
+
+> 💡 **Key Rule:** Istita'a includes the ability to access Makkah. A visa refusal beyond her control suspends the obligation without sin, but she must try again each year.
+
+</details>
+
+---
+
+### 🌍 Case 5: Country Without Diplomatic Relations
+
+> **Situation:** Omar lives in a country that has no diplomatic relations with Saudi Arabia. There is no legal way for him to obtain a Hajj visa.
+
+**❓ How should he proceed?**
+
+<details>
+<summary>📜 View the Ruling</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Safety of the route | Condition not fulfilled |
+| Alternatives | Travel via a third country if possible |
+| Obligation | Suspended if impossible |
+
+> 💡 **Key Rule:** **Safety of the route** (أَمْنُ الطَّرِيق) is a condition of obligation. If all legal pathways are closed, the obligation is suspended, but he must seize any opportunity that arises.
+
+</details>
+
+---
+
+## 💭 Reflection
+
+> *"Hajj is the Jihad of those who have no fighting: the elderly, the weak, and women. It is a struggle against oneself in response to Allah's call."*
+
+— Wisdom of Islamic Scholars
+
+---
+
 ## ❓ Frequently Asked Questions
 
 ### "Can I delay Hajj if I have the money?"

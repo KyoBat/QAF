@@ -223,6 +223,132 @@ Le parcours entre les monts **Safa** et **Marwa**, en commémoration de **Hajar*
 
 ---
 
+## 🎯 Cas Contemporains
+
+### 🚗 Cas 1: Embouteillage le Jour d'Arafat
+
+> **Situation:** Ahmad est bloqué dans un embouteillage monstre le 9 Dhul-Hijja. Son bus n'arrive à Arafat qu'après le Maghrib, et il entend que certains disent que le temps d'Arafat est terminé au coucher du soleil.
+
+**❓ Son Hajj est-il valide s'il arrive après Maghrib ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| Temps du Wuquf | Du Zawal du 9 jusqu'à l'aube du 10 |
+| Arrivée après Maghrib | ✅ Valide — le temps n'est pas terminé |
+| Position Malikite | Un instant de nuit suffit |
+
+> 💡 **Règle:** Le Wuquf à Arafat reste valide jusqu'à **l'aube du 10 Dhul-Hijja**. Arriver après le Maghrib est parfaitement valide. Le Hajj est complet, alhamdulillah.
+
+</details>
+
+---
+
+### 🤒 Cas 2: Malade le Jour d'Arafat
+
+> **Situation:** Khadija tombe gravement malade le 9 Dhul-Hijja. Elle est transportée en ambulance à Arafat mais reste inconsciente pendant toute la durée de la station.
+
+**❓ Son Wuquf est-il valide ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| Présence physique | ✅ Oui, elle était à Arafat |
+| Conscience | ❌ Absente (inconsciente) |
+| Position Malikite | La conscience est requise |
+
+> 💡 **Règle:** Selon les Malikites, le Wuquf nécessite un minimum de **conscience** (يقظة). Si elle était inconsciente tout le temps, son Wuquf est **invalide** et son Hajj ne compte pas cette année. Elle devra le refaire l'année suivante.
+
+</details>
+
+---
+
+### 🌙 Cas 3: Tawaf al-Ifadah Retardé de Plusieurs Jours
+
+> **Situation:** Omar a fait le Wuquf à Arafat et les rites de Mina, mais à cause de la foule extrême, il n'a pu faire le Tawaf al-Ifadah que le 15 Dhul-Hijja. Pendant ce temps, il est resté en état de "désacralisation partielle" (tahallul awwal).
+
+**❓ Son Tawaf est-il valide ? Y a-t-il une pénalité ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| Délai permis | Jusqu'à la fin de Dhul-Hijja sans pénalité |
+| État de désacralisation | Partielle — relations conjugales interdites |
+| Après Dhul-Hijja | Dam obligatoire |
+
+> 💡 **Règle:** Le Tawaf al-Ifadah le 15 Dhul-Hijja est **valide sans pénalité**. Cependant, les relations conjugales restaient interdites jusqu'au Tawaf. Si retardé après la fin de Dhul-Hijja, un Dam devient obligatoire selon les Malikites.
+
+</details>
+
+---
+
+### 📍 Cas 4: Perdu à Mina et Manqué Arafat
+
+> **Situation:** Youssef, un pèlerin âgé, s'est perdu dans la foule à Mina le 9 Dhul-Hijja. Désorienté, il n'a pas trouvé son groupe et n'a jamais atteint Arafat avant l'aube du 10.
+
+**❓ Quel est le recours pour lui ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| Wuquf manqué | ❌ Pilier non accompli |
+| Conséquence | Hajj invalide |
+| Recours | Se désacraliser par 'Umra |
+
+> 💡 **Règle:** Le Wuquf à Arafat est le pilier suprême. S'il est manqué, le Hajj est **invalide**. Il doit se désacraliser en accomplissant une **'Umra** (Tawaf + Sa'i + Taqsir), puis revenir l'année suivante pour refaire le Hajj.
+
+</details>
+
+---
+
+### 🏃 Cas 5: Femme Ayant ses Règles — Report du Tawaf al-Ifadah
+
+> **Situation:** Fatima a ses règles le jour du 10 Dhul-Hijja et les jours suivants. Elle ne peut pas faire le Tawaf al-Ifadah avant son vol de retour prévu le 14 Dhul-Hijja.
+
+**❓ Que doit-elle faire ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**📖 Analyse:**
+
+| Critère | Application |
+|---------|-------------|
+| Tawaf avec menstrues | ❌ Interdit chez les Malikites (pilier condition) |
+| Option 1 | Retarder le départ si possible |
+| Option 2 | Rester jusqu'à purification |
+| Urgence extrême | Consultation d'un savant sur place |
+
+> 💡 **Règle:** Le Tawaf al-Ifadah est un **pilier** qui nécessite la pureté rituelle selon les Malikites. Elle **doit attendre** sa purification pour accomplir ce Tawaf. Si impossible, elle doit consulter un savant pour les options possibles (certains Hanafis permettent avec Dam dans l'urgence extrême).
+
+</details>
+
+---
+
+## 💭 Réflexion
+
+> *« Les piliers du Hajj sont comme les fondations d'une maison : sans eux, rien ne tient. Ils représentent l'essence même de cette adoration, le minimum sans lequel le voyage vers Allah n'est pas accompli. »*
+
+— Sagesse des savants du Hajj
+
+---
+
 ## ❓ Questions Fréquentes (FAQ)
 
 ### Q1 : Que faire si je manque le Wuquf à Arafat ?

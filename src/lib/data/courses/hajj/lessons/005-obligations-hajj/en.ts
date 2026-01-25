@@ -186,6 +186,131 @@ The pilgrim who omits an obligation must:
 
 ---
 
+## 🎯 Contemporary Cases
+
+### 🌅 Case 1: Departure from Muzdalifa Before Fajr for Health Reasons
+
+> **Situation:** Maryam, 68, suffers from heart problems. Her doctor advised her to avoid large crowds. Her group decides to leave Muzdalifa around 2 AM to avoid the rush.
+
+**❓ Is her early departure permitted?**
+
+<details>
+<summary>📜 View the Ruling</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Required Mabit | Minimum presence required |
+| Health excuse | Valid reason for early departure |
+| Maliki position | A simple stop suffices (نزول) |
+
+> 💡 **Key Rule:** According to Malikis, Mabit at Muzdalifa requires a **stop** even if brief. If she stopped even for a moment, the obligation is fulfilled. Early departure for health reasons is permitted without Dam.
+
+</details>
+
+---
+
+### 🏠 Case 2: Night at Mina in Tent Outside Official Boundaries
+
+> **Situation:** Hassan's group was housed in a tent located just outside the official boundaries of Mina due to lack of space. They spent the nights of the 11th, 12th, and 13th of Dhul-Hijja in this tent.
+
+**❓ Does the Mabit count as valid?**
+
+<details>
+<summary>📜 View the Ruling</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Boundaries of Mina | Must be respected |
+| Adjacent area | Tolerated in case of necessity |
+| Contemporary fatwa | Overflow permitted by necessity |
+
+> 💡 **Key Rule:** Contemporary scholars have permitted staying in **adjacent areas** when Mina is full. If the camp was assigned by Hajj authorities and there was no alternative, the Mabit is valid without Dam.
+
+</details>
+
+---
+
+### 🪨 Case 3: Missed Stoning One Day — Making Up the Next Day
+
+> **Situation:** Bilal was very sick on the 11th of Dhul-Hijja and couldn't stone the three Jamarat. On the 12th, he feels better and wants to make up.
+
+**❓ Can he make up the stoning of the 11th on the 12th?**
+
+<details>
+<summary>📜 View the Ruling</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Order of days | Must be respected |
+| Making up | Possible the following day |
+| Method | First those of the 11th, then those of the 12th |
+
+> 💡 **Key Rule:** He can make up the stoning of the 11th on the 12th, **before** doing that of the 12th. The order must be respected: the three Jamarat of the 11th, then the three Jamarat of the 12th. If making up is impossible, a Dam is due.
+
+</details>
+
+---
+
+### ✂️ Case 4: Shaving Head Done Before Stoning (Reversed Order)
+
+> **Situation:** Ahmed, in the confusion of Eid day, had his head shaved before stoning Jamarat al-'Aqaba. He only realized his error afterward.
+
+**❓ Is there a consequence for this reversed order?**
+
+<details>
+<summary>📜 View the Ruling</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Sunnah order on day 10 | Stoning → Sacrifice → Shaving → Tawaf |
+| Maliki position | Order is recommended, not obligatory |
+| Reversal | No Dam, but contrary to Sunnah |
+
+> 💡 **Key Rule:** According to Malikis, the order of acts on the 10th is **recommended** (mustahabb) but not obligatory. The reversal does **not require Dam**. The Hajj remains valid, but he missed the optimal order.
+
+</details>
+
+---
+
+### 🚶 Case 5: Leaving Makkah Without Farewell Tawaf — Medical Emergency
+
+> **Situation:** Fatou learns that her father is seriously ill in her country. She must take an emergency flight and doesn't have time for Tawaf al-Wadaa before leaving.
+
+**❓ Does she owe a Dam for omitting the Farewell Tawaf?**
+
+<details>
+<summary>📜 View the Ruling</summary>
+
+**📖 Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Tawaf al-Wadaa | Obligation (Wajib) |
+| Valid excuse | Family medical emergency |
+| Basic rule | Omission = Dam |
+
+> 💡 **Key Rule:** The Farewell Tawaf is an **obligation**. Its omission without excuse requires a Dam. However, scholars differ on medical emergencies. The cautious position is to offer a Dam as a precaution, but some scholars excuse genuine emergencies. She should consult a scholar and, if possible, send someone to sacrifice on her behalf in Makkah.
+
+</details>
+
+---
+
+## 💭 Reflection
+
+> *"The obligations of Hajj are the ornaments of the journey. Without them, Hajj is like a body without beauty. Their omission is repairable, but their performance is the path of excellence."*
+
+— Wisdom of Hajj scholars
+
+---
+
 ## ❓ Frequently Asked Questions (FAQ)
 
 **Q1: What if I omitted an obligation out of ignorance?**
