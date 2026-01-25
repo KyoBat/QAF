@@ -194,6 +194,134 @@ L'**abstention** des choses qui rompent le jeûne depuis l'aube jusqu'au coucher
 
 ---
 
+## 🎯 Cas Contemporains
+
+### 🌙 Cas 1 : Oubli de l'intention avant le Fajr
+
+> **Situation :** Amina se réveille à 8h du matin et réalise qu'elle a complètement oublié de faire l'intention de jeûner avant le Fajr. Elle n'a rien mangé depuis la veille.
+
+**❓ Son jeûne de ce jour est-il valide ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Analyse :**
+
+| Critère | Application |
+|---------|-------------|
+| Intention requise | Obligatoire avant le Fajr pour Ramadan |
+| Absence d'intention | Le jeûne obligatoire n'est pas valide |
+| Action à prendre | S'abstenir par respect, mais rattraper ce jour |
+| Exception Malikite | Une intention en début de Ramadan suffit pour tout le mois |
+
+> 💡 **Règle :** Chez les Malikites, si Amina a fait une intention au début de Ramadan, elle couvre tout le mois. Sinon, elle s'abstient ce jour par respect mais doit le rattraper après Ramadan.
+
+</details>
+
+---
+
+### ⏰ Cas 2 : Manger au Suhur après le Fajr (erreur d'horloge)
+
+> **Situation :** Omar consulte son téléphone qui affiche 4h30 et mange tranquillement son Suhur. Quelques minutes après, il découvre que son téléphone était décalé de 20 minutes — le Fajr était en réalité à 4h25.
+
+**❓ Son jeûne de ce jour est-il valide ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Analyse :**
+
+| Critère | Application |
+|---------|-------------|
+| Manger après le Fajr | Rompt normalement le jeûne |
+| Ignorance/Erreur | Divergence des savants |
+| Avis Malikite | L'erreur sincère peut être excusée |
+| Position prudente | Rattraper ce jour par précaution |
+
+> 💡 **Règle :** La position prépondérante chez les Malikites est qu'Omar doit rattraper ce jour par précaution, car il a mangé après le début du temps interdit. Cependant, il n'y a pas de péché car l'erreur était sincère.
+
+</details>
+
+---
+
+### 📱 Cas 3 : Rupture avant l'heure (erreur d'application GPS)
+
+> **Situation :** Khadija utilise une application de prière avec GPS. L'application affiche le Maghrib à 18h42. Elle rompt son jeûne, mais découvre ensuite que le soleil ne s'est couché qu'à 18h48 — l'application avait un bug.
+
+**❓ Que doit-elle faire ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Analyse :**
+
+| Critère | Application |
+|---------|-------------|
+| Rupture avant le Maghrib | Annule le jeûne |
+| Erreur technique | Elle pensait sincèrement que c'était l'heure |
+| Conséquence | Rattrapage obligatoire (Qada) |
+| Kaffara | Pas de Kaffara car pas d'intention de violer |
+
+> 💡 **Règle :** Khadija doit rattraper ce jour. Même si l'erreur était involontaire, elle a rompu avant l'heure réelle. Conseil : toujours vérifier avec une deuxième source et attendre quelques minutes de marge.
+
+</details>
+
+---
+
+### 🔄 Cas 4 : Changer l'intention du Nafl vers le Fard
+
+> **Situation :** Youssef commence sa journée avec l'intention de jeûner un jour de rattrapage (Qada). À midi, il apprend qu'on est le jour de 'Arafat et veut changer son intention pour le jeûne surérogatoire de 'Arafat.
+
+**❓ Peut-il changer son intention en cours de journée ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Analyse :**
+
+| Critère | Application |
+|---------|-------------|
+| Intention initiale | Qada (obligatoire) |
+| Changement vers Nafl | Non autorisé (on ne dégrade pas) |
+| Cas inverse | Du Nafl vers le Fard est possible avant Zawâl |
+| Ce jour | Compléter comme Qada, puis jeûner 'Arafat séparément |
+
+> 💡 **Règle :** On ne peut pas « rétrograder » d'un jeûne obligatoire vers un surérogatoire. Youssef complète son Qada et, s'il veut, il jeûne un autre jour pour 'Arafat l'année prochaine ou ajoute l'intention que ce Qada coïncide avec un jour béni.
+
+</details>
+
+---
+
+### 😴 Cas 5 : Dormir toute la journée de jeûne
+
+> **Situation :** Tariq, épuisé par son travail de nuit, dort du Fajr jusqu'au Maghrib sans se réveiller une seule fois. Il n'a rien mangé ni bu.
+
+**❓ Son jeûne est-il valide puisqu'il était inconscient tout le temps ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Analyse :**
+
+| Critère | Application |
+|---------|-------------|
+| Intention préalable | S'il l'a faite avant de dormir, elle compte |
+| Sommeil | N'annule pas le jeûne |
+| Abstention | Réalisée (rien mangé ni bu) |
+| Validité | Le jeûne est valide |
+
+> 💡 **Règle :** Le sommeil n'annule pas le jeûne. Si Tariq a fait l'intention de jeûner avant de s'endormir (même au début de Ramadan pour les Malikites), son jeûne est valide. Cependant, il rate la dimension spirituelle et les adorations du jour.
+
+</details>
+
+---
+
+## 💭 Réflexion
+
+> *« Les piliers et conditions de validité du jeûne sont des garde-fous qui protègent notre adoration. L'intention lie notre cœur à Allah, l'abstention discipline notre corps, et le respect du temps nous ancre dans l'obéissance. Même nos erreurs sincères sont couvertes par la miséricorde divine. »*
+
+---
+
 ## 🎯 Action Concrète du Jour
 
 | Phase | Actions |

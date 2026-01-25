@@ -209,6 +209,134 @@ From the appearance of true dawn until sunset.
 
 ---
 
+## 🎯 Contemporary Cases
+
+### 🌙 Case 1: Forgetting Intention Before Fajr
+
+> **Situation:** Amina wakes up at 8 AM and realizes she completely forgot to make the intention to fast before Fajr. She hasn't eaten anything since last night.
+
+**❓ Is her fast valid for that day?**
+
+<details>
+<summary>📜 View Answer</summary>
+
+**Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Required intention | Obligatory before Fajr for Ramadan |
+| Absence of intention | Obligatory fast is not valid |
+| Action to take | Abstain out of respect, but make up this day |
+| Maliki exception | One intention at start of Ramadan suffices for the month |
+
+> 💡 **Rule:** According to Malikis, if Amina made an intention at the beginning of Ramadan, it covers the whole month. Otherwise, she abstains that day out of respect but must make it up after Ramadan.
+
+</details>
+
+---
+
+### ⏰ Case 2: Eating Suhur After Fajr (Clock Error)
+
+> **Situation:** Omar checks his phone showing 4:30 AM and eats his Suhur calmly. Minutes later, he discovers his phone was 20 minutes behind—Fajr was actually at 4:25 AM.
+
+**❓ Is his fast valid for that day?**
+
+<details>
+<summary>📜 View Answer</summary>
+
+**Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Eating after Fajr | Normally invalidates the fast |
+| Ignorance/Mistake | Scholars differ |
+| Maliki view | Sincere mistake may be excused |
+| Cautious position | Make up this day as precaution |
+
+> 💡 **Rule:** The preponderant Maliki position is that Omar should make up this day as a precaution, since he ate after the prohibited time began. However, there is no sin because the mistake was sincere.
+
+</details>
+
+---
+
+### 📱 Case 3: Breaking Fast Early (GPS App Error)
+
+> **Situation:** Khadija uses a prayer app with GPS. The app shows Maghrib at 6:42 PM. She breaks her fast, but later discovers the sun only set at 6:48 PM—the app had a bug.
+
+**❓ What should she do?**
+
+<details>
+<summary>📜 View Answer</summary>
+
+**Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Breaking before Maghrib | Invalidates the fast |
+| Technical error | She sincerely thought it was time |
+| Consequence | Makeup obligatory (Qada) |
+| Kaffara | No Kaffara as no intention to violate |
+
+> 💡 **Rule:** Khadija must make up this day. Even though the mistake was unintentional, she broke fast before the actual time. Advice: Always verify with a second source and wait a few extra minutes as buffer.
+
+</details>
+
+---
+
+### 🔄 Case 4: Changing Intention from Nafl to Fard
+
+> **Situation:** Yusuf begins his day with the intention to fast a makeup day (Qada). At noon, he learns it's the Day of 'Arafat and wants to change his intention to the voluntary fast of 'Arafat.
+
+**❓ Can he change his intention during the day?**
+
+<details>
+<summary>📜 View Answer</summary>
+
+**Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Initial intention | Qada (obligatory) |
+| Changing to Nafl | Not permitted (cannot downgrade) |
+| Reverse case | From Nafl to Fard possible before Dhuhr |
+| This day | Complete as Qada, then fast 'Arafat separately |
+
+> 💡 **Rule:** One cannot "downgrade" from an obligatory fast to a voluntary one. Yusuf should complete his Qada and, if he wishes, fast another day for 'Arafat next year or add the intention that his Qada coincides with a blessed day.
+
+</details>
+
+---
+
+### 😴 Case 5: Sleeping Through Entire Fasting Day
+
+> **Situation:** Tariq, exhausted from night work, sleeps from Fajr until Maghrib without waking once. He didn't eat or drink anything.
+
+**❓ Is his fast valid since he was unconscious the whole time?**
+
+<details>
+<summary>📜 View Answer</summary>
+
+**Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Prior intention | If made before sleeping, it counts |
+| Sleep | Does not invalidate the fast |
+| Abstention | Achieved (nothing eaten or drunk) |
+| Validity | The fast is valid |
+
+> 💡 **Rule:** Sleep does not invalidate fasting. If Tariq made the intention to fast before falling asleep (or at the beginning of Ramadan for Malikis), his fast is valid. However, he misses the spiritual dimension and daily acts of worship.
+
+</details>
+
+---
+
+## 💭 Reflection
+
+> *"The pillars and conditions of validity for fasting are safeguards that protect our worship. Intention links our heart to Allah, abstention disciplines our body, and respecting the time anchors us in obedience. Even our sincere mistakes are covered by divine mercy."*
+
+---
+
 ## 🎯 Practical Action Plan
 
 | Phase | Steps |

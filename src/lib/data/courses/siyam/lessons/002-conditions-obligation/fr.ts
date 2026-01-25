@@ -206,6 +206,134 @@ Le voyageur a le choix entre jeûner ou rompre :
 
 ---
 
+## 🎯 Cas Contemporains
+
+### 👦 Cas 1 : L'adolescent atteignant la puberté pendant Ramadan
+
+> **Situation :** Bilal, 13 ans, remarque des signes de puberté (apparition de poils, premier rêve érotique) le 10ème jour de Ramadan. Avant cela, il jeûnait « pour s'entraîner ».
+
+**❓ Doit-il rattraper les 9 premiers jours ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Analyse :**
+
+| Critère | Application |
+|---------|-------------|
+| Avant la puberté | Jeûne non obligatoire (Nafl) |
+| Dès la puberté | Devient obligatoire immédiatement |
+| Jours précédents | Pas de rattrapage requis |
+| Ce jour | Compléter le jeûne obligatoirement |
+
+> 💡 **Règle :** Bilal n'a pas à rattraper les 9 premiers jours car il n'était pas encore mukallaf (responsable légalement). Dès qu'il atteint la puberté, le jeûne devient obligatoire à partir de ce moment précis.
+
+</details>
+
+---
+
+### 🕌 Cas 2 : La conversion en plein Ramadan
+
+> **Situation :** Sophie se convertit à l'Islam le 15 Ramadan à 14h. Elle n'a pas jeûné ce jour ni les jours précédents.
+
+**❓ Que doit-elle faire pour ce jour et les jours passés ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Analyse :**
+
+| Critère | Application |
+|---------|-------------|
+| Jours avant conversion | Aucun rattrapage (الإِسْلاَمُ يَجُبُّ مَا كَانَ قَبْلَهُ) |
+| Le jour de la conversion | Elle s'abstient par respect, mais pas de rattrapage |
+| Jours suivants | Jeûne obligatoire |
+| Conseil | Commencer à apprendre les règles progressivement |
+
+> 💡 **Règle :** Selon le hadith « L'Islam efface ce qui l'a précédé », Sophie ne rattrape rien des 15 jours. Elle s'abstient le reste de ce jour par respect et commence son jeûne obligatoire dès le lendemain.
+
+</details>
+
+---
+
+### ✈️ Cas 3 : Le voyageur traversant les fuseaux horaires
+
+> **Situation :** Karim voyage de Paris à New York le 1er jour de Ramadan. Il décolle à 10h (heure de Paris) et atterrit à 14h (heure locale de New York). La journée semble rallongée.
+
+**❓ Comment calcule-t-il son jeûne ce jour-là ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Analyse :**
+
+| Critère | Application |
+|---------|-------------|
+| Début du jeûne | Fajr de Paris (lieu de départ) |
+| Pendant le vol | Continuer le jeûne selon le soleil visible |
+| Fin du jeûne | Maghrib de New York (lieu d'arrivée) |
+| Durée totale | Peut être plus longue que d'habitude |
+
+> 💡 **Règle :** Karim suit le soleil réel. S'il vole vers l'ouest, sa journée sera plus longue. Il rompt quand le soleil se couche là où il se trouve (à l'atterrissage ou pendant le vol s'il voit le coucher).
+
+</details>
+
+---
+
+### 🧠 Cas 4 : La personne souffrant de troubles mentaux
+
+> **Situation :** Yasmine souffre de dépression sévère et prend des médicaments qui affectent sa lucidité. Certains jours, elle n'a pas conscience de ses actes.
+
+**❓ Comment gère-t-elle le jeûne de Ramadan ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Analyse :**
+
+| Critère | Application |
+|---------|-------------|
+| Jours de lucidité | Jeûne obligatoire normalement |
+| Jours d'inconscience | Pas d'obligation ce jour |
+| Médicaments nécessaires | Peut prendre et rattraper si nécessaire |
+| Consultation | Demander l'avis d'un médecin et d'un savant |
+
+> 💡 **Règle :** Le hadith dit : « La plume est levée pour trois : le dormeur, l'enfant et le fou. » Yasmine n'est responsable que des jours où elle a pleine conscience. Elle consulte un médecin musulman pour évaluer sa capacité.
+
+</details>
+
+---
+
+### 👴 Cas 5 : La personne âgée incertaine de ses capacités
+
+> **Situation :** Grand-père Hassan, 82 ans, a des difficultés à jeûner mais refuse de « manquer » Ramadan. Il insiste pour jeûner malgré la fatigue extrême.
+
+**❓ Doit-il absolument jeûner ou a-t-il une alternative ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Analyse :**
+
+| Critère | Application |
+|---------|-------------|
+| Capacité | S'il peut jeûner sans danger, c'est obligatoire |
+| Incapacité temporaire | Dispense + rattrapage plus tard |
+| Incapacité permanente | Dispense + fidya (nourrir un pauvre/jour) |
+| Montant fidya | ~750g de nourriture de base par jour |
+
+> 💡 **Règle :** Si le médecin confirme que le jeûne est dangereux pour Hassan, il est dispensé et verse la fidya : nourrir un pauvre (environ 5-7€) pour chaque jour manqué. C'est une miséricorde d'Allah, pas une faiblesse.
+
+</details>
+
+---
+
+## 💭 Réflexion
+
+> *« Les conditions d'obligation du jeûne montrent la sagesse et la miséricorde de la Sharia. Allah n'impose que ce que l'on peut supporter. Le nouveau musulman commence sa nouvelle vie purifié, l'enfant apprend progressivement, et le vieillard trouve une alternative honorable. »*
+
+---
+
 ## 🎯 Action Concrète du Jour
 
 | Phase | Actions |

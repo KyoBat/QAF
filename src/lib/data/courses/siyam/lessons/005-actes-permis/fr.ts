@@ -229,6 +229,132 @@ export const content = `# 📜 مَا يُبَاحُ لِلصَّائِمِ — 
 
 ---
 
+## 🎯 Cas Contemporains
+
+### 🏊 Cas 1 : Aller à la piscine pendant Ramadan
+
+> **Situation :** Il fait très chaud et Karim veut emmener ses enfants à la piscine pour se rafraîchir. Il craint que nager annule son jeûne.
+
+**❓ Peut-il aller à la piscine en jeûnant ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Analyse :**
+
+| Critère | Application |
+|---------|-------------|
+| Se baigner | ✅ Permis pour le jeûneur |
+| Eau sur la peau | N'annule pas le jeûne |
+| Précaution | Éviter d'avaler de l'eau |
+| Conseil | Fermer la bouche et le nez en plongeant |
+
+> 💡 **Règle :** Nager est permis pendant le jeûne. Le Prophète ﷺ se versait de l'eau sur la tête à cause de la chaleur pendant qu'il jeûnait. La seule précaution est d'éviter d'avaler de l'eau intentionnellement.
+
+</details>
+
+---
+
+### 🦷 Cas 2 : Se brosser les dents avec du dentifrice
+
+> **Situation :** Aïcha se sent gênée par sa mauvaise haleine pendant la journée. Elle veut se brosser les dents avec du dentifrice mais craint d'annuler son jeûne.
+
+**❓ Peut-elle utiliser du dentifrice pendant le jeûne ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Analyse :**
+
+| Critère | Application |
+|---------|-------------|
+| Dentifrice | ✅ Permis si rien n'est avalé |
+| Haleine du jeûneur | Plus chère à Allah que le musc |
+| Alternative | Le siwak est une Sunna |
+| Conseil | Se brosser avant le Fajr ou utiliser le siwak |
+
+> 💡 **Règle :** Le dentifrice est permis à condition de ne rien avaler. Cependant, le Prophète ﷺ a dit que l'haleine du jeûneur est plus agréable à Allah que le parfum du musc. Le siwak reste la meilleure option pendant la journée.
+
+</details>
+
+---
+
+### 👁️ Cas 3 : Gouttes pour les yeux ou les oreilles
+
+> **Situation :** Mounir a une infection oculaire et doit mettre des gouttes plusieurs fois par jour. Il sent parfois un goût amer dans la gorge après.
+
+**❓ Les gouttes annulent-elles le jeûne ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Analyse :**
+
+| Type | Statut | Raison |
+|------|--------|--------|
+| Gouttes oculaires | ✅ N'annulent pas | L'œil n'est pas une voie digestive |
+| Gouttes auriculaires | ✅ N'annulent pas | L'oreille n'est pas une voie digestive |
+| Goût dans la gorge | N'invalide pas | Effet secondaire, pas d'ingestion |
+
+> 💡 **Règle :** Selon la majorité des savants, y compris les Malikites, les gouttes pour les yeux et les oreilles n'annulent pas le jeûne car ce ne sont pas des voies normales vers l'estomac. Même si un goût est ressenti, cela n'invalide pas.
+
+</details>
+
+---
+
+### 🍲 Cas 4 : Goûter la nourriture en cuisinant
+
+> **Situation :** Khadija prépare le ftour pour sa famille. Elle doit vérifier si le sel est suffisant dans la soupe, mais elle jeûne.
+
+**❓ Peut-elle goûter la nourriture sans annuler son jeûne ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Analyse :**
+
+| Critère | Application |
+|---------|-------------|
+| Besoin légitime | ✅ Vérifier l'assaisonnement |
+| Méthode | Mettre sur le bout de la langue |
+| Condition | Ne rien avaler, recracher |
+| Sans besoin | Makruh de goûter par plaisir |
+
+> 💡 **Règle :** Les savants Malikites permettent de goûter la nourriture pour vérifier l'assaisonnement à condition de ne rien avaler et de tout recracher. Il est conseillé de se rincer la bouche après. Sans besoin, goûter devient makruh.
+
+</details>
+
+---
+
+### 🩸 Cas 5 : Hijama (cupping) ou don de sang
+
+> **Situation :** Abdellah veut faire une hijama (ventouses) car il se sent lourd. Son ami lui dit que c'est interdit pendant le jeûne. Un autre jour, Salma veut donner son sang à l'hôpital.
+
+**❓ La hijama et le don de sang annulent-ils le jeûne ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Analyse :**
+
+| Acte | Statut Malikite | Statut Hanbalite |
+|------|-----------------|------------------|
+| Hijama | ✅ N'annule pas (makruh) | ❌ Annule |
+| Don de sang | ✅ N'annule pas | ⚠️ Divergence |
+| Précaution | Reporter après le Maghrib si possible |
+
+> 💡 **Règle :** Chez les Malikites et la majorité, la hijama n'annule pas le jeûne mais est makruh (déconseillée) car elle affaiblit. Le don de sang suit le même raisonnement. Par précaution et pour préserver ses forces, il est préférable de faire ces actes après le Maghrib.
+
+</details>
+
+---
+
+## 💭 Réflexion
+
+> *« Allah veut pour nous la facilité. Les actes permis pendant le jeûne montrent que l'Islam est une religion d'équilibre. On peut prendre soin de sa santé, de son hygiène, et de ses responsabilités tout en préservant son jeûne. La piété ne signifie pas la privation excessive. »*
+
+---
+
 ## 🎯 Action Concrète du Jour
 
 | Phase | Actions |

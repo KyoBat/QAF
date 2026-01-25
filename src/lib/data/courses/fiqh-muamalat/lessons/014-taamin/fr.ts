@@ -1,392 +1,819 @@
 export const contentFr = `# L'Assurance Islamique — L'Alternative Licite à l'Assurance Commerciale
 
-## Introduction à l'Assurance
+<div class="scene-box">
+
+**🎬 Scène : Un cercle de science — Question d'un jeune sur l'assurance**
+
+*Dans un cercle d'étude après la prière d'Asr, un jeune interroge le cheikh...*
+
+**Le jeune :** Ô Cheikh, l'entreprise où je travaille m'oblige à prendre une assurance, l'État m'oblige à assurer ma voiture, et la banque exige une assurance pour le prêt... Comment dois-je gérer tout cela ?!
+
+**Le Cheikh :** *(souriant)*
+C'est l'une des questions les plus importantes de notre époque. L'assurance s'est répandue comme une traînée de poudre, mais la Charia a une position claire à ce sujet.
+
+**Le jeune :** Quelle est cette position ?
+
+**Le Cheikh :** Écoute, mon fils... **L'assurance commerciale est interdite (haram), et l'assurance coopérative (Takaful) est licite (halal)**. Et il y a des différences fondamentales entre les deux.
+
+*Apprenons ensemble ces différences, et comment distinguer le licite de l'illicite dans le monde de l'assurance.*
+
+</div>
+
+---
+
+## Première Partie : Comprendre l'Assurance
 
 ### Définition de l'Assurance
 
-**Étymologie :**
-Ta'min : de la sécurité (amn), qui est la protection contre la peur.
+<div class="quote-box">
 
-**Terminologie :**
-> Un contrat par lequel l'assureur (compagnie d'assurance) s'engage à verser à l'assuré ou au bénéficiaire une somme d'argent lors de la réalisation du risque assuré, en échange de primes payées par l'assuré.
+**📜 Définition Juridique**
+
+**Étymologiquement :**
+At-Ta'min (assurance) : vient de **al-amn** (sécurité), qui signifie la protection contre la peur et le dommage.
+
+**Techniquement :**
+> **Un contrat par lequel l'assureur (compagnie d'assurance) s'engage à verser à l'assuré une somme d'argent lors de la réalisation du risque assuré, en échange de primes payées par l'assuré.**
+>
+> C'est-à-dire : Je te paie de l'argent maintenant ← pour que tu me paies plus tard si un certain risque survient.
+
+</div>
+
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│                 Mécanisme du Contrat d'Assurance            │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│      L'assuré (client)              Compagnie d'assurance   │
+│           │                                │                │
+│           │────── 💰 Primes mensuelles ──►│                │
+│           │                                │                │
+│           │◄───── ❓ Indemnité (si risque) ─│                │
+│                                                             │
+│    ════════════════════════════════════════════════════     │
+│    📍 Si le risque survient ◄── La compagnie indemnise      │
+│    📍 S'il ne survient pas ◄── La compagnie garde les primes│
+│    ════════════════════════════════════════════════════     │
+│           ❓ Qui gagne ? Qui perd ? C'est là le problème !  │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
 
 ---
 
 ### Types d'Assurance Commerciale
 
-**1. Assurance-vie :**
-- L'assuré paie des primes
-- Au décès ou à l'échéance, des sommes sont versées aux bénéficiaires
-
-**2. Assurance des biens :**
-- Contre l'incendie
-- Contre le vol
-- Contre les catastrophes naturelles
-
-**3. Assurance accidents :**
-- Assurance automobile
-- Assurance voyage
-- Assurance accidents personnels
-
-**4. Assurance maladie :**
-- Couverture des frais de traitement
-- Couverture des médicaments et opérations
-
----
-
-## Le Jugement de l'Assurance Commerciale
-
-### Le Jugement Légal
-> L'assurance commerciale dans sa forme courante est **interdite** selon la majorité des savants contemporains.
-
-**Décisions des académies de fiqh :**
-- Académie Internationale du Fiqh Islamique
-- Conseil des Grands Savants d'Arabie Saoudite
-- Académie du Fiqh Islamique de la Ligue Islamique Mondiale
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│                Types d'Assurance Commerciale                │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   🏥 1. Assurance Maladie                                   │
+│       ═══════════════════                                   │
+│       Couverture des frais de soins, médicaments, opérations│
+│                                                             │
+│   👤 2. Assurance Vie                                       │
+│       ═════════════════                                     │
+│       Primes versées ◄── Montant payé aux héritiers au décès│
+│                                                             │
+│   🚗 3. Assurance Automobile                                │
+│       ══════════════════════                                │
+│       Contre les accidents, le vol et les dommages aux tiers│
+│                                                             │
+│   🏠 4. Assurance des Biens                                 │
+│       ════════════════════                                  │
+│       Contre l'incendie, le vol et les catastrophes         │
+│                                                             │
+│   ✈️ 5. Assurance Voyage                                    │
+│       ═══════════════════                                   │
+│       Contre l'annulation, les accidents et maladies        │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
 
 ---
 
-### Les Causes d'Interdiction de l'Assurance Commerciale
+## Deuxième Partie : Statut de l'Assurance Commerciale
 
-**Première Cause : L'Incertitude Excessive (Gharar)**
+<div class="scene-box">
 
-**Définition du Gharar :**
-> L'ignorance concernant l'objet vendu, le prix ou la conséquence.
+**🎬 Scène : Dans le bureau d'un agent d'assurance**
 
-**L'aspect d'incertitude dans l'assurance :**
-- L'assuré ne sait pas combien il paiera en primes
-- Il ne sait pas s'il recevra une indemnisation ou non
-- L'assureur ne sait pas combien il paiera en indemnisations
+*Un homme interroge l'agent d'assurance sur le contrat...*
 
-**La preuve :**
-> Le Messager d'Allah ﷺ a interdit la vente comportant l'incertitude. [Rapporté par Muslim]
+**Le client :** Je veux comprendre... Je vous paie 500 riyals par mois, qu'est-ce que j'obtiens en retour ?
+
+**L'agent :** Si vous avez un accident, nous vous indemnisons jusqu'à 100 000 riyals.
+
+**Le client :** Et si je n'ai pas d'accident de toute l'année ?
+
+**L'agent :** *(avec un sourire commercial)*
+Les primes que vous avez payées restent pour nous... C'est ça l'assurance !
+
+**Le client :** *(réfléchissant)*
+Donc je pourrais payer 6000 riyals dans l'année et ne rien recevoir ?!
+
+**L'agent :** Oui, et vous pourriez payer 6000 et recevoir 100 000 !
+
+*C'est ici qu'apparaît le jeu de hasard et l'aléa... L'un de nous gagne et l'autre perd assurément !*
+
+</div>
+
+### Statut Légal
+
+<div class="quote-box">
+
+**📜 Décisions des Académies de Fiqh**
+
+> **L'assurance commerciale sous sa forme courante est interdite par la Charia**
+
+Cette décision a été émise par :
+- **L'Académie Internationale de Fiqh Islamique** (Djeddah)
+- **Le Comité des Grands Savants** (Arabie Saoudite)
+- **L'Académie de Fiqh Islamique** (Ligue Islamique Mondiale)
+
+</div>
 
 ---
 
-**Deuxième Cause : L'Usure (Riba)**
+### Raisons de l'Interdiction de l'Assurance Commerciale
 
-**Types d'usure dans l'assurance :**
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│       Quatre raisons d'interdiction de l'assurance          │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   ❌ 1. L'aléa excessif (Gharar)                            │
+│   ❌ 2. L'usure (Riba)                                      │
+│   ❌ 3. Le jeu de hasard (Maysir)                           │
+│   ❌ 4. La consommation illicite des biens d'autrui         │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
 
-| Type | Aspect |
-|------|--------|
-| Usure de surplus | Si on paie peu de primes et reçoit une grande indemnisation |
-| Usure de délai | Report de la réception dans les échanges financiers |
+#### Première raison : L'aléa excessif (Gharar)
+
+<div class="quote-box">
+
+**📜 L'interdiction de l'aléa**
+
+> Le Messager d'Allah ﷺ a interdit **la vente aléatoire (bay' al-gharar)**
+>
+> [Rapporté par Muslim]
+
+**Qu'est-ce que le Gharar ?**
+L'incertitude concernant l'objet vendu, le prix ou l'issue.
+
+</div>
+
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│                   L'Aléa dans l'Assurance                   │
+├───────────────────────────────┬─────────────────────────────┤
+│           Du côté            │      Aspect de l'aléa        │
+├───────────────────────────────┼─────────────────────────────┤
+│ L'assuré                      │ Ne sait pas s'il recevra    │
+│                               │ une indemnité ou non        │
+├───────────────────────────────┼─────────────────────────────┤
+│ L'assuré                      │ Ne sait pas combien de      │
+│                               │ primes il paiera            │
+├───────────────────────────────┼─────────────────────────────┤
+│ La compagnie                  │ Ne sait pas combien elle    │
+│                               │ paiera en indemnités        │
+└───────────────────────────────┴─────────────────────────────┘
+\`\`\`
+
+#### Deuxième raison : L'usure (Riba)
+
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│                   L'Usure dans l'Assurance                  │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   Les primes = argent                                       │
+│   L'indemnité = argent                                      │
+│                                                             │
+│   ┌─────────────────────────────────────────────────────┐   │
+│   │    L'échange sans égalité = Riba al-Fadl            │   │
+│   │    L'échange avec délai = Riba an-Nassi'a           │   │
+│   └─────────────────────────────────────────────────────┘   │
+│                                                             │
+│   Exemple :                                                 │
+│   ═════════                                                 │
+│   J'ai payé des primes = 6 000 riyals                       │
+│   J'ai reçu une indemnité = 100 000 riyals                  │
+│   La différence = 94 000 riyals sans contrepartie licite !  │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
+
+#### Troisième raison : Le jeu de hasard (Maysir)
+
+<div class="quote-box">
+
+**📜 L'interdiction du jeu de hasard**
+
+> Allah dit : ﴾Ô vous qui croyez ! Le vin, le jeu de hasard, les pierres dressées et les flèches divinatoires sont une abomination, une œuvre du Diable. Évitez-les !﴿
+>
+> [Al-Ma'ida : 90]
+
+</div>
+
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│          Similitude entre l'Assurance et le Jeu             │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   ┌───────────────────┬───────────────────┐                 │
+│   │  Jeu de hasard    │    Assurance      │                 │
+│   ├───────────────────┼───────────────────┤                 │
+│   │ Je paie un montant│ Je paie des primes│                 │
+│   │ J'attends le      │ J'attends la      │                 │
+│   │ résultat          │ survenue du risque│                 │
+│   │ Soit je gagne,    │ Soit indemnité,   │                 │
+│   │ soit je perds     │ soit rien         │                 │
+│   │ Résultat aléatoire│ Résultat aléatoire│                 │
+│   └───────────────────┴───────────────────┘                 │
+│                                                             │
+│   📍 Dans les deux cas : l'un gagne, l'autre perd assurément│
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
+
+#### Quatrième raison : Consommation illicite des biens
+
+<div class="quote-box">
+
+**📜 L'interdiction de consommer les biens illicitement**
+
+> Allah dit : ﴾Ne consommez pas vos biens entre vous de manière illicite﴿
+>
+> [Al-Baqara : 188]
 
 **Explication :**
-- La prime est de l'argent
-- L'indemnisation est de l'argent
-- L'échange entre eux sans égalité ou réception = usure
-
----
-
-**Troisième Cause : Le Jeu de Hasard (Maysir)**
-
-**La ressemblance avec le jeu de hasard :**
-- L'assuré paie des primes
-- Il peut gagner (grande indemnisation) ou perdre (pas d'indemnisation)
-- Le résultat dépend d'un événement aléatoire
-
-**La preuve :**
-> Allah تعالى dit : ﴿Ô vous qui croyez, le vin, le jeu de hasard, les pierres dressées, les flèches de divination ne sont qu'une abomination, œuvre du Diable. Écartez-vous en﴾ [Al-Ma'idah : 90]
-
----
-
-**Quatrième Cause : Consommer les Biens des Gens Injustement**
-
-**Détail :**
 - La compagnie prend les primes
 - Elle peut ne rien payer si le risque ne se réalise pas
-- Les primes partent sans contrepartie
+- Les primes sont perdues sans vraie contrepartie
 
-**La preuve :**
-> Allah تعالى dit : ﴿Ne mangez pas vos biens entre vous injustement﴾ [Al-Baqarah : 188]
+</div>
 
 ---
 
-## L'Assurance Coopérative (Takaful)
+## Troisième Partie : L'Assurance Coopérative (Takaful)
 
-### Définition
-> Un accord entre un groupe de personnes pour coopérer dans la prise en charge des dommages qui pourraient affecter l'un d'eux, par le don de sommes d'argent collectées dans un fonds spécial.
+<div class="scene-box">
+
+**🎬 Scène : Une leçon de fiqh contemporain**
+
+**Le Cheikh :** Si l'assurance commerciale est interdite, quelle est l'alternative ?
+
+**L'étudiant :** Nous ne savons pas, ô Cheikh !
+
+**Le Cheikh :** L'alternative existe dans notre patrimoine islamique depuis 14 siècles !
+
+**L'étudiant :** *(étonné)* Comment ?!
+
+**Le Cheikh :** Le système de la **'Aqila** en Islam. Si un musulman en tue un autre par erreur, qui paie le prix du sang ?
+
+**L'étudiant :** Sa tribu et ses proches.
+
+**Le Cheikh :** **Exactement !** C'est de la solidarité et de l'entraide. Chacun paie une part pour couvrir le dommage de son frère. Personne n'attendait de profit !
+
+*C'est l'origine de l'assurance Takaful.*
+
+</div>
+
+### Définition de l'Assurance Coopérative
+
+<div class="quote-box">
+
+**📜 Définition**
+
+> **Un accord entre un groupe de personnes pour s'entraider dans la prise en charge des dommages qui pourraient toucher l'un d'entre eux, par le biais de dons d'argent collectés dans une caisse spéciale.**
+>
+> La différence fondamentale : **Les primes sont des dons, pas un échange commercial**
+
+</div>
 
 ### Différence entre Assurance Commerciale et Coopérative
 
-| Assurance Commerciale | Assurance Coopérative |
-|----------------------|----------------------|
-| Contrat d'échange | Contrat de don |
-| But lucratif | But coopératif |
-| Primes appartiennent à la compagnie | Primes appartiennent aux participants |
-| Surplus pour la compagnie | Surplus pour les participants |
-| Relation d'échange | Relation de solidarité |
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│       Comparaison : Commerciale vs Takaful                  │
+├───────────────────────────────┬─────────────────────────────┤
+│     Assurance Commerciale     │    Assurance Takaful        │
+├───────────────────────────────┼─────────────────────────────┤
+│ ❌ Contrat d'échange (profit) │ ✅ Contrat de don (entraide)│
+├───────────────────────────────┼─────────────────────────────┤
+│ ❌ But : profit pour la       │ ✅ But : solidarité et      │
+│    compagnie                  │    entraide                 │
+├───────────────────────────────┼─────────────────────────────┤
+│ ❌ Primes = propriété de la   │ ✅ Primes = propriété des   │
+│    compagnie                  │    participants             │
+├───────────────────────────────┼─────────────────────────────┤
+│ ❌ Surplus pour la compagnie  │ ✅ Surplus pour les         │
+│                               │    participants             │
+├───────────────────────────────┼─────────────────────────────┤
+│ ❌ Relation commerciale       │ ✅ Relation de solidarité   │
+├───────────────────────────────┼─────────────────────────────┤
+│ ❌ Aléa, usure, jeu           │ ✅ Don et entraide          │
+└───────────────────────────────┴─────────────────────────────┘
+\`\`\`
 
 ---
 
-### Légitimité de l'Assurance Coopérative
+### Licéité de l'Assurance Coopérative
 
-**Dans le Coran :**
-> Allah تعالى dit : ﴿Entraidez-vous dans le bien et la piété﴾ [Al-Ma'idah : 2]
+<div class="quote-box">
 
-**Dans la Sunna Prophétique :**
-> Le Prophète ﷺ a dit : "L'exemple des croyants dans leur amour mutuel, leur miséricorde et leur compassion est comme un seul corps ; si un membre souffre, tout le corps répond par l'insomnie et la fièvre." [Unanimement reconnu]
+**📜 Du Coran**
 
-> Et il ﷺ a dit : "Le croyant pour le croyant est comme une construction dont les parties se renforcent mutuellement." [Unanimement reconnu]
+> Allah dit : ﴾Entraidez-vous dans la bonté et la piété, et ne vous entraidez pas dans le péché et l'agression﴿
+>
+> [Al-Ma'ida : 2]
 
-**De la pratique des Compagnons :**
-Le système de la 'Aqilah en Islam : la tribu prend en charge le prix du sang pour l'homicide involontaire.
+</div>
+
+<div class="quote-box">
+
+**📜 De la Sunna Prophétique**
+
+> Le Prophète ﷺ a dit : **« L'exemple des croyants dans leur affection mutuelle, leur miséricorde et leur compassion est celui d'un seul corps : si un membre souffre, tout le corps réagit par l'insomnie et la fièvre. »**
+>
+> [Unanimement reconnu]
+
+> Et il ﷺ a dit : **« Le croyant pour le croyant est comme un édifice dont les parties se soutiennent mutuellement. »**
+>
+> [Unanimement reconnu]
+
+</div>
+
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│              Preuves de l'Assurance Takaful                 │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   📖 Du Coran :                                             │
+│   ═════════════                                             │
+│   ﴾Entraidez-vous dans la bonté et la piété﴿                │
+│                                                             │
+│   📖 De la Sunna :                                          │
+│   ════════════════                                          │
+│   • « Les croyants sont comme un seul corps »               │
+│   • « Le croyant pour le croyant comme un édifice »         │
+│                                                             │
+│   📖 De la pratique des Compagnons :                        │
+│   ═══════════════════════════════════                       │
+│   • Système de la 'Aqila (prise en charge du prix du sang)  │
+│   • Approbation du Prophète ﷺ pour ce système               │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
 
 ---
 
-### Les Piliers de l'Assurance Coopérative
+### Piliers de l'Assurance Coopérative
 
-**1. Les Participants :**
-- Ils sont à la fois donateurs et bénéficiaires
-- Ils paient les primes à titre de don
-
-**2. Le Fonds d'Assurance :**
-- Propriété des participants
-- Séparé des fonds de la société gestionnaire
-
-**3. La Société Gestionnaire :**
-- Gère le fonds par mandat ou mudarabah
-- Reçoit un salaire ou une part du profit
-
-**4. Les Primes (Cotisations) :**
-- Payées à titre de don
-- Investies de manière licite
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│              Piliers de l'Assurance Coopérative             │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   ┌─────────────┐   ┌─────────────┐   ┌─────────────┐       │
+│   │ Les         │   │  La Caisse  │   │ La Société  │       │
+│   │ Participants│   │             │   │ Gestionnaire│       │
+│   └──────┬──────┘   └──────┬──────┘   └──────┬──────┘       │
+│          │                 │                 │              │
+│          ▼                 ▼                 ▼              │
+│   ┌─────────────┐   ┌─────────────┐   ┌─────────────┐       │
+│   │ Donateurs   │   │ Appartient  │   │ Gère        │       │
+│   │ et          │   │ aux         │   │ seulement   │       │
+│   │ bénéficiaires│  │ participants│   │ par mandat  │       │
+│   └─────────────┘   └─────────────┘   └─────────────┘       │
+│                                                             │
+│             + Les cotisations (à titre de don)              │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
 
 ---
 
-### Conditions de Validité de l'Assurance Coopérative
+### Conditions de Validité du Takaful
 
-**Première Condition : Intention de Don**
-- L'adhésion doit être un don, non un échange
-- Le participant donne au fonds de solidarité
-
-**Deuxième Condition : Propriété du Fonds par les Participants**
-- Les primes et les profits appartiennent aux participants
-- La société n'est qu'un gestionnaire
-
-**Troisième Condition : Investissement des Fonds de Manière Licite**
-- Il est interdit d'investir dans l'usure
-- Il est interdit d'investir dans l'illicite
-
-**Quatrième Condition : Surplus aux Participants**
-- Ce qui reste après indemnisations et dépenses
-- Distribué aux participants ou reporté
-
-**Cinquième Condition : Existence d'un Comité de Charia**
-- Pour superviser les opérations
-- Pour s'assurer de leur conformité à la charia
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│           Conditions de Validité du Takaful                 │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   1️⃣ Intention de don                                      │
+│       ══════════════════                                    │
+│       La cotisation est un don, pas un échange              │
+│       Le participant fait don à la caisse Takaful           │
+│                                                             │
+│   2️⃣ Propriété de la caisse aux participants               │
+│       ════════════════════════════════════════              │
+│       Primes et bénéfices appartiennent aux participants    │
+│       La société n'est qu'un gestionnaire                   │
+│                                                             │
+│   3️⃣ Investissement des fonds de manière licite            │
+│       ════════════════════════════════════════              │
+│       ❌ Interdit d'investir dans l'usure                   │
+│       ❌ Interdit d'investir dans l'illicite                │
+│                                                             │
+│   4️⃣ Le surplus revient aux participants                   │
+│       ═══════════════════════════════════                   │
+│       Ce qui reste après indemnités et frais                │
+│       Est distribué ou reporté                              │
+│                                                             │
+│   5️⃣ Présence d'un comité de conformité charia             │
+│       ══════════════════════════════════════                │
+│       Pour superviser les opérations                        │
+│       Pour vérifier la conformité islamique                 │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
 
 ---
 
 ### Modèles d'Assurance Takaful
 
-**Premier Modèle : Le Mandat (Wakalah)**
-
-| Élément | Détail |
-|---------|--------|
-| Rôle de la société | Mandataire des participants |
-| Rémunération | Salaire fixe ou pourcentage des primes |
-| Surplus | Aux participants uniquement |
-
-**Deuxième Modèle : La Mudarabah**
-
-| Élément | Détail |
-|---------|--------|
-| Rôle de la société | Mudarib dans l'investissement des fonds |
-| Rémunération | Pourcentage des profits d'investissement |
-| Surplus d'assurance | Aux participants |
-
-**Troisième Modèle : Mixte (Wakalah et Mudarabah)**
-
-- La société est mandataire dans la gestion de l'assurance (avec salaire)
-- La société est mudarib dans l'investissement (avec part du profit)
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│                  Modèles d'Assurance Takaful                │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   📍 Modèle Wakala (Mandat)                                 │
+│   ══════════════════════════                                │
+│   • La société = mandataire des participants                │
+│   • Rémunération = forfait ou % des primes                  │
+│   • Surplus = uniquement pour les participants              │
+│                                                             │
+│   📍 Modèle Mudaraba (Partenariat)                          │
+│   ═════════════════════════════════                         │
+│   • La société = gestionnaire investisseur                  │
+│   • Rémunération = % des profits d'investissement           │
+│   • Surplus d'assurance = pour les participants             │
+│                                                             │
+│   📍 Modèle Mixte (Wakala + Mudaraba)                       │
+│   ═════════════════════════════════════                     │
+│   • Mandataire pour la gestion (rémunération fixe)          │
+│   • Mudarib pour l'investissement (% du profit)             │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
 
 ---
 
-## Applications Contemporaines
+## Quatrième Partie : Applications Contemporaines
 
 ### Assurance Maladie Takaful
 
-**La forme :**
-1. Les participants paient des cotisations mensuelles
-2. Les cotisations sont collectées dans un fonds commun
-3. Les frais de traitement sont couverts par le fonds
-4. Le surplus est distribué ou reporté
-
-**Les règles :**
-- Pas de couverture pour l'illicite (comme la chirurgie esthétique non nécessaire)
-- L'excès dans le traitement n'est pas permis
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│                 Assurance Maladie Takaful                   │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   📍 Fonctionnement :                                       │
+│   ═══════════════════                                       │
+│   1. Les participants versent des cotisations (don)         │
+│   2. Les cotisations sont rassemblées dans une caisse       │
+│   3. Les frais de soins sont couverts par la caisse         │
+│   4. Le surplus est distribué ou reporté                    │
+│                                                             │
+│   ⚠️ Conditions :                                           │
+│   ═══════════════                                           │
+│   ❌ Pas de couverture pour l'illicite (chirurgie esthétique)│
+│   ❌ Pas d'excès dans les soins                             │
+│   ✅ Investissement des fonds dans le licite                │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
 
 ### Assurance Automobile Takaful
 
-**La forme :**
-1. Les propriétaires de véhicules paient des cotisations
-2. Les dommages sont indemnisés par le fonds
-3. La société gère par mandat
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│                Assurance Automobile Takaful                 │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   📍 Fonctionnement :                                       │
+│   ═══════════════════                                       │
+│   1. Les propriétaires de véhicules cotisent (don)          │
+│   2. Les dommages sont indemnisés par la caisse commune     │
+│   3. La société gère par mandat                             │
+│   4. Le surplus va aux participants                         │
+│                                                             │
+│   ⚠️ Défis :                                                │
+│   ══════════                                                │
+│   • Assurance obligatoire dans certains pays                │
+│   • Solution : chercher une société Takaful agréée          │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
 
-**Les défis :**
-- L'assurance obligatoire dans certains pays
-- L'alternative : une assurance takaful agréée
+### Takaful Familial (Alternative à l'Assurance Vie)
 
-### Assurance-vie Takaful (Takaful Familial)
-
-**La forme :**
-1. Le participant paie deux parts :
-   - Part de don (pour le takaful)
-   - Part d'épargne (pour lui)
-2. Au décès : le montant takaful + l'épargne sont versés aux héritiers
-3. À la survie : il reçoit son épargne + ses profits
-
----
-
-## Fatwas Importantes
-
-### L'Assurance Obligatoire
-
-**Question :** Quel est le jugement de l'assurance obligatoire imposée par l'État ?
-
-**Réponse :**
-- S'il n'existe pas d'assurance takaful : permise par nécessité
-- Il faut se limiter au minimum
-- Il faut chercher l'alternative conforme
-
-### L'Indemnisation Excédentaire
-
-**Question :** Est-il permis de recevoir une indemnisation supérieure aux primes payées ?
-
-**Réponse :**
-- Dans l'assurance takaful : oui, car les primes sont un don
-- Ce n'est pas un échange qui exigerait l'égalité
-
-### Travailler dans les Compagnies d'Assurance
-
-**Question :** Quel est le jugement de travailler dans les compagnies d'assurance commerciale ?
-
-**Réponse :**
-- Non permis si le travail est au cœur des contrats interdits
-- Permis dans les travaux licites comme le nettoyage et la sécurité, avec réprobation
-
----
-
-## 🎯 Cas Contemporains : Quel est le Jugement ?
-
-### Cas 1 : L'assurance automobile obligatoire
-
-**Fatima** vit dans un pays qui impose l'assurance automobile. Peut-elle y souscrire ?
-
-**Réponse :**
-- ✅ **Permis par nécessité** — Ce sans quoi le devoir ne peut être accompli devient obligatoire
-- ⚠️ **Avec conditions** :
-  - Se limiter au minimum obligatoire
-  - Chercher des compagnies takaful si elles existent
-  - Ne pas étendre aux couvertures supplémentaires
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│        Takaful Familial (Alternative à l'Assurance Vie)     │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   📍 Fonctionnement :                                       │
+│   ═══════════════════                                       │
+│                                                             │
+│   Le participant paie deux parts :                          │
+│   ┌─────────────────────────────────────────────────────┐   │
+│   │ 1. Part don ◄── va à la caisse Takaful              │   │
+│   │ 2. Part épargne ◄── lui appartient et est investie  │   │
+│   └─────────────────────────────────────────────────────┘   │
+│                                                             │
+│   📍 En cas de décès :                                      │
+│   ════════════════════                                      │
+│   Les héritiers reçoivent : montant Takaful + épargne +     │
+│   bénéfices                                                 │
+│                                                             │
+│   📍 En cas de survie (fin du contrat) :                    │
+│   ══════════════════════════════════════                    │
+│   Le participant reçoit : son épargne + ses bénéfices       │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
 
 ---
 
-### Cas 2 : L'assurance maladie de l'employeur
+## 📖 Récits des Pieux Prédécesseurs
 
-**Ahmed** est employé dans une entreprise qui fournit une assurance maladie à tous les employés.
+<div class="scene-box">
 
-**Question :** Peut-il en bénéficier ?
+**🎬 Le Système de la 'Aqila — Origine du Takaful**
 
-**Réponse :**
-- ✅ **Permis** — Cela fait partie du salaire et des avantages
-- ✅ Le péché incombe à l'entreprise si c'est une assurance commerciale
-- 💡 **Préférable :** Demander une assurance takaful si possible
+*À l'époque prophétique, un homme des Ansar a tué quelqu'un par erreur...*
 
----
+**Le juge :** Quel est le statut de ce meurtre ?
 
-### Cas 3 : L'assurance-vie
+**Le Prophète ﷺ :** Meurtre involontaire, et le prix du sang incombe à **la 'Aqila**.
 
-**Mohamed** veut assurer l'avenir de ses enfants après sa mort, alors il a souscrit une assurance-vie.
+**Le narrateur :** Le prix du sang fut collecté de la tribu du meurtrier, chacun payant selon son degré de parenté.
 
-**Question :** Quel est le jugement ?
+**La leçon :**
+C'est la solidarité islamique :
+- Personne ne profite du malheur de son frère
+- Tous portent ensemble le fardeau
+- Pas d'aléa, pas d'usure, pas de jeu de hasard
 
-**Réponse :**
-- ❌ **L'assurance-vie commerciale = interdite**
-- ✅ **L'alternative conforme** :
-  - Épargne dans des comptes islamiques
-  - Investissement dans des fonds conformes
-  - Testament du tiers
-  - Assurance takaful familiale
+</div>
 
 ---
 
-### Cas 4 : L'assurance tous risques automobile
+<div class="scene-box">
 
-**Said** possède une nouvelle voiture chère et veut une assurance complète qui la protège de tout dommage.
+**🎬 Umar ibn al-Khattab et le Registre des Allocations**
 
-**Question :** L'assurance tous risques est-elle permise ?
+*Sous le califat d'Umar رضي الله عنه, il établit un système social unique...*
 
-**Réponse :**
-- ❌ **L'assurance tous risques commerciale = interdite** (non obligatoire)
-- ✅ **L'alternative** :
-  - Assurance takaful complète si disponible
-  - Épargne personnelle pour les urgences
-  - Se contenter de l'assurance obligatoire
+**Umar رضي الله عنه :**
+Je donnerai à chaque musulman sa part du trésor public, même au berger dans les montagnes de Sanaa.
 
----
+**Le narrateur :**
+Il donnait aux gens du trésor public en cas de besoin, et assurait la prise en charge des veuves et orphelins.
 
-### Cas 5 : L'assurance des marchandises dans le commerce
+**La leçon :**
+La solidarité sociale est un principe islamique authentique, et l'assurance Takaful en est le prolongement.
 
-**Abderrahman** est commerçant importateur, et la banque exige une assurance sur la cargaison.
-
-**Question :** Quel est le jugement ?
-
-**Réponse :**
-- ⚠️ **Si c'est une condition du financement** : examiner la nécessité
-- ✅ **La solution** : traiter avec des banques islamiques qui offrent le takaful
-- 💡 **Règle** : Les nécessités sont estimées à leur juste mesure
+</div>
 
 ---
 
-## 📖 De l'Histoire : La Coopération à l'Époque Préislamique
+<div class="scene-box">
 
-Les Arabes avant l'Islam connaissaient le système de **"la 'Aqilah"** :
-- Si l'un d'eux tuait par erreur, sa tribu payait le prix du sang
-- C'est de la coopération et de la solidarité, pas un échange commercial
+**🎬 La Solidarité des Muhajirin et des Ansar**
 
-**L'Islam l'a approuvé** et en a fait un système légal, et c'est l'origine de l'assurance takaful aujourd'hui.
+*Quand les musulmans émigrèrent à Médine...*
 
-> Le Prophète ﷺ a dit : **"Le croyant pour le croyant est comme une construction dont les parties se renforcent mutuellement"** [Unanimement reconnu]
+**Le Prophète ﷺ :** J'ai établi la fraternité entre les Muhajirin et les Ansar.
+
+**Les Ansar :** *(aux Muhajirin)*
+Nous partageons nos biens avec vous, et nous vous hébergeons dans nos maisons !
+
+**Le narrateur :**
+L'Ansari proposait à son frère Muhajir la moitié de ses biens.
+
+**La leçon :**
+C'est la plus grande solidarité : personne n'attendait de profit, c'était un don pur.
+
+</div>
 
 ---
 
-## 💡 Arrête-toi et Médite
+## 🎯 Cas Contemporains
 
-**Question de réflexion :**
+### Premier Cas : Assurance Auto Obligatoire
+
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│  🚗 Cas : Assurance automobile obligatoire                  │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  Question :                                                 │
+│  ══════════                                                 │
+│  Fatima vit dans un pays qui oblige l'assurance auto.       │
+│  Peut-elle y souscrire ?                                    │
+│                                                             │
+│  Réponse :                                                  │
+│  ══════════                                                 │
+│  ✅ Permis par nécessité — ce sans quoi l'obligation ne     │
+│     peut être accomplie est lui-même obligatoire            │
+│                                                             │
+│  ⚠️ Conditions :                                            │
+│  ─────────────                                              │
+│  • Se limiter au minimum obligatoire                        │
+│  • Chercher des compagnies Takaful si elles existent        │
+│  • Ne pas étendre aux couvertures supplémentaires           │
+│                                                             │
+│  💡 Règle : La nécessité rend permis l'interdit             │
+│            Et les nécessités sont évaluées à leur mesure    │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
+
+---
+
+### Deuxième Cas : Assurance Maladie de l'Employeur
+
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│  🏥 Cas : Assurance maladie fournie par l'entreprise        │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  Question :                                                 │
+│  ══════════                                                 │
+│  Ahmad est employé dans une entreprise qui offre une        │
+│  assurance maladie à tous les employés.                     │
+│  Peut-il en bénéficier ?                                    │
+│                                                             │
+│  Réponse :                                                  │
+│  ══════════                                                 │
+│  ✅ Permis — cela fait partie du salaire et des avantages   │
+│                                                             │
+│  📍 Détail :                                                │
+│  ───────────                                                │
+│  • L'employé n'a pas choisi ni signé le contrat             │
+│  • C'est une partie de ses droits professionnels            │
+│  • Le péché incombe à l'entreprise si c'est commercial      │
+│                                                             │
+│  💡 L'idéal : demander une assurance Takaful si possible    │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
+
+---
+
+### Troisième Cas : Assurance Vie
+
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│  👨‍👩‍👧‍👦 Cas : Assurance vie pour l'avenir des enfants            │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  Question :                                                 │
+│  ══════════                                                 │
+│  Muhammad veut assurer l'avenir de ses enfants après        │
+│  son décès. L'assurance vie est-elle permise ?              │
+│                                                             │
+│  Réponse :                                                  │
+│  ══════════                                                 │
+│  ❌ L'assurance vie commerciale = interdite (haram)         │
+│                                                             │
+│  ✅ Alternatives licites :                                  │
+│  ─────────────────────────                                  │
+│  1. Épargne dans des comptes islamiques                     │
+│  2. Investissement dans des fonds conformes                 │
+│  3. Testament du tiers                                      │
+│  4. Takaful familial (assurance coopérative)                │
+│  5. Achat d'un bien immobilier pour les enfants             │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
+
+---
+
+### Quatrième Cas : Assurance Tous Risques
+
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│  🚗 Cas : Assurance tous risques pour voiture neuve         │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  Question :                                                 │
+│  ══════════                                                 │
+│  Said a acheté une voiture de luxe neuve.                   │
+│  Il veut une assurance tous risques.                        │
+│  Est-ce permis ?                                            │
+│                                                             │
+│  Réponse :                                                  │
+│  ══════════                                                 │
+│  ❌ Assurance tous risques commerciale = haram (non         │
+│     obligatoire)                                            │
+│                                                             │
+│  ✅ Alternatives :                                          │
+│  ────────────────                                           │
+│  • Chercher une assurance Takaful tous risques              │
+│  • Épargne personnelle pour les urgences                    │
+│  • Se contenter de l'assurance obligatoire                  │
+│                                                             │
+│  💡 Rappel : L'argent licite vaut mieux que l'expansion     │
+│              dans l'illicite                                │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
+
+---
+
+### Cinquième Cas : Assurance Marchandises Importées
+
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│  📦 Cas : Assurance sur une cargaison commerciale           │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  Question :                                                 │
+│  ══════════                                                 │
+│  Abdurrahman est commerçant et importe des marchandises.    │
+│  La banque exige une assurance sur la cargaison pour        │
+│  le financement. Quel est le statut ?                       │
+│                                                             │
+│  Réponse :                                                  │
+│  ══════════                                                 │
+│  ⚠️ Si c'est une condition du financement : évaluer la      │
+│     nécessité                                               │
+│                                                             │
+│  ✅ Solutions :                                             │
+│  ─────────────                                              │
+│  1. Traiter avec des banques islamiques offrant du Takaful  │
+│  2. Chercher un financement sans exigence d'assurance       │
+│  3. S'il n'y a pas d'alternative : les nécessités sont      │
+│     mesurées à leur juste valeur                            │
+│                                                             │
+│  💡 Règle : Cherche d'abord le licite                       │
+│            Puis évalue la nécessité à sa mesure             │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
+
+---
+
+## 💡 Pause et Réflexion
+
+<div class="quote-box">
+
+**📜 Question de Réflexion**
 
 Pourquoi l'assurance commerciale s'est-elle répandue dans les pays musulmans malgré son interdiction par les savants ?
 
 **Réfléchis aux causes :**
-1. L'absence d'alternative islamique pendant des décennies
-2. Le besoin urgent d'assurance dans la vie moderne
-3. La faiblesse de la conscience religieuse
+
+1️⃣ Absence d'alternative islamique pendant des décennies
+
+2️⃣ Besoin pressant d'assurance dans la vie moderne
+
+3️⃣ Faiblesse de la conscience religieuse chez beaucoup
+
+4️⃣ Pressions économiques et légales (assurance obligatoire)
 
 **Que peux-tu faire ?**
-- Soutiens les compagnies takaful en traitant avec elles
-- Diffuse la connaissance de l'alternative conforme
-- Demande avant de souscrire : est-ce takaful ou commercial ?
+- Soutiens les compagnies Takaful en traitant avec elles
+- Sensibilise à l'alternative islamique
+- Demande avant de souscrire : est-ce Takaful ou commercial ?
+- Appelle à créer des caisses de solidarité dans ta communauté
+
+</div>
 
 ---
 
 ## Résumé de la Leçon
 
-| Type d'Assurance | Jugement | Cause |
-|------------------|----------|-------|
-| Commerciale | Interdite | Incertitude, usure et jeu de hasard |
-| Coopérative (Takaful) | Permise | Basée sur le don et la coopération |
-| Obligatoire | Par nécessité | S'il n'y a pas d'alternative takaful |
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│                    Résumé de la Leçon                       │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   ┌─────────────┬───────────┬─────────────────────────────┐ │
+│   │    Type     │  Statut   │          Raison             │ │
+│   ├─────────────┼───────────┼─────────────────────────────┤ │
+│   │ Commerciale │ ❌ Haram  │ Aléa + usure + jeu          │ │
+│   ├─────────────┼───────────┼─────────────────────────────┤ │
+│   │ Coopérative │ ✅ Permis │ Fondée sur le don et        │ │
+│   │ (Takaful)   │           │ l'entraide                  │ │
+│   ├─────────────┼───────────┼─────────────────────────────┤ │
+│   │ Obligatoire │ ⚠️ Nécess.│ Si pas d'alternative Takaful│ │
+│   └─────────────┴───────────┴─────────────────────────────┘ │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
 
-**Les règles de l'assurance takaful :**
-1. Intention de don
-2. Séparation des fonds des participants de la société
-3. Investissement des fonds dans le licite
-4. Surplus aux participants
-5. Supervision de la charia
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│          Conditions Légales du Takaful                      │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   1️⃣ Intention de don (pas d'échange)                      │
+│                                                             │
+│   2️⃣ Séparation des fonds des participants et de la        │
+│      société                                                │
+│                                                             │
+│   3️⃣ Investissement des fonds uniquement dans le licite    │
+│                                                             │
+│   4️⃣ Le surplus revient aux participants (pas à la société)│
+│                                                             │
+│   5️⃣ Supervision par un comité de conformité charia        │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
 
 ---
 
-*Ô Seigneur, augmente ma science*
+*Rabbi Zidni 'Ilman — Seigneur, augmente ma science*
 `;

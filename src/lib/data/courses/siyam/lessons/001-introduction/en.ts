@@ -185,6 +185,134 @@ Fasting Ramadan was made obligatory in the **second year of Hijra**, before the 
 
 ---
 
+## 🎯 Contemporary Cases
+
+### 🌟 Case 1: New Muslim Discovering Ramadan
+
+> **Situation:** Ahmad, 28, converted to Islam two months ago. This is his very first Ramadan and he feels overwhelmed by all the rules and practices.
+
+**❓ How should Ahmad approach his first Ramadan?**
+
+<details>
+<summary>📜 View Answer</summary>
+
+**Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Obligation | Fasting becomes obligatory from the moment of conversion |
+| Gradualism | Recommended to start with the essentials |
+| Community | Surround oneself with brothers/sisters for support |
+| Mercy | Allah rewards sincere effort |
+
+> 💡 **Rule:** The new Muslim is not required to make up days before conversion. He begins his first fast with a pure heart and Allah multiplies his rewards.
+
+</details>
+
+---
+
+### 🗣️ Case 2: Non-Muslim Asking About Fasting
+
+> **Situation:** Mary, a coworker, asks Fatima: "Why do you do this? You're starving yourselves for nothing—it's dangerous for your health!"
+
+**❓ How can Fatima explain the deep meaning of fasting?**
+
+<details>
+<summary>📜 View Answer</summary>
+
+**Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Spirituality | Fasting purifies the soul and strengthens faith |
+| Health | Intermittent fasting is medically recognized as beneficial |
+| Solidarity | Feeling the hunger of the poor |
+| Discipline | Controlling desires to elevate oneself |
+
+> 💡 **Rule:** Fasting is not deprivation but elevation. As the verse says: *"لَعَلَّكُمْ تَتَّقُونَ"* — so that you may attain piety. It is an annual spiritual training.
+
+</details>
+
+---
+
+### 👦 Case 3: Child Wanting to Fast
+
+> **Situation:** Yusuf, 9 years old, wants to fast like his parents. His mother hesitates between encouraging him and protecting his health.
+
+**❓ At what age should a child start fasting?**
+
+<details>
+<summary>📜 View Answer</summary>
+
+**Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Obligation | Fasting is only obligatory after puberty |
+| Education | Gradually habituating from age 7 is recommended |
+| Health | Adapt according to capacity (half-day, few hours) |
+| Reward | The child is rewarded for fasting even if not obligatory |
+
+> 💡 **Rule:** According to Malikis, children are trained to fast when physically capable, gradually. Start with a few hours, then half a day, until a full day.
+
+</details>
+
+---
+
+### 🌍 Case 4: Fasting in Extreme Latitudes
+
+> **Situation:** Khalid lives in Sweden where, in summer, the sun sets at 11 PM and rises at 3 AM. Fasting days exceed 20 hours.
+
+**❓ How to fast in these extreme conditions?**
+
+<details>
+<summary>📜 View Answer</summary>
+
+**Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Opinion 1 | Follow local times (majority position) |
+| Opinion 2 | Follow times of nearest Muslim country |
+| Opinion 3 | Follow Makkah times |
+| Fatwa | Contemporary fiqh councils allow adaptation |
+
+> 💡 **Rule:** If days are extremely long (18+ hours) and cause genuine hardship, contemporary scholars permit following Makkah times or the nearest Muslim country at moderate latitude.
+
+</details>
+
+---
+
+### 💼 Case 5: Explaining Fasting at Work
+
+> **Situation:** Nadia works at a secular company. Her colleagues worry about seeing her refuse lunch and insist she eat "at least a little."
+
+**❓ How to handle this situation with wisdom?**
+
+<details>
+<summary>📜 View Answer</summary>
+
+**Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Communication | Explain briefly and positively |
+| Reassurance | Affirm it's a beneficial personal choice |
+| Boundaries | Refuse politely but firmly |
+| Witness | Show the beauty of Islam through behavior |
+
+> 💡 **Rule:** A Muslim can say: "This is an important spiritual month for me. I fast from dawn to sunset, and it benefits me physically and spiritually. Don't worry about me!" Good character is the best da'wah.
+
+</details>
+
+---
+
+## 💭 Reflection
+
+> *"Fasting is a pillar practiced by millions of Muslims each year, in all conditions and contexts. What unites the new convert with the born Muslim, the resident with the traveler, the child with the elderly, is that sincere intention to please Allah and purify the soul."*
+
+---
+
 ## 🎯 Practical Action Plan
 
 | Phase | Steps |

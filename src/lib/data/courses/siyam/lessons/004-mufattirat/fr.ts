@@ -213,6 +213,132 @@ L'apparition des menstrues ou lochies, même juste avant le Maghrib, annule le j
 
 ---
 
+## 🎯 Cas Contemporains
+
+### 🦷 Cas 1 : Avaler du dentifrice accidentellement
+
+> **Situation :** Mariam se brosse les dents pendant Ramadan. Une petite quantité de dentifrice glisse dans sa gorge malgré elle.
+
+**❓ Son jeûne est-il annulé ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Analyse :**
+
+| Critère | Application |
+|---------|-------------|
+| Quantité | Minime, involontaire |
+| Intention | Aucune intention d'avaler |
+| Statut | Divergence selon la quantité |
+| Conseil | Éviter le dentifrice ou être très prudent |
+
+> 💡 **Règle :** Si la quantité avalée est minime et involontaire, le jeûne reste valide selon l'avis prépondérant. Par précaution, il est conseillé de se brosser les dents avant le Fajr ou d'utiliser le siwak pendant la journée.
+
+</details>
+
+---
+
+### 💨 Cas 2 : Utiliser un inhalateur pour l'asthme
+
+> **Situation :** Yassine souffre d'asthme sévère. Pendant Ramadan, il a une crise et doit utiliser son inhalateur pour pouvoir respirer.
+
+**❓ L'inhalateur annule-t-il son jeûne ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Analyse :**
+
+| Critère | Application |
+|---------|-------------|
+| Nature | Gaz + particules médicamenteuses |
+| Destination | Poumons (pas l'estomac) |
+| Nécessité | Vitale pour la respiration |
+| Avis majoritaire | N'annule pas le jeûne |
+
+> 💡 **Règle :** La majorité des savants contemporains (dont les assemblées de fiqh) considèrent que l'inhalateur n'annule pas le jeûne car les particules vont vers les poumons, non vers l'estomac, et ne nourrissent pas. En cas de doute, Yassine peut rattraper par précaution.
+
+</details>
+
+---
+
+### 💉 Cas 3 : Prise de sang ou injection à l'hôpital
+
+> **Situation :** Fatou doit faire une prise de sang à jeun pour des analyses médicales. Elle se demande aussi si elle peut recevoir une injection de vitamine B12.
+
+**❓ Ces actes médicaux annulent-ils le jeûne ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Analyse :**
+
+| Acte | Statut | Raison |
+|------|--------|--------|
+| Prise de sang | ✅ N'annule pas | Le sang sort, n'entre pas |
+| Injection intramusculaire | ✅ N'annule pas | Pas de nutrition |
+| Injection intraveineuse non nutritive | ✅ N'annule pas | Pas de nutrition |
+| Perfusion nutritive (glucose) | ❌ Annule | Équivaut à manger |
+
+> 💡 **Règle :** La prise de sang et les injections non nutritives n'annulent pas le jeûne. Seules les perfusions qui nourrissent (glucose, solutions nutritives) annulent le jeûne car elles remplacent l'alimentation.
+
+</details>
+
+---
+
+### 🤮 Cas 4 : Vomissement involontaire vs volontaire
+
+> **Situation :** Scenario A : Ibrahim a une indigestion et vomit sans le vouloir. Scenario B : Layla se sent nauséeuse et se fait vomir en mettant le doigt dans sa gorge.
+
+**❓ Quels sont les statuts respectifs de leurs jeûnes ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Analyse :**
+
+| Situation | Statut | Raison |
+|-----------|--------|--------|
+| Ibrahim (involontaire) | ✅ Jeûne valide | « مَنْ ذَرَعَهُ الْقَيْءُ فَلَيْسَ عَلَيْهِ قَضَاءٌ » |
+| Layla (volontaire) | ❌ Jeûne annulé | « وَمَنِ اسْتَقَاءَ عَمْدًا فَلْيَقْضِ » |
+
+> 💡 **Règle :** Le hadith est clair : celui qui est pris de vomissement (involontaire) n'a pas à rattraper. Mais celui qui se fait vomir volontairement doit rattraper ce jour. Ibrahim continue son jeûne normalement.
+
+</details>
+
+---
+
+### 💑 Cas 5 : Rapports par erreur (croyant que Fajr n'est pas entré)
+
+> **Situation :** Un couple marié a des rapports intimes en fin de nuit. Ils pensaient qu'il restait du temps avant le Fajr, mais découvrent ensuite que l'heure était déjà passée de 10 minutes.
+
+**❓ Quelle est la conséquence pour leur jeûne ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Analyse :**
+
+| Critère | Application |
+|---------|-------------|
+| Acte | Rapports intimes après le Fajr |
+| Intention | Pas d'intention de violer le jeûne |
+| Erreur | Sincère, basée sur une mauvaise estimation du temps |
+| Conséquence | Rattrapage (Qada) obligatoire |
+
+> 💡 **Règle :** Même si l'erreur était sincère, le jeûne est annulé car l'acte a eu lieu après le Fajr. Cependant, concernant la Kaffara, il y a divergence. L'avis le plus clément est qu'il n'y a pas de Kaffara car il n'y avait pas d'intention délibérée de violer le jeûne. Le rattrapage reste obligatoire.
+
+</details>
+
+---
+
+## 💭 Réflexion
+
+> *« Connaître les annulatifs du jeûne, c'est protéger cette adoration précieuse. La Sharia distingue entre l'erreur sincère et l'acte délibéré, entre ce qui atteint l'estomac et ce qui ne le fait pas. Cette précision n'est pas de la rigidité mais de la miséricorde qui clarifie les choses. »*
+
+---
+
 ## 🎯 Action Concrète du Jour
 
 | Phase | Actions |

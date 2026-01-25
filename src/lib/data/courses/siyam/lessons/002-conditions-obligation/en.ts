@@ -201,6 +201,134 @@ The fast of a menstruating or post-natal bleeding woman is not valid.
 
 ---
 
+## 🎯 Contemporary Cases
+
+### 👦 Case 1: Teenager Reaching Puberty During Ramadan
+
+> **Situation:** Bilal, 13, notices signs of puberty (hair growth, first wet dream) on the 10th day of Ramadan. Before that, he was fasting "for practice."
+
+**❓ Must he make up the first 9 days?**
+
+<details>
+<summary>📜 View Answer</summary>
+
+**Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Before puberty | Fasting not obligatory (Nafl) |
+| From puberty | Becomes obligatory immediately |
+| Previous days | No makeup required |
+| This day | Must complete the fast obligatorily |
+
+> 💡 **Rule:** Bilal does not need to make up the first 9 days because he was not yet mukallaf (legally responsible). From the moment he reaches puberty, fasting becomes obligatory from that exact point.
+
+</details>
+
+---
+
+### 🕌 Case 2: Converting Mid-Ramadan
+
+> **Situation:** Sophie converts to Islam on the 15th of Ramadan at 2 PM. She hasn't fasted that day or the previous days.
+
+**❓ What should she do for that day and the past days?**
+
+<details>
+<summary>📜 View Answer</summary>
+
+**Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Days before conversion | No makeup (الإِسْلاَمُ يَجُبُّ مَا كَانَ قَبْلَهُ) |
+| Day of conversion | She abstains out of respect, but no makeup |
+| Following days | Fasting is obligatory |
+| Advice | Begin learning the rules gradually |
+
+> 💡 **Rule:** According to the hadith "Islam wipes out what came before it," Sophie makes up nothing from the 15 days. She abstains the rest of that day out of respect and begins her obligatory fast the next day.
+
+</details>
+
+---
+
+### ✈️ Case 3: Traveler Crossing Time Zones
+
+> **Situation:** Karim travels from Paris to New York on the 1st day of Ramadan. He departs at 10 AM (Paris time) and lands at 2 PM (New York local time). The day seems extended.
+
+**❓ How does he calculate his fast that day?**
+
+<details>
+<summary>📜 View Answer</summary>
+
+**Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Start of fast | Fajr in Paris (departure location) |
+| During flight | Continue fasting according to visible sun |
+| End of fast | Maghrib in New York (arrival location) |
+| Total duration | May be longer than usual |
+
+> 💡 **Rule:** Karim follows the actual sun. If he flies west, his day will be longer. He breaks his fast when the sun sets wherever he is (at landing or during the flight if he sees sunset).
+
+</details>
+
+---
+
+### 🧠 Case 4: Person with Mental Health Condition
+
+> **Situation:** Yasmine suffers from severe depression and takes medications that affect her lucidity. Some days, she is not aware of her actions.
+
+**❓ How does she handle Ramadan fasting?**
+
+<details>
+<summary>📜 View Answer</summary>
+
+**Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Days of lucidity | Fasting obligatory normally |
+| Days of unconsciousness | No obligation that day |
+| Necessary medications | Can take and make up if necessary |
+| Consultation | Ask a doctor and scholar |
+
+> 💡 **Rule:** The hadith states: "The pen is lifted from three: the sleeper, the child, and the insane." Yasmine is only responsible for days when she has full consciousness. She should consult a Muslim doctor to evaluate her capacity.
+
+</details>
+
+---
+
+### 👴 Case 5: Elderly Person Unsure of Capacity
+
+> **Situation:** Grandfather Hassan, 82, has difficulty fasting but refuses to "miss" Ramadan. He insists on fasting despite extreme fatigue.
+
+**❓ Must he absolutely fast or does he have an alternative?**
+
+<details>
+<summary>📜 View Answer</summary>
+
+**Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Capable | If he can fast safely, it's obligatory |
+| Temporary incapacity | Dispensation + makeup later |
+| Permanent incapacity | Dispensation + fidya (feed one poor person/day) |
+| Fidya amount | ~750g of staple food per day |
+
+> 💡 **Rule:** If a doctor confirms that fasting is dangerous for Hassan, he is excused and pays fidya: feeding one poor person (about $5-7) for each missed day. This is Allah's mercy, not weakness.
+
+</details>
+
+---
+
+## 💭 Reflection
+
+> *"The conditions of obligation for fasting show the wisdom and mercy of the Shariah. Allah only imposes what one can bear. The new Muslim begins their new life purified, the child learns gradually, and the elderly finds an honorable alternative."*
+
+---
+
 ## 🎯 Practical Action Plan
 
 | Phase | Steps |

@@ -199,6 +199,132 @@ export const content = `
 
 ---
 
+## 🎯 Contemporary Cases
+
+### 🦷 Case 1: Accidentally Swallowing Toothpaste
+
+> **Situation:** Mariam is brushing her teeth during Ramadan. A small amount of toothpaste slips into her throat unintentionally.
+
+**❓ Is her fast invalidated?**
+
+<details>
+<summary>📜 View Answer</summary>
+
+**Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Amount | Minimal, unintentional |
+| Intention | No intention to swallow |
+| Status | Difference based on quantity |
+| Advice | Avoid toothpaste or be very careful |
+
+> 💡 **Rule:** If the amount swallowed is minimal and unintentional, the fast remains valid according to the preponderant view. As a precaution, it's advised to brush teeth before Fajr or use siwak during the day.
+
+</details>
+
+---
+
+### 💨 Case 2: Using an Asthma Inhaler
+
+> **Situation:** Yassin suffers from severe asthma. During Ramadan, he has an attack and must use his inhaler to breathe.
+
+**❓ Does the inhaler invalidate his fast?**
+
+<details>
+<summary>📜 View Answer</summary>
+
+**Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Nature | Gas + medicinal particles |
+| Destination | Lungs (not stomach) |
+| Necessity | Vital for breathing |
+| Majority view | Does not invalidate the fast |
+
+> 💡 **Rule:** Most contemporary scholars (including fiqh councils) consider the inhaler does not invalidate fasting because particles go to the lungs, not the stomach, and do not nourish. If in doubt, Yassin may make up as precaution.
+
+</details>
+
+---
+
+### 💉 Case 3: Blood Test or Injection at Hospital
+
+> **Situation:** Fatou needs to have a fasting blood test for analysis. She also wonders if she can receive a vitamin B12 injection.
+
+**❓ Do these medical procedures invalidate the fast?**
+
+<details>
+<summary>📜 View Answer</summary>
+
+**Analysis:**
+
+| Act | Status | Reason |
+|-----|--------|--------|
+| Blood test | ✅ Does not invalidate | Blood exits, doesn't enter |
+| Intramuscular injection | ✅ Does not invalidate | No nutrition |
+| Non-nutritive IV injection | ✅ Does not invalidate | No nutrition |
+| Nutritive drip (glucose) | ❌ Invalidates | Equivalent to eating |
+
+> 💡 **Rule:** Blood tests and non-nutritive injections do not invalidate fasting. Only drips that nourish (glucose, nutritional solutions) invalidate fasting because they replace food.
+
+</details>
+
+---
+
+### 🤮 Case 4: Unintentional vs. Intentional Vomiting
+
+> **Situation:** Scenario A: Ibrahim has indigestion and vomits involuntarily. Scenario B: Layla feels nauseous and makes herself vomit by putting her finger in her throat.
+
+**❓ What are the respective rulings on their fasts?**
+
+<details>
+<summary>📜 View Answer</summary>
+
+**Analysis:**
+
+| Situation | Status | Reason |
+|-----------|--------|--------|
+| Ibrahim (involuntary) | ✅ Fast valid | "Whoever is overcome by vomiting has no makeup" |
+| Layla (intentional) | ❌ Fast invalidated | "Whoever vomits deliberately must make up" |
+
+> 💡 **Rule:** The hadith is clear: one overcome by vomiting (involuntary) has no makeup. But one who vomits deliberately must make up that day. Ibrahim continues his fast normally.
+
+</details>
+
+---
+
+### 💑 Case 5: Intimacy by Mistake (Thinking Fajr Hadn't Entered)
+
+> **Situation:** A married couple has intimate relations late at night. They thought there was still time before Fajr, but later discovered the time had passed by 10 minutes.
+
+**❓ What is the consequence for their fast?**
+
+<details>
+<summary>📜 View Answer</summary>
+
+**Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Act | Intimate relations after Fajr |
+| Intention | No intention to violate the fast |
+| Mistake | Sincere, based on poor time estimation |
+| Consequence | Makeup (Qada) obligatory |
+
+> 💡 **Rule:** Even if the mistake was sincere, the fast is invalidated because the act occurred after Fajr. Regarding Kaffara, there is difference of opinion. The more lenient view is no Kaffara since there was no deliberate intention to violate the fast. Makeup remains obligatory.
+
+</details>
+
+---
+
+## 💭 Reflection
+
+> *"Knowing the nullifiers of fasting is protecting this precious worship. The Shariah distinguishes between sincere mistakes and deliberate acts, between what reaches the stomach and what doesn't. This precision is not rigidity but mercy that clarifies matters."*
+
+---
+
 ## 🎯 Practical Action Plan
 
 | Phase | Steps |

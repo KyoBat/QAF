@@ -221,6 +221,152 @@ export const content = `# 📜 الرُّخَصُ وَالقَضَاءُ — Les
 
 ---
 
+## 🎯 Cas Contemporains
+
+### 🤰 Cas 1 : La femme enceinte inquiète pour son bébé
+
+> **Situation :** Khadija est enceinte de 6 mois. Elle se sent capable de jeûner mais s'inquiète pour le développement de son bébé. Son médecin lui dit que le jeûne n'est pas contre-indiqué médicalement.
+
+**❓ Peut-elle rompre par précaution ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Analyse :**
+
+| Critère | Application |
+|---------|-------------|
+| Crainte fondée | Consultation médicale nécessaire |
+| Avis médical | Le médecin dit que c'est possible |
+| Incertitude | L'inquiétude seule ne suffit pas |
+
+La dispense est accordée en cas de **crainte réelle** pour la santé de la mère ou du bébé, pas uniquement par précaution. Si le médecin confirme que le jeûne est possible, elle doit jeûner.
+
+> 💡 **Règle :** Chez les Malikites, si elle rompt par crainte justifiée, elle ne doit que le **Qada** sans fidya additionnelle.
+
+</details>
+
+### 🍼 Cas 2 : La mère allaitante
+
+> **Situation :** Fatima allaite son bébé de 4 mois exclusivement. Elle remarque que son lait diminue quand elle jeûne et le bébé pleure beaucoup.
+
+**❓ Peut-elle rompre le jeûne ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Analyse :**
+
+| Critère | Application |
+|---------|-------------|
+| Allaitement exclusif | Bébé dépend entièrement du lait maternel |
+| Diminution du lait | Effet observable |
+| Impact sur l'enfant | Pleurs, faim du nourrisson |
+
+La femme allaitante peut rompre si elle craint pour elle-même ou pour son enfant. La diminution du lait affectant le nourrisson est une crainte légitime.
+
+> 💡 **Règle :** Elle rompt et **rattrape après le sevrage**. Chez les Malikites, pas de fidya en plus du Qada.
+
+</details>
+
+### 💉 Cas 3 : Le diabétique sous insuline
+
+> **Situation :** Ahmed, 55 ans, est diabétique de type 2 sous insuline. Il doit s'injecter de l'insuline et surveiller sa glycémie plusieurs fois par jour. Il souhaite quand même jeûner.
+
+**❓ Quand le diabète devient-il une excuse valable ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Analyse :**
+
+| Critère | Application |
+|---------|-------------|
+| Type de diabète | Type 2 sous insuline = risque modéré à élevé |
+| Risque médical | Hypoglycémie, déséquilibre |
+| Avis médical | Indispensable |
+
+Le diabète devient une excuse valable quand :
+1. Le médecin déconseille formellement le jeûne
+2. L'expérience passée montre des complications
+3. Le risque vital ou de dommage permanent existe
+
+| Situation | Statut |
+|-----------|--------|
+| Diabète équilibré sans risque | Doit jeûner |
+| Diabète à risque modéré | Peut rompre + Qada |
+| Diabète non contrôlable | Fidya définitive |
+
+> 💡 **Règle :** La **consultation médicale** est obligatoire. L'injection d'insuline **n'annule pas** le jeûne.
+
+</details>
+
+### 📚 Cas 4 : Période d'examens et épuisement mental
+
+> **Situation :** Youssef est étudiant en médecine. Ses examens finaux tombent pendant Ramadan. Il dit que le jeûne l'empêche de se concentrer et qu'il risque de rater son année.
+
+**❓ Les examens sont-ils une excuse pour rompre ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Analyse :**
+
+| Critère | Application |
+|---------|-------------|
+| Difficulté mentale | Non reconnue comme excuse |
+| Fatigue/concentration | Pas une maladie |
+| Enjeux académiques | Ne justifient pas la rupture |
+
+La difficulté intellectuelle et la fatigue mentale **ne sont pas des excuses** valables pour rompre le jeûne. Des millions de musulmans étudient et passent des examens pendant Ramadan.
+
+| Excuse valable | Excuse non valable |
+|----------------|-------------------|
+| Maladie physique | Fatigue mentale |
+| Voyage | Examens |
+| Grossesse/allaitement | Travail intellectuel |
+
+> 💡 **Règle :** Youssef doit jeûner et **adapter son rythme** : réviser après Fajr, bien manger au Suhur et à l'Iftar.
+
+</details>
+
+### ⏰ Cas 5 : Délai pour rattraper les jours manqués
+
+> **Situation :** Maryam a manqué 10 jours de Ramadan l'année dernière. Elle n'a toujours pas rattrapé et le nouveau Ramadan arrive dans 2 semaines.
+
+**❓ Quelle est la limite pour rattraper ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Analyse :**
+
+| Critère | Application |
+|---------|-------------|
+| Délai légal | Avant le Ramadan suivant |
+| Jours restants | 2 semaines = 14 jours |
+| Jours à rattraper | 10 jours |
+
+Maryam peut encore rattraper 10 jours en 14 jours. Elle doit commencer immédiatement.
+
+| Situation | Conséquence |
+|-----------|-------------|
+| Rattrapage avant Ramadan | Qada seulement |
+| Retard sans excuse | Qada + Fidya par jour |
+| Retard avec excuse (maladie continue) | Qada seulement |
+
+> 💡 **Règle :** Si elle ne rattrape pas à temps sans excuse valable, elle devra faire le **Qada après ce Ramadan** + payer la **Fidya** (nourrir 1 pauvre par jour de retard).
+
+</details>
+
+---
+
+## 💭 Réflexion
+
+> *Les dispenses sont une manifestation de la miséricorde divine. Allah dit : « يُرِيدُ اللَّهُ بِكُمُ الْيُسْرَ وَلَا يُرِيدُ بِكُمُ الْعُسْرَ » — Allah veut pour vous la facilité, Il ne veut pas la difficulté pour vous. Cependant, cette facilité ne doit pas devenir un prétexte pour délaisser l'adoration. Le croyant doit chercher sincèrement à accomplir son devoir tout en reconnaissant ses limites réelles.*
+
+---
+
 ## 🎯 Action Concrète du Jour
 
 | Phase | Actions |

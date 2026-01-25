@@ -182,6 +182,134 @@ Ici, le jeûne signifie l'abstention de **parler**.
 
 ---
 
+## 🎯 Cas Contemporains
+
+### 🌟 Cas 1 : Le nouveau musulman découvrant Ramadan
+
+> **Situation :** Ahmad, 28 ans, s'est converti à l'Islam il y a deux mois. C'est son tout premier Ramadan et il se sent dépassé par toutes les règles et pratiques.
+
+**❓ Comment Ahmad doit-il aborder son premier Ramadan ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Analyse :**
+
+| Critère | Application |
+|---------|-------------|
+| Obligation | Le jeûne devient obligatoire dès la conversion |
+| Progressivité | Recommandé de commencer par l'essentiel |
+| Communauté | S'entourer de frères/sœurs pour l'accompagner |
+| Indulgence | Allah récompense l'effort sincère |
+
+> 💡 **Règle :** Le nouveau musulman n'est pas tenu de rattraper les jours avant sa conversion. Il commence son premier jeûne avec son cœur pur et Allah multiplie ses récompenses.
+
+</details>
+
+---
+
+### 🗣️ Cas 2 : Le non-musulman curieux
+
+> **Situation :** Marie, collègue de travail, demande à Fatima : « Pourquoi vous faites ça ? Vous vous affamez pour rien, c'est dangereux pour la santé ! »
+
+**❓ Comment Fatima peut-elle expliquer le sens profond du jeûne ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Analyse :**
+
+| Critère | Application |
+|---------|-------------|
+| Spiritualité | Le jeûne purifie l'âme et renforce la foi |
+| Santé | Le jeûne intermittent est reconnu médicalement bénéfique |
+| Solidarité | Ressentir la faim des pauvres |
+| Discipline | Maîtriser ses désirs pour s'élever |
+
+> 💡 **Règle :** Le jeûne n'est pas une privation mais une élévation. Comme le dit le verset : *« لَعَلَّكُمْ تَتَّقُونَ »* — afin que vous atteigniez la piété. C'est un entraînement spirituel annuel.
+
+</details>
+
+---
+
+### 👦 Cas 3 : L'enfant qui veut jeûner
+
+> **Situation :** Youssef, 9 ans, veut jeûner comme ses parents. Sa mère hésite entre l'encourager et protéger sa santé.
+
+**❓ À quel âge un enfant doit-il commencer à jeûner ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Analyse :**
+
+| Critère | Application |
+|---------|-------------|
+| Obligation | Le jeûne n'est obligatoire qu'après la puberté |
+| Éducation | L'habituer progressivement dès 7 ans est recommandé |
+| Santé | Adapter selon sa capacité (demi-journée, quelques heures) |
+| Récompense | L'enfant est récompensé pour son jeûne même s'il n'est pas obligatoire |
+
+> 💡 **Règle :** Selon les Malikites, on habitue l'enfant au jeûne dès qu'il en est physiquement capable, progressivement. Commencer par quelques heures, puis une demi-journée, jusqu'à la journée complète.
+
+</details>
+
+---
+
+### 🌍 Cas 4 : Le jeûne dans les pays nordiques
+
+> **Situation :** Khalid vit en Suède où, en été, le soleil se couche à 23h et se lève à 3h. Les journées de jeûne dépassent 20 heures.
+
+**❓ Comment jeûner dans ces conditions extrêmes ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Analyse :**
+
+| Critère | Application |
+|---------|-------------|
+| Avis 1 | Suivre les horaires locaux (position majoritaire) |
+| Avis 2 | Suivre les horaires du pays musulman le plus proche |
+| Avis 3 | Suivre les horaires de La Mecque |
+| Fatwa | Les assemblées de fiqh contemporaines permettent l'adaptation |
+
+> 💡 **Règle :** Si les journées sont extrêmement longues (18h+) et causent une difficulté réelle, les savants contemporains autorisent de suivre les horaires de La Mecque ou du pays musulman le plus proche à latitude modérée.
+
+</details>
+
+---
+
+### 💼 Cas 5 : Expliquer le jeûne au travail
+
+> **Situation :** Nadia travaille dans une entreprise laïque. Ses collègues s'inquiètent de la voir refuser le déjeuner et insistent pour qu'elle mange « au moins un peu ».
+
+**❓ Comment gérer cette situation avec sagesse ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Analyse :**
+
+| Critère | Application |
+|---------|-------------|
+| Communication | Expliquer brièvement et positivement |
+| Rassurer | Affirmer que c'est un choix personnel bénéfique |
+| Limites | Refuser poliment mais fermement |
+| Témoignage | Montrer par son comportement la beauté de l'Islam |
+
+> 💡 **Règle :** Le musulman peut dire : « C'est un mois spirituel important pour moi. Je jeûne du lever au coucher du soleil, et cela me fait du bien physiquement et spirituellement. Ne vous inquiétez pas pour moi ! » La bonne attitude est la meilleure da'wa.
+
+</details>
+
+---
+
+## 💭 Réflexion
+
+> *« Le jeûne est un pilier que des millions de musulmans pratiquent chaque année, dans toutes les conditions et tous les contextes. Ce qui unit le nouveau converti au musulman de naissance, le résident au voyageur, l'enfant au vieillard, c'est cette intention sincère de plaire à Allah et de purifier son âme. »*
+
+---
+
 ## 🎯 Action Concrète (التطبيق العملي)
 
 | Objectif | Action |

@@ -202,6 +202,132 @@ export const content = `
 
 ---
 
+## 🎯 Contemporary Cases
+
+### 🏊 Case 1: Going to the Swimming Pool During Ramadan
+
+> **Situation:** It's very hot and Karim wants to take his children to the pool to cool off. He fears swimming might invalidate his fast.
+
+**❓ Can he go to the pool while fasting?**
+
+<details>
+<summary>📜 View Answer</summary>
+
+**Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Bathing | ✅ Permissible for the fasting person |
+| Water on skin | Does not invalidate the fast |
+| Precaution | Avoid swallowing water |
+| Advice | Keep mouth and nose closed when diving |
+
+> 💡 **Rule:** Swimming is permissible during fasting. The Prophet ﷺ used to pour water on his head due to the heat while fasting. The only precaution is to avoid swallowing water intentionally.
+
+</details>
+
+---
+
+### 🦷 Case 2: Brushing Teeth with Toothpaste
+
+> **Situation:** Aisha feels embarrassed by her bad breath during the day. She wants to brush her teeth with toothpaste but fears invalidating her fast.
+
+**❓ Can she use toothpaste while fasting?**
+
+<details>
+<summary>📜 View Answer</summary>
+
+**Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Toothpaste | ✅ Permissible if nothing is swallowed |
+| Fasting person's breath | Dearer to Allah than musk |
+| Alternative | Siwak is a Sunnah |
+| Advice | Brush before Fajr or use siwak |
+
+> 💡 **Rule:** Toothpaste is permissible on condition of not swallowing anything. However, the Prophet ﷺ said the breath of the fasting person is more beloved to Allah than the fragrance of musk. Siwak remains the best option during the day.
+
+</details>
+
+---
+
+### 👁️ Case 3: Eye or Ear Drops
+
+> **Situation:** Munir has an eye infection and must put drops several times a day. He sometimes feels a bitter taste in his throat afterward.
+
+**❓ Do the drops invalidate the fast?**
+
+<details>
+<summary>📜 View Answer</summary>
+
+**Analysis:**
+
+| Type | Status | Reason |
+|------|--------|--------|
+| Eye drops | ✅ Do not invalidate | Eye is not a digestive pathway |
+| Ear drops | ✅ Do not invalidate | Ear is not a digestive pathway |
+| Taste in throat | Does not invalidate | Side effect, not ingestion |
+
+> 💡 **Rule:** According to the majority of scholars, including Malikis, eye and ear drops do not invalidate fasting because they are not normal pathways to the stomach. Even if a taste is felt, this does not invalidate.
+
+</details>
+
+---
+
+### 🍲 Case 4: Tasting Food While Cooking
+
+> **Situation:** Khadija is preparing iftar for her family. She needs to check if the salt is sufficient in the soup, but she is fasting.
+
+**❓ Can she taste the food without invalidating her fast?**
+
+<details>
+<summary>📜 View Answer</summary>
+
+**Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Legitimate need | ✅ Checking seasoning |
+| Method | Put on tip of tongue |
+| Condition | Swallow nothing, spit out |
+| Without need | Makruh to taste for pleasure |
+
+> 💡 **Rule:** Maliki scholars permit tasting food to check seasoning on condition of not swallowing anything and spitting it out. Rinsing the mouth afterward is advised. Without need, tasting becomes makruh.
+
+</details>
+
+---
+
+### 🩸 Case 5: Cupping (Hijama) or Blood Donation
+
+> **Situation:** Abdullah wants to have hijama (cupping) because he feels heavy. His friend tells him it's forbidden during fasting. Another day, Salma wants to donate blood at the hospital.
+
+**❓ Do hijama and blood donation invalidate the fast?**
+
+<details>
+<summary>📜 View Answer</summary>
+
+**Analysis:**
+
+| Act | Maliki View | Hanbali View |
+|-----|-------------|--------------|
+| Hijama | ✅ Does not invalidate (makruh) | ❌ Invalidates |
+| Blood donation | ✅ Does not invalidate | ⚠️ Difference |
+| Precaution | Postpone until after Maghrib if possible |
+
+> 💡 **Rule:** According to Malikis and the majority, hijama does not invalidate fasting but is makruh (disliked) as it weakens. Blood donation follows the same reasoning. As a precaution and to preserve strength, it is preferable to do these acts after Maghrib.
+
+</details>
+
+---
+
+## 💭 Reflection
+
+> *"Allah intends ease for us. Permissible acts during fasting show that Islam is a religion of balance. We can take care of our health, hygiene, and responsibilities while preserving our fast. Piety does not mean excessive deprivation."*
+
+---
+
 ## 🎯 Practical Action Plan
 
 | Phase | Steps |
