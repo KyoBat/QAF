@@ -1,294 +1,617 @@
-export const contentEn = `# Currency Exchange — Rules of Currency Trading
+export const contentEn = `# Currency Exchange (Sarf) — Rules of Money Exchange
+
+<div class="scene-box">
+
+**🎬 The Scene: The Money Changers' Market — Medina in the Prophet's Era ﷺ**
+
+*A merchant comes to Abdullah ibn Umar at the market...*
+
+**The Merchant**: O Abu Abd ar-Rahman! I sell camels at al-Baqi', I sell in dinars and take dirhams, and I sell in dirhams and take dinars!
+
+**Ibn Umar** *(reflecting)*: No problem...
+
+**The Merchant** *(surprised)*: And what is the condition?
+
+**Ibn Umar**: That you take them **at today's rate**, and **provided you don't part with something remaining between you!**
+
+*The man goes to confirm with the Messenger of Allah ﷺ...*
+
+**The Prophet ﷺ**: **"No problem taking them at today's rate as long as you don't part with something remaining between you."**
+
+**The Narrator**: *This was the fundamental rule of currency exchange: immediate taking of possession at the day's rate!*
+
+</div>
+
+---
 
 ## Definition of Currency Exchange (Sarf)
 
-### Linguistic Meaning
-Sarf: returning and converting, from which comes exchanging dirhams, meaning converting them.
+<div class="quote-box">
 
-### Technical Meaning
-> The sale of money for money, whether of the same type or of different types.
+**📜 Linguistic and Technical Meaning**
 
----
+**Linguistically**: As-Sarf means returning and converting, hence the exchange of dirhams means their conversion.
 
-## The Legitimacy of Currency Exchange
+**In legal terminology**: The sale of money for money, whether of the same type or different types.
 
-### From the Prophetic Sunna
-> 'Ubada ibn as-Samit رضي الله عنه reported that the Messenger of Allah ﷺ said: "Gold for gold, silver for silver... like for like, equal for equal, hand to hand. If these types differ, sell as you wish, as long as it is hand to hand." [Reported by Muslim]
+</div>
 
-### Consensus
-Scholars are unanimous on the permissibility of currency exchange according to its legal conditions.
-
----
-
-## Conditions for the Validity of Currency Exchange
-
-### First Condition: Immediate Exchange in the Session
-
-**The evidence:**
-> The Prophet ﷺ said: "Hand to hand." [Reported by Muslim]
-
-> The Prophet ﷺ said: "Do not sell gold for gold except like for like, do not favor one over another, and do not sell absent for present." [Agreed upon]
-
-**Meaning of immediate exchange:**
-- Each party receives their compensation before separating
-- It is not permitted to delay either compensation
-
-**Applications:**
-- Exchanging currencies at a money exchange office: delivery must be immediate
-- Bank transfer: money must arrive the same day
-
-### Second Condition: Equality if the Type is the Same
-
-**The evidence:**
-> The Prophet ﷺ said: "Gold for gold... like for like." [Reported by Muslim]
-
-**Its application:**
-- Gold for gold: equality in weight is obligatory
-- Riyal for riyal: equality in value is obligatory
-
-**Exception:**
-- If the type differs: surplus is permitted
-- Example: dollar for euro — surplus is permitted with immediate exchange
+\`\`\`
+┌─────────────────────────────────────────────────────────────────────┐
+│              💱 Types of Currency Exchange Contracts                 │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│                    Exchange Contract                                 │
+│                           │                                          │
+│         ┌─────────────────┼─────────────────┐                       │
+│         │                                   │                       │
+│         ▼                                   ▼                       │
+│   Same type exchange               Different type exchange          │
+│   ──────────────────               ────────────────────             │
+│                                                                      │
+│   • Gold for gold                  • Gold for silver                │
+│   • Riyal for riyal                • Dollar for euro                │
+│   • Dollar for dollar              • Riyal for pound                │
+│                                                                      │
+│   Conditions:                      Conditions:                       │
+│   ① Equality ✓                     ① Equality ✗ (surplus allowed)   │
+│   ② Taking possession ✓           ② Taking possession ✓            │
+│                                                                      │
+└─────────────────────────────────────────────────────────────────────┘
+\`\`\`
 
 ---
 
-## Rules for Exchanging Gold and Silver
+## Legitimacy of Currency Exchange
 
-### Exchanging Gold for Gold
+<div class="quote-box">
 
-| Condition | Ruling |
-|-----------|--------|
-| Equality | Obligatory |
-| Immediate exchange | Obligatory |
+**📜 The Proof from Sunnah**
 
-**Example:**
-- Selling ten grams of gold for ten grams of gold — permitted
-- Selling ten grams of gold for nine — prohibited (surplus usury)
+> From 'Ubadah ibn as-Samit, the Messenger of Allah ﷺ said:
+> **"Gold for gold, silver for silver... equal for equal, like for like, hand to hand. If these types differ, sell as you wish provided it is hand to hand."**
+> — Narrated by Muslim
 
-### Exchanging Silver for Silver
+</div>
 
-- Same rules as gold for gold
-- Equality and immediate exchange are obligatory
+### The Consensus
 
-### Exchanging Gold for Silver
-
-| Condition | Ruling |
-|-----------|--------|
-| Equality | Not obligatory (surplus is permitted) |
-| Immediate exchange | Obligatory |
+Scholars are unanimous on the permissibility of currency exchange with its legal conditions. It is a necessary transaction to facilitate trade between nations.
 
 ---
 
-## Paper Currencies and Their Ruling
+## Conditions for Valid Currency Exchange
 
-### Are paper currencies like gold and silver?
+\`\`\`
+┌─────────────────────────────────────────────────────────────────────┐
+│              ⚖️ The Two Fundamental Conditions of Exchange           │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│     ┌────────────────────────────┐  ┌────────────────────────────┐  │
+│     │                            │  │                            │  │
+│     │   First Condition:         │  │   Second Condition:        │  │
+│     │                            │  │                            │  │
+│     │    🤝 Taking Possession    │  │    ⚖️ Equality             │  │
+│     │    in the Session         │  │    if same type            │  │
+│     │                            │  │                            │  │
+│     │  "Hand to hand"           │  │  "Equal for equal"         │  │
+│     │                            │  │                            │  │
+│     │  • Always required        │  │  • Required if same        │  │
+│     │  • For all exchanges      │  │    type                    │  │
+│     │                            │  │  • Not if different types │  │
+│     │                            │  │                            │  │
+│     └────────────────────────────┘  └────────────────────────────┘  │
+│                                                                      │
+│     ⚠️ Violation of possession = Riba an-Nasi'ah                     │
+│     ⚠️ Violation of equality = Riba al-Fadl                          │
+│                                                                      │
+└─────────────────────────────────────────────────────────────────────┘
+\`\`\`
 
-**The preponderant view:**
-Paper currencies have the ruling of the two metals (gold and silver) regarding:
+### First Condition: Taking Possession in the Session
+
+<div class="quote-box">
+
+**📜 Proof for Taking Possession**
+
+> The Prophet ﷺ said: **"Hand to hand."**
+> — Narrated by Muslim
+
+> The Prophet ﷺ said: **"Do not sell gold for gold except equal for equal, do not let one part exceed the other, and do not sell the absent for the present."**
+> — Agreed Upon
+
+</div>
+
+<div class="scene-box">
+
+**🎬 What Does Taking Possession Mean?**
+
+**The exchange office employee**: I want 500 dollars.
+
+**The customer** *(taking out the riyals)*: Here are 1875 riyals.
+
+**The employee** *(handing him the dollars)*: Here are 500 dollars.
+
+✅ **Valid possession** — Both received before parting.
+
+---
+
+**Another customer**: I want 1000 dollars, but the riyals will arrive tomorrow!
+
+**The employee**: Sorry, impossible. **Delivery must be immediate!**
+
+❌ **Delay is not permitted** — This is riba an-nasi'ah.
+
+</div>
+
+### Second Condition: Equality if the Type is Identical
+
+<div class="scene-box">
+
+**🎬 When is Equality Required?**
+
+**Example ①**: Riyal for riyal
+- 100 riyals = 100 riyals ✅
+- 100 riyals ≠ 95 riyals ❌ (riba al-fadl)
+
+**Example ②**: Dollar for euro
+- 100 dollars = 90 euros ✅ (surplus is allowed)
+- Because the type is different!
+
+</div>
+
+---
+
+## Rules for Gold and Silver Exchange
+
+\`\`\`
+┌─────────────────────────────────────────────────────────────────────┐
+│              💰 Precious Metals Exchange Rules Table                 │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│   ┌────────────────┬────────────┬────────────┬─────────────────┐    │
+│   │     Type       │  Equality  │ Possession │    Ruling       │    │
+│   ├────────────────┼────────────┼────────────┼─────────────────┤    │
+│   │ Gold/Gold      │ Required   │ Required   │ Permitted with  │    │
+│   │                │            │            │ both conditions │    │
+│   │ Silver/Silver  │ Required   │ Required   │ Permitted with  │    │
+│   │                │            │            │ both conditions │    │
+│   │ Gold/Silver    │ Not needed │ Required   │ Permitted hand  │    │
+│   │                │            │            │ to hand         │    │
+│   └────────────────┴────────────┴────────────┴─────────────────┘    │
+│                                                                      │
+└─────────────────────────────────────────────────────────────────────┘
+\`\`\`
+
+<div class="scene-box">
+
+**🎬 At the Jeweler's**
+
+**The Customer**: I want to exchange 50 grams of 21 karat gold for 18 karat gold.
+
+**The Jeweler**: Okay! I'll give you 55 grams of 18 karat for your 50.
+
+**⚠️ This is riba al-fadl!** Gold for gold must be equal in **weight**, regardless of karat.
+
+**✅ The Correct Method**:
+1. Sell the old gold for cash
+2. Buy the new gold for cash
+
+</div>
+
+---
+
+## Paper Currency and Its Ruling
+
+### Do Paper Currencies Have the Same Ruling as Gold and Silver?
+
+<div class="quote-box">
+
+**📜 The Preponderant View**
+
+Paper currencies have the ruling of the two precious metals (gold and silver) regarding:
 - The obligation of zakat
-- The application of usury
-- The obligation of immediate exchange in currency exchange
+- The application of usury rules
+- The obligation of taking possession in exchange
 
-**The evidence:**
-- The cause in gold and silver is monetary value
-- Paper currencies are the price of things
-- So they take the ruling of gold and silver
+**The Cause**: Monetary value — paper currencies are a price for things, so they take the ruling of gold and silver.
 
-### Decisions of Jurisprudential Assemblies
+</div>
 
-> The International Islamic Fiqh Academy decided:
-> "Paper currencies are conventional money having full monetary character, and they have the legal rulings established for gold and silver regarding the rules of usury, zakat, salam, and all their other rulings."
+### Fiqh Council Decisions
+
+<div class="quote-box">
+
+**📜 International Islamic Fiqh Council Decision**
+
+> "Paper currencies are conventional currencies having the full characteristic of monetary value. They have the legal rulings established for gold and silver regarding usury, zakat, salam, and all their other rules."
+
+</div>
+
+\`\`\`
+┌─────────────────────────────────────────────────────────────────────┐
+│              📊 Paper Currencies = Legal Currencies                  │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│   Gold and Silver ─────────────► Paper Currencies                   │
+│        │                              │                             │
+│        ▼                              ▼                             │
+│   ┌────────────┐               ┌────────────┐                       │
+│   │  Monetary  │  ═══════════  │  Monetary  │                       │
+│   │   Value    │               │   Value    │                       │
+│   └────────────┘               └────────────┘                       │
+│        │                              │                             │
+│        ▼                              ▼                             │
+│   ┌─────────────────────────────────────┐                           │
+│   │          Same Rules:               │                           │
+│   │  • Zakat required                  │                           │
+│   │  • Usury applies                   │                           │
+│   │  • Taking possession required      │                           │
+│   └─────────────────────────────────────┘                           │
+│                                                                      │
+└─────────────────────────────────────────────────────────────────────┘
+\`\`\`
 
 ---
 
-## Exchange of Different Currencies
+## Exchanging Different Currencies
 
-### The General Rule
+### The Golden Rule
 
-| Case | Equality | Immediate exchange |
-|------|----------|-------------------|
-| Same currency (riyal for riyal) | Obligatory | Obligatory |
-| Different currencies (dollar for euro) | Not obligatory | Obligatory |
-
-### Practical Examples
-
-**1. Exchanging riyal for riyal:**
-- Equality is obligatory: one hundred for one hundred
-- Immediate exchange is obligatory: delay is not permitted
-
-**2. Exchanging dollar for euro:**
-- Surplus is permitted: according to the exchange rate
-- Immediate exchange is obligatory: delay is not permitted
-
-**3. Exchanging gold for dollars:**
-- Surplus is permitted: according to the price
-- Immediate exchange is obligatory: delay is not permitted
+\`\`\`
+┌─────────────────────────────────────────────────────────────────────┐
+│         📐 Rules for Different Currency Exchange                     │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│  ═══════════════════════════════════════════════════════════════    │
+│  Rule ①: Same currency (riyal ↔ riyal, dollar ↔ dollar)             │
+│  ═══════════════════════════════════════════════════════════════    │
+│                                                                      │
+│     Equality ──► Required (one for one)                             │
+│     Taking possession ──► Required (immediate)                      │
+│                                                                      │
+│  ═══════════════════════════════════════════════════════════════    │
+│  Rule ②: Different currencies (dollar ↔ euro, riyal ↔ pound)        │
+│  ═══════════════════════════════════════════════════════════════    │
+│                                                                      │
+│     Surplus ──► Permitted (according to rate)                       │
+│     Taking possession ──► Required (immediate)                      │
+│                                                                      │
+│  ═══════════════════════════════════════════════════════════════    │
+│  Rule ③: Gold/Silver ↔ Paper currencies                             │
+│  ═══════════════════════════════════════════════════════════════    │
+│                                                                      │
+│     Surplus ──► Permitted (according to price)                      │
+│     Taking possession ──► Required (immediate)                      │
+│                                                                      │
+└─────────────────────────────────────────────────────────────────────┘
+\`\`\`
 
 ---
 
-## Constructive Exchange
+## Constructive Possession (Contemporary)
 
-### Its Definition
-> The constructive receipt that takes the place of actual receipt.
+<div class="quote-box">
+
+**📜 Definition**
+
+**Constructive Possession**: Conventional receipt that replaces physical receipt in the modern era.
+
+</div>
 
 ### Its Contemporary Forms
 
-**1. Certified check:**
-- Considered receipt according to many scholars
-- Because the exchange is guaranteed
-
-**2. Bank transfer:**
-- Valid if done in the same session
-- Or if it enters the recipient's account immediately
-
-**3. ATM:**
-- Considered receipt because it is immediate delivery
-
-**4. Transfer applications:**
-- If the transfer is immediate: permitted
-- If the transfer is delayed: not permitted
-
----
-
-## Contemporary Issues in Currency Exchange
-
-### 1. Buying Currencies Online
-
-**The ruling:**
-- Permitted if constructive receipt is achieved
-- By the amount entering the buyer's account immediately
-
-### 2. Currency Trading (Forex)
-
-**Its problems:**
-- Generally immediate exchange is not achieved
-- It contains prohibited forward contracts
-- It contains leverage (usurious loan)
-
-**The ruling:**
-- Most forms of Forex are prohibited
-- Due to the usury and uncertainty they contain
-
-### 3. Currency Conversion with Fees
-
-**The ruling:**
-- It is permitted to take fees for the transfer service
-- Fees are remuneration for work, not for the exchange
-
-### 4. Difference in Exchange Rate
-
-**The ruling:**
-- Exchange at market price is permitted
-- Increase in exchange for delay is not permitted
+\`\`\`
+┌─────────────────────────────────────────────────────────────────────┐
+│              ✅ Permitted Forms of Constructive Possession           │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│  ① Certified Check                                                  │
+│     • Considered as receipt because it's guaranteed                 │
+│     • Authorized by many contemporary scholars                      │
+│                                                                      │
+│  ② Immediate Bank Transfer                                          │
+│     • Valid if the amount enters the account immediately           │
+│     • Or the same business day                                      │
+│                                                                      │
+│  ③ Automatic Teller Machine (ATM)                                   │
+│     • Considered as receipt because of immediate delivery           │
+│     • Money comes out directly                                      │
+│                                                                      │
+│  ④ Instant Transfer Apps (Apple Pay, PayPal...)                    │
+│     • Permitted if transfer is instant                              │
+│     • ❌ Not permitted if transfer is delayed                       │
+│                                                                      │
+└─────────────────────────────────────────────────────────────────────┘
+\`\`\`
 
 ---
 
-## Selling in One Currency and Paying in Another
+## Selling in One Currency and Payment in Another
 
-### The Situation
-Buying merchandise in dollars and paying the price in riyals
+<div class="scene-box">
 
-### The Ruling
-- Permitted at the price of the day of payment
-- Not at the price of the day of purchase if it is different
+**🎬 At the Market**
 
-### The Evidence
-> Ibn 'Umar said: We used to sell camels for dinars and take dirhams, and for dirhams and take dinars. The Prophet ﷺ said: "No problem taking them at the day's price, as long as you do not separate with something remaining between you." [Reported by Ahmad and Abu Dawud]
+**The Merchant**: This merchandise costs 100 dollars.
 
----
+**The Buyer**: I don't have dollars, but I have riyals!
 
-## The Legal Guidelines for Currency Exchange
+**The Merchant**: No problem, pay in riyals at today's rate!
 
-1. **Immediate exchange** — No delay for either compensation
-2. **Equality in the same type** — No surplus in the same currency
-3. **No uncertainty** — Knowledge of the exchange rate
-4. **No invalid condition** — Like requiring guaranteed profit
-5. **No monopoly** — No market control
+✅ **Permitted** — provided payment is **at the rate of the day of payment**, not the rate of the day of agreement.
 
----
+</div>
 
-## 📖 Stories from the Salaf: The Precision of the Companions in Currency Exchange
+<div class="quote-box">
 
-It is narrated that a man came to 'Abdullah ibn 'Umar رضي الله عنهما in the market and said:
+**📜 The Prophetic Proof**
 
-**"O Abu 'Abd ar-Rahman, I sell camels at al-Baqi'. I sell for dinars and take dirhams, and I sell for dirhams and take dinars!"**
+> Ibn Umar said: We used to sell camels in dinars and take dirhams, and in dirhams and take dinars.
+> The Prophet ﷺ said: **"No problem taking them at today's rate as long as you don't part with something remaining between you."**
+> — Narrated by Ahmad and Abu Dawud
 
-Ibn 'Umar رضي الله عنه said:
-
-> **"No problem taking them at the day's price, as long as you do not separate with something remaining between you."**
-
-Then the man went to the Prophet ﷺ and asked him, and he answered him the same as Ibn 'Umar said.
-
-The Companions رضي الله عنهم were keen on:
-- **Immediate exchange** — they would not separate except after the exchange was complete
-- **The day's price** — they would not defer the exchange at an old price
-- **Complete clarity** — no ambiguity in the amounts
+</div>
 
 ---
 
-## 🎯 Contemporary Cases
+## Legal Rules of Currency Exchange
 
-### Case 1: Traditional Money Exchange
+\`\`\`
+┌─────────────────────────────────────────────────────────────────────┐
+│              📋 The Five Rules of Legal Currency Exchange            │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│  ① Immediate Taking of Possession                                   │
+│     • No delay for either counter-value                             │
+│     • "Hand to hand"                                                │
+│                                                                      │
+│  ② Equality in the Same Type                                        │
+│     • No surplus when exchanging the same currency                  │
+│     • "Equal for equal"                                             │
+│                                                                      │
+│  ③ Absence of Uncertainty (Gharar)                                  │
+│     • Clearly knowing the exchange rate                             │
+│     • No ambiguity in amounts                                       │
+│                                                                      │
+│  ④ Absence of Invalid Condition                                     │
+│     • No profit guarantee                                           │
+│     • No hidden usurious conditions                                 │
+│                                                                      │
+│  ⑤ Absence of Monopoly                                              │
+│     • No control of the currency market                             │
+│     • No price manipulation                                         │
+│                                                                      │
+└─────────────────────────────────────────────────────────────────────┘
+\`\`\`
 
-**Question:** I went to a money exchange office to convert 1000 dollars to riyals. The employee gave me the riyals immediately and took the dollars. Is this permitted?
+---
 
-**Answer:** ✅ **Permitted** — this is valid exchange because immediate exchange occurred in the session. Both compensations were delivered before separation.
+## 📖 From the Righteous Predecessors: The Precision of the Companions
+
+<div class="scene-box">
+
+**🎬 At al-Baqi' Market — Medina**
+
+*A merchant questions Ibn Umar...*
+
+**The Merchant**: O Abu Abd ar-Rahman, I sell in dinars and receive in dirhams!
+
+**Ibn Umar**: How do you do it?
+
+**The Merchant**: He buys from me for ten dinars, and gives me a hundred dirhams.
+
+**Ibn Umar** *(warning)*: Be careful about two things:
+
+**First**: Take them **at today's rate** — not yesterday's or tomorrow's!
+
+**Second**: **Don't part with something remaining between you** — nothing should remain owed to you!
+
+**The Merchant**: I understand! Now and here, not later!
+
+**Ibn Umar** *(smiling)*: Excellent! This is how the Messenger of Allah ﷺ taught us.
+
+</div>
+
+---
+
+## 🎯 Contemporary Cases: Is This Exchange Valid?
+
+### Case 1: Traditional Currency Exchange Office
+
+<div class="scene-box">
+
+**❓ The Question**
+
+I went to the currency exchange office to convert 1000 dollars to riyals.
+
+The employee gave me the riyals immediately and took the dollars.
+
+Is this permitted?
+
+</div>
+
+**The Answer**: 
+
+✅ **Permitted** — This is a valid exchange because:
+- Taking possession occurred in the session
+- Both counter-values were delivered before parting
+- Nothing was delayed
 
 ---
 
 ### Case 2: International Bank Transfer
 
-**Question:** I want to transfer an amount to my family in another country. The bank takes the amount in riyals and deposits it in their account in local currency. Is this permitted?
+<div class="scene-box">
 
-**Answer:** ✅ **Permitted** — if the amount is deposited in the recipient's account immediately or on the same business day. Constructive receipt (money entering the account) takes the place of actual receipt.
+**❓ The Question**
+
+I want to transfer money to my family in another country.
+
+The bank takes the amount in riyals and deposits in their account in local currency.
+
+Is this permitted?
+
+</div>
+
+**The Answer**: 
+
+✅ **Permitted** — provided that:
+- The amount is deposited in the recipient's account **immediately** or **the same business day**
+- Constructive possession (money entering the account) replaces physical possession
 
 ---
 
-### Case 3: Buying Cryptocurrencies
+### Case 3: Buying Cryptocurrency
 
-**Question:** I bought Bitcoin through a trading platform, paid in riyals and received the Bitcoin in my digital wallet immediately. Is this permitted?
+<div class="scene-box">
 
-**Answer:** ⚠️ **There is disagreement** — if cryptocurrencies are considered money, then immediate exchange is required (which is achieved here). But the ruling on cryptocurrencies themselves is disputed among contemporary scholars.
+**❓ The Question**
+
+I bought Bitcoin through a trading platform.
+
+I paid in riyals and received the Bitcoin in my digital wallet immediately.
+
+Is this permitted?
+
+</div>
+
+**The Answer**: 
+
+⚠️ **Subject of contemporary disagreement** —
+- If cryptocurrencies are considered money, immediate taking of possession is required (achieved here)
+- But the status of cryptocurrencies themselves is a matter of major disagreement among contemporary scholars
+- Some have permitted them, others have prohibited them
 
 ---
 
 ### Case 4: Forex (Currency Trading)
 
-**Question:** I opened an account on a Forex platform for currency trading. I buy and sell and make profits. Is this lawful?
+<div class="scene-box">
 
-**Answer:** ❌ **Generally prohibited** — for several reasons:
-- **No immediate exchange:** transactions are mostly deferred
-- **Leverage:** a disguised usurious loan
-- **Rollover fees:** explicit usury
+**❓ The Question**
 
-The alternative: If an Islamic platform exists without leverage or interest with real immediate exchange, it may be permitted.
+I opened an account on a Forex platform to trade currencies.
+
+I buy and sell and make profits.
+
+Is this lawful?
+
+</div>
+
+**The Answer**: 
+
+❌ **Generally prohibited** — due to several legal violations:
+
+\`\`\`
+┌─────────────────────────────────────────────────────────────────────┐
+│       ⚠️ Legal Violations in Traditional Forex                       │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│  ① Absence of Taking Possession                                     │
+│     • Transactions are often deferred or virtual                   │
+│     • No real delivery of currencies                               │
+│                                                                      │
+│  ② Leverage                                                         │
+│     • Disguised usurious loan from the broker                      │
+│     • You trade 100 times what you own!                            │
+│                                                                      │
+│  ③ Swaps (Rollover Interest)                                        │
+│     • Explicit usury on open positions                             │
+│     • Paid or received every night                                 │
+│                                                                      │
+│  ④ Futures Contracts                                                │
+│     • Selling what you don't own                                   │
+│     • Buying without taking possession                             │
+│                                                                      │
+└─────────────────────────────────────────────────────────────────────┘
+\`\`\`
+
+**The Legal Alternative**: A true Islamic platform without leverage or interest with immediate taking of possession.
 
 ---
 
 ### Case 5: Money Transfer (Western Union)
 
-**Question:** I sent money through Western Union. The sender pays in dollars and the recipient collects in their country's currency days later. Is this permitted?
+<div class="scene-box">
 
-**Answer:** ✅ **Permitted** — this is a transfer (hawala), not exchange. Transfer is moving a debt from one responsibility to another, which is legally permitted. The exchange occurs at collection at the day's rate.
+**❓ The Question**
+
+I sent money via Western Union.
+
+The sender pays in dollars and the recipient receives in local currency after a few days.
+
+Is this permitted?
+
+</div>
+
+**The Answer**: 
+
+✅ **Permitted** — because it's a **hawala (transfer), not a currency exchange!**
+
+| Currency Exchange | Hawala (Transfer) |
+|-------------------|-------------------|
+| Sale of money for money | Transfer of debt from one person to another |
+| Taking possession required | Taking possession not required |
+| Sale transaction | Mutual assistance transaction |
+
+Hawala is legally permitted, and the exchange happens at the moment of receipt at the day's rate.
 
 ---
 
-## 💡 Pause and Reflect
+## 💡 Stop and Reflect
+
+<div class="quote-box">
+
+**📜 A Magnificent Prophetic Statement**
 
 > **"Hand to hand"** — The Prophet ﷺ
 
-This simple prophetic phrase carries a great principle in protecting the economy from manipulation and speculative bubbles.
+This simple statement carries a magnificent rule to protect the economy from manipulation and illusory speculation!
 
-Reflect:
+</div>
 
-🔹 How many global economic crises were caused by dealing in debts and forward contracts without real exchange?
+**Reflect with me**:
 
-🔹 When transferring your money, do you ensure the recipient receives the amount immediately?
+🔹 How many global economic crises are caused by credit transactions and futures contracts without real taking of possession?
 
-🔹 If the world adhered to the rule of "hand to hand" in financial transactions, what would the global economy look like?
+🔹 When you transfer your money, do you make sure the recipient receives it immediately?
 
-**Remember:** The Shariah protects wealth from loss and uncertainty before it protects profits.
+🔹 If the world followed the rule of **"hand to hand"** in financial transactions, what would the global economy look like?
+
+**Remember**: Sharia protects **wealth** from loss and uncertainty before protecting **profits**!
 
 ---
 
-*My Lord, increase me in knowledge*`;
+## 🔑 Lesson Summary
+
+\`\`\`
+┌─────────────────────────────────────────────────────────────────────┐
+│              🎯 Summary: Currency Exchange Rules                     │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│  ✅ Currency Exchange = Sale of money for money                     │
+│                                                                      │
+│  ✅ The two fundamental conditions:                                  │
+│     • Taking possession in the session (always)                     │
+│     • Equality (if same type)                                       │
+│                                                                      │
+│  ✅ Paper currencies = Ruling of gold and silver                    │
+│                                                                      │
+│  ✅ Constructive possession is permitted:                            │
+│     • Certified check                                               │
+│     • Instant transfer                                              │
+│     • ATM                                                           │
+│                                                                      │
+│  ✅ Traditional Forex: Generally prohibited                         │
+│                                                                      │
+│  ✅ Hawala: Permitted (it's not currency exchange)                  │
+│                                                                      │
+│  ✅ The golden rule: "Hand to hand"                                 │
+│                                                                      │
+└─────────────────────────────────────────────────────────────────────┘
+\`\`\`
+
+---
+
+*Lord, increase me in knowledge*`;
