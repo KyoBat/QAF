@@ -41,7 +41,7 @@ const content = `
 ### The strongest bond of faith
 
 > **"The strongest bond of faith: loving for Allah and hating for Allah."**
-> — Ahmad, graded good by Al-Albani
+> — Ahmad, graded hasan by Al-Albani (Sahih al-Jami' 2539) — chain disputed but meaning is supported by other texts
 
 ---
 

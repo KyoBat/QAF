@@ -41,7 +41,7 @@ const content = `
 ### Le lien le plus fort de la foi
 
 > **« Le lien le plus fort de la foi : l'amour pour Allah et la haine pour Allah. »**
-> — Ahmad, jugé bon par Al-Albani
+> — Ahmad, jugé hasan par Al-Albani (Sahih al-Jami' 2539) — chaîne discutée mais le sens est soutenu par d'autres textes
 
 ---
 
