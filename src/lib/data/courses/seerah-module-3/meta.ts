@@ -5,7 +5,7 @@
 import { CourseMeta } from '../types'
 
 export const seerahModule3Meta: CourseMeta = {
-  id: 'course-006',
+  id: 'course-026',
   slug: 'seerah-module-3',
   title: {
     ar: 'السيرة النبوية — المدينة والدولة الإسلامية',

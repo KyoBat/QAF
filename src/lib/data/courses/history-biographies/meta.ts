@@ -6,7 +6,7 @@
 import { CourseMeta } from '../types'
 
 export const historyBiographiesMeta: CourseMeta = {
-  id: 'course-013',
+  id: 'course-027',
   slug: 'vies-des-savants',
   title: {
     fr: 'Vies des Savants : Imams et Femmes Juristes',

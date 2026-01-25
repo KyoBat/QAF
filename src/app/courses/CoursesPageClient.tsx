@@ -25,13 +25,8 @@ export function CoursesPageClient({ initialCourses }: CoursesPageClientProps) {
   const [level, setLevel] = useState('')
   const [search, setSearch] = useState('')
 
-  // Debug - à supprimer après
-  console.log('🔍 Filters:', { category, level, search })
-
   // Filtrer les cours
   const filteredCourses = useMemo(() => {
-    console.log('🔄 Filtering with category:', category, 'Total courses:', initialCourses.length)
-    
     return initialCourses.filter(course => {
       // Filtre catégorie
       if (category && course.category !== category) {

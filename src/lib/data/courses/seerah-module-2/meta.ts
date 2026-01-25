@@ -6,7 +6,7 @@
 import { CourseMeta } from '../types'
 
 export const seerahModule2Meta: CourseMeta = {
-  id: 'course-005',
+  id: 'course-025',
   slug: 'seerah-module-2',
   title: {
     fr: 'Seerah — La Révélation à La Mecque',
