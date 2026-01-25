@@ -289,5 +289,5 @@ Ces restrictions légales sont une miséricorde, non une contrainte. Elles prot�
 
 Le divorce sunnite est celui conforme à la Charia : l'homme divorce sa femme d'une seule répudiation pendant une période de pureté sans rapports. Le divorce innovateur est interdit et son auteur pèche, et il prend effet selon la majorité des savants avec le péché. Le musulman est ordonné de suivre la Sunnah en toutes ses affaires, y compris le divorce s'il y est contraint.
 
-Le Prophète ﷺ a dit : **"Allah déteste tout homme et toute femme qui passent d'un mariage à l'autre"** [Rapporté par At-Tabarani]
+Le Prophète ﷺ a dit : **"Allah déteste tout homme et toute femme qui passent d'un mariage à l'autre"** [Rapporté par At-Tabarani — hadith faible selon certains muhaddithun, mais le sens est soutenu par d'autres textes]
 `;
