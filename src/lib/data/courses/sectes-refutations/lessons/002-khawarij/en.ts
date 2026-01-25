@@ -1,189 +1,552 @@
-export const contentEn = `# The Khawarij — Origin and Beliefs
+export const contentEn = `# ⚔️ The Khawarij — The First Sect to Divide the Ummah
 
-## The Emergence of the Khawarij
+> **"They recite the Quran, but it does not go beyond their throats. They pass through the religion as an arrow passes through its prey."**
+> — **The Prophet ﷺ** [Bukhari 5058, Muslim 1066]
 
-### Historical Background
+---
 
-The Khawarij appeared during the reign of the rightly-guided caliph 'Ali ibn Abi Talib رضي الله عنه, after the arbitration incident at the Battle of Siffin (37H).
+## 🎬 Introduction
 
-### The Origin of the Name
+The Khawarij are **the first sect** to divide the Ummah and spill Muslim blood. Their story is an eternal warning against the dangers of religious extremism and hasty excommunication (takfir).
 
-They were called Khawarij (the rebels/seceders) because they revolted against 'Ali رضي الله عنه after he accepted arbitration, proclaiming:
-> "You have made men judge in Allah's religion, there is no judgment except for Allah!"
+They killed **the fourth of the Rightly-Guided Caliphs**, 'Ali ibn Abi Talib رضي الله عنه. Their ideology has reappeared throughout history in various forms, even in our present age.
 
-### Their First Slogan
-- **"There is no judgment except for Allah"** — A word of truth intended for falsehood
-- 'Ali رضي الله عنه said: "It is a word of truth intended for falsehood. Yes, there is no judgment except for Allah, but these people say: there is no authority except for Allah, while people need a leader."
+<!-- TIMELINE:khawarij-history -->
 
-## The Names of the Khawarij
+---
 
-### Various Designations
-| Name | Reason |
-|------|--------|
-| Khawarij | For their rebellion against 'Ali رضي الله عنه |
-| Muhakkimah | For raising the slogan "No judgment except for Allah" |
-| Haruriyyah | Named after Harura' where they first gathered |
-| Shurat | Because they claimed to have sold their souls to Allah |
-| Ahl an-Nahrawan | Named after the Battle of Nahrawan |
+## 📜 Part 1: Historical Context
 
-## The Foundational Beliefs of the Khawarij
+### The Civil Strife and Arbitration
 
-### 1. Excommunicating the Committer of Major Sins
+| Event | Date | Description |
+|-------|------|-------------|
+| **Murder of 'Uthman** | 35 AH | Beginning of the Great Fitnah |
+| **Battle of the Camel** | 36 AH | 'Ali vs. 'Aisha, Talha, and Zubayr |
+| **Battle of Siffin** | 37 AH | 'Ali vs. Mu'awiya — 70,000 dead |
+| **The Arbitration** | 37 AH | Agreement between both parties |
+| **Secession of the Khawarij** | 37 AH | 12,000 men break away from 'Ali |
+| **Battle of Nahrawan** | 38 AH | 'Ali crushes the Khawarij |
+| **Assassination of 'Ali** | 40 AH | Ibn Muljam kills him at Fajr prayer |
 
-This is their greatest principle:
-- Whoever commits a major sin becomes a disbeliever and exits Islam
-- They make no distinction between disbelief and disobedience
-- They judge him to be eternally in Hellfire
+### The Fateful Night of Siffin
 
-**Refutation:**
-> Allah تعالى says: {Indeed, Allah does not forgive association with Him, but He forgives what is less than that for whom He wills} [An-Nisa: 48]
+<div class="scene-box">
 
-### 2. Rebellion Against the Muslim Ruler
+**🎭 Scene: 'Amr ibn al-'As's Ruse — Battle of Siffin, 37 AH**
 
-- They consider it obligatory to revolt against an unjust ruler
-- They don't require capability or public interest
-- They shed Muslim blood because of this belief
+*'Ali's armies are on the verge of victory. Mu'awiya's army is retreating.*
 
-**Refutation:**
-> The Prophet ﷺ said: "Whoever leaves obedience and separates from the group then dies, dies a death of Jahiliyyah." [Reported by Muslim]
+**'Amr ibn al-'As** *(advising Mu'awiya)*: "Order your men to raise the Qurans on their spear tips and cry out: 'The Book of Allah between us!'"
 
-### 3. Excommunicating the Companions
+*500 Qurans are raised. 'Ali's army hesitates.*
 
-- They excommunicated 'Ali, Mu'awiya and those with them رضي الله عنهم
-- They excommunicated 'Uthman رضي الله عنه and his killers
-- They made the blood of the Companions lawful
+**Voices in 'Ali's army**: "This is the Book of Allah! How can we fight a people who call to the Quran?"
 
-### 4. Rejection of Consensus
+**'Ali** *(with his insight)*: "O servants of Allah, continue on your truth and your fighting! It is a trick!"
 
-- They don't accept the consensus of the Ummah as legal proof
-- They take texts at face value without deep understanding
+**Future Khawarij** *(threatening)*: "No! Accept the arbitration or we will do to you what we did to 'Uthman!"
 
-## Characteristics of the Khawarij in the Sunnah
+*'Ali was forced to accept arbitration.*
 
-### The Prophetic Description
+</div>
 
-Abu Sa'id al-Khudri رضي الله عنه reported that the Messenger of Allah ﷺ said:
+---
 
-> "A people will emerge from the East who will recite the Quran but it will not go beyond their throats. They will pass through the religion as an arrow passes through its prey, never to return to it until the arrow returns to its notch. It was asked: what is their sign? He said: their sign is shaved heads." [Agreed upon]
+## 🔥 Part 2: The Birth of the Khawarij
 
-### Their Characteristics
-1. **Enthusiasm without knowledge** — They recite the Quran but it doesn't pass their throats
-2. **Literalism in understanding** — They take the apparent meanings of texts
-3. **Excess in excommunication** — They excommunicate Muslims
-4. **Youth and inexperience** — "Foolish minds, young in age"
-5. **Violence and aggression** — Shedding blood based on doubts
+### The Revolt
 
-## Branches of the Khawarij
+<div class="scene-box">
 
-### Main Branches
-1. **The First Muhakkimah** — The origin of the Khawarij
-2. **Azariqah** — Followers of Nafi' ibn al-Azraq (the most extreme)
-3. **Najdat** — Followers of Najdah ibn 'Amir
-4. **Sufriyyah** — Followers of Ziyad ibn al-Asfar
-5. **Ibadiyyah** — Followers of 'Abdullah ibn Ibad (closest to the Sunnah)
+**🎭 Scene: "There is no judgment except for Allah!" — After the Arbitration, 37 AH**
 
-## The Position of Ahl as-Sunnah Towards the Khawarij
+*'Ali returns to Kufa after accepting arbitration. Suddenly, 12,000 men break away from his army.*
 
-### The Ruling on Them
-- The majority of Ahl as-Sunnah: **they are sinful innovators but not disbelievers**
-- Some scholars excommunicated them due to their excommunication of the Companions
+**The Khawarij** *(shouting)*: "LĀ ḤUKMA ILLĀ LILLĀH! You made men judge in Allah's religion!"
+
+**'Ali** *(calmly)*: "A word of truth by which falsehood is intended. Yes, there is no judgment except for Allah, but these people say: there is no authority except for Allah. And people must have a leader, whether righteous or wicked."
+
+*They withdrew to Harura', refusing any dialogue.*
+
+</div>
+
+### Their Many Names
+
+| Name | Origin | Meaning |
+|------|--------|---------|
+| **Khawarij** | kharaja (to exit) | Those who seceded from 'Ali |
+| **Muhakkimah** | ḥakkama (to arbitrate) | Their slogan "LĀ ḤUKMA ILLĀ LILLĀH" |
+| **Haruriyyah** | Harura' | Their first gathering place |
+| **Shurat** | sharā (to sell) | They claimed to have "sold themselves to Allah" |
+| **Ahl an-Nahrawan** | Nahrawan | Place of their defeat against 'Ali |
+| **Mariqah** | maraqa (to pass through) | From the hadith: "They pass through the religion" |
+
+---
+
+## 📚 Part 3: Their Core Beliefs
+
+### 1. Excommunication of Major Sin Committers
+
+| Khawarij Belief | Ahl as-Sunnah Position |
+|-----------------|------------------------|
+| Major sin = disbelief | Major sin ≠ disbelief (except with declaring it lawful) |
+| The sinner is a disbeliever | The sinner is a sinful Muslim |
+| Eternally in Hell | Under Allah's will |
+| Must be killed if he doesn't repent | Called to repentance, judgment is for the judge |
+
+<div class="quote-box">
+
+**The Quranic Response:**
+
+﴾ Indeed, Allah does not forgive association with Him, but He forgives what is less than that for whom He wills ﴿
+
+**[An-Nisa: 48]**
+
+</div>
+
+### 2. Armed Rebellion
+
+| Their Position | Ahl as-Sunnah Position |
+|----------------|------------------------|
+| Obligatory against the unjust ruler | Prohibited except under strict conditions |
+| No need for capability | Capability is a condition |
+| No assessment of consequences | Avoid greater harm |
+
+<div class="quote-box">
+
+**The Prophet ﷺ said:**
+
+**"Whoever leaves obedience and separates from the group, then dies, dies a death of Jahiliyyah (pre-Islamic ignorance)."**
+
+**[Muslim 1848]**
+
+</div>
+
+### 3. Excommunication of the Companions
+
+\`\`\`
+Companions Excommunicated by the Khawarij
+├── 'Ali ibn Abi Talib رضي الله عنه — for accepting arbitration
+├── Mu'awiya ibn Abi Sufyan رضي الله عنه — for opposing 'Ali
+├── 'Amr ibn al-'As رضي الله عنه — Mu'awiya's arbiter
+├── Abu Musa al-Ash'ari رضي الله عنه — 'Ali's arbiter
+├── 'Uthman ibn 'Affan رضي الله عنه — accused of favoritism
+└── All who accepted arbitration
+\`\`\`
+
+### 4. Extreme Literalism
+
+| Khawarij Method | Ahl as-Sunnah Method |
+|-----------------|----------------------|
+| Literal text only | Text + Context + Objectives |
+| No nuances | Distinction between fundamentals and branches |
+| Rejection of Companions' ijtihad | Respect for their understanding |
+
+---
+
+## ⚡ Part 4: The Prophetic Description
+
+### Hadiths About the Khawarij
+
+The Prophet ﷺ described the Khawarij with astonishing precision, **years before they appeared**:
+
+| Hadith | Source | Characteristic |
+|--------|--------|----------------|
+| "They recite the Quran but it does not go beyond their throats" | Bukhari/Muslim | Worship without understanding |
+| "They pass through the religion as an arrow passes through its prey" | Bukhari/Muslim | Swift exit from Islam |
+| "Foolish minds, young in age" | Bukhari/Muslim | Youth and hastiness |
+| "Their mark is shaved heads" | Bukhari/Muslim | Distinguishing sign |
+| "They speak the best words of creation" | Bukhari/Muslim | Good speech, bad actions |
+| "They kill the people of Islam and leave the idol worshippers" | Bukhari/Muslim | Target: Muslims |
+
+<div class="scene-box">
+
+**🎭 Scene: The First Kharijite — The Prophetic Era**
+
+*The Prophet ﷺ is distributing spoils. A man approaches.*
+
+**Dhu al-Khuwaysira**: "O Muhammad, be just!"
+
+**The Prophet ﷺ** *(astonished)*: "Woe to you! Who would be just if I am not just? You are indeed doomed and lost if I am not just."
+
+**'Umar** *(angrily)*: "O Messenger of Allah, permit me to strike his neck!"
+
+**The Prophet ﷺ**: "Leave him. He has companions whom one of you would belittle his prayer compared to their prayer, and his fasting compared to their fasting. They recite the Quran but it does not go beyond their throats. They pass through the religion as an arrow passes through its prey."
+
+*[Bukhari 3610, Muslim 1064]*
+
+</div>
+
+### Characteristics Table
+
+\`\`\`
+Characteristics of the Khawarij (from the Prophet's ﷺ hadiths)
+├── 📖 Religious Appearance
+│   ├── Abundant Quran recitation
+│   ├── Much prayer and fasting
+│   └── Eloquent speech
+│
+├── ❌ Spiritual Reality
+│   ├── The Quran does not go beyond their throats
+│   ├── No deep understanding
+│   └── Worship without knowledge
+│
+├── 🔥 Behavior
+│   ├── Easy takfir (excommunication)
+│   ├── Violence against Muslims
+│   └── Leniency with disbelievers
+│
+└── 👤 Features
+    ├── Young age
+    ├── Foolish minds
+    └── New to Islam or practicing
+\`\`\`
+
+---
+
+## 🗡️ Part 5: Branches of the Khawarij
+
+### Historical Classification
+
+| Sect | Founder | Distinctive Feature | Extremism Level |
+|------|---------|---------------------|-----------------|
+| **Muhakkimah** | The first | Origin of the Khawarij | ⚠️⚠️⚠️ |
+| **Azariqah** | Nafi' ibn al-Azraq (d. 65H) | Kill women and children of dissenters | 🔴🔴🔴🔴🔴 |
+| **Najdat** | Najdah ibn 'Amir (d. 69H) | Permit taqiyyah | ⚠️⚠️⚠️ |
+| **Sufriyyah** | Ziyad ibn al-Asfar | Less extreme than Azariqah | ⚠️⚠️ |
+| **Ibadiyyah** | 'Abdullah ibn Ibad (d. ~86H) | Closest to Sunnah | ⚠️ |
+
+### The Azariqah: Most Extreme Khawarij
+
+<div class="scene-box">
+
+**🎭 Scene: Terror of the Azariqah — Ahwaz, ~65 AH**
+
+*The Azariqah attack a town. A Muslim man flees with his family.*
+
+**Azraqi commander**: "Stop him! Test him!"
+
+**Azraqi** *(to the man)*: "What is your position on Abu Bakr and 'Umar?"
+
+**The man**: "I love them! They are the best people after the Prophet ﷺ!"
+
+**Azraqi**: "And 'Uthman and 'Ali?"
+
+**The man**: "I love them too!"
+
+**Azraqi**: "He loves the apostates! Kill him and his family!"
+
+*They killed the man, his wife, and his children.*
+
+</div>
+
+The Azariqah believed:
+- All Muslims outside their group are disbelievers
+- Their land is "territory of disbelief"
+- It is permissible to kill their women and children
+- The child of a "disbeliever" is in Hell
+
+### The Ibadiyyah: The Mildest
+
+| Difference | Ibadiyyah | Other Khawarij |
+|------------|-----------|----------------|
+| **Ruling on dissenters** | Ungrateful disbelievers, not polytheists | Polytheists |
+| **Marriage to them** | Permissible | Prohibited |
+| **Their slaughtered animals** | Lawful | Unlawful |
+| **Armed rebellion** | Not obligatory | Obligatory |
+
+**Current presence**: Oman, Zanzibar, Libya (Nafusa Mountain), Algeria (Mzab)
+
+---
+
+## 📖 Part 6: Ibn 'Abbas's Historic Debate
+
+### The Context
+
+When 12,000 men broke away from 'Ali, he decided to send **the most knowledgeable of the Ummah** to bring them back to the truth.
+
+<div class="scene-box">
+
+**🎭 Scene: Ibn 'Abbas Before the Khawarij — Harura', 37 AH**
+
+*Ibn 'Abbas رضي الله عنهما arrives at the Khawarij camp. He wears his finest clothes.*
+
+**The Khawarij** *(surprised)*: "Welcome, O Ibn 'Abbas! What brings you?"
+
+**Ibn 'Abbas**: "I come to you from the Companions of the Messenger of Allah ﷺ — the Muhajirun and Ansar — and from the Prophet's cousin. Upon them the Quran was revealed, and they are more knowledgeable of its interpretation than you."
+
+**The Khawarij**: "Speak, we will listen to you."
+
+**Ibn 'Abbas**: "What do you hold against the Commander of the Faithful?"
+
+</div>
+
+### The Three Accusations and Their Refutation
+
+| Accusation | Ibn 'Abbas's Response |
+|------------|----------------------|
+| **1. Arbitration by men** | ﴾Let two just persons among you judge﴿ [Al-Ma'idah: 95] — If arbitration is allowed for a rabbit, is it not allowed for the blood of Muslims? |
+| **2. No spoils or captives** | Would you take 'Aisha as a captive? She is your mother by the Quran! |
+| **3. Erased the title "Commander of the Faithful"** | The Prophet ﷺ erased "Messenger of Allah" at Hudaybiyyah. Did he leave prophethood? |
+
+### The Result
+
+<div class="quote-box">
+
+**Result of the Debate:**
+
+- ✅ **2,000** returned to the truth
+- ✅ **4,000** hesitated then returned
+- ❌ **6,000** persisted in their error
+
+**The lesson**: Dialogue with evidence can bring back half the misguided!
+
+</div>
+
+---
+
+## 💀 Part 7: The Assassination of 'Ali
+
+### The Conspiracy
+
+<div class="scene-box">
+
+**🎭 Scene: The Assassins' Pact — Mecca, 40 AH**
+
+*Three Khawarij meet during the Hajj season.*
+
+**'Abd ar-Rahman ibn Muljam**: "What if we killed these three — 'Ali, Mu'awiya, and 'Amr — who have corrupted the affairs of the people?"
+
+**Al-Burak ibn 'Abdullah**: "I will take care of Mu'awiya."
+
+**'Amr ibn Bakr**: "And I will take care of 'Amr ibn al-'As."
+
+**Ibn Muljam**: "And I will take care of 'Ali. Our appointment is the 17th of Ramadan — we strike all at once."
+
+*They dipped their swords in poison.*
+
+</div>
+
+### The Night of 17th Ramadan 40 AH
+
+<div class="scene-box">
+
+**🎭 Scene: The Martyrdom of 'Ali — Kufa Mosque, Dawn of 17th Ramadan 40 AH**
+
+*'Ali رضي الله عنه comes out for Fajr prayer. Ibn Muljam awaits him.*
+
+**'Ali** *(to the people)*: "The prayer, the prayer!"
+
+*Ibn Muljam strikes 'Ali with his poisoned sword on his head.*
+
+**Ibn Muljam**: "The judgment belongs to Allah, not to you or your companions!"
+
+**'Ali** *(mortally wounded)*: "Do not let the man escape you!"
+
+*He was caught. 'Ali lived three days then passed away. Before his death, he said:*
+
+**'Ali**: "Feed him and give him drink. If I live, I am the guardian of my blood: if I wish, I will pardon, and if I wish, I will take retaliation. And if I die, kill him as he killed me."
+
+</div>
+
+### The Fate of the Three Assassins
+
+| Assassin | Target | Result |
+|----------|--------|--------|
+| **Ibn Muljam** | 'Ali | ✅ Succeeded — 'Ali died a martyr |
+| **Al-Burak** | Mu'awiya | ⚠️ Wounded him but didn't kill him |
+| **'Amr ibn Bakr** | 'Amr ibn al-'As | ❌ Killed someone else by mistake |
+
+---
+
+## ⚖️ Part 8: The Ahl as-Sunnah Ruling
+
+### Are They Disbelievers?
+
+| Position | Proponents | Evidence |
+|----------|------------|----------|
+| **Innovators, not disbelievers** | Majority of Ahl as-Sunnah | 'Ali fought them but didn't treat them as apostates |
+| **Disbelievers** | Some scholars | Their takfir of the Companions |
+
+<div class="quote-box">
+
+**Imam Ahmad said:**
+
+**"The Khawarij are evil people; I know no people more evil than them."**
+
+*But he did not excommunicate them.*
+
+</div>
 
 ### How to Deal with Them
-1. Invite them with wisdom and good admonition
-2. Establish proof against them
-3. Fight them if they shed blood and violate sacred limits
 
-## Lessons Learned
-
-1. **The danger of extremism** — It leads to deviation
-2. **The importance of religious knowledge** — Enthusiasm alone is not enough
-3. **Caution in excommunication** — We don't excommunicate for every sin
-4. **Understanding objectives** — No rigidity on apparent meanings
-
----
-
-## 📖 Stories from the Salaf: Ibn 'Abbas's Debate with the Khawarij
-
-When the Khawarij rebelled against 'Ali رضي الله عنه, he sent **'Abdullah ibn 'Abbas** رضي الله عنهما to debate them.
-
-Ibn 'Abbas asked them: **"What do you have against the Commander of the Faithful?"**
-
-**They said: Three things:**
-1. He made men judge in Allah's religion
-2. He did not take the women of those who fought as captives nor their wealth as spoils
-3. He erased the title "Commander of the Faithful" from himself in the peace treaty
-
-**Ibn 'Abbas answered:**
-
-**On the first**: Allah تعالى says regarding hunting: {Let two just persons among you judge} So if arbitration is allowed for a rabbit, how not for the blood of Muslims?
-
-**On the second**: Would you take 'Aisha, the Mother of the Believers, as a captive? She is your mother by the text of the Quran!
-
-**On the third**: The Prophet ﷺ himself erased "Messenger of Allah" in the Treaty of Hudaybiyyah. Did he leave prophethood?
-
-**Two thousand of them returned!** The rest persisted in their falsehood.
-
-**Lesson learned**: Dialogue with evidence and proof is more effective than the sword.
+\`\`\`
+Methodology of Dealing with the Khawarij
+├── 1️⃣ Dialogue First
+│   ├── Send scholars (like Ibn 'Abbas)
+│   ├── Refute their doubts
+│   └── Give them time to return
+│
+├── 2️⃣ If They Persist
+│   ├── Cut ties
+│   ├── Warn against them
+│   └── Isolate them
+│
+└── 3️⃣ If They Shed Blood
+    ├── Fighting them becomes obligatory
+    ├── Protection of Muslims
+    └── As 'Ali did at Nahrawan
+\`\`\`
 
 ---
 
-## 🎯 Contemporary Cases: Do You Know Today's Khawarij?
+## 🎯 Part 9: Contemporary Case Studies
 
-### Case 1: Excommunication for Sin
-**A young man** says: "Whoever doesn't pray is a disbeliever apostate who must be killed immediately!"
+### Case 1: Easy Takfir
 
-**Question**: Is this the methodology of Ahl as-Sunnah?
+<div class="scene-box">
 
-**Answer**:
-- ⚠️ The one who abandons prayer is a matter of scholarly disagreement
-- ❌ **However** judging a specific individual and executing the punishment is not for ordinary people
-- ✅ This is the jurisdiction of the Islamic judiciary after calling for repentance
+**🎭 Scene: The Young "Scholar" — Local Mosque, Today**
 
----
+**Young man**: "The one who abandons prayer is a disbeliever! He must be killed!"
 
-### Case 2: Rebellion Against the Ruler
-**A group** says: "This ruler is unjust, we must rebel against him with weapons!"
+**Wise sheikh**: "And who gave you the right to judge and execute?"
 
-**Question**: What is the position of Ahl as-Sunnah?
+**Young man**: "The hadith says the one who abandons prayer is a disbeliever!"
 
-**Answer**:
-- ❌ **Armed rebellion**: Prohibited according to the majority of Ahl as-Sunnah except with three conditions:
-  1. Clear disbelief for which we have proof from Allah
-  2. Capability to change
-  3. That it doesn't lead to greater harm
+**Sheikh**: "And the conditions? And the preventive factors? And the competent authority? Do you think you know more than the Companions who differed on this issue?"
 
-> The Prophet ﷺ said: **"You hear and obey, even if your back is beaten and your wealth is taken"**
+</div>
+
+**Ruling**:
+- ⚠️ Legitimate scholarly disagreement on the ruling of one who abandons prayer
+- ❌ Judgment and execution **is not for individuals**
+- ✅ This is the role of **the judge** after establishing the proof
 
 ---
 
-### Case 3: "I Only Follow the Quran!"
-**A person** says: "I am Quran-only, I don't believe in the Sunnah!"
+### Case 2: Armed Rebellion
 
-**Question**: Is this an extension of Khawarij thought?
+**Situation**: A group says: "This ruler is corrupt! Let us take up arms!"
 
-**Answer**:
-- ✅ The Khawarij began by rejecting the Sunnah and understanding the Quran literally
-- ✅ This thinking leads to the same results: extremism or negligence
-- Allah تعالى says: {And whatever the Messenger gives you, take it; and whatever he forbids you, abstain from it}
+| Condition | Explanation |
+|-----------|-------------|
+| **Clear disbelief** | Not just oppression or sin, but **explicit disbelief** |
+| **Proof from Allah** | Explicit text, not ijtihad |
+| **Real capability** | Ability to change without destruction |
+| **No greater harm** | Civil war, chaos, more victims |
+
+<div class="quote-box">
+
+**The Prophet ﷺ said:**
+
+**"You hear and obey, even if your back is beaten and your wealth is taken."**
+
+**[Muslim 1847]**
+
+</div>
 
 ---
 
-## 💡 Pause and Reflect
+### Case 3: "Quranists"
 
-**Personal question**:
+**Situation**: "I am a Quranist, I reject hadiths!"
 
-What is the difference between:
-- **Praiseworthy zeal** for the religion
-- **Blameworthy extremism** and excess?
+| Symptom | Connection to Khawarij |
+|---------|------------------------|
+| Rejection of Sunnah | Khawarij took the Quran without prophetic understanding |
+| Literal interpretation | Same methodological errors |
+| Claim of purity | Same spiritual arrogance |
 
-**Reflect:**
-- The Companions were the most zealous for the religion
-- Yet they did not excommunicate Muslims nor make their blood lawful
-- **The difference**: Knowledge, mercy, and wisdom
+**Ruling**: ❌ This is a revival of the Khawarij methodology. The Quran commands following the Prophet ﷺ.
 
-> The Prophet ﷺ said about the Khawarij: **"They kill the people of Islam and leave the idol worshippers"**
+---
 
-Have you seen today someone who is harsh with his Muslim brothers yet lenient with the enemies of the religion?
+### Case 4: Contemporary Extremist Groups
+
+**Question**: Are today's terrorist groups Khawarij?
+
+| Characteristic | Historical Khawarij | Contemporary Groups |
+|----------------|---------------------|---------------------|
+| Takfir of Muslims | ✅ | ✅ |
+| Killing Muslims | ✅ | ✅ |
+| Armed rebellion | ✅ | ✅ |
+| Youth and lack of knowledge | ✅ | ✅ |
+| Good speech | ✅ | ✅ |
+| Leaving the true enemies of the religion | ✅ | ✅ |
+
+<div class="quote-box">
+
+**The Prophet ﷺ said:**
+
+**"They kill the people of Islam and leave the idol worshippers."**
+
+**[Bukhari 3344]**
+
+</div>
+
+---
+
+## 💡 Pause for Reflection
+
+### The Difference Between Zeal and Extremism
+
+| Praiseworthy Zeal | Blameworthy Excess |
+|-------------------|-------------------|
+| Based on knowledge | Based on emotion |
+| Observes nuances | Black and white only |
+| Mercy toward Muslims | Harshness toward Muslims |
+| Wisdom in action | Hastiness and violence |
+| Following scholars | Claiming to know more |
+| Patience under oppression | Immediate revolt |
+
+### Personal Questions
+
+- Do you tend to excommunicate easily?
+- Are you harsher on Muslims than on non-Muslims?
+- Do you study before you judge?
+- Do you consult scholars before you act?
+
+---
+
+## 📊 Lesson Summary
+
+| Concept | Definition |
+|---------|------------|
+| **The Khawarij** | First sect to divide the Ummah (37 AH) |
+| **Origin** | Rejection of Siffin arbitration |
+| **Core belief** | Major sin = disbelief |
+| **Characteristics** | Worship without knowledge, easy takfir, violence |
+| **Branches** | Azariqah (extreme), Ibadiyyah (moderate) |
+| **Ruling** | Innovators, some say disbelievers |
+| **Dealing with them** | Dialogue first, fight if necessary |
+
+---
+
+## 🎯 Conclusion
+
+<div class="quote-box">
+
+**"The Khawarij are the dogs of the Hellfire."**
+
+— **The Prophet ﷺ** [Ibn Majah 176, Authentic]
+
+</div>
+
+### Eternal Lessons
+
+- ✅ **Extremism leads to deviation**, even with good intentions
+- ✅ **Knowledge before action** — enthusiasm alone is not enough
+- ✅ **Takfir has conditions** — we don't excommunicate by whim
+- ✅ **Dialogue before fighting** — like Ibn 'Abbas
+- ✅ **Beware of good speech** — look at the actions
+
+---
+
+**Next lesson: The Murji'ah — The Other Extreme in Defining Faith.**
+
+And Allah is the Granter of success and the Guide to the right path
 
 ---
 

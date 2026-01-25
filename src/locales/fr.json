@@ -54,6 +54,59 @@
         "title": "Trois langues",
         "description": "Contenu complet en arabe, français et anglais"
       }
+    },
+    "testimonials": {
+      "title": "Ce que disent nos étudiants",
+      "subtitle": "Des milliers d'étudiants ont déjà transformé leur apprentissage"
+    },
+    "whyRzi": {
+      "title": "Pourquoi choisir Rabbi Zidni Ilma ?",
+      "subtitle": "Une plateforme pensée pour votre réussite spirituelle",
+      "mission": {
+        "title": "Notre Mission",
+        "description": "Rendre le savoir islamique authentique accessible à tous, gratuitement, dans un format moderne et pédagogique."
+      },
+      "differentiators": {
+        "authentic": {
+          "title": "Sources Vérifiées",
+          "description": "Chaque hadith, verset et information est sourcé et vérifié par des savants"
+        },
+        "progressive": {
+          "title": "Apprentissage Progressif",
+          "description": "Du niveau débutant à avancé avec un parcours structuré et adapté"
+        },
+        "community": {
+          "title": "Communauté Active",
+          "description": "Rejoignez des milliers d'étudiants motivés dans leur quête de science"
+        },
+        "lifetime": {
+          "title": "Accès à Vie",
+          "description": "Tous les cours restent accessibles gratuitement, sans limite de temps"
+        }
+      },
+      "cta": "Commencer mon apprentissage"
+    },
+    "value": {
+      "authentic": {
+        "title": "Contenu vérifié",
+        "description": "Sources authentiques et références"
+      },
+      "accessible": {
+        "title": "24/7 sans pub",
+        "description": "Sur tous vos appareils"
+      },
+      "community": {
+        "title": "Communauté",
+        "description": "Milliers d'étudiants motivés"
+      },
+      "multilingual": {
+        "title": "3 Langues",
+        "description": "Arabe, français, anglais"
+      },
+      "lifetime": {
+        "title": "Accès à vie",
+        "description": "Sans limite de temps"
+      }
     }
   },
   "courses": {
@@ -189,6 +242,12 @@
     "success": "Inscrit !",
     "errorInvalid": "Veuillez entrer une adresse email valide",
     "errorGeneric": "Une erreur est survenue. Réessayez.",
-    "privacy": "Pas de spam. 1 email/semaine max. Désabonnement en un clic."
+    "privacy": "Pas de spam. 1 email/semaine max. Désabonnement en un clic.",
+    "home": {
+      "title": "Ne manquez aucun nouveau cours",
+      "subtitle": "Rejoignez notre communauté et recevez du contenu exclusif",
+      "incentive": "🎁 Guide gratuit offert à l'inscription",
+      "socialProof": "Rejoignez 2,500+ étudiants"
+    }
   }
 }

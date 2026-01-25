@@ -1,6 +1,16 @@
 import { coursesData, getFeaturedCourses } from '@/lib/data/courses/index'
 import HomePageClient from './HomePageClient'
 
+// Fonction pour mélanger aléatoirement un tableau (Fisher-Yates shuffle)
+function shuffleArray<T>(array: T[]): T[] {
+  const shuffled = [...array]
+  for (let i = shuffled.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]]
+  }
+  return shuffled
+}
+
 // Server Component - pas de 'use client', calculs côté serveur
 export default function HomePage() {
   // Récupération des cours publiés (côté serveur)
@@ -10,9 +20,11 @@ export default function HomePage() {
   const totalCourses = allCourses.length
   const totalLessons = allCourses.reduce((acc, course) => acc + course.lessons.length, 0)
   
-  // Cours à la une
-  const featuredCourses = getFeaturedCourses()
-  const featuredCourse = featuredCourses[0] || allCourses[0] || null
+  // Cours à la une (top 3) - mélangés aléatoirement
+  const allFeaturedCourses = getFeaturedCourses()
+  const shuffledFeatured = shuffleArray(allFeaturedCourses)
+  const featuredCourses = shuffledFeatured.slice(0, 3)
+  const fallbackCourses = featuredCourses.length > 0 ? featuredCourses : shuffleArray(allCourses).slice(0, 3)
 
   // Nombre de cours par catégorie
   const coursesPerCategory: Record<string, number> = {}
@@ -22,7 +34,7 @@ export default function HomePage() {
 
   return (
     <HomePageClient 
-      featuredCourse={featuredCourse}
+      featuredCourses={fallbackCourses}
       totalCourses={totalCourses}
       totalLessons={totalLessons}
       coursesPerCategory={coursesPerCategory}

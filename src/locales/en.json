@@ -54,6 +54,59 @@
         "title": "Three Languages",
         "description": "Full content in Arabic, French and English"
       }
+    },
+    "testimonials": {
+      "title": "What Our Students Say",
+      "subtitle": "Thousands of students have already transformed their learning"
+    },
+    "whyRzi": {
+      "title": "Why Choose Rabbi Zidni Ilma?",
+      "subtitle": "A platform designed for your spiritual success",
+      "mission": {
+        "title": "Our Mission",
+        "description": "Make authentic Islamic knowledge accessible to everyone, for free, in a modern and educational format."
+      },
+      "differentiators": {
+        "authentic": {
+          "title": "Verified Sources",
+          "description": "Every hadith, verse and information is sourced and verified by scholars"
+        },
+        "progressive": {
+          "title": "Progressive Learning",
+          "description": "From beginner to advanced with a structured and adapted curriculum"
+        },
+        "community": {
+          "title": "Active Community",
+          "description": "Join thousands of motivated students in their quest for knowledge"
+        },
+        "lifetime": {
+          "title": "Lifetime Access",
+          "description": "All courses remain freely accessible, with no time limit"
+        }
+      },
+      "cta": "Start My Learning Journey"
+    },
+    "value": {
+      "authentic": {
+        "title": "Verified Content",
+        "description": "Authentic sources & references"
+      },
+      "accessible": {
+        "title": "24/7 Ad-Free",
+        "description": "On all your devices"
+      },
+      "community": {
+        "title": "Community",
+        "description": "Thousands of motivated students"
+      },
+      "multilingual": {
+        "title": "3 Languages",
+        "description": "Arabic, French, English"
+      },
+      "lifetime": {
+        "title": "Lifetime Access",
+        "description": "No time limit"
+      }
     }
   },
   "courses": {
@@ -189,6 +242,12 @@
     "success": "Subscribed!",
     "errorInvalid": "Please enter a valid email address",
     "errorGeneric": "An error occurred. Please try again.",
-    "privacy": "No spam. 1 email/week max. One-click unsubscribe."
+    "privacy": "No spam. 1 email/week max. Unsubscribe anytime.",
+    "home": {
+      "title": "Never Miss a New Course",
+      "subtitle": "Join our community and receive exclusive content",
+      "incentive": "🎁 Free guide offered upon registration",
+      "socialProof": "Join 2,500+ students"
+    }
   }
 }

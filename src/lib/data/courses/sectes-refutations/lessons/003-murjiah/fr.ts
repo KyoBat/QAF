@@ -1,189 +1,510 @@
-export const contentFr = `# Les Murji'ah — Croyance et Réfutation
+export const contentFr = `# ⚖️ Les Murji'ah — L'Autre Extrême dans la Définition de la Foi
 
-## Définition des Murji'ah
+> **« La foi comporte soixante-dix et quelques branches, la plus élevée est la parole "La ilaha illa Allah", et la plus basse est d'écarter un obstacle du chemin. »**
+> — **Le Prophète ﷺ** [Al-Bukhari 9, Muslim 35]
 
-### Étymologie
-Al-Irja' : Le report/retardement, du verset : {Ils dirent : Reporte-le ainsi que son frère} [Ash-Shu'ara : 36]
+---
 
-### Terminologie
-Ce sont ceux qui ont reporté les actes de la foi, en disant : la foi est seulement la croyance ou la parole, et les actes n'en font pas partie.
+## 🎬 Introduction
 
-## L'émergence du Murji'isme
+Si les Khawarij ont excommunié les musulmans pour leurs péchés, les **Murji'ah** sont tombés dans l'extrême opposé : ils ont dit que **les actes ne font pas partie de la foi**, et que le pécheur a une foi parfaite comme celle des anges !
 
-### Le contexte historique
-Le Murji'isme est apparu en réaction à l'excès des Khawarij dans l'excommunication des pécheurs :
-- Les Khawarij : tout péché est mécréance
-- Les Murji'ah : aucun péché ne nuit à la foi
+Cette déviation, plus subtile que celle des Khawarij, a eu un **impact dévastateur** sur la pratique religieuse des musulmans à travers les siècles.
 
-### Le premier à professer le Murji'isme
-Il y a divergence sur ce point, mais le plus probable est qu'il est apparu à la fin du premier siècle hégirien.
+<!-- TIMELINE:murjiah-history -->
 
-## Les types de Murji'isme
+---
 
-### 1. Le Murji'isme des Jahmiyyah et des Asha'irah
-| École | Définition de la foi |
-|-------|---------------------|
-| Jahmiyyah | La foi est seulement la connaissance |
-| Asha'irah | La foi est seulement la croyance du cœur |
+## 📜 Partie 1 : Définition et Origine
 
-### 2. Le Murji'isme des Karramiyyah
-La foi est seulement la parole de la langue, même si la personne est hypocrite dans son cœur !
+### Étymologie du Mot
 
-### 3. Le Murji'isme des juristes (Murji'at al-Fuqaha')
-La foi : la parole de la langue et la croyance du cœur, et les actes sont une condition de perfection, non de validité.
-> Parmi eux : Hammad ibn Abi Sulayman, le maître d'Abu Hanifa, et Abu Hanifa lui-même.
+| Terme | Racine | Signification |
+|-------|--------|---------------|
+| **Murji'ah** | أَرْجَأَ (irja') | Reporter, retarder, différer |
+| **Verset source** | ﴿قَالُوا أَرْجِهْ وَأَخَاهُ﴾ | « Ils dirent : Reporte-le (Musa) ainsi que son frère » [Ash-Shu'ara : 36] |
+| **Sens appliqué** | Ils ont « reporté » les actes | Les actes ne font pas partie de la foi |
 
-## Les fondements de la croyance des Murji'ah
+### Le Contexte d'Émergence
 
-### 1. Exclure les actes de la foi
-- Les actes ne sont pas un pilier de la foi
-- Celui qui abandonne totalement les actes est un croyant à foi parfaite selon leurs extrémistes
+<div class="scene-box">
 
-### 2. La foi n'augmente ni ne diminue
-- La foi du plus pervers des gens égale celle de Jibril et Mika'il !
-- Pas de différence entre les croyants dans la foi
+**🎭 SCÈNE : La Réaction aux Khawarij — Kufa, Fin du 1er Siècle H**
 
-### 3. Aucun péché ne nuit à la foi
-- C'est l'avis de leurs extrémistes
-- Les désobéissances n'ont aucun effet sur la foi
+*Des savants discutent du chaos causé par les Khawarij.*
 
-## La réfutation des Murji'ah
+**Premier savant** : « Les Khawarij ont rendu licite le sang des musulmans à cause de leurs péchés. C'est une catastrophe ! »
 
-### Du Coran
+**Deuxième savant** : « Peut-être que la solution est de dire que les péchés n'affectent pas la foi ? Ainsi, personne ne pourra excommunier quiconque. »
 
-1. Allah تعالى dit : {Les vrais croyants sont ceux qui ont cru en Allah et Son Messager, puis n'ont point douté et ont lutté avec leurs biens et leurs personnes} [Al-Hujurat : 15]
+**Troisième savant** *(avec sagesse)* : « Attention ! En voulant fuir un extrême, ne tombez pas dans l'autre. Les actes font partie de la foi, mais le pécheur n'est pas kafir. »
 
-2. Allah تعالى dit : {Les vrais croyants sont ceux dont les cœurs frémissent quand on mentionne Allah, et dont la foi augmente quand on leur récite Ses versets} [Al-Anfal : 2]
+*Mais certains choisirent la facilité et fondèrent le Murji'isme.*
 
-### De la Sunnah
+</div>
 
-1. Le Prophète ﷺ a dit : "La foi comporte soixante-dix et quelques branches, la plus élevée est la parole 'La ilaha illa Allah', et la plus basse est d'écarter un obstacle du chemin." [Rapporté par al-Bukhari et Muslim]
-
-2. Le Prophète ﷺ a dit : "Le fornicateur ne fornique pas tout en étant croyant au moment où il fornique." [Rapporté par al-Bukhari et Muslim]
-
-### Par la raison
-
-1. **La corrélation entre l'apparent et le caché** : On ne conçoit pas une foi sincère du cœur sans actes apparents
-2. **La réalité témoigne** : Le vrai croyant manifeste nécessairement sa foi dans son comportement
-
-## La croyance d'Ahl as-Sunnah sur la foi
-
-### Définition de la foi
-> La foi : parole de la langue, croyance du cœur, et actes des membres, qui augmente par l'obéissance et diminue par la désobéissance.
-
-### Les piliers de la foi selon Ahl as-Sunnah
+### Chronologie
 
 \`\`\`
-La Foi
-├── Parole de la langue (les deux attestations)
-├── Croyance du cœur (certitude ferme)
-├── Actes du cœur (crainte, espoir, amour)
-└── Actes des membres (prière, zakat...)
+Émergence du Murji'isme
+├── ~35-40 H : Excès des Khawarij (takfir des pécheurs)
+├── ~70-100 H : Réaction opposée → Naissance du Murji'isme
+├── ~128 H : Jahm ibn Safwan (Murji'isme extrême)
+└── Siècles suivants : Influence sur l'Ash'arisme
 \`\`\`
 
-### L'augmentation et la diminution de la foi
-- Elle augmente par les actes d'obéissance
-- Elle diminue par les désobéissances
-- Les gens diffèrent dans leur niveau de foi
+---
 
-## Le danger du Murji'isme
+## 📚 Partie 2 : Les Types de Murji'isme
 
-### 1. La minimisation des actes
-Conduit à la paresse et à la négligence des obligations
+### Classification par Gravité
 
-### 2. Ouvrir la porte à la perversité et aux péchés
-Si les actes ne font pas partie de la foi, quelle motivation pour agir ?
+| Type | Définition de la Foi | Gravité | Représentants |
+|------|---------------------|---------|---------------|
+| **Jahmiyyah** | La connaissance seule (ma'rifa) | 🔴🔴🔴🔴🔴 | Jahm ibn Safwan |
+| **Karramiyyah** | La parole de la langue seule | 🔴🔴🔴🔴 | Muhammad ibn Karram |
+| **Asha'irah/Maturidiyyah** | La croyance du cœur seule | 🔴🔴🔴 | Al-Ash'ari (phase 2), al-Maturidi |
+| **Murji'at al-Fuqaha'** | Parole + croyance, actes = perfection | 🟡🟡 | Hammad, Abu Hanifa |
 
-### 3. Contradiction avec le consensus des Salaf
-Les Salaf ont été unanimes que la foi est parole et acte
+### Le Murji'isme Extrême : Les Jahmiyyah
 
-## L'impact du Murji'isme aujourd'hui
+<div class="scene-box">
 
-### Manifestations contemporaines
-- Ceux qui disent : "L'important c'est ce qu'il y a dans le cœur"
-- La séparation entre religion et comportement
-- La justification des manquements dans les adorations
+**🎭 SCÈNE : La Doctrine de Jahm — Transoxiane, ~128 H**
+
+**Disciple** : « Ô Jahm, qu'est-ce que la foi ? »
+
+**Jahm ibn Safwan** : « La foi est la connaissance (ma'rifa) d'Allah dans le cœur. Celui qui connaît Allah est croyant, même s'il ne prononce pas la shahada ni ne prie. »
+
+**Disciple** : « Mais Iblis connaît Allah ! Est-il croyant ? »
+
+**Jahm** *(embarrassé)* : « ... »
+
+</div>
+
+**Problème fatal** : Selon cette définition, **Iblis et Pharaon** seraient croyants car ils connaissaient Allah !
+
+### Le Murji'isme des Karramiyyah
+
+| Croyance | Conséquence |
+|----------|-------------|
+| La foi = la shahada sur la langue | Un hypocrite qui ment est « croyant » ! |
+| Pas besoin de croyance du cœur | Contraire au consensus |
+| Inventée par Muhammad ibn Karram (m. 255H) | Secte éteinte |
+
+### Le Murji'isme des Fuqaha' (Le Plus Léger)
+
+<div class="quote-box">
+
+**Leur position :**
+
+« La foi est la parole de la langue **et** la croyance du cœur. Les actes sont une **condition de perfection**, non de validité. »
+
+**Parmi eux** : Hammad ibn Abi Sulayman (maître d'Abu Hanifa), et selon certains, Abu Hanifa lui-même.
+
+</div>
+
+**Nuance importante** : Ce type est le **moins grave** car ils :
+- Affirment l'obligation des actes
+- Disent que celui qui les abandonne est pécheur
+- Diffèrent d'Ahl as-Sunnah sur : les actes font-ils **partie** de la foi ou sont-ils sa **conséquence** ?
 
 ---
 
-## 📖 Récits des Salaf : Al-Hasan al-Basri et la foi
+## ⚡ Partie 3 : Les Fondements du Murji'isme
 
-Un homme vint à al-Hasan al-Basri رحمه الله et lui demanda : *"Ô Abu Sa'id, es-tu croyant ?"*
+### 1. Exclure les Actes de la Foi
 
-Al-Hasan répondit : *"La foi est de deux sortes : si tu m'interroges sur la foi en Allah, Ses anges, Ses livres, Ses messagers, le Jour Dernier, le Paradis, l'Enfer, la résurrection et le jugement, alors je suis croyant. Mais si tu m'interroges sur le verset : {Les vrais croyants sont ceux dont les cœurs frémissent quand on mentionne Allah}, alors par Allah, je ne sais pas si j'en fais partie !"*
+\`\`\`
+Comparaison des Définitions de la Foi
+├── KHAWARIJ
+│   └── Foi = Croyance + Parole + Actes (tout péché = kufr)
+│
+├── MURJI'AH EXTRÊMES
+│   └── Foi = Connaissance ou Croyance seule (actes hors foi)
+│
+└── AHL AS-SUNNAH
+    └── Foi = Croyance + Parole + Actes (péché ≠ kufr, mais affaiblit la foi)
+\`\`\`
 
-Il disait aussi : *"La foi n'est pas dans les souhaits ni dans les apparences, mais c'est ce qui s'ancre dans le cœur et que les actes confirment."*
+### 2. La Foi N'Augmente Ni Ne Diminue
 
-**La leçon à retenir** : La vraie foi n'est pas une prétention vide, mais doit se manifester dans les actes. L'équilibre entre la crainte et l'espoir est requis.
+| Croyance Murji'ite | Position d'Ahl as-Sunnah |
+|--------------------|--------------------------|
+| Tous égaux dans la foi | La foi diffère d'une personne à l'autre |
+| Foi du pécheur = foi de Jibril | Abu Bakr > autres croyants |
+| Pas de variation | Augmente par l'obéissance, diminue par le péché |
 
----
+<div class="scene-box">
 
-## 🎯 Cas pratiques contemporains : Manifestations du Murji'isme
+**🎭 SCÈNE : L'Absurdité de Leur Position**
 
-### Cas 1 : "L'important c'est ce qu'il y a dans le cœur"
-Une personne ne prie pas et ne jeûne pas, et quand on la conseille, elle dit : *"Notre Seigneur sait ce qu'il y a dans mon cœur, je suis croyant de l'intérieur !"*
+**Murji'i** : « Ma foi est comme celle de Jibril ! »
 
-**Question** : Ce qui est dans le cœur suffit-il sans les actes ?
+**Sunni** : « Ta foi est comme celle d'Abu Bakr as-Siddiq ? »
 
-**Réponse** : ❌ Non. C'est l'essence même de la pensée des Murji'ah. La vraie foi doit se manifester dans les actes. Allah تعالى dit : {Dis : Si vous aimez Allah, suivez-moi}. La prétention sans acte est une fausse prétention.
+**Murji'i** : « Oui ! Nous sommes tous croyants ! »
 
----
+**Sunni** : « Le Prophète ﷺ a dit : "Si l'on mettait la foi d'Abu Bakr dans un plateau et la foi de la Oumma dans l'autre, la foi d'Abu Bakr l'emporterait." Tu prétends avoir la foi d'Abu Bakr ? »
 
-### Cas 2 : L'égalité dans la foi
-Quelqu'un dit : *"Ma foi est comme celle d'Abu Bakr as-Siddiq ! Car nous sommes tous musulmans !"*
+**Murji'i** *(silencieux)* : « ... »
 
-**Question** : Les gens sont-ils égaux dans la foi ?
+</div>
 
-**Réponse** : ❌ Non. La foi augmente et diminue. La foi d'Abu Bakr n'est pas comme celle des autres. Le Prophète ﷺ a dit : *"Si l'on mettait la foi d'Abu Bakr dans un plateau et la foi de la Oumma dans l'autre, la foi d'Abu Bakr l'emporterait."*
+### 3. Les Péchés Ne Nuisent Pas à la Foi
 
----
-
-### Cas 3 : La séparation entre religion et vie
-Un commerçant triche dans son commerce et dit : *"La religion est à la mosquée, et le commerce a ses propres règles !"*
-
-**Question** : Peut-on séparer la foi du comportement ?
-
-**Réponse** : ❌ Non. C'est une manifestation du Murji'isme contemporain que de séparer la religion de la vie. L'Islam est un système complet qui régit tous les aspects de la vie.
-
----
-
-### Cas 4 : Minimiser les péchés
-Un jeune commet des péchés et dit : *"Allah est Pardonneur et Miséricordieux, et mes péchés n'affectent pas ma foi !"*
-
-**Question** : Les péchés affectent-ils la foi ?
-
-**Réponse** : ✅ Oui. La foi diminue par le péché et augmente par l'obéissance. Le Prophète ﷺ a dit : *"Le fornicateur ne fornique pas tout en étant croyant au moment où il fornique."* Le péché affaiblit la foi même s'il n'en fait pas sortir.
-
----
-
-### Cas 5 : Reporter le repentir
-Un homme dit : *"Je me repentirai quand je serai vieux, maintenant je profite de ma jeunesse, car la foi est dans mon cœur !"*
-
-**Question** : Est-il permis de reporter le repentir en se contentant de prétendre la foi ?
-
-**Réponse** : ❌ Non. C'est une procrastination dangereuse et un effet du Murji'isme. Le repentir est obligatoire immédiatement, et l'être humain n'a aucune garantie sur sa durée de vie.
+| Leur Prétention | Réalité |
+|-----------------|---------|
+| « Le péché n'affecte pas la foi » | Le Prophète ﷺ : « Le fornicateur ne fornique pas tout en étant croyant... » |
+| « L'essentiel c'est le cœur » | Allah : « Dis : Si vous aimez Allah, suivez-moi » |
+| « Pas de différence entre croyants » | Allah : « ...ceux dont la foi augmente quand on leur récite Ses versets » |
 
 ---
 
-## 💡 Pause réflexion
+## 📖 Partie 4 : Réfutation Détaillée
 
-**Question personnelle** : Te reposes-tu sur "ce qui est dans ton cœur" ou traduis-tu ta foi en actes quotidiens ?
+### Preuves du Coran
 
-**Rappel :**
-- La foi n'est pas une simple prétention, mais croyance et action
-- Il ne suffit pas d'aimer Allah dans ton cœur, tu dois Lui obéir
-- Ta foi augmente chaque fois que tu obéis à Allah, et diminue chaque fois que tu Lui désobéis
-- Surveille tes actes car ils sont le miroir de ta foi
+| Verset | Réfutation |
+|--------|------------|
+| ﴿إِنَّمَا الْمُؤْمِنُونَ الَّذِينَ آمَنُوا بِاللَّهِ وَرَسُولِهِ ثُمَّ لَمْ يَرْتَابُوا وَجَاهَدُوا﴾ | La foi inclut les actes (jihad) |
+| ﴿الَّذِينَ إِذَا ذُكِرَ اللَّهُ وَجِلَتْ قُلُوبُهُمْ وَإِذَا تُلِيَتْ عَلَيْهِمْ آيَاتُهُ زَادَتْهُمْ إِيمَانًا﴾ | La foi **augmente** |
+| ﴿قُلْ إِن كُنتُمْ تُحِبُّونَ اللَّهَ فَاتَّبِعُونِي﴾ | L'amour exige l'obéissance |
+
+### Preuves de la Sunnah
+
+<div class="quote-box">
+
+**Hadith 1 — Les branches de la foi :**
+
+**« الْإِيمَانُ بِضْعٌ وَسَبْعُونَ شُعْبَةً، فَأَفْضَلُهَا قَوْلُ لَا إِلَهَ إِلَّا اللَّهُ، وَأَدْنَاهَا إِمَاطَةُ الْأَذَى عَنِ الطَّرِيقِ »**
+
+**« La foi comporte soixante-dix et quelques branches. La plus élevée est "La ilaha illa Allah", et la plus basse est d'écarter un obstacle du chemin. »** [Al-Bukhari 9, Muslim 35]
+
+**Preuve** : Écarter un obstacle = **acte** = branche de la foi
+
+</div>
+
+<div class="quote-box">
+
+**Hadith 2 — La foi du fornicateur :**
+
+**« لَا يَزْنِي الزَّانِي حِينَ يَزْنِي وَهُوَ مُؤْمِنٌ »**
+
+**« Le fornicateur ne fornique pas tout en étant croyant au moment où il fornique. »** [Al-Bukhari 2475, Muslim 57]
+
+**Preuve** : Le péché **diminue** la foi
+
+</div>
+
+### Preuves Rationnelles
+
+\`\`\`
+Argument de la Corrélation
+├── PRÉMISSE 1 : La foi sincère produit nécessairement des actes
+├── PRÉMISSE 2 : Celui qui prétend croire mais n'agit pas contredit sa prétention
+├── CONCLUSION : Les actes sont la preuve de la foi, donc en font partie
+│
+Exemple :
+├── Un homme dit aimer sa femme
+├── Mais ne lui parle pas, ne la protège pas, ne l'aide pas
+└── Son amour est-il réel ? → NON
+\`\`\`
 
 ---
 
-## Conclusion
+## ⚖️ Partie 5 : La Croyance d'Ahl as-Sunnah
 
-| Groupe | Définition de la foi | Jugement |
-|--------|---------------------|----------|
-| Ahl as-Sunnah | Parole, acte et croyance, augmente et diminue | La vérité |
-| Murji'ah extrémistes | Connaissance ou croyance seulement | Faux |
-| Murji'at al-Fuqaha' | Parole et croyance, actes condition de perfection | Innovation légère |
+### Définition Complète de la Foi
+
+<div class="quote-box">
+
+**L'Imam al-Shafi'i a dit :**
+
+**« Le consensus des Compagnons, des Tabi'in, de ceux qui les ont suivis et de ceux que nous avons rencontrés est que la foi est : parole, acte et intention. L'un ne suffit pas sans l'autre. »**
+
+</div>
+
+### Les Composantes de la Foi
+
+\`\`\`
+Structure de la Foi selon Ahl as-Sunnah
+├── 📜 PAROLE DE LA LANGUE
+│   ├── La shahada (deux attestations)
+│   ├── Le dhikr, la récitation du Coran
+│   └── Ordonner le bien, interdire le mal
+│
+├── ❤️ CROYANCE DU CŒUR
+│   ├── Certitude ferme en Allah et Son Messager
+│   ├── Acceptation et soumission
+│   └── Rejet du doute
+│
+├── 💖 ACTES DU CŒUR
+│   ├── L'amour d'Allah et de Son Messager
+│   ├── La crainte (khawf) et l'espoir (raja')
+│   ├── Le tawakkul, la sincérité
+│   └── Le repentir
+│
+└── 🤲 ACTES DES MEMBRES
+    ├── La prière, le jeûne, la zakat, le hajj
+    ├── Aider les gens, écarter l'obstacle
+    └── Tous les actes d'obéissance
+\`\`\`
+
+### L'Augmentation et la Diminution
+
+| La Foi Augmente Par | La Foi Diminue Par |
+|---------------------|-------------------|
+| La prière nocturne | L'abandon de la prière |
+| La lecture du Coran | Les péchés majeurs |
+| Le dhikr et l'invocation | La négligence du dhikr |
+| La charité | L'avarice |
+| La patience dans l'épreuve | La plainte et le désespoir |
+
+---
+
+## 📖 Partie 6 : Récits des Salaf
+
+### Al-Hasan al-Basri et la Foi
+
+<div class="scene-box">
+
+**🎭 SCÈNE : La Sagesse d'al-Hasan — Basra, ~100 H**
+
+*Un homme entre dans le cercle d'al-Hasan al-Basri رحمه الله.*
+
+**L'homme** : « Ô Abu Sa'id, es-tu croyant ? »
+
+**Al-Hasan** *(réfléchissant)* : « La foi est de deux sortes. Si tu m'interroges sur la foi en Allah, Ses anges, Ses livres, Ses messagers, le Jour Dernier, le Paradis et l'Enfer — alors oui, je suis croyant. »
+
+**L'homme** : « Et l'autre sorte ? »
+
+**Al-Hasan** : « Mais si tu m'interroges sur le verset : ﴿Les vrais croyants sont ceux dont les cœurs frémissent quand on mentionne Allah﴾ — alors par Allah, **je ne sais pas si j'en fais partie**. »
+
+*L'homme resta silencieux, touché par cette humilité.*
+
+</div>
+
+### Sa Parole Célèbre
+
+<div class="quote-box">
+
+**Al-Hasan al-Basri a dit :**
+
+**« لَيْسَ الْإِيمَانُ بِالتَّمَنِّي وَلَا بِالتَّحَلِّي، وَلَكِنَّهُ مَا وَقَرَ فِي الْقَلْبِ وَصَدَّقَتْهُ الْأَعْمَالُ »**
+
+**« La foi n'est pas dans les souhaits ni dans les apparences. Elle est ce qui s'ancre dans le cœur ET QUE LES ACTES CONFIRMENT. »**
+
+</div>
+
+### L'Imam al-Bukhari et le Chapitre de la Foi
+
+L'Imam al-Bukhari رحمه الله a intitulé un chapitre de son Sahih :
+
+> **« باب : قول النبي ﷺ : بُنِيَ الْإِسْلَامُ عَلَى خَمْسٍ. وَهُوَ قَوْلٌ وَفِعْلٌ، وَيَزِيدُ وَيَنْقُصُ »**
+
+> **« Chapitre : La parole du Prophète ﷺ : "L'Islam est bâti sur cinq." Et c'est parole et acte, qui augmente et diminue. »**
+
+Puis il cite les versets et hadiths prouvant l'augmentation et la diminution de la foi.
+
+---
+
+## ⚠️ Partie 7 : Le Danger du Murji'isme
+
+### Conséquences Pratiques
+
+\`\`\`
+Effets du Murji'isme sur la Pratique
+├── 😴 PARESSE DANS L'ADORATION
+│   ├── "Pourquoi prier ? Ma foi est dans le cœur"
+│   ├── "L'essentiel c'est l'intention"
+│   └── Abandon progressif des obligations
+│
+├── 🎭 SÉPARATION RELIGION/VIE
+│   ├── "La religion à la mosquée"
+│   ├── "Le commerce a ses propres règles"
+│   └── Double personnalité
+│
+├── 📉 MINIMISATION DES PÉCHÉS
+│   ├── "Allah est Pardonneur"
+│   ├── "Mes péchés n'affectent pas ma foi"
+│   └── Impunité psychologique
+│
+└── ⏰ PROCRASTINATION DU REPENTIR
+    ├── "Je me repentirai quand je serai vieux"
+    ├── "Profitons de la jeunesse d'abord"
+    └── Mort avant le repentir
+\`\`\`
+
+### Le Murji'isme Aujourd'hui
+
+| Manifestation Moderne | Origine Murji'ite |
+|----------------------|-------------------|
+| « L'important c'est ce qu'il y a dans le cœur » | Les actes hors de la foi |
+| « Ne me juge pas, Allah seul sait » | Refus de la correction |
+| « Je suis musulman à ma façon » | Individualisme religieux |
+| « La religion est personnelle » | Séparation religion/vie |
+
+---
+
+## 🎯 Partie 8 : Cas Pratiques Contemporains
+
+### Cas 1 : « L'Important c'est le Cœur »
+
+<div class="scene-box">
+
+**🎭 SCÈNE : Le Musulman « Spirituel » — Café, Aujourd'hui**
+
+**Ahmad** : « Tu viens à la prière du Jumu'a ? »
+
+**Bilal** *(en fumant)* : « Non, mais notre Seigneur sait ce qu'il y a dans mon cœur. Je suis croyant de l'intérieur ! »
+
+**Ahmad** : « Mais la prière est obligatoire... »
+
+**Bilal** : « L'essentiel c'est l'intention. Dieu regarde les cœurs, pas les apparences. »
+
+</div>
+
+**Verdict** : ❌ C'est l'essence du Murji'isme. La vraie foi se manifeste en actes. Le Prophète ﷺ n'a jamais dit que le cœur suffit sans les actes.
+
+---
+
+### Cas 2 : L'Égalité dans la Foi
+
+**Situation** : « Ma foi est comme celle d'Abu Bakr ! Nous sommes tous musulmans ! »
+
+<div class="quote-box">
+
+**Le Prophète ﷺ a dit :**
+
+**« لَوْ وُزِنَ إِيمَانُ أَبِي بَكْرٍ بِإِيمَانِ أَهْلِ الْأَرْضِ لَرَجَحَ »**
+
+**« Si l'on pesait la foi d'Abu Bakr contre la foi des gens de la terre, la foi d'Abu Bakr l'emporterait. »** [Rapporté par al-Bayhaqi, hasan]
+
+</div>
+
+**Verdict** : ❌ Les gens diffèrent dans leur foi. Prétendre l'égalité est arrogance et ignorance.
+
+---
+
+### Cas 3 : La Séparation Religion/Commerce
+
+<div class="scene-box">
+
+**🎭 SCÈNE : Le Commerçant « Pratiquant » — Marché**
+
+*Un homme triche dans la pesée. Un client le reprend.*
+
+**Client** : « Tu es injuste dans la balance ! »
+
+**Commerçant** : « La religion c'est à la mosquée. Le commerce a ses propres règles. Ne mélange pas les choses ! »
+
+**Client** : « Mais Allah dit : ﴿Malheur aux fraudeurs﴾ ! »
+
+**Commerçant** : « C'est de l'extrémisme ! »
+
+</div>
+
+**Verdict** : ❌ L'Islam régit tous les aspects de la vie. Séparer religion et comportement est Murji'isme contemporain.
+
+---
+
+### Cas 4 : Minimiser les Péchés
+
+**Situation** : « Allah est Ghafur Rahim ! Mes péchés n'affectent pas ma foi ! »
+
+| Vérité | Explication |
+|--------|-------------|
+| Allah pardonne | Mais après le repentir sincère |
+| Sa miséricorde est immense | Mais Il punit aussi les pécheurs |
+| Le péché affecte la foi | Même s'il n'en fait pas sortir |
+
+**Verdict** : ⚠️ Équilibre requis entre espoir et crainte. Les péchés affaiblissent la foi.
+
+---
+
+### Cas 5 : Reporter le Repentir
+
+<div class="scene-box">
+
+**🎭 SCÈNE : Le Plan du Jeune — Université**
+
+**Jeune homme** : « Je profite de ma jeunesse maintenant. Je me repentirai quand je serai marié et établi. »
+
+**Ami sage** : « Et si tu meurs avant ? »
+
+**Jeune homme** : « Je suis jeune, j'ai le temps ! »
+
+**Ami sage** : « Le cimetière est plein de jeunes qui avaient "le temps"... »
+
+</div>
+
+**Verdict** : ❌ Le repentir est obligatoire **immédiatement**. Nul ne connaît son terme.
+
+---
+
+## 💡 Pause Réflexion
+
+### Auto-Examen
+
+| Question | Oui | Non |
+|----------|-----|-----|
+| Te reposes-tu sur « ce qui est dans le cœur » ? | | |
+| Sépares-tu ta religion de ta vie quotidienne ? | | |
+| Minimises-tu tes péchés en comptant sur la miséricorde ? | | |
+| Reportes-tu le repentir et l'amélioration ? | | |
+| Penses-tu que ta foi égale celle des grands Compagnons ? | | |
+
+**Si tu as répondu « Oui » à une question, tu as peut-être été influencé par le Murji'isme sans le savoir.**
+
+### L'Équilibre d'Ahl as-Sunnah
+
+\`\`\`
+Entre Deux Extrêmes
+├── ❌ KHAWARIJ : Le péché = kufr
+│
+├── ✅ AHL AS-SUNNAH : Le péché affaiblit la foi sans en faire sortir
+│
+└── ❌ MURJI'AH : Le péché n'affecte pas la foi
+\`\`\`
+
+---
+
+## 📊 Résumé Comparatif
+
+| Aspect | Khawarij | Ahl as-Sunnah | Murji'ah |
+|--------|----------|---------------|----------|
+| **Définition foi** | Croyance + Actes (rigide) | Croyance + Parole + Actes | Croyance seule |
+| **Péché grave** | = Kufr | Affaiblit la foi | N'affecte pas |
+| **Augmentation** | — | Oui, par les actes | Non |
+| **Pécheur** | Kafir | Musulman pécheur | Croyant parfait |
+| **Danger** | Excommunication | — | Laxisme |
+
+---
+
+## 🎯 Conclusion
+
+<div class="quote-box">
+
+**L'Imam Ahmad a dit :**
+
+**« Nous ne sortons personne des gens de la Qiblah de l'Islam pour un péché, et nous ne disons pas que les péchés ne nuisent pas à leur auteur. »**
+
+</div>
+
+### Les Leçons à Retenir
+
+- ✅ **La foi est parole, croyance ET actes**
+- ✅ **Elle augmente et diminue** — Travaille à l'augmenter
+- ✅ **Les péchés affaiblissent la foi** — Ne les minimise pas
+- ✅ **L'équilibre entre crainte et espoir** — Ni désespoir ni sécurité
+- ✅ **Les actes confirment la foi** — Le cœur seul ne suffit pas
+
+---
+
+**La prochaine leçon : Qadariyyah et Jabriyyah — Le destin entre libre arbitre et déterminisme absolu.**
+
+والله الموفق والهادي إلى سواء السبيل
 
 ---
 

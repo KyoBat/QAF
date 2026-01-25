@@ -1,157 +1,389 @@
-export const contentEn = `# Sects in Islam — Introduction and Methodology
+export const contentEn = `# 🕌 Sects in Islam — Introduction and Methodology
 
-## Preamble: The Importance of Studying Sects
+> **"The people used to ask the Messenger of Allah ﷺ about the good, and I used to ask him about evil fearing it would reach me."**
+> — **Hudhayfah ibn al-Yaman رضي الله عنه** [Al-Bukhari and Muslim]
 
-The study of Islamic sects is among the essential sciences for the student of knowledge, for several reasons:
+---
 
-### 1. The Prophetic Command to Know Evil to Guard Against It
+## 🎬 Introduction
 
-Hudhayfah ibn al-Yaman رضي الله عنه said: "The people used to ask the Messenger of Allah ﷺ about the good, and I used to ask him about evil fearing it would reach me." [Agreed upon]
+The study of Islamic sects is a **fundamental science** for every student of religious knowledge. Its purpose is not to divide or excommunicate, but to **protect the creed**, **distinguish truth from falsehood**, and **understand the intellectual history of Islam**.
 
-### 2. The Hadith of Division
+This series will guide you through the major sects that emerged in Islamic history, their origins, beliefs, and the response of Ahl as-Sunnah wal-Jama'ah.
 
-Abu Hurayrah رضي الله عنه reported that the Messenger of Allah ﷺ said: "The Jews divided into seventy-one groups, the Christians divided into seventy-two groups, and my nation will divide into seventy-three groups." [Reported by Abu Dawud and at-Tirmidhi]
+<!-- TIMELINE:islamic-sects -->
 
-## Definition of Sect (Firqah)
+---
 
-### Linguistic Meaning
-Firqah: From the root "faraqa" meaning to separate two things.
+## 📜 Part 1: Why Study Sects?
 
-### Technical Meaning
-It is the group that contradicted Ahl as-Sunnah wal-Jama'ah in one or more fundamentals of the religion.
+### The Hadith of Division
 
-## The Criterion for Distinguishing Between Sects
+| Source | Text |
+|--------|------|
+| **Abu Hurayrah رضي الله عنه** | The Messenger of Allah ﷺ said: "The Jews divided into **71 groups**, the Christians divided into **72 groups**, and my nation will divide into **73 groups**." |
+| **Reference** | Abu Dawud 4596, At-Tirmidhi 2640 — Hadith hasan |
+| **Addition by At-Tirmidhi** | "All of them in the Fire except one: what I and my companions are upon." |
 
-### Types of Disagreement
+<div class="quote-box">
 
-| Type of Disagreement | Ruling | Example |
-|---------------------|--------|---------|
-| Disagreement in branches (furu') | Does not cause separation | Jurists' differences in matters of ijtihad |
-| Disagreement in fundamentals (usul) | Causes separation | Denying Allah's attributes or rejecting predestination |
+**"The bonds of Islam will be undone one by one. Each time a bond is undone, people will cling to the one after it."**
 
-### The Standard Defining a Sect
-> A deviant sect is one that contradicted the methodology of Ahl as-Sunnah wal-Jama'ah in a fundamental of creed in a way that excludes it from their path.
+— **'Umar ibn al-Khattab رضي الله عنه**
 
-## The Methodology of Ahl as-Sunnah in Dealing with Sects
+</div>
 
-### 1. Justice and Fairness
-- Do not wrong anyone
-- Acknowledge truth even from opponents
-- Reject falsehood even from affiliates
+### Reasons to Study Sects
 
-### 2. Distinguishing Between the Statement and the One Who Makes It
-- The false statement is absolutely false
-- The speaker may be excused due to ignorance or misinterpretation
+| Reason | Explanation |
+|--------|-------------|
+| **🛡️ Protection** | Know evil to guard against it |
+| **⚖️ Justice** | Distinguish between legitimate disagreement and deviation |
+| **📚 History** | Understand the intellectual evolution of the Ummah |
+| **🎯 Clarity** | Know why you believe what you believe |
+| **💬 Dialogue** | Respond to doubts with knowledge |
 
-### 3. Refuting with Evidence and Proof
-- Evidence from the Quran and Sunnah
-- Confronting the opponent with the logical consequences of his statements
-- Exposing contradictions in his school of thought
+---
 
-## Causes of the Emergence of Sects
+## 📖 Part 2: Fundamental Definitions
+
+### What is a Sect (Firqah)?
+
+| Aspect | Definition |
+|--------|------------|
+| **Linguistically** | From *faraqa* (فَرَقَ) = to separate, divide |
+| **Technically** | A group that contradicted Ahl as-Sunnah in one or more **fundamentals** of the religion |
+| **Distinction** | Different from mere jurisprudential disagreement |
+
+### The Criterion for Distinction
+
+\`\`\`
+Types of Disagreement
+├── Disagreement in BRANCHES (furu')
+│   ├── ✅ Legitimate and acceptable
+│   ├── Example: Raising hands in prayer
+│   └── Does not cause separation
+│
+└── Disagreement in FUNDAMENTALS (usul)
+    ├── ❌ Causes separation
+    ├── Example: Denying Allah's attributes
+    └── Excludes from the methodology of Ahl as-Sunnah
+\`\`\`
+
+<div class="scene-box">
+
+**🎭 SCENE: Understanding the Difference — Study Circle, Madinah**
+
+*Two students discuss after class.*
+
+**First student**: "My sheikh raises his hands in prayer, yours doesn't. Are we from different sects?"
+
+**Second student**: "No! This is a disagreement in branches. Both opinions have evidence. We're on the same creed."
+
+**First student**: "But what if someone denied that the Quran is Allah's speech?"
+
+**Second student**: "That's a fundamental. Everything changes."
+
+</div>
+
+---
+
+## ⚠️ Part 3: Causes of the Emergence of Sects
 
 ### Internal Causes
-1. **Extremism (ghuluw)** — Excessive rigidity in religion
-2. **Negligence (jafa')** — Laxity and carelessness
-3. **Following desires** — Prioritizing opinion over revelation
-4. **Fanaticism** — Blind following of ancestors, schools, or personalities
+
+| Cause | Description | Example |
+|-------|-------------|---------|
+| **Extremism (ghuluw)** | Excess in religion | The Khawarij who excommunicated sinners |
+| **Negligence (jafa')** | Laxity and carelessness | The Murji'ah who minimized sins |
+| **Following desires** | Prioritizing opinion over revelation | The Mu'tazilah and the priority of reason |
+| **Fanaticism** | Blind following of ancestors or personalities | Excess regarding 'Ali among the Shi'a |
 
 ### External Causes
-1. **Infiltration of foreign ideas** — From Greek and Persian philosophies
-2. **Jewish infiltration** — Like 'Abdullah ibn Saba'
-3. **Political turmoil** — Like the fitnah of 'Uthman's assassination رضي الله عنه
 
-## General Classification of Sects
+| Cause | Description | Historical Example |
+|-------|-------------|-------------------|
+| **Foreign philosophies** | Infiltration of Greek and Persian ideas | Influence on Jahmiyyah and Mu'tazilah |
+| **Jewish infiltration** | Planted agents | 'Abdullah ibn Saba' and the origin of Shi'ism |
+| **Political turmoil** | Power struggles | The fitnah after 'Uthman's assassination |
 
-### Theological Sects (regarding attributes)
-- Jahmiyyah
-- Mu'tazilah
-- Asha'irah
-- Maturidiyyah
+<div class="scene-box">
 
-### Sects on Predestination
-- Qadariyyah
-- Jabriyyah
+**🎭 SCENE: 'Abdullah ibn Saba' — The Seed of Fitnah (~35 AH)**
 
-### Sects on Faith
-- Murji'ah
-- Khawarij
+*A man from Yemen, a Jew who recently professed Islam, travels from city to city.*
 
-### Sects on Leadership
-- Shi'a and its branches
-- Ibadiyyah
+**Ibn Saba'** *(in Basra, then Kufa, then Egypt)*: "How can 'Isa return but not Muhammad ﷺ? 'Ali was the designated successor! Abu Bakr and 'Umar usurped his right!"
 
-## Goals of This Series
+*His ideas poisoned weak minds and sowed division.*
 
-1. Introduce each sect: its origin and causes of emergence
-2. Explain its foundations and major beliefs
-3. Refute it through scriptural and rational proofs
-4. Clarify the position of Ahl as-Sunnah on each issue
-5. Draw lessons and insights
+**'Ali رضي الله عنه** *(when he heard of him)*: "What do you have to do with this, wretch?!"
 
-## Conclusion
+*He wanted to punish him but some people interceded. Ibn Saba' was exiled to al-Mada'in.*
 
-> The study of sects is not for sectarianism or excommunication, but to distinguish truth from falsehood, and to preserve the purity of creed.
+</div>
 
 ---
 
-## 📖 Stories from the Salaf: Hudhayfah ibn al-Yaman — The Keeper of the Prophet's Secret ﷺ
+## 📊 Part 4: Classification of Major Sects
 
-Hudhayfah ibn al-Yaman رضي الله عنه was called "the Keeper of the Secret" because the Prophet ﷺ had informed him of the names of the hypocrites. While people would ask the Messenger of Allah ﷺ about the good, Hudhayfah would ask him about evil, fearing it would reach him.
+### Overview
 
-Hudhayfah said: *"O Messenger of Allah, we were in ignorance and evil, then Allah brought us this good. Will there be evil after this good?"* He said: **"Yes."** I asked: *"And will there be good after that evil?"* He said: **"Yes, but with impurity."** I asked: *"What is its impurity?"* He said: **"People who guide by other than my guidance, you will recognize some and disapprove of others."** [Agreed upon]
+| Category | Sects | Central Issue |
+|----------|-------|---------------|
+| **Theology (Attributes)** | Jahmiyyah, Mu'tazilah, Asha'irah, Maturidiyyah | Names and Attributes of Allah |
+| **Predestination (Qadar)** | Qadariyyah, Jabriyyah | Divine decree and free will |
+| **Faith (Iman)** | Murji'ah, Khawarij | Definition of faith and status of sinners |
+| **Leadership (Imamate)** | Shi'a (and its branches), Ibadiyyah | Succession after the Prophet ﷺ |
+| **Sufism** | Sufi orders | Spirituality and its excesses |
 
-**Lesson learned**: Knowledge of sects and deviations is not for arrogance, but for protection and prevention. Whoever knows evil guards against it, and whoever is ignorant of it falls into it.
+### Chronological Timeline
 
----
-
-## 🎯 Contemporary Cases
-
-### Case 1: The New Da'i
-A young man studied religious knowledge then began classifying people and issuing declarations of innovation on everyone who disagrees with him on any issue.
-
-**Question**: Is this the methodology of Ahl as-Sunnah in dealing with opponents?
-
-**Answer**: ❌ No. The methodology of Ahl as-Sunnah is based on justice and fairness, distinguishing between the statement and the one who makes it, and verification before judgment. Innovation labels are not issued based on whims but on sound legal criteria.
-
----
-
-### Case 2: Ignorance of Sects
-A Muslim says: *"Why should we study sects? What matters is that we're Muslims, there's no need for these classifications!"*
-
-**Question**: Can we ignore the study of sects?
-
-**Answer**: ❌ No. Studying sects is a religious necessity to protect creed. 'Umar رضي الله عنه said: *"The bonds of Islam are undone one by one when people grow up in Islam without knowing Jahiliyyah."*
-
----
-
-### Case 3: Jurisprudential Disagreement
-Someone says: *"The disagreement about raising hands in prayer is like the disagreement about Allah's attributes — both create sects!"*
-
-**Question**: Is disagreement in branches like disagreement in fundamentals?
-
-**Answer**: ❌ No. Disagreement in jurisprudential branches of ijtihad does not create sects, whereas disagreement in fundamentals of creed is what excludes from the methodology of Ahl as-Sunnah.
+\`\`\`
+Chronological Timeline of Major Sects
+├── 1st Century AH
+│   ├── Khawarij (37 AH - Battle of Siffin)
+│   ├── Primitive Shi'ism (35-40 AH)
+│   └── Qadariyyah (~70 AH - Ma'bad al-Juhani)
+│
+├── 2nd Century AH
+│   ├── Murji'ah (early 2nd century)
+│   ├── Jahmiyyah (~128 AH - Jahm ibn Safwan)
+│   └── Mu'tazilah (~100-110 AH - Wasil ibn 'Ata')
+│
+├── 3rd Century AH
+│   ├── Asha'irah (260-324 AH - Abu al-Hasan al-Ash'ari)
+│   └── Maturidiyyah (d. 333 AH - Abu Mansur al-Maturidi)
+│
+└── Later Centuries
+    ├── Sufi orders (expansion)
+    └── Contemporary sects (Qadianiyyah, Baha'ism)
+\`\`\`
 
 ---
 
-### Case 4: Attitude Toward Scholars
-A student of knowledge is reading a book by a famous Ash'ari scholar, and his colleague says: *"Don't read from him! He's an innovator!"*
+## ⚖️ Part 5: The Methodology of Ahl as-Sunnah
 
-**Question**: How do we deal with the legacy of scholars who erred in some issues?
+### Fundamental Principles
 
-**Answer**: ✅ We distinguish between persons and statements. We benefit from their knowledge where they were correct, and clarify their errors where they were wrong, with fairness and without diminishing their rights.
+| Principle | Application |
+|-----------|-------------|
+| **Justice and fairness** | Acknowledge truth even from opponents, reject falsehood even from affiliates |
+| **Distinguish statement from speaker** | A statement may be kufr without its speaker being kafir |
+| **Refute with evidence** | Arguments from Quran, Sunnah, and reason |
+| **Respect levels of disagreement** | No breaking ties over branch issues |
+
+### The Golden Rule
+
+<div class="quote-box">
+
+**"We declare statements disbelief without declaring individuals disbelievers, until the proof is established and obstacles are removed."**
+
+— **Shaykh al-Islam Ibn Taymiyyah**
+
+</div>
+
+### Conditions for Judging an Individual
+
+\`\`\`
+Conditions for Declaring an Individual a Disbeliever
+├── 1. KNOWLEDGE: They must know their statement contradicts the Shari'ah
+├── 2. INTENT: They must intend the contradiction deliberately
+└── 3. ABSENCE OF OBSTACLES
+    ├── Ignorance
+    ├── Erroneous interpretation (ta'wil)
+    ├── Coercion (ikrah)
+    └── Unintentional error
+\`\`\`
 
 ---
 
-## 💡 Pause and Reflect
+## 🎯 Part 6: Goals of This Series
 
-**Personal question**: Do you truly know what you believe? Or did you inherit your creed without deep understanding?
+### What You Will Learn
 
-**Remember:**
-- Knowing the truth requires serious pursuit of knowledge
-- Knowing falsehood protects you from falling into it
-- Justice is required even with opponents
-- Classification is not for arrogance but for distinction and protection
+| Lesson | Topic | Content |
+|--------|-------|---------|
+| **002** | The Khawarij | Origin, characteristics, refutation |
+| **003** | The Murji'ah | Irja' and the definition of faith |
+| **004** | Qadariyyah & Jabriyyah | Predestination between two extremes |
+| **005** | Jahmiyyah & Mu'tazilah | Denial of attributes |
+| **006** | Asha'irah & Maturidiyyah | Kalam and its history |
+| **007** | The Shi'a | Branches and beliefs |
+| **008** | Sufism | Between legitimate asceticism and deviation |
+| **009** | Contemporary sects | Qadianiyyah and Baha'ism |
+| **010** | Methodology of refutation | How to refute with wisdom |
+
+---
+
+## 📖 Stories from the Salaf: Hudhayfah ibn al-Yaman — The Keeper of the Secret
+
+**Hudhayfah ibn al-Yaman رضي الله عنه** was unique among the Companions: the Prophet ﷺ entrusted him with **the names of the hypocrites**. 'Umar رضي الله عنه would ask him: Am I among them?!
+
+<div class="scene-box">
+
+**🎭 SCENE: Hudhayfah's Question — Madinah, Prophetic Era**
+
+*Hudhayfah approaches the Prophet ﷺ with a question no one else dared to ask.*
+
+**Hudhayfah**: "O Messenger of Allah, we were in ignorance and evil, then Allah brought us this good. Will there be evil after this good?"
+
+**The Prophet ﷺ**: "Yes."
+
+**Hudhayfah**: "And will there be good after that evil?"
+
+**The Prophet ﷺ**: "Yes, but with smoke (dukhan)."
+
+**Hudhayfah**: "What is its smoke?"
+
+**The Prophet ﷺ**: "People who guide by other than my guidance. You will recognize some and disapprove of others."
+
+**Hudhayfah**: "And will there be evil after that good?"
+
+**The Prophet ﷺ**: "Yes. Callers at the gates of Hell. Whoever answers them, they will throw him into it."
+
+**Hudhayfah** *(worried)*: "Describe them to me, O Messenger of Allah!"
+
+**The Prophet ﷺ**: "They are from our skin and speak our tongue."
+
+*[Al-Bukhari 7084, Muslim 1847]*
+
+</div>
+
+### Lessons Learned
+
+| Lesson | Application |
+|--------|-------------|
+| **Knowing evil** | To guard against it, not to boast |
+| **Anticipating trials** | The Prophet ﷺ foretold the divisions |
+| **Linguistic caution** | The misguiders "speak our tongue" |
+| **Asking the right questions** | Seeking beneficial knowledge |
+
+---
+
+## 🎯 Contemporary Practical Cases
+
+### Case 1: The Excessive Classifier
+
+<div class="scene-box">
+
+**🎭 SCENE: The Young Preacher — Local Mosque, Today**
+
+*A young man returns from a study trip. He begins classifying everyone he meets.*
+
+**Young man**: "This imam is Ash'ari! That sheikh is Sufi! This one is Murji'i! Don't take from them!"
+
+**Wise elder**: "Have you verified each accusation? Do you know their exact statements? Or are you repeating what you heard?"
+
+**Young man** *(embarrassed)*: "But everyone says..."
+
+**Elder**: "'Everyone' is not evidence. Justice is obligatory even toward those you consider opponents."
+
+</div>
+
+**Verdict**: ❌ This is **not** the methodology of Ahl as-Sunnah. Justice, verification, and distinguishing between statements and speakers is obligatory.
+
+---
+
+### Case 2: Refusing to Learn
+
+**Situation**: A Muslim says: *"Why study sects? What matters is that we're Muslims!"*
+
+| Argument | Response |
+|----------|----------|
+| "No need for classifications" | 'Umar رضي الله عنه: "The bonds of Islam will be undone..." |
+| "This divides" | No, it protects and clarifies |
+| "I'm Muslim, that's enough" | The Prophet ﷺ foretold 73 groups |
+
+**Verdict**: ❌ Deliberate ignorance is dangerous. Knowledge is protection.
+
+---
+
+### Case 3: Confusing Branches and Fundamentals
+
+**Situation**: *"Disagreement on raising hands = disagreement on Allah's attributes!"*
+
+| Type | Example | Consequence |
+|------|---------|-------------|
+| **Branch (furu')** | Raising hands | ✅ Tolerance, no breaking ties |
+| **Fundamental (usul)** | Allah's attributes | ❌ Methodological separation |
+
+**Verdict**: ❌ Confusing the two is a grave error leading to either laxity or excess.
+
+---
+
+### Case 4: Rejecting All Knowledge from Opponents
+
+**Situation**: *"I won't read any book by an Ash'ari scholar!"*
+
+<div class="quote-box">
+
+**"Ibn Hajar and an-Nawawi are Ash'ari in some issues, yet their services to the Sunnah are immense. We take the truth and reject the error."**
+
+— **Principle of Ahl as-Sunnah**
+
+</div>
+
+**Verdict**: ❌ Fairness requires distinguishing between persons and their statements. We benefit from what's correct and clarify the errors.
+
+---
+
+## 💡 Pause for Reflection
+
+### Personal Questions
+
+| Question | Reflection |
+|----------|------------|
+| Do you truly know what you believe? | Or did you inherit your creed without understanding? |
+| Can you explain the difference between Ahl as-Sunnah and others? | With evidence and arguments? |
+| Are you just toward those you consider opponents? | Or do you rely on hearsay? |
+
+### Pitfalls to Avoid
+
+\`\`\`
+Pitfalls in Studying Sects
+├── ❌ Arrogance: Feeling superior
+├── ❌ Injustice: Accusing without proof
+├── ❌ Excess: Excommunicating wrongly
+├── ❌ Laxity: Accepting everything
+└── ✅ Balance: Justice with firmness
+\`\`\`
+
+---
+
+## 📊 Lesson Summary
+
+| Concept | Definition |
+|---------|------------|
+| **Firqah** | A group that deviated from a fundamental of Ahl as-Sunnah |
+| **Hadith of 73 groups** | Prophetic foretelling of division |
+| **Internal causes** | Extremism, negligence, desires, fanaticism |
+| **External causes** | Foreign philosophies, infiltration, politics |
+| **Sunnah methodology** | Justice, distinguishing statement from speaker, evidence |
+
+---
+
+## 🎯 Conclusion
+
+<div class="quote-box">
+
+**"The study of sects is not for sectarianism or excommunication, but to distinguish truth from falsehood, and to preserve the purity of the creed."**
+
+</div>
+
+### Key Takeaways
+
+- ✅ **Know evil** to protect yourself from it
+- ✅ **Distinguish** between branches and fundamentals
+- ✅ **Justice** even toward opponents
+- ✅ **Evidence** before judgments
+- ✅ **Humility** in learning
+
+---
+
+**Ready to discover the sects one by one? Next lesson: The Khawarij — the first to divide the Ummah.**
+
+والله الموفق والهادي إلى سواء السبيل
 
 ---
 
