@@ -1,426 +1,1010 @@
 export const contentFr = `# Le Prêt et le Gage — Règles des Dettes et Garanties
 
-## Première Partie : Le Prêt (Qard)
+<div class="scene-box">
+
+**🎬 Scène : Médine — Les derniers jours de la vie du Prophète ﷺ**
+
+*Dans la modeste maison de Aïcha رضي الله عنها, les murs en terre et le toit en feuilles de palmier... Le Prophète ﷺ dans sa dernière maladie, et sa cotte de mailles n'est pas avec lui...*
+
+**Aïcha رضي الله عنها :** *(après sa mort ﷺ, racontant aux Tabi'in)*
+Le Messager d'Allah ﷺ est décédé **alors que sa cotte de mailles était en gage chez un juif contre trente sâ' d'orge**.
+
+**Le Tabi'i :** *(stupéfait)*
+Le maître de la création, le plus noble des humains, meurt avec sa cotte de mailles en gage ?!
+
+**Aïcha رضي الله عنها :** *(les yeux en larmes)*
+Oui, et la famille de Muhammad n'a jamais mangé du pain d'orge à satiété deux jours de suite jusqu'à sa mort.
+
+*Voici le détachement du monde... Et voici la légitimité du gage et du prêt par nécessité, même si l'emprunteur est la meilleure des créatures ﷺ.*
+
+</div>
+
+---
+
+## Première Partie : Le Prêt (Qard Hassan)
 
 ### Définition du Prêt
 
-**Étymologie :**
-Qard : couper, car le prêteur coupe une partie de son bien pour la donner à l'emprunteur.
+<div class="quote-box">
 
-**Terminologie :**
-> Donner un bien à quelqu'un pour qu'il en bénéficie et en rende l'équivalent.
+**📜 Définition Juridique**
+
+**Linguistiquement :**
+Le prêt (Qard) : **La coupure**, car le prêteur coupe une partie de son bien pour la donner à l'emprunteur.
+
+**Techniquement :**
+> **Donner un bien à quelqu'un pour qu'il en profite et en rende l'équivalent**
+>
+> C'est-à-dire : transférer la propriété d'un bien à condition d'en rendre l'équivalent.
+
+</div>
+
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│                   Le Contrat de Prêt                        │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│      Le Prêteur                        L'Emprunteur         │
+│         │                                │                  │
+│         │────── 💰 Le bien ──────────►│                  │
+│         │                                │                  │
+│         │◄───── 💰 Remboursement ────────│                  │
+│                                                             │
+│    ════════════════════════════════════════════════════     │
+│    📍 Maintenant : Le prêteur donne le bien                 │
+│    📍 Plus tard : L'emprunteur rend l'équivalent            │
+│                   (sans intérêt stipulé)                    │
+│    ════════════════════════════════════════════════════     │
+│           ❌ Intérêt stipulé = Riba                         │
+│           ✅ Supplément volontaire = Bonne conduite         │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
 
 ---
 
-### La Légitimité du Prêt
+### Légitimité et Mérite du Prêt
 
-**Dans le Coran :**
-> Allah تعالى dit : ﴿Quiconque fait à Allah un prêt sincère, Allah le lui multipliera plusieurs fois﴾ [Al-Baqarah : 245]
+<div class="quote-box">
 
-**Dans la Sunna Prophétique :**
-> Abou Hourayra رضي الله عنه rapporte que le Prophète ﷺ a dit : "Quiconque soulage un croyant d'une difficulté de ce monde, Allah le soulagera d'une difficulté du Jour de la Résurrection." [Rapporté par Muslim]
+**📜 Du Coran**
 
-> Ibn Mas'ud رضي الله عنه rapporte que le Prophète ﷺ a dit : "Tout musulman qui prête à un autre musulman deux fois, c'est comme s'il avait fait l'aumône une fois." [Rapporté par Ibn Majah]
+> Allah dit : ﴾Qui donc prêtera à Allah un beau prêt ? Il le lui multipliera plusieurs fois﴿ [Al-Baqarah : 245]
 
-**Le Consensus :**
-Les savants sont unanimes sur la licéité du prêt et qu'il fait partie des actes de rapprochement vers Allah.
+**De la Sunna :**
+> D'après Abu Hurayra رضي الله عنه, le Prophète ﷺ a dit : **« Quiconque soulage un croyant d'une difficulté de ce monde, Allah le soulagera d'une difficulté du Jour de la Résurrection. »** [Muslim]
+
+</div>
+
+<div class="quote-box">
+
+**📜 Le Grand Mérite du Prêt**
+
+> D'après Ibn Mas'ud رضي الله عنه, le Prophète ﷺ a dit :
+>
+> **« Tout musulman qui prête à un autre musulman deux fois, c'est comme s'il avait donné une aumône. »**
+>
+> [Ibn Majah]
+
+**Pourquoi le prêt est-il parfois meilleur que l'aumône ?**
+Car l'emprunteur le prend par besoin puis le rend, ce qui préserve mieux sa dignité.
+
+</div>
+
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│                  Le Mérite du Prêt                          │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│        ┌─────────────────────────────────────────┐          │
+│        │  Prêter deux fois = Une aumône         │          │
+│        └─────────────────────────────────────────┘          │
+│                          ▼                                  │
+│   ┌─────────────────────────────────────────────────────┐   │
+│   │              Pourquoi ce mérite ?                   │   │
+│   ├─────────────────────────────────────────────────────┤   │
+│   │ ✅ Répond au besoin en préservant la dignité        │   │
+│   │ ✅ L'argent revient pour être prêté à d'autres      │   │
+│   │ ✅ Crée la solidarité dans la société               │   │
+│   │ ✅ Évite les portes de l'usure                      │   │
+│   └─────────────────────────────────────────────────────┘   │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
 
 ---
 
-### Le Jugement du Prêt
+### Le Statut du Prêt
 
-| Jugement pour le prêteur | Détail |
-|--------------------------|--------|
-| Recommandé | C'est le principe pour prêter à celui qui en a besoin |
-| Détestable | Prêter à celui qui l'utilisera dans la désobéissance |
-| Interdit | Prêter à celui qui l'utilisera dans l'illicite connu |
+<div class="scene-box">
 
-| Jugement pour l'emprunteur | Détail |
-|----------------------------|--------|
-| Permis | S'il est capable de rembourser |
-| Détestable | S'il n'en a pas besoin |
-| Interdit | S'il sait qu'il ne remboursera pas |
+**🎬 Scène : Une leçon de fiqh**
+
+**L'étudiant :** Ô Sheikh, le prêt est-il obligatoire ou recommandé ?
+
+**Le Sheikh :** Le prêt a plusieurs statuts, regarde...
+
+</div>
+
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│                Statut du Prêt pour le Prêteur               │
+├───────────────────────────────┬─────────────────────────────┤
+│           Statut              │          Détail             │
+├───────────────────────────────┼─────────────────────────────┤
+│ ✅ Recommandé                 │ Le principe pour celui      │
+│                               │ dans le besoin              │
+├───────────────────────────────┼─────────────────────────────┤
+│ ⚠️ Déconseillé                │ Prêter à qui gaspillera     │
+├───────────────────────────────┼─────────────────────────────┤
+│ ❌ Interdit                   │ Prêter à qui l'utilisera    │
+│                               │ pour l'illicite (alcool...) │
+└───────────────────────────────┴─────────────────────────────┘
+\`\`\`
+
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│             Statut du Prêt pour l'Emprunteur                │
+├───────────────────────────────┬─────────────────────────────┤
+│           Statut              │          Détail             │
+├───────────────────────────────┼─────────────────────────────┤
+│ ✅ Permis                     │ S'il est dans le besoin     │
+│                               │ et capable de rembourser    │
+├───────────────────────────────┼─────────────────────────────┤
+│ ⚠️ Déconseillé                │ S'il n'en a pas besoin      │
+├───────────────────────────────┼─────────────────────────────┤
+│ ❌ Interdit                   │ S'il sait qu'il ne          │
+│                               │ remboursera pas             │
+└───────────────────────────────┴─────────────────────────────┘
+\`\`\`
 
 ---
 
 ### Les Piliers et Conditions du Prêt
 
-**Premier Pilier : Le Prêteur**
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│                    Les Piliers du Prêt                      │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   ┌─────────────┐      ┌─────────────┐      ┌─────────────┐ │
+│   │ Le Prêteur  │      │L'Emprunteur │      │   Le Bien   │ │
+│   └──────┬──────┘      └──────┬──────┘      └──────┬──────┘ │
+│          │                    │                    │        │
+│          ▼                    ▼                    ▼        │
+│   ┌─────────────┐      ┌─────────────┐      ┌─────────────┐ │
+│   │Apte à donner│      │ Apte à      │      │ Bien licite │ │
+│   │  Consentant │      │ s'engager   │      │ Connu       │ │
+│   └─────────────┘      └─────────────┘      └─────────────┘ │
+│                                                             │
+│                + La formule (offre et acceptation)          │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
 
-**Ses conditions :**
-1. Être apte à faire des dons (propriétaire, majeur, sain d'esprit, responsable)
-2. Être volontaire, non contraint
+#### Conditions du Bien Prêté
 
-**Deuxième Pilier : L'Emprunteur**
-
-**Ses conditions :**
-1. Être apte à s'engager
-2. Accepter le prêt
-
-**Troisième Pilier : Le Bien Prêté**
-
-**Ses conditions :**
-1. Être un bien licite
-2. Être connu en quantité et qualité
-3. Être parmi les biens fongibles selon la majorité
-
-**Quatrième Pilier : La Formule**
-
-Ce qui indique l'offre et l'acceptation par parole ou acte.
-
----
-
-### Les Règles du Prêt
-
-**1. Propriété du bien prêté :**
-- La propriété du bien passe à l'emprunteur par la réception
-- Il peut en disposer comme il veut
-
-**2. Moment du remboursement :**
-
-| Situation | Règle |
-|-----------|-------|
-| Prêt à terme | Remboursement obligatoire à l'échéance |
-| Prêt immédiat | Remboursement obligatoire à la demande |
-| Pas de terme fixé | Selon la coutume |
-
-**3. Lieu du remboursement :**
-- À l'endroit où le prêt a eu lieu
-- Ou là où ils conviennent
-
-**4. Le surplus au remboursement :**
-
-| Type de surplus | Jugement |
-|-----------------|----------|
-| Surplus stipulé | Interdit (usure) |
-| Surplus sans condition | Permis et recommandé |
-
-**La preuve :**
-> Le Prophète ﷺ a dit : "Les meilleurs d'entre vous sont ceux qui remboursent le mieux." [Unanimement reconnu]
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│                Conditions du Bien Prêté                     │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   1️⃣ Être un bien licite                                   │
+│       ══════════════════                                    │
+│       ✗ Interdit de prêter de l'alcool ou du porc          │
+│                                                             │
+│   2️⃣ Être connu en quantité et qualité                     │
+│       ═════════════════════════════════                     │
+│       Exemple : "Je te prête 10 000 €"                      │
+│                                                             │
+│   3️⃣ Être fongible (remplaçable par équivalent)            │
+│       ═════════════════════════════════════════             │
+│       Monnaie, céréales, produits manufacturés identiques   │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
 
 ---
 
-### Le Prêt Qui Génère un Bénéfice
+### Règles du Prêt
 
-**La règle :**
-> Tout prêt qui génère un bénéfice est de l'usure.
+#### 1. La Propriété du Bien Prêté
 
-**Formes de bénéfice interdit :**
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│              Propriété du Bien Prêté                        │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   📍 La propriété passe à l'emprunteur dès réception        │
+│                                                             │
+│   📍 Il peut en disposer comme il veut                      │
+│       (vendre, dépenser, investir...)                       │
+│                                                             │
+│   📍 Il doit rendre l'équivalent (pas le bien lui-même)     │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
 
-1. **Le surplus stipulé :** "Je te prête mille à condition que tu rendes mille cent"
-2. **Bénéficier du bien :** "Je te prête à condition que tu me loges dans ta maison"
-3. **Le cadeau stipulé :** "Je te prête à condition que tu m'offres un cadeau"
+#### 2. Délai et Lieu de Remboursement
 
-**Ce qui est permis :**
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│                  Délai de Remboursement                     │
+├───────────────────────────────┬─────────────────────────────┤
+│           Situation           │          Règle              │
+├───────────────────────────────┼─────────────────────────────┤
+│ Prêt à terme (échéance fixée) │ Rembourser à l'échéance     │
+├───────────────────────────────┼─────────────────────────────┤
+│ Prêt immédiat (sans terme)    │ Rembourser sur demande      │
+├───────────────────────────────┼─────────────────────────────┤
+│ Sans précision                │ Selon l'usage local         │
+└───────────────────────────────┴─────────────────────────────┘
 
-1. Le surplus non stipulé au remboursement
-2. Le cadeau non stipulé de l'emprunteur
-3. Rendre mieux que ce qui a été emprunté sans condition
+┌─────────────────────────────────────────────────────────────┐
+│                  Lieu de Remboursement                      │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   📍 Principe : Là où le prêt a eu lieu                     │
+│                                                             │
+│   📍 Ou : Là où ils conviennent                             │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
+
+---
+
+### Le Supplément au Remboursement
+
+<div class="quote-box">
+
+**📜 La Règle d'Or**
+
+> **Tout prêt qui génère un profit est de l'usure (Riba)**
+
+C'est une règle sur laquelle les juristes sont unanimes.
+
+</div>
+
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│              Le Supplément au Remboursement                 │
+├───────────────────────────────┬─────────────────────────────┤
+│       Type de Supplément      │          Statut             │
+├───────────────────────────────┼─────────────────────────────┤
+│ Supplément stipulé au contrat │ ❌ Interdit = Riba          │
+│ "Je te prête 1000, tu rends   │                             │
+│ 1100"                         │                             │
+├───────────────────────────────┼─────────────────────────────┤
+│ Supplément volontaire sans    │ ✅ Permis et recommandé     │
+│ condition                     │ = Bonne conduite            │
+└───────────────────────────────┴─────────────────────────────┘
+\`\`\`
+
+<div class="quote-box">
+
+**📜 Preuve de la Légitimité du Supplément Volontaire**
+
+> Le Prophète ﷺ a dit : **« Les meilleurs d'entre vous sont ceux qui remboursent le mieux. »** [Bukhari et Muslim]
+
+Et le Prophète ﷺ, quand il empruntait, rendait mieux que ce qu'il avait pris.
+
+</div>
+
+---
+
+### Formes de Prêt Générant un Profit (Riba)
+
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│         Formes Interdites de Profit sur le Prêt             │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   ❌ 1. Supplément monétaire stipulé                        │
+│       ═══════════════════════════════                       │
+│       "Je te prête mille, tu rends mille cent"              │
+│                                                             │
+│   ❌ 2. Profiter du bien de l'emprunteur                    │
+│       ════════════════════════════════════                  │
+│       "Je te prête si tu me loges chez toi"                 │
+│                                                             │
+│   ❌ 3. Cadeau stipulé                                      │
+│       ══════════════════                                    │
+│       "Je te prête si tu me fais un cadeau"                 │
+│                                                             │
+│   ❌ 4. Service stipulé                                     │
+│       ══════════════════                                    │
+│       "Je te prête si tu travailles pour moi une semaine"   │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
+
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│               Ce qui est Permis dans le Prêt                │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   ✅ 1. Supplément volontaire au remboursement              │
+│       (Bonne conduite)                                      │
+│                                                             │
+│   ✅ 2. Cadeau non stipulé de l'emprunteur                  │
+│       (S'il n'est pas lié au prêt)                          │
+│                                                             │
+│   ✅ 3. Rendre mieux que ce qu'on a emprunté sans condition │
+│       (Emprunté en euros, rendu en dollars plus avantageux) │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
 
 ---
 
 ## Deuxième Partie : Le Gage (Rahn)
 
+<div class="scene-box">
+
+**🎬 Scène : Le Marché de Médine — À l'époque du Prophète ﷺ**
+
+*Le Prophète ﷺ a besoin de nourriture pour sa famille, et va chez un juif vendeur d'orge...*
+
+**Le Prophète ﷺ :** Ô untel, vends-moi trente sâ' d'orge à terme.
+
+**Le Juif :** *(avec la prudence du commerçant)*
+As-tu quelque chose à mettre en gage ?
+
+**Le Prophète ﷺ :** Ma cotte de mailles.
+
+**Le Juif :** *(stupéfait)*
+Ta cotte de mailles ?! La cotte du Prophète ?!
+
+**Le Prophète ﷺ :** Oui, prends-la comme garantie jusqu'à ce que je rembourse.
+
+*Et la cotte de mailles resta chez le juif jusqu'à la mort du Prophète ﷺ... C'est cela le gage : garantir une dette par un bien.*
+
+</div>
+
 ### Définition du Gage
 
-**Étymologie :**
-La permanence et la durée, d'où la parole d'Allah : ﴿Chaque âme est l'otage de ce qu'elle a acquis﴾ [Al-Muddathir : 38]
+<div class="quote-box">
 
-**Terminologie :**
-> Garantir une dette par un bien dont on peut se faire payer ou de son prix en cas d'impossibilité de remboursement.
+**📜 Définition Juridique**
+
+**Linguistiquement :**
+La permanence et la stabilité, d'où la parole d'Allah : ﴾Chaque âme est otage de ce qu'elle a acquis﴿ [Al-Muddaththir : 38]
+
+**Techniquement :**
+> **Garantir une dette par un bien dont on peut se rembourser ou de son prix en cas de non-paiement**
+>
+> C'est-à-dire : mettre quelque chose de valeur en garantie de la dette.
+
+</div>
+
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│                    Le Contrat de Gage                       │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│      Le Garant (débiteur)              Le Créancier         │
+│           │                                │                │
+│           │────── 🏠 Le bien en gage ──►│                │
+│           │                                │                │
+│           │◄───── 💰 Le prêt ──────────────│                │
+│                                                             │
+│    ════════════════════════════════════════════════════     │
+│    📍 Le gage = garantie = sûreté                           │
+│    📍 Si la dette est remboursée ◄── le bien est rendu      │
+│    📍 Si non remboursée ◄── le bien est vendu               │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
 
 ---
 
-### La Légitimité du Gage
+### Légitimité du Gage
 
-**Dans le Coran :**
-> Allah تعالى dit : ﴿Et si vous êtes en voyage et ne trouvez pas de scribe, alors un gage saisi﴾ [Al-Baqarah : 283]
+<div class="quote-box">
 
-**Dans la Sunna Prophétique :**
-> Aïcha رضي الله عنها rapporte : "Le Prophète ﷺ acheta de la nourriture d'un juif et lui donna en gage son armure." [Unanimement reconnu]
+**📜 Du Coran**
+
+> Allah dit : ﴾Et si vous êtes en voyage et ne trouvez pas de scribe, alors un gage tenu en main﴿ [Al-Baqarah : 283]
+
+**De la Sunna :**
+> D'après Aïcha رضي الله عنها : **« Le Prophète ﷺ a acheté de la nourriture à un juif et lui a donné sa cotte de mailles en gage. »** [Bukhari et Muslim]
 
 **Le Consensus :**
-Les savants sont unanimes sur la licéité du gage.
+Les savants sont unanimes sur la licéité du gage en voyage comme en résidence.
+
+</div>
 
 ---
 
 ### Les Piliers du Gage
 
-**Premier Pilier : Le Constituant du Gage (le débiteur)**
-
-**Ses conditions :**
-1. Aptitude à faire des dons
-2. Être propriétaire du bien gagé ou autorisé
-
-**Deuxième Pilier : Le Créancier Gagiste (le créancier)**
-
-**Ses conditions :**
-1. Aptitude à accepter le gage
-2. Être le titulaire de la créance
-
-**Troisième Pilier : Le Bien Gagé**
-
-**Ses conditions :**
-1. Être un bien dont la vente est valide
-2. Être déterminé et connu
-3. Être possible à livrer
-
-**Quatrième Pilier : La Dette Garantie**
-
-**Ses conditions :**
-1. Être une dette établie ou en voie de l'être
-2. Être connue
-
-**Cinquième Pilier : La Formule**
-
-Ce qui indique le gage par parole ou acte.
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│                    Les Piliers du Gage                      │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   ┌─────────────┐   ┌─────────────┐   ┌─────────────┐       │
+│   │ Le Garant   │   │ Le Créancier│   │  Le Bien    │       │
+│   │ (débiteur)  │   │             │   │  gagé       │       │
+│   └──────┬──────┘   └──────┬──────┘   └──────┬──────┘       │
+│          │                 │                 │              │
+│          ▼                 ▼                 ▼              │
+│   ┌─────────────┐   ┌─────────────┐   ┌─────────────┐       │
+│   │ Apte à      │   │ Apte à      │   │ Vendable    │       │
+│   │ donner      │   │ recevoir    │   │ Déterminé   │       │
+│   │ Propriétaire│   │ Créancier   │   │ Livrable    │       │
+│   └─────────────┘   └─────────────┘   └─────────────┘       │
+│                                                             │
+│               + La dette + La formule                       │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
 
 ---
 
-### Les Règles du Gage
+### Conditions du Bien Gagé
 
-**1. Caractère obligatoire du gage :**
-
-| Partie | Jugement |
-|--------|----------|
-| Le constituant | Obligatoire pour lui |
-| Le créancier | Facultatif, il peut le résilier quand il veut |
-
-**2. La possession du gage :**
-- Le gage est effectif par la possession
-- La possession est condition d'obligation selon la majorité
-
-**3. Propriété du gage :**
-- Le bien gagé reste la propriété du constituant
-- Le constituant peut en bénéficier sans lui nuire
-
-**4. Disposition du bien gagé :**
-
-| Disposition | Jugement du constituant | Jugement du créancier |
-|-------------|------------------------|----------------------|
-| Vente | Non permise sauf autorisation du créancier | Non permise |
-| Location | Non permise sauf autorisation du créancier | Non permise |
-| Usage | Permis si sans préjudice | Non permis sauf autorisation |
-
----
-
-### L'Usage du Gage par le Créancier
-
-**Le principe :**
-> Il n'est pas permis au créancier de bénéficier du gage car c'est un prêt qui génère un bénéfice.
-
-**L'exception :**
-
-| Situation | Jugement |
-|-----------|----------|
-| Autorisation du constituant pour usage gratuit | Non permis (prêt générant bénéfice) |
-| Gage d'animal montable ou laitier | Permis au créancier de le monter et le traire à hauteur de ses dépenses |
-
-**Preuve de l'exception :**
-> Le Prophète ﷺ a dit : "La monture se monte à proportion de ses frais quand elle est gagée, et le lait se boit à proportion de ses frais quand l'animal est gagé, et celui qui monte et boit supporte les frais." [Rapporté par al-Bukhari]
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│                 Conditions du Bien Gagé                     │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   1️⃣ Être un bien vendable                                 │
+│       ═════════════════════                                 │
+│       ✅ Valide : voiture, maison, or, actions              │
+│       ❌ Invalide : alcool, porc, bien volé                 │
+│                                                             │
+│   2️⃣ Être déterminé et connu                               │
+│       ═══════════════════════                               │
+│       ✅ Valide : "cette voiture" "cette maison"            │
+│       ❌ Invalide : "une de mes voitures" (indéterminé)     │
+│                                                             │
+│   3️⃣ Pouvoir être livré                                    │
+│       ═════════════════════                                 │
+│       ❌ Invalide : gager un oiseau en vol                  │
+│       ❌ Invalide : gager un bien absent introuvable        │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
 
 ---
 
-### Destruction du Gage
+### Règles du Gage
 
-| Situation | Jugement |
-|-----------|----------|
-| Détruit par abus du créancier | Le créancier garantit |
-| Détruit par négligence du créancier | Le créancier garantit |
-| Détruit sans abus ni négligence | Détruit aux frais du constituant (majorité) |
+#### 1. Le Caractère Obligatoire du Gage
+
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│              Caractère Obligatoire du Gage                  │
+├───────────────────────────────┬─────────────────────────────┤
+│           Partie              │          Statut             │
+├───────────────────────────────┼─────────────────────────────┤
+│ Le Garant (débiteur)          │ ✅ Obligatoire pour lui     │
+│                               │ Ne peut récupérer le gage   │
+│                               │ qu'après remboursement      │
+├───────────────────────────────┼─────────────────────────────┤
+│ Le Créancier                  │ ⏳ Facultatif, peut annuler │
+│                               │ (rendre le gage et réclamer │
+│                               │ sa créance)                 │
+└───────────────────────────────┴─────────────────────────────┘
+\`\`\`
+
+#### 2. La Propriété du Gage
+
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│              Qui est Propriétaire du Bien Gagé ?            │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│           📍 Le bien gagé reste propriété du garant         │
+│                                                             │
+│   ┌─────────────────────────────────────────────────────┐   │
+│   │  Le Garant ───────────────────► Le Créancier       │   │
+│   │  (propriétaire)      (gardien seulement)           │   │
+│   │  Possède le bien     Dépositaire                   │   │
+│   │  Ses fruits lui      Ne peut en disposer           │   │
+│   │  reviennent                                        │   │
+│   └─────────────────────────────────────────────────────┘   │
+│                                                             │
+│   Exemple : Gage d'une voiture ◄── la voiture appartient    │
+│             au garant                                       │
+│             Si la vache gagée met bas ◄── le veau           │
+│             appartient au garant                            │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
+
+#### 3. Disposition du Bien Gagé
+
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│               Disposition du Bien Gagé                      │
+├───────────────────┬─────────────────┬───────────────────────┤
+│   Disposition     │   Le Garant     │   Le Créancier        │
+├───────────────────┼─────────────────┼───────────────────────┤
+│ Vente             │ ❌ Sauf accord  │ ❌ Absolument interdit │
+├───────────────────┼─────────────────┼───────────────────────┤
+│ Location          │ ❌ Sauf accord  │ ❌ Absolument interdit │
+├───────────────────┼─────────────────┼───────────────────────┤
+│ Utilisation       │ ✅ Si sans      │ ❌ Sauf autorisation  │
+│                   │ préjudice       │                       │
+└───────────────────┴─────────────────┴───────────────────────┘
+\`\`\`
 
 ---
 
-### Vente du Gage en Cas de Non-Remboursement
+### L'Utilisation du Gage par le Créancier
 
-**Si la dette est échue et le constituant ne paie pas :**
+<div class="quote-box">
 
-1. L'insolvable est accordé un délai et son gage n'est pas vendu immédiatement
-2. On demande au constituant de payer
-3. S'il refuse alors qu'il peut : il est contraint à vendre ou le juge vend
-4. La dette est récupérée du prix du gage
-5. S'il reste quelque chose, c'est pour le constituant
+**📜 La Règle d'Or**
+
+> **Le créancier ne peut pas utiliser le bien gagé**
+>
+> Car c'est un prêt qui génère un profit = Riba
+
+</div>
+
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│       Le Créancier Peut-il Utiliser le Bien Gagé ?          │
+├───────────────────────────────┬─────────────────────────────┤
+│           Situation           │          Statut             │
+├───────────────────────────────┼─────────────────────────────┤
+│ Sans autorisation du garant   │ ❌ Absolument interdit      │
+├───────────────────────────────┼─────────────────────────────┤
+│ Avec autorisation gratuite    │ ❌ Interdit (prêt avec      │
+│                               │ profit)                     │
+├───────────────────────────────┼─────────────────────────────┤
+│ Animal montable ou laitier    │ ✅ Permis en proportion de  │
+│ (seulement)                   │ l'entretien fourni          │
+└───────────────────────────────┴─────────────────────────────┘
+\`\`\`
+
+<div class="quote-box">
+
+**📜 Preuve de l'Exception pour les Animaux**
+
+> Le Prophète ﷺ a dit : **« La monture peut être montée en proportion de son entretien si elle est en gage, et le lait peut être bu en proportion de l'entretien si l'animal est en gage. Celui qui monte et boit doit assurer l'entretien. »**
+>
+> [Bukhari]
+
+**La sagesse :** L'animal a besoin d'entretien, donc celui qui l'entretient peut en profiter en proportion.
+
+</div>
+
+---
+
+### Perte du Gage
+
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│            Qui Supporte la Perte du Gage ?                  │
+├───────────────────────────────┬─────────────────────────────┤
+│           Situation           │          Règle              │
+├───────────────────────────────┼─────────────────────────────┤
+│ Perte par abus du créancier   │ ✅ Le créancier est         │
+│ (l'a utilisé et endommagé)    │ responsable                 │
+├───────────────────────────────┼─────────────────────────────┤
+│ Perte par négligence du       │ ✅ Le créancier est         │
+│ créancier (non gardé, volé)   │ responsable                 │
+├───────────────────────────────┼─────────────────────────────┤
+│ Perte sans abus ni négligence │ ✅ Perte pour le garant     │
+│ (incendie, catastrophe)       │ (car il est propriétaire)   │
+└───────────────────────────────┴─────────────────────────────┘
+\`\`\`
+
+---
+
+### Vente du Gage en Cas de Non-Paiement
+
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│        Que Se Passe-t-il si le Garant ne Rembourse Pas ?    │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   1️⃣ Délai pour l'insolvable                               │
+│       ════════════════════════                              │
+│       On ne vend pas immédiatement s'il est incapable       │
+│       ﴾S'il est dans la gêne, accordez-lui un délai         │
+│       jusqu'à l'aisance﴿                                    │
+│                                                             │
+│   2️⃣ Demander le paiement au garant                        │
+│       ══════════════════════════════                        │
+│       S'il en est capable                                   │
+│                                                             │
+│   3️⃣ S'il refuse alors qu'il peut payer                    │
+│       ═══════════════════════════════════                   │
+│       Il est contraint de vendre ou le juge vend            │
+│                                                             │
+│   4️⃣ La dette est récupérée sur le prix du gage            │
+│       ═════════════════════════════════════════             │
+│                                                             │
+│   5️⃣ Le surplus revient au garant                          │
+│       ═══════════════════════════════                       │
+│       ﴾Si le prix dépasse la dette﴾ ◄── la différence       │
+│       revient au garant                                     │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
+
+---
+
+## 📖 Histoires des Pieux Prédécesseurs
+
+<div class="scene-box">
+
+**🎬 La Cotte de Mailles du Prophète ﷺ en Gage**
+
+*Après la mort du Prophète ﷺ, dans une assemblée de ses compagnons رضي الله عنهم...*
+
+**Abu Bakr As-Siddiq رضي الله عنه :** *(s'enquérant)*
+Où est la cotte de mailles du Messager d'Allah ﷺ ?
+
+**Aïcha رضي الله عنها :**
+En gage chez un juif contre trente sâ' d'orge.
+
+**Abu Bakr رضي الله عنه :** *(les larmes aux yeux)*
+Gloire à Allah ! Le maître de la création, le meilleur des humains, meurt avec sa cotte de mailles en gage ! Par Allah, il s'est détaché de ce monde comme personne ne l'a fait.
+
+**La leçon :**
+- Licéité du gage par nécessité, même avec un non-musulman
+- L'humilité du Prophète ﷺ et son détachement de ce monde
+- Légitimité du prêt même pour le riche dans le besoin
+
+</div>
+
+---
+
+<div class="scene-box">
+
+**🎬 La Belle Conduite de Remboursement d'Abdullah ibn Umar**
+
+*Abdullah ibn Umar رضي الله عنهما était parmi les plus scrupuleux...*
+
+**Le Narrateur :**
+Abdullah ibn Umar رضي الله عنهما, quand il empruntait de l'argent à quelqu'un, rendait **mieux que ce qu'il avait pris**.
+
+**On lui demanda :**
+Pourquoi ajoutes-tu, ô Abu Abdurrahman ?
+
+**Ibn Umar :**
+J'ai entendu le Prophète ﷺ dire : **« Les meilleurs d'entre vous sont ceux qui remboursent le mieux. »**
+
+**La leçon :**
+Le supplément volontaire au remboursement fait partie des nobles caractères et n'est pas de l'usure.
+
+</div>
+
+---
+
+<div class="scene-box">
+
+**🎬 Le Prêt d'Abu Bakr au Prophète ﷺ lors de l'Hégire**
+
+*Quand le Prophète ﷺ voulut émigrer, Abu Bakr As-Siddiq رضي الله عنه prépara deux montures...*
+
+**Abu Bakr رضي الله عنه :**
+Ô Messager d'Allah, voici ta monture.
+
+**Le Prophète ﷺ :** *(refusant)*
+**Au prix.**
+
+**Abu Bakr :** Ô Messager d'Allah, elle est à toi !
+
+**Le Prophète ﷺ :**
+Non, **au prix**. Je ne l'accepte qu'à son prix.
+
+**La leçon :**
+Le Prophète ﷺ voulait que les choses soient claires : soit un prêt à rembourser, soit une vente à prix. Le prêt ne se mélange pas avec le don.
+
+</div>
 
 ---
 
 ## Applications Contemporaines
 
-### Le Crédit Immobilier Islamique
+### L'Hypothèque Islamique
 
-**La forme licite :**
-1. L'acheteur achète un bien immobilier à crédit
-2. Le bien reste gagé auprès de la banque comme garantie
-3. Au paiement complet, le gage est levé
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│                  L'Hypothèque Islamique                     │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   La forme licite :                                         │
+│   ═════════════════                                         │
+│                                                             │
+│   1. La banque achète le bien (Murabaha)                    │
+│   2. Le vend au client par paiements (avec profit connu)    │
+│   3. Le bien reste en garantie                              │
+│   4. Au paiement complet ◄── la garantie est levée          │
+│                                                             │
+│   ════════════════════════════════════════════════════     │
+│                                                             │
+│   ❌ L'interdit :                                           │
+│   ──────────────                                            │
+│   • Intérêts usuraires sur le retard                        │
+│   • Saisie du bien au premier retard                        │
+│   • Pénalités composées                                     │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
 
-**Ce qui est interdit :**
-- Que la banque stipule des intérêts usuraires sur le retard
-- Que la banque prenne le bien au premier retard
+### Le Gage d'Actions et Sukuk
 
-### Le Gage d'Actions et de Sukuk
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│               Le Gage d'Actions et Sukuk                    │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   ✅ Permis sous conditions :                               │
+│   ══════════════════════════                                │
+│                                                             │
+│   1️⃣ Les actions doivent être licites (sociétés halal)     │
+│                                                             │
+│   2️⃣ Connues (nombre, type, valeur)                        │
+│                                                             │
+│   3️⃣ Conservées par un tiers neutre                        │
+│       (centre de dépôt des titres)                          │
+│                                                             │
+│   4️⃣ Évaluées au prix du marché lors de la vente           │
+│       (pas au prix du jour du gage)                         │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
 
-**Son jugement :**
-Permis avec conditions :
-1. Que les actions soient licites
-2. Qu'elles soient connues
-3. Qu'elles soient conservées auprès d'une partie neutre
+### Le Gage de l'Or
 
-### Le Gage d'Or
-
-**Son jugement :**
-Permis en tenant compte de :
-1. Évaluation de l'or le jour du gage
-2. À la vente : vendu au prix du marché
-3. La différence est rendue au constituant ou récupérée de lui
-
----
-
-## 📖 Récits des Pieux Prédécesseurs
-
-### Le gage de l'armure du Prophète ﷺ
-
-**Aïcha رضي الله عنها** a rapporté :
-
-> "Le Messager d'Allah ﷺ est décédé alors que son armure était gagée chez un juif contre trente sa' d'orge."
-
-**Rapporté par al-Bukhari et Muslim**
-
-L'imam **Ibn Hajar al-'Asqalani** رحمه الله a commenté :
-
-> "Ce hadith prouve la licéité de traiter avec les non-musulmans dans ce qui n'est pas interdit en soi, la licéité de gager les armes de guerre chez un non-musulman, et que cela ne fait pas partie de l'alliance interdite."
-
-**La leçon :**
-- L'humilité du Prophète ﷺ et son détachement de ce monde
-- La licéité du gage par besoin, même avec un non-musulman
-- Le prêt est légitime même du riche envers le pauvre
-
----
-
-### Le prêt d'Abou Bakr as-Siddiq رضي الله عنه
-
-Lors de l'émigration du Prophète ﷺ avec **Abou Bakr as-Siddiq رضي الله عنه**, Abou Bakr acheta deux montures pour le voyage.
-
-Le Prophète ﷺ dit : "**Au prix**"
-
-C'est-à-dire : je ne l'accepte qu'en payant son prix.
-
-**La leçon :** Le Prophète ﷺ voulait que le prêt soit clair et ne se mélange pas au don. C'est la perfection de la clarté dans les transactions financières.
-
----
-
-### L'excellence du remboursement chez Abdallah ibn Umar
-
-**Abdallah ibn Umar رضي الله عنهما**, lorsqu'il empruntait de l'argent à quelqu'un, le rendait meilleur que ce qu'il avait pris.
-
-On lui demanda pourquoi, il répondit :
-
-> "J'ai entendu le Prophète ﷺ dire : Les meilleurs d'entre vous sont ceux qui remboursent le mieux."
-
-**La leçon :** L'ajout lors du remboursement sans condition préalable fait partie des nobles caractères et n'est pas de l'usure.
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│                      Le Gage de l'Or                        │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   ✅ Permis en observant :                                  │
+│   ════════════════════════                                  │
+│                                                             │
+│   📍 Évaluer l'or au jour du gage (pour documentation)      │
+│                                                             │
+│   📍 Lors de la vente : vendre au prix du marché du jour    │
+│                                                             │
+│   📍 La différence revient au garant ou lui est réclamée    │
+│                                                             │
+│   ════════════════════════════════════════════════════     │
+│                                                             │
+│   ⚠️ Attention :                                            │
+│   ──────────────                                            │
+│   Certains bijoutiers prennent des "frais de stockage"      │
+│   qui sont en réalité des intérêts usuraires déguisés !     │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
 
 ---
 
 ## 🎯 Cas Contemporains
 
-### Cas 1 : Le prêt bienveillant pour le mariage
+### Cas n°1 : Le Prêt pour le Mariage
 
-**Question :** Mon frère veut se marier mais n'a pas les moyens. Je veux lui prêter 50 000 riyals qu'il me rendra dans deux ans. Est-ce permis ?
-
-**Réponse :** ✅ **Permis et recommandé** — c'est l'un des meilleurs actes d'adoration :
-- Le prêt à celui qui en a besoin est recommandé
-- Aider son frère à se marier est une aumône
-- Aucun profit ni surplus n'est exigé
-
-⚠️ **Attention :** Ne stipule aucun surplus, et n'accepte pas de cadeau à cause du prêt.
-
----
-
-### Cas 2 : Le gage de la voiture pour un prêt
-
-**Question :** Mon ami veut un prêt de 30 000 riyals. Je lui ai demandé de gager sa voiture jusqu'au remboursement. Puis-je conduire la voiture ?
-
-**Réponse :** ❌ **Non permis** de conduire la voiture gagée :
-- Le gage est un dépôt chez toi
-- Bénéficier du gage = prêt générant un profit = usure
-- L'exception : les animaux qu'on monte et trait en échange de leurs frais uniquement
-
-✅ **L'alternative :** Si l'emprunteur t'autorise à la conduire en payant le carburant et l'entretien, c'est permis en dehors du contrat de gage.
-
----
-
-### Cas 3 : Le financement immobilier islamique
-
-**Question :** La banque islamique finance l'achat d'une maison par murabaha, et la maison reste gagée jusqu'au paiement complet. Quelle différence avec le prêt usuraire ?
-
-**Réponse :**
-
-| Financement islamique | Prêt usuraire |
-|----------------------|---------------|
-| La banque achète la maison puis te la vend | La banque te prête de l'argent |
-| Le prix est fixe, n'augmente pas avec le retard | L'intérêt augmente avec le retard |
-| La maison est gagée comme garantie | La maison est gagée comme garantie |
-| Le profit est connu dès le départ | L'intérêt peut changer |
-
-✅ **Licite :** Murabaha et location avec option d'achat
-❌ **Interdit :** Prêt avec intérêt
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│  💍 Cas : Prêter à son frère pour le mariage                │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  Question :                                                 │
+│  ══════════                                                 │
+│  Mon frère veut se marier mais n'a pas les moyens.          │
+│  Je veux lui prêter 50 000 € remboursables dans 2 ans.      │
+│  Est-ce permis ?                                            │
+│                                                             │
+│  Réponse :                                                  │
+│  ══════════                                                 │
+│  ✅ Permis et recommandé — une des meilleures œuvres        │
+│                                                             │
+│  ✓ Le prêt à celui dans le besoin est recommandé           │
+│  ✓ Aider son frère à se marier est une aumône              │
+│  ✓ Aucun profit ni supplément n'est exigé                  │
+│                                                             │
+│  ⚠️ Attention :                                             │
+│  N'exige aucun supplément et n'accepte pas de cadeau        │
+│  à cause du prêt.                                           │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
 
 ---
 
-### Cas 4 : Le gage de l'or chez le bijoutier
+### Cas n°2 : Utiliser la Voiture en Gage
 
-**Question :** J'ai besoin de liquidités urgentes. Puis-je gager mon or chez le bijoutier contre une somme d'argent ?
-
-**Réponse :** ✅ **Permis** avec conditions :
-1. Déterminer la valeur de l'or au moment du gage
-2. Fixer la durée du gage et le montant du prêt
-3. Ne stipuler aucun surplus au remboursement
-4. En cas d'incapacité de payer : l'or est vendu au prix du marché et l'excédent est rendu au propriétaire
-
-⚠️ **Attention :** Certains bijoutiers prennent des "frais de stockage" qui sont en réalité des intérêts usuraires !
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│  🚗 Cas : Puis-je conduire la voiture en gage ?             │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  Question :                                                 │
+│  ══════════                                                 │
+│  Mon ami veut un prêt de 30 000 €.                          │
+│  Je lui demande de mettre sa voiture en gage.               │
+│  Puis-je conduire cette voiture ?                           │
+│                                                             │
+│  Réponse :                                                  │
+│  ══════════                                                 │
+│  ❌ Non, il est interdit de conduire la voiture en gage     │
+│                                                             │
+│  • Le gage est un dépôt chez toi                           │
+│  • Utiliser le gage = prêt avec profit = Riba              │
+│  • Exception : les animaux se montent et se traient        │
+│    contre leur entretien uniquement                         │
+│                                                             │
+│  ✅ Alternative :                                           │
+│  Si l'emprunteur t'autorise à la conduire par un contrat   │
+│  de location séparé (tu lui paies un loyer) ◄── c'est      │
+│  permis en dehors du contrat de gage                        │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
 
 ---
 
-### Cas 5 : Prêt depuis une application financière
+### Cas n°3 : Financement Islamique vs Conventionnel
 
-**Question :** Une application mobile propose des prêts instantanés. Elle me prête 1000 riyals et je rembourse 1100 après un mois. Quel est le jugement ?
-
-**Réponse :** ❌ **Absolument interdit** :
-- C'est de l'usure explicite
-- Le surplus stipulé = usure de délai
-- Pas de différence entre 10% ou 1%, tout est usure
-
-✅ **L'alternative :** Le prêt bienveillant de la famille et des amis, ou les associations caritatives, ou les fonds de prêt bienveillant.
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│  🏠 Cas : Différence entre financement islamique et usure   │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  Question :                                                 │
+│  ══════════                                                 │
+│  La banque islamique finance l'achat d'une maison par       │
+│  Murabaha, et la maison reste en garantie jusqu'au          │
+│  paiement complet. Quelle différence avec le prêt usuraire ?│
+│                                                             │
+│  Réponse :                                                  │
+│  ══════════                                                 │
+│                                                             │
+│  ┌──────────────────────┬──────────────────────┐            │
+│  │ Financement Islamique│   Prêt Usuraire      │            │
+│  ├──────────────────────┼──────────────────────┤            │
+│  │ La banque achète     │ La banque te prête   │            │
+│  │ puis te vend         │ de l'argent          │            │
+│  ├──────────────────────┼──────────────────────┤            │
+│  │ Le prix ne change pas│ Les intérêts         │            │
+│  │ avec le retard       │ augmentent avec      │            │
+│  │                      │ le retard            │            │
+│  ├──────────────────────┼──────────────────────┤            │
+│  │ Le profit est connu  │ Les intérêts peuvent │            │
+│  │ dès le début         │ varier               │            │
+│  └──────────────────────┴──────────────────────┘            │
+│                                                             │
+│  ✅ Licite : Murabaha, Ijara Muntahiya Bittamlik            │
+│  ❌ Interdit : Prêt avec intérêt                            │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
 
 ---
 
-## 💡 Arrête-toi et Médite
+### Cas n°4 : Gage d'Or chez le Bijoutier
 
-> **Question de réflexion :**
->
-> Le Prophète ﷺ est décédé alors que son armure était gagée, bien qu'il aurait pu se passer d'emprunter.
->
-> - Que nous enseigne son humilité ﷺ dans les transactions financières ?
-> - Comment équilibrer l'autonomie et les relations correctes avec les gens ?
-> - Le prêt bienveillant de notre époque remplit-il son rôle comme à l'époque des pieux prédécesseurs ?
->
-> **Méditation :** "Quiconque soulage un croyant d'une difficulté de ce monde, Allah le soulagera d'une difficulté du Jour de la Résurrection."
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│  💎 Cas : Gager son or contre des liquidités urgentes       │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  Question :                                                 │
+│  ══════════                                                 │
+│  J'ai besoin de liquidités urgentes.                        │
+│  Puis-je gager mon or chez le bijoutier contre de l'argent ?│
+│                                                             │
+│  Réponse :                                                  │
+│  ══════════                                                 │
+│  ✅ Permis sous conditions :                                │
+│                                                             │
+│  1️⃣ Déterminer la valeur de l'or au jour du gage           │
+│  2️⃣ Fixer la durée du gage et le montant du prêt           │
+│  3️⃣ Aucun supplément n'est stipulé au remboursement        │
+│  4️⃣ En cas d'incapacité : l'or est vendu au prix du marché │
+│     et le surplus est rendu au propriétaire                 │
+│                                                             │
+│  ⚠️ Attention :                                             │
+│  Certains bijoutiers prennent des "frais de stockage"       │
+│  = en réalité des intérêts usuraires !                      │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
+
+---
+
+### Cas n°5 : Applications de Prêts Rapides
+
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│  📱 Cas : Application de prêts sur mobile                   │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  Question :                                                 │
+│  ══════════                                                 │
+│  Une application mobile propose des prêts instantanés.      │
+│  Elle me prête 1000 € et je rembourse 1100 € après un mois. │
+│  Quel est le statut ?                                       │
+│                                                             │
+│  Réponse :                                                  │
+│  ══════════                                                 │
+│  ❌ Absolument interdit — Usure explicite                   │
+│                                                             │
+│  • Le supplément stipulé = Riba Nassia                     │
+│  • Pas de différence entre 10% ou 1%, tout est usure       │
+│  • "L'usure, même minime, est grave"                       │
+│                                                             │
+│  ┌─────────────────────────────────────────────────────┐    │
+│  │  ✅ L'alternative licite :                          │    │
+│  ├─────────────────────────────────────────────────────┤    │
+│  │  • Prêt sans intérêt de la famille et des amis      │    │
+│  │  • Associations caritatives                         │    │
+│  │  • Caisses de prêts sans intérêt des mosquées       │    │
+│  │  • Banques de financement islamique (avec leurs     │    │
+│  │    conditions)                                      │    │
+│  └─────────────────────────────────────────────────────┘    │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
+
+---
+
+## 💡 Pause et Réflexion
+
+<div class="quote-box">
+
+**📜 Question de Réflexion**
+
+Le Prophète ﷺ est mort avec sa cotte de mailles en gage, alors qu'il aurait pu se passer d'emprunter.
+
+**Réfléchis à ces significations :**
+
+1️⃣ Pourquoi le Prophète ﷺ a-t-il choisi d'emprunter alors qu'il avait des compagnons riches qui auraient tout donné pour lui ?
+
+2️⃣ Quelle leçon tirer du fait que la cotte soit restée en gage jusqu'à sa mort ﷺ ?
+
+3️⃣ Comment cela nous enseigne-t-il à gérer les dettes et les besoins financiers ?
+
+**La réponse :**
+- Le prêt préserve mieux la dignité que la demande
+- La clarté dans les transactions financières fait partie de la Sunna
+- Le détachement du monde ne signifie pas abandonner les transactions licites
+- Le gage est une garantie légitime qui préserve les droits des deux parties
+
+</div>
 
 ---
 
 ## Résumé de la Leçon
 
-| Élément | Le Prêt | Le Gage |
-|---------|---------|---------|
-| Définition | Donner un bien pour qu'il soit rendu | Garantir une dette par un bien |
-| Jugement | Recommandé pour le prêteur | Permis |
-| Condition principale | Pas de surplus stipulé | Que la vente du bien gagé soit valide |
-| Garantie | L'emprunteur garantit le retour de l'équivalent | Le constituant garantit la destruction du bien |
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│                    Résumé de la Leçon                       │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   📌 Le Prêt (Qard Hassan) :                                │
+│   ══════════════════════════                                │
+│   • Donner un bien pour qu'on en rende l'équivalent         │
+│   • Parmi les meilleures œuvres (2 fois = 1 aumône)         │
+│   • Tout prêt générant un profit = Riba                     │
+│                                                             │
+│   📌 Le Gage (Rahn) :                                       │
+│   ═══════════════════                                       │
+│   • Garantir une dette par un bien                          │
+│   • Le bien reste propriété du garant                       │
+│   • Le créancier ne peut pas utiliser le gage               │
+│   • Exception : animal montable/laitier contre entretien    │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
 
-**Règles importantes :**
-- Tout prêt qui génère un bénéfice est de l'usure
-- Le bien gagé entre les mains du créancier est un dépôt
-- La dette ne s'éteint pas par la destruction du gage
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│                    Règles Importantes                       │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   1️⃣ Tout prêt générant un profit est de l'usure           │
+│                                                             │
+│   2️⃣ Le supplément volontaire au remboursement = bonne     │
+│      conduite (recommandé)                                  │
+│                                                             │
+│   3️⃣ Le gage est un dépôt chez le créancier                │
+│                                                             │
+│   4️⃣ Le bien gagé appartient au garant même s'il est       │
+│      chez le créancier                                      │
+│                                                             │
+│   5️⃣ Si la dette arrive à échéance sans paiement : le gage │
+│      est vendu au prix du marché, la dette est récupérée    │
+│      et le reste revient au garant                          │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
 
 ---
 
-*Ô Seigneur, augmente ma science*
+*Rabbi Zidni 'Ilman — Seigneur, augmente ma science*
 `;

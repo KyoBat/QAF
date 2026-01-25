@@ -1,426 +1,1010 @@
-export const contentEn = `# Loan and Pledge — Rules of Debts and Collaterals
+export const contentEn = `# Loans and Pledges — Rules of Debts and Guarantees
 
-## Part One: The Loan (Qard)
+<div class="scene-box">
 
-### Definition of Loan
+**🎬 Scene: Medina — The Last Days of the Prophet's Life ﷺ**
 
-**Linguistic Meaning:**
-Qard: to cut, because the lender cuts a portion of his wealth to give to the borrower.
+*In the modest house of Aisha رضي الله عنها, walls of clay and roof of palm leaves... The Prophet ﷺ in his final illness, and his armor is not with him...*
 
-**Technical Meaning:**
-> Giving wealth to someone to benefit from it and return its equivalent.
+**Aisha رضي الله عنها:** *(after his death ﷺ, narrating to the Tabi'in)*
+The Messenger of Allah ﷺ passed away **while his armor was pledged with a Jew for thirty saa' of barley**.
+
+**The Tabi'i:** *(astonished)*
+The master of creation, the noblest of humans, dies with his armor pledged?!
+
+**Aisha رضي الله عنها:** *(with tearful eyes)*
+Yes, and the family of Muhammad never ate barley bread to satisfaction two days in a row until he passed away.
+
+*This is detachment from the world... And this is the legitimacy of pledge and loan out of necessity, even if the borrower is the best of creation ﷺ.*
+
+</div>
 
 ---
 
-### The Legitimacy of Loan
+## Part One: The Loan (Qard Hassan)
 
-**From the Quran:**
-> Allah تعالى says: ﴿Who is it that would loan Allah a goodly loan so He may multiply it for him many times over?﴾ [Al-Baqarah: 245]
+### Definition of Loan
 
-**From the Prophetic Sunna:**
-> Abu Hurayra رضي الله عنه reported that the Prophet ﷺ said: "Whoever relieves a believer of a hardship from the hardships of this world, Allah will relieve him of a hardship from the hardships of the Day of Resurrection." [Reported by Muslim]
+<div class="quote-box">
 
-> Ibn Mas'ud رضي الله عنه reported that the Prophet ﷺ said: "No Muslim lends to another Muslim twice except that it is like giving charity once." [Reported by Ibn Majah]
+**📜 Juristic Definition**
 
-**Consensus:**
-Scholars are unanimous on the permissibility of loans and that they are among the acts of worship.
+**Linguistically:**
+Qard (loan): **Cutting**, because the lender cuts a portion of his wealth to give to the borrower.
+
+**Technically:**
+> **Giving property to someone to benefit from it and return its equivalent**
+>
+> That is: transferring ownership of property on condition of returning its equivalent.
+
+</div>
+
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│                   The Loan Contract                         │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│      The Lender                         The Borrower        │
+│         │                                │                  │
+│         │────── 💰 The property ──────►│                  │
+│         │                                │                  │
+│         │◄───── 💰 Repayment ────────────│                  │
+│                                                             │
+│    ════════════════════════════════════════════════════     │
+│    📍 Now: The lender gives the property                    │
+│    📍 Later: The borrower returns the equivalent            │
+│              (without stipulated interest)                  │
+│    ════════════════════════════════════════════════════     │
+│           ❌ Stipulated interest = Riba                     │
+│           ✅ Voluntary extra = Good repayment               │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
+
+---
+
+### Legitimacy and Merit of the Loan
+
+<div class="quote-box">
+
+**📜 From the Quran**
+
+> Allah says: ﴾Who is it that will lend Allah a goodly loan? He will multiply it for him many times﴿ [Al-Baqarah: 245]
+
+**From the Sunnah:**
+> Abu Hurayra رضي الله عنه narrated that the Prophet ﷺ said: **"Whoever relieves a believer of a hardship of this world, Allah will relieve him of a hardship on the Day of Resurrection."** [Muslim]
+
+</div>
+
+<div class="quote-box">
+
+**📜 The Great Merit of the Loan**
+
+> Ibn Mas'ud رضي الله عنه narrated that the Prophet ﷺ said:
+>
+> **"Any Muslim who lends another Muslim twice, it is like giving charity once."**
+>
+> [Ibn Majah]
+
+**Why is the loan sometimes better than charity?**
+Because the borrower takes it out of need and returns it, which better preserves his dignity.
+
+</div>
+
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│                   The Merit of the Loan                     │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│        ┌─────────────────────────────────────────┐          │
+│        │  Lending twice = One charity            │          │
+│        └─────────────────────────────────────────┘          │
+│                          ▼                                  │
+│   ┌─────────────────────────────────────────────────────┐   │
+│   │              Why this merit?                        │   │
+│   ├─────────────────────────────────────────────────────┤   │
+│   │ ✅ Meets the need while preserving dignity          │   │
+│   │ ✅ The money returns to be lent to others           │   │
+│   │ ✅ Creates solidarity in society                    │   │
+│   │ ✅ Closes the doors to usury                        │   │
+│   └─────────────────────────────────────────────────────┘   │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
 
 ---
 
 ### The Ruling on Loans
 
-| Ruling for the lender | Detail |
-|----------------------|--------|
-| Recommended | The principle for lending to the needy |
-| Disliked | Lending to one who uses it in disobedience |
-| Prohibited | Lending to one who uses it in known prohibited acts |
+<div class="scene-box">
 
-| Ruling for the borrower | Detail |
-|------------------------|--------|
-| Permissible | If capable of repaying |
-| Disliked | If not in need |
-| Prohibited | If knowing they won't repay |
+**🎬 Scene: A fiqh lesson**
+
+**The Student:** O Sheikh, is the loan obligatory or recommended?
+
+**The Sheikh:** The loan has various rulings, look...
+
+</div>
+
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│                Ruling on Loan for the Lender                │
+├───────────────────────────────┬─────────────────────────────┤
+│           Ruling              │          Detail             │
+├───────────────────────────────┼─────────────────────────────┤
+│ ✅ Recommended                │ The principle for one       │
+│                               │ in need                     │
+├───────────────────────────────┼─────────────────────────────┤
+│ ⚠️ Disliked                   │ Lending to one who will     │
+│                               │ waste it                    │
+├───────────────────────────────┼─────────────────────────────┤
+│ ❌ Forbidden                  │ Lending to one who will     │
+│                               │ use it for haram (alcohol)  │
+└───────────────────────────────┴─────────────────────────────┘
+\`\`\`
+
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│             Ruling on Loan for the Borrower                 │
+├───────────────────────────────┬─────────────────────────────┤
+│           Ruling              │          Detail             │
+├───────────────────────────────┼─────────────────────────────┤
+│ ✅ Permissible                │ If in need and able         │
+│                               │ to repay                    │
+├───────────────────────────────┼─────────────────────────────┤
+│ ⚠️ Disliked                   │ If not in need              │
+├───────────────────────────────┼─────────────────────────────┤
+│ ❌ Forbidden                  │ If he knows he won't repay  │
+│                               │ (consuming wealth unjustly) │
+└───────────────────────────────┴─────────────────────────────┘
+\`\`\`
 
 ---
 
-### The Pillars and Conditions of Loan
+### The Pillars and Conditions of the Loan
 
-**First Pillar: The Lender**
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│                   The Pillars of the Loan                   │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   ┌─────────────┐      ┌─────────────┐      ┌─────────────┐ │
+│   │ The Lender  │      │The Borrower │      │ The Property│ │
+│   └──────┬──────┘      └──────┬──────┘      └──────┬──────┘ │
+│          │                    │                    │        │
+│          ▼                    ▼                    ▼        │
+│   ┌─────────────┐      ┌─────────────┐      ┌─────────────┐ │
+│   │ Capable of  │      │ Capable of  │      │ Lawful      │ │
+│   │ giving      │      │ committing  │      │ property    │ │
+│   │ Consenting  │      │ Accepting   │      │ Known       │ │
+│   └─────────────┘      └─────────────┘      └─────────────┘ │
+│                                                             │
+│                + The formula (offer and acceptance)         │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
 
-**Their conditions:**
-1. Being eligible to donate (owner, adult, sane, mature)
-2. Being voluntary, not coerced
+#### Conditions of the Loaned Property
 
-**Second Pillar: The Borrower**
-
-**Their conditions:**
-1. Being eligible for commitment
-2. Accepting the loan
-
-**Third Pillar: The Borrowed Wealth**
-
-**Its conditions:**
-1. Being permissible wealth
-2. Being known in quantity and quality
-3. Being among fungibles according to the majority
-
-**Fourth Pillar: The Formula**
-
-What indicates offer and acceptance by word or deed.
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│              Conditions of the Loaned Property              │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   1️⃣ Must be lawful property                               │
+│       ═══════════════════════                               │
+│       ✗ Cannot loan alcohol or pork                        │
+│                                                             │
+│   2️⃣ Must be known in quantity and quality                 │
+│       ═════════════════════════════════════                 │
+│       Example: "I lend you $10,000"                         │
+│                                                             │
+│   3️⃣ Must be fungible (replaceable by equivalent)          │
+│       ═══════════════════════════════════════════           │
+│       Money, grains, identical manufactured goods           │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
 
 ---
 
 ### Rules of the Loan
 
-**1. Ownership of the borrowed wealth:**
-- Ownership of the wealth transfers to the borrower upon receipt
-- They may dispose of it as they wish
+#### 1. Ownership of the Loaned Property
 
-**2. Time of repayment:**
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│              Ownership of the Loaned Property               │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   📍 Ownership transfers to the borrower upon receipt       │
+│                                                             │
+│   📍 He may dispose of it as he wishes                      │
+│       (sell, spend, invest...)                              │
+│                                                             │
+│   📍 He must return the equivalent (not the thing itself)   │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
 
-| Situation | Rule |
-|-----------|------|
-| Term loan | Repayment obligatory at maturity |
-| Demand loan | Repayment obligatory upon request |
-| No term specified | According to custom |
+#### 2. Time and Place of Repayment
 
-**3. Place of repayment:**
-- At the place where the loan occurred
-- Or where they agree
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│                    Time of Repayment                        │
+├───────────────────────────────┬─────────────────────────────┤
+│           Situation           │          Rule               │
+├───────────────────────────────┼─────────────────────────────┤
+│ Term loan (fixed date)        │ Repay at the due date       │
+├───────────────────────────────┼─────────────────────────────┤
+│ Immediate loan (no term)      │ Repay upon demand           │
+├───────────────────────────────┼─────────────────────────────┤
+│ No specification              │ According to custom         │
+└───────────────────────────────┴─────────────────────────────┘
 
-**4. Surplus in repayment:**
-
-| Type of surplus | Ruling |
-|-----------------|--------|
-| Stipulated surplus | Prohibited (usury) |
-| Surplus without condition | Permissible and recommended |
-
-**The evidence:**
-> The Prophet ﷺ said: "The best of you are those who are best in repaying." [Agreed upon]
+┌─────────────────────────────────────────────────────────────┐
+│                    Place of Repayment                       │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   📍 Principle: Where the loan took place                   │
+│                                                             │
+│   📍 Or: Where they agree                                   │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
 
 ---
 
-### The Loan That Generates Benefit
+### Extra in Repayment
 
-**The rule:**
-> Every loan that generates benefit is usury.
+<div class="quote-box">
 
-**Forms of prohibited benefit:**
+**📜 The Golden Rule**
 
-1. **Stipulated surplus:** "I lend you a thousand on condition you return eleven hundred"
-2. **Benefiting from the item:** "I lend you on condition you house me in your home"
-3. **Stipulated gift:** "I lend you on condition you give me a gift"
+> **Every loan that generates a benefit is usury (Riba)**
 
-**What is permitted:**
+This is a rule upon which the jurists are unanimous.
 
-1. Unstipulated surplus at repayment
-2. Unstipulated gift from the borrower
-3. Returning better than what was borrowed without condition
+</div>
+
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│                    Extra in Repayment                       │
+├───────────────────────────────┬─────────────────────────────┤
+│        Type of Extra          │          Ruling             │
+├───────────────────────────────┼─────────────────────────────┤
+│ Extra stipulated in contract  │ ❌ Forbidden = Riba         │
+│ "I lend you 1000, you return  │                             │
+│ 1100"                         │                             │
+├───────────────────────────────┼─────────────────────────────┤
+│ Voluntary extra without       │ ✅ Permissible and          │
+│ condition                     │ recommended = Good repayment│
+└───────────────────────────────┴─────────────────────────────┘
+\`\`\`
+
+<div class="quote-box">
+
+**📜 Proof of Legitimacy of Voluntary Extra**
+
+> The Prophet ﷺ said: **"The best of you are those who are best in repaying."** [Bukhari and Muslim]
+
+And the Prophet ﷺ, when he borrowed, would repay better than what he took.
+
+</div>
+
+---
+
+### Forms of Loan Generating Benefit (Riba)
+
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│          Forbidden Forms of Profit from Loan                │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   ❌ 1. Stipulated monetary increase                        │
+│       ═════════════════════════════                         │
+│       "I lend you a thousand, you return eleven hundred"    │
+│                                                             │
+│   ❌ 2. Benefiting from the borrower's property             │
+│       ═══════════════════════════════════════               │
+│       "I lend you if you let me stay in your house"         │
+│                                                             │
+│   ❌ 3. Stipulated gift                                     │
+│       ═════════════════════                                 │
+│       "I lend you if you give me a gift"                    │
+│                                                             │
+│   ❌ 4. Stipulated service                                  │
+│       ═════════════════════                                 │
+│       "I lend you if you work for me for a week"            │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
+
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│               What is Permissible in Loans                  │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   ✅ 1. Voluntary extra upon repayment                      │
+│       (Good repayment)                                      │
+│                                                             │
+│   ✅ 2. Non-stipulated gift from the borrower               │
+│       (If not because of the loan)                          │
+│                                                             │
+│   ✅ 3. Returning better than what was borrowed without     │
+│       condition (borrowed dollars, returned euros better)   │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
 
 ---
 
 ## Part Two: The Pledge (Rahn)
 
+<div class="scene-box">
+
+**🎬 Scene: The Market of Medina — In the Prophet's Time ﷺ**
+
+*The Prophet ﷺ needs food for his family, and goes to a Jew selling barley...*
+
+**The Prophet ﷺ:** O so-and-so, sell me thirty saa' of barley on credit.
+
+**The Jew:** *(with a merchant's caution)*
+Do you have something to pledge?
+
+**The Prophet ﷺ:** My armor.
+
+**The Jew:** *(astonished)*
+Your armor?! The Prophet's armor?!
+
+**The Prophet ﷺ:** Yes, take it as security until I repay.
+
+*And the armor remained with the Jew until the Prophet ﷺ passed away... This is the pledge: securing a debt with property.*
+
+</div>
+
 ### Definition of Pledge
 
-**Linguistic Meaning:**
-Permanence and continuity, hence Allah's saying: ﴿Every soul is hostage to what it has earned﴾ [Al-Muddathir: 38]
+<div class="quote-box">
 
-**Technical Meaning:**
-> Securing a debt with an asset from which one can collect or from its price if payment is impossible.
+**📜 Juristic Definition**
 
----
+**Linguistically:**
+Permanence and stability, hence Allah's saying: ﴾Every soul is held in pledge for what it has earned﴿ [Al-Muddaththir: 38]
 
-### The Legitimacy of Pledge
+**Technically:**
+> **Securing a debt with property from which one can recover it or from its price in case of non-payment**
+>
+> That is: placing something of value as security for the debt.
 
-**From the Quran:**
-> Allah تعالى says: ﴿And if you are on a journey and cannot find a scribe, then a pledge in hand﴾ [Al-Baqarah: 283]
+</div>
 
-**From the Prophetic Sunna:**
-> Aisha رضي الله عنها reported: "The Prophet ﷺ bought food from a Jew and pledged his armor to him." [Agreed upon]
-
-**Consensus:**
-Scholars are unanimous on the permissibility of pledge.
-
----
-
-### The Pillars of Pledge
-
-**First Pillar: The Pledger (the debtor)**
-
-**Their conditions:**
-1. Eligibility to donate
-2. Being owner of the pledged asset or authorized
-
-**Second Pillar: The Pledgee (the creditor)**
-
-**Their conditions:**
-1. Eligibility to accept the pledge
-2. Being the creditor
-
-**Third Pillar: The Pledged Asset**
-
-**Its conditions:**
-1. Being wealth whose sale is valid
-2. Being specified and known
-3. Being possible to deliver
-
-**Fourth Pillar: The Secured Debt**
-
-**Its conditions:**
-1. Being an established debt or one becoming established
-2. Being known
-
-**Fifth Pillar: The Formula**
-
-What indicates pledge by word or deed.
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│                    The Pledge Contract                      │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│      The Pledger (debtor)              The Creditor         │
+│           │                                │                │
+│           │────── 🏠 The pledged item ──►│                │
+│           │                                │                │
+│           │◄───── 💰 The loan ─────────────│                │
+│                                                             │
+│    ════════════════════════════════════════════════════     │
+│    📍 The pledge = collateral = security                    │
+│    📍 If debt is repaid ◄── the item is returned            │
+│    📍 If not repaid ◄── the item is sold                    │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
 
 ---
 
-### Rules of Pledge
+### Legitimacy of the Pledge
 
-**1. Binding nature of pledge:**
+<div class="quote-box">
 
-| Party | Ruling |
-|-------|--------|
-| Pledger | Binding on them |
-| Pledgee | Optional, they may cancel when they wish |
+**📜 From the Quran**
 
-**2. Possession of the pledge:**
-- The pledge is completed by possession
-- Possession is a condition of binding according to the majority
+> Allah says: ﴾And if you are on a journey and cannot find a scribe, then a pledge in hand﴿ [Al-Baqarah: 283]
 
-**3. Ownership of the pledge:**
-- The pledged asset remains the property of the pledger
-- The pledger may benefit from it without harming it
+**From the Sunnah:**
+> Aisha رضي الله عنها said: **"The Prophet ﷺ bought food from a Jew and pledged his armor to him."** [Bukhari and Muslim]
 
-**4. Disposing of the pledged asset:**
+**The Consensus:**
+Scholars are unanimous on the permissibility of pledge in travel and at home.
 
-| Disposal | Pledger's ruling | Pledgee's ruling |
-|----------|-----------------|------------------|
-| Sale | Not permitted except with pledgee's permission | Not permitted |
-| Rental | Not permitted except with pledgee's permission | Not permitted |
-| Use | Permitted if without harm | Not permitted except with permission |
+</div>
 
 ---
 
-### The Pledgee's Use of the Pledge
+### The Pillars of the Pledge
 
-**The principle:**
-> It is not permitted for the pledgee to benefit from the pledge because it is a loan that generates benefit.
-
-**The exception:**
-
-| Situation | Ruling |
-|-----------|--------|
-| Pledger's permission for free use | Not permitted (loan generating benefit) |
-| Pledge of rideable or milkable animal | Permitted for pledgee to ride and milk to the extent of their expenses |
-
-**Evidence for the exception:**
-> The Prophet ﷺ said: "The back is ridden in proportion to its expenses when it is pledged, and the milk is drunk in proportion to its expenses when it is pledged, and the one who rides and drinks bears the expenses." [Reported by al-Bukhari]
-
----
-
-### Destruction of the Pledge
-
-| Situation | Ruling |
-|-----------|--------|
-| Destroyed by pledgee's abuse | Pledgee is liable |
-| Destroyed by pledgee's negligence | Pledgee is liable |
-| Destroyed without abuse or negligence | Destroyed at pledger's expense (majority) |
-
----
-
-### Sale of Pledge Upon Non-Payment
-
-**If the debt is due and the pledger doesn't pay:**
-
-1. The insolvent is given respite and their pledge is not sold immediately
-2. The pledger is asked to pay
-3. If they refuse while able: they are forced to sell or the judge sells
-4. The debt is recovered from the pledge's price
-5. If anything remains, it goes to the pledger
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│                   The Pillars of the Pledge                 │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   ┌─────────────┐   ┌─────────────┐   ┌─────────────┐       │
+│   │ The Pledger │   │The Creditor │   │ The Pledged │       │
+│   │  (debtor)   │   │             │   │    Item     │       │
+│   └──────┬──────┘   └──────┬──────┘   └──────┬──────┘       │
+│          │                 │                 │              │
+│          ▼                 ▼                 ▼              │
+│   ┌─────────────┐   ┌─────────────┐   ┌─────────────┐       │
+│   │ Capable of  │   │ Capable of  │   │ Saleable    │       │
+│   │ giving      │   │ receiving   │   │ Specified   │       │
+│   │ Owner or    │   │ The creditor│   │ Deliverable │       │
+│   │ authorized  │   │             │   │             │       │
+│   └─────────────┘   └─────────────┘   └─────────────┘       │
+│                                                             │
+│               + The debt + The formula                      │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
 
 ---
 
-## Contemporary Applications
+### Conditions of the Pledged Item
 
-### Islamic Real Estate Mortgage
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│               Conditions of the Pledged Item                │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   1️⃣ Must be saleable property                             │
+│       ═══════════════════════                               │
+│       ✅ Valid: car, house, gold, shares                    │
+│       ❌ Invalid: alcohol, pork, stolen property            │
+│                                                             │
+│   2️⃣ Must be specified and known                           │
+│       ═════════════════════════                             │
+│       ✅ Valid: "this car" "this house"                     │
+│       ❌ Invalid: "one of my cars" (unspecified)            │
+│                                                             │
+│   3️⃣ Must be deliverable                                   │
+│       ═══════════════════════                               │
+│       ❌ Invalid: pledging a bird in flight                 │
+│       ❌ Invalid: pledging an absent unknown property       │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
 
-**The lawful form:**
-1. Buyer purchases real estate in installments
-2. Property remains pledged to the bank as guarantee
-3. Upon full payment, the pledge is released
+---
 
-**What is prohibited:**
-- Bank stipulating usurious interest on delays
-- Bank taking the property at the first delay
+### Rules of the Pledge
 
-### Pledge of Shares and Sukuk
+#### 1. Binding Nature of the Pledge
 
-**Its ruling:**
-Permissible with conditions:
-1. The shares are permissible
-2. They are known
-3. They are kept with a neutral party
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│               Binding Nature of the Pledge                  │
+├───────────────────────────────┬─────────────────────────────┤
+│           Party               │          Ruling             │
+├───────────────────────────────┼─────────────────────────────┤
+│ The Pledger (debtor)          │ ✅ Binding on him           │
+│                               │ Cannot retrieve the pledge  │
+│                               │ until repayment             │
+├───────────────────────────────┼─────────────────────────────┤
+│ The Creditor                  │ ⏳ Non-binding, may cancel  │
+│                               │ (return pledge and claim    │
+│                               │ his debt)                   │
+└───────────────────────────────┴─────────────────────────────┘
+\`\`\`
 
-### Pledge of Gold
+#### 2. Ownership of the Pledge
 
-**Its ruling:**
-Permissible considering:
-1. Gold evaluation on the day of pledge
-2. At sale: sold at market price
-3. The difference is returned to the pledger or recovered from them
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│              Who Owns the Pledged Item?                     │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│           📍 The pledged item remains the pledger's property│
+│                                                             │
+│   ┌─────────────────────────────────────────────────────┐   │
+│   │  The Pledger ──────────────────► The Creditor      │   │
+│   │  (owner)              (guardian only)              │   │
+│   │  Owns the item        Trustee                      │   │
+│   │  Its fruits are his   Cannot dispose of it         │   │
+│   └─────────────────────────────────────────────────────┘   │
+│                                                             │
+│   Example: Pledge a car ◄── the car belongs to the pledger  │
+│            If the pledged cow gives birth ◄── the calf      │
+│            belongs to the pledger                           │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
+
+#### 3. Disposition of the Pledged Item
+
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│             Disposition of the Pledged Item                 │
+├───────────────────┬─────────────────┬───────────────────────┤
+│   Disposition     │  The Pledger    │   The Creditor        │
+├───────────────────┼─────────────────┼───────────────────────┤
+│ Sale              │ ❌ Except with  │ ❌ Absolutely forbidden│
+│                   │ permission      │                       │
+├───────────────────┼─────────────────┼───────────────────────┤
+│ Lease             │ ❌ Except with  │ ❌ Absolutely forbidden│
+│                   │ permission      │                       │
+├───────────────────┼─────────────────┼───────────────────────┤
+│ Use               │ ✅ If no harm   │ ❌ Except with         │
+│                   │                 │ permission            │
+└───────────────────┴─────────────────┴───────────────────────┘
+\`\`\`
+
+---
+
+### The Creditor's Use of the Pledge
+
+<div class="quote-box">
+
+**📜 The Golden Rule**
+
+> **The creditor may not use the pledged item**
+>
+> Because it is a loan that generates benefit = Riba
+
+</div>
+
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│         Can the Creditor Use the Pledged Item?              │
+├───────────────────────────────┬─────────────────────────────┤
+│           Situation           │          Ruling             │
+├───────────────────────────────┼─────────────────────────────┤
+│ Without pledger's permission  │ ❌ Absolutely forbidden     │
+├───────────────────────────────┼─────────────────────────────┤
+│ With free permission          │ ❌ Forbidden (loan with     │
+│                               │ benefit)                    │
+├───────────────────────────────┼─────────────────────────────┤
+│ Rideable or milkable animal   │ ✅ Permissible in           │
+│ (only)                        │ proportion to maintenance   │
+└───────────────────────────────┴─────────────────────────────┘
+\`\`\`
+
+<div class="quote-box">
+
+**📜 Proof of the Animal Exception**
+
+> The Prophet ﷺ said: **"A riding animal may be ridden in proportion to its maintenance if it is pledged, and milk may be drunk in proportion to maintenance if the animal is pledged. Whoever rides and drinks must provide maintenance."**
+>
+> [Bukhari]
+
+**The wisdom:** The animal needs maintenance, so whoever maintains it may benefit in proportion.
+
+</div>
+
+---
+
+### Loss of the Pledge
+
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│              Who Bears the Loss of the Pledge?              │
+├───────────────────────────────┬─────────────────────────────┤
+│           Situation           │          Rule               │
+├───────────────────────────────┼─────────────────────────────┤
+│ Lost by creditor's misuse     │ ✅ Creditor is liable       │
+│ (used it and damaged it)      │                             │
+├───────────────────────────────┼─────────────────────────────┤
+│ Lost by creditor's negligence │ ✅ Creditor is liable       │
+│ (didn't guard it, stolen)     │                             │
+├───────────────────────────────┼─────────────────────────────┤
+│ Lost without misuse or        │ ✅ Loss falls on pledger    │
+│ negligence (fire, disaster)   │ (because he is the owner)   │
+└───────────────────────────────┴─────────────────────────────┘
+\`\`\`
+
+---
+
+### Selling the Pledge Upon Non-Payment
+
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│        What Happens if the Pledger Doesn't Repay?           │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   1️⃣ Grace period for the insolvent                        │
+│       ═══════════════════════════════                       │
+│       The pledge is not sold immediately if incapable       │
+│       ﴾If he is in difficulty, grant respite until ease﴿   │
+│                                                             │
+│   2️⃣ Request payment from the pledger                      │
+│       ══════════════════════════════════                    │
+│       If he is capable                                      │
+│                                                             │
+│   3️⃣ If he refuses while capable                           │
+│       ═════════════════════════════                         │
+│       He is forced to sell or the judge sells               │
+│                                                             │
+│   4️⃣ The debt is recovered from the pledge's price         │
+│       ══════════════════════════════════════════            │
+│                                                             │
+│   5️⃣ Any surplus goes to the pledger                       │
+│       ════════════════════════════════                      │
+│       ﴾If the price exceeds the debt﴾ ◄── the difference    │
+│       goes to the pledger                                   │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
 
 ---
 
 ## 📖 Stories from the Salaf
 
-### The Pledging of the Prophet's Armor ﷺ
+<div class="scene-box">
 
-**Aisha رضي الله عنها** narrated:
+**🎬 The Prophet's Armor ﷺ Pledged**
 
-> "The Messenger of Allah ﷺ died while his armor was pledged with a Jew for thirty sa' of barley."
+*After the Prophet ﷺ passed away, in an assembly of his companions رضي الله عنهم...*
 
-**Reported by al-Bukhari and Muslim**
+**Abu Bakr As-Siddiq رضي الله عنه:** *(inquiring)*
+Where is the Messenger of Allah's ﷺ armor?
 
-Imam **Ibn Hajar al-Asqalani** رحمه الله commented:
+**Aisha رضي الله عنها:**
+Pledged with a Jew for thirty saa' of barley.
 
-> "The hadith shows the permissibility of dealing with non-Muslims in what is not specifically forbidden, and the permissibility of pledging war equipment to a non-Muslim, and that this is not considered the prohibited alliance."
+**Abu Bakr رضي الله عنه:** *(with tears in his eyes)*
+Glory be to Allah! The master of creation, the best of humans, dies with his armor pledged! By Allah, he detached from this world like no one else.
 
 **The lesson:**
-- The humility of the Prophet ﷺ and his asceticism in this world
-- Permissibility of pledge for necessity, even with a non-Muslim
-- That loans are legitimate even from the rich to the poor
+- Permissibility of pledge out of necessity, even with a non-Muslim
+- The Prophet's ﷺ humility and detachment from the world
+- Legitimacy of borrowing even for the wealthy when in need
+
+</div>
 
 ---
 
-### Abu Bakr al-Siddiq's Loan رضي الله عنه
+<div class="scene-box">
 
-When the Prophet ﷺ migrated with **Abu Bakr al-Siddiq رضي الله عنه**, Abu Bakr bought two riding camels for the journey.
+**🎬 Abdullah ibn Umar's Beautiful Repayment**
 
-The Prophet ﷺ said: "**With its price.**"
+*Abdullah ibn Umar رضي الله عنهما was among the most scrupulous...*
 
-Meaning: I will only accept it with its price.
+**The Narrator:**
+Abdullah ibn Umar رضي الله عنهما, when he borrowed money from someone, would return **better than what he took**.
 
-**The lesson:** The Prophet ﷺ wanted the loan to be clear and not mixed with gift, and this is from the perfection of clarity in financial dealings.
+**He was asked:**
+Why do you add, O Abu Abdurrahman?
+
+**Ibn Umar:**
+I heard the Prophet ﷺ say: **"The best of you are those who are best in repaying."**
+
+**The lesson:**
+Voluntary extra upon repayment is from noble character and is not usury.
+
+</div>
 
 ---
 
-### The Excellent Repayment of Abdullah ibn Umar
+<div class="scene-box">
 
-**Abdullah ibn Umar رضي الله عنهما** would, whenever he borrowed money from someone, return it better than what he took.
+**🎬 Abu Bakr's Loan to the Prophet ﷺ During the Hijra**
 
-When asked about this, he said:
+*When the Prophet ﷺ wanted to emigrate, Abu Bakr As-Siddiq رضي الله عنه prepared two riding animals...*
 
-> "I heard the Prophet ﷺ say: The best of you are those who are best in repaying."
+**Abu Bakr رضي الله عنه:**
+O Messenger of Allah, here is your mount.
 
-**The lesson:** Surplus at repayment without stipulation is from noble character and is not usury.
+**The Prophet ﷺ:** *(refusing)*
+**For a price.**
+
+**Abu Bakr:** O Messenger of Allah, it is yours!
+
+**The Prophet ﷺ:**
+No, **for a price**. I will not accept it except for its price.
+
+**The lesson:**
+The Prophet ﷺ wanted matters to be clear: either a loan to be repaid, or a sale at a price. Loans don't mix with gifts.
+
+</div>
+
+---
+
+## Contemporary Applications
+
+### Islamic Mortgage
+
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│                    Islamic Mortgage                         │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   The permissible form:                                     │
+│   ══════════════════════                                    │
+│                                                             │
+│   1. The bank buys the property (Murabaha)                  │
+│   2. Sells it to the client in installments (known profit)  │
+│   3. The property remains as collateral                     │
+│   4. Upon full payment ◄── the collateral is released       │
+│                                                             │
+│   ════════════════════════════════════════════════════     │
+│                                                             │
+│   ❌ The forbidden:                                         │
+│   ─────────────────                                         │
+│   • Usurious interest on delays                             │
+│   • Seizing the property at first delay                     │
+│   • Compound penalties                                      │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
+
+### Pledging Shares and Sukuk
+
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│                 Pledging Shares and Sukuk                   │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   ✅ Permissible under conditions:                          │
+│   ═════════════════════════════════                         │
+│                                                             │
+│   1️⃣ The shares must be halal (permissible companies)      │
+│                                                             │
+│   2️⃣ Known (number, type, value)                           │
+│                                                             │
+│   3️⃣ Kept with a neutral third party                       │
+│       (securities depository center)                        │
+│                                                             │
+│   4️⃣ Valued at market price upon sale                      │
+│       (not at the pledge day price)                         │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
+
+### Pledging Gold
+
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│                      Pledging Gold                          │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   ✅ Permissible while observing:                           │
+│   ════════════════════════════════                          │
+│                                                             │
+│   📍 Value the gold on the day of pledge (for documentation)│
+│                                                             │
+│   📍 Upon sale: sell at the market price of that day        │
+│                                                             │
+│   📍 The difference goes to the pledger or is claimed       │
+│                                                             │
+│   ════════════════════════════════════════════════════     │
+│                                                             │
+│   ⚠️ Beware:                                                │
+│   ───────────                                               │
+│   Some gold shops charge "storage fees"                     │
+│   which are actually disguised usurious interest!           │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
 
 ---
 
 ## 🎯 Contemporary Cases
 
-### Case One: Interest-free Loan for Marriage
+### Case One: Loan for Marriage
 
-**Question:** My brother wants to get married but cannot afford it. I want to lend him 50,000 riyals to be repaid after two years. Is this permissible?
-
-**Answer:** ✅ **Permissible and recommended** and among the best acts of worship:
-- Lending to the needy is recommended
-- Helping a brother get married is charity
-- No profit or surplus is required
-
-⚠️ **Warning:** Do not stipulate any surplus, and do not accept a gift from him because of the loan.
-
----
-
-### Case Two: Pledging a Car for a Loan
-
-**Question:** My friend wants a loan of 30,000 riyals. I asked him to pledge his car until he pays. Is it permissible for me to drive the car?
-
-**Answer:** ❌ **Not permissible** to drive the pledged car:
-- The pledge is a trust with you
-- Benefiting from the pledge = loan generating benefit = usury
-- Exception: animals may be ridden and milked in exchange for their expenses only
-
-✅ **Alternative:** If the borrower permits you to drive it while you pay for fuel and maintenance, this is permissible outside the pledge contract.
-
----
-
-### Case Three: Islamic Real Estate Financing
-
-**Question:** The Islamic bank finances buying a house through murabaha, and the house remains pledged until full payment. What is the difference between it and usurious loan?
-
-**Answer:**
-
-| Islamic Financing | Usurious Loan |
-|-------------------|---------------|
-| Bank buys the house then sells to you | Bank lends you money |
-| Price is fixed, doesn't increase with delay | Interest increases with delay |
-| House is pledged as guarantee | House is pledged as guarantee |
-| Profit is known from the beginning | Interest may change |
-
-✅ **Lawful:** Murabaha and lease-to-own
-❌ **Forbidden:** Interest-bearing loan
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│  💍 Case: Lending to a brother for marriage                 │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  Question:                                                  │
+│  ══════════                                                 │
+│  My brother wants to get married but can't afford it.       │
+│  I want to lend him $50,000 to be repaid in 2 years.        │
+│  Is this permissible?                                       │
+│                                                             │
+│  Answer:                                                    │
+│  ══════════                                                 │
+│  ✅ Permissible and recommended — one of the best deeds     │
+│                                                             │
+│  ✓ Lending to one in need is recommended                   │
+│  ✓ Helping your brother marry is charity                   │
+│  ✓ No profit or extra is required                          │
+│                                                             │
+│  ⚠️ Note:                                                   │
+│  Don't stipulate any extra, and don't accept gifts          │
+│  because of the loan.                                       │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
 
 ---
 
-### Case Four: Pledging Gold at a Jewelry Shop
+### Case Two: Using the Pledged Car
 
-**Question:** I need urgent liquidity. Is it permissible to pledge my gold at a jeweler in exchange for money?
-
-**Answer:** ✅ **Permissible** with conditions:
-1. Determining the gold's value at the time of pledge
-2. Determining the pledge duration and loan amount
-3. No surplus stipulated at repayment
-4. If unable to repay: the gold is sold at market price and excess returned to the owner
-
-⚠️ **Beware:** Some jewelry shops take "storage fees" which are in reality usurious interest!
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│  🚗 Case: Can I drive the pledged car?                      │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  Question:                                                  │
+│  ══════════                                                 │
+│  My friend wants a loan of $30,000.                         │
+│  I asked him to pledge his car until he repays.             │
+│  Can I drive the car?                                       │
+│                                                             │
+│  Answer:                                                    │
+│  ══════════                                                 │
+│  ❌ No, it is forbidden to drive the pledged car            │
+│                                                             │
+│  • The pledge is a trust with you                          │
+│  • Using the pledge = loan with benefit = Riba             │
+│  • Exception: animals are ridden and milked against        │
+│    their maintenance only                                   │
+│                                                             │
+│  ✅ Alternative:                                            │
+│  If the borrower allows you to drive it through a separate │
+│  rental contract (you pay him rent) ◄── that is            │
+│  permissible outside the pledge contract                    │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
 
 ---
 
-### Case Five: Loan from a Financial App
+### Case Three: Islamic vs Conventional Financing
 
-**Question:** A mobile app offers instant loans. It lends me 1000 riyals and I return 1100 after a month. What is the ruling?
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│  🏠 Case: Difference between Islamic and usurious financing │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  Question:                                                  │
+│  ══════════                                                 │
+│  The Islamic bank finances buying a house through           │
+│  Murabaha, and the house remains as collateral until        │
+│  full payment. What's the difference from a usurious loan?  │
+│                                                             │
+│  Answer:                                                    │
+│  ══════════                                                 │
+│                                                             │
+│  ┌──────────────────────┬──────────────────────┐            │
+│  │ Islamic Financing    │   Usurious Loan      │            │
+│  ├──────────────────────┼──────────────────────┤            │
+│  │ The bank buys        │ The bank lends you   │            │
+│  │ then sells to you    │ money                │            │
+│  ├──────────────────────┼──────────────────────┤            │
+│  │ The price doesn't    │ Interest increases   │            │
+│  │ increase with delay  │ with delay           │            │
+│  ├──────────────────────┼──────────────────────┤            │
+│  │ Profit is known      │ Interest may vary    │            │
+│  │ from the start       │                      │            │
+│  └──────────────────────┴──────────────────────┘            │
+│                                                             │
+│  ✅ Permissible: Murabaha, Ijara Muntahiya Bittamlik        │
+│  ❌ Forbidden: Loan with interest                           │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
 
-**Answer:** ❌ **Absolutely prohibited**:
-- This is explicit usury
-- The stipulated surplus = delay usury
-- No difference between 10% or 1%, all is usury
+---
 
-✅ **Alternative:** Interest-free loan from family and friends, or charitable organizations, or interest-free loan funds.
+### Case Four: Pledging Gold at the Jeweler
+
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│  💎 Case: Pledging gold for urgent cash                     │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  Question:                                                  │
+│  ══════════                                                 │
+│  I need urgent cash.                                        │
+│  Can I pledge my gold at the jeweler for money?             │
+│                                                             │
+│  Answer:                                                    │
+│  ══════════                                                 │
+│  ✅ Permissible under conditions:                           │
+│                                                             │
+│  1️⃣ Determine the gold's value on the day of pledge        │
+│  2️⃣ Set the pledge duration and loan amount                │
+│  3️⃣ No extra is stipulated upon repayment                  │
+│  4️⃣ If unable to repay: gold is sold at market price       │
+│     and the surplus is returned to the owner               │
+│                                                             │
+│  ⚠️ Beware:                                                 │
+│  Some gold shops charge "storage fees"                      │
+│  = actually usurious interest!                              │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
+
+---
+
+### Case Five: Quick Loan Apps
+
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│  📱 Case: Loan app on the phone                             │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  Question:                                                  │
+│  ══════════                                                 │
+│  A mobile app offers instant loans.                         │
+│  It lends me $1,000 and I repay $1,100 after a month.       │
+│  What is the ruling?                                        │
+│                                                             │
+│  Answer:                                                    │
+│  ══════════                                                 │
+│  ❌ Absolutely forbidden — Clear usury                      │
+│                                                             │
+│  • Stipulated extra = Riba Nassia                          │
+│  • No difference between 10% or 1%, all is usury           │
+│  • "Usury, even if small, is grave"                        │
+│                                                             │
+│  ┌─────────────────────────────────────────────────────┐    │
+│  │  ✅ The halal alternative:                          │    │
+│  ├─────────────────────────────────────────────────────┤    │
+│  │  • Interest-free loan from family and friends       │    │
+│  │  • Charitable organizations                         │    │
+│  │  • Interest-free loan funds at mosques              │    │
+│  │  • Islamic financing banks (with their conditions)  │    │
+│  └─────────────────────────────────────────────────────┘    │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
 
 ---
 
 ## 💡 Pause and Reflect
 
-> **Question for reflection:**
->
-> The Prophet ﷺ died while his armor was pledged, although he could have done without borrowing.
->
-> - What do we learn from his humility ﷺ in financial dealings?
-> - How do we balance between self-sufficiency and dealing with people properly?
-> - Does the interest-free loan in our time fulfill its role as it did in the time of the Salaf?
->
-> **Reflect:** "Whoever relieves a believer of a hardship from the hardships of this world, Allah will relieve him of a hardship from the hardships of the Day of Resurrection."
+<div class="quote-box">
+
+**📜 Question for Reflection**
+
+The Prophet ﷺ died with his armor pledged, although he could have avoided borrowing.
+
+**Reflect on these meanings:**
+
+1️⃣ Why did the Prophet ﷺ choose to borrow when he had wealthy companions who would have given him everything?
+
+2️⃣ What lesson is there in the armor remaining pledged until his death ﷺ?
+
+3️⃣ How does this teach us to handle debts and financial needs?
+
+**The answer:**
+- Borrowing preserves dignity better than asking
+- Clarity in financial transactions is from the Sunnah
+- Detachment from the world doesn't mean abandoning lawful transactions
+- The pledge is a legitimate guarantee that preserves both parties' rights
+
+</div>
 
 ---
 
 ## Lesson Summary
 
-| Element | Loan | Pledge |
-|---------|------|--------|
-| Definition | Giving wealth to be returned | Securing debt with an asset |
-| Ruling | Recommended for lender | Permissible |
-| Main condition | No stipulated surplus | The pledged asset's sale must be valid |
-| Guarantee | Borrower guarantees returning the equivalent | Pledger guarantees destruction of the asset |
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│                     Lesson Summary                          │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   📌 The Loan (Qard Hassan):                                │
+│   ══════════════════════════                                │
+│   • Giving property for its equivalent to be returned       │
+│   • Among the best deeds (2 times = 1 charity)              │
+│   • Every loan generating benefit = Riba                    │
+│                                                             │
+│   📌 The Pledge (Rahn):                                     │
+│   ══════════════════════                                    │
+│   • Securing a debt with property                           │
+│   • The item remains the pledger's property                 │
+│   • The creditor cannot use the pledge                      │
+│   • Exception: rideable/milkable animal for maintenance     │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
 
-**Important rules:**
-- Every loan that generates benefit is usury
-- The pledged asset in the pledgee's hand is a trust
-- The debt is not extinguished by the pledge's destruction
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│                    Important Rules                          │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   1️⃣ Every loan generating a benefit is usury              │
+│                                                             │
+│   2️⃣ Voluntary extra upon repayment = good conduct         │
+│      (recommended)                                          │
+│                                                             │
+│   3️⃣ The pledge is a trust with the creditor               │
+│                                                             │
+│   4️⃣ The pledged item belongs to the pledger even if       │
+│      with the creditor                                      │
+│                                                             │
+│   5️⃣ If the debt comes due without payment: the pledge     │
+│      is sold at market price, debt is recovered, and        │
+│      the remainder goes to the pledger                      │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
 
 ---
 
-*My Lord, increase me in knowledge*
+*Rabbi Zidni 'Ilman — Lord, increase me in knowledge*
 `;
