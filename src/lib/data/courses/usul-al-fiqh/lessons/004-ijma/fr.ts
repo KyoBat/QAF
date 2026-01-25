@@ -31,6 +31,8 @@ Le Prophète ﷺ a dit :
 
 > **"Ma communauté ne s'accordera pas sur l'égarement"** [Rapporté par Ibn Majah]
 
+*Note : Ce hadith a une chaîne contestée. Certains muhaddithun le classent hasan li-ghayrihi (par ses voies multiples), d'autres le considèrent da'if. Cependant, son sens est renforcé par d'autres hadiths similaires.*
+
 > **"La main d'Allah est avec le groupe"** [Rapporté par at-Tirmidhi]
 
 ### La raison

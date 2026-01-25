@@ -266,7 +266,7 @@ Ibn 'Abbas dit : **"Elle a droit à la dot de ses semblables, ni moins ni plus."
 
 **Question** : Quel est le statut d'un employé qui accepte des cadeaux des clients ?
 
-**Réponse** : Le principe du cadeau est la permission, mais pour un employé public, cela peut être un moyen de corruption et de favoritisme. Le Prophète ﷺ a dit : **"Les cadeaux aux fonctionnaires sont une forme de malversation."** On les interdit donc pour bloquer le moyen, même s'ils sont permis à l'origine.
+**Réponse** : Le principe du cadeau est la permission, mais pour un employé public, cela peut être un moyen de corruption et de favoritisme. Dans le hadith authentique d'Ibn al-Lutbiyya (rapporté par al-Bukhari et Muslim), le Prophète ﷺ a reproché à un collecteur de zakat d'avoir accepté des cadeaux, en disant : **"Qu'en est-il de l'employé que nous envoyons et qui dit : ceci est pour vous et ceci m'a été offert ?"** On les interdit donc pour bloquer le moyen, même s'ils sont permis à l'origine.
 
 ---
 
