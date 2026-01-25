@@ -255,6 +255,131 @@ Its ruling is like forgetfulness in obligatory prayer, due to the generality of 
 
 ---
 
+## 🎯 Contemporary Cases
+
+### 🕌 Case 1: The Imam Mistakes the Rak'a Count
+
+> **Situation:** The imam stands up for a 5th rak'a by mistake. The followers say "Subhan'Allah."
+
+**❓ What should the imam and followers do?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**Analysis:**
+
+| Party | Action |
+|-------|--------|
+| 👨‍🏫 The imam | Sits immediately when alerted |
+| 👥 The followers | Stay seated and don't follow him |
+| 🙇 Prostration | After salam (because it's an addition) |
+
+> 💡 **Rule:** One does not follow the imam in obvious error. Saying "Subhan'Allah" is the alert method for men.
+
+</details>
+
+---
+
+### 📱 Case 2: Distracted by Phone, Loses Count
+
+> **Situation:** Your phone vibrates and you get distracted. You don't know if you've prayed 2 or 3 rak'at in 'Asr.
+
+**❓ How should you proceed?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**Rule of certainty:**
+
+| Principle | Application |
+|-----------|-------------|
+| 📊 Build on the certain | You've prayed 2 rak'at (the minimum) |
+| ➕ Add what's missing | Pray a 3rd then a 4th |
+| 🙇 Prostration | Before salam |
+
+> 💡 **The Prophet ﷺ said:** *"If one of you doubts in his prayer, let him discard the doubt and build on what he is certain of"* — Muslim
+
+</details>
+
+---
+
+### ⏰ Case 3: Forgetting the Prostration of Forgetfulness
+
+> **Situation:** You realize after leaving the mosque that you forgot to make the prostration of forgetfulness.
+
+**❓ Should you go back to do it?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**According to the duration elapsed:**
+
+| Duration | Ruling |
+|----------|--------|
+| ⏱️ Short time | You may do it where you are |
+| 🕐 Long time | It falls off, but do it if you can |
+| ⚠️ Prayer has passed | Your prayer remains valid but you were negligent |
+
+> 💡 **Preferred view:** As long as the gap is not very long, prostrate when you remember.
+
+</details>
+
+---
+
+### 🤔 Case 4: Recurring Doubt (Waswas)
+
+> **Situation:** In every prayer, you doubt the number of rak'at. Is it 2 or 3? You're never sure.
+
+**❓ Should you always prostrate for forgetfulness?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**Waswas doesn't count:**
+
+| Type of Doubt | Ruling |
+|---------------|--------|
+| 🔄 Recurring doubt | Don't pay attention to it |
+| 😰 It affects your life | This is waswas — ignore it |
+| ✅ Build on certainty | And don't prostrate every time |
+
+> 💡 **Advice:** Seek refuge in Allah from Shaytan and continue your prayer normally.
+
+</details>
+
+---
+
+### 🚗 Case 5: Praying on an Airplane with Doubt
+
+> **Situation:** You're praying on an airplane and there's turbulence. You lose concentration and doubt the number of rak'at.
+
+**❓ How do you handle this particular case?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**The same rules apply:**
+
+| Principle | Application |
+|-----------|-------------|
+| 📊 Build on certainty | As in any prayer |
+| 🙇 Prostration of forgetfulness | Before salam |
+| 🛫 Travel conditions | Do not affect these rules |
+
+> 💡 **Advice:** Try counting mentally or on your fingers if concentration is difficult.
+
+</details>
+
+---
+
+## 💭 Reflection
+
+> *"Allah established the prostration of forgetfulness as a mercy for His servants. The servant is weak and prone to forgetfulness, but his Lord opened a door for him to repair his shortcomings."*
+
+— Teaching of the scholars
+
+---
+
 ## Mind Map — Prostration of Forgetfulness
 
 | Axis | Detail |

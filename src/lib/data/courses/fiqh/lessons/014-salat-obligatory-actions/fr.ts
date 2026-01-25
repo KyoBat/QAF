@@ -156,6 +156,131 @@ Louange à Allah qui a parachevé pour nous la religion. Que la paix et les bén
 
 ---
 
+## 🎯 Cas Contemporains
+
+### 📱 Cas 1 : Distrait par une notification
+
+> **Situation** : Tu entends une notification de ton téléphone pendant ta prière et cela te fait oublier de dire « Subhana rabbi al-a'la » dans ta prosternation.
+
+**❓ Que dois-tu faire ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Analyse du cas :**
+
+| Élément | Statut |
+|---------|--------|
+| 📊 Le tasbih de la prosternation | Obligation (wajib) |
+| 🔔 Tu t'en rends compte avant le salam | Tu te prosternes pour l'oubli avant le salam |
+| ⏰ Tu t'en rends compte après le salam | Tu te prosternes pour l'oubli après le salam |
+
+> 💡 **Conseil** : Mets ton téléphone en mode silencieux avant la prière pour éviter ces distractions.
+
+</details>
+
+---
+
+### 🕌 Cas 2 : L'imam oublie le tashahhud
+
+> **Situation** : L'imam oublie le premier tashahhud. Tu t'en rends compte et tu dis « Subhan'Allah », mais il ne revient pas.
+
+**❓ Que dois-tu faire en tant que ma'moum (suiveur) ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Le suiveur suit son imam :**
+
+| Règle | Application |
+|-------|-------------|
+| 🔄 Tu te lèves avec l'imam | Tu ne restes pas assis seul |
+| 🙇 Prosternation de l'oubli | Tu la fais avec l'imam à la fin |
+| ⚠️ Si tu restes assis | Tu contredis l'imam et ta prière peut être affectée |
+
+> 💡 **Le Prophète ﷺ a dit** : *« L'imam est là pour être suivi »* — Al-Bukhari
+
+</details>
+
+---
+
+### ⏰ Cas 3 : Oubli de « Sami'a Allahu liman hamidah »
+
+> **Situation** : Tu pries seul et tu te relèves de l'inclinaison sans dire « Sami'a Allahu liman hamidah ».
+
+**❓ Ta prière est-elle valide ? Que dois-tu faire ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Le tasmi' est une obligation :**
+
+| Situation | Solution |
+|-----------|----------|
+| 🔔 Tu t'en rends compte immédiatement | Tu le dis et tu continues |
+| 📊 Tu l'as complètement oublié | Prosternation de l'oubli avant le salam |
+| ❌ Tu l'omets délibérément | Ta prière est invalide selon l'avis retenu |
+
+> 💡 **Note** : Le suiveur dit « Rabbana wa laka al-hamd » mais pas « Sami'a Allahu liman hamidah ».
+
+</details>
+
+---
+
+### 🤔 Cas 4 : Doute sur le nombre de « Rabbi ghfir li »
+
+> **Situation** : Entre les deux prosternations, tu n'es pas sûr si tu as dit « Rabbi ghfir li » ou non.
+
+**❓ Dois-tu faire la prosternation de l'oubli ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Le doute ne vaut pas certitude :**
+
+| Règle | Application |
+|-------|-------------|
+| 📊 Le simple doute | N'oblige pas la prosternation de l'oubli |
+| ✅ Si tu es sûr de l'avoir omis | Prosternation de l'oubli avant le salam |
+| 💡 Par précaution | Tu peux faire la prosternation de l'oubli |
+
+> 💡 **Conseil** : Concentre-toi sur chaque position et ses adhkar pour éviter le doute.
+
+</details>
+
+---
+
+### 🕐 Cas 5 : Rattraper une prière avec un tashahhud manqué
+
+> **Situation** : Tu rejoins la prière en groupe à la 3ème rak'a. Quand tu te lèves pour compléter tes rak'at manquées, tu oublies le premier tashahhud.
+
+**❓ Dois-tu te prosterner pour l'oubli ? Quand ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Tu complètes ta prière puis tu compenses :**
+
+| Étape | Action |
+|-------|--------|
+| 1️⃣ Tu complètes tes rak'at | Normalement après le salam de l'imam |
+| 2️⃣ Prosternation de l'oubli | Avant ton salam final |
+| 📊 Position | Avant le salam car c'est un manque |
+
+> 💡 **Règle** : L'imam ne porte pas l'oubli du retardataire pour ce qu'il a à rattraper seul.
+
+</details>
+
+---
+
+## 💭 Réflexion
+
+> *« La différence entre le pilier et l'obligation est une miséricorde d'Allah. Il a permis de compenser certains oublis par la prosternation de l'oubli, afin que le serviteur ne soit pas accablé par ses erreurs involontaires dans la prière. »*
+
+— Extrait des enseignements des savants
+
+---
+
 ## 🎯 Atelier pratique
 
 1. **Exercice vocal :** Répète les obligations à voix haute pendant une prière d'entraînement.

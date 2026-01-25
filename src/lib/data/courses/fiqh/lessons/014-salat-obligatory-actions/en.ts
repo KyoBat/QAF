@@ -13,6 +13,60 @@ All praise be to Allah who perfected the religion for us. May peace and blessing
 
 ---
 
+## 🎭 Scene: Forgetting the Tashahhud
+
+<div class="scene-box">
+
+*At the neighborhood mosque, Ahmed finishes his second rak'a...*
+
+*Instead of sitting for the first tashahhud, he stands up directly for the third rak'a.*
+
+**The imam** (next to him): *[clearing his throat slightly]* "Subhan'Allah..."
+
+**Ahmed**: *[realizing his mistake mid-way]* "Oh no, I forgot the tashahhud! Should I go back down?"
+
+*He continues standing since he's closer to the standing position...*
+
+*At the end of the prayer, before the salam...*
+
+**Ahmed**: *[performs two additional prostrations]*
+
+**A brother after the prayer**: "Why did you do those two extra prostrations?"
+
+**Ahmed**: "It's the prostration of forgetfulness. I forgot the first tashahhud, and since I was closer to the standing position when I realized, I continued and compensated with two prostrations before the salam, just as the Prophet ﷺ did."
+
+</div>
+
+**📍 Reference:** Hadith of Abdullah ibn Buhayna — Al-Bukhari (829)
+
+---
+
+## 🎭 Scene: The Difference Between Pillar and Obligation
+
+<div class="scene-box">
+
+*A father teaches his son the nuances of fiqh...*
+
+**Yusuf** (12 years old): "Dad, if I forget something in my prayer, is it still valid?"
+
+**Father**: "It depends on what you forget. Imagine the prayer like a house."
+
+**Yusuf**: "A house?"
+
+**Father**: "Yes. The **pillars** are like the walls and roof — without them, the house collapses. You can't compensate for them otherwise."
+
+**Yusuf**: "And the obligations?"
+
+**Father**: "The **obligations** are like the windows and doors. The house stands without them, but it's not complete. If you forget them, you can compensate with the prostration of forgetfulness."
+
+**Yusuf**: "And the sunnas?"
+
+**Father**: "Those are the decorations and furniture. Your house is valid without them, but it's much more beautiful with them!"
+
+</div>
+
+---
+
 ## 🔍 The Difference Between a Pillar and an Obligation
 
 - **Pillar (Rukn):** An essential part of the prayer; the act is not valid without it, and it cannot be compensated by the prostration of forgetfulness.
@@ -101,7 +155,130 @@ All praise be to Allah who perfected the religion for us. May peace and blessing
 - **Prostration of Forgetfulness Branch:** Causes → Timing before/after salam → Intention of prostration → Its adhkar.
 
 ---
+## 🎯 Contemporary Cases
 
+### 📱 Case 1: Distracted by a Notification
+
+> **Situation:** You hear a notification from your phone during prayer and it makes you forget to say "Subhana rabbi al-a'la" in your prostration.
+
+**❓ What should you do?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**Case analysis:**
+
+| Element | Ruling |
+|---------|--------|
+| 📊 Tasbih of prostration | Obligation (wajib) |
+| 🔔 You realize before salam | Prostrate for forgetfulness before salam |
+| ⏰ You realize after salam | Prostrate for forgetfulness after salam |
+
+> 💡 **Advice:** Put your phone on silent before prayer to avoid these distractions.
+
+</details>
+
+---
+
+### 🕌 Case 2: The Imam Forgets the Tashahhud
+
+> **Situation:** The imam forgets the first tashahhud. You realize it and say "Subhan'Allah," but he doesn't return.
+
+**❓ What should you do as a follower (ma'mum)?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**The follower follows his imam:**
+
+| Rule | Application |
+|------|-------------|
+| 🔄 You stand with the imam | You don't stay sitting alone |
+| 🙇 Prostration of forgetfulness | You do it with the imam at the end |
+| ⚠️ If you stay sitting | You contradict the imam and your prayer may be affected |
+
+> 💡 **The Prophet ﷺ said:** *"The imam is appointed to be followed"* — Al-Bukhari
+
+</details>
+
+---
+
+### ⏰ Case 3: Forgetting "Sami'a Allahu liman hamidah"
+
+> **Situation:** You are praying alone and you rise from bowing without saying "Sami'a Allahu liman hamidah."
+
+**❓ Is your prayer valid? What should you do?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**Tasmi' is an obligation:**
+
+| Situation | Solution |
+|-----------|----------|
+| 🔔 You realize immediately | You say it and continue |
+| 📊 You completely forgot it | Prostration of forgetfulness before salam |
+| ❌ You omit it deliberately | Your prayer is invalid according to the preferred view |
+
+> 💡 **Note:** The follower says "Rabbana wa laka al-hamd" but not "Sami'a Allahu liman hamidah."
+
+</details>
+
+---
+
+### 🤔 Case 4: Doubt About "Rabbi ghfir li"
+
+> **Situation:** Between the two prostrations, you're not sure if you said "Rabbi ghfir li" or not.
+
+**❓ Should you prostrate for forgetfulness?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**Doubt does not equal certainty:**
+
+| Rule | Application |
+|------|-------------|
+| 📊 Mere doubt | Does not obligate prostration of forgetfulness |
+| ✅ If you're certain you omitted it | Prostration of forgetfulness before salam |
+| 💡 As a precaution | You may prostrate for forgetfulness |
+
+> 💡 **Advice:** Focus on each position and its adhkar to avoid doubt.
+
+</details>
+
+---
+
+### 🕐 Case 5: The Latecomer and the Missed Tashahhud
+
+> **Situation:** You join the congregational prayer at the 3rd rak'a. When you stand to complete your missed rak'at, you forget the first tashahhud.
+
+**❓ Should you prostrate for forgetfulness? When?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**You complete your prayer then compensate:**
+
+| Step | Action |
+|------|--------|
+| 1️⃣ Complete your rak'at | Normally after the imam's salam |
+| 2️⃣ Prostration of forgetfulness | Before your final salam |
+| 📊 Placement | Before salam because it's an omission |
+
+> 💡 **Rule:** The imam does not bear the latecomer's forgetfulness for what he makes up alone.
+
+</details>
+
+---
+
+## 💭 Reflection
+
+> *"The difference between pillar and obligation is a mercy from Allah. He permitted compensating some forgetfulness with the prostration of forgetfulness, so that the servant is not burdened by his unintentional errors in prayer."*
+
+— From the teachings of the scholars
+
+---
 ## �� Practical Workshop
 
 1. **Vocal Exercise:** Repeat the obligations aloud during a practice prayer.

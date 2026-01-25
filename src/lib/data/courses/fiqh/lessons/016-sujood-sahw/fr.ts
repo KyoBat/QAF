@@ -255,6 +255,131 @@ Son statut est comme l'oubli dans la prière obligatoire, en raison de la géné
 
 ---
 
+## 🎯 Cas Contemporains
+
+### 🕌 Cas 1 : L'imam qui se trompe de rak'a
+
+> **Situation** : L'imam se lève pour une 5ème rak'a par erreur. Les fidèles disent « Subhan'Allah ».
+
+**❓ Que doit faire l'imam ? Et les suiveurs ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Analyse :**
+
+| Acteur | Action |
+|--------|--------|
+| 👨‍🏫 L'imam | S'assoit immédiatement quand on le lui rappelle |
+| 👥 Les suiveurs | Restent assis et ne le suivent pas |
+| 🙇 Prosternation | Après le salam (car c'est un ajout) |
+
+> 💡 **Règle** : On ne suit pas l'imam dans l'erreur manifeste. Dire « Subhan'Allah » est le moyen d'alerte pour les hommes.
+
+</details>
+
+---
+
+### 📱 Cas 2 : Distrait par le téléphone, perd le compte
+
+> **Situation** : Ton téléphone vibre et tu es distrait. Tu ne sais plus si tu as fait 2 ou 3 rak'at à 'Asr.
+
+**❓ Comment procéder ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Règle de la certitude :**
+
+| Principe | Application |
+|----------|-------------|
+| 📊 Base-toi sur le certain | Tu as fait 2 rak'at (le minimum) |
+| ➕ Ajoute ce qui manque | Tu fais une 3ème puis une 4ème |
+| 🙇 Prosternation | Avant le salam |
+
+> 💡 **Le Prophète ﷺ a dit** : *« Si l'un de vous doute dans sa prière, qu'il délaisse le doute et construise sur la certitude »* — Muslim
+
+</details>
+
+---
+
+### ⏰ Cas 3 : L'oubli de la prosternation de l'oubli
+
+> **Situation** : Tu réalises après avoir quitté la mosquée que tu avais oublié de faire la prosternation de l'oubli.
+
+**❓ Dois-tu revenir la faire ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Selon la durée écoulée :**
+
+| Durée | Règle |
+|-------|-------|
+| ⏱️ Temps court | Tu peux la faire où tu es |
+| 🕐 Temps long | Elle tombe, mais fais-la si tu peux |
+| ⚠️ Prière passée | Ta prière reste valide, mais tu es coupable de négligence |
+
+> 💡 **Avis préféré** : Tant que le temps n'est pas très long, fais-la quand tu t'en souviens.
+
+</details>
+
+---
+
+### 🤔 Cas 4 : Doute récurrent (waswas)
+
+> **Situation** : À chaque prière, tu doutes du nombre de rak'at. Est-ce 2 ou 3 ? Tu n'es jamais sûr.
+
+**❓ Dois-tu toujours te prosterner pour l'oubli ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Le waswas ne compte pas :**
+
+| Type de doute | Règle |
+|---------------|-------|
+| 🔄 Doute récurrent | Ne lui prête pas attention |
+| 😰 Cela affecte ta vie | C'est du waswas — ignore-le |
+| ✅ Construis sur le certain | Et ne te prosterne pas à chaque fois |
+
+> 💡 **Conseil** : Cherche refuge en Allah contre le shaytan et continue ta prière normalement.
+
+</details>
+
+---
+
+### 🚗 Cas 5 : Prière dans l'avion avec doute
+
+> **Situation** : Tu pries dans l'avion et il y a des turbulences. Tu perds ta concentration et doutes du nombre de rak'at.
+
+**❓ Comment gérer ce cas particulier ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Les mêmes règles s'appliquent :**
+
+| Principe | Application |
+|----------|-------------|
+| 📊 Construis sur la certitude | Comme dans toute prière |
+| 🙇 Prosternation de l'oubli | Avant le salam |
+| 🛫 Conditions du voyage | N'affectent pas ces règles |
+
+> 💡 **Conseil** : Essaie de compter mentalement ou sur les doigts si tu as du mal à te concentrer.
+
+</details>
+
+---
+
+## 💭 Réflexion
+
+> *« Allah a établi la prosternation de l'oubli comme miséricorde pour Ses serviteurs. Le serviteur est faible et sujet à l'oubli, mais son Seigneur lui a ouvert une porte pour réparer ses manquements. »*
+
+— Enseignement des savants
+
+---
+
 ## Carte mentale — Prosternation de l'oubli
 
 | Axe | Détail |

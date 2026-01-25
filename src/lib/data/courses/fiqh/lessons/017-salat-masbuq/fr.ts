@@ -288,6 +288,131 @@ Pour que le masbuq soit considéré comme ayant rattrapé la rak'a en rattrapant
 
 ---
 
+## 🎯 Cas Contemporains
+
+### 🏃 Cas 1 : Courir pour attraper l'inclinaison
+
+> **Situation** : Tu arrives à la mosquée et tu entends "Allahu Akbar" de l'inclinaison. Tu cours pour l'attraper.
+
+**❓ Est-ce permis de courir ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Le Prophète ﷺ a interdit de courir :**
+
+| Règle | Application |
+|-------|-------------|
+| 🚶 Marcher avec sérénité | Comme l'a ordonné le Prophète ﷺ |
+| ⚠️ Ne pas courir | Même pour attraper une rak'a |
+| 📊 Ce que tu attrapes | Prie-le. Ce que tu manques, complète-le |
+
+> 💡 **Le Prophète ﷺ a dit** : *« Marchez vers la prière avec sérénité et dignité, ne vous précipitez pas. »* — Unanimement reconnu
+
+</details>
+
+---
+
+### 🕌 Cas 2 : Arriver pendant le tashahhud final
+
+> **Situation** : Tu arrives à la mosquée pour le Jumu'a et l'imam est déjà dans le tashahhud final.
+
+**❓ As-tu attrapé le Jumu'a ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**La règle du Jumu'a :**
+
+| Situation | Conséquence |
+|-----------|-------------|
+| 🕌 Attrapé 1 rak'a ou plus | Tu complètes en Jumu'a |
+| ⏰ Attrapé seulement le tashahhud | Tu n'as PAS attrapé le Jumu'a |
+| 🔄 Que faire | Tu pries le Dhuhr complet (4 rak'at) |
+
+> 💡 **Consensus des savants** : Celui qui rattrape une rak'a du Jumu'a le complète, sinon il prie Dhuhr.
+
+</details>
+
+---
+
+### 📱 Cas 3 : Distrait, je me trompe dans le compte
+
+> **Situation** : Tu as rejoint l'imam à la 2ème rak'a du 'Isha. Tu te lèves pour compléter mais tu ne sais plus combien de rak'at il te reste.
+
+**❓ Comment procéder ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**La règle de la certitude :**
+
+| Principe | Application |
+|----------|-------------|
+| 📊 Compte ce que tu as fait avec l'imam | 3 rak'at (tu as rejoint à la 2ème) |
+| ➕ Ce qu'il te reste | 1 rak'a |
+| 🙇 En cas de doute | Construis sur le certain et fais sujud as-sahw |
+
+> 💡 **Conseil** : Compte mentalement en entrant "Je rejoins à la rak'a X, il m'en reste Y"
+
+</details>
+
+---
+
+### 🚗 Cas 4 : Je rejoint à l'inclinaison mais pas le temps de réciter
+
+> **Situation** : Tu rejoins l'imam juste au moment où il se relève de l'inclinaison. Tu n'as pas eu le temps de réciter le tasbih.
+
+**❓ As-tu attrapé cette rak'a ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**La condition pour attraper la rak'a :**
+
+| Condition | Vérification |
+|-----------|--------------|
+| ⏱️ Atteindre l'inclinaison avec l'imam | Même un instant |
+| 📊 Le tasbih du masbuq | N'est pas obligatoire pour attraper |
+| ✅ Résultat | Tu as attrapé la rak'a |
+
+> 💡 **Règle** : Ce qui compte c'est d'atteindre l'imam en inclinaison, même sans le temps de dire le tasbih.
+
+</details>
+
+---
+
+### 🕐 Cas 5 : L'imam fait sujud as-sahw, et moi je dois compléter
+
+> **Situation** : L'imam fait le salam puis se prosterne pour l'oubli. Toi tu dois encore compléter tes rak'at manquées.
+
+**❓ Te prosternes-tu avec lui ou après avoir complété ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Le masbuq suit l'imam dans le sujud :**
+
+| Étape | Action |
+|-------|--------|
+| 1️⃣ L'imam fait sujud as-sahw | Tu te prosternes avec lui |
+| 2️⃣ Tu te lèves | Pour compléter tes rak'at |
+| 3️⃣ Si tu oublies pendant ta complétion | Tu fais ton propre sujud as-sahw |
+
+> 💡 **Règle** : Le masbuq suit son imam dans le sujud as-sahw, puis il complète ses rak'at.
+
+</details>
+
+---
+
+## 💭 Réflexion
+
+> *« Allah a préféré la prière en groupe et l'a encouragée, mais Il a aussi facilité les règles pour celui qui arrive en retard. Le but est que personne ne soit privé de la récompense de la jama'a. »*
+
+— Enseignement des savants
+
+---
+
 ## ❓ Questions d'évaluation
 
 1. Quand le masbuq est-il considéré comme ayant rattrapé la rak'a ?

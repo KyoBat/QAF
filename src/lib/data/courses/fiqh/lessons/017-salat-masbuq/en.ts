@@ -288,6 +288,131 @@ For the masbuq to be considered as having caught the rak'a by catching the bowin
 
 ---
 
+## 🎯 Contemporary Cases
+
+### 🏃 Case 1: Running to Catch the Bowing
+
+> **Situation:** You arrive at the mosque and hear "Allahu Akbar" for bowing. You run to catch it.
+
+**❓ Is running permissible?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**The Prophet ﷺ forbade running:**
+
+| Rule | Application |
+|------|-------------|
+| 🚶 Walk with tranquility | As the Prophet ﷺ commanded |
+| ⚠️ Don't run | Even to catch a rak'a |
+| 📊 What you catch | Pray it. What you miss, complete it |
+
+> 💡 **The Prophet ﷺ said:** *"Come to prayer with tranquility and dignity, do not rush."* — Agreed upon
+
+</details>
+
+---
+
+### 🕌 Case 2: Arriving During the Final Tashahhud
+
+> **Situation:** You arrive at the mosque for Jumu'a and the imam is already in the final tashahhud.
+
+**❓ Did you catch Jumu'a?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**The rule of Jumu'a:**
+
+| Situation | Consequence |
+|-----------|-------------|
+| 🕌 Caught 1 rak'a or more | You complete it as Jumu'a |
+| ⏰ Caught only the tashahhud | You did NOT catch Jumu'a |
+| 🔄 What to do | You pray complete Dhuhr (4 rak'at) |
+
+> 💡 **Scholarly consensus:** Whoever catches one rak'a of Jumu'a completes it, otherwise he prays Dhuhr.
+
+</details>
+
+---
+
+### 📱 Case 3: Distracted, I Lose Count
+
+> **Situation:** You joined the imam at the 2nd rak'a of 'Isha. You stand to complete but don't know how many rak'at remain.
+
+**❓ How should you proceed?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**The rule of certainty:**
+
+| Principle | Application |
+|-----------|-------------|
+| 📊 Count what you prayed with the imam | 3 rak'at (you joined at the 2nd) |
+| ➕ What remains for you | 1 rak'a |
+| 🙇 In case of doubt | Build on certainty and do sujud as-sahw |
+
+> 💡 **Advice:** Count mentally when entering "I join at rak'a X, I have Y remaining"
+
+</details>
+
+---
+
+### 🚗 Case 4: I Catch the Bowing But No Time to Recite
+
+> **Situation:** You catch the imam just as he's rising from bowing. You didn't have time to recite the tasbih.
+
+**❓ Did you catch this rak'a?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**The condition for catching the rak'a:**
+
+| Condition | Verification |
+|-----------|--------------|
+| ⏱️ Reach the imam in bowing | Even for a moment |
+| 📊 The masbuq's tasbih | Not required for catching |
+| ✅ Result | You caught the rak'a |
+
+> 💡 **Rule:** What matters is reaching the imam while he's bowing, even without time for tasbih.
+
+</details>
+
+---
+
+### 🕐 Case 5: The Imam Does Sujud As-Sahw While I Need to Complete
+
+> **Situation:** The imam makes salam then prostrates for forgetfulness. You still need to complete your missed rak'at.
+
+**❓ Do you prostrate with him or after completing?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**The masbuq follows the imam in the prostration:**
+
+| Step | Action |
+|------|--------|
+| 1️⃣ The imam does sujud as-sahw | You prostrate with him |
+| 2️⃣ You stand up | To complete your rak'at |
+| 3️⃣ If you forget during completion | You do your own sujud as-sahw |
+
+> 💡 **Rule:** The masbuq follows his imam in sujud as-sahw, then completes his rak'at.
+
+</details>
+
+---
+
+## 💭 Reflection
+
+> *"Allah preferred congregational prayer and encouraged it, but He also facilitated the rules for the latecomer. The goal is that no one be deprived of the reward of jama'a."*
+
+— Teaching of the scholars
+
+---
+
 ## ❓ Evaluation Questions
 
 1. When is the masbuq considered to have caught the rak'a?

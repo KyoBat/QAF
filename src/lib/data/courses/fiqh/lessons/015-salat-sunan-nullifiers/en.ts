@@ -11,7 +11,55 @@ All praise be to Allah who legislated prayer for us in the most perfect manner. 
 
 ---
 
-## 🌟 First: The Sunan of Prayer
+## � Scene: The Interrupted Prayer
+
+<div class="scene-box">
+
+*At the mosque, during Maghrib prayer...*
+
+*Karim is in prostration when suddenly his phone rings at full volume. He had forgotten it in his pocket.*
+
+**Karim**: *[panicked, standing up abruptly]* "Hello?!"
+
+*He immediately realizes his mistake.*
+
+**Karim**: *[hanging up]* "Astaghfirullah..."
+
+**A brother after the prayer**: "Unfortunately, your prayer is nullified, akhi. You spoke deliberately."
+
+**Karim**: "But it was automatic! I didn't think!"
+
+**The brother**: "That's why the Prophet ﷺ taught us to prepare before prayer. You must redo it."
+
+</div>
+
+**📍 Lesson:** Deliberate speech nullifies the prayer. Always turn off or silence your phone before prayer!
+
+---
+
+## 🎭 Scene: The Balance Between Sunnah and Obligation
+
+<div class="scene-box">
+
+*A young student questions his teacher after class...*
+
+**Yassin**: "Sheikh, if I miss the opening supplication because the imam started Al-Fatiha, is my prayer valid?"
+
+**The Sheikh**: "Yes, your prayer is perfectly valid. The opening supplication is a sunnah, not a pillar or obligation."
+
+**Yassin**: "Then why bother with it?"
+
+**The Sheikh**: "Imagine you're inviting the king to your house. You clean the house — that's obligatory. But you also put flowers, prepare perfume — those are the sunan. Your house is livable without the flowers, but with them, you show your love and respect."
+
+**Yassin**: "So the sunan show our love for the prayer?"
+
+**The Sheikh**: "Exactly! The Prophet ﷺ said: *'The coolness of my eyes is in the prayer.'* The sunan are what transform prayer from an obligation into a delight."
+
+</div>
+
+---
+
+## �🌟 First: The Sunan of Prayer
 
 ### 1. Confirmed Verbal and Practical Sunan (Sunan Mu'akkadah)
 
@@ -127,6 +175,132 @@ All praise be to Allah who legislated prayer for us in the most perfect manner. 
 - **Nullifiers Branch:**
   - Major nullifiers: hadath, exposing 'awra, omitting a pillar.
   - Minor nullifiers: excessive movement, turning, distraction.
+
+---
+
+## 🎯 Contemporary Cases
+
+### 📱 Case 1: The Vibrating Phone
+
+> **Situation:** Your phone vibrates several times in your pocket during prayer. It might be urgent.
+
+**❓ Can you look at it or answer?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**Case analysis:**
+
+| Action | Consequence |
+|--------|-------------|
+| 📵 Ignore and continue | Prayer remains valid (recommended) |
+| 👀 Quick glance | Light movement tolerated if brief |
+| 📞 Answer or speak | Invalidates prayer immediately |
+
+> 💡 **Advice:** Always put your phone on silent or airplane mode before prayer.
+
+</details>
+
+---
+
+### 🚶 Case 2: Someone Passing in Front of Me
+
+> **Situation:** You're praying alone and someone wants to pass in front of you, between you and your prostration point.
+
+**❓ What should you do?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**The Prophet ﷺ taught:**
+
+| Action | Ruling |
+|--------|--------|
+| 🖐️ Raise hand to signal | Sunnah - without speaking |
+| 🚫 Push them gently | Permissible if they insist |
+| ➡️ Place a sutra in front | Prevents this problem |
+
+> 💡 **The Prophet ﷺ said:** *"If the one passing in front of the praying person knew [the sin he commits], he would prefer to wait forty..."* — Al-Bukhari
+
+</details>
+
+---
+
+### 😂 Case 3: Uncontrollable Laughter
+
+> **Situation:** During your prayer, you remember something funny and can't stop yourself from smiling or laughing.
+
+**❓ Is your prayer valid?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**Important distinction:**
+
+| Type of Laughter | Consequence |
+|-----------------|-------------|
+| 😊 Subtle smile | Does not invalidate prayer |
+| 😄 Silent laughter | Does not invalidate but affects khushu' |
+| 😂 Audible laughter | Invalidates the prayer |
+
+> 💡 **Rule:** Audible laughter (qahqaha) invalidates the prayer because it contradicts the required state of humility.
+
+</details>
+
+---
+
+### 🩹 Case 4: A Bleeding Wound
+
+> **Situation:** During your prayer, you notice your finger is bleeding slightly from a recent cut.
+
+**❓ Should you stop your prayer?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**According to the schools:**
+
+| School | Ruling |
+|--------|--------|
+| 🟡 Maliki | Light blood does not invalidate wudu |
+| 🟢 Hanafi | Flowing blood invalidates wudu → invalidates prayer |
+| 🔵 Shafi'i | Blood does not invalidate wudu |
+| 🟣 Hanbali | Abundant blood invalidates wudu |
+
+> 💡 **Practical advice:** If bleeding is light, continue your prayer. If it's abundant, stop and renew wudu.
+
+</details>
+
+---
+
+### 🗣️ Case 5: Correcting the Mistaken Imam
+
+> **Situation:** The imam makes a mistake in reciting a verse of Quran during prayer.
+
+**❓ Can you correct him without invalidating your prayer?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**Correcting the imam is permitted:**
+
+| Rule | Application |
+|------|-------------|
+| ✅ Recite the correct verse | Permissible and recommended |
+| 📖 It's considered recitation | Not "people's speech" |
+| 🔔 If the imam doesn't understand | You may repeat once |
+
+> 💡 **Example:** The imam says "Al-hamdu lillahi rabbil 'alamin" but skips a verse — you recite the missing verse to help him.
+
+</details>
+
+---
+
+## 💭 Reflection
+
+> *"The sunan of prayer are like the fragrance of a garden: the garden exists without them, but their presence is what makes it enchanting. One who neglects the sunan has a valid prayer but without flavor."*
+
+— Teaching of the scholars
 
 ---
 
