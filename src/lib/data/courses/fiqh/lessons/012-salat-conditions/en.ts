@@ -1,25 +1,82 @@
 /**
  * Fiqh - Lesson 012: Conditions of Salah
- * English Content
+ * English Content - Immersive version
  */
 
-export const content = `# 📜 The Fiqh of Prayer
+export const content = `# 🕌 The Conditions of Prayer — Keys to Validity
 
-## 📖 The Seven Conditions of Prayer
-
-All praise is due to Allah who prescribed prayer and perfected its boundaries. May peace and blessings be upon our Prophet Muhammad who said: **"No prayer is accepted without purification"** — Reported by Muslim. We praise Him for clarifying the conditions of this great act of worship before delving into its pillars and actions.
-
-> Allah تعالى says: **﴾ They were only commanded to worship Allah, being sincere to Him in religion ﴿** (Al-Bayyina: 5). Sincerity and following are two foundations without which no deed is valid, and this is not achieved in prayer except by fulfilling its conditions.
+> **The Prophet ﷺ said:**
+>
+> **"No prayer is accepted without purification."**
+>
+> — **[Muslim]**
 
 ---
 
-## 🔍 Definition of condition and distinction from pillar
+## 🎬 Introduction
 
-- **Condition (shart):** What is required before and during the act of worship, not being part of its essence, and whose absence invalidates the act (like purification).
-- **Pillar (rukn):** A part of the very essence of the worship, without which the act is invalid (like prostration).
-- **Obligation (wajib):** What the Legislator has commanded, whose forgetful omission is compensated by the prostration of forgetfulness.
+### 🎭 Scene: The Invalidated Prayer
 
-The conditions are seven according to the recognized opinion among the majority of jurists (particularly the Hanbalis and Malikis in their summaries), and they precede every prayer.
+> **After Dhuhr prayer at the mosque...**
+>
+> Ahmad notices a stain on his clothes.
+>
+> Ahmad: *"Oh no! I had an impurity on my shirt during the entire prayer!"*
+>
+> His friend Yusuf: *"You didn't see it before?"*
+>
+> Ahmad: *"No, I just noticed it now..."*
+>
+> Yusuf: *"So... is your prayer valid?"*
+>
+> Ahmad falls silent, worried.
+
+> 🎯 **Knowing the conditions of prayer prevents such situations!**
+
+---
+
+### 🎭 Scene: The Importance of Time
+
+> **A new Muslim asks the imam...**
+>
+> The convert: *"I prayed Fajr at 3 AM because I was afraid I wouldn't wake up. Is it valid?"*
+>
+> The imam: *"Brother, the time of Fajr only enters at dawn. Before that, your prayer is not valid."*
+>
+> The convert: *"Even if I had a good intention?"*
+>
+> The imam: *"Intention alone is not enough. The conditions must be fulfilled."*
+
+> 💡 **Conditions are like the foundations of a house — without them, nothing stands!**
+
+---
+
+## 📖 Definition: Condition vs Pillar vs Obligation
+
+| Term | Definition | Example |
+|------|------------|---------|
+| 🔑 **Condition (shart)** | Required BEFORE and DURING the act | Purification |
+| 🏛️ **Pillar (rukn)** | INTEGRAL part of the act | Prostration |
+| ⚖️ **Obligation (wajib)** | Required but compensable if forgotten | First tashahhud |
+
+> **The key difference:**
+> - Forgetting a **pillar** → Repeat the rak'ah
+> - Forgetting an **obligation** → Prostration of forgetfulness
+> - Missing a **condition** → Prayer invalid!
+
+---
+
+## 📊 The Seven Conditions of Prayer
+
+| # | Condition | 📜 Proof | ✅ Verification |
+|---|-----------|----------|-----------------|
+| 1️⃣ | **Islam** | *"Whoever seeks a religion other than Islam..."* [Âl-'Imrân: 85] | Being Muslim |
+| 2️⃣ | **Sanity** | *"The pen is lifted from three: the insane..."* [Abu Dawud] | Sound mind |
+| 3️⃣ | **Discernment** | *"...and the child until puberty"* | Age of ~7 years |
+| 4️⃣ | **Purification** | *"No prayer without purification"* [Muslim] | Wudu + clean body/place |
+| 5️⃣ | **Covering the 'awra** | *"Take your adornment at every mosque"* [Al-A'raf: 31] | Appropriate clothing |
+| 6️⃣ | **Entry of time** | *"Prayer is a prescription at specified times"* [An-Nisa: 103] | Check the time |
+| 7️⃣ | **Facing the Qibla** | *"Turn your face toward the Sacred Mosque"* [Al-Baqara: 144] | Face the Ka'ba |
 
 ---
 
@@ -74,6 +131,123 @@ The conditions are seven according to the recognized opinion among the majority 
 
 ---
 
+## 🎯 Contemporary Cases
+
+### 🧭 Case 1: Wrong Qibla Direction
+
+> **Situation**: After praying, you discover you were facing East instead of Southeast (the actual Qibla).
+
+**❓ Must you repeat your prayer?**
+
+<details>
+<summary>📜 Click for answer</summary>
+
+**It depends on the situation:**
+
+| Situation | Ruling |
+|-----------|--------|
+| 🟢 You made an effort (ijtihad) to find the Qibla | Prayer valid — no repeat |
+| 🔴 You didn't search when you could have | You must repeat |
+| 🟡 Slight deviation | Prayer valid (perfection not required) |
+
+> **Proof**: *"Fear Allah as much as you can"* [At-Taghabun: 16]
+
+</details>
+
+---
+
+### 🩸 Case 2: Impurity Discovered After Prayer
+
+> **Situation**: You finish your prayer and notice blood on your pants.
+
+**❓ Does your prayer count?**
+
+<details>
+<summary>📜 Click for answer</summary>
+
+**Scholarly difference:**
+
+| School | View |
+|--------|------|
+| 🟡 **Maliki** | If time has passed: no repeat. Within time: recommended to repeat |
+| 🟢 **Hanafi** | Must repeat in all cases |
+| 🔵 **Shafi'i** | Must repeat |
+| 🟣 **Hanbali** | No repeat if you didn't know |
+
+> 💡 **Preferred view**: If you truly didn't know, your prayer is valid (proof: the Prophet ﷺ continued his prayer after removing his sandals when Jibril informed him of impurity).
+
+</details>
+
+---
+
+### ⏰ Case 3: Prayer Before Time Entered
+
+> **Situation**: You're traveling and your phone shows your home country's time. You pray 'Asr before it has entered in your new timezone.
+
+**❓ Is your prayer valid?**
+
+<details>
+<summary>📜 Click for answer</summary>
+
+**Clear answer:**
+
+| Status | Explanation |
+|--------|-------------|
+| ❌ **Prayer invalid** | Entry of time is an absolute condition |
+| 🔄 **You must repeat** | Wait until the time actually enters |
+
+> ⚠️ **Advice**: When traveling, always verify local time or observe natural signs (sun position).
+
+</details>
+
+---
+
+### 👕 Case 4: Transparent Clothing
+
+> **Situation**: A sister prays wearing clothing that, under bright light, reveals the color of her skin.
+
+**❓ Is her prayer valid?**
+
+<details>
+<summary>📜 Click for answer</summary>
+
+**Analysis:**
+
+| Type of Clothing | Status |
+|------------------|--------|
+| 🔴 Transparent (shows shape and color) | 'Awra not covered → Prayer invalid |
+| 🟡 Semi-transparent (shows color) | Very disliked — repeating is preferred |
+| 🟢 Opaque | Valid |
+
+> 💡 **The rule**: Clothing must hide the color of skin, not just the shape.
+
+</details>
+
+---
+
+### 🤒 Case 5: Unable to Face the Qibla
+
+> **Situation**: A bedridden patient cannot turn toward the Qibla. His bed faces the opposite direction.
+
+**❓ How should he pray?**
+
+<details>
+<summary>📜 Click for answer</summary>
+
+**Islam is ease:**
+
+| Situation | Solution |
+|-----------|----------|
+| 🛏️ Bedridden patient | Prays in whatever direction he faces |
+| 🚗 Traveler in car (voluntary prayer) | Can pray in the direction the car faces |
+| ✈️ On airplane | Does his best, prayer is valid |
+
+> **Proof**: *"Fear Allah as much as you can"* [At-Taghabun: 16]
+
+</details>
+
+---
+
 ## 🔷 Schools' Views on Praying with Impurity by Forgetfulness
 
 | School | Ruling | Proof | Reasoning |
@@ -110,7 +284,17 @@ The conditions are seven according to the recognized opinion among the majority 
 
 ---
 
-## 📝 Lesson summary
+## � Reflection
+
+> **Imam Ibn Taymiyyah** — may Allah have mercy on him — said:
+>
+> **"The conditions of prayer are like the gates of a fortress. Whoever neglects them leaves his prayer exposed to the attacks of invalidity."**
+
+> 🎯 **Check your conditions BEFORE the takbir, not after the salam!**
+
+---
+
+## �📝 Lesson summary
 
 - The conditions of prayer are seven; prayer is only valid with them.
 - Their proofs are from the Quran and authentic Sunnah.

@@ -155,6 +155,125 @@ Divise les piliers en trois étapes pour que la séquence se fixe dans l'esprit.
 
 > ⚠️ **Avertissement :** L'avis de la majorité est que la sérénité est un pilier. Celui qui picote sa prière, sa prière est invalide selon trois écoles !
 
+---
+
+## 🎯 Cas Contemporains
+
+### ⏱️ Cas 1 : La prière rapide au travail
+
+> **Situation** : Ahmed prie Dhohr pendant sa pause déjeuner. Il se dépêche et ne reste qu'une seconde dans chaque position.
+
+**❓ Sa prière est-elle valide ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Analyse selon le hadith de celui qui a mal prié :**
+
+| Critère | Vérification |
+|---------|--------------|
+| ⏳ Temps dans chaque position | Doit permettre de dire le dhikr minimum |
+| 🔄 Stabilité des membres | Les os doivent reprendre leur place |
+| ❌ Prière express | Invalide — comme celui qui a mal prié |
+
+> 💡 **Le Prophète ﷺ lui a dit** : *« Retourne prier car tu n'as pas prié »* — La sérénité est un pilier !
+
+</details>
+
+---
+
+### 📖 Cas 2 : Oubli de la Fatiha
+
+> **Situation** : Tu te rends compte à la fin de la prière que tu n'as pas récité la Fatiha dans la 2ème rak'a.
+
+**❓ Que dois-tu faire ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**La Fatiha est un pilier :**
+
+| Situation | Solution |
+|-----------|----------|
+| 🔔 Tu t'en rends compte dans la prière | Tu reviens à la position où tu dois la réciter |
+| ⏰ Tu t'en rends compte après le salam | Cette rak'a ne compte pas — tu dois l'ajouter |
+| 🟢 Tu es suiveur (prière à voix haute) | La récitation de l'imam te suffit (avis Malikite) |
+
+> 💡 **Règle** : Un pilier oublié doit être compensé, contrairement à une obligation.
+
+</details>
+
+---
+
+### 🙇 Cas 3 : Prosternation incomplète
+
+> **Situation** : À cause d'une blessure au genou, tu ne peux pas poser tes genoux au sol lors de la prosternation.
+
+**❓ Ta prière est-elle valide ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**L'incapacité lève l'obligation :**
+
+| Cas | Règle |
+|-----|-------|
+| 🩹 Blessure qui empêche | Tu fais ce que tu peux |
+| 📊 Les 7 membres | Tu poses ce que tu peux |
+| ⚖️ Principe | *« Craignez Allah autant que vous le pouvez »* |
+
+> 💡 **Le Prophète ﷺ a dit** : *« Ce que je vous ai interdit, évitez-le. Ce que je vous ai ordonné, faites-en ce que vous pouvez. »*
+
+</details>
+
+---
+
+### 🔙 Cas 4 : Doute sur le nombre de rak'at
+
+> **Situation** : Tu doutes : « Ai-je fait 3 ou 4 rak'at au 'Asr ? »
+
+**❓ Comment procéder ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Le principe de la certitude :**
+
+| Règle | Application |
+|-------|-------------|
+| 📊 Construire sur la certitude | Tu as fait 3 (le minimum certain) |
+| ➕ Ajouter la rak'a manquante | Tu fais une 4ème |
+| 🙇 Prosternation de l'oubli | Avant le salam |
+
+> **Le Prophète ﷺ a dit** : *« Si l'un de vous doute dans sa prière, qu'il délaisse le doute et construise sur ce dont il est certain. »* — Muslim
+
+</details>
+
+---
+
+### 📱 Cas 5 : Interrompu par un appel urgent
+
+> **Situation** : Ton téléphone sonne pendant la prière. C'est l'hôpital pour un membre de ta famille.
+
+**❓ Peux-tu couper ta prière ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**La nécessité permet ce qui est interdit :**
+
+| Situation | Règle |
+|-----------|-------|
+| 🚨 Urgence vitale | Tu peux couper la prière |
+| 📞 Appel ordinaire | Tu ignores et continues |
+| 🔧 Si tu coupes | Tu devras refaire toute la prière |
+
+> 💡 **Conseil** : Mets ton téléphone en silencieux avant la prière !
+
+</details>
+
+---
+
 ### 📌 Positions des écoles sur le dernier tashahhud
 
 | École | Statut | Preuve |

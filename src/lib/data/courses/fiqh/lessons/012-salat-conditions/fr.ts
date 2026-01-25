@@ -1,25 +1,82 @@
 /**
  * Fiqh - Leçon 012 : Les conditions de la Salat
- * Contenu en Français
+ * Contenu en Français - Version immersive
  */
 
-export const content = `# 📜 Le Fiqh de la Prière
+export const content = `# 🕌 Les Conditions de la Prière — Les Clés de la Validité
 
-## 📖 Les Sept Conditions de la Prière
-
-Louange à Allah qui a prescrit la prière et en a précisé les limites. Que la paix et les bénédictions soient sur notre Prophète Muhammad qui a dit : **« Aucune prière n'est acceptée sans purification »** — Rapporté par Muslim. Nous Le louons d'avoir clarifié les conditions de cette grande adoration avant d'aborder ses piliers et ses actes.
-
-> Allah تعالى dit : **﴾ Il ne leur a été ordonné que d'adorer Allah, en Lui vouant un culte sincère ﴿** (Al-Bayyina : 5). La sincérité et le suivi sont deux fondements sans lesquels l'acte n'est pas valide, et cela ne se réalise dans la prière qu'en remplissant ses conditions.
+> **Le Prophète ﷺ a dit :**
+>
+> **« Aucune prière n'est acceptée sans purification. »**
+>
+> — **[Muslim]**
 
 ---
 
-## 🔍 Définition de la condition et distinction avec le pilier
+## 🎬 Introduction
 
-- **La condition (shart) :** Ce qui est requis avant et pendant l'adoration, qui n'en fait pas partie intégrante, et dont l'absence invalide l'acte (comme la purification).
-- **Le pilier (rukn) :** Une partie de l'essence même de l'adoration, sans laquelle l'acte n'est pas valide (comme la prosternation).
-- **L'obligation (wajib) :** Ce qu'a ordonné le Législateur, dont l'omission par oubli est compensée par la prosternation de l'oubli.
+### 🎭 Scène : La prière invalidée
 
-Les conditions sont au nombre de sept selon l'avis reconnu chez la majorité des juristes (particulièrement les Hanbalites et Malékites dans leurs abrégés), et elles précèdent toute prière.
+> **Après la prière du Dhohr à la mosquée...**
+>
+> Ahmad remarque une tache sur son vêtement.
+>
+> Ahmad : *« Oh non ! J'avais une impureté sur ma chemise pendant toute la prière ! »*
+>
+> Son ami Youssef : *« Tu ne l'avais pas vue avant ? »*
+>
+> Ahmad : *« Non, je viens de la remarquer maintenant... »*
+>
+> Youssef : *« Mais alors... ta prière est-elle valide ? »*
+>
+> Ahmad reste silencieux, inquiet.
+
+> 🎯 **Connaître les conditions de la prière évite ce genre de situation !**
+
+---
+
+### 🎭 Scène : L'importance du temps
+
+> **Un nouveau musulman demande à l'imam...**
+>
+> Le converti : *« J'ai prié le Fajr à 3h du matin parce que j'ai peur de ne pas me réveiller. C'est valide ? »*
+>
+> L'imam : *« Frère, le temps de Fajr n'entre qu'à l'aube. Avant cela, ta prière n'est pas valide. »*
+>
+> Le converti : *« Même si j'avais une bonne intention ? »*
+>
+> L'imam : *« L'intention seule ne suffit pas. Les conditions doivent être remplies. »*
+
+> 💡 **Les conditions sont comme les fondations d'une maison : sans elles, rien ne tient !**
+
+---
+
+## 📖 Définition : Condition vs Pilier vs Obligation
+
+| Terme | Définition | Exemple |
+|-------|------------|---------|
+| 🔑 **Condition (shart)** | Ce qui est requis AVANT et PENDANT l'acte | La purification |
+| 🏛️ **Pilier (rukn)** | Partie INTÉGRANTE de l'acte | La prosternation |
+| ⚖️ **Obligation (wajib)** | Requis mais compensable par oubli | Le premier tashahhud |
+
+> **La différence clé :**
+> - Oublier un **pilier** → Refaire la rak'a
+> - Oublier une **obligation** → Prosternation de l'oubli
+> - Manquer une **condition** → Prière invalide !
+
+---
+
+## 📊 Les Sept Conditions de la Prière
+
+| # | Condition | 📜 Preuve | ✅ Vérification |
+|---|-----------|-----------|-----------------|
+| 1️⃣ | **L'Islam** | *« Quiconque recherche une religion autre que l'Islam... »* [Âl-'Imrân : 85] | Être musulman |
+| 2️⃣ | **La raison** | *« La plume est levée pour trois : le fou... »* [Abû Dâwûd] | Être sain d'esprit |
+| 3️⃣ | **Le discernement** | *« ...et l'enfant jusqu'à la puberté »* | Âge de ~7 ans |
+| 4️⃣ | **La purification** | *« Aucune prière sans purification »* [Muslim] | Wudu + corps/lieu propres |
+| 5️⃣ | **Couvrir la 'awra** | *« Prenez votre parure à chaque mosquée »* [Al-A'râf : 31] | Vêtement approprié |
+| 6️⃣ | **L'entrée du temps** | *« La prière est une prescription à temps déterminé »* [An-Nisâ' : 103] | Vérifier l'heure |
+| 7️⃣ | **S'orienter vers la Qibla** | *« Tourne ton visage vers la Mosquée Sacrée »* [Al-Baqara : 144] | Face à la Ka'ba |
 
 ---
 
@@ -48,7 +105,124 @@ Les conditions sont au nombre de sept selon l'avis reconnu chez la majorité des
 
 ---
 
-## 🎓 Comparaison des écoles sur la couverture de la 'Awra
+## � Cas Contemporains
+
+### 🧭 Cas 1 : Erreur de direction de la Qibla
+
+> **Situation** : Après avoir prié, tu découvres que tu étais face à l'Est au lieu du Sud-Est (la vraie Qibla).
+
+**❓ Dois-tu refaire ta prière ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Cela dépend de la situation :**
+
+| Situation | Règle |
+|-----------|-------|
+| 🟢 Tu as fait un effort (ijtihad) pour trouver la Qibla | Prière valide — pas de reprise |
+| 🔴 Tu n'as pas cherché alors que tu pouvais | Tu dois refaire la prière |
+| 🟡 Légère déviation | Prière valide (on ne demande pas la perfection) |
+
+> **Preuve** : *« Craignez Allah autant que vous le pouvez »* [At-Taghâbun : 16]
+
+</details>
+
+---
+
+### 🩸 Cas 2 : Impureté découverte après la prière
+
+> **Situation** : Tu termines ta prière et tu remarques du sang sur ton pantalon.
+
+**❓ Ta prière compte-t-elle ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Divergence entre les écoles :**
+
+| École | Avis |
+|-------|------|
+| 🟡 **Malikite** | Si le temps est sorti : pas de reprise. Dans le temps : recommandé de refaire |
+| 🟢 **Hanafite** | Tu dois refaire dans tous les cas |
+| 🔵 **Shâfi'ite** | Tu dois refaire |
+| 🟣 **Hanbalite** | Pas de reprise si tu ne savais pas |
+
+> 💡 **L'avis préféré** : Si tu ne savais vraiment pas, ta prière est valide (preuve : le Prophète ﷺ a continué sa prière après avoir retiré ses sandales quand Jibrîl l'a informé d'une impureté).
+
+</details>
+
+---
+
+### ⏰ Cas 3 : Prière avant l'heure
+
+> **Situation** : Tu voyages et ton téléphone affiche l'heure du pays d'origine. Tu pries le 'Asr alors qu'il n'est pas encore entré dans ton nouveau fuseau horaire.
+
+**❓ Ta prière est-elle valide ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Réponse claire :**
+
+| Statut | Explication |
+|--------|-------------|
+| ❌ **Prière invalide** | L'entrée du temps est une condition absolue |
+| 🔄 **Tu dois refaire** | Attends que l'heure entre réellement |
+
+> ⚠️ **Conseil** : En voyage, vérifie toujours l'heure locale ou observe les signes naturels (position du soleil).
+
+</details>
+
+---
+
+### 👕 Cas 4 : Vêtement transparent
+
+> **Situation** : Une sœur prie avec un vêtement qui, sous une forte lumière, laisse apparaître la couleur de sa peau.
+
+**❓ Sa prière est-elle valide ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Analyse :**
+
+| Type de vêtement | Statut |
+|------------------|--------|
+| 🔴 Transparent (montre la forme et la couleur) | 'Awra non couverte → Prière invalide |
+| 🟡 Semi-transparent (montre la couleur) | Très déconseillé — refaire est préférable |
+| 🟢 Opaque | Valide |
+
+> 💡 **La règle** : Le vêtement doit cacher la couleur de la peau, pas seulement la forme.
+
+</details>
+
+---
+
+### 🤒 Cas 5 : Incapacité de s'orienter vers la Qibla
+
+> **Situation** : Un malade alité ne peut pas se tourner vers la Qibla. Son lit est face au mur opposé.
+
+**❓ Comment doit-il prier ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**L'Islam est facilité :**
+
+| Situation | Solution |
+|-----------|----------|
+| 🛏️ Malade alité | Il prie dans la direction où il se trouve |
+| 🚗 Voyageur en voiture (surérogatoire) | Peut prier dans le sens de la route |
+| ✈️ En avion | Fait de son mieux, prière valide |
+
+> **Preuve** : *« Craignez Allah autant que vous le pouvez »* [At-Taghâbun : 16]
+
+</details>
+
+---
+
+## �🎓 Comparaison des écoles sur la couverture de la 'Awra
 
 ### 📌 La 'awra de l'homme dans la prière
 
@@ -110,7 +284,17 @@ Les conditions sont au nombre de sept selon l'avis reconnu chez la majorité des
 
 ---
 
-## 📝 Résumé de la leçon
+## � Réflexion
+
+> **L'Imam Ibn Taymiyya** — qu'Allah lui fasse miséricorde — a dit :
+>
+> **« Les conditions de la prière sont comme les portes d'une forteresse. Celui qui les néglige laisse sa prière exposée aux assauts de l'invalidité. »**
+
+> 🎯 **Vérifie tes conditions AVANT le takbîr, pas après le salâm !**
+
+---
+
+## �📝 Résumé de la leçon
 
 - Les conditions de la prière sont au nombre de sept ; la prière n'est valide qu'avec elles.
 - Leurs preuves proviennent du Coran et de la Sunna authentique.

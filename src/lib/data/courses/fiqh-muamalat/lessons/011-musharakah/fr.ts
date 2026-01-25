@@ -1,365 +1,964 @@
-export const contentFr = `# Les Sociétés (Musharakah) — Règles des Partenariats
+export const contentFr = `# Les Sociétés — Règles de la Participation et des Partenariats
 
-## Définition de la Société
+<div class="scene-box">
 
-### Étymologie
-Sharikah : le mélange, c'est-à-dire mélanger deux biens de sorte qu'ils ne se distinguent plus.
+**🎬 Au marché de Badr... le jour où la foi triompha**
 
-### Terminologie
-> Réunion dans un droit ou dans une disposition.
+*Trois Compagnons discutent avant la bataille...*
 
-**Société de droit :** que deux personnes ou plus possèdent une même chose.
-**Société de disposition :** que deux personnes ou plus contractent pour commercer ensemble.
+**Abdullah ibn Mas'ûd :** Ô 'Ammâr, ô Sa'd... que diriez-vous de partager ce que nous obtiendrons aujourd'hui ?
+
+**'Ammâr ibn Yâsir :** *(avec enthousiasme)* Excellente idée ! Ce que l'un de nous obtient sera pour nous tous.
+
+**Sa'd ibn Abî Waqqâs :** *(approuvant)* D'accord. Nous partageons par nos efforts.
+
+*Après la bataille...*
+
+**Ibn Mas'ûd :** *(les mains vides)* Je n'ai rien obtenu...
+
+**'Ammâr :** *(de même)* Moi non plus...
+
+**Sa'd :** *(menant deux captifs)* Quant à moi, j'ai obtenu ces deux-là !
+
+**Ibn Mas'ûd :** *(avec un sourire)* Qu'Allah nous bénisse tous... Nous avions convenu avant le travail.
+
+*Ils partagèrent le butin équitablement, malgré la disparité des résultats !*
+
+</div>
+
+Voici la jurisprudence du partenariat : **accord avant le travail, équité après.**
 
 ---
 
-## La Légitimité de la Société
+## Définition de la Société
 
-### Dans le Coran
-> Allah تعالى dit : ﴿Beaucoup de partenaires oppriment les uns les autres, sauf ceux qui croient et accomplissent de bonnes œuvres﴾ [Sad : 24]
+<div class="quote-box">
 
-> Et Il dit concernant l'héritage : ﴿Ils se partagent le tiers﴾ [An-Nisa : 12]
+**📜 Étymologiquement :**
 
-### Dans la Sunna Prophétique
-> Abou Hourayra رضي الله عنه a dit : Le Messager d'Allah ﷺ a dit : "Allah dit : Je suis le troisième des deux partenaires tant que l'un d'eux ne trahit pas l'autre. S'il le trahit, Je me retire d'entre eux." [Rapporté par Abou Dawud]
+La société (shirka) vient du mélange et de la fusion. Les Arabes disent : "je l'ai associé dans l'affaire" — c'est-à-dire j'y suis entré avec lui.
 
-### Le Consensus
-Les savants sont unanimes sur la licéité de la société en général.
+</div>
+
+### Terminologie
+
+\`\`\`
+┌──────────────────────────────────────────────┐
+│             Définition de la Société         │
+│                                              │
+│    "Réunion en propriété ou en gestion"      │
+│                                              │
+├───────────────────┬──────────────────────────┤
+│ Société de        │    Société de            │
+│ propriété         │    gestion               │
+├───────────────────┼──────────────────────────┤
+│ Deux personnes    │ Deux personnes           │
+│ ou plus possèdent │ ou plus contractent      │
+│ un bien commun    │ pour commercer ensemble  │
+├───────────────────┼──────────────────────────┤
+│ Ex : héritiers    │ Ex : associés dans       │
+│ d'une maison      │ un commerce ou projet    │
+└───────────────────┴──────────────────────────┘
+\`\`\`
+
+---
+
+## Légitimité de la Société
+
+<div class="quote-box">
+
+**📜 Du Livre d'Allah :**
+
+﴾Et beaucoup d'associés lèsent les uns les autres, sauf ceux qui croient et font le bien, et ils sont peu nombreux﴿ [Sâd : 24]
+
+*Les khulâtâ' = les associés*
+
+</div>
+
+<div class="quote-box">
+
+**📜 Sur l'héritage :**
+
+﴾Ils sont alors associés dans le tiers﴿ [An-Nisâ' : 12]
+
+*Si les frères utérins héritent, ils partagent le tiers équitablement.*
+
+</div>
+
+<div class="quote-box">
+
+**📜 Le Hadith Qudsî Grandiose :**
+
+Le Prophète ﷺ a dit : **"Allah le Très-Haut dit : Je suis le troisième des deux associés tant que l'un ne trahit pas l'autre. S'il le trahit, Je Me retire d'entre eux."**
+
+📚 Rapporté par Abû Dâwûd et Al-Hâkim qui l'a authentifié
+
+</div>
+
+\`\`\`
+    ┌─────────────────────────────────────────┐
+    │      Allah est le troisième             │
+    │        par bénédiction et protection    │
+    └───────────────────┬─────────────────────┘
+                        │
+                        ▼
+    ┌──────────────────────────────────────────┐
+    │    Tant qu'ils sont sincères et fidèles  │
+    │    ═══════════════════════════          │
+    │    Associé ◄──── loyauté ────► Associé   │
+    │                  ▲                       │
+    │                  │                       │
+    │         bénédiction et succès            │
+    └──────────────────────────────────────────┘
+                        │
+              ┌─────────┴─────────┐
+              ▼                   ▼
+    ┌──────────────┐    ┌──────────────────────┐
+    │ Si l'un      │    │ S'ils restent        │
+    │ trahit       │    │ fidèles              │
+    │ ───────────  │    │ ────────────────     │
+    │ La bénédic-  │    │ Succès et            │
+    │ tion s'en va │    │ croissance durent    │
+    └──────────────┘    └──────────────────────┘
+\`\`\`
+
+**Consensus de la Oumma :** Les savants sont unanimes sur la licéité de la société en général.
 
 ---
 
 ## Types de Sociétés
 
-### Premier Type : Société 'Inan
-
-**Définition :**
-> Que deux personnes ou plus s'associent avec leurs biens pour y travailler ensemble, et le profit est entre eux.
-
-**Ses conditions :**
-1. Le capital doit être en or et argent ou leur équivalent
-2. Le capital doit être connu
-3. Le pourcentage de profit doit être connu
-4. Chaque associé doit avoir le droit de disposition
-
-**Ses règles :**
-
-| Situation | Règle |
-|-----------|-------|
-| Profit | Divisé selon l'accord |
-| Perte | Selon le capital |
-| Travail | La différence est permise |
-
-**Exemple :**
-Deux personnes mettent chacune 50 000 riyals et travaillent ensemble dans le commerce, le profit est partagé en deux.
-
-### Deuxième Type : Société Mufawadah
-
-**Définition :**
-> Que deux personnes ou plus s'associent en étant égales en capital, travail, profit et perte, chacune étant garante de l'autre.
-
-**Ses conditions spécifiques :**
-1. Égalité en capital
-2. Égalité en disposition
-3. Chacun est mandataire et garant de l'autre
-
-**Son jugement :**
-- La majorité : non valide car rarement réalisable
-- Les Hanafites : valide
-
-### Troisième Type : Société des Corps (Travaux)
-
-**Définition :**
-> Que deux personnes ou plus s'associent dans ce qu'elles gagnent par leur travail physique parmi les choses licites.
-
-**Ses formes :**
-- Deux pêcheurs s'associent dans la pêche
-- Deux artisans s'associent dans leur travail
-- Deux ingénieurs s'associent pour offrir leurs services
-
-**Son jugement :**
-- Hanbalites et Malikites : valide
-- Shafiites : non valide
-
-**Preuve de la licéité :**
-> Abdullah ibn Mas'ud رضي الله عنه a dit : "Moi, Ammar et Sa'd nous sommes associés dans ce que nous obtiendrions le jour de Badr." [Rapporté par Abou Dawud]
-
-### Quatrième Type : Société de Réputation
-
-**Définition :**
-> Que deux personnes ou plus s'associent dans ce qu'elles achètent par leur réputation et la confiance des gens en elles, puis le vendent et partagent le profit.
-
-**Sa forme :**
-Deux personnes sans argent, mais ayant une bonne réputation, achètent à crédit, vendent et partagent le profit.
-
-**Son jugement :**
-- Hanbalites et Hanafites : valide
-- Shafiites et Malikites : non valide
-
-### Cinquième Type : Société Mudarabah
-
-Détaillée dans la leçon sur la Mudarabah.
+\`\`\`
+                    Types de Sociétés
+                         │
+         ┌───────────────┼───────────────┐
+         ▼               ▼               ▼
+    ┌─────────┐    ┌──────────┐    ┌──────────┐
+    │Sociétés │    │Sociétés  │    │Sociétés  │
+    │contrac- │    │de        │    │modernes  │
+    │tuelles  │    │propriété │    │          │
+    └────┬────┘    └──────────┘    └────┬────┘
+         │                              │
+    ┌────┴────────────────┐       ┌────┴────┐
+    │  1. Shirkat al-'Inân│       │Par      │
+    │  2. Shirkat Mufâwada│       │actions  │
+    │  3. Shirkat Abdân   │       │SARL     │
+    │  4. Shirkat Wujûh   │       │Décro-   │
+    │  5. Mudâraba        │       │issante  │
+    └────────────────────┘       └─────────┘
+\`\`\`
 
 ---
 
-## La Société par Actions
+## Premier Type : Shirkat al-'Inân
+
+<div class="scene-box">
+
+**🎬 À Bagdad... deux associés négocient**
+
+**Ahmad le commerçant :** J'ai 10 000 dinars, je veux qu'on s'associe dans le commerce de la soie.
+
+**Khâlid le commerçant :** Et moi j'ai 5 000 dinars. Mais je connais les routes des caravanes et je négocie bien.
+
+**Ahmad :** *(réfléchissant)* Ton capital est la moitié du mien... mais ton expertise est inestimable !
+
+**Khâlid :** Que dirais-tu ? Les bénéfices à 50-50, malgré la différence de capital ?
+
+**Ahmad :** *(lui serrant la main)* Marché conclu ! Je mets plus d'argent, et toi tu travailles plus.
+
+**Le Juge :** *(plus tard)* C'est correct ! Ceci est une shirkat al-'inân. Le bénéfice selon votre accord.
+
+</div>
 
 ### Définition
-Société dont le capital est divisé en actions de valeur égale, négociables, chaque associé étant responsable uniquement à hauteur de ses actions.
 
-### Ses Piliers
-1. Les associés (actionnaires)
-2. Le capital (actions)
-3. La formule (acte constitutif et statuts)
+> Que deux personnes ou plus s'associent avec leurs capitaux pour y travailler et partager les bénéfices.
 
-### Types de Sociétés par Actions selon l'Activité
+\`\`\`
+┌─────────────────────────────────────────────────┐
+│              Shirkat al-'Inân                   │
+│       "La mère des sociétés, la plus valide"   │
+├─────────────────────────────────────────────────┤
+│                                                 │
+│    Associé 1           Associé 2                │
+│    ────────           ────────                  │
+│    capital + travail + capital + travail        │
+│         │                 │                     │
+│         └────────┬────────┘                     │
+│                  ▼                              │
+│            ┌──────────┐                         │
+│            │ Bénéfice │                         │
+│            │ partagé  │                         │
+│            └──────────┘                         │
+│                                                 │
+│   Bénéfice : selon l'accord                     │
+│   Perte : proportionnelle au capital            │
+│                                                 │
+└─────────────────────────────────────────────────┘
+\`\`\`
 
-**1. Sociétés à activité licite :**
-- Sociétés alimentaires halal
-- Sociétés de construction
-- Sociétés technologiques
+### Conditions
 
-**Leur jugement :** Il est permis d'y investir.
+| # | Condition | Raison |
+|---|-----------|--------|
+| 1 | Capital en numéraire | Facilité d'évaluation et partage |
+| 2 | Capital connu | Éviter l'ignorance et l'aléa |
+| 3 | Bénéfice en pourcentage | Pas un montant fixe mais un % |
+| 4 | Chaque associé peut agir | Pour réaliser l'association |
 
-**2. Sociétés à activité illicite :**
-- Banques usuraires
-- Sociétés d'alcool
-- Sociétés de jeux de hasard
+### Règles
 
-**Leur jugement :** Il est interdit d'y investir.
+| Élément | Règle | Exemple |
+|---------|-------|---------|
+| Bénéfice | Selon l'accord | 50%-50% ou 60%-40% possible |
+| Perte | Proportionnelle au capital | Celui qui a 60% perd 60% |
+| Travail | La disparité est permise | L'un peut travailler plus |
 
-**3. Sociétés mixtes :**
-- Leur activité principale est licite
-- Mais elles pratiquent certaines choses illicites
-
-**Leur jugement :** Les savants contemporains ont divergé :
-- Un avis d'interdiction absolue
-- Un avis de permission avec conditions (que la part illicite soit minime et qu'on s'en débarrasse par la charité)
+**Statut :** Valide par consensus — c'est la plus reconnue des sociétés.
 
 ---
 
-## La Société à Responsabilité Limitée
+## Deuxième Type : Shirkat al-Mufâwada
+
+<div class="quote-box">
+
+**📜 Définition :**
+
+Que deux personnes ou plus s'associent en étant **égaux en tout** :
+- Capital
+- Travail
+- Bénéfices et pertes
+- Chacun est garant de l'autre
+
+</div>
+
+\`\`\`
+┌─────────────────────────────────────────────────┐
+│            Shirkat al-Mufâwada                  │
+│         "Égalité totale en tout"               │
+├─────────────────────────────────────────────────┤
+│                                                 │
+│      Associé 1          =         Associé 2    │
+│      ───────                      ───────       │
+│      Capital            =         Capital       │
+│      Travail            =         Travail       │
+│      Bénéfice           =         Bénéfice      │
+│      Perte              =         Perte         │
+│      Garantie           =         Garantie      │
+│                                                 │
+├─────────────────────────────────────────────────┤
+│  Statut :                                       │
+│  • Majorité : invalide (rarement réalisable)    │
+│  • Hanafites : valide                           │
+└─────────────────────────────────────────────────┘
+\`\`\`
+
+**Raison de la divergence :** Il est quasi impossible que deux personnes soient égales en tout !
+
+---
+
+## Troisième Type : Shirkat al-Abdân (des Corps)
+
+<div class="scene-box">
+
+**🎬 Retour à Badr... l'histoire des trois Compagnons**
+
+**Abdullah ibn Mas'ûd :** *(racontant)* Je me suis associé avec 'Ammâr et Sa'd sur ce que nous obtiendrions le jour de Badr...
+
+**Le Narrateur :** Que s'est-il passé ?
+
+**Ibn Mas'ûd :** Sa'd a ramené deux captifs, et 'Ammâr et moi n'avons rien ramené.
+
+**Le Narrateur :** Comment avez-vous partagé ?
+
+**Ibn Mas'ûd :** *(souriant)* Nous avons partagé entre nous ! Car nous avions convenu avant le travail.
+
+📚 Rapporté par Abû Dâwûd et An-Nasâ'î
+
+</div>
 
 ### Définition
-Société où la responsabilité de l'associé est limitée à sa part dans le capital.
 
-### Son Jugement Légal
-Permise car elle fait partie des contrats modernes licites, à condition :
-1. Que son activité soit licite
-2. Qu'elle ne contienne pas de clauses illicites
-3. Qu'elle respecte les règles de la charia
+> Que deux personnes ou plus s'associent dans ce qu'ils gagnent par leur travail (leurs corps) sans capital.
 
----
+\`\`\`
+┌─────────────────────────────────────────────────┐
+│            Shirkat al-Abdân                     │
+│        "L'association par le travail"          │
+├─────────────────────────────────────────────────┤
+│                                                 │
+│    Associé 1              Associé 2             │
+│    ────────              ────────               │
+│      travail       +       travail              │
+│    (pas de capital)     (pas de capital)        │
+│         │                 │                     │
+│         └────────┬────────┘                     │
+│                  ▼                              │
+│            ┌──────────┐                         │
+│            │Production│                         │
+│            │ commune  │                         │
+│            └──────────┘                         │
+│                  │                              │
+│                  ▼                              │
+│         Partage des bénéfices                   │
+│                                                 │
+└─────────────────────────────────────────────────┘
+\`\`\`
 
-## Règles Générales sur les Sociétés
+### Applications Contemporaines
 
-### La Responsabilité de l'Associé
+| Type | Exemple |
+|------|---------|
+| Artisans | Deux menuisiers partagent les commandes |
+| Professionnels | Deux médecins ouvrent un cabinet commun |
+| Pêcheurs | Partagent la pêche ensemble |
+| Développeurs | S'associent pour créer une application |
 
-**Le principe :**
-> Tout associé est un dépositaire des biens de la société, il ne garantit qu'en cas d'abus ou de négligence.
+### Statut
 
-### Le Droit de Disposition
+| École | Statut |
+|-------|--------|
+| Hanbalites | Valide ✅ |
+| Malikites | Valide ✅ |
+| Hanafites | Valide ✅ |
+| Chaféites | Invalide ❌ |
 
-**La règle :**
-> La disposition de l'associé dans les biens de la société est comme celle du mandataire dans les biens de son mandant.
-
-**Il lui est permis :**
-- L'achat et la vente habituels
-- Mandater autrui selon l'usage
-
-**Il ne lui est pas permis :**
-- Faire des dons des biens de la société
-- Prêter sans permission
-- Prendre des risques inhabituels
-
-### Distribution des Profits et Pertes
-
-| Élément | Règle |
-|---------|-------|
-| Profit | Selon l'accord ou selon le capital |
-| Perte | Toujours selon le capital |
-
-**Règle importante :**
-> Le profit selon ce qui est convenu, et la perte selon le capital.
-
-### Fin de la Société
-
-**Causes de fin :**
-1. Expiration de la durée fixée
-2. Réalisation de l'objectif
-3. Destruction des biens de la société
-4. Mort d'un associé (dans les sociétés de personnes)
-5. Retrait d'un associé
-6. Résiliation par consentement mutuel
+**Opinion prépondérante :** Licite, d'après le hadith.
 
 ---
 
-## Les Partenariats Contemporains
+## Quatrième Type : Shirkat al-Wujûh (des Réputations)
 
-### Le Partenariat Dégressif
+<div class="scene-box">
 
-**Définition :**
-Partenariat qui commence avec des pourcentages définis, puis l'un des partenaires achète progressivement la part de l'autre jusqu'à la posséder entièrement.
+**🎬 Au marché de Médine...**
 
-**Son application :**
-- Financement d'achat immobilier
-- Financement de projets
+**'Âmir :** *(à son ami)* Ô Sa'îd, nous n'avons pas d'argent pour commercer...
 
-**Sa forme dans l'immobilier :**
-1. La banque et le client achètent un bien ensemble (banque 80%, client 20%)
-2. Le client habite le bien et paie le loyer de la part de la banque
-3. Chaque mois, le client achète une partie de la part de la banque
-4. À la fin, le client possède le bien entièrement
+**Sa'îd :** Mais nous avons une bonne réputation ! Les commerçants nous font confiance.
 
-**Conditions de validité :**
-1. Que le partenariat soit réel
-2. Que le loyer soit au prix du marché
-3. Que chaque partenaire supporte les risques selon sa part
-4. Que la vente se fasse par un contrat indépendant
+**'Âmir :** *(enthousiaste)* C'est vrai ! Si nous allions chez le commerçant Mahmûd et achetions à crédit...
 
-### Le Partenariat dans les Projets
+**Sa'îd :** On vend la marchandise, on le rembourse et on partage le bénéfice !
 
-**Ses formes :**
-- Partenariat pour construire une usine
-- Partenariat dans un projet commercial
-- Partenariat dans un développement immobilier
+**'Âmir :** C'est ce qu'on appelle... shirkat al-wujûh !
 
-**Ses règles :**
-1. Clarté des droits et obligations
-2. Détermination des pourcentages de profits et pertes
-3. Transparence dans la gestion et les comptes
+</div>
 
----
+### Définition
 
-## 📖 Récits des Salaf : Le partenariat d'Ibn Mas'ud, 'Ammar et Sa'd le jour de Badr
+> Que deux personnes s'associent dans ce qu'ils achètent **grâce à leur réputation et la confiance des gens** (à crédit), puis le vendent et partagent le bénéfice.
 
-'Abdullah ibn Mas'ud رضي الله عنه a rapporté :
+\`\`\`
+┌─────────────────────────────────────────────────┐
+│            Shirkat al-Wujûh                     │
+│        "L'association par la réputation"       │
+├─────────────────────────────────────────────────┤
+│                                                 │
+│    Associé 1              Associé 2             │
+│    ────────              ────────               │
+│    réputation + crédit + réputation             │
+│    (pas de capital)     (pas de capital)        │
+│         │                 │                     │
+│         └────────┬────────┘                     │
+│                  ▼                              │
+│         ┌───────────────┐                       │
+│         │Achat à crédit │                       │
+│         │(confiance)    │                       │
+│         └───────┬───────┘                       │
+│                 ▼                               │
+│           Vente avec profit                     │
+│                 │                               │
+│                 ▼                               │
+│      Remboursement + Partage                    │
+│                                                 │
+└─────────────────────────────────────────────────┘
+\`\`\`
 
-> **"Moi, 'Ammar et Sa'd, nous nous sommes associés dans ce que nous obtiendrions le jour de Badr"**
+### Statut
 
-Ibn Mas'ud a dit : **"Sa'd revint avec deux prisonniers, et 'Ammar et moi ne revînmes avec rien."**
-
-Pourtant, ils partagèrent entre eux ce qu'ils avaient obtenu, car ils avaient convenu du partenariat avant le butin.
-
-**Les leçons à retenir :**
-
-1. ✅ **La société des corps est valide** — Le partenariat par le travail sans capital
-2. ✅ **Le partenariat se conclut avant le travail** — Pas après
-3. ✅ **L'équité entre les associés** — Malgré la différence des résultats
-4. ✅ **La confiance est la base du partenariat** — Ils étaient compagnons avant d'être associés
-
----
-
-## 🎯 Cas pratiques contemporains
-
-### Cas 1 : Création d'une startup
-
-**Situation :** Je suis programmeur et mon ami est marketeur. Nous voulons créer une entreprise technologique. Je vais construire l'application et lui va attirer les clients. Nous n'avons pas de capital. Comment diviser les parts ?
-
-**Réponse :** ✅ **C'est une société des corps valide.**
-
-Proposition de division :
-- Convenez d'un pourcentage (par exemple 50-50 ou selon l'effort prévu)
-- Documentez l'accord par écrit
-- Déterminez le mécanisme d'évaluation du travail et de distribution des profits
-- Convenez de ce qui se passe si l'un se retire
+| École | Statut |
+|-------|--------|
+| Hanbalites | Valide ✅ |
+| Hanafites | Valide ✅ |
+| Chaféites | Invalide ❌ |
+| Malikites | Invalide ❌ |
 
 ---
 
-### Cas 2 : Achat d'actions de sociétés mixtes
+## Cinquième Type : La Mudâraba
 
-**Situation :** La société Total a une activité principale licite (le pétrole), mais elle place ses excédents dans des banques usuraires. Est-il permis d'acheter ses actions ?
+*(Détaillée dans la leçon précédente)*
 
-**Réponse :** ⚠️ **Sujet à divergence entre les savants :**
-
-**Premier avis (interdiction) :** Non permis car il y a des transactions usuraires.
-
-**Deuxième avis (permission avec conditions) :**
-- Que l'activité principale soit licite
-- Que le pourcentage des revenus illicites soit minime (moins de 5%)
-- Que l'investisseur se débarrasse du pourcentage de profit illicite par la charité
-
----
-
-### Cas 3 : Le partenariat dégressif pour acheter une maison
-
-**Situation :** La banque islamique propose un programme d'achat de maison : la banque paie 80% et moi 20%, puis j'achète la part de la banque mensuellement en payant le loyer de sa part. Est-ce licite ?
-
-**Réponse :** ✅ **Permis sous conditions :**
-1. Que le partenariat soit réel (la banque supporte les risques de sa part)
-2. Que le loyer soit au prix du marché
-3. Que l'achat des parts se fasse par des contrats indépendants
-4. Que vous ne soyez pas obligé d'acheter si vous ne le souhaitez pas
-
-⚠️ **Attention :** Certaines banques l'appliquent de façon fictive, vérifiez les détails.
+\`\`\`
+┌─────────────────────────────────────────────────┐
+│        Comparaison : Mudâraba vs Sociétés       │
+├─────────────────────────────────────────────────┤
+│                                                 │
+│   Mudâraba          ≠       Shirkat al-'Inân   │
+│   ────────                  ────────────        │
+│   Bailleur seulement       Les deux travaillent │
+│   + travailleur seul       et investissent      │
+│                                                 │
+│   Mudâraba          ≠       Shirkat Abdân      │
+│   ────────                  ────────────        │
+│   capital + travail         travail seulement   │
+│   (de deux parties)        (des deux parties)   │
+│                                                 │
+└─────────────────────────────────────────────────┘
+\`\`\`
 
 ---
 
-### Cas 4 : Le partenariat dans un restaurant
+## Résumé des Sociétés Traditionnelles
 
-**Situation :** Trois personnes veulent ouvrir un restaurant. Le premier met 250 000 €, le deuxième met 150 000 €, et le troisième gérera le restaurant sans capital. Comment diviser les profits et les pertes ?
+| Type | Capital | Travail | Statut |
+|------|---------|---------|--------|
+| **'Inân** | Des deux | Des deux | ✅ Consensus |
+| **Mufâwada** | Égal strictement | Égal strictement | ⚠️ Divergence |
+| **Abdân** | Aucun | Des deux | ✅ Majorité |
+| **Wujûh** | À crédit | Des deux | ⚠️ Divergence |
+| **Mudâraba** | D'une partie | De l'autre | ✅ Consensus |
+
+---
+
+## Les Sociétés Modernes
+
+### La Société par Actions
+
+<div class="quote-box">
+
+**📜 Définition :**
+
+Société dont le capital est divisé en **actions de valeur égale**, négociables, et chaque associé n'est responsable qu'à hauteur de ses actions.
+
+</div>
+
+\`\`\`
+┌─────────────────────────────────────────────────┐
+│           Société par Actions                   │
+│     Capital = Somme des actions                │
+├─────────────────────────────────────────────────┤
+│                                                 │
+│  Capital : 1 000 000 riyals                     │
+│  ─────────────────────────                      │
+│  Divisé en : 10 000 actions                     │
+│  Valeur de l'action : 100 riyals                │
+│                                                 │
+│  ┌─────────────────────────────────────┐       │
+│  │     Répartition de la propriété     │       │
+│  ├──────────────┬──────────────────────┤       │
+│  │ Actionnaire A│ 3000 actions = 30%   │       │
+│  │ Actionnaire B│ 2000 actions = 20%   │       │
+│  │ Actionnaire C│ 1500 actions = 15%   │       │
+│  │ Le reste     │ 3500 actions = 35%   │       │
+│  └──────────────┴──────────────────────┘       │
+│                                                 │
+│  • Bénéfices distribués selon les actions      │
+│  • Responsabilité limitée à la valeur          │
+│  • Actions négociables                         │
+│                                                 │
+└─────────────────────────────────────────────────┘
+\`\`\`
+
+### Types de Sociétés par Actions selon le Statut Islamique
+
+\`\`\`
+              Sociétés par Actions
+                       │
+       ┌───────────────┼───────────────┐
+       ▼               ▼               ▼
+   ┌───────┐      ┌─────────┐      ┌─────────┐
+   │Licites│      │Illicites│      │ Mixtes  │
+   │  ✅   │      │   ❌    │      │   ⚠️   │
+   └───┬───┘      └────┬────┘      └────┬────┘
+       │               │                │
+       ▼               ▼                ▼
+   Alimentation   Banques à        Activité licite
+   halal          intérêts         + transactions
+   Construction   Alcool/Jeux      usuraires mineures
+   Technologie    Assurance conv.
+\`\`\`
+
+### Statut des Sociétés Mixtes
+
+| Position | Conditions | Statut |
+|----------|------------|--------|
+| Interdiction absolue | — | Il y a du ribâ même minime |
+| Licéité sous conditions | 1. Activité principale licite | Licite avec purification |
+| | 2. Revenus illicites < 5% | des revenus haram |
+| | 3. Purification par don | aux pauvres |
+
+---
+
+### La Société à Responsabilité Limitée (SARL)
+
+\`\`\`
+┌─────────────────────────────────────────────────┐
+│       Société à Responsabilité Limitée          │
+├─────────────────────────────────────────────────┤
+│                                                 │
+│  Caractéristique principale :                   │
+│  ─────────────────────────                      │
+│  La responsabilité de l'associé est limitée     │
+│  à sa part dans le capital                      │
+│                                                 │
+│  Exemple :                                      │
+│  ─────────                                      │
+│  • Capital de la société : 500 000 riyals       │
+│  • Part d'Ahmad : 100 000 riyals (20%)          │
+│  • La société perd et doit : 800 000 riyals     │
+│                                                 │
+│  Que se passe-t-il ?                            │
+│  ──────────────────                             │
+│  • Ahmad perd seulement sa part (100 000)       │
+│  • Il n'est pas tenu de payer plus              │
+│                                                 │
+│  Statut islamique : Licite ✅                   │
+│  (contrat moderne permis sous conditions)       │
+│                                                 │
+└─────────────────────────────────────────────────┘
+\`\`\`
+
+---
+
+## La Participation Décroissante
+
+<div class="scene-box">
+
+**🎬 À la banque islamique...**
+
+**Le Client :** Je veux acheter une maison à 500 000 riyals, mais je n'ai que 100 000.
+
+**L'Employé de banque :** Nous avons une solution islamique : la participation décroissante.
+
+**Le Client :** Comment ça fonctionne ?
+
+**L'Employé :** Nous achetons la maison ensemble — vous 20% et nous 80%.
+
+**Le Client :** Et ensuite ?
+
+**L'Employé :** Vous habitez la maison et nous payez un loyer pour notre part (80%). Et chaque mois vous nous rachetez une partie supplémentaire.
+
+**Le Client :** *(comprenant)* Donc ma part augmente et la vôtre diminue... c'est pour ça qu'on l'appelle "décroissante" !
+
+**L'Employé :** Exactement ! Jusqu'à ce que vous possédiez la maison entièrement.
+
+</div>
+
+### Comment ça Fonctionne ?
+
+\`\`\`
+┌─────────────────────────────────────────────────┐
+│         Participation Décroissante              │
+│    "Diminishing Musharakah"                    │
+├─────────────────────────────────────────────────┤
+│                                                 │
+│  Au début :                                     │
+│  ──────────                                     │
+│  ┌─────────────────────────────────────┐       │
+│  │████████████████████│░░░░░░░░░░░░░░░░│       │
+│  │    Banque 80%     │   Client 20%   │       │
+│  └─────────────────────────────────────┘       │
+│                                                 │
+│  Après un an :                                  │
+│  ─────────────                                  │
+│  ┌─────────────────────────────────────┐       │
+│  │██████████████│░░░░░░░░░░░░░░░░░░░░░░│       │
+│  │  Banque 60%  │     Client 40%      │       │
+│  └─────────────────────────────────────┘       │
+│                                                 │
+│  Après deux ans :                               │
+│  ────────────────                               │
+│  ┌─────────────────────────────────────┐       │
+│  │████████│░░░░░░░░░░░░░░░░░░░░░░░░░░░░│       │
+│  │Banq 40%│        Client 60%         │       │
+│  └─────────────────────────────────────┘       │
+│                                                 │
+│  À la fin :                                     │
+│  ───────────                                    │
+│  ┌─────────────────────────────────────┐       │
+│  │░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│       │
+│  │          Client 100%               │       │
+│  └─────────────────────────────────────┘       │
+│                                                 │
+└─────────────────────────────────────────────────┘
+\`\`\`
+
+### Conditions de Validité Islamique
+
+| # | Condition | Explication |
+|---|-----------|-------------|
+| 1 | Partenariat réel | La banque assume les risques de sa part |
+| 2 | Loyer du marché | Pas un loyer fictif |
+| 3 | Contrats séparés | L'achat séparé du loyer |
+| 4 | Pas d'obligation | Le client est libre de ne pas acheter |
+
+⚠️ **Avertissement :** Certaines banques appliquent la participation décroissante de façon fictive !
+
+---
+
+## Règles Générales des Sociétés
+
+### Garantie de l'Associé
+
+\`\`\`
+┌─────────────────────────────────────────────────┐
+│              Règle de la Garantie               │
+├─────────────────────────────────────────────────┤
+│                                                 │
+│   "Chaque associé est dépositaire du capital    │
+│    de la société, il ne garantit qu'en cas      │
+│    d'abus ou de négligence"                     │
+│                                                 │
+│   ┌────────────┬────────────────────────┐      │
+│   │ Principe   │ Associé = dépositaire  │      │
+│   │            │ = pas de garantie      │      │
+│   ├────────────┼────────────────────────┤      │
+│   │ Exception  │ Abus = garantie        │      │
+│   │            │ Négligence = garantie  │      │
+│   └────────────┴────────────────────────┘      │
+│                                                 │
+└─────────────────────────────────────────────────┘
+\`\`\`
+
+### Droit d'Action
+
+**La Règle :** L'action de l'associé dans le capital = action du mandataire dans le capital du mandant.
+
+| Permis ✅ | Interdit ❌ |
+|-----------|------------|
+| Vente et achat habituels | Don du capital de la société |
+| Délégation selon l'usage | Prêt sans autorisation |
+| Investissement normal | Risque inhabituel |
+
+### Distribution des Bénéfices et Pertes
+
+\`\`\`
+┌─────────────────────────────────────────────────┐
+│         La Règle d'Or des Sociétés             │
+├─────────────────────────────────────────────────┤
+│                                                 │
+│   "Le bénéfice selon l'accord, et la perte     │
+│    proportionnelle au capital"                  │
+│                                                 │
+│   ┌─────────────────────────────────────┐      │
+│   │                                     │      │
+│   │   Bénéfice ──► Selon l'accord      │      │
+│   │                (disparité permise)  │      │
+│   │                                     │      │
+│   │   Perte ──► Proportion du capital  │      │
+│   │             (toujours en %)        │      │
+│   │                                     │      │
+│   └─────────────────────────────────────┘      │
+│                                                 │
+│   Exemple : deux associés (60% - 40% capital)  │
+│   ────────────────────────────────────          │
+│   Accord : bénéfice 50% - 50% ──► Valide       │
+│   Perte : sera 60% - 40% ──► Obligatoire       │
+│                                                 │
+└─────────────────────────────────────────────────┘
+\`\`\`
+
+### Causes de Dissolution de la Société
+
+\`\`\`
+         Causes de Dissolution
+                 │
+    ┌────────────┼────────────┐
+    │            │            │
+    ▼            ▼            ▼
+┌────────┐  ┌────────┐  ┌────────────┐
+│Par le  │  │Par le  │  │Par la      │
+│temps   │  │capital │  │volonté     │
+└───┬────┘  └───┬────┘  └─────┬──────┘
+    │           │             │
+    ▼           ▼             ▼
+• Fin de     • Perte      • Résiliation
+  la durée    du capital    consensuelle
+• Atteinte   de la       • Retrait
+  de l'objet société       d'un associé
+                         • Décès
+\`\`\`
+
+---
+
+## 📖 Des Histoires des Salafs
+
+### Le Partenariat d'Ibn Mas'ûd, 'Ammâr et Sa'd
+
+<div class="scene-box">
+
+**🎬 La leçon immortelle de Badr**
+
+**Abdullah ibn Mas'ûd qu'Allah l'agrée :**
+
+*"Je me suis associé avec 'Ammâr et Sa'd sur ce que nous obtiendrions le jour de Badr..."*
+
+*"Sa'd est revenu avec deux captifs, et ni 'Ammâr ni moi n'avons rien ramené."*
+
+**Et pourtant... ils partagèrent le butin équitablement !**
+
+</div>
+
+**Pourquoi ?** Parce qu'ils avaient convenu du partenariat **avant** le travail, pas après !
+
+### Leçons à Retenir
+
+\`\`\`
+┌─────────────────────────────────────────────────┐
+│           Leçons du partenariat de Badr        │
+├─────────────────────────────────────────────────┤
+│                                                 │
+│  1️⃣ Shirkat al-Abdân est licite                 │
+│     L'association par le travail sans capital   │
+│                                                 │
+│  2️⃣ Le partenariat se fait avant le travail     │
+│     On ne peut partager le gain d'autrui après  │
+│                                                 │
+│  3️⃣ L'équité entre associés                     │
+│     Malgré la disparité des résultats           │
+│                                                 │
+│  4️⃣ La confiance est la base                    │
+│     Ils étaient amis avant d'être associés      │
+│                                                 │
+└─────────────────────────────────────────────────┘
+\`\`\`
+
+---
+
+## 🎯 Cas Contemporains
+
+### Premier Cas : Création d'une Startup
+
+**Question :** Je suis développeur et mon ami est marketeur. On veut créer une entreprise tech. Je construis l'application et lui ramène les clients. On n'a pas de capital. Comment répartir les parts ?
+
+**Analyse :**
+\`\`\`
+┌─────────────────────────────────────────┐
+│          Shirkat Abdân                  │
+│    (association par le travail)        │
+├─────────────────────────────────────────┤
+│ Développeur : travail de programmation │
+│ Marketeur : travail de marketing       │
+│ Capital : aucun                         │
+└─────────────────────────────────────────┘
+\`\`\`
+
+**Réponse :** ✅ **Shirkat Abdân licite**
+
+**Recommandations :**
+1. Convenez d'un pourcentage (50%-50% ou selon l'effort prévu)
+2. **Documentez l'accord par écrit** — très important !
+3. Définissez le mécanisme d'évaluation du travail et de distribution
+4. Convenez de ce qui se passe si l'un se retire
+
+---
+
+### Deuxième Cas : Achat d'Actions de Sociétés Mixtes
+
+**Question :** Aramco a une activité principale licite (pétrole), mais place ses excédents dans des banques à intérêts. Peut-on acheter ses actions ?
+
+**Analyse :**
+\`\`\`
+┌─────────────────────────────────────────┐
+│       Société Mixte                     │
+├─────────────────────────────────────────┤
+│ Activité principale : pétrole (halal) ✅│
+│ Transactions bancaires : ribâ (haram) ❌│
+│ Proportion : très minime                │
+└─────────────────────────────────────────┘
+\`\`\`
+
+**Réponse :** ⚠️ **Les savants divergent :**
+
+| Opinion | Statut | Argument |
+|---------|--------|----------|
+| Première | Illicite | Il y a du ribâ même minime |
+| Deuxième | Licite sous conditions | Activité principale licite + purification |
+
+**Si vous suivez la licéité :**
+- Purifiez la part des bénéfices illicites en la donnant aux pauvres
+- Calculez le pourcentage des revenus usuraires des rapports financiers
+
+---
+
+### Troisième Cas : Participation Décroissante pour une Maison
+
+**Question :** La banque islamique propose un programme d'achat de maison : la banque paie 80% et moi 20%, puis je rachète sa part mensuellement en payant le loyer de sa part. Est-ce licite ?
+
+**Réponse :** ✅ **Licite sous conditions :**
+
+| Condition | Explication |
+|-----------|-------------|
+| 1. Partenariat réel | La banque assume les risques (si la maison brûle, elle perd 80%) |
+| 2. Loyer du marché | Pas un loyer fixe indépendant du marché |
+| 3. Contrats séparés | Chaque achat de part par contrat séparé |
+| 4. Pas d'obligation | Vous n'êtes pas obligé d'acheter si vous ne voulez pas |
+
+⚠️ **Attention importante :** Certaines banques appliquent la participation décroissante **de façon fictive** !
+- Vérifiez : La banque assume-t-elle des risques réels ?
+- Ou tous les risques sont sur vous ?
+
+---
+
+### Quatrième Cas : Partenariat dans un Restaurant avec Rôles Différents
+
+**Question :** Trois personnes veulent ouvrir un restaurant :
+- Le premier met 500 000 riyals
+- Le deuxième met 300 000 riyals
+- Le troisième gérera le restaurant sans capital
+
+Comment répartir les bénéfices et pertes ?
+
+**Analyse :**
+\`\`\`
+┌─────────────────────────────────────────┐
+│    Shirkat 'Inân + travail (mixte)     │
+├─────────────────────────────────────────┤
+│ Associé 1 : 500 000 (capital)          │
+│ Associé 2 : 300 000 (capital)          │
+│ Associé 3 : travail (gestion)          │
+└─────────────────────────────────────────┘
+\`\`\`
 
 **Réponse :**
 
-**Les profits :** Selon l'accord. Par exemple :
-- Propriétaire des 250 000 € : 40%
-- Propriétaire des 150 000 € : 25%
-- Le gérant : 35% (pour son travail)
+**Bénéfices** — Selon l'accord (exemple) :
+| Associé | Pourcentage | Justification |
+|---------|-------------|---------------|
+| Celui des 500 000 | 40% | Plus gros capital |
+| Celui des 300 000 | 25% | Capital moyen |
+| Le gérant | 35% | Son travail de gestion |
 
-**Les pertes :** Uniquement selon le capital :
-- Propriétaire des 250 000 € : 62,5%
-- Propriétaire des 150 000 € : 37,5%
-- Le gérant : rien (il a perdu son effort seulement)
-
----
-
-### Cas 5 : La trahison de l'associé
-
-**Situation :** J'ai découvert que mon associé vole l'argent de la société. Que faire légalement ?
-
-**Réponse :**
-
-Rappelez-vous le hadith qudsi : **"Je suis le troisième des deux partenaires tant que l'un d'eux ne trahit pas l'autre. S'il le trahit, Je me retire d'entre eux."**
-
-**Les étapes :**
-1. Documentez les preuves de la trahison
-2. Confrontez-le et réclamez votre droit
-3. S'il ne répond pas, portez l'affaire devant la justice
-4. Vous avez le droit de résilier le partenariat et de lui demander garantie
+**Pertes** — Proportionnelles au capital uniquement :
+| Associé | % de perte | Raison |
+|---------|------------|--------|
+| Celui des 500 000 | 62,5% | 500 000 ÷ 800 000 |
+| Celui des 300 000 | 37,5% | 300 000 ÷ 800 000 |
+| Le gérant | 0% | N'a pas mis de capital (perd son effort) |
 
 ---
 
-## 💡 Pause réflexion
+### Cinquième Cas : Trahison de l'Associé
 
-> **"Je suis le troisième des deux partenaires tant que l'un d'eux ne trahit pas l'autre"** — Hadith qudsi
+**Question :** J'ai découvert que mon associé vole l'argent de la société. Que faire selon la Sharia ?
 
-Allah تعالى est avec les associés, les protège et les bénit... **tant qu'ils sont sincères et honnêtes.**
+<div class="quote-box">
 
-Réfléchissez à vos partenariats :
+**📜 Rappelle-toi le Hadith Qudsî :**
 
-🔹 Êtes-vous honnête avec l'argent de votre associé comme avec le vôtre ?
+**"Je suis le troisième des deux associés tant que l'un ne trahit pas l'autre. S'il le trahit, Je Me retire d'entre eux."**
 
-🔹 Documentez-vous les accords par écrit pour préserver les droits et éviter les conflits ?
+</div>
 
-🔹 En cas de désaccord, recourez-vous à l'arbitrage légal ou prenez-vous votre droit par la force ?
+**Réponse — Étapes pratiques :**
 
-🔹 Avant de vous engager dans un partenariat, vous renseignez-vous sur la moralité et l'honnêteté de l'associé ?
+\`\`\`
+┌─────────────────────────────────────────┐
+│     Gérer la trahison de l'associé     │
+├─────────────────────────────────────────┤
+│                                         │
+│  1️⃣ Documentez les preuves              │
+│     Registres, reçus, témoins          │
+│              │                          │
+│              ▼                          │
+│  2️⃣ Confrontez-le et demandez votre dû │
+│     Avec sagesse et bonté d'abord      │
+│              │                          │
+│              ▼                          │
+│  3️⃣ S'il ne répond pas : justice       │
+│     Tribunaux commerciaux               │
+│              │                          │
+│              ▼                          │
+│  4️⃣ Dissolution + Garantie             │
+│     Réclamer ce qu'il a détruit ou volé│
+│                                         │
+└─────────────────────────────────────────┘
+\`\`\`
 
-**Rappel :** Le partenariat réussi se construit sur la confiance et la transparence, et la trahison détruit la bénédiction avant de détruire l'argent.
+**Rappelez-vous :** Le traître est responsable, et la bénédiction s'en va !
+
+---
+
+## 💡 Pause et Réflexion
+
+<div class="quote-box">
+
+**📜 Le Hadith Qudsî :**
+
+**"Je suis le troisième des deux associés tant que l'un ne trahit pas l'autre. S'il le trahit, Je Me retire d'entre eux."**
+
+</div>
+
+Allah le Très-Haut est avec les associés... Il les protège et les bénit... **tant qu'ils sont sincères et fidèles.**
+
+### Réfléchissez à vos Partenariats :
+
+\`\`\`
+┌─────────────────────────────────────────────────┐
+│              Questions de Réflexion             │
+├─────────────────────────────────────────────────┤
+│                                                 │
+│  🔹 Êtes-vous aussi fidèle avec l'argent       │
+│     de votre associé qu'avec le vôtre ?        │
+│                                                 │
+│  🔹 Documentez-vous les accords par écrit      │
+│     pour préserver les droits et éviter        │
+│     les conflits ?                              │
+│                                                 │
+│  🔹 En cas de désaccord, recourez-vous à       │
+│     l'arbitrage ou prenez-vous votre dû        │
+│     par vous-même ?                             │
+│                                                 │
+│  🔹 Avant le partenariat, vous renseignez-vous │
+│     sur la moralité et la fidélité de          │
+│     l'associé ?                                 │
+│                                                 │
+└─────────────────────────────────────────────────┘
+\`\`\`
+
+**La Règle d'Or :**
+
+> Le partenariat réussi se construit sur **la confiance et la transparence**,
+> et la trahison détruit **la bénédiction** avant de détruire **l'argent**.
 
 ---
 
 ## Résumé de la Leçon
 
-| Type de Société | Jugement |
-|-----------------|----------|
-| Société 'Inan | Valide par consensus |
-| Société Mufawadah | Controversée |
-| Société des Corps | Valide selon la majorité |
-| Société de Réputation | Controversée |
-| Société par Actions | Permise si l'activité est licite |
-| Partenariat Dégressif | Permis avec conditions |
+\`\`\`
+┌─────────────────────────────────────────────────┐
+│           Résumé des Règles des Sociétés       │
+├─────────────────────────────────────────────────┤
+│                                                 │
+│  Sociétés traditionnelles :                     │
+│  ──────────────────────────                     │
+│  • Shirkat al-'Inân ─────────► ✅ Consensus    │
+│  • Shirkat al-Mufâwada ──────► ⚠️ Divergence  │
+│  • Shirkat al-Abdân ─────────► ✅ Majorité    │
+│  • Shirkat al-Wujûh ─────────► ⚠️ Divergence  │
+│  • Mudâraba ─────────────────► ✅ Consensus    │
+│                                                 │
+│  Sociétés modernes :                            │
+│  ────────────────────                           │
+│  • Par actions (activité licite) ► ✅ Licite   │
+│  • Par actions (activité illicite)► ❌ Illicite│
+│  • Par actions (mixte) ────────► ⚠️ Divergence│
+│  • SARL ─────────────────────► ✅ Licite       │
+│  • Participation décroissante ─► ✅ Sous cond. │
+│                                                 │
+│  Règles fondamentales :                         │
+│  ──────────────────────                         │
+│  • "Le bénéfice selon l'accord"                │
+│  • "La perte selon le capital"                 │
+│  • "L'associé est dépositaire,                 │
+│     ne garantit qu'en cas d'abus"              │
+│                                                 │
+└─────────────────────────────────────────────────┘
+\`\`\`
 
 ---
 
-*Ô Seigneur, augmente ma science*
+*Rabbi zidnî 'ilman*
 `;

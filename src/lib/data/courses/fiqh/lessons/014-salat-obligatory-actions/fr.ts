@@ -13,6 +13,60 @@ Louange à Allah qui a parachevé pour nous la religion. Que la paix et les bén
 
 ---
 
+## 🎭 Scène : L'oubli du tashahhud
+
+<div class="scene-box">
+
+*À la mosquée du quartier, Ahmed termine sa deuxième rak'a...*
+
+*Au lieu de s'asseoir pour le premier tashahhud, il se lève directement pour la troisième rak'a.*
+
+**L'imam** (à côté de lui) : *[toussotant légèrement]* « Subhan'Allah... »
+
+**Ahmed** : *[réalisant son erreur à mi-chemin]* « Oh non, j'ai oublié le tashahhud ! Dois-je redescendre ? »
+
+*Il continue à se lever car il est plus proche de la position debout...*
+
+*À la fin de la prière, avant le salam...*
+
+**Ahmed** : *[se prosterne deux fois supplémentaires]*
+
+**Un frère après la prière** : « Pourquoi as-tu fait ces deux prosternations supplémentaires ? »
+
+**Ahmed** : « C'est la prosternation de l'oubli. J'ai oublié le premier tashahhud, et comme j'étais plus proche de la position debout quand je m'en suis rendu compte, j'ai continué et compensé par deux prosternations avant le salam, comme l'a fait le Prophète ﷺ. »
+
+</div>
+
+**📍 Référence :** Hadith d'Abdullah ibn Buhayna — Al-Bukhari (829)
+
+---
+
+## 🎭 Scène : La différence entre pilier et obligation
+
+<div class="scene-box">
+
+*Un père enseigne à son fils les nuances du fiqh...*
+
+**Youssef** (12 ans) : « Papa, si j'oublie quelque chose dans ma prière, est-ce qu'elle est toujours valide ? »
+
+**Le père** : « Ça dépend de ce que tu oublies. Imagine la prière comme une maison. »
+
+**Youssef** : « Une maison ? »
+
+**Le père** : « Oui. Les **piliers** sont comme les murs et le toit — sans eux, la maison s'effondre. Tu ne peux pas les compenser autrement. »
+
+**Youssef** : « Et les obligations ? »
+
+**Le père** : « Les **obligations** sont comme les fenêtres et les portes. La maison tient sans elles, mais elle n'est pas complète. Si tu les oublies, tu peux les compenser par la prosternation de l'oubli. »
+
+**Youssef** : « Et les sunnas ? »
+
+**Le père** : « Ce sont les décorations et les meubles. Ta maison est valide sans eux, mais elle est bien plus belle avec ! »
+
+</div>
+
+---
+
 ## 🔍 La différence entre pilier et obligation
 
 - **Le pilier (rukn) :** Partie essentielle de la prière, l'acte n'est valide qu'avec lui, et il n'est pas compensé par la prosternation de l'oubli.

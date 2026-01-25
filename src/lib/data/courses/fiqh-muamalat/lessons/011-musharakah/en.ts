@@ -1,367 +1,963 @@
-export const contentEn = `# Partnerships (Musharakah) — Rules of Business Associations
+export const contentEn = `# Companies — Rules of Partnership and Joint Ventures
 
-## Definition of Partnership
+<div class="scene-box">
 
-### Linguistic Meaning
-Sharikah: mixing, meaning to mix two properties so that they become indistinguishable.
+**🎬 At the market of Badr... the day faith triumphed**
 
-### Technical Meaning
-> Coming together in a right or in disposition.
+*Three Companions discuss before the battle...*
 
-**Partnership of right:** that two or more people own one thing.
-**Partnership of disposition:** that two or more people contract to trade together.
+**Abdullah ibn Mas'ûd:** O 'Ammâr, O Sa'd... what do you say we share whatever we obtain today?
+
+**'Ammâr ibn Yâsir:** *(enthusiastically)* Excellent idea! Whatever one of us obtains will be for all of us.
+
+**Sa'd ibn Abî Waqqâs:** *(agreeing)* Agreed. We share through our efforts.
+
+*After the battle...*
+
+**Ibn Mas'ûd:** *(empty-handed)* I obtained nothing...
+
+**'Ammâr:** *(likewise)* Neither did I...
+
+**Sa'd:** *(leading two captives)* As for me, I obtained these two!
+
+**Ibn Mas'ûd:** *(with a smile)* May Allah bless us all... We agreed before the work.
+
+*They divided the spoils equally, despite the disparity in results!*
+
+</div>
+
+This is the jurisprudence of partnership: **agreement before work, fairness after.**
 
 ---
 
-## The Legitimacy of Partnership
+## Definition of Partnership
 
-### From the Quran
-> Allah تعالى says: ﴿Many partners oppress one another, except those who believe and do righteous deeds﴾ [Sad: 24]
+<div class="quote-box">
 
-> And He says regarding inheritance: ﴿They share in a third﴾ [An-Nisa: 12]
+**📜 Etymologically:**
 
-### From the Prophetic Sunna
-> Abu Hurayra رضي الله عنه said: The Messenger of Allah ﷺ said: "Allah says: I am the third of the two partners as long as one of them does not betray his companion. If he betrays him, I withdraw from between them." [Reported by Abu Dawud]
+Partnership (shirka) comes from mixing and blending. The Arabs say: "I partnered with him in the matter" — meaning I entered into it with him.
 
-### Consensus
-Scholars are unanimous on the permissibility of partnership in general.
+</div>
+
+### Terminology
+
+\`\`\`
+┌──────────────────────────────────────────────┐
+│             Definition of Partnership        │
+│                                              │
+│    "Union in ownership or management"        │
+│                                              │
+├───────────────────┬──────────────────────────┤
+│ Partnership of    │    Partnership of        │
+│ Ownership         │    Management            │
+├───────────────────┼──────────────────────────┤
+│ Two or more       │ Two or more              │
+│ people own        │ people contract          │
+│ a common asset    │ to trade together        │
+├───────────────────┼──────────────────────────┤
+│ Ex: heirs of      │ Ex: partners in          │
+│ a house           │ a business or project    │
+└───────────────────┴──────────────────────────┘
+\`\`\`
+
+---
+
+## Legitimacy of Partnership
+
+<div class="quote-box">
+
+**📜 From the Book of Allah:**
+
+﴾And indeed, many associates oppress one another, except those who believe and do righteous deeds, and they are few﴿ [Sâd: 24]
+
+*The khulâtâ' = the partners*
+
+</div>
+
+<div class="quote-box">
+
+**📜 On Inheritance:**
+
+﴾They are then partners in the third﴿ [An-Nisâ': 12]
+
+*If the uterine siblings inherit, they share the third equally.*
+
+</div>
+
+<div class="quote-box">
+
+**📜 The Magnificent Hadith Qudsî:**
+
+The Prophet ﷺ said: **"Allah the Most High says: I am the third of two partners as long as one does not betray the other. If he betrays him, I withdraw from between them."**
+
+📚 Reported by Abû Dâwûd and Al-Hâkim who authenticated it
+
+</div>
+
+\`\`\`
+    ┌─────────────────────────────────────────┐
+    │      Allah is the third                 │
+    │        with blessing and protection     │
+    └───────────────────┬─────────────────────┘
+                        │
+                        ▼
+    ┌──────────────────────────────────────────┐
+    │    As long as they are sincere & faithful│
+    │    ═══════════════════════════          │
+    │    Partner ◄──── loyalty ────► Partner   │
+    │                  ▲                       │
+    │                  │                       │
+    │         blessing and success             │
+    └──────────────────────────────────────────┘
+                        │
+              ┌─────────┴─────────┐
+              ▼                   ▼
+    ┌──────────────┐    ┌──────────────────────┐
+    │ If one       │    │ If they remain       │
+    │ betrays      │    │ faithful             │
+    │ ───────────  │    │ ────────────────     │
+    │ Blessing     │    │ Success and          │
+    │ departs      │    │ growth continue      │
+    └──────────────┘    └──────────────────────┘
+\`\`\`
+
+**Consensus of the Ummah:** Scholars are unanimous on the permissibility of partnership in general.
 
 ---
 
 ## Types of Partnerships
 
-### First Type: 'Inan Partnership
-
-**Definition:**
-> That two or more people partner with their wealth to work in it together, and the profit is between them.
-
-**Its conditions:**
-1. Capital must be in gold and silver or their equivalent
-2. Capital must be known
-3. Profit percentage must be known
-4. Each partner must have the right to dispose
-
-**Its rules:**
-
-| Situation | Rule |
-|-----------|------|
-| Profit | Divided according to agreement |
-| Loss | According to capital |
-| Work | Difference is permitted |
-
-**Example:**
-Two people each put 50,000 riyals and work together in trade, profit is shared equally.
-
-### Second Type: Mufawadah Partnership
-
-**Definition:**
-> That two or more people partner being equal in capital, work, profit, and loss, each being a guarantor for the other.
-
-**Its specific conditions:**
-1. Equality in capital
-2. Equality in disposition
-3. Each is an agent and guarantor for the other
-
-**Its ruling:**
-- The majority: not valid because rarely achievable
-- Hanafis: valid
-
-### Third Type: Labor Partnership (Bodies)
-
-**Definition:**
-> That two or more people partner in what they earn through their physical labor from permissible things.
-
-**Its forms:**
-- Two fishermen partnering in fishing
-- Two craftsmen partnering in their work
-- Two engineers partnering to offer their services
-
-**Its ruling:**
-- Hanbalis and Malikis: valid
-- Shafi'is: not valid
-
-**Evidence for permissibility:**
-> Abdullah ibn Mas'ud رضي الله عنه said: "Ammar, Sa'd and I partnered in what we would obtain on the day of Badr." [Reported by Abu Dawud]
-
-### Fourth Type: Reputation Partnership
-
-**Definition:**
-> That two or more people partner in what they buy through their reputation and people's trust in them, then sell it and share the profit.
-
-**Its form:**
-Two people without money, but having good reputation, buy on credit, sell and share the profit.
-
-**Its ruling:**
-- Hanbalis and Hanafis: valid
-- Shafi'is and Malikis: not valid
-
-### Fifth Type: Mudarabah Partnership
-
-Detailed in the Mudarabah lesson.
+\`\`\`
+                    Types of Partnerships
+                         │
+         ┌───────────────┼───────────────┐
+         ▼               ▼               ▼
+    ┌─────────┐    ┌──────────┐    ┌──────────┐
+    │Contract │    │Ownership │    │Modern    │
+    │Partner- │    │Partner-  │    │Companies │
+    │ships    │    │ships     │    │          │
+    └────┬────┘    └──────────┘    └────┬────┘
+         │                              │
+    ┌────┴────────────────┐       ┌────┴────┐
+    │  1. Shirkat al-'Inân│       │Joint    │
+    │  2. Shirkat Mufâwada│       │Stock    │
+    │  3. Shirkat Abdân   │       │LLC      │
+    │  4. Shirkat Wujûh   │       │Diminish-│
+    │  5. Mudâraba        │       │ing      │
+    └────────────────────┘       └─────────┘
+\`\`\`
 
 ---
 
-## Joint Stock Company
+## First Type: Shirkat al-'Inân
+
+<div class="scene-box">
+
+**🎬 In Baghdad... two partners negotiate**
+
+**Ahmad the merchant:** I have 10,000 dinars, I want us to partner in the silk trade.
+
+**Khâlid the merchant:** And I have 5,000 dinars. But I know the caravan routes and I negotiate well.
+
+**Ahmad:** *(thinking)* Your capital is half of mine... but your expertise is priceless!
+
+**Khâlid:** What do you say? Profits split 50-50, despite the difference in capital?
+
+**Ahmad:** *(shaking his hand)* Deal! I put in more money, and you work more.
+
+**The Judge:** *(later)* Correct! This is a shirkat al-'inân. The profit is according to your agreement.
+
+</div>
 
 ### Definition
-A company whose capital is divided into shares of equal value, tradeable, with each partner responsible only to the extent of their shares.
 
-### Its Pillars
-1. Partners (shareholders)
-2. Capital (shares)
-3. Formula (articles of incorporation and bylaws)
+> That two or more people partner with their capitals to work in it and share the profits.
 
-### Types of Joint Stock Companies by Activity
+\`\`\`
+┌─────────────────────────────────────────────────┐
+│              Shirkat al-'Inân                   │
+│       "The mother of partnerships, most valid" │
+├─────────────────────────────────────────────────┤
+│                                                 │
+│    Partner 1           Partner 2                │
+│    ────────           ────────                  │
+│    capital + work  +  capital + work            │
+│         │                 │                     │
+│         └────────┬────────┘                     │
+│                  ▼                              │
+│            ┌──────────┐                         │
+│            │ Profit   │                         │
+│            │ shared   │                         │
+│            └──────────┘                         │
+│                                                 │
+│   Profit: according to agreement                │
+│   Loss: proportional to capital                 │
+│                                                 │
+└─────────────────────────────────────────────────┘
+\`\`\`
 
-**1. Companies with permissible activity:**
-- Halal food companies
-- Construction companies
-- Technology companies
+### Conditions
 
-**Their ruling:** It is permissible to invest in them.
+| # | Condition | Reason |
+|---|-----------|--------|
+| 1 | Capital in currency | Ease of valuation and division |
+| 2 | Capital known | Avoid ignorance and uncertainty |
+| 3 | Profit as percentage | Not a fixed amount but a % |
+| 4 | Each partner can act | To realize the partnership |
 
-**2. Companies with prohibited activity:**
-- Usurious banks
-- Alcohol companies
-- Gambling companies
+### Rules
 
-**Their ruling:** It is forbidden to invest in them.
+| Element | Rule | Example |
+|---------|------|---------|
+| Profit | According to agreement | 50%-50% or 60%-40% possible |
+| Loss | Proportional to capital | The one with 60% loses 60% |
+| Work | Disparity is permitted | One may work more |
 
-**3. Mixed companies:**
-- Their main activity is permissible
-- But they engage in some prohibited practices
-
-**Their ruling:** Contemporary scholars have differed:
-- An opinion of absolute prohibition
-- An opinion of permission with conditions (that the prohibited portion is minimal and one disposes of it through charity)
+**Ruling:** Valid by consensus — it is the most recognized of partnerships.
 
 ---
 
-## Limited Liability Company
+## Second Type: Shirkat al-Mufâwada
+
+<div class="quote-box">
+
+**📜 Definition:**
+
+That two or more people partner being **equal in everything**:
+- Capital
+- Work
+- Profits and losses
+- Each is a guarantor for the other
+
+</div>
+
+\`\`\`
+┌─────────────────────────────────────────────────┐
+│            Shirkat al-Mufâwada                  │
+│         "Complete equality in everything"      │
+├─────────────────────────────────────────────────┤
+│                                                 │
+│      Partner 1          =         Partner 2    │
+│      ───────                      ───────       │
+│      Capital            =         Capital       │
+│      Work               =         Work          │
+│      Profit             =         Profit        │
+│      Loss               =         Loss          │
+│      Guarantee          =         Guarantee     │
+│                                                 │
+├─────────────────────────────────────────────────┤
+│  Ruling:                                        │
+│  • Majority: invalid (rarely achievable)        │
+│  • Hanafis: valid                               │
+└─────────────────────────────────────────────────┘
+\`\`\`
+
+**Reason for disagreement:** It is nearly impossible for two people to be equal in everything!
+
+---
+
+## Third Type: Shirkat al-Abdân (of Bodies)
+
+<div class="scene-box">
+
+**🎬 Return to Badr... the story of the three Companions**
+
+**Abdullah ibn Mas'ûd:** *(narrating)* I partnered with 'Ammâr and Sa'd in whatever we would obtain on the day of Badr...
+
+**The Narrator:** What happened?
+
+**Ibn Mas'ûd:** Sa'd brought back two captives, and 'Ammâr and I brought back nothing.
+
+**The Narrator:** How did you divide?
+
+**Ibn Mas'ûd:** *(smiling)* We divided among ourselves! Because we agreed before the work.
+
+📚 Reported by Abû Dâwûd and An-Nasâ'î
+
+</div>
 
 ### Definition
-A company where the partner's responsibility is limited to their share in the capital.
 
-### Its Legal Ruling
-Permissible because it is among the modern permissible contracts, provided:
-1. Its activity is permissible
-2. It does not contain prohibited clauses
-3. It adheres to Shariah guidelines
+> That two or more people partner in what they earn through their labor (their bodies) without capital.
+
+\`\`\`
+┌─────────────────────────────────────────────────┐
+│            Shirkat al-Abdân                     │
+│        "Partnership through labor"             │
+├─────────────────────────────────────────────────┤
+│                                                 │
+│    Partner 1              Partner 2             │
+│    ────────              ────────               │
+│      labor         +       labor                │
+│    (no capital)         (no capital)            │
+│         │                 │                     │
+│         └────────┬────────┘                     │
+│                  ▼                              │
+│            ┌──────────┐                         │
+│            │ Joint    │                         │
+│            │ output   │                         │
+│            └──────────┘                         │
+│                  │                              │
+│                  ▼                              │
+│         Share the profits                       │
+│                                                 │
+└─────────────────────────────────────────────────┘
+\`\`\`
+
+### Contemporary Applications
+
+| Type | Example |
+|------|---------|
+| Craftsmen | Two carpenters share orders |
+| Professionals | Two doctors open a joint clinic |
+| Fishermen | Share the catch together |
+| Developers | Partner to build an app |
+
+### Ruling
+
+| School | Ruling |
+|--------|--------|
+| Hanbalis | Valid ✅ |
+| Malikis | Valid ✅ |
+| Hanafis | Valid ✅ |
+| Shafi'is | Invalid ❌ |
+
+**Preponderant opinion:** Permissible, based on the hadith.
 
 ---
 
-## General Rules on Partnerships
+## Fourth Type: Shirkat al-Wujûh (of Reputations)
 
-### Partner's Liability
+<div class="scene-box">
 
-**The principle:**
-> Every partner is a trustee of the partnership's assets; they are not liable except for abuse or negligence.
+**🎬 At the market of Medina...**
 
-### Right of Disposition
+**'Âmir:** *(to his friend)* O Sa'îd, we don't have money to trade...
 
-**The rule:**
-> The partner's disposition of partnership assets is like the agent's disposition of the principal's assets.
+**Sa'îd:** But we have a good reputation! The merchants trust us.
 
-**They are permitted:**
-- Normal buying and selling
-- Delegating to others according to custom
+**'Âmir:** *(enthusiastically)* True! If we went to merchant Mahmûd and bought on credit...
 
-**They are not permitted:**
-- Making donations from partnership assets
-- Lending without permission
-- Taking unusual risks
+**Sa'îd:** We sell the goods, pay him back and split the profit!
+
+**'Âmir:** This is what they call... shirkat al-wujûh!
+
+</div>
+
+### Definition
+
+> That two people partner in what they buy **through their reputation and people's trust** (on credit), then sell it and share the profit.
+
+\`\`\`
+┌─────────────────────────────────────────────────┐
+│            Shirkat al-Wujûh                     │
+│        "Partnership through reputation"        │
+├─────────────────────────────────────────────────┤
+│                                                 │
+│    Partner 1              Partner 2             │
+│    ────────              ────────               │
+│    reputation + credit + reputation             │
+│    (no capital)         (no capital)            │
+│         │                 │                     │
+│         └────────┬────────┘                     │
+│                  ▼                              │
+│         ┌───────────────┐                       │
+│         │Purchase on    │                       │
+│         │credit (trust) │                       │
+│         └───────┬───────┘                       │
+│                 ▼                               │
+│           Sale with profit                      │
+│                 │                               │
+│                 ▼                               │
+│      Repayment + Share profits                  │
+│                                                 │
+└─────────────────────────────────────────────────┘
+\`\`\`
+
+### Ruling
+
+| School | Ruling |
+|--------|--------|
+| Hanbalis | Valid ✅ |
+| Hanafis | Valid ✅ |
+| Shafi'is | Invalid ❌ |
+| Malikis | Invalid ❌ |
+
+---
+
+## Fifth Type: Mudâraba Partnership
+
+*(Detailed in the previous lesson)*
+
+\`\`\`
+┌─────────────────────────────────────────────────┐
+│        Comparison: Mudâraba vs Partnerships     │
+├─────────────────────────────────────────────────┤
+│                                                 │
+│   Mudâraba          ≠       Shirkat al-'Inân   │
+│   ────────                  ────────────        │
+│   Capital owner only       Both work and        │
+│   + worker only            invest capital       │
+│                                                 │
+│   Mudâraba          ≠       Shirkat Abdân      │
+│   ────────                  ────────────        │
+│   capital + labor          labor only           │
+│   (from two parties)      (from both parties)   │
+│                                                 │
+└─────────────────────────────────────────────────┘
+\`\`\`
+
+---
+
+## Summary of Traditional Partnerships
+
+| Type | Capital | Work | Ruling |
+|------|---------|------|--------|
+| **'Inân** | From both | From both | ✅ Consensus |
+| **Mufâwada** | Strictly equal | Strictly equal | ⚠️ Disagreement |
+| **Abdân** | None | From both | ✅ Majority |
+| **Wujûh** | On credit | From both | ⚠️ Disagreement |
+| **Mudâraba** | From one party | From other | ✅ Consensus |
+
+---
+
+## Modern Companies
+
+### Joint Stock Company
+
+<div class="quote-box">
+
+**📜 Definition:**
+
+A company whose capital is divided into **shares of equal value**, tradable, and each partner is only liable to the extent of their shares.
+
+</div>
+
+\`\`\`
+┌─────────────────────────────────────────────────┐
+│           Joint Stock Company                   │
+│     Capital = Sum of shares                    │
+├─────────────────────────────────────────────────┤
+│                                                 │
+│  Capital: 1,000,000 riyals                      │
+│  ─────────────────────────                      │
+│  Divided into: 10,000 shares                    │
+│  Share value: 100 riyals                        │
+│                                                 │
+│  ┌─────────────────────────────────────┐       │
+│  │     Ownership Distribution          │       │
+│  ├──────────────┬──────────────────────┤       │
+│  │ Shareholder A│ 3000 shares = 30%    │       │
+│  │ Shareholder B│ 2000 shares = 20%    │       │
+│  │ Shareholder C│ 1500 shares = 15%    │       │
+│  │ The rest     │ 3500 shares = 35%    │       │
+│  └──────────────┴──────────────────────┘       │
+│                                                 │
+│  • Profits distributed by shares               │
+│  • Liability limited to share value            │
+│  • Shares are tradable                         │
+│                                                 │
+└─────────────────────────────────────────────────┘
+\`\`\`
+
+### Types of Joint Stock Companies by Islamic Ruling
+
+\`\`\`
+              Joint Stock Companies
+                       │
+       ┌───────────────┼───────────────┐
+       ▼               ▼               ▼
+   ┌───────┐      ┌─────────┐      ┌─────────┐
+   │Permis-│      │Prohib-  │      │ Mixed   │
+   │sible  │      │ited     │      │         │
+   │  ✅   │      │   ❌    │      │   ⚠️   │
+   └───┬───┘      └────┬────┘      └────┬────┘
+       │               │                │
+       ▼               ▼                ▼
+   Halal food     Interest banks    Permissible
+   Construction   Alcohol/Gambling  activity +
+   Technology     Conventional      minor usurious
+                  insurance         transactions
+\`\`\`
+
+### Ruling on Mixed Companies
+
+| Position | Conditions | Ruling |
+|----------|------------|--------|
+| Absolute prohibition | — | There is ribâ even if minor |
+| Permissibility with conditions | 1. Main activity permissible | Permissible with purification |
+| | 2. Haram revenues < 5% | of haram portion |
+| | 3. Purification by donation | to the poor |
+
+---
+
+### Limited Liability Company (LLC)
+
+\`\`\`
+┌─────────────────────────────────────────────────┐
+│       Limited Liability Company                 │
+├─────────────────────────────────────────────────┤
+│                                                 │
+│  Main characteristic:                           │
+│  ─────────────────────                          │
+│  Partner's liability is limited to              │
+│  their share in the capital                     │
+│                                                 │
+│  Example:                                       │
+│  ─────────                                      │
+│  • Company capital: 500,000 riyals              │
+│  • Ahmad's share: 100,000 riyals (20%)          │
+│  • Company loses and owes: 800,000 riyals       │
+│                                                 │
+│  What happens?                                  │
+│  ──────────────                                 │
+│  • Ahmad loses only his share (100,000)         │
+│  • He is not required to pay more               │
+│                                                 │
+│  Islamic ruling: Permissible ✅                 │
+│  (modern contract allowed under conditions)     │
+│                                                 │
+└─────────────────────────────────────────────────┘
+\`\`\`
+
+---
+
+## Diminishing Partnership
+
+<div class="scene-box">
+
+**🎬 At the Islamic bank...**
+
+**The Client:** I want to buy a house for 500,000 riyals, but I only have 100,000.
+
+**Bank Employee:** We have an Islamic solution: diminishing partnership.
+
+**The Client:** How does it work?
+
+**The Employee:** We buy the house together — you 20% and us 80%.
+
+**The Client:** Then?
+
+**The Employee:** You live in the house and pay us rent for our share (80%). And each month you buy an additional portion from us.
+
+**The Client:** *(understanding)* So my share increases and yours decreases... that's why it's called "diminishing"!
+
+**The Employee:** Exactly! Until you own the house completely.
+
+</div>
+
+### How Does It Work?
+
+\`\`\`
+┌─────────────────────────────────────────────────┐
+│         Diminishing Partnership                 │
+│    "Diminishing Musharakah"                    │
+├─────────────────────────────────────────────────┤
+│                                                 │
+│  At the beginning:                              │
+│  ─────────────────                              │
+│  ┌─────────────────────────────────────┐       │
+│  │████████████████████│░░░░░░░░░░░░░░░░│       │
+│  │     Bank 80%      │   Client 20%   │       │
+│  └─────────────────────────────────────┘       │
+│                                                 │
+│  After one year:                                │
+│  ────────────────                               │
+│  ┌─────────────────────────────────────┐       │
+│  │██████████████│░░░░░░░░░░░░░░░░░░░░░░│       │
+│  │   Bank 60%   │     Client 40%      │       │
+│  └─────────────────────────────────────┘       │
+│                                                 │
+│  After two years:                               │
+│  ─────────────────                              │
+│  ┌─────────────────────────────────────┐       │
+│  │████████│░░░░░░░░░░░░░░░░░░░░░░░░░░░░│       │
+│  │Bank 40%│        Client 60%         │       │
+│  └─────────────────────────────────────┘       │
+│                                                 │
+│  At the end:                                    │
+│  ────────────                                   │
+│  ┌─────────────────────────────────────┐       │
+│  │░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│       │
+│  │          Client 100%               │       │
+│  └─────────────────────────────────────┘       │
+│                                                 │
+└─────────────────────────────────────────────────┘
+\`\`\`
+
+### Conditions for Islamic Validity
+
+| # | Condition | Explanation |
+|---|-----------|-------------|
+| 1 | Real partnership | Bank assumes risk of its share |
+| 2 | Market rent | Not a fictitious rent |
+| 3 | Separate contracts | Purchase separate from lease |
+| 4 | No obligation | Client is free not to buy |
+
+⚠️ **Warning:** Some banks apply diminishing partnership in a fictitious manner!
+
+---
+
+## General Rules of Partnerships
+
+### Partner's Guarantee
+
+\`\`\`
+┌─────────────────────────────────────────────────┐
+│              Rule of Guarantee                  │
+├─────────────────────────────────────────────────┤
+│                                                 │
+│   "Each partner is a trustee of the company's   │
+│    capital, he only guarantees in case of       │
+│    transgression or negligence"                 │
+│                                                 │
+│   ┌────────────┬────────────────────────┐      │
+│   │ Principle  │ Partner = trustee      │      │
+│   │            │ = no guarantee         │      │
+│   ├────────────┼────────────────────────┤      │
+│   │ Exception  │ Transgression = liable │      │
+│   │            │ Negligence = liable    │      │
+│   └────────────┴────────────────────────┘      │
+│                                                 │
+└─────────────────────────────────────────────────┘
+\`\`\`
+
+### Right of Action
+
+**The Rule:** Partner's action in company capital = agent's action in principal's capital.
+
+| Permitted ✅ | Forbidden ❌ |
+|-------------|-------------|
+| Normal buying and selling | Donating company capital |
+| Delegation per custom | Lending without permission |
+| Normal investment | Unusual risk |
 
 ### Distribution of Profits and Losses
 
-| Item | Rule |
-|------|------|
-| Profit | According to agreement or according to capital |
-| Loss | Always according to capital |
+\`\`\`
+┌─────────────────────────────────────────────────┐
+│         The Golden Rule of Partnerships        │
+├─────────────────────────────────────────────────┤
+│                                                 │
+│   "Profit according to agreement, and loss     │
+│    proportional to capital"                     │
+│                                                 │
+│   ┌─────────────────────────────────────┐      │
+│   │                                     │      │
+│   │   Profit ──► According to agreement│      │
+│   │              (disparity allowed)    │      │
+│   │                                     │      │
+│   │   Loss ──► Proportion of capital   │      │
+│   │           (always by percentage)   │      │
+│   │                                     │      │
+│   └─────────────────────────────────────┘      │
+│                                                 │
+│   Example: two partners (60% - 40% capital)    │
+│   ────────────────────────────────────          │
+│   Agreement: profit 50% - 50% ──► Valid        │
+│   Loss: will be 60% - 40% ──► Mandatory        │
+│                                                 │
+└─────────────────────────────────────────────────┘
+\`\`\`
 
-**Important rule:**
-> Profit according to what is agreed, and loss according to capital.
+### Causes of Partnership Dissolution
 
-### Termination of Partnership
-
-**Causes of termination:**
-1. Expiration of the specified period
-2. Achievement of purpose
-3. Destruction of partnership assets
-4. Death of a partner (in partnerships of persons)
-5. Withdrawal of a partner
-6. Termination by mutual consent
-
----
-
-## Contemporary Partnerships
-
-### Diminishing Partnership
-
-**Definition:**
-Partnership that begins with defined percentages, then one partner gradually buys the other's share until owning it completely.
-
-**Its application:**
-- Real estate financing
-- Project financing
-
-**Its form in real estate:**
-1. Bank and customer buy property together (bank 80%, customer 20%)
-2. Customer lives in property and pays rent for bank's share
-3. Each month customer buys part of bank's share
-4. In the end, customer owns property completely
-
-**Validity conditions:**
-1. Partnership must be real
-2. Rent must be at market price
-3. Each partner bears risks according to their share
-4. Sale must be through independent contract
-
-### Project Partnerships
-
-**Its forms:**
-- Partnership to build a factory
-- Partnership in a commercial project
-- Partnership in real estate development
-
-**Its rules:**
-1. Clarity of rights and obligations
-2. Determination of profit and loss percentages
-3. Transparency in management and accounts
+\`\`\`
+         Causes of Dissolution
+                 │
+    ┌────────────┼────────────┐
+    │            │            │
+    ▼            ▼            ▼
+┌────────┐  ┌────────┐  ┌────────────┐
+│By time │  │By      │  │By will     │
+│        │  │capital │  │            │
+└───┬────┘  └───┬────┘  └─────┬──────┘
+    │           │             │
+    ▼           ▼             ▼
+• End of     • Loss of   • Mutual
+  duration    company      termination
+• Goal        capital    • Partner
+  achieved                 withdrawal
+                         • Death
+\`\`\`
 
 ---
 
 ## 📖 Stories from the Salaf
 
-### The Partnership of Ibn Mas'ud, Ammar, and Sa'd on the Day of Badr
+### The Partnership of Ibn Mas'ûd, 'Ammâr and Sa'd
 
-Abdullah ibn Mas'ud رضي الله عنه narrated:
+<div class="scene-box">
 
-> **"Ammar, Sa'd and I partnered in what we would obtain on the day of Badr."**
+**🎬 The immortal lesson from Badr**
 
-Ibn Mas'ud said: **"Sa'd brought two captives, while Ammar and I brought nothing."**
+**Abdullah ibn Mas'ûd, may Allah be pleased with him:**
 
-Yet they divided among themselves what they obtained, because they had agreed on the partnership before the spoils.
+*"I partnered with 'Ammâr and Sa'd in whatever we would obtain on the day of Badr..."*
 
-**Lessons learned:**
+*"Sa'd came back with two captives, and neither 'Ammâr nor I brought back anything."*
 
-1. ✅ **Labor partnership is permissible** — partnering in work without capital
-2. ✅ **Partnership must be before the work** — not after
-3. ✅ **Fairness among partners** — despite different outcomes
-4. ✅ **Trust is the foundation of partnership** — they were companions before being partners
+**And yet... they divided the spoils equally!**
+
+</div>
+
+**Why?** Because they agreed on the partnership **before** the work, not after!
+
+### Lessons Learned
+
+\`\`\`
+┌─────────────────────────────────────────────────┐
+│           Lessons from the Badr Partnership    │
+├─────────────────────────────────────────────────┤
+│                                                 │
+│  1️⃣ Shirkat al-Abdân is permissible             │
+│     Partnership by labor without capital        │
+│                                                 │
+│  2️⃣ Partnership is made before work             │
+│     You cannot share another's gain afterward   │
+│                                                 │
+│  3️⃣ Fairness between partners                   │
+│     Despite disparity in results                │
+│                                                 │
+│  4️⃣ Trust is the foundation                     │
+│     They were friends before being partners     │
+│                                                 │
+└─────────────────────────────────────────────────┘
+\`\`\`
 
 ---
 
 ## 🎯 Contemporary Cases
 
-### Case One: Establishing a Startup
+### Case One: Creating a Startup
 
-**Question:** I am a programmer and my friend is a marketer. We want to establish a tech company. I will build the app and he will bring clients. We have no capital. How do we divide shares?
+**Question:** I'm a developer and my friend is a marketer. We want to create a tech company. I'll build the app and he'll bring clients. We don't have capital. How do we split the shares?
 
-**Answer:** ✅ **This is a permissible labor partnership.**
+**Analysis:**
+\`\`\`
+┌─────────────────────────────────────────┐
+│          Shirkat Abdân                  │
+│    (partnership through labor)         │
+├─────────────────────────────────────────┤
+│ Developer: programming work            │
+│ Marketer: marketing work               │
+│ Capital: none                           │
+└─────────────────────────────────────────┘
+\`\`\`
 
-Suggested division:
-- Agree on a percentage (e.g., 50-50 or according to expected effort)
-- Document the agreement in writing
-- Determine the mechanism for evaluating work and distributing profits
-- Agree on what happens if one of you withdraws
+**Answer:** ✅ **Shirkat Abdân is permissible**
 
----
-
-### Case Two: Buying Shares of Mixed Companies
-
-**Question:** Aramco's main activity is halal (oil), but it places its surpluses in usurious banks. Is it permissible to buy its shares?
-
-**Answer:** ⚠️ **There is disagreement among scholars:**
-
-**First opinion (Prohibition):** Not permissible because it involves usurious dealings.
-
-**Second opinion (Permission with conditions):**
-- The main activity must be permissible
-- The percentage of prohibited income must be minimal (less than 5%)
-- The investor must dispose of the forbidden profit portion through charity
+**Recommendations:**
+1. Agree on a percentage (50%-50% or according to expected effort)
+2. **Document the agreement in writing** — very important!
+3. Define the mechanism for evaluating work and distribution
+4. Agree on what happens if one withdraws
 
 ---
 
-### Case Three: Diminishing Partnership for Buying a House
+### Case Two: Buying Shares in Mixed Companies
 
-**Question:** The Islamic bank offers a program to buy a house: the bank pays 80% and I pay 20%, then I buy the bank's share monthly while paying rent for its share. Is this halal?
+**Question:** Aramco has a permissible main activity (oil), but places its surpluses in interest-based banks. Can we buy its shares?
+
+**Analysis:**
+\`\`\`
+┌─────────────────────────────────────────┐
+│       Mixed Company                     │
+├─────────────────────────────────────────┤
+│ Main activity: oil (halal) ✅           │
+│ Banking transactions: ribâ (haram) ❌   │
+│ Proportion: very minor                  │
+└─────────────────────────────────────────┘
+\`\`\`
+
+**Answer:** ⚠️ **Scholars disagree:**
+
+| Opinion | Ruling | Argument |
+|---------|--------|----------|
+| First | Prohibited | There is ribâ even if minor |
+| Second | Permissible with conditions | Main activity permissible + purification |
+
+**If you follow the permissibility opinion:**
+- Purify the portion of illicit profits by donating to the poor
+- Calculate the percentage of usurious revenues from financial reports
+
+---
+
+### Case Three: Diminishing Partnership for a House
+
+**Question:** The Islamic bank offers a house purchase program: the bank pays 80% and I pay 20%, then I buy back their share monthly while paying rent for their portion. Is this permissible?
 
 **Answer:** ✅ **Permissible with conditions:**
-1. The partnership must be real (the bank bears risks in its share)
-2. The rent must be at market price
-3. Share purchases must be through independent contracts
-4. I must not be obligated to buy if I don't want to
 
-⚠️ **Warning:** Some banks apply it superficially, so verify the details.
+| Condition | Explanation |
+|-----------|-------------|
+| 1. Real partnership | Bank assumes risks (if house burns, it loses 80%) |
+| 2. Market rent | Not a fixed rent regardless of market |
+| 3. Separate contracts | Each share purchase by separate contract |
+| 4. No obligation | You're not obligated to buy if you don't want |
+
+⚠️ **Important warning:** Some banks apply diminishing partnership **in a fictitious manner**!
+- Verify: Does the bank assume real risks?
+- Or are all risks on you?
 
 ---
 
-### Case Four: Partnership in a Restaurant
+### Case Four: Partnership in a Restaurant with Different Roles
 
-**Question:** Three people want to open a restaurant. The first puts 500,000 riyals, the second puts 300,000, and the third will manage the restaurant without capital. How are profits and losses divided?
+**Question:** Three people want to open a restaurant:
+- The first puts in 500,000 riyals
+- The second puts in 300,000 riyals
+- The third will manage the restaurant without capital
+
+How are profits and losses distributed?
+
+**Analysis:**
+\`\`\`
+┌─────────────────────────────────────────┐
+│    Shirkat 'Inân + labor (mixed)       │
+├─────────────────────────────────────────┤
+│ Partner 1: 500,000 (capital)           │
+│ Partner 2: 300,000 (capital)           │
+│ Partner 3: labor (management)          │
+└─────────────────────────────────────────┘
+\`\`\`
 
 **Answer:**
 
-**Profits:** According to agreement. For example:
-- Owner of 500,000: 40%
-- Owner of 300,000: 25%
-- Manager: 35% (for his work)
+**Profits** — According to agreement (example):
+| Partner | Percentage | Justification |
+|---------|------------|---------------|
+| The one with 500,000 | 40% | Largest capital |
+| The one with 300,000 | 25% | Medium capital |
+| The manager | 35% | His management work |
 
-**Losses:** According to capital only:
-- Owner of 500,000: 62.5%
-- Owner of 300,000: 37.5%
-- Manager: nothing (he only lost his effort)
+**Losses** — Proportional to capital only:
+| Partner | % loss | Reason |
+|---------|--------|--------|
+| The one with 500,000 | 62.5% | 500,000 ÷ 800,000 |
+| The one with 300,000 | 37.5% | 300,000 ÷ 800,000 |
+| The manager | 0% | Did not put capital (loses effort only) |
 
 ---
 
 ### Case Five: Partner's Betrayal
 
-**Question:** I discovered my partner is stealing from the company's funds. What should I do according to Shariah?
+**Question:** I discovered that my partner is stealing from the company's money. What should I do according to Sharia?
 
-**Answer:**
+<div class="quote-box">
 
-Remember the divine hadith: **"I am the third of the two partners as long as one of them does not betray his companion. If he betrays him, I withdraw from between them."**
+**📜 Remember the Hadith Qudsî:**
 
-**Steps:**
-1. Document evidence of betrayal
-2. Confront him and demand your right
-3. If he doesn't respond, take the matter to court
-4. You have the right to dissolve the partnership and demand compensation
+**"I am the third of two partners as long as one does not betray the other. If he betrays him, I withdraw from between them."**
+
+</div>
+
+**Answer — Practical steps:**
+
+\`\`\`
+┌─────────────────────────────────────────┐
+│     Dealing with partner's betrayal    │
+├─────────────────────────────────────────┤
+│                                         │
+│  1️⃣ Document the evidence              │
+│     Records, receipts, witnesses       │
+│              │                          │
+│              ▼                          │
+│  2️⃣ Confront him and demand your due  │
+│     With wisdom and kindness first     │
+│              │                          │
+│              ▼                          │
+│  3️⃣ If he doesn't respond: courts     │
+│     Commercial courts                   │
+│              │                          │
+│              ▼                          │
+│  4️⃣ Dissolution + Guarantee           │
+│     Claim what he destroyed or stole   │
+│                                         │
+└─────────────────────────────────────────┘
+\`\`\`
+
+**Remember:** The betrayer is liable, and the blessing departs!
 
 ---
 
 ## 💡 Pause and Reflect
 
-> **"I am the third of the two partners as long as one of them does not betray his companion"** — Divine hadith
+<div class="quote-box">
 
-Allah تعالى is with partners, protecting and blessing them... **as long as they are honest and trustworthy.**
+**📜 The Hadith Qudsî:**
 
-Reflect on your partnerships:
+**"I am the third of two partners as long as one does not betray the other. If he betrays him, I withdraw from between them."**
 
-🔹 Are you as trustworthy with your partner's money as with your own?
+</div>
 
-🔹 Do you document agreements in writing to preserve rights and avoid disputes?
+Allah the Most High is with the partners... He protects and blesses them... **as long as they are sincere and faithful.**
 
-🔹 When disagreements arise, do you resort to Shariah arbitration or take matters into your own hands?
+### Reflect on Your Partnerships:
 
-🔹 Before entering a partnership, do you ask about the partner's character and trustworthiness?
+\`\`\`
+┌─────────────────────────────────────────────────┐
+│              Questions for Reflection           │
+├─────────────────────────────────────────────────┤
+│                                                 │
+│  🔹 Are you as faithful with your partner's    │
+│     money as with your own?                    │
+│                                                 │
+│  🔹 Do you document agreements in writing      │
+│     to preserve rights and avoid conflicts?    │
+│                                                 │
+│  🔹 In case of disagreement, do you resort    │
+│     to arbitration or take your due by        │
+│     yourself?                                  │
+│                                                 │
+│  🔹 Before partnership, do you inquire about  │
+│     the partner's character and faithfulness? │
+│                                                 │
+└─────────────────────────────────────────────────┘
+\`\`\`
 
-**Remember:** Successful partnership is built on trust and transparency, and betrayal destroys blessing before it destroys money.
+**The Golden Rule:**
+
+> Successful partnership is built on **trust and transparency**,
+> and betrayal destroys **the blessing** before it destroys **the money**.
 
 ---
 
 ## Lesson Summary
 
-| Type of Partnership | Ruling |
-|---------------------|--------|
-| 'Inan Partnership | Valid by consensus |
-| Mufawadah Partnership | Controversial |
-| Labor Partnership | Valid according to majority |
-| Reputation Partnership | Controversial |
-| Joint Stock Company | Permissible if activity is lawful |
-| Diminishing Partnership | Permissible with conditions |
+\`\`\`
+┌─────────────────────────────────────────────────┐
+│           Summary of Partnership Rules         │
+├─────────────────────────────────────────────────┤
+│                                                 │
+│  Traditional Partnerships:                      │
+│  ─────────────────────────                      │
+│  • Shirkat al-'Inân ─────────► ✅ Consensus    │
+│  • Shirkat al-Mufâwada ──────► ⚠️ Disagreement │
+│  • Shirkat al-Abdân ─────────► ✅ Majority     │
+│  • Shirkat al-Wujûh ─────────► ⚠️ Disagreement │
+│  • Mudâraba ─────────────────► ✅ Consensus    │
+│                                                 │
+│  Modern Companies:                              │
+│  ─────────────────                              │
+│  • Joint Stock (permissible) ──► ✅ Permissible│
+│  • Joint Stock (prohibited) ───► ❌ Prohibited │
+│  • Joint Stock (mixed) ────────► ⚠️ Disagreement│
+│  • LLC ─────────────────────► ✅ Permissible   │
+│  • Diminishing Partnership ──► ✅ With cond.   │
+│                                                 │
+│  Fundamental Rules:                             │
+│  ───────────────────                            │
+│  • "Profit according to agreement"             │
+│  • "Loss according to capital"                 │
+│  • "Partner is trustee, only liable            │
+│     in case of transgression"                  │
+│                                                 │
+└─────────────────────────────────────────────────┘
+\`\`\`
 
 ---
 
-*My Lord, increase me in knowledge*
+*Rabbi zidnî 'ilman — My Lord, increase me in knowledge*
 `;

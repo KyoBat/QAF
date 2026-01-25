@@ -155,6 +155,125 @@ Divide the pillars into three stages so the sequence becomes fixed in your mind.
 
 > ⚠️ **Warning:** The majority view is that tuma'ninah is a pillar. One who pecks his prayer, his prayer is invalid according to three schools!
 
+---
+
+## 🎯 Contemporary Cases
+
+### ⏱️ Case 1: Quick Prayer at Work
+
+> **Situation:** Ahmed prays Dhuhr during his lunch break. He rushes and stays only a second in each position.
+
+**❓ Is his prayer valid?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**Analysis according to the hadith of the one who prayed badly:**
+
+| Criterion | Verification |
+|-----------|--------------|
+| ⏳ Time in each position | Must allow for the minimum dhikr |
+| 🔄 Limbs settling | Bones must return to their places |
+| ❌ Express prayer | Invalid — like the one who prayed badly |
+
+> 💡 **The Prophet ﷺ told him:** *"Go back and pray, for you have not prayed"* — Tuma'ninah is a pillar!
+
+</details>
+
+---
+
+### 📖 Case 2: Forgetting Al-Fatiha
+
+> **Situation:** You realize at the end of the prayer that you didn't recite Al-Fatiha in the 2nd rak'a.
+
+**❓ What should you do?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**Al-Fatiha is a pillar:**
+
+| Situation | Solution |
+|-----------|----------|
+| 🔔 You realize during the prayer | You go back to the position where you must recite it |
+| ⏰ You realize after the salam | This rak'a doesn't count — you must add it |
+| 🟢 You're a follower (audible prayer) | The imam's recitation suffices for you (Maliki view) |
+
+> 💡 **Rule:** A forgotten pillar must be made up, unlike an obligation.
+
+</details>
+
+---
+
+### 🙇 Case 3: Incomplete Prostration
+
+> **Situation:** Due to a knee injury, you cannot place your knees on the ground during prostration.
+
+**❓ Is your prayer valid?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**Inability removes the obligation:**
+
+| Case | Ruling |
+|------|--------|
+| 🩹 Injury that prevents | You do what you can |
+| 📊 The 7 limbs | You place what you can |
+| ⚖️ Principle | *"Fear Allah as much as you are able"* |
+
+> 💡 **The Prophet ﷺ said:** *"What I have forbidden you, avoid it. What I have commanded you, do of it what you can."*
+
+</details>
+
+---
+
+### 🔙 Case 4: Doubt About the Number of Rak'at
+
+> **Situation:** You doubt: "Did I pray 3 or 4 rak'at in 'Asr?"
+
+**❓ How should you proceed?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**The principle of certainty:**
+
+| Rule | Application |
+|------|-------------|
+| 📊 Build on certainty | You prayed 3 (the minimum certain) |
+| ➕ Add the missing rak'a | You pray a 4th |
+| 🙇 Prostration of forgetfulness | Before the salam |
+
+> **The Prophet ﷺ said:** *"If one of you doubts in his prayer, let him discard the doubt and build upon what he is certain of."* — Muslim
+
+</details>
+
+---
+
+### 📱 Case 5: Interrupted by an Urgent Call
+
+> **Situation:** Your phone rings during prayer. It's the hospital about a family member.
+
+**❓ Can you cut your prayer?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**Necessity permits what is prohibited:**
+
+| Situation | Ruling |
+|-----------|--------|
+| 🚨 Vital emergency | You may cut the prayer |
+| 📞 Ordinary call | You ignore it and continue |
+| 🔧 If you cut | You must redo the entire prayer |
+
+> 💡 **Advice:** Put your phone on silent before prayer!
+
+</details>
+
+---
+
 ### 📌 Schools' Positions on the Final Tashahhud
 
 | School | Ruling | Proof |
