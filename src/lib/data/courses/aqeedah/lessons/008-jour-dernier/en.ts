@@ -306,8 +306,6 @@ export const content = `# 📜 Belief in the Last Day — The Fifth Pillar of Fa
 
 </div>
 
-**O Lord, increase me in knowledge!** 📖`
-
 ---
 
 ## 🛡️ Refutation of Doubts (الشُّبُهات والرد عليها)
