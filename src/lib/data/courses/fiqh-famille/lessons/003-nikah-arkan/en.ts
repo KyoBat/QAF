@@ -1,204 +1,387 @@
-export const contentEn = `
-# Pillars of Marriage
+/**
+ * Family Fiqh - Lesson 003: Pillars of Marriage (Arkan al-Nikah)
+ * English content - Immersive version
+ */
 
-## Definition of a Pillar (Rukn)
+export const contentEn = `# 📜 Pillars of Marriage — The Foundations of a Valid Union
 
-A pillar is that without which something cannot be complete and is part of its essence. The pillars of marriage are the fundamental elements without which the contract is not valid.
-
-## First Pillar: The Two Spouses
-
-### Conditions for the Husband
-
-1. **Masculinity**: Being a man
-2. **Identification**: Being specifically identified
-3. **Absence of impediments**: Not being a mahram to the woman
-4. **Islam**: If the wife is Muslim
-
-### Conditions for the Wife
-
-1. **Femininity**: Being a woman
-2. **Identification**: Being specifically identified
-3. **Absence of impediments**: Such as waiting period or state of ihram
-4. **Non-prohibition**: Not being among prohibited women
-
-## Second Pillar: Offer and Acceptance
-
-### Definition of Offer and Acceptance
-
-- **Offer (Ijab)**: The statement issued by the guardian or his representative
-- **Acceptance (Qabul)**: The statement issued by the groom or his agent
-
-### Formula of the Contract
-
-Allah says: **"Marry them with the permission of their families"** [An-Nisa: 25]
-
-**Explicit formulas:**
-- "I give you my daughter in marriage" - "I accept"
-- "I marry my daughter to you" - "I accept this marriage"
-
-### Conditions of the Formula
-
-| Condition | Explanation |
-|-----------|-------------|
-| Agreement between offer and acceptance | Acceptance must correspond to the offer |
-| Continuity | Acceptance must follow offer in the same session |
-| No suspension | Not suspended on a future condition |
-| No time limitation | Not limited to a specific time (temporary marriage is forbidden) |
-
-## Third Pillar: The Guardian (Wali)
-
-### Evidence for Requiring a Guardian
-
-The Prophet ﷺ said: **"There is no marriage without a guardian"** [Reported by Abu Dawud and Tirmidhi]
-
-And he ﷺ said: **"Any woman who marries without the permission of her guardian, her marriage is void, her marriage is void, her marriage is void"** [Reported by Tirmidhi]
-
-### Order of Guardians
-
-1. **The father**: The most entitled guardian
-2. **Paternal grandfather**: In the absence of the father
-3. **Son then his son**: If she was previously married
-4. **Full brother then paternal half-brother**
-5. **Son of full brother then paternal half-brother**
-6. **Full paternal uncle then paternal half-uncle**
-7. **Son of full paternal uncle then paternal half-uncle**
-8. **The sultan or judge**: In the absence of guardians
-
-### Conditions of the Guardian
-
-- Islam (if the woman is Muslim)
-- Puberty
-- Sanity
-- Masculinity
-- Freedom
-- Uprightness (according to some scholars)
-
-## Fourth Pillar: Witnessing
-
-### Evidence for Requiring Witnesses
-
-The Prophet ﷺ said: **"There is no marriage without a guardian and two upright witnesses"** [Reported by Ibn Hibban]
-
-### Conditions for Witnesses
-
-1. Number: At least two
-2. Masculinity
-3. Uprightness
-4. Puberty and sanity
-5. Hearing and sight
-6. Islam (if both spouses are Muslim)
-
-### Wisdom Behind Requiring Witnesses
-
-- Announcing and publicizing the marriage
-- Preserving the rights of the spouses
-- Distinguishing marriage from fornication
-- Establishing lineage
-
-## Summary Table of Pillars
-
-| Pillar | Main Condition | Evidence |
-|--------|----------------|----------|
-| The two spouses | Absence of impediments | Verses of prohibition |
-| Offer and acceptance | Explicit formula | "Marry them with permission of their families" |
-| The guardian | Presence of valid guardian | "No marriage without guardian" |
-| Witnessing | Two upright witnesses | "And two upright witnesses" |
+> **The Prophet ﷺ said:**
+>
+> **"There is no marriage except with a guardian and two witnesses."**
+>
+> — **[At-Tirmidhi and Ibn Majah]**
 
 ---
 
-## 📖 Stories from the Salaf
+## 🎬 Introduction
 
-### The Marriage of Fatimah al-Zahra to Ali ibn Abi Talib (may Allah be pleased with them)
+### 🎭 Scene: The Invalid Marriage
 
-When Ali ibn Abi Talib (may Allah be pleased with him) wanted to marry Fatimah, the daughter of the Messenger of Allah ﷺ, he came to the Prophet ﷺ as a suitor. Ali (may Allah be pleased with him) was poor and owned nothing.
+> **A community center, years later...**
+>
+> A woman came crying to the imam:
+>
+> *"We married without my father's knowledge. He refused, so we did it ourselves with two friends as witnesses..."*
+>
+> The imam asked: *"Who conducted the marriage?"*
+>
+> She said: *"Just us and our friends. Is that not enough?"*
+>
+> The imam said with sadness:
+>
+> **"Sister, without a guardian (wali), the majority of scholars say your marriage is invalid..."**
+>
+> She collapsed: *"But we have children now!"*
 
-**The Prophet ﷺ asked him**: "Do you have anything?"
+> ⚠️ **Not knowing the pillars of marriage can lead to tragedy!**
 
-**Ali said**: "No, by Allah, O Messenger of Allah."
+---
 
-**He ﷺ said**: "Where is your Hutamiyyah armor?" (armor that he had given him)
+### 🎭 Scene: The Proper Marriage
 
-**Ali said**: "It is with me."
+> **In a masjid...**
+>
+> The father said: *"I give you my daughter in marriage according to the Book of Allah and the Sunnah of His Messenger."*
+>
+> The groom said: *"I accept her in marriage according to the Book of Allah and the Sunnah of His Messenger."*
+>
+> Two trustworthy witnesses were present.
+>
+> The imam said:
+>
+> **"The marriage is complete. May Allah bless you both."**
 
-**He ﷺ said**: "Give it to her" [Reported by al-Nasa'i]
+> 🎯 **Simple, clear, valid — this is the Islamic marriage!**
 
-So the dowry of the leader of the women of the world was an armor! The Prophet ﷺ married her to him in the presence of the Companions, saying: **"I marry you Fatimah for four hundred mithqals of silver. Are you pleased?"** He said: "I am pleased, O Messenger of Allah." Then he called for a plate of dates, placed it before them and said: **"Help yourselves"** (i.e., take some).
+---
 
-**🌟 Lesson**: This blessed marriage fulfilled all the pillars: the two identified spouses, the offer and acceptance with explicit wording, the guardian who was the Prophet ﷺ, and the witnessing in the presence of the Companions. The dowry was modest, for what matters is not the amount of the dowry but the blessing.
+## 📖 What Are the Pillars of Marriage?
+
+### Definition
+
+> **Rukn (Pillar)**: An essential component without which the contract is invalid.
+
+### The Pillars According to Schools
+
+| School | The Pillars |
+|--------|-------------|
+| 🔵 Hanafi | Only the offer (ijab) and acceptance (qabul) |
+| 🟢 Maliki | Wali, mahr, spouses, contract wording |
+| 🟠 Shafi'i | Spouses, wali, two witnesses, offer and acceptance |
+| ⚫ Hanbali | Spouses, offer and acceptance |
+
+### What All Agree On
+
+| Element | Status |
+|---------|--------|
+| ✅ Offer and acceptance | Essential by all |
+| ✅ Two spouses | Obviously essential |
+| ⚖️ Wali | Required by majority |
+| ⚖️ Witnesses | Required by majority |
+
+---
+
+## 1️⃣ The Offer and Acceptance (Ijab & Qabul)
+
+### Definition
+
+| Term | Meaning |
+|------|---------|
+| **Ijab** | The statement from the wali's side |
+| **Qabul** | The statement from the groom's side |
+
+### Conditions
+
+| Condition | Explanation |
+|-----------|-------------|
+| 🗣️ Clear wording | "I marry you" or "I give you in marriage" |
+| ⚡ In one session | Both must happen together |
+| 🔊 Audible | Both parties must hear |
+| 🎯 Matching | Acceptance must match the offer |
+
+### Examples of Valid Wording
+
+| Wali Says | Groom Says |
+|-----------|------------|
+| "I give you my daughter Fatima in marriage" | "I accept her in marriage" |
+| "I marry you to my daughter" | "I accept this marriage" |
+
+### Invalid Wordings
+
+| Statement | Why Invalid |
+|-----------|-------------|
+| "I might give you..." | Uncertainty |
+| "I promise to marry you to her" | Promise, not contract |
+| "I give her temporarily" | Not a real marriage |
+
+---
+
+## 2️⃣ The Two Spouses
+
+### Conditions for the Groom
+
+| Condition | Explanation |
+|-----------|-------------|
+| 👨 Male | Marriage is between man and woman |
+| 🕌 Muslim | If marrying a Muslim woman |
+| 🔒 Not prohibited to her | No impediment between them |
+| ✅ Specific person | Must be identified |
+
+### Conditions for the Bride
+
+| Condition | Explanation |
+|-----------|-------------|
+| 👩 Female | Marriage is between man and woman |
+| 🔒 Not prohibited to him | No impediment between them |
+| ✅ Specific person | Must be identified |
+| 🔓 Free to marry | Not married or in 'iddah |
+
+---
+
+## 3️⃣ The Guardian (Wali)
+
+### The Evidence
+
+> The Prophet ﷺ said:
+>
+> **"Any woman who marries without the permission of her guardian, her marriage is invalid, her marriage is invalid, her marriage is invalid."**
+>
+> — **[At-Tirmidhi]**
+
+### Order of Guardianship
+
+| Priority | Guardian |
+|----------|----------|
+| 1️⃣ | Father |
+| 2️⃣ | Grandfather (father's father) |
+| 3️⃣ | Son (if she has one from previous marriage) |
+| 4️⃣ | Brother (full, then half from father) |
+| 5️⃣ | Nephew |
+| 6️⃣ | Uncle (paternal) |
+| 7️⃣ | Cousin (paternal uncle's son) |
+| 8️⃣ | Muslim judge (Sultan) |
+
+### Conditions for the Wali
+
+| Condition | Explanation |
+|-----------|-------------|
+| 👨 Male | By majority |
+| 🕌 Muslim | If the bride is Muslim |
+| 🔞 Adult | Has reached puberty |
+| 🧠 Sane | Sound mind |
+| ⚖️ Not disqualified | Not a sinner openly |
+
+### When There Is No Wali
+
+> The Prophet ﷺ said:
+>
+> **"The Sultan is the wali of whoever has no wali."**
+>
+> — **[Abu Dawud and At-Tirmidhi]**
+
+> 💡 **In Muslim lands, the judge. In non-Muslim lands, the imam or community leader.**
+
+---
+
+## 4️⃣ The Witnesses
+
+### The Evidence
+
+> The Prophet ﷺ said:
+>
+> **"There is no marriage except with a wali and two witnesses of good character."**
+>
+> — **[Reported by Al-Bayhaqi]**
+
+### Conditions for Witnesses
+
+| Condition | Explanation |
+|-----------|-------------|
+| 2️⃣ At least two | Minimum number |
+| 👨👨 Male | By majority (or one man and two women by some) |
+| 🕌 Muslim | By consensus |
+| 🔞 Adult | Of legal age |
+| 🧠 Sane | Sound mind |
+| ⚖️ Just ('Adl) | Of good character |
+| 👀👂 Present | Hear and understand the contract |
+
+---
+
+## 📊 Summary Table
+
+| Pillar | Condition | Evidence |
+|--------|-----------|----------|
+| 📜 Offer & Acceptance | Clear, matching, in one session | Consensus |
+| 👰🤵 Two Spouses | Specific, free to marry, no impediments | Quran & Sunnah |
+| 👨‍👧 Wali | Male, Muslim, adult, sane | Hadith |
+| 👥 Witnesses | Two Muslim men of good character | Hadith |
+
+---
+
+## 🎭 Story: The Marriage of Fatimah
+
+### The Simplest of Weddings
+
+> When **Ali** — may Allah be pleased with him — married **Fatimah** — the Prophet's ﷺ daughter:
+>
+> - The mahr was his armor (simple)
+> - The ceremony was simple
+> - The Prophet ﷺ was her wali
+> - Witnesses were present
+> - A small walimah was held
+
+> 🎯 **The most blessed marriage was the simplest!**
 
 ---
 
 ## 🎯 Contemporary Cases
 
-### Case One: Marriage Over the Phone
+### 🏛️ Case 1: Civil Marriage Only
 
-**Question**: A young man living abroad in Europe wants to marry a woman in his home country. Is it valid for the offer and acceptance to take place over a phone or video call?
+> **Situation**: A couple had a civil marriage at the court but no Islamic ceremony.
 
-**Answer**: The principle is that the offer and acceptance should be in the same gathering, but many contemporary scholars have allowed the marriage contract through modern means of communication under these conditions:
-- Verifying the identity of the contracting parties
-- The presence of the guardian with the woman
-- The presence of two witnesses who hear the offer and acceptance
-- Official documentation of the contract
+**❓ Are they Islamically married?**
 
-It is preferable, if possible, for him to appoint a representative in his country to accept on his behalf.
+<details>
+<summary>📜 Click for answer</summary>
 
----
+**Analysis:**
 
-### Case Two: Father Refusing to Marry His Daughter
+| Element | Status |
+|---------|--------|
+| 📜 Offer and acceptance | May be present |
+| 👨‍👧 Wali | Often not present |
+| 👥 Muslim witnesses | Usually not present |
 
-**Question**: A father refuses to marry his daughter to a suitable and righteous suitor because he wants her to complete her university studies (5 more years), and the girl is 25 years old. What is the ruling?
+> 💡 **Civil marriage alone is usually insufficient. An Islamic contract must be done!**
 
-**Answer**: The guardian has no right to prevent his ward from marrying a suitable match if she desires it without a valid legal reason. Postponing marriage for 5 years may harm the woman, especially if she wants to marry. In this case:
-- The daughter is advised to speak kindly with her father
-- Good people can be sought to mediate
-- If the father insists on preventing without a valid reason, guardianship transfers to the grandfather then to the remaining guardians, and if not possible, to the judge
+</details>
 
 ---
 
-### Case Three: Marriage Without Witnesses
+### 📱 Case 2: Marriage Over Phone/Video
 
-**Question**: A young man and woman performed their marriage contract with only the guardian present, without witnesses, then announced the marriage later at a celebration. Is their marriage valid?
+> **Situation**: The groom is abroad and wants to conduct the nikah over video call.
 
-**Answer**: Scholars differ on requiring witnesses:
-- The majority (Hanafis, Shafi'is, and Hanbalis): Witnessing is a pillar or condition, and the contract without it is void or defective
-- Malikis: Announcement is sufficient, but having witnesses is recommended
+**❓ Is this valid?**
 
-The safer course is to redo the contract with two witnesses present to avoid disagreement and protect rights, especially since witnessing protects the spouses and establishes lineage.
+<details>
+<summary>📜 Click for answer</summary>
 
----
+**Scholarly positions:**
 
-### Case Four: Woman Marrying Herself
+| View | Position |
+|------|----------|
+| 🟢 Permissible | If identity is verified, witnesses are present physically on both sides |
+| 🟡 Better | To have a representative (wakeel) |
+| ⚖️ Most scholars | Allow it with proper verification |
 
-**Question**: An adult, sane, mature woman married herself without her guardian's permission to a suitable man. Is her marriage valid?
+> 💡 **The key is verification of identity and presence of witnesses!**
 
-**Answer**: Scholars differ:
-- The majority (Malikis, Shafi'is, and Hanbalis): Her marriage without a guardian is not valid, based on the hadith "No marriage without a guardian"
-- Hanafis: It is valid if she marries a suitable match
-
-The preponderant view is that of the majority due to the clear texts. If it happens, the couple must rectify it with the guardian's permission, otherwise it should be annulled.
-
----
-
-### Case Five: Marriage Contract in a Non-Arabic Language
-
-**Question**: A couple who do not speak Arabic - is their marriage contract valid in their native language like Turkish or Urdu?
-
-**Answer**: Yes, the marriage contract is valid in any language understood by the contracting parties. What matters is the meaning, not the Arabic wording. If they say in Turkish or another language what indicates offer and acceptance, the contract is valid. This is the view of scholars generally, because the purpose is understanding and consent.
+</details>
 
 ---
 
-## 💡 Pause and Reflect
+### 👨‍👧 Case 3: Father Refuses Without Valid Reason
 
-**Question for Contemplation**: Islamic law requires a guardian and witnesses for the marriage contract, unlike other contracts.
+> **Situation**: The father refuses a pious, suitable suitor due to racism.
 
-🤔 **Reflect**: Why did Allah specify the marriage contract with these additional conditions? How do these conditions protect the woman and society from harm? Think about what happens in societies where these safeguards are neglected.
+**❓ What can she do?**
+
+<details>
+<summary>📜 Click for answer</summary>
+
+**The solution:**
+
+| Step | Action |
+|------|--------|
+| 1️⃣ | Try to convince the father |
+| 2️⃣ | Involve family elders |
+| 3️⃣ | If he persists in injustice, go to an Islamic authority |
+| 4️⃣ | The judge can act as wali |
+
+> 💡 **The wali cannot prevent marriage for invalid reasons!**
+
+</details>
 
 ---
 
-## Lesson Summary
+### 💒 Case 4: Secret Marriage
 
-- The pillars of marriage are four: the spouses, the formula, the guardian, and witnessing
-- Marriage is not valid if any of its pillars is missing
-- Requiring a guardian and witnesses protects the rights of the woman and family
-- The formula must be explicit, unconditional, and not time-limited
+> **Situation**: They married secretly without families knowing.
+
+**❓ Is this valid?**
+
+<details>
+<summary>📜 Click for answer</summary>
+
+**Important distinction:**
+
+| Element | Required? |
+|---------|-----------|
+| 👨‍👧 Wali | Yes (by majority) |
+| 👥 Witnesses | Yes |
+| 📢 Public announcement | Recommended, not a pillar |
+
+> 💡 **If wali and witnesses are present, it's valid but discouraged to hide it!**
+
+</details>
+
+---
+
+### 👩‍⚖️ Case 5: Woman Acting as Her Own Wali
+
+> **Situation**: A woman says she doesn't need a wali because she's independent.
+
+**❓ What is the ruling?**
+
+<details>
+<summary>📜 Click for answer</summary>
+
+**Majority position:**
+
+| Opinion | View |
+|---------|------|
+| 🔵 Hanafi | Adult virgin may give herself in marriage (minority view) |
+| 🟢🟠⚫ Majority | Wali is essential; without him, marriage is invalid |
+
+> 💡 **The majority is that a wali is required regardless of her age or status!**
+
+</details>
+
+---
+
+## ⚠️ Common Mistakes
+
+### What Invalidates the Marriage
+
+| Mistake | Problem |
+|---------|---------|
+| ❌ No wali | Invalid by majority |
+| ❌ No witnesses | Invalid |
+| ❌ One party not consenting | Invalid |
+| ❌ During her 'iddah | Invalid |
+| ❌ To a prohibited person | Invalid |
+
+---
+
+## 💭 Reflection
+
+> **Umar ibn al-Khattab** — may Allah be pleased with him — said:
+>
+> **"Marriage is not valid except with a wali and two just witnesses."**
+
+> 🎯 **The pillars protect the institution of marriage and the rights of all parties!**
+
+---
+
+## 📚 Summary
+
+| Pillar | Requirement |
+|--------|-------------|
+| 📜 Offer & Acceptance | Clear words, matching, same session |
+| 👰🤵 Spouses | Specific, free, no impediments |
+| 👨‍👧 Wali | Required by majority, follows order |
+| 👥 Witnesses | Two just Muslim men |
+| 💰 Mahr | Required but not pillar (will study separately) |
 `;

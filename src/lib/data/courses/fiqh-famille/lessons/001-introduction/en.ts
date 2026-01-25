@@ -1,128 +1,311 @@
-export const contentEn = `
-# Introduction to Family Fiqh
+/**
+ * Family Fiqh - Lesson 001: Introduction to Family Fiqh
+ * English content - Immersive version
+ */
 
-## Definition of Family Fiqh
+export const contentEn = `# 🏠 Family Fiqh — The Science That Builds Homes
 
-Family fiqh is the branch of Islamic jurisprudence that deals with rulings related to family relationships: marriage, divorce, maintenance, child custody, inheritance, and other matters governing the life of the Muslim family.
-
-## Importance of Family Fiqh
-
-### 1. Preservation of Progeny and Lineage
-
-Allah says: **"And it is He who has created from water a human being and made him [a relative by] lineage and marriage"** [Al-Furqan: 54]
-
-The family is the foundation for preserving human progeny and protecting lineages from confusion.
-
-### 2. Achieving Tranquility and Affection
-
-Allah says: **"And of His signs is that He created for you from yourselves mates that you may find tranquility in them; and He placed between you affection and mercy"** [Ar-Rum: 21]
-
-### 3. Building a Righteous Society
-
-A righteous family produces virtuous individuals who contribute to building a strong and cohesive society.
-
-## Sources of Family Fiqh
-
-### The Quran
-
-The Quran is the primary source of family rulings, containing numerous verses addressing marriage, divorce, inheritance, and maintenance.
-
-### The Prophetic Sunnah
-
-The Prophet ﷺ said: **"Marry the loving and fertile women, for I will boast of your great numbers among the nations"** [Reported by Abu Dawud]
-
-### Consensus and Analogy
-
-Scholars have established consensus on many family rulings and have used analogy to derive new rulings.
-
-## Objectives of Shariah in the Family
-
-1. **Preservation of Religion**: Through proper Islamic upbringing
-2. **Preservation of Life**: By providing care and protection to family members
-3. **Preservation of Progeny**: Through lawful marriage
-4. **Preservation of Intellect**: Through sound education
-5. **Preservation of Wealth**: By organizing inheritance and expenditures
-
-## Divisions of Family Fiqh
-
-| Division | Main Topics |
-|----------|-------------|
-| Marriage Rulings | Engagement, contract, conditions, impediments |
-| Marital Life Rulings | Spousal rights and duties |
-| Separation Rulings | Divorce, khul', annulment |
-| Children Rulings | Lineage, breastfeeding, custody |
-| Maintenance Rulings | Wife's, children's, and relatives' maintenance |
+> **﴿ And of His signs is that He created for you from yourselves mates that you may find tranquility in them; and He placed between you affection and mercy ﴾**
+>
+> — **[Ar-Rum: 21]**
 
 ---
 
-## 📖 Stories from the Salaf
+## 🎬 Introduction
 
-### The Prophet ﷺ and Building the Family on Affection and Mercy
+### 🎭 Scene: Questions That Repeat Daily
 
-The Messenger of Allah ﷺ was the highest example in his family life. Aisha (may Allah be pleased with her) said: "The Messenger of Allah ﷺ never struck anything with his hand, neither a woman nor a servant, except when fighting in the cause of Allah" [Reported by Muslim].
+> A young man asks: *"I want to get married... but I know nothing about its rulings!"*
+>
+> A young woman wonders: *"What are my rights as a wife? And what are my duties?"*
+>
+> A confused father asks: *"How do I raise my children according to the Sharia?"*
 
-He ﷺ used to help his wives in household matters. Aisha (may Allah be pleased with her) was asked: **"What did the Messenger of Allah ﷺ do at home?"** She said: "He would be at the service of his family - meaning serving his family - and when the time for prayer came, he would go out to pray" [Reported by Bukhari].
+These questions — and many others — find their answers in **Family Fiqh**.
 
-Anas ibn Malik (may Allah be pleased with him) said: "The Prophet ﷺ was the best of people in character" [Agreed upon]. And he ﷺ said: **"The best of you is the one who is best to his family, and I am the best of you to my family"** [Reported by Tirmidhi].
+---
 
-**🌟 Lesson**: The family in Islam is not just a legal contract, but an institution built on affection, mercy, and cooperation. The Prophet ﷺ set the most beautiful examples in this.
+### 🎭 Scene: The Marriage That Almost Failed
+
+> **In a Muslim community center...**
+>
+> A couple came for counseling after only three months of marriage.
+>
+> The husband said: *"She doesn't respect my authority!"*
+>
+> The wife said: *"He doesn't fulfill his responsibilities!"*
+>
+> The counselor asked: *"Did you learn about your rights and duties before marriage?"*
+>
+> Both fell silent...
+>
+> The counselor said:
+>
+> **"Most marital problems stem from ignorance of the rules, not from bad intentions."**
+
+> 🎯 **Family Fiqh is not optional knowledge — it's essential for every Muslim!**
+
+---
+
+## 📖 What is Family Fiqh?
+
+### Definition
+
+| Term | Meaning |
+|------|---------|
+| **Fiqh** (الفقه) | Deep understanding of Sharia rulings |
+| **Usra** (الأسرة) | The family, the household |
+| **Fiqh al-Usra** | The science of Islamic rulings governing family life |
+
+### What It Covers
+
+| Domain | Main Topics |
+|--------|-------------|
+| 💍 **Marriage** | Engagement, contract, conditions, mahr, impediments |
+| 🤝 **Marital Life** | Mutual rights and duties of spouses |
+| 💔 **Separation** | Divorce, khul', annulment, waiting period |
+| 👶 **Children** | Lineage, breastfeeding, custody, education |
+| 💰 **Maintenance** | Nafaqa for wife, children, parents |
+
+---
+
+## 🌟 Why is This Science So Important?
+
+### 1. The Family is the Foundation of Society
+
+> **﴿ O mankind, fear your Lord, who created you from one soul and created from it its mate and dispersed from both of them many men and women ﴾**
+>
+> — **[An-Nisa: 1]**
+
+| Reality | Impact |
+|---------|--------|
+| 🏠 Strong family | Produces strong individuals |
+| 💔 Broken family | Produces lost generations |
+
+### 2. The Five Objectives of Sharia Pass Through the Family
+
+| Objective (Maqsid) | How the Family Realizes It |
+|-------------------|---------------------------|
+| 🕌 **Preservation of Religion** | Islamic upbringing of children |
+| 💓 **Preservation of Life** | Mutual protection and care |
+| 🧠 **Preservation of Intellect** | Transmission of knowledge |
+| 👪 **Preservation of Lineage** | Lawful marriage, clear lineage |
+| 💎 **Preservation of Wealth** | Organized inheritance, defined nafaqa |
+
+### 3. Without This Science, Chaos Ensues
+
+> ⚠️ **Alarming Statistics**: In many Muslim countries, divorce rates exceed 30%. Most conflicts arise from **ignorance of the rules** rather than bad intentions.
+
+---
+
+## 📜 The Sharia Evidence
+
+### From the Quran
+
+> **﴿ And marry the unmarried among you and the righteous among your male slaves and female slaves ﴾**
+>
+> — **[An-Nur: 32]**
+
+> **﴿ And live with them in kindness ﴾**
+>
+> — **[An-Nisa: 19]**
+
+### From the Prophetic Sunnah
+
+> The Prophet ﷺ said:
+>
+> **"O young people, whoever among you can afford marriage, let him marry, for it is more effective in lowering the gaze and guarding chastity."**
+>
+> — **[Al-Bukhari and Muslim]**
+
+> And he ﷺ said:
+>
+> **"The best of you is the one who is best to his family, and I am the best of you to my family."**
+>
+> — **[At-Tirmidhi]**
+
+---
+
+## 📊 Overview of the Course
+
+### What We Will Study
+
+| Lesson | Topic |
+|--------|-------|
+| 002 | 💍 Engagement (Khitbah) |
+| 003 | 📜 Pillars of Marriage |
+| 004 | ✅❌ Valid and Invalid Marriage |
+| 005 | ⚖️ Rights of the Spouses |
+| 006 | ⚠️ Nushuz and Marital Discord |
+| 007 | 💔 Types of Divorce |
+| 008 | ☀️🌙 Sunni vs. Bid'i Divorce |
+| 009 | ⏳ The Waiting Period (Iddah) |
+| 010 | 🔄 Taking Back the Wife (Raj'ah) |
+| 011 | 🔓 Khul' (Wife-Initiated Divorce) |
+| 012 | 👶 Child Custody (Hadanah) |
+| 013 | 💰 Maintenance (Nafaqah) |
+| 014 | 🧬 Lineage and Breastfeeding |
+
+---
+
+## 🎭 Story: The Prophet ﷺ and His Family
+
+### The Best Example
+
+> **Aisha** — may Allah be pleased with her — was asked:
+>
+> *"What did the Messenger of Allah ﷺ do at home?"*
+>
+> She said:
+>
+> **"He would be at the service of his family, and when the time for prayer came, he would go out to pray."**
+>
+> — **[Al-Bukhari]**
+
+### His Kindness
+
+> **Anas ibn Malik** — may Allah be pleased with him — said:
+>
+> **"I served the Prophet ﷺ for ten years, and he never said 'Uff' to me, nor 'Why did you do this?' or 'Why didn't you do that?'"**
+>
+> — **[Al-Bukhari and Muslim]**
+
+> 🎯 **The Prophet ﷺ was the living model of ideal family life!**
 
 ---
 
 ## 🎯 Contemporary Cases
 
-### Case One: Delaying Marriage Age
+### 📱 Case 1: Delaying Marriage for Financial Stability
 
-**Question**: A 28-year-old young man who works and has a good income keeps postponing marriage because he wants to buy an apartment first and secure his financial future. His parents are pressuring him to marry. What is the ruling on delaying marriage for these reasons?
+> **Situation**: A 28-year-old man keeps postponing marriage until he buys an apartment.
 
-**Answer**: Marriage is recommended for those who are able, and delaying it for legitimate material reasons is permissible if one is safe from temptation. However, if he fears falling into the forbidden, he must hasten to marry even with a small dowry and modest housing. The Prophet ﷺ said: "O young people, whoever among you can afford it, let him marry." The ability includes the minimum requirements, not the ideal.
+**❓ Is this appropriate?**
 
----
+<details>
+<summary>📜 Click for answer</summary>
 
-### Case Two: Marrying a Woman of the Book
+**The Sharia perspective:**
 
-**Question**: A Muslim living in Europe wants to marry a Christian woman. Is this permissible? What are the conditions?
+| Factor | Consideration |
+|--------|---------------|
+| 💰 Financial readiness | Important but not absolute |
+| ⚠️ Fear of sin | Makes marriage more urgent |
+| 🏠 Modest beginning | The Prophet ﷺ encouraged it |
 
-**Answer**: It is permissible for a Muslim man to marry a woman of the Book (Jewish or Christian) according to the Quran: "And chaste women from among those who were given the Scripture" [Al-Ma'idah: 5]. However, it is required that:
-- She be chaste and virtuous
-- There be no harm to the children regarding their religion
-- He be able to fulfill her rights
+> 💡 **The ability to marry means the minimum requirements, not the ideal!**
 
-Scholars advise preferring marriage to a Muslim woman as she is more helpful in religion and upbringing.
-
----
-
-### Case Three: Family Refusing Marriage
-
-**Question**: A young man and woman want to marry, but the woman's family refused because the man is from another country, even though he is practicing, religious, and has good character. What is the solution?
-
-**Answer**: If the suitor has religion and good character, the guardian has no right to refuse him for racist or tribal reasons. The Prophet ﷺ said: "If someone comes to you whose religion and character you approve of, then marry him." If the guardian insists on refusing without a legitimate reason, guardianship transfers to the next guardian, and if that is not possible, to the Islamic judge.
+</details>
 
 ---
 
-### Case Four: Misyar Marriage
+### 💍 Case 2: Parents Refusing a Suitable Suitor
 
-**Question**: What is the ruling on misyar marriage where the woman waives some of her rights such as housing and full maintenance?
+> **Situation**: Parents reject a suitable suitor because he's from a different culture.
 
-**Answer**: Misyar marriage is valid according to most contemporary scholars if it fulfills all the pillars and conditions of proper marriage (guardian, witnesses, offer and acceptance, dowry). The woman waiving some of her rights like overnight stays or separate housing is permissible because these are her rights. However, it is required that:
-- It be announced and not completely secret
-- The woman freely consents
-- It not be a means of deception
+**❓ What is the ruling?**
+
+<details>
+<summary>📜 Click for answer</summary>
+
+**Important distinction:**
+
+| If the guardian's refusal is... | Ruling |
+|--------------------------------|--------|
+| 🔴 Based on valid Sharia reason | His right |
+| 🟢 Based on prejudice only | The matter goes to the judge |
+
+> 💡 **The Prophet ﷺ said: "If someone whose religion and character please you comes to you, marry him."**
+
+</details>
 
 ---
 
-## 💡 Pause and Reflect
+### 📚 Case 3: Learning Fiqh Before Marriage
 
-**Question for Contemplation**: Many young people today consider marriage a "restriction" or a "heavy responsibility," while the Quran describes it as "tranquility, affection, and mercy."
+> **Situation**: Someone says: "I'll learn about marriage after I get married."
 
-🤔 **Reflect on your life**: How can marriage be a source of peace and psychological comfort rather than a burden? What makes some marriages successful and others fail from an Islamic perspective?
+**❓ Is this wise?**
+
+<details>
+<summary>📜 Click for answer</summary>
+
+**The answer is clear:**
+
+| Approach | Result |
+|----------|--------|
+| 🔴 Learn after | Problems arise from ignorance |
+| 🟢 Learn before | Prevention is better than cure |
+
+> 💡 **Knowledge before action is a Sharia principle!**
+
+</details>
 
 ---
 
-## Lesson Summary
+### 🏠 Case 4: Mixed Marriages
 
-- Family fiqh is an essential Islamic science for every Muslim
-- It derives its rulings from the Quran, Sunnah, and consensus
-- It aims to achieve the objectives of Shariah in preserving the family
-- It encompasses rulings on marriage, divorce, maintenance, and custody
+> **Situation**: A Muslim man wants to marry a non-Muslim woman.
+
+**❓ What are the conditions?**
+
+<details>
+<summary>📜 Click for answer</summary>
+
+**Sharia ruling:**
+
+| Woman's Religion | Ruling |
+|------------------|--------|
+| 🟢 Chaste from People of the Book | Permissible with conditions |
+| 🔴 Polytheist or atheist | Not permissible |
+| ⚠️ For Muslim women | Cannot marry non-Muslim men |
+
+> 💡 **Even when permissible, scholars advise caution for the children's upbringing!**
+
+</details>
+
+---
+
+### 💔 Case 5: High Divorce Rates
+
+> **Situation**: Someone says: "Divorce rates prove marriage doesn't work anymore."
+
+**❓ What is the response?**
+
+<details>
+<summary>📜 Click for answer</summary>
+
+**The real analysis:**
+
+| Cause of High Divorce | Solution |
+|----------------------|----------|
+| ❌ Ignorance of rights and duties | Education in Family Fiqh |
+| ❌ Unrealistic expectations | Understanding marriage reality |
+| ❌ Weak religious commitment | Strengthening faith |
+
+> 💡 **Marriage works beautifully when built on knowledge and piety!**
+
+</details>
+
+---
+
+## 💭 Reflection
+
+> **Ibn Qayyim** — may Allah have mercy on him — said:
+>
+> **"The family is the first school, and the mother is the first teacher. If the school is upright, the nation is upright."**
+
+> 🎯 **Family Fiqh is not academic knowledge — it's the foundation of a Muslim's practical life!**
+
+---
+
+## 📚 Summary
+
+| Concept | Explanation |
+|---------|-------------|
+| 🎯 Definition | Science of Sharia rulings governing family life |
+| 📊 Scope | Marriage, divorce, custody, maintenance, lineage |
+| 🌟 Importance | Foundation of society, realizes Sharia objectives |
+| 📜 Evidence | Quran, Sunnah, scholarly consensus |
+| 👤 Who needs it | Every Muslim who is or will be married |
 `;

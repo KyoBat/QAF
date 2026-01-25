@@ -1,276 +1,355 @@
-export const contentEn = `
-# Spousal Rights
+/**
+ * Family Fiqh - Lesson 005: Rights of the Spouses
+ * English content - Immersive version
+ */
 
-## Introduction
+export const contentEn = `# ⚖️ Rights of the Spouses — The Balance of Marriage
 
-Marriage in Islam is a solemn covenant built on affection, mercy, and tranquility. Each spouse has rights over the other, and these rights are reciprocal and complementary, ensuring the stability and happiness of the family.
-
-Allah says: **"And among His signs is that He created for you from yourselves mates that you may find tranquility in them, and He placed between you affection and mercy"** [Ar-Rum: 21]
-
----
-
-## The Wife's Rights Over Her Husband
-
-### First: Financial Rights
-
-#### 1. The Dowry (Mahr/Sadaq)
-
-An obligatory right for the woman. Allah says: **"And give the women their bridal gift graciously"** [An-Nisa: 4]
-
-| Type of Dowry | Description |
-|---------------|-------------|
-| Designated dowry | What is agreed upon by the spouses in the contract |
-| Equivalent dowry | What is given to her peers when no amount is specified |
-| Advance dowry | What is paid before consummation |
-| Deferred dowry | What is paid upon divorce or death |
-
-#### 2. Financial Maintenance (Nafaqah)
-
-Allah says: **"Let the wealthy spend according to his means, and let the one whose resources are limited spend according to what Allah has given him"** [At-Talaq: 7]
-
-**Maintenance includes:**
-- Food and drink
-- Clothing according to custom
-- Suitable housing
-- Medical treatment
-- A servant if she needs one
-
-#### 3. Housing
-
-Allah says: **"Lodge them where you dwell according to your means"** [At-Talaq: 6]
-
-**Housing conditions:**
-- It should be suitable for her status
-- It should be separate from his family if she requests
-- It should be safe and clean
-
-### Second: Non-Financial Rights
-
-#### 1. Kind Treatment
-
-Allah says: **"And live with them in kindness"** [An-Nisa: 19]
-
-And the Prophet ﷺ said: **"The best of you is the one who is best to his family, and I am the best of you to my family"** [Reported by Tirmidhi]
-
-**Aspects of kind treatment:**
-- Good words and good treatment
-- Gentleness and permissible joking
-- Respecting her feelings and appreciating her efforts
-- Not revealing her secrets
-
-#### 2. Justice Between Wives
-
-Allah says: **"But if you fear that you will not be just, then only one"** [An-Nisa: 3]
-
-**Obligatory justice:**
-- Division of nights
-- Spending and clothing
-- Housing
-
-**Justice in the heart:**
-- Is not humanly possible, and Allah does not hold one accountable for it
-- The Prophet ﷺ would say: **"O Allah, this is my division in what I possess, so do not blame me for what You possess and I do not possess"** [Reported by Abu Dawud]
-
-#### 3. Not Harming Her
-
-Allah says: **"And do not harm them to put them in distress"** [At-Talaq: 6]
-
-**Forms of prohibited harm:**
-- Severe beating
-- Insults and cursing
-- Preventing her from visiting her family reasonably
-- Restricting spending on her
+> **﴿ And they (women) have rights similar to those over them in kindness ﴾**
+>
+> — **[Al-Baqarah: 228]**
 
 ---
 
-## The Husband's Rights Over His Wife
+## 🎬 Introduction
 
-### 1. Obedience in What is Proper
+### 🎭 Scene: The Unbalanced Marriage
 
-The Prophet ﷺ said: **"If I were to command anyone to prostrate to anyone else, I would have commanded the wife to prostrate to her husband"** [Reported by Tirmidhi]
+> **In a counseling session...**
+>
+> The wife said: *"He demands I serve him like a slave, but he provides nothing!"*
+>
+> The husband said: *"She doesn't respect me or listen to anything I say!"*
+>
+> The counselor asked: *"Do you both know what Islam actually says about your rights and duties?"*
+>
+> Both fell silent...
+>
+> The counselor said:
+>
+> **"The problem is not Islam — it's your ignorance of it. Let me teach you what Allah has ordained."**
 
-**Limits of obedience:**
-- Only in what is not disobedience to Allah
-- In what he has the right to command legally
-- In what pertains to marital life
-
-### 2. Staying at Home
-
-Allah says: **"And stay in your houses"** [Al-Ahzab: 33]
-
-**Guidelines:**
-- She should not go out without his permission
-- Going out for legitimate needs is permissible
-- He should not unjustly prevent her from visiting her family
-
-### 3. Protecting His Wealth and Honor
-
-The Prophet ﷺ said: **"The woman is a guardian over her husband's home and is responsible for her charges"** [Bukhari and Muslim]
-
-**This includes:**
-- Not spending from his wealth without his permission
-- Protecting his home in his absence
-- Not admitting those he dislikes
-
-### 4. Fulfilling the Marital Duty
-
-The Prophet ﷺ said: **"If a man calls his wife to his bed and she refuses, and he spends the night angry with her, the angels curse her until morning"** [Bukhari and Muslim]
-
-**Exceptions:**
-- Severe illness
-- Menstruation and postpartum bleeding (for intercourse only)
-- Legitimate excuse
+> 🎯 **Most marital problems stem from ignorance of rights and duties!**
 
 ---
 
-## Rights Common to Both Spouses
+### 🎭 Scene: The Prophet's ﷺ Example
 
-| Right | Details |
-|-------|---------|
-| Kind cohabitation | Mutual respect and consideration |
-| Good character | Patience, tolerance, and forgiveness |
-| Trust and fidelity | No betrayal or deception |
-| Preserving secrets | Not revealing what happens between them |
-| Inheritance | Each inherits from the other |
-| Establishing lineage | Children are attributed to their father |
+> **Aisha** — may Allah be pleased with her — was asked:
+>
+> *"What did the Messenger of Allah ﷺ do at home?"*
+>
+> She said:
+>
+> **"He would mend his sandals, sew his garment, and help with household chores like any of you would help at home. When the time for prayer came, he would go out to pray."**
+>
+> — **[Al-Bukhari]**
 
----
-
-## Etiquettes of Married Life
-
-### 1. Affection and Mercy
-
-Allah says: **"And He placed between you affection and mercy"** [Ar-Rum: 21]
-
-### 2. Overlooking Shortcomings
-
-The Prophet ﷺ said: **"A believing man should not hate a believing woman; if he dislikes one of her characteristics, he will be pleased with another"** [Reported by Muslim]
-
-### 3. Gratitude and Appreciation
-
-The Prophet ﷺ said: **"He who does not thank people does not thank Allah"** [Reported by Ahmad]
-
-### 4. Resolving Conflicts with Wisdom
-
-- Understanding and dialogue
-- Not rushing into decisions
-- Resorting to arbitration when necessary
+> 💡 **The Prophet ﷺ was the example of balance and partnership!**
 
 ---
 
-## 📖 Stories from the Salaf
+## 📊 The Framework of Rights
 
-### The Prophet ﷺ: The Role Model in Treating Wives
+### Overview
 
-#### With Khadijah (may Allah be pleased with her) - Loyalty After Death
-
-The Prophet ﷺ would frequently mention Khadijah after her death, to the point that Aisha (may Allah be pleased with her) became jealous. Aisha said: "I never felt jealous of any woman as much as I did of Khadijah, though I never saw her. But the Messenger of Allah ﷺ would mention her often, and sometimes he would slaughter a sheep, cut it into pieces, and send them to Khadijah's friends."
-
-One day I said to him: "It is as if there were no other woman in the world except Khadijah!" He ﷺ said: **"She was this and that, and I had children from her"** [Agreed upon].
-
-**🌟 Lesson**: Loyalty to a wife does not end with her death, and honoring her friends is part of good companionship.
+| Category | Description |
+|----------|-------------|
+| 👨 Husband's rights over wife | Obedience, intimacy, home duties |
+| 👩 Wife's rights over husband | Nafaqa, housing, kind treatment |
+| 🤝 Mutual rights | Kindness, fidelity, cooperation |
 
 ---
 
-#### With Aisha (may Allah be pleased with her) - Gentleness and Playfulness
+## 👨 Rights of the Husband
 
-Aisha (may Allah be pleased with her) said: "The Messenger of Allah ﷺ raced with me and I won. We stayed until I gained weight, then he raced with me and he won. He said: **'This one is for that one'"** [Reported by Abu Dawud].
+### 1. Obedience in Ma'ruf (What is Reasonable)
 
-He ﷺ would call her "O Aish" affectionately, and would drink from the same spot on the vessel from which she drank.
+> **﴿ Men are the protectors and maintainers of women ﴾**
+>
+> — **[An-Nisa: 34]**
+
+| What This Means | What This Doesn't Mean |
+|-----------------|------------------------|
+| ✅ Leadership in the family | ❌ Tyranny or abuse |
+| ✅ Final say in family decisions | ❌ Ignoring her input |
+| ✅ Her staying home without his permission | ❌ Imprisoning her |
+
+> **The Prophet ﷺ said:**
+>
+> **"If I were to command anyone to prostrate to another, I would have commanded the wife to prostrate to her husband."**
+>
+> — **[At-Tirmidhi]**
+
+### 2. Right to Intimacy
+
+| Ruling | Condition |
+|--------|-----------|
+| 🟢 Wife should respond | When he calls her |
+| ⚠️ She may delay | For valid excuse (illness, exhaustion) |
+| 🔴 Cannot refuse without reason | It is a serious matter |
+
+> **The Prophet ﷺ said:**
+>
+> **"If a man calls his wife to bed and she refuses, and he spends the night angry with her, the angels curse her until morning."**
+>
+> — **[Al-Bukhari and Muslim]**
+
+### 3. Guarding His Home and Honor
+
+| Duty | Explanation |
+|------|-------------|
+| 🏠 Guard his home | Care for property |
+| 👶 Guard his children | Raise them properly |
+| 💰 Guard his wealth | Don't waste it |
+| 🚫 Not admit whom he dislikes | Unless there's a valid reason |
 
 ---
 
-#### With Safiyyah (may Allah be pleased with her) - Mending Hearts
+## 👩 Rights of the Wife
 
-Safiyyah (may Allah be pleased with her) cried because some of the Prophet's ﷺ wives taunted her about her Jewish origin. The Prophet ﷺ came to her while she was crying and said: **"What makes you cry?"** She said: "Hafsah and Aisha said to me: 'We are better than you; we are the Prophet's ﷺ cousins and wives.'"
+### 1. Nafaqa (Financial Maintenance)
 
-He ﷺ said to her: **"Why did you not say: 'How can you be better than me when my father is Aaron, my uncle is Moses, and my husband is Muhammad?'"** [Reported by Tirmidhi]
+> **﴿ Let the wealthy man spend from his wealth, and let the one whose provision is restricted spend from what Allah has given him ﴾**
+>
+> — **[At-Talaq: 7]**
 
-**🌟 Lesson**: A righteous husband mends his wife's heart, elevates her status, and does not leave her to those who harm her.
+| Includes | Explanation |
+|----------|-------------|
+| 🍞 Food | According to his means |
+| 👗 Clothing | Appropriate to season and status |
+| 🏠 Housing | Suitable and safe |
+| 🏥 Medical care | Treatment costs |
+
+> **She is not obligated to spend her own money on the household!**
+
+### 2. Kind Treatment
+
+> **﴿ And live with them in kindness ﴾**
+>
+> — **[An-Nisa: 19]**
+
+| What This Includes | Example |
+|-------------------|---------|
+| 💬 Good speech | No insults, no mockery |
+| 😊 Pleasant demeanor | Smiling, kind words |
+| 🎁 Gifts | Even if small |
+| 🕐 Quality time | Attention and presence |
+
+> **The Prophet ﷺ said:**
+>
+> **"The best of you is the one who is best to his wife, and I am the best of you to my wives."**
+>
+> — **[At-Tirmidhi]**
+
+### 3. Fair Treatment (if Multiple Wives)
+
+| Equal | Not Required to Be Equal |
+|-------|--------------------------|
+| ⏰ Time spent | ❤️ Love and affection |
+| 🏠 Housing quality | 🤲 Dua and feelings |
+| 💰 Financial support | |
+
+### 4. Privacy of Marriage
+
+| Her Right | Explanation |
+|-----------|-------------|
+| 🤫 He doesn't share intimacy details | Prohibited in hadith |
+| 🔒 He guards her secrets | What happens at home |
+| 🚫 He doesn't speak badly of her | To others |
+
+> **The Prophet ﷺ said:**
+>
+> **"Among the worst people in position before Allah on the Day of Resurrection is a man who has intimate relations with his wife and then spreads her secrets."**
+>
+> — **[Muslim]**
 
 ---
 
-### From the Companions' Stances
+## 🤝 Mutual Rights
 
-**Umar ibn al-Khattab (may Allah be pleased with him)**: A man came to him complaining about his wife. When he stood at Umar's door to ask permission, he heard Umar's wife raising her voice at him while Umar remained silent. The man turned to leave. Umar called him and asked his need. The man said: "I came to complain about my wife, and I found the Commander of the Faithful in the same situation!" Umar said: **"I bear with her for the rights she has over me: she cooks my food, bakes my bread, washes my clothes, nurses my children—and none of that is obligatory upon her—and my heart finds contentment with her away from the forbidden. So I bear with her for that."**
+### What Both Owe Each Other
 
-The man said: O Commander of the Faithful, my wife is the same! Umar said: **"Then bear with her, my brother, for it is but a short time."**
+| Right | Explanation |
+|-------|-------------|
+| 💕 Affection and mercy | The foundation of marriage |
+| 🤝 Cooperation | Working together |
+| 👶 Caring for children | Shared responsibility |
+| 🔒 Fidelity | Physical and emotional |
+| 📿 Encouraging in deen | Pray together, learn together |
+| ✨ Beautification | Looking good for each other |
+
+### The Evidence
+
+> **﴿ He placed between you affection and mercy ﴾**
+>
+> — **[Ar-Rum: 21]**
+
+---
+
+## 📜 What Scholars Said About Balance
+
+### The Balance
+
+> **Ibn Abbas** — may Allah be pleased with him — said about the verse "And they have rights similar to those over them":
+>
+> **"I beautify myself for my wife just as I like her to beautify herself for me."**
+
+### Imam Al-Qurtubi
+
+> **"Her rights over him are similar to his rights over her, except that he has one degree over her — which is leadership and responsibility."**
 
 ---
 
 ## 🎯 Contemporary Cases
 
-### Case One: Disagreement Over the Wife Working
+### 🏠 Case 1: Wife Working Outside Home
 
-**Question**: A wife wants to work outside the home to help with family expenses, but the husband refuses. Who is right?
+> **Situation**: She wants to work; he says stay home.
 
-**Answer**: The principle is that a woman does not go out except with her husband's permission, but:
-- If there is genuine financial need and the husband cannot provide, she has the right to work
-- If the work is modest and does not harm the husband's or children's rights, mutual understanding is preferable
-- The husband's absolute control in these matters contradicts the spirit of Shariah which calls for kind treatment
-- Dialogue and understanding are better than conflict, and they can agree on guidelines that satisfy both
+**❓ What is the ruling?**
 
----
+<details>
+<summary>📜 Click for answer</summary>
 
-### Case Two: Wife Living with In-Laws
+**Analysis:**
 
-**Question**: A wife lives with her in-laws and suffers from problems with her mother-in-law. She requests separate housing, but the husband refuses for financial reasons. What is the ruling?
+| Condition | Ruling |
+|-----------|--------|
+| 📝 She stipulated in contract | Her right to work |
+| 🚫 No stipulation | He can prevent (with kindness) |
+| ⚖️ Better approach | Mutual agreement |
 
-**Answer**: Separate housing is the wife's right if she requests it, as Allah says: "Lodge them where you dwell according to your means." However:
-- If financial circumstances do not allow, she should be patient while seeking improvement
-- If there is real harm (insults, interference in her affairs, constant disputes), the husband must provide separate housing even if modest
-- The husband may not require his wife to serve his family, as this is not obligatory upon her
+> 💡 **The best marriages are built on consultation, not control!**
 
----
-
-### Case Three: Refusing Marital Relations
-
-**Question**: A wife refuses marital relations because she is exhausted from work and caring for the children, and the husband cites the hadith. What is the ruling?
-
-**Answer**: Yes, responding to the husband is his right, but:
-- The hadith refers to refusal without a legitimate excuse
-- Severe fatigue and illness are considered valid excuses
-- Kind treatment requires considering the wife's circumstances
-- The husband should lighten his wife's burden and help her so she is psychologically and physically ready
-- Understanding and affection are the foundation of the relationship, not coercion and pressure
+</details>
 
 ---
 
-### Case Four: Maintenance for a Working Wife
+### 💰 Case 2: Her Salary
 
-**Question**: A wife works and her salary is higher than her husband's. Does she lose her right to maintenance? Can he take from her salary?
+> **Situation**: He demands her salary for household expenses.
 
-**Answer**: 
-- Maintenance is obligatory upon the husband regardless of the wife's income, and her salary belongs to her; she is not required to share it
-- The husband has no right to take from her money except with her consent
-- If she voluntarily helps, it is charity and a favor from her
-- Sharing expenses by mutual consent is permissible and praiseworthy if done willingly
+**❓ Is she obligated?**
 
----
+<details>
+<summary>📜 Click for answer</summary>
 
-### Case Five: Preventing the Wife from Visiting Her Family
+**Clear ruling:**
 
-**Question**: A husband prevents his wife from visiting her family except once a month, while she wants to visit weekly. What is the ruling?
+| Her money | Status |
+|-----------|--------|
+| 💰 Belongs to her | Nafaqa is HIS obligation |
+| 🤝 She may contribute | Voluntarily |
+| ❌ He cannot force her | To spend on household |
 
-**Answer**: Maintaining family ties is obligatory, and completely preventing the wife from her family is forbidden. However:
-- The husband has the right to organize outings reasonably
-- Once a month may be unjust if the family is nearby and needs her
-- The reference is the prevailing custom in the country
-- Moderation is required: neither excessive going out that harms the home, nor neglecting ties that severs kinship
+> 💡 **If she contributes, it's charity. If he takes by force, it's wrongdoing.**
 
----
-
-## 💡 Pause and Reflect
-
-**Question for Contemplation**: The Prophet ﷺ said: "The best of you is the one who is best to his family," yet many men treat strangers well while mistreating their wives and families.
-
-🤔 **Reflect on yourself**: Are you with your family as you are with people? Do you show your wife the same kindness and respect you show your guests and friends? The Prophet ﷺ was the best of people in character with his family—so how is your character at home?
+</details>
 
 ---
 
-## Conclusion
+### 🏠 Case 3: Living with In-Laws
 
-Married life in Islam is based on balance and justice. Each spouse has rights and duties, and observing these rights achieves happiness and stability for the Muslim family.
+> **Situation**: He wants to live with his parents; she wants separate housing.
 
-The Prophet ﷺ said: **"The most complete believers in faith are those with the best character, and the best of you are those who are best to their wives"** [Reported by Tirmidhi]
+**❓ What is her right?**
+
+<details>
+<summary>📜 Click for answer</summary>
+
+**Scholarly position:**
+
+| Right | Ruling |
+|-------|--------|
+| 🏠 Separate housing | Her right |
+| 👨‍👩‍👧 Private space | Minimum: separate room/bathroom/kitchen |
+| 🤝 Unless she agrees | To live with in-laws |
+
+> 💡 **She has the right to a space where she doesn't feel watched!**
+
+</details>
+
+---
+
+### 📱 Case 4: Checking Her Phone
+
+> **Situation**: He demands to check her phone and messages.
+
+**❓ Is this his right?**
+
+<details>
+<summary>📜 Click for answer</summary>
+
+**Nuanced answer:**
+
+| Situation | Ruling |
+|-----------|--------|
+| 🟢 If trust exists | No need and not recommended |
+| 🟡 If suspicion exists | Discuss openly first |
+| 🔴 Spying without cause | Against Sharia principles |
+
+> 💡 **Marriage is built on trust, not surveillance!**
+
+</details>
+
+---
+
+### 👩‍👧 Case 5: Visiting Her Family
+
+> **Situation**: He restricts her from visiting her parents.
+
+**❓ Is this permissible?**
+
+<details>
+<summary>📜 Click for answer</summary>
+
+**Balance needed:**
+
+| Situation | Ruling |
+|-----------|--------|
+| 🟢 Normal visits | Her right (with his knowledge) |
+| 🔴 Complete prevention | Oppression |
+| 🟡 Excessive visits | He may limit reasonably |
+
+> 💡 **Maintaining family ties is obligatory — he cannot prevent it entirely!**
+
+</details>
+
+---
+
+## ⚠️ Common Misconceptions
+
+### What Islam Does NOT Say
+
+| Misconception | Reality |
+|---------------|---------|
+| ❌ "She's his slave" | She's his partner |
+| ❌ "He can hit her anytime" | Only very limited cases, symbolic |
+| ❌ "He doesn't need her permission for anything" | Consultation is encouraged |
+| ❌ "She has no voice" | She has clear rights |
+| ❌ "He owns her wealth" | Her wealth is her own |
+
+---
+
+## 💭 Reflection
+
+> **The Prophet ﷺ said in his Farewell Sermon:**
+>
+> **"Fear Allah regarding women, for you have taken them as a trust from Allah, and intimacy with them has been made lawful through Allah's word... They have rights over you: to be provided for and clothed in kindness."**
+>
+> — **[Muslim]**
+
+> 🎯 **Rights without kindness become oppression. Duties without love become burdens. Balance is the key.**
+
+---
+
+## 📚 Summary
+
+| Category | Key Rights |
+|----------|------------|
+| 👨 Husband's Rights | Obedience in ma'ruf, intimacy, home management |
+| 👩 Wife's Rights | Nafaqa, housing, kind treatment, privacy |
+| 🤝 Mutual Rights | Love, mercy, cooperation, fidelity, support in deen |
+| ⚖️ Balance | Both have obligations, both have limits |
 `;

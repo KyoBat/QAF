@@ -1,228 +1,386 @@
-export const contentEn = `
-# Valid and Invalid Marriage
+/**
+ * Family Fiqh - Lesson 004: Valid and Invalid Marriage
+ * English content - Immersive version
+ */
 
-## Categories of Marriage According to Validity
+export const contentEn = `# ✅❌ Valid and Invalid Marriage — Knowing the Difference
 
-Marriage is divided into three categories based on validity:
+> **﴿ And do not marry those women whom your fathers married ﴾**
+>
+> — **[An-Nisa: 22]**
 
-1. **Valid Marriage (Sahih)**: One that fulfills all its pillars and conditions
-2. **Defective Marriage (Fasid)**: One where a condition is missing
-3. **Void Marriage (Batil)**: One where a pillar is missing
+---
 
-## Valid Marriage
+## 🎬 Introduction
+
+### 🎭 Scene: The Shocking Discovery
+
+> **Years after their marriage...**
+>
+> A man discovered that his wife was breastfed by his mother when she was an infant.
+>
+> He came to the scholar in shock:
+>
+> *"I didn't know! We have children together!"*
+>
+> The scholar asked carefully, verified the facts, and said:
+>
+> **"If she was breastfed five times or more during the nursing period... she is your milk sister. This marriage should never have occurred."**
+>
+> The man wept: *"What about our children?"*
+>
+> The scholar said:
+>
+> **"The children are legitimate because you didn't know. But you must separate."**
+
+> ⚠️ **Ignorance of marriage impediments can lead to tragedy!**
+
+---
+
+### 🎭 Scene: The Marriage That Was Fixed
+
+> **In the imam's office...**
+>
+> A young couple came saying:
+>
+> *"We married abroad. The imam there just had us sign papers. There was no wali, and we're not sure about witnesses..."*
+>
+> The imam asked questions, then said:
+>
+> **"Let's redo the contract properly right now. Your wali is needed, witnesses must be present, and clear offer and acceptance must occur."**
+>
+> They did so, and left with peace of mind.
+
+> 🎯 **A doubtful marriage can often be corrected — better to fix it!**
+
+---
+
+## 📖 Types of Marriage by Validity
+
+### The Classification
+
+| Type | Arabic | Meaning |
+|------|--------|---------|
+| ✅ Valid (Sahih) | صحيح | All pillars and conditions met |
+| ⚠️ Defective (Fasid) | فاسد | Missing a condition (fixable) |
+| ❌ Void (Batil) | باطل | Missing a pillar or permanent impediment |
+
+---
+
+## ✅ Valid Marriage (Nikah Sahih)
 
 ### Definition
 
-A marriage that fulfills all its legal pillars and conditions, and is not accompanied by any impediment to its validity.
+> A marriage where all pillars are present and all conditions are fulfilled.
 
-### Conditions for Marriage Validity
+### Requirements
 
-| Condition | Details |
-|-----------|---------|
-| Identification of spouses | By name, description, or indication |
-| Consent of both spouses | Virgin's silence is consent, non-virgin must express |
-| The guardian | No marriage without guardian |
-| Witnessing | Two upright witnesses |
-| Absence of impediments | Kinship, breastfeeding, affinity |
-| The dowry | Even if not mentioned in the contract |
+| Category | Requirements |
+|----------|--------------|
+| 📜 Pillars | Offer, acceptance, spouses, wali, witnesses |
+| ⚖️ Conditions | Consent, no impediments, proper wording |
+| 💰 Mahr | Agreed upon (even if not paid yet) |
 
 ### Effects of Valid Marriage
 
-1. Permissibility of intimacy between spouses
-2. Obligation of dowry for the wife
-3. Obligation of maintenance and housing
-4. Establishment of children's lineage
-5. Establishment of inheritance between spouses
-6. Prohibition through affinity
-
-## Defective Marriage
-
-### Definition
-
-A marriage where a condition of validity is missing, while its pillars remain intact.
-
-### Examples of Defective Marriage
-
-#### 1. Shighar Marriage
-
-The Prophet ﷺ said: **"There is no shighar in Islam"** [Reported by Muslim]
-
-**Definition**: A man marries his daughter or sister to another on condition that the other marries his daughter or sister to him, each woman serving as the dowry for the other.
-
-**Reason for prohibition**: Harm to the woman and deprivation of her dowry.
-
-#### 2. Tahlil Marriage (Marriage of Legalization)
-
-The Prophet ﷺ said: **"Allah has cursed the one who makes lawful (remarriage) and the one for whom it is made lawful"** [Reported by Ahmad and Tirmidhi]
-
-**Definition**: A man marries a woman divorced three times with the intention of making her lawful for her first husband.
-
-**Reason for prohibition**: Circumventing divine law and using the woman as a means.
-
-#### 3. Temporary Marriage (Mut'a)
-
-The Prophet ﷺ said: **"Allah has forbidden temporary marriage on the day of Khaybar"** [Bukhari and Muslim]
-
-**Definition**: Marriage limited to a specific duration.
-
-**Reason for prohibition**: Contradicts the objectives of marriage of stability and tranquility.
-
-### Ruling on Defective Marriage
-
-- Must be annulled immediately
-- If consummation occurred:
-  - Child's lineage is established
-  - Equivalent dowry is due
-  - Waiting period is obligatory for the woman
-- Inheritance between spouses is not established
-
-## Void Marriage
-
-### Definition
-
-A marriage where a pillar is missing, so it is not concluded at all.
-
-### Examples of Void Marriage
-
-#### 1. Marriage with Prohibited Women
-
-Allah says: **"Prohibited to you are your mothers, your daughters, your sisters..."** [An-Nisa: 23]
-
-#### 2. Marrying a Fifth Wife When Already Having Four
-
-Allah says: **"Marry those that please you of women, two, three, or four"** [An-Nisa: 3]
-
-#### 3. Marrying a Woman in Another's Waiting Period
-
-Allah says: **"And do not resolve on the marriage contract until the decreed period reaches its end"** [Al-Baqarah: 235]
-
-#### 4. Marriage of a Muslim Woman to a Non-Muslim
-
-Allah says: **"And do not marry polytheistic men until they believe"** [Al-Baqarah: 221]
-
-### Ruling on Void Marriage
-
-- Not concluded at all
-- Separation is immediately obligatory
-- Intercourse is considered fornication if done knowingly
-- If done in ignorance, it is a case of doubt that removes the punishment
-- Child's lineage is established
-- No dowry, no maintenance, no inheritance
-
-## Comparison Table
-
-| Ruling | Valid | Defective | Void |
-|--------|-------|-----------|------|
-| Conclusion | Concluded | Concluded with defect | Not concluded |
-| Relations | Lawful | Unlawful | Unlawful |
-| Dowry | Established | Equivalent dowry if consummated | Not established |
-| Lineage | Established | Established if consummated | Established in case of doubt |
-| Inheritance | Established | Not established | Not established |
-| Annulment | Not required | Required | Separation required |
+| Right | Explanation |
+|-------|-------------|
+| ✅ Intimacy becomes lawful | Husband and wife |
+| ✅ Mahr is due | Upon consummation |
+| ✅ Nafaqa is due | Wife's right |
+| ✅ Inheritance | Between spouses |
+| ✅ Children are legitimate | Lineage established |
+| ✅ In-laws become mahram | Mother-in-law, etc. |
 
 ---
 
-## 📖 Stories from the Salaf
+## ⚠️ Defective Marriage (Nikah Fasid)
 
-### Umar ibn al-Khattab's Position on Shighar Marriage
+### Definition
 
-It was reported that two men came to Umar ibn al-Khattab (may Allah be pleased with him) having married each other's daughters in the shighar manner: one married his daughter to the other on condition that the other marry his daughter to him, with no dowry between them.
+> A marriage where a condition is missing but the pillar is present.
 
-**Umar (may Allah be pleased with him) said**: "This is the shighar that the Messenger of Allah ﷺ prohibited. Separate them!"
+### Examples
 
-Then he said his famous statement: **"Had I known about this beforehand, I would have stoned them!"** - meaning he would have severely punished the perpetrator.
+| Example | What's Missing | Fixable? |
+|---------|----------------|----------|
+| 📜 No witnesses | Condition of validity | Yes, redo with witnesses |
+| 💰 No mahr specified | Mahr requirement | Yes, mahr al-mithl applies |
+| ⏳ During 'iddah (by mistake) | Condition of timing | Wait and redo after 'iddah |
 
-In another narration from Ibn Umar (may Allah be pleased with them): The Prophet ﷺ said: **"There is no shighar in Islam"** [Reported by Muslim]. The Rightly Guided Caliphs were keen to enforce this prohibition to protect women and preserve their right to the dowry.
+### Effects Before Separation
+
+| If Consummated | Ruling |
+|----------------|--------|
+| 🔴 Must separate | Until fixed |
+| 💰 Mahr is due | To protect her right |
+| ⏳ 'Iddah required | If they separate |
+| 👶 Children legitimate | Lineage is established |
+
+### Difference of Opinion
+
+| School | View on Fasid |
+|--------|---------------|
+| 🔵 Hanafi | Distinguishes fasid from batil |
+| 🟢🟠⚫ Majority | Fasid = batil (both void) |
 
 ---
 
-### A Tahlil Story in the Time of Ibn Umar
+## ❌ Void Marriage (Nikah Batil)
 
-A man came to Abdullah ibn Umar (may Allah be pleased with them) and said: "A woman was divorced three times by her husband, so her brother married her to make her lawful for her first husband, without the first husband ordering him to do so. Does she become lawful for the first?"
+### Definition
 
-**Ibn Umar said**: "No! Only a marriage of genuine desire. We used to consider this fornication during the time of the Messenger of Allah ﷺ" [Reported by al-Hakim who authenticated it].
+> A marriage where a pillar is missing or a permanent impediment exists.
 
-**🌟 Lesson**: The Companions were keen to block the means of circumventing Allah's rulings, and that marriage must be a marriage of genuine desire, not a means of trickery.
+### Examples
+
+| Example | Why Void |
+|---------|----------|
+| 👩‍👧 Marrying mother | Permanent prohibition |
+| 👩 Marrying sister | Blood relationship |
+| 👶 Marrying milk sister | Breastfeeding prohibition |
+| 💍 Marrying fifth wife | Already has four |
+| 🕌 Non-Muslim man to Muslim woman | Religious prohibition |
+
+### Effects of Void Marriage
+
+| Effect | Ruling |
+|--------|--------|
+| ❌ No marriage exists | From the beginning |
+| 🚫 Intimacy is haram | Even if they didn't know |
+| 🔓 Must separate immediately | No option |
+| 👶 Children's status | Depends on knowledge |
+
+---
+
+## 🚫 Permanent Prohibitions
+
+### Prohibitions by Blood (Nasab)
+
+| Prohibited | Relationship |
+|------------|--------------|
+| 👩‍👧 Mother | And grandmothers |
+| 👧 Daughter | And granddaughters |
+| 👩 Sister | Full, half |
+| 👩‍🦰 Aunt (paternal) | Father's sister |
+| 👩‍🦱 Aunt (maternal) | Mother's sister |
+| 👧 Niece (brother's daughter) | |
+| 👧 Niece (sister's daughter) | |
+
+### Prohibitions by Breastfeeding
+
+> The Prophet ﷺ said:
+>
+> **"What becomes prohibited by blood becomes prohibited by breastfeeding."**
+>
+> — **[Al-Bukhari and Muslim]**
+
+| Condition | Requirement |
+|-----------|-------------|
+| 🍼 Number | Five satisfying feeds (by majority) |
+| 📅 Timing | During first two years |
+
+### Prohibitions by Marriage (Musahara)
+
+| Prohibited After Marriage | Relationship |
+|---------------------------|--------------|
+| 👩 Mother-in-law | Immediately upon contract |
+| 👧 Stepdaughter | If mother was consummated with |
+| 👩 Father's wife | Permanently |
+| 👩 Son's wife | Permanently |
+
+---
+
+## ⏳ Temporary Prohibitions
+
+### Prohibitions That End
+
+| Prohibition | When It Ends |
+|-------------|--------------|
+| 💍 Currently married woman | Divorce and 'iddah end |
+| ⏳ Woman in 'iddah | 'Iddah ends |
+| 👭 Two sisters together | Divorce one |
+| 👩‍👧 Woman with her aunt | Divorce one |
+| 4️⃣ Fifth wife | Divorce one of four |
+| 3️⃣ Three divorces | She marries another |
+
+### The Evidence for Sisters
+
+> **﴿ And [prohibited is] that you take [in marriage] two sisters simultaneously ﴾**
+>
+> — **[An-Nisa: 23]**
+
+---
+
+## 📊 Comparison Table
+
+| Aspect | Sahih | Fasid | Batil |
+|--------|-------|-------|-------|
+| 📜 Pillars | ✅ Complete | ✅ Present | ❌ Missing |
+| ⚖️ Conditions | ✅ Met | ⚠️ Some missing | ❌ Impediment exists |
+| 🔧 Fixable | N/A | Yes | No |
+| 👶 Children | Legitimate | Legitimate | Depends |
+| 💰 Mahr | Due | May be due | Not due |
 
 ---
 
 ## 🎯 Contemporary Cases
 
-### Case One: Civil Marriage Without a Guardian
+### 🧬 Case 1: DNA Reveals Milk Siblings
 
-**Question**: A Muslim woman in France conducted her marriage at city hall (civilly) to a Muslim man, without an Islamic guardian and without Muslim witnesses, then they lived together for years and have children. What is the ruling on this marriage?
+> **Situation**: After marriage, DNA testing reveals they share the same milk mother.
 
-**Answer**: The civil contract alone is not sufficient in Islamic law. Marriage without a guardian is void or defective according to the majority of scholars. The couple must:
-- Rectify the contract by performing it Islamically with the guardian and witnesses present
-- The new contract validates the situation from that point forward
-- The children's lineage is established to the father because intercourse due to doubt establishes lineage
-- They must repent and seek forgiveness for what has passed
+**❓ What is the ruling?**
 
----
+<details>
+<summary>📜 Click for answer</summary>
 
-### Case Two: Hidden Temporary Marriage
+**Analysis:**
 
-**Question**: A young man studying abroad was offered by some friends a "temporary marriage" with a woman for the duration of his studies (3 years), then he would divorce her. Is this permissible?
+| If... | Ruling |
+|-------|--------|
+| 🍼 Five feeds confirmed | Marriage is void (batil) |
+| 🍼 Less than five | Marriage is valid |
+| ❓ Number unknown | Investigate, default to validity |
 
-**Answer**: This is mut'ah marriage which is forbidden by consensus of Ahl al-Sunnah, because time limitation voids the marriage. The Prophet ﷺ said: "Allah has forbidden temporary marriage on the day of Khaybar." It is also not permissible to circumvent this by having a pre-planned intention to divorce.
+> 💡 **Verify the number of feeds before ruling!**
 
-The lawful solution: Either marry a proper marriage with the intention of permanence, even if it ends in divorce later for unforeseen reasons, or be patient and abstain until stable marriage becomes possible.
-
----
-
-### Case Three: Discovering the Wife is a Milk-Sister
-
-**Question**: After 10 years of marriage and 3 children, the couple discovered that the husband's mother had breastfed the wife as a baby five complete feedings. What must they do?
-
-**Answer**: If the prohibiting breastfeeding is established (5 feedings within the first two years):
-- They must separate immediately because the marriage is void
-- What has passed is forgiven because it was done in ignorance (doubt)
-- The children's lineage is established to the father and the void marriage does not affect them
-- The husband must provide maintenance during the waiting period and a separation gift
-
-This confirms the importance of investigating before marriage regarding marriage impediments.
+</details>
 
 ---
 
-### Case Four: Marrying a Divorced Woman During Her Waiting Period
+### 📱 Case 2: No Witnesses in Online Marriage
 
-**Question**: A man proposed to a divorced woman and contracted marriage with her one month after her divorce, without knowing that the waiting period had not ended. What is the ruling?
+> **Situation**: They did nikah over video without witnesses on either side.
 
-**Answer**: Marriage during the waiting period is void by scholarly consensus, due to Allah's saying: "And do not resolve on the marriage contract until the decreed period reaches its end." They must:
-- Separate immediately
-- Wait for the waiting period from the first husband to end
-- Begin a new waiting period from this consummation
-- Then they may contract a new marriage after the waiting period ends
-- Some scholars view her as permanently forbidden to him as punishment, but the preponderant view is permissibility if it was done in ignorance
+**❓ Is this valid?**
 
----
+<details>
+<summary>📜 Click for answer</summary>
 
-### Case Five: Modern Tahlil Marriage
+**Ruling:**
 
-**Question**: A woman divorced three times agreed with a man to marry her and divorce her after consummation to make her lawful for her first husband, promising him money. Does she become lawful for the first?
+| Element | Status |
+|---------|--------|
+| 👥 Witnesses | Missing (fasid/batil) |
+| 🔧 Solution | Redo with proper witnesses |
 
-**Answer**: This is tahlil marriage, cursed are its perpetrators. The Prophet ﷺ said: "Allah has cursed the one who makes lawful (muhallil) and the one for whom it is made lawful." It is void and she does not become lawful for the first because:
-- The intention is not real marriage but making lawful
-- The prior agreement invalidates it
-- The money paid is forbidden bribery
+> 💡 **Witnesses must be physically present and hear the contract!**
 
-She does not become lawful to the first husband except through a genuine marriage of desire with another man who intends to remain with her, then divorces her or dies.
+</details>
 
 ---
 
-## 💡 Pause and Reflect
+### 💍 Case 3: Marrying During 'Iddah
 
-**Question for Contemplation**: Many people take lightly "legal tricks" to get what they want, thinking that Islamic rulings are mere formalities.
+> **Situation**: She married before her 'iddah ended, not knowing the rule.
 
-🤔 **Reflect**: What is the difference between a forbidden "legal trick" and a permissible "legal concession"? Why did Allah curse the muhallil and the one for whom it is made lawful, while permitting marriage after the waiting period ends? Think about the objectives of Shariah in prohibiting these defective marriages.
+**❓ What happens?**
+
+<details>
+<summary>📜 Click for answer</summary>
+
+**The ruling:**
+
+| Action | Requirement |
+|--------|-------------|
+| 🔴 Must separate | Immediately |
+| ⏳ Complete 'iddah | From first husband |
+| ⏳ Then 'iddah | From this invalid marriage (if consummated) |
+| 💍 Then remarry | Properly |
+
+> 💡 **The prohibition during 'iddah is serious — verify before marriage!**
+
+</details>
 
 ---
 
-## Lesson Summary
+### 🕌 Case 4: Converting After Marriage
 
-- Valid marriage is one that fulfills all its pillars and conditions
-- Defective marriage has a flaw in conditions and must be annulled
-- Void marriage has a flaw in pillars and is not concluded at all
-- Among prohibited marriages: shighar, tahlil, and mut'a
-- Knowledge of marriage rulings is necessary for contract validity
+> **Situation**: A couple married as non-Muslims. The wife accepted Islam, the husband didn't.
+
+**❓ What is their status?**
+
+<details>
+<summary>📜 Click for answer</summary>
+
+**Classical ruling:**
+
+| Situation | Ruling |
+|-----------|--------|
+| 🕌 Wife converts | Wait for 'iddah period |
+| ⏳ If he converts during | Marriage continues |
+| ❌ If he doesn't convert | Marriage ends |
+
+> 💡 **Some contemporary scholars allow more time for da'wah!**
+
+</details>
+
+---
+
+### 👨‍👧 Case 5: Wali Was Not Muslim
+
+> **Situation**: Her father who gave her in marriage is not Muslim.
+
+**❓ Is the marriage valid?**
+
+<details>
+<summary>📜 Click for answer</summary>
+
+**The ruling:**
+
+| Principle | Application |
+|-----------|-------------|
+| 🚫 Non-Muslim cannot be wali for Muslim | By consensus |
+| 🔧 Solution | A Muslim relative or the Muslim judge should be wali |
+
+> 💡 **If she has Muslim male relatives, they take precedence. Otherwise, the imam.**
+
+</details>
+
+---
+
+## ⚠️ Practical Advice
+
+### Before Marriage
+
+| Step | Action |
+|------|--------|
+| 1️⃣ | Verify no blood relationship |
+| 2️⃣ | Check for milk relationships |
+| 3️⃣ | Confirm she's not in 'iddah |
+| 4️⃣ | Ensure proper wali is present |
+| 5️⃣ | Have two qualified witnesses |
+| 6️⃣ | Clear offer and acceptance |
+
+### If In Doubt About Current Marriage
+
+| Step | Action |
+|------|--------|
+| 1️⃣ | Consult a knowledgeable scholar |
+| 2️⃣ | Provide accurate details |
+| 3️⃣ | Be willing to correct if needed |
+| 4️⃣ | Don't delay — get clarity |
+
+---
+
+## 💭 Reflection
+
+> **Imam An-Nawawi** — may Allah have mercy on him — said:
+>
+> **"The Muslim must know who is prohibited to him in marriage before he marries, just as he must know the conditions of prayer before he prays."**
+
+> 🎯 **Knowledge before action protects from regret and sin!**
+
+---
+
+## 📚 Summary
+
+| Type | Definition | Fixable? |
+|------|------------|----------|
+| ✅ Sahih | All pillars and conditions met | N/A |
+| ⚠️ Fasid | Condition missing | Yes |
+| ❌ Batil | Pillar missing or permanent impediment | No |
+| 🚫 Permanent prohibitions | Blood, breastfeeding, in-laws | Never lawful |
+| ⏳ Temporary prohibitions | 'Iddah, number limit | Can become lawful |
 `;

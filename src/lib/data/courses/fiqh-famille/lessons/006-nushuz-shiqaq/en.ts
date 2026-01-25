@@ -1,265 +1,354 @@
-export const contentEn = `
-# Marital Discord (Nushuz and Shiqaq)
+/**
+ * Family Fiqh - Lesson 006: Nushuz and Marital Discord
+ * English content - Immersive version
+ */
 
-## Introduction
+export const contentEn = `# ⚠️ Nushuz and Shiqaq — When Marriage Faces Troubles
 
-Married life may go through problems and disagreements. Islam has established a wise methodology for dealing with these problems, starting with advice and admonition, and ending with arbitration and reconciliation.
-
-Allah says: **"If you fear a breach between the two, send an arbitrator from his family and an arbitrator from her family. If they desire reconciliation, Allah will bring them together"** [An-Nisa: 35]
-
----
-
-## Nushuz: Definition and Types
-
-### Definition of Nushuz
-
-**Linguistically**: Elevation and arrogance.
-
-**Legally**: One spouse departing from obedience to the other in what Islamic law makes obligatory.
-
-### Types of Nushuz
-
-| Type | Definition |
-|------|------------|
-| Wife's nushuz | Her disobedience to her husband in what is legally obligatory upon her |
-| Husband's nushuz | Harming his wife or falling short in her obligatory rights |
+> **﴿ And if you fear dissension between them, send an arbitrator from his family and an arbitrator from her family ﴾**
+>
+> — **[An-Nisa: 35]**
 
 ---
 
-## The Wife's Nushuz
+## 🎬 Introduction
 
-### Signs of the Wife's Nushuz
+### 🎭 Scene: The Breaking Point
 
-1. **Refusing the marital bed** without a legal excuse
-2. **Leaving the house** without his permission without necessity
-3. **Disobedience** in what is proper
-4. **Bad treatment** and insults
-5. **Admitting those he dislikes** into his house
+> **In a marriage counselor's office...**
+>
+> The wife said: *"He ignores me, doesn't speak to me for days, and spends all his time outside!"*
+>
+> The husband said: *"She disrespects me in front of my family and refuses to fulfill her duties!"*
+>
+> The counselor asked: *"How long has this been going on?"*
+>
+> Both: *"Years..."*
+>
+> The counselor said:
+>
+> **"You both have valid complaints. But have you followed the Quranic steps for resolving this? Or did you let it fester?"**
 
-### Stages of Treating the Wife's Nushuz
-
-Allah says: **"Those whose nushuz you fear, advise them, forsake them in bed, and strike them"** [An-Nisa: 34]
-
-#### First Stage: Admonition
-
-- Reminding her of Allah and legal rights
-- Reminding her of the consequences of nushuz
-- Calm dialogue and advice
-
-**Conditions of admonition:**
-- That it be with kindness
-- Away from insults and harm
-- At the appropriate time
-
-#### Second Stage: Forsaking in Bed
-
-- Turning away from her in bed
-- Not having relations with her while staying in the house
-- Forsaking in speech (maximum three days)
-
-**Rules of forsaking:**
-- That it be in the house, not outside
-- That it not exceed a reasonable limit
-- That it be with the intention of reform
-
-#### Third Stage: Non-Violent Striking
-
-**Conditions of striking:**
-| Condition | Details |
-|-----------|---------|
-| Non-violent | Does not break bones or cause wounds |
-| Avoid the face | As the Prophet ﷺ said: "Do not strike the face" |
-| For discipline, not revenge | The goal is reform |
-| After failure of previous stages | Last resort |
-
-**The Prophet ﷺ said:** **"The best of you do not strike"** [Reported by Abu Dawud]
-
-**Important note:** Striking is neither recommended nor required; it is a concession for exceptional cases, and it is better to avoid it.
+> 🎯 **Islam provides a clear methodology for handling marital discord — before it destroys the marriage!**
 
 ---
 
-## The Husband's Nushuz
+### 🎭 Scene: The Prophet's ﷺ Patience
 
-### Forms of the Husband's Nushuz
+> **When the Prophet ﷺ faced difficulties with his wives...**
+>
+> He didn't divorce immediately. He didn't become harsh.
+>
+> Instead, he withdrew to the upper room for a month, giving everyone time to reflect.
+>
+> When he came down, the Quran had revealed verses of guidance, and the matter was resolved.
 
-1. **Not providing** for her despite the ability
-2. **Harming her** through beating or insulting
-3. **Turning away from her** towards another
-4. **Depriving her of her rights** legal rights
-5. **Humiliating her** in front of people
-
-### Treatment of the Husband's Nushuz
-
-Allah says: **"And if a woman fears from her husband nushuz or turning away, there is no sin upon them if they make a settlement between them, and settlement is better"** [An-Nisa: 128]
-
-**Steps of treatment:**
-
-1. **Reconciliation**: Understanding and mutual concessions
-2. **Arbitration**: Resorting to two arbitrators from the families
-3. **Judiciary**: Taking the matter to a judge if reconciliation fails
-
-**Wife's rights when the husband commits nushuz:**
-- Request divorce or khul'
-- Take the matter to a judge
-- Claim all her rights
+> 💡 **Even the best marriages have difficulties — what matters is how we handle them!**
 
 ---
 
-## Discord Between Spouses (Shiqaq)
+## 📖 What is Nushuz?
 
-### Definition of Shiqaq
+### Definition
 
-**Linguistically**: Disagreement and intense conflict.
+| Term | Meaning |
+|------|---------|
+| **Nushuz** | Rising up, disobedience, breach of marital duties |
 
-**Legally**: Persistent conflict between spouses that raises fear of not maintaining Allah's limits.
+### Types
 
-### Causes of Shiqaq
-
-| Cause | Details |
-|-------|---------|
-| Bad character | From one or both spouses |
-| Non-fulfillment of rights | Neglecting marital duties |
-| Family interference | Negative intervention in marital life |
-| Financial problems | Extravagance or stinginess |
-| Incompatibility | Differences in temperament and habits |
-| Excessive jealousy | Suspicion without reason |
-
-### Treatment of Shiqaq: Arbitration
-
-Allah says: **"Send an arbitrator from his family and an arbitrator from her family"** [An-Nisa: 35]
-
-#### Conditions for the Arbitrators
-
-1. **Justice**: That they be just
-2. **Wisdom**: The ability to reconcile
-3. **Knowledge**: Knowing the situation of the spouses
-4. **Kinship**: It is preferable that they be from the families
-
-#### Powers of the Arbitrators
-
-**Scholars differ:**
-
-| School | Opinion |
-|--------|---------|
-| The majority | For reconciliation only; separation requires the permission of the spouses |
-| The Malikis | They can unite or separate without permission |
-
-**The preponderant view:** The arbitrators can do what they see as beneficial, whether uniting or separating.
-
-#### Steps of Arbitration
-
-1. **Choosing the arbitrators** from the families of the spouses
-2. **Listening** to both parties
-3. **Verifying** the causes of the conflict
-4. **Attempting reconciliation** and bringing closer
-5. **Making the decision** to unite or separate
+| Nushuz of Wife | Nushuz of Husband |
+|----------------|-------------------|
+| 🔴 Refusing marital duties | 🔴 Refusing to provide nafaqa |
+| 🔴 Leaving home without permission | 🔴 Harming her physically or verbally |
+| 🔴 Persistent disrespect | 🔴 Abandoning her (emotionally/physically) |
+| 🔴 Admitting whom he forbids | 🔴 Forcing her to do haram |
 
 ---
 
-## Effects of Nushuz
+## 👩 Nushuz of the Wife
 
-### Effects of the Wife's Nushuz
+### What the Quran Says
 
-| Effect | Details |
-|--------|---------|
-| Loss of maintenance | During the period of nushuz only |
-| Loss of division of nights | If she has co-wives |
-| Sin | For violating the law |
+> **﴿ But those [wives] from whom you fear nushuz - [first] advise them; [then if they persist], forsake them in bed; and [finally], strike them [lightly]. But if they obey you, seek no way against them ﴾**
+>
+> — **[An-Nisa: 34]**
 
-### Effects of the Husband's Nushuz
+### The Three Steps (In Order)
 
-| Effect | Details |
-|--------|---------|
-| Right to claim | She can claim her rights |
-| Right to khul' | If cohabitation becomes impossible |
-| Sin | For harming her |
+| Step | Method | How |
+|------|--------|-----|
+| 1️⃣ | **Advise** (Maw'iza) | Gentle reminder, not lecture |
+| 2️⃣ | **Forsake in bed** (Hajr) | Turn back, or separate beds |
+| 3️⃣ | **Strike lightly** (Darb) | Symbolic, non-harmful |
+
+### Important Rules for Step 3
+
+| Rule | Explanation |
+|------|-------------|
+| 🚫 Not the face | Prohibited |
+| 🚫 Not leaving marks | Prohibited |
+| 🚫 Not breaking bones | Prohibited |
+| ⚖️ Symbolic only | Like with miswak (tooth stick) |
+| 🔴 Better to avoid | The Prophet ﷺ never did it |
+
+### The Prophet's ﷺ Guidance
+
+> **The Prophet ﷺ said:**
+>
+> **"Do not strike the female servants of Allah."**
+>
+> And he ﷺ said:
+>
+> **"The best of you will not strike."**
+>
+> — **[Abu Dawud]**
+
+> **Aisha** — may Allah be pleased with her — said:
+>
+> **"The Messenger of Allah ﷺ never struck anything with his hand — neither a woman nor a servant."**
+>
+> — **[Muslim]**
 
 ---
 
-## Reconciliation is Better
+## 👨 Nushuz of the Husband
 
-Allah says: **"And reconciliation is better"** [An-Nisa: 128]
+### What the Quran Says
 
-**Benefits of reconciliation:**
-- Preserving the family from disintegration
-- The interest of children
-- Avoiding the effects of divorce
-- Preserving affection and mercy
+> **﴿ And if a woman fears from her husband nushuz or desertion, there is no sin upon them if they make terms of settlement between them — and settlement is best ﴾**
+>
+> — **[An-Nisa: 128]**
 
-**The Prophet ﷺ said:** **"The most hated lawful thing to Allah is divorce"** [Reported by Abu Dawud]
+### What Constitutes His Nushuz
+
+| Behavior | Type |
+|----------|------|
+| 🔴 Stops providing nafaqa | Financial neglect |
+| 🔴 Abandons her bed | Emotional/physical neglect |
+| 🔴 Harsh, abusive treatment | Emotional abuse |
+| 🔴 Physical harm | Physical abuse |
+| 🔴 Forces her to do haram | Religious harm |
+
+### Her Options
+
+| Option | Explanation |
+|--------|-------------|
+| 🤝 Negotiate | Give up some rights for peace |
+| 👨‍👩‍👧 Family mediation | Involve arbitrators |
+| ⚖️ Seek judicial help | Go to Islamic court/authority |
+| 🔓 Request khul' or divorce | As a last resort |
 
 ---
 
-## 📖 Stories from the Salaf
+## 🤝 Shiqaq (Marital Discord)
 
-### Umar ibn al-Khattab as an Arbitrator Between Spouses
+### Definition
 
-A man came to Umar ibn al-Khattab (may Allah be pleased with him) complaining about his wife. When he stood at his door, he heard Umar's wife raising her voice at him while he remained silent. The man turned away and said: If this is the state of the Commander of the Faithful, then what about me!
+> **Shiqaq**: Deep, persistent conflict between the spouses that threatens the marriage.
 
-Umar followed him and asked about his need. The man told him he had come to complain about his wife but found the Commander of the Faithful in a similar situation. Umar (may Allah be pleased with him) said: **"I bear with her for the rights she has over me: she cooks my food, bakes my bread, washes my clothes, nurses my children—and none of that is obligatory upon her—and my heart finds contentment with her away from the forbidden. So I bear with her for that."**
+### The Quranic Solution
 
-The man said: O Commander of the Faithful, my wife is the same. Umar said: **"Then bear with her, my brother, for it is but a short time."**
+> **﴿ And if you fear dissension (shiqaq) between them, send an arbitrator from his family and an arbitrator from her family. If they both desire reconciliation, Allah will cause it between them ﴾**
+>
+> — **[An-Nisa: 35]**
 
-**Lesson:** Patience with marital problems and remembering the partner's positives are among the greatest reasons for marriage continuity.
+### The Arbitration Process
+
+| Step | Action |
+|------|--------|
+| 1️⃣ | Select one hakam from his family |
+| 2️⃣ | Select one hakam from her family |
+| 3️⃣ | Both investigate the issues |
+| 4️⃣ | They attempt reconciliation |
+| 5️⃣ | If impossible, may authorize separation |
+
+### Qualities of Hakam (Arbitrator)
+
+| Quality | Why Important |
+|---------|---------------|
+| 👨 Male | By majority |
+| ⚖️ Just | Fair in judgment |
+| 🧠 Wise | Understands situations |
+| 🤝 Neutral | Not biased |
+| 📚 Knowledgeable | Knows fiqh rulings |
+
+---
+
+## 📊 Steps for Resolving Conflict
+
+### Complete Framework
+
+| Stage | Method | Participants |
+|-------|--------|--------------|
+| 1️⃣ | Direct communication | Husband and wife |
+| 2️⃣ | Self-correction | Each examines self |
+| 3️⃣ | Quranic steps (for her nushuz) | Husband |
+| 4️⃣ | Negotiation (for his nushuz) | Wife |
+| 5️⃣ | Family intervention | Close relatives |
+| 6️⃣ | Formal arbitration | Two hakams |
+| 7️⃣ | Judicial intervention | Islamic court |
+| 8️⃣ | Separation | Last resort |
 
 ---
 
 ## 🎯 Contemporary Cases
 
-### Case One: The Wife Refusing to Live with In-Laws
+### 🏠 Case 1: She Wants to Work, He Forbids
 
-**Question:** My wife refuses to live with my elderly mother who needs care, and threatens to leave the house if I don't provide separate housing. Is this nushuz?
+> **Situation**: She accepted a job without his permission after he refused.
 
-**Answer:** It is not nushuz, for separate housing is the wife's legal right. However, it is recommended for her to help her husband in honoring his mother as much as possible. The solution: Reach an arrangement that satisfies both parties, such as living nearby with regular visits.
+**❓ Is this nushuz?**
 
----
+<details>
+<summary>📜 Click for answer</summary>
 
-### Case Two: The Constantly Absent Husband
+**Analysis:**
 
-**Question:** My husband spends all his time outside the home with his friends and doesn't give me my right of time and attention. What should I do?
+| Factor | Consideration |
+|--------|---------------|
+| 📝 If stipulated in contract | Her right |
+| 🚫 If not stipulated | His permission is needed |
+| ⚖️ If he's unreasonable | She may seek mediation |
 
-**Answer:** This is a form of the husband's nushuz. Start with calm dialogue with him, then seek help from his righteous family members for advice. If he doesn't respond, you have the right to take the matter to an Islamic judge.
+> 💡 **The best approach is mutual consultation, not unilateral decisions!**
 
----
-
-### Case Three: Destructive Family Interference
-
-**Question:** My wife's mother interferes in all our household matters and incites my wife against me, until we've reached discord. How should I act?
-
-**Answer:** Ask your wife gently to limit this interference, and don't escalate with your mother-in-law. If the discord continues, suggest appointing two arbitrators from the families as Allah commanded, and choose a wise, sensible arbitrator from your family.
-
----
-
-### Case Four: The Working Wife and Expense Disagreement
-
-**Question:** My wife works and refuses to contribute to household expenses despite my financial hardship. Do I have the right to compel her?
-
-**Answer:** The wife's money belongs to her, and she is not legally required to contribute to expenses. However, cooperation and understanding are better, and reminding both parties that the money is for the family reduces conflict.
+</details>
 
 ---
 
-### Case Five: Prolonged Abandonment
+### 📱 Case 2: He's Emotionally Absent
 
-**Question:** My husband is angry with me and has abandoned me in bed for two months. Is this permissible for him?
+> **Situation**: He comes home, eats, watches his phone, sleeps. No conversation, no attention.
 
-**Answer:** Abandonment for more than four months is forbidden for the husband, and it constitutes ila' which gives the wife the right to demand he return or divorce. If it is less, reconciliation and resolving the dispute is obligatory.
+**❓ Is this nushuz?**
+
+<details>
+<summary>📜 Click for answer</summary>
+
+**Clear answer:**
+
+| His behavior | Status |
+|--------------|--------|
+| 🔴 Emotional abandonment | Form of nushuz |
+| 📜 Her right | Kind companionship |
+| 🔧 Solution | Communication, then mediation |
+
+> 💡 **Living together is not the same as living kindly together!**
+
+</details>
 
 ---
 
-## 💡 Pause and Reflect
+### 💔 Case 3: Constant Arguments
 
-**Question for Contemplation:**
+> **Situation**: They fight about everything, every day. Neither gives in.
 
-If you were the arbitrator from the husband's family in a dispute between your cousin and his wife, and each party insists they are the wronged one:
-- How would you begin the reconciliation session?
-- What questions would you ask?
-- How would you maintain neutrality despite your kinship to the husband?
+**❓ What is the solution?**
 
-Remember Allah's saying: **"If they both desire reconciliation, Allah will bring them together"** - A sincere intention for reconciliation is the key to success.
+<details>
+<summary>📜 Click for answer</summary>
+
+**Islamic approach:**
+
+| Step | Action |
+|------|--------|
+| 1️⃣ | Each examines their own faults |
+| 2️⃣ | Agree on rules for disagreement |
+| 3️⃣ | Involve trusted mediator |
+| 4️⃣ | Professional Islamic counseling |
+
+> 💡 **The Prophet ﷺ said: "I guarantee a house in the middle of Paradise for one who avoids arguing even if he is right."**
+
+</details>
 
 ---
 
-## Conclusion
+### 🤐 Case 4: Silent Treatment
 
-Nushuz and shiqaq are among the problems that may confront married life. Islam has established a gradual methodology for treating them, starting with advice and admonition, then forsaking, then arbitration, with the goal being reform and preserving the family as much as possible.
+> **Situation**: He doesn't speak to her for weeks as punishment.
+
+**❓ Is this permissible?**
+
+<details>
+<summary>📜 Click for answer</summary>
+
+**Important distinction:**
+
+| Type | Ruling |
+|------|--------|
+| 🛏️ Forsaking in bed | Permitted as remedy for nushuz |
+| 🤐 Complete silence | Not permitted beyond 3 days (by hadith) |
+| 📍 Outside the home | Not permitted |
+
+> 💡 **The forsaking is in bed, not in speech or normal interaction!**
+
+</details>
+
+---
+
+### 👊 Case 5: Physical Abuse
+
+> **Situation**: He beats her regularly, causing bruises and injury.
+
+**❓ What is the ruling?**
+
+<details>
+<summary>📜 Click for answer</summary>
+
+**Absolutely clear:**
+
+| Action | Ruling |
+|--------|--------|
+| 🔴 Physical abuse | Haram |
+| 🔴 Causing injury | Major sin |
+| 🟢 Her right | Separation and compensation |
+| ⚖️ She may seek | Divorce, khul', or judicial intervention |
+
+> 💡 **Abuse is NEVER Islamic — it's a crime against Allah's commands!**
+
+</details>
+
+---
+
+## ⚠️ Important Clarifications
+
+### What Islam Does NOT Allow
+
+| Misconception | Reality |
+|---------------|---------|
+| ❌ "Islam allows wife-beating" | Only symbolic, last resort, most scholars say avoid |
+| ❌ "Husband can do whatever he wants" | He has limits and responsibilities |
+| ❌ "Wife must obey in everything" | Only in ma'ruf (reasonable matters) |
+| ❌ "She has no recourse" | She has multiple options |
+
+### The Prophet's ﷺ Standard
+
+> When asked about the wife's rights, the Prophet ﷺ said:
+>
+> **"That you feed her when you eat, clothe her when you clothe yourself, do not strike the face, do not insult her, and do not forsake her except within the home."**
+>
+> — **[Abu Dawud]**
+
+---
+
+## 💭 Reflection
+
+> **Imam Ibn Taymiyyah** — may Allah have mercy on him — said:
+>
+> **"The basis of marriage is partnership and companionship, not mastery and servitude."**
+
+> 🎯 **Conflict is inevitable — how we handle it defines whether the marriage survives!**
+
+---
+
+## 📚 Summary
+
+| Concept | Key Points |
+|---------|------------|
+| 👩 Her Nushuz | Advise → forsake in bed → symbolic (avoid) |
+| 👨 His Nushuz | She negotiates, seeks mediation, may seek separation |
+| 🤝 Shiqaq | Two arbitrators from both families |
+| ⚖️ Goal | Always reconciliation first |
+| 🚫 Never allowed | Abuse, harm, oppression |
 `;
