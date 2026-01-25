@@ -1,203 +1,423 @@
-export const contentFr = `# Les Jahmiyyah et Mu'tazilah — Les Sectes Théologiques
+export const contentFr = `# 🧠 Les Jahmiyyah et Mu'tazilah — La Raison contre la Révélation
 
-## Introduction : L'émergence de la théologie spéculative
-
-### Qu'est-ce que 'Ilm al-Kalam ?
-La théologie spéculative est une science qui étudie les croyances islamiques par des preuves rationnelles et philosophiques. Elle est née suite à :
-1. La traduction de la philosophie grecque
-2. Les débats avec les sectes déviantes
-3. L'éloignement de la méthode des Salaf dans la réception de la croyance
+> **« Le Coran est la Parole d'Allah, non créée. De Lui il provient et à Lui il retourne. »**
+> — **L'Imam Ahmad ibn Hanbal** رحمه الله
 
 ---
 
-## Première Secte : Les Jahmiyyah
+## 🎬 Introduction
 
-### Définition et Origine
-- **Fondateur** : Jahm ibn Safwan (m. 128H)
-- **A reçu ses idées de** : Al-Ja'd ibn Dirham
-- **Sa mort** : Tué par Salm ibn Ahwaz, le gouverneur omeyyade
+Ces deux sectes représentent l'une des plus grandes épreuves qu'ait connues la Oumma dans sa croyance. Les **Jahmiyyah** ont nié les Attributs d'Allah, et les **Mu'tazilah** ont fait de la **raison humaine** le juge suprême au-dessus de la Révélation.
 
-### Les fondements de la croyance Jahmite
+L'épreuve de la **« création du Coran »** reste gravée dans l'histoire : les califes abbassides ont torturé et emprisonné les savants pour les forcer à accepter cette hérésie. Seule la fermeté de l'Imam Ahmad a sauvé la croyance de la Oumma.
 
-#### 1. Négation des Noms et Attributs
-| Leur position | Détails |
+<!-- TIMELINE:jahmiyyah-mutazilah -->
+
+---
+
+## 📜 Partie 1 : Les Jahmiyyah — Négateurs des Attributs
+
+### Le Fondateur : Jahm ibn Safwan
+
+<div class="scene-box">
+
+**🎭 SCÈNE : L'Origine de la Négation — Transoxiane, ~120 H**
+
+*Jahm ibn Safwan débat avec des philosophes indiens (les Sumaniyyah).*
+
+**Philosophe indien** : « Décris-moi ton Dieu. L'as-tu vu ? L'as-tu touché ? L'as-tu senti ? »
+
+**Jahm** : « Non... »
+
+**Philosophe** : « Alors tu ne peux pas prouver Son existence ! »
+
+*Jahm resta sans réponse. Il s'isola quarante jours, puis revint avec une nouvelle doctrine...*
+
+**Jahm** *(après réflexion)* : « Pour qu'Allah ne ressemble à rien, je dois **nier** tout ce qui Le décrit ! Plus d'Attributs, plus de ressemblance ! »
+
+*Ainsi naquit la négation des Attributs d'Allah.*
+
+</div>
+
+### Les Quatre Égarements des Jahmiyyah
+
+| Égarement | Détail | Conséquence |
+|-----------|--------|-------------|
+| **1. Négation des Noms et Attributs** | Allah n'a ni Main, ni Face, ni Parole | Allah devient un néant abstrait |
+| **2. Création du Coran** | Le Coran n'est pas la vraie Parole d'Allah | Allah n'a jamais parlé |
+| **3. Déterminisme (Jabr)** | L'homme n'a aucun choix | Annulation de la responsabilité |
+| **4. Murji'isme extrême** | La foi = connaissance seule | Pharaon serait « croyant » ! |
+
+### Le Ta'til : Vider Allah de Tout Attribut
+
+<div class="scene-box">
+
+**🎭 SCÈNE : L'Absurdité du Ta'til**
+
+**Sunni** : « Selon toi, Allah n'a ni Main, ni Visage, ni Parole ? »
+
+**Jahmi** : « Correct. Sinon, Il ressemblerait aux créatures. »
+
+**Sunni** : « Donc Allah n'existe pas ? »
+
+**Jahmi** : « Si ! Mais on ne peut rien dire de Lui. »
+
+**Sunni** : « Peut-on décrire quelque chose qui n'a aucun attribut ? Même le néant a des attributs (l'inexistence) ! Tu as décrit Allah de façon pire que le néant ! »
+
+**Jahmi** *(silencieux)* : « ... »
+
+</div>
+
+### La Fin de Jahm ibn Safwan
+
+<div class="quote-box">
+
+**Jahm ibn Safwan fut tué en 128 H** par Salm ibn Ahwaz, gouverneur omeyyade de Khurasan.
+
+Les savants du Salaf considèrent les **Jahmiyyah extrémistes comme mécréants** :
+
+**L'Imam Ahmad** : « Celui qui dit que le Coran est créé est un **kafir** (mécréant). »
+
+**L'Imam al-Bukhari** : « Je regarde les Jahmiyyah comme je regarde les Juifs et les Chrétiens. »
+
+</div>
+
+---
+
+## ⚔️ Partie 2 : Les Mu'tazilah — La Raison au-dessus de la Révélation
+
+### L'Origine du Nom
+
+<div class="scene-box">
+
+**🎭 SCÈNE : La Séparation — Cercle d'al-Hasan al-Basri, Basra, ~110 H**
+
+*Al-Hasan al-Basri رحمه الله enseigne. Un homme pose une question.*
+
+**L'homme** : « Ô Imam, que dis-tu de celui qui commet un grand péché ? Est-il croyant ou mécréant ? »
+
+*Avant qu'al-Hasan ne réponde, Wasil ibn 'Ata' s'avance.*
+
+**Wasil ibn 'Ata'** : « Il n'est ni croyant ni mécréant ! Il est dans une **position intermédiaire** entre les deux ! »
+
+*Wasil se retire du cercle et forme son propre groupe.*
+
+**Al-Hasan al-Basri** : « قد اعتزلنا واصل » — « Wasil s'est séparé de nous (i'tazala). »
+
+*De là vient le nom : **Mu'tazilah** (ceux qui se sont séparés).*
+
+</div>
+
+### Les Cinq Principes Fondateurs des Mu'tazilah
+
+\`\`\`
+Les Cinq Principes (الأصول الخمسة)
+├── 1️⃣ LE TAWHID (leur version)
+│   ├── Négation des Attributs essentiels
+│   ├── "Affirmer les Attributs = pluralité des éternels"
+│   └── → Allah entend, mais n'a pas d'Ouïe !
+│
+├── 2️⃣ LA JUSTICE (leur version)
+│   ├── L'homme crée ses propres actes
+│   ├── Allah ne peut pas créer le mal
+│   └── → Négation du Destin (comme les Qadariyyah)
+│
+├── 3️⃣ LA POSITION INTERMÉDIAIRE
+│   ├── Le grand pécheur ≠ croyant
+│   ├── Le grand pécheur ≠ mécréant
+│   └── → Il est "entre les deux" (manzilah bayna manzilatay)
+│
+├── 4️⃣ L'EXÉCUTION DE LA MENACE
+│   ├── Qui entre en Enfer n'en sort jamais
+│   ├── Pas d'intercession pour les grands pécheurs
+│   └── → Désespoir pour les pécheurs musulmans
+│
+└── 5️⃣ L'ORDRE DU BIEN ET L'INTERDICTION DU MAL
+    ├── Par la force et l'épée si possible
+    ├── Rébellion contre le gouverneur injuste = obligatoire
+    └── → Chaos et guerres civiles
+\`\`\`
+
+### Les Grands Chefs Mu'tazilites
+
+| Nom | Mort | Contribution |
+|-----|------|--------------|
+| **Wasil ibn 'Ata'** | 131 H | Fondateur, « position intermédiaire » |
+| **'Amr ibn 'Ubayd** | 144 H | Co-fondateur |
+| **Abu al-Hudhayl al-'Allaf** | 235 H | Philosophe du groupe |
+| **An-Nazzam** | 231 H | Théoricien radical |
+| **Al-Jahiz** | 255 H | Littérateur célèbre |
+| **Al-Qadi 'Abd al-Jabbar** | 415 H | Systématiseur du Mu'tazilisme |
+| **Az-Zamakhshari** | 538 H | Auteur d'al-Kashshaf |
+
+---
+
+## 🔥 Partie 3 : L'Épreuve de la Création du Coran (المحنة)
+
+### Le Contexte
+
+En 218 H, le calife abbasside **al-Ma'mun** adopta le dogme mu'tazilite selon lequel **le Coran est créé**. Il ordonna de mettre les savants à l'épreuve (mihna) et de les forcer à professer cette doctrine.
+
+### L'Épreuve de l'Imam Ahmad
+
+<div class="scene-box">
+
+**🎭 SCÈNE : L'Interrogatoire — Palais du Calife, 218 H**
+
+*L'Imam Ahmad ibn Hanbal رحمه الله est amené enchaîné devant le calife.*
+
+**Le calife (par lettre)** : « Le Coran est-il créé ou non ? »
+
+**L'Imam Ahmad** : « Le Coran est la Parole d'Allah. Il n'est pas créé. »
+
+**Le juge mu'tazilite** : « Dis : "Le Coran est créé !", et tu seras libéré ! »
+
+**L'Imam Ahmad** : « Donnez-moi un verset ou un hadith qui dit cela, et je le dirai. »
+
+**Le juge** : « Nous jugeons par la raison ! Le Coran est des lettres et des sons, et tout ce qui est lettre et son est créé ! »
+
+**L'Imam Ahmad** : « Je ne dis que ce qu'Allah et Son Prophète ﷺ ont dit. »
+
+*On le fouetta jusqu'à l'évanouissement. Il ne céda pas.*
+
+</div>
+
+### La Fermeté Légendaire
+
+<div class="scene-box">
+
+**🎭 SCÈNE : La Prison — Bagdad, 218-220 H**
+
+*L'Imam Ahmad est en prison depuis des mois. Un homme lui rend visite.*
+
+**L'homme** : « Ô Abu 'Abdullah, repose-toi ! Dis-le de ta langue, et que ton cœur reste serein ! »
+
+**L'Imam Ahmad** : « Si le savant répond par dissimulation et l'ignorant par ignorance, **quand donc la vérité sera-t-elle manifeste** ? »
+
+*Un autre lui dit :*
+
+**Un autre visiteur** : « Les califes et les juges ont tous dit que le Coran est créé. Ne pouvons-nous pas suivre le consensus ? »
+
+**L'Imam Ahmad** : « **Et comment le ciel et la terre subsisteraient-ils** si les savants disent ce que les sultans veulent entendre ? »
+
+</div>
+
+### La Chronologie de l'Épreuve
+
+| Date | Événement |
+|------|-----------|
+| **218 H** | Al-Ma'mun impose le dogme, écrit aux gouverneurs |
+| **218 H** | Mort d'al-Ma'mun, al-Mu'tasim continue l'épreuve |
+| **220 H** | L'Imam Ahmad est libéré, mais surveillé |
+| **227 H** | Al-Wathiq continue la persécution |
+| **232 H** | **Al-Mutawakkil** met fin à l'épreuve et restaure la Sunnah |
+
+<div class="quote-box">
+
+**L'Imam Ahmad a dit :**
+
+**« سبحانك هذا بهتان عظيم! كيف أقول ما لم يقله الله ولا رسوله ﷺ! »**
+
+**« Gloire à Toi ! C'est une calomnie énorme ! Comment dirais-je ce qu'Allah et Son Messager ﷺ n'ont pas dit ! »**
+
+</div>
+
+---
+
+## ⚖️ Partie 4 : Comparaison et Réfutation
+
+### Tableau Comparatif
+
+| Question | Jahmiyyah | Mu'tazilah | Ahl as-Sunnah |
+|----------|-----------|------------|---------------|
+| **Attributs d'Allah** | ❌ Négation totale | ❌ Négation partielle | ✅ Affirmation sans ressemblance |
+| **Le Coran** | ❌ Créé | ❌ Créé | ✅ Parole d'Allah non créée |
+| **Le Destin** | ⚠️ Déterminisme (Jabr) | ❌ Négation (Qadar) | ✅ Affirmation avec choix humain |
+| **La Foi** | ⚠️ Connaissance seule | ⚠️ Croyance + actes (pas de distinction) | ✅ Croyance + parole + actes |
+| **Grand pécheur** | ⚠️ Croyant parfait | ❌ Ni croyant ni kafir, éternel en Enfer | ✅ Croyant imparfait, sous la volonté d'Allah |
+| **Vision d'Allah** | ❌ Impossible | ❌ Impossible | ✅ Les croyants verront Allah |
+
+### Réfutation de la Négation des Attributs
+
+| Leur argument | Réponse |
 |---------------|---------|
-| Les Noms | Allah n'a pas de vrais noms |
-| Les Attributs | Négation de tous les attributs |
-| L'argument | Pour ne pas ressembler aux créatures |
+| « Affirmer les Attributs = ressemblance » | ﴿لَيْسَ كَمِثْلِهِ شَيْءٌ وَهُوَ السَّمِيعُ الْبَصِيرُ﴾ — Il a affirmé l'Ouïe et la Vue **après** avoir nié la ressemblance |
+| « Affirmer = pluralité des éternels » | Les Attributs ne sont pas des entités séparées |
+| « La raison nie les Attributs » | La raison saine ne contredit pas la Révélation |
 
-#### 2. La création du Coran
-- Le Coran est créé et n'est pas la vraie parole d'Allah
-- C'est cette thèse pour laquelle l'Imam Ahmad رحمه الله fut éprouvé
+### Réfutation de la « Création du Coran »
 
-#### 3. Le déterminisme (Jabr)
-- Le serviteur est contraint, sans choix
-- Comme une plume au vent
+<div class="quote-box">
 
-#### 4. Le Murji'isme extrême
-- La foi est seulement la connaissance
-- Pharaon était croyant car il connaissait Allah !
+**La preuve :**
 
-### La réfutation des Jahmiyyah
+﴿ أَلَا لَهُ الْخَلْقُ وَالْأَمْرُ ﴾
 
-Parmi les plus grands ouvrages écrits contre eux :
-- **"Ar-Radd 'ala al-Jahmiyyah"** de l'Imam Ahmad
-- **"Khalq Af'al al-'Ibad"** d'al-Bukhari
-- **"Al-Ibanah"** d'Ibn Battah
+**« N'est-ce pas à Lui qu'appartiennent la création ET le commandement ? »** [Al-A'raf : 54]
+
+Allah a **distingué** entre la création (al-khalq) et le commandement (al-amr). Le Coran est un commandement, pas une création.
+
+</div>
 
 ---
 
-## Deuxième Secte : Les Mu'tazilah
+## 📖 Partie 5 : Récit — La Fermeté d'Ahmad et le Salut de la Oumma
 
-### Définition et Origine
-- **Fondateur** : Wasil ibn 'Ata' (m. 131H)
-- **Raison du nom** : Il s'est "retiré" (i'tazala) du cercle d'al-Hasan al-Basri quand il l'a contredit sur la question de l'auteur du grand péché
-- **Origine** : Basra au début du deuxième siècle
+<div class="scene-box">
 
-### Les Cinq Principes des Mu'tazilah
+**🎭 SCÈNE : Après l'Épreuve — Bagdad, Après 232 H**
 
-#### 1. Le Tawhid (selon leur conception)
-- Négation des attributs essentiels d'Allah
-- Ils s'appellent "les gens du Tawhid"
-- Ils disent : affirmer les attributs implique la multiplicité des éternels !
+*L'Imam Ahmad, âgé et marqué par les fouets, enseigne.*
 
-#### 2. La Justice (selon leur conception)
-- Négation du destin
-- Allah ne crée pas les actes des serviteurs
-- Le serviteur crée son propre acte
+**Un étudiant** : « Ô Imam, pourquoi as-tu enduré tout cela ? Tu aurais pu faire la dissimulation (taqiyyah) ! »
 
-#### 3. La position intermédiaire
-- L'auteur du grand péché n'est ni croyant ni mécréant
-- Il est dans une position entre les deux
-- Son statut ici-bas : pervers (fasiq)
-- Son statut dans l'au-delà : éternel en Enfer
+**L'Imam Ahmad** : « Si j'avais cédé, les gens auraient dit : "L'Imam Ahmad a dit que le Coran est créé !" Et cette parole serait devenue croyance pour les générations futures. J'ai préféré souffrir moi-même que de faire souffrir la croyance de la Oumma. »
 
-#### 4. L'exécution de la menace
-- Celui qui entre en Enfer n'en sortira jamais
-- Pas d'intercession pour les auteurs de grands péchés
+**Un autre étudiant** : « N'avais-tu pas peur de la mort ? »
 
-#### 5. L'ordre du bien et l'interdiction du mal
-- Par la force et l'épée si possible
-- Ils ont autorisé la rébellion contre le gouverneur injuste
+**L'Imam Ahmad** : « J'avais peur de **rencontrer Allah** en ayant dit ce qu'Il n'a pas dit. »
 
-### Les chefs des Mu'tazilah
-1. **Wasil ibn 'Ata'** (m. 131H) — Le fondateur
-2. **'Amr ibn 'Ubayd** (m. 144H)
-3. **Abu al-Hudhayl al-'Allaf** (m. 235H)
-4. **An-Nazzam** (m. 231H)
-5. **Al-Jahiz** (m. 255H) — Littérateur et théologien
-6. **Al-Qadi 'Abd al-Jabbar** (m. 415H)
-7. **Az-Zamakhshari** (m. 538H) — Auteur d'al-Kashshaf
+</div>
 
-### L'épreuve de la création du Coran
+<div class="quote-box">
 
-Sous le règne d'al-Ma'mun (218H), le calife adopta le dogme mu'tazilite et mit les savants à l'épreuve :
-- **L'Imam Ahmad** resta ferme et endura la prison et les coups
-- L'épreuve continua sous al-Mu'tasim et al-Wathiq
-- Elle prit fin avec l'avènement d'al-Mutawakkil (232H)
+**Ali ibn al-Madini a dit :**
+
+**« إن الله أعز هذا الدين برجلين: أبي بكر يوم الردة، وأحمد يوم المحنة »**
+
+**« Allah a honoré cette religion par deux hommes : Abu Bakr le jour de l'apostasie, et Ahmad le jour de l'épreuve. »**
+
+</div>
 
 ---
 
-## Comparaison entre Jahmiyyah et Mu'tazilah
+## 🎯 Partie 6 : Cas Pratiques Contemporains
 
-| Question | Jahmiyyah | Mu'tazilah |
-|----------|-----------|------------|
-| Attributs | Négation totale | Négation des attributs essentiels |
-| Destin | Déterminisme | Négation |
-| Foi | La connaissance seulement | Croyance et actes |
-| Création du Coran | Oui | Oui |
-| Auteur du grand péché | Croyant | Position intermédiaire |
+### Cas 1 : L'Interprétation Allégorique des Attributs
 
----
+<div class="scene-box">
 
-## La position des Salaf envers ces deux sectes
+**🎭 SCÈNE : Le Cours de Théologie — Aujourd'hui**
 
-### Paroles des Salaf
+**Professeur** : « Quand Allah dit "يَدُ اللَّهِ" (la Main d'Allah), cela signifie "la puissance". Et "اسْتَوَىٰ عَلَى الْعَرْشِ" (Il s'est établi sur le Trône) signifie "Il a dominé". »
 
-> L'Imam Ahmad a dit : "Celui qui dit que le Coran est créé est mécréant."
+**Étudiant** : « Mais les Salaf ne l'ont pas interprété ainsi ! »
 
-> Sufyan ath-Thawri a dit : "Celui qui dit que le Coran est créé a dit une parole énorme."
+**Professeur** : « Les Salaf étaient simples. Nous, nous comprenons mieux avec la philosophie. »
 
-### Le jugement sur eux
-- Les Jahmiyyah extrémistes : **mécréants** selon beaucoup de Salaf
-- Les Mu'tazilah : **innovateurs égarés**
+**Étudiant** : « L'Imam Malik a dit : "L'Istawa est connu, le comment est inconnu, la foi en cela est obligatoire, et poser la question est une innovation." Pourquoi l'interpréter autrement ? »
+
+</div>
+
+**Règle** : ✅ La méthodologie des Salaf : **affirmer** les Attributs sans les interpréter, les nier, les détailler, ou les comparer.
 
 ---
 
-## 📖 Récits des Salaf : La fermeté de l'Imam Ahmad dans l'épreuve
+### Cas 2 : « La Raison Juge le Texte »
 
-Quand le calife al-Ma'mun adopta le dogme des Mu'tazilah sur la création du Coran, il mit les savants à l'épreuve et les força à professer cette doctrine. L'Imam Ahmad ibn Hanbal رحمه الله fut convoqué.
+**Situation** : Un philosophe dit : « Si un texte contredit la raison, on le rejette ou on l'interprète ! »
 
-On lui dit : *"Dis : Le Coran est créé !"* Il refusa.
-
-Il fut emprisonné et fouetté jusqu'à l'évanouissement, mais il ne bougea pas de la vérité.
-
-L'Imam Ahmad dit : *"Si le savant répond par dissimulation et l'ignorant par ignorance, quand donc la vérité sera-t-elle manifeste ?"*
-
-Quelqu'un lui dit en prison : *"Ô Abu 'Abdullah, reposez-vous et dites-le de vos langues tandis que vos cœurs sont sereins !"*
-
-Ahmad répondit : *"Si le savant répond par la dissimulation et l'ignorant par l'ignorance, quand la vérité apparaîtra-t-elle ?"*
-
-L'épreuve dura dix-huit mois, et l'Imam Ahmad resta ferme, devenant ainsi une cause de préservation de la Sunnah.
-
-**La leçon à retenir** : La fermeté sur la vérité en temps de tribulation est le plus grand jihad. Sans la fermeté d'Ahmad, la croyance de la Oumma aurait été perdue.
+| Réponse |
+|---------|
+| 1. La raison **saine** ne contredit jamais la Révélation **authentique** |
+| 2. Si apparente contradiction, c'est soit un **faux raisonnement**, soit un **texte mal compris** |
+| 3. Ibn Taymiyyah a réfuté cela dans « Dar' Ta'arud al-'Aql wa an-Naql » (11 volumes) |
+| 4. La Révélation est **certaine**, la raison peut se tromper |
 
 ---
 
-## 🎯 Cas pratiques contemporains : Les effets du Mu'tazilisme et du Jahmisme
+### Cas 3 : La Vision d'Allah
 
-### Cas 1 : L'interprétation allégorique des attributs
-Quelqu'un dit : *"La Main dans le Coran signifie la puissance, et l'Établissement (Istawa) signifie la domination, car Allah est exempt de la corporéité !"*
+**Situation** : Quelqu'un dit : « Il est impossible de voir Allah, car la vision implique qu'Il soit dans une direction, donc limité ! »
 
-**Question** : Cette interprétation allégorique est-elle correcte ?
+<div class="quote-box">
 
-**Réponse** : ❌ Non. C'est l'interprétation des Mu'tazilah et des Jahmiyyah. La méthodologie des Salaf : Affirmer les attributs tels qu'ils sont venus, sans déformation ni négation, et sans modalité ni ressemblance.
+**La preuve du Coran :**
 
----
+﴿ وُجُوهٌ يَوْمَئِذٍ نَّاضِرَةٌ ۞ إِلَىٰ رَبِّهَا نَاظِرَةٌ ﴾
 
-### Cas 2 : Le destin et la responsabilité
-Quelqu'un dit : *"Si Allah a décrété le péché pour moi, pourquoi me jugera-t-Il ? Je suis contraint !"*
+**« Des visages, ce jour-là, seront rayonnants, contemplant leur Seigneur. »** [Al-Qiyamah : 22-23]
 
-**Question** : L'être humain est-il contraint dans ses actes ?
+**La preuve de la Sunnah :**
 
-**Réponse** : ❌ Non. C'est l'ambiguïté des Jabriyyah. La vérité est qu'Allah est le Créateur de toute chose, y compris les actes des serviteurs, mais le serviteur a une volonté et un choix pour lesquels il sera jugé.
+**« إنكم سترون ربكم كما ترون القمر ليلة البدر »**
 
----
+**« Vous verrez votre Seigneur comme vous voyez la lune la nuit de la pleine lune. »** [Al-Bukhari 554, Muslim 633]
 
-### Cas 3 : Le jugement par la raison
-Un philosophe dit : *"La raison est le premier juge, et ce qui contredit la raison dans les textes doit être rejeté ou interprété !"*
+</div>
 
-**Question** : La raison prime-t-elle sur le texte ?
-
-**Réponse** : ❌ Non. C'est le principe du Mu'tazilisme. Selon Ahl as-Sunnah : La raison saine ne contredit pas la révélation authentique, et quand on imagine une contradiction, on donne la priorité au texte.
+**Règle** : ✅ La vision d'Allah au Paradis est établie par des **textes mutawatir**. Les Mu'tazilah l'ont niée en suivant leurs principes corrompus.
 
 ---
 
-### Cas 4 : La négation de la vision d'Allah
-Quelqu'un dit : *"Il est impossible de voir Allah le Jour de la Résurrection car la vision implique la corporéité !"*
+## 💡 Pause et Réflexion
 
-**Question** : Ahl as-Sunnah nie-t-elle la vision d'Allah le Jour de la Résurrection ?
+### La Leçon de l'Épreuve
 
-**Réponse** : ❌ Non. La vision d'Allah le Jour de la Résurrection est établie par le Coran et la Sunnah mutawatir. Allah تعالى dit : {Des visages ce jour-là seront rayonnants * Contemplant leur Seigneur}. Les Mu'tazilah l'ont niée en suivant leurs principes corrompus.
+\`\`\`
+Que nous apprend l'Épreuve de l'Imam Ahmad ?
+├── 1️⃣ La vérité peut être minoritaire
+│   └── Ahmad était seul face aux califes et aux juges
+│
+├── 2️⃣ Le savant doit tenir ferme
+│   └── "Si le savant fait la dissimulation..."
+│
+├── 3️⃣ Les conséquences dépassent l'individu
+│   └── Ce qu'Ahmad dit affecte toute la Oumma
+│
+└── 4️⃣ Allah préserve Sa religion
+    └── L'épreuve a pris fin, la Sunnah a triomphé
+\`\`\`
+
+### Questions Personnelles
+
+- Fais-tu passer ta raison avant les textes ?
+- Connais-tu la croyance des Salaf sur les Attributs ?
+- Aurais-tu tenu ferme comme l'Imam Ahmad ?
 
 ---
 
-### Cas 5 : Le Noble Coran
-Un étudiant demande : *"Quelle est la différence entre notre affirmation que le Coran est la Parole d'Allah et l'affirmation des Mu'tazilah qu'il est créé ?"*
+## 📊 Résumé de la Leçon
 
-**Question** : Pourquoi cette question est-elle importante ?
-
-**Réponse** : ✅ Parce que l'affirmation que le Coran est créé implique qu'Allah était privé de la parole puis a parlé, ce qui est un défaut. Ahl as-Sunnah dit : Le Coran est véritablement la Parole d'Allah, Il l'a prononcé سبحانه, il n'est pas créé.
+| Concept | Définition |
+|---------|------------|
+| **Jahmiyyah** | Négateurs des Attributs — foi = connaissance |
+| **Mu'tazilah** | Raison > Révélation — cinq principes |
+| **L'Épreuve (Mihna)** | 218-232 H — les califes forcent les savants |
+| **La fermeté d'Ahmad** | A sauvé la croyance de la Oumma |
+| **Position Sunnie** | Affirmer les Attributs sans ressemblance ni négation |
 
 ---
 
-## 💡 Pause réflexion
+## 🎯 Conclusion
 
-**Question personnelle** : Si tu avais vécu à l'époque de l'Imam Ahmad et que tu avais été soumis à l'épreuve... aurais-tu tenu ferme ou aurais-tu usé d'interprétation ?
+<div class="quote-box">
 
-**Rappel :**
-- La croyance saine nécessite parfois un sacrifice pour la préserver
-- Ne place pas ta raison au-dessus des textes de la révélation
+**L'Imam ash-Shafi'i رحمه الله a dit :**
+
+**« لأن يلقى الله العبد بكل ذنب ما خلا الشرك خير له من أن يلقاه بشيء من الكلام »**
+
+**« Il vaut mieux pour le serviteur de rencontrer Allah avec tous les péchés — sauf le shirk — que de Le rencontrer avec quoi que ce soit de la théologie spéculative. »**
+
+</div>
+
+### Les Leçons Éternelles
+
+- ✅ **La Révélation prime sur la raison** — quand elles semblent s'opposer
+- ✅ **Les Attributs d'Allah sont réels** — sans ressemblance avec les créatures
+- ✅ **Le Coran est la Parole d'Allah** — non créée
+- ✅ **La fermeté des savants** préserve la religion
+- ✅ **La théologie spéculative** a égaré des générations
+
+---
+
+**Prochaine leçon : Les Asha'irah et Maturidiyyah — Le Kalam au Service de la Sunnah ?**
+
+Et Allah est le Garant du succès et le Guide vers le droit chemin.
+
+---
+
+*Ô Seigneur, augmente ma science*`;
 - Apprends la croyance des Salaf de ses sources authentiques
 - Méfie-toi des ambiguïtés théologiques répandues aujourd'hui
 
