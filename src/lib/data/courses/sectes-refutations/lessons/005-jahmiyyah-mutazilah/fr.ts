@@ -418,9 +418,3 @@ Et Allah est le Garant du succès et le Guide vers le droit chemin.
 ---
 
 *Ô Seigneur, augmente ma science*`;
-- Apprends la croyance des Salaf de ses sources authentiques
-- Méfie-toi des ambiguïtés théologiques répandues aujourd'hui
-
----
-
-*Ô Seigneur, augmente ma science*`;
