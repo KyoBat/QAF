@@ -1,314 +1,682 @@
-export const contentEn = `# Leasing (Ijarah) — Rules of Lease Contracts
+export const contentEn = `# Leasing (Ijarah) — Rules of Rental Contracts
 
-## Definition of Ijarah
+<div class="scene-box">
 
-### Linguistic Meaning
-Ijarah: derived from "ajr" (reward), hence wages are called "ajr".
+**🎬 The Scene: The First Lease Contract in History — Madyan Thousands of Years Ago**
 
-### Technical Meaning
-> A contract for a known permissible usufruct, from a defined or described asset, for a known duration, in exchange for a known compensation.
+*After Moses (peace be upon him) had watered the two women, one of them came to him walking with shyness...*
+
+**One of the Daughters** *(to her father Shu'ayb)*: O father, hire him! The best you can hire is **the strong and trustworthy**!
+
+**Shu'ayb (peace be upon him)** *(to Moses)*: I want to marry you to one of my two daughters...
+
+**Moses** *(waiting)*: ...
+
+**Shu'ayb**: On condition that you **serve me for eight years**, and if you complete ten, it will be from you!
+
+**The Narrator**: *This was the first lease contract mentioned in the Quran — remuneration for work, with a defined duration and known conditions!*
+
+</div>
 
 ---
 
-## The Legitimacy of Ijarah
+## Definition of Leasing (Ijarah)
+
+<div class="quote-box">
+
+**📜 Linguistic and Technical Meaning**
+
+**Linguistically**: Al-Ijarah comes from al-ajr (reward), hence the name wage given to remuneration for work.
+
+**In legal terminology**: A contract for a lawful known usufruct, from a known or described item under guarantee, for a known duration, in exchange for a known compensation.
+
+</div>
+
+\`\`\`
+┌─────────────────────────────────────────────────────────────────────┐
+│              📋 Elements of the Lease Definition                     │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│                         Contract                                     │
+│                           │                                          │
+│                           ▼                                          │
+│   ┌─────────────────────────────────────────────────────────┐       │
+│   │                  For a usufruct                         │       │
+│   ├─────────────────────────────────────────────────────────┤       │
+│   │  ✓ Lawful ───────► No lease for the unlawful           │       │
+│   │  ✓ Known ────────► By description or observation       │       │
+│   │  ✓ From known item ► This apartment or this car        │       │
+│   │  ✓ Known duration ► Year, month, day                   │       │
+│   │  ✓ Known compensation ► 1000 riyals for example        │       │
+│   └─────────────────────────────────────────────────────────┘       │
+│                                                                      │
+└─────────────────────────────────────────────────────────────────────┘
+\`\`\`
+
+---
+
+## Legitimacy of Leasing
 
 ### From the Quran
-> Allah تعالى says: ﴿One of them said: "O my father, hire him. Indeed, the best one you can hire is the strong and trustworthy"﴾ [Al-Qasas: 26]
 
-> And He says: ﴿If they breastfeed [the child] for you, give them their payment﴾ [At-Talaq: 6]
+<div class="quote-box">
 
-### From the Prophetic Sunna
-> Aisha رضي الله عنها said: "The Messenger of Allah ﷺ and Abu Bakr hired a man from Bani ad-Dil as an expert guide." [Reported by al-Bukhari]
+**📜 Quranic Proofs**
 
-> The Prophet ﷺ said: "Give the worker his wages before his sweat dries." [Reported by Ibn Majah — graded da'if by some muhaddithin, but its meaning is sound and supported by other authentic texts]
+> ﴿One of them said: "O father, hire him! The best you can hire is the strong and trustworthy."﴾
+> — Al-Qasas: 26
 
-### Consensus
-The community is unanimous on the permissibility of ijarah due to people's need for it.
+> ﴿If they breastfeed for you, give them their wages.﴾
+> — At-Talaq: 6
+
+</div>
+
+### From the Prophetic Sunnah
+
+<div class="quote-box">
+
+**📜 Proofs from Sunnah**
+
+> 'Aisha (may Allah be pleased with her) said: **"The Messenger of Allah ﷺ and Abu Bakr hired a man from Banu ad-Dil as an expert guide."**
+> — Narrated by al-Bukhari
+
+> The Prophet ﷺ said: **"Give the worker his wage before his sweat dries."**
+> — Narrated by Ibn Majah
+
+</div>
+
+<div class="scene-box">
+
+**🎬 The Story of the Hijra — The First Prophetic Lease Contract**
+
+*Before the Hijra, the Prophet ﷺ and Abu Bakr (may Allah be pleased with him) prepare for the secret journey...*
+
+**Abu Bakr** *(whispering)*: O Messenger of Allah, we need a guide who knows the way!
+
+**The Prophet ﷺ**: Hire a man from Banu ad-Dil, an expert guide.
+
+**Abu Bakr**: But he's not Muslim!
+
+**The Prophet ﷺ**: **Trustworthiness is the criterion. We entrust him with our route.**
+
+**The Narrator**: *Thus Abdullah ibn Urayqit, the polytheist, was their guide — because leasing doesn't require the employee to be Muslim!*
+
+</div>
+
+### The Consensus
+
+The Ummah is unanimous on the permissibility of leasing due to people's need — no one can do without the benefit of others.
 
 ---
 
-## The Pillars and Conditions of Ijarah
+## The Pillars of Leasing
+
+\`\`\`
+┌─────────────────────────────────────────────────────────────────────┐
+│              🏛️ The Four Pillars of the Lease Contract              │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│   ┌─────────────┐   ┌─────────────┐   ┌─────────────┐   ┌─────────┐ │
+│   │             │   │             │   │             │   │         │ │
+│   │ Contracting │   │   Formula   │   │   Usufruct  │   │  Rent   │ │
+│   │   Parties   │   │             │   │             │   │         │ │
+│   │   Lessor    │   │   Offer     │   │   Known     │   │ Known   │ │
+│   │   Lessee    │   │ Acceptance  │   │   Lawful    │   │ Received│ │
+│   │             │   │             │   │             │   │         │ │
+│   └─────────────┘   └─────────────┘   └─────────────┘   └─────────┘ │
+│         │                 │                 │               │       │
+│         ▼                 ▼                 ▼               ▼       │
+│   ┌─────────────────────────────────────────────────────────────┐   │
+│   │        Defect in any pillar = Nullity of contract          │   │
+│   └─────────────────────────────────────────────────────────────┘   │
+│                                                                      │
+└─────────────────────────────────────────────────────────────────────┘
+\`\`\`
 
 ### First Pillar: The Contracting Parties
 
-**Their conditions:**
-1. Legal capacity: being of sound mind and discerning
-2. Consent: the contract must be consensual
-3. Ownership or authority: the lessor must own the usufruct or have the right to dispose
+<div class="scene-box">
+
+**🎬 Conditions of the Contracting Parties**
+
+**① Capacity**
+- Being of sound mind and discernment
+- The contract of the insane and undiscerning minor is not valid
+
+**② Consent**
+- No coercion in the contract
+- ﴿Unless it be a trade by mutual consent﴾
+
+**③ Ownership or Authority**
+- The lessor owns the usufruct or has the right to dispose
+- The agent leases by proxy
+
+</div>
 
 ### Second Pillar: The Formula
 
-**Its types:**
-- Verbal: "I lease to you" and "I have leased"
-- Action: what indicates leasing according to custom
-- Written: written contracts
+| Type | Example | Status |
+|------|---------|--------|
+| Speech | "I rent you this apartment" — "I accept" | Explicit |
+| Action | Getting in a taxi and sitting | Tacit exchange |
+| Writing | The written contract | Valid |
 
 **Its conditions:**
-1. Agreement between offer and acceptance
-2. Their connection in the session
-3. Absence of suspensive condition
+1. Agreement of offer and acceptance
+2. Their continuity in the session
+3. Absence of suspension on an unknown future condition
 
 ### Third Pillar: The Usufruct
 
-**Conditions for the usufruct:**
-1. Being known: by description or observation
-2. Being permissible: it is forbidden to lease for unlawful purposes
-3. Being possible to deliver
-4. Belonging to the lessee, not the lessor
+\`\`\`
+┌─────────────────────────────────────────────────────────────────────┐
+│              ✅ Conditions of the Leased Usufruct                    │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│  ① That it be known                                                 │
+│     • By description: "2 bedroom apartment with kitchen and bath"   │
+│     • By observation: seeing the leased item                        │
+│                                                                      │
+│  ② That it be lawful                                                │
+│     • ✅ Housing, transport, lawful work                            │
+│     • ❌ Premises for selling alcohol, gambling hall                │
+│                                                                      │
+│  ③ That it can be delivered                                         │
+│     • ❌ Renting a stolen car                                       │
+│     • ❌ Renting an apartment occupied by another tenant            │
+│                                                                      │
+│  ④ That it be for the lessee, not the lessor                        │
+│     • The usufruct transfers to the lessee                          │
+│     • The lessor is only entitled to the rent                       │
+│                                                                      │
+└─────────────────────────────────────────────────────────────────────┘
+\`\`\`
 
 ### Fourth Pillar: The Rent
 
-**Conditions for the rent:**
-1. Being known: in quantity and quality
-2. Being valuable property
-3. Being possible to deliver
+<div class="quote-box">
+
+**📜 Conditions of the Rent**
+
+**① That it be known** — in quantity and quality
+- 1000 riyals per month ✅
+- "Whatever you see fit" ❌
+
+**② That it be valuable property**
+- Money, or usufruct, or item
+- No rent in unlawful things
+
+**③ That it can be delivered**
+- Not valid with non-existent property
+
+</div>
 
 ---
 
-## Types of Ijarah
+## Types of Leasing
 
-### First Type: Leasing of Assets
+\`\`\`
+┌─────────────────────────────────────────────────────────────────────┐
+│              📊 Types of Lease Contracts                             │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│                         Leasing                                      │
+│                            │                                         │
+│          ┌─────────────────┼─────────────────┐                      │
+│          │                 │                 │                      │
+│          ▼                 ▼                 ▼                      │
+│   ┌────────────┐   ┌────────────┐   ┌────────────┐                  │
+│   │ Leasing of │   │ Guaranteed │   │ Leasing of │                  │
+│   │   Assets   │   │  Leasing   │   │   Labor    │                  │
+│   └────────────┘   └────────────┘   └────────────┘                  │
+│         │                 │                 │                       │
+│   Specific          Described car     People's                      │
+│   apartment         not specified     services                      │
+│   Specific car      Under guarantee   Defined work                  │
+│   Defined land                        or defined duration           │
+│                                                                      │
+└─────────────────────────────────────────────────────────────────────┘
+\`\`\`
 
-**Definition:**
-A contract for the usufruct of a specific asset like renting houses, vehicles, and lands.
+### First Type: Leasing of Specific Assets
 
-**Examples:**
-- Renting an apartment for residence
-- Renting a car for transportation
-- Renting land for agriculture
+<div class="scene-box">
 
-**Rules:**
+**🎬 Examples of Asset Leasing**
+
+**Mohammed**: I want to rent **this apartment** (pointing to it) for a year.
+
+**The Owner**: Agreed, the rent is 12000 riyals annually.
+
+**Mohammed**: I accept.
+
+✅ **This is a lease contract for a specific asset** — the apartment is identified by observation.
+
+</div>
+
 | Rule | Detail |
 |------|--------|
-| Delivery | The asset must be delivered to the lessee |
+| Delivery | The asset must be handed to the lessee |
 | Maintenance | On the owner unless otherwise stipulated |
-| Destruction | If the asset is destroyed, the contract is terminated |
+| Destruction | If the asset is destroyed without abuse, the contract is terminated |
 
-### Second Type: Leasing in Liability
+### Second Type: Guaranteed Leasing
 
-**Definition:**
-A contract for a usufruct described in liability.
+<div class="scene-box">
 
-**Examples:**
-- Renting a described car (not specified)
-- Hiring a worker for a specific job
+**🎬 Example of Guaranteed Leasing**
 
-### Third Type: Hiring of Labor
+**Ahmed**: I want to rent a Toyota Camry 2024 for a week.
 
-**Definition:**
-Hiring people to perform a specific work.
+**The Company**: Agreed, we have several cars of this type.
 
-**Categories:**
+**Ahmed**: The important thing is that it meets the mentioned specifications.
 
-**1. The Exclusive Employee:**
-- Works for one employer
-- For a specified duration
-- Example: monthly employee
+✅ **This is a guaranteed lease contract** — the car is described but not specified.
 
-**2. The Shared Employee:**
-- Works for multiple people
-- For specific work, not specific duration
-- Example: tailor and blacksmith
+</div>
+
+### Third Type: Leasing of Labor
+
+\`\`\`
+┌─────────────────────────────────────────────────────────────────────┐
+│              👷 Categories of Employees in Labor Leasing             │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│   ┌────────────────────────────┐  ┌────────────────────────────┐    │
+│   │                            │  │                            │    │
+│   │   The Exclusive Employee  │  │    The Shared Employee    │    │
+│   │   ─────────────────────    │  │   ─────────────────────    │    │
+│   │                            │  │                            │    │
+│   │  • Works for one employer │  │  • Works for multiple     │    │
+│   │  • Defined duration        │  │    people                 │    │
+│   │    (month/year)            │  │  • Defined work, not      │    │
+│   │  • Wage due for duration  │  │    defined duration       │    │
+│   │                            │  │  • Wage due upon work     │    │
+│   │                            │  │    completion             │    │
+│   │  Ex: Monthly employee     │  │  Ex: Tailor, lawyer       │    │
+│   │      Daily worker         │  │      Doctor, engineer     │    │
+│   │      Private driver       │  │      Plumber, electrician │    │
+│   │                            │  │                            │    │
+│   └────────────────────────────┘  └────────────────────────────┘    │
+│                                                                      │
+└─────────────────────────────────────────────────────────────────────┘
+\`\`\`
 
 ---
 
-## Miscellaneous Rules on Ijarah
+## Guarantee Rules in Leasing
 
-### Liability for the Leased Asset
+### The Fundamental Rule
 
-**The principle:**
-> The lessee is a trustee; they are not liable except for abuse or negligence.
+<div class="quote-box">
 
-**Abuse:**
-Using the asset differently than what was authorized.
+**📜 The Principle for the Lessee**
 
-**Negligence:**
-Failing to preserve the asset as required.
+> **The lessee is a trustee, he only guarantees in case of abuse or negligence.**
 
-### Selling the Leased Asset
+</div>
+
+\`\`\`
+┌─────────────────────────────────────────────────────────────────────┐
+│              ⚖️ When Does the Lessee Guarantee?                      │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│   ┌─────────────────────┐        ┌─────────────────────┐            │
+│   │       Abuse         │        │     Negligence      │            │
+│   │   ─────────────     │        │   ─────────────     │            │
+│   │                     │        │                     │            │
+│   │ Using the asset     │        │ Failing to protect  │            │
+│   │ other than intended │        │ the asset           │            │
+│   │                     │        │                     │            │
+│   │ Example:            │        │ Example:            │            │
+│   │ • Rented for living │        │ • Leaving the door  │            │
+│   │   made it a storage │        │   open              │            │
+│   │ • Rented a car for  │        │ • Neglecting the    │            │
+│   │   the city, traveled│        │   car in the sun    │            │
+│   │   with it           │        │ • Not maintaining   │            │
+│   │                     │        │   the refrigerator  │            │
+│   │                     │        │                     │            │
+│   │    He guarantees ✓  │        │    He guarantees ✓  │            │
+│   └─────────────────────┘        └─────────────────────┘            │
+│                                                                      │
+│   ═══════════════════════════════════════════════════════════════   │
+│                                                                      │
+│   ┌─────────────────────────────────────────────────────────────┐   │
+│   │              Destruction without abuse                      │   │
+│   │             ─────────────────                               │   │
+│   │                                                             │   │
+│   │  If the asset is destroyed by accident or divine decree    │   │
+│   │  without abuse or negligence                                │   │
+│   │                                                             │   │
+│   │              The lessee does not guarantee ✓                │   │
+│   └─────────────────────────────────────────────────────────────┘   │
+│                                                                      │
+└─────────────────────────────────────────────────────────────────────┘
+\`\`\`
+
+---
+
+## Selling the Leased Asset
+
+<div class="scene-box">
+
+**🎬 Common Question**
+
+**Said**: I rented an apartment for a year, and in the middle of the period, the owner sold the building!
+
+**The Question**: Does the lease contract end?
+
+</div>
 
 | Situation | Rule |
 |-----------|------|
-| Sale to lessee | Permitted |
-| Sale to third party | Permitted and the lease contract remains valid |
+| Sale to the lessee | ✅ Permitted — he becomes owner and rent ceases |
+| Sale to a third party | ✅ Permitted — **and the lease contract remains in effect** |
 
-### Termination of Ijarah
+<div class="quote-box">
 
-**Causes of termination:**
-1. Expiration of the agreed duration
-2. Mutual termination between parties
-3. Destruction of the leased asset
-4. Loss of the intended usufruct
+**📜 The Rule**
+
+> Leasing is a binding contract, it is not terminated by the sale of the leased asset. The new buyer takes possession of the asset after the lease period ends.
+
+</div>
 
 ---
 
-## Lease-to-Own (Ijarah Muntahia bi-Tamlik)
+## Termination of the Lease Contract
 
-### Definition
-A lease contract that includes a promise to transfer ownership to the lessee at the end of the period.
+\`\`\`
+┌─────────────────────────────────────────────────────────────────────┐
+│              ⏰ Causes of Lease Contract Termination                 │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│  ① End of the agreed duration                                       │
+│     • The contract ends automatically                               │
+│     • The asset must be returned to the lessor                      │
+│                                                                      │
+│  ② Mutual termination                                               │
+│     • By mutual agreement                                           │
+│     • Before the end of the duration                                │
+│                                                                      │
+│  ③ Destruction of the leased asset                                  │
+│     • Total destruction = contract termination                      │
+│     • Partial destruction = option for the lessee                   │
+│                                                                      │
+│  ④ Loss of the intended usufruct                                    │
+│     • Rented land for farming, water was cut off                   │
+│     • Rented a shop, lockdown was imposed                          │
+│                                                                      │
+└─────────────────────────────────────────────────────────────────────┘
+\`\`\`
 
-### Its Ruling
-Contemporary scholars have differed on it:
+---
 
-**First opinion: Permissible with conditions**
-- The promise of ownership must be separate from the lease contract
-- Transfer must be through a new contract (gift or symbolic sale)
-- The lessee must not bear the loss of the asset
+## Lease Ending with Ownership (Hire-Purchase)
 
-**Second opinion: Prohibition**
-- For combining two different contracts in one
-- For uncertainty in the outcome
+<div class="quote-box">
 
-### The Shariah-Compliant Alternative
-1. An independent lease contract
-2. Then a promise to sell at the end of the period
-3. Then an independent sale contract
+**📜 Definition**
+
+**Lease Ending with Ownership**: A lease contract including a promise to transfer ownership of the asset to the lessee at the end of the period.
+
+</div>
+
+### Its Ruling — Contemporary Scholars' Disagreement
+
+\`\`\`
+┌─────────────────────────────────────────────────────────────────────┐
+│       ⚖️ Scholars' Views on Hire-Purchase                           │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│   ┌────────────────────────────┐  ┌────────────────────────────┐    │
+│   │                            │  │                            │    │
+│   │  First View: Permitted    │  │  Second View: Prohibited  │    │
+│   │  under conditions         │  │                            │    │
+│   │                            │  │                            │    │
+│   │ • Separate the promise    │  │ • Two contracts in one     │    │
+│   │   from the lease contract │  │ • Uncertainty about the    │    │
+│   │ • Transfer by new         │  │   outcome                  │    │
+│   │   contract (gift or       │  │ • Gharar in the true       │    │
+│   │   symbolic sale)          │  │   nature of the contract   │    │
+│   │ • Lessee doesn't bear     │  │                            │    │
+│   │   asset destruction       │  │                            │    │
+│   │                            │  │                            │    │
+│   └────────────────────────────┘  └────────────────────────────┘    │
+│                                                                      │
+└─────────────────────────────────────────────────────────────────────┘
+\`\`\`
+
+### The Unanimously Accepted Lawful Alternative
+
+<div class="scene-box">
+
+**🎬 The Correct Method**
+
+**Step ①**: Independent lease contract with monthly payments
+
+**Step ②**: Promise from the owner to sell at the end of the period
+
+**Step ③**: Independent sale contract at the end (symbolic price or gift)
+
+**Result**: Two separate contracts, no problem!
+
+</div>
+
+---
+
+## 📖 From the Righteous Predecessors: The Employee's Honesty
+
+<div class="scene-box">
+
+**🎬 'Umar ibn 'Abd al-'Aziz and the Treasury Lamp**
+
+*In the caliphate palace, 'Umar ibn 'Abd al-'Aziz works on Muslim affairs...*
+
+**The Servant**: O Commander of the Faithful, have you finished the official documents?
+
+**'Umar** *(extinguishing the lamp)*: Yes, I'm done.
+
+**The Servant** *(surprised)*: But you want to read a personal letter!
+
+**'Umar** *(lighting another lamp)*: This is my personal lamp.
+
+**The Servant**: What's the difference?
+
+**'Umar**: **That one is the lamp of the Muslims' treasury, it's not permissible for me to use it for my personal affairs. I am their employee!**
+
+</div>
+
+<div class="quote-box">
+
+**📜 The Lesson**
+
+The employee is a trustee of what he is employed for, he does not betray in time, nor in money, nor in resources!
+
+</div>
 
 ---
 
 ## 🎯 Contemporary Cases: Judge for Yourself!
 
-### Case 1: Renting an Apartment on Airbnb
+### Case 1: Apartment Rental on Airbnb
 
-**Abdullah** owns an apartment and rents it on Airbnb for short periods (daily or weekly).
+<div class="scene-box">
 
-**Question**: Is this permissible?
+**❓ The Question**
 
-**Answer**: 
-- ✅ **Permissible** with conditions:
-  - The tenant must not use it for unlawful purposes
-  - The rent must be known
-  - The usufruct must be permissible
+Abdullah owns an apartment and rents it on the Airbnb app for short periods (day or week).
+
+Is this permitted?
+
+</div>
+
+**The Answer**: 
+
+✅ **Permitted** under conditions:
+- That the tenant doesn't use it for unlawful purposes
+- That the rent is known
+- That the usufruct is lawful and known
 
 ---
 
 ### Case 2: Netflix / Spotify Subscription
 
-**Fatimah** pays a monthly subscription for a movie or music streaming service.
+<div class="scene-box">
 
-**Question**: Is this a valid lease contract?
+**❓ The Question**
 
-**Answer**:
-- **Regarding the contract**: ✅ Valid lease (known rent for known usufruct)
-- **Regarding the content**: ⚠️ Depends on what is watched
-  - Permissible documentaries: allowed
-  - Music and forbidden content: not allowed
+Fatima pays a monthly subscription for a movie or music streaming service.
+
+Is this a valid lease contract?
+
+</div>
+
+**The Answer**:
+
+| Aspect | Rule |
+|--------|------|
+| The contract itself | ✅ Valid lease (known rent for known usufruct) |
+| The content | ⚠️ Depends on what is watched |
+
+- Lawful documentaries: ✅ Permitted
+- Music and unlawful content: ❌ Not permitted
 
 ---
 
-### Case 3: Car Rental with Driver (Uber)
+### Case 3: Uber Driver
 
-**Khalid** works as an Uber driver with his own car.
+<div class="scene-box">
 
-**Question**: What type of contract is this?
+**❓ The Question**
 
-**Answer**: 
-- This is a **labor lease contract** + **usufruct lease**
-- ✅ Permissible with conditions:
-  - Adhering to Shariah rules (not transporting to forbidden places)
-  - Avoiding seclusion with unrelated women
+Khaled works as an Uber driver with his own car.
+
+What type of contract is this?
+
+</div>
+
+**The Answer**: 
+
+- This is a contract of **labor leasing** + **usufruct leasing**
+- ✅ Permitted under conditions:
+  - Complying with Sharia rules (not transporting to unlawful places)
+  - No seclusion with an unrelated woman
 
 ---
 
 ### Case 4: Freelance Work
 
-**Ahmad** is a graphic designer working on Fiverr. He charges $50 per design.
+<div class="scene-box">
 
-**Question**: What is the ruling on this contract?
+**❓ The Question**
 
-**Answer**: 
-- ✅ This is **labor lease** (shared employee)
-- Validity conditions:
-  - Specifying the required work
-  - Specifying the wage
-  - The work must be permissible (not designing for alcohol companies, for example)
+Ahmed is a graphic designer who works via the Fiverr platform. He earns $50 per design.
 
----
+What is the ruling on this contract?
 
-### Case 5: Late Payment Fees in Rent
+</div>
 
-**The landlord** stipulates to the tenant: "If you are late paying rent, you pay 100 riyals for each day of delay."
+**The Answer**: 
 
-**Question**: What is the ruling?
-
-**Answer**: 
-- ❌ **Financial penalty clause for delay = usury**
-- ✅ **Alternative**: 
-  - Terminating the contract upon delay
-  - Requiring a guarantor
+- ✅ This is **labor leasing** (shared employee)
+- Conditions of validity:
+  - Define the required work
+  - Define the wage
+  - That the work is lawful (not designing for alcohol or gambling companies)
 
 ---
 
-## 📖 Stories from the Salaf: The Worker's Wage
+### Case 5: Late Payment Fees on Rent
 
-It is reported that Umar ibn Abd al-Aziz رحمه الله would extinguish the treasury's lamp when he finished official work, and light his personal lamp if he wanted to read for himself!
+<div class="scene-box">
 
-He was asked: Why?
+**❓ The Question**
 
-He said: **"This is the Muslims' lamp; it is not permissible for me to use it for my personal affairs."**
+The landlord stipulates: "If you delay rent payment, you pay 100 riyals for each day of delay."
 
-**The lesson**: The employee is a trustee of what they are hired for; they must not betray in time or money.
+What is the ruling?
 
----
+</div>
 
-## Contemporary Applications
+**The Answer**: 
 
-### Real Estate Leasing
+❌ **The financial penalty clause for delay = usury (riba)**
 
-**Lessor's obligations:**
-- Deliver the property in habitable condition
-- Main maintenance (roof, walls, main utilities)
-- Not disturb the lessee
+\`\`\`
+┌─────────────────────────────────────────────────────────────────────┐
+│       ⚠️ Why is this Usury?                                          │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│   The late rent = debt on the lessee                                │
+│                                                                      │
+│   Increase on debt in exchange for delay = riba an-nasi'ah          │
+│                                                                      │
+│   "Every loan that generates a benefit is usury"                    │
+│                                                                      │
+└─────────────────────────────────────────────────────────────────────┘
+\`\`\`
 
-**Lessee's obligations:**
-- Pay rent on time
-- Preserve the property
-- Return it at the end of the period in its condition
-
-### Vehicle Rental
-
-**Specific rules:**
-- Determining usage (within or outside the city)
-- Determining distance if applicable
-- Determining duration
-- Responsibility for fuel and periodic maintenance
-
-### Employment Contracts
-
-**Conditions for valid employment contract:**
-1. Determining the type of work
-2. Determining salary and payment date
-3. Determining working hours
-4. Determining leaves and rights
+**✅ Lawful Alternatives**:
+- Contract termination upon delay
+- Requiring a solvent guarantor
+- Advance rent payment
 
 ---
 
-## 💡 Pause and Reflect
+## 💡 Stop and Reflect
 
-**Question for reflection**: 
+<div class="quote-box">
 
-You are an employee at a company, and the employment contract specifies 8 hours daily. But you spend one hour daily browsing social media.
+**📜 Question for Reflection**
 
-**Is this permissible in Shariah?**
+You are an employee in a company, and the work contract stipulates 8 hours per day. But you spend one hour per day browsing social media.
 
-Remember:
-- You are an employee, and the time is not yours
-- **"Give the worker his wages before his sweat dries"** = But the worker must also give the right of work
-- The money you receive for that hour: is it halal?
+**Is this lawful according to Sharia?**
 
----
+</div>
 
-## Lesson Summary
+**Reflect with me**:
 
-| Element | Rule |
-|---------|------|
-| Ijarah | Legitimate by Quran, Sunna, and consensus |
-| Usufruct | Must be known and permissible |
-| Rent | Must be known |
-| Liability | No liability except for abuse or negligence |
-| Lease-to-own | Permitted with conditions |
+🔹 You are an **employee**, and the time is not yours — it belongs to the employer
+
+🔹 **"Give the worker his wage before his sweat dries"** — but the worker must also give his due to the work!
+
+🔹 The money you receive for that hour: **is it lawful?**
+
+🔹 If the employer permits it = lawful. Otherwise = **unlawful consumption of property**!
 
 ---
 
-*My Lord, increase me in knowledge*
-`;
+## 🔑 Lesson Summary
+
+\`\`\`
+┌─────────────────────────────────────────────────────────────────────┐
+│              🎯 Summary: Leasing Rules                               │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│  ✅ Leasing = Contract for usufruct in exchange for compensation    │
+│                                                                      │
+│  ✅ The four pillars:                                                │
+│     • The contracting parties (lessor and lessee)                   │
+│     • The formula (offer and acceptance)                            │
+│     • The usufruit (known and lawful)                               │
+│     • The rent (known)                                              │
+│                                                                      │
+│  ✅ Types of leasing:                                                │
+│     • Asset leasing (apartment, car)                                │
+│     • Guaranteed leasing (described not specified)                  │
+│     • Labor leasing (exclusive and shared employee)                 │
+│                                                                      │
+│  ✅ Guarantee: No guarantee except for abuse or negligence          │
+│                                                                      │
+│  ✅ Hire-purchase: Permitted under conditions                       │
+│                                                                      │
+│  ✅ Late fees: Prohibited usury                                     │
+│                                                                      │
+└─────────────────────────────────────────────────────────────────────┘
+\`\`\`
+
+---
+
+*Lord, increase me in knowledge*`;
