@@ -1,330 +1,893 @@
-export const contentFr = `# Salam et Istisna' — Les Ventes à Terme Licites
+export const contentFr = `# Salam et Istisna' — La vente à terme licite
 
-## Première Partie : La Vente Salam
+<div class="scene-box">
+
+**🎬 La scène : Le marché de Médine — Première année de l'Hégire**
+
+*Le Messager d'Allah ﷺ arriva à Médine et trouva ses habitants pratiquant des transactions qu'ils avaient connues à l'époque pré-islamique. L'un d'eux venait voir l'agriculteur et lui donnait de l'argent à l'avance en échange d'une récolte qu'il obtiendrait dans un an ou deux...*
+
+**L'Ansari :** *(s'approchant d'un agriculteur au marché)*
+Ô Abu Untel, j'ai cinquante dinars. Je te les donne maintenant, et tu me donnes les dattes de ton palmier l'année prochaine.
+
+**L'agriculteur :** *(ayant besoin d'argent pour subvenir aux besoins de sa famille)*
+Oui, c'est ce que nous avons l'habitude de faire. Mais... *(regardant autour de lui avec hésitation)* le Prophète ﷺ est venu parmi nous, demandons-lui le jugement de cela.
+
+**Le Messager d'Allah ﷺ :** *(entendant leur question et répondant)*
+**« Quiconque fait une vente Salam, qu'il le fasse avec une mesure connue, un poids connu, jusqu'à un terme connu. »**
+
+*C'est ainsi que le Prophète ﷺ réglementa la transaction Salam : il ne l'interdit pas car les gens en avaient besoin, mais l'encadra avec des conditions qui préservent les droits de tous.*
+
+</div>
+
+---
+
+## Première partie : La vente Salam
 
 ### Définition du Salam
 
-**Étymologie :**
-Salam et salaf ont le même sens : avancer, payer d'avance.
+<div class="quote-box">
 
-**Terminologie :**
-> Vente d'un bien décrit dans la responsabilité contre un prix payé d'avance.
+**📜 Définition juridique**
 
-C'est-à-dire : payer le prix immédiatement contre une marchandise décrite qui sera livrée ultérieurement.
+**Étymologiquement :** Salam et Salaf ont le même sens, qui est **l'avancement** — c'est-à-dire avancer le paiement.
 
----
+**Techniquement :**
+> **Vente d'un bien décrit garanti par le vendeur, contre un prix payé d'avance**
+>
+> C'est-à-dire : payer le prix **maintenant**, en échange d'une marchandise décrite qui sera livrée **plus tard**.
 
-### La Légitimité du Salam
+</div>
 
-**Dans le Coran :**
-> Allah تعالى dit : ﴿Ô vous qui croyez, quand vous contractez une dette à échéance déterminée, mettez-la en écrit﴾ [Al-Baqarah : 282]
-
-Ibn Abbas رضي الله عنهما a dit : "J'atteste que le salam garanti à échéance déterminée, Allah l'a rendu licite dans Son Livre et l'a autorisé."
-
-**Dans la Sunna Prophétique :**
-> Ibn Abbas رضي الله عنهما a dit : Le Prophète ﷺ arriva à Médine alors que les gens pratiquaient le salam sur les fruits pour un an ou deux. Il dit : "Celui qui fait le salam pour quelque chose, qu'il le fasse pour une mesure connue, un poids connu, jusqu'à un terme connu." [Unanimement reconnu]
-
-**Le Consensus :**
-Les savants sont unanimes sur la licéité du salam.
-
-**La Sagesse :**
-Facilité pour le vendeur qui a besoin d'argent immédiatement, et pour l'acheteur qui obtient un prix plus bas.
-
----
-
-### Conditions de Validité du Salam
-
-**Premièrement : Conditions sur le prix (capital du salam)**
-
-1. **Être connu :** en quantité et qualité
-2. **Être reçu dans la session :** selon la majorité des savants, certains permettent un délai de trois jours
-
-**Deuxièmement : Conditions sur l'objet du salam (la marchandise)**
-
-1. **Être décrit :** d'une description qui élimine l'ignorance
-2. **Être une dette dans la responsabilité :** non un bien spécifique
-3. **Être parmi ce qui peut être déterminé par description :** comme les céréales et les tissus
-4. **Mentionner son genre, type et quantité :** comme : blé égyptien, mille kilos
-
-**Troisièmement : Conditions sur le terme**
-
-1. **Être connu :** comme un mois ou un an
-2. **Être déterminé :** non suspendu à une chose inconnue
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│                      Le contrat Salam                       │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│    Acheteur (Muslim)               Vendeur (Muslim ilayhi)  │
+│         │                                    │              │
+│         │◄──── Prix (avancé/immédiat) ────►│              │
+│         │                                    │              │
+│         │◄──── Bien (différé/décrit) ◄────│              │
+│                                                             │
+│    ════════════════════════════════════════════════════     │
+│    💰 Maintenant : L'acheteur paie le prix en entier        │
+│    📦 Plus tard : Le vendeur livre le bien décrit           │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
 
 ---
 
-### Ce qui N'est Pas Permis dans le Salam
+### Légitimité du Salam
 
-| Catégorie | Raison |
-|-----------|--------|
-| Les biens spécifiques | Comme une voiture précise ou un terrain déterminé |
-| Ce qui ne peut être déterminé par description | Comme les pierres précieuses rares |
-| Ce qui varie grandement | Comme les animaux selon certains savants |
+<div class="quote-box">
+
+**📜 Preuve du Coran**
+
+> Allah dit : ﴾Ô vous qui avez cru ! Quand vous contractez une dette à échéance déterminée, mettez-la par écrit﴿ [Al-Baqarah : 282]
+
+**Ibn Abbas رضي الله عنهما a dit :**
+*« J'atteste que le Salaf garanti jusqu'à un terme déterminé, Allah l'a rendu licite dans Son Livre et l'a autorisé. »*
+
+</div>
+
+<div class="quote-box">
+
+**📜 Preuve de la Sunna**
+
+> D'après Ibn Abbas رضي الله عنهما : **Le Prophète ﷺ arriva à Médine alors que les gens faisaient le Salam sur les fruits pour un an ou deux**, il dit :
+>
+> **« Quiconque fait une vente Salam, qu'il le fasse avec une mesure connue, un poids connu, jusqu'à un terme connu. »**
+>
+> [Bukhari et Muslim]
+
+</div>
+
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│                 Preuves de légitimité du Salam              │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│     ┌─────────┐     ┌─────────┐     ┌─────────┐            │
+│     │ Coran   │     │ Sunna   │     │ Ijma'   │            │
+│     └────┬────┘     └────┬────┘     └────┬────┘            │
+│          │               │               │                 │
+│          ▼               ▼               ▼                 │
+│   ┌──────────────────────────────────────────────┐         │
+│   │         ✅ Le Salam est licite par consensus │         │
+│   └──────────────────────────────────────────────┘         │
+│                                                             │
+│   Sagesse : Facilité pour le vendeur (besoin d'argent)     │
+│             et pour l'acheteur (obtient un meilleur prix)  │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
+
+---
+
+### Conditions de validité du Salam
+
+<div class="scene-box">
+
+**🎬 La scène : Une leçon dans un cercle de fiqh**
+
+**Le cheikh :** Ô étudiants en science, le Salam a des conditions sur trois axes. Écoutez bien...
+
+</div>
+
+#### Premièrement : Conditions concernant le prix (capital du Salam)
+
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│               Conditions du prix (capital)                  │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   1️⃣ Qu'il soit connu ──────────► en quantité et qualité   │
+│                                                             │
+│   2️⃣ Qu'il soit reçu dans la séance ► selon la majorité    │
+│       (ou dans les 3 jours selon certains)                  │
+│                                                             │
+│   ⚠️ Pourquoi l'avancement ?                                │
+│   Car si le prix et le bien sont différés = dette contre   │
+│   dette (interdit)                                          │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
+
+#### Deuxièmement : Conditions concernant le bien (l'objet du Salam)
+
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│             Conditions du bien (objet du Salam)             │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   1️⃣ Qu'il soit décrit ────────► description éliminant     │
+│                                   l'ignorance               │
+│                                                             │
+│   2️⃣ Qu'il soit une dette ─────► pas un bien spécifique    │
+│       ✗ Incorrect : "cette voiture précise"                 │
+│       ✓ Correct : "une Toyota modèle 2024"                  │
+│                                                             │
+│   3️⃣ Qu'il puisse être défini par description              │
+│       ✗ Non valide : pierres précieuses rares (trop variées)│
+│                                                             │
+│   4️⃣ Que soient mentionnés son genre, type et quantité     │
+│       Exemple : "blé égyptien, mille kilos, première qualité│
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
+
+#### Troisièmement : Conditions concernant le terme
+
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│                    Conditions du terme                      │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   1️⃣ Qu'il soit connu ──────────► comme un mois ou un an   │
+│       ✓ Correct : "livraison dans 6 mois"                   │
+│       ✗ Incorrect : "livraison quand ce sera possible"      │
+│                                                             │
+│   2️⃣ Qu'il soit déterminé ──────► pas conditionnel         │
+│       ✓ Correct : "au mois de Ramadan prochain"             │
+│       ✗ Incorrect : "quand il pleuvra"                      │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
+
+---
+
+### Ce qui n'est pas valide dans le Salam
+
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│               ❌ Ce qui n'est pas valide en Salam           │
+├───────────────────────────────┬─────────────────────────────┤
+│           Catégorie           │           Raison            │
+├───────────────────────────────┼─────────────────────────────┤
+│ Les biens spécifiques         │ Le Salam = bien décrit      │
+│ Ex: cette voiture, ce terrain │ pas spécifique              │
+├───────────────────────────────┼─────────────────────────────┤
+│ Ce qui ne peut être défini    │ Mène au gharar et conflit   │
+│ Ex: pierres précieuses rares  │                             │
+├───────────────────────────────┼─────────────────────────────┤
+│ Ce qui varie beaucoup         │ Divergence : animaux selon  │
+│                               │ certains. Le correct : licite│
+│                               │ par description              │
+└───────────────────────────────┴─────────────────────────────┘
+\`\`\`
 
 ---
 
 ### Règles du Salam
 
-**1. Livraison de l'objet du salam :**
+#### 1. Livraison de l'objet du Salam
 
-| Situation | Règle |
-|-----------|-------|
-| Livraison à temps | Obligatoire pour le vendeur |
-| Retard avec excuse | L'acheteur attend |
-| Incapacité de livrer | L'acheteur peut annuler ou attendre |
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│               Règles de livraison en Salam                  │
+├───────────────────────────────┬─────────────────────────────┤
+│           Situation           │           Règle             │
+├───────────────────────────────┼─────────────────────────────┤
+│ Livraison à temps             │ ✅ Obligatoire pour vendeur │
+├───────────────────────────────┼─────────────────────────────┤
+│ Retard avec excuse valable    │ ⏳ L'acheteur attend         │
+├───────────────────────────────┼─────────────────────────────┤
+│ Incapacité totale de livrer   │ 🔄 Acheteur : annuler ou    │
+│                               │    attendre                  │
+└───────────────────────────────┴─────────────────────────────┘
+\`\`\`
 
-**2. Vente de l'objet du salam avant réception :**
-- Il n'est pas permis de le vendre avant réception
-- L'annulation mutuelle (iqalah) est permise
+#### 2. Vente de l'objet du Salam avant réception
 
-**3. Prendre un substitut pour l'objet du salam :**
-- Selon les Hanbalites : il est permis de prendre un substitut d'un autre genre
-- À condition : que ce soit au prix du jour et sans profit
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│      Peut-on vendre l'objet du Salam avant réception ?     │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│         ❌ La vente                 ✅ La résiliation        │
+│         ═══════════                 ═══════════════         │
+│   Interdit de le vendre      │    Permis d'annuler le      │
+│   avant réception            │    contrat et rendre        │
+│   (interdit de profiter      │    le prix à l'acheteur     │
+│   de ce qu'on ne garantit pas)│                             │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
+
+#### 3. Prendre un substitut
+
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│            Prendre un substitut (chez les Hanbalites)       │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   ✅ Permis de prendre un substitut d'un autre genre        │
+│      à deux conditions :                                    │
+│                                                             │
+│       1️⃣ Au prix du jour (pas au prix du contrat)          │
+│                                                             │
+│       2️⃣ Que l'acheteur n'en tire pas profit               │
+│          (car c'est profiter de ce qu'on ne garantit pas)   │
+│                                                             │
+│   Exemple : A acheté en Salam 100 kg de blé, le vendeur     │
+│            ne peut livrer. Permis de prendre 100 kg de riz  │
+│            au prix du jour à la place.                      │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
 
 ---
 
-## Deuxième Partie : Le Contrat d'Istisna'
+## Deuxième partie : Le contrat Istisna'
+
+<div class="scene-box">
+
+**🎬 La scène : Kufa — L'époque de l'Imam Abu Hanifa**
+
+*Un homme entre dans l'atelier d'un menuisier célèbre au marché de Kufa...*
+
+**L'homme :** Maître, je voudrais que tu me fabriques un lit en bois de noyer, avec ces dimensions *(lui montrant un papier)*, et je le veux dans un mois.
+
+**Le menuisier :** Le prix est vingt dinars. Tu paies maintenant ou à la livraison ?
+
+**L'homme :** La moitié maintenant, et la moitié à la livraison.
+
+**Le menuisier :** C'est convenu. *(lui serrant la main)*
+
+*Voici la forme de l'Istisna' que l'Imam Abu Hanifa رحمه الله a autorisée, il dit : « Les gens le pratiquent depuis l'époque du Prophète ﷺ jusqu'à nos jours sans objection. »*
+
+</div>
 
 ### Définition de l'Istisna'
 
-**Étymologie :**
-Demander la fabrication.
+<div class="quote-box">
 
-**Terminologie :**
-> Un contrat sur un bien dans la responsabilité où le travail est exigé, que le fabricant le fabrique avec ses propres matériaux.
+**📜 Définition juridique**
+
+**Étymologiquement :** Demander la fabrication.
+
+**Techniquement :**
+> **Contrat sur un bien garanti qui nécessite du travail**
+>
+> Le fabricant le fabrique avec ses propres matériaux.
+
+</div>
+
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│                    Le contrat Istisna'                      │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│    Client (Mustasni')                  Fabricant (Sani')    │
+│         │                                │                  │
+│         │◄──── Demande avec specs ────►│                  │
+│         │                                │                  │
+│         │◄──── Prix (flexible) ────────│                  │
+│         │                                │                  │
+│         │◄──── Produit (après) ◄────────│                  │
+│                                                             │
+│    ════════════════════════════════════════════════════     │
+│    🔨 Fabricant : fournit matériaux + travail               │
+│    💰 Prix : flexible (avance, différé, ou échelonné)       │
+│    📦 Produit : livré après fabrication                     │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
 
 ---
 
 ### Différence entre Salam et Istisna'
 
-| Salam | Istisna' |
-|-------|----------|
-| Le prix doit être avancé | Le prix peut être différé |
-| Le travail n'est pas exigé | Le travail (fabrication) est exigé |
-| Le terme est une condition | Le terme n'est pas une condition |
-| La marchandise existe généralement | La marchandise est fabriquée spécialement |
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│              Comparaison : Salam vs Istisna'                │
+├───────────────────────────────┬─────────────────────────────┤
+│          Salam                │         Istisna'            │
+├───────────────────────────────┼─────────────────────────────┤
+│ Prix avancé (obligatoire)     │ Prix peut être différé      │
+├───────────────────────────────┼─────────────────────────────┤
+│ Travail non requis            │ Travail requis (fabrication)│
+├───────────────────────────────┼─────────────────────────────┤
+│ Terme = condition de validité │ Terme pas obligatoire       │
+├───────────────────────────────┼─────────────────────────────┤
+│ Bien existe généralement      │ Bien fabriqué sur mesure    │
+├───────────────────────────────┼─────────────────────────────┤
+│ Ex: achat de blé d'avance     │ Ex: commande de meubles     │
+└───────────────────────────────┴─────────────────────────────┘
+\`\`\`
+
+\`\`\`
+                    ┌──────────────────┐
+                    │   Vendre ce que  │
+                    │   tu n'as pas :  │
+                    │     interdit     │
+                    └────────┬─────────┘
+                             │
+                    Sauf deux exceptions :
+                             │
+            ┌────────────────┴────────────────┐
+            ▼                                 ▼
+    ┌───────────────┐               ┌───────────────┐
+    │    Salam      │               │   Istisna'    │
+    ├───────────────┤               ├───────────────┤
+    │ Bien existant │               │ Bien fabriqué │
+    │ Prix avancé   │               │ Prix flexible │
+    │ Terme requis  │               │ Terme optionnel│
+    └───────────────┘               └───────────────┘
+\`\`\`
 
 ---
 
-### La Légitimité de l'Istisna'
+### Légitimité de l'Istisna'
 
-**La preuve :**
-- La coutume : les gens demandent depuis toujours aux artisans de fabriquer des choses
-- Le besoin : on ne peut s'en passer
-
-**Le consensus pratique :**
-Les gens l'ont pratiqué à toutes les époques sans objection.
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│              Preuves de légitimité de l'Istisna'            │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   1️⃣ La coutume et l'usage                                 │
+│      ══════════════════════                                 │
+│      Les gens ont toujours demandé aux artisans             │
+│      de fabriquer des choses depuis le Prophète ﷺ           │
+│                                                             │
+│   2️⃣ Le besoin pressant                                    │
+│      ══════════════════                                     │
+│      On ne peut s'en passer dans la vie                     │
+│      (qui construit sa maison ? qui fabrique ses meubles ?) │
+│                                                             │
+│   3️⃣ Le consensus pratique                                 │
+│      ═════════════════════                                  │
+│      Les gens l'ont pratiqué à toutes les époques           │
+│      sans objection des savants                             │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
 
 ---
 
-### Conditions de Validité de l'Istisna'
+### Conditions de validité de l'Istisna'
 
-1. **Préciser le genre et le type du produit :** voiture, maison, vêtements
-2. **Préciser les caractéristiques importantes :** dimensions, matériaux, couleur
-3. **Connaître le prix :** qu'il soit déterminé
-4. **Connaître le terme :** s'il existe
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│            Conditions de validité de l'Istisna'             │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   1️⃣ Indiquer le genre et le type du produit               │
+│       ═══════════════════════════════════                   │
+│       Exemple : voiture, maison, vêtements, meubles         │
+│                                                             │
+│   2️⃣ Indiquer les caractéristiques déterminantes           │
+│       ════════════════════════════════════════              │
+│       Dimensions, matériaux utilisés, couleur, design       │
+│                                                             │
+│   3️⃣ Connaître le prix                                     │
+│       ═══════════════════                                   │
+│       Qu'il soit déterminé (avancé ou différé)              │
+│                                                             │
+│   4️⃣ Connaître le terme s'il existe                        │
+│       ═════════════════════════════                         │
+│       Pas obligatoire, mais s'il est mentionné,             │
+│       il doit être respecté                                 │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
 
 ---
 
 ### Formes de l'Istisna'
 
-**1. L'Istisna' direct :**
-- Demande directe au fabricant
-- Exemple : commander des meubles à un menuisier
-
-**2. L'Istisna' parallèle :**
-- Le donneur d'ordre demande à un fabricant
-- Le fabricant demande à un autre fabricant
-- Exemple : une société immobilière construit pour ses clients en contractant avec des entrepreneurs
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│                  Formes du contrat Istisna'                 │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   1️⃣ Istisna' direct                                       │
+│      ═════════════════                                      │
+│                                                             │
+│      Client ─────────────► Fabricant                        │
+│               (directement)                                 │
+│                                                             │
+│      Exemple : commander des meubles au menuisier           │
+│                                                             │
+│   ────────────────────────────────────────────────          │
+│                                                             │
+│   2️⃣ Istisna' parallèle                                    │
+│      ══════════════════                                     │
+│                                                             │
+│      Client ───► Intermédiaire ───► Fabricant               │
+│                                                             │
+│      Exemple : société immobilière qui construit            │
+│                pour ses clients via des entrepreneurs       │
+│                                                             │
+│      ┌─────────┐     ┌─────────┐     ┌─────────┐           │
+│      │ Client  │────►│ Société │────►│Entrepren│           │
+│      │(demande)│     │(intermé)│     │  (bâtit)│           │
+│      └─────────┘     └─────────┘     └─────────┘           │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
 
 ---
 
 ### Règles de l'Istisna'
 
-**1. Caractère obligatoire du contrat :**
+#### 1. Caractère obligatoire du contrat
 
-| École | Règle |
-|-------|-------|
-| Hanafites (avis retenu) | Obligatoire pour les deux parties après le contrat |
-| Autre avis | Chacun peut annuler avant le début |
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│               L'Istisna' est-il obligatoire ?               │
+├───────────────────────────────┬─────────────────────────────┤
+│  École Hanafite (avis adopté) │      Autre avis             │
+├───────────────────────────────┼─────────────────────────────┤
+│ ✅ Obligatoire pour les deux  │ Résiliable avant le début   │
+│ parties après le contrat      │ du travail                  │
+│ (c'est le plus correct)       │                             │
+└───────────────────────────────┴─────────────────────────────┘
+\`\`\`
 
-**2. Propriété du produit :**
-- Elle est transférée au donneur d'ordre à la livraison
-- Ou selon l'accord
+#### 2. Propriété du produit
 
-**3. Responsabilité du fabricant :**
-- Le fabricant garantit le produit jusqu'à la livraison
-- Il garantit les défauts apparents et cachés
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│           Quand la propriété du produit est transférée ?    │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   Principe ──────────► À la livraison effective             │
+│                                                             │
+│   Ou ────────────────► Selon l'accord dans le contrat       │
+│                        (ex: après chaque étape)             │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
 
-**4. Retard de livraison :**
-- Si le fabricant est en retard : le donneur d'ordre peut annuler ou attendre avec compensation
-- Si le retard est pour une excuse : il attend
+#### 3. Responsabilité du fabricant
 
----
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│                Garanties du fabricant                       │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   🔒 Garantit le produit jusqu'à la livraison               │
+│      (si endommagé avant livraison = à la charge du         │
+│       fabricant)                                            │
+│                                                             │
+│   🔍 Garantit les défauts apparents et cachés               │
+│      (ceux apparus à la livraison et ceux apparus après)    │
+│                                                             │
+│   📋 S'engage à respecter les spécifications convenues      │
+│      (toute violation = droit de résiliation pour client)   │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
 
-## Applications Contemporaines
+#### 4. Retard de livraison
 
-### Le Salam dans les Produits Agricoles
-
-**La forme :**
-- L'acheteur paie le prix de la récolte d'avance
-- L'agriculteur livre la récolte après la moisson
-
-**Les conditions :**
-1. Déterminer le type, la quantité et la qualité
-2. Déterminer la date de livraison
-3. Recevoir le prix immédiatement ou sous peu
-
-### L'Istisna' dans l'Immobilier
-
-**La forme :**
-- L'acheteur contracte pour la construction d'une unité résidentielle
-- L'entrepreneur construit selon les spécifications convenues
-- Le prix est payé en plusieurs fois ou en une seule fois
-
-**Les règles :**
-1. Déterminer les spécifications avec précision
-2. Déterminer les étapes de livraison
-3. Déterminer les garanties
-
-### L'Istisna' dans l'Industrie
-
-**La forme :**
-- Commander la fabrication de machines ou équipements spéciaux
-- Commander la fabrication de vêtements avec des spécifications précises
-- Commander la fabrication de véhicules personnalisés
-
-**Règles spécifiques :**
-- Paiements échelonnés permis
-- Modifications permises par accord
-- Garantie à la charge du fabricant
-
----
-
-### Rôle du Salam et de l'Istisna' dans la Finance Islamique
-
-**Avantages du Salam :**
-1. Fournir de la liquidité aux producteurs
-2. Obtenir un prix juste pour les deux parties
-3. Garantir la disponibilité des marchandises pour l'acheteur
-
-**Avantages de l'Istisna' :**
-1. Financer les projets de construction
-2. Fournir des produits personnalisés
-3. Flexibilité de paiement
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│                    Règles du retard                         │
+├───────────────────────────────┬─────────────────────────────┤
+│ Retard du fabricant sans      │ Pour le client :            │
+│ excuse                        │ - Résilier                  │
+│                               │ - Ou attendre + compensation│
+├───────────────────────────────┼─────────────────────────────┤
+│ Retard avec excuse valable    │ Le client attend            │
+│ (catastrophes, maladie,       │ (pas de compensation)       │
+│ pénurie de matériaux)         │                             │
+└───────────────────────────────┴─────────────────────────────┘
+\`\`\`
 
 ---
 
-## 📖 Récits des Salaf : Le Salam béni
+## Applications contemporaines
 
-L'Imam Ahmad a rapporté dans son Musnad que **'Abdullah ibn 'Abbas رضي الله عنهما** disait :
+### Le Salam dans les produits agricoles
 
-> "Le Prophète ﷺ arriva à Médine alors que les gens pratiquaient le salam sur les fruits pour un an, deux ans et trois ans. Le Prophète ﷺ réglementa cette transaction et ne l'interdit pas."
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│               Le Salam agricole contemporain                │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   📅 Aujourd'hui                    📅 Après la récolte     │
+│   ══════════════                    ═══════════════════     │
+│                                                             │
+│   ┌─────────┐                   ┌─────────┐                │
+│   │ Acheteur│ ──── 💰 ────►    │Agricult.│                │
+│   └─────────┘  Prix complet     └─────────┘                │
+│                                                             │
+│                 ◄──── 🌾 ────                               │
+│                   La récolte                                │
+│                                                             │
+│   ════════════════════════════════════════════════════     │
+│   Conditions requises :                                     │
+│   ✓ Définir le type : blé égyptien première qualité        │
+│   ✓ Définir la quantité : 100 tonnes                       │
+│   ✓ Définir la qualité : humidité < 14%                    │
+│   ✓ Définir la date : le 1er août                          │
+│   ✓ Recevoir le prix : immédiatement ou sous 3 jours       │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
 
-Ibn 'Abbas dit : **"J'atteste que le salam garanti à échéance déterminée, Allah l'a rendu licite dans Son Livre et l'a autorisé"** puis il récita : ﴿Ô vous qui croyez, quand vous contractez une dette à échéance déterminée, mettez-la en écrit﴾.
+### L'Istisna' dans l'immobilier
 
-**La leçon :** Les Salaf pratiquaient le salam pour financer l'agriculture et l'industrie, ce qui montre la flexibilité de la charia pour répondre aux besoins légitimes des gens tout en réglementant les transactions par les conditions légales.
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│          L'Istisna' immobilier (vente sur plan)             │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   Acheteur ──────► Promoteur ──────► Entrepreneur           │
+│     │                   │                    │              │
+│     │                   │                    │              │
+│     ▼                   ▼                    ▼              │
+│   Paie              Supervise            Construit          │
+│   le prix           et garantit        selon les specs      │
+│   (versements)                                              │
+│                                                             │
+│   ════════════════════════════════════════════════════     │
+│                                                             │
+│   📋 Requis :                                               │
+│   ──────────                                                │
+│   1. Plans et dessins détaillés                             │
+│   2. Calendrier des étapes et livraisons                    │
+│   3. Garanties de qualité                                   │
+│   4. Clauses pénales pour retard                            │
+│                                                             │
+│   💰 Mode de paiement :                                     │
+│   ─────────────────────                                     │
+│   [20%]────[30%]────[30%]────[20%]                         │
+│   Contrat Fondations Structure Livraison                    │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
 
----
+### L'Istisna' dans l'industrie
 
-### La sagesse de l'Imam Abou Hanifa sur l'Istisna'
-
-L'**Imam Abou Hanifa رحمه الله** émettait des fatwas autorisant l'istisna' et disait :
-
-> "Les gens le pratiquent depuis l'époque du Prophète ﷺ jusqu'à nos jours sans objection, c'est donc un consensus."
-
-Les habitants de Kufa demandaient aux artisans de fabriquer des épées, des armures et des chaussures, et leur payaient le prix d'avance ou à terme, et aucun savant ne s'y opposait.
-
----
-
-## 🎯 Cas pratiques contemporains
-
-### Cas 1 : La précommande (Pre-order) de téléphones
-
-**Situation :** Apple a annoncé un nouvel iPhone et a ouvert les précommandes. Est-il permis de payer le montant complet maintenant et de recevoir dans deux mois ?
-
-**Réponse :** ✅ **Permis** si les conditions du salam sont réunies :
-- Spécifications déterminées avec précision (type, capacité, couleur)
-- Date de livraison déterminée
-- Prix reçu dans la session du contrat ou sous peu
-- Que le bien soit décrit dans la responsabilité, non spécifique
-
----
-
-### Cas 2 : Le financement participatif (Crowdfunding) pour un projet
-
-**Situation :** Le site Kickstarter présente un projet de fabrication d'une montre intelligente. Les acheteurs paient maintenant et le produit sera fabriqué et livré dans 8 mois. Quel est le jugement ?
-
-**Réponse :** ✅ **Permis** selon la forme de l'istisna' si :
-- Les spécifications du produit sont déterminées avec précision
-- Le fabricant s'engage sur une date de livraison
-- Le fabricant supporte les risques de fabrication
-
-⚠️ **Remarque :** Si le projet échoue et que rien n'est produit, l'argent est rendu aux acheteurs.
-
----
-
-### Cas 3 : Achat d'appartement sur plan
-
-**Situation :** Une société immobilière vend des appartements qui seront construits dans deux ans. Quelle est la méthode conforme à la charia pour contracter ?
-
-**Réponse :** ✅ **Permis** selon la formule de l'istisna' :
-- Spécifications déterminées par les plans et dessins
-- Étapes de construction et de livraison déterminées
-- Paiements échelonnés permis
-- Garantie à la charge du promoteur jusqu'à la livraison
-
----
-
-### Cas 4 : La réservation anticipée de récoltes
-
-**Situation :** Un commerçant veut acheter une récolte de blé d'un agriculteur six mois avant la moisson. Comment le contrat peut-il être valide ?
-
-**Réponse :** ✅ **Permis** selon la formule du salam :
-- Payer le prix complet au moment du contrat
-- Déterminer la quantité : 100 tonnes par exemple
-- Déterminer le type et la qualité : blé français première catégorie
-- Déterminer la date de livraison : après la moisson tel mois
-- Déterminer le lieu de livraison
-
----
-
-### Cas 5 : Fabrication de meubles sur mesure
-
-**Situation :** J'ai demandé à un menuisier de fabriquer une chambre à coucher avec un design spécial. Nous avons convenu du prix et de la livraison dans un mois. Est-il permis de payer la moitié d'avance ?
-
-**Réponse :** ✅ **Permis** car dans l'istisna' il est permis :
-- D'avancer tout le prix
-- De le reporter entièrement
-- De le payer en plusieurs fois
-
----
-
-## 💡 Pause réflexion
-
-> **Question de réflexion :**
->
-> À notre époque se sont répandues les plateformes de financement participatif (Crowdfunding) qui financent des projets qui n'existent pas encore.
->
-> - Comment pouvons-nous bénéficier du fiqh des Salaf pour réglementer ces transactions ?
-> - Quelle est la différence entre l'investissement légal et le pari dans ces plateformes ?
-> - La présence de conditions claires et de garanties transforme-t-elle la transaction de l'incertitude vers la permission ?
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│                  L'Istisna' industriel                      │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   Formes de l'Istisna' industriel :                         │
+│   ═════════════════════════════════                         │
+│                                                             │
+│   🏭 Commande de machines ou équipements spéciaux           │
+│   👔 Commande de vêtements sur mesure                       │
+│   🚗 Commande de véhicules personnalisés                    │
+│   ✈️ Commande d'avions ou de navires                        │
+│                                                             │
+│   Règles spéciales :                                        │
+│   ═══════════════════                                       │
+│   ✅ Paiements échelonnés permis                            │
+│   ✅ Modifications par accord permises                      │
+│   ✅ Garantie par le fabricant jusqu'à livraison            │
+│   ✅ Droit du client de refuser ce qui ne correspond pas    │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
 
 ---
 
-## Résumé de la Leçon
+### Rôle du Salam et de l'Istisna' dans la finance islamique
 
-| Contrat | Définition | Condition du prix | Condition du terme |
-|---------|------------|-------------------|-------------------|
-| Salam | Vente d'un bien décrit différé contre prix avancé | Avance obligatoire | Terme obligatoire |
-| Istisna' | Contrat de fabrication | Report permis | Non obligatoire |
-
-**Règles importantes :**
-- Le Salam et l'Istisna' sont des exceptions à l'interdiction de vendre ce qu'on ne possède pas
-- Les deux servent les besoins légitimes des gens
-- La détermination par description remplace la détermination par observation
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│       Salam et Istisna' : outils de finance islamique       │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   Avantages du Salam :           Avantages de l'Istisna' :  │
+│   ════════════════════           ═══════════════════════    │
+│                                                             │
+│   💰 Liquidités pour producteurs 🏗️ Financement de projets  │
+│                                                             │
+│   ⚖️ Prix juste pour les deux    🎯 Produits personnalisés  │
+│                                                             │
+│   📦 Garantie de disponibilité   💳 Flexibilité de paiement │
+│                                                             │
+│   ════════════════════════════════════════════════════     │
+│   Les banques islamiques utilisent ces deux contrats :      │
+│   ─────────────────────────────────────────────────────     │
+│   • Financement des agriculteurs (Salam)                    │
+│   • Financement de la construction (Istisna')               │
+│   • Financement des usines et équipements (Istisna')        │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
 
 ---
 
-*Ô Seigneur, augmente ma science*
+## 📖 Récits des Salaf
+
+<div class="scene-box">
+
+**🎬 Ibn Abbas témoigne de la légitimité du Salam**
+
+*L'Imam Bukhari rapporte dans son Sahih...*
+
+**Abdullah ibn Abbas رضي الله عنهما :** *(debout dans une assemblée de science)*
+J'atteste que **le Salaf garanti jusqu'à un terme déterminé**, Allah l'a rendu licite dans Son Livre et l'a autorisé.
+
+**Un des présents :** Quelle est ta preuve, ô Ibn Abbas ?
+
+**Ibn Abbas :** *(récitant avec humilité)*
+﴾Ô vous qui avez cru ! Quand vous contractez une dette à échéance déterminée, mettez-la par écrit﴿
+
+Puis il dit : **Le Prophète ﷺ arriva à Médine alors que les gens faisaient le Salam sur les fruits pour un an, deux ans et trois ans. Le Prophète ﷺ réglementa cette transaction sans l'interdire, mais l'encadra en disant : « avec une mesure connue, un poids connu, jusqu'à un terme connu. »**
+
+</div>
+
+---
+
+<div class="scene-box">
+
+**🎬 La sagesse de l'Imam Abu Hanifa sur l'Istisna'**
+
+*Dans son cercle à la mosquée de Kufa, l'Imam Abu Hanifa رحمه الله fut interrogé...*
+
+**Le questionneur :** Ô Imam, certains disent : l'Istisna' c'est vendre ce que tu n'as pas, comment est-ce permis ?
+
+**Abu Hanifa :** *(souriant)*
+Mon fils, **les gens le pratiquent depuis l'époque du Prophète ﷺ jusqu'à nos jours sans objection**, c'est donc un consensus pratique.
+
+**Le questionneur :** Comment cela ?
+
+**Abu Hanifa :** Regarde autour de toi au marché de Kufa. Les gens demandent aux artisans :
+- La fabrication d'épées et d'armures
+- La fabrication de chaussures et de vêtements
+- La construction de maisons et de meubles
+
+Et ils leur paient le prix à l'avance ou à terme, **et aucun savant ne les a critiqués**. C'est le consensus de la Oumma par la pratique, et il est plus fort que le consensus par la parole.
+
+</div>
+
+---
+
+## 🎯 Cas contemporains
+
+### Premier cas : La précommande (Pre-order) de téléphones
+
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│  📱 Cas : Pre-order du nouveau téléphone                    │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  Question :                                                 │
+│  ══════════                                                 │
+│  Apple a annoncé un nouvel iPhone et ouvert les             │
+│  précommandes. Est-il permis de payer maintenant            │
+│  et recevoir dans deux mois ?                               │
+│                                                             │
+│  Réponse :                                                  │
+│  ══════════                                                 │
+│  ✅ Permis — sous forme de Salam                            │
+│                                                             │
+│  Conditions remplies :                                      │
+│  ✓ Spécifications précises (type, capacité, couleur)       │
+│  ✓ Date de livraison déterminée                            │
+│  ✓ Prix reçu à la commande                                 │
+│  ✓ Bien décrit (pas un téléphone spécifique)               │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
+
+---
+
+### Deuxième cas : Le financement participatif (Crowdfunding)
+
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│  💡 Cas : Kickstarter pour une montre connectée             │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  Question :                                                 │
+│  ══════════                                                 │
+│  Kickstarter présente un projet de fabrication de montre    │
+│  connectée. Les acheteurs paient maintenant et le produit   │
+│  sera fabriqué et livré dans 8 mois. Quel est le jugement ? │
+│                                                             │
+│  Réponse :                                                  │
+│  ══════════                                                 │
+│  ✅ Permis — sous forme d'Istisna'                          │
+│                                                             │
+│  À condition que :                                          │
+│  ✓ Spécifications du produit précises                      │
+│  ✓ Engagement du fabricant sur la date                     │
+│  ✓ Le fabricant assume les risques de fabrication          │
+│                                                             │
+│  ⚠️ Attention :                                             │
+│  Si le projet échoue ═══► l'argent doit être remboursé     │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
+
+---
+
+### Troisième cas : Achat d'appartement sur plan
+
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│  🏠 Cas : Achat d'appartement en construction               │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  Question :                                                 │
+│  ══════════                                                 │
+│  Une société immobilière vend des appartements qui          │
+│  seront construits en deux ans. Quelle est la méthode       │
+│  conforme à la Charia ?                                     │
+│                                                             │
+│  Réponse :                                                  │
+│  ══════════                                                 │
+│  ✅ Permis — sous forme d'Istisna'                          │
+│                                                             │
+│  Conditions à respecter :                                   │
+│  ═══════════════════════                                    │
+│  1. Spécifications par plans et dessins                    │
+│  2. Calendrier des étapes et livraisons partielles         │
+│  3. Paiements échelonnés permis                            │
+│  4. Garantie du promoteur jusqu'à livraison finale         │
+│  5. Droit de l'acheteur d'annuler si non-conformité        │
+│                                                             │
+│  ┌────────────────────────────────────────────────────┐    │
+│  │ 20%     │  30%      │  30%      │  20%             │    │
+│  │ Contrat │ Fondations│ Structure │ Livraison        │    │
+│  └────────────────────────────────────────────────────┘    │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
+
+---
+
+### Quatrième cas : Réservation de récoltes à l'avance
+
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│  🌾 Cas : Achat de blé avant la récolte                     │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  Question :                                                 │
+│  ══════════                                                 │
+│  Un commerçant veut acheter une récolte de blé d'un         │
+│  agriculteur six mois avant la récolte.                     │
+│  Comment le contrat est-il valide ?                         │
+│                                                             │
+│  Réponse :                                                  │
+│  ══════════                                                 │
+│  ✅ Permis — sous forme de Salam                            │
+│                                                             │
+│  ┌─────────────────────────────────────────────────────┐   │
+│  │           Éléments du contrat valide                │   │
+│  ├─────────────────────────────────────────────────────┤   │
+│  │ 💰 Prix      │ Payé intégralement au contrat        │   │
+│  │ 📦 Quantité  │ 100 tonnes                           │   │
+│  │ 🌾 Type      │ Blé égyptien première qualité        │   │
+│  │ 📅 Date      │ Après récolte en août                │   │
+│  │ 📍 Lieu      │ Entrepôt du commerçant à telle ville │   │
+│  └─────────────────────────────────────────────────────┘   │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
+
+---
+
+### Cinquième cas : Fabrication de meubles sur mesure
+
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│  🪑 Cas : Commande de chambre à coucher au menuisier        │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  Question :                                                 │
+│  ══════════                                                 │
+│  J'ai commandé à un menuisier une chambre à coucher         │
+│  avec un design personnalisé. Nous avons convenu du prix    │
+│  et de la livraison dans un mois.                           │
+│  Est-il permis de payer la moitié à l'avance ?              │
+│                                                             │
+│  Réponse :                                                  │
+│  ══════════                                                 │
+│  ✅ Permis — c'est un Istisna'                              │
+│                                                             │
+│  Avantage de l'Istisna' concernant le prix :                │
+│  ══════════════════════════════════════════                 │
+│                                                             │
+│  ┌──────────────────┐                                       │
+│  │  Le prix en Istisna' est flexible :                    │ │
+│  │  ✓ Payer tout d'avance                                 │ │
+│  │  ✓ Payer tout à terme                                  │ │
+│  │  ✓ Payer en versements                                 │ │
+│  │  (contrairement au Salam qui exige l'avance)           │ │
+│  └──────────────────┘                                       │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
+
+---
+
+## 💡 Pause et réflexion
+
+<div class="quote-box">
+
+**📜 Question de réflexion**
+
+À notre époque se sont répandues les plateformes de financement participatif (Crowdfunding) qui financent des projets qui n'existent pas encore.
+
+**Réfléchissez à ces questions :**
+
+1️⃣ Comment pouvons-nous bénéficier du fiqh des Salaf sur le Salam et l'Istisna' pour réglementer ces transactions ?
+
+2️⃣ Quelle est la différence entre l'investissement licite et le jeu de hasard sur ces plateformes ?
+
+3️⃣ Est-ce que la présence de conditions claires et de garanties transforme la transaction du gharar vers la licéité ?
+
+**La réponse :**
+Plus les spécifications sont précises, les garanties claires et les risques définis et connus, plus la transaction est proche de la licéité et éloignée du gharar interdit.
+
+</div>
+
+---
+
+## Résumé de la leçon
+
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│                     Résumé de la leçon                      │
+├───────────────────┬──────────────────┬──────────────────────┤
+│      Contrat      │  Condition prix  │   Condition terme    │
+├───────────────────┼──────────────────┼──────────────────────┤
+│  Salam            │ Avance obligatoire│ Terme obligatoire    │
+│  (vente d'un bien │                  │                      │
+│  différé prix     │                  │                      │
+│  avancé)          │                  │                      │
+├───────────────────┼──────────────────┼──────────────────────┤
+│  Istisna'         │ Report permis    │ Pas obligatoire      │
+│  (contrat de      │ et versements    │                      │
+│  fabrication)     │                  │                      │
+└───────────────────┴──────────────────┴──────────────────────┘
+\`\`\`
+
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│                    Règles importantes                       │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   1️⃣ Le Salam et l'Istisna' sont des exceptions            │
+│      à l'interdiction de "vendre ce que tu n'as pas"        │
+│                                                             │
+│   2️⃣ Les deux servent les besoins légitimes des gens       │
+│                                                             │
+│   3️⃣ La description remplace l'examen physique             │
+│                                                             │
+│   4️⃣ Salam = bien existant, prix avancé, terme requis      │
+│                                                             │
+│   5️⃣ Istisna' = fabrication spéciale, prix flexible,       │
+│      terme optionnel                                        │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
+
+---
+
+*Rabbi Zidni 'Ilman — Seigneur, augmente ma science*
 `;

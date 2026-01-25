@@ -218,6 +218,133 @@ Les Malikites considèrent que :
 
 ---
 
+## 🎯 Cas Contemporains
+
+### ✈️ Cas 1 : Voyage en avion de moins de 80 km
+
+> **Situation** : Tu prends l'avion pour un trajet de 60 km seulement (vol intérieur court).
+
+**❓ Peux-tu raccourcir la prière ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**La distance compte, pas le moyen de transport :**
+
+| Critère | Application |
+|---------|-------------|
+| 📏 Distance minimale | ~80 km selon la majorité |
+| ✈️ 60 km en avion | N'atteint pas le minimum |
+| ❌ Raccourcissement | Non permis |
+
+> 💡 **Règle** : C'est la distance qui détermine le statut de voyageur, pas la durée ni le moyen de transport.
+
+</details>
+
+---
+
+### 🏨 Cas 2 : Séjour professionnel prolongé
+
+> **Situation** : Tu es envoyé en mission de travail pour 3 mois dans une autre ville.
+
+**❓ Pendant combien de temps peux-tu raccourcir ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Selon les écoles :**
+
+| École | Durée max en tant que voyageur |
+|-------|-------------------------------|
+| 🟡 Malikite | 4 jours (ou 18 si incertain) |
+| 🟢 Hanafite | 15 jours |
+| 🔵 Shafiite | 4 jours |
+| 🟣 Hanbalite | 4 jours |
+
+> 💡 **Conseil** : Si tu sais que tu restes 3 mois, tu es résident dès le départ. Prie complètement.
+
+</details>
+
+---
+
+### 🚗 Cas 3 : Voyage quotidien pour le travail
+
+> **Situation** : Tu fais 100 km aller-retour chaque jour pour le travail.
+
+**❓ Es-tu considéré comme voyageur ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Le trajet quotidien n'est pas un voyage :**
+
+| Critère | Application |
+|---------|-------------|
+| 🏠 Tu retournes chez toi | Tu n'es pas voyageur |
+| 🔄 C'est une routine | Pas un voyage ponctuel |
+| ❌ Raccourcissement | Non permis |
+
+> 💡 **Règle** : Le voyageur est celui qui quitte son lieu de résidence pour un séjour ailleurs, pas pour un trajet quotidien.
+
+</details>
+
+---
+
+### 🕐 Cas 4 : Regroupement à l'aéroport
+
+> **Situation** : Ton vol est à 14h. Tu dois être à l'aéroport à 12h. Peux-tu regrouper Dhuhr et Asr avant de partir ?
+
+**❓ Le regroupement par anticipation est-il permis ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Selon les écoles :**
+
+| École | Regroupement par anticipation |
+|-------|------------------------------|
+| 🟡 Malikite | Permis si tu seras en voyage à l'heure de la 2ème prière |
+| 🟢 Hanafite | Non permis (sauf à Arafat et Muzdalifa) |
+| 🔵 Shafiite | Permis si le voyage a commencé |
+| 🟣 Hanbalite | Permis une fois le voyage commencé |
+
+> 💡 **Conseil** : Si tu n'as pas encore quitté ta ville, attends d'être en route pour regrouper.
+
+</details>
+
+---
+
+### 🌍 Cas 5 : Décalage horaire et prières
+
+> **Situation** : Tu voyages de Paris à New York (6h de décalage). Comment gères-tu les prières pendant le vol ?
+
+**❓ Dois-tu prier selon l'heure de départ ou d'arrivée ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Suis le mouvement du soleil :**
+
+| Règle | Application |
+|-------|-------------|
+| 🌅 Temps de prière | Basé sur la position du soleil |
+| ✈️ En vol | Prie quand le temps entre (vu par le hublot) |
+| 📱 Application | Utilise une app qui calcule selon ta position GPS |
+
+> 💡 **Conseil** : En vol long, tu peux regrouper pour faciliter. Le Prophète ﷺ a permis le regroupement en voyage.
+
+</details>
+
+---
+
+## 💭 Réflexion
+
+> *« Les facilités du voyage sont une miséricorde d'Allah pour Ses serviteurs. Le voyage fatigue le corps et l'esprit, alors Allah a allégé les obligations. Prenons Ses dispenses avec gratitude. »*
+
+— Enseignement des savants
+
+---
+
 ## 🎯 Action Concrète
 
 **Lors de ton prochain voyage, applique ces règles :**

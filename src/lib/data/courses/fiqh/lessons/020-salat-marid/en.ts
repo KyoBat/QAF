@@ -161,6 +161,196 @@ export const content = `# 📜 صَلَاةُ الْمَرِيضِ — Prayer of
 
 ---
 
+## 🎯 Contemporary Cases (حالات معاصرة)
+
+### 🏥 Case 1: Praying After Surgery
+
+> **Situation:** Ahmed just had abdominal surgery. He is bedridden in the hospital with tubes and cannot stand or sit. Dhuhr time is approaching.
+
+**❓ How should he pray in this state?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**Analysis according to texts:**
+
+| Criterion | Application |
+|-----------|-------------|
+| **Ability to stand** | ❌ Impossible after surgery |
+| **Ability to sit** | ❌ Prohibited by doctor |
+| **Ability to lie on side** | ⚠️ To be assessed with medical team |
+| **Qibla direction** | Orient the bed if possible |
+
+**Rules to apply:**
+
+1. **Priority:** Request the bed be oriented toward Qibla
+2. **Position:** If he can lie on his right side → do so; otherwise on his back
+3. **Movements:** Perform rukū' and sujūd by gesturing with the head
+4. **Sujūd:** The gesture should be lower than that of rukū'
+
+> 💡 **Rule:** The sick person prays in whatever position they can, and their prayer is valid with full reward.
+
+</details>
+
+---
+
+### 💉 Case 2: Praying with IV and Medical Equipment
+
+> **Situation:** Khadija is hospitalized with an IV drip in her right arm and a catheter. She wants to make wudu for 'Asr prayer.
+
+**❓ How does she purify herself and pray with these constraints?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**Purification analysis:**
+
+| Limb | State | Solution |
+|------|-------|----------|
+| **Right arm (IV)** | Bandage/tube | Wipe over it or tayammum |
+| **Left arm** | Free | Wash normally |
+| **Face** | Free | Wash normally |
+| **Feet** | Accessible | Wash or wipe over socks |
+
+**Purification options:**
+
+1. **Partial wudu:** Wash what's accessible + wipe over bandage
+2. **Tayammum:** If wudu is difficult or medically contraindicated
+3. **Help from another:** Someone can help her make wudu
+
+**For prayer:**
+- Pray in the possible position (sitting or lying down)
+- Wires and tubes do not invalidate prayer
+- No need to disconnect equipment
+
+> 💡 **Rule:** Medical equipment is not an excuse to abandon prayer. We adapt around it.
+
+</details>
+
+---
+
+### 🦽 Case 3: Praying in a Wheelchair
+
+> **Situation:** Ibrahim uses a wheelchair due to an accident. He can move his upper body but cannot stand. He wants to pray at the mosque.
+
+**❓ How does he pray in a wheelchair? Can he pray in congregation?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**Situation analysis:**
+
+| Question | Answer |
+|----------|--------|
+| **Standing** | Exempted due to inability |
+| **Rukū' and sujūd** | By bending the torso |
+| **Congregational prayer** | ✅ Valid and recommended |
+| **Placement** | In the rows, not alone behind |
+
+**How to pray:**
+
+1. **Position:** Remain seated in the wheelchair
+2. **Rukū':** Bend the torso forward
+3. **Sujūd:** Bend further (lower than rukū')
+4. **If possible:** Use a tray in front to place forehead (not obligatory)
+
+**In congregation:**
+- Position in a row, not alone behind
+- Others should not leave a gap beside him
+- He follows the imam in movements in his own way
+
+> 💡 **Rule:** Congregational prayer remains recommended for the person in a wheelchair. Their disability does not deprive them of it.
+
+</details>
+
+---
+
+### 🩺 Case 4: Chronic Illness — When Does It Become a Permanent Excuse?
+
+> **Situation:** Fatima has suffered from severe arthritis for years. Some days she can stand with difficulty, other days it's impossible. She wonders if she can always pray sitting.
+
+**❓ When does an illness become a permanent excuse allowing one to always pray sitting?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**Evaluation criteria:**
+
+| Criterion | Explanation |
+|-----------|-------------|
+| **Consistency of inability** | The excuse applies to moments of actual inability |
+| **Medical opinion** | Doctor confirms risk or impossibility |
+| **Excessive hardship** | Unbearable pain or risk of worsening |
+| **Variable capacity** | Each prayer is evaluated independently |
+
+**Practical rule:**
+
+1. **Days when she can stand:** She must pray standing
+2. **Days when it's impossible/very painful:** She prays sitting
+3. **No arbitrary choice:** We don't choose for comfort but for actual capacity
+
+**Chronic illness cases:**
+- If doctor certifies standing worsens the condition → pray sitting permanently
+- If variable → evaluate at each prayer
+- The threshold = excessive hardship (المشقة الفادحة), not mere discomfort
+
+> 💡 **Rule:** The excuse is linked to the capacity of the moment. A chronic illness is not a general permission but is evaluated prayer by prayer, unless the doctor confirms a permanent risk.
+
+</details>
+
+---
+
+### 🦴 Case 5: Praying with a Cast or Broken Limb
+
+> **Situation:** Yusuf broke his leg and has a cast up to his thigh. He can walk with crutches but cannot prostrate normally.
+
+**❓ How should he pray with this cast?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**Movement analysis:**
+
+| Movement | Ability | Adaptation |
+|----------|---------|------------|
+| **Standing** | ✅ Possible with crutches or support | Pray standing with light support |
+| **Rukū'** | ✅ Possible | Bow normally |
+| **Sujūd** | ⚠️ Difficult | See options below |
+| **Sitting** | ⚠️ Difficult | Cast leg extended |
+
+**Sujūd options:**
+
+1. **If he can place his forehead on the ground** (even with leg extended) → Do so
+2. **If he cannot at all:** Pray sitting with gestures
+3. **Use a support:** Place forehead on an elevated cushion
+
+**For wudu:**
+- Wipe over the cast (المسح على الجبيرة)
+- No need to get water underneath
+- Valid as long as the cast is in place
+
+> 💡 **Rule:** The cast allows wiping over it for wudu, and prayer adapts according to what the person can do. Partial inability does not exempt from what remains possible.
+
+</details>
+
+---
+
+## 💭 Reflection (تأمل)
+
+> *Illness is a trial, but it does not distance us from Allah — rather, it brings us closer.*
+
+**Points for contemplation:**
+
+1. **Divine mercy:** Allah does not burden a soul beyond its capacity
+2. **The sick person's reward:** The Prophet ﷺ said the sick person who does what they used to do when healthy receives the same reward
+3. **Prayer as comfort:** In difficult times, prayer soothes the soul
+4. **Adaptation is a sunnah:** The Prophet ﷺ himself prayed sitting when he was ill
+5. **Never despair:** Prayer never falls away — it is a permanent connection to Allah
+
+> 🤲 *"Allah loves that His concessions be used, just as He hates that He be disobeyed."*
+
+---
+
 ## ❓ Frequently Asked Questions (الأسئلة الشائعة)
 
 **Q1: Does prayer fall away due to illness?**

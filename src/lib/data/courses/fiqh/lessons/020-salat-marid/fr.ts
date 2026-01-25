@@ -198,6 +198,196 @@ Les Malikites considèrent que :
 
 ---
 
+## 🎯 Cas Contemporains (حالات معاصرة)
+
+### 🏥 Cas 1 : Prière après une opération chirurgicale
+
+> **Situation :** Ahmed vient de subir une opération abdominale. Il est alité à l'hôpital avec des tubes et ne peut ni se lever ni s'asseoir. L'heure de Dhuhr approche.
+
+**❓ Comment doit-il prier dans cet état ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Analyse selon les textes :**
+
+| Critère | Application |
+|---------|-------------|
+| **Capacité de station debout** | ❌ Impossible après l'opération |
+| **Capacité de s'asseoir** | ❌ Interdit par le médecin |
+| **Capacité de se mettre sur le côté** | ⚠️ À évaluer avec l'équipe médicale |
+| **Direction de la Qibla** | Orienter le lit si possible |
+
+**Règles à appliquer :**
+
+1. **Priorité :** Demander si le lit peut être orienté vers la Qibla
+2. **Position :** S'il peut se mettre sur le côté droit → le faire ; sinon sur le dos
+3. **Mouvements :** Faire les rukū' et sujūd par signes avec la tête
+4. **Le sujūd :** L'inclinaison doit être plus prononcée que celle du rukū'
+
+> 💡 **Règle :** Le malade prie dans la position qu'il peut, et sa prière est valide avec récompense complète.
+
+</details>
+
+---
+
+### 💉 Cas 2 : Prière avec perfusion et équipement médical
+
+> **Situation :** Khadija est hospitalisée avec une perfusion (IV) dans le bras droit et un cathéter. Elle veut faire le wudu pour prier 'Asr.
+
+**❓ Comment se purifie-t-elle et prie-t-elle avec ces contraintes ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Analyse de la purification :**
+
+| Membre | État | Solution |
+|--------|------|----------|
+| **Bras droit (perfusion)** | Pansement/tube | Essuyer dessus ou tayammum |
+| **Bras gauche** | Libre | Laver normalement |
+| **Visage** | Libre | Laver normalement |
+| **Pieds** | Accessibles | Laver ou essuyer sur chaussettes |
+
+**Options pour la purification :**
+
+1. **Wudu partiel :** Laver ce qui est accessible + essuyer sur le pansement
+2. **Tayammum :** Si le wudu lui est difficile ou contre-indiqué
+3. **Aide d'un proche :** Quelqu'un peut l'aider à faire le wudu
+
+**Pour la prière :**
+- Prier dans la position possible (assise ou allongée)
+- Les fils et tubes ne brisent pas la prière
+- Pas besoin de débrancher l'équipement
+
+> 💡 **Règle :** Les équipements médicaux ne sont pas une excuse pour délaisser la prière. On s'adapte autour d'eux.
+
+</details>
+
+---
+
+### 🦽 Cas 3 : Prière en fauteuil roulant
+
+> **Situation :** Ibrahim est en fauteuil roulant suite à un accident. Il peut bouger le haut du corps mais pas se lever. Il veut prier à la mosquée.
+
+**❓ Comment prie-t-il en fauteuil roulant ? Peut-il prier en congrégation ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Analyse de la situation :**
+
+| Question | Réponse |
+|----------|----------|
+| **Station debout** | Exempté car incapable |
+| **Rukū' et sujūd** | Par inclinaison du buste |
+| **Prière en groupe** | ✅ Valide et recommandée |
+| **Emplacement** | Dans les rangs, pas seul derrière |
+
+**Comment prier :**
+
+1. **Position :** Rester assis dans le fauteuil
+2. **Rukū' :** Incliner le buste vers l'avant
+3. **Sujūd :** Incliner davantage (plus bas que le rukū')
+4. **Si possible :** Utiliser une tablette devant pour poser le front (non obligatoire)
+
+**En congrégation :**
+- Se placer dans un rang, pas derrière seul
+- Les autres ne doivent pas laisser un vide à côté de lui
+- Il suit l'imam dans les mouvements à sa manière
+
+> 💡 **Règle :** La prière en congrégation reste recommandée pour la personne en fauteuil roulant. Son handicap ne l'en prive pas.
+
+</details>
+
+---
+
+### 🩺 Cas 4 : Maladie chronique — quand devient-elle une excuse permanente ?
+
+> **Situation :** Fatima souffre d'arthrose sévère depuis des années. Certains jours elle peut se lever avec difficulté, d'autres jours c'est impossible. Elle se demande si elle peut toujours prier assise.
+
+**❓ Quand une maladie devient-elle une excuse permanente permettant de toujours prier assis ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Critères d'évaluation :**
+
+| Critère | Explication |
+|---------|-------------|
+| **Constance de l'incapacité** | L'excuse s'applique aux moments d'incapacité réelle |
+| **Avis médical** | Le médecin confirme le risque ou l'impossibilité |
+| **Difficulté excessive** | Douleur insupportable ou risque d'aggravation |
+| **Capacité variable** | Chaque prière s'évalue indépendamment |
+
+**Règle pratique :**
+
+1. **Jours où elle peut se lever :** Elle doit prier debout
+2. **Jours où c'est impossible/très douloureux :** Elle prie assise
+3. **Pas de choix arbitraire :** On ne choisit pas par confort mais par capacité réelle
+
+**Cas des maladies chroniques :**
+- Si le médecin certifie que se lever aggrave la maladie → prier assis en permanence
+- Si c'est variable → évaluer à chaque prière
+- Le seuil = la difficulté excessive (المشقة الفادحة), pas le simple inconfort
+
+> 💡 **Règle :** L'excuse est liée à la capacité du moment. Une maladie chronique n'est pas une autorisation générale mais s'évalue prière par prière, sauf si le médecin confirme un risque permanent.
+
+</details>
+
+---
+
+### 🦴 Cas 5 : Prière avec un plâtre ou un membre cassé
+
+> **Situation :** Youssef s'est cassé la jambe et porte un plâtre jusqu'à la cuisse. Il peut marcher avec des béquilles mais ne peut pas se prosterner normalement.
+
+**❓ Comment doit-il prier avec ce plâtre ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Analyse des mouvements :**
+
+| Mouvement | Capacité | Adaptation |
+|-----------|----------|------------|
+| **Station debout** | ✅ Possible avec béquilles ou appui | Prier debout avec appui léger |
+| **Rukū'** | ✅ Possible | S'incliner normalement |
+| **Sujūd** | ⚠️ Difficile | Voir options ci-dessous |
+| **Julūs (assis)** | ⚠️ Difficile | Jambe plâtrée étendue |
+
+**Options pour le sujūd :**
+
+1. **S'il peut poser le front au sol** (même avec la jambe étendue) → Le faire
+2. **S'il ne peut pas du tout :** Prier assis avec inclinaison
+3. **Utiliser un support :** Poser le front sur un coussin surélevé
+
+**Pour le wudu :**
+- Essuyer sur le plâtre (المسح على الجبيرة)
+- Pas besoin de mouiller en dessous
+- Valide tant que le plâtre est en place
+
+> 💡 **Règle :** Le plâtre permet d'essuyer dessus pour le wudu, et la prière s'adapte selon ce que la personne peut faire. L'incapacité partielle n'exempte pas de ce qui reste possible.
+
+</details>
+
+---
+
+## 💭 Réflexion (تأمل)
+
+> *La maladie est une épreuve, mais elle ne nous éloigne pas d'Allah — au contraire, elle nous rapproche.*
+
+**Points de méditation :**
+
+1. **La miséricorde divine :** Allah n'impose pas plus que ce qu'on peut supporter
+2. **La récompense du malade :** Le Prophète ﷺ a dit que le malade qui fait ce qu'il faisait en bonne santé a la même récompense
+3. **La prière comme réconfort :** Dans les moments difficiles, la prière apaise l'âme
+4. **L'adaptation est une sunna :** Le Prophète ﷺ lui-même a prié assis quand il était malade
+5. **Ne jamais désespérer :** La prière ne tombe jamais — c'est un lien permanent avec Allah
+
+> 🤲 *« Allah aime qu'on use des facilités qu'Il a accordées, comme Il déteste qu'on Lui désobéisse. »*
+
+---
+
 ## ❓ FAQ (الأسئلة الشائعة)
 
 **Q1 : Si je suis trop fatigué pour me lever, puis-je prier assis ?**

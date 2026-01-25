@@ -149,6 +149,135 @@ export const content = `# 📜 صَلَاةُ الْعِيدَيْنِ — The T
 
 ---
 
+## 🎯 Contemporary Cases
+
+### 🏠 Case 1: Eid Prayer at Home When Mosque is Too Far
+
+> **Situation:** Ibrahim lives in a rural area 2 hours from the nearest mosque. He cannot reach it on Eid day.
+
+**❓ Can he pray Eid at home with his family?**
+
+<details>
+<summary>📜 See the answer</summary>
+
+**Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Prayer status | 🟡 Malikis: Emphasized Sunna |
+| Location | Musalla preferred but not required |
+| Congregation | Even small family group is valid |
+| Individual makeup | 🟡 Malikis: No |
+
+> 💡 **Rule:** If one cannot reach a large congregation, it is permissible to pray Eid in a small group at home. According to Malikis, it is not made up individually.
+
+</details>
+
+---
+
+### ⏰ Case 2: Missing Eid Prayer — Can You Make It Up?
+
+> **Situation:** Salma overslept and missed the Eid prayer. When she woke up, the prayer had ended everywhere.
+
+**❓ Can she make up the Eid prayer alone?**
+
+<details>
+<summary>📜 See the answer</summary>
+
+**Analysis:**
+
+| Criterion | 🟡 Maliki | 🔵 Shafi'i |
+|-----------|---------|----------|
+| Individual makeup | **No** | Yes, 2 rak'at |
+| Congregational makeup | Permitted | Permitted |
+
+> 💡 **Rule:** According to Malikis and Hanafis, Eid prayer is not made up individually. According to Shafi'is and Hanbalis, one can pray 2 rak'at alone.
+
+</details>
+
+---
+
+### 🙌 Case 3: Forgetting Some Takbirat During Eid Prayer
+
+> **Situation:** During Eid prayer, Karim forgot to make the 6 takbirat in the first rak'a. He realized after ruku'.
+
+**❓ Is his prayer valid? Should he do sujud sahw?**
+
+<details>
+<summary>📜 See the answer</summary>
+
+**Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Takbirat status | Sunna, not a pillar |
+| If forgotten | Prayer remains valid |
+| Sujud sahw | 🟡 Malikis: Not required |
+
+> 💡 **Rule:** The additional takbirat are Sunna. If forgotten, the prayer is valid and there is no sujud sahw according to Malikis.
+
+</details>
+
+---
+
+### 🏠 Case 4: Eid During COVID — Praying at Home with Family
+
+> **Situation:** During the pandemic, mosques are closed. Yusuf's family wants to pray Eid together at home.
+
+**❓ Can they pray Eid at home as a family?**
+
+<details>
+<summary>📜 See the answer</summary>
+
+**Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Valid excuse | Mosque closure = legitimate excuse |
+| Congregation | Permissible even in small group |
+| Format | 2 rak'at with takbirat |
+| Khutba | Not obligatory at home |
+
+> 💡 **Rule:** When mosques are closed for legitimate cause (pandemic, disaster), it is permissible to pray Eid with family. One family member leads the prayer.
+
+</details>
+
+---
+
+### 💼 Case 5: Working on Eid Day — When to Pray
+
+> **Situation:** Amina works at a hospital and cannot take the day off on Eid. Her break is at 10 AM, but Eid prayer is at 8 AM.
+
+**❓ Can she pray Eid during her break?**
+
+<details>
+<summary>📜 See the answer</summary>
+
+**Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Prayer time | From sunrise (+15-20 min) until zawal |
+| If late | As long as time hasn't exited, prayer is valid |
+| Alone or group | 🟡 Malikis: Congregation preferred |
+
+> 💡 **Rule:** If her break is before zawal, she can join a late prayer or pray with colleagues. After zawal, according to Malikis, it is not made up individually.
+
+</details>
+
+---
+
+## 💭 Reflection
+
+> *"Eid is a day of joy, gratitude, and drawing closer to Allah. It is an opportunity to thank Allah for completing Ramadan (Fitr) or for the sacrifice (Adha)."*
+
+**Questions to ponder:**
+1. Do I use Eid to strengthen family ties?
+2. Do I increase takbir on Eid day?
+3. Do I share my joy with those less fortunate?
+
+---
+
 ## ❓ Frequently Asked Questions (الأسئلة الشائعة)
 
 **Q1: Is Eid prayer obligatory?**

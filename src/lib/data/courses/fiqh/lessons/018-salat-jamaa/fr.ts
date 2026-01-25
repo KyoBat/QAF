@@ -317,6 +317,132 @@ Le priant (ma'mum) doit suivre l'imam dans tous ses mouvements, sans le devancer
 
 ---
 
+## 🎯 Cas Contemporains
+
+### 🏢 Cas 1 : Prière au travail sans mosquée
+
+> **Situation** : Tu travailles dans un bureau loin de toute mosquée. Peux-tu faire la prière en groupe avec tes collègues musulmans dans une salle de réunion ?
+
+**❓ Cette prière est-elle valide et récompensée ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Oui, la jama'a est valide partout :**
+
+| Lieu | Validité |
+|------|----------|
+| 🕌 Mosquée | Idéal et plus récompensé |
+| 🏢 Bureau/salle de réunion | Valide avec la récompense de la jama'a |
+| 🏠 Maison | Valide aussi |
+
+> 💡 **Le Prophète ﷺ a dit** : *« La terre m'a été rendue purificatrice et lieu de prière »* — La jama'a a sa récompense quel que soit le lieu.
+
+</details>
+
+---
+
+### 📱 Cas 2 : Prière derrière un écran (en ligne)
+
+> **Situation** : Pendant le COVID, certains ont prié en "groupe" via Zoom, chacun chez soi suivant l'imam en visioconférence.
+
+**❓ Cette prière en groupe est-elle valide ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Consensus des savants contemporains :**
+
+| Situation | Validité |
+|-----------|----------|
+| ❌ Suivre l'imam en ligne | N'est PAS une vraie jama'a |
+| 📊 Condition de la jama'a | Être dans le même lieu que l'imam |
+| ✅ Ta prière | Valide en tant que prière individuelle |
+
+> 💡 **Règle** : La jama'a nécessite l'unité de lieu. Prier derrière un écran ne compte pas comme prière en groupe.
+
+</details>
+
+---
+
+### 🧒 Cas 3 : L'enfant comme imam ou ma'moum
+
+> **Situation** : Ton fils de 10 ans veut diriger la prière de Maghrib à la maison. Peut-il être imam ?
+
+**❓ Est-ce permis ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Cela dépend de l'école :**
+
+| École | Avis sur l'enfant imam |
+|-------|------------------------|
+| 🟡 Malikite | Ne peut pas être imam pour les adultes dans l'obligatoire |
+| 🟢 Hanafite | Ne peut pas être imam |
+| 🔵 Shafiite | Peut être imam s'il maîtrise la récitation |
+| 🟣 Hanbalite | Peut être imam pour le nafl, pas pour le fard |
+
+> 💡 **Conseil** : L'enfant peut être ma'moum et apprendre. Pour le fard, laisse un adulte diriger.
+
+</details>
+
+---
+
+### 🏠 Cas 4 : Prière en groupe à la maison vs mosquée
+
+> **Situation** : La mosquée est à 15 minutes à pied. Parfois tu fais la jama'a avec ta famille à la maison.
+
+**❓ Obtiens-tu la même récompense ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**La mosquée a une récompense supplémentaire :**
+
+| Lieu | Récompense |
+|------|------------|
+| 🕌 Mosquée | Jama'a + récompense des pas + attente dans le lieu de prière |
+| 🏠 Maison | Jama'a valide mais moins de récompense |
+| 🚶 Chaque pas | Efface un péché et élève d'un degré |
+
+> 💡 **Le Prophète ﷺ a dit** : *« Les gens qui ont la plus grande récompense dans la prière sont ceux qui font le plus de chemin »* — Muslim
+
+</details>
+
+---
+
+### 👨‍👩‍👧 Cas 5 : La femme seule avec son mari
+
+> **Situation** : Tu pries avec ton épouse à la maison. Où doit-elle se placer ?
+
+**❓ Comment organiser le rang ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Placement du ma'moum :**
+
+| Nombre | Placement |
+|--------|-----------|
+| 👨 Un homme seul avec l'imam | À sa droite |
+| 👩 Une femme seule avec l'imam (son mari) | Derrière lui |
+| 👨‍👩‍👧 Homme + femme | L'homme à droite de l'imam, la femme derrière |
+
+> 💡 **Hadith d'Anas** : *« Quand le Prophète ﷺ priait avec eux, il plaçait Anas et l'orphelin derrière lui, et Umm Sulaym derrière eux »* — Al-Bukhari
+
+</details>
+
+---
+
+## 💭 Réflexion
+
+> *« La prière en groupe est un rite social autant que spirituel. Elle unit la communauté, enseigne l'humilité et rappelle que nous sommes tous égaux devant Allah — le riche à côté du pauvre, le savant à côté de l'étudiant. »*
+
+— Réflexion spirituelle
+
+---
+
 ## 🎯 Action Concrète
 
 **Cette semaine, engage-toi pour la jama'a :**

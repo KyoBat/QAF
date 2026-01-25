@@ -195,6 +195,135 @@ Les Malikites considèrent que :
 
 ---
 
+## 🎯 Cas Contemporains
+
+### 🏠 Cas 1 : Prière du Aïd à la Maison quand la Mosquée est Trop Loin
+
+> **Situation :** Ibrahim vit dans une zone rurale à 2 heures de la mosquée la plus proche. Le jour du Aïd, il ne peut pas s'y rendre.
+
+**❓ Peut-il prier le Aïd chez lui avec sa famille ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Analyse :**
+
+| Critère | Application |
+|---------|-------------|
+| Statut de la prière | 🟡 Malikites : Sunna Mu'akkadah |
+| Lieu | Le musalla est préféré, mais pas obligatoire |
+| En groupe | Même en petit groupe familial, c'est valide |
+| Rattrapage seul | 🟡 Malikites : Non recommandé |
+
+> 💡 **Règle :** Si on ne peut pas rejoindre une congregation, il est permis de prier le Aïd en petit groupe à la maison. Selon les Malikites, on ne la rattrape pas seul.
+
+</details>
+
+---
+
+### ⏰ Cas 2 : Rater la Prière du Aïd — Peut-on la Rattraper ?
+
+> **Situation :** Salma a dormi et a raté la prière du Aïd. Quand elle se réveille, la prière est déjà terminée partout.
+
+**❓ Peut-elle rattraper la prière du Aïd seule ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Analyse :**
+
+| Critère | 🟡 Malikite | 🔵 Shafi'ite |
+|---------|------------|-------------|
+| Rattrapage seul | **Non** | Oui, 2 rak'at |
+| En groupe | Permis | Permis |
+
+> 💡 **Règle :** Selon les Malikites et Hanafites, la prière du Aïd ne se rattrape pas individuellement. Selon les Shafi'ites et Hanbalites, on peut prier 2 rak'at seul.
+
+</details>
+
+---
+
+### 🙌 Cas 3 : Oublier Quelques Takbirat Pendant la Prière du Aïd
+
+> **Situation :** Pendant la prière du Aïd, Karim a oublié de faire les 6 takbirat de la première rak'a. Il s'en est rendu compte après le ruku'.
+
+**❓ Sa prière est-elle valide ? Doit-il faire le sujud sahw ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Analyse :**
+
+| Critère | Application |
+|---------|-------------|
+| Statut des takbirat | Sunna, pas un pilier |
+| Si oubliées | La prière reste valide |
+| Sujud sahw | 🟡 Malikites : Non requis pour l'oubli de sunna |
+
+> 💡 **Règle :** Les takbirat supplémentaires sont Sunna. Si on les oublie, la prière est valide et il n'y a pas de sujud sahw chez les Malikites.
+
+</details>
+
+---
+
+### 🏠 Cas 4 : Prière du Aïd pendant le COVID — En Famille à la Maison
+
+> **Situation :** Pendant la pandémie, les mosquées sont fermées. La famille de Youssef veut prier le Aïd ensemble à la maison.
+
+**❓ Peuvent-ils prier le Aïd en famille à la maison ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Analyse :**
+
+| Critère | Application |
+|---------|-------------|
+| Excuse valide | Fermeture des mosquées = excuse légitime |
+| Prière en groupe | Permise même en petit groupe |
+| Format | 2 rak'at avec les takbirat |
+| Khutba | Non obligatoire à la maison |
+
+> 💡 **Règle :** En cas de fermeture des mosquées pour cause légitime (pandémie, catastrophe), il est permis de prier le Aïd en famille. L'un des membres dirige la prière.
+
+</details>
+
+---
+
+### 💼 Cas 5 : Travailler le Jour du Aïd — Quand Prier ?
+
+> **Situation :** Amina travaille dans un hôpital et ne peut pas prendre congé le jour du Aïd. Sa pause est à 10h, mais la prière du Aïd est à 8h.
+
+**❓ Peut-elle prier le Aïd pendant sa pause ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Analyse :**
+
+| Critère | Application |
+|---------|-------------|
+| Temps de la prière | Du lever du soleil (+15-20 min) jusqu'au zawal |
+| Si en retard | Tant que le temps n'est pas sorti, on peut prier |
+| Seule ou en groupe | 🟡 Malikites : En groupe de préférence |
+
+> 💡 **Règle :** Si la pause tombe avant le zawal, elle peut rejoindre une prière tardive ou prier avec des collègues. Après le zawal, selon les Malikites, on ne rattrape pas seul.
+
+</details>
+
+---
+
+## 💭 Réflexion
+
+> *« Le Aïd est un jour de joie, de gratitude et de rapprochement. C'est l'occasion de remercier Allah pour avoir terminé le Ramadan (Fitr) ou pour le sacrifice (Adha). »*
+
+**Questions à méditer :**
+1. Est-ce que je profite du Aïd pour renforcer les liens familiaux ?
+2. Est-ce que je multiplie le takbir le jour du Aïd ?
+3. Est-ce que je partage ma joie avec les moins fortunés ?
+
+---
+
 ## ❓ FAQ (الأسئلة الشائعة)
 
 **Q1 : Si j'oublie les takbirat supplémentaires, ma prière est-elle valide ?**

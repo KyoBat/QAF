@@ -212,6 +212,128 @@ export const content = `# 📜 صَلَاةُ الْمُسَافِرِ — The T
 
 ---
 
+## 🧭 Contemporary Cases (الحالات المعاصرة)
+
+### ✈️ Case 1: Short Flight Under 80km
+
+> **Situation:** Ali takes a flight from one airport to another, but the distance between the two airports is only 60 km. The flight takes 25 minutes.
+
+**❓ Can he shorten his prayers on this trip?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**Jurisprudential Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| **Distance** | 60 km — less than 80 km |
+| **Mode of transport** | Does not matter (plane = car = train) |
+| **Duration** | Does not matter — only distance counts |
+| **Ruling on shortening** | ❌ Not permitted |
+
+> 💡 **Rule:** What matters is the distance, not the mode of transport or duration. As long as the distance is less than 80 km, shortening is not permitted even if traveling by plane.
+
+</details>
+
+---
+
+### 🏢 Case 2: Extended Business Trip (3 Months)
+
+> **Situation:** Ahmed is an engineer sent on a work assignment to another city 200 km away. He will stay there for 3 months in a hotel.
+
+**❓ Can he shorten prayers for all three months?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**Jurisprudential Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| **Distance** | 200 km — exceeds 80 km ✅ |
+| **Intended stay duration** | 3 months — more than 4 days |
+| **Intention from start** | He intended to stay more than 4 days |
+| **Maliki ruling** | He becomes a **resident** from day one |
+
+> 💡 **Rule:** One who intends to stay in one place for more than 4 complete days becomes a resident and prays full prayers. Ahmed prays four rak'at from the first day.
+
+</details>
+
+---
+
+### 🚗 Case 3: Daily Commute for Work
+
+> **Situation:** Fatima lives in one city and works in another city 100 km away. She goes every morning and returns every evening.
+
+**❓ Is she considered a traveler and can she shorten prayers daily?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**Jurisprudential Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| **Distance** | 100 km — exceeds 80 km ✅ |
+| **Daily return** | She returns home every day |
+| **Settlement** | She does not reside in the work city |
+| **Ruling** | Disputed issue — completing is safer |
+
+> 💡 **Rule:** Daily work commuting is a contemporary issue. The safer opinion is that she should not shorten because the daily return negates the legal description of travel, though some scholars permitted shortening only during the journey itself.
+
+</details>
+
+---
+
+### 🛫 Case 4: Combining Prayers at the Airport
+
+> **Situation:** Muhammad is at the airport waiting for his flight. Dhuhr time has entered, and his flight will take off in two hours (during Asr time).
+
+**❓ Can he combine Dhuhr and Asr (Jam' Taqdim) at the airport?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**Jurisprudential Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| **Start of travel** | He hasn't left the airport yet |
+| **Has he passed the city limits?** | No — still in his city |
+| **Ruling on shortening** | ❌ Not permitted yet |
+| **Ruling on combining** | ❌ Not permitted yet |
+
+> 💡 **Rule:** Travel dispensations begin after leaving the buildings of one's city, not from the airport. He should pray Dhuhr complete, then he can shorten and combine after the plane takes off if needed.
+
+</details>
+
+---
+
+### 🌍 Case 5: Timezone Changes During Flight
+
+> **Situation:** Sarah is traveling from Saudi Arabia to the USA. The flight is 14 hours. Asr time enters while she's in the air, but she will arrive before Maghrib time in American timezone.
+
+**❓ How should she pray with the changing timezones?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**Jurisprudential Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| **Prayer times** | Follow your current location |
+| **In the plane** | Time changes as you move |
+| **Practical rule** | Pray when time enters where you are |
+| **Combining in-flight** | Permitted for the traveler |
+
+> 💡 **Rule:** What matters is when the prayer time enters at your current location. If a prayer time enters while you're in the air, pray it. Combining is permitted on the plane for ease. Use prayer apps that track your location.
+
+</details>
+
+---
+
 ## ❓ FAQ (الأسئلة الشائعة)
 
 **Q1: Is shortening obligatory?**

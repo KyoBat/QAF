@@ -214,6 +214,132 @@ According to the Maliki school, congregational prayer for the five daily prayers
 
 ---
 
+## 🎯 Contemporary Cases
+
+### 🏢 Case 1: Prayer at Work Without a Mosque
+
+> **Situation:** You work in an office far from any mosque. Can you pray in congregation with Muslim colleagues in a meeting room?
+
+**❓ Is this prayer valid and rewarded?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**Yes, jama'a is valid anywhere:**
+
+| Place | Validity |
+|-------|----------|
+| 🕌 Mosque | Ideal and most rewarded |
+| 🏢 Office/meeting room | Valid with jama'a reward |
+| 🏠 Home | Valid as well |
+
+> 💡 **The Prophet ﷺ said:** *"The earth has been made for me a place of prostration and purification"* — Jama'a has its reward wherever it is.
+
+</details>
+
+---
+
+### 📱 Case 2: Prayer Behind a Screen (Online)
+
+> **Situation:** During COVID, some prayed in "congregation" via Zoom, each at home following the imam via video.
+
+**❓ Is this congregational prayer valid?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**Consensus of contemporary scholars:**
+
+| Situation | Validity |
+|-----------|----------|
+| ❌ Following the imam online | Is NOT a real jama'a |
+| 📊 Condition of jama'a | Being in the same place as the imam |
+| ✅ Your prayer | Valid as individual prayer |
+
+> 💡 **Rule:** Jama'a requires unity of place. Praying behind a screen does not count as congregational prayer.
+
+</details>
+
+---
+
+### 🧒 Case 3: Child as Imam or Follower
+
+> **Situation:** Your 10-year-old son wants to lead Maghrib prayer at home. Can he be imam?
+
+**❓ Is this permissible?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**It depends on the school:**
+
+| School | View on child as imam |
+|--------|----------------------|
+| 🟡 Maliki | Cannot lead adults in obligatory prayer |
+| 🟢 Hanafi | Cannot be imam |
+| 🔵 Shafi'i | Can be imam if he masters recitation |
+| 🟣 Hanbali | Can be imam for nafl, not for fard |
+
+> 💡 **Advice:** The child can be a follower and learn. For fard, let an adult lead.
+
+</details>
+
+---
+
+### 🏠 Case 4: Congregation at Home vs Mosque
+
+> **Situation:** The mosque is 15 minutes walk away. Sometimes you pray jama'a with your family at home.
+
+**❓ Do you get the same reward?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**The mosque has additional reward:**
+
+| Place | Reward |
+|-------|--------|
+| 🕌 Mosque | Jama'a + reward of steps + waiting in the house of Allah |
+| 🏠 Home | Valid jama'a but less reward |
+| 🚶 Each step | Removes a sin and raises a rank |
+
+> 💡 **The Prophet ﷺ said:** *"The people with the greatest reward in prayer are those who walk the farthest distance"* — Muslim
+
+</details>
+
+---
+
+### 👨‍👩‍👧 Case 5: Wife Praying Alone with Husband
+
+> **Situation:** You pray with your wife at home. Where should she stand?
+
+**❓ How to arrange the row?**
+
+<details>
+<summary>📜 View the answer</summary>
+
+**Placement of the follower:**
+
+| Number | Placement |
+|--------|-----------|
+| 👨 One man alone with the imam | To his right |
+| 👩 One woman alone with the imam (her husband) | Behind him |
+| 👨‍👩‍👧 Man + woman | Man to the right of imam, woman behind them |
+
+> 💡 **Hadith of Anas:** *"When the Prophet ﷺ prayed with them, he placed Anas and the orphan behind him, and Umm Sulaym behind them"* — Al-Bukhari
+
+</details>
+
+---
+
+## 💭 Reflection
+
+> *"Congregational prayer is as much a social rite as it is spiritual. It unites the community, teaches humility, and reminds us that we are all equal before Allah — the rich next to the poor, the scholar next to the student."*
+
+— Spiritual reflection
+
+---
+
 ## 🎯 Practical Action
 
 **Weekly plan to maintain congregational prayer:**

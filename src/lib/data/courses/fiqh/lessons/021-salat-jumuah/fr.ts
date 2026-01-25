@@ -198,6 +198,135 @@ Les Malikites considèrent que :
 
 ---
 
+## 🎯 Cas Contemporains
+
+### 🏢 Cas 1 : La Prière du Vendredi au Musalla de l'Université
+
+> **Situation :** Ahmad est étudiant à l'université. Il y a un musalla sur le campus où une vingtaine d'étudiants prient la Jumu'ah ensemble, mais ce n'est pas une mosquée officielle.
+
+**❓ La Jumu'ah dans ce musalla est-elle valide ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Analyse :**
+
+| Critère | Application |
+|---------|-------------|
+| Nombre minimum | 🟡 Malikites : 12 hommes résidents suffisent |
+| Lieu | Pas obligatoire que ce soit une mosquée officielle |
+| Régularité | La prière doit être établie régulièrement |
+
+> 💡 **Règle :** La Jumu'ah est valide dans tout lieu où le nombre minimum est atteint, même un musalla universitaire ou une salle de prière au travail.
+
+</details>
+
+---
+
+### ⏰ Cas 2 : Rater la Khutba mais Attraper le Ruku' de la 2ème Rak'a
+
+> **Situation :** Yusuf arrive très en retard à la mosquée. L'imam est déjà dans le ruku' de la 2ème rak'a. Il rejoint rapidement.
+
+**❓ A-t-il rattrapé la prière du vendredi ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Analyse :**
+
+| Critère | Application |
+|---------|-------------|
+| Condition | Rattraper au moins 1 rak'a complète avec l'imam |
+| Le ruku' compte-t-il ? | Oui, si on rattrape le ruku' de la 2ème rak'a, on a rattrapé cette rak'a |
+| Sinon | Prier Dhuhr (4 rak'at) au lieu de Jumu'ah |
+
+> 💡 **Règle :** Celui qui rattrape au moins le ruku' de la 2ème rak'a a rattrapé la Jumu'ah. Il complète ensuite la rak'a manquante. S'il rate ce ruku', il doit prier Dhuhr.
+
+</details>
+
+---
+
+### ✈️ Cas 3 : Voyager le Vendredi — Jumu'ah ou Dhuhr ?
+
+> **Situation :** Fatima doit prendre un vol le vendredi à 13h. L'heure de la Jumu'ah est à 12h30 à la mosquée près de l'aéroport.
+
+**❓ Doit-elle prier la Jumu'ah ou peut-elle prier Dhuhr dans l'avion ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Analyse :**
+
+| Critère | Application |
+|---------|-------------|
+| Statut du voyageur | Le voyageur est exempté de la Jumu'ah |
+| Avant le départ | Si elle est encore résidente et que le temps est entré, elle doit prier |
+| Pendant le voyage | Elle peut prier Dhuhr raccourcie (2 rak'at) |
+
+> 💡 **Règle :** Si le temps de la Jumu'ah entre avant le départ et qu'on peut y assister, c'est préférable. Si le voyage a commencé, on est considéré comme voyageur et on peut prier Dhuhr.
+
+</details>
+
+---
+
+### 👩 Cas 4 : Les Femmes Assistant à la Jumu'ah
+
+> **Situation :** Khadija souhaite assister à la prière du vendredi à la mosquée pour écouter la khutba et prier en groupe, mais sa belle-mère lui dit que ce n'est pas permis.
+
+**❓ Quel est le statut de la femme qui assiste à la Jumu'ah ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Analyse :**
+
+| Critère | Application |
+|---------|-------------|
+| Obligation | La Jumu'ah n'est PAS obligatoire pour les femmes |
+| Permission | Il est PERMIS d'y assister |
+| Validité | Si elle y assiste, sa prière est valide |
+| Dhuhr | Elle n'a pas à prier Dhuhr en plus |
+
+> 💡 **Règle :** La Jumu'ah est permise pour les femmes sans être obligatoire. Si elle y assiste avec pudeur, sa prière remplace le Dhuhr. Elle peut aussi choisir de prier Dhuhr chez elle.
+
+</details>
+
+---
+
+### 🔊 Cas 5 : Écouter la Khutba via Haut-parleurs depuis l'Extérieur
+
+> **Situation :** La mosquée est pleine. Omar reste à l'extérieur et écoute la khutba via les haut-parleurs. Il ne voit pas l'imam ni les rangs à l'intérieur.
+
+**❓ Sa prière est-elle valide s'il prie dehors en suivant les haut-parleurs ?**
+
+<details>
+<summary>📜 Voir la réponse</summary>
+
+**Analyse :**
+
+| Critère | Application |
+|---------|-------------|
+| Connexion des rangs | Doit y avoir continuité entre les rangs |
+| Suivre l'imam | Via les haut-parleurs est valide si les rangs sont connectés |
+| Obstacle | Si les rangs sont coupés, la prière n'est pas valide en groupe |
+
+> 💡 **Règle :** La prière à l'extérieur est valide si les rangs sont continus jusqu'à l'imam. S'il y a une coupure totale (route, barrière sans prieurs), il vaut mieux rejoindre l'intérieur ou prier Dhuhr.
+
+</details>
+
+---
+
+## 💭 Réflexion
+
+> *« La Jumu'ah est le rendez-vous hebdomadaire des croyants avec leur Seigneur. Ne la néglige pas, car délaisser trois Jumu'ah consécutives par négligence entraîne un sceau sur le cœur. »*
+
+**Questions à méditer :**
+1. Est-ce que j'arrive tôt pour profiter des mérites du premier rang ?
+2. Est-ce que j'éteins mon téléphone pendant la khutba pour écouter attentivement ?
+3. Est-ce que je lis Sourate Al-Kahf chaque vendredi ?
+
+---
+
 ## ❓ FAQ (الأسئلة الشائعة)
 
 **Q1 : Si j'arrive et que l'imam est au ruku', ai-je rattrapé la Jumu'ah ?**

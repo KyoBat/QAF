@@ -154,6 +154,135 @@ Friday prayer is an **individual obligation (fard 'ayn)** upon every free, resid
 
 ---
 
+## 🎯 Contemporary Cases
+
+### 🏢 Case 1: Friday Prayer at University/Workplace Musalla
+
+> **Situation:** Ahmad is a university student. There's a musalla on campus where about twenty students pray Jumu'ah together, but it's not an official mosque.
+
+**❓ Is Jumu'ah in this musalla valid?**
+
+<details>
+<summary>📜 See the answer</summary>
+
+**Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Minimum number | 🟡 Malikis: 12 resident men suffice |
+| Location | Not required to be an official mosque |
+| Regularity | Prayer should be established regularly |
+
+> 💡 **Rule:** Jumu'ah is valid in any place where the minimum number is met, even a university musalla or workplace prayer room.
+
+</details>
+
+---
+
+### ⏰ Case 2: Missing Khutbah but Catching Ruku' of 2nd Rak'a
+
+> **Situation:** Yusuf arrives very late to the mosque. The imam is already in the ruku' of the 2nd rak'a. He quickly joins.
+
+**❓ Has he caught the Friday prayer?**
+
+<details>
+<summary>📜 See the answer</summary>
+
+**Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Condition | Catch at least 1 complete rak'a with the imam |
+| Does ruku' count? | Yes, catching the ruku' of the 2nd rak'a counts |
+| Otherwise | Pray Dhuhr (4 rak'at) instead of Jumu'ah |
+
+> 💡 **Rule:** Whoever catches at least the ruku' of the 2nd rak'a has caught Jumu'ah. He completes the missed rak'a afterward. If he misses this ruku', he must pray Dhuhr.
+
+</details>
+
+---
+
+### ✈️ Case 3: Traveling on Friday — Jumu'ah or Dhuhr?
+
+> **Situation:** Fatima has a flight on Friday at 1 PM. Jumu'ah time is 12:30 PM at the mosque near the airport.
+
+**❓ Should she pray Jumu'ah or can she pray Dhuhr on the plane?**
+
+<details>
+<summary>📜 See the answer</summary>
+
+**Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Traveler's status | Travelers are exempt from Jumu'ah |
+| Before departure | If still resident and time has entered, she should pray |
+| During travel | She can pray shortened Dhuhr (2 rak'at) |
+
+> 💡 **Rule:** If Jumu'ah time enters before departure and attendance is possible, it's preferable. If travel has begun, one is considered a traveler and can pray Dhuhr.
+
+</details>
+
+---
+
+### 👩 Case 4: Women Attending Jumu'ah — Ruling and Etiquette
+
+> **Situation:** Khadija wants to attend Friday prayer at the mosque to listen to the khutbah and pray in congregation, but her mother-in-law says it's not allowed.
+
+**❓ What is the ruling on women attending Jumu'ah?**
+
+<details>
+<summary>📜 See the answer</summary>
+
+**Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Obligation | Jumu'ah is NOT obligatory for women |
+| Permission | It is PERMISSIBLE to attend |
+| Validity | If she attends, her prayer is valid |
+| Dhuhr | She doesn't need to pray Dhuhr afterward |
+
+> 💡 **Rule:** Jumu'ah is permissible for women without being obligatory. If she attends modestly, her prayer replaces Dhuhr. She may also choose to pray Dhuhr at home.
+
+</details>
+
+---
+
+### 🔊 Case 5: Listening to Khutbah via Speakers from Outside Mosque
+
+> **Situation:** The mosque is full. Omar stays outside and listens to the khutbah via loudspeakers. He cannot see the imam or the rows inside.
+
+**❓ Is his prayer valid if he prays outside following the speakers?**
+
+<details>
+<summary>📜 See the answer</summary>
+
+**Analysis:**
+
+| Criterion | Application |
+|-----------|-------------|
+| Row connection | There must be continuity between rows |
+| Following imam | Via loudspeakers is valid if rows are connected |
+| Barrier | If rows are cut off, the congregational prayer is invalid |
+
+> 💡 **Rule:** Prayer outside is valid if rows are continuous to the imam. If there's a complete break (road, barrier with no worshippers), it's better to join inside or pray Dhuhr.
+
+</details>
+
+---
+
+## 💭 Reflection
+
+> *"Jumu'ah is the weekly appointment of believers with their Lord. Do not neglect it, for abandoning three consecutive Fridays out of negligence causes a seal on the heart."*
+
+**Questions to ponder:**
+1. Do I arrive early to benefit from the merits of the first row?
+2. Do I turn off my phone during the khutbah to listen attentively?
+3. Do I read Surah Al-Kahf every Friday?
+
+---
+
 ## ❓ Frequently Asked Questions (الأسئلة الشائعة)
 
 **Q1: Who is exempt from Friday prayer?**
