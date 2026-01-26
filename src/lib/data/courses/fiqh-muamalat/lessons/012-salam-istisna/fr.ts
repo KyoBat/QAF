@@ -274,31 +274,108 @@ Et ils leur paient le prix à l'avance ou à terme, **et aucun savant ne les a c
 
 ### Premier cas : La précommande (Pre-order) de téléphones
 
-<!-- DIAGRAM:case-preorder-phone -->
+<div class="case-box">
+
+**📱 Cas : Pre-order pour le nouveau téléphone**
+
+**Question :** Apple a annoncé un nouvel iPhone et a ouvert les précommandes. Est-il permis de payer maintenant et de recevoir dans deux mois ?
+
+**Réponse :** ✅ **Permis — sous forme de Salam**
+
+**Conditions remplies :**
+- ✓ Spécifications précises (type, capacité, couleur)
+- ✓ Date de livraison déterminée
+- ✓ Prix reçu à la commande
+- ✓ Bien décrit en responsabilité (pas un téléphone spécifique)
+
+</div>
 
 ---
 
 ### Deuxième cas : Le financement participatif (Crowdfunding)
 
-<!-- DIAGRAM:case-crowdfunding -->
+<div class="case-box">
+
+**💡 Cas : Kickstarter pour une montre connectée**
+
+**Question :** Le site Kickstarter présente un projet de fabrication d'une montre connectée. Les acheteurs paient maintenant et le produit sera fabriqué et livré dans 8 mois. Quel est le jugement ?
+
+**Réponse :** ✅ **Permis — sous forme d'Istisna'**
+
+**À condition que :**
+- ✓ Les spécifications du produit soient précises
+- ✓ Le fabricant s'engage sur la date de livraison
+- ✓ Le fabricant assume les risques de fabrication
+
+**⚠️ Avertissement :** Si le projet échoue et que rien n'est produit → l'argent doit être remboursé aux acheteurs
+
+</div>
 
 ---
 
 ### Troisième cas : Achat d'appartement sur plan
 
-<!-- DIAGRAM:case-apartment-purchase -->
+<div class="case-box">
+
+**🏠 Cas : Achat d'un appartement en construction**
+
+**Question :** Une société immobilière vend des appartements qui seront construits dans deux ans. Quelle est la méthode conforme à la Charia pour contracter ?
+
+**Réponse :** ✅ **Permis — sous forme d'Istisna'**
+
+**Conditions légales :**
+1. Spécifications via les plans et dessins
+2. Calendrier des étapes de construction et livraisons partielles
+3. Paiements échelonnés permis
+4. Garantie du promoteur jusqu'à la livraison finale
+5. Droit de l'acheteur de résilier en cas de non-conformité
+
+**Mode de paiement :** 20% Contrat → 30% Fondations → 30% Structure → 20% Livraison
+
+</div>
 
 ---
 
 ### Quatrième cas : Réservation de récoltes à l'avance
 
-<!-- DIAGRAM:case-harvest-reservation -->
+<div class="case-box">
+
+**🌾 Cas : Achat de blé avant la récolte**
+
+**Question :** Un marchand veut acheter une récolte de blé d'un agriculteur six mois avant la récolte. Comment le contrat est-il valide ?
+
+**Réponse :** ✅ **Permis — sous forme de Salam**
+
+| Élément | Détail |
+|---|---|
+| 💰 Prix | Payé intégralement à la signature du contrat |
+| 📦 Quantité | 100 tonnes |
+| 🌾 Type | Blé égyptien première qualité |
+| 📅 Date | Après la récolte en août |
+| 📍 Lieu | Entrepôt du marchand dans telle ville |
+
+</div>
 
 ---
 
 ### Cinquième cas : Fabrication de meubles sur mesure
 
-<!-- DIAGRAM:case-furniture-manufacturing -->
+<div class="case-box">
+
+**🪑 Cas : Commande d'une chambre à coucher chez le menuisier**
+
+**Question :** J'ai demandé à un menuisier de fabriquer une chambre à coucher avec un design personnalisé. Nous avons convenu du prix et de la livraison dans un mois. Est-il permis de payer la moitié d'avance ?
+
+**Réponse :** ✅ **Permis — c'est de l'Istisna'**
+
+**Avantage de l'Istisna' concernant le prix :** Le prix dans l'Istisna' est **flexible** :
+- ✓ Paiement total anticipé
+- ✓ Paiement total différé
+- ✓ Paiement échelonné
+
+*(Contrairement au Salam où l'anticipation du paiement est requise)*
+
+</div>
 
 ---
 

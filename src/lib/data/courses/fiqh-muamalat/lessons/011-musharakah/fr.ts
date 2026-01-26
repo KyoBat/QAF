@@ -78,32 +78,7 @@ Le Prophète ﷺ a dit : **"Allah le Très-Haut dit : Je suis le troisième des 
 
 </div>
 
-\`\`\`
-    ┌─────────────────────────────────────────┐
-    │      Allah est le troisième             │
-    │        par bénédiction et protection    │
-    └───────────────────┬─────────────────────┘
-                        │
-                        ▼
-    ┌──────────────────────────────────────────┐
-    │    Tant qu'ils sont sincères et fidèles  │
-    │    ═══════════════════════════          │
-    │    Associé ◄──── loyauté ────► Associé   │
-    │                  ▲                       │
-    │                  │                       │
-    │         bénédiction et succès            │
-    └──────────────────────────────────────────┘
-                        │
-              ┌─────────┴─────────┐
-              ▼                   ▼
-    ┌──────────────┐    ┌──────────────────────┐
-    │ Si l'un      │    │ S'ils restent        │
-    │ trahit       │    │ fidèles              │
-    │ ───────────  │    │ ────────────────     │
-    │ La bénédic-  │    │ Succès et            │
-    │ tion s'en va │    │ croissance durent    │
-    └──────────────┘    └──────────────────────┘
-\`\`\`
+<!-- DIAGRAM:sharikah-blessing -->
 
 **Consensus de la Oumma :** Les savants sont unanimes sur la licéité de la société en général.
 
@@ -139,28 +114,7 @@ Le Prophète ﷺ a dit : **"Allah le Très-Haut dit : Je suis le troisième des 
 
 > Que deux personnes ou plus s'associent avec leurs capitaux pour y travailler et partager les bénéfices.
 
-\`\`\`
-┌─────────────────────────────────────────────────┐
-│              Shirkat al-'Inân                   │
-│       "La mère des sociétés, la plus valide"   │
-├─────────────────────────────────────────────────┤
-│                                                 │
-│    Associé 1           Associé 2                │
-│    ────────           ────────                  │
-│    capital + travail + capital + travail        │
-│         │                 │                     │
-│         └────────┬────────┘                     │
-│                  ▼                              │
-│            ┌──────────┐                         │
-│            │ Bénéfice │                         │
-│            │ partagé  │                         │
-│            └──────────┘                         │
-│                                                 │
-│   Bénéfice : selon l'accord                     │
-│   Perte : proportionnelle au capital            │
-│                                                 │
-└─────────────────────────────────────────────────┘
-\`\`\`
+<!-- DIAGRAM:sharikah-inan -->
 
 ### Conditions
 
@@ -402,31 +356,7 @@ Société dont le capital est divisé en **actions de valeur égale**, négociab
 
 ### Distribution des Bénéfices et Pertes
 
-\`\`\`
-┌─────────────────────────────────────────────────┐
-│         La Règle d'Or des Sociétés             │
-├─────────────────────────────────────────────────┤
-│                                                 │
-│   "Le bénéfice selon l'accord, et la perte     │
-│    proportionnelle au capital"                  │
-│                                                 │
-│   ┌─────────────────────────────────────┐      │
-│   │                                     │      │
-│   │   Bénéfice ──► Selon l'accord      │      │
-│   │                (disparité permise)  │      │
-│   │                                     │      │
-│   │   Perte ──► Proportion du capital  │      │
-│   │             (toujours en %)        │      │
-│   │                                     │      │
-│   └─────────────────────────────────────┘      │
-│                                                 │
-│   Exemple : deux associés (60% - 40% capital)  │
-│   ────────────────────────────────────          │
-│   Accord : bénéfice 50% - 50% ──► Valide       │
-│   Perte : sera 60% - 40% ──► Obligatoire       │
-│                                                 │
-└─────────────────────────────────────────────────┘
-\`\`\`
+<!-- DIAGRAM:sharikah-profit-loss-rule -->
 
 ### Causes de Dissolution de la Société
 
@@ -527,16 +457,7 @@ Société dont le capital est divisé en **actions de valeur égale**, négociab
 
 Comment répartir les bénéfices et pertes ?
 
-**Analyse :**
-\`\`\`
-┌─────────────────────────────────────────┐
-│    Shirkat 'Inân + travail (mixte)     │
-├─────────────────────────────────────────┤
-│ Associé 1 : 500 000 (capital)          │
-│ Associé 2 : 300 000 (capital)          │
-│ Associé 3 : travail (gestion)          │
-└─────────────────────────────────────────┘
-\`\`\`
+**Analyse :** Shirkat 'Inân + travail (mixte) — Associé 1 : 500 000 (capital), Associé 2 : 300 000 (capital), Associé 3 : travail (gestion).
 
 **Réponse :**
 
@@ -601,36 +522,7 @@ Allah le Très-Haut est avec les associés... Il les protège et les bénit... *
 
 ## Résumé de la Leçon
 
-\`\`\`
-┌─────────────────────────────────────────────────┐
-│           Résumé des Règles des Sociétés       │
-├─────────────────────────────────────────────────┤
-│                                                 │
-│  Sociétés traditionnelles :                     │
-│  ──────────────────────────                     │
-│  • Shirkat al-'Inân ─────────► ✅ Consensus    │
-│  • Shirkat al-Mufâwada ──────► ⚠️ Divergence  │
-│  • Shirkat al-Abdân ─────────► ✅ Majorité    │
-│  • Shirkat al-Wujûh ─────────► ⚠️ Divergence  │
-│  • Mudâraba ─────────────────► ✅ Consensus    │
-│                                                 │
-│  Sociétés modernes :                            │
-│  ────────────────────                           │
-│  • Par actions (activité licite) ► ✅ Licite   │
-│  • Par actions (activité illicite)► ❌ Illicite│
-│  • Par actions (mixte) ────────► ⚠️ Divergence│
-│  • SARL ─────────────────────► ✅ Licite       │
-│  • Participation décroissante ─► ✅ Sous cond. │
-│                                                 │
-│  Règles fondamentales :                         │
-│  ──────────────────────                         │
-│  • "Le bénéfice selon l'accord"                │
-│  • "La perte selon le capital"                 │
-│  • "L'associé est dépositaire,                 │
-│     ne garantit qu'en cas d'abus"              │
-│                                                 │
-└─────────────────────────────────────────────────┘
-\`\`\`
+<!-- DIAGRAM:sharikah-summary -->
 
 ---
 

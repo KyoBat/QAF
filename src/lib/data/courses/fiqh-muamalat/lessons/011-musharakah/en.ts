@@ -42,24 +42,7 @@ Partnership (shirka) comes from mixing and blending. The Arabs say: "I partnered
 
 ### Terminology
 
-\`\`\`
-┌──────────────────────────────────────────────┐
-│             Definition of Partnership        │
-│                                              │
-│    "Union in ownership or management"        │
-│                                              │
-├───────────────────┬──────────────────────────┤
-│ Partnership of    │    Partnership of        │
-│ Ownership         │    Management            │
-├───────────────────┼──────────────────────────┤
-│ Two or more       │ Two or more              │
-│ people own        │ people contract          │
-│ a common asset    │ to trade together        │
-├───────────────────┼──────────────────────────┤
-│ Ex: heirs of      │ Ex: partners in          │
-│ a house           │ a business or project    │
-└───────────────────┴──────────────────────────┘
-\`\`\`
+<!-- DIAGRAM:sharikah-definition -->
 
 ---
 
@@ -95,32 +78,7 @@ The Prophet ﷺ said: **"Allah the Most High says: I am the third of two partner
 
 </div>
 
-\`\`\`
-    ┌─────────────────────────────────────────┐
-    │      Allah is the third                 │
-    │        with blessing and protection     │
-    └───────────────────┬─────────────────────┘
-                        │
-                        ▼
-    ┌──────────────────────────────────────────┐
-    │    As long as they are sincere & faithful│
-    │    ═══════════════════════════          │
-    │    Partner ◄──── loyalty ────► Partner   │
-    │                  ▲                       │
-    │                  │                       │
-    │         blessing and success             │
-    └──────────────────────────────────────────┘
-                        │
-              ┌─────────┴─────────┐
-              ▼                   ▼
-    ┌──────────────┐    ┌──────────────────────┐
-    │ If one       │    │ If they remain       │
-    │ betrays      │    │ faithful             │
-    │ ───────────  │    │ ────────────────     │
-    │ Blessing     │    │ Success and          │
-    │ departs      │    │ growth continue      │
-    └──────────────┘    └──────────────────────┘
-\`\`\`
+<!-- DIAGRAM:sharikah-blessing -->
 
 **Consensus of the Ummah:** Scholars are unanimous on the permissibility of partnership in general.
 
@@ -128,25 +86,7 @@ The Prophet ﷺ said: **"Allah the Most High says: I am the third of two partner
 
 ## Types of Partnerships
 
-\`\`\`
-                    Types of Partnerships
-                         │
-         ┌───────────────┼───────────────┐
-         ▼               ▼               ▼
-    ┌─────────┐    ┌──────────┐    ┌──────────┐
-    │Contract │    │Ownership │    │Modern    │
-    │Partner- │    │Partner-  │    │Companies │
-    │ships    │    │ships     │    │          │
-    └────┬────┘    └──────────┘    └────┬────┘
-         │                              │
-    ┌────┴────────────────┐       ┌────┴────┐
-    │  1. Shirkat al-'Inân│       │Joint    │
-    │  2. Shirkat Mufâwada│       │Stock    │
-    │  3. Shirkat Abdân   │       │LLC      │
-    │  4. Shirkat Wujûh   │       │Diminish-│
-    │  5. Mudâraba        │       │ing      │
-    └────────────────────┘       └─────────┘
-\`\`\`
+<!-- DIAGRAM:sharikah-types -->
 
 ---
 
@@ -174,28 +114,7 @@ The Prophet ﷺ said: **"Allah the Most High says: I am the third of two partner
 
 > That two or more people partner with their capitals to work in it and share the profits.
 
-\`\`\`
-┌─────────────────────────────────────────────────┐
-│              Shirkat al-'Inân                   │
-│       "The mother of partnerships, most valid" │
-├─────────────────────────────────────────────────┤
-│                                                 │
-│    Partner 1           Partner 2                │
-│    ────────           ────────                  │
-│    capital + work  +  capital + work            │
-│         │                 │                     │
-│         └────────┬────────┘                     │
-│                  ▼                              │
-│            ┌──────────┐                         │
-│            │ Profit   │                         │
-│            │ shared   │                         │
-│            └──────────┘                         │
-│                                                 │
-│   Profit: according to agreement                │
-│   Loss: proportional to capital                 │
-│                                                 │
-└─────────────────────────────────────────────────┘
-\`\`\`
+<!-- DIAGRAM:sharikah-inan -->
 
 ### Conditions
 
@@ -232,26 +151,7 @@ That two or more people partner being **equal in everything**:
 
 </div>
 
-\`\`\`
-┌─────────────────────────────────────────────────┐
-│            Shirkat al-Mufâwada                  │
-│         "Complete equality in everything"      │
-├─────────────────────────────────────────────────┤
-│                                                 │
-│      Partner 1          =         Partner 2    │
-│      ───────                      ───────       │
-│      Capital            =         Capital       │
-│      Work               =         Work          │
-│      Profit             =         Profit        │
-│      Loss               =         Loss          │
-│      Guarantee          =         Guarantee     │
-│                                                 │
-├─────────────────────────────────────────────────┤
-│  Ruling:                                        │
-│  • Majority: invalid (rarely achievable)        │
-│  • Hanafis: valid                               │
-└─────────────────────────────────────────────────┘
-\`\`\`
+<!-- DIAGRAM:sharikah-mufawada -->
 
 **Reason for disagreement:** It is nearly impossible for two people to be equal in everything!
 
@@ -281,29 +181,7 @@ That two or more people partner being **equal in everything**:
 
 > That two or more people partner in what they earn through their labor (their bodies) without capital.
 
-\`\`\`
-┌─────────────────────────────────────────────────┐
-│            Shirkat al-Abdân                     │
-│        "Partnership through labor"             │
-├─────────────────────────────────────────────────┤
-│                                                 │
-│    Partner 1              Partner 2             │
-│    ────────              ────────               │
-│      labor         +       labor                │
-│    (no capital)         (no capital)            │
-│         │                 │                     │
-│         └────────┬────────┘                     │
-│                  ▼                              │
-│            ┌──────────┐                         │
-│            │ Joint    │                         │
-│            │ output   │                         │
-│            └──────────┘                         │
-│                  │                              │
-│                  ▼                              │
-│         Share the profits                       │
-│                                                 │
-└─────────────────────────────────────────────────┘
-\`\`\`
+<!-- DIAGRAM:sharikah-abdan -->
 
 ### Contemporary Applications
 
@@ -349,31 +227,7 @@ That two or more people partner being **equal in everything**:
 
 > That two people partner in what they buy **through their reputation and people's trust** (on credit), then sell it and share the profit.
 
-\`\`\`
-┌─────────────────────────────────────────────────┐
-│            Shirkat al-Wujûh                     │
-│        "Partnership through reputation"        │
-├─────────────────────────────────────────────────┤
-│                                                 │
-│    Partner 1              Partner 2             │
-│    ────────              ────────               │
-│    reputation + credit + reputation             │
-│    (no capital)         (no capital)            │
-│         │                 │                     │
-│         └────────┬────────┘                     │
-│                  ▼                              │
-│         ┌───────────────┐                       │
-│         │Purchase on    │                       │
-│         │credit (trust) │                       │
-│         └───────┬───────┘                       │
-│                 ▼                               │
-│           Sale with profit                      │
-│                 │                               │
-│                 ▼                               │
-│      Repayment + Share profits                  │
-│                                                 │
-└─────────────────────────────────────────────────┘
-\`\`\`
+<!-- DIAGRAM:sharikah-wujuh -->
 
 ### Ruling
 
@@ -390,23 +244,7 @@ That two or more people partner being **equal in everything**:
 
 *(Detailed in the previous lesson)*
 
-\`\`\`
-┌─────────────────────────────────────────────────┐
-│        Comparison: Mudâraba vs Partnerships     │
-├─────────────────────────────────────────────────┤
-│                                                 │
-│   Mudâraba          ≠       Shirkat al-'Inân   │
-│   ────────                  ────────────        │
-│   Capital owner only       Both work and        │
-│   + worker only            invest capital       │
-│                                                 │
-│   Mudâraba          ≠       Shirkat Abdân      │
-│   ────────                  ────────────        │
-│   capital + labor          labor only           │
-│   (from two parties)      (from both parties)   │
-│                                                 │
-└─────────────────────────────────────────────────┘
-\`\`\`
+<!-- DIAGRAM:sharikah-mudaraba-comparison -->
 
 ---
 
@@ -434,52 +272,11 @@ A company whose capital is divided into **shares of equal value**, tradable, and
 
 </div>
 
-\`\`\`
-┌─────────────────────────────────────────────────┐
-│           Joint Stock Company                   │
-│     Capital = Sum of shares                    │
-├─────────────────────────────────────────────────┤
-│                                                 │
-│  Capital: 1,000,000 riyals                      │
-│  ─────────────────────────                      │
-│  Divided into: 10,000 shares                    │
-│  Share value: 100 riyals                        │
-│                                                 │
-│  ┌─────────────────────────────────────┐       │
-│  │     Ownership Distribution          │       │
-│  ├──────────────┬──────────────────────┤       │
-│  │ Shareholder A│ 3000 shares = 30%    │       │
-│  │ Shareholder B│ 2000 shares = 20%    │       │
-│  │ Shareholder C│ 1500 shares = 15%    │       │
-│  │ The rest     │ 3500 shares = 35%    │       │
-│  └──────────────┴──────────────────────┘       │
-│                                                 │
-│  • Profits distributed by shares               │
-│  • Liability limited to share value            │
-│  • Shares are tradable                         │
-│                                                 │
-└─────────────────────────────────────────────────┘
-\`\`\`
+<!-- DIAGRAM:sharikah-musahama -->
 
 ### Types of Joint Stock Companies by Islamic Ruling
 
-\`\`\`
-              Joint Stock Companies
-                       │
-       ┌───────────────┼───────────────┐
-       ▼               ▼               ▼
-   ┌───────┐      ┌─────────┐      ┌─────────┐
-   │Permis-│      │Prohib-  │      │ Mixed   │
-   │sible  │      │ited     │      │         │
-   │  ✅   │      │   ❌    │      │   ⚠️   │
-   └───┬───┘      └────┬────┘      └────┬────┘
-       │               │                │
-       ▼               ▼                ▼
-   Halal food     Interest banks    Permissible
-   Construction   Alcohol/Gambling  activity +
-   Technology     Conventional      minor usurious
-                  insurance         transactions
-\`\`\`
+<!-- DIAGRAM:sharikah-musahama-types -->
 
 ### Ruling on Mixed Companies
 
@@ -496,32 +293,7 @@ A company whose capital is divided into **shares of equal value**, tradable, and
 
 ### Limited Liability Company (LLC)
 
-\`\`\`
-┌─────────────────────────────────────────────────┐
-│       Limited Liability Company                 │
-├─────────────────────────────────────────────────┤
-│                                                 │
-│  Main characteristic:                           │
-│  ─────────────────────                          │
-│  Partner's liability is limited to              │
-│  their share in the capital                     │
-│                                                 │
-│  Example:                                       │
-│  ─────────                                      │
-│  • Company capital: 500,000 riyals              │
-│  • Ahmad's share: 100,000 riyals (20%)          │
-│  • Company loses and owes: 800,000 riyals       │
-│                                                 │
-│  What happens?                                  │
-│  ──────────────                                 │
-│  • Ahmad loses only his share (100,000)         │
-│  • He is not required to pay more               │
-│                                                 │
-│  Islamic ruling: Permissible ✅                 │
-│  (modern contract allowed under conditions)     │
-│                                                 │
-└─────────────────────────────────────────────────┘
-\`\`\`
+<!-- DIAGRAM:sharikah-llc -->
 
 ---
 
@@ -551,42 +323,7 @@ A company whose capital is divided into **shares of equal value**, tradable, and
 
 ### How Does It Work?
 
-\`\`\`
-┌─────────────────────────────────────────────────┐
-│         Diminishing Partnership                 │
-│    "Diminishing Musharakah"                    │
-├─────────────────────────────────────────────────┤
-│                                                 │
-│  At the beginning:                              │
-│  ─────────────────                              │
-│  ┌─────────────────────────────────────┐       │
-│  │████████████████████│░░░░░░░░░░░░░░░░│       │
-│  │     Bank 80%      │   Client 20%   │       │
-│  └─────────────────────────────────────┘       │
-│                                                 │
-│  After one year:                                │
-│  ────────────────                               │
-│  ┌─────────────────────────────────────┐       │
-│  │██████████████│░░░░░░░░░░░░░░░░░░░░░░│       │
-│  │   Bank 60%   │     Client 40%      │       │
-│  └─────────────────────────────────────┘       │
-│                                                 │
-│  After two years:                               │
-│  ─────────────────                              │
-│  ┌─────────────────────────────────────┐       │
-│  │████████│░░░░░░░░░░░░░░░░░░░░░░░░░░░░│       │
-│  │Bank 40%│        Client 60%         │       │
-│  └─────────────────────────────────────┘       │
-│                                                 │
-│  At the end:                                    │
-│  ────────────                                   │
-│  ┌─────────────────────────────────────┐       │
-│  │░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│       │
-│  │          Client 100%               │       │
-│  └─────────────────────────────────────┘       │
-│                                                 │
-└─────────────────────────────────────────────────┘
-\`\`\`
+<!-- DIAGRAM:musharakah-mutanaqisa -->
 
 ### Conditions for Islamic Validity
 
@@ -605,25 +342,7 @@ A company whose capital is divided into **shares of equal value**, tradable, and
 
 ### Partner's Guarantee
 
-\`\`\`
-┌─────────────────────────────────────────────────┐
-│              Rule of Guarantee                  │
-├─────────────────────────────────────────────────┤
-│                                                 │
-│   "Each partner is a trustee of the company's   │
-│    capital, he only guarantees in case of       │
-│    transgression or negligence"                 │
-│                                                 │
-│   ┌────────────┬────────────────────────┐      │
-│   │ Principle  │ Partner = trustee      │      │
-│   │            │ = no guarantee         │      │
-│   ├────────────┼────────────────────────┤      │
-│   │ Exception  │ Transgression = liable │      │
-│   │            │ Negligence = liable    │      │
-│   └────────────┴────────────────────────┘      │
-│                                                 │
-└─────────────────────────────────────────────────┘
-\`\`\`
+<!-- DIAGRAM:sharikah-guarantee-rule -->
 
 ### Right of Action
 
@@ -665,24 +384,7 @@ A company whose capital is divided into **shares of equal value**, tradable, and
 
 ### Causes of Partnership Dissolution
 
-\`\`\`
-         Causes of Dissolution
-                 │
-    ┌────────────┼────────────┐
-    │            │            │
-    ▼            ▼            ▼
-┌────────┐  ┌────────┐  ┌────────────┐
-│By time │  │By      │  │By will     │
-│        │  │capital │  │            │
-└───┬────┘  └───┬────┘  └─────┬──────┘
-    │           │             │
-    ▼           ▼             ▼
-• End of     • Loss of   • Mutual
-  duration    company      termination
-• Goal        capital    • Partner
-  achieved                 withdrawal
-                         • Death
-\`\`\`
+<!-- DIAGRAM:sharikah-termination -->
 
 ---
 

@@ -826,6 +826,41 @@ const diagramsRegistry: Record<string, DiagramData> = {
     ]
   },
 
+  'sharikah-mudaraba-comparison': {
+    type: 'comparison',
+    title: {
+      ar: 'مقارنة: المضاربة vs الشركات',
+      fr: 'Comparaison: Moudaraba vs Sociétés',
+      en: 'Comparison: Mudaraba vs Partnerships'
+    },
+    columns: [
+      { header: { ar: 'البند', fr: 'Élément', en: 'Element' } },
+      { header: { ar: 'المضاربة', fr: 'Moudaraba', en: 'Mudaraba' } },
+      { header: { ar: 'شركة العنان', fr: 'Shirkat al-Inan', en: 'Shirkat al-Inan' } },
+      { header: { ar: 'شركة الأبدان', fr: 'Shirkat al-Abdan', en: 'Shirkat Abdan' } }
+    ],
+    rows: [
+      [
+        { ar: 'رأس المال', fr: 'Capital', en: 'Capital' },
+        { ar: 'من رب المال فقط', fr: 'Du bailleur seulement', en: 'From capital owner only' },
+        { ar: 'من الطرفين', fr: 'Des deux parties', en: 'From both parties' },
+        { ar: 'لا يوجد', fr: 'Aucun', en: 'None' }
+      ],
+      [
+        { ar: 'العمل', fr: 'Travail', en: 'Work' },
+        { ar: 'من المضارب فقط', fr: 'Du moudarib seulement', en: 'From mudarib only' },
+        { ar: 'من الطرفين', fr: 'Des deux parties', en: 'From both parties' },
+        { ar: 'من الطرفين', fr: 'Des deux parties', en: 'From both parties' }
+      ],
+      [
+        { ar: 'التمايز', fr: 'Distinction', en: 'Distinction' },
+        { ar: 'مال + عمل (طرفين مختلفين)', fr: 'Capital + travail (parties différentes)', en: 'Capital + work (different parties)' },
+        { ar: 'كلاهما يعمل ويضع مالاً', fr: 'Les deux travaillent et investissent', en: 'Both work and invest' },
+        { ar: 'عمل فقط (من الطرفين)', fr: 'Travail seulement (des deux)', en: 'Work only (from both)' }
+      ]
+    ]
+  },
+
   'sharikah-musahama': {
     type: 'ruling',
     title: {

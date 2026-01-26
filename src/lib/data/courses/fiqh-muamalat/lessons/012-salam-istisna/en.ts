@@ -670,155 +670,108 @@ And they pay them the price in advance or at term, **and no scholar has criticiz
 
 ### Case One: Phone Pre-orders
 
-\`\`\`
-┌─────────────────────────────────────────────────────────────┐
-│  📱 Case: Pre-order for the new phone                       │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  Question:                                                  │
-│  ══════════                                                 │
-│  Apple announced a new iPhone and opened pre-orders.        │
-│  Is it permitted to pay now and receive in two months?      │
-│                                                             │
-│  Answer:                                                    │
-│  ══════════                                                 │
-│  ✅ Permitted — as a form of Salam                          │
-│                                                             │
-│  Conditions fulfilled:                                      │
-│  ✓ Precise specifications (type, capacity, color)          │
-│  ✓ Determined delivery date                                │
-│  ✓ Price received at order                                 │
-│  ✓ Described good (not a specific phone)                   │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-\`\`\`
+<div class="case-box">
+
+**📱 Case: Pre-order for the new phone**
+
+**Question:** Apple announced a new iPhone and opened pre-orders. Is it permitted to pay now and receive in two months?
+
+**Answer:** ✅ **Permitted — as a form of Salam**
+
+**Conditions fulfilled:**
+- ✓ Precise specifications (type, capacity, color)
+- ✓ Determined delivery date
+- ✓ Price received at order
+- ✓ Described good in liability (not a specific phone)
+
+</div>
 
 ---
 
 ### Case Two: Crowdfunding
 
-\`\`\`
-┌─────────────────────────────────────────────────────────────┐
-│  💡 Case: Kickstarter for a smartwatch                      │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  Question:                                                  │
-│  ══════════                                                 │
-│  Kickstarter presents a project to manufacture a            │
-│  smartwatch. Buyers pay now and the product will be         │
-│  made and delivered in 8 months. What is the ruling?        │
-│                                                             │
-│  Answer:                                                    │
-│  ══════════                                                 │
-│  ✅ Permitted — as a form of Istisna'                       │
-│                                                             │
-│  Provided that:                                             │
-│  ✓ Product specifications are precise                      │
-│  ✓ Manufacturer commits to the date                        │
-│  ✓ Manufacturer bears the risks of production              │
-│                                                             │
-│  ⚠️ Note:                                                   │
-│  If the project fails ═══► money must be refunded          │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-\`\`\`
+<div class="case-box">
+
+**💡 Case: Kickstarter for a smartwatch**
+
+**Question:** Kickstarter presents a project to manufacture a smartwatch. Buyers pay now and the product will be made and delivered in 8 months. What is the ruling?
+
+**Answer:** ✅ **Permitted — as a form of Istisna'**
+
+**Provided that:**
+- ✓ Product specifications are precise
+- ✓ Manufacturer commits to the delivery date
+- ✓ Manufacturer bears the risks of production
+
+**⚠️ Note:** If the project fails and nothing is produced → money must be refunded to buyers
+
+</div>
 
 ---
 
 ### Case Three: Buying an Off-Plan Apartment
 
-\`\`\`
-┌─────────────────────────────────────────────────────────────┐
-│  🏠 Case: Buying an apartment under construction            │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  Question:                                                  │
-│  ══════════                                                 │
-│  A real estate company sells apartments that will be        │
-│  built in two years. What is the Sharia-compliant method?   │
-│                                                             │
-│  Answer:                                                    │
-│  ══════════                                                 │
-│  ✅ Permitted — as a form of Istisna'                       │
-│                                                             │
-│  Conditions to respect:                                     │
-│  ═══════════════════════                                    │
-│  1. Specifications via plans and drawings                  │
-│  2. Schedule of stages and partial deliveries              │
-│  3. Installment payments permitted                         │
-│  4. Developer's guarantee until final delivery             │
-│  5. Buyer's right to cancel if non-conformity              │
-│                                                             │
-│  ┌────────────────────────────────────────────────────┐    │
-│  │ 20%     │  30%      │  30%      │  20%             │    │
-│  │ Contract│ Foundations│ Structure │ Delivery        │    │
-│  └────────────────────────────────────────────────────┘    │
-└─────────────────────────────────────────────────────────────┘
-\`\`\`
+<div class="case-box">
+
+**🏠 Case: Buying an apartment under construction**
+
+**Question:** A real estate company sells apartments that will be built in two years. What is the Sharia-compliant method for contracting?
+
+**Answer:** ✅ **Permitted — as a form of Istisna'**
+
+**Legal conditions:**
+1. Specifications via plans and drawings
+2. Schedule of construction stages and partial deliveries
+3. Installment payments permitted
+4. Developer's guarantee until final delivery
+5. Buyer's right to cancel if non-conformity
+
+**Payment method:** 20% Contract → 30% Foundations → 30% Structure → 20% Delivery
+
+</div>
 
 ---
 
 ### Case Four: Advance Crop Reservation
 
-\`\`\`
-┌─────────────────────────────────────────────────────────────┐
-│  🌾 Case: Buying wheat before harvest                       │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  Question:                                                  │
-│  ══════════                                                 │
-│  A merchant wants to buy a wheat harvest from a farmer      │
-│  six months before harvest. How is the contract valid?      │
-│                                                             │
-│  Answer:                                                    │
-│  ══════════                                                 │
-│  ✅ Permitted — as a form of Salam                          │
-│                                                             │
-│  ┌─────────────────────────────────────────────────────┐   │
-│  │            Valid Contract Elements                  │   │
-│  ├─────────────────────────────────────────────────────┤   │
-│  │ 💰 Price     │ Paid in full at contract             │   │
-│  │ 📦 Quantity  │ 100 tons                             │   │
-│  │ 🌾 Type      │ Egyptian wheat first quality         │   │
-│  │ 📅 Date      │ After harvest in August              │   │
-│  │ 📍 Location  │ Merchant's warehouse in such city    │   │
-│  └─────────────────────────────────────────────────────┘   │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-\`\`\`
+<div class="case-box">
+
+**🌾 Case: Buying wheat before harvest**
+
+**Question:** A merchant wants to buy a wheat harvest from a farmer six months before harvest. How is the contract valid?
+
+**Answer:** ✅ **Permitted — as a form of Salam**
+
+| Element | Detail |
+|---|---|
+| 💰 Price | Paid in full at contract |
+| 📦 Quantity | 100 tons |
+| 🌾 Type | Egyptian wheat first quality |
+| 📅 Date | After harvest in August |
+| 📍 Location | Merchant's warehouse in such city |
+
+</div>
 
 ---
 
 ### Case Five: Custom Furniture Manufacturing
 
-\`\`\`
-┌─────────────────────────────────────────────────────────────┐
-│  🪑 Case: Ordering a bedroom set from a carpenter           │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  Question:                                                  │
-│  ══════════                                                 │
-│  I ordered a bedroom set with a custom design from a        │
-│  carpenter. We agreed on the price and delivery in a month. │
-│  Is it permitted to pay half in advance?                    │
-│                                                             │
-│  Answer:                                                    │
-│  ══════════                                                 │
-│  ✅ Permitted — this is Istisna'                            │
-│                                                             │
-│  Advantage of Istisna' regarding price:                     │
-│  ══════════════════════════════════════                     │
-│                                                             │
-│  ┌──────────────────┐                                       │
-│  │  Price in Istisna' is flexible:                        │ │
-│  │  ✓ Pay all in advance                                  │ │
-│  │  ✓ Pay all at term                                     │ │
-│  │  ✓ Pay in installments                                 │ │
-│  │  (unlike Salam which requires advancement)             │ │
-│  └──────────────────┘                                       │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-\`\`\`
+<div class="case-box">
+
+**🪑 Case: Ordering a bedroom set from a carpenter**
+
+**Question:** I ordered a bedroom set with a custom design from a carpenter. We agreed on the price and delivery in a month. Is it permitted to pay half in advance?
+
+**Answer:** ✅ **Permitted — this is Istisna'**
+
+**Advantage of Istisna' regarding price:** Price in Istisna' is **flexible**:
+- ✓ Pay all in advance
+- ✓ Pay all at term
+- ✓ Pay in installments
+
+*(Unlike Salam which requires advancement)*
+
+</div>
 
 ---
 
@@ -847,41 +800,7 @@ The more precise the specifications, the clearer the guarantees, and the more de
 
 ## Lesson Summary
 
-\`\`\`
-┌─────────────────────────────────────────────────────────────┐
-│                      Lesson Summary                         │
-├───────────────────┬──────────────────┬──────────────────────┤
-│      Contract     │  Price Condition │   Term Condition     │
-├───────────────────┼──────────────────┼──────────────────────┤
-│  Salam            │ Advance required │ Term required        │
-│  (sale of         │                  │                      │
-│  deferred good    │                  │                      │
-│  advanced price)  │                  │                      │
-├───────────────────┼──────────────────┼──────────────────────┤
-│  Istisna'         │ Deferral allowed │ Not required         │
-│  (manufacturing   │ and installments │                      │
-│  contract)        │                  │                      │
-└───────────────────┴──────────────────┴──────────────────────┘
-\`\`\`
-
-\`\`\`
-┌─────────────────────────────────────────────────────────────┐
-│                    Important Rules                          │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│   1️⃣ Salam and Istisna' are exceptions to the prohibition  │
-│      of "selling what you don't have"                       │
-│                                                             │
-│   2️⃣ Both serve people's legitimate needs                  │
-│                                                             │
-│   3️⃣ Description replaces physical examination             │
-│                                                             │
-│   4️⃣ Salam = existing good, advanced price, term required  │
-│                                                             │
-│   5️⃣ Istisna' = special fabrication, flexible price,       │
-│      optional term                                          │
-└─────────────────────────────────────────────────────────────┘
-\`\`\`
+<!-- DIAGRAM:salam-istisna-summary -->
 
 ---
 
