@@ -266,7 +266,7 @@ Il dit : C'est la pluie qui l'a touché, ô Messager d'Allah.
 
 Le Prophète ﷺ a dit : **« Allah a maudit l'alcool, celui qui le boit, celui qui le sert, celui qui le vend, celui qui l'achète, celui qui le presse, celui pour qui on le presse, celui qui le transporte et celui à qui on le transporte. »**
 
-*(Rapporté par Abu Dawud)*
+*(Rapporté par Abu Dawud, at-Tirmidhi et Ibn Majah d'après Ibn 'Umar (qu'Allah l'agrée), authentifié par al-Albani)*
 
 </div>
 

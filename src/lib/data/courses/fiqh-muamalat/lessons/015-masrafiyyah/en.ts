@@ -568,6 +568,8 @@ Conventional banks are based on **riba**, while Islamic banks are based on **sal
 - **Those who forbid** say: The contract contains the interest clause for late payment, so it's a usurious contract
 - **Those who permit** say: If you commit to paying in full and don't actually pay interest, there's no harm
 
+**⚠️ The preponderant view according to most Fiqh Academies:** Prohibition of conventional bank cards even with commitment to pay in full, because the contract contains a usurious clause.
+
 **The Questioner:** What do you advise me?
 
 **The Sheikh:** **The safest** is to use Islamic bank cards, which charge fixed fees instead of interest.
@@ -934,10 +936,10 @@ The experiment succeeded and spread throughout the Muslim world. Today, the volu
 │  ⚠️ Disagreement among jurists:                             │
 │                                                             │
 │  ┌───────────────┬─────────────────────────────────┐        │
-│  │ ✅ Those who  │ The Fiqh Academy permitted it   │        │
-│  │    permit     │ under conditions                │        │
-│  │ ❌ Those who  │ Consider it a usurious          │        │
-│  │    forbid     │ subterfuge                      │        │
+│  │ ❌ Those who  │ Islamic Fiqh Academy (2009)     │        │
+│  │    forbid     │ prohibited organized tawarruq   │        │
+│  │ ✅ Those who  │ Some scholars permit it         │        │
+│  │    permit     │ with strict conditions          │        │
 │  └───────────────┴─────────────────────────────────┘        │
 │                                                             │
 │  📍 Conditions for those who permit:                        │

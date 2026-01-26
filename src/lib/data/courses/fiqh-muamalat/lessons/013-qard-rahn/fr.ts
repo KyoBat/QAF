@@ -123,7 +123,7 @@ Car l'emprunteur le prend par besoin puis le rend, ce qui préserve mieux sa dig
 
 > **Tout prêt qui génère un profit est de l'usure (Riba)**
 
-C'est une règle sur laquelle les juristes sont unanimes.
+**⚠️ Note :** Ceci est une **règle juridique (qa'ida fiqhiyya)** dérivée des paroles des Compagnons et des Suivants, et non un hadith prophétique. Il y a consensus sur son sens, et elle est fondée sur des récits de plusieurs Compagnons dont : Ibn Mas'ud, Ubayy ibn Ka'b, Ibn Abbas et Abdullah ibn Salam (qu'Allah les agrée).
 
 </div>
 

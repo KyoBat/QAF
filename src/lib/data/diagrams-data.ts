@@ -3091,6 +3091,522 @@ const diagramsRegistry: Record<string, DiagramData> = {
         ]
       }
     ]
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // FIQH MUAMALAT - RIBA INTRO (Leçon 006)
+  // ─────────────────────────────────────────────────────────
+  
+  'riba-types-tree': {
+    type: 'tree',
+    title: { ar: 'شجرة أنواع الربا', fr: 'Arbre des types de Riba', en: 'Types of Riba Tree' },
+    root: { ar: 'الربا في الشريعة', fr: 'Le Riba en Islam', en: 'Riba in Islamic Law' },
+    branches: [
+      {
+        label: { ar: 'ربا الفضل', fr: 'Riba al-Fadl', en: 'Riba al-Fadl' },
+        description: { ar: 'الزيادة في القدر عند المبادلة', fr: 'Surplus lors de l\'échange', en: 'Excess in quantity during exchange' },
+        variant: 'danger',
+        children: [
+          { 
+            label: { ar: 'التفاضل في الأصناف الربوية', fr: 'Différence dans les biens ribawi', en: 'Difference in ribawi goods' },
+            examples: [
+              { ar: 'ذهب بذهب غير متساوٍ', fr: 'Or contre or inégal', en: 'Gold for unequal gold' },
+              { ar: 'قمح بشعير غير متماثل', fr: 'Blé contre orge inégal', en: 'Wheat for unequal barley' }
+            ],
+            variant: 'danger'
+          }
+        ]
+      },
+      {
+        label: { ar: 'ربا النسيئة', fr: 'Riba al-Nasī\'ah', en: 'Riba al-Nasī\'ah' },
+        description: { ar: 'التأخير في القبض', fr: 'Délai dans la livraison', en: 'Delay in exchange' },
+        variant: 'danger',
+        children: [
+          { 
+            label: { ar: 'ربا القروض', fr: 'Riba des prêts', en: 'Loan Riba' },
+            description: { ar: 'قرض بفائدة: 100 بـ 120 بعد سنة', fr: 'Prêt à intérêt: 100 → 120', en: 'Interest loan: 100 → 120' },
+            variant: 'danger'
+          },
+          { 
+            label: { ar: 'ربا البيوع', fr: 'Riba des ventes', en: 'Sales Riba' },
+            description: { ar: 'التأخير في تسليم الأصناف الربوية', fr: 'Retard de livraison des biens ribawi', en: 'Delayed delivery of ribawi goods' },
+            variant: 'danger'
+          }
+        ]
+      }
+    ]
+  },
+
+  'riba-quran-stages': {
+    type: 'flow',
+    title: { ar: 'مراحل تحريم الربا في القرآن', fr: 'Étapes de l\'interdiction du Riba', en: 'Stages of Riba Prohibition in Quran' },
+    layout: 'vertical',
+    steps: [
+      {
+        title: { ar: 'المرحلة ①: التنفير والذم', fr: 'Étape ①: Réprobation', en: 'Stage ①: Disapproval' },
+        description: { 
+          ar: '﴿وَمَا آتَيْتُم مِّن رِّبًا لِّيَرْبُوَ فِي أَمْوَالِ النَّاسِ فَلَا يَرْبُو عِندَ اللَّهِ﴾ [الروم: 39]', 
+          fr: '﴾Ce que vous donnez en usure n\'augmente pas auprès d\'Allah﴿ [Ar-Rum: 39]', 
+          en: '﴾Whatever you give in usury does not increase with Allah﴿ [Ar-Rum: 39]' 
+        },
+        variant: 'warning'
+      },
+      {
+        title: { ar: 'المرحلة ②: التحريم المجمل', fr: 'Étape ②: Interdiction générale', en: 'Stage ②: General Prohibition' },
+        description: { 
+          ar: '﴿لَا تَأْكُلُوا الرِّبَا أَضْعَافًا مُّضَاعَفَةً﴾ [آل عمران: 130]', 
+          fr: '﴾Ne mangez pas le Riba doublé et multiplié﴿ [Âl \'Imran: 130]', 
+          en: '﴾Do not consume Riba doubled and multiplied﴿ [Âl \'Imran: 130]' 
+        },
+        variant: 'warning'
+      },
+      {
+        title: { ar: 'المرحلة ③: التحريم القاطع', fr: 'Étape ③: Interdiction catégorique', en: 'Stage ③: Categorical Prohibition' },
+        description: { 
+          ar: '﴿وَأَحَلَّ اللَّهُ الْبَيْعَ وَحَرَّمَ الرِّبَا﴾ [البقرة: 275]', 
+          fr: '﴾Allah a rendu licite le commerce et illicite le Riba﴿ [Al-Baqara: 275]', 
+          en: '﴾Allah has permitted trade and forbidden Riba﴿ [Al-Baqara: 275]' 
+        },
+        variant: 'current'
+      },
+      {
+        title: { ar: 'المرحلة ④: إعلان الحرب الإلهية', fr: 'Étape ④: Déclaration de guerre divine', en: 'Stage ④: Divine War Declaration' },
+        description: { 
+          ar: '﴿فَأْذَنُوا بِحَرْبٍ مِّنَ اللَّهِ وَرَسُولِهِ﴾ [البقرة: 279]', 
+          fr: '﴾Recevez l\'annonce d\'une guerre de la part d\'Allah et de Son Messager﴿ [Al-Baqara: 279]', 
+          en: '﴾Then be warned of war from Allah and His Messenger﴿ [Al-Baqara: 279]' 
+        },
+        variant: 'warning'
+      }
+    ]
+  },
+
+  'riba-cursed-parties': {
+    type: 'tree',
+    title: { ar: 'الملعونون في معاملة الربا', fr: 'Les maudits dans une transaction usuraire', en: 'Those Cursed in a Riba Transaction' },
+    root: { ar: 'معاملة ربوية واحدة', fr: 'Une seule transaction usuraire', en: 'A single riba transaction' },
+    branches: [
+      {
+        label: { ar: 'الآكل (الدائن)', fr: 'Le preneur (créancier)', en: 'The taker (creditor)' },
+        variant: 'danger'
+      },
+      {
+        label: { ar: 'المُوكِل (المدين)', fr: 'Le donneur (débiteur)', en: 'The giver (debtor)' },
+        variant: 'danger'
+      },
+      {
+        label: { ar: 'الكاتب (المحاسب)', fr: 'Le scribe (comptable)', en: 'The scribe (accountant)' },
+        variant: 'danger'
+      },
+      {
+        label: { ar: 'الشاهد الأول', fr: 'Premier témoin', en: 'First witness' },
+        variant: 'danger'
+      },
+      {
+        label: { ar: 'الشاهد الثاني', fr: 'Deuxième témoin', en: 'Second witness' },
+        variant: 'danger'
+      }
+    ]
+  },
+
+  'riba-six-items': {
+    type: 'tree',
+    title: { ar: 'الأصناف الربوية الستة المنصوصة', fr: 'Les six biens ribawi mentionnés', en: 'The Six Ribawi Commodities' },
+    branches: [
+      {
+        label: { ar: 'الأثمان (العملات)', fr: 'Les valeurs (monnaies)', en: 'Currencies (money)' },
+        description: { ar: 'علتها: الثمنية', fr: 'Cause: valeur monétaire', en: 'Cause: monetary value' },
+        variant: 'warning',
+        children: [
+          { label: { ar: '① الذهب', fr: '① Or', en: '① Gold' }, variant: 'warning' },
+          { label: { ar: '② الفضة', fr: '② Argent', en: '② Silver' }, variant: 'warning' }
+        ]
+      },
+      {
+        label: { ar: 'المطعومات (المكيلات)', fr: 'Les aliments (mesurés)', en: 'Foodstuffs (measured)' },
+        description: { ar: 'علتها: الطُّعم مع الكيل أو الوزن', fr: 'Cause: nourriture + mesure/poids', en: 'Cause: food + measure/weight' },
+        variant: 'success',
+        children: [
+          { label: { ar: '③ البُرّ (القمح)', fr: '③ Blé', en: '③ Wheat' }, variant: 'success' },
+          { label: { ar: '④ الشعير', fr: '④ Orge', en: '④ Barley' }, variant: 'success' },
+          { label: { ar: '⑤ التمر', fr: '⑤ Dattes', en: '⑤ Dates' }, variant: 'success' },
+          { label: { ar: '⑥ الملح', fr: '⑥ Sel', en: '⑥ Salt' }, variant: 'success' }
+        ]
+      }
+    ]
+  },
+
+  'riba-wisdom': {
+    type: 'ruling',
+    title: { ar: 'لماذا حرَّم الله الربا؟', fr: 'Pourquoi Allah a-t-Il interdit le Riba?', en: 'Why Did Allah Forbid Riba?' },
+    rulingType: 'prohibitions',
+    numbered: true,
+    items: [
+      { 
+        text: { ar: 'أكل أموال الناس بالباطل', fr: 'Consommation injuste des biens d\'autrui', en: 'Consuming wealth unjustly' },
+        subitems: [
+          { ar: 'ربح بلا عمل ولا جهد ولا مخاطرة', fr: 'Profit sans travail ni effort ni risque', en: 'Profit without work, effort or risk' },
+          { ar: 'ظلم صريح للمقترض المحتاج', fr: 'Injustice flagrante envers l\'emprunteur', en: 'Clear injustice to the borrower' }
+        ]
+      },
+      { 
+        text: { ar: 'الإضرار بالفقراء والمحتاجين', fr: 'Préjudice aux pauvres et nécessiteux', en: 'Harm to the poor and needy' },
+        subitems: [
+          { ar: 'استغلال حاجة الناس', fr: 'Exploitation du besoin des gens', en: 'Exploiting people\'s needs' },
+          { ar: 'تكديس الثروة عند الأغنياء', fr: 'Concentration des richesses chez les riches', en: 'Wealth concentration among the rich' }
+        ]
+      },
+      { 
+        text: { ar: 'تعطيل العمل والإنتاج', fr: 'Entrave au travail et à la production', en: 'Hindering work and production' },
+        subitems: [
+          { ar: 'من يحصل على الربح بلا عمل لا يعمل', fr: 'Celui qui profite sans travailler ne travaille pas', en: 'Those who profit without working don\'t work' },
+          { ar: 'يثبط الهمم عن الإبداع والإنتاج', fr: 'Décourage la créativité et la production', en: 'Discourages creativity and production' }
+        ]
+      },
+      { 
+        text: { ar: 'قطع المعروف بين الناس', fr: 'Rupture de la bienfaisance entre les gens', en: 'Cutting off goodness between people' },
+        subitems: [
+          { ar: 'القرض الحسن من أفضل القربات', fr: 'Le prêt sans intérêt est une des meilleures œuvres', en: 'Interest-free loans are among the best deeds' },
+          { ar: 'الربا يحوّله إلى استغلال', fr: 'Le riba le transforme en exploitation', en: 'Riba turns it into exploitation' }
+        ]
+      },
+      { 
+        text: { ar: 'إفساد العلاقات الاجتماعية', fr: 'Corruption des relations sociales', en: 'Corruption of social relations' },
+        subitems: [
+          { ar: 'يُنشئ العداوة والبغضاء', fr: 'Engendre l\'hostilité et la haine', en: 'Creates enmity and hatred' },
+          { ar: 'يُفقد التراحم والتكافل', fr: 'Détruit la compassion et la solidarité', en: 'Destroys compassion and solidarity' }
+        ]
+      },
+      { 
+        text: { ar: 'الأزمات الاقتصادية', fr: 'Crises économiques', en: 'Economic crises' },
+        subitems: [
+          { ar: 'التضخم وارتفاع الأسعار', fr: 'Inflation et hausse des prix', en: 'Inflation and rising prices' },
+          { ar: 'انهيار الاقتصادات (أزمة 2008)', fr: 'Effondrement des économies (crise 2008)', en: 'Economic collapses (2008 crisis)' }
+        ]
+      }
+    ]
+  },
+
+  'riba-individual-punishment': {
+    type: 'tree',
+    title: { ar: 'عقوبات آكل الربا', fr: 'Châtiments du consommateur de riba', en: 'Punishments for Riba Consumer' },
+    root: { ar: 'عقوبات آكل الربا', fr: 'Châtiments du consommateur de riba', en: 'Punishments for Riba Consumer' },
+    branches: [
+      {
+        label: { ar: 'في الدنيا', fr: 'Dans ce monde', en: 'In this world' },
+        description: { ar: 'محق البركة ﴿يمحق الله الربا﴾', fr: 'Perte de bénédiction ﴾Allah anéantit le riba﴿', en: 'Loss of blessing ﴾Allah destroys riba﴿' },
+        variant: 'warning'
+      },
+      {
+        label: { ar: 'عند الموت', fr: 'À la mort', en: 'At death' },
+        description: { ar: 'القيام كالمتخبط من الشيطان', fr: 'Se lever comme possédé par Satan', en: 'Rising like one possessed by Satan' },
+        variant: 'danger'
+      },
+      {
+        label: { ar: 'في الآخرة', fr: 'Dans l\'au-delà', en: 'In the Hereafter' },
+        description: { ar: 'السباحة في نهر الدم [حديث الرؤيا]', fr: 'Nager dans une rivière de sang [hadith du rêve]', en: 'Swimming in a river of blood [dream hadith]' },
+        variant: 'danger'
+      }
+    ]
+  },
+
+  'riba-repentance': {
+    type: 'flow',
+    title: { ar: 'شروط التوبة من الربا', fr: 'Conditions du repentir du riba', en: 'Conditions for Repentance from Riba' },
+    layout: 'vertical',
+    steps: [
+      {
+        title: { ar: '① الإقلاع الفوري', fr: '① Cessation immédiate', en: '① Immediate cessation' },
+        description: { ar: 'أغلق جميع الحسابات والقروض الربوية', fr: 'Fermez tous les comptes et prêts usuraires', en: 'Close all usurious accounts and loans' },
+        variant: 'current'
+      },
+      {
+        title: { ar: '② الندم على ما مضى', fr: '② Regret du passé', en: '② Regret for the past' },
+        description: { ar: 'الحزن على المعصية', fr: 'Tristesse pour le péché', en: 'Sorrow for the sin' },
+        variant: 'warning'
+      },
+      {
+        title: { ar: '③ العزم على عدم العودة', fr: '③ Résolution de ne pas récidiver', en: '③ Resolution not to return' },
+        description: { ar: 'النية الصادقة ألا تعود أبداً', fr: 'Intention sincère de ne jamais recommencer', en: 'Sincere intention never to repeat' },
+        variant: 'success'
+      }
+    ]
+  },
+
+  'riba-alternatives': {
+    type: 'ruling',
+    title: { ar: 'البدائل الإسلامية للربا', fr: 'Alternatives islamiques au riba', en: 'Islamic Alternatives to Riba' },
+    rulingType: 'recommended',
+    numbered: true,
+    items: [
+      { 
+        text: { ar: 'القرض الحسن', fr: 'Le prêt bienveillant (Qard Hasan)', en: 'Benevolent Loan (Qard Hasan)' },
+        subitems: [
+          { ar: 'إقراض بلا فائدة', fr: 'Prêt sans intérêt', en: 'Interest-free lending' },
+          { ar: 'أجره عظيم عند الله', fr: 'Grande récompense auprès d\'Allah', en: 'Great reward with Allah' }
+        ]
+      },
+      { 
+        text: { ar: 'المشاركة', fr: 'La Musharakah (Association)', en: 'Musharakah (Partnership)' },
+        subitems: [
+          { ar: 'شراكة في رأس المال', fr: 'Partenariat en capital', en: 'Capital partnership' },
+          { ar: 'اقتسام الربح والخسارة', fr: 'Partage des profits et pertes', en: 'Profit and loss sharing' }
+        ]
+      },
+      { 
+        text: { ar: 'المضاربة', fr: 'La Mudarabah', en: 'Mudarabah' },
+        subitems: [
+          { ar: 'مال من طرف وعمل من طرف', fr: 'Capital d\'un côté, travail de l\'autre', en: 'Capital from one, work from another' },
+          { ar: 'الربح بنسبة متفق عليها', fr: 'Profit selon ratio convenu', en: 'Profit by agreed ratio' }
+        ]
+      },
+      { 
+        text: { ar: 'المرابحة', fr: 'La Murabaha', en: 'Murabaha' },
+        subitems: [
+          { ar: 'شراء السلعة ثم بيعها بربح معلوم', fr: 'Achat puis revente avec marge connue', en: 'Purchase then resale with known profit' },
+          { ar: 'يجوز فيها التقسيط', fr: 'Le paiement échelonné est permis', en: 'Installment payment is allowed' }
+        ]
+      },
+      { 
+        text: { ar: 'الإجارة المنتهية بالتمليك', fr: 'L\'Ijara Muntahia bi Tamlik', en: 'Ijara Muntahia bi Tamlik' },
+        subitems: [
+          { ar: 'تأجير ثم تمليك', fr: 'Location puis propriété', en: 'Lease then ownership' },
+          { ar: 'للسيارات والعقارات', fr: 'Pour véhicules et immobilier', en: 'For vehicles and real estate' }
+        ]
+      }
+    ]
+  },
+
+  'riba-summary': {
+    type: 'ruling',
+    title: { ar: 'خلاصة: الربا تعريف وتحريم', fr: 'Résumé: Riba - Définition et interdiction', en: 'Summary: Riba - Definition and Prohibition' },
+    rulingType: 'prohibitions',
+    items: [
+      { text: { ar: 'الربا = زيادة مشروطة في الأموال الربوية أو مقابل الأجل', fr: 'Riba = surplus conditionné dans les biens ribawi ou contre délai', en: 'Riba = conditional surplus in ribawi goods or for delay' } },
+      { text: { ar: 'حُرِّم بالكتاب والسنة والإجماع', fr: 'Interdit par le Coran, la Sunna et le consensus', en: 'Forbidden by Quran, Sunnah and consensus' } },
+      { text: { ar: 'أشد وعيد في القرآن: حرب من الله ورسوله', fr: 'Menace la plus sévère du Coran: guerre d\'Allah et Son Messager', en: 'Severest threat in Quran: war from Allah and His Messenger' } },
+      { text: { ar: 'الملعونون خمسة: الآكل، المُوكل، الكاتب، الشاهدان', fr: 'Cinq maudits: preneur, donneur, scribe, deux témoins', en: 'Five cursed: taker, giver, scribe, two witnesses' } },
+      { text: { ar: 'التوبة مفتوحة: أقلع، اندم، لا تعد', fr: 'Repentir ouvert: cessez, regrettez, ne récidivez pas', en: 'Repentance open: cease, regret, don\'t repeat' } },
+      { text: { ar: 'البدائل متاحة: مشاركة، مضاربة، مرابحة، إجارة', fr: 'Alternatives disponibles: musharakah, mudarabah, murabaha, ijara', en: 'Alternatives available: musharakah, mudarabah, murabaha, ijara' } },
+      { text: { ar: '﴿وَمَن يَتَّقِ اللَّهَ يَجْعَل لَّهُ مَخْرَجًا﴾', fr: '﴾Quiconque craint Allah, Il lui donnera une issue﴿', en: '﴾Whoever fears Allah, He will make for him a way out﴿' } }
+    ]
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // FIQH MUAMALAT - KHIYARAT (005)
+  // ─────────────────────────────────────────────────────────
+  'khiyarat-wisdom': {
+    type: 'tree',
+    title: { ar: 'حِكَم مشروعية الخيارات في البيع', fr: 'Sagesses de la légitimité des options', en: 'Wisdoms of the Legitimacy of Options' },
+    branches: [
+      {
+        label: { ar: 'التروي والتدبر', fr: 'Réflexion et délibération', en: 'Reflection and deliberation' },
+        description: { ar: 'إتاحة الفرصة للتفكير قبل الإلزام', fr: 'Permettre de réfléchir avant engagement', en: 'Allow time to think before commitment' }
+      },
+      {
+        label: { ar: 'رفع الضرر والغبن', fr: 'Écarter le préjudice et la lésion', en: 'Remove harm and unfairness' },
+        description: { ar: 'حماية المتعاقد من الخسارة غير المتوقعة', fr: 'Protéger le contractant contre pertes imprévues', en: 'Protect contractor from unexpected losses' }
+      },
+      {
+        label: { ar: 'العدالة بين الطرفين', fr: 'Justice entre les parties', en: 'Justice between parties' },
+        description: { ar: 'التوازن في الحقوق والواجبات', fr: 'Équilibre des droits et obligations', en: 'Balance of rights and duties' }
+      },
+      {
+        label: { ar: 'منع النزاع والخصومة', fr: 'Éviter les litiges', en: 'Prevent disputes' },
+        description: { ar: 'بالسماح بالفسخ عند وجود سبب', fr: 'En permettant la résiliation pour motif valable', en: 'By allowing rescission for valid reason' }
+      },
+      {
+        label: { ar: 'الرحمة بالمتعاقدين', fr: 'Miséricorde envers les contractants', en: 'Mercy towards contractors' },
+        description: { ar: 'تيسير المعاملات ورفع الحرج', fr: 'Faciliter les transactions et lever la gêne', en: 'Ease transactions and remove hardship' }
+      }
+    ]
+  },
+
+  'khiyarat-types-tree': {
+    type: 'tree',
+    title: { ar: 'أنواع الخيارات في البيع', fr: 'Types d\'options dans la vente', en: 'Types of Options in Sale' },
+    root: { ar: 'الخيارات في البيع', fr: 'Options dans la vente', en: 'Options in Sale' },
+    branches: [
+      {
+        label: { ar: 'خيارات زمنية', fr: 'Options temporelles', en: 'Temporal Options' },
+        children: [
+          { label: { ar: 'خيار المجلس', fr: 'Option de session', en: 'Session Option' }, description: { ar: 'ما لم يتفرقا', fr: 'Tant qu\'ils ne se séparent pas', en: 'Before separation' } },
+          { label: { ar: 'خيار الشرط', fr: 'Option de stipulation', en: 'Stipulation Option' }, description: { ar: 'بشرط مدة', fr: 'Pour une durée convenue', en: 'For agreed period' } }
+        ]
+      },
+      {
+        label: { ar: 'خيارات سببية', fr: 'Options causales', en: 'Causal Options' },
+        children: [
+          { label: { ar: 'خيار العيب', fr: 'Option de défaut', en: 'Defect Option' }, description: { ar: 'عيب خفي قديم', fr: 'Défaut caché ancien', en: 'Hidden old defect' } },
+          { label: { ar: 'خيار التدليس', fr: 'Option de dol', en: 'Fraud Option' }, description: { ar: 'غش وتمويه', fr: 'Tromperie et dissimulation', en: 'Deception and concealment' } },
+          { label: { ar: 'خيار الغبن', fr: 'Option de lésion', en: 'Unfairness Option' }, description: { ar: 'زيادة فاحشة في الثمن', fr: 'Majoration excessive du prix', en: 'Excessive price increase' } }
+        ]
+      },
+      {
+        label: { ar: 'خيارات ظرفية', fr: 'Options circonstancielles', en: 'Circumstantial Options' },
+        children: [
+          { label: { ar: 'خيار الرؤية', fr: 'Option d\'inspection', en: 'Inspection Option' }, description: { ar: 'عدم الرؤية سابقاً', fr: 'Absence de vision préalable', en: 'No prior viewing' } },
+          { label: { ar: 'خيار تفرق الصفقة', fr: 'Option de division', en: 'Division Option' }, description: { ar: 'تلف بعض المبيع', fr: 'Destruction partielle', en: 'Partial destruction' } }
+        ]
+      }
+    ]
+  },
+
+  'khiyar-majlis-conditions': {
+    type: 'ruling',
+    title: { ar: 'شروط خيار المجلس', fr: 'Conditions de l\'option de session', en: 'Conditions of Session Option' },
+    rulingType: 'conditions',
+    numbered: true,
+    items: [
+      { 
+        text: { ar: 'أن يكون في عقد معاوضة مالية', fr: 'Être dans un contrat d\'échange financier', en: 'Be in a financial exchange contract' },
+        detail: { ar: 'بيع، إجارة، صرف، سَلَم...', fr: 'Vente, location, change, salam...', en: 'Sale, lease, exchange, salam...' }
+      },
+      { 
+        text: { ar: 'ألا يشترط المتعاقدان إسقاطه', fr: 'Que les parties n\'aient pas stipulé sa suppression', en: 'That parties didn\'t stipulate its waiver' },
+        detail: { ar: 'في صلب العقد', fr: 'Dans le contrat lui-même', en: 'In the contract itself' }
+      },
+      { 
+        text: { ar: 'ألا يختارا إمضاء العقد', fr: 'Qu\'ils ne choisissent pas de valider', en: 'That they don\'t choose to validate' },
+        detail: { ar: 'قبل التفرق', fr: 'Avant la séparation', en: 'Before separation' }
+      }
+    ]
+  },
+
+  'khiyar-shart-conditions': {
+    type: 'ruling',
+    title: { ar: 'شروط صحة خيار الشرط', fr: 'Conditions de validité de l\'option de stipulation', en: 'Validity Conditions for Stipulation Option' },
+    rulingType: 'conditions',
+    numbered: true,
+    items: [
+      { 
+        text: { ar: 'المدة معلومة ومحددة', fr: 'Durée connue et déterminée', en: 'Known and specified duration' },
+        subitems: [
+          { ar: '✓ "ثلاثة أيام"', fr: '✓ "Trois jours"', en: '✓ "Three days"' },
+          { ar: '✓ "أسبوع"', fr: '✓ "Une semaine"', en: '✓ "One week"' },
+          { ar: '✗ "مدة غير محددة"', fr: '✗ "Durée indéterminée"', en: '✗ "Unspecified duration"' }
+        ]
+      },
+      { 
+        text: { ar: 'عند بعض العلماء: ألا تزيد عن ثلاثة أيام', fr: 'Selon certains savants: ne pas dépasser 3 jours', en: 'According to some scholars: no more than 3 days' }
+      },
+      { 
+        text: { ar: 'الجمهور: تجوز أكثر من ثلاثة بحسب الحاجة', fr: 'Majorité: plus de 3 jours permis selon besoin', en: 'Majority: more than 3 days allowed as needed' }
+      }
+    ]
+  },
+
+  'khiyar-ayb-conditions': {
+    type: 'tree',
+    title: { ar: 'شروط العيب الموجب للخيار', fr: 'Conditions du défaut donnant droit à l\'option', en: 'Conditions of Defect Giving Right to Option' },
+    branches: [
+      {
+        label: { ar: 'قديم', fr: 'Ancien', en: 'Old' },
+        description: { ar: 'موجود قبل البيع أو سببه قبله', fr: 'Existant avant la vente ou sa cause antérieure', en: 'Existing before sale or its cause prior' },
+        variant: 'warning'
+      },
+      {
+        label: { ar: 'خفي', fr: 'Caché', en: 'Hidden' },
+        description: { ar: 'لم يعلم به المشتري عند العقد', fr: 'L\'acheteur ne le connaissait pas au moment du contrat', en: 'Buyer didn\'t know at contract time' },
+        variant: 'warning'
+      },
+      {
+        label: { ar: 'مؤثر', fr: 'Significatif', en: 'Significant' },
+        description: { ar: 'ينقص من القيمة أو المنفعة', fr: 'Diminue la valeur ou l\'utilité', en: 'Reduces value or utility' },
+        variant: 'warning'
+      }
+    ]
+  },
+
+  'tadlis-examples': {
+    type: 'comparison',
+    title: { ar: 'صور التدليس المعاصرة', fr: 'Formes contemporaines de dol', en: 'Contemporary Forms of Fraud' },
+    columns: [
+      {
+        title: { ar: 'السيارات والعقارات', fr: 'Véhicules et immobilier', en: 'Vehicles and Real Estate' },
+        variant: 'negative',
+        items: [
+          { ar: 'تخفيض عداد الكيلومترات', fr: 'Réduire le compteur kilométrique', en: 'Reducing the odometer' },
+          { ar: 'إخفاء حوادث سابقة', fr: 'Cacher des accidents antérieurs', en: 'Hiding previous accidents' },
+          { ar: 'دهان لإخفاء الصدأ', fr: 'Peinture pour cacher la rouille', en: 'Paint to hide rust' },
+          { ar: 'إخفاء مشاكل الأساسات', fr: 'Cacher les problèmes de fondation', en: 'Hiding foundation problems' },
+          { ar: 'إخفاء تسريبات المياه', fr: 'Cacher les fuites d\'eau', en: 'Hiding water leaks' }
+        ]
+      },
+      {
+        title: { ar: 'الأجهزة والبضائع', fr: 'Appareils et marchandises', en: 'Devices and Goods' },
+        variant: 'negative',
+        items: [
+          { ar: 'إخفاء عيوب الشاشة', fr: 'Cacher les défauts d\'écran', en: 'Hiding screen defects' },
+          { ar: 'تغيير قطع بأخرى رديئة', fr: 'Remplacer par des pièces de mauvaise qualité', en: 'Replacing with poor quality parts' },
+          { ar: 'إعادة ضبط كمنتج جديد', fr: 'Réinitialiser comme produit neuf', en: 'Resetting as new product' },
+          { ar: 'تغيير تواريخ الصلاحية', fr: 'Changer les dates de péremption', en: 'Changing expiry dates' },
+          { ar: 'تزييف بلد المنشأ', fr: 'Falsifier le pays d\'origine', en: 'Falsifying country of origin' }
+        ]
+      }
+    ]
+  },
+
+  'tafarruq-options': {
+    type: 'tree',
+    title: { ar: 'خيارات المشتري عند تلف بعض المبيع', fr: 'Options de l\'acheteur en cas de destruction partielle', en: 'Buyer\'s Options for Partial Loss' },
+    root: { ar: 'تلف بعض المبيع أو استحقاقه', fr: 'Destruction ou revendication partielle', en: 'Partial destruction or claim' },
+    branches: [
+      {
+        label: { ar: 'فسخ العقد كله', fr: 'Résiliation totale du contrat', en: 'Full contract rescission' },
+        description: { ar: 'واسترداد الثمن', fr: 'Et récupération du prix', en: 'And price refund' },
+        variant: 'warning'
+      },
+      {
+        label: { ar: 'أخذ الباقي بقسطه', fr: 'Prendre le reste au prorata', en: 'Take remainder at pro-rata' },
+        description: { ar: 'من الثمن', fr: 'Du prix', en: 'Of the price' },
+        variant: 'success'
+      }
+    ]
+  },
+
+  'faskh-effects': {
+    type: 'flow',
+    title: { ar: 'آثار الفسخ في عقد البيع', fr: 'Effets de la résiliation du contrat de vente', en: 'Effects of Sale Contract Rescission' },
+    layout: 'vertical',
+    steps: [
+      {
+        title: { ar: 'فسخ العقد', fr: 'Résiliation du contrat', en: 'Contract Rescission' },
+        variant: 'current'
+      },
+      {
+        title: { ar: 'المبيع يعود للبائع', fr: 'Le bien retourne au vendeur', en: 'Good returns to seller' },
+        variant: 'default'
+      },
+      {
+        title: { ar: 'الثمن يعود للمشتري', fr: 'Le prix retourne à l\'acheteur', en: 'Price returns to buyer' },
+        variant: 'default'
+      },
+      {
+        title: { ar: 'النماء المتصل للبائع', fr: 'Accroissement connexe au vendeur', en: 'Connected growth to seller' },
+        description: { ar: 'السمن، الكبر', fr: 'Engraissement, croissance', en: 'Fattening, growth' },
+        variant: 'success'
+      },
+      {
+        title: { ar: 'النماء المنفصل للمشتري', fr: 'Accroissement séparé à l\'acheteur', en: 'Separated growth to buyer' },
+        description: { ar: 'الولد، الثمر', fr: 'Progéniture, fruits', en: 'Offspring, fruits' },
+        variant: 'success'
+      }
+    ]
+  },
+
+  'khiyarat-summary': {
+    type: 'ruling',
+    title: { ar: 'خلاصة: الخيارات في البيع', fr: 'Résumé: Les options dans la vente', en: 'Summary: Options in Sale' },
+    rulingType: 'info',
+    items: [
+      { text: { ar: 'الخيار = حق الفسخ أو الإمضاء لسبب شرعي', fr: 'Option = droit de résilier ou valider pour motif légal', en: 'Option = right to rescind or validate for legal reason' } },
+      { text: { ar: 'الأنواع السبعة: المجلس • الشرط • العيب • التدليس • الغبن • الرؤية • تفرق الصفقة', fr: 'Sept types: Session • Stipulation • Défaut • Dol • Lésion • Inspection • Division', en: 'Seven types: Session • Stipulation • Defect • Fraud • Unfairness • Inspection • Division' } },
+      { text: { ar: 'أهم خيار معاصر: خيار العيب + سياسات الإرجاع', fr: 'Option la plus importante aujourd\'hui: Défaut + politiques de retour', en: 'Most important today: Defect option + return policies' } },
+      { text: { ar: 'كتمان العيب = غش محرم يوجب الخيار', fr: 'Cacher le défaut = fraude interdite donnant droit à l\'option', en: 'Hiding defect = forbidden fraud giving right to option' } },
+      { text: { ar: 'الضمانات المعاصرة = تطبيق لخيار العيب', fr: 'Garanties modernes = application de l\'option de défaut', en: 'Modern warranties = application of defect option' } },
+      { text: { ar: 'السماحة في البيع والشراء = أخلاق المؤمن', fr: 'Tolérance dans la vente = éthique du croyant', en: 'Tolerance in trade = believer\'s ethics' } }
+    ]
   }
 }
 

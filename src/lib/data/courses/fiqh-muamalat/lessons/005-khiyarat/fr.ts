@@ -45,59 +45,13 @@ export const contentFr = `# Les Options dans la Vente (Al-Khiyārāt)
 
 ## La Sagesse derrière la Légitimité des Options
 
-\`\`\`
-┌─────────────────────────────────────────────────────────────────────┐
-│              🎯 Sagesses de la légitimité des options                │
-├─────────────────────────────────────────────────────────────────────┤
-│                                                                      │
-│   ┌─────────────┐    ┌─────────────┐    ┌─────────────┐            │
-│   │ Réflexion   │    │ Éliminer    │    │  Justice    │            │
-│   │ et          │    │ le préjudice│    │ entre les   │            │
-│   │ délibération│    │ et la lésion│    │ parties     │            │
-│   └──────┬──────┘    └──────┬──────┘    └──────┬──────┘            │
-│          │                  │                  │                    │
-│          ▼                  ▼                  ▼                    │
-│   Donner le temps    Protéger le        Équilibre des              │
-│   de réfléchir       contractant        droits et                  │
-│   avant engagement   des pertes         devoirs                    │
-│                      imprévues                                      │
-│                                                                      │
-│   ┌─────────────┐    ┌─────────────┐                                │
-│   │ Prévenir    │    │ Miséricorde │                                │
-│   │ les conflits│    │ envers les  │                                │
-│   │             │    │ contractants│                                │
-│   └──────┬──────┘    └──────┬──────┘                                │
-│          │                  │                                        │
-│          ▼                  ▼                                        │
-│   Permettre la       Faciliter les                                  │
-│   résiliation si     transactions                                   │
-│   justifiée          et lever                                       │
-│                      la difficulté                                  │
-│                                                                      │
-└─────────────────────────────────────────────────────────────────────┘
-\`\`\`
+<!-- DIAGRAM:khiyarat-wisdom -->
 
 ---
 
 ## Types d'Options — L'Arbre Complet
 
-\`\`\`
-                           Les Options dans la Vente
-                                      │
-           ┌──────────────────────────┼──────────────────────────┐
-           │                          │                          │
-    Options temporelles        Options causales         Options circonstancielles
-           │                          │                          │
-    ┌──────┴──────┐          ┌────────┼────────┐          ┌──────┴──────┐
-    │             │          │        │        │          │             │
-  Option       Option     Option   Option   Option     Option       Option
-  de session   de stipul.  du déf.  de dol   de lésion  de vision    de division
-    │             │          │        │        │          │             │
-    ▼             ▼          ▼        ▼        ▼          ▼             ▼
-  Avant la    Avec durée   Défaut  Tromperie  Prix      Sans voir   Destruction
-  séparation  convenue     caché   et fraude  excessif  avant       partielle
-                           ancien                       l'achat
-\`\`\`
+<!-- DIAGRAM:khiyarat-types-tree -->
 
 ---
 
@@ -118,23 +72,7 @@ export const contentFr = `# Les Options dans la Vente (Al-Khiyārāt)
 
 ### Conditions et Règles
 
-\`\`\`
-┌─────────────────────────────────────────┐
-│     Conditions de l'option de session   │
-├─────────────────────────────────────────┤
-│                                         │
-│  ① Être dans un contrat d'échange       │
-│     financier (vente, location,         │
-│     change, salam...)                   │
-│                                         │
-│  ② Ne pas avoir stipulé son             │
-│     annulation dans le contrat          │
-│                                         │
-│  ③ Ne pas avoir choisi de valider       │
-│     le contrat avant la séparation      │
-│                                         │
-└─────────────────────────────────────────┘
-\`\`\`
+<!-- DIAGRAM:khiyar-majlis-conditions -->
 
 ### Fin de l'Option de Session
 
@@ -203,24 +141,7 @@ export const contentFr = `# Les Options dans la Vente (Al-Khiyārāt)
 
 ### Conditions de Validité
 
-\`\`\`
-┌─────────────────────────────────────────┐
-│   Conditions de l'option de stipulation │
-├─────────────────────────────────────────┤
-│                                         │
-│  ① La durée doit être connue            │
-│     et déterminée                       │
-│     ✓ "trois jours"  ✓ "une semaine"   │
-│     ✗ "durée indéterminée"             │
-│                                         │
-│  ② Ne pas dépasser trois jours          │
-│     (selon certains savants)            │
-│                                         │
-│  ③ La majorité : plus de trois jours    │
-│     est permis selon le besoin          │
-│                                         │
-└─────────────────────────────────────────┘
-\`\`\`
+<!-- DIAGRAM:khiyar-shart-conditions -->
 
 ---
 
@@ -241,22 +162,7 @@ export const contentFr = `# Les Options dans la Vente (Al-Khiyārāt)
 
 ### Conditions du Défaut Donnant Droit à l'Option
 
-\`\`\`
-                    Conditions du défaut donnant droit à l'option
-                                      │
-               ┌──────────────────────┼──────────────────────┐
-               │                      │                      │
-          ┌────┴────┐            ┌────┴────┐            ┌────┴────┐
-          │ Ancien  │            │  Caché  │            │ Affecte │
-          │         │            │         │            │         │
-          └────┬────┘            └────┬────┘            └────┬────┘
-               │                      │                      │
-               ▼                      ▼                      ▼
-          Existant avant         Inconnu de            Diminue la
-          la vente ou            l'acheteur            valeur ou
-          sa cause avant         au moment             l'utilité
-                                 du contrat
-\`\`\`
+<!-- DIAGRAM:khiyar-ayb-conditions -->
 
 ### Options de l'Acheteur en Cas de Défaut
 
@@ -324,28 +230,7 @@ Tu acceptes le défaut sans rien demander — c'est de la bonté.
 
 ### Exemples Contemporains de Dol
 
-\`\`\`
-┌─────────────────────────────────────────────────────────────────────┐
-│                     Formes contemporaines de dol                     │
-├─────────────────────────────────────────────────────────────────────┤
-│                                                                      │
-│  🚗 Voitures                        📱 Appareils électroniques       │
-│  ──────────────                     ────────────────────────        │
-│  • Réduire le compteur km           • Cacher les défauts d'écran    │
-│  • Cacher les accidents passés      • Remplacer par pièces de       │
-│  • Peinture pour cacher la rouille    mauvaise qualité              │
-│                                     • Réinitialiser comme neuf      │
-│                                                                      │
-│  🏠 Immobilier                      👔 Marchandises                  │
-│  ────────────                       ────────────                    │
-│  • Cacher les problèmes de          • Changer les dates             │
-│    fondation                          d'expiration                  │
-│  • Cacher les fuites d'eau          • Cacher les défauts de         │
-│  • Exagérer la surface                fabrication                   │
-│                                     • Falsifier le pays d'origine   │
-│                                                                      │
-└─────────────────────────────────────────────────────────────────────┘
-\`\`\`
+<!-- DIAGRAM:tadlis-examples -->
 
 ---
 
@@ -423,19 +308,7 @@ Tu acceptes le défaut sans rien demander — c'est de la bonté.
 
 ### Options de l'Acheteur
 
-\`\`\`
-              Perte partielle ou éviction du bien
-                           │
-                           ▼
-                  L'acheteur a l'option
-                           │
-               ┌───────────┴───────────┐
-               │                       │
-               ▼                       ▼
-      Résilier tout            Prendre le reste
-      le contrat et            au prorata
-      récupérer le prix        du prix
-\`\`\`
+<!-- DIAGRAM:tafarruq-options -->
 
 ---
 
@@ -443,25 +316,7 @@ Tu acceptes le défaut sans rien demander — c'est de la bonté.
 
 ### Effets de la Résiliation
 
-\`\`\`
-┌─────────────────────────────────────────────────────────────────────┐
-│                  Effets de la résiliation du contrat                 │
-├─────────────────────────────────────────────────────────────────────┤
-│                                                                      │
-│    Résiliation du contrat                                            │
-│        │                                                             │
-│        ├──► Le bien retourne au vendeur                             │
-│        │                                                             │
-│        ├──► Le prix retourne à l'acheteur                           │
-│        │                                                             │
-│        ├──► L'accroissement joint (engraissement,                   │
-│        │    croissance) ──► Au vendeur                              │
-│        │                                                             │
-│        └──► L'accroissement séparé (petit, fruit)                   │
-│             ──► À l'acheteur                                        │
-│                                                                      │
-└─────────────────────────────────────────────────────────────────────┘
-\`\`\`
+<!-- DIAGRAM:faskh-effects -->
 
 ### Disposition Pendant l'Option
 
@@ -657,28 +512,7 @@ Fahd entre dans un magasin, le vendeur insiste : "Cette offre est limitée dans 
 
 ## 🔑 Résumé de la Leçon
 
-\`\`\`
-┌─────────────────────────────────────────────────────────────────────┐
-│                🎯 Résumé : Les Options dans la Vente                 │
-├─────────────────────────────────────────────────────────────────────┤
-│                                                                      │
-│  ✅ L'option = droit de résilier ou valider pour raison légale      │
-│                                                                      │
-│  ✅ Les sept types :                                                 │
-│     Session • Stipulation • Défaut • Dol • Lésion • Vision •        │
-│     Division de transaction                                          │
-│                                                                      │
-│  ✅ Option la plus importante aujourd'hui : Défaut + politiques     │
-│     de retour                                                        │
-│                                                                      │
-│  ✅ Cacher un défaut = tromperie interdite donnant droit à l'option │
-│                                                                      │
-│  ✅ Les garanties modernes = application de l'option du défaut      │
-│                                                                      │
-│  ✅ L'indulgence dans la vente et l'achat = éthique du croyant      │
-│                                                                      │
-└─────────────────────────────────────────────────────────────────────┘
-\`\`\`
+<!-- DIAGRAM:khiyarat-summary -->
 
 ---
 

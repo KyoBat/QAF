@@ -624,6 +624,8 @@ This is the greatest solidarity: no one expected profit, it was pure giving.
 └─────────────────────────────────────────────────────────────┘
 \`\`\`
 
+> **⚠️ Note:** Some scholars **prohibit commercial insurance absolutely**, even if mandatory, and consider that legal compulsion does not make the contract permissible, but merely lifts the sin from the one who is compelled. The fatwa above represents the opinion of those who apply the legal maxim of necessity.
+
 ---
 
 ### Case Two: Employer Health Insurance

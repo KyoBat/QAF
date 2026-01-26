@@ -397,7 +397,9 @@ Then he **backed out** and didn't complete the purchase.
 
 **📜 Earnest Money Rule**
 
-- Earnest money is **permissible** according to the Hanbalis and the Fiqh Council
+- Earnest money is **permissible** according to the Hanbalis and the Islamic Fiqh Council
+- **The majority forbid earnest money** (Hanafis, Malikis and Shafi'is) due to the hadith forbidding earnest money sales (reported by Ahmad and Abu Dawud), though its chain is weak
+- **The preponderant contemporary view:** Permissibility due to need, adopted by the Fiqh Council
 - If the sale is completed: it's deducted from the price
 - Otherwise: the seller keeps it (compensation for reserving the item)
 

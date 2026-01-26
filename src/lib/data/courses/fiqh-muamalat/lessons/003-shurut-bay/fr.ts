@@ -397,7 +397,9 @@ Puis il s'est **rétracté** et n'a pas finalisé l'achat.
 
 **📜 Règle des arrhes**
 
-- Les arrhes sont **permises** selon les Hanbalites et le Conseil du Fiqh
+- Les arrhes sont **permises** selon les Hanbalites et le Conseil du Fiqh Islamique
+- **La majorité interdit les arrhes** (Hanafites, Malikites et Shafi'ites) en raison du hadith interdisant la vente avec arrhes (rapporté par Ahmad et Abu Dawud), bien que sa chaîne soit faible
+- **L'avis contemporain prépondérant :** La permission par nécessité, adoptée par le Conseil du Fiqh
 - Si la vente est conclue : elles sont déduites du prix
 - Sinon : le vendeur les garde (compensation pour avoir réservé le bien)
 

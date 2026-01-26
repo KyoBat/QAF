@@ -333,6 +333,8 @@ Société dont le capital est divisé en **actions de valeur égale**, négociab
 | | 2. Revenus illicites < 5% | des revenus haram |
 | | 3. Purification par don | aux pauvres |
 
+**⚠️ Note importante :** Le seuil de 5% est un **ijtihad (effort d'interprétation) contemporain** de certains comités de conformité islamique, et non un consensus. Certains savants interdisent absolument l'investissement dans les sociétés mixtes.
+
 ---
 
 ### La Société à Responsabilité Limitée (SARL)

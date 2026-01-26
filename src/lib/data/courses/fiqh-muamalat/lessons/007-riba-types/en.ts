@@ -409,10 +409,12 @@ Benefit of the disagreement: Do iron and copper fall under usury?
 
 <div class="quote-box">
 
-**📜 The Prophetic Warning Against Tricks**
+**📜 The Warning Against Tricks**
 
-> The Prophet ﷺ said: **"Do not commit what the Jews committed, making lawful what Allah forbade through the lowest of tricks."**
-> — Narrated by Ibn Battah
+> Ibn Abbas (may Allah be pleased with him) said: **"Do not commit what the Jews committed, making lawful what Allah forbade through the lowest of tricks."**
+> — Narrated by Ibn Battah (stopped narration)
+
+**⚠️ Note:** This is a **mawquf athar** (a statement stopped at Ibn Abbas), not a hadith elevated to the Prophet ﷺ. What is preserved is that it is Ibn Abbas's words.
 
 **The jurisprudential principle**: What matters are the intentions and meanings, not the words and forms.
 

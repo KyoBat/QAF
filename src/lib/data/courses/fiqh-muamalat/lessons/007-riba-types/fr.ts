@@ -410,10 +410,12 @@ Intérêt de la divergence : Le fer et le cuivre entrent-ils dans l'usure ?
 
 <div class="quote-box">
 
-**📜 L'Avertissement Prophétique contre les Ruses**
+**📜 L'Avertissement contre les Ruses**
 
-> Le Prophète ﷺ a dit : **"Ne commettez pas ce qu'ont commis les Juifs, rendant licites les interdits d'Allah par les ruses les plus basses."**
-> — Rapporté par Ibn Battah
+> Ibn Abbas (qu'Allah l'agrée) a dit : **"Ne commettez pas ce qu'ont commis les Juifs, rendant licites les interdits d'Allah par les ruses les plus basses."**
+> — Rapporté par Ibn Battah (parole arrêtée)
+
+**⚠️ Note :** Ceci est un **athar mawquf** (parole arrêtée à Ibn Abbas), et non un hadith élevé au Prophète ﷺ. Ce qui est préservé est qu'il s'agit des paroles d'Ibn Abbas.
 
 **La règle juridique** : Ce qui compte, ce sont les intentions et les significations, pas les mots et les formes.
 

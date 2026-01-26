@@ -41,24 +41,7 @@ export const contentFr = `# L'Usure (Riba) — Définition et Interdiction
 
 ## Arbre des Types d'Usure
 
-\`\`\`
-                            L'Usure en Droit Islamique
-                                       │
-                ┌──────────────────────┴──────────────────────┐
-                │                                              │
-        Riba al-Fadl                                    Riba an-Nasi'a
-    (Usure d'Excédent)                               (Usure de Délai)
-                │                                              │
-        ┌───────┴───────┐                          ┌───────────┴───────────┐
-        │               │                          │                       │
-    Différence      Disparité                  Usure des                Usure des
-    de quantité     entre biens               Prêts                    Ventes
-    à l'échange     usuraires                 (Prêt à intérêt)         (Paiement différé)
-        │               │                          │                       │
-        ▼               ▼                          ▼                       ▼
-    Or contre or    Blé contre                 100 pour 120             Vente
-    inégal          orge inégaux               après un an              à terme
-\`\`\`
+<!-- DIAGRAM:riba-types-tree -->
 
 ---
 
@@ -90,32 +73,7 @@ export const contentFr = `# L'Usure (Riba) — Définition et Interdiction
 
 ## L'Interdiction de l'Usure dans le Coran
 
-\`\`\`
-┌─────────────────────────────────────────────────────────────────────┐
-│        📖 Les Étapes de l'Interdiction de l'Usure dans le Coran     │
-├─────────────────────────────────────────────────────────────────────┤
-│                                                                      │
-│  Étape ① : La Réprobation et le Blâme                               │
-│  ───────────────────────────────────────                            │
-│  "Ce que vous donnez en usure pour augmenter les biens d'autrui     │
-│   ne les augmentera pas auprès d'Allah" [Ar-Rum : 39]               │
-│                         ↓                                            │
-│  Étape ② : L'Interdiction Globale                                   │
-│  ───────────────────────────────────────                            │
-│  "Ne mangez pas l'usure multipliée" [Al 'Imran : 130]               │
-│                         ↓                                            │
-│  Étape ③ : L'Interdiction Catégorique                               │
-│  ───────────────────────────────────────                            │
-│  "Allah a rendu licite le commerce et illicite l'usure"             │
-│  [Al-Baqarah : 275]                                                 │
-│                         ↓                                            │
-│  Étape ④ : La Déclaration de Guerre Divine                          │
-│  ───────────────────────────────────────                            │
-│  "Attendez-vous à une guerre de la part d'Allah                     │
-│   et de Son Messager" [Al-Baqarah : 279]                            │
-│                                                                      │
-└─────────────────────────────────────────────────────────────────────┘
-\`\`\`
+<!-- DIAGRAM:riba-quran-stages -->
 
 ### Premier Verset : L'Interdiction Globale
 
@@ -201,28 +159,7 @@ Il n'y a pas dans le Coran de menace de guerre de la part d'Allah et de Son Mess
 
 </div>
 
-\`\`\`
-┌─────────────────────────────────────────────────────────────────────┐
-│           👥 Les Maudits dans une Transaction Usuraire              │
-├─────────────────────────────────────────────────────────────────────┤
-│                                                                      │
-│                    Une seule transaction usuraire                    │
-│                              │                                       │
-│     ┌──────────┬─────────────┼─────────────┬──────────┐             │
-│     │          │             │             │          │             │
-│     ▼          ▼             ▼             ▼          ▼             │
-│  Celui qui   Celui qui   L'Enregistreur  Témoin ①  Témoin ②        │
-│  consomme    donne       (le comptable)  (témoin)  (témoin)         │
-│  (créancier) (débiteur)                                             │
-│     │          │             │             │          │             │
-│     └──────────┴─────────────┴─────────────┴──────────┘             │
-│                              │                                       │
-│                              ▼                                       │
-│                     "ILS SONT ÉGAUX"                                 │
-│               Tous maudits de la même façon                          │
-│                                                                      │
-└─────────────────────────────────────────────────────────────────────┘
-\`\`\`
+<!-- DIAGRAM:riba-cursed-parties -->
 
 ### Troisième Hadith : L'Atrocité de l'Usure
 
@@ -232,6 +169,8 @@ Il n'y a pas dans le Coran de menace de guerre de la part d'Allah et de Son Mess
 
 > Le Prophète ﷺ a dit : **"L'usure comporte soixante-treize portes, la moindre est comme si l'homme couchait avec sa propre mère !"**
 > — Rapporté par Ibn Majah et al-Hakim
+
+**⚠️ Note :** Ce hadith est **faible dans sa chaîne de transmission** selon de nombreux spécialistes du hadith, mais il est mentionné pour mettre en garde contre l'usure. Son sens est authentique quant à la gravité de l'usure.
 
 </div>
 
@@ -250,29 +189,7 @@ Il n'y a pas dans le Coran de menace de guerre de la part d'Allah et de Son Mess
 
 ## Les Six Biens Usuraires
 
-\`\`\`
-┌─────────────────────────────────────────────────────────────────────┐
-│              💰 Les Six Biens Usuraires Textuels                     │
-├─────────────────────────────────────────────────────────────────────┤
-│                                                                      │
-│     ┌─────────────────┐         ┌─────────────────┐                 │
-│     │   Les Valeurs   │         │  Les Aliments   │                 │
-│     │   (Monnaies)    │         │   (Mesurables)  │                 │
-│     └────────┬────────┘         └────────┬────────┘                 │
-│              │                           │                          │
-│       ┌──────┴──────┐            ┌───────┼───────┐                  │
-│       │             │            │       │       │                  │
-│     ┌─┴─┐        ┌──┴──┐      ┌──┴──┐  ┌─┴──┐  ┌─┴─┐   ┌────┐      │
-│     │ ① │        │  ② │      │  ③  │  │ ④ │  │ ⑤ │   │ ⑥ │      │
-│     │ Or│        │Argent│     │ Blé │  │Orge│  │Datte│  │Sel │      │
-│     └───┘        └─────┘      └─────┘  └────┘  └────┘  └────┘      │
-│                                                                      │
-│     🔹 Cause pour l'or et l'argent : La valeur monétaire            │
-│        (Par analogie : les monnaies actuelles)                      │
-│     🔹 Cause pour les aliments : Comestibilité avec mesure/poids    │
-│                                                                      │
-└─────────────────────────────────────────────────────────────────────┘
-\`\`\`
+<!-- DIAGRAM:riba-six-items -->
 
 ---
 
@@ -302,37 +219,7 @@ Il n'y a pas dans le Coran de menace de guerre de la part d'Allah et de Son Mess
 
 ## La Sagesse de l'Interdiction de l'Usure
 
-\`\`\`
-┌─────────────────────────────────────────────────────────────────────┐
-│              🎯 Pourquoi Allah a-t-Il Interdit l'Usure ?            │
-├─────────────────────────────────────────────────────────────────────┤
-│                                                                      │
-│  ① Consommer les biens d'autrui injustement                        │
-│     • Profit sans travail, ni effort, ni risque                    │
-│     • Injustice flagrante envers l'emprunteur dans le besoin       │
-│                                                                      │
-│  ② Nuire aux pauvres et aux nécessiteux                            │
-│     • Exploitation du besoin des gens                              │
-│     • Concentration des richesses chez les riches                  │
-│                                                                      │
-│  ③ Paralyser le travail et la production                           │
-│     • Celui qui obtient du profit sans travailler ne travaille pas │
-│     • Décourage la créativité et la production                     │
-│                                                                      │
-│  ④ Couper l'entraide entre les gens                                │
-│     • Le prêt gratuit est parmi les meilleures œuvres              │
-│     • L'usure le transforme en exploitation                        │
-│                                                                      │
-│  ⑤ Corrompre les relations sociales                                │
-│     • Engendre l'inimitié et la haine                              │
-│     • Fait disparaître la compassion et la solidarité              │
-│                                                                      │
-│  ⑥ Les crises économiques                                          │
-│     • L'inflation et la hausse des prix                            │
-│     • L'effondrement des économies (2008)                          │
-│                                                                      │
-└─────────────────────────────────────────────────────────────────────┘
-\`\`\`
+<!-- DIAGRAM:riba-wisdom -->
 
 ---
 
@@ -362,20 +249,7 @@ Il n'y a pas dans le Coran de menace de guerre de la part d'Allah et de Son Mess
 
 ### Sur l'Individu
 
-\`\`\`
-         Les Châtiments du Consommateur d'Usure
-                        │
-         ┌──────────────┼──────────────┐
-         │              │              │
-         ▼              ▼              ▼
-    En ce monde     À la mort     Dans l'Au-delà
-         │              │              │
-         ▼              ▼              ▼
-   Anéantissement  Se lever comme   Nager dans
-   de la bénédiction celui possédé  une rivière de sang
-   {Allah anéantit   par le démon   [hadith de la vision]
-    l'usure}
-\`\`\`
+<!-- DIAGRAM:riba-individual-punishment -->
 
 ### Sur la Société
 
@@ -537,25 +411,7 @@ L'usure fait partie des choses connues de la religion par nécessité, et celui 
 
 ### Les Conditions du Repentir
 
-\`\`\`
-┌─────────────────────────────────────────┐
-│     Les Conditions du Repentir de       │
-│             l'Usure                     │
-├─────────────────────────────────────────┤
-│                                         │
-│  ① L'Arrêt Immédiat                     │
-│     Ferme tous les comptes et prêts     │
-│     usuraires                           │
-│                                         │
-│  ② Le Regret du Passé                   │
-│     La tristesse pour le péché          │
-│                                         │
-│  ③ La Résolution de Ne Plus Recommencer │
-│     L'intention sincère de ne jamais    │
-│     y revenir                           │
-│                                         │
-└─────────────────────────────────────────┘
-\`\`\`
+<!-- DIAGRAM:riba-repentance -->
 
 ### Que Fait le Repentant des Intérêts ?
 
@@ -576,33 +432,7 @@ L'usure fait partie des choses connues de la religion par nécessité, et celui 
 
 ## Les Alternatives Conformes à la Charia
 
-\`\`\`
-┌─────────────────────────────────────────────────────────────────────┐
-│              ✅ Les Alternatives Islamiques à l'Usure               │
-├─────────────────────────────────────────────────────────────────────┤
-│                                                                      │
-│  ① Le Prêt Gratuit (Qard Hasan)                                     │
-│     • Prêter sans intérêt                                           │
-│     • Une grande récompense auprès d'Allah                          │
-│                                                                      │
-│  ② La Participation (Musharaka)                                     │
-│     • Partenariat dans le capital                                   │
-│     • Partage des profits ET des pertes                             │
-│                                                                      │
-│  ③ La Commandite (Mudaraba)                                         │
-│     • Capital d'une partie, travail de l'autre                      │
-│     • Profit selon un pourcentage convenu                           │
-│                                                                      │
-│  ④ La Vente avec Marge (Murabaha)                                   │
-│     • Achat du bien puis revente avec profit connu                  │
-│     • Le paiement échelonné est permis                              │
-│                                                                      │
-│  ⑤ La Location-Vente (Ijara Muntahiya bi-Tamlik)                    │
-│     • Location puis transfert de propriété                          │
-│     • Pour voitures et immobilier                                   │
-│                                                                      │
-└─────────────────────────────────────────────────────────────────────┘
-\`\`\`
+<!-- DIAGRAM:riba-alternatives -->
 
 ---
 
@@ -645,31 +475,7 @@ Si vous aviez une somme d'argent à investir, et les choix devant vous étaient 
 
 ## 🔑 Résumé de la Leçon
 
-\`\`\`
-┌─────────────────────────────────────────────────────────────────────┐
-│         🎯 Résumé : L'Usure — Définition et Interdiction            │
-├─────────────────────────────────────────────────────────────────────┤
-│                                                                      │
-│  ✅ L'usure = augmentation conditionnée dans les biens usuraires    │
-│     ou en échange du délai                                          │
-│                                                                      │
-│  ✅ Interdite par le Livre, la Sunna et le Consensus                │
-│                                                                      │
-│  ✅ La menace la plus sévère du Coran : guerre d'Allah              │
-│     et de Son Messager                                              │
-│                                                                      │
-│  ✅ Les maudits sont cinq : celui qui consomme, celui qui donne,    │
-│     l'enregistreur, les deux témoins                                │
-│                                                                      │
-│  ✅ Le repentir est ouvert : arrêter, regretter, ne pas recommencer │
-│                                                                      │
-│  ✅ Les alternatives existent : participation, commandite,          │
-│     murabaha, location-vente                                        │
-│                                                                      │
-│  ✅ {Quiconque craint Allah, Il lui donnera une issue favorable}    │
-│                                                                      │
-└─────────────────────────────────────────────────────────────────────┘
-\`\`\`
+<!-- DIAGRAM:riba-summary -->
 
 ---
 

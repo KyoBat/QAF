@@ -241,6 +241,8 @@ Les banques conventionnelles sont basées sur le **riba**, tandis que les banque
 - **Ceux qui interdisent** disent : Le contrat contient la clause d'intérêt en cas de retard, c'est donc un contrat usuraire
 - **Ceux qui permettent** disent : Si tu t'engages à payer intégralement et ne paies pas d'intérêts effectivement, il n'y a pas de mal
 
+**⚠️ L'avis prépondérant selon la plupart des Académies du Fiqh :** L'interdiction des cartes de banques conventionnelles même avec l'engagement de payer intégralement, car le contrat contient une clause usuraire.
+
 **Le demandeur :** Que me conseillez-vous ?
 
 **Le Cheikh :** **Le plus prudent** est d'utiliser les cartes des banques islamiques, qui prennent des frais fixes au lieu d'intérêts.

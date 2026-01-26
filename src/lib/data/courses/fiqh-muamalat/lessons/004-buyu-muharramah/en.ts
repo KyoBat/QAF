@@ -376,7 +376,9 @@ The Prophet ﷺ said:
 
 > **The Prophet ﷺ said: "When you practice 'Ina... Allah will inflict humiliation upon you that He will not remove until you return to your religion."**
 
-*[Narrated by Abu Dawud]*
+*[Narrated by Abu Dawud from Ibn 'Umar]*
+
+**⚠️ Note:** This hadith is **disputed regarding its authenticity**; some hadith scholars weakened it due to a weakness in its chain, while **al-Albani authenticated it** along with others. The prohibition of 'Ina is established through other evidence.
 
 </div>
 

@@ -45,59 +45,13 @@ export const contentEn = `# Options in Sale (Al-Khiyārāt)
 
 ## The Wisdom Behind the Legitimacy of Options
 
-\`\`\`
-┌─────────────────────────────────────────────────────────────────────┐
-│              🎯 Wisdoms of the Legitimacy of Options                 │
-├─────────────────────────────────────────────────────────────────────┤
-│                                                                      │
-│   ┌─────────────┐    ┌─────────────┐    ┌─────────────┐            │
-│   │ Reflection  │    │ Removing    │    │  Justice    │            │
-│   │ and         │    │ harm and    │    │ between     │            │
-│   │ deliberation│    │ deception   │    │ parties     │            │
-│   └──────┬──────┘    └──────┬──────┘    └──────┬──────┘            │
-│          │                  │                  │                    │
-│          ▼                  ▼                  ▼                    │
-│   Giving time to     Protecting the     Balance of                 │
-│   think before       contracting party  rights and                 │
-│   commitment         from unexpected    duties                     │
-│                      losses                                         │
-│                                                                      │
-│   ┌─────────────┐    ┌─────────────┐                                │
-│   │ Preventing  │    │ Mercy       │                                │
-│   │ disputes    │    │ towards     │                                │
-│   │             │    │ contractors │                                │
-│   └──────┬──────┘    └──────┬──────┘                                │
-│          │                  │                                        │
-│          ▼                  ▼                                        │
-│   Allowing            Facilitating                                  │
-│   rescission if       transactions                                  │
-│   justified           and removing                                  │
-│                       hardship                                       │
-│                                                                      │
-└─────────────────────────────────────────────────────────────────────┘
-\`\`\`
+<!-- DIAGRAM:khiyarat-wisdom -->
 
 ---
 
 ## Types of Options — The Complete Tree
 
-\`\`\`
-                              Options in Sale
-                                     │
-           ┌─────────────────────────┼─────────────────────────┐
-           │                         │                         │
-     Time-based Options        Cause-based Options      Circumstantial Options
-           │                         │                         │
-    ┌──────┴──────┐          ┌───────┼───────┐          ┌──────┴──────┐
-    │             │          │       │       │          │             │
-  Session      Stipulation  Defect   Fraud   Gross     Sight       Transaction
-  Option       Option       Option   Option  Lesion    Option       Division
-    │             │          │       │       │          │             │
-    ▼             ▼          ▼       ▼       ▼          ▼             ▼
-  Before       Agreed      Hidden  Deceit  Excessive  Without     Partial
-  separation   duration    old     and     price      seeing      destruction
-                           defect  fraud   difference before
-\`\`\`
+<!-- DIAGRAM:khiyarat-types-tree -->
 
 ---
 
@@ -118,24 +72,7 @@ export const contentEn = `# Options in Sale (Al-Khiyārāt)
 
 ### Conditions and Rules
 
-\`\`\`
-┌─────────────────────────────────────────┐
-│      Conditions of the Session Option   │
-├─────────────────────────────────────────┤
-│                                         │
-│  ① Must be in a financial exchange      │
-│     contract (sale, lease, currency     │
-│     exchange, salam...)                 │
-│                                         │
-│  ② The parties must not have stipulated │
-│     its cancellation in the contract    │
-│                                         │
-│  ③ They must not have chosen to         │
-│     validate the contract before        │
-│     separating                          │
-│                                         │
-└─────────────────────────────────────────┘
-\`\`\`
+<!-- DIAGRAM:khiyar-majlis-conditions -->
 
 ### End of the Session Option
 
@@ -204,24 +141,7 @@ export const contentEn = `# Options in Sale (Al-Khiyārāt)
 
 ### Conditions of Validity
 
-\`\`\`
-┌─────────────────────────────────────────┐
-│  Conditions of the Stipulation Option   │
-├─────────────────────────────────────────┤
-│                                         │
-│  ① The duration must be known and       │
-│     specified                           │
-│     ✓ "three days"  ✓ "one week"       │
-│     ✗ "unspecified duration"           │
-│                                         │
-│  ② Not exceed three days                │
-│     (according to some scholars)        │
-│                                         │
-│  ③ The majority: more than three days   │
-│     is permitted according to need      │
-│                                         │
-└─────────────────────────────────────────┘
-\`\`\`
+<!-- DIAGRAM:khiyar-shart-conditions -->
 
 ---
 
@@ -242,22 +162,7 @@ export const contentEn = `# Options in Sale (Al-Khiyārāt)
 
 ### Conditions of the Defect Giving Right to Option
 
-\`\`\`
-                    Conditions of the Defect Giving Right to Option
-                                        │
-                 ┌──────────────────────┼──────────────────────┐
-                 │                      │                      │
-            ┌────┴────┐            ┌────┴────┐            ┌────┴────┐
-            │   Old   │            │  Hidden │            │ Affects │
-            │         │            │         │            │         │
-            └────┬────┘            └────┬────┘            └────┬────┘
-                 │                      │                      │
-                 ▼                      ▼                      ▼
-            Existed before         Unknown to             Diminishes
-            the sale or its        the buyer at           the value or
-            cause existed          the time of            the utility
-            before                 contract
-\`\`\`
+<!-- DIAGRAM:khiyar-ayb-conditions -->
 
 ### Buyer's Options When a Defect Is Found
 
@@ -325,26 +230,7 @@ You accept the defect without claiming anything — this is kindness.
 
 ### Contemporary Examples of Fraud
 
-\`\`\`
-┌─────────────────────────────────────────────────────────────────────┐
-│                     Contemporary Forms of Fraud                      │
-├─────────────────────────────────────────────────────────────────────┤
-│                                                                      │
-│  🚗 Cars                            📱 Electronics                   │
-│  ─────────────                      ────────────                    │
-│  • Reducing the odometer            • Hiding screen defects          │
-│  • Hiding past accidents            • Replacing with poor quality    │
-│  • Paint to hide rust                 parts                          │
-│                                     • Resetting as new               │
-│                                                                      │
-│  🏠 Real Estate                     👔 Merchandise                   │
-│  ──────────────                     ────────────                    │
-│  • Hiding foundation problems       • Changing expiration dates      │
-│  • Hiding water leaks               • Hiding manufacturing defects   │
-│  • Exaggerating the area            • Falsifying country of origin   │
-│                                                                      │
-└─────────────────────────────────────────────────────────────────────┘
-\`\`\`
+<!-- DIAGRAM:tadlis-examples -->
 
 ---
 
@@ -422,19 +308,7 @@ You accept the defect without claiming anything — this is kindness.
 
 ### Buyer's Options
 
-\`\`\`
-                 Partial loss or eviction of the item
-                              │
-                              ▼
-                    The buyer has the option
-                              │
-                  ┌───────────┴───────────┐
-                  │                       │
-                  ▼                       ▼
-         Rescind the entire       Take the remainder
-         contract and             at its proportionate
-         recover the price        share of the price
-\`\`\`
+<!-- DIAGRAM:tafarruq-options -->
 
 ---
 
@@ -442,25 +316,7 @@ You accept the defect without claiming anything — this is kindness.
 
 ### Effects of Rescission
 
-\`\`\`
-┌─────────────────────────────────────────────────────────────────────┐
-│                  Effects of Contract Rescission                      │
-├─────────────────────────────────────────────────────────────────────┤
-│                                                                      │
-│    Rescission of contract                                            │
-│        │                                                             │
-│        ├──► The item returns to the seller                          │
-│        │                                                             │
-│        ├──► The price returns to the buyer                          │
-│        │                                                             │
-│        ├──► Joined increase (fattening, growth)                     │
-│        │    ──► To the seller                                       │
-│        │                                                             │
-│        └──► Separate increase (offspring, fruit)                    │
-│             ──► To the buyer                                        │
-│                                                                      │
-└─────────────────────────────────────────────────────────────────────┘
-\`\`\`
+<!-- DIAGRAM:faskh-effects -->
 
 ### Disposition During the Option Period
 
@@ -656,27 +512,7 @@ Fahd enters a store, the seller insists: "This offer is limited time! Last piece
 
 ## 🔑 Lesson Summary
 
-\`\`\`
-┌─────────────────────────────────────────────────────────────────────┐
-│                   🎯 Summary: Options in Sale                        │
-├─────────────────────────────────────────────────────────────────────┤
-│                                                                      │
-│  ✅ Option = right to rescind or validate for a legal reason        │
-│                                                                      │
-│  ✅ The seven types:                                                 │
-│     Session • Stipulation • Defect • Fraud • Lesion • Sight •       │
-│     Transaction Division                                             │
-│                                                                      │
-│  ✅ Most important option today: Defect + return policies           │
-│                                                                      │
-│  ✅ Hiding a defect = forbidden deception giving right to option    │
-│                                                                      │
-│  ✅ Modern warranties = application of the defect option            │
-│                                                                      │
-│  ✅ Leniency in buying and selling = the believer's ethics          │
-│                                                                      │
-└─────────────────────────────────────────────────────────────────────┘
-\`\`\`
+<!-- DIAGRAM:khiyarat-summary -->
 
 ---
 

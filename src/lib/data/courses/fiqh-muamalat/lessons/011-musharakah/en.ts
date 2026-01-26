@@ -490,6 +490,8 @@ A company whose capital is divided into **shares of equal value**, tradable, and
 | | 2. Haram revenues < 5% | of haram portion |
 | | 3. Purification by donation | to the poor |
 
+**⚠️ Important note:** The 5% threshold is a **contemporary ijtihad (scholarly interpretation)** from some Sharia boards, not a consensus. Some scholars absolutely forbid investment in mixed companies.
+
 ---
 
 ### Limited Liability Company (LLC)

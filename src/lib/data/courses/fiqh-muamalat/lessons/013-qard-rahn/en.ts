@@ -257,7 +257,7 @@ Because the borrower takes it out of need and returns it, which better preserves
 
 > **Every loan that generates a benefit is usury (Riba)**
 
-This is a rule upon which the jurists are unanimous.
+**⚠️ Note:** This is a **jurisprudential rule (qa'ida fiqhiyya)** derived from the statements of the Companions and Followers, not a prophetic hadith. There is consensus on its meaning, and it is based on narrations from several Companions including: Ibn Mas'ud, Ubayy ibn Ka'b, Ibn Abbas, and Abdullah ibn Salam (may Allah be pleased with them).
 
 </div>
 

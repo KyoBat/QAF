@@ -41,24 +41,7 @@ export const contentEn = `# Usury (Riba) — Definition and Prohibition
 
 ## Tree of Types of Usury
 
-\`\`\`
-                            Usury in Islamic Law
-                                     │
-                ┌────────────────────┴────────────────────┐
-                │                                          │
-          Riba al-Fadl                              Riba an-Nasi'a
-       (Usury of Excess)                          (Usury of Delay)
-                │                                          │
-        ┌───────┴───────┐                      ┌───────────┴───────────┐
-        │               │                      │                       │
-    Difference      Disparity              Usury of                Usury of
-    in quantity     between usurious       Loans                   Sales
-    at exchange     goods                  (Interest-bearing)      (Deferred payment)
-        │               │                      │                       │
-        ▼               ▼                      ▼                       ▼
-    Gold for gold   Wheat for                100 for 120            Deferred
-    unequal         barley unequal           after a year           sale
-\`\`\`
+<!-- DIAGRAM:riba-types-tree -->
 
 ---
 
@@ -90,32 +73,7 @@ export const contentEn = `# Usury (Riba) — Definition and Prohibition
 
 ## The Prohibition of Usury in the Quran
 
-\`\`\`
-┌─────────────────────────────────────────────────────────────────────┐
-│        📖 The Stages of Prohibition of Usury in the Quran          │
-├─────────────────────────────────────────────────────────────────────┤
-│                                                                      │
-│  Stage ①: Disapproval and Blame                                     │
-│  ────────────────────────────────────                               │
-│  "Whatever you give in usury to increase within the wealth          │
-│   of people will not increase with Allah" [Ar-Rum: 39]              │
-│                         ↓                                            │
-│  Stage ②: General Prohibition                                       │
-│  ────────────────────────────────────                               │
-│  "Do not consume usury multiplied" [Al 'Imran: 130]                 │
-│                         ↓                                            │
-│  Stage ③: Categorical Prohibition                                   │
-│  ────────────────────────────────────                               │
-│  "Allah has permitted trade and forbidden usury"                    │
-│  [Al-Baqarah: 275]                                                  │
-│                         ↓                                            │
-│  Stage ④: Declaration of Divine War                                 │
-│  ────────────────────────────────────                               │
-│  "Be informed of a war from Allah and His Messenger"                │
-│  [Al-Baqarah: 279]                                                  │
-│                                                                      │
-└─────────────────────────────────────────────────────────────────────┘
-\`\`\`
+<!-- DIAGRAM:riba-quran-stages -->
 
 ### First Verse: General Prohibition
 
@@ -201,28 +159,7 @@ There is no threat in the Quran of war from Allah and His Messenger except for u
 
 </div>
 
-\`\`\`
-┌─────────────────────────────────────────────────────────────────────┐
-│           👥 Those Cursed in a Usurious Transaction                 │
-├─────────────────────────────────────────────────────────────────────┤
-│                                                                      │
-│                    A single usurious transaction                     │
-│                              │                                       │
-│     ┌──────────┬─────────────┼─────────────┬──────────┐             │
-│     │          │             │             │          │             │
-│     ▼          ▼             ▼             ▼          ▼             │
-│  The One     The One     The Recorder   Witness ①  Witness ②       │
-│  Who Takes   Who Gives   (accountant)   (witness)  (witness)        │
-│  (creditor)  (debtor)                                               │
-│     │          │             │             │          │             │
-│     └──────────┴─────────────┴─────────────┴──────────┘             │
-│                              │                                       │
-│                              ▼                                       │
-│                    "THEY ARE ALL EQUAL"                              │
-│                 All cursed in the same way                           │
-│                                                                      │
-└─────────────────────────────────────────────────────────────────────┘
-\`\`\`
+<!-- DIAGRAM:riba-cursed-parties -->
 
 ### Third Hadith: The Atrocity of Usury
 
@@ -232,6 +169,8 @@ There is no threat in the Quran of war from Allah and His Messenger except for u
 
 > The Prophet ﷺ said: **"Usury has seventy-three doors, the least of which is like a man sleeping with his own mother!"**
 > — Reported by Ibn Majah and al-Hakim
+
+**⚠️ Note:** This hadith has a **weak chain of transmission** according to many hadith scholars, but it is mentioned as a warning against usury. Its meaning regarding the gravity of usury is authentic.
 
 </div>
 
@@ -250,29 +189,7 @@ There is no threat in the Quran of war from Allah and His Messenger except for u
 
 ## The Six Usurious Items
 
-\`\`\`
-┌─────────────────────────────────────────────────────────────────────┐
-│              💰 The Six Textually Mentioned Usurious Items          │
-├─────────────────────────────────────────────────────────────────────┤
-│                                                                      │
-│     ┌─────────────────┐         ┌─────────────────┐                 │
-│     │   Currency/     │         │    Food Items   │                 │
-│     │   Valuables     │         │   (Measurables) │                 │
-│     └────────┬────────┘         └────────┬────────┘                 │
-│              │                           │                          │
-│       ┌──────┴──────┐            ┌───────┼───────┐                  │
-│       │             │            │       │       │                  │
-│     ┌─┴─┐        ┌──┴──┐      ┌──┴──┐  ┌─┴──┐  ┌─┴─┐   ┌────┐      │
-│     │ ① │        │  ② │      │  ③  │  │ ④ │  │ ⑤ │   │ ⑥ │      │
-│     │Gold│       │Silver│     │Wheat│  │Barley│ │Dates│ │Salt│      │
-│     └───┘        └─────┘      └─────┘  └────┘  └────┘  └────┘      │
-│                                                                      │
-│     🔹 Cause for gold and silver: Monetary value                    │
-│        (By analogy: modern currencies)                              │
-│     🔹 Cause for food items: Edibility with measurement/weight      │
-│                                                                      │
-└─────────────────────────────────────────────────────────────────────┘
-\`\`\`
+<!-- DIAGRAM:riba-six-items -->
 
 ---
 
@@ -302,37 +219,7 @@ There is no threat in the Quran of war from Allah and His Messenger except for u
 
 ## The Wisdom Behind the Prohibition of Usury
 
-\`\`\`
-┌─────────────────────────────────────────────────────────────────────┐
-│              🎯 Why Did Allah Prohibit Usury?                       │
-├─────────────────────────────────────────────────────────────────────┤
-│                                                                      │
-│  ① Consuming people's wealth unjustly                               │
-│     • Profit without work, effort, or risk                          │
-│     • Blatant injustice to the borrower in need                     │
-│                                                                      │
-│  ② Harming the poor and needy                                       │
-│     • Exploiting people's needs                                     │
-│     • Concentration of wealth among the rich                        │
-│                                                                      │
-│  ③ Paralyzing work and production                                   │
-│     • One who profits without working doesn't work                  │
-│     • Discourages creativity and production                         │
-│                                                                      │
-│  ④ Cutting off mutual help between people                           │
-│     • Interest-free lending is among the best deeds                 │
-│     • Usury transforms it into exploitation                         │
-│                                                                      │
-│  ⑤ Corrupting social relations                                      │
-│     • Breeds enmity and hatred                                      │
-│     • Eliminates compassion and solidarity                          │
-│                                                                      │
-│  ⑥ Economic crises                                                  │
-│     • Inflation and rising prices                                   │
-│     • Economic collapse (2008)                                      │
-│                                                                      │
-└─────────────────────────────────────────────────────────────────────┘
-\`\`\`
+<!-- DIAGRAM:riba-wisdom -->
 
 ---
 
@@ -362,20 +249,7 @@ There is no threat in the Quran of war from Allah and His Messenger except for u
 
 ### On the Individual
 
-\`\`\`
-         The Punishments of the Usury Consumer
-                        │
-         ┌──────────────┼──────────────┐
-         │              │              │
-         ▼              ▼              ▼
-    In This World   At Death      In the Hereafter
-         │              │              │
-         ▼              ▼              ▼
-   Annihilation    Rising like     Swimming in
-   of blessing     one possessed   a river of blood
-   {Allah destroys by the devil    [hadith of the vision]
-    usury}
-\`\`\`
+<!-- DIAGRAM:riba-individual-punishment -->
 
 ### On Society
 
@@ -537,25 +411,7 @@ Usury is among the things known of the religion by necessity, and whoever denies
 
 ### Conditions of Repentance
 
-\`\`\`
-┌─────────────────────────────────────────┐
-│     Conditions of Repentance from       │
-│              Usury                      │
-├─────────────────────────────────────────┤
-│                                         │
-│  ① Immediate Cessation                  │
-│     Close all usurious accounts         │
-│     and loans                           │
-│                                         │
-│  ② Regret for the Past                  │
-│     Sorrow over the sin                 │
-│                                         │
-│  ③ Resolve Not to Return                │
-│     Sincere intention to never          │
-│     go back                             │
-│                                         │
-└─────────────────────────────────────────┘
-\`\`\`
+<!-- DIAGRAM:riba-repentance -->
 
 ### What Does the Repentant Do with the Interest?
 
@@ -576,33 +432,7 @@ Usury is among the things known of the religion by necessity, and whoever denies
 
 ## Sharia-Compliant Alternatives
 
-\`\`\`
-┌─────────────────────────────────────────────────────────────────────┐
-│              ✅ Islamic Alternatives to Usury                       │
-├─────────────────────────────────────────────────────────────────────┤
-│                                                                      │
-│  ① Interest-Free Loan (Qard Hasan)                                  │
-│     • Lending without interest                                      │
-│     • Great reward with Allah                                       │
-│                                                                      │
-│  ② Partnership (Musharaka)                                          │
-│     • Partnership in capital                                        │
-│     • Sharing profits AND losses                                    │
-│                                                                      │
-│  ③ Silent Partnership (Mudaraba)                                    │
-│     • Capital from one party, work from the other                   │
-│     • Profit according to agreed percentage                         │
-│                                                                      │
-│  ④ Cost-Plus Sale (Murabaha)                                        │
-│     • Purchase of the item then resale with known profit            │
-│     • Installment payment is permissible                            │
-│                                                                      │
-│  ⑤ Lease-to-Own (Ijara Muntahiya bi-Tamlik)                         │
-│     • Leasing then transfer of ownership                            │
-│     • For cars and real estate                                      │
-│                                                                      │
-└─────────────────────────────────────────────────────────────────────┘
-\`\`\`
+<!-- DIAGRAM:riba-alternatives -->
 
 ---
 
@@ -645,31 +475,7 @@ If you had a sum of money to invest, and the choices before you were:
 
 ## 🔑 Lesson Summary
 
-\`\`\`
-┌─────────────────────────────────────────────────────────────────────┐
-│          🎯 Summary: Usury — Definition and Prohibition             │
-├─────────────────────────────────────────────────────────────────────┤
-│                                                                      │
-│  ✅ Usury = conditioned increase in usurious items or in            │
-│     exchange for time                                               │
-│                                                                      │
-│  ✅ Forbidden by the Book, the Sunnah, and Consensus                │
-│                                                                      │
-│  ✅ The most severe threat in the Quran: war from Allah             │
-│     and His Messenger                                               │
-│                                                                      │
-│  ✅ Five are cursed: the consumer, the giver, the recorder,         │
-│     and the two witnesses                                           │
-│                                                                      │
-│  ✅ Repentance is open: stop, regret, do not return                 │
-│                                                                      │
-│  ✅ Alternatives exist: partnership, mudaraba, murabaha,            │
-│     lease-to-own                                                    │
-│                                                                      │
-│  ✅ {Whoever fears Allah, He will make for him a way out}           │
-│                                                                      │
-└─────────────────────────────────────────────────────────────────────┘
-\`\`\`
+<!-- DIAGRAM:riba-summary -->
 
 ---
 

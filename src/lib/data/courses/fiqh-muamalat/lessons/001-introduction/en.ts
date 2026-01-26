@@ -266,7 +266,7 @@ He said: Rain touched it, O Messenger of Allah.
 
 The Prophet ﷺ said: **"Allah has cursed alcohol, the one who drinks it, the one who serves it, the one who sells it, the one who buys it, the one who presses it, the one for whom it's pressed, the one who carries it, and the one to whom it's carried."**
 
-*(Reported by Abu Dawud)*
+*(Reported by Abu Dawud, at-Tirmidhi and Ibn Majah from Ibn 'Umar (may Allah be pleased with him), authenticated by al-Albani)*
 
 </div>
 
