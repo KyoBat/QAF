@@ -2047,6 +2047,640 @@ const diagramsRegistry: Record<string, DiagramData> = {
         text: { ar: 'الرقابة الشرعية من هيئة متخصصة', fr: 'Supervision par comité spécialisé', en: 'Supervision by specialized board' }
       }
     ]
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // FIQH MUAMALAT - MASRAFIYYAH (Banking)
+  // ─────────────────────────────────────────────────────────
+  'bank-functions': {
+    type: 'ruling',
+    title: { ar: 'وظائف المصارف', fr: 'Fonctions des banques', en: 'Bank Functions' },
+    rulingType: 'info',
+    numbered: true,
+    items: [
+      {
+        text: { ar: 'قبول الودائع', fr: 'Accepter les dépôts', en: 'Accept deposits' },
+        detail: { ar: 'حفظ أموال العملاء وإتاحة السحب', fr: 'Garder l\'argent des clients', en: 'Keep clients\' money' }
+      },
+      {
+        text: { ar: 'تقديم التمويل', fr: 'Fournir le financement', en: 'Provide financing' },
+        detail: { ar: 'تمويل المشاريع والأفراد', fr: 'Financer projets et particuliers', en: 'Finance projects and individuals' }
+      },
+      {
+        text: { ar: 'الخدمات المالية', fr: 'Services financiers', en: 'Financial services' },
+        detail: { ar: 'التحويلات، البطاقات، خطابات الضمان', fr: 'Transferts, cartes, garanties', en: 'Transfers, cards, guarantees' }
+      },
+      {
+        text: { ar: 'الاستثمار', fr: 'Investissement', en: 'Investment' },
+        detail: { ar: 'استثمار الأموال وتنميتها', fr: 'Investir et faire fructifier', en: 'Invest and grow funds' }
+      }
+    ]
+  },
+
+  'banks-comparison': {
+    type: 'comparison',
+    title: { ar: 'المقارنة: البنوك التقليدية vs الإسلامية', fr: 'Comparaison: Banques conventionnelles vs Islamiques', en: 'Comparison: Conventional vs Islamic Banks' },
+    columns: [
+      {
+        title: { ar: 'البنوك التقليدية', fr: 'Banques conventionnelles', en: 'Conventional Banks' },
+        variant: 'negative',
+        items: [
+          { ar: 'تعمل بالفائدة (الربا)', fr: 'Fonctionnent avec intérêts (usure)', en: 'Work with interest (usury)' },
+          { ar: 'الفائدة ثابتة مضمونة', fr: 'Intérêt fixe garanti', en: 'Fixed guaranteed interest' },
+          { ar: 'لا رقابة شرعية', fr: 'Pas de supervision charia', en: 'No sharia supervision' },
+          { ar: 'التمويل بالإقراض بفائدة', fr: 'Financement par prêt à intérêt', en: 'Financing by interest loan' },
+          { ar: 'المال يولّد مالاً', fr: 'L\'argent engendre l\'argent', en: 'Money generates money' },
+          { ar: 'حرام بإجماع العلماء', fr: 'Interdit par consensus', en: 'Forbidden by consensus' }
+        ]
+      },
+      {
+        title: { ar: 'البنوك الإسلامية', fr: 'Banques islamiques', en: 'Islamic Banks' },
+        variant: 'positive',
+        items: [
+          { ar: 'تعمل بالعقود الشرعية', fr: 'Fonctionnent avec contrats conformes', en: 'Work with sharia contracts' },
+          { ar: 'الربح والخسارة مشتركة', fr: 'Profit et perte partagés', en: 'Shared profit and loss' },
+          { ar: 'هيئة شرعية للرقابة', fr: 'Comité charia de supervision', en: 'Sharia supervisory board' },
+          { ar: 'التمويل بالبيع والإجارة', fr: 'Financement par vente et location', en: 'Financing by sale and lease' },
+          { ar: 'المال يُستثمر بالعمل', fr: 'L\'argent investi par le travail', en: 'Money invested through work' },
+          { ar: 'حلال بالضوابط الشرعية', fr: 'Licite selon les règles charia', en: 'Lawful with sharia rules' }
+        ]
+      }
+    ]
+  },
+
+  'murabaha-conditions': {
+    type: 'ruling',
+    title: { ar: 'شروط صحة المرابحة', fr: 'Conditions de validité de la Murabaha', en: 'Murabaha Validity Conditions' },
+    rulingType: 'conditions',
+    numbered: true,
+    items: [
+      {
+        text: { ar: 'ملكية البنك للسلعة', fr: 'Propriété de la banque', en: 'Bank ownership' },
+        detail: { ar: 'يجب أن يمتلك البنك السلعة قبل بيعها', fr: 'La banque doit posséder avant de vendre', en: 'Bank must own before selling' }
+      },
+      {
+        text: { ar: 'قبض البنك للسلعة', fr: 'Réception par la banque', en: 'Bank reception' },
+        detail: { ar: 'يجب أن يقبض البنك السلعة حقيقة أو حكماً', fr: 'La banque doit recevoir réellement ou virtuellement', en: 'Bank must receive actually or constructively' }
+      },
+      {
+        text: { ar: 'تحمل البنك للمخاطر', fr: 'Risque assumé par la banque', en: 'Bank bears risk' },
+        detail: { ar: 'البنك يتحمل مخاطر الهلاك قبل البيع (الخراج بالضمان)', fr: 'La banque assume le risque de perte', en: 'Bank assumes loss risk' }
+      },
+      {
+        text: { ar: 'الوعد غير ملزم', fr: 'Promesse non contraignante', en: 'Promise not binding' },
+        detail: { ar: 'الوعد بالشراء غير ملزم شرعاً عند الجمهور', fr: 'Promesse d\'achat non obligatoire', en: 'Purchase promise not obligatory' }
+      }
+    ]
+  },
+
+  'murabaha-prohibitions': {
+    type: 'ruling',
+    title: { ar: 'محظورات المرابحة', fr: 'Interdits de la Murabaha', en: 'Murabaha Prohibitions' },
+    rulingType: 'prohibitions',
+    numbered: false,
+    items: [
+      {
+        text: { ar: 'بيع السلعة قبل تملكها', fr: 'Vendre avant de posséder', en: 'Selling before owning' },
+        detail: { ar: 'قال ﷺ: "لا تبع ما ليس عندك"', fr: 'Le Prophète ﷺ a dit: "Ne vends pas ce que tu n\'as pas"', en: 'Prophet ﷺ said: "Don\'t sell what you don\'t have"' }
+      },
+      {
+        text: { ar: 'توكيل العميل بالشراء لنفسه', fr: 'Mandater le client pour s\'acheter lui-même', en: 'Client buying for himself' },
+        detail: { ar: 'العينة المحرمة: حيلة ربوية', fr: 'Inah interdit: ruse usuraire', en: 'Forbidden Inah: usurious trick' }
+      },
+      {
+        text: { ar: 'إلزام العميل بالشراء قبل التملك', fr: 'Obliger le client avant possession', en: 'Binding client before ownership' },
+        detail: { ar: 'الوعد يصير ملزماً فقط بعد تملك البنك', fr: 'Promesse contraignante après possession', en: 'Promise binding after ownership' }
+      },
+      {
+        text: { ar: 'غرامات التأخير الربوية', fr: 'Pénalités de retard usuraires', en: 'Usurious late penalties' },
+        detail: { ar: 'الغرامة النسبية على التأخير = ربا', fr: 'Pénalité proportionnelle = usure', en: 'Proportional penalty = usury' }
+      }
+    ]
+  },
+
+  'ijara-muntahiya': {
+    type: 'ruling',
+    title: { ar: 'صور الإجارة المنتهية بالتمليك', fr: 'Formes de location-vente', en: 'Lease-to-Own Forms' },
+    rulingType: 'info',
+    numbered: false,
+    items: [
+      {
+        text: { ar: 'الصورة الأولى: الإجارة مع الوعد بالهبة', fr: 'Forme 1: Location avec promesse de don', en: 'Form 1: Lease with gift promise' },
+        subitems: [
+          { ar: 'عقد إجارة مستقل', fr: 'Contrat de location séparé', en: 'Separate lease contract' },
+          { ar: 'وعد بهبة العين في النهاية', fr: 'Promesse de don à la fin', en: 'Gift promise at end' },
+          { ar: 'التملك بعقد هبة منفصل', fr: 'Transfert par don séparé', en: 'Transfer by separate gift' }
+        ]
+      },
+      {
+        text: { ar: 'الصورة الثانية: الإجارة مع الوعد بالبيع', fr: 'Forme 2: Location avec promesse de vente', en: 'Form 2: Lease with sale promise' },
+        subitems: [
+          { ar: 'عقد إجارة مستقل', fr: 'Contrat de location séparé', en: 'Separate lease contract' },
+          { ar: 'وعد ببيع العين بثمن رمزي في النهاية', fr: 'Promesse de vente à prix symbolique', en: 'Sale promise at symbolic price' },
+          { ar: 'التملك بعقد بيع منفصل', fr: 'Transfert par vente séparée', en: 'Transfer by separate sale' }
+        ]
+      }
+    ],
+    footer: { ar: 'المفتاح: فصل عقد الإجارة عن عقد التملك', fr: 'Clé: séparer location et transfert', en: 'Key: separate lease and transfer' }
+  },
+
+  'ijara-conditions': {
+    type: 'ruling',
+    title: { ar: 'شروط الإجارة المنتهية بالتمليك', fr: 'Conditions de la location-vente', en: 'Lease-to-Own Conditions' },
+    rulingType: 'conditions',
+    numbered: true,
+    items: [
+      {
+        text: { ar: 'فصل عقد الإجارة عن عقد التملك', fr: 'Séparer location et transfert', en: 'Separate lease and transfer' },
+        detail: { ar: 'عقدان منفصلان، لا عقد واحد', fr: 'Deux contrats séparés', en: 'Two separate contracts' }
+      },
+      {
+        text: { ar: 'تحمل المؤجر لمخاطر الهلاك طوال مدة الإجارة', fr: 'Bailleur assume le risque de perte', en: 'Lessor bears loss risk' },
+        detail: { ar: 'العين ملكه، فهو يتحمل مخاطرها', fr: 'Le bien lui appartient, il assume le risque', en: 'Property is his, he bears risk' }
+      },
+      {
+        text: { ar: 'أن يكون الإيجار بأجر المثل', fr: 'Loyer au prix du marché', en: 'Rent at market rate' },
+        detail: { ar: 'لا إيجار مُبالغ فيه ليُخفي الفائدة', fr: 'Pas de loyer excessif cachant l\'intérêt', en: 'No excessive rent hiding interest' }
+      },
+      {
+        text: { ar: 'عدم إلزام المستأجر بالشراء', fr: 'Locataire non obligé d\'acheter', en: 'Lessee not obligated to buy' },
+        detail: { ar: 'الوعد غير ملزم من جانب المستأجر', fr: 'Promesse non contraignante pour le locataire', en: 'Promise not binding on lessee' }
+      }
+    ]
+  },
+
+  'musharaka-mutanaqisa': {
+    type: 'flow',
+    title: { ar: 'المشاركة المتناقصة - التطبيق العملي', fr: 'Musharaka dégressive - Application', en: 'Diminishing Partnership - Application' },
+    layout: 'vertical',
+    steps: [
+      {
+        title: { ar: 'البداية: البنك 80% | العميل 20%', fr: 'Début: Banque 80% | Client 20%', en: 'Start: Bank 80% | Client 20%' },
+        description: { ar: 'شراكة أولية بنسب متفق عليها', fr: 'Partenariat initial avec parts convenues', en: 'Initial partnership with agreed shares' },
+        variant: 'default'
+      },
+      {
+        title: { ar: 'السنة 2: البنك 60% | العميل 40%', fr: 'Année 2: Banque 60% | Client 40%', en: 'Year 2: Bank 60% | Client 40%' },
+        description: { ar: 'العميل يشتري حصصاً تدريجياً', fr: 'Client achète des parts progressivement', en: 'Client buys shares gradually' },
+        variant: 'current'
+      },
+      {
+        title: { ar: 'السنة 5: البنك 20% | العميل 80%', fr: 'Année 5: Banque 20% | Client 80%', en: 'Year 5: Bank 20% | Client 80%' },
+        description: { ar: 'حصة البنك تتناقص', fr: 'Part de la banque diminue', en: 'Bank share decreases' },
+        variant: 'current'
+      },
+      {
+        title: { ar: 'النهاية: العميل 100% مالك كامل 🏠', fr: 'Fin: Client 100% propriétaire', en: 'End: Client 100% owner' },
+        description: { ar: 'أثناء الشراكة: العميل يدفع إيجار حصة البنك', fr: 'Pendant: client paie loyer part banque', en: 'During: client pays rent on bank share' },
+        variant: 'success'
+      }
+    ]
+  },
+
+  'musharaka-conditions': {
+    type: 'ruling',
+    title: { ar: 'شروط المشاركة المتناقصة', fr: 'Conditions de la Musharaka dégressive', en: 'Diminishing Partnership Conditions' },
+    rulingType: 'conditions',
+    numbered: true,
+    items: [
+      {
+        text: { ar: 'الشراكة حقيقية', fr: 'Partenariat réel', en: 'Real partnership' },
+        detail: { ar: 'كلاهما يتحمل الربح والخسارة، ليست قرضاً مُقنّعاً', fr: 'Les deux partagent profit/perte, pas un prêt déguisé', en: 'Both share profit/loss, not disguised loan' }
+      },
+      {
+        text: { ar: 'الإيجار بسعر السوق', fr: 'Loyer au prix du marché', en: 'Rent at market rate' },
+        detail: { ar: 'لا يكون صورياً أو مُبالغاً فيه', fr: 'Pas fictif ni excessif', en: 'Not fictitious or excessive' }
+      },
+      {
+        text: { ar: 'البيع بعقد مستقل', fr: 'Vente par contrat séparé', en: 'Sale by separate contract' },
+        detail: { ar: 'كل عملية شراء حصة بعقد منفصل', fr: 'Chaque achat de part par contrat séparé', en: 'Each share purchase by separate contract' }
+      },
+      {
+        text: { ar: 'تحمل المخاطر بالنسبة', fr: 'Risque selon la part', en: 'Risk according to share' },
+        detail: { ar: 'كل شريك يتحمل بقدر حصته (لو تهدم المنزل: البنك 80%، العميل 20%)', fr: 'Chacun assume selon sa part', en: 'Each bears according to share' }
+      }
+    ]
+  },
+
+  'istisna-banking': {
+    type: 'ruling',
+    title: { ar: 'الاستصناع المصرفي', fr: 'Istisna bancaire', en: 'Banking Istisna' },
+    rulingType: 'info',
+    numbered: false,
+    items: [
+      {
+        text: { ar: 'التعريف', fr: 'Définition', en: 'Definition' },
+        detail: { ar: 'تعاقد على صناعة شيء بمواصفات محددة', fr: 'Contrat pour fabriquer selon spécifications', en: 'Contract to manufacture per specifications' }
+      },
+      {
+        text: { ar: 'تطبيقه في البنوك', fr: 'Application bancaire', en: 'Banking application' },
+        subitems: [
+          { ar: 'تمويل بناء العقارات', fr: 'Financement de construction immobilière', en: 'Real estate construction financing' },
+          { ar: 'تمويل تصنيع المعدات', fr: 'Financement de fabrication d\'équipements', en: 'Equipment manufacturing financing' },
+          { ar: 'تمويل المشاريع الإنشائية', fr: 'Financement de projets de construction', en: 'Construction project financing' }
+        ]
+      },
+      {
+        text: { ar: 'آلية العمل', fr: 'Mécanisme', en: 'Mechanism' },
+        subitems: [
+          { ar: 'العميل ← يطلب بناء مبنى بمواصفات', fr: 'Client → demande construction selon spécifications', en: 'Client → requests building per specs' },
+          { ar: 'البنك ← يتعاقد مع المقاول (استصناع موازٍ)', fr: 'Banque → contracte avec entrepreneur', en: 'Bank → contracts with contractor' },
+          { ar: 'المقاول ← يُنفذ ويُسلم للبنك', fr: 'Entrepreneur → exécute et livre à la banque', en: 'Contractor → executes and delivers to bank' },
+          { ar: 'البنك ← يُسلم للعميل بربح', fr: 'Banque → livre au client avec profit', en: 'Bank → delivers to client with profit' }
+        ]
+      }
+    ]
+  },
+
+  'current-account': {
+    type: 'ruling',
+    title: { ar: 'الحساب الجاري', fr: 'Compte courant', en: 'Current Account' },
+    rulingType: 'info',
+    numbered: false,
+    items: [
+      {
+        text: { ar: 'آلية العمل', fr: 'Fonctionnement', en: 'How it works' },
+        subitems: [
+          { ar: 'العميل يودع ماله في البنك', fr: 'Client dépose son argent à la banque', en: 'Client deposits money at bank' },
+          { ar: 'يسحب متى شاء', fr: 'Retire quand il veut', en: 'Withdraws when he wants' },
+          { ar: 'البنك يستخدمه في عملياته', fr: 'Banque l\'utilise dans ses opérations', en: 'Bank uses it in operations' },
+          { ar: 'لا فائدة للعميل ولا على العميل', fr: 'Pas d\'intérêt pour ou contre le client', en: 'No interest for or against client' }
+        ]
+      },
+      {
+        text: { ar: 'التكييف الشرعي', fr: 'Qualification juridique', en: 'Legal classification' },
+        detail: { ar: 'قرض من العميل للبنك، والبنك يضمن رده عند الطلب', fr: 'Prêt du client à la banque, banque garantit remboursement', en: 'Loan from client to bank, bank guarantees repayment' }
+      }
+    ],
+    footer: { ar: 'الحكم: جائز بشرط عدم أخذ أو إعطاء فائدة', fr: 'Règle: licite sans intérêt', en: 'Ruling: lawful without interest' }
+  },
+
+  'investment-account': {
+    type: 'flow',
+    title: { ar: 'الحساب الاستثماري', fr: 'Compte d\'investissement', en: 'Investment Account' },
+    layout: 'vertical',
+    steps: [
+      {
+        title: { ar: 'العميل (رب المال)', fr: 'Client (bailleur de fonds)', en: 'Client (capital provider)' },
+        description: { ar: 'يودع أمواله للاستثمار', fr: 'Dépose ses fonds pour investissement', en: 'Deposits funds for investment' },
+        variant: 'default'
+      },
+      {
+        title: { ar: 'البنك (المضارب)', fr: 'Banque (gestionnaire)', en: 'Bank (manager)' },
+        description: { ar: 'يستثمر الأموال بعقد المضاربة', fr: 'Investit les fonds par Mudaraba', en: 'Invests funds through Mudaraba' },
+        variant: 'current'
+      },
+      {
+        title: { ar: 'توزيع الأرباح', fr: 'Distribution des profits', en: 'Profit distribution' },
+        description: { ar: 'حسب الاتفاق (مثلاً 70% للعميل، 30% للبنك)', fr: 'Selon accord (ex: 70% client, 30% banque)', en: 'Per agreement (e.g., 70% client, 30% bank)' },
+        variant: 'success'
+      },
+      {
+        title: { ar: 'الخسارة', fr: 'Perte', en: 'Loss' },
+        description: { ar: 'على رأس المال (العميل) إلا بتعدٍّ من البنك', fr: 'Sur le capital (client) sauf faute de la banque', en: 'On capital (client) except bank negligence' },
+        variant: 'warning'
+      }
+    ]
+  },
+
+  'investment-account-conditions': {
+    type: 'ruling',
+    title: { ar: 'شروط الحساب الاستثماري', fr: 'Conditions du compte d\'investissement', en: 'Investment Account Conditions' },
+    rulingType: 'conditions',
+    numbered: true,
+    items: [
+      {
+        text: { ar: 'عدم ضمان رأس المال', fr: 'Pas de garantie du capital', en: 'No capital guarantee' },
+        detail: { ar: 'لو ضمن البنك رأس المال ← صار قرضاً بفائدة', fr: 'Si banque garantit → devient prêt à intérêt', en: 'If bank guarantees → becomes interest loan' }
+      },
+      {
+        text: { ar: 'عدم ضمان نسبة ربح محددة', fr: 'Pas de taux de profit garanti', en: 'No guaranteed profit rate' },
+        detail: { ar: 'الربح قد يزيد أو ينقص أو ينعدم', fr: 'Profit peut augmenter, diminuer ou disparaître', en: 'Profit may increase, decrease or disappear' }
+      },
+      {
+        text: { ar: 'توزيع الربح بنسبة لا بمبلغ مقطوع', fr: 'Profit par pourcentage, pas montant fixe', en: 'Profit by percentage, not fixed amount' },
+        detail: { ar: '✅ 70% للعميل، 30% للبنك | ❌ 1000 ريال للعميل شهرياً', fr: '✅ 70% client, 30% banque | ❌ 1000 SAR/mois', en: '✅ 70% client, 30% bank | ❌ 1000 SAR/month' }
+      },
+      {
+        text: { ar: 'استثمار الأموال في الحلال', fr: 'Investissement licite', en: 'Lawful investment' },
+        detail: { ar: 'لا يستثمرها البنك في الحرام', fr: 'Banque n\'investit pas dans l\'illicite', en: 'Bank doesn\'t invest in forbidden' }
+      }
+    ]
+  },
+
+  'savings-account': {
+    type: 'comparison',
+    title: { ar: 'حساب التوفير', fr: 'Compte d\'épargne', en: 'Savings Account' },
+    columns: [
+      {
+        title: { ar: 'إذا كان', fr: 'Si c\'est', en: 'If it is' },
+        variant: 'neutral',
+        items: [
+          { ar: 'قرضاً بفائدة', fr: 'Prêt à intérêt', en: 'Interest loan' },
+          { ar: 'قرضاً بلا فائدة', fr: 'Prêt sans intérêt', en: 'Interest-free loan' },
+          { ar: 'مضاربة', fr: 'Mudaraba', en: 'Mudaraba' }
+        ]
+      },
+      {
+        title: { ar: 'يُعامل', fr: 'Traité comme', en: 'Treated as' },
+        variant: 'neutral',
+        items: [
+          { ar: '❌ حرام (ربا)', fr: '❌ Interdit (usure)', en: '❌ Forbidden (usury)' },
+          { ar: '✅ حلال', fr: '✅ Licite', en: '✅ Lawful' },
+          { ar: '✅ حلال بشروطها', fr: '✅ Licite avec conditions', en: '✅ Lawful with conditions' }
+        ]
+      }
+    ]
+  },
+
+  'atm-card': {
+    type: 'ruling',
+    title: { ar: 'بطاقة الصراف الآلي (ATM)', fr: 'Carte de retrait (ATM)', en: 'ATM Card' },
+    rulingType: 'info',
+    numbered: false,
+    items: [
+      {
+        text: { ar: 'تعريفها', fr: 'Définition', en: 'Definition' },
+        detail: { ar: 'بطاقة للسحب من الحساب عبر أجهزة الصراف', fr: 'Carte pour retirer via distributeurs', en: 'Card to withdraw via ATMs' }
+      },
+      {
+        text: { ar: 'حقيقتها', fr: 'Nature', en: 'Nature' },
+        detail: { ar: 'وسيلة لقبض المال المملوك', fr: 'Moyen de recevoir son propre argent', en: 'Means to receive owned money' }
+      },
+      {
+        text: { ar: 'العمولة', fr: 'Commission', en: 'Fee' },
+        detail: { ar: 'جائزة إذا كانت مقابل الخدمة', fr: 'Licite si pour le service', en: 'Lawful if for service' }
+      }
+    ],
+    footer: { ar: 'الحكم: جائزة', fr: 'Règle: licite', en: 'Ruling: lawful' }
+  },
+
+  'debit-card': {
+    type: 'ruling',
+    title: { ar: 'بطاقة الخصم المباشر (Debit Card)', fr: 'Carte de débit', en: 'Debit Card' },
+    rulingType: 'info',
+    numbered: false,
+    items: [
+      {
+        text: { ar: 'تعريفها', fr: 'Définition', en: 'Definition' },
+        detail: { ar: 'بطاقة للدفع تُخصم من الحساب مباشرة', fr: 'Carte qui débite directement le compte', en: 'Card that debits account directly' }
+      },
+      {
+        text: { ar: 'آلية عملها', fr: 'Fonctionnement', en: 'How it works' },
+        detail: { ar: 'العميل يشتري ← المحل يمرر البطاقة ← المبلغ يُخصم فوراً', fr: 'Client achète → magasin passe la carte → débit immédiat', en: 'Client buys → store swipes card → immediate debit' }
+      },
+      {
+        text: { ar: 'العمولة', fr: 'Commission', en: 'Fee' },
+        detail: { ar: 'جائزة إذا كانت مقابل خدمة حقيقية', fr: 'Licite si pour service réel', en: 'Lawful if for real service' }
+      }
+    ],
+    footer: { ar: 'الحكم: جائزة', fr: 'Règle: licite', en: 'Ruling: lawful' }
+  },
+
+  'credit-card-types': {
+    type: 'ruling',
+    title: { ar: 'بطاقات الائتمان - الأنواع والحكم', fr: 'Cartes de crédit - Types et règles', en: 'Credit Cards - Types and Rules' },
+    rulingType: 'info',
+    numbered: false,
+    items: [
+      {
+        text: { ar: 'النوع الأول: بطاقة بدون فوائد', fr: 'Type 1: Carte sans intérêts', en: 'Type 1: Card without interest' },
+        subitems: [
+          { ar: 'السداد الكامل قبل تاريخ الاستحقاق', fr: 'Paiement complet avant échéance', en: 'Full payment before due date' },
+          { ar: 'لا فوائد ولا غرامات', fr: 'Pas d\'intérêts ni pénalités', en: 'No interest or penalties' },
+          { ar: '✅ الحكم: جائزة', fr: '✅ Règle: licite', en: '✅ Ruling: lawful' }
+        ]
+      },
+      {
+        text: { ar: 'النوع الثاني: بطاقة بفوائد', fr: 'Type 2: Carte avec intérêts', en: 'Type 2: Card with interest' },
+        subitems: [
+          { ar: 'فائدة على التأخير في السداد', fr: 'Intérêt sur retard de paiement', en: 'Interest on late payment' },
+          { ar: 'فائدة على التقسيط', fr: 'Intérêt sur échelonnement', en: 'Interest on installments' },
+          { ar: '❌ الحكم: محرمة', fr: '❌ Règle: interdite', en: '❌ Ruling: forbidden' }
+        ]
+      },
+      {
+        text: { ar: 'البديل الإسلامي', fr: 'Alternative islamique', en: 'Islamic alternative' },
+        subitems: [
+          { ar: 'بطاقات البنوك الإسلامية', fr: 'Cartes des banques islamiques', en: 'Islamic bank cards' },
+          { ar: 'رسوم ثابتة بدلاً من الفوائد', fr: 'Frais fixes au lieu d\'intérêts', en: 'Fixed fees instead of interest' },
+          { ar: 'هيئة شرعية تراقب العمليات', fr: 'Comité charia supervise les opérations', en: 'Sharia board supervises operations' }
+        ]
+      }
+    ]
+  },
+
+  'money-transfers': {
+    type: 'ruling',
+    title: { ar: 'التحويلات المالية', fr: 'Transferts d\'argent', en: 'Money Transfers' },
+    rulingType: 'info',
+    numbered: false,
+    items: [
+      {
+        text: { ar: 'تعريفها', fr: 'Définition', en: 'Definition' },
+        detail: { ar: 'نقل الأموال من مكان لآخر أو من عملة لأخرى', fr: 'Transfert d\'argent d\'un lieu à l\'autre ou d\'une devise à l\'autre', en: 'Moving money from place to place or currency to currency' }
+      },
+      {
+        text: { ar: 'التكييف الشرعي', fr: 'Qualification juridique', en: 'Legal classification' },
+        subitems: [
+          { ar: 'بنفس العملة ← وكالة بأجر', fr: 'Même devise → mandat rémunéré', en: 'Same currency → paid agency' },
+          { ar: 'بعملة مختلفة ← صرف ووكالة', fr: 'Devise différente → change et mandat', en: 'Different currency → exchange and agency' }
+        ]
+      },
+      {
+        text: { ar: 'الشروط', fr: 'Conditions', en: 'Conditions' },
+        subitems: [
+          { ar: 'التقابض في تحويل العملات (ولو حكماً)', fr: 'Échange simultané pour devises', en: 'Simultaneous exchange for currencies' },
+          { ar: 'أن تكون العمولة مقابل خدمة حقيقية', fr: 'Commission pour service réel', en: 'Fee for real service' },
+          { ar: 'عدم تأخير وصول الأموال دون عذر', fr: 'Pas de retard sans excuse', en: 'No delay without excuse' }
+        ]
+      }
+    ],
+    footer: { ar: 'الحكم: جائزة بالضوابط', fr: 'Règle: licite avec conditions', en: 'Ruling: lawful with conditions' }
+  },
+
+  'letter-of-guarantee': {
+    type: 'ruling',
+    title: { ar: 'خطابات الضمان', fr: 'Lettres de garantie', en: 'Letters of Guarantee' },
+    rulingType: 'info',
+    numbered: false,
+    items: [
+      {
+        text: { ar: 'التعريف', fr: 'Définition', en: 'Definition' },
+        detail: { ar: 'تعهد كتابي من البنك بدفع مبلغ معين للمستفيد عند المطالبة', fr: 'Engagement écrit de la banque à payer au bénéficiaire', en: 'Written commitment by bank to pay beneficiary' }
+      },
+      {
+        text: { ar: 'التكييف الشرعي', fr: 'Qualification juridique', en: 'Legal classification' },
+        detail: { ar: 'كفالة، والبنك كفيل', fr: 'Garantie, la banque est garante', en: 'Surety, bank is guarantor' }
+      },
+      {
+        text: { ar: 'آلية العمل', fr: 'Mécanisme', en: 'Mechanism' },
+        subitems: [
+          { ar: 'العميل ← يطلب خطاب ضمان من البنك', fr: 'Client → demande lettre de garantie', en: 'Client → requests letter of guarantee' },
+          { ar: 'البنك ← يُصدر خطاباً يتعهد فيه بالدفع', fr: 'Banque → émet lettre s\'engageant à payer', en: 'Bank → issues letter committing to pay' },
+          { ar: 'المستفيد ← يطمئن أن المبلغ مضمون', fr: 'Bénéficiaire → rassuré que le montant est garanti', en: 'Beneficiary → assured amount is guaranteed' }
+        ]
+      },
+      {
+        text: { ar: 'حكم العمولة', fr: 'Règle de la commission', en: 'Fee ruling' },
+        subitems: [
+          { ar: 'مقابل المصاريف الإدارية ← ✅ جائزة', fr: 'Pour frais administratifs → ✅ licite', en: 'For admin costs → ✅ lawful' },
+          { ar: 'نسبة من المبلغ المضمون ← ⚠️ فيها خلاف', fr: 'Pourcentage du montant → ⚠️ contesté', en: 'Percentage of amount → ⚠️ disputed' }
+        ]
+      }
+    ]
+  },
+
+  'documentary-credit': {
+    type: 'ruling',
+    title: { ar: 'الاعتمادات المستندية', fr: 'Crédits documentaires', en: 'Documentary Credits' },
+    rulingType: 'info',
+    numbered: false,
+    items: [
+      {
+        text: { ar: 'تعريفها', fr: 'Définition', en: 'Definition' },
+        detail: { ar: 'تعهد من البنك بالدفع للبائع مقابل تسليم المستندات (في التجارة الدولية)', fr: 'Engagement de la banque à payer le vendeur contre documents', en: 'Bank commitment to pay seller against documents' }
+      },
+      {
+        text: { ar: 'آلية العمل', fr: 'Mécanisme', en: 'Mechanism' },
+        subitems: [
+          { ar: 'المستورد ← يطلب من البنك فتح اعتماد', fr: 'Importateur → demande ouverture de crédit', en: 'Importer → requests credit opening' },
+          { ar: 'البنك ← يتعهد بالدفع للمُصدِّر عند تسليم المستندات', fr: 'Banque → s\'engage à payer l\'exportateur contre documents', en: 'Bank → commits to pay exporter against documents' },
+          { ar: 'المُصدِّر ← يُشحن البضاعة ويُسلم المستندات', fr: 'Exportateur → expédie et remet documents', en: 'Exporter → ships and submits documents' },
+          { ar: 'البنك ← يدفع للمُصدِّر، ويُحصّل من المستورد', fr: 'Banque → paie exportateur, récupère de l\'importateur', en: 'Bank → pays exporter, collects from importer' }
+        ]
+      },
+      {
+        text: { ar: 'التكييف', fr: 'Qualification', en: 'Classification' },
+        detail: { ar: 'وكالة بأجر + كفالة', fr: 'Mandat rémunéré + garantie', en: 'Paid agency + surety' }
+      }
+    ],
+    footer: { ar: 'الحكم: جائزة بالضوابط الشرعية', fr: 'Règle: licite avec conditions charia', en: 'Ruling: lawful with sharia conditions' }
+  },
+
+  'banking-prohibitions': {
+    type: 'ruling',
+    title: { ar: 'المحظورات في البنوك الإسلامية', fr: 'Interdits dans les banques islamiques', en: 'Prohibitions in Islamic Banks' },
+    rulingType: 'prohibitions',
+    numbered: false,
+    items: [
+      {
+        text: { ar: 'أولاً: الفائدة الربوية', fr: 'Premièrement: Intérêt usuraire', en: 'First: Usurious interest' },
+        subitems: [
+          { ar: 'الفائدة على القروض', fr: 'Intérêt sur prêts', en: 'Interest on loans' },
+          { ar: 'الفائدة على التأخير', fr: 'Intérêt sur retard', en: 'Interest on delay' },
+          { ar: 'الفائدة على الحسابات', fr: 'Intérêt sur comptes', en: 'Interest on accounts' }
+        ],
+        detail: { ar: 'محرمة قطعاً بالقرآن والسنة والإجماع', fr: 'Absolument interdit par Coran, Sunna et consensus', en: 'Absolutely forbidden by Quran, Sunnah and consensus' }
+      },
+      {
+        text: { ar: 'ثانياً: الغرر الفاحش', fr: 'Deuxièmement: Incertitude excessive', en: 'Second: Excessive uncertainty' },
+        subitems: [
+          { ar: 'العقود المبهمة', fr: 'Contrats ambigus', en: 'Ambiguous contracts' },
+          { ar: 'الشروط غير الواضحة', fr: 'Conditions non claires', en: 'Unclear conditions' },
+          { ar: 'المخاطر غير المحسوبة', fr: 'Risques non calculés', en: 'Uncalculated risks' }
+        ]
+      },
+      {
+        text: { ar: 'ثالثاً: التمويل المحرم', fr: 'Troisièmement: Financement illicite', en: 'Third: Forbidden financing' },
+        subitems: [
+          { ar: 'تمويل مشاريع محرمة (خمور، قمار...)', fr: 'Financer projets illicites (alcool, jeux...)', en: 'Finance forbidden projects (alcohol, gambling...)' },
+          { ar: 'شراء أسهم شركات محرمة', fr: 'Acheter actions de sociétés illicites', en: 'Buy shares of forbidden companies' },
+          { ar: 'الاستثمار في السندات الربوية', fr: 'Investir dans obligations usuraires', en: 'Invest in usurious bonds' }
+        ]
+      }
+    ]
+  },
+
+  'islamic-bank-criteria': {
+    type: 'ruling',
+    title: { ar: 'معايير اختيار البنك الإسلامي', fr: 'Critères de choix d\'une banque islamique', en: 'Criteria for Choosing Islamic Bank' },
+    rulingType: 'conditions',
+    numbered: true,
+    items: [
+      {
+        text: { ar: 'وجود هيئة شرعية مستقلة', fr: 'Comité charia indépendant', en: 'Independent sharia board' },
+        detail: { ar: 'تراقب العمليات وتُفتي في المسائل', fr: 'Supervise les opérations et émet des fatwas', en: 'Supervises operations and issues fatwas' }
+      },
+      {
+        text: { ar: 'الشفافية في العقود والعمليات', fr: 'Transparence des contrats et opérations', en: 'Transparency in contracts and operations' },
+        detail: { ar: 'عقود واضحة، لا شروط مخفية', fr: 'Contrats clairs, pas de conditions cachées', en: 'Clear contracts, no hidden terms' }
+      },
+      {
+        text: { ar: 'الالتزام بالمعايير الشرعية الصادرة عن المجامع', fr: 'Respect des normes charia des académies', en: 'Compliance with sharia standards from academies' },
+        detail: { ar: 'معايير أيوفي (AAOIFI) ومجمع الفقه الإسلامي', fr: 'Normes AAOIFI et Académie du Fiqh', en: 'AAOIFI and Islamic Fiqh Academy standards' }
+      },
+      {
+        text: { ar: 'فصل الأموال بين الحسابات المختلفة', fr: 'Séparation des fonds entre comptes', en: 'Separation of funds between accounts' },
+        detail: { ar: 'أموال المضاربة منفصلة عن أموال البنك', fr: 'Fonds Mudaraba séparés des fonds de la banque', en: 'Mudaraba funds separate from bank funds' }
+      },
+      {
+        text: { ar: 'التدقيق الشرعي الدوري على العمليات', fr: 'Audit charia périodique', en: 'Periodic sharia audit' },
+        detail: { ar: 'مراجعة سنوية من الهيئة الشرعية', fr: 'Révision annuelle par le comité charia', en: 'Annual review by sharia board' }
+      }
+    ]
+  },
+
+  'masrafiyyah-summary': {
+    type: 'summary',
+    title: { ar: 'خلاصة أحكام المعاملات المصرفية', fr: 'Résumé des règles bancaires', en: 'Summary of Banking Rules' },
+    rows: [
+      {
+        item: { ar: 'المرابحة', fr: 'Murabaha', en: 'Murabaha' },
+        ruling: 'conditional',
+        notes: { ar: 'بيع بربح، جائزة بشروط', fr: 'Vente avec profit, licite avec conditions', en: 'Sale with profit, lawful with conditions' }
+      },
+      {
+        item: { ar: 'الإجارة المنتهية بالتمليك', fr: 'Location-vente', en: 'Lease-to-own' },
+        ruling: 'conditional',
+        notes: { ar: 'إجارة + وعد، جائزة بشروط', fr: 'Location + promesse, licite avec conditions', en: 'Lease + promise, lawful with conditions' }
+      },
+      {
+        item: { ar: 'المشاركة المتناقصة', fr: 'Musharaka dégressive', en: 'Diminishing partnership' },
+        ruling: 'halal',
+        notes: { ar: 'شراكة حقيقية، جائزة', fr: 'Vrai partenariat, licite', en: 'Real partnership, lawful' }
+      },
+      {
+        item: { ar: 'الحساب الجاري', fr: 'Compte courant', en: 'Current account' },
+        ruling: 'conditional',
+        notes: { ar: 'قرض، جائز بلا فائدة', fr: 'Prêt, licite sans intérêt', en: 'Loan, lawful without interest' }
+      },
+      {
+        item: { ar: 'الحساب الاستثماري', fr: 'Compte d\'investissement', en: 'Investment account' },
+        ruling: 'halal',
+        notes: { ar: 'مضاربة، جائز', fr: 'Mudaraba, licite', en: 'Mudaraba, lawful' }
+      },
+      {
+        item: { ar: 'بطاقة الائتمان', fr: 'Carte de crédit', en: 'Credit card' },
+        ruling: 'conditional',
+        notes: { ar: 'قرض، جائز إن خلت من الفوائد', fr: 'Prêt, licite si sans intérêts', en: 'Loan, lawful if interest-free' }
+      }
+    ]
+  },
+
+  'banking-principles': {
+    type: 'ruling',
+    title: { ar: 'القواعد الأساسية في المعاملات المصرفية', fr: 'Principes fondamentaux bancaires', en: 'Fundamental Banking Principles' },
+    rulingType: 'conditions',
+    numbered: true,
+    items: [
+      {
+        text: { ar: 'كل ما فيه ربا أو غرر فاحش محرم', fr: 'Tout ce qui contient usure ou incertitude excessive est interdit', en: 'Everything with usury or excessive uncertainty is forbidden' }
+      },
+      {
+        text: { ar: 'البديل الإسلامي متاح لكل معاملة تقريباً', fr: 'L\'alternative islamique existe pour presque toute transaction', en: 'Islamic alternative available for almost every transaction' }
+      },
+      {
+        text: { ar: 'الرقابة الشرعية ضرورية للتأكد من المشروعية', fr: 'Supervision charia nécessaire pour assurer la conformité', en: 'Sharia supervision necessary to ensure compliance' }
+      },
+      {
+        text: { ar: '"الحلال أغلى" ← لكنه أبرك', fr: '"Le licite est plus cher" → mais plus béni', en: '"Halal is more expensive" → but more blessed' }
+      },
+      {
+        text: { ar: 'العبرة بحقيقة العقد لا بالنتيجة المادية', fr: 'Ce qui compte est la réalité du contrat, pas le résultat financier', en: 'What matters is contract reality, not financial result' }
+      }
+    ],
+    footer: { ar: 'قال الله تعالى: ﴿وَأَحَلَّ اللَّهُ الْبَيْعَ وَحَرَّمَ الرِّبَا﴾', fr: 'Allah a dit: ﴿Allah a rendu licite le commerce et illicite l\'usure﴾', en: 'Allah said: ﴿Allah has made trade lawful and usury unlawful﴾' }
   }
 }
 

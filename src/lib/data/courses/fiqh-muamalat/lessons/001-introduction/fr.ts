@@ -90,17 +90,7 @@ Le Messager d'Allah ﷺ a dit :
 
 ### 3️⃣ Parce que l'argent fait partie des cinq nécessités
 
-\`\`\`
-        🛡️ Les Cinq Nécessités en Islam
-                    │
-    ┌───────┬───────┼───────┬───────┐
-    │       │       │       │       │
-La Religion  La Vie  L'Intellect  La Descendance  💰 Les Biens
-    │       │       │       │       │
-    └───────┴───────┴───────┴───────┘
-                    │
-       Protéger les biens = Objectif majeur de la Loi
-\`\`\`
+<!-- DIAGRAM:five-necessities -->
 
 ---
 
@@ -179,15 +169,7 @@ Le Prophète ﷺ a dit :
 
 ## 🏛️ Les Piliers du Contrat
 
-\`\`\`
-            📝 Les Piliers du Contrat selon la Majorité
-                          │
-            ┌─────────────┼─────────────┐
-            │             │             │
-    Les Contractants   La Formule   L'Objet du Contrat
-       (Le vendeur      (L'offre      (La marchandise
-       et l'acheteur)   et l'acceptation)  et le prix)
-\`\`\`
+<!-- DIAGRAM:contract-pillars -->
 
 ### Conditions des contractants
 

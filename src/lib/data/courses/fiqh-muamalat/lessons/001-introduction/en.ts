@@ -90,17 +90,7 @@ The Messenger of Allah ﷺ said:
 
 ### 3️⃣ Because Wealth is One of the Five Necessities
 
-\`\`\`
-            🛡️ The Five Necessities in Islam
-                        │
-        ┌───────┬───────┼───────┬───────┐
-        │       │       │       │       │
-    Religion   Life   Intellect  Progeny   💰 Wealth
-        │       │       │       │       │
-        └───────┴───────┴───────┴───────┘
-                        │
-         Protecting wealth = Major objective of the Law
-\`\`\`
+<!-- DIAGRAM:five-necessities -->
 
 ---
 
@@ -179,15 +169,7 @@ The Prophet ﷺ said:
 
 ## 🏛️ The Pillars of a Contract
 
-\`\`\`
-            📝 Pillars of Contract According to the Majority
-                            │
-            ┌───────────────┼───────────────┐
-            │               │               │
-    The Contracting     The Formula     The Subject
-        Parties          (Offer and       Matter
-    (Seller & Buyer)    Acceptance)   (Goods & Price)
-\`\`\`
+<!-- DIAGRAM:contract-pillars -->
 
 ### Conditions for the Contracting Parties
 
