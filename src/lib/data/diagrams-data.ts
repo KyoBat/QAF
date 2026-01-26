@@ -978,6 +978,243 @@ const diagramsRegistry: Record<string, DiagramData> = {
   },
 
   // ─────────────────────────────────────────────────────────
+  // FIQH MUAMALAT - SALAM & ISTISNA
+  // ─────────────────────────────────────────────────────────
+  'salam-contract': {
+    type: 'flow',
+    title: {
+      ar: 'عقد السَّلَم',
+      fr: 'Contrat Salam',
+      en: 'Salam Contract'
+    },
+    layout: 'horizontal',
+    steps: [
+      { title: { ar: 'المشتري (المُسلِم)', fr: 'Acheteur', en: 'Buyer' }, description: { ar: 'يدفع الثمن كاملاً الآن', fr: 'Paie le prix complet maintenant', en: 'Pays full price now' } },
+      { title: { ar: 'الثمن معجَّل', fr: 'Prix immédiat', en: 'Immediate payment' }, description: { ar: '💰 الآن', fr: '💰 Maintenant', en: '💰 Now' }, variant: 'success' },
+      { title: { ar: 'البائع (المُسلَم إليه)', fr: 'Vendeur', en: 'Seller' }, description: { ar: 'يُسلِّم السلعة الموصوفة لاحقاً', fr: 'Livre les marchandises décrites plus tard', en: 'Delivers described goods later' } }
+    ]
+  },
+
+  'salam-vs-istisna': {
+    type: 'comparison',
+    title: {
+      ar: 'مقارنة: السَّلَم vs الاستصناع',
+      fr: 'Comparaison: Salam vs Istisna',
+      en: 'Comparison: Salam vs Istisna'
+    },
+    columns: [
+      {
+        title: { ar: 'السَّلَم', fr: 'Salam', en: 'Salam' },
+        variant: 'positive',
+        items: [
+          { ar: 'الثمن يُعجَّل (واجب)', fr: 'Prix avancé (obligatoire)', en: 'Price paid upfront (required)' },
+          { ar: 'لا يُشترط العمل', fr: 'Pas de travail requis', en: 'No work required' },
+          { ar: 'الأجل شرط صحة', fr: 'Délai est condition de validité', en: 'Term is validity condition' },
+          { ar: 'السلعة موجودة عادة', fr: 'Bien existe généralement', en: 'Goods usually exist' },
+          { ar: 'مثال: شراء قمح مقدماً', fr: 'Ex: achat blé à l\'avance', en: 'Ex: buying wheat in advance' }
+        ]
+      },
+      {
+        title: { ar: 'الاستصناع', fr: 'Istisna', en: 'Istisna' },
+        variant: 'neutral',
+        items: [
+          { ar: 'يجوز تأجيل الثمن', fr: 'Prix peut être différé', en: 'Price can be deferred' },
+          { ar: 'يُشترط العمل (الصنع)', fr: 'Travail requis (fabrication)', en: 'Work required (manufacturing)' },
+          { ar: 'الأجل ليس شرطاً', fr: 'Délai non obligatoire', en: 'Term not required' },
+          { ar: 'السلعة تُصنع خصيصاً', fr: 'Bien fabriqué sur mesure', en: 'Goods custom-made' },
+          { ar: 'مثال: طلب صنع أثاث', fr: 'Ex: commande de meubles', en: 'Ex: ordering furniture' }
+        ]
+      }
+    ]
+  },
+
+  'salam-istisna-summary': {
+    type: 'summary',
+    title: {
+      ar: '🎯 خلاصة: السَّلَم والاستصناع',
+      fr: '🎯 Résumé: Salam et Istisna',
+      en: '🎯 Summary: Salam and Istisna'
+    },
+    rows: [
+      { item: { ar: 'السَّلَم = بيع موصوف مؤجل بثمن معجل', fr: 'Salam = vente différée avec paiement avancé', en: 'Salam = deferred sale with upfront payment' }, ruling: 'halal' },
+      { item: { ar: 'تعجيل الثمن واجب في السَّلَم', fr: 'Paiement avancé obligatoire en Salam', en: 'Upfront payment required in Salam' }, ruling: 'halal' },
+      { item: { ar: 'الأجل واجب في السَّلَم', fr: 'Délai obligatoire en Salam', en: 'Term required in Salam' }, ruling: 'halal' },
+      { item: { ar: 'الاستصناع = عقد على صنع شيء', fr: 'Istisna = contrat de fabrication', en: 'Istisna = manufacturing contract' }, ruling: 'halal' },
+      { item: { ar: 'الثمن مرن في الاستصناع (تعجيل/تأجيل/أقساط)', fr: 'Prix flexible en Istisna', en: 'Price flexible in Istisna' }, ruling: 'halal' },
+      { item: { ar: 'كلاهما مستثنى من "بيع ما ليس عندك"', fr: 'Les deux exemptés de "vendre ce qu\'on ne possède pas"', en: 'Both exempted from "selling what you don\'t own"' }, ruling: 'halal' }
+    ]
+  },
+
+  'salam-evidences': {
+    type: 'tree',
+    title: { ar: 'أدلة مشروعية السَّلَم', fr: 'Preuves de la légalité du Salam', en: 'Evidence for Salam Legality' },
+    root: { ar: 'السَّلَم مشروع بالاتفاق', fr: 'Salam est légal par consensus', en: 'Salam is lawful by consensus' },
+    branches: [
+      { label: { ar: 'القرآن', fr: 'Coran', en: 'Quran' }, description: { ar: '﴿إِذَا تَدَايَنتُم بِدَيْنٍ إِلَىٰ أَجَلٍ﴾', fr: 'Quand vous contractez une dette', en: 'When you contract a debt' }, variant: 'success' },
+      { label: { ar: 'السنة', fr: 'Sunna', en: 'Sunnah' }, description: { ar: 'حديث ابن عباس في السلف', fr: 'Hadith d\'Ibn Abbas sur le salaf', en: 'Ibn Abbas hadith on salaf' }, variant: 'success' },
+      { label: { ar: 'الإجماع', fr: 'Consensus', en: 'Consensus' }, description: { ar: 'اتفاق العلماء على جوازه', fr: 'Accord des savants sur sa licéité', en: 'Scholars agree on its permissibility' }, variant: 'success' }
+    ]
+  },
+
+  'salam-price-conditions': {
+    type: 'ruling',
+    title: { ar: 'شروط الثمن (رأس المال)', fr: 'Conditions du prix (capital)', en: 'Price Conditions (Capital)' },
+    rulingType: 'conditions',
+    numbered: true,
+    items: [
+      { text: { ar: 'أن يكون معلوماً', fr: 'Doit être connu', en: 'Must be known' }, detail: { ar: 'قدراً وصفة', fr: 'En quantité et qualité', en: 'In quantity and quality' } },
+      { text: { ar: 'أن يُقبض في المجلس', fr: 'Doit être reçu dans la séance', en: 'Must be received in session' }, detail: { ar: 'عند الجمهور (أو خلال 3 أيام عند بعضهم)', fr: 'Selon la majorité (ou sous 3 jours pour certains)', en: 'According to majority (or within 3 days for some)' } }
+    ],
+    footer: { ar: '⚠️ لماذا التعجيل؟ لأنه لو تأخر الثمن والسلعة = بيع دين بدين (محرم)', fr: '⚠️ Pourquoi l\'avance? Si prix et bien différés = dette contre dette (interdit)', en: '⚠️ Why advance? If both deferred = debt for debt (prohibited)' }
+  },
+
+  'salam-goods-conditions': {
+    type: 'ruling',
+    title: { ar: 'شروط السلعة (المُسلَم فيه)', fr: 'Conditions du bien (objet du Salam)', en: 'Goods Conditions (Salam Object)' },
+    rulingType: 'conditions',
+    numbered: true,
+    items: [
+      { text: { ar: 'أن يكون موصوفاً', fr: 'Doit être décrit', en: 'Must be described' }, detail: { ar: 'صفة تنفي الجهالة', fr: 'Description qui élimine l\'incertitude', en: 'Description that eliminates uncertainty' } },
+      { text: { ar: 'أن يكون ديناً في الذمة', fr: 'Doit être une dette', en: 'Must be a debt' }, detail: { ar: '✗ خطأ: "هذه السيارة بعينها" | ✓ صواب: "سيارة تويوتا موديل 2024"', fr: '✗ Faux: cette voiture | ✓ Correct: Toyota 2024', en: '✗ Wrong: this specific car | ✓ Correct: Toyota 2024 model' } },
+      { text: { ar: 'أن يمكن ضبطه بالصفة', fr: 'Doit pouvoir être spécifié', en: 'Must be specifiable' }, detail: { ar: 'كالحبوب والأقمشة | ✗ لا يصح: الجواهر النادرة', fr: 'Comme grains et tissus | ✗ Non: bijoux rares', en: 'Like grains and fabrics | ✗ Not: rare gems' } },
+      { text: { ar: 'أن يُذكر جنسه ونوعه وقدره', fr: 'Doit mentionner genre, type et quantité', en: 'Must mention genus, type and quantity' }, detail: { ar: 'مثال: "قمح مصري، ألف كيلو، درجة أولى"', fr: 'Ex: blé égyptien, 1000 kg, grade 1', en: 'Ex: Egyptian wheat, 1000 kg, grade 1' } }
+    ]
+  },
+
+  'salam-term-conditions': {
+    type: 'ruling',
+    title: { ar: 'شروط الأجل', fr: 'Conditions du délai', en: 'Term Conditions' },
+    rulingType: 'conditions',
+    numbered: true,
+    items: [
+      { text: { ar: 'أن يكون معلوماً', fr: 'Doit être connu', en: 'Must be known' }, detail: { ar: '✓ صواب: "التسليم بعد 6 أشهر" | ✗ خطأ: "التسليم عندما يتيسر"', fr: '✓ Correct: dans 6 mois | ✗ Faux: quand possible', en: '✓ Correct: in 6 months | ✗ Wrong: when convenient' } },
+      { text: { ar: 'أن يكون محدداً لا معلقاً', fr: 'Doit être déterminé non suspendu', en: 'Must be determined not contingent' }, detail: { ar: '✓ صواب: "في شهر رمضان القادم" | ✗ خطأ: "عندما يهطل المطر"', fr: '✓ Correct: Ramadan prochain | ✗ Faux: quand il pleut', en: '✓ Correct: next Ramadan | ✗ Wrong: when it rains' } }
+    ]
+  },
+
+  'salam-invalid-items': {
+    type: 'comparison',
+    title: { ar: '❌ ما لا يصح فيه السَّلَم', fr: '❌ Ce qui invalide le Salam', en: '❌ What Invalidates Salam' },
+    columns: [
+      { title: { ar: 'الصنف', fr: 'Type', en: 'Type' }, variant: 'negative', items: [
+        { ar: 'المعينات (سلعة بعينها)', fr: 'Biens spécifiques', en: 'Specific items' },
+        { ar: 'ما لا ينضبط بالصفة', fr: 'Ce qui ne peut être spécifié', en: 'What cannot be specified' },
+        { ar: 'ما يتفاوت كثيراً', fr: 'Ce qui varie beaucoup', en: 'What varies greatly' }
+      ]},
+      { title: { ar: 'السبب', fr: 'Raison', en: 'Reason' }, variant: 'neutral', items: [
+        { ar: 'السَّلَم = موصوف في الذمة لا معين', fr: 'Salam = décrit en dette, pas spécifique', en: 'Salam = described debt, not specific' },
+        { ar: 'يؤدي إلى الغرر والنزاع', fr: 'Mène à l\'incertitude et conflit', en: 'Leads to uncertainty and conflict' },
+        { ar: 'خلاف: الحيوان عند بعضهم والصحيح جوازه بالصفة', fr: 'Divergence: animaux permis selon certains', en: 'Disagreement: animals allowed by some' }
+      ]}
+    ]
+  },
+
+  'salam-delivery-rules': {
+    type: 'summary',
+    title: { ar: 'أحكام التسليم في السَّلَم', fr: 'Règles de livraison en Salam', en: 'Delivery Rules in Salam' },
+    rows: [
+      { item: { ar: 'التسليم في الموعد', fr: 'Livraison à temps', en: 'Timely delivery' }, ruling: 'halal', notes: { ar: 'واجب على البائع', fr: 'Obligatoire pour le vendeur', en: 'Obligatory for seller' } },
+      { item: { ar: 'التأخير بعذر مقبول', fr: 'Retard avec excuse valide', en: 'Delay with valid excuse' }, ruling: 'mubah', notes: { ar: 'ينتظر المشتري', fr: 'L\'acheteur attend', en: 'Buyer waits' } },
+      { item: { ar: 'العجز الكامل عن التسليم', fr: 'Incapacité totale de livrer', en: 'Complete inability to deliver' }, ruling: 'disputed', notes: { ar: 'للمشتري: الفسخ أو الانتظار', fr: 'L\'acheteur peut annuler ou attendre', en: 'Buyer can cancel or wait' } }
+    ]
+  },
+
+  'salam-resale-rules': {
+    type: 'comparison',
+    title: { ar: 'هل يجوز بيع المُسلَم فيه قبل قبضه؟', fr: 'Peut-on revendre le Salam avant réception?', en: 'Can Salam Be Resold Before Receipt?' },
+    columns: [
+      { title: { ar: '❌ البيع', fr: '❌ Vente', en: '❌ Sale' }, variant: 'negative', items: [
+        { ar: 'لا يجوز بيعه قبل قبضه', fr: 'Interdit avant réception', en: 'Forbidden before receipt' },
+        { ar: 'لنهي النبي ﷺ عن ربح ما لم يُضمن', fr: 'Le Prophète ﷺ a interdit le profit sans garantie', en: 'Prophet ﷺ forbade profit without liability' }
+      ]},
+      { title: { ar: '✅ الإقالة', fr: '✅ Annulation', en: '✅ Cancellation' }, variant: 'positive', items: [
+        { ar: 'يجوز فسخ العقد', fr: 'Annulation permise', en: 'Cancellation allowed' },
+        { ar: 'وإرجاع الثمن للمشتري', fr: 'Et remboursement à l\'acheteur', en: 'And refund to buyer' }
+      ]}
+    ]
+  },
+
+  'salam-substitute': {
+    type: 'ruling',
+    title: { ar: 'أخذ البدل عند الحنابلة', fr: 'Substitution selon les Hanbalites', en: 'Substitution According to Hanbalis' },
+    rulingType: 'conditions',
+    items: [
+      { text: { ar: 'يجوز أخذ بدل من جنس آخر', fr: 'Substitution d\'un autre type permise', en: 'Substitution of another type allowed' } },
+      { text: { ar: 'أن يكون بسعر يومه (لا بسعر العقد)', fr: 'Au prix du jour (pas du contrat)', en: 'At day\'s price (not contract price)' } },
+      { text: { ar: 'ألا يربح فيه المشتري (لأنه ربح ما لم يضمن)', fr: 'L\'acheteur ne doit pas profiter', en: 'Buyer must not profit' } }
+    ],
+    footer: { ar: 'مثال: اشترى سلماً 100 كيلو قمح، فعجز البائع. يجوز أخذ 100 كيلو أرز بسعر اليوم بدلاً منه.', fr: 'Ex: 100 kg blé indisponible, on peut prendre 100 kg riz au prix du jour', en: 'Ex: 100 kg wheat unavailable, can take 100 kg rice at today\'s price' }
+  },
+
+  'istisna-contract': {
+    type: 'flow',
+    title: { ar: 'عقد الاستصناع', fr: 'Contrat Istisna', en: 'Istisna Contract' },
+    layout: 'horizontal',
+    steps: [
+      { title: { ar: 'المستصنِع (الطالب)', fr: 'Demandeur', en: 'Orderer' }, description: { ar: 'يطلب صنع شيء بمواصفات', fr: 'Demande fabrication sur mesure', en: 'Requests custom manufacturing' } },
+      { title: { ar: 'الثمن (مرن)', fr: 'Prix (flexible)', en: 'Price (flexible)' }, description: { ar: '💰 قبل / بعد / أقساط', fr: '💰 Avant / après / échelonné', en: '💰 Before / after / installments' }, variant: 'success' },
+      { title: { ar: 'الصانع', fr: 'Fabricant', en: 'Manufacturer' }, description: { ar: 'يوفر المواد + يقوم بالعمل', fr: 'Fournit matériaux + travail', en: 'Provides materials + work' } }
+    ]
+  },
+
+  'istisna-evidences': {
+    type: 'ruling',
+    title: { ar: 'أدلة مشروعية الاستصناع', fr: 'Preuves de la légalité de l\'Istisna', en: 'Evidence for Istisna Legality' },
+    rulingType: 'info',
+    numbered: true,
+    items: [
+      { text: { ar: 'العرف والعادة', fr: 'Usage et coutume', en: 'Custom and usage' }, detail: { ar: 'جرى الناس على طلب صنع الأشياء من عهد النبي ﷺ إلى يومنا', fr: 'Les gens ont commandé des fabrications depuis l\'époque du Prophète ﷺ', en: 'People ordered manufacturing since the Prophet\'s ﷺ time' } },
+      { text: { ar: 'الحاجة الماسة', fr: 'Nécessité pressante', en: 'Pressing need' }, detail: { ar: 'لا يمكن الاستغناء عنه في الحياة (من يبني بيته؟ من يصنع أثاثه؟)', fr: 'Indispensable (qui construit sa maison? ses meubles?)', en: 'Indispensable (who builds their house? furniture?)' } },
+      { text: { ar: 'الإجماع العملي', fr: 'Consensus pratique', en: 'Practical consensus' }, detail: { ar: 'تعامل الناس به في كل العصور دون إنكار من العلماء', fr: 'Pratiqué à toutes les époques sans objection des savants', en: 'Practiced in all eras without scholars\' objection' } }
+    ]
+  },
+
+  'istisna-conditions': {
+    type: 'ruling',
+    title: { ar: 'شروط صحة الاستصناع', fr: 'Conditions de validité de l\'Istisna', en: 'Istisna Validity Conditions' },
+    rulingType: 'conditions',
+    numbered: true,
+    items: [
+      { text: { ar: 'بيان جنس المصنوع ونوعه', fr: 'Indiquer le genre et type', en: 'Specify genus and type' }, detail: { ar: 'مثال: سيارة، منزل، ملابس، أثاث', fr: 'Ex: voiture, maison, vêtements, meubles', en: 'Ex: car, house, clothes, furniture' } },
+      { text: { ar: 'بيان الأوصاف المؤثرة', fr: 'Indiquer les spécifications', en: 'Specify important attributes' }, detail: { ar: 'المقاسات، المواد المستخدمة، اللون، التصميم', fr: 'Dimensions, matériaux, couleur, design', en: 'Dimensions, materials, color, design' } },
+      { text: { ar: 'معرفة الثمن', fr: 'Connaissance du prix', en: 'Knowledge of price' }, detail: { ar: 'أن يكون محدداً (سواء عُجِّل أو أُجِّل)', fr: 'Doit être déterminé (avancé ou différé)', en: 'Must be determined (advanced or deferred)' } },
+      { text: { ar: 'معرفة الأجل إن وُجد', fr: 'Connaissance du délai si spécifié', en: 'Knowledge of term if specified' }, detail: { ar: 'ليس شرطاً، لكن إن ذُكر وجب الالتزام به', fr: 'Non obligatoire, mais si mentionné doit être respecté', en: 'Not required, but if mentioned must be respected' } }
+    ]
+  },
+
+  'istisna-forms': {
+    type: 'tree',
+    title: { ar: 'صور عقد الاستصناع', fr: 'Formes du contrat Istisna', en: 'Forms of Istisna Contract' },
+    branches: [
+      { label: { ar: 'الاستصناع المباشر', fr: 'Istisna direct', en: 'Direct Istisna' }, description: { ar: 'المستصنِع → الصانع (مباشرة)', fr: 'Demandeur → Fabricant (direct)', en: 'Orderer → Manufacturer (direct)' }, examples: [{ ar: 'طلب صنع أثاث من النجار مباشرة', fr: 'Commander des meubles directement au menuisier', en: 'Order furniture directly from carpenter' }], variant: 'success' },
+      { label: { ar: 'الاستصناع الموازي', fr: 'Istisna parallèle', en: 'Parallel Istisna' }, description: { ar: 'المستصنِع → الصانع (وسيط) → صانع آخر', fr: 'Demandeur → Intermédiaire → Fabricant', en: 'Orderer → Intermediary → Manufacturer' }, examples: [{ ar: 'شركة عقارية تبني لعملائها بالتعاقد مع مقاولين', fr: 'Promoteur construit via sous-traitants', en: 'Developer builds via contractors' }], variant: 'default' }
+    ]
+  },
+
+  'istisna-binding': {
+    type: 'comparison',
+    title: { ar: 'هل الاستصناع لازم؟', fr: 'L\'Istisna est-il contraignant?', en: 'Is Istisna Binding?' },
+    columns: [
+      { title: { ar: 'المذهب الحنفي (المفتى به)', fr: 'École Hanafite (avis adopté)', en: 'Hanafi School (adopted view)' }, variant: 'positive', items: [
+        { ar: '✅ لازم للطرفين بعد العقد', fr: '✅ Contraignant pour les deux parties', en: '✅ Binding for both parties' },
+        { ar: 'وهو الأصح للمصلحة', fr: 'C\'est le plus correct pour l\'intérêt', en: 'Most correct for benefit' }
+      ]},
+      { title: { ar: 'قول آخر', fr: 'Autre avis', en: 'Another view' }, variant: 'neutral', items: [
+        { ar: 'جائز الفسخ قبل الشروع في العمل', fr: 'Annulable avant de commencer', en: 'Can be cancelled before starting' }
+      ]}
+    ]
+  },
+
+  'istisna-delay-rules': {
+    type: 'summary',
+    title: { ar: 'أحكام التأخير في الاستصناع', fr: 'Règles de retard en Istisna', en: 'Delay Rules in Istisna' },
+    rows: [
+      { item: { ar: 'تأخير الصانع بلا عذر', fr: 'Retard du fabricant sans excuse', en: 'Manufacturer delay without excuse' }, ruling: 'haram', notes: { ar: 'للمستصنِع: الفسخ أو الانتظار مع التعويض', fr: 'Le demandeur peut annuler ou attendre avec compensation', en: 'Orderer can cancel or wait with compensation' } },
+      { item: { ar: 'تأخير لعذر مقبول', fr: 'Retard avec excuse valide', en: 'Delay with valid excuse' }, ruling: 'mubah', notes: { ar: 'ينتظر المستصنِع (لا تعويض)', fr: 'Le demandeur attend (pas de compensation)', en: 'Orderer waits (no compensation)' } }
+    ]
+  },
+
+  // ─────────────────────────────────────────────────────────
   // FIQH MUAMALAT - Conditions de vente valide
   // ─────────────────────────────────────────────────────────
   'bay-conditions': {
