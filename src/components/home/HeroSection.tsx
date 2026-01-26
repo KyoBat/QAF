@@ -31,7 +31,7 @@ interface HeroSectionProps {
 
 export default function HeroSection({ featuredCourse, stats, isRTL, t }: HeroSectionProps) {
   return (
-    <section className="relative py-20 lg:py-32 overflow-hidden">
+    <section className="relative py-12 lg:py-20 overflow-hidden">
       {/* Animated Background Gradient */}
       <motion.div 
         className="absolute inset-0 bg-gradient-to-br from-primary/5 via-background to-primary/10"
@@ -112,17 +112,17 @@ export default function HeroSection({ featuredCourse, stats, isRTL, t }: HeroSec
         >
           {/* Badge */}
           <motion.div 
-            className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-primary/10 text-primary text-sm font-medium mb-6"
+            className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full bg-primary/10 text-primary text-sm font-medium mb-4"
             variants={staggerItem}
           >
-            <Star className="h-4 w-4" />
+            <Star className="h-3.5 w-3.5" />
             <span>{t('app.tagline')}</span>
           </motion.div>
 
           {/* Title with stagger */}
           <motion.h1 
             className={cn(
-              'text-4xl sm:text-5xl lg:text-6xl font-bold text-foreground mb-6 tracking-tight',
+              'text-3xl sm:text-4xl lg:text-5xl font-bold text-foreground mb-3 tracking-tight',
               isRTL && 'leading-relaxed'
             )}
             variants={staggerItem}
@@ -132,7 +132,7 @@ export default function HeroSection({ featuredCourse, stats, isRTL, t }: HeroSec
 
           {/* Subtitle */}
           <motion.p 
-            className="text-lg sm:text-xl text-muted-foreground max-w-2xl mb-8"
+            className="text-base sm:text-lg text-muted-foreground max-w-2xl mb-6"
             variants={staggerItem}
           >
             {t('home.hero.subtitle')}
@@ -171,13 +171,21 @@ export default function HeroSection({ featuredCourse, stats, isRTL, t }: HeroSec
           </motion.div>
         </motion.div>
 
-        {/* Stats with count-up animation */}
+        {/* Stats inline - compact version */}
         <motion.div
-          initial={{ opacity: 0, y: 40 }}
+          className="flex items-center justify-center gap-6 sm:gap-10 mt-8"
+          initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.8, delay: 0.6 }}
+          transition={{ duration: 0.6, delay: 0.5 }}
         >
-          <AnimatedStats stats={stats} isRTL={isRTL} />
+          {stats.map((stat, index) => (
+            <div key={index} className="text-center">
+              <div className="text-2xl sm:text-3xl font-bold text-foreground">
+                {stat.value}{stat.suffix}
+              </div>
+              <div className="text-xs sm:text-sm text-muted-foreground">{stat.label}</div>
+            </div>
+          ))}
         </motion.div>
       </div>
     </section>
