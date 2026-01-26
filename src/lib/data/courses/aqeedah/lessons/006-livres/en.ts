@@ -57,23 +57,7 @@ export const content = `# 📜 Belief in the Divine Books — The Third Pillar o
 
 ## 🌳 The Divine Books
 
-\`\`\`
-              📚 THE DIVINE BOOKS
-                      │
-    ┌─────────────────┼─────────────────┐
-    │                 │                 │
- TORAH            ZABUR            INJIL
- (Moses)          (David)          (Jesus)
-    │                 │                 │
-    └─────────────────┴─────────────────┘
-                      │
-               ┌──────┴──────┐
-               │             │
-          SCRIPTURES       QURAN
-          (Abraham)      (Muhammad ﷺ)
-                           │
-                    FINAL & PRESERVED
-\`\`\`
+<!-- DIAGRAM:aqeedah-livres-tree -->
 
 ---
 

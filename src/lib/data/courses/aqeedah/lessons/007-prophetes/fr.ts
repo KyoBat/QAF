@@ -73,25 +73,7 @@ Le Prophète ﷺ a dit, décrivant les piliers de la foi :
 
 ### 🌳 L'Arbre de la Mission Prophétique
 
-\`\`\`
-                🎯 MISSION DES PROPHÈTES
-                         │
-        ┌────────────────┼────────────────┐
-        │                │                │
-    1️⃣ TAWHID      2️⃣ INDHÂR       3️⃣ TAZKIYAH
-    التوحيد          الإنذار           التزكية
-        │                │                │
-   Appeler à        Avertir du        Purifier
-   l'adoration       châtiment        les âmes
-   d'Allah seul      d'Allah          et enseigner
-        │                │                │
-        └────────────────┴────────────────┘
-                         │
-              « Point de divinité
-               en dehors de Moi.
-               Adorez-Moi donc. »
-               [Al-Anbiya : 25]
-\`\`\`
+<!-- DIAGRAM:aqeedah-prophetes-mission -->
 
 ### 📜 Les Preuves
 

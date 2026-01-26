@@ -145,27 +145,7 @@ Le Prophète ﷺ a décrit Jibril عليه السلام :
 
 ### 🌳 Hiérarchie des Anges Majeurs
 
-\`\`\`
-                    👼 LES GRANDS ANGES
-                           │
-        ┌──────────────────┼──────────────────┐
-        │                  │                  │
-   🔷 JIBRIL          🔷 MIKA'IL         🔷 ISRAFIL
-   الأمين الوحي        ملك الأرزاق         صاحب الصور
-   La Révélation      La Provision        La Trompe
-        │                  │                  │
-        │                  │                  │
-   Descendait          Gère la pluie      Attend l'ordre
-   sur les Prophètes   et végétation      du Jour Dernier
-        │
-        │
-        ├──────────────────┬──────────────────┐
-        │                  │                  │
-   👼 MALIK            👼 RIDWAN         👼 MALAK AL-MAWT
-   خازن النار          خازن الجنة         ملك الموت
-   Gardien de          Gardien du         L'Ange de
-   l'Enfer             Paradis            la Mort
-\`\`\`
+<!-- DIAGRAM:aqeedah-anges-hierarchy -->
 
 ---
 

@@ -125,15 +125,14 @@ Ils ont tué le **quatrième calife bien-guidé**, 'Ali ibn Abi Talib رضي ا�
 
 ### 3. L'Excommunication des Compagnons
 
-\`\`\`
-Compagnons Excommuniés par les Khawarij
-├── 'Ali ibn Abi Talib رضي الله عنه — Pour avoir accepté l'arbitrage
-├── Mu'awiya ibn Abi Sufyan رضي الله عنه — Pour s'être opposé à 'Ali
-├── 'Amr ibn al-'As رضي الله عنه — Arbitre de Mu'awiya
-├── Abu Musa al-Ash'ari رضي الله عنه — Arbitre de 'Ali
-├── 'Uthman ibn 'Affan رضي الله عنه — Accusé de favoritisme
-└── Tous ceux qui acceptèrent l'arbitrage
-\`\`\`
+| Compagnon | Raison de l'excommunication |
+|-----------|----------------------------|
+| **'Ali ibn Abi Talib** رضي الله عنه | Pour avoir accepté l'arbitrage |
+| **Mu'awiya ibn Abi Sufyan** رضي الله عنه | Pour s'être opposé à 'Ali |
+| **'Amr ibn al-'As** رضي الله عنه | Arbitre de Mu'awiya |
+| **Abu Musa al-Ash'ari** رضي الله عنه | Arbitre de 'Ali |
+| **'Uthman ibn 'Affan** رضي الله عنه | Accusé de favoritisme |
+| **Tous ceux qui acceptèrent l'arbitrage** | Acceptation du faux |
 
 ### 4. Le Littéralisme Extrême
 
@@ -180,28 +179,7 @@ Le Prophète ﷺ a décrit les Khawarij avec une précision stupéfiante, **avan
 
 ### Tableau des Caractéristiques
 
-\`\`\`
-Caractéristiques des Khawarij (من أحاديث النبي ﷺ)
-├── 📖 APPARENCE RELIGIEUSE
-│   ├── Récitation abondante du Coran
-│   ├── Prière et jeûne intensifs
-│   └── Discours éloquent
-│
-├── ❌ RÉALITÉ SPIRITUELLE
-│   ├── Le Coran ne dépasse pas leurs clavicules
-│   ├── Pas de compréhension profonde
-│   └── Adoration sans science
-│
-├── 🔥 COMPORTEMENT
-│   ├── Excommunication facile
-│   ├── Violence contre les musulmans
-│   └── Indulgence envers les mécréants
-│
-└── 👤 PROFIL
-    ├── Jeunes d'âge
-    ├── Esprits légers
-    └── Nouvellement convertis ou pratiquants
-\`\`\`
+<!-- DIAGRAM:khawarij-characteristics -->
 
 ---
 

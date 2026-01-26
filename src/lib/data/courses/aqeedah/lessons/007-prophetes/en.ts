@@ -62,20 +62,7 @@ export const content = `# 📜 Belief in the Prophets — The Fourth Pillar of F
 
 ## 🌳 The Mission of the Prophets
 
-\`\`\`
-              🌳 PROPHETIC MISSION
-                      │
-    ┌─────────────────┼─────────────────┐
-    │                 │                 │
- 1️⃣ TAWHID       2️⃣ WARNING        3️⃣ GUIDANCE
- Call to          Warn of          Teach and
- One God          punishment       purify souls
-    │                 │                 │
-    └─────────────────┴─────────────────┘
-                      │
-              ﴿لَا إِلَٰهَ إِلَّا أَنَا﴾
-             "There is no god but Me"
-\`\`\`
+<!-- DIAGRAM:aqeedah-prophetes-mission -->
 
 ---
 

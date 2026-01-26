@@ -77,23 +77,7 @@ Les Livres révélés sont les **paroles d'Allah** qu'Il a fait descendre sur Se
 
 ### 🌳 L'Arbre des Révélations Divines
 
-\`\`\`
-                    📖 LES LIVRES RÉVÉLÉS
-                           │
-        ┌──────────────────┼──────────────────┐
-        │                  │                  │
-   📜 FEUILLETS       📕 LIVRES          📗 LE CORAN
-   (الصحف)           ANTÉRIEURS         (القرآن)
-        │                  │                  │
-   ┌────┴────┐     ┌───────┼───────┐          │
-   │         │     │       │       │          │
-Ibrahim   Moussa  Torah  Évangile Psaumes   Muhammad ﷺ
-   عليهما السلام    التوراة  الإنجيل  الزبور      │
-                   │       │       │          │
-                 Moussa  'Issa   Dawud    PRÉSERVÉ ✓
-                                          FINAL ✓
-                                          UNIVERSEL ✓
-\`\`\`
+<!-- DIAGRAM:aqeedah-livres-tree -->
 
 ---
 
@@ -228,17 +212,7 @@ Ibrahim   Moussa  Torah  Évangile Psaumes   Muhammad ﷺ
 
 ### 🔴 Types de Falsification
 
-\`\`\`
-              ⚠️ TYPES DE FALSIFICATION
-                       │
-       ┌───────────────┼───────────────┐
-       │               │               │
-  تحريف اللفظ      تحريف المعنى       كتمان
-  TAHRIF AL-LAFZ   TAHRIF AL-MA'NA   KITMAN
-       │               │               │
-  Modifier les     Déformer le       Cacher des
-  mots eux-mêmes   sens des mots     passages
-\`\`\`
+<!-- DIAGRAM:aqeedah-livres-falsification -->
 
 ### 📖 Les Preuves Coraniques
 

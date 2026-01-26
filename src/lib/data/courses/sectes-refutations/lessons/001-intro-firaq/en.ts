@@ -57,18 +57,7 @@ This series will guide you through the major sects that emerged in Islamic histo
 
 ### The Criterion for Distinction
 
-\`\`\`
-Types of Disagreement
-├── Disagreement in BRANCHES (furu')
-│   ├── ✅ Legitimate and acceptable
-│   ├── Example: Raising hands in prayer
-│   └── Does not cause separation
-│
-└── Disagreement in FUNDAMENTALS (usul)
-    ├── ❌ Causes separation
-    ├── Example: Denying Allah's attributes
-    └── Excludes from the methodology of Ahl as-Sunnah
-\`\`\`
+<!-- DIAGRAM:firaq-types-khilaf -->
 
 <div class="scene-box">
 
@@ -139,26 +128,7 @@ Types of Disagreement
 
 ### Chronological Timeline
 
-\`\`\`
-Chronological Timeline of Major Sects
-├── 1st Century AH
-│   ├── Khawarij (37 AH - Battle of Siffin)
-│   ├── Primitive Shi'ism (35-40 AH)
-│   └── Qadariyyah (~70 AH - Ma'bad al-Juhani)
-│
-├── 2nd Century AH
-│   ├── Murji'ah (early 2nd century)
-│   ├── Jahmiyyah (~128 AH - Jahm ibn Safwan)
-│   └── Mu'tazilah (~100-110 AH - Wasil ibn 'Ata')
-│
-├── 3rd Century AH
-│   ├── Asha'irah (260-324 AH - Abu al-Hasan al-Ash'ari)
-│   └── Maturidiyyah (d. 333 AH - Abu Mansur al-Maturidi)
-│
-└── Later Centuries
-    ├── Sufi orders (expansion)
-    └── Contemporary sects (Qadianiyyah, Baha'ism)
-\`\`\`
+<!-- DIAGRAM:firaq-timeline -->
 
 ---
 

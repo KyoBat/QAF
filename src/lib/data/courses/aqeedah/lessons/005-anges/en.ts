@@ -51,22 +51,7 @@ The Prophet ﷺ said in defining faith:
 
 ## 🌳 The Angelic Hierarchy
 
-\`\`\`
-           🌳 THE MAJOR ANGELS
-                   │
-    ┌──────────────┼──────────────┐
-    │              │              │
- JIBRIL       MIKA'IL        ISRAFIL
- Revelation   Rain/Provision   The Trumpet
-    │              │              │
-    └──────────────┴──────────────┘
-                   │
-    ┌──────────────┼──────────────┐
-    │              │              │
- MALIK        RIDWAN       ANGEL OF DEATH
- Guardian     Guardian     Takes souls
- of Hell      of Paradise  at appointed time
-\`\`\`
+<!-- DIAGRAM:aqeedah-anges-hierarchy -->
 
 ---
 
@@ -134,24 +119,7 @@ The Prophet ﷺ said in defining faith:
 
 ## 📊 Categories by Function
 
-\`\`\`
-         📊 ANGELS BY THEIR DUTIES
-                    │
-    ┌───────────────┼───────────────┐
-    │               │               │
- THRONE          RECORDING       GUARDIAN
- BEARERS         ANGELS          ANGELS
- (8 on Day       (Kirām          (Al-Hafadha)
-  of Judgment)    al-Kātibīn)     protect us
-    │               │               │
-    └───────────────┴───────────────┘
-                    │
-    ┌───────────────┼───────────────┐
-    │               │               │
- GRAVE           PARADISE &       AL-BAYT
- ANGELS          HELL ANGELS      AL-MA'MUR
- (Munkar/Nakir)  (welcome/punish)  70,000/day
-\`\`\`
+<!-- DIAGRAM:aqeedah-anges-duties -->
 
 ### The Noble Recording Angels
 

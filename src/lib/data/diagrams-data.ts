@@ -4111,6 +4111,607 @@ const diagramsRegistry: Record<string, DiagramData> = {
       { text: { ar: 'الضمانات المعاصرة = تطبيق لخيار العيب', fr: 'Garanties modernes = application de l\'option de défaut', en: 'Modern warranties = application of defect option' } },
       { text: { ar: 'السماحة في البيع والشراء = أخلاق المؤمن', fr: 'Tolérance dans la vente = éthique du croyant', en: 'Tolerance in trade = believer\'s ethics' } }
     ]
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // AQEEDAH - ANGES (005-anges) - Angelic Hierarchy
+  // ─────────────────────────────────────────────────────────
+  'aqeedah-anges-hierarchy': {
+    type: 'tree',
+    title: {
+      ar: '👼 التسلسل الهرمي للملائكة',
+      fr: '👼 Hiérarchie des Anges Majeurs',
+      en: '🌳 The Major Angels'
+    },
+    root: {
+      ar: 'المَلَائِكَة — عالم النور',
+      fr: 'LES GRANDS ANGES',
+      en: 'THE MAJOR ANGELS'
+    },
+    branches: [
+      {
+        label: { ar: 'جِبْرِيل', fr: 'JIBRIL', en: 'JIBRIL' },
+        description: { ar: 'أمين الوحي', fr: 'La Révélation', en: 'Revelation' },
+        variant: 'default'
+      },
+      {
+        label: { ar: 'مِيكَائِيل', fr: "MIKA'IL", en: "MIKA'IL" },
+        description: { ar: 'أمين المطر', fr: 'La Provision', en: 'Rain/Provision' },
+        variant: 'default'
+      },
+      {
+        label: { ar: 'إِسْرَافِيل', fr: 'ISRAFIL', en: 'ISRAFIL' },
+        description: { ar: 'أمين الصور', fr: 'La Trompe', en: 'The Trumpet' },
+        variant: 'default'
+      },
+      {
+        label: { ar: 'مَلَك المَوت', fr: 'MALAK AL-MAWT', en: 'ANGEL OF DEATH' },
+        description: { ar: 'قبض الأرواح', fr: "L'Ange de la Mort", en: 'Takes souls' },
+        variant: 'warning'
+      },
+      {
+        label: { ar: 'مَالِك', fr: 'MALIK', en: 'MALIK' },
+        description: { ar: 'خازن النار', fr: "Gardien de l'Enfer", en: 'Guardian of Hell' },
+        variant: 'danger'
+      },
+      {
+        label: { ar: 'رِضْوَان', fr: 'RIDWAN', en: 'RIDWAN' },
+        description: { ar: 'خازن الجنة', fr: 'Gardien du Paradis', en: 'Guardian of Paradise' },
+        variant: 'success'
+      }
+    ]
+  },
+
+  'aqeedah-anges-duties': {
+    type: 'tree',
+    title: {
+      ar: '📊 أصناف الملائكة حسب وظائفهم',
+      fr: '📊 Catégories d\'Anges selon leurs Fonctions',
+      en: '📊 Angels by Their Duties'
+    },
+    branches: [
+      {
+        label: { ar: 'حَمَلة العَرش', fr: 'Porteurs du Trône', en: 'THRONE BEARERS' },
+        description: { ar: 'ثمانية ملائكة يوم القيامة', fr: '8 le Jour du Jugement', en: '8 on Day of Judgment' },
+        variant: 'default'
+      },
+      {
+        label: { ar: 'الكِرَام الكَاتِبون', fr: 'Anges Scribes', en: 'RECORDING ANGELS' },
+        description: { ar: 'مع كل إنسان ملكان', fr: 'Kirām al-Kātibīn', en: 'Kirām al-Kātibīn' },
+        variant: 'default'
+      },
+      {
+        label: { ar: 'المعقِّبات', fr: 'Anges Gardiens', en: 'GUARDIAN ANGELS' },
+        description: { ar: 'يحفظون الإنسان', fr: 'Al-Hafadha - nous protègent', en: 'Al-Hafadha - protect us' },
+        variant: 'success'
+      },
+      {
+        label: { ar: 'مُنكَر ونَكِير', fr: 'Munkar et Nakir', en: 'GRAVE ANGELS' },
+        description: { ar: 'سؤال القبر', fr: 'Interrogatoire de la tombe', en: 'Munkar/Nakir' },
+        variant: 'warning'
+      },
+      {
+        label: { ar: 'البيت المعمور', fr: 'Al-Bayt Al-Ma\'mur', en: "AL-BAYT AL-MA'MUR" },
+        description: { ar: '70,000 ملك يومياً', fr: '70,000/jour', en: '70,000/day' },
+        variant: 'default'
+      }
+    ]
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // AQEEDAH - LIVRES (006-livres) - Divine Books Tree
+  // ─────────────────────────────────────────────────────────
+  'aqeedah-livres-tree': {
+    type: 'tree',
+    title: {
+      ar: '📖 شجرة الكتب السماوية',
+      fr: '📖 L\'Arbre des Révélations Divines',
+      en: '📚 The Divine Books'
+    },
+    root: {
+      ar: 'الكُتُب السَّمَاوِيَّة',
+      fr: 'LES LIVRES RÉVÉLÉS',
+      en: 'THE DIVINE BOOKS'
+    },
+    branches: [
+      {
+        label: { ar: 'صُحُف إِبْرَاهِيم', fr: 'FEUILLETS (الصحف)', en: 'SCRIPTURES' },
+        description: { ar: 'والصحف الأولى', fr: "Ibrahim & Moussa", en: '(Abraham)' },
+        variant: 'default'
+      },
+      {
+        label: { ar: 'التَّوْرَاة', fr: 'TORAH (التوراة)', en: 'TORAH' },
+        description: { ar: 'أُنزلت على موسى', fr: 'Moussa عليه السلام', en: '(Moses)' },
+        variant: 'default'
+      },
+      {
+        label: { ar: 'الزَّبُور', fr: 'PSAUMES (الزبور)', en: 'ZABUR' },
+        description: { ar: 'أُنزل على داود', fr: 'Dawud عليه السلام', en: '(David)' },
+        variant: 'default'
+      },
+      {
+        label: { ar: 'الإِنْجِيل', fr: 'ÉVANGILE (الإنجيل)', en: 'INJIL' },
+        description: { ar: 'أُنزل على عيسى', fr: "'Issa عليه السلام", en: '(Jesus)' },
+        variant: 'default'
+      },
+      {
+        label: { ar: 'القُرْآن الكَرِيم', fr: 'LE CORAN (القرآن)', en: 'QURAN' },
+        description: { ar: 'الكتاب الخاتم المهيمن المحفوظ', fr: 'PRÉSERVÉ ✓ FINAL ✓ UNIVERSEL ✓', en: 'FINAL & PRESERVED' },
+        variant: 'success'
+      }
+    ]
+  },
+
+  'aqeedah-livres-falsification': {
+    type: 'tree',
+    title: {
+      ar: '⚠️ أنواع التحريف',
+      fr: '⚠️ Types de Falsification',
+      en: '⚠️ Types of Falsification'
+    },
+    branches: [
+      {
+        label: { ar: 'تحريف اللفظ', fr: 'TAHRIF AL-LAFZ', en: 'TAHRIF AL-LAFZ' },
+        description: { ar: 'تغيير الكلمات', fr: 'Modifier les mots eux-mêmes', en: 'Changing the words' },
+        variant: 'danger'
+      },
+      {
+        label: { ar: 'تحريف المعنى', fr: "TAHRIF AL-MA'NA", en: "TAHRIF AL-MA'NA" },
+        description: { ar: 'تأويل بغير معناها', fr: 'Déformer le sens des mots', en: 'Distorting the meaning' },
+        variant: 'danger'
+      },
+      {
+        label: { ar: 'الكتمان', fr: 'KITMAN', en: 'KITMAN' },
+        description: { ar: 'إخفاء ما أُنزل', fr: 'Cacher des passages', en: 'Concealing revelation' },
+        variant: 'danger'
+      }
+    ]
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // AQEEDAH - PROPHETES (007-prophetes) - Prophetic Mission
+  // ─────────────────────────────────────────────────────────
+  'aqeedah-prophetes-mission': {
+    type: 'tree',
+    title: {
+      ar: '📨 مَهَمَّة الأَنْبِيَاء وَالرُّسُل',
+      fr: '🎯 Mission des Prophètes',
+      en: '🌳 Prophetic Mission'
+    },
+    branches: [
+      {
+        label: { ar: 'التَّوْحِيد', fr: 'TAWHID (التوحيد)', en: 'TAWHID' },
+        description: { ar: 'عبادة الله وحده', fr: "Appeler à l'adoration d'Allah seul", en: 'Call to One God' },
+        variant: 'success'
+      },
+      {
+        label: { ar: 'التَّبْشِير والإنْذار', fr: 'INDHÂR (الإنذار)', en: 'WARNING' },
+        description: { ar: 'بالجنة للمطيع والنار للعاصي', fr: "Avertir du châtiment d'Allah", en: 'Warn of punishment' },
+        variant: 'warning'
+      },
+      {
+        label: { ar: 'التَّعْلِيم والتَّزْكِية', fr: 'TAZKIYAH (التزكية)', en: 'GUIDANCE' },
+        description: { ar: 'العلم والأخلاق', fr: 'Purifier les âmes et enseigner', en: 'Teach and purify souls' },
+        variant: 'default'
+      }
+    ]
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // AQEEDAH - JOUR DERNIER (008-jour-dernier) - Stages
+  // ─────────────────────────────────────────────────────────
+  'aqeedah-jour-dernier-stages': {
+    type: 'flow',
+    title: {
+      ar: '⏳ مَرَاحِل اليَوْم الآخِر',
+      fr: '⏳ Les Étapes du Jour Dernier',
+      en: '⏳ The Stages of the Hereafter'
+    },
+    layout: 'vertical',
+    steps: [
+      {
+        title: { ar: 'المَوت', fr: 'MORT (الموت)', en: 'DEATH' },
+        description: { ar: 'خروج الروح', fr: 'Départ de l\'âme', en: 'Departure of soul' },
+        variant: 'default'
+      },
+      {
+        title: { ar: 'البَرزَخ', fr: 'BARZAKH (البرزخ)', en: 'BARZAKH' },
+        description: { ar: 'القبر والسؤال', fr: 'Interrogatoire de la tombe', en: 'Grave questioning' },
+        variant: 'default'
+      },
+      {
+        title: { ar: 'البَعث', fr: 'RÉSURRECTION (البعث)', en: 'RESURRECTION' },
+        description: { ar: 'النفخ في الصور', fr: 'Souffle dans la Trompe', en: 'Trumpet blast' },
+        variant: 'default'
+      },
+      {
+        title: { ar: 'الحَشر', fr: 'RASSEMBLEMENT (الحشر)', en: 'GATHERING' },
+        description: { ar: 'الجمع في الموقف', fr: 'Assemblée sur la Plaine', en: 'Assembly on Plain' },
+        variant: 'default'
+      },
+      {
+        title: { ar: 'الحِسَاب', fr: 'JUGEMENT (الحساب)', en: 'JUDGMENT' },
+        description: { ar: 'الكتب والسؤال', fr: 'Remise des Livres', en: 'Books given' },
+        variant: 'warning'
+      },
+      {
+        title: { ar: 'المِيزَان', fr: 'BALANCE (الميزان)', en: 'BALANCE' },
+        description: { ar: 'وزن الأعمال', fr: 'Pesée des actes', en: 'Deeds weighed' },
+        variant: 'warning'
+      },
+      {
+        title: { ar: 'الحَوض', fr: 'BASSIN (الحوض)', en: 'BASIN' },
+        description: { ar: 'الشرب من الحوض', fr: 'Boire du Bassin', en: 'Drink from Hawd' },
+        variant: 'success'
+      },
+      {
+        title: { ar: 'الصِّرَاط', fr: 'SIRAT (الصراط)', en: 'SIRAT' },
+        description: { ar: 'العبور على النار', fr: 'Passage sur le Feu', en: 'Cross over Fire' },
+        variant: 'warning'
+      },
+      {
+        title: { ar: 'الجنة أو النار', fr: 'DESTINATION', en: 'PARADISE or HELL' },
+        description: { ar: 'الخلود', fr: 'Séjour éternel', en: 'Eternal abode' },
+        variant: 'current'
+      }
+    ]
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // AQEEDAH - DESTIN (009-destin) - Four Pillars of Qadr
+  // ─────────────────────────────────────────────────────────
+  'aqeedah-destin-pillars': {
+    type: 'tree',
+    title: {
+      ar: '🌟 أَرْكَانُ الْقَدَرِ الْأَرْبَعَة',
+      fr: '🌟 Les Quatre Piliers du Destin',
+      en: '🌳 The Four Pillars of Qadr'
+    },
+    branches: [
+      {
+        label: { ar: 'العِلم', fr: 'LA SCIENCE (العلم)', en: 'KNOWLEDGE' },
+        description: { ar: 'الله علم قبل الخلق', fr: 'Allah sait', en: 'Allah knew before creation' },
+        variant: 'default'
+      },
+      {
+        label: { ar: 'الكتابة', fr: "L'ÉCRITURE (الكتابة)", en: 'WRITING' },
+        description: { ar: 'في اللوح المحفوظ', fr: 'Allah a écrit', en: 'In the Preserved Tablet' },
+        variant: 'default'
+      },
+      {
+        label: { ar: 'المَشيئة', fr: 'LA VOLONTÉ (المشيئة)', en: 'WILL' },
+        description: { ar: 'لا يحدث شيء إلا بمشيئته', fr: 'Allah veut', en: 'Nothing occurs without His will' },
+        variant: 'default'
+      },
+      {
+        label: { ar: 'الخَلق', fr: 'LA CRÉATION (الخلق)', en: 'CREATION' },
+        description: { ar: 'الله يخلق كل شيء', fr: 'Allah crée tout', en: 'Allah creates all things' },
+        variant: 'success'
+      }
+    ]
+  },
+
+  'aqeedah-destin-benefits': {
+    type: 'tree',
+    title: {
+      ar: '🌟 ثمرات الإيمان بالقدر',
+      fr: '🌟 Bienfaits de la Foi au Destin',
+      en: '🌟 Benefits of Believing in Qadr'
+    },
+    branches: [
+      {
+        label: { ar: 'الطمأنينة', fr: 'Tranquillité', en: 'TRANQUILITY' },
+        description: { ar: 'كل شيء بقدر', fr: 'Tout est décrété', en: 'All by decree' },
+        variant: 'success'
+      },
+      {
+        label: { ar: 'الشجاعة', fr: 'Courage', en: 'COURAGE' },
+        description: { ar: 'الموت له أجل', fr: 'La mort a son heure', en: 'Death is fixed' },
+        variant: 'default'
+      },
+      {
+        label: { ar: 'التواضع', fr: 'Humilité', en: 'HUMILITY' },
+        description: { ar: 'النجاح من الله', fr: 'Succès vient d\'Allah', en: 'Success is from Allah' },
+        variant: 'default'
+      },
+      {
+        label: { ar: 'الصبر', fr: 'Patience', en: 'PATIENCE' },
+        description: { ar: 'المصائب مكتوبة', fr: 'Épreuves écrites', en: 'Trials written' },
+        variant: 'warning'
+      },
+      {
+        label: { ar: 'عدم الحسد', fr: 'Pas d\'envie', en: 'NO ENVY' },
+        description: { ar: 'لكل نصيبه', fr: 'Chacun a sa part', en: 'Each has their portion' },
+        variant: 'default'
+      },
+      {
+        label: { ar: 'راحة البال', fr: 'Paix intérieure', en: 'PEACE OF MIND' },
+        description: { ar: 'ما فات لن يعود', fr: 'Le passé ne revient pas', en: "What passed won't return" },
+        variant: 'success'
+      }
+    ]
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // SECTES-REFUTATIONS - Introduction aux Firaq
+  // ─────────────────────────────────────────────────────────
+  'firaq-types-khilaf': {
+    type: 'tree',
+    title: { ar: 'أنواع الخلاف', fr: 'Types de divergence', en: 'Types of Disagreement' },
+    root: { ar: 'أنواع الخلاف', fr: 'Types de divergence', en: 'Types of Disagreement' },
+    branches: [
+      {
+        label: { ar: 'الخلاف في الفُرُوع', fr: 'Divergence sur les branches', en: 'Disagreement on Branches' },
+        description: { ar: 'مشروع ومقبول', fr: 'Légitime et acceptable', en: 'Legitimate and acceptable' },
+        variant: 'success',
+        children: [
+          { label: { ar: 'مثال: رفع اليدين في الصلاة', fr: 'Ex: lever les mains dans la prière', en: 'Ex: raising hands in prayer' }, variant: 'default' },
+          { label: { ar: 'لا يوجب المفارقة', fr: "N'oblige pas la séparation", en: "Doesn't require separation" }, variant: 'default' }
+        ]
+      },
+      {
+        label: { ar: 'الخلاف في الأُصُول', fr: 'Divergence sur les fondements', en: 'Disagreement on Foundations' },
+        description: { ar: 'يوجب المفارقة', fr: 'Oblige la séparation', en: 'Requires separation' },
+        variant: 'danger',
+        children: [
+          { label: { ar: 'مثال: إنكار صفات الله', fr: 'Ex: nier les attributs d\'Allah', en: 'Ex: denying Allah\'s attributes' }, variant: 'warning' },
+          { label: { ar: 'يُخرج من منهج أهل السنة', fr: 'Exclut de la voie Ahl as-Sunnah', en: 'Excludes from Ahl as-Sunnah' }, variant: 'danger' }
+        ]
+      }
+    ]
+  },
+
+  'firaq-timeline': {
+    type: 'tree',
+    title: { ar: 'التسلسل الزمني للفرق الكبرى', fr: 'Chronologie des grandes sectes', en: 'Timeline of Major Sects' },
+    root: { ar: 'التسلسل الزمني للفرق الكبرى', fr: 'Chronologie des grandes sectes', en: 'Timeline of Major Sects' },
+    branches: [
+      {
+        label: { ar: 'القرن الأول الهجري', fr: 'Premier siècle hégirien', en: 'First Hijri Century' },
+        variant: 'default',
+        children: [
+          { label: { ar: 'الخوارج (37 هـ - معركة صفين)', fr: 'Khawârij (37 H - Bataille de Siffîn)', en: 'Khawarij (37 AH - Battle of Siffin)' }, variant: 'warning' },
+          { label: { ar: 'التشيع البدائي (35-40 هـ)', fr: 'Proto-Chiisme (35-40 H)', en: 'Proto-Shiism (35-40 AH)' }, variant: 'warning' },
+          { label: { ar: 'القدرية (~70 هـ - معبد الجهني)', fr: 'Qadariyyah (~70 H - Ma\'bad al-Juhani)', en: 'Qadariyyah (~70 AH - Ma\'bad al-Juhani)' }, variant: 'warning' }
+        ]
+      },
+      {
+        label: { ar: 'القرن الثاني الهجري', fr: 'Deuxième siècle hégirien', en: 'Second Hijri Century' },
+        variant: 'default',
+        children: [
+          { label: { ar: 'المرجئة (بداية القرن الثاني)', fr: 'Murji\'ah (début du 2e siècle)', en: 'Murji\'ah (beginning of 2nd century)' }, variant: 'warning' },
+          { label: { ar: 'الجهمية (~128 هـ - جهم بن صفوان)', fr: 'Jahmiyyah (~128 H - Jahm ibn Safwân)', en: 'Jahmiyyah (~128 AH - Jahm ibn Safwan)' }, variant: 'danger' },
+          { label: { ar: 'المعتزلة (~100-110 هـ - واصل بن عطاء)', fr: 'Mu\'tazilah (~100-110 H - Wâsil ibn \'Atâ\')', en: 'Mu\'tazilah (~100-110 AH - Wasil ibn Ata)' }, variant: 'danger' }
+        ]
+      },
+      {
+        label: { ar: 'القرن الثالث الهجري', fr: 'Troisième siècle hégirien', en: 'Third Hijri Century' },
+        variant: 'default',
+        children: [
+          { label: { ar: 'الأشاعرة (260-324 هـ - أبو الحسن الأشعري)', fr: 'Ash\'ariyyah (260-324 H - Abû al-Hasan al-Ash\'arî)', en: 'Ash\'ariyyah (260-324 AH - Abu al-Hasan al-Ash\'ari)' }, variant: 'warning' },
+          { label: { ar: 'الماتريدية (ت 333 هـ - أبو منصور الماتريدي)', fr: 'Mâturîdiyyah (m. 333 H - Abû Mansûr al-Mâturîdî)', en: 'Maturidiyyah (d. 333 AH - Abu Mansur al-Maturidi)' }, variant: 'warning' }
+        ]
+      },
+      {
+        label: { ar: 'القرون التالية', fr: 'Siècles suivants', en: 'Following Centuries' },
+        variant: 'default',
+        children: [
+          { label: { ar: 'الطرق الصوفية (انتشار)', fr: 'Ordres soufis (expansion)', en: 'Sufi Orders (expansion)' }, variant: 'warning' },
+          { label: { ar: 'الفرق المعاصرة (القاديانية، البهائية)', fr: 'Sectes contemporaines (Qâdiyâniyyah, Bahâ\'iyyah)', en: 'Contemporary sects (Qadianiyyah, Baha\'iyyah)' }, variant: 'danger' }
+        ]
+      }
+    ]
+  },
+
+  'firaq-takfir-conditions': {
+    type: 'tree',
+    title: { ar: 'شروط تكفير المعيَّن', fr: 'Conditions pour déclarer quelqu\'un mécréant', en: 'Conditions to Declare Someone a Disbeliever' },
+    root: { ar: 'شروط تكفير المعيَّن', fr: 'Conditions pour le Takfîr', en: 'Conditions for Takfir' },
+    branches: [
+      {
+        label: { ar: '1. العِلْم', fr: '1. La science', en: '1. Knowledge' },
+        description: { ar: 'أن يعلم أن قوله يخالف الشرع', fr: 'Savoir que sa parole contredit la Sharî\'ah', en: 'Know that his statement contradicts the Shariah' },
+        variant: 'warning'
+      },
+      {
+        label: { ar: '2. القَصْد', fr: '2. L\'intention', en: '2. Intent' },
+        description: { ar: 'أن يقصد المخالفة عمداً', fr: 'Vouloir délibérément la contradiction', en: 'Deliberately intend the contradiction' },
+        variant: 'warning'
+      },
+      {
+        label: { ar: '3. انتفاء الموانع', fr: '3. Absence d\'obstacles', en: '3. Absence of Impediments' },
+        description: { ar: 'لا جهل ولا تأويل ولا إكراه', fr: 'Ni ignorance, ni interprétation, ni contrainte', en: 'No ignorance, no interpretation, no coercion' },
+        variant: 'danger',
+        children: [
+          { label: { ar: 'الجهل', fr: 'L\'ignorance', en: 'Ignorance' }, variant: 'default' },
+          { label: { ar: 'التأويل الخاطئ', fr: 'La mauvaise interprétation', en: 'Wrong interpretation' }, variant: 'default' },
+          { label: { ar: 'الإكراه', fr: 'La contrainte', en: 'Coercion' }, variant: 'default' },
+          { label: { ar: 'الخطأ غير المقصود', fr: 'L\'erreur involontaire', en: 'Unintentional error' }, variant: 'default' }
+        ]
+      }
+    ]
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // SECTES-REFUTATIONS - Khawârij
+  // ─────────────────────────────────────────────────────────
+  'khawarij-characteristics': {
+    type: 'tree',
+    title: { ar: 'خصائص الخوارج', fr: 'Caractéristiques des Khawârij', en: 'Characteristics of Khawarij' },
+    root: { ar: 'خصائص الخوارج', fr: 'Caractéristiques', en: 'Characteristics' },
+    branches: [
+      {
+        label: { ar: 'تكفير مرتكب الكبيرة', fr: 'Déclarer mécréant celui qui commet un grand péché', en: 'Declaring major sinners as disbelievers' },
+        variant: 'danger'
+      },
+      {
+        label: { ar: 'الخروج على الحكام', fr: 'Se révolter contre les dirigeants', en: 'Rebellion against rulers' },
+        variant: 'danger'
+      },
+      {
+        label: { ar: 'التشدد في الدين', fr: 'Extrémisme dans la religion', en: 'Extremism in religion' },
+        variant: 'warning'
+      },
+      {
+        label: { ar: 'قراءة القرآن دون فهم', fr: 'Réciter le Coran sans le comprendre', en: 'Reading Quran without understanding' },
+        variant: 'warning'
+      },
+      {
+        label: { ar: 'سفك دماء المسلمين', fr: 'Verser le sang des musulmans', en: 'Shedding blood of Muslims' },
+        variant: 'danger'
+      }
+    ]
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // SECTES-REFUTATIONS - Murji'ah
+  // ─────────────────────────────────────────────────────────
+  'murjiah-iman-definition': {
+    type: 'comparison',
+    title: { ar: 'الإيمان عند المرجئة وأهل السنة', fr: 'La foi chez les Murji\'ah et Ahl as-Sunnah', en: 'Faith according to Murji\'ah and Ahl as-Sunnah' },
+    columns: [
+      {
+        title: { ar: 'أهل السنة ✅', fr: 'Ahl as-Sunnah ✅', en: 'Ahl as-Sunnah ✅' },
+        variant: 'positive',
+        items: [
+          { ar: 'الإيمان: قول وعمل واعتقاد', fr: 'La foi: parole, acte et croyance', en: 'Faith: speech, action and belief' },
+          { ar: 'يزيد وينقص', fr: 'Augmente et diminue', en: 'Increases and decreases' },
+          { ar: 'المعاصي تضره', fr: 'Les péchés lui nuisent', en: 'Sins harm it' },
+          { ar: 'العمل ركن من أركان الإيمان', fr: 'L\'acte est un pilier de la foi', en: 'Action is a pillar of faith' }
+        ]
+      },
+      {
+        title: { ar: 'المرجئة ❌', fr: 'Murji\'ah ❌', en: 'Murji\'ah ❌' },
+        variant: 'negative',
+        items: [
+          { ar: 'الإيمان: مجرد التصديق القلبي', fr: 'La foi: simple croyance du cœur', en: 'Faith: mere belief of heart' },
+          { ar: 'لا يتأثر بالأعمال', fr: 'Non affectée par les actes', en: 'Unaffected by actions' },
+          { ar: 'إيمان الفاسق كإيمان الملائكة', fr: 'Foi du pécheur = foi des anges', en: 'Sinner\'s faith = angels\' faith' },
+          { ar: 'العمل ليس من الإيمان', fr: 'L\'acte ne fait pas partie de la foi', en: 'Action is not part of faith' }
+        ]
+      }
+    ]
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // SECTES-REFUTATIONS - Qadariyyah/Jabriyyah
+  // ─────────────────────────────────────────────────────────
+  'qadar-two-extremes': {
+    type: 'comparison',
+    title: { ar: 'طرفا الانحراف في القدر', fr: 'Les deux extrêmes concernant le Destin', en: 'Two Extremes Regarding Divine Decree' },
+    columns: [
+      {
+        title: { ar: 'القدرية ❌', fr: 'Qadariyyah ❌', en: 'Qadariyyah ❌' },
+        subtitle: { ar: 'نفي القدر', fr: 'Négation du Destin', en: 'Denial of Decree' },
+        variant: 'negative',
+        items: [
+          { ar: 'العبد يخلق فعله بنفسه', fr: 'Le serviteur crée son propre acte', en: 'Servant creates his own action' },
+          { ar: 'الله لا يعلم الأشياء قبل وقوعها', fr: 'Allah ne sait pas avant que les choses arrivent', en: 'Allah doesn\'t know before things happen' },
+          { ar: 'إنكار القضاء والقدر', fr: 'Négation du décret et du destin', en: 'Denial of decree and destiny' }
+        ]
+      },
+      {
+        title: { ar: 'الجبرية ❌', fr: 'Jabriyyah ❌', en: 'Jabriyyah ❌' },
+        subtitle: { ar: 'الغلو في القدر', fr: 'Exagération du Destin', en: 'Exaggeration of Decree' },
+        variant: 'negative',
+        items: [
+          { ar: 'العبد مجبور على أفعاله', fr: 'Le serviteur est contraint dans ses actes', en: 'Servant is compelled in his actions' },
+          { ar: 'لا اختيار للإنسان', fr: 'L\'homme n\'a pas de choix', en: 'Man has no choice' },
+          { ar: 'إسقاط التكليف', fr: 'Annulation de la responsabilité', en: 'Removal of responsibility' }
+        ]
+      }
+    ]
+  },
+
+  'qadar-ahlussunnah': {
+    type: 'tree',
+    title: { ar: 'موقف أهل السنة من القدر', fr: 'Position d\'Ahl as-Sunnah sur le Destin', en: 'Ahl as-Sunnah\'s Position on Divine Decree' },
+    root: { ar: 'موقف أهل السنة', fr: 'Position d\'Ahl as-Sunnah', en: 'Ahl as-Sunnah Position' },
+    branches: [
+      {
+        label: { ar: 'إثبات علم الله السابق', fr: 'Affirmer la science antérieure d\'Allah', en: 'Affirm Allah\'s prior knowledge' },
+        variant: 'success'
+      },
+      {
+        label: { ar: 'إثبات الكتابة في اللوح المحفوظ', fr: 'Affirmer l\'écriture dans la Table Préservée', en: 'Affirm writing in Preserved Tablet' },
+        variant: 'success'
+      },
+      {
+        label: { ar: 'إثبات المشيئة الشاملة', fr: 'Affirmer la volonté englobante', en: 'Affirm comprehensive Will' },
+        variant: 'success'
+      },
+      {
+        label: { ar: 'إثبات الخلق لجميع الأشياء', fr: 'Affirmer la création de toutes choses', en: 'Affirm creation of all things' },
+        variant: 'success'
+      },
+      {
+        label: { ar: 'إثبات اختيار العبد', fr: 'Affirmer le choix du serviteur', en: 'Affirm servant\'s choice' },
+        description: { ar: 'العبد يختار ويُسأل عن اختياره', fr: 'Le serviteur choisit et sera interrogé', en: 'Servant chooses and will be questioned' },
+        variant: 'success'
+      }
+    ]
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // SECTES-REFUTATIONS - Jahmiyyah/Mu'tazilah
+  // ─────────────────────────────────────────────────────────
+  'sifat-three-positions': {
+    type: 'tree',
+    title: { ar: 'المواقف من الصفات الإلهية', fr: 'Positions sur les Attributs Divins', en: 'Positions on Divine Attributes' },
+    root: { ar: 'المواقف من الصفات', fr: 'Positions sur les Attributs', en: 'Positions on Attributes' },
+    branches: [
+      {
+        label: { ar: 'أهل السنة والجماعة', fr: 'Ahl as-Sunnah wal-Jamâ\'ah', en: 'Ahl as-Sunnah wal-Jama\'ah' },
+        description: { ar: 'إثبات بلا تمثيل، تنزيه بلا تعطيل', fr: 'Affirmation sans assimilation, transcendance sans négation', en: 'Affirmation without likening, transcendence without negation' },
+        variant: 'success'
+      },
+      {
+        label: { ar: 'الجهمية والمعتزلة', fr: 'Jahmiyyah et Mu\'tazilah', en: 'Jahmiyyah and Mu\'tazilah' },
+        description: { ar: 'نفي الصفات (التعطيل)', fr: 'Négation des attributs (Ta\'tîl)', en: 'Denial of attributes (Ta\'til)' },
+        variant: 'danger'
+      },
+      {
+        label: { ar: 'المشبهة والمجسمة', fr: 'Mushabbihah et Mujassimah', en: 'Mushabbihah and Mujassimah' },
+        description: { ar: 'تشبيه الله بالمخلوقات', fr: 'Comparer Allah aux créatures', en: 'Comparing Allah to creatures' },
+        variant: 'danger'
+      }
+    ]
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // SECTES-REFUTATIONS - Méthodologie de réfutation
+  // ─────────────────────────────────────────────────────────
+  'refutation-methodology': {
+    type: 'flow',
+    title: { ar: 'منهج الرد على الفرق', fr: 'Méthodologie de réfutation des sectes', en: 'Methodology for Refuting Sects' },
+    layout: 'vertical',
+    steps: [
+      {
+        title: { ar: '1. العلم والفهم', fr: '1. Science et compréhension', en: '1. Knowledge and Understanding' },
+        description: { ar: 'دراسة عقيدتهم من مصادرهم', fr: 'Étudier leur croyance de leurs sources', en: 'Study their belief from their sources' },
+        variant: 'default'
+      },
+      {
+        title: { ar: '2. العدل والإنصاف', fr: '2. Justice et équité', en: '2. Justice and Fairness' },
+        description: { ar: 'نقل كلامهم بأمانة', fr: 'Rapporter leurs propos fidèlement', en: 'Report their words faithfully' },
+        variant: 'default'
+      },
+      {
+        title: { ar: '3. الرد بالحجة', fr: '3. Réfutation par la preuve', en: '3. Refutation with Evidence' },
+        description: { ar: 'الكتاب والسنة والعقل', fr: 'Coran, Sunnah et raison', en: 'Quran, Sunnah and reason' },
+        variant: 'current'
+      },
+      {
+        title: { ar: '4. التفريق بين المقالة والقائل', fr: '4. Distinguer le propos de son auteur', en: '4. Distinguish Statement from Speaker' },
+        description: { ar: 'المقالة كفر لا يلزم كفر القائل', fr: 'Le propos peut être kufr sans que l\'auteur soit kâfir', en: 'Statement may be kufr without speaker being kafir' },
+        variant: 'warning'
+      },
+      {
+        title: { ar: '5. الحكمة والرفق', fr: '5. Sagesse et douceur', en: '5. Wisdom and Gentleness' },
+        description: { ar: 'الهداية مقصد لا الانتصار', fr: 'L\'objectif est la guidance, pas la victoire', en: 'Goal is guidance, not victory' },
+        variant: 'success'
+      }
+    ]
   }
 }
 

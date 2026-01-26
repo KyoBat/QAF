@@ -63,22 +63,7 @@ Le Prophète ﷺ a dit, décrivant les piliers de la foi :
 
 ## 🏛️ Les Quatre Piliers du Destin
 
-\`\`\`
-              🌟 أَرْكَانُ الْقَدَرِ الْأَرْبَعَة
-              LES QUATRE PILIERS DU DESTIN
-                         │
-    ┌────────────────────┼────────────────────┐
-    │                    │                    │
- 1️⃣ العِلم           2️⃣ الكتابة         3️⃣ المَشيئة
- LA SCIENCE         L'ÉCRITURE          LA VOLONTÉ
- Allah sait         Allah a écrit       Allah veut
-    │                    │                    │
-    └────────────────────┴──────┬─────────────┘
-                                │
-                           4️⃣ الخَلق
-                          LA CRÉATION
-                         Allah crée tout
-\`\`\`
+<!-- DIAGRAM:aqeedah-destin-pillars -->
 
 ---
 

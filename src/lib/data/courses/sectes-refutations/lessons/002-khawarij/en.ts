@@ -125,15 +125,14 @@ They killed **the fourth of the Rightly-Guided Caliphs**, 'Ali ibn Abi Talib ر�
 
 ### 3. Excommunication of the Companions
 
-\`\`\`
-Companions Excommunicated by the Khawarij
-├── 'Ali ibn Abi Talib رضي الله عنه — for accepting arbitration
-├── Mu'awiya ibn Abi Sufyan رضي الله عنه — for opposing 'Ali
-├── 'Amr ibn al-'As رضي الله عنه — Mu'awiya's arbiter
-├── Abu Musa al-Ash'ari رضي الله عنه — 'Ali's arbiter
-├── 'Uthman ibn 'Affan رضي الله عنه — accused of favoritism
-└── All who accepted arbitration
-\`\`\`
+| Companion | Reason for Excommunication |
+|-----------|---------------------------|
+| **'Ali ibn Abi Talib** رضي الله عنه | For accepting arbitration |
+| **Mu'awiya ibn Abi Sufyan** رضي الله عنه | For opposing 'Ali |
+| **'Amr ibn al-'As** رضي الله عنه | Mu'awiya's arbiter |
+| **Abu Musa al-Ash'ari** رضي الله عنه | 'Ali's arbiter |
+| **'Uthman ibn 'Affan** رضي الله عنه | Accused of favoritism |
+| **All who accepted arbitration** | Acceptance of falsehood |
 
 ### 4. Extreme Literalism
 
@@ -180,28 +179,7 @@ The Prophet ﷺ described the Khawarij with astonishing precision, **years befor
 
 ### Characteristics Table
 
-\`\`\`
-Characteristics of the Khawarij (from the Prophet's ﷺ hadiths)
-├── 📖 Religious Appearance
-│   ├── Abundant Quran recitation
-│   ├── Much prayer and fasting
-│   └── Eloquent speech
-│
-├── ❌ Spiritual Reality
-│   ├── The Quran does not go beyond their throats
-│   ├── No deep understanding
-│   └── Worship without knowledge
-│
-├── 🔥 Behavior
-│   ├── Easy takfir (excommunication)
-│   ├── Violence against Muslims
-│   └── Leniency with disbelievers
-│
-└── 👤 Features
-    ├── Young age
-    ├── Foolish minds
-    └── New to Islam or practicing
-\`\`\`
+<!-- DIAGRAM:khawarij-characteristics -->
 
 ---
 

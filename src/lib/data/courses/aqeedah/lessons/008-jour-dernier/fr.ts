@@ -68,28 +68,7 @@ Le Prophète ﷺ a dit, décrivant les piliers de la foi :
 
 ## 🌳 Les Étapes du Jour Dernier
 
-\`\`\`
-              ⏳ LES ÉTAPES DU JOUR DERNIER
-                         │
-    ┌────────────────────┼────────────────────┐
-    │                    │                    │
- 1️⃣ MORT           2️⃣ BARZAKH         3️⃣ RÉSURRECTION
- الموت              البرزخ               البعث
-    │                    │                    │
-    └────────────────────┴────────────────────┘
-                         │
-    ┌────────────────────┼────────────────────┐
-    │                    │                    │
- 4️⃣ RASSEMBLEMENT   5️⃣ JUGEMENT       6️⃣ BALANCE
- الحشر              الحساب              الميزان
-    │                    │                    │
-    └────────────────────┴────────────────────┘
-                         │
-    ┌────────────────────┼────────────────────┐
-    │                    │                    │
- 7️⃣ BASSIN          8️⃣ SIRAT          9️⃣ DESTINATION
- الحوض              الصراط              الجنة أو النار
-\`\`\`
+<!-- DIAGRAM:aqeedah-jour-dernier-stages -->
 
 ---
 

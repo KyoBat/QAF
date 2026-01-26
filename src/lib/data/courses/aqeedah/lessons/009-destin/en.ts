@@ -61,20 +61,7 @@ export const content = `# 📜 Belief in Divine Decree — The Sixth Pillar of F
 
 ## 🌳 The Four Pillars of Divine Decree
 
-\`\`\`
-              🌳 THE FOUR PILLARS OF QADR
-                         │
-    ┌────────────────────┼────────────────────┐
-    │                    │                    │
- 1️⃣ KNOWLEDGE       2️⃣ WRITING          3️⃣ WILL
- Allah knew before   In the Preserved    Nothing occurs
- creation            Tablet              without His will
-    │                    │                    │
-    └────────────────────┴────────────────────┘
-                         │
-                    4️⃣ CREATION
-               Allah creates all things
-\`\`\`
+<!-- DIAGRAM:aqeedah-destin-pillars -->
 
 ### 1️⃣ Knowledge
 
@@ -190,22 +177,7 @@ export const content = `# 📜 Belief in Divine Decree — The Sixth Pillar of F
 
 ## 🌟 Benefits of Believing in Divine Decree
 
-\`\`\`
-         🌟 BENEFITS OF BELIEVING IN QADR
-                    │
-    ┌───────────────┼───────────────┐
-    │               │               │
- TRANQUILITY      COURAGE        HUMILITY
- All by decree    Death is fixed  Success is from Allah
-    │               │               │
-    └───────────────┴───────────────┘
-                    │
-    ┌───────────────┼───────────────┐
-    │               │               │
- PATIENCE       NO ENVY       PEACE OF MIND
- Trials written  Each has their  What passed won't return
-                 portion
-\`\`\`
+<!-- DIAGRAM:aqeedah-destin-benefits -->
 
 ---
 

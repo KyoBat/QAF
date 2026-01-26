@@ -57,18 +57,7 @@ Cette série vous guidera à travers les principales sectes qui ont émergé dan
 
 ### Le Critère de Distinction
 
-\`\`\`
-Types de Divergence
-├── Divergence dans les BRANCHES (furu')
-│   ├── ✅ Légitime et tolérée
-│   ├── Ex: Lever les mains dans la prière
-│   └── Ne cause pas de séparation
-│
-└── Divergence dans les FONDEMENTS (usul)
-    ├── ❌ Cause la séparation
-    ├── Ex: Négation des attributs d'Allah
-    └── Exclut de la méthodologie d'Ahl as-Sunnah
-\`\`\`
+<!-- DIAGRAM:firaq-types-khilaf -->
 
 <div class="scene-box">
 
@@ -139,26 +128,7 @@ Types de Divergence
 
 ### Chronologie d'Apparition
 
-\`\`\`
-Chronologie des Sectes Majeures
-├── 1er siècle H
-│   ├── Khawarij (37 H - Bataille de Siffin)
-│   ├── Shi'a primitif (35-40 H)
-│   └── Qadariyyah (~70 H - Ma'bad al-Juhani)
-│
-├── 2ème siècle H
-│   ├── Murji'ah (début 2ème siècle)
-│   ├── Jahmiyyah (~128 H - Jahm ibn Safwan)
-│   └── Mu'tazilah (~100-110 H - Wasil ibn 'Ata')
-│
-├── 3ème siècle H
-│   ├── Asha'irah (260-324 H - Abu al-Hasan al-Ash'ari)
-│   └── Maturidiyyah (m. 333 H - Abu Mansur al-Maturidi)
-│
-└── Siècles suivants
-    ├── Confréries soufies (expansion)
-    └── Sectes contemporaines (Qadianiyyah, Baha'isme)
-\`\`\`
+<!-- DIAGRAM:firaq-timeline -->
 
 ---
 

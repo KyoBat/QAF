@@ -47,28 +47,7 @@ export const content = `# 📜 Belief in the Last Day — The Fifth Pillar of Fa
 
 ## 🌳 The Stages of the Last Day
 
-\`\`\`
-              ⏳ THE STAGES OF THE HEREAFTER
-                         │
-    ┌────────────────────┼────────────────────┐
-    │                    │                    │
- 1️⃣ DEATH           2️⃣ BARZAKH          3️⃣ RESURRECTION
- Departure of soul   Grave questioning    Trumpet blast
-    │                    │                    │
-    └────────────────────┴────────────────────┘
-                         │
-    ┌────────────────────┼────────────────────┐
-    │                    │                    │
- 4️⃣ GATHERING       5️⃣ JUDGMENT         6️⃣ BALANCE
- Assembly on Plain   Books given          Deeds weighed
-    │                    │                    │
-    └────────────────────┴────────────────────┘
-                         │
-    ┌────────────────────┼────────────────────┐
-    │                    │                    │
- 7️⃣ BASIN           8️⃣ SIRAT            9️⃣ PARADISE or HELL
- Drink from Hawd     Cross over Fire      Eternal abode
-\`\`\`
+<!-- DIAGRAM:aqeedah-jour-dernier-stages -->
 
 ---
 
