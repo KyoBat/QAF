@@ -681,6 +681,303 @@ const diagramsRegistry: Record<string, DiagramData> = {
   },
 
   // ─────────────────────────────────────────────────────────
+  // FIQH MUAMALAT - MUSHARAKAH (Partnerships)
+  // ─────────────────────────────────────────────────────────
+  'sharikah-definition': {
+    type: 'comparison',
+    title: {
+      ar: 'تعريف الشركة',
+      fr: 'Définition de la société',
+      en: 'Partnership Definition'
+    },
+    columns: [
+      {
+        title: { ar: 'شركة الاستحقاق', fr: 'Société de propriété', en: 'Ownership Partnership' },
+        variant: 'neutral',
+        items: [
+          { ar: 'أن يملك اثنان فأكثر شيئاً واحداً', fr: 'Deux personnes ou plus possèdent une chose', en: 'Two or more own one thing' },
+          { ar: 'مثال: ورثة يرثون بيتاً واحداً', fr: 'Ex: héritiers d\'une maison', en: 'Ex: heirs of one house' }
+        ]
+      },
+      {
+        title: { ar: 'شركة التصرف', fr: 'Société de gestion', en: 'Management Partnership' },
+        variant: 'positive',
+        items: [
+          { ar: 'أن يتعاقد اثنان فأكثر على التجارة معاً', fr: 'Deux personnes ou plus s\'associent pour le commerce', en: 'Two or more contract to trade together' },
+          { ar: 'مثال: شريكان في متجر أو مشروع', fr: 'Ex: partenaires dans un magasin', en: 'Ex: partners in a store' }
+        ]
+      }
+    ]
+  },
+
+  'sharikah-blessing': {
+    type: 'flow',
+    title: {
+      ar: 'الله ثالث الشريكين',
+      fr: 'Allah est le troisième des deux associés',
+      en: 'Allah is the Third of Two Partners'
+    },
+    layout: 'vertical',
+    steps: [
+      { title: { ar: 'ما داما صادقين أمينين', fr: 'Tant qu\'ils sont honnêtes et fidèles', en: 'As long as they are honest and faithful' }, description: { ar: 'شريك ◄── أمانة ──► شريك', fr: 'Partenaire ◄── fidélité ──► Partenaire', en: 'Partner ◄── trust ──► Partner' }, variant: 'success' },
+      { title: { ar: 'بقيا أمينين', fr: 'Restent fidèles', en: 'Remain faithful' }, description: { ar: 'دام التوفيق والنماء والبركة', fr: 'Succès, croissance et bénédiction continuent', en: 'Success, growth and blessing continue' }, variant: 'success' },
+      { title: { ar: 'إذا خان أحدهما', fr: 'Si l\'un trahit', en: 'If one betrays' }, description: { ar: 'خرجت البركة من بينهما', fr: 'La bénédiction les quitte', en: 'Blessing leaves them' }, variant: 'warning' }
+    ]
+  },
+
+  'sharikah-types': {
+    type: 'tree',
+    title: {
+      ar: 'أنواع الشركات',
+      fr: 'Types de sociétés',
+      en: 'Types of Partnerships'
+    },
+    branches: [
+      { 
+        label: { ar: 'شركات العقود', fr: 'Sociétés contractuelles', en: 'Contract Partnerships' },
+        description: { ar: 'العنان، المفاوضة، الأبدان، الوجوه، المضاربة', fr: 'Inan, Mufawada, Abdan, Wujuh, Mudaraba', en: 'Inan, Mufawada, Abdan, Wujuh, Mudaraba' }
+      },
+      { 
+        label: { ar: 'شركات الأملاك', fr: 'Sociétés de propriété', en: 'Property Partnerships' },
+        description: { ar: 'الميراث، الهبة المشتركة', fr: 'Héritage, don commun', en: 'Inheritance, joint gift' }
+      },
+      { 
+        label: { ar: 'شركات حديثة', fr: 'Sociétés modernes', en: 'Modern Companies' },
+        description: { ar: 'المساهمة، المحدودة، المتناقصة', fr: 'Par actions, SARL, décroissante', en: 'Joint stock, LLC, diminishing' }
+      }
+    ]
+  },
+
+  'sharikah-inan': {
+    type: 'flow',
+    title: {
+      ar: 'شركة العنان — أم الشركات وأصحها عند الجميع',
+      fr: 'Société Inan — La plus valide de toutes',
+      en: 'Inan Partnership — The Most Valid of All'
+    },
+    layout: 'horizontal',
+    steps: [
+      { title: { ar: 'شريك 1', fr: 'Partenaire 1', en: 'Partner 1' }, description: { ar: 'مال + عمل', fr: 'Capital + travail', en: 'Capital + work' } },
+      { title: { ar: 'شريك 2', fr: 'Partenaire 2', en: 'Partner 2' }, description: { ar: 'مال + عمل', fr: 'Capital + travail', en: 'Capital + work' } },
+      { title: { ar: 'الربح', fr: 'Profit', en: 'Profit' }, description: { ar: 'على ما اشترطا، والخسارة على قدر المال', fr: 'Selon accord, perte au prorata du capital', en: 'Per agreement, loss per capital ratio' }, variant: 'success' }
+    ]
+  },
+
+  'sharikah-mufawada': {
+    type: 'comparison',
+    title: {
+      ar: 'شركة المفاوضة — المساواة التامة في كل شيء',
+      fr: 'Société Mufawada — Égalité totale en tout',
+      en: 'Mufawada Partnership — Total Equality in Everything'
+    },
+    columns: [
+      {
+        title: { ar: 'شريك 1', fr: 'Partenaire 1', en: 'Partner 1' },
+        variant: 'neutral',
+        items: [
+          { ar: 'رأس المال =', fr: 'Capital =', en: 'Capital =' },
+          { ar: 'العمل =', fr: 'Travail =', en: 'Work =' },
+          { ar: 'الربح =', fr: 'Profit =', en: 'Profit =' },
+          { ar: 'الخسارة =', fr: 'Perte =', en: 'Loss =' },
+          { ar: 'الكفالة =', fr: 'Garantie =', en: 'Guarantee =' }
+        ]
+      },
+      {
+        title: { ar: 'شريك 2', fr: 'Partenaire 2', en: 'Partner 2' },
+        variant: 'neutral',
+        items: [
+          { ar: 'رأس المال', fr: 'Capital', en: 'Capital' },
+          { ar: 'العمل', fr: 'Travail', en: 'Work' },
+          { ar: 'الربح', fr: 'Profit', en: 'Profit' },
+          { ar: 'الخسارة', fr: 'Perte', en: 'Loss' },
+          { ar: 'الكفالة', fr: 'Garantie', en: 'Guarantee' }
+        ]
+      }
+    ]
+  },
+
+  'sharikah-abdan': {
+    type: 'flow',
+    title: {
+      ar: 'شركة الأبدان — الاشتراك بالعمل دون المال',
+      fr: 'Société Abdan — Association par le travail sans capital',
+      en: 'Abdan Partnership — Work Partnership Without Capital'
+    },
+    layout: 'horizontal',
+    steps: [
+      { title: { ar: 'شريك 1', fr: 'Partenaire 1', en: 'Partner 1' }, description: { ar: 'عمل (لا مال)', fr: 'Travail (pas de capital)', en: 'Work (no capital)' } },
+      { title: { ar: 'شريك 2', fr: 'Partenaire 2', en: 'Partner 2' }, description: { ar: 'عمل (لا مال)', fr: 'Travail (pas de capital)', en: 'Work (no capital)' } },
+      { title: { ar: 'إنتاج مشترك', fr: 'Production commune', en: 'Joint Production' }, description: { ar: 'يقتسمان الربح', fr: 'Ils partagent le profit', en: 'They share profit' }, variant: 'success' }
+    ]
+  },
+
+  'sharikah-wujuh': {
+    type: 'flow',
+    title: {
+      ar: 'شركة الوجوه — الاشتراك بالسمعة والجاه',
+      fr: 'Société Wujuh — Association par la réputation',
+      en: 'Wujuh Partnership — Reputation Partnership'
+    },
+    layout: 'vertical',
+    steps: [
+      { title: { ar: 'شريك 1 + شريك 2', fr: 'Partenaire 1 + Partenaire 2', en: 'Partner 1 + Partner 2' }, description: { ar: 'سمعة + جاه (لا مال)', fr: 'Réputation + prestige (pas de capital)', en: 'Reputation + prestige (no capital)' } },
+      { title: { ar: 'شراء بالدين', fr: 'Achat à crédit', en: 'Purchase on Credit' }, description: { ar: 'ثقة البائع في سمعتهما', fr: 'Confiance du vendeur en leur réputation', en: 'Seller trusts their reputation' } },
+      { title: { ar: 'البيع بربح', fr: 'Vente avec profit', en: 'Sale with Profit' }, description: { ar: 'سداد الدين + اقتسام الربح', fr: 'Remboursement + partage du profit', en: 'Repayment + profit sharing' }, variant: 'success' }
+    ]
+  },
+
+  'sharikah-musahama': {
+    type: 'ruling',
+    title: {
+      ar: '🏦 الشركة المساهمة',
+      fr: '🏦 Société par actions',
+      en: '🏦 Joint Stock Company'
+    },
+    rulingType: 'info',
+    numbered: false,
+    items: [
+      { text: { ar: 'رأس المال: 1,000,000 ريال', fr: 'Capital: 1,000,000 riyals', en: 'Capital: 1,000,000 riyals' } },
+      { text: { ar: 'مقسم إلى: 10,000 سهم', fr: 'Divisé en: 10,000 actions', en: 'Divided into: 10,000 shares' } },
+      { text: { ar: 'قيمة السهم: 100 ريال', fr: 'Valeur de l\'action: 100 riyals', en: 'Share value: 100 riyals' } },
+      { text: { ar: 'الربح يوزع بنسبة الأسهم', fr: 'Profit distribué au prorata des actions', en: 'Profit distributed by share ratio' } },
+      { text: { ar: 'المسؤولية محدودة بقيمة الأسهم', fr: 'Responsabilité limitée à la valeur des actions', en: 'Liability limited to share value' } },
+      { text: { ar: 'الأسهم قابلة للبيع والتداول', fr: 'Actions négociables', en: 'Shares are tradable' } }
+    ]
+  },
+
+  'sharikah-musahama-types': {
+    type: 'tree',
+    title: {
+      ar: 'أنواع الشركات المساهمة من حيث الحكم الشرعي',
+      fr: 'Types de sociétés par actions selon le jugement religieux',
+      en: 'Types of Joint Stock Companies by Religious Ruling'
+    },
+    branches: [
+      { label: { ar: 'مباحة ✅', fr: 'Licite ✅', en: 'Permissible ✅' }, description: { ar: 'أغذية حلال، بناء وتقنية، صناعة نظيفة', fr: 'Alimentation halal, construction, technologie', en: 'Halal food, construction, technology' }, variant: 'success' },
+      { label: { ar: 'محرمة ❌', fr: 'Interdite ❌', en: 'Prohibited ❌' }, description: { ar: 'بنوك ربوية، خمور وقمار، تأمين تقليدي', fr: 'Banques usuraires, alcool, jeux de hasard', en: 'Usury banks, alcohol, gambling' }, variant: 'danger' },
+      { label: { ar: 'مختلطة ⚠️', fr: 'Mixte ⚠️', en: 'Mixed ⚠️' }, description: { ar: 'نشاط مباح + معاملات ربوية يسيرة', fr: 'Activité licite + transactions usuraires mineures', en: 'Lawful activity + minor usury transactions' }, variant: 'warning' }
+    ]
+  },
+
+  'sharikah-llc': {
+    type: 'ruling',
+    title: {
+      ar: 'الشركة ذات المسؤولية المحدودة',
+      fr: 'Société à responsabilité limitée (SARL)',
+      en: 'Limited Liability Company (LLC)'
+    },
+    rulingType: 'info',
+    numbered: false,
+    items: [
+      { text: { ar: 'الخاصية الأساسية:', fr: 'Caractéristique principale:', en: 'Main feature:' }, subitems: [{ ar: 'مسؤولية الشريك محدودة بقدر حصته', fr: 'Responsabilité limitée à la part du partenaire', en: 'Partner liability limited to their share' }] },
+      { text: { ar: 'مثال:', fr: 'Exemple:', en: 'Example:' }, subitems: [{ ar: 'رأس مال الشركة: 500,000 ريال', fr: 'Capital: 500,000 riyals', en: 'Capital: 500,000 riyals' }, { ar: 'حصة أحمد: 100,000 ريال (20%)', fr: 'Part d\'Ahmed: 100,000 (20%)', en: 'Ahmed\'s share: 100,000 (20%)' }, { ar: 'الشركة خسرت وعليها ديون: 800,000', fr: 'Société a perdu, dettes: 800,000', en: 'Company lost, debts: 800,000' }] },
+      { text: { ar: 'ماذا يحدث؟', fr: 'Que se passe-t-il?', en: 'What happens?' }, subitems: [{ ar: 'أحمد يخسر حصته فقط (100,000)', fr: 'Ahmed perd sa part seulement (100,000)', en: 'Ahmed loses only his share (100,000)' }, { ar: 'لا يُطالب بأكثر من ذلك من ماله الخاص', fr: 'Il n\'est pas tenu de payer plus de ses biens personnels', en: 'He\'s not liable for more from personal wealth' }] },
+      { text: { ar: 'الحكم الشرعي: جائزة ✅', fr: 'Jugement religieux: Permis ✅', en: 'Religious ruling: Permissible ✅' } }
+    ]
+  },
+
+  'musharakah-mutanaqisa': {
+    type: 'ruling',
+    title: {
+      ar: 'المشاركة المتناقصة — Diminishing Musharakah',
+      fr: 'Participation décroissante — Diminishing Musharakah',
+      en: 'Diminishing Partnership — Diminishing Musharakah'
+    },
+    rulingType: 'info',
+    numbered: true,
+    items: [
+      { text: { ar: 'البداية: البنك 80% — العميل 20%', fr: 'Début: Banque 80% — Client 20%', en: 'Start: Bank 80% — Client 20%' } },
+      { text: { ar: 'بعد سنة: البنك 60% — العميل 40%', fr: 'Après 1 an: Banque 60% — Client 40%', en: 'After 1 year: Bank 60% — Client 40%' } },
+      { text: { ar: 'بعد سنتين: البنك 40% — العميل 60%', fr: 'Après 2 ans: Banque 40% — Client 60%', en: 'After 2 years: Bank 40% — Client 60%' } },
+      { text: { ar: 'في النهاية: العميل 100%', fr: 'À la fin: Client 100%', en: 'In the end: Client 100%' } }
+    ],
+    footer: { ar: 'حصة البنك تنقص وحصة العميل تزداد حتى التملك الكامل', fr: 'La part de la banque diminue jusqu\'à la propriété complète du client', en: 'Bank share decreases until client full ownership' }
+  },
+
+  'sharikah-guarantee-rule': {
+    type: 'ruling',
+    title: {
+      ar: 'قاعدة الضمان في الشركات',
+      fr: 'Règle de garantie dans les sociétés',
+      en: 'Guarantee Rule in Partnerships'
+    },
+    rulingType: 'info',
+    numbered: false,
+    items: [
+      { text: { ar: 'كل شريك أمين على مال الشركة، لا يضمن إلا بالتعدي أو التفريط', fr: 'Chaque associé est fiduciaire, ne garantit qu\'en cas de transgression', en: 'Each partner is trustee, only liable for transgression or negligence' } },
+      { text: { ar: 'الأصل: الشريك أمين = لا ضمان', fr: 'Principe: L\'associé est fiduciaire = pas de garantie', en: 'Principle: Partner is trustee = no liability' } },
+      { text: { ar: 'الاستثناء: تعدٍّ أو تفريط = ضمان', fr: 'Exception: Transgression ou négligence = garantie', en: 'Exception: Transgression or negligence = liability' } }
+    ]
+  },
+
+  'sharikah-profit-loss-rule': {
+    type: 'ruling',
+    title: {
+      ar: 'القاعدة الذهبية في الشركات',
+      fr: 'La règle d\'or dans les sociétés',
+      en: 'The Golden Rule in Partnerships'
+    },
+    rulingType: 'info',
+    numbered: false,
+    items: [
+      { text: { ar: '"الربح على ما شرطا، والوضيعة على قدر المال"', fr: '"Le profit selon l\'accord, la perte au prorata du capital"', en: '"Profit per agreement, loss per capital ratio"' } },
+      { text: { ar: 'الربح ← حسب الاتفاق (يجوز التفاوت)', fr: 'Profit ← selon l\'accord (peut varier)', en: 'Profit ← per agreement (may vary)' } },
+      { text: { ar: 'الخسارة ← على قدر رأس المال (دائماً بالنسبة)', fr: 'Perte ← au prorata du capital (toujours)', en: 'Loss ← per capital ratio (always)' } }
+    ],
+    footer: { ar: 'مثال: شريكان (60%-40% رأس مال) اتفقا أن الربح نصفين ✅ — الخسارة تكون (60%-40%) دائماً', fr: 'Ex: partenaires (60%-40% capital) conviennent de 50%-50% profit ✅ — perte toujours 60%-40%', en: 'Ex: partners (60%-40% capital) agree 50%-50% profit ✅ — loss always 60%-40%' }
+  },
+
+  'sharikah-termination': {
+    type: 'tree',
+    title: {
+      ar: 'أسباب انتهاء الشركة',
+      fr: 'Causes de fin de la société',
+      en: 'Causes of Partnership Termination'
+    },
+    branches: [
+      { label: { ar: 'بالزمن', fr: 'Par le temps', en: 'By Time' }, description: { ar: 'انتهاء المدة، تحقق الغرض', fr: 'Fin de la durée, réalisation du but', en: 'End of term, goal achieved' } },
+      { label: { ar: 'بالمال', fr: 'Par le capital', en: 'By Capital' }, description: { ar: 'هلاك مال الشركة', fr: 'Destruction du capital', en: 'Destruction of company capital' } },
+      { label: { ar: 'بالإرادة', fr: 'Par la volonté', en: 'By Will' }, description: { ar: 'الفسخ بالتراضي، انسحاب شريك، موت شريك', fr: 'Résiliation mutuelle, retrait, décès', en: 'Mutual termination, withdrawal, death' } }
+    ]
+  },
+
+  'sharikah-badr-lessons': {
+    type: 'ruling',
+    title: {
+      ar: 'دروس من شراكة بدر',
+      fr: 'Leçons du partenariat de Badr',
+      en: 'Lessons from Badr Partnership'
+    },
+    rulingType: 'info',
+    numbered: true,
+    items: [
+      { text: { ar: 'شركة الأبدان جائزة', fr: 'La société Abdan est permise', en: 'Abdan partnership is permissible' }, subitems: [{ ar: 'الاشتراك بالعمل دون مال صحيح', fr: 'Association par le travail sans capital est valide', en: 'Work partnership without capital is valid' }] },
+      { text: { ar: 'الشراكة تكون قبل العمل', fr: 'Le partenariat se fait avant le travail', en: 'Partnership is made before work' }, subitems: [{ ar: 'لا يجوز اقتسام ما أصابه غيرك بعد العمل', fr: 'On ne peut partager ce qu\'un autre a obtenu après le travail', en: 'Cannot share what another obtained after work' }] },
+      { text: { ar: 'الإنصاف بين الشركاء', fr: 'Équité entre associés', en: 'Fairness between partners' }, subitems: [{ ar: 'رغم تفاوت النتائج، الاتفاق يُحترم', fr: 'Malgré les résultats inégaux, l\'accord est respecté', en: 'Despite unequal results, agreement is respected' }] },
+      { text: { ar: 'الثقة أساس الشراكة', fr: 'La confiance est la base du partenariat', en: 'Trust is the foundation of partnership' }, subitems: [{ ar: 'كانوا أصحاباً قبل أن يكونوا شركاء', fr: 'Ils étaient amis avant d\'être partenaires', en: 'They were friends before being partners' }] }
+    ]
+  },
+
+  'sharikah-summary': {
+    type: 'summary',
+    title: {
+      ar: '🎯 ملخص أحكام الشركات',
+      fr: '🎯 Résumé des règles des sociétés',
+      en: '🎯 Summary of Partnership Rules'
+    },
+    rows: [
+      { item: { ar: 'شركة العنان', fr: 'Société Inan', en: 'Inan Partnership' }, ruling: 'halal', notes: { ar: 'إجماع', fr: 'Consensus', en: 'Consensus' } },
+      { item: { ar: 'شركة المفاوضة', fr: 'Société Mufawada', en: 'Mufawada Partnership' }, ruling: 'disputed', notes: { ar: 'خلاف', fr: 'Divergence', en: 'Disagreement' } },
+      { item: { ar: 'شركة الأبدان', fr: 'Société Abdan', en: 'Abdan Partnership' }, ruling: 'halal', notes: { ar: 'جمهور', fr: 'Majorité', en: 'Majority' } },
+      { item: { ar: 'شركة الوجوه', fr: 'Société Wujuh', en: 'Wujuh Partnership' }, ruling: 'disputed', notes: { ar: 'خلاف', fr: 'Divergence', en: 'Disagreement' } },
+      { item: { ar: 'المضاربة', fr: 'Moudaraba', en: 'Mudarabah' }, ruling: 'halal', notes: { ar: 'إجماع', fr: 'Consensus', en: 'Consensus' } },
+      { item: { ar: 'المساهمة (نشاط مباح)', fr: 'Par actions (activité licite)', en: 'Joint stock (lawful activity)' }, ruling: 'halal' },
+      { item: { ar: 'المساهمة (نشاط محرم)', fr: 'Par actions (activité illicite)', en: 'Joint stock (unlawful activity)' }, ruling: 'haram' },
+      { item: { ar: 'المشاركة المتناقصة', fr: 'Participation décroissante', en: 'Diminishing Partnership' }, ruling: 'halal', notes: { ar: 'بشروط', fr: 'Sous conditions', en: 'With conditions' } }
+    ]
+  },
+
+  // ─────────────────────────────────────────────────────────
   // FIQH MUAMALAT - Conditions de vente valide
   // ─────────────────────────────────────────────────────────
   'bay-conditions': {
