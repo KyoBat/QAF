@@ -1215,6 +1215,229 @@ const diagramsRegistry: Record<string, DiagramData> = {
   },
 
   // ─────────────────────────────────────────────────────────
+  // FIQH MUAMALAT - QARD & RAHN (Prêt et Gage)
+  // ─────────────────────────────────────────────────────────
+  'qard-contract': {
+    type: 'flow',
+    title: { ar: 'عقد القرض الحسن', fr: 'Contrat de prêt bienveillant', en: 'Benevolent Loan Contract' },
+    layout: 'horizontal',
+    steps: [
+      { title: { ar: 'المُقرِض', fr: 'Prêteur', en: 'Lender' }, description: { ar: 'يدفع المال', fr: 'Verse l\'argent', en: 'Provides money' } },
+      { title: { ar: '💰 المال', fr: '💰 Argent', en: '💰 Money' }, description: { ar: 'الآن', fr: 'Maintenant', en: 'Now' }, variant: 'success' },
+      { title: { ar: 'المقترض', fr: 'Emprunteur', en: 'Borrower' }, description: { ar: 'يرد المثل (بلا زيادة)', fr: 'Rend l\'équivalent (sans surplus)', en: 'Returns equivalent (no surplus)' } }
+    ]
+  },
+
+  'qard-virtue': {
+    type: 'ruling',
+    title: { ar: 'فضل القرض الحسن', fr: 'Mérite du prêt bienveillant', en: 'Virtue of Benevolent Loan' },
+    rulingType: 'recommended',
+    items: [
+      { text: { ar: 'القرض مرتين = الصدقة مرة واحدة', fr: 'Prêter 2 fois = 1 aumône', en: 'Lending twice = 1 charity' } },
+      { text: { ar: 'يسد الحاجة مع حفظ الكرامة', fr: 'Comble le besoin en préservant la dignité', en: 'Fills need while preserving dignity' } },
+      { text: { ar: 'المال يعود فيُقرض غيره', fr: 'L\'argent revient pour être prêté à d\'autres', en: 'Money returns to be lent to others' } },
+      { text: { ar: 'يُنشئ التكافل في المجتمع', fr: 'Crée la solidarité sociale', en: 'Creates social solidarity' } },
+      { text: { ar: 'يُغني عن أبواب الربا', fr: 'Évite les portes de l\'usure', en: 'Avoids doors of usury' } }
+    ]
+  },
+
+  'qard-rulings-lender': {
+    type: 'summary',
+    title: { ar: 'حكم القرض على المُقرِض', fr: 'Statut du prêt pour le prêteur', en: 'Loan Ruling for Lender' },
+    rows: [
+      { item: { ar: 'إقراض المحتاج', fr: 'Prêter au nécessiteux', en: 'Lending to needy' }, ruling: 'mustahab', notes: { ar: 'الأصل', fr: 'Principe', en: 'Principle' } },
+      { item: { ar: 'إقراض من يستخدمه في إسراف', fr: 'Prêter à qui gaspille', en: 'Lending to spendthrift' }, ruling: 'makruh' },
+      { item: { ar: 'إقراض من يستخدمه في محرم', fr: 'Prêter pour usage illicite', en: 'Lending for unlawful use' }, ruling: 'haram', notes: { ar: 'كشراء خمر', fr: 'Ex: acheter alcool', en: 'Ex: buying alcohol' } }
+    ]
+  },
+
+  'qard-rulings-borrower': {
+    type: 'summary',
+    title: { ar: 'حكم القرض على المقترض', fr: 'Statut du prêt pour l\'emprunteur', en: 'Loan Ruling for Borrower' },
+    rows: [
+      { item: { ar: 'الاقتراض للحاجة مع القدرة على السداد', fr: 'Emprunter par besoin avec capacité de rembourser', en: 'Borrowing for need with ability to repay' }, ruling: 'mubah' },
+      { item: { ar: 'الاقتراض بلا حاجة', fr: 'Emprunter sans besoin', en: 'Borrowing without need' }, ruling: 'makruh' },
+      { item: { ar: 'الاقتراض مع علم عدم السداد', fr: 'Emprunter sachant ne pas pouvoir rembourser', en: 'Borrowing knowing cannot repay' }, ruling: 'haram', notes: { ar: 'أكل أموال الناس بالباطل', fr: 'Dévorer les biens d\'autrui', en: 'Consuming others\' wealth wrongfully' } }
+    ]
+  },
+
+  'qard-pillars': {
+    type: 'tree',
+    title: { ar: 'أركان القرض', fr: 'Piliers du prêt', en: 'Pillars of Loan' },
+    branches: [
+      { label: { ar: 'المُقرِض', fr: 'Prêteur', en: 'Lender' }, description: { ar: 'أهل للتبرع، مختار', fr: 'Apte à donner, consentant', en: 'Capable of giving, willing' }, variant: 'success' },
+      { label: { ar: 'المقترض', fr: 'Emprunteur', en: 'Borrower' }, description: { ar: 'أهل للالتزام، يقبل', fr: 'Apte à s\'engager, accepte', en: 'Capable of commitment, accepts' }, variant: 'success' },
+      { label: { ar: 'المال', fr: 'Bien', en: 'Money' }, description: { ar: 'مال مباح، معلوم', fr: 'Bien licite, connu', en: 'Lawful, known amount' }, variant: 'success' },
+      { label: { ar: 'الصيغة', fr: 'Formule', en: 'Formula' }, description: { ar: 'إيجاب وقبول', fr: 'Offre et acceptation', en: 'Offer and acceptance' }, variant: 'default' }
+    ]
+  },
+
+  'qard-lender-conditions': {
+    type: 'ruling',
+    title: { ar: 'شروط المُقرِض', fr: 'Conditions du prêteur', en: 'Lender Conditions' },
+    rulingType: 'conditions',
+    numbered: true,
+    items: [
+      { text: { ar: 'أن يكون أهلاً للتبرع', fr: 'Être apte à donner', en: 'Being capable of giving' }, detail: { ar: 'مالك للمال، بالغ عاقل رشيد', fr: 'Propriétaire, majeur, sain d\'esprit', en: 'Owner, adult, sane, mature' } },
+      { text: { ar: 'أن يكون مختاراً', fr: 'Être consentant', en: 'Being willing' }, detail: { ar: 'غير مُكرَه، لا يصح إقراض المُكرَه', fr: 'Non contraint', en: 'Not coerced' } }
+    ]
+  },
+
+  'qard-money-conditions': {
+    type: 'ruling',
+    title: { ar: 'شروط المال المقترَض', fr: 'Conditions du bien emprunté', en: 'Borrowed Money Conditions' },
+    rulingType: 'conditions',
+    numbered: true,
+    items: [
+      { text: { ar: 'أن يكون مالاً مباحاً', fr: 'Être un bien licite', en: 'Be lawful property' }, detail: { ar: '✗ لا يجوز إقراض الخمر أو الخنزير', fr: '✗ Pas d\'alcool ni porc', en: '✗ No alcohol or pork' } },
+      { text: { ar: 'أن يكون معلوماً قدراً وصفة', fr: 'Être connu en quantité et qualité', en: 'Be known in quantity and quality' }, detail: { ar: 'مثال: "أُقرضك 10,000 ريال"', fr: 'Ex: "Je te prête 10 000 riyals"', en: 'Ex: "I lend you 10,000 riyals"' } },
+      { text: { ar: 'أن يكون مما له مثل (المثليات)', fr: 'Être fongible', en: 'Be fungible' }, detail: { ar: 'النقود، الحبوب، المصنوعات المتماثلة', fr: 'Argent, grains, produits identiques', en: 'Money, grains, identical products' } }
+    ]
+  },
+
+  'qard-repayment-timing': {
+    type: 'summary',
+    title: { ar: 'وقت السداد', fr: 'Délai de remboursement', en: 'Repayment Timing' },
+    rows: [
+      { item: { ar: 'القرض مؤجل (بأجل معلوم)', fr: 'Prêt à terme (délai connu)', en: 'Term loan (known deadline)' }, ruling: 'halal', notes: { ar: 'يجب السداد عند حلول الأجل', fr: 'Rembourser à échéance', en: 'Repay at due date' } },
+      { item: { ar: 'القرض حالّ (غير مؤجل)', fr: 'Prêt immédiat (sans délai)', en: 'Immediate loan (no term)' }, ruling: 'halal', notes: { ar: 'يجب السداد عند الطلب', fr: 'Rembourser sur demande', en: 'Repay on demand' } },
+      { item: { ar: 'لم يُحدد أجل', fr: 'Délai non spécifié', en: 'Unspecified term' }, ruling: 'mubah', notes: { ar: 'يُرجع للعرف', fr: 'Selon l\'usage', en: 'According to custom' } }
+    ]
+  },
+
+  'qard-surplus-rules': {
+    type: 'comparison',
+    title: { ar: 'الزيادة في السداد', fr: 'Surplus au remboursement', en: 'Surplus in Repayment' },
+    columns: [
+      { title: { ar: '❌ زيادة مشروطة = ربا', fr: '❌ Surplus conditionné = usure', en: '❌ Conditional surplus = usury' }, variant: 'negative', items: [
+        { ar: '"أُقرضك 1000 على أن ترد 1100"', fr: '"Je te prête 1000 contre 1100"', en: '"I lend 1000 for 1100"' },
+        { ar: 'كل قرض جرَّ نفعاً فهو ربا', fr: 'Tout prêt à profit est usure', en: 'Any loan with profit is usury' }
+      ]},
+      { title: { ar: '✅ زيادة تطوعية = حُسن القضاء', fr: '✅ Surplus volontaire = bon remboursement', en: '✅ Voluntary surplus = good repayment' }, variant: 'positive', items: [
+        { ar: '"خذ هذا زيادة على ما لك"', fr: '"Prends ce surplus volontairement"', en: '"Take this extra voluntarily"' },
+        { ar: 'إن خياركم أحسنكم قضاء', fr: 'Les meilleurs d\'entre vous sont les meilleurs payeurs', en: 'The best of you are the best in repaying' }
+      ]}
+    ]
+  },
+
+  'qard-forbidden-benefits': {
+    type: 'ruling',
+    title: { ar: 'صور الانتفاع المحرم من القرض', fr: 'Formes d\'avantages interdits du prêt', en: 'Forbidden Loan Benefits' },
+    rulingType: 'prohibitions',
+    numbered: true,
+    items: [
+      { text: { ar: 'الزيادة المشروطة في المال', fr: 'Surplus conditionné', en: 'Conditional surplus' }, detail: { ar: '"أُقرضك ألفاً على أن ترد ألفاً ومائة"', fr: '"Prête 1000 contre 1100"', en: '"Lend 1000 for 1100"' } },
+      { text: { ar: 'الانتفاع بالعين المملوكة للمقترض', fr: 'Profiter des biens de l\'emprunteur', en: 'Using borrower\'s property' }, detail: { ar: '"أُقرضك على أن تُسكنني بيتك"', fr: '"Prête si tu m\'héberges"', en: '"Lend if you house me"' } },
+      { text: { ar: 'الهدية المشروطة', fr: 'Cadeau conditionné', en: 'Conditional gift' }, detail: { ar: '"أُقرضك على أن تهديني"', fr: '"Prête si tu m\'offres un cadeau"', en: '"Lend if you gift me"' } },
+      { text: { ar: 'الخدمة المشروطة', fr: 'Service conditionné', en: 'Conditional service' }, detail: { ar: '"أُقرضك على أن تعمل عندي أسبوعاً"', fr: '"Prête si tu travailles pour moi"', en: '"Lend if you work for me"' } }
+    ]
+  },
+
+  'qard-allowed-benefits': {
+    type: 'ruling',
+    title: { ar: 'ما يجوز في القرض', fr: 'Ce qui est permis dans le prêt', en: 'What Is Allowed in Loans' },
+    rulingType: 'conditions',
+    items: [
+      { text: { ar: 'الزيادة غير المشروطة عند السداد', fr: 'Surplus non conditionné au remboursement', en: 'Unconditional surplus at repayment' }, detail: { ar: 'حُسن القضاء', fr: 'Bon remboursement', en: 'Good repayment' } },
+      { text: { ar: 'الهدية غير المشروطة من المقترض', fr: 'Cadeau non conditionné de l\'emprunteur', en: 'Unconditional gift from borrower' }, detail: { ar: 'إذا لم تكن لأجل القرض', fr: 'Si pas lié au prêt', en: 'If not for the loan' } },
+      { text: { ar: 'رد أجود مما اقترض بلا شرط', fr: 'Rendre mieux sans condition', en: 'Returning better without condition' } }
+    ]
+  },
+
+  'rahn-contract': {
+    type: 'flow',
+    title: { ar: 'عقد الرهن', fr: 'Contrat de gage', en: 'Pledge Contract' },
+    layout: 'horizontal',
+    steps: [
+      { title: { ar: 'الراهن (المدين)', fr: 'Débiteur', en: 'Debtor' }, description: { ar: 'يقدم العين المرهونة', fr: 'Fournit le gage', en: 'Provides pledge' } },
+      { title: { ar: '🏠 العين المرهونة', fr: '🏠 Gage', en: '🏠 Pledge' }, description: { ar: 'ضمان', fr: 'Garantie', en: 'Collateral' }, variant: 'warning' },
+      { title: { ar: 'المرتهن (الدائن)', fr: 'Créancier', en: 'Creditor' }, description: { ar: 'يحفظها حتى السداد', fr: 'La garde jusqu\'au remboursement', en: 'Keeps until repayment' } }
+    ]
+  },
+
+  'rahn-pillars': {
+    type: 'tree',
+    title: { ar: 'أركان الرهن', fr: 'Piliers du gage', en: 'Pillars of Pledge' },
+    branches: [
+      { label: { ar: 'الراهن (المدين)', fr: 'Débiteur', en: 'Debtor' }, description: { ar: 'أهل تبرع، مالك أو مأذون', fr: 'Apte à donner, propriétaire ou autorisé', en: 'Capable of giving, owner or authorized' }, variant: 'success' },
+      { label: { ar: 'المرتهن (الدائن)', fr: 'Créancier', en: 'Creditor' }, description: { ar: 'صاحب الدين', fr: 'Détenteur de la dette', en: 'Debt holder' }, variant: 'success' },
+      { label: { ar: 'المرهون (العين)', fr: 'Gage (bien)', en: 'Pledge (item)' }, description: { ar: 'يصح بيعه، معين معلوم، مقدور على تسليمه', fr: 'Vendable, déterminé, livrable', en: 'Sellable, specified, deliverable' }, variant: 'success' },
+      { label: { ar: 'المرهون به + الصيغة', fr: 'Dette + Formule', en: 'Debt + Formula' }, description: { ar: 'الدين + إيجاب وقبول', fr: 'Dette + offre et acceptation', en: 'Debt + offer and acceptance' }, variant: 'default' }
+    ]
+  },
+
+  'rahn-pledged-conditions': {
+    type: 'ruling',
+    title: { ar: 'شروط العين المرهونة', fr: 'Conditions du bien gagé', en: 'Pledged Item Conditions' },
+    rulingType: 'conditions',
+    numbered: true,
+    items: [
+      { text: { ar: 'أن يكون مالاً يصح بيعه', fr: 'Être un bien vendable', en: 'Be sellable property' }, detail: { ar: '✅ سيارة، منزل، ذهب، أسهم | ❌ خمر، خنزير، مال مسروق', fr: '✅ Voiture, maison, or | ❌ Alcool, porc, vol', en: '✅ Car, house, gold | ❌ Alcohol, pork, stolen' } },
+      { text: { ar: 'أن يكون معيناً معلوماً', fr: 'Être déterminé et connu', en: 'Be specified and known' }, detail: { ar: '✅ "هذه السيارة" | ❌ "إحدى سياراتي" (مجهول)', fr: '✅ "Cette voiture" | ❌ "Une de mes voitures"', en: '✅ "This car" | ❌ "One of my cars"' } },
+      { text: { ar: 'أن يكون مقدوراً على تسليمه', fr: 'Pouvoir être livré', en: 'Be deliverable' }, detail: { ar: '❌ رهن طائر في الهواء، مال غائب لا يُعرف مكانه', fr: '❌ Oiseau en vol, bien disparu', en: '❌ Bird in flight, missing property' } }
+    ]
+  },
+
+  'rahn-binding': {
+    type: 'summary',
+    title: { ar: 'لزوم عقد الرهن', fr: 'Force contraignante du gage', en: 'Binding Nature of Pledge' },
+    rows: [
+      { item: { ar: 'الراهن (المدين)', fr: 'Débiteur', en: 'Debtor' }, ruling: 'halal', notes: { ar: 'لازم في حقه، لا يسترد الرهن حتى يسدد', fr: 'Contraignant, ne récupère le gage qu\'après remboursement', en: 'Binding, cannot retrieve pledge until repayment' } },
+      { item: { ar: 'المرتهن (الدائن)', fr: 'Créancier', en: 'Creditor' }, ruling: 'mubah', notes: { ar: 'جائز، له فسخه متى شاء', fr: 'Peut annuler quand il veut', en: 'Can cancel anytime' } }
+    ]
+  },
+
+  'rahn-disposal': {
+    type: 'comparison',
+    title: { ar: 'التصرف في العين المرهونة', fr: 'Disposition du bien gagé', en: 'Disposal of Pledged Item' },
+    columns: [
+      { title: { ar: 'الراهن (المالك)', fr: 'Débiteur (propriétaire)', en: 'Debtor (owner)' }, variant: 'neutral', items: [
+        { ar: 'البيع: ❌ إلا بإذن', fr: 'Vente: ❌ sauf autorisation', en: 'Sale: ❌ except with permission' },
+        { ar: 'الإجارة: ❌ إلا بإذن', fr: 'Location: ❌ sauf autorisation', en: 'Rental: ❌ except with permission' },
+        { ar: 'الانتفاع: ✅ بما لا يضر', fr: 'Usage: ✅ sans nuire', en: 'Use: ✅ if no harm' }
+      ]},
+      { title: { ar: 'المرتهن (الحافظ)', fr: 'Créancier (gardien)', en: 'Creditor (keeper)' }, variant: 'negative', items: [
+        { ar: 'البيع: ❌ لا يجوز مطلقاً', fr: 'Vente: ❌ jamais', en: 'Sale: ❌ never' },
+        { ar: 'الإجارة: ❌ لا يجوز مطلقاً', fr: 'Location: ❌ jamais', en: 'Rental: ❌ never' },
+        { ar: 'الانتفاع: ❌ إلا بإذن', fr: 'Usage: ❌ sauf autorisation', en: 'Use: ❌ except with permission' }
+      ]}
+    ]
+  },
+
+  'rahn-mortgagee-use': {
+    type: 'summary',
+    title: { ar: 'هل يجوز للمرتهن الانتفاع بالرهن؟', fr: 'Le créancier peut-il utiliser le gage?', en: 'Can Creditor Use the Pledge?' },
+    rows: [
+      { item: { ar: 'بدون إذن الراهن', fr: 'Sans autorisation du débiteur', en: 'Without debtor permission' }, ruling: 'haram', notes: { ar: 'حرام قطعاً', fr: 'Absolument interdit', en: 'Absolutely forbidden' } },
+      { item: { ar: 'بإذن الراهن مجاناً', fr: 'Avec autorisation gratuite', en: 'With free permission' }, ruling: 'haram', notes: { ar: 'قرض جر نفعاً', fr: 'Prêt à profit = usure', en: 'Loan with profit = usury' } },
+      { item: { ar: 'المركوب والمحلوب فقط', fr: 'Monture et laitière seulement', en: 'Riding and milking animals only' }, ruling: 'halal', notes: { ar: 'بقدر النفقة مقابل إطعامها', fr: 'À hauteur des frais d\'entretien', en: 'To extent of feeding costs' } }
+    ]
+  },
+
+  'rahn-destruction': {
+    type: 'summary',
+    title: { ar: 'من يتحمل خسارة هلاك الرهن؟', fr: 'Qui supporte la perte du gage?', en: 'Who Bears Pledge Loss?' },
+    rows: [
+      { item: { ar: 'هلك بتعدي المرتهن (استعمله فتلف)', fr: 'Détruit par abus du créancier', en: 'Destroyed by creditor misuse' }, ruling: 'haram', notes: { ar: 'يضمن المرتهن', fr: 'Le créancier est responsable', en: 'Creditor is liable' } },
+      { item: { ar: 'هلك بتفريط المرتهن (لم يحفظه فسُرق)', fr: 'Détruit par négligence du créancier', en: 'Destroyed by creditor negligence' }, ruling: 'haram', notes: { ar: 'يضمن المرتهن', fr: 'Le créancier est responsable', en: 'Creditor is liable' } },
+      { item: { ar: 'هلك بلا تعدٍّ ولا تفريط (حريق، كارثة)', fr: 'Détruit sans faute (incendie, catastrophe)', en: 'Destroyed without fault (fire, disaster)' }, ruling: 'mubah', notes: { ar: 'يهلك على الراهن (لأنه المالك)', fr: 'Le débiteur supporte (propriétaire)', en: 'Debtor bears loss (owner)' } }
+    ]
+  },
+
+  'qard-rahn-summary': {
+    type: 'summary',
+    title: { ar: '🎯 ملخص: القرض والرهن', fr: '🎯 Résumé: Prêt et Gage', en: '🎯 Summary: Loan and Pledge' },
+    rows: [
+      { item: { ar: 'القرض الحسن = دفع مال يُرد بدله', fr: 'Prêt bienveillant = argent remboursable', en: 'Benevolent loan = repayable money' }, ruling: 'halal' },
+      { item: { ar: 'كل قرض جرَّ نفعاً = ربا', fr: 'Tout prêt à profit = usure', en: 'Any loan with profit = usury' }, ruling: 'haram' },
+      { item: { ar: 'الزيادة التطوعية عند السداد = حُسن القضاء', fr: 'Surplus volontaire = bon remboursement', en: 'Voluntary surplus = good repayment' }, ruling: 'mustahab' },
+      { item: { ar: 'الرهن = توثيق دين بعين', fr: 'Gage = garantie par un bien', en: 'Pledge = securing debt with property' }, ruling: 'halal' },
+      { item: { ar: 'المرهون ملك الراهن وإن كان عند المرتهن', fr: 'Le gage reste propriété du débiteur', en: 'Pledge remains debtor\'s property' }, ruling: 'halal' },
+      { item: { ar: 'لا يجوز للمرتهن الانتفاع بالرهن', fr: 'Le créancier ne peut utiliser le gage', en: 'Creditor cannot use the pledge' }, ruling: 'haram' }
+    ]
+  },
+
+  // ─────────────────────────────────────────────────────────
   // FIQH MUAMALAT - Conditions de vente valide
   // ─────────────────────────────────────────────────────────
   'bay-conditions': {
