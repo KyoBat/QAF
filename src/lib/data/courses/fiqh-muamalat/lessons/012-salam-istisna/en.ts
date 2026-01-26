@@ -196,112 +196,85 @@ Yes, this is what we are accustomed to doing. But... *(looking around hesitantly
 
 ### Salam in Agricultural Products
 
-\`\`\`
-┌─────────────────────────────────────────────────────────────┐
-│               Contemporary Agricultural Salam               │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│   📅 Today                          📅 After Harvest        │
-│   ════════                          ══════════════════      │
-│                                                             │
-│   ┌─────────┐                   ┌─────────┐                │
-│   │ Buyer   │ ──── 💰 ────►    │ Farmer  │                │
-│   └─────────┘   Full price      └─────────┘                │
-│                                                             │
-│                 ◄──── 🌾 ────                               │
-│                   The harvest                               │
-│                                                             │
-│   ════════════════════════════════════════════════════     │
-│   Required conditions:                                      │
-│   ✓ Specify type: Egyptian wheat first quality             │
-│   ✓ Specify quantity: 100 tons                             │
-│   ✓ Specify quality: humidity < 14%                        │
-│   ✓ Specify date: August 1st                               │
-│   ✓ Receive price: immediately or within 3 days            │
-└─────────────────────────────────────────────────────────────┘
-\`\`\`
+<div class="case-box">
+
+**🌾 Contemporary Agricultural Salam**
+
+**📅 Today:** The buyer pays the price in full to the farmer
+
+**📅 After Harvest:** The farmer delivers the harvest
+
+**Required conditions:**
+- ✓ Specify type: Egyptian wheat first quality
+- ✓ Specify quantity: 100 tons
+- ✓ Specify quality: humidity < 14%
+- ✓ Specify date: August 1st
+- ✓ Receive price: immediately or within 3 days
+
+</div>
 
 ### Istisna' in Real Estate
 
-\`\`\`
-┌─────────────────────────────────────────────────────────────┐
-│            Real Estate Istisna' (Off-Plan Sale)             │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│   Buyer ──────► Developer ──────► Contractor                │
-│     │                │                    │                 │
-│     │                │                    │                 │
-│     ▼                ▼                    ▼                 │
-│   Pays           Supervises            Builds               │
-│   the price      and guarantees      per specs              │
-│   (installments)                                            │
-│                                                             │
-│   ════════════════════════════════════════════════════     │
-│                                                             │
-│   📋 Required:                                              │
-│   ────────────                                              │
-│   1. Detailed plans and drawings                            │
-│   2. Schedule of stages and deliveries                      │
-│   3. Quality guarantees                                     │
-│   4. Penalty clauses for delay                              │
-│                                                             │
-│   💰 Payment method:                                        │
-│   ──────────────────                                        │
-│   [20%]────[30%]────[30%]────[20%]                         │
-│   Contract Foundations Structure Delivery                   │
-└─────────────────────────────────────────────────────────────┘
-\`\`\`
+<div class="case-box">
+
+**🏗️ Real Estate Istisna' (Off-Plan Sale)**
+
+**Buyer** ←← **Developer** ←← **Contractor**
+- Buyer: Pays the price (installments)
+- Developer: Supervises and guarantees
+- Contractor: Builds per specs
+
+**📋 Required:**
+1. Detailed plans and drawings
+2. Schedule of stages and deliveries
+3. Quality guarantees
+4. Penalty clauses for delay
+
+**💰 Payment method:**
+20% Contract → 30% Foundations → 30% Structure → 20% Delivery
+
+</div>
 
 ### Istisna' in Industry
 
-\`\`\`
-┌─────────────────────────────────────────────────────────────┐
-│                   Industrial Istisna'                       │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│   Forms of industrial Istisna':                             │
-│   ═════════════════════════════                             │
-│                                                             │
-│   🏭 Ordering special machines or equipment                 │
-│   👔 Ordering custom-made clothes                           │
-│   🚗 Ordering customized vehicles                           │
-│   ✈️ Ordering aircraft or ships                             │
-│                                                             │
-│   Special rules:                                            │
-│   ═══════════════                                           │
-│   ✅ Installment payments permitted                         │
-│   ✅ Modifications by agreement permitted                   │
-│   ✅ Guarantee by manufacturer until delivery               │
-│   ✅ Client's right to refuse non-conforming products       │
-└─────────────────────────────────────────────────────────────┘
-\`\`\`
+<div class="case-box">
+
+**🏭 Industrial Istisna'**
+
+**Forms of industrial Istisna':**
+- 🏭 Ordering special machines or equipment
+- 👔 Ordering custom-made clothes
+- 🚗 Ordering customized vehicles
+- ✈️ Ordering aircraft or ships
+
+**Special rules:**
+- ✅ Installment payments permitted
+- ✅ Modifications by agreement permitted
+- ✅ Guarantee by manufacturer until delivery
+- ✅ Client's right to refuse non-conforming products
+
+</div>
 
 ---
 
 ### Role of Salam and Istisna' in Islamic Finance
 
-\`\`\`
-┌─────────────────────────────────────────────────────────────┐
-│       Salam and Istisna': Islamic Finance Tools            │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│   Benefits of Salam:           Benefits of Istisna':        │
-│   ══════════════════           ═════════════════════        │
-│                                                             │
-│   💰 Liquidity for producers   🏗️ Project financing         │
-│                                                             │
-│   ⚖️ Fair price for both       🎯 Customized products       │
-│                                                             │
-│   📦 Guaranteed availability   💳 Payment flexibility       │
-│                                                             │
-│   ════════════════════════════════════════════════════     │
-│   Islamic banks use these two contracts for:               │
-│   ─────────────────────────────────────────────────        │
-│   • Financing farmers (Salam)                              │
-│   • Financing construction (Istisna')                      │
-│   • Financing factories and equipment (Istisna')           │
-└─────────────────────────────────────────────────────────────┘
-\`\`\`
+<div class="quote-box">
+
+**Salam and Istisna': Islamic Finance Tools**
+
+| Benefits of Salam | Benefits of Istisna' |
+|---|---|
+| 💰 Liquidity for producers | 🏗️ Project financing |
+| ⚖️ Fair price for both | 🎯 Customized products |
+| 📦 Guaranteed availability | 💳 Payment flexibility |
+
+**Islamic banks use these two contracts for:**
+- Financing farmers (Salam)
+- Financing construction (Istisna')
+- Financing factories and equipment (Istisna')
+
+</div>
 
 ---
 
