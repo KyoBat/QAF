@@ -171,7 +171,7 @@ export const contentEn = `# 📜 Al-Qawa'id Al-Fiqhiyyah — The Five Major Lega
 
 | Type | Ruling |
 |------|--------|
-| 💀 Threat to life | Permits the forbidden |
+| ⚠️ Threat to life | Permits the forbidden |
 | 🏥 Severe illness | Permits concessions |
 | 🚗 Travel | Shortening, combining |
 | 🌍 General need | May permit what is originally prohibited |
@@ -291,7 +291,7 @@ export const contentEn = `# 📜 Al-Qawa'id Al-Fiqhiyyah — The Five Major Lega
 
 | Analysis | Application |
 |----------|-------------|
-| 💀 Life-threatening | Necessity present |
+| ⚠️ Life-threatening | Necessity present |
 | 🔄 Transformed material | Not eating pork |
 | ⚖️ Ruling | Permitted by necessity |
 

@@ -306,7 +306,7 @@ Quand 12 000 hommes se séparèrent de 'Ali, il décida d'envoyer **le plus gran
 
 ---
 
-## 💀 Partie 7 : L'Assassinat de 'Ali
+## ⚔️ Partie 7 : L'Assassinat de 'Ali
 
 ### Le Complot
 

@@ -271,7 +271,7 @@ He is **the Imam of Ahl al-Sunna wal-Jama'a**, the author of the great Musnad, a
 
 ---
 
-## 💀 Part 7: Death and Legacy
+## �️ Part 7: Death and Legacy
 
 ### His Illness
 

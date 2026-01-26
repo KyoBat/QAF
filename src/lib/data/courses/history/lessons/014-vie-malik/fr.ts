@@ -273,7 +273,7 @@ Il est **l'Imam de Dar al-Hijra** (la demeure de l'émigration), celui des quatr
 
 ---
 
-## 💀 Partie 7 : Mort et Héritage
+## �️ Partie 7 : Mort et Héritage
 
 ### Ses Derniers Jours
 

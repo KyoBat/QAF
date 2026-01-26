@@ -229,7 +229,7 @@ Il est **l'Imam al-A'zam** (le plus grand imam), chef des mujtahidun, et le prem
 
 ---
 
-## 💀 Partie 6 : Mort et Héritage
+## �️ Partie 6 : Mort et Héritage
 
 ### Sa Mort
 

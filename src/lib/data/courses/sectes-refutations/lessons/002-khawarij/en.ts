@@ -306,7 +306,7 @@ When 12,000 men broke away from 'Ali, he decided to send **the most knowledgeabl
 
 ---
 
-## 💀 Part 7: The Assassination of 'Ali
+## ⚔️ Part 7: The Assassination of 'Ali
 
 ### The Conspiracy
 

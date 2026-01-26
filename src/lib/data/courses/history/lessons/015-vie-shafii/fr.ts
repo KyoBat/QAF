@@ -286,7 +286,7 @@ Avant de chercher le fiqh, il voulut maîtriser la langue arabe.
 
 ---
 
-## 💀 Partie 8 : Mort et Héritage
+## �️ Partie 8 : Mort et Héritage
 
 ### Sa Maladie
 

@@ -253,7 +253,7 @@ Faith According to Ahl as-Sunnah
 
 ---
 
-## 💀 Part 6: The Danger of Murji'ism
+## ⚠️ Part 6: The Danger of Murji'ism
 
 ### 1. Minimizing the Importance of Actions
 

@@ -360,7 +360,7 @@ export const contentEn = `# 🔄 Al-Raj'ah — Taking Back the Wife
 | ⌛ 'Iddah ends | No raj'ah (need new contract) |
 | 3️⃣ Third divorce | No raj'ah (need tahlil) |
 | 💔 She dies during 'iddah | Marriage ends |
-| 💀 He dies during 'iddah | She inherits, becomes widow |
+| ⚰️ He dies during 'iddah | She inherits, becomes widow |
 
 ---
 
