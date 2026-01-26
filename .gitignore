@@ -36,6 +36,5 @@ yarn-error.log*
 next-env.d.ts
 .env.local
 
-# internal docs (social media, marketing)
-/docs/SOCIAL-MEDIA-POSTS.md
-/docs/MARKETING-KIT.md
+# internal docs (chartes, guides, marketing)
+/docs
