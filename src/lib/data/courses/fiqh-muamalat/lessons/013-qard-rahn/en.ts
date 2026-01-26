@@ -771,166 +771,108 @@ The Prophet ﷺ wanted matters to be clear: either a loan to be repaid, or a sal
 
 ### Case One: Loan for Marriage
 
-\`\`\`
-┌─────────────────────────────────────────────────────────────┐
-│  💍 Case: Lending to a brother for marriage                 │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  Question:                                                  │
-│  ══════════                                                 │
-│  My brother wants to get married but can't afford it.       │
-│  I want to lend him $50,000 to be repaid in 2 years.        │
-│  Is this permissible?                                       │
-│                                                             │
-│  Answer:                                                    │
-│  ══════════                                                 │
-│  ✅ Permissible and recommended — one of the best deeds     │
-│                                                             │
-│  ✓ Lending to one in need is recommended                   │
-│  ✓ Helping your brother marry is charity                   │
-│  ✓ No profit or extra is required                          │
-│                                                             │
-│  ⚠️ Note:                                                   │
-│  Don't stipulate any extra, and don't accept gifts          │
-│  because of the loan.                                       │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-\`\`\`
+<div class="case-box">
+
+**💍 Case: Lending to a brother for marriage**
+
+**Question:** My brother wants to get married but can't afford it. I want to lend him $50,000 to be repaid in 2 years. Is this permissible?
+
+**Answer:** ✅ **Permissible and recommended — one of the best deeds**
+
+- ✓ Lending to one in need is recommended
+- ✓ Helping your brother marry is charity
+- ✓ No profit or extra is required
+
+**⚠️ Note:** Don't stipulate any extra, and don't accept gifts because of the loan.
+
+</div>
 
 ---
 
 ### Case Two: Using the Pledged Car
 
-\`\`\`
-┌─────────────────────────────────────────────────────────────┐
-│  🚗 Case: Can I drive the pledged car?                      │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  Question:                                                  │
-│  ══════════                                                 │
-│  My friend wants a loan of $30,000.                         │
-│  I asked him to pledge his car until he repays.             │
-│  Can I drive the car?                                       │
-│                                                             │
-│  Answer:                                                    │
-│  ══════════                                                 │
-│  ❌ No, it is forbidden to drive the pledged car            │
-│                                                             │
-│  • The pledge is a trust with you                          │
-│  • Using the pledge = loan with benefit = Riba             │
-│  • Exception: animals are ridden and milked against        │
-│    their maintenance only                                   │
-│                                                             │
-│  ✅ Alternative:                                            │
-│  If the borrower allows you to drive it through a separate │
-│  rental contract (you pay him rent) ◄── that is            │
-│  permissible outside the pledge contract                    │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-\`\`\`
+<div class="case-box">
+
+**🚗 Case: Can I drive the pledged car?**
+
+**Question:** My friend wants a loan of $30,000. I asked him to pledge his car until he repays. Can I drive the car?
+
+**Answer:** ❌ **No, it is forbidden to drive the pledged car**
+
+- The pledge is a trust with you
+- Using the pledge = loan with benefit = Riba
+- Exception: animals are ridden and milked against their maintenance only
+
+**✅ Alternative:** If the borrower allows you to drive it through a separate rental contract (you pay him rent) ← that is permissible outside the pledge contract
+
+</div>
 
 ---
 
 ### Case Three: Islamic vs Conventional Financing
 
-\`\`\`
-┌─────────────────────────────────────────────────────────────┐
-│  🏠 Case: Difference between Islamic and usurious financing │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  Question:                                                  │
-│  ══════════                                                 │
-│  The Islamic bank finances buying a house through           │
-│  Murabaha, and the house remains as collateral until        │
-│  full payment. What's the difference from a usurious loan?  │
-│                                                             │
-│  Answer:                                                    │
-│  ══════════                                                 │
-│                                                             │
-│  ┌──────────────────────┬──────────────────────┐            │
-│  │ Islamic Financing    │   Usurious Loan      │            │
-│  ├──────────────────────┼──────────────────────┤            │
-│  │ The bank buys        │ The bank lends you   │            │
-│  │ then sells to you    │ money                │            │
-│  ├──────────────────────┼──────────────────────┤            │
-│  │ The price doesn't    │ Interest increases   │            │
-│  │ increase with delay  │ with delay           │            │
-│  ├──────────────────────┼──────────────────────┤            │
-│  │ Profit is known      │ Interest may vary    │            │
-│  │ from the start       │                      │            │
-│  └──────────────────────┴──────────────────────┘            │
-│                                                             │
-│  ✅ Permissible: Murabaha, Ijara Muntahiya Bittamlik        │
-│  ❌ Forbidden: Loan with interest                           │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-\`\`\`
+<div class="case-box">
+
+**🏠 Case: Difference between Islamic and usurious financing**
+
+**Question:** The Islamic bank finances buying a house through Murabaha, and the house remains as collateral until full payment. What's the difference from a usurious loan?
+
+| Islamic Financing | Usurious Loan |
+|---|---|
+| The bank buys then sells to you | The bank lends you money |
+| The price doesn't increase with delay | Interest increases with delay |
+| Profit is known from the start | Interest may vary |
+
+**✅ Permissible:** Murabaha, Ijara Muntahiya Bittamlik
+
+**❌ Forbidden:** Loan with interest
+
+</div>
 
 ---
 
 ### Case Four: Pledging Gold at the Jeweler
 
-\`\`\`
-┌─────────────────────────────────────────────────────────────┐
-│  💎 Case: Pledging gold for urgent cash                     │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  Question:                                                  │
-│  ══════════                                                 │
-│  I need urgent cash.                                        │
-│  Can I pledge my gold at the jeweler for money?             │
-│                                                             │
-│  Answer:                                                    │
-│  ══════════                                                 │
-│  ✅ Permissible under conditions:                           │
-│                                                             │
-│  1️⃣ Determine the gold's value on the day of pledge        │
-│  2️⃣ Set the pledge duration and loan amount                │
-│  3️⃣ No extra is stipulated upon repayment                  │
-│  4️⃣ If unable to repay: gold is sold at market price       │
-│     and the surplus is returned to the owner               │
-│                                                             │
-│  ⚠️ Beware:                                                 │
-│  Some gold shops charge "storage fees"                      │
-│  = actually usurious interest!                              │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-\`\`\`
+<div class="case-box">
+
+**💎 Case: Pledging gold for urgent cash**
+
+**Question:** I need urgent cash. Can I pledge my gold at the jeweler for money?
+
+**Answer:** ✅ **Permissible under conditions:**
+
+1. Determine the gold's value on the day of pledge
+2. Set the pledge duration and loan amount
+3. No extra is stipulated upon repayment
+4. If unable to repay: gold is sold at market price and the surplus is returned to the owner
+
+**⚠️ Beware:** Some gold shops charge "storage fees" = actually usurious interest!
+
+</div>
 
 ---
 
 ### Case Five: Quick Loan Apps
 
-\`\`\`
-┌─────────────────────────────────────────────────────────────┐
-│  📱 Case: Loan app on the phone                             │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  Question:                                                  │
-│  ══════════                                                 │
-│  A mobile app offers instant loans.                         │
-│  It lends me $1,000 and I repay $1,100 after a month.       │
-│  What is the ruling?                                        │
-│                                                             │
-│  Answer:                                                    │
-│  ══════════                                                 │
-│  ❌ Absolutely forbidden — Clear usury                      │
-│                                                             │
-│  • Stipulated extra = Riba Nassia                          │
-│  • No difference between 10% or 1%, all is usury           │
-│  • "Usury, even if small, is grave"                        │
-│                                                             │
-│  ┌─────────────────────────────────────────────────────┐    │
-│  │  ✅ The halal alternative:                          │    │
-│  ├─────────────────────────────────────────────────────┤    │
-│  │  • Interest-free loan from family and friends       │    │
-│  │  • Charitable organizations                         │    │
-│  │  • Interest-free loan funds at mosques              │    │
-│  │  • Islamic financing banks (with their conditions)  │    │
-│  └─────────────────────────────────────────────────────┘    │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-\`\`\`
+<div class="case-box">
+
+**📱 Case: Loan app on the phone**
+
+**Question:** A mobile app offers instant loans. It lends me $1,000 and I repay $1,100 after a month. What is the ruling?
+
+**Answer:** ❌ **Absolutely forbidden — Clear usury**
+
+- Stipulated extra = Riba Nassia
+- No difference between 10% or 1%, all is usury
+- "Usury, even if small, is grave"
+
+**✅ The halal alternative:**
+- Interest-free loan from family and friends
+- Charitable organizations
+- Interest-free loan funds at mosques
+- Islamic financing banks (with their conditions)
+
+</div>
 
 ---
 
@@ -962,47 +904,7 @@ The Prophet ﷺ died with his armor pledged, although he could have avoided borr
 
 ## Lesson Summary
 
-\`\`\`
-┌─────────────────────────────────────────────────────────────┐
-│                     Lesson Summary                          │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│   📌 The Loan (Qard Hassan):                                │
-│   ══════════════════════════                                │
-│   • Giving property for its equivalent to be returned       │
-│   • Among the best deeds (2 times = 1 charity)              │
-│   • Every loan generating benefit = Riba                    │
-│                                                             │
-│   📌 The Pledge (Rahn):                                     │
-│   ══════════════════════                                    │
-│   • Securing a debt with property                           │
-│   • The item remains the pledger's property                 │
-│   • The creditor cannot use the pledge                      │
-│   • Exception: rideable/milkable animal for maintenance     │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-\`\`\`
-
-\`\`\`
-┌─────────────────────────────────────────────────────────────┐
-│                    Important Rules                          │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│   1️⃣ Every loan generating a benefit is usury              │
-│                                                             │
-│   2️⃣ Voluntary extra upon repayment = good conduct         │
-│      (recommended)                                          │
-│                                                             │
-│   3️⃣ The pledge is a trust with the creditor               │
-│                                                             │
-│   4️⃣ The pledged item belongs to the pledger even if       │
-│      with the creditor                                      │
-│                                                             │
-│   5️⃣ If the debt comes due without payment: the pledge     │
-│      is sold at market price, debt is recovered, and        │
-│      the remainder goes to the pledger                      │
-└─────────────────────────────────────────────────────────────┘
-\`\`\`
+<!-- DIAGRAM:qard-rahn-summary -->
 
 ---
 

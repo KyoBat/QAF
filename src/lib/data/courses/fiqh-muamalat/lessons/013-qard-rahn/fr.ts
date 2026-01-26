@@ -371,31 +371,108 @@ Le Prophète ﷺ voulait que les choses soient claires : soit un prêt à rembou
 
 ### Cas n°1 : Le Prêt pour le Mariage
 
-<!-- DIAGRAM:case-marriage-loan -->
+<div class="case-box">
+
+**💍 Cas : Prêter à son frère pour le mariage**
+
+**Question :** Mon frère veut se marier mais n'en a pas les moyens. Je veux lui prêter 50 000 riyals à rembourser dans 2 ans. Est-ce permis ?
+
+**Réponse :** ✅ **Permis et recommandé — parmi les meilleures œuvres**
+
+- ✓ Le prêt à celui qui est dans le besoin est recommandé
+- ✓ Aider son frère à se marier est une aumône
+- ✓ Aucun profit ni surplus n'est exigé
+
+**⚠️ Attention :** Ne stipule aucun surplus, et n'accepte pas de cadeau à cause du prêt.
+
+</div>
 
 ---
 
 ### Cas n°2 : Utiliser la Voiture en Gage
 
-<!-- DIAGRAM:case-car-pledge -->
+<div class="case-box">
+
+**🚗 Cas : Puis-je conduire la voiture mise en gage ?**
+
+**Question :** Mon ami veut un prêt de 30 000 riyals. Je lui ai demandé de mettre sa voiture en gage jusqu'au remboursement. Puis-je conduire la voiture ?
+
+**Réponse :** ❌ **Non, il est interdit de conduire la voiture mise en gage**
+
+- Le gage est un dépôt de confiance chez toi
+- Utiliser le gage = prêt avec bénéfice = Riba
+- Exception : les animaux peuvent être montés et traits en échange de leur entretien uniquement
+
+**✅ Alternative :** Si l'emprunteur t'autorise à la conduire via un contrat de location séparé (tu lui paies un loyer) ← c'est permis en dehors du contrat de gage
+
+</div>
 
 ---
 
 ### Cas n°3 : Financement Islamique vs Conventionnel
 
-<!-- DIAGRAM:case-islamic-finance -->
+<div class="case-box">
+
+**🏠 Cas : La différence entre le financement islamique et usuraire**
+
+**Question :** La banque islamique finance l'achat d'une maison par Murabaha, et la maison reste en gage jusqu'au paiement complet. Quelle est la différence avec un prêt usuraire ?
+
+| Financement Islamique | Prêt Usuraire |
+|---|---|
+| La banque achète puis te revend | La banque te prête de l'argent |
+| Le prix n'augmente pas avec le retard | L'intérêt augmente avec le retard |
+| Le profit est connu dès le départ | L'intérêt peut varier |
+
+**✅ Licite :** Murabaha, Ijara Muntahiya Bittamlik
+
+**❌ Interdit :** Prêt avec intérêt
+
+</div>
 
 ---
 
 ### Cas n°4 : Gage d'Or chez le Bijoutier
 
-<!-- DIAGRAM:case-gold-pledge -->
+<div class="case-box">
+
+**💎 Cas : Mettre son or en gage pour une liquidité urgente**
+
+**Question :** J'ai besoin de liquidités urgentes. Puis-je mettre mon or en gage chez le bijoutier en échange d'argent ?
+
+**Réponse :** ✅ **Permis sous conditions :**
+
+1. Déterminer la valeur de l'or au moment du gage (pour documentation)
+2. Fixer la durée du gage et le montant du prêt
+3. Ne pas stipuler de surplus lors du remboursement
+4. En cas d'incapacité de remboursement : l'or est vendu au prix du marché et l'excédent est rendu à son propriétaire
+
+**⚠️ Attention :** Certaines boutiques d'or facturent des « frais de stockage » = en réalité des intérêts usuraires !
+
+</div>
 
 ---
 
 ### Cas n°5 : Applications de Prêts Rapides
 
-<!-- DIAGRAM:case-loan-apps -->
+<div class="case-box">
+
+**📱 Cas : Application de prêts sur téléphone**
+
+**Question :** Une application sur téléphone propose des prêts instantanés. Elle me prête 1000 riyals et je rends 1100 après un mois. Quel est le jugement ?
+
+**Réponse :** ❌ **Absolument interdit — Usure manifeste**
+
+- Le surplus stipulé = Riba Nassia
+- Pas de différence entre 10% ou 1%, tout est usure
+- « L'usure, même minime, est grave »
+
+**✅ L'alternative licite :**
+- Prêt sans intérêt de la famille et des amis
+- Associations caritatives
+- Fonds de prêts sans intérêt dans les mosquées
+- Banques de financement islamique (avec leurs conditions)
+
+</div>
 
 ---
 

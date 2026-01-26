@@ -356,31 +356,7 @@ A company whose capital is divided into **shares of equal value**, tradable, and
 
 ### Distribution of Profits and Losses
 
-\`\`\`
-┌─────────────────────────────────────────────────┐
-│         The Golden Rule of Partnerships        │
-├─────────────────────────────────────────────────┤
-│                                                 │
-│   "Profit according to agreement, and loss     │
-│    proportional to capital"                     │
-│                                                 │
-│   ┌─────────────────────────────────────┐      │
-│   │                                     │      │
-│   │   Profit ──► According to agreement│      │
-│   │              (disparity allowed)    │      │
-│   │                                     │      │
-│   │   Loss ──► Proportion of capital   │      │
-│   │           (always by percentage)   │      │
-│   │                                     │      │
-│   └─────────────────────────────────────┘      │
-│                                                 │
-│   Example: two partners (60% - 40% capital)    │
-│   ────────────────────────────────────          │
-│   Agreement: profit 50% - 50% ──► Valid        │
-│   Loss: will be 60% - 40% ──► Mandatory        │
-│                                                 │
-└─────────────────────────────────────────────────┘
-\`\`\`
+<!-- DIAGRAM:sharikah-profit-loss-rule -->
 
 ### Causes of Partnership Dissolution
 
@@ -410,25 +386,7 @@ A company whose capital is divided into **shares of equal value**, tradable, and
 
 ### Lessons Learned
 
-\`\`\`
-┌─────────────────────────────────────────────────┐
-│           Lessons from the Badr Partnership    │
-├─────────────────────────────────────────────────┤
-│                                                 │
-│  1️⃣ Shirkat al-Abdân is permissible             │
-│     Partnership by labor without capital        │
-│                                                 │
-│  2️⃣ Partnership is made before work             │
-│     You cannot share another's gain afterward   │
-│                                                 │
-│  3️⃣ Fairness between partners                   │
-│     Despite disparity in results                │
-│                                                 │
-│  4️⃣ Trust is the foundation                     │
-│     They were friends before being partners     │
-│                                                 │
-└─────────────────────────────────────────────────┘
-\`\`\`
+<!-- DIAGRAM:sharikah-badr-lessons -->
 
 ---
 
@@ -438,17 +396,7 @@ A company whose capital is divided into **shares of equal value**, tradable, and
 
 **Question:** I'm a developer and my friend is a marketer. We want to create a tech company. I'll build the app and he'll bring clients. We don't have capital. How do we split the shares?
 
-**Analysis:**
-\`\`\`
-┌─────────────────────────────────────────┐
-│          Shirkat Abdân                  │
-│    (partnership through labor)         │
-├─────────────────────────────────────────┤
-│ Developer: programming work            │
-│ Marketer: marketing work               │
-│ Capital: none                           │
-└─────────────────────────────────────────┘
-\`\`\`
+**Analysis:** Shirkat Abdân (partnership through labor) — Developer: programming work, Marketer: marketing work, Capital: none.
 
 **Answer:** ✅ **Shirkat Abdân is permissible**
 
@@ -464,16 +412,7 @@ A company whose capital is divided into **shares of equal value**, tradable, and
 
 **Question:** Aramco has a permissible main activity (oil), but places its surpluses in interest-based banks. Can we buy its shares?
 
-**Analysis:**
-\`\`\`
-┌─────────────────────────────────────────┐
-│       Mixed Company                     │
-├─────────────────────────────────────────┤
-│ Main activity: oil (halal) ✅           │
-│ Banking transactions: ribâ (haram) ❌   │
-│ Proportion: very minor                  │
-└─────────────────────────────────────────┘
-\`\`\`
+**Analysis:** Mixed Company — Main activity: oil (halal) ✅, Banking transactions: ribâ (haram) ❌, Proportion: very minor.
 
 **Answer:** ⚠️ **Scholars disagree:**
 
@@ -516,16 +455,7 @@ A company whose capital is divided into **shares of equal value**, tradable, and
 
 How are profits and losses distributed?
 
-**Analysis:**
-\`\`\`
-┌─────────────────────────────────────────┐
-│    Shirkat 'Inân + labor (mixed)       │
-├─────────────────────────────────────────┤
-│ Partner 1: 500,000 (capital)           │
-│ Partner 2: 300,000 (capital)           │
-│ Partner 3: labor (management)          │
-└─────────────────────────────────────────┘
-\`\`\`
+**Analysis:** Shirkat 'Inân + labor (mixed) — Partner 1: 500,000 (capital), Partner 2: 300,000 (capital), Partner 3: labor (management).
 
 **Answer:**
 
@@ -559,28 +489,13 @@ How are profits and losses distributed?
 
 **Answer — Practical steps:**
 
-\`\`\`
-┌─────────────────────────────────────────┐
-│     Dealing with partner's betrayal    │
-├─────────────────────────────────────────┤
-│                                         │
-│  1️⃣ Document the evidence              │
-│     Records, receipts, witnesses       │
-│              │                          │
-│              ▼                          │
-│  2️⃣ Confront him and demand your due  │
-│     With wisdom and kindness first     │
-│              │                          │
-│              ▼                          │
-│  3️⃣ If he doesn't respond: courts     │
-│     Commercial courts                   │
-│              │                          │
-│              ▼                          │
-│  4️⃣ Dissolution + Guarantee           │
-│     Claim what he destroyed or stole   │
-│                                         │
-└─────────────────────────────────────────┘
-\`\`\`
+1️⃣ **Document the evidence** — Records, receipts, witnesses
+
+2️⃣ **Confront him and demand your due** — With wisdom and kindness first
+
+3️⃣ **If he doesn't respond: courts** — Commercial courts
+
+4️⃣ **Dissolution + Guarantee** — Claim what he destroyed or stole
 
 **Remember:** The betrayer is liable, and the blessing departs!
 
@@ -600,26 +515,13 @@ Allah the Most High is with the partners... He protects and blesses them... **as
 
 ### Reflect on Your Partnerships:
 
-\`\`\`
-┌─────────────────────────────────────────────────┐
-│              Questions for Reflection           │
-├─────────────────────────────────────────────────┤
-│                                                 │
-│  🔹 Are you as faithful with your partner's    │
-│     money as with your own?                    │
-│                                                 │
-│  🔹 Do you document agreements in writing      │
-│     to preserve rights and avoid conflicts?    │
-│                                                 │
-│  🔹 In case of disagreement, do you resort    │
-│     to arbitration or take your due by        │
-│     yourself?                                  │
-│                                                 │
-│  🔹 Before partnership, do you inquire about  │
-│     the partner's character and faithfulness? │
-│                                                 │
-└─────────────────────────────────────────────────┘
-\`\`\`
+🔹 Are you as faithful with your partner's money as with your own?
+
+🔹 Do you document agreements in writing to preserve rights and avoid conflicts?
+
+🔹 In case of disagreement, do you resort to arbitration or take your due by yourself?
+
+🔹 Before partnership, do you inquire about the partner's character and faithfulness?
 
 **The Golden Rule:**
 
@@ -630,36 +532,7 @@ Allah the Most High is with the partners... He protects and blesses them... **as
 
 ## Lesson Summary
 
-\`\`\`
-┌─────────────────────────────────────────────────┐
-│           Summary of Partnership Rules         │
-├─────────────────────────────────────────────────┤
-│                                                 │
-│  Traditional Partnerships:                      │
-│  ─────────────────────────                      │
-│  • Shirkat al-'Inân ─────────► ✅ Consensus    │
-│  • Shirkat al-Mufâwada ──────► ⚠️ Disagreement │
-│  • Shirkat al-Abdân ─────────► ✅ Majority     │
-│  • Shirkat al-Wujûh ─────────► ⚠️ Disagreement │
-│  • Mudâraba ─────────────────► ✅ Consensus    │
-│                                                 │
-│  Modern Companies:                              │
-│  ─────────────────                              │
-│  • Joint Stock (permissible) ──► ✅ Permissible│
-│  • Joint Stock (prohibited) ───► ❌ Prohibited │
-│  • Joint Stock (mixed) ────────► ⚠️ Disagreement│
-│  • LLC ─────────────────────► ✅ Permissible   │
-│  • Diminishing Partnership ──► ✅ With cond.   │
-│                                                 │
-│  Fundamental Rules:                             │
-│  ───────────────────                            │
-│  • "Profit according to agreement"             │
-│  • "Loss according to capital"                 │
-│  • "Partner is trustee, only liable            │
-│     in case of transgression"                  │
-│                                                 │
-└─────────────────────────────────────────────────┘
-\`\`\`
+<!-- DIAGRAM:sharikah-summary -->
 
 ---
 
