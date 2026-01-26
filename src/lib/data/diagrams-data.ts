@@ -3393,6 +3393,494 @@ const diagramsRegistry: Record<string, DiagramData> = {
   },
 
   // ─────────────────────────────────────────────────────────
+  // FIQH MUAMALAT - RIBA TYPES (Leçon 007)
+  // ─────────────────────────────────────────────────────────
+  
+  'riba-types-main-tree': {
+    type: 'tree',
+    title: { ar: 'شجرة أنواع الربا', fr: 'Arbre des types de Riba', en: 'Tree of Riba Types' },
+    root: { ar: 'الربا', fr: 'Le Riba', en: 'Riba' },
+    branches: [
+      {
+        label: { ar: 'ربا الفضل', fr: 'Riba al-Fadl', en: 'Riba al-Fadl' },
+        description: { ar: 'الزيادة', fr: 'L\'excédent', en: 'Excess' },
+        variant: 'danger',
+        children: [
+          { label: { ar: 'ذهب بذهب + زيادة', fr: 'Or contre or + surplus', en: 'Gold for gold + surplus' }, variant: 'danger' },
+          { label: { ar: 'قمح بقمح + زيادة', fr: 'Blé contre blé + surplus', en: 'Wheat for wheat + surplus' }, variant: 'danger' }
+        ]
+      },
+      {
+        label: { ar: 'ربا النسيئة', fr: 'Riba al-Nasī\'ah', en: 'Riba al-Nasī\'ah' },
+        description: { ar: 'التأخير', fr: 'Le délai', en: 'Delay' },
+        variant: 'danger',
+        children: [
+          { label: { ar: 'تأخير التسليم', fr: 'Délai de livraison', en: 'Delayed delivery' }, variant: 'danger' },
+          { label: { ar: 'تأخير القبض', fr: 'Délai de réception', en: 'Delayed receipt' }, variant: 'danger' }
+        ]
+      },
+      {
+        label: { ar: 'ربا القروض', fr: 'Riba des prêts', en: 'Loan Riba' },
+        description: { ar: 'الجاهلية', fr: 'Jahiliya', en: 'Jahiliya' },
+        variant: 'danger',
+        children: [
+          { label: { ar: 'قرض بزيادة', fr: 'Prêt avec surplus', en: 'Loan with surplus' }, variant: 'danger' },
+          { label: { ar: 'الدين المتراكم', fr: 'Dette accumulée', en: 'Accumulated debt' }, variant: 'danger' }
+        ]
+      }
+    ]
+  },
+
+  'riba-fadl-conditions': {
+    type: 'comparison',
+    title: { ar: 'شرطان لازمان عند بيع الصنف الربوي بجنسه', fr: 'Deux conditions pour vendre un bien ribawi contre son genre', en: 'Two Conditions for Selling Ribawi Item for Same Type' },
+    columns: [
+      {
+        title: { ar: 'الشرط الأول: التماثل', fr: 'Condition 1: L\'égalité', en: 'Condition 1: Equality' },
+        subtitle: { ar: '⚖️ المساواة في الكيل أو الوزن', fr: '⚖️ Égalité en mesure ou poids', en: '⚖️ Equality in measure or weight' },
+        variant: 'positive',
+        items: [
+          { ar: 'ذهب = ذهب', fr: 'Or = Or', en: 'Gold = Gold' },
+          { ar: 'قمح = قمح', fr: 'Blé = Blé', en: 'Wheat = Wheat' },
+          { ar: 'إخلال بالتماثل = ربا الفضل', fr: 'Violation = Riba al-Fadl', en: 'Violation = Riba al-Fadl' }
+        ]
+      },
+      {
+        title: { ar: 'الشرط الثاني: التقابض', fr: 'Condition 2: L\'échange immédiat', en: 'Condition 2: Immediate Exchange' },
+        subtitle: { ar: '🤝 القبض في المجلس (يداً بيد)', fr: '🤝 Échange en séance (main à main)', en: '🤝 Exchange in session (hand to hand)' },
+        variant: 'positive',
+        items: [
+          { ar: 'أعطيتك وأخذت في نفس الوقت', fr: 'Donner et recevoir en même temps', en: 'Give and take at same time' },
+          { ar: 'إخلال بالتقابض = ربا النسيئة', fr: 'Violation = Riba al-Nasī\'ah', en: 'Violation = Riba al-Nasī\'ah' }
+        ]
+      }
+    ]
+  },
+
+  'riba-nasiah-types': {
+    type: 'ruling',
+    title: { ar: 'أقسام ربا النسيئة', fr: 'Types de Riba al-Nasī\'ah', en: 'Types of Riba al-Nasī\'ah' },
+    rulingType: 'prohibitions',
+    numbered: true,
+    items: [
+      { 
+        text: { ar: 'تأخير في الجنس الواحد', fr: 'Délai dans le même genre', en: 'Delay in same type' },
+        subitems: [
+          { ar: 'بيع ذهب بذهب مع تأجيل التسليم', fr: 'Vendre or contre or avec délai de livraison', en: 'Sell gold for gold with delayed delivery' },
+          { ar: 'بيع قمح بقمح على أن يُسلَّم بعد شهر', fr: 'Vendre blé contre blé livrable après un mois', en: 'Sell wheat for wheat delivered after a month' },
+          { ar: 'الحكم: حرام بالإجماع القطعي', fr: 'Jugement: interdit par consensus absolu', en: 'Ruling: forbidden by absolute consensus' }
+        ]
+      },
+      { 
+        text: { ar: 'تأخير في جنسين متفقي العلة', fr: 'Délai entre deux genres de même cause', en: 'Delay between two types of same cause' },
+        subitems: [
+          { ar: 'بيع ذهب بفضة نسيئة', fr: 'Vendre or contre argent à terme', en: 'Sell gold for silver on credit' },
+          { ar: 'بيع قمح بشعير نسيئة', fr: 'Vendre blé contre orge à terme', en: 'Sell wheat for barley on credit' },
+          { ar: 'الحكم: حرام لاتحاد العلة', fr: 'Jugement: interdit pour cause commune', en: 'Ruling: forbidden due to common cause' }
+        ]
+      }
+    ]
+  },
+
+  'riba-loans-danger': {
+    type: 'ruling',
+    title: { ar: 'لماذا ربا القروض أشد أنواع الربا؟', fr: 'Pourquoi le riba des prêts est le plus grave?', en: 'Why is Loan Riba the Most Severe?' },
+    rulingType: 'prohibitions',
+    numbered: true,
+    items: [
+      { 
+        text: { ar: 'هو المذكور صراحة في القرآن', fr: 'Mentionné explicitement dans le Coran', en: 'Explicitly mentioned in the Quran' },
+        detail: { ar: '﴿فَأْذَنُوا بِحَرْبٍ مِّنَ اللَّهِ وَرَسُولِهِ﴾', fr: '﴾Recevez l\'annonce d\'une guerre d\'Allah et Son Messager﴿', en: '﴾Be warned of war from Allah and His Messenger﴿' }
+      },
+      { 
+        text: { ar: 'هو ربا الجاهلية الذي أبطله الإسلام', fr: 'C\'est le riba de la Jahiliya aboli par l\'Islam', en: 'It is the Jahiliya riba abolished by Islam' },
+        detail: { ar: '"وربا الجاهلية موضوع"', fr: '"Le riba de la Jahiliya est aboli"', en: '"The riba of Jahiliya is abolished"' }
+      },
+      { 
+        text: { ar: 'فيه استغلال صريح للمحتاج', fr: 'Exploitation flagrante du nécessiteux', en: 'Blatant exploitation of the needy' },
+        detail: { ar: 'الدائن يربح مضمون، والمدين يغرق', fr: 'Le créancier gagne garanti, le débiteur coule', en: 'Creditor profits guaranteed, debtor drowns' }
+      },
+      { 
+        text: { ar: 'يتضاعف الدين بشكل مخيف', fr: 'La dette se multiplie de façon effrayante', en: 'Debt multiplies frightfully' },
+        detail: { ar: '1000 → 1500 → 2000 → 3000 → ...', fr: '1000 → 1500 → 2000 → 3000 → ...', en: '1000 → 1500 → 2000 → 3000 → ...' }
+      },
+      { 
+        text: { ar: 'يؤدي إلى استعباد المدين', fr: 'Mène à l\'asservissement du débiteur', en: 'Leads to enslavement of the debtor' },
+        detail: { ar: 'في الجاهلية كان يُباع لسداد دينه', fr: 'Dans la Jahiliya il était vendu pour rembourser', en: 'In Jahiliya he was sold to repay' }
+      }
+    ]
+  },
+
+  'riba-six-items-detailed': {
+    type: 'tree',
+    title: { ar: 'الأصناف الربوية الستة المنصوص عليها', fr: 'Les six biens ribawi textuels', en: 'The Six Textual Ribawi Items' },
+    branches: [
+      {
+        label: { ar: 'الأثمان (النقود)', fr: 'Les valeurs (monnaies)', en: 'Currencies (money)' },
+        description: { ar: 'العلة: الثمنية (القيمة النقدية)', fr: 'Cause: valeur monétaire', en: 'Cause: monetary value' },
+        variant: 'warning',
+        children: [
+          { label: { ar: '① الذهب', fr: '① Or', en: '① Gold' }, variant: 'warning' },
+          { label: { ar: '② الفضة', fr: '② Argent', en: '② Silver' }, variant: 'warning' },
+          { label: { ar: 'يُقاس عليها: العملات الورقية والرقمية', fr: 'Par analogie: billets et cryptomonnaies', en: 'By analogy: paper money and crypto' }, variant: 'default' }
+        ]
+      },
+      {
+        label: { ar: 'المطعومات (الأقوات)', fr: 'Les aliments (denrées)', en: 'Foodstuffs (staples)' },
+        description: { ar: 'العلة: الطُّعم مع الكيل/الوزن', fr: 'Cause: nourriture + mesure/poids', en: 'Cause: food + measure/weight' },
+        variant: 'success',
+        children: [
+          { label: { ar: '③ البُر (القمح)', fr: '③ Blé', en: '③ Wheat' }, variant: 'success' },
+          { label: { ar: '④ الشعير', fr: '④ Orge', en: '④ Barley' }, variant: 'success' },
+          { label: { ar: '⑤ التمر', fr: '⑤ Dattes', en: '⑤ Dates' }, variant: 'success' },
+          { label: { ar: '⑥ الملح', fr: '⑥ Sel', en: '⑥ Salt' }, variant: 'success' },
+          { label: { ar: 'يُقاس عليها: الأرز، الذرة، اللحوم...', fr: 'Par analogie: riz, maïs, viandes...', en: 'By analogy: rice, corn, meats...' }, variant: 'default' }
+        ]
+      }
+    ]
+  },
+
+  'riba-three-rules': {
+    type: 'flow',
+    title: { ar: 'القواعد الثلاث لبيع الأصناف الربوية', fr: 'Les trois règles de vente des biens ribawi', en: 'Three Rules for Selling Ribawi Items' },
+    layout: 'vertical',
+    steps: [
+      {
+        title: { ar: 'القاعدة ①: الجنس بجنسه', fr: 'Règle ①: Même genre', en: 'Rule ①: Same type' },
+        description: { ar: 'ذهب بذهب، قمح بقمح → التماثل واجب + التقابض واجب', fr: 'Or/or, blé/blé → Égalité obligatoire + Échange immédiat obligatoire', en: 'Gold/gold, wheat/wheat → Equality required + Immediate exchange required' },
+        variant: 'warning'
+      },
+      {
+        title: { ar: 'القاعدة ②: جنسان متفقا العلة', fr: 'Règle ②: Deux genres de même cause', en: 'Rule ②: Two types with same cause' },
+        description: { ar: 'ذهب بفضة، قمح بشعير → التفاضل جائز + التقابض واجب', fr: 'Or/argent, blé/orge → Différence permise + Échange immédiat obligatoire', en: 'Gold/silver, wheat/barley → Difference allowed + Immediate exchange required' },
+        variant: 'current'
+      },
+      {
+        title: { ar: 'القاعدة ③: جنسان مختلفا العلة', fr: 'Règle ③: Deux genres de causes différentes', en: 'Rule ③: Two types with different causes' },
+        description: { ar: 'ذهب بقمح، فضة بتمر → التفاضل جائز + التأخير جائز', fr: 'Or/blé, argent/dattes → Différence permise + Délai permis', en: 'Gold/wheat, silver/dates → Difference allowed + Delay allowed' },
+        variant: 'success'
+      }
+    ]
+  },
+
+  'riba-tricks': {
+    type: 'ruling',
+    title: { ar: 'أشهر الحيل الربوية المحرمة', fr: 'Les ruses usuraires les plus connues', en: 'Most Famous Forbidden Usurious Tricks' },
+    rulingType: 'prohibitions',
+    numbered: true,
+    items: [
+      { 
+        text: { ar: 'بيع العِينة', fr: 'Vente al-\'Inah', en: 'Al-\'Inah Sale' },
+        subitems: [
+          { ar: 'أبيعك نسيئة ثم أشتري منك نقداً بأقل', fr: 'Je te vends à terme puis j\'achète de toi au comptant moins cher', en: 'I sell to you on credit then buy from you for less cash' },
+          { ar: 'الهدف: الوصول للنقد مع الزيادة', fr: 'But: obtenir du cash avec surplus', en: 'Goal: get cash with surplus' }
+        ]
+      },
+      { 
+        text: { ar: 'التورق المنظم (عند بعض العلماء)', fr: 'Tawarruq organisé (selon certains)', en: 'Organized Tawarruq (according to some)' },
+        subitems: [
+          { ar: 'شراء سلعة من البنك نسيئة ثم بيعها للبنك نفسه نقداً', fr: 'Acheter un bien à la banque à terme puis le lui revendre au comptant', en: 'Buy goods from bank on credit then sell back to same bank for cash' },
+          { ar: 'العميل لم يرَ السلعة أصلاً!', fr: 'Le client n\'a jamais vu le bien!', en: 'Client never even saw the goods!' }
+        ]
+      },
+      { 
+        text: { ar: 'القرض بهدية مشروطة', fr: 'Prêt avec cadeau conditionné', en: 'Loan with Conditional Gift' },
+        subitems: [
+          { ar: 'أُقرضك على أن تُهديني...', fr: 'Je te prête à condition de me faire cadeau...', en: 'I lend you on condition you gift me...' },
+          { ar: 'أو على أن تسكنني بيتك...', fr: 'Ou à condition de m\'héberger...', en: 'Or that you let me stay in your house...' }
+        ]
+      },
+      { 
+        text: { ar: 'ضمّ الفائدة لثمن السلعة', fr: 'Ajouter l\'intérêt au prix du bien', en: 'Adding Interest to Product Price' },
+        subitems: [
+          { ar: 'السلعة بـ 100، لكن أكتب 120', fr: 'Le bien vaut 100, mais j\'écris 120', en: 'Item is 100, but I write 120' },
+          { ar: 'والزيادة "ربحي من البيع"!', fr: 'Et le surplus est "mon bénéfice"!', en: 'And the surplus is "my profit"!' }
+        ]
+      }
+    ]
+  },
+
+  'riba-types-summary': {
+    type: 'ruling',
+    title: { ar: 'خلاصة: أنواع الربا', fr: 'Résumé: Types de Riba', en: 'Summary: Types of Riba' },
+    rulingType: 'prohibitions',
+    items: [
+      { 
+        text: { ar: 'ربا الفضل = الزيادة في بيع الجنس بجنسه', fr: 'Riba al-Fadl = surplus dans la vente du même genre', en: 'Riba al-Fadl = surplus in selling same type' },
+        detail: { ar: 'الحل: التماثل والتقابض', fr: 'Solution: égalité et échange immédiat', en: 'Solution: equality and immediate exchange' }
+      },
+      { 
+        text: { ar: 'ربا النسيئة = التأخير في قبض البدلين', fr: 'Riba al-Nasī\'ah = délai dans l\'échange', en: 'Riba al-Nasī\'ah = delay in exchange' },
+        detail: { ar: 'الحل: التقابض في المجلس', fr: 'Solution: échange en séance', en: 'Solution: exchange in session' }
+      },
+      { 
+        text: { ar: 'ربا القروض = الزيادة المشروطة في القرض', fr: 'Riba des prêts = surplus conditionné dans le prêt', en: 'Loan Riba = conditional surplus in loan' },
+        detail: { ar: 'الحل: القرض الحسن بلا فائدة', fr: 'Solution: prêt sans intérêt', en: 'Solution: interest-free loan' }
+      },
+      { text: { ar: 'الأصناف الستة: ذهب، فضة، بُر، شعير، تمر، ملح', fr: 'Six biens: or, argent, blé, orge, dattes, sel', en: 'Six items: gold, silver, wheat, barley, dates, salt' } },
+      { text: { ar: 'الحيل الربوية محرمة: العبرة بالمقاصد لا بالصور', fr: 'Ruses interdites: l\'intention compte, pas la forme', en: 'Tricks forbidden: intent matters, not form' } }
+    ]
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // FIQH MUAMALAT - SARF / CURRENCY EXCHANGE (008)
+  // ─────────────────────────────────────────────────────────
+
+  'sarf-types-tree': {
+    type: 'tree',
+    title: { ar: 'أنواع عقود الصرف', fr: 'Types de Contrats de Change', en: 'Types of Currency Exchange Contracts' },
+    root: { ar: 'عقد الصرف', fr: 'Contrat de Change', en: 'Exchange Contract' },
+    branches: [
+      {
+        label: { ar: 'صرف جنس بجنسه', fr: 'Change genre/genre', en: 'Same type exchange' },
+        description: { ar: 'ذهب بذهب، ريال بريال، دولار بدولار', fr: 'Or contre or, Riyal contre riyal, Dollar contre dollar', en: 'Gold for gold, Riyal for riyal, Dollar for dollar' },
+        variant: 'warning',
+        children: [
+          { label: { ar: 'التماثل واجب ✓', fr: 'Égalité obligatoire ✓', en: 'Equality required ✓' }, variant: 'success' },
+          { label: { ar: 'التقابض واجب ✓', fr: 'Prise de possession obligatoire ✓', en: 'Taking possession required ✓' }, variant: 'success' }
+        ]
+      },
+      {
+        label: { ar: 'صرف جنس بجنس آخر', fr: 'Change genre/autre genre', en: 'Different type exchange' },
+        description: { ar: 'ذهب بفضة، دولار بيورو، ريال بجنيه', fr: 'Or contre argent, Dollar contre euro, Riyal contre livre', en: 'Gold for silver, Dollar for euro, Riyal for pound' },
+        variant: 'default',
+        children: [
+          { label: { ar: 'التماثل ✗ (يجوز التفاضل)', fr: 'Égalité ✗ (surplus permis)', en: 'Equality ✗ (surplus allowed)' }, variant: 'warning' },
+          { label: { ar: 'التقابض واجب ✓', fr: 'Prise de possession obligatoire ✓', en: 'Taking possession required ✓' }, variant: 'success' }
+        ]
+      }
+    ]
+  },
+
+  'sarf-conditions': {
+    type: 'comparison',
+    title: { ar: 'الشرطان الأساسيان لصحة الصرف', fr: 'Les Deux Conditions Fondamentales du Change', en: 'The Two Fundamental Conditions of Exchange' },
+    columns: [
+      {
+        title: { ar: 'الشرط الأول: التقابض', fr: 'Première Condition: Prise de Possession', en: 'First Condition: Taking Possession' },
+        items: [
+          { ar: '🤝 في المجلس', fr: '🤝 Dans la séance', en: '🤝 In the session' },
+          { ar: '"يداً بيد"', fr: '"Main à main"', en: '"Hand to hand"' },
+          { ar: 'واجب دائماً', fr: 'Toujours obligatoire', en: 'Always required' },
+          { ar: 'في كل أنواع الصرف', fr: 'Pour tous les changes', en: 'For all exchanges' }
+        ],
+        variant: 'positive'
+      },
+      {
+        title: { ar: 'الشرط الثاني: التماثل', fr: 'Deuxième Condition: Égalité', en: 'Second Condition: Equality' },
+        items: [
+          { ar: '⚖️ عند اتحاد الجنس', fr: '⚖️ Si même genre', en: '⚖️ If same type' },
+          { ar: '"مثلاً بمثل"', fr: '"Quantité égale"', en: '"Equal for equal"' },
+          { ar: 'واجب إذا اتحد الجنس', fr: 'Obligatoire si même genre', en: 'Required if same type' },
+          { ar: 'ساقط إذا اختلف الجنس', fr: 'Non si genres différents', en: 'Not if different types' }
+        ],
+        variant: 'neutral'
+      }
+    ]
+  },
+
+  'sarf-gold-silver-table': {
+    type: 'summary',
+    title: { ar: 'جدول أحكام صرف النقدين', fr: 'Tableau des règles de change des deux métaux', en: 'Table of Precious Metals Exchange Rules' },
+    rows: [
+      { item: { ar: 'ذهب بذهب — التماثل واجب، التقابض واجب', fr: 'Or contre or — Égalité requise, Possession requise', en: 'Gold for gold — Equality required, Possession required' }, ruling: 'conditional' },
+      { item: { ar: 'فضة بفضة — التماثل واجب، التقابض واجب', fr: 'Argent contre argent — Égalité requise, Possession requise', en: 'Silver for silver — Equality required, Possession required' }, ruling: 'conditional' },
+      { item: { ar: 'ذهب بفضة — التماثل لا يجب، التقابض واجب', fr: 'Or contre argent — Égalité non requise, Possession requise', en: 'Gold for silver — Equality not required, Possession required' }, ruling: 'halal', notes: { ar: 'يجوز يداً بيد', fr: 'Permis main à main', en: 'Permissible hand to hand' } }
+    ]
+  },
+
+  'sarf-paper-currency': {
+    type: 'flow',
+    title: { ar: 'العملات الورقية = نقود شرعية', fr: 'Les Billets = Monnaie Légale Islamique', en: 'Paper Currency = Legal Islamic Money' },
+    steps: [
+      {
+        title: { ar: 'الذهب والفضة', fr: 'Or et Argent', en: 'Gold and Silver' },
+        description: { ar: 'الثمنية الأصلية', fr: 'Valeur monétaire originelle', en: 'Original monetary value' },
+        variant: 'success'
+      },
+      {
+        title: { ar: 'العلة المشتركة', fr: 'Cause Commune', en: 'Common Cause' },
+        description: { ar: 'الثمنية', fr: 'Valeur monétaire', en: 'Monetary value' },
+        variant: 'current'
+      },
+      {
+        title: { ar: 'العملات الورقية', fr: 'Monnaie Papier', en: 'Paper Currency' },
+        description: { ar: 'نفس الحكم', fr: 'Même règle', en: 'Same ruling' },
+        variant: 'success'
+      },
+      {
+        title: { ar: 'الأحكام', fr: 'Règles', en: 'Rulings' },
+        description: { ar: 'الزكاة واجبة • الربا يجري فيها • التقابض واجب', fr: 'Zakat obligatoire • Riba applicable • Possession obligatoire', en: 'Zakat obligatory • Riba applies • Possession required' },
+        variant: 'pending'
+      }
+    ]
+  },
+
+  'sarf-different-currencies': {
+    type: 'ruling',
+    title: { ar: 'قواعد صرف العملات المختلفة', fr: 'Règles de Change des Devises', en: 'Currency Exchange Rules' },
+    rulingType: 'conditions',
+    numbered: true,
+    items: [
+      { 
+        text: { ar: 'نفس العملة (ريال ↔ ريال، دولار ↔ دولار)', fr: 'Même devise (riyal ↔ riyal, dollar ↔ dollar)', en: 'Same currency (riyal ↔ riyal, dollar ↔ dollar)' },
+        subitems: [
+          { ar: 'التماثل واجب (مئة بمئة)', fr: 'Égalité obligatoire (cent pour cent)', en: 'Equality required (hundred for hundred)' },
+          { ar: 'التقابض واجب (فوري)', fr: 'Possession obligatoire (immédiate)', en: 'Possession required (immediate)' }
+        ]
+      },
+      { 
+        text: { ar: 'عملات مختلفة (دولار ↔ يورو، ريال ↔ جنيه)', fr: 'Devises différentes (dollar ↔ euro, riyal ↔ livre)', en: 'Different currencies (dollar ↔ euro, riyal ↔ pound)' },
+        subitems: [
+          { ar: 'التفاضل جائز (حسب السعر)', fr: 'Surplus permis (selon le taux)', en: 'Surplus allowed (according to rate)' },
+          { ar: 'التقابض واجب (فوري)', fr: 'Possession obligatoire (immédiate)', en: 'Possession required (immediate)' }
+        ]
+      },
+      { 
+        text: { ar: 'ذهب/فضة ↔ عملات ورقية', fr: 'Or/argent ↔ billets', en: 'Gold/silver ↔ paper currency' },
+        subitems: [
+          { ar: 'التفاضل جائز (حسب السعر)', fr: 'Surplus permis (selon le taux)', en: 'Surplus allowed (according to rate)' },
+          { ar: 'التقابض واجب (فوري)', fr: 'Possession obligatoire (immédiate)', en: 'Possession required (immediate)' }
+        ]
+      }
+    ]
+  },
+
+  'sarf-electronic-possession': {
+    type: 'ruling',
+    title: { ar: 'صور التقابض الحكمي الجائزة', fr: 'Formes de Possession Virtuelle Permises', en: 'Permitted Forms of Virtual Possession' },
+    rulingType: 'recommended',
+    numbered: true,
+    items: [
+      { 
+        text: { ar: 'الشيك المصدّق (Certified Check)', fr: 'Chèque certifié', en: 'Certified Check' },
+        subitems: [
+          { ar: 'يُعتبر قبضاً لأنه مضمون الصرف', fr: 'Considéré comme possession car garanti', en: 'Considered possession as it\'s guaranteed' },
+          { ar: 'أجازه كثير من العلماء المعاصرين', fr: 'Approuvé par de nombreux savants contemporains', en: 'Approved by many contemporary scholars' }
+        ]
+      },
+      { 
+        text: { ar: 'التحويل البنكي الفوري', fr: 'Virement bancaire instantané', en: 'Instant Bank Transfer' },
+        subitems: [
+          { ar: 'يصح إذا دخل المبلغ في حساب المستلم فوراً', fr: 'Valide si le montant entre immédiatement', en: 'Valid if amount enters immediately' },
+          { ar: 'أو في نفس يوم العمل المصرفي', fr: 'Ou le même jour ouvrable', en: 'Or same business day' }
+        ]
+      },
+      { 
+        text: { ar: 'الصراف الآلي (ATM)', fr: 'Distributeur automatique (ATM)', en: 'ATM Machine' },
+        subitems: [
+          { ar: 'يُعتبر قبضاً لأنه تسليم فوري', fr: 'Considéré comme possession car livraison immédiate', en: 'Considered possession as immediate delivery' },
+          { ar: 'المال يخرج مباشرة', fr: 'L\'argent sort directement', en: 'Money comes out directly' }
+        ]
+      },
+      { 
+        text: { ar: 'تطبيقات التحويل الفوري (Apple Pay، PayPal...)', fr: 'Applications de transfert instantané (Apple Pay, PayPal...)', en: 'Instant Transfer Apps (Apple Pay, PayPal...)' },
+        subitems: [
+          { ar: 'جائز إذا تم التحويل الفوري', fr: 'Permis si transfert instantané', en: 'Permitted if instant transfer' },
+          { ar: '❌ لا يجوز إذا كان التحويل متأخراً', fr: '❌ Interdit si transfert différé', en: '❌ Forbidden if delayed transfer' }
+        ]
+      }
+    ]
+  },
+
+  'sarf-controls': {
+    type: 'ruling',
+    title: { ar: 'الضوابط الخمسة للصرف الشرعي', fr: 'Les Cinq Règles du Change Légitime', en: 'The Five Rules of Legitimate Exchange' },
+    rulingType: 'conditions',
+    numbered: true,
+    items: [
+      { 
+        text: { ar: 'التقابض الفوري', fr: 'Possession immédiate', en: 'Immediate possession' },
+        subitems: [
+          { ar: 'لا تأجيل لأي من العوضين', fr: 'Pas de délai pour les deux parties', en: 'No delay for either party' },
+          { ar: '"يداً بيد"', fr: '"Main à main"', en: '"Hand to hand"' }
+        ]
+      },
+      { 
+        text: { ar: 'التماثل في الجنس الواحد', fr: 'Égalité dans le même genre', en: 'Equality in same type' },
+        subitems: [
+          { ar: 'لا زيادة عند صرف نفس العملة', fr: 'Pas de surplus pour même devise', en: 'No surplus for same currency' },
+          { ar: '"مثلاً بمثل"', fr: '"Égal pour égal"', en: '"Like for like"' }
+        ]
+      },
+      { 
+        text: { ar: 'عدم الغرر', fr: 'Pas d\'incertitude (gharar)', en: 'No uncertainty (gharar)' },
+        subitems: [
+          { ar: 'معرفة سعر الصرف بوضوح', fr: 'Taux de change clairement connu', en: 'Exchange rate clearly known' },
+          { ar: 'لا غموض في المبالغ', fr: 'Pas d\'ambiguïté dans les montants', en: 'No ambiguity in amounts' }
+        ]
+      },
+      { 
+        text: { ar: 'عدم الشرط الفاسد', fr: 'Pas de condition invalide', en: 'No invalid condition' },
+        subitems: [
+          { ar: 'لا اشتراط ربح مضمون', fr: 'Pas de profit garanti', en: 'No guaranteed profit' },
+          { ar: 'لا شروط ربوية مستترة', fr: 'Pas de conditions usuraires cachées', en: 'No hidden usurious conditions' }
+        ]
+      },
+      { 
+        text: { ar: 'عدم الاحتكار', fr: 'Pas de monopole', en: 'No monopoly' },
+        subitems: [
+          { ar: 'لا التحكم في سوق العملات', fr: 'Pas de contrôle du marché des devises', en: 'No currency market control' },
+          { ar: 'لا التلاعب بالأسعار', fr: 'Pas de manipulation des prix', en: 'No price manipulation' }
+        ]
+      }
+    ]
+  },
+
+  'sarf-forex-violations': {
+    type: 'ruling',
+    title: { ar: 'المخالفات الشرعية في الفوركس التقليدي', fr: 'Violations Islamiques dans le Forex Traditionnel', en: 'Islamic Violations in Traditional Forex' },
+    rulingType: 'prohibitions',
+    numbered: true,
+    items: [
+      { 
+        text: { ar: 'عدم التقابض', fr: 'Absence de possession', en: 'No possession' },
+        subitems: [
+          { ar: 'الصفقات غالباً آجلة أو افتراضية', fr: 'Transactions souvent différées ou virtuelles', en: 'Trades often deferred or virtual' },
+          { ar: 'لا تسليم حقيقي للعملات', fr: 'Pas de livraison réelle des devises', en: 'No real currency delivery' }
+        ]
+      },
+      { 
+        text: { ar: 'الرافعة المالية', fr: 'L\'effet de levier', en: 'Financial Leverage' },
+        subitems: [
+          { ar: 'قرض ربوي مقنّع من الوسيط', fr: 'Prêt usuraire déguisé du courtier', en: 'Disguised usurious loan from broker' },
+          { ar: 'تتاجر بـ 100 ضعف ما تملك!', fr: 'Trader 100 fois ce que vous possédez!', en: 'Trade 100 times what you own!' }
+        ]
+      },
+      { 
+        text: { ar: 'فوائد التبييت (Swap)', fr: 'Intérêts de rollover (Swap)', en: 'Rollover Interest (Swap)' },
+        subitems: [
+          { ar: 'ربا صريح على الصفقات المفتوحة', fr: 'Riba explicite sur positions ouvertes', en: 'Explicit riba on open positions' },
+          { ar: 'يُدفع أو يُقبض كل ليلة', fr: 'Payé ou reçu chaque nuit', en: 'Paid or received each night' }
+        ]
+      },
+      { 
+        text: { ar: 'العقود الآجلة', fr: 'Contrats à terme', en: 'Futures Contracts' },
+        subitems: [
+          { ar: 'بيع ما لا تملك', fr: 'Vendre ce qu\'on ne possède pas', en: 'Selling what you don\'t own' },
+          { ar: 'شراء دون قبض', fr: 'Acheter sans possession', en: 'Buying without possession' }
+        ]
+      }
+    ],
+    footer: { ar: 'البديل الشرعي: منصة إسلامية حقيقية بدون رافعة ولا فوائد مع تقابض فوري', fr: 'Alternative islamique: plateforme sans levier ni intérêts avec possession immédiate', en: 'Islamic alternative: platform without leverage or interest with immediate possession' }
+  },
+
+  'sarf-summary': {
+    type: 'ruling',
+    title: { ar: 'خلاصة: أحكام الصرف', fr: 'Résumé: Règles du Change', en: 'Summary: Exchange Rules' },
+    rulingType: 'info',
+    items: [
+      { text: { ar: 'الصرف = بيع النقد بالنقد', fr: 'Le Change = vente d\'argent contre argent', en: 'Exchange = selling money for money' } },
+      { text: { ar: 'الشرطان الأساسيان: التقابض في المجلس (دائماً) + التماثل (إذا اتحد الجنس)', fr: 'Deux conditions: possession en séance (toujours) + égalité (si même genre)', en: 'Two conditions: possession in session (always) + equality (if same type)' } },
+      { text: { ar: 'العملات الورقية = حكم الذهب والفضة', fr: 'Monnaie papier = règle de l\'or et l\'argent', en: 'Paper currency = ruling of gold and silver' } },
+      { text: { ar: 'التقابض الحكمي جائز: الشيك المصدق، التحويل الفوري، الصراف الآلي', fr: 'Possession virtuelle permise: chèque certifié, virement instantané, ATM', en: 'Virtual possession permitted: certified check, instant transfer, ATM' } },
+      { text: { ar: 'الفوركس التقليدي: غالباً محرم', fr: 'Forex traditionnel: généralement interdit', en: 'Traditional Forex: generally forbidden' } },
+      { text: { ar: 'الحوالة: جائزة (ليست صرفاً)', fr: 'La Hawala: permise (ce n\'est pas du change)', en: 'Hawala: permitted (not exchange)' } },
+      { text: { ar: 'القاعدة الذهبية: "يداً بيد"', fr: 'Règle d\'or: "main à main"', en: 'Golden rule: "hand to hand"' } }
+    ]
+  },
+
+  // ─────────────────────────────────────────────────────────
   // FIQH MUAMALAT - KHIYARAT (005)
   // ─────────────────────────────────────────────────────────
   'khiyarat-wisdom': {
