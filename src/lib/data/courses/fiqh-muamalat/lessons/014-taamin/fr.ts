@@ -324,31 +324,118 @@ C'est la plus grande solidarité : personne n'attendait de profit, c'était un d
 
 ### Premier Cas : Assurance Auto Obligatoire
 
-<!-- DIAGRAM:case-auto-obligatoire -->
+<div class="case-box">
+
+**🚗 Cas : Assurance auto obligatoire**
+
+**Question :**
+Fatima habite dans un pays qui exige une assurance auto. Peut-elle y souscrire ?
+
+**Réponse :**
+✅ **Permis par nécessité** selon de nombreux savants contemporains — Ce qui est indispensable à l'accomplissement d'une obligation devient lui-même obligatoire
+
+**⚠️ Note :** Certains savants **interdisent l'assurance commerciale absolument**, même obligatoire, et considèrent que la contrainte légale ne rend pas le contrat permis. L'avis de permission par nécessité est le plus répandu.
+
+**Conditions :**
+- Se limiter au minimum obligatoire
+- Chercher des compagnies Takaful si disponibles
+- Ne pas étendre aux couvertures supplémentaires
+
+💡 **Règle :** Les nécessités rendent permis les interdits, et les nécessités sont mesurées à leur juste proportion
+
+</div>
 
 ---
 
 ### Deuxième Cas : Assurance Maladie de l'Employeur
 
-<!-- DIAGRAM:case-assurance-employeur -->
+<div class="case-box">
+
+**🏥 Cas : Assurance maladie fournie par l'entreprise**
+
+**Question :**
+Ahmad est employé dans une entreprise qui fournit une assurance maladie à tous les employés. Peut-il en bénéficier ?
+
+**Réponse :**
+✅ **Permis** — Cela fait partie du salaire et des avantages
+
+**Détails :**
+- L'employé n'a pas choisi ni signé le contrat
+- C'est une partie de ses droits en tant qu'employé
+- Le péché incombe à l'entreprise si c'est un contrat commercial
+
+💡 **L'idéal :** Demander une assurance Takaful à l'entreprise si possible
+
+</div>
 
 ---
 
 ### Troisième Cas : Assurance Vie
 
-<!-- DIAGRAM:case-assurance-vie -->
+<div class="case-box">
+
+**👨‍👩‍👧‍👦 Cas : Assurance vie pour l'avenir des enfants**
+
+**Question :**
+Muhammad veut assurer l'avenir de ses enfants après sa mort. L'assurance vie est-elle permise ?
+
+**Réponse :**
+❌ **L'assurance vie commerciale = haram**
+
+**Alternatives licites :**
+1. Épargne dans des comptes islamiques
+2. Investissement dans des fonds conformes à la Charia
+3. Testament du tiers
+4. Takaful familial (assurance coopérative)
+5. Achat de biens immobiliers pour les enfants
+
+</div>
 
 ---
 
 ### Quatrième Cas : Assurance Tous Risques
 
-<!-- DIAGRAM:case-tous-risques -->
+<div class="case-box">
+
+**🚗 Cas : Assurance tous risques pour voiture neuve**
+
+**Question :**
+Saïd a acheté une voiture de luxe neuve. Il veut une assurance tous risques pour la protéger. Est-ce permis ?
+
+**Réponse :**
+❌ **L'assurance tous risques commerciale = haram** (car non obligatoire)
+
+**Alternatives :**
+- Chercher une assurance Takaful tous risques
+- Épargne personnelle pour les urgences
+- Se limiter à l'assurance obligatoire uniquement
+
+💡 **Rappel :** L'argent halal vaut mieux que de s'étendre dans le haram
+
+</div>
 
 ---
 
 ### Cinquième Cas : Assurance Marchandises Importées
 
-<!-- DIAGRAM:case-cargaison -->
+<div class="case-box">
+
+**📦 Cas : Assurance sur une cargaison commerciale**
+
+**Question :**
+Abdurrahman est commerçant et importe des marchandises. La banque exige une assurance sur la cargaison pour le financement. Quel est le jugement ?
+
+**Réponse :**
+⚠️ **Si c'est une condition pour le financement : évaluer la nécessité**
+
+**Solutions :**
+1. Traiter avec des banques islamiques offrant du Takaful
+2. Chercher un financement sans exigence d'assurance
+3. S'il n'y a pas d'alternative : les nécessités sont mesurées à leur juste proportion
+
+💡 **Règle :** Cherche d'abord le halal, puis mesure la nécessité à sa juste proportion
+
+</div>
 
 ---
 

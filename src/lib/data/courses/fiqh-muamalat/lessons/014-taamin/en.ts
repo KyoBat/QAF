@@ -324,43 +324,47 @@ This is the greatest solidarity: no one expected profit, it was pure giving.
 
 ### Case One: Mandatory Auto Insurance
 
-<div class="quote-box">
+<div class="case-box">
 
 **🚗 Case: Mandatory auto insurance**
 
-**Question:** Fatima lives in a country that requires auto insurance. Can she subscribe?
+**Question:**
+Fatima lives in a country that requires auto insurance. Can she subscribe?
 
-**Answer:** ✅ Permissible by necessity — what is essential to fulfill an obligation becomes obligatory itself.
+**Answer:**
+✅ **Permissible by necessity** according to many contemporary scholars — What is essential to fulfill an obligation becomes obligatory itself
+
+**⚠️ Note:** Some scholars **prohibit commercial insurance absolutely**, even if mandatory, and consider that legal compulsion does not make the prohibited permissible. The fatwa of permissibility by necessity is the most widespread.
 
 **Conditions:**
 - Limit to the minimum mandatory coverage
 - Look for Takaful companies if available
 - Do not expand to additional coverages
 
-**Rule:** Necessity permits the prohibited, and necessities are measured proportionately.
+💡 **Rule:** Necessity permits the prohibited, and necessities are measured proportionately
 
 </div>
-
-> **⚠️ Note:** Some scholars **prohibit commercial insurance absolutely**, even if mandatory, and consider that legal compulsion does not make the contract permissible, but merely lifts the sin from the one who is compelled. The fatwa above represents the opinion of those who apply the legal maxim of necessity.
 
 ---
 
 ### Case Two: Employer Health Insurance
 
-<div class="quote-box">
+<div class="case-box">
 
 **🏥 Case: Health insurance provided by employer**
 
-**Question:** Ahmad is employed at a company that provides health insurance to all employees. Can he benefit from it?
+**Question:**
+Ahmad is employed at a company that provides health insurance to all employees. Can he benefit from it?
 
-**Answer:** ✅ Permissible — this is part of salary and benefits.
+**Answer:**
+✅ **Permissible** — This is part of salary and benefits
 
-**Detail:**
+**Details:**
 - The employee did not choose or sign the contract
 - This is part of his employment rights
 - The sin falls on the company if it's commercial
 
-**Ideal:** Request Takaful insurance if possible.
+💡 **Ideal:** Request Takaful insurance from the company if possible
 
 </div>
 
@@ -368,13 +372,15 @@ This is the greatest solidarity: no one expected profit, it was pure giving.
 
 ### Case Three: Life Insurance
 
-<div class="quote-box">
+<div class="case-box">
 
 **👨‍👩‍👧‍👦 Case: Life insurance for children's future**
 
-**Question:** Muhammad wants to secure his children's future after his death. Is life insurance permissible?
+**Question:**
+Muhammad wants to secure his children's future after his death. Is life insurance permissible?
 
-**Answer:** ❌ Commercial life insurance = forbidden (haram)
+**Answer:**
+❌ **Commercial life insurance = haram**
 
 **Permissible alternatives:**
 1. Savings in Islamic accounts
@@ -389,20 +395,22 @@ This is the greatest solidarity: no one expected profit, it was pure giving.
 
 ### Case Four: Comprehensive Auto Insurance
 
-<div class="quote-box">
+<div class="case-box">
 
 **🚗 Case: Comprehensive insurance for new luxury car**
 
-**Question:** Said bought a new luxury car. He wants comprehensive insurance to protect it. Is it permissible?
+**Question:**
+Said bought a new luxury car. He wants comprehensive insurance to protect it. Is it permissible?
 
-**Answer:** ❌ Comprehensive commercial insurance = haram (not mandatory)
+**Answer:**
+❌ **Comprehensive commercial insurance = haram** (not mandatory)
 
 **Alternatives:**
 - Look for comprehensive Takaful insurance
 - Personal savings for emergencies
 - Limit to mandatory insurance only
 
-**Remember:** Halal money is better than expanding into the haram.
+💡 **Remember:** Halal money is better than expanding into the haram
 
 </div>
 
@@ -410,20 +418,22 @@ This is the greatest solidarity: no one expected profit, it was pure giving.
 
 ### Case Five: Cargo Insurance for Imports
 
-<div class="quote-box">
+<div class="case-box">
 
 **📦 Case: Insurance on commercial cargo**
 
-**Question:** Abdurrahman is a merchant who imports goods. The bank requires cargo insurance for financing. What is the ruling?
+**Question:**
+Abdurrahman is a merchant who imports goods. The bank requires cargo insurance for financing. What is the ruling?
 
-**Answer:** ⚠️ If it's a condition for financing: evaluate the necessity.
+**Answer:**
+⚠️ **If it's a condition for financing: evaluate the necessity**
 
 **Solutions:**
 1. Deal with Islamic banks that offer Takaful
 2. Look for financing without insurance requirement
 3. If no alternative: necessities are measured proportionately
 
-**Rule:** Look for the halal first, then measure the necessity proportionately.
+💡 **Rule:** Look for the halal first, then measure the necessity proportionately
 
 </div>
 
