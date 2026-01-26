@@ -65,23 +65,13 @@ Historically, these schools emerged to **defend Islam against the Mu'tazilah**, 
 
 The problem: the disciples **did not follow** al-Ash'ari's final phase, but developed the school based on his transitional phase.
 
-\`\`\`
-Evolution of Ash'arism
-├── AL-ASH'ARI (d. 324 H)
-│   └── Return to the path of the Salaf (Al-Ibanah)
-│
-├── AL-BAQILLANI (d. 403 H)
-│   └── Expansion of speculative theology
-│
-├── AL-JUWAYNI (d. 478 H)
-│   └── Imam al-Haramayn — more philosophy
-│
-├── AL-GHAZALI (d. 505 H)
-│   └── Massive introduction of Sufism
-│
-└── AR-RAZI (d. 606 H)
-    └── Domination of Greek philosophy
-\`\`\`
+| Period | Scholar | Evolution |
+|--------|---------|-----------|
+| **1** | Al-Ash'ari (d. 324 H) | Return to the path of the Salaf (Al-Ibanah) |
+| **2** | Al-Baqillani (d. 403 H) | Expansion of speculative theology |
+| **3** | Al-Juwayni (d. 478 H) | Imam al-Haramayn — more philosophy |
+| **4** | Al-Ghazali (d. 505 H) | Massive introduction of Sufism |
+| **5** | Ar-Razi (d. 606 H) | Domination of Greek philosophy |
 
 ---
 

@@ -97,22 +97,10 @@ The appearance of the most dangerous doctrines:
 
 ### Stations and States
 
-\`\`\`
-The Sufi Path (as-Suluk)
-│
-├── 🏔️ Stations (Maqamat) — Acquired through effort
-│   ├── At-Tawbah (repentance)
-│   ├── Az-Zuhd (asceticism)
-│   ├── As-Sabr (patience)
-│   ├── Ar-Rida (contentment)
-│   └── At-Tawakkul (trust in Allah)
-│
-└── 💨 States (Ahwal) — Divine gifts not acquired
-    ├── Al-Qabd (contraction)
-    ├── Al-Bast (expansion)
-    ├── Al-Fana' (extinction)
-    └── Al-Baqa' (subsistence)
-\`\`\`
+| Type | Nature | Examples |
+|------|--------|----------|
+| 🏔️ **Stations (Maqamat)** | Acquired through effort | At-Tawbah, Az-Zuhd, As-Sabr, Ar-Rida, At-Tawakkul |
+| 💨 **States (Ahwal)** | Divine gifts not acquired | Al-Qabd, Al-Bast, Al-Fana', Al-Baqa' |
 
 ### The Sheikh and the Disciple
 

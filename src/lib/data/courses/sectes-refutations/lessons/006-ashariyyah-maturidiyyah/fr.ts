@@ -65,23 +65,13 @@ Historiquement, ces écoles sont nées pour **défendre l'Islam contre les Mu'ta
 
 Le problème : les disciples n'ont **pas suivi** la phase finale d'al-Ash'ari, mais ont développé l'école sur sa phase transitoire.
 
-\`\`\`
-Évolution de l'Ash'arisme
-├── AL-ASH'ARI (m. 324 H)
-│   └── Retour à la voie des Salaf (Al-Ibanah)
-│
-├── AL-BAQILLANI (m. 403 H)
-│   └── Expansion de la théologie spéculative
-│
-├── AL-JUWAYNI (m. 478 H)
-│   └── Imam al-Haramayn — plus de philosophie
-│
-├── AL-GHAZALI (m. 505 H)
-│   └── Introduction massive du soufisme
-│
-└── AR-RAZI (m. 606 H)
-    └── Domination de la philosophie grecque
-\`\`\`
+| Période | Savant | Évolution |
+|---------|--------|-----------|
+| **1** | Al-Ash'ari (m. 324 H) | Retour à la voie des Salaf (Al-Ibanah) |
+| **2** | Al-Baqillani (m. 403 H) | Expansion de la théologie spéculative |
+| **3** | Al-Juwayni (m. 478 H) | Imam al-Haramayn — plus de philosophie |
+| **4** | Al-Ghazali (m. 505 H) | Introduction massive du soufisme |
+| **5** | Ar-Razi (m. 606 H) | Domination de la philosophie grecque |
 
 ---
 

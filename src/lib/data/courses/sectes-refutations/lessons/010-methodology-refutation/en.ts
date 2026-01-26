@@ -112,29 +112,12 @@ After studying the main sects, their beliefs and deviations, this final lesson p
 
 ## 📊 Fourth Foundation: Respect the Levels of Divergence
 
-\`\`\`
-Levels of Divergence
-│
-├── 🟢 DIVERGENCE IN BRANCHES (Furu')
-│   └── Between juridical schools
-│   └── No boycott or accusation of innovation
-│   └── Example: Number of rak'at in Witr
-│
-├── 🟡 LIGHT INNOVATION (Bid'ah Khafifah)
-│   └── Doesn't touch the foundations
-│   └── Clarification with discretion
-│   └── Example: Certain dhikr formulas
-│
-├── 🟠 GRAVE INNOVATION (Bid'ah Ghaliza)
-│   └── Touches the foundations of creed
-│   └── Warning and boycott if necessary
-│   └── Example: Denying the Attributes, excommunicating the Companions
-│
-└── 🔴 EXPLICIT DISBELIEF (Kufr Sarih)
-    └── Contradiction of the foundations of Islam
-    └── Disavowal and complete cutting off
-    └── Example: Wahdat al-Wujud, claiming prophethood
-\`\`\`
+| Level | Description | Attitude | Example |
+|-------|-------------|----------|---------|
+| 🟢 **Branches (Furu')** | Between juridical schools | No boycott or accusation of innovation | Number of rak'at in Witr |
+| 🟡 **Light innovation** | Doesn't touch the foundations | Clarification with discretion | Certain dhikr formulas |
+| 🟠 **Grave innovation** | Touches the foundations of creed | Warning and boycott if necessary | Denying the Attributes, excommunicating the Companions |
+| 🔴 **Explicit disbelief** | Contradiction of the foundations of Islam | Disavowal and complete cutting off | Wahdat al-Wujud, claiming prophethood |
 
 ---
 
@@ -193,20 +176,13 @@ Levels of Divergence
 
 ### The Stages of Advice
 
-\`\`\`
-1. 🤫 PRIVATE ADVICE (An-Nasihah)
-   └── First in private, with gentleness
-   │
-   ▼
-2. 📢 PUBLIC DENUNCIATION (Al-Inkâr al-'Alaní)
-   └── If private advice is not enough
-   └── When the error is publicly spread
-   │
-   ▼
-3. 🚫 WARNING AND BOYCOTT (At-Tahdhîr wal-Hajr)
-   └── If the opponent persists in misguidance
-   └── To protect the Muslims
-\`\`\`
+| Stage | Description |
+|-------|-------------|
+| 1. 🤫 **Private advice** | First in private, with gentleness |
+| ⬇️ | |
+| 2. 📢 **Public denunciation** | If private advice is not enough, when the error is publicly spread |
+| ⬇️ | |
+| 3. 🚫 **Warning and boycott** | If the opponent persists in misguidance, to protect the Muslims |
 
 ---
 

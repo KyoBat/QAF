@@ -88,29 +88,12 @@ Au départ, le chi'isme n'était qu'un **soutien politique** à 'Ali lors de son
 
 ## 🌳 L'arbre des branches Shi'ites
 
-\`\`\`
-Les Shi'a — Partisans de 'Ali رضي الله عنه
-│
-├── 🟢 Zaydiyyah (les plus proches de la Sunnah)
-│   └── Fondateur : Zayd ibn 'Ali (m. 122H)
-│   └── Acceptent Abu Bakr et 'Umar
-│   └── Répandus au Yémen
-│
-├── 🔵 Imamiyyah Duodécimains (Ithna 'Ashariyyah)
-│   └── La plus grande branche aujourd'hui
-│   └── 12 Imams infaillibles
-│   └── Iran, Irak, Liban, Bahreïn
-│
-├── 🟣 Isma'iliyyah
-│   └── Séparés au 7ème imam (Isma'il vs Musa)
-│   └── Sous-branches : Fatimides, Qarmates, Agha Khanis
-│   └── Doctrines ésotériques (batiniyyah)
-│
-└── ⚫ Ghulat (Extrémistes)
-    └── Divinisent 'Ali ou les Imams
-    └── Nusayriyyah (Alaouites), Druzes
-    └── Sortis de l'Islam par consensus
-\`\`\`
+| Branche | Fondateur/Position | Présence |
+|---------|-------------------|----------|
+| 🟢 **Zaydiyyah** (les plus proches de la Sunnah) | Zayd ibn 'Ali (m. 122H), acceptent Abu Bakr et 'Umar | Yémen |
+| 🔵 **Imamiyyah Duodécimains** | 12 Imams infaillibles | Iran, Irak, Liban, Bahreïn |
+| 🟣 **Isma'iliyyah** | Séparés au 7ème imam, doctrines ésotériques | Dispersés |
+| ⚫ **Ghulat** (Extrémistes) | Divinisent 'Ali (Nusayriyyah, Druzes) | Sortis de l'Islam par consensus |
 
 ---
 

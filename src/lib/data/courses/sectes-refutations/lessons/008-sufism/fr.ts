@@ -97,22 +97,10 @@ L'apparition des doctrines les plus graves :
 
 ### Les Stations et les États
 
-\`\`\`
-La Voie Soufie (as-Suluk)
-│
-├── 🏔️ Les Stations (Maqamat) — Acquises par l'effort
-│   ├── At-Tawbah (le repentir)
-│   ├── Az-Zuhd (l'ascétisme)
-│   ├── As-Sabr (la patience)
-│   ├── Ar-Rida (l'agrément)
-│   └── At-Tawakkul (la confiance en Allah)
-│
-└── 💨 Les États (Ahwal) — Dons divins non acquis
-    ├── Al-Qabd (la contraction)
-    ├── Al-Bast (l'expansion)
-    ├── Al-Fana' (l'extinction)
-    └── Al-Baqa' (la subsistance)
-\`\`\`
+| Type | Nature | Exemples |
+|------|--------|----------|
+| 🏔️ **Stations (Maqamat)** | Acquises par l'effort | At-Tawbah, Az-Zuhd, As-Sabr, Ar-Rida, At-Tawakkul |
+| 💨 **États (Ahwal)** | Dons divins non acquis | Al-Qabd, Al-Bast, Al-Fana', Al-Baqa' |
 
 ### Le Cheikh et le Disciple
 

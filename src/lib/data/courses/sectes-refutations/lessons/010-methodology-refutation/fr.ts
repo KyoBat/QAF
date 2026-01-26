@@ -112,29 +112,12 @@ Après avoir étudié les principales sectes, leurs croyances et leurs déviatio
 
 ## 📊 Quatrième fondement : Respecter les niveaux de divergence
 
-\`\`\`
-Les Niveaux de Divergence
-│
-├── 🟢 DIVERGENCE DANS LES BRANCHES (Furu')
-│   └── Entre les écoles juridiques
-│   └── Pas de rupture ni accusation d'innovation
-│   └── Exemple : Nombre de rak'at du Witr
-│
-├── 🟡 INNOVATION LÉGÈRE (Bid'ah Khafifah)
-│   └── N'atteint pas les fondements
-│   └── Clarification avec discrétion
-│   └── Exemple : Certaines formules de dhikr
-│
-├── 🟠 INNOVATION GRAVE (Bid'ah Ghaliza)
-│   └── Touche les fondements de la croyance
-│   └── Mise en garde et rupture si nécessaire
-│   └── Exemple : Nier les Attributs, excommunier les Compagnons
-│
-└── 🔴 MÉCRÉANCE EXPLICITE (Kufr Sarih)
-    └── Contradiction des fondements de l'Islam
-    └── Désaveu et coupure totale
-    └── Exemple : Wahdat al-Wujud, prétention à la prophétie
-\`\`\`
+| Niveau | Description | Attitude | Exemple |
+|--------|-------------|----------|---------|
+| 🟢 **Branches (Furu')** | Entre les écoles juridiques | Pas de rupture ni accusation d'innovation | Nombre de rak'at du Witr |
+| 🟡 **Innovation légère** | N'atteint pas les fondements | Clarification avec discrétion | Certaines formules de dhikr |
+| 🟠 **Innovation grave** | Touche les fondements de la croyance | Mise en garde et rupture si nécessaire | Nier les Attributs, excommunier les Compagnons |
+| 🔴 **Mécréance explicite** | Contradiction des fondements de l'Islam | Désaveu et coupure totale | Wahdat al-Wujud, prétention à la prophétie |
 
 ---
 
@@ -193,20 +176,13 @@ Les Niveaux de Divergence
 
 ### Les étapes du conseil
 
-\`\`\`
-1. 🤫 LE CONSEIL PRIVÉ (An-Nasihah)
-   └── D'abord en tête-à-tête, avec douceur
-   │
-   ▼
-2. 📢 LA DÉNONCIATION PUBLIQUE (Al-Inkâr al-'Alaní)
-   └── Si le conseil privé ne suffit pas
-   └── Quand l'erreur est répandue publiquement
-   │
-   ▼
-3. 🚫 LA MISE EN GARDE ET LA RUPTURE (At-Tahdhîr wal-Hajr)
-   └── Si l'opposant persiste dans l'égarement
-   └── Pour protéger les musulmans
-\`\`\`
+| Étape | Description |
+|-------|-------------|
+| 1. 🤫 **Le conseil privé** | D'abord en tête-à-tête, avec douceur |
+| ⬇️ | |
+| 2. 📢 **La dénonciation publique** | Si le conseil privé ne suffit pas, quand l'erreur est répandue publiquement |
+| ⬇️ | |
+| 3. 🚫 **Mise en garde et rupture** | Si l'opposant persiste dans l'égarement, pour protéger les musulmans |
 
 ---
 

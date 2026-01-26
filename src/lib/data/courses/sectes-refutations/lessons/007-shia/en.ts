@@ -88,29 +88,12 @@ Initially, Shi'ism was merely **political support** for 'Ali during his conflict
 
 ## 🌳 The Tree of Shi'ite Branches
 
-\`\`\`
-The Shi'a — Partisans of 'Ali رضي الله عنه
-│
-├── 🟢 Zaydiyyah (closest to the Sunnah)
-│   └── Founder: Zayd ibn 'Ali (d. 122H)
-│   └── Accept Abu Bakr and 'Umar
-│   └── Spread in Yemen
-│
-├── 🔵 Imamiyyah Twelvers (Ithna 'Ashariyyah)
-│   └── The largest branch today
-│   └── 12 Infallible Imams
-│   └── Iran, Iraq, Lebanon, Bahrain
-│
-├── 🟣 Isma'iliyyah
-│   └── Separated at the 7th Imam (Isma'il vs Musa)
-│   └── Sub-branches: Fatimids, Qarmatians, Agha Khanis
-│   └── Esoteric doctrines (batiniyyah)
-│
-└── ⚫ Ghulat (Extremists)
-    └── Deify 'Ali or the Imams
-    └── Nusayriyyah (Alawites), Druze
-    └── Outside of Islam by consensus
-\`\`\`
+| Branch | Founder/Position | Presence |
+|--------|-----------------|----------|
+| 🟢 **Zaydiyyah** (closest to Sunnah) | Zayd ibn 'Ali (d. 122H), accept Abu Bakr and 'Umar | Yemen |
+| 🔵 **Imamiyyah Twelvers** | 12 Infallible Imams | Iran, Iraq, Lebanon, Bahrain |
+| 🟣 **Isma'iliyyah** | Separated at 7th Imam, esoteric doctrines | Dispersed |
+| ⚫ **Ghulat** (Extremists) | Deify 'Ali (Nusayriyyah, Druze) | Outside Islam by consensus |
 
 ---
 
