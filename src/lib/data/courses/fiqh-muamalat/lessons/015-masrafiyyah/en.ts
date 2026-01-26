@@ -826,161 +826,130 @@ The experiment succeeded and spread throughout the Muslim world. Today, the volu
 
 ### Case One: Opening an Account in a Conventional Bank
 
-\`\`\`
-┌─────────────────────────────────────────────────────────────┐
-│  🏦 Case: No Islamic bank in my country                     │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  Question:                                                  │
-│  ══════════                                                 │
-│  There is no Islamic bank in my country.                    │
-│  Is it permissible to open an account in a conventional     │
-│  bank?                                                      │
-│                                                             │
-│  Answer:                                                    │
-│  ══════════                                                 │
-│  ┌───────────────────────────────────────────────────┐      │
-│  │ Current account without interest ◄── ✅ Permiss.  │      │
-│  │                                      by necessity │      │
-│  │ Savings account with interest ◄── ❌ Forbidden    │      │
-│  │ Accumulated interest ◄── Must be disposed of      │      │
-│  └───────────────────────────────────────────────────┘      │
-│                                                             │
-│  📍 How to dispose of interest:                             │
-│  • To the poor and needy                                    │
-│  • To hospitals and schools                                 │
-│  ⚠️ Not counted as charity, but disposal of haram money     │
-└─────────────────────────────────────────────────────────────┘
-\`\`\`
+<div class="case-box">
+
+**🏦 Case: No Islamic bank in my country**
+
+**Question:**
+There is no Islamic bank in my country. Is it permissible to open an account in a conventional bank?
+
+**Answer:**
+- Current account without interest ← ✅ **Permissible by necessity**
+- Savings account with interest ← ❌ **Forbidden**
+- Accumulated interest ← **Must be disposed of**
+
+**How to dispose of interest:**
+- To the poor and needy
+- To hospitals and schools
+
+⚠️ **Note:** Not counted as charity, but disposal of haram money
+
+</div>
 
 ---
 
 ### Case Two: Buying a Car on Installments
 
-\`\`\`
-┌─────────────────────────────────────────────────────────────┐
-│  🚗 Case: Comparison between conventional and Islamic bank  │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  Question:                                                  │
-│  ══════════                                                 │
-│  I want to buy a car:                                       │
-│  • Conventional bank: loan at 5% interest                   │
-│  • Islamic bank: Murabaha with 7% profit                    │
-│  Which should I choose?                                     │
-│                                                             │
-│  Answer:                                                    │
-│  ══════════                                                 │
-│  ✅ The Islamic bank even if more expensive!                │
-│                                                             │
-│  ┌───────────────────────┬───────────────────────┐          │
-│  │   Islamic Murabaha    │    Usurious Loan      │          │
-│  ├───────────────────────┼───────────────────────┤          │
-│  │Sale contract,         │Loan contract with     │          │
-│  │fixed price            │interest               │          │
-│  │No surplus for delay   │Interest accumulates   │          │
-│  │Bank owns car first    │Bank only lends money  │          │
-│  │ ✅ Halal              │ ❌ Categorically      │          │
-│  │                       │    haram              │          │
-│  └───────────────────────┴───────────────────────┘          │
-│                                                             │
-│  ⚠️ Verify: The bank owns the car before selling to you     │
-└─────────────────────────────────────────────────────────────┘
-\`\`\`
+<div class="case-box">
+
+**🚗 Case: Comparison between conventional and Islamic bank**
+
+**Question:**
+I want to buy a car:
+- Conventional bank: loan at 5% interest
+- Islamic bank: Murabaha with 7% profit
+Which should I choose?
+
+**Answer:**
+✅ **The Islamic bank even if more expensive!**
+
+| Islamic Murabaha | Usurious Loan |
+|-----------------|---------------|
+| Sale contract, fixed price | Loan contract with interest |
+| No surplus for delay | Interest accumulates |
+| Bank owns car first | Bank only lends money |
+| ✅ Halal | ❌ Categorically haram |
+
+⚠️ **Verify:** The bank owns the car before selling to you
+
+</div>
 
 ---
 
 ### Case Three: Investing in Bank Funds
 
-\`\`\`
-┌─────────────────────────────────────────────────────────────┐
-│  📊 Case: Islamic bank investment funds                     │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  Question:                                                  │
-│  ══════════                                                 │
-│  The Islamic bank offers investment funds.                  │
-│  Are their profits halal?                                   │
-│                                                             │
-│  Answer:                                                    │
-│  ══════════                                                 │
-│  ✅ Halal if conditions are met:                            │
-│                                                             │
-│  ☑️ Sharia oversight: committee supervising investments     │
-│  ☑️ Halal investment: funds invested in permissible         │
-│     projects                                                │
-│  ☑️ No capital guarantee: shared profits and losses         │
-│  ☑️ Purification: if haram income, donate it to charity     │
-│                                                             │
-│  💡 Request the annual Sharia committee report to verify    │
-└─────────────────────────────────────────────────────────────┘
-\`\`\`
+<div class="case-box">
+
+**📊 Case: Islamic bank investment funds**
+
+**Question:**
+The Islamic bank offers investment funds. Are their profits halal?
+
+**Answer:**
+✅ **Halal if conditions are met:**
+
+- ☑️ **Sharia oversight:** Committee supervising investments
+- ☑️ **Halal investment:** Funds invested in permissible projects
+- ☑️ **No capital guarantee:** Shared profits and losses
+- ☑️ **Purification:** If haram income, donate it to charity
+
+💡 **Tip:** Request the annual Sharia committee report to verify
+
+</div>
 
 ---
 
 ### Case Four: Banking Tawarruq
 
-\`\`\`
-┌─────────────────────────────────────────────────────────────┐
-│  💰 Case: Need for cash liquidity                           │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  Question:                                                  │
-│  ══════════                                                 │
-│  I need cash. The bank buys metals from the exchange        │
-│  then sells them to me on installments, then authorizes     │
-│  me to sell them immediately. What is the ruling?           │
-│                                                             │
-│  Answer:                                                    │
-│  ══════════                                                 │
-│  ⚠️ Disagreement among jurists:                             │
-│                                                             │
-│  ┌───────────────┬─────────────────────────────────┐        │
-│  │ ❌ Those who  │ Islamic Fiqh Academy (2009)     │        │
-│  │    forbid     │ prohibited organized tawarruq   │        │
-│  │ ✅ Those who  │ Some scholars permit it         │        │
-│  │    permit     │ with strict conditions          │        │
-│  └───────────────┴─────────────────────────────────┘        │
-│                                                             │
-│  📍 Conditions for those who permit:                        │
-│  1. Bank takes possession (actual or legal)                 │
-│  2. Bank doesn't sell to the party it bought from           │
-│  3. The commodity must be real, not fictitious              │
-└─────────────────────────────────────────────────────────────┘
-\`\`\`
+<div class="case-box">
+
+**💰 Case: Need for cash liquidity**
+
+**Question:**
+I need cash. The bank buys metals from the exchange then sells them to me on installments, then authorizes me to sell them immediately. What is the ruling?
+
+**Answer:**
+⚠️ **Disagreement among jurists:**
+
+| Position | Opinion |
+|----------|--------|
+| ❌ **Islamic Fiqh Academy (2009)** | Prohibited organized tawarruq |
+| ✅ Some Sharia committees | Permitted it with conditions |
+
+**Conditions for those who permit:**
+1. Bank takes possession (actual or legal)
+2. Bank doesn't sell to the party it bought from
+3. The commodity must be real, not fictitious
+
+</div>
 
 ---
 
 ### Case Five: Usurious Car Loan "By Necessity"
 
-\`\`\`
-┌─────────────────────────────────────────────────────────────┐
-│  🚗 Case: No Islamic financing available                    │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  Question:                                                  │
-│  ══════════                                                 │
-│  I need a car for work and there's no Islamic bank.         │
-│  Is it permissible to take a usurious loan by necessity?    │
-│                                                             │
-│  Answer:                                                    │
-│  ══════════                                                 │
-│  ❌ The principle: Usurious loans are forbidden             │
-│                                                             │
-│  📍 Legal necessity = what preserves life                   │
-│  📍 Car for work = need, not necessity in legal sense       │
-│                                                             │
-│  ✅ Alternatives:                                           │
-│  • Save until cash purchase                                 │
-│  • Buy a cheaper used car                                   │
-│  • Rent instead of buying                                   │
-│  • Benevolent loan from family or friends                   │
-│  • Look for Islamic bank in a neighboring city              │
-│                                                             │
-│  💡 Rule: "Hardship does not permit the categorically       │
-│           forbidden"                                        │
-└─────────────────────────────────────────────────────────────┘
-\`\`\`
+<div class="case-box">
+
+**🚗 Case: No Islamic financing available**
+
+**Question:**
+I need a car for work and there's no Islamic bank. Is it permissible to take a usurious loan by necessity?
+
+**Answer:**
+❌ **Principle: Usurious loans are forbidden**
+
+- **Legal necessity** = What preserves life
+- **Car for work** = Need, not necessity in legal sense
+
+**Alternatives:**
+- Save until cash purchase
+- Buy a cheaper used car
+- Rent instead of buying
+- Benevolent loan from family or friends
+- Look for Islamic bank in a neighboring city
+
+💡 **Rule:** "Hardship does not permit the categorically forbidden"
+
+</div>
 
 ---
 

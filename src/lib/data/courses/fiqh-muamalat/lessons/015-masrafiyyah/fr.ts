@@ -366,31 +366,130 @@ L'expérience a réussi et s'est répandue dans le monde musulman. Aujourd'hui, 
 
 ### Premier cas : Ouvrir un compte dans une banque conventionnelle
 
-<!-- DIAGRAM:case-conventional-bank -->
+<div class="case-box">
+
+**🏦 Cas : Pas de banque islamique dans mon pays**
+
+**Question :**
+Il n'y a pas de banque islamique dans mon pays. Est-il permis d'ouvrir un compte dans une banque conventionnelle ?
+
+**Réponse :**
+- Compte courant sans intérêts ← ✅ **Permis par nécessité**
+- Compte épargne avec intérêts ← ❌ **Interdit**
+- Intérêts accumulés ← **Doivent être éliminés**
+
+**Comment éliminer les intérêts :**
+- Aux pauvres et nécessiteux
+- Aux hôpitaux et écoles
+
+⚠️ **Attention :** Ce n'est pas compté comme aumône, mais élimination d'argent illicite
+
+</div>
 
 ---
 
 ### Deuxième cas : Acheter une voiture à crédit
 
-<!-- DIAGRAM:case-car-credit -->
+<div class="case-box">
+
+**🚗 Cas : Comparaison entre banque conventionnelle et islamique**
+
+**Question :**
+Je veux acheter une voiture :
+- Banque conventionnelle : prêt à 5% d'intérêt
+- Banque islamique : Murabaha avec 7% de profit
+Laquelle choisir ?
+
+**Réponse :**
+✅ **La banque islamique même si plus chère !**
+
+| Murabaha islamique | Prêt usuraire |
+|-------------------|---------------|
+| Contrat de vente, prix fixe | Contrat de prêt avec intérêt |
+| Pas de surplus pour retard | Les intérêts s'accumulent |
+| La banque possède la voiture | La banque prête de l'argent |
+| ✅ Halal | ❌ Catégoriquement haram |
+
+⚠️ **Vérifiez :** La banque possède la voiture avant de vous la vendre
+
+</div>
 
 ---
 
 ### Troisième cas : Investir dans les fonds de la banque
 
-<!-- DIAGRAM:case-investment-funds -->
+<div class="case-box">
+
+**📊 Cas : Fonds d'investissement de la banque islamique**
+
+**Question :**
+La banque islamique propose des fonds d'investissement. Leurs profits sont-ils halal ?
+
+**Réponse :**
+✅ **Halal si les conditions sont remplies :**
+
+- ☑️ **Supervision shariatique :** Comité shariatique supervisant les investissements
+- ☑️ **Investissement halal :** Fonds investis dans des projets licites
+- ☑️ **Pas de garantie du capital :** Profits et pertes partagés
+- ☑️ **Purification :** Si revenu illicite, il est donné en charité
+
+💡 **Conseil :** Demandez le rapport annuel du comité shariatique pour vérifier
+
+</div>
 
 ---
 
 ### Quatrième cas : Le Tawarruq bancaire
 
-<!-- DIAGRAM:case-tawarruq -->
+<div class="case-box">
+
+**💰 Cas : Besoin de liquidités**
+
+**Question :**
+J'ai besoin de liquidités. La banque achète des métaux de la bourse puis me les vend à tempérament, puis me mandate pour les revendre immédiatement. Quel est le jugement ?
+
+**Réponse :**
+⚠️ **Désaccord entre les juristes :**
+
+| Position | Avis |
+|----------|------|
+| ❌ **Académie Internationale de Fiqh (2009)** | A interdit le tawarruq organisé |
+| ✅ Certains comités shariatiques | L'ont permis sous conditions |
+
+**Conditions pour ceux qui le permettent :**
+1. La banque prend possession (réelle ou légale)
+2. La banque ne revend pas à celui de qui elle a acheté
+3. La marchandise doit être réelle, pas fictive
+
+</div>
 
 ---
 
 ### Cinquième cas : Prêt usuraire pour voiture "par nécessité"
 
-<!-- DIAGRAM:case-car-necessity -->
+<div class="case-box">
+
+**🚗 Cas : Pas de financement islamique disponible**
+
+**Question :**
+J'ai besoin d'une voiture pour le travail et il n'y a pas de banque islamique. Est-il permis de prendre un prêt usuraire par nécessité ?
+
+**Réponse :**
+❌ **Principe : Le prêt usuraire est interdit**
+
+- **Nécessité légale** = Ce qui préserve la vie
+- **Voiture pour le travail** = Besoin, pas une nécessité au sens légal
+
+**Alternatives :**
+- Épargner jusqu'à l'achat au comptant
+- Acheter une voiture d'occasion moins chère
+- Louer au lieu d'acheter
+- Prêt sans intérêt de la famille ou des amis
+- Chercher une banque islamique dans une ville voisine
+
+💡 **Règle :** "La difficulté ne rend pas licite ce qui est catégoriquement interdit"
+
+</div>
 
 ---
 
