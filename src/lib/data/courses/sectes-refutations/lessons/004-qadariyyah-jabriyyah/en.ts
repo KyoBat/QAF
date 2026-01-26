@@ -44,29 +44,6 @@ He replied: **"That you believe in Allah, His angels, His books, His messengers,
 | **3. Will (المشيئة)** | What Allah wills is, what He doesn't will isn't | ﴿And you do not will except that Allah wills﴾ |
 | **4. Creation (الخلق)** | Allah is Creator of all things | ﴿Allah is the Creator of all things﴾ |
 
-\`\`\`
-The Four Levels of Predestination
-├── 1️⃣ KNOWLEDGE (العلم)
-│   ├── Allah knows everything
-│   ├── Past, present and future
-│   └── Nothing escapes Him
-│
-├── 2️⃣ WRITING (الكتابة)
-│   ├── Everything is recorded
-│   ├── In the Preserved Tablet
-│   └── 50,000 years before creation
-│
-├── 3️⃣ WILL (المشيئة)
-│   ├── What Allah wills happens
-│   ├── What He doesn't will doesn't happen
-│   └── Nothing escapes His will
-│
-└── 4️⃣ CREATION (الخلق)
-    ├── Allah creates everything
-    ├── Including the servants' actions
-    └── He alone is the Creator
-\`\`\`
-
 ---
 
 ## ⚔️ Part 2: The Qadariyyah — Deniers of Predestination
@@ -342,20 +319,7 @@ Both are true:
 
 ### The Wisdom of the Middle Way
 
-\`\`\`
-The Balance of Ahl as-Sunnah
-├── ❌ Qadariyyah: "Man creates his actions"
-│   └── → Denies Allah's lordship
-│
-├── ❌ Jabriyyah: "Man has no choice"
-│   └── → Denies human responsibility
-│
-└── ✅ Ahl as-Sunnah: Both are true
-    ├── Allah is Creator of everything
-    ├── Man has real choice
-    ├── The choice itself is created by Allah
-    └── Responsibility is preserved
-\`\`\`
+<!-- DIAGRAM:qadar-two-extremes -->
 
 ### Personal Questions
 

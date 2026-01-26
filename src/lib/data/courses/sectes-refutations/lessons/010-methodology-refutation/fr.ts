@@ -60,21 +60,7 @@ Après avoir étudié les principales sectes, leurs croyances et leurs déviatio
 
 ### Les conditions pour excommunier un individu (Takfir al-Mu'ayyan)
 
-\`\`\`
-Conditions du Takfir
-│
-├── 1️⃣ LA SCIENCE (Al-'Ilm)
-│   └── Qu'il sache que sa parole contredit la Loi
-│
-├── 2️⃣ L'INTENTION (Al-Qasd)
-│   └── Qu'il vise la contradiction, pas une erreur d'expression
-│
-└── 3️⃣ L'ABSENCE D'OBSTACLES (Intifa' al-Mawani')
-    ├── L'ignorance (Al-Jahl)
-    ├── L'interprétation erronée (At-Ta'wil)
-    ├── La contrainte (Al-Ikrah)
-    └── L'erreur (Al-Khata')
-\`\`\`
+<!-- DIAGRAM:firaq-takfir-conditions -->
 
 ---
 

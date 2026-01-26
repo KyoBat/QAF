@@ -45,13 +45,12 @@ This deviation, more subtle than that of the Khawarij, has had a **devastating i
 
 ### Chronology
 
-\`\`\`
-Emergence of Murji'ism
-├── ~35-40 H: Excess of the Khawarij (takfir of sinners)
-├── ~70-100 H: Opposite reaction → Birth of Murji'ism
-├── ~128 H: Jahm ibn Safwan (extreme Murji'ism)
-└── Following centuries: Influence on Ash'arism
-\`\`\`
+| Period | Event |
+|--------|-------|
+| ~35-40 H | Excess of the Khawarij (takfir of sinners) |
+| ~70-100 H | Opposite reaction → Birth of Murji'ism |
+| ~128 H | Jahm ibn Safwan (extreme Murji'ism) |
+| Following centuries | Influence on Ash'arism |
 
 ---
 
@@ -115,17 +114,7 @@ Emergence of Murji'ism
 
 ### 1. Excluding Actions from Faith
 
-\`\`\`
-Comparison of Definitions of Faith
-├── KHAWARIJ
-│   └── Faith = Belief + Statement + Actions (every sin = kufr)
-│
-├── EXTREME MURJI'AH
-│   └── Faith = Knowledge or Belief alone (actions outside faith)
-│
-└── AHL AS-SUNNAH
-    └── Faith = Belief + Statement + Actions (sin ≠ kufr, but weakens faith)
-\`\`\`
+<!-- DIAGRAM:murjiah-iman-definition -->
 
 ### 2. Faith Neither Increases Nor Decreases
 
@@ -217,29 +206,12 @@ Comparison of Definitions of Faith
 
 ### Pillars of Faith
 
-\`\`\`
-Faith According to Ahl as-Sunnah
-├── 1️⃣ Statement of the Tongue
-│   ├── The two testimonies
-│   └── Dhikr and du'a
-│
-├── 2️⃣ Actions of the Heart
-│   ├── Belief (firm conviction)
-│   ├── Fear of Allah
-│   ├── Hope in Him
-│   ├── Love for Him
-│   └── Trust in Him
-│
-├── 3️⃣ Actions of the Limbs
-│   ├── Prayer
-│   ├── Zakat
-│   ├── Fasting
-│   └── Other acts of worship
-│
-└── 📊 Faith Increases and Decreases
-    ├── Increases by acts of obedience
-    └── Decreases by sins
-\`\`\`
+| Pillar | Components |
+|--------|------------|
+| **1️⃣ Statement of the Tongue** | The two testimonies, Dhikr and du'a |
+| **2️⃣ Actions of the Heart** | Belief (firm conviction), Fear of Allah, Hope in Him, Love for Him, Trust in Him |
+| **3️⃣ Actions of the Limbs** | Prayer, Zakat, Fasting, Other acts of worship |
+| **📊 Faith Increases and Decreases** | Increases by acts of obedience, Decreases by sins |
 
 ### Comparison Table
 

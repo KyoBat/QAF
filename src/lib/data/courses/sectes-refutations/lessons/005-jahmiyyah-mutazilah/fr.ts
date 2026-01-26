@@ -110,33 +110,13 @@ Les savants du Salaf considèrent les **Jahmiyyah extrémistes comme mécréants
 
 ### Les Cinq Principes Fondateurs des Mu'tazilah
 
-\`\`\`
-Les Cinq Principes (الأصول الخمسة)
-├── 1️⃣ LE TAWHID (leur version)
-│   ├── Négation des Attributs essentiels
-│   ├── "Affirmer les Attributs = pluralité des éternels"
-│   └── → Allah entend, mais n'a pas d'Ouïe !
-│
-├── 2️⃣ LA JUSTICE (leur version)
-│   ├── L'homme crée ses propres actes
-│   ├── Allah ne peut pas créer le mal
-│   └── → Négation du Destin (comme les Qadariyyah)
-│
-├── 3️⃣ LA POSITION INTERMÉDIAIRE
-│   ├── Le grand pécheur ≠ croyant
-│   ├── Le grand pécheur ≠ mécréant
-│   └── → Il est "entre les deux" (manzilah bayna manzilatay)
-│
-├── 4️⃣ L'EXÉCUTION DE LA MENACE
-│   ├── Qui entre en Enfer n'en sort jamais
-│   ├── Pas d'intercession pour les grands pécheurs
-│   └── → Désespoir pour les pécheurs musulmans
-│
-└── 5️⃣ L'ORDRE DU BIEN ET L'INTERDICTION DU MAL
-    ├── Par la force et l'épée si possible
-    ├── Rébellion contre le gouverneur injuste = obligatoire
-    └── → Chaos et guerres civiles
-\`\`\`
+| Principe | Contenu | Conséquence |
+|----------|---------|-------------|
+| **1️⃣ Le Tawhid** | Négation des Attributs essentiels, "Affirmer les Attributs = pluralité des éternels" | Allah entend, mais n'a pas d'Ouïe ! |
+| **2️⃣ La Justice** | L'homme crée ses propres actes, Allah ne peut pas créer le mal | Négation du Destin (comme les Qadariyyah) |
+| **3️⃣ La Position Intermédiaire** | Le grand pécheur ≠ croyant ≠ mécréant | Il est "entre les deux" |
+| **4️⃣ L'Exécution de la Menace** | Qui entre en Enfer n'en sort jamais, pas d'intercession | Désespoir pour les pécheurs musulmans |
+| **5️⃣ L'Ordre du Bien** | Par la force et l'épée si possible, rébellion obligatoire | Chaos et guerres civiles |
 
 ### Les Grands Chefs Mu'tazilites
 

@@ -45,13 +45,12 @@ Cette déviation, plus subtile que celle des Khawarij, a eu un **impact dévasta
 
 ### Chronologie
 
-\`\`\`
-Émergence du Murji'isme
-├── ~35-40 H : Excès des Khawarij (takfir des pécheurs)
-├── ~70-100 H : Réaction opposée → Naissance du Murji'isme
-├── ~128 H : Jahm ibn Safwan (Murji'isme extrême)
-└── Siècles suivants : Influence sur l'Ash'arisme
-\`\`\`
+| Période | Événement |
+|---------|-----------|
+| ~35-40 H | Excès des Khawarij (takfir des pécheurs) |
+| ~70-100 H | Réaction opposée → Naissance du Murji'isme |
+| ~128 H | Jahm ibn Safwan (Murji'isme extrême) |
+| Siècles suivants | Influence sur l'Ash'arisme |
 
 ---
 
@@ -115,17 +114,7 @@ Cette déviation, plus subtile que celle des Khawarij, a eu un **impact dévasta
 
 ### 1. Exclure les Actes de la Foi
 
-\`\`\`
-Comparaison des Définitions de la Foi
-├── KHAWARIJ
-│   └── Foi = Croyance + Parole + Actes (tout péché = kufr)
-│
-├── MURJI'AH EXTRÊMES
-│   └── Foi = Connaissance ou Croyance seule (actes hors foi)
-│
-└── AHL AS-SUNNAH
-    └── Foi = Croyance + Parole + Actes (péché ≠ kufr, mais affaiblit la foi)
-\`\`\`
+<!-- DIAGRAM:murjiah-iman-definition -->
 
 ### 2. La Foi N'Augmente Ni Ne Diminue
 
@@ -227,29 +216,12 @@ Exemple :
 
 ### Les Composantes de la Foi
 
-\`\`\`
-Structure de la Foi selon Ahl as-Sunnah
-├── 📜 PAROLE DE LA LANGUE
-│   ├── La shahada (deux attestations)
-│   ├── Le dhikr, la récitation du Coran
-│   └── Ordonner le bien, interdire le mal
-│
-├── ❤️ CROYANCE DU CŒUR
-│   ├── Certitude ferme en Allah et Son Messager
-│   ├── Acceptation et soumission
-│   └── Rejet du doute
-│
-├── 💖 ACTES DU CŒUR
-│   ├── L'amour d'Allah et de Son Messager
-│   ├── La crainte (khawf) et l'espoir (raja')
-│   ├── Le tawakkul, la sincérité
-│   └── Le repentir
-│
-└── 🤲 ACTES DES MEMBRES
-    ├── La prière, le jeûne, la zakat, le hajj
-    ├── Aider les gens, écarter l'obstacle
-    └── Tous les actes d'obéissance
-\`\`\`
+| Composante | Éléments |
+|------------|----------|
+| **📜 Parole de la Langue** | La shahada, le dhikr, la récitation du Coran, ordonner le bien |
+| **❤️ Croyance du Cœur** | Certitude ferme, acceptation et soumission, rejet du doute |
+| **💖 Actes du Cœur** | L'amour, la crainte (khawf), l'espoir (raja'), le tawakkul, le repentir |
+| **🤲 Actes des Membres** | La prière, le jeûne, la zakat, le hajj, aider les gens |
 
 ### L'Augmentation et la Diminution
 

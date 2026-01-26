@@ -110,33 +110,13 @@ The scholars of the Salaf considered the **extreme Jahmiyyah as disbelievers**:
 
 ### The Five Founding Principles of the Mu'tazilah
 
-\`\`\`
-The Five Principles (الأصول الخمسة)
-├── 1️⃣ TAWHID (their version)
-│   ├── Negation of essential Attributes
-│   ├── "Affirming Attributes = plurality of eternals"
-│   └── → Allah hears, but has no Hearing!
-│
-├── 2️⃣ JUSTICE (their version)
-│   ├── Man creates his own actions
-│   ├── Allah cannot create evil
-│   └── → Negation of Divine Decree (like the Qadariyyah)
-│
-├── 3️⃣ THE INTERMEDIATE POSITION
-│   ├── The major sinner ≠ believer
-│   ├── The major sinner ≠ disbeliever
-│   └── → He is "between the two" (manzilah bayna manzilatay)
-│
-├── 4️⃣ EXECUTION OF THE THREAT
-│   ├── Whoever enters Hell never leaves
-│   ├── No intercession for major sinners
-│   └── → Despair for sinful Muslims
-│
-└── 5️⃣ COMMANDING GOOD AND FORBIDDING EVIL
-    ├── By force and sword if possible
-    ├── Rebellion against the unjust ruler = obligatory
-    └── → Chaos and civil wars
-\`\`\`
+| Principle | Content | Consequence |
+|-----------|---------|-------------|
+| **1️⃣ Tawhid** | Negation of essential Attributes, "Affirming Attributes = plurality of eternals" | Allah hears, but has no Hearing! |
+| **2️⃣ Justice** | Man creates his own actions, Allah cannot create evil | Negation of Divine Decree (like the Qadariyyah) |
+| **3️⃣ Intermediate Position** | Major sinner ≠ believer ≠ disbeliever | He is "between the two" |
+| **4️⃣ Execution of the Threat** | Whoever enters Hell never leaves, no intercession | Despair for sinful Muslims |
+| **5️⃣ Commanding Good** | By force and sword if possible, rebellion obligatory | Chaos and civil wars |
 
 ### The Great Mu'tazilite Leaders
 

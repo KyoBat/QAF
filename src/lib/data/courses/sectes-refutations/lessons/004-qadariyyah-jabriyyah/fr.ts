@@ -44,29 +44,6 @@ Il répondit : **« Que tu croies en Allah, Ses anges, Ses livres, Ses messagers
 | **3. La Volonté (المشيئة)** | Ce qu'Allah veut est, ce qu'Il ne veut pas n'est pas | ﴿وَمَا تَشَاءُونَ إِلَّا أَن يَشَاءَ اللَّهُ﴾ |
 | **4. La Création (الخلق)** | Allah est Créateur de toute chose | ﴿اللَّهُ خَالِقُ كُلِّ شَيْءٍ﴾ |
 
-\`\`\`
-Les Quatre Niveaux du Destin
-├── 1️⃣ LA SCIENCE (العلم)
-│   ├── Allah sait tout
-│   ├── Passé, présent et futur
-│   └── Rien ne Lui échappe
-│
-├── 2️⃣ L'ÉCRITURE (الكتابة)
-│   ├── Tout est consigné
-│   ├── Dans la Table Préservée
-│   └── 50 000 ans avant la création
-│
-├── 3️⃣ LA VOLONTÉ (المشيئة)
-│   ├── Ce qu'Allah veut se réalise
-│   ├── Ce qu'Il ne veut pas ne se réalise pas
-│   └── Rien n'échappe à Sa volonté
-│
-└── 4️⃣ LA CRÉATION (الخلق)
-    ├── Allah crée tout
-    ├── Y compris les actes des serviteurs
-    └── Il est le Créateur de toute chose
-\`\`\`
-
 ---
 
 ## ⚔️ Partie 2 : Les Qadariyyah — Négateurs du Destin
@@ -342,20 +319,7 @@ Les deux sont vrais :
 
 ### La Sagesse du Milieu
 
-\`\`\`
-L'Équilibre d'Ahl as-Sunnah
-├── ❌ Qadariyyah : "L'homme crée ses actes"
-│   └── → Nie la seigneurie d'Allah
-│
-├── ❌ Jabriyyah : "L'homme n'a aucun choix"
-│   └── → Nie la responsabilité humaine
-│
-└── ✅ Ahl as-Sunnah : Les deux sont vrais
-    ├── Allah est le Créateur de tout
-    ├── L'homme a un choix réel
-    ├── Le choix est lui-même créé par Allah
-    └── La responsabilité est préservée
-\`\`\`
+<!-- DIAGRAM:qadar-two-extremes -->
 
 ### Questions Personnelles
 

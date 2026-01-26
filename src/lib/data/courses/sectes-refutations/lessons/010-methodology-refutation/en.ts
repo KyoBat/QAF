@@ -60,21 +60,7 @@ After studying the main sects, their beliefs and deviations, this final lesson p
 
 ### Conditions for Excommunicating an Individual (Takfir al-Mu'ayyan)
 
-\`\`\`
-Conditions for Takfir
-│
-├── 1️⃣ KNOWLEDGE (Al-'Ilm)
-│   └── That he knows his statement contradicts the Law
-│
-├── 2️⃣ INTENT (Al-Qasd)
-│   └── That he intends the contradiction, not a mere error of expression
-│
-└── 3️⃣ ABSENCE OF OBSTACLES (Intifa' al-Mawani')
-    ├── Ignorance (Al-Jahl)
-    ├── Erroneous interpretation (At-Ta'wil)
-    ├── Coercion (Al-Ikrah)
-    └── Mistake (Al-Khata')
-\`\`\`
+<!-- DIAGRAM:firaq-takfir-conditions -->
 
 ---
 
