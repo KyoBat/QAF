@@ -110,21 +110,7 @@ Muslims are unanimous on **the permissibility of sale in general**; disagreement
 
 ## 💡 The Wisdom Behind the Legitimacy of Sale
 
-\`\`\`
-          🎯 Why was sale legislated?
-                       │
-        ┌──────────────┼──────────────┐
-        │              │              │
-   Enable exchange   Facilitate    Develop
-   (What you have    living        wealth
-   may be needed     (Meeting      (Encouraging
-   by others)        needs)        work & trade)
-        │              │              │
-        └──────────────┼──────────────┘
-                       │
-            Cooperation among people
-            (Meeting society's needs)
-\`\`\`
+<!-- DIAGRAM:sale-wisdom -->
 
 ---
 
@@ -132,18 +118,7 @@ Muslims are unanimous on **the permissibility of sale in general**; disagreement
 
 ### According to the Majority (Malikis, Shafi'is, and Hanbalis)
 
-\`\`\`
-              📝 The Three Pillars of Sale
-                          │
-            ┌─────────────┼─────────────┐
-            │             │             │
-    The Contracting    The Formula    The Subject
-        Parties         (Offer and     Matter
-    (Seller & Buyer)   Acceptance)   (Goods & Price)
-            │             │             │
-        Conditions    Conditions    Conditions
-        of parties    of formula    of subject
-\`\`\`
+<!-- DIAGRAM:sale-pillars -->
 
 ### According to the Hanafis
 
@@ -180,24 +155,13 @@ The pillar according to them is **only the formula** (offer and acceptance), the
 
 ### 1. Absolute Sale (Bargaining)
 
-\`\`\`
-   💬 Bargaining
-          │
- Seller doesn't reveal ──→ Buyer bargains ──→ They agree on a price
- purchase price
-\`\`\`
+<!-- DIAGRAM:bargaining-process -->
 
 **Example:** You go to the market and bargain for a product until you agree on a price.
 
 ### 2. Murabaha Sale (Cost-Plus)
 
-\`\`\`
-   📈 Murabaha
-          │
- Seller reveals  ──→  Adds a known  ──→  Final price
- purchase price      profit
-    (100)               (20)             (120)
-\`\`\`
+<!-- DIAGRAM:murabaha-process -->
 
 **Example:** "I bought it for 100 and I'm selling it for 120."
 
@@ -237,16 +201,7 @@ The pillar according to them is **only the formula** (offer and acceptance), the
 
 ### Types of Formula
 
-\`\`\`
-            📋 Types of Sale Formula
-                        │
-          ┌─────────────┼─────────────┐
-          │             │             │
-        Verbal       Practical      Written
-      (I sold,       (Mu'ataat:    (Written
-      I bought)      exchange by   contracts,
-                     action)       correspondence)
-\`\`\`
+<!-- DIAGRAM:sale-formula-types -->
 
 ### 1. Verbal Formula
 

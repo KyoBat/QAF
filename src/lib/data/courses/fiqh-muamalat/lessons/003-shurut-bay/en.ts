@@ -51,22 +51,7 @@ The Prophet ﷺ said:
 
 ## 📋 Categories of Sale Conditions
 
-\`\`\`
-            ⚖️ Categories of Sale Conditions
-                         │
-          ┌──────────────┼──────────────┐
-          │              │              │
-   Conditions of    Conditions of   Conditions of
-   Conclusion       Validity        Bindingness
-   (What the        (What the       (What the
-   contract's       production of   firmness of
-   existence        effects         contract
-   depends on)      depends on)     depends on)
-          │              │              │
-   If absent:       If absent:      If absent:
-   Sale is void     Sale is         Sale is valid
-                    defective       but revocable
-\`\`\`
+<!-- DIAGRAM:sale-conditions-categories -->
 
 ---
 
@@ -97,20 +82,7 @@ The Prophet ﷺ said:
 
 ### Second Condition: Discernment and Maturity 👦
 
-\`\`\`
-           📊 The Child's Dispositions
-                       │
-        ┌──────────────┼──────────────┐
-        │              │              │
-  Undiscerning     Discerning      Responsible
-  Child            Child           Adult
-  (under 7 years)  (7-15 years)    (over 15)
-        │              │              │
-  ❌ Absolutely    🔶 Valid for    ✅ Absolutely
-     invalid       minor           valid
-                   transactions
-                   with permission
-\`\`\`
+<!-- DIAGRAM:child-dispositions -->
 
 <div class="scene-box">
 
@@ -207,17 +179,7 @@ The Prophet ﷺ said:
 
 **Lawful Property (mutaqawwam):** What is legally permissible to use.
 
-\`\`\`
-        🚫 What Cannot Be Sold (Unlawful)
-                        │
-        ┌───────┬───────┼───────┬───────┐
-        │       │       │       │       │
-    Alcohol   Pork   Carrion  Drugs  Instruments
-        │       │       │       │     of
-        └───────┴───────┴───────┴─────┘ forbidden
-                        │               entertainment
-            All forbidden to use = cannot be sold
-\`\`\`
+<!-- DIAGRAM:unlawful-items -->
 
 <div class="quote-box">
 
@@ -306,16 +268,7 @@ The Prophet ﷺ said:
 
 ## 💵 Conditions of the Price
 
-\`\`\`
-             💰 Conditions of the Price
-                      │
-        ┌─────────────┼─────────────┐
-        │             │             │
-    Being Known    Being          Being Owned
-    (type,         Deliverable    or Accessible
-    quantity,      (ability to
-    quality)       pay)
-\`\`\`
+<!-- DIAGRAM:price-conditions -->
 
 **Ignorance of the price vitiates the sale!**
 
@@ -337,17 +290,7 @@ The Prophet ﷺ said:
 
 ### 1. Correspondence Between Offer and Acceptance
 
-\`\`\`
-       ✅ Correspondence                ❌ Discrepancy
-             │                               │
-  Seller: I sell you             Seller: I sell you
-  the car for 50,000             the car for 50,000
-             │                               │
-  Buyer: I accept                Buyer: I accept
-         for 50,000                      for 40,000
-             │                               │
-        = Valid sale                  = No contract
-\`\`\`
+<!-- DIAGRAM:offer-acceptance-correspondence -->
 
 ### 2. Continuity Between Offer and Acceptance
 
@@ -363,19 +306,7 @@ The Prophet ﷺ said:
 
 ## 📋 Conditions Within the Sale (What a Party Stipulates)
 
-\`\`\`
-            📋 Types of Conditions in Sale
-                          │
-            ┌─────────────┼─────────────┐
-            │             │             │
-     Valid            Defective      Conditions
-     Conditions       Conditions     That Vitiate
-     (binding)        (void          the Contract
-            │          themselves)         │
-     Must be          The condition  The sale is
-     fulfilled        is void,       void
-                      sale remains
-\`\`\`
+<!-- DIAGRAM:conditions-types -->
 
 ### Valid Conditions ✅
 

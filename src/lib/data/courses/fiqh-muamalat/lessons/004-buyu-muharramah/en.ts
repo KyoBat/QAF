@@ -44,18 +44,7 @@ The Prophet ﷺ said:
 
 ## 🔍 Causes of Forbidden Sales
 
-\`\`\`
-            🚫 Causes of Forbidden Sales
-                          │
-      ┌─────────┬─────────┴─────────┬─────────┐
-      │         │                   │         │
-   Usury     Uncertainty        Injustice  Unlawful
-      │         │                   │        Object
-   Surplus   Ignorance          Devouring    │
-   without   and uncalculated   others'    Alcohol
-   counter-  risk               wealth     Pork
-   value                        unjustly   Idols
-\`\`\`
+<!-- DIAGRAM:forbidden-sales-reasons -->
 
 ---
 
@@ -124,22 +113,7 @@ The Prophet ﷺ said:
 
 </div>
 
-\`\`\`
-         📊 Forbidden Pre-Islamic Sales
-                      │
-        ┌─────────────┼─────────────┐
-        │             │             │
-   Mulamasa       Munabadha      Hasah
-   (touch)        (toss)         (pebble)
-        │             │             │
-   Whatever you   Whatever I     Whatever the
-   touch is       throw to you   pebble lands
-   yours          is yours       on is yours
-        │             │             │
-        └─────────────┴─────────────┘
-                      │
-            All are uncertainty and ignorance
-\`\`\`
+<!-- DIAGRAM:jahiliyyah-sales -->
 
 ---
 
@@ -182,21 +156,7 @@ The Prophet ﷺ said:
 
 ### 🎯 Madamin and Malaqih Sales
 
-\`\`\`
-        🐪 What Cannot Be Sold from Animals
-                      │
-           ┌──────────┴──────────┐
-           │                     │
-      Madamin                Malaqih
-           │                     │
-      What is in the        What is in the
-      loins of male         wombs of female
-      animals (semen)       animals (fetuses)
-           │                     │
-           └──────────┬──────────┘
-                      │
-          Non-existent + unknown = gharar
-\`\`\`
+<!-- DIAGRAM:animal-forbidden-sales -->
 
 ---
 
@@ -383,19 +343,7 @@ The Prophet ﷺ said:
 
 **Definition of hoarding:**
 
-\`\`\`
-           📊 When is Hoarding Forbidden?
-                       │
-          ┌────────────┼────────────┐
-          │            │            │
-      Buying        In times      To raise
-      food/         of            prices on
-      necessities   scarcity      people
-          │            │            │
-          └────────────┴────────────┘
-                       │
-               = Forbidden hoarding
-\`\`\`
+<!-- DIAGRAM:hoarding-definition -->
 
 **What the ruler can do:**
 
@@ -434,18 +382,7 @@ The Prophet ﷺ said:
 
 **Why is it forbidden?**
 
-\`\`\`
-        💰 The Reality of 'Ina Sale
-               │
-   ┌───────────┴───────────┐
-   │                       │
-Appearance:             Reality:
-Sale then buyback       Loan with interest!
-               │
-   1000 cash ← ← ← → → → 1200 on credit
-               │
-           = Disguised usury
-\`\`\`
+<!-- DIAGRAM:inah-sale-reality -->
 
 ---
 
@@ -461,20 +398,7 @@ Sale then buyback       Loan with interest!
 
 </div>
 
-\`\`\`
-         🚫 Objects Forbidden to Sell
-                     │
-    ┌────────┬───────┼───────┬────────┐
-    │        │       │       │        │
- Alcohol  Carrion   Pork   Idols    Dog
-    │        │       │       │        │
-  "He       Forbidden Text   Whatever He
-  forbade   for       and    is       forbade
-  drinking  eating    con-   worshipped its
-  and       so        sensus besides   price"
-  selling"  its sale         Allah
-            is forbid
-\`\`\`
+<!-- DIAGRAM:forbidden-goods -->
 
 ### ⚠️ Exception for Dogs
 
@@ -562,19 +486,7 @@ Sale then buyback       Loan with interest!
 
 ## 📊 Effects of Forbidden Sales on the Contract
 
-\`\`\`
-         ⚖️ Effects of Prohibition on the Contract
-                     │
-    ┌────────────────┼────────────────┐
-    │                │                │
- Forbidden in    Forbidden by     Forbidden for
- itself          an attribute     external cause
- (like usury)    (like Najsh)          │
-    │                │                │
-   Void          Valid with       Valid with
-   no effect     sin              sin
-                                  (like Friday time)
-\`\`\`
+<!-- DIAGRAM:prohibition-effects -->
 
 ---
 

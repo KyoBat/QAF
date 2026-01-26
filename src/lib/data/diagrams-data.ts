@@ -2681,6 +2681,416 @@ const diagramsRegistry: Record<string, DiagramData> = {
       }
     ],
     footer: { ar: 'قال الله تعالى: ﴿وَأَحَلَّ اللَّهُ الْبَيْعَ وَحَرَّمَ الرِّبَا﴾', fr: 'Allah a dit: ﴿Allah a rendu licite le commerce et illicite l\'usure﴾', en: 'Allah said: ﴿Allah has made trade lawful and usury unlawful﴾' }
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // FIQH MUAMALAT - AHKAM BUYU (Lesson 002)
+  // ─────────────────────────────────────────────────────────
+  'sale-wisdom': {
+    type: 'tree',
+    title: { ar: '🎯 لماذا شُرع البيع؟', fr: '🎯 Pourquoi la vente a-t-elle été légiférée ?', en: '🎯 Why was sale legislated?' },
+    root: { ar: 'التعاون بين الناس', fr: 'Coopération entre les gens', en: 'Cooperation among people' },
+    branches: [
+      {
+        label: { ar: 'تحقيق التبادل', fr: 'Réaliser l\'échange', en: 'Enable exchange' },
+        description: { ar: 'ما عندك قد يحتاجه غيرك', fr: 'Ce que tu as peut être utile à autrui', en: 'What you have may be needed by others' },
+        variant: 'default'
+      },
+      {
+        label: { ar: 'تسهيل المعيشة', fr: 'Faciliter la vie', en: 'Facilitate living' },
+        description: { ar: 'تلبية الحاجات المختلفة', fr: 'Satisfaire les besoins', en: 'Meeting needs' },
+        variant: 'default'
+      },
+      {
+        label: { ar: 'تنمية الثروة', fr: 'Développer la richesse', en: 'Develop wealth' },
+        description: { ar: 'الحث على العمل والتجارة', fr: 'Encourager le travail', en: 'Encouraging work & trade' },
+        variant: 'default'
+      }
+    ]
+  },
+
+  'sale-pillars': {
+    type: 'tree',
+    title: { ar: '📝 أركان البيع الثلاثة', fr: '📝 Les trois piliers de la vente', en: '📝 The Three Pillars of Sale' },
+    branches: [
+      {
+        label: { ar: 'العاقدان', fr: 'Les contractants', en: 'The Contracting Parties' },
+        description: { ar: 'البائع والمشتري', fr: 'Le vendeur et l\'acheteur', en: 'Seller & Buyer' },
+        variant: 'default'
+      },
+      {
+        label: { ar: 'الصيغة', fr: 'La formule', en: 'The Formula' },
+        description: { ar: 'الإيجاب والقبول', fr: 'L\'offre et l\'acceptation', en: 'Offer and Acceptance' },
+        variant: 'default'
+      },
+      {
+        label: { ar: 'المعقود عليه', fr: 'L\'objet du contrat', en: 'The Subject Matter' },
+        description: { ar: 'المبيع والثمن', fr: 'La marchandise et le prix', en: 'Goods & Price' },
+        variant: 'default'
+      }
+    ]
+  },
+
+  'bargaining-process': {
+    type: 'flow',
+    title: { ar: '💬 المساومة', fr: '💬 La Négociation', en: '💬 Bargaining' },
+    layout: 'horizontal',
+    steps: [
+      {
+        title: { ar: 'البائع لا يُخبر بثمن الشراء', fr: 'Le vendeur ne dit pas le prix d\'achat', en: 'Seller doesn\'t reveal purchase price' },
+        variant: 'default'
+      },
+      {
+        title: { ar: 'المشتري يساوم', fr: 'L\'acheteur négocie', en: 'Buyer bargains' },
+        variant: 'current'
+      },
+      {
+        title: { ar: 'يتفقان على سعر', fr: 'Ils s\'accordent sur un prix', en: 'They agree on a price' },
+        variant: 'success'
+      }
+    ]
+  },
+
+  'murabaha-process': {
+    type: 'flow',
+    title: { ar: '📈 المرابحة', fr: '📈 La Murabaha', en: '📈 Murabaha' },
+    layout: 'horizontal',
+    steps: [
+      {
+        title: { ar: 'البائع يُخبر بثمن الشراء', fr: 'Le vendeur dit le prix d\'achat', en: 'Seller reveals purchase price' },
+        description: { ar: '١٠٠', fr: '100', en: '100' },
+        variant: 'default'
+      },
+      {
+        title: { ar: 'يُضيف ربحاً معلوماً', fr: 'Il ajoute un profit connu', en: 'Adds a known profit' },
+        description: { ar: '٢٠', fr: '20', en: '20' },
+        variant: 'current'
+      },
+      {
+        title: { ar: 'الثمن النهائي', fr: 'Le prix final', en: 'Final price' },
+        description: { ar: '١٢٠', fr: '120', en: '120' },
+        variant: 'success'
+      }
+    ]
+  },
+
+  'sale-formula-types': {
+    type: 'tree',
+    title: { ar: '📋 أنواع صيغة البيع', fr: '📋 Types de formule de vente', en: '📋 Types of Sale Formula' },
+    branches: [
+      {
+        label: { ar: 'القولية', fr: 'Verbale', en: 'Verbal' },
+        description: { ar: 'بعتُ، اشتريتُ', fr: 'J\'ai vendu, j\'ai acheté', en: 'I sold, I bought' },
+        variant: 'default'
+      },
+      {
+        label: { ar: 'الفعلية', fr: 'Pratique', en: 'Practical' },
+        description: { ar: 'المعاطاة: التبادل بالفعل', fr: 'Mu\'ataat: échange par l\'action', en: 'Mu\'ataat: exchange by action' },
+        variant: 'default'
+      },
+      {
+        label: { ar: 'الكتابية', fr: 'Écrite', en: 'Written' },
+        description: { ar: 'العقود المكتوبة، المراسلات', fr: 'Contrats écrits, correspondances', en: 'Written contracts, correspondence' },
+        variant: 'default'
+      }
+    ]
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // FIQH MUAMALAT - SHURUT BAY (Lesson 003)
+  // ─────────────────────────────────────────────────────────
+  'sale-conditions-categories': {
+    type: 'tree',
+    title: { ar: '⚖️ أقسام شروط البيع', fr: '⚖️ Catégories des conditions de vente', en: '⚖️ Categories of Sale Conditions' },
+    branches: [
+      {
+        label: { ar: 'شروط الانعقاد', fr: 'Conditions de conclusion', en: 'Conditions of Conclusion' },
+        description: { ar: 'ما يتوقف عليه وجود العقد', fr: 'Ce dont dépend l\'existence du contrat', en: 'What the contract\'s existence depends on' },
+        variant: 'default',
+        children: [
+          { label: { ar: 'إذا تخلف: البيع باطل', fr: 'Si absentes: vente nulle', en: 'If absent: sale is void' }, variant: 'danger' }
+        ]
+      },
+      {
+        label: { ar: 'شروط الصحة', fr: 'Conditions de validité', en: 'Conditions of Validity' },
+        description: { ar: 'ما يتوقف عليه ترتب الآثار', fr: 'Ce dont dépend la production des effets', en: 'What the production of effects depends on' },
+        variant: 'default',
+        children: [
+          { label: { ar: 'إذا تخلف: البيع فاسد', fr: 'Si absentes: vente viciée', en: 'If absent: sale is defective' }, variant: 'warning' }
+        ]
+      },
+      {
+        label: { ar: 'شروط اللزوم', fr: 'Conditions de fermeté', en: 'Conditions of Bindingness' },
+        description: { ar: 'ما يتوقف عليه ثبوت العقد', fr: 'Ce dont dépend la fermeté du contrat', en: 'What the firmness of contract depends on' },
+        variant: 'default',
+        children: [
+          { label: { ar: 'إذا تخلف: صحيح غير لازم', fr: 'Si absentes: valide mais résiliable', en: 'If absent: valid but revocable' }, variant: 'success' }
+        ]
+      }
+    ]
+  },
+
+  'child-dispositions': {
+    type: 'tree',
+    title: { ar: '📊 تصرفات الصبي', fr: '📊 Les dispositions de l\'enfant', en: '📊 The Child\'s Dispositions' },
+    branches: [
+      {
+        label: { ar: 'صبي غير مميز', fr: 'Enfant non discernant', en: 'Undiscerning Child' },
+        description: { ar: 'دون 7 سنوات', fr: 'moins de 7 ans', en: 'under 7 years' },
+        variant: 'danger',
+        children: [
+          { label: { ar: '❌ لا يصح مطلقاً', fr: '❌ Invalide absolument', en: '❌ Absolutely invalid' }, variant: 'danger' }
+        ]
+      },
+      {
+        label: { ar: 'صبي مميز', fr: 'Enfant discernant', en: 'Discerning Child' },
+        description: { ar: '7-15 سنة', fr: '7-15 ans', en: '7-15 years' },
+        variant: 'warning',
+        children: [
+          { label: { ar: '🔶 يصح في اليسير بإذن الولي', fr: '🔶 Valide pour petites transactions avec permission', en: '🔶 Valid for minor transactions with permission' }, variant: 'warning' }
+        ]
+      },
+      {
+        label: { ar: 'بالغ راشد', fr: 'Adulte responsable', en: 'Responsible Adult' },
+        description: { ar: 'فوق 15', fr: 'plus de 15', en: 'over 15' },
+        variant: 'success',
+        children: [
+          { label: { ar: '✅ يصح مطلقاً', fr: '✅ Valide absolument', en: '✅ Absolutely valid' }, variant: 'success' }
+        ]
+      }
+    ]
+  },
+
+  'unlawful-items': {
+    type: 'tree',
+    title: { ar: '🚫 ما لا يصح بيعه (غير متقوم)', fr: '🚫 Ce qu\'on ne peut pas vendre (non licite)', en: '🚫 What Cannot Be Sold (Unlawful)' },
+    root: { ar: 'كلها محرمة الانتفاع = لا تُباع', fr: 'Tous interdits d\'usage = non vendables', en: 'All forbidden to use = cannot be sold' },
+    branches: [
+      { label: { ar: 'الخمر', fr: 'Alcool', en: 'Alcohol' }, variant: 'danger' },
+      { label: { ar: 'الخنزير', fr: 'Porc', en: 'Pork' }, variant: 'danger' },
+      { label: { ar: 'الميتة', fr: 'Charogne', en: 'Carrion' }, variant: 'danger' },
+      { label: { ar: 'المخدرات', fr: 'Drogues', en: 'Drugs' }, variant: 'danger' },
+      { label: { ar: 'آلات اللهو', fr: 'Instruments de divertissement interdits', en: 'Forbidden entertainment instruments' }, variant: 'danger' }
+    ]
+  },
+
+  'price-conditions': {
+    type: 'tree',
+    title: { ar: '💰 شروط الثمن', fr: '💰 Conditions du prix', en: '💰 Conditions of the Price' },
+    branches: [
+      {
+        label: { ar: 'أن يكون معلوماً', fr: 'Être connu', en: 'Being Known' },
+        description: { ar: 'الجنس والقدر والصفة', fr: 'nature, quantité, qualité', en: 'type, quantity, quality' },
+        variant: 'default'
+      },
+      {
+        label: { ar: 'أن يكون مقدوراً على تسليمه', fr: 'Être livrable', en: 'Being Deliverable' },
+        description: { ar: 'القدرة على الدفع', fr: 'capacité de paiement', en: 'ability to pay' },
+        variant: 'default'
+      },
+      {
+        label: { ar: 'أن يكون مملوكاً أو يمكن تحصيله', fr: 'Être possédé ou accessible', en: 'Being Owned or Accessible' },
+        variant: 'default'
+      }
+    ]
+  },
+
+  'offer-acceptance-correspondence': {
+    type: 'comparison',
+    title: { ar: 'التوافق بين الإيجاب والقبول', fr: 'Concordance offre/acceptation', en: 'Offer-Acceptance Correspondence' },
+    columns: [
+      {
+        title: { ar: '✅ التوافق', fr: '✅ Concordance', en: '✅ Correspondence' },
+        subtitle: { ar: '= بيع صحيح', fr: '= Vente valide', en: '= Valid sale' },
+        variant: 'positive',
+        items: [
+          { ar: 'البائع: أبيعك السيارة بـ ٥٠ ألف', fr: 'Vendeur: Je te vends la voiture pour 50 000', en: 'Seller: I sell you the car for 50,000' },
+          { ar: 'المشتري: قبلتُ بـ ٥٠ ألف', fr: 'Acheteur: J\'accepte pour 50 000', en: 'Buyer: I accept for 50,000' }
+        ]
+      },
+      {
+        title: { ar: '❌ عدم التوافق', fr: '❌ Discordance', en: '❌ Discrepancy' },
+        subtitle: { ar: '= لا ينعقد', fr: '= Pas de contrat', en: '= No contract' },
+        variant: 'negative',
+        items: [
+          { ar: 'البائع: أبيعك السيارة بـ ٥٠ ألف', fr: 'Vendeur: Je te vends la voiture pour 50 000', en: 'Seller: I sell you the car for 50,000' },
+          { ar: 'المشتري: قبلتُ بـ ٤٠ ألف', fr: 'Acheteur: J\'accepte pour 40 000', en: 'Buyer: I accept for 40,000' }
+        ]
+      }
+    ]
+  },
+
+  'conditions-types': {
+    type: 'tree',
+    title: { ar: '📋 أنواع الشروط في البيع', fr: '📋 Types de conditions dans la vente', en: '📋 Types of Conditions in Sale' },
+    branches: [
+      {
+        label: { ar: 'شروط صحيحة', fr: 'Conditions valides', en: 'Valid Conditions' },
+        description: { ar: 'تُلزم — يجب الوفاء بها', fr: 'obligatoires — doivent être respectées', en: 'binding — must be fulfilled' },
+        variant: 'success'
+      },
+      {
+        label: { ar: 'شروط فاسدة', fr: 'Conditions viciées', en: 'Defective Conditions' },
+        description: { ar: 'تبطل وحدها — يبطل الشرط ويصح البيع', fr: 's\'annulent seules — la vente reste', en: 'void themselves — sale remains' },
+        variant: 'warning'
+      },
+      {
+        label: { ar: 'شروط تُفسد العقد', fr: 'Conditions qui vicient le contrat', en: 'Conditions That Vitiate Contract' },
+        description: { ar: 'يبطل البيع كله', fr: 'La vente est nulle', en: 'The sale is void' },
+        variant: 'danger'
+      }
+    ]
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // FIQH MUAMALAT - BUYU MUHARRAMAH (Lesson 004)
+  // ─────────────────────────────────────────────────────────
+  'forbidden-sales-reasons': {
+    type: 'tree',
+    title: { ar: '🚫 أسباب تحريم البيوع', fr: '🚫 Causes de l\'interdiction des ventes', en: '🚫 Causes of Forbidden Sales' },
+    branches: [
+      {
+        label: { ar: 'الربا', fr: 'Usure', en: 'Usury' },
+        description: { ar: 'زيادة بدون مقابل', fr: 'Surplus sans contrepartie', en: 'Surplus without counter-value' },
+        variant: 'danger'
+      },
+      {
+        label: { ar: 'الغرر', fr: 'Aléa', en: 'Uncertainty' },
+        description: { ar: 'الجهالة والمخاطرة غير المحسوبة', fr: 'Ignorance et risque non calculé', en: 'Ignorance and uncalculated risk' },
+        variant: 'danger'
+      },
+      {
+        label: { ar: 'الظلم', fr: 'Injustice', en: 'Injustice' },
+        description: { ar: 'أكل الأموال بالباطل', fr: 'Spoliation des biens d\'autrui', en: 'Devouring others\' wealth unjustly' },
+        variant: 'danger'
+      },
+      {
+        label: { ar: 'حرمة المبيع', fr: 'Objet illicite', en: 'Unlawful Object' },
+        description: { ar: 'الخمر، الخنزير، الأصنام', fr: 'Alcool, porc, idoles', en: 'Alcohol, pork, idols' },
+        variant: 'danger'
+      }
+    ]
+  },
+
+  'jahiliyyah-sales': {
+    type: 'tree',
+    title: { ar: '📊 بيوع الجاهلية المنهي عنها', fr: '📊 Ventes de la Jahiliyya interdites', en: '📊 Forbidden Pre-Islamic Sales' },
+    root: { ar: 'كلها غرر وجهالة', fr: 'Tout est aléa et ignorance', en: 'All are uncertainty and ignorance' },
+    branches: [
+      {
+        label: { ar: 'الملامسة', fr: 'Mulamasa (toucher)', en: 'Mulamasa (touch)' },
+        description: { ar: 'ما لمسته فهو لك بكذا', fr: 'Ce que tu touches est à toi', en: 'Whatever you touch is yours' },
+        variant: 'danger'
+      },
+      {
+        label: { ar: 'المنابذة', fr: 'Munabadha (lancer)', en: 'Munabadha (toss)' },
+        description: { ar: 'ما نبذته إليك فهو لك', fr: 'Ce que je te lance est à toi', en: 'Whatever I throw to you is yours' },
+        variant: 'danger'
+      },
+      {
+        label: { ar: 'الحصاة', fr: 'Hasah (caillou)', en: 'Hasah (pebble)' },
+        description: { ar: 'ما وقعت عليه فهو لك', fr: 'Ce sur quoi tombe le caillou', en: 'Whatever the pebble lands on is yours' },
+        variant: 'danger'
+      }
+    ]
+  },
+
+  'animal-forbidden-sales': {
+    type: 'tree',
+    title: { ar: '🐪 ما لا يجوز بيعه من الحيوان', fr: '🐪 Ce qu\'on ne peut pas vendre des animaux', en: '🐪 What Cannot Be Sold from Animals' },
+    root: { ar: 'معدوم + مجهول = غرر', fr: 'Inexistant + inconnu = gharar', en: 'Non-existent + unknown = gharar' },
+    branches: [
+      {
+        label: { ar: 'المضامين', fr: 'Madamin', en: 'Madamin' },
+        description: { ar: 'ما في ظهور الفحول (المني)', fr: 'Ce qui est dans les reins des mâles (semence)', en: 'What is in the loins of male animals (semen)' },
+        variant: 'danger'
+      },
+      {
+        label: { ar: 'الملاقيح', fr: 'Malaqih', en: 'Malaqih' },
+        description: { ar: 'ما في بطون الإناث (الأجنة)', fr: 'Ce qui est dans les ventres des femelles (fœtus)', en: 'What is in the wombs of female animals (fetuses)' },
+        variant: 'danger'
+      }
+    ]
+  },
+
+  'hoarding-definition': {
+    type: 'ruling',
+    title: { ar: '📊 متى يكون الاحتكار محرماً؟', fr: '📊 Quand l\'accaparement est-il interdit ?', en: '📊 When is Hoarding Forbidden?' },
+    rulingType: 'conditions',
+    numbered: false,
+    items: [
+      { text: { ar: 'شراء الطعام أو الضروريات', fr: 'Acheter nourriture/nécessités', en: 'Buying food/necessities' } },
+      { text: { ar: 'في وقت الغلاء والحاجة', fr: 'En temps de cherté', en: 'In times of scarcity' } },
+      { text: { ar: 'لرفع السعر على الناس', fr: 'Pour augmenter les prix', en: 'To raise prices on people' } }
+    ],
+    footer: { ar: '= احتكار محرم', fr: '= Accaparement interdit', en: '= Forbidden hoarding' }
+  },
+
+  'inah-sale-reality': {
+    type: 'comparison',
+    title: { ar: '💰 حقيقة بيع العينة', fr: '💰 La réalité de la vente \'Ina', en: '💰 The Reality of \'Ina Sale' },
+    columns: [
+      {
+        title: { ar: 'الظاهر', fr: 'Apparence', en: 'Appearance' },
+        variant: 'neutral',
+        items: [
+          { ar: 'بيع ثم شراء', fr: 'Vente puis rachat', en: 'Sale then buyback' },
+          { ar: '1000 نقداً', fr: '1000 comptant', en: '1000 cash' }
+        ]
+      },
+      {
+        title: { ar: 'الحقيقة', fr: 'Réalité', en: 'Reality' },
+        subtitle: { ar: '= ربا مقنَّع', fr: '= Usure déguisée', en: '= Disguised usury' },
+        variant: 'negative',
+        items: [
+          { ar: 'قرض بفائدة!', fr: 'Prêt avec intérêt !', en: 'Loan with interest!' },
+          { ar: '1200 مؤجلاً', fr: '1200 à terme', en: '1200 on credit' }
+        ]
+      }
+    ]
+  },
+
+  'forbidden-goods': {
+    type: 'tree',
+    title: { ar: '🚫 المبيعات المحرمة لذاتها', fr: '🚫 Objets interdits à la vente', en: '🚫 Objects Forbidden to Sell' },
+    branches: [
+      { label: { ar: 'الخمر', fr: 'Alcool', en: 'Alcohol' }, description: { ar: 'حرّم شربها وبيعها', fr: 'Il a interdit sa consommation et sa vente', en: 'He forbade drinking and selling' }, variant: 'danger' },
+      { label: { ar: 'الميتة', fr: 'Charogne', en: 'Carrion' }, description: { ar: 'محرم للأكل فحُرِّم بيعه', fr: 'Interdit à la consommation donc sa vente', en: 'Forbidden for eating so its sale' }, variant: 'danger' },
+      { label: { ar: 'الخنزير', fr: 'Porc', en: 'Pork' }, description: { ar: 'نص وإجماع', fr: 'Texte et consensus', en: 'Text and consensus' }, variant: 'danger' },
+      { label: { ar: 'الأصنام', fr: 'Idoles', en: 'Idols' }, description: { ar: 'كل ما يُعبد من دون الله', fr: 'Tout ce qui est adoré en dehors d\'Allah', en: 'Whatever is worshipped besides Allah' }, variant: 'danger' },
+      { label: { ar: 'الكلب', fr: 'Chien', en: 'Dog' }, description: { ar: 'نهى عن ثمنه', fr: 'Il a interdit son prix', en: 'He forbade its price' }, variant: 'warning' }
+    ]
+  },
+
+  'prohibition-effects': {
+    type: 'tree',
+    title: { ar: '⚖️ آثار التحريم على العقد', fr: '⚖️ Effets de l\'interdiction sur le contrat', en: '⚖️ Effects of Prohibition on the Contract' },
+    branches: [
+      {
+        label: { ar: 'محرم لذاته', fr: 'Interdit en soi', en: 'Forbidden in itself' },
+        description: { ar: 'كالربا', fr: 'comme l\'usure', en: 'like usury' },
+        variant: 'danger',
+        children: [
+          { label: { ar: 'باطل — لا أثر له', fr: 'Nul — sans effet', en: 'Void — no effect' }, variant: 'danger' }
+        ]
+      },
+      {
+        label: { ar: 'محرم لوصفه', fr: 'Interdit par un attribut', en: 'Forbidden by an attribute' },
+        description: { ar: 'كالنجش', fr: 'comme le Najsh', en: 'like Najsh' },
+        variant: 'warning',
+        children: [
+          { label: { ar: 'صحيح مع الإثم', fr: 'Valide avec péché', en: 'Valid with sin' }, variant: 'warning' }
+        ]
+      },
+      {
+        label: { ar: 'محرم لأمر خارج', fr: 'Interdit pour cause externe', en: 'Forbidden for external cause' },
+        description: { ar: 'كوقت الجمعة', fr: 'comme le vendredi', en: 'like Friday time' },
+        variant: 'warning',
+        children: [
+          { label: { ar: 'صحيح مع الإثم', fr: 'Valide avec péché', en: 'Valid with sin' }, variant: 'warning' }
+        ]
+      }
+    ]
   }
 }
 

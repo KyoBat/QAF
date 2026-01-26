@@ -110,21 +110,7 @@ Les musulmans sont unanimes sur **la permission de la vente en général**, le d
 
 ## 💡 La Sagesse de la Légitimité de la Vente
 
-\`\`\`
-          🎯 Pourquoi la vente a-t-elle été légiférée ?
-                         │
-          ┌──────────────┼──────────────┐
-          │              │              │
-   Réaliser l'échange  Faciliter    Développer
-   (Ce que tu as peut  la vie       la richesse
-   être utile à autrui)(Satisfaire  (Encourager
-                       les besoins) le travail)
-          │              │              │
-          └──────────────┼──────────────┘
-                         │
-              La coopération entre les gens
-              (Répondre aux besoins de la société)
-\`\`\`
+<!-- DIAGRAM:sale-wisdom -->
 
 ---
 
@@ -132,18 +118,7 @@ Les musulmans sont unanimes sur **la permission de la vente en général**, le d
 
 ### Selon la majorité (Malikites, Chafiites et Hanbalites)
 
-\`\`\`
-              📝 Les Trois Piliers de la Vente
-                          │
-            ┌─────────────┼─────────────┐
-            │             │             │
-    Les Contractants   La Formule    L'Objet
-      (Le vendeur      (L'offre       (La marchandise
-      et l'acheteur)   et l'acceptation) et le prix)
-            │             │             │
-        Conditions    Conditions    Conditions
-        des parties   de la formule de l'objet
-\`\`\`
+<!-- DIAGRAM:sale-pillars -->
 
 ### Selon les Hanafites
 
@@ -180,24 +155,13 @@ Le pilier chez eux est **uniquement la formule** (l'offre et l'acceptation), le 
 
 ### 1. La Vente Absolue (Négociation)
 
-\`\`\`
-   💬 La Négociation
-          │
- Le vendeur ne dit pas ──→ L'acheteur négocie ──→ Ils s'accordent sur un prix
- le prix d'achat
-\`\`\`
+<!-- DIAGRAM:bargaining-process -->
 
 **Exemple :** Tu vas au marché et tu négocies une marchandise jusqu'à t'accorder sur un prix.
 
 ### 2. La Vente Murabaha (avec marge bénéficiaire)
 
-\`\`\`
-   📈 La Murabaha
-          │
- Le vendeur dit  ──→  Il ajoute un  ──→  Le prix final
- le prix d'achat     profit connu
-    (100)               (20)             (120)
-\`\`\`
+<!-- DIAGRAM:murabaha-process -->
 
 **Exemple :** « Je l'ai achetée à 100 et je la vends à 120. »
 
@@ -237,16 +201,7 @@ Le pilier chez eux est **uniquement la formule** (l'offre et l'acceptation), le 
 
 ### Types de Formule
 
-\`\`\`
-            📋 Types de Formule de Vente
-                        │
-          ┌─────────────┼─────────────┐
-          │             │             │
-       Verbale       Pratique      Écrite
-      (J'ai vendu,   (Mu'ataat :   (Contrats
-      j'ai acheté)   échange par   écrits,
-                     l'action)     correspondances)
-\`\`\`
+<!-- DIAGRAM:sale-formula-types -->
 
 ### 1. La Formule Verbale
 

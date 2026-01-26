@@ -44,18 +44,7 @@ Le Prophète ﷺ a dit :
 
 ## 🔍 Les causes de l'interdiction des ventes
 
-\`\`\`
-            🚫 Causes de l'Interdiction des Ventes
-                          │
-      ┌─────────┬─────────┴─────────┬─────────┐
-      │         │                   │         │
-    Usure     Aléa               Injustice  Objet
-      │         │                   │        illicite
-   Surplus   Ignorance          Spoliation   │
-   sans      et risque          des biens   Alcool
-   contre-   non calculé        d'autrui    Porc
-   partie                                   Idoles
-\`\`\`
+<!-- DIAGRAM:forbidden-sales-reasons -->
 
 ---
 
@@ -124,22 +113,7 @@ Le Prophète ﷺ a dit :
 
 </div>
 
-\`\`\`
-         📊 Ventes de la Jahiliyya interdites
-                      │
-        ┌─────────────┼─────────────┐
-        │             │             │
-   Mulamasa       Munabadha      Hasah
-   (toucher)      (lancer)       (caillou)
-        │             │             │
-   Ce que tu      Ce que je      Ce sur quoi
-   touches        te lance       tombe le
-   est à toi      est à toi      caillou
-        │             │             │
-        └─────────────┴─────────────┘
-                      │
-            Tout est aléa et ignorance
-\`\`\`
+<!-- DIAGRAM:jahiliyyah-sales -->
 
 ---
 
@@ -182,21 +156,7 @@ Le Prophète ﷺ a dit :
 
 ### 🎯 La vente des Madamin et Malaqih
 
-\`\`\`
-        🐪 Ce qu'on ne peut pas vendre des animaux
-                      │
-           ┌──────────┴──────────┐
-           │                     │
-      Madamin                Malaqih
-           │                     │
-      Ce qui est dans       Ce qui est dans
-      les reins des         les ventres des
-      mâles (semence)       femelles (fœtus)
-           │                     │
-           └──────────┬──────────┘
-                      │
-          Inexistant + inconnu = gharar
-\`\`\`
+<!-- DIAGRAM:animal-forbidden-sales -->
 
 ---
 
@@ -383,19 +343,7 @@ Le Prophète ﷺ a dit :
 
 **Définition de l'accaparement :**
 
-\`\`\`
-           📊 Quand l'accaparement est-il interdit ?
-                       │
-          ┌────────────┼────────────┐
-          │            │            │
-      Acheter       En temps      Pour
-      nourriture/   de           augmenter
-      nécessités    cherté       les prix
-          │            │            │
-          └────────────┴────────────┘
-                       │
-               = Accaparement interdit
-\`\`\`
+<!-- DIAGRAM:hoarding-definition -->
 
 **Ce que le gouvernant peut faire :**
 
@@ -434,18 +382,7 @@ Le Prophète ﷺ a dit :
 
 **Pourquoi est-ce interdit ?**
 
-\`\`\`
-        💰 La réalité de la vente 'Ina
-               │
-   ┌───────────┴───────────┐
-   │                       │
-Apparence :             Réalité :
-Vente puis rachat       Prêt avec intérêt !
-               │
-   1000 comptant ← ← ← → → → 1200 à terme
-               │
-           = Usure déguisée
-\`\`\`
+<!-- DIAGRAM:inah-sale-reality -->
 
 ---
 
@@ -461,21 +398,7 @@ Vente puis rachat       Prêt avec intérêt !
 
 </div>
 
-\`\`\`
-         🚫 Objets interdits à la vente
-                     │
-    ┌────────┬───────┼───────┬────────┐
-    │        │       │       │        │
-  Alcool  Charogne  Porc   Idoles   Chien
-    │        │       │       │        │
-  "Il a    Interdit  Texte  Tout ce  Il a
-  interdit  à la     et     qui est  interdit
-  sa        consom-  consen- adoré   son
-  consom-   mation   sus    en       prix"
-  mation    donc            dehors
-  et sa     sa vente        d'Allah
-  vente"
-\`\`\`
+<!-- DIAGRAM:forbidden-goods -->
 
 ### ⚠️ Exception pour le chien
 
@@ -563,18 +486,7 @@ Vente puis rachat       Prêt avec intérêt !
 
 ## 📊 Effets des ventes interdites sur le contrat
 
-\`\`\`
-         ⚖️ Effets de l'Interdiction sur le Contrat
-                     │
-    ┌────────────────┼────────────────┐
-    │                │                │
- Interdit en soi  Interdit par    Interdit pour
- (comme l'usure)  un attribut     cause externe
-    │             (comme le Najsh)      │
-   Nul            Valide avec      Valide avec
-   sans effet     péché            péché
-                                   (comme le vendredi)
-\`\`\`
+<!-- DIAGRAM:prohibition-effects -->
 
 ---
 

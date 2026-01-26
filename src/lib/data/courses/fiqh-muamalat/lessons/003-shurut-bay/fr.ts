@@ -51,21 +51,7 @@ Le Prophète ﷺ a dit :
 
 ## 📋 Catégories des conditions de la vente
 
-\`\`\`
-            ⚖️ Catégories des Conditions de Vente
-                         │
-          ┌──────────────┼──────────────┐
-          │              │              │
-  Conditions de     Conditions de   Conditions de
-  Conclusion        Validité        Caractère
-  (Ce dont dépend   (Ce dont dépend (Ce dont dépend
-  l'existence       la production   la fermeté
-  du contrat)       des effets)     du contrat)
-          │              │              │
-  Si absentes :     Si absentes :   Si absentes :
-  Vente nulle       Vente viciée    Vente valide
-                                    mais résiliable
-\`\`\`
+<!-- DIAGRAM:sale-conditions-categories -->
 
 ---
 
@@ -96,20 +82,7 @@ Le Prophète ﷺ a dit :
 
 ### Deuxième condition : Le discernement et la majorité 👦
 
-\`\`\`
-           📊 Les dispositions de l'enfant
-                       │
-        ┌──────────────┼──────────────┐
-        │              │              │
-  Enfant non       Enfant          Adulte
-  discernant       discernant      responsable
-  (moins de 7 ans) (7-15 ans)      (plus de 15)
-        │              │              │
-  ❌ Invalide      🔶 Valide pour  ✅ Valide
-     absolument    les petites     absolument
-                   transactions
-                   avec permission
-\`\`\`
+<!-- DIAGRAM:child-dispositions -->
 
 <div class="scene-box">
 
@@ -206,17 +179,7 @@ Le Prophète ﷺ a dit :
 
 **Bien licite (mutaqawwam) :** Ce dont l'usage est permis légalement.
 
-\`\`\`
-        🚫 Ce qu'on ne peut pas vendre (non licite)
-                        │
-        ┌───────┬───────┼───────┬───────┐
-        │       │       │       │       │
-     Alcool  Porc    Charogne  Drogues  Instruments
-        │       │       │       │       de
-        └───────┴───────┴───────┴───────┘  divertissement
-                        │                   interdits
-           Tous interdits d'usage = non vendables
-\`\`\`
+<!-- DIAGRAM:unlawful-items -->
 
 <div class="quote-box">
 
@@ -305,16 +268,7 @@ Le Prophète ﷺ a dit :
 
 ## 💵 Conditions du prix
 
-\`\`\`
-             💰 Conditions du Prix
-                      │
-        ┌─────────────┼─────────────┐
-        │             │             │
-    Être connu    Être livrable   Être possédé
-    (nature,      (capacité de    ou accessible
-    quantité,     paiement)
-    qualité)
-\`\`\`
+<!-- DIAGRAM:price-conditions -->
 
 **L'ignorance du prix vicie la vente !**
 
@@ -336,17 +290,7 @@ Le Prophète ﷺ a dit :
 
 ### 1. La concordance entre l'offre et l'acceptation
 
-\`\`\`
-       ✅ Concordance                   ❌ Discordance
-             │                               │
-  Vendeur : Je te vends           Vendeur : Je te vends
-  la voiture pour 50 000          la voiture pour 50 000
-             │                               │
-  Acheteur : J'accepte            Acheteur : J'accepte
-             pour 50 000                     pour 40 000
-             │                               │
-        = Vente valide                 = Pas de contrat
-\`\`\`
+<!-- DIAGRAM:offer-acceptance-correspondence -->
 
 ### 2. La continuité entre l'offre et l'acceptation
 
@@ -362,19 +306,7 @@ Le Prophète ﷺ a dit :
 
 ## 📋 Les conditions dans la vente (ce qu'impose une partie)
 
-\`\`\`
-            📋 Types de Conditions dans la Vente
-                          │
-            ┌─────────────┼─────────────┐
-            │             │             │
-   Conditions       Conditions      Conditions
-   valides          viciées         qui vicient
-   (obligatoires)   (s'annulent     le contrat
-            │        seules)             │
-   Doivent être     La condition    La vente est
-   respectées       s'annule,       nulle
-                    la vente reste
-\`\`\`
+<!-- DIAGRAM:conditions-types -->
 
 ### Conditions valides ✅
 
