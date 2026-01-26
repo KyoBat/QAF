@@ -1214,7 +1214,7 @@ export const malaikaData: MindMapDataMultiLang = {
         { id: 'jibril', label: { ar: 'جبريل - الوحي', en: 'Jibril - Revelation', fr: 'Jibril - Révélation' }, icon: '📖' },
         { id: 'mikail', label: { ar: 'ميكائيل - الرزق', en: 'Mikail - Provision', fr: 'Mikail - Subsistance' }, icon: '🌧️' },
         { id: 'israfil', label: { ar: 'إسرافيل - الصور', en: 'Israfil - Trumpet', fr: 'Israfil - Trompette' }, icon: '📯' },
-        { id: 'malak-mawt', label: { ar: 'ملك الموت', en: 'Angel of Death', fr: 'Ange de la Mort' }, icon: '�️' },
+        { id: 'malak-mawt', label: { ar: 'ملك الموت', en: 'Angel of Death', fr: 'Ange de la Mort' }, icon: '🕯️' },
         { id: 'malik', label: { ar: 'مالك - خازن النار', en: 'Malik - Guardian of Hell', fr: "Malik - Gardien de l'Enfer" }, icon: '🔥' },
       ],
     },
@@ -1398,7 +1398,7 @@ export const yawmAkhirData: MindMapDataMultiLang = {
       icon: '📊',
       color: '#7b2cbf',
       children: [
-        { id: 'death', label: { ar: 'الموت', en: 'Death', fr: 'La Mort' }, icon: '�️' },
+        { id: 'death', label: { ar: 'الموت', en: 'Death', fr: 'La Mort' }, icon: '🕯️' },
         { id: 'grave', label: { ar: 'القبر', en: 'The Grave', fr: 'La Tombe' }, icon: '🌙' },
         { id: 'bath', label: { ar: 'البعث', en: 'Resurrection', fr: 'Résurrection' }, icon: '🌱' },
         { id: 'hashr', label: { ar: 'الحشر', en: 'Gathering', fr: 'Rassemblement' }, icon: '👥' },

@@ -347,7 +347,7 @@ After Âmina's death, **'Abdul-Muttalib** took charge of his grandson:
 
 ---
 
-### �️ Death of 'Abdul-Muttalib
+### 🕯️ Death of 'Abdul-Muttalib
 
 | Information | Detail |
 |-------------|--------|

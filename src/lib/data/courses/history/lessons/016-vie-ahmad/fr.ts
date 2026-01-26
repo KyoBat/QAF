@@ -271,7 +271,7 @@ Il est **l'Imam des Gens de la Sunna et de la Communauté**, l'auteur du grand M
 
 ---
 
-## �️ Partie 7 : Mort et Héritage
+## 🌿 Partie 7 : Mort et Héritage
 
 ### Sa Maladie
 

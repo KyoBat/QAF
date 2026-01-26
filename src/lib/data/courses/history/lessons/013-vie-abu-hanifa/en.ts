@@ -229,7 +229,7 @@ He is **al-Imam al-A'zam** (the Greatest Imam), the leader of the mujtahidun, an
 
 ---
 
-## �️ Part 6: Death and Legacy
+## 🌿 Part 6: Death and Legacy
 
 ### His Death
 

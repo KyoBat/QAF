@@ -286,7 +286,7 @@ Before seeking fiqh, he wanted to master the Arabic language.
 
 ---
 
-## �️ Part 8: Death and Legacy
+## 🌿 Part 8: Death and Legacy
 
 ### His Illness
 

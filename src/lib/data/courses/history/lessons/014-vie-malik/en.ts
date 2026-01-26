@@ -273,7 +273,7 @@ He is **the Imam of Dar al-Hijra** (the Abode of Migration), the longest-lived o
 
 ---
 
-## �️ Part 7: Death and Legacy
+## 🌿 Part 7: Death and Legacy
 
 ### His Final Days
 

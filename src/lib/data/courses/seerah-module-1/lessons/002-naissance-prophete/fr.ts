@@ -347,7 +347,7 @@ Après le décès d'Âmina, **'Abdul-Muttalib** prit en charge son petit-fils :
 
 ---
 
-### �️ Décès de 'Abdul-Muttalib
+### 🕯️ Décès de 'Abdul-Muttalib
 
 | Information | Détail |
 |-------------|--------|

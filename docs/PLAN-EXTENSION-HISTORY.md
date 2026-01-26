@@ -102,7 +102,7 @@ Créer des biographies complètes et narratives de chaque imam, du berceau à la
 - **Pardon** : Jamais de rancune
 - **Citation d'Abu Yusuf** : « 17 ans avec lui, jamais vu dormir la nuit »
 
-##### �️ **Partie 5 : Mort et Héritage**
+##### 🌿 **Partie 5 : Mort et Héritage**
 - **Décès** : 150 H (767 CE), en prison (selon certains) ou après libération
 - **Âge** : 70 ans
 - **Funérailles** : 50,000 personnes présentes
@@ -174,7 +174,7 @@ Créer des biographies complètes et narratives de chaque imam, du berceau à la
 - **Enseignement** : Cercles dans la mosquée du Prophète
 - **Respect** : Se parfumait, portait beaux vêtements pour enseigner hadith
 
-##### �️ **Partie 6 : Mort et Héritage**
+##### 🌿 **Partie 6 : Mort et Héritage**
 - **Décès** : 179 H (795 CE), Médine
 - **Âge** : 86 ans
 - **Enterrement** : Baqi' (cimetière de Médine)
@@ -256,7 +256,7 @@ Créer des biographies complètes et narratives de chaque imam, du berceau à la
 
 </div>
 
-##### �️ **Partie 6 : Mort Prématurée**
+##### 🌿 **Partie 6 : Mort Prématurée**
 - **Décès** : 204 H (820 CE), Le Caire
 - **Âge** : 54 ans seulement
 - **Cause** : Blessures + hémorroïdes chroniques
@@ -340,7 +340,7 @@ Créer des biographies complètes et narratives de chaque imam, du berceau à la
 - **Enseignement** : Cercles massifs (5,000+ étudiants)
 - **Citation** : « La vérité ne se négocie pas »
 
-##### �️ **Partie 6 : Mort d'un Géant**
+##### 🌿 **Partie 6 : Mort d'un Géant**
 - **Décès** : 241 H (855 CE), Baghdad
 - **Âge** : 77 ans
 - **Funérailles** : 800,000 à 1 million de personnes
