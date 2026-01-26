@@ -218,26 +218,7 @@ Uncertainty concerning the object sold, the price, or the outcome.
 
 </div>
 
-\`\`\`
-┌─────────────────────────────────────────────────────────────┐
-│               Proofs for Takaful Insurance                  │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│   📖 From the Quran:                                        │
-│   ══════════════════                                        │
-│   ﴾Cooperate in righteousness and piety﴿                    │
-│                                                             │
-│   📖 From the Sunnah:                                       │
-│   ═══════════════════                                       │
-│   • "Believers are like one body"                           │
-│   • "The believer to the believer like a building"          │
-│                                                             │
-│   📖 From the Companions' practice:                         │
-│   ═════════════════════════════════                         │
-│   • The 'Aqila system (tribe bears blood money)             │
-│   • The Prophet ﷺ approved this system                      │
-└─────────────────────────────────────────────────────────────┘
-\`\`\`
+<!-- DIAGRAM:takaful-evidence -->
 
 ---
 
@@ -249,37 +230,7 @@ Uncertainty concerning the object sold, the price, or the outcome.
 
 ### Conditions for Valid Takaful
 
-\`\`\`
-┌─────────────────────────────────────────────────────────────┐
-│            Conditions for Valid Takaful                     │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│   1️⃣ Intention of donation                                 │
-│       ═══════════════════════                               │
-│       The contribution is a donation, not exchange          │
-│       The participant donates to the Takaful fund           │
-│                                                             │
-│   2️⃣ Fund ownership by participants                        │
-│       ═══════════════════════════════                       │
-│       Premiums and profits belong to participants           │
-│       The company is merely a manager                       │
-│                                                             │
-│   3️⃣ Investment of funds in permissible ways               │
-│       ══════════════════════════════════════                │
-│       ❌ No investing in usury                              │
-│       ❌ No investing in prohibited activities              │
-│                                                             │
-│   4️⃣ Surplus goes to participants                          │
-│       ═══════════════════════════                           │
-│       What remains after claims and expenses                │
-│       Is distributed or carried forward                     │
-│                                                             │
-│   5️⃣ Presence of Sharia supervisory board                  │
-│       ════════════════════════════════════                  │
-│       To oversee operations                                 │
-│       To ensure Sharia compliance                           │
-└─────────────────────────────────────────────────────────────┘
-\`\`\`
+<!-- DIAGRAM:takaful-conditions -->
 
 ---
 
@@ -297,50 +248,11 @@ Uncertainty concerning the object sold, the price, or the outcome.
 
 ### Takaful Auto Insurance
 
-\`\`\`
-┌─────────────────────────────────────────────────────────────┐
-│                  Takaful Auto Insurance                     │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│   📍 How it works:                                          │
-│   ═════════════════                                         │
-│   1. Vehicle owners pay contributions (donation)            │
-│   2. Damages are compensated from the common fund           │
-│   3. The company manages by agency                          │
-│   4. Surplus goes to participants                           │
-│                                                             │
-│   ⚠️ Challenges:                                            │
-│   ═══════════════                                           │
-│   • Mandatory insurance in some countries                   │
-│   • Solution: find a licensed Takaful company               │
-└─────────────────────────────────────────────────────────────┘
-\`\`\`
+<!-- DIAGRAM:takaful-car -->
 
 ### Family Takaful (Alternative to Life Insurance)
 
-\`\`\`
-┌─────────────────────────────────────────────────────────────┐
-│         Family Takaful (Alternative to Life Insurance)      │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│   📍 How it works:                                          │
-│   ═════════════════                                         │
-│                                                             │
-│   The participant pays two portions:                        │
-│   ┌─────────────────────────────────────────────────────┐   │
-│   │ 1. Donation portion ◄── goes to Takaful fund        │   │
-│   │ 2. Savings portion ◄── belongs to him and invested  │   │
-│   └─────────────────────────────────────────────────────┘   │
-│                                                             │
-│   📍 Upon death:                                            │
-│   ════════════════                                          │
-│   Heirs receive: Takaful amount + savings + profits         │
-│                                                             │
-│   📍 Upon survival (end of term):                           │
-│   ═════════════════════════════════                         │
-│   Participant receives: savings + profits                   │
-└─────────────────────────────────────────────────────────────┘
-\`\`\`
+<!-- DIAGRAM:takaful-family -->
 
 ---
 
@@ -412,31 +324,22 @@ This is the greatest solidarity: no one expected profit, it was pure giving.
 
 ### Case One: Mandatory Auto Insurance
 
-\`\`\`
-┌─────────────────────────────────────────────────────────────┐
-│  🚗 Case: Mandatory auto insurance                          │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  Question:                                                  │
-│  ══════════                                                 │
-│  Fatima lives in a country that requires auto insurance.    │
-│  Can she subscribe?                                         │
-│                                                             │
-│  Answer:                                                    │
-│  ══════════                                                 │
-│  ✅ Permissible by necessity — what is essential to         │
-│     fulfill an obligation becomes obligatory itself         │
-│                                                             │
-│  ⚠️ Conditions:                                             │
-│  ─────────────                                              │
-│  • Limit to the minimum mandatory coverage                  │
-│  • Look for Takaful companies if available                  │
-│  • Do not expand to additional coverages                    │
-│                                                             │
-│  💡 Rule: Necessity permits the prohibited                  │
-│           And necessities are measured proportionately      │
-└─────────────────────────────────────────────────────────────┘
-\`\`\`
+<div class="quote-box">
+
+**🚗 Case: Mandatory auto insurance**
+
+**Question:** Fatima lives in a country that requires auto insurance. Can she subscribe?
+
+**Answer:** ✅ Permissible by necessity — what is essential to fulfill an obligation becomes obligatory itself.
+
+**Conditions:**
+- Limit to the minimum mandatory coverage
+- Look for Takaful companies if available
+- Do not expand to additional coverages
+
+**Rule:** Necessity permits the prohibited, and necessities are measured proportionately.
+
+</div>
 
 > **⚠️ Note:** Some scholars **prohibit commercial insurance absolutely**, even if mandatory, and consider that legal compulsion does not make the contract permissible, but merely lifts the sin from the one who is compelled. The fatwa above represents the opinion of those who apply the legal maxim of necessity.
 
@@ -444,121 +347,85 @@ This is the greatest solidarity: no one expected profit, it was pure giving.
 
 ### Case Two: Employer Health Insurance
 
-\`\`\`
-┌─────────────────────────────────────────────────────────────┐
-│  🏥 Case: Health insurance provided by employer             │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  Question:                                                  │
-│  ══════════                                                 │
-│  Ahmad is employed at a company that provides health        │
-│  insurance to all employees.                                │
-│  Can he benefit from it?                                    │
-│                                                             │
-│  Answer:                                                    │
-│  ══════════                                                 │
-│  ✅ Permissible — this is part of salary and benefits       │
-│                                                             │
-│  📍 Detail:                                                 │
-│  ───────────                                                │
-│  • The employee did not choose or sign the contract         │
-│  • This is part of his employment rights                    │
-│  • The sin falls on the company if it's commercial          │
-│                                                             │
-│  💡 Ideal: request Takaful insurance if possible            │
-└─────────────────────────────────────────────────────────────┘
-\`\`\`
+<div class="quote-box">
+
+**🏥 Case: Health insurance provided by employer**
+
+**Question:** Ahmad is employed at a company that provides health insurance to all employees. Can he benefit from it?
+
+**Answer:** ✅ Permissible — this is part of salary and benefits.
+
+**Detail:**
+- The employee did not choose or sign the contract
+- This is part of his employment rights
+- The sin falls on the company if it's commercial
+
+**Ideal:** Request Takaful insurance if possible.
+
+</div>
 
 ---
 
 ### Case Three: Life Insurance
 
-\`\`\`
-┌─────────────────────────────────────────────────────────────┐
-│  👨‍👩‍👧‍👦 Case: Life insurance for children's future             │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  Question:                                                  │
-│  ══════════                                                 │
-│  Muhammad wants to secure his children's future after       │
-│  his death. Is life insurance permissible?                  │
-│                                                             │
-│  Answer:                                                    │
-│  ══════════                                                 │
-│  ❌ Commercial life insurance = forbidden (haram)           │
-│                                                             │
-│  ✅ Permissible alternatives:                               │
-│  ─────────────────────────────                              │
-│  1. Savings in Islamic accounts                             │
-│  2. Investment in Sharia-compliant funds                    │
-│  3. Bequest of one-third                                    │
-│  4. Family Takaful (cooperative insurance)                  │
-│  5. Purchasing property for children                        │
-└─────────────────────────────────────────────────────────────┘
-\`\`\`
+<div class="quote-box">
+
+**👨‍👩‍👧‍👦 Case: Life insurance for children's future**
+
+**Question:** Muhammad wants to secure his children's future after his death. Is life insurance permissible?
+
+**Answer:** ❌ Commercial life insurance = forbidden (haram)
+
+**Permissible alternatives:**
+1. Savings in Islamic accounts
+2. Investment in Sharia-compliant funds
+3. Bequest of one-third
+4. Family Takaful (cooperative insurance)
+5. Purchasing property for children
+
+</div>
 
 ---
 
 ### Case Four: Comprehensive Auto Insurance
 
-\`\`\`
-┌─────────────────────────────────────────────────────────────┐
-│  🚗 Case: Comprehensive insurance for new luxury car        │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  Question:                                                  │
-│  ══════════                                                 │
-│  Said bought a new luxury car.                              │
-│  He wants comprehensive insurance to protect it.            │
-│  Is it permissible?                                         │
-│                                                             │
-│  Answer:                                                    │
-│  ══════════                                                 │
-│  ❌ Comprehensive commercial insurance = haram (not         │
-│     mandatory)                                              │
-│                                                             │
-│  ✅ Alternatives:                                           │
-│  ────────────────                                           │
-│  • Look for comprehensive Takaful insurance                 │
-│  • Personal savings for emergencies                         │
-│  • Limit to mandatory insurance only                        │
-│                                                             │
-│  💡 Remember: Halal money is better than expanding into     │
-│               the haram                                     │
-└─────────────────────────────────────────────────────────────┘
-\`\`\`
+<div class="quote-box">
+
+**🚗 Case: Comprehensive insurance for new luxury car**
+
+**Question:** Said bought a new luxury car. He wants comprehensive insurance to protect it. Is it permissible?
+
+**Answer:** ❌ Comprehensive commercial insurance = haram (not mandatory)
+
+**Alternatives:**
+- Look for comprehensive Takaful insurance
+- Personal savings for emergencies
+- Limit to mandatory insurance only
+
+**Remember:** Halal money is better than expanding into the haram.
+
+</div>
 
 ---
 
 ### Case Five: Cargo Insurance for Imports
 
-\`\`\`
-┌─────────────────────────────────────────────────────────────┐
-│  📦 Case: Insurance on commercial cargo                     │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  Question:                                                  │
-│  ══════════                                                 │
-│  Abdurrahman is a merchant who imports goods.               │
-│  The bank requires cargo insurance for financing.           │
-│  What is the ruling?                                        │
-│                                                             │
-│  Answer:                                                    │
-│  ══════════                                                 │
-│  ⚠️ If it's a condition for financing: evaluate the        │
-│     necessity                                               │
-│                                                             │
-│  ✅ Solutions:                                              │
-│  ─────────────                                              │
-│  1. Deal with Islamic banks that offer Takaful              │
-│  2. Look for financing without insurance requirement        │
-│  3. If no alternative: necessities are measured             │
-│     proportionately                                         │
-│                                                             │
-│  💡 Rule: Look for the halal first                          │
-│           Then measure the necessity proportionately        │
-└─────────────────────────────────────────────────────────────┘
-\`\`\`
+<div class="quote-box">
+
+**📦 Case: Insurance on commercial cargo**
+
+**Question:** Abdurrahman is a merchant who imports goods. The bank requires cargo insurance for financing. What is the ruling?
+
+**Answer:** ⚠️ If it's a condition for financing: evaluate the necessity.
+
+**Solutions:**
+1. Deal with Islamic banks that offer Takaful
+2. Look for financing without insurance requirement
+3. If no alternative: necessities are measured proportionately
+
+**Rule:** Look for the halal first, then measure the necessity proportionately.
+
+</div>
 
 ---
 
@@ -592,42 +459,7 @@ Why has commercial insurance spread in Muslim countries despite the scholars' pr
 
 ## Lesson Summary
 
-\`\`\`
-┌─────────────────────────────────────────────────────────────┐
-│                      Lesson Summary                         │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│   ┌─────────────┬───────────┬─────────────────────────────┐ │
-│   │    Type     │  Ruling   │          Reason             │ │
-│   ├─────────────┼───────────┼─────────────────────────────┤ │
-│   │ Commercial  │ ❌ Haram  │ Uncertainty + usury +       │ │
-│   │             │           │ gambling                    │ │
-│   ├─────────────┼───────────┼─────────────────────────────┤ │
-│   │ Cooperative │ ✅ Permiss│ Based on donation and       │ │
-│   │ (Takaful)   │           │ mutual help                 │ │
-│   ├─────────────┼───────────┼─────────────────────────────┤ │
-│   │ Mandatory   │ ⚠️ Necess.│ If no Takaful alternative   │ │
-│   └─────────────┴───────────┴─────────────────────────────┘ │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-\`\`\`
-
-\`\`\`
-┌─────────────────────────────────────────────────────────────┐
-│              Sharia Conditions for Takaful                  │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│   1️⃣ Intention of donation (not exchange)                  │
-│                                                             │
-│   2️⃣ Separation of participants' funds from company funds  │
-│                                                             │
-│   3️⃣ Investment of funds only in the permissible           │
-│                                                             │
-│   4️⃣ Surplus goes to participants (not the company)        │
-│                                                             │
-│   5️⃣ Supervision by a Sharia compliance committee          │
-└─────────────────────────────────────────────────────────────┘
-\`\`\`
+<!-- DIAGRAM:taamin-summary -->
 
 ---
 
