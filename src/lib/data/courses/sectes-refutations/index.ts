@@ -10,6 +10,7 @@ import { lesson007 } from './lessons/007-shia';
 import { lesson008 } from './lessons/008-sufism';
 import { lesson009 } from './lessons/009-contemporary-sects';
 import { lesson010 } from './lessons/010-methodology-refutation';
+import { lesson011 } from './lessons/011-atheism-contemporary';
 
 export const sectesRefutationsCourse: Course = {
   ...sectesRefutationsMeta,
@@ -24,5 +25,6 @@ export const sectesRefutationsCourse: Course = {
     lesson008,
     lesson009,
     lesson010,
+    lesson011,
   ],
 };
