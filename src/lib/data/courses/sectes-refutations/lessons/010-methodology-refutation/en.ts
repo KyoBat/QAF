@@ -298,24 +298,13 @@ Justice doesn't mean **weakness**:
 
 ## 📋 The Global Rules
 
-\`\`\`
-THE FIVE GOLDEN RULES OF REFUTATION
-│
-├── 1️⃣ KNOWLEDGE BEFORE SPEECH
-│   └── Don't speak about what you don't know
-│
-├── 2️⃣ JUSTICE IN JUDGMENT
-│   └── Don't wrong anyone, even the opponent
-│
-├── 3️⃣ PROOF IN REFUTATION
-│   └── Only refute with textual or rational evidence
-│
-├── 4️⃣ DISTINCTION IN TREATMENT
-│   └── Between the statement and the one who utters it
-│
-└── 5️⃣ WISDOM IN STYLE
-    └── Between gentleness and firmness according to context
-\`\`\`
+| Rule | Meaning |
+|------|---------|
+| 1️⃣ **Knowledge Before Speech** | Don't speak about what you don't know |
+| 2️⃣ **Justice in Judgment** | Don't wrong anyone, even the opponent |
+| 3️⃣ **Proof in Refutation** | Only refute with textual or rational evidence |
+| 4️⃣ **Distinction in Treatment** | Between the statement and the one who utters it |
+| 5️⃣ **Wisdom in Style** | Between gentleness and firmness according to context |
 
 ---
 

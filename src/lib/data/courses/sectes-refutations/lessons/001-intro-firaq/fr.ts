@@ -155,16 +155,11 @@ Cette série vous guidera à travers les principales sectes qui ont émergé dan
 
 ### Les Conditions pour Juger un Individu
 
-\`\`\`
-Conditions pour Excommunier un Individu
-├── 1. La SCIENCE : Qu'il sache que sa parole contredit la Loi
-├── 2. L'INTENTION : Qu'il vise la contradiction volontairement
-└── 3. L'ABSENCE D'OBSTACLES
-    ├── Ignorance
-    ├── Interprétation erronée (ta'wil)
-    ├── Contrainte (ikrah)
-    └── Erreur non intentionnelle
-\`\`\`
+| Condition | Détail |
+|-----------|--------|
+| 1. **La Science** | Qu'il sache que sa parole contredit la Loi |
+| 2. **L'Intention** | Qu'il vise la contradiction volontairement |
+| 3. **L'Absence d'Obstacles** | Ignorance, Interprétation erronée (ta'wil), Contrainte (ikrah), Erreur non intentionnelle |
 
 ---
 
@@ -310,14 +305,13 @@ Conditions pour Excommunier un Individu
 
 ### Les Pièges à Éviter
 
-\`\`\`
-Pièges dans l'Étude des Sectes
-├── ❌ L'arrogance : Se croire supérieur
-├── ❌ L'injustice : Accuser sans preuve
-├── ❌ L'excès : Excommunier à tort
-├── ❌ Le laxisme : Tout accepter
-└── ✅ L'équilibre : Justice avec fermeté
-\`\`\`
+| Piège | Description |
+|-------|-------------|
+| ❌ **L'arrogance** | Se croire supérieur |
+| ❌ **L'injustice** | Accuser sans preuve |
+| ❌ **L'excès** | Excommunier à tort |
+| ❌ **Le laxisme** | Tout accepter |
+| ✅ **L'équilibre** | Justice avec fermeté |
 
 ---
 

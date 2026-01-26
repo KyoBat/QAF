@@ -188,17 +188,18 @@ Cette déviation, plus subtile que celle des Khawarij, a eu un **impact dévasta
 
 ### Preuves Rationnelles
 
-\`\`\`
-Argument de la Corrélation
-├── PRÉMISSE 1 : La foi sincère produit nécessairement des actes
-├── PRÉMISSE 2 : Celui qui prétend croire mais n'agit pas contredit sa prétention
-├── CONCLUSION : Les actes sont la preuve de la foi, donc en font partie
-│
-Exemple :
-├── Un homme dit aimer sa femme
-├── Mais ne lui parle pas, ne la protège pas, ne l'aide pas
-└── Son amour est-il réel ? → NON
-\`\`\`
+**Argument de la Corrélation :**
+
+| Étape | Contenu |
+|-------|---------|
+| **Prémisse 1** | La foi sincère produit nécessairement des actes |
+| **Prémisse 2** | Celui qui prétend croire mais n'agit pas contredit sa prétention |
+| **Conclusion** | Les actes sont la preuve de la foi, donc en font partie |
+
+**Exemple :**
+- Un homme dit aimer sa femme
+- Mais ne lui parle pas, ne la protège pas, ne l'aide pas
+- Son amour est-il réel ? → **NON**
 
 ---
 
@@ -285,28 +286,12 @@ Puis il cite les versets et hadiths prouvant l'augmentation et la diminution de 
 
 ### Conséquences Pratiques
 
-\`\`\`
-Effets du Murji'isme sur la Pratique
-├── 😴 PARESSE DANS L'ADORATION
-│   ├── "Pourquoi prier ? Ma foi est dans le cœur"
-│   ├── "L'essentiel c'est l'intention"
-│   └── Abandon progressif des obligations
-│
-├── 📜 SÉPARATION RELIGION/VIE
-│   ├── "La religion à la mosquée"
-│   ├── "Le commerce a ses propres règles"
-│   └── Double personnalité
-│
-├── 📉 MINIMISATION DES PÉCHÉS
-│   ├── "Allah est Pardonneur"
-│   ├── "Mes péchés n'affectent pas ma foi"
-│   └── Impunité psychologique
-│
-└── ⏰ PROCRASTINATION DU REPENTIR
-    ├── "Je me repentirai quand je serai vieux"
-    ├── "Profitons de la jeunesse d'abord"
-    └── Mort avant le repentir
-\`\`\`
+| Effet | Exemples |
+|-------|----------|
+| 😴 **Paresse dans l'adoration** | "Pourquoi prier ? Ma foi est dans le cœur", "L'essentiel c'est l'intention", Abandon progressif des obligations |
+| 📜 **Séparation religion/vie** | "La religion à la mosquée", "Le commerce a ses propres règles", Double personnalité |
+| 📉 **Minimisation des péchés** | "Allah est Pardonneur", "Mes péchés n'affectent pas ma foi", Impunité psychologique |
+| ⏰ **Procrastination du repentir** | "Je me repentirai quand je serai vieux", "Profitons de la jeunesse d'abord", Mort avant le repentir |
 
 ### Le Murji'isme Aujourd'hui
 
@@ -431,14 +416,11 @@ Effets du Murji'isme sur la Pratique
 
 ### L'Équilibre d'Ahl as-Sunnah
 
-\`\`\`
-Entre Deux Extrêmes
-├── ❌ KHAWARIJ : Le péché = kufr
-│
-├── ✅ AHL AS-SUNNAH : Le péché affaiblit la foi sans en faire sortir
-│
-└── ❌ MURJI'AH : Le péché n'affecte pas la foi
-\`\`\`
+| Position | Doctrine |
+|----------|----------|
+| ❌ **Khawarij** | Le péché = kufr |
+| ✅ **Ahl as-Sunnah** | Le péché affaiblit la foi sans en faire sortir |
+| ❌ **Murji'ah** | Le péché n'affecte pas la foi |
 
 ---
 

@@ -155,16 +155,11 @@ This series will guide you through the major sects that emerged in Islamic histo
 
 ### Conditions for Judging an Individual
 
-\`\`\`
-Conditions for Declaring an Individual a Disbeliever
-├── 1. KNOWLEDGE: They must know their statement contradicts the Shari'ah
-├── 2. INTENT: They must intend the contradiction deliberately
-└── 3. ABSENCE OF OBSTACLES
-    ├── Ignorance
-    ├── Erroneous interpretation (ta'wil)
-    ├── Coercion (ikrah)
-    └── Unintentional error
-\`\`\`
+| Condition | Detail |
+|-----------|--------|
+| 1. **Knowledge** | They must know their statement contradicts the Shari'ah |
+| 2. **Intent** | They must intend the contradiction deliberately |
+| 3. **Absence of Obstacles** | Ignorance, Erroneous interpretation (ta'wil), Coercion (ikrah), Unintentional error |
 
 ---
 
@@ -310,14 +305,13 @@ Conditions for Declaring an Individual a Disbeliever
 
 ### Pitfalls to Avoid
 
-\`\`\`
-Pitfalls in Studying Sects
-├── ❌ Arrogance: Feeling superior
-├── ❌ Injustice: Accusing without proof
-├── ❌ Excess: Excommunicating wrongly
-├── ❌ Laxity: Accepting everything
-└── ✅ Balance: Justice with firmness
-\`\`\`
+| Pitfall | Description |
+|---------|-------------|
+| ❌ **Arrogance** | Feeling superior |
+| ❌ **Injustice** | Accusing without proof |
+| ❌ **Excess** | Excommunicating wrongly |
+| ❌ **Laxity** | Accepting everything |
+| ✅ **Balance** | Justice with firmness |
 
 ---
 

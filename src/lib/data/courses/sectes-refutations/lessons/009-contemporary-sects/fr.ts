@@ -163,33 +163,17 @@ export const contentFr = `# 🕌 Les Sectes Contemporaines — Qadianiyyah et Ba
 
 ## ⏳ Généalogie du Baha'isme
 
-\`\`\`
-Shi'isme duodécimain
-    │
-    ▼
-Shaykisme (Ahmad al-Ahsa'i)
-    │
-    ▼
-BABISME — 'Ali Muhammad ash-Shirazi "le Bab" (m. 1850)
-    │    Prétendit être la "Porte" vers l'Imam caché
-    │    Puis prétendit être le Mahdi lui-même
-    │
-    ├──────────────────┬────────────────────┐
-    ▼                  ▼                    ▼
-BAHA'ISME          Azalis (restés        Autres factions
-Husayn 'Ali        fidèles au Bab)
-"Baha'ullah"
-(m. 1892)
-    │
-    ▼
-'Abd al-Baha' (fils, m. 1921)
-    │
-    ▼
-Shawqi Effendi (petit-fils, m. 1957)
-    │
-    ▼
-Maison Universelle de Justice (Haïfa)
-\`\`\`
+### Arbre généalogique du Baha'isme
+
+| Étape | Fondateur | Date | Description |
+|-------|-----------|------|-------------|
+| **Origine** | Shi'isme duodécimain | — | Doctrine originelle |
+| **Shaykisme** | Ahmad al-Ahsa'i | — | Mouvement préparatoire |
+| **Babisme** | 'Ali Muhammad ash-Shirazi "le Bab" | m. 1850 | Prétendit être la "Porte" puis le Mahdi |
+| **Baha'isme** | Husayn 'Ali "Baha'ullah" | m. 1892 | Prétendit à la prophétie et divinité |
+| **'Abd al-Baha'** | Fils | m. 1921 | Deuxième dirigeant |
+| **Shawqi Effendi** | Petit-fils | m. 1957 | Troisième dirigeant |
+| **Maison de Justice** | — | Haïfa | Direction actuelle |
 
 ---
 

@@ -298,24 +298,13 @@ La justice ne signifie pas la **mollesse** :
 
 ## 📋 Les règles globales
 
-\`\`\`
-LES CINQ RÈGLES D'OR DE LA RÉFUTATION
-│
-├── 1️⃣ LA SCIENCE AVANT LA PAROLE
-│   └── Ne pas parler de ce qu'on ignore
-│
-├── 2️⃣ LA JUSTICE DANS LE JUGEMENT
-│   └── Ne léser personne, même l'opposant
-│
-├── 3️⃣ LA PREUVE DANS LA RÉFUTATION
-│   └── Ne réfuter qu'avec preuve textuelle ou rationnelle
-│
-├── 4️⃣ LA DISTINCTION DANS LE TRAITEMENT
-│   └── Entre la parole et celui qui la prononce
-│
-└── 5️⃣ LA SAGESSE DANS LE STYLE
-    └── Entre douceur et fermeté selon le contexte
-\`\`\`
+| Règle | Signification |
+|-------|---------------|
+| 1️⃣ **La Science Avant la Parole** | Ne pas parler de ce qu'on ignore |
+| 2️⃣ **La Justice dans le Jugement** | Ne léser personne, même l'opposant |
+| 3️⃣ **La Preuve dans la Réfutation** | Ne réfuter qu'avec preuve textuelle ou rationnelle |
+| 4️⃣ **La Distinction dans le Traitement** | Entre la parole et celui qui la prononce |
+| 5️⃣ **La Sagesse dans le Style** | Entre douceur et fermeté selon le contexte |
 
 ---
 

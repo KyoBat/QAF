@@ -334,20 +334,12 @@ Allah a **distingué** entre la création (al-khalq) et le commandement (al-amr)
 
 ### La Leçon de l'Épreuve
 
-\`\`\`
-Que nous apprend l'Épreuve de l'Imam Ahmad ?
-├── 1️⃣ La vérité peut être minoritaire
-│   └── Ahmad était seul face aux califes et aux juges
-│
-├── 2️⃣ Le savant doit tenir ferme
-│   └── "Si le savant fait la dissimulation..."
-│
-├── 3️⃣ Les conséquences dépassent l'individu
-│   └── Ce qu'Ahmad dit affecte toute la Oumma
-│
-└── 4️⃣ Allah préserve Sa religion
-    └── L'épreuve a pris fin, la Sunnah a triomphé
-\`\`\`
+| Leçon | Détail |
+|-------|--------|
+| 1️⃣ **La vérité peut être minoritaire** | Ahmad était seul face aux califes et aux juges |
+| 2️⃣ **Le savant doit tenir ferme** | "Si le savant fait la dissimulation..." |
+| 3️⃣ **Les conséquences dépassent l'individu** | Ce qu'Ahmad dit affecte toute la Oumma |
+| 4️⃣ **Allah préserve Sa religion** | L'épreuve a pris fin, la Sunnah a triomphé |
 
 ### Questions Personnelles
 

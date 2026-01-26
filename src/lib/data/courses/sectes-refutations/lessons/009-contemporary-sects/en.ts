@@ -163,33 +163,17 @@ In the modern era, under colonial rule, movements appeared claiming to belong to
 
 ## ⏳ Genealogy of Baha'ism
 
-\`\`\`
-Twelver Shi'ism
-    │
-    ▼
-Shaykhism (Ahmad al-Ahsa'i)
-    │
-    ▼
-BABISM — 'Ali Muhammad ash-Shirazi "the Bab" (d. 1850)
-    │    Claimed to be the "Gate" to the Hidden Imam
-    │    Then claimed to be the Mahdi himself
-    │
-    ├──────────────────┬────────────────────┐
-    ▼                  ▼                    ▼
-BAHA'ISM           Azalis (remained       Other factions
-Husayn 'Ali        loyal to the Bab)
-"Baha'ullah"
-(d. 1892)
-    │
-    ▼
-'Abd al-Baha' (son, d. 1921)
-    │
-    ▼
-Shawqi Effendi (grandson, d. 1957)
-    │
-    ▼
-Universal House of Justice (Haifa)
-\`\`\`
+### Genealogical tree of Baha'ism
+
+| Stage | Founder | Date | Description |
+|-------|---------|------|-------------|
+| **Origin** | Twelver Shi'ism | — | Original doctrine |
+| **Shaykhism** | Ahmad al-Ahsa'i | — | Preparatory movement |
+| **Babism** | 'Ali Muhammad ash-Shirazi "the Bab" | d. 1850 | Claimed to be the "Gate" then the Mahdi |
+| **Baha'ism** | Husayn 'Ali "Baha'ullah" | d. 1892 | Claimed prophethood and divinity |
+| **'Abd al-Baha'** | Son | d. 1921 | Second leader |
+| **Shawqi Effendi** | Grandson | d. 1957 | Third leader |
+| **House of Justice** | — | Haifa | Current leadership |
 
 ---
 

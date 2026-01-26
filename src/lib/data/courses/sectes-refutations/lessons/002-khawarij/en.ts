@@ -359,23 +359,11 @@ When 12,000 men broke away from 'Ali, he decided to send **the most knowledgeabl
 
 ### How to Deal with Them
 
-\`\`\`
-Methodology of Dealing with the Khawarij
-├── 1️⃣ Dialogue First
-│   ├── Send scholars (like Ibn 'Abbas)
-│   ├── Refute their doubts
-│   └── Give them time to return
-│
-├── 2️⃣ If They Persist
-│   ├── Cut ties
-│   ├── Warn against them
-│   └── Isolate them
-│
-└── 3️⃣ If They Shed Blood
-    ├── Fighting them becomes obligatory
-    ├── Protection of Muslims
-    └── As 'Ali did at Nahrawan
-\`\`\`
+| Stage | Actions |
+|-------|---------|
+| 1️⃣ **Dialogue First** | Send scholars (like Ibn 'Abbas), Refute their doubts, Give them time to return |
+| 2️⃣ **If They Persist** | Cut ties, Warn against them, Isolate them |
+| 3️⃣ **If They Shed Blood** | Fighting them becomes obligatory, Protection of Muslims, As 'Ali did at Nahrawan |
 
 ---
 

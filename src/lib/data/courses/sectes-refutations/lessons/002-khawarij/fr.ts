@@ -359,23 +359,11 @@ Quand 12 000 hommes se séparèrent de 'Ali, il décida d'envoyer **le plus gran
 
 ### Comment les Traiter
 
-\`\`\`
-Méthodologie face aux Khawarij
-├── 1️⃣ DIALOGUE D'ABORD
-│   ├── Envoyer des savants (comme Ibn 'Abbas)
-│   ├── Réfuter leurs arguments
-│   └── Leur donner le temps de revenir
-│
-├── 2️⃣ SI ILS PERSISTENT
-│   ├── Couper les relations
-│   ├── Mettre en garde contre eux
-│   └── Les isoler
-│
-└── 3️⃣ S'ILS VERSENT LE SANG
-    ├── Les combattre devient obligatoire
-    ├── Protéger les musulmans
-    └── Comme 'Ali à Nahrawan
-\`\`\`
+| Étape | Actions |
+|-------|--------|
+| 1️⃣ **Dialogue d'abord** | Envoyer des savants (comme Ibn 'Abbas), Réfuter leurs arguments, Leur donner le temps de revenir |
+| 2️⃣ **S'ils persistent** | Couper les relations, Mettre en garde contre eux, Les isoler |
+| 3️⃣ **S'ils versent le sang** | Les combattre devient obligatoire, Protéger les musulmans, Comme 'Ali à Nahrawan |
 
 ---
 

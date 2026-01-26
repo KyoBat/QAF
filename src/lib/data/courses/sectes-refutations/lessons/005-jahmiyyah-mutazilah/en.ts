@@ -382,20 +382,12 @@ Allah **distinguished** between creation (al-khalq) and command (al-amr). The Qu
 
 ### The Lesson of the Trial
 
-\`\`\`
-What does Imam Ahmad's Trial teach us?
-├── 1️⃣ The truth can be in the minority
-│   └── Ahmad stood alone against caliphs and judges
-│
-├── 2️⃣ The scholar must stand firm
-│   └── "If the scholar practices dissimulation..."
-│
-├── 3️⃣ The consequences extend beyond the individual
-│   └── What Ahmad says affects the entire Ummah
-│
-└── 4️⃣ Allah preserves His religion
-    └── The trial ended, the Sunnah triumphed
-\`\`\`
+| Lesson | Detail |
+|--------|--------|
+| 1️⃣ **The truth can be in the minority** | Ahmad stood alone against caliphs and judges |
+| 2️⃣ **The scholar must stand firm** | "If the scholar practices dissimulation..." |
+| 3️⃣ **The consequences extend beyond the individual** | What Ahmad says affects the entire Ummah |
+| 4️⃣ **Allah preserves His religion** | The trial ended, the Sunnah triumphed |
 
 ### Personal Questions
 

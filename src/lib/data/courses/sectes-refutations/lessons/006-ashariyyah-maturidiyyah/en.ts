@@ -242,20 +242,12 @@ Both schools share:
 
 ### Nuanced Judgment
 
-\`\`\`
-Positioning of the Schools
-├── ❌ JAHMIYYAH
-│   └── Total denial of Attributes → very far
-│
-├── ❌ MU'TAZILAH
-│   └── Denial + reason > text → far
-│
-├── ⚠️ ASHA'IRAH / MATURIDIYYAH
-│   └── Partial affirmation + ta'wil → close but in error
-│
-└── ✅ AHL AS-SUNNAH (Salaf)
-    └── Complete affirmation without ta'wil → the truth
-\`\`\`
+| School | Position | Judgment |
+|--------|----------|----------|
+| ❌ **Jahmiyyah** | Total denial of Attributes | very far |
+| ❌ **Mu'tazilah** | Denial + reason > text | far |
+| ⚠️ **Asha'irah / Maturidiyyah** | Partial affirmation + ta'wil | close but in error |
+| ✅ **Ahl as-Sunnah (Salaf)** | Complete affirmation without ta'wil | the truth |
 
 ---
 
@@ -343,27 +335,14 @@ Be careful with passages on the Attributes, but benefit from the immense science
 
 ### The True Methodology of the Salaf
 
-\`\`\`
-The Rule of the Salaf in the Attributes
-├── 1️⃣ AFFIRM
-│   └── What Allah affirmed for Himself
-│
-├── 2️⃣ DENY
-│   └── What Allah denied of Himself
-│
-├── 3️⃣ WITHOUT TAHRIF (distortion)
-│   └── Do not change the meaning
-│
-├── 4️⃣ WITHOUT TA'TIL (denial)
-│   └── Do not empty of meaning
-│
-├── 5️⃣ WITHOUT TAKYIF (asking "how")
-│   └── The "how" is unknown
-│
-└── 6️⃣ WITHOUT TAMTHIL (resemblance)
-    └── ﴿لَيْسَ كَمِثْلِهِ شَيْءٌ﴾
-    "There is nothing like unto Him"
-\`\`\`
+| Rule | Meaning |
+|------|---------|
+| 1️⃣ **Affirm** | What Allah affirmed for Himself |
+| 2️⃣ **Deny** | What Allah denied of Himself |
+| 3️⃣ **Without tahrif** | Do not change the meaning |
+| 4️⃣ **Without ta'til** | Do not empty of meaning |
+| 5️⃣ **Without takyif** | The "how" is unknown |
+| 6️⃣ **Without tamthil** | ﴿لَيْسَ كَمِثْلِهِ شَيْءٌ﴾ "There is nothing like unto Him" |
 
 ### Personal Questions
 

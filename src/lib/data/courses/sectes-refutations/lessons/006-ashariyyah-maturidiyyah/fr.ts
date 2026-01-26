@@ -242,20 +242,12 @@ Les deux écoles partagent :
 
 ### Jugement Nuancé
 
-\`\`\`
-Positionnement des Écoles
-├── ❌ JAHMIYYAH
-│   └── Négation totale des Attributs → très loin
-│
-├── ❌ MU'TAZILAH
-│   └── Négation + raison > texte → loin
-│
-├── ⚠️ ASHA'IRAH / MATURIDIYYAH
-│   └── Affirmation partielle + ta'wil → proches mais erreur
-│
-└── ✅ AHL AS-SUNNAH (Salaf)
-    └── Affirmation complète sans ta'wil → la vérité
-\`\`\`
+| École | Position | Jugement |
+|-------|----------|----------|
+| ❌ **Jahmiyyah** | Négation totale des Attributs | très loin |
+| ❌ **Mu'tazilah** | Négation + raison > texte | loin |
+| ⚠️ **Asha'irah / Maturidiyyah** | Affirmation partielle + ta'wil | proches mais erreur |
+| ✅ **Ahl as-Sunnah (Salaf)** | Affirmation complète sans ta'wil | la vérité |
 
 ---
 
@@ -343,26 +335,14 @@ On fait attention aux passages sur les Attributs, mais on profite de l'immense s
 
 ### La Vraie Méthodologie des Salaf
 
-\`\`\`
-La Règle des Salaf dans les Attributs
-├── 1️⃣ AFFIRMER
-│   └── Ce qu'Allah a affirmé pour Lui-même
-│
-├── 2️⃣ NIER
-│   └── Ce qu'Allah a nié de Lui-même
-│
-├── 3️⃣ SANS TAHRIF (déformation)
-│   └── Ne pas changer le sens
-│
-├── 4️⃣ SANS TA'TIL (négation)
-│   └── Ne pas vider de sens
-│
-├── 5️⃣ SANS TAKYIF (demander "comment")
-│   └── Le "comment" est inconnu
-│
-└── 6️⃣ SANS TAMTHIL (ressemblance)
-    └── ﴿لَيْسَ كَمِثْلِهِ شَيْءٌ﴾
-\`\`\`
+| Règle | Signification |
+|-------|---------------|
+| 1️⃣ **Affirmer** | Ce qu'Allah a affirmé pour Lui-même |
+| 2️⃣ **Nier** | Ce qu'Allah a nié de Lui-même |
+| 3️⃣ **Sans tahrif** | Ne pas changer le sens |
+| 4️⃣ **Sans ta'til** | Ne pas vider de sens |
+| 5️⃣ **Sans takyif** | Le "comment" est inconnu |
+| 6️⃣ **Sans tamthil** | ﴿لَيْسَ كَمِثْلِهِ شَيْءٌ﴾ |
 
 ### Questions Personnelles
 
