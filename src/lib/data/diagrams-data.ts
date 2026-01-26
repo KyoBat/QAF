@@ -1642,6 +1642,411 @@ const diagramsRegistry: Record<string, DiagramData> = {
         detail: { ar: 'الزيادة بلا نية الشراء', fr: 'Enchérir sans intention d\'acheter', en: 'Bidding without intent to buy' }
       }
     ]
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // FIQH MUAMALAT - TAAMIN (Assurance)
+  // ─────────────────────────────────────────────────────────
+  'taamin-mechanism': {
+    type: 'flow',
+    title: { ar: 'آلية عقد التأمين', fr: 'Mécanisme du contrat d\'assurance', en: 'Insurance Contract Mechanism' },
+    layout: 'vertical',
+    steps: [
+      {
+        title: { ar: 'المؤمَّن له (العميل)', fr: 'L\'assuré (client)', en: 'The insured (client)' },
+        description: { ar: 'يدفع أقساطاً شهرية للشركة', fr: 'Paie des primes mensuelles à la compagnie', en: 'Pays monthly premiums to company' },
+        variant: 'current'
+      },
+      {
+        title: { ar: 'شركة التأمين', fr: 'Compagnie d\'assurance', en: 'Insurance Company' },
+        description: { ar: 'تجمع الأقساط من العملاء', fr: 'Collecte les primes des clients', en: 'Collects premiums from clients' },
+        variant: 'default'
+      },
+      {
+        title: { ar: 'إذا وقع الخطر', fr: 'En cas de sinistre', en: 'If risk occurs' },
+        description: { ar: 'الشركة تدفع التعويض للعميل', fr: 'La compagnie paie l\'indemnité', en: 'Company pays compensation' },
+        variant: 'success'
+      },
+      {
+        title: { ar: 'إذا لم يقع الخطر', fr: 'Sans sinistre', en: 'If no risk occurs' },
+        description: { ar: 'الشركة تحتفظ بالأقساط كلها', fr: 'La compagnie garde toutes les primes', en: 'Company keeps all premiums' },
+        variant: 'warning'
+      }
+    ]
+  },
+
+  'taamin-types': {
+    type: 'ruling',
+    title: { ar: 'أنواع التأمين التجاري', fr: 'Types d\'assurance commerciale', en: 'Types of Commercial Insurance' },
+    rulingType: 'info',
+    numbered: true,
+    items: [
+      {
+        text: { ar: 'التأمين الصحي', fr: 'Assurance maladie', en: 'Health insurance' },
+        detail: { ar: 'تغطية تكاليف العلاج والأدوية والعمليات', fr: 'Couverture des frais médicaux', en: 'Coverage of medical expenses' }
+      },
+      {
+        text: { ar: 'التأمين على الحياة', fr: 'Assurance vie', en: 'Life insurance' },
+        detail: { ar: 'أقساط تُدفع، مبلغ يُصرف للورثة عند الوفاة', fr: 'Primes payées, montant versé aux héritiers', en: 'Premiums paid, amount given to heirs' }
+      },
+      {
+        text: { ar: 'التأمين على السيارات', fr: 'Assurance automobile', en: 'Car insurance' },
+        detail: { ar: 'ضد الحوادث والسرقة والأضرار للغير', fr: 'Contre accidents, vol, dommages tiers', en: 'Against accidents, theft, third-party damage' }
+      },
+      {
+        text: { ar: 'التأمين على الممتلكات', fr: 'Assurance biens', en: 'Property insurance' },
+        detail: { ar: 'ضد الحريق والسرقة والكوارث الطبيعية', fr: 'Contre incendie, vol, catastrophes', en: 'Against fire, theft, disasters' }
+      },
+      {
+        text: { ar: 'التأمين على السفر', fr: 'Assurance voyage', en: 'Travel insurance' },
+        detail: { ar: 'ضد إلغاء الرحلة والحوادث والمرض في السفر', fr: 'Contre annulation, accidents, maladie', en: 'Against cancellation, accidents, illness' }
+      }
+    ]
+  },
+
+  'taamin-prohibition-reasons': {
+    type: 'ruling',
+    title: { ar: 'علل تحريم التأمين التجاري', fr: 'Raisons de l\'interdiction de l\'assurance', en: 'Reasons for Insurance Prohibition' },
+    rulingType: 'prohibitions',
+    numbered: true,
+    items: [
+      {
+        text: { ar: 'الغرر الفاحش', fr: 'Incertitude excessive (Gharar)', en: 'Excessive uncertainty (Gharar)' },
+        detail: { ar: 'لا يعلم العميل هل سيحصل على تعويض أم لا', fr: 'Le client ne sait pas s\'il sera indemnisé', en: 'Client doesn\'t know if compensated' }
+      },
+      {
+        text: { ar: 'الربا', fr: 'Usure (Riba)', en: 'Usury (Riba)' },
+        detail: { ar: 'مبادلة المال بالمال مع التفاوت والتأجيل', fr: 'Échange d\'argent avec disparité', en: 'Money exchange with disparity' }
+      },
+      {
+        text: { ar: 'القمار (الميسر)', fr: 'Jeu de hasard (Maysir)', en: 'Gambling (Maysir)' },
+        detail: { ar: 'أحد الطرفين رابح والآخر خاسر حتماً', fr: 'Un gagnant et un perdant inévitables', en: 'One wins, one loses inevitably' }
+      },
+      {
+        text: { ar: 'أكل أموال الناس بالباطل', fr: 'Consommation illicite des biens', en: 'Consuming wealth unlawfully' },
+        detail: { ar: 'الأقساط تذهب للشركة دون مقابل حقيقي', fr: 'Primes vont sans contrepartie réelle', en: 'Premiums go without real return' }
+      }
+    ]
+  },
+
+  'taamin-gharar': {
+    type: 'comparison',
+    title: { ar: 'الغرر في التأمين', fr: 'L\'incertitude dans l\'assurance', en: 'Uncertainty in Insurance' },
+    columns: [
+      {
+        title: { ar: 'الجهة', fr: 'Partie', en: 'Party' },
+        variant: 'neutral',
+        items: [
+          { ar: 'المؤمَّن له', fr: 'L\'assuré', en: 'The insured' },
+          { ar: 'المؤمَّن له', fr: 'L\'assuré', en: 'The insured' },
+          { ar: 'شركة التأمين', fr: 'Compagnie', en: 'Company' }
+        ]
+      },
+      {
+        title: { ar: 'وجه الغرر', fr: 'Aspect d\'incertitude', en: 'Uncertainty aspect' },
+        variant: 'negative',
+        items: [
+          { ar: 'لا يعلم هل سيحصل على تعويض أم لا', fr: 'Ne sait pas s\'il sera indemnisé', en: 'Doesn\'t know if compensated' },
+          { ar: 'لا يعلم كم سيدفع من أقساط', fr: 'Ne sait pas combien il paiera', en: 'Doesn\'t know how much to pay' },
+          { ar: 'لا تعلم كم ستدفع من تعويضات', fr: 'Ne sait pas combien elle paiera', en: 'Doesn\'t know compensation amount' }
+        ]
+      }
+    ]
+  },
+
+  'taamin-riba': {
+    type: 'ruling',
+    title: { ar: 'الربا في التأمين', fr: 'L\'usure dans l\'assurance', en: 'Usury in Insurance' },
+    rulingType: 'info',
+    numbered: false,
+    items: [
+      {
+        text: { ar: 'الأقساط = مال ← التعويض = مال', fr: 'Primes = argent ← Indemnité = argent', en: 'Premiums = money ← Compensation = money' }
+      },
+      {
+        text: { ar: 'المبادلة بينهما دون تساوٍ = ربا فضل', fr: 'Échange sans égalité = Riba al-Fadl', en: 'Exchange without equality = Riba al-Fadl' }
+      },
+      {
+        text: { ar: 'المبادلة بينهما مع التأجيل = ربا نسيئة', fr: 'Échange avec délai = Riba al-Nasiah', en: 'Exchange with delay = Riba al-Nasiah' }
+      }
+    ],
+    footer: { ar: 'مثال: دفعتُ ٦٠٠٠ ريال ← حصلتُ على ١٠٠,٠٠٠ ريال = ٩٤,٠٠٠ بلا مقابل مشروع', fr: 'Exemple: J\'ai payé 6000 ← J\'ai reçu 100 000 = 94 000 sans contrepartie licite', en: 'Example: Paid 6000 ← Received 100,000 = 94,000 without lawful return' }
+  },
+
+  'taamin-gambling-comparison': {
+    type: 'comparison',
+    title: { ar: 'وجه الشبه بين التأمين والقمار', fr: 'Similitude entre assurance et jeu', en: 'Similarity between Insurance and Gambling' },
+    columns: [
+      {
+        title: { ar: 'القمار', fr: 'Jeu de hasard', en: 'Gambling' },
+        variant: 'negative',
+        items: [
+          { ar: 'أدفع مبلغاً', fr: 'Je paie un montant', en: 'I pay an amount' },
+          { ar: 'أنتظر النتيجة', fr: 'J\'attends le résultat', en: 'I wait for result' },
+          { ar: 'إما أربح أو أخسر', fr: 'Je gagne ou je perds', en: 'I win or lose' },
+          { ar: 'النتيجة احتمالية', fr: 'Résultat probabiliste', en: 'Probabilistic result' }
+        ]
+      },
+      {
+        title: { ar: 'التأمين', fr: 'Assurance', en: 'Insurance' },
+        variant: 'negative',
+        items: [
+          { ar: 'أدفع أقساطاً', fr: 'Je paie des primes', en: 'I pay premiums' },
+          { ar: 'أنتظر وقوع الخطر', fr: 'J\'attends le sinistre', en: 'I wait for risk' },
+          { ar: 'إما تعويض أو لا شيء', fr: 'Indemnité ou rien', en: 'Compensation or nothing' },
+          { ar: 'النتيجة احتمالية', fr: 'Résultat probabiliste', en: 'Probabilistic result' }
+        ]
+      }
+    ]
+  },
+
+  'taamin-commercial-vs-takaful': {
+    type: 'comparison',
+    title: { ar: 'مقارنة: التأمين التجاري vs التكافلي', fr: 'Comparaison: Commercial vs Takaful', en: 'Comparison: Commercial vs Takaful' },
+    columns: [
+      {
+        title: { ar: 'التأمين التجاري', fr: 'Assurance commerciale', en: 'Commercial Insurance' },
+        variant: 'negative',
+        items: [
+          { ar: 'عقد معاوضة (ربح مقابل مال)', fr: 'Contrat d\'échange (profit contre argent)', en: 'Exchange contract (profit for money)' },
+          { ar: 'هدفه الربح للشركة', fr: 'Objectif: profit de la compagnie', en: 'Goal: company profit' },
+          { ar: 'الأقساط ملك للشركة', fr: 'Primes appartiennent à la compagnie', en: 'Premiums belong to company' },
+          { ar: 'الفائض للشركة', fr: 'Surplus pour la compagnie', en: 'Surplus for company' },
+          { ar: 'علاقة تجارية', fr: 'Relation commerciale', en: 'Commercial relationship' },
+          { ar: 'غرر وربا وقمار', fr: 'Gharar, Riba et Maysir', en: 'Gharar, Riba and Maysir' }
+        ]
+      },
+      {
+        title: { ar: 'التأمين التكافلي', fr: 'Assurance Takaful', en: 'Takaful Insurance' },
+        variant: 'positive',
+        items: [
+          { ar: 'عقد تبرع (تعاون)', fr: 'Contrat de don (coopération)', en: 'Donation contract (cooperation)' },
+          { ar: 'هدفه التكافل والتعاون', fr: 'Objectif: solidarité et coopération', en: 'Goal: solidarity and cooperation' },
+          { ar: 'الأقساط ملك للمشتركين', fr: 'Primes appartiennent aux participants', en: 'Premiums belong to participants' },
+          { ar: 'الفائض للمشتركين', fr: 'Surplus pour les participants', en: 'Surplus for participants' },
+          { ar: 'علاقة تكافلية', fr: 'Relation de solidarité', en: 'Solidarity relationship' },
+          { ar: 'تبرع وتعاون', fr: 'Don et coopération', en: 'Donation and cooperation' }
+        ]
+      }
+    ]
+  },
+
+  'takaful-evidence': {
+    type: 'ruling',
+    title: { ar: 'أدلة التأمين التكافلي', fr: 'Preuves du Takaful', en: 'Evidence for Takaful' },
+    rulingType: 'recommended',
+    numbered: false,
+    items: [
+      {
+        text: { ar: 'من القرآن', fr: 'Du Coran', en: 'From Quran' },
+        detail: { ar: '﴿وَتَعَاوَنُوا عَلَى الْبِرِّ وَالتَّقْوَىٰ﴾', fr: '﴿Entraidez-vous dans la piété﴾', en: '﴿Cooperate in righteousness﴾' }
+      },
+      {
+        text: { ar: 'من السنة', fr: 'De la Sunna', en: 'From Sunnah' },
+        detail: { ar: '«المؤمنون كالجسد الواحد» - «المؤمن للمؤمن كالبنيان»', fr: '«Les croyants sont comme un seul corps»', en: '«Believers are like one body»' }
+      },
+      {
+        text: { ar: 'من فعل الصحابة', fr: 'Pratique des Compagnons', en: 'Companions\' practice' },
+        detail: { ar: 'نظام العاقلة: تحمل العصبة لدية القتل الخطأ', fr: 'Système Aqilah: clan paie la diya', en: 'Aqilah system: clan pays blood money' }
+      }
+    ]
+  },
+
+  'takaful-pillars': {
+    type: 'tree',
+    title: { ar: 'أركان التأمين التعاوني', fr: 'Piliers de l\'assurance coopérative', en: 'Pillars of Cooperative Insurance' },
+    branches: [
+      {
+        label: { ar: 'المشتركون', fr: 'Les participants', en: 'Participants' },
+        description: { ar: 'المتبرعون والمستفيدون معاً', fr: 'Donateurs et bénéficiaires', en: 'Donors and beneficiaries' },
+        variant: 'success'
+      },
+      {
+        label: { ar: 'الصندوق', fr: 'Le fonds', en: 'The fund' },
+        description: { ar: 'مملوك للمشتركين، منفصل عن الشركة', fr: 'Propriété des participants, séparé', en: 'Owned by participants, separate' },
+        variant: 'success'
+      },
+      {
+        label: { ar: 'الشركة المديرة', fr: 'La société gestionnaire', en: 'Managing company' },
+        description: { ar: 'تدير فقط بالوكالة أو المضاربة', fr: 'Gère par Wakala ou Mudaraba', en: 'Manages by Wakala or Mudaraba' },
+        variant: 'default'
+      },
+      {
+        label: { ar: 'الاشتراكات', fr: 'Les cotisations', en: 'Contributions' },
+        description: { ar: 'على سبيل التبرع لا المعاوضة', fr: 'À titre de don, non d\'échange', en: 'As donation, not exchange' },
+        variant: 'success'
+      }
+    ]
+  },
+
+  'takaful-conditions': {
+    type: 'ruling',
+    title: { ar: 'شروط صحة التأمين التعاوني', fr: 'Conditions de validité du Takaful', en: 'Takaful Validity Conditions' },
+    rulingType: 'conditions',
+    numbered: true,
+    items: [
+      {
+        text: { ar: 'نية التبرع', fr: 'Intention de don', en: 'Donation intention' },
+        detail: { ar: 'الاشتراك تبرع لا معاوضة', fr: 'Participation comme don, non échange', en: 'Participation as donation, not exchange' }
+      },
+      {
+        text: { ar: 'ملكية الصندوق للمشتركين', fr: 'Propriété du fonds aux participants', en: 'Fund owned by participants' },
+        detail: { ar: 'الأقساط والأرباح ملك للمشتركين، الشركة مجرد مدير', fr: 'Primes et profits aux participants', en: 'Premiums and profits to participants' }
+      },
+      {
+        text: { ar: 'استثمار الأموال بطرق مشروعة', fr: 'Investissement licite', en: 'Lawful investment' },
+        detail: { ar: 'لا يجوز الاستثمار في الربا أو المحرمات', fr: 'Pas d\'investissement dans l\'usure', en: 'No investment in usury' }
+      },
+      {
+        text: { ar: 'الفائض للمشتركين', fr: 'Surplus aux participants', en: 'Surplus to participants' },
+        detail: { ar: 'ما زاد عن التعويضات يُوزع أو يُرحَّل', fr: 'L\'excédent est distribué ou reporté', en: 'Excess distributed or carried over' }
+      },
+      {
+        text: { ar: 'وجود هيئة شرعية', fr: 'Comité de charia', en: 'Sharia board' },
+        detail: { ar: 'للرقابة والتأكد من موافقة العمليات للشريعة', fr: 'Pour supervision et conformité', en: 'For supervision and compliance' }
+      }
+    ]
+  },
+
+  'takaful-models': {
+    type: 'ruling',
+    title: { ar: 'نماذج التأمين التكافلي', fr: 'Modèles de Takaful', en: 'Takaful Models' },
+    rulingType: 'info',
+    numbered: false,
+    items: [
+      {
+        text: { ar: 'نموذج الوكالة', fr: 'Modèle Wakala', en: 'Wakala Model' },
+        detail: { ar: 'الشركة = وكيل، الأجر = مقطوع أو نسبة، الفائض = للمشتركين', fr: 'Compagnie = agent, frais fixes ou %', en: 'Company = agent, fixed or % fee' }
+      },
+      {
+        text: { ar: 'نموذج المضاربة', fr: 'Modèle Mudaraba', en: 'Mudaraba Model' },
+        detail: { ar: 'الشركة = مضارب، الأجر = نسبة من أرباح الاستثمار', fr: 'Compagnie = mudarib, % des profits', en: 'Company = mudarib, % of profits' }
+      },
+      {
+        text: { ar: 'النموذج المختلط (الوكالة + المضاربة)', fr: 'Modèle mixte', en: 'Mixed Model' },
+        detail: { ar: 'وكيل في إدارة التأمين، مضارب في الاستثمار', fr: 'Agent pour gestion, mudarib pour investissement', en: 'Agent for management, mudarib for investment' }
+      }
+    ]
+  },
+
+  'takaful-health': {
+    type: 'ruling',
+    title: { ar: 'التأمين الصحي التكافلي', fr: 'Assurance santé Takaful', en: 'Takaful Health Insurance' },
+    rulingType: 'info',
+    numbered: false,
+    items: [
+      {
+        text: { ar: 'الصورة', fr: 'Fonctionnement', en: 'How it works' },
+        subitems: [
+          { ar: 'المشتركون يدفعون اشتراكات شهرية (تبرع)', fr: 'Participants paient des cotisations (don)', en: 'Participants pay contributions (donation)' },
+          { ar: 'الاشتراكات تُجمع في صندوق مشترك', fr: 'Cotisations collectées dans un fonds commun', en: 'Contributions collected in common fund' },
+          { ar: 'تُغطى نفقات العلاج من الصندوق', fr: 'Frais médicaux couverts par le fonds', en: 'Medical expenses covered from fund' },
+          { ar: 'الفائض يُوزع على المشتركين أو يُرحَّل', fr: 'Surplus distribué ou reporté', en: 'Surplus distributed or carried over' }
+        ]
+      },
+      {
+        text: { ar: 'الضوابط', fr: 'Règles', en: 'Rules' },
+        subitems: [
+          { ar: 'لا تغطية للمحرمات (كالتجميل غير الضروري)', fr: 'Pas de couverture pour l\'illicite', en: 'No coverage for forbidden' },
+          { ar: 'لا إسراف في العلاج', fr: 'Pas d\'excès dans le traitement', en: 'No excess in treatment' },
+          { ar: 'استثمار الأموال في الحلال', fr: 'Investissement licite', en: 'Lawful investment' }
+        ]
+      }
+    ]
+  },
+
+  'takaful-car': {
+    type: 'ruling',
+    title: { ar: 'تأمين السيارات التكافلي', fr: 'Assurance auto Takaful', en: 'Takaful Car Insurance' },
+    rulingType: 'info',
+    numbered: false,
+    items: [
+      {
+        text: { ar: 'الصورة', fr: 'Fonctionnement', en: 'How it works' },
+        subitems: [
+          { ar: 'أصحاب السيارات يدفعون اشتراكات (تبرع)', fr: 'Propriétaires paient des cotisations', en: 'Owners pay contributions' },
+          { ar: 'الأضرار تُعوَّض من الصندوق المشترك', fr: 'Dommages indemnisés du fonds', en: 'Damages compensated from fund' },
+          { ar: 'الشركة تدير بالوكالة', fr: 'Compagnie gère par Wakala', en: 'Company manages by Wakala' },
+          { ar: 'الفائض للمشتركين', fr: 'Surplus aux participants', en: 'Surplus to participants' }
+        ]
+      },
+      {
+        text: { ar: 'التحديات', fr: 'Défis', en: 'Challenges' },
+        subitems: [
+          { ar: 'التأمين الإلزامي في بعض الدول', fr: 'Assurance obligatoire dans certains pays', en: 'Mandatory insurance in some countries' },
+          { ar: 'الحل: البحث عن شركة تكافلية مرخصة', fr: 'Solution: chercher une compagnie Takaful', en: 'Solution: find licensed Takaful company' }
+        ]
+      }
+    ]
+  },
+
+  'takaful-family': {
+    type: 'flow',
+    title: { ar: 'التكافل العائلي (بديل التأمين على الحياة)', fr: 'Takaful familial (alternative à l\'assurance vie)', en: 'Family Takaful (life insurance alternative)' },
+    layout: 'vertical',
+    steps: [
+      {
+        title: { ar: 'المشترك يدفع قسطين', fr: 'Le participant paie deux parts', en: 'Participant pays two parts' },
+        description: { ar: 'قسط تبرع ← لصندوق التكافل | قسط ادخار ← يبقى له ويُستثمر', fr: 'Don → fonds Takaful | Épargne → lui appartient', en: 'Donation → Takaful fund | Savings → stays with him' },
+        variant: 'current'
+      },
+      {
+        title: { ar: 'عند الوفاة', fr: 'En cas de décès', en: 'In case of death' },
+        description: { ar: 'يُدفع للورثة: مبلغ التكافل + المدخرات + أرباحها', fr: 'Héritiers reçoivent: Takaful + épargne + profits', en: 'Heirs receive: Takaful + savings + profits' },
+        variant: 'warning'
+      },
+      {
+        title: { ar: 'عند البقاء (انتهاء المدة)', fr: 'À échéance (survie)', en: 'At maturity (survival)' },
+        description: { ar: 'يحصل المشترك على: مدخراته + أرباحها', fr: 'Participant reçoit: épargne + profits', en: 'Participant receives: savings + profits' },
+        variant: 'success'
+      }
+    ]
+  },
+
+  'taamin-summary': {
+    type: 'summary',
+    title: { ar: 'خلاصة أحكام التأمين', fr: 'Résumé des règles d\'assurance', en: 'Summary of Insurance Rules' },
+    rows: [
+      {
+        item: { ar: 'التأمين التجاري', fr: 'Assurance commerciale', en: 'Commercial insurance' },
+        ruling: 'haram',
+        notes: { ar: 'غرر + ربا + قمار', fr: 'Gharar + Riba + Maysir', en: 'Gharar + Riba + Maysir' }
+      },
+      {
+        item: { ar: 'التأمين التعاوني (التكافلي)', fr: 'Assurance Takaful', en: 'Takaful insurance' },
+        ruling: 'halal',
+        notes: { ar: 'مبني على التبرع والتعاون', fr: 'Basé sur le don et la coopération', en: 'Based on donation and cooperation' }
+      },
+      {
+        item: { ar: 'التأمين الإلزامي', fr: 'Assurance obligatoire', en: 'Mandatory insurance' },
+        ruling: 'conditional',
+        notes: { ar: 'ضرورة إذا لم يوجد بديل تكافلي', fr: 'Nécessité si pas d\'alternative Takaful', en: 'Necessity if no Takaful alternative' }
+      }
+    ]
+  },
+
+  'takaful-guidelines': {
+    type: 'ruling',
+    title: { ar: 'الضوابط الشرعية للتأمين التكافلي', fr: 'Directives charia pour Takaful', en: 'Sharia Guidelines for Takaful' },
+    rulingType: 'conditions',
+    numbered: true,
+    items: [
+      {
+        text: { ar: 'نية التبرع (لا المعاوضة)', fr: 'Intention de don (pas d\'échange)', en: 'Donation intention (not exchange)' }
+      },
+      {
+        text: { ar: 'فصل أموال المشتركين عن أموال الشركة', fr: 'Séparation des fonds participants/compagnie', en: 'Separation of participant/company funds' }
+      },
+      {
+        text: { ar: 'استثمار الأموال في الحلال فقط', fr: 'Investissement licite uniquement', en: 'Lawful investment only' }
+      },
+      {
+        text: { ar: 'الفائض للمشتركين (لا للشركة)', fr: 'Surplus aux participants (pas à la compagnie)', en: 'Surplus to participants (not company)' }
+      },
+      {
+        text: { ar: 'الرقابة الشرعية من هيئة متخصصة', fr: 'Supervision par comité spécialisé', en: 'Supervision by specialized board' }
+      }
+    ]
   }
 }
 
