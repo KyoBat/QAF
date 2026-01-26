@@ -30,7 +30,7 @@ His sayings (hadiths) are the second source of legislation in Islam, after the Q
 
 Prayer is the **pillar of the religion** and the first act judged on the Day of Judgment.
 
-> 🎭 **Scene**:
+> 📜 **Scene**:
 > 
 > Bilal enters upon the Prophet ﷺ at dawn.
 > 
@@ -60,7 +60,7 @@ Prayer is the **pillar of the religion** and the first act judged on the Day of 
 
 ### 1.2 — Fasting (As-Siyam)
 
-> 🎭 **Scene**:
+> 📜 **Scene**:
 > 
 > A man comes asking the Prophet ﷺ for advice.
 > 
@@ -89,7 +89,7 @@ Prayer is the **pillar of the religion** and the first act judged on the Day of 
 
 ### 1.3 — Charity (Az-Zakat / Sadaqa)
 
-> 🎭 **Scene**:
+> 📜 **Scene**:
 > 
 > The Prophet ﷺ climbs the pulpit and says:
 > 
@@ -117,7 +117,7 @@ Prayer is the **pillar of the religion** and the first act judged on the Day of 
 
 ### 1.4 — Supplication (Ad-Du'a) and Remembrance (Adh-Dhikr)
 
-> 🎭 **Scene**:
+> 📜 **Scene**:
 > 
 > The Prophet ﷺ says:
 > 
@@ -147,7 +147,7 @@ Prayer is the **pillar of the religion** and the first act judged on the Day of 
 
 ### 2.1 — Honesty (As-Sidq)
 
-> 🎭 **Scene**:
+> 📜 **Scene**:
 > 
 > The Prophet ﷺ teaches:
 > 
@@ -175,7 +175,7 @@ Prayer is the **pillar of the religion** and the first act judged on the Day of 
 > 
 > — **Source: Sunan al-Tirmidhi**
 
-> 🎭 **Scene**:
+> 📜 **Scene**:
 > 
 > A man comes to the Prophet ﷺ:
 > 
@@ -207,7 +207,7 @@ Prayer is the **pillar of the religion** and the first act judged on the Day of 
 
 ### 2.3 — Forgiveness (Al-'Afw)
 
-> 🎭 **Scene**:
+> 📜 **Scene**:
 > 
 > On the day of the conquest of Mecca, the Prophet ﷺ says to Quraysh — who had persecuted him for 20 years:
 > 
@@ -223,7 +223,7 @@ Prayer is the **pillar of the religion** and the first act judged on the Day of 
 
 ### 2.4 — Anger Control
 
-> 🎭 **Scene**:
+> 📜 **Scene**:
 > 
 > A man asks the Prophet ﷺ: "Give me advice."
 > 
@@ -305,7 +305,7 @@ Prayer is the **pillar of the religion** and the first act judged on the Day of 
 
 ### 3.2 — Neighbors
 
-> 🎭 **Scene**:
+> 📜 **Scene**:
 > 
 > The Prophet ﷺ says:
 > 
@@ -377,7 +377,7 @@ Prayer is the **pillar of the religion** and the first act judged on the Day of 
 
 ### 4.2 — Trust in Allah (At-Tawakkul)
 
-> 🎭 **Scene**:
+> 📜 **Scene**:
 > 
 > A bedouin asks: "O Messenger of Allah, should I tie my camel and trust in Allah, or leave it and trust in Allah?"
 > 
@@ -409,7 +409,7 @@ Prayer is the **pillar of the religion** and the first act judged on the Day of 
 
 ### 4.4 — Gratitude (Ash-Shukr)
 
-> 🎭 **Scene**:
+> 📜 **Scene**:
 > 
 > Aisha saw the Prophet ﷺ praying at night until his feet swelled.
 > 

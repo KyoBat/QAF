@@ -2,7 +2,7 @@ export const contentFr = `# Salam et Istisna' — La vente à terme licite
 
 <div class="scene-box">
 
-**🎬 La scène : Le marché de Médine — Première année de l'Hégire**
+**📖 La scène : Le marché de Médine — Première année de l'Hégire**
 
 *Le Messager d'Allah ﷺ arriva à Médine et trouva ses habitants pratiquant des transactions qu'ils avaient connues à l'époque pré-islamique. L'un d'eux venait voir l'agriculteur et lui donnait de l'argent à l'avance en échange d'une récolte qu'il obtiendrait dans un an ou deux...*
 
@@ -75,7 +75,7 @@ Oui, c'est ce que nous avons l'habitude de faire. Mais... *(regardant autour de 
 
 <div class="scene-box">
 
-**🎬 La scène : Une leçon dans un cercle de fiqh**
+**📖 La scène : Une leçon dans un cercle de fiqh**
 
 **Le cheikh :** Ô étudiants en science, le Salam a des conditions sur trois axes. Écoutez bien...
 
@@ -121,7 +121,7 @@ Oui, c'est ce que nous avons l'habitude de faire. Mais... *(regardant autour de 
 
 <div class="scene-box">
 
-**🎬 La scène : Kufa — L'époque de l'Imam Abu Hanifa**
+**📖 La scène : Kufa — L'époque de l'Imam Abu Hanifa**
 
 *Un homme entre dans l'atelier d'un menuisier célèbre au marché de Kufa...*
 
@@ -228,7 +228,7 @@ Oui, c'est ce que nous avons l'habitude de faire. Mais... *(regardant autour de 
 
 <div class="scene-box">
 
-**🎬 Ibn Abbas témoigne de la légitimité du Salam**
+**📖 Ibn Abbas témoigne de la légitimité du Salam**
 
 *L'Imam Bukhari rapporte dans son Sahih...*
 
@@ -248,7 +248,7 @@ Puis il dit : **Le Prophète ﷺ arriva à Médine alors que les gens faisaient 
 
 <div class="scene-box">
 
-**🎬 La sagesse de l'Imam Abu Hanifa sur l'Istisna'**
+**📖 La sagesse de l'Imam Abu Hanifa sur l'Istisna'**
 
 *Dans son cercle à la mosquée de Kufa, l'Imam Abu Hanifa رحمه الله fut interrogé...*
 

@@ -11,7 +11,7 @@ export const content = `# 📢 L'Appel Public — Le Proclamation sur le Mont Sa
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 ### La Fin de la Phase Secrète
 
@@ -40,7 +40,7 @@ Puis **l'ordre divin** qui allait changer le cours de l'histoire descendit !
 
 ---
 
-### 🎭 Première Scène — Le Premier Banquet
+### 📜 Première Scène — Le Premier Banquet
 
 > **Le lieu** : La maison d'Abu Talib...
 >
@@ -62,7 +62,7 @@ Puis **l'ordre divin** qui allait changer le cours de l'histoire descendit !
 
 ---
 
-### 🎭 Deuxième Scène — Le Second Banquet
+### 📜 Deuxième Scène — Le Second Banquet
 
 > Le Messager d'Allah ﷺ ne désespéra pas...
 >
@@ -113,7 +113,7 @@ Puis **l'ordre divin** qui allait changer le cours de l'histoire descendit !
 
 ---
 
-### 🎭 La Scène — L'Ascension et l'Appel
+### 📜 La Scène — L'Ascension et l'Appel
 
 > Un matin lumineux...
 >
@@ -177,7 +177,7 @@ Puis **l'ordre divin** qui allait changer le cours de l'histoire descendit !
 
 ## 🔥 La Réponse d'Abu Lahab — La Damnation Éternelle
 
-### 🎭 La Scène
+### 📜 La Scène
 
 > Au milieu du silence solennel...
 >
@@ -236,7 +236,7 @@ Puis **l'ordre divin** qui allait changer le cours de l'histoire descendit !
 
 ---
 
-#### 🎭 La Première Délégation
+#### 📜 La Première Délégation
 
 > **Quraysh** : Ô Abu Talib ! Ton neveu a insulté nos dieux, critiqué notre religion, traité nos ancêtres d'insensés et égaré nos pères.
 >
@@ -246,7 +246,7 @@ Puis **l'ordre divin** qui allait changer le cours de l'histoire descendit !
 
 ---
 
-#### 🎭 La Deuxième Délégation — La Menace
+#### 📜 La Deuxième Délégation — La Menace
 
 > Ils revinrent avec une délégation plus ferme :
 >
@@ -258,7 +258,7 @@ Puis **l'ordre divin** qui allait changer le cours de l'histoire descendit !
 
 ---
 
-#### 🎭 La Scène de la Confrontation — Le Soleil et la Lune
+#### 📜 La Scène de la Confrontation — Le Soleil et la Lune
 
 > L'affaire devint lourde pour Abu Talib...
 >
@@ -292,7 +292,7 @@ Puis **l'ordre divin** qui allait changer le cours de l'histoire descendit !
 
 ---
 
-#### 🎭 La Scène de 'Utba ibn Rabi'a
+#### 📜 La Scène de 'Utba ibn Rabi'a
 
 > **Le lieu** : Près de la Kaaba...
 >

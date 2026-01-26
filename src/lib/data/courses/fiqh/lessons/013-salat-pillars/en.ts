@@ -45,7 +45,7 @@ It is calmness in each pillar, sufficient time for the limbs to settle and for t
 
 <div class="scene-box">
 
-**🎭 The Hadith of the One Who Prayed Badly — The Foundation in This Chapter**
+**📜 The Hadith of the One Who Prayed Badly — The Foundation in This Chapter**
 
 *A man entered the mosque while the Prophet ﷺ was sitting with his companions...*
 
@@ -73,7 +73,7 @@ It is calmness in each pillar, sufficient time for the limbs to settle and for t
 
 <div class="scene-box">
 
-**🎭 The Prohibition of Stealing from Prayer**
+**📜 The Prohibition of Stealing from Prayer**
 
 *The Prophet ﷺ was warning his companions about a grave evil...*
 

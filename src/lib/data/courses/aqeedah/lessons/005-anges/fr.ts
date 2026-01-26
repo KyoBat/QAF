@@ -101,7 +101,7 @@ Le Prophète ﷺ a dit :
 
 <div class="scene-box">
 
-**🎭 LA VISITE DES ANGES À IBRAHIM**
+**📜 LA VISITE DES ANGES À IBRAHIM**
 
 *Trois voyageurs mystérieux arrivent chez Ibrahim عليه السلام. Il leur prépare un festin...*
 
@@ -179,7 +179,7 @@ Le Prophète ﷺ a décrit Jibril عليه السلام :
 
 <div class="scene-box">
 
-**🎭 JIBRIL DANS SA FORME ORIGINELLE**
+**📜 JIBRIL DANS SA FORME ORIGINELLE**
 
 *Le Prophète ﷺ l'a vu deux fois dans sa vraie forme :*
 
@@ -230,7 +230,7 @@ Chargé de **souffler dans la Trompe** (الصور) le Jour de la Résurrection.
 
 <div class="scene-box">
 
-**🎭 L'ATTENTE D'ISRAFIL**
+**📜 L'ATTENTE D'ISRAFIL**
 
 *Le Prophète ﷺ a décrit l'état d'Israfil عليه السلام :*
 
@@ -266,7 +266,7 @@ Chargé de **souffler dans la Trompe** (الصور) le Jour de la Résurrection.
 
 <div class="scene-box">
 
-**🎭 L'ANGE DE LA MORT ET MOUSSA**
+**📜 L'ANGE DE LA MORT ET MOUSSA**
 
 *Une scène étonnante rapportée par le Prophète ﷺ :*
 
@@ -342,7 +342,7 @@ Le Prophète ﷺ a dit :
 
 <div class="scene-box">
 
-**🎭 L'INTERROGATOIRE DANS LA TOMBE**
+**📜 L'INTERROGATOIRE DANS LA TOMBE**
 
 *Le Prophète ﷺ a décrit ce moment crucial :*
 

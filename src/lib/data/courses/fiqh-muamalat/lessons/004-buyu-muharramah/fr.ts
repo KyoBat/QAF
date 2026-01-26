@@ -2,7 +2,7 @@ export const contentFr = `# 🚫 Les Ventes Interdites — Attention aux pièges
 
 <div class="scene-box">
 
-**🎬 Scène d'ouverture : Au marché de Médine**
+**📖 Scène d'ouverture : Au marché de Médine**
 
 *Marché de Médine... Le Prophète ﷺ passe entre les vendeurs...*
 
@@ -68,7 +68,7 @@ Le Prophète ﷺ a dit :
 
 <div class="scene-box">
 
-**🎬 Scène : Ventes de la Jahiliyya**
+**📖 Scène : Ventes de la Jahiliyya**
 
 *Dans un marché de l'époque préislamique... un vendeur expose divers tissus...*
 
@@ -121,7 +121,7 @@ Le Prophète ﷺ a dit :
 
 <div class="scene-box">
 
-**🎬 Scène : Vendre le futur lointain**
+**📖 Scène : Vendre le futur lointain**
 
 **Le vendeur :** Je te vends ce qui est dans le ventre de cette chamelle !
 
@@ -174,7 +174,7 @@ Le Prophète ﷺ a dit :
 
 <div class="scene-box">
 
-**🎬 Scène : Quand la vente est-elle permise ?**
+**📖 Scène : Quand la vente est-elle permise ?**
 
 **Le fermier :** Je te vends les fruits de mon palmier.
 
@@ -203,7 +203,7 @@ Le Prophète ﷺ a dit :
 
 <div class="scene-box">
 
-**🎬 Scène : Complot aux enchères**
+**📖 Scène : Complot aux enchères**
 
 *Enchères publiques... un homme veut vendre sa voiture...*
 
@@ -245,7 +245,7 @@ Le Prophète ﷺ a dit :
 
 <div class="scene-box">
 
-**🎬 Scène : Exploiter l'ignorant**
+**📖 Scène : Exploiter l'ignorant**
 
 *Une caravane marchande arrive du désert...*
 
@@ -292,7 +292,7 @@ Le Prophète ﷺ a dit :
 
 <div class="scene-box">
 
-**🎬 Scène : L'intermédiaire cupide**
+**📖 Scène : L'intermédiaire cupide**
 
 *Un bédouin arrive au marché avec ses moutons pour les vendre...*
 
@@ -327,7 +327,7 @@ Le Prophète ﷺ a dit :
 
 <div class="scene-box">
 
-**🎬 Scène : Cupidité pendant la crise**
+**📖 Scène : Cupidité pendant la crise**
 
 *Une épidémie frappe le pays... les gens ont besoin de masques et de désinfectants...*
 
@@ -356,7 +356,7 @@ Le Prophète ﷺ a dit :
 
 <div class="scene-box">
 
-**🎬 Scène : Usure déguisée**
+**📖 Scène : Usure déguisée**
 
 **Le nécessiteux :** J'ai besoin de mille riyals en liquide.
 
@@ -428,7 +428,7 @@ Le Prophète ﷺ a dit :
 
 <div class="scene-box">
 
-**🎬 Scène : Intervention interdite**
+**📖 Scène : Intervention interdite**
 
 *Zayd et Amr se sont mis d'accord sur l'achat d'une voiture pour cinquante mille...*
 
@@ -496,7 +496,7 @@ Le Prophète ﷺ a dit :
 
 <div class="scene-box">
 
-**🎬 Histoire : Scrupule dans l'argent**
+**📖 Histoire : Scrupule dans l'argent**
 
 *L'Imam Ahmad ibn Hanbal, qu'Allah lui fasse miséricorde, était pauvre...*
 

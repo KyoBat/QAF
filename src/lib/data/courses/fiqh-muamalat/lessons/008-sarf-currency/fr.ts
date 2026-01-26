@@ -2,7 +2,7 @@ export const contentFr = `# Le Change (Sarf) — Règles de l'Échange de Devise
 
 <div class="scene-box">
 
-**🎬 La Scène : Le Marché des Changeurs — Médine à l'Époque du Prophète ﷺ**
+**📖 La Scène : Le Marché des Changeurs — Médine à l'Époque du Prophète ﷺ**
 
 *Un marchand vient trouver Abdullah ibn 'Umar au marché...*
 
@@ -78,7 +78,7 @@ Les savants sont unanimes sur la licéité du change avec ses conditions légale
 
 <div class="scene-box">
 
-**🎬 Que Signifie la Prise de Possession ?**
+**📖 Que Signifie la Prise de Possession ?**
 
 **L'employé au bureau de change** : Je veux 500 dollars.
 
@@ -102,7 +102,7 @@ Les savants sont unanimes sur la licéité du change avec ses conditions légale
 
 <div class="scene-box">
 
-**🎬 Quand l'Égalité est-elle Obligatoire ?**
+**📖 Quand l'Égalité est-elle Obligatoire ?**
 
 **Exemple ①** : Riyal contre riyal
 - 100 riyals = 100 riyals ✅
@@ -122,7 +122,7 @@ Les savants sont unanimes sur la licéité du change avec ses conditions légale
 
 <div class="scene-box">
 
-**🎬 Chez le Bijoutier**
+**📖 Chez le Bijoutier**
 
 **Le Client** : Je veux échanger 50 grammes d'or 21 carats contre de l'or 18 carats.
 
@@ -197,7 +197,7 @@ Les monnaies papier ont le statut des deux métaux précieux (or et argent) conc
 
 <div class="scene-box">
 
-**🎬 Au Marché**
+**📖 Au Marché**
 
 **Le Marchand** : Cette marchandise coûte 100 dollars.
 
@@ -231,7 +231,7 @@ Les monnaies papier ont le statut des deux métaux précieux (or et argent) conc
 
 <div class="scene-box">
 
-**🎬 Au Marché d'al-Baqi' — Médine**
+**📖 Au Marché d'al-Baqi' — Médine**
 
 *Un marchand interroge Ibn 'Umar...*
 

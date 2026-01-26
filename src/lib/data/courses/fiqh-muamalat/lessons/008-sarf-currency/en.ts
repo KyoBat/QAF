@@ -2,7 +2,7 @@ export const contentEn = `# Currency Exchange (Sarf) — Rules of Money Exchange
 
 <div class="scene-box">
 
-**🎬 The Scene: The Money Changers' Market — Medina in the Prophet's Era ﷺ**
+**📖 The Scene: The Money Changers' Market — Medina in the Prophet's Era ﷺ**
 
 *A merchant comes to Abdullah ibn Umar at the market...*
 
@@ -78,7 +78,7 @@ Scholars are unanimous on the permissibility of currency exchange with its legal
 
 <div class="scene-box">
 
-**🎬 What Does Taking Possession Mean?**
+**📖 What Does Taking Possession Mean?**
 
 **The exchange office employee**: I want 500 dollars.
 
@@ -102,7 +102,7 @@ Scholars are unanimous on the permissibility of currency exchange with its legal
 
 <div class="scene-box">
 
-**🎬 When is Equality Required?**
+**📖 When is Equality Required?**
 
 **Example ①**: Riyal for riyal
 - 100 riyals = 100 riyals ✅
@@ -122,7 +122,7 @@ Scholars are unanimous on the permissibility of currency exchange with its legal
 
 <div class="scene-box">
 
-**🎬 At the Jeweler's**
+**📖 At the Jeweler's**
 
 **The Customer**: I want to exchange 50 grams of 21 karat gold for 18 karat gold.
 
@@ -197,7 +197,7 @@ Paper currencies have the ruling of the two precious metals (gold and silver) re
 
 <div class="scene-box">
 
-**🎬 At the Market**
+**📖 At the Market**
 
 **The Merchant**: This merchandise costs 100 dollars.
 
@@ -231,7 +231,7 @@ Paper currencies have the ruling of the two precious metals (gold and silver) re
 
 <div class="scene-box">
 
-**🎬 At al-Baqi' Market — Medina**
+**📖 At al-Baqi' Market — Medina**
 
 *A merchant questions Ibn Umar...*
 

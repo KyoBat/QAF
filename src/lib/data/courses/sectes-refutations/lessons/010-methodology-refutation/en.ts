@@ -34,7 +34,7 @@ After studying the main sects, their beliefs and deviations, this final lesson p
 
 <div class="scene-box">
 
-**🎭 Scene 1: Imam Ahmad and the Capital Nuance**
+**📜 Scene 1: Imam Ahmad and the Capital Nuance**
 
 **Baghdad — After the Mihna**
 
@@ -102,7 +102,7 @@ Conditions for Takfir
 
 <div class="scene-box">
 
-**🎭 Scene 2: Ilzam — Making the Opponent Fall into His Own Contradiction**
+**📜 Scene 2: Ilzam — Making the Opponent Fall into His Own Contradiction**
 
 **Dialogue between a Sunni and a Jahmite**
 
@@ -174,7 +174,7 @@ Levels of Divergence
 
 <div class="scene-box">
 
-**🎭 Scene 3: The Fatal Error — Refuting Without Understanding**
+**📜 Scene 3: The Fatal Error — Refuting Without Understanding**
 
 **Dialogue between two students**
 
@@ -230,7 +230,7 @@ Levels of Divergence
 
 <div class="scene-box">
 
-**🎭 Scene 4: The Legendary Debate at Harura**
+**📜 Scene 4: The Legendary Debate at Harura**
 
 **Harura, near Kufa — 37 H**
 

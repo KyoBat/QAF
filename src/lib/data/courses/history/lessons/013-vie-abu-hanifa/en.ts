@@ -10,7 +10,7 @@ export const content = `# 🕌 The Life of Abu Hanifa (80-150 H)
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 He is **al-Imam al-A'zam** (the Greatest Imam), the leader of the mujtahidun, and the first to codify Islamic jurisprudence systematically. He lived **70 years** filled with knowledge, asceticism, and steadfastness in the face of injustice.
 
@@ -40,7 +40,7 @@ He is **al-Imam al-A'zam** (the Greatest Imam), the leader of the mujtahidun, an
 
 <div class="scene-box">
 
-**🎭 SCENE: The Decision of His Life — Kufa Market, ~95 H**
+**📜 SCENE: The Decision of His Life — Kufa Market, ~95 H**
 
 *A 15-year-old young man sells silk in the marketplace. The great scholar Sha'bi passes by.*
 
@@ -123,7 +123,7 @@ He is **al-Imam al-A'zam** (the Greatest Imam), the leader of the mujtahidun, an
 
 <div class="scene-box">
 
-**🎭 SCENE: Honesty in Trade — Kufa Market**
+**📜 SCENE: Honesty in Trade — Kufa Market**
 
 *A woman comes to Abu Hanifa with a silk cloth to sell.*
 
@@ -162,7 +162,7 @@ He is **al-Imam al-A'zam** (the Greatest Imam), the leader of the mujtahidun, an
 
 <div class="scene-box">
 
-**🎭 SCENE: Steadfastness Before the Caliph — Kufa Prison, 146 H**
+**📜 SCENE: Steadfastness Before the Caliph — Kufa Prison, 146 H**
 
 **Al-Mansur** *(furiously)*: "Why do you refuse to be my judge?"
 
@@ -249,7 +249,7 @@ He is **al-Imam al-A'zam** (the Greatest Imam), the leader of the mujtahidun, an
 
 <div class="scene-box">
 
-**🎭 SCENE: The Imam's Funeral — Baghdad, 150 H**
+**📜 SCENE: The Imam's Funeral — Baghdad, 150 H**
 
 *Immense crowds fill the streets of Baghdad. People are weeping.*
 

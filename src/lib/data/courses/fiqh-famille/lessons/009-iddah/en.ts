@@ -11,9 +11,9 @@ export const contentEn = `# ⏳ Al-'Iddah — The Waiting Period
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
-### 🎭 Scene: The Purpose Revealed
+### 📜 Scene: The Purpose Revealed
 
 > **A woman asked the scholar...**
 >
@@ -33,7 +33,7 @@ export const contentEn = `# ⏳ Al-'Iddah — The Waiting Period
 
 ---
 
-### 🎭 Scene: The Widow's Grief
+### 📜 Scene: The Widow's Grief
 
 > **A widow came to the Prophet ﷺ...**
 >

@@ -11,9 +11,9 @@ export const contentEn = `# 🏠 Family Fiqh — The Science That Builds Homes
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
-### 🎭 Scene: Questions That Repeat Daily
+### 📜 Scene: Questions That Repeat Daily
 
 > A young man asks: *"I want to get married... but I know nothing about its rulings!"*
 >
@@ -25,7 +25,7 @@ These questions — and many others — find their answers in **Family Fiqh**.
 
 ---
 
-### 🎭 Scene: The Marriage That Almost Failed
+### 📜 Scene: The Marriage That Almost Failed
 
 > **In a Muslim community center...**
 >
@@ -148,7 +148,7 @@ These questions — and many others — find their answers in **Family Fiqh**.
 
 ---
 
-## 🎭 Story: The Prophet ﷺ and His Family
+## 📜 Story: The Prophet ﷺ and His Family
 
 ### The Best Example
 

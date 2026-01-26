@@ -5,7 +5,7 @@ export const contentFr = `# 🏛️ Les Asha'irah et Maturidiyyah — Entre Kala
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 Les **Asha'irah** et les **Maturidiyyah** sont aujourd'hui les deux plus grandes écoles théologiques du monde musulman. Des millions de musulmans suivent leur croyance, souvent sans le savoir.
 
@@ -29,7 +29,7 @@ Historiquement, ces écoles sont nées pour **défendre l'Islam contre les Mu'ta
 
 <div class="scene-box">
 
-**🎭 SCÈNE : La Conversion — Basra, ~300 H**
+**📜 SCÈNE : La Conversion — Basra, ~300 H**
 
 *Abu al-Hasan al-Ash'ari, mu'tazilite depuis 40 ans, s'isole chez lui pendant le Ramadan. Puis il sort à la mosquée principale.*
 
@@ -105,7 +105,7 @@ Les Asha'irah n'affirment que **7 attributs** qu'ils appellent « attributs des 
 
 <div class="scene-box">
 
-**🎭 SCÈNE : Le Débat sur les Attributs**
+**📜 SCÈNE : Le Débat sur les Attributs**
 
 **Sunni** : « Pourquoi affirmes-tu que Allah entend mais tu nies qu'Il ait une Main ? »
 
@@ -188,7 +188,7 @@ Les deux écoles partagent :
 
 <div class="scene-box">
 
-**🎭 SCÈNE : Le Regret de Fakhr ad-Din ar-Razi — 606 H**
+**📜 SCÈNE : Le Regret de Fakhr ad-Din ar-Razi — 606 H**
 
 *Ar-Razi, sur son lit de mort, dicte ses dernières paroles.*
 
@@ -204,7 +204,7 @@ Les deux écoles partagent :
 
 <div class="scene-box">
 
-**🎭 SCÈNE : Le Regret d'al-Juwayni — 478 H**
+**📜 SCÈNE : Le Regret d'al-Juwayni — 478 H**
 
 *Imam al-Haramayn al-Juwayni, peu avant sa mort.*
 
@@ -333,7 +333,7 @@ On fait attention aux passages sur les Attributs, mais on profite de l'immense s
 
 <div class="scene-box">
 
-**🎭 SCÈNE : Conseil du Cheikh**
+**📜 SCÈNE : Conseil du Cheikh**
 
 **Cheikh** : « Rejettes-tu Fath al-Bari ? »
 

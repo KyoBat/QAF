@@ -9,7 +9,7 @@ export const content = `# 🌌 Proofs of Allah's Existence — البراهين 
 
 ---
 
-## 🎬 Prologue: The Existential Question
+## 📖 Prologue: The Existential Question
 
 <div class="scene-box">
 

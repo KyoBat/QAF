@@ -71,7 +71,7 @@ export const content = `# 📜 صَلَاةُ الْعِيدَيْنِ — La Pr
 
 <div class="scene-box">
 
-**🎭 La Scène de l'Arrivée du Prophète ﷺ à Médine**
+**📜 La Scène de l'Arrivée du Prophète ﷺ à Médine**
 
 *Le Prophète ﷺ arriva à Médine...*
 

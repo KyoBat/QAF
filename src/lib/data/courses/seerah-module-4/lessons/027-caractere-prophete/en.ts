@@ -22,7 +22,7 @@ The Companions preserved every detail about him with extraordinary precision —
 
 ### The Testimony of Ali ibn Abi Talib
 
-> 🎭 **Scene**:
+> 📜 **Scene**:
 > 
 > Ali was asked to describe the Prophet ﷺ. He said:
 > 
@@ -46,7 +46,7 @@ The Companions preserved every detail about him with extraordinary precision —
 
 ### The Testimony of Jabir ibn Samura
 
-> 🎭 **Scene**:
+> 📜 **Scene**:
 > 
 > Jabir said:
 > 
@@ -78,7 +78,7 @@ The Companions preserved every detail about him with extraordinary precision —
 
 ### The Beautiful Fragrance of the Prophet ﷺ
 
-> 🎭 **Scene**:
+> 📜 **Scene**:
 > 
 > Anas ibn Malik said:
 > 
@@ -96,7 +96,7 @@ The Companions preserved every detail about him with extraordinary precision —
 
 Before prophethood, he was nicknamed **"The Truthful One" (Al-Sadiq)**.
 
-> 🎭 **Scene**:
+> 📜 **Scene**:
 > 
 > When the Prophet ﷺ climbed Mount Safa and called the Quraysh, he asked them:
 > 
@@ -108,7 +108,7 @@ Before prophethood, he was nicknamed **"The Truthful One" (Al-Sadiq)**.
 
 ### Generosity (Al-Karam)
 
-> 🎭 **Scene**:
+> 📜 **Scene**:
 > 
 > Ibn Abbas said:
 > 
@@ -120,7 +120,7 @@ Before prophethood, he was nicknamed **"The Truthful One" (Al-Sadiq)**.
 > 
 > — **Source: Sahih al-Bukhari**
 
-> 🎭 **Scene**:
+> 📜 **Scene**:
 > 
 > A man came asking the Prophet ﷺ. He gave him sheep filling a valley between two mountains!
 > 
@@ -132,7 +132,7 @@ Before prophethood, he was nicknamed **"The Truthful One" (Al-Sadiq)**.
 
 ### Courage (Al-Shaja'a)
 
-> 🎭 **Scene**:
+> 📜 **Scene**:
 > 
 > Ali — the lion of battles — said:
 > 
@@ -142,7 +142,7 @@ Before prophethood, he was nicknamed **"The Truthful One" (Al-Sadiq)**.
 > 
 > — **Source: Musnad Ahmad**
 
-> 🎭 **Scene**:
+> 📜 **Scene**:
 > 
 > At Hunayn, when the army fled, the Prophet ﷺ stood alone, riding his mule toward the enemy, saying:
 > 
@@ -152,7 +152,7 @@ Before prophethood, he was nicknamed **"The Truthful One" (Al-Sadiq)**.
 
 ### Humility (Al-Tawadu')
 
-> 🎭 **Scene**:
+> 📜 **Scene**:
 > 
 > Anas said:
 > 
@@ -162,7 +162,7 @@ Before prophethood, he was nicknamed **"The Truthful One" (Al-Sadiq)**.
 > 
 > — **Source: Sunan al-Tirmidhi**
 
-> 🎭 **Scene**:
+> 📜 **Scene**:
 > 
 > A man came to the Prophet ﷺ and began trembling with awe.
 > 
@@ -174,7 +174,7 @@ Before prophethood, he was nicknamed **"The Truthful One" (Al-Sadiq)**.
 
 ### Mercy (Al-Rahma)
 
-> 🎭 **Scene**:
+> 📜 **Scene**:
 > 
 > The Prophet ﷺ said:
 > 
@@ -185,7 +185,7 @@ Before prophethood, he was nicknamed **"The Truthful One" (Al-Sadiq)**.
 > **﴾ And We have not sent you except as a mercy to the worlds ﴿**
 > — **[Al-Anbiya: 107]**
 
-> 🎭 **Scene**:
+> 📜 **Scene**:
 > 
 > A bedouin urinated in the mosque!
 > 
@@ -199,7 +199,7 @@ Before prophethood, he was nicknamed **"The Truthful One" (Al-Sadiq)**.
 
 ### Modesty (Al-Haya')
 
-> 🎭 **Scene**:
+> 📜 **Scene**:
 > 
 > Abu Sa'id al-Khudri said:
 > 
@@ -215,7 +215,7 @@ Before prophethood, he was nicknamed **"The Truthful One" (Al-Sadiq)**.
 
 ### With His Wives
 
-> 🎭 **Scene**:
+> 📜 **Scene**:
 > 
 > Aisha said:
 > 
@@ -223,7 +223,7 @@ Before prophethood, he was nicknamed **"The Truthful One" (Al-Sadiq)**.
 > 
 > — **Source: Sahih al-Bukhari**
 
-> 🎭 **Scene**:
+> 📜 **Scene**:
 > 
 > Aisha was asked: "What did the Prophet ﷺ do at home?"
 > 
@@ -233,7 +233,7 @@ Before prophethood, he was nicknamed **"The Truthful One" (Al-Sadiq)**.
 > 
 > — **Source: Musnad Ahmad**
 
-> 🎭 **Scene**:
+> 📜 **Scene**:
 > 
 > The Prophet ﷺ said:
 > 
@@ -243,7 +243,7 @@ Before prophethood, he was nicknamed **"The Truthful One" (Al-Sadiq)**.
 
 ### With His Children and Grandchildren
 
-> 🎭 **Scene**:
+> 📜 **Scene**:
 > 
 > The Prophet ﷺ kissed al-Hasan and al-Husayn.
 > 
@@ -255,7 +255,7 @@ Before prophethood, he was nicknamed **"The Truthful One" (Al-Sadiq)**.
 > 
 > — **Source: Sahih al-Bukhari**
 
-> 🎭 **Scene**:
+> 📜 **Scene**:
 > 
 > The Prophet ﷺ was praying. When he prostrated, al-Hasan or al-Husayn climbed on his back.
 > 
@@ -269,7 +269,7 @@ Before prophethood, he was nicknamed **"The Truthful One" (Al-Sadiq)**.
 
 ### With Fatima
 
-> 🎭 **Scene**:
+> 📜 **Scene**:
 > 
 > Aisha said:
 > 
@@ -287,7 +287,7 @@ Before prophethood, he was nicknamed **"The Truthful One" (Al-Sadiq)**.
 
 ### With His Companions
 
-> 🎭 **Scene**:
+> 📜 **Scene**:
 > 
 > Anas — who served him for 10 years — said:
 > 
@@ -297,7 +297,7 @@ Before prophethood, he was nicknamed **"The Truthful One" (Al-Sadiq)**.
 > 
 > — **Source: Sahih al-Bukhari**
 
-> 🎭 **Scene**:
+> 📜 **Scene**:
 > 
 > Amr ibn al-As said:
 > 
@@ -321,7 +321,7 @@ Before prophethood, he was nicknamed **"The Truthful One" (Al-Sadiq)**.
 
 ### With Children
 
-> 🎭 **Scene**:
+> 📜 **Scene**:
 > 
 > Anas said:
 > 
@@ -329,7 +329,7 @@ Before prophethood, he was nicknamed **"The Truthful One" (Al-Sadiq)**.
 > 
 > — **Source: Sahih al-Bukhari**
 
-> 🎭 **Scene**:
+> 📜 **Scene**:
 > 
 > The Prophet ﷺ visited a Jewish boy who was ill.
 > 
@@ -345,7 +345,7 @@ Before prophethood, he was nicknamed **"The Truthful One" (Al-Sadiq)**.
 
 ### With the Poor and Weak
 
-> 🎭 **Scene**:
+> 📜 **Scene**:
 > 
 > There was a black woman who used to clean the mosque. She died.
 > 
@@ -367,7 +367,7 @@ Before prophethood, he was nicknamed **"The Truthful One" (Al-Sadiq)**.
 
 ### His Constant Smile
 
-> 🎭 **Scene**:
+> 📜 **Scene**:
 > 
 > Jarir ibn Abdullah said:
 > 
@@ -375,7 +375,7 @@ Before prophethood, he was nicknamed **"The Truthful One" (Al-Sadiq)**.
 > 
 > — **Source: Sahih al-Bukhari**
 
-> 🎭 **Scene**:
+> 📜 **Scene**:
 > 
 > Abdullah ibn al-Harith said:
 > 
@@ -385,7 +385,7 @@ Before prophethood, he was nicknamed **"The Truthful One" (Al-Sadiq)**.
 
 ### His Humor
 
-> 🎭 **Scene**:
+> 📜 **Scene**:
 > 
 > An old woman said to the Prophet ﷺ: "O Messenger of Allah, pray to Allah that He admits me to Paradise!"
 > 
@@ -399,7 +399,7 @@ Before prophethood, he was nicknamed **"The Truthful One" (Al-Sadiq)**.
 > 
 > — **Source: Al-Shama'il al-Muhammadiyya**
 
-> 🎭 **Scene**:
+> 📜 **Scene**:
 > 
 > Zahir was a bedouin man who used to sell in the market.
 > 

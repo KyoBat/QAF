@@ -11,9 +11,9 @@ export const contentFr = `# ⚖️ Introduction aux Usul al-Fiqh — La Clé de 
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
-### 🎭 Scène : L'Imam Ash-Shafi'i et la Naissance d'une Nouvelle Science
+### 📜 Scène : L'Imam Ash-Shafi'i et la Naissance d'une Nouvelle Science
 
 > **Égypte, 199 H...**
 >
@@ -35,7 +35,7 @@ export const contentFr = `# ⚖️ Introduction aux Usul al-Fiqh — La Clé de 
 
 ---
 
-### 🎭 Scène : Le Bois et le Serpent
+### 📜 Scène : Le Bois et le Serpent
 
 > Un étudiant demanda à Ash-Shafi'i : *« Laissez les règles, donnez-nous directement les avis juridiques ! »*
 >
@@ -112,7 +112,7 @@ export const contentFr = `# ⚖️ Introduction aux Usul al-Fiqh — La Clé de 
 
 ---
 
-## 🎭 Histoire : L'Imam Ash-Shafi'i Écrit Ar-Risala
+## 📜 Histoire : L'Imam Ash-Shafi'i Écrit Ar-Risala
 
 ### La Raison
 
@@ -157,7 +157,7 @@ export const contentFr = `# ⚖️ Introduction aux Usul al-Fiqh — La Clé de 
 | 📝 Le général et le particulier | Ce qui englobe tous et ce qui en spécifie certains |
 | ⛓️ L'absolu et le restreint | Le terme sans condition et celui qui est conditionné |
 | ❓ L'ambigu et l'explicite | Ce qui nécessite clarification |
-| 🎭 Le sens propre et figuré | Le sens original et le sens dérivé |
+| 📜 Le sens propre et figuré | Le sens original et le sens dérivé |
 
 ### Troisièmement : Les Statuts Légaux
 

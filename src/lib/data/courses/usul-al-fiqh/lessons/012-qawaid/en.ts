@@ -11,9 +11,9 @@ export const contentEn = `# 📜 Al-Qawa'id Al-Fiqhiyyah — The Five Major Lega
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
-### 🎭 Scene: Omar and the Justice of Principles
+### 📜 Scene: Omar and the Justice of Principles
 
 > **Medina, during the caliphate of Omar...**
 >
@@ -35,7 +35,7 @@ export const contentEn = `# 📜 Al-Qawa'id Al-Fiqhiyyah — The Five Major Lega
 
 ---
 
-### 🎭 Scene: The Scholar and the Traveler
+### 📜 Scene: The Scholar and the Traveler
 
 > A traveler came to **Imam Al-'Izz ibn Abd al-Salam** — may Allah have mercy on him — and said:
 >

@@ -11,7 +11,7 @@ export const content = `# 🌅 Childhood and Youth — From Orphan to Al-Amîn
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 ### An Orphan Raised by Allah
 
@@ -47,7 +47,7 @@ But this orphan was **under Allah's watch**... preparing him for the greatest mi
 
 ### 💝 Abû Tâlib's Love for His Nephew
 
-> 🎭 **Account**: Abû Tâlib loved Muhammad intensely, **more than any of his own children**!
+> 📜 **Account**: Abû Tâlib loved Muhammad intensely, **more than any of his own children**!
 >
 > - He wouldn't sleep unless Muhammad was beside him
 > - He wouldn't eat unless Muhammad was with him
@@ -80,7 +80,7 @@ But this orphan was **under Allah's watch**... preparing him for the greatest mi
 
 ---
 
-### 🎭 The Complete Story
+### 📜 The Complete Story
 
 > **Scene 1: The Difficult Separation**
 >
@@ -234,7 +234,7 @@ Bahîrâ turned to Abû Tâlib and said:
 
 ---
 
-### 🎭 The Story
+### 📜 The Story
 
 > **The Injustice:**
 >
@@ -345,7 +345,7 @@ The Messenger of Allah ﷺ said:
 
 ---
 
-### 🎭 Testimony from the Jâhiliyya
+### 📜 Testimony from the Jâhiliyya
 
 A polytheist said **after the Revelation**:
 
@@ -400,11 +400,11 @@ He ﷺ said: **"I was never tempted by evil after that"**
 
 She treated him like her son, or better:
 
-> 🎭 **Her Testimony**: 
+> 📜 **Her Testimony**: 
 >
 > **"Muhammad was the most devoted of my children to me, and the most tender with me"**
 
-> 🎭 **His Loyalty to Her**:
+> 📜 **His Loyalty to Her**:
 >
 > When she died (after the Hijra), the Prophet ﷺ shrouded her **in his own shirt**!
 >

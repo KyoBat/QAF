@@ -16,7 +16,7 @@ En la sixième année de l'Hégire, le Prophète ﷺ vit en rêve qu'il entrait 
 
 ### La vision véridique
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Le Prophète ﷺ se réveilla et informa ses compagnons :
 > 
@@ -39,7 +39,7 @@ En la sixième année de l'Hégire, le Prophète ﷺ vit en rêve qu'il entrait 
 | Intention | 'Umra uniquement (pas de combat) |
 | Offrandes | 70 chameaux pour le sacrifice |
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Les musulmans sortirent en état d'ihrâm, prononçant la talbiya pour la 'Umra, ne portant que les épées de voyage dans leurs fourreaux.
 > 
@@ -53,7 +53,7 @@ En la sixième année de l'Hégire, le Prophète ﷺ vit en rêve qu'il entrait 
 
 ### L'attitude hostile
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Quand Quraysh apprit la sortie des musulmans, elle envoya Khâlid ibn al-Walîd à la tête de 200 cavaliers pour les arrêter.
 > 
@@ -71,7 +71,7 @@ Certains compagnons suggérèrent un chemin escarpé à travers les montagnes. L
 
 ### Al-Qaswâ' s'arrête
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Quand ils arrivèrent à Hudaybiya, la chamelle du Prophète ﷺ (al-Qaswâ') s'agenouilla et refusa d'avancer.
 > 
@@ -97,7 +97,7 @@ Certains compagnons suggérèrent un chemin escarpé à travers les montagnes. L
 
 ### L'attitude des compagnons envers 'Urwa
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > 'Urwa ibn Mas'ûd vint négocier et remarqua quelque chose d'étonnant :
 > 
@@ -118,7 +118,7 @@ Certains compagnons suggérèrent un chemin escarpé à travers les montagnes. L
 
 ### La cause du serment
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Le Prophète ﷺ envoya 'Uthmân ibn 'Affân رضي الله عنه négocier avec Quraysh.
 > 
@@ -154,7 +154,7 @@ Suhayl ibn 'Amr vint négocier au nom de Quraysh, et l'accord fut conclu :
 
 ### La rédaction du document
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Le Prophète ﷺ dicta à 'Alî : "Bismillâh ar-Rahmân ar-Rahîm..."
 > 
@@ -180,7 +180,7 @@ Suhayl ibn 'Amr vint négocier au nom de Quraysh, et l'accord fut conclu :
 
 ### Le moment le plus difficile
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Pendant la rédaction du traité, Abû Jandal fils de Suhayl arriva en traînant ses chaînes, s'étant échappé de la prison de son père !
 > 
@@ -200,7 +200,7 @@ Suhayl ibn 'Amr vint négocier au nom de Quraysh, et l'accord fut conclu :
 
 ### La colère des compagnons
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > 'Umar vint au Prophète ﷺ en colère :
 > 

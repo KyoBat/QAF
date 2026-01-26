@@ -11,9 +11,9 @@ export const contentEn = `# ⚖️ Introduction to Usul al-Fiqh — The Key to I
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
-### 🎭 Scene: Imam Ash-Shafi'i and the Birth of a New Science
+### 📜 Scene: Imam Ash-Shafi'i and the Birth of a New Science
 
 > **Egypt, 199 AH...**
 >
@@ -35,7 +35,7 @@ export const contentEn = `# ⚖️ Introduction to Usul al-Fiqh — The Key to I
 
 ---
 
-### 🎭 Scene: The Firewood and the Snake
+### 📜 Scene: The Firewood and the Snake
 
 > A student asked Ash-Shafi'i: *"Leave the rules aside and just give us the rulings directly!"*
 >
@@ -112,7 +112,7 @@ export const contentEn = `# ⚖️ Introduction to Usul al-Fiqh — The Key to I
 
 ---
 
-## 🎭 Story: Imam Ash-Shafi'i Writes Ar-Risala
+## 📜 Story: Imam Ash-Shafi'i Writes Ar-Risala
 
 ### The Reason
 
@@ -157,7 +157,7 @@ export const contentEn = `# ⚖️ Introduction to Usul al-Fiqh — The Key to I
 | 📝 General and Specific | What includes all vs. what specifies some |
 | ⛓️ Absolute and Restricted | Term without condition vs. conditioned |
 | ❓ Ambiguous and Clear | What needs clarification |
-| 🎭 Literal and Figurative | Original meaning vs. derived |
+| 📜 Literal and Figurative | Original meaning vs. derived |
 
 ### Third: Legal Rulings
 

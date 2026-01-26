@@ -11,9 +11,9 @@ export const contentFr = `# 🤝 Le Consensus (Ijma) — La Troisième Source de
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
-### 🎭 Scène : La Saqifa de Bani Sa'ida
+### 📜 Scène : La Saqifa de Bani Sa'ida
 
 > **Médine, le jour de la mort du Prophète ﷺ...**
 >
@@ -39,7 +39,7 @@ export const contentFr = `# 🤝 Le Consensus (Ijma) — La Troisième Source de
 
 ---
 
-### 🎭 Scène : Omar et la Compilation du Coran
+### 📜 Scène : Omar et la Compilation du Coran
 
 > Après la bataille de Yamama, de nombreux mémorisateurs du Coran moururent en martyrs.
 >
@@ -168,7 +168,7 @@ export const contentFr = `# 🤝 Le Consensus (Ijma) — La Troisième Source de
 
 ---
 
-## 🎭 Exemples de Consensus
+## 📜 Exemples de Consensus
 
 ### Consensus sur les Obligations
 

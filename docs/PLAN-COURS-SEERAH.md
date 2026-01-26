@@ -57,7 +57,7 @@ Créer un cours **narratif et immersif** sur la Seerah du Prophète ﷺ, en util
 
 #### Éléments narratifs
 - 📊 Carte interactive de l'Arabie pré-islamique
-- 🎭 Scène : Marché d'Ukaz (foire littéraire)
+- 📜 Scène : Marché d'Ukaz (foire littéraire)
 - 📈 Timeline : Événements majeurs (Année de l'Éléphant)
 
 ---
@@ -74,7 +74,7 @@ Créer un cours **narratif et immersif** sur la Seerah du Prophète ﷺ, en util
 
 #### Éléments narratifs
 - 🌳 Mindmap : Arbre généalogique complet
-- 🎭 Scène : Halima cherchant un nourrisson à allaiter
+- 📜 Scène : Halima cherchant un nourrisson à allaiter
 - 💬 Dialogues : Témoignages sur la naissance bénie
 
 ---
@@ -91,7 +91,7 @@ Créer un cours **narratif et immersif** sur la Seerah du Prophète ﷺ, en util
 - **Voyage en Syrie** : Rencontre avec le moine Bahira (12 ans)
 
 #### Éléments narratifs
-- 🎭 Scène : Le moine Bahira reconnaît les signes
+- 📜 Scène : Le moine Bahira reconnaît les signes
 - 📊 Tableau : Événements de l'enfance (chronologie)
 - 💎 Citations : Paroles d'Abu Talib sur son neveu
 
@@ -109,7 +109,7 @@ Créer un cours **narratif et immersif** sur la Seerah du Prophète ﷺ, en util
 - **Le commerce** : Partenariat avec Khadija
 
 #### Éléments narratifs
-- 🎭 Scène : Le Pacte des Vertueux chez Abdullah ibn Jud'an
+- 📜 Scène : Le Pacte des Vertueux chez Abdullah ibn Jud'an
 - 💬 Témoignages : Les Mecquois parlent du jeune Muhammad
 - 📊 Qualités du Prophète avant la révélation
 
@@ -127,7 +127,7 @@ Créer un cours **narratif et immersif** sur la Seerah du Prophète ﷺ, en util
 - **Reconstruction de la Kaaba** : La Pierre Noire (35 ans)
 
 #### Éléments narratifs
-- 🎭 Scène : La Pierre Noire et la sagesse de Muhammad
+- 📜 Scène : La Pierre Noire et la sagesse de Muhammad
 - 💎 Portrait de Khadija : Première croyante
 - 📊 Timeline : Vie de famille avant la révélation
 
@@ -147,7 +147,7 @@ Créer un cours **narratif et immersif** sur la Seerah du Prophète ﷺ, en util
 - **Interruption de la révélation (Fatrat al-Wahy)** : Période d'attente
 
 #### Éléments narratifs
-- 🎭 Scène dramatique : Première rencontre avec Jibril
+- 📜 Scène dramatique : Première rencontre avec Jibril
 - 💬 Dialogue : Khadija réconforte le Prophète
 - 📜 Texte coranique : Sourate Al-'Alaq vocalisée
 
@@ -168,7 +168,7 @@ Créer un cours **narratif et immersif** sur la Seerah du Prophète ﷺ, en util
 
 #### Éléments narratifs
 - 👥 Portraits des 10 promis au Paradis
-- 🎭 Scène : Conversion d'Abu Bakr
+- 📜 Scène : Conversion d'Abu Bakr
 - 📊 Tableau : Les premiers 40 musulmans
 
 ---
@@ -184,7 +184,7 @@ Créer un cours **narratif et immersif** sur la Seerah du Prophète ﷺ, en util
 - **Proposition de compromis** : Refus total
 
 #### Éléments narratifs
-- 🎭 Scène : Le discours sur le mont Safa
+- 📜 Scène : Le discours sur le mont Safa
 - 💬 Dialogues : Abu Lahab insulte son neveu
 - 📊 Stratégies de Quraysh pour stopper l'Islam
 
@@ -201,7 +201,7 @@ Créer un cours **narratif et immersif** sur la Seerah du Prophète ﷺ, en util
 - **Discours de Ja'far** : Défense de l'Islam devant le Négus
 
 #### Éléments narratifs
-- 🎭 Scène : Torture de Bilal sous le soleil
+- 📜 Scène : Torture de Bilal sous le soleil
 - 💬 Paroles immortelles : « Ahadun Ahad » (Bilal)
 - 🗺️ Carte : Migration vers l'Abyssinie
 
@@ -220,7 +220,7 @@ Créer un cours **narratif et immersif** sur la Seerah du Prophète ﷺ, en util
 
 #### Éléments narratifs
 - 📊 Timeline : Les 3 ans de boycott
-- 🎭 Scène : Derniers moments de Khadija
+- 📜 Scène : Derniers moments de Khadija
 - 💔 Impact émotionnel : Solitude du Prophète
 
 ---
@@ -237,7 +237,7 @@ Créer un cours **narratif et immersif** sur la Seerah du Prophète ﷺ, en util
 - **L'ange des montagnes** : Refus de vengeance
 
 #### Éléments narratifs
-- 🎭 Scène : Lapidation sanglante
+- 📜 Scène : Lapidation sanglante
 - 💬 Dua légendaire : Invocation complète
 - 💎 Leçon : Miséricorde même dans l'épreuve
 
@@ -257,7 +257,7 @@ Créer un cours **narratif et immersif** sur la Seerah du Prophète ﷺ, en util
 
 #### Éléments narratifs
 - 🌌 Mindmap : Les 7 cieux et les prophètes
-- 🎭 Scène : Négociation de Musa sur le nombre de prières
+- 📜 Scène : Négociation de Musa sur le nombre de prières
 - 📊 Tableau : Événements du Mi'raj
 
 ---
@@ -276,7 +276,7 @@ Créer un cours **narratif et immersif** sur la Seerah du Prophète ﷺ, en util
 
 #### Éléments narratifs
 - 🗺️ Carte : Route de la Hijra
-- 🎭 Scène : Ali dans le lit du Prophète
+- 📜 Scène : Ali dans le lit du Prophète
 - 🕷️ Miracle : L'araignée tisse sa toile
 
 ---
@@ -514,7 +514,7 @@ Créer un cours **narratif et immersif** sur la Seerah du Prophète ﷺ, en util
 5. **Les 7 cieux du Mi'raj** : Visualisation
 
 ### Éléments Narratifs
-- 🎭 **Scènes dramatiques** : Dialogues, émotions, tension
+- 📜 **Scènes dramatiques** : Dialogues, émotions, tension
 - 💬 **Citations directes** : Paroles des compagnons
 - 📊 **Tableaux comparatifs** : Batailles, qualités, chronologie
 - 🗺️ **Cartes géographiques** : Arabie, Médine, expansion

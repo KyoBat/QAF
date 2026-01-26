@@ -28,7 +28,7 @@ On the **17th of Ramadan** in the second year of Hijra, the first decisive battl
 
 ### The Prophet ﷺ Learns of the Caravan
 
-> 🎭 **Scene**:
+> 📜 **Scene**:
 > 
 > News reached the Prophet ﷺ that a large Quraysh caravan led by Abû Sufyân was passing near Medina, carrying considerable wealth.
 > 
@@ -47,7 +47,7 @@ The Prophet ﷺ consulted his companions, and three of them spoke immortal words
 > "O Messenger of Allah, it is Quraysh and its might. By Allah, it has never been humbled since it rose to power, and has never believed since it disbelieved. But we will fight alongside you."
 
 **Al-Miqdâd ibn 'Amr رضي الله عنه:**
-> 🎭 **Scene**:
+> 📜 **Scene**:
 > 
 > "O Messenger of Allah, proceed to what Allah has shown you, we are with you. By Allah, we will not say to you as the Children of Israel said to Moses: 'Go, you and your Lord, and fight; we are staying here.' Rather, we say: 'Go, you and your Lord, and fight; we will fight with you!'"
 > 
@@ -56,7 +56,7 @@ The Prophet ﷺ consulted his companions, and three of them spoke immortal words
 > — **Source: Sahîh Muslim**
 
 **Sa'd ibn Mu'âdh رضي الله عنه (Chief of the Ansar):**
-> 🎭 **Scene**:
+> 📜 **Scene**:
 > 
 > "O Messenger of Allah, we have believed in you and confirmed your truthfulness. Go wherever you wish, we are with you. By Him who sent you with the truth, if you were to lead us into that sea and plunge into it, we would plunge in with you—not a single man among us would stay behind!"
 > 
@@ -79,7 +79,7 @@ The Prophet ﷺ consulted his companions, and three of them spoke immortal words
 
 Al-Hubâb ibn al-Mundhir chose a strategic position:
 
-> 🎭 **Scene**:
+> 📜 **Scene**:
 > 
 > Al-Hubâb said: "O Messenger of Allah, is this location a place Allah has commanded you to occupy, from which we must neither advance nor retreat, or is it a matter of opinion, strategy, and tactics?"
 > 
@@ -97,7 +97,7 @@ Al-Hubâb ibn al-Mundhir chose a strategic position:
 
 ### The Prophet's ﷺ Supplication
 
-> 🎭 **Scene**:
+> 📜 **Scene**:
 > 
 > The Prophet ﷺ stood praying and supplicating throughout the night, raising his hands to the sky:
 > 
@@ -133,7 +133,7 @@ Three champions of Quraysh came out demanding single combat:
 
 ### Abû Jahl's Stance
 
-> 🎭 **Scene**:
+> 📜 **Scene**:
 > 
 > Abû Jahl stood arrogantly, inciting his army:
 > 
@@ -166,7 +166,7 @@ Three champions of Quraysh came out demanding single combat:
 
 ### The Moment of Abû Jahl's Death
 
-> 🎭 **Scene**:
+> 📜 **Scene**:
 > 
 > Two young boys from the Ansar approached 'Abd ar-Rahmân ibn 'Awf:
 > 
@@ -201,7 +201,7 @@ The Prophet ﷺ showed great mercy:
 | Teaching | Those who teach 10 Muslim children to read and write are freed |
 | Pardon | Some were released without ransom |
 
-> 🎭 **Scene**:
+> 📜 **Scene**:
 > 
 > The Prophet ﷺ said to his companions: "Treat the prisoners well."
 > 

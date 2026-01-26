@@ -14,7 +14,7 @@ export const content = `# 🦁 'Alī ibn Abī Ṭālib — The Lion of Allah
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 He was the **first child** to embrace Islam.
 
@@ -64,7 +64,7 @@ One day, he found the Prophet ﷺ and Khadīja praying.
 
 <div class="scene-box">
 
-**🎭 The Scene**
+**📜 The Scene**
 
 **'Alī:** "What are you doing?"
 
@@ -231,7 +231,7 @@ His last instructions:
 
 <div class="scene-box">
 
-**🎭 Before the Expedition of Tabūk**
+**📜 Before the Expedition of Tabūk**
 
 *During the expedition of Tabūk, the Prophet ﷺ left 'Alī in Medina to manage affairs.*
 

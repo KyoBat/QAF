@@ -11,7 +11,7 @@ export const content = `# 👨‍👩‍👧 FĀṬIMA AND AHL AL-BAYT — The P
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 **Ahl al-Bayt**—the Prophet's ﷺ family—holds a unique place in Islam.
 
@@ -65,7 +65,7 @@ Fāṭima grew up amid **persecution**.
 
 <div class="scene-box">
 
-**🎭 Scenes from Her Childhood**
+**📜 Scenes from Her Childhood**
 
 **🗑️ FILTH ON HER FATHER**
 One day, while the Prophet ﷺ prayed near the Ka'ba, Quraysh threw camel intestines on him. Little Fāṭima came to clean her father, crying.

@@ -21,7 +21,7 @@ In the modern era, under colonial rule, movements appeared claiming to belong to
 
 ---
 
-## 🎭 Scene 1: The Birth of an Impostor
+## 📜 Scene 1: The Birth of an Impostor
 
 <div class="scene-box">
 
@@ -74,7 +74,7 @@ In the modern era, under colonial rule, movements appeared claiming to belong to
 
 <div class="scene-box">
 
-**🎭 Scene 2: The Heresy Exposed**
+**📜 Scene 2: The Heresy Exposed**
 
 **Dialogue between a Muslim and a Qadiani**
 
@@ -193,7 +193,7 @@ Universal House of Justice (Haifa)
 
 ---
 
-## 🎭 Scene 3: Claims to Divinity
+## 📜 Scene 3: Claims to Divinity
 
 <div class="scene-box">
 

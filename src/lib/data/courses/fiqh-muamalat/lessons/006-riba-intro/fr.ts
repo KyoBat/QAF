@@ -2,7 +2,7 @@ export const contentFr = `# L'Usure (Riba) — Définition et Interdiction
 
 <div class="scene-box">
 
-**🎬 La Scène : Le Sermon du Pèlerinage d'Adieu — Mont Arafat**
+**📖 La Scène : Le Sermon du Pèlerinage d'Adieu — Mont Arafat**
 
 *Cent mille Compagnons se tiennent debout, attentifs, tandis que le Prophète ﷺ prononce son sermon d'adieu grandiose...*
 
@@ -49,7 +49,7 @@ export const contentFr = `# L'Usure (Riba) — Définition et Interdiction
 
 <div class="scene-box">
 
-**🎬 Au Conseil Consultatif — Médine**
+**📖 Au Conseil Consultatif — Médine**
 
 *'Umar ibn al-Khattab (qu'Allah l'agrée) est assis avec les grands Compagnons, discutant d'une question juridique...*
 
@@ -121,7 +121,7 @@ export const contentFr = `# L'Usure (Riba) — Définition et Interdiction
 
 <div class="scene-box">
 
-**🎬 Méditation : La Menace la Plus Sévère du Coran !**
+**📖 Méditation : La Menace la Plus Sévère du Coran !**
 
 Il n'y a pas dans le Coran de menace de guerre de la part d'Allah et de Son Messager sauf pour l'usure !
 
@@ -197,7 +197,7 @@ Il n'y a pas dans le Coran de menace de guerre de la part d'Allah et de Son Mess
 
 <div class="scene-box">
 
-**🎬 L'Argument des Gens de la Jahiliya**
+**📖 L'Argument des Gens de la Jahiliya**
 
 **Le Polythéiste** *(protestant)* : Quelle différence y a-t-il entre le commerce et l'usure ? Les deux génèrent du profit ! Le commerce est comme l'usure !
 
@@ -227,7 +227,7 @@ Il n'y a pas dans le Coran de menace de guerre de la part d'Allah et de Son Mess
 
 <div class="scene-box">
 
-**🎬 La Crise de 2008 — L'Effondrement du Système Usuraire**
+**📖 La Crise de 2008 — L'Effondrement du Système Usuraire**
 
 *Wall Street — New York — Septembre 2008...*
 
@@ -401,7 +401,7 @@ L'usure fait partie des choses connues de la religion par nécessité, et celui 
 
 <div class="scene-box">
 
-**🎬 Le Chemin du Repentir**
+**📖 Le Chemin du Repentir**
 
 **Le Repentant** : Ô Cheikh, je pratiquais l'usure par ignorance, et maintenant je me suis repenti vers Allah. Que dois-je faire ?
 

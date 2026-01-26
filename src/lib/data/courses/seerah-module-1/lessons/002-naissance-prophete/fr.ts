@@ -11,7 +11,7 @@ export const content = `# 🌟 La Naissance du Prophète ﷺ — La Lumière ill
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 ### Une nuit qui changea l'histoire
 
@@ -63,7 +63,7 @@ C'est le **Sceau des Prophètes**, la **Miséricorde d'Allah pour les mondes**, 
 | **Mariage** | Âmina bint Wahb |
 | **Décès** | Avant la naissance du Prophète ﷺ (à Yathrib ou en Syrie) |
 
-> 🎭 **L'histoire** : 'Abdullâh partit pour un voyage commercial en Syrie. Sur le chemin du retour, il tomba malade à **Yathrib** chez ses oncles maternels, les Banû Najjâr. Il y mourut et fut enterré... sans jamais voir son fils.
+> 📜 **L'histoire** : 'Abdullâh partit pour un voyage commercial en Syrie. Sur le chemin du retour, il tomba malade à **Yathrib** chez ses oncles maternels, les Banû Najjâr. Il y mourut et fut enterré... sans jamais voir son fils.
 
 ---
 
@@ -120,7 +120,7 @@ Le Prophète ﷺ naquit en **l'An de l'Éléphant** (570 après J.-C. / 53 avant
 | **La vision** | Elle rêva qu'elle donnait naissance à une lumière |
 | **La voix** | Elle entendit quelqu'un dire : "Nomme-le Muhammad" |
 
-> 🎭 **Récit d'Âmina** : **« Quand je le mis au monde, une lumière sortit de moi qui illumina les palais de Syrie, au point que je vis les châteaux de Busrâ »**
+> 📜 **Récit d'Âmina** : **« Quand je le mis au monde, une lumière sortit de moi qui illumina les palais de Syrie, au point que je vis les châteaux de Busrâ »**
 
 ---
 
@@ -157,7 +157,7 @@ Le Prophète ﷺ naquit dans le **quartier des Banû Hâshim** à La Mecque.
 
 Quand le Prophète ﷺ naquit, son grand-père **'Abdul-Muttalib** le porta et l'emmena à la Kaaba :
 
-> 🎭 **La Scène** :
+> 📜 **La Scène** :
 >
 > 'Abdul-Muttalib porte le nouveau-né, entre dans la Kaaba...
 >
@@ -197,7 +197,7 @@ Les nobles de Quraysh envoyaient leurs enfants dans le désert :
 
 ### 👩‍🍼 Halîma cherche un nourrisson
 
-> 🎭 **La Scène Célèbre** :
+> 📜 **La Scène Célèbre** :
 >
 > Les femmes des **Banû Sa'd** vinrent à La Mecque chercher des nourrissons...
 >
@@ -229,7 +229,7 @@ Dès qu'Halîma le prit, tout changea :
 | **L'ânesse** était maigre et lente | Elle devança la caravane au point qu'on demanda : « Qu'est-ce que cette ânesse, fille d'Abî Dhu'ayb ?! » |
 | **La terre des Banû Sa'd** était aride | Leurs moutons revenaient repus, leur terre devint fertile |
 
-> 🎭 **Paroles d'Halîma** : **« Nous arrivâmes sur la terre des Banû Sa'd, et je ne connaissais pas de terre plus aride. Mais nos moutons revenaient le soir repus et pleins de lait, nous trayions et buvions, alors que personne d'autre ne pouvait traire une goutte »**
+> 📜 **Paroles d'Halîma** : **« Nous arrivâmes sur la terre des Banû Sa'd, et je ne connaissais pas de terre plus aride. Mais nos moutons revenaient le soir repus et pleins de lait, nous trayions et buvions, alors que personne d'autre ne pouvait traire une goutte »**
 
 ---
 
@@ -255,7 +255,7 @@ Dès qu'Halîma le prit, tout changea :
 
 Alors qu'il jouait avec son frère de lait derrière les maisons...
 
-> 🎭 **Récit du Prophète ﷺ** :
+> 📜 **Récit du Prophète ﷺ** :
 >
 > **« Deux [anges] vinrent à moi alors que j'étais enfant. Ils me prirent et m'allongèrent, ouvrirent ma poitrine et sortirent mon cœur. Ils en retirèrent un caillot noir et dirent : "Voici la part du diable en toi." Puis ils lavèrent mon cœur avec l'eau de Zamzam dans un bassin d'or, et le remirent en place »**
 >
@@ -278,7 +278,7 @@ Alors qu'il jouait avec son frère de lait derrière les maisons...
 
 ### 😨 La Réaction d'Halîma
 
-> 🎭 **La Scène** :
+> 📜 **La Scène** :
 >
 > Son frère de lait courut vers Halîma en criant : **« Viens vite ! Mon frère ! Deux hommes sont venus et lui ont ouvert le ventre ! »**
 >
@@ -314,7 +314,7 @@ Alors qu'il jouait avec son frère de lait derrière les maisons...
 | **La maladie** | Elle tomba malade sur le chemin du retour |
 | **Le décès** | Elle mourut à **Al-Abwâ'** (entre La Mecque et Médine) |
 
-> 🎭 **Scène émouvante** : Un enfant de 6 ans, debout sur la tombe de sa mère dans le désert, sans père ni mère... Seul Allah !
+> 📜 **Scène émouvante** : Un enfant de 6 ans, debout sur la tombe de sa mère dans le désert, sans père ni mère... Seul Allah !
 
 ---
 
@@ -341,7 +341,7 @@ Après le décès d'Âmina, **'Abdul-Muttalib** prit en charge son petit-fils :
 | **Sa protection** | Il ne mangeait pas avant l'arrivée de Muhammad |
 | **Sa distinction** | Il disait : « Laissez mon fils, par Allah il aura un grand destin » |
 
-> 🎭 **Scène** : 'Abdul-Muttalib avait un tapis à l'ombre de la Kaaba sur lequel personne ne s'asseyait... sauf le petit Muhammad !
+> 📜 **Scène** : 'Abdul-Muttalib avait un tapis à l'ombre de la Kaaba sur lequel personne ne s'asseyait... sauf le petit Muhammad !
 >
 > Ses oncles venaient pour l'écarter, mais 'Abdul-Muttalib disait : **« Laissez mon fils, par Allah il aura un grand destin »**
 
@@ -355,7 +355,7 @@ Après le décès d'Âmina, **'Abdul-Muttalib** prit en charge son petit-fils :
 | **Le testament** | Il le confia à son fils **Abû Tâlib** |
 | **La raison** | Abû Tâlib était le frère d''Abdullâh (père du Prophète ﷺ) des mêmes parents |
 
-> 🎭 **L'Adieu** : Dans ses derniers instants, 'Abdul-Muttalib regarde son petit-fils avec des yeux pleins de larmes...
+> 📜 **L'Adieu** : Dans ses derniers instants, 'Abdul-Muttalib regarde son petit-fils avec des yeux pleins de larmes...
 >
 > Il l'appelle : « Mon fils, tu m'es plus cher que mes propres enfants... Je t'ai confié à ton oncle Abû Tâlib »
 >

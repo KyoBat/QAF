@@ -46,7 +46,7 @@ Tranquility is remaining still in each pillar of prayer for the time necessary f
 
 <div class="scene-box">
 
-**🎭 The man who didn't pray three times!**
+**📜 The man who didn't pray three times!**
 
 *A man entered the mosque while the Prophet ﷺ was sitting with his companions...*
 
@@ -74,7 +74,7 @@ Tranquility is remaining still in each pillar of prayer for the time necessary f
 
 <div class="scene-box">
 
-**🎭 The worst theft!**
+**📜 The worst theft!**
 
 *The Prophet ﷺ was warning his companions about a grave evil...*
 

@@ -13,9 +13,9 @@ export const contentEn = `# 👨‍👩‍👧‍👦 Lineage and Breastfeeding 
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
-### 🎭 Scene: The Surprise Discovery
+### 📜 Scene: The Surprise Discovery
 
 > **At the wedding preparations...**
 >
@@ -37,7 +37,7 @@ export const contentEn = `# 👨‍👩‍👧‍👦 Lineage and Breastfeeding 
 
 ---
 
-### 🎭 Scene: Protecting Lineage
+### 📜 Scene: Protecting Lineage
 
 > **The Prophet ﷺ was very strict about lineage...**
 >
@@ -209,7 +209,7 @@ export const contentEn = `# 👨‍👩‍👧‍👦 Lineage and Breastfeeding 
 
 ---
 
-## 🎭 Story: The Prophet's ﷺ Milk Relationships
+## 📜 Story: The Prophet's ﷺ Milk Relationships
 
 ### Thuwaybah
 

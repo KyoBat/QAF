@@ -19,7 +19,7 @@ They are those who supported 'Ali رضي الله عنه and claimed his right t
 
 ---
 
-## 🎭 Scene 1: The Day of Saqifa — When the Ummah Chose
+## 📜 Scene 1: The Day of Saqifa — When the Ummah Chose
 
 <div class="scene-box">
 
@@ -64,7 +64,7 @@ Initially, Shi'ism was merely **political support** for 'Ali during his conflict
 
 <div class="scene-box">
 
-**🎭 Scene 2: The Entry of the Wolf — 'Abdullah ibn Saba'**
+**📜 Scene 2: The Entry of the Wolf — 'Abdullah ibn Saba'**
 
 **Yemen then Medina — Era of 'Uthman رضي الله عنه**
 
@@ -172,7 +172,7 @@ According to the Imamiyyah, the 12th Imam entered into "occultation" in 260 H at
 
 <div class="scene-box">
 
-**🎭 Scene 3: What They Actually Say in Their Books**
+**📜 Scene 3: What They Actually Say in Their Books**
 
 *In al-Kafi, their most authentic book:*
 
@@ -211,7 +211,7 @@ Belief in the return of some dead before the Day of Judgment:
 
 <div class="scene-box">
 
-**🎭 Scene 4: 'Ali Himself Refutes This Claim**
+**📜 Scene 4: 'Ali Himself Refutes This Claim**
 
 **A man**: O Commander of the Believers! Did the Prophet ﷺ entrust you with something that he did not entrust to others?
 
@@ -270,7 +270,7 @@ Belief in the return of some dead before the Day of Judgment:
 
 <div class="scene-box">
 
-**🎭 Scene 5: The Reasoning That Confounds Them**
+**📜 Scene 5: The Reasoning That Confounds Them**
 
 **Teacher**: Think carefully... According to them, the Imams are infallible and know the unseen.
 

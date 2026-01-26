@@ -11,9 +11,9 @@ export const contentEn = `# ⚖️ Rights of the Spouses — The Balance of Marr
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
-### 🎭 Scene: The Unbalanced Marriage
+### 📜 Scene: The Unbalanced Marriage
 
 > **In a counseling session...**
 >
@@ -33,7 +33,7 @@ export const contentEn = `# ⚖️ Rights of the Spouses — The Balance of Marr
 
 ---
 
-### 🎭 Scene: The Prophet's ﷺ Example
+### 📜 Scene: The Prophet's ﷺ Example
 
 > **Aisha** — may Allah be pleased with her — was asked:
 >

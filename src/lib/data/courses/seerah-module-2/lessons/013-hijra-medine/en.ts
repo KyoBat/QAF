@@ -18,7 +18,7 @@ After thirteen years of preaching in Mecca, after Al-Isra wal-Mi'raj, a new phas
 
 During the pilgrimage season, the Prophet ﷺ met six men from the Khazraj tribe of Yathrib:
 
-> 🎭 **The Scene**:
+> 📜 **The Scene**:
 >
 > The Prophet ﷺ sat with these men at Al-Aqaba. They listened to his words, and he recited Quran to them. They looked at each other and said:
 >
@@ -64,7 +64,7 @@ The following year, a huge delegation came from Yathrib:
 
 ### The Content of the Pledge
 
-> 🎭 **The Scene**:
+> 📜 **The Scene**:
 >
 > In the darkness of night, the Ansar crept to Al-Aqaba. The Prophet ﷺ came accompanied by his uncle Al-Abbas (who was not yet Muslim but wanted to protect his nephew).
 >
@@ -135,7 +135,7 @@ The Muslims began leaving secretly, individually and in groups, leaving behind t
 | **'Umar ibn al-Khattab** | Emigrated openly, defying Quraysh |
 | **'Ayyash ibn Abi Rabi'a** | Was deceived and brought back to Mecca in chains |
 
-> 🎭 **Suhayb's Story**:
+> 📜 **Suhayb's Story**:
 >
 > When Suhayb wanted to emigrate, Quraysh said to him: *"You came to us poor and insignificant, your wealth grew among us, you reached what you reached, and now you want to leave with your wealth and your life?! By Allah, that will not happen!"*
 >
@@ -155,7 +155,7 @@ The Muslims began leaving secretly, individually and in groups, leaving behind t
 
 When Quraysh saw that the Muslims were emigrating, they feared that Muhammad ﷺ would join them and become stronger. They gathered at **Dar an-Nadwa** to deliberate:
 
-> 🎭 **The Scene**:
+> 📜 **The Scene**:
 >
 > The chiefs of Quraysh sat to discuss:
 >
@@ -186,7 +186,7 @@ And he was permitted to emigrate.
 
 ### 'Ali in the Prophet's ﷺ Bed
 
-> 🎭 **The Scene**:
+> 📜 **The Scene**:
 >
 > That blessed night, the Prophet ﷺ came to Abu Bakr's house at an unusual hour — at noon.
 >
@@ -208,7 +208,7 @@ And he was permitted to emigrate.
 
 ### The Young Men Surround the House
 
-> 🎭 **The Scene**:
+> 📜 **The Scene**:
 >
 > Young men from every tribe gathered around the Prophet's ﷺ house, swords drawn, waiting for him to come out so they could strike him as one.
 >
@@ -220,7 +220,7 @@ And he was permitted to emigrate.
 
 ### The Miraculous Exit
 
-> 🎭 **The Scene**:
+> 📜 **The Scene**:
 >
 > The Prophet ﷺ came out of his house while the men waited at his door. He took a handful of dust and threw it on their heads while reciting:
 >
@@ -240,7 +240,7 @@ And he was permitted to emigrate.
 
 ### The Path to the Cave
 
-> 🎭 **The Scene**:
+> 📜 **The Scene**:
 >
 > The Prophet ﷺ and Abu Bakr walked southward — in the opposite direction of Medina — toward Mount Thawr. Abu Bakr walked sometimes in front of him, sometimes behind him.
 >
@@ -269,7 +269,7 @@ Quraysh's horsemen set out in every direction searching for them...
 
 ### At the Cave Entrance
 
-> 🎭 **The Scene**:
+> 📜 **The Scene**:
 >
 > The polytheists reached the entrance of the cave! Abu Bakr was trembling. He looked and saw their feet!
 >
@@ -289,7 +289,7 @@ Allah sent soldiers to protect His Prophet:
 | **🕊️ The Dove** | Laid its eggs in a nest at the entrance |
 | **🌳 The Tree** | A tree grew to conceal the entrance |
 
-> 🎭 **The Scene**:
+> 📜 **The Scene**:
 >
 > One of them looked at the cave and said: *"There is nothing in this cave! Look at the spider web at its entrance! By Allah, it was woven before Muhammad was even born!"*
 >
@@ -320,7 +320,7 @@ After three days, the pursuit had calmed. 'Abdullah ibn Urayqit came with two ri
 
 ### Suraqa ibn Malik
 
-> 🎭 **The Scene**:
+> 📜 **The Scene**:
 >
 > When Suraqa ibn Malik heard about the reward, he mounted his horse and followed their tracks. When he got close to them, Abu Bakr said: *"The pursuers have caught up with us, O Messenger of Allah!"*
 >
@@ -336,7 +336,7 @@ After three days, the pursuit had calmed. 'Abdullah ibn Urayqit came with two ri
 
 ### The Bracelets of Chosroes
 
-> 🎭 **The Scene**:
+> 📜 **The Scene**:
 >
 > When Suraqa was saved, he asked the Prophet ﷺ for a written guarantee of safety. Abu Bakr wrote it for him on a piece of leather.
 >
@@ -350,7 +350,7 @@ After three days, the pursuit had calmed. 'Abdullah ibn Urayqit came with two ri
 
 ### Umm Ma'bad al-Khuza'iyya
 
-> 🎭 **The Scene**:
+> 📜 **The Scene**:
 >
 > On the way, they passed by the tent of Umm Ma'bad al-Khuza'iyya. She was a courageous woman who offered food and drink to travelers. But the drought had decimated her flock.
 >
@@ -390,7 +390,7 @@ Abu Ma'bad said: *"This, by Allah, is the man of Quraysh they are searching for!
 
 On Monday 12th of Rabi' al-Awwal, Year 1 H (September 24, 622), the Prophet ﷺ reached **Quba** — a village south of Medina.
 
-> 🎭 **The Scene**:
+> 📜 **The Scene**:
 >
 > The Ansar went out every day to the Harra to wait. When the heat became intense, they would return. That day, they had returned disappointed.
 >
@@ -417,7 +417,7 @@ The Prophet ﷺ stayed at Quba for fourteen days and founded the first mosque in
 
 On Friday 12th of Rabi' al-Awwal, the Prophet ﷺ set out from Quba toward the heart of Medina.
 
-> 🎭 **The Scene**:
+> 📜 **The Scene**:
 >
 > On the way, the time for Friday prayer arrived at **Banu Salim ibn 'Awf**. He dismounted and prayed with them — the first Jumu'a in Islam!
 
@@ -425,7 +425,7 @@ On Friday 12th of Rabi' al-Awwal, the Prophet ﷺ set out from Quba toward the h
 
 ### The Legendary Welcome
 
-> 🎭 **The Scene**:
+> 📜 **The Scene**:
 >
 > The people of Medina came out, men, women, and children. Boys and servants climbed onto the rooftops, all singing:
 >
@@ -451,7 +451,7 @@ On Friday 12th of Rabi' al-Awwal, the Prophet ﷺ set out from Quba toward the h
 
 ### Where to Stay?
 
-> 🎭 **The Scene**:
+> 📜 **The Scene**:
 >
 > Every clan of the Ansar wanted the Prophet ﷺ to stay with them. Each time he passed by a group, they would seize the bridle of his camel:
 >

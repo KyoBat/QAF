@@ -14,7 +14,7 @@ export const content = `
 
 ---
 
-## 🎬 Mise en Contexte
+## 📖 Mise en Contexte
 
 Fāṭima bint Muḥammad رضي الله عنها est la **fille bien-aimée** du Prophète ﷺ et de Khadīja, la seule dont la descendance survécut. Elle est la mère de Ḥasan et Ḥusayn, les seigneurs de la jeunesse du Paradis. Son rang est si élevé qu'elle est nommée « **Sayyidat Nisā' al-'Ālamīn** » (Dame des Femmes des Mondes).
 
@@ -50,7 +50,7 @@ Fāṭima grandit dans les **épreuves** :
 - Perdit sa mère Khadīja à l'âge de 10 ans environ
 - Émigra à Médine avec son père
 
-> **🎭 SCÈNE — La Défense de Son Père**
+> **📜 SCÈNE — La Défense de Son Père**
 >
 > *Abū Jahl jette des entrailles de chameau sur le Prophète ﷺ prosterné...*
 >

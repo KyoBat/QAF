@@ -13,7 +13,7 @@ Louange à Allah qui a parachevé pour nous la religion. Que la paix et les bén
 
 ---
 
-## 🎭 Scène : L'oubli du tashahhud
+## 📜 Scène : L'oubli du tashahhud
 
 <div class="scene-box">
 
@@ -41,7 +41,7 @@ Louange à Allah qui a parachevé pour nous la religion. Que la paix et les bén
 
 ---
 
-## 🎭 Scène : La différence entre pilier et obligation
+## 📜 Scène : La différence entre pilier et obligation
 
 <div class="scene-box">
 

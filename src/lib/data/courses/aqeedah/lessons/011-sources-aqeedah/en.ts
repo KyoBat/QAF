@@ -9,7 +9,7 @@ export const content = `# 📜 Sources of Authentic Creed — مصادر الع�
 
 ---
 
-## 🎬 Prologue: The Believer's Compass
+## 📖 Prologue: The Believer's Compass
 
 <div class="scene-box">
 

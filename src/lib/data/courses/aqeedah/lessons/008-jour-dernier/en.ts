@@ -238,7 +238,7 @@ export const content = `# 📜 Belief in the Last Day — The Fifth Pillar of Fa
 
 <div class="scene-box">
 
-**🎭 What No Eye Has Seen**
+**📜 What No Eye Has Seen**
 
 **Allah said:** « I have prepared for My righteous servants what **no eye has seen, no ear has heard, and what has never occurred to a human heart**. »
 

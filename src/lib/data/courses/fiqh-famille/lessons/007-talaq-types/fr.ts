@@ -11,7 +11,7 @@ export const contentFr = `# 💔 Les Types de Divorce — Comprendre pour Évite
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 ### La chose licite la plus détestée
 
@@ -21,7 +21,7 @@ export const contentFr = `# 💔 Les Types de Divorce — Comprendre pour Évite
 >
 > — **[Rapporté par Abû Dâwûd]**
 
-### 🎭 Scène : Deux façons de divorcer
+### 📜 Scène : Deux façons de divorcer
 
 **Scène 1 — Le divorce dans l'ignorance**
 
@@ -196,7 +196,7 @@ Après **3 divorces**, elle ne lui est plus licite SAUF si elle épouse un autre
 >
 > — **[Al-Baqarah : 230]**
 
-#### 🎭 Scène dramatique
+#### 📜 Scène dramatique
 
 > Ahmad a divorcé Fatima trois fois au fil des années. Il regrette profondément. Il veut la reprendre.
 >
@@ -301,7 +301,7 @@ Le divorce est suspendu à une **condition**.
 
 ---
 
-## 🎭 Récit : Le divorce d'Ibn 'Umar
+## 📜 Récit : Le divorce d'Ibn 'Umar
 
 **Ibn 'Umar** (qu'Allah les agrée) divorça sa femme **pendant ses menstrues**. Son père 'Umar en informa le Prophète ﷺ.
 

@@ -11,7 +11,7 @@ export const content = `# 🏔️ Le Voyage à Ta'if — Le Jour le Plus Diffici
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 ### Après l'Année de la Tristesse... La Recherche d'un Nouvel Horizon
 
@@ -66,7 +66,7 @@ Il décida ﷺ de chercher **un soutien en dehors de La Mecque** !
 
 ---
 
-### 🎭 La Scène — Le Départ
+### 📜 La Scène — Le Départ
 
 > Le chemin est long... montagneux... difficile...
 >
@@ -98,7 +98,7 @@ Il décida ﷺ de chercher **un soutien en dehors de La Mecque** !
 
 ---
 
-### 🎭 La Scène — Au Conseil de Thaqif
+### 📜 La Scène — Au Conseil de Thaqif
 
 > Le Prophète ﷺ entra à Ta'if...
 >
@@ -144,7 +144,7 @@ Il décida ﷺ de chercher **un soutien en dehors de La Mecque** !
 
 ## 🩸 La Lapidation — Le Pire Jour
 
-### 🎭 La Scène — La Sortie de Ta'if
+### 📜 La Scène — La Sortie de Ta'if
 
 > Le Prophète ﷺ sortit de Ta'if le cœur brisé...
 >
@@ -158,7 +158,7 @@ Il décida ﷺ de chercher **un soutien en dehors de La Mecque** !
 
 ---
 
-### 🎭 La Scène — La Lapidation Sanglante
+### 📜 La Scène — La Lapidation Sanglante
 
 > Le Prophète ﷺ marche...
 >
@@ -200,7 +200,7 @@ Il décida ﷺ de chercher **un soutien en dehors de La Mecque** !
 
 ## 🤲 L'Invocation de Ta'if — Les Paroles Immortelles
 
-### 🎭 La Scène — Sous l'Arbre
+### 📜 La Scène — Sous l'Arbre
 
 > Le Prophète ﷺ s'assit sous l'arbre...
 >
@@ -261,7 +261,7 @@ Il décida ﷺ de chercher **un soutien en dehors de La Mecque** !
 
 ## 👼 L'Ange des Montagnes — L'Offre de Vengeance
 
-### 🎭 La Scène — L'Ange Apparaît
+### 📜 La Scène — L'Ange Apparaît
 
 > Après l'invocation...
 >
@@ -279,7 +279,7 @@ Il décida ﷺ de chercher **un soutien en dehors de La Mecque** !
 
 ---
 
-### 🎭 La Scène — La Miséricorde Triomphe
+### 📜 La Scène — La Miséricorde Triomphe
 
 > Un moment décisif...
 >
@@ -309,7 +309,7 @@ Il décida ﷺ de chercher **un soutien en dehors de La Mecque** !
 
 ## 🍇 'Addas le Chrétien — Un Moment Humain
 
-### 🎭 La Scène — Dans le Verger
+### 📜 La Scène — Dans le Verger
 
 > **'Utba et Shayba** virent le Prophète ﷺ dans leur verger...
 >
@@ -321,7 +321,7 @@ Il décida ﷺ de chercher **un soutien en dehors de La Mecque** !
 
 ---
 
-### 🎭 Le Dialogue avec 'Addas
+### 📜 Le Dialogue avec 'Addas
 
 > 'Addas vint avec le raisin...
 >

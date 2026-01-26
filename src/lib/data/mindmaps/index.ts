@@ -2272,7 +2272,7 @@ export const seerahAlliancesTreeData: MindMapDataMultiLang = {
         { id: 'tribe-qurayza', label: { ar: 'بنو قريظة (يهود)', en: 'Banu Qurayza (Jews)', fr: 'Banu Qurayza (Juifs)' }, icon: '📜' },
         { id: 'tribe-nadir', label: { ar: 'بنو النضير (يهود)', en: 'Banu Nadir (Jews)', fr: 'Banu Nadir (Juifs)' }, icon: '📜' },
         { id: 'tribe-qaynuqa', label: { ar: 'بنو قينقاع (يهود)', en: 'Banu Qaynuqa (Jews)', fr: 'Banu Qaynuqa (Juifs)' }, icon: '📜' },
-        { id: 'tribe-munafiqun', label: { ar: 'المنافقون', en: 'The Hypocrites', fr: 'Les Hypocrites' }, icon: '🎭' },
+        { id: 'tribe-munafiqun', label: { ar: 'المنافقون', en: 'The Hypocrites', fr: 'Les Hypocrites' }, icon: '📜' },
       ],
     },
   ],

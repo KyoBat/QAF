@@ -42,7 +42,7 @@
 
 ---
 
-## 🎬 Mise en Contexte (المدخل)
+## 📖 Mise en Contexte (المدخل)
 ### L'époque et ses défis
 ### Pourquoi ce thème est crucial
 
@@ -229,11 +229,11 @@
 
 ---
 
-## 🎬 Style Narratif : Exemples
+## 📖 Style Narratif : Exemples
 
 ### ✅ BON : Style Captivant
 ```markdown
-## 🎬 La Rencontre à Médine
+## 📖 La Rencontre à Médine
 
 L'année 163 H. Un jeune homme de 13 ans arrive à Médine après un long voyage depuis La Mecque. 
 Il a mémorisé le Muwaṭṭa' en entier — les 1 700 hadiths.

@@ -37,7 +37,7 @@ Louange à Allah qui nous a légiféré la prière de la manière la plus parfai
 
 ---
 
-## 🎭 Scène : L'équilibre entre sunna et obligation
+## 📜 Scène : L'équilibre entre sunna et obligation
 
 <div class="scene-box">
 

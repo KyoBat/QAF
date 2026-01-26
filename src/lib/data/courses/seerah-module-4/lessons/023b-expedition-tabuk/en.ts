@@ -105,7 +105,7 @@ These companions are known as the **"البَكَّائين" (al-Bakkā'ūn)** �
 
 ---
 
-## 🎭 The Exposure of the Hypocrites
+## 📜 The Exposure of the Hypocrites
 
 ### 4.1 The Fallacious Excuses
 

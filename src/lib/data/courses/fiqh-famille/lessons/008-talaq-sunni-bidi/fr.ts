@@ -11,9 +11,9 @@ export const contentFr = `# ☀️ Le Divorce Sunni vs Bid'i — La Bonne et la 
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
-### 🎭 Deux scènes de divorce
+### 📜 Deux scènes de divorce
 
 **Scène 1 — Le divorce chaotique**
 
@@ -79,7 +79,7 @@ Le divorce prononcé selon les conditions prescrites par Allah et Son Messager �
 | 🚫 **Sans rapport dans ce tuhr** | Sinon, elle pourrait être enceinte sans le savoir |
 | 1️⃣ **Un seul divorce** | Pas de répétition |
 
-### 🎭 Le hadith d'Ibn 'Umar
+### 📜 Le hadith d'Ibn 'Umar
 
 **Ibn 'Umar** (qu'Allah les agrée) divorça sa femme **pendant ses menstrues**. Son père 'Umar consulta le Prophète ﷺ.
 
@@ -208,7 +208,7 @@ Le hadith d'Ibn 'Umar est la preuve :
 
 ---
 
-## 🎭 Récit : La sagesse d'Ibn 'Abbâs
+## 📜 Récit : La sagesse d'Ibn 'Abbâs
 
 Un homme vint voir **Ibn 'Abbâs** (qu'Allah les agrée) et dit :
 

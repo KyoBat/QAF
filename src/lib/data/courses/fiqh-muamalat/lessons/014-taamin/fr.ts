@@ -2,7 +2,7 @@ export const contentFr = `# L'Assurance Islamique — L'Alternative Licite à l'
 
 <div class="scene-box">
 
-**🎬 Scène : Un cercle de science — Question d'un jeune sur l'assurance**
+**📖 Scène : Un cercle de science — Question d'un jeune sur l'assurance**
 
 *Dans un cercle d'étude après la prière d'Asr, un jeune interroge le cheikh...*
 
@@ -53,7 +53,7 @@ At-Ta'min (assurance) : vient de **al-amn** (sécurité), qui signifie la protec
 
 <div class="scene-box">
 
-**🎬 Scène : Dans le bureau d'un agent d'assurance**
+**📖 Scène : Dans le bureau d'un agent d'assurance**
 
 *Un homme interroge l'agent d'assurance sur le contrat...*
 
@@ -154,7 +154,7 @@ L'incertitude concernant l'objet vendu, le prix ou l'issue.
 
 <div class="scene-box">
 
-**🎬 Scène : Une leçon de fiqh contemporain**
+**📖 Scène : Une leçon de fiqh contemporain**
 
 **Le Cheikh :** Si l'assurance commerciale est interdite, quelle est l'alternative ?
 
@@ -260,7 +260,7 @@ L'incertitude concernant l'objet vendu, le prix ou l'issue.
 
 <div class="scene-box">
 
-**🎬 Le Système de la 'Aqila — Origine du Takaful**
+**📖 Le Système de la 'Aqila — Origine du Takaful**
 
 *À l'époque prophétique, un homme des Ansar a tué quelqu'un par erreur...*
 
@@ -282,7 +282,7 @@ C'est la solidarité islamique :
 
 <div class="scene-box">
 
-**🎬 Umar ibn al-Khattab et le Registre des Allocations**
+**📖 Umar ibn al-Khattab et le Registre des Allocations**
 
 *Sous le califat d'Umar رضي الله عنه, il établit un système social unique...*
 
@@ -301,7 +301,7 @@ La solidarité sociale est un principe islamique authentique, et l'assurance Tak
 
 <div class="scene-box">
 
-**🎬 La Solidarité des Muhajirin et des Ansar**
+**📖 La Solidarité des Muhajirin et des Ansar**
 
 *Quand les musulmans émigrèrent à Médine...*
 

@@ -300,7 +300,7 @@ Cette parole résume la méthodologie des pieux prédécesseurs :
 
 <div class="scene-box">
 
-**🎭 LA RÈGLE D'OR DE L'IMAM MALIK**
+**📜 LA RÈGLE D'OR DE L'IMAM MALIK**
 
 *Un homme vint à l'Imam Malik رحمه الله et dit :*
 
@@ -320,7 +320,7 @@ Cette parole résume la méthodologie des pieux prédécesseurs :
 
 <div class="scene-box">
 
-**🎭 LA FERMETÉ DE L'IMAM AHMAD**
+**📜 LA FERMETÉ DE L'IMAM AHMAD**
 
 *Quand l'Imam Ahmad fut éprouvé sur la question de la création du Coran, il resta ferme comme les montagnes...*
 
@@ -382,7 +382,7 @@ Nu'aym ibn Hammad رحمه الله a dit :
 
 <div class="story-box">
 
-**🎭 L'IMAM AHMAD ET L'ÉPREUVE DE LA CRÉATION DU CORAN**
+**📜 L'IMAM AHMAD ET L'ÉPREUVE DE LA CRÉATION DU CORAN**
 
 **À l'époque d'Al-Ma'mun, Al-Mu'tasim et Al-Wathiq**, les gens furent contraints de dire que le Coran était créé et qu'Allah ne parle pas réellement.
 

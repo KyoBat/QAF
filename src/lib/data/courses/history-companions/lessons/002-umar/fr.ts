@@ -14,7 +14,7 @@ export const content = `# ⚔️ عُمَرُ بْنُ الْخَطَّابِ �
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 Il était l'homme le plus **craint** de La Mecque.
 
@@ -74,7 +74,7 @@ Son hostilité était si grande que les musulmans **le craignaient** plus que qu
 
 <div class="scene-box">
 
-**🎭 Le Jour où Il Voulut Tuer le Prophète ﷺ**
+**📜 Le Jour où Il Voulut Tuer le Prophète ﷺ**
 
 *Un jour, 'Umar prit son épée et se dirigea vers le Prophète ﷺ avec l'intention de **le tuer**.*
 
@@ -114,7 +114,7 @@ Ce qu'il lut était le début de **Sourate Ṭā-Hā** :
 
 <div class="scene-box">
 
-**🎭 À Dār al-Arqam — La Conversion de 'Umar**
+**📜 À Dār al-Arqam — La Conversion de 'Umar**
 
 *'Umar, le cœur transformé par les versets, dit :*
 

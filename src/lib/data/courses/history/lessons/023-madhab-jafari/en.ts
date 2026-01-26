@@ -8,7 +8,7 @@ export const content = `# ☪️ The Ja'fari Madhab (Shia)
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 This lesson presents the Ja'fari madhab from an objective scientific perspective, to introduce our Shia brothers and understand their juridical differences, in a spirit of dialogue and rapprochement.
 

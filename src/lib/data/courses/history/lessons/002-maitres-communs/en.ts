@@ -190,7 +190,7 @@ Yet, Aḥmad chose to specialize in hadith rather than systematic fiqh. Al-Shāf
 
 <div class="scene-box">
 
-**🎭 Outside Nāfi''s House — Medina, circa 105 AH**
+**📜 Outside Nāfi''s House — Medina, circa 105 AH**
 
 *Young Mālik, barely a teenager, was so passionate about knowledge that he waited for Nāfi' outside his house for hours, under the scorching Medina sun.*
 
@@ -210,7 +210,7 @@ Yet, Aḥmad chose to specialize in hadith rather than systematic fiqh. Al-Shāf
 
 <div class="scene-box">
 
-**🎭 In Mālik's Circle — Medina, 163 AH**
+**📜 In Mālik's Circle — Medina, 163 AH**
 
 *A young man of twenty entered Mālik's study circle, carrying a letter from the governor of Mecca. He had already memorized the entire Muwaṭṭa'!*
 

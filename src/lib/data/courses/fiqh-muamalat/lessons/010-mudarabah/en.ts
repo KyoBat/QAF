@@ -2,7 +2,7 @@ export const contentEn = `# Mudaraba — The Partnership between Capital and Lab
 
 <div class="scene-box">
 
-**🎬 The Scene: The Trading Caravans of Quraysh — Mecca before the Revelation**
+**📖 The Scene: The Trading Caravans of Quraysh — Mecca before the Revelation**
 
 *In the house of Khadija bint Khuwaylid, may Allah be pleased with her, one of the noble women of Quraysh and the wealthiest among them...*
 
@@ -71,7 +71,7 @@ export const contentEn = `# Mudaraba — The Partnership between Capital and Lab
 
 <div class="scene-box">
 
-**🎬 The Story of Al-'Abbas's Conditions — Smart Protection of Capital**
+**📖 The Story of Al-'Abbas's Conditions — Smart Protection of Capital**
 
 *Al-'Abbas ibn 'Abd al-Muttalib, may Allah be pleased with him — the Prophet's ﷺ uncle — was among the wealthy of Quraysh and the most knowledgeable in trade...*
 
@@ -113,7 +113,7 @@ The need calls for mudaraba:
 
 <div class="scene-box">
 
-**🎬 Conditions of the Capital**
+**📖 Conditions of the Capital**
 
 **① That it be in cash**
 - It cannot be in goods according to the majority
@@ -175,7 +175,7 @@ The need calls for mudaraba:
 
 <div class="scene-box">
 
-**🎬 Example of Free Mudaraba**
+**📖 Example of Free Mudaraba**
 
 **Sa'id** *(the capital owner)*: Take this money and trade with it, and the profit is between us fifty-fifty.
 
@@ -200,7 +200,7 @@ The need calls for mudaraba:
 
 <div class="scene-box">
 
-**🎬 Example of Restricted Mudaraba**
+**📖 Example of Restricted Mudaraba**
 
 **Ahmad**: Take this money and trade with it, but with conditions:
 - **Trade only in real estate**
@@ -293,7 +293,7 @@ Meaning that profit first covers the loss, then what remains is shared.
 
 <div class="scene-box">
 
-**🎬 The Story of the Mudaraba That Changed History**
+**📖 The Story of the Mudaraba That Changed History**
 
 *Fifteen years before the Revelation, in Mecca...*
 

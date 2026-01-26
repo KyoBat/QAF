@@ -329,7 +329,7 @@ La croyance en Tawheed Ar-Rububiyyah a des effets profonds sur le croyant :
 
 <div class="scene-box">
 
-**🎭 ABU HANIFA ET LES NÉGATEURS**
+**📜 ABU HANIFA ET LES NÉGATEURS**
 
 *Un groupe de négateurs du Créateur (les Dahriyyah) vint débattre avec l'Imam Abu Hanifa...*
 
@@ -353,7 +353,7 @@ La croyance en Tawheed Ar-Rububiyyah a des effets profonds sur le croyant :
 
 <div class="scene-box">
 
-**🎭 LE BÉDOUIN ET LA FITRAH**
+**📜 LE BÉDOUIN ET LA FITRAH**
 
 *On demanda à un bédouin :* « Comment as-tu connu ton Seigneur ? »
 
@@ -367,7 +367,7 @@ La croyance en Tawheed Ar-Rububiyyah a des effets profonds sur le croyant :
 
 <div class="scene-box">
 
-**🎭 L'IMAM AL-RIDA ET LE MÉDECIN**
+**📜 L'IMAM AL-RIDA ET LE MÉDECIN**
 
 *Le calife Al-Ma'mun avait un médecin chrétien. L'Imam Ali Al-Rida débattit avec lui sur l'existence du Créateur...*
 

@@ -9,7 +9,7 @@ export const content = `# ⚠️ Causes of Deviation from Authentic Creed — أ
 
 ---
 
-## 🎬 Prologue: The Traps on the Path
+## 📖 Prologue: The Traps on the Path
 
 <div class="scene-box">
 

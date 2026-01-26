@@ -85,7 +85,7 @@ The Prophet ﷺ regularly practiced these adhkar:
 
 ---
 
-## 🎭 2. Following Him in Character (الأخلاق)
+## 📜 2. Following Him in Character (الأخلاق)
 
 ### 2.1 Truthfulness (الصدق)
 

@@ -9,7 +9,7 @@ export const content = `# ⚠️ Les Causes de Déviation de la Croyance Authent
 
 ---
 
-## 🎬 Prologue : Les Pièges du Chemin
+## 📖 Prologue : Les Pièges du Chemin
 
 <div class="scene-box">
 

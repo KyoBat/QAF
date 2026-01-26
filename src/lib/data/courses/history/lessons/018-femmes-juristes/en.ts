@@ -9,7 +9,7 @@ export const content = `# 👩‍⚖️ Women Jurists of the Golden Age
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 Islamic history is full of **women scholar jurists** who contributed to the transmission and teaching of knowledge. This lesson highlights brilliant examples of women who taught scholars and granted them ijazas.
 
@@ -46,7 +46,7 @@ Islamic history is full of **women scholar jurists** who contributed to the tran
 
 <div class="scene-box">
 
-**🎭 SCENE: The Teacher at the Mosque — Damascus**
+**📜 SCENE: The Teacher at the Mosque — Damascus**
 
 *Umm al-Darda teaches at the Umayyad Mosque.*
 

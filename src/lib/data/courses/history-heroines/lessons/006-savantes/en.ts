@@ -14,7 +14,7 @@ export const content = `
 
 ---
 
-## 🎬 Context
+## 📖 Context
 
 Islam has always honored learned women. From the time of the Prophet ﷺ, women transmitted knowledge, taught both men and women, and were recognized authorities in hadith, fiqh, and tafsīr.
 

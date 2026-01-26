@@ -23,7 +23,7 @@ En l'an 8 de l'Hégire, Quraysh rompit le traité de Hudaybiya en aidant les Ban
 | Lieu | L'enceinte sacrée de La Mecque |
 | Rôle de Quraysh | Fourniture d'armes et d'hommes |
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > 'Amr ibn Salim al-Khuza'i vint au Prophète ﷺ à Médine en criant :
 > 
@@ -41,7 +41,7 @@ En l'an 8 de l'Hégire, Quraysh rompit le traité de Hudaybiya en aidant les Ban
 
 ### Cacher la Destination
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Le Prophète ﷺ ordonna les préparatifs sans révéler la destination.
 > 
@@ -51,7 +51,7 @@ En l'an 8 de l'Hégire, Quraysh rompit le traité de Hudaybiya en aidant les Ban
 
 ### L'Affaire de Hatib ibn Abi Balta'a
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Hatib envoya une lettre secrète à Quraysh pour les informer de l'arrivée du Prophète ﷺ.
 > 
@@ -85,7 +85,7 @@ En l'an 8 de l'Hégire, Quraysh rompit le traité de Hudaybiya en aidant les Ban
 
 ### Abu Sufyan Voit l'Armée
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Abu Sufyan sortit en éclaireur. Al-'Abbas ibn 'Abd al-Muttalib (oncle du Prophète ﷺ) le captura et l'emmena au camp musulman.
 > 
@@ -110,7 +110,7 @@ En l'an 8 de l'Hégire, Quraysh rompit le traité de Hudaybiya en aidant les Ban
 
 ### La Rencontre Historique
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Abu Sufyan fut introduit auprès du Prophète ﷺ.
 > 
@@ -141,7 +141,7 @@ Le Prophète ﷺ dit :
 
 ### L'Humilité à l'Heure de la Victoire
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Le Prophète ﷺ entra à La Mecque la tête baissée par humilité devant Allah, au point que son cou touchait presque sa monture.
 > 
@@ -151,7 +151,7 @@ Le Prophète ﷺ dit :
 
 ### La Purification de la Ka'ba
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Le Prophète ﷺ entra dans la Mosquée Sacrée et fit sept tours de la Maison sur sa monture.
 > 
@@ -169,7 +169,7 @@ Le Prophète ﷺ dit :
 
 ### "Allez, vous êtes les Affranchis"
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Le Prophète ﷺ se tint à la porte de la Ka'ba, Quraysh en dessous attendant son sort.
 > 
@@ -198,7 +198,7 @@ Le Prophète ﷺ dit :
 
 ### L'Allégeance
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Le Prophète ﷺ s'assit à Safa pour recevoir l'allégeance des gens.
 > 

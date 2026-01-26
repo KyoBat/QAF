@@ -11,9 +11,9 @@ export const contentFr = `# 💔 Le Khul' — Quand la Femme Demande la Séparat
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
-### 🎭 Scène : Une femme prisonnière ?
+### 📜 Scène : Une femme prisonnière ?
 
 > Fatima ne supporte plus son mari. Elle ne l'aime pas, ne le désire pas. Chaque jour est un cauchemar.
 >
@@ -25,7 +25,7 @@ L'Islam a donné à la femme une porte de sortie : **le khul'**.
 
 ---
 
-### 🎭 Scène prophétique : L'histoire de Thâbit ibn Qays
+### 📜 Scène prophétique : L'histoire de Thâbit ibn Qays
 
 **La femme de Thâbit ibn Qays** (qu'Allah l'agrée) vint voir le Prophète ﷺ et dit :
 
@@ -195,7 +195,7 @@ Le khul' est un « contrat » qui nécessite l'accord des deux parties.
 
 ---
 
-## 🎭 Récits
+## 📜 Récits
 
 ### L'histoire complète de la femme de Thâbit
 

@@ -12,7 +12,7 @@ export const content = `# 🌍 L'HÉRITAGE DES COMPAGNONS — Leur Legs Aujourd'
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 Nous avons étudié les Compagnons — leurs vies, leurs sacrifices, leurs épreuves.
 

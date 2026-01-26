@@ -73,7 +73,7 @@ La prière funéraire est une **obligation collective (فرض كفاية)** : si
 
 <div class="scene-box">
 
-**🎭 La Scène des Deux Qirat — Le mérite d'accompagner les funérailles**
+**📜 La Scène des Deux Qirat — Le mérite d'accompagner les funérailles**
 
 *Les compagnons étaient assis avec le Prophète ﷺ...*
 

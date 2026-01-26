@@ -23,7 +23,7 @@ In the 8th year of Hijra, Quraysh broke the Treaty of Hudaybiya by helping Banu 
 | Location | The Sacred Precinct of Mecca |
 | Quraysh's role | Supplied weapons and men |
 
-> 🎭 **Scene** :
+> 📜 **Scene** :
 > 
 > 'Amr ibn Salim al-Khuza'i came to the Prophet ﷺ in Medina crying out:
 > 
@@ -41,7 +41,7 @@ In the 8th year of Hijra, Quraysh broke the Treaty of Hudaybiya by helping Banu 
 
 ### Concealing the Destination
 
-> 🎭 **Scene** :
+> 📜 **Scene** :
 > 
 > The Prophet ﷺ ordered preparations without revealing the destination.
 > 
@@ -51,7 +51,7 @@ In the 8th year of Hijra, Quraysh broke the Treaty of Hudaybiya by helping Banu 
 
 ### The Story of Hatib ibn Abi Balta'a
 
-> 🎭 **Scene** :
+> 📜 **Scene** :
 > 
 > Hatib sent a secret letter to Quraysh informing them of the Prophet's ﷺ coming.
 > 
@@ -85,7 +85,7 @@ In the 8th year of Hijra, Quraysh broke the Treaty of Hudaybiya by helping Banu 
 
 ### Abu Sufyan Sees the Army
 
-> 🎭 **Scene** :
+> 📜 **Scene** :
 > 
 > Abu Sufyan went out to scout. Al-'Abbas ibn 'Abd al-Muttalib (the Prophet's ﷺ uncle) captured him and brought him to the Muslim camp.
 > 
@@ -110,7 +110,7 @@ In the 8th year of Hijra, Quraysh broke the Treaty of Hudaybiya by helping Banu 
 
 ### The Historic Meeting
 
-> 🎭 **Scene** :
+> 📜 **Scene** :
 > 
 > Abu Sufyan was brought before the Prophet ﷺ.
 > 
@@ -141,7 +141,7 @@ The Prophet ﷺ said:
 
 ### Humility at the Hour of Victory
 
-> 🎭 **Scene** :
+> 📜 **Scene** :
 > 
 > The Prophet ﷺ entered Mecca with his head bowed in humility to Allah, until his neck nearly touched his mount.
 > 
@@ -151,7 +151,7 @@ The Prophet ﷺ said:
 
 ### Purifying the Ka'ba
 
-> 🎭 **Scene** :
+> 📜 **Scene** :
 > 
 > The Prophet ﷺ entered the Sacred Mosque and made seven circuits of the House on his mount.
 > 
@@ -169,7 +169,7 @@ The Prophet ﷺ said:
 
 ### "Go, You Are the Freed Ones"
 
-> 🎭 **Scene** :
+> 📜 **Scene** :
 > 
 > The Prophet ﷺ stood at the door of the Ka'ba, with Quraysh below awaiting their fate.
 > 
@@ -198,7 +198,7 @@ The Prophet ﷺ said:
 
 ### The Pledge
 
-> 🎭 **Scene** :
+> 📜 **Scene** :
 > 
 > The Prophet ﷺ sat at Safa to receive the people's pledge.
 > 

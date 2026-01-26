@@ -29,7 +29,7 @@ En **Dhul-Qi'da** de la cinquième année de l'Hégire (février-mars 627 EC), l
 
 ### Huyayy ibn Akhtab l'instigateur
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Après l'expulsion des Banû an-Nadîr de Médine, Huyayy ibn Akhtab se rendit à La Mecque.
 > 
@@ -45,7 +45,7 @@ En **Dhul-Qi'da** de la cinquième année de l'Hégire (février-mars 627 EC), l
 
 ### Le conseil de Salmân al-Fârisî
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Quand le Prophète ﷺ apprit la nouvelle de l'immense coalition, il rassembla ses compagnons pour consultation.
 > 
@@ -73,7 +73,7 @@ En **Dhul-Qi'da** de la cinquième année de l'Hégire (février-mars 627 EC), l
 
 ### Un rocher qui ne se brisait pas
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Les compagnons furent arrêtés par un énorme rocher que les pioches ne pouvaient briser.
 > 
@@ -91,7 +91,7 @@ En **Dhul-Qi'da** de la cinquième année de l'Hégire (février-mars 627 EC), l
 
 ### Le Prophète ﷺ travaillant avec les compagnons
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Le Prophète ﷺ creusait de ses nobles mains, une pierre attachée au ventre à cause de la faim.
 > 
@@ -117,7 +117,7 @@ En **Dhul-Qi'da** de la cinquième année de l'Hégire (février-mars 627 EC), l
 
 ### La trahison des Banû Qurayza
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Huyayy ibn Akhtab alla voir Ka'b ibn Asad, chef des Banû Qurayza.
 > 
@@ -145,7 +145,7 @@ Les musulmans étaient assiégés de toutes parts :
 
 ### 'Alî ibn Abî Tâlib et 'Amr ibn Wudd
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > 'Amr ibn Wudd traversa la tranchée à cheval. C'était un guerrier qui valait mille hommes.
 > 
@@ -173,7 +173,7 @@ Les musulmans étaient assiégés de toutes parts :
 
 ### La première opération de renseignement
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Nu'aym ibn Mas'ûd (de Ghatafân) vint voir le Prophète ﷺ en secret :
 > 
@@ -198,7 +198,7 @@ Les musulmans étaient assiégés de toutes parts :
 
 ### La nuit de la victoire
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Par une nuit froide et sombre, Allah envoya un vent violent :
 > 
@@ -217,7 +217,7 @@ Les musulmans étaient assiégés de toutes parts :
 
 ### Hudhayfa ibn al-Yamân l'espion
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Le Prophète ﷺ envoya Hudhayfa pour recueillir des renseignements sur l'ennemi.
 > 

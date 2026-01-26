@@ -14,7 +14,7 @@ export const content = `# 📜 عَائِشَةُ بِنْتُ أَبِي بَك
 
 ---
 
-## 🎬 Mise en Contexte
+## 📖 Mise en Contexte
 
 'Āisha bint Abī Bakr رضي الله عنها n'est pas seulement l'épouse bien-aimée du Prophète ﷺ — elle est la **plus grande savante féminine** de l'histoire de l'Islam. Juriste, muhadditha, médecin, poétesse et historienne, son savoir a façonné la religion de milliards de musulmans.
 
@@ -105,7 +105,7 @@ Allah Lui-même révéla son innocence dans **10 versets** de la sourate Al-Nūr
 > « Ceux qui ont forgé le mensonge sont un groupe parmi vous. Ne pensez pas que c'est un mal pour vous ; c'est plutôt un bien. »
 > — **[Sourate Al-Nūr, 24:11]**
 
-> 🎭 **SCÈNE — L'Innocence Révélée**
+> 📜 **SCÈNE — L'Innocence Révélée**
 >
 > 'Āisha dit : « Par Allah, je ne pensais pas qu'Allah révélerait à mon sujet un Coran à réciter. Je me considérais trop insignifiante pour qu'Allah parle de moi. J'espérais seulement que le Prophète ﷺ voie un rêve m'innocentant. »
 > — **[Al-Bukhārī 4141]**
@@ -192,7 +192,7 @@ Elle corrigeait les erreurs des plus grands Compagnons :
 | **Issue** | Défaite, réconciliation avec 'Alī |
 | **Regret** | Elle regretta son implication |
 
-> 🎭 **SCÈNE — Le Regret**
+> 📜 **SCÈNE — Le Regret**
 >
 > 'Āisha dit : « J'aurais préféré donner naissance à dix fils du Messager d'Allah ﷺ plutôt que d'avoir participé à la Bataille du Chameau. »
 

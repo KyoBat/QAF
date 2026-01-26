@@ -14,7 +14,7 @@ export const content = `# 📜 خَدِيجَةُ بِنْتُ خُوَيْلِ�
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 Khadīja bint Khuwaylid رضي الله عنها is more than just a wife of the Prophet ﷺ — she is the **cornerstone** of nascent Islam. First to believe, last to doubt, she embodies perfect faith, unwavering support, and remarkable intelligence.
 

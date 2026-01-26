@@ -11,9 +11,9 @@ export const contentFr = `# 📜 La Sunna Prophétique — La Deuxième Source d
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
-### 🎭 Scène : Mu'adh ibn Jabal Part au Yémen
+### 📜 Scène : Mu'adh ibn Jabal Part au Yémen
 
 > **Médine, an 10 de l'Hégire...**
 >
@@ -43,7 +43,7 @@ export const contentFr = `# 📜 La Sunna Prophétique — La Deuxième Source d
 
 ---
 
-### 🎭 Scène : « J'ai reçu le Coran et son équivalent avec lui »
+### 📜 Scène : « J'ai reçu le Coran et son équivalent avec lui »
 
 > Le Prophète ﷺ dit :
 >
@@ -161,7 +161,7 @@ export const contentFr = `# 📜 La Sunna Prophétique — La Deuxième Source d
 
 ---
 
-## 🎭 Histoire : L'Interdiction de l'Or pour les Hommes
+## 📜 Histoire : L'Interdiction de l'Or pour les Hommes
 
 ### Le Récit
 

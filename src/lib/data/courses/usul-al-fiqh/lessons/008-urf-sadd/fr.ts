@@ -11,9 +11,9 @@ export const contentFr = `# 🌍 La Coutume et Sadd Al-Dhara'i — Sources Auxil
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
-### 🎭 Scène : La Coutume Fait Loi
+### 📜 Scène : La Coutume Fait Loi
 
 > **Médine, à l'époque des Compagnons...**
 >
@@ -31,7 +31,7 @@ export const contentFr = `# 🌍 La Coutume et Sadd Al-Dhara'i — Sources Auxil
 
 ---
 
-### 🎭 Scène : Omar Ferme la Porte au Mal
+### 📜 Scène : Omar Ferme la Porte au Mal
 
 > **Médine, califat de Omar...**
 >
@@ -186,7 +186,7 @@ export const contentFr = `# 🌍 La Coutume et Sadd Al-Dhara'i — Sources Auxil
 
 ---
 
-## 🎭 Exemples Classiques
+## 📜 Exemples Classiques
 
 ### Exemples de Sadd Al-Dhara'i
 

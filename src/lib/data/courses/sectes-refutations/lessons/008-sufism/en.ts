@@ -38,7 +38,7 @@ Sufism is a complex phenomenon oscillating between the legitimate asceticism pra
 
 <div class="scene-box">
 
-**🎭 Scene 1: Al-Hasan al-Basri — True Asceticism**
+**📜 Scene 1: Al-Hasan al-Basri — True Asceticism**
 
 **Basra — Early 2nd century H**
 
@@ -142,7 +142,7 @@ The Sufi Path (as-Suluk)
 
 <div class="scene-box">
 
-**🎭 Scene 2: From Bandit to Saint — The Conversion of al-Fudayl**
+**📜 Scene 2: From Bandit to Saint — The Conversion of al-Fudayl**
 
 **Somewhere between Khorasan and Mecca — 2nd century H**
 
@@ -181,7 +181,7 @@ The Sufi Path (as-Suluk)
 
 <div class="scene-box">
 
-**🎭 Scene 3: "I am the Truth!" — The Fatal Words of al-Hallaj**
+**📜 Scene 3: "I am the Truth!" — The Fatal Words of al-Hallaj**
 
 **Baghdad — 309 H**
 
@@ -263,7 +263,7 @@ The Sufi Path (as-Suluk)
 
 <div class="scene-box">
 
-**🎭 Scene 4: A Common Scene in Some Muslim Countries**
+**📜 Scene 4: A Common Scene in Some Muslim Countries**
 
 **Near the tomb of a "wali" — In our times**
 

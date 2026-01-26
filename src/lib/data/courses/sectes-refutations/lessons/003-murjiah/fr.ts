@@ -5,7 +5,7 @@ export const contentFr = `# ⚖️ Les Murji'ah — L'Autre Extrême dans la Dé
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 Si les Khawarij ont excommunié les musulmans pour leurs péchés, les **Murji'ah** sont tombés dans l'extrême opposé : ils ont dit que **les actes ne font pas partie de la foi**, et que le pécheur a une foi parfaite comme celle des anges !
 
@@ -29,7 +29,7 @@ Cette déviation, plus subtile que celle des Khawarij, a eu un **impact dévasta
 
 <div class="scene-box">
 
-**🎭 SCÈNE : La Réaction aux Khawarij — Kufa, Fin du 1er Siècle H**
+**📜 SCÈNE : La Réaction aux Khawarij — Kufa, Fin du 1er Siècle H**
 
 *Des savants discutent du chaos causé par les Khawarij.*
 
@@ -70,7 +70,7 @@ Cette déviation, plus subtile que celle des Khawarij, a eu un **impact dévasta
 
 <div class="scene-box">
 
-**🎭 SCÈNE : La Doctrine de Jahm — Transoxiane, ~128 H**
+**📜 SCÈNE : La Doctrine de Jahm — Transoxiane, ~128 H**
 
 **Disciple** : « Ô Jahm, qu'est-ce que la foi ? »
 
@@ -137,7 +137,7 @@ Comparaison des Définitions de la Foi
 
 <div class="scene-box">
 
-**🎭 SCÈNE : L'Absurdité de Leur Position**
+**📜 SCÈNE : L'Absurdité de Leur Position**
 
 **Murji'i** : « Ma foi est comme celle de Jibril ! »
 
@@ -269,7 +269,7 @@ Structure de la Foi selon Ahl as-Sunnah
 
 <div class="scene-box">
 
-**🎭 SCÈNE : La Sagesse d'al-Hasan — Basra, ~100 H**
+**📜 SCÈNE : La Sagesse d'al-Hasan — Basra, ~100 H**
 
 *Un homme entre dans le cercle d'al-Hasan al-Basri رحمه الله.*
 
@@ -320,7 +320,7 @@ Effets du Murji'isme sur la Pratique
 │   ├── "L'essentiel c'est l'intention"
 │   └── Abandon progressif des obligations
 │
-├── 🎭 SÉPARATION RELIGION/VIE
+├── 📜 SÉPARATION RELIGION/VIE
 │   ├── "La religion à la mosquée"
 │   ├── "Le commerce a ses propres règles"
 │   └── Double personnalité
@@ -353,7 +353,7 @@ Effets du Murji'isme sur la Pratique
 
 <div class="scene-box">
 
-**🎭 SCÈNE : Le Musulman « Spirituel » — Café, Aujourd'hui**
+**📜 SCÈNE : Le Musulman « Spirituel » — Café, Aujourd'hui**
 
 **Ahmad** : « Tu viens à la prière du Jumu'a ? »
 
@@ -391,7 +391,7 @@ Effets du Murji'isme sur la Pratique
 
 <div class="scene-box">
 
-**🎭 SCÈNE : Le Commerçant « Pratiquant » — Marché**
+**📜 SCÈNE : Le Commerçant « Pratiquant » — Marché**
 
 *Un homme triche dans la pesée. Un client le reprend.*
 
@@ -427,7 +427,7 @@ Effets du Murji'isme sur la Pratique
 
 <div class="scene-box">
 
-**🎭 SCÈNE : Le Plan du Jeune — Université**
+**📜 SCÈNE : Le Plan du Jeune — Université**
 
 **Jeune homme** : « Je profite de ma jeunesse maintenant. Je me repentirai quand je serai marié et établi. »
 

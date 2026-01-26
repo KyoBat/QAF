@@ -12,7 +12,7 @@ export const content = `# ⚖️ Points de vue — آراء المَذَاهِب
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 Après avoir vu les **accords** (90% du fiqh), explorons maintenant les **différences de points de vue** — ces 10% qui font la richesse du patrimoine juridique islamique.
 

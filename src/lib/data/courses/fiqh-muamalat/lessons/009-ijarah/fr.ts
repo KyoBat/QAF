@@ -2,7 +2,7 @@ export const contentFr = `# La Location (Ijârah) — Règles des Contrats de Lo
 
 <div class="scene-box">
 
-**🎬 La Scène : Le Premier Contrat de Location de l'Histoire — Madyan il y a des Milliers d'Années**
+**📖 La Scène : Le Premier Contrat de Location de l'Histoire — Madyan il y a des Milliers d'Années**
 
 *Après que Moïse (paix sur lui) eut abreuvé les deux femmes, l'une d'elles vint vers lui marchant avec pudeur...*
 
@@ -68,7 +68,7 @@ export const contentFr = `# La Location (Ijârah) — Règles des Contrats de Lo
 
 <div class="scene-box">
 
-**🎬 L'Histoire de l'Hégire — Le Premier Contrat de Location Prophétique**
+**📖 L'Histoire de l'Hégire — Le Premier Contrat de Location Prophétique**
 
 *Avant l'Hégire, le Prophète ﷺ et Abu Bakr (qu'Allah soit satisfait de lui) préparent le voyage secret...*
 
@@ -98,7 +98,7 @@ La communauté est unanime sur la licéité de la location en raison du besoin d
 
 <div class="scene-box">
 
-**🎬 Conditions des Contractants**
+**📖 Conditions des Contractants**
 
 **① La Capacité**
 - Être doués de raison et de discernement
@@ -160,7 +160,7 @@ La communauté est unanime sur la licéité de la location en raison du besoin d
 
 <div class="scene-box">
 
-**🎬 Exemples de Location de Biens**
+**📖 Exemples de Location de Biens**
 
 **Mohammed** : Je veux louer **cet appartement** (le désignant) pour un an.
 
@@ -182,7 +182,7 @@ La communauté est unanime sur la licéité de la location en raison du besoin d
 
 <div class="scene-box">
 
-**🎬 Exemple de Location Garantie**
+**📖 Exemple de Location Garantie**
 
 **Ahmed** : Je veux louer une Toyota Camry 2024 pour une semaine.
 
@@ -220,7 +220,7 @@ La communauté est unanime sur la licéité de la location en raison du besoin d
 
 <div class="scene-box">
 
-**🎬 Question Fréquente**
+**📖 Question Fréquente**
 
 **Saïd** : J'ai loué un appartement pour un an, et au milieu de la période, le propriétaire a vendu l'immeuble !
 
@@ -267,7 +267,7 @@ La communauté est unanime sur la licéité de la location en raison du besoin d
 
 <div class="scene-box">
 
-**🎬 La Méthode Correcte**
+**📖 La Méthode Correcte**
 
 **Étape ①** : Contrat de location indépendant avec mensualités
 
@@ -285,7 +285,7 @@ La communauté est unanime sur la licéité de la location en raison du besoin d
 
 <div class="scene-box">
 
-**🎬 'Umar ibn 'Abd al-'Azîz et la Lampe du Trésor Public**
+**📖 'Umar ibn 'Abd al-'Azîz et la Lampe du Trésor Public**
 
 *Dans le palais du califat, 'Umar ibn 'Abd al-'Azîz travaille sur les affaires des musulmans...*
 

@@ -9,7 +9,7 @@ export const content = `# 💎 Les Caractéristiques de la Croyance Islamique Au
 
 ---
 
-## 🎬 Prologue : Le Sceau de l'Authenticité
+## 📖 Prologue : Le Sceau de l'Authenticité
 
 <div class="scene-box">
 

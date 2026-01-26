@@ -32,7 +32,7 @@ Immédiatement après le traité de Hudaybiya, en **Muharram** de la septième a
 | Zone de Shiqq | 3 forteresses | Richesses et armes |
 | Zone de Katîba | 2 forteresses | Femmes et enfants |
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Khaybar abritait les citadelles les plus puissantes de la péninsule arabique, entourées de palmiers et d'eau, habitées par les plus vaillants guerriers juifs.
 > 
@@ -52,7 +52,7 @@ Immédiatement après le traité de Hudaybiya, en **Muharram** de la septième a
 
 ### L'arrivée de nuit
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Les musulmans arrivèrent de nuit et ne bougèrent pas avant l'aube.
 > 
@@ -76,7 +76,7 @@ Le siège de Khaybar dura plusieurs jours, les forteresses tombant une après l'
 
 ### La maladie du Prophète ﷺ
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Le Prophète ﷺ fut atteint d'un violent mal de tête. Il donna l'étendard à Abû Bakr un jour, qui revint.
 > Puis il le donna à 'Umar un jour, qui revint également.
@@ -89,7 +89,7 @@ Le siège de Khaybar dura plusieurs jours, les forteresses tombant une après l'
 
 ### L'annonce de la victoire
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > La nuit suivante, le Prophète ﷺ dit :
 > 
@@ -103,7 +103,7 @@ Le siège de Khaybar dura plusieurs jours, les forteresses tombant une après l'
 
 ### 'Alî, porteur de l'étendard
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Le matin, le Prophète ﷺ dit : "Où est 'Alî ?"
 > 
@@ -125,7 +125,7 @@ Le siège de Khaybar dura plusieurs jours, les forteresses tombant une après l'
 
 ### Marhab le juif
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > De la forteresse sortit le plus grand champion des juifs : **Marhab**, d'une stature imposante, entièrement armé, déclamant :
 > 
@@ -141,7 +141,7 @@ Le siège de Khaybar dura plusieurs jours, les forteresses tombant une après l'
 
 ### La porte de Khaybar
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Le bouclier de 'Alî tomba pendant le combat. Il arracha la porte de la forteresse et s'en servit comme bouclier !
 > 
@@ -181,7 +181,7 @@ Les gens de Khaybar proposèrent de rester sur leurs terres en échange de la mo
 
 ### Le mouton empoisonné
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Zaynab bint al-Hârith, une juive, offrit au Prophète ﷺ un mouton rôti dans lequel elle avait mis du poison !
 > 
@@ -201,7 +201,7 @@ Les gens de Khaybar proposèrent de rester sur leurs terres en échange de la mo
 
 ### L'histoire de Safiyya bint Huyayy
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Safiyya bint Huyayy ibn Akhtab, descendante de Hârûn عليه السلام, fut capturée à Khaybar.
 > 

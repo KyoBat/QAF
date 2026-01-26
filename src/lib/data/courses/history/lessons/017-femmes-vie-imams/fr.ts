@@ -10,7 +10,7 @@ export const content = `# 👩‍🏫 Les Femmes dans la Vie des Imams
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 Derrière chaque grand imam, il y a des **femmes exceptionnelles**. Des mères qui ont éduqué, des épouses qui ont soutenu, et des filles qui ont transmis le savoir. Cette leçon révèle le rôle crucial des femmes dans la formation de ces géants.
 
@@ -30,7 +30,7 @@ Derrière chaque grand imam, il y a des **femmes exceptionnelles**. Des mères q
 
 <div class="scene-box">
 
-**🎭 SCÈNE : Le Conseil Éternel — Maison familiale à Médine, ~105 H**
+**📜 SCÈNE : Le Conseil Éternel — Maison familiale à Médine, ~105 H**
 
 *La mère habille son fils Malik de ses plus beaux vêtements.*
 
@@ -75,7 +75,7 @@ Derrière chaque grand imam, il y a des **femmes exceptionnelles**. Des mères q
 
 <div class="scene-box">
 
-**🎭 SCÈNE : Avant l'Aube — Bagdad, ~170 H**
+**📜 SCÈNE : Avant l'Aube — Bagdad, ~170 H**
 
 *Une nuit d'hiver froide. La mère d'Ahmad réveille son petit garçon.*
 

@@ -102,7 +102,7 @@ Selon l'école Malikite, la prière en groupe pour les cinq prières quotidienne
 
 <div class="scene-box">
 
-**🎭 La Scène de l'Aveugle qui Demanda une Dispense**
+**📜 La Scène de l'Aveugle qui Demanda une Dispense**
 
 *Un homme aveugle vint au Prophète ﷺ...*
 
@@ -122,7 +122,7 @@ Selon l'école Malikite, la prière en groupe pour les cinq prières quotidienne
 
 <div class="scene-box">
 
-**🎭 La Menace de Brûler les Maisons**
+**📜 La Menace de Brûler les Maisons**
 
 *Le Prophète ﷺ voyait des gens qui n'assistaient pas à la prière en groupe...*
 

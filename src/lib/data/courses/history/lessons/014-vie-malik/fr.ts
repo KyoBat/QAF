@@ -10,7 +10,7 @@ export const content = `# 🕌 La Vie de l'Imam Malik (93-179 H)
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 Il est **l'Imam de Dar al-Hijra** (la demeure de l'émigration), celui des quatre imams qui vécut le plus longtemps, et le plus respecté pour sa dignité et son prestige. Il vécut **86 ans** dans la ville du Prophète ﷺ, ne la quittant que pour le pèlerinage. Il fonda une école suivie aujourd'hui par plus de **250 millions** de musulmans.
 
@@ -51,7 +51,7 @@ Il est **l'Imam de Dar al-Hijra** (la demeure de l'émigration), celui des quatr
 
 <div class="scene-box">
 
-**🎭 SCÈNE : L'Enfant Ambitieux — Maison familiale à Médine, ~105 H**
+**📜 SCÈNE : L'Enfant Ambitieux — Maison familiale à Médine, ~105 H**
 
 *Le petit Malik demande à sa mère.*
 
@@ -122,7 +122,7 @@ Il est **l'Imam de Dar al-Hijra** (la demeure de l'émigration), celui des quatr
 
 <div class="scene-box">
 
-**🎭 SCÈNE : Le Livre Approuvé — Mosquée du Prophète, ~150 H**
+**📜 SCÈNE : Le Livre Approuvé — Mosquée du Prophète, ~150 H**
 
 *Malik présente son Muwatta à 70 juristes de Médine.*
 
@@ -165,7 +165,7 @@ Il est **l'Imam de Dar al-Hijra** (la demeure de l'émigration), celui des quatr
 
 <div class="scene-box">
 
-**🎭 SCÈNE : La Fermeté du Savant — Médine, ~147 H**
+**📜 SCÈNE : La Fermeté du Savant — Médine, ~147 H**
 
 *Malik est fouetté publiquement sur ordre du gouverneur de Médine.*
 
@@ -210,7 +210,7 @@ Il est **l'Imam de Dar al-Hijra** (la demeure de l'émigration), celui des quatr
 
 <div class="scene-box">
 
-**🎭 SCÈNE : La Dignité de la Transmission — Maison de Malik à Médine**
+**📜 SCÈNE : La Dignité de la Transmission — Maison de Malik à Médine**
 
 *Un étudiant demande à Malik un hadith.*
 
@@ -257,7 +257,7 @@ Il est **l'Imam de Dar al-Hijra** (la demeure de l'émigration), celui des quatr
 
 <div class="scene-box">
 
-**🎭 SCÈNE : Refus de l'Imposition — Médine, époque d'al-Mansur**
+**📜 SCÈNE : Refus de l'Imposition — Médine, époque d'al-Mansur**
 
 **Al-Mansur** *(à Malik)* : « Je veux faire de ton livre la loi pour tous les musulmans. »
 
@@ -294,7 +294,7 @@ Il est **l'Imam de Dar al-Hijra** (la demeure de l'émigration), celui des quatr
 
 <div class="scene-box">
 
-**🎭 SCÈNE : L'Adieu à l'Imam de Médine — Al-Baqi', 179 H**
+**📜 SCÈNE : L'Adieu à l'Imam de Médine — Al-Baqi', 179 H**
 
 *Toute Médine sort pour son cortège funèbre.*
 

@@ -11,9 +11,9 @@ export const contentEn = `# ⚖️ Al-Istihsan — Juristic Preference
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
-### 🎭 Scene: Abu Hanifa and the Thief
+### 📜 Scene: Abu Hanifa and the Thief
 
 > **Kufa, 2nd century AH...**
 >
@@ -37,7 +37,7 @@ export const contentEn = `# ⚖️ Al-Istihsan — Juristic Preference
 
 ---
 
-### 🎭 Scene: Ash-Shafi'i's Criticism
+### 📜 Scene: Ash-Shafi'i's Criticism
 
 > **Imam Ash-Shafi'i** — may Allah have mercy on him — criticized istihsan:
 >
@@ -145,7 +145,7 @@ export const contentEn = `# ⚖️ Al-Istihsan — Juristic Preference
 
 ---
 
-## 🎭 Story: The Well and Purity
+## 📜 Story: The Well and Purity
 
 ### The Issue
 

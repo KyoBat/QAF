@@ -2,7 +2,7 @@ export const contentEn = `# Leasing (Ijarah) — Rules of Rental Contracts
 
 <div class="scene-box">
 
-**🎬 The Scene: The First Lease Contract in History — Madyan Thousands of Years Ago**
+**📖 The Scene: The First Lease Contract in History — Madyan Thousands of Years Ago**
 
 *After Moses (peace be upon him) had watered the two women, one of them came to him walking with shyness...*
 
@@ -68,7 +68,7 @@ export const contentEn = `# Leasing (Ijarah) — Rules of Rental Contracts
 
 <div class="scene-box">
 
-**🎬 The Story of the Hijra — The First Prophetic Lease Contract**
+**📖 The Story of the Hijra — The First Prophetic Lease Contract**
 
 *Before the Hijra, the Prophet ﷺ and Abu Bakr (may Allah be pleased with him) prepare for the secret journey...*
 
@@ -98,7 +98,7 @@ The Ummah is unanimous on the permissibility of leasing due to people's need —
 
 <div class="scene-box">
 
-**🎬 Conditions of the Contracting Parties**
+**📖 Conditions of the Contracting Parties**
 
 **① Capacity**
 - Being of sound mind and discernment
@@ -160,7 +160,7 @@ The Ummah is unanimous on the permissibility of leasing due to people's need —
 
 <div class="scene-box">
 
-**🎬 Examples of Asset Leasing**
+**📖 Examples of Asset Leasing**
 
 **Mohammed**: I want to rent **this apartment** (pointing to it) for a year.
 
@@ -182,7 +182,7 @@ The Ummah is unanimous on the permissibility of leasing due to people's need —
 
 <div class="scene-box">
 
-**🎬 Example of Guaranteed Leasing**
+**📖 Example of Guaranteed Leasing**
 
 **Ahmed**: I want to rent a Toyota Camry 2024 for a week.
 
@@ -220,7 +220,7 @@ The Ummah is unanimous on the permissibility of leasing due to people's need —
 
 <div class="scene-box">
 
-**🎬 Common Question**
+**📖 Common Question**
 
 **Said**: I rented an apartment for a year, and in the middle of the period, the owner sold the building!
 
@@ -267,7 +267,7 @@ The Ummah is unanimous on the permissibility of leasing due to people's need —
 
 <div class="scene-box">
 
-**🎬 The Correct Method**
+**📖 The Correct Method**
 
 **Step ①**: Independent lease contract with monthly payments
 
@@ -285,7 +285,7 @@ The Ummah is unanimous on the permissibility of leasing due to people's need —
 
 <div class="scene-box">
 
-**🎬 'Umar ibn 'Abd al-'Aziz and the Treasury Lamp**
+**📖 'Umar ibn 'Abd al-'Aziz and the Treasury Lamp**
 
 *In the caliphate palace, 'Umar ibn 'Abd al-'Aziz works on Muslim affairs...*
 

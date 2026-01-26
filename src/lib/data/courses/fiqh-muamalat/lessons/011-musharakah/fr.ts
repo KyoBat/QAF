@@ -2,7 +2,7 @@ export const contentFr = `# Les Sociétés — Règles de la Participation et de
 
 <div class="scene-box">
 
-**🎬 Au marché de Badr... le jour où la foi triompha**
+**📖 Au marché de Badr... le jour où la foi triompha**
 
 *Trois Compagnons discutent avant la bataille...*
 
@@ -94,7 +94,7 @@ Le Prophète ﷺ a dit : **"Allah le Très-Haut dit : Je suis le troisième des 
 
 <div class="scene-box">
 
-**🎬 À Bagdad... deux associés négocient**
+**📖 À Bagdad... deux associés négocient**
 
 **Ahmad le commerçant :** J'ai 10 000 dinars, je veux qu'on s'associe dans le commerce de la soie.
 
@@ -161,7 +161,7 @@ Que deux personnes ou plus s'associent en étant **égaux en tout** :
 
 <div class="scene-box">
 
-**🎬 Retour à Badr... l'histoire des trois Compagnons**
+**📖 Retour à Badr... l'histoire des trois Compagnons**
 
 **Abdullah ibn Mas'ûd :** *(racontant)* Je me suis associé avec 'Ammâr et Sa'd sur ce que nous obtiendrions le jour de Badr...
 
@@ -209,7 +209,7 @@ Que deux personnes ou plus s'associent en étant **égaux en tout** :
 
 <div class="scene-box">
 
-**🎬 Au marché de Médine...**
+**📖 Au marché de Médine...**
 
 **'Âmir :** *(à son ami)* Ô Sa'îd, nous n'avons pas d'argent pour commercer...
 
@@ -301,7 +301,7 @@ Société dont le capital est divisé en **actions de valeur égale**, négociab
 
 <div class="scene-box">
 
-**🎬 À la banque islamique...**
+**📖 À la banque islamique...**
 
 **Le Client :** Je veux acheter une maison à 500 000 riyals, mais je n'ai que 100 000.
 
@@ -370,7 +370,7 @@ Société dont le capital est divisé en **actions de valeur égale**, négociab
 
 <div class="scene-box">
 
-**🎬 La leçon immortelle de Badr**
+**📖 La leçon immortelle de Badr**
 
 **Abdullah ibn Mas'ûd qu'Allah l'agrée :**
 

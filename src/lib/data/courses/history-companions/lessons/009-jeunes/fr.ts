@@ -12,7 +12,7 @@ export const content = `# 📚 LES JEUNES COMPAGNONS — Ibn 'Abbās et Ibn 'Uma
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 Parmi les Compagnons, certains n'étaient que des **enfants** au temps du Prophète ﷺ.
 

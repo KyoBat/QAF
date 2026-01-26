@@ -11,9 +11,9 @@ export const contentEn = `# 📖 The Quran — The Primary Source of Legislation
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
-### 🎭 Scene: The Night of Decree
+### 📜 Scene: The Night of Decree
 
 > **The Cave of Hira, a night in Ramadan...**
 >
@@ -39,7 +39,7 @@ export const contentEn = `# 📖 The Quran — The Primary Source of Legislation
 
 ---
 
-### 🎭 Scene: The Weight of Revelation
+### 📜 Scene: The Weight of Revelation
 
 > **Aisha** — may Allah be pleased with her — reported:
 >
@@ -186,7 +186,7 @@ export const contentEn = `# 📖 The Quran — The Primary Source of Legislation
 
 ---
 
-## 🎭 Story: Omar and the Verse of Wine
+## 📜 Story: Omar and the Verse of Wine
 
 ### The Context
 
@@ -280,7 +280,7 @@ export const contentEn = `# 📖 The Quran — The Primary Source of Legislation
 
 ---
 
-### 🎭 Case 4: Reciting Quran During Menstruation
+### 📜 Case 4: Reciting Quran During Menstruation
 
 > **Situation**: Can a woman during her period recite the Quran?
 

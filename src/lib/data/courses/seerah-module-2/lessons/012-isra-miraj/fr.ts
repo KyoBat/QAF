@@ -10,7 +10,7 @@ export const content = `
 
 Après la mort de Khadija رضي الله عنها et d'Abu Talib, après le voyage douloureux à Ta'if, le Prophète ﷺ traversait l'une des périodes les plus difficiles de sa vie. Il avait perdu son épouse bien-aimée, son oncle protecteur, et avait été rejeté par la tribu de Ta'if.
 
-> 🎭 **La Scène** :
+> 📜 **La Scène** :
 >
 > Par une nuit mecquoise, le Prophète ﷺ dormait chez Umm Hani bint Abi Talib, près de la Ka'ba. Le ciel était parsemé d'étoiles, et la ville était plongée dans le silence nocturne. Personne ne savait que cette nuit allait devenir la plus extraordinaire de l'histoire de l'humanité.
 
@@ -20,7 +20,7 @@ Après la mort de Khadija رضي الله عنها et d'Abu Talib, après le voy
 
 ### ⭐ L'Arrivée de Jibril عليه السلام
 
-> 🎭 **La Scène** :
+> 📜 **La Scène** :
 >
 > Jibril عليه السلام vint auprès du Prophète ﷺ accompagné de Mikael. Ils ouvrirent sa poitrine bénie, sortirent son cœur, le lavèrent avec l'eau de Zamzam dans un bassin d'or rempli de foi et de sagesse, puis le remirent en place.
 >
@@ -51,7 +51,7 @@ On amena au Prophète ﷺ une monture jamais vue auparavant :
 
 Le Prophète ﷺ atteignit Jérusalem en quelques instants. Là, à la Mosquée Al-Aqsa bénie, se déroula une scène que la Terre n'avait jamais vue :
 
-> 🎭 **La Scène** :
+> 📜 **La Scène** :
 >
 > Tous les prophètes et messagers — d'Adam à 'Isa عليهم السلام — s'étaient rassemblés pour accueillir un hôte noble. Quand Muhammad ﷺ entra, il s'avança pour les diriger en prière comme imam.
 >
@@ -110,7 +110,7 @@ Adam عليه السلام dit : **« Bienvenue au fils pieux et au prophète pi
 | **Yahya** عليه السلام | Prophète d'Allah | Cousin de 'Isa |
 | **'Isa** عليه السلام | Esprit d'Allah et Sa Parole | Le Messie, fils de Maryam |
 
-> 🎭 **La Scène** :
+> 📜 **La Scène** :
 >
 > Le Prophète ﷺ les vit, ces deux cousins. 'Isa عليه السلام était de teint rougeâtre, avec de nombreux grains de beauté, comme s'il sortait d'un bain. La personne lui ressemblant le plus était 'Urwa ibn Mas'ud ath-Thaqafi.
 >
@@ -157,7 +157,7 @@ Harun dit : **« Bienvenue au frère pieux et au prophète pieux »** 💚
 
 Au sixième ciel, le Prophète ﷺ rencontra Musa, l'interlocuteur d'Allah :
 
-> 🎭 **La Scène** :
+> 📜 **La Scène** :
 >
 > Un homme au teint basané, grand, aux cheveux bouclés, comme s'il était des hommes de Shanu'a. Quand le Prophète ﷺ le dépassa en montant, Musa pleura !
 >
@@ -173,7 +173,7 @@ Musa dit : **« Bienvenue au frère pieux et au prophète pieux »** 💚
 
 Au plus haut des cieux, le septième ciel, vint le moment le plus émouvant :
 
-> 🎭 **La Scène** :
+> 📜 **La Scène** :
 >
 > Le Prophète ﷺ vit Ibrahim al-Khalil — son ancêtre — adossé à **al-Bayt al-Ma'mur** (la Maison Peuplée). Il était la personne qui ressemblait le plus au Prophète ﷺ.
 >
@@ -233,7 +233,7 @@ En ce lieu sublime, près de Sidrat al-Muntaha, Allah prescrivit à la communaut
 
 ### 🔄 L'Allègement — Le Rôle de Musa عليه السلام
 
-> 🎭 **La Scène** :
+> 📜 **La Scène** :
 >
 > Quand le Prophète ﷺ redescendit et passa devant Musa عليه السلام, celui-ci lui demanda :
 >
@@ -251,7 +251,7 @@ En ce lieu sublime, près de Sidrat al-Muntaha, Allah prescrivit à la communaut
 | ... | ... | ... |
 | Finale | **5** | définitif |
 
-> 🎭 **La Scène Finale** :
+> 📜 **La Scène Finale** :
 >
 > Quand le nombre atteignit cinq prières, Musa dit : Retourne et demande un allègement.
 >
@@ -269,7 +269,7 @@ En ce lieu sublime, près de Sidrat al-Muntaha, Allah prescrivit à la communaut
 
 Le Prophète ﷺ revint la même nuit. Le matin, il informa Quraysh de ce qu'il avait vu :
 
-> 🎭 **La Scène** :
+> 📜 **La Scène** :
 >
 > Le Prophète ﷺ s'assit près de la Mosquée Sacrée. Abu Jahl vint vers lui, moqueur :
 >
@@ -311,7 +311,7 @@ Les gens sortirent guetter la caravane... Elle arriva exactement comme il l'avai
 
 ## 💎 Abu Bakr as-Siddiq — La Croyance Sans Hésitation
 
-> 🎭 **La Scène** :
+> 📜 **La Scène** :
 >
 > Des polythéistes vinrent trouver Abu Bakr pour se moquer :
 >

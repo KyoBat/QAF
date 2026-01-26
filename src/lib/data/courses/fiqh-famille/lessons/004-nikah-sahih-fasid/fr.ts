@@ -11,9 +11,9 @@ export const contentFr = `# ⚖️ Mariage Valide vs Invalide — Quand le Contr
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
-### 🎭 Scène : Deux mariages, deux destins
+### 📜 Scène : Deux mariages, deux destins
 
 **Mariage 1** — *Paris, 2024*
 
@@ -105,7 +105,7 @@ Le mariage où **les piliers existent** mais **une condition de validité manque
 |  | ❌ Elle est utilisée comme monnaie d'échange |
 |  | ❌ Son consentement réel est douteux |
 
-🎭 **Scène** :
+📜 **Scène** :
 
 > *Abû Bakr* : « Donne-moi ta fille Zaynab. »
 >
@@ -127,7 +127,7 @@ Le mariage où **les piliers existent** mais **une condition de validité manque
 |  | ❌ Tromperie envers Allah |
 |  | ❌ Humiliation de la femme |
 
-🎭 **Scène moderne** :
+📜 **Scène moderne** :
 
 > *Khalid* a divorcé Amina trois fois. Il regrette. Il dit à son ami :
 >
@@ -246,7 +246,7 @@ Le mariage où **un pilier fondamental manque**. Ce n'est pas un mariage défect
 
 ---
 
-## 🎭 Récit 1 : Omar et le Shighâr
+## 📜 Récit 1 : Omar et le Shighâr
 
 ### La scène
 
@@ -270,7 +270,7 @@ Les Compagnons ne plaisantaient pas avec les mariages viciés. Ils comprenaient 
 
 ---
 
-## 🎭 Récit 2 : Ibn Omar et le "Halaliseur"
+## 📜 Récit 2 : Ibn Omar et le "Halaliseur"
 
 ### La scène
 

@@ -11,9 +11,9 @@ export const contentEn = `# 📚 Al-Taqlid — Following a School of Law
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
-### 🎭 Scene: The Four Schools in History
+### 📜 Scene: The Four Schools in History
 
 > **Baghdad, 4th century AH...**
 >
@@ -35,7 +35,7 @@ export const contentEn = `# 📚 Al-Taqlid — Following a School of Law
 
 ---
 
-### 🎭 Scene: The Wisdom of Diversity
+### 📜 Scene: The Wisdom of Diversity
 
 > **Imam Ibn Taymiyyah** — may Allah have mercy on him — was asked:
 >
@@ -176,7 +176,7 @@ export const contentEn = `# 📚 Al-Taqlid — Following a School of Law
 
 ---
 
-## 🎭 Story: The Imams and Their Humility
+## 📜 Story: The Imams and Their Humility
 
 ### Abu Hanifa
 

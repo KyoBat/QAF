@@ -8,7 +8,7 @@ export const content = `# 🌍 Living According to a Madhab in the 21st Century
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 How do we apply fiqh established over a thousand years ago in a world of Internet and globalization? This lesson addresses practical challenges.
 
@@ -100,7 +100,7 @@ How do we apply fiqh established over a thousand years ago in a world of Interne
 
 <div class="scene-box">
 
-**🎭 Practical situation:**
+**📜 Practical situation:**
 
 **Student:** Sheikh, I follow the Shafi'i madhab, but you're Hanafi. What should I do?
 

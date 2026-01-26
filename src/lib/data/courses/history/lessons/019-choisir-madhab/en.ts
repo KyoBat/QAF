@@ -8,7 +8,7 @@ export const content = `# ⚖️ How to Choose a Madhab?
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 Must you follow a particular madhab? And how do you choose? This lesson answers the most important practical questions about the schools of law.
 

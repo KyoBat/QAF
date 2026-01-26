@@ -11,9 +11,9 @@ export const contentFr = `# 📖 Le Coran — La Source Première de la Législa
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
-### 🎭 Scène : La Nuit du Destin
+### 📜 Scène : La Nuit du Destin
 
 > **La grotte de Hira, une nuit de Ramadan...**
 >
@@ -39,7 +39,7 @@ export const contentFr = `# 📖 Le Coran — La Source Première de la Législa
 
 ---
 
-### 🎭 Scène : Le Poids de la Révélation
+### 📜 Scène : Le Poids de la Révélation
 
 > **Aïcha** — qu'Allah l'agrée — rapporte :
 >
@@ -186,7 +186,7 @@ export const contentFr = `# 📖 Le Coran — La Source Première de la Législa
 
 ---
 
-## 🎭 Histoire : Omar et le Verset du Vin
+## 📜 Histoire : Omar et le Verset du Vin
 
 ### Le Contexte
 
@@ -280,7 +280,7 @@ export const contentFr = `# 📖 Le Coran — La Source Première de la Législa
 
 ---
 
-### 🎭 Cas 4 : Réciter le Coran en État de Menstrues
+### 📜 Cas 4 : Réciter le Coran en État de Menstrues
 
 > **Situation** : Une femme en période de menstrues peut-elle réciter le Coran ?
 

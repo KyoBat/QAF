@@ -5,7 +5,7 @@ export const contentEn = `# ⚖️ The Murji'ah — The Other Extreme in Definin
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 If the Khawarij excommunicated Muslims for their sins, the **Murji'ah** fell into the opposite extreme: they said that **actions are not part of faith**, and that the sinner has perfect faith like that of the angels!
 
@@ -29,7 +29,7 @@ This deviation, more subtle than that of the Khawarij, has had a **devastating i
 
 <div class="scene-box">
 
-**🎭 SCENE: The Reaction to the Khawarij — Kufa, End of 1st Century H**
+**📜 SCENE: The Reaction to the Khawarij — Kufa, End of 1st Century H**
 
 *Scholars discuss the chaos caused by the Khawarij.*
 
@@ -70,7 +70,7 @@ Emergence of Murji'ism
 
 <div class="scene-box">
 
-**🎭 SCENE: Jahm's Doctrine — Transoxiana, ~128 H**
+**📜 SCENE: Jahm's Doctrine — Transoxiana, ~128 H**
 
 **Disciple**: "O Jahm, what is faith?"
 
@@ -137,7 +137,7 @@ Comparison of Definitions of Faith
 
 <div class="scene-box">
 
-**🎭 SCENE: The Absurdity of Their Position**
+**📜 SCENE: The Absurdity of Their Position**
 
 **Murji'i**: "My faith is like that of Jibril!"
 
@@ -267,7 +267,7 @@ Faith According to Ahl as-Sunnah
 
 <div class="scene-box">
 
-**🎭 SCENE: The Murji'i's Practical Logic**
+**📜 SCENE: The Murji'i's Practical Logic**
 
 **Young Murji'i**: "I am a believer in my heart. Sins don't affect my faith."
 
@@ -303,7 +303,7 @@ Faith According to Ahl as-Sunnah
 
 <div class="scene-box">
 
-**🎭 SCENE: The Humility of the Scholar — Basra, End of 1st Century H**
+**📜 SCENE: The Humility of the Scholar — Basra, End of 1st Century H**
 
 *A man comes to al-Hasan al-Basri رحمه الله.*
 
@@ -331,7 +331,7 @@ Faith According to Ahl as-Sunnah
 
 <div class="scene-box">
 
-**🎭 SCENE: The Repeated Excuse — Today**
+**📜 SCENE: The Repeated Excuse — Today**
 
 **One who abandons prayer**: "I don't pray, but my heart is good. Allah knows what's in my heart!"
 

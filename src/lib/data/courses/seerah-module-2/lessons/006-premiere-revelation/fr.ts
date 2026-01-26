@@ -11,7 +11,7 @@ export const content = `# 📜 Lis ! — La Nuit de la Première Révélation
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 ### Une nuit qui changea l'Histoire
 
@@ -53,7 +53,7 @@ Un homme de quarante ans méditait seul...
 
 ### 💭 Pourquoi méditait-il ?
 
-> 🎭 **La Scène** : Dans l'obscurité de la grotte...
+> 📜 **La Scène** : Dans l'obscurité de la grotte...
 >
 > Muhammad ﷺ contemplait le ciel et les étoiles...
 >
@@ -82,7 +82,7 @@ Un homme de quarante ans méditait seul...
 
 ---
 
-### 🎭 La Scène Suprême — Le Moment de la Révélation
+### 📜 La Scène Suprême — Le Moment de la Révélation
 
 > **Dans l'obscurité de la grotte**...
 >
@@ -127,7 +127,7 @@ Un homme de quarante ans méditait seul...
 
 ## 🏠 Le Retour vers Khadîja — Couvre-moi !
 
-### 🎭 La Scène du Retour
+### 📜 La Scène du Retour
 
 > **Il descendit de la montagne** le cœur tremblant...
 >
@@ -195,7 +195,7 @@ Un homme de quarante ans méditait seul...
 
 ---
 
-### 🎭 La Rencontre avec Waraqah
+### 📜 La Rencontre avec Waraqah
 
 > **Khadîja l'emmena** chez son cousin Waraqah...
 >
@@ -249,7 +249,7 @@ Un homme de quarante ans méditait seul...
 
 ### 😔 La Souffrance du Prophète ﷺ
 
-> 🎭 **La Scène** :
+> 📜 **La Scène** :
 >
 > La Révélation s'interrompit...
 >
@@ -276,7 +276,7 @@ Un homme de quarante ans méditait seul...
 
 ## 🌟 Le Retour de la Révélation — Ô toi qui es couvert !
 
-### 🎭 La Scène du Retour
+### 📜 La Scène du Retour
 
 > **Le Hadith** : Le Prophète ﷺ dit :
 >

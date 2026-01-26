@@ -13,9 +13,9 @@ export const contentEn = `# 💍 Al-Khitbah — The Islamic Engagement
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
-### 🎭 Scene: The Proper Way
+### 📜 Scene: The Proper Way
 
 > **In a family home...**
 >
@@ -37,7 +37,7 @@ export const contentEn = `# 💍 Al-Khitbah — The Islamic Engagement
 
 ---
 
-### 🎭 Scene: The Wrong Way
+### 📜 Scene: The Wrong Way
 
 > **On social media...**
 >
@@ -191,7 +191,7 @@ export const contentEn = `# 💍 Al-Khitbah — The Islamic Engagement
 
 ---
 
-## 🎭 Story: The Prophet's ﷺ Proposals
+## 📜 Story: The Prophet's ﷺ Proposals
 
 ### His Proposal to Khadijah
 

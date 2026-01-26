@@ -12,7 +12,7 @@ export const content = `# 🎓 Their Students — تَلَامِيذُهُمُ �
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 The four imams have died. But their schools **still live**, 1200 years later.
 

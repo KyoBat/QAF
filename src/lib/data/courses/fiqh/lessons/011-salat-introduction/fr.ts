@@ -46,7 +46,7 @@ La sérénité consiste à rester immobile dans chaque pilier de la prière le t
 
 <div class="scene-box">
 
-**🎭 L'homme qui n'a pas prié trois fois !**
+**📜 L'homme qui n'a pas prié trois fois !**
 
 *Un homme entra dans la mosquée alors que le Prophète ﷺ était assis avec ses compagnons...*
 
@@ -74,7 +74,7 @@ La sérénité consiste à rester immobile dans chaque pilier de la prière le t
 
 <div class="scene-box">
 
-**🎭 Le pire des vols !**
+**📜 Le pire des vols !**
 
 *Le Prophète ﷺ avertissait ses compagnons d'un mal grave...*
 

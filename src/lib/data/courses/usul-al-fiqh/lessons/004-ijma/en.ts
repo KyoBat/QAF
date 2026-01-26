@@ -13,9 +13,9 @@ export const contentEn = `# 🤝 Ijma — The Binding Consensus
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
-### 🎭 Scene: Saqifa of Bani Sa'idah
+### 📜 Scene: Saqifa of Bani Sa'idah
 
 > **Medina, 11 AH, the day the Prophet ﷺ passed away...**
 >
@@ -37,7 +37,7 @@ export const contentEn = `# 🤝 Ijma — The Binding Consensus
 
 ---
 
-### 🎭 Scene: The Power of Consensus
+### 📜 Scene: The Power of Consensus
 
 > **Ali ibn Abi Talib** — may Allah be pleased with him — said:
 >
@@ -138,7 +138,7 @@ export const contentEn = `# 🤝 Ijma — The Binding Consensus
 
 ---
 
-## 🎭 Story: Consensus on Compiling the Quran
+## 📜 Story: Consensus on Compiling the Quran
 
 ### The Cause
 

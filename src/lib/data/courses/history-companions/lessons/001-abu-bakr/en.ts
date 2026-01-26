@@ -14,7 +14,7 @@ export const content = `# 👑 Abū Bakr al-Ṣiddīq — The Truthful
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 Who was the man the Prophet ﷺ loved most after Allah?
 
@@ -80,7 +80,7 @@ Then he goes to see his closest friend: **Abū Bakr**.
 
 <div class="scene-box">
 
-**🎭 The Night Everything Changed**
+**📜 The Night Everything Changed**
 
 *The year 610 CE. The Prophet ﷺ has just received the first revelation in the cave of Ḥirā'.*
 

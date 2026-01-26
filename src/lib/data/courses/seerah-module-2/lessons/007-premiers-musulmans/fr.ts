@@ -11,7 +11,7 @@ export const content = `# 👥 Les Pionniers — Les Premiers Musulmans
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 ### Trois années dans le secret
 
@@ -53,7 +53,7 @@ Ainsi commencèrent **trois années** de prédication secrète...
 
 ## 👑 Les Quatre Premiers — Les Tout Premiers Croyants
 
-### 🎭 La Scène d'Ouverture
+### 📜 La Scène d'Ouverture
 
 > Dans les premiers jours de la mission prophétique...
 >
@@ -75,7 +75,7 @@ Ainsi commencèrent **trois années** de prédication secrète...
 | **Catégorie** | Première femme |
 | **Attitude** | Elle crut dès son retour de la grotte de Hirâ' |
 
-> 🎭 **La Scène** :
+> 📜 **La Scène** :
 >
 > Le Prophète ﷺ revint de la grotte tremblant...
 >
@@ -102,7 +102,7 @@ Ainsi commencèrent **trois années** de prédication secrète...
 
 ---
 
-#### 🎭 La Scène de la Conversion d'Abu Bakr
+#### 📜 La Scène de la Conversion d'Abu Bakr
 
 > **Le Prophète ﷺ** : Ô Abu Bakr, Allah m'a envoyé comme messager aux gens...
 >
@@ -142,7 +142,7 @@ Ainsi commencèrent **trois années** de prédication secrète...
 
 ---
 
-#### 🎭 La Scène de la Conversion d'Ali
+#### 📜 La Scène de la Conversion d'Ali
 
 > Ali vit le Prophète ﷺ et Khadîja en train de prier...
 >
@@ -173,7 +173,7 @@ Ainsi commencèrent **trois années** de prédication secrète...
 
 ---
 
-#### 🎭 L'Histoire Émouvante de Zayd
+#### 📜 L'Histoire Émouvante de Zayd
 
 > Le **père de Zayd** vint chercher son fils kidnappé...
 >
@@ -242,7 +242,7 @@ Ainsi commencèrent **trois années** de prédication secrète...
 
 ---
 
-### 🎭 La Scène à Dâr al-Arqam
+### 📜 La Scène à Dâr al-Arqam
 
 > Dans une petite maison sur le mont Safâ...
 >
@@ -317,7 +317,7 @@ Ainsi commencèrent **trois années** de prédication secrète...
 | **Conversion** | Parmi les tout premiers musulmans |
 | **Destin** | Torturé puis libéré |
 
-> 🎭 **La Scène** :
+> 📜 **La Scène** :
 >
 > Bilâl fut jeté sur le sable brûlant de La Mecque...
 >

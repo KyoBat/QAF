@@ -11,9 +11,9 @@ export const contentFr = `# 💑 Les Droits des Époux — Un Équilibre Divin
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
-### 🎭 Scène : Deux visions du mariage
+### 📜 Scène : Deux visions du mariage
 
 **Vision 1 — Le tyran domestique**
 
@@ -130,7 +130,7 @@ export const contentFr = `# 💑 Les Droits des Époux — Un Équilibre Divin
 | 🙏 **Reconnaissance** | Remercier pour les efforts |
 | 🤫 **Préservation des secrets** | Ce qui se passe au lit reste au lit |
 
-> 🎭 **Le Prophète ﷺ en pratique** : Il aidait à la maison, cousait ses vêtements, faisait la course avec 'Âisha, buvait du même côté de la tasse qu'elle...
+> 📜 **Le Prophète ﷺ en pratique** : Il aidait à la maison, cousait ses vêtements, faisait la course avec 'Âisha, buvait du même côté de la tasse qu'elle...
 
 #### 2️⃣ L'Équité entre les Épouses (Al-'Adl)
 
@@ -237,7 +237,7 @@ export const contentFr = `# 💑 Les Droits des Époux — Un Équilibre Divin
 
 ---
 
-## 🎭 Le Prophète ﷺ — Modèle d'Époux
+## 📜 Le Prophète ﷺ — Modèle d'Époux
 
 ### 💔 Avec Khadîja — La fidélité après la mort
 
@@ -281,7 +281,7 @@ Safiyya (qu'Allah l'agrée) pleura un jour parce que Hafsa et 'Âisha l'avaient 
 
 ---
 
-## 🎭 Récit : Omar et la patience
+## 📜 Récit : Omar et la patience
 
 Un homme vint se plaindre de sa femme à **Omar ibn al-Khattâb** (qu'Allah l'agrée). Il s'arrêta à la porte et entendit la femme d'Omar élever la voix sur lui, tandis qu'Omar restait silencieux.
 

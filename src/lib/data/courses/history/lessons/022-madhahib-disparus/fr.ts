@@ -8,7 +8,7 @@ export const content = `# 📚 Les Madhahib Disparus
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 Les quatre madhabs ne sont pas les seuls dans l'histoire de l'Islam. Il y avait des dizaines d'écoles juridiques qui ont disparu pour diverses raisons. Cette leçon passe en revue les plus importantes.
 
@@ -75,7 +75,7 @@ Les quatre madhabs ne sont pas les seuls dans l'histoire de l'Islam. Il y avait 
 
 <div class="scene-box">
 
-**🎭 Histoire de la disparition :**
+**📜 Histoire de la disparition :**
 
 Le madhab d'al-Awza'i était **le madhab officiel du Sham et de l'Andalousie** pendant des siècles.
 

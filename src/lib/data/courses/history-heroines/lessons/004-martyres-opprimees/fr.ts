@@ -14,7 +14,7 @@ export const content = `
 
 ---
 
-## 🎬 Mise en Contexte
+## 📖 Mise en Contexte
 
 Dans les premières années de l'Islam, les convertis les plus **vulnérables** — esclaves, affranchis, femmes sans protection — payèrent le prix le plus lourd. Parmi eux, des femmes extraordinaires choisirent la **mort** plutôt que l'apostasie. Leur sang fonda les bases de notre religion.
 

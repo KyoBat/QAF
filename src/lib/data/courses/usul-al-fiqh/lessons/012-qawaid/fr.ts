@@ -11,9 +11,9 @@ export const contentFr = `# 📜 Les Maximes Juridiques — Les Cinq Grandes Rè
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
-### 🎭 Scène : Le Juge et les Mille Questions
+### 📜 Scène : Le Juge et les Mille Questions
 
 > **Un jour, dans un tribunal islamique...**
 >
@@ -33,7 +33,7 @@ export const contentFr = `# 📜 Les Maximes Juridiques — Les Cinq Grandes Rè
 
 ---
 
-### 🎭 Scène : L'Imam 'Izz ad-Din As-Sulami
+### 📜 Scène : L'Imam 'Izz ad-Din As-Sulami
 
 > On demanda à **l'Imam 'Izz ad-Din ibn 'Abdis-Salam** :
 >

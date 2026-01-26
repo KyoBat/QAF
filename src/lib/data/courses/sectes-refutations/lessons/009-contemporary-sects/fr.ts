@@ -21,7 +21,7 @@ export const contentFr = `# 🕌 Les Sectes Contemporaines — Qadianiyyah et Ba
 
 ---
 
-## 🎭 Scène 1 : La naissance d'un imposteur
+## 📜 Scène 1 : La naissance d'un imposteur
 
 <div class="scene-box">
 
@@ -74,7 +74,7 @@ export const contentFr = `# 🕌 Les Sectes Contemporaines — Qadianiyyah et Ba
 
 <div class="scene-box">
 
-**🎭 Scène 2 : L'hérésie mise à nu**
+**📜 Scène 2 : L'hérésie mise à nu**
 
 **Dialogue entre un musulman et un Qadiani**
 
@@ -193,7 +193,7 @@ Maison Universelle de Justice (Haïfa)
 
 ---
 
-## 🎭 Scène 3 : Les prétentions à la divinité
+## 📜 Scène 3 : Les prétentions à la divinité
 
 <div class="scene-box">
 

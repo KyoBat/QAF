@@ -37,7 +37,7 @@ All praise be to Allah who legislated prayer for us in the most perfect manner. 
 
 ---
 
-## 🎭 Scene: The Balance Between Sunnah and Obligation
+## 📜 Scene: The Balance Between Sunnah and Obligation
 
 <div class="scene-box">
 

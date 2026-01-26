@@ -13,7 +13,7 @@ After the conquest of Mecca and the victory at Hunayn, Islam reached a point of 
 
 ### The Decisive Turning Point
 
-> 🎭 **Scene** :
+> 📜 **Scene** :
 > 
 > The Arabs were waiting to see the outcome of the conflict between Muhammad ﷺ and Quraysh.
 > 
@@ -43,7 +43,7 @@ After the conquest of Mecca and the victory at Hunayn, Islam reached a point of 
 
 The same tribe that had stoned the Prophet ﷺ ten years earlier now came humbly...
 
-> 🎭 **Scene** :
+> 📜 **Scene** :
 > 
 > The chiefs of Thaqif arrived in Medina.
 > 
@@ -78,7 +78,7 @@ The same tribe that had stoned the Prophet ﷺ ten years earlier now came humbly
 
 A Christian delegation of 60 people came, dressed in silk, with golden crosses...
 
-> 🎭 **Scene** :
+> 📜 **Scene** :
 > 
 > They entered the Prophet's ﷺ mosque at the time of their prayer.
 > 
@@ -92,7 +92,7 @@ A Christian delegation of 60 people came, dressed in silk, with golden crosses..
 
 ### The Theological Debate
 
-> 🎭 **Scene** :
+> 📜 **Scene** :
 > 
 > The Prophet ﷺ called them to Islam.
 > 
@@ -112,7 +112,7 @@ A Christian delegation of 60 people came, dressed in silk, with golden crosses..
 
 ### The Moment of Truth
 
-> 🎭 **Scene** :
+> 📜 **Scene** :
 > 
 > The next morning, the Prophet ﷺ came out holding al-Husayn's hand, carrying al-Hasan, followed by Fatima and 'Ali.
 > 
@@ -132,7 +132,7 @@ A Christian delegation of 60 people came, dressed in silk, with golden crosses..
 
 ### 📜 Delegation of 'Abd al-Qays (Bahrain)
 
-> 🎭 **Scene** :
+> 📜 **Scene** :
 > 
 > The delegation of 'Abd al-Qays arrived.
 > 
@@ -169,7 +169,7 @@ The Prophet ﷺ commanded them **four things** and forbade them **four things**:
 
 ### 📜 Delegation of Tamim
 
-> 🎭 **Scene** :
+> 📜 **Scene** :
 > 
 > The Banu Tamim arrived and called out loudly in front of the Prophet's ﷺ chambers:
 > 
@@ -194,7 +194,7 @@ The Prophet ﷺ commanded them **four things** and forbade them **four things**:
 
 The kings of Yemen sent their allegiance by letter.
 
-> 🎭 **Scene** :
+> 📜 **Scene** :
 > 
 > The Prophet ﷺ received the letter from the kings of Himyar announcing their Islam.
 > 
@@ -206,7 +206,7 @@ The kings of Yemen sent their allegiance by letter.
 
 ### Instructions to Mu'adh
 
-> 🎭 **Scene** :
+> 📜 **Scene** :
 > 
 > When the Prophet ﷺ sent Mu'adh to Yemen, he said to him:
 > 
@@ -224,7 +224,7 @@ The kings of Yemen sent their allegiance by letter.
 
 ### The Question of Judgment
 
-> 🎭 **Scene** :
+> 📜 **Scene** :
 > 
 > The Prophet ﷺ asked Mu'adh:
 > 
@@ -324,7 +324,7 @@ The Year of Delegations marks the completion of the Prophet's ﷺ mission.
 
 Scholars say this surah was announcing to the Prophet ﷺ the end of his mission... and the approach of his death.
 
-> 🎭 **Scene** :
+> 📜 **Scene** :
 > 
 > When this surah was revealed, 'Umar understood and wept.
 > 

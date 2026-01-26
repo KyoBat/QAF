@@ -34,7 +34,7 @@ Louange à Allah qui a établi une réparation pour toute défaillance dans la p
 
 <div class="scene-box">
 
-**🎭 Hadith de Dhu al-Yadayn — Le fondement pour l'ajout**
+**📜 Hadith de Dhu al-Yadayn — Le fondement pour l'ajout**
 
 *Le Prophète ﷺ dirigeait les compagnons dans la prière du Dhuhr ou du 'Asr...*
 
@@ -78,7 +78,7 @@ Louange à Allah qui a établi une réparation pour toute défaillance dans la p
 
 <div class="scene-box">
 
-**🎭 Hadith d'Abdullah ibn Buhayna — Le fondement pour le manque**
+**📜 Hadith d'Abdullah ibn Buhayna — Le fondement pour le manque**
 
 *Le Prophète ﷺ dirigeait les compagnons dans la prière du Dhuhr...*
 

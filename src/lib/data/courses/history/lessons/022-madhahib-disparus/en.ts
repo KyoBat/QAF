@@ -8,7 +8,7 @@ export const content = `# 📚 The Extinct Madhabs
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 The four madhabs are not the only ones in Islamic history. There were dozens of legal schools that disappeared for various reasons. This lesson reviews the most important ones.
 
@@ -75,7 +75,7 @@ The four madhabs are not the only ones in Islamic history. There were dozens of 
 
 <div class="scene-box">
 
-**🎭 Story of the disappearance:**
+**📜 Story of the disappearance:**
 
 The madhab of al-Awza'i was **the official madhab of Sham and Andalusia** for centuries.
 

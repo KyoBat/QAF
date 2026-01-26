@@ -11,7 +11,7 @@ export const content = `# 💍 The Marriage to Khadîja — Tranquility, Love, a
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 ### A Marriage Written by Allah
 
@@ -66,7 +66,7 @@ He did not cheat, did not betray, did not lie...
 
 ---
 
-#### 🎭 How Did the Partnership Begin?
+#### 📜 How Did the Partnership Begin?
 
 > **The Scene**: In Mecca...
 >
@@ -98,7 +98,7 @@ Maysara, Khadija's servant, traveled with Muhammad ﷺ...
 
 ---
 
-#### 🎭 The Monk's Scene
+#### 📜 The Monk's Scene
 
 > When Muhammad ﷺ took shade under a tree near a monk's hermitage...
 >
@@ -187,7 +187,7 @@ Maysara, Khadija's servant, traveled with Muhammad ﷺ...
 
 ---
 
-### 🎭 Scene of the Proposal
+### 📜 Scene of the Proposal
 
 > **In Khadîja's House**:
 >
@@ -230,7 +230,7 @@ Maysara, Khadija's servant, traveled with Muhammad ﷺ...
 
 ---
 
-### 🎭 Scenes from Their Life Together
+### 📜 Scenes from Their Life Together
 
 > **Scene 1 — Material Support**:
 >
@@ -279,7 +279,7 @@ Maysara, Khadija's servant, traveled with Muhammad ﷺ...
 
 ### 💔 Loss of the Sons
 
-> 🎭 **The Trial**:
+> 📜 **The Trial**:
 >
 > **Al-Qâsim** died in infancy...
 >
@@ -323,7 +323,7 @@ Maysara, Khadija's servant, traveled with Muhammad ﷺ...
 
 ### ⚔️ The Crisis of the Black Stone
 
-> 🎭 **The Problem**:
+> 📜 **The Problem**:
 >
 > When they rebuilt and reached the placement of **the Black Stone**...
 >
@@ -337,7 +337,7 @@ Maysara, Khadija's servant, traveled with Muhammad ﷺ...
 
 ---
 
-### 🎭 The Brilliant Solution
+### 📜 The Brilliant Solution
 
 > **Abû Umayya ibn al-Mughîra** (the eldest):
 >
@@ -400,7 +400,7 @@ Maysara, Khadija's servant, traveled with Muhammad ﷺ...
 
 ---
 
-### 🎭 What Did He Do in the Cave?
+### 📜 What Did He Do in the Cave?
 
 > **Meditation**:
 >

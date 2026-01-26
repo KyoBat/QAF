@@ -12,7 +12,7 @@ export const content = `# 🌍 The Living Legacy — الإِرْثُ الحَي
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 The 4 imams died over **1200 years ago**. Yet, their influence is **more alive than ever**:
 - **Billions** of Muslims follow their schools

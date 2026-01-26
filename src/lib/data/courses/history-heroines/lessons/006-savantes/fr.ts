@@ -14,7 +14,7 @@ export const content = `
 
 ---
 
-## 🎬 Mise en Contexte
+## 📖 Mise en Contexte
 
 L'Islam a toujours valorisé les femmes savantes. Dès l'époque du Prophète ﷺ, des femmes transmirent le savoir, enseignèrent aux hommes comme aux femmes, et furent des autorités reconnues en hadith, fiqh et tafsīr.
 

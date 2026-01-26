@@ -28,7 +28,7 @@ Immediately after the Treaty of Hudaybiya, in **Muharram** of the seventh year o
 
 ### The Messenger: Dihya al-Kalbî
 
-> 🎭 **Scene**:
+> 📜 **Scene**:
 > 
 > The Prophet's ﷺ letter reached Heraclius while he was in Jerusalem, celebrating his victory over the Persians.
 > 
@@ -48,7 +48,7 @@ Immediately after the Treaty of Hudaybiya, in **Muharram** of the seventh year o
 
 ### The Interrogation of Abû Sufyân
 
-> 🎭 **Scene**:
+> 📜 **Scene**:
 > 
 > Heraclius asked that merchants from Quraysh be brought to him. They brought Abû Sufyân (before his conversion) and his companions.
 > 
@@ -67,7 +67,7 @@ Immediately after the Treaty of Hudaybiya, in **Muharram** of the seventh year o
 
 ### Heraclius's Analysis
 
-> 🎭 **Scene**:
+> 📜 **Scene**:
 > 
 > Heraclius said:
 > 
@@ -91,7 +91,7 @@ Heraclius did not convert publicly for fear of losing his kingdom, but he knew h
 
 ### The Messenger: 'Abdullah ibn Hudhâfa
 
-> 🎭 **Scene**:
+> 📜 **Scene**:
 > 
 > When Chosroes (Abrawîz) read the letter and saw it began with Muhammad's name before his, he flew into rage and shouted:
 > 
@@ -121,7 +121,7 @@ Heraclius did not convert publicly for fear of losing his kingdom, but he knew h
 
 ### The Messenger: Hâtib ibn Abî Balta'a
 
-> 🎭 **Scene**:
+> 📜 **Scene**:
 > 
 > The Muqawqis received Hâtib with respect and read the letter carefully.
 > 
@@ -147,7 +147,7 @@ The Prophet ﷺ married her, and she bore him his son Ibrâhîm who died in infa
 
 ### The Messenger: 'Amr ibn Umayya ad-Damrî
 
-> 🎭 **Scene**:
+> 📜 **Scene**:
 > 
 > The Negus Ashama had already secretly converted earlier.
 > 

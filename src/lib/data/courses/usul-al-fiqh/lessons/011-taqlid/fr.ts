@@ -11,9 +11,9 @@ export const contentFr = `# 📚 Le Taqlid — Le Suivi d'une École Juridique
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
-### 🎭 Scène : Le Nouveau Musulman et les Quatre Imams
+### 📜 Scène : Le Nouveau Musulman et les Quatre Imams
 
 > **Un jour, dans une mosquée...**
 >
@@ -35,7 +35,7 @@ export const contentFr = `# 📚 Le Taqlid — Le Suivi d'une École Juridique
 
 ---
 
-### 🎭 Scène : L'Imam Ahmad et le Questionnaire
+### 📜 Scène : L'Imam Ahmad et le Questionnaire
 
 > Un homme vint voir l'**Imam Ahmad** et lui dit :
 >
@@ -195,7 +195,7 @@ export const contentFr = `# 📚 Le Taqlid — Le Suivi d'une École Juridique
 
 ---
 
-## 🎭 Paroles des Imams sur le Taqlid
+## 📜 Paroles des Imams sur le Taqlid
 
 ### L'Imam Abu Hanifa
 

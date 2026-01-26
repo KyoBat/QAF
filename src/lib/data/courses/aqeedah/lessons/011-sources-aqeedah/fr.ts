@@ -9,7 +9,7 @@ export const content = `# 📜 Les Sources de la Croyance Authentique — مصا
 
 ---
 
-## 🎬 Prologue : La Boussole du Croyant
+## 📖 Prologue : La Boussole du Croyant
 
 <div class="scene-box">
 

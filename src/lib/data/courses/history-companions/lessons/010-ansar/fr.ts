@@ -12,7 +12,7 @@ export const content = `# 🏠 LES ANṢĀR — Ceux qui ont Tout Partagé
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 Les **Muhājirūn** ont tout quitté pour Allah.
 
@@ -112,7 +112,7 @@ Sa'd, blessé à la bataille, fut amené sur un âne.
 
 <div class="scene-box">
 
-**🎭 La Scène du Jugement**
+**📜 La Scène du Jugement**
 
 **Le Prophète ﷺ aux Anṣār :**
 « Levez-vous pour accueillir votre chef ! »

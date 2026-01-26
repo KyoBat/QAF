@@ -11,7 +11,7 @@ export const content = `# ⛓️ La Persécution des Musulmans — Ahadun Ahad
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 ### Le Début de la Grande Épreuve
 
@@ -63,7 +63,7 @@ Ils ciblèrent **les faibles** parmi les musulmans :
 
 ---
 
-### 🎭 La Scène — Le Rocher Brûlant
+### 📜 La Scène — Le Rocher Brûlant
 
 > **Le moment** : Un midi d'été brûlant...
 >
@@ -133,7 +133,7 @@ Ils ciblèrent **les faibles** parmi les musulmans :
 
 ---
 
-### 🎭 La Scène — Une Famille Sous la Torture
+### 📜 La Scène — Une Famille Sous la Torture
 
 > **Le lieu** : Les sables brûlants de La Mecque...
 >
@@ -205,7 +205,7 @@ Ils ciblèrent **les faibles** parmi les musulmans :
 
 ## 🔥 Khabbab ibn al-Aratt — Les Braises sur le Dos
 
-### 🎭 La Scène
+### 📜 La Scène
 
 > Khabbab était un **forgeron** qui fabriquait des épées...
 >
@@ -304,7 +304,7 @@ Ils ciblèrent **les faibles** parmi les musulmans :
 
 ---
 
-## 🎭 La Grande Confrontation — À la Cour du Négus
+## 📜 La Grande Confrontation — À la Cour du Négus
 
 ### La Délégation de Quraysh Poursuit les Musulmans
 
@@ -319,7 +319,7 @@ Ils ciblèrent **les faibles** parmi les musulmans :
 
 ---
 
-### 🎭 La Scène — Au Palais du Négus
+### 📜 La Scène — Au Palais du Négus
 
 > **Le lieu** : Le palais du Négus, en Abyssinie...
 >
@@ -339,7 +339,7 @@ Ils ciblèrent **les faibles** parmi les musulmans :
 
 ---
 
-### 🎭 Ja'far Prend la Parole — Le Discours de l'Islam
+### 📜 Ja'far Prend la Parole — Le Discours de l'Islam
 
 > Les musulmans entrèrent chez le Négus...
 >
@@ -435,7 +435,7 @@ Ils ciblèrent **les faibles** parmi les musulmans :
 
 ---
 
-### 🎭 La Dernière Tentative de 'Amr — Le Piège de Jésus
+### 📜 La Dernière Tentative de 'Amr — Le Piège de Jésus
 
 > 'Amr ibn al-'As ne désespéra pas...
 >

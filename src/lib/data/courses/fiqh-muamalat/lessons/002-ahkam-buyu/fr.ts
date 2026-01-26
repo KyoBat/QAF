@@ -2,7 +2,7 @@ export const contentFr = `# 🏪 Les Règles de la Vente — La science du comme
 
 <div class="scene-box">
 
-**🎬 Scène d'ouverture : Au marché de Médine**
+**📖 Scène d'ouverture : Au marché de Médine**
 
 *Le marché de Médine... Le soleil envoie ses rayons dorés sur les vendeurs et les acheteurs...*
 
@@ -385,7 +385,7 @@ Le Prophète ﷺ a dit :
 
 <div class="scene-box">
 
-**🎬 Histoire : L'honnêteté du savant**
+**📖 Histoire : L'honnêteté du savant**
 
 *Il est rapporté qu'al-Hassan al-Basri, qu'Allah lui fasse miséricorde, voulait vendre son âne...*
 

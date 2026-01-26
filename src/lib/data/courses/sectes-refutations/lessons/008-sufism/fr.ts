@@ -38,7 +38,7 @@ Le soufisme est un phénomène complexe qui oscille entre l'ascétisme légitime
 
 <div class="scene-box">
 
-**🎭 Scène 1 : Al-Hasan al-Basri — L'ascétisme véritable**
+**📜 Scène 1 : Al-Hasan al-Basri — L'ascétisme véritable**
 
 **Basra — Début du 2ème siècle H**
 
@@ -142,7 +142,7 @@ La Voie Soufie (as-Suluk)
 
 <div class="scene-box">
 
-**🎭 Scène 2 : Du bandit au saint — La conversion d'al-Fudayl**
+**📜 Scène 2 : Du bandit au saint — La conversion d'al-Fudayl**
 
 **Quelque part entre le Khorasan et la Mecque — 2ème siècle H**
 
@@ -181,7 +181,7 @@ La Voie Soufie (as-Suluk)
 
 <div class="scene-box">
 
-**🎭 Scène 3 : "Je suis la Vérité !" — Les paroles fatales d'al-Hallaj**
+**📜 Scène 3 : "Je suis la Vérité !" — Les paroles fatales d'al-Hallaj**
 
 **Bagdad — 309 H**
 
@@ -263,7 +263,7 @@ La Voie Soufie (as-Suluk)
 
 <div class="scene-box">
 
-**🎭 Scène 4 : Scène courante dans certains pays musulmans**
+**📜 Scène 4 : Scène courante dans certains pays musulmans**
 
 **Près de la tombe d'un "wali" — De nos jours**
 

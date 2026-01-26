@@ -5,7 +5,7 @@ export const contentFr = `# 🕌 Les Sectes en Islam — Introduction et Méthod
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 L'étude des sectes islamiques est une **science fondamentale** pour tout étudiant en sciences religieuses. Elle n'est pas faite pour diviser ou excommunier, mais pour **protéger la croyance**, **distinguer le vrai du faux**, et **comprendre l'histoire intellectuelle de l'Islam**.
 
@@ -72,7 +72,7 @@ Types de Divergence
 
 <div class="scene-box">
 
-**🎭 SCÈNE : Comprendre la Différence — Cercle de Science, Médine**
+**📜 SCÈNE : Comprendre la Différence — Cercle de Science, Médine**
 
 *Deux étudiants discutent après le cours.*
 
@@ -109,7 +109,7 @@ Types de Divergence
 
 <div class="scene-box">
 
-**🎭 SCÈNE : 'Abdullah ibn Saba' — La Graine de la Fitna (~35 H)**
+**📜 SCÈNE : 'Abdullah ibn Saba' — La Graine de la Fitna (~35 H)**
 
 *Un homme du Yémen, juif récemment converti, voyage de ville en ville.*
 
@@ -222,7 +222,7 @@ Conditions pour Excommunier un Individu
 
 <div class="scene-box">
 
-**🎭 SCÈNE : La Question de Hudhayfah — Médine, Époque Prophétique**
+**📜 SCÈNE : La Question de Hudhayfah — Médine, Époque Prophétique**
 
 *Hudhayfah s'approche du Prophète ﷺ avec une question que personne d'autre n'osait poser.*
 
@@ -267,7 +267,7 @@ Conditions pour Excommunier un Individu
 
 <div class="scene-box">
 
-**🎭 SCÈNE : Le Jeune Prédicateur — Mosquée Locale, Aujourd'hui**
+**📜 SCÈNE : Le Jeune Prédicateur — Mosquée Locale, Aujourd'hui**
 
 *Un jeune homme revient d'un voyage d'études. Il commence à classifier tous ceux qu'il rencontre.*
 

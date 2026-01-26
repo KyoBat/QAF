@@ -28,7 +28,7 @@ Le **17 Ramadan** de la deuxième année de l'Hégire eut lieu la première bata
 
 ### Le Prophète ﷺ apprend la nouvelle de la caravane
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > La nouvelle parvint au Prophète ﷺ qu'une importante caravane de Quraysh, dirigée par Abû Sufyân, passait près de Médine, transportant des richesses considérables.
 > 
@@ -47,7 +47,7 @@ Le Prophète ﷺ consulta ses compagnons, et trois d'entre eux prononcèrent des
 > "Ô Messager d'Allah, c'est Quraysh et sa puissance. Par Allah, elle ne s'est jamais abaissée depuis qu'elle s'est élevée, et n'a jamais cru depuis qu'elle a mécru. Mais nous combattrons à tes côtés."
 
 **Al-Miqdâd ibn 'Amr رضي الله عنه :**
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > "Ô Messager d'Allah, va vers ce qu'Allah t'a montré, nous sommes avec toi. Par Allah, nous ne te dirons pas comme les Fils d'Israël à Moïse : 'Va, toi et ton Seigneur, et combattez, nous restons ici.' Mais plutôt : 'Va, toi et ton Seigneur, et combattez, nous combattrons avec vous !'"
 > 
@@ -56,7 +56,7 @@ Le Prophète ﷺ consulta ses compagnons, et trois d'entre eux prononcèrent des
 > — **Source : Sahîh Muslim**
 
 **Sa'd ibn Mu'âdh رضي الله عنه (chef des Ansars) :**
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > "Ô Messager d'Allah, nous avons cru en toi et t'avons reconnu véridique. Va où tu voudras, nous sommes avec toi. Par Celui qui t'a envoyé avec la vérité, si tu nous conduisais vers cette mer et y plongeais, nous y plongerions avec toi, pas un seul d'entre nous ne resterait en arrière !"
 > 
@@ -79,7 +79,7 @@ Le Prophète ﷺ consulta ses compagnons, et trois d'entre eux prononcèrent des
 
 Al-Hubâb ibn al-Mundhir choisit une position stratégique :
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Al-Hubâb dit : "Ô Messager d'Allah, cet emplacement est-il un endroit qu'Allah t'a ordonné d'occuper, dont nous ne devons ni avancer ni reculer, ou bien est-ce l'avis, la stratégie et la ruse ?"
 > 
@@ -97,7 +97,7 @@ Al-Hubâb ibn al-Mundhir choisit une position stratégique :
 
 ### L'invocation du Prophète ﷺ
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Le Prophète ﷺ se leva pour prier et invoquer toute la nuit, levant ses mains vers le ciel :
 > 
@@ -133,7 +133,7 @@ Trois champions de Quraysh sortirent demander le combat singulier :
 
 ### L'attitude d'Abû Jahl
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Abû Jahl se tenait debout avec arrogance, incitant son armée :
 > 
@@ -166,7 +166,7 @@ Trois champions de Quraysh sortirent demander le combat singulier :
 
 ### Le moment de la mort d'Abû Jahl
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Deux jeunes garçons des Ansars s'approchèrent de 'Abd ar-Rahmân ibn 'Awf :
 > 
@@ -201,7 +201,7 @@ Le Prophète ﷺ fit preuve d'une grande miséricorde :
 | L'enseignement | Celui qui apprend à lire et écrire à 10 enfants musulmans est libéré |
 | La grâce | Certains furent libérés sans rançon |
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Le Prophète ﷺ dit à ses compagnons : "Traitez bien les prisonniers."
 > 

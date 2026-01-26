@@ -11,9 +11,9 @@ export const contentFr = `# ⚖️ Les Statuts Légaux — Les Cinq Qualificatio
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
-### 🎭 Scène : Le Compagnon et le Miel
+### 📜 Scène : Le Compagnon et le Miel
 
 > **Médine, à l'époque du Prophète ﷺ...**
 >
@@ -35,7 +35,7 @@ export const contentFr = `# ⚖️ Les Statuts Légaux — Les Cinq Qualificatio
 
 ---
 
-### 🎭 Scène : La Question de l'Obligation
+### 📜 Scène : La Question de l'Obligation
 
 > Un étudiant demanda à son professeur :
 >

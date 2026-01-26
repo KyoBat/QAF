@@ -11,7 +11,7 @@ export const content = `# 📜 Read! — The Night of the First Revelation
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 ### A Night That Changed History
 
@@ -53,7 +53,7 @@ A forty-year-old man was meditating alone...
 
 ### 💭 Why Was He Meditating?
 
-> 🎭 **The Scene**: In the darkness of the cave...
+> 📜 **The Scene**: In the darkness of the cave...
 >
 > Muhammad ﷺ would contemplate the sky and stars...
 >
@@ -82,7 +82,7 @@ A forty-year-old man was meditating alone...
 
 ---
 
-### 🎭 The Supreme Scene — The Moment of Revelation
+### 📜 The Supreme Scene — The Moment of Revelation
 
 > **In the darkness of the cave**...
 >
@@ -127,7 +127,7 @@ A forty-year-old man was meditating alone...
 
 ## 🏠 The Return to Khadijah — Cover Me!
 
-### 🎭 The Scene of Return
+### 📜 The Scene of Return
 
 > **He descended from the mountain** with his heart trembling...
 >
@@ -195,7 +195,7 @@ A forty-year-old man was meditating alone...
 
 ---
 
-### 🎭 The Meeting with Waraqah
+### 📜 The Meeting with Waraqah
 
 > **Khadijah took him** to her cousin Waraqah...
 >
@@ -249,7 +249,7 @@ A forty-year-old man was meditating alone...
 
 ### 😔 The Prophet's Suffering ﷺ
 
-> 🎭 **The Scene**:
+> 📜 **The Scene**:
 >
 > The Revelation stopped...
 >
@@ -276,7 +276,7 @@ A forty-year-old man was meditating alone...
 
 ## 🌟 The Return of Revelation — O You Who Covers Himself!
 
-### 🎭 The Scene of Return
+### 📜 The Scene of Return
 
 > **The Hadith**: The Prophet ﷺ said:
 >

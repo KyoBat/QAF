@@ -37,7 +37,7 @@ In **Shawwâl** of the third year of Hijra, Quraysh came to avenge their defeat 
 
 ### The Consultation in Medina
 
-> 🎭 **Scene**:
+> 📜 **Scene**:
 > 
 > Opinions differed among the companions:
 > 
@@ -66,7 +66,7 @@ In **Shawwâl** of the third year of Hijra, Quraysh came to avenge their defeat 
 
 ### The Withdrawal of the Hypocrites
 
-> 🎭 **Scene**:
+> 📜 **Scene**:
 > 
 > On the way to Uhud, 'Abdullah ibn Ubayy withdrew with a third of the army (300 men), saying:
 > 
@@ -85,7 +85,7 @@ In **Shawwâl** of the third year of Hijra, Quraysh came to avenge their defeat 
 | Commander | 'Abdullah ibn Jubayr |
 | Order | "Do not leave your positions, whether we win or lose" |
 
-> 🎭 **Scene**:
+> 📜 **Scene**:
 > 
 > The Prophet ﷺ said to the archers:
 > 
@@ -108,7 +108,7 @@ In **Shawwâl** of the third year of Hijra, Quraysh came to avenge their defeat 
 
 ### The Martyrdom of Hamza رضي الله عنه
 
-> 🎭 **Scene**:
+> 📜 **Scene**:
 > 
 > Wahshî ibn Harb was an Abyssinian slave. Hind bint 'Utba promised him freedom if he killed Hamza.
 > 
@@ -126,7 +126,7 @@ In **Shawwâl** of the third year of Hijra, Quraysh came to avenge their defeat 
 
 ### What Happened?
 
-> 🎭 **Scene**:
+> 📜 **Scene**:
 > 
 > When the archers saw the Muslims winning and gathering the spoils, some said:
 > 
@@ -155,7 +155,7 @@ In **Shawwâl** of the third year of Hijra, Quraysh came to avenge their defeat 
 
 ### The Prophet's ﷺ Injuries
 
-> 🎭 **Scene**:
+> 📜 **Scene**:
 > 
 > In the chaos, the polytheists reached the Prophet ﷺ:
 > 
@@ -181,7 +181,7 @@ In **Shawwâl** of the third year of Hijra, Quraysh came to avenge their defeat 
 
 ### Abû Talha the Hero
 
-> 🎭 **Scene**:
+> 📜 **Scene**:
 > 
 > Abû Talha was shielding the Prophet ﷺ with his chest, saying:
 > 
@@ -215,7 +215,7 @@ In **Shawwâl** of the third year of Hijra, Quraysh came to avenge their defeat 
 
 ### The One Washed by the Angels
 
-> 🎭 **Scene**:
+> 📜 **Scene**:
 > 
 > Hanzala ibn Abî 'Âmir had married the night before the battle. When he heard the call to battle, he went out in a state of ritual impurity.
 > 

@@ -11,9 +11,9 @@ export const contentEn = `# ✅❌ Valid and Invalid Marriage — Knowing the Di
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
-### 🎭 Scene: The Shocking Discovery
+### 📜 Scene: The Shocking Discovery
 
 > **Years after their marriage...**
 >
@@ -37,7 +37,7 @@ export const contentEn = `# ✅❌ Valid and Invalid Marriage — Knowing the Di
 
 ---
 
-### 🎭 Scene: The Marriage That Was Fixed
+### 📜 Scene: The Marriage That Was Fixed
 
 > **In the imam's office...**
 >

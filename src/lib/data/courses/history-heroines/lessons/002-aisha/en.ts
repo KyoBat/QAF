@@ -14,7 +14,7 @@ export const content = `# 📜 عَائِشَةُ بِنْتُ أَبِي بَك
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 'Āisha bint Abī Bakr رضي الله عنها is not merely the beloved wife of the Prophet ﷺ — she is the **greatest female scholar** in the history of Islam. A jurist, hadith scholar, physician, poetess, and historian, her knowledge shaped the religion of billions of Muslims.
 
@@ -105,7 +105,7 @@ Allah Himself revealed her innocence in **10 verses** of Surah al-Nūr:
 > "Those who brought forth the slander are a group among you. Do not think it is bad for you; rather, it is good for you."
 > — **[Surah al-Nūr, 24:11]**
 
-> 🎭 **SCENE — Innocence Revealed**
+> 📜 **SCENE — Innocence Revealed**
 >
 > 'Āisha said: "By Allah, I never thought that Allah would reveal concerning me a Quran to be recited. I considered myself too insignificant for Allah to speak about me. But I hoped the Prophet ﷺ would see a dream clearing me."
 > — **[Al-Bukhārī 4141]**
@@ -192,7 +192,7 @@ She corrected the mistakes of senior Companions:
 | **Outcome** | Defeat, reconciliation with 'Alī |
 | **Regret** | She regretted her involvement |
 
-> 🎭 **SCENE — The Regret**
+> 📜 **SCENE — The Regret**
 >
 > 'Āisha said: "I would have preferred to give birth to ten sons from the Messenger of Allah ﷺ rather than to have participated in the Battle of the Camel."
 

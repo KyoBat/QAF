@@ -13,7 +13,7 @@ Après la conquête de La Mecque et la victoire de Hunayn, l'Islam atteint un po
 
 ### Le Tournant Décisif
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Les Arabes attendaient l'issue du conflit entre Muhammad ﷺ et Quraysh.
 > 
@@ -43,7 +43,7 @@ Après la conquête de La Mecque et la victoire de Hunayn, l'Islam atteint un po
 
 La même tribu qui avait lapidé le Prophète ﷺ dix ans plus tôt vient maintenant humblement...
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Les chefs de Thaqif arrivèrent à Médine.
 > 
@@ -78,7 +78,7 @@ La même tribu qui avait lapidé le Prophète ﷺ dix ans plus tôt vient mainte
 
 Une délégation chrétienne de 60 personnes vint, vêtue de soie, avec des croix d'or...
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Ils entrèrent dans la mosquée du Prophète ﷺ à l'heure de leur prière.
 > 
@@ -92,7 +92,7 @@ Une délégation chrétienne de 60 personnes vint, vêtue de soie, avec des croi
 
 ### Le Débat Théologique
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Le Prophète ﷺ les appela à l'Islam.
 > 
@@ -112,7 +112,7 @@ Une délégation chrétienne de 60 personnes vint, vêtue de soie, avec des croi
 
 ### Le Moment de Vérité
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Le lendemain matin, le Prophète ﷺ sortit tenant la main d'al-Husayn, portant al-Hasan, suivi de Fatima et 'Ali.
 > 
@@ -132,7 +132,7 @@ Une délégation chrétienne de 60 personnes vint, vêtue de soie, avec des croi
 
 ### 📜 Délégation de 'Abd al-Qays (Bahreïn)
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > La délégation de 'Abd al-Qays arriva.
 > 
@@ -169,7 +169,7 @@ Le Prophète ﷺ leur ordonna **quatre choses** et leur interdit **quatre choses
 
 ### 📜 Délégation de Tamim
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Les Banu Tamim arrivèrent et appelèrent bruyamment devant les appartements du Prophète ﷺ :
 > 
@@ -194,7 +194,7 @@ Le Prophète ﷺ leur ordonna **quatre choses** et leur interdit **quatre choses
 
 Les rois du Yémen envoyèrent leur allégeance par lettre.
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Le Prophète ﷺ reçut la lettre des rois de Himyar annonçant leur Islam.
 > 
@@ -206,7 +206,7 @@ Les rois du Yémen envoyèrent leur allégeance par lettre.
 
 ### Instructions à Mu'adh
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Quand le Prophète ﷺ envoya Mu'adh au Yémen, il lui dit :
 > 
@@ -224,7 +224,7 @@ Les rois du Yémen envoyèrent leur allégeance par lettre.
 
 ### La Question du Jugement
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Le Prophète ﷺ demanda à Mu'adh :
 > 
@@ -324,7 +324,7 @@ L'Année des Délégations marque l'achèvement de la mission du Prophète ﷺ.
 
 Les savants disent que cette sourate annonçait au Prophète ﷺ la fin de sa mission... et l'approche de sa mort.
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Quand cette sourate fut révélée, 'Umar comprit et pleura.
 > 

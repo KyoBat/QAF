@@ -11,7 +11,7 @@ export const content = `# 👥 The Pioneers — The First Muslims
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 ### Three Years in Secrecy
 
@@ -53,7 +53,7 @@ Thus began **three years** of secret preaching...
 
 ## 👑 The First Four — The Very First Believers
 
-### 🎭 The Opening Scene
+### 📜 The Opening Scene
 
 > In the early days of the prophetic mission...
 >
@@ -75,7 +75,7 @@ Thus began **three years** of secret preaching...
 | **Category** | First woman |
 | **Attitude** | She believed upon his return from Hira cave |
 
-> 🎭 **The Scene**:
+> 📜 **The Scene**:
 >
 > The Prophet ﷺ returned from the cave trembling...
 >
@@ -102,7 +102,7 @@ Thus began **three years** of secret preaching...
 
 ---
 
-#### 🎭 The Scene of Abu Bakr's Conversion
+#### 📜 The Scene of Abu Bakr's Conversion
 
 > **The Prophet ﷺ**: O Abu Bakr, Allah has sent me as a messenger to the people...
 >
@@ -142,7 +142,7 @@ Thus began **three years** of secret preaching...
 
 ---
 
-#### 🎭 The Scene of Ali's Conversion
+#### 📜 The Scene of Ali's Conversion
 
 > Ali saw the Prophet ﷺ and Khadijah praying...
 >
@@ -173,7 +173,7 @@ Thus began **three years** of secret preaching...
 
 ---
 
-#### 🎭 Zayd's Moving Story
+#### 📜 Zayd's Moving Story
 
 > Zayd's **father** came looking for his kidnapped son...
 >
@@ -242,7 +242,7 @@ Thus began **three years** of secret preaching...
 
 ---
 
-### 🎭 The Scene at Dar al-Arqam
+### 📜 The Scene at Dar al-Arqam
 
 > In a small house on Mount Safa...
 >
@@ -317,7 +317,7 @@ Thus began **three years** of secret preaching...
 | **Conversion** | Among the very first Muslims |
 | **Fate** | Tortured then freed |
 
-> 🎭 **The Scene**:
+> 📜 **The Scene**:
 >
 > Bilal was thrown on the burning sands of Mecca...
 >

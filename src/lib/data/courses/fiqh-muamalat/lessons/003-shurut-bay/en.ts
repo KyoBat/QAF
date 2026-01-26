@@ -2,7 +2,7 @@ export const contentEn = `# ⚖️ Conditions of Sale — The Rules That Protect
 
 <div class="scene-box">
 
-**🎬 Opening Scene: A Lesson at Kufa Mosque**
+**📖 Opening Scene: A Lesson at Kufa Mosque**
 
 *Kufa Mosque... A circle of knowledge surrounds Imam Ibrahim an-Nakha'i, may Allah have mercy on him...*
 
@@ -61,7 +61,7 @@ The Prophet ﷺ said:
 
 <div class="scene-box">
 
-**🎬 Scene: At the Store**
+**📖 Scene: At the Store**
 
 *A man unconscious due to intoxication enters a store...*
 
@@ -86,7 +86,7 @@ The Prophet ﷺ said:
 
 <div class="scene-box">
 
-**🎬 Scene: The Child and the Grocery Store**
+**📖 Scene: The Child and the Grocery Store**
 
 *Ahmad (10 years old) goes to the grocery store with his father's permission to buy bread...*
 
@@ -143,7 +143,7 @@ Allah تعالى said:
 
 <div class="scene-box">
 
-**🎬 Scene: Sale of the Non-Existent**
+**📖 Scene: Sale of the Non-Existent**
 
 **The Seller:** I'll sell you the fetus in this cow's womb for a thousand!
 
@@ -213,7 +213,7 @@ The Prophet ﷺ said:
 
 <div class="scene-box">
 
-**🎬 Scene: Sale of the Undeliverable**
+**📖 Scene: Sale of the Undeliverable**
 
 **The Seller:** I'll sell you this pigeon flying in the sky!
 
@@ -274,7 +274,7 @@ The Prophet ﷺ said:
 
 <div class="scene-box">
 
-**🎬 Scene: The Unknown Price**
+**📖 Scene: The Unknown Price**
 
 **The Seller:** I'll sell you the car for whatever price you think is fair!
 
@@ -342,7 +342,7 @@ The Prophet ﷺ said:
 
 <div class="scene-box">
 
-**🎬 Story: Honesty in Conditions**
+**📖 Story: Honesty in Conditions**
 
 *A man came to Imam Ahmad ibn Hanbal, may Allah have mercy on him...*
 

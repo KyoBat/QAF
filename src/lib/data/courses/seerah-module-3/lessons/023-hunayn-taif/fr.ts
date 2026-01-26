@@ -39,7 +39,7 @@ Immédiatement après la conquête de La Mecque (Shawwal an 8 H), les tribus Haw
 | Chef | Malik ibn 'Awf al-Nasri |
 | Stratégie | Embuscade dans la vallée de Hunayn |
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Durayd ibn al-Simma (un vieux cheikh aveugle, expert en guerre) dit à Malik :
 > 
@@ -57,7 +57,7 @@ Immédiatement après la conquête de La Mecque (Shawwal an 8 H), les tribus Haw
 
 ### L'Orgueil Avant la Bataille
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Certains musulmans regardèrent leur grande armée et dirent :
 > 
@@ -70,7 +70,7 @@ Immédiatement après la conquête de La Mecque (Shawwal an 8 H), les tribus Haw
 
 ### L'Embuscade Foudroyante
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > À l'aube du jour suivant, l'armée entra dans l'étroite vallée de Hunayn.
 > 
@@ -88,7 +88,7 @@ Immédiatement après la conquête de La Mecque (Shawwal an 8 H), les tribus Haw
 
 ### Le Moment Décisif
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Tandis que les gens fuyaient, le Prophète ﷺ resta ferme sur sa mule blanche (Duldul).
 > 
@@ -102,7 +102,7 @@ Immédiatement après la conquête de La Mecque (Shawwal an 8 H), les tribus Haw
 
 ### L'Appel
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Le Prophète ﷺ ordonna à son oncle al-'Abbas (qui avait une voix très puissante) de crier :
 > 
@@ -122,7 +122,7 @@ Immédiatement après la conquête de La Mecque (Shawwal an 8 H), les tribus Haw
 
 ### La Poignée de Gravier
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Le Prophète ﷺ prit une poignée de gravier et la jeta vers l'ennemi en disant :
 > 
@@ -153,7 +153,7 @@ Immédiatement après la conquête de La Mecque (Shawwal an 8 H), les tribus Haw
 
 Après Hunayn, les restes de Hawazin s'enfuirent à Ta'if où Thaqif s'était fortifiée.
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Le Prophète ﷺ arriva avec son armée à Ta'if.
 > 
@@ -169,7 +169,7 @@ Après Hunayn, les restes de Hawazin s'enfuirent à Ta'if où Thaqif s'était fo
 
 ### La Décision de Se Retirer
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Le Prophète ﷺ consulta Nawfal ibn Mu'awiya :
 > 
@@ -193,7 +193,7 @@ Après Hunayn, les restes de Hawazin s'enfuirent à Ta'if où Thaqif s'était fo
 
 ### Les Cœurs à Rallier
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Le Prophète ﷺ distribua le butin à al-Ji'rana.
 > 
@@ -207,7 +207,7 @@ Après Hunayn, les restes de Hawazin s'enfuirent à Ta'if où Thaqif s'était fo
 
 ### La Colère des Ansar
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Certains jeunes Ansar parlèrent :
 > 
@@ -219,7 +219,7 @@ Après Hunayn, les restes de Hawazin s'enfuirent à Ta'if où Thaqif s'était fo
 
 ### Le Discours des Larmes
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Le Prophète ﷺ dit :
 > 
@@ -247,7 +247,7 @@ Après Hunayn, les restes de Hawazin s'enfuirent à Ta'if où Thaqif s'était fo
 
 ### Les Prisonniers de Hawazin
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Une délégation de Hawazin vint, convertie à l'Islam, demander leurs prisonniers.
 > 

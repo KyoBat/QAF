@@ -14,7 +14,7 @@ export const content = `
 
 ---
 
-## 🎬 Historical Context
+## 📖 Historical Context
 
 In the early years of Islam, the most **vulnerable** converts — slaves, freedmen, unprotected women — paid the heaviest price. Among them, extraordinary women chose **death** over apostasy. Their blood founded the foundations of our religion.
 

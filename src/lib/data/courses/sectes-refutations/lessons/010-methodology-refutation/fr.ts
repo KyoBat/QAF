@@ -34,7 +34,7 @@ Après avoir étudié les principales sectes, leurs croyances et leurs déviatio
 
 <div class="scene-box">
 
-**🎭 Scène 1 : L'Imam Ahmad et la nuance capitale**
+**📜 Scène 1 : L'Imam Ahmad et la nuance capitale**
 
 **Bagdad — Après la Mihna**
 
@@ -102,7 +102,7 @@ Conditions du Takfir
 
 <div class="scene-box">
 
-**🎭 Scène 2 : L'Ilzam — Faire tomber l'opposant dans sa propre contradiction**
+**📜 Scène 2 : L'Ilzam — Faire tomber l'opposant dans sa propre contradiction**
 
 **Dialogue entre un Sunnite et un Jahmite**
 
@@ -174,7 +174,7 @@ Les Niveaux de Divergence
 
 <div class="scene-box">
 
-**🎭 Scène 3 : L'erreur fatale — Réfuter sans comprendre**
+**📜 Scène 3 : L'erreur fatale — Réfuter sans comprendre**
 
 **Dialogue entre deux étudiants**
 
@@ -230,7 +230,7 @@ Les Niveaux de Divergence
 
 <div class="scene-box">
 
-**🎭 Scène 4 : Le débat légendaire de Harura**
+**📜 Scène 4 : Le débat légendaire de Harura**
 
 **Harura, près de Kufa — 37 H**
 

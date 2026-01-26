@@ -11,7 +11,7 @@ export const content = `# 🌍 THE LEGACY OF THE COMPANIONS — Their Impact Tod
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 We have studied the Companions—their lives, their sacrifices, their trials.
 

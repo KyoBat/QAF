@@ -12,7 +12,7 @@ export const content = `# ⚖️ Scholarly Perspectives — آراء المَذ�
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 After seeing the **agreements** (90% of fiqh), let's now explore the **different perspectives** — these 10% that make the richness of the Islamic legal heritage.
 

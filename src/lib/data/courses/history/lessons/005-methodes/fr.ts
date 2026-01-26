@@ -14,7 +14,7 @@ export const content = `# 📐 مَنَاهِجُهُمْ فِي الاسْتِ�
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 Pourquoi avons-nous **quatre écoles** et non une seule ? Pourquoi un hanafite prie-t-il différemment d'un malikite sur certains points ?
 

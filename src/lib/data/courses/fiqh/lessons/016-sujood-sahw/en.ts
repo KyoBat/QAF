@@ -34,7 +34,7 @@ All praise be to Allah who established a remedy for every deficiency in prayer. 
 
 <div class="scene-box">
 
-**🎭 Hadith of Dhu al-Yadayn — The Foundation for Addition**
+**📜 Hadith of Dhu al-Yadayn — The Foundation for Addition**
 
 *The Prophet ﷺ was leading the companions in the Dhuhr or 'Asr prayer...*
 
@@ -78,7 +78,7 @@ All praise be to Allah who established a remedy for every deficiency in prayer. 
 
 <div class="scene-box">
 
-**🎭 Hadith of Abdullah ibn Buhayna — The Foundation for Omission**
+**📜 Hadith of Abdullah ibn Buhayna — The Foundation for Omission**
 
 *The Prophet ﷺ was leading the companions in the Dhuhr prayer...*
 

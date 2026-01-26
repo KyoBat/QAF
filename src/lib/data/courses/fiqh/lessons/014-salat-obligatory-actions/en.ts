@@ -13,7 +13,7 @@ All praise be to Allah who perfected the religion for us. May peace and blessing
 
 ---
 
-## 🎭 Scene: Forgetting the Tashahhud
+## 📜 Scene: Forgetting the Tashahhud
 
 <div class="scene-box">
 
@@ -41,7 +41,7 @@ All praise be to Allah who perfected the religion for us. May peace and blessing
 
 ---
 
-## 🎭 Scene: The Difference Between Pillar and Obligation
+## 📜 Scene: The Difference Between Pillar and Obligation
 
 <div class="scene-box">
 

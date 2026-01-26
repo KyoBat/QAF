@@ -5,7 +5,7 @@ export const contentEn = `# 🏛️ The Asha'irah and Maturidiyyah — Between K
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 The **Asha'irah** and the **Maturidiyyah** are today the two largest theological schools in the Muslim world. Millions of Muslims follow their creed, often without knowing it.
 
@@ -29,7 +29,7 @@ Historically, these schools emerged to **defend Islam against the Mu'tazilah**, 
 
 <div class="scene-box">
 
-**🎭 SCENE: The Conversion — Basra, ~300 H**
+**📜 SCENE: The Conversion — Basra, ~300 H**
 
 *Abu al-Hasan al-Ash'ari, a Mu'tazilite for 40 years, secludes himself at home during Ramadan. Then he goes out to the main mosque.*
 
@@ -105,7 +105,7 @@ The Asha'irah only affirm **7 attributes** which they call "attributes of meanin
 
 <div class="scene-box">
 
-**🎭 SCENE: The Debate on Attributes**
+**📜 SCENE: The Debate on Attributes**
 
 **Sunni**: "Why do you affirm that Allah hears but deny that He has a Hand?"
 
@@ -188,7 +188,7 @@ Both schools share:
 
 <div class="scene-box">
 
-**🎭 SCENE: The Regret of Fakhr ad-Din ar-Razi — 606 H**
+**📜 SCENE: The Regret of Fakhr ad-Din ar-Razi — 606 H**
 
 *Ar-Razi, on his deathbed, dictates his final words.*
 
@@ -204,7 +204,7 @@ Both schools share:
 
 <div class="scene-box">
 
-**🎭 SCENE: The Regret of al-Juwayni — 478 H**
+**📜 SCENE: The Regret of al-Juwayni — 478 H**
 
 *Imam al-Haramayn al-Juwayni, shortly before his death.*
 
@@ -333,7 +333,7 @@ Be careful with passages on the Attributes, but benefit from the immense science
 
 <div class="scene-box">
 
-**🎭 SCENE: The Sheikh's Advice**
+**📜 SCENE: The Sheikh's Advice**
 
 **Sheikh**: "Do you reject Fath al-Bari?"
 

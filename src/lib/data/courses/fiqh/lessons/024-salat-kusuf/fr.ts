@@ -68,7 +68,7 @@ Toutes les écoles s'accordent : c'est une **Sunna Mu'akkada** (fortement recomm
 
 <div class="scene-box">
 
-**🎭 La Scène de l'Éclipse le Jour de la Mort d'Ibrahim**
+**📜 La Scène de l'Éclipse le Jour de la Mort d'Ibrahim**
 
 *Le soleil s'éclipsa le jour où mourut Ibrahim, le fils du Prophète ﷺ...*
 

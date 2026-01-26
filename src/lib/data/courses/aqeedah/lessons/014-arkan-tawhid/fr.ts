@@ -9,7 +9,7 @@ export const content = `# 🌟 Les Piliers et Catégories du Tawhid — أقسا
 
 ---
 
-## 🎬 Prologue : Le Droit Suprême d'Allah
+## 📖 Prologue : Le Droit Suprême d'Allah
 
 <div class="scene-box">
 

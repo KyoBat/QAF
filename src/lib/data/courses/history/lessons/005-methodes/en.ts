@@ -12,7 +12,7 @@ export const content = `# 📐 Their Methodologies — مَنَاهِجُهُم�
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 Why do we have **four schools** and not just one? Why does a Hanafi pray differently from a Maliki on certain points?
 

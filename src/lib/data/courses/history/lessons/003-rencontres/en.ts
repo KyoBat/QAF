@@ -12,7 +12,7 @@ export const content = `# 🤝 When the Imams Met — لِقَاءَاتُ ال�
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 Islamic history offers us extraordinary moments: instances where these giants of knowledge **actually met**. These encounters were not hostile confrontations, but dialogues of incredible intellectual richness.
 
@@ -49,7 +49,7 @@ Two different approaches, two different cities, but deep mutual respect.
 
 <div class="scene-box">
 
-**🎭 At the Prophet's Mosque — Around 150 AH**
+**📜 At the Prophet's Mosque — Around 150 AH**
 
 *During the Hajj season, Abū Ḥanīfa entered the Prophet's Mosque. Mālik was sitting in his circle, teaching students.*
 
@@ -75,7 +75,7 @@ Two different approaches, two different cities, but deep mutual respect.
 
 <div class="scene-box">
 
-**🎭 After the Debate**
+**📜 After the Debate**
 
 *After Abū Ḥanīfa left, Mālik turned to his students:*
 
@@ -103,7 +103,7 @@ These two giants met, debated, then **parted with mutual respect**. Neither accu
 
 <div class="scene-box">
 
-**🎭 The Arrival of the Young Qurayshite — Medina 163 AH**
+**📜 The Arrival of the Young Qurayshite — Medina 163 AH**
 
 *A twenty-year-old young man entered Mālik's circle, carrying a letter from the governor of Mecca.*
 
@@ -140,7 +140,7 @@ Al-Shāfi'ī stayed with Mālik for about **9 years**, until the master's death.
 
 <div class="scene-box">
 
-**🎭 The Bold Question of the Student**
+**📜 The Bold Question of the Student**
 
 *One day, Mālik gave a fatwa. Al-Shāfi'ī stood up, contrary to custom...*
 
@@ -164,7 +164,7 @@ It was this critical spirit, combined with respect, that made al-Shāfi'ī a gre
 
 <div class="scene-box">
 
-**🎭 The Final Farewell — Rabī' al-Awwal 179 AH**
+**📜 The Final Farewell — Rabī' al-Awwal 179 AH**
 
 *On his sickbed, Mālik held al-Shāfi'ī's hand...*
 
@@ -198,7 +198,7 @@ It was the meeting of two worlds:
 
 <div class="scene-box">
 
-**🎭 In the Baghdad Circle — The Great Debate**
+**📜 In the Baghdad Circle — The Great Debate**
 
 *The hall was filled with students. Al-Shāfi'ī sat on one side, al-Shaybānī on the other.*
 
@@ -226,7 +226,7 @@ These debates refined al-Shāfi'ī's methodology, and he later wrote his monumen
 
 <div class="scene-box">
 
-**🎭 After Two Years of Debates**
+**📜 After Two Years of Debates**
 
 *Al-Shāfi'ī was sitting with his students. One of them asked:*
 
@@ -252,7 +252,7 @@ And al-Shaybānī, in turn, recognized al-Shāfi'ī's brilliance in hadith.
 
 <div class="scene-box">
 
-**🎭 In the Markets of Baghdad — 195 AH**
+**📜 In the Markets of Baghdad — 195 AH**
 
 *Aḥmad ibn Ḥanbal heard that a scholar named al-Shāfi'ī had arrived from Mecca.*
 
@@ -274,7 +274,7 @@ And al-Shaybānī, in turn, recognized al-Shāfi'ī's brilliance in hadith.
 
 <div class="scene-box">
 
-**🎭 A Friend's Question**
+**📜 A Friend's Question**
 
 *Some of Aḥmad's companions saw him attending al-Shāfi'ī's classes every day.*
 
@@ -308,7 +308,7 @@ From Aḥmad, al-Shāfi'ī gained:
 
 <div class="scene-box">
 
-**🎭 Al-Shāfi'ī's Farewell to Aḥmad — 199 AH**
+**📜 Al-Shāfi'ī's Farewell to Aḥmad — 199 AH**
 
 *Al-Shāfi'ī decided to leave for Egypt. He came to bid farewell to Aḥmad...*
 
@@ -332,7 +332,7 @@ From Aḥmad, al-Shāfi'ī gained:
 
 <div class="scene-box">
 
-**🎭 News of the Death — Baghdad 204 AH**
+**📜 News of the Death — Baghdad 204 AH**
 
 *The news reached Baghdad: Al-Shāfi'ī had died in Egypt.*
 

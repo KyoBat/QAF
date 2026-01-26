@@ -8,7 +8,7 @@ export const content = `# 🌍 Vivre selon un Madhab au 21e Siècle
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 Comment appliquer un fiqh établi il y a plus de mille ans dans un monde d'Internet et de mondialisation ? Cette leçon répond aux défis pratiques.
 
@@ -100,7 +100,7 @@ Comment appliquer un fiqh établi il y a plus de mille ans dans un monde d'Inter
 
 <div class="scene-box">
 
-**🎭 Situation pratique :**
+**📜 Situation pratique :**
 
 **L'élève :** Sheikh, je suis de madhab shafiite, mais vous êtes hanafite. Que dois-je faire ?
 

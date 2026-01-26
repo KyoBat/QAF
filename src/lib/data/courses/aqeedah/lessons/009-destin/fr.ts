@@ -150,7 +150,7 @@ Le Prophète ﷺ a dit :
 
 ---
 
-## 🎭 L'Homme entre Destin et Libre Arbitre
+## 📜 L'Homme entre Destin et Libre Arbitre
 
 <div class="scene-box">
 
@@ -294,7 +294,7 @@ Le Prophète ﷺ a dit :
 
 <div class="scene-box">
 
-**🎭 LA RÉPONSE DU PROPHÈTE ﷺ**
+**📜 LA RÉPONSE DU PROPHÈTE ﷺ**
 
 *Les Compagnons demandèrent :*
 
@@ -367,7 +367,7 @@ Le Prophète ﷺ a ordonné de se soigner. Prendre les causes fait **partie** du
 
 <div class="scene-box">
 
-**🎭 « C'EST LA FOI PURE »**
+**📜 « C'EST LA FOI PURE »**
 
 *Un jeune homme vint trouver Ibn 'Abbas رضي الله عنهما, troublé...*
 

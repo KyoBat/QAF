@@ -11,9 +11,9 @@ export const contentEn = `# ⚠️ Nushuz and Shiqaq — When Marriage Faces Tro
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
-### 🎭 Scene: The Breaking Point
+### 📜 Scene: The Breaking Point
 
 > **In a marriage counselor's office...**
 >
@@ -33,7 +33,7 @@ export const contentEn = `# ⚠️ Nushuz and Shiqaq — When Marriage Faces Tro
 
 ---
 
-### 🎭 Scene: The Prophet's ﷺ Patience
+### 📜 Scene: The Prophet's ﷺ Patience
 
 > **When the Prophet ﷺ faced difficulties with his wives...**
 >

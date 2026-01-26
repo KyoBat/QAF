@@ -11,9 +11,9 @@ export const contentEn = `# 🌟 Al-Maslaha Al-Mursala — The Unspecified Publi
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
-### 🎭 Scene: The Compilation of the Quran
+### 📜 Scene: The Compilation of the Quran
 
 > **Medina, 12 AH, during the caliphate of Abu Bakr...**
 >
@@ -37,7 +37,7 @@ export const contentEn = `# 🌟 Al-Maslaha Al-Mursala — The Unspecified Publi
 
 ---
 
-### 🎭 Scene: Omar and the Registers
+### 📜 Scene: Omar and the Registers
 
 > **Omar ibn al-Khattab** — may Allah be pleased with him — established the Diwan (registry) for distributing wealth.
 >
@@ -130,7 +130,7 @@ export const contentEn = `# 🌟 Al-Maslaha Al-Mursala — The Unspecified Publi
 
 ---
 
-## 🎭 Story: The Mu'allafa and the Changed Situation
+## 📜 Story: The Mu'allafa and the Changed Situation
 
 > **During the Prophet's ﷺ time...**
 >

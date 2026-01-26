@@ -11,9 +11,9 @@ export const contentEn = `# 📜 The Sunnah — The Second Source of Legislation
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
-### 🎭 Scene: Mu'adh on His Way to Yemen
+### 📜 Scene: Mu'adh on His Way to Yemen
 
 > **Medina, 9 AH...**
 >
@@ -43,7 +43,7 @@ export const contentEn = `# 📜 The Sunnah — The Second Source of Legislation
 
 ---
 
-### 🎭 Scene: The Importance of the Sunnah
+### 📜 Scene: The Importance of the Sunnah
 
 > A man came to **Imran ibn Husayn** — may Allah be pleased with him — and said:
 >
@@ -174,7 +174,7 @@ export const contentEn = `# 📜 The Sunnah — The Second Source of Legislation
 
 ---
 
-## 🎭 Story: Imam Al-Bukhari and His Methodology
+## 📜 Story: Imam Al-Bukhari and His Methodology
 
 ### His Rigor
 

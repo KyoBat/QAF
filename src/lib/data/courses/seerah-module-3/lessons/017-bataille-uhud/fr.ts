@@ -37,7 +37,7 @@ En **Shawwâl** de la troisième année de l'Hégire, Quraysh vint se venger de 
 
 ### La consultation à Médine
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Les avis divergèrent parmi les compagnons :
 > 
@@ -66,7 +66,7 @@ En **Shawwâl** de la troisième année de l'Hégire, Quraysh vint se venger de 
 
 ### Le retrait des hypocrites
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > En chemin vers Uhud, 'Abdullah ibn Ubayy se retira avec un tiers de l'armée (300 hommes), disant :
 > 
@@ -85,7 +85,7 @@ En **Shawwâl** de la troisième année de l'Hégire, Quraysh vint se venger de 
 | Commandant | 'Abdullah ibn Jubayr |
 | Ordre | "Ne quittez pas vos positions, que nous vainquions ou soyons vaincus" |
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Le Prophète ﷺ dit aux archers :
 > 
@@ -108,7 +108,7 @@ En **Shawwâl** de la troisième année de l'Hégire, Quraysh vint se venger de 
 
 ### Le martyre de Hamza رضي الله عنه
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Wahshî ibn Harb était un esclave abyssin. Hind bint 'Utba lui promit la liberté s'il tuait Hamza.
 > 
@@ -126,7 +126,7 @@ En **Shawwâl** de la troisième année de l'Hégire, Quraysh vint se venger de 
 
 ### Que s'est-il passé ?
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Quand les archers virent les musulmans vaincre et rassembler le butin, certains dirent :
 > 
@@ -155,7 +155,7 @@ En **Shawwâl** de la troisième année de l'Hégire, Quraysh vint se venger de 
 
 ### Les blessures du Prophète ﷺ
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Dans le chaos, les polythéistes atteignirent le Prophète ﷺ :
 > 
@@ -181,7 +181,7 @@ En **Shawwâl** de la troisième année de l'Hégire, Quraysh vint se venger de 
 
 ### Abû Talha le héros
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Abû Talha protégeait le Prophète ﷺ de sa poitrine, disant :
 > 
@@ -215,7 +215,7 @@ En **Shawwâl** de la troisième année de l'Hégire, Quraysh vint se venger de 
 
 ### Le lavé par les anges
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Hanzala ibn Abî 'Âmir s'était marié la nuit précédant la bataille. Quand il entendit l'appel au combat, il sortit en état d'impureté rituelle.
 > 

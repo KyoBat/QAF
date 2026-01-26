@@ -11,7 +11,7 @@ export const content = `# 💍 Le Mariage avec Khadîja — Sérénité, Amour e
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 ### Un mariage écrit par Allah
 
@@ -66,7 +66,7 @@ Il ne trichait pas, ne trahissait pas, ne mentait pas...
 
 ---
 
-#### 🎭 Comment le partenariat commença-t-il ?
+#### 📜 Comment le partenariat commença-t-il ?
 
 > **La Scène** : À La Mecque...
 >
@@ -98,7 +98,7 @@ Maysara, le serviteur de Khadîja, partit avec Muhammad ﷺ...
 
 ---
 
-#### 🎭 La Scène du Moine
+#### 📜 La Scène du Moine
 
 > Quand Muhammad ﷺ s'abrita sous un arbre près de l'ermitage d'un moine...
 >
@@ -187,7 +187,7 @@ Maysara, le serviteur de Khadîja, partit avec Muhammad ﷺ...
 
 ---
 
-### 🎭 Scène de la Demande
+### 📜 Scène de la Demande
 
 > **Dans la maison de Khadîja** :
 >
@@ -230,7 +230,7 @@ Maysara, le serviteur de Khadîja, partit avec Muhammad ﷺ...
 
 ---
 
-### 🎭 Scènes de leur vie commune
+### 📜 Scènes de leur vie commune
 
 > **Scène 1 — Le soutien matériel** :
 >
@@ -279,7 +279,7 @@ Maysara, le serviteur de Khadîja, partit avec Muhammad ﷺ...
 
 ### 💔 La perte des fils
 
-> 🎭 **L'Épreuve** :
+> 📜 **L'Épreuve** :
 >
 > **Al-Qâsim** mourut en bas âge...
 >
@@ -323,7 +323,7 @@ Maysara, le serviteur de Khadîja, partit avec Muhammad ﷺ...
 
 ### ⚔️ La Crise de la Pierre Noire
 
-> 🎭 **Le Problème** :
+> 📜 **Le Problème** :
 >
 > Quand ils reconstruisirent et arrivèrent à l'emplacement de **la Pierre Noire**...
 >
@@ -337,7 +337,7 @@ Maysara, le serviteur de Khadîja, partit avec Muhammad ﷺ...
 
 ---
 
-### 🎭 La Solution Géniale
+### 📜 La Solution Géniale
 
 > **Abû Umayya ibn al-Mughîra** (le plus âgé) :
 >
@@ -400,7 +400,7 @@ Maysara, le serviteur de Khadîja, partit avec Muhammad ﷺ...
 
 ---
 
-### 🎭 Que faisait-il dans la grotte ?
+### 📜 Que faisait-il dans la grotte ?
 
 > **La Méditation** :
 >

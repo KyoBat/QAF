@@ -13,7 +13,7 @@ export const content = `# 📜 فَاطِمَةُ الزَّهْرَاء — Fā
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 Fāṭima bint Muḥammad رضي الله عنها is the **beloved daughter** of the Prophet ﷺ and Khadīja, the only one whose lineage survived. She is the mother of Ḥasan and Ḥusayn, the masters of the youth of Paradise. Her rank is so high that she is called "**Sayyidat Nisā' al-'Ālamīn**" (Lady of the Women of the Worlds).
 
@@ -49,7 +49,7 @@ Fāṭima grew up amidst **trials**:
 - Lost her mother Khadīja at around 10 years old
 - Emigrated to Medina with her father
 
-> **🎭 SCENE — Defending Her Father**
+> **📜 SCENE — Defending Her Father**
 >
 > *Abū Jahl throws the entrails of a camel on the Prophet ﷺ while prostrating...*
 >

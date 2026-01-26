@@ -105,7 +105,7 @@ Le Prophète ﷺ a dit, décrivant les piliers de la foi :
 
 <div class="scene-box">
 
-**🎭 LES QUESTIONS DE MUNKAR ET NAKIR**
+**📜 LES QUESTIONS DE MUNKAR ET NAKIR**
 
 *La tombe se referme. L'obscurité envahit tout. Deux anges terrifiants apparaissent...*
 
@@ -178,7 +178,7 @@ Le Prophète ﷺ a dit :
 
 <div class="scene-box">
 
-**🎭 LE RÉVEIL DES MORTS**
+**📜 LE RÉVEIL DES MORTS**
 
 *Israfil souffle dans la Trompe. Le premier souffle : tout meurt. Le deuxième souffle :*
 
@@ -228,7 +228,7 @@ Le Prophète ﷺ a dit :
 
 <div class="scene-box">
 
-**🎭 DEUX DESTINS**
+**📜 DEUX DESTINS**
 
 *Celui qui reçoit son livre en main droite :*
 
@@ -256,7 +256,7 @@ Le Prophète ﷺ a dit :
 
 <div class="scene-box">
 
-**🎭 L'HOMME AUX 99 REGISTRES**
+**📜 L'HOMME AUX 99 REGISTRES**
 
 *Le Prophète ﷺ a raconté :*
 
@@ -328,7 +328,7 @@ Le Prophète ﷺ a dit :
 
 <div class="scene-box">
 
-**🎭 CE QU'AUCUN ŒIL N'A VU**
+**📜 CE QU'AUCUN ŒIL N'A VU**
 
 **Allah ﷻ dit :** « **أَعْدَدْتُ لِعِبَادِيَ الصَّالِحِينَ مَا لَا عَيْنٌ رَأَتْ، وَلَا أُذُنٌ سَمِعَتْ، وَلَا خَطَرَ عَلَى قَلْبِ بَشَرٍ** »
 

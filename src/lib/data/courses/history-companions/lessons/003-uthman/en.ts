@@ -14,7 +14,7 @@ export const content = `# 🕊️ 'Uthmān ibn 'Affān — The Possessor of Two 
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 Among all the Companions, he was the most **handsome**.
 
@@ -236,7 +236,7 @@ He died at **82 years old**, fasting, reading the Quran.
 
 <div class="scene-box">
 
-**🎭 At the Prophet's Home ﷺ**
+**📜 At the Prophet's Home ﷺ**
 
 *One day, the Prophet ﷺ was lying in his home with his legs uncovered. Abū Bakr entered, then 'Umar. The Prophet ﷺ did not change his position.*
 

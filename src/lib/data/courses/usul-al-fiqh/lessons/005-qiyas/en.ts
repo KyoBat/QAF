@@ -11,9 +11,9 @@ export const contentEn = `# 🔗 Qiyas — Analogical Reasoning
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
-### 🎭 Scene: Omar and the Date Wine
+### 📜 Scene: Omar and the Date Wine
 
 > **Medina, during the caliphate of Omar...**
 >
@@ -35,7 +35,7 @@ export const contentEn = `# 🔗 Qiyas — Analogical Reasoning
 
 ---
 
-### 🎭 Scene: Ali and Reasoning
+### 📜 Scene: Ali and Reasoning
 
 > **Ali ibn Abi Talib** — may Allah be pleased with him — was asked:
 >
@@ -171,7 +171,7 @@ export const contentEn = `# 🔗 Qiyas — Analogical Reasoning
 
 ---
 
-## 🎭 Story: Abu Bakr and Analogizing Zakat
+## 📜 Story: Abu Bakr and Analogizing Zakat
 
 ### The Cause
 

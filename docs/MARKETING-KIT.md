@@ -86,11 +86,11 @@ Avec TahaLearn, apprenez :
 
 ---
 
-### 🎬 TIKTOK / REELS (Scripts 30-60s)
+### 📖 TIKTOK / REELS (Scripts 30-60s)
 
 #### Vidéo 1 - Hook
 ```
-🎬 SCRIPT:
+📖 SCRIPT:
 
 [HOOK - 3s]
 "Tu pries 5 fois par jour mais tu connais pas les piliers de la prière ?"
@@ -115,7 +115,7 @@ Cours en français, arabe et anglais."
 
 #### Vidéo 2 - Le saviez-vous ?
 ```
-🎬 SCRIPT:
+📖 SCRIPT:
 
 [HOOK - 3s]
 "Le saviez-vous ? 🤔"

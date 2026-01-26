@@ -2,7 +2,7 @@ export const contentFr = `# Les opérations bancaires contemporaines — Jurispr
 
 <div class="scene-box">
 
-**🎬 Scène : Dans le bureau du directeur de la banque islamique**
+**📖 Scène : Dans le bureau du directeur de la banque islamique**
 
 *Un jeune homme entre dans le bureau du directeur de la banque islamique, l'air perplexe...*
 
@@ -71,7 +71,7 @@ Les banques conventionnelles sont basées sur le **riba**, tandis que les banque
 
 <div class="scene-box">
 
-**🎬 Scène : Un cercle d'étude à la mosquée**
+**📖 Scène : Un cercle d'étude à la mosquée**
 
 **L'étudiant :** Ô Cheikh, comment les banques islamiques financent-elles si elles ne prêtent pas avec intérêt ?
 
@@ -229,7 +229,7 @@ Les banques conventionnelles sont basées sur le **riba**, tandis que les banque
 
 <div class="scene-box">
 
-**🎬 Scène : Consultation sur la carte Visa**
+**📖 Scène : Consultation sur la carte Visa**
 
 **Le demandeur :** Ô Cheikh, j'ai une carte Visa d'une banque conventionnelle. Je l'utilise et je paie le montant total avant la fin du mois, donc je ne paie pas d'intérêts. Quel est le statut ?
 
@@ -311,7 +311,7 @@ Et le Prophète ﷺ a dit : **"Le riba comporte 73 portes, la moindre équivaut 
 
 <div class="scene-box">
 
-**🎬 La position de Sheikh al-Islam Ibn Taymiyya sur le change**
+**📖 La position de Sheikh al-Islam Ibn Taymiyya sur le change**
 
 *On a demandé à Sheikh al-Islam Ibn Taymiyya رحمه الله au sujet des changeurs qui prêtent aux gens avec surplus...*
 
@@ -329,7 +329,7 @@ Puis il a dit رحمه الله :
 
 <div class="scene-box">
 
-**🎬 Le début des banques islamiques - Une histoire inspirante**
+**📖 Le début des banques islamiques - Une histoire inspirante**
 
 *En 1963, dans le village de Mit Ghamr en Égypte...*
 
@@ -349,7 +349,7 @@ L'expérience a réussi et s'est répandue dans le monde musulman. Aujourd'hui, 
 
 <div class="scene-box">
 
-**🎬 La décision de l'Académie Internationale de Fiqh Islamique**
+**📖 La décision de l'Académie Internationale de Fiqh Islamique**
 
 *En 1986, l'Académie Internationale de Fiqh Islamique a rendu sa décision historique...*
 

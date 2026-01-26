@@ -12,7 +12,7 @@ export const content = `# 📚 Their Books — مُؤَلَّفَاتُهُمُ 
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 The four imams left a **colossal written heritage**. Some wrote much, others little — but their works or those of their students have **shaped** 1400 years of Islamic practice.
 

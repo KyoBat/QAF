@@ -5,7 +5,7 @@ export const contentEn = `# 🧠 The Jahmiyyah and Mu'tazilah — Reason Against
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 These two sects represent one of the greatest trials the Ummah has faced in its creed. The **Jahmiyyah** denied Allah's Attributes, and the **Mu'tazilah** made **human reason** the supreme judge over Revelation.
 
@@ -21,7 +21,7 @@ The trial of the **"Creation of the Quran"** remains etched in history: the Abba
 
 <div class="scene-box">
 
-**🎭 SCENE: The Origin of Negation — Transoxiana, ~120 H**
+**📜 SCENE: The Origin of Negation — Transoxiana, ~120 H**
 
 *Jahm ibn Safwan debates with Indian philosophers (the Sumaniyyah).*
 
@@ -52,7 +52,7 @@ The trial of the **"Creation of the Quran"** remains etched in history: the Abba
 
 <div class="scene-box">
 
-**🎭 SCENE: The Absurdity of Ta'til**
+**📜 SCENE: The Absurdity of Ta'til**
 
 **Sunni**: "According to you, Allah has no Hand, no Face, no Speech?"
 
@@ -90,7 +90,7 @@ The scholars of the Salaf considered the **extreme Jahmiyyah as disbelievers**:
 
 <div class="scene-box">
 
-**🎭 SCENE: The Separation — Circle of al-Hasan al-Basri, Basra, ~110 H**
+**📜 SCENE: The Separation — Circle of al-Hasan al-Basri, Basra, ~110 H**
 
 *Al-Hasan al-Basri رحمه الله is teaching. A man poses a question.*
 
@@ -162,7 +162,7 @@ In 218 H, the Abbasid caliph **al-Ma'mun** adopted the Mu'tazilite dogma that **
 
 <div class="scene-box">
 
-**🎭 SCENE: The Interrogation — The Caliph's Palace, 218 H**
+**📜 SCENE: The Interrogation — The Caliph's Palace, 218 H**
 
 *Imam Ahmad ibn Hanbal رحمه الله is brought in chains before the caliph.*
 
@@ -186,7 +186,7 @@ In 218 H, the Abbasid caliph **al-Ma'mun** adopted the Mu'tazilite dogma that **
 
 <div class="scene-box">
 
-**🎭 SCENE: The Prison — Baghdad, 218-220 H**
+**📜 SCENE: The Prison — Baghdad, 218-220 H**
 
 *Imam Ahmad has been in prison for months. A man visits him.*
 
@@ -267,7 +267,7 @@ Allah **distinguished** between creation (al-khalq) and command (al-amr). The Qu
 
 <div class="scene-box">
 
-**🎭 SCENE: After the Trial — Baghdad, After 232 H**
+**📜 SCENE: After the Trial — Baghdad, After 232 H**
 
 *Imam Ahmad, aged and marked by the whips, is teaching.*
 
@@ -295,7 +295,7 @@ Allah **distinguished** between creation (al-khalq) and command (al-amr). The Qu
 
 <div class="scene-box">
 
-**🎭 SCENE: The Deathbed — Ray, 606 H**
+**📜 SCENE: The Deathbed — Ray, 606 H**
 
 *Fakhr ad-Din ar-Razi, the great theologian and philosopher, lies on his deathbed. His students surround him.*
 
@@ -315,7 +315,7 @@ Allah **distinguished** between creation (al-khalq) and command (al-amr). The Qu
 
 <div class="scene-box">
 
-**🎭 SCENE: The Last Gathering — Nishapur, 478 H**
+**📜 SCENE: The Last Gathering — Nishapur, 478 H**
 
 *Imam al-Haramayn al-Juwayni, the great Ash'ari scholar, gathers his students.*
 
@@ -345,7 +345,7 @@ Allah **distinguished** between creation (al-khalq) and command (al-amr). The Qu
 
 <div class="scene-box">
 
-**🎭 SCENE: The Theology Class — Today**
+**📜 SCENE: The Theology Class — Today**
 
 **Professor**: "When Allah says 'يَدُ اللَّهِ' (the Hand of Allah), it means 'power.' And 'اسْتَوَىٰ عَلَى الْعَرْشِ' (He established Himself over the Throne) means 'He dominated.'"
 

@@ -11,9 +11,9 @@ export const contentEn = `# 💰 Al-Nafaqah — Financial Maintenance
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
-### 🎭 Scene: A Wife's Complaint
+### 📜 Scene: A Wife's Complaint
 
 > **Hind bint 'Utbah came to the Prophet ﷺ...**
 >
@@ -31,7 +31,7 @@ export const contentEn = `# 💰 Al-Nafaqah — Financial Maintenance
 
 ---
 
-### 🎭 Scene: The Balance
+### 📜 Scene: The Balance
 
 > **At the marriage counseling session...**
 >
@@ -197,7 +197,7 @@ export const contentEn = `# 💰 Al-Nafaqah — Financial Maintenance
 
 ---
 
-## 🎭 Story: The Generous and the Stingy
+## 📜 Story: The Generous and the Stingy
 
 ### Ibn 'Abbas narrated:
 

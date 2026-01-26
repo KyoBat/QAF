@@ -12,7 +12,7 @@ export const content = `# 🗺️ La Géographie des Écoles — جُغْرَا�
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 Comment se fait-il qu'aujourd'hui :
 - Le **Maroc** soit massivement **maliki** ?

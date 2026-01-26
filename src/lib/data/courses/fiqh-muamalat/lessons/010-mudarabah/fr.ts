@@ -2,7 +2,7 @@ export const contentFr = `# La Moudaraba — Le Partenariat entre Capital et Tra
 
 <div class="scene-box">
 
-**🎬 La Scène : Les caravanes commerciales de Quraysh — La Mecque avant la Révélation**
+**📖 La Scène : Les caravanes commerciales de Quraysh — La Mecque avant la Révélation**
 
 *Dans la maison de Khadija bint Khuwaylid, qu'Allah l'agrée, une des nobles dames de Quraysh et la plus riche de ses femmes...*
 
@@ -71,7 +71,7 @@ export const contentFr = `# La Moudaraba — Le Partenariat entre Capital et Tra
 
 <div class="scene-box">
 
-**🎬 L'histoire des conditions d'Al-'Abbâs — La protection intelligente du capital**
+**📖 L'histoire des conditions d'Al-'Abbâs — La protection intelligente du capital**
 
 *Al-'Abbâs ibn 'Abd al-Muttalib, qu'Allah l'agrée — l'oncle du Prophète ﷺ — faisait partie des riches de Quraysh et des plus savants en commerce...*
 
@@ -113,7 +113,7 @@ Le besoin appelle à la moudaraba :
 
 <div class="scene-box">
 
-**🎬 Conditions du capital**
+**📖 Conditions du capital**
 
 **① Qu'il soit en numéraire**
 - Il ne peut pas être en marchandises selon la majorité
@@ -175,7 +175,7 @@ Le besoin appelle à la moudaraba :
 
 <div class="scene-box">
 
-**🎬 Exemple de moudaraba libre**
+**📖 Exemple de moudaraba libre**
 
 **Sa'id** *(le détenteur du capital)* : Prends cet argent et fais-le fructifier, et le profit est entre nous moitié-moitié.
 
@@ -200,7 +200,7 @@ Le besoin appelle à la moudaraba :
 
 <div class="scene-box">
 
-**🎬 Exemple de moudaraba limitée**
+**📖 Exemple de moudaraba limitée**
 
 **Ahmad** : Prends cet argent et fais-le fructifier, mais avec des conditions :
 - **Commerce uniquement dans l'immobilier**
@@ -293,7 +293,7 @@ C'est-à-dire que le profit sert d'abord à combler la perte, puis ce qui reste 
 
 <div class="scene-box">
 
-**🎬 L'histoire de la moudaraba qui changea l'histoire**
+**📖 L'histoire de la moudaraba qui changea l'histoire**
 
 *Quinze ans avant la Révélation, à La Mecque...*
 

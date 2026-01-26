@@ -14,7 +14,7 @@ export const content = `# 👑 أَبُو بَكْرٍ الصِّدِّيقُ �
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 Qui était l'homme que le Prophète ﷺ aimait le plus après Allah ?
 
@@ -80,7 +80,7 @@ Puis il va voir son ami le plus proche : **Abū Bakr**.
 
 <div class="scene-box">
 
-**🎭 La Nuit où Tout Changea**
+**📜 La Nuit où Tout Changea**
 
 *L'année 610 EC. Le Prophète ﷺ vient de recevoir la première révélation dans la grotte de Ḥirā'.*
 

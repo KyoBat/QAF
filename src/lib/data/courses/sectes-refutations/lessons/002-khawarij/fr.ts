@@ -5,7 +5,7 @@ export const contentFr = `# ⚔️ Les Khawarij — La Première Secte à Divise
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 Les Khawarij sont la **première secte** à avoir divisé la Oumma et versé le sang des musulmans. Leur histoire est un avertissement éternel contre les dangers de l'extrémisme religieux et de l'excommunication hâtive.
 
@@ -33,7 +33,7 @@ Ils ont tué le **quatrième calife bien-guidé**, 'Ali ibn Abi Talib رضي ا�
 
 <div class="scene-box">
 
-**🎭 SCÈNE : L'Astuce de 'Amr ibn al-'As — Bataille de Siffin, 37 H**
+**📜 SCÈNE : L'Astuce de 'Amr ibn al-'As — Bataille de Siffin, 37 H**
 
 *Les armées de 'Ali sont sur le point de l'emporter. Les troupes de Mu'awiya fléchissent.*
 
@@ -59,7 +59,7 @@ Ils ont tué le **quatrième calife bien-guidé**, 'Ali ibn Abi Talib رضي ا�
 
 <div class="scene-box">
 
-**🎭 SCÈNE : "Pas de Jugement Sauf à Allah !" — Après l'Arbitrage, 37 H**
+**📜 SCÈNE : "Pas de Jugement Sauf à Allah !" — Après l'Arbitrage, 37 H**
 
 *'Ali revient à Kufa après avoir accepté l'arbitrage. Soudain, 12 000 hommes se séparent de son armée.*
 
@@ -162,7 +162,7 @@ Le Prophète ﷺ a décrit les Khawarij avec une précision stupéfiante, **avan
 
 <div class="scene-box">
 
-**🎭 SCÈNE : Le Premier Khariji — Époque Prophétique**
+**📜 SCÈNE : Le Premier Khariji — Époque Prophétique**
 
 *Le Prophète ﷺ distribue le butin. Un homme s'approche.*
 
@@ -221,7 +221,7 @@ Caractéristiques des Khawarij (من أحاديث النبي ﷺ)
 
 <div class="scene-box">
 
-**🎭 SCÈNE : La Terreur des Azariqah — Ahwaz, ~65 H**
+**📜 SCÈNE : La Terreur des Azariqah — Ahwaz, ~65 H**
 
 *Les Azariqah attaquent une ville. Un homme musulman fuit avec sa famille.*
 
@@ -268,7 +268,7 @@ Quand 12 000 hommes se séparèrent de 'Ali, il décida d'envoyer **le plus gran
 
 <div class="scene-box">
 
-**🎭 SCÈNE : Ibn 'Abbas Face aux Khawarij — Harura', 37 H**
+**📜 SCÈNE : Ibn 'Abbas Face aux Khawarij — Harura', 37 H**
 
 *Ibn 'Abbas رضي الله عنهما arrive au camp des Khawarij. Il porte ses plus beaux vêtements.*
 
@@ -312,7 +312,7 @@ Quand 12 000 hommes se séparèrent de 'Ali, il décida d'envoyer **le plus gran
 
 <div class="scene-box">
 
-**🎭 SCÈNE : Le Pacte des Assassins — La Mecque, 40 H**
+**📜 SCÈNE : Le Pacte des Assassins — La Mecque, 40 H**
 
 *Trois Khawarij se réunissent pendant le Hajj.*
 
@@ -332,7 +332,7 @@ Quand 12 000 hommes se séparèrent de 'Ali, il décida d'envoyer **le plus gran
 
 <div class="scene-box">
 
-**🎭 SCÈNE : Le Martyre de 'Ali — Mosquée de Kufa, Fajr du 17 Ramadan 40 H**
+**📜 SCÈNE : Le Martyre de 'Ali — Mosquée de Kufa, Fajr du 17 Ramadan 40 H**
 
 *'Ali رضي الله عنه sort pour la prière du Fajr. Ibn Muljam l'attend.*
 
@@ -407,7 +407,7 @@ Méthodologie face aux Khawarij
 
 <div class="scene-box">
 
-**🎭 SCÈNE : Le Jeune « Savant » — Mosquée Locale, Aujourd'hui**
+**📜 SCÈNE : Le Jeune « Savant » — Mosquée Locale, Aujourd'hui**
 
 **Jeune homme** : « Ce musulman qui ne prie pas est kafir ! Il faut le tuer ! »
 

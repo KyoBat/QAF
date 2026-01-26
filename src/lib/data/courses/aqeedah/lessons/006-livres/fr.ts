@@ -101,7 +101,7 @@ Ibrahim   Moussa  Torah  Évangile Psaumes   Muhammad ﷺ
 
 <div class="scene-box">
 
-**🎭 LA DESCENTE DE LA TORAH**
+**📜 LA DESCENTE DE LA TORAH**
 
 *Mont Sinaï (الطور). Moussa عليه السلام jeûne 40 jours avant la rencontre...*
 
@@ -153,7 +153,7 @@ Ibrahim   Moussa  Torah  Évangile Psaumes   Muhammad ﷺ
 
 <div class="scene-box">
 
-**🎭 LA VOIX DE DAWUD**
+**📜 LA VOIX DE DAWUD**
 
 *Le Prophète ﷺ a dit :*
 
@@ -264,7 +264,7 @@ Ibrahim   Moussa  Torah  Évangile Psaumes   Muhammad ﷺ
 
 <div class="scene-box">
 
-**🎭 L'IDÉE DE 'UMAR**
+**📜 L'IDÉE DE 'UMAR**
 
 *Après la bataille de Yamama (12 H), où 70 mémorisateurs (Huffaz) furent tués...*
 
@@ -292,7 +292,7 @@ Ibrahim   Moussa  Torah  Évangile Psaumes   Muhammad ﷺ
 
 <div class="scene-box">
 
-**🎭 L'UNITÉ DE LA OUMMAH**
+**📜 L'UNITÉ DE LA OUMMAH**
 
 *An 25 H. Hudhayfa ibn al-Yaman revient de la conquête de l'Arménie, alarmé...*
 
@@ -320,7 +320,7 @@ Ibrahim   Moussa  Torah  Évangile Psaumes   Muhammad ﷺ
 
 <div class="scene-box">
 
-**🎭 LE PROPHÈTE ET LA TORAH**
+**📜 LE PROPHÈTE ET LA TORAH**
 
 *Un jour, 'Umar رضي الله عنه vint au Prophète ﷺ avec des feuillets de la Torah qu'il avait obtenus...*
 

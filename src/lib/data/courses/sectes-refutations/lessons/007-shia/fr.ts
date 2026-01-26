@@ -19,7 +19,7 @@ Ce sont ceux qui ont soutenu 'Ali رضي الله عنه et ont affirmé son dro
 
 ---
 
-## 🎭 Scène 1 : Le Jour de la Saqifa — Quand la Oumma a choisi
+## 📜 Scène 1 : Le Jour de la Saqifa — Quand la Oumma a choisi
 
 <div class="scene-box">
 
@@ -64,7 +64,7 @@ Au départ, le chi'isme n'était qu'un **soutien politique** à 'Ali lors de son
 
 <div class="scene-box">
 
-**🎭 Scène 2 : L'entrée du loup — 'Abdullah ibn Saba'**
+**📜 Scène 2 : L'entrée du loup — 'Abdullah ibn Saba'**
 
 **Yémen puis Médine — Époque de 'Uthman رضي الله عنه**
 
@@ -172,7 +172,7 @@ Selon les Imamiyyah, le 12ème imam serait entré dans une "occultation" en 260 
 
 <div class="scene-box">
 
-**🎭 Scène 3 : Ce qu'ils disent vraiment dans leurs livres**
+**📜 Scène 3 : Ce qu'ils disent vraiment dans leurs livres**
 
 *Dans al-Kafi, leur livre le plus authentique :*
 
@@ -211,7 +211,7 @@ Croyance au retour de certains morts avant le Jour du Jugement :
 
 <div class="scene-box">
 
-**🎭 Scène 4 : 'Ali lui-même réfute cette prétention**
+**📜 Scène 4 : 'Ali lui-même réfute cette prétention**
 
 **Un homme** : Ô Commandeur des Croyants ! Le Prophète ﷺ t'a-t-il confié quelque chose qu'il n'a pas confié aux autres ?
 
@@ -270,7 +270,7 @@ Croyance au retour de certains morts avant le Jour du Jugement :
 
 <div class="scene-box">
 
-**🎭 Scène 5 : Le raisonnement qui les confond**
+**📜 Scène 5 : Le raisonnement qui les confond**
 
 **Enseignant** : Réfléchis bien... Selon eux, les Imams sont infaillibles et connaissent l'invisible.
 

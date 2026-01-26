@@ -11,9 +11,9 @@ export const contentEn = `# ⚖️ Al-Ahkam — The Five Legal Rulings
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
-### 🎭 Scene: The Companion and the Question
+### 📜 Scene: The Companion and the Question
 
 > **Medina, during the Prophet's ﷺ era...**
 >
@@ -35,7 +35,7 @@ export const contentEn = `# ⚖️ Al-Ahkam — The Five Legal Rulings
 
 ---
 
-### 🎭 Scene: Aisha and Fiqh
+### 📜 Scene: Aisha and Fiqh
 
 > **Aisha** — may Allah be pleased with her — said to Urwa:
 >

@@ -45,7 +45,7 @@ Animation count-up pour les stats :
 - 🔢 Animation progressive des nombres (0 → valeur finale)
 - 👁️ Déclenchement via Intersection Observer
 - ⏱️ Durée configurable (default 2s)
-- 🎭 Easing function (ease-out cubic)
+- 📜 Easing function (ease-out cubic)
 - 🔄 Animation unique (n'anime qu'une fois)
 - ➕ Support des suffixes ("+", etc.)
 - 📊 Composant réutilisable `<CountUp />`

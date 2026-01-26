@@ -11,9 +11,9 @@ export const contentFr = `# 👶 La Garde des Enfants — Al-Hadânah
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
-### 🎭 Scène : Le déchirement
+### 📜 Scène : Le déchirement
 
 > Le divorce est prononcé. Tout est réglé... sauf une question :
 >
@@ -25,7 +25,7 @@ Cette question transforme souvent un divorce « civilisé » en guerre ouverte.
 
 ---
 
-### 🎭 Scène prophétique : L'enfant à choisir
+### 📜 Scène prophétique : L'enfant à choisir
 
 **Une femme** vint voir le Prophète ﷺ et dit :
 
@@ -231,7 +231,7 @@ L'enfant prit la main de sa mère.
 
 ---
 
-## 🎭 Récits
+## 📜 Récits
 
 ### L'histoire d'Umâra ibn Ru'ayba
 

@@ -10,7 +10,7 @@ export const content = `# 🕌 The Life of Imam Malik (93-179 H)
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 He is **the Imam of Dar al-Hijra** (the Abode of Migration), the longest-lived of the four imams, and the most revered for his dignity and prestige. He lived **86 years** in the city of the Prophet ﷺ, never leaving it except for pilgrimage. He founded a school followed today by over **250 million** Muslims.
 
@@ -51,7 +51,7 @@ He is **the Imam of Dar al-Hijra** (the Abode of Migration), the longest-lived o
 
 <div class="scene-box">
 
-**🎭 SCENE: The Ambitious Child — Family Home in Medina, ~105 H**
+**📜 SCENE: The Ambitious Child — Family Home in Medina, ~105 H**
 
 *Little Malik asks his mother.*
 
@@ -122,7 +122,7 @@ He is **the Imam of Dar al-Hijra** (the Abode of Migration), the longest-lived o
 
 <div class="scene-box">
 
-**🎭 SCENE: The Approved Book — Prophet's Mosque, ~150 H**
+**📜 SCENE: The Approved Book — Prophet's Mosque, ~150 H**
 
 *Malik presents his Muwatta to 70 jurists of Medina.*
 
@@ -165,7 +165,7 @@ He is **the Imam of Dar al-Hijra** (the Abode of Migration), the longest-lived o
 
 <div class="scene-box">
 
-**🎭 SCENE: The Scholar's Steadfastness — Medina, ~147 H**
+**📜 SCENE: The Scholar's Steadfastness — Medina, ~147 H**
 
 *Malik is flogged publicly by order of the governor of Medina.*
 
@@ -210,7 +210,7 @@ He is **the Imam of Dar al-Hijra** (the Abode of Migration), the longest-lived o
 
 <div class="scene-box">
 
-**🎭 SCENE: The Dignity of Transmission — Malik's House in Medina**
+**📜 SCENE: The Dignity of Transmission — Malik's House in Medina**
 
 *A student asks Malik for a hadith.*
 
@@ -257,7 +257,7 @@ He is **the Imam of Dar al-Hijra** (the Abode of Migration), the longest-lived o
 
 <div class="scene-box">
 
-**🎭 SCENE: Refusing Imposition — Medina, al-Mansur's Era**
+**📜 SCENE: Refusing Imposition — Medina, al-Mansur's Era**
 
 **Al-Mansur** *(to Malik)*: "I want to make your book the law for all Muslims."
 
@@ -294,7 +294,7 @@ He is **the Imam of Dar al-Hijra** (the Abode of Migration), the longest-lived o
 
 <div class="scene-box">
 
-**🎭 SCENE: Farewell to the Imam of Medina — Al-Baqi', 179 H**
+**📜 SCENE: Farewell to the Imam of Medina — Al-Baqi', 179 H**
 
 *All of Medina comes out for his funeral procession.*
 

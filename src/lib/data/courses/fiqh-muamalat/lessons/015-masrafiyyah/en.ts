@@ -2,7 +2,7 @@ export const contentEn = `# Contemporary Banking Transactions — Jurisprudence 
 
 <div class="scene-box">
 
-**🎬 Scene: In the Islamic Bank Manager's Office**
+**📖 Scene: In the Islamic Bank Manager's Office**
 
 *A young man enters the Islamic bank manager's office, looking perplexed...*
 
@@ -115,7 +115,7 @@ Conventional banks are based on **riba**, while Islamic banks are based on **sal
 
 <div class="scene-box">
 
-**🎬 Scene: A Study Circle at the Mosque**
+**📖 Scene: A Study Circle at the Mosque**
 
 **The Student:** O Sheikh, how do Islamic banks finance if they don't lend with interest?
 
@@ -556,7 +556,7 @@ Conventional banks are based on **riba**, while Islamic banks are based on **sal
 
 <div class="scene-box">
 
-**🎬 Scene: Consultation about the Visa Card**
+**📖 Scene: Consultation about the Visa Card**
 
 **The Questioner:** O Sheikh, I have a Visa card from a conventional bank. I use it and pay the full amount before the end of the month, so I don't pay interest. What is the ruling?
 
@@ -771,7 +771,7 @@ And the Prophet ﷺ said: **"Riba has 73 doors, the least of which is like a man
 
 <div class="scene-box">
 
-**🎬 Sheikh al-Islam Ibn Taymiyya's Position on Money Changing**
+**📖 Sheikh al-Islam Ibn Taymiyya's Position on Money Changing**
 
 *Sheikh al-Islam Ibn Taymiyya رحمه الله was asked about money changers who lend to people with a surplus...*
 
@@ -789,7 +789,7 @@ Then he رحمه الله said:
 
 <div class="scene-box">
 
-**🎬 The Beginning of Islamic Banks - An Inspiring Story**
+**📖 The Beginning of Islamic Banks - An Inspiring Story**
 
 *In 1963, in the village of Mit Ghamr in Egypt...*
 
@@ -809,7 +809,7 @@ The experiment succeeded and spread throughout the Muslim world. Today, the volu
 
 <div class="scene-box">
 
-**🎬 The Decision of the International Islamic Fiqh Academy**
+**📖 The Decision of the International Islamic Fiqh Academy**
 
 *In 1986, the International Islamic Fiqh Academy issued its historic decision...*
 

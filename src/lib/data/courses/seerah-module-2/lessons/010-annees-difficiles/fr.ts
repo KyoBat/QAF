@@ -11,7 +11,7 @@ export const content = `# 💔 Les Années Difficiles — L'Année de la Tristes
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 ### Trois Ans de Siège... Puis l'Année des Chagrins
 
@@ -75,7 +75,7 @@ Quraysh se réunit et écrivit un pacte qu'ils suspendirent à l'intérieur de l
 
 ## 🥀 Les Souffrances — Trois Ans de Faim et de Froid
 
-### 🎭 Scènes du Siège
+### 📜 Scènes du Siège
 
 > **Première Scène — La Faim Mortelle**
 >
@@ -141,7 +141,7 @@ Quraysh se réunit et écrivit un pacte qu'ils suspendirent à l'intérieur de l
 
 ## 🕊️ L'Annulation du Pacte — Les Termites Mangent l'Injustice
 
-### 🎭 La Scène — Le Miracle
+### 📜 La Scène — Le Miracle
 
 > Après trois ans...
 >
@@ -165,7 +165,7 @@ Quraysh se réunit et écrivit un pacte qu'ils suspendirent à l'intérieur de l
 
 ---
 
-### 🎭 L'Ouverture du Pacte
+### 📜 L'Ouverture du Pacte
 
 > Ils allèrent à la Kaaba...
 >
@@ -242,7 +242,7 @@ Des hommes de Quraysh refusèrent l'injustice et demandèrent l'annulation du pa
 
 ---
 
-### 🎭 La Scène — Les Derniers Moments
+### 📜 La Scène — Les Derniers Moments
 
 > Abu Talib sur son lit de mort...
 >
@@ -339,7 +339,7 @@ Des hommes de Quraysh refusèrent l'injustice et demandèrent l'annulation du pa
 
 ---
 
-### 🎭 La Scène — Le Dernier Adieu
+### 📜 La Scène — Le Dernier Adieu
 
 > Khadija sur son lit de maladie...
 >
@@ -418,7 +418,7 @@ Des hommes de Quraysh refusèrent l'injustice et demandèrent l'annulation du pa
 
 ---
 
-### 🎭 L'Audace de Quraysh
+### 📜 L'Audace de Quraysh
 
 > Après la mort d'Abu Talib...
 >

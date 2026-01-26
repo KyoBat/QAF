@@ -14,7 +14,7 @@ export const content = `
 
 ---
 
-## 🎬 Historical Context
+## 📖 Historical Context
 
 Islam never confined women to the rear. When the defense of faith required it, **heroines** took up arms and fought alongside the Prophet ﷺ. These lionesses teach us that courage has no gender.
 

@@ -9,7 +9,7 @@ export const content = `# 👩‍⚖️ Les Femmes Juristes de l'Âge d'Or
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 L'histoire islamique regorge de **femmes juristes savantes** qui ont contribué à la transmission et à l'enseignement du savoir. Cette leçon met en lumière des modèles brillants de femmes qui ont enseigné aux savants et leur ont accordé des ijazas.
 
@@ -46,7 +46,7 @@ L'histoire islamique regorge de **femmes juristes savantes** qui ont contribué 
 
 <div class="scene-box">
 
-**🎭 SCÈNE : L'Enseignante à la Mosquée — Damas**
+**📜 SCÈNE : L'Enseignante à la Mosquée — Damas**
 
 *Umm al-Darda enseigne à la Mosquée des Omeyyades.*
 

@@ -14,7 +14,7 @@ export const content = `# 👑 خَدِيجَةُ وَعَائِشَةُ — Les
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 Parmi toutes les épouses du Prophète ﷺ — les **Mères des Croyants** — deux occupent une place unique dans son cœur.
 
@@ -69,7 +69,7 @@ Ce fut **Khadīja** qui proposa le mariage — par l'intermédiaire de son amie 
 
 <div class="scene-box">
 
-**🎭 La Scène**
+**📜 La Scène**
 
 **Nafīsa :** « Ô Muḥammad, pourquoi ne te maries-tu pas ? »
 

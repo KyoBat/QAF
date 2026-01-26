@@ -11,7 +11,7 @@ export const content = `# 💎 Le Jeune Homme Véridique — Une Réputation ava
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 ### Un jeune homme différent dans la société de la Jâhiliyya
 
@@ -38,7 +38,7 @@ Jusqu'à ce que les gens le surnomment : **As-Sâdiq Al-Amîn** ﷺ
 
 ### 💬 Témoignage des Mecquois
 
-> 🎭 **La Scène** : Un homme de Quraysh demanda :
+> 📜 **La Scène** : Un homme de Quraysh demanda :
 >
 > **« Qui est le plus véridique des gens ? »**
 >
@@ -77,7 +77,7 @@ Jusqu'à ce que les gens le surnomment : **As-Sâdiq Al-Amîn** ﷺ
 
 ---
 
-### 🎭 Histoire de l'indulgence
+### 📜 Histoire de l'indulgence
 
 > **La Situation** : Un homme vendit une marchandise à Muhammad ﷺ...
 >
@@ -138,7 +138,7 @@ Jusqu'à ce que les gens le surnomment : **As-Sâdiq Al-Amîn** ﷺ
 
 ## 💬 Témoignages des Contemporains
 
-### 🎭 Témoignage d'Abû Tâlib
+### 📜 Témoignage d'Abû Tâlib
 
 > **Abû Tâlib dit** :
 >
@@ -146,7 +146,7 @@ Jusqu'à ce que les gens le surnomment : **As-Sâdiq Al-Amîn** ﷺ
 
 ---
 
-### 🎭 Témoignage de Khadîja (le jour de la Révélation)
+### 📜 Témoignage de Khadîja (le jour de la Révélation)
 
 > **Khadîja dit** :
 >
@@ -160,7 +160,7 @@ Jusqu'à ce que les gens le surnomment : **As-Sâdiq Al-Amîn** ﷺ
 
 ---
 
-### 🎭 Témoignage d'Héraclius (Empereur de Byzance)
+### 📜 Témoignage d'Héraclius (Empereur de Byzance)
 
 Après avoir interrogé Abû Sufyân sur Muhammad ﷺ :
 
@@ -188,7 +188,7 @@ Après avoir interrogé Abû Sufyân sur Muhammad ﷺ :
 
 ---
 
-### 🎭 Position de Muhammad ﷺ
+### 📜 Position de Muhammad ﷺ
 
 > **Le Hadith** : Le Prophète ﷺ dit à propos de la guerre de Fijâr :
 >
@@ -224,7 +224,7 @@ Après avoir interrogé Abû Sufyân sur Muhammad ﷺ :
 
 ---
 
-### 🎭 L'Histoire de l'Injustice
+### 📜 L'Histoire de l'Injustice
 
 > **La Scène** : Un homme du Yémen vint à La Mecque avec des marchandises...
 >

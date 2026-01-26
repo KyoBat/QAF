@@ -2,7 +2,7 @@ export const contentFr = `# Les Options dans la Vente (Al-Khiyārāt)
 
 <div class="scene-box">
 
-**🎬 La Scène : Le marché de Koufa — Époque des Tābi'īn**
+**📖 La Scène : Le marché de Koufa — Époque des Tābi'īn**
 
 *'Alqama ibn Qays est assis avec son élève dans un cercle de savoir au marché, quand deux hommes arrivent en se disputant...*
 
@@ -86,7 +86,7 @@ export const contentFr = `# Les Options dans la Vente (Al-Khiyārāt)
 
 <div class="scene-box">
 
-**🎬 Dialogue : L'option de session est-elle établie ?**
+**📖 Dialogue : L'option de session est-elle établie ?**
 
 **Le Hanafite** : Chez nous, l'option de session n'est pas établie ! Le contrat est contraignant dès l'offre et l'acceptation.
 
@@ -123,7 +123,7 @@ export const contentFr = `# Les Options dans la Vente (Al-Khiyārāt)
 
 <div class="scene-box">
 
-**🎬 Application pratique : Achat d'une voiture avec option de stipulation**
+**📖 Application pratique : Achat d'une voiture avec option de stipulation**
 
 **L'Acheteur** : Je veux cette voiture, mais j'ai besoin de consulter mon père d'abord.
 
@@ -168,7 +168,7 @@ export const contentFr = `# Les Options dans la Vente (Al-Khiyārāt)
 
 <div class="scene-box">
 
-**🎬 Que fait l'acheteur s'il trouve un défaut ?**
+**📖 Que fait l'acheteur s'il trouve un défaut ?**
 
 **Le Juriste** : Si tu trouves un défaut dans le bien, tu as trois options :
 
@@ -214,7 +214,7 @@ Tu acceptes le défaut sans rien demander — c'est de la bonté.
 
 <div class="scene-box">
 
-**🎬 Qu'est-ce que la Tasriyah ?**
+**📖 Qu'est-ce que la Tasriyah ?**
 
 *Un vendeur arrive au marché avec une brebis dont il a retenu le lait dans les mamelles pendant des jours...*
 
@@ -242,7 +242,7 @@ Tu acceptes le défaut sans rien demander — c'est de la bonté.
 
 <div class="scene-box">
 
-**🎬 Exemple : La lésion excessive**
+**📖 Exemple : La lésion excessive**
 
 **Le Bédouin** *(venant du village)* : Je veux acheter une montre en cadeau pour mon fils.
 
@@ -276,7 +276,7 @@ Tu acceptes le défaut sans rien demander — c'est de la bonté.
 
 <div class="scene-box">
 
-**🎬 Exemple : L'achat sur description**
+**📖 Exemple : L'achat sur description**
 
 **L'Acheteur** *(au téléphone)* : Je veux acheter un tapis rouge, 3×4 mètres, laine naturelle.
 
@@ -339,7 +339,7 @@ Tu acceptes le défaut sans rien demander — c'est de la bonté.
 
 <div class="scene-box">
 
-**🎬 Au marché de Médine — Époque des Califes Bien-Guidés**
+**📖 Au marché de Médine — Époque des Califes Bien-Guidés**
 
 *'Umar ibn al-Khattāb رضي الله عنه inspecte les marchés comme à son habitude, quand un homme vient se plaindre...*
 

@@ -5,7 +5,7 @@ export const contentEn = `# 🕌 Sects in Islam — Introduction and Methodology
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 The study of Islamic sects is a **fundamental science** for every student of religious knowledge. Its purpose is not to divide or excommunicate, but to **protect the creed**, **distinguish truth from falsehood**, and **understand the intellectual history of Islam**.
 
@@ -72,7 +72,7 @@ Types of Disagreement
 
 <div class="scene-box">
 
-**🎭 SCENE: Understanding the Difference — Study Circle, Madinah**
+**📜 SCENE: Understanding the Difference — Study Circle, Madinah**
 
 *Two students discuss after class.*
 
@@ -109,7 +109,7 @@ Types of Disagreement
 
 <div class="scene-box">
 
-**🎭 SCENE: 'Abdullah ibn Saba' — The Seed of Fitnah (~35 AH)**
+**📜 SCENE: 'Abdullah ibn Saba' — The Seed of Fitnah (~35 AH)**
 
 *A man from Yemen, a Jew who recently professed Islam, travels from city to city.*
 
@@ -222,7 +222,7 @@ Conditions for Declaring an Individual a Disbeliever
 
 <div class="scene-box">
 
-**🎭 SCENE: Hudhayfah's Question — Madinah, Prophetic Era**
+**📜 SCENE: Hudhayfah's Question — Madinah, Prophetic Era**
 
 *Hudhayfah approaches the Prophet ﷺ with a question no one else dared to ask.*
 
@@ -267,7 +267,7 @@ Conditions for Declaring an Individual a Disbeliever
 
 <div class="scene-box">
 
-**🎭 SCENE: The Young Preacher — Local Mosque, Today**
+**📜 SCENE: The Young Preacher — Local Mosque, Today**
 
 *A young man returns from a study trip. He begins classifying everyone he meets.*
 

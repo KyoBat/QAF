@@ -77,7 +77,7 @@ export const content = `# 📜 صَلَاةُ الْمَرِيضِ — La Prièr
 
 <div class="scene-box">
 
-**🎭 La Scène de 'Imran ibn Husayn — Le fondement de la prière du malade**
+**📜 La Scène de 'Imran ibn Husayn — Le fondement de la prière du malade**
 
 *'Imran ibn Husayn رضي الله عنه était malade des hémorroïdes...*
 

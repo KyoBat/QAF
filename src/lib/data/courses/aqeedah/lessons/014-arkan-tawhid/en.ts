@@ -9,7 +9,7 @@ export const content = `# 🌟 The Pillars and Categories of Tawhid — أقسا
 
 ---
 
-## 🎬 Prologue: The Supreme Right of Allah
+## 📖 Prologue: The Supreme Right of Allah
 
 <div class="scene-box">
 

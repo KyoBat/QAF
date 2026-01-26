@@ -11,7 +11,7 @@ export const content = `# ⛓️ The Persecution of the Muslims — Ahadun Ahad
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 ### The Beginning of the Great Trial
 
@@ -63,7 +63,7 @@ They targeted **the weak** among the Muslims:
 
 ---
 
-### 🎭 The Scene — The Burning Rock
+### 📜 The Scene — The Burning Rock
 
 > **The time**: A scorching summer noon...
 >
@@ -133,7 +133,7 @@ They targeted **the weak** among the Muslims:
 
 ---
 
-### 🎭 The Scene — A Family Under Torture
+### 📜 The Scene — A Family Under Torture
 
 > **The place**: The burning sands of Mecca...
 >
@@ -205,7 +205,7 @@ They targeted **the weak** among the Muslims:
 
 ## 🔥 Khabbab ibn al-Aratt — Embers on the Back
 
-### 🎭 The Scene
+### 📜 The Scene
 
 > Khabbab was a **blacksmith** who made swords...
 >
@@ -304,7 +304,7 @@ They targeted **the weak** among the Muslims:
 
 ---
 
-## 🎭 The Great Confrontation — At the Court of the Negus
+## 📜 The Great Confrontation — At the Court of the Negus
 
 ### Quraysh's Delegation Pursues the Muslims
 
@@ -319,7 +319,7 @@ They targeted **the weak** among the Muslims:
 
 ---
 
-### 🎭 The Scene — At the Palace of the Negus
+### 📜 The Scene — At the Palace of the Negus
 
 > **The place**: The palace of the Negus, in Abyssinia...
 >
@@ -339,7 +339,7 @@ They targeted **the weak** among the Muslims:
 
 ---
 
-### 🎭 Ja'far Speaks — The Speech of Islam
+### 📜 Ja'far Speaks — The Speech of Islam
 
 > The Muslims entered upon the Negus...
 >
@@ -435,7 +435,7 @@ They targeted **the weak** among the Muslims:
 
 ---
 
-### 🎭 'Amr's Last Attempt — The Jesus Trap
+### 📜 'Amr's Last Attempt — The Jesus Trap
 
 > 'Amr ibn al-'As did not give up...
 >

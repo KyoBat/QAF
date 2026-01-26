@@ -5,7 +5,7 @@ export const contentFr = `# 🎯 Les Qadariyyah et Jabriyyah — Le Destin entre
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 La question du **destin** (al-qadar) est l'une des plus profondes de la théologie islamique. Elle touche à la nature d'Allah, à Sa science, à Sa volonté, et à la responsabilité humaine.
 
@@ -79,7 +79,7 @@ Les Qadariyyah sont ceux qui ont **nié** que les actes des serviteurs soient pr
 
 <div class="scene-box">
 
-**🎭 SCÈNE : L'Émergence de la Négation du Destin — Basra, ~80 H**
+**📜 SCÈNE : L'Émergence de la Négation du Destin — Basra, ~80 H**
 
 *Un cercle d'étudiants écoute Ma'bad al-Juhani.*
 
@@ -97,7 +97,7 @@ Les Qadariyyah sont ceux qui ont **nié** que les actes des serviteurs soient pr
 
 <div class="scene-box">
 
-**🎭 SCÈNE : Le Désaveu d'Ibn 'Umar — Médine, ~80 H**
+**📜 SCÈNE : Le Désaveu d'Ibn 'Umar — Médine, ~80 H**
 
 *Un homme vient à Ibn 'Umar رضي الله عنهما.*
 
@@ -150,7 +150,7 @@ Les Jabriyyah sont ceux qui ont **exagéré** dans l'affirmation du destin au po
 
 <div class="scene-box">
 
-**🎭 SCÈNE : La Doctrine du Jabr — Transoxiane, ~120 H**
+**📜 SCÈNE : La Doctrine du Jabr — Transoxiane, ~120 H**
 
 **Disciple** : « Ô Jahm, l'homme a-t-il un choix ? »
 
@@ -179,7 +179,7 @@ Les Jabriyyah sont ceux qui ont **exagéré** dans l'affirmation du destin au po
 
 <div class="scene-box">
 
-**🎭 SCÈNE : Le Test Logique**
+**📜 SCÈNE : Le Test Logique**
 
 *Un Sunni pose une question à un Jabrite.*
 
@@ -250,7 +250,7 @@ Les deux sont vrais :
 
 <div class="scene-box">
 
-**🎭 SCÈNE : Le Voleur et le Destin — Médine, Époque de 'Umar**
+**📜 SCÈNE : Le Voleur et le Destin — Médine, Époque de 'Umar**
 
 *Un voleur est amené devant 'Umar رضي الله عنه.*
 
@@ -276,7 +276,7 @@ Les deux sont vrais :
 
 <div class="scene-box">
 
-**🎭 SCÈNE : L'Étudiant Paresseux — Aujourd'hui**
+**📜 SCÈNE : L'Étudiant Paresseux — Aujourd'hui**
 
 **Étudiant** *(après avoir échoué)* : « C'est le mektoub ! C'était écrit que j'échoue ! »
 

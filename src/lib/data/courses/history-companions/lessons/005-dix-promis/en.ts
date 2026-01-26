@@ -14,7 +14,7 @@ export const content = `# 🌟 The Ten Promised Paradise — The Chosen Ones
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 Among thousands of Companions, **ten** received an extraordinary promise: the **certainty** of Paradise, during their lifetimes.
 

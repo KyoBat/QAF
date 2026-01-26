@@ -11,7 +11,7 @@ export const content = `# 🏜️ L'Arabie avant l'Islam — La Terre de la Prop
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 ### Un monde en attente de lumière
 
@@ -125,7 +125,7 @@ La péninsule n'était pas vide de monothéistes :
 | **Quss ibn Sâ'ida** | Orateur d'Iyâd, parla de la résurrection |
 | **Umayya ibn Abî as-Salt** | Poète, connut le monothéisme mais ne se convertit pas |
 
-> 🎭 **Récit** : Zayd interrogea les Juifs et les Chrétiens sur leur religion. Ils lui dirent : **« Tu trouveras ce que tu cherches dans la religion d'Abraham »**. Il chercha jusqu'à sa mort, avant la Révélation.
+> 📜 **Récit** : Zayd interrogea les Juifs et les Chrétiens sur leur religion. Ils lui dirent : **« Tu trouveras ce que tu cherches dans la religion d'Abraham »**. Il chercha jusqu'à sa mort, avant la Révélation.
 
 ---
 
@@ -165,7 +165,7 @@ La **tribu** était tout : identité, protection, loi.
 | **Vengeance** 🩸 | Sang pour sang | Guerres durant des générations |
 | **Fidélité** 🤝 | Respecter les pactes | Mourir plutôt que trahir |
 
-> 🎭 **La Guerre de Basûs** : Elle dura **40 ans** à cause d'une chamelle ! Voilà le niveau de l'esprit tribal.
+> 📜 **La Guerre de Basûs** : Elle dura **40 ans** à cause d'une chamelle ! Voilà le niveau de l'esprit tribal.
 
 ---
 
@@ -195,7 +195,7 @@ L'esclavage était répandu :
 
 ---
 
-## 🎭 La Vie Culturelle — Éloquence et Poésie
+## 📜 La Vie Culturelle — Éloquence et Poésie
 
 ### 📜 La Langue Arabe à son apogée
 
@@ -214,7 +214,7 @@ Les Arabes étaient fiers de trois choses :
 | **Sûq Dhû al-Majâz** | Près de 'Arafat | Commerce pendant le pèlerinage |
 | **Sûq Majanna** | Près de La Mecque | Littérature et commerce |
 
-> 🎭 **La Scène** : À 'Ukâz, le poète se levait et déclamait son poème. S'il plaisait, il était **suspendu à la Kaaba** : les Mu'allaqât (les Sept Suspendues) !
+> 📜 **La Scène** : À 'Ukâz, le poète se levait et déclamait son poème. S'il plaisait, il était **suspendu à la Kaaba** : les Mu'allaqât (les Sept Suspendues) !
 
 ---
 

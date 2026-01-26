@@ -11,7 +11,7 @@ export const content = `# 🏠 THE ANṢĀR — Those Who Shared Everything
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 The **Muhājirūn** left everything for Allah.
 
@@ -111,7 +111,7 @@ Sa'd, wounded in the battle, was brought on a donkey.
 
 <div class="scene-box">
 
-**🎭 The Scene of Judgment**
+**📜 The Scene of Judgment**
 
 **The Prophet ﷺ to the Anṣār:**
 "Stand up to receive your chief!"

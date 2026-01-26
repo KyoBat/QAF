@@ -2,7 +2,7 @@ export const contentFr = `# ⚖️ Les Conditions de la Vente — Les règles qu
 
 <div class="scene-box">
 
-**🎬 Scène d'ouverture : Une leçon à la mosquée de Koufa**
+**📖 Scène d'ouverture : Une leçon à la mosquée de Koufa**
 
 *Mosquée de Koufa... Un cercle de savoir entoure l'Imam Ibrahim an-Nakha'i, qu'Allah lui fasse miséricorde...*
 
@@ -61,7 +61,7 @@ Le Prophète ﷺ a dit :
 
 <div class="scene-box">
 
-**🎬 Scène : Au magasin**
+**📖 Scène : Au magasin**
 
 *Un homme inconscient à cause de l'ivresse entre dans un magasin...*
 
@@ -86,7 +86,7 @@ Le Prophète ﷺ a dit :
 
 <div class="scene-box">
 
-**🎬 Scène : L'enfant et l'épicerie**
+**📖 Scène : L'enfant et l'épicerie**
 
 *Ahmad (10 ans) va à l'épicerie avec la permission de son père pour acheter du pain...*
 
@@ -143,7 +143,7 @@ Allah تعالى a dit :
 
 <div class="scene-box">
 
-**🎬 Scène : Vente de l'inexistant**
+**📖 Scène : Vente de l'inexistant**
 
 **Le vendeur :** Je te vends le fœtus dans le ventre de cette vache pour mille !
 
@@ -213,7 +213,7 @@ Le Prophète ﷺ a dit :
 
 <div class="scene-box">
 
-**🎬 Scène : Vente de l'impossible à livrer**
+**📖 Scène : Vente de l'impossible à livrer**
 
 **Le vendeur :** Je te vends ce pigeon qui vole dans le ciel !
 
@@ -274,7 +274,7 @@ Le Prophète ﷺ a dit :
 
 <div class="scene-box">
 
-**🎬 Scène : Le prix inconnu**
+**📖 Scène : Le prix inconnu**
 
 **Le vendeur :** Je te vends la voiture au prix que tu jugeras convenable !
 
@@ -342,7 +342,7 @@ Le Prophète ﷺ a dit :
 
 <div class="scene-box">
 
-**🎬 Histoire : Honnêteté dans les conditions**
+**📖 Histoire : Honnêteté dans les conditions**
 
 *Un homme vint voir l'Imam Ahmad ibn Hanbal, qu'Allah lui fasse miséricorde...*
 

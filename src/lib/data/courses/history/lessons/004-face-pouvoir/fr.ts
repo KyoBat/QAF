@@ -14,7 +14,7 @@ export const content = `# ⚔️ الْأَئِمَّةُ وَالسُّلْطَ
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 Les quatre imams n'étaient pas des savants enfermés dans leurs bibliothèques. Ils vivaient dans un monde politique tumultueux — califats, révolutions, intrigues de palais. Et chacun d'eux a dû **affronter le pouvoir** à sa manière.
 
@@ -36,7 +36,7 @@ Il a vu la révolution abbasside renverser les Omeyyades — un bouleversement s
 
 <div class="scene-box">
 
-**🎭 Au Palais du Calife — Bagdad, vers 148 H**
+**📜 Au Palais du Calife — Bagdad, vers 148 H**
 
 *Le calife al-Manṣūr convoqua Abū Ḥanīfa dans son palais impérial. Les courtisans s'écartèrent respectueusement pour laisser passer le savant.*
 
@@ -107,7 +107,7 @@ Mālik (93-179 H) vécut principalement sous les Abbassides, à Médine. Bien qu
 
 <div class="scene-box">
 
-**🎭 Devant le Gouverneur — Médine, 147 H**
+**📜 Devant le Gouverneur — Médine, 147 H**
 
 *Le gouverneur de Médine, Ja'far ibn Sulaymān, convoqua Mālik. Il voulait forcer les gens à prêter allégeance au calife.*
 

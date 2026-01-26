@@ -13,7 +13,7 @@ Ten years after the Hijra. The Prophet ﷺ, aged 63, had never performed Hajj si
 
 ### The Announcement
 
-> 🎭 **Scene** :
+> 📜 **Scene** :
 > 
 > The Prophet ﷺ announced in Medina his intention to perform Hajj.
 > 
@@ -38,7 +38,7 @@ Ten years after the Hijra. The Prophet ﷺ, aged 63, had never performed Hajj si
 
 ### Departure from Medina
 
-> 🎭 **Scene** :
+> 📜 **Scene** :
 > 
 > The Prophet ﷺ performed ghusl (ritual bath), applied perfume, and donned the ihram (two pieces of white cloth) at Dhul-Hulayfa.
 > 
@@ -52,7 +52,7 @@ Ten years after the Hijra. The Prophet ﷺ, aged 63, had never performed Hajj si
 
 ### The Ocean of Humanity
 
-> 🎭 **Scene** :
+> 📜 **Scene** :
 > 
 > Jabir ibn 'Abdullah narrates:
 > 
@@ -68,7 +68,7 @@ Ten years after the Hijra. The Prophet ﷺ, aged 63, had never performed Hajj si
 
 ### Tawaf and Sa'i
 
-> 🎭 **Scene** :
+> 📜 **Scene** :
 > 
 > The Prophet ﷺ entered through the gate of Banu Shayba.
 > 
@@ -103,7 +103,7 @@ Ten years after the Hijra. The Prophet ﷺ, aged 63, had never performed Hajj si
 
 On the 9th of Dhul-Hijja, the Prophet ﷺ mounted his camel al-Qaswa' and delivered the most important sermon in human history.
 
-> 🎭 **Scene** :
+> 📜 **Scene** :
 > 
 > More than 100,000 people stood in silence.
 > 
@@ -195,7 +195,7 @@ On the 9th of Dhul-Hijja, the Prophet ﷺ mounted his camel al-Qaswa' and delive
 
 ### The Verse of Completion
 
-> 🎭 **Scene** :
+> 📜 **Scene** :
 > 
 > That day, at Arafat, the last verse concerning halal and haram descended:
 > 
@@ -206,7 +206,7 @@ On the 9th of Dhul-Hijja, the Prophet ﷺ mounted his camel al-Qaswa' and delive
 
 ### 'Umar's Reaction
 
-> 🎭 **Scene** :
+> 📜 **Scene** :
 > 
 > When this verse was revealed, 'Umar ibn al-Khattab wept.
 > 
@@ -220,7 +220,7 @@ On the 9th of Dhul-Hijja, the Prophet ﷺ mounted his camel al-Qaswa' and delive
 
 ### A Jew's Testimony
 
-> 🎭 **Scene** :
+> 📜 **Scene** :
 > 
 > A Jew said to 'Umar after the Prophet's ﷺ death:
 > 
@@ -251,7 +251,7 @@ On the 10th of Dhul-Hijja (Day of Sacrifice), the Prophet ﷺ:
 
 ### Final Instructions
 
-> 🎭 **Scene** :
+> 📜 **Scene** :
 > 
 > During the days of Mina, the Prophet ﷺ repeated several times:
 > 

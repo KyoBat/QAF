@@ -10,7 +10,7 @@ export const content = `# 👩‍🏫 Women in the Lives of the Imams
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 Behind every great imam, there are **exceptional women**. Mothers who raised, wives who supported, and daughters who transmitted knowledge. This lesson reveals the crucial role of women in shaping these giants.
 
@@ -30,7 +30,7 @@ Behind every great imam, there are **exceptional women**. Mothers who raised, wi
 
 <div class="scene-box">
 
-**🎭 SCENE: The Eternal Advice — Family Home in Medina, ~105 H**
+**📜 SCENE: The Eternal Advice — Family Home in Medina, ~105 H**
 
 *The mother dresses her son Malik in his finest clothes.*
 
@@ -75,7 +75,7 @@ Behind every great imam, there are **exceptional women**. Mothers who raised, wi
 
 <div class="scene-box">
 
-**🎭 SCENE: Before Dawn — Baghdad, ~170 H**
+**📜 SCENE: Before Dawn — Baghdad, ~170 H**
 
 *A cold winter night. Ahmad's mother wakes her little boy.*
 

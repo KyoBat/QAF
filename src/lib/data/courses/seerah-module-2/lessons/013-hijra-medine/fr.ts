@@ -18,7 +18,7 @@ Après treize ans de prédication à La Mecque, après Al-Isra wal-Mi'raj, une n
 
 Pendant la saison du pèlerinage, le Prophète ﷺ rencontra six hommes de la tribu des Khazraj de Yathrib :
 
-> 🎭 **La Scène** :
+> 📜 **La Scène** :
 >
 > Le Prophète ﷺ s'assit avec ces hommes à Al-Aqaba. Ils écoutèrent ses paroles, et il leur récita le Coran. Ils se regardèrent les uns les autres et dirent :
 >
@@ -64,7 +64,7 @@ L'année suivante, une immense délégation vint de Yathrib :
 
 ### Le Contenu du Serment
 
-> 🎭 **La Scène** :
+> 📜 **La Scène** :
 >
 > Dans l'obscurité de la nuit, les Ansar se faufilèrent vers Al-Aqaba. Le Prophète ﷺ vint accompagné de son oncle Al-Abbas (qui n'était pas encore musulman, mais voulait protéger son neveu).
 >
@@ -135,7 +135,7 @@ Les musulmans commencèrent à partir secrètement, individuellement et en group
 | **'Umar ibn al-Khattab** | Émigra ouvertement, défiant Quraysh |
 | **'Ayyash ibn Abi Rabi'a** | Fut trompé et ramené enchaîné à La Mecque |
 
-> 🎭 **L'Histoire de Suhayb** :
+> 📜 **L'Histoire de Suhayb** :
 >
 > Quand Suhayb voulut émigrer, Quraysh lui dit : *« Tu es venu chez nous misérable et insignifiant, ta fortune a grandi chez nous, tu as atteint ce que tu as atteint, et maintenant tu veux partir avec ta fortune et ta vie ?! Par Allah, cela ne sera pas ! »*
 >
@@ -155,7 +155,7 @@ Les musulmans commencèrent à partir secrètement, individuellement et en group
 
 Quand Quraysh vit que les musulmans émigraient, ils craignirent que Muhammad ﷺ les rejoigne et devienne plus puissant. Ils se réunirent à **Dar an-Nadwa** pour délibérer :
 
-> 🎭 **La Scène** :
+> 📜 **La Scène** :
 >
 > Les chefs de Quraysh s'assirent pour discuter :
 >
@@ -186,7 +186,7 @@ Et il lui fut permis d'émigrer.
 
 ### 'Ali dans le Lit du Prophète ﷺ
 
-> 🎭 **La Scène** :
+> 📜 **La Scène** :
 >
 > Cette nuit bénie, le Prophète ﷺ vint à la maison d'Abu Bakr à une heure inhabituelle — en plein midi.
 >
@@ -208,7 +208,7 @@ Et il lui fut permis d'émigrer.
 
 ### Les Jeunes Encerclent la Maison
 
-> 🎭 **La Scène** :
+> 📜 **La Scène** :
 >
 > Les jeunes de chaque tribu se rassemblèrent autour de la maison du Prophète ﷺ, épées dégainées, attendant qu'il sorte pour le frapper d'un seul coup.
 >
@@ -220,7 +220,7 @@ Et il lui fut permis d'émigrer.
 
 ### La Sortie Miraculeuse
 
-> 🎭 **La Scène** :
+> 📜 **La Scène** :
 >
 > Le Prophète ﷺ sortit de sa maison alors que les hommes attendaient à sa porte. Il prit une poignée de terre et la jeta sur leurs têtes tout en récitant :
 >
@@ -240,7 +240,7 @@ Et il lui fut permis d'émigrer.
 
 ### Le Chemin vers la Grotte
 
-> 🎭 **La Scène** :
+> 📜 **La Scène** :
 >
 > Le Prophète ﷺ et Abu Bakr marchèrent vers le sud — à l'opposé de la direction de Médine — vers le mont Thawr. Abu Bakr marchait tantôt devant lui, tantôt derrière lui.
 >
@@ -269,7 +269,7 @@ Les cavaliers de Quraysh partirent dans toutes les directions à leur recherche.
 
 ### À l'Entrée de la Grotte
 
-> 🎭 **La Scène** :
+> 📜 **La Scène** :
 >
 > Les polythéistes atteignirent l'entrée de la grotte ! Abu Bakr tremblait. Il regarda et vit leurs pieds !
 >
@@ -289,7 +289,7 @@ Allah envoya des soldats pour protéger Son Prophète :
 | **🕊️ La Colombe** | Pondit ses œufs dans un nid devant l'entrée |
 | **🌳 L'Arbre** | Un arbre poussa pour cacher l'entrée |
 
-> 🎭 **La Scène** :
+> 📜 **La Scène** :
 >
 > L'un d'eux regarda la grotte et dit : *« Il n'y a rien dans cette grotte ! Regardez la toile d'araignée à son entrée ! Par Allah, elle a été tissée avant même que Muhammad soit né ! »*
 >
@@ -320,7 +320,7 @@ Après trois jours, la poursuite s'était calmée. 'Abdullah ibn Urayqit vint av
 
 ### Suraqa ibn Malik
 
-> 🎭 **La Scène** :
+> 📜 **La Scène** :
 >
 > Quand Suraqa ibn Malik entendit parler de la récompense, il monta son cheval et suivit leurs traces. Quand il s'approcha d'eux, Abu Bakr dit : *« Les poursuivants nous ont rattrapés, ô Messager d'Allah ! »*
 >
@@ -336,7 +336,7 @@ Après trois jours, la poursuite s'était calmée. 'Abdullah ibn Urayqit vint av
 
 ### Les Bracelets de Chosroês
 
-> 🎭 **La Scène** :
+> 📜 **La Scène** :
 >
 > Quand Suraqa fut sauvé, il demanda au Prophète ﷺ un écrit de sauf-conduit. Abu Bakr lui écrivit sur un morceau de cuir.
 >
@@ -350,7 +350,7 @@ Après trois jours, la poursuite s'était calmée. 'Abdullah ibn Urayqit vint av
 
 ### Umm Ma'bad al-Khuza'iyya
 
-> 🎭 **La Scène** :
+> 📜 **La Scène** :
 >
 > En chemin, ils passèrent par la tente d'Umm Ma'bad al-Khuza'iyya. C'était une femme courageuse qui offrait nourriture et boisson aux voyageurs. Mais la sécheresse avait décimé son troupeau.
 >
@@ -390,7 +390,7 @@ Abu Ma'bad dit : *« C'est, par Allah, l'homme de Quraysh qu'ils recherchent ! �
 
 Le lundi 12 Rabi' al-Awwal an 1 H (24 septembre 622), le Prophète ﷺ atteignit **Quba** — un village au sud de Médine.
 
-> 🎭 **La Scène** :
+> 📜 **La Scène** :
 >
 > Les Ansar sortaient chaque jour vers la Harra pour attendre. Quand la chaleur devenait intense, ils rentraient. Ce jour-là, ils étaient rentrés déçus.
 >
@@ -417,7 +417,7 @@ Le Prophète ﷺ resta à Quba quatorze jours et fonda la première mosquée de 
 
 Le vendredi 12 Rabi' al-Awwal, le Prophète ﷺ partit de Quba vers le cœur de Médine.
 
-> 🎭 **La Scène** :
+> 📜 **La Scène** :
 >
 > En chemin, l'heure de la prière du vendredi arriva chez les **Banu Salim ibn 'Awf**. Il descendit et pria avec eux — la première Jumu'a de l'Islam !
 
@@ -425,7 +425,7 @@ Le vendredi 12 Rabi' al-Awwal, le Prophète ﷺ partit de Quba vers le cœur de 
 
 ### L'Accueil Légendaire
 
-> 🎭 **La Scène** :
+> 📜 **La Scène** :
 >
 > Les habitants de Médine sortirent, hommes, femmes et enfants. Les garçons et serviteurs montèrent sur les toits, tous chantant :
 >
@@ -451,7 +451,7 @@ Le vendredi 12 Rabi' al-Awwal, le Prophète ﷺ partit de Quba vers le cœur de 
 
 ### Où Descendre ?
 
-> 🎭 **La Scène** :
+> 📜 **La Scène** :
 >
 > Chaque clan des Ansar voulait que le Prophète ﷺ descende chez lui. À chaque passage devant un groupe, ils saisissaient le licou de sa chamelle :
 >

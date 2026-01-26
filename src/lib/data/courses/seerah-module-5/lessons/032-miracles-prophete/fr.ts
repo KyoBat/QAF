@@ -12,7 +12,7 @@ export const content = `# 📜 المُعْجِزَاتُ النَّبَوِيَ
 
 ---
 
-## 🎬 Mise en Contexte
+## 📖 Mise en Contexte
 
 Le miracle (*mu'jiza*) est un **événement surnaturel** accordé par Allah à Ses prophètes comme preuve de leur véracité. Le Prophète Muhammad ﷺ a reçu des miracles **innombrables**, dont le plus grand est le **Coran** lui-même.
 
@@ -96,7 +96,7 @@ Le Coran est le **miracle permanent** du Prophète ﷺ, à la différence des mi
 
 ### 3️⃣ La Multiplication de la Nourriture (تكثير الطعام)
 
-> 🎭 **SCÈNE — Bataille de la Tranchée**
+> 📜 **SCÈNE — Bataille de la Tranchée**
 >
 > Jābir rapporte : « Lors de la bataille de la Tranchée, je vis une faim extrême chez le Prophète ﷺ. Je rentrai chez moi et demandai à ma femme de préparer ce que nous avions : un petit bouc et de l'orge. J'invitai le Prophète ﷺ avec quelques personnes. Il dit : "Ne retirez pas la marmite avant mon arrivée." Puis il appela tous les gens de la Tranchée : ils étaient mille ! Tous mangèrent à satiété. »
 > — **[Al-Bukhārī 4102, Muslim 2039]**

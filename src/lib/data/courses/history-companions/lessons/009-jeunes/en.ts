@@ -11,7 +11,7 @@ export const content = `# 📚 THE YOUNG COMPANIONS — Ibn 'Abbās and Ibn 'Uma
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 Among the Companions, some were merely **children** during the Prophet's ﷺ time.
 

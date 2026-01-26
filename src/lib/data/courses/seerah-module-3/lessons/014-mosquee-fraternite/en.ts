@@ -10,7 +10,7 @@ export const content = `
 
 The Prophet ﷺ arrived in Medina in Rabi' al-Awwal of the first year of Hijra. Medina — which was called "Yathrib" — had been waiting for this blessed day.
 
-> 🎭 **The Scene**:
+> 📜 **The Scene**:
 >
 > The Prophet ﷺ settled in the house of Abu Ayyub al-Ansari رضي الله عنه. He spent seven months under his generous hospitality, until the Prophet's Mosque and the apartments of the Mothers of the Believers were built.
 
@@ -22,7 +22,7 @@ The Prophet ﷺ arrived in Medina in Rabi' al-Awwal of the first year of Hijra. 
 
 The Prophet's ﷺ she-camel knelt on a date-drying ground belonging to two orphans from Banu Najjar: **Sahl and Suhayl, sons of 'Amr**.
 
-> 🎭 **The Scene**:
+> 📜 **The Scene**:
 >
 > The Prophet ﷺ wanted to buy the land. The two boys said: *"Rather, we give it to you as a gift, O Messenger of Allah!"*
 >
@@ -46,7 +46,7 @@ The Prophet's ﷺ she-camel knelt on a date-drying ground belonging to two orpha
 
 ### The Prophet ﷺ Works with His Hands
 
-> 🎭 **The Scene**:
+> 📜 **The Scene**:
 >
 > The Prophet ﷺ did not simply sit giving orders. He rolled up his sleeves and carried bricks and stones with his Companions!
 >
@@ -94,7 +94,7 @@ The Muslims wondered: How do we gather people for prayer?
 
 ### The Vision of Abdullah ibn Zayd
 
-> 🎭 **The Scene**:
+> 📜 **The Scene**:
 >
 > Abdullah ibn Zayd رضي الله عنه came to the Prophet ﷺ and said:
 >
@@ -108,7 +108,7 @@ The Muslims wondered: How do we gather people for prayer?
 
 ### Bilal — The First Muezzin in Islam
 
-> 🎭 **The Scene**:
+> 📜 **The Scene**:
 >
 > Bilal رضي الله عنه climbed onto the highest house in Medina and raised his melodious voice for the first adhan:
 >
@@ -147,7 +147,7 @@ The Muhajirin arrived in Medina having left everything in Mecca:
 
 ### The Prophetic Solution: Brotherhood
 
-> 🎭 **The Scene**:
+> 📜 **The Scene**:
 >
 > The Prophet ﷺ gathered the Muhajirin and Ansar in the house of Anas ibn Malik رضي الله عنه. He stood among them and said:
 >
@@ -161,7 +161,7 @@ The Muhajirin arrived in Medina having left everything in Mecca:
 
 #### 1. 'Abd ar-Rahman ibn 'Awf and Sa'd ibn ar-Rabi'
 
-> 🎭 **The Scene**:
+> 📜 **The Scene**:
 >
 > The Prophet ﷺ established brotherhood between **'Abd ar-Rahman ibn 'Awf** (the Muhajir) and **Sa'd ibn ar-Rabi'** (the Ansari).
 >
@@ -183,7 +183,7 @@ The Muhajirin arrived in Medina having left everything in Mecca:
 
 #### 3. 'Ali ibn Abi Talib... and the Prophet ﷺ!
 
-> 🎭 **The Scene**:
+> 📜 **The Scene**:
 >
 > When the Prophet ﷺ established brotherhood between the Companions, 'Ali رضي الله عنه remained without a brother. His eyes filled with tears.
 >
@@ -247,7 +247,7 @@ The Muslims prayed toward Jerusalem for **16 or 17 months** after the Hijra.
 
 ### Longing for the Ka'ba
 
-> 🎭 **The Scene**:
+> 📜 **The Scene**:
 >
 > The Prophet ﷺ would turn his gaze toward the sky, hoping to be directed toward the qibla of Ibrahim عليه السلام — the sacred Ka'ba.
 >
@@ -260,7 +260,7 @@ The Muslims prayed toward Jerusalem for **16 or 17 months** after the Hijra.
 
 ### The Moment of Change
 
-> 🎭 **The Scene**:
+> 📜 **The Scene**:
 >
 > The Prophet ﷺ was praying with his Companions the dhuhr prayer in the mosque of Banu Salama. In the middle of the prayer, Jibril descended with the command to change!
 >

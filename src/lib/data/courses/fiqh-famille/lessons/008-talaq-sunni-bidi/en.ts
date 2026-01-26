@@ -13,9 +13,9 @@ export const contentEn = `# ☀️🌙 Sunni vs. Bid'i Divorce — The Right and
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
-### 🎭 Scene: The Regretful Divorce
+### 📜 Scene: The Regretful Divorce
 
 > **In the masjid after Fajr...**
 >
@@ -146,7 +146,7 @@ export const contentEn = `# ☀️🌙 Sunni vs. Bid'i Divorce — The Right and
 
 ---
 
-## 🎭 Story: The Prophet ﷺ Corrects Ibn Umar
+## 📜 Story: The Prophet ﷺ Corrects Ibn Umar
 
 ### The Full Story
 

@@ -2,7 +2,7 @@ export const contentEn = `# Usury (Riba) — Definition and Prohibition
 
 <div class="scene-box">
 
-**🎬 The Scene: The Farewell Pilgrimage Sermon — Mount Arafat**
+**📖 The Scene: The Farewell Pilgrimage Sermon — Mount Arafat**
 
 *One hundred thousand Companions stand attentively as the Prophet ﷺ delivers his magnificent farewell sermon...*
 
@@ -49,7 +49,7 @@ export const contentEn = `# Usury (Riba) — Definition and Prohibition
 
 <div class="scene-box">
 
-**🎬 At the Consultative Council — Madinah**
+**📖 At the Consultative Council — Madinah**
 
 *'Umar ibn al-Khattab (may Allah be pleased with him) sits with the senior Companions, discussing a legal matter...*
 
@@ -121,7 +121,7 @@ export const contentEn = `# Usury (Riba) — Definition and Prohibition
 
 <div class="scene-box">
 
-**🎬 Reflection: The Most Severe Threat in the Quran!**
+**📖 Reflection: The Most Severe Threat in the Quran!**
 
 There is no threat in the Quran of war from Allah and His Messenger except for usury!
 
@@ -197,7 +197,7 @@ There is no threat in the Quran of war from Allah and His Messenger except for u
 
 <div class="scene-box">
 
-**🎬 The Argument of the People of Jahiliya**
+**📖 The Argument of the People of Jahiliya**
 
 **The Polytheist** *(protesting)*: What is the difference between trade and usury? Both generate profit! Trade is like usury!
 
@@ -227,7 +227,7 @@ There is no threat in the Quran of war from Allah and His Messenger except for u
 
 <div class="scene-box">
 
-**🎬 The 2008 Crisis — The Collapse of the Usurious System**
+**📖 The 2008 Crisis — The Collapse of the Usurious System**
 
 *Wall Street — New York — September 2008...*
 
@@ -401,7 +401,7 @@ Usury is among the things known of the religion by necessity, and whoever denies
 
 <div class="scene-box">
 
-**🎬 The Path of Repentance**
+**📖 The Path of Repentance**
 
 **The Repentant**: O Sheikh, I used to practice usury out of ignorance, and now I have repented to Allah. What should I do?
 

@@ -14,7 +14,7 @@ export const content = `# 🤝 لِقَاءَاتُ الْأَئِمَّةِ —
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 L'histoire islamique nous offre des moments extraordinaires : des instants où ces géants du savoir se sont **réellement rencontrés**. Ces rencontres n'étaient pas des confrontations hostiles, mais des dialogues d'une richesse intellectuelle incroyable.
 
@@ -51,7 +51,7 @@ Deux approches différentes, deux villes différentes, mais un respect mutuel pr
 
 <div class="scene-box">
 
-**🎭 À la Mosquée du Prophète — vers 150 H**
+**📜 À la Mosquée du Prophète — vers 150 H**
 
 *Pendant le Hajj, Abū Ḥanīfa entra dans la mosquée de Médine. Mālik y tenait son cercle d'enseignement, entouré de ses élèves.*
 
@@ -77,7 +77,7 @@ Deux approches différentes, deux villes différentes, mais un respect mutuel pr
 
 <div class="scene-box">
 
-**🎭 Après le débat**
+**📜 Après le débat**
 
 *Une fois Abū Ḥanīfa parti, Mālik se tourna vers ses élèves :*
 
@@ -105,7 +105,7 @@ Ces deux géants se sont rencontrés, ont débattu, puis **sont repartis en se r
 
 <div class="scene-box">
 
-**🎭 L'arrivée du jeune Qurayshite — Médine 163 H**
+**📜 L'arrivée du jeune Qurayshite — Médine 163 H**
 
 *Un jeune homme de vingt ans entra dans le cercle de Mālik, portant une lettre du gouverneur de La Mecque.*
 
@@ -142,7 +142,7 @@ Al-Shāfi'ī resta auprès de Mālik pendant environ **9 ans**, jusqu'à la mort
 
 <div class="scene-box">
 
-**🎭 La question audacieuse de l'élève**
+**📜 La question audacieuse de l'élève**
 
 *Un jour, Mālik donna une fatwa. Al-Shāfi'ī se leva, contrairement à l'usage...*
 
@@ -166,7 +166,7 @@ C'est cet esprit critique, combiné au respect, qui fit d'al-Shāfi'ī un grand 
 
 <div class="scene-box">
 
-**🎭 L'Adieu Final — Rabī' al-Awwal 179 H**
+**📜 L'Adieu Final — Rabī' al-Awwal 179 H**
 
 *Sur son lit de maladie, Mālik prit la main d'al-Shāfi'ī...*
 
@@ -201,7 +201,7 @@ C'était la rencontre de deux mondes :
 
 <div class="scene-box">
 
-**🎭 Dans le cercle de Bagdad — Le Grand Débat**
+**📜 Dans le cercle de Bagdad — Le Grand Débat**
 
 *La salle était remplie d'étudiants. Al-Shāfi'ī était assis d'un côté, al-Shaybānī de l'autre.*
 
@@ -229,7 +229,7 @@ Ces débats affinèrent la méthodologie d'al-Shāfi'ī, qui écrivit plus tard 
 
 <div class="scene-box">
 
-**🎭 Après deux années de débats**
+**📜 Après deux années de débats**
 
 *Al-Shāfi'ī était assis avec ses élèves. L'un d'eux lui demanda :*
 
@@ -255,7 +255,7 @@ Et al-Shaybānī, à son tour, reconnaissait la brillance d'al-Shāfi'ī dans le
 
 <div class="scene-box">
 
-**🎭 Dans les marchés de Bagdad — 195 H**
+**📜 Dans les marchés de Bagdad — 195 H**
 
 *Aḥmad ibn Ḥanbal avait entendu parler d'un savant nommé al-Shāfi'ī, arrivé de La Mecque.*
 
@@ -277,7 +277,7 @@ Et al-Shaybānī, à son tour, reconnaissait la brillance d'al-Shāfi'ī dans le
 
 <div class="scene-box">
 
-**🎭 Question d'un ami**
+**📜 Question d'un ami**
 
 *Certains compagnons d'Aḥmad le voyaient assister aux cours d'al-Shāfi'ī chaque jour.*
 
@@ -311,7 +311,7 @@ De Aḥmad, al-Shāfi'ī gagna :
 
 <div class="scene-box">
 
-**🎭 L'adieu d'al-Shāfi'ī à Aḥmad — 199 H**
+**📜 L'adieu d'al-Shāfi'ī à Aḥmad — 199 H**
 
 *Al-Shāfi'ī décida de partir pour l'Égypte. Il vint faire ses adieux à Aḥmad...*
 
@@ -335,7 +335,7 @@ De Aḥmad, al-Shāfi'ī gagna :
 
 <div class="scene-box">
 
-**🎭 La nouvelle de la mort — Bagdad 204 H**
+**📜 La nouvelle de la mort — Bagdad 204 H**
 
 *La nouvelle parvint à Bagdad : Al-Shāfi'ī était mort en Égypte.*
 

@@ -11,9 +11,9 @@ export const contentEn = `# 🌍 Al-'Urf and Sadd Al-Dhara'i — Custom and Bloc
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
-### 🎭 Scene: Abdullah ibn Mas'ud and Women's Adornment
+### 📜 Scene: Abdullah ibn Mas'ud and Women's Adornment
 
 > **Kufa, during the era of the Companions...**
 >
@@ -35,7 +35,7 @@ export const contentEn = `# 🌍 Al-'Urf and Sadd Al-Dhara'i — Custom and Bloc
 
 ---
 
-### 🎭 Scene: Omar and Blocking Pretexts
+### 📜 Scene: Omar and Blocking Pretexts
 
 > **Omar ibn al-Khattab** — may Allah be pleased with him — prohibited Muslims from marrying women of the People of the Book during conquests.
 >
@@ -146,7 +146,7 @@ export const contentEn = `# 🌍 Al-'Urf and Sadd Al-Dhara'i — Custom and Bloc
 
 ---
 
-## 🎭 Story: The Muftahis and Custom
+## 📜 Story: The Muftahis and Custom
 
 ### The Case
 

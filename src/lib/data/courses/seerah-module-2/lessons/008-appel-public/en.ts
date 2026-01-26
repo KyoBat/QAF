@@ -11,7 +11,7 @@ export const content = `# 📢 The Public Call — The Proclamation at Mount Saf
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 ### The End of the Secret Phase
 
@@ -40,7 +40,7 @@ Then **the divine command** that would change the course of history descended!
 
 ---
 
-### 🎭 First Scene — The First Banquet
+### 📜 First Scene — The First Banquet
 
 > **The place**: The house of Abu Talib...
 >
@@ -62,7 +62,7 @@ Then **the divine command** that would change the course of history descended!
 
 ---
 
-### 🎭 Second Scene — The Second Banquet
+### 📜 Second Scene — The Second Banquet
 
 > The Messenger of Allah ﷺ did not despair...
 >
@@ -113,7 +113,7 @@ Then **the divine command** that would change the course of history descended!
 
 ---
 
-### 🎭 The Scene — The Ascent and the Call
+### 📜 The Scene — The Ascent and the Call
 
 > A bright morning...
 >
@@ -177,7 +177,7 @@ Then **the divine command** that would change the course of history descended!
 
 ## 🔥 Abu Lahab's Response — Eternal Damnation
 
-### 🎭 The Scene
+### 📜 The Scene
 
 > Amid the solemn silence...
 >
@@ -236,7 +236,7 @@ Then **the divine command** that would change the course of history descended!
 
 ---
 
-#### 🎭 The First Delegation
+#### 📜 The First Delegation
 
 > **Quraysh**: O Abu Talib! Your nephew has insulted our gods, criticized our religion, called our ancestors fools, and led our fathers astray.
 >
@@ -246,7 +246,7 @@ Then **the divine command** that would change the course of history descended!
 
 ---
 
-#### 🎭 The Second Delegation — The Threat
+#### 📜 The Second Delegation — The Threat
 
 > They returned with a firmer delegation:
 >
@@ -258,7 +258,7 @@ Then **the divine command** that would change the course of history descended!
 
 ---
 
-#### 🎭 The Scene of Confrontation — The Sun and the Moon
+#### 📜 The Scene of Confrontation — The Sun and the Moon
 
 > The matter became heavy for Abu Talib...
 >
@@ -292,7 +292,7 @@ Then **the divine command** that would change the course of history descended!
 
 ---
 
-#### 🎭 The Scene of 'Utba ibn Rabi'a
+#### 📜 The Scene of 'Utba ibn Rabi'a
 
 > **The place**: Near the Kaaba...
 >

@@ -13,9 +13,9 @@ export const contentEn = `# 📜 Pillars of Marriage — The Foundations of a Va
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
-### 🎭 Scene: The Invalid Marriage
+### 📜 Scene: The Invalid Marriage
 
 > **A community center, years later...**
 >
@@ -37,7 +37,7 @@ export const contentEn = `# 📜 Pillars of Marriage — The Foundations of a Va
 
 ---
 
-### 🎭 Scene: The Proper Marriage
+### 📜 Scene: The Proper Marriage
 
 > **In a masjid...**
 >
@@ -218,7 +218,7 @@ export const contentEn = `# 📜 Pillars of Marriage — The Foundations of a Va
 
 ---
 
-## 🎭 Story: The Marriage of Fatimah
+## 📜 Story: The Marriage of Fatimah
 
 ### The Simplest of Weddings
 

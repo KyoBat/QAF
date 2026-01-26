@@ -29,7 +29,7 @@ When the Prophet ﷺ arrived in Medina, he found a diverse and complex society:
 
 ### The Hypocrites
 
-> 🎭 **Scene**:
+> 📜 **Scene**:
 > 
 > 'Abdullah ibn Ubayy ibn Salūl was on the verge of being crowned king of Medina when Islam came and disrupted his plans. He entered Islam outwardly, but his heart seethed with resentment and hatred.
 > 
@@ -46,7 +46,7 @@ The Prophet ﷺ realized that building a strong state was impossible without:
 3. **Coexistence** among different components
 4. **Common defense** against enemies
 
-> 🎭 **Scene of the Foundation**:
+> 📜 **Scene of the Foundation**:
 > 
 > The Prophet ﷺ sat with the notables of the Muhājirīn, the Ansar, and the chiefs of the Jewish tribes. He unrolled a long scroll before them and said:
 > 
@@ -103,7 +103,7 @@ This is the first declaration in history placing the bond of faith above tribal 
 
 ### Story of the First Application
 
-> 🎭 **Scene**:
+> 📜 **Scene**:
 > 
 > A man from Banū Qaynuqā' came to complain to the Prophet ﷺ that a man from the Ansar had wronged him in a commercial transaction.
 > 

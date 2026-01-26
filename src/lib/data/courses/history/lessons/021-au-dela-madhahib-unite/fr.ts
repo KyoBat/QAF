@@ -8,7 +8,7 @@ export const content = `# 🤝 Au-delà des Madhahib : L'Unité de la Oumma
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 Les quatre madhabs ne sont pas des sectes en conflit, mais des interprétations complémentaires d'une même Charia. Cette leçon traite de l'éthique de la divergence et de l'unité de la Oumma.
 
@@ -52,7 +52,7 @@ Les quatre madhabs ne sont pas des sectes en conflit, mais des interprétations 
 
 <div class="scene-box">
 
-**🎭 Rencontre des deux savants :**
+**📜 Rencontre des deux savants :**
 
 Quand Abu Hanifa rencontra Malik à Médine, Malik lui posa des questions de fiqh.
 
@@ -72,7 +72,7 @@ Puis Malik dit à ses élèves : **« Je n'ai jamais vu quelqu'un de plus savant
 
 <div class="scene-box">
 
-**🎭 L'amitié des deux imams :**
+**📜 L'amitié des deux imams :**
 
 **Ahmad** dit à propos d'al-Shafi'i :
 « Je n'ai vu personne de plus savant du Livre d'Allah et de la Sunna de Son Messager qu'al-Shafi'i. »

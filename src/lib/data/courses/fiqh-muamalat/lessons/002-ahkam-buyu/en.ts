@@ -2,7 +2,7 @@ export const contentEn = `# 🏪 Rules of Sale — The Science of Prophetic Comm
 
 <div class="scene-box">
 
-**🎬 Opening Scene: At the Madinah Market**
+**📖 Opening Scene: At the Madinah Market**
 
 *The market of Madinah... The sun sends its golden rays upon the sellers and buyers...*
 
@@ -385,7 +385,7 @@ The Prophet ﷺ said:
 
 <div class="scene-box">
 
-**🎬 Story: The Scholar's Integrity**
+**📖 Story: The Scholar's Integrity**
 
 *It is narrated that al-Hasan al-Basri, may Allah have mercy on him, wanted to sell his donkey...*
 

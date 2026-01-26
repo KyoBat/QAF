@@ -10,7 +10,7 @@ export const content = `# 🕌 La Vie d'Abu Hanifa (80-150 H)
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 Il est **l'Imam al-A'zam** (le plus grand imam), chef des mujtahidun, et le premier à avoir codifié le fiqh islamique de manière systématique. Il vécut **70 ans** remplis de savoir, d'ascétisme et de fermeté face à l'injustice.
 
@@ -40,7 +40,7 @@ Il est **l'Imam al-A'zam** (le plus grand imam), chef des mujtahidun, et le prem
 
 <div class="scene-box">
 
-**🎭 SCÈNE : La Décision de Sa Vie — Marché de Kufa, ~95 H**
+**📜 SCÈNE : La Décision de Sa Vie — Marché de Kufa, ~95 H**
 
 *Un jeune homme de 15 ans vend de la soie dans le souk. Le grand savant Sha'bi passe près de lui.*
 
@@ -123,7 +123,7 @@ Il est **l'Imam al-A'zam** (le plus grand imam), chef des mujtahidun, et le prem
 
 <div class="scene-box">
 
-**🎭 SCÈNE : L'Honnêteté en Commerce — Marché de Kufa**
+**📜 SCÈNE : L'Honnêteté en Commerce — Marché de Kufa**
 
 *Une femme vient à Abu Hanifa avec un tissu de soie à vendre.*
 
@@ -162,7 +162,7 @@ Il est **l'Imam al-A'zam** (le plus grand imam), chef des mujtahidun, et le prem
 
 <div class="scene-box">
 
-**🎭 SCÈNE : Fermeté Face au Calife — Prison de Kufa, 146 H**
+**📜 SCÈNE : Fermeté Face au Calife — Prison de Kufa, 146 H**
 
 **Al-Mansur** *(furieux)* : « Pourquoi refuses-tu d'être mon juge ? »
 
@@ -249,7 +249,7 @@ Il est **l'Imam al-A'zam** (le plus grand imam), chef des mujtahidun, et le prem
 
 <div class="scene-box">
 
-**🎭 SCÈNE : Les Funérailles de l'Imam — Bagdad, 150 H**
+**📜 SCÈNE : Les Funérailles de l'Imam — Bagdad, 150 H**
 
 *Des foules immenses remplissent les rues de Bagdad. Les gens pleurent.*
 

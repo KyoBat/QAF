@@ -13,9 +13,9 @@ export const contentEn = `# 🔍 Al-Ijtihad — Juristic Effort
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
-### 🎭 Scene: Ali and the Disputed Pregnancy
+### 📜 Scene: Ali and the Disputed Pregnancy
 
 > **Kufa, during the caliphate of Ali...**
 >
@@ -39,7 +39,7 @@ export const contentEn = `# 🔍 Al-Ijtihad — Juristic Effort
 
 ---
 
-### 🎭 Scene: Ibn Abbas and Inheritance
+### 📜 Scene: Ibn Abbas and Inheritance
 
 > A complex inheritance case was brought to **Ibn Abbas** — may Allah be pleased with him.
 >
@@ -152,7 +152,7 @@ export const contentEn = `# 🔍 Al-Ijtihad — Juristic Effort
 
 ---
 
-## 🎭 Story: Ijtihad of the Four Imams
+## 📜 Story: Ijtihad of the Four Imams
 
 ### Their Humility
 

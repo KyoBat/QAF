@@ -41,7 +41,7 @@ D'après Abu Hurayra رضي الله عنه, le Prophète ﷺ a dit : **« Celui
 
 <div class="scene-box">
 
-**🎭 La Scène d'Abu Bakra — Le fondement pour rattraper l'inclinaison**
+**📜 La Scène d'Abu Bakra — Le fondement pour rattraper l'inclinaison**
 
 *Abu Bakra رضي الله عنه arrivait pour la prière...*
 

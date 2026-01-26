@@ -11,7 +11,7 @@ export const contentFr = `# 🏛️ Les Piliers du Mariage — Ce Sans Quoi le C
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 ### Un mariage sans piliers = Un bâtiment sans fondations
 
@@ -114,7 +114,7 @@ Le mariage n'est pas un sentiment. C'est un **contrat** qui se concrétise par d
 | **Al-Îjâb** (الإيجاب) | L'**offre** — prononcée par le tuteur |
 | **Al-Qabûl** (القبول) | L'**acceptation** — prononcée par l'époux |
 
-### 🎭 Scène : Un contrat de mariage prophétique
+### 📜 Scène : Un contrat de mariage prophétique
 
 Lors du mariage de Fatima avec Ali (qu'Allah les agrée), le Prophète ﷺ dit :
 
@@ -199,7 +199,7 @@ Ali (qu'Allah l'agrée) répondit :
 | 📅 **Puberté** | L'enfant ne peut pas être tuteur |
 | ⚖️ **Probité** (selon certains) | Le pervers perd parfois ce droit |
 
-### 🎭 Cas particulier : Le tuteur qui refuse injustement
+### 📜 Cas particulier : Le tuteur qui refuse injustement
 
 > **Scénario** : Le père de Layla refuse tous les prétendants parce qu'il veut garder son salaire pour lui. Elle a 30 ans et souffre de cette situation.
 
@@ -240,9 +240,9 @@ Ali (qu'Allah l'agrée) répondit :
 
 ---
 
-## 🎭 Récit : Le Mariage de Fatima et Ali — Un Modèle pour l'Éternité
+## 📜 Récit : Le Mariage de Fatima et Ali — Un Modèle pour l'Éternité
 
-### 🎬 La scène
+### 📖 La scène
 
 Ali ibn Abî Tâlib (qu'Allah l'agrée), cousin du Prophète ﷺ, était un jeune homme pauvre mais pieux. Il voulait épouser **Fatima**, la fille bien-aimée du Prophète ﷺ.
 

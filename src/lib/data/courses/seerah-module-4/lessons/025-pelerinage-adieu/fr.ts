@@ -13,7 +13,7 @@ Dix ans après la Hijra. Le Prophète ﷺ, âgé de 63 ans, n'a jamais accompli 
 
 ### L'Annonce
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Le Prophète ﷺ annonça à Médine son intention d'accomplir le Hajj.
 > 
@@ -38,7 +38,7 @@ Dix ans après la Hijra. Le Prophète ﷺ, âgé de 63 ans, n'a jamais accompli 
 
 ### Le Départ de Médine
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Le Prophète ﷺ fit le ghusl (bain rituel), se parfuma et revêtit l'ihram (deux pièces de tissu blanc) à Dhul-Hulayfa.
 > 
@@ -52,7 +52,7 @@ Dix ans après la Hijra. Le Prophète ﷺ, âgé de 63 ans, n'a jamais accompli 
 
 ### L'Océan Humain
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Jabir ibn 'Abdullah raconte :
 > 
@@ -68,7 +68,7 @@ Dix ans après la Hijra. Le Prophète ﷺ, âgé de 63 ans, n'a jamais accompli 
 
 ### Le Tawaf et le Sa'i
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Le Prophète ﷺ entra par la porte des Banu Shayba.
 > 
@@ -103,7 +103,7 @@ Dix ans après la Hijra. Le Prophète ﷺ, âgé de 63 ans, n'a jamais accompli 
 
 Le 9 Dhul-Hijja, le Prophète ﷺ monta sur sa chamelle al-Qaswa' et délivra le sermon le plus important de l'histoire humaine.
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Plus de 100 000 personnes se tenaient en silence.
 > 
@@ -195,7 +195,7 @@ Le 9 Dhul-Hijja, le Prophète ﷺ monta sur sa chamelle al-Qaswa' et délivra le
 
 ### Le Verset de l'Achèvement
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Ce jour-là, à Arafat, descendit le dernier verset révélé concernant le halal et le haram :
 > 
@@ -208,7 +208,7 @@ Le 9 Dhul-Hijja, le Prophète ﷺ monta sur sa chamelle al-Qaswa' et délivra le
 
 ### La Réaction de 'Umar
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Quand ce verset fut révélé, 'Umar ibn al-Khattab pleura.
 > 
@@ -222,7 +222,7 @@ Le 9 Dhul-Hijja, le Prophète ﷺ monta sur sa chamelle al-Qaswa' et délivra le
 
 ### Témoignage d'un Juif
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Un juif dit à 'Umar après la mort du Prophète ﷺ :
 > 
@@ -253,7 +253,7 @@ Le 10 Dhul-Hijja (Jour du Sacrifice), le Prophète ﷺ :
 
 ### Les Dernières Instructions
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Pendant les jours de Mina, le Prophète ﷺ répéta plusieurs fois :
 > 

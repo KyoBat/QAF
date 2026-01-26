@@ -105,7 +105,7 @@ Ces compagnons sont connus comme les **« البَكَّائين » (al-Bakkā'�
 
 ---
 
-## 🎭 L'Exposition des Hypocrites
+## 📜 L'Exposition des Hypocrites
 
 ### 4.1 Les Excuses Fallacieuses
 

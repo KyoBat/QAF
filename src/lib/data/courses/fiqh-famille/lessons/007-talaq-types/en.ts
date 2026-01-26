@@ -13,9 +13,9 @@ export const contentEn = `# 💔 Types of Divorce — Understanding the Categori
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
-### 🎭 Scene: The Word That Changed Everything
+### 📜 Scene: The Word That Changed Everything
 
 > **In a moment of anger...**
 >
@@ -33,7 +33,7 @@ export const contentEn = `# 💔 Types of Divorce — Understanding the Categori
 
 ---
 
-### 🎭 Scene: Understanding the Ruling
+### 📜 Scene: Understanding the Ruling
 
 > **At the imam's office the next day...**
 >
@@ -173,7 +173,7 @@ export const contentEn = `# 💔 Types of Divorce — Understanding the Categori
 
 ---
 
-## 🎭 Story: Ibn Umar's Divorce
+## 📜 Story: Ibn Umar's Divorce
 
 ### The Incident
 
@@ -314,7 +314,7 @@ export const contentEn = `# 💔 Types of Divorce — Understanding the Categori
 
 ---
 
-### 🎭 Case 5: Said "Divorce" in Acting/Quote
+### 📜 Case 5: Said "Divorce" in Acting/Quote
 
 > **Situation**: He was quoting a movie or teaching about divorce and said the words.
 
@@ -328,7 +328,7 @@ export const contentEn = `# 💔 Types of Divorce — Understanding the Categori
 | Situation | Ruling |
 |-----------|--------|
 | 📚 Teaching/quoting | Not divorce (no intention) |
-| 🎭 Acting in a play | Not divorce (no intention) |
+| 📜 Acting in a play | Not divorce (no intention) |
 | 💬 Directed at his wife | Divorce if explicit |
 
 > 💡 **Context and intention matter for non-addressed statements!**

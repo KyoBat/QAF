@@ -2,7 +2,7 @@ export const contentEn = `# Options in Sale (Al-Khiyārāt)
 
 <div class="scene-box">
 
-**🎬 The Scene: The Market of Kufa — Era of the Tābi'īn**
+**📖 The Scene: The Market of Kufa — Era of the Tābi'īn**
 
 *'Alqama ibn Qays is sitting with his student in a circle of knowledge at the market, when two men arrive disputing...*
 
@@ -86,7 +86,7 @@ export const contentEn = `# Options in Sale (Al-Khiyārāt)
 
 <div class="scene-box">
 
-**🎬 Dialogue: Is the Session Option Established?**
+**📖 Dialogue: Is the Session Option Established?**
 
 **The Hanafi**: In our school, the session option is not established! The contract is binding upon offer and acceptance.
 
@@ -123,7 +123,7 @@ export const contentEn = `# Options in Sale (Al-Khiyārāt)
 
 <div class="scene-box">
 
-**🎬 Practical Application: Buying a Car with Option of Stipulation**
+**📖 Practical Application: Buying a Car with Option of Stipulation**
 
 **The Buyer**: I want this car, but I need to consult my father first.
 
@@ -168,7 +168,7 @@ export const contentEn = `# Options in Sale (Al-Khiyārāt)
 
 <div class="scene-box">
 
-**🎬 What Does the Buyer Do If They Find a Defect?**
+**📖 What Does the Buyer Do If They Find a Defect?**
 
 **The Jurist**: If you find a defect in the item, you have three options:
 
@@ -214,7 +214,7 @@ You accept the defect without claiming anything — this is kindness.
 
 <div class="scene-box">
 
-**🎬 What is Tasriyah?**
+**📖 What is Tasriyah?**
 
 *A seller comes to the market with a sheep whose milk he has retained in its udders for days...*
 
@@ -242,7 +242,7 @@ You accept the defect without claiming anything — this is kindness.
 
 <div class="scene-box">
 
-**🎬 Example: Excessive Lesion**
+**📖 Example: Excessive Lesion**
 
 **The Bedouin** *(coming from the village)*: I want to buy a watch as a gift for my son.
 
@@ -276,7 +276,7 @@ You accept the defect without claiming anything — this is kindness.
 
 <div class="scene-box">
 
-**🎬 Example: Purchase by Description**
+**📖 Example: Purchase by Description**
 
 **The Buyer** *(on the phone)*: I want to buy a red carpet, 3×4 meters, natural wool.
 
@@ -339,7 +339,7 @@ You accept the defect without claiming anything — this is kindness.
 
 <div class="scene-box">
 
-**🎬 At the Market of Madinah — Era of the Rightly-Guided Caliphs**
+**📖 At the Market of Madinah — Era of the Rightly-Guided Caliphs**
 
 *'Umar ibn al-Khattāb رضي الله عنه inspects the markets as was his habit, when a man comes complaining...*
 

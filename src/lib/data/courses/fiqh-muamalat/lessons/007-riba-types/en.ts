@@ -2,7 +2,7 @@ export const contentEn = `# Types of Usury (Ribâ)
 
 <div class="scene-box">
 
-**🎬 The Scene: The Circle of Imam Malik — Prophet's Mosque ﷺ in Medina**
+**📖 The Scene: The Circle of Imam Malik — Prophet's Mosque ﷺ in Medina**
 
 *Students of knowledge surround Imam Malik, may Allah have mercy on him, and one of them asks...*
 
@@ -55,7 +55,7 @@ export const contentEn = `# Types of Usury (Ribâ)
 
 <div class="scene-box">
 
-**🎬 At the Gold Market**
+**📖 At the Gold Market**
 
 **The Buyer**: I want to exchange 100 grams of old gold for new gold.
 
@@ -79,7 +79,7 @@ Gold for gold must be of equal weight, regardless of quality or craftsmanship.
 
 <div class="scene-box">
 
-**🎬 Dialogue: Why is Ribâ al-Fadl Prohibited?**
+**📖 Dialogue: Why is Ribâ al-Fadl Prohibited?**
 
 **The Questioner**: O Sheikh, if both the seller and I agree on the surplus, what's the problem?
 
@@ -134,7 +134,7 @@ Gold for gold must be of equal weight, regardless of quality or craftsmanship.
 
 <div class="scene-box">
 
-**🎬 The Scene: In Pre-Islamic Times**
+**📖 The Scene: In Pre-Islamic Times**
 
 *A Qurayshi merchant stands before an indebted man, whose due date has arrived...*
 
@@ -225,7 +225,7 @@ Benefit of the disagreement: Do iron and copper fall under usury?
 
 <div class="scene-box">
 
-**🎬 The Scene: Attempting to Circumvent the Sharia**
+**📖 The Scene: Attempting to Circumvent the Sharia**
 
 *A man enters a merchant's shop...*
 
@@ -270,7 +270,7 @@ Benefit of the disagreement: Do iron and copper fall under usury?
 
 <div class="scene-box">
 
-**🎬 At the Governor's Palace — Medina**
+**📖 At the Governor's Palace — Medina**
 
 *A man entered upon 'Umar ibn 'Abd al-'Azîz, may Allah have mercy on him, while he was governor of Medina...*
 

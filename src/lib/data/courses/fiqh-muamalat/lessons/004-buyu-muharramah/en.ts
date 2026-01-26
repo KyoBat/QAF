@@ -2,7 +2,7 @@ export const contentEn = `# 🚫 Forbidden Sales — Beware the Market's Pitfall
 
 <div class="scene-box">
 
-**🎬 Opening Scene: At the Medina Market**
+**📖 Opening Scene: At the Medina Market**
 
 *Medina Market... The Prophet ﷺ passes between the sellers...*
 
@@ -68,7 +68,7 @@ The Prophet ﷺ said:
 
 <div class="scene-box">
 
-**🎬 Scene: Pre-Islamic Sales**
+**📖 Scene: Pre-Islamic Sales**
 
 *In a pre-Islamic marketplace... a vendor displays various fabrics...*
 
@@ -121,7 +121,7 @@ The Prophet ﷺ said:
 
 <div class="scene-box">
 
-**🎬 Scene: Selling the Distant Future**
+**📖 Scene: Selling the Distant Future**
 
 **The seller:** I'll sell you what's in this she-camel's womb!
 
@@ -174,7 +174,7 @@ The Prophet ﷺ said:
 
 <div class="scene-box">
 
-**🎬 Scene: When is Sale Permissible?**
+**📖 Scene: When is Sale Permissible?**
 
 **The farmer:** I'll sell you the fruit of my palm tree.
 
@@ -203,7 +203,7 @@ The Prophet ﷺ said:
 
 <div class="scene-box">
 
-**🎬 Scene: Auction Conspiracy**
+**📖 Scene: Auction Conspiracy**
 
 *Public auction... a man wants to sell his car...*
 
@@ -245,7 +245,7 @@ The Prophet ﷺ said:
 
 <div class="scene-box">
 
-**🎬 Scene: Exploiting the Ignorant**
+**📖 Scene: Exploiting the Ignorant**
 
 *A trading caravan arrives from the desert...*
 
@@ -292,7 +292,7 @@ The Prophet ﷺ said:
 
 <div class="scene-box">
 
-**🎬 Scene: The Greedy Middleman**
+**📖 Scene: The Greedy Middleman**
 
 *A bedouin arrives at the market with his sheep to sell...*
 
@@ -327,7 +327,7 @@ The Prophet ﷺ said:
 
 <div class="scene-box">
 
-**🎬 Scene: Greed During Crisis**
+**📖 Scene: Greed During Crisis**
 
 *An epidemic strikes the country... people need masks and sanitizers...*
 
@@ -356,7 +356,7 @@ The Prophet ﷺ said:
 
 <div class="scene-box">
 
-**🎬 Scene: Disguised Usury**
+**📖 Scene: Disguised Usury**
 
 **The needy person:** I need a thousand riyals in cash.
 
@@ -428,7 +428,7 @@ The Prophet ﷺ said:
 
 <div class="scene-box">
 
-**🎬 Scene: Forbidden Intervention**
+**📖 Scene: Forbidden Intervention**
 
 *Zayd and Amr agreed on buying a car for fifty thousand...*
 
@@ -496,7 +496,7 @@ The Prophet ﷺ said:
 
 <div class="scene-box">
 
-**🎬 Story: Scrupulousness in Money**
+**📖 Story: Scrupulousness in Money**
 
 *Imam Ahmad ibn Hanbal, may Allah have mercy on him, was poor...*
 

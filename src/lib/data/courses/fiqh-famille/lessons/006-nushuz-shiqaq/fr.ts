@@ -11,9 +11,9 @@ export const contentFr = `# ⚡ Les Conflits Conjugaux — Quand le Foyer Trembl
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
-### 🎭 Scène : Trois foyers en crise
+### 📜 Scène : Trois foyers en crise
 
 **Foyer 1 — La tyrannie masculine**
 
@@ -292,7 +292,7 @@ Avant toute chose :
 
 ---
 
-## 🎭 Récit : Le Prophète ﷺ et ses épouses
+## 📜 Récit : Le Prophète ﷺ et ses épouses
 
 ### La crise du miel
 
@@ -319,7 +319,7 @@ Allah révéla alors :
 
 ---
 
-## 🎭 Récit : Omar et la patience
+## 📜 Récit : Omar et la patience
 
 Un homme vint chez **Omar ibn al-Khattâb** (qu'Allah l'agrée) pour se plaindre de sa femme. À la porte, il entendit la femme d'Omar élever la voix sur lui. L'homme repartit.
 

@@ -13,7 +13,7 @@ export const content = `# ⚔️ THE SWORD OF ALLAH — Khālid ibn al-Walīd
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 He is **the greatest general** in Islamic history—and perhaps in world military history.
 

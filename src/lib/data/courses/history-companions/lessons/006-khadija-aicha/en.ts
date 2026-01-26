@@ -14,7 +14,7 @@ export const content = `# 👑 Khadīja and 'Ā'isha — The Two Beloved
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 Among all the wives of the Prophet ﷺ — the **Mothers of the Believers** — two occupy a unique place in his heart.
 

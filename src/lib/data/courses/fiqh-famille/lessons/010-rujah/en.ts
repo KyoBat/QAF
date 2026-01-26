@@ -11,9 +11,9 @@ export const contentEn = `# 🔄 Al-Raj'ah — Taking Back the Wife
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
-### 🎭 Scene: A Second Chance
+### 📜 Scene: A Second Chance
 
 > **The morning after...**
 >
@@ -131,7 +131,7 @@ export const contentEn = `# 🔄 Al-Raj'ah — Taking Back the Wife
 
 ---
 
-## 🎭 Story: The Companion's Raj'ah
+## 📜 Story: The Companion's Raj'ah
 
 ### The Incident
 

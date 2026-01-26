@@ -11,9 +11,9 @@ export const contentFr = `# 💰 La Pension Alimentaire — An-Nafaqah
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
-### 🎭 Scène : L'homme qui refuse de dépenser
+### 📜 Scène : L'homme qui refuse de dépenser
 
 > Hind bint 'Utba vint voir le Prophète ﷺ et dit :
 >
@@ -29,7 +29,7 @@ export const contentFr = `# 💰 La Pension Alimentaire — An-Nafaqah
 
 ---
 
-### 🎭 Scène : L'avertissement terrible
+### 📜 Scène : L'avertissement terrible
 
 > Le Prophète ﷺ a dit :
 >
@@ -239,7 +239,7 @@ Elle reste « épouse » pendant la 'idda.
 
 ---
 
-## 🎭 Récits
+## 📜 Récits
 
 ### Hind et Abû Sufyân
 

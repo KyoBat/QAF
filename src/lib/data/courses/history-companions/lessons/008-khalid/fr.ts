@@ -14,7 +14,7 @@ export const content = `# ⚔️ L'ÉPÉE D'ALLAH — Khālid ibn al-Walīd
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 Il est **le plus grand général** de l'histoire islamique — et peut-être de l'histoire militaire mondiale.
 

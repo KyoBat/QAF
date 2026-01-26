@@ -206,7 +206,7 @@ const content = `
 
 ---
 
-### 🎭 Case 5: Playing a Blasphemous Role
+### 📜 Case 5: Playing a Blasphemous Role
 
 > **Situation:** Omar, a Muslim actor, accepts a role in a film where his character pronounces words of disbelief and prostrates to an idol.
 

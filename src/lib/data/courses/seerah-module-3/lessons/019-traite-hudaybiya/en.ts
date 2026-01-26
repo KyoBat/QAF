@@ -16,7 +16,7 @@ In the sixth year of Hijra, the Prophet ﷺ saw in a dream that he was entering 
 
 ### The True Vision
 
-> 🎭 **Scene**:
+> 📜 **Scene**:
 > 
 > The Prophet ﷺ woke up and informed his companions:
 > 
@@ -39,7 +39,7 @@ In the sixth year of Hijra, the Prophet ﷺ saw in a dream that he was entering 
 | Intention | 'Umra only (no combat) |
 | Offerings | 70 camels for sacrifice |
 
-> 🎭 **Scene**:
+> 📜 **Scene**:
 > 
 > The Muslims went out in the state of ihrâm, reciting the talbiya for 'Umra, carrying only travelers' swords in their sheaths.
 > 
@@ -53,7 +53,7 @@ In the sixth year of Hijra, the Prophet ﷺ saw in a dream that he was entering 
 
 ### The Hostile Stance
 
-> 🎭 **Scene**:
+> 📜 **Scene**:
 > 
 > When Quraysh learned of the Muslims' departure, they sent Khâlid ibn al-Walîd at the head of 200 cavalry to stop them.
 > 
@@ -71,7 +71,7 @@ Some companions suggested a rugged path through the mountains. The Muslims took 
 
 ### Al-Qaswâ' Stops
 
-> 🎭 **Scene**:
+> 📜 **Scene**:
 > 
 > When they arrived at Hudaybiya, the Prophet's ﷺ camel (al-Qaswâ') knelt down and refused to move.
 > 
@@ -97,7 +97,7 @@ Some companions suggested a rugged path through the mountains. The Muslims took 
 
 ### The Companions' Attitude Toward 'Urwa
 
-> 🎭 **Scene**:
+> 📜 **Scene**:
 > 
 > 'Urwa ibn Mas'ûd came to negotiate and noticed something remarkable:
 > 
@@ -118,7 +118,7 @@ Some companions suggested a rugged path through the mountains. The Muslims took 
 
 ### The Reason for the Pledge
 
-> 🎭 **Scene**:
+> 📜 **Scene**:
 > 
 > The Prophet ﷺ sent 'Uthmân ibn 'Affân رضي الله عنه to negotiate with Quraysh.
 > 
@@ -154,7 +154,7 @@ Suhayl ibn 'Amr came to negotiate on behalf of Quraysh, and the following was ag
 
 ### Writing the Document
 
-> 🎭 **Scene**:
+> 📜 **Scene**:
 > 
 > The Prophet ﷺ dictated to 'Alî: "Bismillâh ar-Rahmân ar-Rahîm..."
 > 
@@ -180,7 +180,7 @@ Suhayl ibn 'Amr came to negotiate on behalf of Quraysh, and the following was ag
 
 ### The Most Difficult Moment
 
-> 🎭 **Scene**:
+> 📜 **Scene**:
 > 
 > While the treaty was being written, Abû Jandal, son of Suhayl, arrived dragging his chains, having escaped from his father's prison!
 > 
@@ -200,7 +200,7 @@ Suhayl ibn 'Amr came to negotiate on behalf of Quraysh, and the following was ag
 
 ### The Companions' Anger
 
-> 🎭 **Scene**:
+> 📜 **Scene**:
 > 
 > 'Umar came to the Prophet ﷺ angrily:
 > 

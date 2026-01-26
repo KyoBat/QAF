@@ -32,7 +32,7 @@ Immediately after the Treaty of Hudaybiya, in **Muharram** of the seventh year o
 | Shiqq Zone | 3 fortresses | Wealth and weapons |
 | Katîba Zone | 2 fortresses | Women and children |
 
-> 🎭 **Scene**:
+> 📜 **Scene**:
 > 
 > Khaybar housed the most powerful citadels in the Arabian Peninsula, surrounded by palm trees and water, inhabited by the bravest Jewish warriors.
 > 
@@ -52,7 +52,7 @@ Immediately after the Treaty of Hudaybiya, in **Muharram** of the seventh year o
 
 ### Arriving at Night
 
-> 🎭 **Scene**:
+> 📜 **Scene**:
 > 
 > The Muslims arrived at night and did not move until dawn.
 > 
@@ -76,7 +76,7 @@ The siege of Khaybar lasted several days, with fortresses falling one after anot
 
 ### The Prophet's ﷺ Illness
 
-> 🎭 **Scene**:
+> 📜 **Scene**:
 > 
 > The Prophet ﷺ was struck with a severe headache. He gave the banner to Abû Bakr one day, who returned.
 > Then he gave it to 'Umar one day, who also returned.
@@ -89,7 +89,7 @@ The siege of Khaybar lasted several days, with fortresses falling one after anot
 
 ### The Announcement of Victory
 
-> 🎭 **Scene**:
+> 📜 **Scene**:
 > 
 > The following night, the Prophet ﷺ said:
 > 
@@ -103,7 +103,7 @@ The siege of Khaybar lasted several days, with fortresses falling one after anot
 
 ### 'Alî, Bearer of the Banner
 
-> 🎭 **Scene**:
+> 📜 **Scene**:
 > 
 > In the morning, the Prophet ﷺ said: "Where is 'Alî?"
 > 
@@ -125,7 +125,7 @@ The siege of Khaybar lasted several days, with fortresses falling one after anot
 
 ### Marhab the Jew
 
-> 🎭 **Scene**:
+> 📜 **Scene**:
 > 
 > From the fortress emerged the greatest champion of the Jews: **Marhab**, of massive stature, fully armed, chanting:
 > 
@@ -141,7 +141,7 @@ The siege of Khaybar lasted several days, with fortresses falling one after anot
 
 ### The Gate of Khaybar
 
-> 🎭 **Scene**:
+> 📜 **Scene**:
 > 
 > 'Alî's shield fell during combat. He tore off the fortress gate and used it as a shield!
 > 
@@ -181,7 +181,7 @@ The people of Khaybar offered to remain on their lands in exchange for half the 
 
 ### The Poisoned Sheep
 
-> 🎭 **Scene**:
+> 📜 **Scene**:
 > 
 > Zaynab bint al-Hârith, a Jewish woman, offered the Prophet ﷺ a roasted sheep in which she had placed poison!
 > 
@@ -201,7 +201,7 @@ The people of Khaybar offered to remain on their lands in exchange for half the 
 
 ### The Story of Safiyya bint Huyayy
 
-> 🎭 **Scene**:
+> 📜 **Scene**:
 > 
 > Safiyya bint Huyayy ibn Akhtab, a descendant of Hârûn عليه السلام, was captured at Khaybar.
 > 

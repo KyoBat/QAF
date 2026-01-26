@@ -11,9 +11,9 @@ export const contentFr = `# 🌿 La Maslaha Mursala — Le Raisonnement par l'In
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
-### 🎭 Scène : Omar Suspend la Part des Mu'allafa Qulubuhum
+### 📜 Scène : Omar Suspend la Part des Mu'allafa Qulubuhum
 
 > **Médine, califat de Omar ibn al-Khattab...**
 >
@@ -31,7 +31,7 @@ export const contentFr = `# 🌿 La Maslaha Mursala — Le Raisonnement par l'In
 
 ---
 
-### 🎭 Scène : La Compilation du Coran
+### 📜 Scène : La Compilation du Coran
 
 > Après la bataille de Yamama, **Omar** dit à **Abu Bakr** :
 >
@@ -127,7 +127,7 @@ export const contentFr = `# 🌿 La Maslaha Mursala — Le Raisonnement par l'In
 
 ---
 
-## 🎭 Exemples de Maslaha Mursala
+## 📜 Exemples de Maslaha Mursala
 
 ### Dans la Pratique des Compagnons
 

@@ -2,7 +2,7 @@ export const contentFr = `# 💰 Introduction au Fiqh des Transactions — La sc
 
 <div class="scene-box">
 
-**🎬 Scène d'ouverture : Au marché de Médine**
+**📖 Scène d'ouverture : Au marché de Médine**
 
 *Marché de Banu Qaynuqa'. Le soleil se lève sur Médine la Lumineuse. Un homme au visage étranger entre au marché pour la première fois...*
 

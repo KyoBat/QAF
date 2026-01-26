@@ -28,7 +28,7 @@ Immédiatement après le traité de Hudaybiya, en **Muharram** de la septième a
 
 ### Le messager : Dihya al-Kalbî
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > La lettre du Prophète ﷺ parvint à Héraclius alors qu'il était à Jérusalem, célébrant sa victoire sur les Perses.
 > 
@@ -48,7 +48,7 @@ Immédiatement après le traité de Hudaybiya, en **Muharram** de la septième a
 
 ### L'interrogatoire d'Abû Sufyân
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Héraclius demanda qu'on lui amène des marchands de Quraysh. On amena Abû Sufyân (avant sa conversion) et ses compagnons.
 > 
@@ -67,7 +67,7 @@ Immédiatement après le traité de Hudaybiya, en **Muharram** de la septième a
 
 ### L'analyse d'Héraclius
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Héraclius dit :
 > 
@@ -91,7 +91,7 @@ Héraclius ne se convertit pas publiquement par crainte de perdre son royaume, m
 
 ### Le messager : 'Abdullah ibn Hudhâfa
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Quand Chosroès (Abrawîz) lut la lettre et vit qu'elle commençait par le nom de Muhammad avant le sien, il s'emporta et cria :
 > 
@@ -121,7 +121,7 @@ Héraclius ne se convertit pas publiquement par crainte de perdre son royaume, m
 
 ### Le messager : Hâtib ibn Abî Balta'a
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Le Muqawqis reçut Hâtib avec respect et lut la lettre attentivement.
 > 
@@ -147,7 +147,7 @@ Le Prophète ﷺ l'épousa, et elle lui donna son fils Ibrâhîm qui mourut en b
 
 ### Le messager : 'Amr ibn Umayya ad-Damrî
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Le Négus Ashama s'était déjà converti secrètement auparavant.
 > 

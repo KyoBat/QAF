@@ -13,9 +13,9 @@ export const content = `# 🕌 Les Conditions de la Prière — Les Clés de la 
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
-### 🎭 Scène : La prière invalidée
+### 📜 Scène : La prière invalidée
 
 > **Après la prière du Dhohr à la mosquée...**
 >
@@ -35,7 +35,7 @@ export const content = `# 🕌 Les Conditions de la Prière — Les Clés de la 
 
 ---
 
-### 🎭 Scène : L'importance du temps
+### 📜 Scène : L'importance du temps
 
 > **Un nouveau musulman demande à l'imam...**
 >

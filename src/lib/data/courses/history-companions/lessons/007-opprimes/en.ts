@@ -11,7 +11,7 @@ export const content = `# ⛓️ THE OPPRESSED — The Victorious
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 In the first years of Islam, the **most persecuted** were not the nobles of Quraysh—they had tribal protection.
 
@@ -46,7 +46,7 @@ When Umayya discovered his slave had embraced Islam, he decided to **break him**
 
 <div class="scene-box">
 
-**🎭 Scene of Torture**
+**📜 Scene of Torture**
 
 **• Time:** Midday, the sun at its zenith
 **• Place:** The burning rocks of Mecca's desert

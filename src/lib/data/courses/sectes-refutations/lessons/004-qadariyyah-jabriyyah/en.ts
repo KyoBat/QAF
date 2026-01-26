@@ -5,7 +5,7 @@ export const contentEn = `# 🎯 The Qadariyyah and Jabriyyah — Predestination
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 The question of **predestination** (al-qadar) is one of the deepest in Islamic theology. It touches upon Allah's nature, His knowledge, His will, and human responsibility.
 
@@ -79,7 +79,7 @@ The Qadariyyah are those who **denied** that the servants' actions are predestin
 
 <div class="scene-box">
 
-**🎭 SCENE: The Emergence of Destiny Denial — Basra, ~80 H**
+**📜 SCENE: The Emergence of Destiny Denial — Basra, ~80 H**
 
 *A circle of students listens to Ma'bad al-Juhani.*
 
@@ -97,7 +97,7 @@ The Qadariyyah are those who **denied** that the servants' actions are predestin
 
 <div class="scene-box">
 
-**🎭 SCENE: Ibn 'Umar's Disavowal — Medina, ~80 H**
+**📜 SCENE: Ibn 'Umar's Disavowal — Medina, ~80 H**
 
 *A man comes to Ibn 'Umar رضي الله عنهما.*
 
@@ -150,7 +150,7 @@ The Jabriyyah are those who **exaggerated** in affirming predestination to the p
 
 <div class="scene-box">
 
-**🎭 SCENE: The Doctrine of Compulsion — Transoxiana, ~120 H**
+**📜 SCENE: The Doctrine of Compulsion — Transoxiana, ~120 H**
 
 **Disciple**: "O Jahm, does man have a choice?"
 
@@ -179,7 +179,7 @@ The Jabriyyah are those who **exaggerated** in affirming predestination to the p
 
 <div class="scene-box">
 
-**🎭 SCENE: The Logical Test**
+**📜 SCENE: The Logical Test**
 
 *A Sunni asks a Jabrite.*
 
@@ -250,7 +250,7 @@ Both are true:
 
 <div class="scene-box">
 
-**🎭 SCENE: The Thief and Destiny — Medina, Era of 'Umar**
+**📜 SCENE: The Thief and Destiny — Medina, Era of 'Umar**
 
 *A thief is brought before 'Umar رضي الله عنه.*
 
@@ -276,7 +276,7 @@ Both are true:
 
 <div class="scene-box">
 
-**🎭 SCENE: The Lazy Student — Today**
+**📜 SCENE: The Lazy Student — Today**
 
 **Student** *(after failing)*: "It's fate! It was written that I would fail!"
 

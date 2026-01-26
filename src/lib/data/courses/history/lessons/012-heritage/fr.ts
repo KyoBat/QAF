@@ -12,7 +12,7 @@ export const content = `# 🌍 L'Héritage Vivant — الإِرْثُ الحَ�
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 Les 4 imams sont morts il y a plus de **1200 ans**. Pourtant, leur influence est **plus vivante que jamais** :
 - Des **milliards** de musulmans suivent leurs écoles

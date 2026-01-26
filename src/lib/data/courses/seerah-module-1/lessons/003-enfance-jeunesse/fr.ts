@@ -11,7 +11,7 @@ export const content = `# 🌅 L'Enfance et la Jeunesse — De l'Orphelin à Al-
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 ### Un orphelin élevé par Allah
 
@@ -47,7 +47,7 @@ Mais cet orphelin était **sous le regard d'Allah**... qui le préparait pour la
 
 ### 💝 L'amour d'Abû Tâlib pour son neveu
 
-> 🎭 **Récit** : Abû Tâlib aimait Muhammad d'un amour intense, **plus qu'aucun de ses propres enfants** !
+> 📜 **Récit** : Abû Tâlib aimait Muhammad d'un amour intense, **plus qu'aucun de ses propres enfants** !
 >
 > - Il ne dormait que lorsqu'il était à côté de lui
 > - Il ne mangeait que lorsque Muhammad était avec lui
@@ -80,7 +80,7 @@ Mais cet orphelin était **sous le regard d'Allah**... qui le préparait pour la
 
 ---
 
-### 🎭 L'Histoire Complète
+### 📜 L'Histoire Complète
 
 > **Scène 1 : La Séparation Difficile**
 >
@@ -234,7 +234,7 @@ Bahîrâ se tourna vers Abû Tâlib et dit :
 
 ---
 
-### 🎭 L'Histoire
+### 📜 L'Histoire
 
 > **L'Injustice :**
 >
@@ -345,7 +345,7 @@ Le Messager d'Allah ﷺ dit :
 
 ---
 
-### 🎭 Témoignage de la Jâhiliyya
+### 📜 Témoignage de la Jâhiliyya
 
 Un polythéiste dit **après la Révélation** :
 
@@ -400,11 +400,11 @@ Il ﷺ dit : **« Je n'ai plus jamais été tenté par le mal après cela »**
 
 Elle le traitait comme son fils, voire mieux :
 
-> 🎭 **Son Témoignage** : 
+> 📜 **Son Témoignage** : 
 >
 > **« Muhammad était le plus dévoué de mes enfants envers moi, et le plus tendre avec moi »**
 
-> 🎭 **Sa Fidélité envers elle** :
+> 📜 **Sa Fidélité envers elle** :
 >
 > Quand elle mourut (après l'Hégire), le Prophète ﷺ l'enveloppa **dans sa propre chemise** !
 >

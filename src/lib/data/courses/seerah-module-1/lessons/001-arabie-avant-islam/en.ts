@@ -11,7 +11,7 @@ export const content = `# 🏜️ Arabia Before Islam — The Land of Prophecy
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 ### A World Awaiting Light
 
@@ -125,7 +125,7 @@ The peninsula was not devoid of monotheists:
 | **Quss ibn Sâ'ida** | Orator of Iyâd, spoke of resurrection |
 | **Umayya ibn Abî as-Salt** | Poet, knew monotheism but didn't convert |
 
-> 🎭 **Story**: Zayd asked the Jews and Christians about their religion. They told him: **"You will find what you seek in Abraham's religion."** He searched until he died, before the Revelation.
+> 📜 **Story**: Zayd asked the Jews and Christians about their religion. They told him: **"You will find what you seek in Abraham's religion."** He searched until he died, before the Revelation.
 
 ---
 
@@ -165,7 +165,7 @@ The **tribe** was everything: identity, protection, law.
 | **Revenge** 🩸 | Blood for blood | Wars lasting generations |
 | **Loyalty** 🤝 | Honoring pacts | Die rather than betray |
 
-> 🎭 **The War of Basûs**: It lasted **40 years** because of a she-camel! This was the level of tribal spirit.
+> 📜 **The War of Basûs**: It lasted **40 years** because of a she-camel! This was the level of tribal spirit.
 
 ---
 
@@ -195,7 +195,7 @@ Slavery was widespread:
 
 ---
 
-## 🎭 Cultural Life — Eloquence and Poetry
+## 📜 Cultural Life — Eloquence and Poetry
 
 ### 📜 Arabic Language at Its Peak
 
@@ -214,7 +214,7 @@ The Arabs were proud of three things:
 | **Sûq Dhû al-Majâz** | Near 'Arafat | Trade during pilgrimage season |
 | **Sûq Majanna** | Near Mecca | Literature and commerce |
 
-> 🎭 **The Scene**: At 'Ukâz, the poet would stand and recite his poem. If it pleased them, it was **hung on the Kaaba**: the Mu'allaqât (the Seven Suspended Odes)!
+> 📜 **The Scene**: At 'Ukâz, the poet would stand and recite his poem. If it pleased them, it was **hung on the Kaaba**: the Mu'allaqât (the Seven Suspended Odes)!
 
 ---
 

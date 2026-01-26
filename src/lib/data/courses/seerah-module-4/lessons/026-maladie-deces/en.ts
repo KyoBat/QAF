@@ -17,7 +17,7 @@ Three months after the Farewell Pilgrimage. The Prophet ﷺ had conveyed the mes
 
 ### The Visit to the Cemetery
 
-> 🎭 **Scene** :
+> 📜 **Scene** :
 > 
 > One night, the Prophet ﷺ rose secretly and went to the cemetery of al-Baqi'.
 > 
@@ -49,7 +49,7 @@ The illness began with severe headaches and high fever.
 | **Pain** | Unbearable headaches |
 | **Duration** | About 13-14 days |
 
-> 🎭 **Scene** :
+> 📜 **Scene** :
 > 
 > The Prophet ﷺ wore a bandage around his head due to the pain.
 > 
@@ -71,7 +71,7 @@ The illness began with severe headaches and high fever.
 
 ### Permission from the Wives
 
-> 🎭 **Scene** :
+> 📜 **Scene** :
 > 
 > The Prophet ﷺ would visit his wives despite his illness.
 > 
@@ -87,7 +87,7 @@ The illness began with severe headaches and high fever.
 
 ### The Last Sermon at the Mosque
 
-> 🎭 **Scene** :
+> 📜 **Scene** :
 > 
 > A few days before his death, the Prophet ﷺ gathered his last strength.
 > 
@@ -109,7 +109,7 @@ The illness began with severe headaches and high fever.
 
 ### The Order for Prayer
 
-> 🎭 **Scene** :
+> 📜 **Scene** :
 > 
 > The illness worsened. The Prophet ﷺ could no longer lead the prayer.
 > 
@@ -129,7 +129,7 @@ The illness began with severe headaches and high fever.
 
 ### The Last Look at the Mosque
 
-> 🎭 **Scene** :
+> 📜 **Scene** :
 > 
 > On Monday morning, during the Fajr prayer, the Prophet ﷺ lifted the curtain of Aisha's chamber.
 > 
@@ -149,7 +149,7 @@ The illness began with severe headaches and high fever.
 
 ### The Siwak and the Final Words
 
-> 🎭 **Scene** :
+> 📜 **Scene** :
 > 
 > The Prophet's ﷺ head rested on Aisha's chest.
 > 
@@ -165,7 +165,7 @@ The illness began with severe headaches and high fever.
 
 ### The Very Last Words
 
-> 🎭 **Scene** :
+> 📜 **Scene** :
 > 
 > A container of water was beside the Prophet ﷺ.
 > 
@@ -202,7 +202,7 @@ The illness began with severe headaches and high fever.
 
 ### The News Spreads
 
-> 🎭 **Scene** :
+> 📜 **Scene** :
 > 
 > Aisha gently placed the Prophet's ﷺ head on a pillow.
 > 
@@ -216,7 +216,7 @@ The illness began with severe headaches and high fever.
 
 ### 'Umar Refuses to Accept
 
-> 🎭 **Scene** :
+> 📜 **Scene** :
 > 
 > 'Umar ibn al-Khattab stood up, sword in hand, and said:
 > 
@@ -228,7 +228,7 @@ The illness began with severe headaches and high fever.
 
 ### Abu Bakr's Arrival
 
-> 🎭 **Scene** :
+> 📜 **Scene** :
 > 
 > Abu Bakr was at al-Sunh (a neighborhood of Medina).
 > 
@@ -244,7 +244,7 @@ The illness began with severe headaches and high fever.
 
 ### Abu Bakr's Speech
 
-> 🎭 **Scene** :
+> 📜 **Scene** :
 > 
 > Abu Bakr went out to the mosque.
 > 
@@ -296,7 +296,7 @@ The illness began with severe headaches and high fever.
 
 ### The Prayer over the Prophet ﷺ
 
-> 🎭 **Scene** :
+> 📜 **Scene** :
 > 
 > Muslims entered in groups into the chamber.
 > 
@@ -329,7 +329,7 @@ The illness began with severe headaches and high fever.
 
 ### Fatima, His Beloved Daughter
 
-> 🎭 **Scene** :
+> 📜 **Scene** :
 > 
 > Fatima said after her father's death:
 > 
@@ -345,7 +345,7 @@ The illness began with severe headaches and high fever.
 
 ### Anas ibn Malik
 
-> 🎭 **Scene** :
+> 📜 **Scene** :
 > 
 > Anas said:
 > 

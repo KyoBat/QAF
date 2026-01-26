@@ -79,7 +79,7 @@ La prière du vendredi est une **obligation individuelle (فرض عين)** pour 
 
 <div class="scene-box">
 
-**🎭 L'Avertissement contre l'Abandon du Vendredi**
+**📜 L'Avertissement contre l'Abandon du Vendredi**
 
 *Le Prophète ﷺ voyait des gens qui délaissaient la prière du vendredi...*
 

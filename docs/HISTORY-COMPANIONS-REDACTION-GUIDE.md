@@ -43,7 +43,7 @@
 
 ---
 
-## 🎬 Introduction (المقدمة)
+## 📖 Introduction (المقدمة)
 ### Pourquoi étudier ce/ces Compagnon(s) ?
 ### Le contexte de leur époque
 
@@ -257,7 +257,7 @@
 
 ---
 
-## 🎬 Style Narratif : Exemples
+## 📖 Style Narratif : Exemples
 
 ### ✅ BON : Style Captivant
 ```markdown
@@ -302,7 +302,7 @@ Ce soir-là, l'ennemi le plus féroce de l'Islam devint l'un de ses plus grands 
 
 ---
 
-## 🎭 Format Scene-Box pour les Dialogues
+## 📜 Format Scene-Box pour les Dialogues
 
 Pour les scènes de dialogue et moments clés, utilisez le format **scene-box** qui offre une mise en forme moderne et immersive.
 
@@ -311,7 +311,7 @@ Pour les scènes de dialogue et moments clés, utilisez le format **scene-box** 
 ```html
 <div class="scene-box">
 
-**🎭 TITRE DE LA SCÈNE**
+**📜 TITRE DE LA SCÈNE**
 
 Contenu de la scène avec dialogues...
 
@@ -330,7 +330,7 @@ Description narrative...
 |-------|-------------|
 | **Ligne vide après `<div>`** | Obligatoire pour que le Markdown soit parsé |
 | **Ligne vide avant `</div>`** | Obligatoire pour la fermeture correcte |
-| **Emoji 🎭 dans le titre** | Identifie visuellement les scènes |
+| **Emoji 📜 dans le titre** | Identifie visuellement les scènes |
 | **Tirets longs pour dialogues** | Utilisez `— *texte*` pour les répliques |
 
 ### Exemples d'Utilisation
@@ -340,7 +340,7 @@ Description narrative...
 ```html
 <div class="scene-box">
 
-**🎭 La Conversion de Bilāl**
+**📜 La Conversion de Bilāl**
 
 Abu Bakr s'approcha d'Umayya ibn Khalaf :
 

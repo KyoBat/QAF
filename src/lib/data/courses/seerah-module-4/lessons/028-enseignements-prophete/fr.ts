@@ -30,7 +30,7 @@ Ses paroles (hadiths) sont la deuxième source de législation en Islam, après 
 
 La prière est le **pilier de la religion** et le premier acte jugé le Jour du Jugement.
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Bilal entre chez le Prophète ﷺ à l'aube.
 > 
@@ -60,7 +60,7 @@ La prière est le **pilier de la religion** et le premier acte jugé le Jour du 
 
 ### 1.2 — Le Jeûne (As-Siyam)
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Un compagnon demande au Prophète ﷺ un conseil.
 > 
@@ -89,7 +89,7 @@ La prière est le **pilier de la religion** et le premier acte jugé le Jour du 
 
 ### 1.3 — La Charité (Az-Zakat / Sadaqa)
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Le Prophète ﷺ monte sur le minbar et dit :
 > 
@@ -117,7 +117,7 @@ La prière est le **pilier de la religion** et le premier acte jugé le Jour du 
 
 ### 1.4 — L'Invocation (Ad-Du'a) et le Rappel (Adh-Dhikr)
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Le Prophète ﷺ dit :
 > 
@@ -147,7 +147,7 @@ La prière est le **pilier de la religion** et le premier acte jugé le Jour du 
 
 ### 2.1 — L'Honnêteté (As-Sidq)
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Le Prophète ﷺ enseigne :
 > 
@@ -175,7 +175,7 @@ La prière est le **pilier de la religion** et le premier acte jugé le Jour du 
 > 
 > — **Source : Sunan al-Tirmidhi**
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Un homme vient au Prophète ﷺ :
 > 
@@ -207,7 +207,7 @@ La prière est le **pilier de la religion** et le premier acte jugé le Jour du 
 
 ### 2.3 — Le Pardon (Al-'Afw)
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Le jour de la conquête de La Mecque, le Prophète ﷺ dit à Quraysh — qui l'avait persécuté pendant 20 ans :
 > 
@@ -223,7 +223,7 @@ La prière est le **pilier de la religion** et le premier acte jugé le Jour du 
 
 ### 2.4 — Le Contrôle de la Colère
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Un homme demande au Prophète ﷺ : « Donne-moi un conseil. »
 > 
@@ -305,7 +305,7 @@ La prière est le **pilier de la religion** et le premier acte jugé le Jour du 
 
 ### 3.2 — Les Voisins
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Le Prophète ﷺ dit :
 > 
@@ -377,7 +377,7 @@ La prière est le **pilier de la religion** et le premier acte jugé le Jour du 
 
 ### 4.2 — La Confiance en Allah (At-Tawakkul)
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Un bédouin demande : « Ô Messager d'Allah, dois-je attacher ma chamelle puis me fier à Allah, ou la laisser et me fier à Allah ? »
 > 
@@ -409,7 +409,7 @@ La prière est le **pilier de la religion** et le premier acte jugé le Jour du 
 
 ### 4.4 — La Gratitude (Ash-Shukr)
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Aisha vit le Prophète ﷺ prier la nuit jusqu'à ce que ses pieds enflent.
 > 

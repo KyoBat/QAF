@@ -2,7 +2,7 @@ export const contentEn = `# 💰 Introduction to the Fiqh of Transactions — Th
 
 <div class="scene-box">
 
-**🎬 Opening Scene: At the Madinah Market**
+**📖 Opening Scene: At the Madinah Market**
 
 *Banu Qaynuqa' Market. The sun rises over Madinah the Radiant. A man with a foreign face enters the market for the first time...*
 

@@ -14,7 +14,7 @@ export const content = `# 📜 العَصْرُ الذَّهَبِيُّ لِل�
 
 ---
 
-## 🎬 Mise en Contexte
+## 📖 Mise en Contexte
 
 ### Une Époque Extraordinaire
 

@@ -11,7 +11,7 @@ export const content = `# 🏔️ The Journey to Ta'if — The Most Difficult Da
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 ### After the Year of Sorrow... The Search for a New Horizon
 
@@ -66,7 +66,7 @@ He ﷺ decided to seek **support outside of Mecca**!
 
 ---
 
-### 🎭 The Scene — The Departure
+### 📜 The Scene — The Departure
 
 > The path is long... mountainous... difficult...
 >
@@ -98,7 +98,7 @@ He ﷺ decided to seek **support outside of Mecca**!
 
 ---
 
-### 🎭 The Scene — At the Council of Thaqif
+### 📜 The Scene — At the Council of Thaqif
 
 > The Prophet ﷺ entered Ta'if...
 >
@@ -144,7 +144,7 @@ He ﷺ decided to seek **support outside of Mecca**!
 
 ## 🩸 The Stoning — The Worst Day
 
-### 🎭 The Scene — Leaving Ta'if
+### 📜 The Scene — Leaving Ta'if
 
 > The Prophet ﷺ left Ta'if with a broken heart...
 >
@@ -158,7 +158,7 @@ He ﷺ decided to seek **support outside of Mecca**!
 
 ---
 
-### 🎭 The Scene — The Bloody Stoning
+### 📜 The Scene — The Bloody Stoning
 
 > The Prophet ﷺ walks...
 >
@@ -200,7 +200,7 @@ He ﷺ decided to seek **support outside of Mecca**!
 
 ## 🤲 The Du'a of Ta'if — The Immortal Words
 
-### 🎭 The Scene — Under the Tree
+### 📜 The Scene — Under the Tree
 
 > The Prophet ﷺ sat under the tree...
 >
@@ -261,7 +261,7 @@ He ﷺ decided to seek **support outside of Mecca**!
 
 ## 👼 The Angel of the Mountains — The Offer of Revenge
 
-### 🎭 The Scene — The Angel Appears
+### 📜 The Scene — The Angel Appears
 
 > After the supplication...
 >
@@ -279,7 +279,7 @@ He ﷺ decided to seek **support outside of Mecca**!
 
 ---
 
-### 🎭 The Scene — Mercy Triumphs
+### 📜 The Scene — Mercy Triumphs
 
 > A decisive moment...
 >
@@ -309,7 +309,7 @@ He ﷺ decided to seek **support outside of Mecca**!
 
 ## 🍇 'Addas the Christian — A Human Moment
 
-### 🎭 The Scene — In the Orchard
+### 📜 The Scene — In the Orchard
 
 > **'Utba and Shayba** saw the Prophet ﷺ in their orchard...
 >
@@ -321,7 +321,7 @@ He ﷺ decided to seek **support outside of Mecca**!
 
 ---
 
-### 🎭 The Dialogue with 'Addas
+### 📜 The Dialogue with 'Addas
 
 > 'Addas came with the grapes...
 >

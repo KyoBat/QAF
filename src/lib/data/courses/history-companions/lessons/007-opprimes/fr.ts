@@ -14,7 +14,7 @@ export const content = `# ⛓️ الْمُسْتَضْعَفُونَ — Les Op
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 Dans les premières années de l'Islam, les plus **persécutés** n'étaient pas les nobles de Quraysh — ils avaient la protection de leurs clans.
 
@@ -49,7 +49,7 @@ Quand Umayya découvrit que son esclave était devenu musulman, il décida de le
 
 <div class="scene-box">
 
-**🎭 La Scène de Torture**
+**📜 La Scène de Torture**
 
 **• Heure :** Midi, le soleil au zénith
 **• Lieu :** Les rochers brûlants du désert mecquois

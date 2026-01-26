@@ -12,7 +12,7 @@ export const content = `# ⚔️ Critiques et Défenses — انْتِقَادَ
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 Aucun imam n'a échappé aux **critiques**. Certaines étaient **justifiées**, d'autres **injustes**. Ce qui est remarquable, c'est comment ces critiques ont été **réfutées** par les générations suivantes.
 

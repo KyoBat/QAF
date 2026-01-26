@@ -329,7 +329,7 @@ Chaque leçon est fondée sur les preuves du **Coran et de la Sunnah authentique
 
 <div class="scene-box">
 
-**🎭 LA FERMETÉ DE BILAL**
+**📜 LA FERMETÉ DE BILAL**
 
 *Bilal ibn Rabah était un esclave abyssin torturé sous le soleil brûlant de La Mecque...*
 
@@ -351,7 +351,7 @@ Chaque leçon est fondée sur les preuves du **Coran et de la Sunnah authentique
 
 <div class="scene-box">
 
-**🎭 RAB'I DEVANT RUSTUM**
+**📜 RAB'I DEVANT RUSTUM**
 
 *Il entra chez Rustum, le commandant des Perses...*
 
@@ -369,7 +369,7 @@ Chaque leçon est fondée sur les preuves du **Coran et de la Sunnah authentique
 
 <div class="scene-box">
 
-**🎭 L'ÉPREUVE DE L'IMAM AHMAD**
+**📜 L'ÉPREUVE DE L'IMAM AHMAD**
 
 *Lors de la fitna de la création du Coran, l'Imam Ahmad ibn Hanbal fut fouetté et emprisonné pendant des années...*
 
@@ -391,7 +391,7 @@ Chaque leçon est fondée sur les preuves du **Coran et de la Sunnah authentique
 
 <div class="scene-box">
 
-**🎭 IBN TAYMIYYAH EN PRISON**
+**📜 IBN TAYMIYYAH EN PRISON**
 
 *Lorsque Cheikh al-Islam Ibn Taymiyyah fut emprisonné dans la citadelle de Damas, il dit :*
 

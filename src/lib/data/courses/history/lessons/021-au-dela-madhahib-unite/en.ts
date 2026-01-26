@@ -8,7 +8,7 @@ export const content = `# 🤝 Beyond the Madhabs: Unity of the Ummah
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 The four madhabs are not warring sects, but complementary interpretations of one Sharia. This lesson addresses the ethics of disagreement and the unity of the Ummah.
 
@@ -52,7 +52,7 @@ The four madhabs are not warring sects, but complementary interpretations of one
 
 <div class="scene-box">
 
-**🎭 Meeting of the two scholars:**
+**📜 Meeting of the two scholars:**
 
 When Abu Hanifa met Malik in Medina, Malik asked him about fiqh issues.
 
@@ -72,7 +72,7 @@ Then Malik told his students: **"I have never seen anyone more knowledgeable in 
 
 <div class="scene-box">
 
-**🎭 The friendship of two imams:**
+**📜 The friendship of two imams:**
 
 **Ahmad** said about al-Shafi'i:
 "I have seen no one more knowledgeable of Allah's Book and His Messenger's Sunna than al-Shafi'i."

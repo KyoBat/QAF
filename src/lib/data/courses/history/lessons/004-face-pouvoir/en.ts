@@ -12,7 +12,7 @@ export const content = `# ⚔️ Facing the Authorities — الْأَئِمَّ
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 The four imams were not scholars locked away in their libraries. They lived in a tumultuous political world — caliphates, revolutions, palace intrigues. And each of them had to **confront power** in their own way.
 
@@ -34,7 +34,7 @@ He witnessed the Abbasid revolution overthrow the Umayyads — a bloody upheaval
 
 <div class="scene-box">
 
-**🎭 At the Caliph's Palace — Baghdad, circa 148 AH**
+**📜 At the Caliph's Palace — Baghdad, circa 148 AH**
 
 *The caliph al-Manṣūr summoned Abū Ḥanīfa to his imperial palace. The courtiers stepped aside respectfully to let the scholar pass.*
 
@@ -105,7 +105,7 @@ Mālik (93-179 AH) lived primarily under the Abbasids, in Medina. Though far fro
 
 <div class="scene-box">
 
-**🎭 Before the Governor — Medina, 147 AH**
+**📜 Before the Governor — Medina, 147 AH**
 
 *The governor of Medina, Ja'far ibn Sulaymān, summoned Mālik. He wanted to force people to pledge allegiance to the caliph.*
 

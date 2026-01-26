@@ -9,7 +9,7 @@ export const content = `# 💎 Characteristics of Authentic Islamic Creed — م
 
 ---
 
-## 🎬 Prologue: The Seal of Authenticity
+## 📖 Prologue: The Seal of Authenticity
 
 <div class="scene-box">
 

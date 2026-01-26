@@ -85,7 +85,7 @@ Le Prophète ﷺ pratiquait ces adhkar régulièrement :
 
 ---
 
-## 🎭 2. Le Suivre dans le Comportement (الأخلاق)
+## 📜 2. Le Suivre dans le Comportement (الأخلاق)
 
 ### 2.1 La Véracité (الصدق)
 

@@ -11,9 +11,9 @@ export const contentFr = `# 👨‍👩‍👧 La Filiation et l'Allaitement —
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
-### 🎭 Scène : Le secret de la filiation
+### 📜 Scène : Le secret de la filiation
 
 > Deux femmes se disputent devant le Prophète ﷺ.
 >
@@ -29,7 +29,7 @@ Le Prophète ﷺ fit appel aux **« qâ'if »** — les physionomistes arabes ca
 
 ---
 
-### 🎭 Scène prophétique : L'enfant du lit conjugal
+### 📜 Scène prophétique : L'enfant du lit conjugal
 
 > Le Prophète ﷺ a dit :
 >
@@ -248,7 +248,7 @@ Zayd redevint « **Zayd ibn Hâritha** » — du nom de son vrai père.
 
 ---
 
-## 🎭 Récits
+## 📜 Récits
 
 ### L'histoire de Sahla et Sâlim
 

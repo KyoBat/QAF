@@ -14,7 +14,7 @@ export const content = `
 
 ---
 
-## 🎬 Mise en Contexte
+## 📖 Mise en Contexte
 
 L'Islam ne cantonna jamais les femmes à l'arrière. Quand la défense de la foi l'exigea, des **héroïnes** prirent les armes et combattirent aux côtés du Prophète ﷺ. Ces lionnes nous enseignent que le courage n'a pas de genre.
 

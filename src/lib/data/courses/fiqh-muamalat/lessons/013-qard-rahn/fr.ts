@@ -2,7 +2,7 @@ export const contentFr = `# Le Prêt et le Gage — Règles des Dettes et Garant
 
 <div class="scene-box">
 
-**🎬 Scène : Médine — Les derniers jours de la vie du Prophète ﷺ**
+**📖 Scène : Médine — Les derniers jours de la vie du Prophète ﷺ**
 
 *Dans la modeste maison de Aïcha رضي الله عنها, les murs en terre et le toit en feuilles de palmier... Le Prophète ﷺ dans sa dernière maladie, et sa cotte de mailles n'est pas avec lui...*
 
@@ -79,7 +79,7 @@ Car l'emprunteur le prend par besoin puis le rend, ce qui préserve mieux sa dig
 
 <div class="scene-box">
 
-**🎬 Scène : Une leçon de fiqh**
+**📖 Scène : Une leçon de fiqh**
 
 **L'étudiant :** Ô Sheikh, le prêt est-il obligatoire ou recommandé ?
 
@@ -153,7 +153,7 @@ Et le Prophète ﷺ, quand il empruntait, rendait mieux que ce qu'il avait pris.
 
 <div class="scene-box">
 
-**🎬 Scène : Le Marché de Médine — À l'époque du Prophète ﷺ**
+**📖 Scène : Le Marché de Médine — À l'époque du Prophète ﷺ**
 
 *Le Prophète ﷺ a besoin de nourriture pour sa famille, et va chez un juif vendeur d'orge...*
 
@@ -283,7 +283,7 @@ Les savants sont unanimes sur la licéité du gage en voyage comme en résidence
 
 <div class="scene-box">
 
-**🎬 La Cotte de Mailles du Prophète ﷺ en Gage**
+**📖 La Cotte de Mailles du Prophète ﷺ en Gage**
 
 *Après la mort du Prophète ﷺ, dans une assemblée de ses compagnons رضي الله عنهم...*
 
@@ -307,7 +307,7 @@ Gloire à Allah ! Le maître de la création, le meilleur des humains, meurt ave
 
 <div class="scene-box">
 
-**🎬 La Belle Conduite de Remboursement d'Abdullah ibn Umar**
+**📖 La Belle Conduite de Remboursement d'Abdullah ibn Umar**
 
 *Abdullah ibn Umar رضي الله عنهما était parmi les plus scrupuleux...*
 
@@ -329,7 +329,7 @@ Le supplément volontaire au remboursement fait partie des nobles caractères et
 
 <div class="scene-box">
 
-**🎬 Le Prêt d'Abu Bakr au Prophète ﷺ lors de l'Hégire**
+**📖 Le Prêt d'Abu Bakr au Prophète ﷺ lors de l'Hégire**
 
 *Quand le Prophète ﷺ voulut émigrer, Abu Bakr As-Siddiq رضي الله عنه prépara deux montures...*
 

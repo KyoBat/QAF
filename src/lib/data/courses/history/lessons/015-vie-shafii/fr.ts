@@ -10,7 +10,7 @@ export const content = `# 🕌 La Vie de l'Imam al-Shafi'i (150-204 H)
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 Il est **le Défenseur de la Sunna**, le fondateur de la science des Usul al-Fiqh (fondements du droit), et le génie qui unifia le fiqh du Hijaz et de l'Iraq. Il naquit **l'année de la mort d'Abu Hanifa** (150 H), et mourut jeune à seulement **54 ans**, mais il laissa un héritage éternel dans la pensée islamique.
 
@@ -39,7 +39,7 @@ Il est **le Défenseur de la Sunna**, le fondateur de la science des Usul al-Fiq
 
 <div class="scene-box">
 
-**🎭 SCÈNE : L'Orphelin Talentueux — La Mecque, ~160 H**
+**📜 SCÈNE : L'Orphelin Talentueux — La Mecque, ~160 H**
 
 *Un garçon de 10 ans récite le Muwatta entier de mémoire devant Muslim ibn Khalid al-Zanji.*
 
@@ -87,7 +87,7 @@ Avant de chercher le fiqh, il voulut maîtriser la langue arabe.
 
 <div class="scene-box">
 
-**🎭 SCÈNE : Le Jeune Homme devant l'Imam de Médine — Médine, ~170 H**
+**📜 SCÈNE : Le Jeune Homme devant l'Imam de Médine — Médine, ~170 H**
 
 *Un jeune homme mince portant une lettre de recommandation se tient devant Malik.*
 
@@ -195,7 +195,7 @@ Avant de chercher le fiqh, il voulut maîtriser la langue arabe.
 
 <div class="scene-box">
 
-**🎭 SCÈNE : La Première Rencontre — Bagdad, ~184 H**
+**📜 SCÈNE : La Première Rencontre — Bagdad, ~184 H**
 
 *Ahmad ibn Hanbal, un jeune homme, assiste au cours d'al-Shafi'i.*
 
@@ -232,7 +232,7 @@ Avant de chercher le fiqh, il voulut maîtriser la langue arabe.
 
 <div class="scene-box">
 
-**🎭 SCÈNE : Le Pardon du Noble — Le Caire, ~203 H**
+**📜 SCÈNE : Le Pardon du Noble — Le Caire, ~203 H**
 
 *Al-Shafi'i est malade dans son lit après avoir été battu par un extrémiste.*
 
@@ -307,7 +307,7 @@ Avant de chercher le fiqh, il voulut maîtriser la langue arabe.
 
 <div class="scene-box">
 
-**🎭 SCÈNE : L'Adieu au Génie — Le Caire, 204 H**
+**📜 SCÈNE : L'Adieu au Génie — Le Caire, 204 H**
 
 *Des foules immenses remplissent les rues de Fustat.*
 

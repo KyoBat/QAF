@@ -11,9 +11,9 @@ export const contentFr = `# ⏳ La Période d'Attente ('Idda) — Le Temps Sacr�
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
-### 🎭 Scène : Pourquoi attendre ?
+### 📜 Scène : Pourquoi attendre ?
 
 > Fatima vient d'être divorcée. Le lendemain, un autre homme la demande en mariage.
 >
@@ -158,7 +158,7 @@ Soit parce qu'elle est trop jeune, soit à cause de la ménopause :
 | ⚰️ Veuve non enceinte | **4 mois et 10 jours** |
 | 🤰 Veuve enceinte | Jusqu'à l'accouchement |
 
-### 🎭 Récit : La veuve qui voulait se maquiller
+### 📜 Récit : La veuve qui voulait se maquiller
 
 Une femme vint voir **Umm Salama** (qu'Allah l'agrée) pour demander si elle pouvait mettre du khôl pendant sa 'idda de veuve.
 
@@ -237,7 +237,7 @@ Umm Salama rapporta que le Prophète ﷺ avait dit :
 
 ---
 
-## 🎭 Récit : Fatima bint Qays
+## 📜 Récit : Fatima bint Qays
 
 **Fatima bint Qays** (qu'Allah l'agrée) fut divorcée trois fois (divorce irrévocable). Son mari envoya quelqu'un avec du blé et de l'orge pour sa nafaqa.
 

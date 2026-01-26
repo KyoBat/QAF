@@ -14,7 +14,7 @@ export const content = `# ⚔️ 'Umar ibn al-Khaṭṭāb — The Distinguisher
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 He was the most **feared** man in Mecca.
 
@@ -74,7 +74,7 @@ His hostility was so great that Muslims **feared him** more than anyone.
 
 <div class="scene-box">
 
-**🎭 The Day He Wanted to Kill the Prophet ﷺ**
+**📜 The Day He Wanted to Kill the Prophet ﷺ**
 
 *One day, 'Umar took his sword and headed towards the Prophet ﷺ with the intention of **killing him**.*
 
@@ -114,7 +114,7 @@ What he read was the beginning of **Sūrah Ṭā-Hā**:
 
 <div class="scene-box">
 
-**🎭 At Dār al-Arqam — 'Umar's Conversion**
+**📜 At Dār al-Arqam — 'Umar's Conversion**
 
 *'Umar, his heart transformed by the verses, said:*
 

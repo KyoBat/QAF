@@ -50,7 +50,7 @@ Créer des biographies complètes et narratives de chaque imam, du berceau à la
 
 <div class="scene-box">
 
-**🎭 SCÈNE : La Décision de Sa Vie — Marché de Kufa, ~95 H**
+**📜 SCÈNE : La Décision de Sa Vie — Marché de Kufa, ~95 H**
 
 *Un jeune homme de 15 ans vend de la soie dans le souk. Le grand savant Sha'bi passe.*
 
@@ -81,7 +81,7 @@ Créer des biographies complètes et narratives de chaque imam, du berceau à la
 
 <div class="scene-box">
 
-**🎭 SCÈNE : Fermeté Face au Calife — Prison de Kufa, 146 H**
+**📜 SCÈNE : Fermeté Face au Calife — Prison de Kufa, 146 H**
 
 **Al-Mansour** : « Pourquoi refuses-tu d'être mon qadi ? »
 
@@ -146,7 +146,7 @@ Créer des biographies complètes et narratives de chaque imam, du berceau à la
 
 <div class="scene-box">
 
-**🎭 SCÈNE : Le Livre Approuvé — Mosquée du Prophète, ~150 H**
+**📜 SCÈNE : Le Livre Approuvé — Mosquée du Prophète, ~150 H**
 
 *Malik présente son Muwatta à 70 juristes de Médine.*
 
@@ -203,7 +203,7 @@ Créer des biographies complètes et narratives de chaque imam, du berceau à la
 
 <div class="scene-box">
 
-**🎭 SCÈNE : Le Génie Enfant — Mecque, ~160 H**
+**📜 SCÈNE : Le Génie Enfant — Mecque, ~160 H**
 
 *Un garçon de 10 ans récite le Muwatta par cœur devant Muslim ibn Khalid az-Zanji.*
 
@@ -244,7 +244,7 @@ Créer des biographies complètes et narratives de chaque imam, du berceau à la
 
 <div class="scene-box">
 
-**🎭 SCÈNE : Le Pardon du Mourant — Le Caire, 204 H**
+**📜 SCÈNE : Le Pardon du Mourant — Le Caire, 204 H**
 
 *Shafi'i, gravement blessé, allongé sur son lit de mort.*
 
@@ -292,7 +292,7 @@ Créer des biographies complètes et narratives de chaque imam, du berceau à la
 
 <div class="scene-box">
 
-**🎭 SCÈNE : Le Voyageur Infatigable — Route vers Sanaa, ~185 H**
+**📜 SCÈNE : Le Voyageur Infatigable — Route vers Sanaa, ~185 H**
 
 *Ahmad, pieds nus, marche des centaines de kilomètres.*
 
@@ -319,7 +319,7 @@ Créer des biographies complètes et narratives de chaque imam, du berceau à la
 
 <div class="scene-box">
 
-**🎭 SCÈNE : Le Fouet du Martyr — Prison de Baghdad, 220 H**
+**📜 SCÈNE : Le Fouet du Martyr — Prison de Baghdad, 220 H**
 
 *Ahmad, attaché, reçoit coup après coup. Son dos saigne.*
 

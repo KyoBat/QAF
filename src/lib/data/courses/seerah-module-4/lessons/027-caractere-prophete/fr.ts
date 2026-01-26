@@ -23,7 +23,7 @@ Les Compagnons ont méticuleusement préservé chaque détail de sa personne —
 
 ### Le Témoignage d'Ali ibn Abi Talib
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > On demanda à 'Ali de décrire le Prophète ﷺ. Il dit :
 > 
@@ -47,7 +47,7 @@ Les Compagnons ont méticuleusement préservé chaque détail de sa personne —
 
 ### Le Témoignage de Jabir ibn Samura
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Jabir dit :
 > 
@@ -79,7 +79,7 @@ Les Compagnons ont méticuleusement préservé chaque détail de sa personne —
 
 ### Le Parfum du Prophète ﷺ
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Anas ibn Malik raconte :
 > 
@@ -97,7 +97,7 @@ Les Compagnons ont méticuleusement préservé chaque détail de sa personne —
 
 Avant même la révélation, il était surnommé **"As-Sadiq"** (Le Véridique).
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Quand le Prophète ﷺ monta sur le mont Safa et appela Quraysh, il leur dit :
 > 
@@ -109,7 +109,7 @@ Avant même la révélation, il était surnommé **"As-Sadiq"** (Le Véridique).
 
 ### La Générosité (Al-Karam)
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Ibn 'Abbas dit :
 > 
@@ -121,7 +121,7 @@ Avant même la révélation, il était surnommé **"As-Sadiq"** (Le Véridique).
 > 
 > — **Source : Sahih al-Bukhari**
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Un homme vint demander au Prophète ﷺ. Celui-ci lui donna un troupeau entier de moutons qui remplissait la vallée entre deux montagnes !
 > 
@@ -133,7 +133,7 @@ Avant même la révélation, il était surnommé **"As-Sadiq"** (Le Véridique).
 
 ### Le Courage (Ash-Shaja'a)
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > 'Ali — le lion des batailles — dit :
 > 
@@ -143,7 +143,7 @@ Avant même la révélation, il était surnommé **"As-Sadiq"** (Le Véridique).
 > 
 > — **Source : Musnad Ahmad**
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > À Hunayn, quand l'armée musulmane s'enfuit, le Prophète ﷺ resta seul, chargeant vers l'ennemi sur sa mule en criant :
 > 
@@ -155,7 +155,7 @@ Avant même la révélation, il était surnommé **"As-Sadiq"** (Le Véridique).
 
 ### L'Humilité (At-Tawadu')
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Anas dit :
 > 
@@ -165,7 +165,7 @@ Avant même la révélation, il était surnommé **"As-Sadiq"** (Le Véridique).
 > 
 > — **Source : Sunan al-Tirmidhi**
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Un homme entra chez le Prophète ﷺ et se mit à trembler de peur en le voyant.
 > 
@@ -179,7 +179,7 @@ Avant même la révélation, il était surnommé **"As-Sadiq"** (Le Véridique).
 
 ### La Miséricorde (Ar-Rahma)
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Le Prophète ﷺ dit :
 > 
@@ -193,7 +193,7 @@ Avant même la révélation, il était surnommé **"As-Sadiq"** (Le Véridique).
 > **"Et Nous ne t'avons envoyé qu'en miséricorde pour les mondes."**
 > — **[Al-Anbiya : 107]**
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Un bédouin urina dans la mosquée du Prophète ﷺ !
 > 
@@ -209,7 +209,7 @@ Avant même la révélation, il était surnommé **"As-Sadiq"** (Le Véridique).
 
 ### La Pudeur (Al-Haya')
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Abu Sa'id al-Khudri dit :
 > 
@@ -225,7 +225,7 @@ Avant même la révélation, il était surnommé **"As-Sadiq"** (Le Véridique).
 
 ### Avec ses Épouses
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > 'Aisha raconte :
 > 
@@ -233,7 +233,7 @@ Avant même la révélation, il était surnommé **"As-Sadiq"** (Le Véridique).
 > 
 > — **Source : Sahih al-Bukhari**
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > 'Aisha fut interrogée : "Que faisait le Prophète ﷺ chez lui ?"
 > 
@@ -243,7 +243,7 @@ Avant même la révélation, il était surnommé **"As-Sadiq"** (Le Véridique).
 > 
 > — **Source : Musnad Ahmad**
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Le Prophète ﷺ dit :
 > 
@@ -255,7 +255,7 @@ Avant même la révélation, il était surnommé **"As-Sadiq"** (Le Véridique).
 
 ### Avec ses Enfants et Petits-Enfants
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Le Prophète ﷺ embrassait al-Hasan et al-Husayn.
 > 
@@ -269,7 +269,7 @@ Avant même la révélation, il était surnommé **"As-Sadiq"** (Le Véridique).
 > 
 > — **Source : Sahih al-Bukhari**
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Le Prophète ﷺ était en prière. Quand il se prosterna, al-Hasan ou al-Husayn monta sur son dos.
 > 
@@ -285,7 +285,7 @@ Avant même la révélation, il était surnommé **"As-Sadiq"** (Le Véridique).
 
 ### Avec Fatima
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > 'Aisha raconte :
 > 
@@ -303,7 +303,7 @@ Avant même la révélation, il était surnommé **"As-Sadiq"** (Le Véridique).
 
 ### Avec ses Compagnons
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Anas, qui l'a servi 10 ans, dit :
 > 
@@ -313,7 +313,7 @@ Avant même la révélation, il était surnommé **"As-Sadiq"** (Le Véridique).
 > 
 > — **Source : Sahih al-Bukhari**
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > 'Amr ibn al-'As dit :
 > 
@@ -337,7 +337,7 @@ Avant même la révélation, il était surnommé **"As-Sadiq"** (Le Véridique).
 
 ### Avec les Enfants
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Anas dit :
 > 
@@ -345,7 +345,7 @@ Avant même la révélation, il était surnommé **"As-Sadiq"** (Le Véridique).
 > 
 > — **Source : Sahih al-Bukhari**
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Le Prophète ﷺ rendit visite à un enfant juif qui était malade.
 > 
@@ -361,7 +361,7 @@ Avant même la révélation, il était surnommé **"As-Sadiq"** (Le Véridique).
 
 ### Avec les Pauvres et les Faibles
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Une femme noire balayait la mosquée. Elle mourut.
 > 
@@ -383,7 +383,7 @@ Avant même la révélation, il était surnommé **"As-Sadiq"** (Le Véridique).
 
 ### Son Sourire Constant
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Jarir ibn 'Abdullah dit :
 > 
@@ -391,7 +391,7 @@ Avant même la révélation, il était surnommé **"As-Sadiq"** (Le Véridique).
 > 
 > — **Source : Sahih al-Bukhari**
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > 'Abdullah ibn al-Harith dit :
 > 
@@ -401,7 +401,7 @@ Avant même la révélation, il était surnommé **"As-Sadiq"** (Le Véridique).
 
 ### Son Sens de l'Humour
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Une vieille femme demanda au Prophète ﷺ : "Ô Messager d'Allah, invoque Allah pour que j'entre au Paradis !"
 > 
@@ -415,7 +415,7 @@ Avant même la révélation, il était surnommé **"As-Sadiq"** (Le Véridique).
 > 
 > — **Source : Ash-Shama'il al-Muhammadiyya**
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Un bédouin du nom de Zahir vendait des produits du désert au marché.
 > 

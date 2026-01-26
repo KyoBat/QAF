@@ -11,7 +11,7 @@ export const content = `# 🌟 The Birth of the Prophet ﷺ — Light Illuminate
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 ### A Night That Changed History
 
@@ -63,7 +63,7 @@ He is the **Seal of the Prophets**, the **Mercy of Allah to all worlds**, the **
 | **Marriage** | Âmina bint Wahb |
 | **Death** | Before the Prophet's ﷺ birth (in Yathrib or Syria) |
 
-> 🎭 **The Story**: 'Abdullâh set out on a trading journey to Syria. On the way back, he fell ill in **Yathrib** at his maternal uncles', the Banû Najjâr. He died there and was buried... never having seen his son.
+> 📜 **The Story**: 'Abdullâh set out on a trading journey to Syria. On the way back, he fell ill in **Yathrib** at his maternal uncles', the Banû Najjâr. He died there and was buried... never having seen his son.
 
 ---
 
@@ -120,7 +120,7 @@ The Prophet ﷺ was born in **the Year of the Elephant** (570 CE / 53 Before Hij
 | **The Vision** | She dreamed she was giving birth to a light |
 | **The Voice** | She heard someone say: "Name him Muhammad" |
 
-> 🎭 **Âmina's Account**: **"When I gave birth to him, a light came out of me that illuminated the palaces of Syria, so that I saw the castles of Busrâ"**
+> 📜 **Âmina's Account**: **"When I gave birth to him, a light came out of me that illuminated the palaces of Syria, so that I saw the castles of Busrâ"**
 
 ---
 
@@ -157,7 +157,7 @@ The Prophet ﷺ was born in the **quarter of Banû Hâshim** in Mecca.
 
 When the Prophet ﷺ was born, his grandfather **'Abdul-Muttalib** carried him to the Kaaba:
 
-> 🎭 **The Scene**:
+> 📜 **The Scene**:
 >
 > 'Abdul-Muttalib carries the newborn, enters the Kaaba...
 >
@@ -197,7 +197,7 @@ Quraysh nobles sent their children to the desert:
 
 ### 👩‍🍼 Halîma Searches for an Infant
 
-> 🎭 **The Famous Scene**:
+> 📜 **The Famous Scene**:
 >
 > The women of **Banû Sa'd** came to Mecca looking for infants to nurse...
 >
@@ -229,7 +229,7 @@ As soon as Halîma took him, everything changed:
 | **Her donkey** was weak and slow | It outpaced the caravan until they asked: "What is this donkey, daughter of Abî Dhu'ayb?!" |
 | **The land of Banû Sa'd** was barren | Their sheep returned full, their land became fertile |
 
-> 🎭 **Halîma's Words**: **"We arrived at the land of Banû Sa'd, and I knew no land more barren. But our sheep would return in the evening full and with milk, we would milk and drink, while no one else could get a single drop"**
+> 📜 **Halîma's Words**: **"We arrived at the land of Banû Sa'd, and I knew no land more barren. But our sheep would return in the evening full and with milk, we would milk and drink, while no one else could get a single drop"**
 
 ---
 
@@ -255,7 +255,7 @@ As soon as Halîma took him, everything changed:
 
 While he was playing with his foster brother behind the houses...
 
-> 🎭 **The Prophet's ﷺ Account**:
+> 📜 **The Prophet's ﷺ Account**:
 >
 > **"Two [angels] came to me when I was a boy. They took me and laid me down, opened my chest and took out my heart. They extracted from it a black clot and said: 'This is the portion of Satan in you.' Then they washed my heart with Zamzam water in a golden basin, and returned it to its place"**
 >
@@ -278,7 +278,7 @@ While he was playing with his foster brother behind the houses...
 
 ### 😨 Halîma's Reaction
 
-> 🎭 **The Scene**:
+> 📜 **The Scene**:
 >
 > His foster brother ran to Halîma crying: **"Come quick! My brother! Two men came and opened his belly!"**
 >
@@ -314,7 +314,7 @@ While he was playing with his foster brother behind the houses...
 | **The Illness** | She fell ill on the way back |
 | **The Death** | She died at **Al-Abwâ'** (between Mecca and Medina) |
 
-> 🎭 **Moving Scene**: A 6-year-old child, standing at his mother's grave in the desert, no father, no mother... Only Allah!
+> 📜 **Moving Scene**: A 6-year-old child, standing at his mother's grave in the desert, no father, no mother... Only Allah!
 
 ---
 
@@ -341,7 +341,7 @@ After Âmina's death, **'Abdul-Muttalib** took charge of his grandson:
 | **His Protection** | He wouldn't eat until Muhammad arrived |
 | **His Recognition** | He would say: "Leave my son, by Allah he will have a great destiny" |
 
-> 🎭 **Scene**: 'Abdul-Muttalib had a mat in the shade of the Kaaba that no one sat on... except little Muhammad!
+> 📜 **Scene**: 'Abdul-Muttalib had a mat in the shade of the Kaaba that no one sat on... except little Muhammad!
 >
 > His uncles would come to move him aside, but 'Abdul-Muttalib would say: **"Leave my son, by Allah he will have a great destiny"**
 
@@ -355,7 +355,7 @@ After Âmina's death, **'Abdul-Muttalib** took charge of his grandson:
 | **The Will** | He entrusted him to his son **Abû Tâlib** |
 | **The Reason** | Abû Tâlib was 'Abdullâh's (the Prophet's father) full brother |
 
-> 🎭 **The Farewell**: In his final moments, 'Abdul-Muttalib looks at his grandson with tearful eyes...
+> 📜 **The Farewell**: In his final moments, 'Abdul-Muttalib looks at his grandson with tearful eyes...
 >
 > He calls him: "My son, you are dearer to me than my own children... I have entrusted you to your uncle Abû Tâlib"
 >

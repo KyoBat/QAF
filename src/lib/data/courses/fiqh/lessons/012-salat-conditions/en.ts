@@ -13,9 +13,9 @@ export const content = `# 🕌 The Conditions of Prayer — Keys to Validity
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
-### 🎭 Scene: The Invalidated Prayer
+### 📜 Scene: The Invalidated Prayer
 
 > **After Dhuhr prayer at the mosque...**
 >
@@ -35,7 +35,7 @@ export const content = `# 🕌 The Conditions of Prayer — Keys to Validity
 
 ---
 
-### 🎭 Scene: The Importance of Time
+### 📜 Scene: The Importance of Time
 
 > **A new Muslim asks the imam...**
 >

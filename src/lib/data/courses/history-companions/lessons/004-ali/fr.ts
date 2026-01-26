@@ -14,7 +14,7 @@ export const content = `# 🦁 عَلِيُّ بْنُ أَبِي طَالِبٍ
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 Il fut le **premier enfant** à embrasser l'Islam.
 
@@ -64,7 +64,7 @@ Un jour, il surprit le Prophète ﷺ et Khadīja en train de prier.
 
 <div class="scene-box">
 
-**🎭 La Scène**
+**📜 La Scène**
 
 **'Alī :** « Qu'est-ce que vous faites ? »
 
@@ -225,7 +225,7 @@ Ses dernières recommandations :
 
 <div class="scene-box">
 
-**🎭 Avant l'Expédition de Tabūk**
+**📜 Avant l'Expédition de Tabūk**
 
 *Lors de l'expédition de Tabūk, le Prophète ﷺ laissa 'Alī à Médine pour s'occuper des affaires.*
 

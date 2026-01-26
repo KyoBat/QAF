@@ -11,7 +11,7 @@ export const contentFr = `# 💍 Les Fiançailles en Islam — L'Art de Demander
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 ### Scène 1 : Le prétendant moderne
 
@@ -80,9 +80,9 @@ Allah dit :
 
 ---
 
-## 🎭 Récit 1 : L'histoire de Julaybîb — Le héros que personne ne voulait
+## 📜 Récit 1 : L'histoire de Julaybîb — Le héros que personne ne voulait
 
-### 🎬 La scène
+### 📖 La scène
 
 **Julaybîb** (qu'Allah l'agrée) était un Compagnon particulier :
 - ❌ Pauvre — Pas de richesse
@@ -138,7 +138,7 @@ Le Prophète ﷺ le chercha parmi les morts. Il le trouva et le porta dans ses b
 
 ---
 
-## 🎭 Récit 2 : Les fiançailles de 'Âisha avec le Prophète ﷺ
+## 📜 Récit 2 : Les fiançailles de 'Âisha avec le Prophète ﷺ
 
 ### La scène
 

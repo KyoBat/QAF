@@ -14,7 +14,7 @@ export const content = `# 🌟 الْعَشَرَةُ الْمُبَشَّرُو
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 Parmi les milliers de Compagnons, **dix** ont reçu une promesse extraordinaire : la **certitude** du Paradis, de leur vivant.
 

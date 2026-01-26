@@ -2,7 +2,7 @@ export const contentFr = `# Les Types d'Usure (Ribâ)
 
 <div class="scene-box">
 
-**🎬 La Scène : Le Cercle de l'Imam Malik — Mosquée du Prophète ﷺ à Médine**
+**📖 La Scène : Le Cercle de l'Imam Malik — Mosquée du Prophète ﷺ à Médine**
 
 *Des étudiants en sciences religieuses entourent l'Imam Malik, qu'Allah lui fasse miséricorde, et l'un d'eux demande...*
 
@@ -55,7 +55,7 @@ export const contentFr = `# Les Types d'Usure (Ribâ)
 
 <div class="scene-box">
 
-**🎬 Au Marché de l'Or**
+**📖 Au Marché de l'Or**
 
 **L'acheteur** : Je veux échanger 100 grammes d'or ancien contre de l'or neuf.
 
@@ -79,7 +79,7 @@ L'or contre l'or doit être de poids égal, peu importe la qualité ou la fabric
 
 <div class="scene-box">
 
-**🎬 Dialogue : Pourquoi le Ribâ al-Fadl est-il Interdit ?**
+**📖 Dialogue : Pourquoi le Ribâ al-Fadl est-il Interdit ?**
 
 **Le questionneur** : Ô cheikh, si moi et le vendeur acceptons le surplus, quel est l'empêchement ?
 
@@ -134,7 +134,7 @@ L'or contre l'or doit être de poids égal, peu importe la qualité ou la fabric
 
 <div class="scene-box">
 
-**🎬 La Scène : À l'Époque Préislamique**
+**📖 La Scène : À l'Époque Préislamique**
 
 *Un marchand Quraychite se tient devant un homme endetté, dont l'échéance est arrivée...*
 
@@ -225,7 +225,7 @@ Intérêt de la divergence : Le fer et le cuivre entrent-ils dans l'usure ?
 
 <div class="scene-box">
 
-**🎬 La Scène : Tentative de Contournement de la Charia**
+**📖 La Scène : Tentative de Contournement de la Charia**
 
 *Un homme entre chez un marchand...*
 
@@ -270,7 +270,7 @@ Intérêt de la divergence : Le fer et le cuivre entrent-ils dans l'usure ?
 
 <div class="scene-box">
 
-**🎬 Au Palais du Gouvernorat — Médine**
+**📖 Au Palais du Gouvernorat — Médine**
 
 *Un homme entra chez 'Umar ibn 'Abd al-'Azîz, qu'Allah lui fasse miséricorde, alors qu'il était gouverneur de Médine...*
 

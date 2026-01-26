@@ -375,7 +375,7 @@ Le Prophète ﷺ a dit :
 
 <div class="scene-box">
 
-**🎭 IBRAHIM BRISE LES IDOLES**
+**📜 IBRAHIM BRISE LES IDOLES**
 
 *Ibrahim dit à son père et à son peuple :*
 
@@ -401,7 +401,7 @@ Le Prophète ﷺ a dit :
 
 <div class="scene-box">
 
-**🎭 'ADI IBN HATIM ET L'OBÉISSANCE AUX SAVANTS**
+**📜 'ADI IBN HATIM ET L'OBÉISSANCE AUX SAVANTS**
 
 *'Adi ibn Hatim vint alors qu'il était chrétien, et il entendit le Prophète ﷺ réciter :*
 
@@ -425,7 +425,7 @@ Le Prophète ﷺ a dit :
 
 <div class="scene-box">
 
-**🎭 DHAT ANWAT : UN AVERTISSEMENT PROPHÉTIQUE**
+**📜 DHAT ANWAT : UN AVERTISSEMENT PROPHÉTIQUE**
 
 *Lors de la bataille de Hunayn, les Compagnons passèrent près d'un arbre sur lequel les polythéistes accrochaient leurs armes pour se bénir de lui, appelé "Dhat Anwat".*
 
@@ -443,7 +443,7 @@ Le Prophète ﷺ a dit :
 
 <div class="story-box">
 
-**🎭 SA'ID IBN JUBAYR FACE À AL-HAJJAJ**
+**📜 SA'ID IBN JUBAYR FACE À AL-HAJJAJ**
 
 **À l'époque d'Al-Hajjaj ibn Yusuf Ath-Thaqafi**, le grand Tabi'i Sa'id ibn Jubayr رحمه الله était l'un des plus grands savants.
 

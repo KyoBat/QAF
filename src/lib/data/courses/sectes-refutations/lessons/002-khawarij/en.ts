@@ -5,7 +5,7 @@ export const contentEn = `# ⚔️ The Khawarij — The First Sect to Divide the
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 The Khawarij are **the first sect** to divide the Ummah and spill Muslim blood. Their story is an eternal warning against the dangers of religious extremism and hasty excommunication (takfir).
 
@@ -33,7 +33,7 @@ They killed **the fourth of the Rightly-Guided Caliphs**, 'Ali ibn Abi Talib ر�
 
 <div class="scene-box">
 
-**🎭 Scene: 'Amr ibn al-'As's Ruse — Battle of Siffin, 37 AH**
+**📜 Scene: 'Amr ibn al-'As's Ruse — Battle of Siffin, 37 AH**
 
 *'Ali's armies are on the verge of victory. Mu'awiya's army is retreating.*
 
@@ -59,7 +59,7 @@ They killed **the fourth of the Rightly-Guided Caliphs**, 'Ali ibn Abi Talib ر�
 
 <div class="scene-box">
 
-**🎭 Scene: "There is no judgment except for Allah!" — After the Arbitration, 37 AH**
+**📜 Scene: "There is no judgment except for Allah!" — After the Arbitration, 37 AH**
 
 *'Ali returns to Kufa after accepting arbitration. Suddenly, 12,000 men break away from his army.*
 
@@ -162,7 +162,7 @@ The Prophet ﷺ described the Khawarij with astonishing precision, **years befor
 
 <div class="scene-box">
 
-**🎭 Scene: The First Kharijite — The Prophetic Era**
+**📜 Scene: The First Kharijite — The Prophetic Era**
 
 *The Prophet ﷺ is distributing spoils. A man approaches.*
 
@@ -221,7 +221,7 @@ Characteristics of the Khawarij (from the Prophet's ﷺ hadiths)
 
 <div class="scene-box">
 
-**🎭 Scene: Terror of the Azariqah — Ahwaz, ~65 AH**
+**📜 Scene: Terror of the Azariqah — Ahwaz, ~65 AH**
 
 *The Azariqah attack a town. A Muslim man flees with his family.*
 
@@ -268,7 +268,7 @@ When 12,000 men broke away from 'Ali, he decided to send **the most knowledgeabl
 
 <div class="scene-box">
 
-**🎭 Scene: Ibn 'Abbas Before the Khawarij — Harura', 37 AH**
+**📜 Scene: Ibn 'Abbas Before the Khawarij — Harura', 37 AH**
 
 *Ibn 'Abbas رضي الله عنهما arrives at the Khawarij camp. He wears his finest clothes.*
 
@@ -312,7 +312,7 @@ When 12,000 men broke away from 'Ali, he decided to send **the most knowledgeabl
 
 <div class="scene-box">
 
-**🎭 Scene: The Assassins' Pact — Mecca, 40 AH**
+**📜 Scene: The Assassins' Pact — Mecca, 40 AH**
 
 *Three Khawarij meet during the Hajj season.*
 
@@ -332,7 +332,7 @@ When 12,000 men broke away from 'Ali, he decided to send **the most knowledgeabl
 
 <div class="scene-box">
 
-**🎭 Scene: The Martyrdom of 'Ali — Kufa Mosque, Dawn of 17th Ramadan 40 AH**
+**📜 Scene: The Martyrdom of 'Ali — Kufa Mosque, Dawn of 17th Ramadan 40 AH**
 
 *'Ali رضي الله عنه comes out for Fajr prayer. Ibn Muljam awaits him.*
 
@@ -407,7 +407,7 @@ Methodology of Dealing with the Khawarij
 
 <div class="scene-box">
 
-**🎭 Scene: The Young "Scholar" — Local Mosque, Today**
+**📜 Scene: The Young "Scholar" — Local Mosque, Today**
 
 **Young man**: "The one who abandons prayer is a disbeliever! He must be killed!"
 

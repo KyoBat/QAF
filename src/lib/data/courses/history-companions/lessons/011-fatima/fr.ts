@@ -12,7 +12,7 @@ export const content = `# 👨‍👩‍👧 FĀṬIMA ET AHL AL-BAYT — La Fam
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 **Ahl al-Bayt** — la famille du Prophète ﷺ — occupe une place unique dans l'Islam.
 
@@ -67,7 +67,7 @@ Fāṭima grandit dans la **persécution**.
 
 <div class="scene-box">
 
-**🎭 Scènes de son Enfance**
+**📜 Scènes de son Enfance**
 
 **🗑️ LES DÉCHETS SUR SON PÈRE**
 Un jour, alors que le Prophète ﷺ priait près de la Ka'ba, les Quraysh jetèrent des intestins de chameau sur lui. La petite Fāṭima vint nettoyer son père en pleurant.

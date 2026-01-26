@@ -41,7 +41,7 @@ On the authority of Abu Hurayra رضي الله عنه, the Prophet ﷺ said: **
 
 <div class="scene-box">
 
-**🎭 The Scene of Abu Bakra — The Foundation for Catching the Bowing**
+**📜 The Scene of Abu Bakra — The Foundation for Catching the Bowing**
 
 *Abu Bakra رضي الله عنه was arriving for the prayer...*
 

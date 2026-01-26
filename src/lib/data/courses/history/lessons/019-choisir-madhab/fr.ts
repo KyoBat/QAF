@@ -8,7 +8,7 @@ export const content = `# ⚖️ Comment Choisir un Madhab ?
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 Faut-il suivre un madhab particulier ? Et comment choisir ? Cette leçon répond aux questions pratiques les plus importantes sur les écoles juridiques.
 

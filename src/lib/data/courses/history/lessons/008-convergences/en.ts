@@ -12,7 +12,7 @@ export const content = `# 🤝 Points of Convergence — نِقَاطُ الات
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 We often talk about the **differences** between the four schools. But we forget the essential:
 

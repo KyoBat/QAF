@@ -11,9 +11,9 @@ export const contentFr = `# ⚖️ L'Istihsan — La Préférence Juridique
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
-### 🎭 Scène : Abu Hanifa et le Voleur
+### 📜 Scène : Abu Hanifa et le Voleur
 
 > **Kufa, à l'époque de l'Imam Abu Hanifa...**
 >
@@ -29,7 +29,7 @@ export const contentFr = `# ⚖️ L'Istihsan — La Préférence Juridique
 
 ---
 
-### 🎭 Scène : Le Débat entre Ash-Shafi'i et les Hanafites
+### 📜 Scène : Le Débat entre Ash-Shafi'i et les Hanafites
 
 > **L'Imam Ash-Shafi'i** dit :
 >
@@ -122,7 +122,7 @@ export const contentFr = `# ⚖️ L'Istihsan — La Préférence Juridique
 
 ---
 
-## 🎭 Exemples Pratiques
+## 📜 Exemples Pratiques
 
 ### Exemple 1 : Le Contrat Salam
 

@@ -29,7 +29,7 @@ Lorsque le Prophète ﷺ arriva à Médine, il découvrit une société diverse 
 
 ### Les Hypocrites
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > 'Abdullah ibn Ubayy ibn Salûl était sur le point d'être couronné roi de Médine lorsque l'Islam vint bouleverser ses plans. Il entra dans l'Islam en apparence, mais son cœur bouillonnait de rancœur et de haine.
 > 
@@ -46,7 +46,7 @@ Le Prophète ﷺ comprit qu'il était impossible de bâtir un État fort sans :
 3. **Une coexistence** entre les différentes composantes
 4. **Une défense commune** contre les ennemis
 
-> 🎭 **Scène de la fondation** :
+> 📜 **Scène de la fondation** :
 > 
 > Le Prophète ﷺ s'assit avec les notables des Muhâjirîn, des Ansars et les chefs des tribus juives. Il déroula devant eux un long parchemin et dit :
 > 
@@ -103,7 +103,7 @@ C'est la première déclaration de l'histoire plaçant le lien confessionnel au-
 
 ### Récit de la première application
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Un homme des Banû Qaynuqâ' vint se plaindre au Prophète ﷺ qu'un homme des Ansars l'avait lésé dans une transaction commerciale.
 > 

@@ -2,7 +2,7 @@ export const contentEn = `# Companies — Rules of Partnership and Joint Venture
 
 <div class="scene-box">
 
-**🎬 At the market of Badr... the day faith triumphed**
+**📖 At the market of Badr... the day faith triumphed**
 
 *Three Companions discuss before the battle...*
 
@@ -94,7 +94,7 @@ The Prophet ﷺ said: **"Allah the Most High says: I am the third of two partner
 
 <div class="scene-box">
 
-**🎬 In Baghdad... two partners negotiate**
+**📖 In Baghdad... two partners negotiate**
 
 **Ahmad the merchant:** I have 10,000 dinars, I want us to partner in the silk trade.
 
@@ -161,7 +161,7 @@ That two or more people partner being **equal in everything**:
 
 <div class="scene-box">
 
-**🎬 Return to Badr... the story of the three Companions**
+**📖 Return to Badr... the story of the three Companions**
 
 **Abdullah ibn Mas'ûd:** *(narrating)* I partnered with 'Ammâr and Sa'd in whatever we would obtain on the day of Badr...
 
@@ -209,7 +209,7 @@ That two or more people partner being **equal in everything**:
 
 <div class="scene-box">
 
-**🎬 At the market of Medina...**
+**📖 At the market of Medina...**
 
 **'Âmir:** *(to his friend)* O Sa'îd, we don't have money to trade...
 
@@ -301,7 +301,7 @@ A company whose capital is divided into **shares of equal value**, tradable, and
 
 <div class="scene-box">
 
-**🎬 At the Islamic bank...**
+**📖 At the Islamic bank...**
 
 **The Client:** I want to buy a house for 500,000 riyals, but I only have 100,000.
 
@@ -370,7 +370,7 @@ A company whose capital is divided into **shares of equal value**, tradable, and
 
 <div class="scene-box">
 
-**🎬 The immortal lesson from Badr**
+**📖 The immortal lesson from Badr**
 
 **Abdullah ibn Mas'ûd, may Allah be pleased with him:**
 

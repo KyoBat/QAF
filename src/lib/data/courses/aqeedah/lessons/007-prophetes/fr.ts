@@ -111,7 +111,7 @@ Le Prophète ﷺ a dit, décrivant les piliers de la foi :
 
 <div class="scene-box">
 
-**🎭 LES CINQ GÉANTS**
+**📜 LES CINQ GÉANTS**
 
 *Cinq messagers se distinguent par une fermeté exceptionnelle face aux épreuves les plus terribles...*
 
@@ -181,7 +181,7 @@ Le Prophète ﷺ a dit, décrivant les piliers de la foi :
 
 <div class="scene-box">
 
-**🎭 LE FEU DEVIENT FRAÎCHEUR**
+**📜 LE FEU DEVIENT FRAÎCHEUR**
 
 *Ibrahim عليه السلام venait de briser toutes les idoles. La fureur du peuple était à son comble.*
 
@@ -213,7 +213,7 @@ Le Prophète ﷺ a dit, décrivant les piliers de la foi :
 
 <div class="scene-box">
 
-**🎭 L'INVOCATION DANS LES ABYSSES**
+**📜 L'INVOCATION DANS LES ABYSSES**
 
 *Yunus عليه السلام quitta son peuple par frustration. En pleine mer, le sort le désigna pour être jeté par-dessus bord...*
 
@@ -241,7 +241,7 @@ Le Prophète ﷺ a dit, décrivant les piliers de la foi :
 
 <div class="scene-box">
 
-**🎭 LE JOUR LE PLUS DUR**
+**📜 LE JOUR LE PLUS DUR**
 
 *An 10 de la mission. Le Prophète ﷺ se rend à Ta'if après la mort de Khadija et d'Abu Talib...*
 
@@ -325,7 +325,7 @@ Le Prophète ﷺ a dit :
 
 <div class="scene-box">
 
-**🎭 LE TÉMOIGNAGE DE 'ISSA**
+**📜 LE TÉMOIGNAGE DE 'ISSA**
 
 *Au Jour du Jugement, Allah interrogera 'Issa عليه السلام devant toute l'humanité :*
 

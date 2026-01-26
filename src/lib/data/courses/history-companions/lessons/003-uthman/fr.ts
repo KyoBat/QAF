@@ -14,7 +14,7 @@ export const content = `# 🕊️ عُثْمَانُ بْنُ عَفَّانَ �
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 Parmi tous les Compagnons, il était le plus **beau**.
 
@@ -236,7 +236,7 @@ Il mourut à **82 ans**, en jeûnant, en lisant le Coran.
 
 <div class="scene-box">
 
-**🎭 Chez le Prophète ﷺ**
+**📜 Chez le Prophète ﷺ**
 
 *Un jour, le Prophète ﷺ était allongé chez lui, les jambes découvertes. Abū Bakr entra, puis 'Umar. Le Prophète ﷺ ne changea pas de position.*
 

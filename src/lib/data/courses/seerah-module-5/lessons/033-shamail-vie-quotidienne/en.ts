@@ -12,7 +12,7 @@ export const content = `# 📜 الشَّمَائِلُ النَّبَوِيَّ
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 The term **Shamā'il** (شمائل) refers to the **qualities**, **characteristics**, and **daily habits** of the Prophet ﷺ. This science was codified by Imam al-Tirmidhī (d. 279 AH) in his work *Al-Shamā'il al-Muḥammadiyya*.
 

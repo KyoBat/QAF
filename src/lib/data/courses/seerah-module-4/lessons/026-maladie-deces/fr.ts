@@ -17,7 +17,7 @@ Trois mois après le Pèlerinage d'Adieu. Le Prophète ﷺ avait transmis le mes
 
 ### La Visite au Cimetière
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Une nuit, le Prophète ﷺ se leva secrètement et alla au cimetière d'al-Baqi'.
 > 
@@ -49,7 +49,7 @@ La maladie commença par de violents maux de tête et une forte fièvre.
 | **Douleur** | Maux de tête insupportables |
 | **Durée** | Environ 13-14 jours |
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Le Prophète ﷺ avait un bandeau autour de la tête à cause de la douleur.
 > 
@@ -71,7 +71,7 @@ La maladie commença par de violents maux de tête et une forte fièvre.
 
 ### La Permission des Épouses
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Le Prophète ﷺ faisait le tour de ses épouses malgré sa maladie.
 > 
@@ -87,7 +87,7 @@ La maladie commença par de violents maux de tête et une forte fièvre.
 
 ### Le Dernier Sermon à la Mosquée
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Quelques jours avant sa mort, le Prophète ﷺ rassembla ses dernières forces.
 > 
@@ -109,7 +109,7 @@ La maladie commença par de violents maux de tête et une forte fièvre.
 
 ### L'Ordre de la Prière
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > La maladie s'aggrava. Le Prophète ﷺ ne pouvait plus diriger la prière.
 > 
@@ -129,7 +129,7 @@ La maladie commença par de violents maux de tête et une forte fièvre.
 
 ### Le Dernier Regard sur la Mosquée
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Le lundi matin, pendant la prière de Fajr, le Prophète ﷺ leva le rideau de la chambre d'Aisha.
 > 
@@ -149,7 +149,7 @@ La maladie commença par de violents maux de tête et une forte fièvre.
 
 ### Le Siwak et les Dernières Paroles
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > La tête du Prophète ﷺ reposait sur la poitrine d'Aisha.
 > 
@@ -165,7 +165,7 @@ La maladie commença par de violents maux de tête et une forte fièvre.
 
 ### Les Toutes Dernières Paroles
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Un récipient d'eau était à côté du Prophète ﷺ.
 > 
@@ -202,7 +202,7 @@ La maladie commença par de violents maux de tête et une forte fièvre.
 
 ### La Nouvelle se Répand
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Aisha posa doucement la tête du Prophète ﷺ sur un oreiller.
 > 
@@ -216,7 +216,7 @@ La maladie commença par de violents maux de tête et une forte fièvre.
 
 ### 'Umar Refuse d'Accepter
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > 'Umar ibn al-Khattab se leva, l'épée à la main, et dit :
 > 
@@ -228,7 +228,7 @@ La maladie commença par de violents maux de tête et une forte fièvre.
 
 ### L'Arrivée d'Abu Bakr
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Abu Bakr était à al-Sunh (un quartier de Médine).
 > 
@@ -244,7 +244,7 @@ La maladie commença par de violents maux de tête et une forte fièvre.
 
 ### Le Discours d'Abu Bakr
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Abu Bakr sortit vers la mosquée.
 > 
@@ -298,7 +298,7 @@ La maladie commença par de violents maux de tête et une forte fièvre.
 
 ### La Prière sur le Prophète ﷺ
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Les musulmans entrèrent par groupes dans la chambre.
 > 
@@ -331,7 +331,7 @@ La maladie commença par de violents maux de tête et une forte fièvre.
 
 ### Fatima, Sa Fille Bien-Aimée
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Fatima dit après la mort de son père :
 > 
@@ -347,7 +347,7 @@ La maladie commença par de violents maux de tête et une forte fièvre.
 
 ### Anas ibn Malik
 
-> 🎭 **Scène** :
+> 📜 **Scène** :
 > 
 > Anas dit :
 > 

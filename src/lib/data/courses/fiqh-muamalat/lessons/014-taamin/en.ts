@@ -2,7 +2,7 @@ export const contentEn = `# Islamic Insurance — The Permissible Alternative to
 
 <div class="scene-box">
 
-**🎬 Scene: A Knowledge Circle — A Young Man's Question About Insurance**
+**📖 Scene: A Knowledge Circle — A Young Man's Question About Insurance**
 
 *In a study circle after Asr prayer, a young man asks the sheikh...*
 
@@ -53,7 +53,7 @@ At-Ta'min (insurance): comes from **al-amn** (security), meaning protection from
 
 <div class="scene-box">
 
-**🎬 Scene: In an Insurance Agent's Office**
+**📖 Scene: In an Insurance Agent's Office**
 
 *A man asks the insurance agent about the contract...*
 
@@ -154,7 +154,7 @@ Uncertainty concerning the object sold, the price, or the outcome.
 
 <div class="scene-box">
 
-**🎬 Scene: A Contemporary Fiqh Lesson**
+**📖 Scene: A Contemporary Fiqh Lesson**
 
 **The Sheikh:** If commercial insurance is forbidden, what is the alternative?
 
@@ -260,7 +260,7 @@ Uncertainty concerning the object sold, the price, or the outcome.
 
 <div class="scene-box">
 
-**🎬 The 'Aqila System — Origin of Takaful**
+**📖 The 'Aqila System — Origin of Takaful**
 
 *In the prophetic era, a man from the Ansar accidentally killed someone...*
 
@@ -282,7 +282,7 @@ This is Islamic solidarity:
 
 <div class="scene-box">
 
-**🎬 Umar ibn al-Khattab and the Registry of Grants**
+**📖 Umar ibn al-Khattab and the Registry of Grants**
 
 *Under the caliphate of Umar رضي الله عنه, he established a unique social system...*
 
@@ -301,7 +301,7 @@ Social solidarity is an authentic Islamic principle, and Takaful insurance is it
 
 <div class="scene-box">
 
-**🎬 The Solidarity of the Muhajirin and Ansar**
+**📖 The Solidarity of the Muhajirin and Ansar**
 
 *When the Muslims emigrated to Medina...*
 

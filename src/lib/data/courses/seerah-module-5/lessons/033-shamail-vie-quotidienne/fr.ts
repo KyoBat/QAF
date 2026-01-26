@@ -12,7 +12,7 @@ export const content = `# 📜 الشَّمَائِلُ النَّبَوِيَّ
 
 ---
 
-## 🎬 Mise en Contexte
+## 📖 Mise en Contexte
 
 Le terme **Shamā'il** (شمائل) désigne les **qualités**, **caractéristiques** et **habitudes quotidiennes** du Prophète ﷺ. Cette science a été codifiée par l'Imam al-Tirmidhī (m. 279 H) dans son ouvrage *Al-Shamā'il al-Muḥammadiyya*.
 

@@ -13,9 +13,9 @@ export const contentEn = `# 👶 Al-Hadanah — Child Custody
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
-### 🎭 Scene: A Mother's Plea
+### 📜 Scene: A Mother's Plea
 
 > **In the time of the Prophet ﷺ...**
 >
@@ -33,7 +33,7 @@ export const contentEn = `# 👶 Al-Hadanah — Child Custody
 
 ---
 
-### 🎭 Scene: The Father's Rights
+### 📜 Scene: The Father's Rights
 
 > **After the divorce...**
 >

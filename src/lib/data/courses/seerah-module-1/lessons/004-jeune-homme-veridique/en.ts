@@ -11,7 +11,7 @@ export const content = `# 💎 The Truthful Young Man — A Reputation Before Pr
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 ### A Different Young Man in Jahiliyya Society
 
@@ -38,7 +38,7 @@ Until the people nicknamed him: **As-Sadiq Al-Amin** ﷺ
 
 ### 💬 Testimony of the Meccans
 
-> 🎭 **The Scene**: A man from Quraysh asked:
+> 📜 **The Scene**: A man from Quraysh asked:
 >
 > **"Who is the most truthful of people?"**
 >
@@ -77,7 +77,7 @@ Until the people nicknamed him: **As-Sadiq Al-Amin** ﷺ
 
 ---
 
-### 🎭 Story of Leniency
+### 📜 Story of Leniency
 
 > **The Situation**: A man sold goods to Muhammad ﷺ...
 >
@@ -138,7 +138,7 @@ Until the people nicknamed him: **As-Sadiq Al-Amin** ﷺ
 
 ## 💬 Contemporary Testimonies
 
-### 🎭 Testimony of Abu Talib
+### 📜 Testimony of Abu Talib
 
 > **Abu Talib said**:
 >
@@ -146,7 +146,7 @@ Until the people nicknamed him: **As-Sadiq Al-Amin** ﷺ
 
 ---
 
-### 🎭 Testimony of Khadija (on the Day of Revelation)
+### 📜 Testimony of Khadija (on the Day of Revelation)
 
 > **Khadija said**:
 >
@@ -160,7 +160,7 @@ Until the people nicknamed him: **As-Sadiq Al-Amin** ﷺ
 
 ---
 
-### 🎭 Testimony of Heraclius (Emperor of Byzantium)
+### 📜 Testimony of Heraclius (Emperor of Byzantium)
 
 After questioning Abu Sufyan about Muhammad ﷺ:
 
@@ -188,7 +188,7 @@ After questioning Abu Sufyan about Muhammad ﷺ:
 
 ---
 
-### 🎭 Muhammad's ﷺ Position
+### 📜 Muhammad's ﷺ Position
 
 > **The Hadith**: The Prophet ﷺ said about the War of Fijar:
 >
@@ -224,7 +224,7 @@ After questioning Abu Sufyan about Muhammad ﷺ:
 
 ---
 
-### 🎭 The Story of Injustice
+### 📜 The Story of Injustice
 
 > **The Scene**: A man from Yemen came to Mecca with merchandise...
 >

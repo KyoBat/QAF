@@ -206,7 +206,7 @@ const content = `
 
 ---
 
-### 🎭 Cas 5: Jouer un Rôle Blasphématoire
+### 📜 Cas 5: Jouer un Rôle Blasphématoire
 
 > **Situation:** Omar, acteur musulman, accepte un rôle dans un film où son personnage prononce des paroles de mécréance et se prosterne devant une idole.
 

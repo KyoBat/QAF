@@ -128,7 +128,7 @@ createFade(direction, distance, duration)
 
 **Améliorations**:
 - 📚 Grid avec stagger d'apparition
-- 🎭 Category cards avec hover scale + lift + shadow
+- 📜 Category cards avec hover scale + lift + shadow
 - 😊 Emoji animation sur hover (scale + wobble)
 - 🏷️ Badge "Coming Soon" avec scale-in
 - 🎯 Title hover scale pour les catégories actives

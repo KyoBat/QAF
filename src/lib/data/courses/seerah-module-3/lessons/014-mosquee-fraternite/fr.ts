@@ -10,7 +10,7 @@ export const content = `
 
 Le Prophète ﷺ arriva à Médine en Rabi' al-Awwal de la première année de l'Hégire. Médine — qui s'appelait "Yathrib" — attendait ce jour béni.
 
-> 🎭 **La Scène** :
+> 📜 **La Scène** :
 >
 > Le Prophète ﷺ s'installa chez Abu Ayyub al-Ansari رضي الله عنه. Il passa sept mois sous son hospitalité généreuse, jusqu'à ce que la Mosquée Prophétique et les appartements des Mères des Croyants soient construits.
 
@@ -22,7 +22,7 @@ Le Prophète ﷺ arriva à Médine en Rabi' al-Awwal de la première année de l
 
 La chamelle du Prophète ﷺ s'agenouilla sur un terrain de séchage de dattes appartenant à deux orphelins des Banu Najjar : **Sahl et Suhayl, fils de 'Amr**.
 
-> 🎭 **La Scène** :
+> 📜 **La Scène** :
 >
 > Le Prophète ﷺ voulut acheter le terrain. Les deux garçons dirent : *« Nous te l'offrons plutôt, ô Messager d'Allah ! »*
 >
@@ -46,7 +46,7 @@ La chamelle du Prophète ﷺ s'agenouilla sur un terrain de séchage de dattes a
 
 ### Le Prophète ﷺ Travaille de Ses Mains
 
-> 🎭 **La Scène** :
+> 📜 **La Scène** :
 >
 > Le Prophète ﷺ ne resta pas simplement à donner des ordres. Il retroussa ses manches et porta les briques et les pierres avec ses Compagnons !
 >
@@ -94,7 +94,7 @@ Les musulmans se demandaient : Comment rassembler les gens pour la prière ?
 
 ### La Vision d'Abdullah ibn Zayd
 
-> 🎭 **La Scène** :
+> 📜 **La Scène** :
 >
 > Abdullah ibn Zayd رضي الله عنه vint au Prophète ﷺ et dit :
 >
@@ -108,7 +108,7 @@ Les musulmans se demandaient : Comment rassembler les gens pour la prière ?
 
 ### Bilal — Le Premier Muezzin de l'Islam
 
-> 🎭 **La Scène** :
+> 📜 **La Scène** :
 >
 > Bilal رضي الله عنه monta sur la maison la plus haute de Médine et éleva sa voix mélodieuse pour le premier adhan :
 >
@@ -147,7 +147,7 @@ Les Muhajirin arrivèrent à Médine ayant tout laissé à La Mecque :
 
 ### La Solution Prophétique : La Fraternité
 
-> 🎭 **La Scène** :
+> 📜 **La Scène** :
 >
 > Le Prophète ﷺ rassembla les Muhajirin et les Ansar dans la maison d'Anas ibn Malik رضي الله عنه. Il se tint parmi eux et dit :
 >
@@ -161,7 +161,7 @@ Les Muhajirin arrivèrent à Médine ayant tout laissé à La Mecque :
 
 #### 1. 'Abd ar-Rahman ibn 'Awf et Sa'd ibn ar-Rabi'
 
-> 🎭 **La Scène** :
+> 📜 **La Scène** :
 >
 > Le Prophète ﷺ établit la fraternité entre **'Abd ar-Rahman ibn 'Awf** (le Muhajir) et **Sa'd ibn ar-Rabi'** (l'Ansari).
 >
@@ -183,7 +183,7 @@ Les Muhajirin arrivèrent à Médine ayant tout laissé à La Mecque :
 
 #### 3. 'Ali ibn Abi Talib... et le Prophète ﷺ !
 
-> 🎭 **La Scène** :
+> 📜 **La Scène** :
 >
 > Quand le Prophète ﷺ établit la fraternité entre les Compagnons, 'Ali رضي الله عنه resta sans frère. Ses yeux se remplirent de larmes.
 >
@@ -247,7 +247,7 @@ Les musulmans prièrent vers Jérusalem pendant **16 ou 17 mois** après l'Hégi
 
 ### La Nostalgie de la Ka'ba
 
-> 🎭 **La Scène** :
+> 📜 **La Scène** :
 >
 > Le Prophète ﷺ tournait son regard vers le ciel, espérant être orienté vers la qibla d'Ibrahim عليه السلام — la Ka'ba sacrée.
 >
@@ -260,7 +260,7 @@ Les musulmans prièrent vers Jérusalem pendant **16 ou 17 mois** après l'Hégi
 
 ### Le Moment du Changement
 
-> 🎭 **La Scène** :
+> 📜 **La Scène** :
 >
 > Le Prophète ﷺ priait avec ses Compagnons la prière du dhuhr dans la mosquée des Banu Salama. Au milieu de la prière, Jibril descendit avec l'ordre du changement !
 >

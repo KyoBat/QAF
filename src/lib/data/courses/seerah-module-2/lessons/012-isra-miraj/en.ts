@@ -10,7 +10,7 @@ export const content = `
 
 After the death of Khadija رضي الله عنها and Abu Talib, after the painful journey to Ta'if, the Prophet ﷺ was going through one of the most difficult periods of his life. He had lost his beloved wife, his protective uncle, and had been rejected by the tribe of Ta'if.
 
-> 🎭 **The Scene**:
+> 📜 **The Scene**:
 >
 > On a Meccan night, the Prophet ﷺ was sleeping at the house of Umm Hani bint Abi Talib, near the Ka'ba. The sky was studded with stars, and the city was immersed in the silence of night. No one knew that this night would become the most extraordinary in human history.
 
@@ -20,7 +20,7 @@ After the death of Khadija رضي الله عنها and Abu Talib, after the pai
 
 ### ⭐ The Arrival of Jibril عليه السلام
 
-> 🎭 **The Scene**:
+> 📜 **The Scene**:
 >
 > Jibril عليه السلام came to the Prophet ﷺ accompanied by Mikael. They opened his blessed chest, took out his heart, washed it with Zamzam water in a golden basin filled with faith and wisdom, then returned it to its place.
 >
@@ -51,7 +51,7 @@ The Prophet ﷺ was brought a mount unlike any seen before:
 
 The Prophet ﷺ reached Jerusalem in moments. There, at the blessed Al-Aqsa Mosque, occurred a scene the Earth had never witnessed:
 
-> 🎭 **The Scene**:
+> 📜 **The Scene**:
 >
 > All the prophets and messengers — from Adam to 'Isa عليهم السلام — had gathered to welcome a noble guest. When Muhammad ﷺ entered, he stepped forward to lead them in prayer as imam.
 >
@@ -110,7 +110,7 @@ Adam عليه السلام said: **"Welcome to the righteous son and the righteo
 | **Yahya** عليه السلام | Prophet of Allah | Cousin of 'Isa |
 | **'Isa** عليه السلام | Spirit of Allah and His Word | The Messiah, son of Maryam |
 
-> 🎭 **The Scene**:
+> 📜 **The Scene**:
 >
 > The Prophet ﷺ saw them, these two cousins. 'Isa عليه السلام had a reddish complexion, with many moles, as if he had just come out of a bath. The person who resembled him most was 'Urwa ibn Mas'ud ath-Thaqafi.
 >
@@ -157,7 +157,7 @@ Harun said: **"Welcome to the righteous brother and the righteous prophet"** �
 
 In the sixth heaven, the Prophet ﷺ met Musa, who spoke directly with Allah:
 
-> 🎭 **The Scene**:
+> 📜 **The Scene**:
 >
 > A man of brown complexion, tall, with curly hair, as if he were from the men of Shanu'a. When the Prophet ﷺ passed him going up, Musa wept!
 >
@@ -173,7 +173,7 @@ Musa said: **"Welcome to the righteous brother and the righteous prophet"** 💚
 
 At the highest of heavens, the seventh heaven, came the most moving moment:
 
-> 🎭 **The Scene**:
+> 📜 **The Scene**:
 >
 > The Prophet ﷺ saw Ibrahim al-Khalil — his ancestor — with his back leaning against **al-Bayt al-Ma'mur** (the Frequented House). He was the person who most closely resembled the Prophet ﷺ.
 >
@@ -233,7 +233,7 @@ At this sublime place, near Sidrat al-Muntaha, Allah prescribed upon the nation 
 
 ### 🔄 The Reduction — The Role of Musa عليه السلام
 
-> 🎭 **The Scene**:
+> 📜 **The Scene**:
 >
 > When the Prophet ﷺ descended and passed by Musa عليه السلام, he asked:
 >
@@ -251,7 +251,7 @@ At this sublime place, near Sidrat al-Muntaha, Allah prescribed upon the nation 
 | ... | ... | ... |
 | Final | **5** | definitive |
 
-> 🎭 **The Final Scene**:
+> 📜 **The Final Scene**:
 >
 > When the number reached five prayers, Musa said: Go back and ask for a reduction.
 >
@@ -269,7 +269,7 @@ At this sublime place, near Sidrat al-Muntaha, Allah prescribed upon the nation 
 
 The Prophet ﷺ returned the same night. In the morning, he told Quraysh what he had seen:
 
-> 🎭 **The Scene**:
+> 📜 **The Scene**:
 >
 > The Prophet ﷺ sat near the Sacred Mosque. Abu Jahl came to him, mocking:
 >
@@ -311,7 +311,7 @@ The people went out to watch for the caravan... It arrived exactly as he had des
 
 ## 💎 Abu Bakr as-Siddiq — Belief Without Hesitation
 
-> 🎭 **The Scene**:
+> 📜 **The Scene**:
 >
 > Some polytheists came to Abu Bakr to mock:
 >

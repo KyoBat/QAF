@@ -10,7 +10,7 @@ export const content = `# 🕌 The Life of Imam Ahmad ibn Hanbal (164-241 H)
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 He is **the Imam of Ahl al-Sunna wal-Jama'a**, the author of the great Musnad, and the symbol of steadfastness upon truth. He lived **77 years** filled with scholarly jihad, and endured a trial that no one had endured before or after him. His funeral was attended by **hundreds of thousands** of people.
 
@@ -38,7 +38,7 @@ He is **the Imam of Ahl al-Sunna wal-Jama'a**, the author of the great Musnad, a
 
 <div class="scene-box">
 
-**🎭 SCENE: The Patient Mother — Baghdad, ~170 H**
+**📜 SCENE: The Patient Mother — Baghdad, ~170 H**
 
 *Ahmad's mother wakes him hours before dawn.*
 
@@ -76,7 +76,7 @@ He is **the Imam of Ahl al-Sunna wal-Jama'a**, the author of the great Musnad, a
 
 <div class="scene-box">
 
-**🎭 SCENE: The Tireless Traveler — Road to Sanaa, ~185 H**
+**📜 SCENE: The Tireless Traveler — Road to Sanaa, ~185 H**
 
 *Ahmad walks barefoot hundreds of miles through the desert.*
 
@@ -149,7 +149,7 @@ He is **the Imam of Ahl al-Sunna wal-Jama'a**, the author of the great Musnad, a
 
 <div class="scene-box">
 
-**🎭 SCENE: The Beginning of the Trial — Baghdad, 218 H**
+**📜 SCENE: The Beginning of the Trial — Baghdad, 218 H**
 
 *Soldiers take Ahmad in chains to the caliph's palace.*
 
@@ -177,7 +177,7 @@ He is **the Imam of Ahl al-Sunna wal-Jama'a**, the author of the great Musnad, a
 
 <div class="scene-box">
 
-**🎭 SCENE: The Flogging of the Martyr — Baghdad Prison, 220 H**
+**📜 SCENE: The Flogging of the Martyr — Baghdad Prison, 220 H**
 
 *Ahmad is suspended between two poles, his back bleeding.*
 
@@ -292,7 +292,7 @@ He is **the Imam of Ahl al-Sunna wal-Jama'a**, the author of the great Musnad, a
 
 <div class="scene-box">
 
-**🎭 SCENE: A Funeral Never Seen — Baghdad, 241 H**
+**📜 SCENE: A Funeral Never Seen — Baghdad, 241 H**
 
 *All of Baghdad comes out to accompany the Imam.*
 

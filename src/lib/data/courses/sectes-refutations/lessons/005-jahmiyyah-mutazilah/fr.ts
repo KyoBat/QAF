@@ -5,7 +5,7 @@ export const contentFr = `# 🧠 Les Jahmiyyah et Mu'tazilah — La Raison contr
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 Ces deux sectes représentent l'une des plus grandes épreuves qu'ait connues la Oumma dans sa croyance. Les **Jahmiyyah** ont nié les Attributs d'Allah, et les **Mu'tazilah** ont fait de la **raison humaine** le juge suprême au-dessus de la Révélation.
 
@@ -21,7 +21,7 @@ L'épreuve de la **« création du Coran »** reste gravée dans l'histoire : le
 
 <div class="scene-box">
 
-**🎭 SCÈNE : L'Origine de la Négation — Transoxiane, ~120 H**
+**📜 SCÈNE : L'Origine de la Négation — Transoxiane, ~120 H**
 
 *Jahm ibn Safwan débat avec des philosophes indiens (les Sumaniyyah).*
 
@@ -52,7 +52,7 @@ L'épreuve de la **« création du Coran »** reste gravée dans l'histoire : le
 
 <div class="scene-box">
 
-**🎭 SCÈNE : L'Absurdité du Ta'til**
+**📜 SCÈNE : L'Absurdité du Ta'til**
 
 **Sunni** : « Selon toi, Allah n'a ni Main, ni Visage, ni Parole ? »
 
@@ -90,7 +90,7 @@ Les savants du Salaf considèrent les **Jahmiyyah extrémistes comme mécréants
 
 <div class="scene-box">
 
-**🎭 SCÈNE : La Séparation — Cercle d'al-Hasan al-Basri, Basra, ~110 H**
+**📜 SCÈNE : La Séparation — Cercle d'al-Hasan al-Basri, Basra, ~110 H**
 
 *Al-Hasan al-Basri رحمه الله enseigne. Un homme pose une question.*
 
@@ -162,7 +162,7 @@ En 218 H, le calife abbasside **al-Ma'mun** adopta le dogme mu'tazilite selon le
 
 <div class="scene-box">
 
-**🎭 SCÈNE : L'Interrogatoire — Palais du Calife, 218 H**
+**📜 SCÈNE : L'Interrogatoire — Palais du Calife, 218 H**
 
 *L'Imam Ahmad ibn Hanbal رحمه الله est amené enchaîné devant le calife.*
 
@@ -186,7 +186,7 @@ En 218 H, le calife abbasside **al-Ma'mun** adopta le dogme mu'tazilite selon le
 
 <div class="scene-box">
 
-**🎭 SCÈNE : La Prison — Bagdad, 218-220 H**
+**📜 SCÈNE : La Prison — Bagdad, 218-220 H**
 
 *L'Imam Ahmad est en prison depuis des mois. Un homme lui rend visite.*
 
@@ -265,7 +265,7 @@ Allah a **distingué** entre la création (al-khalq) et le commandement (al-amr)
 
 <div class="scene-box">
 
-**🎭 SCÈNE : Après l'Épreuve — Bagdad, Après 232 H**
+**📜 SCÈNE : Après l'Épreuve — Bagdad, Après 232 H**
 
 *L'Imam Ahmad, âgé et marqué par les fouets, enseigne.*
 
@@ -297,7 +297,7 @@ Allah a **distingué** entre la création (al-khalq) et le commandement (al-amr)
 
 <div class="scene-box">
 
-**🎭 SCÈNE : Le Cours de Théologie — Aujourd'hui**
+**📜 SCÈNE : Le Cours de Théologie — Aujourd'hui**
 
 **Professeur** : « Quand Allah dit "يَدُ اللَّهِ" (la Main d'Allah), cela signifie "la puissance". Et "اسْتَوَىٰ عَلَى الْعَرْشِ" (Il s'est établi sur le Trône) signifie "Il a dominé". »
 

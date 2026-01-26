@@ -12,7 +12,7 @@ export const content = `# 🗺️ The Geography of the Schools — جُغْرَ�
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 How is it that today:
 - **Morocco** is massively **Maliki**?

@@ -11,9 +11,9 @@ export const contentEn = `# 🔓 Al-Khul' — When She Seeks Freedom
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
-### 🎭 Scene: A Woman's Distress
+### 📜 Scene: A Woman's Distress
 
 > **In the Prophet's ﷺ time...**
 >
@@ -35,7 +35,7 @@ export const contentEn = `# 🔓 Al-Khul' — When She Seeks Freedom
 
 ---
 
-### 🎭 Scene: Understanding the Difference
+### 📜 Scene: Understanding the Difference
 
 > **A woman asked the scholar...**
 >
@@ -168,7 +168,7 @@ export const contentEn = `# 🔓 Al-Khul' — When She Seeks Freedom
 
 ---
 
-## 🎭 Story: Habiba and the Prophet ﷺ
+## 📜 Story: Habiba and the Prophet ﷺ
 
 ### Another Narration
 

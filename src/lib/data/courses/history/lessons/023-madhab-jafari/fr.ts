@@ -8,7 +8,7 @@ export const content = `# ☪️ Le Madhab Ja'fari (Chiite)
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 Cette leçon présente le madhab ja'fari d'un point de vue scientifique objectif, pour faire connaître nos frères chiites et comprendre leurs différences juridiques, dans un esprit de dialogue et de rapprochement.
 

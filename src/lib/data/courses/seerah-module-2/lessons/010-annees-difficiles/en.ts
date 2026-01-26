@@ -11,7 +11,7 @@ export const content = `# 💔 The Difficult Years — The Year of Sorrow
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 ### Three Years of Siege... Then the Year of Sorrows
 
@@ -75,7 +75,7 @@ Quraysh gathered and wrote a pact which they hung inside the Kaaba:
 
 ## 🥀 The Suffering — Three Years of Hunger and Cold
 
-### 🎭 Scenes from the Siege
+### 📜 Scenes from the Siege
 
 > **First Scene — The Deadly Hunger**
 >
@@ -141,7 +141,7 @@ Quraysh gathered and wrote a pact which they hung inside the Kaaba:
 
 ## 🕊️ The Annulment of the Pact — The Termites Eat the Injustice
 
-### 🎭 The Scene — The Miracle
+### 📜 The Scene — The Miracle
 
 > After three years...
 >
@@ -165,7 +165,7 @@ Quraysh gathered and wrote a pact which they hung inside the Kaaba:
 
 ---
 
-### 🎭 Opening the Pact
+### 📜 Opening the Pact
 
 > They went to the Kaaba...
 >
@@ -242,7 +242,7 @@ Men from Quraysh refused the injustice and demanded the annulment of the pact:
 
 ---
 
-### 🎭 The Scene — The Final Moments
+### 📜 The Scene — The Final Moments
 
 > Abu Talib on his deathbed...
 >
@@ -339,7 +339,7 @@ Men from Quraysh refused the injustice and demanded the annulment of the pact:
 
 ---
 
-### 🎭 The Scene — The Final Farewell
+### 📜 The Scene — The Final Farewell
 
 > Khadija on her sickbed...
 >
@@ -418,7 +418,7 @@ Men from Quraysh refused the injustice and demanded the annulment of the pact:
 
 ---
 
-### 🎭 Quraysh's Audacity
+### 📜 Quraysh's Audacity
 
 > After the death of Abu Talib...
 >

@@ -6,7 +6,7 @@
 
 ---
 
-## 🎬 INTRO (30 sec)
+## 📖 INTRO (30 sec)
 
 *[Texte à l'écran : fond sombre avec calligraphie arabe]*
 
@@ -135,7 +135,7 @@
 
 ---
 
-## 🎬 OUTRO (20 sec)
+## 📖 OUTRO (20 sec)
 
 *[Texte à l'écran : Logo Rabbi Zidni Ilma + rabbizidniilma.com]*
 

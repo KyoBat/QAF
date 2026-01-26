@@ -39,7 +39,7 @@ Immediately after the conquest of Mecca (Shawwal, Year 8 H), the Hawazin and Tha
 | Chief | Malik ibn 'Awf al-Nasri |
 | Strategy | Ambush in the valley of Hunayn |
 
-> 🎭 **Scene** :
+> 📜 **Scene** :
 > 
 > Durayd ibn al-Simma (an old blind sheikh, expert in warfare) said to Malik:
 > 
@@ -57,7 +57,7 @@ Immediately after the conquest of Mecca (Shawwal, Year 8 H), the Hawazin and Tha
 
 ### Pride Before the Battle
 
-> 🎭 **Scene** :
+> 📜 **Scene** :
 > 
 > Some Muslims looked at their large army and said:
 > 
@@ -70,7 +70,7 @@ Immediately after the conquest of Mecca (Shawwal, Year 8 H), the Hawazin and Tha
 
 ### The Sudden Ambush
 
-> 🎭 **Scene** :
+> 📜 **Scene** :
 > 
 > At dawn the next day, the army entered the narrow valley of Hunayn.
 > 
@@ -88,7 +88,7 @@ Immediately after the conquest of Mecca (Shawwal, Year 8 H), the Hawazin and Tha
 
 ### The Decisive Moment
 
-> 🎭 **Scene** :
+> 📜 **Scene** :
 > 
 > While people were fleeing, the Prophet ﷺ stood firm on his white mule (Duldul).
 > 
@@ -102,7 +102,7 @@ Immediately after the conquest of Mecca (Shawwal, Year 8 H), the Hawazin and Tha
 
 ### The Call
 
-> 🎭 **Scene** :
+> 📜 **Scene** :
 > 
 > The Prophet ﷺ ordered his uncle al-'Abbas (who had a very powerful voice) to call out:
 > 
@@ -122,7 +122,7 @@ Immediately after the conquest of Mecca (Shawwal, Year 8 H), the Hawazin and Tha
 
 ### The Handful of Gravel
 
-> 🎭 **Scene** :
+> 📜 **Scene** :
 > 
 > The Prophet ﷺ took a handful of gravel and threw it toward the enemy, saying:
 > 
@@ -153,7 +153,7 @@ Immediately after the conquest of Mecca (Shawwal, Year 8 H), the Hawazin and Tha
 
 After Hunayn, the remnants of Hawazin fled to Ta'if where Thaqif had fortified themselves.
 
-> 🎭 **Scene** :
+> 📜 **Scene** :
 > 
 > The Prophet ﷺ arrived with his army at Ta'if.
 > 
@@ -169,7 +169,7 @@ After Hunayn, the remnants of Hawazin fled to Ta'if where Thaqif had fortified t
 
 ### The Decision to Withdraw
 
-> 🎭 **Scene** :
+> 📜 **Scene** :
 > 
 > The Prophet ﷺ consulted Nawfal ibn Mu'awiya:
 > 
@@ -193,7 +193,7 @@ After Hunayn, the remnants of Hawazin fled to Ta'if where Thaqif had fortified t
 
 ### Those Whose Hearts Were to Be Reconciled
 
-> 🎭 **Scene** :
+> 📜 **Scene** :
 > 
 > The Prophet ﷺ distributed the spoils at al-Ji'rana.
 > 
@@ -207,7 +207,7 @@ After Hunayn, the remnants of Hawazin fled to Ta'if where Thaqif had fortified t
 
 ### The Ansar's Displeasure
 
-> 🎭 **Scene** :
+> 📜 **Scene** :
 > 
 > Some young Ansar spoke:
 > 
@@ -219,7 +219,7 @@ After Hunayn, the remnants of Hawazin fled to Ta'if where Thaqif had fortified t
 
 ### The Speech That Brought Tears
 
-> 🎭 **Scene** :
+> 📜 **Scene** :
 > 
 > The Prophet ﷺ said:
 > 
@@ -247,7 +247,7 @@ After Hunayn, the remnants of Hawazin fled to Ta'if where Thaqif had fortified t
 
 ### The Hawazin Prisoners
 
-> 🎭 **Scene** :
+> 📜 **Scene** :
 > 
 > A delegation from Hawazin came, having accepted Islam, to request their prisoners.
 > 

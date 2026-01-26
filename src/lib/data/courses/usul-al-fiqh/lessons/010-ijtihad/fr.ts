@@ -11,9 +11,9 @@ export const contentFr = `# 🔍 L'Ijtihad — L'Effort Jurisprudentiel
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
-### 🎭 Scène : Les Deux Juges et la Femme Enceinte
+### 📜 Scène : Les Deux Juges et la Femme Enceinte
 
 > **À l'époque de Omar ibn al-Khattab...**
 >
@@ -33,7 +33,7 @@ export const contentFr = `# 🔍 L'Ijtihad — L'Effort Jurisprudentiel
 
 ---
 
-### 🎭 Scène : Le Prophète ﷺ Encourage l'Ijtihad
+### 📜 Scène : Le Prophète ﷺ Encourage l'Ijtihad
 
 > Le Prophète ﷺ dit :
 >
@@ -169,7 +169,7 @@ export const contentFr = `# 🔍 L'Ijtihad — L'Effort Jurisprudentiel
 
 ---
 
-## 🎭 Histoire : L'Humilité des Grands Imams
+## 📜 Histoire : L'Humilité des Grands Imams
 
 ### L'Imam Malik
 

@@ -13,7 +13,7 @@ export const content = `# 📜 العَصْرُ الذَّهَبِيُّ لِل�
 
 ---
 
-## 🎬 Setting the Scene
+## 📖 Setting the Scene
 
 ### An Extraordinary Era
 

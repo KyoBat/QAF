@@ -11,7 +11,7 @@ export const contentFr = `# 🏠 Le Fiqh de la Famille — La Science qui bâtit
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 ### Une science que tout musulman doit connaître
 
@@ -60,7 +60,7 @@ Un couple traverse une crise... L'homme menace de divorcer à chaque dispute. La
 >
 > — **[An-Nisâ' : 1]**
 
-🎭 **Réalité** : Une famille forte produit des individus forts. Une famille brisée produit des générations perdues.
+📜 **Réalité** : Une famille forte produit des individus forts. Une famille brisée produit des générations perdues.
 
 ### 2. Les 5 objectifs de la Charia passent par la famille
 
@@ -115,7 +115,7 @@ Pour les cas nouveaux non mentionnés dans les textes.
 
 ---
 
-## 🎭 Le Prophète ﷺ — Le meilleur des époux
+## 📜 Le Prophète ﷺ — Le meilleur des époux
 
 ### Sa vie de famille : Un modèle parfait
 

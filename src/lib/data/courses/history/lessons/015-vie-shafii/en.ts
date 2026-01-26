@@ -10,7 +10,7 @@ export const content = `# 🕌 The Life of Imam al-Shafi'i (150-204 H)
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 He is **the Defender of the Sunna**, the founder of the science of Usul al-Fiqh (Principles of Jurisprudence), and the genius who united the fiqh of Hijaz and Iraq. He was born **the year Abu Hanifa died** (150 H), and died young at only **54 years**, but he left an eternal legacy in Islamic thought.
 
@@ -39,7 +39,7 @@ He is **the Defender of the Sunna**, the founder of the science of Usul al-Fiqh 
 
 <div class="scene-box">
 
-**🎭 SCENE: The Talented Orphan — Mecca, ~160 H**
+**📜 SCENE: The Talented Orphan — Mecca, ~160 H**
 
 *A 10-year-old boy recites the entire Muwatta from memory before Muslim ibn Khalid al-Zanji.*
 
@@ -87,7 +87,7 @@ Before seeking fiqh, he wanted to master the Arabic language.
 
 <div class="scene-box">
 
-**🎭 SCENE: The Young Man Before the Imam of Medina — Medina, ~170 H**
+**📜 SCENE: The Young Man Before the Imam of Medina — Medina, ~170 H**
 
 *A thin young man carrying a letter of recommendation stands before Malik.*
 
@@ -195,7 +195,7 @@ Before seeking fiqh, he wanted to master the Arabic language.
 
 <div class="scene-box">
 
-**🎭 SCENE: The First Meeting — Baghdad, ~184 H**
+**📜 SCENE: The First Meeting — Baghdad, ~184 H**
 
 *Ahmad ibn Hanbal, a young man, attends al-Shafi'i's lesson.*
 
@@ -232,7 +232,7 @@ Before seeking fiqh, he wanted to master the Arabic language.
 
 <div class="scene-box">
 
-**🎭 SCENE: The Noble's Forgiveness — Cairo, ~203 H**
+**📜 SCENE: The Noble's Forgiveness — Cairo, ~203 H**
 
 *Al-Shafi'i is sick in bed after being beaten by an extremist.*
 
@@ -307,7 +307,7 @@ Before seeking fiqh, he wanted to master the Arabic language.
 
 <div class="scene-box">
 
-**🎭 SCENE: Farewell to the Genius — Cairo, 204 H**
+**📜 SCENE: Farewell to the Genius — Cairo, 204 H**
 
 *Immense crowds fill the streets of Fustat.*
 

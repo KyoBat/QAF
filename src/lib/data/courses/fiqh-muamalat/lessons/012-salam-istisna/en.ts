@@ -2,7 +2,7 @@ export const contentEn = `# Salam and Istisna' — The Lawful Forward Sale
 
 <div class="scene-box">
 
-**🎬 Scene: The Market of Medina — First Year of Hijra**
+**📖 Scene: The Market of Medina — First Year of Hijra**
 
 *The Messenger of Allah ﷺ arrived in Medina and found its inhabitants practicing transactions they had known in the pre-Islamic era. One of them would go to the farmer and give him money in advance in exchange for a harvest he would receive in a year or two...*
 
@@ -75,7 +75,7 @@ Yes, this is what we are accustomed to doing. But... *(looking around hesitantly
 
 <div class="scene-box">
 
-**🎬 Scene: A lesson in a fiqh study circle**
+**📖 Scene: A lesson in a fiqh study circle**
 
 **The Sheikh:** O students of knowledge, Salam has conditions on three axes. Listen carefully...
 
@@ -121,7 +121,7 @@ Yes, this is what we are accustomed to doing. But... *(looking around hesitantly
 
 <div class="scene-box">
 
-**🎬 Scene: Kufa — The Era of Imam Abu Hanifa**
+**📖 Scene: Kufa — The Era of Imam Abu Hanifa**
 
 *A man enters the workshop of a famous carpenter in the Kufa market...*
 
@@ -282,7 +282,7 @@ Yes, this is what we are accustomed to doing. But... *(looking around hesitantly
 
 <div class="scene-box">
 
-**🎬 Ibn Abbas Testifies to Salam's Legitimacy**
+**📖 Ibn Abbas Testifies to Salam's Legitimacy**
 
 *Imam Bukhari reports in his Sahih...*
 
@@ -302,7 +302,7 @@ Then he said: **The Prophet ﷺ came to Medina while the people were making Sala
 
 <div class="scene-box">
 
-**🎬 The Wisdom of Imam Abu Hanifa on Istisna'**
+**📖 The Wisdom of Imam Abu Hanifa on Istisna'**
 
 *In his circle at the Kufa mosque, Imam Abu Hanifa رحمه الله was asked...*
 

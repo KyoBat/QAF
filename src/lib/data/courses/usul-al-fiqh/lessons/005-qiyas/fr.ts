@@ -11,9 +11,9 @@ export const contentFr = `# 🔗 Le Qiyas — La Quatrième Source de la Législ
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
-### 🎭 Scène : Omar et le Nabidh
+### 📜 Scène : Omar et le Nabidh
 
 > **Médine, à l'époque de Omar ibn al-Khattab...**
 >
@@ -33,7 +33,7 @@ export const contentFr = `# 🔗 Le Qiyas — La Quatrième Source de la Législ
 
 ---
 
-### 🎭 Scène : Mu'adh Fait l'Ijtihad
+### 📜 Scène : Mu'adh Fait l'Ijtihad
 
 > Lorsque le Prophète ﷺ envoya **Mu'adh** au Yémen, il lui demanda :
 >
@@ -211,7 +211,7 @@ export const contentFr = `# 🔗 Le Qiyas — La Quatrième Source de la Législ
 
 ---
 
-## 🎭 Histoire : L'Imam Ash-Shafi'i et le Qiyas
+## 📜 Histoire : L'Imam Ash-Shafi'i et le Qiyas
 
 ### Son Importance
 

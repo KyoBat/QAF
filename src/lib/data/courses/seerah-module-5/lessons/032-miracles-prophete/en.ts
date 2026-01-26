@@ -12,7 +12,7 @@ export const content = `# 📜 المُعْجِزَاتُ النَّبَوِيَ
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 A miracle (*mu'jiza*) is a **supernatural event** that Allah grants to His prophets as proof of their truthfulness. The Prophet Muhammad ﷺ was given **countless miracles**, the greatest of which is the **Qur'an** itself.
 
@@ -86,7 +86,7 @@ The Qur'an is the **permanent miracle** of the Prophet ﷺ, unlike the temporary
 
 ### 3️⃣ Multiplication of Food (تكثير الطعام)
 
-> 🎭 **SCENE — Battle of the Trench**
+> 📜 **SCENE — Battle of the Trench**
 >
 > Jābir reports: "During the Battle of the Trench, I saw extreme hunger in the Prophet ﷺ. I went home and asked my wife what we had: a small goat and some barley. I invited the Prophet ﷺ with a few people. He said: 'Don't remove the pot before I arrive.' Then he called all the people of the Trench: they were a thousand! They all ate their fill."
 > — **[Al-Bukhārī 4102, Muslim 2039]**

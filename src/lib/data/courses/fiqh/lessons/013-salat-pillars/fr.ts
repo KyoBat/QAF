@@ -45,7 +45,7 @@ C'est le calme dans chaque pilier, le temps que les membres se stabilisent et qu
 
 <div class="scene-box">
 
-**🎭 Le hadith de celui qui a mal prié — Le fondement dans ce chapitre**
+**📜 Le hadith de celui qui a mal prié — Le fondement dans ce chapitre**
 
 *Un homme entra dans la mosquée alors que le Prophète ﷺ était assis avec ses compagnons...*
 
@@ -73,7 +73,7 @@ C'est le calme dans chaque pilier, le temps que les membres se stabilisent et qu
 
 <div class="scene-box">
 
-**🎭 L'interdiction de voler de sa prière**
+**📜 L'interdiction de voler de sa prière**
 
 *Le Prophète ﷺ avertissait ses compagnons d'un mal grave...*
 

@@ -11,9 +11,9 @@ export const contentFr = `# 🔄 La Reprise (Ar-Raj'a) — La Seconde Chance
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
-### 🎭 Scène : Le regret après le divorce
+### 📜 Scène : Le regret après le divorce
 
 > Ahmad a divorcé sa femme dans un moment de colère. Une semaine plus tard, il regrette profondément.
 >
@@ -162,7 +162,7 @@ export const contentFr = `# 🔄 La Reprise (Ar-Raj'a) — La Seconde Chance
 
 ---
 
-## 🎭 Récit : Le Prophète ﷺ et Ibn 'Umar
+## 📜 Récit : Le Prophète ﷺ et Ibn 'Umar
 
 Quand **Ibn 'Umar** (qu'Allah les agrée) divorça sa femme pendant ses menstrues, le Prophète ﷺ ordonna :
 
@@ -180,7 +180,7 @@ Quand **Ibn 'Umar** (qu'Allah les agrée) divorça sa femme pendant ses menstrue
 
 ---
 
-## 🎭 Récit : L'homme qui a repris sa femme au dernier moment
+## 📜 Récit : L'homme qui a repris sa femme au dernier moment
 
 Un homme des Ansâr divorça sa femme. La 'idda arrivait à sa fin. Il alla la voir juste avant qu'elle ne soit terminée et dit :
 

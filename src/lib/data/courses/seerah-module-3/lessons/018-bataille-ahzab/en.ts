@@ -29,7 +29,7 @@ In **Dhul-Qi'da** of the fifth year of Hijra (February-March 627 CE), the enemie
 
 ### Huyayy ibn Akhtab the Instigator
 
-> 🎭 **Scene**:
+> 📜 **Scene**:
 > 
 > After the expulsion of Banû an-Nadîr from Medina, Huyayy ibn Akhtab went to Mecca.
 > 
@@ -45,7 +45,7 @@ In **Dhul-Qi'da** of the fifth year of Hijra (February-March 627 CE), the enemie
 
 ### The Counsel of Salmân al-Fârisî
 
-> 🎭 **Scene**:
+> 📜 **Scene**:
 > 
 > When the Prophet ﷺ learned of the massive coalition, he gathered his companions for consultation.
 > 
@@ -73,7 +73,7 @@ In **Dhul-Qi'da** of the fifth year of Hijra (February-March 627 CE), the enemie
 
 ### A Rock That Would Not Break
 
-> 🎭 **Scene**:
+> 📜 **Scene**:
 > 
 > The companions were stopped by an enormous rock that pickaxes could not break.
 > 
@@ -91,7 +91,7 @@ In **Dhul-Qi'da** of the fifth year of Hijra (February-March 627 CE), the enemie
 
 ### The Prophet ﷺ Working with the Companions
 
-> 🎭 **Scene**:
+> 📜 **Scene**:
 > 
 > The Prophet ﷺ was digging with his noble hands, a stone tied to his stomach from hunger.
 > 
@@ -117,7 +117,7 @@ In **Dhul-Qi'da** of the fifth year of Hijra (February-March 627 CE), the enemie
 
 ### The Betrayal of Banû Qurayza
 
-> 🎭 **Scene**:
+> 📜 **Scene**:
 > 
 > Huyayy ibn Akhtab went to see Ka'b ibn Asad, chief of Banû Qurayza.
 > 
@@ -145,7 +145,7 @@ The Muslims were besieged from all sides:
 
 ### 'Alî ibn Abî Tâlib and 'Amr ibn Wudd
 
-> 🎭 **Scene**:
+> 📜 **Scene**:
 > 
 > 'Amr ibn Wudd crossed the trench on horseback. He was a warrior worth a thousand men.
 > 
@@ -173,7 +173,7 @@ The Muslims were besieged from all sides:
 
 ### The First Intelligence Operation
 
-> 🎭 **Scene**:
+> 📜 **Scene**:
 > 
 > Nu'aym ibn Mas'ûd (from Ghatafân) came to see the Prophet ﷺ secretly:
 > 
@@ -198,7 +198,7 @@ The Muslims were besieged from all sides:
 
 ### The Night of Victory
 
-> 🎭 **Scene**:
+> 📜 **Scene**:
 > 
 > On a cold, dark night, Allah sent a fierce wind:
 > 
@@ -217,7 +217,7 @@ The Muslims were besieged from all sides:
 
 ### Hudhayfa ibn al-Yamân the Spy
 
-> 🎭 **Scene**:
+> 📜 **Scene**:
 > 
 > The Prophet ﷺ sent Hudhayfa to gather intelligence on the enemy.
 > 

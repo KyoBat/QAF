@@ -14,7 +14,7 @@ export const content = `# 📜 خَدِيجَةُ بِنْتُ خُوَيْلِ�
 
 ---
 
-## 🎬 Mise en Contexte
+## 📖 Mise en Contexte
 
 Khadīja bint Khuwaylid رضي الله عنها est bien plus qu'une épouse du Prophète ﷺ — elle est la **pierre angulaire** de l'Islam naissant. Première à croire, dernière à douter, elle incarne la foi parfaite, le soutien indéfectible et l'intelligence remarquable.
 
@@ -70,7 +70,7 @@ Avant son mariage avec le Prophète ﷺ, Khadīja était une **femme d'affaires 
 
 Khadīja cherchait un homme de **confiance** pour diriger ses caravanes. On lui recommanda Muḥammad, connu comme « **Al-Ṣādiq Al-Amīn** » (Le Véridique, Le Digne de Confiance).
 
-> 🎭 **SCÈNE — Le Retour de Syrie**
+> 📜 **SCÈNE — Le Retour de Syrie**
 >
 > *Maysara, le serviteur de Khadīja, rentre avec Muḥammad de Syrie...*
 >
@@ -117,7 +117,7 @@ Leur mariage dura **25 ans** — une période de bonheur, de fidélité et de so
 
 Quand le Prophète ﷺ descendit de la grotte de Ḥirā', **terrifié** par sa première rencontre avec Jibrīl, c'est vers Khadīja qu'il courut.
 
-> 🎭 **SCÈNE — Le Retour de Ḥirā'**
+> 📜 **SCÈNE — Le Retour de Ḥirā'**
 >
 > *Le Prophète ﷺ entre, tremblant, le visage pâle...*
 >
@@ -236,7 +236,7 @@ Même après son mariage avec d'autres épouses, le Prophète ﷺ **n'oublia jam
 
 ### 3️⃣ Défense de Son Honneur
 
-> 🎭 **SCÈNE — La Réponse du Prophète ﷺ**
+> 📜 **SCÈNE — La Réponse du Prophète ﷺ**
 >
 > 'Āisha dit un jour : « Qu'avait-elle de plus qu'une vieille femme que Allah t'a remplacée par une meilleure ? »
 >

@@ -10,7 +10,7 @@ export const content = `# 🕌 La Vie de l'Imam Ahmad ibn Hanbal (164-241 H)
 
 ---
 
-## 🎬 Introduction
+## 📖 Introduction
 
 Il est **l'Imam des Gens de la Sunna et de la Communauté**, l'auteur du grand Musnad, et le symbole de la fermeté sur la vérité. Il vécut **77 ans** remplis de jihad scientifique, et endura une épreuve que personne n'avait endurée avant ou après lui. Ses funérailles furent suivies par **des centaines de milliers** de personnes.
 
@@ -38,7 +38,7 @@ Il est **l'Imam des Gens de la Sunna et de la Communauté**, l'auteur du grand M
 
 <div class="scene-box">
 
-**🎭 SCÈNE : La Mère Patiente — Bagdad, ~170 H**
+**📜 SCÈNE : La Mère Patiente — Bagdad, ~170 H**
 
 *La mère d'Ahmad le réveille des heures avant l'aube.*
 
@@ -76,7 +76,7 @@ Il est **l'Imam des Gens de la Sunna et de la Communauté**, l'auteur du grand M
 
 <div class="scene-box">
 
-**🎭 SCÈNE : Le Voyageur Infatigable — Route vers Sanaa, ~185 H**
+**📜 SCÈNE : Le Voyageur Infatigable — Route vers Sanaa, ~185 H**
 
 *Ahmad marche pieds nus des centaines de miles à travers le désert.*
 
@@ -149,7 +149,7 @@ Il est **l'Imam des Gens de la Sunna et de la Communauté**, l'auteur du grand M
 
 <div class="scene-box">
 
-**🎭 SCÈNE : Le Début de l'Épreuve — Bagdad, 218 H**
+**📜 SCÈNE : Le Début de l'Épreuve — Bagdad, 218 H**
 
 *Les soldats emmènent Ahmad enchaîné au palais du calife.*
 
@@ -177,7 +177,7 @@ Il est **l'Imam des Gens de la Sunna et de la Communauté**, l'auteur du grand M
 
 <div class="scene-box">
 
-**🎭 SCÈNE : Le Martyr Fouetté — Prison de Bagdad, 220 H**
+**📜 SCÈNE : Le Martyr Fouetté — Prison de Bagdad, 220 H**
 
 *Ahmad est suspendu entre deux poteaux, son dos saigne.*
 
@@ -292,7 +292,7 @@ Il est **l'Imam des Gens de la Sunna et de la Communauté**, l'auteur du grand M
 
 <div class="scene-box">
 
-**🎭 SCÈNE : Des Funérailles Jamais Vues — Bagdad, 241 H**
+**📜 SCÈNE : Des Funérailles Jamais Vues — Bagdad, 241 H**
 
 *Tout Bagdad sort pour accompagner l'Imam.*
 

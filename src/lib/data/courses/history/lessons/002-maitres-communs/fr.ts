@@ -202,7 +202,7 @@ Explorez ces connexions grâce à l'arbre interactif :
 
 <div class="scene-box">
 
-**🎭 Devant la Maison de Nāfi' — Médine, vers 105 H**
+**📜 Devant la Maison de Nāfi' — Médine, vers 105 H**
 
 *Le jeune Mālik, à peine adolescent, était si passionné par le savoir qu'il attendait Nāfi' devant sa maison depuis des heures, sous le soleil brûlant de Médine.*
 
@@ -222,7 +222,7 @@ Explorez ces connexions grâce à l'arbre interactif :
 
 <div class="scene-box">
 
-**🎭 Dans le Cercle de Mālik — Médine, 163 H**
+**📜 Dans le Cercle de Mālik — Médine, 163 H**
 
 *Un jeune homme de vingt ans entra dans le cercle de Mālik, portant une lettre du gouverneur de La Mecque. Il avait déjà mémorisé le Muwaṭṭa' entier !*
 
