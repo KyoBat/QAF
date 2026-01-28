@@ -1,4 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server';
+import { rateLimit, getClientIp } from '@/lib/utils/rate-limit';
 
 // Brevo API configuration
 const BREVO_API_KEY = process.env.BREVO_API_KEY;
@@ -11,6 +12,29 @@ interface BrevoError {
 
 export async function POST(request: NextRequest) {
   try {
+    // Rate limiting: 3 requests per minute per IP
+    const clientIp = getClientIp(request);
+    const rateLimitResult = rateLimit(clientIp, { limit: 3, windowSeconds: 60 });
+
+    if (!rateLimitResult.success) {
+      return NextResponse.json(
+        { 
+          error: 'Trop de requêtes. Veuillez réessayer plus tard.',
+          code: 'RATE_LIMIT_EXCEEDED',
+          retryAfter: Math.ceil((rateLimitResult.resetAt - Date.now()) / 1000),
+        },
+        { 
+          status: 429,
+          headers: {
+            'Retry-After': String(Math.ceil((rateLimitResult.resetAt - Date.now()) / 1000)),
+            'X-RateLimit-Limit': '3',
+            'X-RateLimit-Remaining': String(rateLimitResult.remaining),
+            'X-RateLimit-Reset': String(rateLimitResult.resetAt),
+          },
+        }
+      );
+    }
+
     const { email } = await request.json();
 
     // Validate email

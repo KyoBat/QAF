@@ -1,3 +1,11 @@
+/**
+ * @deprecated This file is deprecated. Use @/lib/data/courses/types instead.
+ * Legacy types maintained for backward compatibility only.
+ * 
+ * For new code, import from:
+ * import type { Course, Lesson, Resource, Locale } from '@/lib/data/courses/types'
+ */
+
 export interface Course {
   id: string
   slug: string

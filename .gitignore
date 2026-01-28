@@ -36,5 +36,9 @@ yarn-error.log*
 next-env.d.ts
 .env.local
 
+# ESLint cache and auto-generated config
+.eslintrc.json
+.eslintcache
+
 # internal docs (chartes, guides, marketing)
 /docs
