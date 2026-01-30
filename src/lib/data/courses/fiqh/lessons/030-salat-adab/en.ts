@@ -15,17 +15,15 @@ export const content = `# 📜 ĀDĀB AL-ṢALĀH — The Etiquettes of Prayer
 
 **📜 When the Prophet ﷺ Entered Prayer**
 
-*Anas ibn Mālik narrates...*
+*Muṭarrif ibn 'Abd Allāh narrates from his father:*
 
-*"When the Messenger of Allah ﷺ stood for prayer..."*
+*"I saw the Messenger of Allah ﷺ praying..."*
 
-*"...it was as if he no longer recognized us."*
+*"We would hear from his chest a sound like a boiling pot..."*
 
-*"His face would change."*
+*"...from weeping."*
 
-*"We would hear a sound like a boiling pot..."*
-
-*"...coming from his chest, from weeping."*
+**📍 Source:** Abū Dāwūd (904), Al-Nasā'ī (1214)*
 
 *He was entirely in another world.*
 
@@ -219,11 +217,13 @@ export const content = `# 📜 ĀDĀB AL-ṢALĀH — The Etiquettes of Prayer
 
 *Which one truly prayed?*
 
-**The Prophet ﷺ:** "How many people who pray get nothing from their prayer except fatigue!"
+**The Prophet ﷺ:** "كَمْ مِنْ قَائِمٍ لَيْسَ لَهُ مِنْ قِيَامِهِ إِلَّا السَّهَرُ"
+
+*"How many people stand in night prayer getting nothing from it but sleeplessness!"*
 
 </div>
 
-**📍 Source:** Aḥmad, Al-Nasā'ī (in meaning)
+**📍 Source:** Ibn Mājah (1690), Aḥmad — This hadith refers to night prayer (qiyām), but the principle applies to any prayer without heart presence.
 
 #### 🔑 Keys to Khushū'
 
@@ -522,7 +522,7 @@ The post-prayer adhkār are detailed in **Lesson 029 — Prayer Invocations**.
 
 | Issue | 🟡 Mālikī | 🟢 Ḥanafī | 🔵 Shāfi'ī | 🟣 Ḥanbalī |
 |-------|-----------|-----------|------------|------------|
-| **Placing hands** | Along the body (mashhūr) | Below the navel | On the chest | On the chest |
+| **Placing hands** | Along the body (mashhūr) or clasped for nāfilah | Below the navel | On the chest | On the chest |
 | **Raising hands (raf' al-yadayn)** | At iḥrām only | At iḥrām only | At each transition | At each transition |
 | **Saying "Āmīn"** | Quietly | Quietly | Aloud | Aloud |
 | **Qunūt of Fajr** | No (except nāzilah) | No | Yes (always) | No (except nāzilah) |

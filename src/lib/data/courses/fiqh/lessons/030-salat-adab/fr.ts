@@ -15,17 +15,15 @@ export const content = `# 📜 ĀDĀB AL-ṢALĀH — Les Convenances de la Pri�
 
 **📜 Quand le Prophète ﷺ entrait en prière**
 
-*Anas ibn Mālik raconte...*
+*Muṭarrif ibn 'Abd Allāh rapporte de son père :*
 
-*« Quand le Messager d'Allah ﷺ se levait pour prier... »*
+*« J'ai vu le Messager d'Allah ﷺ prier... »*
 
-*« ...c'était comme s'il ne nous reconnaissait plus. »*
+*« On entendait de sa poitrine un bruit comme le bouillonnement d'une marmite... »*
 
-*« Son visage changeait. »*
+*« ...tant il pleurait. »*
 
-*« On entendait un bruit comme le bouillonnement d'une marmite. »*
-
-*« ...qui venait de sa poitrine, tant il pleurait. »*
+**📍 Source :** Abū Dāwūd (904), An-Nasā'ī (1214)
 
 *Il était entièrement dans un autre monde.*
 
@@ -230,11 +228,13 @@ export const content = `# 📜 ĀDĀB AL-ṢALĀH — Les Convenances de la Pri�
 
 *Lequel a vraiment prié ?*
 
-**Le Prophète ﷺ :** « Combien de personnes qui prient n'obtiennent de leur prière que la fatigue ! »
+**Le Prophète ﷺ :** « كَمْ مِنْ قَائِمٍ لَيْسَ لَهُ مِنْ قِيَامِهِ إِلَّا السَّهَرُ »
+
+*« Combien de gens veillent en prière sans en tirer que l'insomnie ! »*
 
 </div>
 
-**📍 Source :** Aḥmad, An-Nasā'ī (dans le sens)
+**📍 Source :** Ibn Mājah (1690), Aḥmad — Ce hadith concerne la veillée nocturne (qiyām), mais le principe s'applique à toute prière sans présence du cœur.
 
 #### 🔑 Les Clés du Khushū'
 
@@ -533,7 +533,7 @@ Les adhkār après la prière sont traités en détail dans la **Leçon 029 — 
 
 | Question | 🟡 Malikite | 🟢 Hanafite | 🔵 Shafi'ite | 🟣 Hanbalite |
 |----------|-------------|-------------|--------------|--------------|
-| **Placer les mains** | Le long du corps (mashhūr) | Sous le nombril | Sur la poitrine | Sur la poitrine |
+| **Placer les mains** | Le long du corps (mashhūr) ou jointes pour nafila | Sous le nombril | Sur la poitrine | Sur la poitrine |
 | **Lever les mains (raf' al-yadayn)** | À l'iḥrām seulement | À l'iḥrām seulement | À chaque transition | À chaque transition |
 | **Dire « Āmīn »** | À voix basse | À voix basse | À voix haute | À voix haute |
 | **Qunut du Fajr** | Non (sauf nazila) | Non | Oui (toujours) | Non (sauf nazila) |

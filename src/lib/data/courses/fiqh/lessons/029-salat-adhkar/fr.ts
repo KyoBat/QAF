@@ -9,27 +9,27 @@ export const content = `# 📜 أَذْكَارُ الصَّلَاةِ — Les I
 
 ---
 
-## 🎬 SCÈNE D'OUVERTURE — Le Silence Éloquent
+## 🎬 INTRODUCTION — L'Âme de la Prière
 
 <div class="scene-box">
 
-**📜 L'Homme qui Priait en Silence**
+**📜 Pourquoi les Adhkār ?**
 
-*Un homme priait à côté du Prophète ﷺ...*
+*Imaginons un homme qui prie...*
 
-*Il accomplissait les mouvements parfaitement — ruku', sujud, qiyam...*
+*Il accomplit les mouvements parfaitement — ruku', sujud, qiyam...*
 
-*Mais ses lèvres restaient closes. Aucun son. Aucune invocation.*
+*Mais ses lèvres restent closes. Aucun son. Aucune invocation.*
 
-*Après la prière, le Prophète ﷺ lui demanda :*
+*A-t-il vraiment prié ?*
 
-**Le Prophète ﷺ :** « As-tu récité quelque chose dans ta prière ? »
+*Les savants enseignent que le dhikr est l'esprit de la prière, et les mouvements sont son corps. Le Prophète ﷺ a dit :*
 
-**L'homme :** « J'ai fait les mouvements, ô Messager d'Allah. »
+**« لَا صَلَاةَ لِمَنْ لَمْ يَقْرَأْ بِفَاتِحَةِ الْكِتَابِ »**
 
-**Le Prophète ﷺ :** « La prière n'est pas complète sans les invocations. Le dhikr est l'esprit de la prière, et les mouvements sont son corps. »
+*« Pas de prière pour celui qui n'a pas récité la Fatiha. »* — Al-Bukhārī (756)
 
-*L'homme comprit alors que chaque position a ses paroles prescrites, et que la prière est un dialogue, pas un monologue silencieux.*
+*Chaque position a ses paroles prescrites. La prière est un dialogue, pas un monologue silencieux.*
 
 </div>
 
@@ -186,9 +186,9 @@ export const content = `# 📜 أَذْكَارُ الصَّلَاةِ — Les I
 
 | Tu dis | Allah répond |
 |--------|--------------|
-| « الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ » | « Mon serviteur M'a loué » |
-| « الرَّحْمَٰنِ الرَّحِيمِ » | « Mon serviteur M'a glorifié » |
-| « مَالِكِ يَوْمِ الدِّينِ » | « Mon serviteur M'a exalté » |
+| « الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ » | « حَمِدَنِي عَبْدِي — Mon serviteur M'a loué » |
+| « الرَّحْمَٰنِ الرَّحِيمِ » | « أَثْنَى عَلَيَّ عَبْدِي — Mon serviteur M'a fait l'éloge » |
+| « مَالِكِ يَوْمِ الدِّينِ » | « مَجَّدَنِي عَبْدِي — Mon serviteur M'a glorifié » |
 | « إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ » | « Ceci est entre Moi et Mon serviteur, et Mon serviteur aura ce qu'il demande » |
 | « اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ... » | « Ceci est pour Mon serviteur, et Mon serviteur aura ce qu'il demande » |
 

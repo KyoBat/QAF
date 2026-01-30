@@ -9,27 +9,25 @@ export const content = `# 📜 ADHKĀR AL-ṢALĀH — The Invocations of Prayer
 
 ---
 
-## 🎬 Opening Scene — The Eloquent Silence
+## 🎬 Introduction — The Soul of Prayer
 
 <div class="scene-box">
 
-**📜 The Man Who Prayed in Silence**
+**📜 Why the Adhkār?**
 
-*A man was praying next to the Prophet ﷺ...*
+*Imagine a man praying...*
 
-*He performed the movements perfectly — bowing, prostrating, standing...*
+*He performs the movements perfectly — bowing, prostrating, standing...*
 
-*But his lips were sealed. No sound. No remembrance.*
+*But his lips are sealed. No sound. No remembrance.*
 
-*After the prayer, the Prophet ﷺ asked him:*
+*Has he truly prayed?*
 
-**Prophet ﷺ:** "Did you recite anything in your prayer?"
+*The scholars teach that dhikr is the soul of prayer, and the movements are its body. The Prophet ﷺ said:*
 
-**The man:** "I performed the movements, O Messenger of Allah."
+**"There is no prayer for the one who does not recite the Opening of the Book (al-Fātiḥah)."** — Al-Bukhārī (756)
 
-**Prophet ﷺ:** "Prayer is not complete without the adhkār. The dhikr is the soul of prayer, and the movements are its body."
-
-*The man understood that each position has its own prescribed words, and that prayer is a dialogue, not silence.*
+*Each position has its prescribed words. Prayer is a dialogue, not silent monologue.*
 
 </div>
 
