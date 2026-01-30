@@ -1,7 +1,7 @@
 'use client';
 
-import { useState } from 'react';
-import { Question, QuizOption, LocalizedText } from '@/lib/data/quizzes/types';
+import { useState, useEffect } from 'react';
+import { Question, LocalizedText } from '@/lib/data/quizzes/types';
 import { cn } from '@/lib/utils';
 
 type Locale = 'fr' | 'ar' | 'en';
@@ -27,15 +27,38 @@ export function QuestionCard({
   userAnswer,
   disabled = false,
 }: QuestionCardProps) {
-  const [selectedOptions, setSelectedOptions] = useState<number[]>(
-    Array.isArray(userAnswer) && typeof userAnswer[0] === 'number'
-      ? (userAnswer as number[])
-      : typeof userAnswer === 'number'
-      ? [userAnswer]
-      : []
-  );
+  // State pour les sélections (single/multiple)
+  const [selectedOptions, setSelectedOptions] = useState<number[]>([]);
+  
+  // State pour l'ordre (order type)
+  const [orderedItems, setOrderedItems] = useState<number[]>([]);
 
   const isRtl = locale === 'ar';
+
+  // Reset state when question changes
+  useEffect(() => {
+    // Initialize based on userAnswer or reset
+    if (userAnswer !== undefined) {
+      if (question.type === 'single' && typeof userAnswer === 'number') {
+        setSelectedOptions([userAnswer]);
+      } else if (question.type === 'multiple' && Array.isArray(userAnswer)) {
+        setSelectedOptions(userAnswer as number[]);
+      } else if (question.type === 'boolean' && typeof userAnswer === 'boolean') {
+        setSelectedOptions([userAnswer ? 0 : 1]);
+      } else if (question.type === 'order' && Array.isArray(userAnswer)) {
+        setOrderedItems(userAnswer as number[]);
+      } else {
+        setSelectedOptions([]);
+        setOrderedItems([]);
+      }
+    } else {
+      setSelectedOptions([]);
+      // Initialize order items with default order
+      if (question.type === 'order' && question.orderItems) {
+        setOrderedItems(question.orderItems.map((_, i) => i));
+      }
+    }
+  }, [question.id, userAnswer, question.type, question.orderItems]);
 
   const handleSingleSelect = (index: number) => {
     if (disabled) return;
@@ -45,11 +68,14 @@ export function QuestionCard({
 
   const handleMultipleSelect = (index: number) => {
     if (disabled) return;
-    const newSelection = selectedOptions.includes(index)
-      ? selectedOptions.filter((i) => i !== index)
-      : [...selectedOptions, index];
-    setSelectedOptions(newSelection);
-    onAnswer(newSelection);
+    setSelectedOptions((prev) => {
+      const newSelection = prev.includes(index)
+        ? prev.filter((i) => i !== index)
+        : [...prev, index];
+      // Call onAnswer after state update
+      setTimeout(() => onAnswer(newSelection), 0);
+      return newSelection;
+    });
   };
 
   const handleBooleanSelect = (value: boolean) => {
@@ -58,7 +84,21 @@ export function QuestionCard({
     onAnswer(value);
   };
 
-  const getOptionStyle = (index: number, option: QuizOption) => {
+  const handleMoveItem = (fromIndex: number, direction: 'up' | 'down') => {
+    if (disabled) return;
+    const toIndex = direction === 'up' ? fromIndex - 1 : fromIndex + 1;
+    if (toIndex < 0 || toIndex >= orderedItems.length) return;
+
+    setOrderedItems((prev) => {
+      const newOrder = [...prev];
+      [newOrder[fromIndex], newOrder[toIndex]] = [newOrder[toIndex], newOrder[fromIndex]];
+      // Call onAnswer after state update
+      setTimeout(() => onAnswer(newOrder), 0);
+      return newOrder;
+    });
+  };
+
+  const getOptionStyle = (index: number) => {
     if (!showResult) {
       return selectedOptions.includes(index)
         ? 'border-primary-500 bg-primary-50 dark:bg-primary-900/20'
@@ -91,6 +131,7 @@ export function QuestionCard({
         {question.options.map((option, index) => (
           <button
             key={option.id}
+            type="button"
             onClick={() =>
               question.type === 'multiple'
                 ? handleMultipleSelect(index)
@@ -100,14 +141,14 @@ export function QuestionCard({
             className={cn(
               'w-full p-4 rounded-xl border-2 text-start transition-all',
               'flex items-center gap-3',
-              getOptionStyle(index, option),
+              getOptionStyle(index),
               disabled ? 'cursor-not-allowed' : 'cursor-pointer'
             )}
             dir={isRtl ? 'rtl' : 'ltr'}
           >
             <span
               className={cn(
-                'flex-shrink-0 w-8 h-8 rounded-full border-2 flex items-center justify-center text-sm font-medium',
+                'flex-shrink-0 w-8 h-8 rounded-full border-2 flex items-center justify-center text-sm font-medium transition-colors',
                 selectedOptions.includes(index)
                   ? 'border-primary-500 bg-primary-500 text-white'
                   : 'border-gray-300 dark:border-gray-600'
@@ -116,7 +157,9 @@ export function QuestionCard({
               {question.type === 'multiple' ? (
                 selectedOptions.includes(index) ? (
                   <CheckIcon />
-                ) : null
+                ) : (
+                  <span className="w-3 h-3 rounded-sm border border-gray-400" />
+                )
               ) : (
                 String.fromCharCode(65 + index)
               )}
@@ -141,82 +184,168 @@ export function QuestionCard({
             )}
           </button>
         ))}
+        
+        {/* Instruction for multiple choice */}
+        {question.type === 'multiple' && !showResult && (
+          <p className="text-sm text-gray-500 dark:text-gray-400 mt-2">
+            {locale === 'ar'
+              ? '💡 يمكنك اختيار عدة إجابات'
+              : locale === 'en'
+              ? '💡 You can select multiple answers'
+              : '💡 Vous pouvez sélectionner plusieurs réponses'}
+          </p>
+        )}
       </div>
     );
   };
 
-  const renderBooleanOptions = () => (
-    <div className="grid grid-cols-2 gap-4">
-      {[true, false].map((value) => {
-        const isSelected = selectedOptions.includes(value ? 0 : 1);
-        const isCorrect = question.correctAnswer === value;
+  const renderBooleanOptions = () => {
+    const trueSelected = selectedOptions.includes(0);
+    const falseSelected = selectedOptions.includes(1);
 
-        let style = 'border-gray-200 dark:border-gray-700 hover:border-primary-300';
-        if (showResult) {
-          if (isCorrect) {
-            style = 'border-green-500 bg-green-50 dark:bg-green-900/20';
-          } else if (isSelected && !isCorrect) {
-            style = 'border-red-500 bg-red-50 dark:bg-red-900/20';
-          } else {
-            style = 'border-gray-200 dark:border-gray-700 opacity-60';
+    return (
+      <div className="grid grid-cols-2 gap-4">
+        {[
+          { value: true, selected: trueSelected },
+          { value: false, selected: falseSelected },
+        ].map(({ value, selected }) => {
+          const isCorrect = question.correctAnswer === value;
+
+          let style = 'border-gray-200 dark:border-gray-700 hover:border-primary-300';
+          if (showResult) {
+            if (isCorrect) {
+              style = 'border-green-500 bg-green-50 dark:bg-green-900/20';
+            } else if (selected && !isCorrect) {
+              style = 'border-red-500 bg-red-50 dark:bg-red-900/20';
+            } else {
+              style = 'border-gray-200 dark:border-gray-700 opacity-60';
+            }
+          } else if (selected) {
+            style = 'border-primary-500 bg-primary-50 dark:bg-primary-900/20';
           }
-        } else if (isSelected) {
-          style = 'border-primary-500 bg-primary-50 dark:bg-primary-900/20';
-        }
 
-        return (
-          <button
-            key={value ? 'true' : 'false'}
-            onClick={() => handleBooleanSelect(value)}
-            disabled={disabled}
-            className={cn(
-              'p-6 rounded-xl border-2 text-center transition-all font-medium text-lg',
-              style,
-              disabled ? 'cursor-not-allowed' : 'cursor-pointer'
-            )}
-          >
-            {value
-              ? locale === 'ar'
-                ? 'صحيح'
+          return (
+            <button
+              key={value ? 'true' : 'false'}
+              type="button"
+              onClick={() => handleBooleanSelect(value)}
+              disabled={disabled}
+              className={cn(
+                'p-6 rounded-xl border-2 text-center transition-all font-medium text-lg',
+                style,
+                disabled ? 'cursor-not-allowed' : 'cursor-pointer'
+              )}
+            >
+              {value
+                ? locale === 'ar'
+                  ? 'صحيح'
+                  : locale === 'en'
+                  ? 'True'
+                  : 'Vrai'
+                : locale === 'ar'
+                ? 'خطأ'
                 : locale === 'en'
-                ? 'True'
-                : 'Vrai'
-              : locale === 'ar'
-              ? 'خطأ'
-              : locale === 'en'
-              ? 'False'
-              : 'Faux'}
-          </button>
-        );
-      })}
-    </div>
-  );
+                ? 'False'
+                : 'Faux'}
+            </button>
+          );
+        })}
+      </div>
+    );
+  };
 
   const renderOrderItems = () => {
-    // Simplified order implementation - in production, use drag-and-drop
     if (!question.orderItems) return null;
 
     return (
       <div className="space-y-2">
         <p className="text-sm text-gray-500 dark:text-gray-400 mb-4">
           {locale === 'ar'
-            ? 'رتب العناصر بالترتيب الصحيح'
+            ? '⬆️⬇️ استخدم الأسهم لترتيب العناصر'
             : locale === 'en'
-            ? 'Arrange items in the correct order'
-            : 'Arrangez les éléments dans le bon ordre'}
+            ? '⬆️⬇️ Use arrows to reorder items'
+            : '⬆️⬇️ Utilisez les flèches pour réordonner'}
         </p>
-        {question.orderItems.map((item, index) => (
-          <div
-            key={index}
-            className="p-4 rounded-lg border border-gray-200 dark:border-gray-700 bg-gray-50 dark:bg-gray-800"
-            dir={isRtl ? 'rtl' : 'ltr'}
-          >
-            <span className="font-medium text-primary-600 dark:text-primary-400 mr-2">
-              {index + 1}.
-            </span>
-            {getText(item, locale)}
-          </div>
-        ))}
+        
+        {orderedItems.map((itemIndex, position) => {
+          const item = question.orderItems![itemIndex];
+          if (!item) return null;
+          
+          const isCorrectPosition = showResult && (question.correctAnswer as number[])[position] === itemIndex;
+          
+          return (
+            <div
+              key={`${question.id}-${itemIndex}`}
+              className={cn(
+                'flex items-center gap-3 p-4 rounded-lg border transition-all',
+                showResult
+                  ? isCorrectPosition
+                    ? 'border-green-500 bg-green-50 dark:bg-green-900/20'
+                    : 'border-red-500 bg-red-50 dark:bg-red-900/20'
+                  : 'border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800'
+              )}
+              dir={isRtl ? 'rtl' : 'ltr'}
+            >
+              {/* Position number */}
+              <span className={cn(
+                'flex-shrink-0 w-8 h-8 rounded-full flex items-center justify-center text-sm font-bold',
+                showResult
+                  ? isCorrectPosition
+                    ? 'bg-green-500 text-white'
+                    : 'bg-red-500 text-white'
+                  : 'bg-primary-100 dark:bg-primary-900/30 text-primary-600 dark:text-primary-400'
+              )}>
+                {position + 1}
+              </span>
+              
+              {/* Item text */}
+              <span className="flex-1 text-gray-900 dark:text-white">
+                {getText(item, locale)}
+              </span>
+              
+              {/* Move buttons */}
+              {!disabled && !showResult && (
+                <div className="flex flex-col gap-1">
+                  <button
+                    type="button"
+                    onClick={() => handleMoveItem(position, 'up')}
+                    disabled={position === 0}
+                    className={cn(
+                      'p-1 rounded transition-colors',
+                      position === 0
+                        ? 'text-gray-300 dark:text-gray-600 cursor-not-allowed'
+                        : 'text-gray-500 hover:text-primary-500 hover:bg-primary-50 dark:hover:bg-primary-900/30'
+                    )}
+                    aria-label="Move up"
+                  >
+                    <ArrowUpIcon />
+                  </button>
+                  <button
+                    type="button"
+                    onClick={() => handleMoveItem(position, 'down')}
+                    disabled={position === orderedItems.length - 1}
+                    className={cn(
+                      'p-1 rounded transition-colors',
+                      position === orderedItems.length - 1
+                        ? 'text-gray-300 dark:text-gray-600 cursor-not-allowed'
+                        : 'text-gray-500 hover:text-primary-500 hover:bg-primary-50 dark:hover:bg-primary-900/30'
+                    )}
+                    aria-label="Move down"
+                  >
+                    <ArrowDownIcon />
+                  </button>
+                </div>
+              )}
+              
+              {/* Result indicator */}
+              {showResult && (
+                isCorrectPosition 
+                  ? <CheckCircleIcon className="text-green-500" />
+                  : <XCircleIcon className="text-red-500" />
+              )}
+            </div>
+          );
+        })}
       </div>
     );
   };
@@ -267,9 +396,15 @@ export function QuestionCard({
         <span className="text-sm text-gray-500 dark:text-gray-400">
           {question.points} {locale === 'ar' ? 'نقطة' : locale === 'en' ? 'pts' : 'pts'}
         </span>
+        
+        {/* Question type indicator */}
+        <span className="text-xs text-gray-400 dark:text-gray-500">
+          {question.type === 'multiple' && (locale === 'ar' ? '(متعدد)' : locale === 'en' ? '(multiple)' : '(multiple)')}
+          {question.type === 'order' && (locale === 'ar' ? '(ترتيب)' : locale === 'en' ? '(order)' : '(ordre)')}
+        </span>
       </div>
 
-      {/* Options */}
+      {/* Options based on question type */}
       {(question.type === 'single' || question.type === 'multiple') && renderOptions()}
       {question.type === 'boolean' && renderBooleanOptions()}
       {question.type === 'order' && renderOrderItems()}
@@ -323,6 +458,22 @@ function XCircleIcon({ className }: { className?: string }) {
         strokeWidth={2}
         d="M10 14l2-2m0 0l2-2m-2 2l-2-2m2 2l2 2m7-2a9 9 0 11-18 0 9 9 0 0118 0z"
       />
+    </svg>
+  );
+}
+
+function ArrowUpIcon() {
+  return (
+    <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 15l7-7 7 7" />
+    </svg>
+  );
+}
+
+function ArrowDownIcon() {
+  return (
+    <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
     </svg>
   );
 }
