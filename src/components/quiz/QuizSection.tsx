@@ -41,6 +41,29 @@ export function QuizSection({ courseSlug, locale, compact = false }: QuizSection
           ? 'fixed inset-0 z-50 bg-background overflow-auto' 
           : 'mt-8'
       )}>
+        {/* Header with back button (compact/fullscreen mode only) */}
+        {compact && (
+          <div className="sticky top-0 z-10 bg-background/95 backdrop-blur border-b border-border">
+            <div className="max-w-3xl mx-auto px-4 py-3 flex items-center justify-between">
+              <button
+                onClick={() => setActiveQuiz(null)}
+                className={cn(
+                  'flex items-center gap-2 text-sm font-medium text-muted-foreground hover:text-foreground transition-colors',
+                  isRtl && 'flex-row-reverse'
+                )}
+              >
+                <span className={isRtl ? 'rotate-180' : ''}>←</span>
+                <span>
+                  {locale === 'ar' ? 'العودة للدورة' : locale === 'en' ? 'Back to course' : 'Retour au cours'}
+                </span>
+              </button>
+              <span className="text-sm text-muted-foreground">
+                {activeQuiz.title[locale]}
+              </span>
+            </div>
+          </div>
+        )}
+        
         <QuizPlayer
           quiz={activeQuiz}
           locale={locale}
