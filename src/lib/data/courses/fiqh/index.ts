@@ -22,6 +22,7 @@ import { lesson015 } from './lessons/015-salat-sunan-nullifiers'
 import { lesson016 } from './lessons/016-sujood-sahw'
 import { lesson017 } from './lessons/017-salat-masbuq'
 import { lesson018 } from './lessons/018-salat-jamaa'
+import { lesson028 as lesson028Nawafil } from './lessons/028-salat-nawafil'
 // Prières Spéciales (Cours séparé)
 import { lesson019 } from './lessons/019-salat-musafir'
 import { lesson020 } from './lessons/020-salat-marid'
@@ -97,6 +98,7 @@ export const fiqhSalatCourse: Course = {
     lesson016,
     lesson017,
     lesson018,
+    lesson028Nawafil,
   ],
   sections: [
     {
@@ -120,6 +122,7 @@ export const fiqhSalatCourse: Course = {
         'lesson-016',
         'lesson-017',
         'lesson-018',
+        'lesson-028',
       ],
     },
   ],

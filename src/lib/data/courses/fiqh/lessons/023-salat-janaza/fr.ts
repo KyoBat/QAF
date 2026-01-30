@@ -143,6 +143,8 @@ La prière funéraire est une **obligation collective (فرض كفاية)** : si
 | **Prière sur l'absent** | **Non légitime** | Non | Légitime | Légitime (si non prié sur lui) |
 | **Prier sur la tombe** | **Permis** (délai court) | Non permis | Permis | Permis (jusqu'à 1 mois) |
 
+> ⚠️ **Note :** La position Malikite et Hanafite sur la prière sur l'absent est qu'elle **n'est pas légiférée**, car la prière du Prophète ﷺ sur le Négus était un cas exceptionnel par révélation. Les Shafiites et Hanbalites la permettent, surtout pour celui sur qui on n'a pas prié ou qui avait un rang éminent dans l'Islam.
+
 ### 📌 Position Malikite Détaillée
 
 Les Malikites considèrent que :

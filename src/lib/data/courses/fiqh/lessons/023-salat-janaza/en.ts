@@ -126,6 +126,8 @@ The funeral prayer is a **collective obligation (fard kifaya)**: if some perform
 | **Raising hands** | **1st takbira only** | 1st only | Every takbira | Every takbira |
 | **Prayer for absent** | **Not legitimate** | Not legitimate | Legitimate | Legitimate if not prayed upon |
 
+> ⚠️ **Note:** The Maliki and Hanafi position on the prayer for the absent is that it is **not legislated**, as the Prophet's ﷺ prayer for the Negus was an exceptional case by revelation. The Shafi'is and Hanbalis permit it, especially for one who was not prayed upon or had an eminent rank in Islam.
+
 ---
 
 ## 🌍 Modern Applications (التطبيقات المعاصرة)
