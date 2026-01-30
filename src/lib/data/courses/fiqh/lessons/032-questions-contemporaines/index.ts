@@ -3,7 +3,7 @@
  * Index - Export des trois langues
  */
 
-import type { Lesson } from '@/types';
+import type { Lesson } from '@/lib/schemas/course';
 
 import { content as contentAr } from './ar';
 import { content as contentEn } from './en';
