@@ -101,8 +101,8 @@ export function QuestionCard({
   const getOptionStyle = (index: number) => {
     if (!showResult) {
       return selectedOptions.includes(index)
-        ? 'border-primary-500 bg-primary-50 dark:bg-primary-900/20'
-        : 'border-gray-200 dark:border-gray-700 hover:border-primary-300';
+        ? 'border-primary bg-primary/5 dark:bg-primary/20'
+        : 'border-gray-200 dark:border-gray-700 hover:border-primary/50';
     }
 
     const isCorrect =
@@ -150,7 +150,7 @@ export function QuestionCard({
               className={cn(
                 'flex-shrink-0 w-8 h-8 rounded-full border-2 flex items-center justify-center text-sm font-medium transition-colors',
                 selectedOptions.includes(index)
-                  ? 'border-primary-500 bg-primary-500 text-white'
+                  ? 'border-primary bg-primary text-white'
                   : 'border-gray-300 dark:border-gray-600'
               )}
             >
@@ -211,7 +211,7 @@ export function QuestionCard({
         ].map(({ value, selected }) => {
           const isCorrect = question.correctAnswer === value;
 
-          let style = 'border-gray-200 dark:border-gray-700 hover:border-primary-300';
+          let style = 'border-gray-200 dark:border-gray-700 hover:border-primary/50';
           if (showResult) {
             if (isCorrect) {
               style = 'border-green-500 bg-green-50 dark:bg-green-900/20';
@@ -221,7 +221,7 @@ export function QuestionCard({
               style = 'border-gray-200 dark:border-gray-700 opacity-60';
             }
           } else if (selected) {
-            style = 'border-primary-500 bg-primary-50 dark:bg-primary-900/20';
+            style = 'border-primary bg-primary/5 dark:bg-primary/20';
           }
 
           return (
@@ -293,7 +293,7 @@ export function QuestionCard({
                   ? isCorrectPosition
                     ? 'bg-green-500 text-white'
                     : 'bg-red-500 text-white'
-                  : 'bg-primary-100 dark:bg-primary-900/30 text-primary-600 dark:text-primary-400'
+                  : 'bg-primary/10 dark:bg-primary/20 text-primary dark:text-primary'
               )}>
                 {position + 1}
               </span>
@@ -314,7 +314,7 @@ export function QuestionCard({
                       'p-1 rounded transition-colors',
                       position === 0
                         ? 'text-gray-300 dark:text-gray-600 cursor-not-allowed'
-                        : 'text-gray-500 hover:text-primary-500 hover:bg-primary-50 dark:hover:bg-primary-900/30'
+                        : 'text-gray-500 hover:text-primary hover:bg-primary/5 dark:hover:bg-primary/20'
                     )}
                     aria-label="Move up"
                   >
@@ -328,7 +328,7 @@ export function QuestionCard({
                       'p-1 rounded transition-colors',
                       position === orderedItems.length - 1
                         ? 'text-gray-300 dark:text-gray-600 cursor-not-allowed'
-                        : 'text-gray-500 hover:text-primary-500 hover:bg-primary-50 dark:hover:bg-primary-900/30'
+                        : 'text-gray-500 hover:text-primary hover:bg-primary/5 dark:hover:bg-primary/20'
                     )}
                     aria-label="Move down"
                   >

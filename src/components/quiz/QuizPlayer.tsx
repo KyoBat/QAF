@@ -183,7 +183,7 @@ export function QuizPlayer({
         dir={isRtl ? 'rtl' : 'ltr'}
       >
         <div className="mb-8">
-          <div className="w-20 h-20 mx-auto mb-4 rounded-2xl bg-primary-100 dark:bg-primary-900/30 flex items-center justify-center">
+          <div className="w-20 h-20 mx-auto mb-4 rounded-2xl bg-primary/10 dark:bg-primary/20 flex items-center justify-center">
             <span className="text-4xl">📝</span>
           </div>
           <h1 className="text-2xl font-bold text-gray-900 dark:text-white mb-2">
@@ -229,7 +229,7 @@ export function QuizPlayer({
         <div className="flex flex-col sm:flex-row gap-4 justify-center">
           <button
             onClick={startQuiz}
-            className="px-8 py-3 rounded-xl bg-primary-600 text-white font-medium hover:bg-primary-700 transition-colors"
+            className="px-8 py-3 rounded-xl bg-primary text-primary-foreground font-medium hover:bg-primary/90 transition-colors shadow-lg"
           >
             {locale === 'ar' ? 'ابدأ الاختبار' : locale === 'en' ? 'Start Quiz' : 'Commencer le Quiz'}
           </button>
@@ -287,7 +287,7 @@ export function QuizPlayer({
         {/* Progress bar */}
         <div className="h-2 bg-gray-200 dark:bg-gray-700 rounded-full overflow-hidden">
           <div
-            className="h-full bg-primary-500 transition-all duration-300"
+            className="h-full bg-primary transition-all duration-300"
             style={{ width: `${progress}%` }}
           />
         </div>
@@ -333,7 +333,7 @@ export function QuizPlayer({
               className={cn(
                 'w-8 h-8 rounded-full text-sm font-medium transition-colors',
                 index === currentIndex
-                  ? 'bg-primary-500 text-white'
+                  ? 'bg-primary text-white'
                   : answers.has(questions[index]?.id)
                   ? 'bg-green-100 text-green-700 dark:bg-green-900/30 dark:text-green-400'
                   : 'bg-gray-200 text-gray-600 dark:bg-gray-700 dark:text-gray-400'
@@ -347,7 +347,7 @@ export function QuizPlayer({
         {showExplanation ? (
           <button
             onClick={nextQuestion}
-            className="px-6 py-2 rounded-xl bg-primary-600 text-white font-medium hover:bg-primary-700 transition-colors"
+            className="px-6 py-2 rounded-xl bg-primary text-white font-medium hover:bg-primary/90 transition-colors"
           >
             {currentIndex === questions.length - 1
               ? locale === 'ar'
@@ -376,7 +376,7 @@ export function QuizPlayer({
             className={cn(
               'px-6 py-2 rounded-xl font-medium transition-colors',
               answers.has(currentQuestion?.id)
-                ? 'bg-primary-600 text-white hover:bg-primary-700'
+                ? 'bg-primary text-white hover:bg-primary/90'
                 : 'bg-gray-100 text-gray-400 cursor-not-allowed dark:bg-gray-800 dark:text-gray-600'
             )}
           >

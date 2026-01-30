@@ -190,7 +190,7 @@ export function QuizResult({
         {!result.passed && result.attemptNumber < quiz.maxAttempts && onRetry && (
           <button
             onClick={onRetry}
-            className="px-8 py-3 rounded-xl bg-primary-600 text-white font-medium hover:bg-primary-700 transition-colors"
+            className="px-8 py-3 rounded-xl bg-primary text-white font-medium hover:bg-primary/90 transition-colors"
           >
             {locale === 'ar' ? 'إعادة المحاولة' : locale === 'en' ? 'Try Again' : 'Réessayer'}
           </button>

@@ -61,7 +61,7 @@ export function QuizCard({ quiz, locale, href, onStart }: QuizCardProps) {
         'relative p-5 rounded-2xl border transition-all',
         'bg-white dark:bg-gray-800',
         'border-gray-200 dark:border-gray-700',
-        'hover:border-primary-300 dark:hover:border-primary-600',
+        'hover:border-primary/50 dark:hover:border-primary',
         'hover:shadow-md cursor-pointer group'
       )}
       dir={isRtl ? 'rtl' : 'ltr'}
@@ -101,7 +101,7 @@ export function QuizCard({ quiz, locale, href, onStart }: QuizCardProps) {
       </div>
 
       {/* Title */}
-      <h3 className="font-bold text-lg text-gray-900 dark:text-white mb-2 group-hover:text-primary-600 dark:group-hover:text-primary-400 transition-colors">
+      <h3 className="font-bold text-lg text-gray-900 dark:text-white mb-2 group-hover:text-primary dark:group-hover:text-primary transition-colors">
         {getText(quiz.title, locale)}
       </h3>
 
@@ -132,7 +132,7 @@ export function QuizCard({ quiz, locale, href, onStart }: QuizCardProps) {
       {/* Arrow */}
       <div className="absolute bottom-5 right-5 opacity-0 group-hover:opacity-100 transition-opacity">
         <svg
-          className={cn('w-6 h-6 text-primary-500', isRtl && 'rotate-180')}
+          className={cn('w-6 h-6 text-primary', isRtl && 'rotate-180')}
           fill="none"
           viewBox="0 0 24 24"
           stroke="currentColor"

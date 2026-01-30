@@ -35,13 +35,13 @@ export function ProgressWidget({ locale, compact = false, className }: ProgressW
     return (
       <div
         className={cn(
-          'flex items-center gap-3 p-3 rounded-xl bg-gradient-to-r from-primary-50 to-primary-100 dark:from-primary-900/20 dark:to-primary-800/20 border border-primary-200 dark:border-primary-800',
+          'flex items-center gap-3 p-3 rounded-xl bg-gradient-to-r from-primary/10 to-primary/20 dark:from-primary/20 dark:to-primary/15 border border-primary/30 dark:border-primary/40',
           className
         )}
         dir={isRtl ? 'rtl' : 'ltr'}
       >
         {/* Level badge */}
-        <div className="flex-shrink-0 w-12 h-12 rounded-full bg-primary-500 text-white flex items-center justify-center font-bold text-lg">
+        <div className="flex-shrink-0 w-12 h-12 rounded-full bg-primary text-white flex items-center justify-center font-bold text-lg">
           {levelInfo.level}
         </div>
 
@@ -96,7 +96,7 @@ export function ProgressWidget({ locale, compact = false, className }: ProgressW
               strokeWidth="6"
               fill="none"
               strokeLinecap="round"
-              className="text-primary-500"
+              className="text-primary"
               strokeDasharray={`${(levelInfo.progressPercent / 100) * 226} 226`}
             />
           </svg>

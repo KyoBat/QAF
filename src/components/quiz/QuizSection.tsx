@@ -50,7 +50,7 @@ export function QuizSection({ courseSlug, locale }: QuizSectionProps) {
     <div className="mt-8" dir={isRtl ? 'rtl' : 'ltr'}>
       {/* Section Header */}
       <div className="flex items-center gap-3 mb-6">
-        <div className="w-10 h-10 rounded-xl bg-primary-100 dark:bg-primary-900/30 flex items-center justify-center">
+        <div className="w-10 h-10 rounded-xl bg-primary/10 dark:bg-primary/20 flex items-center justify-center">
           <span className="text-xl">📝</span>
         </div>
         <div>
