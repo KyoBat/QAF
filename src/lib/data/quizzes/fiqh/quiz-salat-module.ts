@@ -39,7 +39,7 @@ const questions: Question[] = [
       en: 'The five obligatory prayers are: Fajr, Dhuhr, Asr, Maghrib and Isha. They were prescribed during the Night Journey (Isra and Mi\'raj).',
     },
     reference: {
-      courseSlug: 'fiqh',
+      courseSlug: 'bases-fiqh-ibadat-salat',
       lessonId: '011-intro-salat',
     },
     points: 10,
@@ -67,7 +67,7 @@ const questions: Question[] = [
       en: 'Ritual purity (Tahara) is the first condition. Without it, prayer is not accepted. The Prophet ﷺ said: "Allah does not accept prayer without purification." [Muslim]',
     },
     reference: {
-      courseSlug: 'fiqh',
+      courseSlug: 'bases-fiqh-ibadat-salat',
       lessonId: '012-conditions-salat',
     },
     points: 10,
@@ -93,7 +93,7 @@ const questions: Question[] = [
       en: 'The Takbir al-Ihram is indeed a pillar (rukn). Without it, prayer does not begin. The Prophet ﷺ said: "The key to prayer is purification, its sacred beginning is the takbir." [Abu Dawud 61, sahih]',
     },
     reference: {
-      courseSlug: 'fiqh',
+      courseSlug: 'bases-fiqh-ibadat-salat',
       lessonId: '013-piliers-salat',
     },
     points: 10,
@@ -121,7 +121,7 @@ const questions: Question[] = [
       en: 'Al-Fatiha is a pillar of prayer. The Prophet ﷺ said: "There is no prayer for the one who does not recite the Opening of the Book." [Bukhari 756]',
     },
     reference: {
-      courseSlug: 'fiqh',
+      courseSlug: 'bases-fiqh-ibadat-salat',
       lessonId: '013-piliers-salat',
     },
     points: 10,
@@ -149,7 +149,7 @@ const questions: Question[] = [
       en: 'Fajr has 2 obligatory rak\'at. It is the shortest obligatory prayer but also one of the most meritorious.',
     },
     reference: {
-      courseSlug: 'fiqh',
+      courseSlug: 'bases-fiqh-ibadat-salat',
       lessonId: '011-intro-salat',
     },
     points: 10,
@@ -175,7 +175,7 @@ const questions: Question[] = [
       en: 'Scholars differ on this. Some like the Shafi\'is consider it fard kifaya, others like Ibn Taymiyya fard \'ayn. All agree on its immense merit (27 times greater than individual prayer).',
     },
     reference: {
-      courseSlug: 'fiqh',
+      courseSlug: 'bases-fiqh-ibadat-salat',
       lessonId: '018-salat-jamaa',
     },
     points: 10,
@@ -203,7 +203,7 @@ const questions: Question[] = [
       en: 'The Qibla is the direction of the Ka\'ba in Mecca. It is a condition for prayer validity (except when impossible). The Qibla was changed from Jerusalem to Mecca about 16 months after the Hijra.',
     },
     reference: {
-      courseSlug: 'fiqh',
+      courseSlug: 'bases-fiqh-ibadat-salat',
       lessonId: '012-conditions-salat',
     },
     points: 10,
@@ -234,7 +234,7 @@ const questions: Question[] = [
       en: 'Pillars include Takbir al-Ihram, Al-Fatiha, Ruku\', Sujud, and others. The first Tashahhud is an obligation (wajib), not a pillar — if forgotten, one performs prostration of forgetfulness.',
     },
     reference: {
-      courseSlug: 'fiqh',
+      courseSlug: 'bases-fiqh-ibadat-salat',
       lessonId: '013-piliers-salat',
     },
     points: 15,
@@ -262,7 +262,7 @@ const questions: Question[] = [
       en: 'A pillar (rukn) is essential: if omitted, prayer is invalid. An obligation (wajib) is important but can be compensated by prostration of forgetfulness (sujud al-sahw) if forgotten.',
     },
     reference: {
-      courseSlug: 'fiqh',
+      courseSlug: 'bases-fiqh-ibadat-salat',
       lessonId: '014-obligations-salat',
     },
     points: 15,
@@ -292,7 +292,7 @@ const questions: Question[] = [
       en: 'The correct order is: 1) Qiyam + Fatiha, 2) Ruku\', 3) Rising, 4) First Sujud, 5) Jalsah (sitting), 6) Second Sujud. The order is a pillar of prayer.',
     },
     reference: {
-      courseSlug: 'fiqh',
+      courseSlug: 'bases-fiqh-ibadat-salat',
       lessonId: '013-piliers-salat',
     },
     points: 20,
@@ -320,7 +320,7 @@ const questions: Question[] = [
       en: 'If he has fully stood up, he does not return but continues his prayer, then performs Sujud al-Sahw before the salam. If he has not yet fully stood, he may return.',
     },
     reference: {
-      courseSlug: 'fiqh',
+      courseSlug: 'bases-fiqh-ibadat-salat',
       lessonId: '021-sujud-sahw',
     },
     points: 15,
@@ -348,7 +348,7 @@ const questions: Question[] = [
       en: 'The minimum Witr is 1 rak\'a. The Prophet ﷺ said: "Witr is one rak\'a at the end of the night." [Muslim 752]. One can also pray 3, 5, 7, 9, or 11 rak\'at.',
     },
     reference: {
-      courseSlug: 'fiqh',
+      courseSlug: 'bases-fiqh-ibadat-salat',
       lessonId: '024-salat-witr',
     },
     points: 15,
@@ -375,7 +375,7 @@ const questions: Question[] = [
       en: 'Fajr = 2, Dhuhr = 4, Asr = 4, Maghrib = 3, Isha = 4. Total: 17 obligatory rak\'at per day.',
     },
     reference: {
-      courseSlug: 'fiqh',
+      courseSlug: 'bases-fiqh-ibadat-salat',
       lessonId: '011-intro-salat',
     },
     points: 15,
@@ -403,7 +403,7 @@ const questions: Question[] = [
       en: 'All these situations are allowed: a child can lead voluntary prayer, a non-Arabic speaker who knows the required formulas can be imam, and a traveler can lead residents (who then complete their prayer).',
     },
     reference: {
-      courseSlug: 'fiqh',
+      courseSlug: 'bases-fiqh-ibadat-salat',
       lessonId: '019-conditions-imam',
     },
     points: 15,
@@ -429,7 +429,7 @@ const questions: Question[] = [
       en: 'Shortening (qasr) is a concession for travelers. Dhuhr, Asr and Isha are reduced from 4 to 2 rak\'at. Fajr (2) and Maghrib (3) do not change. Allah says: "When you travel, there is no blame on you if you shorten the prayer." [4:101]',
     },
     reference: {
-      courseSlug: 'fiqh',
+      courseSlug: 'bases-fiqh-ibadat-salat',
       lessonId: '027-salat-voyage',
     },
     points: 15,
@@ -459,7 +459,7 @@ const questions: Question[] = [
       en: 'In this famous hadith [Bukhari 757], the Prophet ﷺ taught a man who prayed hastily that he must observe Tuma\'nina (stillness) in each position: standing, bowing, prostrating. It is a pillar of prayer.',
     },
     reference: {
-      courseSlug: 'fiqh',
+      courseSlug: 'bases-fiqh-ibadat-salat',
       lessonId: '013-piliers-salat',
     },
     points: 20,
@@ -488,7 +488,7 @@ const questions: Question[] = [
       en: 'Speaking, eating/drinking intentionally, and laughing out loud invalidate prayer. Involuntary coughing does not. Passing in front is prohibited but does not invalidate the prayer of the one praying (according to the majority).',
     },
     reference: {
-      courseSlug: 'fiqh',
+      courseSlug: 'bases-fiqh-ibadat-salat',
       lessonId: '016-annulatifs-salat',
     },
     points: 20,
@@ -516,7 +516,7 @@ const questions: Question[] = [
       en: 'One bases on certainty (yaqin), meaning the minimum number one is sure of. The Prophet ﷺ said: "If one of you doubts in his prayer, let him seek what is correct." [Muslim 571]. So he prays the 4th rak\'a then performs sujud al-sahw.',
     },
     reference: {
-      courseSlug: 'fiqh',
+      courseSlug: 'bases-fiqh-ibadat-salat',
       lessonId: '021-sujud-sahw',
     },
     points: 20,
@@ -544,7 +544,7 @@ const questions: Question[] = [
       en: 'According to Hanbalis: in case of addition (e.g., 5 rak\'at instead of 4), one prostrates after salam. In case of omission, before salam. This is based on different practices of the Prophet ﷺ. Malikis reverse this rule.',
     },
     reference: {
-      courseSlug: 'fiqh',
+      courseSlug: 'bases-fiqh-ibadat-salat',
       lessonId: '021-sujud-sahw',
     },
     points: 20,
@@ -572,7 +572,7 @@ const questions: Question[] = [
       en: 'According to the majority of scholars, whoever catches the ruku\' with the imam has caught the complete rak\'a, based on the hadith: "Whoever catches the ruku\' has caught the rak\'a." [Abu Dawud, hasan]. Al-Fatiha is waived for him as a follower.',
     },
     reference: {
-      courseSlug: 'fiqh',
+      courseSlug: 'bases-fiqh-ibadat-salat',
       lessonId: '020-suivre-imam',
     },
     points: 20,
@@ -587,7 +587,7 @@ const questions: Question[] = [
 export const quizSalatModule: Quiz = {
   id: 'quiz-fiqh-salat-module',
   type: 'module',
-  courseSlug: 'fiqh',
+  courseSlug: 'bases-fiqh-ibadat-salat',
   moduleId: 'salat',
   title: {
     fr: 'Quiz du Module Salat',
