@@ -142,7 +142,7 @@ export const content = `# Common Mistakes in Prayer — Correction and Perfectio
 
 </div>
 
-**Source:** Abū Dāwūd (893), an-Nasā'ī — Graded ḥasan by some, debated by others
+**Source:** Abū Dāwūd (893), an-Nasā'ī — *Classified as ḍaʿīf by al-Albānī, but accepted by other scholars based on the practice of the Salaf and supporting chains.*
 
 | Situation | Rak'a Counted? |
 |-----------|----------------|

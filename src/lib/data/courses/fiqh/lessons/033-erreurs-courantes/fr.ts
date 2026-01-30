@@ -148,7 +148,7 @@ export const content = `# Les Erreurs Courantes dans la Salat — التصحيح
 
 </div>
 
-**Source :** Abū Dāwūd (893), an-Nasā'ī — Classé ḥasan par certains, discuté par d'autres
+**Source :** Abū Dāwūd (893), an-Nasā'ī — *Ḍaʿīf selon al-Albānī, mais accepté par d'autres savants via les pratiques des Salaf et chaînes de soutien.*
 
 | Situation | Rak'a Comptée ? |
 |-----------|-----------------|
