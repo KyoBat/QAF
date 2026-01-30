@@ -27,6 +27,8 @@ import { lesson029 as lesson029Adhkar } from './lessons/029-salat-adhkar'
 import { lesson030 as lesson030Adab } from './lessons/030-salat-adab'
 import { lesson031 as lesson031Femmes } from './lessons/031-salat-femmes'
 import { lesson032 as lesson032Contemporain } from './lessons/032-questions-contemporaines'
+import { lesson033 as lesson033Erreurs } from './lessons/033-erreurs-courantes'
+import { lesson034 as lesson034Khushu } from './lessons/034-khushu'
 // Prières Spéciales (Cours séparé)
 import { lesson019 } from './lessons/019-salat-musafir'
 import { lesson020 } from './lessons/020-salat-marid'
@@ -107,6 +109,8 @@ export const fiqhSalatCourse: Course = {
     lesson030Adab,
     lesson031Femmes,
     lesson032Contemporain,
+    lesson033Erreurs,
+    lesson034Khushu,
   ],
   sections: [
     {
@@ -135,6 +139,8 @@ export const fiqhSalatCourse: Course = {
         'lesson-030',
         'lesson-031',
         'lesson-032',
+        'lesson-033',
+        'lesson-034',
       ],
     },
   ],
