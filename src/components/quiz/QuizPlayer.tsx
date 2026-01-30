@@ -264,8 +264,36 @@ export function QuizPlayer({
   // Render playing screen
   return (
     <div className="max-w-3xl mx-auto p-6" dir={isRtl ? 'rtl' : 'ltr'}>
-      {/* Header */}
+      {/* Header with quiz title and back button */}
       <div className="mb-6">
+        {/* Top bar: Back button + Quiz title */}
+        <div className={cn(
+          'flex items-center justify-between mb-4 pb-4 border-b border-gray-200 dark:border-gray-700',
+          isRtl && 'flex-row-reverse'
+        )}>
+          {onExit && (
+            <button
+              onClick={onExit}
+              className={cn(
+                'flex items-center gap-2 text-sm font-medium text-gray-600 hover:text-gray-900 dark:text-gray-400 dark:hover:text-white transition-colors',
+                isRtl && 'flex-row-reverse'
+              )}
+            >
+              <span className={cn('text-lg', isRtl && 'rotate-180')}>←</span>
+              <span>
+                {locale === 'ar' ? 'العودة للدورة' : locale === 'en' ? 'Back to course' : 'Retour au cours'}
+              </span>
+            </button>
+          )}
+          <h2 className={cn(
+            'text-sm font-semibold text-gray-900 dark:text-white truncate max-w-[50%]',
+            isRtl && 'font-arabic'
+          )}>
+            {getText(quiz.title)}
+          </h2>
+        </div>
+
+        {/* Question counter */}
         <div className="flex items-center justify-between mb-2">
           <span className="text-sm text-gray-500 dark:text-gray-400">
             {locale === 'ar'
@@ -274,14 +302,6 @@ export function QuizPlayer({
               ? `Question ${currentIndex + 1} of ${questions.length}`
               : `Question ${currentIndex + 1} sur ${questions.length}`}
           </span>
-          {onExit && (
-            <button
-              onClick={onExit}
-              className="text-sm text-gray-500 hover:text-gray-700 dark:text-gray-400 dark:hover:text-gray-200"
-            >
-              {locale === 'ar' ? 'خروج' : locale === 'en' ? 'Exit' : 'Quitter'}
-            </button>
-          )}
         </div>
 
         {/* Progress bar */}
