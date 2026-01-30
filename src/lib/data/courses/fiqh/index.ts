@@ -25,6 +25,8 @@ import { lesson018 } from './lessons/018-salat-jamaa'
 import { lesson028 as lesson028Nawafil } from './lessons/028-salat-nawafil'
 import { lesson029 as lesson029Adhkar } from './lessons/029-salat-adhkar'
 import { lesson030 as lesson030Adab } from './lessons/030-salat-adab'
+import { lesson031 as lesson031Femmes } from './lessons/031-salat-femmes'
+import { lesson032 as lesson032Contemporain } from './lessons/032-questions-contemporaines'
 // Prières Spéciales (Cours séparé)
 import { lesson019 } from './lessons/019-salat-musafir'
 import { lesson020 } from './lessons/020-salat-marid'
@@ -103,6 +105,8 @@ export const fiqhSalatCourse: Course = {
     lesson028Nawafil,
     lesson029Adhkar,
     lesson030Adab,
+    lesson031Femmes,
+    lesson032Contemporain,
   ],
   sections: [
     {
@@ -129,6 +133,8 @@ export const fiqhSalatCourse: Course = {
         'lesson-028',
         'lesson-029',
         'lesson-030',
+        'lesson-031',
+        'lesson-032',
       ],
     },
   ],
