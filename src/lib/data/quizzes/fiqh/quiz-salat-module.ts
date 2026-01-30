@@ -213,32 +213,31 @@ const questions: Question[] = [
   // --- Questions Moyennes (8) ---
   {
     id: 'salat-q008',
-    type: 'multiple',
+    type: 'single',
     difficulty: 'medium',
     question: {
-      fr: 'Quels sont les piliers (arkan) de la prière ? (Plusieurs réponses)',
-      ar: 'ما هي أركان الصلاة؟ (إجابات متعددة)',
-      en: 'What are the pillars (arkan) of prayer? (Multiple answers)',
+      fr: 'Lequel N\'EST PAS un pilier (rukn) de la prière, mais une obligation (wajib) ?',
+      ar: 'أيُّ ما يلي ليس ركناً بل واجب في الصلاة؟',
+      en: 'Which of the following is NOT a pillar (rukn) of prayer, but an obligation (wajib)?',
     },
     options: [
       { id: 'a', text: { fr: 'Le Takbir d\'entrée (Ihram)', ar: 'تكبيرة الإحرام', en: 'The opening Takbir (Ihram)' } },
       { id: 'b', text: { fr: 'La récitation de la Fatiha', ar: 'قراءة الفاتحة', en: 'Recitation of Al-Fatiha' } },
       { id: 'c', text: { fr: 'Le premier Tashahhud', ar: 'التشهد الأول', en: 'The first Tashahhud' } },
-      { id: 'd', text: { fr: 'Le Ruku\' (inclinaison)', ar: 'الركوع', en: 'The Ruku\' (bowing)' } },
-      { id: 'e', text: { fr: 'La Sujud (prosternation)', ar: 'السجود', en: 'The Sujud (prostration)' } },
+      { id: 'd', text: { fr: 'Le Sujud (prosternation)', ar: 'السجود', en: 'The Sujud (prostration)' } },
     ],
-    correctAnswer: [0, 1, 3, 4], // a, b, d, e (pas le premier tashahhud qui est wajib)
+    correctAnswer: 2, // c - Le premier Tashahhud est wajib, pas rukn
     explanation: {
-      fr: 'Les piliers incluent le Takbir al-Ihram, la Fatiha, le Ruku\', le Sujud, et d\'autres. Le premier Tashahhud est une obligation (wajib), non un pilier — si on l\'oublie, on fait la prosternation de l\'oubli.',
-      ar: 'أركان الصلاة تشمل تكبيرة الإحرام والفاتحة والركوع والسجود وغيرها. التشهد الأول واجب وليس ركناً — إذا نُسي يُسجد للسهو.',
-      en: 'Pillars include Takbir al-Ihram, Al-Fatiha, Ruku\', Sujud, and others. The first Tashahhud is an obligation (wajib), not a pillar — if forgotten, one performs prostration of forgetfulness.',
+      fr: 'Le premier Tashahhud est une obligation (wajib), non un pilier (rukn). Si on l\'oublie, on fait la prosternation de l\'oubli. Le Takbir, la Fatiha et le Sujud sont des piliers — s\'ils sont omis, la prière est invalide.',
+      ar: 'التشهد الأول واجب وليس ركناً. إذا نُسي يُسجد للسهو. أما التكبير والفاتحة والسجود فهي أركان — إذا تُركت بطلت الصلاة.',
+      en: 'The first Tashahhud is an obligation (wajib), not a pillar (rukn). If forgotten, one performs prostration of forgetfulness. Takbir, Fatiha, and Sujud are pillars — if omitted, prayer is invalid.',
     },
     reference: {
       courseSlug: 'bases-fiqh-ibadat-salat',
       lessonId: '013-piliers-salat',
     },
     points: 15,
-    tags: ['salat', 'piliers', 'arkan'],
+    tags: ['salat', 'piliers', 'arkan', 'wajib'],
   },
   {
     id: 'salat-q009',
@@ -270,32 +269,30 @@ const questions: Question[] = [
   },
   {
     id: 'salat-q010',
-    type: 'order',
+    type: 'single',
     difficulty: 'medium',
     question: {
-      fr: 'Remettez dans l\'ordre les mouvements d\'une rak\'a complète :',
-      ar: 'رتب حركات الركعة الكاملة:',
-      en: 'Put in order the movements of a complete rak\'a:',
+      fr: 'Quel mouvement vient DIRECTEMENT après le Ruku\' (inclinaison) dans une rak\'a ?',
+      ar: 'ما الذي يأتي مباشرة بعد الركوع في الركعة؟',
+      en: 'What movement comes DIRECTLY after the Ruku\' (bowing) in a rak\'a?',
     },
-    orderItems: [
-      { fr: 'Position debout et récitation de la Fatiha', ar: 'القيام وقراءة الفاتحة', en: 'Standing and reciting Al-Fatiha' },
-      { fr: 'Inclinaison (Ruku\')', ar: 'الركوع', en: 'Bowing (Ruku\')' },
-      { fr: 'Redressement du Ruku\'', ar: 'الاعتدال من الركوع', en: 'Rising from Ruku\'' },
-      { fr: 'Première prosternation (Sujud)', ar: 'السجدة الأولى', en: 'First prostration (Sujud)' },
-      { fr: 'Position assise entre les deux prosternations', ar: 'الجلوس بين السجدتين', en: 'Sitting between the two prostrations' },
-      { fr: 'Seconde prosternation', ar: 'السجدة الثانية', en: 'Second prostration' },
+    options: [
+      { id: 'a', text: { fr: 'La prosternation (Sujud)', ar: 'السجود', en: 'Prostration (Sujud)' } },
+      { id: 'b', text: { fr: 'Le redressement (I\'tidal)', ar: 'الاعتدال', en: 'Rising (I\'tidal)' } },
+      { id: 'c', text: { fr: 'La position assise', ar: 'الجلوس', en: 'Sitting position' } },
+      { id: 'd', text: { fr: 'Le Tashahhud', ar: 'التشهد', en: 'Tashahhud' } },
     ],
-    correctAnswer: [0, 1, 2, 3, 4, 5], // Déjà dans le bon ordre
+    correctAnswer: 1, // b - Le redressement
     explanation: {
-      fr: 'L\'ordre correct est : 1) Qiyam + Fatiha, 2) Ruku\', 3) Redressement, 4) Premier Sujud, 5) Jalsah (assis), 6) Second Sujud. L\'ordre est un pilier de la prière.',
-      ar: 'الترتيب الصحيح: ١) القيام والفاتحة، ٢) الركوع، ٣) الاعتدال، ٤) السجدة الأولى، ٥) الجلسة، ٦) السجدة الثانية. الترتيب ركن من أركان الصلاة.',
-      en: 'The correct order is: 1) Qiyam + Fatiha, 2) Ruku\', 3) Rising, 4) First Sujud, 5) Jalsah (sitting), 6) Second Sujud. The order is a pillar of prayer.',
+      fr: 'Après le Ruku\', on se redresse (I\'tidal) en disant "Sami\'a Allahu liman hamidah", puis on fait le Sujud. L\'ordre des mouvements est : Qiyam → Ruku\' → I\'tidal → Sujud → Jalsah → Sujud.',
+      ar: 'بعد الركوع يأتي الاعتدال قائلاً "سمع الله لمن حمده"، ثم السجود. ترتيب الحركات: قيام ← ركوع ← اعتدال ← سجود ← جلسة ← سجود.',
+      en: 'After Ruku\', one rises (I\'tidal) saying "Sami\'a Allahu liman hamidah", then performs Sujud. Order of movements: Qiyam → Ruku\' → I\'tidal → Sujud → Jalsah → Sujud.',
     },
     reference: {
       courseSlug: 'bases-fiqh-ibadat-salat',
       lessonId: '013-piliers-salat',
     },
-    points: 20,
+    points: 15,
     tags: ['salat', 'piliers', 'ordre', 'raka'],
   },
   {
@@ -356,30 +353,31 @@ const questions: Question[] = [
   },
   {
     id: 'salat-q013',
-    type: 'match',
+    type: 'single',
     difficulty: 'medium',
     question: {
-      fr: 'Associez chaque prière à son nombre de rak\'at obligatoires :',
-      ar: 'اربط كل صلاة بعدد ركعاتها الفرض:',
-      en: 'Match each prayer with its obligatory rak\'at count:',
+      fr: 'Combien de rak\'at obligatoires compte la prière du Maghrib ?',
+      ar: 'كم عدد ركعات صلاة المغرب الفرض؟',
+      en: 'How many obligatory rak\'at does the Maghrib prayer have?',
     },
-    matchPairs: [
-      { id: '1', left: { fr: 'Fajr', ar: 'الفجر', en: 'Fajr' }, right: { fr: '2', ar: '٢', en: '2' } },
-      { id: '2', left: { fr: 'Dhuhr', ar: 'الظهر', en: 'Dhuhr' }, right: { fr: '4', ar: '٤', en: '4' } },
-      { id: '3', left: { fr: 'Maghrib', ar: 'المغرب', en: 'Maghrib' }, right: { fr: '3', ar: '٣', en: '3' } },
+    options: [
+      { id: 'a', text: { fr: '2 rak\'at', ar: 'ركعتان', en: '2 rak\'at' } },
+      { id: 'b', text: { fr: '3 rak\'at', ar: '٣ ركعات', en: '3 rak\'at' } },
+      { id: 'c', text: { fr: '4 rak\'at', ar: '٤ ركعات', en: '4 rak\'at' } },
+      { id: 'd', text: { fr: '5 rak\'at', ar: '٥ ركعات', en: '5 rak\'at' } },
     ],
-    correctAnswer: [['1', '1'], ['2', '2'], ['3', '3']],
+    correctAnswer: 1, // b - 3 rak'at
     explanation: {
-      fr: 'Fajr = 2, Dhuhr = 4, Asr = 4, Maghrib = 3, Isha = 4. Au total : 17 rak\'at obligatoires par jour.',
-      ar: 'الفجر = ٢، الظهر = ٤، العصر = ٤، المغرب = ٣، العشاء = ٤. المجموع: ١٧ ركعة فرض يومياً.',
-      en: 'Fajr = 2, Dhuhr = 4, Asr = 4, Maghrib = 3, Isha = 4. Total: 17 obligatory rak\'at per day.',
+      fr: 'Maghrib = 3 rak\'at. C\'est la seule prière obligatoire impaire. Rappel : Fajr = 2, Dhuhr = 4, Asr = 4, Isha = 4. Total = 17 rak\'at/jour.',
+      ar: 'المغرب = ٣ ركعات. وهي الصلاة الفرض الوحيدة الوترية. تذكّر: الفجر = ٢، الظهر = ٤، العصر = ٤، العشاء = ٤. المجموع = ١٧ ركعة/يوم.',
+      en: 'Maghrib = 3 rak\'at. It\'s the only odd obligatory prayer. Reminder: Fajr = 2, Dhuhr = 4, Asr = 4, Isha = 4. Total = 17 rak\'at/day.',
     },
     reference: {
       courseSlug: 'bases-fiqh-ibadat-salat',
       lessonId: '011-intro-salat',
     },
-    points: 15,
-    tags: ['salat', 'rakat', 'base'],
+    points: 10,
+    tags: ['salat', 'rakat', 'maghrib'],
   },
   {
     id: 'salat-q014',
@@ -467,31 +465,30 @@ const questions: Question[] = [
   },
   {
     id: 'salat-q017',
-    type: 'multiple',
+    type: 'single',
     difficulty: 'hard',
     question: {
-      fr: 'Quels sont les annulatifs (mubtilat) de la prière ? (Plusieurs réponses)',
-      ar: 'ما هي مبطلات الصلاة؟ (إجابات متعددة)',
-      en: 'What invalidates (mubtilat) the prayer? (Multiple answers)',
+      fr: 'Lequel de ces actes N\'ANNULE PAS la prière ?',
+      ar: 'أيٌّ من هذه الأفعال لا يُبطل الصلاة؟',
+      en: 'Which of these actions does NOT invalidate the prayer?',
     },
     options: [
       { id: 'a', text: { fr: 'Parler volontairement de choses étrangères à la prière', ar: 'الكلام العمد بغير ذكر الصلاة', en: 'Speaking intentionally about non-prayer matters' } },
       { id: 'b', text: { fr: 'Manger ou boire intentionnellement', ar: 'الأكل أو الشرب عمداً', en: 'Eating or drinking intentionally' } },
       { id: 'c', text: { fr: 'Tousser involontairement', ar: 'السعال غير المتعمد', en: 'Coughing involuntarily' } },
       { id: 'd', text: { fr: 'Rire aux éclats (qahqaha)', ar: 'القهقهة', en: 'Laughing out loud (qahqaha)' } },
-      { id: 'e', text: { fr: 'Passer devant le prieur sans sutra', ar: 'المرور أمام المصلي بدون سترة', en: 'Passing in front of the one praying without sutra' } },
     ],
-    correctAnswer: [0, 1, 3], // a, b, d (pas c ni e)
+    correctAnswer: 2, // c - Tousser involontairement
     explanation: {
-      fr: 'Parler, manger/boire intentionnellement, et rire aux éclats annulent la prière. Tousser involontairement ne l\'annule pas. Le passage devant le prieur est interdit mais n\'annule pas la prière du prieur (selon la majorité).',
-      ar: 'الكلام والأكل والشرب عمداً والقهقهة تبطل الصلاة. السعال غير المتعمد لا يبطلها. المرور أمام المصلي حرام لكنه لا يبطل صلاة المصلي (عند الجمهور).',
-      en: 'Speaking, eating/drinking intentionally, and laughing out loud invalidate prayer. Involuntary coughing does not. Passing in front is prohibited but does not invalidate the prayer of the one praying (according to the majority).',
+      fr: 'Tousser involontairement ne fait pas partie des annulatifs de la prière. Par contre, parler volontairement, manger/boire, et rire aux éclats annulent la prière.',
+      ar: 'السعال غير المتعمد ليس من مبطلات الصلاة. أما الكلام العمد والأكل والشرب والقهقهة فتبطل الصلاة.',
+      en: 'Involuntary coughing is not among the prayer invalidators. However, speaking intentionally, eating/drinking, and laughing out loud do invalidate prayer.',
     },
     reference: {
       courseSlug: 'bases-fiqh-ibadat-salat',
       lessonId: '016-annulatifs-salat',
     },
-    points: 20,
+    points: 15,
     tags: ['salat', 'mubtilat', 'annulatifs'],
   },
   {
