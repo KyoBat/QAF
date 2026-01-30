@@ -14,6 +14,8 @@ import { Button } from '@/components/ui/button'
 import { Progress } from '@/components/ui/progress'
 import { Breadcrumb } from '@/components/ui/breadcrumb'
 import { ResourceCard } from '@/components/course'
+import { QuizSection } from '@/components/quiz/QuizSection'
+import { ProgressWidget } from '@/components/quiz/ProgressWidget'
 import { useLocale } from '@/components/providers'
 import { useProgressStore } from '@/lib/store'
 import { cn } from '@/lib/utils'
@@ -305,6 +307,12 @@ export function CourseDetailClient({ course }: CourseDetailClientProps) {
                 </div>
               </div>
             )}
+
+            {/* Quiz Section */}
+            <QuizSection 
+              courseSlug={course.slug} 
+              locale={locale as 'fr' | 'ar' | 'en'} 
+            />
           </div>
 
           {/* Sidebar */}
@@ -359,6 +367,14 @@ export function CourseDetailClient({ course }: CourseDetailClientProps) {
                     </div>
                   </div>
                 )}
+
+                {/* XP Progress Widget */}
+                <div className="mt-6 pt-6 border-t border-border">
+                  <ProgressWidget 
+                    locale={locale as 'fr' | 'ar' | 'en'} 
+                    compact 
+                  />
+                </div>
               </CardContent>
             </Card>
           </div>
