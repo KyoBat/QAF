@@ -170,7 +170,7 @@ export const content = `# Questions Contemporaines de la Salat
 | **Photos de Haram diffusées** | Autorisé pour le bien |
 | **Selfie pendant la prière** | Annule la prière (mouvements + distraction) |
 
-> **Attention au Riya' :** Filmer sa prière pour les réseaux sociaux touche au shirk mineur. Le Prophète ﷺ a dit : « Ce que je crains le plus pour vous, c'est le petit shirk : le riya'. » — Aḥmad, Ibn Mājah (4204)
+> **Attention au Riya' :** Filmer sa prière pour les réseaux sociaux touche au shirk mineur. Le Prophète ﷺ a dit : « Ce que je crains le plus pour vous, c'est le petit shirk : le riya'. » — Aḥmad (23630), al-Bayhaqī dans Shu'ab al-Īmān
 
 ---
 

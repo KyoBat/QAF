@@ -84,7 +84,7 @@ He is **the Imam of Ahl al-Sunna wal-Jama'a**, the author of the great Musnad, a
 
 **Ahmad** *(with faith)*: "For a single hadith from the Messenger of Allah ﷺ, I would cross the desert."
 
-*He collected over 750,000 hadiths, and kept only 30,000 authentic ones.*
+*According to chroniclers, he collected hundreds of thousands of hadiths, and selected around 30,000 for his Musnad.*
 
 </div>
 
@@ -102,7 +102,7 @@ He is **the Imam of Ahl al-Sunna wal-Jama'a**, the author of the great Musnad, a
 
 - **More than 280 sheikhs**: He learned from them
 - **Precision**: He only narrated from trustworthy people
-- **Memorization**: He memorized a million hadiths with their chains
+- **Memorization**: According to traditionists, he memorized hundreds of thousands of hadiths with their chains
 
 ---
 
@@ -115,7 +115,7 @@ He is **the Imam of Ahl al-Sunna wal-Jama'a**, the author of the great Musnad, a
 | **Name** | Al-Musnad |
 | **Number of hadiths** | Over 30,000 hadiths |
 | **Method** | Arranged by Companions' names |
-| **Sources** | Selected from 750,000 hadiths |
+| **Sources** | Selected from hundreds of thousands of hadiths |
 
 <div class="quote-box">
 
@@ -298,7 +298,7 @@ He is **the Imam of Ahl al-Sunna wal-Jama'a**, the author of the great Musnad, a
 
 **An eyewitness**: "By Allah, I have never seen a funeral like this!"
 
-**Another**: "We counted them: over 800,000 people, some say a million!"
+**Another**: "Immense crowds! Chroniclers speak of hundreds of thousands of people!"
 
 *The funeral prayer was performed at the mosque, then in the streets, and people continued to pray at his grave for three days.*
 
@@ -308,9 +308,9 @@ He is **the Imam of Ahl al-Sunna wal-Jama'a**, the author of the great Musnad, a
 
 | Detail | Number |
 |--------|--------|
-| **Number of people** | 800,000 - 1,000,000 |
+| **Number of people** | Hundreds of thousands (according to chroniclers) |
 | **Days of mourning** | 3 days in Baghdad |
-| **Converts that day** | Said to be 20,000 people |
+| **Converts that day** | Thousands (according to sources) |
 | **Repentant** | Thousands returned to prayer |
 
 ### The Burial Place
@@ -362,7 +362,7 @@ Ahmad ibn Hanbal is the model of the **resistant and patient** scholar:
 - ✅ **Poor orphan** who became the imam of the Ummah
 - ✅ **Collected** over 30,000 hadiths
 - ✅ **Resisted** torture and never yielded
-- ✅ **Accompanied** by a million Muslims at his funeral
+- ✅ **Accompanied** by immense crowds at his funeral
 
 <div class="quote-box">
 

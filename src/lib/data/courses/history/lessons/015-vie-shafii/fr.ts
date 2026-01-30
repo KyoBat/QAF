@@ -253,7 +253,7 @@ Avant de chercher le fiqh, il voulut maîtriser la langue arabe.
 | Qualité | Description |
 |---------|-------------|
 | **Prière nocturne** | Divisait la nuit en trois : un tiers pour la science, un tiers pour le sommeil, un tiers pour la prière |
-| **Le Coran** | Complétait le Coran 60 fois en Ramadan |
+| **Le Coran** | Nombreuses khatmas en Ramadan (les chroniqueurs mentionnent 60) |
 | **Générosité** | Dépensait tout ce qu'il possédait |
 | **Humilité** | Acceptait la vérité de quiconque |
 

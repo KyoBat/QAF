@@ -41,7 +41,7 @@ I heard the Messenger of Allah ﷺ say:
 | **Sunan An-Nasa'i** | 75 | ✅ Sahih |
 | **Sunan Ibn Majah** | 4227 | ✅ Sahih |
 
-> 💡 This hadith is **mutawatir ma'nawi** (concordant in meaning) — reported by over 700 companions according to some scholars.
+> 💡 This hadith is **gharīb** (singular) at the Companion level — reported only by **'Umar ibn al-Khaṭṭāb** رضي الله عنه. It becomes **mutawātir** from the Tābi'īn onwards, with over 700 chains of transmission according to the muḥaddithūn.
 
 ---
 
@@ -81,7 +81,7 @@ I heard the Messenger of Allah ﷺ say:
 | **Death** | 23 AH — Martyred |
 | **Hadiths Narrated** | 539 hadiths |
 
-> The Prophet ﷺ said: **"لَوْ كَانَ نَبِيٌّ بَعْدِي لَكَانَ عُمَرَ"** — *"If there were a prophet after me, it would be 'Umar."* [At-Tirmidhi]
+> The Prophet ﷺ said: **"لَوْ كَانَ نَبِيٌّ بَعْدِي لَكَانَ عُمَرَ"** — *"If there were a prophet after me, it would be 'Umar."* — At-Tirmidhī (3686), graded **ḥasan**
 
 ---
 

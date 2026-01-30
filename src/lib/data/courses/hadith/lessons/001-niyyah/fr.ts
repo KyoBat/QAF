@@ -42,7 +42,7 @@ export const content = `# 📜 الأعمال بالنيات — Les Actes ne va
 | **Sunan An-Nasai** | 75 | ✅ Sahih |
 | **Sunan Ibn Majah** | 4227 | ✅ Sahih |
 
-> 💡 Ce hadith est **mutawatir manawi** (concordant dans le sens) — rapporté par plus de 700 compagnons selon certains savants.
+> 💡 Ce hadith est **gharīb** (singulier) au niveau du Compagnon — rapporté uniquement par **'Umar ibn al-Khaṭṭāb** رضي الله عنه. Il devient **mutawātir** à partir des Tābi'īn, avec plus de 700 chaînes de transmission selon les muḥaddithūn.
 
 ---
 
@@ -82,7 +82,7 @@ export const content = `# 📜 الأعمال بالنيات — Les Actes ne va
 | **Décès** | 23 H — Assassiné en martyr |
 | **Hadiths rapportés** | 539 hadiths |
 
-> Le Prophète ﷺ a dit : **« لَوْ كَانَ نَبِيٌّ بَعْدِي لَكَانَ عُمَرَ »** — *« S'il y avait un prophète après moi, ce serait Umar. »* [At-Tirmidhi]
+> Le Prophète ﷺ a dit : **« لَوْ كَانَ نَبِيٌّ بَعْدِي لَكَانَ عُمَرَ »** — *« S'il y avait un prophète après moi, ce serait Umar. »* — At-Tirmidhī (3686), classé **ḥasan**
 
 ---
 

@@ -84,7 +84,7 @@ Il est **l'Imam des Gens de la Sunna et de la Communauté**, l'auteur du grand M
 
 **Ahmad** *(avec foi)* : « Pour un seul hadith du Messager d'Allah ﷺ, je traverserais le désert. »
 
-*Il collecta plus de 750 000 hadiths, et n'en garda que 30 000 authentiques.*
+*Selon les chroniqueurs, il collecta des centaines de milliers de hadiths, et en sélectionna environ 30 000 pour son Musnad.*
 
 </div>
 
@@ -102,7 +102,7 @@ Il est **l'Imam des Gens de la Sunna et de la Communauté**, l'auteur du grand M
 
 - **Plus de 280 sheikhs** : Il apprit d'eux
 - **La précision** : Il ne rapportait que de personnes fiables
-- **La mémorisation** : Il mémorisait un million de hadiths avec leurs chaînes
+- **La mémorisation** : Selon les traditionnistes, il mémorisait des centaines de milliers de hadiths avec leurs chaînes
 
 ---
 
@@ -115,7 +115,7 @@ Il est **l'Imam des Gens de la Sunna et de la Communauté**, l'auteur du grand M
 | **Nom** | Al-Musnad |
 | **Nombre de hadiths** | Plus de 30 000 hadiths |
 | **Méthode** | Classé par noms des Compagnons |
-| **Sources** | Sélectionné parmi 750 000 hadiths |
+| **Sources** | Sélectionné parmi des centaines de milliers de hadiths |
 
 <div class="quote-box">
 
@@ -298,7 +298,7 @@ Il est **l'Imam des Gens de la Sunna et de la Communauté**, l'auteur du grand M
 
 **Un témoin oculaire** : « Par Allah, je n'ai jamais vu des funérailles pareilles ! »
 
-**Un autre** : « Nous les avons comptés : plus de 800 000 personnes, certains disent un million ! »
+**Un autre** : « Des foules immenses ! Les chroniqueurs parlent de centaines de milliers de personnes ! »
 
 *On pria sur lui à la mosquée, puis dans les rues, et les gens continuèrent à prier sur sa tombe pendant trois jours.*
 
@@ -308,9 +308,9 @@ Il est **l'Imam des Gens de la Sunna et de la Communauté**, l'auteur du grand M
 
 | Détail | Nombre |
 |--------|--------|
-| **Nombre de personnes** | 800 000 - 1 000 000 |
+| **Nombre de personnes** | Centaines de milliers (selon les chroniqueurs) |
 | **Jours de deuil** | 3 jours à Bagdad |
-| **Convertis ce jour-là** | On dit 20 000 personnes |
+| **Convertis ce jour-là** | Des milliers (selon les sources) |
 | **Repentis** | Des milliers revinrent à la prière |
 
 ### Le Lieu d'Enterrement
@@ -362,7 +362,7 @@ Ahmad ibn Hanbal est le modèle du savant **résistant et patient** :
 - ✅ **Orphelin pauvre** devenu l'imam de la Oumma
 - ✅ **Collecta** plus de 30 000 hadiths
 - ✅ **Résista** à la torture et ne céda jamais
-- ✅ **Accompagné** par un million de musulmans à ses funérailles
+- ✅ **Accompagné** par des foules immenses à ses funérailles
 
 <div class="quote-box">
 

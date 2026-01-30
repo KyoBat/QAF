@@ -5,7 +5,7 @@
 export const content = `# 👩‍⚖️ Women Jurists of the Golden Age
 
 > **"Take half of your religion from this Humayra"**
-> — **About 'Aisha رضي الله عنها**
+> — **Statement attributed to scholars about 'Ā'isha رضي الله عنها**
 
 ---
 

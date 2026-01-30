@@ -253,7 +253,7 @@ Before seeking fiqh, he wanted to master the Arabic language.
 | Quality | Description |
 |---------|-------------|
 | **Night prayer** | Divided the night into three: a third for knowledge, a third for sleep, a third for prayer |
-| **The Quran** | Completed the Quran 60 times in Ramadan |
+| **The Quran** | Numerous khatmas in Ramadan (chroniclers mention 60) |
 | **Generosity** | Spent everything he owned |
 | **Humility** | Accepted truth from anyone |
 

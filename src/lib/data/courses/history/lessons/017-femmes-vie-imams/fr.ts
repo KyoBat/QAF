@@ -6,7 +6,7 @@
 export const content = `# 👩‍🏫 Les Femmes dans la Vie des Imams
 
 > **« Le Paradis est sous les pieds des mères »**
-> — **Hadith**
+> — **Hadith [Nasāʾī 3104, ḥasan]**
 
 ---
 

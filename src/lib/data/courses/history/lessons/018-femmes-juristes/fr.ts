@@ -5,7 +5,7 @@
 export const content = `# 👩‍⚖️ Les Femmes Juristes de l'Âge d'Or
 
 > **« Prenez la moitié de votre religion de cette Humayra »**
-> — **À propos de 'Aisha رضي الله عنها**
+> — **Parole attribuée aux savants à propos de 'Ā'isha رضي الله عنها**
 
 ---
 

@@ -203,9 +203,9 @@ He is **al-Imam al-A'zam** (the Greatest Imam), the leader of the mujtahidun, an
 | Practice | Description |
 |----------|-------------|
 | **Night prayer** | Standing all night throughout his life |
-| **Quran recitation** | 7000 completions where he died |
+| **Quran recitation** | Numerous completions where he died (according to chroniclers) |
 | **Fasting** | He fasted frequently |
-| **Pilgrimage** | He performed 55 hajj |
+| **Pilgrimage** | Between 30 and 55 hajj according to sources |
 
 ### His Character
 
@@ -242,7 +242,7 @@ He is **al-Imam al-A'zam** (the Greatest Imam), the leader of the mujtahidun, an
 
 ### His Funeral
 
-- **Number of people**: **50,000** people prayed over him
+- **Number of people**: Tens of thousands prayed over him (according to chroniclers)
 - **Repeated prayers**: Funeral prayer was performed **6 times** due to the crowd
 - **Attendance**: Scholars, princes, and common people
 - **Burial place**: Khayzuran Cemetery, Baghdad

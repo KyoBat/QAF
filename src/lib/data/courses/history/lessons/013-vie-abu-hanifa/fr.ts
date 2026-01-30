@@ -203,9 +203,9 @@ Il est **l'Imam al-A'zam** (le plus grand imam), chef des mujtahidun, et le prem
 | Pratique | Description |
 |----------|-------------|
 | **Prière nocturne** | Debout toute la nuit durant toute sa vie |
-| **Lecture du Coran** | 7000 khatmas là où il mourut |
+| **Lecture du Coran** | Nombreuses khatmas là où il mourut (selon les chroniqueurs) |
 | **Jeûne** | Il jeûnait fréquemment |
-| **Pèlerinage** | Il accomplit 55 hajj |
+| **Pèlerinage** | Entre 30 et 55 hajj selon les sources |
 
 ### Son Caractère
 
@@ -242,7 +242,7 @@ Il est **l'Imam al-A'zam** (le plus grand imam), chef des mujtahidun, et le prem
 
 ### Ses Funérailles
 
-- **Nombre de personnes** : **50 000** personnes prièrent sur lui
+- **Nombre de personnes** : Des dizaines de milliers prièrent sur lui (selon les chroniqueurs)
 - **Prières répétées** : On pria sur lui **6 fois** à cause de la foule
 - **Présence** : Savants, princes et gens du peuple
 - **Lieu d'enterrement** : Cimetière de Khayzuran, Bagdad
