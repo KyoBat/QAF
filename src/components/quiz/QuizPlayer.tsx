@@ -322,7 +322,7 @@ export function QuizPlayer({
           {locale === 'ar' ? 'السابق' : locale === 'en' ? 'Previous' : 'Précédent'}
         </button>
 
-        <div className="flex gap-2">
+        <div className="flex gap-1 flex-wrap justify-center max-w-md">
           {questions.map((_, index) => (
             <button
               key={index}
@@ -331,7 +331,7 @@ export function QuizPlayer({
                 setCurrentIndex(index);
               }}
               className={cn(
-                'w-8 h-8 rounded-full text-sm font-medium transition-colors',
+                'w-7 h-7 rounded-full text-xs font-medium transition-colors',
                 index === currentIndex
                   ? 'bg-primary text-white'
                   : answers.has(questions[index]?.id)
