@@ -170,7 +170,7 @@ export const content = `# Contemporary Issues in Prayer - Modern Questions of Sa
 | **Haram photos broadcast** | Permitted for benefit |
 | **Selfie during prayer** | Nullifies prayer (movements + distraction) |
 
-> **Beware of Riya':** Filming your prayer for social media touches on minor shirk. The Prophet ﷺ said: "What I fear most for you is the minor shirk: riya'." — Ahmad
+> **Beware of Riya':** Filming your prayer for social media touches on minor shirk. The Prophet ﷺ said: "What I fear most for you is the minor shirk: riya'." — Aḥmad, Ibn Mājah (4204)
 
 ---
 
@@ -271,7 +271,7 @@ export const content = `# Contemporary Issues in Prayer - Modern Questions of Sa
 |-----------|----------|
 | **Involuntary music** | Prayer VALID — no control |
 | **Focusing on it** | Makruh, but valid |
-| **Deliberately playing music** | Invalidates prayer (intentional distraction) |
+| **Deliberately playing music** | Ḥarām but does not technically invalidate prayer — unless excessive movement |
 | **Musical phone ringtone** | Turn it off quickly, prayer valid |
 
 > **Advice:** Avoid praying in a place where sound disturbs concentration (khushu').

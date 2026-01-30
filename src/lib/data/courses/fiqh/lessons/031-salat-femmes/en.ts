@@ -86,7 +86,7 @@ export const content = `# Women's Prayer Rules - Feminine Specificities in Salat
 > **"Can a woman pray in a shift and head-cover without a lower garment?"**
 > **He said: "If the shift is ample, covering the tops of her feet."**
 
-**Source:** Abu Dawud (640)
+**Source:** Abu Dawud (640) — Graded ḍaʿīf by al-Albānī, but accepted by other scholars and used by Malikis and Hanafis
 
 ---
 
@@ -266,7 +266,7 @@ There is no difference. A woman prays exactly like a man.
 
 </div>
 
-**Source:** Abu Dawud (591), Ahmad
+**Source:** Abu Dawud (591), Ahmad — Chain contains ʿAbd ar-Raḥmān ibn Khallād, debated but accepted by the majority of scholars
 
 #### Summary of Positions
 

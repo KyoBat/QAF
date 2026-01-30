@@ -170,7 +170,7 @@ export const content = `# Questions Contemporaines de la Salat
 | **Photos de Haram diffusées** | Autorisé pour le bien |
 | **Selfie pendant la prière** | Annule la prière (mouvements + distraction) |
 
-> **Attention au Riya' :** Filmer sa prière pour les réseaux sociaux touche au shirk mineur. Le Prophète ﷺ a dit : « Ce que je crains le plus pour vous, c'est le petit shirk : le riya'. » — Ahmad
+> **Attention au Riya' :** Filmer sa prière pour les réseaux sociaux touche au shirk mineur. Le Prophète ﷺ a dit : « Ce que je crains le plus pour vous, c'est le petit shirk : le riya'. » — Aḥmad, Ibn Mājah (4204)
 
 ---
 
@@ -271,7 +271,7 @@ export const content = `# Questions Contemporaines de la Salat
 |-----------|----------|
 | **Musique involontaire** | Prière VALIDE — pas de contrôle |
 | **Se concentrer dessus** | Makruh, mais valide |
-| **Mettre de la musique volontairement** | Invalide sa prière (distraction intentionnelle) |
+| **Mettre de la musique volontairement** | Ḥarām mais n'invalide pas techniquement la prière — sauf si mouvements excessifs |
 | **Sonnerie musicale de téléphone** | L'éteindre vite, prière valide |
 
 > **Conseil :** Éviter de prier dans un lieu où le son perturbe la concentration (khushu').

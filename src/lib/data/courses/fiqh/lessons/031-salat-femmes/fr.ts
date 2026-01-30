@@ -93,7 +93,7 @@ export const content = `# 📜 أَحْكَامُ صَلَاةِ الْمَرْ�
 > 
 > *Umm Salamah demanda au Prophète ﷺ : « La femme peut-elle prier avec une tunique et un voile, sans jupe ? » Il dit : « Si la tunique est ample et couvre le dessus de ses pieds. »*
 
-**📍 Source :** Abū Dāwūd (640) — Hadith discuté, mais utilisé par les Malikites et Hanafites
+**📍 Source :** Abū Dāwūd (640) — Hadith classé ḍaʿīf par al-Albānī, mais accepté par d'autres savants et utilisé par les Malikites et Hanafites
 
 ---
 
@@ -160,7 +160,8 @@ Aucune différence. La femme prie exactement comme l'homme.
 | **Conditions pour aller à la mosquée** | Tenue décente, pas de parfum, avec permission du mari |
 
 > **Umm Ḥumaid as-Sā'idiyyah :**
-> Elle demanda au Prophète ﷺ : « J'aime prier avec toi. » Il répondit : « Je sais, mais ta prière dans ta chambre est meilleure que ta prière dans ta maison, et ta prière dans ta maison est meilleure que ta prière dans la mosquée de ton peuple. » — Aḥmad (27090)
+> Elle demanda au Prophète ﷺ : « J'aime prier avec toi. » Il répondit : « Je sais, mais ta prière dans ta chambre est meilleure que ta prière dans ta maison, et ta prière dans ta maison est meilleure que ta prière dans la mosquée de ton peuple. »
+> — Aḥmad (27090) — Isnād discuté : classé ḥasan par certains, ḍaʿīf par d'autres
 
 ---
 
@@ -282,7 +283,7 @@ Aucune différence. La femme prie exactement comme l'homme.
 
 </div>
 
-**📍 Source :** Abū Dāwūd (591), Aḥmad
+**📍 Source :** Abū Dāwūd (591), Aḥmad — Isnād contenant ʿAbd ar-Raḥmān ibn Khallād, discuté mais accepté par la majorité des savants
 
 #### 📌 Synthèse des Avis
 
