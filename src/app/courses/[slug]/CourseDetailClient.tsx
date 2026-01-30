@@ -308,11 +308,13 @@ export function CourseDetailClient({ course }: CourseDetailClientProps) {
               </div>
             )}
 
-            {/* Quiz Section */}
-            <QuizSection 
-              courseSlug={course.slug} 
-              locale={locale as 'fr' | 'ar' | 'en'} 
-            />
+            {/* Quiz Section - Mobile only (visible en bas sur mobile) */}
+            <div className="lg:hidden">
+              <QuizSection 
+                courseSlug={course.slug} 
+                locale={locale as 'fr' | 'ar' | 'en'} 
+              />
+            </div>
           </div>
 
           {/* Sidebar */}
@@ -348,6 +350,15 @@ export function CourseDetailClient({ course }: CourseDetailClientProps) {
                     </span>
                   </Link>
                 </Button>
+
+                {/* Quiz Section - Desktop (dans la sidebar) */}
+                <div className="hidden lg:block mt-6 pt-6 border-t border-border">
+                  <QuizSection 
+                    courseSlug={course.slug} 
+                    locale={locale as 'fr' | 'ar' | 'en'}
+                    compact
+                  />
+                </div>
 
                 {/* Tags */}
                 {course.tags.length > 0 && (

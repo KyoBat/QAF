@@ -13,9 +13,10 @@ type Locale = 'fr' | 'ar' | 'en';
 interface QuizSectionProps {
   courseSlug: string;
   locale: Locale;
+  compact?: boolean; // Mode compact pour la sidebar
 }
 
-export function QuizSection({ courseSlug, locale }: QuizSectionProps) {
+export function QuizSection({ courseSlug, locale, compact = false }: QuizSectionProps) {
   const [activeQuiz, setActiveQuiz] = useState<Quiz | null>(null);
   const { recordQuizResult, updateStreak } = useQuizProgress();
   
@@ -32,10 +33,14 @@ export function QuizSection({ courseSlug, locale }: QuizSectionProps) {
     updateStreak();
   };
 
-  // Show quiz player if quiz is active
+  // Show quiz player if quiz is active (fullscreen modal style for compact)
   if (activeQuiz) {
     return (
-      <div className="mt-8">
+      <div className={cn(
+        compact 
+          ? 'fixed inset-0 z-50 bg-background overflow-auto' 
+          : 'mt-8'
+      )}>
         <QuizPlayer
           quiz={activeQuiz}
           locale={locale}
@@ -46,6 +51,50 @@ export function QuizSection({ courseSlug, locale }: QuizSectionProps) {
     );
   }
 
+  // Compact mode for sidebar
+  if (compact) {
+    const quiz = quizzes[0]; // Show first quiz in compact mode
+    return (
+      <div dir={isRtl ? 'rtl' : 'ltr'}>
+        <div className="flex items-center gap-2 mb-3">
+          <span className="text-lg">📝</span>
+          <h3 className={cn(
+            'font-semibold text-foreground',
+            isRtl && 'font-arabic'
+          )}>
+            {locale === 'ar' ? 'اختبار متاح' : locale === 'en' ? 'Quiz Available' : 'Quiz disponible'}
+          </h3>
+        </div>
+        
+        <div className="p-3 rounded-xl bg-primary/5 dark:bg-primary/10 border border-primary/20">
+          <p className={cn(
+            'font-medium text-sm text-foreground mb-2',
+            isRtl && 'font-arabic'
+          )}>
+            {quiz.title[locale]}
+          </p>
+          <div className="flex items-center gap-3 text-xs text-muted-foreground mb-3">
+            <span>❓ {quiz.questions.length}</span>
+            <span>⏱ {quiz.duration} min</span>
+          </div>
+          <button
+            onClick={() => setActiveQuiz(quiz)}
+            className="w-full py-2 px-4 rounded-lg bg-primary text-primary-foreground text-sm font-medium hover:bg-primary/90 transition-colors"
+          >
+            {locale === 'ar' ? 'ابدأ الاختبار' : locale === 'en' ? 'Start Quiz' : 'Commencer'}
+          </button>
+        </div>
+        
+        {quizzes.length > 1 && (
+          <p className="text-xs text-muted-foreground mt-2 text-center">
+            +{quizzes.length - 1} {locale === 'ar' ? 'اختبارات أخرى' : locale === 'en' ? 'more quizzes' : 'autres quiz'}
+          </p>
+        )}
+      </div>
+    );
+  }
+
+  // Full mode (mobile / main content)
   return (
     <div className="mt-8" dir={isRtl ? 'rtl' : 'ltr'}>
       {/* Section Header */}
