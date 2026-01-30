@@ -221,9 +221,10 @@ export const content = `# Al-Khushū' — The Soul of Prayer
 
 ## Chapter 5: Khushū' According to the Great Imams
 
-### Imam al-Ḥasan al-Baṣrī
+### Imam al-Ḥasan al-Baṣrī (d. 110 AH)
 
-> *"Every prayer in which the heart is not present leads more quickly to punishment."*
+> *"Every prayer without the heart's presence is closer to punishment than reward."*
+> — *Reported in works of spiritual purification*
 
 ### Imam Ibn Taymiyyah
 
@@ -313,7 +314,7 @@ export const content = `# Al-Khushū' — The Soul of Prayer
 
 </div>
 
-**Source:** aṭ-Ṭabarānī, aṣ-Ṣaḥīḥa (1358)
+**Source:** aṭ-Ṭabarānī, an-Nasā'ī (465), at-Tirmidhī (413) — Authenticated by al-Albānī (Ṣaḥīḥa 1358)
 
 ---
 

@@ -250,7 +250,7 @@ export const content = `# Les Erreurs Courantes dans la Salat — التصحيح
 | Direction du Regard | Ruling |
 |---------------------|--------|
 | **Lieu de prosternation** | SUNNA — préserve le khushū' |
-| **Lever les yeux au ciel** | INTERDIT (ḥarām) — hadith sévère |
+| **Lever les yeux au ciel** | INTERDIT (ḥarām) — Muslim (428) : menace sévère |
 | **Regarder à droite/gauche** | Makrūh — distraction |
 
 ### Erreur #15 : Penser à Autre Chose
@@ -283,7 +283,7 @@ export const content = `# Les Erreurs Courantes dans la Salat — التصحيح
 
 | Action | Statut |
 |--------|--------|
-| **Commencer avant l'imam** | Prière INVALIDE |
+| **Commencer avant l'imam** | Invalide (Ḥanbalite) / Makrūh taḥrīmī (autres) |
 | **Se relever avant lui** | Makrūh sévère, voire ḥarām |
 | **Finir le salām avant lui** | Makrūh |
 

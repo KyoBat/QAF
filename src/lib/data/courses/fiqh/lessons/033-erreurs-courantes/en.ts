@@ -242,7 +242,7 @@ export const content = `# Common Mistakes in Prayer — Correction and Perfectio
 | Direction of Gaze | Ruling |
 |-------------------|--------|
 | **Place of prostration** | SUNNA — preserves khushū' |
-| **Raising eyes to sky** | FORBIDDEN (ḥarām) — severe hadith |
+| **Raising eyes to sky** | FORBIDDEN (ḥarām) — Muslim (428): severe threat |
 | **Looking right/left** | Makrūh — distraction |
 
 ### Mistake #15: Thinking About Other Things
@@ -273,7 +273,7 @@ export const content = `# Common Mistakes in Prayer — Correction and Perfectio
 
 | Action | Status |
 |--------|--------|
-| **Starting before imam** | Prayer INVALID |
+| **Starting before imam** | Invalid (Ḥanbali) / Makrūh taḥrīmī (others) |
 | **Rising before him** | Severely makrūh, even ḥarām |
 | **Finishing salām before him** | Makrūh |
 

@@ -231,9 +231,10 @@ export const content = `# الخُشُوعُ — L'Âme de la Prière
 
 ## Chapitre 5 : Le Khushū' selon les Grands Imams
 
-### L'Imam al-Ḥasan al-Baṣrī
+### L'Imam al-Ḥasan al-Baṣrī (m. 110 H)
 
-> *« Chaque prière dans laquelle le cœur n'est pas présent mène plus rapidement au châtiment. »*
+> *« Toute prière sans présence du cœur est plus proche du châtiment que de la récompense. »*
+> — *Parole rapportée dans les ouvrages de tazkiya*
 
 ### L'Imam Ibn Taymiyyah
 
@@ -325,7 +326,7 @@ export const content = `# الخُشُوعُ — L'Âme de la Prière
 
 </div>
 
-**Source :** aṭ-Ṭabarānī, aṣ-Ṣaḥīḥa (1358)
+**Source :** aṭ-Ṭabarānī, an-Nasā'ī (465), at-Tirmidhī (413) — Ṣaḥīḥ par al-Albānī (Ṣaḥīḥa 1358)
 
 ---
 
