@@ -432,12 +432,22 @@ export function prepareExamQuestions(exam: ExamConfig): ExamQuestion[] {
   
   // Mélanger les options si configuré
   if (exam.shuffleOptions) {
-    selected = selected.map(q => ({
-      ...q,
-      options: shuffleArray(q.options),
-      // Recalculer l'index de la bonne réponse après mélange
-      // Note: On doit tracker l'option correcte par son ID
-    }));
+    selected = selected.map(q => {
+      // Trouver l'ID de l'option correcte AVANT le mélange
+      const correctOptionId = q.options[q.correctAnswer]?.id;
+      
+      // Mélanger les options
+      const shuffledOptions = shuffleArray(q.options);
+      
+      // Trouver le nouvel index de l'option correcte APRÈS le mélange
+      const newCorrectAnswer = shuffledOptions.findIndex(opt => opt.id === correctOptionId);
+      
+      return {
+        ...q,
+        options: shuffledOptions,
+        correctAnswer: newCorrectAnswer >= 0 ? newCorrectAnswer : q.correctAnswer,
+      };
+    });
   }
   
   return selected;
