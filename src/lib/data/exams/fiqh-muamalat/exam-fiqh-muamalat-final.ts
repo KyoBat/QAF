@@ -1,0 +1,577 @@
+/**
+ * Examen Final - Fiqh Muamalat (Transactions Islamiques)
+ * 
+ * 25 questions QCM couvrant :
+ * - Principes généraux des transactions
+ * - Vente (Bay') et ses conditions
+ * - Riba (usure) et intérêts
+ * - Contrats islamiques
+ * - Finance islamique moderne
+ * - Interdictions commerciales
+ */
+
+import { ExamConfig, ExamQuestion } from '../types';
+
+// ============================================
+// Questions - Principes Généraux
+// ============================================
+
+const principesQuestions: ExamQuestion[] = [
+  {
+    id: 'muamalat-principes-001',
+    question: {
+      fr: 'Quelle est la règle de base dans les transactions (Mu\'amalat) en Islam ?',
+      ar: 'ما الأصل في المعاملات في الإسلام؟',
+      en: 'What is the base rule in transactions (Mu\'amalat) in Islam?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Tout est interdit sauf ce qui est explicitement permis', ar: 'الأصل التحريم إلا ما أُبيح', en: 'Everything is forbidden except what is explicitly permitted' } },
+      { id: 'b', text: { fr: 'Tout est permis (Halal) sauf ce qui est explicitement interdit', ar: 'الأصل الإباحة إلا ما حُرّم', en: 'Everything is permissible (Halal) except what is explicitly forbidden' } },
+      { id: 'c', text: { fr: 'Tout est obligatoire', ar: 'كل شيء واجب', en: 'Everything is obligatory' } },
+      { id: 'd', text: { fr: 'Aucune règle particulière', ar: 'لا قاعدة خاصة', en: 'No particular rule' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Le principe dans les transactions est la permission (الإباحة) contrairement aux adorations (\'Ibadat) où tout est interdit sauf ce qui est prescrit.',
+      ar: 'الأصل في المعاملات الإباحة، على خلاف العبادات حيث الأصل التوقف حتى يرد الدليل.',
+      en: 'The principle in transactions is permissibility (al-Ibaha) unlike worship (\'Ibadat) where everything is forbidden except what is prescribed.',
+    },
+    points: 2,
+    difficulty: 'easy',
+    category: 'principes',
+  },
+  {
+    id: 'muamalat-principes-002',
+    question: {
+      fr: 'Quel hadith établit le principe de "pas de préjudice" dans les transactions ?',
+      ar: 'ما الحديث الذي يؤسس مبدأ "لا ضرر" في المعاملات؟',
+      en: 'Which hadith establishes the "no harm" principle in transactions?',
+    },
+    options: [
+      { id: 'a', text: { fr: '"Pas de préjudice ni de représailles" (لا ضرر ولا ضِرار)', ar: '"لا ضرر ولا ضِرار"', en: '"No harm and no reciprocal harm"' } },
+      { id: 'b', text: { fr: '"Les actes ne valent que par les intentions"', ar: '"إنما الأعمال بالنيات"', en: '"Actions are by intentions"' } },
+      { id: 'c', text: { fr: '"Le Halal est clair et le Haram est clair"', ar: '"الحلال بيّن والحرام بيّن"', en: '"Halal is clear and Haram is clear"' } },
+      { id: 'd', text: { fr: '"La religion est le bon conseil"', ar: '"الدين النصيحة"', en: '"Religion is sincere advice"' } },
+    ],
+    correctAnswer: 0,
+    explanation: {
+      fr: 'Ce hadith rapporté par Ibn Majah est un fondement majeur interdisant de nuire à autrui ou de se venger par un préjudice équivalent.',
+      ar: 'هذا الحديث الذي رواه ابن ماجه أصل عظيم يحرم الإضرار بالغير أو المقابلة بضرر مثله.',
+      en: 'This hadith reported by Ibn Majah is a major foundation prohibiting harming others or retaliating with equivalent harm.',
+    },
+    points: 2,
+    difficulty: 'medium',
+    category: 'principes',
+  },
+  {
+    id: 'muamalat-principes-003',
+    question: {
+      fr: 'Qu\'est-ce que le Rida (consentement mutuel) dans les contrats ?',
+      ar: 'ما هو الرضا في العقود؟',
+      en: 'What is Rida (mutual consent) in contracts?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Une formalité optionnelle', ar: 'شكلية اختيارية', en: 'An optional formality' } },
+      { id: 'b', text: { fr: 'La signature uniquement', ar: 'التوقيع فقط', en: 'Signature only' } },
+      { id: 'c', text: { fr: 'Le consentement libre des deux parties, condition de validité essentielle', ar: 'موافقة الطرفين الحرة، شرط أساسي للصحة', en: 'Free consent of both parties, essential validity condition' } },
+      { id: 'd', text: { fr: 'L\'accord du juge', ar: 'موافقة القاضي', en: 'Judge\'s agreement' } },
+    ],
+    correctAnswer: 2,
+    explanation: {
+      fr: 'Allah dit : "sauf s\'il s\'agit d\'un commerce par consentement mutuel" (4:29). Le Rida invalide la contrainte (Ikrah).',
+      ar: 'قال تعالى: "إِلَّا أَن تَكُونَ تِجَارَةً عَن تَرَاضٍ مِّنكُمْ" (النساء:29). والرضا ينفي الإكراه.',
+      en: 'Allah says: "except it be a trade by mutual consent" (4:29). Rida invalidates coercion (Ikrah).',
+    },
+    points: 2,
+    difficulty: 'medium',
+    category: 'principes',
+  },
+];
+
+// ============================================
+// Questions - Vente (Bay')
+// ============================================
+
+const venteQuestions: ExamQuestion[] = [
+  {
+    id: 'muamalat-vente-001',
+    question: {
+      fr: 'Quels sont les piliers (Arkan) essentiels d\'une vente valide ?',
+      ar: 'ما هي أركان البيع الصحيح؟',
+      en: 'What are the essential pillars (Arkan) of a valid sale?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Vendeur uniquement', ar: 'البائع فقط', en: 'Seller only' } },
+      { id: 'b', text: { fr: 'Le témoin seulement', ar: 'الشاهد فقط', en: 'Witness only' } },
+      { id: 'c', text: { fr: 'Le contrat écrit', ar: 'العقد المكتوب', en: 'Written contract' } },
+      { id: 'd', text: { fr: 'Contractants (vendeur, acheteur), objet (Mabi\'), prix (Thaman), formule (Sighah)', ar: 'العاقدان (بائع، مشتري)، المبيع، الثمن، الصيغة', en: 'Contracting parties (seller, buyer), object (Mabi\'), price (Thaman), formula (Sighah)' } },
+    ],
+    correctAnswer: 3,
+    explanation: {
+      fr: 'La vente requiert 4 éléments : 1) Deux contractants capables, 2) Un bien existant et possédé, 3) Un prix connu, 4) Une offre et acceptation.',
+      ar: 'يتطلب البيع 4 أركان: 1) عاقدان أهليان، 2) مبيع موجود مملوك، 3) ثمن معلوم، 4) إيجاب وقبول.',
+      en: 'A sale requires 4 elements: 1) Two capable contracting parties, 2) An existing owned good, 3) A known price, 4) Offer and acceptance.',
+    },
+    points: 2,
+    difficulty: 'easy',
+    category: 'vente',
+  },
+  {
+    id: 'muamalat-vente-002',
+    question: {
+      fr: 'Qu\'est-ce que le Khiyar (option de rétractation) dans la vente ?',
+      ar: 'ما هو الخيار في البيع؟',
+      en: 'What is Khiyar (option to withdraw) in a sale?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Une obligation de garder le bien', ar: 'وجوب الاحتفاظ بالسلعة', en: 'An obligation to keep the good' } },
+      { id: 'b', text: { fr: 'Le droit de valider ou annuler le contrat pendant une période', ar: 'حق إمضاء العقد أو فسخه خلال مدة', en: 'The right to validate or cancel the contract during a period' } },
+      { id: 'c', text: { fr: 'L\'augmentation du prix', ar: 'زيادة السعر', en: 'Price increase' } },
+      { id: 'd', text: { fr: 'La vente forcée', ar: 'البيع القسري', en: 'Forced sale' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Types de Khiyar : Khiyar al-Majlis (séance), Khiyar ash-Shart (condition), Khiyar al-\'Ayb (défaut). Le Prophète ﷺ a dit : "Les deux parties ont le choix tant qu\'ils ne se sont pas séparés."',
+      ar: 'أنواع الخيار: خيار المجلس، خيار الشرط، خيار العيب. قال ﷺ: "البيّعان بالخيار ما لم يتفرقا."',
+      en: 'Types of Khiyar: Khiyar al-Majlis (session), Khiyar ash-Shart (condition), Khiyar al-\'Ayb (defect). The Prophet ﷺ said: "The two parties have the choice as long as they haven\'t separated."',
+    },
+    points: 2,
+    difficulty: 'medium',
+    category: 'vente',
+  },
+  {
+    id: 'muamalat-vente-003',
+    question: {
+      fr: 'Qu\'est-ce que la vente Salam ?',
+      ar: 'ما هو بيع السَّلَم؟',
+      en: 'What is Salam sale?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Paiement anticipé pour livraison future d\'un bien décrit précisément', ar: 'دفع مقدم لتسليم مستقبلي لسلعة موصوفة بدقة', en: 'Advance payment for future delivery of a precisely described good' } },
+      { id: 'b', text: { fr: 'Vente au comptant immédiate', ar: 'بيع نقدي فوري', en: 'Immediate cash sale' } },
+      { id: 'c', text: { fr: 'Vente de biens inconnus', ar: 'بيع سلع مجهولة', en: 'Sale of unknown goods' } },
+      { id: 'd', text: { fr: 'Échange de monnaies', ar: 'صرف العملات', en: 'Currency exchange' } },
+    ],
+    correctAnswer: 0,
+    explanation: {
+      fr: 'Le Salam est une exception à l\'interdiction de vendre ce qu\'on ne possède pas. Le bien doit être décrit (quantité, qualité, délai) et le prix payé intégralement.',
+      ar: 'السَّلَم استثناء من تحريم بيع ما لا يُملك. يجب وصف السلعة (كمية، نوعية، أجل) ودفع الثمن كاملاً.',
+      en: 'Salam is an exception to the prohibition of selling what one doesn\'t own. The good must be described (quantity, quality, delay) and price fully paid.',
+    },
+    points: 3,
+    difficulty: 'hard',
+    category: 'vente',
+  },
+];
+
+// ============================================
+// Questions - Riba (Usure)
+// ============================================
+
+const ribaQuestions: ExamQuestion[] = [
+  {
+    id: 'muamalat-riba-001',
+    question: {
+      fr: 'Qu\'est-ce que le Riba ?',
+      ar: 'ما هو الربا؟',
+      en: 'What is Riba?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Un type de commerce licite', ar: 'نوع من التجارة المباحة', en: 'A type of permissible trade' } },
+      { id: 'b', text: { fr: 'Le profit commercial normal', ar: 'الربح التجاري العادي', en: 'Normal commercial profit' } },
+      { id: 'c', text: { fr: 'L\'excédent injustifié dans un échange, interdit par Allah', ar: 'الزيادة غير المبررة في التبادل، حرّمها الله', en: 'Unjustified excess in an exchange, forbidden by Allah' } },
+      { id: 'd', text: { fr: 'Une taxe gouvernementale', ar: 'ضريبة حكومية', en: 'A government tax' } },
+    ],
+    correctAnswer: 2,
+    explanation: {
+      fr: 'Allah dit : "Ils ont dit : Le commerce est comme le Riba. Or Allah a rendu licite le commerce et a interdit le Riba" (2:275). Le Riba est un péché majeur.',
+      ar: 'قال تعالى: "قَالُوا إِنَّمَا الْبَيْعُ مِثْلُ الرِّبَا وَأَحَلَّ اللَّهُ الْبَيْعَ وَحَرَّمَ الرِّبَا" (البقرة:275). والربا من الكبائر.',
+      en: 'Allah says: "They said: Trade is like Riba. But Allah has permitted trade and forbidden Riba" (2:275). Riba is a major sin.',
+    },
+    points: 2,
+    difficulty: 'easy',
+    category: 'riba',
+  },
+  {
+    id: 'muamalat-riba-002',
+    question: {
+      fr: 'Quels sont les deux types principaux de Riba ?',
+      ar: 'ما نوعا الربا الرئيسيان؟',
+      en: 'What are the two main types of Riba?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Riba Halal et Riba Haram', ar: 'ربا حلال وربا حرام', en: 'Halal Riba and Haram Riba' } },
+      { id: 'b', text: { fr: 'Riba petit et Riba grand', ar: 'ربا صغير وربا كبير', en: 'Small Riba and big Riba' } },
+      { id: 'c', text: { fr: 'Riba ancien et Riba moderne', ar: 'ربا قديم وربا حديث', en: 'Old Riba and new Riba' } },
+      { id: 'd', text: { fr: 'Riba al-Fadl (excédent) et Riba an-Nasi\'ah (délai)', ar: 'ربا الفضل وربا النسيئة', en: 'Riba al-Fadl (excess) and Riba an-Nasi\'ah (delay)' } },
+    ],
+    correctAnswer: 3,
+    explanation: {
+      fr: 'Riba al-Fadl : excédent dans l\'échange de biens ribawi identiques (or contre or avec différence). Riba an-Nasi\'ah : délai dans l\'échange ou intérêts sur prêts.',
+      ar: 'ربا الفضل: زيادة في تبادل أموال ربوية متجانسة (ذهب بذهب مع فرق). ربا النسيئة: تأخير في التبادل أو فوائد على القروض.',
+      en: 'Riba al-Fadl: excess in exchange of identical ribawi goods (gold for gold with difference). Riba an-Nasi\'ah: delay in exchange or interest on loans.',
+    },
+    points: 3,
+    difficulty: 'hard',
+    category: 'riba',
+  },
+  {
+    id: 'muamalat-riba-003',
+    question: {
+      fr: 'Quels sont les 6 biens "ribawi" mentionnés dans le hadith ?',
+      ar: 'ما الأصناف الستة الربوية المذكورة في الحديث؟',
+      en: 'What are the 6 "ribawi" items mentioned in the hadith?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Voitures, maisons, terrains, bateaux, avions, trains', ar: 'سيارات، منازل، أراضٍ، سفن، طائرات، قطارات', en: 'Cars, houses, lands, boats, planes, trains' } },
+      { id: 'b', text: { fr: 'Or, argent, blé, orge, dattes, sel', ar: 'الذهب، الفضة، البُر، الشعير، التمر، الملح', en: 'Gold, silver, wheat, barley, dates, salt' } },
+      { id: 'c', text: { fr: 'Eau, air, feu, terre, bois, pierre', ar: 'ماء، هواء، نار، تراب، خشب، حجر', en: 'Water, air, fire, earth, wood, stone' } },
+      { id: 'd', text: { fr: 'Vêtements, nourriture, logement, transport, santé, éducation', ar: 'ملابس، طعام، سكن، نقل، صحة، تعليم', en: 'Clothes, food, housing, transport, health, education' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Le Prophète ﷺ a dit : "L\'or contre l\'or, l\'argent contre l\'argent, le blé contre le blé... égal pour égal, main à main."',
+      ar: 'قال ﷺ: "الذهب بالذهب، والفضة بالفضة، والبُر بالبُر... مِثلاً بمِثل، يدًا بيد."',
+      en: 'The Prophet ﷺ said: "Gold for gold, silver for silver, wheat for wheat... equal for equal, hand to hand."',
+    },
+    points: 2,
+    difficulty: 'medium',
+    category: 'riba',
+  },
+  {
+    id: 'muamalat-riba-004',
+    question: {
+      fr: 'Les intérêts bancaires conventionnels sont-ils du Riba ?',
+      ar: 'هل الفوائد البنكية التقليدية ربا؟',
+      en: 'Are conventional bank interest rates Riba?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Oui, selon le consensus des savants contemporains', ar: 'نعم، حسب إجماع العلماء المعاصرين', en: 'Yes, according to the consensus of contemporary scholars' } },
+      { id: 'b', text: { fr: 'Non, car les banques sont modernes', ar: 'لا، لأن البنوك حديثة', en: 'No, because banks are modern' } },
+      { id: 'c', text: { fr: 'Seulement au-dessus de 10%', ar: 'فقط فوق 10%', en: 'Only above 10%' } },
+      { id: 'd', text: { fr: 'Ça dépend de l\'intention', ar: 'يعتمد على النية', en: 'It depends on intention' } },
+    ],
+    correctAnswer: 0,
+    explanation: {
+      fr: 'Les académies islamiques (Majma\' al-Fiqh, OCI) ont confirmé que tout intérêt prédéterminé sur prêt = Riba an-Nasi\'ah, peu importe le nom ou le taux.',
+      ar: 'أكدت المجامع الفقهية (مجمع الفقه، منظمة التعاون) أن كل فائدة محددة مسبقًا على قرض = ربا النسيئة، مهما كان الاسم أو النسبة.',
+      en: 'Islamic academies (Majma\' al-Fiqh, OIC) confirmed that any predetermined interest on loan = Riba an-Nasi\'ah, regardless of name or rate.',
+    },
+    points: 2,
+    difficulty: 'easy',
+    category: 'riba',
+  },
+];
+
+// ============================================
+// Questions - Contrats Islamiques
+// ============================================
+
+const contratsQuestions: ExamQuestion[] = [
+  {
+    id: 'muamalat-contrats-001',
+    question: {
+      fr: 'Qu\'est-ce que le contrat Mudaraba ?',
+      ar: 'ما هو عقد المضاربة؟',
+      en: 'What is a Mudaraba contract?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Un prêt avec intérêt', ar: 'قرض بفائدة', en: 'A loan with interest' } },
+      { id: 'b', text: { fr: 'Location de maison', ar: 'إيجار منزل', en: 'House rental' } },
+      { id: 'c', text: { fr: 'Partenariat où l\'un fournit le capital, l\'autre le travail ; profits partagés, pertes au capital', ar: 'شراكة يقدم أحدهما المال والآخر العمل؛ الربح مشترك والخسارة على رأس المال', en: 'Partnership where one provides capital, the other work; profits shared, losses on capital' } },
+      { id: 'd', text: { fr: 'Vente à crédit', ar: 'بيع بالتقسيط', en: 'Credit sale' } },
+    ],
+    correctAnswer: 2,
+    explanation: {
+      fr: 'Le Rabb al-Mal (bailleur) apporte le capital, le Mudarib (gestionnaire) son expertise. Le ratio des profits est convenu, les pertes sont sur le capital.',
+      ar: 'رب المال يقدم رأس المال، والمضارب يقدم خبرته. نسبة الأرباح متفق عليها، والخسائر على رأس المال.',
+      en: 'Rabb al-Mal (funder) brings capital, Mudarib (manager) his expertise. Profit ratio is agreed, losses are on the capital.',
+    },
+    points: 3,
+    difficulty: 'hard',
+    category: 'contrats',
+  },
+  {
+    id: 'muamalat-contrats-002',
+    question: {
+      fr: 'Qu\'est-ce que le contrat Musharaka ?',
+      ar: 'ما هو عقد المشاركة؟',
+      en: 'What is a Musharaka contract?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Un monopole', ar: 'احتكار', en: 'A monopoly' } },
+      { id: 'b', text: { fr: 'Donation', ar: 'هبة', en: 'Donation' } },
+      { id: 'c', text: { fr: 'Héritage', ar: 'ميراث', en: 'Inheritance' } },
+      { id: 'd', text: { fr: 'Partenariat où tous apportent capital et/ou travail ; profits et pertes selon les parts', ar: 'شراكة يساهم فيها الجميع برأس مال و/أو عمل؛ أرباح وخسائر حسب الحصص', en: 'Partnership where all contribute capital and/or work; profits and losses according to shares' } },
+    ],
+    correctAnswer: 3,
+    explanation: {
+      fr: 'Contrairement à Mudaraba, dans Musharaka tous les partenaires peuvent contribuer au capital ET au travail. C\'est un partenariat équitable.',
+      ar: 'على خلاف المضاربة، في المشاركة يمكن لجميع الشركاء المساهمة برأس المال والعمل. وهي شراكة عادلة.',
+      en: 'Unlike Mudaraba, in Musharaka all partners can contribute capital AND work. It\'s an equitable partnership.',
+    },
+    points: 2,
+    difficulty: 'medium',
+    category: 'contrats',
+  },
+  {
+    id: 'muamalat-contrats-003',
+    question: {
+      fr: 'Qu\'est-ce que le contrat Ijara ?',
+      ar: 'ما هو عقد الإجارة؟',
+      en: 'What is an Ijara contract?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Vente définitive', ar: 'بيع نهائي', en: 'Final sale' } },
+      { id: 'b', text: { fr: 'Location (d\'un bien ou d\'un service) contre un loyer déterminé', ar: 'إيجار (لعين أو خدمة) مقابل أجرة معلومة', en: 'Rental (of a good or service) for a determined rent' } },
+      { id: 'c', text: { fr: 'Don gratuit', ar: 'هبة مجانية', en: 'Free gift' } },
+      { id: 'd', text: { fr: 'Prêt d\'argent', ar: 'قرض مال', en: 'Money loan' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Ijara : le propriétaire (Mu\'jir) loue l\'usufruit au locataire (Musta\'jir). Le bien reste propriété du bailleur. Variante : Ijara wa Iqtina (location-vente).',
+      ar: 'الإجارة: المؤجر يؤجر المنفعة للمستأجر. العين تبقى ملكًا للمؤجر. ومنها: الإجارة المنتهية بالتمليك.',
+      en: 'Ijara: owner (Mu\'jir) rents usufruct to tenant (Musta\'jir). Good remains owner\'s property. Variant: Ijara wa Iqtina (lease-to-own).',
+    },
+    points: 2,
+    difficulty: 'medium',
+    category: 'contrats',
+  },
+  {
+    id: 'muamalat-contrats-004',
+    question: {
+      fr: 'Qu\'est-ce que la Murabaha ?',
+      ar: 'ما هي المرابحة؟',
+      en: 'What is Murabaha?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Vente avec déclaration du coût d\'achat + marge de profit connue', ar: 'بيع مع بيان ثمن الشراء + هامش ربح معلوم', en: 'Sale with disclosure of purchase cost + known profit margin' } },
+      { id: 'b', text: { fr: 'Vente à perte', ar: 'بيع بخسارة', en: 'Sale at loss' } },
+      { id: 'c', text: { fr: 'Échange sans argent', ar: 'تبادل بدون مال', en: 'Exchange without money' } },
+      { id: 'd', text: { fr: 'Prêt à intérêt', ar: 'قرض بفائدة', en: 'Interest loan' } },
+    ],
+    correctAnswer: 0,
+    explanation: {
+      fr: 'La banque achète le bien, le possède réellement, puis le vend au client avec une marge déclarée. C\'est différent d\'un prêt car il y a possession réelle.',
+      ar: 'البنك يشتري السلعة ويمتلكها فعليًا، ثم يبيعها للعميل بهامش معلن. تختلف عن القرض لوجود التملك الحقيقي.',
+      en: 'Bank buys the good, actually owns it, then sells it to client with declared margin. Different from loan because of real ownership.',
+    },
+    points: 3,
+    difficulty: 'hard',
+    category: 'contrats',
+  },
+];
+
+// ============================================
+// Questions - Interdictions Commerciales
+// ============================================
+
+const interdictionsQuestions: ExamQuestion[] = [
+  {
+    id: 'muamalat-interdit-001',
+    question: {
+      fr: 'Qu\'est-ce que le Gharar ?',
+      ar: 'ما هو الغرر؟',
+      en: 'What is Gharar?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Un profit normal', ar: 'ربح عادي', en: 'Normal profit' } },
+      { id: 'b', text: { fr: 'Une garantie', ar: 'ضمان', en: 'A warranty' } },
+      { id: 'c', text: { fr: 'L\'incertitude excessive, le risque inconnu, l\'aléa dans le contrat', ar: 'الجهالة الفاحشة والمخاطرة المجهولة في العقد', en: 'Excessive uncertainty, unknown risk, hazard in contract' } },
+      { id: 'd', text: { fr: 'Un contrat écrit', ar: 'عقد مكتوب', en: 'Written contract' } },
+    ],
+    correctAnswer: 2,
+    explanation: {
+      fr: 'Le Prophète ﷺ a interdit la vente avec Gharar. Ex: vendre le poisson dans l\'eau avant de le pêcher, vendre les fruits avant maturation.',
+      ar: 'نهى النبي ﷺ عن بيع الغرر. مثال: بيع السمك في الماء قبل صيده، بيع الثمار قبل نضجها.',
+      en: 'The Prophet ﷺ forbade sale with Gharar. Ex: selling fish in water before catching, selling fruits before ripening.',
+    },
+    points: 2,
+    difficulty: 'medium',
+    category: 'interdictions',
+  },
+  {
+    id: 'muamalat-interdit-002',
+    question: {
+      fr: 'Qu\'est-ce que le Maysir (jeu de hasard) ?',
+      ar: 'ما هو الميسر (القمار)؟',
+      en: 'What is Maysir (gambling)?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Un commerce halal', ar: 'تجارة حلال', en: 'Halal commerce' } },
+      { id: 'b', text: { fr: 'L\'investissement', ar: 'الاستثمار', en: 'Investment' } },
+      { id: 'c', text: { fr: 'Le travail salarié', ar: 'العمل المأجور', en: 'Salaried work' } },
+      { id: 'd', text: { fr: 'Toute transaction où le gain dépend du hasard, créant des gagnants et perdants', ar: 'كل معاملة يتوقف الربح فيها على الحظ، فتنتج رابحين وخاسرين', en: 'Any transaction where gain depends on chance, creating winners and losers' } },
+    ],
+    correctAnswer: 3,
+    explanation: {
+      fr: 'Allah dit : "Le vin, le Maysir... sont une abomination, œuvre du Diable. Écartez-vous en" (5:90). Loteries, paris, spéculation pure sont Haram.',
+      ar: 'قال تعالى: "الخمر والميسر... رجس من عمل الشيطان فاجتنبوه" (المائدة:90). اليانصيب والرهان والمضاربة المحضة حرام.',
+      en: 'Allah says: "Wine, Maysir... are an abomination, Satan\'s work. Avoid them" (5:90). Lotteries, betting, pure speculation are Haram.',
+    },
+    points: 2,
+    difficulty: 'easy',
+    category: 'interdictions',
+  },
+  {
+    id: 'muamalat-interdit-003',
+    question: {
+      fr: 'Qu\'est-ce que l\'Ihtikar (monopole abusif) ?',
+      ar: 'ما هو الاحتكار؟',
+      en: 'What is Ihtikar (hoarding/monopoly)?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Vendre à bas prix', ar: 'البيع بسعر منخفض', en: 'Selling at low price' } },
+      { id: 'b', text: { fr: 'Stocker des produits essentiels pour créer une pénurie et augmenter les prix', ar: 'تخزين السلع الأساسية لإحداث ندرة ورفع الأسعار', en: 'Hoarding essential goods to create scarcity and raise prices' } },
+      { id: 'c', text: { fr: 'Acheter en gros', ar: 'الشراء بالجملة', en: 'Buying wholesale' } },
+      { id: 'd', text: { fr: 'Vendre à l\'étranger', ar: 'البيع للخارج', en: 'Selling abroad' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Le Prophète ﷺ a dit : "Celui qui fait l\'Ihtikar est un pécheur." (Muslim). Cela nuit à la communauté en privant les gens de nécessités.',
+      ar: 'قال ﷺ: "المحتكر خاطئ." (مسلم). وهذا يضر بالمجتمع بحرمان الناس من الضروريات.',
+      en: 'The Prophet ﷺ said: "The one who hoards is a sinner." (Muslim). This harms society by depriving people of necessities.',
+    },
+    points: 2,
+    difficulty: 'medium',
+    category: 'interdictions',
+  },
+  {
+    id: 'muamalat-interdit-004',
+    question: {
+      fr: 'La vente de ce qui est intrinsèquement Haram est-elle permise ?',
+      ar: 'هل يجوز بيع ما هو حرام بذاته؟',
+      en: 'Is selling what is intrinsically Haram permitted?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Non, le Prophète ﹠ a interdit la vente du vin, des idoles, du porc, des cadavres', ar: 'لا، حرّم النبي ﹠ بيع الخمر والأصنام والخنزير والميتة', en: 'No, the Prophet ﹠ forbade selling wine, idols, pork, dead animals' } },
+      { id: 'b', text: { fr: 'Oui, si le profit va à la charité', ar: 'نعم، إذا ذهب الربح للصدقة', en: 'Yes, if profit goes to charity' } },
+      { id: 'c', text: { fr: 'Seulement aux non-musulmans', ar: 'فقط لغير المسلمين', en: 'Only to non-Muslims' } },
+      { id: 'd', text: { fr: 'Oui en petites quantités', ar: 'نعم بكميات صغيرة', en: 'Yes in small quantities' } },
+    ],
+    correctAnswer: 0,
+    explanation: {
+      fr: '"Quand Allah interdit quelque chose, Il en interdit aussi le prix." Cela inclut alcool, drogues, porc, objets d\'idolâtrie.',
+      ar: '"إذا حرّم الله شيئًا حرّم ثمنه." ويشمل ذلك الخمر والمخدرات والخنزير وأدوات العبادة لغير الله.',
+      en: '"When Allah forbids something, He also forbids its price." This includes alcohol, drugs, pork, objects of idolatry.',
+    },
+    points: 2,
+    difficulty: 'easy',
+    category: 'interdictions',
+  },
+];
+
+// ============================================
+// Questions - Finance Islamique Moderne
+// ============================================
+
+const financeModerneQuestions: ExamQuestion[] = [
+  {
+    id: 'muamalat-finance-001',
+    question: {
+      fr: 'Qu\'est-ce qu\'un Sukuk ?',
+      ar: 'ما هي الصكوك؟',
+      en: 'What is a Sukuk?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Une obligation conventionnelle avec intérêt', ar: 'سند تقليدي بفائدة', en: 'Conventional bond with interest' } },
+      { id: 'b', text: { fr: 'Monnaie électronique', ar: 'عملة إلكترونية', en: 'Electronic currency' } },
+      { id: 'c', text: { fr: 'Certificat d\'investissement représentant une part dans un actif réel', ar: 'شهادة استثمار تمثل حصة في أصل حقيقي', en: 'Investment certificate representing a share in a real asset' } },
+      { id: 'd', text: { fr: 'Compte épargne', ar: 'حساب توفير', en: 'Savings account' } },
+    ],
+    correctAnswer: 2,
+    explanation: {
+      fr: 'Contrairement aux obligations classiques basées sur l\'intérêt, les Sukuk représentent une propriété dans un actif tangible. Le rendement vient de l\'actif, non d\'un intérêt.',
+      ar: 'على خلاف السندات التقليدية القائمة على الفائدة، تمثل الصكوك ملكية في أصل ملموس. العائد من الأصل لا من فائدة.',
+      en: 'Unlike classical bonds based on interest, Sukuk represent ownership in a tangible asset. Return comes from the asset, not from interest.',
+    },
+    points: 3,
+    difficulty: 'hard',
+    category: 'finance-moderne',
+  },
+  {
+    id: 'muamalat-finance-002',
+    question: {
+      fr: 'Qu\'est-ce que le Takaful ?',
+      ar: 'ما هو التكافل؟',
+      en: 'What is Takaful?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Assurance conventionnelle', ar: 'تأمين تقليدي', en: 'Conventional insurance' } },
+      { id: 'b', text: { fr: 'Prêt bancaire', ar: 'قرض بنكي', en: 'Bank loan' } },
+      { id: 'c', text: { fr: 'Jeu de hasard', ar: 'قمار', en: 'Gambling' } },
+      { id: 'd', text: { fr: 'Assurance islamique basée sur la solidarité mutuelle et le partage des risques', ar: 'تأمين إسلامي قائم على التعاون والتضامن وتقاسم المخاطر', en: 'Islamic insurance based on mutual solidarity and risk sharing' } },
+    ],
+    correctAnswer: 3,
+    explanation: {
+      fr: 'Takaful évite le Gharar et le Riba de l\'assurance classique. Les participants contribuent à un fonds commun ; l\'excédent est redistribué ou donné en charité.',
+      ar: 'التكافل يتجنب الغرر والربا في التأمين التقليدي. المشتركون يساهمون في صندوق مشترك؛ والفائض يُوزع أو يُتصدق به.',
+      en: 'Takaful avoids Gharar and Riba of classical insurance. Participants contribute to common fund; surplus is redistributed or given to charity.',
+    },
+    points: 3,
+    difficulty: 'hard',
+    category: 'finance-moderne',
+  },
+];
+
+// ============================================
+// Assemblage de l'examen COMPLET
+// ============================================
+
+const allQuestions: ExamQuestion[] = [
+  ...principesQuestions,       // 3 questions
+  ...venteQuestions,           // 3 questions
+  ...ribaQuestions,            // 4 questions
+  ...contratsQuestions,        // 4 questions
+  ...interdictionsQuestions,   // 4 questions
+  ...financeModerneQuestions,  // 2 questions
+  // Total : 20 questions
+];
+
+export const examFiqhMuamalatFinal: ExamConfig = {
+  id: 'exam-fiqh-muamalat-final',
+  type: 'course',
+  level: 'advanced',
+  title: {
+    fr: 'Examen Complet - Fiqh Muamalat',
+    ar: 'الامتحان الشامل - فقه المعاملات',
+    en: 'Complete Exam - Fiqh Muamalat',
+  },
+  description: {
+    fr: 'Examen de 16 questions sélectionnées aléatoirement parmi une banque de 20 questions. Couvre les transactions islamiques.',
+    ar: 'امتحان من 16 سؤالاً يتم اختيارها عشوائياً من بنك يضم 20 سؤالاً. يغطي المعاملات الإسلامية.',
+    en: 'Exam with 16 questions randomly selected from a pool of 20. Covers Islamic transactions.',
+  },
+  instructions: {
+    fr: 'Vous avez 25 minutes pour répondre à 16 questions. Chaque question a une seule bonne réponse. Un score de 70% est requis pour réussir.',
+    ar: 'لديك 25 دقيقة للإجابة على 16 سؤالاً. لكل سؤال إجابة صحيحة واحدة. يُشترط 70% للنجاح.',
+    en: 'You have 25 minutes to answer 16 questions. Each question has one correct answer. A score of 70% is required to pass.',
+  },
+  courseSlug: 'fiqh-muamalat',
+  questionPool: allQuestions,
+  questionsPerExam: 16,
+  categoryConfig: [
+    { category: 'principes', count: 2 },
+    { category: 'vente', count: 3 },
+    { category: 'riba', count: 3 },
+    { category: 'contrats', count: 3 },
+    { category: 'interdictions', count: 3 },
+    { category: 'finance-moderne', count: 2 },
+  ],
+  questions: [],
+  duration: 25,
+  passingScore: 70,
+  maxAttempts: 5,
+  shuffleQuestions: true,
+  shuffleOptions: true,
+  showAnswersAfter: 'complete',
+  hasCertificate: true,
+  certificateName: {
+    fr: 'Certificat de Maîtrise - Fiqh Muamalat',
+    ar: 'شهادة الإتقان - فقه المعاملات',
+    en: 'Mastery Certificate - Fiqh Muamalat',
+  },
+  createdAt: '2026-01-31',
+};
+
+export default examFiqhMuamalatFinal;
