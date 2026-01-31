@@ -30,11 +30,11 @@ export const jumuaQuestions: ExamQuestion[] = [
     },
     options: [
       { id: 'a', text: { fr: 'Oui, pour tous sans exception', ar: 'نعم، للجميع بلا استثناء', en: 'Yes, for everyone without exception' } },
-      { id: 'b', text: { fr: 'Obligatoire pour les hommes adultes résidents, pas pour les femmes, enfants, voyageurs et malades', ar: 'واجبة على الرجال البالغين المقيمين، لا على النساء والأطفال والمسافرين والمرضى', en: 'Obligatory for adult resident men, not for women, children, travelers and sick' } },
-      { id: 'c', text: { fr: 'Seulement recommandée (sunna)', ar: 'سنة مستحبة فقط', en: 'Only recommended (sunna)' } },
+      { id: 'b', text: { fr: 'Seulement recommandée (sunna)', ar: 'سنة مستحبة فقط', en: 'Only recommended (sunna)' } },
+      { id: 'c', text: { fr: 'Obligatoire pour les hommes adultes résidents, pas pour les femmes, enfants, voyageurs et malades', ar: 'واجبة على الرجال البالغين المقيمين، لا على النساء والأطفال والمسافرين والمرضى', en: 'Obligatory for adult resident men, not for women, children, travelers and sick' } },
       { id: 'd', text: { fr: 'Obligatoire uniquement pour les imams', ar: 'واجبة على الأئمة فقط', en: 'Obligatory only for imams' } },
     ],
-    correctAnswer: 1,
+    correctAnswer: 2,
     explanation: {
       fr: 'La Jumu\'a est fard \'ayn pour les hommes musulmans adultes, libres, résidents et en bonne santé. Les femmes peuvent y assister mais ce n\'est pas obligatoire pour elles.',
       ar: 'الجمعة فرض عين على الرجال المسلمين البالغين الأحرار المقيمين الأصحاء. للنساء الحضور لكنها ليست واجبة عليهن.',
@@ -52,12 +52,12 @@ export const jumuaQuestions: ExamQuestion[] = [
       en: 'How many rakaat does the Friday prayer have?',
     },
     options: [
-      { id: 'a', text: { fr: '4 rakaat comme Dhuhr', ar: '4 ركعات كالظهر', en: '4 rakaat like Dhuhr' } },
-      { id: 'b', text: { fr: '2 rakaat', ar: 'ركعتان', en: '2 rakaat' } },
+      { id: 'a', text: { fr: '2 rakaat', ar: 'ركعتان', en: '2 rakaat' } },
+      { id: 'b', text: { fr: '4 rakaat comme Dhuhr', ar: '4 ركعات كالظهر', en: '4 rakaat like Dhuhr' } },
       { id: 'c', text: { fr: '3 rakaat', ar: '3 ركعات', en: '3 rakaat' } },
       { id: 'd', text: { fr: '1 rakat avec un long sujud', ar: 'ركعة واحدة بسجود طويل', en: '1 rakat with long sujud' } },
     ],
-    correctAnswer: 1,
+    correctAnswer: 0,
     explanation: {
       fr: 'La prière du vendredi comporte 2 rakaat précédées de deux khutbah (sermons). Elle remplace la prière de Dhuhr ce jour-là.',
       ar: 'صلاة الجمعة ركعتان تسبقهما خطبتان. وهي تحل محل صلاة الظهر في ذلك اليوم.',
@@ -99,11 +99,11 @@ export const jumuaQuestions: ExamQuestion[] = [
     },
     options: [
       { id: 'a', text: { fr: 'S\'asseoir directement et écouter', ar: 'يجلس مباشرة ويستمع', en: 'Sit directly and listen' } },
-      { id: 'b', text: { fr: 'Prier deux rakaat légères (tahiyyat al-masjid) puis s\'asseoir', ar: 'يصلي ركعتين خفيفتين (تحية المسجد) ثم يجلس', en: 'Pray two light rakaat (tahiyyat al-masjid) then sit' } },
+      { id: 'b', text: { fr: 'Saluer les gens autour de lui', ar: 'يسلم على من حوله', en: 'Greet people around him' } },
       { id: 'c', text: { fr: 'Attendre dehors que la khutbah finisse', ar: 'ينتظر خارجاً حتى تنتهي الخطبة', en: 'Wait outside until khutbah ends' } },
-      { id: 'd', text: { fr: 'Saluer les gens autour de lui', ar: 'يسلم على من حوله', en: 'Greet people around him' } },
+      { id: 'd', text: { fr: 'Prier deux rakaat légères (tahiyyat al-masjid) puis s\'asseoir', ar: 'يصلي ركعتين خفيفتين (تحية المسجد) ثم يجلس', en: 'Pray two light rakaat (tahiyyat al-masjid) then sit' } },
     ],
-    correctAnswer: 1,
+    correctAnswer: 3,
     explanation: {
       fr: 'Le Prophète ﷺ a dit à celui qui s\'est assis sans prier : "Lève-toi et prie deux rakaat, et fais-les légères."',
       ar: 'قال النبي ﷺ لمن جلس دون أن يصلي: "قم فصل ركعتين وتجوز فيهما."',
@@ -152,11 +152,11 @@ export const janazaQuestions: ExamQuestion[] = [
     },
     options: [
       { id: 'a', text: { fr: 'Obligatoire pour chaque musulman (fard \'ayn)', ar: 'فرض عين على كل مسلم', en: 'Obligatory for every Muslim (fard \'ayn)' } },
-      { id: 'b', text: { fr: 'Obligation communautaire (fard kifaya)', ar: 'فرض كفاية', en: 'Communal obligation (fard kifaya)' } },
-      { id: 'c', text: { fr: 'Sunna mu\'akkada', ar: 'سنة مؤكدة', en: 'Confirmed sunna' } },
+      { id: 'b', text: { fr: 'Sunna mu\'akkada', ar: 'سنة مؤكدة', en: 'Confirmed sunna' } },
+      { id: 'c', text: { fr: 'Obligation communautaire (fard kifaya)', ar: 'فرض كفاية', en: 'Communal obligation (fard kifaya)' } },
       { id: 'd', text: { fr: 'Recommandée (mustahabb)', ar: 'مستحبة', en: 'Recommended (mustahabb)' } },
     ],
-    correctAnswer: 1,
+    correctAnswer: 2,
     explanation: {
       fr: 'La prière funéraire est fard kifaya : si un groupe suffisant l\'accomplit, l\'obligation est levée pour les autres.',
       ar: 'صلاة الجنازة فرض كفاية: إذا قام بها من يكفي سقطت عن الباقين.',
@@ -197,12 +197,12 @@ export const janazaQuestions: ExamQuestion[] = [
       en: 'Does the funeral prayer include ruku\' and sujud?',
     },
     options: [
-      { id: 'a', text: { fr: 'Oui, comme toute prière', ar: 'نعم، كأي صلاة', en: 'Yes, like any prayer' } },
-      { id: 'b', text: { fr: 'Non, elle se fait entièrement debout', ar: 'لا، تُؤدى قياماً بالكامل', en: 'No, it is performed entirely standing' } },
+      { id: 'a', text: { fr: 'Non, elle se fait entièrement debout', ar: 'لا، تُؤدى قياماً بالكامل', en: 'No, it is performed entirely standing' } },
+      { id: 'b', text: { fr: 'Oui, comme toute prière', ar: 'نعم، كأي صلاة', en: 'Yes, like any prayer' } },
       { id: 'c', text: { fr: 'Seulement le ruku\'', ar: 'الركوع فقط', en: 'Only ruku\'' } },
       { id: 'd', text: { fr: 'Seulement le sujud', ar: 'السجود فقط', en: 'Only sujud' } },
     ],
-    correctAnswer: 1,
+    correctAnswer: 0,
     explanation: {
       fr: 'La prière funéraire ne comporte ni ruku\' ni sujud. Elle se fait entièrement debout avec les 4 takbirat.',
       ar: 'صلاة الجنازة ليس فيها ركوع ولا سجود. تُؤدى قياماً بالكامل مع 4 تكبيرات.',
@@ -221,11 +221,11 @@ export const janazaQuestions: ExamQuestion[] = [
     },
     options: [
       { id: 'a', text: { fr: 'Au niveau de la tête', ar: 'عند الرأس', en: 'At the head' } },
-      { id: 'b', text: { fr: 'Au niveau de la poitrine/milieu du corps', ar: 'عند الصدر/وسط الجسد', en: 'At the chest/middle of body' } },
+      { id: 'b', text: { fr: 'N\'importe où', ar: 'في أي مكان', en: 'Anywhere' } },
       { id: 'c', text: { fr: 'Au niveau des pieds', ar: 'عند القدمين', en: 'At the feet' } },
-      { id: 'd', text: { fr: 'N\'importe où', ar: 'في أي مكان', en: 'Anywhere' } },
+      { id: 'd', text: { fr: 'Au niveau de la poitrine/milieu du corps', ar: 'عند الصدر/وسط الجسد', en: 'At the chest/middle of body' } },
     ],
-    correctAnswer: 1,
+    correctAnswer: 3,
     explanation: {
       fr: 'L\'imam se place au niveau de la poitrine pour l\'homme et au niveau du milieu du corps pour la femme selon la sunna.',
       ar: 'يقف الإمام عند صدر الرجل ووسط المرأة حسب السنة.',
@@ -273,12 +273,12 @@ export const eidQuestions: ExamQuestion[] = [
       en: 'How many extra takbirat are there in each rakat of Eid prayer?',
     },
     options: [
-      { id: 'a', text: { fr: '3 dans la première, 3 dans la deuxième', ar: '3 في الأولى، 3 في الثانية', en: '3 in the first, 3 in the second' } },
-      { id: 'b', text: { fr: '7 dans la première (après takbirat al-ihram), 5 dans la deuxième', ar: '7 في الأولى (بعد تكبيرة الإحرام)، 5 في الثانية', en: '7 in the first (after takbirat al-ihram), 5 in the second' } },
+      { id: 'a', text: { fr: '7 dans la première (après takbirat al-ihram), 5 dans la deuxième', ar: '7 في الأولى (بعد تكبيرة الإحرام)، 5 في الثانية', en: '7 in the first (after takbirat al-ihram), 5 in the second' } },
+      { id: 'b', text: { fr: '3 dans la première, 3 dans la deuxième', ar: '3 في الأولى، 3 في الثانية', en: '3 in the first, 3 in the second' } },
       { id: 'c', text: { fr: '5 dans la première, 7 dans la deuxième', ar: '5 في الأولى، 7 في الثانية', en: '5 in the first, 7 in the second' } },
       { id: 'd', text: { fr: 'Pas de takbirat supplémentaires', ar: 'لا تكبيرات زائدة', en: 'No extra takbirat' } },
     ],
-    correctAnswer: 1,
+    correctAnswer: 0,
     explanation: {
       fr: 'Selon la majorité : 7 takbirat dans la 1ère rakat (après takbirat al-ihram et avant la récitation), et 5 dans la 2ème (après s\'être relevé).',
       ar: 'عند الجمهور: 7 تكبيرات في الركعة الأولى (بعد تكبيرة الإحرام وقبل القراءة)، و5 في الثانية (بعد القيام).',
@@ -502,11 +502,11 @@ export const musafirQuestions: ExamQuestion[] = [
     },
     options: [
       { id: 'a', text: { fr: 'Prier plus vite', ar: 'الصلاة بسرعة', en: 'Praying faster' } },
-      { id: 'b', text: { fr: 'Réduire les prières de 4 rakaat à 2 rakaat en voyage', ar: 'تقليل الصلوات ذات 4 ركعات إلى ركعتين في السفر', en: 'Reducing 4 rakaat prayers to 2 rakaat during travel' } },
-      { id: 'c', text: { fr: 'Combiner deux prières', ar: 'الجمع بين صلاتين', en: 'Combining two prayers' } },
+      { id: 'b', text: { fr: 'Combiner deux prières', ar: 'الجمع بين صلاتين', en: 'Combining two prayers' } },
+      { id: 'c', text: { fr: 'Réduire les prières de 4 rakaat à 2 rakaat en voyage', ar: 'تقليل الصلوات ذات 4 ركعات إلى ركعتين في السفر', en: 'Reducing 4 rakaat prayers to 2 rakaat during travel' } },
       { id: 'd', text: { fr: 'Prier assis', ar: 'الصلاة جالساً', en: 'Praying seated' } },
     ],
-    correctAnswer: 1,
+    correctAnswer: 2,
     explanation: {
       fr: 'Le Qasr est de raccourcir les prières de Dhuhr, Asr et Isha de 4 à 2 rakaat. Fajr (2) et Maghrib (3) ne sont pas raccourcies.',
       ar: 'القصر هو تقليل الظهر والعصر والعشاء من 4 إلى 2 ركعة. الفجر (2) والمغرب (3) لا تُقصران.',
@@ -525,11 +525,11 @@ export const musafirQuestions: ExamQuestion[] = [
     },
     options: [
       { id: 'a', text: { fr: 'Fusionner deux prières en une seule', ar: 'دمج صلاتين في واحدة', en: 'Merging two prayers into one' } },
-      { id: 'b', text: { fr: 'Prier deux prières successivement dans le temps de l\'une d\'elles', ar: 'صلاة صلاتين متتاليتين في وقت إحداهما', en: 'Praying two prayers successively in the time of one of them' } },
+      { id: 'b', text: { fr: 'Prier en groupe', ar: 'الصلاة جماعة', en: 'Praying in congregation' } },
       { id: 'c', text: { fr: 'Prier avec la famille', ar: 'الصلاة مع العائلة', en: 'Praying with family' } },
-      { id: 'd', text: { fr: 'Prier en groupe', ar: 'الصلاة جماعة', en: 'Praying in congregation' } },
+      { id: 'd', text: { fr: 'Prier deux prières successivement dans le temps de l\'une d\'elles', ar: 'صلاة صلاتين متتاليتين في وقت إحداهما', en: 'Praying two prayers successively in the time of one of them' } },
     ],
-    correctAnswer: 1,
+    correctAnswer: 3,
     explanation: {
       fr: 'Le Jam\' est de combiner Dhuhr+Asr ou Maghrib+Isha dans le temps de l\'une des deux, chacune complète avec son adhan et iqama.',
       ar: 'الجمع هو صلاة الظهر والعصر أو المغرب والعشاء في وقت إحداهما، كل منهما كاملة بأذانها وإقامتها.',
@@ -547,12 +547,12 @@ export const musafirQuestions: ExamQuestion[] = [
       en: 'What is the minimum distance to shorten prayer according to Malikis?',
     },
     options: [
-      { id: 'a', text: { fr: 'N\'importe quelle distance', ar: 'أي مسافة', en: 'Any distance' } },
-      { id: 'b', text: { fr: 'Environ 80-90 km (4 burud)', ar: 'حوالي 80-90 كم (4 بُرُد)', en: 'About 80-90 km (4 burud)' } },
+      { id: 'a', text: { fr: 'Environ 80-90 km (4 burud)', ar: 'حوالي 80-90 كم (4 بُرُد)', en: 'About 80-90 km (4 burud)' } },
+      { id: 'b', text: { fr: 'N\'importe quelle distance', ar: 'أي مسافة', en: 'Any distance' } },
       { id: 'c', text: { fr: '30 km', ar: '30 كم', en: '30 km' } },
       { id: 'd', text: { fr: '150 km', ar: '150 كم', en: '150 km' } },
     ],
-    correctAnswer: 1,
+    correctAnswer: 0,
     explanation: {
       fr: 'Les 4 écoles s\'accordent sur environ 80-90 km (4 burud ou 16 farsakh) comme distance minimale pour le Qasr.',
       ar: 'تتفق المذاهب الأربعة على حوالي 80-90 كم (4 بُرُد أو 16 فرسخاً) كأدنى مسافة للقصر.',
@@ -624,11 +624,11 @@ export const maridQuestions: ExamQuestion[] = [
     },
     options: [
       { id: 'a', text: { fr: 'La prière est dispensée', ar: 'تسقط عنه الصلاة', en: 'Prayer is waived' } },
-      { id: 'b', text: { fr: 'Assis, puis couché si nécessaire, puis par signes', ar: 'جالساً، ثم مستلقياً إن لزم، ثم بالإشارة', en: 'Sitting, then lying if needed, then by gestures' } },
-      { id: 'c', text: { fr: 'Uniquement en retard jusqu\'à guérison', ar: 'بالتأخير فقط حتى الشفاء', en: 'Only delayed until recovery' } },
+      { id: 'b', text: { fr: 'Uniquement en retard jusqu\'à guérison', ar: 'بالتأخير فقط حتى الشفاء', en: 'Only delayed until recovery' } },
+      { id: 'c', text: { fr: 'Assis, puis couché si nécessaire, puis par signes', ar: 'جالساً، ثم مستلقياً إن لزم، ثم بالإشارة', en: 'Sitting, then lying if needed, then by gestures' } },
       { id: 'd', text: { fr: 'Quelqu\'un d\'autre prie à sa place', ar: 'يصلي عنه غيره', en: 'Someone else prays for him' } },
     ],
-    correctAnswer: 1,
+    correctAnswer: 2,
     explanation: {
       fr: 'Le Prophète ﷺ a dit : "Prie debout, si tu ne peux pas alors assis, si tu ne peux pas alors sur le côté."',
       ar: 'قال النبي ﷺ: "صل قائماً، فإن لم تستطع فقاعداً، فإن لم تستطع فعلى جنب."',
