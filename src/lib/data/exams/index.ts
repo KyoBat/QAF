@@ -16,6 +16,7 @@
  * - Fiqh Muamalat COMPLET : 20 questions, 16 par examen (transactions)
  * - Fiqh Famille COMPLET : 19 questions, 15 par examen (droit familial)
  * - Histoire 4 Imams COMPLET : 24 questions, 20 par examen (biographies)
+ * - PLACEMENT GLOBAL : 316 questions pool, 80 par examen (toutes matières)
  */
 
 // Types
@@ -43,6 +44,10 @@ export { examFiqhFamilleFinal } from './fiqh-famille/exam-fiqh-famille-final';
 // Examens par cours - Histoire
 export { examHistoryImamsFinal } from './history/exam-history-imams-final';
 
+// Examen de placement global
+export { examPlacementGlobal, calculatePlacementResult } from './placement/exam-placement-global';
+export type { PlacementResult } from './placement/exam-placement-global';
+
 // Import pour le registre
 import { examSalatFinal } from './salat/exam-salat-final';
 import { examSiyamFinal } from './siyam/exam-siyam-final';
@@ -55,6 +60,7 @@ import { examUsulFiqhFinal } from './usul-fiqh/exam-usul-fiqh-final';
 import { examFiqhMuamalatFinal } from './fiqh-muamalat/exam-fiqh-muamalat-final';
 import { examFiqhFamilleFinal } from './fiqh-famille/exam-fiqh-famille-final';
 import { examHistoryImamsFinal } from './history/exam-history-imams-final';
+import { examPlacementGlobal } from './placement/exam-placement-global';
 import { ExamConfig, ExamLevel, ExamType } from './types';
 
 // Registre de tous les examens
@@ -74,6 +80,8 @@ const allExams: ExamConfig[] = [
   examFiqhFamilleFinal,  // Examen complet Famille (19 questions → 15 par examen)
   // Histoire
   examHistoryImamsFinal, // Examen complet 4 Imams (24 questions → 20 par examen)
+  // Placement Global
+  examPlacementGlobal,   // Examen de placement (316 questions → 80 par examen)
 ];
 
 // ============================================
