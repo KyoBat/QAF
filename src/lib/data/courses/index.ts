@@ -19,6 +19,7 @@ import { seerahModule3Course } from './seerah-module-3'
 import { seerahModule4Course } from './seerah-module-4'
 import { seerahModule5Course } from './seerah-module-5'
 import { hadithCourse } from './hadith'
+import { mustalahHadithCourse } from './mustalah-hadith'
 import { siyamCourse } from './siyam'
 import { hajjCourse } from './hajj'
 import { historyImamsCourse } from './history'
@@ -47,6 +48,7 @@ export { seerahModule3Course } from './seerah-module-3'
 export { seerahModule4Course } from './seerah-module-4'
 export { seerahModule5Course } from './seerah-module-5'
 export { hadithCourse } from './hadith'
+export { mustalahHadithCourse } from './mustalah-hadith'
 export { siyamCourse } from './siyam'
 export { hajjCourse } from './hajj'
 export { historyImamsCourse } from './history'
@@ -63,6 +65,7 @@ export const coursesData: Course[] = [
   adiaModule3Course,
   adiaModule4Course,
   hadithCourse,
+  mustalahHadithCourse,
   historyImamsCourse,
   historyBiographiesCourse,
   historyFiqhPratiqueCourse,
