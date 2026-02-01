@@ -883,17 +883,639 @@ const ramadanQuestions: ExamQuestion[] = [
 ];
 
 // ============================================
+// Questions - Scénarios Médicaux & Santé
+// ============================================
+
+const medicalScenariosQuestions: ExamQuestion[] = [
+  {
+    id: 'siyam-medical-001',
+    question: {
+      fr: 'Un diabétique peut-il jeûner Ramadan ?',
+      ar: 'هل يجوز لمريض السكري صيام رمضان؟',
+      en: 'Can a diabetic fast Ramadan?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Oui, toujours obligatoire', ar: 'نعم، واجب دائما', en: 'Yes, always obligatory' } },
+      { id: 'b', text: { fr: 'Non, toujours interdit', ar: 'لا، محرم دائما', en: 'No, always forbidden' } },
+      { id: 'c', text: { fr: 'Dépend de l\'avis médical : si dangereux pour sa santé, il rompt et paie Fidyah ou rattrape', ar: 'حسب الرأي الطبي: إن كان خطرا فيفطر ويدفع الفدية أو يقضي', en: 'Depends on medical advice: if dangerous to health, breaks fast and pays Fidyah or makes up' } },
+      { id: 'd', text: { fr: 'Jeûne seulement les jours pairs', ar: 'يصوم الأيام الزوجية فقط', en: 'Fast only even days' } },
+    ],
+    correctAnswer: 2,
+    explanation: {
+      fr: 'Un diabétique doit consulter son médecin. Si le jeûne met sa santé en danger (hypoglycémie, complications), il ne jeûne pas et paie la Fidyah s\'il est chronique, ou rattrape plus tard s\'il peut guérir.',
+      ar: 'على مريض السكري استشارة طبيبه. إن كان الصوم يُعرّض صحته للخطر (نقص السكر، مضاعفات)، فلا يصوم ويدفع الفدية إن كان مزمنا، أو يقضي لاحقا إن أمكن الشفاء.',
+      en: 'A diabetic must consult their doctor. If fasting endangers health (hypoglycemia, complications), they don\'t fast and pay Fidyah if chronic, or make up later if cure is possible.',
+    },
+    points: 3,
+    difficulty: 'medium',
+    category: 'medical',
+  },
+  {
+    id: 'siyam-medical-002',
+    question: {
+      fr: 'L\'injection d\'insuline rompt-elle le jeûne ?',
+      ar: 'هل حقنة الإنسولين تُفطر؟',
+      en: 'Does insulin injection break the fast?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Oui, toute injection rompt le jeûne', ar: 'نعم، كل حقنة تُفطر', en: 'Yes, any injection breaks fast' } },
+      { id: 'b', text: { fr: 'Non selon l\'avis majoritaire contemporain car ce n\'est ni nourriture ni boisson', ar: 'لا عند أغلب العلماء المعاصرين لأنه ليس طعاما ولا شرابا', en: 'No according to majority contemporary opinion as it\'s neither food nor drink' } },
+      { id: 'c', text: { fr: 'Uniquement si injectée dans l\'estomac', ar: 'فقط إذا حُقنت في المعدة', en: 'Only if injected in stomach' } },
+      { id: 'd', text: { fr: 'Rompt le jeûne mais on ne rattrape pas', ar: 'تُفطر لكن لا قضاء', en: 'Breaks fast but no makeup needed' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Selon l\'avis majoritaire des savants contemporains, l\'insuline sous-cutanée ou intramusculaire ne rompt pas le jeûne car elle ne nourrit pas et n\'entre pas par voie naturelle (bouche).',
+      ar: 'عند أغلب العلماء المعاصرين، الإنسولين تحت الجلد أو في العضل لا يُفطر لأنه ليس غذاء ولا يدخل من منفذ طبيعي (الفم).',
+      en: 'According to majority of contemporary scholars, subcutaneous or intramuscular insulin doesn\'t break fast as it\'s not nourishment and doesn\'t enter through natural opening (mouth).',
+    },
+    points: 3,
+    difficulty: 'medium',
+    category: 'medical',
+  },
+  {
+    id: 'siyam-medical-003',
+    question: {
+      fr: 'Une femme enceinte craint pour sa santé ou celle du fœtus, que doit-elle faire ?',
+      ar: 'المرأة الحامل تخاف على صحتها أو الجنين، ماذا تفعل؟',
+      en: 'A pregnant woman fears for her health or the fetus, what should she do?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Elle doit jeûner quand même', ar: 'يجب عليها الصوم رغم ذلك', en: 'She must fast anyway' } },
+      { id: 'b', text: { fr: 'Elle rompt le jeûne et rattrape plus tard', ar: 'تُفطر وتقضي لاحقا', en: 'She breaks fast and makes up later' } },
+      { id: 'c', text: { fr: 'Elle ne jeûne jamais', ar: 'لا تصوم أبدا', en: 'She never fasts' } },
+      { id: 'd', text: { fr: 'Elle jeûne mais mange la nuit seulement', ar: 'تصوم لكن تأكل ليلا فقط', en: 'She fasts but eats at night only' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'La femme enceinte qui craint pour sa santé ou celle de son bébé peut rompre le jeûne et doit rattraper les jours manqués après l\'accouchement et l\'allaitement selon l\'avis majoritaire.',
+      ar: 'المرأة الحامل التي تخاف على صحتها أو جنينها يجوز لها الإفطار ويجب عليها القضاء بعد الولادة والرضاعة عند الجمهور.',
+      en: 'A pregnant woman who fears for her health or baby\'s can break fast and must make up missed days after delivery and nursing according to majority opinion.',
+    },
+    points: 2,
+    difficulty: 'easy',
+    category: 'medical',
+  },
+  {
+    id: 'siyam-medical-004',
+    question: {
+      fr: 'Un patient sous dialyse (hémodialyse) peut-il jeûner ?',
+      ar: 'هل يجوز للمريض الذي يخضع لغسيل الكلى الصيام؟',
+      en: 'Can a patient undergoing dialysis fast?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Oui, la dialyse ne rompt pas le jeûne', ar: 'نعم، غسيل الكلى لا يُفطر', en: 'Yes, dialysis doesn\'t break fast' } },
+      { id: 'b', text: { fr: 'Non, la dialyse rompt le jeûne car du liquide entre dans le corps', ar: 'لا، غسيل الكلى يُفطر لأن سائلا يدخل الجسم', en: 'No, dialysis breaks fast as liquid enters body' } },
+      { id: 'c', text: { fr: 'Uniquement la dialyse péritonéale', ar: 'غسيل الكلى البريتوني فقط', en: 'Only peritoneal dialysis' } },
+      { id: 'd', text: { fr: 'Dépend de l\'hôpital', ar: 'حسب المستشفى', en: 'Depends on hospital' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'La dialyse rompt le jeûne selon l\'avis majoritaire car elle implique l\'extraction et la réinjection de sang avec ajout de substances nutritives. Le patient paie la Fidyah s\'il est en insuffisance rénale chronique.',
+      ar: 'غسيل الكلى يُفطر عند الجمهور لأنه يتضمن سحب وإعادة ضخ الدم مع إضافة مواد غذائية. المريض يدفع الفدية إن كان في فشل كلوي مزمن.',
+      en: 'Dialysis breaks fast according to majority as it involves extracting and returning blood with added nutritive substances. Patient pays Fidyah if in chronic renal failure.',
+    },
+    points: 3,
+    difficulty: 'hard',
+    category: 'medical',
+  },
+  {
+    id: 'siyam-medical-005',
+    question: {
+      fr: 'L\'utilisation d\'un inhalateur pour l\'asthme rompt-elle le jeûne ?',
+      ar: 'هل استعمال بخاخ الربو يُفطر؟',
+      en: 'Does using an asthma inhaler break the fast?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Oui, car une substance entre dans le corps', ar: 'نعم، لأن مادة تدخل الجسم', en: 'Yes, as substance enters body' } },
+      { id: 'b', text: { fr: 'Non selon l\'avis le plus répandu car c\'est une nécessité médicale et la quantité est négligeable', ar: 'لا عند الرأي الأرجح لأنه ضرورة طبية والكمية ضئيلة', en: 'No according to most common opinion as it\'s medical necessity and amount is negligible' } },
+      { id: 'c', text: { fr: 'Rompt uniquement le jour', ar: 'يُفطر النهار فقط', en: 'Breaks only daytime' } },
+      { id: 'd', text: { fr: 'Permis seulement en cas d\'urgence', ar: 'مباح فقط عند الطوارئ', en: 'Permitted only in emergency' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'L\'avis le plus répandu parmi les savants contemporains : l\'inhalateur ne rompt pas le jeûne car c\'est un gaz médicinal nécessaire, la quantité est négligeable, et il va aux poumons pas à l\'estomac.',
+      ar: 'الرأي الأرجح عند العلماء المعاصرين: بخاخ الربو لا يُفطر لأنه غاز طبي ضروري، والكمية ضئيلة، ويذهب للرئتين لا للمعدة.',
+      en: 'Most common opinion among contemporary scholars: inhaler doesn\'t break fast as it\'s necessary medicinal gas, amount is negligible, and goes to lungs not stomach.',
+    },
+    points: 3,
+    difficulty: 'medium',
+    category: 'medical',
+  },
+  {
+    id: 'siyam-medical-006',
+    question: {
+      fr: 'Une prise de sang pour analyse médicale rompt-elle le jeûne ?',
+      ar: 'هل سحب الدم للتحليل الطبي يُفطر؟',
+      en: 'Does a blood draw for medical analysis break the fast?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Oui, tout prélèvement de sang rompt le jeûne', ar: 'نعم، كل سحب للدم يُفطر', en: 'Yes, any blood draw breaks fast' } },
+      { id: 'b', text: { fr: 'Non, une petite quantité pour analyse ne rompt pas le jeûne', ar: 'لا، الكمية القليلة للتحليل لا تُفطر', en: 'No, small amount for analysis doesn\'t break fast' } },
+      { id: 'c', text: { fr: 'Uniquement si plus de 1 litre', ar: 'فقط إذا كان أكثر من ١ لتر', en: 'Only if more than 1 liter' } },
+      { id: 'd', text: { fr: 'Rompt le jeûne mais pas le Ramadan', ar: 'يُفطر الصوم لكن ليس رمضان', en: 'Breaks fast but not Ramadan' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Une petite quantité de sang prélevée pour analyse (quelques ml) ne rompt pas le jeûne selon l\'avis majoritaire. Seule la hijama (ventouse) ou un don de sang important peut affaiblir le jeûneur.',
+      ar: 'الكمية القليلة من الدم المسحوبة للتحليل (بضعة مل) لا تُفطر عند الجمهور. فقط الحجامة أو التبرع بالدم الكثير قد يُضعف الصائم.',
+      en: 'Small amount of blood drawn for analysis (few ml) doesn\'t break fast according to majority. Only hijama (cupping) or large blood donation may weaken faster.',
+    },
+    points: 2,
+    difficulty: 'easy',
+    category: 'medical',
+  },
+  {
+    id: 'siyam-medical-007',
+    question: {
+      fr: 'Un patient atteint de cancer sous chimiothérapie, quel est son jugement concernant le jeûne ?',
+      ar: 'مريض السرطان الذي يخضع للعلاج الكيميائي، ما حكم صيامه؟',
+      en: 'A cancer patient undergoing chemotherapy, what is the ruling on their fasting?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Doit jeûner absolument', ar: 'يجب عليه الصوم حتما', en: 'Must fast absolutely' } },
+      { id: 'b', text: { fr: 'Rompt le jeûne pendant le traitement et rattrape ou paie Fidyah selon l\'avis médical', ar: 'يُفطر أثناء العلاج ويقضي أو يدفع الفدية حسب الرأي الطبي', en: 'Breaks fast during treatment and makes up or pays Fidyah per medical advice' } },
+      { id: 'c', text: { fr: 'Jeûne mais réduit les doses', ar: 'يصوم لكن يُقلل الجرعات', en: 'Fasts but reduces doses' } },
+      { id: 'd', text: { fr: 'Dispensé de jeûne à vie', ar: 'معفى من الصوم مدى الحياة', en: 'Exempt from fasting for life' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Le patient cancéreux sous chimio peut rompre le jeûne car le traitement affaiblit et nécessite une nutrition adéquate. S\'il guérit, il rattrape ; si la maladie est chronique/terminale, il paie la Fidyah.',
+      ar: 'مريض السرطان تحت العلاج الكيميائي يجوز له الإفطار لأن العلاج مُضعف ويحتاج تغذية مناسبة. إن شُفي قضى؛ إن كان مزمنا/ميؤوسا دفع الفدية.',
+      en: 'Cancer patient under chemo may break fast as treatment weakens and requires proper nutrition. If cured, makes up; if chronic/terminal, pays Fidyah.',
+    },
+    points: 3,
+    difficulty: 'medium',
+    category: 'medical',
+  },
+  {
+    id: 'siyam-medical-008',
+    question: {
+      fr: 'Les gouttes pour les yeux ou les oreilles rompent-elles le jeûne ?',
+      ar: 'هل قطرات العين أو الأذن تُفطر؟',
+      en: 'Do eye or ear drops break the fast?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Oui, toutes les gouttes rompent le jeûne', ar: 'نعم، كل القطرات تُفطر', en: 'Yes, all drops break fast' } },
+      { id: 'b', text: { fr: 'Non selon l\'avis le plus répandu car elles n\'atteignent pas l\'estomac', ar: 'لا عند الرأي الأرجح لأنها لا تصل للمعدة', en: 'No according to most common opinion as they don\'t reach stomach' } },
+      { id: 'c', text: { fr: 'Uniquement les gouttes nasales', ar: 'قطرات الأنف فقط', en: 'Only nasal drops' } },
+      { id: 'd', text: { fr: 'Rompent uniquement si avalées', ar: 'تُفطر فقط إذا بُلعت', en: 'Break only if swallowed' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Les gouttes pour yeux/oreilles ne rompent pas le jeûne selon l\'avis le plus répandu car elles n\'atteignent pas l\'estomac par voie naturelle. Cependant, les gouttes nasales qui atteignent la gorge sont controversées.',
+      ar: 'قطرات العين/الأذن لا تُفطر عند الرأي الأرجح لأنها لا تصل للمعدة بطريق طبيعي. لكن قطرات الأنف التي تصل للحلق فيها خلاف.',
+      en: 'Eye/ear drops don\'t break fast according to most common opinion as they don\'t reach stomach through natural route. However, nasal drops reaching throat are controversial.',
+    },
+    points: 3,
+    difficulty: 'medium',
+    category: 'medical',
+  },
+  {
+    id: 'siyam-medical-009',
+    question: {
+      fr: 'Un patient avec maladie mentale (schizophrénie, bipolarité) nécessitant des médicaments quotidiens, que faire ?',
+      ar: 'مريض نفسي (فصام، ثنائي القطب) يحتاج أدوية يومية، ماذا يفعل؟',
+      en: 'A mental illness patient (schizophrenia, bipolar) requiring daily medication, what to do?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Arrête les médicaments pour jeûner', ar: 'يوقف الأدوية ليصوم', en: 'Stops medication to fast' } },
+      { id: 'b', text: { fr: 'Rompt le jeûne pour prendre ses médicaments essentiels et paie Fidyah s\'ils sont à vie', ar: 'يُفطر ليأخذ أدويته الضرورية ويدفع الفدية إن كانت مدى الحياة', en: 'Breaks fast to take essential medication and pays Fidyah if lifelong' } },
+      { id: 'c', text: { fr: 'Réduit les doses de moitié', ar: 'يُقلل الجرعات للنصف', en: 'Reduces doses by half' } },
+      { id: 'd', text: { fr: 'Jeûne sans médicaments', ar: 'يصوم بدون أدوية', en: 'Fasts without medication' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'La santé mentale est prioritaire. Si les médicaments sont essentiels à l\'équilibre mental et doivent être pris pendant la journée, le patient rompt et paie la Fidyah si le traitement est à vie.',
+      ar: 'الصحة النفسية أولوية. إن كانت الأدوية ضرورية للتوازن النفسي ويجب أخذها نهارا، يُفطر المريض ويدفع الفدية إن كان العلاج مدى الحياة.',
+      en: 'Mental health is priority. If medications are essential for mental balance and must be taken during day, patient breaks fast and pays Fidyah if treatment is lifelong.',
+    },
+    points: 3,
+    difficulty: 'medium',
+    category: 'medical',
+  },
+  {
+    id: 'siyam-medical-010',
+    question: {
+      fr: 'Une opération chirurgicale programmée pendant Ramadan, quel est le jugement ?',
+      ar: 'عملية جراحية مُجدولة في رمضان، ما الحكم؟',
+      en: 'A scheduled surgery during Ramadan, what is the ruling?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Reporter l\'opération après Ramadan obligatoirement', ar: 'تأجيل العملية بعد رمضان وجوبا', en: 'Must postpone surgery after Ramadan' } },
+      { id: 'b', text: { fr: 'Faire l\'opération et rompre le jeûne, puis rattraper le jour plus tard', ar: 'إجراء العملية والإفطار، ثم القضاء لاحقا', en: 'Do surgery and break fast, then make up day later' } },
+      { id: 'c', text: { fr: 'Opérer sans anesthésie pour ne pas rompre', ar: 'العملية بدون تخدير لعدم الإفطار', en: 'Operate without anesthesia to not break' } },
+      { id: 'd', text: { fr: 'Opérer seulement la nuit', ar: 'العملية ليلا فقط', en: 'Operate only at night' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Si l\'opération est nécessaire, on la fait même pendant Ramadan et on rompt le jeûne. L\'anesthésie et les perfusions rompent le jeûne. Le patient rattrape le(s) jour(s) manqué(s) plus tard.',
+      ar: 'إن كانت العملية ضرورية، تُجرى حتى في رمضان ويُفطر. التخدير والمحاليل تُفطر. المريض يقضي اليوم/الأيام الفائتة لاحقا.',
+      en: 'If surgery is necessary, it\'s done even during Ramadan and fast is broken. Anesthesia and IV fluids break fast. Patient makes up missed day(s) later.',
+    },
+    points: 2,
+    difficulty: 'easy',
+    category: 'medical',
+  },
+];
+
+// ============================================
+// Questions - I'tikaf (Retraite Spirituelle)
+// ============================================
+
+const itikafQuestions: ExamQuestion[] = [
+  {
+    id: 'siyam-itikaf-001',
+    question: {
+      fr: 'Quelle est la définition du I\'tikaf ?',
+      ar: 'ما تعريف الاعتكاف؟',
+      en: 'What is the definition of I\'tikaf?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Prier la nuit dans n\'importe quel lieu', ar: 'الصلاة ليلا في أي مكان', en: 'Praying at night anywhere' } },
+      { id: 'b', text: { fr: 'La retraite spirituelle dans la mosquée avec l\'intention de se consacrer à l\'adoration', ar: 'الخلوة الروحية في المسجد بنية التفرغ للعبادة', en: 'Spiritual retreat in mosque with intention to devote to worship' } },
+      { id: 'c', text: { fr: 'Jeûner tous les jours du mois', ar: 'صيام كل أيام الشهر', en: 'Fasting all days of month' } },
+      { id: 'd', text: { fr: 'Méditer seul chez soi', ar: 'التأمل وحيدا في البيت', en: 'Meditating alone at home' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Le I\'tikaf est la retraite spirituelle dans la mosquée avec l\'intention de se rapprocher d\'Allah. Le Prophète ﷺ le pratiquait les 10 derniers jours de Ramadan.',
+      ar: 'الاعتكاف هو الخلوة الروحية في المسجد بنية التقرب إلى الله. كان النبي ﷺ يعتكف العشر الأواخر من رمضان.',
+      en: 'I\'tikaf is spiritual retreat in mosque with intention to draw near to Allah. The Prophet ﷺ practiced it during last 10 days of Ramadan.',
+    },
+    points: 2,
+    difficulty: 'easy',
+    category: 'itikaf',
+  },
+  {
+    id: 'siyam-itikaf-002',
+    question: {
+      fr: 'Quelle est la durée minimale du I\'tikaf ?',
+      ar: 'ما أقل مدة للاعتكاف؟',
+      en: 'What is the minimum duration of I\'tikaf?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Pas de minimum, même un instant', ar: 'لا حد أدنى، حتى لحظة', en: 'No minimum, even a moment' } },
+      { id: 'b', text: { fr: 'Au moins une journée complète', ar: 'يوم كامل على الأقل', en: 'At least one full day' } },
+      { id: 'c', text: { fr: '10 jours obligatoirement', ar: '10 أيام وجوبا', en: '10 days obligatorily' } },
+      { id: 'd', text: { fr: 'Tout le mois de Ramadan', ar: 'طوال شهر رمضان', en: 'Entire month of Ramadan' } },
+    ],
+    correctAnswer: 0,
+    explanation: {
+      fr: 'Il n\'y a pas de durée minimale pour le I\'tikaf selon l\'avis majoritaire. Même rester un court moment dans la mosquée avec intention peut être considéré comme I\'tikaf. Cependant, le I\'tikaf Sunna est de 10 jours.',
+      ar: 'لا يوجد حد أدنى لمدة الاعتكاف عند الجمهور. حتى المكوث لحظة في المسجد بنية يمكن أن يُعتبر اعتكافا. لكن اعتكاف السنة 10 أيام.',
+      en: 'There\'s no minimum duration for I\'tikaf according to majority. Even staying briefly in mosque with intention can be considered I\'tikaf. However, Sunnah I\'tikaf is 10 days.',
+    },
+    points: 3,
+    difficulty: 'medium',
+    category: 'itikaf',
+  },
+  {
+    id: 'siyam-itikaf-003',
+    question: {
+      fr: 'Le I\'tikaf doit-il se faire avec le jeûne ?',
+      ar: 'هل يُشترط الصوم للاعتكاف؟',
+      en: 'Must I\'tikaf be done with fasting?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Oui, le jeûne est obligatoire pour le I\'tikaf', ar: 'نعم، الصوم واجب للاعتكاف', en: 'Yes, fasting is obligatory for I\'tikaf' } },
+      { id: 'b', text: { fr: 'Non, mais le jeûne est fortement recommandé', ar: 'لا، لكن الصوم مستحب بشدة', en: 'No, but fasting is strongly recommended' } },
+      { id: 'c', text: { fr: 'Le jeûne n\'a aucun lien avec le I\'tikaf', ar: 'الصوم لا علاقة له بالاعتكاف', en: 'Fasting has no link to I\'tikaf' } },
+      { id: 'd', text: { fr: 'Uniquement en Ramadan', ar: 'في رمضان فقط', en: 'Only in Ramadan' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Selon l\'avis des Shafi\'is et Malikis, le jeûne n\'est pas obligatoire pour le I\'tikaf, mais il est fortement recommandé. Les Hanafis le considèrent obligatoire. L\'avis majoritaire est qu\'il est recommandé.',
+      ar: 'عند الشافعية والمالكية، الصوم ليس شرطا للاعتكاف، لكنه مستحب بشدة. الحنفية يُوجبونه. الرأي الراجح أنه مستحب.',
+      en: 'According to Shafi\'is and Malikis, fasting isn\'t obligatory for I\'tikaf but strongly recommended. Hanafis consider it obligatory. Majority opinion is it\'s recommended.',
+    },
+    points: 3,
+    difficulty: 'hard',
+    category: 'itikaf',
+  },
+  {
+    id: 'siyam-itikaf-004',
+    question: {
+      fr: 'La femme peut-elle faire le I\'tikaf ?',
+      ar: 'هل يجوز للمرأة الاعتكاف؟',
+      en: 'Can a woman do I\'tikaf?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Non, le I\'tikaf est réservé aux hommes', ar: 'لا، الاعتكاف للرجال فقط', en: 'No, I\'tikaf is for men only' } },
+      { id: 'b', text: { fr: 'Oui, à la mosquée ou dans un endroit désigné de sa maison avec permission du mari', ar: 'نعم، في المسجد أو في مكان مُخصص في بيتها بإذن الزوج', en: 'Yes, at mosque or designated place in her home with husband\'s permission' } },
+      { id: 'c', text: { fr: 'Uniquement après la ménopause', ar: 'بعد سن اليأس فقط', en: 'Only after menopause' } },
+      { id: 'd', text: { fr: 'Uniquement si elle n\'a pas d\'enfants', ar: 'فقط إن لم يكن لها أولاد', en: 'Only if she has no children' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'La femme peut faire le I\'tikaf, comme l\'ont fait les épouses du Prophète ﷺ. Elle peut le faire à la mosquée (dans un espace séparé) ou dans un musalla de sa maison, avec la permission de son mari.',
+      ar: 'يجوز للمرأة الاعتكاف، كما فعلت زوجات النبي ﷺ. يمكنها في المسجد (في مكان منفصل) أو في مصلى بيتها، بإذن زوجها.',
+      en: 'Women can do I\'tikaf, as did the Prophet\'s ﷺ wives. She can do it at mosque (in separate area) or in musalla of her home, with husband\'s permission.',
+    },
+    points: 2,
+    difficulty: 'medium',
+    category: 'itikaf',
+  },
+  {
+    id: 'siyam-itikaf-005',
+    question: {
+      fr: 'Pour quelle raison peut-on sortir de la mosquée pendant le I\'tikaf ?',
+      ar: 'لأي سبب يجوز الخروج من المسجد أثناء الاعتكاف؟',
+      en: 'For what reason can one leave mosque during I\'tikaf?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Uniquement pour aller travailler', ar: 'للعمل فقط', en: 'Only to go to work' } },
+      { id: 'b', text: { fr: 'Pour les besoins naturels (toilettes), se laver, ou une nécessité comme acheter de la nourriture', ar: 'لحاجة طبيعية (دورة مياه)، الاغتسال، أو ضرورة كشراء طعام', en: 'For natural needs (toilet), bathing, or necessity like buying food' } },
+      { id: 'c', text: { fr: 'Pour toute raison, sans restriction', ar: 'لأي سبب، بلا قيد', en: 'For any reason, without restriction' } },
+      { id: 'd', text: { fr: 'On ne peut jamais sortir', ar: 'لا يمكن الخروج أبدا', en: 'Can never leave' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'On peut sortir pour les besoins naturels (toilettes, ghusl), ou pour une nécessité absolue (acheter nourriture si personne ne peut l\'apporter, urgence médicale). Les sorties non nécessaires annulent le I\'tikaf.',
+      ar: 'يجوز الخروج للحاجة الطبيعية (دورة مياه، غسل)، أو لضرورة قصوى (شراء طعام إن لم يوجد من يحضره، طوارئ طبية). الخروج لغير حاجة يُبطل الاعتكاف.',
+      en: 'One may leave for natural needs (toilet, ghusl), or absolute necessity (buying food if no one can bring it, medical emergency). Unnecessary exits invalidate I\'tikaf.',
+    },
+    points: 3,
+    difficulty: 'medium',
+    category: 'itikaf',
+  },
+  {
+    id: 'siyam-itikaf-006',
+    question: {
+      fr: 'Quand commence et termine le I\'tikaf des 10 derniers jours de Ramadan ?',
+      ar: 'متى يبدأ وينتهي اعتكاف العشر الأواخر من رمضان؟',
+      en: 'When does I\'tikaf of last 10 days of Ramadan start and end?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Commence le 21 au Fajr, termine le 30 au coucher du soleil', ar: 'يبدأ 21 في الفجر، ينتهي 30 عند الغروب', en: 'Starts 21st at Fajr, ends 30th at sunset' } },
+      { id: 'b', text: { fr: 'Commence le 20 au coucher du soleil, termine à l\'Eid', ar: 'يبدأ 20 عند الغروب، ينتهي في العيد', en: 'Starts 20th at sunset, ends at Eid' } },
+      { id: 'c', text: { fr: 'Commence le 21 au coucher du soleil, termine le 29 ou 30 au coucher du soleil', ar: 'يبدأ 21 عند الغروب، ينتهي 29 أو 30 عند الغروب', en: 'Starts 21st at sunset, ends 29th or 30th at sunset' } },
+      { id: 'd', text: { fr: 'N\'importe quand dans les 10 derniers jours', ar: 'في أي وقت خلال العشر الأواخر', en: 'Anytime in last 10 days' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Le I\'tikaf des 10 derniers jours commence au coucher du soleil du 20ème jour (début de la 21ème nuit) et se termine à l\'apparition du croissant de Shawwal (Eid al-Fitr).',
+      ar: 'اعتكاف العشر الأواخر يبدأ عند غروب شمس اليوم العشرين (بداية الليلة 21) وينتهي برؤية هلال شوال (عيد الفطر).',
+      en: 'I\'tikaf of last 10 days starts at sunset of 20th day (beginning of 21st night) and ends at sighting of Shawwal crescent (Eid al-Fitr).',
+    },
+    points: 3,
+    difficulty: 'hard',
+    category: 'itikaf',
+  },
+  {
+    id: 'siyam-itikaf-007',
+    question: {
+      fr: 'Que peut faire le Mu\'takif (personne en I\'tikaf) dans la mosquée ?',
+      ar: 'ماذا يمكن للمعتكف أن يفعل في المسجد؟',
+      en: 'What can the Mu\'takif (person in I\'tikaf) do in the mosque?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Uniquement prier, rien d\'autre', ar: 'الصلاة فقط، لا شيء آخر', en: 'Only pray, nothing else' } },
+      { id: 'b', text: { fr: 'Prier, lire Coran, dhikr, étudier, manger, dormir, et actes d\'adoration', ar: 'الصلاة، قراءة القرآن، الذكر، الدراسة، الأكل، النوم، وأعمال العبادة', en: 'Pray, read Quran, dhikr, study, eat, sleep, and acts of worship' } },
+      { id: 'c', text: { fr: 'Uniquement rester debout en prière', ar: 'الوقوف للصلاة فقط', en: 'Only stand in prayer' } },
+      { id: 'd', text: { fr: 'Interdiction de parler', ar: 'منع الكلام', en: 'Forbidden to speak' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Le Mu\'takif peut faire toutes les activités permises dans la mosquée : prière, lecture du Coran, dhikr, étudier, enseigner, manger, dormir, parler de choses licites. L\'essentiel est se consacrer à l\'adoration.',
+      ar: 'يمكن للمعتكف فعل كل الأنشطة المباحة في المسجد: الصلاة، قراءة القرآن، الذكر، الدراسة، التعليم، الأكل، النوم، الكلام المباح. الأساس التفرغ للعبادة.',
+      en: 'Mu\'takif can do all permitted activities in mosque: prayer, Quran reading, dhikr, studying, teaching, eating, sleeping, permissible speech. Essential is devoting to worship.',
+    },
+    points: 2,
+    difficulty: 'easy',
+    category: 'itikaf',
+  },
+  {
+    id: 'siyam-itikaf-008',
+    question: {
+      fr: 'Qu\'annule le I\'tikaf ?',
+      ar: 'ما الذي يُبطل الاعتكاف؟',
+      en: 'What invalidates I\'tikaf?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Parler', ar: 'الكلام', en: 'Speaking' } },
+      { id: 'b', text: { fr: 'Sortir de la mosquée sans nécessité, rapports intimes, apostasie, menstrues', ar: 'الخروج من المسجد بلا حاجة، الجماع، الردة، الحيض', en: 'Leaving mosque without necessity, intercourse, apostasy, menstruation' } },
+      { id: 'c', text: { fr: 'Manger', ar: 'الأكل', en: 'Eating' } },
+      { id: 'd', text: { fr: 'Dormir', ar: 'النوم', en: 'Sleeping' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Le I\'tikaf est annulé par : sortir de la mosquée sans nécessité, les rapports intimes, l\'apostasie (qu\'Allah nous en préserve), les menstrues pour les femmes, et l\'ivresse.',
+      ar: 'يُبطل الاعتكاف: الخروج من المسجد لغير حاجة، الجماع، الردة (أعاذنا الله)، الحيض للمرأة، والسُكر.',
+      en: 'I\'tikaf is invalidated by: leaving mosque without necessity, sexual intercourse, apostasy (may Allah protect us), menstruation for women, and intoxication.',
+    },
+    points: 3,
+    difficulty: 'medium',
+    category: 'itikaf',
+  },
+];
+
+// ============================================
+// Questions - Kaffara (Expiation) Détaillée
+// ============================================
+
+const kaffaraQuestions: ExamQuestion[] = [
+  {
+    id: 'siyam-kaffara-001',
+    question: {
+      fr: 'Qu\'est-ce que la Kaffara en cas de rupture intentionnelle du jeûne de Ramadan sans excuse ?',
+      ar: 'ما كفارة الإفطار المتعمد في رمضان بلا عذر؟',
+      en: 'What is the Kaffara for intentionally breaking Ramadan fast without excuse?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Jeûner 1 jour seulement', ar: 'صيام يوم واحد فقط', en: 'Fast 1 day only' } },
+      { id: 'b', text: { fr: 'Affranchir un esclave, ou jeûner 60 jours consécutifs, ou nourrir 60 pauvres', ar: 'عتق رقبة، أو صيام 60 يوما متتابعا، أو إطعام 60 مسكينا', en: 'Free a slave, or fast 60 consecutive days, or feed 60 poor' } },
+      { id: 'c', text: { fr: 'Donner 100 euros', ar: 'دفع 100 يورو', en: 'Pay 100 euros' } },
+      { id: 'd', text: { fr: 'Prier 100 Rak\'ah', ar: 'صلاة 100 ركعة', en: 'Pray 100 Rak\'ah' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'La Kaffara pour rupture intentionnelle (par rapports intimes notamment) est : 1) Affranchir un esclave (impossible aujourd\'hui), 2) Jeûner 60 jours consécutifs, 3) Nourrir 60 pauvres. Dans l\'ordre.',
+      ar: 'كفارة الإفطار المتعمد (بالجماع خصوصا): ١) عتق رقبة (مستحيل اليوم)، ٢) صيام 60 يوما متتابعا، ٣) إطعام 60 مسكينا. بالترتيب.',
+      en: 'Kaffara for intentional breaking (especially by intercourse) is: 1) Free a slave (impossible today), 2) Fast 60 consecutive days, 3) Feed 60 poor. In order.',
+    },
+    points: 3,
+    difficulty: 'medium',
+    category: 'kaffara',
+  },
+  {
+    id: 'siyam-kaffara-002',
+    question: {
+      fr: 'Si vous interrompez le jeûne de 60 jours de Kaffara, que se passe-t-il ?',
+      ar: 'إذا قطعت صيام الـ60 يوما للكفارة، ماذا يحدث؟',
+      en: 'If you interrupt the 60-day Kaffara fast, what happens?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Vous continuez où vous vous êtes arrêté', ar: 'تستمر من حيث توقفت', en: 'You continue where you stopped' } },
+      { id: 'b', text: { fr: 'Vous recommencez depuis le début sauf excuse valable (maladie, menstrues)', ar: 'تبدأ من جديد إلا بعذر شرعي (مرض، حيض)', en: 'You restart from beginning except valid excuse (illness, menses)' } },
+      { id: 'c', text: { fr: 'Vous êtes dispensé', ar: 'أنت معفى', en: 'You are exempted' } },
+      { id: 'd', text: { fr: 'Vous payez une amende', ar: 'تدفع غرامة', en: 'You pay a fine' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Les 60 jours doivent être consécutifs. Si vous interrompez sans excuse valable (maladie, menstrues pour les femmes), vous recommencez depuis le début. C\'est pourquoi c\'est une expiation sévère.',
+      ar: 'الـ60 يوما يجب أن تكون متتابعة. إن قطعت بلا عذر شرعي (مرض، حيض للنساء)، تبدأ من جديد. لذلك هي كفارة شديدة.',
+      en: 'The 60 days must be consecutive. If you interrupt without valid excuse (illness, menses for women), you restart from beginning. That\'s why it\'s severe expiation.',
+    },
+    points: 3,
+    difficulty: 'hard',
+    category: 'kaffara',
+  },
+  {
+    id: 'siyam-kaffara-003',
+    question: {
+      fr: 'Si vous ne pouvez pas jeûner 60 jours, quelle est l\'alternative ?',
+      ar: 'إن لم تستطع صيام 60 يوما، ما البديل؟',
+      en: 'If you cannot fast 60 days, what is the alternative?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Prier beaucoup', ar: 'الصلاة كثيرا', en: 'Pray a lot' } },
+      { id: 'b', text: { fr: 'Nourrir 60 pauvres (environ 1/2 Sa\' de nourriture de base par personne)', ar: 'إطعام 60 مسكينا (حوالي نصف صاع من الطعام الأساسي لكل شخص)', en: 'Feed 60 poor (about 1/2 Sa\' of staple food per person)' } },
+      { id: 'c', text: { fr: 'Lire le Coran 60 fois', ar: 'قراءة القرآن 60 مرة', en: 'Read Quran 60 times' } },
+      { id: 'd', text: { fr: 'Aucune alternative', ar: 'لا بديل', en: 'No alternative' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Si incapable de jeûner 60 jours (maladie, vieillesse), on passe à nourrir 60 pauvres. Chaque pauvre reçoit environ 1,5 kg de nourriture de base (riz, blé, dattes). On peut aussi donner de l\'argent équivalent.',
+      ar: 'إن عجز عن صيام 60 يوما (مرض، شيخوخة)، ينتقل لإطعام 60 مسكينا. كل مسكين يُعطى حوالي 1.5 كغ من الطعام الأساسي (أرز، قمح، تمر). أو ما يعادله مالا.',
+      en: 'If unable to fast 60 days (illness, old age), moves to feeding 60 poor. Each poor receives about 1.5kg staple food (rice, wheat, dates). Or equivalent monetary value.',
+    },
+    points: 3,
+    difficulty: 'medium',
+    category: 'kaffara',
+  },
+  {
+    id: 'siyam-kaffara-004',
+    question: {
+      fr: 'Manger ou boire par oubli en Ramadan nécessite-t-il la Kaffara ?',
+      ar: 'الأكل أو الشرب سهوا في رمضان هل يُوجب الكفارة؟',
+      en: 'Does eating or drinking forgetfully in Ramadan require Kaffara?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Oui, Kaffara obligatoire', ar: 'نعم، كفارة واجبة', en: 'Yes, Kaffara obligatory' } },
+      { id: 'b', text: { fr: 'Non, ni Kaffara ni Qada, le jeûne est valide', ar: 'لا، لا كفارة ولا قضاء، الصوم صحيح', en: 'No, neither Kaffara nor Qada, fast is valid' } },
+      { id: 'c', text: { fr: 'Kaffara de 30 jours', ar: 'كفارة 30 يوما', en: 'Kaffara of 30 days' } },
+      { id: 'd', text: { fr: 'Qada seulement', ar: 'قضاء فقط', en: 'Qada only' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Manger/boire par oubli ne rompt PAS le jeûne selon le Hadith : "Celui qui oublie qu\'il jeûne et mange ou boit, qu\'il complète son jeûne, car c\'est Allah qui l\'a nourri." (Bukhari). Pas de Kaffara ni de Qada.',
+      ar: 'الأكل/الشرب سهوا لا يُفطر حسب الحديث: "من نسي وهو صائم فأكل أو شرب فليتم صومه، فإنما أطعمه الله وسقاه" (البخاري). لا كفارة ولا قضاء.',
+      en: 'Eating/drinking forgetfully does NOT break fast per Hadith: "Whoever forgets while fasting and eats or drinks, let him complete his fast, for Allah fed him." (Bukhari). No Kaffara or Qada.',
+    },
+    points: 2,
+    difficulty: 'easy',
+    category: 'kaffara',
+  },
+  {
+    id: 'siyam-kaffara-005',
+    question: {
+      fr: 'La Kaffara est-elle requise pour toute rupture du jeûne de Ramadan ?',
+      ar: 'هل الكفارة مطلوبة لكل إفطار في رمضان؟',
+      en: 'Is Kaffara required for every Ramadan fast breaking?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Oui, pour toute rupture', ar: 'نعم، لكل إفطار', en: 'Yes, for every breaking' } },
+      { id: 'b', text: { fr: 'Non, seulement pour rapports intimes intentionnels selon l\'avis majoritaire', ar: 'لا، للجماع المتعمد فقط عند الجمهور', en: 'No, only for intentional intercourse according to majority' } },
+      { id: 'c', text: { fr: 'Seulement si on mange de la viande', ar: 'فقط إذا أكل لحما', en: 'Only if eating meat' } },
+      { id: 'd', text: { fr: 'Jamais de Kaffara', ar: 'لا كفارة أبدا', en: 'Never Kaffara' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'La Kaffara est obligatoire seulement pour les rapports intimes intentionnels pendant le jeûne de Ramadan selon l\'avis majoritaire. Pour autres ruptures intentionnelles (manger, boire), on rattrape le jour (Qada) sans Kaffara selon certains.',
+      ar: 'الكفارة واجبة فقط للجماع المتعمد في نهار رمضان عند الجمهور. للإفطار المتعمد بغيره (أكل، شرب)، القضاء فقط بلا كفارة عند البعض.',
+      en: 'Kaffara is obligatory only for intentional intercourse during Ramadan fasting according to majority. For other intentional breakings (eating, drinking), make up day (Qada) without Kaffara per some scholars.',
+    },
+    points: 3,
+    difficulty: 'hard',
+    category: 'kaffara',
+  },
+  {
+    id: 'siyam-kaffara-006',
+    question: {
+      fr: 'Peut-on donner de l\'argent au lieu de nourriture pour la Kaffara ?',
+      ar: 'هل يمكن دفع المال بدل الطعام للكفارة؟',
+      en: 'Can one give money instead of food for Kaffara?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Non, jamais', ar: 'لا، أبدا', en: 'No, never' } },
+      { id: 'b', text: { fr: 'Oui, c\'est permis selon Hanafis et certains savants si plus bénéfique pour les pauvres', ar: 'نعم، جائز عند الحنفية وبعض العلماء إن كان أنفع للفقراء', en: 'Yes, permitted according to Hanafis and some scholars if more beneficial for poor' } },
+      { id: 'c', text: { fr: 'Uniquement en or', ar: 'بالذهب فقط', en: 'Only in gold' } },
+      { id: 'd', text: { fr: 'Seulement en crypto-monnaie', ar: 'بالعملات الرقمية فقط', en: 'Only in cryptocurrency' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Les Hanafis permettent de donner l\'équivalent en argent de la valeur de la nourriture pour la Kaffara, considérant que c\'est souvent plus utile pour les pauvres. D\'autres madhabs insistent sur la nourriture physique.',
+      ar: 'الحنفية يُجيزون دفع القيمة المالية المعادلة للطعام للكفارة، معتبرين أنها غالبا أنفع للفقراء. مذاهب أخرى تُصر على الطعام العيني.',
+      en: 'Hanafis permit giving monetary equivalent of food value for Kaffara, considering it often more useful for poor. Other madhabs insist on physical food.',
+    },
+    points: 3,
+    difficulty: 'medium',
+    category: 'kaffara',
+  },
+  {
+    id: 'siyam-kaffara-007',
+    question: {
+      fr: 'Si une personne ne peut ni jeûner 60 jours ni nourrir 60 pauvres, que fait-elle ?',
+      ar: 'إن لم يستطع الشخص صيام 60 يوما ولا إطعام 60 مسكينا، ماذا يفعل؟',
+      en: 'If a person can neither fast 60 days nor feed 60 poor, what do they do?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'La Kaffara tombe', ar: 'تسقط الكفارة', en: 'Kaffara is dropped' } },
+      { id: 'b', text: { fr: 'Elle reste une dette jusqu\'à ce qu\'il puisse la payer', ar: 'تبقى دَينا عليه حتى يستطيع أداءها', en: 'It remains a debt until they can fulfill it' } },
+      { id: 'c', text: { fr: 'Elle prie 1000 Rak\'ah', ar: 'يصلي 1000 ركعة', en: 'They pray 1000 Rak\'ah' } },
+      { id: 'd', text: { fr: 'Elle fait le Hajj', ar: 'يحج', en: 'They perform Hajj' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Si la personne est incapable financièrement de nourrir 60 pauvres actuellement, la Kaffara reste une dette (Dayn) envers Allah. Elle doit s\'efforcer de la payer dès qu\'elle en devient capable.',
+      ar: 'إن كان الشخص عاجزا ماليا عن إطعام 60 مسكينا حاليا، تبقى الكفارة دَينا على الله. يجب أن يسعى لأدائها متى استطاع.',
+      en: 'If person is financially unable to feed 60 poor currently, Kaffara remains a debt (Dayn) to Allah. They must strive to fulfill it as soon as capable.',
+    },
+    points: 3,
+    difficulty: 'hard',
+    category: 'kaffara',
+  },
+  {
+    id: 'siyam-kaffara-008',
+    question: {
+      fr: 'Si un couple a des rapports pendant le jeûne de Ramadan, qui doit la Kaffara ?',
+      ar: 'إذا جامع زوجان في نهار رمضان، من عليه الكفارة؟',
+      en: 'If a couple have intercourse during Ramadan fasting, who owes Kaffara?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Seulement l\'homme', ar: 'الرجل فقط', en: 'Only the man' } },
+      { id: 'b', text: { fr: 'Seulement la femme', ar: 'المرأة فقط', en: 'Only the woman' } },
+      { id: 'c', text: { fr: 'Les deux, chacun doit une Kaffara', ar: 'كلاهما، على كل واحد كفارة', en: 'Both, each owes a Kaffara' } },
+      { id: 'd', text: { fr: 'Aucun des deux', ar: 'لا أحد منهما', en: 'Neither of them' } },
+    ],
+    correctAnswer: 2,
+    explanation: {
+      fr: 'Si les deux consentent, chacun doit une Kaffara (60 jours ou nourrir 60 pauvres). Si la femme était contrainte, seul l\'homme doit la Kaffara selon l\'avis majoritaire.',
+      ar: 'إن كان برضاهما، فعلى كل واحد كفارة (60 يوما أو إطعام 60). إن كانت المرأة مكرهة، فالكفارة على الرجل فقط عند الجمهور.',
+      en: 'If both consenting, each owes a Kaffara (60 days or feed 60). If woman was coerced, only man owes Kaffara according to majority opinion.',
+    },
+    points: 3,
+    difficulty: 'medium',
+    category: 'kaffara',
+  },
+];
+
+// ============================================
 // Assemblage de l'examen COMPLET
 // ============================================
 
 const allQuestions: ExamQuestion[] = [
-  ...definitionQuestions,     // 5 questions
-  ...conditionsQuestions,     // 5 questions
-  ...annulatifsQuestions,     // 8 questions
-  ...dispensesQuestions,      // 6 questions
-  ...naflQuestions,           // 6 questions
-  ...ramadanQuestions,        // 6 questions
-  // Total : 36 questions
+  ...definitionQuestions,       // 5 questions
+  ...conditionsQuestions,       // 5 questions
+  ...annulatifsQuestions,       // 8 questions
+  ...dispensesQuestions,        // 6 questions
+  ...medicalScenariosQuestions, // 10 questions - NOUVEAU
+  ...itikafQuestions,           // 8 questions - NOUVEAU
+  ...kaffaraQuestions,          // 8 questions - NOUVEAU
+  ...naflQuestions,             // 6 questions
+  ...ramadanQuestions,          // 6 questions
+  // Total : 62 questions
 ];
 
 export const examSiyamFinal: ExamConfig = {
@@ -906,28 +1528,31 @@ export const examSiyamFinal: ExamConfig = {
     en: 'Complete Exam - Fiqh of Fasting',
   },
   description: {
-    fr: 'Examen de 30 questions sélectionnées aléatoirement parmi une banque de 36 questions. Couvre tous les aspects du jeûne : définition, conditions, annulatifs, dispenses, et jeûne surérogatoire.',
-    ar: 'امتحان من 30 سؤالاً يتم اختيارها عشوائياً من بنك يضم 36 سؤالاً. يغطي جميع جوانب الصيام: التعريف، الشروط، المفطرات، الرخص، وصيام التطوع.',
-    en: 'Exam with 30 questions randomly selected from a pool of 36. Covers all aspects of fasting: definition, conditions, invalidators, exemptions, and voluntary fasting.',
+    fr: 'Examen de 48 questions sélectionnées aléatoirement parmi une banque de 62 questions. Couvre tous les aspects du jeûne : définition, conditions, annulatifs, dispenses, scénarios médicaux, I\'tikaf, Kaffara, et jeûne surérogatoire.',
+    ar: 'امتحان من 48 سؤالاً يتم اختيارها عشوائياً من بنك يضم 62 سؤالاً. يغطي جميع جوانب الصيام: التعريف، الشروط، المفطرات، الرخص، السيناريوهات الطبية، الاعتكاف، الكفارة، وصيام التطوع.',
+    en: 'Exam with 48 questions randomly selected from a pool of 62. Covers all aspects of fasting: definition, conditions, invalidators, exemptions, medical scenarios, I\'tikaf, Kaffara, and voluntary fasting.',
   },
   instructions: {
-    fr: 'Vous avez 45 minutes pour répondre à 30 questions. Chaque question a une seule bonne réponse. Un score de 70% est requis pour réussir.',
-    ar: 'لديك 45 دقيقة للإجابة على 30 سؤالاً. لكل سؤال إجابة صحيحة واحدة. يُشترط 70% للنجاح.',
-    en: 'You have 45 minutes to answer 30 questions. Each question has one correct answer. A score of 70% is required to pass.',
+    fr: 'Vous avez 60 minutes pour répondre à 48 questions. Chaque question a une seule bonne réponse. Un score de 70% est requis pour réussir.',
+    ar: 'لديك 60 دقيقة للإجابة على 48 سؤالاً. لكل سؤال إجابة صحيحة واحدة. يُشترط 70% للنجاح.',
+    en: 'You have 60 minutes to answer 48 questions. Each question has one correct answer. A score of 70% is required to pass.',
   },
   courseSlug: 'siyam',
   questionPool: allQuestions,
-  questionsPerExam: 30,
+  questionsPerExam: 48,
   categoryConfig: [
     { category: 'definition', count: 4 },
     { category: 'conditions', count: 4 },
     { category: 'annulatifs', count: 7 },
     { category: 'dispenses', count: 5 },
-    { category: 'nafl', count: 5 },
-    { category: 'ramadan', count: 5 },
+    { category: 'medical', count: 8 },
+    { category: 'itikaf', count: 6 },
+    { category: 'kaffara', count: 6 },
+    { category: 'nafl', count: 4 },
+    { category: 'ramadan', count: 4 },
   ],
   questions: [],
-  duration: 45,
+  duration: 60,
   passingScore: 70,
   maxAttempts: 5,
   shuffleQuestions: true,

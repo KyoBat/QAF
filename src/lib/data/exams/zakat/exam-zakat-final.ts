@@ -623,16 +623,776 @@ const zakatFitrQuestions: ExamQuestion[] = [
 ];
 
 // ============================================
+// Questions - Actifs Financiers Modernes
+// ============================================
+
+const modernFinanceQuestions: ExamQuestion[] = [
+  {
+    id: 'zakat-modern-001',
+    question: {
+      fr: 'Doit-on payer la Zakat sur les actions en bourse ?',
+      ar: 'هل تجب الزكاة على الأسهم في البورصة؟',
+      en: 'Must one pay Zakat on stock market shares?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Non, jamais', ar: 'لا، أبدا', en: 'No, never' } },
+      { id: 'b', text: { fr: 'Oui, sur la valeur marchande si elles atteignent le Nisab et passent un an', ar: 'نعم، على القيمة السوقية إن بلغت النصاب ومر عليها حول', en: 'Yes, on market value if reaching Nisab and one year passes' } },
+      { id: 'c', text: { fr: 'Uniquement sur les dividendes', ar: 'على الأرباح فقط', en: 'Only on dividends' } },
+      { id: 'd', text: { fr: 'Seulement si vendues', ar: 'فقط إذا بيعت', en: 'Only if sold' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Oui, on paie 2,5% sur la valeur marchande totale des actions si elles atteignent le Nisab (environ 85g d\'or) et qu\'un an lunaire passe. Cela inclut les actions et leur valeur actuelle.',
+      ar: 'نعم، تُدفع 2.5% على القيمة السوقية الكلية للأسهم إن بلغت النصاب (حوالي 85غ من الذهب) ومر عليها حول قمري. يشمل الأسهم وقيمتها الحالية.',
+      en: 'Yes, pay 2.5% on total market value of shares if reaching Nisab (about 85g gold) and lunar year passes. Includes shares and their current value.',
+    },
+    points: 3,
+    difficulty: 'medium',
+    category: 'modern-finance',
+  },
+  {
+    id: 'zakat-modern-002',
+    question: {
+      fr: 'Comment calculer la Zakat sur un bien immobilier locatif ?',
+      ar: 'كيف تُحسب الزكاة على العقار المُؤجَّر؟',
+      en: 'How to calculate Zakat on rental property?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Sur la valeur totale du bien (prix d\'achat)', ar: 'على القيمة الكلية للعقار (سعر الشراء)', en: 'On total property value (purchase price)' } },
+      { id: 'b', text: { fr: 'Pas de Zakat sur l\'immobilier', ar: 'لا زكاة على العقارات', en: 'No Zakat on real estate' } },
+      { id: 'c', text: { fr: 'Uniquement sur le revenu locatif net après déduction des charges', ar: 'على دخل الإيجار الصافي فقط بعد خصم المصاريف', en: 'Only on net rental income after expenses' } },
+      { id: 'd', text: { fr: 'Sur 10% du prix du bien', ar: 'على 10% من سعر العقار', en: 'On 10% of property price' } },
+    ],
+    correctAnswer: 2,
+    explanation: {
+      fr: 'Pour un bien locatif (non destiné à la vente), on paie la Zakat uniquement sur le revenu locatif net épargné pendant un an, pas sur la valeur du bien lui-même.',
+      ar: 'للعقار المُؤجَّر (غير المُعد للبيع)، تُدفع الزكاة على دخل الإيجار الصافي المُدَّخَر لمدة عام فقط، وليس على قيمة العقار نفسه.',
+      en: 'For rental property (not for sale), pay Zakat only on net rental income saved for a year, not on property value itself.',
+    },
+    points: 3,
+    difficulty: 'medium',
+    category: 'modern-finance',
+  },
+  {
+    id: 'zakat-modern-003',
+    question: {
+      fr: 'Doit-on payer la Zakat sur les fonds de retraite (401k, pension) ?',
+      ar: 'هل تجب الزكاة على صناديق التقاعد؟',
+      en: 'Must one pay Zakat on retirement funds (401k, pension)?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Non, car l\'argent est bloqué', ar: 'لا، لأن المال محجوز', en: 'No, because money is locked' } },
+      { id: 'b', text: { fr: 'Oui, si accessible même avec pénalité', ar: 'نعم، إن كان قابلا للسحب حتى مع غرامة', en: 'Yes, if accessible even with penalty' } },
+      { id: 'c', text: { fr: 'Seulement après la retraite', ar: 'بعد التقاعد فقط', en: 'Only after retirement' } },
+      { id: 'd', text: { fr: 'Jamais de Zakat sur les pensions', ar: 'لا زكاة على المعاشات أبدا', en: 'Never Zakat on pensions' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Deux avis : 1) Oui chaque année si vous avez le contrôle (même théorique) du montant. 2) Non tant que bloqué, mais on paie une Zakat cumulative à la réception. L\'avis majoritaire contemporain favorise l\'option 1.',
+      ar: 'رأيان: ١) نعم كل عام إن كان لك سيطرة (حتى نظرية) على المبلغ. ٢) لا طالما محجوز، لكن تُدفع زكاة تراكمية عند الاستلام. الرأي المعاصر الراجح يفضل الخيار ١.',
+      en: 'Two opinions: 1) Yes annually if you have (even theoretical) control of amount. 2) No while locked, but pay cumulative Zakat upon receipt. Majority contemporary opinion favors option 1.',
+    },
+    points: 3,
+    difficulty: 'hard',
+    category: 'modern-finance',
+  },
+  {
+    id: 'zakat-modern-004',
+    question: {
+      fr: 'La Zakat est-elle due sur les cryptomonnaies (Bitcoin, Ethereum) ?',
+      ar: 'هل تجب الزكاة على العملات الرقمية (بيتكوين، إيثيريوم)؟',
+      en: 'Is Zakat due on cryptocurrencies (Bitcoin, Ethereum)?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Non, car ce n\'est pas de la monnaie réelle', ar: 'لا، لأنها ليست عملة حقيقية', en: 'No, as it\'s not real currency' } },
+      { id: 'b', text: { fr: 'Oui, traitée comme de l\'or/argent : 2,5% de la valeur si Nisab et un an', ar: 'نعم، تُعامل كالذهب/الفضة: 2.5% من القيمة إن بلغت النصاب ومر حول', en: 'Yes, treated like gold/silver: 2.5% of value if Nisab and one year' } },
+      { id: 'c', text: { fr: 'Uniquement si convertie en monnaie fiduciaire', ar: 'فقط إذا حُولت لعملة ورقية', en: 'Only if converted to fiat currency' } },
+      { id: 'd', text: { fr: '10% de Zakat', ar: '10% زكاة', en: '10% Zakat' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Selon l\'avis majoritaire des savants contemporains, les cryptomonnaies sont soumises à la Zakat comme l\'or : 2,5% de leur valeur marchande si elles atteignent le Nisab et qu\'un an passe.',
+      ar: 'عند أغلب العلماء المعاصرين، العملات الرقمية تخضع للزكاة كالذهب: 2.5% من قيمتها السوقية إن بلغت النصاب ومر عليها حول.',
+      en: 'According to majority of contemporary scholars, cryptocurrencies are subject to Zakat like gold: 2.5% of their market value if reaching Nisab and one year passes.',
+    },
+    points: 3,
+    difficulty: 'medium',
+    category: 'modern-finance',
+  },
+  {
+    id: 'zakat-modern-005',
+    question: {
+      fr: 'Un ETF (fonds indiciel coté) d\'or physique, comment calculer la Zakat ?',
+      ar: 'صندوق ETF للذهب الفعلي، كيف تُحسب الزكاة؟',
+      en: 'A physical gold ETF, how to calculate Zakat?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Pas de Zakat sur les ETF', ar: 'لا زكاة على صناديق ETF', en: 'No Zakat on ETFs' } },
+      { id: 'b', text: { fr: 'Comme la Zakat sur l\'or : 2,5% si 85g et un an', ar: 'كزكاة الذهب: 2.5% إن بلغ 85غ ومر حول', en: 'Like gold Zakat: 2.5% if 85g and one year' } },
+      { id: 'c', text: { fr: '5% de Zakat', ar: '5% زكاة', en: '5% Zakat' } },
+      { id: 'd', text: { fr: 'Seulement lors de la vente', ar: 'عند البيع فقط', en: 'Only upon sale' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Un ETF adossé à de l\'or physique (où vous possédez réellement de l\'or) est soumis à la Zakat de l\'or : 2,5% si vous possédez l\'équivalent de 85g d\'or et qu\'un an passe.',
+      ar: 'صندوق ETF مدعوم بالذهب الفعلي (حيث تملك فعليا ذهبا) يخضع لزكاة الذهب: 2.5% إن ملكت ما يعادل 85غ من الذهب ومر حول.',
+      en: 'A physical gold-backed ETF (where you actually own gold) is subject to gold Zakat: 2.5% if you own equivalent of 85g gold and one year passes.',
+    },
+    points: 3,
+    difficulty: 'hard',
+    category: 'modern-finance',
+  },
+  {
+    id: 'zakat-modern-006',
+    question: {
+      fr: 'Les obligations (bonds) sont-elles soumises à la Zakat ?',
+      ar: 'هل السندات (bonds) تخضع للزكاة؟',
+      en: 'Are bonds subject to Zakat?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Non, les obligations sont interdites en Islam (Riba)', ar: 'لا، السندات محرمة في الإسلام (ربا)', en: 'No, bonds are forbidden in Islam (Riba)' } },
+      { id: 'b', text: { fr: 'Oui, 2,5% sur la valeur', ar: 'نعم، 2.5% على القيمة', en: 'Yes, 2.5% on value' } },
+      { id: 'c', text: { fr: 'Dépend du type d\'obligation', ar: 'حسب نوع السند', en: 'Depends on bond type' } },
+      { id: 'd', text: { fr: 'Zakat seulement sur les intérêts qu\'on donne en charité', ar: 'زكاة على الفوائد التي تُعطى صدقة فقط', en: 'Zakat only on interest given to charity' } },
+    ],
+    correctAnswer: 0,
+    explanation: {
+      fr: 'Les obligations conventionnelles avec intérêts sont du Riba (usure) interdit en Islam. On ne peut les posséder. Si quelqu\'un en possède, il doit s\'en débarrasser et donner les intérêts en charité (pas de Zakat dessus car argent illicite).',
+      ar: 'السندات التقليدية بالفوائد هي ربا محرم في الإسلام. لا يجوز امتلاكها. إن امتلكها أحد، يجب التخلص منها وإعطاء الفوائد صدقة (لا زكاة عليها لأنها مال حرام).',
+      en: 'Conventional interest-bearing bonds are Riba (usury) forbidden in Islam. Cannot own them. If someone owns them, must dispose and give interest to charity (no Zakat on it as illicit wealth).',
+    },
+    points: 3,
+    difficulty: 'medium',
+    category: 'modern-finance',
+  },
+  {
+    id: 'zakat-modern-007',
+    question: {
+      fr: 'Un compte d\'épargne avec intérêts (Riba), comment gérer la Zakat ?',
+      ar: 'حساب توفير بفوائد (ربا)، كيف تُدار الزكاة؟',
+      en: 'A savings account with interest (Riba), how to manage Zakat?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Zakat sur le capital seulement (2,5%), donner les intérêts en charité séparément', ar: 'زكاة على رأس المال فقط (2.5%)، إعطاء الفوائد صدقة منفصلة', en: 'Zakat on principal only (2.5%), give interest to charity separately' } },
+      { id: 'b', text: { fr: 'Zakat sur capital + intérêts', ar: 'زكاة على رأس المال + الفوائد', en: 'Zakat on principal + interest' } },
+      { id: 'c', text: { fr: 'Pas de Zakat car argent illicite', ar: 'لا زكاة لأنه مال حرام', en: 'No Zakat as illicit wealth' } },
+      { id: 'd', text: { fr: '5% de Zakat', ar: '5% زكاة', en: '5% Zakat' } },
+    ],
+    correctAnswer: 0,
+    explanation: {
+      fr: 'Payez 2,5% de Zakat sur votre capital licite. Les intérêts (Riba) doivent être donnés intégralement en charité aux pauvres (sans intention de récompense). Idéalement, utilisez des comptes sans intérêts.',
+      ar: 'ادفع 2.5% زكاة على رأس مالك الحلال. الفوائد (الربا) يجب إعطاؤها كاملة صدقة للفقراء (بدون نية الأجر). من الأفضل استعمال حسابات بدون فوائد.',
+      en: 'Pay 2.5% Zakat on your lawful principal. Interest (Riba) must be given entirely to charity for poor (without intention of reward). Ideally, use interest-free accounts.',
+    },
+    points: 3,
+    difficulty: 'medium',
+    category: 'modern-finance',
+  },
+  {
+    id: 'zakat-modern-008',
+    question: {
+      fr: 'Les NFTs (jetons non fongibles) sont-ils soumis à la Zakat ?',
+      ar: 'هل الـNFTs (رموز غير قابلة للاستبدال) تخضع للزكاة؟',
+      en: 'Are NFTs (non-fungible tokens) subject to Zakat?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Non, ce n\'est pas un bien Zakatable', ar: 'لا، ليس مالا قابلا للزكاة', en: 'No, not Zakatable wealth' } },
+      { id: 'b', text: { fr: 'Oui, si détenus pour la vente : 2,5% de la valeur marchande', ar: 'نعم، إن احتُفظ بها للبيع: 2.5% من القيمة السوقية', en: 'Yes, if held for sale: 2.5% of market value' } },
+      { id: 'c', text: { fr: 'Zakat de 10%', ar: 'زكاة 10%', en: 'Zakat of 10%' } },
+      { id: 'd', text: { fr: 'Uniquement après vente', ar: 'بعد البيع فقط', en: 'Only after sale' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Si les NFTs sont détenus comme investissement pour la revente, ils sont traités comme des biens commerciaux : Zakat de 2,5% sur leur valeur marchande si Nisab atteint. Si usage personnel (collection), pas de Zakat.',
+      ar: 'إن احتُفظ بالـNFTs كاستثمار لإعادة البيع، تُعامل كسلع تجارية: زكاة 2.5% على قيمتها السوقية إن بلغت النصاب. إن كانت للاستعمال الشخصي (مجموعة)، فلا زكاة.',
+      en: 'If NFTs held as investment for resale, treated as trade goods: 2.5% Zakat on market value if Nisab reached. If personal use (collection), no Zakat.',
+    },
+    points: 3,
+    difficulty: 'hard',
+    category: 'modern-finance',
+  },
+  {
+    id: 'zakat-modern-009',
+    question: {
+      fr: 'Un prêt étudiant (dette) réduit-il le montant Zakatable ?',
+      ar: 'هل قرض الطالب (دين) يُقلل المبلغ الزكوي؟',
+      en: 'Does a student loan (debt) reduce Zakatable amount?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Oui, on déduit toutes les dettes', ar: 'نعم، تُخصم كل الديون', en: 'Yes, deduct all debts' } },
+      { id: 'b', text: { fr: 'Non, les dettes à long terme ne se déduisent pas selon l\'avis majoritaire', ar: 'لا، الديون طويلة الأجل لا تُخصم عند الجمهور', en: 'No, long-term debts don\'t deduct per majority' } },
+      { id: 'c', text: { fr: 'Seulement 50% de la dette', ar: '50% من الدين فقط', en: 'Only 50% of debt' } },
+      { id: 'd', text: { fr: 'Dépend du pays', ar: 'حسب البلد', en: 'Depends on country' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Deux avis : Majoritaire = les dettes à long terme (prêt étudiant, hypothèque) ne se déduisent pas de la Zakat car non exigibles immédiatement. Minoritaire (Hanafis) = on déduit toutes les dettes. L\'avis répandu est de ne pas déduire les dettes à long terme.',
+      ar: 'رأيان: الجمهور = الديون طويلة الأجل (قرض طالب، رهن عقاري) لا تُخصم من الزكاة لأنها غير مستحقة فورا. الأقلية (الحنفية) = تُخصم كل الديون. الرأي الشائع عدم خصم الديون طويلة الأجل.',
+      en: 'Two opinions: Majority = long-term debts (student loan, mortgage) don\'t deduct from Zakat as not immediately due. Minority (Hanafis) = deduct all debts. Common opinion is not deducting long-term debts.',
+    },
+    points: 3,
+    difficulty: 'hard',
+    category: 'modern-finance',
+  },
+  {
+    id: 'zakat-modern-010',
+    question: {
+      fr: 'Les fonds d\'investissement Halal (Shariah-compliant), quelle Zakat ?',
+      ar: 'صناديق الاستثمار الحلال (المتوافقة مع الشريعة)، ما الزكاة؟',
+      en: 'Halal investment funds (Shariah-compliant), what Zakat?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Pas de Zakat car c\'est un fonds', ar: 'لا زكاة لأنه صندوق', en: 'No Zakat as it\'s a fund' } },
+      { id: 'b', text: { fr: '2,5% sur la valeur totale de vos parts si Nisab et un an', ar: '2.5% على القيمة الكلية لحصصك إن بلغت النصاب ومر حول', en: '2.5% on total value of your shares if Nisab and one year' } },
+      { id: 'c', text: { fr: 'Seulement sur les dividendes', ar: 'على الأرباح فقط', en: 'Only on dividends' } },
+      { id: 'd', text: { fr: '10% de Zakat', ar: '10% زكاة', en: '10% Zakat' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Pour les fonds Halal, payez 2,5% Zakat sur la valeur marchande totale de vos parts si elles atteignent le Nisab et qu\'un an passe. C\'est comme des actions individuelles regroupées.',
+      ar: 'لصناديق الاستثمار الحلال، ادفع 2.5% زكاة على القيمة السوقية الكلية لحصصك إن بلغت النصاب ومر حول. مثل أسهم فردية مجمّعة.',
+      en: 'For Halal funds, pay 2.5% Zakat on total market value of your shares if reaching Nisab and one year passes. Like individual stocks grouped together.',
+    },
+    points: 2,
+    difficulty: 'easy',
+    category: 'modern-finance',
+  },
+  {
+    id: 'zakat-modern-011',
+    question: {
+      fr: 'Un bien immobilier acheté pour la revente (investissement), quelle Zakat ?',
+      ar: 'عقار مُشترى لإعادة البيع (استثمار)، ما الزكاة؟',
+      en: 'A property bought for resale (investment), what Zakat?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Pas de Zakat sur l\'immobilier', ar: 'لا زكاة على العقارات', en: 'No Zakat on real estate' } },
+      { id: 'b', text: { fr: '2,5% sur la valeur marchande actuelle du bien chaque année', ar: '2.5% على القيمة السوقية الحالية للعقار كل عام', en: '2.5% on current market value of property each year' } },
+      { id: 'c', text: { fr: 'Seulement lors de la vente', ar: 'عند البيع فقط', en: 'Only upon sale' } },
+      { id: 'd', text: { fr: '10% sur le profit', ar: '10% على الربح', en: '10% on profit' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Un bien immobilier détenu pour la revente (\'Urud at-Tijarah) est soumis à la Zakat : 2,5% sur sa valeur marchande estimée chaque année, comme un stock commercial.',
+      ar: 'العقار المُحتفَظ به لإعادة البيع (عروض التجارة) يخضع للزكاة: 2.5% على قيمته السوقية المقدرة كل عام، كمخزون تجاري.',
+      en: 'Property held for resale (\'Urud at-Tijarah) is subject to Zakat: 2.5% on its estimated market value each year, like commercial inventory.',
+    },
+    points: 3,
+    difficulty: 'medium',
+    category: 'modern-finance',
+  },
+  {
+    id: 'zakat-modern-012',
+    question: {
+      fr: 'Les points de fidélité ou miles aériens ont-ils une Zakat ?',
+      ar: 'هل نقاط الولاء أو الأميال الجوية عليها زكاة؟',
+      en: 'Do loyalty points or air miles have Zakat?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Oui, 2,5% de leur valeur', ar: 'نعم، 2.5% من قيمتها', en: 'Yes, 2.5% of their value' } },
+      { id: 'b', text: { fr: 'Non, car ils n\'ont pas de valeur monétaire garantie et ne sont pas transférables', ar: 'لا، لأنها ليس لها قيمة نقدية مضمونة وغير قابلة للتحويل', en: 'No, as they have no guaranteed monetary value and aren\'t transferable' } },
+      { id: 'c', text: { fr: 'Uniquement si convertis en argent', ar: 'فقط إذا حُولت لمال', en: 'Only if converted to money' } },
+      { id: 'd', text: { fr: 'Zakat de 10%', ar: 'زكاة 10%', en: 'Zakat of 10%' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Les points de fidélité/miles n\'ont généralement pas de Zakat car : 1) pas de valeur monétaire garantie, 2) non transférables, 3) peuvent expirer. Cependant, si convertis en argent ou biens, alors Zakat applicable.',
+      ar: 'نقاط الولاء/الأميال عموما ليس عليها زكاة لأن: ١) ليس لها قيمة نقدية مضمونة، ٢) غير قابلة للتحويل، ٣) قد تنتهي صلاحيتها. لكن إن حُولت لمال أو سلع، فالزكاة واجبة.',
+      en: 'Loyalty points/miles generally have no Zakat as: 1) no guaranteed monetary value, 2) non-transferable, 3) may expire. However, if converted to cash or goods, then Zakat applicable.',
+    },
+    points: 2,
+    difficulty: 'easy',
+    category: 'modern-finance',
+  },
+];
+
+// ============================================
+// Questions - Production Agricole (Zakat az-Zur'ū)
+// ============================================
+
+const agricultureQuestions: ExamQuestion[] = [
+  {
+    id: 'zakat-agri-001',
+    question: {
+      fr: 'Quel est le taux de Zakat sur les récoltes irriguées naturellement (pluie, rivière) ?',
+      ar: 'ما نسبة زكاة المحاصيل المروية طبيعيا (مطر، نهر)؟',
+      en: 'What is the Zakat rate on crops naturally irrigated (rain, river)?',
+    },
+    options: [
+      { id: 'a', text: { fr: '2,5%', ar: '2.5%', en: '2.5%' } },
+      { id: 'b', text: { fr: '5%', ar: '5%', en: '5%' } },
+      { id: 'c', text: { fr: '10% (Al-\'Ushr)', ar: '10% (العُشر)', en: '10% (Al-\'Ushr)' } },
+      { id: 'd', text: { fr: '20%', ar: '20%', en: '20%' } },
+    ],
+    correctAnswer: 2,
+    explanation: {
+      fr: 'Le Prophète ﷺ a dit : "Ce qui est irrigué par la pluie, les rivières ou les sources souterraines : un dixième (10%)" (Bukhari). C\'est Al-\'Ushr.',
+      ar: 'قال النبي ﷺ: "فيما سقت السماء والأنهار والعيون العشر" (البخاري). هو العُشر (10%).',
+      en: 'The Prophet ﷺ said: "What is watered by rain, rivers or springs: one-tenth (10%)" (Bukhari). It\'s Al-\'Ushr.',
+    },
+    points: 2,
+    difficulty: 'easy',
+    category: 'agriculture',
+  },
+  {
+    id: 'zakat-agri-002',
+    question: {
+      fr: 'Quel est le taux de Zakat sur les récoltes irriguées artificiellement (pompes, puits) ?',
+      ar: 'ما نسبة زكاة المحاصيل المروية صناعيا (مضخات، آبار)؟',
+      en: 'What is the Zakat rate on crops artificially irrigated (pumps, wells)?',
+    },
+    options: [
+      { id: 'a', text: { fr: '10%', ar: '10%', en: '10%' } },
+      { id: 'b', text: { fr: '5% (Nisf al-\'Ushr)', ar: '5% (نصف العُشر)', en: '5% (Nisf al-\'Ushr)' } },
+      { id: 'c', text: { fr: '2,5%', ar: '2.5%', en: '2.5%' } },
+      { id: 'd', text: { fr: 'Pas de Zakat', ar: 'لا زكاة', en: 'No Zakat' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Le Prophète ﷺ a dit : "Et ce qui est irrigué par l\'effort (irrigation artificielle) : un demi-dixième (5%)" (Bukhari). C\'est Nisf al-\'Ushr, car l\'agriculteur a des coûts.',
+      ar: 'قال النبي ﷺ: "وفيما سُقي بالنضح نصف العشر" (البخاري). هو نصف العُشر (5%)، لأن المزارع تحمل تكاليف.',
+      en: 'The Prophet ﷺ said: "And what is irrigated by effort (artificial irrigation): half-tenth (5%)" (Bukhari). It\'s Nisf al-\'Ushr, as farmer has costs.',
+    },
+    points: 2,
+    difficulty: 'easy',
+    category: 'agriculture',
+  },
+  {
+    id: 'zakat-agri-003',
+    question: {
+      fr: 'Quel est le Nisab pour la Zakat agricole ?',
+      ar: 'ما نصاب زكاة الزروع؟',
+      en: 'What is the Nisab for agricultural Zakat?',
+    },
+    options: [
+      { id: 'a', text: { fr: '85 grammes d\'or', ar: '85 غرام ذهب', en: '85 grams of gold' } },
+      { id: 'b', text: { fr: 'Pas de Nisab', ar: 'لا نصاب', en: 'No Nisab' } },
+      { id: 'c', text: { fr: '5 Wasq (environ 653 kg)', ar: '5 أوسق (حوالي 653 كغ)', en: '5 Wasq (about 653 kg)' } },
+      { id: 'd', text: { fr: '1000 kg', ar: '1000 كغ', en: '1000 kg' } },
+    ],
+    correctAnswer: 2,
+    explanation: {
+      fr: 'Le Prophète ﷺ a dit : "Il n\'y a pas de Sadaqa (Zakat) sur moins de 5 Wasq" (Bukhari). 1 Wasq = 60 Sa\' = environ 130 kg. Donc 5 Wasq ≈ 653 kg de grains/dattes.',
+      ar: 'قال النبي ﷺ: "ليس فيما دون خمسة أوسق صدقة" (البخاري). 1 وسق = 60 صاعا = حوالي 130 كغ. إذن 5 أوسق ≈ 653 كغ من الحبوب/التمور.',
+      en: 'The Prophet ﷺ said: "There is no Sadaqa on less than 5 Wasq" (Bukhari). 1 Wasq = 60 Sa\' = about 130 kg. So 5 Wasq ≈ 653 kg of grains/dates.',
+    },
+    points: 3,
+    difficulty: 'medium',
+    category: 'agriculture',
+  },
+  {
+    id: 'zakat-agri-004',
+    question: {
+      fr: 'Quels types de cultures sont soumis à la Zakat agricole ?',
+      ar: 'ما أنواع المحاصيل الخاضعة لزكاة الزروع؟',
+      en: 'What types of crops are subject to agricultural Zakat?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Uniquement le blé', ar: 'القمح فقط', en: 'Only wheat' } },
+      { id: 'b', text: { fr: 'Les céréales (blé, orge, riz), les dattes, les raisins secs, et tout aliment de base stockable', ar: 'الحبوب (قمح، شعير، أرز)، التمور، الزبيب، وكل طعام أساسي قابل للتخزين', en: 'Grains (wheat, barley, rice), dates, raisins, and all storable staple food' } },
+      { id: 'c', text: { fr: 'Uniquement les fruits', ar: 'الفواكه فقط', en: 'Only fruits' } },
+      { id: 'd', text: { fr: 'Toutes les cultures sans exception', ar: 'كل المحاصيل بلا استثناء', en: 'All crops without exception' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'La Zakat agricole s\'applique aux céréales (blé, orge, riz, maïs), légumineuses (lentilles, pois chiches), dattes, raisins secs. Condition : aliment de base stockable qui se pèse (non périssable rapidement).',
+      ar: 'زكاة الزروع تُطبق على الحبوب (قمح، شعير، أرز، ذرة)، البقوليات (عدس، حمص)، التمور، الزبيب. الشرط: طعام أساسي قابل للتخزين ويُكال (غير قابل للتلف السريع).',
+      en: 'Agricultural Zakat applies to grains (wheat, barley, rice, corn), legumes (lentils, chickpeas), dates, raisins. Condition: storable staple food that is measured (not quickly perishable).',
+    },
+    points: 3,
+    difficulty: 'medium',
+    category: 'agriculture',
+  },
+  {
+    id: 'zakat-agri-005',
+    question: {
+      fr: 'Les légumes (tomates, concombres) sont-ils soumis à la Zakat agricole ?',
+      ar: 'هل الخضروات (طماطم، خيار) تخضع لزكاة الزروع؟',
+      en: 'Are vegetables (tomatoes, cucumbers) subject to agricultural Zakat?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Oui, 10%', ar: 'نعم، 10%', en: 'Yes, 10%' } },
+      { id: 'b', text: { fr: 'Non selon l\'avis majoritaire car périssables et non stockables', ar: 'لا عند الجمهور لأنها قابلة للتلف وغير قابلة للتخزين', en: 'No per majority as perishable and not storable' } },
+      { id: 'c', text: { fr: 'Seulement les tomates', ar: 'الطماطم فقط', en: 'Only tomatoes' } },
+      { id: 'd', text: { fr: 'Oui, mais 2,5%', ar: 'نعم، لكن 2.5%', en: 'Yes, but 2.5%' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Selon l\'avis majoritaire, les légumes frais ne sont pas soumis à la Zakat agricole car périssables et non stockables. Cependant, si vendus, leur revenu net épargné un an est soumis à Zakat (2,5%).',
+      ar: 'عند الجمهور، الخضروات الطازجة لا تخضع لزكاة الزروع لأنها قابلة للتلف وغير قابلة للتخزين. لكن إن بيعت، فدخلها الصافي المُدَّخَر لعام يخضع للزكاة (2.5%).',
+      en: 'Per majority, fresh vegetables aren\'t subject to agricultural Zakat as perishable and not storable. However, if sold, their net income saved for a year is subject to Zakat (2.5%).',
+    },
+    points: 3,
+    difficulty: 'hard',
+    category: 'agriculture',
+  },
+  {
+    id: 'zakat-agri-006',
+    question: {
+      fr: 'Quand la Zakat agricole doit-elle être payée ?',
+      ar: 'متى تُدفع زكاة الزروع؟',
+      en: 'When must agricultural Zakat be paid?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Après un an lunaire', ar: 'بعد حول قمري', en: 'After one lunar year' } },
+      { id: 'b', text: { fr: 'Au moment de la récolte', ar: 'وقت الحصاد', en: 'At harvest time' } },
+      { id: 'c', text: { fr: 'En fin d\'année fiscale', ar: 'في نهاية السنة المالية', en: 'At end of fiscal year' } },
+      { id: 'd', text: { fr: 'Pendant Ramadan', ar: 'في رمضان', en: 'During Ramadan' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'La Zakat agricole est due immédiatement au moment de la récolte. Allah dit : "Et donnez-en l\'aumône le jour de sa récolte" (6:141). Pas besoin d\'attendre un an comme pour l\'argent.',
+      ar: 'زكاة الزروع واجبة فورا وقت الحصاد. قال الله: "وَآتُوا حَقَّهُ يَوْمَ حَصَادِهِ" (6:141). لا حاجة لانتظار حول كالمال.',
+      en: 'Agricultural Zakat is due immediately at harvest. Allah says: "And give its due on the day of its harvest" (6:141). No need to wait a year like for money.',
+    },
+    points: 2,
+    difficulty: 'easy',
+    category: 'agriculture',
+  },
+  {
+    id: 'zakat-agri-007',
+    question: {
+      fr: 'L\'huile d\'olive est-elle soumise à la Zakat agricole ?',
+      ar: 'هل زيت الزيتون يخضع لزكاة الزروع؟',
+      en: 'Is olive oil subject to agricultural Zakat?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Non, jamais', ar: 'لا، أبدا', en: 'No, never' } },
+      { id: 'b', text: { fr: 'Oui selon certains savants : 10% ou 5% selon irrigation, si Nisab atteint', ar: 'نعم عند بعض العلماء: 10% أو 5% حسب الري، إن بلغ النصاب', en: 'Yes per some scholars: 10% or 5% per irrigation, if Nisab reached' } },
+      { id: 'c', text: { fr: 'Seulement 2,5%', ar: '2.5% فقط', en: 'Only 2.5%' } },
+      { id: 'd', text: { fr: 'Uniquement en Palestine', ar: 'في فلسطين فقط', en: 'Only in Palestine' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Avis divergent. Certains (Malikis, Hanbalis) appliquent la Zakat agricole sur l\'huile d\'olive (10%/5%) si Nisab (653 kg d\'olives ou équivalent huile). D\'autres non car pas explicitement mentionné dans les Hadiths.',
+      ar: 'خلاف في الرأي. البعض (المالكية، الحنابلة) يُطبقون زكاة الزروع على زيت الزيتون (10%/5%) إن بلغ النصاب (653 كغ زيتون أو ما يعادله زيتا). البعض لا لعدم ذكره صراحة في الأحاديث.',
+      en: 'Opinion differs. Some (Malikis, Hanbalis) apply agricultural Zakat on olive oil (10%/5%) if Nisab (653 kg olives or equivalent oil). Others no as not explicitly mentioned in Hadiths.',
+    },
+    points: 3,
+    difficulty: 'hard',
+    category: 'agriculture',
+  },
+  {
+    id: 'zakat-agri-008',
+    question: {
+      fr: 'Un agriculteur avec irrigation mixte (50% pluie, 50% pompage), quel taux ?',
+      ar: 'مزارع بري مختلط (50% مطر، 50% ضخ)، ما النسبة؟',
+      en: 'A farmer with mixed irrigation (50% rain, 50% pumping), what rate?',
+    },
+    options: [
+      { id: 'a', text: { fr: '10%', ar: '10%', en: '10%' } },
+      { id: 'b', text: { fr: '5%', ar: '5%', en: '5%' } },
+      { id: 'c', text: { fr: '7,5% (moyenne)', ar: '7.5% (متوسط)', en: '7.5% (average)' } },
+      { id: 'd', text: { fr: 'On prend le taux dominant (ici 7,5% car égalité)', ar: 'يُؤخذ السائد (هنا 7.5% للتساوي)', en: 'Take dominant rate (here 7.5% as equal)' } },
+    ],
+    correctAnswer: 2,
+    explanation: {
+      fr: 'En cas d\'irrigation mixte à parts égales, l\'avis majoritaire est de prendre la moyenne : (10% + 5%) / 2 = 7,5%. Si l\'un prédomine, on prend son taux.',
+      ar: 'في حال الري المختلط بنسب متساوية، الرأي الراجح أخذ المتوسط: (10% + 5%) / 2 = 7.5%. إن غلب أحدهما، يُؤخذ معدله.',
+      en: 'In case of equally mixed irrigation, majority opinion is taking average: (10% + 5%) / 2 = 7.5%. If one predominates, take its rate.',
+    },
+    points: 3,
+    difficulty: 'hard',
+    category: 'agriculture',
+  },
+  {
+    id: 'zakat-agri-009',
+    question: {
+      fr: 'Les serres agricoles modernes (greenhouses) avec irrigation automatique, quel taux ?',
+      ar: 'البيوت البلاستيكية الحديثة بري أوتوماتيكي، ما النسبة؟',
+      en: 'Modern greenhouses with automatic irrigation, what rate?',
+    },
+    options: [
+      { id: 'a', text: { fr: '10%', ar: '10%', en: '10%' } },
+      { id: 'b', text: { fr: '5% car irrigation artificielle coûteuse', ar: '5% لأن الري الصناعي مكلف', en: '5% as artificial irrigation is costly' } },
+      { id: 'c', text: { fr: 'Pas de Zakat agricole, seulement 2,5% sur le revenu net', ar: 'لا زكاة زروع، فقط 2.5% على الدخل الصافي', en: 'No agricultural Zakat, only 2.5% on net income' } },
+      { id: 'd', text: { fr: '15%', ar: '15%', en: '15%' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Les serres avec irrigation artificielle (pompes, systèmes automatisés) ont un coût élevé donc taux de 5% (Nisf al-\'Ushr). Les coûts d\'infrastructure et d\'énergie justifient le taux réduit.',
+      ar: 'البيوت البلاستيكية بالري الصناعي (مضخات، أنظمة آلية) لها تكلفة عالية فنسبتها 5% (نصف العُشر). تكاليف البنية التحتية والطاقة تُبرر النسبة المُخفضة.',
+      en: 'Greenhouses with artificial irrigation (pumps, automated systems) have high cost so rate of 5% (Nisf al-\'Ushr). Infrastructure and energy costs justify reduced rate.',
+    },
+    points: 3,
+    difficulty: 'medium',
+    category: 'agriculture',
+  },
+  {
+    id: 'zakat-agri-010',
+    question: {
+      fr: 'Doit-on déduire les coûts de production de la Zakat agricole ?',
+      ar: 'هل تُخصم تكاليف الإنتاج من زكاة الزروع؟',
+      en: 'Should production costs be deducted from agricultural Zakat?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Oui, on déduit tous les coûts', ar: 'نعم، تُخصم كل التكاليف', en: 'Yes, deduct all costs' } },
+      { id: 'b', text: { fr: 'Non, on paie sur la récolte brute selon l\'avis majoritaire', ar: 'لا، تُدفع على المحصول الإجمالي عند الجمهور', en: 'No, pay on gross harvest per majority' } },
+      { id: 'c', text: { fr: 'Seulement 50% des coûts', ar: '50% من التكاليف فقط', en: 'Only 50% of costs' } },
+      { id: 'd', text: { fr: 'Dépend du type de culture', ar: 'حسب نوع المحصول', en: 'Depends on crop type' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'L\'avis majoritaire : on paie la Zakat sur la récolte brute sans déduire les coûts. Le taux réduit (5%) pour irrigation artificielle compense déjà les coûts. Avis minoritaire (Abu Hanifa) permet déduction des dettes agricoles.',
+      ar: 'الرأي الراجح: تُدفع الزكاة على المحصول الإجمالي دون خصم التكاليف. النسبة المخفضة (5%) للري الصناعي تُعوض التكاليف. رأي أقلية (أبو حنيفة) يُجيز خصم الديون الزراعية.',
+      en: 'Majority opinion: pay Zakat on gross harvest without deducting costs. Reduced rate (5%) for artificial irrigation already compensates costs. Minority opinion (Abu Hanifa) permits deducting agricultural debts.',
+    },
+    points: 3,
+    difficulty: 'hard',
+    category: 'agriculture',
+  },
+];
+
+// ============================================
+// Questions - Bétail (Zakat al-An'ām)
+// ============================================
+
+const livestockQuestions: ExamQuestion[] = [
+  {
+    id: 'zakat-livestock-001',
+    question: {
+      fr: 'Quel est le Nisab minimum pour la Zakat sur les ovins (moutons/chèvres) ?',
+      ar: 'ما النصاب الأدنى لزكاة الغنم (الأغنام/الماعز)؟',
+      en: 'What is the minimum Nisab for Zakat on ovines (sheep/goats)?',
+    },
+    options: [
+      { id: 'a', text: { fr: '5 têtes', ar: '5 رؤوس', en: '5 heads' } },
+      { id: 'b', text: { fr: '30 têtes', ar: '30 رأسا', en: '30 heads' } },
+      { id: 'c', text: { fr: '40 têtes', ar: '40 رأسا', en: '40 heads' } },
+      { id: 'd', text: { fr: '100 têtes', ar: '100 رأس', en: '100 heads' } },
+    ],
+    correctAnswer: 2,
+    explanation: {
+      fr: 'Le Prophète ﷺ a dit : "Pour 40 à 120 moutons/chèvres : 1 mouton". Donc le Nisab est 40 têtes. Moins de 40 : pas de Zakat.',
+      ar: 'قال النبي ﷺ: "في 40 إلى 120 من الغنم شاة واحدة". إذن النصاب 40 رأسا. أقل من 40: لا زكاة.',
+      en: 'The Prophet ﷺ said: "For 40 to 120 sheep/goats: 1 sheep". So Nisab is 40 heads. Less than 40: no Zakat.',
+    },
+    points: 2,
+    difficulty: 'easy',
+    category: 'livestock',
+  },
+  {
+    id: 'zakat-livestock-002',
+    question: {
+      fr: 'Combien de Zakat pour 60 moutons pâturant librement (Sa\'ima) ?',
+      ar: 'كم زكاة 60 خروفا سائمة؟',
+      en: 'How much Zakat for 60 freely grazing sheep (Sa\'ima)?',
+    },
+    options: [
+      { id: 'a', text: { fr: '1 mouton', ar: 'شاة واحدة', en: '1 sheep' } },
+      { id: 'b', text: { fr: '2 moutons', ar: 'شاتان', en: '2 sheep' } },
+      { id: 'c', text: { fr: '3 moutons', ar: '3 شياه', en: '3 sheep' } },
+      { id: 'd', text: { fr: 'Pas de Zakat', ar: 'لا زكاة', en: 'No Zakat' } },
+    ],
+    correctAnswer: 0,
+    explanation: {
+      fr: 'De 40 à 120 moutons : 1 mouton en Zakat. Donc pour 60 têtes, on donne 1 mouton d\'au moins 1 an (Jadha\' pour ovins, Thaniyy pour caprins).',
+      ar: 'من 40 إلى 120 خروفا: شاة واحدة في الزكاة. إذن ل60 رأسا، تُعطى شاة واحدة بعمر سنة على الأقل (جذع للضأن، ثني للماعز).',
+      en: 'From 40 to 120 sheep: 1 sheep in Zakat. So for 60 heads, give 1 sheep at least 1 year old (Jadha\' for sheep, Thaniyy for goats).',
+    },
+    points: 2,
+    difficulty: 'easy',
+    category: 'livestock',
+  },
+  {
+    id: 'zakat-livestock-003',
+    question: {
+      fr: 'Quelle est la condition "Sa\'ima" pour la Zakat du bétail ?',
+      ar: 'ما شرط "السائمة" لزكاة الأنعام؟',
+      en: 'What is the "Sa\'ima" condition for livestock Zakat?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Le bétail doit être blanc', ar: 'يجب أن تكون بيضاء', en: 'Livestock must be white' } },
+      { id: 'b', text: { fr: 'Le bétail doit paître librement la majeure partie de l\'année, non nourri par le propriétaire', ar: 'يجب أن ترعى حرة معظم السنة، غير مُعلّفة من المالك', en: 'Livestock must graze freely most of year, not fed by owner' } },
+      { id: 'c', text: { fr: 'Le bétail doit avoir plus de 5 ans', ar: 'يجب أن يكون عمرها أكثر من 5 سنوات', en: 'Livestock must be over 5 years old' } },
+      { id: 'd', text: { fr: 'Le bétail doit être mâle', ar: 'يجب أن يكون ذكرا', en: 'Livestock must be male' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Sa\'ima = bétail qui paît librement dans les pâturages naturels la plupart de l\'année sans que le propriétaire ne le nourrisse. Si nourri constamment (Ma\'lufa), certains disent pas de Zakat, d\'autres oui.',
+      ar: 'السائمة = الأنعام التي ترعى حرة في المراعي الطبيعية معظم السنة دون أن يُعلّفها المالك. إن كانت معلوفة دائما، البعض يقول لا زكاة، والبعض نعم.',
+      en: 'Sa\'ima = livestock grazing freely in natural pastures most of year without owner feeding it. If constantly fed (Ma\'lufa), some say no Zakat, others yes.',
+    },
+    points: 3,
+    difficulty: 'medium',
+    category: 'livestock',
+  },
+  {
+    id: 'zakat-livestock-004',
+    question: {
+      fr: 'Quel est le Nisab pour les bovins (vaches, buffles) ?',
+      ar: 'ما النصاب للبقر (الأبقار، الجاموس)؟',
+      en: 'What is the Nisab for cattle (cows, buffalo)?',
+    },
+    options: [
+      { id: 'a', text: { fr: '5 têtes', ar: '5 رؤوس', en: '5 heads' } },
+      { id: 'b', text: { fr: '10 têtes', ar: '10 رؤوس', en: '10 heads' } },
+      { id: 'c', text: { fr: '30 têtes', ar: '30 رأسا', en: '30 heads' } },
+      { id: 'd', text: { fr: '40 têtes', ar: '40 رأسا', en: '40 heads' } },
+    ],
+    correctAnswer: 2,
+    explanation: {
+      fr: 'Le Prophète ﷺ a établi : pour 30 bovins : 1 Tabi\' (veau d\'1 an), pour 40 bovins : 1 Musinna (vache de 2 ans). Le Nisab est donc 30 têtes.',
+      ar: 'النبي ﷺ حدد: ل30 بقرة: تبيع أو تبيعة (عجل عمره سنة)، ل40 بقرة: مُسنة (بقرة عمرها سنتان). إذن النصاب 30 رأسا.',
+      en: 'The Prophet ﷺ established: for 30 cattle: 1 Tabi\' (1-year calf), for 40 cattle: 1 Musinna (2-year cow). So Nisab is 30 heads.',
+    },
+    points: 2,
+    difficulty: 'easy',
+    category: 'livestock',
+  },
+  {
+    id: 'zakat-livestock-005',
+    question: {
+      fr: 'Combien de Zakat pour 50 vaches Sa\'ima ?',
+      ar: 'كم زكاة 50 بقرة سائمة؟',
+      en: 'How much Zakat for 50 Sa\'ima cows?',
+    },
+    options: [
+      { id: 'a', text: { fr: '1 Tabi\' (veau d\'1 an)', ar: 'تبيع واحد (عجل عمره سنة)', en: '1 Tabi\' (1-year calf)' } },
+      { id: 'b', text: { fr: '1 Musinna (vache de 2 ans)', ar: 'مُسنة واحدة (بقرة عمرها سنتان)', en: '1 Musinna (2-year cow)' } },
+      { id: 'c', text: { fr: '2 Musinna', ar: 'مُسنتان', en: '2 Musinna' } },
+      { id: 'd', text: { fr: '1 Tabi\' + 1 Musinna', ar: 'تبيع + مُسنة', en: '1 Tabi\' + 1 Musinna' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'De 40 à 59 bovins : 1 Musinna (vache de 2 ans). Donc pour 50 vaches, on donne 1 Musinna. À 60, cela change (2 Tabi\').',
+      ar: 'من 40 إلى 59 بقرة: مُسنة واحدة (بقرة عمرها سنتان). إذن ل50 بقرة، تُعطى مُسنة واحدة. عند 60، يتغير (تبيعان).',
+      en: 'From 40 to 59 cattle: 1 Musinna (2-year cow). So for 50 cows, give 1 Musinna. At 60, it changes (2 Tabi\').',
+    },
+    points: 3,
+    difficulty: 'medium',
+    category: 'livestock',
+  },
+  {
+    id: 'zakat-livestock-006',
+    question: {
+      fr: 'Quel est le Nisab pour les chameaux ?',
+      ar: 'ما النصاب للإبل؟',
+      en: 'What is the Nisab for camels?',
+    },
+    options: [
+      { id: 'a', text: { fr: '3 têtes', ar: '3 رؤوس', en: '3 heads' } },
+      { id: 'b', text: { fr: '5 têtes', ar: '5 رؤوس', en: '5 heads' } },
+      { id: 'c', text: { fr: '10 têtes', ar: '10 رؤوس', en: '10 heads' } },
+      { id: 'd', text: { fr: '40 têtes', ar: '40 رأسا', en: '40 heads' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Le Prophète ﷺ a établi : pour 5 à 9 chameaux : 1 mouton. Le Nisab est donc 5 chameaux. Moins de 5 : pas de Zakat.',
+      ar: 'النبي ﷺ حدد: من 5 إلى 9 من الإبل: شاة واحدة. إذن النصاب 5 من الإبل. أقل من 5: لا زكاة.',
+      en: 'The Prophet ﷺ established: for 5 to 9 camels: 1 sheep. So Nisab is 5 camels. Less than 5: no Zakat.',
+    },
+    points: 2,
+    difficulty: 'easy',
+    category: 'livestock',
+  },
+  {
+    id: 'zakat-livestock-007',
+    question: {
+      fr: 'Les poulets de ferme industrielle sont-ils soumis à la Zakat du bétail ?',
+      ar: 'هل الدجاج الصناعي يخضع لزكاة الأنعام؟',
+      en: 'Are industrial farm chickens subject to livestock Zakat?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Oui, comme les moutons', ar: 'نعم، كالأغنام', en: 'Yes, like sheep' } },
+      { id: 'b', text: { fr: 'Non, la Zakat du bétail concerne chameaux, bovins et ovins uniquement selon le Hadith', ar: 'لا، زكاة الأنعام خاصة بالإبل والبقر والغنم حسب الحديث', en: 'No, livestock Zakat concerns camels, cattle and ovines only per Hadith' } },
+      { id: 'c', text: { fr: 'Oui, mais 10%', ar: 'نعم، لكن 10%', en: 'Yes, but 10%' } },
+      { id: 'd', text: { fr: 'Seulement les œufs', ar: 'البيض فقط', en: 'Only eggs' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'La Zakat du bétail (An\'am) s\'applique uniquement aux trois types mentionnés dans le Hadith : chameaux, bovins (vaches/buffles), ovins (moutons/chèvres). La volaille est considérée comme biens commerciaux (\'Urud) : 2,5% sur valeur.',
+      ar: 'زكاة الأنعام تُطبق فقط على الأنواع الثلاثة المذكورة في الحديث: الإبل، البقر، الغنم (أغنام/ماعز). الدواجن تُعتبر عروض تجارة: 2.5% على القيمة.',
+      en: 'Livestock Zakat (An\'am) applies only to three types mentioned in Hadith: camels, cattle (cows/buffalo), ovines (sheep/goats). Poultry considered trade goods (\'Urud): 2.5% on value.',
+    },
+    points: 3,
+    difficulty: 'medium',
+    category: 'livestock',
+  },
+  {
+    id: 'zakat-livestock-008',
+    question: {
+      fr: 'Un éleveur de vaches laitières commerciales qui les nourrit constamment, quelle Zakat ?',
+      ar: 'مُربي أبقار حليب تجارية يُعلّفها دائما، ما الزكاة؟',
+      en: 'A dairy farmer who constantly feeds commercial cows, what Zakat?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Zakat du bétail normale (Musinna)', ar: 'زكاة الأنعام العادية (مُسنة)', en: 'Normal livestock Zakat (Musinna)' } },
+      { id: 'b', text: { fr: 'Pas de Zakat car Ma\'lufa (nourries)', ar: 'لا زكاة لأنها معلوفة', en: 'No Zakat as Ma\'lufa (fed)' } },
+      { id: 'c', text: { fr: 'Considérées comme biens commerciaux : 2,5% sur valeur des vaches + valeur du lait vendu épargné', ar: 'تُعتبر سلع تجارية: 2.5% على قيمة الأبقار + قيمة الحليب المبيع المُدَّخَر', en: 'Considered trade goods: 2.5% on value of cows + value of sold milk saved' } },
+      { id: 'd', text: { fr: 'Zakat de 10%', ar: 'زكاة 10%', en: 'Zakat of 10%' } },
+    ],
+    correctAnswer: 2,
+    explanation: {
+      fr: 'Les vaches laitières commerciales constamment nourries (Ma\'lufa) sont considérées comme biens commerciaux (\'Urud at-Tijarah) : Zakat de 2,5% sur leur valeur marchande + le revenu du lait épargné, si Nisab atteint et un an passe.',
+      ar: 'أبقار الحليب التجارية المُعلّفة دائما (معلوفة) تُعتبر عروض تجارة: زكاة 2.5% على قيمتها السوقية + دخل الحليب المُدَّخَر، إن بلغ النصاب ومر حول.',
+      en: 'Commercial dairy cows constantly fed (Ma\'lufa) considered trade goods (\'Urud at-Tijarah): 2.5% Zakat on their market value + saved milk income, if Nisab reached and year passes.',
+    },
+    points: 3,
+    difficulty: 'hard',
+    category: 'livestock',
+  },
+  {
+    id: 'zakat-livestock-009',
+    question: {
+      fr: 'Les chevaux sont-ils soumis à la Zakat du bétail ?',
+      ar: 'هل الخيل تخضع لزكاة الأنعام؟',
+      en: 'Are horses subject to livestock Zakat?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Oui, comme les chameaux', ar: 'نعم، كالإبل', en: 'Yes, like camels' } },
+      { id: 'b', text: { fr: 'Non selon l\'avis majoritaire, sauf s\'ils sont pour le commerce', ar: 'لا عند الجمهور، إلا إن كانت للتجارة', en: 'No per majority, unless for trade' } },
+      { id: 'c', text: { fr: 'Zakat de 5%', ar: 'زكاة 5%', en: 'Zakat of 5%' } },
+      { id: 'd', text: { fr: 'Uniquement les chevaux arabes', ar: 'الخيل العربية فقط', en: 'Only Arabian horses' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Pas de Zakat sur les chevaux selon l\'avis majoritaire car non mentionnés dans le Hadith des An\'am. Exception : chevaux destinés à la vente (commerce) : 2,5% sur leur valeur comme biens commerciaux.',
+      ar: 'لا زكاة على الخيل عند الجمهور لأنها غير مذكورة في حديث الأنعام. الاستثناء: خيل معدة للبيع (تجارة): 2.5% على قيمتها كعروض تجارة.',
+      en: 'No Zakat on horses per majority as not mentioned in An\'am Hadith. Exception: horses intended for sale (trade): 2.5% on their value as trade goods.',
+    },
+    points: 2,
+    difficulty: 'easy',
+    category: 'livestock',
+  },
+  {
+    id: 'zakat-livestock-010',
+    question: {
+      fr: 'Combien de Zakat pour 120 moutons exactement ?',
+      ar: 'كم زكاة 120 خروفا بالضبط؟',
+      en: 'How much Zakat for exactly 120 sheep?',
+    },
+    options: [
+      { id: 'a', text: { fr: '1 mouton', ar: 'شاة واحدة', en: '1 sheep' } },
+      { id: 'b', text: { fr: '2 moutons', ar: 'شاتان', en: '2 sheep' } },
+      { id: 'c', text: { fr: '3 moutons', ar: '3 شياه', en: '3 sheep' } },
+      { id: 'd', text: { fr: '120 est une transition : 1 ou 2 selon interprétation', ar: '120 انتقال: شاة أو شاتان حسب التفسير', en: '120 is transition: 1 or 2 per interpretation' } },
+    ],
+    correctAnswer: 0,
+    explanation: {
+      fr: 'Le Hadith dit : "De 40 à 120 : 1 mouton. De 121 à 200 : 2 moutons". Donc exactement 120 = 1 mouton. À partir de 121, c\'est 2 moutons.',
+      ar: 'الحديث: "من 40 إلى 120: شاة. من 121 إلى 200: شاتان". إذن 120 بالضبط = شاة واحدة. من 121، شاتان.',
+      en: 'Hadith says: "From 40 to 120: 1 sheep. From 121 to 200: 2 sheep". So exactly 120 = 1 sheep. From 121, it\'s 2 sheep.',
+    },
+    points: 3,
+    difficulty: 'medium',
+    category: 'livestock',
+  },
+];
+
+// ============================================
 // Assemblage de l'examen COMPLET
 // ============================================
 
 const allQuestions: ExamQuestion[] = [
-  ...definitionQuestions,     // 4 questions
-  ...conditionsQuestions,     // 4 questions
-  ...biensQuestions,          // 6 questions
-  ...beneficiairesQuestions,  // 6 questions
-  ...zakatFitrQuestions,      // 5 questions
-  // Total : 25 questions
+  ...definitionQuestions,       // 4 questions
+  ...conditionsQuestions,       // 4 questions
+  ...biensQuestions,            // 6 questions
+  ...beneficiairesQuestions,    // 6 questions
+  ...zakatFitrQuestions,        // 5 questions
+  ...modernFinanceQuestions,    // 12 questions
+  ...agricultureQuestions,      // 10 questions
+  ...livestockQuestions,        // 10 questions
+  // Total : 57 questions
 ];
 
 export const examZakatFinal: ExamConfig = {
@@ -645,27 +1405,30 @@ export const examZakatFinal: ExamConfig = {
     en: 'Complete Exam - Fiqh of Zakat',
   },
   description: {
-    fr: 'Examen de 20 questions sélectionnées aléatoirement parmi une banque de 25 questions. Couvre la Zakat sur les biens et Zakat al-Fitr.',
-    ar: 'امتحان من 20 سؤالاً يتم اختيارها عشوائياً من بنك يضم 25 سؤالاً. يغطي زكاة المال وزكاة الفطر.',
-    en: 'Exam with 20 questions randomly selected from a pool of 25. Covers Zakat on wealth and Zakat al-Fitr.',
+    fr: 'Examen de 50 questions sélectionnées aléatoirement parmi une banque de 57 questions. Couvre la Zakat sur les biens, Zakat al-Fitr, actifs financiers modernes, production agricole et bétail.',
+    ar: 'امتحان من 50 سؤالاً يتم اختيارها عشوائياً من بنك يضم 57 سؤالاً. يغطي زكاة المال، زكاة الفطر، الأصول المالية الحديثة، الإنتاج الزراعي والأنعام.',
+    en: 'Exam with 50 questions randomly selected from a pool of 57. Covers Zakat on wealth, Zakat al-Fitr, modern financial assets, agricultural produce and livestock.',
   },
   instructions: {
-    fr: 'Vous avez 30 minutes pour répondre à 20 questions. Chaque question a une seule bonne réponse. Un score de 70% est requis pour réussir.',
-    ar: 'لديك 30 دقيقة للإجابة على 20 سؤالاً. لكل سؤال إجابة صحيحة واحدة. يُشترط 70% للنجاح.',
-    en: 'You have 30 minutes to answer 20 questions. Each question has one correct answer. A score of 70% is required to pass.',
+    fr: 'Vous avez 60 minutes pour répondre à 50 questions. Chaque question a une seule bonne réponse. Un score de 70% est requis pour réussir.',
+    ar: 'لديك 60 دقيقة للإجابة على 50 سؤالاً. لكل سؤال إجابة صحيحة واحدة. يُشترط 70% للنجاح.',
+    en: 'You have 60 minutes to answer 50 questions. Each question has one correct answer. A score of 70% is required to pass.',
   },
   courseSlug: 'zakat',
   questionPool: allQuestions,
-  questionsPerExam: 20,
+  questionsPerExam: 50,
   categoryConfig: [
     { category: 'definition', count: 3 },
     { category: 'conditions', count: 3 },
     { category: 'biens', count: 5 },
     { category: 'beneficiaires', count: 5 },
     { category: 'zakat-fitr', count: 4 },
+    { category: 'modern-finance', count: 10 },
+    { category: 'agriculture', count: 8 },
+    { category: 'livestock', count: 8 },
   ],
   questions: [],
-  duration: 30,
+  duration: 60,
   passingScore: 70,
   maxAttempts: 5,
   shuffleQuestions: true,

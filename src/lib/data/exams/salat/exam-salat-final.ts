@@ -204,6 +204,243 @@ const taharaQuestions: ExamQuestion[] = [
 ];
 
 // ============================================
+// Questions - Ghusl (Ablutions Majeures)
+// ============================================
+
+const ghuslQuestions: ExamQuestion[] = [
+  {
+    id: 'salat-ghusl-001',
+    question: {
+      fr: 'Quelle est la définition du Ghusl en Islam ?',
+      ar: 'ما تعريف الغسل في الإسلام؟',
+      en: 'What is the definition of Ghusl in Islam?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Laver uniquement les mains et le visage', ar: 'غسل اليدين والوجه فقط', en: 'Washing only hands and face' } },
+      { id: 'b', text: { fr: 'Le bain rituel complet du corps pour se purifier du Hadath Akbar', ar: 'الاغتسال الكامل للجسم للتطهر من الحدث الأكبر', en: 'Complete ritual bathing of the body to purify from major impurity' } },
+      { id: 'c', text: { fr: 'Se doucher tous les vendredis', ar: 'الاستحمام كل جمعة', en: 'Showering every Friday' } },
+      { id: 'd', text: { fr: 'Laver les parties intimes uniquement', ar: 'غسل العورة فقط', en: 'Washing private parts only' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Le Ghusl est l\'ablution majeure qui consiste à laver tout le corps avec de l\'eau pure dans l\'intention de lever l\'état de Hadath Akbar (grande impureté).',
+      ar: 'الغسل هو الطهارة الكبرى التي تشمل تعميم البدن بالماء الطاهر بنية رفع الحدث الأكبر.',
+      en: 'Ghusl is the major ablution involving washing the entire body with pure water with the intention of removing major ritual impurity.',
+    },
+    points: 2,
+    difficulty: 'easy',
+    category: 'ghusl',
+  },
+  {
+    id: 'salat-ghusl-002',
+    question: {
+      fr: 'Quelles sont les situations qui obligent le Ghusl ?',
+      ar: 'ما الحالات التي توجب الغسل؟',
+      en: 'What are the situations that make Ghusl obligatory?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Uniquement après les rapports intimes', ar: 'بعد الجماع فقط', en: 'Only after sexual intercourse' } },
+      { id: 'b', text: { fr: 'La Janaba, fin des menstrues, fin des lochies, conversion à l\'Islam', ar: 'الجنابة، انتهاء الحيض، انتهاء النفاس، الدخول في الإسلام', en: 'Janaba, end of menstruation, end of postpartum bleeding, converting to Islam' } },
+      { id: 'c', text: { fr: 'Uniquement le vendredi pour la prière', ar: 'يوم الجمعة للصلاة فقط', en: 'Only on Friday for prayer' } },
+      { id: 'd', text: { fr: 'Après chaque sommeil', ar: 'بعد كل نوم', en: 'After every sleep' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Le Ghusl est obligatoire dans 4 cas : la Janaba (émission de sperme ou rapports), fin des menstrues, fin des lochies, et pour celui qui se convertit à l\'Islam.',
+      ar: 'يجب الغسل في أربع حالات: الجنابة، وانتهاء الحيض، وانتهاء النفاس، والدخول في الإسلام.',
+      en: 'Ghusl is obligatory in 4 cases: Janaba (seminal emission or intercourse), end of menstruation, end of postpartum bleeding, and for one converting to Islam.',
+    },
+    points: 3,
+    difficulty: 'medium',
+    category: 'ghusl',
+  },
+  {
+    id: 'salat-ghusl-003',
+    question: {
+      fr: 'Quels sont les piliers (Arkān) obligatoires du Ghusl ?',
+      ar: 'ما أركان الغسل الواجبة؟',
+      en: 'What are the obligatory pillars (Arkān) of Ghusl?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Uniquement l\'intention', ar: 'النية فقط', en: 'Only the intention' } },
+      { id: 'b', text: { fr: 'L\'intention et faire couler l\'eau sur tout le corps', ar: 'النية وتعميم الماء على جميع البدن', en: 'Intention and pouring water over entire body' } },
+      { id: 'c', text: { fr: 'Laver trois fois uniquement', ar: 'الغسل ثلاث مرات فقط', en: 'Washing three times only' } },
+      { id: 'd', text: { fr: 'Utiliser du savon obligatoirement', ar: 'استعمال الصابون وجوبا', en: 'Using soap obligatorily' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Les deux piliers obligatoires du Ghusl sont : 1) l\'intention (Niyyah) de lever le Hadath Akbar, 2) faire parvenir l\'eau à tout le corps, y compris les cheveux et la peau.',
+      ar: 'ركنا الغسل الواجبان: ١) النية لرفع الحدث الأكبر، ٢) تعميم البدن بالماء بما في ذلك الشعر والبشرة.',
+      en: 'The two obligatory pillars of Ghusl are: 1) intention to remove major impurity, 2) water reaching the entire body including hair and skin.',
+    },
+    points: 3,
+    difficulty: 'medium',
+    category: 'ghusl',
+  },
+  {
+    id: 'salat-ghusl-004',
+    question: {
+      fr: 'Comment effectuer le Ghusl complet selon la Sunna du Prophète ﷺ ?',
+      ar: 'كيف يُؤدى الغسل الكامل على سنة النبي ﷺ؟',
+      en: 'How to perform complete Ghusl according to the Prophet\'s ﷺ Sunnah?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Se jeter dans une piscine avec l\'intention', ar: 'القفز في المسبح مع النية', en: 'Jumping into a pool with intention' } },
+      { id: 'b', text: { fr: 'Wudu complet, puis verser l\'eau sur la tête 3 fois, puis le côté droit, puis le gauche', ar: 'وضوء كامل، ثم إفاضة الماء على الرأس ٣ مرات، ثم الجانب الأيمن، ثم الأيسر', en: 'Complete wudu, then pour water over head 3 times, then right side, then left' } },
+      { id: 'c', text: { fr: 'Laver uniquement les parties intimes', ar: 'غسل العورة فقط', en: 'Washing only private parts' } },
+      { id: 'd', text: { fr: 'Prendre une douche rapide sans ordre', ar: 'الاستحمام السريع بدون ترتيب', en: 'Quick shower without order' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'La méthode complète : 1) Intention, 2) Laver parties intimes, 3) Wudu complet, 4) Verser eau sur tête 3 fois en massant racines, 5) Côté droit du corps, 6) Côté gauche.',
+      ar: 'الطريقة الكاملة: ١) النية، ٢) غسل الفرج، ٣) الوضوء الكامل، ٤) إفاضة الماء على الرأس ٣ مرات مع تخليل الشعر، ٥) الشق الأيمن، ٦) الشق الأيسر.',
+      en: 'Complete method: 1) Intention, 2) Wash private parts, 3) Complete wudu, 4) Pour water over head 3x massaging roots, 5) Right side, 6) Left side.',
+    },
+    points: 3,
+    difficulty: 'medium',
+    category: 'ghusl',
+  },
+  {
+    id: 'salat-ghusl-005',
+    question: {
+      fr: 'Une femme doit-elle défaire ses tresses pour le Ghusl de Janaba ?',
+      ar: 'هل يجب على المرأة نقض ضفائرها للغسل من الجنابة؟',
+      en: 'Must a woman undo her braids for Ghusl from Janaba?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Oui, toujours obligatoire', ar: 'نعم، واجب دائما', en: 'Yes, always obligatory' } },
+      { id: 'b', text: { fr: 'Non, il suffit de verser l\'eau sur la tête sans défaire', ar: 'لا، يكفي إفاضة الماء على الرأس دون نقض', en: 'No, pouring water over head without undoing is sufficient' } },
+      { id: 'c', text: { fr: 'Uniquement pour le Ghusl des menstrues, pas la Janaba', ar: 'فقط لغسل الحيض، وليس الجنابة', en: 'Only for menstrual Ghusl, not Janaba' } },
+      { id: 'd', text: { fr: 'Elle doit toujours raser ses cheveux', ar: 'يجب عليها حلق شعرها دائما', en: 'She must always shave her hair' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Pour le Ghusl de Janaba, la femme n\'a pas besoin de défaire ses tresses selon le Hadith de Umm Salama. Il suffit de verser 3 poignées d\'eau sur la tête. Pour les menstrues, certains savants recommandent de défaire.',
+      ar: 'لغسل الجنابة، لا يجب على المرأة نقض ضفائرها حسب حديث أم سلمة. يكفي ثلاث حثيات على الرأس. أما للحيض فيُستحب النقض عند بعض العلماء.',
+      en: 'For Janaba Ghusl, a woman need not undo braids according to Hadith of Umm Salama. Three handfuls over head suffice. For menstruation, some scholars recommend undoing.',
+    },
+    points: 3,
+    difficulty: 'hard',
+    category: 'ghusl',
+  },
+  {
+    id: 'salat-ghusl-006',
+    question: {
+      fr: 'Peut-on faire le Ghusl et le Wudu en une seule fois avec une seule intention ?',
+      ar: 'هل يمكن الغسل والوضوء معا بنية واحدة؟',
+      en: 'Can one combine Ghusl and Wudu in one act with one intention?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Non, il faut toujours faire le Wudu séparément après', ar: 'لا، يجب الوضوء منفصلا بعده دائما', en: 'No, must always do wudu separately after' } },
+      { id: 'b', text: { fr: 'Oui, le Ghusl avec intention dispense du Wudu', ar: 'نعم، الغسل بالنية يُغني عن الوضوء', en: 'Yes, Ghusl with intention suffices for wudu' } },
+      { id: 'c', text: { fr: 'Uniquement pour le Ghusl du vendredi', ar: 'فقط لغسل الجمعة', en: 'Only for Friday Ghusl' } },
+      { id: 'd', text: { fr: 'Uniquement si on récite des invocations', ar: 'فقط إذا قرأ الأدعية', en: 'Only if reciting supplications' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Le Ghusl complet avec l\'intention de lever le Hadath dispense du Wudu selon l\'avis majoritaire. Cependant, faire le Wudu d\'abord est la Sunna recommandée.',
+      ar: 'الغسل الكامل بنية رفع الحدث يُجزئ عن الوضوء عند جمهور العلماء. ولكن البدء بالوضوء هو السنة المستحبة.',
+      en: 'Complete Ghusl with intention to remove impurity suffices for wudu according to majority opinion. However, doing wudu first is recommended Sunnah.',
+    },
+    points: 3,
+    difficulty: 'medium',
+    category: 'ghusl',
+  },
+  {
+    id: 'salat-ghusl-007',
+    question: {
+      fr: 'Quelle est la règle concernant les vernis à ongles lors du Ghusl ?',
+      ar: 'ما حكم طلاء الأظافر عند الغسل؟',
+      en: 'What is the ruling regarding nail polish during Ghusl?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Pas de problème, il peut rester', ar: 'لا مشكلة، يمكن أن يبقى', en: 'No problem, it can remain' } },
+      { id: 'b', text: { fr: 'Il doit être enlevé car il empêche l\'eau d\'atteindre l\'ongle', ar: 'يجب إزالته لأنه يمنع وصول الماء للظفر', en: 'Must be removed as it prevents water reaching the nail' } },
+      { id: 'c', text: { fr: 'Uniquement les femmes peuvent le garder', ar: 'النساء فقط يمكنهن إبقاءه', en: 'Only women can keep it' } },
+      { id: 'd', text: { fr: 'Il suffit de mouiller par-dessus', ar: 'يكفي التبليل فوقه', en: 'Wetting over it suffices' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Le vernis à ongles forme une barrière imperméable qui empêche l\'eau d\'atteindre l\'ongle, ce qui invalide le Ghusl. Il doit être complètement enlevé avant le Ghusl ou le Wudu.',
+      ar: 'طلاء الأظافر يُشكل طبقة عازلة تمنع وصول الماء للظفر، مما يُبطل الغسل. يجب إزالته بالكامل قبل الغسل أو الوضوء.',
+      en: 'Nail polish forms an impermeable barrier preventing water from reaching the nail, invalidating Ghusl. It must be completely removed before Ghusl or wudu.',
+    },
+    points: 2,
+    difficulty: 'easy',
+    category: 'ghusl',
+  },
+  {
+    id: 'salat-ghusl-008',
+    question: {
+      fr: 'Un homme en état de Janaba peut-il toucher le Coran ?',
+      ar: 'هل يجوز للجنب مس المصحف؟',
+      en: 'Can a person in state of Janaba touch the Quran?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Oui, sans aucune restriction', ar: 'نعم، دون أي قيد', en: 'Yes, without any restriction' } },
+      { id: 'b', text: { fr: 'Non, il doit d\'abord faire le Ghusl', ar: 'لا، يجب عليه الغسل أولا', en: 'No, must first perform Ghusl' } },
+      { id: 'c', text: { fr: 'Uniquement s\'il porte des gants', ar: 'فقط إذا لبس القفازات', en: 'Only if wearing gloves' } },
+      { id: 'd', text: { fr: 'Uniquement pour l\'enseignement', ar: 'فقط للتعليم', en: 'Only for teaching' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Il est interdit de toucher le Coran en état de Janaba selon le verset "Ne le touchent que les purifiés" (56:79) et le consensus des savants. Le Ghusl est obligatoire avant.',
+      ar: 'يحرم مس المصحف للجنب لقوله تعالى "لا يمسه إلا المطهرون" وإجماع العلماء. يجب الغسل قبل ذلك.',
+      en: 'Touching Quran in state of Janaba is forbidden according to verse "None touch it except the purified" (56:79) and scholarly consensus. Ghusl is obligatory first.',
+    },
+    points: 2,
+    difficulty: 'easy',
+    category: 'ghusl',
+  },
+  {
+    id: 'salat-ghusl-009',
+    question: {
+      fr: 'Quelle est la différence entre le Ghusl obligatoire et le Ghusl recommandé ?',
+      ar: 'ما الفرق بين الغسل الواجب والغسل المستحب؟',
+      en: 'What is the difference between obligatory and recommended Ghusl?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Pas de différence, tous les Ghusl sont obligatoires', ar: 'لا فرق، كل الأغسال واجبة', en: 'No difference, all Ghusl are obligatory' } },
+      { id: 'b', text: { fr: 'Le Ghusl obligatoire (Janaba, menstrues) est condition pour la prière, le recommandé (vendredi, Eid) est Sunna', ar: 'الواجب (جنابة، حيض) شرط للصلاة، المستحب (جمعة، عيد) سنة', en: 'Obligatory (Janaba, menses) is condition for prayer, recommended (Friday, Eid) is Sunnah' } },
+      { id: 'c', text: { fr: 'Uniquement la température de l\'eau', ar: 'فقط درجة حرارة الماء', en: 'Only water temperature' } },
+      { id: 'd', text: { fr: 'Le nombre de fois qu\'on se lave', ar: 'عدد مرات الغسل', en: 'Number of times washing' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Le Ghusl obligatoire (Janaba, fin menstrues/lochies) est condition de validité de la prière et du Tawaf. Le Ghusl recommandé (vendredi, Eid, Ihram) est Sunna mais pas obligatoire.',
+      ar: 'الغسل الواجب (جنابة، انتهاء حيض/نفاس) شرط لصحة الصلاة والطواف. الغسل المستحب (جمعة، عيد، إحرام) سنة وليس واجبا.',
+      en: 'Obligatory Ghusl (Janaba, end of menses/postpartum) is condition for valid prayer and Tawaf. Recommended Ghusl (Friday, Eid, Ihram) is Sunnah but not obligatory.',
+    },
+    points: 3,
+    difficulty: 'medium',
+    category: 'ghusl',
+  },
+  {
+    id: 'salat-ghusl-010',
+    question: {
+      fr: 'Si une personne se baigne dans la mer ou une rivière avec l\'intention du Ghusl, est-ce valide ?',
+      ar: 'إذا اغتسل شخص في البحر أو النهر بنية الغسل، هل يصح؟',
+      en: 'If someone bathes in the sea or river with intention of Ghusl, is it valid?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Non, il faut utiliser une douche obligatoirement', ar: 'لا، يجب استعمال الدش وجوبا', en: 'No, must use a shower obligatorily' } },
+      { id: 'b', text: { fr: 'Oui, c\'est valide si tout le corps est immergé avec l\'intention', ar: 'نعم، يصح إذا غُمر كامل الجسم مع النية', en: 'Yes, valid if entire body is immersed with intention' } },
+      { id: 'c', text: { fr: 'Uniquement dans l\'eau douce, pas dans la mer', ar: 'في الماء العذب فقط، وليس البحر', en: 'Only in fresh water, not in sea' } },
+      { id: 'd', text: { fr: 'Uniquement en été', ar: 'في الصيف فقط', en: 'Only in summer' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Le Ghusl est valide dans la mer, rivière ou tout plan d\'eau pure, à condition que tout le corps soit immergé ou mouillé avec l\'intention de se purifier du Hadath Akbar.',
+      ar: 'يصح الغسل في البحر أو النهر أو أي ماء طاهر، بشرط أن يُغمر الجسم كاملا أو يُبلل مع النية لرفع الحدث الأكبر.',
+      en: 'Ghusl is valid in sea, river or any pure water body, provided entire body is immersed or wetted with intention to remove major impurity.',
+    },
+    points: 2,
+    difficulty: 'easy',
+    category: 'ghusl',
+  },
+];
+
+// ============================================
 // Questions - Ablutions (Wudu)
 // ============================================
 
@@ -981,18 +1218,449 @@ const nawafilQuestions: ExamQuestion[] = [
 import { allSpecialPrayersQuestions } from './questions-special-prayers';
 
 // ============================================
+// Questions - Prière en Congrégation (Jamā'ah)
+// ============================================
+
+const congregationQuestions: ExamQuestion[] = [
+  {
+    id: 'salat-congregation-001',
+    question: {
+      fr: 'Quelle est la récompense de la prière en congrégation comparée à la prière seul ?',
+      ar: 'ما أجر صلاة الجماعة مقارنة بصلاة المنفرد؟',
+      en: 'What is the reward of congregational prayer compared to praying alone?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Deux fois plus', ar: 'ضعفان', en: 'Twice as much' } },
+      { id: 'b', text: { fr: 'Dix fois plus', ar: 'عشرة أضعاف', en: 'Ten times more' } },
+      { id: 'c', text: { fr: '27 fois plus selon un hadith, 25 fois selon un autre', ar: '٢٧ درجة في حديث و٢٥ درجة في آخر', en: '27 times according to one hadith, 25 times according to another' } },
+      { id: 'd', text: { fr: '100 fois plus', ar: 'مائة ضعف', en: '100 times more' } },
+    ],
+    correctAnswer: 2,
+    explanation: {
+      fr: 'Le Prophète ﷺ a dit : "La prière en commun est supérieure à la prière de l\'homme seul de vingt-sept degrés" (Bukhari), et dans une autre version "vingt-cinq degrés" (Muslim).',
+      ar: 'قال النبي ﷺ: "صلاة الجماعة تفضل صلاة الفذ بسبع وعشرين درجة" (البخاري)، وفي رواية "بخمس وعشرين درجة" (مسلم).',
+      en: 'The Prophet ﷺ said: "Prayer in congregation is superior to the prayer of a person alone by twenty-seven degrees" (Bukhari), and in another version "twenty-five degrees" (Muslim).',
+    },
+    points: 2,
+    difficulty: 'easy',
+    category: 'congregation',
+  },
+  {
+    id: 'salat-congregation-002',
+    question: {
+      fr: 'Si vous rejoignez la prière pendant le Ruku (inclinaison), comptez-vous cette Rak\'ah ?',
+      ar: 'إذا أدركت الصلاة في الركوع، هل تُحسب الركعة؟',
+      en: 'If you join prayer during Ruku (bowing), does this Rak\'ah count?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Non, vous avez manqué cette Rak\'ah', ar: 'لا، فاتتك هذه الركعة', en: 'No, you missed this Rak\'ah' } },
+      { id: 'b', text: { fr: 'Oui, si vous rejoignez l\'imam avant qu\'il ne se relève du Ruku', ar: 'نعم، إذا أدركت الإمام قبل أن يرفع من الركوع', en: 'Yes, if you join imam before he rises from Ruku' } },
+      { id: 'c', text: { fr: 'Uniquement pour Fajr', ar: 'لصلاة الفجر فقط', en: 'Only for Fajr' } },
+      { id: 'd', text: { fr: 'Uniquement si vous récitez Al-Fatiha', ar: 'فقط إذا قرأت الفاتحة', en: 'Only if you recited Al-Fatiha' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Selon le Hadith : "Celui qui rattrape le Ruku a rattrapé la Rak\'ah". Si vous arrivez alors que l\'imam est encore en Ruku et que vous faites le Takbir et le Ruku avant qu\'il ne se relève, la Rak\'ah est comptée.',
+      ar: 'في الحديث: "من أدرك الركوع فقد أدرك الركعة". إذا وصلت والإمام في الركوع وكبّرت وركعت قبل أن يرفع، تُحتسب الركعة.',
+      en: 'According to Hadith: "Whoever catches the Ruku has caught the Rak\'ah". If you arrive while imam is still in Ruku and make Takbir and Ruku before he rises, the Rak\'ah counts.',
+    },
+    points: 3,
+    difficulty: 'medium',
+    category: 'congregation',
+  },
+  {
+    id: 'salat-congregation-003',
+    question: {
+      fr: 'Que doit faire un Ma\'mum (fidèle) s\'il remarque que l\'Imam a oublié une prosternation ?',
+      ar: 'ماذا يفعل المأموم إذا لاحظ أن الإمام نسي سجدة؟',
+      en: 'What should a Ma\'mum (follower) do if he notices the Imam forgot a prostration?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Il doit immédiatement crier "Subhanallah !"', ar: 'يجب أن يصرخ "سبحان الله!" فورا', en: 'Must immediately shout "Subhanallah!"' } },
+      { id: 'b', text: { fr: 'Il doit dire "Subhanallah" pour les hommes, et taper des mains pour les femmes', ar: 'يقول "سبحان الله" للرجال، والتصفيق للنساء', en: 'Say "Subhanallah" for men, clap hands for women' } },
+      { id: 'c', text: { fr: 'Il ne doit rien faire, l\'imam fera Sujud Sahw', ar: 'لا يفعل شيئا، الإمام سيسجد للسهو', en: 'Do nothing, imam will do Sujud Sahw' } },
+      { id: 'd', text: { fr: 'Il doit quitter la prière et recommencer seul', ar: 'يترك الصلاة ويعيدها منفردا', en: 'Must leave prayer and restart alone' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Le Prophète ﷺ a dit : "Le Tasbih (dire Subhanallah) est pour les hommes, et le Tasfiq (frapper des mains) est pour les femmes" quand l\'imam fait une erreur pendant la prière.',
+      ar: 'قال النبي ﷺ: "التسبيح للرجال والتصفيق للنساء" عند خطأ الإمام في الصلاة.',
+      en: 'The Prophet ﷺ said: "Tasbih (saying Subhanallah) is for men, and Tasfiq (clapping hands) is for women" when the imam makes an error during prayer.',
+    },
+    points: 3,
+    difficulty: 'medium',
+    category: 'congregation',
+  },
+  {
+    id: 'salat-congregation-004',
+    question: {
+      fr: 'Quel est l\'ordre des rangées dans la mosquée selon la Sunna ?',
+      ar: 'ما ترتيب الصفوف في المسجد حسب السنة؟',
+      en: 'What is the order of rows in the mosque according to Sunnah?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Hommes devant, enfants au milieu, femmes derrière', ar: 'الرجال أمام، الأطفال وسط، النساء خلف', en: 'Men front, children middle, women back' } },
+      { id: 'b', text: { fr: 'Tout le monde peut se mélanger', ar: 'الجميع يمكن أن يختلطوا', en: 'Everyone can mix' } },
+      { id: 'c', text: { fr: 'Les plus âgés devant uniquement', ar: 'الأكبر سنا أمام فقط', en: 'Eldest in front only' } },
+      { id: 'd', text: { fr: 'Les femmes devant, les hommes derrière', ar: 'النساء أمام، الرجال خلف', en: 'Women front, men back' } },
+    ],
+    correctAnswer: 0,
+    explanation: {
+      fr: 'Le Prophète ﷺ a ordonné : "Que les hommes se placent devant, puis les enfants, puis les femmes". Les meilleurs rangs des hommes sont les premiers, les meilleurs rangs des femmes sont les derniers.',
+      ar: 'أمر النبي ﷺ: "ليلني منكم أولو الأحلام والنهى"، وقال: "خير صفوف الرجال أولها وشرها آخرها، وخير صفوف النساء آخرها وشرها أولها".',
+      en: 'The Prophet ﷺ ordered: "Let men stand in front, then boys, then women". The best rows for men are the first, the best rows for women are the last.',
+    },
+    points: 2,
+    difficulty: 'easy',
+    category: 'congregation',
+  },
+  {
+    id: 'salat-congregation-005',
+    question: {
+      fr: 'Si vous arrivez à la prière de Maghrib alors que l\'imam est dans la 3ème Rak\'ah, combien de Rak\'ah devez-vous rattraper ?',
+      ar: 'إذا وصلت لصلاة المغرب والإمام في الركعة الثالثة، كم ركعة تقضي؟',
+      en: 'If you arrive at Maghrib prayer while imam is in 3rd Rak\'ah, how many Rak\'ah must you make up?',
+    },
+    options: [
+      { id: 'a', text: { fr: '1 Rak\'ah', ar: 'ركعة واحدة', en: '1 Rak\'ah' } },
+      { id: 'b', text: { fr: '2 Rak\'ah', ar: 'ركعتان', en: '2 Rak\'ah' } },
+      { id: 'c', text: { fr: '3 Rak\'ah complètes', ar: '٣ ركعات كاملة', en: '3 complete Rak\'ah' } },
+      { id: 'd', text: { fr: 'Aucune, vous avez manqué la prière', ar: 'لا شيء، فاتتك الصلاة', en: 'None, you missed the prayer' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Si vous rejoignez l\'imam dans la 3ème Rak\'ah de Maghrib, vous avez prié 1 Rak\'ah avec lui. Après son Salam, vous vous levez et complétez 2 Rak\'ah (les 1ère et 2ème que vous avez manquées).',
+      ar: 'إذا أدركت الإمام في الركعة الثالثة من المغرب، صليت معه ركعة واحدة. بعد سلامه، تقوم وتقضي ركعتين (الأولى والثانية اللتين فاتتاك).',
+      en: 'If you join imam in 3rd Rak\'ah of Maghrib, you prayed 1 Rak\'ah with him. After his Salam, you stand and complete 2 Rak\'ah (the 1st and 2nd you missed).',
+    },
+    points: 3,
+    difficulty: 'hard',
+    category: 'congregation',
+  },
+  {
+    id: 'salat-congregation-006',
+    question: {
+      fr: 'Peut-on prier en congrégation chez soi avec sa famille ?',
+      ar: 'هل يجوز الصلاة جماعة في البيت مع العائلة؟',
+      en: 'Can one pray in congregation at home with family?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Non, la congrégation n\'est valide qu\'à la mosquée', ar: 'لا، الجماعة لا تصح إلا في المسجد', en: 'No, congregation is valid only at mosque' } },
+      { id: 'b', text: { fr: 'Oui, c\'est permis et récompensé, mais la mosquée est meilleure', ar: 'نعم، جائز ومأجور، لكن المسجد أفضل', en: 'Yes, it\'s permitted and rewarded, but mosque is better' } },
+      { id: 'c', text: { fr: 'Uniquement pour les femmes', ar: 'للنساء فقط', en: 'Only for women' } },
+      { id: 'd', text: { fr: 'Uniquement pendant le confinement', ar: 'فقط وقت الحجر', en: 'Only during lockdown' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Prier en congrégation à la maison est permis et récompensé. Le Prophète ﷺ priait parfois en famille chez lui. Cependant, la prière à la mosquée a une récompense supérieure (27 fois) pour les hommes.',
+      ar: 'صلاة الجماعة في البيت جائزة ومأجورة. كان النبي ﷺ يصلي أحيانا بأهله في البيت. لكن صلاة المسجد أعظم أجرا (٢٧ درجة) للرجال.',
+      en: 'Praying in congregation at home is permitted and rewarded. The Prophet ﷺ sometimes prayed with his family at home. However, mosque prayer has greater reward (27 times) for men.',
+    },
+    points: 2,
+    difficulty: 'easy',
+    category: 'congregation',
+  },
+  {
+    id: 'salat-congregation-007',
+    question: {
+      fr: 'Où doit se tenir un enfant qui prie en congrégation avec un adulte ?',
+      ar: 'أين يقف الطفل الذي يصلي جماعة مع بالغ؟',
+      en: 'Where should a child stand when praying in congregation with an adult?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Devant l\'adulte', ar: 'أمام البالغ', en: 'In front of adult' } },
+      { id: 'b', text: { fr: 'À droite de l\'adulte', ar: 'على يمين البالغ', en: 'To the right of adult' } },
+      { id: 'c', text: { fr: 'Derrière l\'adulte', ar: 'خلف البالغ', en: 'Behind adult' } },
+      { id: 'd', text: { fr: 'N\'importe où', ar: 'في أي مكان', en: 'Anywhere' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Un enfant se place à droite de l\'adulte (imam) comme Ibn Abbas l\'a fait avec le Prophète ﷺ. Si plusieurs personnes, l\'enfant peut se mettre dans le rang avec les adultes.',
+      ar: 'يقف الطفل على يمين البالغ (الإمام) كما فعل ابن عباس مع النبي ﷺ. إن كانوا أكثر، يقف الطفل في الصف مع البالغين.',
+      en: 'A child stands to the right of the adult (imam) as Ibn Abbas did with the Prophet ﷺ. If multiple people, child can stand in row with adults.',
+    },
+    points: 2,
+    difficulty: 'medium',
+    category: 'congregation',
+  },
+  {
+    id: 'salat-congregation-008',
+    question: {
+      fr: 'Si l\'imam prolonge la prière et vous devez partir urgemment, que faire ?',
+      ar: 'إذا أطال الإمام وتحتاج للمغادرة بشدة، ماذا تفعل؟',
+      en: 'If imam prolongs prayer and you urgently need to leave, what to do?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Rester absolument jusqu\'à la fin', ar: 'البقاء حتما إلى النهاية', en: 'Must stay until the end' } },
+      { id: 'b', text: { fr: 'Formuler l\'intention de se séparer et terminer seul votre prière', ar: 'نية المفارقة وإتمام صلاتك منفردا', en: 'Intend to separate and complete your prayer alone' } },
+      { id: 'c', text: { fr: 'Sortir immédiatement sans rien faire', ar: 'الخروج فورا دون شيء', en: 'Leave immediately without doing anything' } },
+      { id: 'd', text: { fr: 'Taper des pieds pour attirer l\'attention', ar: 'الدق بالأرجل لجلب الانتباه', en: 'Stomp feet to get attention' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'En cas de nécessité urgente, vous pouvez formuler l\'intention de vous séparer de l\'imam (Niyyat al-Mufaraqah) et terminer votre prière seul, puis faire le Salam.',
+      ar: 'عند الضرورة الملحة، يمكنك نية المفارقة للإمام وإتمام صلاتك منفردا، ثم السلام.',
+      en: 'In case of urgent necessity, you can intend to separate from imam (Niyyat al-Mufaraqah) and complete your prayer alone, then make Salam.',
+    },
+    points: 3,
+    difficulty: 'hard',
+    category: 'congregation',
+  },
+  {
+    id: 'salat-congregation-009',
+    question: {
+      fr: 'Les femmes doivent-elles obligatoirement prier à la mosquée ?',
+      ar: 'هل يجب على النساء الصلاة في المسجد؟',
+      en: 'Must women obligatorily pray at the mosque?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Oui, obligatoire comme pour les hommes', ar: 'نعم، واجب كالرجال', en: 'Yes, obligatory like men' } },
+      { id: 'b', text: { fr: 'Non, leur prière à la maison est meilleure selon la Sunna', ar: 'لا، صلاتهن في البيت أفضل حسب السنة', en: 'No, their prayer at home is better according to Sunnah' } },
+      { id: 'c', text: { fr: 'Uniquement le vendredi', ar: 'يوم الجمعة فقط', en: 'Only on Friday' } },
+      { id: 'd', text: { fr: 'Uniquement pendant Ramadan', ar: 'في رمضان فقط', en: 'Only during Ramadan' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Le Prophète ﷺ a dit : "Ne les empêchez pas d\'aller aux mosquées, mais leurs maisons sont meilleures pour elles". Les femmes peuvent aller à la mosquée, mais leur prière à domicile a plus de mérite.',
+      ar: 'قال النبي ﷺ: "لا تمنعوا إماء الله مساجد الله، وبيوتهن خير لهن". يجوز للنساء الذهاب للمسجد، لكن صلاتهن في البيت أفضل.',
+      en: 'The Prophet ﷺ said: "Do not prevent the female servants of Allah from the mosques of Allah, but their houses are better for them". Women may go to mosque, but their home prayer has more merit.',
+    },
+    points: 2,
+    difficulty: 'medium',
+    category: 'congregation',
+  },
+  {
+    id: 'salat-congregation-010',
+    question: {
+      fr: 'Peut-on suivre un imam en prière à travers un écran vidéo (prière virtuelle) ?',
+      ar: 'هل يمكن متابعة الإمام عبر شاشة فيديو (صلاة افتراضية)؟',
+      en: 'Can one follow an imam through a video screen (virtual prayer)?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Oui, c\'est équivalent à la mosquée', ar: 'نعم، مثل المسجد', en: 'Yes, equivalent to mosque' } },
+      { id: 'b', text: { fr: 'Non selon l\'avis majoritaire, la congrégation exige la présence physique dans le même lieu', ar: 'لا عند الجمهور، الجماعة تتطلب التواجد الفعلي في نفس المكان', en: 'No according to majority, congregation requires physical presence in same place' } },
+      { id: 'c', text: { fr: 'Uniquement pour le Tarawih', ar: 'للتراويح فقط', en: 'Only for Tarawih' } },
+      { id: 'd', text: { fr: 'Uniquement pendant les pandémies', ar: 'فقط أثناء الأوبئة', en: 'Only during pandemics' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Selon l\'avis majoritaire des savants contemporains, la prière en congrégation nécessite d\'être physiquement au même endroit que l\'imam. Suivre via écran ne compte pas comme congrégation valide.',
+      ar: 'عند جمهور العلماء المعاصرين، صلاة الجماعة تتطلب التواجد الفعلي مع الإمام. المتابعة عبر الشاشة لا تُعد جماعة صحيحة.',
+      en: 'According to majority of contemporary scholars, congregational prayer requires physical presence in same place as imam. Following via screen doesn\'t count as valid congregation.',
+    },
+    points: 3,
+    difficulty: 'hard',
+    category: 'congregation',
+  },
+];
+
+// ============================================
+// Questions - Annulatifs de la Prière (Mubṭilāt)
+// ============================================
+
+const invalidatorsQuestions: ExamQuestion[] = [
+  {
+    id: 'salat-invalidators-001',
+    question: {
+      fr: 'Qu\'arrive-t-il si vous parlez intentionnellement pendant la prière ?',
+      ar: 'ماذا يحدث إذا تكلمت عمدا أثناء الصلاة؟',
+      en: 'What happens if you speak intentionally during prayer?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Rien, vous continuez normalement', ar: 'لا شيء، تستمر عاديا', en: 'Nothing, continue normally' } },
+      { id: 'b', text: { fr: 'La prière est annulée et doit être refaite', ar: 'تبطل الصلاة ويجب إعادتها', en: 'Prayer is invalidated and must be redone' } },
+      { id: 'c', text: { fr: 'Vous faites Sujud Sahw seulement', ar: 'تسجد للسهو فقط', en: 'You only do Sujud Sahw' } },
+      { id: 'd', text: { fr: 'Vous répétez la Rak\'ah', ar: 'تعيد الركعة', en: 'You repeat the Rak\'ah' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Parler intentionnellement de paroles humaines (non-Quran, non-Dhikr) invalide la prière. Le Prophète ﷺ a dit : "Cette prière ne convient à aucune parole des humains".',
+      ar: 'الكلام عمدا بكلام الناس (غير القرآن والذكر) يُبطل الصلاة. قال النبي ﷺ: "إن هذه الصلاة لا يصلح فيها شيء من كلام الناس".',
+      en: 'Intentionally speaking human speech (non-Quran, non-Dhikr) invalidates prayer. The Prophet ﷺ said: "This prayer is not suitable for any speech of humans".',
+    },
+    points: 2,
+    difficulty: 'easy',
+    category: 'invalidators',
+  },
+  {
+    id: 'salat-invalidators-002',
+    question: {
+      fr: 'Si vous mangez ou buvez intentionnellement pendant la prière, qu\'arrive-t-il ?',
+      ar: 'إذا أكلت أو شربت عمدا في الصلاة، ماذا يحدث؟',
+      en: 'If you eat or drink intentionally during prayer, what happens?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'La prière est annulée', ar: 'تبطل الصلاة', en: 'Prayer is invalidated' } },
+      { id: 'b', text: { fr: 'Rien si c\'est de l\'eau uniquement', ar: 'لا شيء إن كان ماء فقط', en: 'Nothing if it\'s only water' } },
+      { id: 'c', text: { fr: 'Sujud Sahw suffit', ar: 'سجود السهو يكفي', en: 'Sujud Sahw suffices' } },
+      { id: 'd', text: { fr: 'Vous devez faire une aumône', ar: 'عليك صدقة', en: 'You must give charity' } },
+    ],
+    correctAnswer: 0,
+    explanation: {
+      fr: 'Manger ou boire intentionnellement annule la prière par consensus. Cependant, si c\'est par oubli, la prière reste valide selon le Hadith de Abu Hurayra.',
+      ar: 'الأكل أو الشرب عمدا يُبطل الصلاة بالإجماع. لكن إن كان سهوا، فالصلاة صحيحة حسب حديث أبي هريرة.',
+      en: 'Eating or drinking intentionally invalidates prayer by consensus. However, if done forgetfully, prayer remains valid according to Hadith of Abu Hurayra.',
+    },
+    points: 2,
+    difficulty: 'easy',
+    category: 'invalidators',
+  },
+  {
+    id: 'salat-invalidators-003',
+    question: {
+      fr: 'Le rire à voix haute (Qahqaha) pendant la prière a quel effet ?',
+      ar: 'الضحك بصوت (القهقهة) أثناء الصلاة له أي أثر؟',
+      en: 'Laughing aloud (Qahqaha) during prayer has what effect?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Rien, c\'est permis', ar: 'لا شيء، مباح', en: 'Nothing, it\'s permitted' } },
+      { id: 'b', text: { fr: 'Annule la prière et le Wudu selon les Hanafis', ar: 'يُبطل الصلاة والوضوء عند الحنفية', en: 'Invalidates prayer and wudu according to Hanafis' } },
+      { id: 'c', text: { fr: 'Annule seulement la Rak\'ah en cours', ar: 'يُبطل الركعة الحالية فقط', en: 'Invalidates only current Rak\'ah' } },
+      { id: 'd', text: { fr: 'Nécessite une longue prosternation', ar: 'يتطلب سجدة طويلة', en: 'Requires a long prostration' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Le rire à voix haute (Qahqaha) annule la prière selon tous les madhabs, et annule aussi le Wudu selon les Hanafis. Le sourire (Tabassum) sans son n\'annule pas.',
+      ar: 'الضحك بصوت (القهقهة) يُبطل الصلاة عند كل المذاهب، ويُبطل الوضوء أيضا عند الحنفية. التبسم بدون صوت لا يُبطل.',
+      en: 'Loud laughter (Qahqaha) invalidates prayer according to all madhabs, and also invalidates wudu according to Hanafis. Smiling (Tabassum) without sound doesn\'t invalidate.',
+    },
+    points: 3,
+    difficulty: 'medium',
+    category: 'invalidators',
+  },
+  {
+    id: 'salat-invalidators-004',
+    question: {
+      fr: 'Quel type de mouvement excessif annule la prière ?',
+      ar: 'أي نوع من الحركة الكثيرة يُبطل الصلاة؟',
+      en: 'What type of excessive movement invalidates prayer?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Tout mouvement quel qu\'il soit', ar: 'أي حركة كانت', en: 'Any movement whatsoever' } },
+      { id: 'b', text: { fr: 'Trois mouvements consécutifs sans rapport avec la prière', ar: 'ثلاث حركات متتالية ليست من جنس الصلاة', en: 'Three consecutive movements not related to prayer' } },
+      { id: 'c', text: { fr: 'Uniquement courir', ar: 'الجري فقط', en: 'Only running' } },
+      { id: 'd', text: { fr: 'Gratter sa tête une fois', ar: 'حك الرأس مرة واحدة', en: 'Scratching head once' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Selon la majorité des savants, trois mouvements consécutifs sans lien avec la prière l\'invalident. Le Prophète ﷺ a fait un ou deux mouvements, indiquant que c\'est acceptable.',
+      ar: 'عند جمهور العلماء، ثلاث حركات متتالية ليست من الصلاة تُبطلها. فعل النبي ﷺ حركة أو حركتين، مما يدل على جوازها.',
+      en: 'According to majority of scholars, three consecutive movements unrelated to prayer invalidate it. The Prophet ﷺ made one or two movements, indicating they\'re acceptable.',
+    },
+    points: 3,
+    difficulty: 'medium',
+    category: 'invalidators',
+  },
+  {
+    id: 'salat-invalidators-005',
+    question: {
+      fr: 'Se détourner complètement de la Qibla pendant la prière a quel effet ?',
+      ar: 'الانحراف الكامل عن القبلة أثناء الصلاة له أي أثر؟',
+      en: 'Turning completely away from Qibla during prayer has what effect?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Rien, on peut prier dans toutes les directions', ar: 'لا شيء، يمكن الصلاة لأي اتجاه', en: 'Nothing, can pray in any direction' } },
+      { id: 'b', text: { fr: 'Annule la prière selon l\'avis majoritaire', ar: 'يُبطل الصلاة عند الجمهور', en: 'Invalidates prayer according to majority opinion' } },
+      { id: 'c', text: { fr: 'Permis si c\'est par erreur', ar: 'مباح إن كان خطأ', en: 'Permitted if by mistake' } },
+      { id: 'd', text: { fr: 'Nécessite seulement Sujud Sahw', ar: 'يتطلب سجود السهو فقط', en: 'Requires only Sujud Sahw' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Se détourner intentionnellement et complètement de la Qibla annule la prière. Une légère déviation (moins de 45°) est tolérée. Si par erreur et on se corrige immédiatement, la prière reste valide.',
+      ar: 'الانحراف عمدا وكليا عن القبلة يُبطل الصلاة. الانحراف الطفيف (أقل من ٤٥°) مغتفر. إن كان خطأ وتم التصحيح فورا، الصلاة صحيحة.',
+      en: 'Intentionally and completely turning from Qibla invalidates prayer. Slight deviation (less than 45°) is tolerated. If by mistake and corrected immediately, prayer remains valid.',
+    },
+    points: 3,
+    difficulty: 'medium',
+    category: 'invalidators',
+  },
+  {
+    id: 'salat-invalidators-006',
+    question: {
+      fr: 'Si votre Wudu se rompt pendant la prière, que devez-vous faire ?',
+      ar: 'إذا انتقض وضوءك أثناء الصلاة، ماذا تفعل؟',
+      en: 'If your wudu breaks during prayer, what should you do?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Continuer la prière normalement', ar: 'الاستمرار في الصلاة عاديا', en: 'Continue prayer normally' } },
+      { id: 'b', text: { fr: 'Sortir discrètement, refaire le Wudu, et recommencer la prière', ar: 'الخروج بهدوء، إعادة الوضوء، وإعادة الصلاة', en: 'Exit discreetly, redo wudu, and restart prayer' } },
+      { id: 'c', text: { fr: 'Faire Sujud Sahw à la fin', ar: 'سجود السهو في النهاية', en: 'Do Sujud Sahw at end' } },
+      { id: 'd', text: { fr: 'Terminer puis refaire le Wudu après', ar: 'إنهاء ثم إعادة الوضوء بعد', en: 'Finish then redo wudu after' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Si le Wudu se rompt pendant la prière (flatulence, besoin urgent), vous devez sortir de la prière, refaire le Wudu, puis reprendre la prière depuis le début.',
+      ar: 'إذا انتقض الوضوء في الصلاة (ريح، حاجة ملحة)، يجب الخروج من الصلاة، وإعادة الوضوء، ثم إعادة الصلاة من البداية.',
+      en: 'If wudu breaks during prayer (flatulence, urgent need), you must exit prayer, redo wudu, then restart prayer from beginning.',
+    },
+    points: 2,
+    difficulty: 'easy',
+    category: 'invalidators',
+  },
+  {
+    id: 'salat-invalidators-007',
+    question: {
+      fr: 'Ajouter intentionnellement un Rukn (pilier) comme une 5ème Rak\'ah dans une prière de 4, qu\'arrive-t-il ?',
+      ar: 'زيادة ركن عمدا كركعة خامسة في صلاة رباعية، ماذا يحدث؟',
+      en: 'Intentionally adding a Rukn (pillar) like a 5th Rak\'ah in a 4-Rak\'ah prayer, what happens?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'La prière est annulée', ar: 'تبطل الصلاة', en: 'Prayer is invalidated' } },
+      { id: 'b', text: { fr: 'On fait Sujud Sahw et la prière est valide', ar: 'سجود السهو والصلاة صحيحة', en: 'Do Sujud Sahw and prayer is valid' } },
+      { id: 'c', text: { fr: 'On considère la 5ème comme prière surérogatoire', ar: 'تُعتبر الخامسة نافلة', en: 'Consider 5th as voluntary prayer' } },
+      { id: 'd', text: { fr: 'Rien, on continue normalement', ar: 'لا شيء، نستمر عاديا', en: 'Nothing, continue normally' } },
+    ],
+    correctAnswer: 0,
+    explanation: {
+      fr: 'Ajouter intentionnellement un pilier (Rukn) annule la prière. Si c\'est par oubli, on s\'assoit au 4ème Tashahhud détecté, fait Salam, puis Sujud Sahw.',
+      ar: 'زيادة ركن عمدا تُبطل الصلاة. إن كان سهوا، يجلس في التشهد الرابع المُلاحَظ، يُسلّم، ثم يسجد للسهو.',
+      en: 'Intentionally adding a pillar (Rukn) invalidates prayer. If by forgetfulness, sit at detected 4th Tashahhud, make Salam, then Sujud Sahw.',
+    },
+    points: 3,
+    difficulty: 'hard',
+    category: 'invalidators',
+  },
+  {
+    id: 'salat-invalidators-008',
+    question: {
+      fr: 'Découvrir sa Awra (partie à couvrir) pendant la prière invalide-t-elle la prière ?',
+      ar: 'كشف العورة أثناء الصلاة هل يُبطل الصلاة؟',
+      en: 'Uncovering one\'s Awra during prayer does it invalidate prayer?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Non, aucun effet', ar: 'لا، لا أثر', en: 'No, no effect' } },
+      { id: 'b', text: { fr: 'Oui, si c\'est intentionnel ou pour un temps long', ar: 'نعم، إن كان عمدا أو لزمن طويل', en: 'Yes, if intentional or for long time' } },
+      { id: 'c', text: { fr: 'Seulement pour les femmes', ar: 'للنساء فقط', en: 'Only for women' } },
+      { id: 'd', text: { fr: 'Uniquement le vendredi', ar: 'يوم الجمعة فقط', en: 'Only on Friday' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Découvrir la Awra intentionnellement ou pour un temps long invalide la prière, car couvrir la Awra est une condition de validité. Si accidentel et bref, on se couvre et continue.',
+      ar: 'كشف العورة عمدا أو لزمن طويل يُبطل الصلاة، لأن ستر العورة شرط لصحتها. إن كان عرضيا وقصيرا، يُغطى ويستمر.',
+      en: 'Intentionally or for long time uncovering Awra invalidates prayer, as covering Awra is condition of validity. If accidental and brief, cover and continue.',
+    },
+    points: 3,
+    difficulty: 'medium',
+    category: 'invalidators',
+  },
+];
+
+// ============================================
 // Assemblage de l'examen COMPLET
 // ============================================
 
 const allQuestions: ExamQuestion[] = [
   ...taharaQuestions,           // 8 questions - Purification
+  ...ghuslQuestions,            // 10 questions - Ghusl (Ablutions majeures)  
   ...wuduQuestions,             // 8 questions - Ablutions
   ...adhanQuestions,            // 4 questions - Adhan/Iqama
   ...salatQuestions,            // 12 questions - Prière de base
+  ...congregationQuestions,     // 10 questions - Prière en congrégation
+  ...invalidatorsQuestions,     // 8 questions - Annulatifs de la prière
   ...sujudSahwQuestions,        // 4 questions - Prosternation de l'oubli
   ...nawafilQuestions,          // 4 questions - Prières surérogatoires
   ...allSpecialPrayersQuestions, // 30 questions - Prières spéciales
-  // Total : 70 questions
+  // Total : 98 questions
 ];
 
 export const examSalatFinal: ExamConfig = {
@@ -1005,14 +1673,14 @@ export const examSalatFinal: ExamConfig = {
     en: 'Complete Exam - Fiqh of Prayer',
   },
   description: {
-    fr: 'Examen de 50 questions sélectionnées aléatoirement parmi une banque de 70+ questions. Chaque tentative présente des questions différentes pour une évaluation authentique.',
-    ar: 'امتحان من 50 سؤالاً يتم اختيارها عشوائياً من بنك يضم أكثر من 70 سؤالاً. كل محاولة تقدم أسئلة مختلفة لتقييم حقيقي.',
-    en: 'Exam with 50 questions randomly selected from a pool of 70+ questions. Each attempt presents different questions for authentic assessment.',
+    fr: 'Examen de 68 questions sélectionnées aléatoirement parmi une banque de 98 questions. Couvre Tahara, Ghusl, Wudu, Congrégation, Annulatifs et toutes les prières. Chaque tentative présente des questions différentes pour une évaluation authentique.',
+    ar: 'امتحان من 68 سؤالاً يتم اختيارها عشوائياً من بنك يضم 98 سؤالاً. يغطي الطهارة، الغسل، الوضوء، الجماعة، المبطلات وجميع الصلوات. كل محاولة تقدم أسئلة مختلفة لتقييم حقيقي.',
+    en: 'Exam with 68 questions randomly selected from a pool of 98 questions. Covers Tahara, Ghusl, Wudu, Congregation, Invalidators and all prayers. Each attempt presents different questions for authentic assessment.',
   },
   instructions: {
-    fr: 'Vous avez 60 minutes pour répondre à 50 questions sélectionnées aléatoirement. Chaque question a une seule bonne réponse. Un score de 70% est requis pour réussir. Les questions changent à chaque tentative !',
-    ar: 'لديك 60 دقيقة للإجابة على 50 سؤالاً يتم اختيارها عشوائياً. لكل سؤال إجابة صحيحة واحدة. يُشترط 70% للنجاح. الأسئلة تتغير في كل محاولة!',
-    en: 'You have 60 minutes to answer 50 randomly selected questions. Each question has one correct answer. A score of 70% is required to pass. Questions change with each attempt!',
+    fr: 'Vous avez 70 minutes pour répondre à 68 questions sélectionnées aléatoirement. Chaque question a une seule bonne réponse. Un score de 70% est requis pour réussir. Les questions changent à chaque tentative !',
+    ar: 'لديك 70 دقيقة للإجابة على 68 سؤالاً يتم اختيارها عشوائياً. لكل سؤال إجابة صحيحة واحدة. يُشترط 70% للنجاح. الأسئلة تتغير في كل محاولة!',
+    en: 'You have 70 minutes to answer 68 randomly selected questions. Each question has one correct answer. A score of 70% is required to pass. Questions change with each attempt!',
   },
   courseSlug: 'salat',
   
@@ -1023,13 +1691,14 @@ export const examSalatFinal: ExamConfig = {
   questionPool: allQuestions,
   
   // Nombre de questions à sélectionner pour chaque tentative
-  questionsPerExam: 50,
+  questionsPerExam: 68,
   
   // Configuration par catégorie pour une couverture équilibrée
   // Garantit que chaque domaine est représenté proportionnellement
   categoryConfig: [
-    // Tahara & Wudu - Fondamentaux (12 questions sur 16 disponibles)
+    // Tahara, Ghusl & Wudu - Fondamentaux (18 questions sur 26 disponibles)
     { category: 'tahara', count: 6 },
+    { category: 'ghusl', count: 6 },
     { category: 'wudu', count: 6 },
     
     // Salat de base - Cœur de l'examen (8 questions sur 12 disponibles)
@@ -1038,12 +1707,16 @@ export const examSalatFinal: ExamConfig = {
     // Adhan & Iqama (3 questions sur 4 disponibles)
     { category: 'adhan', count: 3 },
     
+    // Congrégation & Annulatifs - Pratique avancée (10 questions sur 18 disponibles)
+    { category: 'congregation', count: 5 },
+    { category: 'invalidators', count: 5 },
+    
     // Sujud Sahw & Nawafil (5 questions sur 8 disponibles)
     { category: 'sujud-sahw', count: 3 },
     { category: 'nawafil', count: 2 },
     
     // Prières spéciales - Large couverture (22 questions sur 30 disponibles)
-    { category: 'juma', count: 3 },    // Note: 'juma' dans les questions
+    { category: 'juma', count: 3 },
     { category: 'janaza', count: 3 },
     { category: 'eid', count: 3 },
     { category: 'kusuf', count: 2 },
@@ -1056,7 +1729,7 @@ export const examSalatFinal: ExamConfig = {
   // Questions sera rempli dynamiquement par prepareExamQuestions()
   questions: [],
   
-  duration: 60, // 60 minutes pour 50 questions
+  duration: 70, // 70 minutes pour 68 questions
   passingScore: 70,
   maxAttempts: 5, // Plus de tentatives car questions différentes
   shuffleQuestions: true,
