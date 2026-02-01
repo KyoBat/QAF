@@ -76,10 +76,10 @@ The **Mawdu' hadith** (موضوع) is the most severe type of rejected hadith. I
 
 | "Hadith" | Reality |
 |----------|---------|
-| "I am the city of knowledge and Ali is its gate" | Fabricated according to majority |
-| "Love of homeland is from faith" | No known source |
-| "My companions are like stars" | Fabricated |
-| "Seek knowledge even in China" | Very weak |
+| "I am the city of knowledge and Ali is its gate" | Fabricated according to majority (Ibn al-Jawzi, Adh-Dhahabi) |
+| "Love of homeland is from faith" | No chain known — fabricated |
+| "My companions are like stars" | Fabricated (Ibn Hazm, Ibn 'Abd al-Barr, Al-Albani) |
+| "Seek knowledge even in China" | Very weak (Ibn al-Jawzi: Mawdu' / Al-Albani: Da'if Jiddan) |
 
 ### ⚠️ Widespread Problematic "Hadiths"
 

@@ -103,11 +103,11 @@ Le **hadith Mawdu'** (موضوع) est le plus grave des hadiths rejetés. C'est 
 
 | "Hadith" Fabriqué | Origine du Mensonge |
 |-------------------|---------------------|
-| « أنا مدينة العلم وعلي بابها » (Je suis la cité du savoir et 'Ali est sa porte) | Fabriqué selon la majorité |
-| « حب الوطن من الإيمان » (L'amour de la patrie fait partie de la foi) | Aucune source connue |
+| « أنا مدينة العلم وعلي بابها » (Je suis la cité du savoir et 'Ali est sa porte) | Fabriqué selon la majorité (Ibn al-Jawzi, Adh-Dhahabi) |
+| « حب الوطن من الإيمان » (L'amour de la patrie fait partie de la foi) | Aucune chaîne connue — fabriqué |
 | « من لم تنهه صلاته... » (Celui dont la prière ne l'empêche pas...) | Mawquf sur Ibn Mas'ud, pas Marfu' |
-| « اطلبوا العلم ولو بالصين » (Cherchez le savoir même en Chine) | Da'if très faible |
-| « أصحابي كالنجوم » (Mes compagnons sont comme les étoiles) | Fabriqué |
+| « اطلبوا العلم ولو بالصين » (Cherchez le savoir même en Chine) | Très faible (Ibn al-Jawzi : Mawdu' / Al-Albani : Da'if Jiddan) |
+| « أصحابي كالنجوم » (Mes compagnons sont comme les étoiles) | Fabriqué (Ibn Hazm, Ibn 'Abd al-Barr, Al-Albani) |
 
 ### ⚠️ Hadiths Répandus mais Problématiques
 

@@ -7,7 +7,7 @@
 export const content = `# 👩‍🎓 المحدثات من النساء — Les Femmes Savantes du Hadith
 
 > **« خُذُوا شَطْرَ دِينِكُمْ عَنْ هَذِهِ الْحُمَيْرَاءِ »**
-> — **Attribué à plusieurs Sahaba concernant 'Aisha** رضي الله عنها
+> — **Athar attribué à Abu Musa al-Ash'ari et d'autres Sahaba concernant 'Aisha** رضي الله عنها (chaînes discutées)
 
 > « Prenez la moitié de votre religion de cette Humayra (la rousse). »
 

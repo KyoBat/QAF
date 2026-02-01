@@ -146,7 +146,7 @@ Les **Kutub as-Sitta** (الكتب الستة) sont les six recueils de hadith l
 
 | Terme | Signification |
 |-------|---------------|
-| **حسن صحيح** | Deux chaînes : une Hasan, une Sahih |
+| **حسن صحيح** | Débattu : soit deux chaînes (Hasan + Sahih), soit hésitation de Tirmidhi, soit Sahih pas au plus haut niveau (débat entre Ibn as-Salah, Ibn Hajar et Adh-Dhahabi) |
 | **حسن غريب** | Bon mais avec une seule chaîne |
 | **غريب** | Une seule chaîne (peut être Sahih ou Da'if) |
 

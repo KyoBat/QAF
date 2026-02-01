@@ -7,7 +7,7 @@
 export const content = `# 👩‍🎓 المحدثات من النساء — Women Scholars of Hadith
 
 > **"Take half of your religion from this Humayra (the reddish one)."**
-> — **Attributed to several Sahaba regarding 'Aisha** رضي الله عنها
+> — **Athar attributed to Abu Musa al-Ash'ari and others regarding 'Aisha** رضي الله عنها (chains are discussed)
 
 ---
 
