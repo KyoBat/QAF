@@ -775,6 +775,623 @@ const hadithsCelebresQuestions: ExamQuestion[] = [
 ];
 
 // ============================================
+// Questions - Types de Faiblesses Détaillés (Phase 4)
+// ============================================
+
+const typesFaiblessesQuestions: ExamQuestion[] = [
+  {
+    id: 'hadith-faiblesse-001',
+    question: {
+      fr: 'Qu\'est-ce qu\'un hadith "Munkar" ?',
+      ar: 'ما هو الحديث المنكر؟',
+      en: 'What is a "Munkar" hadith?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Un hadith rapporté par un narrateur faible qui contredit un narrateur fiable', ar: 'حديث رواه ضعيف مخالفًا للثقة', en: 'A hadith narrated by a weak narrator contradicting a reliable one' } },
+      { id: 'b', text: { fr: 'Un hadith très court', ar: 'حديث قصير جدًا', en: 'A very short hadith' } },
+      { id: 'c', text: { fr: 'Un hadith sur le jihad', ar: 'حديث عن الجهاد', en: 'A hadith about jihad' } },
+      { id: 'd', text: { fr: 'Un hadith Mutawatir', ar: 'حديث متواتر', en: 'A Mutawatir hadith' } },
+    ],
+    correctAnswer: 0,
+    explanation: {
+      fr: 'Le Munkar est quand un narrateur faible rapporte quelque chose qui contredit ce que les narrateurs fiables ont transmis. C\'est une forme de hadith rejeté.',
+      ar: 'المنكر هو ما رواه الضعيف مخالفًا للثقات. وهو من أنواع الحديث المردود.',
+      en: 'Munkar is when a weak narrator reports something contradicting what reliable narrators transmitted. It\'s a form of rejected hadith.',
+    },
+    points: 3,
+    difficulty: 'hard',
+    category: 'types-faiblesses',
+  },
+  {
+    id: 'hadith-faiblesse-002',
+    question: {
+      fr: 'Qu\'est-ce qu\'un hadith "Shadh" (anomalous) ?',
+      ar: 'ما هو الحديث الشاذ؟',
+      en: 'What is a "Shadh" (anomalous) hadith?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Un hadith rapporté par un seul Compagnon', ar: 'حديث رواه صحابي واحد', en: 'A hadith narrated by one Companion' } },
+      { id: 'b', text: { fr: 'Un hadith où un narrateur fiable contredit des narrateurs plus fiables ou plus nombreux', ar: 'حديث خالف فيه الثقة من هو أوثق أو أكثر عددًا', en: 'A hadith where a reliable narrator contradicts more reliable or numerous narrators' } },
+      { id: 'c', text: { fr: 'Un hadith inventé', ar: 'حديث موضوع', en: 'A fabricated hadith' } },
+      { id: 'd', text: { fr: 'Un hadith long', ar: 'حديث طويل', en: 'A long hadith' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Le Shadh est quand un narrateur fiable rapporte quelque chose de différent de ce que rapportent des narrateurs plus fiables ou plus nombreux. Imam Shafi\'i a défini ce terme.',
+      ar: 'الشاذ ما رواه الثقة مخالفًا لمن هو أوثق منه أو أكثر عددًا. والإمام الشافعي هو من عرّف هذا المصطلح.',
+      en: 'Shadh is when a reliable narrator reports something different from what more reliable or numerous narrators report. Imam Shafi\'i defined this term.',
+    },
+    points: 3,
+    difficulty: 'hard',
+    category: 'types-faiblesses',
+  },
+  {
+    id: 'hadith-faiblesse-003',
+    question: {
+      fr: 'Qu\'est-ce qu\'un hadith "Mu\'allaq" (suspendu) ?',
+      ar: 'ما هو الحديث المعلق؟',
+      en: 'What is a "Mu\'allaq" (suspended) hadith?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Un hadith dont le début de la chaîne (du côté du compilateur) est manquant', ar: 'حديث حُذف من أول إسناده راوٍ أو أكثر من جهة المصنف', en: 'A hadith where the beginning of the chain (compiler side) is missing' } },
+      { id: 'b', text: { fr: 'Un hadith très authentique', ar: 'حديث صحيح جدًا', en: 'A very authentic hadith' } },
+      { id: 'c', text: { fr: 'Un hadith sur la prière', ar: 'حديث عن الصلاة', en: 'A hadith about prayer' } },
+      { id: 'd', text: { fr: 'Un hadith du Prophète enfant', ar: 'حديث من طفولة النبي', en: 'A hadith from the Prophet\'s childhood' } },
+    ],
+    correctAnswer: 0,
+    explanation: {
+      fr: 'Le Mu\'allaq a une ou plusieurs personnes supprimées au début de la chaîne. Bukhari en a utilisé dans les titres de chapitres (Ta\'aliq) mais son texte principal reste connecté.',
+      ar: 'المعلق ما حُذف من أول إسناده راوٍ فأكثر. واستخدمه البخاري في تراجم الأبواب لكن متنه الأصلي متصل.',
+      en: 'Mu\'allaq has one or more people removed from the beginning of the chain. Bukhari used them in chapter headings but his main text remains connected.',
+    },
+    points: 3,
+    difficulty: 'hard',
+    category: 'types-faiblesses',
+  },
+  {
+    id: 'hadith-faiblesse-004',
+    question: {
+      fr: 'Qu\'est-ce qu\'un hadith "Mu\'dal" ?',
+      ar: 'ما هو الحديث المعضل؟',
+      en: 'What is a "Mu\'dal" hadith?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Un hadith avec un seul narrateur manquant', ar: 'حديث سقط منه راوٍ واحد', en: 'A hadith with one missing narrator' } },
+      { id: 'b', text: { fr: 'Un hadith avec deux narrateurs consécutifs ou plus manquants dans la chaîne', ar: 'حديث سقط من إسناده راويان متتاليان فأكثر', en: 'A hadith with two or more consecutive narrators missing in the chain' } },
+      { id: 'c', text: { fr: 'Un hadith Sahih', ar: 'حديث صحيح', en: 'A Sahih hadith' } },
+      { id: 'd', text: { fr: 'Un hadith difficile à comprendre', ar: 'حديث صعب الفهم', en: 'A difficult hadith to understand' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Le Mu\'dal a au moins deux narrateurs consécutifs manquants. C\'est plus faible que le Munqati\' (un seul manquant) et le Mursal (Compagnon manquant).',
+      ar: 'المعضل سقط من إسناده اثنان فأكثر على التوالي. وهو أضعف من المنقطع (واحد) والمرسل (الصحابي).',
+      en: 'Mu\'dal has at least two consecutive narrators missing. It\'s weaker than Munqati\' (one missing) and Mursal (Companion missing).',
+    },
+    points: 3,
+    difficulty: 'hard',
+    category: 'types-faiblesses',
+  },
+  {
+    id: 'hadith-faiblesse-005',
+    question: {
+      fr: 'Qu\'est-ce qu\'un hadith "Mudraj" (interpolé) ?',
+      ar: 'ما هو الحديث المدرج؟',
+      en: 'What is a "Mudraj" (interpolated) hadith?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Un hadith où un narrateur a ajouté des mots qui ne font pas partie du hadith original', ar: 'حديث أُدرجت فيه كلمات ليست من الحديث الأصلي', en: 'A hadith where a narrator added words not part of the original hadith' } },
+      { id: 'b', text: { fr: 'Un hadith très long', ar: 'حديث طويل جدًا', en: 'A very long hadith' } },
+      { id: 'c', text: { fr: 'Un hadith traduit', ar: 'حديث مترجم', en: 'A translated hadith' } },
+      { id: 'd', text: { fr: 'Un hadith abrogé', ar: 'حديث منسوخ', en: 'An abrogated hadith' } },
+    ],
+    correctAnswer: 0,
+    explanation: {
+      fr: 'Le Mudraj contient des ajouts (dans le texte ou la chaîne) qui ne font pas partie du hadith original. Les savants les détectent en comparant les différentes voies de transmission.',
+      ar: 'المدرج فيه إضافات (في المتن أو السند) ليست من الحديث الأصلي. يكتشفها العلماء بمقارنة طرق الرواية.',
+      en: 'Mudraj contains additions (in text or chain) not part of the original hadith. Scholars detect them by comparing different transmission routes.',
+    },
+    points: 3,
+    difficulty: 'hard',
+    category: 'types-faiblesses',
+  },
+  {
+    id: 'hadith-faiblesse-006',
+    question: {
+      fr: 'Qu\'est-ce qu\'un hadith "Maqlub" (inversé) ?',
+      ar: 'ما هو الحديث المقلوب؟',
+      en: 'What is a "Maqlub" (inverted) hadith?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Un hadith où des éléments ont été inversés (noms, mots, chaînes)', ar: 'حديث وقع فيه قلب في الأسماء أو الألفاظ أو الأسانيد', en: 'A hadith where elements were inverted (names, words, chains)' } },
+      { id: 'b', text: { fr: 'Un hadith lu à l\'envers', ar: 'حديث يُقرأ من الخلف', en: 'A hadith read backwards' } },
+      { id: 'c', text: { fr: 'Un hadith sur le Jour du Jugement', ar: 'حديث عن يوم القيامة', en: 'A hadith about Judgment Day' } },
+      { id: 'd', text: { fr: 'Un hadith abrogeant', ar: 'حديث ناسخ', en: 'An abrogating hadith' } },
+    ],
+    correctAnswer: 0,
+    explanation: {
+      fr: 'Le Maqlub peut avoir une inversion dans le texte ("7 coudées" au lieu de "70") ou dans la chaîne (attribuer le hadith de Ka\'b à Murra au lieu de Murra à Ka\'b).',
+      ar: 'المقلوب فيه قلب في المتن ("سبعة أذرع" بدل "سبعين") أو في السند (نسبة حديث كعب لمرة بدل مرة لكعب).',
+      en: 'Maqlub can have inversion in the text ("7 cubits" instead of "70") or in the chain (attributing Ka\'b\'s hadith to Murra instead of Murra to Ka\'b).',
+    },
+    points: 3,
+    difficulty: 'hard',
+    category: 'types-faiblesses',
+  },
+];
+
+// ============================================
+// Questions - Savants du Hadith Détaillés (Phase 4)
+// ============================================
+
+const savantsDetaillesQuestions: ExamQuestion[] = [
+  {
+    id: 'hadith-savant-detail-001',
+    question: {
+      fr: 'Quelle est la particularité méthodologique de l\'Imam Muslim par rapport à Bukhari ?',
+      ar: 'ما الفرق المنهجي بين الإمام مسلم والبخاري؟',
+      en: 'What is Imam Muslim\'s methodological difference from Bukhari?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Muslim est moins strict', ar: 'مسلم أقل صرامة', en: 'Muslim is less strict' } },
+      { id: 'b', text: { fr: 'Muslim regroupe les hadiths du même sujet, Bukhari les disperse selon les bénéfices Fiqhi', ar: 'مسلم يجمع أحاديث الموضوع الواحد، والبخاري يفرقها حسب الفوائد الفقهية', en: 'Muslim groups hadiths of same topic, Bukhari disperses them for Fiqhi benefits' } },
+      { id: 'c', text: { fr: 'Muslim n\'a pas de chaîne', ar: 'مسلم بلا إسناد', en: 'Muslim has no chain' } },
+      { id: 'd', text: { fr: 'Muslim ne contient que des hadiths Qudsi', ar: 'مسلم يحتوي فقط على أحاديث قدسية', en: 'Muslim only contains Qudsi hadiths' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Muslim rassemble toutes les variantes d\'un hadith au même endroit, facilitant l\'étude. Bukhari répète le même hadith dans différents chapitres pour en extraire différents jugements.',
+      ar: 'مسلم يجمع جميع روايات الحديث في موضع واحد لسهولة الدراسة. والبخاري يكرر الحديث في أبواب مختلفة لاستخراج أحكام متنوعة.',
+      en: 'Muslim gathers all variants of a hadith in one place for easy study. Bukhari repeats the same hadith in different chapters to extract various rulings.',
+    },
+    points: 3,
+    difficulty: 'hard',
+    category: 'savants-detailles',
+  },
+  {
+    id: 'hadith-savant-detail-002',
+    question: {
+      fr: 'Qui est Ibn Hajar al-Asqalani et quel est son ouvrage majeur ?',
+      ar: 'من هو ابن حجر العسقلاني وما أهم مؤلفاته؟',
+      en: 'Who is Ibn Hajar al-Asqalani and what is his major work?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Un Compagnon, auteur du Coran', ar: 'صحابي، مؤلف القرآن', en: 'A Companion, author of Quran' } },
+      { id: 'b', text: { fr: 'Un Hafidh (773-852 H), auteur de Fath al-Bari (explication de Sahih Bukhari)', ar: 'حافظ (773-852 هـ)، مؤلف فتح الباري (شرح صحيح البخاري)', en: 'A Hafidh (773-852 H), author of Fath al-Bari (explanation of Sahih Bukhari)' } },
+      { id: 'c', text: { fr: 'Le fondateur du Hanafisme', ar: 'مؤسس المذهب الحنفي', en: 'Founder of Hanafism' } },
+      { id: 'd', text: { fr: 'Un philosophe grec', ar: 'فيلسوف يوناني', en: 'A Greek philosopher' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Ibn Hajar al-Asqalani est le plus grand commentateur de Sahih Bukhari. Son Fath al-Bari est considéré comme le meilleur Sharh jamais écrit sur un recueil de hadith.',
+      ar: 'ابن حجر العسقلاني أعظم شارح لصحيح البخاري. وفتح الباري يُعد أفضل شرح كُتب على كتاب حديث.',
+      en: 'Ibn Hajar al-Asqalani is the greatest commentator of Sahih Bukhari. His Fath al-Bari is considered the best Sharh ever written on a hadith collection.',
+    },
+    points: 2,
+    difficulty: 'medium',
+    category: 'savants-detailles',
+  },
+  {
+    id: 'hadith-savant-detail-003',
+    question: {
+      fr: 'Qui est l\'Imam an-Nawawi et quels sont ses ouvrages majeurs ?',
+      ar: 'من هو الإمام النووي وما أهم مؤلفاته؟',
+      en: 'Who is Imam an-Nawawi and what are his major works?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Yahya ibn Sharaf (631-676 H), auteur de Sharh Muslim, Riyad as-Salihin, et les 40 Hadiths', ar: 'يحيى بن شرف (631-676 هـ)، مؤلف شرح مسلم ورياض الصالحين والأربعين النووية', en: 'Yahya ibn Sharaf (631-676 H), author of Sharh Muslim, Riyad as-Salihin, and 40 Hadiths' } },
+      { id: 'b', text: { fr: 'Un roi musulman', ar: 'ملك مسلم', en: 'A Muslim king' } },
+      { id: 'c', text: { fr: 'Un traducteur du Coran', ar: 'مترجم القرآن', en: 'A Quran translator' } },
+      { id: 'd', text: { fr: 'Un médecin', ar: 'طبيب', en: 'A doctor' } },
+    ],
+    correctAnswer: 0,
+    explanation: {
+      fr: 'An-Nawawi mourut à 45 ans mais laissa un héritage immense. Ses 40 Hadiths sont mémorisés par des millions de musulmans. Son Sharh Muslim est une référence incontournable.',
+      ar: 'توفي النووي عن 45 عامًا لكنه ترك إرثًا عظيمًا. الأربعين النووية يحفظها الملايين. وشرح مسلم مرجع أساسي.',
+      en: 'An-Nawawi died at 45 but left an immense legacy. His 40 Hadiths are memorized by millions. His Sharh Muslim is an essential reference.',
+    },
+    points: 2,
+    difficulty: 'medium',
+    category: 'savants-detailles',
+  },
+  {
+    id: 'hadith-savant-detail-004',
+    question: {
+      fr: 'Qu\'est-ce que le Musnad de l\'Imam Ahmad ibn Hanbal ?',
+      ar: 'ما هو مسند الإمام أحمد بن حنبل؟',
+      en: 'What is the Musnad of Imam Ahmad ibn Hanbal?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Un livre de Fiqh', ar: 'كتاب فقه', en: 'A Fiqh book' } },
+      { id: 'b', text: { fr: 'Le plus grand recueil de hadiths organisé par Compagnon (environ 27 000 hadiths)', ar: 'أكبر مجموعة أحاديث مرتبة حسب الصحابة (نحو 27 ألف حديث)', en: 'The largest hadith collection organized by Companion (about 27,000 hadiths)' } },
+      { id: 'c', text: { fr: 'Un commentaire du Coran', ar: 'تفسير للقرآن', en: 'A Quran commentary' } },
+      { id: 'd', text: { fr: 'Un livre de grammaire', ar: 'كتاب نحو', en: 'A grammar book' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Le Musnad Ahmad contient environ 27 000 hadiths organisés par narrateur Compagnon. Ahmad ibn Hanbal (164-241 H) est aussi le fondateur de l\'école Hanbali.',
+      ar: 'يحتوي مسند أحمد على نحو 27 ألف حديث مرتبة حسب الصحابي الراوي. وأحمد بن حنبل (164-241 هـ) مؤسس المذهب الحنبلي أيضًا.',
+      en: 'Musnad Ahmad contains about 27,000 hadiths organized by Companion narrator. Ahmad ibn Hanbal (164-241 H) is also the founder of the Hanbali school.',
+    },
+    points: 2,
+    difficulty: 'medium',
+    category: 'savants-detailles',
+  },
+  {
+    id: 'hadith-savant-detail-005',
+    question: {
+      fr: 'Qui est ad-Daraqutni et quelle est sa spécialité ?',
+      ar: 'من هو الدارقطني وما تخصصه؟',
+      en: 'Who is ad-Daraqutni and what is his specialty?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Un astronome musulman', ar: 'عالم فلك مسلم', en: 'A Muslim astronomer' } },
+      { id: 'b', text: { fr: 'Un expert en \'Ilal (défauts cachés) et auteur de Sunan ad-Daraqutni', ar: 'خبير في العلل ومؤلف سنن الدارقطني', en: 'An expert in \'Ilal (hidden defects) and author of Sunan ad-Daraqutni' } },
+      { id: 'c', text: { fr: 'Un poète', ar: 'شاعر', en: 'A poet' } },
+      { id: 'd', text: { fr: 'Un architecte de mosquées', ar: 'مهندس مساجد', en: 'A mosque architect' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Ad-Daraqutni (306-385 H) est l\'un des plus grands experts en \'Ilal (défauts subtils des hadiths). Son livre al-\'Ilal est une référence pour détecter les erreurs cachées.',
+      ar: 'الدارقطني (306-385 هـ) من أعظم أئمة العلل. وكتابه العلل مرجع لاكتشاف الأخطاء الخفية في الأحاديث.',
+      en: 'Ad-Daraqutni (306-385 H) is one of the greatest experts in \'Ilal (subtle hadith defects). His book al-\'Ilal is a reference for detecting hidden errors.',
+    },
+    points: 3,
+    difficulty: 'hard',
+    category: 'savants-detailles',
+  },
+];
+
+// ============================================
+// Questions - Méthodologie des Muhaddithin (Phase 4)
+// ============================================
+
+const methodologieQuestions: ExamQuestion[] = [
+  {
+    id: 'hadith-methodo-001',
+    question: {
+      fr: 'Pourquoi dit-on que Sahih Bukhari est plus strict que Sahih Muslim ?',
+      ar: 'لماذا يُقال إن صحيح البخاري أشد صرامة من صحيح مسلم؟',
+      en: 'Why is Sahih Bukhari said to be stricter than Sahih Muslim?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Bukhari exige que deux narrateurs consécutifs se soient rencontrés (Liqa\'), Muslim accepte la contemporanéité (Mu\'asara)', ar: 'البخاري يشترط اللقاء بين الراويين المتعاصرين، ومسلم يكتفي بالمعاصرة', en: 'Bukhari requires two consecutive narrators to have met (Liqa\'), Muslim accepts contemporaneity (Mu\'asara)' } },
+      { id: 'b', text: { fr: 'Bukhari a plus de hadiths', ar: 'البخاري فيه أحاديث أكثر', en: 'Bukhari has more hadiths' } },
+      { id: 'c', text: { fr: 'Muslim est plus ancien', ar: 'مسلم أقدم', en: 'Muslim is older' } },
+      { id: 'd', text: { fr: 'Aucune différence', ar: 'لا فرق', en: 'No difference' } },
+    ],
+    correctAnswer: 0,
+    explanation: {
+      fr: 'Bukhari exige la preuve que deux narrateurs se soient effectivement rencontrés. Muslim accepte qu\'ils aient vécu à la même époque et que la rencontre soit possible. C\'est le principal Shart (condition) distinctif.',
+      ar: 'البخاري يشترط ثبوت اللقاء بين الراويين. ومسلم يكتفي بالمعاصرة وإمكانية اللقاء. وهذا أهم فرق في الشروط.',
+      en: 'Bukhari requires proof that two narrators actually met. Muslim accepts that they lived in the same era and meeting was possible. This is the main distinctive Shart.',
+    },
+    points: 3,
+    difficulty: 'hard',
+    category: 'methodologie',
+  },
+  {
+    id: 'hadith-methodo-002',
+    question: {
+      fr: 'Qu\'est-ce que le "Tadlis" (dissimulation) dans la science du hadith ?',
+      ar: 'ما هو التدليس في علم الحديث؟',
+      en: 'What is "Tadlis" (concealment) in hadith science?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Cacher un défaut dans la chaîne en utilisant des termes ambigus', ar: 'إخفاء عيب في السند باستخدام ألفاظ موهمة', en: 'Hiding a defect in the chain using ambiguous terms' } },
+      { id: 'b', text: { fr: 'Traduire un hadith', ar: 'ترجمة حديث', en: 'Translating a hadith' } },
+      { id: 'c', text: { fr: 'Écrire un hadith en arabe', ar: 'كتابة حديث بالعربية', en: 'Writing a hadith in Arabic' } },
+      { id: 'd', text: { fr: 'Réciter un hadith à voix haute', ar: 'قراءة حديث بصوت عالٍ', en: 'Reciting a hadith aloud' } },
+    ],
+    correctAnswer: 0,
+    explanation: {
+      fr: 'Le Tadlis peut être : Tadlis al-Isnad (dire "Un tel a dit" sans l\'avoir entendu directement) ou Tadlis ash-Shuyukh (décrire son Shaykh de manière à ce qu\'on ne le reconnaisse pas). Certains grands savants l\'ont pratiqué.',
+      ar: 'التدليس أنواع: تدليس الإسناد (قال فلان دون سماع) أو تدليس الشيوخ (وصف الشيخ بما لا يُعرف به). وقد مارسه بعض الكبار.',
+      en: 'Tadlis can be: Tadlis al-Isnad (saying "So-and-so said" without hearing directly) or Tadlis ash-Shuyukh (describing one\'s Shaykh so he\'s unrecognized). Some great scholars practiced it.',
+    },
+    points: 3,
+    difficulty: 'hard',
+    category: 'methodologie',
+  },
+  {
+    id: 'hadith-methodo-003',
+    question: {
+      fr: 'Qu\'est-ce que l\'"Ikhtalat" d\'un narrateur ?',
+      ar: 'ما هو الاختلاط عند الراوي؟',
+      en: 'What is "Ikhtalat" of a narrator?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Un mélange de hadiths dans un livre', ar: 'خلط الأحاديث في كتاب', en: 'Mixing hadiths in a book' } },
+      { id: 'b', text: { fr: 'Quand un narrateur fiable perd la mémoire ou la précision en fin de vie', ar: 'عندما يفقد الراوي الثقة ذاكرته أو ضبطه آخر عمره', en: 'When a reliable narrator loses memory or precision late in life' } },
+      { id: 'c', text: { fr: 'Un narrateur qui voyage beaucoup', ar: 'راوٍ يسافر كثيرًا', en: 'A narrator who travels a lot' } },
+      { id: 'd', text: { fr: 'Un narrateur bilingue', ar: 'راوٍ ثنائي اللغة', en: 'A bilingual narrator' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'L\'Ikhtalat survient quand un narrateur fiable perd sa précision (par maladie, vieillesse, cécité, perte de livres). On accepte ses hadiths d\'avant l\'Ikhtalat, pas ceux d\'après.',
+      ar: 'الاختلاط يحصل عندما يفقد الراوي الثقة ضبطه (بمرض، كبر، عمى، ضياع كتب). تُقبل رواياته قبل الاختلاط لا بعده.',
+      en: 'Ikhtalat occurs when a reliable narrator loses precision (illness, old age, blindness, lost books). His hadiths before Ikhtalat are accepted, not after.',
+    },
+    points: 3,
+    difficulty: 'hard',
+    category: 'methodologie',
+  },
+  {
+    id: 'hadith-methodo-004',
+    question: {
+      fr: 'Quelles sont les formules de transmission (Sighat at-Tahammul) les plus fortes ?',
+      ar: 'ما هي أقوى صيغ التحمل والأداء؟',
+      en: 'What are the strongest transmission formulas (Sighat at-Tahammul)?',
+    },
+    options: [
+      { id: 'a', text: { fr: '"On dit que..." (Qila)', ar: 'قيل', en: '"It is said that..." (Qila)' } },
+      { id: 'b', text: { fr: '"J\'ai entendu" (Sami\'tu) et "Il m\'a raconté" (Haddathani)', ar: 'سمعت وحدثني', en: '"I heard" (Sami\'tu) and "He told me" (Haddathani)' } },
+      { id: 'c', text: { fr: '"Un tel a dit" (\'An)', ar: 'عن', en: '"From so-and-so" (\'An)' } },
+      { id: 'd', text: { fr: 'Toutes sont égales', ar: 'كلها متساوية', en: 'All are equal' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'La hiérarchie : 1) Sami\'tu (j\'ai entendu) - plus forte, 2) Haddathani (il m\'a raconté), 3) Akhbarani (il m\'a informé), 4) \'An (de) - peut cacher un Tadlis.',
+      ar: 'الترتيب: 1) سمعت (أقوى)، 2) حدثني، 3) أخبرني، 4) عن (قد تخفي تدليسًا).',
+      en: 'Hierarchy: 1) Sami\'tu (I heard) - strongest, 2) Haddathani (he told me), 3) Akhbarani (he informed me), 4) \'An (from) - may hide Tadlis.',
+    },
+    points: 3,
+    difficulty: 'hard',
+    category: 'methodologie',
+  },
+];
+
+// ============================================
+// Questions - 'Ilm ar-Rijal (Phase 4)
+// ============================================
+
+const ilmRijalQuestions: ExamQuestion[] = [
+  {
+    id: 'hadith-rijal-001',
+    question: {
+      fr: 'Qu\'est-ce que \'Ilm ar-Rijal (Science des Hommes) ?',
+      ar: 'ما هو علم الرجال؟',
+      en: 'What is \'Ilm ar-Rijal (Science of Men)?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'L\'étude des biographies et de la fiabilité des narrateurs de hadiths', ar: 'دراسة سير الرواة وموثوقيتهم', en: 'The study of biographies and reliability of hadith narrators' } },
+      { id: 'b', text: { fr: 'L\'étude de l\'anatomie masculine', ar: 'دراسة تشريح الرجل', en: 'The study of male anatomy' } },
+      { id: 'c', text: { fr: 'L\'histoire des rois', ar: 'تاريخ الملوك', en: 'History of kings' } },
+      { id: 'd', text: { fr: 'La généalogie des Arabes', ar: 'أنساب العرب', en: 'Arab genealogy' } },
+    ],
+    correctAnswer: 0,
+    explanation: {
+      fr: '\'Ilm ar-Rijal étudie chaque narrateur : nom, surnom, naissance, décès, maîtres, élèves, fiabilité, voyages. C\'est essentiel pour vérifier les chaînes de transmission.',
+      ar: 'علم الرجال يدرس كل راوٍ: اسمه، كنيته، مولده، وفاته، شيوخه، تلاميذه، ثقته، رحلاته. وهو أساسي للتحقق من الأسانيد.',
+      en: '\'Ilm ar-Rijal studies each narrator: name, nickname, birth, death, teachers, students, reliability, travels. Essential for verifying chains.',
+    },
+    points: 2,
+    difficulty: 'medium',
+    category: 'ilm-rijal',
+  },
+  {
+    id: 'hadith-rijal-002',
+    question: {
+      fr: 'Qu\'est-ce que Tahdhib al-Kamal ?',
+      ar: 'ما هو تهذيب الكمال؟',
+      en: 'What is Tahdhib al-Kamal?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Un livre de cuisine', ar: 'كتاب طبخ', en: 'A cookbook' } },
+      { id: 'b', text: { fr: 'Une encyclopédie des narrateurs des Six Livres par al-Mizzi', ar: 'موسوعة رواة الكتب الستة للمزي', en: 'An encyclopedia of the Six Books narrators by al-Mizzi' } },
+      { id: 'c', text: { fr: 'Un livre de poésie', ar: 'ديوان شعر', en: 'A poetry book' } },
+      { id: 'd', text: { fr: 'Un traité de médecine', ar: 'كتاب طب', en: 'A medical treatise' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Tahdhib al-Kamal d\'al-Mizzi (654-742 H) est l\'encyclopédie de référence sur les narrateurs des Kutub as-Sitta. Ibn Hajar l\'a résumé dans Tahdhib at-Tahdhib.',
+      ar: 'تهذيب الكمال للمزي (654-742 هـ) موسوعة مرجعية عن رواة الكتب الستة. اختصره ابن حجر في تهذيب التهذيب.',
+      en: 'Tahdhib al-Kamal by al-Mizzi (654-742 H) is the reference encyclopedia on Kutub as-Sitta narrators. Ibn Hajar summarized it in Tahdhib at-Tahdhib.',
+    },
+    points: 3,
+    difficulty: 'hard',
+    category: 'ilm-rijal',
+  },
+  {
+    id: 'hadith-rijal-003',
+    question: {
+      fr: 'Quels sont les niveaux de Jarh (critique) d\'un narrateur, du plus léger au plus sévère ?',
+      ar: 'ما مراتب الجرح من الأخف إلى الأشد؟',
+      en: 'What are the levels of Jarh (criticism) from lightest to most severe?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Layyin (faible) → Da\'if (très faible) → Matruk (abandonné) → Kadhdhab (menteur)', ar: 'ليّن ← ضعيف ← متروك ← كذاب', en: 'Layyin (soft) → Da\'if (weak) → Matruk (abandoned) → Kadhdhab (liar)' } },
+      { id: 'b', text: { fr: 'Thiqa (fiable) → Saduq (véridique)', ar: 'ثقة ← صدوق', en: 'Thiqa (reliable) → Saduq (truthful)' } },
+      { id: 'c', text: { fr: 'Tous les narrateurs sont égaux', ar: 'كل الرواة متساوون', en: 'All narrators are equal' } },
+      { id: 'd', text: { fr: 'Grand → Moyen → Petit', ar: 'كبير ← متوسط ← صغير', en: 'Big → Medium → Small' } },
+    ],
+    correctAnswer: 0,
+    explanation: {
+      fr: 'Les niveaux de Jarh : 1) Layyin, Fihi Maqal (critiquable), 2) Da\'if, 3) Da\'if Jiddan (très faible), 4) Matruk (abandonné), 5) Muttaham bil-Kadhib (accusé de mensonge), 6) Kadhdhab/Wadda\' (menteur/fabricateur).',
+      ar: 'مراتب الجرح: 1) ليّن، فيه مقال، 2) ضعيف، 3) ضعيف جدًا، 4) متروك، 5) متهم بالكذب، 6) كذاب/وضّاع.',
+      en: 'Jarh levels: 1) Layyin, Fihi Maqal, 2) Da\'if, 3) Da\'if Jiddan, 4) Matruk, 5) Muttaham bil-Kadhib, 6) Kadhdhab/Wadda\'.',
+    },
+    points: 3,
+    difficulty: 'hard',
+    category: 'ilm-rijal',
+  },
+  {
+    id: 'hadith-rijal-004',
+    question: {
+      fr: 'Que signifie "Thiqa" (ثقة) dans l\'évaluation d\'un narrateur ?',
+      ar: 'ما معنى "ثقة" في تقييم الراوي؟',
+      en: 'What does "Thiqa" mean in narrator evaluation?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Un narrateur qui combine \'Adala (probité) et Dabt (précision)', ar: 'راوٍ جمع بين العدالة والضبط', en: 'A narrator combining \'Adala (probity) and Dabt (precision)' } },
+      { id: 'b', text: { fr: 'Un narrateur riche', ar: 'راوٍ غني', en: 'A wealthy narrator' } },
+      { id: 'c', text: { fr: 'Un narrateur âgé', ar: 'راوٍ كبير السن', en: 'An elderly narrator' } },
+      { id: 'd', text: { fr: 'Un narrateur qui voyage', ar: 'راوٍ مسافر', en: 'A traveling narrator' } },
+    ],
+    correctAnswer: 0,
+    explanation: {
+      fr: 'Thiqa est le plus haut niveau de Ta\'dil (approbation). Le narrateur est juste (\'Adil : musulman, pubère, sain d\'esprit, sans péché majeur) et précis (Dabit : mémoire exacte).',
+      ar: 'الثقة أعلى مراتب التعديل. الراوي عدل (مسلم بالغ عاقل بلا كبيرة) وضابط (حافظ متقن).',
+      en: 'Thiqa is the highest Ta\'dil level. The narrator is just (\'Adil: Muslim, adult, sane, no major sin) and precise (Dabit: exact memory).',
+    },
+    points: 2,
+    difficulty: 'medium',
+    category: 'ilm-rijal',
+  },
+];
+
+// ============================================
+// Questions - Fabrication des Hadiths (Phase 4)
+// ============================================
+
+const fabricationQuestions: ExamQuestion[] = [
+  {
+    id: 'hadith-fabr-001',
+    question: {
+      fr: 'Quelles étaient les principales motivations des fabricateurs de hadiths ?',
+      ar: 'ما الدوافع الرئيسية لوضع الأحاديث؟',
+      en: 'What were the main motivations of hadith fabricators?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Politique (soutenir une faction), école juridique, ascétisme (encourager le bien), hérésie', ar: 'سياسية، مذهبية، زهدية (الترغيب)، بدعية', en: 'Political (support a faction), juridical school, asceticism (encourage good), heresy' } },
+      { id: 'b', text: { fr: 'Uniquement pour l\'argent', ar: 'للمال فقط', en: 'Only for money' } },
+      { id: 'c', text: { fr: 'Pour voyager', ar: 'للسفر', en: 'For travel' } },
+      { id: 'd', text: { fr: 'Aucune motivation connue', ar: 'لا دوافع معروفة', en: 'No known motivation' } },
+    ],
+    correctAnswer: 0,
+    explanation: {
+      fr: 'Les fabricateurs avaient diverses motivations : politique (pro-Omeyyades, pro-Abbassides, pro-Ali), sectaire (Chiites, Kharijites), Zanadiqa (détruire l\'Islam de l\'intérieur), ou même des "pieux" voulant encourager le bien.',
+      ar: 'دوافع الوضّاعين متنوعة: سياسية (موالاة أو معارضة)، فرقية (شيعة، خوارج)، زندقة (هدم الإسلام)، أو حتى "متدينون" يريدون الترغيب في الخير.',
+      en: 'Fabricators had various motivations: political (pro-Umayyad, pro-Abbasid, pro-Ali), sectarian (Shia, Kharijites), Zanadiqa (destroy Islam from within), or even "pious" ones wanting to encourage good.',
+    },
+    points: 3,
+    difficulty: 'medium',
+    category: 'fabrication',
+  },
+  {
+    id: 'hadith-fabr-002',
+    question: {
+      fr: 'Quels sont les signes indiquant qu\'un hadith est fabriqué (Mawdu\') ?',
+      ar: 'ما علامات الحديث الموضوع؟',
+      en: 'What are the signs indicating a hadith is fabricated (Mawdu\')?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Aveu du fabricateur, narrateur connu menteur, contredit le Coran/Sunna authentique, langage non prophétique', ar: 'اعتراف الواضع، راوٍ معروف بالكذب، مخالفة القرآن/السنة، ركاكة اللفظ', en: 'Fabricator confession, known liar narrator, contradicts Quran/authentic Sunnah, unprophetic language' } },
+      { id: 'b', text: { fr: 'Le hadith est court', ar: 'الحديث قصير', en: 'The hadith is short' } },
+      { id: 'c', text: { fr: 'Le hadith parle de prière', ar: 'الحديث عن الصلاة', en: 'The hadith is about prayer' } },
+      { id: 'd', text: { fr: 'Aucun signe possible', ar: 'لا علامات ممكنة', en: 'No possible signs' } },
+    ],
+    correctAnswer: 0,
+    explanation: {
+      fr: 'Signes de fabrication : 1) Aveu du fabricateur, 2) Menteur dans la chaîne, 3) Contredit Coran/raison/sens, 4) Récompense démesurée pour acte mineur, 5) Langage faible non prophétique, 6) Sujet où le besoin de mentir existait (partisanerie).',
+      ar: 'علامات الوضع: 1) اعتراف الواضع، 2) كذاب في السند، 3) مخالفة القرآن/العقل/الحس، 4) ثواب مبالغ لعمل صغير، 5) ركاكة اللفظ، 6) موضوع فيه داعٍ للكذب.',
+      en: 'Fabrication signs: 1) Fabricator confession, 2) Liar in chain, 3) Contradicts Quran/reason/sense, 4) Exaggerated reward for minor act, 5) Weak unprophetic language, 6) Topic where lying incentive existed.',
+    },
+    points: 3,
+    difficulty: 'hard',
+    category: 'fabrication',
+  },
+  {
+    id: 'hadith-fabr-003',
+    question: {
+      fr: 'Que doit faire un musulman s\'il découvre qu\'un hadith est fabriqué ?',
+      ar: 'ماذا يفعل المسلم إذا علم أن حديثًا موضوع؟',
+      en: 'What should a Muslim do if they discover a hadith is fabricated?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Le transmettre quand même', ar: 'ينقله على أي حال', en: 'Transmit it anyway' } },
+      { id: 'b', text: { fr: 'Il est interdit de le transmettre sans avertir qu\'il est fabriqué', ar: 'يحرم نقله دون بيان أنه موضوع', en: 'It is forbidden to transmit it without warning it is fabricated' } },
+      { id: 'c', text: { fr: 'L\'ignorer complètement', ar: 'يتجاهله تمامًا', en: 'Completely ignore it' } },
+      { id: 'd', text: { fr: 'Le modifier', ar: 'يعدّله', en: 'Modify it' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Le Prophète ﷺ a dit : "Celui qui rapporte de moi un hadith qu\'il sait être mensonger est l\'un des menteurs." (Muslim). On peut le mentionner pour avertir, mais pas comme preuve.',
+      ar: 'قال ﷺ: "من حدث عني بحديث يُرى أنه كذب فهو أحد الكاذبين" (مسلم). يجوز ذكره للتحذير لا للاحتجاج.',
+      en: 'The Prophet ﷺ said: "Whoever narrates a hadith from me knowing it to be a lie is one of the liars." (Muslim). One may mention it to warn, but not as proof.',
+    },
+    points: 2,
+    difficulty: 'medium',
+    category: 'fabrication',
+  },
+];
+
+// ============================================
+// Questions - Recueils Secondaires (Phase 4)
+// ============================================
+
+const recueilsSecondairesQuestions: ExamQuestion[] = [
+  {
+    id: 'hadith-recueil-sec-001',
+    question: {
+      fr: 'Quelle est la différence entre un "Jami\'" et un "Sunan" ?',
+      ar: 'ما الفرق بين الجامع والسنن؟',
+      en: 'What is the difference between a "Jami\'" and a "Sunan"?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Jami\' couvre tous les sujets (croyance, Fiqh, Sira, Tafsir...), Sunan se limite aux hadiths juridiques (Ahkam)', ar: 'الجامع يشمل جميع الأبواب، والسنن تقتصر على أحاديث الأحكام', en: 'Jami\' covers all topics (creed, Fiqh, Sira, Tafsir...), Sunan is limited to legal hadiths (Ahkam)' } },
+      { id: 'b', text: { fr: 'Aucune différence', ar: 'لا فرق', en: 'No difference' } },
+      { id: 'c', text: { fr: 'Jami\' est plus court', ar: 'الجامع أقصر', en: 'Jami\' is shorter' } },
+      { id: 'd', text: { fr: 'Sunan est plus ancien', ar: 'السنن أقدم', en: 'Sunan is older' } },
+    ],
+    correctAnswer: 0,
+    explanation: {
+      fr: 'Les Jami\' (comme Bukhari, Tirmidhi) couvrent 8 sujets principaux. Les Sunan (Abu Dawud, Nasa\'i, Ibn Majah) se concentrent sur les hadiths juridiques classés par chapitres de Fiqh.',
+      ar: 'الجوامع (كالبخاري والترمذي) تغطي 8 أبواب رئيسية. والسنن (أبو داود، النسائي، ابن ماجه) تركز على أحاديث الأحكام مرتبة على أبواب الفقه.',
+      en: 'Jami\' works (like Bukhari, Tirmidhi) cover 8 main topics. Sunan (Abu Dawud, Nasa\'i, Ibn Majah) focus on legal hadiths organized by Fiqh chapters.',
+    },
+    points: 3,
+    difficulty: 'hard',
+    category: 'recueils-secondaires',
+  },
+  {
+    id: 'hadith-recueil-sec-002',
+    question: {
+      fr: 'Qu\'est-ce que le Mustadrak d\'al-Hakim ?',
+      ar: 'ما هو المستدرك للحاكم؟',
+      en: 'What is the Mustadrak of al-Hakim?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Un recueil de hadiths que l\'auteur considère authentiques selon les critères de Bukhari/Muslim mais non inclus par eux', ar: 'مجموعة أحاديث يرى المؤلف صحتها على شرط الشيخين لكنهما لم يخرجاها', en: 'A collection of hadiths the author considers authentic by Bukhari/Muslim criteria but not included by them' } },
+      { id: 'b', text: { fr: 'Une critique de Sahih Bukhari', ar: 'نقد لصحيح البخاري', en: 'A criticism of Sahih Bukhari' } },
+      { id: 'c', text: { fr: 'Un livre de Fiqh Maliki', ar: 'كتاب فقه مالكي', en: 'A Maliki Fiqh book' } },
+      { id: 'd', text: { fr: 'Un commentaire du Coran', ar: 'تفسير للقرآن', en: 'A Quran commentary' } },
+    ],
+    correctAnswer: 0,
+    explanation: {
+      fr: 'Al-Hakim an-Naysaburi (321-405 H) a compilé des hadiths qu\'il jugeait authentiques mais oubliés par Bukhari/Muslim. Cependant, sa classification est considérée trop indulgente. Adh-Dhahabi l\'a critiqué.',
+      ar: 'جمع الحاكم النيسابوري (321-405 هـ) أحاديث رآها صحيحة فاتت الشيخين. لكن تصحيحه متساهل. وقد انتقده الذهبي.',
+      en: 'Al-Hakim an-Naysaburi (321-405 H) compiled hadiths he deemed authentic but missed by Bukhari/Muslim. However, his classification is considered too lenient. Adh-Dhahabi criticized him.',
+    },
+    points: 3,
+    difficulty: 'hard',
+    category: 'recueils-secondaires',
+  },
+  {
+    id: 'hadith-recueil-sec-003',
+    question: {
+      fr: 'Qu\'est-ce qu\'un "Musannaf" dans la terminologie du hadith ?',
+      ar: 'ما هو المصنف في مصطلح الحديث؟',
+      en: 'What is a "Musannaf" in hadith terminology?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Un recueil organisé par chapitres de Fiqh incluant hadiths, paroles de Compagnons et Tabi\'in', ar: 'مجموعة مرتبة على أبواب الفقه تشمل الأحاديث وآثار الصحابة والتابعين', en: 'A collection organized by Fiqh chapters including hadiths, Companion and Tabi\'in statements' } },
+      { id: 'b', text: { fr: 'Un livre écrit par un Compagnon', ar: 'كتاب كتبه صحابي', en: 'A book written by a Companion' } },
+      { id: 'c', text: { fr: 'Un livre de grammaire', ar: 'كتاب نحو', en: 'A grammar book' } },
+      { id: 'd', text: { fr: 'Un recueil de poésie', ar: 'ديوان شعر', en: 'A poetry collection' } },
+    ],
+    correctAnswer: 0,
+    explanation: {
+      fr: 'Les Musannafat (comme celui d\'Ibn Abi Shayba et d\'Abd ar-Razzaq) incluent non seulement les hadiths prophétiques mais aussi les Athar (paroles) des Compagnons et Tabi\'in, organisés par thèmes juridiques.',
+      ar: 'المصنفات (كمصنف ابن أبي شيبة وعبد الرزاق) تشمل الأحاديث النبوية وآثار الصحابة والتابعين، مرتبة على الأبواب الفقهية.',
+      en: 'Musannafat (like Ibn Abi Shayba and Abd ar-Razzaq) include not only prophetic hadiths but also Athar (statements) of Companions and Tabi\'in, organized by legal topics.',
+    },
+    points: 3,
+    difficulty: 'hard',
+    category: 'recueils-secondaires',
+  },
+];
+
+// ============================================
 // Questions - Femmes Savantes Critique Moderne Phase 2
 // ============================================
 
@@ -885,8 +1502,15 @@ const allQuestions: ExamQuestion[] = [
   ...savantsQuestions,           // 3 questions
   ...critiqueQuestions,          // 3 questions
   ...hadithsCelebresQuestions,   // 8 questions
-  ...femmesModerneQuestions,     // 4 questions (NOUVEAU Phase 2)
-  // Total : 35 questions
+  ...femmesModerneQuestions,     // 4 questions (Phase 2)
+  // Phase 4 - Enrichissement avancé
+  ...typesFaiblessesQuestions,   // 6 questions (Phase 4)
+  ...savantsDetaillesQuestions,  // 5 questions (Phase 4)
+  ...methodologieQuestions,      // 4 questions (Phase 4)
+  ...ilmRijalQuestions,          // 4 questions (Phase 4)
+  ...fabricationQuestions,       // 3 questions (Phase 4)
+  ...recueilsSecondairesQuestions, // 3 questions (Phase 4)
+  // Total : 60 questions
 ];
 
 export const examHadithFinal: ExamConfig = {
@@ -899,31 +1523,38 @@ export const examHadithFinal: ExamConfig = {
     en: 'Complete Exam - Hadith Sciences',
   },
   description: {
-    fr: 'Examen de 28 questions sélectionnées aléatoirement parmi une banque de 35 questions. Couvre Mustalah al-Hadith, hadiths célèbres, femmes savantes et critique moderne.',
-    ar: 'امتحان من 28 سؤالاً يتم اختيارها عشوائياً من بنك يضم 35 سؤالاً. يغطي مصطلح الحديث والأحاديث المشهورة والنساء العالمات والنقد الحديث.',
-    en: 'Exam with 28 questions randomly selected from a pool of 35. Covers Mustalah al-Hadith, famous hadiths, women scholars and modern critique.',
+    fr: 'Examen de 40 questions sélectionnées aléatoirement parmi une banque de 60 questions. Couvre Mustalah al-Hadith, hadiths célèbres, types de faiblesses, savants, méthodologie, \'Ilm ar-Rijal et critique moderne.',
+    ar: 'امتحان من 40 سؤالاً يتم اختيارها عشوائياً من بنك يضم 60 سؤالاً. يغطي مصطلح الحديث والأحاديث المشهورة وأنواع الضعف والعلماء والمنهجية وعلم الرجال والنقد الحديث.',
+    en: 'Exam with 40 questions randomly selected from a pool of 60. Covers Mustalah al-Hadith, famous hadiths, types of weaknesses, scholars, methodology, \'Ilm ar-Rijal and modern critique.',
   },
   instructions: {
-    fr: 'Vous avez 45 minutes pour répondre à 28 questions. Chaque question a une seule bonne réponse. Un score de 70% est requis pour réussir.',
-    ar: 'لديك 45 دقيقة للإجابة على 28 سؤالاً. لكل سؤال إجابة صحيحة واحدة. يُشترط 70% للنجاح.',
-    en: 'You have 45 minutes to answer 28 questions. Each question has one correct answer. A score of 70% is required to pass.',
+    fr: 'Vous avez 60 minutes pour répondre à 40 questions. Chaque question a une seule bonne réponse. Un score de 70% est requis pour réussir.',
+    ar: 'لديك 60 دقيقة للإجابة على 40 سؤالاً. لكل سؤال إجابة صحيحة واحدة. يُشترط 70% للنجاح.',
+    en: 'You have 60 minutes to answer 40 questions. Each question has one correct answer. A score of 70% is required to pass.',
   },
   courseSlug: 'hadith',
   questionPool: allQuestions,
-  questionsPerExam: 28,
+  questionsPerExam: 40,
   categoryConfig: [
     { category: 'definitions', count: 3 },
     { category: 'classification', count: 4 },
     { category: 'isnad', count: 3 },
     { category: 'recueils', count: 3 },
     { category: 'savants', count: 2 },
-    { category: 'critique', count: 3 },
-    { category: 'hadiths-celebres', count: 7 },
+    { category: 'critique', count: 2 },
+    { category: 'hadiths-celebres', count: 6 },
     { category: 'femmes-savantes', count: 2 },
     { category: 'critique-moderne', count: 1 },
+    // Phase 4 categories
+    { category: 'types-faiblesses', count: 4 },
+    { category: 'savants-detailles', count: 3 },
+    { category: 'methodologie', count: 3 },
+    { category: 'ilm-rijal', count: 2 },
+    { category: 'fabrication', count: 1 },
+    { category: 'recueils-secondaires', count: 1 },
   ],
   questions: [],
-  duration: 45,
+  duration: 60,
   passingScore: 70,
   maxAttempts: 5,
   shuffleQuestions: true,
@@ -935,7 +1566,7 @@ export const examHadithFinal: ExamConfig = {
     ar: 'شهادة الإتقان - مصطلح الحديث',
     en: 'Mastery Certificate - Hadith Terminology',
   },
-  createdAt: '2026-01-31',
+  createdAt: '2026-02-01',
 };
 
 export default examHadithFinal;
