@@ -621,6 +621,158 @@ const ijtihadTaqlidQuestions: ExamQuestion[] = [
 ];
 
 // ============================================
+// Questions - Nasikh wa Mansukh (Abrogation)
+// ============================================
+
+const naskhQuestions: ExamQuestion[] = [
+  {
+    id: 'usul-naskh-001',
+    question: {
+      fr: 'Qu\'est-ce que le Naskh (abrogation) dans le contexte des textes islamiques ?',
+      ar: 'ما هو النسخ في سياق النصوص الإسلامية؟',
+      en: 'What is Naskh (abrogation) in the context of Islamic texts?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Effacer complètement un texte du Coran', ar: 'محو نص من القرآن تماما', en: 'Completely erasing a text from the Quran' } },
+      { id: 'b', text: { fr: 'Lever (annuler) un jugement par un texte révélé postérieur', ar: 'رفع حكم شرعي بدليل شرعي متأخر', en: 'Lifting (canceling) a ruling by a later revealed text' } },
+      { id: 'c', text: { fr: 'Interpréter un verset', ar: 'تفسير آية', en: 'Interpreting a verse' } },
+      { id: 'd', text: { fr: 'Copier un manuscrit', ar: 'نسخ مخطوطة', en: 'Copying a manuscript' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Le Naskh est "lever un jugement légal par un texte révélé postérieur". Allah dit : "Si Nous abrogeons un verset ou le faisons oublier, Nous en apportons un meilleur ou semblable" (2:106). Condition : le nasikh doit être postérieur.',
+      ar: 'النسخ هو "رفع حكم شرعي بدليل شرعي متأخر". قال تعالى: "مَا نَنسَخْ مِنْ آيَةٍ أَوْ نُنسِهَا نَأْتِ بِخَيْرٍ مِّنْهَا أَوْ مِثْلِهَا" (البقرة:106). الشرط: أن يكون الناسخ متأخرا.',
+      en: 'Naskh is "lifting a legal ruling by a later revealed text". Allah says: "We do not abrogate a verse or cause it to be forgotten except that We bring forth better than it or similar" (2:106). Condition: nasikh must be later.',
+    },
+    points: 3,
+    difficulty: 'hard',
+    category: 'naskh',
+  },
+  {
+    id: 'usul-naskh-002',
+    question: {
+      fr: 'Quel type de Naskh est illustré par l\'évolution de l\'interdiction du vin (étapes progressives) ?',
+      ar: 'ما نوع النسخ الذي يظهر في تحريم الخمر التدريجي؟',
+      en: 'What type of Naskh is illustrated by the gradual prohibition of wine?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Naskh al-Hukm wa at-Tilawa (abrogation du jugement et de la récitation)', ar: 'نسخ الحكم والتلاوة', en: 'Naskh al-Hukm wa at-Tilawa (abrogation of ruling and recitation)' } },
+      { id: 'b', text: { fr: 'Naskh at-Tilawa duna al-Hukm (abrogation de la récitation sans le jugement)', ar: 'نسخ التلاوة دون الحكم', en: 'Naskh at-Tilawa duna al-Hukm (abrogation of recitation without ruling)' } },
+      { id: 'c', text: { fr: 'Naskh al-Hukm duna at-Tilawa (abrogation du jugement, récitation reste)', ar: 'نسخ الحكم دون التلاوة', en: 'Naskh al-Hukm duna at-Tilawa (abrogation of ruling, recitation remains)' } },
+      { id: 'd', text: { fr: 'Pas de Naskh, juste Takhsis (spécification)', ar: 'لا نسخ، بل تخصيص', en: 'No Naskh, just Takhsis (specification)' } },
+    ],
+    correctAnswer: 2,
+    explanation: {
+      fr: 'Le vin fut interdit progressivement : 1) Pas mention (licite), 2) "péché > bienfait" (2:219), 3) "ne priez pas ivres" (4:43), 4) interdiction totale (5:90). Les versets antérieurs restent récités mais leur jugement est abrogé. C\'est "Naskh al-Hukm duna at-Tilawa".',
+      ar: 'حُرّم الخمر تدريجيا: ١) لا ذكر (حلال)، ٢) "إثمهما أكبر من نفعهما" (٢:٢١٩)، ٣) "لا تقربوا الصلاة وأنتم سكارى" (٤:٤٣)، ٤) تحريم تام (٥:٩٠). الآيات السابقة باقية التلاوة لكن حكمها منسوخ. هذا "نسخ الحكم دون التلاوة".',
+      en: 'Wine prohibited gradually: 1) No mention (lawful), 2) "sin > benefit" (2:219), 3) "don\'t pray intoxicated" (4:43), 4) total prohibition (5:90). Earlier verses remain recited but their ruling is abrogated. This is "Naskh al-Hukm duna at-Tilawa".',
+    },
+    points: 3,
+    difficulty: 'hard',
+    category: 'naskh',
+  },
+  {
+    id: 'usul-naskh-003',
+    question: {
+      fr: 'La Sunna peut-elle abroger le Coran selon les savants ?',
+      ar: 'هل يمكن للسنة أن تنسخ القرآن عند العلماء؟',
+      en: 'Can the Sunnah abrogate the Quran according to scholars?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Oui, la Sunna Mutawatira peut abroger le Coran (avis majoritaire Shafi\'i, Hanbali)', ar: 'نعم، السنة المتواترة يمكن أن تنسخ القرآن (رأي الجمهور الشافعي، الحنبلي)', en: 'Yes, Mutawatir Sunnah can abrogate Quran (majority Shafi\'i, Hanbali opinion)' } },
+      { id: 'b', text: { fr: 'Non, jamais selon tous les savants', ar: 'لا، أبدا عند جميع العلماء', en: 'No, never according to all scholars' } },
+      { id: 'c', text: { fr: 'Seulement les hadiths faibles', ar: 'الأحاديث الضعيفة فقط', en: 'Only weak hadiths' } },
+      { id: 'd', text: { fr: 'La Sunna n\'a aucun pouvoir législatif', ar: 'السنة لا سلطة تشريعية لها', en: 'Sunnah has no legislative power' } },
+    ],
+    correctAnswer: 0,
+    explanation: {
+      fr: 'Avis majoritaire (Shafi\'i, Hanbali, Ibn Hazm) : Oui, car la Sunna est aussi révélation (Wahy). Exemple débattu : orientation vers Jérusalem (Coran implicite) abrogée par Sunna vers la Ka\'ba confirmée par Coran (2:144). Hanafis/Malikis : préfèrent que le Coran abroge le Coran.',
+      ar: 'رأي الجمهور (الشافعي، الحنبلي، ابن حزم): نعم، لأن السنة أيضا وحي. مثال مُتنازع: التوجه لبيت المقدس (قرآن ضمني) نُسخ بالسنة للكعبة ثم أُكّد بالقرآن (٢:١٤٤). الحنفية/المالكية: يفضلون أن القرآن ينسخ القرآن.',
+      en: 'Majority opinion (Shafi\'i, Hanbali, Ibn Hazm): Yes, as Sunnah is also revelation (Wahy). Debated example: direction toward Jerusalem (implicit Quran) abrogated by Sunnah toward Ka\'ba confirmed by Quran (2:144). Hanafis/Malikis: prefer Quran abrogates Quran.',
+    },
+    points: 3,
+    difficulty: 'hard',
+    category: 'naskh',
+  },
+];
+
+// ============================================
+// Questions - Istidlal Méthodologique Avancé
+// ============================================
+
+const istidlalQuestions: ExamQuestion[] = [
+  {
+    id: 'usul-istidlal-001',
+    question: {
+      fr: 'Qu\'est-ce que le "Mafhum al-Mukhalafa" (concept d\'opposition) ?',
+      ar: 'ما هو "مفهوم المخالفة"؟',
+      en: 'What is "Mafhum al-Mukhalafa" (concept of opposition)?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Le sens explicite du texte', ar: 'المعنى الصريح للنص', en: 'The explicit meaning of the text' } },
+      { id: 'b', text: { fr: 'Déduire que le jugement opposé s\'applique au cas non mentionné', ar: 'استنباط أن الحكم المعاكس يُطبق على الحالة غير المذكورة', en: 'Deducing that the opposite ruling applies to the unmentioned case' } },
+      { id: 'c', text: { fr: 'Contradiction entre deux textes', ar: 'تعارض بين نصين', en: 'Contradiction between two texts' } },
+      { id: 'd', text: { fr: 'Opinion personnelle', ar: 'رأي شخصي', en: 'Personal opinion' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Exemple : "Dans les moutons qui paissent librement (Sa\'ima), la Zakat" → Mafhum : pas de Zakat sur les moutons nourris (Ma\'lufa) selon certains. Les Hanafis rejettent ce Mafhum, les Shafi\'is l\'acceptent si la restriction est significative.',
+      ar: 'مثال: "في الغنم السائمة زكاة" → المفهوم: لا زكاة في الغنم المعلوفة عند البعض. الحنفية يرفضون هذا المفهوم، الشافعية يقبلونه إن كان القيد مؤثرا.',
+      en: 'Example: "In freely grazing sheep (Sa\'ima), Zakat" → Mafhum: no Zakat on fed sheep (Ma\'lufa) per some. Hanafis reject this Mafhum, Shafi\'is accept if restriction is significant.',
+    },
+    points: 3,
+    difficulty: 'hard',
+    category: 'istidlal',
+  },
+  {
+    id: 'usul-istidlal-002',
+    question: {
+      fr: 'Qu\'est-ce que "Sadd adh-Dhara\'i\'" (bloquer les moyens menant au mal) ?',
+      ar: 'ما هو "سد الذرائع"؟',
+      en: 'What is "Sadd adh-Dhara\'i\'" (blocking means leading to evil)?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Interdire un acte licite s\'il mène probablement à un interdit', ar: 'تحريم فعل حلال إن أدى غالبا لحرام', en: 'Prohibiting a lawful act if it likely leads to forbidden' } },
+      { id: 'b', text: { fr: 'Permettre tout', ar: 'إباحة كل شيء', en: 'Permitting everything' } },
+      { id: 'c', text: { fr: 'Suivre uniquement le texte littéral', ar: 'اتباع النص الحرفي فقط', en: 'Following only literal text' } },
+      { id: 'd', text: { fr: 'Rejeter la Sunna', ar: 'رفض السنة', en: 'Rejecting Sunnah' } },
+    ],
+    correctAnswer: 0,
+    explanation: {
+      fr: 'Sadd adh-Dhara\'i\' est un principe Maliki/Hanbali fort. Exemple : Interdire vendre des raisins à un fabricant de vin (vente licite → usage interdit). Coran : "N\'insultez pas les idoles de peur qu\'ils n\'insultent Allah" (6:108) - bloquer insulte (licite) car mène à blasphème.',
+      ar: 'سد الذرائع مبدأ مالكي/حنبلي قوي. مثال: منع بيع العنب لصانع خمر (بيع حلال → استعمال حرام). قرآن: "وَلَا تَسُبُّوا الَّذِينَ يَدْعُونَ مِن دُونِ اللَّهِ فَيَسُبُّوا اللَّهَ عَدْوًا" (الأنعام:١٠٨) - منع السب (حلال) لأنه يؤدي للتجديف.',
+      en: 'Sadd adh-Dhara\'i\' is a strong Maliki/Hanbali principle. Example: Prohibit selling grapes to wine maker (lawful sale → forbidden use). Quran: "Don\'t insult idols lest they insult Allah" (6:108) - block insult (lawful) as leads to blasphemy.',
+    },
+    points: 3,
+    difficulty: 'hard',
+    category: 'istidlal',
+  },
+  {
+    id: 'usul-istidlal-003',
+    question: {
+      fr: 'Quelle est la différence entre Qiyas (analogie) et Istihsan (préférence juridique) ?',
+      ar: 'ما الفرق بين القياس والاستحسان؟',
+      en: 'What is the difference between Qiyas (analogy) and Istihsan (juristic preference)?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Qiyas = analogie stricte basée sur \'Illa. Istihsan = délaisser Qiyas évident pour un Qiyas caché/Maslaha plus fort', ar: 'القياس = قياس صارم على علة. الاستحسان = ترك قياس ظاهر لقياس خفي/مصلحة أقوى', en: 'Qiyas = strict analogy based on \'Illa. Istihsan = leaving obvious Qiyas for hidden Qiyas/stronger Maslaha' } },
+      { id: 'b', text: { fr: 'Ce sont identiques', ar: 'متطابقان', en: 'They are identical' } },
+      { id: 'c', text: { fr: 'Istihsan est interdit par tous', ar: 'الاستحسان محرم عند الجميع', en: 'Istihsan is forbidden by all' } },
+      { id: 'd', text: { fr: 'Qiyas n\'existe pas', ar: 'القياس غير موجود', en: 'Qiyas doesn\'t exist' } },
+    ],
+    correctAnswer: 0,
+    explanation: {
+      fr: 'Istihsan (Hanafi, Maliki) = délaisser un Qiyas évident pour une preuve cachée ou Maslaha. Exemple : Qiyas dit puits touché par impureté = impur entièrement. Istihsan : si eau abondante, seule partie touchée est impure (Hadith + Maslaha). Shafi\'i refuse : "Qui fait Istihsan légifère".',
+      ar: 'الاستحسان (حنفي، مالكي) = ترك قياس ظاهر لدليل خفي أو مصلحة. مثال: القياس يقول بئر مسّته نجاسة = نجس كله. الاستحسان: إن كان الماء كثيرا، فقط الجزء الملموس نجس (حديث + مصلحة). الشافعي يرفض: "من استحسن فقد شرّع".',
+      en: 'Istihsan (Hanafi, Maliki) = leaving obvious Qiyas for hidden evidence or Maslaha. Example: Qiyas says well touched by impurity = entirely impure. Istihsan: if water abundant, only touched part impure (Hadith + Maslaha). Shafi\'i rejects: "Whoever does Istihsan legislates".',
+    },
+    points: 3,
+    difficulty: 'hard',
+    category: 'istidlal',
+  },
+];
+
+// ============================================
 // Assemblage de l'examen COMPLET
 // ============================================
 
@@ -631,9 +783,11 @@ const allQuestions: ExamQuestion[] = [
   ...madhabQuestions,           // 3 questions
   ...maqasidQuestions,          // 2 questions
   ...qawaidQuestions,           // 3 questions
-  ...maslahIstihsanQuestions,   // 3 questions (NOUVEAU)
-  ...ijtihadTaqlidQuestions,    // 3 questions (NOUVEAU)
-  // Total : 24 questions
+  ...maslahIstihsanQuestions,   // 3 questions
+  ...ijtihadTaqlidQuestions,    // 3 questions
+  ...naskhQuestions,            // 3 questions (NOUVEAU Phase 2)
+  ...istidlalQuestions,         // 3 questions (NOUVEAU Phase 2)
+  // Total : 30 questions
 ];
 
 export const examUsulFiqhFinal: ExamConfig = {
@@ -646,18 +800,18 @@ export const examUsulFiqhFinal: ExamConfig = {
     en: 'Complete Exam - Usul al-Fiqh',
   },
   description: {
-    fr: 'Examen de 20 questions sélectionnées aléatoirement parmi une banque de 24 questions. Couvre les fondements du droit islamique.',
-    ar: 'امتحان من 20 سؤالاً يتم اختيارها عشوائياً من بنك يضم 24 سؤالاً. يغطي أصول الفقه.',
-    en: 'Exam with 20 questions randomly selected from a pool of 24. Covers foundations of Islamic law.',
+    fr: 'Examen de 25 questions sélectionnées aléatoirement parmi une banque de 30 questions. Couvre les fondements du droit islamique incluant Naskh et Istidlal avancé.',
+    ar: 'امتحان من 25 سؤالاً يتم اختيارها عشوائياً من بنك يضم 30 سؤالاً. يغطي أصول الفقه بما في ذلك النسخ والاستدلال المتقدم.',
+    en: 'Exam with 25 questions randomly selected from a pool of 30. Covers foundations of Islamic law including Naskh and advanced Istidlal.',
   },
   instructions: {
-    fr: 'Vous avez 35 minutes pour répondre à 20 questions. Chaque question a une seule bonne réponse. Un score de 70% est requis pour réussir.',
-    ar: 'لديك 35 دقيقة للإجابة على 20 سؤالاً. لكل سؤال إجابة صحيحة واحدة. يُشترط 70% للنجاح.',
-    en: 'You have 35 minutes to answer 20 questions. Each question has one correct answer. A score of 70% is required to pass.',
+    fr: 'Vous avez 40 minutes pour répondre à 25 questions. Chaque question a une seule bonne réponse. Un score de 70% est requis pour réussir.',
+    ar: 'لديك 40 دقيقة للإجابة على 25 سؤالاً. لكل سؤال إجابة صحيحة واحدة. يُشترط 70% للنجاح.',
+    en: 'You have 40 minutes to answer 25 questions. Each question has one correct answer. A score of 70% is required to pass.',
   },
   courseSlug: 'usul-al-fiqh',
   questionPool: allQuestions,
-  questionsPerExam: 20,
+  questionsPerExam: 25,
   categoryConfig: [
     { category: 'sources', count: 3 },
     { category: 'ahkam', count: 2 },
@@ -667,9 +821,11 @@ export const examUsulFiqhFinal: ExamConfig = {
     { category: 'qawaid', count: 3 },
     { category: 'maslaha-istihsan', count: 3 },
     { category: 'ijtihad-taqlid', count: 2 },
+    { category: 'naskh', count: 3 },
+    { category: 'istidlal', count: 2 },
   ],
   questions: [],
-  duration: 35,
+  duration: 40,
   passingScore: 70,
   maxAttempts: 5,
   shuffleQuestions: true,

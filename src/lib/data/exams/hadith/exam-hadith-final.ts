@@ -775,6 +775,105 @@ const hadithsCelebresQuestions: ExamQuestion[] = [
 ];
 
 // ============================================
+// Questions - Femmes Savantes Critique Moderne Phase 2
+// ============================================
+
+const femmesModerneQuestions: ExamQuestion[] = [
+  {
+    id: 'hadith-femmes-001',
+    question: {
+      fr: 'Combien de Hadiths Aisha (que Allah lagrée) a-t-elle transmis ?',
+      ar: 'كم حديثا روت عائشة رضي الله عنها؟',
+      en: 'How many Hadiths did Aisha transmit?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Environ 100 hadiths', ar: 'حوالي 100 حديث', en: 'About 100 hadiths' } },
+      { id: 'b', text: { fr: 'Environ 500 hadiths', ar: 'حوالي 500 حديث', en: 'About 500 hadiths' } },
+      { id: 'c', text: { fr: 'Plus de 2200 hadiths parmi les 7 plus grands transmetteurs', ar: 'أكثر من 2200 حديث من السبعة المكثرين', en: 'Over 2200 hadiths among the 7 greatest transmitters' } },
+      { id: 'd', text: { fr: 'Aucun hadith', ar: 'لا أحاديث', en: 'No hadiths' } },
+    ],
+    correctAnswer: 2,
+    explanation: {
+      fr: 'Aisha est parmi les 7 plus grands transmetteurs (al-Mukthirun). Elle a transmis 2210 hadiths et était référence en Fiqh, exégèse et sciences du Hadith.',
+      ar: 'عائشة رضي الله عنها من السبعة المكثرين في الرواية. روت 2210 حديثا وكانت مرجعا في الفقه والتفسير وعلوم الحديث.',
+      en: 'Aisha is among the 7 greatest transmitters. She transmitted 2210 hadiths and was a reference in Fiqh, exegesis and Hadith sciences.',
+    },
+    points: 3,
+    difficulty: 'hard',
+    category: 'femmes-savantes',
+  },
+  {
+    id: 'hadith-femmes-002',
+    question: {
+      fr: 'Quelle femme Sahaba était célèbre pour ses questions détaillées au Prophète sur les sujets sensibles ?',
+      ar: 'أي صحابية مشهورة بأسئلتها التفصيلية للنبي صلى الله عليه وسلم عن مواضيع حساسة؟',
+      en: 'Which female Sahaba was famous for detailed questions to the Prophet on sensitive topics?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Asma bint Abu Bakr', ar: 'أسماء بنت أبي بكر', en: 'Asma bint Abu Bakr' } },
+      { id: 'b', text: { fr: 'Umm Salama', ar: 'أم سلمة', en: 'Umm Salama' } },
+      { id: 'c', text: { fr: 'Asma bint Umays', ar: 'أسماء بنت عميس', en: 'Asma bint Umays' } },
+      { id: 'd', text: { fr: 'Aisha bint Abu Bakr', ar: 'عائشة بنت أبي بكر', en: 'Aisha bint Abu Bakr' } },
+    ],
+    correctAnswer: 3,
+    explanation: {
+      fr: 'Aisha était célèbre pour poser des questions directes sur des sujets délicats (menstruation, Janaba, rapports intimes, Ghusl). Umm Salama disait : Excellentes les femmes Ansar qui apprennent sans retenue.',
+      ar: 'عائشة رضي الله عنها مشهورة بطرح أسئلة مباشرة عن مواضيع دقيقة. قالت أم سلمة: نعم النساء نساء الأنصار لم يمنعهن الحياء.',
+      en: 'Aisha was famous for direct questions on delicate topics. Umm Salama said: Excellent are Ansar women who learn without shyness.',
+    },
+    points: 3,
+    difficulty: 'medium',
+    category: 'femmes-savantes',
+  },
+  {
+    id: 'hadith-critique-001',
+    question: {
+      fr: 'Comment répondre : "Les Hadiths ont été écrits 200 ans après le Prophète, donc peu fiables" ?',
+      ar: 'كيف نرد على: الأحاديث كُتبت بعد 200 سنة فهي غير موثوقة؟',
+      en: 'How to respond: "Hadiths were written 200 years after the Prophet thus unreliable"?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Vrai les hadiths ne sont pas fiables', ar: 'صحيح الأحاديث غير موثوقة', en: 'True hadiths are unreliable' } },
+      { id: 'b', text: { fr: 'FAUX : Écriture dès époque prophétique, transmission orale rigoureuse avec Isnad, compilation au 2e siècle Hijri', ar: 'خطأ: كتابة في العهد النبوي، نقل شفهي صارم، تدوين بالقرن الثاني', en: 'FALSE: Writing from prophetic era, rigorous oral transmission with Isnad, compilation 2nd century Hijri' } },
+      { id: 'c', text: { fr: 'On ne peut pas répondre', ar: 'لا يمكننا الرد', en: 'We cannot respond' } },
+      { id: 'd', text: { fr: 'Les hadiths sont inventés', ar: 'الأحاديث مختلقة', en: 'Hadiths are fabricated' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Écriture précoce (Sahifa Abdullah ibn Amr), transmission orale avec Isnad strict, Bukhari environ 160 ans après Hijra, science Jarh wa Tadil vérifiait chaque narrateur. Comparé aux Évangiles sans chaîne.',
+      ar: 'كتابة مبكرة، نقل شفهي بإسناد صارم، البخاري حوالي 160 سنة، علم الجرح والتعديل فحص كل راو. مقارنة بالأناجيل بدون سلسلة.',
+      en: 'Early writing (Sahifa Abdullah ibn Amr), oral transmission with strict Isnad, Bukhari about 160 years after Hijra, Jarh wa Tadil verified each narrator. Compared to Gospels without chain.',
+    },
+    points: 3,
+    difficulty: 'hard',
+    category: 'critique-moderne',
+  },
+  {
+    id: 'hadith-critique-002',
+    question: {
+      fr: 'Comment répondre : "Certains hadiths contredisent le Coran donc Hadith non fiable" ?',
+      ar: 'كيف نرد على: بعض الأحاديث تناقض القرآن؟',
+      en: 'How to respond: "Some hadiths contradict Quran thus Hadith unreliable"?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Les hadiths peuvent contredire le Coran', ar: 'يمكن للأحاديث أن تناقض القرآن', en: 'Hadiths can contradict Quran' } },
+      { id: 'b', text: { fr: 'Principe : Hadith contredisant Coran rejeté. Contradictions apparentes : mauvaise compréhension ou Hadith explique Coran', ar: 'المبدأ: حديث يناقض القرآن مردود. التناقضات الظاهرية: سوء فهم أو الحديث يشرح القرآن', en: 'Principle: Hadith contradicting Quran rejected. Apparent contradictions: misunderstanding or Hadith explains Quran' } },
+      { id: 'c', text: { fr: 'Le Coran peut être contredit', ar: 'يمكن للقرآن أن يُناقَض', en: 'Quran can be contradicted' } },
+      { id: 'd', text: { fr: 'Aucune règle', ar: 'لا توجد قاعدة', en: 'No rule' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Pas de contradiction réelle entre Coran et Sunna authentique. Exemples : Coran "ne priez pas ivres" puis Hadith "Vin totalement interdit". Coran "coupez main voleur" Hadith précise Nisab. La Sunna explique.',
+      ar: 'لا تعارض حقيقي بين القرآن والسنة. أمثلة: لا تقربوا الصلاة سكارى ثم الخمر محرم. اقطعوا يد السارق والحديث يحدد النصاب. السنة تشرح.',
+      en: 'No real contradiction between Quran and authentic Sunnah. Examples: Quran "dont pray intoxicated" then Hadith "Wine totally forbidden". Quran "cut thief hand" Hadith specifies Nisab. Sunnah explains.',
+    },
+    points: 3,
+    difficulty: 'hard',
+    category: 'critique-moderne',
+  },
+];
+
+// ============================================
 // Assemblage de l'examen COMPLET
 // ============================================
 
@@ -785,8 +884,9 @@ const allQuestions: ExamQuestion[] = [
   ...recueilsQuestions,          // 4 questions
   ...savantsQuestions,           // 3 questions
   ...critiqueQuestions,          // 3 questions
-  ...hadithsCelebresQuestions,   // 8 questions (NOUVEAU)
-  // Total : 31 questions
+  ...hadithsCelebresQuestions,   // 8 questions
+  ...femmesModerneQuestions,     // 4 questions (NOUVEAU Phase 2)
+  // Total : 35 questions
 ];
 
 export const examHadithFinal: ExamConfig = {
@@ -799,18 +899,18 @@ export const examHadithFinal: ExamConfig = {
     en: 'Complete Exam - Hadith Sciences',
   },
   description: {
-    fr: 'Examen de 25 questions sélectionnées aléatoirement parmi une banque de 31 questions. Couvre Mustalah al-Hadith et les hadiths célèbres.',
-    ar: 'امتحان من 25 سؤالاً يتم اختيارها عشوائياً من بنك يضم 31 سؤالاً. يغطي مصطلح الحديث والأحاديث المشهورة.',
-    en: 'Exam with 25 questions randomly selected from a pool of 31. Covers Mustalah al-Hadith and famous hadiths.',
+    fr: 'Examen de 28 questions sélectionnées aléatoirement parmi une banque de 35 questions. Couvre Mustalah al-Hadith, hadiths célèbres, femmes savantes et critique moderne.',
+    ar: 'امتحان من 28 سؤالاً يتم اختيارها عشوائياً من بنك يضم 35 سؤالاً. يغطي مصطلح الحديث والأحاديث المشهورة والنساء العالمات والنقد الحديث.',
+    en: 'Exam with 28 questions randomly selected from a pool of 35. Covers Mustalah al-Hadith, famous hadiths, women scholars and modern critique.',
   },
   instructions: {
-    fr: 'Vous avez 40 minutes pour répondre à 25 questions. Chaque question a une seule bonne réponse. Un score de 70% est requis pour réussir.',
-    ar: 'لديك 40 دقيقة للإجابة على 25 سؤالاً. لكل سؤال إجابة صحيحة واحدة. يُشترط 70% للنجاح.',
-    en: 'You have 40 minutes to answer 25 questions. Each question has one correct answer. A score of 70% is required to pass.',
+    fr: 'Vous avez 45 minutes pour répondre à 28 questions. Chaque question a une seule bonne réponse. Un score de 70% est requis pour réussir.',
+    ar: 'لديك 45 دقيقة للإجابة على 28 سؤالاً. لكل سؤال إجابة صحيحة واحدة. يُشترط 70% للنجاح.',
+    en: 'You have 45 minutes to answer 28 questions. Each question has one correct answer. A score of 70% is required to pass.',
   },
   courseSlug: 'hadith',
   questionPool: allQuestions,
-  questionsPerExam: 25,
+  questionsPerExam: 28,
   categoryConfig: [
     { category: 'definitions', count: 3 },
     { category: 'classification', count: 4 },
@@ -819,9 +919,11 @@ export const examHadithFinal: ExamConfig = {
     { category: 'savants', count: 2 },
     { category: 'critique', count: 3 },
     { category: 'hadiths-celebres', count: 7 },
+    { category: 'femmes-savantes', count: 2 },
+    { category: 'critique-moderne', count: 1 },
   ],
   questions: [],
-  duration: 40,
+  duration: 45,
   passingScore: 70,
   maxAttempts: 5,
   shuffleQuestions: true,

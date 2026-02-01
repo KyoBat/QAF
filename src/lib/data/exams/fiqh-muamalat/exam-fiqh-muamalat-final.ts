@@ -637,6 +637,128 @@ const contratsSpecifiquesQuestions: ExamQuestion[] = [
 ];
 
 // ============================================
+// Questions - Finance Numérique Avancée (Phase 2)
+// ============================================
+
+const financeNumeriqueQuestions: ExamQuestion[] = [
+  {
+    id: 'muamalat-crypto-001',
+    question: {
+      fr: 'Qu\'est-ce que le "staking" de cryptomonnaies et quel est son statut en Islam ?',
+      ar: 'ما هو "التخزين" (staking) للعملات الرقمية وما حكمه في الإسلام؟',
+      en: 'What is cryptocurrency "staking" and what is its Islamic ruling?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'C\'est Halal sans condition', ar: 'حلال بلا شروط', en: 'Halal unconditionally' } },
+      { id: 'b', text: { fr: 'Avis divergent : ressemble au Riba (prêt à intérêt) selon certains, ou à Ijarah (location de capital) selon d\'autres', ar: 'خلاف: يشبه الربا (قرض بفائدة) عند البعض، أو الإجارة (تأجير رأس مال) عند آخرين', en: 'Opinion differs: resembles Riba (interest loan) per some, or Ijarah (capital leasing) per others' } },
+      { id: 'c', text: { fr: 'Toujours Haram', ar: 'دائما حرام', en: 'Always Haram' } },
+      { id: 'd', text: { fr: 'N\'a aucun rapport avec la finance', ar: 'لا علاقة له بالتمويل', en: 'Unrelated to finance' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Le staking verrouille des cryptos pour sécuriser la blockchain et générer des récompenses. Débat : 1) Haram si assimilé à un prêt productif d\'intérêts (Riba). 2) Halal si vu comme location de capital/service (Ijarah) ou partage de profits (Mudarabah). Conseil : éviter si doute (Shubha).',
+      ar: 'التخزين (staking) يُقفل العملات لتأمين البلوكشين ويولد مكافآت. نقاش: ١) حرام إن شُبّه بقرض يولد فوائد (ربا). ٢) حلال إن رُئي كإيجار رأس مال/خدمة (إجارة) أو تقاسم أرباح (مضاربة). النصيحة: التجنب عند الشك (شبهة).',
+      en: 'Staking locks cryptos to secure blockchain and generate rewards. Debate: 1) Haram if likened to interest-producing loan (Riba). 2) Halal if seen as capital/service leasing (Ijarah) or profit-sharing (Mudarabah). Advice: avoid if doubt (Shubha).',
+    },
+    points: 3,
+    difficulty: 'hard',
+    category: 'finance-numerique',
+  },
+  {
+    id: 'muamalat-nft-001',
+    question: {
+      fr: 'Les NFTs (jetons non fongibles) d\'art numérique sont-ils Halal ?',
+      ar: 'هل الـNFTs (رموز غير قابلة للاستبدال) للفن الرقمي حلال؟',
+      en: 'Are NFTs (non-fungible tokens) of digital art Halal?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Halal si le contenu est licite (pas d\'images interdites, gambling, musique illicite)', ar: 'حلال إن كان المحتوى مباحا (لا صور محرمة، قمار، موسيقى محرمة)', en: 'Halal if content is lawful (no forbidden images, gambling, illicit music)' } },
+      { id: 'b', text: { fr: 'Toujours Haram car numérique', ar: 'دائما حرام لأنه رقمي', en: 'Always Haram as digital' } },
+      { id: 'c', text: { fr: 'Halal sans restriction', ar: 'حلال بلا قيود', en: 'Halal without restriction' } },
+      { id: 'd', text: { fr: 'Les NFTs n\'existent pas juridiquement', ar: 'الـNFTs غير موجودة قانونيا', en: 'NFTs don\'t exist legally' } },
+    ],
+    correctAnswer: 0,
+    explanation: {
+      fr: 'Les NFTs représentent la propriété d\'un actif numérique unique (art, collectible). Statut : 1) Halal si contenu licite et pas de spéculation excessive (Gharar). 2) Haram si contenu interdit (nudité, symboles religieux inappropriés, promotion de péchés). Principe : évaluer le contenu et l\'usage.',
+      ar: 'الـNFTs تمثل ملكية أصل رقمي فريد (فن، مقتنى). الحكم: ١) حلال إن كان المحتوى مباحا وبدون مضاربة مفرطة (غرر). ٢) حرام إن كان المحتوى محرما (عري، رموز دينية غير لائقة، ترويج للمعاصي). المبدأ: تقييم المحتوى والاستخدام.',
+      en: 'NFTs represent ownership of unique digital asset (art, collectible). Ruling: 1) Halal if content lawful and no excessive speculation (Gharar). 2) Haram if forbidden content (nudity, inappropriate religious symbols, sin promotion). Principle: evaluate content and use.',
+    },
+    points: 3,
+    difficulty: 'hard',
+    category: 'finance-numerique',
+  },
+  {
+    id: 'muamalat-gig-001',
+    question: {
+      fr: 'Travailler sur des plateformes de "gig economy" (Uber, Deliveroo, Fiverr) est-il Halal ?',
+      ar: 'هل العمل على منصات "اقتصاد الوظائف المؤقتة" (Uber، Deliveroo، Fiverr) حلال؟',
+      en: 'Is working on "gig economy" platforms (Uber, Deliveroo, Fiverr) Halal?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Halal si le service fourni est licite et les conditions contractuelles claires (pas de Gharar)', ar: 'حلال إن كانت الخدمة المقدمة مباحة والشروط التعاقدية واضحة (بدون غرر)', en: 'Halal if service provided is lawful and contractual terms clear (no Gharar)' } },
+      { id: 'b', text: { fr: 'Toujours Haram', ar: 'دائما حرام', en: 'Always Haram' } },
+      { id: 'c', text: { fr: 'Halal uniquement pour Uber', ar: 'حلال فقط لـ Uber', en: 'Halal only for Uber' } },
+      { id: 'd', text: { fr: 'Interdit car ce sont des entreprises occidentales', ar: 'محرم لأنها شركات غربية', en: 'Forbidden as Western companies' } },
+    ],
+    correctAnswer: 0,
+    explanation: {
+      fr: 'Principe : Halal si 1) Le service est licite (pas livrer alcool/porc, pas transport vers lieux de péché). 2) Contrat clair (commission, modalités). 3) Pas d\'exploitation injuste. Attention : certaines plateformes ont des clauses abusives (vérifier Terms). Uber Eats : éviter commandes Haram.',
+      ar: 'المبدأ: حلال إن ١) الخدمة مباحة (لا توصيل خمر/خنزير، لا نقل لأماكن معصية). ٢) العقد واضح (عمولة، شروط). ٣) بدون استغلال ظالم. تنبيه: بعض المنصات لها شروط تعسفية (تحقق من الشروط). Uber Eats: تجنب طلبات حرام.',
+      en: 'Principle: Halal if 1) Service is lawful (not deliver alcohol/pork, not transport to sin places). 2) Contract clear (commission, terms). 3) No unjust exploitation. Caution: some platforms have abusive clauses (check Terms). Uber Eats: avoid Haram orders.',
+    },
+    points: 3,
+    difficulty: 'medium',
+    category: 'finance-numerique',
+  },
+  {
+    id: 'muamalat-defi-001',
+    question: {
+      fr: 'Qu\'est-ce que la DeFi (finance décentralisée) et quel est son défi principal en Islam ?',
+      ar: 'ما هي DeFi (التمويل اللامركزي) وما التحدي الرئيسي في الإسلام؟',
+      en: 'What is DeFi (decentralized finance) and what is its main Islamic challenge?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Totalement Halal car sans banques', ar: 'حلال تماما لأنها بدون بنوك', en: 'Totally Halal as no banks' } },
+      { id: 'b', text: { fr: 'Défi : beaucoup de protocoles impliquent des prêts à intérêts (Riba), leverage, et spéculation (Gharar)', ar: 'التحدي: كثير من البروتوكولات تتضمن قروضا بفوائد (ربا)، رافعة مالية، ومضاربة (غرر)', en: 'Challenge: many protocols involve interest loans (Riba), leverage, and speculation (Gharar)' } },
+      { id: 'c', text: { fr: 'La DeFi n\'existe pas', ar: 'الـDeFi غير موجودة', en: 'DeFi doesn\'t exist' } },
+      { id: 'd', text: { fr: 'C\'est seulement pour les non-musulmans', ar: 'فقط لغير المسلمين', en: 'Only for non-Muslims' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'La DeFi utilise des smart contracts pour prêts, échanges sans intermédiaires. PROBLÈME : 1) Prêts avec APY (intérêts = Riba). 2) Leverage trading (dette multiplicatrice = Riba + Gharar). 3) Liquidations forcées injustes. SOLUTION : Attendre DeFi conforme Shariah (profit-sharing, pas intérêts).',
+      ar: 'الـDeFi تستخدم عقودا ذكية للإقراض والتبادل بدون وسطاء. المشكلة: ١) قروض بـAPY (فوائد = ربا). ٢) التداول بالرافعة (دين مضاعف = ربا + غرر). ٣) تصفيات قسرية ظالمة. الحل: انتظار DeFi متوافقة مع الشريعة (تقاسم أرباح، لا فوائد).',
+      en: 'DeFi uses smart contracts for loans, exchanges without intermediaries. PROBLEM: 1) Loans with APY (interest = Riba). 2) Leverage trading (multiplying debt = Riba + Gharar). 3) Unjust forced liquidations. SOLUTION: Wait for Shariah-compliant DeFi (profit-sharing, not interest).',
+    },
+    points: 3,
+    difficulty: 'hard',
+    category: 'finance-numerique',
+  },
+  {
+    id: 'muamalat-dropship-001',
+    question: {
+      fr: 'Le dropshipping (vendre un produit qu\'on ne possède pas physiquement) est-il Halal ?',
+      ar: 'هل الـdropshipping (بيع منتج لا تملكه ماديا) حلال؟',
+      en: 'Is dropshipping (selling a product you don\'t physically own) Halal?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Haram selon l\'avis majoritaire car on vend ce qu\'on ne possède pas', ar: 'حرام عند الجمهور لأنك تبيع ما لا تملك', en: 'Haram per majority as selling what you don\'t own' } },
+      { id: 'b', text: { fr: 'Halal si on achète le produit AVANT de le vendre au client (modèle Murabaha)', ar: 'حلال إن اشتريت المنتج قبل بيعه للزبون (نموذج المرابحة)', en: 'Halal if buying product BEFORE selling to customer (Murabaha model)' } },
+      { id: 'c', text: { fr: 'Toujours Halal', ar: 'دائما حلال', en: 'Always Halal' } },
+      { id: 'd', text: { fr: 'Seulement pour les vêtements', ar: 'للملابس فقط', en: 'Only for clothes' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Le Prophète ﷺ a interdit "vendre ce qu\'on ne possède pas" (Hadith Abu Hurayra). DROPSHIPPING CLASSIQUE (prendre commande → acheter → livrer) = Haram. SOLUTION HALAL : 1) Acheter le produit d\'abord, devenir propriétaire, puis vendre (Murabaha). 2) Agir comme agent (Wakalah) avec commission claire.',
+      ar: 'نهى النبي ﷺ عن "بيع ما ليس عندك" (حديث أبي هريرة). الـDROPSHIPPING الكلاسيكي (أخذ طلب ← شراء ← توصيل) = حرام. الحل الحلال: ١) شراء المنتج أولا، امتلاكه، ثم بيعه (مرابحة). ٢) العمل كوكيل (وكالة) بعمولة واضحة.',
+      en: 'The Prophet ﷺ forbade "selling what you don\'t own" (Abu Hurayra Hadith). CLASSIC DROPSHIPPING (take order → buy → deliver) = Haram. HALAL SOLUTION: 1) Buy product first, own it, then sell (Murabaha). 2) Act as agent (Wakalah) with clear commission.',
+    },
+    points: 3,
+    difficulty: 'hard',
+    category: 'finance-numerique',
+  },
+];
+
+// ============================================
 // Assemblage de l'examen COMPLET
 // ============================================
 
@@ -647,8 +769,9 @@ const allQuestions: ExamQuestion[] = [
   ...contratsQuestions,            // 4 questions
   ...interdictionsQuestions,       // 4 questions
   ...financeModerneQuestions,      // 2 questions
-  ...contratsSpecifiquesQuestions, // 5 questions (NOUVEAU)
-  // Total : 25 questions
+  ...contratsSpecifiquesQuestions, // 5 questions
+  ...financeNumeriqueQuestions,    // 5 questions (NOUVEAU Phase 2)
+  // Total : 30 questions
 ];
 
 export const examFiqhMuamalatFinal: ExamConfig = {
@@ -661,18 +784,18 @@ export const examFiqhMuamalatFinal: ExamConfig = {
     en: 'Complete Exam - Fiqh Muamalat',
   },
   description: {
-    fr: 'Examen de 20 questions sélectionnées aléatoirement parmi une banque de 25 questions. Couvre les transactions islamiques.',
-    ar: 'امتحان من 20 سؤالاً يتم اختيارها عشوائياً من بنك يضم 25 سؤالاً. يغطي المعاملات الإسلامية.',
-    en: 'Exam with 20 questions randomly selected from a pool of 25. Covers Islamic transactions.',
+    fr: 'Examen de 25 questions sélectionnées aléatoirement parmi une banque de 30 questions. Couvre les transactions islamiques incluant finance numérique moderne.',
+    ar: 'امتحان من 25 سؤالاً يتم اختيارها عشوائياً من بنك يضم 30 سؤالاً. يغطي المعاملات الإسلامية بما في ذلك التمويل الرقمي الحديث.',
+    en: 'Exam with 25 questions randomly selected from a pool of 30. Covers Islamic transactions including modern digital finance.',
   },
   instructions: {
-    fr: 'Vous avez 30 minutes pour répondre à 20 questions. Chaque question a une seule bonne réponse. Un score de 70% est requis pour réussir.',
-    ar: 'لديك 30 دقيقة للإجابة على 20 سؤالاً. لكل سؤال إجابة صحيحة واحدة. يُشترط 70% للنجاح.',
-    en: 'You have 30 minutes to answer 20 questions. Each question has one correct answer. A score of 70% is required to pass.',
+    fr: 'Vous avez 35 minutes pour répondre à 25 questions. Chaque question a une seule bonne réponse. Un score de 70% est requis pour réussir.',
+    ar: 'لديك 35 دقيقة للإجابة على 25 سؤالاً. لكل سؤال إجابة صحيحة واحدة. يُشترط 70% للنجاح.',
+    en: 'You have 35 minutes to answer 25 questions. Each question has one correct answer. A score of 70% is required to pass.',
   },
   courseSlug: 'fiqh-muamalat',
   questionPool: allQuestions,
-  questionsPerExam: 20,
+  questionsPerExam: 25,
   categoryConfig: [
     { category: 'principes', count: 2 },
     { category: 'vente', count: 3 },
@@ -681,9 +804,10 @@ export const examFiqhMuamalatFinal: ExamConfig = {
     { category: 'interdictions', count: 3 },
     { category: 'finance-moderne', count: 2 },
     { category: 'contrats-specifiques', count: 4 },
+    { category: 'finance-numerique', count: 5 },
   ],
   questions: [],
-  duration: 30,
+  duration: 35,
   passingScore: 70,
   maxAttempts: 5,
   shuffleQuestions: true,
