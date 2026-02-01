@@ -904,6 +904,105 @@ const sahabaQuestions: ExamQuestion[] = [
 ];
 
 // ============================================
+// Questions - Défis Modernes (Athéisme, Laïcité, Science)
+// ============================================
+
+const defisModernesQuestions: ExamQuestion[] = [
+  {
+    id: 'aqeedah-moderne-001',
+    question: {
+      fr: 'Comment l\'Islam répond-il à l\'argument athée "Si Dieu existe, pourquoi le mal existe-t-il ?"',
+      ar: 'كيف يرد الإسلام على حجة الإلحاد "إن كان الله موجوداً، لماذا يوجد الشر؟"',
+      en: 'How does Islam respond to atheist argument "If God exists, why does evil exist?"',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Dieu n\'a pas créé le mal', ar: 'الله لم يخلق الشر', en: 'God did not create evil' } },
+      { id: 'b', text: { fr: 'Libre arbitre + épreuve terrestre + justice Akhira - vie test pas paradis, mal nécessaire pour choix moral', ar: 'حرية الإرادة + ابتلاء دنيوي + عدل الآخرة - الحياة اختبار لا جنة، الشر ضروري للاختيار الأخلاقي', en: 'Free will + earthly test + Akhira justice - life is test not paradise, evil necessary for moral choice' } },
+      { id: 'c', text: { fr: 'Le mal n\'existe pas réellement', ar: 'الشر غير موجود حقاً', en: 'Evil does not really exist' } },
+      { id: 'd', text: { fr: 'Dieu ne peut contrôler le mal', ar: 'الله لا يستطيع السيطرة على الشر', en: 'God cannot control evil' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Réponse islamique : 1) Dunya = Dar al-Ibtila (demeure épreuve) pas Jannah - Coran 67:2 "Qui créa la mort et la vie pour vous tester qui de vous meilleur en oeuvre", 2) Libre arbitre nécessaire pour choix moral - sans possibilité mal, pas de mérite bien, 3) Mal apparent peut être bien caché - Coran 2:216 "Il se peut que vous détestiez chose qui est bien pour vous", 4) Justice absolue au Jour Jugement - opprimés vengés, oppresseurs punis. Souffrance terrestre temporaire vs éternité.',
+      ar: 'الرد الإسلامي: 1) الدنيا = دار الابتلاء لا الجنة - القرآن 67:2 "الَّذِي خَلَقَ الْمَوْتَ وَالْحَيَاةَ لِيَبْلُوَكُمْ أَيُّكُمْ أَحْسَنُ عَمَلًا"، 2) حرية الإرادة ضرورية للاختيار الأخلاقي - بدون إمكانية الشر، لا فضل للخير، 3) الشر الظاهر قد يكون خيراً خفياً - القرآن 2:216 "وَعَسَىٰ أَن تَكْرَهُوا شَيْئًا وَهُوَ خَيْرٌ لَّكُمْ"، 4) العدل المطلق يوم الحساب - المظلومون يُنتصف لهم، الظالمون يُعاقبون. المعاناة الدنيوية مؤقتة مقابل الأبدية.',
+      en: 'Islamic response: 1) Dunya = Dar al-Ibtila (abode of test) not Jannah - Quran 67:2 "Who created death and life to test you which of you best in deed", 2) Free will necessary for moral choice - without possibility of evil, no merit in good, 3) Apparent evil may be hidden good - Quran 2:216 "Perhaps you hate thing which is good for you", 4) Absolute justice on Judgment Day - oppressed avenged, oppressors punished. Earthly suffering temporary vs eternity.',
+    },
+    points: 3,
+    difficulty: 'hard',
+    category: 'defis-modernes',
+  },
+  {
+    id: 'aqeedah-moderne-002',
+    question: {
+      fr: 'La science a-t-elle prouvé que Dieu n\'existe pas ?',
+      ar: 'هل أثبت العلم أن الله غير موجود؟',
+      en: 'Has science proven that God does not exist?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Oui - la science explique tout sans Dieu', ar: 'نعم - العلم يفسر كل شيء بدون الله', en: 'Yes - science explains everything without God' } },
+      { id: 'b', text: { fr: 'Science ne peut prouver inexistence métaphysique - elle décrit "comment" pas "pourquoi ultime" ni "qui"', ar: 'العلم لا يستطيع إثبات عدم الوجود الميتافيزيقي - يصف "كيف" لا "لماذا النهائي" ولا "من"', en: 'Science cannot prove metaphysical nonexistence - it describes "how" not "ultimate why" nor "who"' } },
+      { id: 'c', text: { fr: 'La science et la religion sont incompatibles', ar: 'العلم والدين غير متوافقين', en: 'Science and religion are incompatible' } },
+      { id: 'd', text: { fr: 'Seuls les ignorants croient en Dieu', ar: 'فقط الجهلاء يؤمنون بالله', en: 'Only ignorant believe in God' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Science = méthode étudier phénomènes naturels observables. Limites : 1) Ne peut prouver existence/inexistence êtres métaphysiques (Dieu, anges, âme) hors champ observation, 2) Explique "comment univers fonctionne" (mécanismes) pas "pourquoi existe" (cause première) ni "qui l\'a créé", 3) Beaucoup savants croyants (Newton, Pasteur, Abdus Salam prix Nobel). Islam encourage science - Coran 20:114 "Dis : Mon Seigneur, accroît ma science". Science révèle magnificence création = preuve Créateur.',
+      ar: 'العلم = منهج لدراسة الظواهر الطبيعية القابلة للملاحظة. الحدود: 1) لا يستطيع إثبات وجود/عدم وجود كائنات ميتافيزيقية (الله، الملائكة، الروح) خارج نطاق الملاحظة، 2) يشرح "كيف يعمل الكون" (الآليات) لا "لماذا موجود" (السبب الأول) ولا "من خلقه"، 3) كثير من العلماء مؤمنون (نيوتن، باستور، عبد السلام جائزة نوبل). الإسلام يشجع العلم - القرآن 20:114 "رَّبِّ زِدْنِي عِلْمًا". العلم يكشف عظمة الخلق = دليل الخالق.',
+      en: 'Science = method studying observable natural phenomena. Limits: 1) Cannot prove existence/nonexistence of metaphysical beings (God, angels, soul) outside observation field, 2) Explains "how universe works" (mechanisms) not "why it exists" (first cause) nor "who created it", 3) Many believing scientists (Newton, Pasteur, Abdus Salam Nobel Prize). Islam encourages science - Quran 20:114 "Say: My Lord, increase me in knowledge". Science reveals creation magnificence = proof of Creator.',
+    },
+    points: 3,
+    difficulty: 'hard',
+    category: 'defis-modernes',
+  },
+  {
+    id: 'aqeedah-moderne-003',
+    question: {
+      fr: 'Le darwinisme (théorie évolution) est-il compatible avec l\'Islam ?',
+      ar: 'هل الداروينية (نظرية التطور) متوافقة مع الإسلام؟',
+      en: 'Is Darwinism (evolution theory) compatible with Islam?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Totalement incompatible - tout Kufr', ar: 'غير متوافق تماماً - كله كفر', en: 'Totally incompatible - all Kufr' } },
+      { id: 'b', text: { fr: 'Nuance : évolution espèces animales discutable ; Adam créé directement d\'argile (texte explicite Coran) - pas ancêtre simiesque', ar: 'دقيق: تطور الأنواع الحيوانية قابل للنقاش؛ آدم خُلق مباشرة من طين (نص قرآني صريح) - ليس من سلف قردي', en: 'Nuanced: animal species evolution debatable; Adam created directly from clay (explicit Quran text) - no simian ancestor' } },
+      { id: 'c', text: { fr: 'Totalement compatible sans exception', ar: 'متوافق تماماً بلا استثناء', en: 'Totally compatible without exception' } },
+      { id: 'd', text: { fr: 'L\'Islam rejette toute science', ar: 'الإسلام يرفض كل علم', en: 'Islam rejects all science' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Position nuancée : 1) Évolution espèces animales : débat savants - certains acceptent micro-évolution (adaptation), d\'autres macro-évolution (origine espèces), 2) Adam : consensus : créé DIRECTEMENT d\'argile par Allah sans ancêtre - Coran 3:59 "Certes, Isa auprès d\'Allah comme Adam qu\'Il créa de terre" + 15:26 "Nous créâmes homme d\'argile sonnante", 3) Savants musulmans (Ghazali) parlaient "gradation êtres" avant Darwin. Compatible SI : évolution = mécanisme créé par Allah SAUF origine humaine directe.',
+      ar: 'الموقف الدقيق: 1) تطور الأنواع الحيوانية: خلاف العلماء - بعضهم يقبل التطور الصغير (التكيف)، آخرون التطور الكبير (أصل الأنواع)، 2) آدم: إجماع: خُلق مباشرة من طين بيد الله بلا سلف - القرآن 3:59 "إِنَّ مَثَلَ عِيسَىٰ عِندَ اللَّهِ كَمَثَلِ آدَمَ خَلَقَهُ مِن تُرَابٍ" + 15:26 "وَلَقَدْ خَلَقْنَا الْإِنسَانَ مِن صَلْصَالٍ"، 3) علماء مسلمون (الغزالي) تحدثوا عن "تدرج الكائنات" قبل داروين. متوافق إن: التطور = آلية خلقها الله ماعدا الأصل البشري المباشر.',
+      en: 'Nuanced position: 1) Animal species evolution: scholars debate - some accept micro-evolution (adaptation), others macro-evolution (species origin), 2) Adam: consensus: created DIRECTLY from clay by Allah without ancestor - Quran 3:59 "Indeed, example of Isa with Allah like Adam He created from dust" + 15:26 "We created man from sounding clay", 3) Muslim scholars (Ghazali) spoke of "gradation of beings" before Darwin. Compatible IF: evolution = mechanism created by Allah EXCEPT direct human origin.',
+    },
+    points: 3,
+    difficulty: 'hard',
+    category: 'defis-modernes',
+  },
+  {
+    id: 'aqeedah-moderne-004',
+    question: {
+      fr: 'La laïcité (séparation religion/État) est-elle compatible avec l\'Islam ?',
+      ar: 'هل العلمانية (فصل الدين عن الدولة) متوافقة مع الإسلام؟',
+      en: 'Is secularism (separation religion/state) compatible with Islam?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Totalement compatible - Islam = vie privée uniquement', ar: 'متوافقة تماماً - الإسلام = حياة خاصة فقط', en: 'Totally compatible - Islam = private life only' } },
+      { id: 'b', text: { fr: 'Non - Islam = système complet (vie personnelle + sociale + politique) - séparation impossible selon majorité', ar: 'لا - الإسلام = نظام كامل (حياة شخصية + اجتماعية + سياسية) - الفصل مستحيل عند الجمهور', en: 'No - Islam = complete system (personal + social + political life) - separation impossible according to majority' } },
+      { id: 'c', text: { fr: 'Oui - religion n\'a rien à voir avec politique', ar: 'نعم - الدين لا علاقة له بالسياسة', en: 'Yes - religion has nothing to do with politics' } },
+      { id: 'd', text: { fr: 'Islam accepte n\'importe quel système politique', ar: 'الإسلام يقبل أي نظام سياسي', en: 'Islam accepts any political system' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Majorité savants : Islam ≠ seulement spiritualité mais Din wa Dawla (religion et État). Arguments : 1) Prophète ﷺ était chef spirituel ET politique (Médine), 2) Shariah couvre lois criminelles, civiles, économiques pas seulement prière, 3) Coran donne directives gouvernance - 4:58 "Allah vous ordonne rendre dépôts à ayants-droit et juger avec justice", 42:38 "leurs affaires par consultation (Shura)". Minorité moderniste (Ali Abdel Raziq) : séparation possible. Débat : théocratie ≠ obligatoire mais lois doivent respecter Shariah.',
+      ar: 'جمهور العلماء: الإسلام ≠ روحانية فقط بل دين ودولة. الحجج: 1) النبي ﷺ كان قائداً روحياً وسياسياً (المدينة)، 2) الشريعة تشمل قوانين جنائية، مدنية، اقتصادية ليس فقط الصلاة، 3) القرآن يعطي توجيهات الحكم - 4:58 "إِنَّ اللَّهَ يَأْمُرُكُمْ أَن تُؤَدُّوا الْأَمَانَاتِ إِلَىٰ أَهْلِهَا وَإِذَا حَكَمْتُم بَيْنَ النَّاسِ أَن تَحْكُمُوا بِالْعَدْلِ"، 42:38 "وَأَمْرُهُمْ شُورَىٰ بَيْنَهُمْ". أقلية حداثية (علي عبد الرازق): الفصل ممكن. نقاش: الثيوقراطية ≠ واجبة لكن القوانين يجب أن تحترم الشريعة.',
+      en: 'Majority scholars: Islam ≠ only spirituality but Din wa Dawla (religion and state). Arguments: 1) Prophet ﷺ was spiritual AND political leader (Medina), 2) Shariah covers criminal, civil, economic laws not only prayer, 3) Quran gives governance directives - 4:58 "Allah commands you render trusts to rightful owners and judge with justice", 42:38 "their affairs by consultation (Shura)". Modernist minority (Ali Abdel Raziq): separation possible. Debate: theocracy ≠ mandatory but laws must respect Shariah.',
+    },
+    points: 3,
+    difficulty: 'hard',
+    category: 'defis-modernes',
+  },
+];
+
+// ============================================
 // Assemblage de l'examen COMPLET
 // ============================================
 
