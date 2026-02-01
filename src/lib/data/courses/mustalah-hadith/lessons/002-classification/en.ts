@@ -17,18 +17,13 @@ Hadith classification is the **heart of Mustalah al-Hadith**. Knowing how to dis
 
 ### 🔷 The Main Division
 
-\`\`\`
-                    الحديث
-                      │
-          ┌───────────┼───────────┐
-          │           │           │
-       Accepted    Rejected   Fabricated
-       (Maqbul)    (Mardud)   (Mawdu')
-          │           │
-      ┌───┴───┐       │
-      │       │       │
-    Sahih   Hasan    Da'if
-\`\`\`
+<!-- DIAGRAM:hadith-classification-tree -->
+
+| Category | Arabic | Sub-types | Status |
+|----------|--------|-----------|--------|
+| **Maqbul** (Accepted) | مقبول | Sahih صحيح, Hasan حسن | ✅ Usable as proof |
+| **Mardud** (Rejected) | مردود | Da'if ضعيف (various degrees) | ⚠️ Not usable as proof |
+| **Mawdu'** (Fabricated) | موضوع | — | ❌ Forbidden to transmit |
 
 ---
 

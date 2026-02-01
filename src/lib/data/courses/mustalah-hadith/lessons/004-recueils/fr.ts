@@ -204,19 +204,16 @@ Les **Kutub as-Sitta** (الكتب الستة) sont les six recueils de hadith l
 
 ### 🔷 Classement des Recueils
 
-\`\`\`
-1. صحيح البخاري ← Plus authentique (consensus)
-        ↓
-2. صحيح مسلم ← Très authentique
-        ↓
-3. سنن النسائي ← Conditions strictes
-        ↓
-4. سنن أبي داود ← Hadiths juridiques fiables
-        ↓
-5. جامع الترمذي ← Mélange avec Fiqh comparé
-        ↓
-6. سنن ابن ماجه ← Contient des faibles
-\`\`\`
+<!-- DIAGRAM:kutub-sitta-hierarchy -->
+
+| # | Recueil | Arabe | Niveau d'Authenticité |
+|---|---------|-------|------------------------|
+| 1️⃣ | **Sahih al-Bukhari** | صحيح البخاري | ⭐⭐⭐⭐⭐ Plus authentique (consensus) |
+| 2️⃣ | **Sahih Muslim** | صحيح مسلم | ⭐⭐⭐⭐⭐ Très authentique |
+| 3️⃣ | **Sunan an-Nasa'i** | سنن النسائي | ⭐⭐⭐⭐ Conditions strictes |
+| 4️⃣ | **Sunan Abu Dawud** | سنن أبي داود | ⭐⭐⭐⭐ Hadiths juridiques fiables |
+| 5️⃣ | **Jami' at-Tirmidhi** | جامع الترمذي | ⭐⭐⭐ Mélange avec Fiqh comparé |
+| 6️⃣ | **Sunan Ibn Majah** | سنن ابن ماجه | ⭐⭐ Contient des faibles |
 
 ### 📌 Règle Pratique
 

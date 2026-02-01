@@ -106,19 +106,16 @@ The **Kutub as-Sitta** (الكتب الستة) are the six most important hadith
 
 ## 📊 Authenticity Hierarchy
 
-\`\`\`
-1. Sahih al-Bukhari ← Most authentic (consensus)
-        ↓
-2. Sahih Muslim ← Very authentic
-        ↓
-3. Sunan an-Nasa'i ← Strict conditions
-        ↓
-4. Sunan Abu Dawud ← Reliable legal hadiths
-        ↓
-5. Jami' at-Tirmidhi ← Mixed with comparative Fiqh
-        ↓
-6. Sunan Ibn Majah ← Contains weak ones
-\`\`\`
+<!-- DIAGRAM:kutub-sitta-hierarchy -->
+
+| # | Collection | Arabic | Authenticity Level |
+|---|------------|--------|--------------------|
+| 1️⃣ | **Sahih al-Bukhari** | صحيح البخاري | ⭐⭐⭐⭐⭐ Most authentic (consensus) |
+| 2️⃣ | **Sahih Muslim** | صحيح مسلم | ⭐⭐⭐⭐⭐ Very authentic |
+| 3️⃣ | **Sunan an-Nasa'i** | سنن النسائي | ⭐⭐⭐⭐ Strict conditions |
+| 4️⃣ | **Sunan Abu Dawud** | سنن أبي داود | ⭐⭐⭐⭐ Reliable legal hadiths |
+| 5️⃣ | **Jami' at-Tirmidhi** | جامع الترمذي | ⭐⭐⭐ Mixed with comparative Fiqh |
+| 6️⃣ | **Sunan Ibn Majah** | سنن ابن ماجه | ⭐⭐ Contains weak ones |
 
 ---
 

@@ -17,19 +17,13 @@ La classification des hadiths est le **cœur de Mustalah al-Hadith**. Savoir dis
 
 ### 🔷 La Grande Division
 
-\`\`\`
-                    الحديث
-                      │
-          ┌───────────┼───────────┐
-          │           │           │
-       مقبول       مردود      موضوع
-      (Accepté)   (Rejeté)   (Fabriqué)
-          │           │
-      ┌───┴───┐       │
-      │       │       │
-    صحيح    حسن     ضعيف
-   Sahih   Hasan   Da'if
-\`\`\`
+<!-- DIAGRAM:hadith-classification-tree -->
+
+| Catégorie | Arabe | Sous-types | Statut |
+|-----------|-------|------------|--------|
+| **Maqbul** (Accepté) | مقبول | Sahih صحيح, Hasan حسن | ✅ Utilisable comme preuve |
+| **Mardud** (Rejeté) | مردود | Da'if ضعيف (plusieurs degrés) | ⚠️ Non utilisable comme preuve |
+| **Mawdu'** (Fabriqué) | موضوع | — | ❌ Interdit de transmettre |
 
 ---
 

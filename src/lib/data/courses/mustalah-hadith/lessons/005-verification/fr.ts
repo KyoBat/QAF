@@ -161,24 +161,19 @@ export const content = `# 🔍 التحقق من الحديث — Comment Vérif
 
 ## 📌 Vérification Rapide : Flowchart
 
-\`\`\`
-        📝 Vous recevez un "hadith"
-                    ↓
-        ❓ Source citée (Bukhari, Muslim...) ?
-           /              \\
-         Non              Oui
-          ↓                ↓
-    🚨 Méfiance      Vérifier sur Sunnah.com
-          ↓                ↓
-    Chercher sur      Numéro trouvé ?
-    Dorar.net            /     \\
-          ↓            Oui     Non
-     Verdict ?          ↓       ↓
-      /    \\         ✅ OK   🔍 Chercher
-   Sahih  Da'if              ailleurs
-     ↓      ↓
-   ✅ OK  ⚠️ Indiquer faiblesse
-\`\`\`
+<!-- DIAGRAM:hadith-verification-flowchart -->
+
+<div class="scene-box">
+
+**🔍 Étapes de vérification d'un hadith reçu**
+
+| Étape | Question | Si OUI | Si NON |
+|-------|----------|--------|--------|
+| **1** | Source citée (Bukhari, Muslim...) ? | → Étape 2 | 🚨 Méfiance → Chercher sur Dorar.net |
+| **2** | Numéro trouvé sur Sunnah.com ? | ✅ Hadith vérifié | 🔍 Chercher ailleurs |
+| **3** | Quel verdict sur Dorar ? | Sahih → ✅ OK | Da'if → ⚠️ Indiquer la faiblesse |
+
+</div>
 
 ---
 

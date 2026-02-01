@@ -97,9 +97,17 @@ export const content = `# 📜 مقدمة في علوم الحديث — Introdu
 > *La chaîne des narrateurs menant au texte.*
 
 **Exemple de chaîne complète :**
-\`\`\`
-Al-Bukhari ← Son Shaykh ← ... ← Tabi'i ← Sahabi ← Le Prophète ﷺ
-\`\`\`
+
+<!-- DIAGRAM:isnad-chain-example -->
+
+| Maillon | Rôle |
+|---------|------|
+| **Al-Bukhari** | المصنف — Le compilateur |
+| **Son Shaykh** | Le maître du compilateur |
+| **...** | Narrateurs intermédiaires |
+| **Tabi'i** | Le Successeur (2ème génération) |
+| **Sahabi** | Le Compagnon |
+| **النبي ﷺ** | Le Prophète ﷺ |
 
 ### 🔷 Le Matn (Le Texte)
 

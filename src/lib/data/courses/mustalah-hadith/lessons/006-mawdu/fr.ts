@@ -33,17 +33,15 @@ Le **hadith Mawdu'** (موضوع) est le plus grave des hadiths rejetés. C'est 
 
 ### 📌 Position dans la Hiérarchie
 
-\`\`\`
-صحيح (Sahih) ← Authentique
-    ↓
-حسن (Hasan) ← Bon
-    ↓
-ضعيف (Da'if) ← Faible (plusieurs degrés)
-    ↓
-ضعيف جداً ← Très faible
-    ↓
-موضوع (Mawdu') ← FABRIQUÉ ❌ Le pire
-\`\`\`
+<!-- DIAGRAM:hadith-grade-hierarchy -->
+
+| Grade | Arabe | Statut | Niveau |
+|-------|-------|--------|--------|
+| **Sahih** | صحيح | Authentique | ✅ |
+| **Hasan** | حسن | Bon | ✅ |
+| **Da'if** | ضعيف | Faible (plusieurs degrés) | ⚠️ |
+| **Da'if Jiddan** | ضعيف جداً | Très faible | ⚠️⚠️ |
+| **Mawdu'** | موضوع | **FABRIQUÉ ❌ Le pire** | ❌ |
 
 ---
 
@@ -179,26 +177,22 @@ Le **hadith Mawdu'** (موضوع) est le plus grave des hadiths rejetés. C'est 
 
 ## 📊 Flowchart de Détection
 
-\`\`\`
-        📝 Vous recevez un "hadith"
-                    ↓
-        ❓ Contenu logique et cohérent ?
-           /              \\
-         Non              Oui
-          ↓                ↓
-    🚨 Probable      A-t-il une source ?
-       Mawdu'            /     \\
-                       Non     Oui
-                        ↓       ↓
-                    🚨 Suspicion  Vérifier sur
-                                   Dorar.net
-                                      ↓
-                                  Verdict ?
-                                 /        \\
-                            Mawdu'     Sahih/Hasan
-                              ↓            ↓
-                        ❌ Rejeter    ✅ Accepter
-\`\`\`
+<!-- DIAGRAM:mawdu-detection-flowchart -->
+
+<div class="scene-box">
+
+**🔍 Comment détecter un hadith fabriqué ?**
+
+| Étape | Question | Réponse | Action |
+|-------|----------|---------|--------|
+| **1** | Contenu logique et cohérent ? | ❌ Non | 🚨 Probable Mawdu' |
+| | | ✅ Oui | → Étape 2 |
+| **2** | A-t-il une source ? | ❌ Non | 🚨 Suspicion |
+| | | ✅ Oui | → Vérifier sur Dorar.net |
+| **3** | Verdict Dorar ? | Mawdu' | ❌ Rejeter |
+| | | Sahih/Hasan | ✅ Accepter |
+
+</div>
 
 ---
 

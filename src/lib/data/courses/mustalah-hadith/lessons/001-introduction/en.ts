@@ -85,9 +85,17 @@ export const content = `# 📜 مقدمة في علوم الحديث — Introdu
 > **السَّنَد**: The chain of narrators leading to the text.
 
 **Example of a complete chain:**
-\`\`\`
-Al-Bukhari ← His Shaykh ← ... ← Tabi'i ← Sahabi ← The Prophet ﷺ
-\`\`\`
+
+<!-- DIAGRAM:isnad-chain-example -->
+
+| Link | Role |
+|------|------|
+| **Al-Bukhari** | المصنف — The compiler |
+| **His Shaykh** | The compiler's teacher |
+| **...** | Intermediate narrators |
+| **Tabi'i** | The Successor (2nd generation) |
+| **Sahabi** | The Companion |
+| **النبي ﷺ** | The Prophet ﷺ |
 
 ### 🔷 The Matn (Text)
 
