@@ -653,6 +653,158 @@ const omraQuestions: ExamQuestion[] = [
 ];
 
 // ============================================
+// Questions - Mahdhurat al-Ihram (Interdits) - NOUVEAU
+// ============================================
+
+const mahdhuratQuestions: ExamQuestion[] = [
+  {
+    id: 'hajj-mahdhurat-001',
+    question: {
+      fr: 'Quels sont les interdits (Mahdhurat) de l\'Ihram pour les hommes ?',
+      ar: 'ما هي محظورات الإحرام للرجال؟',
+      en: 'What are the prohibitions (Mahdhurat) of Ihram for men?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Uniquement les relations conjugales', ar: 'العلاقات الزوجية فقط', en: 'Only marital relations' } },
+      { id: 'b', text: { fr: 'Porter des vêtements cousus, se parfumer, se couvrir la tête, se raser/couper les ongles, chasser, relations intimes', ar: 'لبس المخيط، التطيب، تغطية الرأس، الحلق/قص الأظافر، الصيد، العلاقات الزوجية', en: 'Wearing sewn garments, perfume, covering head, shaving/cutting nails, hunting, marital relations' } },
+      { id: 'c', text: { fr: 'Manger et boire', ar: 'الأكل والشرب', en: 'Eating and drinking' } },
+      { id: 'd', text: { fr: 'Parler aux gens', ar: 'الكلام مع الناس', en: 'Talking to people' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'L\'homme en Ihram ne doit pas porter de vêtements cousus à sa forme, se parfumer, se couvrir la tête, couper cheveux/ongles, chasser ou avoir de relations intimes.',
+      ar: 'المحرم لا يلبس المخيط على هيئة بدنه، ولا يتطيب، ولا يغطي رأسه، ولا يقص شعره/أظافره، ولا يصطاد، ولا يقرب زوجته.',
+      en: 'A man in Ihram must not wear sewn clothes fitted to his body, perfume, cover his head, cut hair/nails, hunt, or have intimate relations.',
+    },
+    points: 2,
+    difficulty: 'medium',
+    category: 'mahdhurat',
+  },
+  {
+    id: 'hajj-mahdhurat-002',
+    question: {
+      fr: 'Que doit éviter la femme en état d\'Ihram ?',
+      ar: 'ما الذي يجب على المرأة تجنبه في الإحرام؟',
+      en: 'What must a woman avoid while in Ihram?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Tout ce que l\'homme évite, plus le Niqab (voile de visage ajusté) et les gants', ar: 'ما يتجنبه الرجل، بالإضافة إلى النقاب والقفازين', en: 'Everything men avoid, plus Niqab (fitted face veil) and gloves' } },
+      { id: 'b', text: { fr: 'Porter des vêtements blancs uniquement', ar: 'ارتداء الملابس البيضاء فقط', en: 'Wearing white clothes only' } },
+      { id: 'c', text: { fr: 'Parler à voix haute', ar: 'التحدث بصوت عالٍ', en: 'Speaking loudly' } },
+      { id: 'd', text: { fr: 'Aucune restriction pour les femmes', ar: 'لا قيود على النساء', en: 'No restrictions for women' } },
+    ],
+    correctAnswer: 0,
+    explanation: {
+      fr: 'La femme peut porter ses vêtements habituels (pas de couleur spécifique) mais évite le Niqab et les gants. Elle peut couvrir son visage autrement devant les hommes.',
+      ar: 'المرأة تلبس ثيابها المعتادة (لا لون محدد) لكن تجتنب النقاب والقفازين. ويجوز لها ستر وجهها بغير النقاب أمام الرجال.',
+      en: 'Woman can wear normal clothes (no specific color) but avoids Niqab and gloves. She may cover her face otherwise in front of men.',
+    },
+    points: 2,
+    difficulty: 'medium',
+    category: 'mahdhurat',
+  },
+  {
+    id: 'hajj-mahdhurat-003',
+    question: {
+      fr: 'Quelle est la conséquence de la chasse en état d\'Ihram ?',
+      ar: 'ما عاقبة الصيد في حال الإحرام؟',
+      en: 'What is the consequence of hunting while in Ihram?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Rien, c\'est permis', ar: 'لا شيء، مباح', en: 'Nothing, it\'s permitted' } },
+      { id: 'b', text: { fr: 'Annulation du Hajj', ar: 'بطلان الحج', en: 'Hajj invalidated' } },
+      { id: 'c', text: { fr: 'Fidya : sacrifier l\'équivalent de l\'animal chassé ou son prix en nourriture pour les pauvres ou jeûne', ar: 'فدية: ذبح مثل الصيد أو إطعام بقيمته أو صيام', en: 'Fidya: sacrifice equivalent animal or its value in food for poor or fasting' } },
+      { id: 'd', text: { fr: 'Amende gouvernementale', ar: 'غرامة حكومية', en: 'Government fine' } },
+    ],
+    correctAnswer: 2,
+    explanation: {
+      fr: '"Ne tuez pas le gibier pendant que vous êtes en Ihram. Quiconque le tue délibérément, compensera par l\'équivalent..." (5:95)',
+      ar: '"لَا تَقْتُلُوا الصَّيْدَ وَأَنتُمْ حُرُمٌ وَمَن قَتَلَهُ مِنكُم مُّتَعَمِّدًا فَجَزَاءٌ مِّثْلُ مَا قَتَلَ..." (المائدة:95)',
+      en: '"Do not kill game while in Ihram. Whoever kills it deliberately, the compensation is an equivalent..." (5:95)',
+    },
+    points: 3,
+    difficulty: 'hard',
+    category: 'mahdhurat',
+  },
+];
+
+// ============================================
+// Questions - Fidya et Expiations - NOUVEAU
+// ============================================
+
+const fidyaQuestions: ExamQuestion[] = [
+  {
+    id: 'hajj-fidya-001',
+    question: {
+      fr: 'Qu\'est-ce que la Fidya pour violation d\'un interdit de l\'Ihram (comme se raser par nécessité) ?',
+      ar: 'ما هي الفدية لارتكاب محظور من محظورات الإحرام (كالحلق للضرورة)؟',
+      en: 'What is the Fidya for violating an Ihram prohibition (like shaving out of necessity)?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Refaire le Hajj', ar: 'إعادة الحج', en: 'Redo Hajj' } },
+      { id: 'b', text: { fr: 'Jeûner 3 jours, OU nourrir 6 pauvres, OU sacrifier une bête (mouton)', ar: 'صيام 3 أيام، أو إطعام 6 مساكين، أو ذبح شاة', en: 'Fast 3 days, OR feed 6 poor, OR sacrifice an animal (sheep)' } },
+      { id: 'c', text: { fr: '1000$ d\'amende', ar: 'غرامة 1000 دولار', en: '$1000 fine' } },
+      { id: 'd', text: { fr: 'Aucune conséquence si c\'était par nécessité', ar: 'لا عاقبة إذا كان للضرورة', en: 'No consequence if it was out of necessity' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: '"Celui qui est malade ou a une affection au cuir chevelu : une rançon de jeûne, d\'aumône ou de sacrifice" (2:196). Ka\'b ibn Ujra appliqua ce verset.',
+      ar: '"فَمَن كَانَ مِنكُم مَّرِيضًا أَوْ بِهِ أَذًى مِّن رَّأْسِهِ فَفِدْيَةٌ مِّن صِيَامٍ أَوْ صَدَقَةٍ أَوْ نُسُكٍ" (البقرة:196). وقد طبقها كعب بن عُجرة.',
+      en: '"Whoever is ill or has head ailment: ransom of fasting, charity, or sacrifice" (2:196). Ka\'b ibn Ujra applied this verse.',
+    },
+    points: 3,
+    difficulty: 'hard',
+    category: 'fidya',
+  },
+  {
+    id: 'hajj-fidya-002',
+    question: {
+      fr: 'Quelle est la conséquence des relations intimes avant le premier Tahallul (désacralisaton) ?',
+      ar: 'ما عاقبة الجماع قبل التحلل الأول؟',
+      en: 'What is the consequence of marital relations before first Tahallul (desacralization)?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Fidya simple (mouton)', ar: 'فدية بسيطة (شاة)', en: 'Simple Fidya (sheep)' } },
+      { id: 'b', text: { fr: 'Le Hajj est invalide mais doit être complété + refait l\'année suivante + sacrifice de chameau/vache', ar: 'الحج فاسد لكن يُكمل + يُقضى في العام التالي + ذبح بدنة', en: 'Hajj is invalid but must be completed + redone next year + camel/cow sacrifice' } },
+      { id: 'c', text: { fr: 'Aucune conséquence', ar: 'لا عاقبة', en: 'No consequence' } },
+      { id: 'd', text: { fr: 'Amende uniquement', ar: 'غرامة فقط', en: 'Fine only' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Les relations intimes avant Arafat ou avant le premier Tahallul invalident le Hajj. Le pèlerin doit compléter les rites, sacrifier une Badana (chameau), et refaire le Hajj.',
+      ar: 'الجماع قبل عرفة أو قبل التحلل الأول يُفسد الحج. يجب على الحاج إكمال المناسك، وذبح بدنة، وقضاء الحج.',
+      en: 'Relations before Arafat or first Tahallul invalidate Hajj. Pilgrim must complete rites, sacrifice Badana (camel), and redo Hajj.',
+    },
+    points: 3,
+    difficulty: 'hard',
+    category: 'fidya',
+  },
+  {
+    id: 'hajj-fidya-003',
+    question: {
+      fr: 'Qu\'est-ce que le Dam (sang) obligatoire pour le Hajj Tamattu\' ?',
+      ar: 'ما هو الدم الواجب في حج التمتع؟',
+      en: 'What is the obligatory Dam (blood) for Hajj Tamattu\'?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Aucun sacrifice n\'est requis', ar: 'لا ذبيحة مطلوبة', en: 'No sacrifice required' } },
+      { id: 'b', text: { fr: 'Sacrifice d\'un mouton/chèvre ; si incapable, jeûner 3 jours au Hajj + 7 jours au retour', ar: 'ذبح شاة؛ ومن لم يجد فصيام 3 أيام في الحج و7 عند الرجوع', en: 'Sacrifice a sheep/goat; if unable, fast 3 days during Hajj + 7 upon return' } },
+      { id: 'c', text: { fr: 'Uniquement pour les riches', ar: 'للأغنياء فقط', en: 'Only for rich people' } },
+      { id: 'd', text: { fr: 'Don d\'argent uniquement', ar: 'تبرع بالمال فقط', en: 'Money donation only' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: '"Celui qui jouit de l\'Omra jusqu\'au Hajj, qu\'il sacrifie ce qui est disponible... s\'il ne trouve pas, qu\'il jeûne 3 jours pendant le Hajj et 7 à son retour" (2:196).',
+      ar: '"فَمَن تَمَتَّعَ بِالْعُمْرَةِ إِلَى الْحَجِّ فَمَا اسْتَيْسَرَ مِنَ الْهَدْيِ... فَمَن لَّمْ يَجِدْ فَصِيَامُ ثَلَاثَةِ أَيَّامٍ فِي الْحَجِّ وَسَبْعَةٍ إِذَا رَجَعْتُمْ" (البقرة:196).',
+      en: '"Whoever enjoys Umrah until Hajj, sacrifice what is available... if he cannot find, fast 3 days during Hajj and 7 upon return" (2:196).',
+    },
+    points: 2,
+    difficulty: 'medium',
+    category: 'fidya',
+  },
+];
+
+// ============================================
 // Assemblage de l'examen COMPLET
 // ============================================
 
@@ -663,7 +815,9 @@ const allQuestions: ExamQuestion[] = [
   ...ihramQuestions,         // 4 questions
   ...ritesQuestions,         // 6 questions
   ...omraQuestions,          // 4 questions
-  // Total : 26 questions
+  ...mahdhuratQuestions,     // 3 questions (NOUVEAU)
+  ...fidyaQuestions,         // 3 questions (NOUVEAU)
+  // Total : 32 questions
 ];
 
 export const examHajjFinal: ExamConfig = {
@@ -676,28 +830,30 @@ export const examHajjFinal: ExamConfig = {
     en: 'Complete Exam - Fiqh of Hajj',
   },
   description: {
-    fr: 'Examen de 22 questions sélectionnées aléatoirement parmi une banque de 26 questions. Couvre le Hajj et la Omra.',
-    ar: 'امتحان من 22 سؤالاً يتم اختيارها عشوائياً من بنك يضم 26 سؤالاً. يغطي الحج والعمرة.',
-    en: 'Exam with 22 questions randomly selected from a pool of 26. Covers Hajj and Umrah.',
+    fr: 'Examen de 26 questions sélectionnées aléatoirement parmi une banque de 32 questions. Couvre le Hajj et la Omra.',
+    ar: 'امتحان من 26 سؤالاً يتم اختيارها عشوائياً من بنك يضم 32 سؤالاً. يغطي الحج والعمرة.',
+    en: 'Exam with 26 questions randomly selected from a pool of 32. Covers Hajj and Umrah.',
   },
   instructions: {
-    fr: 'Vous avez 35 minutes pour répondre à 22 questions. Chaque question a une seule bonne réponse. Un score de 70% est requis pour réussir.',
-    ar: 'لديك 35 دقيقة للإجابة على 22 سؤالاً. لكل سؤال إجابة صحيحة واحدة. يُشترط 70% للنجاح.',
-    en: 'You have 35 minutes to answer 22 questions. Each question has one correct answer. A score of 70% is required to pass.',
+    fr: 'Vous avez 40 minutes pour répondre à 26 questions. Chaque question a une seule bonne réponse. Un score de 70% est requis pour réussir.',
+    ar: 'لديك 40 دقيقة للإجابة على 26 سؤالاً. لكل سؤال إجابة صحيحة واحدة. يُشترط 70% للنجاح.',
+    en: 'You have 40 minutes to answer 26 questions. Each question has one correct answer. A score of 70% is required to pass.',
   },
   courseSlug: 'hajj',
   questionPool: allQuestions,
-  questionsPerExam: 22,
+  questionsPerExam: 26,
   categoryConfig: [
     { category: 'definition', count: 3 },
     { category: 'conditions', count: 3 },
     { category: 'types', count: 3 },
     { category: 'ihram', count: 4 },
     { category: 'rites', count: 5 },
-    { category: 'omra', count: 4 },
+    { category: 'omra', count: 3 },
+    { category: 'mahdhurat', count: 3 },
+    { category: 'fidya', count: 2 },
   ],
   questions: [],
-  duration: 35,
+  duration: 40,
   passingScore: 70,
   maxAttempts: 5,
   shuffleQuestions: true,

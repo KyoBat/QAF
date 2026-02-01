@@ -30,6 +30,7 @@ export function Header() {
   const navLinks = [
     { href: '/', label: t('nav.home') },
     { href: '/courses', label: t('nav.courses') },
+    { href: '/exams', label: t('nav.exams') || 'Examens' },
     { href: '/about', label: t('nav.about') },
   ]
 

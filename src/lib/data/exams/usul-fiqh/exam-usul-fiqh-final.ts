@@ -469,17 +469,171 @@ const qawaidQuestions: ExamQuestion[] = [
 ];
 
 // ============================================
+// Questions - Maslaha et Istihsan (NOUVEAU)
+// ============================================
+
+const maslahIstihsanQuestions: ExamQuestion[] = [
+  {
+    id: 'usul-maslaha-001',
+    question: {
+      fr: 'Qu\'est-ce que la Maslaha Mursala ?',
+      ar: 'ما هي المصلحة المرسلة؟',
+      en: 'What is Maslaha Mursala?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Une source rejetée par tous les savants', ar: 'مصدر يرفضه جميع العلماء', en: 'A source rejected by all scholars' } },
+      { id: 'b', text: { fr: 'Un intérêt public non mentionné dans les textes mais conforme aux objectifs de la Shari\'a', ar: 'مصلحة عامة لم تُذكر في النصوص لكنها متوافقة مع مقاصد الشريعة', en: 'A public interest not mentioned in texts but conforming to Shari\'a objectives' } },
+      { id: 'c', text: { fr: 'Une innovation blâmable', ar: 'بدعة مذمومة', en: 'A blameworthy innovation' } },
+      { id: 'd', text: { fr: 'L\'opinion d\'un savant spécifique', ar: 'رأي عالم معين', en: 'A specific scholar\'s opinion' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'La Maslaha Mursala est un intérêt reconnu par la Shari\'a en général, mais sans texte spécifique. Ex: compilation du Coran, construction de prisons.',
+      ar: 'المصلحة المرسلة مصلحة معتبرة شرعًا لكن لا نص خاص فيها. مثل: جمع القرآن، بناء السجون.',
+      en: 'Maslaha Mursala is an interest recognized by Shari\'a in general, but without specific text. Ex: compilation of Quran, building prisons.',
+    },
+    points: 3,
+    difficulty: 'hard',
+    category: 'maslaha-istihsan',
+  },
+  {
+    id: 'usul-maslaha-002',
+    question: {
+      fr: 'Quelles sont les 3 catégories de Maslaha selon les Usuliyyun ?',
+      ar: 'ما الأقسام الثلاثة للمصلحة عند الأصوليين؟',
+      en: 'What are the 3 categories of Maslaha according to Usuliyyun?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Daruriyyat (nécessités), Hajiyyat (besoins), Tahsiniyyat (embellissements)', ar: 'الضروريات، الحاجيات، التحسينيات', en: 'Daruriyyat (necessities), Hajiyyat (needs), Tahsiniyyat (embellishments)' } },
+      { id: 'b', text: { fr: 'Grande, moyenne, petite', ar: 'كبيرة، متوسطة، صغيرة', en: 'Large, medium, small' } },
+      { id: 'c', text: { fr: 'Obligatoire, recommandée, permise', ar: 'واجبة، مستحبة، مباحة', en: 'Obligatory, recommended, permissible' } },
+      { id: 'd', text: { fr: 'Ancienne, nouvelle, future', ar: 'قديمة، جديدة، مستقبلية', en: 'Ancient, new, future' } },
+    ],
+    correctAnswer: 0,
+    explanation: {
+      fr: 'Les Daruriyyat (les 5 nécessités) sont prioritaires. Les Hajiyyat facilitent la vie. Les Tahsiniyyat embellissent mais ne sont pas essentiels.',
+      ar: 'الضروريات (الخمس) لها الأولوية. والحاجيات تسهّل الحياة. والتحسينيات تزين لكنها ليست أساسية.',
+      en: 'Daruriyyat (5 necessities) have priority. Hajiyyat facilitate life. Tahsiniyyat beautify but are not essential.',
+    },
+    points: 3,
+    difficulty: 'hard',
+    category: 'maslaha-istihsan',
+  },
+  {
+    id: 'usul-istihsan-001',
+    question: {
+      fr: 'Qu\'est-ce que l\'Istihsan ?',
+      ar: 'ما هو الاستحسان؟',
+      en: 'What is Istihsan?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Suivre ses préférences personnelles', ar: 'اتباع التفضيلات الشخصية', en: 'Following personal preferences' } },
+      { id: 'b', text: { fr: 'Délaisser un Qiyas apparent pour un autre plus approprié ou pour une preuve plus forte (coutume, nécessité)', ar: 'العدول عن قياس ظاهر إلى آخر أرجح أو دليل أقوى (عرف، ضرورة)', en: 'Abandoning an apparent Qiyas for a more appropriate one or stronger evidence (custom, necessity)' } },
+      { id: 'c', text: { fr: 'Rejeter toutes les sources', ar: 'رفض جميع المصادر', en: 'Rejecting all sources' } },
+      { id: 'd', text: { fr: 'Suivre l\'opinion majoritaire', ar: 'اتباع رأي الأغلبية', en: 'Following majority opinion' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'L\'Istihsan est utilisé surtout par les Hanafis pour éviter la rigidité du Qiyas quand il mène à un résultat contraire à l\'esprit de la loi.',
+      ar: 'الاستحسان يستخدمه الحنفية خاصة لتجنب جمود القياس عندما يؤدي إلى نتيجة مخالفة لروح الشريعة.',
+      en: 'Istihsan is used especially by Hanafis to avoid rigidity of Qiyas when it leads to a result contrary to the spirit of the law.',
+    },
+    points: 3,
+    difficulty: 'hard',
+    category: 'maslaha-istihsan',
+  },
+];
+
+// ============================================
+// Questions - Ijtihad et Taqlid (NOUVEAU)
+// ============================================
+
+const ijtihadTaqlidQuestions: ExamQuestion[] = [
+  {
+    id: 'usul-ijtihad-001',
+    question: {
+      fr: 'Qu\'est-ce que l\'Ijtihad ?',
+      ar: 'ما هو الاجتهاد؟',
+      en: 'What is Ijtihad?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Copier l\'avis d\'un autre savant', ar: 'نقل رأي عالم آخر', en: 'Copying another scholar\'s opinion' } },
+      { id: 'b', text: { fr: 'Effort maximal d\'un savant qualifié pour déduire un jugement juridique des sources', ar: 'بذل الفقيه المؤهل وسعه لاستنباط حكم شرعي من الأدلة', en: 'Maximum effort of a qualified scholar to derive a legal ruling from sources' } },
+      { id: 'c', text: { fr: 'Méditation spirituelle', ar: 'تأمل روحي', en: 'Spiritual meditation' } },
+      { id: 'd', text: { fr: 'Mémorisation du Coran', ar: 'حفظ القرآن', en: 'Memorizing Quran' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'L\'Ijtihad exige des conditions : maîtrise de l\'arabe, connaissance du Coran et de la Sunna, des principes Usul, de l\'Ijma\', et de la réalité contemporaine.',
+      ar: 'الاجتهاد يشترط: إتقان العربية، معرفة القرآن والسنة، أصول الفقه، الإجماع، والواقع المعاصر.',
+      en: 'Ijtihad requires: Arabic mastery, knowledge of Quran and Sunnah, Usul principles, Ijma\', and contemporary reality.',
+    },
+    points: 2,
+    difficulty: 'medium',
+    category: 'ijtihad-taqlid',
+  },
+  {
+    id: 'usul-ijtihad-002',
+    question: {
+      fr: 'Que signifie le hadith "Si le juge fait l\'Ijtihad et se trompe, il a une récompense" ?',
+      ar: 'ما معنى حديث "إذا اجتهد الحاكم فأخطأ فله أجر"؟',
+      en: 'What does the hadith "If the judge makes Ijtihad and errs, he has one reward" mean?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'L\'erreur délibérée est récompensée', ar: 'الخطأ المتعمد يُثاب عليه', en: 'Deliberate error is rewarded' } },
+      { id: 'b', text: { fr: 'L\'Ijtihad sincère basé sur les sources est récompensé même si la conclusion est erronée', ar: 'الاجتهاد المخلص المبني على الأدلة مثاب حتى لو أخطأ في النتيجة', en: 'Sincere Ijtihad based on sources is rewarded even if conclusion is wrong' } },
+      { id: 'c', text: { fr: 'Les juges sont infaillibles', ar: 'القضاة معصومون', en: 'Judges are infallible' } },
+      { id: 'd', text: { fr: 'L\'Ijtihad est interdit', ar: 'الاجتهاد محرم', en: 'Ijtihad is forbidden' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Le Mujtahid qui s\'efforce sincèrement est récompensé pour son effort. S\'il a raison : 2 récompenses. S\'il se trompe : 1 récompense pour l\'effort.',
+      ar: 'المجتهد المخلص يُثاب على جهده. إن أصاب: أجران. وإن أخطأ: أجر واحد على الجهد.',
+      en: 'The sincere Mujtahid is rewarded for effort. If correct: 2 rewards. If wrong: 1 reward for the effort.',
+    },
+    points: 2,
+    difficulty: 'medium',
+    category: 'ijtihad-taqlid',
+  },
+  {
+    id: 'usul-taqlid-001',
+    question: {
+      fr: 'Qu\'est-ce que le Taqlid ?',
+      ar: 'ما هو التقليد؟',
+      en: 'What is Taqlid?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'L\'innovation religieuse', ar: 'الابتداع الديني', en: 'Religious innovation' } },
+      { id: 'b', text: { fr: 'Suivre l\'avis d\'un mujtahid sans connaître sa preuve détaillée', ar: 'اتباع قول مجتهد دون معرفة دليله التفصيلي', en: 'Following a mujtahid\'s opinion without knowing his detailed evidence' } },
+      { id: 'c', text: { fr: 'Rejeter tous les savants', ar: 'رفض جميع العلماء', en: 'Rejecting all scholars' } },
+      { id: 'd', text: { fr: 'Faire l\'Ijtihad', ar: 'القيام بالاجتهاد', en: 'Performing Ijtihad' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Le Taqlid est permis (voire obligatoire) pour le non-savant : "Demandez aux gens du Rappel si vous ne savez pas" (16:43). Suivre un madhab est une forme de Taqlid organisé.',
+      ar: 'التقليد جائز (بل واجب) لغير العالم: "فَاسْأَلُوا أَهْلَ الذِّكْرِ إِن كُنتُمْ لَا تَعْلَمُونَ" (النحل:43). واتباع المذهب تقليد منظم.',
+      en: 'Taqlid is permissible (even obligatory) for non-scholars: "Ask the people of knowledge if you don\'t know" (16:43). Following a madhab is organized Taqlid.',
+    },
+    points: 2,
+    difficulty: 'medium',
+    category: 'ijtihad-taqlid',
+  },
+];
+
+// ============================================
 // Assemblage de l'examen COMPLET
 // ============================================
 
 const allQuestions: ExamQuestion[] = [
-  ...sourcesQuestions,        // 4 questions
-  ...ahkamQuestions,          // 3 questions
-  ...interpretationQuestions, // 3 questions
-  ...madhabQuestions,         // 3 questions
-  ...maqasidQuestions,        // 2 questions
-  ...qawaidQuestions,         // 3 questions
-  // Total : 18 questions
+  ...sourcesQuestions,          // 4 questions
+  ...ahkamQuestions,            // 3 questions
+  ...interpretationQuestions,   // 3 questions
+  ...madhabQuestions,           // 3 questions
+  ...maqasidQuestions,          // 2 questions
+  ...qawaidQuestions,           // 3 questions
+  ...maslahIstihsanQuestions,   // 3 questions (NOUVEAU)
+  ...ijtihadTaqlidQuestions,    // 3 questions (NOUVEAU)
+  // Total : 24 questions
 ];
 
 export const examUsulFiqhFinal: ExamConfig = {
@@ -492,28 +646,30 @@ export const examUsulFiqhFinal: ExamConfig = {
     en: 'Complete Exam - Usul al-Fiqh',
   },
   description: {
-    fr: 'Examen de 15 questions sélectionnées aléatoirement parmi une banque de 18 questions. Couvre les fondements du droit islamique.',
-    ar: 'امتحان من 15 سؤالاً يتم اختيارها عشوائياً من بنك يضم 18 سؤالاً. يغطي أصول الفقه.',
-    en: 'Exam with 15 questions randomly selected from a pool of 18. Covers foundations of Islamic law.',
+    fr: 'Examen de 20 questions sélectionnées aléatoirement parmi une banque de 24 questions. Couvre les fondements du droit islamique.',
+    ar: 'امتحان من 20 سؤالاً يتم اختيارها عشوائياً من بنك يضم 24 سؤالاً. يغطي أصول الفقه.',
+    en: 'Exam with 20 questions randomly selected from a pool of 24. Covers foundations of Islamic law.',
   },
   instructions: {
-    fr: 'Vous avez 25 minutes pour répondre à 15 questions. Chaque question a une seule bonne réponse. Un score de 70% est requis pour réussir.',
-    ar: 'لديك 25 دقيقة للإجابة على 15 سؤالاً. لكل سؤال إجابة صحيحة واحدة. يُشترط 70% للنجاح.',
-    en: 'You have 25 minutes to answer 15 questions. Each question has one correct answer. A score of 70% is required to pass.',
+    fr: 'Vous avez 35 minutes pour répondre à 20 questions. Chaque question a une seule bonne réponse. Un score de 70% est requis pour réussir.',
+    ar: 'لديك 35 دقيقة للإجابة على 20 سؤالاً. لكل سؤال إجابة صحيحة واحدة. يُشترط 70% للنجاح.',
+    en: 'You have 35 minutes to answer 20 questions. Each question has one correct answer. A score of 70% is required to pass.',
   },
   courseSlug: 'usul-al-fiqh',
   questionPool: allQuestions,
-  questionsPerExam: 15,
+  questionsPerExam: 20,
   categoryConfig: [
     { category: 'sources', count: 3 },
     { category: 'ahkam', count: 2 },
-    { category: 'interpretation', count: 3 },
-    { category: 'madhab', count: 2 },
+    { category: 'interpretation', count: 2 },
+    { category: 'madhab', count: 3 },
     { category: 'maqasid', count: 2 },
     { category: 'qawaid', count: 3 },
+    { category: 'maslaha-istihsan', count: 3 },
+    { category: 'ijtihad-taqlid', count: 2 },
   ],
   questions: [],
-  duration: 25,
+  duration: 35,
   passingScore: 70,
   maxAttempts: 5,
   shuffleQuestions: true,

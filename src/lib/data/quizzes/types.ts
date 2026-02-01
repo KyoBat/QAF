@@ -74,6 +74,9 @@ export interface Question {
   /** Niveau de difficulté */
   difficulty: Difficulty;
   
+  /** Catégorie (pour quiz de placement) */
+  category?: 'aqeedah' | 'fiqh' | 'seerah' | 'quran' | 'hadith' | 'history';
+  
   /** Texte de la question (trilingue) */
   question: LocalizedText;
   
@@ -103,8 +106,8 @@ export interface Question {
   /** Explication après réponse (trilingue) */
   explanation: LocalizedText;
   
-  /** Référence à la leçon source */
-  reference: LessonReference;
+  /** Référence à la leçon source (optionnel pour les questions de placement) */
+  reference?: LessonReference;
   
   /** Points attribués pour cette question */
   points: number;
@@ -149,7 +152,7 @@ export interface Quiz {
   instructions: LocalizedText;
   
   /** Niveau de difficulté global */
-  level: QuizLevel;
+  level?: QuizLevel;
   
   /** Durée estimée en minutes */
   duration: number;
@@ -172,6 +175,9 @@ export interface Quiz {
   /** Afficher la bonne réponse après erreur */
   showCorrectAnswer: boolean;
   
+  /** Permettre la révision après soumission */
+  allowReview?: boolean;
+  
   /** Liste des questions */
   questions: Question[];
   
@@ -182,7 +188,7 @@ export interface Quiz {
   updatedAt: string;
   
   /** Version du quiz */
-  version: string;
+  version?: string;
 }
 
 // ============================================

@@ -515,17 +515,140 @@ const financeModerneQuestions: ExamQuestion[] = [
 ];
 
 // ============================================
+// Questions - Contrats Spécifiques (NOUVEAU)
+// ============================================
+
+const contratsSpecifiquesQuestions: ExamQuestion[] = [
+  {
+    id: 'muamalat-contrat-spec-001',
+    question: {
+      fr: 'Qu\'est-ce que l\'Ijarah ?',
+      ar: 'ما هي الإجارة؟',
+      en: 'What is Ijarah?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Un prêt avec intérêt', ar: 'قرض بفائدة', en: 'A loan with interest' } },
+      { id: 'b', text: { fr: 'Un contrat de location (bail) permettant l\'usage d\'un bien contre paiement', ar: 'عقد إيجار يسمح بالانتفاع بشيء مقابل أجرة', en: 'A lease contract allowing use of an asset against payment' } },
+      { id: 'c', text: { fr: 'Une vente à tempérament', ar: 'بيع بالتقسيط', en: 'Installment sale' } },
+      { id: 'd', text: { fr: 'Un don', ar: 'هبة', en: 'A gift' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'L\'Ijarah est la location de l\'usufruit (Manfa\'a) d\'un bien. En finance islamique, elle sert de base à l\'Ijarah Muntahia bi-Tamlik (location avec promesse de vente).',
+      ar: 'الإجارة عقد على المنفعة مقابل عوض. وفي التمويل الإسلامي تستخدم في الإجارة المنتهية بالتمليك.',
+      en: 'Ijarah is renting the usufruct (Manfa\'a) of an asset. In Islamic finance, it\'s the basis for Ijarah Muntahia bi-Tamlik (lease-to-own).',
+    },
+    points: 2,
+    difficulty: 'medium',
+    category: 'contrats-specifiques',
+  },
+  {
+    id: 'muamalat-contrat-spec-002',
+    question: {
+      fr: 'Qu\'est-ce que la Mudarabah ?',
+      ar: 'ما هي المضاربة؟',
+      en: 'What is Mudarabah?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Un partenariat où l\'un apporte le capital (Rab al-Mal) et l\'autre le travail (Mudarib)', ar: 'شراكة يقدم فيها أحدهما المال (رب المال) والآخر العمل (المضارب)', en: 'A partnership where one provides capital (Rab al-Mal) and the other work (Mudarib)' } },
+      { id: 'b', text: { fr: 'Un prêt bancaire', ar: 'قرض بنكي', en: 'Bank loan' } },
+      { id: 'c', text: { fr: 'Une vente au comptant', ar: 'بيع نقدي', en: 'Cash sale' } },
+      { id: 'd', text: { fr: 'Un don de charité', ar: 'صدقة', en: 'Charity donation' } },
+    ],
+    correctAnswer: 0,
+    explanation: {
+      fr: 'Dans la Mudarabah, les profits sont partagés selon un ratio convenu ; les pertes sont supportées par le capital (sauf négligence du Mudarib).',
+      ar: 'في المضاربة، الربح يُقسم حسب نسبة متفق عليها؛ والخسارة على رأس المال (إلا إن فرّط المضارب).',
+      en: 'In Mudarabah, profits are shared per agreed ratio; losses are borne by capital (except if Mudarib is negligent).',
+    },
+    points: 2,
+    difficulty: 'medium',
+    category: 'contrats-specifiques',
+  },
+  {
+    id: 'muamalat-contrat-spec-003',
+    question: {
+      fr: 'Qu\'est-ce que la Musharakah ?',
+      ar: 'ما هي المشاركة؟',
+      en: 'What is Musharakah?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Un partenariat où tous les partenaires contribuent au capital ET peuvent participer à la gestion', ar: 'شراكة يساهم فيها كل الشركاء في رأس المال ويمكنهم المشاركة في الإدارة', en: 'A partnership where all partners contribute capital AND can participate in management' } },
+      { id: 'b', text: { fr: 'Un prêt entre amis', ar: 'قرض بين أصدقاء', en: 'Loan between friends' } },
+      { id: 'c', text: { fr: 'Une location', ar: 'إيجار', en: 'A rental' } },
+      { id: 'd', text: { fr: 'Une vente interdite', ar: 'بيع محرم', en: 'A prohibited sale' } },
+    ],
+    correctAnswer: 0,
+    explanation: {
+      fr: 'Contrairement à la Mudarabah, tous les partenaires apportent du capital dans la Musharakah. Profits et pertes sont partagés proportionnellement.',
+      ar: 'على خلاف المضاربة، جميع الشركاء يساهمون برأس المال في المشاركة. والربح والخسارة يُقسمان بالنسبة.',
+      en: 'Unlike Mudarabah, all partners contribute capital in Musharakah. Profits and losses are shared proportionally.',
+    },
+    points: 2,
+    difficulty: 'medium',
+    category: 'contrats-specifiques',
+  },
+  {
+    id: 'muamalat-contrat-spec-004',
+    question: {
+      fr: 'Qu\'est-ce que le Salam ?',
+      ar: 'ما هو السَّلَم؟',
+      en: 'What is Salam?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'La salutation islamique', ar: 'التحية الإسلامية', en: 'Islamic greeting' } },
+      { id: 'b', text: { fr: 'Vente à livraison différée où le prix est payé d\'avance et le bien livré plus tard', ar: 'بيع بتسليم مؤجل حيث يُدفع الثمن مقدمًا والسلعة تُسلَّم لاحقًا', en: 'Forward sale where price is paid upfront and goods delivered later' } },
+      { id: 'c', text: { fr: 'Vente au comptant', ar: 'بيع نقدي', en: 'Cash sale' } },
+      { id: 'd', text: { fr: 'Troc', ar: 'مقايضة', en: 'Barter' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Le Salam est une exception au principe d\'interdiction de vendre ce qu\'on ne possède pas. Utilisé traditionnellement pour les récoltes agricoles.',
+      ar: 'السَّلَم استثناء من منع بيع ما لا يملكه الشخص. استُخدم تقليديًا للمحاصيل الزراعية.',
+      en: 'Salam is an exception to the principle of not selling what one doesn\'t possess. Traditionally used for agricultural crops.',
+    },
+    points: 3,
+    difficulty: 'hard',
+    category: 'contrats-specifiques',
+  },
+  {
+    id: 'muamalat-contrat-spec-005',
+    question: {
+      fr: 'Qu\'est-ce que l\'Istisna\' ?',
+      ar: 'ما هو الاستصناع؟',
+      en: 'What is Istisna\'?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Contrat de fabrication sur mesure où le paiement et la livraison sont différés', ar: 'عقد تصنيع حسب الطلب حيث الثمن والتسليم مؤجلان', en: 'Custom manufacturing contract where payment and delivery are deferred' } },
+      { id: 'b', text: { fr: 'Achat d\'un bien existant', ar: 'شراء سلعة موجودة', en: 'Buying an existing good' } },
+      { id: 'c', text: { fr: 'Donation', ar: 'تبرع', en: 'Donation' } },
+      { id: 'd', text: { fr: 'Prêt d\'argent', ar: 'إقراض مال', en: 'Money lending' } },
+    ],
+    correctAnswer: 0,
+    explanation: {
+      fr: 'L\'Istisna\' permet de commander une fabrication (bâtiment, bateau, machine). Contrairement au Salam, le paiement peut être échelonné.',
+      ar: 'الاستصناع يسمح بطلب تصنيع (بناء، سفينة، آلة). على خلاف السلم، يمكن تقسيط الثمن.',
+      en: 'Istisna\' allows ordering a manufacturing (building, ship, machine). Unlike Salam, payment can be installments.',
+    },
+    points: 3,
+    difficulty: 'hard',
+    category: 'contrats-specifiques',
+  },
+];
+
+// ============================================
 // Assemblage de l'examen COMPLET
 // ============================================
 
 const allQuestions: ExamQuestion[] = [
-  ...principesQuestions,       // 3 questions
-  ...venteQuestions,           // 3 questions
-  ...ribaQuestions,            // 4 questions
-  ...contratsQuestions,        // 4 questions
-  ...interdictionsQuestions,   // 4 questions
-  ...financeModerneQuestions,  // 2 questions
-  // Total : 20 questions
+  ...principesQuestions,           // 3 questions
+  ...venteQuestions,               // 3 questions
+  ...ribaQuestions,                // 4 questions
+  ...contratsQuestions,            // 4 questions
+  ...interdictionsQuestions,       // 4 questions
+  ...financeModerneQuestions,      // 2 questions
+  ...contratsSpecifiquesQuestions, // 5 questions (NOUVEAU)
+  // Total : 25 questions
 ];
 
 export const examFiqhMuamalatFinal: ExamConfig = {
@@ -538,18 +661,18 @@ export const examFiqhMuamalatFinal: ExamConfig = {
     en: 'Complete Exam - Fiqh Muamalat',
   },
   description: {
-    fr: 'Examen de 16 questions sélectionnées aléatoirement parmi une banque de 20 questions. Couvre les transactions islamiques.',
-    ar: 'امتحان من 16 سؤالاً يتم اختيارها عشوائياً من بنك يضم 20 سؤالاً. يغطي المعاملات الإسلامية.',
-    en: 'Exam with 16 questions randomly selected from a pool of 20. Covers Islamic transactions.',
+    fr: 'Examen de 20 questions sélectionnées aléatoirement parmi une banque de 25 questions. Couvre les transactions islamiques.',
+    ar: 'امتحان من 20 سؤالاً يتم اختيارها عشوائياً من بنك يضم 25 سؤالاً. يغطي المعاملات الإسلامية.',
+    en: 'Exam with 20 questions randomly selected from a pool of 25. Covers Islamic transactions.',
   },
   instructions: {
-    fr: 'Vous avez 25 minutes pour répondre à 16 questions. Chaque question a une seule bonne réponse. Un score de 70% est requis pour réussir.',
-    ar: 'لديك 25 دقيقة للإجابة على 16 سؤالاً. لكل سؤال إجابة صحيحة واحدة. يُشترط 70% للنجاح.',
-    en: 'You have 25 minutes to answer 16 questions. Each question has one correct answer. A score of 70% is required to pass.',
+    fr: 'Vous avez 30 minutes pour répondre à 20 questions. Chaque question a une seule bonne réponse. Un score de 70% est requis pour réussir.',
+    ar: 'لديك 30 دقيقة للإجابة على 20 سؤالاً. لكل سؤال إجابة صحيحة واحدة. يُشترط 70% للنجاح.',
+    en: 'You have 30 minutes to answer 20 questions. Each question has one correct answer. A score of 70% is required to pass.',
   },
   courseSlug: 'fiqh-muamalat',
   questionPool: allQuestions,
-  questionsPerExam: 16,
+  questionsPerExam: 20,
   categoryConfig: [
     { category: 'principes', count: 2 },
     { category: 'vente', count: 3 },
@@ -557,9 +680,10 @@ export const examFiqhMuamalatFinal: ExamConfig = {
     { category: 'contrats', count: 3 },
     { category: 'interdictions', count: 3 },
     { category: 'finance-moderne', count: 2 },
+    { category: 'contrats-specifiques', count: 4 },
   ],
   questions: [],
-  duration: 25,
+  duration: 30,
   passingScore: 70,
   maxAttempts: 5,
   shuffleQuestions: true,

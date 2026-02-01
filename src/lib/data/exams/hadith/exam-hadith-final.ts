@@ -584,17 +584,209 @@ const critiqueQuestions: ExamQuestion[] = [
 ];
 
 // ============================================
+// Questions - Hadiths Célèbres (NOUVEAU)
+// ============================================
+
+const hadithsCelebresQuestions: ExamQuestion[] = [
+  {
+    id: 'hadith-celebre-001',
+    question: {
+      fr: 'Quel hadith commence par "Les actions ne valent que par les intentions" ?',
+      ar: 'أي حديث يبدأ بـ "إنما الأعمال بالنيات"؟',
+      en: 'Which hadith begins with "Actions are judged by intentions"?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Hadith an-Niyyah (rapporté par \'Umar)', ar: 'حديث النية (رواه عمر)', en: 'Hadith an-Niyyah (narrated by \'Umar)' } },
+      { id: 'b', text: { fr: 'Hadith Jibril', ar: 'حديث جبريل', en: 'Hadith Jibril' } },
+      { id: 'c', text: { fr: 'Hadith an-Nasiha', ar: 'حديث النصيحة', en: 'Hadith an-Nasiha' } },
+      { id: 'd', text: { fr: 'Hadith du jeûne', ar: 'حديث الصيام', en: 'Hadith of fasting' } },
+    ],
+    correctAnswer: 0,
+    explanation: {
+      fr: 'Ce hadith, rapporté par \'Umar رضي الله عنه, est l\'un des plus importants. L\'imam Shafi\'i dit qu\'il constitue un tiers de l\'Islam car toute action en dépend.',
+      ar: 'هذا الحديث، رواه عمر رضي الله عنه، من أهم الأحاديث. قال الشافعي إنه ثلث العلم لأن كل عمل يتوقف عليه.',
+      en: 'This hadith, narrated by \'Umar رضي الله عنه, is one of the most important. Imam Shafi\'i said it constitutes a third of knowledge as all actions depend on it.',
+    },
+    points: 2,
+    difficulty: 'easy',
+    category: 'hadiths-celebres',
+  },
+  {
+    id: 'hadith-celebre-002',
+    question: {
+      fr: 'Dans le hadith de Jibril, combien de piliers de l\'Islam sont mentionnés ?',
+      ar: 'في حديث جبريل، كم ركنًا من أركان الإسلام ذُكر؟',
+      en: 'In the hadith of Jibril, how many pillars of Islam are mentioned?',
+    },
+    options: [
+      { id: 'a', text: { fr: '3 piliers', ar: '3 أركان', en: '3 pillars' } },
+      { id: 'b', text: { fr: '4 piliers', ar: '4 أركان', en: '4 pillars' } },
+      { id: 'c', text: { fr: '5 piliers', ar: '5 أركان', en: '5 pillars' } },
+      { id: 'd', text: { fr: '6 piliers', ar: '6 أركان', en: '6 pillars' } },
+    ],
+    correctAnswer: 2,
+    explanation: {
+      fr: 'Le hadith de Jibril enseigne les 5 piliers de l\'Islam (Shahada, Salat, Zakat, Siyam, Hajj), les 6 piliers de l\'Iman, et le concept d\'Ihsan.',
+      ar: 'حديث جبريل يعلّم أركان الإسلام الخمسة (الشهادة، الصلاة، الزكاة، الصيام، الحج)، وأركان الإيمان الستة، ومفهوم الإحسان.',
+      en: 'The hadith of Jibril teaches the 5 pillars of Islam (Shahada, Salat, Zakat, Siyam, Hajj), the 6 pillars of Iman, and the concept of Ihsan.',
+    },
+    points: 2,
+    difficulty: 'easy',
+    category: 'hadiths-celebres',
+  },
+  {
+    id: 'hadith-celebre-003',
+    question: {
+      fr: 'Quelle est la définition de l\'Ihsan selon le hadith de Jibril ?',
+      ar: 'ما تعريف الإحسان حسب حديث جبريل؟',
+      en: 'What is the definition of Ihsan according to the hadith of Jibril?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Faire beaucoup de bonnes actions', ar: 'فعل كثير من الحسنات', en: 'Doing many good deeds' } },
+      { id: 'b', text: { fr: 'Adorer Allah comme si tu Le voyais ; si tu ne Le vois pas, sache qu\'Il te voit', ar: 'أن تعبد الله كأنك تراه، فإن لم تكن تراه فإنه يراك', en: 'Worship Allah as if you see Him; if you don\'t see Him, know that He sees you' } },
+      { id: 'c', text: { fr: 'Donner beaucoup en charité', ar: 'إعطاء الكثير في الصدقة', en: 'Giving a lot in charity' } },
+      { id: 'd', text: { fr: 'Prier toute la nuit', ar: 'الصلاة طوال الليل', en: 'Praying all night' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'L\'Ihsan est le plus haut niveau de la religion. C\'est l\'excellence dans l\'adoration, où le croyant a pleine conscience de la présence divine.',
+      ar: 'الإحسان أعلى مراتب الدين. وهو الإتقان في العبادة، حيث يستشعر المؤمن الحضور الإلهي.',
+      en: 'Ihsan is the highest level of religion. It\'s excellence in worship, where the believer has full consciousness of divine presence.',
+    },
+    points: 2,
+    difficulty: 'medium',
+    category: 'hadiths-celebres',
+  },
+  {
+    id: 'hadith-celebre-004',
+    question: {
+      fr: '"La religion, c\'est le bon conseil (an-Nasiha)." Envers qui le Prophète ﷺ a-t-il mentionné le conseil ?',
+      ar: '"الدين النصيحة." لمن ذكر النبي ﷺ النصيحة؟',
+      en: '"Religion is sincere advice (an-Nasiha)." To whom did the Prophet ﷺ mention advice?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Les gouvernants uniquement', ar: 'الحكام فقط', en: 'Rulers only' } },
+      { id: 'b', text: { fr: 'Allah, Son Livre, Son Messager, les dirigeants musulmans, et les musulmans en général', ar: 'لله، ولكتابه، ولرسوله، ولأئمة المسلمين وعامتهم', en: 'Allah, His Book, His Messenger, Muslim leaders, and Muslims in general' } },
+      { id: 'c', text: { fr: 'La famille seulement', ar: 'العائلة فقط', en: 'Family only' } },
+      { id: 'd', text: { fr: 'Les non-musulmans', ar: 'غير المسلمين', en: 'Non-Muslims' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Le conseil est dû à 5 catégories : Allah (adorer sincèrement), Son Livre (le réciter et appliquer), Son Messager (suivre sa Sunna), les dirigeants (les conseiller), et les musulmans (les aimer et les aider).',
+      ar: 'النصيحة لخمسة: لله (عبادته بإخلاص)، ولكتابه (تلاوته وتطبيقه)، ولرسوله (اتباع سنته)، ولأئمة المسلمين (نصحهم)، وللمسلمين (محبتهم ومساعدتهم).',
+      en: 'Advice is due to 5 categories: Allah (worship sincerely), His Book (recite and apply), His Messenger (follow his Sunnah), leaders (advise them), and Muslims (love and help them).',
+    },
+    points: 2,
+    difficulty: 'medium',
+    category: 'hadiths-celebres',
+  },
+  {
+    id: 'hadith-celebre-005',
+    question: {
+      fr: '"Laisse ce qui te fait douter pour ce qui ne te fait pas douter." Quel principe ce hadith enseigne-t-il ?',
+      ar: '"دع ما يريبك إلى ما لا يريبك." ما المبدأ الذي يعلمه هذا الحديث؟',
+      en: '"Leave what makes you doubt for what doesn\'t." What principle does this hadith teach?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'La Wara\' (scrupule religieux) et la prudence dans les affaires douteuses', ar: 'الورع والحذر في الأمور المشتبهة', en: 'Wara\' (religious scrupulousness) and caution in doubtful matters' } },
+      { id: 'b', text: { fr: 'Éviter tout ce qui est halal', ar: 'تجنب كل ما هو حلال', en: 'Avoid everything halal' } },
+      { id: 'c', text: { fr: 'Ne jamais prendre de décision', ar: 'عدم اتخاذ قرار أبدًا', en: 'Never make decisions' } },
+      { id: 'd', text: { fr: 'Suivre ses désirs', ar: 'اتباع الأهواء', en: 'Follow one\'s desires' } },
+    ],
+    correctAnswer: 0,
+    explanation: {
+      fr: 'Ce hadith enseigne la Wara\' : éviter le douteux pour protéger sa religion. C\'est lié au hadith sur le halal, haram et les zones grises.',
+      ar: 'يعلم هذا الحديث الورع: تجنب المشتبهات لحماية الدين. وهو مرتبط بحديث الحلال والحرام والشبهات.',
+      en: 'This hadith teaches Wara\': avoiding doubtful matters to protect one\'s religion. It\'s linked to the hadith about halal, haram, and grey areas.',
+    },
+    points: 2,
+    difficulty: 'medium',
+    category: 'hadiths-celebres',
+  },
+  {
+    id: 'hadith-celebre-006',
+    question: {
+      fr: '"Le fort n\'est pas celui qui terrasse les gens, mais celui qui se maîtrise lors de la colère." Ce hadith concerne quel sujet ?',
+      ar: '"ليس الشديد بالصُّرَعة، إنما الشديد الذي يملك نفسه عند الغضب." هذا الحديث يتعلق بأي موضوع؟',
+      en: '"The strong is not the one who wrestles people down, but the one who controls himself in anger." This hadith is about?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'La force physique', ar: 'القوة الجسدية', en: 'Physical strength' } },
+      { id: 'b', text: { fr: 'La maîtrise de soi et la gestion de la colère', ar: 'ضبط النفس وإدارة الغضب', en: 'Self-control and anger management' } },
+      { id: 'c', text: { fr: 'Les arts martiaux', ar: 'الفنون القتالية', en: 'Martial arts' } },
+      { id: 'd', text: { fr: 'Le sport', ar: 'الرياضة', en: 'Sports' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Ce hadith redéfinit la vraie force : c\'est la maîtrise de soi, pas la force physique. Le croyant doit contrôler sa colère.',
+      ar: 'يعيد هذا الحديث تعريف القوة الحقيقية: ضبط النفس، لا القوة الجسدية. يجب على المؤمن التحكم في غضبه.',
+      en: 'This hadith redefines true strength: it\'s self-control, not physical power. The believer must control their anger.',
+    },
+    points: 2,
+    difficulty: 'easy',
+    category: 'hadiths-celebres',
+  },
+  {
+    id: 'hadith-celebre-007',
+    question: {
+      fr: '"Aucun de vous ne croit vraiment tant qu\'il n\'aime pas pour son frère ce qu\'il aime pour lui-même." Ce hadith enseigne quel principe ?',
+      ar: '"لا يؤمن أحدكم حتى يحب لأخيه ما يحب لنفسه." ما المبدأ الذي يعلمه هذا الحديث؟',
+      en: '"None of you truly believes until he loves for his brother what he loves for himself." What principle does this teach?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'L\'égoïsme', ar: 'الأنانية', en: 'Selfishness' } },
+      { id: 'b', text: { fr: 'La fraternité islamique et l\'altruisme', ar: 'الأخوة الإسلامية والإيثار', en: 'Islamic brotherhood and altruism' } },
+      { id: 'c', text: { fr: 'La compétition', ar: 'المنافسة', en: 'Competition' } },
+      { id: 'd', text: { fr: 'L\'isolement', ar: 'العزلة', en: 'Isolation' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Ce hadith établit la fraternité islamique. La foi complète inclut l\'amour du bien pour les autres. C\'est un signe de foi parfaite.',
+      ar: 'يؤسس هذا الحديث للأخوة الإسلامية. الإيمان الكامل يشمل حب الخير للآخرين. وهو علامة كمال الإيمان.',
+      en: 'This hadith establishes Islamic brotherhood. Complete faith includes loving good for others. It\'s a sign of perfect faith.',
+    },
+    points: 2,
+    difficulty: 'easy',
+    category: 'hadiths-celebres',
+  },
+  {
+    id: 'hadith-celebre-008',
+    question: {
+      fr: '"Attache ta chamelle, puis remets-toi en Allah." Ce hadith enseigne quel équilibre ?',
+      ar: '"اعقلها وتوكل." هذا الحديث يعلم أي توازن؟',
+      en: '"Tie your camel, then put your trust in Allah." This hadith teaches what balance?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Aucun effort n\'est nécessaire', ar: 'لا يلزم أي جهد', en: 'No effort is needed' } },
+      { id: 'b', text: { fr: 'L\'équilibre entre prendre les moyens (Asbab) et le Tawakkul (confiance en Allah)', ar: 'التوازن بين الأخذ بالأسباب والتوكل على الله', en: 'Balance between taking means (Asbab) and Tawakkul (trust in Allah)' } },
+      { id: 'c', text: { fr: 'Se fier uniquement à ses efforts', ar: 'الاعتماد على الجهد فقط', en: 'Rely only on one\'s efforts' } },
+      { id: 'd', text: { fr: 'Ignorer les moyens matériels', ar: 'تجاهل الوسائل المادية', en: 'Ignore material means' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Le Tawakkul vrai n\'est pas la passivité. On doit prendre tous les moyens permis, puis s\'en remettre à Allah pour le résultat.',
+      ar: 'التوكل الحقيقي ليس السلبية. يجب الأخذ بجميع الأسباب المشروعة، ثم التوكل على الله في النتيجة.',
+      en: 'True Tawakkul is not passivity. One must take all permitted means, then rely on Allah for the outcome.',
+    },
+    points: 2,
+    difficulty: 'medium',
+    category: 'hadiths-celebres',
+  },
+];
+
+// ============================================
 // Assemblage de l'examen COMPLET
 // ============================================
 
 const allQuestions: ExamQuestion[] = [
-  ...definitionsQuestions,   // 4 questions
-  ...classificationQuestions, // 5 questions
-  ...isnadQuestions,         // 4 questions
-  ...recueilsQuestions,      // 4 questions
-  ...savantsQuestions,       // 3 questions
-  ...critiqueQuestions,      // 3 questions
-  // Total : 23 questions
+  ...definitionsQuestions,       // 4 questions
+  ...classificationQuestions,    // 5 questions
+  ...isnadQuestions,             // 4 questions
+  ...recueilsQuestions,          // 4 questions
+  ...savantsQuestions,           // 3 questions
+  ...critiqueQuestions,          // 3 questions
+  ...hadithsCelebresQuestions,   // 8 questions (NOUVEAU)
+  // Total : 31 questions
 ];
 
 export const examHadithFinal: ExamConfig = {
@@ -607,28 +799,29 @@ export const examHadithFinal: ExamConfig = {
     en: 'Complete Exam - Hadith Sciences',
   },
   description: {
-    fr: 'Examen de 20 questions sélectionnées aléatoirement parmi une banque de 23 questions. Couvre Mustalah al-Hadith.',
-    ar: 'امتحان من 20 سؤالاً يتم اختيارها عشوائياً من بنك يضم 23 سؤالاً. يغطي مصطلح الحديث.',
-    en: 'Exam with 20 questions randomly selected from a pool of 23. Covers Mustalah al-Hadith.',
+    fr: 'Examen de 25 questions sélectionnées aléatoirement parmi une banque de 31 questions. Couvre Mustalah al-Hadith et les hadiths célèbres.',
+    ar: 'امتحان من 25 سؤالاً يتم اختيارها عشوائياً من بنك يضم 31 سؤالاً. يغطي مصطلح الحديث والأحاديث المشهورة.',
+    en: 'Exam with 25 questions randomly selected from a pool of 31. Covers Mustalah al-Hadith and famous hadiths.',
   },
   instructions: {
-    fr: 'Vous avez 30 minutes pour répondre à 20 questions. Chaque question a une seule bonne réponse. Un score de 70% est requis pour réussir.',
-    ar: 'لديك 30 دقيقة للإجابة على 20 سؤالاً. لكل سؤال إجابة صحيحة واحدة. يُشترط 70% للنجاح.',
-    en: 'You have 30 minutes to answer 20 questions. Each question has one correct answer. A score of 70% is required to pass.',
+    fr: 'Vous avez 40 minutes pour répondre à 25 questions. Chaque question a une seule bonne réponse. Un score de 70% est requis pour réussir.',
+    ar: 'لديك 40 دقيقة للإجابة على 25 سؤالاً. لكل سؤال إجابة صحيحة واحدة. يُشترط 70% للنجاح.',
+    en: 'You have 40 minutes to answer 25 questions. Each question has one correct answer. A score of 70% is required to pass.',
   },
   courseSlug: 'hadith',
   questionPool: allQuestions,
-  questionsPerExam: 20,
+  questionsPerExam: 25,
   categoryConfig: [
     { category: 'definitions', count: 3 },
-    { category: 'classification', count: 5 },
-    { category: 'isnad', count: 4 },
+    { category: 'classification', count: 4 },
+    { category: 'isnad', count: 3 },
     { category: 'recueils', count: 3 },
     { category: 'savants', count: 2 },
     { category: 'critique', count: 3 },
+    { category: 'hadiths-celebres', count: 7 },
   ],
   questions: [],
-  duration: 30,
+  duration: 40,
   passingScore: 70,
   maxAttempts: 5,
   shuffleQuestions: true,

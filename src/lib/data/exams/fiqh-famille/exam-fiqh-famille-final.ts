@@ -492,6 +492,188 @@ const filiationQuestions: ExamQuestion[] = [
 ];
 
 // ============================================
+// Questions - 'Iddah (Période d'attente) - NOUVEAU
+// ============================================
+
+const iddahQuestions: ExamQuestion[] = [
+  {
+    id: 'famille-iddah-001',
+    question: {
+      fr: 'Qu\'est-ce que la \'Iddah ?',
+      ar: 'ما هي العدة؟',
+      en: 'What is the \'Iddah?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Période d\'attente obligatoire après divorce ou décès du mari avant remariage', ar: 'فترة انتظار واجبة بعد الطلاق أو وفاة الزوج قبل الزواج مجددًا', en: 'Mandatory waiting period after divorce or husband\'s death before remarriage' } },
+      { id: 'b', text: { fr: 'Le temps des fiançailles', ar: 'فترة الخطوبة', en: 'Engagement period' } },
+      { id: 'c', text: { fr: 'La cérémonie de mariage', ar: 'حفل الزفاف', en: 'Wedding ceremony' } },
+      { id: 'd', text: { fr: 'La période de grossesse', ar: 'فترة الحمل', en: 'Pregnancy period' } },
+    ],
+    correctAnswer: 0,
+    explanation: {
+      fr: 'La \'Iddah protège la lignée (savoir si la femme est enceinte) et donne un temps de réflexion. Elle est obligatoire par le Coran.',
+      ar: 'العدة تحمي النسب (معرفة إن كانت المرأة حاملاً) وتعطي فرصة للتفكير. وهي واجبة بنص القرآن.',
+      en: 'The \'Iddah protects lineage (knowing if woman is pregnant) and gives time for reflection. It\'s obligatory by Quran.',
+    },
+    points: 2,
+    difficulty: 'easy',
+    category: 'iddah',
+  },
+  {
+    id: 'famille-iddah-002',
+    question: {
+      fr: 'Quelle est la durée de la \'Iddah pour une femme divorcée qui a des menstruations ?',
+      ar: 'كم مدة عدة المطلقة التي تحيض؟',
+      en: 'What is the \'Iddah duration for a divorced woman who menstruates?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Un mois', ar: 'شهر واحد', en: 'One month' } },
+      { id: 'b', text: { fr: 'Trois cycles menstruels (Quru\')', ar: 'ثلاثة قروء', en: 'Three menstrual cycles (Quru\')' } },
+      { id: 'c', text: { fr: 'Six mois', ar: 'ستة أشهر', en: 'Six months' } },
+      { id: 'd', text: { fr: 'Un an', ar: 'سنة', en: 'One year' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Allah dit : "Les femmes divorcées observeront un délai d\'attente de trois Quru\'" (2:228). Les savants divergent si Quru\' = menstruation ou pureté.',
+      ar: 'قال تعالى: "وَالْمُطَلَّقَاتُ يَتَرَبَّصْنَ بِأَنفُسِهِنَّ ثَلَاثَةَ قُرُوءٍ" (البقرة:228). اختلف العلماء: هل القرء الحيض أم الطهر.',
+      en: 'Allah says: "Divorced women shall wait for three Quru\'" (2:228). Scholars differ if Quru\' = menstruation or purity.',
+    },
+    points: 2,
+    difficulty: 'medium',
+    category: 'iddah',
+  },
+  {
+    id: 'famille-iddah-003',
+    question: {
+      fr: 'Quelle est la \'Iddah d\'une veuve (mari décédé) ?',
+      ar: 'ما عدة المتوفى عنها زوجها؟',
+      en: 'What is the \'Iddah for a widow (husband deceased)?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Trois mois', ar: 'ثلاثة أشهر', en: 'Three months' } },
+      { id: 'b', text: { fr: 'Pas de \'Iddah', ar: 'لا عدة', en: 'No \'Iddah' } },
+      { id: 'c', text: { fr: 'Quatre mois et dix jours', ar: 'أربعة أشهر وعشرة أيام', en: 'Four months and ten days' } },
+      { id: 'd', text: { fr: 'Un an', ar: 'سنة كاملة', en: 'One year' } },
+    ],
+    correctAnswer: 2,
+    explanation: {
+      fr: '"Celles dont les maris décèdent observeront une période de quatre mois et dix jours" (2:234). La veuve enceinte attend jusqu\'à l\'accouchement.',
+      ar: '"وَالَّذِينَ يُتَوَفَّوْنَ مِنكُمْ... يَتَرَبَّصْنَ بِأَنفُسِهِنَّ أَرْبَعَةَ أَشْهُرٍ وَعَشْرًا" (البقرة:234). والحامل تنتظر حتى تضع.',
+      en: '"Those whose husbands die... shall wait for four months and ten days" (2:234). A pregnant widow waits until delivery.',
+    },
+    points: 2,
+    difficulty: 'medium',
+    category: 'iddah',
+  },
+];
+
+// ============================================
+// Questions - Khul' (Demande de divorce par la femme) - NOUVEAU
+// ============================================
+
+const khulQuestions: ExamQuestion[] = [
+  {
+    id: 'famille-khul-001',
+    question: {
+      fr: 'Qu\'est-ce que le Khul\' ?',
+      ar: 'ما هو الخلع؟',
+      en: 'What is Khul\'?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Divorce à l\'initiative de la femme en restituant une compensation (souvent le Mahr)', ar: 'طلاق بطلب الزوجة مقابل تعويض (غالبًا المهر)', en: 'Divorce initiated by wife by returning compensation (often the Mahr)' } },
+      { id: 'b', text: { fr: 'Divorce à l\'initiative du mari', ar: 'طلاق بطلب الزوج', en: 'Divorce initiated by husband' } },
+      { id: 'c', text: { fr: 'Annulation du mariage par le juge', ar: 'فسخ العقد من القاضي', en: 'Marriage annulment by judge' } },
+      { id: 'd', text: { fr: 'Séparation temporaire', ar: 'انفصال مؤقت', en: 'Temporary separation' } },
+    ],
+    correctAnswer: 0,
+    explanation: {
+      fr: 'Le Khul\' permet à la femme de demander la séparation si elle ne peut plus vivre avec son mari. Elle restitue généralement le Mahr ou une partie.',
+      ar: 'الخلع يسمح للمرأة بطلب الانفصال إذا تعذرت العشرة. وتردّ عادةً المهر أو جزءًا منه.',
+      en: 'Khul\' allows the wife to request separation if she cannot live with her husband. She usually returns the Mahr or part of it.',
+    },
+    points: 2,
+    difficulty: 'medium',
+    category: 'khul',
+  },
+  {
+    id: 'famille-khul-002',
+    question: {
+      fr: 'Le consentement du mari est-il nécessaire pour le Khul\' ?',
+      ar: 'هل موافقة الزوج ضرورية للخلع؟',
+      en: 'Is the husband\'s consent necessary for Khul\'?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Oui absolument, il peut refuser indéfiniment', ar: 'نعم تمامًا، ويمكنه الرفض للأبد', en: 'Yes absolutely, he can refuse indefinitely' } },
+      { id: 'b', text: { fr: 'Non, la femme décide seule', ar: 'لا، المرأة تقرر وحدها', en: 'No, woman decides alone' } },
+      { id: 'c', text: { fr: 'Avis majoritaire : oui ; mais le juge peut l\'ordonner si le mari abuse (avis Hanbali et pratique moderne)', ar: 'الجمهور: نعم؛ لكن القاضي يأمر به إذا تعسف الزوج (قول الحنابلة والممارسة الحديثة)', en: 'Majority: yes; but judge can order it if husband abuses (Hanbali view and modern practice)' } },
+      { id: 'd', text: { fr: 'Uniquement devant témoins', ar: 'أمام الشهود فقط', en: 'Only before witnesses' } },
+    ],
+    correctAnswer: 2,
+    explanation: {
+      fr: 'L\'Islam protège la femme du maintien forcé dans un mariage nuisible. Si le mari refuse sans raison, le juge peut prononcer le Khul\'.',
+      ar: 'الإسلام يحمي المرأة من البقاء في زواج مضر. إذا رفض الزوج بلا سبب، يحكم القاضي بالخلع.',
+      en: 'Islam protects women from being kept in harmful marriages. If husband refuses without reason, judge can pronounce Khul\'.',
+    },
+    points: 3,
+    difficulty: 'hard',
+    category: 'khul',
+  },
+];
+
+// ============================================
+// Questions - Types de Talaq (Divorce) - NOUVEAU
+// ============================================
+
+const typeTalaqQuestions: ExamQuestion[] = [
+  {
+    id: 'famille-talaq-type-001',
+    question: {
+      fr: 'Quelle est la différence entre Talaq Raj\'i et Talaq Ba\'in ?',
+      ar: 'ما الفرق بين الطلاق الرجعي والبائن؟',
+      en: 'What is the difference between Talaq Raj\'i and Talaq Ba\'in?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Aucune différence', ar: 'لا فرق', en: 'No difference' } },
+      { id: 'b', text: { fr: 'Raj\'i : le mari peut reprendre sa femme pendant la \'Iddah sans nouveau contrat ; Ba\'in : nouveau contrat requis', ar: 'الرجعي: يمكن للزوج مراجعة زوجته في العدة دون عقد جديد؛ البائن: يتطلب عقدًا جديدًا', en: 'Raj\'i: husband can take wife back during \'Iddah without new contract; Ba\'in: new contract required' } },
+      { id: 'c', text: { fr: 'Raj\'i est interdit', ar: 'الرجعي محرم', en: 'Raj\'i is forbidden' } },
+      { id: 'd', text: { fr: 'Ba\'in n\'existe pas', ar: 'البائن غير موجود', en: 'Ba\'in doesn\'t exist' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Après le 1er ou 2ème divorce (Raj\'i), le mari peut reprendre sa femme. Après le 3ème (Ba\'in Kubra), elle doit épouser un autre puis divorcer avant de revenir.',
+      ar: 'بعد الطلاق الأول أو الثاني (الرجعي)، يمكن للزوج المراجعة. بعد الثالث (البائن الكبرى)، يجب أن تتزوج آخر ثم تطلق قبل العودة.',
+      en: 'After 1st or 2nd divorce (Raj\'i), husband can take wife back. After 3rd (Ba\'in Kubra), she must marry another then divorce before returning.',
+    },
+    points: 3,
+    difficulty: 'hard',
+    category: 'divorce-types',
+  },
+  {
+    id: 'famille-talaq-type-002',
+    question: {
+      fr: 'Qu\'est-ce que le Talaq Sunni (selon la Sunna) ?',
+      ar: 'ما هو الطلاق السني؟',
+      en: 'What is Talaq Sunni (according to Sunnah)?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Prononcer 3 divorces d\'un coup', ar: 'إيقاع ثلاث طلقات دفعة واحدة', en: 'Pronouncing 3 divorces at once' } },
+      { id: 'b', text: { fr: 'Divorcer pendant les menstrues', ar: 'الطلاق أثناء الحيض', en: 'Divorcing during menstruation' } },
+      { id: 'c', text: { fr: 'Un seul divorce pendant la pureté (sans rapport), puis laisser passer la \'Iddah', ar: 'طلقة واحدة في طهر لم يمسها فيه، ثم تركها حتى تنقضي العدة', en: 'One divorce during purity (without intercourse), then let \'Iddah pass' } },
+      { id: 'd', text: { fr: 'Divorcer en colère', ar: 'الطلاق في الغضب', en: 'Divorcing in anger' } },
+    ],
+    correctAnswer: 2,
+    explanation: {
+      fr: 'Le divorce selon la Sunna laisse une porte ouverte à la réconciliation. Prononcer les 3 à la fois (Talaq Bid\'i) est blâmable et irrévocable.',
+      ar: 'الطلاق السني يترك مجالاً للمراجعة. إيقاع الثلاث دفعة واحدة (الطلاق البدعي) مذموم وبائن.',
+      en: 'Sunnah divorce leaves room for reconciliation. Pronouncing all 3 at once (Talaq Bid\'i) is blameworthy and irrevocable.',
+    },
+    points: 2,
+    difficulty: 'medium',
+    category: 'divorce-types',
+  },
+];
+
+// ============================================
 // Assemblage de l'examen COMPLET
 // ============================================
 
@@ -502,7 +684,10 @@ const allQuestions: ExamQuestion[] = [
   ...hadanaQuestions,          // 2 questions
   ...heritageQuestions,        // 4 questions
   ...filiationQuestions,       // 2 questions
-  // Total : 19 questions
+  ...iddahQuestions,           // 3 questions (NOUVEAU)
+  ...khulQuestions,            // 2 questions (NOUVEAU)
+  ...typeTalaqQuestions,       // 2 questions (NOUVEAU)
+  // Total : 26 questions
 ];
 
 export const examFiqhFamilleFinal: ExamConfig = {
@@ -515,18 +700,18 @@ export const examFiqhFamilleFinal: ExamConfig = {
     en: 'Complete Exam - Fiqh Family',
   },
   description: {
-    fr: 'Examen de 15 questions sélectionnées aléatoirement parmi une banque de 19 questions. Couvre le droit de la famille islamique.',
-    ar: 'امتحان من 15 سؤالاً يتم اختيارها عشوائياً من بنك يضم 19 سؤالاً. يغطي فقه الأسرة.',
-    en: 'Exam with 15 questions randomly selected from a pool of 19. Covers Islamic family law.',
+    fr: 'Examen de 20 questions sélectionnées aléatoirement parmi une banque de 26 questions. Couvre le droit de la famille islamique.',
+    ar: 'امتحان من 20 سؤالاً يتم اختيارها عشوائياً من بنك يضم 26 سؤالاً. يغطي فقه الأسرة.',
+    en: 'Exam with 20 questions randomly selected from a pool of 26. Covers Islamic family law.',
   },
   instructions: {
-    fr: 'Vous avez 25 minutes pour répondre à 15 questions. Chaque question a une seule bonne réponse. Un score de 70% est requis pour réussir.',
-    ar: 'لديك 25 دقيقة للإجابة على 15 سؤالاً. لكل سؤال إجابة صحيحة واحدة. يُشترط 70% للنجاح.',
-    en: 'You have 25 minutes to answer 15 questions. Each question has one correct answer. A score of 70% is required to pass.',
+    fr: 'Vous avez 35 minutes pour répondre à 20 questions. Chaque question a une seule bonne réponse. Un score de 70% est requis pour réussir.',
+    ar: 'لديك 35 دقيقة للإجابة على 20 سؤالاً. لكل سؤال إجابة صحيحة واحدة. يُشترط 70% للنجاح.',
+    en: 'You have 35 minutes to answer 20 questions. Each question has one correct answer. A score of 70% is required to pass.',
   },
   courseSlug: 'fiqh-famille',
   questionPool: allQuestions,
-  questionsPerExam: 15,
+  questionsPerExam: 20,
   categoryConfig: [
     { category: 'mariage', count: 3 },
     { category: 'droits', count: 2 },
@@ -534,9 +719,12 @@ export const examFiqhFamilleFinal: ExamConfig = {
     { category: 'hadana', count: 2 },
     { category: 'heritage', count: 3 },
     { category: 'filiation', count: 2 },
+    { category: 'iddah', count: 2 },
+    { category: 'khul', count: 2 },
+    { category: 'divorce-types', count: 1 },
   ],
   questions: [],
-  duration: 25,
+  duration: 35,
   passingScore: 70,
   maxAttempts: 5,
   shuffleQuestions: true,

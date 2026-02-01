@@ -606,17 +606,248 @@ const influenceQuestions: ExamQuestion[] = [
 ];
 
 // ============================================
+// Questions - Ouvrages Principaux (NOUVEAU)
+// ============================================
+
+const ouvragesQuestions: ExamQuestion[] = [
+  {
+    id: 'imams-ouvrage-001',
+    question: {
+      fr: 'Quel est le principal ouvrage de l\'Imam Malik ?',
+      ar: 'ما أهم مؤلفات الإمام مالك؟',
+      en: 'What is Imam Malik\'s main book?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Al-Muwatta (Le Chemin Aplani) - premier recueil de hadith et fiqh organisé', ar: 'الموطأ - أول مصنف في الحديث والفقه المنظم', en: 'Al-Muwatta (The Trodden Path) - first organized hadith and fiqh compilation' } },
+      { id: 'b', text: { fr: 'Al-Umm', ar: 'الأم', en: 'Al-Umm' } },
+      { id: 'c', text: { fr: 'Al-Musnad', ar: 'المسند', en: 'Al-Musnad' } },
+      { id: 'd', text: { fr: 'Sahih Bukhari', ar: 'صحيح البخاري', en: 'Sahih Bukhari' } },
+    ],
+    correctAnswer: 0,
+    explanation: {
+      fr: 'Al-Muwatta est le premier livre de Fiqh-Hadith compilé. Malik y travailla 40 ans. Il contient ~1700 hadiths et rapports des Compagnons.',
+      ar: 'الموطأ أول كتاب جمع الفقه والحديث. عمل عليه مالك 40 سنة. يحتوي ~1700 حديث وأثر صحابي.',
+      en: 'Al-Muwatta is the first compiled Fiqh-Hadith book. Malik worked on it 40 years. It contains ~1700 hadiths and Companion reports.',
+    },
+    points: 2,
+    difficulty: 'medium',
+    category: 'ouvrages',
+  },
+  {
+    id: 'imams-ouvrage-002',
+    question: {
+      fr: 'Quel est l\'ouvrage majeur de l\'Imam Shafi\'i en méthodologie (Usul) ?',
+      ar: 'ما كتاب الإمام الشافعي الرئيسي في الأصول؟',
+      en: 'What is Imam Shafi\'i\'s major book in methodology (Usul)?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Al-Muwatta', ar: 'الموطأ', en: 'Al-Muwatta' } },
+      { id: 'b', text: { fr: 'Ar-Risala - premier ouvrage de Usul al-Fiqh', ar: 'الرسالة - أول كتاب في أصول الفقه', en: 'Ar-Risala - first book of Usul al-Fiqh' } },
+      { id: 'c', text: { fr: 'Al-Musnad', ar: 'المسند', en: 'Al-Musnad' } },
+      { id: 'd', text: { fr: 'Al-Mudawwana', ar: 'المدونة', en: 'Al-Mudawwana' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Ar-Risala (L\'Épître) est le premier livre de Usul al-Fiqh, établissant les règles de dérivation des jugements juridiques.',
+      ar: 'الرسالة أول كتاب في أصول الفقه، أسّس قواعد استنباط الأحكام الشرعية.',
+      en: 'Ar-Risala (The Epistle) is the first book of Usul al-Fiqh, establishing rules for deriving legal rulings.',
+    },
+    points: 2,
+    difficulty: 'medium',
+    category: 'ouvrages',
+  },
+  {
+    id: 'imams-ouvrage-003',
+    question: {
+      fr: 'Quel est l\'ouvrage de l\'Imam Ahmad qui contient plus de 27 000 hadiths ?',
+      ar: 'ما كتاب الإمام أحمد الذي يحتوي أكثر من 27000 حديث؟',
+      en: 'What is Imam Ahmad\'s book containing over 27,000 hadiths?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Al-Musnad (Le Recueil à chaînes continues)', ar: 'المسند', en: 'Al-Musnad (The Collection with continuous chains)' } },
+      { id: 'b', text: { fr: 'Al-Umm', ar: 'الأم', en: 'Al-Umm' } },
+      { id: 'c', text: { fr: 'Sahih Muslim', ar: 'صحيح مسلم', en: 'Sahih Muslim' } },
+      { id: 'd', text: { fr: 'Al-Risala', ar: 'الرسالة', en: 'Al-Risala' } },
+    ],
+    correctAnswer: 0,
+    explanation: {
+      fr: 'Al-Musnad contient des hadiths classés par Compagnon narrateur. C\'est une des plus grandes collections de hadiths.',
+      ar: 'المسند يحتوي أحاديث مرتبة حسب الصحابي الراوي. وهو من أكبر مجموعات الحديث.',
+      en: 'Al-Musnad contains hadiths classified by Companion narrator. It\'s one of the largest hadith collections.',
+    },
+    points: 2,
+    difficulty: 'medium',
+    category: 'ouvrages',
+  },
+];
+
+// ============================================
+// Questions - Convergences et Divergences (NOUVEAU)
+// ============================================
+
+const convergenceDivergenceQuestions: ExamQuestion[] = [
+  {
+    id: 'imams-conv-001',
+    question: {
+      fr: 'Sur quoi les 4 Imams sont-ils unanimes ?',
+      ar: 'ما الذي اتفق عليه الأئمة الأربعة؟',
+      en: 'On what do the 4 Imams agree unanimously?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Tous les détails du Fiqh', ar: 'كل تفاصيل الفقه', en: 'All Fiqh details' } },
+      { id: 'b', text: { fr: 'Les fondements de l\'Islam (Aqeedah, piliers, interdits majeurs) et le respect mutuel des autres écoles', ar: 'أصول الإسلام (العقيدة، الأركان، المحرمات الكبرى) والاحترام المتبادل بين المذاهب', en: 'Foundations of Islam (Aqeedah, pillars, major prohibitions) and mutual respect between schools' } },
+      { id: 'c', text: { fr: 'Rien du tout', ar: 'لا شيء', en: 'Nothing at all' } },
+      { id: 'd', text: { fr: 'Uniquement les questions de prière', ar: 'مسائل الصلاة فقط', en: 'Only prayer issues' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Les 4 Imams s\'accordent sur les Usul (fondements). Leurs divergences portent sur les Furu\' (branches), dues aux différentes méthodologies d\'Ijtihad.',
+      ar: 'اتفق الأئمة الأربعة على الأصول. وخلافهم في الفروع، بسبب اختلاف مناهج الاجتهاد.',
+      en: 'The 4 Imams agree on Usul (fundamentals). Their differences are in Furu\' (branches), due to different Ijtihad methodologies.',
+    },
+    points: 2,
+    difficulty: 'medium',
+    category: 'convergence-divergence',
+  },
+  {
+    id: 'imams-conv-002',
+    question: {
+      fr: 'Pourquoi les 4 Imams ont-ils parfois des avis différents ?',
+      ar: 'لماذا تختلف آراء الأئمة الأربعة أحيانًا؟',
+      en: 'Why do the 4 Imams sometimes have different opinions?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Ils ne s\'aimaient pas', ar: 'لم يحب بعضهم بعضًا', en: 'They didn\'t like each other' } },
+      { id: 'b', text: { fr: 'Différence dans les hadiths accessibles, interprétation des textes, et méthodologies (Ra\'y vs Athar)', ar: 'اختلاف الأحاديث المتاحة، تفسير النصوص، والمناهج (الرأي مقابل الأثر)', en: 'Differences in available hadiths, text interpretation, and methodologies (Ra\'y vs Athar)' } },
+      { id: 'c', text: { fr: 'Un d\'eux avait tort', ar: 'أحدهم كان مخطئًا', en: 'One of them was wrong' } },
+      { id: 'd', text: { fr: 'Rivalité politique', ar: 'منافسة سياسية', en: 'Political rivalry' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'L\'Ikhtilaf (divergence) est une miséricorde. Chaque Imam travaillait avec les hadiths qu\'il connaissait et sa compréhension des textes.',
+      ar: 'الاختلاف رحمة. كل إمام عمل بالأحاديث التي بلغته وفهمه للنصوص.',
+      en: 'Ikhtilaf (divergence) is a mercy. Each Imam worked with hadiths he knew and his understanding of texts.',
+    },
+    points: 2,
+    difficulty: 'medium',
+    category: 'convergence-divergence',
+  },
+  {
+    id: 'imams-conv-003',
+    question: {
+      fr: 'Quelle était l\'attitude des Imams envers leurs propres avis ?',
+      ar: 'ما كان موقف الأئمة من آرائهم الخاصة؟',
+      en: 'What was the Imams\' attitude towards their own opinions?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Ils les considéraient infaillibles', ar: 'اعتبروها معصومة', en: 'They considered them infallible' } },
+      { id: 'b', text: { fr: 'Humilité : "Si le hadith est authentique, c\'est mon madhab" - tous reconnaissaient pouvoir se tromper', ar: 'التواضع: "إذا صح الحديث فهو مذهبي" - كلهم أقرّوا بإمكانية خطئهم', en: 'Humility: "If the hadith is authentic, that is my madhab" - all acknowledged they could err' } },
+      { id: 'c', text: { fr: 'Ils interdisaient de les critiquer', ar: 'منعوا انتقادهم', en: 'They forbade criticism of them' } },
+      { id: 'd', text: { fr: 'Ils n\'acceptaient que leurs propres avis', ar: 'لم يقبلوا إلا آراءهم', en: 'They only accepted their own views' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'L\'Imam Shafi\'i disait : "Si vous trouvez dans mon livre ce qui contredit la Sunna, suivez la Sunna et délaissez mon avis."',
+      ar: 'قال الشافعي: "إذا وجدتم في كتابي ما يخالف السنة، فخذوا بالسنة واتركوا قولي."',
+      en: 'Imam Shafi\'i said: "If you find in my book what contradicts the Sunnah, follow the Sunnah and leave my opinion."',
+    },
+    points: 2,
+    difficulty: 'medium',
+    category: 'convergence-divergence',
+  },
+];
+
+// ============================================
+// Questions - Choisir un Madhab (NOUVEAU)
+// ============================================
+
+const choisirMadhabQuestions: ExamQuestion[] = [
+  {
+    id: 'imams-choisir-001',
+    question: {
+      fr: 'Est-il obligatoire de suivre un Madhab spécifique ?',
+      ar: 'هل يجب اتباع مذهب معين؟',
+      en: 'Is it obligatory to follow a specific Madhab?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Oui, absolument obligatoire', ar: 'نعم، واجب حتمًا', en: 'Yes, absolutely obligatory' } },
+      { id: 'b', text: { fr: 'Non, c\'est interdit', ar: 'لا، محرم', en: 'No, it\'s forbidden' } },
+      { id: 'c', text: { fr: 'Recommandé pour le non-savant ; le savant peut faire Ijtihad dans les questions qu\'il maîtrise', ar: 'مستحب لغير العالم؛ والعالم يجتهد فيما يتقنه', en: 'Recommended for non-scholar; scholar can do Ijtihad in areas he masters' } },
+      { id: 'd', text: { fr: 'Cela dépend du pays', ar: 'يعتمد على البلد', en: 'It depends on the country' } },
+    ],
+    correctAnswer: 2,
+    explanation: {
+      fr: 'Le Taqlid (suivre un madhab) est une facilité pour le non-spécialiste. Le Mujtahid suit la preuve, pas le madhab.',
+      ar: 'التقليد (اتباع المذهب) تيسير لغير المتخصص. والمجتهد يتبع الدليل لا المذهب.',
+      en: 'Taqlid (following a madhab) is a convenience for non-specialists. The Mujtahid follows evidence, not madhab.',
+    },
+    points: 2,
+    difficulty: 'medium',
+    category: 'choisir-madhab',
+  },
+  {
+    id: 'imams-choisir-002',
+    question: {
+      fr: 'Peut-on changer de Madhab ou prendre l\'avis d\'un autre Madhab parfois ?',
+      ar: 'هل يجوز تغيير المذهب أو الأخذ برأي مذهب آخر أحيانًا؟',
+      en: 'Can one change Madhab or take another Madhab\'s opinion sometimes?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Non, jamais', ar: 'لا، أبدًا', en: 'No, never' } },
+      { id: 'b', text: { fr: 'Oui, en cas de besoin légitime et sans chercher les facilités (Tatabbu\' ar-Rukhas)', ar: 'نعم، عند الحاجة المشروعة ودون تتبع الرخص', en: 'Yes, for legitimate need and without seeking easy options (Tatabbu\' ar-Rukhas)' } },
+      { id: 'c', text: { fr: 'Seulement après autorisation du gouvernement', ar: 'فقط بإذن الحكومة', en: 'Only with government permission' } },
+      { id: 'd', text: { fr: 'Seulement les femmes peuvent changer', ar: 'النساء فقط يمكنهن التغيير', en: 'Only women can change' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Changer de madhab ou prendre un avis d\'un autre est permis. Interdit : chercher systématiquement l\'avis le plus facile (Tatabbu\' ar-Rukhas).',
+      ar: 'تغيير المذهب أو الأخذ برأي مذهب آخر جائز. الممنوع: تتبع الرخص بشكل منهجي.',
+      en: 'Changing madhab or taking another\'s opinion is permitted. Forbidden: systematically seeking easiest opinions (Tatabbu\' ar-Rukhas).',
+    },
+    points: 2,
+    difficulty: 'medium',
+    category: 'choisir-madhab',
+  },
+  {
+    id: 'imams-choisir-003',
+    question: {
+      fr: 'Quel est le meilleur Madhab ?',
+      ar: 'ما هو أفضل مذهب؟',
+      en: 'Which is the best Madhab?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Le Madhab Hanafi', ar: 'المذهب الحنفي', en: 'The Hanafi Madhab' } },
+      { id: 'b', text: { fr: 'Le Madhab Shafi\'i', ar: 'المذهب الشافعي', en: 'The Shafi\'i Madhab' } },
+      { id: 'c', text: { fr: 'Il n\'y a pas de "meilleur" - tous sont des interprétations valides basées sur le Coran et la Sunna', ar: 'لا يوجد "أفضل" - كلها تفسيرات صحيحة مبنية على الكتاب والسنة', en: 'There is no "best" - all are valid interpretations based on Quran and Sunnah' } },
+      { id: 'd', text: { fr: 'Le Madhab Hanbali', ar: 'المذهب الحنبلي', en: 'The Hanbali Madhab' } },
+    ],
+    correctAnswer: 2,
+    explanation: {
+      fr: 'Les 4 Madhabs sont tous sur la voie juste (Haqq). Leur Ikhtilaf est une richesse et une miséricorde pour la Umma.',
+      ar: 'المذاهب الأربعة كلها على الحق. واختلافها ثروة ورحمة للأمة.',
+      en: 'All 4 Madhabs are on the right path (Haqq). Their Ikhtilaf is richness and mercy for the Ummah.',
+    },
+    points: 2,
+    difficulty: 'easy',
+    category: 'choisir-madhab',
+  },
+];
+
+// ============================================
 // Assemblage de l'examen COMPLET
 // ============================================
 
 const allQuestions: ExamQuestion[] = [
-  ...abuHanifaQuestions,  // 4 questions
-  ...malikQuestions,      // 4 questions
-  ...shafiQuestions,      // 4 questions
-  ...ahmadQuestions,      // 4 questions
-  ...methodesQuestions,   // 4 questions
-  ...influenceQuestions,  // 4 questions
-  // Total : 24 questions
+  ...abuHanifaQuestions,               // 4 questions
+  ...malikQuestions,                   // 4 questions
+  ...shafiQuestions,                   // 4 questions
+  ...ahmadQuestions,                   // 4 questions
+  ...methodesQuestions,                // 4 questions
+  ...influenceQuestions,               // 4 questions
+  ...ouvragesQuestions,                // 3 questions (NOUVEAU)
+  ...convergenceDivergenceQuestions,   // 3 questions (NOUVEAU)
+  ...choisirMadhabQuestions,           // 3 questions (NOUVEAU)
+  // Total : 33 questions
 ];
 
 export const examHistoryImamsFinal: ExamConfig = {
@@ -629,28 +860,31 @@ export const examHistoryImamsFinal: ExamConfig = {
     en: 'Complete Exam - History of the 4 Imams',
   },
   description: {
-    fr: 'Examen de 20 questions sélectionnées aléatoirement parmi une banque de 24 questions. Couvre la vie et la méthodologie des 4 grands Imams.',
-    ar: 'امتحان من 20 سؤالاً يتم اختيارها عشوائياً من بنك يضم 24 سؤالاً. يغطي حياة ومنهج الأئمة الأربعة الكبار.',
-    en: 'Exam with 20 questions randomly selected from a pool of 24. Covers life and methodology of the 4 great Imams.',
+    fr: 'Examen de 26 questions sélectionnées aléatoirement parmi une banque de 33 questions. Couvre la vie et la méthodologie des 4 grands Imams.',
+    ar: 'امتحان من 26 سؤالاً يتم اختيارها عشوائياً من بنك يضم 33 سؤالاً. يغطي حياة ومنهج الأئمة الأربعة الكبار.',
+    en: 'Exam with 26 questions randomly selected from a pool of 33. Covers life and methodology of the 4 great Imams.',
   },
   instructions: {
-    fr: 'Vous avez 30 minutes pour répondre à 20 questions. Chaque question a une seule bonne réponse. Un score de 70% est requis pour réussir.',
-    ar: 'لديك 30 دقيقة للإجابة على 20 سؤالاً. لكل سؤال إجابة صحيحة واحدة. يُشترط 70% للنجاح.',
-    en: 'You have 30 minutes to answer 20 questions. Each question has one correct answer. A score of 70% is required to pass.',
+    fr: 'Vous avez 40 minutes pour répondre à 26 questions. Chaque question a une seule bonne réponse. Un score de 70% est requis pour réussir.',
+    ar: 'لديك 40 دقيقة للإجابة على 26 سؤالاً. لكل سؤال إجابة صحيحة واحدة. يُشترط 70% للنجاح.',
+    en: 'You have 40 minutes to answer 26 questions. Each question has one correct answer. A score of 70% is required to pass.',
   },
   courseSlug: 'history-imams',
   questionPool: allQuestions,
-  questionsPerExam: 20,
+  questionsPerExam: 26,
   categoryConfig: [
     { category: 'abu-hanifa', count: 3 },
     { category: 'malik', count: 3 },
     { category: 'shafi', count: 3 },
-    { category: 'ahmad', count: 4 },
+    { category: 'ahmad', count: 3 },
     { category: 'methodes', count: 4 },
     { category: 'influence', count: 3 },
+    { category: 'ouvrages', count: 3 },
+    { category: 'convergence-divergence', count: 2 },
+    { category: 'choisir-madhab', count: 2 },
   ],
   questions: [],
-  duration: 30,
+  duration: 40,
   passingScore: 70,
   maxAttempts: 5,
   shuffleQuestions: true,

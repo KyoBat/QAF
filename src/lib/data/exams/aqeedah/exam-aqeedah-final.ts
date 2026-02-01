@@ -653,6 +653,204 @@ const nubuwwahQuestions: ExamQuestion[] = [
 ];
 
 // ============================================
+// Questions Supplémentaires - Anges (Mala'ika)
+// ============================================
+
+const malaikaQuestions: ExamQuestion[] = [
+  {
+    id: 'aqeedah-malaika-001',
+    question: {
+      fr: 'De quoi les anges ont-ils été créés ?',
+      ar: 'من ماذا خُلقت الملائكة؟',
+      en: 'From what were the angels created?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'De lumière (Nur)', ar: 'من نور', en: 'From light (Nur)' } },
+      { id: 'b', text: { fr: 'De feu', ar: 'من نار', en: 'From fire' } },
+      { id: 'c', text: { fr: 'D\'argile', ar: 'من طين', en: 'From clay' } },
+      { id: 'd', text: { fr: 'D\'eau', ar: 'من ماء', en: 'From water' } },
+    ],
+    correctAnswer: 0,
+    explanation: {
+      fr: 'Le Prophète ﷺ a dit : "Les anges ont été créés de lumière, les djinns de feu sans fumée, et Adam de ce qui vous a été décrit" (Muslim).',
+      ar: 'قال النبي ﷺ: "خُلقت الملائكة من نور، وخُلق الجان من مارج من نار، وخُلق آدم مما وُصف لكم" (مسلم).',
+      en: 'The Prophet ﷺ said: "Angels were created from light, jinn from smokeless fire, and Adam from what was described to you" (Muslim).',
+    },
+    points: 2,
+    difficulty: 'easy',
+    category: 'malaika',
+  },
+  {
+    id: 'aqeedah-malaika-002',
+    question: {
+      fr: 'Quelle est la fonction principale de l\'ange Jibril عليه السلام ?',
+      ar: 'ما الوظيفة الرئيسية لجبريل عليه السلام؟',
+      en: 'What is the main function of Angel Jibril عليه السلام?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Souffler dans la Trompe', ar: 'النفخ في الصور', en: 'Blowing the Trumpet' } },
+      { id: 'b', text: { fr: 'Transmettre la Révélation aux Prophètes', ar: 'إبلاغ الوحي للأنبياء', en: 'Conveying Revelation to Prophets' } },
+      { id: 'c', text: { fr: 'Faire descendre la pluie', ar: 'إنزال المطر', en: 'Bringing down rain' } },
+      { id: 'd', text: { fr: 'Prendre les âmes', ar: 'قبض الأرواح', en: 'Taking souls' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Jibril (Gabriel) est l\'ange chargé de transmettre la Révélation d\'Allah aux Prophètes. Il est appelé "Ruh al-Qudus" (l\'Esprit Saint) et "ar-Ruh al-Amin" (l\'Esprit Fidèle).',
+      ar: 'جبريل هو الملك المُكلّف بإبلاغ الوحي من الله للأنبياء. ويُسمى "روح القدس" و"الروح الأمين".',
+      en: 'Jibril (Gabriel) is the angel tasked with conveying Allah\'s Revelation to Prophets. He is called "Ruh al-Qudus" (Holy Spirit) and "ar-Ruh al-Amin" (Trustworthy Spirit).',
+    },
+    points: 2,
+    difficulty: 'easy',
+    category: 'malaika',
+  },
+  {
+    id: 'aqeedah-malaika-003',
+    question: {
+      fr: 'Qui sont Munkar et Nakir ?',
+      ar: 'من هما منكر ونكير؟',
+      en: 'Who are Munkar and Nakir?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Les anges gardiens (Hafaza)', ar: 'الملائكة الحفظة', en: 'Guardian angels' } },
+      { id: 'b', text: { fr: 'Les anges qui portent le Trône', ar: 'الملائكة الذين يحملون العرش', en: 'Angels who carry the Throne' } },
+      { id: 'c', text: { fr: 'Les deux anges qui interrogent dans la tombe', ar: 'الملكان اللذان يسألان في القبر', en: 'The two angels who question in the grave' } },
+      { id: 'd', text: { fr: 'Les gardiens du Paradis', ar: 'خزنة الجنة', en: 'Guardians of Paradise' } },
+    ],
+    correctAnswer: 2,
+    explanation: {
+      fr: 'Munkar et Nakir sont les deux anges qui interrogent le défunt dans sa tombe sur son Seigneur, sa religion et son Prophète. C\'est le début de l\'épreuve du Barzakh.',
+      ar: 'منكر ونكير هما الملكان اللذان يسألان الميت في قبره عن ربه ودينه ونبيه. وهذا بداية فتنة البرزخ.',
+      en: 'Munkar and Nakir are the two angels who question the deceased in the grave about their Lord, religion, and Prophet. This is the beginning of the trial of Barzakh.',
+    },
+    points: 2,
+    difficulty: 'medium',
+    category: 'malaika',
+  },
+  {
+    id: 'aqeedah-malaika-004',
+    question: {
+      fr: 'Quel ange est chargé de souffler dans la Trompe (as-Sur) le Jour du Jugement ?',
+      ar: 'أي ملك مُكلّف بالنفخ في الصور يوم القيامة؟',
+      en: 'Which angel is tasked with blowing the Trumpet on the Day of Judgment?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Jibril', ar: 'جبريل', en: 'Jibril' } },
+      { id: 'b', text: { fr: 'Mika\'il', ar: 'ميكائيل', en: 'Mika\'il' } },
+      { id: 'c', text: { fr: 'Malik', ar: 'مالك', en: 'Malik' } },
+      { id: 'd', text: { fr: 'Israfil', ar: 'إسرافيل', en: 'Israfil' } },
+    ],
+    correctAnswer: 3,
+    explanation: {
+      fr: 'Israfil est l\'ange chargé de souffler dans la Trompe. Le premier souffle causera la mort de toutes les créatures, le second les ressuscitera pour le Jugement.',
+      ar: 'إسرافيل هو الملك المُكلّف بالنفخ في الصور. النفخة الأولى تميت جميع الخلائق، والثانية تُحييهم للحساب.',
+      en: 'Israfil is the angel tasked with blowing the Trumpet. The first blow will cause death of all creatures, the second will resurrect them for Judgment.',
+    },
+    points: 2,
+    difficulty: 'medium',
+    category: 'malaika',
+  },
+];
+
+// ============================================
+// Questions Supplémentaires - Livres Révélés (Kutub)
+// ============================================
+
+const kutubQuestions: ExamQuestion[] = [
+  {
+    id: 'aqeedah-kutub-001',
+    question: {
+      fr: 'À quel Prophète la Torah (Tawrat) a-t-elle été révélée ?',
+      ar: 'على أي نبي أُنزلت التوراة؟',
+      en: 'To which Prophet was the Torah (Tawrat) revealed?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Ibrahim عليه السلام', ar: 'إبراهيم عليه السلام', en: 'Ibrahim عليه السلام' } },
+      { id: 'b', text: { fr: 'Dawud عليه السلام', ar: 'داود عليه السلام', en: 'Dawud عليه السلام' } },
+      { id: 'c', text: { fr: 'Musa عليه السلام', ar: 'موسى عليه السلام', en: 'Musa عليه السلام' } },
+      { id: 'd', text: { fr: '\'Isa عليه السلام', ar: 'عيسى عليه السلام', en: '\'Isa عليه السلام' } },
+    ],
+    correctAnswer: 2,
+    explanation: {
+      fr: 'La Torah (Tawrat) fut révélée à Musa (Moïse) عليه السلام pour guider les Enfants d\'Israël. Allah dit : "Nous avons fait descendre la Torah contenant guidance et lumière" (5:44).',
+      ar: 'أُنزلت التوراة على موسى عليه السلام هداية لبني إسرائيل. قال الله: "إنا أنزلنا التوراة فيها هدى ونور" (المائدة: 44).',
+      en: 'The Torah was revealed to Musa (Moses) عليه السلام to guide the Children of Israel. Allah says: "We sent down the Torah containing guidance and light" (5:44).',
+    },
+    points: 2,
+    difficulty: 'easy',
+    category: 'kutub',
+  },
+  {
+    id: 'aqeedah-kutub-002',
+    question: {
+      fr: 'Quel livre a été révélé à Dawud عليه السلام ?',
+      ar: 'أي كتاب أُنزل على داود عليه السلام؟',
+      en: 'Which book was revealed to Dawud عليه السلام?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Le Zabur (Psaumes)', ar: 'الزبور', en: 'The Zabur (Psalms)' } },
+      { id: 'b', text: { fr: 'L\'Injil', ar: 'الإنجيل', en: 'The Injil' } },
+      { id: 'c', text: { fr: 'Les Suhuf', ar: 'الصحف', en: 'The Suhuf' } },
+      { id: 'd', text: { fr: 'La Torah', ar: 'التوراة', en: 'The Torah' } },
+    ],
+    correctAnswer: 0,
+    explanation: {
+      fr: 'Le Zabur (Psaumes) fut révélé à Dawud عليه السلام. Allah dit : "Et Nous avons donné le Zabur à Dawud" (4:163, 17:55).',
+      ar: 'أُنزل الزبور على داود عليه السلام. قال الله: "وآتينا داود زبورًا" (النساء: 163، الإسراء: 55).',
+      en: 'The Zabur (Psalms) was revealed to Dawud عليه السلام. Allah says: "And We gave Dawud the Zabur" (4:163, 17:55).',
+    },
+    points: 2,
+    difficulty: 'easy',
+    category: 'kutub',
+  },
+  {
+    id: 'aqeedah-kutub-003',
+    question: {
+      fr: 'Quelle est la position d\'Ahl as-Sunnah concernant les livres révélés antérieurs (Torah, Injil) ?',
+      ar: 'ما موقف أهل السنة من الكتب السابقة (التوراة، الإنجيل)؟',
+      en: 'What is Ahl as-Sunnah\'s position regarding previous revealed books (Torah, Injil)?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Ils sont entièrement authentiques aujourd\'hui', ar: 'هي أصلية بالكامل اليوم', en: 'They are entirely authentic today' } },
+      { id: 'b', text: { fr: 'Croire qu\'ils étaient des révélations d\'Allah, mais qu\'ils ont été altérés (Tahrif)', ar: 'الإيمان بأنها كانت وحيًا من الله لكنها حُرّفت', en: 'Believe they were Allah\'s revelations but have been altered (Tahrif)' } },
+      { id: 'c', text: { fr: 'Les rejeter complètement', ar: 'رفضها كلياً', en: 'Reject them completely' } },
+      { id: 'd', text: { fr: 'Ils sont équivalents au Coran', ar: 'هي مساوية للقرآن', en: 'They are equivalent to the Quran' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Nous croyons que la Torah et l\'Injil originaux étaient des révélations d\'Allah, mais qu\'ils ont subi des altérations (Tahrif) au fil du temps. Le Coran est le seul livre préservé intact.',
+      ar: 'نؤمن بأن التوراة والإنجيل الأصليين كانا وحيًا من الله، لكنهما تعرضا للتحريف. والقرآن هو الكتاب الوحيد المحفوظ.',
+      en: 'We believe the original Torah and Injil were Allah\'s revelations, but they have undergone alterations (Tahrif) over time. The Quran is the only book preserved intact.',
+    },
+    points: 3,
+    difficulty: 'medium',
+    category: 'kutub',
+  },
+  {
+    id: 'aqeedah-kutub-004',
+    question: {
+      fr: 'Quelle caractéristique unique distingue le Coran des autres livres révélés ?',
+      ar: 'ما الخاصية الفريدة التي تميز القرآن عن الكتب السابقة؟',
+      en: 'What unique characteristic distinguishes the Quran from other revealed books?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Il est le plus long', ar: 'إنه الأطول', en: 'It is the longest' } },
+      { id: 'b', text: { fr: 'Allah s\'est engagé à le préserver de toute altération', ar: 'تكفّل الله بحفظه من التحريف', en: 'Allah guaranteed to preserve it from any alteration' } },
+      { id: 'c', text: { fr: 'Il n\'a pas été écrit', ar: 'لم يُكتب', en: 'It was not written' } },
+      { id: 'd', text: { fr: 'Il a été révélé en une seule fois', ar: 'نزل دفعة واحدة', en: 'It was revealed all at once' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Allah dit : "C\'est Nous qui avons fait descendre le Rappel (Dhikr), et c\'est Nous qui en sommes les Gardiens" (15:9). Cette promesse divine n\'a été faite pour aucun autre livre.',
+      ar: 'قال الله: "إنا نحن نزّلنا الذكر وإنا له لحافظون" (الحجر: 9). هذا الوعد الإلهي لم يُعطَ لأي كتاب آخر.',
+      en: 'Allah says: "It is We who sent down the Reminder (Dhikr), and We will be its Guardian" (15:9). This divine promise was not made for any other book.',
+    },
+    points: 2,
+    difficulty: 'medium',
+    category: 'kutub',
+  },
+];
+
+// ============================================
 // Questions Supplémentaires - Sahaba et Ahl al-Bayt
 // ============================================
 
@@ -716,8 +914,10 @@ const allQuestions: ExamQuestion[] = [
   ...akhiraQuestions,    // 4 questions
   ...qadarQuestions,     // 4 questions
   ...nubuwwahQuestions,  // 4 questions
+  ...malaikaQuestions,   // 4 questions (NOUVEAU)
+  ...kutubQuestions,     // 4 questions (NOUVEAU)
   ...sahabaQuestions,    // 2 questions
-  // Total : 28 questions
+  // Total : 36 questions
 ];
 
 export const examAqeedahFinal: ExamConfig = {
@@ -730,29 +930,31 @@ export const examAqeedahFinal: ExamConfig = {
     en: 'Complete Exam - Aqeedah (Creed)',
   },
   description: {
-    fr: 'Examen de 24 questions sélectionnées aléatoirement parmi une banque de 28 questions. Couvre les fondements de la foi islamique.',
-    ar: 'امتحان من 24 سؤالاً يتم اختيارها عشوائياً من بنك يضم 28 سؤالاً. يغطي أصول العقيدة الإسلامية.',
-    en: 'Exam with 24 questions randomly selected from a pool of 28. Covers the foundations of Islamic creed.',
+    fr: 'Examen de 28 questions sélectionnées aléatoirement parmi une banque de 36 questions. Couvre les fondements de la foi islamique.',
+    ar: 'امتحان من 28 سؤالاً يتم اختيارها عشوائياً من بنك يضم 36 سؤالاً. يغطي أصول العقيدة الإسلامية.',
+    en: 'Exam with 28 questions randomly selected from a pool of 36. Covers the foundations of Islamic creed.',
   },
   instructions: {
-    fr: 'Vous avez 40 minutes pour répondre à 24 questions. Chaque question a une seule bonne réponse. Un score de 70% est requis pour réussir.',
-    ar: 'لديك 40 دقيقة للإجابة على 24 سؤالاً. لكل سؤال إجابة صحيحة واحدة. يُشترط 70% للنجاح.',
-    en: 'You have 40 minutes to answer 24 questions. Each question has one correct answer. A score of 70% is required to pass.',
+    fr: 'Vous avez 45 minutes pour répondre à 28 questions. Chaque question a une seule bonne réponse. Un score de 70% est requis pour réussir.',
+    ar: 'لديك 45 دقيقة للإجابة على 28 سؤالاً. لكل سؤال إجابة صحيحة واحدة. يُشترط 70% للنجاح.',
+    en: 'You have 45 minutes to answer 28 questions. Each question has one correct answer. A score of 70% is required to pass.',
   },
   courseSlug: 'aqeedah',
   questionPool: allQuestions,
-  questionsPerExam: 24,
+  questionsPerExam: 28,
   categoryConfig: [
     { category: 'tawhid', count: 4 },
     { category: 'iman', count: 4 },
-    { category: 'asma', count: 4 },
-    { category: 'akhira', count: 4 },
+    { category: 'asma', count: 3 },
+    { category: 'akhira', count: 3 },
     { category: 'qadar', count: 3 },
     { category: 'nubuwwah', count: 3 },
+    { category: 'malaika', count: 3 },
+    { category: 'kutub', count: 3 },
     { category: 'sahaba', count: 2 },
   ],
   questions: [],
-  duration: 40,
+  duration: 45,
   passingScore: 70,
   maxAttempts: 5,
   shuffleQuestions: true,

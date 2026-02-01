@@ -577,6 +577,257 @@ const dernieresAnneesQuestions: ExamQuestion[] = [
 ];
 
 // ============================================
+// Questions - Isra' et Mi'raj (NOUVEAU)
+// ============================================
+
+const israMirajQuestions: ExamQuestion[] = [
+  {
+    id: 'seerah-isra-001',
+    question: {
+      fr: 'Qu\'est-ce que al-Buraq ?',
+      ar: 'ما هو البُراق؟',
+      en: 'What is al-Buraq?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'La monture céleste qui transporta le Prophète ﷺ lors de l\'Isra\'', ar: 'الدابة السماوية التي حملت النبي ﷺ في الإسراء', en: 'The celestial mount that carried the Prophet ﷺ during Isra\'' } },
+      { id: 'b', text: { fr: 'Un ange', ar: 'ملك', en: 'An angel' } },
+      { id: 'c', text: { fr: 'Une étoile', ar: 'نجم', en: 'A star' } },
+      { id: 'd', text: { fr: 'Un compagnon', ar: 'صحابي', en: 'A companion' } },
+    ],
+    correctAnswer: 0,
+    explanation: {
+      fr: 'Al-Buraq est la monture céleste, plus grande qu\'un âne et plus petite qu\'un mulet, qui transporta le Prophète ﷺ de La Mecque à Jérusalem.',
+      ar: 'البُراق دابة سماوية فوق الحمار ودون البغل، حملت النبي ﷺ من مكة إلى القدس.',
+      en: 'Al-Buraq is the celestial mount, larger than a donkey and smaller than a mule, that carried the Prophet ﷺ from Mecca to Jerusalem.',
+    },
+    points: 2,
+    difficulty: 'easy',
+    category: 'isra-miraj',
+  },
+  {
+    id: 'seerah-isra-002',
+    question: {
+      fr: 'Quelle obligation fut prescrite lors du Mi\'raj ?',
+      ar: 'ما الفريضة التي فُرضت في المعراج؟',
+      en: 'Which obligation was prescribed during Mi\'raj?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Le jeûne', ar: 'الصيام', en: 'Fasting' } },
+      { id: 'b', text: { fr: 'La Zakat', ar: 'الزكاة', en: 'Zakat' } },
+      { id: 'c', text: { fr: 'Les 5 prières quotidiennes', ar: 'الصلوات الخمس', en: 'The 5 daily prayers' } },
+      { id: 'd', text: { fr: 'Le Hajj', ar: 'الحج', en: 'Hajj' } },
+    ],
+    correctAnswer: 2,
+    explanation: {
+      fr: 'Les 5 prières furent prescrites lors du Mi\'raj. Initialement 50, elles furent réduites à 5 sur conseil de Musa عليه السلام, avec la récompense de 50.',
+      ar: 'فُرضت الصلوات الخمس في المعراج. كانت 50 ثم خُففت إلى 5 بنصيحة موسى عليه السلام، بأجر 50.',
+      en: 'The 5 prayers were prescribed during Mi\'raj. Initially 50, reduced to 5 on Musa\'s advice, with the reward of 50.',
+    },
+    points: 2,
+    difficulty: 'medium',
+    category: 'isra-miraj',
+  },
+  {
+    id: 'seerah-isra-003',
+    question: {
+      fr: 'Qui confirma la véracité du Prophète ﷺ après l\'Isra\' et Mi\'raj ?',
+      ar: 'من صدّق النبي ﷺ بعد الإسراء والمعراج؟',
+      en: 'Who confirmed the Prophet\'s ﷺ truthfulness after Isra\' and Mi\'raj?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Abu Bakr (d\'où son surnom as-Siddiq)', ar: 'أبو بكر (ومنه لقب الصديق)', en: 'Abu Bakr (hence his title as-Siddiq)' } },
+      { id: 'b', text: { fr: 'Abu Jahl', ar: 'أبو جهل', en: 'Abu Jahl' } },
+      { id: 'c', text: { fr: 'Abu Lahab', ar: 'أبو لهب', en: 'Abu Lahab' } },
+      { id: 'd', text: { fr: 'Al-Walid ibn al-Mughira', ar: 'الوليد بن المغيرة', en: 'Al-Walid ibn al-Mughira' } },
+    ],
+    correctAnswer: 0,
+    explanation: {
+      fr: 'Quand les Quraysh informèrent Abu Bakr du récit du Prophète ﷺ, il dit : "S\'il l\'a dit, c\'est vrai." C\'est ainsi qu\'il reçut le titre as-Siddiq (le Véridique).',
+      ar: 'لما أخبرت قريش أبا بكر بخبر النبي ﷺ قال: "إن كان قاله فقد صدق". فلُقّب بالصديق.',
+      en: 'When Quraysh told Abu Bakr about the Prophet\'s ﷺ account, he said: "If he said it, it\'s true." Thus he earned the title as-Siddiq (the Truthful).',
+    },
+    points: 2,
+    difficulty: 'medium',
+    category: 'isra-miraj',
+  },
+];
+
+// ============================================
+// Questions - Hijra (NOUVEAU)
+// ============================================
+
+const hijraQuestions: ExamQuestion[] = [
+  {
+    id: 'seerah-hijra-001',
+    question: {
+      fr: 'Pourquoi le Prophète ﷺ a-t-il émigré de La Mecque à Médine ?',
+      ar: 'لماذا هاجر النبي ﷺ من مكة إلى المدينة؟',
+      en: 'Why did the Prophet ﷺ emigrate from Mecca to Medina?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Pour le commerce', ar: 'للتجارة', en: 'For trade' } },
+      { id: 'b', text: { fr: 'Persécution des Quraysh et invitation des Ansar de Médine', ar: 'اضطهاد قريش ودعوة الأنصار من المدينة', en: 'Persecution by Quraysh and invitation from Ansar of Medina' } },
+      { id: 'c', text: { fr: 'Pour le tourisme', ar: 'للسياحة', en: 'For tourism' } },
+      { id: 'd', text: { fr: 'Par hasard', ar: 'صدفة', en: 'By chance' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Après les deux Bay\'at al-\'Aqaba, les Ansar de Médine accueillirent les musulmans. Face à la persécution croissante, le Prophète ﷺ reçut la permission d\'Allah d\'émigrer.',
+      ar: 'بعد بيعتي العقبة، رحّب الأنصار بالمسلمين. ومع تزايد الاضطهاد، أذن الله للنبي ﷺ بالهجرة.',
+      en: 'After the two Bay\'at al-\'Aqaba, the Ansar of Medina welcomed Muslims. Facing increasing persecution, the Prophet ﷺ received Allah\'s permission to emigrate.',
+    },
+    points: 2,
+    difficulty: 'easy',
+    category: 'hijra',
+  },
+  {
+    id: 'seerah-hijra-002',
+    question: {
+      fr: 'Qui dormit dans le lit du Prophète ﷺ la nuit de l\'Hégire ?',
+      ar: 'من نام في فراش النبي ﷺ ليلة الهجرة؟',
+      en: 'Who slept in the Prophet\'s ﷺ bed on the night of Hijra?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Abu Bakr', ar: 'أبو بكر', en: 'Abu Bakr' } },
+      { id: 'b', text: { fr: '\'Umar', ar: 'عمر', en: '\'Umar' } },
+      { id: 'c', text: { fr: '\'Ali ibn Abi Talib', ar: 'علي بن أبي طالب', en: '\'Ali ibn Abi Talib' } },
+      { id: 'd', text: { fr: 'Bilal', ar: 'بلال', en: 'Bilal' } },
+    ],
+    correctAnswer: 2,
+    explanation: {
+      fr: '\'Ali رضي الله عنه dormit dans le lit du Prophète ﷺ pour tromper les Quraysh qui voulaient l\'assassiner. Il rendit ensuite les dépôts aux Mecquois.',
+      ar: 'نام علي رضي الله عنه في فراش النبي ﷺ لخداع قريش الذين أرادوا قتله. ثم ردّ الأمانات لأهل مكة.',
+      en: '\'Ali رضي الله عنه slept in the Prophet\'s ﷺ bed to deceive Quraysh who wanted to assassinate him. He then returned deposits to the Meccans.',
+    },
+    points: 2,
+    difficulty: 'medium',
+    category: 'hijra',
+  },
+  {
+    id: 'seerah-hijra-003',
+    question: {
+      fr: 'Qui était le guide du Prophète ﷺ et Abu Bakr pendant l\'Hégire ?',
+      ar: 'من كان دليل النبي ﷺ وأبي بكر في الهجرة؟',
+      en: 'Who was the guide of the Prophet ﷺ and Abu Bakr during Hijra?',
+    },
+    options: [
+      { id: 'a', text: { fr: '\'Abdullah ibn Urayqit (polythéiste de confiance)', ar: 'عبد الله بن أريقط (مشرك ثقة)', en: '\'Abdullah ibn Urayqit (trustworthy polytheist)' } },
+      { id: 'b', text: { fr: 'Bilal', ar: 'بلال', en: 'Bilal' } },
+      { id: 'c', text: { fr: 'Salman', ar: 'سلمان', en: 'Salman' } },
+      { id: 'd', text: { fr: 'Personne', ar: 'لا أحد', en: 'No one' } },
+    ],
+    correctAnswer: 0,
+    explanation: {
+      fr: '\'Abdullah ibn Urayqit, bien que polythéiste, était digne de confiance. Cela montre que l\'Islam permet de faire confiance aux non-musulmans honnêtes.',
+      ar: 'عبد الله بن أريقط رغم شركه كان ثقة. وهذا يدل على جواز الثقة بغير المسلم الأمين.',
+      en: '\'Abdullah ibn Urayqit, though a polytheist, was trustworthy. This shows Islam allows trusting honest non-Muslims.',
+    },
+    points: 3,
+    difficulty: 'hard',
+    category: 'hijra',
+  },
+];
+
+// ============================================
+// Questions - Caractère et Miracles (NOUVEAU)
+// ============================================
+
+const akhlaqMiraclesQuestions: ExamQuestion[] = [
+  {
+    id: 'seerah-akhlaq-001',
+    question: {
+      fr: 'Comment le Coran décrit-il le caractère du Prophète ﷺ ?',
+      ar: 'كيف وصف القرآن خُلق النبي ﷺ؟',
+      en: 'How does the Quran describe the Prophet\'s ﷺ character?',
+    },
+    options: [
+      { id: 'a', text: { fr: '"Tu es certes doté d\'un caractère éminent" (68:4)', ar: '"وإنك لعلى خُلق عظيم" (القلم: 4)', en: '"You are certainly of an outstanding character" (68:4)' } },
+      { id: 'b', text: { fr: 'Le plus riche', ar: 'الأغنى', en: 'The wealthiest' } },
+      { id: 'c', text: { fr: 'Le plus fort', ar: 'الأقوى', en: 'The strongest' } },
+      { id: 'd', text: { fr: 'Le plus beau', ar: 'الأجمل', en: 'The most handsome' } },
+    ],
+    correctAnswer: 0,
+    explanation: {
+      fr: 'Allah a attesté la grandeur du caractère du Prophète ﷺ. \'Aisha رضي الله عنها dit : "Son caractère était le Coran" - il incarnait ses enseignements.',
+      ar: 'شهد الله بعظمة خُلق النبي ﷺ. قالت عائشة رضي الله عنها: "كان خُلقه القرآن" - كان يُجسّد تعاليمه.',
+      en: 'Allah testified to the greatness of the Prophet\'s ﷺ character. \'Aisha رضي الله عنها said: "His character was the Quran" - he embodied its teachings.',
+    },
+    points: 2,
+    difficulty: 'easy',
+    category: 'akhlaq',
+  },
+  {
+    id: 'seerah-akhlaq-002',
+    question: {
+      fr: 'Comment le Prophète ﷺ traitait-il ses ennemis lorsqu\'il était en position de force ?',
+      ar: 'كيف عامل النبي ﷺ أعداءه عندما كان في موضع قوة؟',
+      en: 'How did the Prophet ﷺ treat his enemies when in a position of strength?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Il les punissait sévèrement', ar: 'عاقبهم بشدة', en: 'He punished them severely' } },
+      { id: 'b', text: { fr: 'Il leur accordait le pardon (comme lors de la conquête de La Mecque)', ar: 'عفا عنهم (كما في فتح مكة)', en: 'He granted them pardon (as during the conquest of Mecca)' } },
+      { id: 'c', text: { fr: 'Il les exilait tous', ar: 'نفاهم جميعًا', en: 'He exiled them all' } },
+      { id: 'd', text: { fr: 'Il les ignorait', ar: 'تجاهلهم', en: 'He ignored them' } },
+    ],
+    correctAnswer: 1,
+    explanation: {
+      fr: 'Lors de la conquête de La Mecque, le Prophète ﷺ dit : "Allez, vous êtes libres." Il pardonna même à ceux qui l\'avaient persécuté pendant des années.',
+      ar: 'عند فتح مكة قال النبي ﷺ: "اذهبوا فأنتم الطلقاء." وعفا حتى عمّن اضطهدوه لسنوات.',
+      en: 'At the conquest of Mecca, the Prophet ﷺ said: "Go, you are free." He pardoned even those who had persecuted him for years.',
+    },
+    points: 2,
+    difficulty: 'medium',
+    category: 'akhlaq',
+  },
+  {
+    id: 'seerah-miracle-001',
+    question: {
+      fr: 'Quel est le miracle suprême et éternel du Prophète ﷺ ?',
+      ar: 'ما هي المعجزة العظمى والخالدة للنبي ﷺ؟',
+      en: 'What is the supreme and eternal miracle of the Prophet ﷺ?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'La fente de la lune', ar: 'انشقاق القمر', en: 'The splitting of the moon' } },
+      { id: 'b', text: { fr: 'L\'eau jaillissant de ses doigts', ar: 'نبع الماء من أصابعه', en: 'Water flowing from his fingers' } },
+      { id: 'c', text: { fr: 'Le Noble Coran', ar: 'القرآن الكريم', en: 'The Noble Quran' } },
+      { id: 'd', text: { fr: 'Le voyage nocturne', ar: 'الإسراء', en: 'The night journey' } },
+    ],
+    correctAnswer: 2,
+    explanation: {
+      fr: 'Le Coran est le miracle éternel car il reste intact, inimitable et défie l\'humanité jusqu\'à la fin des temps. Les autres miracles étaient temporaires.',
+      ar: 'القرآن معجزة خالدة لأنه باقٍ سالم، معجز، ويتحدى البشرية إلى قيام الساعة. أما المعجزات الأخرى فكانت مؤقتة.',
+      en: 'The Quran is the eternal miracle because it remains intact, inimitable, and challenges humanity until the end of time. Other miracles were temporary.',
+    },
+    points: 2,
+    difficulty: 'medium',
+    category: 'miracles',
+  },
+  {
+    id: 'seerah-miracle-002',
+    question: {
+      fr: 'Quel miracle physique se produisit la nuit de la naissance du Prophète ﷺ selon les récits ?',
+      ar: 'ما المعجزة الكونية التي حدثت ليلة ولادة النبي ﷺ حسب الروايات؟',
+      en: 'What physical miracle occurred on the night of the Prophet\'s ﷺ birth according to narrations?',
+    },
+    options: [
+      { id: 'a', text: { fr: 'Le feu des Perses (qui brûlait depuis 1000 ans) s\'éteignit', ar: 'انطفأت نار فارس (المشتعلة منذ 1000 عام)', en: 'The Persian fire (burning for 1000 years) was extinguished' } },
+      { id: 'b', text: { fr: 'Une éclipse solaire', ar: 'كسوف شمسي', en: 'A solar eclipse' } },
+      { id: 'c', text: { fr: 'Une pluie de météorites', ar: 'أمطار نيازك', en: 'A meteor shower' } },
+      { id: 'd', text: { fr: 'Un tremblement de terre', ar: 'زلزال', en: 'An earthquake' } },
+    ],
+    correctAnswer: 0,
+    explanation: {
+      fr: 'Selon les récits, le feu sacré des Perses s\'éteignit, le palais de Chosroès trembla, et le lac de Sawa s\'assécha - signes de l\'avènement du dernier Prophète.',
+      ar: 'حسب الروايات، انطفأت نار فارس المجوسية، وارتجّ إيوان كسرى، وغاض ماء بحيرة ساوة - علامات على مبعث خاتم الأنبياء.',
+      en: 'According to narrations, the sacred Persian fire was extinguished, Chosroes\' palace trembled, and Lake Sawa dried up - signs of the advent of the final Prophet.',
+    },
+    points: 3,
+    difficulty: 'hard',
+    category: 'miracles',
+  },
+];
+
+// ============================================
 // Questions - Famille et Compagnons
 // ============================================
 
@@ -685,8 +936,11 @@ const allQuestions: ExamQuestion[] = [
   ...periodeMedinoiseQuestions,    // 4 questions
   ...bataillesQuestions,           // 5 questions
   ...dernieresAnneesQuestions,     // 4 questions
+  ...israMirajQuestions,           // 3 questions (NOUVEAU)
+  ...hijraQuestions,               // 3 questions (NOUVEAU)
+  ...akhlaqMiraclesQuestions,      // 4 questions (NOUVEAU)
   ...familleQuestions,             // 4 questions
-  // Total : 27 questions
+  // Total : 37 questions
 ];
 
 export const examSeerahFinal: ExamConfig = {
@@ -699,28 +953,32 @@ export const examSeerahFinal: ExamConfig = {
     en: 'Complete Exam - Seerah (Prophetic Biography)',
   },
   description: {
-    fr: 'Examen de 22 questions sélectionnées aléatoirement parmi une banque de 27 questions. Couvre la vie du Prophète ﷺ.',
-    ar: 'امتحان من 22 سؤالاً يتم اختيارها عشوائياً من بنك يضم 27 سؤالاً. يغطي حياة النبي ﷺ.',
-    en: 'Exam with 22 questions randomly selected from a pool of 27. Covers the life of the Prophet ﷺ.',
+    fr: 'Examen de 28 questions sélectionnées aléatoirement parmi une banque de 37 questions. Couvre la vie du Prophète ﷺ.',
+    ar: 'امتحان من 28 سؤالاً يتم اختيارها عشوائياً من بنك يضم 37 سؤالاً. يغطي حياة النبي ﷺ.',
+    en: 'Exam with 28 questions randomly selected from a pool of 37. Covers the life of the Prophet ﷺ.',
   },
   instructions: {
-    fr: 'Vous avez 35 minutes pour répondre à 22 questions. Chaque question a une seule bonne réponse. Un score de 70% est requis pour réussir.',
-    ar: 'لديك 35 دقيقة للإجابة على 22 سؤالاً. لكل سؤال إجابة صحيحة واحدة. يُشترط 70% للنجاح.',
-    en: 'You have 35 minutes to answer 22 questions. Each question has one correct answer. A score of 70% is required to pass.',
+    fr: 'Vous avez 45 minutes pour répondre à 28 questions. Chaque question a une seule bonne réponse. Un score de 70% est requis pour réussir.',
+    ar: 'لديك 45 دقيقة للإجابة على 28 سؤالاً. لكل سؤال إجابة صحيحة واحدة. يُشترط 70% للنجاح.',
+    en: 'You have 45 minutes to answer 28 questions. Each question has one correct answer. A score of 70% is required to pass.',
   },
   courseSlug: 'seerah',
   questionPool: allQuestions,
-  questionsPerExam: 22,
+  questionsPerExam: 28,
   categoryConfig: [
     { category: 'avant-prophetie', count: 4 },
     { category: 'periode-mecquoise', count: 4 },
     { category: 'periode-medinoise', count: 3 },
     { category: 'batailles', count: 4 },
-    { category: 'dernieres-annees', count: 4 },
-    { category: 'famille', count: 3 },
+    { category: 'dernieres-annees', count: 3 },
+    { category: 'isra-miraj', count: 3 },
+    { category: 'hijra', count: 3 },
+    { category: 'akhlaq', count: 1 },
+    { category: 'miracles', count: 1 },
+    { category: 'famille', count: 2 },
   ],
   questions: [],
-  duration: 35,
+  duration: 45,
   passingScore: 70,
   maxAttempts: 5,
   shuffleQuestions: true,

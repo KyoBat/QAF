@@ -162,9 +162,10 @@ export default function HeroSection({ featuredCourse, stats, isRTL, t }: HeroSec
               whileHover={{ scale: 1.05, y: -2 }}
               whileTap={{ scale: 0.95 }}
             >
-              <Button size="lg" variant="outline" asChild>
-                <Link href="/courses">
-                  {t('nav.courses')}
+              <Button size="lg" variant="outline" asChild className="gap-2 border-primary/50 text-primary hover:bg-primary/10">
+                <Link href="/placement">
+                  <span>📝</span>
+                  <span>{t('home.hero.placement')}</span>
                 </Link>
               </Button>
             </motion.div>
