@@ -1,6 +1,9 @@
 import { coursesData, getFeaturedCourses } from '@/lib/data/courses/index'
 import HomePageClient from './HomePageClient'
 
+// ISR: Regénérer la page toutes les heures
+export const revalidate = 3600
+
 // Fonction pour mélanger aléatoirement un tableau (Fisher-Yates shuffle)
 function shuffleArray<T>(array: T[]): T[] {
   const shuffled = [...array]

@@ -14,9 +14,8 @@ export const metadata: Metadata = {
   description: 'Découvrez nos cours de sciences islamiques : Tajweed, Fiqh, Aqeedah, Seerah et plus encore.',
 }
 
-// Force la revalidation à chaque requête (pas de cache)
-export const revalidate = 0
-export const dynamic = 'force-dynamic'
+// ISR: Regénérer la page toutes les 30 minutes
+export const revalidate = 1800
 
 // Squelette de chargement
 function CoursesLoadingSkeleton() {

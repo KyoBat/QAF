@@ -1,5 +1,6 @@
 'use client'
 
+import dynamic from 'next/dynamic'
 import { motion } from 'framer-motion'
 import { useLocale } from '@/components/providers'
 import NewsletterHome from '@/components/ui/newsletter-home'

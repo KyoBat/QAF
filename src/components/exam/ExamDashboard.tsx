@@ -18,7 +18,7 @@ import {
   gradeColors,
   GradeType,
 } from '@/lib/data/exams/types';
-import { getAllExams, getExamById } from '@/lib/data/exams';
+import { getAllExamsLight, getExamById } from '@/lib/data/exams';
 
 // ============================================
 // Types
@@ -43,15 +43,25 @@ export default function ExamDashboard({ language = 'fr' }: ExamDashboardProps) {
   const [selectedExam, setSelectedExam] = useState<string | null>(null);
   const [loading, setLoading] = useState(true);
 
-  const allExams = getAllExams();
+  // Utiliser la version light (sans les questions) pour le dashboard
+  const allExamsLight = useMemo(() => getAllExamsLight(), []);
 
   // Charger les résultats depuis localStorage
   useEffect(() => {
     const loadResults = () => {
       const storedResults: StoredResults = {};
       
-      for (const exam of allExams) {
+      // Charger de manière asynchrone pour ne pas bloquer le rendu
+      const loadExamResults = (index: number) => {
+        if (index >= allExamsLight.length) {
+          setResults(storedResults);
+          setLoading(false);
+          return;
+        }
+
+        const exam = allExamsLight[index];
         const key = `rabbi-zidni-exam-${exam.id}`;
+        
         try {
           const data = localStorage.getItem(key);
           if (data) {
@@ -60,14 +70,20 @@ export default function ExamDashboard({ language = 'fr' }: ExamDashboardProps) {
         } catch (e) {
           console.error(`Erreur chargement ${key}:`, e);
         }
-      }
-      
-      setResults(storedResults);
-      setLoading(false);
+
+        // Charger le suivant de manière non-bloquante
+        if ('requestIdleCallback' in window) {
+          requestIdleCallback(() => loadExamResults(index + 1));
+        } else {
+          setTimeout(() => loadExamResults(index + 1), 0);
+        }
+      };
+
+      loadExamResults(0);
     };
 
     loadResults();
-  }, [allExams]);
+  }, [allExamsLight]);
 
   // Statistiques globales
   const stats = useMemo(() => {
@@ -281,7 +297,7 @@ export default function ExamDashboard({ language = 'fr' }: ExamDashboardProps) {
         >
           <h2 className="text-xl font-semibold mb-4">{c.availableExams}</h2>
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-4">
-            {allExams.map((exam) => {
+            {allExamsLight.map((exam) => {
               const examResults = results[exam.id] || [];
               const bestResult = examResults.length > 0
                 ? examResults.reduce((best, r) => r.percentage > best.percentage ? r : best, examResults[0])
@@ -290,7 +306,7 @@ export default function ExamDashboard({ language = 'fr' }: ExamDashboardProps) {
               return (
                 <ExamCard
                   key={exam.id}
-                  exam={exam}
+                  exam={exam as any}
                   language={language}
                   bestResult={bestResult}
                   attempts={examResults.length}
@@ -444,7 +460,7 @@ function ExamCard({
 
       <div className="flex items-center gap-4 text-sm text-muted-foreground mb-4">
         <span>⏱️ {exam.duration} min</span>
-        <span>📝 {exam.questionsPerExam || (exam.questionPool?.length ?? exam.questions?.length ?? 0)} Q</span>
+        <span>📝 {exam.questionsPerExam || (exam as any).questionsCount || 0} Q</span>
         <span>🎯 {exam.passingScore}%</span>
       </div>
 

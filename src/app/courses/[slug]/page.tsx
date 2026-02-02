@@ -7,6 +7,9 @@ import { notFound } from 'next/navigation'
 import { getCourseBySlug, coursesData } from '@/lib/data'
 import { CourseDetailClient } from './CourseDetailClient'
 
+// ISR: Regénérer les pages de cours toutes les heures
+export const revalidate = 3600
+
 interface CoursePageProps {
   params: Promise<{ slug: string }>
 }

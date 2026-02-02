@@ -88,11 +88,32 @@ const allExams: ExamConfig[] = [
 // Fonctions utilitaires
 // ============================================
 
+// Cache pour les examens light
+let examsLightCache: Omit<ExamConfig, 'questions' | 'questionPool'>[] | null = null;
+
 /**
  * Récupère tous les examens disponibles
  */
 export function getAllExams(): ExamConfig[] {
   return allExams;
+}
+
+/**
+ * Récupère tous les examens sans les questions (pour liste/dashboard)
+ * Optimisé pour les performances
+ */
+export function getAllExamsLight(): Omit<ExamConfig, 'questions' | 'questionPool'>[] {
+  if (examsLightCache) {
+    return examsLightCache;
+  }
+
+  examsLightCache = allExams.map(({ questions, questionPool, ...exam }) => ({
+    ...exam,
+    // Garder juste le count pour l'affichage
+    questionsCount: questions?.length || questionPool?.length || 0,
+  }));
+
+  return examsLightCache;
 }
 
 /**

@@ -198,6 +198,39 @@ async function testCoursesPage() {
 }
 
 /**
+ * Test exams page loading
+ */
+async function testExamsPage() {
+  log(colors.cyan, '\n📝 Testing Exams Page Load Time\n');
+  
+  const startTime = Date.now();
+  
+  try {
+    const response = await fetch(`${baseUrl}/exams`);
+    const loadTime = Date.now() - startTime;
+    
+    if (response.ok) {
+      log(colors.green, `  ✅ Exams page loaded successfully in ${loadTime}ms`);
+      
+      if (loadTime < 1000) {
+        log(colors.green, '  ⚡ Excellent performance!');
+      } else if (loadTime < 3000) {
+        log(colors.yellow, '  ⚠️  Acceptable performance');
+      } else {
+        log(colors.red, '  ❌ Slow performance - optimization needed');
+      }
+    } else {
+      log(colors.red, `  ❌ Failed to load exams page (${response.status})`);
+    }
+    
+    return loadTime;
+  } catch (error) {
+    log(colors.red, `  ❌ Network Error: ${error.message}`);
+    return null;
+  }
+}
+
+/**
  * Main test runner
  */
 async function runLoadTests() {
@@ -211,6 +244,7 @@ async function runLoadTests() {
   // Run tests
   await testHomepage();
   await testCoursesPage();
+  await testExamsPage();
   await testNewsletterEndpoint();
 
   const totalTime = Date.now() - startTime;

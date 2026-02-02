@@ -3,8 +3,11 @@
  */
 
 import { Metadata } from 'next';
-import { getExamById, getAllExams } from '@/lib/data/exams';
+import { getExamById, getAllExamsLight } from '@/lib/data/exams';
 import ExamPageClient from './ExamPageClient';
+
+// ISR: Regénérer la page toutes les 24h
+export const revalidate = 86400;
 
 interface PageProps {
   params: { id: string };
@@ -26,7 +29,8 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
 }
 
 export async function generateStaticParams() {
-  const exams = getAllExams();
+  // Utiliser la version light pour la génération statique (plus rapide)
+  const exams = getAllExamsLight();
   return exams.map((exam) => ({
     id: exam.id,
   }));

@@ -21,6 +21,18 @@ const nextConfig = {
     } : false,
   },
 
+  // Optimisations de performance
+  compress: true, // Compression gzip
+  poweredByHeader: false, // Retirer X-Powered-By header
+  
+  // Optimisations de build
+  swcMinify: true, // Minification avec SWC (plus rapide)
+  
+  // Code splitting et tree-shaking optimisés
+  experimental: {
+    optimizePackageImports: ['framer-motion', 'lucide-react'],
+  },
+
   // Headers de cache pour les assets statiques
   async headers() {
     return [
