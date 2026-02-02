@@ -9,7 +9,10 @@
     "lint": "next lint",
     "test": "vitest",
     "test:ui": "vitest --ui",
-    "test:coverage": "vitest --coverage"
+    "test:coverage": "vitest --coverage",
+    "clean": "rm -rf .next",
+    "clean:all": "rm -rf .next node_modules/.cache",
+    "fresh": "npm run clean:all && npm install"
   },
   "dependencies": {
     "@getbrevo/brevo": "^3.0.1",
