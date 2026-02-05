@@ -5,14 +5,6 @@ import { QuizPlayer } from '@/components/quiz';
 import { quizSalatModule } from '@/lib/data/quizzes';
 import { QuizResult } from '@/lib/data/quizzes/types';
 
-// This is a demo page, should not be indexed
-export const metadata = {
-  robots: {
-    index: false,
-    follow: false,
-  },
-};
-
 type Locale = 'fr' | 'ar' | 'en';
 
 export default function QuizDemoPage() {

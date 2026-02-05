@@ -4,14 +4,6 @@ import dynamic from 'next/dynamic';
 import { useState } from 'react';
 import type { MindMapData } from '@/components/mindmap';
 
-// This is a POC page, should not be indexed
-export const metadata = {
-  robots: {
-    index: false,
-    follow: false,
-  },
-};
-
 // Import dynamique pour éviter les erreurs SSR avec ReactFlow
 const MindMap = dynamic(() => import('@/components/mindmap/MindMap'), {
   ssr: false,
