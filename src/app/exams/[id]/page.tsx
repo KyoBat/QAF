@@ -18,13 +18,36 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   
   if (!exam) {
     return {
-      title: 'Examen non trouvé | Rabbi Zidni Ilma',
+      title: 'Examen Introuvable | TahaLearn',
+      description: 'L\'examen demandé n\'existe pas ou n\'est pas disponible.',
     };
   }
 
   return {
-    title: `${exam.title.fr} | Rabbi Zidni Ilma`,
-    description: exam.description.fr,
+    title: `${exam.title.fr} | TahaLearn`,
+    description: `${exam.description.fr} - Testez vos connaissances et obtenez votre certificat.`,
+    keywords: ['examen', exam.title.fr, 'certificat', 'sciences islamiques', 'quiz', 'test', 'TahaLearn'],
+    openGraph: {
+      title: `${exam.title.fr} | TahaLearn`,
+      description: exam.description.fr,
+      url: `https://www.tahalearn.com/exams/${params.id}`,
+      siteName: 'TahaLearn',
+      type: 'article',
+      images: [
+        {
+          url: '/og-image.png',
+          width: 1200,
+          height: 630,
+          alt: exam.title.fr,
+        },
+      ],
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: `${exam.title.fr} | TahaLearn`,
+      description: exam.description.fr,
+      images: ['/og-image.png'],
+    },
   };
 }
 

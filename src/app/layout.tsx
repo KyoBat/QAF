@@ -49,11 +49,17 @@ export const viewport: Viewport = {
 export const metadata: Metadata = {
   metadataBase: new URL("https://www.tahalearn.com"),
   title: {
-    default: "TahaLearn - وَقُل رَّبِّ زِدْنِي عِلْمًا | Sciences Islamiques Gratuites",
+    default: "TahaLearn - وَقُل رَّبِّ زِدْنِي عِلْمًا | Plateforme d'Apprentissage des Sciences Islamiques Gratuite",
     template: "%s | TahaLearn",
   },
-  description: "Plateforme d'apprentissage des sciences islamiques 100% GRATUITE : Tajweed, Fiqh, Aqeedah, Seerah. Cours en français, arabe et anglais avec preuves du Coran et Sunna.",
-  keywords: ["Islam", "Quran", "Coran", "Tajweed", "Fiqh", "Aqeedah", "Hadith", "Seerah", "Sciences islamiques", "Apprentissage", "Gratuit", "TahaLearn", "Prière", "Zakat"],
+  description: "Apprenez les sciences islamiques gratuitement avec TahaLearn. Cours complets de Tajweed, Fiqh, Aqeedah, Seerah et Histoire Islamique en français, arabe et anglais. Preuves authentiques du Coran et de la Sunna. 100% gratuit, pour toujours.",
+  keywords: [
+    "Islam", "Quran", "Coran", "Tajweed", "Fiqh", "Aqeedah", "Hadith", "Seerah", 
+    "Sciences islamiques", "Apprentissage Islam", "Cours gratuits", "TahaLearn", 
+    "Prière", "Salat", "Zakat", "Jeûne", "Ramadan", "Pèlerinage", "Hajj",
+    "Histoire islamique", "Compagnons", "Sahaba", "Prophète Muhammad",
+    "Éducation islamique", "Étude Islam", "Religion musulmane"
+  ],
   authors: [{ name: "TahaLearn", url: "https://www.tahalearn.com" }],
   creator: "TahaLearn",
   publisher: "TahaLearn",
@@ -62,14 +68,22 @@ export const metadata: Metadata = {
     address: false,
     telephone: false,
   },
+  alternates: {
+    canonical: "https://www.tahalearn.com",
+    languages: {
+      'fr': 'https://www.tahalearn.com',
+      'ar': 'https://www.tahalearn.com',
+      'en': 'https://www.tahalearn.com',
+    },
+  },
   openGraph: {
     type: "website",
     locale: "fr_FR",
     alternateLocale: ["ar_SA", "en_US"],
     url: "https://www.tahalearn.com",
     siteName: "TahaLearn",
-    title: "TahaLearn - Sciences Islamiques Gratuites",
-    description: "Apprenez les sciences islamiques gratuitement : Tajweed, Fiqh, Aqeedah et Seerah. Cours en français, arabe et anglais.",
+    title: "TahaLearn - Plateforme d'Apprentissage des Sciences Islamiques Gratuite",
+    description: "Apprenez les sciences islamiques gratuitement : Tajweed, Fiqh, Aqeedah, Seerah et Histoire. Cours en français, arabe et anglais avec preuves authentiques du Coran et de la Sunna.",
     images: [
       {
         url: "/og-image.png",
@@ -82,9 +96,10 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: "TahaLearn - Sciences Islamiques Gratuites",
-    description: "Apprenez les sciences islamiques gratuitement",
+    description: "Apprenez les sciences islamiques gratuitement avec cours en FR/AR/EN",
     images: ["/og-image.png"],
     creator: "@tahalearn",
+    site: "@tahalearn",
   },
   verification: {
     google: "qGxX55exC0cDNkEVe9uKGnUtrFVguLWpU80if3Pu3k0",
@@ -108,6 +123,7 @@ export const metadata: Metadata = {
     apple: "/icons/icon-192x192.svg",
   },
   manifest: "/site.webmanifest",
+  category: "education",
 };
 
 export default function RootLayout({

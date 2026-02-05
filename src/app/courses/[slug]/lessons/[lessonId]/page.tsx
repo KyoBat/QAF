@@ -36,13 +36,40 @@ export async function generateMetadata({ params }: LessonPageProps) {
   
   if (!data) {
     return {
-      title: 'Lesson Not Found',
+      title: 'Leçon Introuvable | TahaLearn',
+      description: 'La leçon demandée n\'existe pas ou n\'est pas disponible.',
     }
   }
 
+  const lessonTitle = data.lesson.title.fr
+  const courseTitle = data.course.title.fr
+  const description = `Leçon ${data.lessonNumber} sur ${data.totalLessons} du cours "${courseTitle}". Apprenez ${lessonTitle} avec preuves du Coran et Sunna.`
+
   return {
-    title: `${data.lesson.title.fr} | ${data.course.title.fr} | Rabbi Zidni Ilma`,
-    description: `Leçon ${data.lessonNumber} sur ${data.totalLessons} - ${data.course.title.fr}`,
+    title: `${lessonTitle} | ${courseTitle} | TahaLearn`,
+    description: description,
+    keywords: [...data.course.tags, data.course.category, lessonTitle, 'leçon gratuite', 'sciences islamiques'],
+    openGraph: {
+      title: `${lessonTitle} | ${courseTitle}`,
+      description: description,
+      url: `https://www.tahalearn.com/courses/${slug}/lessons/${lessonId}`,
+      siteName: 'TahaLearn',
+      type: 'article',
+      images: [
+        {
+          url: data.course.image || '/og-image.png',
+          width: 1200,
+          height: 630,
+          alt: lessonTitle,
+        },
+      ],
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: `${lessonTitle} | ${courseTitle}`,
+      description: description,
+      images: [data.course.image || '/og-image.png'],
+    },
   }
 }
 

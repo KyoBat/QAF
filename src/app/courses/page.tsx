@@ -10,8 +10,30 @@ import { getCoursesListData } from '@/lib/data/courses/courses-list'
 import { CoursesPageClient } from './CoursesPageClient'
 
 export const metadata: Metadata = {
-  title: 'Cours | TahaLearn',
-  description: 'Découvrez nos cours de sciences islamiques : Tajweed, Fiqh, Aqeedah, Seerah et plus encore.',
+  title: 'Tous les Cours | TahaLearn - Sciences Islamiques Gratuites',
+  description: 'Explorez notre catalogue complet de cours de sciences islamiques gratuits : Tajweed, Fiqh, Aqeedah, Seerah, Histoire des Compagnons et plus. Cours en français, arabe et anglais avec preuves authentiques.',
+  keywords: ['Cours islamiques', 'Tajweed', 'Fiqh', 'Aqeedah', 'Seerah', 'Histoire islamique', 'Apprentissage gratuit', 'TahaLearn'],
+  openGraph: {
+    title: 'Tous les Cours | TahaLearn',
+    description: 'Découvrez nos cours de sciences islamiques gratuits : Tajweed, Fiqh, Aqeedah, Seerah et plus.',
+    url: 'https://www.tahalearn.com/courses',
+    siteName: 'TahaLearn',
+    type: 'website',
+    images: [
+      {
+        url: '/og-image.png',
+        width: 1200,
+        height: 630,
+        alt: 'TahaLearn - Catalogue de cours',
+      },
+    ],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Tous les Cours | TahaLearn',
+    description: 'Découvrez nos cours de sciences islamiques gratuits.',
+    images: ['/og-image.png'],
+  },
 }
 
 // ISR: Regénérer la page toutes les 30 minutes

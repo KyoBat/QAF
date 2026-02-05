@@ -9,8 +9,30 @@ import ExamsPageClient from './ExamsPageClient';
 export const revalidate = 21600;
 
 export const metadata: Metadata = {
-  title: 'Examens | Rabbi Zidni Ilma',
-  description: 'Passez vos examens et obtenez vos certificats en sciences islamiques.',
+  title: 'Examens et Certifications | TahaLearn',
+  description: 'Testez vos connaissances en sciences islamiques et obtenez vos certificats. Examens gratuits sur le Tajweed, Fiqh, Aqeedah et Seerah avec correction instantanée.',
+  keywords: ['Examen islamique', 'Certificat sciences islamiques', 'Quiz Islam', 'Test Tajweed', 'Test Fiqh', 'Évaluation TahaLearn'],
+  openGraph: {
+    title: 'Examens et Certifications | TahaLearn',
+    description: 'Testez vos connaissances et obtenez vos certificats en sciences islamiques.',
+    url: 'https://www.tahalearn.com/exams',
+    siteName: 'TahaLearn',
+    type: 'website',
+    images: [
+      {
+        url: '/og-image.png',
+        width: 1200,
+        height: 630,
+        alt: 'TahaLearn - Examens',
+      },
+    ],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Examens | TahaLearn',
+    description: 'Testez vos connaissances en sciences islamiques.',
+    images: ['/og-image.png'],
+  },
 };
 
 export default function ExamsPage() {

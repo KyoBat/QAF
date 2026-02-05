@@ -43,14 +43,45 @@ export async function generateMetadata({ params }: CoursePageProps) {
   
   if (!course) {
     return {
-      title: 'Course Not Found',
+      title: 'Cours Introuvable | TahaLearn',
+      description: 'Le cours demandé n\'existe pas ou n\'est pas disponible.',
     }
   }
 
+  const lessonsCount = course.lessons.length
+  const categoryNames: Record<string, string> = {
+    tajweed: 'Tajweed',
+    fiqh: 'Fiqh',
+    aqeedah: 'Aqeedah',
+    seerah: 'Seerah',
+    history: 'Histoire Islamique',
+  }
+
   return {
-    title: `${course.title.fr} | Rabbi Zidni Ilma`,
-    description: course.description.fr,
-    keywords: course.tags.join(', '),
+    title: `${course.title.fr} | TahaLearn`,
+    description: `${course.description.fr} - ${lessonsCount} leçons. Cours gratuit de ${categoryNames[course.category] || course.category}.`,
+    keywords: [...course.tags, categoryNames[course.category] || course.category, 'cours gratuit', 'sciences islamiques', 'TahaLearn'],
+    openGraph: {
+      title: `${course.title.fr} | TahaLearn`,
+      description: course.description.fr,
+      url: `https://www.tahalearn.com/courses/${slug}`,
+      siteName: 'TahaLearn',
+      type: 'article',
+      images: [
+        {
+          url: course.image || '/og-image.png',
+          width: 1200,
+          height: 630,
+          alt: course.title.fr,
+        },
+      ],
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: `${course.title.fr} | TahaLearn`,
+      description: course.description.fr,
+      images: [course.image || '/og-image.png'],
+    },
   }
 }
 

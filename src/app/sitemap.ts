@@ -1,5 +1,6 @@
 import { MetadataRoute } from 'next'
 import { coursesData } from '@/lib/data/courses/index'
+import { getAllExamsLight } from '@/lib/data/exams'
 import type { Course } from '@/lib/data/courses/types'
 
 export default function sitemap(): MetadataRoute.Sitemap {
@@ -26,6 +27,18 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: 'monthly',
       priority: 0.5,
     },
+    {
+      url: `${baseUrl}/exams`,
+      lastModified: currentDate,
+      changeFrequency: 'weekly',
+      priority: 0.8,
+    },
+    {
+      url: `${baseUrl}/placement`,
+      lastModified: currentDate,
+      changeFrequency: 'monthly',
+      priority: 0.7,
+    },
   ]
 
   // Pages des cours
@@ -50,5 +63,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
       }))
     )
 
-  return [...staticPages, ...coursePages, ...lessonPages]
+  // Pages des examens
+  const examPages: MetadataRoute.Sitemap = getAllExamsLight().map((exam) => ({
+    url: `${baseUrl}/exams/${exam.id}`,
+    lastModified: currentDate,
+    changeFrequency: 'monthly' as const,
+    priority: 0.7,
+  }))
+
+  return [...staticPages, ...coursePages, ...lessonPages, ...examPages]
 }
