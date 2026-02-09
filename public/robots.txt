@@ -1,0 +1,25 @@
+# Robots.txt pour TahaLearn
+# https://www.tahalearn.com
+
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /private/
+
+# Sitemap
+Sitemap: https://www.tahalearn.com/sitemap.xml
+
+# Crawl-delay (optionnel, en secondes)
+Crawl-delay: 1
+
+# Googlebot spécifique
+User-agent: Googlebot
+Allow: /
+Disallow: /api/
+Disallow: /private/
+
+# Autres bots
+User-agent: bingbot
+Allow: /
+Disallow: /api/
+Disallow: /private/

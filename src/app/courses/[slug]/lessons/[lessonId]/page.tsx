@@ -49,6 +49,9 @@ export async function generateMetadata({ params }: LessonPageProps) {
     title: `${lessonTitle} | ${courseTitle} | TahaLearn`,
     description: description,
     keywords: [...data.course.tags, data.course.category, lessonTitle, 'leçon gratuite', 'sciences islamiques'],
+    alternates: {
+      canonical: `https://www.tahalearn.com/courses/${slug}/lessons/${lessonId}`,
+    },
     openGraph: {
       title: `${lessonTitle} | ${courseTitle}`,
       description: description,

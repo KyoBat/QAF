@@ -3,22 +3,26 @@ import { coursesData } from '@/lib/data/courses/index'
 import { getAllExamsLight } from '@/lib/data/exams'
 import type { Course } from '@/lib/data/courses/types'
 
+/**
+ * Génération du sitemap pour Google Search Console
+ * Optimisé pour l'indexation avec priorités et fréquences de mise à jour
+ */
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = 'https://www.tahalearn.com'
   const currentDate = new Date()
 
-  // Pages statiques
+  // Pages statiques avec priorités optimisées pour l'indexation
   const staticPages: MetadataRoute.Sitemap = [
     {
       url: baseUrl,
       lastModified: currentDate,
       changeFrequency: 'weekly',
-      priority: 1,
+      priority: 1, // Page d'accueil = priorité maximale
     },
     {
       url: `${baseUrl}/courses`,
       lastModified: currentDate,
-      changeFrequency: 'weekly',
+      changeFrequency: 'daily', // Changé à daily pour meilleure indexation
       priority: 0.9,
     },
     {
@@ -41,17 +45,17 @@ export default function sitemap(): MetadataRoute.Sitemap {
     },
   ]
 
-  // Pages des cours
+  // Pages des cours avec priorité élevée
   const coursePages: MetadataRoute.Sitemap = coursesData
     .filter((course: Course) => course.published)
     .map((course: Course) => ({
       url: `${baseUrl}/courses/${course.slug}`,
       lastModified: currentDate,
       changeFrequency: 'weekly' as const,
-      priority: 0.8,
+      priority: 0.9, // Augmenté de 0.8 à 0.9 pour meilleure indexation
     }))
 
-  // Pages des leçons
+  // Pages des leçons - contenu principal
   const lessonPages: MetadataRoute.Sitemap = coursesData
     .filter((course: Course) => course.published)
     .flatMap((course: Course) =>
@@ -59,7 +63,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
         url: `${baseUrl}/courses/${course.slug}/lessons/${lesson.id}`,
         lastModified: currentDate,
         changeFrequency: 'monthly' as const,
-        priority: 0.7,
+        priority: 0.8, // Augmenté de 0.7 à 0.8
       }))
     )
 

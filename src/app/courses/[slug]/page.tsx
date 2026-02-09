@@ -61,6 +61,9 @@ export async function generateMetadata({ params }: CoursePageProps) {
     title: `${course.title.fr} | TahaLearn`,
     description: `${course.description.fr} - ${lessonsCount} leçons. Cours gratuit de ${categoryNames[course.category] || course.category}.`,
     keywords: [...course.tags, categoryNames[course.category] || course.category, 'cours gratuit', 'sciences islamiques', 'TahaLearn'],
+    alternates: {
+      canonical: `https://www.tahalearn.com/courses/${slug}`,
+    },
     openGraph: {
       title: `${course.title.fr} | TahaLearn`,
       description: course.description.fr,

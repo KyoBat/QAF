@@ -27,6 +27,9 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
     title: `${exam.title.fr} | TahaLearn`,
     description: `${exam.description.fr} - Testez vos connaissances et obtenez votre certificat.`,
     keywords: ['examen', exam.title.fr, 'certificat', 'sciences islamiques', 'quiz', 'test', 'TahaLearn'],
+    alternates: {
+      canonical: `https://www.tahalearn.com/exams/${params.id}`,
+    },
     openGraph: {
       title: `${exam.title.fr} | TahaLearn`,
       description: exam.description.fr,

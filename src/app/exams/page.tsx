@@ -12,6 +12,9 @@ export const metadata: Metadata = {
   title: 'Examens et Certifications | TahaLearn',
   description: 'Testez vos connaissances en sciences islamiques et obtenez vos certificats. Examens gratuits sur le Tajweed, Fiqh, Aqeedah et Seerah avec correction instantanée.',
   keywords: ['Examen islamique', 'Certificat sciences islamiques', 'Quiz Islam', 'Test Tajweed', 'Test Fiqh', 'Évaluation TahaLearn'],
+  alternates: {
+    canonical: 'https://www.tahalearn.com/exams',
+  },
   openGraph: {
     title: 'Examens et Certifications | TahaLearn',
     description: 'Testez vos connaissances et obtenez vos certificats en sciences islamiques.',

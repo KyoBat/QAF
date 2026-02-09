@@ -13,6 +13,9 @@ export const metadata: Metadata = {
   title: 'Tous les Cours | TahaLearn - Sciences Islamiques Gratuites',
   description: 'Explorez notre catalogue complet de cours de sciences islamiques gratuits : Tajweed, Fiqh, Aqeedah, Seerah, Histoire des Compagnons et plus. Cours en français, arabe et anglais avec preuves authentiques.',
   keywords: ['Cours islamiques', 'Tajweed', 'Fiqh', 'Aqeedah', 'Seerah', 'Histoire islamique', 'Apprentissage gratuit', 'TahaLearn'],
+  alternates: {
+    canonical: 'https://www.tahalearn.com/courses',
+  },
   openGraph: {
     title: 'Tous les Cours | TahaLearn',
     description: 'Découvrez nos cours de sciences islamiques gratuits : Tajweed, Fiqh, Aqeedah, Seerah et plus.',
