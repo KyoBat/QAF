@@ -50,20 +50,20 @@ export default function sitemap(): MetadataRoute.Sitemap {
     .filter((course: Course) => course.published)
     .map((course: Course) => ({
       url: `${baseUrl}/courses/${course.slug}`,
-      lastModified: currentDate,
+      lastModified: new Date(), // Force la date actuelle pour toutes les pages
       changeFrequency: 'weekly' as const,
-      priority: 0.9, // Augmenté de 0.8 à 0.9 pour meilleure indexation
+      priority: 0.9,
     }))
 
-  // Pages des leçons - contenu principal
+  // Pages des leçons - contenu principal  
   const lessonPages: MetadataRoute.Sitemap = coursesData
     .filter((course: Course) => course.published)
     .flatMap((course: Course) =>
       course.lessons.map((lesson) => ({
         url: `${baseUrl}/courses/${course.slug}/lessons/${lesson.id}`,
-        lastModified: currentDate,
-        changeFrequency: 'monthly' as const,
-        priority: 0.8, // Augmenté de 0.7 à 0.8
+        lastModified: new Date(), // Force la date actuelle
+        changeFrequency: 'weekly' as const, // Changé de monthly à weekly
+        priority: 0.85, // Augmenté pour signaler l'importance
       }))
     )
 

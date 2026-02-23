@@ -7,8 +7,25 @@ export default function robots(): MetadataRoute.Robots {
     rules: [
       {
         userAgent: '*',
-        allow: '/',
-        disallow: ['/api/', '/private/'],
+        allow: [
+          '/',
+          '/courses/',
+          '/courses/*/lessons/*',
+          '/exams/',
+          '/about',
+        ],
+        disallow: [
+          '/api/', 
+          '/private/',
+          '/_next/',
+          '/admin/',
+        ],
+      },
+      // Règle spéciale pour Googlebot - plus permissive
+      {
+        userAgent: 'Googlebot',
+        allow: ['/', '/courses/', '/courses/*/lessons/*'],
+        disallow: ['/api/', '/private/', '/_next/'],
       },
     ],
     sitemap: `${baseUrl}/sitemap.xml`,
