@@ -2,7 +2,7 @@
  * Page HTML Sitemap - Aide à l'indexation Google
  */
 
-import { coursesData } from '@/lib/data/courses'
+import { coursesData } from '@/lib/data/courses-data'
 import Link from 'next/link'
 import { getAllExamsLight } from '@/lib/data/exams'
 
@@ -88,7 +88,7 @@ export default function HtmlSitemapPage() {
                   href={`/exams/${exam.id}`}
                   className="text-blue-600 hover:underline"
                 >
-                  {exam.title}
+                  {typeof exam.title === 'string' ? exam.title : exam.title.fr}
                 </Link>
               </li>
             ))}
