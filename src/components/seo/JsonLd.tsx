@@ -3,8 +3,6 @@
  * Pour le SEO enrichi (Rich Snippets)
  */
 
-import type { Course } from '@/lib/data/courses/types'
-
 const BASE_URL = 'https://www.tahalearn.com'
 
 // Schema.org Organization
@@ -67,7 +65,21 @@ export function WebSiteJsonLd() {
 }
 
 // Schema.org Course
-export function CourseJsonLd({ course, locale = 'fr' }: { course: Course; locale?: string }) {
+interface CourseJsonLdProps {
+  course: {
+    title: { fr: string; ar: string; en: string }
+    description: { fr: string; ar: string; en: string }
+    slug: string
+    instructor: string
+    id: string
+    lessons: { id: string }[]
+    duration: string
+    level: string
+  }
+  locale?: string
+}
+
+export function CourseJsonLd({ course, locale = 'fr' }: CourseJsonLdProps) {
   const title = course.title[locale as keyof typeof course.title] || course.title.fr
   const description = course.description[locale as keyof typeof course.description] || course.description.fr
 

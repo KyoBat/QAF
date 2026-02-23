@@ -6,6 +6,7 @@
 import { notFound } from 'next/navigation'
 import { getLesson, coursesData } from '@/lib/data'
 import { LessonPageClient } from './LessonPageClient'
+import { BreadcrumbJsonLd } from '@/components/seo'
 
 interface LessonPageProps {
   params: Promise<{ slug: string; lessonId: string }>
@@ -36,7 +37,7 @@ export async function generateMetadata({ params }: LessonPageProps) {
   
   if (!data) {
     return {
-      title: 'Leçon Introuvable | TahaLearn',
+      title: 'Leçon Introuvable',
       description: 'La leçon demandée n\'existe pas ou n\'est pas disponible.',
     }
   }
@@ -46,7 +47,7 @@ export async function generateMetadata({ params }: LessonPageProps) {
   const description = `Leçon ${data.lessonNumber} sur ${data.totalLessons} du cours "${courseTitle}". Apprenez ${lessonTitle} avec preuves du Coran et Sunna.`
 
   return {
-    title: `${lessonTitle} | ${courseTitle} | TahaLearn`,
+    title: `${lessonTitle} | ${courseTitle}`,
     description: description,
     keywords: [...data.course.tags, data.course.category, lessonTitle, 'leçon gratuite', 'sciences islamiques'],
     alternates: {
@@ -84,5 +85,15 @@ export default async function LessonPage({ params }: LessonPageProps) {
     notFound()
   }
 
-  return <LessonPageClient data={data} />
+  return (
+    <>
+      <BreadcrumbJsonLd items={[
+        { name: 'Accueil', url: '/' },
+        { name: 'Cours', url: '/courses' },
+        { name: data.course.title.fr, url: `/courses/${slug}` },
+        { name: data.lesson.title.fr },
+      ]} />
+      <LessonPageClient data={data} />
+    </>
+  )
 }

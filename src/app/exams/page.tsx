@@ -9,14 +9,14 @@ import ExamsPageClient from './ExamsPageClient';
 export const revalidate = 21600;
 
 export const metadata: Metadata = {
-  title: 'Examens et Certifications | TahaLearn',
+  title: 'Examens et Certifications',
   description: 'Testez vos connaissances en sciences islamiques et obtenez vos certificats. Examens gratuits sur le Tajweed, Fiqh, Aqeedah et Seerah avec correction instantanée.',
   keywords: ['Examen islamique', 'Certificat sciences islamiques', 'Quiz Islam', 'Test Tajweed', 'Test Fiqh', 'Évaluation TahaLearn'],
   alternates: {
     canonical: 'https://www.tahalearn.com/exams',
   },
   openGraph: {
-    title: 'Examens et Certifications | TahaLearn',
+    title: 'Examens et Certifications',
     description: 'Testez vos connaissances et obtenez vos certificats en sciences islamiques.',
     url: 'https://www.tahalearn.com/exams',
     siteName: 'TahaLearn',
@@ -32,7 +32,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Examens | TahaLearn',
+    title: 'Examens',
     description: 'Testez vos connaissances en sciences islamiques.',
     images: ['/og-image.png'],
   },

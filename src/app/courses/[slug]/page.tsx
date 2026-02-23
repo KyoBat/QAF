@@ -6,6 +6,7 @@
 import { notFound } from 'next/navigation'
 import { getCourseBySlug, coursesData } from '@/lib/data'
 import { CourseDetailClient } from './CourseDetailClient'
+import { CourseJsonLd, BreadcrumbJsonLd } from '@/components/seo'
 
 // ISR: Regénérer les pages de cours toutes les heures
 export const revalidate = 3600
@@ -43,7 +44,7 @@ export async function generateMetadata({ params }: CoursePageProps) {
   
   if (!course) {
     return {
-      title: 'Cours Introuvable | TahaLearn',
+      title: 'Cours Introuvable',
       description: 'Le cours demandé n\'existe pas ou n\'est pas disponible.',
     }
   }
@@ -54,18 +55,20 @@ export async function generateMetadata({ params }: CoursePageProps) {
     fiqh: 'Fiqh',
     aqeedah: 'Aqeedah',
     seerah: 'Seerah',
+    hadith: 'Hadith',
     history: 'Histoire Islamique',
+    spirituality: 'Spiritualité',
   }
 
   return {
-    title: `${course.title.fr} | TahaLearn`,
+    title: course.title.fr,
     description: `${course.description.fr} - ${lessonsCount} leçons. Cours gratuit de ${categoryNames[course.category] || course.category}.`,
     keywords: [...course.tags, categoryNames[course.category] || course.category, 'cours gratuit', 'sciences islamiques', 'TahaLearn'],
     alternates: {
       canonical: `https://www.tahalearn.com/courses/${slug}`,
     },
     openGraph: {
-      title: `${course.title.fr} | TahaLearn`,
+      title: course.title.fr,
       description: course.description.fr,
       url: `https://www.tahalearn.com/courses/${slug}`,
       siteName: 'TahaLearn',
@@ -81,7 +84,7 @@ export async function generateMetadata({ params }: CoursePageProps) {
     },
     twitter: {
       card: 'summary_large_image',
-      title: `${course.title.fr} | TahaLearn`,
+      title: course.title.fr,
       description: course.description.fr,
       images: [course.image || '/og-image.png'],
     },
@@ -96,5 +99,26 @@ export default async function CoursePage({ params }: CoursePageProps) {
     notFound()
   }
 
-  return <CourseDetailClient course={course} />
+  // Strip lesson content to reduce RSC payload (~186KB → ~20KB)
+  // CourseDetailClient only needs lesson id/title/order/duration for the list
+  const lightLessons = course.lessons.map(({ id, title, order, duration, videoUrl }) => ({
+    id,
+    title,
+    order,
+    duration,
+    videoUrl: videoUrl || '',
+    content: { fr: '', ar: '', en: '' },
+  }))
+
+  return (
+    <>
+      <CourseJsonLd course={course} />
+      <BreadcrumbJsonLd items={[
+        { name: 'Accueil', url: '/' },
+        { name: 'Cours', url: '/courses' },
+        { name: course.title.fr },
+      ]} />
+      <CourseDetailClient course={{ ...course, lessons: lightLessons }} />
+    </>
+  )
 }

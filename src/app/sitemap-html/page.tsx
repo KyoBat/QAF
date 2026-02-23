@@ -7,7 +7,7 @@ import Link from 'next/link'
 import { getAllExamsLight } from '@/lib/data/exams'
 
 export const metadata = {
-  title: 'Plan du Site | TahaLearn',
+  title: 'Plan du Site',
   description: 'Plan du site TahaLearn avec tous les cours et leçons de sciences islamiques disponibles.',
   robots: {
     index: true,

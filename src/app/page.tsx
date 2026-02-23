@@ -1,5 +1,6 @@
 import { coursesData, getFeaturedCourses } from '@/lib/data/courses/index'
 import HomePageClient from './HomePageClient'
+import type { Course } from '@/lib/data/courses/types'
 
 // ISR: Regénérer la page toutes les heures
 export const revalidate = 3600
@@ -12,6 +13,25 @@ function shuffleArray<T>(array: T[]): T[] {
     [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]]
   }
   return shuffled
+}
+
+/**
+ * Strip heavy lesson content to reduce RSC payload size.
+ * The homepage only needs lesson id/title/order for display — not the full
+ * trilingual markdown bodies (which bloated the page to 1.2 MB).
+ */
+function stripCourseContent(course: Course) {
+  return {
+    ...course,
+    lessons: course.lessons.map(({ id, title, order, duration, videoUrl }) => ({
+      id,
+      title,
+      order,
+      duration,
+      videoUrl,
+      content: { fr: '', ar: '', en: '' },
+    })),
+  }
 }
 
 // Server Component - pas de 'use client', calculs côté serveur
@@ -35,9 +55,12 @@ export default function HomePage() {
     coursesPerCategory[course.category] = (coursesPerCategory[course.category] || 0) + 1
   }
 
+  // Strip lesson content to reduce payload (1.2MB → ~50KB)
+  const lightCourses = fallbackCourses.map(stripCourseContent)
+
   return (
     <HomePageClient 
-      featuredCourses={fallbackCourses}
+      featuredCourses={lightCourses}
       totalCourses={totalCourses}
       totalLessons={totalLessons}
       coursesPerCategory={coursesPerCategory}
