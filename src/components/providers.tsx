@@ -84,20 +84,19 @@ export function LocaleProvider({ children }: { children: React.ReactNode }) {
     }
   }, [locale, mounted])
 
+  // Use the store locale on client, default 'fr' during SSR
+  const activeLocale = mounted ? locale : 'fr'
+
   const t = (key: string, params?: Record<string, string | number>) => {
-    const text = getTranslation(locale, key)
+    const text = getTranslation(activeLocale, key)
     return params ? interpolate(text, params) : text
   }
 
-  const dir = locales[locale].dir
+  const dir = locales[activeLocale].dir
   const isRTL = dir === 'rtl'
 
-  if (!mounted) {
-    return null
-  }
-
   return (
-    <LocaleContext.Provider value={{ locale, setLocale, t, dir, isRTL }}>
+    <LocaleContext.Provider value={{ locale: activeLocale, setLocale, t, dir, isRTL }}>
       {children}
     </LocaleContext.Provider>
   )
