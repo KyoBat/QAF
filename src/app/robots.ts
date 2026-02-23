@@ -7,25 +7,18 @@ export default function robots(): MetadataRoute.Robots {
     rules: [
       {
         userAgent: '*',
-        allow: [
-          '/',
-          '/courses/',
-          '/courses/*/lessons/*',
-          '/exams/',
-          '/about',
-        ],
-        disallow: [
-          '/api/', 
-          '/private/',
-          '/_next/',
-          '/admin/',
-        ],
+        allow: '/',
+        disallow: ['/api/', '/private/', '/_next/'],
       },
-      // Règle spéciale pour Googlebot - plus permissive
       {
         userAgent: 'Googlebot',
-        allow: ['/', '/courses/', '/courses/*/lessons/*'],
-        disallow: ['/api/', '/private/', '/_next/'],
+        allow: '/',
+        disallow: ['/api/', '/private/'],
+      },
+      {
+        userAgent: 'bingbot',
+        allow: '/',
+        disallow: ['/api/', '/private/'],
       },
     ],
     sitemap: `${baseUrl}/sitemap.xml`,
