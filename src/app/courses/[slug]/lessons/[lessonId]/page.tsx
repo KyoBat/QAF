@@ -46,6 +46,11 @@ export async function generateMetadata({ params }: LessonPageProps) {
   const courseTitle = data.course.title.fr
   const description = `Leçon ${data.lessonNumber} sur ${data.totalLessons} du cours "${courseTitle}". Apprenez ${lessonTitle} avec preuves du Coran et Sunna.`
 
+  // Use PNG version for social sharing (WhatsApp/Twitter/Facebook don't support SVG)
+  const ogImage = data.course.image
+    ? data.course.image.replace(/\.svg$/, '.png')
+    : '/og-image.png'
+
   return {
     title: `${lessonTitle} | ${courseTitle}`,
     description: description,
@@ -61,7 +66,7 @@ export async function generateMetadata({ params }: LessonPageProps) {
       type: 'article',
       images: [
         {
-          url: data.course.image || '/og-image.png',
+          url: ogImage,
           width: 1200,
           height: 630,
           alt: lessonTitle,
@@ -72,7 +77,7 @@ export async function generateMetadata({ params }: LessonPageProps) {
       card: 'summary_large_image',
       title: `${lessonTitle} | ${courseTitle}`,
       description: description,
-      images: [data.course.image || '/og-image.png'],
+      images: [ogImage],
     },
   }
 }

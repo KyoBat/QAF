@@ -60,6 +60,11 @@ export async function generateMetadata({ params }: CoursePageProps) {
     spirituality: 'Spiritualité',
   }
 
+  // Use PNG version for OG/social sharing (WhatsApp, Twitter, Facebook don't support SVG)
+  const ogImage = course.image
+    ? course.image.replace(/\.svg$/, '.png')
+    : '/og-image.png'
+
   return {
     title: course.title.fr,
     description: `${course.description.fr} - ${lessonsCount} leçons. Cours gratuit de ${categoryNames[course.category] || course.category}.`,
@@ -75,7 +80,7 @@ export async function generateMetadata({ params }: CoursePageProps) {
       type: 'article',
       images: [
         {
-          url: course.image || '/og-image.png',
+          url: ogImage,
           width: 1200,
           height: 630,
           alt: course.title.fr,
@@ -86,7 +91,7 @@ export async function generateMetadata({ params }: CoursePageProps) {
       card: 'summary_large_image',
       title: course.title.fr,
       description: course.description.fr,
-      images: [course.image || '/og-image.png'],
+      images: [ogImage],
     },
   }
 }
