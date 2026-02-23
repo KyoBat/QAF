@@ -9,7 +9,7 @@ import { content as contentAr } from './ar'
 import { content as contentEn } from './en'
 
 export const lesson007: Lesson = {
-  id: 'lesson-007',
+  id: '007-femmes-savantes',
   duration: '45 min',
   order: 7,
   title: {

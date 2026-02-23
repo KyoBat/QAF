@@ -9,7 +9,7 @@ import { content as contentAr } from './ar'
 import { content as contentEn } from './en'
 
 export const lesson005: Lesson = {
-  id: 'lesson-005',
+  id: '005-verification',
   duration: '40 min',
   order: 5,
   title: {
