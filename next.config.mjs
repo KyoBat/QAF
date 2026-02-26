@@ -53,6 +53,17 @@ const nextConfig = {
       },
     ];
   },
+
+  // Redirections pour corriger les pages en double
+  async redirects() {
+    return [
+      {
+        source: '/courses/mustalah-hadith/lessons/lesson-005',
+        destination: '/courses/mustalah-hadith/lessons/005-verification',
+        permanent: true, // 301 redirect
+      },
+    ];
+  },
 };
 
 export default nextConfig;
