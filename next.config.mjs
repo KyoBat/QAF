@@ -57,10 +57,41 @@ const nextConfig = {
   // Redirections pour corriger les pages en double
   async redirects() {
     return [
+      // Mustalah Hadith - Anciennes URLs lesson-XXX → Nouvelles URLs XXX-nom
+      {
+        source: '/courses/mustalah-hadith/lessons/lesson-001',
+        destination: '/courses/mustalah-hadith/lessons/001-introduction',
+        permanent: true,
+      },
+      {
+        source: '/courses/mustalah-hadith/lessons/lesson-002',
+        destination: '/courses/mustalah-hadith/lessons/002-classification',
+        permanent: true,
+      },
+      {
+        source: '/courses/mustalah-hadith/lessons/lesson-003',
+        destination: '/courses/mustalah-hadith/lessons/003-isnad',
+        permanent: true,
+      },
+      {
+        source: '/courses/mustalah-hadith/lessons/lesson-004',
+        destination: '/courses/mustalah-hadith/lessons/004-recueils',
+        permanent: true,
+      },
       {
         source: '/courses/mustalah-hadith/lessons/lesson-005',
         destination: '/courses/mustalah-hadith/lessons/005-verification',
-        permanent: true, // 301 redirect
+        permanent: true,
+      },
+      {
+        source: '/courses/mustalah-hadith/lessons/lesson-006',
+        destination: '/courses/mustalah-hadith/lessons/006-mawdu',
+        permanent: true,
+      },
+      {
+        source: '/courses/mustalah-hadith/lessons/lesson-007',
+        destination: '/courses/mustalah-hadith/lessons/007-femmes-savantes',
+        permanent: true,
       },
     ];
   },
