@@ -100,7 +100,7 @@ export const fiqhZakatMeta: CourseMeta = {
   level: 'beginner',
   duration: '4h 30min',
   instructor: 'Sheikh Muhammad Al-Faqih',
-  image: '/images/courses/fiqh.svg',
+  image: '/images/courses/fiqh/zakat.svg',
   tags: ['fiqh', 'zakat', 'charity', 'pillar-of-islam', 'worship'],
   featured: true,
   published: true,
