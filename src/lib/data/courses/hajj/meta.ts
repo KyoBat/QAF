@@ -9,9 +9,9 @@ export const hajjMeta: CourseMeta = {
   id: 'course-hajj',
   slug: 'fiqh-hajj',
   title: {
-    fr: 'Le Pèlerinage (Al-Hajj)',
+    fr: 'Le Pèlerinage : Hajj et Omra',
     ar: 'الحج والعمرة',
-    en: 'Pilgrimage (Al-Hajj)',
+    en: 'Pilgrimage: Hajj and Umrah',
   },
   description: {
     fr: 'Maîtrisez les règles du Hajj et de la Omra selon l\'école Malikite : conditions, piliers, obligations, rites jour par jour, interdits de l\'Ihram et sacrifices.',

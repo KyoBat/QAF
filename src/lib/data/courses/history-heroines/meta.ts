@@ -15,7 +15,7 @@ export const historyHeroinesMeta: CourseMeta = {
   },
   description: {
     fr: 'Découvrez les histoires extraordinaires des femmes qui ont marqué l\'Islam : les Mères des Croyants, les premières martyres, les savantes, les guerrières et les mécènes. Des modèles de foi, de courage et de sagesse pour toutes les époques.',
-    ar: 'اكتشفي قصص النساء العظيمات اللواتي صنعن تاريخ الإسلام: أمهات المؤمنين، الشهيدات الأوائل، العالمات، المجاهدات والداعمات. قدوات في الإيمان والشجاعة والحكمة لكل زمان.',
+    ar: 'اكتشف قصص النساء العظيمات اللواتي صنعن تاريخ الإسلام: أمهات المؤمنين، الشهيدات الأوائل، العالمات، المجاهدات والداعمات. قدوات في الإيمان والشجاعة والحكمة لكل زمان.',
     en: 'Discover the extraordinary stories of the women who shaped Islam: the Mothers of the Believers, the first martyrs, the scholars, the warriors, and the patrons. Models of faith, courage, and wisdom for all times.',
   },
   category: 'history',

@@ -22,7 +22,7 @@ export const seerahModule5Meta: CourseMeta = {
   duration: '1h',
   instructor: 'Zad Academy',
   image: '/images/courses/seerah.svg',
-  tags: ['seerah', 'lessons', 'applications', 'tarbiya', 'akhklaq', 'leadership', 'patience'],
+  tags: ['seerah', 'lessons', 'applications', 'tarbiya', 'akhlaq', 'leadership', 'patience'],
   featured: true,
   published: true,
   resources: [],

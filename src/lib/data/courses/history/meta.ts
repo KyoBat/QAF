@@ -6,7 +6,7 @@
 import { CourseMeta } from '../types'
 
 export const historyImamsMeta: CourseMeta = {
-  id: 'course-012',
+  id: 'course-016',
   slug: 'les-4-grands-imams',
   title: {
     fr: 'Les 4 Grands Imams et leurs Écoles',
