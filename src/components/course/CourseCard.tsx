@@ -114,7 +114,7 @@ export function CourseCard({ course, className }: CourseCardProps) {
               src={course.image}
               alt={title}
               fill
-              className="object-cover transition-transform duration-300 group-hover:scale-105"
+              className={`transition-transform duration-300 group-hover:scale-105 ${course.image.endsWith('.svg') ? 'object-contain p-4' : 'object-cover'}`}
               sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
             />
           ) : (
