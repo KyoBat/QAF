@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <defs>
+    <linearGradient id="zakatGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f59e0b;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#d97706;stop-opacity:1" />
+    </linearGradient>
+    <filter id="shadowZakat">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-opacity="0.3"/>
+    </filter>
+  </defs>
+  
+  <!-- Background Circle -->
+  <circle cx="100" cy="100" r="90" fill="url(#zakatGrad)" opacity="0.1"/>
+  
+  <!-- Giving Hand -->
+  <g transform="translate(80, 80)" filter="url(#shadowZakat)">
+    <!-- Palm -->
+    <ellipse cx="0" cy="20" rx="18" ry="24" fill="url(#zakatGrad)" opacity="0.8"/>
+    <!-- Fingers -->
+    <rect x="-12" y="-5" width="6" height="25" rx="3" fill="url(#zakatGrad)" opacity="0.85"/>
+    <rect x="-4" y="-8" width="6" height="28" rx="3" fill="url(#zakatGrad)" opacity="0.85"/>
+    <rect x="4" y="-5" width="6" height="25" rx="3" fill="url(#zakatGrad)" opacity="0.85"/>
+    <!-- Thumb -->
+    <ellipse cx="-18" cy="15" rx="5" ry="10" fill="url(#zakatGrad)" opacity="0.85" transform="rotate(-30 -18 15)"/>
+    <!-- Wrist -->
+    <rect x="-15" y="35" width="30" height="12" rx="6" fill="url(#zakatGrad)" opacity="0.7"/>
+  </g>
+  
+  <!-- Coins -->
+  <g filter="url(#shadowZakat)">
+    <!-- Coin 1 -->
+    <g transform="translate(120, 60)">
+      <circle cx="0" cy="0" r="12" fill="url(#zakatGrad)"/>
+      <circle cx="0" cy="0" r="9" fill="none" stroke="#fff" stroke-width="1.5" opacity="0.6"/>
+      <text x="0" y="4" font-family="Arial" font-size="10" font-weight="bold" fill="#fff" text-anchor="middle" opacity="0.8">$</text>
+    </g>
+    <!-- Coin 2 -->
+    <g transform="translate(140, 75)">
+      <circle cx="0" cy="0" r="11" fill="url(#zakatGrad)" opacity="0.9"/>
+      <circle cx="0" cy="0" r="8" fill="none" stroke="#fff" stroke-width="1.5" opacity="0.5"/>
+      <text x="0" y="4" font-family="Arial" font-size="9" font-weight="bold" fill="#fff" text-anchor="middle" opacity="0.7">$</text>
+    </g>
+    <!-- Coin 3 -->
+    <g transform="translate(135, 95)">
+      <circle cx="0" cy="0" r="10" fill="url(#zakatGrad)" opacity="0.85"/>
+      <circle cx="0" cy="0" r="7" fill="none" stroke="#fff" stroke-width="1.5" opacity="0.4"/>
+      <text x="0" y="3" font-family="Arial" font-size="8" font-weight="bold" fill="#fff" text-anchor="middle" opacity="0.6">$</text>
+    </g>
+  </g>
+  
+  <!-- Sparkles -->
+  <g opacity="0.6">
+    <path d="M 100 40 L 102 45 L 107 43 L 103 48 L 108 52 L 102 50 L 100 55 L 98 50 L 92 52 L 97 48 L 93 43 L 98 45 Z" fill="#f59e0b"/>
+    <path d="M 155 110 L 156 113 L 159 112 L 157 115 L 160 117 L 157 116 L 155 119 L 153 116 L 150 117 L 153 115 L 151 112 L 154 113 Z" fill="#d97706"/>
+  </g>
+</svg>

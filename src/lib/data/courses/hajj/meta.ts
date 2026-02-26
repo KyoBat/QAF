@@ -22,7 +22,7 @@ export const hajjMeta: CourseMeta = {
   level: 'beginner',
   duration: '6h 00min',
   instructor: 'Sheikh Muhammad Al-Faqih',
-  image: '/images/courses/fiqh.svg',
+  image: '/images/courses/fiqh/hajj.svg',
   tags: ['fiqh', 'hajj', 'umrah', 'pilgrimage', 'worship', 'makkah'],
   featured: true,
   published: true,

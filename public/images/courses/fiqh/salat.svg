@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <defs>
+    <linearGradient id="salatGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#10b981;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#059669;stop-opacity:1" />
+    </linearGradient>
+    <filter id="shadowSalat">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-opacity="0.3"/>
+    </filter>
+  </defs>
+  
+  <!-- Background Circle -->
+  <circle cx="100" cy="100" r="90" fill="url(#salatGrad)" opacity="0.1"/>
+  
+  <!-- Prayer Rug -->
+  <g transform="translate(100, 130)">
+    <rect x="-45" y="-15" width="90" height="50" rx="4" fill="url(#salatGrad)" opacity="0.2"/>
+    <rect x="-40" y="-10" width="80" height="40" rx="2" fill="none" stroke="url(#salatGrad)" stroke-width="1.5" opacity="0.4"/>
+  </g>
+  
+  <!-- Person in Sujood (Prostration) -->
+  <g transform="translate(100, 100)" filter="url(#shadowSalat)">
+    <!-- Body -->
+    <ellipse cx="0" cy="15" rx="25" ry="12" fill="url(#salatGrad)" opacity="0.9"/>
+    <!-- Arms -->
+    <ellipse cx="-15" cy="20" rx="8" ry="4" fill="url(#salatGrad)" opacity="0.85"/>
+    <ellipse cx="15" cy="20" rx="8" ry="4" fill="url(#salatGrad)" opacity="0.85"/>
+    <!-- Head -->
+    <circle cx="0" cy="22" r="6" fill="url(#salatGrad)"/>
+  </g>
+  
+  <!-- Prayer  Direction Indicator (Qibla) -->
+  <g transform="translate(100, 50)">
+    <path d="M 0 -15 L -8 0 L 0 -5 L 8 0 Z" fill="url(#salatGrad)" opacity="0.6"/>
+  </g>
+  
+  <!-- Decorative Lines (Prayer lines) -->
+  <line x1="50" y1="140" x2="150" y2="140" stroke="url(#salatGrad)" stroke-width="1" opacity="0.3"/>
+  <line x1="55" y1="150" x2="145" y2="150" stroke="url(#salatGrad)" stroke-width="1" opacity="0.3"/>
+</svg>

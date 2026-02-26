@@ -22,7 +22,7 @@ export const siyamMeta: CourseMeta = {
   level: 'beginner',
   duration: '5h 20min',
   instructor: 'Sheikh Muhammad Al-Faqih',
-  image: '/images/courses/fiqh.svg',
+  image: '/images/courses/fiqh/siyam.svg',
   tags: ['fiqh', 'siyam', 'fasting', 'ramadan', 'worship'],
   featured: true,
   published: true,
