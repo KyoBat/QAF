@@ -6,14 +6,26 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+  <!-- Background with rounded corners -->
   <rect width="32" height="32" rx="6" fill="url(#bgFav)"/>
   
-  <!-- Stylized Qaf letter -->
-  <text x="16" y="24" 
-        font-family="serif" 
-        font-size="22" 
-        font-weight="bold" 
-        fill="white" 
-        text-anchor="middle">ق</text>
+  <!-- Open Book Icon -->
+  <g transform="translate(6, 8)">
+    <!-- Left page -->
+    <path d="M 0 2 Q 0 0, 4 0 L 8 0 L 8 14 L 4 12 Q 0 10, 0 12 Z" 
+          fill="white" opacity="0.95"/>
+    <!-- Right page -->
+    <path d="M 12 2 Q 12 0, 16 0 L 20 0 L 20 12 Q 20 10, 16 12 L 12 14 Z" 
+          fill="white" opacity="0.85"/>
+    <!-- Book spine -->
+    <rect x="9.5" y="0" width="1" height="14" fill="white" opacity="0.6"/>
+    <!-- Page lines (left) -->
+    <line x1="2" y1="4" x2="7" y2="4" stroke="#10b981" stroke-width="0.5"/>
+    <line x1="2" y1="6" x2="7" y2="6" stroke="#10b981" stroke-width="0.5"/>
+    <line x1="2" y1="8" x2="7" y2="8" stroke="#10b981" stroke-width="0.5"/>
+    <!-- Page lines (right) -->
+    <line x1="13" y1="4" x2="18" y2="4" stroke="#059669" stroke-width="0.5"/>
+    <line x1="13" y1="6" x2="18" y2="6" stroke="#059669" stroke-width="0.5"/>
+    <line x1="13" y1="8" x2="18" y2="8" stroke="#059669" stroke-width="0.5"/>
+  </g>
 </svg>
