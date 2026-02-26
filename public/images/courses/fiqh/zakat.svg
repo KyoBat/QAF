@@ -85,11 +85,11 @@
   <!-- "ZAKAT" label -->
   <text x="100" y="165" 
         font-family="Arial, sans-serif" 
-        font-size="16" 
+        font-size="20" 
         font-weight="600" 
         fill="url(#darkGold)" 
         text-anchor="middle"
-        letter-spacing="2">ZAKAT</text>
+        letter-spacing="2">الزكاة</text>
   
   <!-- Decorative sparkles -->
   <g opacity="0.7">

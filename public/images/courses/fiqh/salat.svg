@@ -72,11 +72,11 @@
   <!-- "SALAT" label -->
   <text x="100" y="175" 
         font-family="Arial, sans-serif" 
-        font-size="16" 
+        font-size="20" 
         font-weight="600" 
         fill="url(#darkGreen)" 
         text-anchor="middle"
-        letter-spacing="2">SALAT</text>
+        letter-spacing="2">الصلاة</text>
   
   <!-- Decorative sparkles/stars -->
   <g opacity="0.6">

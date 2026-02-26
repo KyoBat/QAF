@@ -62,13 +62,13 @@
           fill="url(#hajjGrad)" 
           text-anchor="middle"
           stroke="#032f26"
-          stroke-width="0.5">HAJJ</text>
+          stroke-width="0.5">الحج</text>
     <text x="100" y="50" 
           font-family="Arial, sans-serif" 
           font-size="34" 
           font-weight="bold" 
           fill="url(#hajjGrad)" 
-          text-anchor="middle">HAJJ</text>
+          text-anchor="middle">الحج</text>
   </g>
   
   <!-- "مكة" (Makkah) in Arabic -->
@@ -77,7 +77,7 @@
         font-size="20" 
         font-weight="600" 
         fill="url(#hajjGrad)" 
-        text-anchor="middle">مكة</text>
+        text-anchor="middle">والعمرة</text>
   
   <!-- Decorative stars/sparkles -->
   <g opacity="0.6">
