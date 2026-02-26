@@ -1,56 +1,105 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
   <defs>
-    <linearGradient id="zakatGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f59e0b;stop-opacity:1" />
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#fbbf24;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#f59e0b;stop-opacity:1" />
       <stop offset="100%" style="stop-color:#d97706;stop-opacity:1" />
     </linearGradient>
-    <filter id="shadowZakat">
-      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-opacity="0.3"/>
+    <linearGradient id="darkGold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#d97706;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#b45309;stop-opacity:1" />
+    </linearGradient>
+    <filter id="coinShadow">
+      <feDropShadow dx="0" dy="3" stdDeviation="3" flood-opacity="0.4"/>
     </filter>
+    <radialGradient id="shine">
+      <stop offset="0%" style="stop-color:#fef3c7;stop-opacity:0.9" />
+      <stop offset="100%" style="stop-color:#fbbf24;stop-opacity:0" />
+    </radialGradient>
   </defs>
   
   <!-- Background Circle -->
-  <circle cx="100" cy="100" r="90" fill="url(#zakatGrad)" opacity="0.1"/>
+  <circle cx="100" cy="100" r="90" fill="url(#goldGrad)" opacity="0.1"/>
   
-  <!-- Giving Hand -->
-  <g transform="translate(80, 80)" filter="url(#shadowZakat)">
-    <!-- Palm -->
-    <ellipse cx="0" cy="20" rx="18" ry="24" fill="url(#zakatGrad)" opacity="0.8"/>
-    <!-- Fingers -->
-    <rect x="-12" y="-5" width="6" height="25" rx="3" fill="url(#zakatGrad)" opacity="0.85"/>
-    <rect x="-4" y="-8" width="6" height="28" rx="3" fill="url(#zakatGrad)" opacity="0.85"/>
-    <rect x="4" y="-5" width="6" height="25" rx="3" fill="url(#zakatGrad)" opacity="0.85"/>
-    <!-- Thumb -->
-    <ellipse cx="-18" cy="15" rx="5" ry="10" fill="url(#zakatGrad)" opacity="0.85" transform="rotate(-30 -18 15)"/>
-    <!-- Wrist -->
-    <rect x="-15" y="35" width="30" height="12" rx="6" fill="url(#zakatGrad)" opacity="0.7"/>
+  <!-- Stack of Gold Coins -->
+  <g filter="url(#coinShadow)">
+    <!-- Bottom layer coins -->
+    <g transform="translate(100, 130)">
+      <!-- Coin 1 -->
+      <ellipse cx="-20" cy="0" rx="18" ry="6" fill="url(#darkGold)"/>
+      <ellipse cx="-20" cy="-2" rx="18" ry="6" fill="url(#goldGrad)"/>
+      <ellipse cx="-20" cy="-2" rx="14" ry="4.5" fill="none" stroke="#fef3c7" stroke-width="0.8" opacity="0.6"/>
+      
+      <!-- Coin 2 -->
+      <ellipse cx="0" cy="0" rx="18" ry="6" fill="url(#darkGold)"/>
+      <ellipse cx="0" cy="-2" rx="18" ry="6" fill="url(#goldGrad)"/>
+      <ellipse cx="0" cy="-2" rx="14" ry="4.5" fill="none" stroke="#fef3c7" stroke-width="0.8" opacity="0.6"/>
+      
+      <!-- Coin 3 -->
+      <ellipse cx="20" cy="0" rx="18" ry="6" fill="url(#darkGold)"/>
+      <ellipse cx="20" cy="-2" rx="18" ry="6" fill="url(#goldGrad)"/>
+      <ellipse cx="20" cy="-2" rx="14" ry="4.5" fill="none" stroke="#fef3c7" stroke-width="0.8" opacity="0.6"/>
+    </g>
+    
+    <!-- Middle layer -->
+    <g transform="translate(100, 115)">
+      <!-- Coin 1 -->
+      <ellipse cx="-10" cy="0" rx="18" ry="6" fill="url(#darkGold)"/>
+      <ellipse cx="-10" cy="-2" rx="18" ry="6" fill="url(#goldGrad)"/>
+      <ellipse cx="-10" cy="-2" rx="14" ry="4.5" fill="none" stroke="#fef3c7" stroke-width="0.8" opacity="0.6"/>
+      
+      <!-- Coin 2 -->
+      <ellipse cx="10" cy="0" rx="18" ry="6" fill="url(#darkGold)"/>
+      <ellipse cx="10" cy="-2" rx="18" ry="6" fill="url(#goldGrad)"/>
+      <ellipse cx="10" cy="-2" rx="14" ry="4.5" fill="none" stroke="#fef3c7" stroke-width="0.8" opacity="0.6"/>
+    </g>
+    
+    <!-- Top coin -->
+    <g transform="translate(100, 100)">
+      <ellipse cx="0" cy="2" rx="18" ry="6" fill="url(#darkGold)"/>
+      <ellipse cx="0" cy="0" rx="18" ry="6" fill="url(#goldGrad)"/>
+      <ellipse cx="0" cy="0" rx="14" ry="4.5" fill="none" stroke="#fef3c7" stroke-width="0.8" opacity="0.6"/>
+      <!-- Shine on top coin -->
+      <ellipse cx="-4" cy="-1" rx="6" ry="2" fill="#fef3c7" opacity="0.5"/>
+    </g>
   </g>
   
-  <!-- Coins -->
-  <g filter="url(#shadowZakat)">
-    <!-- Coin 1 -->
-    <g transform="translate(120, 60)">
-      <circle cx="0" cy="0" r="12" fill="url(#zakatGrad)"/>
-      <circle cx="0" cy="0" r="9" fill="none" stroke="#fff" stroke-width="1.5" opacity="0.6"/>
-      <text x="0" y="4" font-family="Arial" font-size="10" font-weight="bold" fill="#fff" text-anchor="middle" opacity="0.8">$</text>
-    </g>
-    <!-- Coin 2 -->
-    <g transform="translate(140, 75)">
-      <circle cx="0" cy="0" r="11" fill="url(#zakatGrad)" opacity="0.9"/>
-      <circle cx="0" cy="0" r="8" fill="none" stroke="#fff" stroke-width="1.5" opacity="0.5"/>
-      <text x="0" y="4" font-family="Arial" font-size="9" font-weight="bold" fill="#fff" text-anchor="middle" opacity="0.7">$</text>
-    </g>
-    <!-- Coin 3 -->
-    <g transform="translate(135, 95)">
-      <circle cx="0" cy="0" r="10" fill="url(#zakatGrad)" opacity="0.85"/>
-      <circle cx="0" cy="0" r="7" fill="none" stroke="#fff" stroke-width="1.5" opacity="0.4"/>
-      <text x="0" y="3" font-family="Arial" font-size="8" font-weight="bold" fill="#fff" text-anchor="middle" opacity="0.6">$</text>
-    </g>
+  <!-- Big "2.5%" text -->
+  <g filter="url(#coinShadow)">
+    <text x="100" y="65" 
+          font-family="Arial, sans-serif" 
+          font-size="32" 
+          font-weight="bold" 
+          fill="url(#goldGrad)" 
+          text-anchor="middle"
+          stroke="#b45309"
+          stroke-width="0.5">2.5%</text>
+    <text x="100" y="65" 
+          font-family="Arial, sans-serif" 
+          font-size="32" 
+          font-weight="bold" 
+          fill="url(#goldGrad)" 
+          text-anchor="middle">2.5%</text>
   </g>
   
-  <!-- Sparkles -->
-  <g opacity="0.6">
-    <path d="M 100 40 L 102 45 L 107 43 L 103 48 L 108 52 L 102 50 L 100 55 L 98 50 L 92 52 L 97 48 L 93 43 L 98 45 Z" fill="#f59e0b"/>
-    <path d="M 155 110 L 156 113 L 159 112 L 157 115 L 160 117 L 157 116 L 155 119 L 153 116 L 150 117 L 153 115 L 151 112 L 154 113 Z" fill="#d97706"/>
+  <!-- "ZAKAT" label -->
+  <text x="100" y="165" 
+        font-family="Arial, sans-serif" 
+        font-size="16" 
+        font-weight="600" 
+        fill="url(#darkGold)" 
+        text-anchor="middle"
+        letter-spacing="2">ZAKAT</text>
+  
+  <!-- Decorative sparkles -->
+  <g opacity="0.7">
+    <circle cx="40" cy="60" r="2.5" fill="#fbbf24"/>
+    <circle cx="160" cy="65" r="2.5" fill="#fbbf24"/>
+    <circle cx="50" cy="100" r="2" fill="#f59e0b"/>
+    <circle cx="150" cy="105" r="2" fill="#f59e0b"/>
+    
+    <!-- Star sparkles -->
+    <path d="M 35 90 L 36 92 L 38 92 L 36.5 93.5 L 37 96 L 35 94.5 L 33 96 L 33.5 93.5 L 32 92 L 34 92 Z" fill="#fbbf24"/>
+    <path d="M 165 95 L 166 97 L 168 97 L 166.5 98.5 L 167 101 L 165 99.5 L 163 101 L 163.5 98.5 L 162 97 L 164 97 Z" fill="#fbbf24"/>
   </g>
 </svg>
