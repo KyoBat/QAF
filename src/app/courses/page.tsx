@@ -8,6 +8,7 @@ import { Suspense } from 'react'
 import { Metadata } from 'next'
 import { getCoursesListData } from '@/lib/data/courses/courses-list'
 import { CoursesPageClient } from './CoursesPageClient'
+import { BreadcrumbJsonLd, ItemListJsonLd } from '@/components/seo'
 
 export const metadata: Metadata = {
   title: 'Tous les Cours - Sciences Islamiques Gratuites',
@@ -65,9 +66,22 @@ export default function CoursesPage() {
   // Charger les données légères côté serveur
   const coursesListData = getCoursesListData()
 
+  const courseItems = coursesListData.map((course, index) => ({
+    name: course.title.fr,
+    url: `/courses/${course.slug}`,
+    position: index + 1,
+  }))
+
   return (
-    <Suspense fallback={<CoursesLoadingSkeleton />}>
-      <CoursesPageClient initialCourses={coursesListData} />
-    </Suspense>
+    <>
+      <BreadcrumbJsonLd items={[
+        { name: 'Accueil', url: '/' },
+        { name: 'Cours', url: '/courses' },
+      ]} />
+      <ItemListJsonLd items={courseItems} name="Cours de Sciences Islamiques" />
+      <Suspense fallback={<CoursesLoadingSkeleton />}>
+        <CoursesPageClient initialCourses={coursesListData} />
+      </Suspense>
+    </>
   )
 }

@@ -72,6 +72,7 @@ interface CourseJsonLdProps {
     slug: string
     instructor: string
     id: string
+    image?: string
     lessons: { id: string }[]
     duration: string
     level: string
@@ -83,12 +84,18 @@ export function CourseJsonLd({ course, locale = 'fr' }: CourseJsonLdProps) {
   const title = course.title[locale as keyof typeof course.title] || course.title.fr
   const description = course.description[locale as keyof typeof course.description] || course.description.fr
 
+  // Use PNG for structured data (Google requires raster images)
+  const imageUrl = course.image
+    ? `${BASE_URL}${course.image.replace(/\.svg$/, '.png')}`
+    : `${BASE_URL}/og-image.png`
+
   const schema = {
     '@context': 'https://schema.org',
     '@type': 'Course',
     name: title,
     description: description,
     url: `${BASE_URL}/courses/${course.slug}`,
+    image: imageUrl,
     provider: {
       '@type': 'EducationalOrganization',
       name: 'TahaLearn',
@@ -157,6 +164,91 @@ export function FAQJsonLd({ faqs }: { faqs: { question: string; answer: string }
         '@type': 'Answer',
         text: faq.answer,
       },
+    })),
+  }
+
+  return (
+    <script
+      type="application/ld+json"
+      dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
+    />
+  )
+}
+
+// Schema.org LearningResource (pour les pages de leçons)
+interface LearningResourceJsonLdProps {
+  lesson: {
+    title: { fr: string; ar: string; en: string }
+  }
+  course: {
+    title: { fr: string; ar: string; en: string }
+    slug: string
+    instructor: string
+    image?: string
+  }
+  lessonNumber: number
+  totalLessons: number
+  slug: string
+  lessonId: string
+}
+
+export function LearningResourceJsonLd({ lesson, course, lessonNumber, totalLessons, slug, lessonId }: LearningResourceJsonLdProps) {
+  const imageUrl = course.image
+    ? `${BASE_URL}${course.image.replace(/\.svg$/, '.png')}`
+    : `${BASE_URL}/og-image.png`
+
+  const schema = {
+    '@context': 'https://schema.org',
+    '@type': 'LearningResource',
+    name: lesson.title.fr,
+    description: `Leçon ${lessonNumber} sur ${totalLessons} du cours "${course.title.fr}".`,
+    url: `${BASE_URL}/courses/${slug}/lessons/${lessonId}`,
+    image: imageUrl,
+    author: {
+      '@type': 'Person',
+      name: course.instructor,
+    },
+    provider: {
+      '@type': 'EducationalOrganization',
+      name: 'TahaLearn',
+      url: BASE_URL,
+    },
+    isPartOf: {
+      '@type': 'Course',
+      name: course.title.fr,
+      url: `${BASE_URL}/courses/${slug}`,
+    },
+    learningResourceType: 'lesson',
+    inLanguage: ['fr', 'ar', 'en'],
+    isAccessibleForFree: true,
+    position: lessonNumber,
+  }
+
+  return (
+    <script
+      type="application/ld+json"
+      dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
+    />
+  )
+}
+
+// Schema.org ItemList (pour les pages de listing)
+interface ItemListJsonLdProps {
+  items: { name: string; url: string; position: number }[]
+  name: string
+}
+
+export function ItemListJsonLd({ items, name }: ItemListJsonLdProps) {
+  const schema = {
+    '@context': 'https://schema.org',
+    '@type': 'ItemList',
+    name,
+    numberOfItems: items.length,
+    itemListElement: items.map((item) => ({
+      '@type': 'ListItem',
+      position: item.position,
+      name: item.name,
+      url: `${BASE_URL}${item.url}`,
     })),
   }
 

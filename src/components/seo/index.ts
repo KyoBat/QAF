@@ -4,4 +4,6 @@ export {
   CourseJsonLd,
   BreadcrumbJsonLd,
   FAQJsonLd,
+  LearningResourceJsonLd,
+  ItemListJsonLd,
 } from './JsonLd'

@@ -4,6 +4,7 @@
 
 import { Metadata } from 'next';
 import ExamsPageClient from './ExamsPageClient';
+import { BreadcrumbJsonLd } from '@/components/seo';
 
 // ISR: Regénérer la page toutes les 6 heures
 export const revalidate = 21600;
@@ -39,5 +40,13 @@ export const metadata: Metadata = {
 };
 
 export default function ExamsPage() {
-  return <ExamsPageClient />;
+  return (
+    <>
+      <BreadcrumbJsonLd items={[
+        { name: 'Accueil', url: '/' },
+        { name: 'Examens', url: '/exams' },
+      ]} />
+      <ExamsPageClient />
+    </>
+  );
 }

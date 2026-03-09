@@ -1,6 +1,7 @@
 import { Metadata } from 'next'
 import { coursesData } from '@/lib/data/courses/index'
 import AboutPageClient from './AboutPageClient'
+import { BreadcrumbJsonLd } from '@/components/seo'
 
 export const metadata: Metadata = {
   title: 'À Propos - Sciences Islamiques Gratuites',
@@ -42,9 +43,15 @@ export default function AboutPage() {
   const totalLessons = allCourses.reduce((acc, course) => acc + course.lessons.length, 0)
 
   return (
-    <AboutPageClient 
-      totalCourses={totalCourses}
-      totalLessons={totalLessons}
-    />
+    <>
+      <BreadcrumbJsonLd items={[
+        { name: 'Accueil', url: '/' },
+        { name: 'À Propos', url: '/about' },
+      ]} />
+      <AboutPageClient 
+        totalCourses={totalCourses}
+        totalLessons={totalLessons}
+      />
+    </>
   )
 }

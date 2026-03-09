@@ -6,7 +6,7 @@
 import { notFound } from 'next/navigation'
 import { getLesson, coursesData } from '@/lib/data'
 import { LessonPageClient } from './LessonPageClient'
-import { BreadcrumbJsonLd } from '@/components/seo'
+import { BreadcrumbJsonLd, LearningResourceJsonLd } from '@/components/seo'
 
 interface LessonPageProps {
   params: Promise<{ slug: string; lessonId: string }>
@@ -96,8 +96,16 @@ export default async function LessonPage({ params }: LessonPageProps) {
         { name: 'Accueil', url: '/' },
         { name: 'Cours', url: '/courses' },
         { name: data.course.title.fr, url: `/courses/${slug}` },
-        { name: data.lesson.title.fr },
+        { name: data.lesson.title.fr, url: `/courses/${slug}/lessons/${lessonId}` },
       ]} />
+      <LearningResourceJsonLd
+        lesson={data.lesson}
+        course={data.course}
+        lessonNumber={data.lessonNumber}
+        totalLessons={data.totalLessons}
+        slug={slug}
+        lessonId={lessonId}
+      />
       <LessonPageClient data={data} />
     </>
   )
