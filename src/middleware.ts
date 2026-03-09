@@ -1,7 +1,7 @@
 /**
  * Middleware Next.js pour la gestion SEO
  * - Redirection non-www → www (évite le contenu dupliqué)
- * - Redirection HTTP → HTTPS
+ * - Nettoyage des query params (category, search)
  */
 
 import { NextResponse } from 'next/server'
@@ -23,13 +23,18 @@ export function middleware(request: NextRequest) {
     return NextResponse.redirect(url, 301)
   }
 
-  // Redirection /courses?category=xxx → /courses#category-xxx
+  // Redirection /courses?category=xxx → /courses (canonical propre)
   // Évite que Google indexe les URLs avec query params comme pages séparées
   if (request.nextUrl.pathname === '/courses' && request.nextUrl.searchParams.has('category')) {
-    const category = request.nextUrl.searchParams.get('category')
     const url = request.nextUrl.clone()
     url.searchParams.delete('category')
-    url.hash = `category-${category}`
+    return NextResponse.redirect(url, 301)
+  }
+
+  // Bloquer toute URL avec query params inutiles (UTM, etc.)
+  if (request.nextUrl.searchParams.has('search')) {
+    const url = request.nextUrl.clone()
+    url.searchParams.delete('search')
     return NextResponse.redirect(url, 301)
   }
 

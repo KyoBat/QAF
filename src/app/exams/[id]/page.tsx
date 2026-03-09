@@ -10,11 +10,12 @@ import ExamPageClient from './ExamPageClient';
 export const revalidate = 86400;
 
 interface PageProps {
-  params: { id: string };
+  params: Promise<{ id: string }>;
 }
 
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
-  const exam = getExamById(params.id);
+  const { id } = await params;
+  const exam = getExamById(id);
   
   if (!exam) {
     return {
@@ -28,14 +29,14 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
     description: `${exam.description.fr} - Testez vos connaissances et obtenez votre certificat.`,
     keywords: ['examen', exam.title.fr, 'certificat', 'sciences islamiques', 'quiz', 'test', 'TahaLearn'],
     alternates: {
-      canonical: `https://www.tahalearn.com/exams/${params.id}`,
+      canonical: `https://www.tahalearn.com/exams/${id}`,
     },
     openGraph: {
       title: exam.title.fr,
       description: exam.description.fr,
-      url: `https://www.tahalearn.com/exams/${params.id}`,
+      url: `https://www.tahalearn.com/exams/${id}`,
       siteName: 'TahaLearn',
-      type: 'article',
+      type: 'website',
       images: [
         {
           url: '/og-image.png',

@@ -11,13 +11,13 @@ import { CoursesPageClient } from './CoursesPageClient'
 
 export const metadata: Metadata = {
   title: 'Tous les Cours - Sciences Islamiques Gratuites',
-  description: 'Explorez notre catalogue complet de cours de sciences islamiques gratuits : Tajweed, Fiqh, Aqeedah, Seerah, Histoire des Compagnons et plus. Cours en français, arabe et anglais avec preuves authentiques.',
+  description: 'Catalogue de cours islamiques gratuits : Tajweed, Fiqh, Aqeedah, Seerah et Histoire. En français, arabe et anglais avec preuves authentiques.',
   keywords: ['Cours islamiques', 'Tajweed', 'Fiqh', 'Aqeedah', 'Seerah', 'Histoire islamique', 'Apprentissage gratuit', 'TahaLearn'],
   alternates: {
     canonical: 'https://www.tahalearn.com/courses',
   },
   openGraph: {
-    title: 'Tous les Cours',
+    title: 'Tous les Cours de Sciences Islamiques | TahaLearn',
     description: 'Découvrez nos cours de sciences islamiques gratuits : Tajweed, Fiqh, Aqeedah, Seerah et plus.',
     url: 'https://www.tahalearn.com/courses',
     siteName: 'TahaLearn',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Tous les Cours',
+    title: 'Tous les Cours de Sciences Islamiques | TahaLearn',
     description: 'Découvrez nos cours de sciences islamiques gratuits.',
     images: ['/og-image.png'],
   },

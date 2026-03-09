@@ -13,7 +13,7 @@ export function OrganizationJsonLd() {
     name: 'TahaLearn',
     alternateName: 'طه للتعلم',
     url: BASE_URL,
-    logo: `${BASE_URL}/icons/icon-512x512.svg`,
+    logo: `${BASE_URL}/icons/icon-512x512.png`,
     description: 'Plateforme gratuite d\'apprentissage des sciences islamiques',
     sameAs: [
       'https://twitter.com/tahalearn',
@@ -50,7 +50,7 @@ export function WebSiteJsonLd() {
       '@type': 'SearchAction',
       target: {
         '@type': 'EntryPoint',
-        urlTemplate: `${BASE_URL}/courses?search={search_term_string}`,
+        urlTemplate: `${BASE_URL}/courses#search-{search_term_string}`,
       },
       'query-input': 'required name=search_term_string',
     },
@@ -99,7 +99,6 @@ export function CourseJsonLd({ course, locale = 'fr' }: CourseJsonLdProps) {
       name: course.instructor,
     },
     courseCode: course.id,
-    numberOfLessons: course.lessons.length,
     timeRequired: course.duration,
     educationalLevel: course.level === 'beginner' ? 'Beginner' : course.level === 'intermediate' ? 'Intermediate' : 'Advanced',
     inLanguage: ['fr', 'ar', 'en'],
@@ -134,7 +133,7 @@ export function BreadcrumbJsonLd({ items }: { items: { name: string; url?: strin
       '@type': 'ListItem',
       position: index + 1,
       name: item.name,
-      item: item.url ? `${BASE_URL}${item.url}` : undefined,
+      ...(item.url && { item: `${BASE_URL}${item.url}` }),
     })),
   }
 

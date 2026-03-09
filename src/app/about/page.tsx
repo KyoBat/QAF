@@ -4,7 +4,7 @@ import AboutPageClient from './AboutPageClient'
 
 export const metadata: Metadata = {
   title: 'À Propos - Sciences Islamiques Gratuites',
-  description: 'Découvrez TahaLearn, votre plateforme d\'apprentissage des sciences islamiques 100% gratuite. Apprenez le Tajweed, Fiqh, Aqeedah et Seerah en français, arabe et anglais avec preuves du Coran et Sunna.',
+  description: 'Découvrez TahaLearn, plateforme gratuite de sciences islamiques. Tajweed, Fiqh, Aqeedah et Seerah en français, arabe et anglais.',
   keywords: ['À propos TahaLearn', 'Plateforme islamique', 'Apprentissage gratuit', 'Sciences islamiques', 'Mission TahaLearn', 'Cours islamiques gratuits'],
   alternates: {
     canonical: 'https://www.tahalearn.com/about',

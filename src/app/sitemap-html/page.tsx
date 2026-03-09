@@ -6,9 +6,14 @@ import { coursesData } from '@/lib/data/courses-data'
 import Link from 'next/link'
 import { getAllExamsLight } from '@/lib/data/exams'
 
-export const metadata = {
+import { Metadata } from 'next'
+
+export const metadata: Metadata = {
   title: 'Plan du Site',
   description: 'Plan du site TahaLearn avec tous les cours et leçons de sciences islamiques disponibles.',
+  alternates: {
+    canonical: 'https://www.tahalearn.com/sitemap-html',
+  },
   robots: {
     index: true,
     follow: true,

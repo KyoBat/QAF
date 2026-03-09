@@ -11,48 +11,54 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = 'https://www.tahalearn.com'
   const currentDate = new Date()
 
-  // Pages statiques avec priorités optimisées pour l'indexation
+  // Pages statiques
   const staticPages: MetadataRoute.Sitemap = [
     {
       url: baseUrl,
       lastModified: currentDate,
       changeFrequency: 'weekly',
-      priority: 1, // Page d'accueil = priorité maximale
+      priority: 1,
     },
     {
       url: `${baseUrl}/courses`,
       lastModified: currentDate,
-      changeFrequency: 'daily', // Changé à daily pour meilleure indexation
+      changeFrequency: 'weekly',
       priority: 0.9,
     },
     {
       url: `${baseUrl}/about`,
       lastModified: currentDate,
       changeFrequency: 'monthly',
-      priority: 0.5,
+      priority: 0.4,
     },
     {
       url: `${baseUrl}/exams`,
       lastModified: currentDate,
       changeFrequency: 'weekly',
-      priority: 0.8,
+      priority: 0.7,
     },
     {
       url: `${baseUrl}/placement`,
       lastModified: currentDate,
       changeFrequency: 'monthly',
-      priority: 0.7,
+      priority: 0.6,
+    },
+    {
+      url: `${baseUrl}/sitemap-html`,
+      lastModified: currentDate,
+      changeFrequency: 'weekly',
+      priority: 0.3,
     },
   ]
 
-  // Pages des cours avec priorité élevée
+  // Pages des cours
   const coursePages: MetadataRoute.Sitemap = coursesData
     .filter((course: Course) => course.published)
     .map((course: Course) => ({
       url: `${baseUrl}/courses/${course.slug}`,
-      lastModified: new Date(), // Force la date actuelle pour toutes les pages
+      lastModified: new Date(course.updatedAt),
       changeFrequency: 'weekly' as const,
-      priority: 0.9,
+      priority: 0.8,
     }))
 
   // Pages des leçons - contenu principal  
@@ -61,9 +67,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
     .flatMap((course: Course) =>
       course.lessons.map((lesson) => ({
         url: `${baseUrl}/courses/${course.slug}/lessons/${lesson.id}`,
-        lastModified: new Date(), // Force la date actuelle
-        changeFrequency: 'weekly' as const, // Changé de monthly à weekly
-        priority: 0.85, // Augmenté pour signaler l'importance
+        lastModified: new Date(course.updatedAt),
+        changeFrequency: 'monthly' as const,
+        priority: 0.7,
       }))
     )
 

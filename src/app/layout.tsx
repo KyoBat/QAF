@@ -52,7 +52,7 @@ export const metadata: Metadata = {
     default: "TahaLearn - وَقُل رَّبِّ زِدْنِي عِلْمًا | Plateforme d'Apprentissage des Sciences Islamiques Gratuite",
     template: "%s | TahaLearn",
   },
-  description: "Apprenez les sciences islamiques gratuitement avec TahaLearn. Cours complets de Tajweed, Fiqh, Aqeedah, Seerah et Histoire Islamique en français, arabe et anglais. Preuves authentiques du Coran et de la Sunna. 100% gratuit, pour toujours.",
+  description: "Apprenez les sciences islamiques gratuitement : Tajweed, Fiqh, Aqeedah, Seerah et Histoire. Cours en FR/AR/EN avec preuves du Coran et de la Sunna.",
   keywords: [
     "Islam", "Quran", "Coran", "Tajweed", "Fiqh", "Aqeedah", "Hadith", "Seerah", 
     "Sciences islamiques", "Apprentissage Islam", "Cours gratuits", "TahaLearn", 

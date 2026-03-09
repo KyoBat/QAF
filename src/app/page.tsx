@@ -1,9 +1,17 @@
+import { Metadata } from 'next'
 import { coursesData, getFeaturedCourses } from '@/lib/data/courses/index'
 import HomePageClient from './HomePageClient'
 import type { Course } from '@/lib/data/courses/types'
 
 // ISR: Regénérer la page toutes les heures
 export const revalidate = 3600
+
+export const metadata: Metadata = {
+  title: 'TahaLearn - Plateforme Gratuite de Sciences Islamiques',
+  alternates: {
+    canonical: 'https://www.tahalearn.com',
+  },
+}
 
 // Fonction pour mélanger aléatoirement un tableau (Fisher-Yates shuffle)
 function shuffleArray<T>(array: T[]): T[] {
