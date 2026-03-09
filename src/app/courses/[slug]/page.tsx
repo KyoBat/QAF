@@ -23,16 +23,8 @@ export async function generateStaticParams() {
       slug: course.slug,
     }))
 
-  // Legacy aliases to preserve backward compatibility
-  const legacySlugs: Record<string, string> = {
-    'bases-fiqh-ibadat': 'bases-fiqh-ibadat-purification',
-  }
-
-  Object.entries(legacySlugs).forEach(([alias, target]) => {
-    if (coursesData.some(course => course.slug === target)) {
-      params.push({ slug: alias })
-    }
-  })
+  // Legacy aliases are now handled via redirects in next.config.mjs
+  // No need to generate static params for them
 
   return params
 }

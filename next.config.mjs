@@ -21,6 +21,9 @@ const nextConfig = {
     } : false,
   },
 
+  // Prévenir les pages dupliquées (trailing slash)
+  trailingSlash: false,
+
   // Optimisations de performance
   compress: true, // Compression gzip
   poweredByHeader: false, // Retirer X-Powered-By header
@@ -57,6 +60,17 @@ const nextConfig = {
   // Redirections pour corriger les pages en double
   async redirects() {
     return [
+      // Legacy slug: bases-fiqh-ibadat → bases-fiqh-ibadat-purification
+      {
+        source: '/courses/bases-fiqh-ibadat',
+        destination: '/courses/bases-fiqh-ibadat-purification',
+        permanent: true,
+      },
+      {
+        source: '/courses/bases-fiqh-ibadat/lessons/:lessonId*',
+        destination: '/courses/bases-fiqh-ibadat-purification/lessons/:lessonId*',
+        permanent: true,
+      },
       // Mustalah Hadith - Anciennes URLs lesson-XXX → Nouvelles URLs XXX-nom
       {
         source: '/courses/mustalah-hadith/lessons/lesson-001',

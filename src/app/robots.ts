@@ -8,17 +8,17 @@ export default function robots(): MetadataRoute.Robots {
       {
         userAgent: '*',
         allow: '/',
-        disallow: ['/api/', '/private/', '/_next/'],
+        disallow: ['/api/', '/private/', '/_next/', '/courses?*'],
       },
       {
         userAgent: 'Googlebot',
         allow: '/',
-        disallow: ['/api/', '/private/'],
+        disallow: ['/api/', '/private/', '/courses?*'],
       },
       {
         userAgent: 'bingbot',
         allow: '/',
-        disallow: ['/api/', '/private/'],
+        disallow: ['/api/', '/private/', '/courses?*'],
       },
     ],
     sitemap: `${baseUrl}/sitemap.xml`,

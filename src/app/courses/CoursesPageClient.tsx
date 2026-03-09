@@ -18,22 +18,48 @@ interface CoursesPageClientProps {
   initialCourses: CourseListItem[]
 }
 
+/**
+ * Extraire la catégorie depuis le hash fragment (#category-xxx)
+ * ou le query param (?category=xxx) pour rétrocompatibilité
+ */
+function getCategoryFromUrl(searchParams: URLSearchParams): string {
+  // Priorité 1 : hash fragment (SEO-friendly, non indexé par Google)
+  if (typeof window !== 'undefined' && window.location.hash) {
+    const hashMatch = window.location.hash.match(/^#category-(.+)$/)
+    if (hashMatch) return hashMatch[1]
+  }
+  // Priorité 2 : query param (rétrocompatibilité)
+  return searchParams.get('category') || ''
+}
+
 export function CoursesPageClient({ initialCourses }: CoursesPageClientProps) {
   const { locale, t, isRTL } = useLocale()
   const searchParams = useSearchParams()
   
-  // Lire le paramètre category de l'URL
-  const urlCategory = searchParams.get('category') || ''
+  // Lire la catégorie depuis le hash ou le query param
+  const urlCategory = getCategoryFromUrl(searchParams)
   
   // États séparés pour chaque filtre - plus simple et direct
   const [category, setCategory] = useState(urlCategory)
   const [level, setLevel] = useState('')
   const [search, setSearch] = useState('')
 
-  // Mettre à jour la catégorie si l'URL change
+  // Mettre à jour la catégorie si l'URL change (hash ou query param)
   useEffect(() => {
     setCategory(urlCategory)
   }, [urlCategory])
+
+  // Écouter les changements de hash
+  useEffect(() => {
+    function handleHashChange() {
+      const hashMatch = window.location.hash.match(/^#category-(.+)$/)
+      if (hashMatch) {
+        setCategory(hashMatch[1])
+      }
+    }
+    window.addEventListener('hashchange', handleHashChange)
+    return () => window.removeEventListener('hashchange', handleHashChange)
+  }, [])
 
   // Filtrer les cours
   const filteredCourses = useMemo(() => {

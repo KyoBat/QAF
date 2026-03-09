@@ -121,15 +121,15 @@ export function EmptyState({
   const defaultSuggestions = [
     { 
       label: locale === 'ar' ? 'الفقه' : locale === 'en' ? 'Fiqh' : 'Fiqh', 
-      href: '/courses?category=fiqh' 
+      href: '/courses#category-fiqh' 
     },
     { 
       label: locale === 'ar' ? 'التجويد' : locale === 'en' ? 'Tajweed' : 'Tajweed', 
-      href: '/courses?category=tajweed' 
+      href: '/courses#category-tajweed' 
     },
     { 
       label: locale === 'ar' ? 'العقيدة' : locale === 'en' ? 'Aqeedah' : 'Aqeedah', 
-      href: '/courses?category=aqeedah' 
+      href: '/courses#category-aqeedah' 
     },
   ]
 

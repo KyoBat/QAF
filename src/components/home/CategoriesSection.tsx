@@ -179,7 +179,7 @@ function CategoryCard({ category, count, isRTL, t }: CategoryCardProps) {
   
   return (
     <Link 
-      href={`/courses?category=${category.key}`}
+      href={`/courses#category-${category.key}`}
       className="group"
     >
       {cardContent}

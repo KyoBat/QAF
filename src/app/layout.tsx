@@ -70,11 +70,6 @@ export const metadata: Metadata = {
   },
   alternates: {
     canonical: "https://www.tahalearn.com",
-    languages: {
-      'fr': 'https://www.tahalearn.com',
-      'ar': 'https://www.tahalearn.com',
-      'en': 'https://www.tahalearn.com',
-    },
   },
   openGraph: {
     type: "website",
