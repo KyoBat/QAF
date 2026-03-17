@@ -8,20 +8,19 @@ import { Command } from '@/components/ui/command'
 import { NewsletterForm } from '@/components/ui/newsletter'
 import { locales, type Locale } from '@/locales'
 import { cn } from '@/lib/utils'
-import { coursesData } from '@/lib/data/courses/index'
 
-// Prepare courses data for Command search
-const commandCourses = coursesData.map(course => ({
-  slug: course.slug,
-  title: course.title,
-  description: course.description,
-  lessons: course.lessons.map(lesson => ({
-    id: lesson.id,
-    title: lesson.title,
-  })),
-}))
+export type CommandCourse = {
+  slug: string
+  title: { fr: string; ar: string; en: string }
+  description: { fr: string; ar: string; en: string }
+  lessons: { id: string; title: { fr: string; ar: string; en: string } }[]
+}
 
-export function Header() {
+interface HeaderProps {
+  commandCourses: CommandCourse[]
+}
+
+export function Header({ commandCourses }: HeaderProps) {
   const { locale, setLocale, t, isRTL } = useLocale()
   const { theme, toggleTheme } = useTheme()
   const [isMenuOpen, setIsMenuOpen] = useState(false)
