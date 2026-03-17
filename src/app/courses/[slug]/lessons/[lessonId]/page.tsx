@@ -90,6 +90,25 @@ export default async function LessonPage({ params }: LessonPageProps) {
     notFound()
   }
 
+  // Strip other lessons' content to reduce RSC payload (~600KB → ~60KB)
+  // LessonPageClient only needs id+title from sibling lessons for the nav sidebar
+  const lightData = {
+    ...data,
+    course: {
+      ...data.course,
+      lessons: data.course.lessons.map(l => ({
+        id: l.id,
+        title: l.title,
+        order: l.order,
+        duration: l.duration,
+        videoUrl: l.videoUrl || '',
+        content: l.id === lessonId ? l.content : { fr: '', ar: '', en: '' },
+      })),
+    },
+    prevLesson: data.prevLesson ? { id: data.prevLesson.id, title: data.prevLesson.title, order: data.prevLesson.order, duration: data.prevLesson.duration, videoUrl: data.prevLesson.videoUrl || '', content: { fr: '', ar: '', en: '' } } : null,
+    nextLesson: data.nextLesson ? { id: data.nextLesson.id, title: data.nextLesson.title, order: data.nextLesson.order, duration: data.nextLesson.duration, videoUrl: data.nextLesson.videoUrl || '', content: { fr: '', ar: '', en: '' } } : null,
+  }
+
   return (
     <>
       <BreadcrumbJsonLd items={[
@@ -106,7 +125,7 @@ export default async function LessonPage({ params }: LessonPageProps) {
         slug={slug}
         lessonId={lessonId}
       />
-      <LessonPageClient data={data} />
+      <LessonPageClient data={lightData} />
     </>
   )
 }
