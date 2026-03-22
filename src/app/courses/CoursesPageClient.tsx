@@ -6,7 +6,6 @@
 'use client'
 
 import { useState, useMemo, useEffect } from 'react'
-import { useSearchParams } from 'next/navigation'
 import { CourseCard } from '@/components/course'
 import { CourseFilters } from '@/components/course/CourseFilters'
 import { EmptyState } from '@/components/ui/empty-state'
@@ -18,47 +17,32 @@ interface CoursesPageClientProps {
   initialCourses: CourseListItem[]
 }
 
-/**
- * Extraire la catégorie depuis le hash fragment (#category-xxx)
- * ou le query param (?category=xxx) pour rétrocompatibilité
- */
-function getCategoryFromUrl(searchParams: URLSearchParams): string {
-  // Priorité 1 : hash fragment (SEO-friendly, non indexé par Google)
-  if (typeof window !== 'undefined' && window.location.hash) {
-    const hashMatch = window.location.hash.match(/^#category-(.+)$/)
-    if (hashMatch) return hashMatch[1]
-  }
-  // Priorité 2 : query param (rétrocompatibilité)
-  return searchParams.get('category') || ''
-}
-
 export function CoursesPageClient({ initialCourses }: CoursesPageClientProps) {
   const { locale, t, isRTL } = useLocale()
-  const searchParams = useSearchParams()
-  
-  // Lire la catégorie depuis le hash ou le query param
-  const urlCategory = getCategoryFromUrl(searchParams)
   
   // États séparés pour chaque filtre - plus simple et direct
-  const [category, setCategory] = useState(urlCategory)
+  const [category, setCategory] = useState('')
   const [level, setLevel] = useState('')
   const [search, setSearch] = useState('')
 
-  // Mettre à jour la catégorie si l'URL change (hash ou query param)
+  // Lire la catégorie depuis le hash après le montage (évite le mismatch d'hydratation)
   useEffect(() => {
-    setCategory(urlCategory)
-  }, [urlCategory])
-
-  // Écouter les changements de hash
-  useEffect(() => {
-    function handleHashChange() {
-      const hashMatch = window.location.hash.match(/^#category-(.+)$/)
-      if (hashMatch) {
-        setCategory(hashMatch[1])
+    function readCategoryFromHash() {
+      const hash = window.location.hash
+      if (hash) {
+        const hashMatch = hash.match(/^#category-(.+)$/)
+        if (hashMatch) {
+          setCategory(hashMatch[1])
+        }
       }
     }
-    window.addEventListener('hashchange', handleHashChange)
-    return () => window.removeEventListener('hashchange', handleHashChange)
+
+    // Lecture initiale
+    readCategoryFromHash()
+
+    // Écouter les changements de hash
+    window.addEventListener('hashchange', readCategoryFromHash)
+    return () => window.removeEventListener('hashchange', readCategoryFromHash)
   }, [])
 
   // Filtrer les cours
