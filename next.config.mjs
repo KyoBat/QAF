@@ -60,6 +60,14 @@ const nextConfig = {
   // Redirections pour corriger les pages en double
   async redirects() {
     return [
+      // Redirection non-www → www (permanent 308)
+      // Compile dans les règles Vercel pour éviter le 307 temporaire de la plateforme
+      {
+        source: '/:path*',
+        has: [{ type: 'host', value: 'tahalearn.com' }],
+        destination: 'https://www.tahalearn.com/:path*',
+        permanent: true,
+      },
       // Legacy slug: bases-fiqh-ibadat → bases-fiqh-ibadat-purification
       {
         source: '/courses/bases-fiqh-ibadat',

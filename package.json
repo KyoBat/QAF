@@ -12,7 +12,10 @@
     "test:coverage": "vitest --coverage",
     "clean": "rm -rf .next",
     "clean:all": "rm -rf .next node_modules/.cache",
-    "fresh": "npm run clean:all && npm install"
+    "fresh": "npm run clean:all && npm install",
+    "fb:post": "node scripts/facebook-daily-post.mjs",
+    "fb:preview": "node scripts/facebook-daily-post.mjs --preview",
+    "fb:reset": "node scripts/facebook-daily-post.mjs --reset"
   },
   "dependencies": {
     "@getbrevo/brevo": "^3.0.1",

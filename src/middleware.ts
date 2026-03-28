@@ -15,12 +15,14 @@ export function middleware(request: NextRequest) {
     return NextResponse.next()
   }
 
-  // Redirection non-www → www pour éviter le contenu dupliqué
+  // Redirection non-www → www (fallback)
+  // La redirection principale est dans next.config.mjs (compilée dans les règles Vercel)
+  // Ce fallback gère les cas où la config redirect ne s'applique pas
   if (hostname === 'tahalearn.com') {
     const url = request.nextUrl.clone()
     url.hostname = 'www.tahalearn.com'
     url.protocol = 'https'
-    return NextResponse.redirect(url, 301)
+    return NextResponse.redirect(url, 308)
   }
 
   // Redirection /courses?category=xxx → /courses (canonical propre)

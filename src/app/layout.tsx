@@ -69,15 +69,27 @@ export const metadata: Metadata = {
   },
   description: "Apprenez les sciences islamiques gratuitement : Tajweed, Fiqh, Aqeedah, Seerah et Histoire. Cours en FR/AR/EN avec preuves du Coran et de la Sunna.",
   keywords: [
+    // Français
     "Islam", "Quran", "Coran", "Tajweed", "Fiqh", "Aqeedah", "Hadith", "Seerah", 
     "Sciences islamiques", "Apprentissage Islam", "Cours gratuits", "TahaLearn", 
     "Prière", "Salat", "Zakat", "Jeûne", "Ramadan", "Pèlerinage", "Hajj",
     "Histoire islamique", "Compagnons", "Sahaba", "Prophète Muhammad",
-    "Éducation islamique", "Étude Islam", "Religion musulmane"
+    "Éducation islamique", "Étude Islam", "Religion musulmane",
+    // English
+    "Islamic studies", "Learn Islam free", "Quran learning", "Islamic courses online",
+    "Tajweed course", "Fiqh course", "Islamic history", "Prophet Muhammad biography",
+    "Free Islamic education", "Hadith studies", "Aqeedah course",
+    // العربية
+    "تعلم الإسلام", "علوم شرعية", "دروس إسلامية مجانية", "تجويد القرآن",
+    "فقه العبادات", "عقيدة", "سيرة نبوية", "أحاديث صحيحة",
+    "تاريخ إسلامي", "طه للتعلم",
   ],
   authors: [{ name: "TahaLearn", url: "https://www.tahalearn.com" }],
   creator: "TahaLearn",
   publisher: "TahaLearn",
+  applicationName: "TahaLearn",
+  generator: "Next.js",
+  referrer: "origin-when-cross-origin",
   formatDetection: {
     email: false,
     address: false,
@@ -85,6 +97,12 @@ export const metadata: Metadata = {
   },
   alternates: {
     canonical: "https://www.tahalearn.com",
+    languages: {
+      "fr-FR": "https://www.tahalearn.com",
+      "ar-SA": "https://www.tahalearn.com",
+      "en-US": "https://www.tahalearn.com",
+      "x-default": "https://www.tahalearn.com",
+    },
   },
   openGraph: {
     type: "website",
@@ -113,6 +131,8 @@ export const metadata: Metadata = {
   },
   verification: {
     google: "qGxX55exC0cDNkEVe9uKGnUtrFVguLWpU80if3Pu3k0",
+    // Bing: https://www.bing.com/webmasters → Ajouter ta propriété → copier le code
+    // yandex: "YANDEX_VERIFICATION_CODE",
   },
   robots: {
     index: true,
@@ -160,6 +180,14 @@ export default function RootLayout({
         <meta name="apple-mobile-web-app-capable" content="yes" />
         <meta name="apple-mobile-web-app-status-bar-style" content="default" />
         <meta name="apple-mobile-web-app-title" content="TahaLearn" />
+        <meta name="rating" content="general" />
+        <meta name="revisit-after" content="7 days" />
+        <meta name="geo.region" content="FR" />
+        <meta name="geo.placename" content="France" />
+        <meta name="content-language" content="fr, ar, en" />
+        <link rel="dns-prefetch" href="https://www.googletagmanager.com" />
+        <link rel="dns-prefetch" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
       </head>
       <body
         className={`${inter.variable} ${amiri.variable} ${geistSans.variable} ${geistMono.variable} antialiased min-h-screen flex flex-col font-sans`}
