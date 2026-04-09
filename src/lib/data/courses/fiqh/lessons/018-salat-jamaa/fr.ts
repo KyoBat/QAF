@@ -10,6 +10,26 @@ export const content = `# 📜 صَلَاةُ الْجَمَاعَةِ — La Pr
 
 ---
 
+## ⚡ Réponse Rapide
+
+### 📌 Qu'est-ce que prier en groupe ?
+
+La prière en groupe consiste à accomplir la prière derrière un imam, en le suivant dans ses mouvements, à la mosquée ou dans tout lieu où la Jama'ah est établie.
+
+### 📋 Les points essentiels en quelques secondes
+
+| Question | Réponse courte |
+|----------|----------------|
+| **La prière en groupe est-elle légiférée ?** | ✅ Oui, c'est une grande sunna et un rite apparent de l'Islam |
+| **Quel est son statut chez les Malikites ?** | ✅ Sunna Mu'akkada |
+| **Vaut-elle plus que la prière seul ?** | ✅ Oui, de vingt-cinq à vingt-sept degrés selon les hadiths |
+| **Comment suivre l'imam ?** | ✅ Après lui, sans le précéder ni trop tarder |
+| **Est-elle valable à la maison ou au travail ?** | ✅ Oui, mais la mosquée reste supérieure |
+
+> 💡 **En pratique :** dès que tu peux rejoindre la Jama'ah, fais-le. Tu y gagnes en récompense, en discipline, en constance et en attachement à la mosquée.
+
+---
+
 ## 🎬 SCÈNE D'OUVERTURE — Le Désert de l'Isolement
 
 <div class="scene-box">
@@ -227,6 +247,14 @@ C'est le fait qu'un ou plusieurs priants (ma'mum) suivent un imam dans la prièr
 **Spirituellement :**
 C'est l'effacement de l'ego individuel dans l'océan de la communauté. Tu n'es plus "moi", tu es "nous".
 
+### 🪜 Comment bien prier en groupe ?
+
+1. Se placer correctement derrière l'imam, ou à sa droite si l'on est seul.
+2. Commencer après le takbir de l'imam.
+3. Suivre l'imam au rukū' et au sujūd sans le devancer.
+4. Garder les rangs droits et combler les espaces.
+5. Compléter après le salām ce qui a été manqué si on est arrivé en retard.
+
 ---
 
 ### 🔷 Le Statut Juridique Approfondi (الحكم الشرعي)
@@ -402,6 +430,15 @@ C'est l'effacement de l'ego individuel dans l'océan de la communauté. Tu n'es 
 | **Droite de l'imam** | Si un seul Ma'mum | Le Prophète ﷺ plaçait Ibn 'Abbas à sa droite | Honneur de la droite |
 | **Interdit de prier seul derrière** | Si place existe dans le rang | « لَا صَلَاةَ لِمُنْفَرِدٍ خَلْفَ الصَّفِّ » (Ibn Majah 1003) | Pas d'exception |
 
+#### 📌 Placement rapide selon la situation
+
+| Situation | Placement correct |
+|-----------|-------------------|
+| **Imam + 1 homme** | L'homme se place à la droite de l'imam |
+| **Imam + 2 hommes ou plus** | Les hommes se placent derrière l'imam |
+| **Hommes et femmes** | Les hommes devant, les femmes derrière |
+| **Mari et épouse seulement** | Le mari dirige, l'épouse se place derrière lui |
+
 ---
 
 #### 🚫 Le Cas du Priant Seul Derrière le Rang
@@ -467,6 +504,8 @@ C'est l'effacement de l'ego individuel dans l'océan de la communauté. Tu n'es 
 | **Si arrivée en retard** | Rejoindre imam dans position actuelle | Pratique prophétique |
 | **Rattrapage** | Après salam imam, rattraper ce qu'on a manqué | Enseignement prophétique |
 
+> 💡 **Règle simple à retenir :** ne commence pas le mouvement avant l'imam, ne le copie pas exactement en même temps, mais passe à l'action juste après lui.
+
 ---
 
 #### 🎯 Comment Rejoindre une Prière en Cours
@@ -482,6 +521,10 @@ C'est l'effacement de l'ego individuel dans l'océan de la communauté. Tu n'es 
 4. **Ce qui compte comme rak'a attrapée** : Si tu rejoins l'imam avant qu'il ne se relève du ruku'
 
 5. **Après salam de l'imam** : Rester assis ou se lever pour rattraper
+
+### 📌 Exemple très concret
+
+> Tu entres dans la mosquée pendant la deuxième rak'a de 'Isha. Tu fais ton takbir debout, tu rejoins l'imam immédiatement, puis après son salām tu te lèves pour compléter les rak'at qui te manquent.
 
 ---
 
@@ -595,6 +638,35 @@ C'est l'effacement de l'ego individuel dans l'océan de la communauté. Tu n'es 
 - Enseigner aux enfants
 - Organiser Jama'ah au travail/école
 - Devenir pilier de ta mosquée
+
+---
+
+## ❓ Questions Fréquentes
+
+**1. Prier en groupe est-il obligatoire ?**
+> Chez les Malikites, c'est une Sunna Mu'akkada. Chez les Hanbalites, c'est une obligation individuelle. Dans tous les cas, l'abandon habituel sans excuse est grave.
+
+**2. Peut-on prier en groupe à la maison ?**
+> Oui, la Jama'ah est valable à la maison, au travail ou ailleurs. Mais la mosquée reste meilleure en récompense et en symbole.
+
+**3. Comment suivre l'imam correctement ?**
+> Il faut faire les mouvements après lui, sans le devancer ni rester très en retard.
+
+**4. Si j'arrive en retard, que dois-je faire ?**
+> Tu rejoins l'imam dans la position où il se trouve, puis tu complètes après son salām ce qu'il te manque.
+
+**5. Peut-on prier seul derrière le rang ?**
+> Non en principe, s'il existe une place ou une solution pour rejoindre le rang. Il faut éviter de rester isolé derrière.
+
+**6. La prière en ligne derrière un imam sur écran est-elle valable ?**
+> Non, la majorité des savants contemporains ne la considèrent pas comme une Jama'ah valide.
+
+---
+
+## 🔗 Leçons Liées
+
+- [La Prière du Retardataire](/courses/bases-fiqh-ibadat-salat/lessons/lesson-017)
+- [Le Rattrapage des Prières Manquées](/courses/bases-fiqh-salawat-khassa/lessons/lesson-027)
 
 ---
 

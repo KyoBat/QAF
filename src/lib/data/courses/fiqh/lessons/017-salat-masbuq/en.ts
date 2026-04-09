@@ -13,6 +13,22 @@ All praise be to Allah who encouraged us to pray in congregation. May peace and 
 
 ---
 
+## ⚡ Quick Answer
+
+### 📌 What should I do if I arrive late to the prayer?
+
+| Question | Short answer |
+|----------|--------------|
+| **Should I join the imam immediately?** | ✅ Yes, in whatever position I find him |
+| **When does a rak'a count?** | ✅ When I catch the ruku' before the imam rises |
+| **Should I run to catch it?** | ❌ No, I come with calmness and dignity |
+| **When do I complete what I missed?** | ✅ After the imam's salam |
+| **Is what I prayed with the imam the beginning or end of my prayer?** | 🟡 In the Maliki school, it is the end of your prayer |
+
+> 💡 **Practical takeaway:** the latecomer joins the imam immediately, then calmly completes what is missing after the imam's salam.
+
+---
+
 ## 🔍 Definition of the Masbuq
 
 **Masbuq (Late-comer):** The worshipper who missed one or more rak'at from the congregational prayer with the imam.
@@ -71,6 +87,14 @@ For the masbuq to be considered as having caught the rak'a by catching the bowin
 | **2. Be tranquil in the bowing** | Merely bending is not sufficient |
 | **3. Join the imam in bowing** | Even for a brief moment |
 
+### 📌 When the rak'a does not count
+
+| Situation | Ruling |
+|-----------|--------|
+| **You arrive while the imam is already rising from ruku'** | The rak'a generally does not count |
+| **You arrive in sujud** | That rak'a is missed |
+| **You arrive only for the final tashahhud** | You catch the virtue of Jama'ah but not the rak'at |
+
 ---
 
 ## 🔷 What the Masbuq Catches with the Imam
@@ -87,6 +111,10 @@ For the masbuq to be considered as having caught the rak'a by catching the bowin
 | **Two rak'at of Dhuhr** | He stands and prays two rak'at with Fatiha only (silently) |
 | **One rak'a of Fajr** | He stands and prays one rak'a with Fatiha and surah (aloud) |
 | **Three rak'at of 'Isha** | He stands and prays one rak'a with Fatiha only (silently) |
+
+### 🧭 Simple rule to remember
+
+> Pray immediately with the imam in the state you find him, then rebuild what remains after his salam according to the ruling of your school.
 
 ---
 
@@ -115,6 +143,14 @@ For the masbuq to be considered as having caught the rak'a by catching the bowin
 |----------------|------|
 | **Audible prayer** (Fajr/Maghrib/'Isha) | He recites aloud where he would if praying alone |
 | **Silent prayer** (Dhuhr/'Asr) | He recites silently in all that he makes up |
+
+### 🪜 Fast steps for the latecomer
+
+1. Enter the mosque calmly.
+2. Make the opening takbir while standing.
+3. Join the imam in his current position.
+4. Count the rak'a only if the ruku' was caught in time.
+5. Stand after the imam's salam to complete what is missing.
 
 ---
 
@@ -153,6 +189,14 @@ For the masbuq to be considered as having caught the rak'a by catching the bowin
 3. **Second rak'a (make-up):** Fatiha + surah (aloud) ← he sits for the final tashahhud and makes salam
 
 > 📝 **Note:** In this example, there is no middle tashahhud because he made tashahhud with the imam.
+
+### 📌 Quick cases to know
+
+| Situation | What to do |
+|-----------|------------|
+| **You enter in the second rak'a of Fajr** | Pray with the imam, then complete one rak'a after his salam |
+| **You enter in sujud during the second rak'a of Maghrib** | Join the imam, but that rak'a does not count; complete what is missing afterward |
+| **You catch the last ruku' of 'Isha** | That rak'a counts, then complete the rest after the salam |
 
 ---
 
@@ -202,6 +246,32 @@ For the masbuq to be considered as having caught the rak'a by catching the bowin
 ### 4. Calmness when standing to make up
 - He does not disturb those around him
 - He stands calmly without rushing
+
+---
+
+## ❓ Frequently Asked Questions
+
+**1. If I arrive and the imam is in prostration, should I join him?**
+> Yes, join him immediately, but that rak'a only counts if you had caught the ruku'.
+
+**2. Is catching the ruku' enough for the rak'a to count?**
+> Yes according to the majority of scholars, provided you joined before the imam rose and had a minimum level of tranquility.
+
+**3. Should I wait for the next rak'a before entering?**
+> No, join the imam in whatever state you find him.
+
+**4. When should I stand to complete what I missed?**
+> After the imam's salam, then complete the missed rak'at.
+
+**5. If I arrive too late for Jumu'a, what do I do?**
+> If you did not catch one complete rak'a, you complete the prayer as four rak'at of Dhuhr.
+
+---
+
+## 🔗 Related Lessons
+
+- [Congregational Prayer](/courses/bases-fiqh-ibadat-salat/lessons/lesson-018)
+- [Making Up Missed Prayers](/courses/bases-fiqh-salawat-khassa/lessons/lesson-027)
 
 ---
 

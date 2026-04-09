@@ -55,6 +55,131 @@ const levelVariants: Record<CourseLevel, 'success' | 'warning' | 'info'> = {
 
 type CourseLesson = Course['lessons'][number]
 
+type CoursePageGuideLink = {
+  href: string
+  label: Record<string, string>
+}
+
+type CoursePageGuide = {
+  title: Record<string, string>
+  body: Record<string, string>
+  bullets: Record<string, string[]>
+  links: CoursePageGuideLink[]
+}
+
+const coursePageGuides: Record<string, CoursePageGuide> = {
+  'bases-fiqh-ibadat-salat': {
+    title: {
+      fr: 'Guide pratique pour mieux comprendre la prière en groupe',
+      ar: 'دليل عملي لفهم صلاة الجماعة وما يتعلق بها',
+      en: 'Practical guide to congregational prayer',
+    },
+    body: {
+      fr: 'Ce parcours aide à comprendre comment prier correctement, comment rejoindre l’imam en retard, comment suivre la Jama\'ah sans erreur et quelles règles connaître quand une rak\'a est manquée.',
+      ar: 'هذا المسار يساعد على فهم كيفية الصلاة الصحيحة، وكيفية إدراك الإمام عند التأخر، وكيفية متابعة الجماعة بلا أخطاء، وما الأحكام المتعلقة بمن فاتته ركعة أو أكثر.',
+      en: 'This track helps learners understand how to pray correctly, how to join the imam late, and how to avoid mistakes in congregational prayer.',
+    },
+    bullets: {
+      fr: [
+        'Comprendre la prière du retardataire et savoir quand une rak\'a est comptée.',
+        'Apprendre à prier en groupe, suivre l’imam et éviter les erreurs fréquentes.',
+        'Mieux relier les règles de la Jama\'ah avec les autres leçons du fiqh de la salat.',
+      ],
+      ar: [
+        'فهم صلاة المسبوق ومعرفة متى تُحسب الركعة.',
+        'تعلم أحكام صلاة الجماعة ومتابعة الإمام وتجنب الأخطاء الشائعة.',
+        'ربط أحكام الجماعة ببقية دروس فقه الصلاة بشكل أوضح.',
+      ],
+      en: [
+        'Understand latecomer prayer and when a rak\'ah counts.',
+        'Learn how to follow the imam correctly and avoid common mistakes.',
+        'Connect congregational prayer rulings with the broader salah course.',
+      ],
+    },
+    links: [
+      {
+        href: '/courses/bases-fiqh-ibadat-salat/lessons/lesson-017',
+        label: {
+          fr: 'Voir la leçon sur la prière du retardataire',
+          ar: 'عرض درس صلاة المسبوق',
+          en: 'Open the latecomer prayer lesson',
+        },
+      },
+      {
+        href: '/courses/bases-fiqh-ibadat-salat/lessons/lesson-018',
+        label: {
+          fr: 'Voir la leçon sur la prière en groupe',
+          ar: 'عرض درس صلاة الجماعة',
+          en: 'Open the congregational prayer lesson',
+        },
+      },
+      {
+        href: '/courses/bases-fiqh-salawat-khassa/lessons/lesson-027',
+        label: {
+          fr: 'Voir aussi le rattrapage des prières manquées',
+          ar: 'اطلع أيضًا على درس قضاء الفوائت',
+          en: 'See also the missed-prayers lesson',
+        },
+      },
+    ],
+  },
+  'bases-fiqh-salawat-khassa': {
+    title: {
+      fr: 'Guide pratique pour le rattrapage des prières et les cas spéciaux',
+      ar: 'دليل عملي لقضاء الفوائت وأحكام الصلوات الخاصة',
+      en: 'Practical guide to missed prayers and special prayer cases',
+    },
+    body: {
+      fr: 'Ce cours aide à comprendre les situations particulières de la salat, notamment le rattrapage des prières manquées, l’ordre de priorité entre les prières et les cas où le fidèle prie dans des circonstances exceptionnelles.',
+      ar: 'هذا المسار يشرح الحالات الخاصة في الصلاة، ومنها قضاء الفوائت، وترتيب الصلوات عند الفوات، وأحكام الصلاة في الظروف الاستثنائية.',
+      en: 'This course covers special prayer cases, especially missed prayers, priority order, and exceptional circumstances.',
+    },
+    bullets: {
+      fr: [
+        'Savoir comment rattraper ses prières et dans quel ordre les reprendre.',
+        'Comprendre les règles du qada et les cas de retard, oubli, maladie ou circonstances particulières.',
+        'Créer un pont naturel avec les leçons sur la Jama\'ah et le retardataire.',
+      ],
+      ar: [
+        'معرفة كيفية قضاء الصلوات الفائتة وبأي ترتيب تُقضى.',
+        'فهم أحكام القضاء في حالات النسيان والنوم والمرض والظروف الخاصة.',
+        'ربط هذا الباب بدروس الجماعة وصلاة المسبوق.',
+      ],
+      en: [
+        'Learn how to make up missed prayers and in what order.',
+        'Understand qada rulings for forgetfulness, sleep, illness, and special cases.',
+        'Connect this topic with congregational and latecomer prayer lessons.',
+      ],
+    },
+    links: [
+      {
+        href: '/courses/bases-fiqh-salawat-khassa/lessons/lesson-027',
+        label: {
+          fr: 'Voir la leçon sur le rattrapage des prières manquées',
+          ar: 'عرض درس قضاء الفوائت',
+          en: 'Open the missed-prayers lesson',
+        },
+      },
+      {
+        href: '/courses/bases-fiqh-ibadat-salat/lessons/lesson-017',
+        label: {
+          fr: 'Revoir la leçon sur la prière du retardataire',
+          ar: 'راجع درس صلاة المسبوق',
+          en: 'Review the latecomer prayer lesson',
+        },
+      },
+      {
+        href: '/courses/bases-fiqh-ibadat-salat/lessons/lesson-018',
+        label: {
+          fr: 'Revoir la leçon sur la prière en groupe',
+          ar: 'راجع درس صلاة الجماعة',
+          en: 'Review the congregational prayer lesson',
+        },
+      },
+    ],
+  },
+}
+
 export function CourseDetailClient({ course }: CourseDetailClientProps) {
   const { locale, t, isRTL } = useLocale()
   const { isLessonCompleted, getCourseProgress } = useProgressStore()
@@ -92,6 +217,7 @@ export function CourseDetailClient({ course }: CourseDetailClientProps) {
   const levelLabel = levelLabels[course.level]?.[locale] || course.level
 
   const progress = getCourseProgress(course.slug, sortedLessons.length)
+  const courseGuide = coursePageGuides[course.slug]
   const completedLessonsCount = useMemo(() => 
     Object.values(completionStatus).filter(Boolean).length,
     [completionStatus]
@@ -205,6 +331,37 @@ export function CourseDetailClient({ course }: CourseDetailClientProps) {
               )}>
                 {description}
               </p>
+
+              {courseGuide && (
+                <Card className="mb-6 border-primary/20 bg-primary/5">
+                  <CardContent className="pt-6">
+                    <div className={cn('space-y-4', isRTL && 'text-right')}>
+                      <h2 className={cn('text-xl font-semibold text-foreground', isRTL && 'font-arabic leading-relaxed')}>
+                        {courseGuide.title[locale] || courseGuide.title.fr}
+                      </h2>
+                      <p className="text-muted-foreground leading-relaxed">
+                        {courseGuide.body[locale] || courseGuide.body.fr}
+                      </p>
+                      <ul className={cn('space-y-2 text-sm text-muted-foreground', isRTL ? 'mr-5 list-disc' : 'ml-5 list-disc')}>
+                        {(courseGuide.bullets[locale] || courseGuide.bullets.fr).map((item) => (
+                          <li key={item}>{item}</li>
+                        ))}
+                      </ul>
+                      <div className={cn('flex flex-col gap-2', isRTL && 'items-end')}>
+                        {courseGuide.links.map((link) => (
+                          <Link
+                            key={link.href}
+                            href={link.href}
+                            className="text-sm font-medium text-primary hover:underline"
+                          >
+                            {link.label[locale] || link.label.fr}
+                          </Link>
+                        ))}
+                      </div>
+                    </div>
+                  </CardContent>
+                </Card>
+              )}
 
               {/* Course Meta */}
               <div className={cn(

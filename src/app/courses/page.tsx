@@ -11,14 +11,14 @@ import { BreadcrumbJsonLd, ItemListJsonLd } from '@/components/seo'
 
 export const metadata: Metadata = {
   title: 'Tous les Cours - Sciences Islamiques Gratuites',
-  description: 'Catalogue de cours islamiques gratuits : Tajweed, Fiqh, Aqeedah, Seerah et Histoire. En français, arabe et anglais avec preuves authentiques.',
-  keywords: ['Cours islamiques', 'Tajweed', 'Fiqh', 'Aqeedah', 'Seerah', 'Histoire islamique', 'Apprentissage gratuit', 'TahaLearn'],
+  description: 'Catalogue de cours islamiques gratuits : Tajweed, Fiqh, Aqeedah, Seerah et Histoire. Retrouvez aussi des parcours sur la prière en groupe, le retardataire et le rattrapage des prières manquées.',
+  keywords: ['Cours islamiques', 'Tajweed', 'Fiqh', 'Aqeedah', 'Seerah', 'Histoire islamique', 'Apprentissage gratuit', 'prière en groupe', 'rattraper ses prières', 'retardataire', 'TahaLearn'],
   alternates: {
     canonical: 'https://www.tahalearn.com/courses',
   },
   openGraph: {
     title: 'Tous les Cours de Sciences Islamiques | TahaLearn',
-    description: 'Découvrez nos cours de sciences islamiques gratuits : Tajweed, Fiqh, Aqeedah, Seerah et plus.',
+    description: 'Découvrez nos cours gratuits de sciences islamiques, y compris des parcours pratiques sur la salat, la Jama\'ah et le rattrapage des prières.',
     url: 'https://www.tahalearn.com/courses',
     siteName: 'TahaLearn',
     type: 'website',
@@ -34,7 +34,7 @@ export const metadata: Metadata = {
   twitter: {
     card: 'summary_large_image',
     title: 'Tous les Cours de Sciences Islamiques | TahaLearn',
-    description: 'Découvrez nos cours de sciences islamiques gratuits.',
+    description: 'Découvrez nos cours gratuits de sciences islamiques et nos parcours pratiques sur la salat.',
     images: ['/og-image.png'],
   },
 }

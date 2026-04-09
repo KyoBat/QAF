@@ -10,6 +10,26 @@ export const content = `# 📜 صَلَاةُ الْجَمَاعَةِ — Congr
 
 ---
 
+## ⚡ Quick Answer
+
+### 📌 What is congregational prayer?
+
+Congregational prayer means performing the prayer behind an imam while following him in the movements of the prayer, whether in the mosque or anywhere a valid jama'ah is established.
+
+### 📋 Essential points at a glance
+
+| Question | Short answer |
+|----------|--------------|
+| **Is congregational prayer legislated?** | ✅ Yes, it is one of the great visible rites of Islam |
+| **What is its ruling in the Maliki school?** | ✅ Sunna Mu'akkada |
+| **Is it better than praying alone?** | ✅ Yes, by twenty-five to twenty-seven degrees |
+| **How should I follow the imam?** | ✅ After him, without preceding him or lagging far behind |
+| **Is it valid at home or work?** | ✅ Yes, but the mosque is superior |
+
+> 💡 **Practical takeaway:** whenever you are able to join the jama'ah, do so. It increases reward, discipline, consistency, and attachment to the mosque.
+
+---
+
 ## 🎬 OPENING SCENE — The Desert of Isolation
 
 <div class="scene-box">
@@ -227,6 +247,14 @@ When one or more worshippers (ma'mum) follow an imam in prayer, synchronizing th
 **Spiritually:**
 It is the effacement of the individual ego in the ocean of the community. You are no longer "me," you are "we."
 
+### 🪜 How to pray properly in congregation
+
+1. Stand in the correct place behind the imam, or on his right if you are alone.
+2. Begin after the imam's opening takbir.
+3. Follow him in ruku' and sujud without going ahead of him.
+4. Keep the rows straight and fill the gaps.
+5. Complete what you missed after the imam's salam if you arrived late.
+
 ---
 
 ### 🔷 The Deepened Legal Ruling (الحكم الشرعي)
@@ -402,6 +430,15 @@ It is the effacement of the individual ego in the ocean of the community. You ar
 | **Right of the imam** | If only one Ma'mum | Prophet ﷺ placed Ibn 'Abbas on his right | Honor of the right |
 | **Forbidden to pray alone behind** | If place exists in the row | « لَا صَلَاةَ لِمُنْفَرِدٍ خَلْفَ الصَّفِّ » (Ibn Majah 1003) | No exception |
 
+#### 📌 Quick positioning guide
+
+| Situation | Correct position |
+|-----------|------------------|
+| **Imam + 1 man** | The man stands on the imam's right |
+| **Imam + 2 men or more** | The men stand behind the imam |
+| **Men and women** | Men in front, women behind |
+| **Husband and wife only** | The husband leads and the wife stands behind him |
+
 ---
 
 #### 🚫 The Case of Praying Alone Behind the Row
@@ -467,6 +504,8 @@ It is the effacement of the individual ego in the ocean of the community. You ar
 | **If arriving late** | Join imam in his current position | Prophetic practice |
 | **Making up** | After imam's salam, make up what you missed | Prophetic teaching |
 
+> 💡 **Easy rule to remember:** do not move before the imam, do not match him exactly at the same instant, but move immediately after him.
+
 ---
 
 #### 🎯 How to Join a Prayer in Progress
@@ -482,6 +521,10 @@ It is the effacement of the individual ego in the ocean of the community. You ar
 4. **What counts as a caught rak'a**: If you join the imam before he rises from ruku'
 
 5. **After imam's salam**: Remain seated or stand to make up
+
+### 📌 Very concrete example
+
+> You enter the mosque during the second rak'a of 'Isha. You make the opening takbir while standing, join the imam immediately, then after his salam you stand and complete the rak'at you missed.
 
 ---
 
@@ -595,6 +638,35 @@ It is the effacement of the individual ego in the ocean of the community. You ar
 - Teach children
 - Organize Jama'ah at work/school
 - Become a pillar of your mosque
+
+---
+
+## ❓ Frequently Asked Questions
+
+**1. Is congregational prayer obligatory?**
+> In the Maliki school it is a Sunna Mu'akkada. In the Hanbali school it is an individual obligation. In all cases, regularly abandoning it without excuse is serious.
+
+**2. Can we pray in congregation at home?**
+> Yes, jama'ah is valid at home, at work, and elsewhere. But the mosque remains greater in reward and symbolism.
+
+**3. How do I follow the imam correctly?**
+> Perform the movements after him, without preceding him and without staying far behind.
+
+**4. If I arrive late, what should I do?**
+> Join the imam in whatever position he is in, then complete what you missed after his salam.
+
+**5. Can I pray alone behind the row?**
+> In principle no, if there is room or another reasonable way to join the row.
+
+**6. Is online prayer behind an imam on a screen valid?**
+> No, the majority of contemporary scholars do not consider that a valid jama'ah.
+
+---
+
+## 🔗 Related Lessons
+
+- [Prayer of the Late-Comer](/courses/bases-fiqh-ibadat-salat/lessons/lesson-017)
+- [Making Up Missed Prayers](/courses/bases-fiqh-salawat-khassa/lessons/lesson-027)
 
 ---
 
