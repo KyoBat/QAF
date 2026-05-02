@@ -52,6 +52,15 @@ export async function generateMetadata({ params }: CoursePageProps) {
     spirituality: 'Spiritualité',
   }
 
+  const categoryLabel = categoryNames[course.category] || course.category
+  const badge = `${lessonsCount} leçon${lessonsCount > 1 ? 's' : ''} gratuite${lessonsCount > 1 ? 's' : ''}`
+  const ogImageUrl = `https://www.tahalearn.com/api/og?${new URLSearchParams({
+    title: course.title.fr,
+    sub: categoryLabel,
+    img: (course.image ?? '/og-image.png').replace(/\.svg$/, '.png'),
+    badge,
+  }).toString()}`
+
   return {
     title: course.title.fr,
     description: `${course.description.fr} - ${lessonsCount} leçons. Cours gratuit de ${categoryNames[course.category] || course.category}.`,
@@ -65,11 +74,13 @@ export async function generateMetadata({ params }: CoursePageProps) {
       url: `https://www.tahalearn.com/courses/${slug}`,
       siteName: 'TahaLearn',
       type: 'article',
+      images: [{ url: ogImageUrl, width: 1200, height: 630, alt: course.title.fr }],
     },
     twitter: {
       card: 'summary_large_image',
       title: course.title.fr,
       description: course.description.fr,
+      images: [ogImageUrl],
     },
   }
 }

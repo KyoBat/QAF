@@ -46,6 +46,14 @@ export async function generateMetadata({ params }: LessonPageProps) {
   const courseTitle = data.course.title.fr
   const description = `Leçon ${data.lessonNumber} sur ${data.totalLessons} du cours "${courseTitle}". Apprenez ${lessonTitle} avec preuves du Coran et Sunna.`
 
+  const badge = `Leçon ${data.lessonNumber} / ${data.totalLessons}`
+  const ogImageUrl = `https://www.tahalearn.com/api/og?${new URLSearchParams({
+    title: lessonTitle,
+    sub: courseTitle,
+    img: (data.course.image ?? '/og-image.png').replace(/\.svg$/, '.png'),
+    badge,
+  }).toString()}`
+
   return {
     title: `${lessonTitle} | ${courseTitle}`,
     description: description,
@@ -59,11 +67,13 @@ export async function generateMetadata({ params }: LessonPageProps) {
       url: `https://www.tahalearn.com/courses/${slug}/lessons/${lessonId}`,
       siteName: 'TahaLearn',
       type: 'article',
+      images: [{ url: ogImageUrl, width: 1200, height: 630, alt: lessonTitle }],
     },
     twitter: {
       card: 'summary_large_image',
       title: `${lessonTitle} | ${courseTitle}`,
       description: description,
+      images: [ogImageUrl],
     },
   }
 }
