@@ -36,6 +36,21 @@ const nextConfig = {
   // Headers de cache pour les assets statiques
   async headers() {
     return [
+      // Toutes les pages HTML : signaler aux bots qu'elles sont indexables
+      {
+        source: '/((?!api|_next/static|_next/image|favicon.ico|icons|images|fonts|sw.js|site.webmanifest).*)',
+        headers: [
+          { key: 'X-Robots-Tag', value: 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' },
+        ],
+      },
+      // Service Worker : ne pas indexer
+      {
+        source: '/sw.js',
+        headers: [
+          { key: 'X-Robots-Tag', value: 'noindex' },
+          { key: 'Cache-Control', value: 'public, max-age=0, must-revalidate' },
+        ],
+      },
       {
         source: '/fonts/:path*',
         headers: [

@@ -40,7 +40,21 @@ export function middleware(request: NextRequest) {
     return NextResponse.redirect(url, 301)
   }
 
-  return NextResponse.next()
+  // Nettoyer les UTM et autres query params pour éviter les pages dupliquées
+  const utmParams = ['utm_source', 'utm_medium', 'utm_campaign', 'utm_term', 'utm_content', 'fbclid', 'gclid']
+  const hasUtm = utmParams.some(p => request.nextUrl.searchParams.has(p))
+  if (hasUtm) {
+    const url = request.nextUrl.clone()
+    utmParams.forEach(p => url.searchParams.delete(p))
+    return NextResponse.redirect(url, 301)
+  }
+
+  // Ajouter un header Link canonical sur toutes les pages HTML
+  // Renforce le signal canonical pour Google (en plus de la balise <link rel="canonical">)
+  const response = NextResponse.next()
+  const canonicalUrl = `https://www.tahalearn.com${request.nextUrl.pathname}`
+  response.headers.set('Link', `<${canonicalUrl}>; rel="canonical"`)
+  return response
 }
 
 export const config = {

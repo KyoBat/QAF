@@ -8,6 +8,8 @@ import { Header, Footer } from "@/components/layout";
 import { OrganizationJsonLd, WebSiteJsonLd } from "@/components/seo";
 import { coursesData } from "@/lib/data/courses/index";
 
+const SHARE_IMAGE_URL = "https://www.tahalearn.com/og-image.png";
+
 // Compute lightweight search data server-side to avoid bundling 12MB of course
 // content into the client JS. Only slug/title/description + lesson id/title.
 const commandCourses = coursesData
@@ -114,9 +116,10 @@ export const metadata: Metadata = {
     description: "Apprenez les sciences islamiques gratuitement : Tajweed, Fiqh, Aqeedah, Seerah et Histoire. Cours en français, arabe et anglais avec preuves authentiques du Coran et de la Sunna.",
     images: [
       {
-        url: "/og-image.png",
+        url: SHARE_IMAGE_URL,
         width: 1200,
         height: 630,
+        type: "image/png",
         alt: "TahaLearn - Plateforme d'apprentissage islamique gratuite",
       },
     ],
@@ -125,7 +128,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "TahaLearn - Sciences Islamiques Gratuites",
     description: "Apprenez les sciences islamiques gratuitement avec cours en FR/AR/EN",
-    images: ["/og-image.png"],
+    images: [SHARE_IMAGE_URL],
     creator: "@tahalearn",
     site: "@tahalearn",
   },
@@ -177,6 +180,12 @@ export default function RootLayout({
       <head>
         <OrganizationJsonLd />
         <WebSiteJsonLd />
+        <meta property="og:image" content={SHARE_IMAGE_URL} />
+        <meta property="og:image:secure_url" content={SHARE_IMAGE_URL} />
+        <meta property="og:image:type" content="image/png" />
+        <meta property="og:image:width" content="1200" />
+        <meta property="og:image:height" content="630" />
+        <meta name="twitter:image" content={SHARE_IMAGE_URL} />
         <meta name="apple-mobile-web-app-capable" content="yes" />
         <meta name="apple-mobile-web-app-status-bar-style" content="default" />
         <meta name="apple-mobile-web-app-title" content="TahaLearn" />
@@ -204,7 +213,7 @@ export default function RootLayout({
         <script
           dangerouslySetInnerHTML={{
             __html: `
-              if ('serviceWorker' in navigator) {
+              if ('serviceWorker' in navigator && !/bot|crawl|spider|slurp|googlebot|bingbot|yandex/i.test(navigator.userAgent)) {
                 window.addEventListener('load', function() {
                   navigator.serviceWorker.register('/sw.js');
                 });

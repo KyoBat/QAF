@@ -9,43 +9,45 @@ import type { Course } from '@/lib/data/courses/types'
  */
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = 'https://www.tahalearn.com'
-  const currentDate = new Date()
+  // Date fixe pour les pages statiques — ne changer qu'en cas de mise à jour réelle
+  // Utiliser new Date() envoie un faux signal de fraîcheur à Google
+  const staticDate = new Date('2026-04-01')
 
   // Pages statiques
   const staticPages: MetadataRoute.Sitemap = [
     {
       url: baseUrl,
-      lastModified: currentDate,
+      lastModified: staticDate,
       changeFrequency: 'weekly',
       priority: 1,
     },
     {
       url: `${baseUrl}/courses`,
-      lastModified: currentDate,
+      lastModified: staticDate,
       changeFrequency: 'weekly',
       priority: 0.9,
     },
     {
       url: `${baseUrl}/about`,
-      lastModified: currentDate,
+      lastModified: staticDate,
       changeFrequency: 'monthly',
       priority: 0.4,
     },
     {
       url: `${baseUrl}/exams`,
-      lastModified: currentDate,
+      lastModified: staticDate,
       changeFrequency: 'weekly',
       priority: 0.7,
     },
     {
       url: `${baseUrl}/placement`,
-      lastModified: currentDate,
+      lastModified: staticDate,
       changeFrequency: 'monthly',
       priority: 0.6,
     },
     {
       url: `${baseUrl}/sitemap-html`,
-      lastModified: currentDate,
+      lastModified: staticDate,
       changeFrequency: 'weekly',
       priority: 0.3,
     },
@@ -76,7 +78,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   // Pages des examens
   const examPages: MetadataRoute.Sitemap = getAllExamsLight().map((exam) => ({
     url: `${baseUrl}/exams/${exam.id}`,
-    lastModified: currentDate,
+    lastModified: staticDate,
     changeFrequency: 'monthly' as const,
     priority: 0.7,
   }))
