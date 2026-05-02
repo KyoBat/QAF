@@ -19,6 +19,7 @@ import {
 } from 'lucide-react'
 import { Card, CardContent } from '@/components/ui/card'
 import { Button } from '@/components/ui/button'
+import { ShareButton } from '@/components/ui/ShareButton'
 import { Progress } from '@/components/ui/progress'
 import { Breadcrumb } from '@/components/ui/breadcrumb'
 import {
@@ -261,12 +262,15 @@ export function LessonPageClient({ data }: LessonPageClientProps) {
                 <Clock className="h-4 w-4" />
                 <span>{lesson.duration}</span>
               </div>
-              <h1 className={cn(
-                'text-2xl sm:text-3xl font-bold text-foreground',
-                isRTL && 'font-arabic leading-relaxed'
-              )}>
-                {title}
-              </h1>
+              <div className="flex items-start justify-between gap-4">
+                <h1 className={cn(
+                  'text-2xl sm:text-3xl font-bold text-foreground',
+                  isRTL && 'font-arabic leading-relaxed'
+                )}>
+                  {title}
+                </h1>
+                <ShareButton title={`${title} | ${courseTitle}`} />
+              </div>
             </div>
 
             {/* Video Player */}
