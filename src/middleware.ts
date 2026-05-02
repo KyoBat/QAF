@@ -60,6 +60,6 @@ export function middleware(request: NextRequest) {
 export const config = {
   // Appliquer le middleware à toutes les routes sauf les fichiers statiques
   matcher: [
-    '/((?!_next/static|_next/image|favicon.ico|icons|images|fonts|sw.js|site.webmanifest).*)',
+    '/((?!_next/static|_next/image|favicon.ico|icons|images|fonts|sw.js|site.webmanifest|api).*)',
   ],
 }
