@@ -7,17 +7,22 @@ export default function robots(): MetadataRoute.Robots {
     rules: [
       {
         userAgent: '*',
-        allow: '/',
+        allow: ['/', '/api/og'],
         disallow: ['/api/', '/private/', '/_next/'],
       },
       {
-        userAgent: 'Googlebot',
+        // WhatsApp / Facebook link preview bot
+        userAgent: 'facebookexternalhit',
         allow: '/',
+      },
+      {
+        userAgent: 'Googlebot',
+        allow: ['/', '/api/og'],
         disallow: ['/api/', '/private/', '/_next/'],
       },
       {
         userAgent: 'Bingbot',
-        allow: '/',
+        allow: ['/', '/api/og'],
         disallow: ['/api/', '/private/', '/_next/'],
       },
     ],
