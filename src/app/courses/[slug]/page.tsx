@@ -52,10 +52,11 @@ export async function generateMetadata({ params }: CoursePageProps) {
     spirituality: 'Spiritualité',
   }
 
-  // Use PNG version for OG/social sharing (WhatsApp, Twitter, Facebook don't support SVG)
+  // Use absolute PNG URL for social sharing (WhatsApp/Twitter/Facebook require absolute URLs)
+  const BASE_URL = 'https://www.tahalearn.com'
   const ogImage = course.image
-    ? course.image.replace(/\.svg$/, '.png')
-    : '/og-image.png'
+    ? `${BASE_URL}${course.image.replace(/\.svg$/, '.png')}`
+    : `${BASE_URL}/og-image.png`
 
   return {
     title: course.title.fr,
@@ -75,6 +76,7 @@ export async function generateMetadata({ params }: CoursePageProps) {
           url: ogImage,
           width: 1200,
           height: 630,
+          type: 'image/png',
           alt: course.title.fr,
         },
       ],

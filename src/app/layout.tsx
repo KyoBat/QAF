@@ -180,12 +180,6 @@ export default function RootLayout({
       <head>
         <OrganizationJsonLd />
         <WebSiteJsonLd />
-        <meta property="og:image" content={SHARE_IMAGE_URL} />
-        <meta property="og:image:secure_url" content={SHARE_IMAGE_URL} />
-        <meta property="og:image:type" content="image/png" />
-        <meta property="og:image:width" content="1200" />
-        <meta property="og:image:height" content="630" />
-        <meta name="twitter:image" content={SHARE_IMAGE_URL} />
         <meta name="apple-mobile-web-app-capable" content="yes" />
         <meta name="apple-mobile-web-app-status-bar-style" content="default" />
         <meta name="apple-mobile-web-app-title" content="TahaLearn" />
