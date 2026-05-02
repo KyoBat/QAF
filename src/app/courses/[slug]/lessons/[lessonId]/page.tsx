@@ -46,12 +46,6 @@ export async function generateMetadata({ params }: LessonPageProps) {
   const courseTitle = data.course.title.fr
   const description = `Leçon ${data.lessonNumber} sur ${data.totalLessons} du cours "${courseTitle}". Apprenez ${lessonTitle} avec preuves du Coran et Sunna.`
 
-  // Use absolute PNG URL for social sharing (WhatsApp/Twitter/Facebook require absolute URLs)
-  const BASE_URL = 'https://www.tahalearn.com'
-  const ogImage = data.course.image
-    ? `${BASE_URL}${data.course.image.replace(/\.svg$/, '.png')}`
-    : `${BASE_URL}/og-image.png`
-
   return {
     title: `${lessonTitle} | ${courseTitle}`,
     description: description,
@@ -65,21 +59,11 @@ export async function generateMetadata({ params }: LessonPageProps) {
       url: `https://www.tahalearn.com/courses/${slug}/lessons/${lessonId}`,
       siteName: 'TahaLearn',
       type: 'article',
-      images: [
-        {
-          url: ogImage,
-          width: 1200,
-          height: 630,
-          type: 'image/png',
-          alt: lessonTitle,
-        },
-      ],
     },
     twitter: {
       card: 'summary_large_image',
       title: `${lessonTitle} | ${courseTitle}`,
       description: description,
-      images: [ogImage],
     },
   }
 }

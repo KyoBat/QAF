@@ -7,6 +7,7 @@
 import { ImageResponse } from 'next/og'
 import { getLesson } from '@/lib/data'
 
+export const runtime = 'nodejs'
 export const alt = 'TahaLearn - Leçon de Sciences Islamiques'
 export const size = { width: 1200, height: 630 }
 export const contentType = 'image/png'
