@@ -44,7 +44,8 @@ export async function generateMetadata({ params }: LessonPageProps) {
 
   const lessonTitle = data.lesson.title.fr
   const courseTitle = data.course.title.fr
-  const lessonDescription = data.lesson.description?.fr
+  const lessonAny = data.lesson as typeof data.lesson & { description?: { fr?: string } }
+  const lessonDescription = lessonAny.description?.fr
   const description = lessonDescription
     ? `${lessonDescription} — Leçon ${data.lessonNumber}/${data.totalLessons} du cours "${courseTitle}".`
     : `Leçon ${data.lessonNumber} sur ${data.totalLessons} du cours "${courseTitle}". Apprenez ${lessonTitle} avec preuves du Coran et Sunna.`
