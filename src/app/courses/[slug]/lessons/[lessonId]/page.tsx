@@ -44,7 +44,10 @@ export async function generateMetadata({ params }: LessonPageProps) {
 
   const lessonTitle = data.lesson.title.fr
   const courseTitle = data.course.title.fr
-  const description = `Leçon ${data.lessonNumber} sur ${data.totalLessons} du cours "${courseTitle}". Apprenez ${lessonTitle} avec preuves du Coran et Sunna.`
+  const lessonDescription = data.lesson.description?.fr
+  const description = lessonDescription
+    ? `${lessonDescription} — Leçon ${data.lessonNumber}/${data.totalLessons} du cours "${courseTitle}".`
+    : `Leçon ${data.lessonNumber} sur ${data.totalLessons} du cours "${courseTitle}". Apprenez ${lessonTitle} avec preuves du Coran et Sunna.`
 
   const badge = `Leçon ${data.lessonNumber} / ${data.totalLessons}`
   const ogImageUrl = `https://www.tahalearn.com/api/og?${new URLSearchParams({
