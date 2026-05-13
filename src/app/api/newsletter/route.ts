@@ -86,13 +86,11 @@ export async function POST(request: NextRequest) {
           method: 'POST',
           headers: {
             'Content-Type': 'application/json',
-            'Authorization': `Bearer ${n8nSecret}`,
+            'x-webhook-secret': n8nSecret,
           },
           body: JSON.stringify({
             email,
-            signupDate: new Date().toISOString(),
-            source: 'website_newsletter',
-            alreadySubscribed: false,
+            date: new Date().toISOString().split('T')[0],
           }),
         }).catch((err) => console.error('[N8N] Failed to notify webhook:', err));
       }
