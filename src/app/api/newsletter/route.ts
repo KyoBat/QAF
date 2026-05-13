@@ -59,6 +59,7 @@ export async function POST(request: NextRequest) {
     }
 
     // Add contact to Brevo
+    console.log(`[BREVO] Using list ID: ${BREVO_LIST_ID}, email: ${email}`);
     const response = await fetch('https://api.brevo.com/v3/contacts', {
       method: 'POST',
       headers: {
@@ -78,6 +79,25 @@ export async function POST(request: NextRequest) {
     });
 
     if (response.ok) {
+      // Notify n8n for welcome email (fire-and-forget)
+      const n8nUrl = process.env.N8N_WEBHOOK_URL;
+      const n8nSecret = process.env.N8N_WEBHOOK_SECRET;
+      if (n8nUrl && n8nSecret) {
+        fetch(n8nUrl, {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json',
+            'Authorization': `Bearer ${n8nSecret}`,
+          },
+          body: JSON.stringify({
+            email,
+            signupDate: new Date().toISOString(),
+            source: 'website_newsletter',
+            alreadySubscribed: false,
+          }),
+        }).catch((err) => console.error('[N8N] Failed to notify webhook:', err));
+      }
+
       return NextResponse.json(
         { 
           success: true, 
