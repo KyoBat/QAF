@@ -59,7 +59,6 @@ export async function POST(request: NextRequest) {
     }
 
     // Add contact to Brevo
-    console.log(`[BREVO] Using list ID: ${BREVO_LIST_ID}, email: ${email}`);
     const response = await fetch('https://api.brevo.com/v3/contacts', {
       method: 'POST',
       headers: {
