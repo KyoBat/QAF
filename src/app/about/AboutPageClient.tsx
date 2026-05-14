@@ -204,7 +204,7 @@ export default function AboutPageClient({ totalCourses, totalLessons }: AboutPag
               </Link>
             </Button>
             <Button size="lg" variant="outline" asChild className="gap-2 bg-transparent border-primary-foreground/30 text-primary-foreground hover:bg-primary-foreground/10">
-              <a href="mailto:tahalearnacademy@gmail.com">
+              <a href="mailto:contact@tahalearn.com">
                 <Mail className="h-5 w-5" />
                 <span>{t('about.cta.contact')}</span>
               </a>

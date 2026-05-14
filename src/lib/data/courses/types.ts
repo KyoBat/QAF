@@ -45,6 +45,7 @@ export interface LessonMeta {
 
 export interface LessonContent {
   title: LocalizedString
+  description?: LocalizedString
   content: LocalizedString
 }
 

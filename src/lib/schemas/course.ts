@@ -39,6 +39,11 @@ export const LessonSchema = z.object({
     ar: z.string().min(1),
     en: z.string().min(1),
   }),
+  description: z.object({
+    fr: z.string(),
+    ar: z.string(),
+    en: z.string(),
+  }).optional(),
   duration: z.string(), // e.g., "30 min"
   content: z.object({
     fr: z.string(),
