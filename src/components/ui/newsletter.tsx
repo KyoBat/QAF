@@ -12,7 +12,7 @@ interface NewsletterFormProps {
 }
 
 export function NewsletterForm({ variant = 'default', className }: NewsletterFormProps) {
-  const { t, isRTL } = useLocale()
+  const { locale, t, isRTL } = useLocale()
   const [email, setEmail] = useState('')
   const [status, setStatus] = useState<'idle' | 'loading' | 'success' | 'error'>('idle')
   const [errorMessage, setErrorMessage] = useState('')
@@ -34,7 +34,7 @@ export function NewsletterForm({ variant = 'default', className }: NewsletterFor
         headers: {
           'Content-Type': 'application/json',
         },
-        body: JSON.stringify({ email }),
+        body: JSON.stringify({ email, locale }),
       })
 
       const data = await response.json()

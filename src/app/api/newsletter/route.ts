@@ -35,7 +35,7 @@ export async function POST(request: NextRequest) {
       );
     }
 
-    const { email } = await request.json();
+    const { email, locale } = await request.json();
 
     // Validate email
     if (!email || !isValidEmail(email)) {
@@ -73,6 +73,7 @@ export async function POST(request: NextRequest) {
         attributes: {
           SOURCE: 'website_newsletter',
           SIGNUP_DATE: new Date().toISOString(),
+          LANGUE: locale || 'fr',
         },
       }),
     });
@@ -90,6 +91,7 @@ export async function POST(request: NextRequest) {
           },
           body: JSON.stringify({
             email,
+            locale: locale || 'fr',
             date: new Date().toISOString().split('T')[0],
           }),
         }).catch((err) => console.error('[N8N] Failed to notify webhook:', err));
