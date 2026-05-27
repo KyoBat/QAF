@@ -740,7 +740,7 @@ function ResultsScreen({
         </motion.div>
 
         <div className="mt-6 text-center">
-          <Link href="/courses" className="text-sm text-muted-foreground hover:text-foreground">
+          <Link href={`/${language}/courses`} className="text-sm text-muted-foreground hover:text-foreground">
             ← {c.backToCourses}
           </Link>
         </div>

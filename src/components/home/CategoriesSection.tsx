@@ -15,6 +15,7 @@ import {
   hoverLift,
   viewportOptions
 } from '@/lib/utils/motion-variants'
+import { useLocale } from '@/components/providers'
 
 interface CategoriesSectionProps {
   categories: Array<{
@@ -33,6 +34,7 @@ export default function CategoriesSection({
   isRTL, 
   t 
 }: CategoriesSectionProps) {
+  const { locale } = useLocale()
   return (
     <section className="py-20">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -63,7 +65,7 @@ export default function CategoriesSection({
             whileTap={{ scale: 0.95 }}
           >
             <Button variant="outline" asChild className="gap-2">
-              <Link href="/courses">
+              <Link href={`/${locale}/courses`}>
                 <span>{t('courses.viewAll')}</span>
                 <ChevronRight className={cn('h-4 w-4', isRTL && 'rotate-180')} />
               </Link>

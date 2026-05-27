@@ -2,6 +2,7 @@
 
 import Link from 'next/link'
 import { useState } from 'react'
+import { useRouter, usePathname } from 'next/navigation'
 import { Menu, X, Sun, Moon, Globe, BookOpen, Mail } from 'lucide-react'
 import { useLocale, useTheme } from '@/components/providers'
 import { Command } from '@/components/ui/command'
@@ -25,12 +26,22 @@ export function Header({ commandCourses }: HeaderProps) {
   const { theme, toggleTheme } = useTheme()
   const [isMenuOpen, setIsMenuOpen] = useState(false)
   const [isLangOpen, setIsLangOpen] = useState(false)
+  const router = useRouter()
+  const pathname = usePathname()
+
+  const switchLocale = (newLocale: Locale) => {
+    setLocale(newLocale)
+    setIsLangOpen(false)
+    // Replace /[oldLang]/ prefix with /[newLang]/
+    const newPath = pathname.replace(/^\/(fr|ar|en)(\/|$)/, `/${newLocale}$2`)
+    router.push(newPath)
+  }
 
   const navLinks = [
-    { href: '/', label: t('nav.home') },
-    { href: '/courses', label: t('nav.courses') },
-    { href: '/exams', label: t('nav.exams') || 'Examens' },
-    { href: '/about', label: t('nav.about') },
+    { href: `/${locale}`, label: t('nav.home') },
+    { href: `/${locale}/courses`, label: t('nav.courses') },
+    { href: `/${locale}/exams`, label: t('nav.exams') || 'Examens' },
+    { href: `/${locale}/about`, label: t('nav.about') },
   ]
 
   return (
@@ -45,7 +56,7 @@ export function Header({ commandCourses }: HeaderProps) {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16">
           {/* Logo */}
-          <Link href="/" className="flex items-center gap-2 group">
+          <Link href={`/${locale}`} className="flex items-center gap-2 group">
             <div className="w-10 h-10 bg-emerald-600 rounded-lg flex items-center justify-center group-hover:bg-emerald-700 transition-colors">
               <BookOpen className="w-6 h-6 text-white" />
             </div>
@@ -108,10 +119,7 @@ export function Header({ commandCourses }: HeaderProps) {
                     {(Object.keys(locales) as Locale[]).map((loc) => (
                       <button
                         key={loc}
-                        onClick={() => {
-                          setLocale(loc)
-                          setIsLangOpen(false)
-                        }}
+                        onClick={() => switchLocale(loc)}
                         className={cn(
                           'w-full px-4 py-2 text-left flex items-center gap-2 hover:bg-gray-100 dark:hover:bg-gray-700',
                           locale === loc && 'bg-emerald-50 dark:bg-emerald-900/20 text-emerald-600'
@@ -223,7 +231,7 @@ export function Footer() {
             </div>
 
             <nav className="flex items-center gap-4">
-              <Link href="/about" className="hover:text-emerald-600 transition-colors">
+              <Link href={`/${locale}/about`} className="hover:text-emerald-600 transition-colors">
                 {t('nav.about')}
               </Link>
             </nav>

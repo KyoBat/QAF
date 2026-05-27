@@ -3,85 +3,71 @@ import { coursesData } from '@/lib/data/courses/index'
 import { getAllExamsLight } from '@/lib/data/exams'
 import type { Course } from '@/lib/data/courses/types'
 
-/**
- * Génération du sitemap pour Google Search Console
- * Optimisé pour l'indexation avec priorités et fréquences de mise à jour
- */
-export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://www.tahalearn.com'
-  // Date fixe pour les pages statiques — ne changer qu'en cas de mise à jour réelle
-  // Utiliser new Date() envoie un faux signal de fraîcheur à Google
-  const staticDate = new Date('2026-04-01')
+const LOCALES = ['fr', 'ar', 'en'] as const
+const BASE_URL = 'https://www.tahalearn.com'
+const STATIC_DATE = new Date('2026-04-01')
 
+/** Build one sitemap entry per locale for a given path */
+function localizedEntry(
+  path: string,
+  opts: { lastModified?: Date; changeFrequency?: MetadataRoute.Sitemap[number]['changeFrequency']; priority?: number }
+): MetadataRoute.Sitemap {
+  const { lastModified = STATIC_DATE, changeFrequency = 'monthly', priority = 0.7 } = opts
+  const alternates: Record<string, string> = {}
+  LOCALES.forEach(loc => { alternates[loc] = `${BASE_URL}/${loc}${path}` })
+  alternates['x-default'] = `${BASE_URL}/fr${path}`
+
+  return LOCALES.map(loc => ({
+    url: `${BASE_URL}/${loc}${path}`,
+    lastModified,
+    changeFrequency,
+    priority,
+    alternates: { languages: alternates },
+  }))
+}
+
+export default function sitemap(): MetadataRoute.Sitemap {
   // Pages statiques
-  const staticPages: MetadataRoute.Sitemap = [
-    {
-      url: baseUrl,
-      lastModified: staticDate,
-      changeFrequency: 'weekly',
-      priority: 1,
-    },
-    {
-      url: `${baseUrl}/courses`,
-      lastModified: staticDate,
-      changeFrequency: 'weekly',
-      priority: 0.9,
-    },
-    {
-      url: `${baseUrl}/about`,
-      lastModified: staticDate,
-      changeFrequency: 'monthly',
-      priority: 0.4,
-    },
-    {
-      url: `${baseUrl}/exams`,
-      lastModified: staticDate,
-      changeFrequency: 'weekly',
-      priority: 0.7,
-    },
-    {
-      url: `${baseUrl}/placement`,
-      lastModified: staticDate,
-      changeFrequency: 'monthly',
-      priority: 0.6,
-    },
-    {
-      url: `${baseUrl}/sitemap-html`,
-      lastModified: staticDate,
-      changeFrequency: 'weekly',
-      priority: 0.3,
-    },
+  const staticPages = [
+    ...localizedEntry('', { changeFrequency: 'weekly', priority: 1 }),
+    ...localizedEntry('/courses', { changeFrequency: 'weekly', priority: 0.9 }),
+    ...localizedEntry('/about', { changeFrequency: 'monthly', priority: 0.4 }),
+    ...localizedEntry('/exams', { changeFrequency: 'weekly', priority: 0.7 }),
+    ...localizedEntry('/placement', { changeFrequency: 'monthly', priority: 0.6 }),
   ]
 
-  // Pages des cours
+  // Pages des cours (×3 langues)
   const coursePages: MetadataRoute.Sitemap = coursesData
     .filter((course: Course) => course.published)
-    .map((course: Course) => ({
-      url: `${baseUrl}/courses/${course.slug}`,
-      lastModified: new Date(course.updatedAt),
-      changeFrequency: 'weekly' as const,
-      priority: 0.8,
-    }))
+    .flatMap((course: Course) =>
+      localizedEntry(`/courses/${course.slug}`, {
+        lastModified: new Date(course.updatedAt),
+        changeFrequency: 'weekly',
+        priority: 0.8,
+      })
+    )
 
-  // Pages des leçons - contenu principal  
+  // Pages des leçons (×3 langues)
   const lessonPages: MetadataRoute.Sitemap = coursesData
     .filter((course: Course) => course.published)
     .flatMap((course: Course) =>
-      course.lessons.map((lesson) => ({
-        url: `${baseUrl}/courses/${course.slug}/lessons/${lesson.id}`,
-        lastModified: new Date(course.updatedAt),
-        changeFrequency: 'monthly' as const,
-        priority: 0.7,
-      }))
+      course.lessons.flatMap(lesson =>
+        localizedEntry(`/courses/${course.slug}/lessons/${lesson.id}`, {
+          lastModified: new Date(course.updatedAt),
+          changeFrequency: 'monthly',
+          priority: 0.7,
+        })
+      )
     )
 
-  // Pages des examens
-  const examPages: MetadataRoute.Sitemap = getAllExamsLight().map((exam) => ({
-    url: `${baseUrl}/exams/${exam.id}`,
-    lastModified: staticDate,
-    changeFrequency: 'monthly' as const,
-    priority: 0.7,
-  }))
+  // Pages des examens (×3 langues)
+  const examPages: MetadataRoute.Sitemap = getAllExamsLight().flatMap(exam =>
+    localizedEntry(`/exams/${exam.id}`, {
+      changeFrequency: 'monthly',
+      priority: 0.7,
+    })
+  )
 
   return [...staticPages, ...coursePages, ...lessonPages, ...examPages]
 }
+

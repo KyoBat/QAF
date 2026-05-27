@@ -16,7 +16,7 @@ const differentiators = [
 ]
 
 export default function WhyRziSection() {
-  const { t, isRTL } = useLocale()
+  const { locale, t, isRTL } = useLocale()
 
   return (
     <section className="py-20 relative overflow-hidden">
@@ -103,7 +103,7 @@ export default function WhyRziSection() {
         {/* CTA */}
         <div className="text-center animate-fade-in-up animation-delay-1000">
           <Button size="lg" asChild className="gap-2 hover-lift animate-pulse-glow">
-            <Link href="/courses">
+            <Link href={`/${locale}/courses`}>
               <span>{t('home.whyRzi.cta')}</span>
               <ChevronRight className={cn('h-5 w-5', isRTL && 'rotate-180')} />
             </Link>

@@ -33,7 +33,7 @@ export default function NotFound() {
           Accueil
         </Link>
         <Link
-          href="/courses"
+          href="/fr/courses"
           className="px-6 py-3 border border-primary-600 text-primary-600 rounded-lg hover:bg-primary-50 transition-colors"
         >
           Voir les cours

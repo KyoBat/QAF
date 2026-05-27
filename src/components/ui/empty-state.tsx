@@ -173,7 +173,7 @@ export function EmptyState({
           </Button>
         ) : (
           <Button asChild variant="default">
-            <Link href="/courses">{current.action[lang]}</Link>
+            <Link href={`/${locale}/courses`}>{current.action[lang]}</Link>
           </Button>
         )}
       </div>

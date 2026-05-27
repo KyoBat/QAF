@@ -25,6 +25,7 @@ import {
   cardVariants,
   viewportOptions
 } from '@/lib/utils/motion-variants'
+import { useLocale } from '@/components/providers'
 
 interface ValuePropositionSectionProps {
   isRTL: boolean
@@ -42,6 +43,7 @@ const valuePoints = [
 ]
 
 export default function ValuePropositionSection({ isRTL, t }: ValuePropositionSectionProps) {
+  const { locale } = useLocale()
   return (
     <section className="py-20 relative overflow-hidden">
       {/* Decorative background */}
@@ -202,7 +204,7 @@ export default function ValuePropositionSection({ isRTL, t }: ValuePropositionSe
           variants={fadeInUp}
         >
           <Button size="lg" asChild className="gap-2 shadow-lg hover:shadow-xl transition-shadow">
-            <Link href="/courses">
+            <Link href={`/${locale}/courses`}>
               <span>{t('home.whyRzi.cta')}</span>
               <ChevronRight className={cn('h-5 w-5 transition-transform group-hover:translate-x-1', isRTL && 'rotate-180')} />
             </Link>

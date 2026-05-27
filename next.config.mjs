@@ -76,60 +76,36 @@ const nextConfig = {
   async redirects() {
     return [
       // Redirection non-www → www (permanent 308)
-      // Compile dans les règles Vercel pour éviter le 307 temporaire de la plateforme
       {
         source: '/:path*',
         has: [{ type: 'host', value: 'tahalearn.com' }],
         destination: 'https://www.tahalearn.com/:path*',
         permanent: true,
       },
-      // Legacy slug: bases-fiqh-ibadat → bases-fiqh-ibadat-purification
+      // ─── Legacy slug redirects (must come before the locale catch-all) ───
       {
         source: '/courses/bases-fiqh-ibadat',
-        destination: '/courses/bases-fiqh-ibadat-purification',
+        destination: '/fr/courses/bases-fiqh-ibadat-purification',
         permanent: true,
       },
       {
         source: '/courses/bases-fiqh-ibadat/lessons/:lessonId*',
-        destination: '/courses/bases-fiqh-ibadat-purification/lessons/:lessonId*',
+        destination: '/fr/courses/bases-fiqh-ibadat-purification/lessons/:lessonId*',
         permanent: true,
       },
-      // Mustalah Hadith - Anciennes URLs lesson-XXX → Nouvelles URLs XXX-nom
-      {
-        source: '/courses/mustalah-hadith/lessons/lesson-001',
-        destination: '/courses/mustalah-hadith/lessons/001-introduction',
-        permanent: true,
-      },
-      {
-        source: '/courses/mustalah-hadith/lessons/lesson-002',
-        destination: '/courses/mustalah-hadith/lessons/002-classification',
-        permanent: true,
-      },
-      {
-        source: '/courses/mustalah-hadith/lessons/lesson-003',
-        destination: '/courses/mustalah-hadith/lessons/003-isnad',
-        permanent: true,
-      },
-      {
-        source: '/courses/mustalah-hadith/lessons/lesson-004',
-        destination: '/courses/mustalah-hadith/lessons/004-recueils',
-        permanent: true,
-      },
-      {
-        source: '/courses/mustalah-hadith/lessons/lesson-005',
-        destination: '/courses/mustalah-hadith/lessons/005-verification',
-        permanent: true,
-      },
-      {
-        source: '/courses/mustalah-hadith/lessons/lesson-006',
-        destination: '/courses/mustalah-hadith/lessons/006-mawdu',
-        permanent: true,
-      },
-      {
-        source: '/courses/mustalah-hadith/lessons/lesson-007',
-        destination: '/courses/mustalah-hadith/lessons/007-femmes-savantes',
-        permanent: true,
-      },
+      { source: '/courses/mustalah-hadith/lessons/lesson-001', destination: '/fr/courses/mustalah-hadith/lessons/001-introduction', permanent: true },
+      { source: '/courses/mustalah-hadith/lessons/lesson-002', destination: '/fr/courses/mustalah-hadith/lessons/002-classification', permanent: true },
+      { source: '/courses/mustalah-hadith/lessons/lesson-003', destination: '/fr/courses/mustalah-hadith/lessons/003-isnad', permanent: true },
+      { source: '/courses/mustalah-hadith/lessons/lesson-004', destination: '/fr/courses/mustalah-hadith/lessons/004-recueils', permanent: true },
+      { source: '/courses/mustalah-hadith/lessons/lesson-005', destination: '/fr/courses/mustalah-hadith/lessons/005-verification', permanent: true },
+      { source: '/courses/mustalah-hadith/lessons/lesson-006', destination: '/fr/courses/mustalah-hadith/lessons/006-mawdu', permanent: true },
+      { source: '/courses/mustalah-hadith/lessons/lesson-007', destination: '/fr/courses/mustalah-hadith/lessons/007-femmes-savantes', permanent: true },
+      // ─── Locale catch-all: redirect bare URLs to /fr/ for existing indexed pages ───
+      { source: '/courses/:path*', destination: '/fr/courses/:path*', permanent: true },
+      { source: '/about', destination: '/fr/about', permanent: true },
+      { source: '/exams/:path*', destination: '/fr/exams/:path*', permanent: true },
+      { source: '/exams', destination: '/fr/exams', permanent: true },
+      { source: '/placement', destination: '/fr/placement', permanent: true },
     ];
   },
 };

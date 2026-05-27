@@ -1,29 +1,10 @@
 import type { Metadata, Viewport } from "next";
 import localFont from "next/font/local";
 import { Inter, Amiri } from "next/font/google";
-import { Analytics } from "@vercel/analytics/react";
-import { SpeedInsights } from "@vercel/speed-insights/next";
-import { Providers } from "@/components/providers";
-import { Header, Footer } from "@/components/layout";
 import { OrganizationJsonLd, WebSiteJsonLd } from "@/components/seo";
-import { coursesData } from "@/lib/data/courses/index";
+import "./globals.css";
 
 const SHARE_IMAGE_URL = "https://www.tahalearn.com/og-image.png";
-
-// Compute lightweight search data server-side to avoid bundling 12MB of course
-// content into the client JS. Only slug/title/description + lesson id/title.
-const commandCourses = coursesData
-  .filter(c => c.published)
-  .map(course => ({
-    slug: course.slug,
-    title: course.title,
-    description: course.description,
-    lessons: course.lessons.map(lesson => ({
-      id: lesson.id,
-      title: lesson.title,
-    })),
-  }));
-import "./globals.css";
 
 // Polices Google optimisées
 const inter = Inter({
@@ -194,16 +175,9 @@ export default function RootLayout({
       </head>
       <body
         className={`${inter.variable} ${amiri.variable} ${geistSans.variable} ${geistMono.variable} antialiased min-h-screen flex flex-col font-sans`}
+        suppressHydrationWarning
       >
-        <Providers>
-          <Header commandCourses={commandCourses} />
-          <main id="main-content" className="flex-1">
-            {children}
-          </main>
-          <Footer />
-        </Providers>
-        <Analytics />
-        <SpeedInsights />
+        {children}
         <script
           dangerouslySetInnerHTML={{
             __html: `

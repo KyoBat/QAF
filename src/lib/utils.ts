@@ -1,8 +1,30 @@
 import { clsx, type ClassValue } from 'clsx'
 import { twMerge } from 'tailwind-merge'
+import type { Locale } from '@/locales'
 
 export function cn(...inputs: ClassValue[]) {
   return twMerge(clsx(inputs))
+}
+
+/** Prefix a path with a locale segment, e.g. localePath('ar', '/courses') → '/ar/courses' */
+export function localePath(locale: Locale, path: string): string {
+  const cleanPath = path.startsWith('/') ? path : `/${path}`
+  return `/${locale}${cleanPath}`
+}
+
+/** Build the hreflang alternates block for metadata */
+export function buildHreflangAlternates(
+  pathWithoutLang: string,
+  defaultLocale: Locale = 'fr'
+): Record<string, string> {
+  const base = 'https://www.tahalearn.com'
+  const clean = pathWithoutLang.startsWith('/') ? pathWithoutLang : `/${pathWithoutLang}`
+  return {
+    fr: `${base}/fr${clean}`,
+    ar: `${base}/ar${clean}`,
+    en: `${base}/en${clean}`,
+    'x-default': `${base}/${defaultLocale}${clean}`,
+  }
 }
 
 export function formatDuration(minutes: number): string {

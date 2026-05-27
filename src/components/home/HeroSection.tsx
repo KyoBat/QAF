@@ -16,6 +16,7 @@ import {
   rotateVariantsSlow,
   viewportOptions
 } from '@/lib/utils/motion-variants'
+import { useLocale } from '@/components/providers'
 import type { Course } from '@/lib/data/courses/types'
 
 interface HeroSectionProps {
@@ -30,6 +31,7 @@ interface HeroSectionProps {
 }
 
 export default function HeroSection({ featuredCourse, stats, isRTL, t }: HeroSectionProps) {
+  const { locale } = useLocale()
   return (
     <section className="relative py-12 lg:py-20 overflow-hidden">
       {/* Animated Background Gradient */}
@@ -163,7 +165,7 @@ export default function HeroSection({ featuredCourse, stats, isRTL, t }: HeroSec
               whileTap={{ scale: 0.95 }}
             >
               <Button size="lg" variant="outline" asChild className="gap-2 border-primary/50 text-primary hover:bg-primary/10">
-                <Link href="/placement">
+                <Link href={`/${locale}/placement`}>
                   <span>📝</span>
                   <span>{t('home.hero.placement')}</span>
                 </Link>

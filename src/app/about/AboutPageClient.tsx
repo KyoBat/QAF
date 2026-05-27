@@ -14,7 +14,7 @@ interface AboutPageClientProps {
 }
 
 export default function AboutPageClient({ totalCourses, totalLessons }: AboutPageClientProps) {
-  const { t, isRTL } = useLocale()
+  const { locale, t, isRTL } = useLocale()
 
   const values = [
     {
@@ -198,7 +198,7 @@ export default function AboutPageClient({ totalCourses, totalLessons }: AboutPag
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button size="lg" variant="secondary" asChild className="gap-2">
-              <Link href="/courses">
+              <Link href={`/${locale}/courses`}>
                 <span>{t('about.cta.courses')}</span>
                 <ChevronRight className="h-5 w-5" />
               </Link>

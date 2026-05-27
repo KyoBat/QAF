@@ -69,12 +69,17 @@ interface LocaleContextType {
 
 const LocaleContext = createContext<LocaleContextType | null>(null)
 
-export function LocaleProvider({ children }: { children: React.ReactNode }) {
+export function LocaleProvider({ children, initialLocale }: { children: React.ReactNode; initialLocale?: Locale }) {
   const { locale, setLocale } = useLocaleStore()
   const [mounted, setMounted] = useState(false)
 
   useEffect(() => {
     setMounted(true)
+    // Sync URL-based locale into Zustand store on first mount
+    if (initialLocale && initialLocale !== locale) {
+      setLocale(initialLocale)
+    }
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [])
 
   useEffect(() => {
@@ -84,8 +89,9 @@ export function LocaleProvider({ children }: { children: React.ReactNode }) {
     }
   }, [locale, mounted])
 
-  // Use the store locale on client, default 'fr' during SSR
-  const activeLocale = mounted ? locale : 'fr'
+  // During SSR and before hydration, use initialLocale (from URL) so the
+  // server-rendered HTML matches the requested language.
+  const activeLocale = mounted ? locale : (initialLocale ?? 'fr')
 
   const t = (key: string, params?: Record<string, string | number>) => {
     const text = getTranslation(activeLocale, key)
@@ -109,10 +115,10 @@ export function useLocale() {
 }
 
 // Combined Providers
-export function Providers({ children }: { children: React.ReactNode }) {
+export function Providers({ children, initialLocale }: { children: React.ReactNode; initialLocale?: Locale }) {
   return (
     <ThemeProvider>
-      <LocaleProvider>
+      <LocaleProvider initialLocale={initialLocale}>
         <ToastProvider>
           {children}
           <OnboardingModal />
