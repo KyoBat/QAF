@@ -15,6 +15,11 @@ export const lesson020: Lesson = {
     en: 'Prayer of the Sick',
     fr: 'La Prière du Malade',
   },
+  description: {
+    fr: "Comment prier quand on est malade selon l'islam : prière assis, allongé, par signe de tête (ima'), dispense du wudu et du ghusl. Règles complètes du malékite avec comparaison des écoles.",
+    ar: "كيف يصلي المريض في الإسلام: الصلاة قاعدًا أو مضطجعًا أو بالإيماء، وأحكام طهارة المريض عند المالكية.",
+    en: "How to pray when sick in Islam: seated, lying down, or by gesture (ima'), purity dispensation for the sick, complete Maliki rules.",
+  },
   duration: '25 min',
   content: {
     ar: contentAr,

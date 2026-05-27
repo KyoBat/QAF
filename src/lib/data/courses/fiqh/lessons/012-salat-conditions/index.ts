@@ -17,6 +17,11 @@ export const lesson012: Lesson = {
     ar: 'شروط الصلاة السبعة',
     en: 'The Conditions of Salah',
   },
+  description: {
+    fr: "Les 7 conditions de validité de la prière en islam selon le rite malékite : purification, couverture de la awra, orientation vers la qibla, intention, temps, et plus. Prière invalide si l'une manque.",
+    ar: "شروط الصلاة السبعة عند المالكية: الطهارة، ستر العورة، استقبال القبلة، النية، الوقت وغيرها، مع الأدلة.",
+    en: "The 7 conditions for a valid prayer in Maliki fiqh: ritual purity, covering the awra, facing the qibla, intention, prayer time, and more.",
+  },
   content: {
     fr: contentFr,
     ar: contentAr,

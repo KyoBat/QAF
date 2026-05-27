@@ -15,6 +15,11 @@ export const lesson017: Lesson = {
     en: 'Prayer of the Late-Comer',
     fr: 'Prière du Retardataire',
   },
+  description: {
+    fr: "Règles du retardataire (masbuq) en prière : quand rejoindre l'imam, quelles rak'at sont considérées rattrapées, comment compléter sa prière après le salam de l'imam selon le rite malékite.",
+    ar: "أحكام المسبوق في الصلاة: متى يدخل مع الإمام، ما يُعتدّ به وما يقضيه، وكيفية إتمام صلاته عند المالكية.",
+    en: "Rules for the late-comer (masbuq) in prayer: when to join the imam, which rak'at count, and how to complete the prayer after the imam's salam in Maliki fiqh.",
+  },
   duration: '25 min',
   content: {
     ar: contentAr,

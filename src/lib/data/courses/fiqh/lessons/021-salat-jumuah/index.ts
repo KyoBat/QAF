@@ -15,6 +15,11 @@ export const lesson021: Lesson = {
     en: 'Friday Prayer',
     fr: 'La Prière du Vendredi',
   },
+  description: {
+    fr: "Règles de la prière du vendredi (jumu'a) selon le rite malékite : conditions d'obligation, nombre de khutbas, nombre minimum de personnes, heure de la prière, et ce qui la remplace pour le voyageur.",
+    ar: "أحكام صلاة الجمعة عند المالكية: شروط وجوبها، شروط صحتها، عدد المصلين، خطبتا الجمعة وأحكامهما.",
+    en: "Rules of Friday prayer (jumu'a) in Maliki fiqh: conditions, minimum attendees, two khutbas, timing, and who is exempt.",
+  },
   duration: '30 min',
   content: {
     ar: contentAr,

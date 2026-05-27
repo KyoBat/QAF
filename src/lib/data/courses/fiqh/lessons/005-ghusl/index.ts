@@ -17,6 +17,11 @@ export const lesson005: Lesson = {
     ar: 'الغسل',
     en: 'Major Ablution (Ghusl)',
   },
+  description: {
+    fr: "Comment faire le ghusl (grande ablution) en islam selon le rite malékite : causes rendant le ghusl obligatoire (janaba, menstrues, nifas), étapes du ghusl complet et abrégé.",
+    ar: "أحكام الغسل عند المالكية: موجباته، فرائضه، سننه، وكيفية الغسل الكامل والمجزئ.",
+    en: "How to perform ghusl (major ritual bath) in Maliki fiqh: obligatory causes, obligatory acts, sunnah acts, and step-by-step method.",
+  },
   content: {
     fr: contentFr,
     ar: contentAr,

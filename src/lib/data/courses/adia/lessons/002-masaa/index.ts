@@ -17,6 +17,11 @@ export const lesson002: Lesson = {
     ar: 'أذكار المساء',
     en: 'Evening Supplications',
   },
+  description: {
+    fr: "Les invocations (adhkar) du soir authentiques selon la Sunna — texte arabe, translittération et traduction. À réciter après Asr jusqu'au Maghrib pour la protection du soir.",
+    ar: "أذكار المساء الثابتة عن النبي صلى الله عليه وسلم مع النص العربي، الترجمة وعدد المرات.",
+    en: "Authentic evening adhkar from the Sunnah, with Arabic text, transliteration and translation. To be recited from Asr to Maghrib for protection.",
+  },
   content: {
     fr: contentFr,
     ar: contentAr,
