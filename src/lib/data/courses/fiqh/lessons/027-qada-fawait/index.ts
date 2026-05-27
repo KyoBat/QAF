@@ -15,6 +15,11 @@ export const lesson027: Lesson = {
     en: 'Making Up Missed Prayers',
     fr: 'Le Rattrapage des Prières Manquées',
   },
+  description: {
+    fr: "Comment rattraper ses prières manquées de plusieurs jours selon l'islam : règles du qada, ordre de rattrapage, délai et repentir. Réponse claire avec les positions malékite et comparées pour ceux qui ont omis la prière longtemps.",
+    ar: "كيف يقضي من فاتته صلوات كثيرة: حكم قضاء الفوائت، ترتيبها، التوبة معها، والخلاف بين المذاهب في حق تارك الصلاة عمداً.",
+    en: "How to make up missed prayers in Islam: rules of qada, order of makeup, repentance, and scholarly positions on someone who missed prayers for days or years.",
+  },
   duration: '25 min',
   content: {
     ar: contentAr,
