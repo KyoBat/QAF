@@ -112,6 +112,7 @@ interface CategoryCardProps {
 }
 
 function CategoryCard({ category, count, isRTL, t }: CategoryCardProps) {
+  const { locale } = useLocale()
   const cardContent = (
     <motion.div
       variants={staggerItem}
@@ -181,7 +182,7 @@ function CategoryCard({ category, count, isRTL, t }: CategoryCardProps) {
   
   return (
     <Link 
-      href={`/courses#category-${category.key}`}
+      href={`/${locale}/courses#category-${category.key}`}
       className="group"
     >
       {cardContent}
