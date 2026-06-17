@@ -1,12 +1,14 @@
 'use client'
 
-import { useState } from 'react'
+import { useState, useCallback } from 'react'
 import { motion } from 'framer-motion'
 import { Mail, CheckCircle2, AlertCircle, Users } from 'lucide-react'
 import { Button } from '@/components/ui/button'
 import { Card, CardContent } from '@/components/ui/card'
 import { Badge } from '@/components/ui/badge'
 import { Input } from '@/components/ui/input'
+import { Turnstile } from '@/components/ui/turnstile'
+import { HoneypotField } from '@/components/ui/honeypot'
 import { useLocale } from '@/components/providers'
 import { cn } from '@/lib/utils'
 import { fadeInUp, scaleIn, viewportOptions } from '@/lib/utils/motion-variants'
@@ -16,10 +18,13 @@ interface NewsletterHomeProps {
 }
 
 export default function NewsletterHome({ className }: NewsletterHomeProps) {
-  const { t, isRTL } = useLocale()
+  const { locale, t, isRTL } = useLocale()
   const [email, setEmail] = useState('')
+  const [website, setWebsite] = useState('') // honeypot
+  const [token, setToken] = useState('') // Turnstile (opt-in)
   const [status, setStatus] = useState<'idle' | 'loading' | 'success' | 'error'>('idle')
   const [errorMessage, setErrorMessage] = useState('')
+  const onToken = useCallback((tk: string) => setToken(tk), [])
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault()
@@ -38,7 +43,7 @@ export default function NewsletterHome({ className }: NewsletterHomeProps) {
       const response = await fetch('/api/newsletter', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ email }),
+        body: JSON.stringify({ email, locale, website, token }),
       })
 
       if (response.ok) {
@@ -165,6 +170,7 @@ export default function NewsletterHome({ className }: NewsletterHomeProps) {
               'flex flex-col sm:flex-row gap-3',
               isRTL && 'sm:flex-row-reverse'
             )}>
+              <HoneypotField value={website} onChange={setWebsite} />
               <div className="flex-1">
                 <Input
                   type="email"
@@ -203,6 +209,7 @@ export default function NewsletterHome({ className }: NewsletterHomeProps) {
                   )}
                 </Button>
               </motion.div>
+              <Turnstile onToken={onToken} />
             </form>
 
             {/* Error message */}

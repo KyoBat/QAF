@@ -1,5 +1,6 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { rateLimit, getClientIp } from '@/lib/utils/rate-limit';
+import { isSpamEmail, verifyTurnstile, logRejection, hashIp } from '@/lib/utils/antispam';
 
 // Brevo API configuration
 const BREVO_API_KEY = process.env.BREVO_API_KEY;
@@ -12,18 +13,31 @@ interface BrevoError {
 
 export async function POST(request: NextRequest) {
   try {
-    // Rate limiting: 3 requests per minute per IP
     const clientIp = getClientIp(request);
-    const rateLimitResult = rateLimit(clientIp, { limit: 3, windowSeconds: 60 });
+    const ipHash = hashIp(clientIp);
 
-    if (!rateLimitResult.success) {
+    const { email, locale, website, token } = await request.json();
+
+    // ── Couche honeypot : champ caché rempli = bot → succès factice (ne pas révéler le filtre)
+    if (website) {
+      logRejection('honeypot', 'champ_rempli', { ipHash });
       return NextResponse.json(
-        { 
+        { success: true, message: 'Inscription réussie !', mode: 'honeypot' },
+        { status: 200 }
+      );
+    }
+
+    // ── Couche rate-limit : 3 requêtes par minute par IP
+    const rateLimitResult = rateLimit(clientIp, { limit: 3, windowSeconds: 60 });
+    if (!rateLimitResult.success) {
+      logRejection('rate_limit', 'limite_depassee', { ipHash });
+      return NextResponse.json(
+        {
           error: 'Trop de requêtes. Veuillez réessayer plus tard.',
           code: 'RATE_LIMIT_EXCEEDED',
           retryAfter: Math.ceil((rateLimitResult.resetAt - Date.now()) / 1000),
         },
-        { 
+        {
           status: 429,
           headers: {
             'Retry-After': String(Math.ceil((rateLimitResult.resetAt - Date.now()) / 1000)),
@@ -35,13 +49,31 @@ export async function POST(request: NextRequest) {
       );
     }
 
-    const { email, locale } = await request.json();
-
     // Validate email
     if (!email || !isValidEmail(email)) {
       return NextResponse.json(
         { error: 'Email invalide', code: 'INVALID_EMAIL' },
         { status: 400 }
+      );
+    }
+
+    // ── Couche heuristiques : blocklist / domaines jetables / structure → succès factice
+    const spam = isSpamEmail(email);
+    if (spam.spam) {
+      logRejection('heuristics', spam.reason || 'spam', { ipHash });
+      return NextResponse.json(
+        { success: true, message: 'Inscription réussie !', mode: 'filtered' },
+        { status: 200 }
+      );
+    }
+
+    // ── Couche Turnstile (opt-in) : active seulement si TURNSTILE_SECRET_KEY est défini
+    const turnstileOk = await verifyTurnstile(token, clientIp);
+    if (!turnstileOk) {
+      logRejection('turnstile', 'echec_verification', { ipHash });
+      return NextResponse.json(
+        { error: 'Validation anti-robot échouée. Rechargez la page et réessayez.', code: 'TURNSTILE_FAILED' },
+        { status: 422 }
       );
     }
 

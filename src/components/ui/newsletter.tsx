@@ -1,8 +1,10 @@
 'use client'
 
-import { useState } from 'react'
+import { useState, useCallback } from 'react'
 import { Mail, CheckCircle2, Loader2, ArrowRight } from 'lucide-react'
 import { Button } from '@/components/ui/button'
+import { Turnstile } from '@/components/ui/turnstile'
+import { HoneypotField } from '@/components/ui/honeypot'
 import { useLocale } from '@/components/providers'
 import { cn } from '@/lib/utils'
 
@@ -14,12 +16,15 @@ interface NewsletterFormProps {
 export function NewsletterForm({ variant = 'default', className }: NewsletterFormProps) {
   const { locale, t, isRTL } = useLocale()
   const [email, setEmail] = useState('')
+  const [website, setWebsite] = useState('') // honeypot
+  const [token, setToken] = useState('') // Turnstile (opt-in)
   const [status, setStatus] = useState<'idle' | 'loading' | 'success' | 'error'>('idle')
   const [errorMessage, setErrorMessage] = useState('')
+  const onToken = useCallback((tk: string) => setToken(tk), [])
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault()
-    
+
     if (!email || !email.includes('@')) {
       setStatus('error')
       setErrorMessage(t('newsletter.errorInvalid'))
@@ -34,7 +39,7 @@ export function NewsletterForm({ variant = 'default', className }: NewsletterFor
         headers: {
           'Content-Type': 'application/json',
         },
-        body: JSON.stringify({ email, locale }),
+        body: JSON.stringify({ email, locale, website, token }),
       })
 
       const data = await response.json()
@@ -63,6 +68,7 @@ export function NewsletterForm({ variant = 'default', className }: NewsletterFor
           </div>
         ) : (
           <form onSubmit={handleSubmit} className="flex gap-2">
+            <HoneypotField value={website} onChange={setWebsite} />
             <div className="relative flex-1">
               <Mail className="absolute left-3 top-1/2 -translate-y-1/2 h-4 w-4 text-gray-400" />
               <input
@@ -121,6 +127,7 @@ export function NewsletterForm({ variant = 'default', className }: NewsletterFor
           </div>
         ) : (
           <form onSubmit={handleSubmit} className="space-y-4">
+            <HoneypotField value={website} onChange={setWebsite} />
             <div className="flex flex-col sm:flex-row gap-3">
               <div className="relative flex-1">
                 <Mail className={cn(
@@ -160,6 +167,7 @@ export function NewsletterForm({ variant = 'default', className }: NewsletterFor
                 )}
               </Button>
             </div>
+            <Turnstile onToken={onToken} />
             {status === 'error' && (
               <p className="text-sm text-red-500 text-center">{errorMessage}</p>
             )}
@@ -189,6 +197,7 @@ export function NewsletterForm({ variant = 'default', className }: NewsletterFor
         </div>
       ) : (
         <form onSubmit={handleSubmit} className="space-y-3">
+          <HoneypotField value={website} onChange={setWebsite} />
           <div className="relative">
             <Mail className={cn(
               "absolute top-1/2 -translate-y-1/2 h-5 w-5 text-gray-400",
@@ -225,6 +234,7 @@ export function NewsletterForm({ variant = 'default', className }: NewsletterFor
               </>
             )}
           </Button>
+          <Turnstile onToken={onToken} />
           {status === 'error' && (
             <p className="text-sm text-red-500">{errorMessage}</p>
           )}
