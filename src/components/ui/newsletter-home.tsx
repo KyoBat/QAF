@@ -166,49 +166,53 @@ export default function NewsletterHome({ className }: NewsletterHomeProps) {
             </motion.div>
 
             {/* Form */}
-            <form onSubmit={handleSubmit} className={cn(
-              'flex flex-col sm:flex-row gap-3',
-              isRTL && 'sm:flex-row-reverse'
-            )}>
+            <form onSubmit={handleSubmit} className="flex flex-col gap-3">
               <HoneypotField value={website} onChange={setWebsite} />
-              <div className="flex-1">
-                <Input
-                  type="email"
-                  placeholder={t('newsletter.placeholder')}
-                  value={email}
-                  onChange={(e) => setEmail(e.target.value)}
-                  disabled={status === 'loading'}
-                  className={cn(
-                    'h-12 bg-background',
-                    status === 'error' && 'border-destructive focus-visible:ring-destructive',
-                    isRTL && 'text-right'
-                  )}
-                  dir={isRTL ? 'rtl' : 'ltr'}
-                />
-              </div>
-              <motion.div
-                whileHover={{ scale: 1.02 }}
-                whileTap={{ scale: 0.98 }}
-              >
-                <Button
-                  type="submit"
-                  size="lg"
-                  disabled={status === 'loading'}
-                  className="gap-2 h-12 px-8 shadow-lg hover:shadow-xl transition-shadow"
+              {/* Email + bouton sur une ligne */}
+              <div className={cn(
+                'flex flex-col sm:flex-row gap-3',
+                isRTL && 'sm:flex-row-reverse'
+              )}>
+                <div className="flex-1">
+                  <Input
+                    type="email"
+                    placeholder={t('newsletter.placeholder')}
+                    value={email}
+                    onChange={(e) => setEmail(e.target.value)}
+                    disabled={status === 'loading'}
+                    className={cn(
+                      'h-12 bg-background',
+                      status === 'error' && 'border-destructive focus-visible:ring-destructive',
+                      isRTL && 'text-right'
+                    )}
+                    dir={isRTL ? 'rtl' : 'ltr'}
+                  />
+                </div>
+                <motion.div
+                  whileHover={{ scale: 1.02 }}
+                  whileTap={{ scale: 0.98 }}
                 >
-                  {status === 'loading' ? (
-                    <>
-                      <div className="h-4 w-4 border-2 border-white border-t-transparent rounded-full animate-spin" />
-                      {t('newsletter.loading')}
-                    </>
-                  ) : (
-                    <>
-                      <Mail className="h-5 w-5" />
-                      {t('newsletter.subscribe')}
-                    </>
-                  )}
-                </Button>
-              </motion.div>
+                  <Button
+                    type="submit"
+                    size="lg"
+                    disabled={status === 'loading'}
+                    className="gap-2 h-12 px-8 w-full sm:w-auto shadow-lg hover:shadow-xl transition-shadow"
+                  >
+                    {status === 'loading' ? (
+                      <>
+                        <div className="h-4 w-4 border-2 border-white border-t-transparent rounded-full animate-spin" />
+                        {t('newsletter.loading')}
+                      </>
+                    ) : (
+                      <>
+                        <Mail className="h-5 w-5" />
+                        {t('newsletter.subscribe')}
+                      </>
+                    )}
+                  </Button>
+                </motion.div>
+              </div>
+              {/* Widget Turnstile sur sa propre ligne (sinon il écrase le champ email) */}
               <Turnstile onToken={onToken} />
             </form>
 
