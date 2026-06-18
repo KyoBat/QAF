@@ -18,7 +18,8 @@ export function buildHreflangAlternates(
   defaultLocale: Locale = 'fr'
 ): Record<string, string> {
   const base = 'https://www.tahalearn.com'
-  const clean = pathWithoutLang.startsWith('/') ? pathWithoutLang : `/${pathWithoutLang}`
+  // Empty string must stay empty (not become '/') to avoid trailing-slash redirects on home page
+  const clean = pathWithoutLang === '' ? '' : pathWithoutLang.startsWith('/') ? pathWithoutLang : `/${pathWithoutLang}`
   return {
     fr: `${base}/fr${clean}`,
     ar: `${base}/ar${clean}`,
