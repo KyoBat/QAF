@@ -1,7 +1,6 @@
 'use client'
 
 import dynamic from 'next/dynamic'
-import { motion } from 'framer-motion'
 import { useLocale } from '@/components/providers'
 import NewsletterHome from '@/components/ui/newsletter-home'
 import TestimonialsSection from '@/components/ui/testimonials-section'
@@ -9,7 +8,6 @@ import HeroSection from '@/components/home/HeroSection'
 import ValuePropositionSection from '@/components/home/ValuePropositionSection'
 import FeaturedCourseSection from '@/components/home/FeaturedCourseSection'
 import CategoriesSection from '@/components/home/CategoriesSection'
-import { pageTransition } from '@/lib/utils/motion-variants'
 import type { Course } from '@/lib/data/courses/types'
 
 interface HomePageClientProps {
@@ -43,13 +41,7 @@ export default function HomePageClient({
   ]
 
   return (
-    <motion.div 
-      className="flex flex-col"
-      variants={pageTransition}
-      initial="initial"
-      animate="animate"
-      exit="exit"
-    >
+    <div className="flex flex-col">
       {/* 1. Hero Section - Attention & Promise */}
       <HeroSection 
         featuredCourse={featuredCourses[0] || null}
@@ -88,6 +80,6 @@ export default function HomePageClient({
 
       {/* 6. Value Proposition - Mission + Benefits (Explain last) */}
       <ValuePropositionSection isRTL={isRTL} t={t} />
-    </motion.div>
+    </div>
   )
 }
