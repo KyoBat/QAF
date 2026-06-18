@@ -7,14 +7,10 @@ import { Button } from '@/components/ui/button'
 import { cn } from '@/lib/utils'
 import AnimatedStats from '@/components/ui/animated-stats'
 import {
-  fadeInUp,
-  staggerContainer,
-  staggerItem,
   floatVariants,
   floatVariantsSlow,
   pulseVariants,
   rotateVariantsSlow,
-  viewportOptions
 } from '@/lib/utils/motion-variants'
 import { useLocale } from '@/components/providers'
 import type { Course } from '@/lib/data/courses/types'
@@ -103,55 +99,39 @@ export default function HeroSection({ featuredCourse, stats, isRTL, t }: HeroSec
       </motion.div>
       
       <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <motion.div 
-          className={cn(
-            'flex flex-col items-center text-center',
-            isRTL && 'font-arabic'
-          )}
-          variants={staggerContainer}
-          initial="hidden"
-          animate="visible"
-        >
-          {/* Badge */}
-          <motion.div 
+        <div className={cn('flex flex-col items-center text-center', isRTL && 'font-arabic')}>
+          {/* Badge — animé mais secondaire */}
+          <motion.div
             className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full bg-primary/10 text-primary text-sm font-medium mb-4"
-            variants={staggerItem}
+            initial={{ opacity: 0, y: -10 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ duration: 0.4, delay: 0.1 }}
           >
             <Star className="h-3.5 w-3.5" />
             <span>{t('app.tagline')}</span>
           </motion.div>
 
-          {/* Title with stagger */}
-          <motion.h1 
-            className={cn(
-              'text-3xl sm:text-4xl lg:text-5xl font-bold text-foreground mb-3 tracking-tight',
-              isRTL && 'leading-relaxed'
-            )}
-            variants={staggerItem}
-          >
+          {/* H1 — visible immédiatement (LCP element) */}
+          <h1 className={cn(
+            'text-3xl sm:text-4xl lg:text-5xl font-bold text-foreground mb-3 tracking-tight',
+            isRTL && 'leading-relaxed'
+          )}>
             {t('home.hero.title')}
-          </motion.h1>
+          </h1>
 
-          {/* Subtitle */}
-          <motion.p 
-            className="text-base sm:text-lg text-muted-foreground max-w-2xl mb-6"
-            variants={staggerItem}
-          >
+          {/* Subtitle — visible immédiatement */}
+          <p className="text-base sm:text-lg text-muted-foreground max-w-2xl mb-6">
             {t('home.hero.subtitle')}
-          </motion.p>
+          </p>
 
           {/* CTA Buttons */}
-          <motion.div 
-            className={cn(
-              'flex flex-col sm:flex-row gap-4',
-              isRTL && 'flex-row-reverse'
-            )}
-            variants={staggerItem}
+          <motion.div
+            className={cn('flex flex-col sm:flex-row gap-4', isRTL && 'flex-row-reverse')}
+            initial={{ opacity: 0, y: 10 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ duration: 0.4, delay: 0.2 }}
           >
-            <motion.div
-              whileHover={{ scale: 1.05, y: -2 }}
-              whileTap={{ scale: 0.95 }}
-            >
+            <motion.div whileHover={{ scale: 1.05, y: -2 }} whileTap={{ scale: 0.95 }}>
               <Button size="lg" asChild className="gap-2 shadow-lg hover:shadow-xl transition-shadow">
                 <Link href={featuredCourse ? `/courses/${featuredCourse.slug}` : '/courses'}>
                   <span>{t('home.hero.cta')}</span>
@@ -159,11 +139,7 @@ export default function HeroSection({ featuredCourse, stats, isRTL, t }: HeroSec
                 </Link>
               </Button>
             </motion.div>
-            
-            <motion.div
-              whileHover={{ scale: 1.05, y: -2 }}
-              whileTap={{ scale: 0.95 }}
-            >
+            <motion.div whileHover={{ scale: 1.05, y: -2 }} whileTap={{ scale: 0.95 }}>
               <Button size="lg" variant="outline" asChild className="gap-2 border-primary/50 text-primary hover:bg-primary/10">
                 <Link href={`/${locale}/placement`}>
                   <span>📝</span>
@@ -172,14 +148,14 @@ export default function HeroSection({ featuredCourse, stats, isRTL, t }: HeroSec
               </Button>
             </motion.div>
           </motion.div>
-        </motion.div>
+        </div>
 
-        {/* Stats inline - compact version */}
+        {/* Stats inline */}
         <motion.div
           className="flex items-center justify-center gap-6 sm:gap-10 mt-8"
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.6, delay: 0.5 }}
+          transition={{ duration: 0.5, delay: 0.35 }}
         >
           {stats.map((stat, index) => (
             <div key={index} className="text-center">

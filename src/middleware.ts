@@ -38,11 +38,15 @@ export function middleware(request: NextRequest) {
     return NextResponse.next()
   }
 
-  // Redirection non-www → www (fallback du next.config.mjs)
+  // Redirection non-www → www + locale en un seul saut
   if (hostname === 'tahalearn.com') {
     const url = request.nextUrl.clone()
     url.hostname = 'www.tahalearn.com'
     url.protocol = 'https'
+    if (url.pathname === '/') {
+      const locale = detectLocale(request)
+      url.pathname = `/${locale}`
+    }
     return NextResponse.redirect(url, 308)
   }
 
