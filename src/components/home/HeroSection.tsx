@@ -24,10 +24,7 @@ export default function HeroSection({ featuredCourse, stats, isRTL, t }: HeroSec
   return (
     <section className="relative py-12 lg:py-20 overflow-hidden">
       {/* Animated background — CSS only, no JS */}
-      <div
-        className="absolute inset-0 bg-gradient-to-br from-primary/5 via-background to-primary/10 animate-bg-pan"
-        style={{ backgroundSize: '200% 200%' }}
-      />
+      <div className="absolute inset-0 bg-gradient-to-br from-primary/5 via-background to-primary/10" />
 
       {/* Floating decorative circles — CSS only */}
       <div className="absolute top-20 left-10 w-20 h-20 border border-primary/20 rounded-full animate-float" />

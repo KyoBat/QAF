@@ -25,7 +25,7 @@ export function OnboardingModal() {
     const completed = localStorage.getItem(ONBOARDING_KEY)
     if (!completed) {
       // Petit délai pour que la page se charge d'abord
-      const timer = setTimeout(() => setIsOpen(true), 500)
+      const timer = setTimeout(() => setIsOpen(true), 4000)
       return () => clearTimeout(timer)
     }
   }, [])
