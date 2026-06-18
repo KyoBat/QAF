@@ -75,7 +75,14 @@ const nextConfig = {
   // Redirections pour corriger les pages en double
   async redirects() {
     return [
-      // Redirection non-www → www (permanent 308)
+      // Redirection non-www root → www + locale par défaut (1 seul saut)
+      {
+        source: '/',
+        has: [{ type: 'host', value: 'tahalearn.com' }],
+        destination: 'https://www.tahalearn.com/fr',
+        permanent: true,
+      },
+      // Redirection non-www autres chemins → www (permanent 308)
       {
         source: '/:path*',
         has: [{ type: 'host', value: 'tahalearn.com' }],

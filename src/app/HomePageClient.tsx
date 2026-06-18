@@ -1,6 +1,5 @@
 'use client'
 
-import dynamic from 'next/dynamic'
 import { useLocale } from '@/components/providers'
 import NewsletterHome from '@/components/ui/newsletter-home'
 import TestimonialsSection from '@/components/ui/testimonials-section'
