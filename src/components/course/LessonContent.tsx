@@ -486,16 +486,24 @@ export function LessonContent({ lesson, courseSlug, className }: LessonContentPr
           strong: ({ children }) => (
             <strong className="font-semibold text-foreground">{children}</strong>
           ),
-          a: ({ children, href }) => (
-            <a 
-              href={href} 
-              className="text-primary hover:underline"
-              target={href?.startsWith('http') ? '_blank' : undefined}
-              rel={href?.startsWith('http') ? 'noopener noreferrer' : undefined}
-            >
-              {children}
-            </a>
-          ),
+          a: ({ children, href }) => {
+            // Préfixer les liens internes absolus avec la locale active
+            // (ex: /courses/... → /ar/courses/...) sauf s'ils le sont déjà.
+            const localizedHref =
+              href && href.startsWith('/') && !/^\/(fr|ar|en)(\/|$)/.test(href)
+                ? `/${locale}${href}`
+                : href
+            return (
+              <a
+                href={localizedHref}
+                className="text-primary hover:underline"
+                target={href?.startsWith('http') ? '_blank' : undefined}
+                rel={href?.startsWith('http') ? 'noopener noreferrer' : undefined}
+              >
+                {children}
+              </a>
+            )
+          },
         }}
       >
         {markdownContent}

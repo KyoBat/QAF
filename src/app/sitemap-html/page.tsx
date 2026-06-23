@@ -38,10 +38,10 @@ export default function HtmlSitemapPage() {
             Pages Principales
           </h2>
           <ul className="space-y-2">
-            <li><Link href="/" className="text-blue-600 hover:underline">Accueil</Link></li>
-            <li><Link href="/courses" className="text-blue-600 hover:underline">Tous les Cours</Link></li>
-            <li><Link href="/exams" className="text-blue-600 hover:underline">Examens</Link></li>
-            <li><Link href="/about" className="text-blue-600 hover:underline">À Propos</Link></li>
+            <li><Link href="/fr" className="text-blue-600 hover:underline">Accueil</Link></li>
+            <li><Link href="/fr/courses" className="text-blue-600 hover:underline">Tous les Cours</Link></li>
+            <li><Link href="/fr/exams" className="text-blue-600 hover:underline">Examens</Link></li>
+            <li><Link href="/fr/about" className="text-blue-600 hover:underline">À Propos</Link></li>
           </ul>
         </section>
 
@@ -55,7 +55,7 @@ export default function HtmlSitemapPage() {
             <div key={course.id} className="mb-6 border-l-4 border-primary-200 pl-4">
               <h3 className="text-lg font-medium mb-2">
                 <Link
-                  href={`/courses/${course.slug}`}
+                  href={`/fr/courses/${course.slug}`}
                   className="text-blue-600 hover:underline"
                 >
                   {course.title.fr}
@@ -69,7 +69,7 @@ export default function HtmlSitemapPage() {
                 {course.lessons.map((lesson) => (
                   <li key={lesson.id}>
                     <Link
-                      href={`/courses/${course.slug}/lessons/${lesson.id}`}
+                      href={`/fr/courses/${course.slug}/lessons/${lesson.id}`}
                       className="text-blue-500 hover:underline text-sm"
                     >
                       {lesson.id} - {lesson.title.fr}
@@ -90,7 +90,7 @@ export default function HtmlSitemapPage() {
             {exams.map((exam) => (
               <li key={exam.id}>
                 <Link
-                  href={`/exams/${exam.id}`}
+                  href={`/fr/exams/${exam.id}`}
                   className="text-blue-600 hover:underline"
                 >
                   {typeof exam.title === 'string' ? exam.title : exam.title.fr}

@@ -429,7 +429,7 @@ export default function FeaturedCourseSection({
                     whileTap={{ scale: 0.95 }}
                   >
                     <Button size="lg" asChild className="gap-2 w-fit shadow-lg hover:shadow-xl transition-shadow relative overflow-hidden group">
-                      <Link href={`/courses/${currentCourse.slug}`}>
+                      <Link href={`/${locale}/courses/${currentCourse.slug}`}>
                         {/* Gradient animé au hover */}
                         <motion.div
                           className="absolute inset-0 bg-gradient-to-r from-primary/0 via-primary/20 to-primary/0"

@@ -83,7 +83,7 @@ export default function HeroSection({ featuredCourse, stats, isRTL, t }: HeroSec
           >
             <div className="transition-transform duration-300 hover:scale-105 hover:-translate-y-0.5 active:scale-95">
               <Button size="lg" asChild className="gap-2 shadow-lg hover:shadow-xl transition-shadow">
-                <Link href={featuredCourse ? `/courses/${featuredCourse.slug}` : '/courses'}>
+                <Link href={featuredCourse ? `/${locale}/courses/${featuredCourse.slug}` : `/${locale}/courses`}>
                   <span>{t('home.hero.cta')}</span>
                   <ChevronRight className={cn('h-5 w-5', isRTL && 'rotate-180')} />
                 </Link>

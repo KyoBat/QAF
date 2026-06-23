@@ -729,9 +729,9 @@ function ResultsScreen({
             {c.restart}
           </button>
           <Link
-            href={result.recommendedCourses.length > 0 
-              ? `/courses/${result.recommendedCourses[0].courseSlug}` 
-              : '/courses'}
+            href={result.recommendedCourses.length > 0
+              ? `/${language}/courses/${result.recommendedCourses[0].courseSlug}`
+              : `/${language}/courses`}
             className="px-8 py-3 rounded-xl bg-gradient-to-r from-primary to-primary/80 text-primary-foreground font-semibold shadow-lg hover:shadow-xl transition-shadow text-center"
           >
             {c.startLearning}

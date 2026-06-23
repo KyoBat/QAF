@@ -8,6 +8,7 @@ import { Analytics } from '@vercel/analytics/react'
 import { SpeedInsights } from '@vercel/speed-insights/next'
 import { Providers } from '@/components/providers'
 import { Header, Footer } from '@/components/layout'
+import { DocumentShell } from '@/components/DocumentShell'
 import { coursesData } from '@/lib/data/courses/index'
 import { locales, type Locale } from '@/locales'
 
@@ -44,14 +45,16 @@ export default async function LangLayout({ children, params }: LangLayoutProps) 
   const commandCourses = getCommandCourses()
 
   return (
-    <Providers initialLocale={locale}>
-      <Header commandCourses={commandCourses} />
-      <main id="main-content" className="flex-1">
-        {children}
-      </main>
-      <Footer />
-      <Analytics />
-      <SpeedInsights />
-    </Providers>
+    <DocumentShell lang={locale} dir={locales[locale].dir}>
+      <Providers initialLocale={locale}>
+        <Header commandCourses={commandCourses} />
+        <main id="main-content" className="flex-1">
+          {children}
+        </main>
+        <Footer />
+        <Analytics />
+        <SpeedInsights />
+      </Providers>
+    </DocumentShell>
   )
 }

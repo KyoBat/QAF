@@ -94,8 +94,8 @@ export function LessonPageClient({ data }: LessonPageClientProps) {
 
   // Breadcrumb items
   const breadcrumbItems = [
-    { label: t('nav.courses'), href: '/courses' },
-    { label: courseTitle, href: `/courses/${course.slug}` },
+    { label: t('nav.courses'), href: `/${locale}/courses` },
+    { label: courseTitle, href: `/${locale}/courses/${course.slug}` },
     { label: title },
   ]
 
@@ -110,7 +110,7 @@ export function LessonPageClient({ data }: LessonPageClientProps) {
         return (
           <Link
             key={l.id}
-            href={`/courses/${course.slug}/lessons/${l.id}`}
+            href={`/${locale}/courses/${course.slug}/lessons/${l.id}`}
             onClick={() => setIsSheetOpen(false)}
             className={cn(
               'flex items-center gap-2 p-2 rounded-lg text-sm transition-colors',
@@ -200,7 +200,7 @@ export function LessonPageClient({ data }: LessonPageClientProps) {
                 {/* Course Progress */}
                 <div className="mb-4 pb-4 border-b border-border">
                   <Link 
-                    href={`/courses/${course.slug}`}
+                    href={`/${locale}/courses/${course.slug}`}
                     className={cn(
                       'flex items-center gap-2 text-sm text-muted-foreground hover:text-foreground transition-colors mb-3',
                       isRTL && 'flex-row-reverse'
@@ -341,7 +341,7 @@ export function LessonPageClient({ data }: LessonPageClientProps) {
                   {/* Previous */}
                   {prevLesson ? (
                     <Button variant="outline" asChild className="gap-2">
-                      <Link href={`/courses/${course.slug}/lessons/${prevLesson.id}`}>
+                      <Link href={`/${locale}/courses/${course.slug}/lessons/${prevLesson.id}`}>
                         <ChevronLeft className={cn('h-4 w-4', isRTL && 'rotate-180')} />
                         <span className="hidden sm:inline">{t('lesson.previousLesson')}</span>
                         <span className="sm:hidden">{t('common.previous')}</span>
@@ -354,7 +354,7 @@ export function LessonPageClient({ data }: LessonPageClientProps) {
                   {/* Next */}
                   {nextLesson ? (
                     <Button asChild className="gap-2">
-                      <Link href={`/courses/${course.slug}/lessons/${nextLesson.id}`}>
+                      <Link href={`/${locale}/courses/${course.slug}/lessons/${nextLesson.id}`}>
                         <span className="hidden sm:inline">{t('lesson.nextLesson')}</span>
                         <span className="sm:hidden">{t('common.next')}</span>
                         <ChevronRight className={cn('h-4 w-4', isRTL && 'rotate-180')} />
@@ -362,7 +362,7 @@ export function LessonPageClient({ data }: LessonPageClientProps) {
                     </Button>
                   ) : (
                     <Button asChild variant="outline" className="gap-2">
-                      <Link href={`/courses/${course.slug}`}>
+                      <Link href={`/${locale}/courses/${course.slug}`}>
                         <span>{t('lesson.backToCourse')}</span>
                       </Link>
                     </Button>

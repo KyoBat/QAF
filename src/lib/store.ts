@@ -11,7 +11,14 @@ export const useLocaleStore = create<LocaleState>()(
   persist(
     (set) => ({
       locale: 'fr',
-      setLocale: (locale) => set({ locale }),
+      setLocale: (locale) => {
+        // Synchroniser le cookie lu par le middleware (détection de langue
+        // pour toute navigation vers une URL sans préfixe de locale).
+        if (typeof document !== 'undefined') {
+          document.cookie = `NEXT_LOCALE=${locale}; path=/; max-age=31536000; SameSite=Lax`
+        }
+        set({ locale })
+      },
     }),
     { name: 'locale-storage' }
   )

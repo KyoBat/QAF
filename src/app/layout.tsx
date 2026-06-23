@@ -1,37 +1,7 @@
 import type { Metadata, Viewport } from "next";
-import localFont from "next/font/local";
-import { Inter, Amiri } from "next/font/google";
-import { OrganizationJsonLd, WebSiteJsonLd } from "@/components/seo";
 import "./globals.css";
 
 const SHARE_IMAGE_URL = "https://www.tahalearn.com/og-image.png";
-
-// Polices Google optimisées
-const inter = Inter({
-  subsets: ["latin"],
-  variable: "--font-sans",
-  display: "swap",
-});
-
-const amiri = Amiri({
-  subsets: ["arabic"],
-  weight: ["400", "700"],
-  variable: "--font-arabic",
-  display: "swap",
-});
-
-// Polices locales (Geist pour le code)
-const geistSans = localFont({
-  src: "./fonts/GeistVF.woff",
-  variable: "--font-geist-sans",
-  weight: "100 900",
-});
-const geistMono = localFont({
-  src: "./fonts/GeistMonoVF.woff",
-  variable: "--font-geist-mono",
-  display: "swap",
-  weight: "100 900",
-});
 
 // Viewport configuration
 export const viewport: Viewport = {
@@ -151,45 +121,15 @@ export const metadata: Metadata = {
   category: "education",
 };
 
+// Le layout racine est au-dessus du segment [lang] : il ne connaît pas la
+// locale. Le <html lang/dir> est donc rendu par les layouts enfants via
+// <DocumentShell> ([lang]/layout, sitemap-html/layout), ce qui garde la
+// génération statique par locale. Ici on se contente de transmettre les
+// enfants ; les exports metadata/viewport restent appliqués à tout l'arbre.
 export default function RootLayout({
   children,
 }: Readonly<{
   children: React.ReactNode;
 }>) {
-  return (
-    <html lang="fr" suppressHydrationWarning>
-      <head>
-        <OrganizationJsonLd />
-        <WebSiteJsonLd />
-        <meta name="apple-mobile-web-app-capable" content="yes" />
-        <meta name="apple-mobile-web-app-status-bar-style" content="default" />
-        <meta name="apple-mobile-web-app-title" content="TahaLearn" />
-        <meta name="rating" content="general" />
-        <meta name="revisit-after" content="7 days" />
-        <meta name="geo.region" content="FR" />
-        <meta name="geo.placename" content="France" />
-        <meta name="content-language" content="fr, ar, en" />
-        <link rel="dns-prefetch" href="https://www.googletagmanager.com" />
-        <link rel="dns-prefetch" href="https://fonts.googleapis.com" />
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
-      </head>
-      <body
-        className={`${inter.variable} ${amiri.variable} ${geistSans.variable} ${geistMono.variable} antialiased min-h-screen flex flex-col font-sans`}
-        suppressHydrationWarning
-      >
-        {children}
-        <script
-          dangerouslySetInnerHTML={{
-            __html: `
-              if ('serviceWorker' in navigator && !/bot|crawl|spider|slurp|googlebot|bingbot|yandex/i.test(navigator.userAgent)) {
-                window.addEventListener('load', function() {
-                  navigator.serviceWorker.register('/sw.js');
-                });
-              }
-            `,
-          }}
-        />
-      </body>
-    </html>
-  );
+  return children;
 }

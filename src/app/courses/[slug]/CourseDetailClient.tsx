@@ -231,7 +231,7 @@ export function CourseDetailClient({ course }: CourseDetailClientProps) {
 
   // Breadcrumb items
   const breadcrumbItems = [
-    { label: t('nav.courses'), href: '/courses' },
+    { label: t('nav.courses'), href: `/${locale}/courses` },
     { label: title },
   ]
 
@@ -244,7 +244,7 @@ export function CourseDetailClient({ course }: CourseDetailClientProps) {
     return (
       <Link
         key={lesson.id}
-        href={`/courses/${course.slug}/lessons/${lesson.id}`}
+        href={`/${locale}/courses/${course.slug}/lessons/${lesson.id}`}
         className={cn(
           'flex items-center gap-4 p-4 hover:bg-muted/50 transition-colors',
           isRTL && 'flex-row-reverse'
@@ -351,7 +351,7 @@ export function CourseDetailClient({ course }: CourseDetailClientProps) {
                         {courseGuide.links.map((link) => (
                           <Link
                             key={link.href}
-                            href={link.href}
+                            href={`/${locale}${link.href}`}
                             className="text-sm font-medium text-primary hover:underline"
                           >
                             {link.label[locale] || link.label.fr}
@@ -500,7 +500,7 @@ export function CourseDetailClient({ course }: CourseDetailClientProps) {
 
                 {/* CTA Button */}
                 <Button asChild className="w-full gap-2" size="lg">
-                  <Link href={`/courses/${course.slug}/lessons/${nextLesson.id}`}>
+                  <Link href={`/${locale}/courses/${course.slug}/lessons/${nextLesson.id}`}>
                     <PlayCircle className="h-5 w-5" />
                     <span>
                       {progress > 0 ? t('courses.continueCourse') : t('courses.startCourse')}

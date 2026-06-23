@@ -172,7 +172,7 @@ export function CoursesPageClient({ initialCourses }: CoursesPageClientProps) {
                 {learningPath.links.map((link) => (
                   <Link
                     key={link.href}
-                    href={link.href}
+                    href={`/${locale}${link.href}`}
                     className="text-sm font-medium text-primary hover:underline"
                   >
                     {link.label}

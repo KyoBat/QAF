@@ -86,7 +86,7 @@ export function Command({ courses }: CommandProps) {
           type: 'course',
           title: courseTitle,
           description: courseDesc,
-          href: `/courses/${course.slug}`,
+          href: `/${locale}/courses/${course.slug}`,
         })
       }
 
@@ -103,7 +103,7 @@ export function Command({ courses }: CommandProps) {
             type: 'lesson',
             title: lessonTitle,
             courseTitle: courseTitle,
-            href: `/courses/${course.slug}/lessons/${lesson.id}`,
+            href: `/${locale}/courses/${course.slug}/lessons/${lesson.id}`,
           })
         }
       })

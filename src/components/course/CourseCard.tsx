@@ -107,7 +107,7 @@ export function CourseCard({ course, className }: CourseCardProps) {
       className
     )}>
       {/* Course Image or Placeholder */}
-      <Link href={`/courses/${course.slug}`} className="block relative">
+      <Link href={`/${locale}/courses/${course.slug}`} className="block relative">
         <div className="relative h-40 bg-gradient-to-br from-primary/10 via-primary/5 to-muted overflow-hidden">
           {course.image && course.image !== '/images/courses/default.jpg' ? (
             <Image
@@ -156,7 +156,7 @@ export function CourseCard({ course, className }: CourseCardProps) {
         </div>
         
         <Link 
-          href={`/courses/${course.slug}`}
+          href={`/${locale}/courses/${course.slug}`}
           className="block group-hover:text-primary transition-colors"
         >
           <h3 className={cn(
@@ -219,7 +219,7 @@ export function CourseCard({ course, className }: CourseCardProps) {
 
       <CardFooter>
         <Button asChild className="w-full group/btn">
-          <Link href={`/courses/${course.slug}`}>
+          <Link href={`/${locale}/courses/${course.slug}`}>
             <span>{progress ? t('courses.continueCourse') : t('courses.startCourse')}</span>
             <ChevronRight className={cn(
               'h-4 w-4 transition-transform group-hover/btn:translate-x-1',

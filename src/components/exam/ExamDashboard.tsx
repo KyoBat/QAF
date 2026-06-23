@@ -479,7 +479,7 @@ function ExamCard({
       )}
 
       <Link
-        href={`/exams/${exam.id}`}
+        href={`/${language}/exams/${exam.id}`}
         className="block w-full py-2 rounded-lg bg-primary text-primary-foreground text-center font-medium hover:bg-primary/90 transition-colors"
       >
         {bestResult ? labels.viewDetails : labels.startExam}
