@@ -214,6 +214,23 @@ export function Footer() {
           </div>
         </div>
       </div>
+
+      {/*
+        Honeypot anti-scraping : lien invisible pour les humains (display:none,
+        aria-hidden, non focusable) et interdit dans robots.txt. Un vrai
+        visiteur ou un crawler respectueux ne le suit jamais ; un scraper qui
+        moissonne tous les <a href> se fait repérer. On utilise un <a> natif
+        (surtout PAS <Link>, qui préfetcherait l'URL et bannirait un humain).
+      */}
+      <a
+        href="/api/trap"
+        rel="nofollow"
+        aria-hidden="true"
+        tabIndex={-1}
+        style={{ display: 'none' }}
+      >
+        &nbsp;
+      </a>
     </footer>
   )
 }

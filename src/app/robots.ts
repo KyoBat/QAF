@@ -8,7 +8,7 @@ export default function robots(): MetadataRoute.Robots {
       {
         userAgent: '*',
         allow: ['/', '/api/og'],
-        disallow: ['/api/', '/private/', '/_next/'],
+        disallow: ['/api/', '/api/trap', '/private/', '/_next/'],
       },
       {
         // WhatsApp / Facebook link preview bot
@@ -18,12 +18,12 @@ export default function robots(): MetadataRoute.Robots {
       {
         userAgent: 'Googlebot',
         allow: ['/', '/api/og'],
-        disallow: ['/api/', '/private/', '/_next/'],
+        disallow: ['/api/', '/api/trap', '/private/', '/_next/'],
       },
       {
         userAgent: 'Bingbot',
         allow: ['/', '/api/og'],
-        disallow: ['/api/', '/private/', '/_next/'],
+        disallow: ['/api/', '/api/trap', '/private/', '/_next/'],
       },
     ],
     sitemap: `${baseUrl}/sitemap.xml`,

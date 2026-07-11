@@ -66,6 +66,21 @@ export function middleware(request: NextRequest) {
     const response = NextResponse.next()
     const canonicalUrl = `https://www.tahalearn.com${pathname}`
     response.headers.set('Link', `<${canonicalUrl}>; rel="canonical"`)
+
+    // Signal anti-scraping : poser un cookie de session opaque au 1er passage.
+    // Ne bloque RIEN (fail-open) — il sert de clé stable pour le rate-limiting
+    // WAF (compter par session) et à distinguer le trafic « avec cookie »
+    // (navigateurs) du trafic « sans cookie » (scrapers froids), que le WAF
+    // peut alors limiter différemment. Voir ANTI-SCRAPING.md.
+    if (!request.cookies.get('tl_s')?.value) {
+      response.cookies.set('tl_s', crypto.randomUUID(), {
+        httpOnly: true,
+        secure: true,
+        sameSite: 'lax',
+        path: '/',
+        maxAge: 60 * 60 * 24 * 365, // 1 an
+      })
+    }
     return response
   }
 
