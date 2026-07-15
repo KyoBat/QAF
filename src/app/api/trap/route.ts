@@ -1,6 +1,7 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { getClientIp } from '@/lib/utils/rate-limit';
 import { hashIp } from '@/lib/utils/antispam';
+import { recordHoneypotHit } from '@/lib/utils/honeypot-store';
 
 /**
  * Honeypot (piège à scrapers).
@@ -18,7 +19,7 @@ import { hashIp } from '@/lib/utils/antispam';
  * voir ANTI-SCRAPING.md), car l'app serverless n'a pas d'état partagé
  * fiable entre instances.
  */
-function handle(request: NextRequest) {
+async function handle(request: NextRequest) {
   const ipHash = hashIp(getClientIp(request));
   const ua = request.headers.get('user-agent') ?? '';
   const asn = request.headers.get('x-vercel-ip-asn') ?? '';
@@ -28,6 +29,10 @@ function handle(request: NextRequest) {
     '[honeypot] hit',
     JSON.stringify({ ipHash, ua, asn, at: new Date().toISOString() }),
   );
+
+  // Persistance best-effort (stats cumulées) si un store KV/Upstash est
+  // configuré — sinon no-op silencieux. Voir /api/trap/stats + ANTI-SCRAPING.md.
+  await recordHoneypotHit({ ipHash, asn });
 
   return NextResponse.json(
     { error: 'Forbidden' },

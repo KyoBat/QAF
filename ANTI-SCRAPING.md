@@ -116,6 +116,29 @@ Dans les logs Vercel, filtrer `[honeypot] hit`. Chaque entrée donne `ipHash`,
 `ua`, `asn`. Utilise l'**ASN** pour repérer un hébergeur/datacenter à bloquer
 en masse (Règle WAF par ASN), et alimente la Règle 3 / ta deny-list.
 
+### Stats cumulées (optionnel — nécessite un store KV)
+
+Les logs Vercel sont éphémères (rétention courte sur Hobby). Pour des **stats
+agrégées** (hits/jour, top ASN, IP distinctes), le honeypot peut persister
+chaque hit dans un store Redis :
+
+1. **Vercel → Storage → Create → Upstash for Redis** (offre gratuite Hobby),
+   *Connect* au projet → Vercel injecte `KV_REST_API_URL` + `KV_REST_API_TOKEN`.
+2. Ajouter `HONEYPOT_STATS_TOKEN` (valeur aléatoire longue) aux variables d'env.
+3. Consulter :
+   ```bash
+   curl -H "Authorization: Bearer $HONEYPOT_STATS_TOKEN" \
+     "https://www.tahalearn.com/api/trap/stats?days=14"
+   ```
+
+Réponse JSON : `totalOverWindow`, `uniqueIpHashes`, `byDay[]` (hits par jour) et
+`topAsn[]` (ASN les plus actifs → candidats à un ban ASN). Code :
+`src/lib/utils/honeypot-store.ts` + `src/app/api/trap/stats/route.ts`.
+
+> **Fail-open** : sans les variables `KV_REST_API_*`, le honeypot logue + 403
+> exactement comme avant, aucune persistance. `/api/trap/stats` renvoie **404**
+> sans token valide (route invisible), **503** si le store n'est pas configuré.
+
 ---
 
 ## Deux inconnues à trancher depuis tes logs firewall
