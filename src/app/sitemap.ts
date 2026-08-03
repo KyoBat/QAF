@@ -34,6 +34,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
     ...localizedEntry('/about', { changeFrequency: 'monthly', priority: 0.4 }),
     ...localizedEntry('/exams', { changeFrequency: 'weekly', priority: 0.7 }),
     ...localizedEntry('/placement', { changeFrequency: 'monthly', priority: 0.6 }),
+    // Page mosquée : le contenu change tous les jours
+    ...localizedEntry('/mosquees/ar-rayane-batna', { changeFrequency: 'daily', priority: 0.6 }),
   ]
 
   // Pages des cours (×3 langues)
