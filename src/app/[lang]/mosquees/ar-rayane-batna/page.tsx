@@ -2,7 +2,12 @@ import { Metadata } from 'next'
 import { MosqueeDaily } from '@/components/mosquee/MosqueeDaily'
 import { BreadcrumbJsonLd } from '@/components/seo'
 import { arRayaneMosquee } from '@/lib/data/mosquees/ar-rayane'
-import { getResolvedDaily, getUpcoming, formatDailyDate } from '@/lib/data/mosquees/daily'
+import {
+  getResolvedDaily,
+  getUpcoming,
+  formatDailyDate,
+  formatHijriDate,
+} from '@/lib/data/mosquees/daily'
 import type { Locale } from '@/locales'
 import { buildHreflangAlternates } from '@/lib/utils'
 
@@ -104,6 +109,7 @@ export default async function ArRayaneMosqueePage({
   const today = getResolvedDaily(now)
   const upcoming = getUpcoming(3, now)
   const formattedDate = formatDailyDate(locale, now)
+  const hijriDate = formatHijriDate(locale, now)
 
   return (
     <>
@@ -120,6 +126,8 @@ export default async function ArRayaneMosqueePage({
         today={today}
         upcoming={upcoming}
         formattedDate={formattedDate}
+        hijriDate={hijriDate}
+        pageUrl={`${BASE_URL}/${locale}${PATH}`}
         qrTargetUrl={QR_TARGET_URL}
       />
     </>

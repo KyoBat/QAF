@@ -37,6 +37,9 @@ export interface ResolvedDaily {
   lessonDuration: string
   /** Chemin sans préfixe de langue, ex. /courses/sciences-hadith/lessons/lesson-001 */
   path: string
+  /** Rang de l'entrée dans le cycle, de 1 à cycleLength (affiché « Jour 12 / 32 ») */
+  dayInCycle: number
+  cycleLength: number
 }
 
 /**
@@ -52,12 +55,18 @@ export function resolveEntry(entry: DailyEntry): ResolvedDaily | null {
   const lesson = course.lessons.find(l => l.id === entry.lessonId)
   if (!lesson) return null
 
+  // Rang réel de l'entrée dans la banque : reste juste même si la rotation a
+  // dû sauter une entrée cassée pour arriver ici.
+  const bankIndex = dailyBank.findIndex(e => e.id === entry.id)
+
   return {
     entry,
     lessonTitle: lesson.title as LocalizedText,
     courseTitle: course.title as LocalizedText,
     lessonDuration: lesson.duration,
     path: `/courses/${course.slug}/lessons/${lesson.id}`,
+    dayInCycle: bankIndex >= 0 ? bankIndex + 1 : 1,
+    cycleLength: dailyBank.length,
   }
 }
 
@@ -93,11 +102,25 @@ export function getUpcoming(count: number, date: Date = new Date()): ResolvedDai
   return out
 }
 
+const LOCALE_TAGS: Record<Locale, string> = { fr: 'fr-DZ', ar: 'ar-DZ', en: 'en-GB' }
+
 /** Date du jour formatée dans la langue de lecture, calée sur Batna. */
 export function formatDailyDate(locale: Locale, date: Date = new Date()): string {
-  const tags: Record<Locale, string> = { fr: 'fr-DZ', ar: 'ar-DZ', en: 'en-GB' }
-  return new Intl.DateTimeFormat(tags[locale], {
+  return new Intl.DateTimeFormat(LOCALE_TAGS[locale], {
     weekday: 'long',
+    day: 'numeric',
+    month: 'long',
+    year: 'numeric',
+    timeZone: 'Africa/Algiers',
+  }).format(date)
+}
+
+/**
+ * Date hégirienne — repère naturel pour un public de mosquée.
+ * Fourni nativement par Intl (calendrier umm al-qura), sans dépendance.
+ */
+export function formatHijriDate(locale: Locale, date: Date = new Date()): string {
+  return new Intl.DateTimeFormat(`${LOCALE_TAGS[locale]}-u-ca-islamic-umalqura`, {
     day: 'numeric',
     month: 'long',
     year: 'numeric',

@@ -13,7 +13,7 @@ import type { DailyEntry } from './types'
 
 export const dailyBank: DailyEntry[] = [
   // ─────────────────────────────────────────────────────────────
-  // Hadiths — cours « Hadiths Essentiels pour le Musulman Contemporain »
+  // Hadiths — cours « Hadiths Essentiels pour le Musulman Contemporain »
   // ─────────────────────────────────────────────────────────────
   {
     id: 'hadith-niyyah',
@@ -23,7 +23,7 @@ export const dailyBank: DailyEntry[] = [
     quote: {
       ar: '«إِنَّمَا الأَعْمَالُ بِالنِّيَّاتِ، وَإِنَّمَا لِكُلِّ امْرِئٍ مَا نَوَى»',
       translation: {
-        fr: "« Les actes ne valent que par les intentions, et chacun n'aura que ce qu'il a réellement eu comme intention. »",
+        fr: "« Les actes ne valent que par les intentions, et chacun n'aura que ce qu'il a réellement eu comme intention. »",
         ar: '«إِنَّمَا الأَعْمَالُ بِالنِّيَّاتِ، وَإِنَّمَا لِكُلِّ امْرِئٍ مَا نَوَى»',
         en: '"Actions are but by intentions, and every man shall have only that which he intended."',
       },
@@ -47,7 +47,7 @@ export const dailyBank: DailyEntry[] = [
     quote: {
       ar: '«أَنْ تَعْبُدَ اللَّهَ كَأَنَّكَ تَرَاهُ، فَإِنْ لَمْ تَكُنْ تَرَاهُ فَإِنَّهُ يَرَاكَ»',
       translation: {
-        fr: "« C'est que tu adores Allah comme si tu Le voyais ; car si tu ne Le vois pas, Lui te voit. »",
+        fr: "« C'est que tu adores Allah comme si tu Le voyais ; car si tu ne Le vois pas, Lui te voit. »",
         ar: '«أَنْ تَعْبُدَ اللَّهَ كَأَنَّكَ تَرَاهُ، فَإِنْ لَمْ تَكُنْ تَرَاهُ فَإِنَّهُ يَرَاكَ»',
         en: '"It is to worship Allah as though you see Him; for if you do not see Him, He surely sees you."',
       },
@@ -71,7 +71,7 @@ export const dailyBank: DailyEntry[] = [
     quote: {
       ar: '«كَفَى بِالْمَرْءِ كَذِبًا أَنْ يُحَدِّثَ بِكُلِّ مَا سَمِعَ»',
       translation: {
-        fr: "« Il suffit à un homme, comme mensonge, de rapporter tout ce qu'il entend. »",
+        fr: "« Il suffit à un homme, comme mensonge, de rapporter tout ce qu'il entend. »",
         ar: '«كَفَى بِالْمَرْءِ كَذِبًا أَنْ يُحَدِّثَ بِكُلِّ مَا سَمِعَ»',
         en: '"It is enough of a lie for a man to relate everything he hears."',
       },
@@ -95,7 +95,7 @@ export const dailyBank: DailyEntry[] = [
     quote: {
       ar: '«مِنْ حُسْنِ إِسْلَامِ الْمَرْءِ تَرْكُهُ مَا لَا يَعْنِيهِ»',
       translation: {
-        fr: "« Une des marques de la bonne pratique de l'Islam chez l'homme est qu'il délaisse ce qui ne le concerne pas. »",
+        fr: "« Une des marques de la bonne pratique de l'Islam chez l'homme est qu'il délaisse ce qui ne le concerne pas. »",
         ar: '«مِنْ حُسْنِ إِسْلَامِ الْمَرْءِ تَرْكُهُ مَا لَا يَعْنِيهِ»',
         en: '"Part of the excellence of a person\'s Islam is his leaving what does not concern him."',
       },
@@ -106,7 +106,7 @@ export const dailyBank: DailyEntry[] = [
       },
     },
     question: {
-      fr: "Où passe la frontière entre « ce qui me concerne » et « ce qui ne me concerne pas » ? Les savants ont donné un critère précis — le connaissez-vous ?",
+      fr: "Où passe la frontière entre « ce qui me concerne » et « ce qui ne me concerne pas » ? Les savants ont donné un critère précis — le connaissez-vous ?",
       ar: 'أين يمرُّ الحدُّ بين ما يعنيني وما لا يعنيني؟ وضع العلماء ضابطًا دقيقًا لذلك — فهل تعرفه؟',
       en: 'Where exactly is the line between "what concerns me" and "what does not"? The scholars gave a precise criterion — do you know it?',
     },
@@ -119,7 +119,7 @@ export const dailyBank: DailyEntry[] = [
     quote: {
       ar: '«عَجَبًا لِأَمْرِ الْمُؤْمِنِ، إِنَّ أَمْرَهُ كُلَّهُ خَيْرٌ، وَلَيْسَ ذَاكَ لِأَحَدٍ إِلَّا لِلْمُؤْمِنِ»',
       translation: {
-        fr: "« Étonnante est l'affaire du croyant : toute son affaire est un bien, et cela n'est donné à personne sinon au croyant. »",
+        fr: "« Étonnante est l'affaire du croyant : toute son affaire est un bien, et cela n'est donné à personne sinon au croyant. »",
         ar: '«عَجَبًا لِأَمْرِ الْمُؤْمِنِ، إِنَّ أَمْرَهُ كُلَّهُ خَيْرٌ، وَلَيْسَ ذَاكَ لِأَحَدٍ إِلَّا لِلْمُؤْمِنِ»',
         en: '"How wonderful is the affair of the believer: all his affairs are good, and that is for no one except the believer."',
       },
@@ -143,7 +143,7 @@ export const dailyBank: DailyEntry[] = [
     quote: {
       ar: '«كُنْ فِي الدُّنْيَا كَأَنَّكَ غَرِيبٌ أَوْ عَابِرُ سَبِيلٍ»',
       translation: {
-        fr: "« Sois dans ce monde comme un étranger, ou comme un voyageur de passage. »",
+        fr: "« Sois dans ce monde comme un étranger, ou comme un voyageur de passage. »",
         ar: '«كُنْ فِي الدُّنْيَا كَأَنَّكَ غَرِيبٌ أَوْ عَابِرُ سَبِيلٍ»',
         en: '"Be in this world as though you were a stranger, or a traveller passing through."',
       },
@@ -167,7 +167,7 @@ export const dailyBank: DailyEntry[] = [
     quote: {
       ar: '«لَا تَغْضَبْ» فَرَدَّدَ مِرَارًا، قَالَ: «لَا تَغْضَبْ»',
       translation: {
-        fr: "« Ne te mets pas en colère. » L'homme répéta sa demande plusieurs fois, et il ﷺ répondit à chaque fois : « Ne te mets pas en colère. »",
+        fr: "« Ne te mets pas en colère. » L'homme répéta sa demande plusieurs fois, et il ﷺ répondit à chaque fois : « Ne te mets pas en colère. »",
         ar: '«لَا تَغْضَبْ» فَرَدَّدَ مِرَارًا، قَالَ: «لَا تَغْضَبْ»',
         en: '"Do not become angry." The man repeated his request several times, and each time he ﷺ said: "Do not become angry."',
       },
@@ -191,7 +191,7 @@ export const dailyBank: DailyEntry[] = [
     quote: {
       ar: '«لَا يُؤْمِنُ أَحَدُكُمْ حَتَّى يُحِبَّ لِأَخِيهِ مَا يُحِبُّ لِنَفْسِهِ»',
       translation: {
-        fr: "« Aucun de vous ne croit vraiment tant qu'il n'aime pas pour son frère ce qu'il aime pour lui-même. »",
+        fr: "« Aucun de vous ne croit vraiment tant qu'il n'aime pas pour son frère ce qu'il aime pour lui-même. »",
         ar: '«لَا يُؤْمِنُ أَحَدُكُمْ حَتَّى يُحِبَّ لِأَخِيهِ مَا يُحِبُّ لِنَفْسِهِ»',
         en: '"None of you truly believes until he loves for his brother what he loves for himself."',
       },
@@ -202,7 +202,7 @@ export const dailyBank: DailyEntry[] = [
       },
     },
     question: {
-      fr: "« Ne croit pas » — s'agit-il d'une sortie de l'Islam ou d'autre chose ? Les savants ont tranché cette négation avec précision : que signifie-t-elle exactement ici ?",
+      fr: "« Ne croit pas » — s'agit-il d'une sortie de l'Islam ou d'autre chose ? Les savants ont tranché cette négation avec précision : que signifie-t-elle exactement ici ?",
       ar: '«لا يؤمن» — أهو نفيٌ لأصل الإيمان أم لكماله؟ حرّر العلماء هذا النفي تحريرًا دقيقًا: فما معناه هنا على وجه التحديد؟',
       en: '"Does not believe" — is this exclusion from Islam, or something else? The scholars settled this negation precisely: what does it actually mean here?',
     },
@@ -215,7 +215,7 @@ export const dailyBank: DailyEntry[] = [
     quote: {
       ar: '«الْمُسْلِمُ مَنْ سَلِمَ الْمُسْلِمُونَ مِنْ لِسَانِهِ وَيَدِهِ»',
       translation: {
-        fr: "« Le musulman est celui dont les musulmans sont préservés de sa langue et de sa main. »",
+        fr: "« Le musulman est celui dont les musulmans sont préservés de sa langue et de sa main. »",
         ar: '«الْمُسْلِمُ مَنْ سَلِمَ الْمُسْلِمُونَ مِنْ لِسَانِهِ وَيَدِهِ»',
         en: '"The Muslim is the one from whose tongue and hand the Muslims are safe."',
       },
@@ -239,7 +239,7 @@ export const dailyBank: DailyEntry[] = [
     quote: {
       ar: '«الدِّينُ النَّصِيحَةُ» قُلْنَا: لِمَنْ؟ قَالَ: «لِلَّهِ، وَلِكِتَابِهِ، وَلِرَسُولِهِ، وَلِأَئِمَّةِ الْمُسْلِمِينَ وَعَامَّتِهِمْ»',
       translation: {
-        fr: "« La religion est le conseil sincère. » Nous dîmes : « Envers qui ? » Il dit : « Envers Allah, Son Livre, Son Messager, les responsables des musulmans et l'ensemble d'entre eux. »",
+        fr: "« La religion est le conseil sincère. » Nous dîmes : « Envers qui ? » Il dit : « Envers Allah, Son Livre, Son Messager, les responsables des musulmans et l'ensemble d'entre eux. »",
         ar: '«الدِّينُ النَّصِيحَةُ» قُلْنَا: لِمَنْ؟ قَالَ: «لِلَّهِ، وَلِكِتَابِهِ، وَلِرَسُولِهِ، وَلِأَئِمَّةِ الْمُسْلِمِينَ وَعَامَّتِهِمْ»',
         en: '"The religion is sincere counsel." We said: "To whom?" He said: "To Allah, His Book, His Messenger, the leaders of the Muslims, and their common folk."',
       },
@@ -250,7 +250,7 @@ export const dailyBank: DailyEntry[] = [
       },
     },
     question: {
-      fr: "Le mot « nasiha » ne se traduit pas par « conseil » sans perte. Que recouvre-t-il réellement — et que signifie être sincère envers un Livre ?",
+      fr: "Le mot « nasiha » ne se traduit pas par « conseil » sans perte. Que recouvre-t-il réellement — et que signifie être sincère envers un Livre ?",
       ar: 'كلمة «النصيحة» لا تُترجَم بـ«الإرشاد» دون نقص. فما حقيقة معناها؟ وما معنى أن تكون ناصحًا لكتابٍ؟',
       en: 'The word "nasiha" cannot be rendered as "advice" without loss. What does it really cover — and what does it mean to be sincere towards a Book?',
     },
@@ -263,7 +263,7 @@ export const dailyBank: DailyEntry[] = [
     quote: {
       ar: '«لَوْ أَنَّكُمْ تَتَوَكَّلُونَ عَلَى اللَّهِ حَقَّ تَوَكُّلِهِ، لَرَزَقَكُمْ كَمَا يَرْزُقُ الطَّيْرَ، تَغْدُو خِمَاصًا وَتَرُوحُ بِطَانًا»',
       translation: {
-        fr: "« Si vous placiez votre confiance en Allah comme elle doit l'être, Il vous accorderait votre subsistance comme Il l'accorde aux oiseaux : ils partent le ventre vide et reviennent le ventre plein. »",
+        fr: "« Si vous placiez votre confiance en Allah comme elle doit l'être, Il vous accorderait votre subsistance comme Il l'accorde aux oiseaux : ils partent le ventre vide et reviennent le ventre plein. »",
         ar: '«لَوْ أَنَّكُمْ تَتَوَكَّلُونَ عَلَى اللَّهِ حَقَّ تَوَكُّلِهِ، لَرَزَقَكُمْ كَمَا يَرْزُقُ الطَّيْرَ، تَغْدُو خِمَاصًا وَتَرُوحُ بِطَانًا»',
         en: '"If you relied upon Allah as He truly should be relied upon, He would provide for you as He provides for the birds: they go out hungry in the morning and return full in the evening."',
       },
@@ -274,7 +274,7 @@ export const dailyBank: DailyEntry[] = [
       },
     },
     question: {
-      fr: "L'oiseau ne reste pas au nid : il « part » chercher. Où se situe alors la limite entre le tawakkul et l'abandon des causes — et ce hadith autorise-t-il à ne rien faire ?",
+      fr: "L'oiseau ne reste pas au nid : il « part » chercher. Où se situe alors la limite entre le tawakkul et l'abandon des causes — et ce hadith autorise-t-il à ne rien faire ?",
       ar: 'الطيرُ لا يبقى في وكره، بل «يغدو» طلبًا للرزق. فأين الحدُّ بين التوكّل وتركِ الأخذ بالأسباب؟ وهل في الحديث حجّةٌ للقعود؟',
       en: 'The bird does not stay in the nest: it "goes out" to seek. So where is the line between tawakkul and abandoning the means — and does this hadith license doing nothing?',
     },
@@ -287,7 +287,7 @@ export const dailyBank: DailyEntry[] = [
     quote: {
       ar: '«إِنَّ اللَّهَ لَا يَنْظُرُ إِلَى صُوَرِكُمْ وَأَمْوَالِكُمْ، وَلَكِنْ يَنْظُرُ إِلَى قُلُوبِكُمْ وَأَعْمَالِكُمْ»',
       translation: {
-        fr: "« Allah ne regarde ni vos apparences ni vos biens, mais Il regarde vos cœurs et vos actes. »",
+        fr: "« Allah ne regarde ni vos apparences ni vos biens, mais Il regarde vos cœurs et vos actes. »",
         ar: '«إِنَّ اللَّهَ لَا يَنْظُرُ إِلَى صُوَرِكُمْ وَأَمْوَالِكُمْ، وَلَكِنْ يَنْظُرُ إِلَى قُلُوبِكُمْ وَأَعْمَالِكُمْ»',
         en: '"Allah does not look at your appearances or your wealth, but He looks at your hearts and your deeds."',
       },
@@ -298,7 +298,7 @@ export const dailyBank: DailyEntry[] = [
       },
     },
     question: {
-      fr: "Le hadith mentionne les cœurs ET les actes — pas seulement les cœurs. Pourquoi cette précision ferme-t-elle la porte à ceux qui disent « l'essentiel est dans le cœur » ?",
+      fr: "Le hadith mentionne les cœurs ET les actes — pas seulement les cœurs. Pourquoi cette précision ferme-t-elle la porte à ceux qui disent « l'essentiel est dans le cœur » ?",
       ar: 'ذكر الحديثُ القلوبَ والأعمالَ معًا لا القلوبَ وحدها. فلماذا تسدُّ هذه الزيادة البابَ على من يقول: «الإيمان في القلب» ويترك العمل؟',
       en: 'The hadith mentions hearts AND deeds — not hearts alone. Why does that addition close the door on those who say "what matters is in the heart"?',
     },
@@ -311,7 +311,7 @@ export const dailyBank: DailyEntry[] = [
     quote: {
       ar: '«مَا يُصِيبُ الْمُسْلِمَ مِنْ نَصَبٍ وَلَا وَصَبٍ وَلَا هَمٍّ وَلَا حُزْنٍ وَلَا أَذًى وَلَا غَمٍّ، حَتَّى الشَّوْكَةِ يُشَاكُهَا، إِلَّا كَفَّرَ اللَّهُ بِهَا مِنْ خَطَايَاهُ»',
       translation: {
-        fr: "« Nulle fatigue, maladie, souci, tristesse, nuisance ou affliction n'atteint le musulman — jusqu'à l'épine qui le pique — sans qu'Allah n'efface par cela une partie de ses péchés. »",
+        fr: "« Nulle fatigue, maladie, souci, tristesse, nuisance ou affliction n'atteint le musulman — jusqu'à l'épine qui le pique — sans qu'Allah n'efface par cela une partie de ses péchés. »",
         ar: '«مَا يُصِيبُ الْمُسْلِمَ مِنْ نَصَبٍ وَلَا وَصَبٍ وَلَا هَمٍّ وَلَا حُزْنٍ وَلَا أَذًى وَلَا غَمٍّ، حَتَّى الشَّوْكَةِ يُشَاكُهَا، إِلَّا كَفَّرَ اللَّهُ بِهَا مِنْ خَطَايَاهُ»',
         en: '"No fatigue, illness, anxiety, sorrow, harm or distress befalls a Muslim — even a thorn that pricks him — without Allah wiping away some of his sins by it."',
       },
@@ -335,7 +335,7 @@ export const dailyBank: DailyEntry[] = [
     quote: {
       ar: '«اتَّقِ اللَّهَ حَيْثُمَا كُنْتَ، وَأَتْبِعِ السَّيِّئَةَ الْحَسَنَةَ تَمْحُهَا، وَخَالِقِ النَّاسَ بِخُلُقٍ حَسَنٍ»',
       translation: {
-        fr: "« Crains Allah où que tu sois, fais suivre la mauvaise action d'une bonne action qui l'effacera, et comporte-toi avec les gens avec un bon caractère. »",
+        fr: "« Crains Allah où que tu sois, fais suivre la mauvaise action d'une bonne action qui l'effacera, et comporte-toi avec les gens avec un bon caractère. »",
         ar: '«اتَّقِ اللَّهَ حَيْثُمَا كُنْتَ، وَأَتْبِعِ السَّيِّئَةَ الْحَسَنَةَ تَمْحُهَا، وَخَالِقِ النَّاسَ بِخُلُقٍ حَسَنٍ»',
         en: '"Fear Allah wherever you are, follow a bad deed with a good deed and it will erase it, and treat people with good character."',
       },
@@ -346,7 +346,7 @@ export const dailyBank: DailyEntry[] = [
       },
     },
     question: {
-      fr: "« Où que tu sois » — pourquoi cette précision, alors que la taqwa semble aller de soi ? Et le hadith couvre trois relations distinctes : sauriez-vous les nommer ?",
+      fr: "« Où que tu sois » — pourquoi cette précision, alors que la taqwa semble aller de soi ? Et le hadith couvre trois relations distinctes : sauriez-vous les nommer ?",
       ar: '«حيثما كنت» — لماذا هذا القيد والتقوى تبدو أمرًا بديهيًّا؟ ثمّ إنّ الحديث يجمع ثلاث علاقات متمايزة: أتستطيع تسميتها؟',
       en: '"Wherever you are" — why that qualifier, when taqwa seems self-evident? And the hadith covers three distinct relationships: can you name them?',
     },
@@ -359,7 +359,7 @@ export const dailyBank: DailyEntry[] = [
     quote: {
       ar: '«أَحَبُّ الْأَعْمَالِ إِلَى اللَّهِ أَدْوَمُهَا وَإِنْ قَلَّ»',
       translation: {
-        fr: "« Les actes les plus aimés d'Allah sont les plus constants, même s'ils sont peu nombreux. »",
+        fr: "« Les actes les plus aimés d'Allah sont les plus constants, même s'ils sont peu nombreux. »",
         ar: '«أَحَبُّ الْأَعْمَالِ إِلَى اللَّهِ أَدْوَمُهَا وَإِنْ قَلَّ»',
         en: '"The deeds most beloved to Allah are the most constant, even if they are few."',
       },
@@ -484,7 +484,7 @@ export const dailyBank: DailyEntry[] = [
     lessonId: 'fiqh-010-siwak-fitra',
     kind: 'lesson',
     question: {
-      fr: "Le Prophète ﷺ a énuméré des actes appelés « sunan al-fitra ». Combien sont-ils, et y a-t-il un délai à ne pas dépasser pour certains d'entre eux ?",
+      fr: "Le Prophète ﷺ a énuméré des actes appelés « sunan al-fitra ». Combien sont-ils, et y a-t-il un délai à ne pas dépasser pour certains d'entre eux ?",
       ar: 'عدَّ النبيُّ ﷺ أعمالًا سمّاها «سنن الفطرة». فكم عددها؟ وهل لبعضها وقتٌ لا يجوز تجاوزه؟',
       en: 'The Prophet ﷺ listed acts called "sunan al-fitra". How many are they, and is there a time limit not to be exceeded for some of them?',
     },

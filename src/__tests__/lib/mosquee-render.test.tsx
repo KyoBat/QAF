@@ -16,6 +16,8 @@ const baseProps = {
   mosquee: arRayaneMosquee,
   upcoming: [],
   formattedDate: 'lundi 3 août 2026',
+  hijriDate: '20 safar 1448 AH',
+  pageUrl: 'https://www.tahalearn.com/fr/mosquees/ar-rayane-batna',
   qrTargetUrl: 'https://www.tahalearn.com/mosquees/ar-rayane-batna',
 }
 
@@ -61,10 +63,14 @@ describe('rendu de la page mosquée', () => {
   })
 
   it('affiche toujours la question du jour', () => {
+    // Les textes contiennent des espaces fines insécables (typographie française).
+    // getByText les normalise côté DOM : on normalise donc aussi l'attendu.
+    const normalize = (s: string) => s.replace(/\s+/g, ' ').trim()
+
     for (const locale of ['fr', 'ar', 'en'] as const) {
       const today = resolved('hadith-taqwa')
       const { unmount } = render(<MosqueeDaily locale={locale} today={today} {...baseProps} />)
-      expect(screen.getByText(today.entry.question[locale])).toBeInTheDocument()
+      expect(screen.getByText(normalize(today.entry.question[locale]))).toBeInTheDocument()
       unmount()
     }
   })
