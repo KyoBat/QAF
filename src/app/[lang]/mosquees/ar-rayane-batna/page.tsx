@@ -3,9 +3,8 @@ import { MosqueeWeekly } from '@/components/mosquee/MosqueeWeekly'
 import { BreadcrumbJsonLd } from '@/components/seo'
 import { arRayaneMosquee } from '@/lib/data/mosquees/ar-rayane'
 import {
-  getWeeklyCourse,
-  getWeeklyHadith,
-  getUpcomingCourses,
+  getWeeklyLesson,
+  getUpcomingLessons,
   formatWeekRange,
   formatHijriDate,
 } from '@/lib/data/mosquees/weekly'
@@ -31,19 +30,19 @@ export async function generateStaticParams() {
 
 const metaMap: Record<Locale, { title: string; description: string }> = {
   fr: {
-    title: 'Mosquée Ar-Rayane, Batna — Le cours de la semaine',
+    title: 'Mosquée Ar-Rayane, Batna — La leçon de la semaine',
     description:
-      'Chaque vendredi, un nouveau cours et un hadith pour les fidèles de la mosquée Ar-Rayane (ممرات بن بولعيد, Batna) : aqida, sciences du hadith, et le cours adapté au mois en cours. Accès libre et gratuit.',
+      'Chaque vendredi, une nouvelle leçon pour les fidèles de la mosquée Ar-Rayane (ممرات بن بولعيد, Batna) : aqida, hadiths, fiqh de la prière, et le sujet adapté au mois en cours. Accès libre et gratuit.',
   },
   ar: {
-    title: 'مسجد الريّان بباتنة — دورة الأسبوع',
+    title: 'مسجد الريّان بباتنة — درس الأسبوع',
     description:
-      'كلَّ جمعة دورةٌ جديدة وحديثٌ لروّاد مسجد الريّان (ممرات بن بولعيد، باتنة): العقيدة، وعلوم الحديث، والدورة المناسبة لشهرك. مجّانًا وبلا تسجيل.',
+      'كلَّ جمعة درسٌ جديد لروّاد مسجد الريّان (ممرات بن بولعيد، باتنة): العقيدة، والأحاديث، وفقه الصلاة، والموضوع المناسب لشهرك. مجّانًا وبلا تسجيل.',
   },
   en: {
-    title: 'Ar-Rayane Mosque, Batna — Course of the week',
+    title: 'Ar-Rayane Mosque, Batna — Lesson of the week',
     description:
-      'Every Friday, a new course and a hadith for the congregation of Ar-Rayane Mosque (Ben Boulaïd Alleys, Batna): aqidah, hadith sciences, and the course suited to the current month. Free and open.',
+      'Every Friday, a new lesson for the congregation of Ar-Rayane Mosque (Ben Boulaïd Alleys, Batna): aqidah, hadiths, fiqh of prayer, and the topic suited to the current month. Free and open.',
   },
 }
 
@@ -107,9 +106,8 @@ export default async function ArRayaneMosqueePage({
   const locale = (LOCALES.includes(lang as Locale) ? lang : 'fr') as Locale
 
   const now = new Date()
-  const course = getWeeklyCourse(now)
-  const hadith = getWeeklyHadith(now)
-  const upcomingCourses = getUpcomingCourses(3, now)
+  const lesson = getWeeklyLesson(now)
+  const upcoming = getUpcomingLessons(3, now)
   const weekRange = formatWeekRange(locale, now)
   const hijriDate = formatHijriDate(locale, now)
 
@@ -125,9 +123,8 @@ export default async function ArRayaneMosqueePage({
       <MosqueeWeekly
         locale={locale}
         mosquee={arRayaneMosquee}
-        course={course}
-        hadith={hadith}
-        upcomingCourses={upcomingCourses}
+        lesson={lesson}
+        upcoming={upcoming}
         weekRange={weekRange}
         hijriDate={hijriDate}
         pageUrl={`${BASE_URL}/${locale}${PATH}`}

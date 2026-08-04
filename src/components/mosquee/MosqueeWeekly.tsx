@@ -1,9 +1,9 @@
 /**
- * Page mosquée — cours et hadith de la semaine
+ * Page mosquée — la leçon de la semaine
  *
  * Server component, à une exception près : le bouton de partage.
- * Hiérarchie délibérée : le cours de la semaine domine, le hadith le suit,
- * le reste leur est subordonné.
+ * Un seul bloc domine : la leçon et sa question. Le parcours est du contexte,
+ * pas un bouton concurrent — l'objectif est qu'on lise, pas qu'on choisisse.
  */
 
 import Link from 'next/link'
@@ -17,23 +17,21 @@ import {
   QrCode,
   Moon,
   CalendarRange,
-  GraduationCap,
-  Layers,
+  Route,
 } from 'lucide-react'
 import { Card, CardContent } from '@/components/ui/card'
 import { Button } from '@/components/ui/button'
 import { cn } from '@/lib/utils'
 import type { Locale } from '@/locales'
 import type { Mosquee } from '@/lib/data/mosquees/types'
-import type { WeeklyHadith, WeeklyCourse } from '@/lib/data/mosquees/weekly'
+import type { WeeklyLesson } from '@/lib/data/mosquees/weekly'
 import { ShareWeekly } from './ShareWeekly'
 
 interface MosqueeWeeklyProps {
   locale: Locale
   mosquee: Mosquee
-  course: WeeklyCourse
-  hadith: WeeklyHadith
-  upcomingCourses: WeeklyCourse[]
+  lesson: WeeklyLesson
+  upcoming: WeeklyLesson[]
   weekRange: string
   hijriDate: string
   /** URL canonique de la page, partagée telle quelle */
@@ -44,62 +42,53 @@ interface MosqueeWeeklyProps {
 
 const ui = {
   fr: {
-    courseOfWeek: 'Le cours de la semaine',
-    seriesPosition: (n: number, total: number) => `Série · ${n} / ${total}`,
-    startCourse: 'Commencer le cours',
-    lessons: (n: number) => `${n} leçons`,
-    hadithOfWeek: 'Le hadith de la semaine',
     lessonOfWeek: 'La leçon de la semaine',
+    parcoursPosition: (name: string, n: number, total: number) => `${name} · ${n} / ${total}`,
     thinkAbout: 'La question de la semaine',
     readLesson: 'Lire la leçon',
-    rhythm: 'Nouveau chaque vendredi — le cours et le hadith restent affichés toute la semaine.',
+    wholeCourse: 'Voir tout le parcours',
+    rhythm: 'Une nouvelle leçon chaque vendredi — elle reste affichée toute la semaine.',
     upcomingTitle: 'Les prochaines semaines',
     upcomingNote:
-      'Sauf pendant les mois où un cours s’impose (Ramadan, Dhul-Hijja…), la série reprend ensuite où elle s’était arrêtée.',
+      'Sauf pendant les mois où un sujet s’impose (Ramadan, Dhul-Hijja…), la série reprend ensuite où elle s’était arrêtée.',
     allCourses: 'Voir les 29 cours gratuits',
     qrTitle: 'Afficher cette page à la mosquée',
     qrText:
       'Imprimez ce code pour le panneau d’affichage. Il ouvre la page directement dans la langue du visiteur.',
-    shareTitle: 'Cette semaine',
+    shareTitle: 'La leçon de la semaine',
     backToSite: 'Découvrir TahaLearn',
   },
   ar: {
-    courseOfWeek: 'دورة الأسبوع',
-    seriesPosition: (n: number, total: number) => `السلسلة · ${n} من ${total}`,
-    startCourse: 'ابدأ الدورة',
-    lessons: (n: number) => `${n} دروس`,
-    hadithOfWeek: 'حديث الأسبوع',
     lessonOfWeek: 'درس الأسبوع',
+    parcoursPosition: (name: string, n: number, total: number) => `${name} · ${n} من ${total}`,
     thinkAbout: 'سؤال الأسبوع',
     readLesson: 'اقرأ الدرس',
-    rhythm: 'يتجدّد كلَّ جمعة — وتبقى الدورةُ والحديث معروضين طوال الأسبوع.',
+    wholeCourse: 'تصفَّح المسار كاملًا',
+    rhythm: 'درسٌ جديد كلَّ جمعة — ويبقى معروضًا طوال الأسبوع.',
     upcomingTitle: 'الأسابيع القادمة',
     upcomingNote:
-      'إلّا في الأشهر التي تفرض دورةً بعينها (رمضان، ذو الحجّة…)، فتستأنف السلسلةُ بعدها من حيث توقّفت.',
+      'إلّا في الأشهر التي يفرض فيها موضوعٌ نفسَه (رمضان، ذو الحجّة…)، فتستأنف السلسلةُ بعدها من حيث توقّفت.',
     allCourses: 'تصفَّح 29 دورة مجانية',
     qrTitle: 'اعرض هذه الصفحة في المسجد',
     qrText: 'اطبع هذا الرمز لتعليقه على لوحة الإعلانات. يفتح الصفحةَ مباشرةً بلغة الزائر.',
-    shareTitle: 'هذا الأسبوع',
+    shareTitle: 'درس الأسبوع',
     backToSite: 'تعرَّف على منصّة طه للتعلّم',
   },
   en: {
-    courseOfWeek: 'Course of the week',
-    seriesPosition: (n: number, total: number) => `Series · ${n} of ${total}`,
-    startCourse: 'Start the course',
-    lessons: (n: number) => `${n} lessons`,
-    hadithOfWeek: 'Hadith of the week',
     lessonOfWeek: 'Lesson of the week',
+    parcoursPosition: (name: string, n: number, total: number) => `${name} · ${n} of ${total}`,
     thinkAbout: 'Question of the week',
     readLesson: 'Read the lesson',
-    rhythm: 'New every Friday — the course and the hadith stay up all week.',
+    wholeCourse: 'See the whole track',
+    rhythm: 'A new lesson every Friday — it stays up all week.',
     upcomingTitle: 'Coming weeks',
     upcomingNote:
-      'Except during months that call for a specific course (Ramadan, Dhul-Hijja…), the series then resumes where it left off.',
+      'Except during months that call for a specific topic (Ramadan, Dhul-Hijja…), the series then resumes where it left off.',
     allCourses: 'Browse all 29 free courses',
     qrTitle: 'Display this page at the mosque',
     qrText:
       'Print this code for the noticeboard. It opens the page directly in the visitor’s language.',
-    shareTitle: 'This week',
+    shareTitle: 'Lesson of the week',
     backToSite: 'Discover TahaLearn',
   },
 } as const
@@ -107,9 +96,8 @@ const ui = {
 export function MosqueeWeekly({
   locale,
   mosquee,
-  course,
-  hadith,
-  upcomingCourses,
+  lesson,
+  upcoming,
   weekRange,
   hijriDate,
   pageUrl,
@@ -118,13 +106,12 @@ export function MosqueeWeekly({
   const isRTL = locale === 'ar'
   const t = ui[locale]
   const Arrow = isRTL ? ArrowLeft : ArrowRight
-  const { entry } = hadith
+  const { entry } = lesson
 
-  // Ce qui part réellement dans WhatsApp : le cours de la semaine, puis la
-  // citation si elle existe, puis la question — l'accroche.
+  // Ce qui part dans WhatsApp : la citation si elle existe, sinon le titre,
+  // puis toujours la question — c'est elle l'accroche.
   const shareText = [
-    `${t.courseOfWeek} : ${course.title[locale]}`,
-    entry.quote ? entry.quote.ar : hadith.lessonTitle[locale],
+    entry.quote ? entry.quote.ar : lesson.lessonTitle[locale],
     entry.question[locale],
   ].join('\n\n')
 
@@ -173,7 +160,7 @@ export function MosqueeWeekly({
       </header>
 
       <div className="max-w-3xl mx-auto px-4 sm:px-6">
-        {/* Bandeau de semaine : le repère temporel commun aux deux blocs */}
+        {/* Repère temporel */}
         <div
           className={cn(
             'flex flex-wrap items-center gap-x-3 gap-y-1.5 py-4 text-sm',
@@ -200,8 +187,7 @@ export function MosqueeWeekly({
           </span>
         </div>
 
-        {/* ── LE COURS DE LA SEMAINE ──────────────────────────
-            Le héros : c'est l'unité de rythme demandée. */}
+        {/* ── LA LEÇON DE LA SEMAINE — le seul bloc qui compte ── */}
         <Card className="mb-6 border-primary/25 shadow-lg ring-1 ring-primary/10 bg-gradient-to-b from-primary/[0.07] to-card overflow-hidden">
           <CardContent className="p-5 sm:p-8">
             <div
@@ -211,113 +197,51 @@ export function MosqueeWeekly({
               )}
             >
               <span className="inline-flex items-center gap-1.5 rounded-full bg-primary px-3 py-1 text-xs font-semibold text-primary-foreground">
-                <GraduationCap className="h-3.5 w-3.5" aria-hidden="true" />
-                {t.courseOfWeek}
+                <BookOpen className="h-3.5 w-3.5" aria-hidden="true" />
+                {t.lessonOfWeek}
               </span>
-              {course.positionInSequence !== null && (
-                <span className="text-xs text-muted-foreground/80 tabular-nums">
-                  {t.seriesPosition(course.positionInSequence, course.sequenceLength)}
-                </span>
-              )}
+              {/* Le parcours : contexte et progression, pas une action */}
+              <span
+                className={cn(
+                  'inline-flex items-center gap-1.5 text-xs text-muted-foreground',
+                  isRTL && 'flex-row-reverse'
+                )}
+              >
+                <Route className="h-3.5 w-3.5 shrink-0" aria-hidden="true" />
+                {t.parcoursPosition(
+                  lesson.parcoursName[locale],
+                  lesson.positionInParcours,
+                  lesson.parcoursLength
+                )}
+              </span>
             </div>
 
-            {/* Pourquoi ce cours maintenant — seulement quand le mois l'impose */}
-            {course.seasonalReason && (
+            {/* Pourquoi ce sujet maintenant — seulement quand le mois l'impose */}
+            {lesson.seasonalReason && (
               <p
                 className={cn(
                   'mb-5 rounded-lg bg-primary/[0.08] px-4 py-3 text-sm font-medium text-primary leading-relaxed',
                   isRTL ? 'border-e-4 border-e-primary' : 'border-s-4 border-s-primary'
                 )}
               >
-                {course.seasonalReason[locale]}
+                {lesson.seasonalReason[locale]}
               </p>
             )}
 
             <h2
               className={cn(
-                'text-2xl sm:text-3xl font-bold text-foreground mb-3',
+                'text-2xl sm:text-3xl font-bold text-foreground mb-4',
                 isRTL && 'font-arabic leading-relaxed'
               )}
             >
-              {course.title[locale]}
+              {lesson.lessonTitle[locale]}
             </h2>
 
-            <p
-              className={cn(
-                'text-base sm:text-lg text-muted-foreground leading-relaxed mb-5',
-                isRTL && 'leading-loose'
-              )}
-            >
-              {course.hook[locale]}
-            </p>
-
-            <div
-              className={cn(
-                'flex flex-wrap items-center gap-4 text-sm text-muted-foreground mb-6',
-                isRTL && 'flex-row-reverse'
-              )}
-            >
-              <span className={cn('inline-flex items-center gap-1.5', isRTL && 'flex-row-reverse')}>
-                <Layers className="h-4 w-4 shrink-0" aria-hidden="true" />
-                {t.lessons(course.lessonsCount)}
-              </span>
-              <span className={cn('inline-flex items-center gap-1.5', isRTL && 'flex-row-reverse')}>
-                <Clock className="h-4 w-4 shrink-0" aria-hidden="true" />
-                {/* dir="ltr" : sinon « 9h » s'affiche à l'envers en RTL */}
-                <bdi dir="ltr">{course.duration}</bdi>
-              </span>
-            </div>
-
-            <div className={cn('flex flex-wrap items-center gap-3', isRTL && 'flex-row-reverse')}>
-              <Button asChild size="lg" className="flex-1 sm:flex-none">
-                <Link href={`/${locale}${course.path}`}>
-                  {t.startCourse}
-                  <Arrow className="h-4 w-4" aria-hidden="true" />
-                </Link>
-              </Button>
-
-              <ShareWeekly
-                locale={locale}
-                title={`${t.shareTitle} — ${mosquee.name[locale]}`}
-                text={shareText}
-                url={pageUrl}
-              />
-            </div>
-          </CardContent>
-        </Card>
-
-        {/* ── LE HADITH DE LA SEMAINE ─────────────────────────
-            Second, mais c'est lui qui porte la question. */}
-        <Card className="mb-6 border-border">
-          <CardContent className="p-5 sm:p-7">
-            <div
-              className={cn(
-                'flex flex-wrap items-center gap-x-3 gap-y-2 mb-5',
-                isRTL && 'flex-row-reverse'
-              )}
-            >
-              <h2
-                className={cn(
-                  'text-sm font-semibold uppercase tracking-widest text-primary',
-                  isRTL && 'font-arabic tracking-normal text-base'
-                )}
-              >
-                {entry.kind === 'hadith' ? t.hadithOfWeek : t.lessonOfWeek}
-              </h2>
-              <span
-                className={cn(
-                  'text-xs text-muted-foreground/70 tabular-nums',
-                  isRTL ? 'me-auto' : 'ms-auto'
-                )}
-              >
-                {hadith.weekInCycle} / {hadith.cycleLength}
-              </span>
-            </div>
-
+            {/* Citation : le cœur émotionnel des semaines « hadith » */}
             {entry.quote && (
               <figure className="mb-6">
                 <blockquote
-                  className="rounded-xl bg-primary/[0.06] px-5 py-6 sm:px-7 sm:py-7 text-center text-xl sm:text-2xl font-arabic leading-[2.1] text-foreground"
+                  className="rounded-xl bg-primary/[0.06] px-5 py-6 sm:px-7 sm:py-8 text-center text-2xl sm:text-3xl font-arabic leading-[2.1] text-foreground"
                   dir="rtl"
                   lang="ar"
                 >
@@ -326,12 +250,12 @@ export function MosqueeWeekly({
 
                 {/* En arabe la traduction répète le texte : on ne l'affiche pas deux fois */}
                 {locale !== 'ar' && (
-                  <p className="mt-4 text-base text-muted-foreground leading-relaxed text-center italic">
+                  <p className="mt-4 text-base sm:text-lg text-muted-foreground leading-relaxed text-center italic">
                     {entry.quote.translation[locale]}
                   </p>
                 )}
 
-                <figcaption className="mt-3 flex justify-center">
+                <figcaption className="mt-4 flex justify-center">
                   <span className="rounded-full border border-primary/20 bg-primary/5 px-3 py-1 text-xs font-medium text-primary">
                     {entry.quote.source[locale]}
                   </span>
@@ -342,7 +266,7 @@ export function MosqueeWeekly({
             {/* La question — l'accroche qui doit faire ouvrir la leçon */}
             <div
               className={cn(
-                'rounded-xl border border-primary/20 bg-primary/[0.04] p-5 mb-6',
+                'rounded-xl border border-primary/20 bg-background/70 p-5 sm:p-6 mb-6',
                 isRTL ? 'border-e-4 border-e-primary' : 'border-s-4 border-s-primary'
               )}
             >
@@ -351,7 +275,7 @@ export function MosqueeWeekly({
               </p>
               <p
                 className={cn(
-                  'text-lg text-foreground leading-relaxed',
+                  'text-lg sm:text-xl text-foreground leading-relaxed',
                   isRTL && 'font-arabic leading-loose'
                 )}
               >
@@ -360,12 +284,20 @@ export function MosqueeWeekly({
             </div>
 
             <div className={cn('flex flex-wrap items-center gap-3', isRTL && 'flex-row-reverse')}>
-              <Button asChild variant="outline">
-                <Link href={`/${locale}${hadith.path}`}>
+              <Button asChild size="lg" className="flex-1 sm:flex-none">
+                <Link href={`/${locale}${lesson.path}`}>
                   {t.readLesson}
                   <Arrow className="h-4 w-4" aria-hidden="true" />
                 </Link>
               </Button>
+
+              <ShareWeekly
+                locale={locale}
+                title={`${t.shareTitle} — ${mosquee.name[locale]}`}
+                text={shareText}
+                url={pageUrl}
+              />
+
               <span
                 className={cn(
                   'inline-flex items-center gap-1.5 text-sm text-muted-foreground',
@@ -373,16 +305,29 @@ export function MosqueeWeekly({
                 )}
               >
                 <Clock className="h-4 w-4 shrink-0" aria-hidden="true" />
-                <bdi dir="ltr">{hadith.lessonDuration}</bdi>
+                {/* dir="ltr" : sinon « 45 min » s'affiche « min 45 » en RTL */}
+                <bdi dir="ltr">{lesson.lessonDuration}</bdi>
               </span>
             </div>
+
+            {/* Le cours entier reste accessible, mais en lien discret */}
+            <p className="mt-5 text-sm text-muted-foreground">
+              <Link
+                href={`/${locale}${lesson.coursePath}`}
+                className="font-medium text-primary hover:underline"
+              >
+                {t.wholeCourse}
+              </Link>
+              {' — '}
+              {lesson.courseTitle[locale]}
+            </p>
           </CardContent>
         </Card>
 
         <p className="mb-10 text-center text-sm text-muted-foreground">{t.rhythm}</p>
 
-        {/* ── Prochaines semaines de la série ────────────────── */}
-        {upcomingCourses.length > 0 && (
+        {/* ── Prochaines semaines ────────────────────────────── */}
+        {upcoming.length > 0 && (
           <section className="mb-10" aria-labelledby="upcoming-title">
             <h2
               id="upcoming-title"
@@ -396,8 +341,8 @@ export function MosqueeWeekly({
             <p className="mb-3 text-xs text-muted-foreground leading-relaxed">{t.upcomingNote}</p>
 
             <ul className="divide-y divide-border rounded-lg border border-border">
-              {upcomingCourses.map(item => (
-                <li key={item.slug}>
+              {upcoming.map(item => (
+                <li key={item.path}>
                   <Link
                     href={`/${locale}${item.path}`}
                     className={cn(
@@ -416,10 +361,10 @@ export function MosqueeWeekly({
                           isRTL && 'font-arabic leading-relaxed'
                         )}
                       >
-                        {item.title[locale]}
+                        {item.lessonTitle[locale]}
                       </span>
                       <span className="block text-xs text-muted-foreground mt-0.5">
-                        {t.lessons(item.lessonsCount)} · <bdi dir="ltr">{item.duration}</bdi>
+                        {item.parcoursName[locale]} · <bdi dir="ltr">{item.lessonDuration}</bdi>
                       </span>
                     </span>
                     <Arrow className="h-4 w-4 shrink-0 text-muted-foreground" aria-hidden="true" />

@@ -39,9 +39,9 @@ export const arRayaneMosquee: Mosquee = {
   },
   inauguratedAt: '2023-11-25',
   intro: {
-    fr: "Chaque vendredi, un nouveau cours et un hadith tirés de TahaLearn, avec une question à emporter pour la semaine.",
-    ar: 'كلَّ جمعة دورةٌ جديدة وحديثٌ من منصّة طه للتعلّم، مع سؤالٍ ترافقك به أسبوعَك.',
-    en: 'Every Friday, a new course and a hadith from TahaLearn, with a question to carry through your week.',
+    fr: "Chaque vendredi, une nouvelle leçon tirée de TahaLearn, avec une question à emporter pour la semaine.",
+    ar: 'كلَّ جمعة درسٌ جديد من منصّة طه للتعلّم، مع سؤالٍ ترافقك به أسبوعَك.',
+    en: 'Every Friday, a new lesson from TahaLearn, with a question to carry through your week.',
   },
   inaugurationNote: {
     fr: "Inaugurée officiellement le 25 novembre 2023 par le ministre des Affaires religieuses et des Wakfs.",

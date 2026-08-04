@@ -1,17 +1,18 @@
 /**
- * Banque du hadith / de la leçon de la semaine — mosquée Ar-Rayane
+ * Catalogue des leçons diffusables — mosquée Ar-Rayane
  *
- * Chaque entrée pointe vers une leçon RÉELLE du site (courseSlug + lessonId).
- * Les titres ne sont pas recopiés ici : ils sont résolus depuis coursesData
- * au rendu, donc un renommage de leçon ne casse jamais l'affichage.
+ * Une entrée = une leçon curatée + la question qui doit donner envie de la lire.
+ * Chaque entrée pointe vers une leçon RÉELLE du site (courseSlug + lessonId) ;
+ * les titres ne sont pas recopiés ici mais résolus depuis coursesData au rendu,
+ * donc un renommage de leçon ne casse jamais l'affichage.
  *
- * La rotation parcourt la banque dans l'ordre, une semaine = une entrée.
- * Ajouter une entrée à la fin allonge simplement le cycle.
+ * Ce fichier ne décide PAS de l'ordre de diffusion : c'est weekly-plan.ts qui
+ * compose les parcours en référençant ces entrées par leur id.
  */
 
 import type { BankEntry } from './types'
 
-export const hadithBank: BankEntry[] = [
+export const lessonEntries: BankEntry[] = [
   // ─────────────────────────────────────────────────────────────
   // Hadiths — cours « Hadiths Essentiels pour le Musulman Contemporain »
   // ─────────────────────────────────────────────────────────────
@@ -649,6 +650,182 @@ export const hadithBank: BankEntry[] = [
       fr: "Les droits des époux ne sont pas symétriques, mais ils sont réciproques. Quels sont ceux que la Shari'a impose à chacun — et lesquels sont le plus souvent oubliés ?",
       ar: 'حقوقُ الزوجين ليست متماثلةً، لكنّها متبادلة. فما الذي أوجبته الشريعةُ على كلٍّ منهما؟ وأيُّها أكثرُ ما يُنسى؟',
       en: 'Spousal rights are not symmetrical, but they are mutual. What does the Shari\'a require of each — and which of them are most often forgotten?',
+    },
+  },
+  // ─────────────────────────────────────────────────────────────
+  // Aqida — cours « Les Fondements de la Foi »
+  // ─────────────────────────────────────────────────────────────
+  {
+    id: 'aqeedah-piliers-foi',
+    courseSlug: 'aqeedah-islamique',
+    lessonId: 'lesson-001',
+    kind: 'lesson',
+    question: {
+      fr: "Six piliers de la foi, et l'un d'eux est celui qu'on récite le plus vite sans y penser. Sauriez-vous les nommer tous les six — et dire lequel change votre façon de traverser une épreuve ?",
+      ar: 'أركان الإيمان ستّة، وأحدُها أكثرُ ما يُذكر على عجلٍ دون تأمّل. أتستطيع عدَّها كلَّها؟ وأيُّها يُغيّر طريقةَ تحمّلك للبلاء؟',
+      en: 'Six pillars of faith, and one of them is the one most often recited quickly without thought. Can you name all six — and say which one changes how you get through a trial?',
+    },
+  },
+  {
+    id: 'aqeedah-sources',
+    courseSlug: 'aqeedah-islamique',
+    lessonId: 'lesson-011',
+    kind: 'lesson',
+    question: {
+      fr: "En matière de croyance, tout ne se vaut pas : certaines sources tranchent, d'autres n'ont aucun poids. Où placez-vous le rêve, l'avis d'un savant, et le hadith faible ?",
+      ar: 'ليست المصادر في باب الاعتقاد سواءً: منها ما يُثبِت، ومنها ما لا وزن له. فأين تضع الرؤيا، وقولَ العالم، والحديثَ الضعيف؟',
+      en: 'In matters of creed, not all sources carry the same weight: some settle a question, others carry none. Where do you place a dream, a scholar\'s opinion, and a weak hadith?',
+    },
+  },
+  {
+    id: 'aqeedah-preuves',
+    courseSlug: 'aqeedah-islamique',
+    lessonId: 'lesson-010',
+    kind: 'lesson',
+    question: {
+      fr: "Si votre fils rentrait ce soir en disant qu'un professeur lui a affirmé que Dieu n'existe pas — que lui répondriez-vous, avec quels arguments ?",
+      ar: 'لو رجع ابنُك الليلةَ يقول إنّ أستاذًا أخبره أنّ الله غير موجود — بماذا تُجيبه؟ وبأيِّ حجّة؟',
+      en: 'If your son came home tonight saying a teacher told him God does not exist — what would you answer him, and with what arguments?',
+    },
+  },
+  {
+    id: 'aqeedah-caracteristiques',
+    courseSlug: 'aqeedah-islamique',
+    lessonId: 'lesson-012',
+    kind: 'lesson',
+    question: {
+      fr: "À quoi reconnaît-on une croyance saine d'une croyance altérée, quand les deux se réclament du même Livre ? Il existe des signes précis.",
+      ar: 'بمَ تُميَّز العقيدةُ الصحيحة من المنحرفة، وكلتاهما تحتجُّ بالكتاب نفسه؟ هناك علاماتٌ محدَّدة.',
+      en: 'How do you tell sound creed from altered creed, when both appeal to the same Book? There are precise signs.',
+    },
+  },
+  {
+    id: 'aqeedah-deviation',
+    courseSlug: 'aqeedah-islamique',
+    lessonId: 'lesson-013',
+    kind: 'lesson',
+    question: {
+      fr: "Aucune communauté n'a dévié du jour au lendemain : la déviation a toujours commencé par une cause précise, souvent bien intentionnée. Lesquelles les savants ont-ils identifiées ?",
+      ar: 'ما انحرفت أمّةٌ بين ليلةٍ وضحاها: للانحراف أسبابٌ محدَّدة، وكثيرًا ما بدأت بحُسن نيّة. فما الأسباب التي حدّدها العلماء؟',
+      en: 'No community went astray overnight: deviation always began with a specific cause, often well intentioned. Which ones did the scholars identify?',
+    },
+  },
+
+  // ─────────────────────────────────────────────────────────────
+  // Seerah — entrées mobilisées par le calendrier hégirien
+  // ─────────────────────────────────────────────────────────────
+  {
+    id: 'seerah-arabie',
+    courseSlug: 'seerah-module-1',
+    lessonId: 'lesson-001',
+    kind: 'lesson',
+    question: {
+      fr: "Pour mesurer ce que l'Islam a changé, il faut savoir ce qu'il a trouvé. À quoi ressemblait vraiment l'Arabie — droit, femmes, croyances — avant la révélation ?",
+      ar: 'لتُدرك ما غيَّره الإسلام، لا بدّ أن تعرف ما وجده. فكيف كانت الجزيرةُ العربية حقًّا — في القضاء، وحال المرأة، والمعتقد — قبل الوحي؟',
+      en: 'To measure what Islam changed, you must know what it found. What was Arabia really like — law, women, beliefs — before the revelation?',
+    },
+  },
+  {
+    id: 'seerah-naissance',
+    courseSlug: 'seerah-module-1',
+    lessonId: 'lesson-002',
+    kind: 'lesson',
+    question: {
+      fr: "L'année de sa naissance ﷺ, une armée entière s'est brisée devant La Mecque. Que s'est-il exactement passé — et pourquoi le Coran en a-t-il fait une sourate ?",
+      ar: 'في عام مولده ﷺ تحطَّم جيشٌ كاملٌ أمام مكّة. فماذا جرى بالضبط؟ ولماذا خصَّه القرآنُ بسورة؟',
+      en: 'In the year of his birth ﷺ, an entire army broke before Mecca. What exactly happened — and why did the Quran devote a sura to it?',
+    },
+  },
+  {
+    id: 'seerah-khadija',
+    courseSlug: 'seerah-module-1',
+    lessonId: 'lesson-005',
+    kind: 'lesson',
+    question: {
+      fr: "C'est elle qui a demandé sa main, et c'est elle qui l'a rassuré au premier jour du Waḥy. Que lui a dit exactement Khadîja رضي الله عنها ce jour-là ?",
+      ar: 'هي التي عرضت عليه الزواج، وهي التي ثبَّتته أوّلَ يومٍ من الوحي. فماذا قالت له خديجةُ رضي الله عنها في ذلك اليوم بالضبط؟',
+      en: 'She was the one who proposed, and she was the one who steadied him on the first day of revelation. What exactly did Khadija رضي الله عنها say to him that day?',
+    },
+  },
+  {
+    id: 'seerah-isra',
+    courseSlug: 'seerah-module-2',
+    lessonId: 'seerah-012',
+    kind: 'lesson',
+    question: {
+      fr: "De toutes les obligations de l'Islam, une seule a été prescrite au ciel et non sur terre. Laquelle — et pourquoi cela devrait changer votre rapport à elle ?",
+      ar: 'من بين فرائض الإسلام كلِّها، فريضةٌ واحدة فُرضت في السماء لا في الأرض. فأيُّها هي؟ ولماذا ينبغي أن يُغيّر ذلك علاقتك بها؟',
+      en: 'Of all the obligations of Islam, only one was ordained in the heavens and not on earth. Which one — and why should that change your relationship with it?',
+    },
+  },
+  {
+    id: 'seerah-mouakhat',
+    courseSlug: 'seerah-module-3',
+    lessonId: 'seerah-014',
+    kind: 'lesson',
+    question: {
+      fr: "À l'arrivée à Médine, le Prophète ﷺ a fait deux choses avant tout le reste. Lesquelles — et pourquoi la fraternité est-elle venue avant l'organisation politique ?",
+      ar: 'عند القدوم إلى المدينة بدأ النبيُّ ﷺ بأمرين قبل كلِّ شيء. فما هما؟ ولماذا سبقت المؤاخاةُ التنظيمَ السياسيَّ؟',
+      en: 'On arriving in Medina, the Prophet ﷺ did two things before anything else. Which two — and why did brotherhood come before political organisation?',
+    },
+  },
+  {
+    id: 'seerah-constitution',
+    courseSlug: 'seerah-module-3',
+    lessonId: 'seerah-015',
+    kind: 'lesson',
+    question: {
+      fr: "Un texte écrit a réglé la vie commune entre musulmans, juifs et païens à Médine — quatorze siècles avant les constitutions modernes. Que garantissait-il exactement ?",
+      ar: 'وثيقةٌ مكتوبة نظَّمت العيشَ المشترك بين المسلمين واليهود والمشركين في المدينة — قبل الدساتير الحديثة بأربعة عشر قرنًا. فماذا كانت تضمن بالضبط؟',
+      en: 'A written document governed shared life between Muslims, Jews and pagans in Medina — fourteen centuries before modern constitutions. What exactly did it guarantee?',
+    },
+  },
+
+  // ─────────────────────────────────────────────────────────────
+  // Hajj et Ramadan — entrées mobilisées par le calendrier
+  // ─────────────────────────────────────────────────────────────
+  {
+    id: 'hajj-ihram-miqat',
+    courseSlug: 'fiqh-hajj',
+    lessonId: 'lesson-003',
+    kind: 'lesson',
+    question: {
+      fr: "Franchir le miqat sans être en état d'ihram engage une réparation. Où sont-ils exactement, et que faire si l'on s'en aperçoit une fois passé ?",
+      ar: 'تجاوزُ الميقات بغير إحرامٍ يُوجب فديةً. فأين المواقيتُ بالضبط؟ وماذا تصنع إن تنبَّهت بعد تجاوزها؟',
+      en: 'Crossing the miqat without entering ihram incurs a penalty. Where exactly are they, and what do you do if you realise only after passing?',
+    },
+  },
+  {
+    id: 'hajj-arafat',
+    courseSlug: 'fiqh-hajj',
+    lessonId: 'lesson-008',
+    kind: 'lesson',
+    question: {
+      fr: "« Le Hajj, c'est Arafat. » Un seul instant manqué et le pèlerinage entier tombe. Quelle est la fenêtre exacte — et jusqu'à quand peut-on encore la rattraper ?",
+      ar: '«الحجُّ عرفة». لحظةٌ واحدة تفوت فيسقط الحجُّ كلُّه. فما وقتُ الوقوف بالضبط؟ وإلى متى يمكن إدراكه؟',
+      en: '"Hajj is Arafat." Miss that one moment and the entire pilgrimage falls. What is the exact window — and until when can it still be caught?',
+    },
+  },
+  {
+    id: 'hajj-tawaf-sai',
+    courseSlug: 'fiqh-hajj',
+    lessonId: 'lesson-007',
+    kind: 'lesson',
+    question: {
+      fr: "Sept tours, puis sept parcours entre Safa et Marwa. Que faut-il avoir fait avant de commencer, et qu'est-ce qui annule un tour sans qu'on s'en rende compte ?",
+      ar: 'سبعةُ أشواطٍ، ثمّ سبعٌ بين الصفا والمروة. فما الذي يجب قبل الشروع؟ وما الذي يُبطل الشوطَ من حيث لا تشعر؟',
+      en: 'Seven circuits, then seven passages between Safa and Marwa. What must be done before starting, and what invalidates a circuit without your noticing?',
+    },
+  },
+  {
+    id: 'siyam-laylat-al-qadr',
+    courseSlug: 'fiqh-siyam',
+    lessonId: 'lesson-009',
+    kind: 'lesson',
+    question: {
+      fr: "Une nuit vaut mieux que mille mois — soit plus de quatre-vingts ans. Comment la chercher sans se tromper de nuit, et quelle invocation le Prophète ﷺ a-t-il enseignée pour elle ?",
+      ar: 'ليلةٌ خيرٌ من ألف شهر — أي أكثر من ثمانين سنة. فكيف تُلتمَس دون أن تُخطئها؟ وأيَّ دعاءٍ علَّمه النبيُّ ﷺ لها؟',
+      en: 'One night better than a thousand months — over eighty years. How do you seek it without missing it, and which supplication did the Prophet ﷺ teach for it?',
     },
   },
 ]

@@ -1,9 +1,9 @@
 /**
  * Rotation hebdomadaire — mosquée Ar-Rayane
  *
- * Tout bascule le VENDREDI à minuit, heure de Batna, et reste figé 7 jours :
- *   - le hadith de la semaine, pris dans la banque, dans l'ordre ;
- *   - le cours de la semaine, choisi par weekly-plan (calendrier puis série).
+ * Tout bascule le VENDREDI à minuit, heure de Batna, et reste figé 7 jours.
+ * L'unité de la semaine est UNE LEÇON : quelque chose qu'on finit, et sur
+ * quoi une question peut être précise. Le parcours n'est que le contexte.
  *
  * Rotation déterministe : même semaine = même contenu pour tout le monde,
  * ce qui permet de servir la page en ISR et rend l'affichage reproductible.
@@ -11,12 +11,12 @@
 
 import { coursesData } from '@/lib/data/courses/index'
 import type { Locale } from '@/locales'
-import { hadithBank } from './hadith-bank'
+import { lessonEntries } from './lesson-entries'
 import {
-  courseHooks,
-  courseSequence,
+  parcoursSequence,
   seasonalPlan,
   PRIMING_SEQUENCE_WEEKS,
+  type Parcours,
 } from './weekly-plan'
 import type { BankEntry, LocalizedText } from './types'
 
@@ -38,10 +38,13 @@ const ANCHOR_DAY_NUMBER = Math.floor(
 /** Garde-fou : au-delà, on cesse de dérouler l'historique semaine par semaine. */
 const MAX_WEEKS_SCANNED = 2600 // ~50 ans
 
-/**
- * Numéro de jour absolu dans le fuseau de Batna.
- * Change à minuit heure locale.
- */
+const entriesById = new Map(lessonEntries.map(e => [e.id, e]))
+
+// ───────────────────────────────────────────────────────────────
+// Repères temporels
+// ───────────────────────────────────────────────────────────────
+
+/** Numéro de jour absolu dans le fuseau de Batna. */
 export function getAlgeriaDayNumber(date: Date = new Date()): number {
   return Math.floor((date.getTime() + ALGERIA_UTC_OFFSET_MS) / MS_PER_DAY)
 }
@@ -61,7 +64,7 @@ function firstDayOfWeek(weekIndex: number): number {
   return ANCHOR_DAY_NUMBER + weekIndex * DAYS_PER_WEEK
 }
 
-/** Instant situé en milieu de journée, pour lire un mois hégirien sans effet de bord. */
+/** Instant en milieu de journée, pour lire un mois hégirien sans effet de bord. */
 function noonOfDay(dayNumber: number): Date {
   return new Date(dayNumber * MS_PER_DAY - ALGERIA_UTC_OFFSET_MS + MS_PER_DAY / 2)
 }
@@ -87,35 +90,62 @@ export function formatHijriDate(locale: Locale, date: Date = new Date()): string
   }).format(date)
 }
 
+/** Bornes de la semaine courante : « vendredi 7 août → jeudi 13 août ». */
+export function formatWeekRange(locale: Locale, date: Date = new Date()): string {
+  const start = firstDayOfWeek(getWeekIndex(date))
+
+  const fmt = new Intl.DateTimeFormat(LOCALE_TAGS[locale], {
+    weekday: 'long',
+    day: 'numeric',
+    month: 'long',
+    timeZone: 'Africa/Algiers',
+  })
+
+  return `${fmt.format(noonOfDay(start))} → ${fmt.format(noonOfDay(start + 6))}`
+}
+
 // ───────────────────────────────────────────────────────────────
-// Hadith de la semaine
+// Résolution d'une entrée vers la leçon réelle
 // ───────────────────────────────────────────────────────────────
 
-export interface WeeklyHadith {
+export interface WeeklyLesson {
   entry: BankEntry
+  /** Titre de la leçon dans les 3 langues, lu depuis les données du cours */
   lessonTitle: LocalizedText
   courseTitle: LocalizedText
   lessonDuration: string
-  /** Chemin sans préfixe de langue, ex. /courses/sciences-hadith/lessons/lesson-001 */
+  /** Chemin de la leçon, sans préfixe de langue */
   path: string
-  /** Rang dans le cycle, de 1 à cycleLength */
-  weekInCycle: number
-  cycleLength: number
+  /** Chemin du cours, pour « voir tout le parcours » */
+  coursePath: string
+  /** Nom du parcours dont fait partie cette leçon */
+  parcoursName: LocalizedText
+  /** Rang dans le parcours, à partir de 1 */
+  positionInParcours: number
+  parcoursLength: number
+  /** Renseigné quand le mois hégirien impose ce parcours */
+  seasonalReason: LocalizedText | null
 }
 
 /**
  * Résout une entrée vers la leçon réelle.
- * Renvoie null si le cours ou la leçon n'existe plus : l'appelant passe alors
- * à l'entrée suivante plutôt que d'afficher un lien mort.
+ * Renvoie null si l'entrée, le cours ou la leçon n'existe plus : l'appelant
+ * passe alors à la suivante plutôt que d'afficher un lien mort.
  */
-export function resolveEntry(entry: BankEntry): WeeklyHadith | null {
+export function resolveEntry(
+  entryId: string,
+  parcours: Parcours,
+  positionInParcours: number,
+  seasonalReason: LocalizedText | null
+): WeeklyLesson | null {
+  const entry = entriesById.get(entryId)
+  if (!entry) return null
+
   const course = coursesData.find(c => c.slug === entry.courseSlug && c.published)
   if (!course) return null
 
   const lesson = course.lessons.find(l => l.id === entry.lessonId)
   if (!lesson) return null
-
-  const bankIndex = hadithBank.findIndex(e => e.id === entry.id)
 
   return {
     entry,
@@ -123,82 +153,34 @@ export function resolveEntry(entry: BankEntry): WeeklyHadith | null {
     courseTitle: course.title as LocalizedText,
     lessonDuration: lesson.duration,
     path: `/courses/${course.slug}/lessons/${lesson.id}`,
-    weekInCycle: bankIndex >= 0 ? bankIndex + 1 : 1,
-    cycleLength: hadithBank.length,
-  }
-}
-
-/** L'entrée de la banque correspondant à cette semaine. */
-export function getWeeklyEntry(date: Date = new Date()): BankEntry {
-  return hadithBank[getWeekIndex(date) % hadithBank.length]
-}
-
-/**
- * Hadith de la semaine, déjà résolu.
- * Si l'entrée pointe vers une leçon disparue, on avance dans la banque
- * jusqu'à en trouver une valide — la page reste toujours affichable.
- */
-export function getWeeklyHadith(date: Date = new Date()): WeeklyHadith {
-  const start = getWeekIndex(date) % hadithBank.length
-
-  for (let offset = 0; offset < hadithBank.length; offset++) {
-    const resolved = resolveEntry(hadithBank[(start + offset) % hadithBank.length])
-    if (resolved) return resolved
-  }
-
-  throw new Error(
-    'Banque mosquée : aucune entrée ne pointe vers une leçon publiée. ' +
-      'Vérifier les courseSlug / lessonId dans hadith-bank.ts.'
-  )
-}
-
-// ───────────────────────────────────────────────────────────────
-// Cours de la semaine
-// ───────────────────────────────────────────────────────────────
-
-export interface WeeklyCourse {
-  slug: string
-  title: LocalizedText
-  description: LocalizedText
-  hook: LocalizedText
-  lessonsCount: number
-  duration: string
-  /** Chemin sans préfixe de langue, ex. /courses/aqeedah-islamique */
-  path: string
-  /** Renseigné quand le mois hégirien impose ce cours */
-  seasonalReason: LocalizedText | null
-  /** Rang dans la série ; null pendant une semaine saisonnière */
-  positionInSequence: number | null
-  sequenceLength: number
-}
-
-function buildWeeklyCourse(
-  slug: string,
-  seasonalReason: LocalizedText | null,
-  positionInSequence: number | null
-): WeeklyCourse | null {
-  const course = coursesData.find(c => c.slug === slug && c.published)
-  if (!course) return null
-
-  return {
-    slug: course.slug,
-    title: course.title as LocalizedText,
-    description: course.description as LocalizedText,
-    hook: courseHooks[slug] ?? (course.description as LocalizedText),
-    lessonsCount: course.lessons.length,
-    duration: course.duration,
-    path: `/courses/${course.slug}`,
+    coursePath: `/courses/${course.slug}`,
+    parcoursName: parcours.name,
+    positionInParcours,
+    parcoursLength: parcours.entryIds.length,
     seasonalReason,
-    positionInSequence,
-    sequenceLength: courseSequence.length,
   }
 }
+
+// ───────────────────────────────────────────────────────────────
+// Sélection de la semaine
+// ───────────────────────────────────────────────────────────────
+
+/** La série mise à plat : une case = une semaine. */
+const flatSequence: { parcours: Parcours; entryId: string; position: number }[] =
+  parcoursSequence.flatMap(parcours =>
+    parcours.entryIds.map((entryId, index) => ({
+      parcours,
+      entryId,
+      position: index + 1,
+    }))
+  )
+
+export const SEQUENCE_LENGTH = flatSequence.length
 
 /**
  * Le créneau saisonnier qui s'applique à cette semaine, s'il y en a un.
- * Pendant les premières semaines du planning, la série passe avant le
- * calendrier : sans cela, un mois imposé tombant juste après le lancement
- * couperait la série de aqida au bout d'une semaine.
+ * Pendant les premières semaines, la série passe avant le calendrier : sans
+ * cela, un mois imposé tombant juste après le lancement couperait la aqida.
  */
 function seasonalSlotForWeek(weekIndex: number) {
   if (weekIndex < PRIMING_SEQUENCE_WEEKS) return undefined
@@ -207,8 +189,8 @@ function seasonalSlotForWeek(weekIndex: number) {
 
 /**
  * Rang de la semaine à l'intérieur de son mois hégirien, à partir de 0.
- * Sert à faire tourner les cours d'un même mois : un mois couvre 4 à 5
- * semaines, la page ne doit pas rester figée sur le même cours tout du long.
+ * Sert à faire tourner les leçons d'un même mois : un mois couvre 4 à 5
+ * semaines, la page ne doit pas rester figée sur la même leçon.
  */
 function weekWithinHijriMonth(weekIndex: number): number {
   const month = getHijriMonth(noonOfDay(firstDayOfWeek(weekIndex)))
@@ -241,80 +223,69 @@ function sequenceStepsBefore(weekIndex: number): number {
   return steps
 }
 
+/** La leçon de la série au rang donné, en sautant les entrées cassées. */
+function lessonFromSequence(steps: number): WeeklyLesson | null {
+  for (let offset = 0; offset < flatSequence.length; offset++) {
+    const slot = flatSequence[(steps + offset) % flatSequence.length]
+    const lesson = resolveEntry(slot.entryId, slot.parcours, slot.position, null)
+    if (lesson) return lesson
+  }
+  return null
+}
+
 /**
- * Cours de la semaine.
- * Le calendrier prime : si le mois hégirien courant a des cours attitrés, on
+ * La leçon de la semaine.
+ * Le calendrier prime : si le mois hégirien courant a un parcours attitré, on
  * tourne dedans. Sinon on avance d'un cran dans la série (aqida, puis hadith,
  * puis le reste).
  */
-export function getWeeklyCourse(date: Date = new Date()): WeeklyCourse {
+export function getWeeklyLesson(date: Date = new Date()): WeeklyLesson {
   const weekIndex = getWeekIndex(date)
   const slot = seasonalSlotForWeek(weekIndex)
 
-  if (slot && slot.courseSlugs.length > 0) {
-    const start = weekWithinHijriMonth(weekIndex) % slot.courseSlugs.length
+  if (slot && slot.parcours.entryIds.length > 0) {
+    const { entryIds } = slot.parcours
+    const start = weekWithinHijriMonth(weekIndex) % entryIds.length
 
-    // Un cours saisonnier peut avoir été dépublié : on prend le suivant du mois
-    for (let offset = 0; offset < slot.courseSlugs.length; offset++) {
-      const slug = slot.courseSlugs[(start + offset) % slot.courseSlugs.length]
-      const seasonal = buildWeeklyCourse(slug, slot.reason, null)
-      if (seasonal) return seasonal
+    for (let offset = 0; offset < entryIds.length; offset++) {
+      const position = (start + offset) % entryIds.length
+      const lesson = resolveEntry(
+        entryIds[position],
+        slot.parcours,
+        position + 1,
+        slot.reason
+      )
+      if (lesson) return lesson
     }
-    // Aucun cours du mois n'est publié : on retombe sur la série
+    // Aucune leçon du mois n'est résolvable : on retombe sur la série
   }
 
-  const steps = sequenceStepsBefore(weekIndex)
-
-  // Un slug de la série peut avoir été dépublié : on avance jusqu'au suivant
-  for (let offset = 0; offset < courseSequence.length; offset++) {
-    const position = (steps + offset) % courseSequence.length
-    const course = buildWeeklyCourse(courseSequence[position], null, position + 1)
-    if (course) return course
-  }
+  const lesson = lessonFromSequence(sequenceStepsBefore(weekIndex))
+  if (lesson) return lesson
 
   throw new Error(
-    'Série mosquée : aucun cours de courseSequence n’est publié. ' +
-      'Vérifier les slugs dans weekly-plan.ts.'
+    'Plan mosquée : aucune entrée de parcoursSequence ne pointe vers une leçon ' +
+      'publiée. Vérifier les ids dans weekly-plan.ts et lesson-entries.ts.'
   )
 }
 
-// ───────────────────────────────────────────────────────────────
-// Affichage
-// ───────────────────────────────────────────────────────────────
-
-/** Bornes de la semaine courante : « vendredi 7 août → jeudi 13 août ». */
-export function formatWeekRange(locale: Locale, date: Date = new Date()): string {
-  const start = firstDayOfWeek(getWeekIndex(date))
-
-  const fmt = new Intl.DateTimeFormat(LOCALE_TAGS[locale], {
-    weekday: 'long',
-    day: 'numeric',
-    month: 'long',
-    timeZone: 'Africa/Algiers',
-  })
-
-  return `${fmt.format(noonOfDay(start))} → ${fmt.format(noonOfDay(start + 6))}`
-}
-
-/** Prochains cours de la série, pour la section « à venir ». */
-export function getUpcomingCourses(count: number, date: Date = new Date()): WeeklyCourse[] {
-  const out: WeeklyCourse[] = []
+/** Prochaines leçons de la série, pour la section « à venir ». */
+export function getUpcomingLessons(count: number, date: Date = new Date()): WeeklyLesson[] {
+  const out: WeeklyLesson[] = []
   const weekIndex = getWeekIndex(date)
   const steps = sequenceStepsBefore(weekIndex)
-  const isSeasonal = Boolean(seasonalSlotForWeek(weekIndex))
 
-  // Une semaine saisonnière ne consomme pas de cran : le prochain de la série
-  // est celui pointé par `steps`, pas le suivant.
-  const from = isSeasonal ? steps : steps + 1
+  // Une semaine saisonnière ne consomme pas de cran : la prochaine de la série
+  // est celle pointée par `steps`, pas la suivante.
+  const from = seasonalSlotForWeek(weekIndex) ? steps : steps + 1
 
-  for (let i = 0; out.length < count && i < courseSequence.length; i++) {
-    const position = (from + i) % courseSequence.length
-    const course = buildWeeklyCourse(courseSequence[position], null, position + 1)
-    if (course) out.push(course)
+  for (let i = 0; out.length < count && i < flatSequence.length; i++) {
+    const lesson = lessonFromSequence(from + i)
+    if (lesson && !out.some(l => l.path === lesson.path)) out.push(lesson)
   }
 
   return out
 }
 
-export { hadithBank }
+export { lessonEntries }
 export type { BankEntry }

@@ -1,20 +1,18 @@
 import { describe, it, expect } from 'vitest'
 import { coursesData } from '@/lib/data/courses/index'
-import { hadithBank } from '@/lib/data/mosquees/hadith-bank'
+import { lessonEntries } from '@/lib/data/mosquees/lesson-entries'
 import {
-  courseHooks,
-  courseSequence,
+  parcoursSequence,
   seasonalPlan,
   PRIMING_SEQUENCE_WEEKS,
 } from '@/lib/data/mosquees/weekly-plan'
 import {
   getWeekIndex,
   getHijriMonth,
-  getWeeklyEntry,
-  getWeeklyHadith,
-  getWeeklyCourse,
-  getUpcomingCourses,
+  getWeeklyLesson,
+  getUpcomingLessons,
   resolveEntry,
+  SEQUENCE_LENGTH,
 } from '@/lib/data/mosquees/weekly'
 
 const LOCALES = ['fr', 'ar', 'en'] as const
@@ -27,15 +25,20 @@ function weeksAfterAnchor(n: number): Date {
   return new Date(ANCHOR.getTime() + n * WEEK_MS)
 }
 
-describe('banque hebdomadaire', () => {
+const allPlannedIds = [
+  ...parcoursSequence.flatMap(p => p.entryIds),
+  ...Object.values(seasonalPlan).flatMap(s => s.parcours.entryIds),
+]
+
+describe('catalogue de leçons', () => {
   it('ne contient aucun id dupliqué', () => {
-    const ids = hadithBank.map(e => e.id)
+    const ids = lessonEntries.map(e => e.id)
     expect(new Set(ids).size).toBe(ids.length)
   })
 
   // Un slug ou un lessonId mal recopié produirait un lien mort affiché en
   // évidence sur la page. On vérifie toutes les entrées.
-  it.each(hadithBank.map(e => [e.id, e] as const))(
+  it.each(lessonEntries.map(e => [e.id, e] as const))(
     "l'entrée %s pointe vers une leçon publiée",
     (_id, entry) => {
       const course = coursesData.find(c => c.slug === entry.courseSlug)
@@ -48,7 +51,7 @@ describe('banque hebdomadaire', () => {
   )
 
   it('fournit question et citation dans les 3 langues', () => {
-    for (const entry of hadithBank) {
+    for (const entry of lessonEntries) {
       for (const locale of LOCALES) {
         expect(entry.question[locale]?.trim(), `${entry.id}.question.${locale}`).toBeTruthy()
       }
@@ -66,73 +69,56 @@ describe('banque hebdomadaire', () => {
 })
 
 describe('plan hebdomadaire', () => {
-  it.each(courseSequence.map(slug => [slug] as const))(
-    'le cours %s de la série est publié',
-    slug => {
-      const course = coursesData.find(c => c.slug === slug)
-      expect(course, `cours introuvable : ${slug}`).toBeDefined()
-      expect(course!.published, `cours dépublié : ${slug}`).toBe(true)
+  // Le plan référence les entrées par id : une faute de frappe passerait
+  // silencieusement sans cette vérification.
+  it.each(Array.from(new Set(allPlannedIds)).map(id => [id] as const))(
+    "l'id %s référencé par le plan existe au catalogue",
+    id => {
+      expect(lessonEntries.find(e => e.id === id), `id inconnu : ${id}`).toBeDefined()
     }
   )
 
-  it.each(Object.entries(seasonalPlan))(
-    'les cours du mois hégirien %s sont publiés',
-    (_month, slot) => {
-      expect(slot.courseSlugs.length).toBeGreaterThan(0)
+  it('ne diffuse pas deux fois la même leçon dans la série', () => {
+    const ids = parcoursSequence.flatMap(p => p.entryIds)
+    expect(new Set(ids).size).toBe(ids.length)
+  })
 
-      for (const slug of slot.courseSlugs) {
-        const course = coursesData.find(c => c.slug === slug)
-        expect(course, `cours introuvable : ${slug}`).toBeDefined()
-        expect(course!.published, `cours dépublié : ${slug}`).toBe(true)
-      }
-
+  it('nomme chaque parcours dans les 3 langues', () => {
+    const all = [...parcoursSequence, ...Object.values(seasonalPlan).map(s => s.parcours)]
+    for (const parcours of all) {
+      expect(parcours.entryIds.length, `${parcours.id} est vide`).toBeGreaterThan(0)
       for (const locale of LOCALES) {
-        expect(slot.reason[locale]?.trim()).toBeTruthy()
+        expect(parcours.name[locale]?.trim(), `${parcours.id}.name.${locale}`).toBeTruthy()
       }
     }
-  )
-
-  it('ne place aucun doublon dans la série', () => {
-    expect(new Set(courseSequence).size).toBe(courseSequence.length)
   })
 
-  // Le cours PRINCIPAL d'un mois reviendrait deux fois par cycle s'il était
-  // aussi dans la série. Les cours secondaires du mois, eux, peuvent y figurer :
-  // les revoir au bon moment de l'année est voulu.
-  it('ne met aucun cours principal de mois dans la série', () => {
-    const primarySlugs = Object.values(seasonalPlan).map(s => s.courseSlugs[0])
-    for (const slug of courseSequence) {
-      expect(primarySlugs, `${slug} est à la fois cours principal d'un mois et dans la série`).not.toContain(slug)
-    }
-  })
-
-  it('fournit un hook en 3 langues pour chaque cours du plan', () => {
-    const all = [...courseSequence, ...Object.values(seasonalPlan).flatMap(s => s.courseSlugs)]
-    for (const slug of Array.from(new Set(all))) {
-      expect(courseHooks[slug], `hook manquant : ${slug}`).toBeDefined()
+  it('explique chaque mois imposé dans les 3 langues', () => {
+    for (const [month, slot] of Object.entries(seasonalPlan)) {
       for (const locale of LOCALES) {
-        expect(courseHooks[slug][locale]?.trim(), `${slug}.hook.${locale}`).toBeTruthy()
+        expect(slot.reason[locale]?.trim(), `mois ${month}.reason.${locale}`).toBeTruthy()
       }
     }
   })
 
-  it('commence la série par la aqida puis les sciences du hadith', () => {
-    expect(courseSequence.slice(0, 4)).toEqual([
-      'aqeedah-islamique',
-      'aqeedah-niveau-2',
-      'aqeedah-avancee',
-      'sectes-refutations',
-    ])
-    expect(courseSequence.slice(4, 6)).toEqual(['sciences-hadith', 'mustalah-hadith'])
+  it('commence par le parcours Aqida puis le parcours Hadith', () => {
+    expect(parcoursSequence[0].id).toBe('aqida')
+    expect(parcoursSequence[1].id).toBe('hadith')
+  })
+
+  // L'amorçage doit couvrir le parcours Aqida en entier, sinon le calendrier
+  // le coupe en plein milieu.
+  it('couvre le parcours Aqida entier par la période d’amorçage', () => {
+    expect(PRIMING_SEQUENCE_WEEKS).toBe(parcoursSequence[0].entryIds.length)
   })
 })
 
 describe('rotation hebdomadaire', () => {
-  it('garde le même contenu du vendredi au jeudi suivant', () => {
+  it('garde la même leçon du vendredi au jeudi suivant', () => {
     const friday = new Date('2026-08-07T06:00:00Z')
     const thursday = new Date('2026-08-13T21:00:00Z')
     expect(getWeekIndex(friday)).toBe(getWeekIndex(thursday))
-    expect(getWeeklyEntry(friday).id).toBe(getWeeklyEntry(thursday).id)
+    expect(getWeeklyLesson(friday).path).toBe(getWeeklyLesson(thursday).path)
   })
 
   it('bascule le vendredi suivant, pas avant', () => {
@@ -148,119 +134,110 @@ describe('rotation hebdomadaire', () => {
     expect(getWeekIndex(new Date('2026-07-01T10:00:00Z'))).toBe(0)
   })
 
-  it('couvre toute la banque sur un cycle complet, sans répétition', () => {
-    const seen = new Set<string>()
-    for (let w = 0; w < hadithBank.length; w++) {
-      seen.add(getWeeklyEntry(weeksAfterAnchor(w)).id)
-    }
-    expect(seen.size).toBe(hadithBank.length)
-  })
-
-  it('résout toujours un hadith affichable', () => {
-    const resolved = getWeeklyHadith(ANCHOR)
-    expect(resolved.path).toMatch(/^\/courses\/[\w-]+\/lessons\/[\w-]+$/)
+  it('résout toujours une leçon affichable', () => {
+    const lesson = getWeeklyLesson(ANCHOR)
+    expect(lesson.path).toMatch(/^\/courses\/[\w-]+\/lessons\/[\w-]+$/)
+    expect(lesson.coursePath).toMatch(/^\/courses\/[\w-]+$/)
     for (const locale of LOCALES) {
-      expect(resolved.lessonTitle[locale]).toBeTruthy()
+      expect(lesson.lessonTitle[locale]).toBeTruthy()
+      expect(lesson.parcoursName[locale]).toBeTruthy()
     }
   })
 
-  it('renvoie null pour une entrée pointant vers une leçon inexistante', () => {
+  it('renvoie null pour un id absent du catalogue', () => {
     expect(
-      resolveEntry({
-        id: 'test',
-        courseSlug: 'sciences-hadith',
-        lessonId: 'lesson-inexistante',
-        kind: 'lesson',
-        question: { fr: 'q', ar: 'q', en: 'q' },
-      })
+      resolveEntry('id-inexistant', parcoursSequence[0], 1, null)
     ).toBeNull()
   })
 })
 
-describe('cours de la semaine', () => {
-  it('démarre par le premier cours de aqida', () => {
-    // Août 2026 = Safar, mois sans cours imposé : la série démarre
-    expect(getHijriMonth(ANCHOR)).toBe(2)
-    const course = getWeeklyCourse(ANCHOR)
-    expect(course.slug).toBe('aqeedah-islamique')
-    expect(course.positionInSequence).toBe(1)
-    expect(course.seasonalReason).toBeNull()
-  })
+describe('leçon de la semaine', () => {
+  it('déroule le parcours Aqida en entier au lancement, sans interruption', () => {
+    const aqida = parcoursSequence[0]
 
-  // L'amorçage garantit que les 4 cours de aqida passent en entier, même si
-  // un mois imposé tombe juste après le lancement (c'est le cas : Rabi' I).
-  it('enchaîne les 4 cours de aqida au lancement, sans interruption', () => {
-    expect(getWeeklyCourse(weeksAfterAnchor(0)).slug).toBe('aqeedah-islamique')
-    expect(getWeeklyCourse(weeksAfterAnchor(1)).slug).toBe('aqeedah-niveau-2')
-    expect(getWeeklyCourse(weeksAfterAnchor(2)).slug).toBe('aqeedah-avancee')
-    expect(getWeeklyCourse(weeksAfterAnchor(3)).slug).toBe('sectes-refutations')
-
-    for (let w = 0; w < PRIMING_SEQUENCE_WEEKS; w++) {
-      expect(getWeeklyCourse(weeksAfterAnchor(w)).seasonalReason).toBeNull()
+    for (let w = 0; w < aqida.entryIds.length; w++) {
+      const lesson = getWeeklyLesson(weeksAfterAnchor(w))
+      expect(lesson.entry.id, `semaine ${w}`).toBe(aqida.entryIds[w])
+      expect(lesson.parcoursName.fr).toBe('Parcours Aqida')
+      expect(lesson.positionInParcours).toBe(w + 1)
+      expect(lesson.seasonalReason).toBeNull()
     }
   })
 
-  it("laisse le calendrier reprendre la main après l'amorçage", () => {
-    // Semaine 4 = septembre 2026 = Rabi' al-Awwal : le mois s'impose
-    const afterPriming = weeksAfterAnchor(PRIMING_SEQUENCE_WEEKS)
-    expect(getHijriMonth(afterPriming)).toBe(3)
-    expect(getWeeklyCourse(afterPriming).seasonalReason).not.toBeNull()
+  it("enchaîne sur le parcours Hadith juste après la aqida", () => {
+    const lesson = getWeeklyLesson(weeksAfterAnchor(PRIMING_SEQUENCE_WEEKS))
+    expect(lesson.parcoursName.fr).toBe('Parcours Hadith')
+    expect(lesson.positionInParcours).toBe(1)
+  })
+
+  it("laisse le calendrier reprendre la main une fois l'amorçage passé", () => {
+    // Décembre 2026 = Rajab : le mois s'impose
+    const rajab = new Date('2026-12-11T10:00:00Z')
+    expect(getWeekIndex(rajab)).toBeGreaterThanOrEqual(PRIMING_SEQUENCE_WEEKS)
+    expect(getHijriMonth(rajab)).toBe(7)
+    expect(getWeeklyLesson(rajab).seasonalReason).not.toBeNull()
   })
 
   // Le point central du modèle demandé : le calendrier prime sur la série.
-  it('impose le cours du jeûne pendant Ramadan', () => {
+  it('impose le jeûne pendant Ramadan', () => {
     const ramadan = new Date('2027-02-15T10:00:00Z')
     expect(getHijriMonth(ramadan)).toBe(9)
 
-    const course = getWeeklyCourse(ramadan)
-    expect(seasonalPlan[9].courseSlugs).toContain(course.slug)
-    expect(course.seasonalReason).not.toBeNull()
-    expect(course.positionInSequence).toBeNull()
+    const lesson = getWeeklyLesson(ramadan)
+    expect(seasonalPlan[9].parcours.entryIds).toContain(lesson.entry.id)
+    expect(lesson.seasonalReason).not.toBeNull()
+  })
+
+  it('impose le pèlerinage pendant Dhul-Hijja', () => {
+    const dhulHijja = new Date('2027-05-15T10:00:00Z')
+    expect(getHijriMonth(dhulHijja)).toBe(12)
+    expect(seasonalPlan[12].parcours.entryIds).toContain(getWeeklyLesson(dhulHijja).entry.id)
   })
 
   // Un mois couvre 4 à 5 semaines : la page ne doit pas rester figée dessus.
-  it('fait tourner les cours à l\'intérieur d\'un mois imposé', () => {
-    const ramadanWeeks: string[] = []
+  it("fait tourner les leçons à l'intérieur d'un mois imposé", () => {
+    const ramadanLessons: string[] = []
     for (let w = PRIMING_SEQUENCE_WEEKS; w < 120; w++) {
       const d = weeksAfterAnchor(w)
-      if (getHijriMonth(d) === 9) ramadanWeeks.push(getWeeklyCourse(d).slug)
+      if (getHijriMonth(d) === 9) ramadanLessons.push(getWeeklyLesson(d).entry.id)
     }
 
-    expect(ramadanWeeks.length).toBeGreaterThan(1)
-    expect(new Set(ramadanWeeks).size).toBeGreaterThan(1)
+    expect(ramadanLessons.length).toBeGreaterThan(1)
+    expect(new Set(ramadanLessons).size).toBeGreaterThan(1)
   })
 
-  it('impose le cours du pèlerinage pendant Dhul-Hijja', () => {
-    const dhulHijja = new Date('2027-05-15T10:00:00Z')
-    expect(getHijriMonth(dhulHijja)).toBe(12)
-    expect(seasonalPlan[12].courseSlugs).toContain(getWeeklyCourse(dhulHijja).slug)
-  })
-
-  // Sans cela, un long mois imposé ferait « sauter » plusieurs cours.
+  // Sans cela, un long mois imposé ferait « sauter » plusieurs leçons.
   it('ne fait pas avancer la série pendant les semaines imposées', () => {
     let seasonalWeek = -1
     for (let w = PRIMING_SEQUENCE_WEEKS; w < 120; w++) {
-      if (getWeeklyCourse(weeksAfterAnchor(w)).seasonalReason) {
+      if (getWeeklyLesson(weeksAfterAnchor(w)).seasonalReason) {
         seasonalWeek = w
         break
       }
     }
-    expect(seasonalWeek, 'aucune semaine saisonnière trouvée en 120 semaines').toBeGreaterThan(0)
+    expect(seasonalWeek, 'aucune semaine saisonnière trouvée').toBeGreaterThan(0)
 
-    const before = getUpcomingCourses(1, weeksAfterAnchor(seasonalWeek - 1))[0]
-    const during = getUpcomingCourses(1, weeksAfterAnchor(seasonalWeek))[0]
-    expect(during.slug).toBe(before.slug)
+    const before = getUpcomingLessons(1, weeksAfterAnchor(seasonalWeek - 1))[0]
+    const during = getUpcomingLessons(1, weeksAfterAnchor(seasonalWeek))[0]
+    expect(during.path).toBe(before.path)
   })
 
-  it('propose 3 cours à venir, tous distincts', () => {
-    const upcoming = getUpcomingCourses(3, ANCHOR)
+  it('parcourt toute la série sans répétition sur un cycle complet', () => {
+    // On ne compte que les semaines de série : les mois imposés n'avancent pas.
+    const seen = new Set<string>()
+    for (let w = 0; w < 400 && seen.size < SEQUENCE_LENGTH; w++) {
+      const lesson = getWeeklyLesson(weeksAfterAnchor(w))
+      if (!lesson.seasonalReason) seen.add(lesson.entry.id)
+    }
+    expect(seen.size).toBe(SEQUENCE_LENGTH)
+  })
+
+  it('propose 3 leçons à venir, toutes distinctes et différentes de la courante', () => {
+    const current = getWeeklyLesson(ANCHOR)
+    const upcoming = getUpcomingLessons(3, ANCHOR)
+
     expect(upcoming).toHaveLength(3)
-    expect(new Set(upcoming.map(c => c.slug)).size).toBe(3)
-  })
-
-  it('ne propose pas le cours déjà affiché cette semaine', () => {
-    const current = getWeeklyCourse(ANCHOR)
-    const upcoming = getUpcomingCourses(3, ANCHOR)
-    expect(upcoming.map(c => c.slug)).not.toContain(current.slug)
+    expect(new Set(upcoming.map(l => l.path)).size).toBe(3)
+    expect(upcoming.map(l => l.path)).not.toContain(current.path)
   })
 })

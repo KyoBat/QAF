@@ -2,30 +2,22 @@ import { describe, it, expect } from 'vitest'
 import { render, screen } from '@testing-library/react'
 import { MosqueeWeekly } from '@/components/mosquee/MosqueeWeekly'
 import { arRayaneMosquee } from '@/lib/data/mosquees/ar-rayane'
-import { hadithBank } from '@/lib/data/mosquees/hadith-bank'
-import {
-  resolveEntry,
-  getWeeklyCourse,
-  type WeeklyHadith,
-  type WeeklyCourse,
-} from '@/lib/data/mosquees/weekly'
+import { parcoursSequence } from '@/lib/data/mosquees/weekly-plan'
+import { resolveEntry, getWeeklyLesson, type WeeklyLesson } from '@/lib/data/mosquees/weekly'
 
-const ANCHOR = new Date('2026-08-07T10:00:00Z')
-
-function hadithFor(id: string): WeeklyHadith {
-  const entry = hadithBank.find(e => e.id === id)!
-  const out = resolveEntry(entry)!
-  expect(out).not.toBeNull()
+/** Construit une leçon de série à partir de son id d'entrée. */
+function lessonFor(entryId: string): WeeklyLesson {
+  const out = resolveEntry(entryId, parcoursSequence[0], 1, null)!
+  expect(out, `entrée introuvable : ${entryId}`).not.toBeNull()
   return out
 }
 
-/** Cours de série (semaine d'amorçage) et cours imposé par le mois. */
-const seriesCourse: WeeklyCourse = getWeeklyCourse(ANCHOR)
-const seasonalCourse: WeeklyCourse = getWeeklyCourse(new Date('2026-09-04T10:00:00Z'))
+/** Semaine imposée par le mois (Rajab). */
+const seasonalLesson = getWeeklyLesson(new Date('2026-12-11T10:00:00Z'))
 
 const baseProps = {
   mosquee: arRayaneMosquee,
-  upcomingCourses: [],
+  upcoming: [],
   weekRange: 'vendredi 7 août → jeudi 13 août',
   hijriDate: '22 safar 1448 AH',
   pageUrl: 'https://www.tahalearn.com/fr/mosquees/ar-rayane-batna',
@@ -33,104 +25,67 @@ const baseProps = {
 }
 
 describe('rendu de la page mosquée', () => {
-  it('affiche le cours de la semaine et son accroche', () => {
-    render(
-      <MosqueeWeekly
-        locale="fr"
-        course={seriesCourse}
-        hadith={hadithFor('hadith-niyyah')}
-        {...baseProps}
-      />
-    )
+  it('affiche la leçon de la semaine, sa question et son parcours', () => {
+    const lesson = lessonFor('aqeedah-piliers-foi')
+    render(<MosqueeWeekly locale="fr" lesson={lesson} {...baseProps} />)
 
-    expect(screen.getByText('Le cours de la semaine')).toBeInTheDocument()
-    expect(screen.getByText(seriesCourse.title.fr)).toBeInTheDocument()
-    expect(screen.getByText(seriesCourse.hook.fr)).toBeInTheDocument()
-    expect(screen.getByRole('link', { name: /Commencer le cours/ })).toHaveAttribute(
+    expect(screen.getByText('La leçon de la semaine')).toBeInTheDocument()
+    expect(screen.getByText(lesson.lessonTitle.fr)).toBeInTheDocument()
+    expect(screen.getByText(/Parcours Aqida · 1 \/ 6/)).toBeInTheDocument()
+    expect(screen.getByRole('link', { name: /Lire la leçon/ })).toHaveAttribute(
       'href',
-      `/fr/courses/${seriesCourse.slug}`
+      `/fr${lesson.path}`
     )
   })
 
-  it('montre le rang dans la série, mais pas quand le mois impose le cours', () => {
-    const { unmount } = render(
-      <MosqueeWeekly
-        locale="fr"
-        course={seriesCourse}
-        hadith={hadithFor('hadith-niyyah')}
-        {...baseProps}
-      />
-    )
-    expect(screen.getByText(/Série ·/)).toBeInTheDocument()
-    unmount()
+  // Le cours reste accessible, mais ne doit pas concurrencer la lecture.
+  it('renvoie vers le cours entier par un lien discret, pas un bouton', () => {
+    const lesson = lessonFor('aqeedah-piliers-foi')
+    render(<MosqueeWeekly locale="fr" lesson={lesson} {...baseProps} />)
 
-    render(
-      <MosqueeWeekly
-        locale="fr"
-        course={seasonalCourse}
-        hadith={hadithFor('hadith-niyyah')}
-        {...baseProps}
-      />
-    )
-    expect(screen.queryByText(/Série ·/)).toBeNull()
-    expect(screen.getByText(seasonalCourse.seasonalReason!.fr)).toBeInTheDocument()
+    const courseLink = screen.getByRole('link', { name: 'Voir tout le parcours' })
+    expect(courseLink).toHaveAttribute('href', `/fr${lesson.coursePath}`)
+    expect(courseLink.className).not.toMatch(/bg-primary/)
   })
 
-  // Les semaines « hadith » sont la moitié de la banque : la citation, sa
-  // traduction et son takhrij doivent apparaître.
   it('affiche citation, traduction et source pour une entrée hadith', () => {
-    render(
-      <MosqueeWeekly
-        locale="fr"
-        course={seriesCourse}
-        hadith={hadithFor('hadith-niyyah')}
-        {...baseProps}
-      />
-    )
+    render(<MosqueeWeekly locale="fr" lesson={lessonFor('hadith-niyyah')} {...baseProps} />)
 
     expect(screen.getByText(/إِنَّمَا الأَعْمَالُ بِالنِّيَّاتِ/)).toBeInTheDocument()
     expect(screen.getByText(/Les actes ne valent que par les intentions/)).toBeInTheDocument()
     expect(screen.getByText(/Sahih al-Bukhari 1/)).toBeInTheDocument()
-    expect(screen.getByText('Le hadith de la semaine')).toBeInTheDocument()
   })
 
   it('ne duplique pas la traduction en arabe (elle répéterait le texte)', () => {
     const { container } = render(
-      <MosqueeWeekly
-        locale="ar"
-        course={seriesCourse}
-        hadith={hadithFor('hadith-niyyah')}
-        {...baseProps}
-      />
+      <MosqueeWeekly locale="ar" lesson={lessonFor('hadith-niyyah')} {...baseProps} />
     )
 
     expect(container.querySelectorAll('blockquote')).toHaveLength(1)
-    expect(screen.getByText('حديث الأسبوع')).toBeInTheDocument()
+    expect(screen.getByText('درس الأسبوع')).toBeInTheDocument()
   })
 
-  it("n'affiche aucune citation pour une entrée de type lesson", () => {
+  it("n'affiche aucune citation pour une entrée sans quote", () => {
     const { container } = render(
-      <MosqueeWeekly
-        locale="fr"
-        course={seriesCourse}
-        hadith={hadithFor('salat-masbuq')}
-        {...baseProps}
-      />
+      <MosqueeWeekly locale="fr" lesson={lessonFor('salat-masbuq')} {...baseProps} />
     )
 
     expect(container.querySelector('blockquote')).toBeNull()
-    expect(screen.getByText('La leçon de la semaine')).toBeInTheDocument()
   })
 
-  it('lie la leçon du hadith avec le préfixe de langue courant', () => {
-    render(
-      <MosqueeWeekly
-        locale="en"
-        course={seriesCourse}
-        hadith={hadithFor('salat-masbuq')}
-        {...baseProps}
-      />
+  it('affiche la raison du mois quand le calendrier impose le sujet', () => {
+    const { unmount } = render(
+      <MosqueeWeekly locale="fr" lesson={seasonalLesson} {...baseProps} />
     )
+    expect(screen.getByText(seasonalLesson.seasonalReason!.fr)).toBeInTheDocument()
+    unmount()
+
+    render(<MosqueeWeekly locale="fr" lesson={lessonFor('hadith-niyyah')} {...baseProps} />)
+    expect(screen.queryByText(seasonalLesson.seasonalReason!.fr)).toBeNull()
+  })
+
+  it('lie la leçon avec le préfixe de langue courant', () => {
+    render(<MosqueeWeekly locale="en" lesson={lessonFor('salat-masbuq')} {...baseProps} />)
 
     expect(screen.getByRole('link', { name: /Read the lesson/ })).toHaveAttribute(
       'href',
@@ -144,11 +99,11 @@ describe('rendu de la page mosquée', () => {
     const normalize = (s: string) => s.replace(/\s+/g, ' ').trim()
 
     for (const locale of ['fr', 'ar', 'en'] as const) {
-      const hadith = hadithFor('hadith-taqwa')
+      const lesson = lessonFor('hadith-taqwa')
       const { unmount } = render(
-        <MosqueeWeekly locale={locale} course={seriesCourse} hadith={hadith} {...baseProps} />
+        <MosqueeWeekly locale={locale} lesson={lesson} {...baseProps} />
       )
-      expect(screen.getByText(normalize(hadith.entry.question[locale]))).toBeInTheDocument()
+      expect(screen.getByText(normalize(lesson.entry.question[locale]))).toBeInTheDocument()
       unmount()
     }
   })
