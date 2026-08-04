@@ -19,6 +19,12 @@ export interface Mosquee {
   country: LocalizedText
   /** Date d'inauguration au format ISO (YYYY-MM-DD) */
   inauguratedAt: string
+  /**
+   * Identifiant de la mosquée sur mawaqit.net, si elle y est référencée.
+   * Sert à construire le widget officiel : mawaqit.net/<langue>/w/<slug>.
+   * Leur API étant privée, l'iframe est la seule intégration qu'ils autorisent.
+   */
+  mawaqitSlug?: string
   /** Phrase de contexte affichée sous le titre */
   intro: LocalizedText
   /** Détail de l'inauguration */

@@ -84,6 +84,37 @@ describe('rendu de la page mosquée', () => {
     expect(screen.queryByText(seasonalLesson.seasonalReason!.fr)).toBeNull()
   })
 
+  // Le widget Mawaqit est un tiers : lazy pour ne pas peser sur le chargement,
+  // ratio fixe pour ne provoquer aucun décalage de mise en page.
+  it('intègre le widget Mawaqit en lazy, au ratio fixe, dans la bonne langue', () => {
+    const { container } = render(
+      <MosqueeWeekly locale="ar" lesson={lessonFor('hadith-niyyah')} {...baseProps} />
+    )
+
+    const frame = container.querySelector('iframe')!
+    expect(frame).not.toBeNull()
+    expect(frame.getAttribute('src')).toBe(
+      `https://mawaqit.net/ar/w/${arRayaneMosquee.mawaqitSlug}`
+    )
+    expect(frame.getAttribute('loading')).toBe('lazy')
+    expect(frame.getAttribute('title')).toBeTruthy()
+    expect(frame.className).toMatch(/aspect-video/)
+  })
+
+  it('n’affiche pas de widget pour une mosquée sans slug Mawaqit', () => {
+    const { mawaqitSlug: _omitted, ...sansMawaqit } = arRayaneMosquee
+    const { container } = render(
+      <MosqueeWeekly
+        locale="fr"
+        lesson={lessonFor('hadith-niyyah')}
+        {...baseProps}
+        mosquee={sansMawaqit}
+      />
+    )
+
+    expect(container.querySelector('iframe')).toBeNull()
+  })
+
   it('lie la leçon avec le préfixe de langue courant', () => {
     render(<MosqueeWeekly locale="en" lesson={lessonFor('salat-masbuq')} {...baseProps} />)
 

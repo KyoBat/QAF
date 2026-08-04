@@ -48,6 +48,9 @@ const ui = {
     readLesson: 'Lire la leçon',
     wholeCourse: 'Voir tout le parcours',
     rhythm: 'Une nouvelle leçon chaque vendredi — elle reste affichée toute la semaine.',
+    prayerTimes: 'Horaires des prières',
+    prayerTimesFrame: 'Horaires des prières de la mosquée Ar-Rayane',
+    prayerTimesLink: 'Voir le détail sur Mawaqit',
     upcomingTitle: 'Les prochaines semaines',
     upcomingNote:
       'Sauf pendant les mois où un sujet s’impose (Ramadan, Dhul-Hijja…), la série reprend ensuite où elle s’était arrêtée.',
@@ -65,6 +68,9 @@ const ui = {
     readLesson: 'اقرأ الدرس',
     wholeCourse: 'تصفَّح المسار كاملًا',
     rhythm: 'درسٌ جديد كلَّ جمعة — ويبقى معروضًا طوال الأسبوع.',
+    prayerTimes: 'مواقيت الصلاة',
+    prayerTimesFrame: 'مواقيت الصلاة بمسجد الريّان',
+    prayerTimesLink: 'التفاصيل على موقع مواقيت',
     upcomingTitle: 'الأسابيع القادمة',
     upcomingNote:
       'إلّا في الأشهر التي يفرض فيها موضوعٌ نفسَه (رمضان، ذو الحجّة…)، فتستأنف السلسلةُ بعدها من حيث توقّفت.',
@@ -81,6 +87,9 @@ const ui = {
     readLesson: 'Read the lesson',
     wholeCourse: 'See the whole track',
     rhythm: 'A new lesson every Friday — it stays up all week.',
+    prayerTimes: 'Prayer times',
+    prayerTimesFrame: 'Prayer times for Ar-Rayane Mosque',
+    prayerTimesLink: 'See details on Mawaqit',
     upcomingTitle: 'Coming weeks',
     upcomingNote:
       'Except during months that call for a specific topic (Ramadan, Dhul-Hijja…), the series then resumes where it left off.',
@@ -324,7 +333,48 @@ export function MosqueeWeekly({
           </CardContent>
         </Card>
 
-        <p className="mb-10 text-center text-sm text-muted-foreground">{t.rhythm}</p>
+        <p className="mb-8 text-center text-sm text-muted-foreground">{t.rhythm}</p>
+
+        {/* ── Horaires des prières ────────────────────────────
+            Widget officiel Mawaqit : leur API est privée, l'iframe est la
+            seule intégration qu'ils autorisent. Placé APRÈS la leçon pour ne
+            pas disputer le LCP, et chargé en lazy.
+            Ratio 16/9 imposé : le widget s'adapte à la largeur mais garde son
+            ratio interne, et une hauteur fixe évite tout décalage (CLS). */}
+        {mosquee.mawaqitSlug && (
+          <section className="mb-10" aria-labelledby="prayer-times-title">
+            <h2
+              id="prayer-times-title"
+              className={cn(
+                'text-base font-semibold text-foreground mb-3',
+                isRTL && 'font-arabic leading-relaxed'
+              )}
+            >
+              {t.prayerTimes}
+            </h2>
+
+            <div className="overflow-hidden rounded-lg border border-border">
+              <iframe
+                src={`https://mawaqit.net/${locale}/w/${mosquee.mawaqitSlug}`}
+                title={t.prayerTimesFrame}
+                loading="lazy"
+                referrerPolicy="no-referrer-when-downgrade"
+                className="block w-full aspect-video border-0"
+              />
+            </div>
+
+            <p className="mt-2 text-xs">
+              <a
+                href={`https://mawaqit.net/${locale}/${mosquee.mawaqitSlug}`}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-primary hover:underline"
+              >
+                {t.prayerTimesLink}
+              </a>
+            </p>
+          </section>
+        )}
 
         {/* ── Prochaines semaines ────────────────────────────── */}
         {upcoming.length > 0 && (

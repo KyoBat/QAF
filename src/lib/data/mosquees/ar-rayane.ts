@@ -38,6 +38,7 @@ export const arRayaneMosquee: Mosquee = {
     en: 'Algeria',
   },
   inauguratedAt: '2023-11-25',
+  mawaqitSlug: 'msjd-alryan-batna-05000-algerie',
   intro: {
     fr: "Chaque vendredi, une nouvelle leçon tirée de TahaLearn, avec une question à emporter pour la semaine.",
     ar: 'كلَّ جمعة درسٌ جديد من منصّة طه للتعلّم، مع سؤالٍ ترافقك به أسبوعَك.',
