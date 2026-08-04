@@ -26,12 +26,12 @@ export interface Mosquee {
 }
 
 /**
- * Une entrée de la banque quotidienne.
+ * Une entrée de la banque hebdomadaire.
  * Le titre et la durée ne sont pas dupliqués ici : ils sont résolus depuis
  * coursesData via courseSlug + lessonId, ce qui garantit qu'un lien ne peut
  * pas pointer vers une leçon inexistante ou renommée.
  */
-export interface DailyEntry {
+export interface BankEntry {
   /** Identifiant stable de l'entrée (ne pas réutiliser après suppression) */
   id: string
   /** Slug du cours TahaLearn ciblé */
@@ -47,6 +47,6 @@ export interface DailyEntry {
     /** Référence (Bukhari, Muslim…) telle qu'affichée */
     source: LocalizedText
   }
-  /** La question du jour — c'est elle qui doit donner envie d'ouvrir la leçon */
+  /** La question de la semaine — c'est elle qui doit donner envie d'ouvrir la leçon */
   question: LocalizedText
 }

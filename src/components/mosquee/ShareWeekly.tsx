@@ -1,5 +1,5 @@
 /**
- * Partage du contenu du jour.
+ * Partage du contenu de la semaine.
  *
  * Seul îlot client de la page : sur mobile, navigator.share ouvre WhatsApp —
  * c'est le chemin de diffusion réel entre fidèles d'une même mosquée.
@@ -13,11 +13,11 @@ import { Share2, Check } from 'lucide-react'
 import { Button } from '@/components/ui/button'
 import type { Locale } from '@/locales'
 
-interface ShareDailyProps {
+interface ShareWeeklyProps {
   locale: Locale
-  /** Titre du partage (nom de la mosquée + contenu du jour) */
+  /** Titre du partage (nom de la mosquée + semaine en cours) */
   title: string
-  /** Corps du message : citation et/ou question du jour */
+  /** Corps du message : cours, citation et question de la semaine */
   text: string
   url: string
 }
@@ -28,7 +28,7 @@ const labels: Record<Locale, { share: string; copied: string }> = {
   en: { share: 'Share', copied: 'Link copied' },
 }
 
-export function ShareDaily({ locale, title, text, url }: ShareDailyProps) {
+export function ShareWeekly({ locale, title, text, url }: ShareWeeklyProps) {
   const [copied, setCopied] = useState(false)
   const t = labels[locale]
 

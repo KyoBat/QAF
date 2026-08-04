@@ -1,19 +1,20 @@
 import { Metadata } from 'next'
-import { MosqueeDaily } from '@/components/mosquee/MosqueeDaily'
+import { MosqueeWeekly } from '@/components/mosquee/MosqueeWeekly'
 import { BreadcrumbJsonLd } from '@/components/seo'
 import { arRayaneMosquee } from '@/lib/data/mosquees/ar-rayane'
 import {
-  getResolvedDaily,
-  getUpcoming,
-  formatDailyDate,
+  getWeeklyCourse,
+  getWeeklyHadith,
+  getUpcomingCourses,
+  formatWeekRange,
   formatHijriDate,
-} from '@/lib/data/mosquees/daily'
+} from '@/lib/data/mosquees/weekly'
 import type { Locale } from '@/locales'
 import { buildHreflangAlternates } from '@/lib/utils'
 
 /**
- * Le contenu change chaque jour à minuit (heure de Batna). 30 min de cache
- * suffisent : la bascule est effective bien avant le Fajr.
+ * Le contenu bascule le vendredi à minuit (heure de Batna) puis reste figé.
+ * 30 min de cache : la bascule est effective bien avant la prière du Fajr.
  */
 export const revalidate = 1800
 
@@ -30,19 +31,19 @@ export async function generateStaticParams() {
 
 const metaMap: Record<Locale, { title: string; description: string }> = {
   fr: {
-    title: 'Mosquée Ar-Rayane, Batna — Hadith du jour',
+    title: 'Mosquée Ar-Rayane, Batna — Le cours de la semaine',
     description:
-      'Chaque jour, un hadith ou une leçon pour les fidèles de la mosquée Ar-Rayane (ممرات بن بولعيد, Batna) : citation, référence et question du jour, avec la leçon complète en accès libre.',
+      'Chaque vendredi, un nouveau cours et un hadith pour les fidèles de la mosquée Ar-Rayane (ممرات بن بولعيد, Batna) : aqida, sciences du hadith, et le cours adapté au mois en cours. Accès libre et gratuit.',
   },
   ar: {
-    title: 'مسجد الريّان بباتنة — حديث اليوم',
+    title: 'مسجد الريّان بباتنة — دورة الأسبوع',
     description:
-      'كلَّ يوم حديثٌ أو درسٌ لروّاد مسجد الريّان (ممرات بن بولعيد، باتنة): النصُّ وتخريجه وسؤال اليوم، مع الدرس كاملًا مجّانًا.',
+      'كلَّ جمعة دورةٌ جديدة وحديثٌ لروّاد مسجد الريّان (ممرات بن بولعيد، باتنة): العقيدة، وعلوم الحديث، والدورة المناسبة لشهرك. مجّانًا وبلا تسجيل.',
   },
   en: {
-    title: 'Ar-Rayane Mosque, Batna — Hadith of the day',
+    title: 'Ar-Rayane Mosque, Batna — Course of the week',
     description:
-      'Every day, one hadith or lesson for the congregation of Ar-Rayane Mosque (Ben Boulaïd Alleys, Batna): text, reference and a question of the day, with the full lesson freely available.',
+      'Every Friday, a new course and a hadith for the congregation of Ar-Rayane Mosque (Ben Boulaïd Alleys, Batna): aqidah, hadith sciences, and the course suited to the current month. Free and open.',
   },
 }
 
@@ -106,9 +107,10 @@ export default async function ArRayaneMosqueePage({
   const locale = (LOCALES.includes(lang as Locale) ? lang : 'fr') as Locale
 
   const now = new Date()
-  const today = getResolvedDaily(now)
-  const upcoming = getUpcoming(3, now)
-  const formattedDate = formatDailyDate(locale, now)
+  const course = getWeeklyCourse(now)
+  const hadith = getWeeklyHadith(now)
+  const upcomingCourses = getUpcomingCourses(3, now)
+  const weekRange = formatWeekRange(locale, now)
   const hijriDate = formatHijriDate(locale, now)
 
   return (
@@ -120,12 +122,13 @@ export default async function ArRayaneMosqueePage({
           { name: arRayaneMosquee.name[locale], url: `/${locale}${PATH}` },
         ]}
       />
-      <MosqueeDaily
+      <MosqueeWeekly
         locale={locale}
         mosquee={arRayaneMosquee}
-        today={today}
-        upcoming={upcoming}
-        formattedDate={formattedDate}
+        course={course}
+        hadith={hadith}
+        upcomingCourses={upcomingCourses}
+        weekRange={weekRange}
         hijriDate={hijriDate}
         pageUrl={`${BASE_URL}/${locale}${PATH}`}
         qrTargetUrl={QR_TARGET_URL}

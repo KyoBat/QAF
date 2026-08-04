@@ -1,17 +1,17 @@
 /**
- * Banque quotidienne — mosquée Ar-Rayane
+ * Banque du hadith / de la leçon de la semaine — mosquée Ar-Rayane
  *
  * Chaque entrée pointe vers une leçon RÉELLE du site (courseSlug + lessonId).
  * Les titres ne sont pas recopiés ici : ils sont résolus depuis coursesData
  * au rendu, donc un renommage de leçon ne casse jamais l'affichage.
  *
- * La rotation parcourt la banque dans l'ordre, un jour = une entrée.
+ * La rotation parcourt la banque dans l'ordre, une semaine = une entrée.
  * Ajouter une entrée à la fin allonge simplement le cycle.
  */
 
-import type { DailyEntry } from './types'
+import type { BankEntry } from './types'
 
-export const dailyBank: DailyEntry[] = [
+export const hadithBank: BankEntry[] = [
   // ─────────────────────────────────────────────────────────────
   // Hadiths — cours « Hadiths Essentiels pour le Musulman Contemporain »
   // ─────────────────────────────────────────────────────────────
