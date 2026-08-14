@@ -12,10 +12,18 @@ import type { Locale } from '@/locales'
 import { buildHreflangAlternates } from '@/lib/utils'
 
 /**
- * Le contenu bascule le vendredi à minuit (heure de Batna) puis reste figé.
- * 30 min de cache : la bascule est effective bien avant la prière du Fajr.
+ * Rendu à la demande, sans cache.
+ *
+ * Le contenu bascule le vendredi à minuit (heure de Batna). En ISR, le premier
+ * visiteur après la bascule reçoit l'ancien HTML pendant que la page se
+ * régénère en arrière-plan (stale-while-revalidate), et chaque région edge a
+ * son propre cache : sur une page de mosquée à faible trafic, scannée au QR
+ * code entre deux prières, ce « premier visiteur » est souvent le seul de la
+ * journée. Il verrait la leçon de la semaine dernière.
+ *
+ * Le coût est nul : aucun fetch, la leçon est calculée en mémoire.
  */
-export const revalidate = 1800
+export const dynamic = 'force-dynamic'
 
 const LOCALES: Locale[] = ['fr', 'ar', 'en']
 const PATH = '/mosquees/ar-rayane-batna'
@@ -23,10 +31,6 @@ const BASE_URL = 'https://www.tahalearn.com'
 
 /** URL sans préfixe de langue : le middleware redirige vers la langue du visiteur. */
 const QR_TARGET_URL = `${BASE_URL}${PATH}`
-
-export async function generateStaticParams() {
-  return LOCALES.map(lang => ({ lang }))
-}
 
 const metaMap: Record<Locale, { title: string; description: string }> = {
   fr: {

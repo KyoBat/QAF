@@ -10,10 +10,12 @@
  * 1. LE CALENDRIER PRIME. Pendant certains mois hégiriens, un parcours
  *    s'impose (Ramadan → le jeûne, Dhul-Hijja → le pèlerinage…), même au
  *    milieu de la série. La série n'avance pas pendant ces semaines : elle
- *    reprend ensuite exactement où elle s'était arrêtée.
+ *    reprend ensuite exactement où elle s'était arrêtée. Un mois plus long
+ *    que son parcours lui rend la main pour les semaines restantes.
  *
- * 2. SINON, LA SÉRIE. L'ordre est délibéré : d'abord la aqida — c'est le
- *    point sur lequel il faut insister — puis les hadiths, puis le reste.
+ * 2. SINON, LA SÉRIE. Les parcours sont entrelacés, une leçon chacun à tour
+ *    de rôle, pour que le cours change lui aussi chaque semaine. La aqida
+ *    ouvre chaque tour : c'est le point sur lequel il faut insister.
  *
  * Les parcours ne référencent que des ids de lesson-entries.ts : le contenu
  * est défini une seule fois, l'ordre de diffusion vit ici.
@@ -33,16 +35,21 @@ export interface Parcours {
  * Nombre de semaines pendant lesquelles la série passe AVANT le calendrier,
  * au tout début du planning.
  *
- * Sans cela, un mois imposé tombant juste après le lancement couperait la
- * aqida au bout d'une seule semaine — or c'est précisément le point sur
- * lequel on veut insister. Six semaines couvrent le parcours Aqida entier.
- * Mettre 0 pour que le calendrier prime dès la première semaine.
+ * À 0 : le calendrier prime dès la première semaine. C'est le réglage voulu
+ * depuis que les parcours sont entrelacés (voir flatSequence dans weekly.ts) —
+ * la aqida n'a plus besoin d'un bloc protégé au lancement, elle revient à
+ * chaque tour. Et un priming non nul SUPPRIME les mois qu'il recouvre plutôt
+ * que de les décaler : à 6, Rabi' al-Awwal 1448 (semaines 1 à 5) passait
+ * entièrement à la trappe, y compris la naissance du Prophète ﷺ.
  */
-export const PRIMING_SEQUENCE_WEEKS = 6
+export const PRIMING_SEQUENCE_WEEKS = 0
 
 /**
- * La série, dans l'ordre. Chaque entrée = une semaine.
- * Aqida d'abord, hadiths ensuite, puis la pratique et l'histoire.
+ * La série. L'ordre compte deux fois : c'est l'ordre des leçons À L'INTÉRIEUR
+ * d'un parcours, et c'est l'ordre de passage des parcours à chaque tour —
+ * weekly.ts les entrelace (une leçon d'aqida, puis une de hadith, etc.) pour
+ * que le cours affiché change chaque semaine. Aqida en tête : c'est le point
+ * sur lequel on veut insister, il ouvre donc chaque tour.
  */
 export const parcoursSequence: Parcours[] = [
   {
@@ -152,8 +159,10 @@ export interface SeasonalSlot {
 
 /**
  * Parcours imposés par le mois hégirien (1 = Muharram … 12 = Dhul-Hijja).
- * Un mois couvre 4 à 5 semaines : on tourne dans ses entrées pour que la
- * page ne reste pas figée. Les mois absents laissent la série avancer.
+ * Un mois couvre 4 à 5 semaines : on prend une entrée par semaine, et quand
+ * le parcours est épuisé la série reprend la main pour la fin du mois —
+ * plutôt que de rejouer les mêmes leçons. Les mois absents d'ici laissent la
+ * série avancer de bout en bout.
  */
 export const seasonalPlan: Record<number, SeasonalSlot> = {
   1: {

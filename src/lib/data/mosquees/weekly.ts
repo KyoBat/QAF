@@ -5,8 +5,10 @@
  * L'unité de la semaine est UNE LEÇON : quelque chose qu'on finit, et sur
  * quoi une question peut être précise. Le parcours n'est que le contexte.
  *
- * Rotation déterministe : même semaine = même contenu pour tout le monde,
- * ce qui permet de servir la page en ISR et rend l'affichage reproductible.
+ * Rotation déterministe : même semaine = même contenu pour tout le monde, et
+ * un planning qu'on peut dérouler à l'avance. La page est pour autant rendue
+ * à la demande (voir page.tsx) : en ISR, le premier visiteur après la bascule
+ * du vendredi recevrait encore la leçon de la semaine précédente.
  */
 
 import { coursesData } from '@/lib/data/courses/index'
@@ -17,6 +19,7 @@ import {
   seasonalPlan,
   PRIMING_SEQUENCE_WEEKS,
   type Parcours,
+  type SeasonalSlot,
 } from './weekly-plan'
 import type { BankEntry, LocalizedText } from './types'
 
@@ -165,42 +168,85 @@ export function resolveEntry(
 // Sélection de la semaine
 // ───────────────────────────────────────────────────────────────
 
-/** La série mise à plat : une case = une semaine. */
-const flatSequence: { parcours: Parcours; entryId: string; position: number }[] =
-  parcoursSequence.flatMap(parcours =>
-    parcours.entryIds.map((entryId, index) => ({
-      parcours,
-      entryId,
-      position: index + 1,
-    }))
-  )
+interface SequenceSlot {
+  parcours: Parcours
+  entryId: string
+  position: number
+}
+
+/**
+ * La série mise à plat : une case = une semaine.
+ *
+ * Les parcours sont ENTRELACÉS, pas concaténés : un tour prend une leçon dans
+ * chaque parcours encore fourni, dans l'ordre de parcoursSequence. Concaténés,
+ * les 15 leçons du parcours Hadith figeaient pendant 15 semaines le cours
+ * affiché, le badge de parcours et le lien « voir tout le parcours » — même si
+ * la leçon, elle, changeait bien chaque vendredi. Les parcours courts
+ * s'épuisent en cours de route, les longs finissent seuls : c'est voulu.
+ */
+function interleaveParcours(list: Parcours[]): SequenceSlot[] {
+  const slots: SequenceSlot[] = []
+  const longest = Math.max(0, ...list.map(p => p.entryIds.length))
+
+  for (let round = 0; round < longest; round++) {
+    for (const parcours of list) {
+      const entryId = parcours.entryIds[round]
+      if (entryId) slots.push({ parcours, entryId, position: round + 1 })
+    }
+  }
+
+  return slots
+}
+
+const flatSequence = interleaveParcours(parcoursSequence)
 
 export const SEQUENCE_LENGTH = flatSequence.length
 
+// Intl reste coûteux même formateur réutilisé, et le rendu est dynamique :
+// on mémorise les lectures de calendrier, qui ne dépendent que de l'index.
+const hijriMonthByWeek = new Map<number, number>()
+
+/** Mois hégirien du vendredi qui ouvre la semaine. */
+function hijriMonthOfWeek(weekIndex: number): number {
+  const cached = hijriMonthByWeek.get(weekIndex)
+  if (cached !== undefined) return cached
+
+  const month = getHijriMonth(noonOfDay(firstDayOfWeek(weekIndex)))
+  hijriMonthByWeek.set(weekIndex, month)
+  return month
+}
+
 /**
  * Le créneau saisonnier qui s'applique à cette semaine, s'il y en a un.
- * Pendant les premières semaines, la série passe avant le calendrier : sans
- * cela, un mois imposé tombant juste après le lancement couperait la aqida.
+ *
+ * Deux raisons de rendre la main à la série malgré un mois attitré :
+ * le priming du lancement (voir PRIMING_SEQUENCE_WEEKS), et l'épuisement —
+ * un mois couvre 4 à 5 semaines pour un parcours saisonnier de 2 à 4 entrées.
+ * Rajab, avec 3 entrées sur 5 semaines, rejouait sinon ses deux premières
+ * leçons en fin de mois. Ces semaines rendues comptent pour la série.
  */
-function seasonalSlotForWeek(weekIndex: number) {
+function seasonalSlotForWeek(weekIndex: number): SeasonalSlot | undefined {
   if (weekIndex < PRIMING_SEQUENCE_WEEKS) return undefined
-  return seasonalPlan[getHijriMonth(noonOfDay(firstDayOfWeek(weekIndex)))]
+
+  const slot = seasonalPlan[hijriMonthOfWeek(weekIndex)]
+  if (!slot) return undefined
+
+  return weekWithinHijriMonth(weekIndex) < slot.parcours.entryIds.length ? slot : undefined
 }
 
 /**
  * Rang de la semaine à l'intérieur de son mois hégirien, à partir de 0.
- * Sert à faire tourner les leçons d'un même mois : un mois couvre 4 à 5
- * semaines, la page ne doit pas rester figée sur la même leçon.
+ * Sert à avancer dans les leçons d'un même mois, une par semaine.
  */
 function weekWithinHijriMonth(weekIndex: number): number {
-  const month = getHijriMonth(noonOfDay(firstDayOfWeek(weekIndex)))
+  const month = hijriMonthOfWeek(weekIndex)
   let rank = 0
 
   // Un mois hégirien fait 29 ou 30 jours : jamais plus de 5 semaines
   for (let back = 1; back <= 5; back++) {
     const previous = weekIndex - back
     if (previous < PRIMING_SEQUENCE_WEEKS) break
-    if (getHijriMonth(noonOfDay(firstDayOfWeek(previous))) !== month) break
+    if (hijriMonthOfWeek(previous) !== month) break
     rank++
   }
 
@@ -211,15 +257,32 @@ function weekWithinHijriMonth(weekIndex: number): number {
  * Combien de semaines NON saisonnières se sont écoulées avant celle-ci.
  * C'est ce compteur qui fait « reprendre la série où elle en était » :
  * les semaines saisonnières ne le font pas avancer.
+ *
+ * Le résultat ne dépend que du calendrier : on le mémorise, et un nouveau
+ * calcul repart du dernier point connu au lieu de rescanner l'historique.
  */
-function sequenceStepsBefore(weekIndex: number): number {
-  let steps = 0
-  const scanned = Math.min(weekIndex, MAX_WEEKS_SCANNED)
+const stepsBeforeWeek = new Map<number, number>()
 
-  for (let w = 0; w < scanned; w++) {
+function sequenceStepsBefore(weekIndex: number): number {
+  const target = Math.min(Math.max(weekIndex, 0), MAX_WEEKS_SCANNED)
+
+  const cached = stepsBeforeWeek.get(target)
+  if (cached !== undefined) return cached
+
+  let steps = 0
+  let w = target
+
+  while (w > 0) {
+    const known = stepsBeforeWeek.get(w)
+    if (known !== undefined) {
+      steps += known
+      break
+    }
+    w--
     if (!seasonalSlotForWeek(w)) steps++
   }
 
+  stepsBeforeWeek.set(target, steps)
   return steps
 }
 
@@ -235,17 +298,19 @@ function lessonFromSequence(steps: number): WeeklyLesson | null {
 
 /**
  * La leçon de la semaine.
- * Le calendrier prime : si le mois hégirien courant a un parcours attitré, on
- * tourne dedans. Sinon on avance d'un cran dans la série (aqida, puis hadith,
- * puis le reste).
+ * Le calendrier prime : si le mois hégirien courant a un parcours attitré et
+ * qu'il lui reste une leçon, on la prend. Sinon on avance d'un cran dans la
+ * série entrelacée, qui n'a pas bougé pendant les semaines saisonnières.
  */
 export function getWeeklyLesson(date: Date = new Date()): WeeklyLesson {
   const weekIndex = getWeekIndex(date)
   const slot = seasonalSlotForWeek(weekIndex)
 
-  if (slot && slot.parcours.entryIds.length > 0) {
+  if (slot) {
     const { entryIds } = slot.parcours
-    const start = weekWithinHijriMonth(weekIndex) % entryIds.length
+    // seasonalSlotForWeek garantit rang < nombre d'entrées : une leçon du mois
+    // par semaine, sans répétition. Le décalage ne sert qu'aux ids cassés.
+    const start = weekWithinHijriMonth(weekIndex)
 
     for (let offset = 0; offset < entryIds.length; offset++) {
       const position = (start + offset) % entryIds.length

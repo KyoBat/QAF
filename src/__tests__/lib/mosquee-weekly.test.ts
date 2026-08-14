@@ -106,10 +106,18 @@ describe('plan hebdomadaire', () => {
     expect(parcoursSequence[1].id).toBe('hadith')
   })
 
-  // L'amorçage doit couvrir le parcours Aqida en entier, sinon le calendrier
-  // le coupe en plein milieu.
-  it('couvre le parcours Aqida entier par la période d’amorçage', () => {
-    expect(PRIMING_SEQUENCE_WEEKS).toBe(parcoursSequence[0].entryIds.length)
+  // L'amorçage ne DÉCALE pas le mois qu'il recouvre, il le supprime : le mois
+  // suivant est déjà là quand la main revient au calendrier. À 6 semaines,
+  // Rabi' al-Awwal 1448 disparaissait en entier, naissance du Prophète ﷺ
+  // comprise. Tout amorçage doit donc tomber sur des mois sans parcours.
+  it("n'efface aucun mois imposé par la période d’amorçage", () => {
+    for (let w = 0; w < PRIMING_SEQUENCE_WEEKS; w++) {
+      const month = getHijriMonth(weeksAfterAnchor(w))
+      expect(
+        seasonalPlan[month],
+        `semaine ${w} : le mois ${month} est effacé par l'amorçage`
+      ).toBeUndefined()
+    }
   })
 })
 
@@ -152,22 +160,35 @@ describe('rotation hebdomadaire', () => {
 })
 
 describe('leçon de la semaine', () => {
-  it('déroule le parcours Aqida en entier au lancement, sans interruption', () => {
-    const aqida = parcoursSequence[0]
+  // Le cours affiché, le badge et le lien « voir tout le parcours » sont
+  // solidaires du parcours : concaténés, les 15 leçons du parcours Hadith
+  // donnaient 15 semaines de page apparemment figée. Un tour de série doit
+  // passer par tous les parcours, dans l'ordre déclaré.
+  it('entrelace les parcours : un tour touche chacun une fois, la aqida en tête', () => {
+    const visited: string[] = []
 
-    for (let w = 0; w < aqida.entryIds.length; w++) {
+    for (let w = 0; w < 40 && visited.length < parcoursSequence.length; w++) {
       const lesson = getWeeklyLesson(weeksAfterAnchor(w))
-      expect(lesson.entry.id, `semaine ${w}`).toBe(aqida.entryIds[w])
-      expect(lesson.parcoursName.fr).toBe('Parcours Aqida')
-      expect(lesson.positionInParcours).toBe(w + 1)
-      expect(lesson.seasonalReason).toBeNull()
+      if (!lesson.seasonalReason) visited.push(lesson.parcoursName.fr)
     }
+
+    expect(visited).toEqual(parcoursSequence.map(p => p.name.fr))
   })
 
-  it("enchaîne sur le parcours Hadith juste après la aqida", () => {
-    const lesson = getWeeklyLesson(weeksAfterAnchor(PRIMING_SEQUENCE_WEEKS))
-    expect(lesson.parcoursName.fr).toBe('Parcours Hadith')
-    expect(lesson.positionInParcours).toBe(1)
+  it('reprend la aqida au tour suivant, une leçon à la fois', () => {
+    const aqida = parcoursSequence[0]
+    const seen: number[] = []
+
+    for (let w = 0; w < 60; w++) {
+      const lesson = getWeeklyLesson(weeksAfterAnchor(w))
+      if (!lesson.seasonalReason && lesson.parcoursName.fr === aqida.name.fr) {
+        seen.push(lesson.positionInParcours)
+      }
+    }
+
+    // Une leçon par tour, dans l'ordre, sans jamais deux d'affilée
+    expect(seen.length).toBeGreaterThanOrEqual(3)
+    expect(seen).toEqual(seen.map((_, i) => i + 1))
   })
 
   it("laisse le calendrier reprendre la main une fois l'amorçage passé", () => {
@@ -204,6 +225,32 @@ describe('leçon de la semaine', () => {
 
     expect(ramadanLessons.length).toBeGreaterThan(1)
     expect(new Set(ramadanLessons).size).toBeGreaterThan(1)
+  })
+
+  // Un mois est plus long que son parcours : Rajab couvre 5 semaines pour 3
+  // entrées. Les semaines en trop rendent la main à la série au lieu de
+  // rejouer les premières leçons du mois — c'est là que la page restait
+  // vraiment figée, sur du déjà-vu.
+  it("ne rejoue pas deux fois la même leçon dans un même mois imposé", () => {
+    let run: string[] = []
+    let runMonth = -1
+
+    const flush = () => expect(new Set(run).size, `mois ${runMonth}`).toBe(run.length)
+
+    for (let w = 0; w < 160; w++) {
+      const date = weeksAfterAnchor(w)
+      const lesson = getWeeklyLesson(date)
+      const month = getHijriMonth(date)
+
+      if (!lesson.seasonalReason || month !== runMonth) {
+        flush()
+        run = []
+        runMonth = lesson.seasonalReason ? month : -1
+      }
+      if (lesson.seasonalReason) run.push(lesson.entry.id)
+    }
+
+    flush()
   })
 
   // Sans cela, un long mois imposé ferait « sauter » plusieurs leçons.
