@@ -33,7 +33,17 @@ declare global {
 
 const SCRIPT_SRC = 'https://challenges.cloudflare.com/turnstile/v0/api.js?render=explicit'
 
-export function Turnstile({ onToken }: { onToken: (token: string) => void }) {
+/**
+ * `resetSignal` : à incrémenter après chaque soumission. Un jeton Turnstile ne
+ * sert qu'une fois — sans reset, un nouvel essai renverrait un jeton consommé.
+ */
+export function Turnstile({
+  onToken,
+  resetSignal = 0,
+}: {
+  onToken: (token: string) => void
+  resetSignal?: number
+}) {
   const ref = useRef<HTMLDivElement>(null)
   const widgetId = useRef<string | null>(null)
   const siteKey = process.env.NEXT_PUBLIC_TURNSTILE_SITE_KEY || ''
@@ -77,6 +87,12 @@ export function Turnstile({ onToken }: { onToken: (token: string) => void }) {
       if (poll) clearInterval(poll)
     }
   }, [siteKey, onToken])
+
+  useEffect(() => {
+    if (resetSignal === 0 || !widgetId.current || !window.turnstile) return
+    onToken('')
+    window.turnstile.reset(widgetId.current)
+  }, [resetSignal, onToken])
 
   if (!siteKey) return null
   return <div ref={ref} className="my-2" />

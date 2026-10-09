@@ -22,6 +22,7 @@ export default function NewsletterHome({ className }: NewsletterHomeProps) {
   const [email, setEmail] = useState('')
   const [website, setWebsite] = useState('') // honeypot
   const [token, setToken] = useState('') // Turnstile (opt-in)
+  const [turnstileReset, setTurnstileReset] = useState(0)
   const [status, setStatus] = useState<'idle' | 'loading' | 'success' | 'error'>('idle')
   const [errorMessage, setErrorMessage] = useState('')
   const onToken = useCallback((tk: string) => setToken(tk), [])
@@ -58,6 +59,9 @@ export default function NewsletterHome({ className }: NewsletterHomeProps) {
     } catch {
       setStatus('error')
       setErrorMessage(t('newsletter.errorGeneric'))
+    } finally {
+      // Jeton consommé (ou rejeté) : en redemander un pour le prochain envoi
+      setTurnstileReset((n) => n + 1)
     }
   }
 
@@ -213,7 +217,7 @@ export default function NewsletterHome({ className }: NewsletterHomeProps) {
                 </motion.div>
               </div>
               {/* Widget Turnstile sur sa propre ligne (sinon il écrase le champ email) */}
-              <Turnstile onToken={onToken} />
+              <Turnstile onToken={onToken} resetSignal={turnstileReset} />
             </form>
 
             {/* Error message */}

@@ -119,7 +119,11 @@ export async function verifyTurnstile(token: string | undefined | null, ip: stri
       console.warn('[antispam] Turnstile HTTP non-OK (fail-open):', res.status)
       return true
     }
-    const json = (await res.json()) as { success?: boolean }
+    const json = (await res.json()) as { success?: boolean; 'error-codes'?: string[] }
+    if (!json.success) {
+      // ex. invalid-input-secret (mauvaise clé), timeout-or-duplicate (jeton réutilisé/expiré)
+      console.warn('[antispam] Turnstile rejeté :', (json['error-codes'] || []).join(',') || 'sans code')
+    }
     return !!json.success
   } catch (err) {
     console.warn('[antispam] Turnstile réseau KO (fail-open):', (err as Error).message)

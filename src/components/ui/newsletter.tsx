@@ -18,6 +18,7 @@ export function NewsletterForm({ variant = 'default', className }: NewsletterFor
   const [email, setEmail] = useState('')
   const [website, setWebsite] = useState('') // honeypot
   const [token, setToken] = useState('') // Turnstile (opt-in)
+  const [turnstileReset, setTurnstileReset] = useState(0)
   const [status, setStatus] = useState<'idle' | 'loading' | 'success' | 'error'>('idle')
   const [errorMessage, setErrorMessage] = useState('')
   const onToken = useCallback((tk: string) => setToken(tk), [])
@@ -54,6 +55,9 @@ export function NewsletterForm({ variant = 'default', className }: NewsletterFor
     } catch {
       setStatus('error')
       setErrorMessage(t('newsletter.errorGeneric'))
+    } finally {
+      // Jeton consommé (ou rejeté) : en redemander un pour le prochain envoi
+      setTurnstileReset((n) => n + 1)
     }
   }
 
@@ -167,7 +171,7 @@ export function NewsletterForm({ variant = 'default', className }: NewsletterFor
                 )}
               </Button>
             </div>
-            <Turnstile onToken={onToken} />
+            <Turnstile onToken={onToken} resetSignal={turnstileReset} />
             {status === 'error' && (
               <p className="text-sm text-red-500 text-center">{errorMessage}</p>
             )}
@@ -234,7 +238,7 @@ export function NewsletterForm({ variant = 'default', className }: NewsletterFor
               </>
             )}
           </Button>
-          <Turnstile onToken={onToken} />
+          <Turnstile onToken={onToken} resetSignal={turnstileReset} />
           {status === 'error' && (
             <p className="text-sm text-red-500">{errorMessage}</p>
           )}
