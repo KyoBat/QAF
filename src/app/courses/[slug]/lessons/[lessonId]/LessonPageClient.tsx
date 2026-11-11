@@ -6,7 +6,7 @@
 'use client'
 
 import Link from 'next/link'
-import { useState, useMemo, useCallback } from 'react'
+import { useState, useMemo } from 'react'
 import { 
   ChevronRight, 
   ChevronLeft, 
@@ -99,8 +99,9 @@ export function LessonPageClient({ data }: LessonPageClientProps) {
     { label: title },
   ]
 
-  // Lessons navigation component - mémorisé avec useCallback
-  const LessonsNav = useCallback(() => (
+  // Navigation des leçons : un élément mémorisé (pas un composant créé pendant le
+  // rendu, qui était remonté — et perdait son défilement — à chaque changement).
+  const lessonsNav = useMemo(() => (
     <nav className="space-y-1 max-h-[50vh] lg:max-h-[calc(100vh-20rem)] overflow-y-auto scrollbar-thin">
       {course.lessons.map((l, index) => {
         const lessonTitle = l.title[locale as keyof typeof l.title] || l.title.fr
@@ -135,7 +136,7 @@ export function LessonPageClient({ data }: LessonPageClientProps) {
         )
       })}
     </nav>
-  ), [course.lessons, course.slug, lesson.id, locale, isRTL, completionStatus, setIsSheetOpen])
+  ), [course.lessons, course.slug, lesson.id, locale, isRTL, completionStatus])
 
   return (
     <div className="py-8 lg:py-12">
@@ -181,7 +182,7 @@ export function LessonPageClient({ data }: LessonPageClientProps) {
                   </p>
                 </div>
                 
-                <LessonsNav />
+                {lessonsNav}
               </SheetContent>
             </Sheet>
           </div>
@@ -231,7 +232,7 @@ export function LessonPageClient({ data }: LessonPageClientProps) {
                 )}>
                   {t('lesson.tableOfContents')}
                 </h3>
-                <LessonsNav />
+                {lessonsNav}
               </CardContent>
             </Card>
           </aside>

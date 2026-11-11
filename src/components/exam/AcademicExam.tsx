@@ -11,7 +11,7 @@
  * - Résultats détaillés
  */
 
-import React, { useState, useEffect, useCallback, useMemo } from 'react';
+import React, { useState, useEffect, useCallback, useMemo, useRef } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import Link from 'next/link';
 import {
@@ -47,30 +47,46 @@ interface AcademicExamProps {
 // Hook pour le chronomètre
 // ============================================
 
+/**
+ * Compte à rebours basé sur une heure de fin (et non sur des ticks d'1 s, que
+ * les navigateurs ralentissent dans les onglets en arrière-plan). onComplete est
+ * appelé depuis le callback du minuteur, jamais dans un updater de setState
+ * (React les exécute deux fois en mode strict : double soumission).
+ */
 function useCountdown(initialSeconds: number, onComplete: () => void) {
   const [seconds, setSeconds] = useState(initialSeconds);
   const [isRunning, setIsRunning] = useState(false);
+  const remainingRef = useRef(initialSeconds);
+  const onCompleteRef = useRef(onComplete);
 
   useEffect(() => {
-    if (!isRunning || seconds <= 0) return;
+    onCompleteRef.current = onComplete;
+  });
+
+  useEffect(() => {
+    if (!isRunning) return;
+    const endAt = Date.now() + remainingRef.current * 1000;
 
     const interval = setInterval(() => {
-      setSeconds((prev) => {
-        if (prev <= 1) {
-          setIsRunning(false);
-          onComplete();
-          return 0;
-        }
-        return prev - 1;
-      });
+      const remaining = Math.max(0, Math.ceil((endAt - Date.now()) / 1000));
+      remainingRef.current = remaining;
+      setSeconds(remaining);
+      if (remaining === 0) {
+        clearInterval(interval);
+        setIsRunning(false);
+        onCompleteRef.current();
+      }
     }, 1000);
 
     return () => clearInterval(interval);
-  }, [isRunning, seconds, onComplete]);
+  }, [isRunning]);
 
   const start = useCallback(() => setIsRunning(true), []);
   const pause = useCallback(() => setIsRunning(false), []);
-  const reset = useCallback(() => setSeconds(initialSeconds), [initialSeconds]);
+  const reset = useCallback(() => {
+    remainingRef.current = initialSeconds;
+    setSeconds(initialSeconds);
+  }, [initialSeconds]);
 
   return { seconds, isRunning, start, pause, reset, formatTime: () => formatTime(seconds) };
 }
@@ -104,10 +120,10 @@ export default function AcademicExam({
   const totalQuestions = questions.length;
   const answeredCount = answers.size;
 
-  // Chronomètre
-  const countdown = useCountdown(exam.duration * 60, () => {
-    handleSubmit();
-  });
+  // Chronomètre : à la fin du temps, soumission automatique. handleSubmit est
+  // déclaré plus bas et dépend du chronomètre : on passe par une ref.
+  const submitRef = useRef<() => void>(() => {});
+  const countdown = useCountdown(exam.duration * 60, () => submitRef.current());
 
   // Démarrer l'examen
   const handleStart = useCallback(() => {
@@ -118,9 +134,11 @@ export default function AcademicExam({
   }, [countdown]);
 
   // Sélectionner une réponse
+  const currentQuestionId = currentQuestion?.id;
   const handleSelectAnswer = useCallback((optionIndex: number) => {
-    setAnswers((prev) => new Map(prev).set(currentQuestion.id, optionIndex));
-  }, [currentQuestion?.id]);
+    if (!currentQuestionId) return;
+    setAnswers((prev) => new Map(prev).set(currentQuestionId, optionIndex));
+  }, [currentQuestionId]);
 
   // Navigation
   const handleNext = useCallback(() => {
@@ -147,6 +165,19 @@ export default function AcademicExam({
     setCurrentIndex(index);
     setQuestionStartTime(new Date());
   }, []);
+
+  // Sauvegarder le résultat
+  const saveResult = useCallback((examResult: ExamResult) => {
+    try {
+      const key = `rabbi-zidni-exam-${exam.id}`;
+      const existing = localStorage.getItem(key);
+      const results: ExamResult[] = existing ? JSON.parse(existing) : [];
+      results.push(examResult);
+      localStorage.setItem(key, JSON.stringify(results));
+    } catch (e) {
+      console.error('Erreur de sauvegarde:', e);
+    }
+  }, [exam.id]);
 
   // Soumettre l'examen
   const handleSubmit = useCallback(() => {
@@ -213,20 +244,11 @@ export default function AcademicExam({
 
     // Sauvegarder dans localStorage
     saveResult(examResult);
-  }, [answers, questions, exam, countdown, startTime, timePerQuestion, onComplete]);
+  }, [answers, questions, exam, countdown, startTime, timePerQuestion, onComplete, saveResult]);
 
-  // Sauvegarder le résultat
-  const saveResult = (examResult: ExamResult) => {
-    try {
-      const key = `rabbi-zidni-exam-${exam.id}`;
-      const existing = localStorage.getItem(key);
-      const results: ExamResult[] = existing ? JSON.parse(existing) : [];
-      results.push(examResult);
-      localStorage.setItem(key, JSON.stringify(results));
-    } catch (e) {
-      console.error('Erreur de sauvegarde:', e);
-    }
-  };
+  useEffect(() => {
+    submitRef.current = handleSubmit;
+  }, [handleSubmit]);
 
   // Aller à la révision
   const handleReview = useCallback(() => {

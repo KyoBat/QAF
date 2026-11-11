@@ -7,7 +7,7 @@
  * le niveau de l'étudiant et recommander des cours.
  */
 
-import React, { useState, useEffect, useCallback, useMemo } from 'react';
+import React, { useState, useEffect, useCallback } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import Link from 'next/link';
 import { 
@@ -37,31 +37,33 @@ interface PlacementExamProps {
 type ExamStep = 'intro' | 'exam' | 'results';
 
 // ============================================
-// Hook pour sélectionner des questions aléatoires
+// Tirage aléatoire des questions
 // ============================================
 
-function useRandomQuestions(count: number = 18): Question[] {
-  return useMemo(() => {
-    const categories = ['aqeedah', 'fiqh', 'seerah', 'quran', 'hadith', 'history'];
-    const selected: Question[] = [];
+/**
+ * 3 questions par catégorie (1 facile, 1 moyenne, 1 difficile), mélangées.
+ * Appelée au démarrage de l'examen (clic), jamais pendant le rendu : le tirage
+ * ne peut donc pas différer entre le serveur et le navigateur.
+ */
+function pickRandomQuestions(): Question[] {
+  const categories = ['aqeedah', 'fiqh', 'seerah', 'quran', 'hadith', 'history'];
+  const pick = <T,>(items: T[]): T => items[Math.floor(Math.random() * items.length)];
+  const selected: Question[] = [];
 
-    // Sélectionner 3 questions par catégorie (1 easy, 1 medium, 1 hard)
-    for (const category of categories) {
-      const catQuestions = allPlacementQuestions.filter(q => q.category === category);
-      
-      const easy = catQuestions.filter(q => q.difficulty === 'easy');
-      const medium = catQuestions.filter(q => q.difficulty === 'medium');
-      const hard = catQuestions.filter(q => q.difficulty === 'hard');
-
-      // Ajouter une question de chaque niveau
-      if (easy.length > 0) selected.push(easy[Math.floor(Math.random() * easy.length)]);
-      if (medium.length > 0) selected.push(medium[Math.floor(Math.random() * medium.length)]);
-      if (hard.length > 0) selected.push(hard[Math.floor(Math.random() * hard.length)]);
+  for (const category of categories) {
+    const catQuestions = allPlacementQuestions.filter(q => q.category === category);
+    for (const difficulty of ['easy', 'medium', 'hard'] as const) {
+      const pool = catQuestions.filter(q => q.difficulty === difficulty);
+      if (pool.length > 0) selected.push(pick(pool));
     }
+  }
 
-    // Mélanger les questions
-    return selected.sort(() => Math.random() - 0.5);
-  }, [count]);
+  // Mélange de Fisher-Yates (le tri par Math.random() - 0.5 est biaisé)
+  for (let i = selected.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [selected[i], selected[j]] = [selected[j], selected[i]];
+  }
+  return selected;
 }
 
 // ============================================
@@ -79,12 +81,13 @@ export default function PlacementExam({
   const [result, setResult] = useState<PlacementResult | null>(null);
   const [startTime, setStartTime] = useState<Date | null>(null);
 
-  const questions = useRandomQuestions(18);
+  const [questions, setQuestions] = useState<Question[]>([]);
   const currentQuestion = questions[currentIndex];
   const progress = ((currentIndex) / questions.length) * 100;
 
   // Démarrer le chronomètre
   const handleStart = useCallback(() => {
+    setQuestions(pickRandomQuestions());
     setStep('exam');
     setStartTime(new Date());
   }, []);

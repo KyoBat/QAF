@@ -71,6 +71,8 @@ export function QuizPlayer({
   const handleAnswer = (answer: number | number[] | boolean | string | string[][]) => {
     if (!currentQuestion) return;
 
+    // Appelé depuis un clic (onAnswer), jamais pendant le rendu : faux positif.
+    // eslint-disable-next-line react-hooks/purity
     const timeSpent = Math.round((Date.now() - questionStartTime) / 1000);
     const isCorrect = checkAnswer(currentQuestion, answer);
     const pointsEarned = isCorrect ? currentQuestion.points : 0;
@@ -119,6 +121,8 @@ export function QuizPlayer({
 
   const nextQuestion = () => {
     setShowExplanation(false);
+    // Appelé depuis le bouton « Suivant », jamais pendant le rendu : faux positif.
+    // eslint-disable-next-line react-hooks/purity
     setQuestionStartTime(Date.now());
 
     if (currentIndex < questions.length - 1) {
@@ -317,6 +321,7 @@ export function QuizPlayer({
       {currentQuestion && (
         <div className="bg-white dark:bg-gray-800 rounded-2xl p-6 shadow-sm border border-gray-200 dark:border-gray-700">
           <QuestionCard
+            key={currentQuestion.id}
             question={currentQuestion}
             locale={locale}
             onAnswer={handleAnswer}

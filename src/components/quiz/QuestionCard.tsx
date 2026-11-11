@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import { useState } from 'react';
 import { Question, LocalizedText } from '@/lib/data/quizzes/types';
 import { cn } from '@/lib/utils';
 
@@ -19,6 +19,21 @@ function getText(text: LocalizedText, locale: Locale): string {
   return text[locale] || text.fr;
 }
 
+type AnswerValue = QuestionCardProps['userAnswer'];
+
+function initialSelectedOptions(question: Question, userAnswer: AnswerValue): number[] {
+  if (question.type === 'single' && typeof userAnswer === 'number') return [userAnswer];
+  if (question.type === 'multiple' && Array.isArray(userAnswer)) return userAnswer as number[];
+  if (question.type === 'boolean' && typeof userAnswer === 'boolean') return [userAnswer ? 0 : 1];
+  return [];
+}
+
+function initialOrderedItems(question: Question, userAnswer: AnswerValue): number[] {
+  if (question.type !== 'order') return [];
+  if (Array.isArray(userAnswer)) return userAnswer as number[];
+  return question.orderItems ? question.orderItems.map((_, i) => i) : [];
+}
+
 export function QuestionCard({
   question,
   locale,
@@ -27,38 +42,17 @@ export function QuestionCard({
   userAnswer,
   disabled = false,
 }: QuestionCardProps) {
-  // State pour les sélections (single/multiple)
-  const [selectedOptions, setSelectedOptions] = useState<number[]>([]);
-  
-  // State pour l'ordre (order type)
-  const [orderedItems, setOrderedItems] = useState<number[]>([]);
+  // L'état part de la réponse déjà donnée (s'il y en a une). Le parent remonte
+  // le composant à chaque question (key={question.id}) : pas d'effet de
+  // réinitialisation, qui provoquait un second rendu en cascade.
+  const [selectedOptions, setSelectedOptions] = useState<number[]>(() =>
+    initialSelectedOptions(question, userAnswer)
+  );
+  const [orderedItems, setOrderedItems] = useState<number[]>(() =>
+    initialOrderedItems(question, userAnswer)
+  );
 
   const isRtl = locale === 'ar';
-
-  // Reset state when question changes
-  useEffect(() => {
-    // Initialize based on userAnswer or reset
-    if (userAnswer !== undefined) {
-      if (question.type === 'single' && typeof userAnswer === 'number') {
-        setSelectedOptions([userAnswer]);
-      } else if (question.type === 'multiple' && Array.isArray(userAnswer)) {
-        setSelectedOptions(userAnswer as number[]);
-      } else if (question.type === 'boolean' && typeof userAnswer === 'boolean') {
-        setSelectedOptions([userAnswer ? 0 : 1]);
-      } else if (question.type === 'order' && Array.isArray(userAnswer)) {
-        setOrderedItems(userAnswer as number[]);
-      } else {
-        setSelectedOptions([]);
-        setOrderedItems([]);
-      }
-    } else {
-      setSelectedOptions([]);
-      // Initialize order items with default order
-      if (question.type === 'order' && question.orderItems) {
-        setOrderedItems(question.orderItems.map((_, i) => i));
-      }
-    }
-  }, [question.id, userAnswer, question.type, question.orderItems]);
 
   const handleSingleSelect = (index: number) => {
     if (disabled) return;
