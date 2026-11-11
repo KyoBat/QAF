@@ -6,14 +6,13 @@
 
 'use client'
 
-import { ExternalLink, Download, Play } from 'lucide-react'
+import { ExternalLink, Download, Play, Video, FileText, Headphones, Link as LinkIcon } from 'lucide-react'
 import { Card } from '@/components/ui/card'
 import { Badge } from '@/components/ui/badge'
 import { Button } from '@/components/ui/button'
 import { useLocale } from '@/components/providers'
 import { cn } from '@/lib/utils'
 import { 
-  getResourceIcon, 
   isExternalUrl,
   getResourceTypeLabel 
 } from '@/lib/utils/resources'
@@ -24,10 +23,20 @@ interface ResourceCardProps {
   className?: string
 }
 
+/** Composant déclaré au niveau du module : l'icône vient d'une table fixe. */
+function ResourceIcon({ type, className }: { type: CourseResource['type']; className?: string }) {
+  switch (type) {
+    case 'video': return <Video className={className} />
+    case 'article':
+    case 'pdf': return <FileText className={className} />
+    case 'audio': return <Headphones className={className} />
+    default: return <LinkIcon className={className} />
+  }
+}
+
 export function ResourceCard({ resource, className }: ResourceCardProps) {
   const { locale, isRTL } = useLocale()
   
-  const Icon = getResourceIcon(resource.type)
   const typeLabel = getResourceTypeLabel(resource.type, locale)
   const isExternal = isExternalUrl(resource.url)
   const isVideo = resource.type === 'video'
@@ -41,7 +50,7 @@ export function ResourceCard({ resource, className }: ResourceCardProps) {
     )}>
       {/* Icon */}
       <div className="flex-shrink-0 w-10 h-10 rounded-lg bg-primary/10 flex items-center justify-center">
-        <Icon className="h-5 w-5 text-primary" />
+        <ResourceIcon type={resource.type} className="h-5 w-5 text-primary" />
       </div>
 
       {/* Content */}

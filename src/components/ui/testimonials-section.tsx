@@ -161,7 +161,7 @@ export default function TestimonialsSection() {
                 'text-lg sm:text-xl text-foreground text-center mb-8 leading-relaxed',
                 isRTL && 'font-arabic'
               )}>
-                "{testimonial.quote}"
+                &quot;{testimonial.quote}&quot;
               </blockquote>
 
               {/* Avatar & Info */}
