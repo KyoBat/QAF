@@ -31,14 +31,16 @@ const nextConfig = {
   // Code splitting et tree-shaking optimisés
   experimental: {
     optimizePackageImports: ['framer-motion', 'lucide-react'],
-    // /api/og lit polices et illustrations sur le disque : les embarquer dans la fonction Vercel
-    outputFileTracingIncludes: {
-      '/api/og': [
-        './assets/og-fonts/**/*',
-        './public/og-image.png',
-        './public/images/courses/**/*.{png,jpg,jpeg,webp}',
-      ],
-    },
+  },
+
+  // /api/og lit polices et illustrations sur le disque : les embarquer dans la fonction Vercel
+  // (option sortie de `experimental` depuis Next 15)
+  outputFileTracingIncludes: {
+    '/api/og': [
+      './assets/og-fonts/**/*',
+      './public/og-image.png',
+      './public/images/courses/**/*.{png,jpg,jpeg,webp}',
+    ],
   },
 
   // Headers de cache pour les assets statiques

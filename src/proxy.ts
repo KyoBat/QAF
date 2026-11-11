@@ -1,5 +1,5 @@
 /**
- * Middleware Next.js pour la gestion i18n et SEO
+ * Proxy Next.js (ex-middleware, renommé en Next 16) pour la gestion i18n et SEO
  * - Détection langue depuis Accept-Language header pour les nouvelles visites
  * - Redirection non-www → www
  * - Nettoyage des query params inutiles
@@ -30,7 +30,7 @@ function detectLocale(request: NextRequest): Locale {
   return DEFAULT_LOCALE
 }
 
-export function middleware(request: NextRequest) {
+export function proxy(request: NextRequest) {
   const { hostname, pathname, protocol } = request.nextUrl
 
   // Dev: skip redirections
@@ -82,7 +82,7 @@ export function middleware(request: NextRequest) {
 }
 
 export const config = {
-  // Appliquer le middleware à toutes les routes sauf les fichiers statiques
+  // Appliquer le proxy à toutes les routes sauf les fichiers statiques
   matcher: [
     '/((?!_next/static|_next/image|favicon.ico|icons|images|fonts|sw.js|site.webmanifest|api).*)',
   ],

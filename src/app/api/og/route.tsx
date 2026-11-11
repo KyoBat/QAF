@@ -21,6 +21,16 @@ export const runtime = 'nodejs'
 const W = 1200
 const H = 630
 
+/**
+ * Cache CDN/navigateur des images. Next ≤ 14 l'appliquait d'office ; depuis
+ * Next 15 le défaut est `max-age=0` : sans cette ligne, chaque aperçu
+ * WhatsApp/Facebook referait le rendu. Le cache Vercel est purgé à chaque
+ * déploiement, donc une image reste à jour avec les données des cours.
+ */
+const CACHE_CONTROL = process.env.NODE_ENV === 'development'
+  ? 'no-cache, no-store'
+  : 'public, immutable, no-transform, max-age=31536000'
+
 const MAX_SLUG = 120
 
 const TAGLINE = {
@@ -172,6 +182,6 @@ export async function GET(request: NextRequest) {
         ) : null}
       </div>
     ),
-    { width: W, height: H, fonts }
+    { width: W, height: H, fonts, headers: { 'cache-control': CACHE_CONTROL } }
   )
 }

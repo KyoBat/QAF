@@ -16,6 +16,10 @@ const eslintConfig = defineConfig([
       }],
       "@typescript-eslint/no-explicit-any": "warn",
       "react-hooks/exhaustive-deps": "warn",
+      // eslint-plugin-react-hooks 7.1 signale en erreur les états initialisés
+      // depuis localStorage dans un useEffect (motif voulu, évite un écart
+      // d'hydratation SSR). Signalé, mais non bloquant.
+      "react-hooks/set-state-in-effect": "warn",
     },
   },
   {

@@ -1,9 +1,11 @@
+/* Animations personnalisées. Un @import doit précéder toute règle : placé après
+   les @tailwind (qui génèrent ~3300 lignes), Turbopack refuse de compiler.
+   Webpack (Next 14) le chargeait déjà avant le reste : l'ordre de cascade est inchangé. */
+@import '../styles/animations.css';
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
-/* Import custom animations */
-@import '../styles/animations.css';
 
 @layer base {
   :root {
