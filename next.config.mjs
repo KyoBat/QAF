@@ -36,6 +36,21 @@ const nextConfig = {
   // Headers de cache pour les assets statiques
   async headers() {
     return [
+      // En-têtes de sécurité sur toutes les réponses.
+      // CSP volontairement limitée aux directives qui ne cassent aucune ressource
+      // tierce (YouTube, Mawaqit, Turnstile, analytics) : anti-clickjacking,
+      // pas de <base> ni de plugin injectables, formulaires vers le site seulement.
+      {
+        source: '/:path*',
+        headers: [
+          { key: 'Content-Security-Policy', value: "frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'" },
+          { key: 'X-Frame-Options', value: 'SAMEORIGIN' },
+          { key: 'X-Content-Type-Options', value: 'nosniff' },
+          { key: 'Referrer-Policy', value: 'strict-origin-when-cross-origin' },
+          { key: 'Permissions-Policy', value: 'camera=(), microphone=(), geolocation=(), payment=(), usb=()' },
+          { key: 'Strict-Transport-Security', value: 'max-age=63072000' },
+        ],
+      },
       // Toutes les pages HTML : signaler aux bots qu'elles sont indexables
       {
         source: '/((?!api|_next/static|_next/image|favicon.ico|icons|images|fonts|sw.js|site.webmanifest).*)',

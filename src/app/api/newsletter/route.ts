@@ -6,6 +6,9 @@ import { isSpamEmail, verifyTurnstile, logRejection, hashIp } from '@/lib/utils/
 const BREVO_API_KEY = process.env.BREVO_API_KEY;
 const BREVO_LIST_ID = parseInt(process.env.BREVO_LIST_ID || '2', 10); // Default list ID
 
+const LOCALES = ['fr', 'ar', 'en'];
+const MAX_EMAIL_LENGTH = 254;
+
 interface BrevoError {
   message?: string;
   code?: string;
@@ -16,7 +19,17 @@ export async function POST(request: NextRequest) {
     const clientIp = getClientIp(request);
     const ipHash = hashIp(clientIp);
 
-    const { email, locale, website, token } = await request.json();
+    const body: unknown = await request.json().catch(() => null);
+    if (!body || typeof body !== 'object' || Array.isArray(body)) {
+      return NextResponse.json(
+        { error: 'Requête invalide', code: 'INVALID_BODY' },
+        { status: 400 }
+      );
+    }
+    const { email: rawEmail, locale: rawLocale, website, token } = body as Record<string, unknown>;
+    // Seules des chaînes sont acceptées (un tableau ou un objet passerait sinon la regex)
+    const email = typeof rawEmail === 'string' ? rawEmail.trim() : '';
+    const locale = typeof rawLocale === 'string' && LOCALES.includes(rawLocale) ? rawLocale : 'fr';
 
     // ── Couche honeypot : champ caché rempli = bot → succès factice (ne pas révéler le filtre)
     if (website) {
@@ -68,7 +81,7 @@ export async function POST(request: NextRequest) {
     }
 
     // ── Couche Turnstile (opt-in) : active seulement si TURNSTILE_SECRET_KEY est défini
-    const turnstileOk = await verifyTurnstile(token, clientIp);
+    const turnstileOk = await verifyTurnstile(typeof token === 'string' ? token : null, clientIp);
     if (!turnstileOk) {
       logRejection('turnstile', 'echec_verification', { ipHash });
       return NextResponse.json(
@@ -105,30 +118,12 @@ export async function POST(request: NextRequest) {
         attributes: {
           SOURCE: 'website_newsletter',
           SIGNUP_DATE: new Date().toISOString(),
-          LANGUE: locale || 'fr',
+          LANGUE: locale,
         },
       }),
     });
 
     if (response.ok) {
-      // Notify n8n for welcome email (fire-and-forget)
-      const n8nUrl = process.env.N8N_WEBHOOK_URL;
-      const n8nSecret = process.env.N8N_WEBHOOK_SECRET;
-      if (n8nUrl && n8nSecret) {
-        fetch(n8nUrl, {
-          method: 'POST',
-          headers: {
-            'Content-Type': 'application/json',
-            'x-webhook-secret': n8nSecret,
-          },
-          body: JSON.stringify({
-            email,
-            locale: locale || 'fr',
-            date: new Date().toISOString().split('T')[0],
-          }),
-        }).catch((err) => console.error('[N8N] Failed to notify webhook:', err));
-      }
-
       return NextResponse.json(
         { 
           success: true, 
@@ -171,6 +166,7 @@ export async function POST(request: NextRequest) {
 }
 
 function isValidEmail(email: string): boolean {
+  if (email.length > MAX_EMAIL_LENGTH) return false;
   const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
   return emailRegex.test(email);
 }
