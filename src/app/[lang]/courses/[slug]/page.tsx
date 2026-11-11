@@ -4,6 +4,7 @@ import { CourseDetailClient } from '@/app/courses/[slug]/CourseDetailClient'
 import { CourseJsonLd, BreadcrumbJsonLd } from '@/components/seo'
 import type { Locale } from '@/locales'
 import { buildHreflangAlternates } from '@/lib/utils'
+import { categoryLabel as getCategoryLabel, courseBadge, ogImageUrl as buildOgImageUrl } from '@/lib/og'
 
 export const revalidate = 3600
 
@@ -32,30 +33,9 @@ export async function generateMetadata({ params }: CoursePageProps) {
 
   const title = course.title[locale] ?? course.title.fr
   const description = course.description[locale] ?? course.description.fr
-  const lessonsCount = course.lessons.length
-
-  const categoryNames: Record<string, Record<Locale, string>> = {
-    tajweed: { fr: 'Tajweed', ar: 'التجويد', en: 'Tajweed' },
-    fiqh: { fr: 'Fiqh', ar: 'الفقه', en: 'Fiqh' },
-    aqeedah: { fr: 'Aqeedah', ar: 'العقيدة', en: 'Aqeedah' },
-    seerah: { fr: 'Seerah', ar: 'السيرة', en: 'Seerah' },
-    hadith: { fr: 'Hadith', ar: 'الحديث', en: 'Hadith' },
-    history: { fr: 'Histoire Islamique', ar: 'التاريخ الإسلامي', en: 'Islamic History' },
-    spirituality: { fr: 'Spiritualité', ar: 'التزكية', en: 'Spirituality' },
-  }
-  const categoryLabel = categoryNames[course.category]?.[locale] ?? course.category
-  const badge = locale === 'ar'
-    ? `${lessonsCount} درس مجاني`
-    : locale === 'en'
-      ? `${lessonsCount} free lesson${lessonsCount > 1 ? 's' : ''}`
-      : `${lessonsCount} leçon${lessonsCount > 1 ? 's' : ''} gratuite${lessonsCount > 1 ? 's' : ''}`
-
-  const ogImageUrl = `https://www.tahalearn.com/api/og?${new URLSearchParams({
-    title,
-    sub: categoryLabel,
-    img: (course.image ?? '/og-image.png').replace(/\.svg$/, '.png'),
-    badge,
-  }).toString()}`
+  const categoryLabel = getCategoryLabel(course.category, locale)
+  const badge = courseBadge(course.lessons.length, locale)
+  const ogImageUrl = buildOgImageUrl(locale, slug)
 
   return {
     title,

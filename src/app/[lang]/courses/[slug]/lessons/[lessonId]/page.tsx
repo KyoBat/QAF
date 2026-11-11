@@ -4,6 +4,7 @@ import { LessonPageClient } from '@/app/courses/[slug]/lessons/[lessonId]/Lesson
 import { BreadcrumbJsonLd, LearningResourceJsonLd } from '@/components/seo'
 import type { Locale } from '@/locales'
 import { buildHreflangAlternates } from '@/lib/utils'
+import { ogImageUrl as buildOgImageUrl } from '@/lib/og'
 
 const LOCALES: Locale[] = ['fr', 'ar', 'en']
 
@@ -48,16 +49,7 @@ export async function generateMetadata({ params }: LessonPageProps) {
         ? `Lesson ${data.lessonNumber} of ${data.totalLessons} in "${courseTitle}".`
         : `Leçon ${data.lessonNumber} sur ${data.totalLessons} du cours "${courseTitle}". Apprenez ${lessonTitle} avec preuves du Coran et Sunna.`
 
-  const badge = locale === 'ar'
-    ? `درس ${data.lessonNumber} / ${data.totalLessons}`
-    : `Lesson ${data.lessonNumber} / ${data.totalLessons}`
-
-  const ogImageUrl = `https://www.tahalearn.com/api/og?${new URLSearchParams({
-    title: lessonTitle,
-    sub: courseTitle,
-    img: (data.course.image ?? '/og-image.png').replace(/\.svg$/, '.png'),
-    badge,
-  }).toString()}`
+  const ogImageUrl = buildOgImageUrl(locale, slug, lessonId)
 
   return {
     title: `${lessonTitle} | ${courseTitle}`,
