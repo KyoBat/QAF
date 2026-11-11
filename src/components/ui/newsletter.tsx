@@ -21,6 +21,8 @@ export function NewsletterForm({ variant = 'default', className }: NewsletterFor
   const [turnstileReset, setTurnstileReset] = useState(0)
   const [status, setStatus] = useState<'idle' | 'loading' | 'success' | 'error'>('idle')
   const [errorMessage, setErrorMessage] = useState('')
+  // Double confirmation : l'inscription n'est effective qu'après le clic dans le mail
+  const [pending, setPending] = useState(false)
   const onToken = useCallback((tk: string) => setToken(tk), [])
 
   const handleSubmit = async (e: React.FormEvent) => {
@@ -46,6 +48,7 @@ export function NewsletterForm({ variant = 'default', className }: NewsletterFor
       const data = await response.json()
 
       if (response.ok && data.success) {
+        setPending(data.pending === true)
         setStatus('success')
         setEmail('')
       } else {
@@ -68,7 +71,7 @@ export function NewsletterForm({ variant = 'default', className }: NewsletterFor
         {status === 'success' ? (
           <div className="flex items-center gap-2 text-emerald-600 dark:text-emerald-400">
             <CheckCircle2 className="h-5 w-5" />
-            <span className="text-sm">{t('newsletter.success')}</span>
+            <span className="text-sm">{t(pending ? 'newsletter.pending' : 'newsletter.success')}</span>
           </div>
         ) : (
           <form onSubmit={handleSubmit} className="flex gap-2">
@@ -123,10 +126,10 @@ export function NewsletterForm({ variant = 'default', className }: NewsletterFor
               <CheckCircle2 className="h-6 w-6 text-emerald-600 dark:text-emerald-400" />
             </div>
             <p className="text-lg font-medium text-emerald-700 dark:text-emerald-300">
-              {t('newsletter.successTitle')}
+              {t(pending ? 'newsletter.pendingTitle' : 'newsletter.successTitle')}
             </p>
             <p className="text-sm text-emerald-600/80 dark:text-emerald-400/80 text-center">
-              {t('newsletter.successMessage')}
+              {t(pending ? 'newsletter.pendingMessage' : 'newsletter.successMessage')}
             </p>
           </div>
         ) : (
@@ -192,10 +195,10 @@ export function NewsletterForm({ variant = 'default', className }: NewsletterFor
           <CheckCircle2 className="h-5 w-5 text-emerald-600 dark:text-emerald-400 shrink-0" />
           <div>
             <p className="font-medium text-emerald-700 dark:text-emerald-300">
-              {t('newsletter.successTitle')}
+              {t(pending ? 'newsletter.pendingTitle' : 'newsletter.successTitle')}
             </p>
             <p className="text-sm text-emerald-600/80 dark:text-emerald-400/80">
-              {t('newsletter.successMessage')}
+              {t(pending ? 'newsletter.pendingMessage' : 'newsletter.successMessage')}
             </p>
           </div>
         </div>

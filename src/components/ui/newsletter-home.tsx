@@ -25,6 +25,8 @@ export default function NewsletterHome({ className }: NewsletterHomeProps) {
   const [turnstileReset, setTurnstileReset] = useState(0)
   const [status, setStatus] = useState<'idle' | 'loading' | 'success' | 'error'>('idle')
   const [errorMessage, setErrorMessage] = useState('')
+  // Double confirmation : l'inscription n'est effective qu'après le clic dans le mail
+  const [pending, setPending] = useState(false)
   const onToken = useCallback((tk: string) => setToken(tk), [])
 
   const handleSubmit = async (e: React.FormEvent) => {
@@ -47,11 +49,16 @@ export default function NewsletterHome({ className }: NewsletterHomeProps) {
         body: JSON.stringify({ email, locale, website, token }),
       })
 
+      const data = await response.json().catch(() => ({}))
+
       if (response.ok) {
+        const isPending = data.pending === true
+        setPending(isPending)
         setStatus('success')
         setEmail('')
-        // Reset after 5 seconds
-        setTimeout(() => setStatus('idle'), 5000)
+        // Retour au formulaire après 5 s, sauf si l'on attend la confirmation :
+        // le message « vérifiez votre boîte mail » doit rester visible.
+        if (!isPending) setTimeout(() => setStatus('idle'), 5000)
       } else {
         setStatus('error')
         setErrorMessage(t('newsletter.errorGeneric'))
@@ -82,10 +89,10 @@ export default function NewsletterHome({ className }: NewsletterHomeProps) {
               <CheckCircle2 className="h-16 w-16 text-primary mx-auto mb-4" />
             </motion.div>
             <h3 className={cn('text-2xl font-bold text-foreground mb-2', isRTL && 'font-arabic')}>
-              {t('newsletter.successTitle')}
+              {t(pending ? 'newsletter.pendingTitle' : 'newsletter.successTitle')}
             </h3>
             <p className="text-muted-foreground max-w-md mx-auto">
-              {t('newsletter.successMessage')}
+              {t(pending ? 'newsletter.pendingMessage' : 'newsletter.successMessage')}
             </p>
           </CardContent>
         </Card>

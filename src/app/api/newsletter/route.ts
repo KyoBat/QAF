@@ -8,6 +8,32 @@ const BREVO_LIST_ID = parseInt(process.env.BREVO_LIST_ID || '2', 10); // Default
 
 const LOCALES = ['fr', 'ar', 'en'];
 const MAX_EMAIL_LENGTH = 254;
+const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.tahalearn.com';
+
+/**
+ * Double confirmation (RGPD) : active dès qu'un modèle Brevo de type
+ * « double opt-in » est configuré. Un modèle par langue
+ * (BREVO_DOI_TEMPLATE_ID_FR / _AR / _EN), BREVO_DOI_TEMPLATE_ID en secours.
+ * Sans modèle : ajout direct à la liste, comme avant.
+ */
+function doiTemplateId(locale: string): number | null {
+  const raw =
+    process.env[`BREVO_DOI_TEMPLATE_ID_${locale.toUpperCase()}`] ||
+    process.env.BREVO_DOI_TEMPLATE_ID;
+  const id = raw ? parseInt(raw, 10) : NaN;
+  return Number.isInteger(id) && id > 0 ? id : null;
+}
+
+/**
+ * Succès factice renvoyé aux robots filtrés : identique à une vraie réponse,
+ * y compris le mode « confirmation en attente », pour ne pas révéler le filtre.
+ */
+function fakeSuccess(locale: string, mode: string) {
+  return NextResponse.json(
+    { success: true, message: 'Inscription réussie !', mode, pending: doiTemplateId(locale) !== null },
+    { status: 200 }
+  );
+}
 
 interface BrevoError {
   message?: string;
@@ -34,10 +60,7 @@ export async function POST(request: NextRequest) {
     // ── Couche honeypot : champ caché rempli = bot → succès factice (ne pas révéler le filtre)
     if (website) {
       logRejection('honeypot', 'champ_rempli', { ipHash });
-      return NextResponse.json(
-        { success: true, message: 'Inscription réussie !', mode: 'honeypot' },
-        { status: 200 }
-      );
+      return fakeSuccess(locale, 'honeypot');
     }
 
     // ── Couche rate-limit : 3 requêtes par minute par IP
@@ -74,10 +97,7 @@ export async function POST(request: NextRequest) {
     const spam = isSpamEmail(email);
     if (spam.spam) {
       logRejection('heuristics', spam.reason || 'spam', { ipHash });
-      return NextResponse.json(
-        { success: true, message: 'Inscription réussie !', mode: 'filtered' },
-        { status: 200 }
-      );
+      return fakeSuccess(locale, 'filtered');
     }
 
     // ── Couche Turnstile (opt-in) : active seulement si TURNSTILE_SECRET_KEY est défini
@@ -103,6 +123,47 @@ export async function POST(request: NextRequest) {
       );
     }
 
+    const attributes = {
+      SOURCE: 'website_newsletter',
+      SIGNUP_DATE: new Date().toISOString(),
+      LANGUE: locale,
+    };
+
+    // ── Double confirmation : Brevo envoie le mail, le contact n'entre dans la
+    // liste qu'après le clic. Une adresse saisie par un tiers n'est donc jamais inscrite.
+    const templateId = doiTemplateId(locale);
+    if (templateId !== null) {
+      const doiResponse = await fetch('https://api.brevo.com/v3/contacts/doubleOptinConfirmation', {
+        method: 'POST',
+        headers: {
+          'accept': 'application/json',
+          'content-type': 'application/json',
+          'api-key': BREVO_API_KEY,
+        },
+        body: JSON.stringify({
+          email,
+          includeListIds: [BREVO_LIST_ID],
+          templateId,
+          redirectionUrl: `${SITE_URL}/${locale}/newsletter/confirmee`,
+          attributes,
+        }),
+      });
+
+      if (doiResponse.ok) {
+        return NextResponse.json(
+          { success: true, message: 'Vérifiez votre boîte mail', mode: 'doi', pending: true },
+          { status: 200 }
+        );
+      }
+
+      const doiError: BrevoError = await doiResponse.json().catch(() => ({}));
+      console.error('Brevo DOI error:', doiResponse.status, doiError);
+      return NextResponse.json(
+        { error: 'Erreur lors de l\'inscription', code: 'BREVO_ERROR' },
+        { status: 500 }
+      );
+    }
+
     // Add contact to Brevo
     const response = await fetch('https://api.brevo.com/v3/contacts', {
       method: 'POST',
@@ -115,11 +176,7 @@ export async function POST(request: NextRequest) {
         email: email,
         listIds: [BREVO_LIST_ID],
         updateEnabled: true, // Update if contact already exists
-        attributes: {
-          SOURCE: 'website_newsletter',
-          SIGNUP_DATE: new Date().toISOString(),
-          LANGUE: locale,
-        },
+        attributes,
       }),
     });
 
